@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698354881961,
+  "endTime": 1698356048700,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65244,
+      "num": 30433,
+      "word": "美国加州州长纽森访华",
+      "onboard_time": 1698352933,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 64853,
       "num": 64853,
       "word": "秦岚带了三十多套衣服",
@@ -443,14 +451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 39819,
-      "num": 27719,
-      "word": "美国加州州长纽森访华",
-      "onboard_time": 1698352933,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 39193,
       "num": 56980,
       "word": "法考主观题",
@@ -475,20 +475,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14922,
-      "num": 14922,
+      "raw_hot": 17854,
+      "num": 17854,
+      "word": "陕西发现元稹第二任妻子裴淑墓",
+      "onboard_time": 1698354374,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15415,
+      "num": 15415,
       "word": "欺骗自己的不是眼睛而是大脑",
       "onboard_time": 1698350592,
       "rank": 40,
       "category": "幽默"
     },
     {
-      "raw_hot": 12920,
-      "num": 13706,
-      "word": "陕西发现元稹第二任妻子裴淑墓",
-      "onboard_time": 1698354374,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 14917,
+      "num": 14917,
+      "word": "刘诗诗清丽绿衣路透",
+      "onboard_time": 1698355393,
+      "rank": 40,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 05:14:41
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 05:34:08
 </p>
 </blockquote>
 <p>
@@ -11151,6 +11151,12 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E8%AE%BF%E5%8D%8E%23" target="weibo">
+美国加州州长纽森访华（热度：65244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E6%A2%A6%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%23" target="weibo">
 逐梦杭州亚残运会（热度：65096）
 </a>
@@ -11397,12 +11403,6 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E8%AE%BF%E5%8D%8E%23" target="weibo">
-美国加州州长纽森访华（热度：39819）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%8A%A9%E6%AE%8B%E9%BB%91%E7%A7%91%E6%8A%80%23" target="weibo">
 亚残运会上的助残黑科技（热度：39232）
 </a>
@@ -11523,6 +11523,12 @@ F1（热度：36935）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93%23" target="weibo">
+陕西发现元稹第二任妻子裴淑墓（热度：17854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B%23" target="weibo">
 欧冠联赛（热度：17265）
 </a>
@@ -11560,7 +11566,13 @@ F1（热度：36935）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%BA%E9%AA%97%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%BC%E7%9D%9B%E8%80%8C%E6%98%AF%E5%A4%A7%E8%84%91%23" target="weibo">
-欺骗自己的不是眼睛而是大脑（热度：14922）
+欺骗自己的不是眼睛而是大脑（热度：15415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%B8%85%E4%B8%BD%E7%BB%BF%E8%A1%A3%E8%B7%AF%E9%80%8F%23" target="weibo">
+刘诗诗清丽绿衣路透（热度：14917）
 </a>
 </li>
 
@@ -11579,12 +11591,6 @@ F1（热度：36935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E6%88%BF%23" target="weibo">
 宠物界的梦中情房（热度：13022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93%23" target="weibo">
-陕西发现元稹第二任妻子裴淑墓（热度：12920）
 </a>
 </li>
 
