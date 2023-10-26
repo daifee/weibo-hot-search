@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698326431434,
+  "endTime": 1698327249380,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -57,6 +57,22 @@
       "onboard_time": 1698314555,
       "rank": 5,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1910034,
+      "num": 520697,
+      "word": "赵丽颖对接要求美团买菜道歉",
+      "onboard_time": 1698326316,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1853732,
+      "num": 1853732,
+      "word": "反垄断办回应李佳琦被质疑涉嫌控价",
+      "onboard_time": 1698323557,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1843798,
@@ -121,14 +137,6 @@
       "onboard_time": 1698284673,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1526865,
-      "num": 1526865,
-      "word": "反垄断办回应李佳琦被质疑涉嫌控价",
-      "onboard_time": 1698323557,
-      "rank": 4,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1517189,
@@ -313,6 +321,14 @@
       "onboard_time": 1698315273,
       "rank": 18,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 906953,
+      "num": 906953,
+      "word": "小米14Pro纯钛",
+      "onboard_time": 1698326437,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 905475,
@@ -539,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 612170,
+      "num": 612170,
+      "word": "陈牧驰此沙拳击比赛打到就医",
+      "onboard_time": 1698324393,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 594946,
       "num": 594946,
       "word": "迪丽热巴社交名片酸奶疙瘩",
@@ -553,14 +577,6 @@
       "onboard_time": 1698324694,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 584257,
-      "num": 584257,
-      "word": "陈牧驰此沙拳击比赛打到就医",
-      "onboard_time": 1698324393,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 578522,
@@ -851,6 +867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 413762,
+      "num": 442173,
+      "word": "小米龙晶玻璃",
+      "onboard_time": 1698325955,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 404292,
       "num": 404292,
       "word": "金采源否认吸毒传闻",
@@ -1035,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 323780,
-      "num": 323780,
-      "word": "赵丽颖对接要求美团买菜道歉",
-      "onboard_time": 1698326316,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323567,
       "num": 323567,
       "word": "舒淇狗啃刘海",
@@ -1115,12 +1131,28 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 308996,
+      "num": 308996,
+      "word": "狐妖小红娘镜花缘篇全新PV",
+      "onboard_time": 1698325356,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308621,
       "num": 308621,
       "word": "张艺兴偶遇尖嘴动物",
       "onboard_time": 1698313414,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306691,
+      "num": 306691,
+      "word": "钟楚曦张云龙体面",
+      "onboard_time": 1698326556,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 305214,
@@ -1227,14 +1259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 289518,
-      "num": 442173,
-      "word": "小米龙晶玻璃",
-      "onboard_time": 1698325955,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 287761,
       "num": 287761,
       "word": "TheShy的剑魔",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1698318155,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 278608,
-      "num": 278608,
-      "word": "狐妖小红娘镜花缘篇全新PV",
-      "onboard_time": 1698325356,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 277437,
@@ -1459,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250854,
+      "num": 250854,
+      "word": "巴黎世家发圈四千块",
+      "onboard_time": 1698326256,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 250608,
       "num": 1568520,
       "word": "整理房间误扔10万元被路人送还",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1698282695,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249348,
+      "num": 383102,
+      "word": "中国6名航天员太空拍全家福",
+      "onboard_time": 1698322354,
+      "rank": 31,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 249328,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1698287913,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239188,
-      "num": 239188,
-      "word": "中国6名航天员太空拍全家福",
-      "onboard_time": 1698322354,
-      "rank": 31,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 238132,
@@ -1667,6 +1691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223729,
+      "num": 223729,
+      "word": "XHW先到赛点",
+      "onboard_time": 1698326376,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 223692,
+      "num": 249186,
+      "word": "80岁大爷拿铲子刮巨型刮刮乐",
+      "onboard_time": 1698324335,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222895,
       "num": 222895,
       "word": "iPhone15被指玻璃背板易碎",
@@ -1681,14 +1721,6 @@
       "onboard_time": 1698321814,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222000,
-      "num": 222000,
-      "word": "80岁大爷拿铲子刮巨型刮刮乐",
-      "onboard_time": 1698324335,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220998,
@@ -2131,6 +2163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191148,
+      "num": 475240,
+      "word": "京东采销直播间爆了",
+      "onboard_time": 1698325235,
+      "rank": 14,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 191116,
       "num": 191116,
       "word": "周深王者荣耀灵魂画手",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1698300095,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188346,
+      "num": 194343,
+      "word": "江新林班主任激动的几天没睡好觉",
+      "onboard_time": 1698326556,
+      "rank": 37,
+      "category": "国内要闻,教育"
     },
     {
       "raw_hot": 187339,
@@ -2273,14 +2321,6 @@
       "onboard_time": 1698232064,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 175821,
-      "num": 175821,
-      "word": "巴黎世家发圈四千块",
-      "onboard_time": 1698326256,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 175113,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1698238662,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158956,
-      "num": 158956,
-      "word": "XHW先到赛点",
-      "onboard_time": 1698326376,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 158788,
@@ -2761,14 +2793,6 @@
       "onboard_time": 1698286654,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125135,
-      "num": 475240,
-      "word": "京东采销直播间爆了",
-      "onboard_time": 1698325235,
-      "rank": 14,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 123362,
@@ -3105,6 +3129,14 @@
       "onboard_time": 1698234877,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23279,
+      "num": 1431614,
+      "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+      "onboard_time": 1698327095,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 20416,
