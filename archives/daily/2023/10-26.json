@@ -1,7 +1,23 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698276848014,
+  "endTime": 1698282650741,
   "band_list": [
+    {
+      "raw_hot": 2901409,
+      "num": 2901409,
+      "word": "医生不建议用的3种护肤品",
+      "onboard_time": 1698278919,
+      "rank": 0,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 2106468,
+      "num": 2106468,
+      "word": "如果不调休2024年假期将是这样的",
+      "onboard_time": 1698280718,
+      "rank": 1,
+      "category": "情感"
+    },
     {
       "raw_hot": 1611941,
       "num": 1611941,
@@ -9,6 +25,14 @@
       "onboard_time": 1698242620,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1408220,
+      "num": 1408220,
+      "word": "皮肤没问题买几十块婴儿面霜也行",
+      "onboard_time": 1698239801,
+      "rank": 1,
+      "category": "美妆"
     },
     {
       "raw_hot": 1228649,
@@ -27,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1058084,
-      "num": 1058084,
-      "word": "皮肤没问题买几十块婴儿面霜也行",
-      "onboard_time": 1698239801,
-      "rank": 1,
-      "category": "美妆"
+      "raw_hot": 1118223,
+      "num": 504038,
+      "word": "西南科技大学馄饨阿姨事件",
+      "onboard_time": 1698229778,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1033436,
@@ -43,20 +67,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 932078,
-      "num": 306358,
-      "word": "西南科技大学馄饨阿姨事件",
-      "onboard_time": 1698229778,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713418,
-      "num": 713418,
+      "raw_hot": 984037,
+      "num": 984037,
       "word": "奶奶拍身份证照片全家都入镜了",
       "onboard_time": 1698274825,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733620,
+      "num": 202285,
+      "word": "中俄列车大劫案有多可怕",
+      "onboard_time": 1698281319,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 696659,
+      "num": 696659,
+      "word": "老师吐槽课间圈养现象愈发严重",
+      "onboard_time": 1698280899,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 692788,
@@ -75,12 +107,44 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 578522,
+      "num": 578522,
+      "word": "李沁官宣出演七夜雪",
+      "onboard_time": 1698278255,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 572476,
+      "num": 572476,
+      "word": "染上毒瘾后外貌的真实变化",
+      "onboard_time": 1698248258,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513378,
+      "num": 513378,
+      "word": "专家建议春节增加2天休假",
+      "onboard_time": 1698280541,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445292,
       "num": 445292,
       "word": "倪妮手串",
       "onboard_time": 1698246102,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426656,
+      "num": 426656,
+      "word": "迪丽热巴 当年好奇的问题突然窜入脑海",
+      "onboard_time": 1698278075,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 383911,
@@ -91,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360417,
-      "num": 243263,
-      "word": "染上毒瘾后外貌的真实变化",
-      "onboard_time": 1698248258,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 359526,
+      "num": 359526,
+      "word": "第一批过年回家的选手已经十月辞职了",
+      "onboard_time": 1698251487,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 344845,
@@ -105,6 +169,14 @@
       "onboard_time": 1698242920,
       "rank": 6,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 340723,
+      "num": 340723,
+      "word": "七夜雪阵容官宣",
+      "onboard_time": 1698278015,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 328830,
@@ -131,14 +203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 315931,
-      "num": 315931,
-      "word": "第一批过年回家的选手已经十月辞职了",
-      "onboard_time": 1698251487,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 309302,
       "num": 309302,
       "word": "土耳其股指熔断",
@@ -153,6 +217,14 @@
       "onboard_time": 1698228214,
       "rank": 22,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 292280,
+      "num": 292280,
+      "word": "直播神十七发射",
+      "onboard_time": 1698281859,
+      "rank": 17,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 290219,
@@ -171,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277437,
+      "num": 277437,
+      "word": "七夜雪",
+      "onboard_time": 1698282037,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275465,
+      "num": 275465,
+      "word": "iOS17.1修复iPhone12辐射问题",
+      "onboard_time": 1698281678,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "5名工作人员接触到福岛核污染水",
@@ -187,6 +275,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261022,
+      "num": 261022,
+      "word": "周雨彤又演现代剧了",
+      "onboard_time": 1698277831,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258055,
+      "num": 258055,
+      "word": "李秀根跳我姓石",
+      "onboard_time": 1698281139,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255270,
+      "num": 255270,
+      "word": "卸妆膏为什么不做成这样",
+      "onboard_time": 1698242980,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 252768,
+      "num": 252768,
+      "word": "普通人13个月把家装修成这样",
+      "onboard_time": 1698278857,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 249328,
       "num": 249328,
       "word": "TTG止步挑杯八强",
@@ -201,14 +321,6 @@
       "onboard_time": 1698243402,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240436,
-      "num": 240436,
-      "word": "卸妆膏为什么不做成这样",
-      "onboard_time": 1698242980,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 239333,
@@ -267,12 +379,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215834,
+      "num": 215834,
+      "word": "好怕他以为这是中国的电梯文化",
+      "onboard_time": 1698279516,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208780,
       "num": 208780,
       "word": "街舞6官宣3天预约破百万",
       "onboard_time": 1698248796,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208680,
+      "num": 208680,
+      "word": "梅西中国行赛程确定",
+      "onboard_time": 1698282279,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206914,
+      "num": 203307,
+      "word": "YG回应权志龙涉嫌吸毒",
+      "onboard_time": 1698230078,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 204923,
@@ -283,12 +419,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204211,
+      "num": 204211,
+      "word": "宝宝一定好奇医生怎么号出自己吃糖",
+      "onboard_time": 1698274882,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200580,
       "num": 200580,
       "word": "余华 学会克制你的表达欲",
       "onboard_time": 1698253403,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 200046,
+      "num": 200046,
+      "word": "神舟十七号乘组出征仪式",
+      "onboard_time": 1698281859,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197916,
@@ -315,20 +467,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 179483,
+      "num": 179483,
+      "word": "如何看李佳琦直播间回应喊话内容",
+      "onboard_time": 1698250710,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 178260,
+      "num": 178260,
+      "word": "一枝南南 礼盒开箱",
+      "onboard_time": 1698281563,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 177977,
       "num": 177977,
       "word": "广东一学校近700名新生集体退学",
       "onboard_time": 1698232064,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 177656,
-      "num": 159074,
-      "word": "如何看李佳琦直播间回应喊话内容",
-      "onboard_time": 1698250710,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 168757,
@@ -347,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166030,
+      "num": 166030,
+      "word": "披荆斩棘林志颖与儿子视频",
+      "onboard_time": 1698276449,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "你好种地少年定档",
@@ -361,6 +529,30 @@
       "onboard_time": 1698238662,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158569,
+      "num": 158569,
+      "word": "女孩悄悄询问家人能否为民警买单",
+      "onboard_time": 1698280658,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156644,
+      "num": 156644,
+      "word": "檀健次你好星期六续签",
+      "onboard_time": 1698266894,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155014,
+      "num": 155014,
+      "word": "四川三大雪山现日照金山壮景",
+      "onboard_time": 1698281920,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 145067,
@@ -387,6 +579,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138153,
+      "num": 138153,
+      "word": "马斯克 不想利用人性下坠的力量赚钱",
+      "onboard_time": 1698262634,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 136029,
+      "num": 136029,
+      "word": "我要逆风去 成年人的电视剧",
+      "onboard_time": 1698282577,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135213,
+      "num": 135213,
+      "word": "2024国考136个岗位无人报名",
+      "onboard_time": 1698259515,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134859,
       "num": 134859,
       "word": "河边的错误",
@@ -403,20 +619,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127784,
+      "num": 127784,
+      "word": "上海大雾",
+      "onboard_time": 1698281260,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119151,
       "num": 119151,
       "word": "王一博染回黑发了",
       "onboard_time": 1698232304,
       "rank": 42,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 118776,
-      "num": 118776,
-      "word": "檀健次你好星期六续签",
-      "onboard_time": 1698266894,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 117420,
@@ -467,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104250,
-      "num": 104250,
-      "word": "披荆斩棘林志颖与儿子视频",
-      "onboard_time": 1698276449,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99006,
       "num": 99006,
       "word": "我的老婆在外面哄别的女孩纸",
@@ -488,22 +696,6 @@
       "word": "女子倒车坠河村民接连跳河救人",
       "onboard_time": 1698275666,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97293,
-      "num": 97293,
-      "word": "马斯克 不想利用人性下坠的力量赚钱",
-      "onboard_time": 1698262634,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 96354,
-      "num": 96354,
-      "word": "宝宝一定好奇医生怎么号出自己吃糖",
-      "onboard_time": 1698274882,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -521,14 +713,6 @@
       "onboard_time": 1698243102,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86811,
-      "num": 86811,
-      "word": "2024国考136个岗位无人报名",
-      "onboard_time": 1698259515,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 84529,
@@ -579,8 +763,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39962,
-      "num": 1037289,
+      "raw_hot": 44819,
+      "num": 1617276,
       "word": "速读未成年人网络保护条例举措",
       "onboard_time": 1698238361,
       "rank": 2,
