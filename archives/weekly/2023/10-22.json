@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698318870555,
+  "endTime": 1698320048798,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -560,6 +560,14 @@
       "word": "青岛啤酒视频拍摄者已被警方控制",
       "onboard_time": 1698022775,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1517189,
+      "num": 1517189,
+      "word": "长江大学通报不雅视频事件",
+      "onboard_time": 1698317796,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1163,14 +1171,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 998146,
-      "num": 998146,
-      "word": "长江大学通报不雅视频事件",
-      "onboard_time": 1698317796,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 996749,
       "num": 996749,
       "word": "大杨哥质问出身农村不能变有钱吗",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1698304776,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887310,
+      "num": 887310,
+      "word": "吃火锅忘记带扎头绳怎么办",
+      "onboard_time": 1698318332,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 879707,
@@ -1803,6 +1811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 756265,
+      "num": 756265,
+      "word": "小米发布会",
+      "onboard_time": 1698318214,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 755940,
       "num": 370787,
       "word": "黄渤加入李冰冰周也自拍",
@@ -1891,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731063,
+      "num": 731063,
+      "word": "成都交警辟谣街头发生枪击",
+      "onboard_time": 1698319412,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730768,
       "num": 730768,
       "word": "女子全勤工作1个月发257元工资",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1698214958,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 708379,
+      "num": 708379,
+      "word": "WBG 中路",
+      "onboard_time": 1698318692,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 701391,
@@ -2097,14 +2129,6 @@
       "onboard_time": 1698232304,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 661398,
-      "num": 661398,
-      "word": "小米发布会",
-      "onboard_time": 1698318214,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 659548,
@@ -2547,6 +2571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 569981,
+      "num": 569981,
+      "word": "张云龙直播不敢看钟楚曦",
+      "onboard_time": 1698318632,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568208,
       "num": 568208,
       "word": "杨紫乔欣重聚综艺",
@@ -2857,6 +2889,14 @@
       "onboard_time": 1698067840,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521820,
+      "num": 521820,
+      "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
+      "onboard_time": 1698318514,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 518995,
@@ -4035,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392669,
+      "num": 392669,
+      "word": "上海迪士尼官宣疯狂动物城园区",
+      "onboard_time": 1698319353,
+      "rank": 18,
+      "category": "旅游,电影"
+    },
+    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "校方回应老师改作业写你是孤儿吗评语",
@@ -4081,14 +4129,6 @@
       "onboard_time": 1698030992,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389676,
-      "num": 389676,
-      "word": "WBG 中路",
-      "onboard_time": 1698318692,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 389605,
@@ -4195,6 +4235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382459,
+      "num": 382459,
+      "word": "秦岚拍的辛芷蕾",
+      "onboard_time": 1698317796,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381755,
       "num": 381755,
       "word": "张晚意 致玱玹",
@@ -4299,28 +4347,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 373655,
-      "num": 373655,
-      "word": "秦岚拍的辛芷蕾",
-      "onboard_time": 1698317796,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373570,
       "num": 373570,
       "word": "T1",
       "onboard_time": 1698064359,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 373026,
-      "num": 274949,
-      "word": "吃火锅忘记带扎头绳怎么办",
-      "onboard_time": 1698318332,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 372015,
@@ -4513,6 +4545,14 @@
       "onboard_time": 1698198330,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 355684,
+      "num": 355684,
+      "word": "WBG零封MAD",
+      "onboard_time": 1698319956,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 354854,
@@ -5155,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312202,
+      "num": 312202,
+      "word": "MAD对战WBG",
+      "onboard_time": 1698314315,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 311439,
       "num": 257195,
       "word": "帮帮我好不好 帮我上班",
@@ -5387,6 +5435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298824,
+      "num": 298824,
+      "word": "仲溪午你倒是亲啊",
+      "onboard_time": 1698319233,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298573,
       "num": 298573,
       "word": "火星6艺人阵容官宣",
@@ -5433,14 +5489,6 @@
       "onboard_time": 1698221500,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296597,
-      "num": 296597,
-      "word": "MAD对战WBG",
-      "onboard_time": 1698314315,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 296469,
@@ -5627,6 +5675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289580,
+      "num": 289580,
+      "word": "体制内最吃香人设",
+      "onboard_time": 1698316835,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289522,
       "num": 277542,
       "word": "迪丽热巴已经蠢蠢欲动",
@@ -5675,6 +5731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 287761,
+      "num": 287761,
+      "word": "TheShy的剑魔",
+      "onboard_time": 1698317256,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287714,
       "num": 287714,
       "word": "迪丽热巴晒花少团合照",
@@ -5697,14 +5761,6 @@
       "onboard_time": 1698104914,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287012,
-      "num": 287012,
-      "word": "TheShy的剑魔",
-      "onboard_time": 1698317256,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 286946,
@@ -5955,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277676,
-      "num": 277676,
-      "word": "体制内最吃香人设",
-      "onboard_time": 1698316835,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 277437,
       "num": 277437,
       "word": "七夜雪",
@@ -6025,14 +6073,6 @@
       "onboard_time": 1698242562,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273302,
-      "num": 270566,
-      "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
-      "onboard_time": 1698318514,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 272815,
@@ -6225,14 +6265,6 @@
       "onboard_time": 1698042643,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 263625,
-      "num": 263625,
-      "word": "张云龙直播不敢看钟楚曦",
-      "onboard_time": 1698318632,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 263470,
@@ -7867,6 +7899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "G2看TheShy选剑魔",
+      "onboard_time": 1698319956,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213760,
       "num": 213760,
       "word": "校方回应西南科技大学馄饨事件",
@@ -8107,6 +8147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208299,
+      "num": 208299,
+      "word": "李泽言 城市的岁月镌刻在暮色之下",
+      "onboard_time": 1698319775,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208202,
       "num": 208202,
       "word": "你在意奶茶里的植脂末吗",
@@ -8276,7 +8324,7 @@
     },
     {
       "raw_hot": 205244,
-      "num": 1281490,
+      "num": 1547461,
       "word": "中国航天又见大红屏",
       "onboard_time": 1698293195,
       "rank": 28,
@@ -8937,6 +8985,14 @@
       "onboard_time": 1698293796,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 194163,
+      "num": 1631647,
+      "word": "女教师20年收养30多名特殊儿童",
+      "onboard_time": 1698318692,
+      "rank": 20,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 194072,
@@ -13971,14 +14027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76779,
-      "num": 329452,
-      "word": "女教师20年收养30多名特殊儿童",
-      "onboard_time": 1698318692,
-      "rank": 20,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 76468,
       "num": 76468,
       "word": "和老师当同事是什么体验",
@@ -14292,7 +14340,7 @@
     },
     {
       "raw_hot": 54437,
-      "num": 398020,
+      "num": 621877,
       "word": "利郎青年商务系列发布",
       "onboard_time": 1698318033,
       "rank": 14,

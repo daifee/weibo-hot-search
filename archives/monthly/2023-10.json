@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698318870555,
+  "endTime": 1698320048798,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4139,6 +4139,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1517189,
+      "num": 1517189,
+      "word": "长江大学通报不雅视频事件",
+      "onboard_time": 1698317796,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1514258,
       "num": 1514258,
       "word": "颖儿回应被说假吃",
@@ -7603,14 +7611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 998146,
-      "num": 998146,
-      "word": "长江大学通报不雅视频事件",
-      "onboard_time": 1698317796,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 997811,
       "num": 422302,
       "word": "女性的月经周期",
@@ -8961,6 +8961,14 @@
       "onboard_time": 1696510056,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 887310,
+      "num": 887310,
+      "word": "吃火锅忘记带扎头绳怎么办",
+      "onboard_time": 1698318332,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 887219,
@@ -11331,6 +11339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756265,
+      "num": 756265,
+      "word": "小米发布会",
+      "onboard_time": 1698318214,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 756245,
       "num": 756245,
       "word": "韩国自助冰",
@@ -11859,6 +11875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731063,
+      "num": 731063,
+      "word": "成都交警辟谣街头发生枪击",
+      "onboard_time": 1698319412,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730951,
       "num": 730951,
       "word": "器官最喜欢的几个小动作",
@@ -12289,6 +12313,14 @@
       "onboard_time": 1696335454,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 708379,
+      "num": 708379,
+      "word": "WBG 中路",
+      "onboard_time": 1698318692,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 708049,
@@ -13281,14 +13313,6 @@
       "onboard_time": 1697346573,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 661398,
-      "num": 661398,
-      "word": "小米发布会",
-      "onboard_time": 1698318214,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 661061,
@@ -16139,6 +16163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 569981,
+      "num": 569981,
+      "word": "张云龙直播不敢看钟楚曦",
+      "onboard_time": 1698318632,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 569362,
       "num": 525312,
       "word": "终于把五险一金弄懂了",
@@ -18017,6 +18049,14 @@
       "onboard_time": 1697078913,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 521820,
+      "num": 521820,
+      "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
+      "onboard_time": 1698318514,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 521577,
@@ -24859,6 +24899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392669,
+      "num": 392669,
+      "word": "上海迪士尼官宣疯狂动物城园区",
+      "onboard_time": 1698319353,
+      "rank": 18,
+      "category": "旅游,电影"
+    },
+    {
       "raw_hot": 392575,
       "num": 392575,
       "word": "警方通报17岁男生杀害房东",
@@ -25185,14 +25233,6 @@
       "onboard_time": 1697330850,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 389676,
-      "num": 389676,
-      "word": "WBG 中路",
-      "onboard_time": 1698318692,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 389605,
@@ -25705,6 +25745,14 @@
       "onboard_time": 1696901851,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 382459,
+      "num": 382459,
+      "word": "秦岚拍的辛芷蕾",
+      "onboard_time": 1698317796,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 382341,
@@ -26307,14 +26355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 373655,
-      "num": 373655,
-      "word": "秦岚拍的辛芷蕾",
-      "onboard_time": 1698317796,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373570,
       "num": 373570,
       "word": "T1",
@@ -26337,14 +26377,6 @@
       "onboard_time": 1697102676,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373026,
-      "num": 274949,
-      "word": "吃火锅忘记带扎头绳怎么办",
-      "onboard_time": 1698318332,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 373011,
@@ -27609,6 +27641,14 @@
       "onboard_time": 1696388918,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 355684,
+      "num": 355684,
+      "word": "WBG零封MAD",
+      "onboard_time": 1698319956,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 355640,
@@ -31387,6 +31427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312202,
+      "num": 312202,
+      "word": "MAD对战WBG",
+      "onboard_time": 1698314315,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 312117,
       "num": 298861,
       "word": "李小冉叫长公主疯女人",
@@ -32739,6 +32787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 298824,
+      "num": 298824,
+      "word": "仲溪午你倒是亲啊",
+      "onboard_time": 1698319233,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298787,
       "num": 298787,
       "word": "以色列中国留学生发交战视频",
@@ -32937,14 +32993,6 @@
       "onboard_time": 1697033378,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296597,
-      "num": 296597,
-      "word": "MAD对战WBG",
-      "onboard_time": 1698314315,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 296580,
@@ -33747,6 +33795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289580,
+      "num": 289580,
+      "word": "体制内最吃香人设",
+      "onboard_time": 1698316835,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289537,
       "num": 289537,
       "word": "原来婚礼主持才是最不确定性因素",
@@ -34051,6 +34107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 287761,
+      "num": 287761,
+      "word": "TheShy的剑魔",
+      "onboard_time": 1698317256,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287734,
       "num": 287734,
       "word": "刘诗诗白衣战损哭戏路透",
@@ -34153,14 +34217,6 @@
       "onboard_time": 1697190636,
       "rank": 1,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 287012,
-      "num": 287012,
-      "word": "TheShy的剑魔",
-      "onboard_time": 1698317256,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 286971,
@@ -35379,14 +35435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277676,
-      "num": 277676,
-      "word": "体制内最吃香人设",
-      "onboard_time": 1698316835,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 277675,
       "num": 277675,
       "word": "毛晓彤说这届同事太难带了",
@@ -35937,14 +35985,6 @@
       "onboard_time": 1697591557,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273302,
-      "num": 270566,
-      "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
-      "onboard_time": 1698318514,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 273299,
@@ -37265,14 +37305,6 @@
       "onboard_time": 1697291736,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263625,
-      "num": 263625,
-      "word": "张云龙直播不敢看钟楚曦",
-      "onboard_time": 1698318632,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 263611,
@@ -45483,6 +45515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "G2看TheShy选剑魔",
+      "onboard_time": 1698319956,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213885,
       "num": 132435,
       "word": "江苏健儿杭州亚运会金牌奖牌数全国第3",
@@ -46723,6 +46763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208299,
+      "num": 208299,
+      "word": "李泽言 城市的岁月镌刻在暮色之下",
+      "onboard_time": 1698319775,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208261,
       "num": 793017,
       "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
@@ -47580,7 +47628,7 @@
     },
     {
       "raw_hot": 205244,
-      "num": 1281490,
+      "num": 1547461,
       "word": "中国航天又见大红屏",
       "onboard_time": 1698293195,
       "rank": 28,
@@ -51113,6 +51161,14 @@
       "onboard_time": 1696210831,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194163,
+      "num": 1631647,
+      "word": "女教师20年收养30多名特殊儿童",
+      "onboard_time": 1698318692,
+      "rank": 20,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 194132,
@@ -70123,14 +70179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76779,
-      "num": 329452,
-      "word": "女教师20年收养30多名特殊儿童",
-      "onboard_time": 1698318692,
-      "rank": 20,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 76730,
       "num": 76730,
       "word": "林海说马嘉祺有男人范",
@@ -71372,7 +71420,7 @@
     },
     {
       "raw_hot": 54437,
-      "num": 398020,
+      "num": 621877,
       "word": "利郎青年商务系列发布",
       "onboard_time": 1698318033,
       "rank": 14,

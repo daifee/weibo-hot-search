@@ -1,0 +1,410 @@
+{
+  "runTime": 1698320048798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1941333,
+        "num": 1941333,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 1631647,
+        "word": "女教师20年收养30多名特殊儿童",
+        "onboard_time": 1698318692,
+        "rank": 1,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 28527,
+        "num": 1547461,
+        "word": "中国航天又见大红屏",
+        "onboard_time": 1698293195,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1517189,
+        "num": 1517189,
+        "word": "长江大学通报不雅视频事件",
+        "onboard_time": 1698317796,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176029,
+        "num": 1057757,
+        "word": "整理房间误扔10万元被路人送还",
+        "onboard_time": 1698304056,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887310,
+        "num": 887310,
+        "word": "吃火锅忘记带扎头绳怎么办",
+        "onboard_time": 1698318332,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141371,
+        "num": 841300,
+        "word": "今天飞天的河南88后诠释了人生不被定义",
+        "onboard_time": 1698313835,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 799267,
+        "num": 799267,
+        "word": "辛巴谈李佳琦再陷舆论风波",
+        "onboard_time": 1698315273,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 772440,
+        "num": 772440,
+        "word": "田小娟方否认涉毒",
+        "onboard_time": 1698312814,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756265,
+        "num": 756265,
+        "word": "小米发布会",
+        "onboard_time": 1698318214,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 751012,
+        "num": 751012,
+        "word": "陈钰琪离开唐嫣公司",
+        "onboard_time": 1698312814,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731063,
+        "num": 731063,
+        "word": "成都交警辟谣街头发生枪击",
+        "onboard_time": 1698319412,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708852,
+        "num": 708852,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698316171,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 708379,
+        "num": 708379,
+        "word": "WBG 中路",
+        "onboard_time": 1698318692,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43680,
+        "num": 621877,
+        "word": "利郎青年商务系列发布",
+        "onboard_time": 1698318033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569981,
+        "num": 569981,
+        "word": "张云龙直播不敢看钟楚曦",
+        "onboard_time": 1698318632,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521820,
+        "num": 521820,
+        "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
+        "onboard_time": 1698318514,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 506060,
+        "num": 506060,
+        "word": "警方调查长江大学讲座播放不雅视频",
+        "onboard_time": 1698313474,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392669,
+        "num": 392669,
+        "word": "上海迪士尼官宣疯狂动物城园区",
+        "onboard_time": 1698319353,
+        "rank": 18,
+        "category": "旅游,电影"
+      },
+      {
+        "raw_hot": 382459,
+        "num": 382459,
+        "word": "秦岚拍的辛芷蕾",
+        "onboard_time": 1698317796,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355684,
+        "num": 355684,
+        "word": "WBG零封MAD",
+        "onboard_time": 1698319956,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347450,
+        "num": 347450,
+        "word": "女性每月什么时候护肤最有效",
+        "onboard_time": 1698306096,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 331535,
+        "num": 331535,
+        "word": "太二酸菜鱼回应遭大众点评下架",
+        "onboard_time": 1698307834,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 330356,
+        "num": 330356,
+        "word": "散粉信息差",
+        "onboard_time": 1698313053,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 312560,
+        "num": 312560,
+        "word": "鸡毛抓夹",
+        "onboard_time": 1698317256,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 312202,
+        "num": 312202,
+        "word": "MAD对战WBG",
+        "onboard_time": 1698314315,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300489,
+        "num": 300489,
+        "word": "田柾国车银优郑在玹聚餐",
+        "onboard_time": 1698315153,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298824,
+        "num": 298824,
+        "word": "仲溪午你倒是亲啊",
+        "onboard_time": 1698319233,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289580,
+        "num": 289580,
+        "word": "体制内最吃香人设",
+        "onboard_time": 1698316835,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287761,
+        "num": 287761,
+        "word": "TheShy的剑魔",
+        "onboard_time": 1698317256,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270067,
+        "num": 270067,
+        "word": "防弹少年团部分成员被曝是吸毒场所常客",
+        "onboard_time": 1698304536,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252879,
+        "num": 252879,
+        "word": "长江大学回应主题讲座播放不雅视频",
+        "onboard_time": 1698304776,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251990,
+        "num": 251990,
+        "word": "WBG先下一城",
+        "onboard_time": 1698317796,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243275,
+        "num": 243275,
+        "word": "王一博去跳伞了",
+        "onboard_time": 1698313835,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227042,
+        "num": 227042,
+        "word": "效果惊人的双眼皮贴",
+        "onboard_time": 1698318155,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 215767,
+        "num": 215767,
+        "word": "皮肤医生才会告诉你的真话",
+        "onboard_time": 1698316532,
+        "rank": 35,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 215218,
+        "num": 215218,
+        "word": "张艺兴偶遇尖嘴动物",
+        "onboard_time": 1698313414,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213917,
+        "num": 213917,
+        "word": "G2看TheShy选剑魔",
+        "onboard_time": 1698319956,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210292,
+        "num": 210292,
+        "word": "大众点评下架太二酸菜鱼",
+        "onboard_time": 1698312514,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208299,
+        "num": 208299,
+        "word": "李泽言 城市的岁月镌刻在暮色之下",
+        "onboard_time": 1698319775,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202955,
+        "num": 202955,
+        "word": "Nisqy单杀Xiaohu",
+        "onboard_time": 1698317495,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199409,
+        "num": 199409,
+        "word": "网传长江大学主题讲座播放不雅视频",
+        "onboard_time": 1698302976,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195015,
+        "num": 195015,
+        "word": "侯雯元 彪子啊还得是你",
+        "onboard_time": 1698315812,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "陈钰琪成立个人工作室",
+        "onboard_time": 1698316231,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191083,
+        "num": 191083,
+        "word": "磁吸假睫毛",
+        "onboard_time": 1698317195,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186645,
+        "num": 186645,
+        "word": "秦岚的衣柜",
+        "onboard_time": 1698317195,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173529,
+        "num": 173529,
+        "word": "中国代表当场回应以色列不满",
+        "onboard_time": 1698303633,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 172842,
+        "num": 172842,
+        "word": "河南权志龙直播唱BIGBANG代表作",
+        "onboard_time": 1698310656,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171768,
+        "num": 171768,
+        "word": "林心如额前编发",
+        "onboard_time": 1698313114,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168366,
+        "num": 168366,
+        "word": "邓为说要做好当下其他随缘",
+        "onboard_time": 1698317133,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同哥伦比亚总统会谈#"
+    }
+  }
+}
