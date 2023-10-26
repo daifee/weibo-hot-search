@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698304561288,
+  "endTime": 1698305652585,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1843798,
+      "num": 1650350,
+      "word": "苏翊鸣朱易牵手照",
+      "onboard_time": 1698301475,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1835836,
       "num": 1835836,
       "word": "神十七发射现场",
@@ -59,12 +67,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1650350,
-      "num": 1650350,
-      "word": "苏翊鸣朱易牵手照",
-      "onboard_time": 1698301475,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 1638756,
+      "num": 1638756,
+      "word": "防弹少年团部分成员被曝是吸毒场所常客",
+      "onboard_time": 1698304536,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1638607,
@@ -227,12 +235,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 775646,
+      "num": 693916,
+      "word": "中国代表当场回应以色列不满",
+      "onboard_time": 1698303633,
+      "rank": 16,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 766866,
+      "num": 766866,
+      "word": "3岁女童被野猴抓走民警紧急救人",
+      "onboard_time": 1698303456,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755095,
       "num": 755095,
       "word": "染上毒瘾后外貌的真实变化",
       "onboard_time": 1698248258,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698207,
+      "num": 204892,
+      "word": "贾乃亮带货美容仪线上比线下贵1600元",
+      "onboard_time": 1698304234,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 696659,
@@ -283,7 +315,7 @@
       "category": "国外要闻,财经"
     },
     {
-      "raw_hot": 602757,
+      "raw_hot": 619723,
       "num": 458600,
       "word": "权志龙",
       "onboard_time": 1698301234,
@@ -347,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508923,
+      "num": 322955,
+      "word": "长江大学回应主题讲座播放不雅视频",
+      "onboard_time": 1698304776,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505377,
       "num": 505377,
       "word": "社保局称工作人员上班闲聊视频内容不实",
       "onboard_time": 1698298358,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482214,
+      "num": 321568,
+      "word": "G社拍的戚薇",
+      "onboard_time": 1698301653,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 480178,
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 413944,
-      "num": 196122,
+      "num": 199379,
       "word": "网传长江大学主题讲座播放不雅视频",
       "onboard_time": 1698302976,
       "rank": 30,
@@ -451,14 +499,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 393067,
-      "num": 199113,
-      "word": "贾乃亮带货美容仪线上比线下贵1600元",
-      "onboard_time": 1698304234,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386767,
       "num": 386767,
       "word": "Jennie新综艺录制路透",
@@ -475,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383477,
+      "num": 383477,
+      "word": "你们封神一定要这样吗",
+      "onboard_time": 1698304594,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369470,
       "num": 369470,
       "word": "直播神十七发射",
       "onboard_time": 1698281859,
       "rank": 17,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 362242,
+      "num": 277526,
+      "word": "谢娜抱的狗狗是小H",
+      "onboard_time": 1698305196,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 359526,
@@ -515,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345718,
-      "num": 318927,
-      "word": "中国代表当场回应以色列不满",
-      "onboard_time": 1698303633,
-      "rank": 16,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 344845,
       "num": 344845,
       "word": "成功的羊毛卷 从头顶开始烫中卷",
@@ -553,14 +601,6 @@
       "onboard_time": 1698243164,
       "rank": 7,
       "category": "美妆,作品衍生"
-    },
-    {
-      "raw_hot": 327763,
-      "num": 327763,
-      "word": "3岁女童被野猴抓走民警紧急救人",
-      "onboard_time": 1698303456,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326045,
@@ -611,14 +651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 314109,
-      "num": 314109,
-      "word": "G社拍的戚薇",
-      "onboard_time": 1698301653,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 310182,
       "num": 310182,
       "word": "梅西不去青岛了",
@@ -641,6 +673,22 @@
       "onboard_time": 1698281678,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303230,
+      "num": 303230,
+      "word": "杨紫邻家感",
+      "onboard_time": 1698304833,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 296469,
+      "num": 268704,
+      "word": "蔡少芬50岁又拍甄嬛传",
+      "onboard_time": 1698304776,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 294461,
@@ -769,6 +817,14 @@
       "onboard_time": 1698281139,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256770,
+      "num": 256770,
+      "word": "满记甜品自助",
+      "onboard_time": 1698304113,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 256119,
@@ -1019,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211222,
+      "num": 211222,
+      "word": "整理房间误扔10万元被路人送还",
+      "onboard_time": 1698304056,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210209,
       "num": 210209,
       "word": "美妆博主 膏状口红",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1698230078,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206900,
+      "num": 206900,
+      "word": "朱一龙吵架吵不了一点",
+      "onboard_time": 1698304833,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 206155,
@@ -1227,6 +1299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191709,
+      "num": 191709,
+      "word": "薛之谦什么都没说又都说了",
+      "onboard_time": 1698305134,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "许凯的衬衫偷偷想开了",
@@ -1395,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162395,
-      "num": 162395,
-      "word": "整理房间误扔10万元被路人送还",
-      "onboard_time": 1698304056,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160880,
       "num": 160880,
       "word": "最美后妈一碗水端平照顾继子60年",
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156604,
+      "num": 156604,
+      "word": "国乒 法兰克福",
+      "onboard_time": 1698304833,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155014,
       "num": 155014,
       "word": "四川三大雪山现日照金山壮景",
@@ -1473,6 +1553,22 @@
       "onboard_time": 1698284973,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150567,
+      "num": 150567,
+      "word": "檀健次张婧仪新片吻戏",
+      "onboard_time": 1698305495,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 149021,
+      "num": 149021,
+      "word": "原来放调料也是有公式的",
+      "onboard_time": 1698304536,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 147100,
@@ -1627,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129484,
-      "num": 129484,
-      "word": "满记甜品自助",
-      "onboard_time": 1698304113,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128180,
       "num": 128180,
       "word": "神十七乘组飞赴苍穹",
@@ -1715,28 +1803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114132,
-      "num": 114132,
-      "word": "防弹少年团部分成员被曝是吸毒场所常客",
-      "onboard_time": 1698304536,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112408,
       "num": 112408,
       "word": "小柯基被亲了一口整个狗都开心了",
       "onboard_time": 1698271456,
       "rank": 39,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 108414,
-      "num": 108414,
-      "word": "原来放调料也是有公式的",
-      "onboard_time": 1698304536,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 108309,
