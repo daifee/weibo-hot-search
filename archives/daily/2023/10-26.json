@@ -1,7 +1,15 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698291250243,
+  "endTime": 1698294019799,
   "band_list": [
+    {
+      "raw_hot": 4053614,
+      "num": 4053614,
+      "word": "张庭96套房产解封",
+      "onboard_time": 1698289772,
+      "rank": 12,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2901409,
       "num": 2901409,
@@ -9,14 +17,6 @@
       "onboard_time": 1698278919,
       "rank": 0,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 2789815,
-      "num": 2789815,
-      "word": "张庭96套房产解封",
-      "onboard_time": 1698289772,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2413561,
@@ -33,6 +33,22 @@
       "onboard_time": 1698288933,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1779327,
+      "num": 1779327,
+      "word": "社保局员工上班闲聊一两个小时不叫号",
+      "onboard_time": 1698291874,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1638607,
+      "num": 1638607,
+      "word": "神十七发射圆满成功",
+      "onboard_time": 1698291394,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1611941,
@@ -99,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1179174,
+      "num": 1179174,
+      "word": "小杨哥曾称每月发工资超5000万",
+      "onboard_time": 1698292234,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1126962,
       "num": 1126962,
       "word": "女生半年减肥40斤查出重度脂肪肝",
@@ -147,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 876670,
+      "num": 876670,
+      "word": "张颂文去街舞6了",
+      "onboard_time": 1698290970,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 842094,
       "num": 842094,
       "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
@@ -155,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808546,
+      "num": 808546,
+      "word": "多名专家谈李佳琦是否涉嫌垄断",
+      "onboard_time": 1698290011,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 755095,
       "num": 755095,
       "word": "染上毒瘾后外貌的真实变化",
       "onboard_time": 1698248258,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731083,
+      "num": 438236,
+      "word": "Angelababy申请强执娱记朱皮",
+      "onboard_time": 1698293556,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 696659,
@@ -219,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448275,
+      "num": 448275,
+      "word": "花少5全员情绪好稳定",
+      "onboard_time": 1698289531,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445879,
       "num": 445879,
       "word": "以前咋没发现秦岚这么好笑",
@@ -267,28 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369745,
-      "num": 369745,
-      "word": "多名专家谈李佳琦是否涉嫌垄断",
-      "onboard_time": 1698290011,
-      "rank": 45,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 369470,
       "num": 369470,
       "word": "直播神十七发射",
       "onboard_time": 1698281859,
       "rank": 17,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 367966,
-      "num": 367966,
-      "word": "花少5全员情绪好稳定",
-      "onboard_time": 1698289531,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 359526,
@@ -337,6 +377,14 @@
       "onboard_time": 1698243164,
       "rank": 7,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 326045,
+      "num": 326045,
+      "word": "许光汉变许糙汉了",
+      "onboard_time": 1698292892,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 317681,
@@ -411,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285579,
+      "num": 285579,
+      "word": "秦岚嗓子不好但爱讲",
+      "onboard_time": 1698292294,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279384,
       "num": 317044,
       "word": "撒贝宁称自己是北大方便面系博士",
@@ -441,6 +497,14 @@
       "onboard_time": 1698241422,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263135,
+      "num": 263135,
+      "word": "神十六乘组已挂好欢迎队友横幅",
+      "onboard_time": 1698292657,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 261375,
@@ -523,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239673,
-      "num": 239673,
-      "word": "张颂文去街舞6了",
-      "onboard_time": 1698290970,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239333,
       "num": 239333,
       "word": "迪丽热巴浓妆vs淡妆",
@@ -563,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223566,
+      "num": 248450,
+      "word": "警方回应西南科技大学馄饨阿姨事件",
+      "onboard_time": 1698292954,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220998,
       "num": 220998,
       "word": "雷军称小米14越级对标iPhone15Pro",
@@ -577,6 +641,14 @@
       "onboard_time": 1698254002,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 220185,
+      "num": 220185,
+      "word": "烫发不翻车保姆级教程",
+      "onboard_time": 1698290913,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 220034,
@@ -635,11 +707,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210209,
+      "num": 210209,
+      "word": "美妆博主 膏状口红",
+      "onboard_time": 1698290851,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 208780,
       "num": 208780,
       "word": "街舞6官宣3天预约破百万",
       "onboard_time": 1698248796,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207578,
+      "num": 207578,
+      "word": "胡先煦的闹钟只能叫醒别人",
+      "onboard_time": 1698293195,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -649,6 +737,22 @@
       "onboard_time": 1698230078,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206155,
+      "num": 206155,
+      "word": "文班亚马马刺首秀",
+      "onboard_time": 1698290252,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205244,
+      "num": 205244,
+      "word": "中国航天又见大红屏",
+      "onboard_time": 1698293195,
+      "rank": 28,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 204923,
@@ -707,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197682,
+      "num": 197682,
+      "word": "中国航天员第三次太空会师",
+      "onboard_time": 1698293436,
+      "rank": 30,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 197601,
       "num": 197601,
       "word": "张小斐惠英红新片掐红了眼",
       "onboard_time": 1698290671,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197258,
+      "num": 197258,
+      "word": "邱贻可备战法兰克福赛vlog",
+      "onboard_time": 1698293377,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 195457,
@@ -731,6 +851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192064,
+      "num": 192064,
+      "word": "A股",
+      "onboard_time": 1698291453,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190700,
       "num": 190700,
       "word": "冰雪奇缘居然是10年前",
@@ -747,12 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185655,
-      "num": 185655,
-      "word": "文班亚马马刺首秀",
-      "onboard_time": 1698290252,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 182525,
+      "num": 182525,
+      "word": "神十七",
+      "onboard_time": 1698293796,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 181971,
@@ -779,6 +907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 178724,
+      "num": 178724,
+      "word": "曾舜晞撤回一个中指",
+      "onboard_time": 1698293736,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178260,
       "num": 178260,
       "word": "一枝南南 礼盒开箱",
@@ -787,12 +923,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 178124,
+      "num": 178124,
+      "word": "泡面冒烤鸭吃播",
+      "onboard_time": 1698293556,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177977,
       "num": 177977,
       "word": "广东一学校近700名新生集体退学",
       "onboard_time": 1698232064,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 175443,
+      "num": 175443,
+      "word": "校方回应西南科技大学馄饨事件",
+      "onboard_time": 1698293676,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175008,
@@ -817,14 +969,6 @@
       "onboard_time": 1698285758,
       "rank": 26,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 167911,
-      "num": 167911,
-      "word": "烫发不翻车保姆级教程",
-      "onboard_time": 1698290913,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 166384,
@@ -899,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156428,
-      "num": 156428,
-      "word": "美妆博主 膏状口红",
-      "onboard_time": 1698290851,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 155014,
       "num": 155014,
       "word": "四川三大雪山现日照金山壮景",
@@ -963,6 +1099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 137478,
+      "num": 137478,
+      "word": "王琳凯 一起淋雨的音乐节",
+      "onboard_time": 1698293917,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135213,
       "num": 135213,
       "word": "2024国考136个岗位无人报名",
@@ -977,6 +1121,14 @@
       "onboard_time": 1698251370,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131947,
+      "num": 131947,
+      "word": "邓紫棋演唱会获批",
+      "onboard_time": 1698291694,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 130889,
@@ -1219,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39410,
+      "num": 1677478,
+      "word": "当年的汶川男孩成了轮椅网球运动员",
+      "onboard_time": 1698235599,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37741,
       "num": 39568,
       "word": "毛晓彤台词里的力量感",
@@ -1249,14 +1409,6 @@
       "onboard_time": 1698260775,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18134,
-      "num": 1337904,
-      "word": "当年的汶川男孩成了轮椅网球运动员",
-      "onboard_time": 1698235599,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17265,
