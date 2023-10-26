@@ -1,0 +1,410 @@
+{
+  "runTime": 1698323556554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814543,
+        "num": 1814543,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1683240,
+        "num": 1683240,
+        "word": "小米14",
+        "onboard_time": 1698321032,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15592,
+        "num": 1321092,
+        "word": "中国航天又见大红屏",
+        "onboard_time": 1698293195,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1218579,
+        "num": 1218579,
+        "word": "辅导员称播放不雅视频电脑曾借给他人",
+        "onboard_time": 1698320612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844658,
+        "num": 844658,
+        "word": "吃火锅忘记带扎头绳怎么办",
+        "onboard_time": 1698318332,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 748958,
+        "num": 748958,
+        "word": "上海迪士尼官宣疯狂动物城园区",
+        "onboard_time": 1698319353,
+        "rank": 5,
+        "category": "旅游,电影"
+      },
+      {
+        "raw_hot": 608818,
+        "num": 608818,
+        "word": "G2看TheShy选剑魔",
+        "onboard_time": 1698319956,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 565689,
+        "num": 565689,
+        "word": "张云龙直播不敢看钟楚曦",
+        "onboard_time": 1698318632,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390480,
+        "num": 527597,
+        "word": "小米澎湃OS正式发布",
+        "onboard_time": 1698321334,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 526193,
+        "num": 526193,
+        "word": "成都交警辟谣街头发生枪击",
+        "onboard_time": 1698319412,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131662,
+        "num": 515833,
+        "word": "长江大学通报不雅视频事件",
+        "onboard_time": 1698317796,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834559,
+        "num": 508070,
+        "word": "金凡 紧张",
+        "onboard_time": 1698322233,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 685326,
+        "num": 505068,
+        "word": "陈钰琪离开唐嫣公司",
+        "onboard_time": 1698312814,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493848,
+        "num": 493848,
+        "word": "长江大学",
+        "onboard_time": 1698320554,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485155,
+        "num": 485155,
+        "word": "小米发布会",
+        "onboard_time": 1698318214,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 484086,
+        "num": 484086,
+        "word": "WBG零封MAD",
+        "onboard_time": 1698319956,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 430570,
+        "num": 430570,
+        "word": "田小娟方否认涉毒",
+        "onboard_time": 1698312814,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392606,
+        "num": 392606,
+        "word": "辛巴谈李佳琦再陷舆论风波",
+        "onboard_time": 1698315273,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 66433,
+        "num": 371760,
+        "word": "方太年度发布会",
+        "onboard_time": 1698322295,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 367824,
+        "num": 367824,
+        "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
+        "onboard_time": 1698318514,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 362222,
+        "num": 362222,
+        "word": "秦岚拍的辛芷蕾",
+        "onboard_time": 1698317796,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360098,
+        "num": 360098,
+        "word": "若乳腺结节不疼还增大要警惕",
+        "onboard_time": 1698321873,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 340131,
+        "num": 340131,
+        "word": "防弹少年团部分成员被曝是吸毒场所常客",
+        "onboard_time": 1698304536,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283424,
+        "num": 283424,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698316171,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269648,
+        "num": 269648,
+        "word": "小杨哥与美腕合资公司系乌龙",
+        "onboard_time": 1698322655,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 262881,
+        "num": 262881,
+        "word": "成都一男子马路中间拦车被带倒致死",
+        "onboard_time": 1698321755,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254456,
+        "num": 254456,
+        "word": "绝区零过审",
+        "onboard_time": 1698321032,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241749,
+        "num": 241749,
+        "word": "体制内最吃香人设",
+        "onboard_time": 1698316835,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222654,
+        "num": 222654,
+        "word": "AI换脸能否骗过王牌家族",
+        "onboard_time": 1698321814,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212463,
+        "num": 212463,
+        "word": "巴黎世家4千元新发带上海门店已售罄",
+        "onboard_time": 1698323133,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 211295,
+        "word": "檀健次复活甲",
+        "onboard_time": 1698323133,
+        "rank": 30,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 205515,
+        "num": 205515,
+        "word": "中国6名航天员太空拍全家福",
+        "onboard_time": 1698322354,
+        "rank": 31,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 203517,
+        "num": 203517,
+        "word": "鸡毛抓夹",
+        "onboard_time": 1698317256,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 191228,
+        "num": 191228,
+        "word": "女教师20年收养30多名特殊儿童",
+        "onboard_time": 1698318692,
+        "rank": 33,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 189022,
+        "num": 189022,
+        "word": "林俊杰咸阳",
+        "onboard_time": 1698323373,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185440,
+        "num": 185440,
+        "word": "警方调查长江大学讲座播放不雅视频",
+        "onboard_time": 1698313474,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184215,
+        "num": 184215,
+        "word": "法考主观题",
+        "onboard_time": 1698323315,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181900,
+        "num": 181900,
+        "word": "中国女足vs朝鲜女足",
+        "onboard_time": 1698320914,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178761,
+        "num": 178761,
+        "word": "皮肤医生才会告诉你的真话",
+        "onboard_time": 1698316532,
+        "rank": 38,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 177538,
+        "num": 177538,
+        "word": "WBG 中路",
+        "onboard_time": 1698318692,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169741,
+        "num": 169741,
+        "word": "王一博去跳伞了",
+        "onboard_time": 1698313835,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167067,
+        "num": 167067,
+        "word": "为有暗香来",
+        "onboard_time": 1698322835,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158754,
+        "num": 158754,
+        "word": "小米汽车明年上半年正式上市",
+        "onboard_time": 1698323254,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163551,
+        "num": 158630,
+        "word": "华浅仲夜阑be的很体面",
+        "onboard_time": 1698322233,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158300,
+        "num": 158300,
+        "word": "女明星的牙贴面",
+        "onboard_time": 1698323433,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154709,
+        "num": 154709,
+        "word": "林心如额前编发",
+        "onboard_time": 1698313114,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153420,
+        "num": 153420,
+        "word": "仲溪午你倒是亲啊",
+        "onboard_time": 1698319233,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149468,
+        "num": 149468,
+        "word": "河南权志龙直播唱BIGBANG代表作",
+        "onboard_time": 1698310656,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147255,
+        "num": 147255,
+        "word": "田柾国车银优郑在玹聚餐",
+        "onboard_time": 1698315153,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141250,
+        "num": 141250,
+        "word": "如何花最少钱成为第一眼美女",
+        "onboard_time": 1698323494,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#把共同发展开放融通的亚洲之路越走越宽#"
+    }
+  }
+}

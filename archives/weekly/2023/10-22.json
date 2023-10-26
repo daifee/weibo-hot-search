@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698320048798,
+  "endTime": 1698323556554,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -451,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1683240,
+      "num": 1683240,
+      "word": "小米14",
+      "onboard_time": 1697885673,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1683169,
       "num": 600440,
       "word": "张大奕自曝3年被代购骗1161万",
@@ -849,6 +857,14 @@
       "onboard_time": 1698218617,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1218579,
+      "num": 1218579,
+      "word": "辅导员称播放不雅视频电脑曾借给他人",
+      "onboard_time": 1698320612,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1213560,
@@ -1555,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 834559,
+      "num": 508070,
+      "word": "金凡 紧张",
+      "onboard_time": 1698322233,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 834475,
       "num": 834475,
       "word": "中国台湾地区附近发生5.9级左右地震",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1697988695,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 748958,
+      "num": 748958,
+      "word": "上海迪士尼官宣疯狂动物城园区",
+      "onboard_time": 1698319353,
+      "rank": 18,
+      "category": "旅游,电影"
     },
     {
       "raw_hot": 746806,
@@ -2369,6 +2401,14 @@
       "onboard_time": 1698195453,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608818,
+      "num": 608818,
+      "word": "G2看TheShy选剑魔",
+      "onboard_time": 1698319956,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 604703,
@@ -3099,6 +3139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 493848,
+      "num": 493848,
+      "word": "长江大学",
+      "onboard_time": 1698320554,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493580,
       "num": 493580,
       "word": "乌镇 男人帮",
@@ -3193,6 +3241,14 @@
       "onboard_time": 1698311615,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484086,
+      "num": 484086,
+      "word": "WBG零封MAD",
+      "onboard_time": 1698319956,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 483967,
@@ -4075,14 +4131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392669,
-      "num": 392669,
-      "word": "上海迪士尼官宣疯狂动物城园区",
-      "onboard_time": 1698319353,
-      "rank": 18,
-      "category": "旅游,电影"
-    },
-    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "校方回应老师改作业写你是孤儿吗评语",
@@ -4121,6 +4169,14 @@
       "onboard_time": 1697984015,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390480,
+      "num": 527597,
+      "word": "小米澎湃OS正式发布",
+      "onboard_time": 1698321334,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 390314,
@@ -4507,6 +4563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360098,
+      "num": 360098,
+      "word": "若乳腺结节不疼还增大要警惕",
+      "onboard_time": 1698321873,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 359828,
       "num": 359828,
       "word": "朱一龙 文艺片票房",
@@ -4545,14 +4609,6 @@
       "onboard_time": 1698198330,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 355684,
-      "num": 355684,
-      "word": "WBG零封MAD",
-      "onboard_time": 1698319956,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 354854,
@@ -6163,6 +6219,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 269648,
+      "num": 269648,
+      "word": "小杨哥与美腕合资公司系乌龙",
+      "onboard_time": 1698322655,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 269081,
       "num": 269081,
       "word": "李一桐温柔甜妹妆",
@@ -6312,6 +6376,14 @@
       "word": "孕妇绞断手指交警一路嘶吼开道",
       "onboard_time": 1698216035,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262881,
+      "num": 262881,
+      "word": "成都一男子马路中间拦车被带倒致死",
+      "onboard_time": 1698321755,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6553,6 +6625,14 @@
       "onboard_time": 1698204576,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254456,
+      "num": 254456,
+      "word": "绝区零过审",
+      "onboard_time": 1698321032,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 254187,
@@ -7555,6 +7635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 222654,
+      "num": 222654,
+      "word": "AI换脸能否骗过王牌家族",
+      "onboard_time": 1698321814,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222572,
       "num": 222572,
       "word": "于适看一下你的狗好了",
@@ -7731,14 +7819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 219421,
-      "num": 219421,
-      "word": "小米14",
-      "onboard_time": 1697885673,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 218881,
       "num": 218881,
       "word": "毛吉吉粉扑",
@@ -7899,14 +7979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 213917,
-      "num": 213917,
-      "word": "G2看TheShy选剑魔",
-      "onboard_time": 1698319956,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 213760,
       "num": 213760,
       "word": "校方回应西南科技大学馄饨事件",
@@ -7971,6 +8043,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 212463,
+      "num": 212463,
+      "word": "巴黎世家4千元新发带上海门店已售罄",
+      "onboard_time": 1698323133,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 212444,
       "num": 212444,
       "word": "胡锡进发文评除夕不放假",
@@ -8009,6 +8089,14 @@
       "onboard_time": 1698219157,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211295,
+      "num": 211295,
+      "word": "檀健次复活甲",
+      "onboard_time": 1698323133,
+      "rank": 30,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 211188,
@@ -8297,6 +8385,14 @@
       "onboard_time": 1698132034,
       "rank": 27,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 205515,
+      "num": 205515,
+      "word": "中国6名航天员太空拍全家福",
+      "onboard_time": 1698322354,
+      "rank": 31,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 205452,
@@ -9339,6 +9435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189022,
+      "num": 189022,
+      "word": "林俊杰咸阳",
+      "onboard_time": 1698323373,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188888,
       "num": 188888,
       "word": "河边的错误票房破1亿",
@@ -9547,6 +9651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184215,
+      "num": 184215,
+      "word": "法考主观题",
+      "onboard_time": 1698323315,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183997,
       "num": 183997,
       "word": "韩国奶奶坐轮椅圆梦杭州动物园",
@@ -9673,6 +9785,14 @@
       "onboard_time": 1698282577,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181900,
+      "num": 181900,
+      "word": "中国女足vs朝鲜女足",
+      "onboard_time": 1698320914,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181017,
@@ -10483,6 +10603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 163551,
+      "num": 158630,
+      "word": "华浅仲夜阑be的很体面",
+      "onboard_time": 1698322233,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "你好种地少年定档",
@@ -10723,6 +10851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 158754,
+      "num": 158754,
+      "word": "小米汽车明年上半年正式上市",
+      "onboard_time": 1698323254,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158651,
       "num": 158651,
       "word": "陶昕然时隔13年再扮安陵容",
@@ -10745,6 +10881,14 @@
       "onboard_time": 1698280658,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158300,
+      "num": 158300,
+      "word": "女明星的牙贴面",
+      "onboard_time": 1698323433,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 158083,
@@ -11577,6 +11721,14 @@
       "onboard_time": 1698291753,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 141250,
+      "num": 141250,
+      "word": "如何花最少钱成为第一眼美女",
+      "onboard_time": 1698323494,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 141176,
@@ -14179,6 +14331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 66433,
+      "num": 371760,
+      "word": "方太年度发布会",
+      "onboard_time": 1698322295,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 66041,
       "num": 1027741,
       "word": "漫天桂花给了亚运年独有的浪漫记忆",
@@ -14765,6 +14925,9 @@
     },
     {
       "word": "#神十七航天员出征#"
+    },
+    {
+      "word": "#把共同发展开放融通的亚洲之路越走越宽#"
     }
   ]
 }
