@@ -1,0 +1,410 @@
+{
+  "runTime": 1698301352132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422694,
+        "num": 1422694,
+        "word": "小杨哥曾称每月发工资超5000万",
+        "onboard_time": 1698292234,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 903005,
+        "num": 903005,
+        "word": "上班有一种没有尽头的感觉",
+        "onboard_time": 1698295898,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 840953,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829934,
+        "num": 829934,
+        "word": "捡花生被卷机器身亡老人家属回应恶评",
+        "onboard_time": 1698298716,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689746,
+        "num": 689746,
+        "word": "花样少男少女作者去世",
+        "onboard_time": 1698298115,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668675,
+        "num": 668675,
+        "word": "刘涛给秦海璐的花少建议",
+        "onboard_time": 1698297877,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664065,
+        "num": 664065,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 503573,
+        "num": 503573,
+        "word": "社保局称工作人员上班闲聊视频内容不实",
+        "onboard_time": 1698298358,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482903,
+        "num": 482903,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453918,
+        "num": 453918,
+        "word": "梦中的那片海",
+        "onboard_time": 1698299255,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1767069,
+        "num": 449187,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424431,
+        "num": 424431,
+        "word": "中央财政增发的1万亿元国债怎么用",
+        "onboard_time": 1698299135,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 414960,
+        "num": 414960,
+        "word": "以军夜间发起一次大规模地面进攻",
+        "onboard_time": 1698297338,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 349921,
+        "num": 349921,
+        "word": "迪丽热巴社交名片酸奶疙瘩",
+        "onboard_time": 1698296142,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333515,
+        "num": 333515,
+        "word": "警方回应西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698292954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312043,
+        "num": 312043,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 310182,
+        "num": 310182,
+        "word": "梅西不去青岛了",
+        "onboard_time": 1698297877,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304437,
+        "num": 304437,
+        "word": "中俄列车大劫案有多可怕",
+        "onboard_time": 1698281319,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276718,
+        "num": 276718,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261593,
+        "num": 261593,
+        "word": "张庭银行账户也全部解封",
+        "onboard_time": 1698300816,
+        "rank": 19,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 464817,
+        "num": 260845,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249215,
+        "num": 249215,
+        "word": "好皮肤要先从养肤做起",
+        "onboard_time": 1698294216,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 234254,
+        "num": 234254,
+        "word": "1700亿国企董事长被查",
+        "onboard_time": 1698299431,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225614,
+        "num": 225614,
+        "word": "莲花楼减肥法",
+        "onboard_time": 1698294758,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225539,
+        "num": 225539,
+        "word": "大学生讲PPT都卷到这种地步了吗",
+        "onboard_time": 1698300215,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224437,
+        "num": 224437,
+        "word": "金世佳新片演清醒的恋爱脑",
+        "onboard_time": 1698300937,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191547,
+        "num": 191547,
+        "word": "许凯的衬衫偷偷想开了",
+        "onboard_time": 1698300754,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188171,
+        "num": 188171,
+        "word": "大爷不小心闯入女孩镜头暖心又好笑",
+        "onboard_time": 1698300453,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175113,
+        "num": 175113,
+        "word": "在西湖遇到了真公主",
+        "onboard_time": 1698296439,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172948,
+        "num": 172948,
+        "word": "公司考勤都没这记得全",
+        "onboard_time": 1698296499,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193722,
+        "num": 172769,
+        "word": "威少兴奋了",
+        "onboard_time": 1698300335,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181289,
+        "num": 172516,
+        "word": "呆阿拿 甄姬孔雀公主",
+        "onboard_time": 1698300816,
+        "rank": 31,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 171112,
+        "num": 171112,
+        "word": "舒淇狗啃刘海",
+        "onboard_time": 1698296317,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155996,
+        "num": 155996,
+        "word": "权志龙",
+        "onboard_time": 1698301234,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147100,
+        "num": 147100,
+        "word": "不小心打翻了稻城调色盘",
+        "onboard_time": 1698301057,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 144875,
+        "num": 144875,
+        "word": "郭帆说流浪地球绝不拍第四部",
+        "onboard_time": 1698295001,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144282,
+        "num": 144282,
+        "word": "人生能有96套的东西",
+        "onboard_time": 1698296499,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "曾舜晞撤回一个中指",
+        "onboard_time": 1698293736,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131954,
+        "num": 131954,
+        "word": "中级会计",
+        "onboard_time": 1698300095,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126728,
+        "num": 126728,
+        "word": "男子发现女儿非亲生前妻称自己也不知情",
+        "onboard_time": 1698283773,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122867,
+        "num": 122867,
+        "word": "你在意奶茶里的植脂末吗",
+        "onboard_time": 1698296799,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121909,
+        "num": 121909,
+        "word": "父亲看儿子第二次飞向太空",
+        "onboard_time": 1698301174,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121310,
+        "num": 121310,
+        "word": "旗袍发型",
+        "onboard_time": 1698294279,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119034,
+        "num": 119034,
+        "word": "你现在还去李佳琦直播间消费吗",
+        "onboard_time": 1698294819,
+        "rank": 43,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 117657,
+        "num": 117657,
+        "word": "花少5全员情绪好稳定",
+        "onboard_time": 1698289531,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111348,
+        "num": 111348,
+        "word": "陶昕然时隔13年再扮安陵容",
+        "onboard_time": 1698295179,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103670,
+        "num": 103670,
+        "word": "父女8年8万公里为22个特殊孩子送教",
+        "onboard_time": 1698298657,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101006,
+        "num": 101006,
+        "word": "有个吃得奇怪的同事是种什么体验",
+        "onboard_time": 1698295898,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100184,
+        "num": 100184,
+        "word": "许光汉变许糙汉了",
+        "onboard_time": 1698292892,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96778,
+        "num": 96778,
+        "word": "20款热门游戏未成年保护测评报告",
+        "onboard_time": 1698299194,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同哥伦比亚总统会谈#"
+    }
+  }
+}
