@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 20:32:36
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 20:48:23
 </p>
 </blockquote>
 <p>
@@ -3987,6 +3987,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E7%A7%B0%E6%92%AD%E6%94%BE%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%94%B5%E8%84%91%E6%9B%BE%E5%80%9F%E7%BB%99%E4%BB%96%E4%BA%BA%23" target="weibo">
+辅导员称播放不雅视频电脑曾借给他人（热度：1307274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%98%B3%E5%A4%A7%E6%82%A6%E5%9F%8E%23" target="weibo">
 朝阳大悦城（热度：1306814）
 </a>
@@ -4415,12 +4421,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23" target="weibo">
 4名小学生发现41年前曾灭绝的甲虫（热度：1219187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E7%A7%B0%E6%92%AD%E6%94%BE%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%94%B5%E8%84%91%E6%9B%BE%E5%80%9F%E7%BB%99%E4%BB%96%E4%BA%BA%23" target="weibo">
-辅导员称播放不雅视频电脑曾借给他人（热度：1218579）
 </a>
 </li>
 
