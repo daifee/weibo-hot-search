@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 07:16:54
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 07:33:58
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ iPhone15全系价格暴跌（热度：2058577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%23" target="weibo">
+权志龙回应涉嫌吸毒（热度：2031168）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E7%B1%B3%E5%93%88%E6%B8%B8%E8%81%8C%E5%91%98%23" target="weibo">
 苹果员工被曝涉嫌性侵米哈游职员（热度：2023448）
 </a>
@@ -2889,6 +2895,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%8B%8D%E8%83%B8%E7%89%87%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%AD%A9%E5%9C%A8%E6%93%8D%E4%BD%9C%23" target="weibo">
+女子带孩子拍胸片发现是小孩在操作（热度：1593957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 女单决赛（热度：1593000）
 </a>
@@ -3059,12 +3071,6 @@ MiuMiu钻石内裤（热度：1560241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E6%81%AD%E5%96%9C%E8%8E%8E%E5%A4%B4%E5%A4%BA%E5%86%A0%23" target="weibo">
 阚清子 恭喜莎头夺冠（热度：1550879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%8B%8D%E8%83%B8%E7%89%87%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%AD%A9%E5%9C%A8%E6%93%8D%E4%BD%9C%23" target="weibo">
-女子带孩子拍胸片发现是小孩在操作（热度：1549388）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%B1%E4%BA%AB%E8%A1%A3%E6%A9%B1%23" target="weibo">
 鹿晗张艺兴共享衣橱（热度：973146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%B8%E6%9C%BA%E6%92%9E%E5%80%92%E8%A1%8C%E4%BA%BA%E7%94%A8%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B8%AE%E6%AD%A2%E8%A1%80%23" target="weibo">
-女司机撞倒行人用卫生巾帮止血（热度：972663）
 </a>
 </li>
 

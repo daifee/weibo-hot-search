@@ -1,0 +1,410 @@
+{
+  "runTime": 1698363238194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2031168,
+        "num": 2031168,
+        "word": "权志龙回应涉嫌吸毒",
+        "onboard_time": 1698361766,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1593957,
+        "num": 1593957,
+        "word": "女子带孩子拍胸片发现是小孩在操作",
+        "onboard_time": 1698335735,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30704,
+        "num": 1196584,
+        "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+        "onboard_time": 1698327095,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1092667,
+        "num": 1092667,
+        "word": "罗翔 你们睡觉的时候手机关不关",
+        "onboard_time": 1698333095,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 690817,
+        "num": 690817,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 441042,
+        "num": 441042,
+        "word": "巴黎世家4千元新发带上海门店已售罄",
+        "onboard_time": 1698323133,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 321061,
+        "num": 321061,
+        "word": "海底捞回应140斤女生应聘洗碗工被拒",
+        "onboard_time": 1698328176,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244329,
+        "num": 244329,
+        "word": "警方通报合肥工业大学一学生轻生",
+        "onboard_time": 1698361583,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213703,
+        "num": 213703,
+        "word": "张云龙直播不敢看钟楚曦",
+        "onboard_time": 1698318632,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200350,
+        "num": 200350,
+        "word": "刘家昌发长文控诉前妻及儿子",
+        "onboard_time": 1698329023,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844901,
+        "num": 196438,
+        "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
+        "onboard_time": 1698361646,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375297,
+        "num": 195306,
+        "word": "反垄断办回应李佳琦被质疑涉嫌控价",
+        "onboard_time": 1698323557,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 226279,
+        "num": 186568,
+        "word": "合工大",
+        "onboard_time": 1698336152,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311959,
+        "num": 184408,
+        "word": "张云龙快碎了",
+        "onboard_time": 1698362668,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180915,
+        "num": 180915,
+        "word": "小米14Pro纯钛",
+        "onboard_time": 1698326437,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173905,
+        "num": 173905,
+        "word": "直播间卖的玉到底是真是假",
+        "onboard_time": 1698331718,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 165696,
+        "num": 165696,
+        "word": "陕西发现元稹第二任妻子裴淑墓",
+        "onboard_time": 1698354374,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161028,
+        "num": 161028,
+        "word": "上海迪士尼官宣疯狂动物城园区",
+        "onboard_time": 1698319353,
+        "rank": 17,
+        "category": "旅游,电影"
+      },
+      {
+        "raw_hot": 152724,
+        "num": 152724,
+        "word": "王一博乌镇特种兵式观剧",
+        "onboard_time": 1698330819,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139135,
+        "num": 139135,
+        "word": "花儿与少年开始体现大局观了",
+        "onboard_time": 1698330037,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685182,
+        "num": 138144,
+        "word": "赵丽颖对接要求美团买菜道歉",
+        "onboard_time": 1698326316,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251775,
+        "num": 136758,
+        "word": "结婚前一天晚上的聊天记录",
+        "onboard_time": 1698327818,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166365,
+        "num": 135394,
+        "word": "谢娜说杨紫火男主",
+        "onboard_time": 1698332378,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148782,
+        "num": 134982,
+        "word": "被12岁小朋友的作业震撼到",
+        "onboard_time": 1698331837,
+        "rank": 23,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 133942,
+        "num": 133942,
+        "word": "辛巴谈李佳琦再陷舆论风波",
+        "onboard_time": 1698315273,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 128458,
+        "num": 128458,
+        "word": "生气长大的甘蔗都是结节",
+        "onboard_time": 1698357555,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 127562,
+        "word": "陈卓璇工作室发声明",
+        "onboard_time": 1698362187,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126689,
+        "num": 126689,
+        "word": "六旬男子晨跑时一头栽地2女子急抢救",
+        "onboard_time": 1698362788,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107522,
+        "num": 107522,
+        "word": "女明星的牙贴面",
+        "onboard_time": 1698323433,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 103534,
+        "num": 103534,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1698363092,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 125691,
+        "num": 102377,
+        "word": "国家级保护区山上遍布捕鸟网",
+        "onboard_time": 1698362306,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101099,
+        "num": 101099,
+        "word": "微胖女生秋冬发型",
+        "onboard_time": 1698360743,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 94589,
+        "num": 94589,
+        "word": "老人在ICU门口通宵守护脑出血儿子",
+        "onboard_time": 1698362486,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92348,
+        "num": 93540,
+        "word": "直播间开始盯着对方降价了",
+        "onboard_time": 1698329319,
+        "rank": 33,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 92846,
+        "num": 92846,
+        "word": "充电宝 俗称尿袋",
+        "onboard_time": 1698348794,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92430,
+        "num": 92430,
+        "word": "爸爸为了女儿都快变成爱豆了",
+        "onboard_time": 1698324275,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90054,
+        "num": 90054,
+        "word": "玲娜贝儿史上最凶眉毛",
+        "onboard_time": 1698332917,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84759,
+        "num": 84759,
+        "word": "秦岚拍的辛芷蕾",
+        "onboard_time": 1698317796,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81664,
+        "num": 81664,
+        "word": "以爱为营",
+        "onboard_time": 1698333457,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79058,
+        "num": 79058,
+        "word": "G2看TheShy选剑魔",
+        "onboard_time": 1698319956,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78207,
+        "num": 78207,
+        "word": "潘玮柏近期状态",
+        "onboard_time": 1698331718,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76162,
+        "num": 76162,
+        "word": "小米14Pro终结直屏曲屏之争",
+        "onboard_time": 1698328176,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70241,
+        "num": 72213,
+        "word": "轿车掉河中众人齐心救出被困母子",
+        "onboard_time": 1698362608,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72098,
+        "num": 72098,
+        "word": "美国加州州长纽森访华",
+        "onboard_time": 1698352933,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 70849,
+        "num": 70849,
+        "word": "林心如飞奔拥抱苏有朋",
+        "onboard_time": 1698363208,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69069,
+        "num": 69069,
+        "word": "李溪芮姐弟恋女主",
+        "onboard_time": 1698362908,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68082,
+        "num": 68082,
+        "word": "陈牧驰此沙拳击比赛打到就医",
+        "onboard_time": 1698324393,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67303,
+        "num": 67303,
+        "word": "脑瘫男孩第一次爬楼梯摇晃着坚持",
+        "onboard_time": 1698362248,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65878,
+        "num": 65878,
+        "word": "2名女加油员回应接力抢救路边昏迷男子",
+        "onboard_time": 1698361646,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65099,
+        "num": 65099,
+        "word": "张元英甜感野猫妆",
+        "onboard_time": 1698330998,
+        "rank": 49,
+        "category": "作品衍生,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天又见大红屏#"
+    }
+  }
+}

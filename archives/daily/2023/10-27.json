@@ -1,7 +1,15 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698362214710,
+  "endTime": 1698363238194,
   "band_list": [
+    {
+      "raw_hot": 2031168,
+      "num": 2031168,
+      "word": "权志龙回应涉嫌吸毒",
+      "onboard_time": 1698361766,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1649245,
       "num": 1649245,
@@ -11,8 +19,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1549388,
-      "num": 1549388,
+      "raw_hot": 1593957,
+      "num": 1593957,
       "word": "女子带孩子拍胸片发现是小孩在操作",
       "onboard_time": 1698335735,
       "rank": 10,
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 844901,
+      "num": 196438,
+      "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
+      "onboard_time": 1698361646,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838186,
       "num": 838186,
       "word": "睡前不洗脸会让皮肤变差吗",
       "onboard_time": 1698314555,
       "rank": 3,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 627456,
-      "num": 627456,
-      "word": "权志龙回应涉嫌吸毒",
-      "onboard_time": 1698361766,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 444382,
@@ -59,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438949,
-      "num": 438949,
+      "raw_hot": 441042,
+      "num": 441042,
       "word": "巴黎世家4千元新发带上海门店已售罄",
       "onboard_time": 1698323133,
       "rank": 40,
@@ -107,12 +115,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 333813,
-      "num": 168443,
-      "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
-      "onboard_time": 1698361646,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 311959,
+      "num": 184408,
+      "word": "张云龙快碎了",
+      "onboard_time": 1698362668,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 311830,
@@ -153,6 +161,14 @@
       "onboard_time": 1698318632,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244329,
+      "num": 244329,
+      "word": "警方通报合肥工业大学一学生轻生",
+      "onboard_time": 1698361583,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243818,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173905,
+      "num": 173905,
+      "word": "直播间卖的玉到底是真是假",
+      "onboard_time": 1698331718,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 172995,
       "num": 172995,
       "word": "G2看TheShy选剑魔",
@@ -233,14 +257,6 @@
       "onboard_time": 1698328176,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 160058,
-      "num": 160058,
-      "word": "直播间卖的玉到底是真是假",
-      "onboard_time": 1698331718,
-      "rank": 25,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 158787,
@@ -291,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128458,
+      "num": 128458,
+      "word": "生气长大的甘蔗都是结节",
+      "onboard_time": 1698357555,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128412,
       "num": 128412,
       "word": "陈牧驰此沙拳击比赛打到就医",
@@ -305,6 +329,30 @@
       "onboard_time": 1698312814,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127562,
+      "num": 127562,
+      "word": "陈卓璇工作室发声明",
+      "onboard_time": 1698362187,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126689,
+      "num": 126689,
+      "word": "六旬男子晨跑时一头栽地2女子急抢救",
+      "onboard_time": 1698362788,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125691,
+      "num": 102377,
+      "word": "国家级保护区山上遍布捕鸟网",
+      "onboard_time": 1698362306,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123372,
@@ -339,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114766,
-      "num": 88898,
-      "word": "生气长大的甘蔗都是结节",
-      "onboard_time": 1698357555,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106147,
       "num": 106147,
       "word": "秦岚拍的辛芷蕾",
@@ -355,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103534,
+      "num": 103534,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1698363092,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 101451,
       "num": 101451,
       "word": "金凡 紧张",
       "onboard_time": 1698322233,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101099,
+      "num": 101099,
+      "word": "微胖女生秋冬发型",
+      "onboard_time": 1698360743,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 100964,
@@ -379,12 +435,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99229,
-      "num": 99229,
-      "word": "警方通报合肥工业大学一学生轻生",
-      "onboard_time": 1698361583,
-      "rank": 23,
+      "raw_hot": 94589,
+      "num": 94589,
+      "word": "老人在ICU门口通宵守护脑出血儿子",
+      "onboard_time": 1698362486,
+      "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92846,
+      "num": 92846,
+      "word": "充电宝 俗称尿袋",
+      "onboard_time": 1698348794,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 91906,
@@ -435,28 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82909,
-      "num": 82909,
-      "word": "充电宝 俗称尿袋",
-      "onboard_time": 1698348794,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80291,
       "num": 80291,
       "word": "秦海璐接老公视频前的小细节",
       "onboard_time": 1698324393,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79246,
-      "num": 79246,
-      "word": "微胖女生秋冬发型",
-      "onboard_time": 1698360743,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 76897,
@@ -480,6 +528,38 @@
       "word": "2名女加油员回应接力抢救路边昏迷男子",
       "onboard_time": 1698361646,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70849,
+      "num": 70849,
+      "word": "林心如飞奔拥抱苏有朋",
+      "onboard_time": 1698363208,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 70241,
+      "num": 72213,
+      "word": "轿车掉河中众人齐心救出被困母子",
+      "onboard_time": 1698362608,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69069,
+      "num": 69069,
+      "word": "李溪芮姐弟恋女主",
+      "onboard_time": 1698362908,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67303,
+      "num": 67303,
+      "word": "脑瘫男孩第一次爬楼梯摇晃着坚持",
+      "onboard_time": 1698362248,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -515,14 +595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 41102,
-      "num": 51833,
-      "word": "陈卓璇工作室发声明",
-      "onboard_time": 1698362187,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39193,
       "num": 56980,
       "word": "法考主观题",
@@ -531,20 +603,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 30704,
+      "num": 1230512,
+      "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+      "onboard_time": 1698327095,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28207,
       "num": 31897,
       "word": "刘诗诗清丽绿衣路透",
       "onboard_time": 1698355393,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26134,
-      "num": 1230512,
-      "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
-      "onboard_time": 1698327095,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 21366,
