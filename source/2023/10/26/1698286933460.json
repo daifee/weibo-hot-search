@@ -1,0 +1,410 @@
+{
+  "runTime": 1698286933460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2503127,
+        "num": 2503127,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1606957,
+        "num": 1606957,
+        "word": "浪凡 成毅",
+        "onboard_time": 1698284673,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27972,
+        "num": 1197594,
+        "word": "聚焦神舟十七号",
+        "onboard_time": 1698238301,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913757,
+        "num": 913757,
+        "word": "中俄列车大劫案有多可怕",
+        "onboard_time": 1698281319,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 842094,
+        "num": 842094,
+        "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
+        "onboard_time": 1698283174,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788619,
+        "num": 788619,
+        "word": "美国缅因州枪击事件",
+        "onboard_time": 1698286174,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 626827,
+        "num": 626827,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 619393,
+        "num": 619393,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515528,
+        "num": 515528,
+        "word": "染上毒瘾后外貌的真实变化",
+        "onboard_time": 1698248258,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404318,
+        "num": 404318,
+        "word": "女生半年减肥40斤查出重度脂肪肝",
+        "onboard_time": 1698248558,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819380,
+        "num": 362937,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749000,
+        "num": 355416,
+        "word": "美缅因州枪击事件至少已致22人死亡",
+        "onboard_time": 1698286295,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 298210,
+        "num": 298210,
+        "word": "李沁官宣出演七夜雪",
+        "onboard_time": 1698278255,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280040,
+        "num": 280040,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277183,
+        "num": 277183,
+        "word": "快递小哥十年做公益被孩子叫熊大叔叔",
+        "onboard_time": 1698282939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276828,
+        "num": 276828,
+        "word": "以前咋没发现秦岚这么好笑",
+        "onboard_time": 1698285813,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237453,
+        "num": 237453,
+        "word": "iOS17.1修复iPhone12辐射问题",
+        "onboard_time": 1698281678,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225998,
+        "num": 225998,
+        "word": "李秀根跳我姓石",
+        "onboard_time": 1698281139,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222467,
+        "num": 222467,
+        "word": "迪丽热巴 当年好奇的问题突然窜入脑海",
+        "onboard_time": 1698278075,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219778,
+        "num": 219778,
+        "word": "24岁女生去酒吧被保安当未成年拦下",
+        "onboard_time": 1698249575,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999288,
+        "num": 216764,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455531,
+        "num": 210905,
+        "word": "男子发现女儿非亲生前妻称自己也不知情",
+        "onboard_time": 1698283773,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229832,
+        "num": 202224,
+        "word": "刚睡醒的小狗披着小被子到处找妈妈",
+        "onboard_time": 1698283896,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 185212,
+        "num": 185212,
+        "word": "第一批过年回家的选手已经十月辞职了",
+        "onboard_time": 1698251487,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166722,
+        "num": 166722,
+        "word": "小情侣把一车柚子画成卡通限量版",
+        "onboard_time": 1698286295,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 165843,
+        "word": "姚明现身篮网主场",
+        "onboard_time": 1698282695,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164477,
+        "num": 164477,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87309,
+        "num": 164163,
+        "word": "中国新能源汽车技术太值钱了",
+        "onboard_time": 1698285936,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163907,
+        "num": 163907,
+        "word": "梅西中国行赛程确定",
+        "onboard_time": 1698282279,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30453,
+        "num": 163434,
+        "word": "速读未成年人网络保护条例举措",
+        "onboard_time": 1698238361,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163029,
+        "num": 163029,
+        "word": "我要逆风去 成年人的电视剧",
+        "onboard_time": 1698282577,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160880,
+        "num": 160880,
+        "word": "最美后妈一碗水端平照顾继子60年",
+        "onboard_time": 1698284915,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159852,
+        "num": 159852,
+        "word": "雷军称小米14越级对标iPhone15Pro",
+        "onboard_time": 1698246582,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144028,
+        "num": 144028,
+        "word": "冰雪奇缘居然是10年前",
+        "onboard_time": 1698282876,
+        "rank": 33,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 143594,
+        "num": 143594,
+        "word": "直播神十七发射",
+        "onboard_time": 1698281859,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 141849,
+        "num": 141849,
+        "word": "2分钟看完女性一个月的变化",
+        "onboard_time": 1698286535,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137349,
+        "num": 137349,
+        "word": "周雨彤又演现代剧了",
+        "onboard_time": 1698277831,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133242,
+        "num": 133242,
+        "word": "中职学生在寝室用棍棒殴打小狗",
+        "onboard_time": 1698286052,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131654,
+        "num": 131654,
+        "word": "普通人13个月把家装修成这样",
+        "onboard_time": 1698278857,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 126688,
+        "num": 126688,
+        "word": "鸟儿对生活环境有多在乎",
+        "onboard_time": 1698286654,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125225,
+        "num": 125225,
+        "word": "卸妆膏为什么不做成这样",
+        "onboard_time": 1698242980,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121354,
+        "num": 121354,
+        "word": "为什么番茄锅煮的土豆是脆的",
+        "onboard_time": 1698286774,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116122,
+        "num": 116122,
+        "word": "一枝南南 礼盒开箱",
+        "onboard_time": 1698281563,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115596,
+        "num": 115596,
+        "word": "七夜雪阵容官宣",
+        "onboard_time": 1698278015,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114862,
+        "num": 114862,
+        "word": "男孩走丢被警察老师捡到了",
+        "onboard_time": 1698285873,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114359,
+        "num": 114359,
+        "word": "YG回应权志龙涉嫌吸毒",
+        "onboard_time": 1698230078,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110681,
+        "num": 110681,
+        "word": "如何看李佳琦直播间回应喊话内容",
+        "onboard_time": 1698250710,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62001,
+        "num": 110668,
+        "word": "小米14首测超iPhone15Pro",
+        "onboard_time": 1698286894,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110657,
+        "num": 110657,
+        "word": "七夜雪",
+        "onboard_time": 1698282037,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107672,
+        "num": 107672,
+        "word": "檀健次你好星期六续签",
+        "onboard_time": 1698266894,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同哥伦比亚总统会谈#"
+    }
+  }
+}
