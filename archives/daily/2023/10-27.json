@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698348855807,
+  "endTime": 1698351473478,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -451,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 30584,
+      "num": 19248,
+      "word": "充电宝 俗称尿袋",
+      "onboard_time": 1698348794,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26134,
       "num": 1230512,
       "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
@@ -459,11 +467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13092,
-      "num": 15344,
-      "word": "充电宝 俗称尿袋",
-      "onboard_time": 1698348794,
-      "rank": 48,
+      "raw_hot": 14685,
+      "num": 14685,
+      "word": "欺骗自己的不是眼睛而是大脑",
+      "onboard_time": 1698350592,
+      "rank": 40,
       "category": "幽默"
     }
   ],

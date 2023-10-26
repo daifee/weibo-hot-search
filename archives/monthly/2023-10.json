@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698348855807,
+  "endTime": 1698351473478,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -73139,6 +73139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30584,
+      "num": 19248,
+      "word": "充电宝 俗称尿袋",
+      "onboard_time": 1698348794,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30239,
       "num": 50987,
       "word": "田耕纪 母女线",
@@ -73819,6 +73827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14685,
+      "num": 14685,
+      "word": "欺骗自己的不是眼睛而是大脑",
+      "onboard_time": 1698350592,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14640,
       "num": 39764,
       "word": "珠江人家定档央一",
@@ -73897,14 +73913,6 @@
       "onboard_time": 1696233634,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13092,
-      "num": 15344,
-      "word": "充电宝 俗称尿袋",
-      "onboard_time": 1698348794,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 13061,

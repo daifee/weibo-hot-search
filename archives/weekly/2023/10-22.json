@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698348855807,
+  "endTime": 1698351473478,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -15251,6 +15251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30584,
+      "num": 19248,
+      "word": "充电宝 俗称尿袋",
+      "onboard_time": 1698348794,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30001,
       "num": 30001,
       "word": "看小警汪的沉浸式训练秒回童年",
@@ -15379,6 +15387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 14685,
+      "num": 14685,
+      "word": "欺骗自己的不是眼睛而是大脑",
+      "onboard_time": 1698350592,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13634,
       "num": 14715,
       "word": "侯明昊伞舞",
@@ -15393,14 +15409,6 @@
       "onboard_time": 1698181752,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 13092,
-      "num": 15344,
-      "word": "充电宝 俗称尿袋",
-      "onboard_time": 1698348794,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 13022,
