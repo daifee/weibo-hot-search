@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698286933460,
+  "endTime": 1698287647123,
   "band_list": [
     {
       "raw_hot": 2901409,
@@ -43,6 +43,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1359988,
+      "num": 1359988,
+      "word": "美国缅因州枪击事件",
+      "onboard_time": 1698286174,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1295181,
+      "num": 1295181,
+      "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+      "onboard_time": 1698285513,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1228649,
       "num": 310672,
       "word": "权志龙涉嫌吸毒被立案",
@@ -60,11 +76,19 @@
     },
     {
       "raw_hot": 1118223,
-      "num": 504038,
+      "num": 533036,
       "word": "西南科技大学馄饨阿姨事件",
       "onboard_time": 1698229778,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1073177,
+      "num": 1073177,
+      "word": "美缅因州枪击事件至少已致22人死亡",
+      "onboard_time": 1698286295,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1033436,
@@ -72,14 +96,6 @@
       "word": "24岁女生去酒吧被保安当未成年拦下",
       "onboard_time": 1698249575,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 999288,
-      "num": 216764,
-      "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
-      "onboard_time": 1698285513,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -107,28 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788619,
-      "num": 788619,
-      "word": "美国缅因州枪击事件",
-      "onboard_time": 1698286174,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 755095,
       "num": 755095,
       "word": "染上毒瘾后外貌的真实变化",
       "onboard_time": 1698248258,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749000,
-      "num": 355416,
-      "word": "美缅因州枪击事件至少已致22人死亡",
-      "onboard_time": 1698286295,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 696659,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 536281,
-      "num": 213687,
+      "num": 218504,
       "word": "男子发现女儿非亲生前妻称自己也不知情",
       "onboard_time": 1698283773,
       "rank": 30,
@@ -185,6 +185,14 @@
       "onboard_time": 1698280541,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445879,
+      "num": 445879,
+      "word": "以前咋没发现秦岚这么好笑",
+      "onboard_time": 1698285813,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 445292,
@@ -315,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276828,
-      "num": 276828,
-      "word": "以前咋没发现秦岚这么好笑",
-      "onboard_time": 1698285813,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "5名工作人员接触到福岛核污染水",
@@ -345,6 +345,14 @@
       "onboard_time": 1698277831,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260443,
+      "num": 260443,
+      "word": "美国枪击事件枪手仍然在逃",
+      "onboard_time": 1698287073,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 258476,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227335,
+      "num": 155643,
+      "word": "为什么番茄锅煮的土豆是脆的",
+      "onboard_time": 1698286774,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 220998,
       "num": 220998,
       "word": "雷军称小米14越级对标iPhone15Pro",
@@ -433,6 +449,14 @@
       "onboard_time": 1698254002,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 220034,
+      "num": 220034,
+      "word": "中职学生在寝室用棍棒殴打小狗",
+      "onboard_time": 1698286052,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219422,
@@ -473,6 +497,14 @@
       "onboard_time": 1698279516,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212996,
+      "num": 155634,
+      "word": "2分钟看完女性一个月的变化",
+      "onboard_time": 1698286535,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208780,
@@ -555,6 +587,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 190177,
+      "num": 190177,
+      "word": "小情侣把一车柚子画成卡通限量版",
+      "onboard_time": 1698286295,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181971,
       "num": 181971,
       "word": "我要逆风去 成年人的电视剧",
@@ -609,14 +649,6 @@
       "onboard_time": 1698285758,
       "rank": 26,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 166722,
-      "num": 166722,
-      "word": "小情侣把一车柚子画成卡通限量版",
-      "onboard_time": 1698286295,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166384,
@@ -715,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141849,
-      "num": 141849,
-      "word": "2分钟看完女性一个月的变化",
-      "onboard_time": 1698286535,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138153,
       "num": 138153,
       "word": "马斯克 不想利用人性下坠的力量赚钱",
@@ -747,12 +771,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 133242,
-      "num": 133242,
-      "word": "中职学生在寝室用棍棒殴打小狗",
-      "onboard_time": 1698286052,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 131236,
+      "num": 157940,
+      "word": "小米14首测超iPhone15Pro",
+      "onboard_time": 1698286894,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 130889,
@@ -787,20 +811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121354,
-      "num": 121354,
-      "word": "为什么番茄锅煮的土豆是脆的",
-      "onboard_time": 1698286774,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119151,
       "num": 119151,
       "word": "王一博染回黑发了",
       "onboard_time": 1698232304,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 118080,
+      "num": 172775,
+      "word": "中国新能源汽车技术太值钱了",
+      "onboard_time": 1698285936,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 117420,
@@ -867,6 +891,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104376,
+      "num": 104376,
+      "word": "你好种地少年开播",
+      "onboard_time": 1698287613,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100167,
+      "num": 100167,
+      "word": "浙江一地每天为山区老人送1元午餐",
+      "onboard_time": 1698287433,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99006,
       "num": 99006,
       "word": "我的老婆在外面哄别的女孩纸",
@@ -897,14 +937,6 @@
       "onboard_time": 1698243102,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87309,
-      "num": 164163,
-      "word": "中国新能源汽车技术太值钱了",
-      "onboard_time": 1698285936,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 84529,
@@ -947,14 +979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62001,
-      "num": 110668,
-      "word": "小米14首测超iPhone15Pro",
-      "onboard_time": 1698286894,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 58320,
       "num": 58320,
       "word": "徐穗珍回来了",
@@ -979,8 +1003,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27972,
-      "num": 1197594,
+      "raw_hot": 31886,
+      "num": 1379575,
       "word": "聚焦神舟十七号",
       "onboard_time": 1698238301,
       "rank": 2,

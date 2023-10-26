@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 10:22:13
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 10:34:07
 </p>
 </blockquote>
 <p>
@@ -3627,6 +3627,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
+美国缅因州枪击事件（热度：1359988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8A%8A%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%86%99%E6%88%90%E4%BA%86%E8%B5%B5%E4%B8%BD%E9%A2%96%23" target="weibo">
 造型工作室把赵露思写成了赵丽颖（热度：1359553）
 </a>
@@ -3965,6 +3971,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB16%E4%BC%A4%23" target="weibo">
 吉林一小区爆炸致1死16伤（热度：1296271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A7%E8%87%B4%E5%A6%BB%E5%A5%B3%E6%84%9F%E6%9F%93%E5%A6%BB%E5%AD%90%E6%8F%90%E7%A6%BB%E5%A9%9A%23" target="weibo">
+男子幽门螺杆菌阳性致妻女感染妻子提离婚（热度：1295181）
 </a>
 </li>
 
@@ -5007,6 +5019,12 @@ WBG两连败（热度：1076997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91%E5%B7%B2%E8%87%B422%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+美缅因州枪击事件至少已致22人死亡（热度：1073177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9C%AF%E9%98%9F%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8F%82%E8%B5%9B%E8%B5%84%E6%A0%BC%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
 中国马术队巴黎奥运会参赛资格被取消（热度：1071419）
 </a>
@@ -5571,12 +5589,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A7%E8%87%B4%E5%A6%BB%E5%A5%B3%E6%84%9F%E6%9F%93%E5%A6%BB%E5%AD%90%E6%8F%90%E7%A6%BB%E5%A9%9A%23" target="weibo">
-男子幽门螺杆菌阳性致妻女感染妻子提离婚（热度：999288）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B513%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%88%A4%E6%97%A0%E7%BD%AA%E9%87%8A%E6%94%BE%E5%90%8E%E5%A4%A7%E7%AC%91%23" target="weibo">
 英男子性侵13岁女童判无罪释放后大笑（热度：998462）
 </a>
@@ -5999,18 +6011,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%9C%A8%E6%9C%89%E5%B0%8F%E5%AD%A9%E4%B9%8B%E5%90%8E%E5%8F%91%E7%94%9F%E7%9A%84%E6%94%B9%E5%8F%98%23" target="weibo">
 夫妻在有小孩之后发生的改变（热度：956555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%9A%84%E8%BE%AB%E5%AD%901%E7%B1%B35%E9%95%BF%23" target="weibo">
-沈梦辰的辫子1米5长（热度：956145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%97%A0%E7%BE%A1%E4%B9%99%E5%A5%B3%23" target="weibo">
-魏无羡乙女（热度：955921）
 </a>
 </li>
 

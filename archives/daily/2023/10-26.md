@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/26 00:21:20 ~ 2023/10/26 10:22:13
+本榜单时间：2023/10/26 00:21:20 ~ 2023/10/26 10:34:07
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
+美国缅因州枪击事件（热度：1359988）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A7%E8%87%B4%E5%A6%BB%E5%A5%B3%E6%84%9F%E6%9F%93%E5%A6%BB%E5%AD%90%E6%8F%90%E7%A6%BB%E5%A9%9A%23" target="weibo">
+男子幽门螺杆菌阳性致妻女感染妻子提离婚（热度：1295181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88%23" target="weibo">
 权志龙涉嫌吸毒被立案（热度：1228649）
 </a>
@@ -63,14 +75,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%8E%BB%E9%85%92%E5%90%A7%E8%A2%AB%E4%BF%9D%E5%AE%89%E5%BD%93%E6%9C%AA%E6%88%90%E5%B9%B4%E6%8B%A6%E4%B8%8B%23" target="weibo">
-24岁女生去酒吧被保安当未成年拦下（热度：1033436）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91%E5%B7%B2%E8%87%B422%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+美缅因州枪击事件至少已致22人死亡（热度：1073177）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A7%E8%87%B4%E5%A6%BB%E5%A5%B3%E6%84%9F%E6%9F%93%E5%A6%BB%E5%AD%90%E6%8F%90%E7%A6%BB%E5%A9%9A%23" target="weibo">
-男子幽门螺杆菌阳性致妻女感染妻子提离婚（热度：999288）
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E7%94%9F%E5%8E%BB%E9%85%92%E5%90%A7%E8%A2%AB%E4%BF%9D%E5%AE%89%E5%BD%93%E6%9C%AA%E6%88%90%E5%B9%B4%E6%8B%A6%E4%B8%8B%23" target="weibo">
+24岁女生去酒吧被保安当未成年拦下（热度：1033436）
 </a>
 </li>
 
@@ -93,20 +105,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
-美国缅因州枪击事件（热度：788619）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%93%E4%B8%8A%E6%AF%92%E7%98%BE%E5%90%8E%E5%A4%96%E8%B2%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8F%98%E5%8C%96%23" target="weibo">
 染上毒瘾后外貌的真实变化（热度：755095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91%E5%B7%B2%E8%87%B422%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-美缅因州枪击事件至少已致22人死亡（热度：749000）
 </a>
 </li>
 
@@ -149,6 +149,12 @@ BIGBANG五名成员四名涉毒（热度：692788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E6%98%A5%E8%8A%82%E5%A2%9E%E5%8A%A02%E5%A4%A9%E4%BC%91%E5%81%87%23" target="weibo">
 专家建议春节增加2天休假（热度：513378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E5%92%8B%E6%B2%A1%E5%8F%91%E7%8E%B0%E7%A7%A6%E5%B2%9A%E8%BF%99%E4%B9%88%E5%A5%BD%E7%AC%91%23" target="weibo">
+以前咋没发现秦岚这么好笑（热度：445879）
 </a>
 </li>
 
@@ -249,12 +255,6 @@ iOS17.1修复iPhone12辐射问题（热度：305214）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E5%92%8B%E6%B2%A1%E5%8F%91%E7%8E%B0%E7%A7%A6%E5%B2%9A%E8%BF%99%E4%B9%88%E5%A5%BD%E7%AC%91%23" target="weibo">
-以前咋没发现秦岚这么好笑（热度：276828）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A5%E8%A7%A6%E5%88%B0%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23" target="weibo">
 5名工作人员接触到福岛核污染水（热度：263639）
 </a>
@@ -269,6 +269,12 @@ iOS17.1修复iPhone12辐射问题（热度：305214）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%8F%88%E6%BC%94%E7%8E%B0%E4%BB%A3%E5%89%A7%E4%BA%86%23" target="weibo">
 周雨彤又演现代剧了（热度：261022）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E6%9E%AA%E6%89%8B%E4%BB%8D%E7%84%B6%E5%9C%A8%E9%80%83%23" target="weibo">
+美国枪击事件枪手仍然在逃（热度：260443）
 </a>
 </li>
 
@@ -327,6 +333,12 @@ TTG止步挑杯八强（热度：249328）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%95%AA%E8%8C%84%E9%94%85%E7%85%AE%E7%9A%84%E5%9C%9F%E8%B1%86%E6%98%AF%E8%84%86%E7%9A%84%23" target="weibo">
+为什么番茄锅煮的土豆是脆的（热度：227335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B314%E8%B6%8A%E7%BA%A7%E5%AF%B9%E6%A0%87iPhone15Pro%23" target="weibo">
 雷军称小米14越级对标iPhone15Pro（热度：220998）
 </a>
@@ -335,6 +347,12 @@ TTG止步挑杯八强（热度：249328）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%B7%B2%E8%87%B4%E5%8F%8C%E6%96%B9%E8%B6%857200%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 巴以冲突已致双方超7200人死亡（热度：220900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%81%8C%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%AF%9D%E5%AE%A4%E7%94%A8%E6%A3%8D%E6%A3%92%E6%AE%B4%E6%89%93%E5%B0%8F%E7%8B%97%23" target="weibo">
+中职学生在寝室用棍棒殴打小狗（热度：220034）
 </a>
 </li>
 
@@ -365,6 +383,12 @@ BIGBANG最后的正常人居然是太阳（热度：215853）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%80%95%E4%BB%96%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%94%B5%E6%A2%AF%E6%96%87%E5%8C%96%23" target="weibo">
 好怕他以为这是中国的电梯文化（热度：215834）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E5%A5%B3%E6%80%A7%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
+2分钟看完女性一个月的变化（热度：212996）
 </a>
 </li>
 
@@ -429,6 +453,12 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%83%85%E4%BE%A3%E6%8A%8A%E4%B8%80%E8%BD%A6%E6%9F%9A%E5%AD%90%E7%94%BB%E6%88%90%E5%8D%A1%E9%80%9A%E9%99%90%E9%87%8F%E7%89%88%23" target="weibo">
+小情侣把一车柚子画成卡通限量版（热度：190177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%20%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
 我要逆风去 成年人的电视剧（热度：181971）
 </a>
@@ -467,12 +497,6 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BC%85%E5%9B%A0%E5%B7%9E%E7%AA%81%E5%8F%91%E6%9E%AA%E5%87%BB%E6%A1%88%E8%87%B3%E5%B0%9116%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 美国缅因州突发枪击案至少16人死亡（热度：168716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%83%85%E4%BE%A3%E6%8A%8A%E4%B8%80%E8%BD%A6%E6%9F%9A%E5%AD%90%E7%94%BB%E6%88%90%E5%8D%A1%E9%80%9A%E9%99%90%E9%87%8F%E7%89%88%23" target="weibo">
-小情侣把一车柚子画成卡通限量版（热度：166722）
 </a>
 </li>
 
@@ -549,12 +573,6 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E5%A5%B3%E6%80%A7%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
-2分钟看完女性一个月的变化（热度：141849）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%20%E4%B8%8D%E6%83%B3%E5%88%A9%E7%94%A8%E4%BA%BA%E6%80%A7%E4%B8%8B%E5%9D%A0%E7%9A%84%E5%8A%9B%E9%87%8F%E8%B5%9A%E9%92%B1%23" target="weibo">
 马斯克 不想利用人性下坠的力量赚钱（热度：138153）
 </a>
@@ -573,8 +591,8 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%81%8C%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%AF%9D%E5%AE%A4%E7%94%A8%E6%A3%8D%E6%A3%92%E6%AE%B4%E6%89%93%E5%B0%8F%E7%8B%97%23" target="weibo">
-中职学生在寝室用棍棒殴打小狗（热度：133242）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314%E9%A6%96%E6%B5%8B%E8%B6%85iPhone15Pro%23" target="weibo">
+小米14首测超iPhone15Pro（热度：131236）
 </a>
 </li>
 
@@ -603,14 +621,14 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%95%AA%E8%8C%84%E9%94%85%E7%85%AE%E7%9A%84%E5%9C%9F%E8%B1%86%E6%98%AF%E8%84%86%E7%9A%84%23" target="weibo">
-为什么番茄锅煮的土豆是脆的（热度：121354）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9F%93%E5%9B%9E%E9%BB%91%E5%8F%91%E4%BA%86%23" target="weibo">
+王一博染回黑发了（热度：119151）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9F%93%E5%9B%9E%E9%BB%91%E5%8F%91%E4%BA%86%23" target="weibo">
-王一博染回黑发了（热度：119151）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8A%80%E6%9C%AF%E5%A4%AA%E5%80%BC%E9%92%B1%E4%BA%86%23" target="weibo">
+中国新能源汽车技术太值钱了（热度：118080）
 </a>
 </li>
 
@@ -663,6 +681,18 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E7%A7%8D%E5%9C%B0%E5%B0%91%E5%B9%B4%E5%BC%80%E6%92%AD%23" target="weibo">
+你好种地少年开播（热度：104376）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%9C%B0%E6%AF%8F%E5%A4%A9%E4%B8%BA%E5%B1%B1%E5%8C%BA%E8%80%81%E4%BA%BA%E9%80%811%E5%85%83%E5%8D%88%E9%A4%90%23" target="weibo">
+浙江一地每天为山区老人送1元午餐（热度：100167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%80%81%E5%A9%86%E5%9C%A8%E5%A4%96%E9%9D%A2%E5%93%84%E5%88%AB%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%BA%B8%23" target="weibo">
 我的老婆在外面哄别的女孩纸（热度：99006）
 </a>
@@ -683,12 +713,6 @@ YG回应权志龙涉嫌吸毒（热度：206914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%20%E7%95%AA%E5%A4%96%23" target="weibo">
 田耕纪 番外（热度：88250）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8A%80%E6%9C%AF%E5%A4%AA%E5%80%BC%E9%92%B1%E4%BA%86%23" target="weibo">
-中国新能源汽车技术太值钱了（热度：87309）
 </a>
 </li>
 
@@ -723,12 +747,6 @@ AR戒指是什么原理（热度：84529）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B314%E9%A6%96%E6%B5%8B%E8%B6%85iPhone15Pro%23" target="weibo">
-小米14首测超iPhone15Pro（热度：62001）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 徐穗珍回来了（热度：58320）
 </a>
@@ -748,7 +766,7 @@ AR戒指是什么原理（热度：84529）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E7%A5%9E%E8%88%9F%E5%8D%81%E4%B8%83%E5%8F%B7%23" target="weibo">
-聚焦神舟十七号（热度：27972）
+聚焦神舟十七号（热度：31886）
 </a>
 </li>
 
