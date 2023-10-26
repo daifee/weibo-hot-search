@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698359633844,
+  "endTime": 1698362214710,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -11,19 +11,19 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1549388,
+      "num": 1549388,
+      "word": "女子带孩子拍胸片发现是小孩在操作",
+      "onboard_time": 1698335735,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343886,
       "num": 1343886,
       "word": "合工大",
       "onboard_time": 1698336152,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1130995,
-      "num": 1130995,
-      "word": "女子带孩子拍胸片发现是小孩在操作",
-      "onboard_time": 1698335735,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -43,12 +43,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 627456,
+      "num": 627456,
+      "word": "权志龙回应涉嫌吸毒",
+      "onboard_time": 1698361766,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444382,
       "num": 444382,
       "word": "海底捞回应140斤女生应聘洗碗工被拒",
       "onboard_time": 1698328176,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438949,
+      "num": 438949,
+      "word": "巴黎世家4千元新发带上海门店已售罄",
+      "onboard_time": 1698323133,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 421312,
@@ -89,6 +105,14 @@
       "onboard_time": 1698332917,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 333813,
+      "num": 168443,
+      "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
+      "onboard_time": 1698361646,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 311830,
@@ -147,6 +171,14 @@
       "category": "旅游,电影"
     },
     {
+      "raw_hot": 215155,
+      "num": 215155,
+      "word": "刘家昌发长文控诉前妻及儿子",
+      "onboard_time": 1698329023,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199231,
       "num": 199231,
       "word": "陈钰琪离开唐嫣公司",
@@ -177,6 +209,14 @@
       "onboard_time": 1698331837,
       "rank": 24,
       "category": "母婴育儿,教育"
+    },
+    {
+      "raw_hot": 181377,
+      "num": 181377,
+      "word": "陕西发现元稹第二任妻子裴淑墓",
+      "onboard_time": 1698354374,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172995,
@@ -211,12 +251,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 152926,
-      "num": 152926,
-      "word": "巴黎世家4千元新发带上海门店已售罄",
-      "onboard_time": 1698323133,
-      "rank": 40,
-      "category": "时尚"
+      "raw_hot": 155830,
+      "num": 155830,
+      "word": "王一博乌镇特种兵式观剧",
+      "onboard_time": 1698330819,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 146189,
+      "num": 146189,
+      "word": "辛巴谈李佳琦再陷舆论风波",
+      "onboard_time": 1698315273,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 145913,
@@ -233,14 +281,6 @@
       "onboard_time": 1698324275,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136593,
-      "num": 136593,
-      "word": "王一博乌镇特种兵式观剧",
-      "onboard_time": 1698330819,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 133004,
@@ -267,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126648,
-      "num": 126648,
-      "word": "刘家昌发长文控诉前妻及儿子",
-      "onboard_time": 1698329023,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123372,
       "num": 138073,
       "word": "赵子豪要结婚了",
@@ -289,14 +321,6 @@
       "onboard_time": 1698323433,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 119783,
-      "num": 119783,
-      "word": "辛巴谈李佳琦再陷舆论风波",
-      "onboard_time": 1698315273,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 119153,
@@ -315,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114766,
+      "num": 88898,
+      "word": "生气长大的甘蔗都是结节",
+      "onboard_time": 1698357555,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106147,
       "num": 106147,
       "word": "秦岚拍的辛芷蕾",
       "onboard_time": 1698317796,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103235,
-      "num": 103235,
-      "word": "陕西发现元稹第二任妻子裴淑墓",
-      "onboard_time": 1698354374,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101451,
@@ -355,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99229,
+      "num": 99229,
+      "word": "警方通报合肥工业大学一学生轻生",
+      "onboard_time": 1698361583,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91906,
       "num": 99416,
       "word": "狐妖小红娘镜花缘篇全新PV",
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 89531,
-      "num": 79082,
+      "num": 81973,
       "word": "美国加州州长纽森访华",
       "onboard_time": 1698352933,
       "rank": 11,
@@ -403,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82909,
+      "num": 82909,
+      "word": "充电宝 俗称尿袋",
+      "onboard_time": 1698348794,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80291,
       "num": 80291,
       "word": "秦海璐接老公视频前的小细节",
       "onboard_time": 1698324393,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79246,
+      "num": 79246,
+      "word": "微胖女生秋冬发型",
+      "onboard_time": 1698360743,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 76897,
@@ -427,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71016,
+      "num": 71016,
+      "word": "2名女加油员回应接力抢救路边昏迷男子",
+      "onboard_time": 1698361646,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64853,
       "num": 64853,
       "word": "秦岚带了三十多套衣服",
@@ -441,14 +497,6 @@
       "onboard_time": 1698322655,
       "rank": 49,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 53685,
-      "num": 53685,
-      "word": "生气长大的甘蔗都是结节",
-      "onboard_time": 1698357555,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 48153,
@@ -467,20 +515,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41102,
+      "num": 51833,
+      "word": "陈卓璇工作室发声明",
+      "onboard_time": 1698362187,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39193,
       "num": 56980,
       "word": "法考主观题",
       "onboard_time": 1698323315,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32303,
-      "num": 31879,
-      "word": "充电宝 俗称尿袋",
-      "onboard_time": 1698348794,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 28207,

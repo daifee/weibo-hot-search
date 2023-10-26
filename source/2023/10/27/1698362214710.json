@@ -1,0 +1,410 @@
+{
+  "runTime": 1698362214710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1549388,
+        "num": 1549388,
+        "word": "女子带孩子拍胸片发现是小孩在操作",
+        "onboard_time": 1698335735,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009091,
+        "num": 1009091,
+        "word": "罗翔 你们睡觉的时候手机关不关",
+        "onboard_time": 1698333095,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 24065,
+        "num": 778629,
+        "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+        "onboard_time": 1698327095,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627456,
+        "num": 627456,
+        "word": "权志龙回应涉嫌吸毒",
+        "onboard_time": 1698361766,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602181,
+        "num": 602181,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 438949,
+        "num": 438949,
+        "word": "巴黎世家4千元新发带上海门店已售罄",
+        "onboard_time": 1698323133,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 304982,
+        "num": 304982,
+        "word": "海底捞回应140斤女生应聘洗碗工被拒",
+        "onboard_time": 1698328176,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215155,
+        "num": 215155,
+        "word": "刘家昌发长文控诉前妻及儿子",
+        "onboard_time": 1698329023,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197069,
+        "num": 197069,
+        "word": "张云龙直播不敢看钟楚曦",
+        "onboard_time": 1698318632,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181377,
+        "num": 181377,
+        "word": "陕西发现元稹第二任妻子裴淑墓",
+        "onboard_time": 1698354374,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378915,
+        "num": 172827,
+        "word": "反垄断办回应李佳琦被质疑涉嫌控价",
+        "onboard_time": 1698323557,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 333813,
+        "num": 168443,
+        "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
+        "onboard_time": 1698361646,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206177,
+        "num": 162211,
+        "word": "合工大",
+        "onboard_time": 1698336152,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155830,
+        "num": 155830,
+        "word": "王一博乌镇特种兵式观剧",
+        "onboard_time": 1698330819,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146236,
+        "num": 146236,
+        "word": "小米14Pro纯钛",
+        "onboard_time": 1698326437,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146189,
+        "num": 146189,
+        "word": "辛巴谈李佳琦再陷舆论风波",
+        "onboard_time": 1698315273,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143714,
+        "num": 143714,
+        "word": "直播间卖的玉到底是真是假",
+        "onboard_time": 1698331718,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 135747,
+        "num": 135747,
+        "word": "上海迪士尼官宣疯狂动物城园区",
+        "onboard_time": 1698319353,
+        "rank": 17,
+        "category": "旅游,电影"
+      },
+      {
+        "raw_hot": 125337,
+        "num": 125337,
+        "word": "花儿与少年开始体现大局观了",
+        "onboard_time": 1698330037,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117270,
+        "num": 117270,
+        "word": "女明星的牙贴面",
+        "onboard_time": 1698323433,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 562586,
+        "num": 111809,
+        "word": "赵丽颖对接要求美团买菜道歉",
+        "onboard_time": 1698326316,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233124,
+        "num": 105564,
+        "word": "结婚前一天晚上的聊天记录",
+        "onboard_time": 1698327818,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147233,
+        "num": 104904,
+        "word": "谢娜说杨紫火男主",
+        "onboard_time": 1698332378,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99229,
+        "num": 99229,
+        "word": "警方通报合肥工业大学一学生轻生",
+        "onboard_time": 1698361583,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138965,
+        "num": 93399,
+        "word": "被12岁小朋友的作业震撼到",
+        "onboard_time": 1698331837,
+        "rank": 24,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 114766,
+        "num": 88898,
+        "word": "生气长大的甘蔗都是结节",
+        "onboard_time": 1698357555,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82909,
+        "num": 82909,
+        "word": "充电宝 俗称尿袋",
+        "onboard_time": 1698348794,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81973,
+        "num": 81973,
+        "word": "美国加州州长纽森访华",
+        "onboard_time": 1698352933,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 81838,
+        "num": 81838,
+        "word": "爸爸为了女儿都快变成爱豆了",
+        "onboard_time": 1698324275,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61047,
+        "num": 81201,
+        "word": "若乳腺结节不疼还增大要警惕",
+        "onboard_time": 1698321873,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80982,
+        "num": 80982,
+        "word": "潘玮柏近期状态",
+        "onboard_time": 1698331718,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79246,
+        "num": 79246,
+        "word": "微胖女生秋冬发型",
+        "onboard_time": 1698360743,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 78589,
+        "num": 78589,
+        "word": "玲娜贝儿史上最凶眉毛",
+        "onboard_time": 1698332917,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73005,
+        "num": 73005,
+        "word": "秦岚拍的辛芷蕾",
+        "onboard_time": 1698317796,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71016,
+        "num": 71016,
+        "word": "2名女加油员回应接力抢救路边昏迷男子",
+        "onboard_time": 1698361646,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63670,
+        "num": 63670,
+        "word": "直播间开始盯着对方降价了",
+        "onboard_time": 1698329319,
+        "rank": 35,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 61502,
+        "num": 61502,
+        "word": "陈牧驰此沙拳击比赛打到就医",
+        "onboard_time": 1698324393,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60818,
+        "num": 60818,
+        "word": "陈钰琪离开唐嫣公司",
+        "onboard_time": 1698312814,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57580,
+        "num": 57580,
+        "word": "张元英甜感野猫妆",
+        "onboard_time": 1698330998,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 55418,
+        "num": 55418,
+        "word": "谢娜把老房改造成美好民宿",
+        "onboard_time": 1698331475,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55358,
+        "num": 55358,
+        "word": "THE9 歌单",
+        "onboard_time": 1698330341,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53273,
+        "num": 53273,
+        "word": "秦海璐接老公视频前的小细节",
+        "onboard_time": 1698324393,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52993,
+        "num": 52993,
+        "word": "小米14Pro终结直屏曲屏之争",
+        "onboard_time": 1698328176,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52650,
+        "num": 52650,
+        "word": "G2看TheShy选剑魔",
+        "onboard_time": 1698319956,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51839,
+        "num": 51839,
+        "word": "小杨哥与美腕合资公司系乌龙",
+        "onboard_time": 1698322655,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 48068,
+        "num": 51838,
+        "word": "秦岚带了三十多套衣服",
+        "onboard_time": 1698341721,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45419,
+        "num": 51836,
+        "word": "7个rapper一起走秀",
+        "onboard_time": 1698333336,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45307,
+        "num": 51836,
+        "word": "以爱为营",
+        "onboard_time": 1698333457,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41695,
+        "num": 51834,
+        "word": "金凡 紧张",
+        "onboard_time": 1698322233,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41102,
+        "num": 51833,
+        "word": "陈卓璇工作室发声明",
+        "onboard_time": 1698362187,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天又见大红屏#"
+    }
+  }
+}
