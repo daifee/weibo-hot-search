@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698324503478,
+  "endTime": 1698326431434,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -121,6 +121,14 @@
       "onboard_time": 1698284673,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1526865,
+      "num": 1526865,
+      "word": "反垄断办回应李佳琦被质疑涉嫌控价",
+      "onboard_time": 1698323557,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1517189,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 834559,
-      "num": 508070,
+      "num": 690033,
       "word": "金凡 紧张",
       "onboard_time": 1698322233,
       "rank": 11,
@@ -379,12 +387,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 807448,
-      "num": 807448,
-      "word": "反垄断办回应李佳琦被质疑涉嫌控价",
-      "onboard_time": 1698323557,
-      "rank": 4,
-      "category": "社会新闻,网红"
+      "raw_hot": 783460,
+      "num": 783460,
+      "word": "女明星的牙贴面",
+      "onboard_time": 1698323433,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 766866,
@@ -539,6 +547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593193,
+      "num": 527154,
+      "word": "金珉奎突发腰伤",
+      "onboard_time": 1698324694,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 584257,
+      "num": 584257,
+      "word": "陈牧驰此沙拳击比赛打到就医",
+      "onboard_time": 1698324393,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578522,
       "num": 578522,
       "word": "李沁官宣出演七夜雪",
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523306,
+      "num": 523306,
+      "word": "女团吸毒谣言四起的原因",
+      "onboard_time": 1698324275,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521820,
       "num": 521820,
       "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
@@ -649,6 +681,14 @@
       "onboard_time": 1698320554,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487724,
+      "num": 487724,
+      "word": "若乳腺结节不疼还增大要警惕",
+      "onboard_time": 1698321873,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 485950,
@@ -739,20 +779,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433773,
+      "num": 527597,
+      "word": "小米澎湃OS正式发布",
+      "onboard_time": 1698321334,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 428828,
       "num": 263263,
       "word": "吃同事的蟹居然被挂了",
       "onboard_time": 1698305795,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 427330,
-      "num": 427330,
-      "word": "若乳腺结节不疼还增大要警惕",
-      "onboard_time": 1698321873,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 426918,
@@ -803,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415896,
-      "num": 220085,
-      "word": "女明星的牙贴面",
-      "onboard_time": 1698323433,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 414960,
       "num": 414960,
       "word": "以军夜间发起一次大规模地面进攻",
@@ -841,14 +873,6 @@
       "onboard_time": 1698315153,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390480,
-      "num": 527597,
-      "word": "小米澎湃OS正式发布",
-      "onboard_time": 1698321334,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 386767,
@@ -889,6 +913,14 @@
       "onboard_time": 1698304113,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 371289,
+      "num": 371289,
+      "word": "金珉奎将缺席本周活动",
+      "onboard_time": 1698324995,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 369470,
@@ -987,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327888,
+      "num": 327888,
+      "word": "爸爸为了女儿都快变成爱豆了",
+      "onboard_time": 1698324275,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326045,
       "num": 326045,
       "word": "许光汉变许糙汉了",
@@ -995,12 +1035,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 323780,
+      "num": 323780,
+      "word": "赵丽颖对接要求美团买菜道歉",
+      "onboard_time": 1698326316,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323567,
       "num": 323567,
       "word": "舒淇狗啃刘海",
       "onboard_time": 1698296317,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320291,
+      "num": 320291,
+      "word": "巴黎世家4千元新发带上海门店已售罄",
+      "onboard_time": 1698323133,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 317681,
@@ -1041,14 +1097,6 @@
       "onboard_time": 1698314315,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 311866,
-      "num": 311866,
-      "word": "巴黎世家4千元新发带上海门店已售罄",
-      "onboard_time": 1698323133,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 310182,
@@ -1097,6 +1145,14 @@
       "onboard_time": 1698317796,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 302454,
+      "num": 302454,
+      "word": "农村妮",
+      "onboard_time": 1698324815,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299572,
@@ -1171,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289518,
+      "num": 442173,
+      "word": "小米龙晶玻璃",
+      "onboard_time": 1698325955,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 287761,
       "num": 287761,
       "word": "TheShy的剑魔",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1698318155,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 278608,
+      "num": 278608,
+      "word": "狐妖小红娘镜花缘篇全新PV",
+      "onboard_time": 1698325356,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 277437,
@@ -1379,6 +1451,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 251165,
+      "num": 251165,
+      "word": "秦海璐接老公视频前的小细节",
+      "onboard_time": 1698324393,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250608,
       "num": 1568520,
       "word": "整理房间误扔10万元被路人送还",
@@ -1467,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239188,
+      "num": 239188,
+      "word": "中国6名航天员太空拍全家福",
+      "onboard_time": 1698322354,
+      "rank": 31,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 238132,
       "num": 238132,
       "word": "王琳凯 一起淋雨的音乐节",
@@ -1513,14 +1601,6 @@
       "onboard_time": 1698317195,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231153,
-      "num": 231153,
-      "word": "中国6名航天员太空拍全家福",
-      "onboard_time": 1698322354,
-      "rank": 31,
-      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 228444,
@@ -1601,6 +1681,14 @@
       "onboard_time": 1698321814,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222000,
+      "num": 222000,
+      "word": "80岁大爷拿铲子刮巨型刮刮乐",
+      "onboard_time": 1698324335,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220998,
@@ -1804,7 +1892,7 @@
     },
     {
       "raw_hot": 205244,
-      "num": 1547461,
+      "num": 1573695,
       "word": "中国航天又见大红屏",
       "onboard_time": 1698293195,
       "rank": 28,
@@ -1865,6 +1953,14 @@
       "onboard_time": 1698289111,
       "rank": 28,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 201737,
+      "num": 201737,
+      "word": "新疆在沙漠办了场开渔节",
+      "onboard_time": 1698325593,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201442,
@@ -1931,14 +2027,6 @@
       "category": "国内要闻,科技"
     },
     {
-      "raw_hot": 197625,
-      "num": 197625,
-      "word": "陈牧驰此沙拳击比赛打到就医",
-      "onboard_time": 1698324393,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197601,
       "num": 197601,
       "word": "张小斐惠英红新片掐红了眼",
@@ -1953,14 +2041,6 @@
       "onboard_time": 1698293377,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197007,
-      "num": 190688,
-      "word": "女团吸毒谣言四起的原因",
-      "onboard_time": 1698324275,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 196412,
@@ -2075,12 +2155,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 190315,
+      "num": 190315,
+      "word": "如何花最少钱成为第一眼美女",
+      "onboard_time": 1698323494,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190177,
       "num": 190177,
       "word": "小情侣把一车柚子画成卡通限量版",
       "onboard_time": 1698286295,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189941,
+      "num": 189941,
+      "word": "朴成训冬日氛围感",
+      "onboard_time": 1698325356,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188560,
@@ -2113,14 +2209,6 @@
       "onboard_time": 1698294578,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182426,
-      "num": 182426,
-      "word": "爸爸为了女儿都快变成爱豆了",
-      "onboard_time": 1698324275,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 181971,
@@ -2171,14 +2259,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 178952,
-      "num": 178952,
-      "word": "秦海璐接老公视频前的小细节",
-      "onboard_time": 1698324393,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178260,
       "num": 178260,
       "word": "一枝南南 礼盒开箱",
@@ -2193,6 +2273,14 @@
       "onboard_time": 1698232064,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 175821,
+      "num": 175821,
+      "word": "巴黎世家发圈四千块",
+      "onboard_time": 1698326256,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 175113,
@@ -2307,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163187,
+      "num": 163187,
+      "word": "XHW对战BOA",
+      "onboard_time": 1698325835,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163107,
       "num": 1233384,
       "word": "今天飞天的河南88后诠释了人生不被定义",
@@ -2369,6 +2465,14 @@
       "onboard_time": 1698238662,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158956,
+      "num": 158956,
+      "word": "XHW先到赛点",
+      "onboard_time": 1698326376,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 158788,
@@ -2531,14 +2635,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 141250,
-      "num": 141250,
-      "word": "如何花最少钱成为第一眼美女",
-      "onboard_time": 1698323494,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 140341,
       "num": 140341,
       "word": "偶遇全圆佑DK崔韩率看音乐剧",
@@ -2667,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125135,
+      "num": 475240,
+      "word": "京东采销直播间爆了",
+      "onboard_time": 1698325235,
+      "rank": 14,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 123362,
       "num": 123362,
       "word": "谷江山 每个棚都有睁不开眼的吉祥物",
@@ -2748,7 +2852,7 @@
     },
     {
       "raw_hot": 106892,
-      "num": 156804,
+      "num": 188251,
       "word": "我画你猜届的显眼包出现了",
       "onboard_time": 1698313957,
       "rank": 49,
@@ -2849,14 +2953,6 @@
       "onboard_time": 1698309034,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89079,
-      "num": 148631,
-      "word": "80岁大爷拿铲子刮巨型刮刮乐",
-      "onboard_time": 1698324335,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88250,

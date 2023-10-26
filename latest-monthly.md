@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 20:48:23
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 21:20:31
 </p>
 </blockquote>
 <p>
@@ -3099,6 +3099,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%9E%84%E6%96%AD%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%A2%AB%E8%B4%A8%E7%96%91%E6%B6%89%E5%AB%8C%E6%8E%A7%E4%BB%B7%23" target="weibo">
+反垄断办回应李佳琦被质疑涉嫌控价（热度：1526865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%93%E6%9B%A6%20%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99%23" target="weibo">
 斓曦 流浪猫狗有什么错（热度：1525564）
 </a>
@@ -6005,12 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%BA%86%E4%B8%80%E6%8A%8A%E6%80%80%E5%AD%95%E7%9A%84%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%23" target="weibo">
 吃了一把怀孕的阳光玫瑰（热度：969433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E6%9D%A8%E7%8E%8F%E7%88%B6%E5%AD%90%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E6%92%92%E8%B0%8E%23" target="weibo">
-杨立新杨玏父子到底谁在撒谎（热度：968649）
 </a>
 </li>
 
