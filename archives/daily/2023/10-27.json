@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698351473478,
+  "endTime": 1698352476015,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -451,8 +451,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 30584,
-      "num": 19248,
+      "raw_hot": 32303,
+      "num": 19951,
       "word": "充电宝 俗称尿袋",
       "onboard_time": 1698348794,
       "rank": 48,
@@ -467,8 +467,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14685,
-      "num": 14685,
+      "raw_hot": 14922,
+      "num": 14922,
       "word": "欺骗自己的不是眼睛而是大脑",
       "onboard_time": 1698350592,
       "rank": 40,
