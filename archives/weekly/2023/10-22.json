@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698294019799,
+  "endTime": 1698294846989,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2297187,
+      "num": 2297187,
+      "word": "社保局员工上班闲聊一两个小时不叫号",
+      "onboard_time": 1698291874,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2286708,
       "num": 2286708,
       "word": "迪丽热巴微信名",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1946097,
+      "num": 438236,
+      "word": "Angelababy申请强执娱记朱皮",
+      "onboard_time": 1698293556,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1887103,
       "num": 1887103,
       "word": "在海底捞吃了42万是什么体验",
@@ -368,14 +384,6 @@
       "word": "儿子溺亡16年后爸爸跳河救人牺牲",
       "onboard_time": 1697948012,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1779327,
-      "num": 1779327,
-      "word": "社保局员工上班闲聊一两个小时不叫号",
-      "onboard_time": 1698291874,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1310087,
+      "num": 1310087,
+      "word": "小杨哥曾称每月发工资超5000万",
+      "onboard_time": 1698292234,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1306798,
       "num": 1306798,
       "word": "赵又廷回应夺妻之仇不共戴天",
@@ -801,14 +817,6 @@
       "onboard_time": 1698069043,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1179174,
-      "num": 1179174,
-      "word": "小杨哥曾称每月发工资超5000万",
-      "onboard_time": 1698292234,
-      "rank": 4,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1177930,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1697964031,
       "rank": 2,
       "category": "美食"
-    },
-    {
-      "raw_hot": 731083,
-      "num": 438236,
-      "word": "Angelababy申请强执娱记朱皮",
-      "onboard_time": 1698293556,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 730768,
@@ -3971,6 +3971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364645,
+      "num": 364645,
+      "word": "警方回应西南科技大学馄饨阿姨事件",
+      "onboard_time": 1698292954,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364201,
       "num": 364201,
       "word": "仲溪午上桌了",
@@ -4089,6 +4097,14 @@
       "onboard_time": 1697985214,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353049,
+      "num": 353049,
+      "word": "曾舜晞撤回一个中指",
+      "onboard_time": 1698293736,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 352911,
@@ -5131,6 +5147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286810,
+      "num": 286810,
+      "word": "秦岚嗓子不好但爱讲",
+      "onboard_time": 1698292294,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286456,
       "num": 157636,
       "word": "女子咳嗽咳痰一周问题竟出在心脏",
@@ -5145,14 +5169,6 @@
       "onboard_time": 1698033815,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285579,
-      "num": 285579,
-      "word": "秦岚嗓子不好但爱讲",
-      "onboard_time": 1698292294,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 285380,
@@ -6163,6 +6179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 241059,
+      "num": 194100,
+      "word": "旗袍发型",
+      "onboard_time": 1698294279,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 240688,
       "num": 240688,
       "word": "民警和校长当全校师生面给6岁女孩颁奖",
@@ -6257,6 +6281,14 @@
       "onboard_time": 1698247479,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238132,
+      "num": 238132,
+      "word": "王琳凯 一起淋雨的音乐节",
+      "onboard_time": 1698293917,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 238042,
@@ -6667,20 +6699,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224038,
+      "num": 224038,
+      "word": "胡先煦的闹钟只能叫醒别人",
+      "onboard_time": 1698293195,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223581,
       "num": 223581,
       "word": "狗狗拉伸时偷偷放了个屁",
       "onboard_time": 1698200677,
       "rank": 30,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 223566,
-      "num": 248450,
-      "word": "警方回应西南科技大学馄饨阿姨事件",
-      "onboard_time": 1698292954,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223322,
@@ -7019,6 +7051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213760,
+      "num": 213760,
+      "word": "校方回应西南科技大学馄饨事件",
+      "onboard_time": 1698293676,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213619,
       "num": 213619,
       "word": "为有暗香来女二",
@@ -7265,14 +7305,6 @@
       "onboard_time": 1697976753,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207578,
-      "num": 207578,
-      "word": "胡先煦的闹钟只能叫醒别人",
-      "onboard_time": 1698293195,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 207191,
@@ -7561,6 +7593,14 @@
       "onboard_time": 1697963072,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201642,
+      "num": 193928,
+      "word": "好皮肤要先从养肤做起",
+      "onboard_time": 1698294216,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 201563,
@@ -7995,6 +8035,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 194308,
+      "num": 194308,
+      "word": "神十七",
+      "onboard_time": 1698293796,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 194072,
       "num": 156857,
       "word": "张杰时光音乐会老友记",
@@ -8009,6 +8057,14 @@
       "onboard_time": 1698056084,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193569,
+      "num": 193569,
+      "word": "泡面冒烤鸭吃播",
+      "onboard_time": 1698293556,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 193496,
@@ -8137,6 +8193,14 @@
       "onboard_time": 1698022115,
       "rank": 32,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 191290,
+      "num": 191290,
+      "word": "欧文也被文班亚马帽了",
+      "onboard_time": 1698294038,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 191164,
@@ -8571,20 +8635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182525,
-      "num": 182525,
-      "word": "神十七",
-      "onboard_time": 1698293796,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 182515,
       "num": 199740,
       "word": "女子称买烤鸭遇店员做假动作片肉",
       "onboard_time": 1697894618,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182446,
+      "num": 182446,
+      "word": "电影刀尖连发八支预告",
+      "onboard_time": 1698294578,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 182425,
@@ -8731,14 +8795,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 178724,
-      "num": 178724,
-      "word": "曾舜晞撤回一个中指",
-      "onboard_time": 1698293736,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178584,
       "num": 178584,
       "word": "陈哲远无声吃播",
@@ -8793,14 +8849,6 @@
       "onboard_time": 1698281563,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 178124,
-      "num": 178124,
-      "word": "泡面冒烤鸭吃播",
-      "onboard_time": 1698293556,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 178114,
@@ -8873,14 +8921,6 @@
       "onboard_time": 1697950052,
       "rank": 27,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 175443,
-      "num": 175443,
-      "word": "校方回应西南科技大学馄饨事件",
-      "onboard_time": 1698293676,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175440,
@@ -9203,6 +9243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169083,
+      "num": 169083,
+      "word": "你现在还去李佳琦直播间消费吗",
+      "onboard_time": 1698294819,
+      "rank": 38,
+      "category": "社会议题,网红"
+    },
+    {
       "raw_hot": 168921,
       "num": 168921,
       "word": "数码宝贝cos被选召的孩子",
@@ -9313,6 +9361,14 @@
       "onboard_time": 1698018751,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 164514,
+      "num": 164514,
+      "word": "唐毅老师三角遮瑕法",
+      "onboard_time": 1698294038,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 164300,
@@ -10363,6 +10419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141425,
+      "num": 141425,
+      "word": "众字就是这么写",
+      "onboard_time": 1698291753,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 141176,
       "num": 141176,
       "word": "你最喜欢墨香铜臭哪部作品",
@@ -10425,6 +10489,14 @@
       "onboard_time": 1697985515,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 140738,
+      "num": 140738,
+      "word": "莲花楼减肥法",
+      "onboard_time": 1698294758,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140651,
@@ -10633,14 +10705,6 @@
       "onboard_time": 1698198512,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137478,
-      "num": 137478,
-      "word": "王琳凯 一起淋雨的音乐节",
-      "onboard_time": 1698293917,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 137472,
@@ -10907,6 +10971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132546,
+      "num": 132546,
+      "word": "邓紫棋演唱会获批",
+      "onboard_time": 1698291694,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132487,
       "num": 206350,
       "word": "00后教天猫做双11",
@@ -10921,14 +10993,6 @@
       "onboard_time": 1698052310,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131947,
-      "num": 131947,
-      "word": "邓紫棋演唱会获批",
-      "onboard_time": 1698291694,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 131864,
