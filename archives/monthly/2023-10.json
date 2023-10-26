@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698338172548,
+  "endTime": 1698340538389,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -70939,6 +70939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74787,
+      "num": 74787,
+      "word": "华晨宇 音乐哲学家",
+      "onboard_time": 1698338548,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74537,
       "num": 100748,
       "word": "环球影城里最酷的闺蜜",
@@ -73113,6 +73121,14 @@
       "onboard_time": 1697564779,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30101,
+      "num": 46862,
+      "word": "中国石化累计分红5600亿",
+      "onboard_time": 1698340519,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 30001,

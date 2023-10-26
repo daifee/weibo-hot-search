@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 00:36:12
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 01:15:38
 </p>
 </blockquote>
 <p>
@@ -11043,6 +11043,12 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E9%9F%B3%E4%B9%90%E5%93%B2%E5%AD%A6%E5%AE%B6%23" target="weibo">
+华晨宇 音乐哲学家（热度：74787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E9%87%8C%E6%9C%80%E9%85%B7%E7%9A%84%E9%97%BA%E8%9C%9C%23" target="weibo">
 环球影城里最酷的闺蜜（热度：74537）
 </a>
@@ -11423,6 +11429,12 @@ F1（热度：36935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%9B%E4%B8%B8%E8%AF%B4%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%E9%83%BD%E6%98%AF%E5%A5%BD%E4%BA%BA%23" target="weibo">
 力丸说朝阳打歌中心都是好人（热度：32103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E7%B4%AF%E8%AE%A1%E5%88%86%E7%BA%A25600%E4%BA%BF%23" target="weibo">
+中国石化累计分红5600亿（热度：30101）
 </a>
 </li>
 
