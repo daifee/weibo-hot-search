@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698341647245,
+  "endTime": 1698344445216,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -14867,6 +14867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64853,
+      "num": 64853,
+      "word": "秦岚带了三十多套衣服",
+      "onboard_time": 1698341721,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64379,
       "num": 64379,
       "word": "小松鼠拿着落叶来换吃的了",
@@ -15072,6 +15080,14 @@
       "word": "林一把刘浩存提着走",
       "onboard_time": 1697913917,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48153,
+      "num": 39870,
+      "word": "林心如露腰卫衣",
+      "onboard_time": 1698342618,
+      "rank": 24,
       "category": "综艺"
     },
     {
