@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698315486472,
+  "endTime": 1698316482255,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1697808032,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2005621,
+      "num": 2005621,
+      "word": "睡前不洗脸会让皮肤变差吗",
+      "onboard_time": 1698314555,
+      "rank": 5,
+      "category": "美妆"
     },
     {
       "raw_hot": 2003585,
@@ -5723,14 +5731,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1233060,
-      "num": 1233060,
-      "word": "睡前不洗脸会让皮肤变差吗",
-      "onboard_time": 1698314555,
-      "rank": 5,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 1232737,
       "num": 772229,
       "word": "佛山电翰",
@@ -8771,6 +8771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 898303,
+      "num": 898303,
+      "word": "散粉信息差",
+      "onboard_time": 1698313053,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 898029,
       "num": 898029,
       "word": "遭恶犬咬伤女童仍昏迷",
@@ -8809,6 +8817,14 @@
       "onboard_time": 1696747533,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 895413,
+      "num": 895413,
+      "word": "辛巴谈李佳琦再陷舆论风波",
+      "onboard_time": 1698315273,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 895321,
@@ -9265,14 +9281,6 @@
       "onboard_time": 1696934438,
       "rank": 11,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 870076,
-      "num": 870076,
-      "word": "散粉信息差",
-      "onboard_time": 1698313053,
-      "rank": 9,
-      "category": "美妆"
     },
     {
       "raw_hot": 867367,
@@ -11419,6 +11427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 750660,
+      "num": 750660,
+      "word": "警方调查长江大学讲座播放不雅视频",
+      "onboard_time": 1698313474,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749818,
       "num": 749818,
       "word": "pdf写罪状录",
@@ -12705,14 +12721,6 @@
       "onboard_time": 1696337680,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 687286,
-      "num": 687286,
-      "word": "警方调查长江大学讲座播放不雅视频",
-      "onboard_time": 1698313474,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686649,
@@ -14123,6 +14131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631685,
+      "num": 631685,
+      "word": "鳄鱼小河曾被曝饲养不当瘦到变形",
+      "onboard_time": 1698313835,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631435,
       "num": 631435,
       "word": "中国女排3比0泰国女排",
@@ -14224,14 +14240,6 @@
       "word": "被狗咬伤女童200万捐款争议",
       "onboard_time": 1698123879,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627625,
-      "num": 627625,
-      "word": "鳄鱼小河曾被曝饲养不当瘦到变形",
-      "onboard_time": 1698313835,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -19571,6 +19579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 485950,
+      "num": 485950,
+      "word": "大众点评下架太二酸菜鱼",
+      "onboard_time": 1698312514,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485394,
       "num": 455612,
       "word": "EXO公司logo四叶草",
@@ -23051,14 +23067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 423651,
-      "num": 423651,
-      "word": "大众点评下架太二酸菜鱼",
-      "onboard_time": 1698312514,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423325,
       "num": 423325,
       "word": "怎么判断是否感染肺炎支原体",
@@ -23097,14 +23105,6 @@
       "onboard_time": 1697276912,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 422603,
-      "num": 422603,
-      "word": "辛巴谈李佳琦再陷舆论风波",
-      "onboard_time": 1698315273,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 422550,
@@ -27907,6 +27907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351509,
+      "num": 351509,
+      "word": "小虎在干嘛",
+      "onboard_time": 1698316171,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 351490,
       "num": 351490,
       "word": "警方通报中秋节公公收礼事件",
@@ -31953,6 +31961,14 @@
       "onboard_time": 1698281678,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 305203,
+      "num": 305203,
+      "word": "田柾国车银优郑在玹聚餐",
+      "onboard_time": 1698315153,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 305188,
@@ -39107,6 +39123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250608,
+      "num": 1568520,
+      "word": "整理房间误扔10万元被路人送还",
+      "onboard_time": 1698304056,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250378,
       "num": 250378,
       "word": "我爱你中国",
@@ -39611,6 +39635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247081,
+      "num": 247081,
+      "word": "是谁说服赵露思跳这个的",
+      "onboard_time": 1698315452,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247057,
       "num": 187405,
       "word": "呆阿拿 甄姬孔雀公主",
@@ -39888,14 +39920,6 @@
       "word": "孙子玩奶奶手机被骗验证码险丢30000元",
       "onboard_time": 1696757196,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245684,
-      "num": 1284532,
-      "word": "整理房间误扔10万元被路人送还",
-      "onboard_time": 1698304056,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -40537,6 +40561,14 @@
       "onboard_time": 1696176631,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240961,
+      "num": 240961,
+      "word": "MAD对战WBG",
+      "onboard_time": 1698314315,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 240953,
@@ -44979,6 +45011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215376,
+      "num": 215376,
+      "word": "侯雯元 彪子啊还得是你",
+      "onboard_time": 1698315812,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215366,
       "num": 215366,
       "word": "段子里的江浙沪家长没骗我",
@@ -48603,6 +48643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201566,
+      "num": 201566,
+      "word": "陈钰琪成立个人工作室",
+      "onboard_time": 1698316231,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201563,
       "num": 201563,
       "word": "飞奔而来的拖把和竹竿救了她一命",
@@ -51113,14 +51161,6 @@
       "onboard_time": 1698293556,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 193537,
-      "num": 193537,
-      "word": "MAD对战WBG",
-      "onboard_time": 1698314315,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 193526,
@@ -55035,6 +55075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179204,
+      "num": 179204,
+      "word": "大牌做的最好的品类是哪些",
+      "onboard_time": 1698315752,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 179174,
       "num": 179174,
       "word": "TTG战胜AG",
@@ -55995,14 +56043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174983,
-      "num": 174983,
-      "word": "田柾国车银优郑在玹聚餐",
-      "onboard_time": 1698315153,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174966,
       "num": 174966,
       "word": "李现穿潜水服的身材",
@@ -56857,6 +56897,14 @@
       "onboard_time": 1696171241,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 170830,
+      "num": 170830,
+      "word": "中式发型教程",
+      "onboard_time": 1698315634,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 170820,
@@ -58417,14 +58465,6 @@
       "onboard_time": 1696129235,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163711,
-      "num": 163711,
-      "word": "是谁说服赵露思跳这个的",
-      "onboard_time": 1698315452,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 163683,
@@ -60353,6 +60393,14 @@
       "onboard_time": 1697467238,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155304,
+      "num": 155304,
+      "word": "YS对战FPX.ZQ",
+      "onboard_time": 1698315934,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 155292,
@@ -62641,6 +62689,14 @@
       "onboard_time": 1697947408,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143535,
+      "num": 1233384,
+      "word": "今天飞天的河南88后诠释了人生不被定义",
+      "onboard_time": 1698313835,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 143502,
@@ -65995,14 +66051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124521,
-      "num": 1233384,
-      "word": "今天飞天的河南88后诠释了人生不被定义",
-      "onboard_time": 1698313835,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 124490,
       "num": 124490,
       "word": "出生时仅690克的手掌宝宝健康出院啦",
@@ -66705,6 +66753,14 @@
       "onboard_time": 1697808512,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118759,
+      "num": 188415,
+      "word": "京东采销直播间发疯",
+      "onboard_time": 1698314433,
+      "rank": 39,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 118677,
@@ -67915,6 +67971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106892,
+      "num": 156804,
+      "word": "我画你猜届的显眼包出现了",
+      "onboard_time": 1698313957,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106591,
       "num": 179064,
       "word": "雪天车祸男子挥手狂喊提醒减速",
@@ -68521,14 +68585,6 @@
       "onboard_time": 1696548383,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99957,
-      "num": 150808,
-      "word": "我画你猜届的显眼包出现了",
-      "onboard_time": 1698313957,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99915,
@@ -70227,20 +70283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71425,
-      "num": 188415,
-      "word": "京东采销直播间发疯",
-      "onboard_time": 1698314433,
-      "rank": 39,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 71384,
       "num": 3661224,
       "word": "这次科考为何选择卓奥友峰",
       "onboard_time": 1696425158,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71238,
+      "num": 1078065,
+      "word": "轮椅运动员在杭州借助高科技站起来",
+      "onboard_time": 1698313835,
+      "rank": 6,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 71114,
@@ -70529,14 +70585,6 @@
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65289,
-      "num": 1078065,
-      "word": "轮椅运动员在杭州借助高科技站起来",
-      "onboard_time": 1698313835,
-      "rank": 6,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 65189,

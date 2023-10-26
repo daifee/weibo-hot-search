@@ -1,0 +1,410 @@
+{
+  "runTime": 1698316482255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2005621,
+        "num": 2005621,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250608,
+        "num": 1568520,
+        "word": "整理房间误扔10万元被路人送还",
+        "onboard_time": 1698304056,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57272,
+        "num": 1243760,
+        "word": "中国航天又见大红屏",
+        "onboard_time": 1698293195,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1197986,
+        "num": 1197986,
+        "word": "田小娟方否认涉毒",
+        "onboard_time": 1698312814,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 995401,
+        "word": "今天飞天的河南88后诠释了人生不被定义",
+        "onboard_time": 1698313835,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 912485,
+        "num": 912485,
+        "word": "HYBE否认防弹少年团吸毒",
+        "onboard_time": 1698313173,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71238,
+        "num": 903614,
+        "word": "轮椅运动员在杭州借助高科技站起来",
+        "onboard_time": 1698313835,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 898303,
+        "num": 898303,
+        "word": "散粉信息差",
+        "onboard_time": 1698313053,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 895413,
+        "num": 895413,
+        "word": "辛巴谈李佳琦再陷舆论风波",
+        "onboard_time": 1698315273,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 750660,
+        "num": 750660,
+        "word": "警方调查长江大学讲座播放不雅视频",
+        "onboard_time": 1698313474,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125346,
+        "num": 745111,
+        "word": "陈钰琪离开唐嫣公司",
+        "onboard_time": 1698312814,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708619,
+        "num": 708619,
+        "word": "太二酸菜鱼回应遭大众点评下架",
+        "onboard_time": 1698307834,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 631685,
+        "num": 631685,
+        "word": "鳄鱼小河曾被曝饲养不当瘦到变形",
+        "onboard_time": 1698313835,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553340,
+        "num": 553340,
+        "word": "女性每月什么时候护肤最有效",
+        "onboard_time": 1698306096,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 485950,
+        "num": 485950,
+        "word": "大众点评下架太二酸菜鱼",
+        "onboard_time": 1698312514,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452298,
+        "num": 452298,
+        "word": "防弹少年团部分成员被曝是吸毒场所常客",
+        "onboard_time": 1698304536,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400513,
+        "num": 400513,
+        "word": "王一博去跳伞了",
+        "onboard_time": 1698313835,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378741,
+        "num": 378741,
+        "word": "厦门动物园发布鳄鱼小河死亡通告",
+        "onboard_time": 1698313474,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358540,
+        "num": 358540,
+        "word": "国家医保局回应2022年居民医保参保数据下降",
+        "onboard_time": 1698311615,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351509,
+        "num": 351509,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698316171,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 344791,
+        "num": 344791,
+        "word": "当我妈知道除夕不放假",
+        "onboard_time": 1698310895,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305203,
+        "num": 305203,
+        "word": "田柾国车银优郑在玹聚餐",
+        "onboard_time": 1698315153,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291910,
+        "num": 291910,
+        "word": "张艺兴偶遇尖嘴动物",
+        "onboard_time": 1698313414,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270572,
+        "num": 270572,
+        "word": "长江大学回应主题讲座播放不雅视频",
+        "onboard_time": 1698304776,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268758,
+        "num": 268758,
+        "word": "河南权志龙直播唱BIGBANG代表作",
+        "onboard_time": 1698310656,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256125,
+        "num": 256125,
+        "word": "中国代表当场回应以色列不满",
+        "onboard_time": 1698303633,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 247081,
+        "num": 247081,
+        "word": "是谁说服赵露思跳这个的",
+        "onboard_time": 1698315452,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241687,
+        "num": 241687,
+        "word": "林心如额前编发",
+        "onboard_time": 1698313114,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240961,
+        "num": 240961,
+        "word": "MAD对战WBG",
+        "onboard_time": 1698314315,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239453,
+        "num": 239453,
+        "word": "苏翊鸣朱易牵手照",
+        "onboard_time": 1698301475,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 215376,
+        "num": 215376,
+        "word": "侯雯元 彪子啊还得是你",
+        "onboard_time": 1698315812,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214557,
+        "num": 214557,
+        "word": "男性朋友送的化妆镜藏了摄像头",
+        "onboard_time": 1698312814,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202200,
+        "num": 202200,
+        "word": "iPhone15被指玻璃背板易碎",
+        "onboard_time": 1698312933,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201566,
+        "num": 201566,
+        "word": "陈钰琪成立个人工作室",
+        "onboard_time": 1698316231,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184591,
+        "num": 184591,
+        "word": "秦海璐 我真的不是有意叫错名字的",
+        "onboard_time": 1698308373,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179204,
+        "num": 179204,
+        "word": "大牌做的最好的品类是哪些",
+        "onboard_time": 1698315752,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173506,
+        "num": 173506,
+        "word": "周深王者荣耀灵魂画手",
+        "onboard_time": 1698315212,
+        "rank": 36,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 172167,
+        "num": 172167,
+        "word": "薛之谦成都演唱会",
+        "onboard_time": 1698315094,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170830,
+        "num": 170830,
+        "word": "中式发型教程",
+        "onboard_time": 1698315634,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 169510,
+        "word": "京东采销直播间发疯",
+        "onboard_time": 1698314433,
+        "rank": 39,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 169158,
+        "num": 169158,
+        "word": "网传长江大学主题讲座播放不雅视频",
+        "onboard_time": 1698302976,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159537,
+        "num": 159537,
+        "word": "你们封神一定要这样吗",
+        "onboard_time": 1698304594,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106892,
+        "num": 156804,
+        "word": "我画你猜届的显眼包出现了",
+        "onboard_time": 1698313957,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155304,
+        "num": 155304,
+        "word": "YS对战FPX.ZQ",
+        "onboard_time": 1698315934,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152004,
+        "num": 152004,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151808,
+        "num": 151808,
+        "word": "万代 光与夜之恋",
+        "onboard_time": 1698313897,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147546,
+        "num": 147546,
+        "word": "神十七成功对接空间站",
+        "onboard_time": 1698314674,
+        "rank": 46,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 145688,
+        "num": 145688,
+        "word": "洗脸和护肤谁更重要",
+        "onboard_time": 1698315094,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "电影人生大事将复映",
+        "onboard_time": 1698311374,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131960,
+        "num": 131960,
+        "word": "李溪芮新剧妆造",
+        "onboard_time": 1698312755,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同哥伦比亚总统会谈#"
+    }
+  }
+}
