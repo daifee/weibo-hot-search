@@ -1,0 +1,410 @@
+{
+  "runTime": 1698297358821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1764248,
+        "num": 1764248,
+        "word": "小杨哥曾称每月发工资超5000万",
+        "onboard_time": 1698292234,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 745063,
+        "num": 745063,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20030,
+        "num": 663893,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902822,
+        "num": 661440,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 607723,
+        "num": 607723,
+        "word": "警方回应西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698292954,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594946,
+        "num": 594946,
+        "word": "迪丽热巴社交名片酸奶疙瘩",
+        "onboard_time": 1698296142,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583305,
+        "num": 583305,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 446493,
+        "num": 446493,
+        "word": "莲花楼减肥法",
+        "onboard_time": 1698294758,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431360,
+        "num": 431360,
+        "word": "中俄列车大劫案有多可怕",
+        "onboard_time": 1698281319,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354352,
+        "num": 354352,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2541089,
+        "num": 353695,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2052104,
+        "num": 348921,
+        "word": "社保局员工上班闲聊一两个小时不叫号",
+        "onboard_time": 1698291874,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411289,
+        "num": 344609,
+        "word": "花少5全员情绪好稳定",
+        "onboard_time": 1698289531,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92920,
+        "num": 337723,
+        "word": "更适合当代年轻人体质的原萃茶",
+        "onboard_time": 1698295001,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82071,
+        "num": 333140,
+        "word": "在西湖遇到了真公主",
+        "onboard_time": 1698296439,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330640,
+        "num": 330640,
+        "word": "曾舜晞撤回一个中指",
+        "onboard_time": 1698293736,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326453,
+        "num": 326453,
+        "word": "好皮肤要先从养肤做起",
+        "onboard_time": 1698294216,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 323567,
+        "num": 323567,
+        "word": "舒淇狗啃刘海",
+        "onboard_time": 1698296317,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239851,
+        "num": 239851,
+        "word": "神十七发射圆满成功",
+        "onboard_time": 1698291394,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 210881,
+        "num": 210881,
+        "word": "上班有一种没有尽头的感觉",
+        "onboard_time": 1698295898,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 835867,
+        "num": 210396,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282579,
+        "num": 210215,
+        "word": "郭帆说流浪地球绝不拍第四部",
+        "onboard_time": 1698295001,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253262,
+        "num": 209348,
+        "word": "张庭案已撤销",
+        "onboard_time": 1698289710,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251239,
+        "num": 209208,
+        "word": "男子发现女儿非亲生前妻称自己也不知情",
+        "onboard_time": 1698283773,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234528,
+        "num": 208645,
+        "word": "你现在还去李佳琦直播间消费吗",
+        "onboard_time": 1698294819,
+        "rank": 24,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 208283,
+        "num": 208283,
+        "word": "许光汉变许糙汉了",
+        "onboard_time": 1698292892,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206063,
+        "num": 206063,
+        "word": "欧文也被文班亚马帽了",
+        "onboard_time": 1698294038,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202102,
+        "num": 202102,
+        "word": "旗袍发型",
+        "onboard_time": 1698294279,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 188028,
+        "num": 188028,
+        "word": "你在意奶茶里的植脂末吗",
+        "onboard_time": 1698296799,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168698,
+        "num": 168698,
+        "word": "校方回应西南科技大学馄饨事件",
+        "onboard_time": 1698293676,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186608,
+        "num": 168693,
+        "word": "公司考勤都没这记得全",
+        "onboard_time": 1698296499,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167854,
+        "num": 167854,
+        "word": "浪凡 成毅",
+        "onboard_time": 1698284673,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164289,
+        "num": 164289,
+        "word": "有个吃得奇怪的同事是种什么体验",
+        "onboard_time": 1698295898,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161759,
+        "num": 161759,
+        "word": "秦岚嗓子不好但爱讲",
+        "onboard_time": 1698292294,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161604,
+        "num": 161604,
+        "word": "人生能有96套的东西",
+        "onboard_time": 1698296499,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158651,
+        "num": 158651,
+        "word": "陶昕然时隔13年再扮安陵容",
+        "onboard_time": 1698295179,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158235,
+        "num": 158235,
+        "word": "王诗晴还爱老纪吗",
+        "onboard_time": 1698288813,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154352,
+        "num": 154352,
+        "word": "神十六乘组已挂好欢迎队友横幅",
+        "onboard_time": 1698292657,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 152053,
+        "num": 152053,
+        "word": "美妆博主 膏状口红",
+        "onboard_time": 1698290851,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146532,
+        "num": 146532,
+        "word": "Jennie新综艺录制路透",
+        "onboard_time": 1698289232,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "中国空间站再迎太空会师名场面",
+        "onboard_time": 1698297095,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140341,
+        "num": 140341,
+        "word": "偶遇全圆佑DK崔韩率看音乐剧",
+        "onboard_time": 1698296739,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133753,
+        "num": 133753,
+        "word": "胡先煦的闹钟只能叫醒别人",
+        "onboard_time": 1698293195,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128605,
+        "num": 128605,
+        "word": "烫发不翻车保姆级教程",
+        "onboard_time": 1698290913,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1835274,
+        "num": 128537,
+        "word": "张庭96套房产解封",
+        "onboard_time": 1698289772,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128274,
+        "num": 128274,
+        "word": "中国航天员第三次太空会师",
+        "onboard_time": 1698293436,
+        "rank": 45,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 126355,
+        "num": 126355,
+        "word": "邓紫棋演唱会获批",
+        "onboard_time": 1698291694,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123927,
+        "num": 123927,
+        "word": "2分钟看完女性一个月的变化",
+        "onboard_time": 1698286535,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116118,
+        "num": 116118,
+        "word": "唐毅老师三角遮瑕法",
+        "onboard_time": 1698294038,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112608,
+        "num": 112608,
+        "word": "以军夜间发起一次大规模地面进攻",
+        "onboard_time": 1698297338,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国加利福尼亚州州长#"
+    }
+  }
+}

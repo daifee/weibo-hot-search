@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698294846989,
+  "endTime": 1698297358821,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -19,6 +19,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 2541089,
+      "num": 438236,
+      "word": "Angelababy申请强执娱记朱皮",
+      "onboard_time": 1698293556,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2413561,
       "num": 2106468,
       "word": "如果不调休2024年假期将是这样的",
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1946097,
-      "num": 438236,
-      "word": "Angelababy申请强执娱记朱皮",
-      "onboard_time": 1698293556,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1835836,
       "num": 1835836,
       "word": "神十七发射现场",
       "onboard_time": 1698288933,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1764248,
+      "num": 1764248,
+      "word": "小杨哥曾称每月发工资超5000万",
+      "onboard_time": 1698292234,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1638607,
@@ -105,14 +113,6 @@
       "onboard_time": 1698289710,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1310087,
-      "num": 1310087,
-      "word": "小杨哥曾称每月发工资超5000万",
-      "onboard_time": 1698292234,
-      "rank": 4,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1295181,
@@ -235,6 +235,22 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 607723,
+      "num": 607723,
+      "word": "警方回应西南科技大学馄饨阿姨事件",
+      "onboard_time": 1698292954,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594946,
+      "num": 594946,
+      "word": "迪丽热巴社交名片酸奶疙瘩",
+      "onboard_time": 1698296142,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578522,
       "num": 578522,
       "word": "李沁官宣出演七夜雪",
@@ -273,6 +289,14 @@
       "onboard_time": 1698289531,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446493,
+      "num": 446493,
+      "word": "莲花楼减肥法",
+      "onboard_time": 1698294758,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 445879,
@@ -331,14 +355,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 364645,
-      "num": 364645,
-      "word": "警方回应西南科技大学馄饨阿姨事件",
-      "onboard_time": 1698292954,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359526,
       "num": 359526,
       "word": "第一批过年回家的选手已经十月辞职了",
@@ -395,11 +411,27 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 326453,
+      "num": 326453,
+      "word": "好皮肤要先从养肤做起",
+      "onboard_time": 1698294216,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 326045,
       "num": 326045,
       "word": "许光汉变许糙汉了",
       "onboard_time": 1698292892,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 323567,
+      "num": 323567,
+      "word": "舒淇狗啃刘海",
+      "onboard_time": 1698296317,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -481,6 +513,14 @@
       "onboard_time": 1698292294,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282579,
+      "num": 210215,
+      "word": "郭帆说流浪地球绝不拍第四部",
+      "onboard_time": 1698295001,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 279384,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 241059,
-      "num": 194100,
+      "num": 202102,
       "word": "旗袍发型",
       "onboard_time": 1698294279,
       "rank": 30,
@@ -633,6 +673,14 @@
       "onboard_time": 1698293917,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234528,
+      "num": 208645,
+      "word": "你现在还去李佳琦直播间消费吗",
+      "onboard_time": 1698294819,
+      "rank": 38,
+      "category": "社会议题,网红"
     },
     {
       "raw_hot": 233935,
@@ -747,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210881,
+      "num": 210881,
+      "word": "上班有一种没有尽头的感觉",
+      "onboard_time": 1698295898,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210209,
       "num": 210209,
       "word": "美妆博主 膏状口红",
@@ -776,6 +832,14 @@
       "word": "文班亚马马刺首秀",
       "onboard_time": 1698290252,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206063,
+      "num": 206063,
+      "word": "欧文也被文班亚马帽了",
+      "onboard_time": 1698294038,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -817,14 +881,6 @@
       "onboard_time": 1698289111,
       "rank": 28,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 201642,
-      "num": 193928,
-      "word": "好皮肤要先从养肤做起",
-      "onboard_time": 1698294216,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 200580,
@@ -915,14 +971,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191290,
-      "num": 191290,
-      "word": "欧文也被文班亚马帽了",
-      "onboard_time": 1698294038,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190700,
       "num": 190700,
       "word": "冰雪奇缘居然是10年前",
@@ -937,6 +985,22 @@
       "onboard_time": 1698286295,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188028,
+      "num": 188028,
+      "word": "你在意奶茶里的植脂末吗",
+      "onboard_time": 1698296799,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 186608,
+      "num": 168693,
+      "word": "公司考勤都没这记得全",
+      "onboard_time": 1698296499,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 182446,
@@ -995,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169083,
-      "num": 169083,
-      "word": "你现在还去李佳琦直播间消费吗",
-      "onboard_time": 1698294819,
-      "rank": 38,
-      "category": "社会议题,网红"
-    },
-    {
       "raw_hot": 168757,
       "num": 168757,
       "word": "黄凯胡明昊",
@@ -1043,12 +1099,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 164289,
+      "num": 164289,
+      "word": "有个吃得奇怪的同事是种什么体验",
+      "onboard_time": 1698295898,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "你好种地少年定档",
       "onboard_time": 1698248498,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161604,
+      "num": 161604,
+      "word": "人生能有96套的东西",
+      "onboard_time": 1698296499,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 160880,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1698290130,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 158651,
+      "num": 158651,
+      "word": "陶昕然时隔13年再扮安陵容",
+      "onboard_time": 1698295179,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 158569,
@@ -1131,6 +1211,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 143607,
+      "num": 143607,
+      "word": "中国空间站再迎太空会师名场面",
+      "onboard_time": 1698297095,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 142339,
       "num": 142339,
       "word": "宝宝 现在的父母太狗了",
@@ -1155,12 +1243,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 140738,
-      "num": 140738,
-      "word": "莲花楼减肥法",
-      "onboard_time": 1698294758,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 140341,
+      "num": 140341,
+      "word": "偶遇全圆佑DK崔韩率看音乐剧",
+      "onboard_time": 1698296739,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 138153,
@@ -1299,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112608,
+      "num": 112608,
+      "word": "以军夜间发起一次大规模地面进攻",
+      "onboard_time": 1698297338,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 112408,
       "num": 112408,
       "word": "小柯基被亲了一口整个狗都开心了",
@@ -1355,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92920,
+      "num": 337723,
+      "word": "更适合当代年轻人体质的原萃茶",
+      "onboard_time": 1698295001,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92678,
       "num": 92678,
       "word": "20名大学生花2年在游戏中复原母校",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1698276569,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 82071,
+      "num": 333140,
+      "word": "在西湖遇到了真公主",
+      "onboard_time": 1698296439,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 71917,
