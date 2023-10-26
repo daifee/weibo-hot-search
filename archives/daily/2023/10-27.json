@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698340538389,
+  "endTime": 1698341647245,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -419,20 +419,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 43293,
+      "num": 65126,
+      "word": "中国石化累计分红5600亿",
+      "onboard_time": 1698340519,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39193,
       "num": 56980,
       "word": "法考主观题",
       "onboard_time": 1698323315,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 30101,
-      "num": 46862,
-      "word": "中国石化累计分红5600亿",
-      "onboard_time": 1698340519,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 26134,

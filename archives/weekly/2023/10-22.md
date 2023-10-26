@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 01:15:38
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 01:34:07
 </p>
 </blockquote>
 <p>
@@ -11355,6 +11355,12 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E7%B4%AF%E8%AE%A1%E5%88%86%E7%BA%A25600%E4%BA%BF%23" target="weibo">
+中国石化累计分红5600亿（热度：43293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%A5%94%E6%9C%88%E7%9A%84%E6%95%85%E4%BA%8B%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E7%A5%9E%E8%AF%9D%23" target="weibo">
 嫦娥奔月的故事不再只是神话（热度：41143）
 </a>
@@ -11429,12 +11435,6 @@ F1（热度：36935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%9B%E4%B8%B8%E8%AF%B4%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83%E9%83%BD%E6%98%AF%E5%A5%BD%E4%BA%BA%23" target="weibo">
 力丸说朝阳打歌中心都是好人（热度：32103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E7%B4%AF%E8%AE%A1%E5%88%86%E7%BA%A25600%E4%BA%BF%23" target="weibo">
-中国石化累计分红5600亿（热度：30101）
 </a>
 </li>
 

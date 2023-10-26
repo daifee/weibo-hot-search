@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698340538389,
+  "endTime": 1698341647245,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -72595,6 +72595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43293,
+      "num": 65126,
+      "word": "中国石化累计分红5600亿",
+      "onboard_time": 1698340519,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43220,
       "num": 3975967,
       "word": "潮涌杭州看亚运",
@@ -73121,14 +73129,6 @@
       "onboard_time": 1697564779,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30101,
-      "num": 46862,
-      "word": "中国石化累计分红5600亿",
-      "onboard_time": 1698340519,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 30001,
