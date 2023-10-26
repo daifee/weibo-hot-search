@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698312851892,
+  "endTime": 1698315486472,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -155,6 +155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1299393,
+      "num": 1299393,
+      "word": "田小娟方否认涉毒",
+      "onboard_time": 1698312814,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1295181,
       "num": 1295181,
       "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
@@ -163,11 +171,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1233060,
+      "num": 1233060,
+      "word": "睡前不洗脸会让皮肤变差吗",
+      "onboard_time": 1698314555,
+      "rank": 5,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1228649,
       "num": 310672,
       "word": "权志龙涉嫌吸毒被立案",
       "onboard_time": 1698229595,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1202320,
+      "num": 829132,
+      "word": "陈钰琪离开唐嫣公司",
+      "onboard_time": 1698312814,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1698286295,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1052861,
+      "num": 1052861,
+      "word": "HYBE否认防弹少年团吸毒",
+      "onboard_time": 1698313173,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1045285,
@@ -267,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 870076,
+      "num": 870076,
+      "word": "散粉信息差",
+      "onboard_time": 1698313053,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 842094,
       "num": 842094,
       "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
@@ -331,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687286,
+      "num": 687286,
+      "word": "警方调查长江大学讲座播放不雅视频",
+      "onboard_time": 1698313474,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668675,
       "num": 668675,
       "word": "刘涛给秦海璐的花少建议",
@@ -361,6 +409,14 @@
       "onboard_time": 1698245439,
       "rank": 4,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 627625,
+      "num": 627625,
+      "word": "鳄鱼小河曾被曝饲养不当瘦到变形",
+      "onboard_time": 1698313835,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619723,
@@ -467,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484603,
+      "num": 484603,
+      "word": "国家医保局回应2022年居民医保参保数据下降",
+      "onboard_time": 1698311615,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482785,
       "num": 368407,
       "word": "网传长江大学主题讲座播放不雅视频",
@@ -481,14 +545,6 @@
       "onboard_time": 1698301653,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 481356,
-      "num": 481356,
-      "word": "国家医保局回应2022年居民医保参保数据下降",
-      "onboard_time": 1698311615,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480178,
@@ -547,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 426918,
+      "num": 426918,
+      "word": "当我妈知道除夕不放假",
+      "onboard_time": 1698310895,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 426656,
       "num": 426656,
       "word": "迪丽热巴 当年好奇的问题突然窜入脑海",
@@ -555,12 +619,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423651,
+      "num": 423651,
+      "word": "大众点评下架太二酸菜鱼",
+      "onboard_time": 1698312514,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422885,
       "num": 422885,
       "word": "电影人生大事将复映",
       "onboard_time": 1698311374,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 422603,
+      "num": 422603,
+      "word": "辛巴谈李佳琦再陷舆论风波",
+      "onboard_time": 1698315273,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 422550,
+      "num": 422550,
+      "word": "厦门动物园发布鳄鱼小河死亡通告",
+      "onboard_time": 1698313474,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420734,
+      "num": 420734,
+      "word": "王一博去跳伞了",
+      "onboard_time": 1698313835,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 420064,
@@ -593,14 +689,6 @@
       "onboard_time": 1698294216,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 394685,
-      "num": 394685,
-      "word": "当我妈知道除夕不放假",
-      "onboard_time": 1698310895,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 386767,
@@ -787,6 +875,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 308621,
+      "num": 308621,
+      "word": "张艺兴偶遇尖嘴动物",
+      "onboard_time": 1698313414,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305214,
       "num": 305214,
       "word": "iOS17.1修复iPhone12辐射问题",
@@ -873,14 +969,6 @@
       "onboard_time": 1698295001,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280878,
-      "num": 255339,
-      "word": "陈钰琪离开唐嫣公司",
-      "onboard_time": 1698312814,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 279384,
@@ -1043,12 +1131,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245684,
+      "num": 1284532,
+      "word": "整理房间误扔10万元被路人送还",
+      "onboard_time": 1698304056,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244942,
       "num": 244942,
       "word": "于正话递到嘴边了 也子也不会卖惨",
       "onboard_time": 1698306875,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242577,
+      "num": 242577,
+      "word": "林心如额前编发",
+      "onboard_time": 1698313114,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241059,
@@ -1115,6 +1219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226541,
+      "num": 226541,
+      "word": "男性朋友送的化妆镜藏了摄像头",
+      "onboard_time": 1698312814,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225526,
+      "num": 225526,
+      "word": "洗脸和护肤谁更重要",
+      "onboard_time": 1698315094,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 224906,
       "num": 224906,
       "word": "货车侧翻一群人买光14000斤花菜",
@@ -1145,6 +1265,14 @@
       "onboard_time": 1698293195,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222895,
+      "num": 222895,
+      "word": "iPhone15被指玻璃背板易碎",
+      "onboard_time": 1698312933,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 220998,
@@ -1251,22 +1379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 212263,
-      "num": 212263,
-      "word": "大众点评下架太二酸菜鱼",
-      "onboard_time": 1698312514,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211222,
-      "num": 211222,
-      "word": "整理房间误扔10万元被路人送还",
-      "onboard_time": 1698304056,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210209,
       "num": 210209,
       "word": "美妆博主 膏状口红",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1698248796,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208385,
+      "num": 208385,
+      "word": "薛之谦成都演唱会",
+      "onboard_time": 1698315094,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 208202,
@@ -1324,7 +1444,7 @@
     },
     {
       "raw_hot": 205244,
-      "num": 1163935,
+      "num": 1281490,
       "word": "中国航天又见大红屏",
       "onboard_time": 1698293195,
       "rank": 28,
@@ -1337,6 +1457,14 @@
       "onboard_time": 1698247840,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204346,
+      "num": 204346,
+      "word": "万代 光与夜之恋",
+      "onboard_time": 1698313897,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 204211,
@@ -1353,6 +1481,14 @@
       "onboard_time": 1698285159,
       "rank": 22,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 202599,
+      "num": 202599,
+      "word": "神十七成功对接空间站",
+      "onboard_time": 1698314674,
+      "rank": 34,
+      "category": "国内要闻,科技"
     },
     {
       "raw_hot": 202482,
@@ -1475,6 +1611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193537,
+      "num": 193537,
+      "word": "MAD对战WBG",
+      "onboard_time": 1698314315,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193163,
       "num": 405118,
       "word": "小米14首测超iPhone15Pro",
@@ -1507,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191116,
+      "num": 191116,
+      "word": "周深王者荣耀灵魂画手",
+      "onboard_time": 1698315212,
+      "rank": 38,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 190700,
       "num": 190700,
       "word": "冰雪奇缘居然是10年前",
@@ -1529,6 +1681,14 @@
       "onboard_time": 1698300095,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 187339,
+      "num": 187339,
+      "word": "的哥绕道35公里多赚80块致乘客误机",
+      "onboard_time": 1698314015,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182446,
@@ -1603,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174983,
+      "num": 174983,
+      "word": "田柾国车银优郑在玹聚餐",
+      "onboard_time": 1698315153,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170688,
       "num": 170688,
       "word": "周也乌镇随拍",
@@ -1617,14 +1785,6 @@
       "onboard_time": 1698303814,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169863,
-      "num": 169863,
-      "word": "田小娟方否认涉毒",
-      "onboard_time": 1698312814,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 168757,
@@ -1675,6 +1835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163711,
+      "num": 163711,
+      "word": "是谁说服赵露思跳这个的",
+      "onboard_time": 1698315452,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163529,
       "num": 163529,
       "word": "你好种地少年定档",
@@ -1713,6 +1881,14 @@
       "onboard_time": 1698284915,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160277,
+      "num": 160277,
+      "word": "李溪芮新剧妆造",
+      "onboard_time": 1698312755,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 159124,
@@ -1784,14 +1960,6 @@
       "word": "2024春节放假8天",
       "onboard_time": 1698284973,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150497,
-      "num": 150497,
-      "word": "男性朋友送的化妆镜藏了摄像头",
-      "onboard_time": 1698312814,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1963,14 +2131,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 129934,
-      "num": 129934,
-      "word": "李溪芮新剧妆造",
-      "onboard_time": 1698312755,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129637,
       "num": 129637,
       "word": "独行侠vs马刺",
@@ -2009,6 +2169,14 @@
       "onboard_time": 1698286654,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124521,
+      "num": 1233384,
+      "word": "今天飞天的河南88后诠释了人生不被定义",
+      "onboard_time": 1698313835,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 123362,
@@ -2131,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99957,
+      "num": 150808,
+      "word": "我画你猜届的显眼包出现了",
+      "onboard_time": 1698313957,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99006,
       "num": 99006,
       "word": "我的老婆在外面哄别的女孩纸",
@@ -2211,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71425,
+      "num": 188415,
+      "word": "京东采销直播间发疯",
+      "onboard_time": 1698314433,
+      "rank": 39,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 71114,
       "num": 71114,
       "word": "内娱最具影响力的明星",
@@ -2225,6 +2409,14 @@
       "onboard_time": 1698312155,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 65289,
+      "num": 1078065,
+      "word": "轮椅运动员在杭州借助高科技站起来",
+      "onboard_time": 1698313835,
+      "rank": 6,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 64053,
