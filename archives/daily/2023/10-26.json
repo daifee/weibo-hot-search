@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698283848395,
+  "endTime": 1698285849730,
   "band_list": [
     {
       "raw_hot": 2901409,
@@ -24,6 +24,14 @@
       "word": "感觉权志龙要变异了",
       "onboard_time": 1698242620,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1485654,
+      "num": 1485654,
+      "word": "浪凡 成毅",
+      "onboard_time": 1698284673,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 816386,
-      "num": 816386,
+      "raw_hot": 952460,
+      "num": 952460,
       "word": "中俄列车大劫案有多可怕",
       "onboard_time": 1698281319,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 804310,
+      "num": 804310,
+      "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
+      "onboard_time": 1698283174,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755095,
@@ -123,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536281,
+      "num": 213687,
+      "word": "男子发现女儿非亲生前妻称自己也不知情",
+      "onboard_time": 1698283773,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531025,
       "num": 531025,
       "word": "快递小哥十年做公益被孩子叫熊大叔叔",
@@ -153,14 +177,6 @@
       "onboard_time": 1698278075,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389731,
-      "num": 389731,
-      "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
-      "onboard_time": 1698283174,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383911,
@@ -235,6 +251,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 305214,
+      "num": 305214,
+      "word": "iOS17.1修复iPhone12辐射问题",
+      "onboard_time": 1698281678,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 294461,
       "num": 294461,
       "word": "俩主播硬刚卖了2.6亿不下播",
@@ -267,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275465,
-      "num": 275465,
-      "word": "iOS17.1修复iPhone12辐射问题",
-      "onboard_time": 1698281678,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "5名工作人员接触到福岛核污染水",
@@ -297,6 +313,14 @@
       "onboard_time": 1698277831,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258476,
+      "num": 212092,
+      "word": "刚睡醒的小狗披着小被子到处找妈妈",
+      "onboard_time": 1698283896,
+      "rank": 21,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 258055,
@@ -361,6 +385,14 @@
       "onboard_time": 1698282279,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223498,
+      "num": 152576,
+      "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+      "onboard_time": 1698285513,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220998,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204027,
+      "num": 204027,
+      "word": "神舟十七号",
+      "onboard_time": 1698285159,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 200580,
       "num": 200580,
       "word": "余华 学会克制你的表达欲",
@@ -491,6 +531,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 181971,
+      "num": 181971,
+      "word": "我要逆风去 成年人的电视剧",
+      "onboard_time": 1698282577,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181493,
       "num": 181493,
       "word": "天官赐福",
@@ -505,14 +553,6 @@
       "onboard_time": 1698250710,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 178689,
-      "num": 168150,
-      "word": "男子发现女儿非亲生前妻称自己也不知情",
-      "onboard_time": 1698283773,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178260,
@@ -537,6 +577,14 @@
       "onboard_time": 1698245740,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168716,
+      "num": 168716,
+      "word": "美国缅因州突发枪击案至少16人死亡",
+      "onboard_time": 1698285758,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 166384,
@@ -571,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158952,
-      "num": 158952,
-      "word": "我要逆风去 成年人的电视剧",
-      "onboard_time": 1698282577,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158569,
       "num": 158569,
       "word": "女孩悄悄询问家人能否为民警买单",
@@ -601,6 +641,22 @@
       "onboard_time": 1698281920,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 152436,
+      "num": 152436,
+      "word": "最美后妈一碗水端平照顾继子60年",
+      "onboard_time": 1698284915,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152236,
+      "num": 113963,
+      "word": "2024春节放假8天",
+      "onboard_time": 1698284973,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145067,
@@ -721,6 +777,14 @@
       "onboard_time": 1698144754,
       "rank": 46,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 106496,
+      "num": 106496,
+      "word": "以前咋没发现秦岚这么好笑",
+      "onboard_time": 1698285813,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 105960,
