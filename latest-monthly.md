@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 09:11:01
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 09:31:07
 </p>
 </blockquote>
 <p>
@@ -1181,6 +1181,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
 男子误喝防冻液血液成胶冻状离世（热度：2234669）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%B8%8E%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B7%B2%E5%90%88%E8%B5%84%E5%BC%80%E5%85%AC%E5%8F%B8%23" target="weibo">
+疯狂小杨哥与李佳琦已合资开公司（热度：2232400）
 </a>
 </li>
 
@@ -5793,6 +5799,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%89%93%E6%AD%BB%E6%9F%AF%E5%9F%BA%E7%94%B7%E5%AD%90%E8%A2%AB5%E4%BA%BA%E6%BB%8B%E6%89%B0%23" target="weibo">
+警方通报打死柯基男子被5人滋扰（热度：1002551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E8%AF%AF%E5%87%BB%E5%9F%83%E5%8F%8A%E5%86%9B%E9%98%9F%E5%93%A8%E6%89%80%23" target="weibo">
 以军称误击埃及军队哨所（热度：1000990）
 </a>
@@ -5825,12 +5837,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B513%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%88%A4%E6%97%A0%E7%BD%AA%E9%87%8A%E6%94%BE%E5%90%8E%E5%A4%A7%E7%AC%91%23" target="weibo">
 英男子性侵13岁女童判无罪释放后大笑（热度：998462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%89%93%E6%AD%BB%E6%9F%AF%E5%9F%BA%E7%94%B7%E5%AD%90%E8%A2%AB5%E4%BA%BA%E6%BB%8B%E6%89%B0%23" target="weibo">
-警方通报打死柯基男子被5人滋扰（热度：998408）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%98%E6%98%AF%E9%BB%84%E5%B0%8F%E5%A4%AB%23" target="weibo">
 这是黄晓明还是黄小夫（热度：980967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E6%98%AF%E8%88%8D%E4%B8%8D%E5%BE%97%E5%90%83%E7%9A%84%20%E7%89%9B%E5%A5%B6%E6%98%AF%E4%B8%8A%E6%AC%A1%E7%BB%99%E4%BB%96%E4%BB%AC%E7%9A%84%23" target="weibo">
-鸡蛋是舍不得吃的 牛奶是上次给他们的（热度：979941）
 </a>
 </li>
 

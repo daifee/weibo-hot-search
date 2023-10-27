@@ -1,0 +1,410 @@
+{
+  "runTime": 1698370267298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 34906490,
+        "num": 34906490,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 238411,
+        "num": 5830871,
+        "word": "货车着火飞奔下高速众人齐心灭火",
+        "onboard_time": 1698368369,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61220,
+        "num": 5315820,
+        "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+        "onboard_time": 1698327095,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434119,
+        "num": 4873732,
+        "word": "小米14Pro纯钛",
+        "onboard_time": 1698326437,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345679,
+        "num": 4801755,
+        "word": "直播间卖的玉到底是真是假",
+        "onboard_time": 1698331718,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 957155,
+        "num": 4230605,
+        "word": "2023第300天",
+        "onboard_time": 1698367790,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816515,
+        "num": 3807626,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1698363092,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 214849,
+        "num": 3403098,
+        "word": "小米14Pro终结直屏曲屏之争",
+        "onboard_time": 1698328176,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190474,
+        "num": 3214568,
+        "word": "未成年人网络保护条例的六大亮点",
+        "onboard_time": 1698370019,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172822,
+        "num": 2755076,
+        "word": "金凡 紧张",
+        "onboard_time": 1698322233,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2554288,
+        "num": 2554288,
+        "word": "权志龙回应涉嫌吸毒",
+        "onboard_time": 1698361766,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2232400,
+        "num": 2232400,
+        "word": "疯狂小杨哥与李佳琦已合资开公司",
+        "onboard_time": 1698368899,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1906786,
+        "num": 1906786,
+        "word": "林心如体重只有92斤",
+        "onboard_time": 1698367264,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1759567,
+        "num": 1759567,
+        "word": "看完李佳琦直播京东采销再降1500",
+        "onboard_time": 1698364050,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1420515,
+        "num": 1420515,
+        "word": "杨紫聊左耳被苏有朋二次伤害",
+        "onboard_time": 1698366056,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024702,
+        "num": 1024702,
+        "word": "西安机场",
+        "onboard_time": 1698363329,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004877,
+        "num": 1004877,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1002551,
+        "num": 1002551,
+        "word": "警方通报打死柯基男子被5人滋扰",
+        "onboard_time": 1698366733,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953578,
+        "num": 953578,
+        "word": "张云龙快碎了",
+        "onboard_time": 1698362668,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774754,
+        "num": 774754,
+        "word": "谢娜让杨紫带何炅再翻红一次",
+        "onboard_time": 1698368143,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1065813,
+        "num": 755232,
+        "word": "女子带孩子拍胸片发现是小孩在操作",
+        "onboard_time": 1698335735,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830089,
+        "num": 742568,
+        "word": "赵丽颖对接要求美团买菜道歉",
+        "onboard_time": 1698326316,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726939,
+        "num": 726939,
+        "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
+        "onboard_time": 1698361646,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700786,
+        "num": 700786,
+        "word": "花16万买了辆二手奔驰S",
+        "onboard_time": 1698366262,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 695974,
+        "num": 695974,
+        "word": "三只羊网络CEO曾称挣7个点净利润就够",
+        "onboard_time": 1698363750,
+        "rank": 24,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 693351,
+        "num": 693351,
+        "word": "30岁女子1天5杯咖啡喝成脆骨人",
+        "onboard_time": 1698366410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647150,
+        "num": 647150,
+        "word": "肾虚会写在脸上吗",
+        "onboard_time": 1698368029,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 587917,
+        "num": 587917,
+        "word": "中国人寿",
+        "onboard_time": 1698369017,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 498879,
+        "num": 498879,
+        "word": "上着班突然被告知家里要拆迁了",
+        "onboard_time": 1698368488,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137966,
+        "num": 480320,
+        "word": "江南的秋天有着独特的韵味",
+        "onboard_time": 1698367968,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 467642,
+        "num": 467642,
+        "word": "居然可以和朋友一个户口本",
+        "onboard_time": 1698363812,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462188,
+        "num": 462188,
+        "word": "罗翔 你们睡觉的时候手机关不关",
+        "onboard_time": 1698333095,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 378077,
+        "num": 378077,
+        "word": "海底捞回应140斤女生应聘洗碗工被拒",
+        "onboard_time": 1698328176,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342313,
+        "num": 342313,
+        "word": "陈奕迅 社交恐惧癌",
+        "onboard_time": 1698365377,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340551,
+        "num": 340551,
+        "word": "当你有个身高196cm的大长腿女友",
+        "onboard_time": 1698364473,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339723,
+        "num": 339723,
+        "word": "玲娜贝儿史上最凶眉毛",
+        "onboard_time": 1698332917,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321420,
+        "num": 321420,
+        "word": "结婚前一天晚上的聊天记录",
+        "onboard_time": 1698327818,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299469,
+        "num": 299469,
+        "word": "小哪吒暴躁人设崩塌",
+        "onboard_time": 1698369841,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296738,
+        "num": 296738,
+        "word": "警方通报合肥工业大学一学生轻生",
+        "onboard_time": 1698361583,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268525,
+        "num": 268525,
+        "word": "看得出来审核员真的很崩溃",
+        "onboard_time": 1698365994,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256632,
+        "num": 256632,
+        "word": "六旬男子晨跑时一头栽地2女子急抢救",
+        "onboard_time": 1698362788,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255221,
+        "num": 255221,
+        "word": "金世佳波吉王子梦幻联动了",
+        "onboard_time": 1698368956,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245203,
+        "num": 245203,
+        "word": "花儿与少年开始体现大局观了",
+        "onboard_time": 1698330037,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242487,
+        "num": 242487,
+        "word": "比较冷门却用完真香的国货",
+        "onboard_time": 1698363270,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231710,
+        "num": 231710,
+        "word": "赵小棠银发脸链好帅",
+        "onboard_time": 1698365138,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217856,
+        "num": 217856,
+        "word": "匪我思存理解的BE",
+        "onboard_time": 1698365016,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208375,
+        "num": 208375,
+        "word": "林心如飞奔拥抱苏有朋",
+        "onboard_time": 1698363208,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201143,
+        "num": 201143,
+        "word": "我爸现在逃避问题的办法很多",
+        "onboard_time": 1698368844,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196198,
+        "num": 196198,
+        "word": "美国7旬老太被咖啡烫伤获赔300万美元",
+        "onboard_time": 1698368029,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194177,
+        "num": 194177,
+        "word": "你每天什么时候洗脸",
+        "onboard_time": 1698368547,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#把共同发展开放融通的亚洲之路越走越宽#"
+    }
+  }
+}
