@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 23:34:45
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 00:21:36
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B45%E4%BE%8B%23" target="weibo">
 9月新增本土新冠死亡病例45例（热度：3658428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE8%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+深圳欢乐谷过山车追尾8人受伤（热度：3634337）
 </a>
 </li>
 
@@ -863,6 +869,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E5%8F%91%E8%B5%B7200%E4%B8%87%E7%AD%B9%E6%AC%BE%23" target="weibo">
 被恶犬咬伤女童家属发起200万筹款（热度：2558177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%80%9A%E6%8A%A5%23" target="weibo">
+深圳欢乐谷通报（热度：2541384）
 </a>
 </li>
 
@@ -4977,6 +4989,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
+日本年轻人开始流行周末婚（热度：1169839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99F367UJ%E4%BD%A0%E5%86%B2%E5%90%91%E8%8D%89%E4%B8%9B%E7%9A%84%E6%A0%B7%E5%AD%90%E7%9C%9F%E5%B8%85%23" target="weibo">
 浙F367UJ你冲向草丛的样子真帅（热度：1169115）
 </a>
@@ -5117,6 +5135,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E5%A4%A9%E6%95%91%E6%8F%B4%E9%98%9F%E5%85%AC%E5%B8%83%E7%96%91%E4%BC%BC%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E5%89%8D%E8%A7%86%E9%A2%91%23" target="weibo">
 蓝天救援队公布疑似女童走失前视频（热度：1137919）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8A%A8%E4%BD%9C%E5%81%9A%E6%97%A9%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+虞书欣动作做早的反应（热度：1135444）
 </a>
 </li>
 
@@ -5279,12 +5303,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%23" target="weibo">
 诺贝尔文学奖（热度：1113103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
-日本年轻人开始流行周末婚（热度：1112766）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ A股（热度：1016083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%8D%E6%8B%8D%E5%8F%A4%E8%A3%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 黄景瑜不拍古装的原因（热度：1012046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%84%9F%E8%B0%A2%E9%99%88%E5%BB%BA%E5%B7%9E%E5%AE%88%E6%8A%A4%E5%AE%B6%E5%BA%AD%23" target="weibo">
-范玮琪感谢陈建州守护家庭（热度：1011965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23NEWJEANS%E6%9D%8E%E6%83%A0%E4%BB%81LV%E6%97%B6%E8%A3%85%E5%91%A8%E9%80%A0%E5%9E%8B%23" target="weibo">
-NEWJEANS李惠仁LV时装周造型（热度：1010846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%BA%E7%94%B7%E5%8F%8B%E5%A2%9E%E8%82%A569%E6%96%A4%E5%90%8E%E8%A2%AB%E6%8A%9B%E5%BC%83%23" target="weibo">
-95后女模特为男友增肥69斤后被抛弃（热度：1010811）
 </a>
 </li>
 

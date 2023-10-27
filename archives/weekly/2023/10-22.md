@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/27 23:34:45
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/28 00:21:36
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@ YG回应权志龙涉嫌吸毒（热度：4462723）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE8%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+深圳欢乐谷过山车追尾8人受伤（热度：3634337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%86%9B%E9%98%9F%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%BC%80%E7%81%AB%23" target="weibo">
 印度军队向巴基斯坦开火（热度：3613228）
 </a>
@@ -209,6 +215,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E5%96%8A%E8%AF%9D%E6%9D%8E%E4%BD%B3%E7%90%A6%23" target="weibo">
 京东采销喊话李佳琦（热度：2577468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%80%9A%E6%8A%A5%23" target="weibo">
+深圳欢乐谷通报（热度：2541384）
 </a>
 </li>
 
@@ -1029,6 +1041,12 @@ WBG 心态崩了（热度：1192423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
+日本年轻人开始流行周末婚（热度：1169839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC%E8%A2%AB%E8%B8%A9%E8%BD%A6%E4%B8%BB%E7%A7%B0%E4%B8%8D%E5%92%8C%E8%A7%A3%23" target="weibo">
 兰博基尼被踩车主称不和解（热度：1168473）
 </a>
@@ -1049,6 +1067,12 @@ WBG 心态崩了（热度：1192423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A%E5%86%99%E4%B8%8B%E4%BD%A0%E6%98%AF%E5%AD%A4%E5%84%BF%E5%90%97%E8%AF%84%E8%AF%AD%23" target="weibo">
 中学老师批改作业写下你是孤儿吗评语（热度：1145359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8A%A8%E4%BD%9C%E5%81%9A%E6%97%A9%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+虞书欣动作做早的反应（热度：1135444）
 </a>
 </li>
 
@@ -1085,12 +1109,6 @@ WBG 心态崩了（热度：1192423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%23" target="weibo">
 深圳机场（热度：1115123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
-日本年轻人开始流行周末婚（热度：1112766）
 </a>
 </li>
 
@@ -1751,6 +1769,12 @@ BIGBANG（热度：790923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E6%8B%8D%E7%9A%84%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E8%8F%B2%23" target="weibo">
 刘嘉玲拍的梁朝伟王菲（热度：790651）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%99%9E%E6%B5%B7%E6%A3%A0%23" target="weibo">
+大虞海棠（热度：789853）
 </a>
 </li>
 
@@ -3221,6 +3245,12 @@ G社拍的戚薇（热度：482214）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%81%AD%E6%A5%BC%E4%B8%8B%E8%80%81%E4%BA%BA%E7%A0%B8%E9%97%A8%E5%92%92%E9%AA%821%E5%B9%B4%E6%9A%B4%E7%98%A620%E6%96%A4%23" target="weibo">
 男子遭楼下老人砸门咒骂1年暴瘦20斤（热度：474885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
+中小学生连厕所时间都快没了（热度：474838）
 </a>
 </li>
 
@@ -4929,6 +4959,12 @@ baby挥舞战旗（热度：318084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E7%93%B7%E7%A0%96%E6%9C%89%E8%82%A1%E8%85%A5%E5%91%B3%23" target="weibo">
+为什么拖完地瓷砖有股腥味（热度：317434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%BB%E5%BA%A6%E8%9C%9C%E6%9C%88%E9%A3%9E%E6%9C%BA%E7%AA%97%E4%B8%8A%E8%B4%B4%E5%96%9C%E5%AD%97%E7%95%99%E5%BF%B5%23" target="weibo">
 新婚夫妻度蜜月飞机窗上贴喜字留念（热度：317414）
 </a>
@@ -4961,6 +4997,12 @@ baby挥舞战旗（热度：318084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E7%B3%BB%E5%88%97%E6%BB%A1%E6%84%8F%E5%BA%A6%E5%88%9B%E6%96%B0%E4%BD%8E%23" target="weibo">
 iPhone15Pro系列满意度创新低（热度：317058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%9F%9F%E9%9B%84%E9%B9%B0%23" target="weibo">
+雪域雄鹰（热度：316855）
 </a>
 </li>
 
@@ -5813,12 +5855,6 @@ TheShy的剑魔（热度：287761）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BOA%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80%23" target="weibo">
 BOA扳回一局（热度：277436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E7%93%B7%E7%A0%96%E6%9C%89%E8%82%A1%E8%85%A5%E5%91%B3%23" target="weibo">
-为什么拖完地瓷砖有股腥味（热度：276979）
 </a>
 </li>
 
@@ -7271,6 +7307,12 @@ AG对战TES（热度：223714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E6%8B%89%E4%BC%B8%E6%97%B6%E5%81%B7%E5%81%B7%E6%94%BE%E4%BA%86%E4%B8%AA%E5%B1%81%23" target="weibo">
 狗狗拉伸时偷偷放了个屁（热度：223581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
+夺得世界冠军的中国面包原料是西藏青稞（热度：223401）
 </a>
 </li>
 
@@ -8775,6 +8817,12 @@ iQOO12将发布新品（热度：191086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%9C%80%E6%96%B0OP%23" target="weibo">
+名侦探柯南最新OP（热度：191082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E5%90%83%E5%B1%B1%E4%B8%9C%E7%85%8E%E9%A5%BC%E7%94%A9%E5%A4%B4%E9%82%A3%E4%B8%80%E4%B8%8B%E5%9C%B0%E9%81%93%23" target="weibo">
 人类幼崽吃山东煎饼甩头那一下地道（热度：190931）
 </a>
@@ -9455,6 +9503,12 @@ MINNIE和HANNI唱Remember Me（热度：180941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%99%B6%E8%91%A1%E8%90%84%E5%A6%86%23" target="weibo">
 水晶葡萄妆（热度：176806）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%82%B2%E5%A4%A9%E5%A4%AA%E5%AE%A0%E4%BA%86%23" target="weibo">
+花傲天太宠了（热度：176133）
 </a>
 </li>
 
@@ -10683,12 +10737,6 @@ TE零封EDG（热度：149029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%9C%80%E6%96%B0OP%23" target="weibo">
-名侦探柯南最新OP（热度：147641）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%89%E6%B1%89%E8%BF%99%E5%BC%A0%E5%9B%BE%E8%AE%A9%E6%88%91%E6%9B%B4%E7%9D%A1%E4%B8%8D%E7%9D%80%E4%BA%86%23" target="weibo">
 许光汉这张图让我更睡不着了（热度：147564）
 </a>
@@ -10991,6 +11039,12 @@ MOMO跳SMOKE（热度：141107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E5%8E%BB%E4%B8%96%E7%88%B8%E7%88%B8%E7%82%B9%E6%AD%8C%23" target="weibo">
 女孩五月天演唱会给去世爸爸点歌（热度：141039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E9%99%85%E7%A9%BF%E8%B6%8A%E7%9A%84%E6%8B%8D%E6%91%84%E4%B8%8E%E5%90%8E%E6%9C%9F%E5%91%88%E7%8E%B0%23" target="weibo">
+星际穿越的拍摄与后期呈现（热度：141017）
 </a>
 </li>
 
