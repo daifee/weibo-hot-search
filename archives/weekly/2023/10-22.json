@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698412775473,
+  "endTime": 1698413651819,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -723,6 +723,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1612890,
+      "num": 1612890,
+      "word": "吴尊友与癌症搏斗了两年",
+      "onboard_time": 1698404610,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1610007,
       "num": 1610007,
       "word": "调休",
@@ -811,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1551858,
-      "num": 1486018,
-      "word": "吴尊友与癌症搏斗了两年",
-      "onboard_time": 1698404610,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1534098,
       "num": 443496,
       "word": "西瓜爆改张元英",
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 1532730,
-      "num": 1270284,
+      "num": 1444423,
       "word": "导演马秉煜因病去世",
       "onboard_time": 1698406781,
       "rank": 11,
@@ -873,6 +873,14 @@
       "onboard_time": 1698058727,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1462569,
+      "num": 1462569,
+      "word": "我是歌手 重启",
+      "onboard_time": 1698410259,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1439688,
@@ -1275,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1169423,
-      "num": 1169423,
-      "word": "我是歌手 重启",
-      "onboard_time": 1698410259,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1168473,
       "num": 1168473,
       "word": "兰博基尼被踩车主称不和解",
@@ -1321,6 +1321,14 @@
       "onboard_time": 1698224855,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1130829,
+      "num": 1130829,
+      "word": "京东李佳琦打架用户狂薅羊毛",
+      "onboard_time": 1698407503,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128645,
@@ -1689,14 +1697,6 @@
       "onboard_time": 1697901875,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 950161,
-      "num": 950161,
-      "word": "京东李佳琦打架用户狂薅羊毛",
-      "onboard_time": 1698407503,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 949863,
@@ -2099,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 826278,
+      "num": 600511,
+      "word": "THE9演唱会开场秀",
+      "onboard_time": 1698412719,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 818047,
       "num": 818047,
       "word": "迪丽热巴生病不能耽误美",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1698210041,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815182,
+      "num": 1799708,
+      "word": "外交部回应中国飞行员在南海拦截美军机",
+      "onboard_time": 1698409480,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 815140,
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 803303,
-      "num": 437620,
+      "num": 562254,
       "word": "村支书被曝强迫留守妇女发生关系",
       "onboard_time": 1698407439,
       "rank": 20,
@@ -2683,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674782,
+      "num": 1782363,
+      "word": "胰腺癌是最内向的癌",
+      "onboard_time": 1698408279,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 672938,
       "num": 448563,
       "word": "肖战美拉德风衣",
@@ -2865,14 +2889,6 @@
       "onboard_time": 1698304594,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 635968,
-      "num": 1748144,
-      "word": "外交部回应中国飞行员在南海拦截美军机",
-      "onboard_time": 1698409480,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 635562,
@@ -3073,6 +3089,14 @@
       "onboard_time": 1698195453,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608498,
+      "num": 608498,
+      "word": "安崎麦怎么回事",
+      "onboard_time": 1698411998,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 604703,
@@ -3291,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578208,
+      "num": 578208,
+      "word": "不奉陪",
+      "onboard_time": 1698412299,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 577205,
       "num": 285099,
       "word": "高铁乘客爽快给孩子们换座被奖励可乐",
@@ -3467,14 +3499,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 548966,
-      "num": 1698426,
-      "word": "胰腺癌是最内向的癌",
-      "onboard_time": 1698408279,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 548479,
       "num": 548479,
       "word": "中国股市必须守住",
@@ -3520,6 +3544,14 @@
       "word": "家政公司称38岁月嫂在雇主家死亡",
       "onboard_time": 1698306634,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539066,
+      "num": 539066,
+      "word": "手机电量1%女子紧急求助110",
+      "onboard_time": 1698412900,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4684,7 +4716,7 @@
     },
     {
       "raw_hot": 429233,
-      "num": 1492884,
+      "num": 1646313,
       "word": "胰腺癌一旦发现往往是中晚期",
       "onboard_time": 1698403066,
       "rank": 20,
@@ -4947,6 +4979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 408518,
+      "num": 1735613,
+      "word": "双十一是不是卖不动了",
+      "onboard_time": 1698401746,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 408320,
       "num": 408320,
       "word": "张小斐一出现妈声一片",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1698206379,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404813,
+      "num": 404813,
+      "word": "迪丽热巴谈对秦岚初印象",
+      "onboard_time": 1698412119,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 404292,
@@ -5283,14 +5331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 383937,
-      "num": 1646726,
-      "word": "双十一是不是卖不动了",
-      "onboard_time": 1698401746,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 383911,
       "num": 383911,
       "word": "苏有朋林心如综艺合体",
@@ -5425,14 +5465,6 @@
       "onboard_time": 1698201101,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375846,
-      "num": 375846,
-      "word": "安崎麦怎么回事",
-      "onboard_time": 1698411998,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 375701,
@@ -6539,14 +6571,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 312802,
-      "num": 312802,
-      "word": "迪丽热巴谈对秦岚初印象",
-      "onboard_time": 1698412119,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312202,
       "num": 312202,
       "word": "MAD对战WBG",
@@ -6617,14 +6641,6 @@
       "onboard_time": 1698249633,
       "rank": 16,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 309059,
-      "num": 309059,
-      "word": "不奉陪",
-      "onboard_time": 1698412299,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 308996,
@@ -6825,6 +6841,14 @@
       "onboard_time": 1698122382,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302987,
+      "num": 302987,
+      "word": "法媒惊讶中国队赢了世界面包大赛",
+      "onboard_time": 1698412900,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 302640,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1698409000,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280402,
+      "num": 280402,
+      "word": "处女座真的很容易内耗",
+      "onboard_time": 1698409960,
+      "rank": 33,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 280129,
@@ -8331,6 +8363,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 252707,
+      "num": 252707,
+      "word": "公司让员工轮流往女子头上浇水",
+      "onboard_time": 1698411576,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252573,
       "num": 252573,
       "word": "潘玮柏近期状态",
@@ -8369,6 +8409,14 @@
       "onboard_time": 1698218503,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251824,
+      "num": 251824,
+      "word": "暨南大学81名新生放弃入学资格",
+      "onboard_time": 1698413438,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 251524,
@@ -8731,12 +8779,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 240850,
-      "num": 240850,
-      "word": "处女座真的很容易内耗",
-      "onboard_time": 1698409960,
-      "rank": 33,
-      "category": "情感,网红"
+      "raw_hot": 240769,
+      "num": 240769,
+      "word": "Lion",
+      "onboard_time": 1698413438,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 240688,
@@ -8961,14 +9009,6 @@
       "onboard_time": 1698119498,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234692,
-      "num": 234692,
-      "word": "公司让员工轮流往女子头上浇水",
-      "onboard_time": 1698411576,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234528,
@@ -9459,6 +9499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223714,
+      "num": 223714,
+      "word": "AG对战TES",
+      "onboard_time": 1698407744,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223692,
       "num": 249186,
       "word": "80岁大爷拿铲子刮巨型刮刮乐",
@@ -9497,6 +9545,14 @@
       "onboard_time": 1698312933,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 222661,
+      "num": 3786497,
+      "word": "我国将建立国家不可移动文物资源总目录",
+      "onboard_time": 1698411278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222654,
@@ -9993,14 +10049,6 @@
       "onboard_time": 1698144754,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 211873,
-      "num": 3786497,
-      "word": "我国将建立国家不可移动文物资源总目录",
-      "onboard_time": 1698411278,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211727,
@@ -10513,14 +10561,6 @@
       "onboard_time": 1698285159,
       "rank": 22,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 203662,
-      "num": 203662,
-      "word": "THE9演唱会开场秀",
-      "onboard_time": 1698412719,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 203627,
@@ -12915,6 +12955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164645,
+      "num": 164645,
+      "word": "动物世界",
+      "onboard_time": 1698412778,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164619,
       "num": 164619,
       "word": "重庆一火锅店现机器人服务员敬酒倒茶",
@@ -13291,6 +13339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158911,
+      "num": 158911,
+      "word": "WTT法兰克福冠军赛抽签结果",
+      "onboard_time": 1698413560,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158788,
       "num": 158788,
       "word": "黄眼黑猫招财妆",
@@ -13329,6 +13385,14 @@
       "onboard_time": 1698280658,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158450,
+      "num": 158450,
+      "word": "SEVENTEEN音乐之神开麦",
+      "onboard_time": 1698413321,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 158083,
@@ -14377,14 +14441,6 @@
       "onboard_time": 1698148240,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140174,
-      "num": 140174,
-      "word": "AG对战TES",
-      "onboard_time": 1698407744,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 140154,
