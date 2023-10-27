@@ -1,0 +1,410 @@
+{
+  "runTime": 1698395657257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3540006,
+        "num": 3540006,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1237793,
+        "num": 1237793,
+        "word": "拜登下令对叙利亚境内发动空袭",
+        "onboard_time": 1698379064,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30713,
+        "num": 947517,
+        "word": "亚残运会有哪些硬核科技",
+        "onboard_time": 1698375162,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1801521,
+        "num": 888359,
+        "word": "缅甸",
+        "onboard_time": 1698389556,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 476614,
+        "num": 803852,
+        "word": "苏炳添世界排名消失",
+        "onboard_time": 1698379544,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 741310,
+        "num": 741310,
+        "word": "印度军队向巴基斯坦开火",
+        "onboard_time": 1698378701,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 679546,
+        "num": 679546,
+        "word": "缅北多地爆发激烈战事",
+        "onboard_time": 1698386916,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 375046,
+        "num": 375046,
+        "word": "以色列要求俄罗斯驱逐哈马斯",
+        "onboard_time": 1698386254,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 317454,
+        "num": 317454,
+        "word": "被狗咬伤女童200万捐款已全部退完",
+        "onboard_time": 1698381285,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181695,
+        "num": 317390,
+        "word": "男孩碎玻璃卡喉交警急得一路喊话",
+        "onboard_time": 1698394415,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633574,
+        "num": 316547,
+        "word": "私募大佬妻子发文称其要纳二房",
+        "onboard_time": 1698390278,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1612591,
+        "num": 315407,
+        "word": "YSL",
+        "onboard_time": 1698387517,
+        "rank": 11,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 995819,
+        "num": 314944,
+        "word": "女生面试3轮问工资到手1900被气笑",
+        "onboard_time": 1698382121,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957996,
+        "num": 314561,
+        "word": "权志龙李善均被禁止出境",
+        "onboard_time": 1698392316,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647982,
+        "num": 313655,
+        "word": "上海瑞金医院持刀砍人案宣判",
+        "onboard_time": 1698391359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482971,
+        "num": 313091,
+        "word": "研究称每天8千步可降低早死风险",
+        "onboard_time": 1698392678,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 406383,
+        "num": 311977,
+        "word": "花少5首播收视率",
+        "onboard_time": 1698386615,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384296,
+        "num": 311274,
+        "word": "辛巴称李佳琦成平台竞争的牺牲品",
+        "onboard_time": 1698387635,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 337632,
+        "num": 310482,
+        "word": "西瓜爆改张元英",
+        "onboard_time": 1698379544,
+        "rank": 18,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 317747,
+        "num": 310251,
+        "word": "小杨哥徒弟回应带货YSL被网嘲低级",
+        "onboard_time": 1698385058,
+        "rank": 19,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 769323,
+        "num": 309153,
+        "word": "李佳琦招一年经验的舆情公关",
+        "onboard_time": 1698385293,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 308958,
+        "num": 308958,
+        "word": "胡夏 抢票",
+        "onboard_time": 1698394538,
+        "rank": 21,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 262319,
+        "num": 262319,
+        "word": "爸爸将娃举过顶玩耍没接住摔地上",
+        "onboard_time": 1698386375,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257755,
+        "num": 257755,
+        "word": "一根发簪盘出古风发型",
+        "onboard_time": 1698394056,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173017,
+        "num": 249756,
+        "word": "国家医保局辟谣医保费不再划入个人账户",
+        "onboard_time": 1698388177,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246017,
+        "num": 246017,
+        "word": "朋友囤了七八千的餐饮券",
+        "onboard_time": 1698390337,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211890,
+        "num": 211890,
+        "word": "印度警察给蛇做人工呼吸",
+        "onboard_time": 1698389373,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198456,
+        "num": 198456,
+        "word": "文荣奖红毯",
+        "onboard_time": 1698395197,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194109,
+        "num": 194109,
+        "word": "丸子头的三种扎法",
+        "onboard_time": 1698394296,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 193548,
+        "num": 193548,
+        "word": "重庆辟谣明年取消职工医保个人账户",
+        "onboard_time": 1698388716,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257432,
+        "num": 192985,
+        "word": "老师晒女生每天戴一个显眼包发卡",
+        "onboard_time": 1698394955,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190108,
+        "num": 190108,
+        "word": "少爷和我开通官博",
+        "onboard_time": 1698391775,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189008,
+        "num": 189008,
+        "word": "DK对战GAM",
+        "onboard_time": 1698394655,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182111,
+        "num": 182111,
+        "word": "40岁大叔进被窝就身上痒到抓出血",
+        "onboard_time": 1698382241,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171966,
+        "num": 171966,
+        "word": "陈楚生 动物世界",
+        "onboard_time": 1698384937,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166958,
+        "num": 166958,
+        "word": "Taylor Swift重录主打Slut",
+        "onboard_time": 1698391718,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162929,
+        "num": 162929,
+        "word": "为什么很多癌症来临前不痛不痒",
+        "onboard_time": 1698379303,
+        "rank": 36,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 160655,
+        "num": 160655,
+        "word": "王牌对王牌",
+        "onboard_time": 1698395375,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146529,
+        "num": 146529,
+        "word": "水龙吟",
+        "onboard_time": 1698386078,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146154,
+        "num": 146154,
+        "word": "原神",
+        "onboard_time": 1698381885,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "男子缓刑期间跳江救人获准减刑",
+        "onboard_time": 1698395557,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131780,
+        "num": 131780,
+        "word": "贵气公主发型合集",
+        "onboard_time": 1698395255,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 131083,
+        "num": 131083,
+        "word": "美军打击叙利亚东部2处设施",
+        "onboard_time": 1698383917,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127505,
+        "num": 127505,
+        "word": "秦岚 赵昭仪你人还怪好嘞",
+        "onboard_time": 1698382005,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124767,
+        "num": 124767,
+        "word": "权志龙目前疑似没有经纪公司",
+        "onboard_time": 1698390755,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123142,
+        "num": 123142,
+        "word": "两男子当街多次踢倒拾荒老人并殴打",
+        "onboard_time": 1698388896,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 121491,
+        "num": 121491,
+        "word": "男子开车看手机撞翻人下车一看是母亲",
+        "onboard_time": 1698387095,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119420,
+        "num": 119420,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 47,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 110734,
+        "num": 110734,
+        "word": "论整活谁比得过大熊猫",
+        "onboard_time": 1698394477,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 108334,
+        "num": 108334,
+        "word": "护肤品专柜折扣不输线上平台",
+        "onboard_time": 1698392136,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#一次看完中国航天史#"
+    }
+  }
+}

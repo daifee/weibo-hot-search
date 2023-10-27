@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698394873423,
+  "endTime": 1698395657257,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1801521,
+      "num": 1489973,
+      "word": "缅甸",
+      "onboard_time": 1698389556,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1799925,
       "num": 1799925,
       "word": "儿子溺亡16年后爸爸跳河救人牺牲",
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1633574,
+      "num": 322312,
+      "word": "私募大佬妻子发文称其要纳二房",
+      "onboard_time": 1698390278,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1610007,
       "num": 1610007,
       "word": "调休",
@@ -723,14 +739,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1526883,
-      "num": 322312,
-      "word": "私募大佬妻子发文称其要纳二房",
-      "onboard_time": 1698390278,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1517189,
       "num": 1517189,
       "word": "长江大学通报不雅视频事件",
@@ -761,14 +769,6 @@
       "onboard_time": 1698371446,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1489973,
-      "num": 1489973,
-      "word": "缅甸",
-      "onboard_time": 1698389556,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 1464928,
@@ -1404,7 +1404,7 @@
     },
     {
       "raw_hot": 1024114,
-      "num": 292607,
+      "num": 314561,
       "word": "权志龙李善均被禁止出境",
       "onboard_time": 1698392316,
       "rank": 12,
@@ -3835,6 +3835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482971,
+      "num": 313091,
+      "word": "研究称每天8千步可降低早死风险",
+      "onboard_time": 1698392678,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 482832,
       "num": 482832,
       "word": "财阀千金感美甲",
@@ -4921,14 +4929,6 @@
       "onboard_time": 1698041144,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 388505,
-      "num": 276878,
-      "word": "研究称每天8千步可降低早死风险",
-      "onboard_time": 1698392678,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 387559,
@@ -6233,6 +6233,14 @@
       "onboard_time": 1698325356,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308958,
+      "num": 308958,
+      "word": "胡夏 抢票",
+      "onboard_time": 1698394538,
+      "rank": 25,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 308621,
@@ -7595,6 +7603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 257755,
+      "num": 257755,
+      "word": "一根发簪盘出古风发型",
+      "onboard_time": 1698394056,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 257587,
       "num": 163650,
       "word": "出门就是海的大学到底谁在读啊",
@@ -7609,6 +7625,14 @@
       "onboard_time": 1697981193,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257432,
+      "num": 192985,
+      "word": "老师晒女生每天戴一个显眼包发卡",
+      "onboard_time": 1698394955,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257128,
@@ -9187,14 +9211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215944,
-      "num": 215944,
-      "word": "胡夏 抢票",
-      "onboard_time": 1698394538,
-      "rank": 25,
-      "category": "演出,音乐"
-    },
-    {
       "raw_hot": 215834,
       "num": 215834,
       "word": "好怕他以为这是中国的电梯文化",
@@ -9585,14 +9601,6 @@
       "onboard_time": 1698218678,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207614,
-      "num": 207614,
-      "word": "一根发簪盘出古风发型",
-      "onboard_time": 1698394056,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 207611,
@@ -10283,6 +10291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198456,
+      "num": 198456,
+      "word": "文荣奖红毯",
+      "onboard_time": 1698395197,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198405,
       "num": 198405,
       "word": "英雄联盟心之钢出道单曲MV",
@@ -10497,6 +10513,14 @@
       "onboard_time": 1698318692,
       "rank": 20,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 194109,
+      "num": 194109,
+      "word": "丸子头的三种扎法",
+      "onboard_time": 1698394296,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 194072,
@@ -10881,6 +10905,14 @@
       "onboard_time": 1697976634,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189008,
+      "num": 189008,
+      "word": "DK对战GAM",
+      "onboard_time": 1698394655,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 188888,
@@ -11283,6 +11315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181695,
+      "num": 317390,
+      "word": "男孩碎玻璃卡喉交警急得一路喊话",
+      "onboard_time": 1698394415,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181377,
       "num": 181377,
       "word": "陕西发现元稹第二任妻子裴淑墓",
@@ -11401,14 +11441,6 @@
       "onboard_time": 1698390574,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179607,
-      "num": 179607,
-      "word": "丸子头的三种扎法",
-      "onboard_time": 1698394296,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 179483,
@@ -11681,14 +11713,6 @@
       "onboard_time": 1698149620,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174159,
-      "num": 174159,
-      "word": "DK对战GAM",
-      "onboard_time": 1698394655,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 173741,
@@ -12417,6 +12441,14 @@
       "onboard_time": 1698390515,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160655,
+      "num": 160655,
+      "word": "王牌对王牌",
+      "onboard_time": 1698395375,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 160561,
@@ -13195,14 +13227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145126,
-      "num": 145126,
-      "word": "男孩碎玻璃卡喉交警急得一路喊话",
-      "onboard_time": 1698394415,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145067,
       "num": 145067,
       "word": "88岁学霸爷爷把自己活成了一道光",
@@ -13763,6 +13787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136625,
+      "num": 136625,
+      "word": "男子缓刑期间跳江救人获准减刑",
+      "onboard_time": 1698395557,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136525,
       "num": 142948,
       "word": "霜降是秋冬季温差最大时段",
@@ -14057,6 +14089,14 @@
       "onboard_time": 1698302014,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131780,
+      "num": 131780,
+      "word": "贵气公主发型合集",
+      "onboard_time": 1698395255,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 131485,
@@ -14713,6 +14753,14 @@
       "onboard_time": 1698028533,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 119420,
+      "num": 119420,
+      "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+      "onboard_time": 1698395616,
+      "rank": 47,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 119346,
