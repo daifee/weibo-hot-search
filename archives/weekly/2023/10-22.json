@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698428053485,
+  "endTime": 1698430880022,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -17153,6 +17153,14 @@
       "onboard_time": 1697970812,
       "rank": 49,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 87414,
+      "num": 65130,
+      "word": "是枝裕和曝侯孝贤3年前就有症状",
+      "onboard_time": 1698429020,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 87286,
