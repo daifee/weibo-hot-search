@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698376630510,
+  "endTime": 1698377673617,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -3459,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500733,
+      "num": 273711,
+      "word": "一支笔get朴彩英出街双马尾",
+      "onboard_time": 1698376239,
+      "rank": 30,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 500438,
       "num": 500438,
       "word": "花少丝路季连播七天",
@@ -3833,6 +3841,14 @@
       "onboard_time": 1698231647,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456625,
+      "num": 270164,
+      "word": "苏有朋吃生板栗咬动了牙齿也动了",
+      "onboard_time": 1698376902,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 456149,
@@ -4337,6 +4353,14 @@
       "onboard_time": 1698130234,
       "rank": 12,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 416236,
+      "num": 269862,
+      "word": "iPhone15提前降价导致销量下滑",
+      "onboard_time": 1698376841,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 415395,
@@ -5763,14 +5787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315249,
-      "num": 229850,
-      "word": "一支笔get朴彩英出街双马尾",
-      "onboard_time": 1698376239,
-      "rank": 30,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 315093,
       "num": 315093,
       "word": "给迪丽热巴急的栓Q都出来了",
@@ -6097,6 +6113,14 @@
       "onboard_time": 1697988634,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 300128,
+      "num": 265310,
+      "word": "秦海璐 钱花多了只能从嘴上勒",
+      "onboard_time": 1698377324,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 299572,
@@ -7369,6 +7393,14 @@
       "onboard_time": 1698203800,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 253543,
+      "num": 253543,
+      "word": "杨紫舞cp舞到正主面前",
+      "onboard_time": 1698377324,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 253395,
@@ -12371,6 +12403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148979,
+      "num": 148979,
+      "word": "氛围感傻瓜式卷发",
+      "onboard_time": 1698377203,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 148912,
       "num": 148912,
       "word": "5个皮肤健康误区",
@@ -15611,6 +15651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59747,
+      "num": 1153684,
+      "word": "E法护未来",
+      "onboard_time": 1698375462,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58344,
       "num": 167135,
       "word": "05后因脑洞被天猫邀请加入双11",
@@ -15697,14 +15745,6 @@
       "onboard_time": 1698145234,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 51458,
-      "num": 811992,
-      "word": "E法护未来",
-      "onboard_time": 1698375462,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50978,
@@ -16155,6 +16195,9 @@
     },
     {
       "word": "#中国航天又见大红屏#"
+    },
+    {
+      "word": "#一次看完中国航天史#"
     }
   ]
 }

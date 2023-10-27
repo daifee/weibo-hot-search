@@ -1,0 +1,410 @@
+{
+  "runTime": 1698377673617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12149473,
+        "num": 12149473,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2339202,
+        "num": 2339202,
+        "word": "外交部长王毅在华盛顿会见美国务卿布林肯",
+        "onboard_time": 1698372045,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 59747,
+        "num": 1153684,
+        "word": "E法护未来",
+        "onboard_time": 1698375462,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679407,
+        "num": 679407,
+        "word": "花16万买了辆二手奔驰S",
+        "onboard_time": 1698366262,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324358,
+        "num": 324358,
+        "word": "中美双方简短会见记者",
+        "onboard_time": 1698372409,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 336104,
+        "num": 318689,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1698363092,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 280875,
+        "num": 280875,
+        "word": "毕业生穿校服回母校悄悄看老师",
+        "onboard_time": 1698373483,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254899,
+        "num": 280411,
+        "word": "2023第300天",
+        "onboard_time": 1698367790,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231236,
+        "num": 279838,
+        "word": "民警10分钟帮村民抢收2吨玉米",
+        "onboard_time": 1698371751,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218826,
+        "num": 278944,
+        "word": "直播间卖的玉到底是真是假",
+        "onboard_time": 1698331718,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1371266,
+        "num": 277780,
+        "word": "医保",
+        "onboard_time": 1698372168,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333847,
+        "num": 277314,
+        "word": "张雪峰公司2月放18天假只上7天班",
+        "onboard_time": 1698371446,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811252,
+        "num": 276468,
+        "word": "权志龙回应涉嫌吸毒",
+        "onboard_time": 1698361766,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791553,
+        "num": 275454,
+        "word": "林心如体重只有92斤",
+        "onboard_time": 1698367264,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577302,
+        "num": 274854,
+        "word": "梅西中国行成都站取消",
+        "onboard_time": 1698374743,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543703,
+        "num": 274345,
+        "word": "杨紫聊左耳被苏有朋二次伤害",
+        "onboard_time": 1698366056,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500733,
+        "num": 273711,
+        "word": "一支笔get朴彩英出街双马尾",
+        "onboard_time": 1698376239,
+        "rank": 16,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 474713,
+        "num": 272803,
+        "word": "韩媒曝除权志龙外还有9人涉嫌吸毒",
+        "onboard_time": 1698361646,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471241,
+        "num": 272089,
+        "word": "张云龙快碎了",
+        "onboard_time": 1698362668,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454722,
+        "num": 271078,
+        "word": "30岁女子1天5杯咖啡喝成脆骨人",
+        "onboard_time": 1698366410,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456625,
+        "num": 270164,
+        "word": "苏有朋吃生板栗咬动了牙齿也动了",
+        "onboard_time": 1698376902,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416236,
+        "num": 269862,
+        "word": "iPhone15提前降价导致销量下滑",
+        "onboard_time": 1698376841,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 399629,
+        "num": 269000,
+        "word": "小哪吒暴躁人设崩塌",
+        "onboard_time": 1698369841,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367097,
+        "num": 268077,
+        "word": "看完李佳琦直播京东采销再降1500",
+        "onboard_time": 1698364050,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 340942,
+        "num": 267148,
+        "word": "大学生在寝室煮面被宿管发现",
+        "onboard_time": 1698373722,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 309350,
+        "num": 266083,
+        "word": "合工大",
+        "onboard_time": 1698336152,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300128,
+        "num": 265310,
+        "word": "秦海璐 钱花多了只能从嘴上勒",
+        "onboard_time": 1698377324,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287120,
+        "num": 264835,
+        "word": "警方通报打死柯基男子被5人滋扰",
+        "onboard_time": 1698366733,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264502,
+        "num": 264502,
+        "word": "女子带孩子拍胸片发现是小孩在操作",
+        "onboard_time": 1698335735,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263478,
+        "num": 263478,
+        "word": "警方通报合肥工业大学一学生轻生",
+        "onboard_time": 1698361583,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258804,
+        "num": 258804,
+        "word": "泰山的小猫咪被摸得不耐烦",
+        "onboard_time": 1698372827,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 253543,
+        "num": 253543,
+        "word": "杨紫舞cp舞到正主面前",
+        "onboard_time": 1698377324,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236803,
+        "num": 236803,
+        "word": "涉嫌跟踪骚扰金泰亨的女性被捕",
+        "onboard_time": 1698375942,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222698,
+        "num": 222698,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219434,
+        "num": 219434,
+        "word": "陪主人捡破烂的萨摩耶",
+        "onboard_time": 1698374021,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 207765,
+        "num": 207765,
+        "word": "冥王星水瓶座",
+        "onboard_time": 1698372587,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203305,
+        "num": 203305,
+        "word": "最难吃的碳水",
+        "onboard_time": 1698370437,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197684,
+        "num": 197684,
+        "word": "90后消防火场救人智力受损回到3岁",
+        "onboard_time": 1698376301,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194241,
+        "num": 194241,
+        "word": "利拉德首秀39分",
+        "onboard_time": 1698375281,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187688,
+        "num": 187688,
+        "word": "上着班突然被告知家里要拆迁了",
+        "onboard_time": 1698368488,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174711,
+        "num": 174711,
+        "word": "懒人30秒出门鸡毛头",
+        "onboard_time": 1698372767,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 167589,
+        "num": 167589,
+        "word": "双泡泡辫教程",
+        "onboard_time": 1698376121,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 166722,
+        "num": 166722,
+        "word": "赵丽颖黑粉被公告",
+        "onboard_time": 1698373004,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161272,
+        "num": 161272,
+        "word": "THE9演唱会",
+        "onboard_time": 1698370556,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151013,
+        "num": 151013,
+        "word": "今年火的都是配角",
+        "onboard_time": 1698371508,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148979,
+        "num": 148979,
+        "word": "氛围感傻瓜式卷发",
+        "onboard_time": 1698377203,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145667,
+        "num": 145667,
+        "word": "封神第一部西班牙定档",
+        "onboard_time": 1698376121,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143464,
+        "num": 143464,
+        "word": "这些明星的出圈神图都是她拍的",
+        "onboard_time": 1698375403,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141549,
+        "num": 141549,
+        "word": "西安机场",
+        "onboard_time": 1698363329,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98314,
+        "num": 138029,
+        "word": "小米14Pro纯钛",
+        "onboard_time": 1698326437,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#一次看完中国航天史#"
+    }
+  }
+}

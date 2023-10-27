@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698376630510,
+  "endTime": 1698377673617,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -259,12 +259,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 500733,
+      "num": 273711,
+      "word": "一支笔get朴彩英出街双马尾",
+      "onboard_time": 1698376239,
+      "rank": 30,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 498879,
       "num": 498879,
       "word": "上着班突然被告知家里要拆迁了",
       "onboard_time": 1698368488,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 456625,
+      "num": 270164,
+      "word": "苏有朋吃生板栗咬动了牙齿也动了",
+      "onboard_time": 1698376902,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 442002,
@@ -313,6 +329,14 @@
       "onboard_time": 1698333457,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416236,
+      "num": 269862,
+      "word": "iPhone15提前降价导致销量下滑",
+      "onboard_time": 1698376841,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 407443,
@@ -435,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315249,
-      "num": 229850,
-      "word": "一支笔get朴彩英出街双马尾",
-      "onboard_time": 1698376239,
-      "rank": 30,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 313107,
       "num": 313107,
       "word": "泰山的小猫咪被摸得不耐烦",
@@ -465,6 +481,14 @@
       "onboard_time": 1698330998,
       "rank": 8,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 300128,
+      "num": 265310,
+      "word": "秦海璐 钱花多了只能从嘴上勒",
+      "onboard_time": 1698377324,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 297225,
@@ -537,6 +561,14 @@
       "onboard_time": 1698364473,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253543,
+      "num": 253543,
+      "word": "杨紫舞cp舞到正主面前",
+      "onboard_time": 1698377324,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 251146,
@@ -809,6 +841,14 @@
       "onboard_time": 1698375403,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148979,
+      "num": 148979,
+      "word": "氛围感傻瓜式卷发",
+      "onboard_time": 1698377203,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 146189,
@@ -1115,8 +1155,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 51458,
-      "num": 811992,
+      "raw_hot": 59747,
+      "num": 1153684,
       "word": "E法护未来",
       "onboard_time": 1698375462,
       "rank": 2,
@@ -1169,6 +1209,9 @@
     },
     {
       "word": "#中国航天又见大红屏#"
+    },
+    {
+      "word": "#一次看完中国航天史#"
     }
   ]
 }
