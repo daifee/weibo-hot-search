@@ -1,0 +1,410 @@
+{
+  "runTime": 1698433934906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 260101,
+        "num": 260101,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 337667,
+        "num": 211339,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 13373,
+        "num": 133817,
+        "word": "我国将建立国家不可移动文物资源总目录",
+        "onboard_time": 1698411278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411986,
+        "num": 130447,
+        "word": "深圳欢乐谷过山车追尾8人受伤",
+        "onboard_time": 1698421181,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111668,
+        "num": 111668,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88603,
+        "num": 88603,
+        "word": "13岁哥哥见新生妹妹紧张到无从下手",
+        "onboard_time": 1698423932,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75905,
+        "num": 88528,
+        "word": "为什么拖完地瓷砖有股腥味",
+        "onboard_time": 1698420161,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 51278,
+        "num": 88310,
+        "word": "双十一是不是卖不动了",
+        "onboard_time": 1698401746,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49604,
+        "num": 88194,
+        "word": "导演马秉煜因病去世",
+        "onboard_time": 1698406781,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45853,
+        "num": 87929,
+        "word": "夺得世界冠军的中国面包原料是西藏青稞",
+        "onboard_time": 1698421362,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260352,
+        "num": 87663,
+        "word": "中小学生连厕所时间都快没了",
+        "onboard_time": 1698421060,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191518,
+        "num": 87560,
+        "word": "大虞海棠",
+        "onboard_time": 1698421898,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190174,
+        "num": 87344,
+        "word": "手机电量1%女子迷路紧急求助110",
+        "onboard_time": 1698412900,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184360,
+        "num": 87181,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 13,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 86841,
+        "word": "日本年轻人开始流行周末婚",
+        "onboard_time": 1698417942,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 113313,
+        "num": 86823,
+        "word": "虞书欣动作做早的反应",
+        "onboard_time": 1698421002,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92287,
+        "num": 86536,
+        "word": "深圳欢乐谷通报",
+        "onboard_time": 1698414763,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86444,
+        "num": 86444,
+        "word": "许佳琪 假发",
+        "onboard_time": 1698413923,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79745,
+        "num": 79745,
+        "word": "我是歌手 重启",
+        "onboard_time": 1698410259,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74673,
+        "num": 74673,
+        "word": "THE9女团配置",
+        "onboard_time": 1698411341,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60221,
+        "num": 60221,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 20,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 59477,
+        "num": 59477,
+        "word": "虞书欣斯芬克斯直拍",
+        "onboard_time": 1698409540,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56154,
+        "num": 56154,
+        "word": "吴尊友讣告",
+        "onboard_time": 1698402045,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52701,
+        "num": 52701,
+        "word": "Lion",
+        "onboard_time": 1698413438,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52263,
+        "num": 52263,
+        "word": "THE9演唱会",
+        "onboard_time": 1698415182,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51404,
+        "num": 51404,
+        "word": "暨南大学81名新生放弃入学资格",
+        "onboard_time": 1698413438,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49224,
+        "num": 49224,
+        "word": "村支书被曝强迫留守妇女发生关系",
+        "onboard_time": 1698407439,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42561,
+        "num": 42561,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 41310,
+        "num": 41310,
+        "word": "生理性喜欢",
+        "onboard_time": 1698406067,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37553,
+        "num": 37553,
+        "word": "喻言演唱会高音",
+        "onboard_time": 1698411219,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36579,
+        "num": 36579,
+        "word": "你注意过有人耳朵前方的小洞吗",
+        "onboard_time": 1698414643,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35577,
+        "num": 35577,
+        "word": "是枝裕和曝侯孝贤3年前就有症状",
+        "onboard_time": 1698429020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35189,
+        "num": 35189,
+        "word": "地铁安检让试喝一口乘客索赔4.8万元",
+        "onboard_time": 1698400305,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 34507,
+        "num": 34507,
+        "word": "法媒惊讶中国队赢了世界面包大赛",
+        "onboard_time": 1698412900,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34468,
+        "num": 34468,
+        "word": "薛之谦 清远",
+        "onboard_time": 1698419503,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34341,
+        "num": 34341,
+        "word": "吴尊友与癌症搏斗了两年",
+        "onboard_time": 1698404610,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33171,
+        "num": 33171,
+        "word": "中级会计成绩",
+        "onboard_time": 1698418362,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31675,
+        "num": 31675,
+        "word": "安崎麦怎么回事",
+        "onboard_time": 1698411998,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31437,
+        "num": 31437,
+        "word": "雪域雄鹰",
+        "onboard_time": 1698421721,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30993,
+        "num": 30993,
+        "word": "处女座真的很容易内耗",
+        "onboard_time": 1698409960,
+        "rank": 39,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 30864,
+        "num": 30864,
+        "word": "孩子休克父母急救做错奶奶冷静救回",
+        "onboard_time": 1698417641,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28104,
+        "num": 28104,
+        "word": "谢可寅叫姐姐舞台气场",
+        "onboard_time": 1698413801,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27826,
+        "num": 27826,
+        "word": "对刘雨昕的lion没有抵抗力",
+        "onboard_time": 1698411636,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25767,
+        "num": 25767,
+        "word": "名侦探柯南最新OP",
+        "onboard_time": 1698420763,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 24699,
+        "num": 24699,
+        "word": "花少有自己的拿放姐",
+        "onboard_time": 1698406244,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23344,
+        "num": 23344,
+        "word": "张碧晨 南昌",
+        "onboard_time": 1698417582,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23178,
+        "num": 23178,
+        "word": "胰腺癌是最内向的癌",
+        "onboard_time": 1698408279,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22609,
+        "num": 22609,
+        "word": "吴尊友因胰腺癌去世",
+        "onboard_time": 1698398094,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21583,
+        "num": 21583,
+        "word": "星际穿越的拍摄与后期呈现",
+        "onboard_time": 1698421658,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21565,
+        "num": 21565,
+        "word": "Promise",
+        "onboard_time": 1698416745,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}
