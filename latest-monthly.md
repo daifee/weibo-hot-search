@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 17:34:09
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 18:18:09
 </p>
 </blockquote>
 <p>
@@ -453,6 +453,12 @@ G2战胜WBG（热度：3782780）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%8F%90%E9%86%92%E7%A7%91%E5%AD%A6%E6%88%B4%E5%8F%A3%E7%BD%A9%23" target="weibo">
+吴尊友最后一条微博提醒科学戴口罩（热度：3130645）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9F%A9%E5%9B%BDL%E5%A7%93%E9%A1%B6%E7%BA%A7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%23" target="weibo">
 曝韩国L姓顶级演员涉嫌吸毒（热度：3074167）
 </a>
@@ -587,6 +593,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E5%90%B4%E7%A3%8A%E5%80%9F%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8B%92%E7%BB%9D%E5%90%88%E5%BD%B1%23" target="weibo">
 网友曝吴磊借自行车拒绝合影（热度：2867632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E6%9B%BE%E5%9B%9E%E5%BA%94%E4%B8%89%E5%B9%B4%E7%99%BD%E5%A4%B4%23" target="weibo">
+吴尊友曾回应三年白头（热度：2861095）
 </a>
 </li>
 
@@ -1559,6 +1571,12 @@ YSL（热度：2111134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E6%BE%B3%E9%97%A8%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23" target="weibo">
 丞磊卢昱晓澳门芭莎大片（热度：2082256）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%23" target="weibo">
+胰腺癌（热度：2081442）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%AE%B6%E9%A1%BA%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
 庄家顺抢救无效死亡（热度：994909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%89%AA%E8%BE%91%E5%B7%B2%E5%AE%8C%E6%88%90%23" target="weibo">
-乌尔善说封神第二部剪辑已完成（热度：994904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E7%BD%91%E7%BB%9CCEO%E6%9B%BE%E7%A7%B0%E6%8C%A37%E4%B8%AA%E7%82%B9%E5%87%80%E5%88%A9%E6%B6%A6%E5%B0%B1%E5%A4%9F%23" target="weibo">
-三只羊网络CEO曾称挣7个点净利润就够（热度：994268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%98%AD%E6%97%BBRM%E4%B8%8B%E8%BD%A6%23" target="weibo">
-全昭旻RM下车（热度：993419）
 </a>
 </li>
 

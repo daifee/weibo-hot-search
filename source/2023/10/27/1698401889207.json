@@ -1,0 +1,410 @@
+{
+  "runTime": 1698401889207,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4496063,
+        "num": 4496063,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 9509526,
+        "num": 4423808,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20221,
+        "num": 4356970,
+        "word": "亚残运会有哪些硬核科技",
+        "onboard_time": 1698375162,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037530,
+        "num": 4221933,
+        "word": "缅甸",
+        "onboard_time": 1698389556,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 536303,
+        "num": 4187324,
+        "word": "男子缓刑期间跳江救人获准减刑",
+        "onboard_time": 1698395557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616003,
+        "num": 4090436,
+        "word": "中方高度关注缅甸冲突",
+        "onboard_time": 1698399411,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 412629,
+        "num": 3986639,
+        "word": "在全国捐资助学的朱恩馀博士走了",
+        "onboard_time": 1698400725,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644262,
+        "num": 3830783,
+        "word": "外交部呼吁缅甸有关方面尽快停火止战",
+        "onboard_time": 1698395855,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 370257,
+        "num": 3781559,
+        "word": "苏炳添世界排名消失",
+        "onboard_time": 1698379544,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300066,
+        "num": 3709715,
+        "word": "6旬父亲烤地瓜20年供儿子硕士毕业",
+        "onboard_time": 1698397369,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3634779,
+        "num": 3634779,
+        "word": "吴尊友因胰腺癌去世",
+        "onboard_time": 1698398094,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3130645,
+        "num": 3130645,
+        "word": "吴尊友最后一条微博提醒科学戴口罩",
+        "onboard_time": 1698400129,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2861095,
+        "num": 2861095,
+        "word": "吴尊友曾回应三年白头",
+        "onboard_time": 1698399768,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2081442,
+        "num": 2081442,
+        "word": "胰腺癌",
+        "onboard_time": 1698399226,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549534,
+        "num": 1549534,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 14,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 580886,
+        "num": 580886,
+        "word": "印度军队向巴基斯坦开火",
+        "onboard_time": 1698378701,
+        "rank": 15,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 542725,
+        "num": 542725,
+        "word": "老师晒女生每天戴一个显眼包发卡",
+        "onboard_time": 1698394955,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515363,
+        "num": 515363,
+        "word": "花少5首播收视率",
+        "onboard_time": 1698386615,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476048,
+        "num": 476048,
+        "word": "LNG翻盘KT",
+        "onboard_time": 1698400129,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 427270,
+        "num": 427270,
+        "word": "权志龙李善均被禁止出境",
+        "onboard_time": 1698392316,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496328,
+        "num": 417984,
+        "word": "李佳琦招一年经验的舆情公关",
+        "onboard_time": 1698385293,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 378244,
+        "num": 378244,
+        "word": "私募大佬妻子发文称其要纳二房",
+        "onboard_time": 1698390278,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 362169,
+        "num": 362169,
+        "word": "女生面试3轮问工资到手1900被气笑",
+        "onboard_time": 1698382121,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357532,
+        "num": 357532,
+        "word": "地铁安检让试喝一口乘客索赔4.8万元",
+        "onboard_time": 1698400305,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 345567,
+        "num": 345567,
+        "word": "王一博新晋金鸡奖提名演员",
+        "onboard_time": 1698401866,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345008,
+        "num": 345008,
+        "word": "拜登下令对叙利亚境内发动空袭",
+        "onboard_time": 1698379064,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110653,
+        "num": 338320,
+        "word": "被现在的厨房惊到了",
+        "onboard_time": 1698398751,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 336370,
+        "num": 336370,
+        "word": "柳智敏说其他kpop组合经常吵架",
+        "onboard_time": 1698397845,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332835,
+        "num": 332835,
+        "word": "维和防暴队首曝预告",
+        "onboard_time": 1698397246,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316615,
+        "num": 316615,
+        "word": "高福评价吴尊友是真正的流行病学家",
+        "onboard_time": 1698400547,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305966,
+        "num": 305966,
+        "word": "肾脏友好型喝水法",
+        "onboard_time": 1698401505,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 271005,
+        "num": 271005,
+        "word": "缅北多地爆发激烈战事",
+        "onboard_time": 1698386916,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 259218,
+        "num": 259218,
+        "word": "Gala 稳健",
+        "onboard_time": 1698400305,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249105,
+        "num": 249105,
+        "word": "EXO团站 爱彼此更爱自己",
+        "onboard_time": 1698399170,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245656,
+        "num": 245656,
+        "word": "奶茶店有必要24小时营业吗",
+        "onboard_time": 1698396096,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244063,
+        "num": 244063,
+        "word": "苏有朋去披荆斩棘是谢娜邀请的",
+        "onboard_time": 1698398572,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225405,
+        "num": 225405,
+        "word": "LNG 双C",
+        "onboard_time": 1698399886,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196364,
+        "num": 196364,
+        "word": "徐进",
+        "onboard_time": 1698397971,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190829,
+        "num": 190829,
+        "word": "有些营养补剂吃多了反有害",
+        "onboard_time": 1698400906,
+        "rank": 38,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 188568,
+        "num": 188568,
+        "word": "爸爸将娃举过顶玩耍没接住摔地上",
+        "onboard_time": 1698386375,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184523,
+        "num": 184523,
+        "word": "TALK SAXY",
+        "onboard_time": 1698401443,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183407,
+        "num": 183407,
+        "word": "天官赐福第二季名场面",
+        "onboard_time": 1698398988,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 181064,
+        "num": 181064,
+        "word": "以色列",
+        "onboard_time": 1698396517,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173881,
+        "num": 173881,
+        "word": "美拉德肤色",
+        "onboard_time": 1698401443,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172854,
+        "num": 172854,
+        "word": "双十一是不是卖不动了",
+        "onboard_time": 1698401746,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177619,
+        "num": 172137,
+        "word": "漫长的季节网飞版预告片",
+        "onboard_time": 1698398511,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174155,
+        "num": 165699,
+        "word": "上海瑞金医院持刀砍人案宣判",
+        "onboard_time": 1698391359,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156521,
+        "num": 156521,
+        "word": "YSL",
+        "onboard_time": 1698387517,
+        "rank": 47,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 153968,
+        "num": 153968,
+        "word": "RIIZE出道前组合备用名",
+        "onboard_time": 1698399468,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150678,
+        "num": 150678,
+        "word": "以色列要求俄罗斯驱逐哈马斯",
+        "onboard_time": 1698386254,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂神舟与天舟有何不同#"
+    }
+  }
+}
