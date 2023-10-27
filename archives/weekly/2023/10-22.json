@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698401889207,
+  "endTime": 1698402861891,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -81,6 +81,14 @@
       "onboard_time": 1698205236,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4934227,
+      "num": 547606,
+      "word": "吴尊友讣告",
+      "onboard_time": 1698402045,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4462723,
@@ -737,6 +745,14 @@
       "onboard_time": 1698284673,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1603597,
+      "num": 365365,
+      "word": "吴尊友去世不举行告别仪式",
+      "onboard_time": 1698401984,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1583324,
@@ -2611,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 668904,
+      "num": 531022,
+      "word": "LNG翻盘KT",
+      "onboard_time": 1698400129,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 668675,
       "num": 668675,
       "word": "刘涛给秦海璐的花少建议",
@@ -2995,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598102,
+      "num": 4187324,
+      "word": "男子缓刑期间跳江救人获准减刑",
+      "onboard_time": 1698395557,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596096,
       "num": 464108,
       "word": "黄渤孙红雷黄磊张艺兴王迅最新合照",
@@ -3187,14 +3219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 569961,
-      "num": 4187324,
-      "word": "男子缓刑期间跳江救人获准减刑",
-      "onboard_time": 1698395557,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568208,
       "num": 568208,
       "word": "杨紫乔欣重聚综艺",
@@ -3345,6 +3369,14 @@
       "onboard_time": 1698046126,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 548204,
+      "num": 305966,
+      "word": "肾脏友好型喝水法",
+      "onboard_time": 1698401505,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 547889,
@@ -3675,6 +3707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506812,
+      "num": 506812,
+      "word": "地铁安检让试喝一口乘客索赔4.8万元",
+      "onboard_time": 1698400305,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 506754,
       "num": 449657,
       "word": "乌尔善 封神是群像戏",
@@ -3969,14 +4009,6 @@
       "onboard_time": 1698299135,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 476048,
-      "num": 476048,
-      "word": "LNG翻盘KT",
-      "onboard_time": 1698400129,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 475586,
@@ -5131,6 +5163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 383579,
+      "num": 345567,
+      "word": "王一博新晋金鸡奖提名演员",
+      "onboard_time": 1698401866,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 382459,
       "num": 382459,
       "word": "秦岚拍的辛芷蕾",
@@ -5507,14 +5547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 357532,
-      "num": 357532,
-      "word": "地铁安检让试喝一口乘客索赔4.8万元",
-      "onboard_time": 1698400305,
-      "rank": 23,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 357382,
       "num": 337045,
       "word": "双十一笨人现状",
@@ -5747,14 +5779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345567,
-      "num": 345567,
-      "word": "王一博新晋金鸡奖提名演员",
-      "onboard_time": 1698401866,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 344799,
       "num": 248783,
       "word": "容易诱发肾结石的不良饮食",
@@ -5787,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341008,
+      "num": 341008,
+      "word": "双十一是不是卖不动了",
+      "onboard_time": 1698401746,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 340989,
       "num": 340989,
       "word": "林柏叡居然有个6岁的女儿",
@@ -5801,6 +5833,14 @@
       "onboard_time": 1698278015,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340283,
+      "num": 340283,
+      "word": "流浪地球3发布会",
+      "onboard_time": 1698402166,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 339723,
@@ -6081,6 +6121,14 @@
       "onboard_time": 1698296317,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 323378,
+      "num": 302893,
+      "word": "LNG 双C",
+      "onboard_time": 1698399886,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 322992,
@@ -6451,14 +6499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305966,
-      "num": 305966,
-      "word": "肾脏友好型喝水法",
-      "onboard_time": 1698401505,
-      "rank": 30,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 305849,
       "num": 260675,
       "word": "佛山电翰辟谣网传一天挣500万",
@@ -6547,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303358,
+      "num": 3709715,
+      "word": "6旬父亲烤地瓜20年供儿子硕士毕业",
+      "onboard_time": 1698397369,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303311,
       "num": 303311,
       "word": "火星情报局",
@@ -6633,14 +6681,6 @@
       "onboard_time": 1698390337,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 300066,
-      "num": 3709715,
-      "word": "6旬父亲烤地瓜20年供儿子硕士毕业",
-      "onboard_time": 1698397369,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299572,
@@ -7451,6 +7491,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 268776,
+      "num": 268776,
+      "word": "彩棠遮瑕",
+      "onboard_time": 1698402166,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 268358,
       "num": 268358,
       "word": "鳄鱼小河",
@@ -7889,6 +7937,14 @@
       "onboard_time": 1697971052,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 254873,
+      "num": 254873,
+      "word": "胰腺癌早期有哪些症状",
+      "onboard_time": 1698402405,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254660,
@@ -9019,14 +9075,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 225405,
-      "num": 225405,
-      "word": "LNG 双C",
-      "onboard_time": 1698399886,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 225163,
       "num": 268607,
       "word": "被白象的操作暖到了",
@@ -9683,6 +9731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210265,
+      "num": 210265,
+      "word": "王栎鑫演技炸裂时刻",
+      "onboard_time": 1698402105,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210209,
       "num": 210209,
       "word": "美妆博主 膏状口红",
@@ -10329,6 +10385,14 @@
       "onboard_time": 1698133594,
       "rank": 26,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 200880,
+      "num": 200880,
+      "word": "美拉德肤色",
+      "onboard_time": 1698401443,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 200580,
@@ -11411,6 +11475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184148,
+      "num": 386542,
+      "word": "胡明耀夺金后求婚",
+      "onboard_time": 1698402587,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184110,
       "num": 184110,
       "word": "善意真的会从四面八方涌来",
@@ -11987,14 +12059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173881,
-      "num": 173881,
-      "word": "美拉德肤色",
-      "onboard_time": 1698401443,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 173741,
       "num": 173741,
       "word": "库里27分",
@@ -12027,6 +12091,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 173595,
+      "num": 173595,
+      "word": "为什么买大闸蟹要用蟹卡",
+      "onboard_time": 1698402769,
+      "rank": 45,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 173449,
       "num": 108220,
       "word": "父亲要求月薪六千女儿月付4500元赡养费",
@@ -12057,14 +12129,6 @@
       "onboard_time": 1698060042,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172854,
-      "num": 172854,
-      "word": "双十一是不是卖不动了",
-      "onboard_time": 1698401746,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 172698,
@@ -13081,6 +13145,14 @@
       "onboard_time": 1698110380,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154216,
+      "num": 154216,
+      "word": "KT对战LNG",
+      "onboard_time": 1698399768,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 154186,

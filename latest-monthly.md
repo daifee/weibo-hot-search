@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 18:18:09
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 18:34:21
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 樊振东3比4王楚钦（热度：5080250）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E8%AE%A3%E5%91%8A%23" target="weibo">
+吴尊友讣告（热度：4934227）
 </a>
 </li>
 
@@ -2993,6 +2999,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%AB%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A9%AC%E9%BE%99%E4%BA%89%E5%86%A0%23" target="weibo">
 兰州站王楚钦马龙争冠（热度：1604990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%8E%BB%E4%B8%96%E4%B8%8D%E4%B8%BE%E8%A1%8C%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%23" target="weibo">
+吴尊友去世不举行告别仪式（热度：1603597）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E5%A5%BD%E5%A4%9A%E7%89%A9%E6%96%99%23" target="weibo">
 白敬亭工作室发了好多物料（热度：995352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%88%86%E6%96%99%E5%8D%9A%E4%B8%BB%E9%87%91%E5%8B%87%E6%B5%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
-韩国爆料博主金勇浩去世（热度：995000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%AE%B6%E9%A1%BA%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
-庄家顺抢救无效死亡（热度：994909）
 </a>
 </li>
 
