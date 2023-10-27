@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 09:31:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 10:04:36
 </p>
 </blockquote>
 <p>
@@ -491,6 +491,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
 男子广州地铁猥亵女子被行拘（热度：2987972）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%B8%8E%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B7%B2%E5%90%88%E8%B5%84%E5%BC%80%E5%85%AC%E5%8F%B8%23" target="weibo">
+疯狂小杨哥与李佳琦已合资开公司（热度：2985420）
 </a>
 </li>
 
@@ -1181,12 +1187,6 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
 男子误喝防冻液血液成胶冻状离世（热度：2234669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%B8%8E%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B7%B2%E5%90%88%E8%B5%84%E5%BC%80%E5%85%AC%E5%8F%B8%23" target="weibo">
-疯狂小杨哥与李佳琦已合资开公司（热度：2232400）
 </a>
 </li>
 
