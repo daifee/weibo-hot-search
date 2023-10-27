@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 23:17:27
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 23:34:45
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ YG回应权志龙涉嫌吸毒（热度：4462723）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%23" target="weibo">
+过山车追尾（热度：4440020）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%80%9D%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%23" target="weibo">
 李思思从央视离职（热度：4416722）
 </a>
@@ -303,6 +309,12 @@ YG回应权志龙涉嫌吸毒（热度：4462723）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%8F%91%E7%94%9F%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+医院回应深圳发生过山车追尾事故（热度：4149651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E8%87%AA%E6%9B%9D%E5%B8%A6%E8%B4%A77%E4%B8%AA%E6%9C%88%E6%8C%A33500%E4%B8%87%23" target="weibo">
 鹿哈自曝带货7个月挣3500万（热度：4134489）
 </a>
@@ -323,12 +335,6 @@ YG回应权志龙涉嫌吸毒（热度：4462723）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AAvs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23" target="weibo">
 王艺迪vs早田希娜（热度：4008759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%23" target="weibo">
-过山车追尾（热度：3999229）
 </a>
 </li>
 
@@ -383,6 +389,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%97%B6%E9%9A%9443%E5%A4%A9%E5%86%8D%E6%AC%A1%E5%B8%A6%E8%B4%A7%E8%8A%B1%E8%A5%BF%E5%AD%90%23" target="weibo">
 李佳琦直播间时隔43天再次带货花西子（热度：3536467）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E5%8F%91%E7%94%9F%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+官方回应深圳欢乐谷发生过山车追尾事故（热度：3526522）
 </a>
 </li>
 
@@ -5271,6 +5283,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
+日本年轻人开始流行周末婚（热度：1112766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23" target="weibo">
 网传一中学运动会表演刺杀安倍（热度：1112531）
 </a>
@@ -5993,24 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%BA%E7%94%B7%E5%8F%8B%E5%A2%9E%E8%82%A569%E6%96%A4%E5%90%8E%E8%A2%AB%E6%8A%9B%E5%BC%83%23" target="weibo">
 95后女模特为男友增肥69斤后被抛弃（热度：1010811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E5%82%BB%E7%9C%BC%E4%BA%86%23" target="weibo">
-姚明傻眼了（热度：1009896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E8%AF%B4%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%87%B3%E4%BB%8A%E6%B2%A1%E8%A1%A8%E6%80%81%E5%BE%88%E5%BF%83%E7%97%9B%23" target="weibo">
-女童母亲说狗主人至今没表态很心痛（热度：1009640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%84%87%E5%92%B2%E8%89%AF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
-宫脇咲良发文道歉（热度：1009413）
 </a>
 </li>
 

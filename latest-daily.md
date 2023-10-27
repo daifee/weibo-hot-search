@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/27 00:21:52 ~ 2023/10/27 23:17:27
+本榜单时间：2023/10/27 00:21:52 ~ 2023/10/27 23:34:45
 </p>
 </blockquote>
 <p>
@@ -58,13 +58,25 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%23" target="weibo">
-过山车追尾（热度：3999229）
+过山车追尾（热度：4440020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%8F%91%E7%94%9F%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+医院回应深圳发生过山车追尾事故（热度：4149651）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%86%9B%E9%98%9F%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%BC%80%E7%81%AB%23" target="weibo">
 印度军队向巴基斯坦开火（热度：3613228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E5%8F%91%E7%94%9F%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+官方回应深圳欢乐谷发生过山车追尾事故（热度：3526522）
 </a>
 </li>
 
@@ -315,6 +327,12 @@ THE9合体再跳YESOK（热度：1276398）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
+日本年轻人开始流行周末婚（热度：1112766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%91%BC%E5%90%81%E7%BC%85%E7%94%B8%E6%9C%89%E5%85%B3%E6%96%B9%E9%9D%A2%E5%B0%BD%E5%BF%AB%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98%23" target="weibo">
 外交部呼吁缅甸有关方面尽快停火止战（热度：1098886）
 </a>
@@ -389,12 +407,6 @@ THE9演唱会（热度：879023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23THE9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%A7%80%23" target="weibo">
 THE9演唱会开场秀（热度：826278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%91%A8%E6%9C%AB%E5%A9%9A%23" target="weibo">
-日本年轻人开始流行周末婚（热度：818034）
 </a>
 </li>
 
@@ -525,6 +537,12 @@ LNG翻盘KT（热度：668904）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%A7%E4%BC%9A%E8%AE%A1%E6%88%90%E7%BB%A9%23" target="weibo">
+中级会计成绩（热度：600389）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BC%93%E5%88%91%E6%9C%9F%E9%97%B4%E8%B7%B3%E6%B1%9F%E6%95%91%E4%BA%BA%E8%8E%B7%E5%87%86%E5%87%8F%E5%88%91%23" target="weibo">
 男子缓刑期间跳江救人获准减刑（热度：598102）
 </a>
@@ -533,12 +551,6 @@ LNG翻盘KT（热度：668904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%23" target="weibo">
 中国人寿（热度：587917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%8F%91%E7%94%9F%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%23" target="weibo">
-医院回应深圳发生过山车追尾事故（热度：585575）
 </a>
 </li>
 
@@ -597,8 +609,8 @@ LNG翻盘KT（热度：668904）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%A7%E4%BC%9A%E8%AE%A1%E6%88%90%E7%BB%A9%23" target="weibo">
-中级会计成绩（热度：511624）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23" target="weibo">
+双十一是不是卖不动了（热度：508740）
 </a>
 </li>
 
@@ -635,12 +647,6 @@ LNG翻盘KT（热度：668904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%B3%A8%E6%84%8F%E8%BF%87%E6%9C%89%E4%BA%BA%E8%80%B3%E6%9C%B5%E5%89%8D%E6%96%B9%E7%9A%84%E5%B0%8F%E6%B4%9E%E5%90%97%23" target="weibo">
 你注意过有人耳朵前方的小洞吗（热度：482381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23" target="weibo">
-双十一是不是卖不动了（热度：473112）
 </a>
 </li>
 
@@ -927,6 +933,12 @@ Promise（热度：358520）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%B8%85%E8%BF%9C%23" target="weibo">
+薛之谦 清远（热度：330975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8B%BF%E6%94%BE%E5%A7%90%23" target="weibo">
 花少有自己的拿放姐（热度：330559）
 </a>
@@ -1127,6 +1139,12 @@ iPhone中国销量降10%华为增37%（热度：295193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%84%E5%A5%B3%E5%BA%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E5%AE%B9%E6%98%93%E5%86%85%E8%80%97%23" target="weibo">
 处女座真的很容易内耗（热度：280402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%96%E5%AE%8C%E5%9C%B0%E7%93%B7%E7%A0%96%E6%9C%89%E8%82%A1%E8%85%A5%E5%91%B3%23" target="weibo">
+为什么拖完地瓷砖有股腥味（热度：276979）
 </a>
 </li>
 
@@ -1467,12 +1485,6 @@ Taylor Swift重录主打Slut（热度：214071）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%B8%85%E8%BF%9C%23" target="weibo">
-薛之谦 清远（热度：211933）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%8B%89%E5%BE%B7%E9%A6%96%E7%A7%8039%E5%88%86%23" target="weibo">
 利拉德首秀39分（热度：211018）
 </a>
@@ -1613,6 +1625,12 @@ THE9 歌单（热度：193456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E4%BE%A7%E7%BF%BB%E8%AD%A6%E6%B0%91%E4%BC%B8%E6%8F%B4%E6%89%8B%E4%B9%B0%E5%85%89%E8%BD%A6%E4%B8%8A%E8%8A%B1%E8%8F%9C%23" target="weibo">
 货车侧翻警民伸援手买光车上花菜（热度：193214）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CBA%23" target="weibo">
+CBA（热度：192976）
 </a>
 </li>
 
@@ -1973,6 +1991,12 @@ TE零封EDG（热度：149029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%82%BB%E7%93%9C%E5%BC%8F%E5%8D%B7%E5%8F%91%23" target="weibo">
 氛围感傻瓜式卷发（热度：148979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%9C%80%E6%96%B0OP%23" target="weibo">
+名侦探柯南最新OP（热度：147641）
 </a>
 </li>
 

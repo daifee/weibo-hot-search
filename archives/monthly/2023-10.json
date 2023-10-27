@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698419847322,
+  "endTime": 1698420885703,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4440020,
+      "num": 417300,
+      "word": "过山车追尾",
+      "onboard_time": 1698417344,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4416722,
       "num": 4413173,
       "word": "李思思从央视离职",
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 4149651,
+      "num": 397421,
+      "word": "医院回应深圳发生过山车追尾事故",
+      "onboard_time": 1698419802,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4134489,
       "num": 4134489,
       "word": "鹿哈自曝带货7个月挣3500万",
@@ -417,14 +433,6 @@
       "onboard_time": 1696145732,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3999229,
-      "num": 417300,
-      "word": "过山车追尾",
-      "onboard_time": 1698417344,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3945458,
@@ -497,6 +505,14 @@
       "onboard_time": 1698130413,
       "rank": 0,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 3526522,
+      "num": 347687,
+      "word": "官方回应深圳欢乐谷发生过山车追尾事故",
+      "onboard_time": 1698420403,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3472438,
@@ -7011,6 +7027,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1112766,
+      "num": 406414,
+      "word": "日本年轻人开始流行周末婚",
+      "onboard_time": 1698417942,
+      "rank": 16,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1112531,
       "num": 1112531,
       "word": "网传一中学运动会表演刺杀安倍",
@@ -10657,14 +10681,6 @@
       "onboard_time": 1698216518,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 818034,
-      "num": 406414,
-      "word": "日本年轻人开始流行周末婚",
-      "onboard_time": 1698417942,
-      "rank": 16,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 816700,
@@ -15987,6 +16003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 600389,
+      "num": 600389,
+      "word": "中级会计成绩",
+      "onboard_time": 1698418362,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 599668,
       "num": 599668,
       "word": "6金张雨霏获评最有价值女运动员",
@@ -16473,14 +16497,6 @@
       "onboard_time": 1697004334,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 585575,
-      "num": 397421,
-      "word": "医院回应深圳发生过山车追尾事故",
-      "onboard_time": 1698419802,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585379,
@@ -19395,14 +19411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 511624,
-      "num": 511624,
-      "word": "中级会计成绩",
-      "onboard_time": 1698418362,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 511614,
       "num": 511614,
       "word": "丁程鑫出发录制这就是街舞",
@@ -19497,6 +19505,14 @@
       "onboard_time": 1696222469,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508740,
+      "num": 2653612,
+      "word": "双十一是不是卖不动了",
+      "onboard_time": 1698401746,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 508461,
@@ -21273,14 +21289,6 @@
       "onboard_time": 1697771971,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 473112,
-      "num": 2653612,
-      "word": "双十一是不是卖不动了",
-      "onboard_time": 1698401746,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 472951,
@@ -31187,6 +31195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330975,
+      "num": 330975,
+      "word": "薛之谦 清远",
+      "onboard_time": 1698419503,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 330685,
       "num": 591269,
       "word": "游客相机掉落被大熊猫捡走",
@@ -37217,6 +37233,14 @@
       "onboard_time": 1696680458,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276979,
+      "num": 276979,
+      "word": "为什么拖完地瓷砖有股腥味",
+      "onboard_time": 1698420161,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 276935,
@@ -48171,14 +48195,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 211933,
-      "num": 211933,
-      "word": "薛之谦 清远",
-      "onboard_time": 1698419503,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211891,
       "num": 211891,
       "word": "对普通人来说500元什么概念",
@@ -53993,6 +54009,14 @@
       "onboard_time": 1697620237,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192976,
+      "num": 192976,
+      "word": "CBA",
+      "onboard_time": 1697975670,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 192950,
@@ -63763,14 +63787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154155,
-      "num": 154155,
-      "word": "CBA",
-      "onboard_time": 1697975670,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154019,
       "num": 154019,
       "word": "RIIZE新歌Talk Saxy预告",
@@ -65009,6 +65025,14 @@
       "onboard_time": 1697814157,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147641,
+      "num": 147641,
+      "word": "名侦探柯南最新OP",
+      "onboard_time": 1698420763,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 147564,
