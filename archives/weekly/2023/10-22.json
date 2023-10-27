@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698373337501,
+  "endTime": 1698374038334,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -411,7 +411,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1871640,
+      "raw_hot": 1879988,
       "num": 1871640,
       "word": "外交部长王毅在华盛顿会见美国务卿布林肯",
       "onboard_time": 1698372045,
@@ -683,20 +683,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1494309,
+      "num": 1463129,
+      "word": "张雪峰公司2月放18天假只上7天班",
+      "onboard_time": 1698371446,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1464928,
       "num": 1130205,
       "word": "教育局回应著名教师发文意淫同车女乘客",
       "onboard_time": 1698058727,
       "rank": 3,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1463129,
-      "num": 1463129,
-      "word": "张雪峰公司2月放18天假只上7天班",
-      "onboard_time": 1698371446,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1439688,
@@ -961,6 +961,14 @@
       "onboard_time": 1697972071,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1276845,
+      "num": 714174,
+      "word": "医保",
+      "onboard_time": 1698372168,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1261694,
@@ -2225,14 +2233,6 @@
       "onboard_time": 1698214958,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 714174,
-      "num": 714174,
-      "word": "医保",
-      "onboard_time": 1698372168,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 708379,
@@ -5179,6 +5179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351104,
+      "num": 5655421,
+      "word": "民警10分钟帮村民抢收2吨玉米",
+      "onboard_time": 1698371751,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350983,
       "num": 350983,
       "word": "河边的错误",
@@ -5249,14 +5257,6 @@
       "onboard_time": 1698217297,
       "rank": 33,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 347764,
-      "num": 5655421,
-      "word": "民警10分钟帮村民抢收2吨玉米",
-      "onboard_time": 1698371751,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347662,
@@ -5803,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313107,
+      "num": 313107,
+      "word": "泰山的小猫咪被摸得不耐烦",
+      "onboard_time": 1698372827,
+      "rank": 36,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 312202,
       "num": 312202,
       "word": "MAD对战WBG",
@@ -6131,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296530,
+      "num": 3039588,
+      "word": "冥王星水瓶座",
+      "onboard_time": 1698372587,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296469,
       "num": 268704,
       "word": "蔡少芬50岁又拍甄嬛传",
@@ -6177,6 +6193,14 @@
       "onboard_time": 1698043183,
       "rank": 15,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 295094,
+      "num": 295094,
+      "word": "赵丽颖黑粉被公告",
+      "onboard_time": 1698373004,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 294922,
@@ -7523,6 +7547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 248534,
+      "num": 248534,
+      "word": "懒人30秒出门鸡毛头",
+      "onboard_time": 1698372767,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 248493,
       "num": 248493,
       "word": "中国单身青年变化趋势",
@@ -7617,14 +7649,6 @@
       "onboard_time": 1698306875,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244590,
-      "num": 244590,
-      "word": "泰山的小猫咪被摸得不耐烦",
-      "onboard_time": 1698372827,
-      "rank": 36,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 244512,
@@ -7867,6 +7891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236179,
+      "num": 236179,
+      "word": "大学生在寝室煮面被宿管发现",
+      "onboard_time": 1698373722,
+      "rank": 37,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 235878,
       "num": 211871,
       "word": "欧阳娜娜白开水妆",
@@ -7889,22 +7921,6 @@
       "onboard_time": 1698128975,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235693,
-      "num": 235693,
-      "word": "赵丽颖黑粉被公告",
-      "onboard_time": 1698373004,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235450,
-      "num": 235450,
-      "word": "懒人30秒出门鸡毛头",
-      "onboard_time": 1698372767,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 235400,
@@ -8195,6 +8211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228190,
+      "num": 228190,
+      "word": "大白菜的花语是凛冬将至",
+      "onboard_time": 1698372409,
+      "rank": 41,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 227797,
       "num": 227797,
       "word": "外卖小哥自发买盐撒在油滑路面",
@@ -8331,12 +8355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224142,
-      "num": 3039588,
-      "word": "冥王星水瓶座",
-      "onboard_time": 1698372587,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 224118,
+      "num": 349587,
+      "word": "毕业生穿校服回母校悄悄看老师",
+      "onboard_time": 1698373483,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224038,
@@ -9475,6 +9499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201034,
+      "num": 201034,
+      "word": "部落冲突",
+      "onboard_time": 1698372885,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200951,
       "num": 200951,
       "word": "今年春节为什么这么调",
@@ -9833,14 +9865,6 @@
       "onboard_time": 1698229115,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195542,
-      "num": 195542,
-      "word": "大白菜的花语是凛冬将至",
-      "onboard_time": 1698372409,
-      "rank": 41,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 195457,
@@ -10875,14 +10899,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 177488,
-      "num": 177488,
-      "word": "部落冲突",
-      "onboard_time": 1698372885,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177242,
       "num": 177242,
       "word": "花少5这段太搞笑了",
@@ -11553,6 +11569,14 @@
       "onboard_time": 1698201159,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162597,
+      "num": 162597,
+      "word": "热乎乎的红糖猪油荷包蛋",
+      "onboard_time": 1698373663,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 162341,
@@ -13841,6 +13865,14 @@
       "onboard_time": 1697958750,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120684,
+      "num": 120684,
+      "word": "陪主人捡破烂的萨摩耶",
+      "onboard_time": 1698374021,
+      "rank": 48,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 120452,
