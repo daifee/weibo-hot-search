@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698402861891,
+  "endTime": 1698405270925,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10204085,
+      "num": 10204085,
+      "word": "李克强同志讣告",
+      "onboard_time": 1698403607,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 8995404,
       "num": 3634779,
       "word": "吴尊友因胰腺癌去世",
       "onboard_time": 1698398094,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6613691,
+      "num": 6613691,
+      "word": "李克强同志遗像",
+      "onboard_time": 1698404079,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 4934227,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1603597,
-      "num": 365365,
+      "num": 400927,
       "word": "吴尊友去世不举行告别仪式",
       "onboard_time": 1698401984,
       "rank": 22,
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640995,
+      "num": 506812,
+      "word": "地铁安检让试喝一口乘客索赔4.8万元",
+      "onboard_time": 1698400305,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 633268,
       "num": 614362,
       "word": "以色列要求俄罗斯驱逐哈马斯",
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 548204,
-      "num": 305966,
+      "num": 402803,
       "word": "肾脏友好型喝水法",
       "onboard_time": 1698401505,
       "rank": 30,
@@ -553,14 +577,6 @@
       "onboard_time": 1698328176,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506812,
-      "num": 506812,
-      "word": "地铁安检让试喝一口乘客索赔4.8万元",
-      "onboard_time": 1698400305,
-      "rank": 23,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 503003,
@@ -601,6 +617,14 @@
       "onboard_time": 1698388177,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464098,
+      "num": 464098,
+      "word": "为什么买大闸蟹要用蟹卡",
+      "onboard_time": 1698402769,
+      "rank": 45,
+      "category": "知识科普"
     },
     {
       "raw_hot": 463622,
@@ -665,6 +689,22 @@
       "onboard_time": 1698370497,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 429233,
+      "num": 399145,
+      "word": "胰腺癌一旦发现往往是中晚期",
+      "onboard_time": 1698403066,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427300,
+      "num": 427300,
+      "word": "吴尊友与癌症搏斗了两年",
+      "onboard_time": 1698404610,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426501,
@@ -851,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348461,
+      "num": 348461,
+      "word": "双十一是不是卖不动了",
+      "onboard_time": 1698401746,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 346065,
       "num": 346065,
       "word": "徐进",
@@ -875,12 +923,12 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 341008,
-      "num": 341008,
-      "word": "双十一是不是卖不动了",
-      "onboard_time": 1698401746,
-      "rank": 44,
-      "category": "互联网"
+      "raw_hot": 341726,
+      "num": 341726,
+      "word": "胰腺癌早期有哪些症状",
+      "onboard_time": 1698402405,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340283,
@@ -921,6 +969,14 @@
       "onboard_time": 1698396517,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 326596,
+      "num": 326596,
+      "word": "头发油扁塌女孩速度集合",
+      "onboard_time": 1698403484,
+      "rank": 28,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 325410,
@@ -1051,6 +1107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 297735,
+      "num": 297735,
+      "word": "彩棠遮瑕",
+      "onboard_time": 1698402166,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 297225,
       "num": 446268,
       "word": "毕业生穿校服回母校悄悄看老师",
@@ -1083,6 +1147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285830,
+      "num": 285830,
+      "word": "玉米须对身体的好处",
+      "onboard_time": 1698403368,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282696,
+      "num": 282696,
+      "word": "网红氧化菊为母校设立奖学金",
+      "onboard_time": 1698404868,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 276482,
       "num": 276482,
       "word": "我爸现在逃避问题的办法很多",
@@ -1091,19 +1171,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274943,
+      "num": 456585,
+      "word": "美香一家将于11月回国",
+      "onboard_time": 1698404206,
+      "rank": 9,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 271650,
       "num": 271650,
       "word": "你每天什么时候洗脸",
       "onboard_time": 1698368547,
       "rank": 42,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 268776,
-      "num": 268776,
-      "word": "彩棠遮瑕",
-      "onboard_time": 1698402166,
-      "rank": 33,
       "category": "美妆"
     },
     {
@@ -1171,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254873,
-      "num": 254873,
-      "word": "胰腺癌早期有哪些症状",
-      "onboard_time": 1698402405,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253907,
       "num": 253907,
       "word": "侯明昊奚梦瑶大梦归离路透",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1698377324,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253193,
+      "num": 253193,
+      "word": "南京地铁",
+      "onboard_time": 1698403244,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251146,
@@ -1329,6 +1409,14 @@
       "onboard_time": 1698382423,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226698,
+      "num": 226698,
+      "word": "导演说杨幂新片表演很惊艳",
+      "onboard_time": 1698402943,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 226201,
@@ -1579,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190252,
+      "num": 190252,
+      "word": "男子接手店铺卖柚子不断有人来洗车",
+      "onboard_time": 1698404809,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189008,
       "num": 189008,
       "word": "DK对战GAM",
@@ -1633,6 +1729,14 @@
       "onboard_time": 1698371631,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 183422,
+      "num": 183422,
+      "word": "这才叫真正的肉包",
+      "onboard_time": 1698403729,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 183273,
@@ -1723,14 +1827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173595,
-      "num": 173595,
-      "word": "为什么买大闸蟹要用蟹卡",
-      "onboard_time": 1698402769,
-      "rank": 45,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 172995,
       "num": 172995,
       "word": "G2看TheShy选剑魔",
@@ -1777,6 +1873,14 @@
       "onboard_time": 1698381641,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168489,
+      "num": 168489,
+      "word": "紧急避孕药与短效避孕药有什么区别",
+      "onboard_time": 1698405229,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167640,
@@ -2361,6 +2465,14 @@
       "onboard_time": 1698350592,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13234,
+      "num": 437549,
+      "word": "杨祐宁的厨艺绝活",
+      "onboard_time": 1698404809,
+      "rank": 14,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
