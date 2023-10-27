@@ -1,0 +1,410 @@
+{
+  "runTime": 1698449653424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667510,
+        "num": 667510,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 591338,
+        "num": 591338,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46182,
+        "num": 455274,
+        "word": "我国将建立国家不可移动文物资源总目录",
+        "onboard_time": 1698411278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964404,
+        "num": 454769,
+        "word": "深圳欢乐谷过山车追尾8人受伤",
+        "onboard_time": 1698421181,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386385,
+        "num": 386385,
+        "word": "夺得世界冠军的中国面包原料是西藏青稞",
+        "onboard_time": 1698421362,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371769,
+        "num": 371769,
+        "word": "孙颖莎首轮遭遇田志希",
+        "onboard_time": 1698447681,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319001,
+        "num": 319001,
+        "word": "13岁哥哥见新生妹妹紧张到无从下手",
+        "onboard_time": 1698423932,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276245,
+        "num": 276245,
+        "word": "为什么拖完地瓷砖有股腥味",
+        "onboard_time": 1698420161,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 269417,
+        "num": 269417,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185486,
+        "num": 269400,
+        "word": "双十一是不是卖不动了",
+        "onboard_time": 1698401746,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 922624,
+        "num": 262904,
+        "word": "中小学生连厕所时间都快没了",
+        "onboard_time": 1698421060,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 794513,
+        "num": 256759,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 794047,
+        "num": 251055,
+        "word": "日本年轻人开始流行周末婚",
+        "onboard_time": 1698417942,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 596136,
+        "num": 248537,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 13,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 378452,
+        "num": 245168,
+        "word": "大虞海棠",
+        "onboard_time": 1698421898,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241552,
+        "num": 241552,
+        "word": "亲历者讲述欢乐谷过山车追尾事故",
+        "onboard_time": 1698449245,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232096,
+        "num": 232096,
+        "word": "法媒惊讶中国队赢了世界面包大赛",
+        "onboard_time": 1698412900,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207498,
+        "num": 207498,
+        "word": "谁给张雪峰创造了生存空间",
+        "onboard_time": 1698447924,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195813,
+        "num": 195813,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193014,
+        "num": 193014,
+        "word": "手机电量1%女子迷路紧急求助110",
+        "onboard_time": 1698412900,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366641,
+        "num": 191330,
+        "word": "村支书被曝强迫留守妇女发生关系",
+        "onboard_time": 1698407439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187073,
+        "num": 187073,
+        "word": "关晓彤片场打枪腿软但手稳",
+        "onboard_time": 1698447681,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184446,
+        "num": 184446,
+        "word": "我是歌手 重启",
+        "onboard_time": 1698410259,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182141,
+        "num": 182141,
+        "word": "暨南大学81名新生放弃入学资格",
+        "onboard_time": 1698413438,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170936,
+        "num": 170936,
+        "word": "骆岗音乐节",
+        "onboard_time": 1698448582,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152973,
+        "num": 152973,
+        "word": "吴尊友与癌症搏斗了两年",
+        "onboard_time": 1698404610,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145212,
+        "num": 145212,
+        "word": "阴阳师 高天原终章",
+        "onboard_time": 1698449305,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140232,
+        "num": 140232,
+        "word": "虞书欣动作做早的反应",
+        "onboard_time": 1698421002,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138542,
+        "num": 138542,
+        "word": "深圳欢乐谷通报",
+        "onboard_time": 1698414763,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132284,
+        "num": 132284,
+        "word": "吴尊友讣告",
+        "onboard_time": 1698402045,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135186,
+        "num": 131709,
+        "word": "许佳琪 假发",
+        "onboard_time": 1698413923,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128797,
+        "num": 128797,
+        "word": "孩子休克父母急救做错奶奶冷静救回",
+        "onboard_time": 1698417641,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127370,
+        "num": 127370,
+        "word": "狗狗自己挖坑睡觉结果塌方",
+        "onboard_time": 1698446420,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 124907,
+        "num": 124907,
+        "word": "中级会计成绩",
+        "onboard_time": 1698418362,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114490,
+        "num": 114490,
+        "word": "油价再次跌破下调红线",
+        "onboard_time": 1698449245,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111767,
+        "num": 111767,
+        "word": "秋冬一周不重样穿搭",
+        "onboard_time": 1698443536,
+        "rank": 35,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 107219,
+        "num": 107219,
+        "word": "周润发汤唯同框",
+        "onboard_time": 1698448886,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107136,
+        "num": 107136,
+        "word": "iPhone15Pro所有版本均破发",
+        "onboard_time": 1698448886,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105563,
+        "num": 105563,
+        "word": "你注意过有人耳朵前方的小洞吗",
+        "onboard_time": 1698414643,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103609,
+        "num": 103609,
+        "word": "THE9女团配置",
+        "onboard_time": 1698411341,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102770,
+        "num": 102770,
+        "word": "生理性喜欢",
+        "onboard_time": 1698406067,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97959,
+        "num": 97959,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 94976,
+        "num": 94976,
+        "word": "地铁安检让试喝一口乘客索赔4.8万元",
+        "onboard_time": 1698400305,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 94447,
+        "num": 94447,
+        "word": "孙兴慜连场进球",
+        "onboard_time": 1698449305,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89458,
+        "num": 89458,
+        "word": "理发师丢下顾客出门灭了个火",
+        "onboard_time": 1698447924,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86788,
+        "num": 86788,
+        "word": "胰腺癌是最内向的癌",
+        "onboard_time": 1698408279,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86490,
+        "num": 86490,
+        "word": "压力给到BLG",
+        "onboard_time": 1698447981,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80003,
+        "num": 80003,
+        "word": "导演马秉煜因病去世",
+        "onboard_time": 1698406781,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78222,
+        "num": 78222,
+        "word": "处女座真的很容易内耗",
+        "onboard_time": 1698409960,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 69560,
+        "num": 69560,
+        "word": "水晶宫1比2热刺",
+        "onboard_time": 1698448404,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698448576737,
+  "endTime": 1698449653424,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -83,20 +83,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 922624,
+      "num": 384818,
+      "word": "中小学生连厕所时间都快没了",
+      "onboard_time": 1698421060,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 890576,
       "num": 1577560,
       "word": "吴尊友逝世",
       "onboard_time": 1698396773,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860512,
-      "num": 384818,
-      "word": "中小学生连厕所时间都快没了",
-      "onboard_time": 1698421060,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 686986,
@@ -123,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530047,
-      "num": 234405,
+      "raw_hot": 596136,
+      "num": 248537,
       "word": "YSL客服回应小杨哥徒弟带货被指低俗",
       "onboard_time": 1698395616,
       "rank": 33,
@@ -155,11 +155,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 382846,
-      "num": 382846,
+      "raw_hot": 386385,
+      "num": 386385,
       "word": "夺得世界冠军的中国面包原料是西藏青稞",
       "onboard_time": 1698421362,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371769,
+      "num": 371769,
+      "word": "孙颖莎首轮遭遇田志希",
+      "onboard_time": 1698447681,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366641,
+      "num": 269963,
+      "word": "村支书被曝强迫留守妇女发生关系",
+      "onboard_time": 1698407439,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298444,
-      "num": 269963,
-      "word": "村支书被曝强迫留守妇女发生关系",
-      "onboard_time": 1698407439,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296540,
       "num": 296540,
       "word": "暨南大学81名新生放弃入学资格",
@@ -267,6 +275,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 241552,
+      "num": 241552,
+      "word": "亲历者讲述欢乐谷过山车追尾事故",
+      "onboard_time": 1698449245,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232096,
+      "num": 232096,
+      "word": "法媒惊讶中国队赢了世界面包大赛",
+      "onboard_time": 1698412900,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223009,
       "num": 223009,
       "word": "安崎麦怎么回事",
@@ -283,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207498,
+      "num": 207498,
+      "word": "谁给张雪峰创造了生存空间",
+      "onboard_time": 1698447924,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201586,
       "num": 201586,
       "word": "生理性喜欢",
@@ -291,12 +323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199961,
-      "num": 120369,
-      "word": "法媒惊讶中国队赢了世界面包大赛",
-      "onboard_time": 1698412900,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 195813,
+      "num": 195813,
+      "word": "虞书欣被台下激光笔照射",
+      "onboard_time": 1698449366,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 191082,
@@ -305,6 +337,14 @@
       "onboard_time": 1698420763,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 187073,
+      "num": 187073,
+      "word": "关晓彤片场打枪腿软但手稳",
+      "onboard_time": 1698447681,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 176133,
@@ -323,12 +363,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168649,
-      "num": 116301,
-      "word": "关晓彤片场打枪腿软但手稳",
-      "onboard_time": 1698447681,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 170936,
+      "num": 170936,
+      "word": "骆岗音乐节",
+      "onboard_time": 1698448582,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 160664,
@@ -353,6 +393,14 @@
       "onboard_time": 1698398094,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145212,
+      "num": 145212,
+      "word": "阴阳师 高天原终章",
+      "onboard_time": 1698449305,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 141017,
@@ -395,12 +443,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 128967,
-      "num": 128967,
-      "word": "孙颖莎首轮遭遇田志希",
-      "onboard_time": 1698447681,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 127370,
+      "num": 127370,
+      "word": "狗狗自己挖坑睡觉结果塌方",
+      "onboard_time": 1698446420,
+      "rank": 27,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 127105,
@@ -435,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114490,
+      "num": 114490,
+      "word": "油价再次跌破下调红线",
+      "onboard_time": 1698449245,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112021,
       "num": 112021,
       "word": "秋冬一周不重样穿搭",
@@ -443,12 +499,20 @@
       "category": "时尚,美妆"
     },
     {
-      "raw_hot": 109652,
-      "num": 109652,
-      "word": "狗狗自己挖坑睡觉结果塌方",
-      "onboard_time": 1698446420,
-      "rank": 27,
-      "category": "动物萌宠"
+      "raw_hot": 107219,
+      "num": 107219,
+      "word": "周润发汤唯同框",
+      "onboard_time": 1698448886,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107136,
+      "num": 107136,
+      "word": "iPhone15Pro所有版本均破发",
+      "onboard_time": 1698448886,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 99719,
@@ -467,6 +531,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94447,
+      "num": 94447,
+      "word": "孙兴慜连场进球",
+      "onboard_time": 1698449305,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89458,
+      "num": 89458,
+      "word": "理发师丢下顾客出门灭了个火",
+      "onboard_time": 1698447924,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87414,
       "num": 65130,
       "word": "是枝裕和曝侯孝贤3年前就有症状",
@@ -475,20 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83793,
-      "num": 83793,
-      "word": "谁给张雪峰创造了生存空间",
-      "onboard_time": 1698447924,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 86490,
+      "num": 86490,
+      "word": "压力给到BLG",
+      "onboard_time": 1698447981,
+      "rank": 46,
+      "category": "电竞"
     },
     {
-      "raw_hot": 66934,
-      "num": 66934,
-      "word": "理发师丢下顾客出门灭了个火",
-      "onboard_time": 1698447924,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 69560,
+      "num": 69560,
+      "word": "水晶宫1比2热刺",
+      "onboard_time": 1698448404,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 64602,
@@ -505,14 +585,6 @@
       "onboard_time": 1698448105,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61929,
-      "num": 61929,
-      "word": "水晶宫1比2热刺",
-      "onboard_time": 1698448404,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 59950,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 07:16:16
+本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 07:34:13
 </p>
 </blockquote>
 <p>
@@ -75,14 +75,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23" target="weibo">
-吴尊友逝世（热度：890576）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
+中小学生连厕所时间都快没了（热度：922624）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
-中小学生连厕所时间都快没了（热度：860512）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23" target="weibo">
+吴尊友逝世（热度：890576）
 </a>
 </li>
 
@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YSL%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
-YSL客服回应小杨哥徒弟带货被指低俗（热度：530047）
+YSL客服回应小杨哥徒弟带货被指低俗（热度：596136）
 </a>
 </li>
 
@@ -130,7 +130,19 @@ THE9女团配置（热度：409293）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
-夺得世界冠军的中国面包原料是西藏青稞（热度：382846）
+夺得世界冠军的中国面包原料是西藏青稞（热度：386385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A6%96%E8%BD%AE%E9%81%AD%E9%81%87%E7%94%B0%E5%BF%97%E5%B8%8C%23" target="weibo">
+孙颖莎首轮遭遇田志希（热度：371769）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E8%A2%AB%E6%9B%9D%E5%BC%BA%E8%BF%AB%E7%95%99%E5%AE%88%E5%A6%87%E5%A5%B3%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23" target="weibo">
+村支书被曝强迫留守妇女发生关系（热度：366641）
 </a>
 </li>
 
@@ -183,12 +195,6 @@ THE9合体再跳YESOK（热度：348650）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E8%A2%AB%E6%9B%9D%E5%BC%BA%E8%BF%AB%E7%95%99%E5%AE%88%E5%A6%87%E5%A5%B3%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23" target="weibo">
-村支书被曝强迫留守妇女发生关系（热度：298444）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A681%E5%90%8D%E6%96%B0%E7%94%9F%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC%23" target="weibo">
 暨南大学81名新生放弃入学资格（热度：296540）
 </a>
@@ -213,6 +219,18 @@ Lion（热度：261435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+亲历者讲述欢乐谷过山车追尾事故（热度：241552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%AA%92%E6%83%8A%E8%AE%B6%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%A2%E4%BA%86%E4%B8%96%E7%95%8C%E9%9D%A2%E5%8C%85%E5%A4%A7%E8%B5%9B%23" target="weibo">
+法媒惊讶中国队赢了世界面包大赛（热度：232096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E9%BA%A6%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23" target="weibo">
 安崎麦怎么回事（热度：223009）
 </a>
@@ -225,20 +243,32 @@ Lion（热度：261435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%88%9B%E9%80%A0%E4%BA%86%E7%94%9F%E5%AD%98%E7%A9%BA%E9%97%B4%23" target="weibo">
+谁给张雪峰创造了生存空间（热度：207498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%23" target="weibo">
 生理性喜欢（热度：201586）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%AA%92%E6%83%8A%E8%AE%B6%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%A2%E4%BA%86%E4%B8%96%E7%95%8C%E9%9D%A2%E5%8C%85%E5%A4%A7%E8%B5%9B%23" target="weibo">
-法媒惊讶中国队赢了世界面包大赛（热度：199961）
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A2%AB%E5%8F%B0%E4%B8%8B%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84%23" target="weibo">
+虞书欣被台下激光笔照射（热度：195813）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%9C%80%E6%96%B0OP%23" target="weibo">
 名侦探柯南最新OP（热度：191082）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%89%87%E5%9C%BA%E6%89%93%E6%9E%AA%E8%85%BF%E8%BD%AF%E4%BD%86%E6%89%8B%E7%A8%B3%23" target="weibo">
+关晓彤片场打枪腿软但手稳（热度：187073）
 </a>
 </li>
 
@@ -255,8 +285,8 @@ Lion（热度：261435）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%89%87%E5%9C%BA%E6%89%93%E6%9E%AA%E8%85%BF%E8%BD%AF%E4%BD%86%E6%89%8B%E7%A8%B3%23" target="weibo">
-关晓彤片场打枪腿软但手稳（热度：168649）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%86%E5%B2%97%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+骆岗音乐节（热度：170936）
 </a>
 </li>
 
@@ -275,6 +305,12 @@ THE9演唱会（热度：160664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
 吴尊友因胰腺癌去世（热度：145791）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%20%E9%AB%98%E5%A4%A9%E5%8E%9F%E7%BB%88%E7%AB%A0%23" target="weibo">
+阴阳师 高天原终章（热度：145212）
 </a>
 </li>
 
@@ -309,8 +345,8 @@ Promise（热度：139681）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A6%96%E8%BD%AE%E9%81%AD%E9%81%87%E7%94%B0%E5%BF%97%E5%B8%8C%23" target="weibo">
-孙颖莎首轮遭遇田志希（热度：128967）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%87%AA%E5%B7%B1%E6%8C%96%E5%9D%91%E7%9D%A1%E8%A7%89%E7%BB%93%E6%9E%9C%E5%A1%8C%E6%96%B9%23" target="weibo">
+狗狗自己挖坑睡觉结果塌方（热度：127370）
 </a>
 </li>
 
@@ -339,14 +375,26 @@ Promise（热度：139681）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E5%86%8D%E6%AC%A1%E8%B7%8C%E7%A0%B4%E4%B8%8B%E8%B0%83%E7%BA%A2%E7%BA%BF%23" target="weibo">
+油价再次跌破下调红线（热度：114490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
 秋冬一周不重样穿搭（热度：112021）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%87%AA%E5%B7%B1%E6%8C%96%E5%9D%91%E7%9D%A1%E8%A7%89%E7%BB%93%E6%9E%9C%E5%A1%8C%E6%96%B9%23" target="weibo">
-狗狗自己挖坑睡觉结果塌方（热度：109652）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E6%B1%A4%E5%94%AF%E5%90%8C%E6%A1%86%23" target="weibo">
+周润发汤唯同框（热度：107219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E6%89%80%E6%9C%89%E7%89%88%E6%9C%AC%E5%9D%87%E7%A0%B4%E5%8F%91%23" target="weibo">
+iPhone15Pro所有版本均破发（热度：107136）
 </a>
 </li>
 
@@ -363,20 +411,32 @@ Promise（热度：139681）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E8%BF%9E%E5%9C%BA%E8%BF%9B%E7%90%83%23" target="weibo">
+孙兴慜连场进球（热度：94447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%A2%E4%B8%8B%E9%A1%BE%E5%AE%A2%E5%87%BA%E9%97%A8%E7%81%AD%E4%BA%86%E4%B8%AA%E7%81%AB%23" target="weibo">
+理发师丢下顾客出门灭了个火（热度：89458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E6%9B%9D%E4%BE%AF%E5%AD%9D%E8%B4%A43%E5%B9%B4%E5%89%8D%E5%B0%B1%E6%9C%89%E7%97%87%E7%8A%B6%23" target="weibo">
 是枝裕和曝侯孝贤3年前就有症状（热度：87414）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%88%9B%E9%80%A0%E4%BA%86%E7%94%9F%E5%AD%98%E7%A9%BA%E9%97%B4%23" target="weibo">
-谁给张雪峰创造了生存空间（热度：83793）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0BLG%23" target="weibo">
+压力给到BLG（热度：86490）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%A2%E4%B8%8B%E9%A1%BE%E5%AE%A2%E5%87%BA%E9%97%A8%E7%81%AD%E4%BA%86%E4%B8%AA%E7%81%AB%23" target="weibo">
-理发师丢下顾客出门灭了个火（热度：66934）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%99%B6%E5%AE%AB1%E6%AF%942%E7%83%AD%E5%88%BA%23" target="weibo">
+水晶宫1比2热刺（热度：69560）
 </a>
 </li>
 
@@ -389,12 +449,6 @@ Promise（热度：139681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B0%91%E8%AD%A6%E5%9C%A8%E6%AD%A6%E6%B1%89%E9%A1%BA%E4%BE%BF%E6%8A%93%E4%BA%86%E4%B8%AA%E5%AB%8C%E7%8A%AF%23" target="weibo">
 江苏民警在武汉顺便抓了个嫌犯（热度：63750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%99%B6%E5%AE%AB1%E6%AF%942%E7%83%AD%E5%88%BA%23" target="weibo">
-水晶宫1比2热刺（热度：61929）
 </a>
 </li>
 
