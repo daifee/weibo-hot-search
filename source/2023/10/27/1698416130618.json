@@ -1,0 +1,410 @@
+{
+  "runTime": 1698416130618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2958640,
+        "num": 2958640,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4854306,
+        "num": 2904050,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 210189,
+        "num": 2891300,
+        "word": "我国将建立国家不可移动文物资源总目录",
+        "onboard_time": 1698411278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1722639,
+        "num": 2803568,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632986,
+        "num": 2724981,
+        "word": "外交部回应中国飞行员在南海拦截美军机",
+        "onboard_time": 1698409480,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 556916,
+        "num": 2709129,
+        "word": "胰腺癌是最内向的癌",
+        "onboard_time": 1698408279,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 473112,
+        "num": 2611243,
+        "word": "双十一是不是卖不动了",
+        "onboard_time": 1698401746,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353629,
+        "num": 2561084,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 308883,
+        "num": 2474996,
+        "word": "印度军队向巴基斯坦开火",
+        "onboard_time": 1698378701,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 237374,
+        "num": 2427311,
+        "word": "胰腺癌一旦发现往往是中晚期",
+        "onboard_time": 1698403066,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2403102,
+        "num": 2403102,
+        "word": "手机电量1%女子紧急求助110",
+        "onboard_time": 1698412900,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2337285,
+        "num": 2337285,
+        "word": "深圳欢乐谷",
+        "onboard_time": 1698414763,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1857892,
+        "num": 1857892,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1609012,
+        "num": 1609012,
+        "word": "许佳琪 假发",
+        "onboard_time": 1698413923,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1381442,
+        "num": 1381442,
+        "word": "我是歌手 重启",
+        "onboard_time": 1698410259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1269740,
+        "num": 1269740,
+        "word": "导演马秉煜因病去世",
+        "onboard_time": 1698406781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1141381,
+        "num": 1141381,
+        "word": "吴尊友与癌症搏斗了两年",
+        "onboard_time": 1698404610,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880188,
+        "num": 880188,
+        "word": "THE9女团配置",
+        "onboard_time": 1698411341,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 740804,
+        "num": 740804,
+        "word": "虞书欣斯芬克斯直拍",
+        "onboard_time": 1698409540,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 780536,
+        "num": 715948,
+        "word": "吴尊友讣告",
+        "onboard_time": 1698402045,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688061,
+        "num": 688061,
+        "word": "Lion",
+        "onboard_time": 1698413438,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 525688,
+        "num": 525688,
+        "word": "暨南大学81名新生放弃入学资格",
+        "onboard_time": 1698413438,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 879023,
+        "num": 519088,
+        "word": "THE9演唱会",
+        "onboard_time": 1698415182,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482381,
+        "num": 482381,
+        "word": "你注意过有人耳朵前方的小洞吗",
+        "onboard_time": 1698414643,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 443595,
+        "num": 443595,
+        "word": "村支书被曝强迫留守妇女发生关系",
+        "onboard_time": 1698407439,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346396,
+        "num": 346396,
+        "word": "安崎麦怎么回事",
+        "onboard_time": 1698411998,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338335,
+        "num": 338335,
+        "word": "吴尊友因胰腺癌去世",
+        "onboard_time": 1698398094,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334465,
+        "num": 334465,
+        "word": "迪丽热巴谈对秦岚初印象",
+        "onboard_time": 1698412119,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327136,
+        "num": 327136,
+        "word": "谢可寅叫姐姐舞台气场",
+        "onboard_time": 1698413801,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308482,
+        "num": 308482,
+        "word": "喻言演唱会高音",
+        "onboard_time": 1698411219,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292082,
+        "num": 292082,
+        "word": "不奉陪",
+        "onboard_time": 1698412299,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275676,
+        "num": 275676,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 31,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 247649,
+        "num": 247649,
+        "word": "法媒惊讶中国队赢了世界面包大赛",
+        "onboard_time": 1698412900,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242707,
+        "num": 242707,
+        "word": "生理性喜欢",
+        "onboard_time": 1698406067,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241892,
+        "num": 241892,
+        "word": "处女座真的很容易内耗",
+        "onboard_time": 1698409960,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 239101,
+        "num": 239101,
+        "word": "地铁安检让试喝一口乘客索赔4.8万元",
+        "onboard_time": 1698400305,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 227378,
+        "num": 227378,
+        "word": "AG零封TES",
+        "onboard_time": 1698414462,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214095,
+        "num": 214095,
+        "word": "对刘雨昕的lion没有抵抗力",
+        "onboard_time": 1698411636,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211261,
+        "num": 211261,
+        "word": "公司让员工轮流往女子头上浇水",
+        "onboard_time": 1698411576,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200204,
+        "num": 200204,
+        "word": "他猛踹玻璃将司机从起火货车中拽出",
+        "onboard_time": 1698416082,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194423,
+        "num": 194423,
+        "word": "吴尊友最后一条微博提醒科学戴口罩",
+        "onboard_time": 1698400129,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188071,
+        "num": 188071,
+        "word": "吉林男篮vs广东男篮",
+        "onboard_time": 1698415006,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180542,
+        "num": 180542,
+        "word": "孔雪儿 舞台",
+        "onboard_time": 1698409540,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 180487,
+        "word": "吴尊友去世不举行告别仪式",
+        "onboard_time": 1698401984,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172372,
+        "num": 172372,
+        "word": "货车侧翻交警朋友圈帮卖14000斤花菜",
+        "onboard_time": 1698415478,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156024,
+        "num": 156024,
+        "word": "动物世界",
+        "onboard_time": 1698412778,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155979,
+        "num": 155979,
+        "word": "AG晋级挑杯四强",
+        "onboard_time": 1698415120,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142947,
+        "num": 142947,
+        "word": "王者荣耀",
+        "onboard_time": 1698414104,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141524,
+        "num": 141524,
+        "word": "SEVENTEEN音乐之神开麦",
+        "onboard_time": 1698413321,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140363,
+        "num": 140363,
+        "word": "怪力老陈 结婚那点事",
+        "onboard_time": 1698409900,
+        "rank": 49,
+        "category": "情感,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}

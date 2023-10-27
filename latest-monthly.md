@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 21:34:11
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 22:15:30
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F1%25%E5%A5%B3%E5%AD%90%E7%B4%A7%E6%80%A5%E6%B1%82%E5%8A%A9110%23" target="weibo">
+手机电量1%女子紧急求助110（热度：2403102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23" target="weibo">
 赵继伟道歉（热度：2401767）
 </a>
@@ -1085,6 +1091,12 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%AB%82%E8%B0%88%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%87%BA%E8%BD%A8%23" target="weibo">
 贝嫂谈贝克汉姆出轨（热度：2340387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%23" target="weibo">
+深圳欢乐谷（热度：2337285）
 </a>
 </li>
 
@@ -2115,6 +2127,12 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%89%93%E6%9E%B6%E7%94%A8%E6%88%B7%E7%8B%82%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
+京东李佳琦打架用户狂薅羊毛（热度：1857892）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E8%80%85%E4%B8%83%E6%9C%88%E6%96%B0%E7%95%AA%E5%8E%BB%E4%B8%96%23" target="weibo">
 作者七月新番去世（热度：1855160）
 </a>
@@ -2969,6 +2987,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E8%87%B4%E7%94%B5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23" target="weibo">
 泰国总理致电中国大使道歉（热度：1609058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%90%AA%20%E5%81%87%E5%8F%91%23" target="weibo">
+许佳琪 假发（热度：1609012）
 </a>
 </li>
 
@@ -5085,12 +5109,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%89%93%E6%9E%B6%E7%94%A8%E6%88%B7%E7%8B%82%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
-京东李佳琦打架用户狂薅羊毛（热度：1130829）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%89%87%E6%8B%8D%E6%91%84%E6%97%A0%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%23" target="weibo">
 本片拍摄无人员伤亡（热度：1129601）
 </a>
@@ -5993,24 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%89%93%E6%AD%BB%E6%9F%AF%E5%9F%BA%E7%94%B7%E5%AD%90%E8%A2%AB5%E4%BA%BA%E6%BB%8B%E6%89%B0%23" target="weibo">
 警方通报打死柯基男子被5人滋扰（热度：1002551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E8%AF%AF%E5%87%BB%E5%9F%83%E5%8F%8A%E5%86%9B%E9%98%9F%E5%93%A8%E6%89%80%23" target="weibo">
-以军称误击埃及军队哨所（热度：1000990）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%95%E6%89%93%E5%86%B3%E8%B5%9B%E6%94%BE%E7%AE%80%E5%8D%95%E7%88%B1%23" target="weibo">
-樊振东王楚钦单打决赛放简单爱（热度：1000947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E7%BB%9D%E6%9D%80%23" target="weibo">
-库里绝杀（热度：1000414）
 </a>
 </li>
 

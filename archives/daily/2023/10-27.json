@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698413651819,
+  "endTime": 1698416130618,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -99,12 +99,28 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 2403102,
+      "num": 2403102,
+      "word": "手机电量1%女子紧急求助110",
+      "onboard_time": 1698412900,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2390606,
       "num": 2390606,
       "word": "外交部长王毅在华盛顿会见美国务卿布林肯",
       "onboard_time": 1698372045,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2337285,
+      "num": 2337285,
+      "word": "深圳欢乐谷",
+      "onboard_time": 1698414763,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2309907,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857892,
+      "num": 1857892,
+      "word": "京东李佳琦打架用户狂薅羊毛",
+      "onboard_time": 1698407503,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1801831,
       "num": 1593957,
       "word": "女子带孩子拍胸片发现是小孩在操作",
@@ -209,6 +233,14 @@
       "onboard_time": 1698404610,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1609012,
+      "num": 1609012,
+      "word": "许佳琪 假发",
+      "onboard_time": 1698413923,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 1608051,
@@ -331,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1130829,
-      "num": 1130829,
-      "word": "京东李佳琦打架用户狂薅羊毛",
-      "onboard_time": 1698407503,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1127661,
       "num": 996518,
       "word": "赵丽颖对接要求美团买菜道歉",
@@ -419,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 879023,
+      "num": 519088,
+      "word": "THE9演唱会",
+      "onboard_time": 1698370556,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 866014,
       "num": 416481,
       "word": "小杨哥徒弟回应带货YSL被网嘲低级",
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 815182,
-      "num": 1799708,
+      "num": 2724981,
       "word": "外交部回应中国飞行员在南海拦截美军机",
       "onboard_time": 1698409480,
       "rank": 37,
@@ -515,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 688061,
+      "num": 688061,
+      "word": "Lion",
+      "onboard_time": 1698413438,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 685198,
       "num": 380781,
       "word": "美容仪品牌回应贾乃亮直播间贵1600元",
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 674782,
-      "num": 1782363,
+      "num": 2709129,
       "word": "胰腺癌是最内向的癌",
       "onboard_time": 1698408279,
       "rank": 23,
@@ -683,20 +723,20 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 539066,
-      "num": 539066,
-      "word": "手机电量1%女子紧急求助110",
-      "onboard_time": 1698412900,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 538068,
       "num": 538068,
       "word": "海底捞回应140斤女生应聘洗碗工被拒",
       "onboard_time": 1698328176,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525688,
+      "num": 525688,
+      "word": "暨南大学81名新生放弃入学资格",
+      "onboard_time": 1698413438,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 503003,
@@ -737,6 +777,22 @@
       "onboard_time": 1698392678,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 482381,
+      "num": 482381,
+      "word": "你注意过有人耳朵前方的小洞吗",
+      "onboard_time": 1698414643,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 473112,
+      "num": 2611243,
+      "word": "双十一是不是卖不动了",
+      "onboard_time": 1698401746,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 465398,
@@ -836,7 +892,7 @@
     },
     {
       "raw_hot": 429233,
-      "num": 1646313,
+      "num": 2427311,
       "word": "胰腺癌一旦发现往往是中晚期",
       "onboard_time": 1698403066,
       "rank": 20,
@@ -889,14 +945,6 @@
       "onboard_time": 1698379841,
       "rank": 36,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 408518,
-      "num": 1735613,
-      "word": "双十一是不是卖不动了",
-      "onboard_time": 1698401746,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 407443,
@@ -953,14 +1001,6 @@
       "onboard_time": 1698401866,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 373625,
-      "num": 373625,
-      "word": "THE9演唱会",
-      "onboard_time": 1698370556,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 370993,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1698396517,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 327136,
+      "num": 327136,
+      "word": "谢可寅叫姐姐舞台气场",
+      "onboard_time": 1698413801,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 326596,
@@ -1499,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251824,
-      "num": 251824,
-      "word": "暨南大学81名新生放弃入学资格",
-      "onboard_time": 1698413438,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 251146,
       "num": 251146,
       "word": "美国7旬老太被咖啡烫伤获赔300万美元",
@@ -1587,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240769,
-      "num": 240769,
-      "word": "Lion",
-      "onboard_time": 1698413438,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 240444,
       "num": 239820,
       "word": "原神",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1698382423,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227378,
+      "num": 227378,
+      "word": "AG零封TES",
+      "onboard_time": 1698414462,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 226698,
@@ -1875,6 +1915,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 200204,
+      "num": 200204,
+      "word": "他猛踹玻璃将司机从起火货车中拽出",
+      "onboard_time": 1698416082,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199231,
       "num": 199231,
       "word": "陈钰琪离开唐嫣公司",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1698411819,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188071,
+      "num": 188071,
+      "word": "吉林男篮vs广东男篮",
+      "onboard_time": 1698415006,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 186070,
@@ -2187,6 +2243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172372,
+      "num": 172372,
+      "word": "货车侧翻交警朋友圈帮卖14000斤花菜",
+      "onboard_time": 1698415478,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172331,
       "num": 172331,
       "word": "胰腺癌治疗效果在肿瘤圈垫底",
@@ -2323,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155979,
+      "num": 155979,
+      "word": "AG晋级挑杯四强",
+      "onboard_time": 1698415120,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155830,
       "num": 155830,
       "word": "王一博乌镇特种兵式观剧",
@@ -2417,6 +2489,14 @@
       "onboard_time": 1698390635,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142947,
+      "num": 142947,
+      "word": "王者荣耀",
+      "onboard_time": 1698414104,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 141877,
