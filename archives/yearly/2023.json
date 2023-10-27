@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698363238194,
+  "endTime": 1698369061072,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -9,6 +9,14 @@
       "onboard_time": 1675148478,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52709316,
+      "num": 52709316,
+      "word": "李克强同志逝世",
+      "onboard_time": 1698365932,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 50503069,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1679741922,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5620154,
-      "num": 5620154,
-      "word": "云之羽空降",
-      "onboard_time": 1693651298,
-      "rank": 3,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
