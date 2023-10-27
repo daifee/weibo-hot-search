@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698390955070,
+  "endTime": 1698392049795,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -1979,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2111134,
+      "num": 441648,
+      "word": "YSL",
+      "onboard_time": 1698387517,
+      "rank": 21,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 2109433,
       "num": 2109433,
       "word": "周五",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1697379216,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1958440,
-      "num": 441648,
-      "word": "YSL",
-      "onboard_time": 1698387517,
-      "rank": 21,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 1954001,
@@ -4425,6 +4425,14 @@
       "onboard_time": 1696641514,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1489973,
+      "num": 1489973,
+      "word": "缅甸",
+      "onboard_time": 1698389556,
+      "rank": 3,
+      "category": "军事"
     },
     {
       "raw_hot": 1488671,
@@ -13467,14 +13475,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 672300,
-      "num": 672300,
-      "word": "缅甸",
-      "onboard_time": 1698389556,
-      "rank": 3,
-      "category": "军事"
-    },
-    {
       "raw_hot": 672284,
       "num": 672284,
       "word": "西安重大刑案嫌疑人被抓获",
@@ -14379,6 +14379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 637177,
+      "num": 328639,
+      "word": "上海瑞金医院持刀砍人案宣判",
+      "onboard_time": 1698391359,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636843,
       "num": 636843,
       "word": "原来薛之谦戚薇刘维早都认识了",
@@ -14713,6 +14721,14 @@
       "onboard_time": 1697330550,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 627922,
+      "num": 322312,
+      "word": "私募大佬妻子发文称其要纳二房",
+      "onboard_time": 1698390278,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 627661,
@@ -15641,6 +15657,14 @@
       "onboard_time": 1697847931,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600528,
+      "num": 381266,
+      "word": "花少5首播收视率",
+      "onboard_time": 1698386615,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 600501,
@@ -16777,14 +16801,6 @@
       "onboard_time": 1697532395,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567492,
-      "num": 381266,
-      "word": "花少5首播收视率",
-      "onboard_time": 1698386615,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 567427,
@@ -23675,6 +23691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426501,
+      "num": 378363,
+      "word": "重庆辟谣明年取消职工医保个人账户",
+      "onboard_time": 1698388716,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426432,
       "num": 360817,
       "word": "傅园慧首谈上恋综的经历",
@@ -26811,14 +26835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378363,
-      "num": 378363,
-      "word": "重庆辟谣明年取消职工医保个人账户",
-      "onboard_time": 1698388716,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378067,
       "num": 378067,
       "word": "肖战演出作品表",
@@ -27249,6 +27265,14 @@
       "onboard_time": 1697787452,
       "rank": 23,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 370993,
+      "num": 320915,
+      "word": "爸爸将娃举过顶玩耍没接住摔地上",
+      "onboard_time": 1698386375,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370774,
@@ -31515,14 +31539,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 320915,
-      "num": 320915,
-      "word": "爸爸将娃举过顶玩耍没接住摔地上",
-      "onboard_time": 1698386375,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320752,
       "num": 320752,
       "word": "林孝埈世界杯500米晋级",
@@ -33203,6 +33219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303360,
+      "num": 303360,
+      "word": "少爷和我开通官博",
+      "onboard_time": 1698391775,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303311,
       "num": 303311,
       "word": "火星情报局",
@@ -33601,6 +33625,14 @@
       "onboard_time": 1696390835,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300179,
+      "num": 300179,
+      "word": "朋友囤了七八千的餐饮券",
+      "onboard_time": 1698390337,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 300130,
@@ -36241,14 +36273,6 @@
       "onboard_time": 1696330357,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279168,
-      "num": 205931,
-      "word": "私募大佬妻子发文称其要纳二房",
-      "onboard_time": 1698390278,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 279139,
@@ -46771,6 +46795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214071,
+      "num": 214071,
+      "word": "Taylor Swift重录主打Slut",
+      "onboard_time": 1698391718,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214032,
       "num": 214032,
       "word": "冯琳气质",
@@ -51035,6 +51067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199025,
+      "num": 199025,
+      "word": "他一定是想妈妈了",
+      "onboard_time": 1698386196,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198966,
       "num": 198966,
       "word": "勇士vs马刺",
@@ -51121,14 +51161,6 @@
       "onboard_time": 1697369193,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198685,
-      "num": 198685,
-      "word": "他一定是想妈妈了",
-      "onboard_time": 1698386196,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 198675,
@@ -51345,14 +51377,6 @@
       "onboard_time": 1697519498,
       "rank": 46,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 198080,
-      "num": 198080,
-      "word": "朋友囤了七八千的餐饮券",
-      "onboard_time": 1698390337,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 198065,
@@ -55587,6 +55611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184110,
+      "num": 184110,
+      "word": "善意真的会从四面八方涌来",
+      "onboard_time": 1698391054,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184069,
       "num": 184069,
       "word": "Lana Del Rey把演唱会门票收入捐赠",
@@ -56665,6 +56697,14 @@
       "onboard_time": 1697715216,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179955,
+      "num": 179955,
+      "word": "老人通宵守ICU外医生发文获援助",
+      "onboard_time": 1698390574,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179934,
@@ -57865,6 +57905,14 @@
       "onboard_time": 1697339971,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174640,
+      "num": 174640,
+      "word": "权志龙目前疑似没有经纪公司",
+      "onboard_time": 1698390755,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 174601,
@@ -60971,6 +61019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160836,
+      "num": 160836,
+      "word": "文荣奖",
+      "onboard_time": 1698390515,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160834,
       "num": 160834,
       "word": "TMA直播",
@@ -62377,14 +62433,6 @@
       "onboard_time": 1696638216,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155010,
-      "num": 155010,
-      "word": "文荣奖",
-      "onboard_time": 1698390515,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 155001,
@@ -64121,14 +64169,6 @@
       "onboard_time": 1697023356,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145777,
-      "num": 145777,
-      "word": "权志龙目前疑似没有经纪公司",
-      "onboard_time": 1698390755,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 145776,
@@ -65905,14 +65945,6 @@
       "onboard_time": 1696374501,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136624,
-      "num": 136624,
-      "word": "老人通宵守ICU外医生发文获援助",
-      "onboard_time": 1698390574,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136570,
@@ -74315,6 +74347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34612,
+      "num": 1076667,
+      "word": "亚残运会有哪些硬核科技",
+      "onboard_time": 1698375162,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33948,
       "num": 33948,
       "word": "近5年时间记录100种花开瞬间",
@@ -75001,14 +75041,6 @@
       "onboard_time": 1696036654,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18177,
-      "num": 708606,
-      "word": "亚残运会有哪些硬核科技",
-      "onboard_time": 1698375162,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 18130,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698390955070,
+  "endTime": 1698392049795,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2111134,
+      "num": 441648,
+      "word": "YSL",
+      "onboard_time": 1698387517,
+      "rank": 21,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 2034537,
       "num": 1759567,
       "word": "看完李佳琦直播京东采销再降1500",
       "onboard_time": 1698364050,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1958440,
-      "num": 441648,
-      "word": "YSL",
-      "onboard_time": 1698387517,
-      "rank": 21,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 1899735,
@@ -145,6 +145,14 @@
       "onboard_time": 1698371446,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1489973,
+      "num": 1489973,
+      "word": "缅甸",
+      "onboard_time": 1698389556,
+      "rank": 3,
+      "category": "军事"
     },
     {
       "raw_hot": 1379918,
@@ -315,20 +323,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 672300,
-      "num": 672300,
-      "word": "缅甸",
-      "onboard_time": 1698389556,
-      "rank": 3,
-      "category": "军事"
-    },
-    {
       "raw_hot": 642717,
       "num": 370286,
       "word": "梅西中国行成都站取消",
       "onboard_time": 1698374743,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 637177,
+      "num": 328639,
+      "word": "上海瑞金医院持刀砍人案宣判",
+      "onboard_time": 1698391359,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633268,
@@ -345,6 +353,22 @@
       "onboard_time": 1698379303,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 627922,
+      "num": 322312,
+      "word": "私募大佬妻子发文称其要纳二房",
+      "onboard_time": 1698390278,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 600528,
+      "num": 381266,
+      "word": "花少5首播收视率",
+      "onboard_time": 1698386615,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 587917,
@@ -368,14 +392,6 @@
       "word": "小哪吒暴躁人设崩塌",
       "onboard_time": 1698369841,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 567492,
-      "num": 381266,
-      "word": "花少5首播收视率",
-      "onboard_time": 1698386615,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -499,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 426501,
+      "num": 378363,
+      "word": "重庆辟谣明年取消职工医保个人账户",
+      "onboard_time": 1698388716,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422743,
       "num": 422743,
       "word": "结婚前一天晚上的聊天记录",
@@ -563,20 +587,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 378363,
-      "num": 378363,
-      "word": "重庆辟谣明年取消职工医保个人账户",
-      "onboard_time": 1698388716,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373625,
       "num": 373625,
       "word": "THE9演唱会",
       "onboard_time": 1698370556,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 370993,
+      "num": 320915,
+      "word": "爸爸将娃举过顶玩耍没接住摔地上",
+      "onboard_time": 1698386375,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364246,
@@ -715,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320915,
-      "num": 320915,
-      "word": "爸爸将娃举过顶玩耍没接住摔地上",
-      "onboard_time": 1698386375,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315553,
       "num": 315553,
       "word": "六旬男子晨跑时一头栽地2女子急抢救",
@@ -763,6 +779,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 303360,
+      "num": 303360,
+      "word": "少爷和我开通官博",
+      "onboard_time": 1698391775,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303311,
       "num": 303311,
       "word": "火星情报局",
@@ -777,6 +801,14 @@
       "onboard_time": 1698330998,
       "rank": 8,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 300179,
+      "num": 300179,
+      "word": "朋友囤了七八千的餐饮券",
+      "onboard_time": 1698390337,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 297225,
@@ -809,14 +841,6 @@
       "onboard_time": 1698373004,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279168,
-      "num": 205931,
-      "word": "私募大佬妻子发文称其要纳二房",
-      "onboard_time": 1698390278,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 276482,
@@ -1051,6 +1075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 214071,
+      "num": 214071,
+      "word": "Taylor Swift重录主打Slut",
+      "onboard_time": 1698391718,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211018,
       "num": 211018,
       "word": "利拉德首秀39分",
@@ -1115,20 +1147,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198685,
-      "num": 198685,
+      "raw_hot": 199025,
+      "num": 199025,
       "word": "他一定是想妈妈了",
       "onboard_time": 1698386196,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198080,
-      "num": 198080,
-      "word": "朋友囤了七八千的餐饮券",
-      "onboard_time": 1698390337,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 194851,
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184110,
+      "num": 184110,
+      "word": "善意真的会从四面八方涌来",
+      "onboard_time": 1698391054,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183604,
       "num": 183604,
       "word": "下睫毛印章是什么",
@@ -1235,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179955,
+      "num": 179955,
+      "word": "老人通宵守ICU外医生发文获援助",
+      "onboard_time": 1698390574,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175594,
       "num": 175594,
       "word": "班主任爸爸带女儿参加诗词擂台赛",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1698384576,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 174640,
+      "num": 174640,
+      "word": "权志龙目前疑似没有经纪公司",
+      "onboard_time": 1698390755,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 172995,
@@ -1315,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160836,
+      "num": 160836,
+      "word": "文荣奖",
+      "onboard_time": 1698390515,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158787,
       "num": 158787,
       "word": "7个rapper一起走秀",
@@ -1347,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155010,
-      "num": 155010,
-      "word": "文荣奖",
-      "onboard_time": 1698390515,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148979,
       "num": 148979,
       "word": "氛围感傻瓜式卷发",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1698331475,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145777,
-      "num": 145777,
-      "word": "权志龙目前疑似没有经纪公司",
-      "onboard_time": 1698390755,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 143468,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1698367968,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 136624,
-      "num": 136624,
-      "word": "老人通宵守ICU外医生发文获援助",
-      "onboard_time": 1698390574,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133004,
@@ -1763,6 +1795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34612,
+      "num": 1076667,
+      "word": "亚残运会有哪些硬核科技",
+      "onboard_time": 1698375162,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28207,
       "num": 31897,
       "word": "刘诗诗清丽绿衣路透",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1698358998,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 18177,
-      "num": 708606,
-      "word": "亚残运会有哪些硬核科技",
-      "onboard_time": 1698375162,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 17206,
