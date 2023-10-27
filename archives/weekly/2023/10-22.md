@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/28 06:16:05
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/28 06:33:59
 </p>
 </blockquote>
 <p>
@@ -7047,6 +7047,12 @@ YG速度最快的一次（热度：232071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
+夺得世界冠军的中国面包原料是西藏青稞（热度：232013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%BB%E6%9D%BE%E7%AD%B9%E5%8F%91%E5%B8%83%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A5%E9%80%80%E6%AC%BE%E5%AE%8C%E6%88%90%E8%AF%B4%E6%98%8E%23" target="weibo">
 轻松筹发布被咬女童退款完成说明（热度：231876）
 </a>
@@ -7313,12 +7319,6 @@ AG对战TES（热度：223714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E6%8B%89%E4%BC%B8%E6%97%B6%E5%81%B7%E5%81%B7%E6%94%BE%E4%BA%86%E4%B8%AA%E5%B1%81%23" target="weibo">
 狗狗拉伸时偷偷放了个屁（热度：223581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
-夺得世界冠军的中国面包原料是西藏青稞（热度：223401）
 </a>
 </li>
 
@@ -13407,6 +13407,12 @@ E法护未来（热度：59747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
+秋冬一周不重样穿搭（热度：46684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%8C%87%E5%8D%97%23" target="weibo">
 杭州亚残运会观赛指南（热度：46038）
 </a>
@@ -13509,12 +13515,6 @@ F1（热度：36935）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
-秋冬一周不重样穿搭（热度：30841）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%A5%90%E5%AE%81%E7%9A%84%E5%8E%A8%E8%89%BA%E7%BB%9D%E6%B4%BB%23" target="weibo">
 杨祐宁的厨艺绝活（热度：30490）
 </a>
@@ -13545,6 +13545,12 @@ F1（热度：36935）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E5%AE%AB%E6%96%97%E7%89%88%23" target="weibo">
+花少5宫斗版（热度：27267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B4%B4%E5%BF%83%E6%97%85%E8%A1%8C%E6%90%AD%E5%AD%90%23" target="weibo">
 迪丽热巴贴心旅行搭子（热度：26489）
 </a>
@@ -13553,12 +13559,6 @@ F1（热度：36935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%95%BE%E5%93%88%E5%A8%9C%E6%88%96%E5%B0%86%E5%9B%9E%E5%BD%92%E4%B9%90%E5%9D%9B%23" target="weibo">
 蕾哈娜或将回归乐坛（热度：23949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E5%AE%AB%E6%96%97%E7%89%88%23" target="weibo">
-花少5宫斗版（热度：23689）
 </a>
 </li>
 

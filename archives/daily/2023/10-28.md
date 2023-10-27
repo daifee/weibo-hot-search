@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 06:16:05
+本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 06:33:59
 </p>
 </blockquote>
 <p>
@@ -202,13 +202,13 @@ Lion（热度：261435）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YSL%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
-YSL客服回应小杨哥徒弟带货被指低俗（热度：234405）
+YSL客服回应小杨哥徒弟带货被指低俗（热度：256143）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
-夺得世界冠军的中国面包原料是西藏青稞（热度：223401）
+夺得世界冠军的中国面包原料是西藏青稞（热度：232013）
 </a>
 </li>
 
@@ -358,13 +358,13 @@ Promise（热度：139681）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
-秋冬一周不重样穿搭（热度：30841）
+秋冬一周不重样穿搭（热度：46684）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E5%AE%AB%E6%96%97%E7%89%88%23" target="weibo">
-花少5宫斗版（热度：23689）
+花少5宫斗版（热度：27267）
 </a>
 </li>
 
