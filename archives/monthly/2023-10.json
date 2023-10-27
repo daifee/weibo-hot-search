@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698442439671,
+  "endTime": 1698444965565,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -75851,6 +75851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30841,
+      "num": 30841,
+      "word": "秋冬一周不重样穿搭",
+      "onboard_time": 1698443536,
+      "rank": 34,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 30490,
       "num": 437549,
       "word": "杨祐宁的厨艺绝活",
@@ -76235,6 +76243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23689,
+      "num": 27959,
+      "word": "花少5宫斗版",
+      "onboard_time": 1698438434,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23676,
       "num": 19862,
       "word": "小孩哥正在经历我的童年",
@@ -76433,14 +76449,6 @@
       "onboard_time": 1696489774,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19347,
-      "num": 19347,
-      "word": "花少5宫斗版",
-      "onboard_time": 1698438434,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 19014,
