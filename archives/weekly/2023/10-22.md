@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/28 06:33:59
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/28 07:16:16
 </p>
 </blockquote>
 <p>
@@ -1565,6 +1565,12 @@ THE9演唱会（热度：879023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%A5%82%E5%BD%A9%E7%A6%BB%E4%B8%96%23" target="weibo">
 大熊猫奂彩离世（热度：861420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
+中小学生连厕所时间都快没了（热度：860512）
 </a>
 </li>
 
@@ -3249,12 +3255,6 @@ G社拍的戚薇（热度：482214）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
-中小学生连厕所时间都快没了（热度：474838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9C%8B%E9%99%A4%E5%A4%95%E4%B8%8D%E6%94%BE%E5%81%87%23" target="weibo">
 你怎么看除夕不放假（热度：474430）
 </a>
@@ -4151,6 +4151,12 @@ SEVENTEEN回归（热度：383665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E6%99%8B%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E6%BC%94%E5%91%98%23" target="weibo">
 王一博新晋金鸡奖提名演员（热度：383579）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
+夺得世界冠军的中国面包原料是西藏青稞（热度：382846）
 </a>
 </li>
 
@@ -7047,12 +7053,6 @@ YG速度最快的一次（热度：232071）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%8E%9F%E6%96%99%E6%98%AF%E8%A5%BF%E8%97%8F%E9%9D%92%E7%A8%9E%23" target="weibo">
-夺得世界冠军的中国面包原料是西藏青稞（热度：232013）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%BB%E6%9D%BE%E7%AD%B9%E5%8F%91%E5%B8%83%E8%A2%AB%E5%92%AC%E5%A5%B3%E7%AB%A5%E9%80%80%E6%AC%BE%E5%AE%8C%E6%88%90%E8%AF%B4%E6%98%8E%23" target="weibo">
 轻松筹发布被咬女童退款完成说明（热度：231876）
 </a>
@@ -9879,6 +9879,12 @@ Vernon打乱文俊辉权顺荣cha节奏（热度：169193）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%89%87%E5%9C%BA%E6%89%93%E6%9E%AA%E8%85%BF%E8%BD%AF%E4%BD%86%E6%89%8B%E7%A8%B3%23" target="weibo">
+关晓彤片场打枪腿软但手稳（热度：168649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%8C%BF%E5%90%8D%E7%9A%84%E5%A5%BD%E5%8F%8B%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
 杨丞琳匿名的好友全场大合唱（热度：168419）
 </a>
@@ -11673,6 +11679,12 @@ NBA（热度：129584）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A6%96%E8%BD%AE%E9%81%AD%E9%81%87%E7%94%B0%E5%BF%97%E5%B8%8C%23" target="weibo">
+孙颖莎首轮遭遇田志希（热度：128967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%8A%82%E7%9B%AE%E4%BB%96%E4%BB%AC%E8%8B%A6%E7%BB%83%E4%B8%89%E5%B9%B4%E8%99%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%E5%8D%B4%E6%BB%A1%E5%9C%BA%E5%96%9D%E5%BD%A9%23" target="weibo">
 这节目他们苦练三年虽不完美却满场喝彩（热度：128915）
 </a>
@@ -12279,6 +12291,12 @@ LPL（热度：117477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
+秋冬一周不重样穿搭（热度：112021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%94%AE%E6%9C%89%E9%A2%84%E5%94%AE%E7%9A%84%E9%81%93%E7%90%86%23" target="weibo">
 预售有预售的道理（热度：111841）
 </a>
@@ -12329,6 +12347,12 @@ LPL（热度：117477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%82%B9%E9%86%92%E5%9D%90%E9%A1%B6%E6%A5%BC%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%E5%B0%91%E5%B9%B4%23" target="weibo">
 民警一句话点醒坐顶楼崩溃大哭少年（热度：110014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%87%AA%E5%B7%B1%E6%8C%96%E5%9D%91%E7%9D%A1%E8%A7%89%E7%BB%93%E6%9E%9C%E5%A1%8C%E6%96%B9%23" target="weibo">
+狗狗自己挖坑睡觉结果塌方（热度：109652）
 </a>
 </li>
 
@@ -12951,6 +12975,12 @@ iPhone15双11降价近千元（热度：84192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%88%9B%E9%80%A0%E4%BA%86%E7%94%9F%E5%AD%98%E7%A9%BA%E9%97%B4%23" target="weibo">
+谁给张雪峰创造了生存空间（热度：83793）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%80%80%E4%BC%91%E5%90%8E%E4%B8%BA%E5%A6%BB%E5%AD%90%E8%A1%A5%E4%B8%8A%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%B5%AA%E6%BC%AB%23" target="weibo">
 老人退休后为妻子补上缺失的浪漫（热度：82587）
 </a>
@@ -13179,6 +13209,12 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%A2%E4%B8%8B%E9%A1%BE%E5%AE%A2%E5%87%BA%E9%97%A8%E7%81%AD%E4%BA%86%E4%B8%AA%E7%81%AB%23" target="weibo">
+理发师丢下顾客出门灭了个火（热度：66934）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%94%B1%E5%9C%88%E7%9A%84%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1%E9%83%BD%E6%9D%A5%E8%B5%B0%E7%A7%80%E4%BA%86%23" target="weibo">
 说唱圈的半壁江山都来走秀了（热度：66503）
 </a>
@@ -13227,6 +13263,12 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%B0%91%E8%AD%A6%E5%9C%A8%E6%AD%A6%E6%B1%89%E9%A1%BA%E4%BE%BF%E6%8A%93%E4%BA%86%E4%B8%AA%E5%AB%8C%E7%8A%AF%23" target="weibo">
+江苏民警在武汉顺便抓了个嫌犯（热度：63750）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%8E%BB%E7%A6%8F%E5%BB%BA%E4%B8%80%E8%B6%9F%23" target="weibo">
 我收拾收拾去福建一趟（热度：63445）
 </a>
@@ -13241,6 +13283,12 @@ XDJ战胜AG（热度：75722）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%82%E4%B9%92%E4%B9%93%E7%90%83%E7%8E%8B%E6%8A%8A%E7%90%83%E6%8B%8D%E7%BB%91%E6%89%8B%E4%B8%8A%E6%89%93%E6%AF%94%E8%B5%9B%23" target="weibo">
 独臂乒乓球王把球拍绑手上打比赛（热度：62679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%99%B6%E5%AE%AB1%E6%AF%942%E7%83%AD%E5%88%BA%23" target="weibo">
+水晶宫1比2热刺（热度：61929）
 </a>
 </li>
 
@@ -13263,8 +13311,26 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%A4%E6%83%85%E5%A5%B3%E5%AD%90%E5%9D%9016%E6%A5%BC%E7%AA%97%E5%A4%96%E6%B6%88%E9%98%B2%E9%A3%9E%E7%BB%B3%E6%95%91%E4%BA%BA%23" target="weibo">
+伤情女子坐16楼窗外消防飞绳救人（热度：59950）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%9F%8E%E4%B8%AD%E6%9D%91%E5%86%8D%E5%88%9B%E4%B8%9A%E6%AF%8F%E6%9C%88%E5%8D%96%E4%B8%87%E5%8D%95%E5%BF%AB%E9%A4%90%23" target="weibo">
+90后城中村再创业每月卖万单快餐（热度：59776）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23E%E6%B3%95%E6%8A%A4%E6%9C%AA%E6%9D%A5%23" target="weibo">
 E法护未来（热度：59747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E6%88%8D%E8%BE%B9%E6%88%98%E5%A3%AB%E4%B8%BA90%E5%B2%81%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E7%94%BB%E5%83%8F%23" target="weibo">
+90后戍边战士为90岁抗战老兵画像（热度：58428）
 </a>
 </li>
 
@@ -13305,8 +13371,26 @@ E法护未来（热度：59747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%9D%ADGDP%E6%80%BB%E9%87%8F%E7%BB%A7%E7%BB%AD%E5%9D%90%E7%A8%B3%E6%B5%99%E6%B1%9F%E9%A6%96%E4%BD%8D%23" target="weibo">
+余杭GDP总量继续坐稳浙江首位（热度：55648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E9%A3%9E%E5%A5%94%E5%8E%BB%E5%B8%AE%E6%8E%A8%E8%BD%A6%E7%9A%84%E8%BA%AB%E5%BD%B1%E5%8F%AF%E7%9C%9F%E5%B8%85%23" target="weibo">
+他们飞奔去帮推车的身影可真帅（热度：55249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E5%B1%85%E5%AE%B6%E5%9E%8B%E7%94%B7%E5%8F%8B%23" target="weibo">
 曾舜晞居家型男友（热度：55160）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%AE%E6%A4%85%E6%8B%89%E4%B8%81%E8%88%9E%E5%A5%B3%E5%AD%A9%E8%88%9E%E5%87%BA%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F%23" target="weibo">
+轮椅拉丁舞女孩舞出美丽人生（热度：54789）
 </a>
 </li>
 
@@ -13403,12 +13487,6 @@ E法护未来（热度：59747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%A4%AA%E7%A9%BA%E8%8F%9C%E5%9B%AD%E7%9A%84%E6%A0%BD%E5%9F%B9%E7%A5%9E%E5%99%A8%23" target="weibo">
 揭秘太空菜园的栽培神器（热度：47148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
-秋冬一周不重样穿搭（热度：46684）
 </a>
 </li>
 
