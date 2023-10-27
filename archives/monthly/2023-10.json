@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698438864834,
+  "endTime": 1698441260469,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -76459,6 +76459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18004,
+      "num": 18004,
+      "word": "花少5宫斗版",
+      "onboard_time": 1698438434,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17952,
       "num": 19617,
       "word": "动漫界时代的眼泪",
@@ -76585,14 +76593,6 @@
       "onboard_time": 1697141053,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14546,
-      "num": 16419,
-      "word": "花少5宫斗版",
-      "onboard_time": 1698438434,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14539,
