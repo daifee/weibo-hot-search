@@ -1,0 +1,410 @@
+{
+  "runTime": 1698419847322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2611886,
+        "num": 2611886,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4026693,
+        "num": 2021172,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95487,
+        "num": 1495139,
+        "word": "我国将建立国家不可移动文物资源总目录",
+        "onboard_time": 1698411278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429098,
+        "num": 1429098,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511624,
+        "num": 511624,
+        "word": "中级会计成绩",
+        "onboard_time": 1698418362,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 480828,
+        "num": 480828,
+        "word": "胰腺癌是最内向的癌",
+        "onboard_time": 1698408279,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444269,
+        "num": 444269,
+        "word": "双十一是不是卖不动了",
+        "onboard_time": 1698401746,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 423123,
+        "num": 423123,
+        "word": "林孝埈男子500米晋级",
+        "onboard_time": 1698417521,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379297,
+        "num": 422761,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 317656,
+        "num": 419862,
+        "word": "外交部回应中国飞行员在南海拦截美军机",
+        "onboard_time": 1698409480,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3999229,
+        "num": 417300,
+        "word": "过山车追尾",
+        "onboard_time": 1698417344,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1577614,
+        "num": 415694,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1211718,
+        "num": 415073,
+        "word": "手机电量1%女子迷路紧急求助110",
+        "onboard_time": 1698412900,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159451,
+        "num": 411518,
+        "word": "许佳琪 假发",
+        "onboard_time": 1698413923,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1014884,
+        "num": 410205,
+        "word": "我是歌手 重启",
+        "onboard_time": 1698410259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 855189,
+        "num": 407116,
+        "word": "THE9合体再跳YESOK",
+        "onboard_time": 1698416802,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 818034,
+        "num": 406414,
+        "word": "日本年轻人开始流行周末婚",
+        "onboard_time": 1698417942,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 648515,
+        "num": 404435,
+        "word": "吴尊友与癌症搏斗了两年",
+        "onboard_time": 1698404610,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623607,
+        "num": 401717,
+        "word": "导演马秉煜因病去世",
+        "onboard_time": 1698406781,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618186,
+        "num": 400275,
+        "word": "虞书欣斯芬克斯直拍",
+        "onboard_time": 1698409540,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 585575,
+        "num": 397421,
+        "word": "医院回应深圳发生过山车追尾事故",
+        "onboard_time": 1698419802,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584526,
+        "num": 396041,
+        "word": "吴尊友讣告",
+        "onboard_time": 1698402045,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562856,
+        "num": 394050,
+        "word": "THE9女团配置",
+        "onboard_time": 1698411341,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5538933,
+        "num": 391639,
+        "word": "深圳欢乐谷",
+        "onboard_time": 1698414763,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490775,
+        "num": 389691,
+        "word": "Lion",
+        "onboard_time": 1698413438,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 445077,
+        "num": 388272,
+        "word": "暨南大学81名新生放弃入学资格",
+        "onboard_time": 1698413438,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387093,
+        "num": 387093,
+        "word": "你注意过有人耳朵前方的小洞吗",
+        "onboard_time": 1698414643,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384928,
+        "num": 384928,
+        "word": "村支书被曝强迫留守妇女发生关系",
+        "onboard_time": 1698407439,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358520,
+        "num": 358520,
+        "word": "Promise",
+        "onboard_time": 1698416745,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317219,
+        "num": 317219,
+        "word": "孩子休克父母急救做错奶奶冷静救回",
+        "onboard_time": 1698417641,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290091,
+        "num": 290091,
+        "word": "虞书欣YESOK直拍",
+        "onboard_time": 1698418601,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286315,
+        "num": 286315,
+        "word": "安崎麦怎么回事",
+        "onboard_time": 1698411998,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286053,
+        "num": 286053,
+        "word": "两家医院涉嫌骗保3.3亿143人被抓",
+        "onboard_time": 1698416381,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270658,
+        "num": 270658,
+        "word": "吴尊友因胰腺癌去世",
+        "onboard_time": 1698398094,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260323,
+        "num": 260323,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 34,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 246551,
+        "num": 246551,
+        "word": "张碧晨 南昌",
+        "onboard_time": 1698417582,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246500,
+        "num": 246500,
+        "word": "喻言演唱会高音",
+        "onboard_time": 1698411219,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243439,
+        "num": 243439,
+        "word": "生理性喜欢",
+        "onboard_time": 1698406067,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220260,
+        "num": 220260,
+        "word": "Dino崔然竣Hoshi Challenge",
+        "onboard_time": 1698419206,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213707,
+        "num": 213707,
+        "word": "迪丽热巴谈对秦岚初印象",
+        "onboard_time": 1698412119,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211933,
+        "num": 211933,
+        "word": "薛之谦 清远",
+        "onboard_time": 1698419503,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210493,
+        "num": 210493,
+        "word": "谢可寅叫姐姐舞台气场",
+        "onboard_time": 1698413801,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202886,
+        "num": 202886,
+        "word": "很顶的下班迅速回血方式",
+        "onboard_time": 1698417762,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200827,
+        "num": 200827,
+        "word": "印度军队向巴基斯坦开火",
+        "onboard_time": 1698378701,
+        "rank": 43,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 196730,
+        "num": 196730,
+        "word": "地铁安检让试喝一口乘客索赔4.8万元",
+        "onboard_time": 1698400305,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193214,
+        "num": 193214,
+        "word": "货车侧翻警民伸援手买光车上花菜",
+        "onboard_time": 1698419326,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181937,
+        "num": 181937,
+        "word": "处女座真的很容易内耗",
+        "onboard_time": 1698409960,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 177348,
+        "word": "吴尊友去世不举行告别仪式",
+        "onboard_time": 1698401984,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158353,
+        "num": 158353,
+        "word": "法媒惊讶中国队赢了世界面包大赛",
+        "onboard_time": 1698412900,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156024,
+        "num": 156024,
+        "word": "KPL",
+        "onboard_time": 1698419442,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}

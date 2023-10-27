@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698417254443,
+  "endTime": 1698419847322,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -99,6 +99,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 5538933,
+      "num": 2535658,
+      "word": "深圳欢乐谷",
+      "onboard_time": 1698414763,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4934227,
       "num": 1024319,
       "word": "吴尊友讣告",
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3999229,
+      "num": 417300,
+      "word": "过山车追尾",
+      "onboard_time": 1698417344,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3752811,
       "num": 365688,
       "word": "男子性侵13岁女孩聊天称老婆要从小培养",
@@ -145,14 +161,6 @@
       "onboard_time": 1698130413,
       "rank": 0,
       "category": "网红,美妆"
-    },
-    {
-      "raw_hot": 3460123,
-      "num": 2535658,
-      "word": "深圳欢乐谷",
-      "onboard_time": 1698414763,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3322574,
@@ -1235,6 +1243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1211718,
+      "num": 415073,
+      "word": "手机电量1%女子迷路紧急求助110",
+      "onboard_time": 1698412900,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1202648,
       "num": 1055376,
       "word": "谢娜让杨紫带何炅再翻红一次",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1698216518,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 818034,
+      "num": 406414,
+      "word": "日本年轻人开始流行周末婚",
+      "onboard_time": 1698417942,
+      "rank": 16,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 816275,
@@ -3291,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585575,
+      "num": 397421,
+      "word": "医院回应深圳发生过山车追尾事故",
+      "onboard_time": 1698419802,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584243,
       "num": 584243,
       "word": "成功的羊毛卷 从头顶开始烫中卷",
@@ -3873,6 +3905,14 @@
       "onboard_time": 1698037846,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 511624,
+      "num": 511624,
+      "word": "中级会计成绩",
+      "onboard_time": 1698418362,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 511076,
@@ -4867,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423123,
+      "num": 423123,
+      "word": "林孝埈男子500米晋级",
+      "onboard_time": 1698417521,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422885,
       "num": 422885,
       "word": "电影人生大事将复映",
@@ -5787,6 +5835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358520,
+      "num": 358520,
+      "word": "Promise",
+      "onboard_time": 1698416745,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 357636,
       "num": 250297,
       "word": "王俊凯新片野孩子看点推介",
@@ -6513,6 +6569,14 @@
       "onboard_time": 1698248258,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317219,
+      "num": 317219,
+      "word": "孩子休克父母急救做错奶奶冷静救回",
+      "onboard_time": 1698417641,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317058,
@@ -7251,6 +7315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290091,
+      "num": 290091,
+      "word": "虞书欣YESOK直拍",
+      "onboard_time": 1698418601,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 289862,
       "num": 289862,
       "word": "电影瞒天过海定档",
@@ -7377,6 +7449,14 @@
       "onboard_time": 1698033815,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286053,
+      "num": 286053,
+      "word": "两家医院涉嫌骗保3.3亿143人被抓",
+      "onboard_time": 1698416381,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285830,
@@ -8595,14 +8675,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 248656,
-      "num": 248656,
-      "word": "Promise",
-      "onboard_time": 1698416745,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 248583,
       "num": 248583,
       "word": "丝巾鱼骨辫",
@@ -8689,6 +8761,14 @@
       "onboard_time": 1698016587,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246551,
+      "num": 246551,
+      "word": "张碧晨 南昌",
+      "onboard_time": 1698417582,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 245916,
@@ -9659,14 +9739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221886,
-      "num": 221886,
-      "word": "两家医院涉嫌骗保3.3亿143人被抓",
-      "onboard_time": 1698416381,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221742,
       "num": 178532,
       "word": "大学生体测现201314",
@@ -9769,6 +9841,14 @@
       "onboard_time": 1697968290,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220260,
+      "num": 220260,
+      "word": "Dino崔然竣Hoshi Challenge",
+      "onboard_time": 1698419206,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220185,
@@ -10113,6 +10193,14 @@
       "onboard_time": 1698188664,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211933,
+      "num": 211933,
+      "word": "薛之谦 清远",
+      "onboard_time": 1698419503,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 211891,
@@ -10657,6 +10745,14 @@
       "onboard_time": 1698117096,
       "rank": 41,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 202886,
+      "num": 202886,
+      "word": "很顶的下班迅速回血方式",
+      "onboard_time": 1698417762,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 202742,
@@ -11377,6 +11473,14 @@
       "onboard_time": 1698141392,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193214,
+      "num": 193214,
+      "word": "货车侧翻警民伸援手买光车上花菜",
+      "onboard_time": 1698419326,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193198,
