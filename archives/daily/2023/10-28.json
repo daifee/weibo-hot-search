@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698423696558,
+  "endTime": 1698424654076,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -75,20 +75,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1114953,
+      "num": 1114953,
+      "word": "大虞海棠",
+      "onboard_time": 1698421898,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 890576,
       "num": 1577560,
       "word": "吴尊友逝世",
       "onboard_time": 1698396773,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789853,
-      "num": 789853,
-      "word": "大虞海棠",
-      "onboard_time": 1698421898,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 686986,
@@ -243,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234405,
+      "num": 234405,
+      "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+      "onboard_time": 1698395616,
+      "rank": 33,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 223401,
       "num": 223401,
       "word": "夺得世界冠军的中国面包原料是西藏青稞",
@@ -257,14 +265,6 @@
       "onboard_time": 1698411998,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 219797,
-      "num": 219797,
-      "word": "YSL客服回应小杨哥徒弟带货被指低俗",
-      "onboard_time": 1698395616,
-      "rank": 33,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 209774,
@@ -289,6 +289,14 @@
       "onboard_time": 1698420763,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 181924,
+      "num": 181924,
+      "word": "13岁哥哥见新生妹妹紧张到无从下手",
+      "onboard_time": 1698423932,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176133,
@@ -393,6 +401,14 @@
       "onboard_time": 1698406244,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95802,
+      "num": 95802,
+      "word": "对刘雨昕的lion没有抵抗力",
+      "onboard_time": 1698411636,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 64602,

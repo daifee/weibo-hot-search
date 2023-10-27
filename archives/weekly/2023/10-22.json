@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698423696558,
+  "endTime": 1698424654076,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1114953,
+      "num": 1114953,
+      "word": "大虞海棠",
+      "onboard_time": 1698421898,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1109715,
       "num": 641060,
       "word": "WBG掉入瑞士轮生死局",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1698210702,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 789853,
-      "num": 789853,
-      "word": "大虞海棠",
-      "onboard_time": 1698421898,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 785791,
@@ -12361,6 +12361,14 @@
       "onboard_time": 1698282577,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181924,
+      "num": 181924,
+      "word": "13岁哥哥见新生妹妹紧张到无从下手",
+      "onboard_time": 1698423932,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181900,
