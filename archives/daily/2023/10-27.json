@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698388515756,
+  "endTime": 1698390955070,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -51,6 +51,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2231147,
+      "num": 1905056,
+      "word": "缅北多地爆发激烈战事",
+      "onboard_time": 1698386916,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 2229038,
       "num": 2229038,
       "word": "拜登下令对叙利亚境内发动空袭",
@@ -75,16 +83,16 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1905056,
-      "num": 1905056,
-      "word": "缅北多地爆发激烈战事",
-      "onboard_time": 1698386916,
-      "rank": 3,
-      "category": "军事"
+      "raw_hot": 1958440,
+      "num": 441648,
+      "word": "YSL",
+      "onboard_time": 1698387517,
+      "rank": 21,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 1899735,
-      "num": 388259,
+      "num": 429936,
       "word": "女生面试3轮问工资到手1900被气笑",
       "onboard_time": 1698382121,
       "rank": 11,
@@ -251,28 +259,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 855193,
-      "num": 855193,
-      "word": "约旦王后为巴勒斯坦人发声",
-      "onboard_time": 1698385356,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 808982,
-      "num": 385062,
+      "raw_hot": 866014,
+      "num": 416481,
       "word": "小杨哥徒弟回应带货YSL被网嘲低级",
       "onboard_time": 1698385058,
       "rank": 13,
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 803139,
-      "num": 383949,
-      "word": "YSL",
-      "onboard_time": 1698387517,
-      "rank": 21,
-      "category": "美妆,时尚"
+      "raw_hot": 855193,
+      "num": 855193,
+      "word": "约旦王后为巴勒斯坦人发声",
+      "onboard_time": 1698385356,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 774194,
@@ -307,6 +307,22 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 684381,
+      "num": 407899,
+      "word": "辛巴称李佳琦成平台竞争的牺牲品",
+      "onboard_time": 1698387635,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 672300,
+      "num": 672300,
+      "word": "缅甸",
+      "onboard_time": 1698389556,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 642717,
       "num": 370286,
       "word": "梅西中国行成都站取消",
@@ -315,20 +331,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633268,
+      "num": 614362,
+      "word": "以色列要求俄罗斯驱逐哈马斯",
+      "onboard_time": 1698386254,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 629325,
       "num": 418520,
       "word": "为什么很多癌症来临前不痛不痒",
       "onboard_time": 1698379303,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 614362,
-      "num": 614362,
-      "word": "以色列要求俄罗斯驱逐哈马斯",
-      "onboard_time": 1698386254,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 587917,
@@ -352,6 +368,14 @@
       "word": "小哪吒暴躁人设崩塌",
       "onboard_time": 1698369841,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567492,
+      "num": 381266,
+      "word": "花少5首播收视率",
+      "onboard_time": 1698386615,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515354,
-      "num": 381266,
-      "word": "花少5首播收视率",
-      "onboard_time": 1698386615,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503003,
       "num": 4873732,
       "word": "小米14Pro纯钛",
@@ -417,6 +433,14 @@
       "onboard_time": 1698368488,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 465398,
+      "num": 465398,
+      "word": "国家医保局辟谣医保费不再划入个人账户",
+      "onboard_time": 1698388177,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463622,
@@ -539,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378363,
+      "num": 378363,
+      "word": "重庆辟谣明年取消职工医保个人账户",
+      "onboard_time": 1698388716,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373625,
       "num": 373625,
       "word": "THE9演唱会",
@@ -611,14 +643,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 352442,
-      "num": 352442,
-      "word": "辛巴称李佳琦成平台竞争的牺牲品",
-      "onboard_time": 1698387635,
-      "rank": 45,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 351104,
       "num": 5655421,
       "word": "民警10分钟帮村民抢收2吨玉米",
@@ -689,6 +713,14 @@
       "onboard_time": 1698383262,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320915,
+      "num": 320915,
+      "word": "爸爸将娃举过顶玩耍没接住摔地上",
+      "onboard_time": 1698386375,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315553,
@@ -779,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279168,
+      "num": 205931,
+      "word": "私募大佬妻子发文称其要纳二房",
+      "onboard_time": 1698390278,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 276482,
       "num": 276482,
       "word": "我爸现在逃避问题的办法很多",
@@ -809,6 +849,14 @@
       "onboard_time": 1698365138,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262475,
+      "num": 262475,
+      "word": "两男子当街多次踢倒拾荒老人并殴打",
+      "onboard_time": 1698388896,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 261954,
@@ -923,6 +971,14 @@
       "category": "旅游,电影"
     },
     {
+      "raw_hot": 232993,
+      "num": 204881,
+      "word": "印度警察给蛇做人工呼吸",
+      "onboard_time": 1698389373,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231876,
       "num": 231876,
       "word": "轻松筹发布被咬女童退款完成说明",
@@ -964,7 +1020,7 @@
     },
     {
       "raw_hot": 222211,
-      "num": 204016,
+      "num": 216072,
       "word": "男子开车看手机撞翻人下车一看是母亲",
       "onboard_time": 1698387095,
       "rank": 30,
@@ -977,14 +1033,6 @@
       "onboard_time": 1698365016,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217754,
-      "num": 217754,
-      "word": "爸爸将娃举过顶玩耍没接住摔地上",
-      "onboard_time": 1698386375,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215155,
@@ -1043,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202151,
-      "num": 202151,
-      "word": "国家医保局辟谣医保费不再划入个人账户",
-      "onboard_time": 1698388177,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201034,
       "num": 201034,
       "word": "部落冲突",
@@ -1065,6 +1105,30 @@
       "onboard_time": 1698312814,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199167,
+      "num": 199167,
+      "word": "赤狐魅语",
+      "onboard_time": 1698390337,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 198685,
+      "num": 198685,
+      "word": "他一定是想妈妈了",
+      "onboard_time": 1698386196,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198080,
+      "num": 198080,
+      "word": "朋友囤了七八千的餐饮券",
+      "onboard_time": 1698390337,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 194851,
@@ -1107,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187152,
-      "num": 187152,
-      "word": "他一定是想妈妈了",
-      "onboard_time": 1698386196,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186070,
       "num": 186070,
       "word": "医院称小孩操作拍胸片有误会",
@@ -1139,6 +1195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 183273,
+      "num": 183273,
+      "word": "金韩彬回归主打LOVED",
+      "onboard_time": 1698390157,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182128,
       "num": 182128,
       "word": "爸爸记录女儿小学到初中放学的变化",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1698386677,
       "rank": 33,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 180142,
+      "num": 180142,
+      "word": "小学生被困电梯用电话手表报警",
+      "onboard_time": 1698390635,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175594,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1698387335,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 170237,
+      "num": 170237,
+      "word": "支原体肺炎热点解答",
+      "onboard_time": 1698390337,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169634,
@@ -1267,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155010,
+      "num": 155010,
+      "word": "文荣奖",
+      "onboard_time": 1698390515,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148979,
       "num": 148979,
       "word": "氛围感傻瓜式卷发",
@@ -1289,6 +1377,22 @@
       "onboard_time": 1698331475,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145777,
+      "num": 145777,
+      "word": "权志龙目前疑似没有经纪公司",
+      "onboard_time": 1698390755,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143468,
+      "num": 143468,
+      "word": "运动员用脚脱衣熟练得让人心疼",
+      "onboard_time": 1698390635,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 141877,
@@ -1321,6 +1425,14 @@
       "onboard_time": 1698367968,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136624,
+      "num": 136624,
+      "word": "老人通宵守ICU外医生发文获援助",
+      "onboard_time": 1698390574,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133004,
@@ -1387,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123846,
+      "num": 123846,
+      "word": "智力受损消防员妻子回应网友关心",
+      "onboard_time": 1698388479,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123372,
       "num": 138073,
       "word": "赵子豪要结婚了",
@@ -1401,14 +1521,6 @@
       "onboard_time": 1698323433,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 122828,
-      "num": 122828,
-      "word": "智力受损消防员妻子回应网友关心",
-      "onboard_time": 1698388479,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119153,
@@ -1523,6 +1635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85191,
+      "num": 348278,
+      "word": "F1世界冠军共创中国车",
+      "onboard_time": 1698388479,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84382,
       "num": 94508,
       "word": "钟楚曦回复黑评",
@@ -1627,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59177,
-      "num": 114607,
-      "word": "F1世界冠军共创中国车",
-      "onboard_time": 1698388479,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 48153,
       "num": 47427,
       "word": "林心如露腰卫衣",
@@ -1665,6 +1777,14 @@
       "onboard_time": 1698358998,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 18177,
+      "num": 708606,
+      "word": "亚残运会有哪些硬核科技",
+      "onboard_time": 1698375162,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 17206,
