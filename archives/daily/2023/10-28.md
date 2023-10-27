@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 00:37:34
+本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 01:13:31
 </p>
 </blockquote>
 <p>
@@ -165,6 +165,12 @@ THE9合体再跳YESOK（热度：348650）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E8%A7%81%E6%96%B0%E7%94%9F%E5%A6%B9%E5%A6%B9%E7%B4%A7%E5%BC%A0%E5%88%B0%E6%97%A0%E4%BB%8E%E4%B8%8B%E6%89%8B%23" target="weibo">
+13岁哥哥见新生妹妹紧张到无从下手（热度：297603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A681%E5%90%8D%E6%96%B0%E7%94%9F%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC%23" target="weibo">
 暨南大学81名新生放弃入学资格（热度：296540）
 </a>
@@ -231,12 +237,6 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：234405）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E8%A7%81%E6%96%B0%E7%94%9F%E5%A6%B9%E5%A6%B9%E7%B4%A7%E5%BC%A0%E5%88%B0%E6%97%A0%E4%BB%8E%E4%B8%8B%E6%89%8B%23" target="weibo">
-13岁哥哥见新生妹妹紧张到无从下手（热度：181924）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%82%B2%E5%A4%A9%E5%A4%AA%E5%AE%A0%E4%BA%86%23" target="weibo">
 花傲天太宠了（热度：176133）
 </a>
@@ -245,6 +245,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：234405）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%E6%BC%94%E5%94%B1%E4%BC%9A%E9%AB%98%E9%9F%B3%23" target="weibo">
 喻言演唱会高音（热度：176129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23THE9%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+THE9演唱会（热度：160664）
 </a>
 </li>
 
@@ -317,6 +323,12 @@ Promise（热度：139681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%88%98%E9%9B%A8%E6%98%95%E7%9A%84lion%E6%B2%A1%E6%9C%89%E6%8A%B5%E6%8A%97%E5%8A%9B%23" target="weibo">
 对刘雨昕的lion没有抵抗力（热度：95802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%AA%92%E6%83%8A%E8%AE%B6%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%A2%E4%BA%86%E4%B8%96%E7%95%8C%E9%9D%A2%E5%8C%85%E5%A4%A7%E8%B5%9B%23" target="weibo">
+法媒惊讶中国队赢了世界面包大赛（热度：70622）
 </a>
 </li>
 
