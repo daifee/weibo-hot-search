@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698433934906,
+  "endTime": 1698435247504,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -457,6 +457,14 @@
       "onboard_time": 1698427223,
       "rank": 48,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 17489,
+      "num": 19617,
+      "word": "动漫界时代的眼泪",
+      "onboard_time": 1698434775,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     }
   ],
   "hotgov_list": [
