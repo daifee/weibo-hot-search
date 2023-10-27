@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/10/27 17:16:36
+本榜单时间：2023/01/01 00:23:37 ~ 2023/10/27 17:34:09
 </p>
 </blockquote>
 <p>
@@ -969,6 +969,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
+吴尊友因胰腺癌去世（热度：8995404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%23" target="weibo">
 柯洁逆转（热度：8993178）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B1%86%E7%93%A3%E4%B8%BB%E9%A1%B5%E6%AD%A3%E5%B8%B8%E4%BA%86%23" target="weibo">
 蔡徐坤豆瓣主页正常了（热度：5712927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%23" target="weibo">
-外星人（热度：5696872）
 </a>
 </li>
 

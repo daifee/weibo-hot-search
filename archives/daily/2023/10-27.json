@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698398196070,
+  "endTime": 1698399249261,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 18847604,
-      "num": 3014608,
+      "num": 4072780,
       "word": "吴尊友逝世",
       "onboard_time": 1698396773,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8995404,
+      "num": 771557,
+      "word": "吴尊友因胰腺癌去世",
+      "onboard_time": 1698398094,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1698378701,
       "rank": 1,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 3607405,
-      "num": 771557,
-      "word": "吴尊友因胰腺癌去世",
-      "onboard_time": 1698398094,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3012354,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1801521,
-      "num": 1489973,
+      "num": 1542135,
       "word": "缅甸",
       "onboard_time": 1698389556,
       "rank": 3,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098886,
+      "num": 1098886,
+      "word": "外交部呼吁缅甸有关方面尽快停火止战",
+      "onboard_time": 1698395855,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1056106,
       "num": 1056106,
       "word": "张云龙快碎了",
@@ -305,14 +313,6 @@
       "onboard_time": 1698368029,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 874726,
-      "num": 874726,
-      "word": "外交部呼吁缅甸有关方面尽快停火止战",
-      "onboard_time": 1698395855,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 866014,
@@ -371,7 +371,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 705644,
+      "raw_hot": 724625,
       "num": 705644,
       "word": "老师晒女生每天戴一个显眼包发卡",
       "onboard_time": 1698394955,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 600528,
-      "num": 487675,
+      "num": 590086,
       "word": "花少5首播收视率",
       "onboard_time": 1698386615,
       "rank": 14,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451652,
+      "num": 451652,
+      "word": "柳智敏说其他kpop组合经常吵架",
+      "onboard_time": 1698397845,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448827,
       "num": 448827,
       "word": "接种HPV疫苗是宫颈癌预防的第一步",
@@ -659,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 382035,
-      "num": 382035,
-      "word": "柳智敏说其他kpop组合经常吵架",
-      "onboard_time": 1698397845,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 373625,
       "num": 373625,
       "word": "THE9演唱会",
@@ -763,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346065,
+      "num": 346065,
+      "word": "徐进",
+      "onboard_time": 1698397971,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 345679,
       "num": 4801755,
       "word": "直播间卖的玉到底是真是假",
@@ -801,6 +809,14 @@
       "onboard_time": 1698379303,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329905,
+      "num": 329905,
+      "word": "以色列",
+      "onboard_time": 1698396517,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 325410,
@@ -857,6 +873,14 @@
       "onboard_time": 1698371508,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304598,
+      "num": 304598,
+      "word": "苏有朋去披荆斩棘是谢娜邀请的",
+      "onboard_time": 1698398572,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 303405,
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286928,
+      "num": 286928,
+      "word": "6旬父亲烤地瓜20年供儿子硕士毕业",
+      "onboard_time": 1698397369,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276482,
       "num": 276482,
       "word": "我爸现在逃避问题的办法很多",
@@ -945,14 +977,6 @@
       "onboard_time": 1698368547,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 266228,
-      "num": 266228,
-      "word": "以色列",
-      "onboard_time": 1698396517,
-      "rank": 24,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 263774,
@@ -977,14 +1001,6 @@
       "onboard_time": 1698388896,
       "rank": 24,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 262084,
-      "num": 262084,
-      "word": "6旬父亲烤地瓜20年供儿子硕士毕业",
-      "onboard_time": 1698397369,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261954,
@@ -1163,12 +1179,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224382,
+      "num": 224382,
+      "word": "漫长的季节网飞版预告片",
+      "onboard_time": 1698398511,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222211,
       "num": 216072,
       "word": "男子开车看手机撞翻人下车一看是母亲",
       "onboard_time": 1698387095,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221391,
+      "num": 221391,
+      "word": "咒术回战 长发五条悟",
+      "onboard_time": 1698398810,
+      "rank": 32,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 218367,
+      "num": 218367,
+      "word": "天官赐福第二季名场面",
+      "onboard_time": 1698398988,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 217970,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1698375281,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209066,
+      "num": 209066,
+      "word": "阴阳师 剧情",
+      "onboard_time": 1698398392,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 208627,
@@ -1291,6 +1339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198065,
+      "num": 198065,
+      "word": "奶茶店有必要24小时营业吗",
+      "onboard_time": 1698396096,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 197306,
+      "num": 197306,
+      "word": "一花 手下败将而已",
+      "onboard_time": 1698398209,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194851,
       "num": 194851,
       "word": "她是被互联网拯救的",
@@ -1305,14 +1369,6 @@
       "onboard_time": 1698394296,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 193699,
-      "num": 193699,
-      "word": "奶茶店有必要24小时营业吗",
-      "onboard_time": 1698396096,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 193456,
@@ -1499,6 +1555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 170238,
+      "num": 170238,
+      "word": "胰腺癌",
+      "onboard_time": 1698399226,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170237,
       "num": 170237,
       "word": "支原体肺炎热点解答",
@@ -1555,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159238,
-      "num": 159238,
-      "word": "徐进",
-      "onboard_time": 1698397971,
-      "rank": 38,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 158787,
       "num": 158787,
       "word": "7个rapper一起走秀",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1698374440,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 156752,
+      "num": 156752,
+      "word": "妈妈10年20本日记唤醒植物人女儿",
+      "onboard_time": 1698395974,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155830,
@@ -1595,12 +1659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153340,
-      "num": 153340,
-      "word": "妈妈10年20本日记唤醒植物人女儿",
-      "onboard_time": 1698395974,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 154988,
+      "num": 154988,
+      "word": "大学生有自己的微博之夜",
+      "onboard_time": 1698398332,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 149113,
+      "num": 149113,
+      "word": "EXO团站 爱彼此更爱自己",
+      "onboard_time": 1698399170,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 148979,
@@ -2027,6 +2099,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 60752,
+      "num": 176363,
+      "word": "被现在的厨房惊到了",
+      "onboard_time": 1698398751,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 59747,
       "num": 2700095,
       "word": "E法护未来",
@@ -2052,7 +2132,7 @@
     },
     {
       "raw_hot": 35306,
-      "num": 1683621,
+      "num": 2036680,
       "word": "亚残运会有哪些硬核科技",
       "onboard_time": 1698375162,
       "rank": 2,
@@ -2092,6 +2172,9 @@
     },
     {
       "word": "#一次看完中国航天史#"
+    },
+    {
+      "word": "#一图看懂神舟与天舟有何不同#"
     }
   ]
 }

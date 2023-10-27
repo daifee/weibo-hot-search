@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698398196070,
+  "endTime": 1698399249261,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 18847604,
-      "num": 3014608,
+      "num": 4072780,
       "word": "吴尊友逝世",
       "onboard_time": 1698396773,
       "rank": 1,
@@ -1275,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8995404,
+      "num": 771557,
+      "word": "吴尊友因胰腺癌去世",
+      "onboard_time": 1698398094,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8993178,
       "num": 8960738,
       "word": "柯洁逆转",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1688265329,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5696872,
-      "num": 1378769,
-      "word": "外星人",
-      "onboard_time": 1687514493,
-      "rank": 19,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
