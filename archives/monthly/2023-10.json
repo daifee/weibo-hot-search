@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698437849083,
+  "endTime": 1698438864834,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -76585,6 +76585,14 @@
       "onboard_time": 1697141053,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14546,
+      "num": 16419,
+      "word": "花少5宫斗版",
+      "onboard_time": 1698438434,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 14539,
