@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698392049795,
+  "endTime": 1698394873423,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -131,6 +131,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1526883,
+      "num": 322312,
+      "word": "私募大佬妻子发文称其要纳二房",
+      "onboard_time": 1698390278,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1512559,
       "num": 1420515,
       "word": "杨紫聊左耳被苏有朋二次伤害",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1024114,
+      "num": 292607,
+      "word": "权志龙李善均被禁止出境",
+      "onboard_time": 1698392316,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1002551,
       "num": 1002551,
       "word": "警方通报打死柯基男子被5人滋扰",
@@ -281,6 +297,14 @@
       "onboard_time": 1698385356,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 843334,
+      "num": 328639,
+      "word": "上海瑞金医院持刀砍人案宣判",
+      "onboard_time": 1698391359,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 774194,
@@ -331,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 637177,
-      "num": 328639,
-      "word": "上海瑞金医院持刀砍人案宣判",
-      "onboard_time": 1698391359,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 633268,
       "num": 614362,
       "word": "以色列要求俄罗斯驱逐哈马斯",
@@ -353,14 +369,6 @@
       "onboard_time": 1698379303,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 627922,
-      "num": 322312,
-      "word": "私募大佬妻子发文称其要纳二房",
-      "onboard_time": 1698390278,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 600528,
@@ -577,6 +585,14 @@
       "onboard_time": 1698381346,
       "rank": 9,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 388505,
+      "num": 276878,
+      "word": "研究称每天8千步可降低早死风险",
+      "onboard_time": 1698392678,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 383655,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 232993,
-      "num": 204881,
+      "num": 217757,
       "word": "印度警察给蛇做人工呼吸",
       "onboard_time": 1698389373,
       "rank": 32,
@@ -1051,12 +1067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217970,
+      "num": 192326,
+      "word": "像绸缎一样的头发",
+      "onboard_time": 1698393996,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 217856,
       "num": 217856,
       "word": "匪我思存理解的BE",
       "onboard_time": 1698365016,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215944,
+      "num": 215944,
+      "word": "胡夏 抢票",
+      "onboard_time": 1698394538,
+      "rank": 25,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 215155,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1698381641,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207614,
+      "num": 207614,
+      "word": "一根发簪盘出古风发型",
+      "onboard_time": 1698394056,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 207177,
@@ -1275,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179607,
+      "num": 179607,
+      "word": "丸子头的三种扎法",
+      "onboard_time": 1698394296,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 175594,
       "num": 175594,
       "word": "班主任爸爸带女儿参加诗词擂台赛",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1698390755,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174159,
+      "num": 174159,
+      "word": "DK对战GAM",
+      "onboard_time": 1698394655,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 172995,
@@ -1427,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145126,
+      "num": 145126,
+      "word": "男孩碎玻璃卡喉交警急得一路喊话",
+      "onboard_time": 1698394415,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143468,
       "num": 143468,
       "word": "运动员用脚脱衣熟练得让人心疼",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1698336031,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132108,
+      "num": 132108,
+      "word": "论整活谁比得过大熊猫",
+      "onboard_time": 1698394477,
+      "rank": 42,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 131962,
@@ -1555,6 +1627,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 119897,
+      "num": 119897,
+      "word": "孙阳 一个和四个无比真挚",
+      "onboard_time": 1698384336,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119153,
       "num": 119153,
       "word": "农村妮是千万个妈妈的缩影",
@@ -1569,6 +1649,22 @@
       "onboard_time": 1698333634,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115379,
+      "num": 115379,
+      "word": "江苏监狱轻奢风普法片",
+      "onboard_time": 1698392316,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114117,
+      "num": 114117,
+      "word": "护肤品专柜折扣不输线上平台",
+      "onboard_time": 1698392136,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 106147,
@@ -1795,7 +1891,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 34612,
+      "raw_hot": 35306,
       "num": 1076667,
       "word": "亚残运会有哪些硬核科技",
       "onboard_time": 1698375162,
