@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 22:15:30
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 22:34:14
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8%23" target="weibo">
 日本海啸（热度：3472438）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%23" target="weibo">
+深圳欢乐谷（热度：3460123）
 </a>
 </li>
 
@@ -861,6 +867,12 @@ BIGBANG五名成员四名涉毒（热度：2534048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F1%25%E5%A5%B3%E5%AD%90%E7%B4%A7%E6%80%A5%E6%B1%82%E5%8A%A9110%23" target="weibo">
+手机电量1%女子紧急求助110（热度：2531885）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%23" target="weibo">
 江歌妈妈已成立传媒公司（热度：2529963）
 </a>
@@ -999,12 +1011,6 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F1%25%E5%A5%B3%E5%AD%90%E7%B4%A7%E6%80%A5%E6%B1%82%E5%8A%A9110%23" target="weibo">
-手机电量1%女子紧急求助110（热度：2403102）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23" target="weibo">
 赵继伟道歉（热度：2401767）
 </a>
@@ -1091,12 +1097,6 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%AB%82%E8%B0%88%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%87%BA%E8%BD%A8%23" target="weibo">
 贝嫂谈贝克汉姆出轨（热度：2340387）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%23" target="weibo">
-深圳欢乐谷（热度：2337285）
 </a>
 </li>
 
@@ -1571,6 +1571,12 @@ YSL（热度：2111134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
 孙颖莎vs张本美和（热度：2106615）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%89%93%E6%9E%B6%E7%94%A8%E6%88%B7%E7%8B%82%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
+京东李佳琦打架用户狂薅羊毛（热度：2099634）
 </a>
 </li>
 
@@ -2123,12 +2129,6 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 孙颖莎vs王曼昱（热度：1857918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%89%93%E6%9E%B6%E7%94%A8%E6%88%B7%E7%8B%82%E8%96%85%E7%BE%8A%E6%AF%9B%23" target="weibo">
-京东李佳琦打架用户狂薅羊毛（热度：1857892）
 </a>
 </li>
 
@@ -4413,6 +4413,12 @@ KT战胜WBG（热度：1279678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23THE9%E5%90%88%E4%BD%93%E5%86%8D%E8%B7%B3YESOK%23" target="weibo">
+THE9合体再跳YESOK（热度：1276398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BA%B7%E8%BE%89%E5%8E%BB%E5%B9%B4%E5%B0%B1%E5%82%AC%E8%BF%87%E4%BA%86%23" target="weibo">
 原来康辉去年就催过了（热度：1275526）
 </a>
@@ -6005,12 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%BA%8B%E4%BB%B6%23" target="weibo">
 央视追踪四川女童被犬咬伤事件（热度：1006434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%89%93%E6%AD%BB%E6%9F%AF%E5%9F%BA%E7%94%B7%E5%AD%90%E8%A2%AB5%E4%BA%BA%E6%BB%8B%E6%89%B0%23" target="weibo">
-警方通报打死柯基男子被5人滋扰（热度：1002551）
 </a>
 </li>
 
