@@ -1,0 +1,410 @@
+{
+  "runTime": 1698398196070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4395002,
+        "num": 4395002,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18847604,
+        "num": 3014608,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31313,
+        "num": 1683621,
+        "word": "亚残运会有哪些硬核科技",
+        "onboard_time": 1698375162,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1428670,
+        "num": 1428670,
+        "word": "缅甸",
+        "onboard_time": 1698389556,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 925465,
+        "num": 925465,
+        "word": "拜登下令对叙利亚境内发动空袭",
+        "onboard_time": 1698379064,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 874726,
+        "num": 874726,
+        "word": "外交部呼吁缅甸有关方面尽快停火止战",
+        "onboard_time": 1698395855,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 782893,
+        "num": 782893,
+        "word": "印度军队向巴基斯坦开火",
+        "onboard_time": 1698378701,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 569961,
+        "num": 782732,
+        "word": "男子缓刑期间跳江救人获准减刑",
+        "onboard_time": 1698395557,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423187,
+        "num": 778325,
+        "word": "缅北多地爆发激烈战事",
+        "onboard_time": 1698386916,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 368081,
+        "num": 775553,
+        "word": "苏炳添世界排名消失",
+        "onboard_time": 1698379544,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3607405,
+        "num": 771557,
+        "word": "吴尊友因胰腺癌去世",
+        "onboard_time": 1698398094,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2632291,
+        "num": 769126,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 11,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 979754,
+        "num": 766494,
+        "word": "YSL",
+        "onboard_time": 1698387517,
+        "rank": 12,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 972939,
+        "num": 762196,
+        "word": "私募大佬妻子发文称其要纳二房",
+        "onboard_time": 1698390278,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 847790,
+        "num": 758678,
+        "word": "女生面试3轮问工资到手1900被气笑",
+        "onboard_time": 1698382121,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757364,
+        "num": 757364,
+        "word": "维和防暴队首曝预告",
+        "onboard_time": 1698397246,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 705644,
+        "num": 705644,
+        "word": "老师晒女生每天戴一个显眼包发卡",
+        "onboard_time": 1698394955,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623766,
+        "num": 623766,
+        "word": "权志龙李善均被禁止出境",
+        "onboard_time": 1698392316,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487675,
+        "num": 487675,
+        "word": "花少5首播收视率",
+        "onboard_time": 1698386615,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382035,
+        "num": 382035,
+        "word": "柳智敏说其他kpop组合经常吵架",
+        "onboard_time": 1698397845,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682306,
+        "num": 355448,
+        "word": "李佳琦招一年经验的舆情公关",
+        "onboard_time": 1698385293,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 328752,
+        "num": 328752,
+        "word": "研究称每天8千步可降低早死风险",
+        "onboard_time": 1698392678,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310634,
+        "num": 310634,
+        "word": "以色列要求俄罗斯驱逐哈马斯",
+        "onboard_time": 1698386254,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 300985,
+        "num": 300985,
+        "word": "上海瑞金医院持刀砍人案宣判",
+        "onboard_time": 1698391359,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266228,
+        "num": 266228,
+        "word": "以色列",
+        "onboard_time": 1698396517,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 262084,
+        "num": 262084,
+        "word": "6旬父亲烤地瓜20年供儿子硕士毕业",
+        "onboard_time": 1698397369,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250144,
+        "num": 250144,
+        "word": "西瓜爆改张元英",
+        "onboard_time": 1698379544,
+        "rank": 26,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 244007,
+        "num": 244007,
+        "word": "爸爸将娃举过顶玩耍没接住摔地上",
+        "onboard_time": 1698386375,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231248,
+        "num": 231248,
+        "word": "民警飞身冲进无人驾驶汽车1秒刹停",
+        "onboard_time": 1698397667,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223145,
+        "num": 223145,
+        "word": "一根发簪盘出古风发型",
+        "onboard_time": 1698394056,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218789,
+        "num": 218789,
+        "word": "胡夏 抢票",
+        "onboard_time": 1698394538,
+        "rank": 30,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 193699,
+        "num": 193699,
+        "word": "奶茶店有必要24小时营业吗",
+        "onboard_time": 1698396096,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184632,
+        "num": 184632,
+        "word": "40岁大叔进被窝就身上痒到抓出血",
+        "onboard_time": 1698382241,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183252,
+        "num": 183252,
+        "word": "小杨哥徒弟回应带货YSL被网嘲低级",
+        "onboard_time": 1698385058,
+        "rank": 33,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 182832,
+        "num": 182832,
+        "word": "被狗咬伤女童200万捐款已全部退完",
+        "onboard_time": 1698381285,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181196,
+        "num": 181196,
+        "word": "为什么很多癌症来临前不痛不痒",
+        "onboard_time": 1698379303,
+        "rank": 35,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 174167,
+        "num": 174167,
+        "word": "DK零封GAM",
+        "onboard_time": 1698396279,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162835,
+        "num": 162835,
+        "word": "男孩碎玻璃卡喉交警急得一路喊话",
+        "onboard_time": 1698394415,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159238,
+        "num": 159238,
+        "word": "徐进",
+        "onboard_time": 1698397971,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 158365,
+        "num": 158365,
+        "word": "辛巴称李佳琦成平台竞争的牺牲品",
+        "onboard_time": 1698387635,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 158209,
+        "num": 158209,
+        "word": "印度警察给蛇做人工呼吸",
+        "onboard_time": 1698389373,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155564,
+        "num": 155564,
+        "word": "丸子头的三种扎法",
+        "onboard_time": 1698394296,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153340,
+        "num": 153340,
+        "word": "妈妈10年20本日记唤醒植物人女儿",
+        "onboard_time": 1698395974,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150956,
+        "num": 150956,
+        "word": "原神",
+        "onboard_time": 1698381885,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148961,
+        "num": 148961,
+        "word": "陈楚生 动物世界",
+        "onboard_time": 1698384937,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140226,
+        "num": 140226,
+        "word": "文荣奖红毯",
+        "onboard_time": 1698395197,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139457,
+        "num": 139457,
+        "word": "Nuguri现场观战DK",
+        "onboard_time": 1698397609,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139163,
+        "num": 139163,
+        "word": "美军打击叙利亚东部2处设施",
+        "onboard_time": 1698383917,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135974,
+        "num": 135974,
+        "word": "少爷和我开通官博",
+        "onboard_time": 1698391775,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121975,
+        "num": 121975,
+        "word": "哪一天哪一刻消防出警速度都快到惊人",
+        "onboard_time": 1698398151,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一次看完中国航天史#"
+    }
+  }
+}

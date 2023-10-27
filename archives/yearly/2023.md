@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/10/27 16:34:17
+本榜单时间：2023/01/01 00:23:37 ~ 2023/10/27 17:16:36
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@ B站（热度：24814826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%23" target="weibo">
 泸定地震（热度：20191550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23" target="weibo">
+吴尊友逝世（热度：18847604）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%23" target="weibo">
 外星人（热度：5696872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E7%9C%8B%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-想看热巴造型（热度：5627078）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698395657257,
+  "endTime": 1698398196070,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -135,6 +135,14 @@
       "num": 21441550,
       "word": "泸定地震",
       "onboard_time": 1677596443,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18847604,
+      "num": 3014608,
+      "word": "吴尊友逝世",
+      "onboard_time": 1698396773,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1687514493,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5627078,
-      "num": 5627078,
-      "word": "想看热巴造型",
-      "onboard_time": 1679741922,
-      "rank": 3,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

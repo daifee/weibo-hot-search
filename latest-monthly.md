@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 16:34:17
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/27 17:16:36
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23" target="weibo">
 李克强同志逝世（热度：52709316）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23" target="weibo">
+吴尊友逝世（热度：18847604）
 </a>
 </li>
 
@@ -335,6 +341,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%86%9B%E9%98%9F%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%BC%80%E7%81%AB%23" target="weibo">
 印度军队向巴基斯坦开火（热度：3613228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%A0%E8%83%B0%E8%85%BA%E7%99%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
+吴尊友因胰腺癌去世（热度：3607405）
 </a>
 </li>
 
@@ -707,6 +719,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E0%E6%AF%943%E5%88%98%E4%B8%81%E7%A1%95%E7%8E%8B%E6%B7%BB%E8%89%BA%23" target="weibo">
 王楚钦孙颖莎0比3刘丁硕王添艺（热度：2653720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23YSL%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%80%E5%A4%AB%E6%A1%88%23" target="weibo">
 酱园弄 杀夫案（热度：992913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E4%BC%A0%E9%97%BB%23" target="weibo">
-李善均方回应吸毒传闻（热度：990981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%98%A0%E8%93%89%20%E5%81%B6%E9%81%87%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B%23" target="weibo">
-江映蓉 偶遇苹果CEO库克（热度：990657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA3%E4%B8%AA%E6%9C%88%E5%B7%B2%E7%BB%8F%E9%81%93%E6%AD%89%E4%BA%861800%E6%AC%A1%23" target="weibo">
-网约车司机3个月已经道歉了1800次（热度：990481）
 </a>
 </li>
 
