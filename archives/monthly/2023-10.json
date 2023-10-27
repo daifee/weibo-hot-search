@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698441260469,
+  "endTime": 1698442439671,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -76435,6 +76435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19347,
+      "num": 19347,
+      "word": "花少5宫斗版",
+      "onboard_time": 1698438434,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19014,
       "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
@@ -76457,14 +76465,6 @@
       "onboard_time": 1696614679,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18004,
-      "num": 18004,
-      "word": "花少5宫斗版",
-      "onboard_time": 1698438434,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 17952,
