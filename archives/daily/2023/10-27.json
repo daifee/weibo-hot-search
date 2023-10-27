@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698405270925,
+  "endTime": 1698406465992,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 18847604,
-      "num": 4423808,
+      "num": 4710251,
       "word": "吴尊友逝世",
       "onboard_time": 1698396773,
       "rank": 1,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6613691,
-      "num": 6613691,
+      "raw_hot": 8631831,
+      "num": 8631831,
       "word": "李克强同志遗像",
       "onboard_time": 1698404079,
       "rank": 1,
@@ -296,6 +296,14 @@
       "word": "2023第300天",
       "onboard_time": 1698367790,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1168228,
+      "num": 1168228,
+      "word": "吴尊友与癌症搏斗了两年",
+      "onboard_time": 1698404610,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -603,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 498753,
+      "num": 408068,
+      "word": "网红氧化菊为母校设立奖学金",
+      "onboard_time": 1698404868,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 482971,
       "num": 328752,
       "word": "研究称每天8千步可降低早死风险",
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427300,
-      "num": 427300,
-      "word": "吴尊友与癌症搏斗了两年",
-      "onboard_time": 1698404610,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426501,
       "num": 378363,
       "word": "重庆辟谣明年取消职工医保个人账户",
@@ -777,6 +785,14 @@
       "onboard_time": 1698381346,
       "rank": 9,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 389481,
+      "num": 389481,
+      "word": "紧急避孕药与短效避孕药有什么区别",
+      "onboard_time": 1698405229,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 383655,
@@ -1059,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304331,
+      "num": 304331,
+      "word": "LNG和KT决胜局",
+      "onboard_time": 1698405411,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303405,
       "num": 303405,
       "word": "数码宝贝回归",
@@ -1155,14 +1179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 282696,
-      "num": 282696,
-      "word": "网红氧化菊为母校设立奖学金",
-      "onboard_time": 1698404868,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 276482,
       "num": 276482,
       "word": "我爸现在逃避问题的办法很多",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1698368547,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 271096,
+      "num": 260896,
+      "word": "癌细胞也是身体的一部分",
+      "onboard_time": 1698405771,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263774,
@@ -1219,12 +1243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261717,
+      "num": 261717,
+      "word": "生理性喜欢",
+      "onboard_time": 1698406067,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260397,
       "num": 260397,
       "word": "涉嫌跟踪骚扰金泰亨的女性被捕",
       "onboard_time": 1698375942,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259385,
+      "num": 259385,
+      "word": "电竞安陵容",
+      "onboard_time": 1698405826,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 259218,
@@ -1345,6 +1385,14 @@
       "onboard_time": 1698381885,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239732,
+      "num": 239732,
+      "word": "男子接手店铺卖柚子不断有人来洗车",
+      "onboard_time": 1698404809,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238411,
@@ -1643,6 +1691,14 @@
       "category": "母婴育儿,教育"
     },
     {
+      "raw_hot": 192245,
+      "num": 192245,
+      "word": "横店影视节",
+      "onboard_time": 1698405529,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191676,
       "num": 191676,
       "word": "封神第一部西班牙定档",
@@ -1664,14 +1720,6 @@
       "word": "未成年人网络保护条例的六大亮点",
       "onboard_time": 1698370019,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190252,
-      "num": 190252,
-      "word": "男子接手店铺卖柚子不断有人来洗车",
-      "onboard_time": 1698404809,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1851,6 +1899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 170634,
+      "num": 170634,
+      "word": "花少有自己的拿放姐",
+      "onboard_time": 1698406244,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170237,
       "num": 170237,
       "word": "支原体肺炎热点解答",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1698381641,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168489,
-      "num": 168489,
-      "word": "紧急避孕药与短效避孕药有什么区别",
-      "onboard_time": 1698405229,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 167640,
@@ -1955,12 +2003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155153,
+      "num": 155153,
+      "word": "走失萌娃淡定指挥民警寻家",
+      "onboard_time": 1698406424,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154988,
       "num": 154988,
       "word": "大学生有自己的微博之夜",
       "onboard_time": 1698398332,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154796,
+      "num": 154796,
+      "word": "美甲分享",
+      "onboard_time": 1698405287,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 154216,
@@ -2436,11 +2500,19 @@
     },
     {
       "raw_hot": 35306,
-      "num": 4356970,
+      "num": 5743012,
       "word": "亚残运会有哪些硬核科技",
       "onboard_time": 1698375162,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30490,
+      "num": 437549,
+      "word": "杨祐宁的厨艺绝活",
+      "onboard_time": 1698404809,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 28207,
@@ -2465,14 +2537,6 @@
       "onboard_time": 1698350592,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13234,
-      "num": 437549,
-      "word": "杨祐宁的厨艺绝活",
-      "onboard_time": 1698404809,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

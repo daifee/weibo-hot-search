@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/10/27 19:14:30
+本榜单时间：2023/01/01 00:23:37 ~ 2023/10/27 19:34:25
 </p>
 </blockquote>
 <p>
@@ -1077,6 +1077,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F%23" target="weibo">
+李克强同志遗像（热度：8631831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
 陈梦王艺迪（热度：8624252）
 </a>
@@ -1667,12 +1673,6 @@ EDG官宣签约Uzi（热度：6842168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%88%90%E7%BB%A9%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
 吴艳妮成绩被取消（热度：6766838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F%23" target="weibo">
-李克强同志遗像（热度：6613691）
 </a>
 </li>
 
