@@ -1,0 +1,410 @@
+{
+  "runTime": 1698481159238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1652727,
+        "num": 1652727,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1213692,
+        "num": 1213692,
+        "word": "深圳欢乐谷被曝多次出现弹射失败",
+        "onboard_time": 1698477153,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37081,
+        "num": 776891,
+        "word": "3分钟看航天员的训练日常",
+        "onboard_time": 1698479133,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670884,
+        "num": 670884,
+        "word": "告别吴尊友不应只记得三年白头",
+        "onboard_time": 1698478772,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450131,
+        "num": 450131,
+        "word": "网传宿州男子同时娶两个新娘疑似炒作",
+        "onboard_time": 1698479493,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445075,
+        "num": 445075,
+        "word": "小杨哥被指直播低俗言论比徒弟更甚",
+        "onboard_time": 1698464670,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393434,
+        "num": 393434,
+        "word": "最能预示癌症的20个表现",
+        "onboard_time": 1698464974,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344699,
+        "num": 344699,
+        "word": "这三种护肤品要拉进黑名单",
+        "onboard_time": 1698476251,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 249506,
+        "num": 249506,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247275,
+        "num": 247275,
+        "word": "蛋仔派对",
+        "onboard_time": 1698474631,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1530068,
+        "num": 247267,
+        "word": "和王诗龄合拍的男生该汗流浃背了",
+        "onboard_time": 1698475113,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1026393,
+        "num": 247245,
+        "word": "田曦薇身材曲线",
+        "onboard_time": 1698477092,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 631908,
+        "num": 247199,
+        "word": "辍学女孩送继妹上学后投河身亡",
+        "onboard_time": 1698466894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563103,
+        "num": 247171,
+        "word": "苍兰诀恭喜王鹤棣",
+        "onboard_time": 1698478772,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503455,
+        "num": 247169,
+        "word": "陈楚生 他不爱我",
+        "onboard_time": 1698474092,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469645,
+        "num": 247129,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 421659,
+        "num": 247093,
+        "word": "时代少年团四季大片",
+        "onboard_time": 1698479314,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278704,
+        "num": 247084,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274660,
+        "num": 247047,
+        "word": "薛功灿 完美男主",
+        "onboard_time": 1698469233,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247035,
+        "num": 247035,
+        "word": "冯禧活动造型",
+        "onboard_time": 1698472054,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1441866,
+        "num": 239559,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344591,
+        "num": 233653,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1698470371,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289777,
+        "num": 231776,
+        "word": "13岁侏儒症小奶猫",
+        "onboard_time": 1698473192,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 227211,
+        "num": 227211,
+        "word": "李钟硕最近状态",
+        "onboard_time": 1698467253,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238985,
+        "num": 225857,
+        "word": "冯禧气质",
+        "onboard_time": 1698480571,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219502,
+        "num": 219502,
+        "word": "山东一19岁女生在校跳楼身亡",
+        "onboard_time": 1698458911,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188394,
+        "num": 188394,
+        "word": "建议爱到这种程度再结婚",
+        "onboard_time": 1698474211,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179783,
+        "num": 179783,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 176987,
+        "num": 176987,
+        "word": "无穷小亮在北方室内把苔藓养爆盆",
+        "onboard_time": 1698480333,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 172624,
+        "num": 172624,
+        "word": "王安宇好多第一次都给了花少",
+        "onboard_time": 1698472771,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158387,
+        "num": 158387,
+        "word": "陈都灵 美人肩",
+        "onboard_time": 1698468992,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155597,
+        "num": 155597,
+        "word": "披荆斩棘推迟上线",
+        "onboard_time": 1698468274,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154270,
+        "num": 154270,
+        "word": "家里有装监控的要小心了",
+        "onboard_time": 1698468513,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151106,
+        "num": 151106,
+        "word": "女朋友给我打包的拉面",
+        "onboard_time": 1698475292,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148450,
+        "num": 148450,
+        "word": "最近的Giselle",
+        "onboard_time": 1698477332,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140920,
+        "num": 140920,
+        "word": "谁家董事们这么吃饭",
+        "onboard_time": 1698479555,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140862,
+        "num": 140862,
+        "word": "韩国反偷拍标语中最令人难过的一条",
+        "onboard_time": 1698473793,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139850,
+        "num": 139850,
+        "word": "靠审丑发迹的主播正被品牌拥趸反感",
+        "onboard_time": 1698479912,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134056,
+        "num": 134056,
+        "word": "迪丽热巴reaction",
+        "onboard_time": 1698475351,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131533,
+        "num": 131533,
+        "word": "王源登国内外教科书",
+        "onboard_time": 1698472532,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130637,
+        "num": 130637,
+        "word": "消防员归途感动拍下小男孩敬礼",
+        "onboard_time": 1698480873,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125380,
+        "num": 125380,
+        "word": "充电费涨价电车真成电动爹了",
+        "onboard_time": 1698462813,
+        "rank": 41,
+        "category": "汽车,科技"
+      },
+      {
+        "raw_hot": 121810,
+        "num": 121810,
+        "word": "于和伟说年轻人觉得我好玩吧",
+        "onboard_time": 1698477870,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116474,
+        "num": 116474,
+        "word": "NRG对战G2",
+        "onboard_time": 1698478233,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116143,
+        "num": 116143,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 115031,
+        "num": 115031,
+        "word": "大雪封山民警5小时开辟生命通道",
+        "onboard_time": 1698480994,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112128,
+        "num": 112128,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113641,
+        "num": 112067,
+        "word": "于和伟被嫌弃的小波的一生",
+        "onboard_time": 1698476670,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111994,
+        "num": 111994,
+        "word": "我要逆风去定档海报",
+        "onboard_time": 1698476072,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111745,
+        "num": 111745,
+        "word": "阴阳师 结局",
+        "onboard_time": 1698472411,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}
