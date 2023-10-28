@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698482047960,
+  "endTime": 1698484517684,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2155952,
+      "num": 2155952,
+      "word": "电脑聊天记录被公司看见",
+      "onboard_time": 1698477634,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2078093,
       "num": 446950,
       "word": "虞书欣被台下激光笔照射",
       "onboard_time": 1698449366,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1994374,
-      "num": 1994374,
-      "word": "电脑聊天记录被公司看见",
-      "onboard_time": 1698477634,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1987025,
@@ -243,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 979143,
+      "num": 250264,
+      "word": "参加晚宴的王诗龄",
+      "onboard_time": 1698482792,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 943753,
+      "num": 943753,
+      "word": "美国总统拜登在白宫会见王毅",
+      "onboard_time": 1698482913,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 941823,
       "num": 356192,
       "word": "陈楚生 他不爱我",
@@ -265,6 +281,14 @@
       "onboard_time": 1698396773,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813417,
+      "num": 260296,
+      "word": "冯禧气质",
+      "onboard_time": 1698480571,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 802850,
@@ -371,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614658,
-      "num": 225857,
-      "word": "冯禧气质",
-      "onboard_time": 1698480571,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 612946,
       "num": 612946,
       "word": "我是歌手 重启",
@@ -393,6 +409,30 @@
       "onboard_time": 1698454893,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606936,
+      "num": 255024,
+      "word": "小杨哥换头像",
+      "onboard_time": 1698483931,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 597774,
+      "num": 252193,
+      "word": "苍兰诀恭喜王鹤棣",
+      "onboard_time": 1698478772,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 588983,
+      "num": 588983,
+      "word": "NRG战胜G2",
+      "onboard_time": 1698482553,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 587473,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 569508,
-      "num": 247171,
-      "word": "苍兰诀恭喜王鹤棣",
-      "onboard_time": 1698478772,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 567608,
       "num": 429868,
       "word": "金子涵去看THE9演唱会了",
@@ -481,6 +513,14 @@
       "onboard_time": 1698453034,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 475207,
+      "num": 475207,
+      "word": "被我们寄予厚望的G2",
+      "onboard_time": 1698483512,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 466114,
@@ -585,6 +625,14 @@
       "onboard_time": 1698411341,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 406232,
+      "num": 246508,
+      "word": "张元英穿平底鞋的视觉效果",
+      "onboard_time": 1698482854,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 403030,
@@ -715,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351362,
+      "num": 242118,
+      "word": "陈都灵 清纯女大",
+      "onboard_time": 1698482553,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348650,
       "num": 326969,
       "word": "THE9合体再跳YESOK",
@@ -843,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297438,
+      "num": 237173,
+      "word": "河边的错误 没看懂",
+      "onboard_time": 1698482012,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296540,
       "num": 296540,
       "word": "暨南大学81名新生放弃入学资格",
@@ -897,6 +961,14 @@
       "onboard_time": 1698365932,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 263096,
+      "num": 263096,
+      "word": "外卖小哥取餐时顺手救了场火",
+      "onboard_time": 1698483752,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261435,
@@ -993,6 +1065,14 @@
       "onboard_time": 1698459813,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233813,
+      "num": 233813,
+      "word": "T1对战BLG",
+      "onboard_time": 1698484111,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 232096,
@@ -1139,6 +1219,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 202101,
+      "num": 202101,
+      "word": "龚俊首部黄金档上星剧",
+      "onboard_time": 1698483334,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201586,
       "num": 201586,
       "word": "生理性喜欢",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1698456155,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193622,
+      "num": 173694,
+      "word": "NRG北美之光",
+      "onboard_time": 1698483512,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 192015,
@@ -1323,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173892,
+      "num": 173892,
+      "word": "王者荣耀2023周年庆",
+      "onboard_time": 1698482732,
+      "rank": 29,
+      "category": "电竞,演出"
+    },
+    {
       "raw_hot": 173502,
       "num": 173502,
       "word": "Crisp及时救难收购摧人心",
@@ -1387,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167546,
+      "num": 167546,
+      "word": "舅舅带12岁外甥骑行318国道去拉萨",
+      "onboard_time": 1698484230,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167230,
       "num": 167230,
       "word": "大方结束一段不真诚的关系",
@@ -1433,6 +1545,22 @@
       "onboard_time": 1698468212,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156205,
+      "num": 156205,
+      "word": "河边的错误解析",
+      "onboard_time": 1698484051,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 155842,
+      "num": 155842,
+      "word": "杜锋火车站帮老人提行李",
+      "onboard_time": 1698483633,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155562,
@@ -1497,6 +1625,14 @@
       "onboard_time": 1698466355,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143355,
+      "num": 143355,
+      "word": "司机集体给救护车让道后憨憨原地待命",
+      "onboard_time": 1698484352,
+      "rank": 41,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 142076,
@@ -1651,6 +1787,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 127682,
+      "num": 127682,
+      "word": "强制扫码超范围索取个人信息涉嫌违法",
+      "onboard_time": 1698482432,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127370,
       "num": 127370,
       "word": "狗狗自己挖坑睡觉结果塌方",
@@ -1763,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109712,
+      "num": 109712,
+      "word": "原来沙漠的空气能制纯净水",
+      "onboard_time": 1698482194,
+      "rank": 48,
+      "category": "知识科普,社会新闻"
+    },
+    {
       "raw_hot": 109029,
       "num": 118333,
       "word": "反复回购清单",
@@ -1777,14 +1929,6 @@
       "onboard_time": 1698448886,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106128,
-      "num": 106128,
-      "word": "河边的错误 没看懂",
-      "onboard_time": 1698482012,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 103785,
@@ -1947,7 +2091,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 42243,
+      "raw_hot": 48411,
       "num": 802869,
       "word": "3分钟看航天员的训练日常",
       "onboard_time": 1698479133,
