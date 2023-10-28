@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698506200498,
+  "endTime": 1698507233776,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -1891,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032098,
+      "num": 1032098,
+      "word": "体制内你不知道的文件命名",
+      "onboard_time": 1698503859,
+      "rank": 3,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1031109,
       "num": 1031109,
       "word": "被狗咬女童200万捐款已基本退完",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1698175273,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851875,
-      "num": 851875,
-      "word": "体制内你不知道的文件命名",
-      "onboard_time": 1698503859,
-      "rank": 3,
-      "category": "知识科普"
     },
     {
       "raw_hot": 845490,
@@ -3259,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677086,
+      "num": 286730,
+      "word": "胎儿8斤重产妇要求剖腹产被拒",
+      "onboard_time": 1698505537,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674782,
       "num": 2709129,
       "word": "胰腺癌是最内向的癌",
@@ -3456,6 +3464,14 @@
       "word": "美在我重点国防军工单位安插眼线",
       "onboard_time": 1697965531,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638480,
+      "num": 638480,
+      "word": "深圳过山车事发前曾连续两天出故障",
+      "onboard_time": 1698505297,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6467,6 +6483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 379244,
+      "num": 285138,
+      "word": "赖冠霖 人要近看了都差不多",
+      "onboard_time": 1698503139,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378414,
       "num": 378414,
       "word": "张小斐的腿好长",
@@ -6537,6 +6561,14 @@
       "onboard_time": 1698304113,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 374599,
+      "num": 272077,
+      "word": "虞书欣绝美ending",
+      "onboard_time": 1698506977,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 374230,
@@ -6625,14 +6657,6 @@
       "onboard_time": 1698476251,
       "rank": 7,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 370167,
-      "num": 286730,
-      "word": "胎儿8斤重产妇要求剖腹产被拒",
-      "onboard_time": 1698505537,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369470,
@@ -7123,14 +7147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344829,
-      "num": 285138,
-      "word": "赖冠霖 人要近看了都差不多",
-      "onboard_time": 1698503139,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 344799,
       "num": 248783,
       "word": "容易诱发肾结石的不良饮食",
@@ -7320,14 +7336,6 @@
       "word": "深圳机场已恢复正常",
       "onboard_time": 1698073902,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331701,
-      "num": 331701,
-      "word": "深圳过山车事发前曾连续两天出故障",
-      "onboard_time": 1698505297,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -9105,6 +9113,14 @@
       "onboard_time": 1698501216,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271770,
+      "num": 271770,
+      "word": "凯恩半场吊射破门",
+      "onboard_time": 1698506374,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 271730,
@@ -11891,6 +11907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208808,
+      "num": 208808,
+      "word": "杨千嬅演唱会",
+      "onboard_time": 1698506857,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208780,
       "num": 208780,
       "word": "街舞6官宣3天预约破百万",
@@ -12105,6 +12129,14 @@
       "onboard_time": 1698055969,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206665,
+      "num": 206665,
+      "word": "刘雨昕唱promise哽咽了",
+      "onboard_time": 1698506736,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 206659,
@@ -12347,6 +12379,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 203980,
+      "num": 184443,
+      "word": "檀健次白衣造型梦回相柳",
+      "onboard_time": 1698506676,
+      "rank": 37,
+      "category": "游戏,演出"
+    },
+    {
       "raw_hot": 203759,
       "num": 203759,
       "word": "孔雪儿ending",
@@ -12489,6 +12529,14 @@
       "onboard_time": 1697963072,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201628,
+      "num": 201628,
+      "word": "人生中第一次吃面肺子",
+      "onboard_time": 1698506857,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 201563,
@@ -14569,6 +14617,14 @@
       "onboard_time": 1698131673,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 176686,
+      "num": 176686,
+      "word": "被生母虐待致残男童仍惦记妈妈",
+      "onboard_time": 1698506799,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176133,
@@ -17371,6 +17427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136119,
+      "num": 136119,
+      "word": "井胧搓澡被认出来",
+      "onboard_time": 1698507215,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135977,
       "num": 132670,
       "word": "易烊千玺新电影小小的我杀青",
@@ -17457,6 +17521,14 @@
       "onboard_time": 1698198391,
       "rank": 38,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 134377,
+      "num": 134377,
+      "word": "许佳琪带伤跳蝎子舞好拼",
+      "onboard_time": 1698507215,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 134330,

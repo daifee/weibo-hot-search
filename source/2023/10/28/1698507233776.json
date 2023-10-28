@@ -1,0 +1,410 @@
+{
+  "runTime": 1698507233776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1700137,
+        "num": 1700137,
+        "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
+        "onboard_time": 1698501216,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032098,
+        "num": 1032098,
+        "word": "体制内你不知道的文件命名",
+        "onboard_time": 1698503859,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 58985,
+        "num": 736943,
+        "word": "杭州亚残运会闭幕",
+        "onboard_time": 1698498634,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 708111,
+        "num": 708111,
+        "word": "教师全员竞聘上岗",
+        "onboard_time": 1698492995,
+        "rank": 3,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 638480,
+        "num": 638480,
+        "word": "深圳过山车事发前曾连续两天出故障",
+        "onboard_time": 1698505297,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443184,
+        "num": 443184,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395011,
+        "num": 395011,
+        "word": "张大仙 欢迎来到王者荣耀",
+        "onboard_time": 1698503619,
+        "rank": 6,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 320600,
+        "num": 320600,
+        "word": "好吃懒做减肥法",
+        "onboard_time": 1698503078,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 299059,
+        "num": 299059,
+        "word": "9块9咖啡让独立咖啡店很受伤",
+        "onboard_time": 1698486572,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 280068,
+        "num": 280068,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1387074,
+        "num": 279467,
+        "word": "杨幂生图",
+        "onboard_time": 1698492995,
+        "rank": 10,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 999326,
+        "num": 279233,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 731233,
+        "num": 278241,
+        "word": "李善均全慧珍紧急送小儿子出国",
+        "onboard_time": 1698497555,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619266,
+        "num": 278119,
+        "word": "王源 公主请喝水",
+        "onboard_time": 1698501337,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613911,
+        "num": 276998,
+        "word": "科学家发现精子运动违背牛顿第三定律",
+        "onboard_time": 1698489934,
+        "rank": 14,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 472552,
+        "num": 276876,
+        "word": "大学生用遮瑕把自己涂成阿凡达",
+        "onboard_time": 1698491795,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 440729,
+        "num": 275724,
+        "word": "虞书欣甲片都跳掉了",
+        "onboard_time": 1698501034,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379244,
+        "num": 275401,
+        "word": "赖冠霖 人要近看了都差不多",
+        "onboard_time": 1698503139,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370482,
+        "num": 274958,
+        "word": "林俊杰起风了",
+        "onboard_time": 1698502477,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312030,
+        "num": 273808,
+        "word": "王嘉尔在温州参加婚礼",
+        "onboard_time": 1698496355,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 989545,
+        "num": 273486,
+        "word": "车毁仁亡",
+        "onboard_time": 1698502117,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677086,
+        "num": 272574,
+        "word": "胎儿8斤重产妇要求剖腹产被拒",
+        "onboard_time": 1698505537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374599,
+        "num": 272077,
+        "word": "虞书欣绝美ending",
+        "onboard_time": 1698506977,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271770,
+        "num": 271770,
+        "word": "凯恩半场吊射破门",
+        "onboard_time": 1698506374,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267287,
+        "num": 267287,
+        "word": "gemini采访五月天",
+        "onboard_time": 1698504697,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254337,
+        "num": 254337,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238472,
+        "num": 238472,
+        "word": "王哲林关键失误",
+        "onboard_time": 1698504277,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238267,
+        "num": 238267,
+        "word": "杨幂沈腾同框",
+        "onboard_time": 1698495034,
+        "rank": 27,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 230558,
+        "num": 230558,
+        "word": "9岁女孩捡到4岁萌娃手拉手找警察",
+        "onboard_time": 1698501756,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227674,
+        "num": 227674,
+        "word": "以方拒绝联大呼吁巴以停火的决议",
+        "onboard_time": 1698504697,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 221655,
+        "num": 221655,
+        "word": "田耕纪编剧起诉剧方",
+        "onboard_time": 1698491974,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208808,
+        "num": 208808,
+        "word": "杨千嬅演唱会",
+        "onboard_time": 1698506857,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207137,
+        "num": 207137,
+        "word": "檀健次跳国风舞了",
+        "onboard_time": 1698496475,
+        "rank": 32,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 206665,
+        "num": 206665,
+        "word": "刘雨昕唱promise哽咽了",
+        "onboard_time": 1698506736,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202115,
+        "num": 202115,
+        "word": "扁平脸把这个妆半永久在脸上",
+        "onboard_time": 1698484651,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 201628,
+        "num": 201628,
+        "word": "人生中第一次吃面肺子",
+        "onboard_time": 1698506857,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187397,
+        "num": 187397,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203980,
+        "num": 184443,
+        "word": "檀健次白衣造型梦回相柳",
+        "onboard_time": 1698506676,
+        "rank": 37,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 180675,
+        "num": 180675,
+        "word": "鞠婧祎唱恋爱告急好甜",
+        "onboard_time": 1698495696,
+        "rank": 38,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 176686,
+        "num": 176686,
+        "word": "被生母虐待致残男童仍惦记妈妈",
+        "onboard_time": 1698506799,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170874,
+        "num": 170874,
+        "word": "和王诗龄合拍的男生该汗流浃背了",
+        "onboard_time": 1698475113,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 161155,
+        "num": 161155,
+        "word": "SEVENTEEN音乐之神练习室",
+        "onboard_time": 1698505236,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157347,
+        "num": 157347,
+        "word": "喻言异兽首秀杀疯了",
+        "onboard_time": 1698499959,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156646,
+        "num": 156646,
+        "word": "林心如霍建华带女儿沙滩玩耍",
+        "onboard_time": 1698491854,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151713,
+        "num": 151713,
+        "word": "THE9演唱会",
+        "onboard_time": 1698496355,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150764,
+        "num": 150764,
+        "word": "巴萨vs皇马",
+        "onboard_time": 1698503321,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144404,
+        "num": 144404,
+        "word": "圆明园十二兽首已有七尊回归祖国",
+        "onboard_time": 1698494375,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141427,
+        "num": 141427,
+        "word": "时光音乐会",
+        "onboard_time": 1698503201,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136119,
+        "num": 136119,
+        "word": "井胧搓澡被认出来",
+        "onboard_time": 1698507215,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 134377,
+        "word": "许佳琪带伤跳蝎子舞好拼",
+        "onboard_time": 1698507215,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第九次集体学习#"
+    }
+  }
+}
