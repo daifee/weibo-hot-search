@@ -1,0 +1,410 @@
+{
+  "runTime": 1698510949994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777235,
+        "num": 777235,
+        "word": "贝林厄姆世界波",
+        "onboard_time": 1698508953,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703031,
+        "num": 703031,
+        "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
+        "onboard_time": 1698501216,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43241,
+        "num": 639118,
+        "word": "杭州亚残运会闭幕",
+        "onboard_time": 1698498634,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 638672,
+        "num": 638672,
+        "word": "被生母虐待致残男童仍惦记妈妈",
+        "onboard_time": 1698506799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585754,
+        "num": 585754,
+        "word": "巨显发量的双麻花辫",
+        "onboard_time": 1698508413,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 2203373,
+        "num": 574492,
+        "word": "巴勒斯坦",
+        "onboard_time": 1698507514,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 548933,
+        "num": 548933,
+        "word": "体制内你不知道的文件命名",
+        "onboard_time": 1698503859,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 329252,
+        "num": 329252,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300249,
+        "num": 300249,
+        "word": "教师全员竞聘上岗",
+        "onboard_time": 1698492995,
+        "rank": 8,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 263026,
+        "num": 263026,
+        "word": "巴萨vs皇马",
+        "onboard_time": 1698503321,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343870,
+        "num": 262650,
+        "word": "深圳过山车事发前曾连续两天出故障",
+        "onboard_time": 1698505297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355453,
+        "num": 261979,
+        "word": "内娱慕强批的天堂",
+        "onboard_time": 1698507634,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 709867,
+        "num": 261220,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 633108,
+        "num": 260901,
+        "word": "陈楚生居然唱了活该",
+        "onboard_time": 1698507456,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522950,
+        "num": 259752,
+        "word": "杨幂生图",
+        "onboard_time": 1698492995,
+        "rank": 14,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 506803,
+        "num": 259528,
+        "word": "科学家发现精子运动违背牛顿第三定律",
+        "onboard_time": 1698489934,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 498322,
+        "num": 258894,
+        "word": "周小仙 一天格格装妆造体验卡",
+        "onboard_time": 1698509493,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 383071,
+        "num": 257824,
+        "word": "大学生用遮瑕把自己涂成阿凡达",
+        "onboard_time": 1698491795,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 353244,
+        "num": 257163,
+        "word": "李善均全慧珍紧急送小儿子出国",
+        "onboard_time": 1698497555,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342727,
+        "num": 256862,
+        "word": "张杰音乐节",
+        "onboard_time": 1698507400,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461049,
+        "num": 256261,
+        "word": "胎儿8斤重产妇要求剖腹产被拒",
+        "onboard_time": 1698505537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326609,
+        "num": 255342,
+        "word": "李宇春唱陆贞传奇主题曲",
+        "onboard_time": 1698508054,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297636,
+        "num": 254804,
+        "word": "车毁仁亡",
+        "onboard_time": 1698502117,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289154,
+        "num": 254279,
+        "word": "虞书欣爷爷去看THE9演唱会了",
+        "onboard_time": 1698498576,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253818,
+        "num": 253818,
+        "word": "许佳琪带伤跳蝎子舞好拼",
+        "onboard_time": 1698507215,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250195,
+        "num": 250195,
+        "word": "王源 公主请喝水",
+        "onboard_time": 1698501337,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247417,
+        "num": 247417,
+        "word": "粉底前先打一层白色的底",
+        "onboard_time": 1698510269,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 238377,
+        "num": 238377,
+        "word": "沈腾檀健次打游戏",
+        "onboard_time": 1698508653,
+        "rank": 27,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 259253,
+        "num": 234244,
+        "word": "虞书欣喻言双人part",
+        "onboard_time": 1698510631,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208931,
+        "num": 208931,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 193318,
+        "word": "王嘉尔在温州参加婚礼",
+        "onboard_time": 1698496355,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191679,
+        "num": 191679,
+        "word": "杨千嬅演唱会",
+        "onboard_time": 1698506857,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184724,
+        "num": 184724,
+        "word": "人生中第一次吃面肺子",
+        "onboard_time": 1698506857,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169400,
+        "num": 169400,
+        "word": "张大仙 欢迎来到王者荣耀",
+        "onboard_time": 1698503619,
+        "rank": 33,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 162753,
+        "num": 162753,
+        "word": "赖冠霖 人要近看了都差不多",
+        "onboard_time": 1698503139,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157123,
+        "num": 157123,
+        "word": "杨幂沈腾同框",
+        "onboard_time": 1698495034,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 154833,
+        "num": 154833,
+        "word": "以方拒绝联大呼吁巴以停火的决议",
+        "onboard_time": 1698504697,
+        "rank": 36,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 148566,
+        "num": 148566,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147059,
+        "num": 147059,
+        "word": "刘雨昕唱promise哽咽了",
+        "onboard_time": 1698506736,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146931,
+        "num": 146931,
+        "word": "林俊杰起风了",
+        "onboard_time": 1698502477,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138347,
+        "num": 138347,
+        "word": "gemini采访五月天",
+        "onboard_time": 1698504697,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132795,
+        "num": 132795,
+        "word": "拜仁8比0达姆施塔特",
+        "onboard_time": 1698507757,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120818,
+        "num": 120818,
+        "word": "崔秀彬踩燃了十辆摩托",
+        "onboard_time": 1698507873,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119670,
+        "num": 119670,
+        "word": "田耕纪编剧起诉剧方",
+        "onboard_time": 1698491974,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113184,
+        "num": 113184,
+        "word": "鞠婧祎唱恋爱告急好甜",
+        "onboard_time": 1698495696,
+        "rank": 44,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 111123,
+        "num": 111123,
+        "word": "9块9咖啡让独立咖啡店很受伤",
+        "onboard_time": 1698486572,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 109789,
+        "num": 109789,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105926,
+        "num": 105926,
+        "word": "THE9演唱会",
+        "onboard_time": 1698496355,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104378,
+        "num": 104378,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87115,
+        "num": 87115,
+        "word": "檀健次跳国风舞了",
+        "onboard_time": 1698496475,
+        "rank": 49,
+        "category": "游戏,演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
+    }
+  }
+}
