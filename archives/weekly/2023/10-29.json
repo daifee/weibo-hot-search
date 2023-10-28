@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698518050411,
+  "endTime": 1698520366013,
   "band_list": [
     {
       "raw_hot": 2203373,
@@ -481,6 +481,14 @@
       "onboard_time": 1698498634,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 43792,
+      "num": 43792,
+      "word": "喻言异兽首秀杀疯了",
+      "onboard_time": 1698499959,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 38535,

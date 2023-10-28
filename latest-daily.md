@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/10/29 02:34:10
+本榜单时间：2023/10/29 00:19:54 ~ 2023/10/29 03:12:46
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ THE9演唱会（热度：117076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%23" target="weibo">
 杭州亚残运会闭幕（热度：43903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%E5%BC%82%E5%85%BD%E9%A6%96%E7%A7%80%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
+喻言异兽首秀杀疯了（热度：43792）
 </a>
 </li>
 
