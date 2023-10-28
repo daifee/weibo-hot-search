@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698460456129,
+  "endTime": 1698463023366,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3078554,
+      "raw_hot": 3292531,
       "num": 3078554,
       "word": "红绿灯的黄道歉",
       "onboard_time": 1698458253,
@@ -67,20 +67,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1510236,
+      "num": 401762,
+      "word": "山东一19岁女生在校跳楼身亡",
+      "onboard_time": 1698458911,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1475346,
       "num": 443665,
       "word": "中小学生连厕所时间都快没了",
       "onboard_time": 1698421060,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1394700,
-      "num": 401762,
-      "word": "山东一19岁女生在校跳楼身亡",
-      "onboard_time": 1698458911,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1374063,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1039591,
+      "num": 400286,
+      "word": "霉霉资产正式突破十位数",
+      "onboard_time": 1698458554,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890576,
       "num": 1577560,
       "word": "吴尊友逝世",
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 870745,
-      "num": 400286,
-      "word": "霉霉资产正式突破十位数",
-      "onboard_time": 1698458554,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 802850,
+      "num": 802850,
+      "word": "00后中专生女孩为追星考上上戏",
+      "onboard_time": 1698457834,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 787261,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640780,
+      "num": 291062,
+      "word": "迪丽热巴带了速效救心丸",
+      "onboard_time": 1698459935,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 612946,
       "num": 612946,
       "word": "我是歌手 重启",
@@ -225,6 +241,14 @@
       "onboard_time": 1698454893,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584052,
+      "num": 288291,
+      "word": "五月天 上海11场",
+      "onboard_time": 1698460711,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 574962,
@@ -251,11 +275,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 537208,
-      "num": 537208,
-      "word": "00后中专生女孩为追星考上上戏",
-      "onboard_time": 1698457834,
-      "rank": 28,
+      "raw_hot": 551871,
+      "num": 284609,
+      "word": "女生吃20颗西梅腹泻十几次晕倒",
+      "onboard_time": 1698461431,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -265,6 +289,14 @@
       "onboard_time": 1698453034,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 466114,
+      "num": 279239,
+      "word": "红绿灯的黄",
+      "onboard_time": 1698460411,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 464110,
@@ -299,8 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412071,
-      "num": 411614,
+      "raw_hot": 446453,
+      "num": 446453,
       "word": "深圳欢乐谷闭园两天",
       "onboard_time": 1698453215,
       "rank": 22,
@@ -371,6 +403,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 375610,
+      "num": 277224,
+      "word": "王子文生图",
+      "onboard_time": 1698461010,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371769,
       "num": 371769,
       "word": "孙颖莎首轮遭遇田志希",
@@ -425,6 +465,14 @@
       "onboard_time": 1698406781,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332915,
+      "num": 271420,
+      "word": "THE9演唱会结尾是全体青春制作人",
+      "onboard_time": 1698462153,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 327659,
@@ -523,19 +571,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 261166,
-      "num": 261166,
-      "word": "迪丽热巴带了速效救心丸",
-      "onboard_time": 1698459935,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 255674,
       "num": 255674,
       "word": "你一月能存多少钱",
       "onboard_time": 1698457712,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254886,
+      "num": 254886,
+      "word": "游客拍到事发时过山车溜车画面",
+      "onboard_time": 1698462273,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -587,12 +635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217962,
-      "num": 217962,
-      "word": "红绿灯的黄",
-      "onboard_time": 1698460411,
+      "raw_hot": 218859,
+      "num": 218859,
+      "word": "充电费涨价电车真成电动爹了",
+      "onboard_time": 1698462813,
       "rank": 32,
-      "category": "网红"
+      "category": "汽车,科技"
     },
     {
       "raw_hot": 216063,
@@ -609,6 +657,22 @@
       "onboard_time": 1698419503,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205824,
+      "num": 205824,
+      "word": "东契奇49分",
+      "onboard_time": 1698462813,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204993,
+      "num": 204993,
+      "word": "杭州一小学有个接收学生秘密的YOYO邮筒",
+      "onboard_time": 1698461072,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202710,
@@ -739,6 +803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171232,
+      "num": 171232,
+      "word": "00后HR招聘会上叫卖式招人",
+      "onboard_time": 1698460952,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170936,
       "num": 170936,
       "word": "骆岗音乐节",
@@ -804,7 +876,7 @@
     },
     {
       "raw_hot": 150670,
-      "num": 150670,
+      "num": 241143,
       "word": "亚残运闭幕式中国代表团旗手公布",
       "onboard_time": 1698459872,
       "rank": 45,
@@ -833,6 +905,14 @@
       "onboard_time": 1698398094,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145564,
+      "num": 145564,
+      "word": "文班亚马绝平",
+      "onboard_time": 1698462872,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145212,
@@ -875,12 +955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131240,
+      "num": 131240,
+      "word": "90后小伙在田间地头找到星辰大海",
+      "onboard_time": 1698462273,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129617,
       "num": 129617,
       "word": "处女座真的很容易内耗",
       "onboard_time": 1698409960,
       "rank": 45,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 129244,
+      "num": 129244,
+      "word": "烈士陵园的树枝掰开后有颗五角星",
+      "onboard_time": 1698462993,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127370,
@@ -945,6 +1041,14 @@
       "onboard_time": 1698448886,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103785,
+      "num": 128809,
+      "word": "光与夜之恋",
+      "onboard_time": 1698460952,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99719,
@@ -1105,11 +1209,22 @@
       "onboard_time": 1698434775,
       "rank": 49,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 15087,
+      "num": 633875,
+      "word": "3分钟回顾中国航天员出征太空",
+      "onboard_time": 1698416261,
+      "rank": 2,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
     {
       "word": "#新时代新征程推动东北全面振兴#"
+    },
+    {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
     }
   ]
 }

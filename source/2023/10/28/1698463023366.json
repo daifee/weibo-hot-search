@@ -1,0 +1,410 @@
+{
+  "runTime": 1698463023366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 802850,
+        "num": 802850,
+        "word": "00后中专生女孩为追星考上上戏",
+        "onboard_time": 1698457834,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3292531,
+        "num": 723044,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 15087,
+        "num": 633875,
+        "word": "3分钟回顾中国航天员出征太空",
+        "onboard_time": 1698416261,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 628087,
+        "num": 628087,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446453,
+        "num": 446453,
+        "word": "深圳欢乐谷闭园两天",
+        "onboard_time": 1698453215,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340611,
+        "num": 340611,
+        "word": "以为有蛇偷蛋村民扒开枯枝发现国宝",
+        "onboard_time": 1698451533,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325773,
+        "num": 325773,
+        "word": "学生眼中的吴尊友没有一天不在工作",
+        "onboard_time": 1698454893,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314185,
+        "num": 314185,
+        "word": "深圳欢乐谷开展安全大检查",
+        "onboard_time": 1698453452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306148,
+        "num": 306148,
+        "word": "多次梦到同一个人",
+        "onboard_time": 1698453034,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301061,
+        "num": 301061,
+        "word": "深圳欢乐谷通报",
+        "onboard_time": 1698414763,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1510236,
+        "num": 299038,
+        "word": "山东一19岁女生在校跳楼身亡",
+        "onboard_time": 1698458911,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480536,
+        "num": 297648,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1039591,
+        "num": 294543,
+        "word": "霉霉资产正式突破十位数",
+        "onboard_time": 1698458554,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654487,
+        "num": 292467,
+        "word": "进口化妆品价格不到半年腰斩",
+        "onboard_time": 1698456873,
+        "rank": 13,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 640780,
+        "num": 291062,
+        "word": "迪丽热巴带了速效救心丸",
+        "onboard_time": 1698459935,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 584052,
+        "num": 288291,
+        "word": "五月天 上海11场",
+        "onboard_time": 1698460711,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 551871,
+        "num": 284609,
+        "word": "女生吃20颗西梅腹泻十几次晕倒",
+        "onboard_time": 1698461431,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481457,
+        "num": 281083,
+        "word": "警方称有权志龙吸毒证据",
+        "onboard_time": 1698452672,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 466114,
+        "num": 279239,
+        "word": "红绿灯的黄",
+        "onboard_time": 1698460411,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 375610,
+        "num": 277224,
+        "word": "王子文生图",
+        "onboard_time": 1698461010,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333493,
+        "num": 274741,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 20,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 332915,
+        "num": 271420,
+        "word": "THE9演唱会结尾是全体青春制作人",
+        "onboard_time": 1698462153,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307258,
+        "num": 270870,
+        "word": "中小学生连厕所时间都快没了",
+        "onboard_time": 1698421060,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 268594,
+        "num": 268594,
+        "word": "叙利亚",
+        "onboard_time": 1698451770,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 254886,
+        "num": 254886,
+        "word": "游客拍到事发时过山车溜车画面",
+        "onboard_time": 1698462273,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248025,
+        "num": 248025,
+        "word": "亲历者讲述欢乐谷过山车追尾事故",
+        "onboard_time": 1698449245,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88635,
+        "num": 241143,
+        "word": "亚残运闭幕式中国代表团旗手公布",
+        "onboard_time": 1698459872,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294803,
+        "num": 240760,
+        "word": "金子涵去看THE9演唱会了",
+        "onboard_time": 1698449906,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238628,
+        "num": 238628,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 28,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 155699,
+        "num": 228926,
+        "word": "吴尊友生前采访",
+        "onboard_time": 1698455254,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228546,
+        "num": 228546,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 221665,
+        "num": 221665,
+        "word": "14岁男生吃完烤全羊竟然变小黄人",
+        "onboard_time": 1698450266,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218859,
+        "num": 218859,
+        "word": "充电费涨价电车真成电动爹了",
+        "onboard_time": 1698462813,
+        "rank": 32,
+        "category": "汽车,科技"
+      },
+      {
+        "raw_hot": 209487,
+        "num": 209487,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 205824,
+        "num": 205824,
+        "word": "东契奇49分",
+        "onboard_time": 1698462813,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204993,
+        "num": 204993,
+        "word": "杭州一小学有个接收学生秘密的YOYO邮筒",
+        "onboard_time": 1698461072,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204744,
+        "num": 204744,
+        "word": "你一月能存多少钱",
+        "onboard_time": 1698457712,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180797,
+        "num": 180797,
+        "word": "Newjeans 梦核感",
+        "onboard_time": 1698459393,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180670,
+        "num": 180670,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171232,
+        "num": 171232,
+        "word": "00后HR招聘会上叫卖式招人",
+        "onboard_time": 1698460952,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164733,
+        "num": 164733,
+        "word": "唐登杰任山西省委书记",
+        "onboard_time": 1698460234,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153977,
+        "num": 153977,
+        "word": "红绿灯的黄曾被抢注商标",
+        "onboard_time": 1698460051,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 150363,
+        "num": 150363,
+        "word": "性子很急的人到底哪里有问题",
+        "onboard_time": 1698453394,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146133,
+        "num": 146133,
+        "word": "官方通报村书记威胁女子发生性关系",
+        "onboard_time": 1698450389,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145564,
+        "num": 145564,
+        "word": "文班亚马绝平",
+        "onboard_time": 1698462872,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142510,
+        "num": 142510,
+        "word": "新疆沙漠开渔节龙王现身暖场",
+        "onboard_time": 1698459813,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131715,
+        "num": 131715,
+        "word": "小学生玩蛋仔10天花光家里积蓄",
+        "onboard_time": 1698450990,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131240,
+        "num": 131240,
+        "word": "90后小伙在田间地头找到星辰大海",
+        "onboard_time": 1698462273,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129244,
+        "num": 129244,
+        "word": "烈士陵园的树枝掰开后有颗五角星",
+        "onboard_time": 1698462993,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103785,
+        "num": 128809,
+        "word": "光与夜之恋",
+        "onboard_time": 1698460952,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
+    }
+  }
+}
