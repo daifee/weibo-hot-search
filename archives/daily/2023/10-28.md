@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 10:20:56
+本榜单时间：2023/10/28 00:21:36 ~ 2023/10/28 10:34:16
 </p>
 </blockquote>
 <p>
@@ -21,14 +21,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F%23" target="weibo">
-李克强同志遗像（热度：2616681）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E9%81%93%E6%AD%89%23" target="weibo">
+红绿灯的黄道歉（热度：3078554）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E9%81%93%E6%AD%89%23" target="weibo">
-红绿灯的黄道歉（热度：2586342）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F%23" target="weibo">
+李克强同志遗像（热度：2616681）
 </a>
 </li>
 
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
 中小学生连厕所时间都快没了（热度：1475346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%8019%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%A0%A1%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+山东一19岁女生在校跳楼身亡（热度：1394700）
 </a>
 </li>
 
@@ -117,12 +123,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%8019%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%A0%A1%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
-山东一19岁女生在校跳楼身亡（热度：894426）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E9%80%9D%E4%B8%96%23" target="weibo">
 吴尊友逝世（热度：890576）
 </a>
@@ -130,7 +130,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E8%B5%84%E4%BA%A7%E6%AD%A3%E5%BC%8F%E7%AA%81%E7%A0%B4%E5%8D%81%E4%BD%8D%E6%95%B0%23" target="weibo">
-霉霉资产正式突破十位数（热度：831303）
+霉霉资产正式突破十位数（热度：870745）
 </a>
 </li>
 
@@ -201,14 +201,14 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：736992）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E6%A2%A6%E5%88%B0%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%23" target="weibo">
-多次梦到同一个人（热度：505545）
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%AD%E4%B8%93%E7%94%9F%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E8%80%83%E4%B8%8A%E4%B8%8A%E6%88%8F%23" target="weibo">
+00后中专生女孩为追星考上上戏（热度：537208）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%AD%E4%B8%93%E7%94%9F%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%BF%BD%E6%98%9F%E8%80%83%E4%B8%8A%E4%B8%8A%E6%88%8F%23" target="weibo">
-00后中专生女孩为追星考上上戏（热度：497273）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%A1%E6%A2%A6%E5%88%B0%E5%90%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%23" target="weibo">
+多次梦到同一个人（热度：505545）
 </a>
 </li>
 
@@ -405,6 +405,12 @@ Lion（热度：261435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B8%A6%E4%BA%86%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%23" target="weibo">
+迪丽热巴带了速效救心丸（热度：261166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%80%E6%9C%88%E8%83%BD%E5%AD%98%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
 你一月能存多少钱（热度：255674）
 </a>
@@ -429,6 +435,12 @@ Lion（热度：261435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E5%BC%80%E6%B8%94%E8%8A%82%E9%BE%99%E7%8E%8B%E7%8E%B0%E8%BA%AB%E6%9A%96%E5%9C%BA%23" target="weibo">
+新疆沙漠开渔节龙王现身暖场（热度：234763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%AA%92%E6%83%8A%E8%AE%B6%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%A2%E4%BA%86%E4%B8%96%E7%95%8C%E9%9D%A2%E5%8C%85%E5%A4%A7%E8%B5%9B%23" target="weibo">
 法媒惊讶中国队赢了世界面包大赛（热度：232096）
 </a>
@@ -437,6 +449,12 @@ Lion（热度：261435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E9%BA%A6%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23" target="weibo">
 安崎麦怎么回事（热度：223009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%23" target="weibo">
+红绿灯的黄（热度：217962）
 </a>
 </li>
 
@@ -453,8 +471,20 @@ Lion（热度：261435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E6%9B%BE%E8%A2%AB%E6%8A%A2%E6%B3%A8%E5%95%86%E6%A0%87%23" target="weibo">
+红绿灯的黄曾被抢注商标（热度：202710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%23" target="weibo">
 生理性喜欢（热度：201586）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Newjeans%20%E6%A2%A6%E6%A0%B8%E6%84%9F%23" target="weibo">
+Newjeans 梦核感（热度：198233）
 </a>
 </li>
 
@@ -519,6 +549,12 @@ iPhone15Pro所有版本均破发（热度：197689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%80%81%E5%B8%88%E7%BB%992%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E5%86%99%E7%BA%B8%E6%9D%A1%E6%9A%96%E5%BF%83%E9%BC%93%E5%8A%B1%23" target="weibo">
+00后老师给2年级学生写纸条暖心鼓励（热度：183877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%82%B2%E5%A4%A9%E5%A4%AA%E5%AE%A0%E4%BA%86%23" target="weibo">
 花傲天太宠了（热度：176133）
 </a>
@@ -531,12 +567,6 @@ iPhone15Pro所有版本均破发（热度：197689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Newjeans%20%E6%A2%A6%E6%A0%B8%E6%84%9F%23" target="weibo">
-Newjeans 梦核感（热度：176017）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%86%E5%B2%97%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 骆岗音乐节（热度：170936）
 </a>
@@ -545,6 +575,12 @@ Newjeans 梦核感（热度：176017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%9B%AA%E5%85%AC%E4%B8%BB%E7%9C%9F%E4%BA%BA%E7%94%B5%E5%BD%B1%E9%A6%96%E6%9B%9D%E5%89%A7%E7%85%A7%23" target="weibo">
 白雪公主真人电影首曝剧照（热度：169707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E7%99%BB%E6%9D%B0%E4%BB%BB%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%23" target="weibo">
+唐登杰任山西省委书记（热度：168389）
 </a>
 </li>
 
@@ -575,6 +611,12 @@ THE9演唱会（热度：160664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%B0%91%E8%B7%B3%E5%85%A5%E6%B3%A5%E6%BD%AD%E5%90%88%E5%8A%9B%E6%95%91%E5%87%BA7%E6%97%AC%E5%A5%B6%E5%A5%B6%23" target="weibo">
 警民跳入泥潭合力救出7旬奶奶（热度：154052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%E5%85%AC%E5%B8%83%23" target="weibo">
+亚残运闭幕式中国代表团旗手公布（热度：150670）
 </a>
 </li>
 

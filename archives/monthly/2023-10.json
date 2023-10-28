@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698459656236,
+  "endTime": 1698460456129,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3078554,
+      "num": 3078554,
+      "word": "红绿灯的黄道歉",
+      "onboard_time": 1698458253,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 3074167,
       "num": 3074167,
       "word": "曝韩国L姓顶级演员涉嫌吸毒",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1698228214,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2586342,
-      "num": 2586342,
-      "word": "红绿灯的黄道歉",
-      "onboard_time": 1698458253,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2584209,
@@ -5121,6 +5121,14 @@
       "onboard_time": 1697207675,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1394700,
+      "num": 401762,
+      "word": "山东一19岁女生在校跳楼身亡",
+      "onboard_time": 1698458911,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1394636,
@@ -9475,14 +9483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 894426,
-      "num": 401762,
-      "word": "山东一19岁女生在校跳楼身亡",
-      "onboard_time": 1698458911,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 892958,
       "num": 892958,
       "word": "吸引全红婵只需要一个乌龟玩偶",
@@ -9913,6 +9913,14 @@
       "onboard_time": 1696934438,
       "rank": 11,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 870745,
+      "num": 400286,
+      "word": "霉霉资产正式突破十位数",
+      "onboard_time": 1698458554,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 867367,
@@ -10536,14 +10544,6 @@
       "word": "BIGBANG最后的正常人居然是太阳",
       "onboard_time": 1698238123,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 831303,
-      "num": 400286,
-      "word": "霉霉资产正式突破十位数",
-      "onboard_time": 1698458554,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -18387,6 +18387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537208,
+      "num": 537208,
+      "word": "00后中专生女孩为追星考上上戏",
+      "onboard_time": 1698457834,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537205,
       "num": 537205,
       "word": "电子竞技不相信女性",
@@ -20241,14 +20249,6 @@
       "onboard_time": 1697183556,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497273,
-      "num": 497273,
-      "word": "00后中专生女孩为追星考上上戏",
-      "onboard_time": 1698457834,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497239,
@@ -39819,6 +39819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261166,
+      "num": 261166,
+      "word": "迪丽热巴带了速效救心丸",
+      "onboard_time": 1698459935,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261088,
       "num": 261088,
       "word": "婚礼上新娘梳马尾穿校服入场",
@@ -44195,6 +44203,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 234763,
+      "num": 234763,
+      "word": "新疆沙漠开渔节龙王现身暖场",
+      "onboard_time": 1698459813,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234742,
       "num": 234742,
       "word": "吃完葡萄不要立刻喝水",
@@ -47337,6 +47353,14 @@
       "onboard_time": 1698393996,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217962,
+      "num": 217962,
+      "word": "红绿灯的黄",
+      "onboard_time": 1698460411,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 217856,
@@ -51107,6 +51131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202710,
+      "num": 202710,
+      "word": "红绿灯的黄曾被抢注商标",
+      "onboard_time": 1698460051,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 202680,
       "num": 202680,
       "word": "军嫂惊喜现身惹硬汉瞬间泪目",
@@ -52625,6 +52657,14 @@
       "onboard_time": 1698302373,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198233,
+      "num": 198233,
+      "word": "Newjeans 梦核感",
+      "onboard_time": 1698459393,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198203,
@@ -57179,6 +57219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183877,
+      "num": 183877,
+      "word": "00后老师给2年级学生写纸条暖心鼓励",
+      "onboard_time": 1698459991,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183828,
       "num": 183828,
       "word": "唐嫣粉红少女裙",
@@ -59059,14 +59107,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 176017,
-      "num": 176017,
-      "word": "Newjeans 梦核感",
-      "onboard_time": 1698459393,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175978,
       "num": 175978,
       "word": "韩国人晚上真的不睡觉吗",
@@ -60865,6 +60905,14 @@
       "onboard_time": 1697422294,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168389,
+      "num": 168389,
+      "word": "唐登杰任山西省委书记",
+      "onboard_time": 1698460234,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168382,
@@ -64865,6 +64913,14 @@
       "onboard_time": 1698163292,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "亚残运闭幕式中国代表团旗手公布",
+      "onboard_time": 1698459872,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 150619,

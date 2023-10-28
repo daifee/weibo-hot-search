@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 10:20:56
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 10:34:16
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ G2战胜WBG（热度：3782780）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E9%81%93%E6%AD%89%23" target="weibo">
+红绿灯的黄道歉（热度：3078554）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9F%A9%E5%9B%BDL%E5%A7%93%E9%A1%B6%E7%BA%A7%E6%BC%94%E5%91%98%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%23" target="weibo">
 曝韩国L姓顶级演员涉嫌吸毒（热度：3074167）
 </a>
@@ -815,12 +821,6 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B5%B4%E6%B6%B2%E6%AF%94%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0%E8%B4%B5%E8%B6%8530%E5%85%83%23" target="weibo">
 李佳琦直播间浴液比其它平台贵超30元（热度：2603104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E9%81%93%E6%AD%89%23" target="weibo">
-红绿灯的黄道歉（热度：2586342）
 </a>
 </li>
 
@@ -3855,6 +3855,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%8019%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%A0%A1%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+山东一19岁女生在校跳楼身亡（热度：1394700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BF%E5%A7%90%E5%9B%9E%E5%BA%94%23" target="weibo">
 腿姐回应（热度：1394636）
 </a>
@@ -6005,12 +6011,6 @@ A股（热度：1016083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
 人民网评2岁女童被恶犬咬伤（热度：1014363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%20%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%9B%B4%E5%8D%96%E7%89%88%E6%9D%83%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%8D%23" target="weibo">
-余华 希望一直卖版权一直不拍（热度：1013886）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698459656236,
+  "endTime": 1698460456129,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3078554,
+      "num": 3078554,
+      "word": "红绿灯的黄道歉",
+      "onboard_time": 1698458253,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2616681,
       "num": 1726853,
       "word": "李克强同志遗像",
       "onboard_time": 1698404079,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2586342,
-      "num": 2586342,
-      "word": "红绿灯的黄道歉",
-      "onboard_time": 1698458253,
-      "rank": 22,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2541384,
@@ -73,6 +73,14 @@
       "onboard_time": 1698421060,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1394700,
+      "num": 401762,
+      "word": "山东一19岁女生在校跳楼身亡",
+      "onboard_time": 1698458911,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1374063,
@@ -139,14 +147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 894426,
-      "num": 401762,
-      "word": "山东一19岁女生在校跳楼身亡",
-      "onboard_time": 1698458911,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 890576,
       "num": 1577560,
       "word": "吴尊友逝世",
@@ -155,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 831303,
+      "raw_hot": 870745,
       "num": 400286,
       "word": "霉霉资产正式突破十位数",
       "onboard_time": 1698458554,
@@ -251,20 +251,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 537208,
+      "num": 537208,
+      "word": "00后中专生女孩为追星考上上戏",
+      "onboard_time": 1698457834,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505545,
       "num": 480545,
       "word": "多次梦到同一个人",
       "onboard_time": 1698453034,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 497273,
-      "num": 497273,
-      "word": "00后中专生女孩为追星考上上戏",
-      "onboard_time": 1698457834,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464110,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 261166,
+      "num": 261166,
+      "word": "迪丽热巴带了速效救心丸",
+      "onboard_time": 1698459935,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255674,
       "num": 255674,
       "word": "你一月能存多少钱",
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234763,
+      "num": 234763,
+      "word": "新疆沙漠开渔节龙王现身暖场",
+      "onboard_time": 1698459813,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232096,
       "num": 232096,
       "word": "法媒惊讶中国队赢了世界面包大赛",
@@ -569,6 +585,14 @@
       "onboard_time": 1698411998,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217962,
+      "num": 217962,
+      "word": "红绿灯的黄",
+      "onboard_time": 1698460411,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 216063,
@@ -587,12 +611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202710,
+      "num": 202710,
+      "word": "红绿灯的黄曾被抢注商标",
+      "onboard_time": 1698460051,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 201586,
       "num": 201586,
       "word": "生理性喜欢",
       "onboard_time": 1698406067,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198233,
+      "num": 198233,
+      "word": "Newjeans 梦核感",
+      "onboard_time": 1698459393,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197689,
@@ -675,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183877,
+      "num": 183877,
+      "word": "00后老师给2年级学生写纸条暖心鼓励",
+      "onboard_time": 1698459991,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176133,
       "num": 176133,
       "word": "花傲天太宠了",
@@ -691,14 +739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176017,
-      "num": 176017,
-      "word": "Newjeans 梦核感",
-      "onboard_time": 1698459393,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170936,
       "num": 170936,
       "word": "骆岗音乐节",
@@ -713,6 +753,14 @@
       "onboard_time": 1698458136,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168389,
+      "num": 168389,
+      "word": "唐登杰任山西省委书记",
+      "onboard_time": 1698460234,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168382,
@@ -753,6 +801,14 @@
       "onboard_time": 1698457712,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "亚残运闭幕式中国代表团旗手公布",
+      "onboard_time": 1698459872,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 149835,
