@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 11:17:03
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 11:34:09
 </p>
 </blockquote>
 <p>
@@ -3879,6 +3879,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E4%BA%8B%E5%8F%91%E6%97%B6%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%BA%9C%E8%BD%A6%E7%94%BB%E9%9D%A2%23" target="weibo">
+游客拍到事发时过山车溜车画面（热度：1390651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
 西南科技大学馄饨阿姨事件（热度：1389594）
 </a>
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
 A股（热度：1016083）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AE%B5%E8%89%BA%E7%92%87%E8%A2%AB%E7%A0%B8%23" target="weibo">
-段艺璇被砸（热度：1014874）
 </a>
 </li>
 

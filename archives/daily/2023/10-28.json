@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698463023366,
+  "endTime": 1698464049759,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -81,6 +81,14 @@
       "onboard_time": 1698421060,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1390651,
+      "num": 1390651,
+      "word": "游客拍到事发时过山车溜车画面",
+      "onboard_time": 1698462273,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1374063,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 640780,
-      "num": 291062,
+      "num": 300153,
       "word": "迪丽热巴带了速效救心丸",
       "onboard_time": 1698459935,
       "rank": 26,
@@ -244,11 +252,19 @@
     },
     {
       "raw_hot": 584052,
-      "num": 288291,
+      "num": 296843,
       "word": "五月天 上海11场",
       "onboard_time": 1698460711,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 576831,
+      "num": 576831,
+      "word": "深圳欢乐谷闭园两天",
+      "onboard_time": 1698453215,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574962,
@@ -275,8 +291,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 551871,
-      "num": 284609,
+      "raw_hot": 560729,
+      "num": 297239,
       "word": "女生吃20颗西梅腹泻十几次晕倒",
       "onboard_time": 1698461431,
       "rank": 16,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 466114,
-      "num": 279239,
+      "num": 289237,
       "word": "红绿灯的黄",
       "onboard_time": 1698460411,
       "rank": 32,
@@ -331,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446453,
-      "num": 446453,
-      "word": "深圳欢乐谷闭园两天",
-      "onboard_time": 1698453215,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 410583,
+      "num": 286431,
+      "word": "充电费涨价电车真成电动爹了",
+      "onboard_time": 1698462813,
+      "rank": 32,
+      "category": "汽车,科技"
     },
     {
       "raw_hot": 409438,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 375610,
-      "num": 277224,
+      "num": 286322,
       "word": "王子文生图",
       "onboard_time": 1698461010,
       "rank": 19,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 332915,
-      "num": 271420,
+      "num": 279234,
       "word": "THE9演唱会结尾是全体青春制作人",
       "onboard_time": 1698462153,
       "rank": 21,
@@ -505,6 +521,14 @@
       "onboard_time": 1698421721,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311927,
+      "num": 311927,
+      "word": "东契奇49分",
+      "onboard_time": 1698462813,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 304527,
@@ -547,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285532,
+      "num": 285532,
+      "word": "红绿灯的黄30日销售额超5000万",
+      "onboard_time": 1698463291,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276110,
       "num": 276110,
       "word": "美称空袭叙利亚与巴以冲突无关",
@@ -571,19 +603,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260591,
+      "num": 260591,
+      "word": "文班亚马绝平",
+      "onboard_time": 1698462872,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255674,
       "num": 255674,
       "word": "你一月能存多少钱",
       "onboard_time": 1698457712,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254886,
-      "num": 254886,
-      "word": "游客拍到事发时过山车溜车画面",
-      "onboard_time": 1698462273,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -635,12 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 218859,
-      "num": 218859,
-      "word": "充电费涨价电车真成电动爹了",
-      "onboard_time": 1698462813,
+      "raw_hot": 216411,
+      "num": 216411,
+      "word": "林更新 赵又廷就是loopy",
+      "onboard_time": 1698463832,
       "rank": 32,
-      "category": "汽车,科技"
+      "category": "剧集,幽默"
     },
     {
       "raw_hot": 216063,
@@ -657,14 +689,6 @@
       "onboard_time": 1698419503,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205824,
-      "num": 205824,
-      "word": "东契奇49分",
-      "onboard_time": 1698462813,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 204993,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185739,
+      "num": 223951,
+      "word": "烈士陵园的树枝掰开后有颗五角星",
+      "onboard_time": 1698462993,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183877,
       "num": 183877,
       "word": "00后老师给2年级学生写纸条暖心鼓励",
@@ -801,6 +833,14 @@
       "onboard_time": 1698411219,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174633,
+      "num": 174633,
+      "word": "王楚钦首轮对战高承睿",
+      "onboard_time": 1698463473,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 171232,
@@ -849,6 +889,14 @@
       "onboard_time": 1698450870,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "华晨宇欧豪包场看不见的顶峰",
+      "onboard_time": 1698463892,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 160664,
@@ -907,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145564,
-      "num": 145564,
-      "word": "文班亚马绝平",
-      "onboard_time": 1698462872,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145212,
       "num": 145212,
       "word": "阴阳师 高天原终章",
@@ -947,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135376,
+      "num": 135376,
+      "word": "申裕斌和TXT",
+      "onboard_time": 1698463412,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132396,
       "num": 132396,
       "word": "张碧晨 南昌",
@@ -969,14 +1017,6 @@
       "onboard_time": 1698409960,
       "rank": 45,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 129244,
-      "num": 129244,
-      "word": "烈士陵园的树枝掰开后有颗五角星",
-      "onboard_time": 1698462993,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127370,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1698443536,
       "rank": 34,
       "category": "时尚,美妆"
+    },
+    {
+      "raw_hot": 111830,
+      "num": 126534,
+      "word": "火箭马刺加时",
+      "onboard_time": 1698463174,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107219,
@@ -1179,6 +1227,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 31933,
+      "num": 633875,
+      "word": "3分钟回顾中国航天员出征太空",
+      "onboard_time": 1698416261,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 27267,
       "num": 39656,
       "word": "花少5宫斗版",
@@ -1209,14 +1265,6 @@
       "onboard_time": 1698434775,
       "rank": 49,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 15087,
-      "num": 633875,
-      "word": "3分钟回顾中国航天员出征太空",
-      "onboard_time": 1698416261,
-      "rank": 2,
-      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
