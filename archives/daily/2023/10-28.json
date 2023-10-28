@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698470117807,
+  "endTime": 1698471257415,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1154827,
+      "num": 302821,
+      "word": "辍学女孩送继妹上学后投河身亡",
+      "onboard_time": 1698466894,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135444,
       "num": 1135444,
       "word": "虞书欣动作做早的反应",
@@ -185,14 +193,6 @@
       "onboard_time": 1698458554,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1019318,
-      "num": 302821,
-      "word": "辍学女孩送继妹上学后投河身亡",
-      "onboard_time": 1698466894,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 890576,
@@ -233,6 +233,14 @@
       "onboard_time": 1698395616,
       "rank": 33,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 729495,
+      "num": 297485,
+      "word": "陈都灵 美人肩",
+      "onboard_time": 1698468992,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 715607,
@@ -297,14 +305,6 @@
       "onboard_time": 1698454893,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595936,
-      "num": 297485,
-      "word": "陈都灵 美人肩",
-      "onboard_time": 1698468992,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 584052,
@@ -435,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 400491,
+      "num": 282791,
+      "word": "薛功灿 完美男主",
+      "onboard_time": 1698469233,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400219,
       "num": 293027,
       "word": "被守护解放西评论笑不活了",
@@ -515,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369727,
+      "raw_hot": 371105,
       "num": 290836,
       "word": "秦岚嗓子都这样了还得唱歌",
       "onboard_time": 1698464072,
@@ -675,14 +683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 280729,
-      "num": 280729,
-      "word": "薛功灿 完美男主",
-      "onboard_time": 1698469233,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276110,
       "num": 276110,
       "word": "美称空袭叙利亚与巴以冲突无关",
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251139,
+      "num": 251139,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1698470371,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248898,
       "num": 226611,
       "word": "虞书欣饭撒",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 245929,
-      "num": 245929,
+      "num": 291388,
       "word": "家里有装监控的要小心了",
       "onboard_time": 1698468513,
       "rank": 26,
@@ -745,6 +753,14 @@
       "onboard_time": 1698455254,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242308,
+      "num": 242308,
+      "word": "鞠婧祎宋威龙千香开机",
+      "onboard_time": 1698471153,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 241607,
@@ -768,6 +784,14 @@
       "word": "小学生玩蛋仔10天花光家里积蓄",
       "onboard_time": 1698450990,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235484,
+      "num": 209431,
+      "word": "袜子囤一周洗男子肺部真菌感染",
+      "onboard_time": 1698469714,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -795,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222106,
+      "num": 222106,
+      "word": "克拉克森绝杀",
+      "onboard_time": 1698469354,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218197,
       "num": 218197,
       "word": "狗狗一头倒在大叔怀里太可爱了吧",
@@ -809,14 +841,6 @@
       "onboard_time": 1698457834,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 210638,
-      "num": 210638,
-      "word": "克拉克森绝杀",
-      "onboard_time": 1698469354,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 209774,
@@ -1043,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169658,
+      "num": 169658,
+      "word": "千香",
+      "onboard_time": 1698470612,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168389,
       "num": 168389,
       "word": "唐登杰任山西省委书记",
@@ -1056,14 +1088,6 @@
       "word": "男孩钱没带够求便宜摊主爽快答应",
       "onboard_time": 1698457474,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168014,
-      "num": 168014,
-      "word": "袜子囤一周洗男子肺部真菌感染",
-      "onboard_time": 1698469714,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142076,
+      "num": 142076,
+      "word": "女子地铁晕倒乘客用衣服帮擦洒落咖啡",
+      "onboard_time": 1698470972,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141017,
       "num": 141017,
       "word": "星际穿越的拍摄与后期呈现",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1698417641,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140365,
+      "num": 140365,
+      "word": "虞书欣A Little Bit直拍",
+      "onboard_time": 1698471032,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 140152,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1698463412,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133963,
+      "num": 133963,
+      "word": "深圳欢乐谷事故4人在ICU救治",
+      "onboard_time": 1698471153,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132396,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1698463174,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109029,
+      "num": 118333,
+      "word": "反复回购清单",
+      "onboard_time": 1698470851,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 107219,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 13:15:17
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 13:34:17
 </p>
 </blockquote>
 <p>
@@ -5127,6 +5127,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%8D%E5%AD%A6%E5%A5%B3%E5%AD%A9%E9%80%81%E7%BB%A7%E5%A6%B9%E4%B8%8A%E5%AD%A6%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
+辍学女孩送继妹上学后投河身亡（热度：1154827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%8D%E8%BF%94%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 王楚钦重返男单世界第一（热度：1152816）
 </a>
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%9A%BB%E7%A7%80%E7%A6%BB%E5%BC%80SMTOWN%23" target="weibo">
 都暻秀离开SMTOWN（热度：1019503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%8D%E5%AD%A6%E5%A5%B3%E5%AD%A9%E9%80%81%E7%BB%A7%E5%A6%B9%E4%B8%8A%E5%AD%A6%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
-辍学女孩送继妹上学后投河身亡（热度：1019318）
 </a>
 </li>
 

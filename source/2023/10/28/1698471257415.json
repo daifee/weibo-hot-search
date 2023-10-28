@@ -1,0 +1,410 @@
+{
+  "runTime": 1698471257415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1898887,
+        "num": 1898887,
+        "word": "小杨哥被指直播低俗言论比徒弟更甚",
+        "onboard_time": 1698464670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605924,
+        "num": 605924,
+        "word": "红绿灯的黄30日销售额超5000万",
+        "onboard_time": 1698463291,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18136,
+        "num": 436871,
+        "word": "3分钟回顾中国航天员出征太空",
+        "onboard_time": 1698416261,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1134489,
+        "num": 431034,
+        "word": "最能预示癌症的20个表现",
+        "onboard_time": 1698464974,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396474,
+        "num": 396474,
+        "word": "深圳欢乐谷开展安全大检查",
+        "onboard_time": 1698453452,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382896,
+        "num": 382896,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299575,
+        "num": 299575,
+        "word": "库里41分",
+        "onboard_time": 1698468812,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291671,
+        "num": 291671,
+        "word": "学生眼中的吴尊友没有一天不在工作",
+        "onboard_time": 1698454893,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245658,
+        "num": 291388,
+        "word": "家里有装监控的要小心了",
+        "onboard_time": 1698468513,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232181,
+        "num": 290129,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1245477,
+        "num": 289521,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1154827,
+        "num": 289194,
+        "word": "辍学女孩送继妹上学后投河身亡",
+        "onboard_time": 1698466894,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130654,
+        "num": 287822,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 230129,
+        "num": 287329,
+        "word": "多次梦到同一个人",
+        "onboard_time": 1698453034,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1043666,
+        "num": 286715,
+        "word": "李钟硕最近状态",
+        "onboard_time": 1698467253,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782472,
+        "num": 285881,
+        "word": "山东一19岁女生在校跳楼身亡",
+        "onboard_time": 1698458911,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729495,
+        "num": 285360,
+        "word": "陈都灵 美人肩",
+        "onboard_time": 1698468992,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529759,
+        "num": 283996,
+        "word": "霉霉资产正式突破十位数",
+        "onboard_time": 1698458554,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484902,
+        "num": 283842,
+        "word": "披荆斩棘推迟上线",
+        "onboard_time": 1698468274,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400491,
+        "num": 282791,
+        "word": "薛功灿 完美男主",
+        "onboard_time": 1698469233,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371105,
+        "num": 281627,
+        "word": "秦岚嗓子都这样了还得唱歌",
+        "onboard_time": 1698464072,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281600,
+        "num": 281600,
+        "word": "守护解放西",
+        "onboard_time": 1698467970,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340578,
+        "num": 274409,
+        "word": "迪丽热巴带了速效救心丸",
+        "onboard_time": 1698459935,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251139,
+        "num": 251139,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1698470371,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247161,
+        "num": 247161,
+        "word": "警方称有权志龙吸毒证据",
+        "onboard_time": 1698452672,
+        "rank": 24,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 244593,
+        "num": 244593,
+        "word": "充电费涨价电车真成电动爹了",
+        "onboard_time": 1698462813,
+        "rank": 25,
+        "category": "汽车,科技"
+      },
+      {
+        "raw_hot": 242308,
+        "num": 242308,
+        "word": "鞠婧祎宋威龙千香开机",
+        "onboard_time": 1698471153,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222106,
+        "num": 222106,
+        "word": "克拉克森绝杀",
+        "onboard_time": 1698469354,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217992,
+        "num": 217992,
+        "word": "狗狗一头倒在大叔怀里太可爱了吧",
+        "onboard_time": 1698467670,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 211059,
+        "num": 211059,
+        "word": "THE9演唱会结尾是全体青春制作人",
+        "onboard_time": 1698462153,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235484,
+        "num": 209431,
+        "word": "袜子囤一周洗男子肺部真菌感染",
+        "onboard_time": 1698469714,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206377,
+        "num": 206377,
+        "word": "女生吃20颗西梅腹泻十几次晕倒",
+        "onboard_time": 1698461431,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199044,
+        "num": 199044,
+        "word": "许凯田曦薇新剧组讯",
+        "onboard_time": 1698468155,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193997,
+        "num": 193997,
+        "word": "五月天 上海11场",
+        "onboard_time": 1698460711,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188849,
+        "num": 188849,
+        "word": "披荆斩棘",
+        "onboard_time": 1698466293,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169658,
+        "num": 169658,
+        "word": "千香",
+        "onboard_time": 1698470612,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159240,
+        "num": 159240,
+        "word": "Crisp及时救难收购摧人心",
+        "onboard_time": 1698467434,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158913,
+        "num": 158913,
+        "word": "进口化妆品价格不到半年腰斩",
+        "onboard_time": 1698456873,
+        "rank": 37,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 153735,
+        "num": 153735,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 152617,
+        "num": 152617,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148173,
+        "num": 148173,
+        "word": "红绿灯的黄",
+        "onboard_time": 1698460411,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 142076,
+        "word": "女子地铁晕倒乘客用衣服帮擦洒落咖啡",
+        "onboard_time": 1698470972,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140365,
+        "num": 140365,
+        "word": "虞书欣A Little Bit直拍",
+        "onboard_time": 1698471032,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136303,
+        "num": 136303,
+        "word": "被守护解放西评论笑不活了",
+        "onboard_time": 1698464974,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133963,
+        "num": 133963,
+        "word": "深圳欢乐谷事故4人在ICU救治",
+        "onboard_time": 1698471153,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 125663,
+        "word": "亲历者讲述欢乐谷过山车追尾事故",
+        "onboard_time": 1698449245,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124141,
+        "num": 124141,
+        "word": "河边的错误预测票房超3亿",
+        "onboard_time": 1698466355,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120354,
+        "num": 120354,
+        "word": "金子涵去看THE9演唱会了",
+        "onboard_time": 1698449906,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119257,
+        "num": 119257,
+        "word": "StrayKids真的好像一群小动物",
+        "onboard_time": 1698468812,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109029,
+        "num": 118333,
+        "word": "反复回购清单",
+        "onboard_time": 1698470851,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}
