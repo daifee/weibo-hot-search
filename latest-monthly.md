@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 22:13:52
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 22:34:03
 </p>
 </blockquote>
 <p>
@@ -2855,6 +2855,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%994%C3%97100%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23" target="weibo">
 中国小伙4×100接力冠军（热度：1667194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%88%B4%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%BB%91%E5%80%92%E5%A4%B4%E7%9A%AE%E7%BC%9D%E4%BA%863%E9%92%88%23" target="weibo">
+13岁女孩戴鲨鱼夹滑倒头皮缝了3针（热度：1661452）
 </a>
 </li>
 
@@ -5925,6 +5931,12 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%AF%81%E4%BB%81%E4%BA%A1%23" target="weibo">
+车毁仁亡（热度：1039049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%99%88%E6%A2%A6%23" target="weibo">
 王楚钦陈梦（热度：1037892）
 </a>
@@ -5999,18 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%BD%B0%E7%82%B8%E5%90%8E%E7%9A%84%E5%8A%A0%E6%B2%99%E5%B0%B8%E6%A8%AA%E9%81%8D%E9%87%8E%23" target="weibo">
 以色列轰炸后的加沙尸横遍野（热度：1032144）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5200%E4%B8%87%E6%8D%90%E6%AC%BE%E5%B7%B2%E5%9F%BA%E6%9C%AC%E9%80%80%E5%AE%8C%23" target="weibo">
-被狗咬女童200万捐款已基本退完（热度：1031109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23" target="weibo">
-徐州一婚礼场地被村民连夜搬空（热度：1030977）
 </a>
 </li>
 
