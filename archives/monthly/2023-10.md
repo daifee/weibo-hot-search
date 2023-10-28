@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 19:13:24
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 19:34:01
 </p>
 </blockquote>
 <p>
@@ -3171,6 +3171,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%B2%BE%E5%AD%90%E8%BF%90%E5%8A%A8%E8%BF%9D%E8%83%8C%E7%89%9B%E9%A1%BF%E7%AC%AC%E4%B8%89%E5%AE%9A%E5%BE%8B%23" target="weibo">
+科学家发现精子运动违背牛顿第三定律（热度：1594564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 女单决赛（热度：1593000）
 </a>
@@ -3809,12 +3815,6 @@ EXO变成CEO了（热度：1420109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23" target="weibo">
 Jennie新歌封面是武内直子画的（热度：1411394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%B2%BE%E5%AD%90%E8%BF%90%E5%8A%A8%E8%BF%9D%E8%83%8C%E7%89%9B%E9%A1%BF%E7%AC%AC%E4%B8%89%E5%AE%9A%E5%BE%8B%23" target="weibo">
-科学家发现精子运动违背牛顿第三定律（热度：1410482）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1698492841552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617338,
+        "num": 1617338,
+        "word": "抽签",
+        "onboard_time": 1698489575,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 384091,
+        "num": 965188,
+        "word": "舅舅带12岁外甥骑行318国道去拉萨",
+        "onboard_time": 1698484230,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39930,
+        "num": 826805,
+        "word": "3分钟看航天员的训练日常",
+        "onboard_time": 1698479133,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821428,
+        "num": 821428,
+        "word": "9块9咖啡让独立咖啡店很受伤",
+        "onboard_time": 1698486572,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 207997,
+        "num": 719161,
+        "word": "外卖小哥取餐时顺手救了场火",
+        "onboard_time": 1698483752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687142,
+        "num": 687142,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189631,
+        "num": 630878,
+        "word": "司机集体给救护车让道后憨憨原地待命",
+        "onboard_time": 1698484352,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 608229,
+        "num": 608229,
+        "word": "T1零封BLG",
+        "onboard_time": 1698488495,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 475492,
+        "num": 475492,
+        "word": "太二酸菜鱼大众点评情况说明",
+        "onboard_time": 1698491374,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814522,
+        "num": 474239,
+        "word": "小杨哥换头像",
+        "onboard_time": 1698483931,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1732578,
+        "num": 473295,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1594564,
+        "num": 471570,
+        "word": "科学家发现精子运动违背牛顿第三定律",
+        "onboard_time": 1698489934,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 669292,
+        "num": 470153,
+        "word": "我妈网购买了一头猪",
+        "onboard_time": 1698491433,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605929,
+        "num": 468867,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578231,
+        "num": 468643,
+        "word": "李善均鞠躬道歉",
+        "onboard_time": 1698489633,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635548,
+        "num": 466577,
+        "word": "和王诗龄合拍的男生该汗流浃背了",
+        "onboard_time": 1698475113,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 493529,
+        "num": 464650,
+        "word": "林心如霍建华带女儿沙滩玩耍",
+        "onboard_time": 1698491854,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464650,
+        "num": 464649,
+        "word": "大学生用遮瑕把自己涂成阿凡达",
+        "onboard_time": 1698491795,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 385404,
+        "num": 385404,
+        "word": "田耕纪编剧起诉剧方",
+        "onboard_time": 1698491974,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382922,
+        "num": 382922,
+        "word": "安徽通报男子同时迎娶两个新娘",
+        "onboard_time": 1698485553,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569487,
+        "num": 365909,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324322,
+        "num": 324322,
+        "word": "WBG好签",
+        "onboard_time": 1698490895,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 311986,
+        "num": 311986,
+        "word": "扁平脸把这个妆半永久在脸上",
+        "onboard_time": 1698484651,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305492,
+        "num": 305492,
+        "word": "KT倒霉蛋",
+        "onboard_time": 1698489995,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302644,
+        "num": 302644,
+        "word": "田曦薇身材曲线",
+        "onboard_time": 1698477092,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280487,
+        "num": 280487,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 275905,
+        "num": 275905,
+        "word": "on牛头 疯牛病",
+        "onboard_time": 1698488853,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274879,
+        "num": 274879,
+        "word": "娜扎大梦归离神女路透",
+        "onboard_time": 1698488495,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201857,
+        "num": 201857,
+        "word": "迪丽热巴辛芷蕾互相拿错名字",
+        "onboard_time": 1698488192,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201232,
+        "num": 201232,
+        "word": "邓超请大家看一个和四个",
+        "onboard_time": 1698491554,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197147,
+        "num": 197147,
+        "word": "LPL好签",
+        "onboard_time": 1698492574,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187341,
+        "num": 187341,
+        "word": "世一抽",
+        "onboard_time": 1698491135,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187122,
+        "num": 187122,
+        "word": "家常茄子油多好吃还是油少好吃",
+        "onboard_time": 1698492333,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186513,
+        "num": 186513,
+        "word": "过山车设备厂家解释事故原因",
+        "onboard_time": 1698488132,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183039,
+        "num": 183039,
+        "word": "杨紫我们的美好生活播放量破亿",
+        "onboard_time": 1698489093,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180695,
+        "num": 180695,
+        "word": "冯禧气质",
+        "onboard_time": 1698480571,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179675,
+        "num": 179675,
+        "word": "陈楚生 他不爱我",
+        "onboard_time": 1698474092,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166891,
+        "num": 166891,
+        "word": "冲出去救人那一瞬她忘了自己是个病人",
+        "onboard_time": 1698491254,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166644,
+        "num": 166644,
+        "word": "交警一把扯下自己领带为驾驶员止血",
+        "onboard_time": 1698492636,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166305,
+        "num": 166305,
+        "word": "和爱的人一起睡是大补",
+        "onboard_time": 1698489034,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163131,
+        "num": 163131,
+        "word": "厦门航空通报飞机被刮蹭",
+        "onboard_time": 1698485615,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159703,
+        "num": 159703,
+        "word": "共创之夜",
+        "onboard_time": 1698490354,
+        "rank": 41,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 151035,
+        "num": 151035,
+        "word": "WBG将对战FNC",
+        "onboard_time": 1698491491,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150714,
+        "num": 150714,
+        "word": "王者荣耀2023周年庆",
+        "onboard_time": 1698482732,
+        "rank": 43,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 148229,
+        "num": 148229,
+        "word": "秦海璐外语真学不了一点",
+        "onboard_time": 1698487411,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147604,
+        "num": 147604,
+        "word": "我可以47",
+        "onboard_time": 1698492694,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147055,
+        "num": 147055,
+        "word": "美国总统拜登在白宫会见王毅",
+        "onboard_time": 1698482913,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146001,
+        "num": 146001,
+        "word": "Bin连续单杀Zeus",
+        "onboard_time": 1698491374,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141872,
+        "num": 141872,
+        "word": "看月亮",
+        "onboard_time": 1698486812,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 139593,
+        "num": 139593,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
+    }
+  }
+}
