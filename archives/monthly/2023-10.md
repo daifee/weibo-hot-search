@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 07:34:13
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 09:09:31
 </p>
 </blockquote>
 <p>
@@ -2397,6 +2397,12 @@ K5133次旅客列车运行中脱轨（热度：1792980）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A2%AB%E5%8F%B0%E4%B8%8B%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84%23" target="weibo">
+虞书欣被台下激光笔照射（热度：1790374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AF%AE%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 男篮发布会（热度：1782255）
 </a>
@@ -3507,6 +3513,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E5%8E%95%E6%89%80%E6%97%B6%E9%97%B4%E9%83%BD%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
+中小学生连厕所时间都快没了（热度：1475346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B9%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23" target="weibo">
 易烊千玺也去看了坚如磐石（热度：1474068）
 </a>
@@ -4305,6 +4317,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%9C%89%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%B8%E6%AF%92%E8%AF%81%E6%8D%AE%23" target="weibo">
+警方称有权志龙吸毒证据（热度：1303587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%9D%901%E5%B0%8F%E6%97%B6%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD22%E5%88%86%E9%92%9F%23" target="weibo">
 每坐1小时平均寿命缩短22分钟（热度：1302987）
 </a>
@@ -4499,6 +4517,12 @@ THE9合体再跳YESOK（热度：1276398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E9%A2%86%E8%AF%81%E7%9A%84%E5%A7%91%E7%88%B7%E6%AF%94%E9%A9%B4%E9%83%BD%E8%83%BD%E5%B9%B2%23" target="weibo">
 没领证的姑爷比驴都能干（热度：1269580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%AD%98%E6%AC%BE3500%E5%85%83%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%B8%80%E4%B8%AA0%E7%A7%92%E9%80%80%E8%BF%98%23" target="weibo">
+夫妻存款3500元发现多一个0秒退还（热度：1269550）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ A股（热度：1016083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E4%BD%BF%E7%94%A8%E6%9C%AB%E6%97%A5%E6%AD%A6%E5%99%A8%23" target="weibo">
 以色列议员呼吁使用末日武器（热度：1012975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%846%E4%B8%AA%E8%A1%A8%E7%8E%B0%23" target="weibo">
-女生气血不足的6个表现（热度：1012820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E9%98%9F%E5%88%86%E6%9E%90%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E6%83%85%E5%86%B5%23" target="weibo">
-救援队分析上海4岁女童走失情况（热度：1012788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%BF%83%E6%80%81%E5%A4%B1%E8%A1%A1%23" target="weibo">
-杨鸣评价中国男篮心态失衡（热度：1012699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%20%E4%B8%89%E5%B9%B4%E4%B8%8D%E8%A7%81%E7%94%B7%E5%A4%A7%E5%8D%81%E5%85%AB%E5%8F%98%23" target="weibo">
-宋威龙 三年不见男大十八变（热度：1012617）
 </a>
 </li>
 
