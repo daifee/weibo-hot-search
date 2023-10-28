@@ -1,0 +1,410 @@
+{
+  "runTime": 1698456582857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633600,
+        "num": 633600,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 551840,
+        "num": 551840,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 22253,
+        "num": 536076,
+        "word": "进博会5大亮点抢鲜看",
+        "onboard_time": 1698410979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467532,
+        "num": 531309,
+        "word": "叙利亚",
+        "onboard_time": 1698451770,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1175568,
+        "num": 528443,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522387,
+        "num": 522387,
+        "word": "以为有蛇偷蛋村民扒开枯枝发现国宝",
+        "onboard_time": 1698451533,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476079,
+        "num": 476079,
+        "word": "多次梦到同一个人",
+        "onboard_time": 1698453034,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445160,
+        "num": 445160,
+        "word": "深圳欢乐谷开展安全大检查",
+        "onboard_time": 1698453452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389983,
+        "num": 444996,
+        "word": "以军宣布扩大在加沙的地面行动规模",
+        "onboard_time": 1698451110,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 327350,
+        "num": 443273,
+        "word": "13岁男孩开车上高速行驶500公里",
+        "onboard_time": 1698454955,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666976,
+        "num": 441726,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1361742,
+        "num": 441087,
+        "word": "警方称有权志龙吸毒证据",
+        "onboard_time": 1698452672,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1214949,
+        "num": 439529,
+        "word": "中小学生连厕所时间都快没了",
+        "onboard_time": 1698421060,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 736992,
+        "num": 438235,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 13,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 706273,
+        "num": 437131,
+        "word": "官方通报村书记威胁女子发生性关系",
+        "onboard_time": 1698450389,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687179,
+        "num": 435891,
+        "word": "亲历者讲述欢乐谷过山车追尾事故",
+        "onboard_time": 1698449245,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675085,
+        "num": 434714,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 16,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 608357,
+        "num": 433919,
+        "word": "学生眼中的吴尊友没有一天不在工作",
+        "onboard_time": 1698454893,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511575,
+        "num": 433006,
+        "word": "日本年轻人开始流行周末婚",
+        "onboard_time": 1698417942,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 464110,
+        "num": 431486,
+        "word": "花少全员透着清澈的愚蠢",
+        "onboard_time": 1698451289,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477157,
+        "num": 430377,
+        "word": "14岁男生吃完烤全羊竟然变小黄人",
+        "onboard_time": 1698450266,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429868,
+        "num": 429868,
+        "word": "金子涵去看THE9演唱会了",
+        "onboard_time": 1698449906,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417802,
+        "num": 417802,
+        "word": "马立奥 爸爸当家一天",
+        "onboard_time": 1698452737,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411614,
+        "num": 411614,
+        "word": "深圳欢乐谷闭园两天",
+        "onboard_time": 1698453215,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398815,
+        "num": 398815,
+        "word": "何超莲窦骁挽手出席活动",
+        "onboard_time": 1698452672,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346166,
+        "num": 346166,
+        "word": "性子很急的人到底哪里有问题",
+        "onboard_time": 1698453394,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225540,
+        "num": 310648,
+        "word": "孙颖莎首轮遭遇田志希",
+        "onboard_time": 1698447681,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307508,
+        "num": 307508,
+        "word": "流浪地球2角逐奥斯卡",
+        "onboard_time": 1698453154,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300357,
+        "num": 300357,
+        "word": "深圳欢乐谷通报",
+        "onboard_time": 1698414763,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288769,
+        "num": 288769,
+        "word": "原来这就是虚胖和实胖的区别",
+        "onboard_time": 1698454357,
+        "rank": 29,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 276110,
+        "num": 276110,
+        "word": "美称空袭叙利亚与巴以冲突无关",
+        "onboard_time": 1698453572,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 242927,
+        "num": 242927,
+        "word": "谁给张雪峰创造了生存空间",
+        "onboard_time": 1698447924,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237452,
+        "num": 237452,
+        "word": "邓紫棋林俊杰现场版手心的蔷薇",
+        "onboard_time": 1698453274,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237214,
+        "num": 237214,
+        "word": "小学生玩蛋仔10天花光家里积蓄",
+        "onboard_time": 1698450990,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229802,
+        "num": 229802,
+        "word": "加沙",
+        "onboard_time": 1698452854,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 227211,
+        "num": 227211,
+        "word": "吴尊友生前采访",
+        "onboard_time": 1698455254,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217659,
+        "num": 217659,
+        "word": "亲历者称过山车事故推测弹射装置气压不足",
+        "onboard_time": 1698456453,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201230,
+        "num": 201230,
+        "word": "大虞海棠",
+        "onboard_time": 1698421898,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196297,
+        "num": 196297,
+        "word": "刘雨昕银发大屏",
+        "onboard_time": 1698455435,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194120,
+        "num": 194120,
+        "word": "张天爱蓝色羽毛抹胸裙",
+        "onboard_time": 1698456155,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193043,
+        "num": 193043,
+        "word": "孔雪儿yes ok直拍",
+        "onboard_time": 1698452792,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188397,
+        "num": 188397,
+        "word": "虞书欣动作做早的反应",
+        "onboard_time": 1698421002,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168558,
+        "num": 168558,
+        "word": "手机电量1%女子迷路紧急求助110",
+        "onboard_time": 1698412900,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163478,
+        "num": 163478,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159896,
+        "num": 159896,
+        "word": "夺得世界冠军的中国面包原料是西藏青稞",
+        "onboard_time": 1698421362,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155204,
+        "num": 155204,
+        "word": "iPhone15Pro所有版本均破发",
+        "onboard_time": 1698448886,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152524,
+        "num": 152524,
+        "word": "吴尊友逝世",
+        "onboard_time": 1698396773,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147157,
+        "num": 147157,
+        "word": "他没有双手却拍下无数动人照片",
+        "onboard_time": 1698456574,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125228,
+        "num": 141587,
+        "word": "为什么拖完地瓷砖有股腥味",
+        "onboard_time": 1698420161,
+        "rank": 48,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 107619,
+        "num": 141072,
+        "word": "逛海鲜市场偶遇1米多长的带鱼",
+        "onboard_time": 1698452011,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}
