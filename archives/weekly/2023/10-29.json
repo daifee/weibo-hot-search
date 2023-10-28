@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698532444560,
+  "endTime": 1698534959564,
   "band_list": [
     {
       "raw_hot": 2203373,
@@ -147,6 +147,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 381634,
+      "num": 381634,
+      "word": "男朋友给我做了个电子衣橱",
+      "onboard_time": 1698529814,
+      "rank": 22,
+      "category": "时尚,情感"
+    },
+    {
       "raw_hot": 365752,
       "num": 349372,
       "word": "张杰音乐节",
@@ -267,6 +275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231107,
+      "num": 231107,
+      "word": "她32岁成教授级工程师",
+      "onboard_time": 1698512905,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227577,
+      "num": 227577,
+      "word": "女子为减肥连吃3月胡萝卜变小橘人",
+      "onboard_time": 1698534079,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227210,
       "num": 227210,
       "word": "李克强同志逝世",
@@ -275,11 +299,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 213217,
-      "num": 213217,
-      "word": "她32岁成教授级工程师",
-      "onboard_time": 1698512905,
-      "rank": 37,
+      "raw_hot": 207332,
+      "num": 90832,
+      "word": "1晚少了11只螃蟹蟹农怒而报警",
+      "onboard_time": 1698525615,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -443,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106190,
-      "num": 44917,
-      "word": "1晚少了11只螃蟹蟹农怒而报警",
-      "onboard_time": 1698525615,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104378,
       "num": 104378,
       "word": "李克强同志讣告",
@@ -475,20 +491,52 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75416,
-      "num": 54875,
-      "word": "男朋友给我做了个电子衣橱",
-      "onboard_time": 1698529814,
-      "rank": 22,
-      "category": "时尚,情感"
+      "raw_hot": 71545,
+      "num": 71545,
+      "word": "河南一小区为防高空坠物布满钢丝网",
+      "onboard_time": 1698534139,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 55764,
-      "num": 55764,
+      "raw_hot": 69086,
+      "num": 69086,
+      "word": "辛芷蕾人设逐渐不在了",
+      "onboard_time": 1698534558,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65199,
+      "num": 65199,
       "word": "林心如霍建华带女儿沙滩玩耍",
       "onboard_time": 1698491854,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58489,
+      "num": 58489,
+      "word": "短道速滑",
+      "onboard_time": 1698534681,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55534,
+      "num": 55534,
+      "word": "女教师持续31年在乡村播种航天梦",
+      "onboard_time": 1698532338,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 50427,
+      "num": 50427,
+      "word": "DOTA2",
+      "onboard_time": 1698534499,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 43903,
@@ -515,6 +563,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33957,
+      "num": 33957,
+      "word": "小狗能正的骨 咱车也能正",
+      "onboard_time": 1698527654,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 32324,
+      "num": 32324,
+      "word": "长江枝江段又见2只江豚戏水",
+      "onboard_time": 1698534079,
+      "rank": 47,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 30302,
+      "num": 30302,
+      "word": "挖机师傅帮老人平土被追着塞水感谢",
+      "onboard_time": 1698534079,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26583,
       "num": 26583,
       "word": "猫都知道自己叫咪咪",
@@ -523,23 +595,7 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 26184,
-      "num": 26184,
-      "word": "小狗能正的骨 咱车也能正",
-      "onboard_time": 1698527654,
-      "rank": 49,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 18284,
-      "num": 22755,
-      "word": "女教师持续31年在乡村播种航天梦",
-      "onboard_time": 1698532338,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 14577,
+      "raw_hot": 22223,
       "num": 368349,
       "word": "向世界展示中国青年的青春力量",
       "onboard_time": 1698496897,

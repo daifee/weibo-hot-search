@@ -1,0 +1,410 @@
+{
+  "runTime": 1698534959564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 381634,
+        "num": 381634,
+        "word": "男朋友给我做了个电子衣橱",
+        "onboard_time": 1698529814,
+        "rank": 0,
+        "category": "时尚,情感"
+      },
+      {
+        "raw_hot": 357620,
+        "num": 357620,
+        "word": "被生母虐待致残男童仍惦记妈妈",
+        "onboard_time": 1698506799,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22223,
+        "num": 290868,
+        "word": "向世界展示中国青年的青春力量",
+        "onboard_time": 1698496897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288169,
+        "num": 288169,
+        "word": "教师全员竞聘上岗",
+        "onboard_time": 1698492995,
+        "rank": 3,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 231107,
+        "num": 231107,
+        "word": "她32岁成教授级工程师",
+        "onboard_time": 1698512905,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227577,
+        "num": 227577,
+        "word": "女子为减肥连吃3月胡萝卜变小橘人",
+        "onboard_time": 1698534079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197619,
+        "num": 197619,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154154,
+        "num": 154154,
+        "word": "体制内你不知道的文件命名",
+        "onboard_time": 1698503859,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 143887,
+        "num": 143887,
+        "word": "以方拒绝联大呼吁巴以停火的决议",
+        "onboard_time": 1698504697,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 133282,
+        "word": "巨显发量的双麻花辫",
+        "onboard_time": 1698508413,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 449380,
+        "num": 130339,
+        "word": "内娱慕强批的天堂",
+        "onboard_time": 1698507634,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358444,
+        "num": 128024,
+        "word": "科学家发现精子运动违背牛顿第三定律",
+        "onboard_time": 1698489934,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 348562,
+        "num": 126228,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331689,
+        "num": 122766,
+        "word": "李善均全慧珍紧急送小儿子出国",
+        "onboard_time": 1698497555,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160087,
+        "num": 120178,
+        "word": "虞书欣爷爷去看THE9演唱会了",
+        "onboard_time": 1698498576,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139543,
+        "num": 116636,
+        "word": "周小仙 一天格格装妆造体验卡",
+        "onboard_time": 1698509493,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115274,
+        "num": 115274,
+        "word": "贝林厄姆",
+        "onboard_time": 1698515538,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110625,
+        "num": 110625,
+        "word": "陈楚生居然唱了活该",
+        "onboard_time": 1698507456,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106953,
+        "num": 106953,
+        "word": "杨幂生图",
+        "onboard_time": 1698492995,
+        "rank": 18,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 96588,
+        "num": 96588,
+        "word": "李宇春唱陆贞传奇主题曲",
+        "onboard_time": 1698508054,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275551,
+        "num": 93061,
+        "word": "胎儿8斤重产妇要求剖腹产被拒",
+        "onboard_time": 1698505537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207332,
+        "num": 90832,
+        "word": "1晚少了11只螃蟹蟹农怒而报警",
+        "onboard_time": 1698525615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87053,
+        "num": 87053,
+        "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
+        "onboard_time": 1698501216,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77972,
+        "num": 77972,
+        "word": "JustinBieber万圣节潜水造型",
+        "onboard_time": 1698511707,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74092,
+        "num": 74092,
+        "word": "王嘉尔在温州参加婚礼",
+        "onboard_time": 1698496355,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73853,
+        "num": 73853,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71545,
+        "num": 71545,
+        "word": "河南一小区为防高空坠物布满钢丝网",
+        "onboard_time": 1698534139,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69086,
+        "num": 69086,
+        "word": "辛芷蕾人设逐渐不在了",
+        "onboard_time": 1698534558,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65199,
+        "num": 65199,
+        "word": "林心如霍建华带女儿沙滩玩耍",
+        "onboard_time": 1698491854,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60256,
+        "num": 60256,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58489,
+        "num": 58489,
+        "word": "短道速滑",
+        "onboard_time": 1698534681,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56004,
+        "num": 56004,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55534,
+        "num": 55534,
+        "word": "女教师持续31年在乡村播种航天梦",
+        "onboard_time": 1698532338,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 55166,
+        "num": 55166,
+        "word": "杨幂沈腾同框",
+        "onboard_time": 1698495034,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 54078,
+        "num": 54078,
+        "word": "张杰音乐节",
+        "onboard_time": 1698507400,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50465,
+        "num": 50465,
+        "word": "沈腾檀健次打游戏",
+        "onboard_time": 1698508653,
+        "rank": 35,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 50427,
+        "num": 50427,
+        "word": "DOTA2",
+        "onboard_time": 1698534499,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48268,
+        "num": 48268,
+        "word": "赖冠霖 人要近看了都差不多",
+        "onboard_time": 1698503139,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46777,
+        "num": 46777,
+        "word": "田耕纪编剧起诉剧方",
+        "onboard_time": 1698491974,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40621,
+        "num": 40621,
+        "word": "许佳琪带伤跳蝎子舞好拼",
+        "onboard_time": 1698507215,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39950,
+        "num": 39950,
+        "word": "张大仙 欢迎来到王者荣耀",
+        "onboard_time": 1698503619,
+        "rank": 40,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 39134,
+        "num": 39134,
+        "word": "檀健次跳国风舞了",
+        "onboard_time": 1698496475,
+        "rank": 41,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 37037,
+        "num": 37037,
+        "word": "粉底前先打一层白色的底",
+        "onboard_time": 1698510269,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 36549,
+        "num": 36549,
+        "word": "刘雨昕唱promise哽咽了",
+        "onboard_time": 1698506736,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35795,
+        "num": 35795,
+        "word": "大学生用遮瑕把自己涂成阿凡达",
+        "onboard_time": 1698491795,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 33957,
+        "num": 33957,
+        "word": "小狗能正的骨 咱车也能正",
+        "onboard_time": 1698527654,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 32670,
+        "num": 32670,
+        "word": "王源 公主请喝水",
+        "onboard_time": 1698501337,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32324,
+        "num": 32324,
+        "word": "长江枝江段又见2只江豚戏水",
+        "onboard_time": 1698534079,
+        "rank": 47,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 31082,
+        "num": 31082,
+        "word": "虞书欣甲片都跳掉了",
+        "onboard_time": 1698501034,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30302,
+        "num": 30302,
+        "word": "挖机师傅帮老人平土被追着塞水感谢",
+        "onboard_time": 1698534079,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识#"
+    }
+  }
+}
