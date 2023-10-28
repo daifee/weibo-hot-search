@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698474843529,
+  "endTime": 1698477299964,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -73,6 +73,14 @@
       "onboard_time": 1698462273,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1814901,
+      "num": 230119,
+      "word": "和王诗龄合拍的男生该汗流浃背了",
+      "onboard_time": 1698475113,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1733720,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 941823,
+      "num": 298185,
+      "word": "陈楚生 他不爱我",
+      "onboard_time": 1698474092,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 935321,
       "num": 322570,
       "word": "冯禧活动造型",
@@ -225,6 +241,14 @@
       "onboard_time": 1698457834,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789214,
+      "num": 228771,
+      "word": "田曦薇身材曲线",
+      "onboard_time": 1698477092,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 787261,
@@ -264,6 +288,14 @@
       "word": "亲历者讲述欢乐谷过山车追尾事故",
       "onboard_time": 1698449245,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695231,
+      "num": 695231,
+      "word": "亲历者回忆过山车回滑太快起火花",
+      "onboard_time": 1698474873,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -403,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 473879,
-      "num": 298185,
-      "word": "陈楚生 他不爱我",
-      "onboard_time": 1698474092,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466114,
       "num": 289237,
       "word": "红绿灯的黄",
@@ -465,6 +489,14 @@
       "onboard_time": 1698472771,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413949,
+      "num": 413949,
+      "word": "蛋仔派对",
+      "onboard_time": 1698474631,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 410583,
@@ -545,6 +577,14 @@
       "onboard_time": 1698453154,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 379953,
+      "num": 225314,
+      "word": "男子公交上裸露下体偷拍女生",
+      "onboard_time": 1698476191,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376040,
@@ -715,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310295,
+      "num": 223696,
+      "word": "时代少年团台历",
+      "onboard_time": 1698476309,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304527,
       "num": 304527,
       "word": "吴尊友与癌症搏斗了两年",
@@ -771,12 +819,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 274797,
+      "num": 221926,
+      "word": "女朋友给我打包的拉面",
+      "onboard_time": 1698475292,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271527,
       "num": 1279292,
       "word": "李克强同志逝世",
       "onboard_time": 1698365932,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 267871,
+      "num": 267871,
+      "word": "这三种护肤品要拉进黑名单",
+      "onboard_time": 1698476251,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 261435,
@@ -907,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220356,
+      "num": 220356,
+      "word": "建议爱到这种程度再结婚",
+      "onboard_time": 1698474211,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218197,
       "num": 218197,
       "word": "狗狗一头倒在大叔怀里太可爱了吧",
@@ -939,6 +1011,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209164,
+      "num": 209164,
+      "word": "于和伟被嫌弃的小波的一生",
+      "onboard_time": 1698476670,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208658,
+      "num": 208658,
+      "word": "龚俊的原声台词",
+      "onboard_time": 1698476554,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205726,
+      "num": 205726,
+      "word": "我要逆风去定档海报",
+      "onboard_time": 1698476072,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204993,
       "num": 204993,
       "word": "杭州一小学有个接收学生秘密的YOYO邮筒",
@@ -969,6 +1065,14 @@
       "onboard_time": 1698406067,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199024,
+      "num": 199024,
+      "word": "迪丽热巴reaction",
+      "onboard_time": 1698475351,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 198233,
@@ -1017,14 +1121,6 @@
       "onboard_time": 1698456155,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192613,
-      "num": 315522,
-      "word": "蛋仔派对",
-      "onboard_time": 1698474631,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 192015,
@@ -1139,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174168,
-      "num": 174168,
-      "word": "建议爱到这种程度再结婚",
-      "onboard_time": 1698474211,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173502,
       "num": 173502,
       "word": "Crisp及时救难收购摧人心",
@@ -1203,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168383,
+      "num": 206186,
+      "word": "深圳欢乐谷被曝多次出现弹射失败",
+      "onboard_time": 1698477153,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168382,
       "num": 168382,
       "word": "男孩钱没带够求便宜摊主爽快答应",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1698450870,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167096,
+      "num": 167096,
+      "word": "元彬贝雷帽造型",
+      "onboard_time": 1698476913,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160742,
@@ -1260,7 +1364,7 @@
     },
     {
       "raw_hot": 150670,
-      "num": 241143,
+      "num": 641170,
       "word": "亚残运闭幕式中国代表团旗手公布",
       "onboard_time": 1698459872,
       "rank": 45,
@@ -1393,6 +1497,14 @@
       "onboard_time": 1698465811,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130120,
+      "num": 130120,
+      "word": "虞书欣白色公主裙造型",
+      "onboard_time": 1698475470,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 129617,
@@ -1649,6 +1761,14 @@
       "onboard_time": 1698448105,
       "rank": 49,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 51452,
+      "num": 169711,
+      "word": "靠点外卖吃上真太空餐了",
+      "onboard_time": 1698476431,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51154,
