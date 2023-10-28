@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698499065480,
+  "endTime": 1698500041562,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -147,7 +147,7 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1536400,
+      "raw_hot": 1547308,
       "num": 279609,
       "word": "杨幂生图",
       "onboard_time": 1698492995,
@@ -209,6 +209,14 @@
       "onboard_time": 1698452672,
       "rank": 12,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1352407,
+      "num": 279125,
+      "word": "李善均全慧珍紧急送小儿子出国",
+      "onboard_time": 1698497555,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1309047,
@@ -345,14 +353,6 @@
       "onboard_time": 1698472054,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 914974,
-      "num": 279125,
-      "word": "李善均全慧珍紧急送小儿子出国",
-      "onboard_time": 1698497555,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 890576,
@@ -523,7 +523,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656594,
+      "raw_hot": 659854,
+      "num": 278413,
+      "word": "虞书欣爷爷去看THE9演唱会了",
+      "onboard_time": 1698498576,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 658036,
       "num": 278703,
       "word": "王嘉尔在温州参加婚礼",
       "onboard_time": 1698496355,
@@ -585,14 +593,6 @@
       "onboard_time": 1698454893,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607173,
-      "num": 278413,
-      "word": "虞书欣爷爷去看THE9演唱会了",
-      "onboard_time": 1698498576,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 597774,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429930,
+      "num": 242748,
+      "word": "王源直播",
+      "onboard_time": 1698499358,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421659,
       "num": 247093,
       "word": "时代少年团四季大片",
@@ -905,6 +913,14 @@
       "onboard_time": 1698482854,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 406015,
+      "num": 277291,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1698498157,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 403030,
@@ -1011,14 +1027,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 369702,
-      "num": 277291,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1698498157,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 366641,
       "num": 269963,
       "word": "村支书被曝强迫留守妇女发生关系",
@@ -1123,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333645,
+      "num": 276818,
+      "word": "睡前多和孩子聊聊这些废话",
+      "onboard_time": 1698497496,
+      "rank": 28,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 332915,
       "num": 279234,
       "word": "THE9演唱会结尾是全体青春制作人",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1698404610,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300664,
-      "num": 276818,
-      "word": "睡前多和孩子聊聊这些废话",
-      "onboard_time": 1698497496,
-      "rank": 28,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 298495,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1698415182,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264912,
+      "num": 239698,
+      "word": "苹果手机怎么不香了",
+      "onboard_time": 1698498397,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 261435,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1698459813,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232202,
+      "num": 232202,
+      "word": "喻言异兽首秀杀疯了",
+      "onboard_time": 1698499959,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 232096,
@@ -1699,14 +1723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200863,
-      "num": 200863,
-      "word": "苹果手机怎么不香了",
-      "onboard_time": 1698498397,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 199024,
       "num": 199024,
       "word": "迪丽热巴reaction",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1698448886,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197161,
+      "num": 197161,
+      "word": "油性皮肤还需要补水保湿吗",
+      "onboard_time": 1698498096,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 197147,
@@ -1785,14 +1809,6 @@
       "onboard_time": 1698494014,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195052,
-      "num": 195052,
-      "word": "油性皮肤还需要补水保湿吗",
-      "onboard_time": 1698498096,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 194120,
@@ -2043,6 +2059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169827,
+      "num": 169827,
+      "word": "切尔西vs布伦特福德",
+      "onboard_time": 1698499895,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169707,
       "num": 169707,
       "word": "白雪公主真人电影首曝剧照",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1698493417,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165688,
+      "num": 165688,
+      "word": "坐轮椅跳舞的阿姨收到一件汉服",
+      "onboard_time": 1698499475,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164043,
@@ -2377,6 +2409,14 @@
       "onboard_time": 1698478233,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138463,
+      "num": 138463,
+      "word": "跟着鞠婧祎画进阶版淡妆",
+      "onboard_time": 1698499657,
+      "rank": 45,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 137183,

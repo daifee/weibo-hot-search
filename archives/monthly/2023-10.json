@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698499065480,
+  "endTime": 1698500041562,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -4467,6 +4467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1547308,
+      "num": 279609,
+      "word": "杨幂生图",
+      "onboard_time": 1698492995,
+      "rank": 10,
+      "category": "电竞,演出"
+    },
+    {
       "raw_hot": 1546862,
       "num": 1546862,
       "word": "DOTA2中国队晋级决赛",
@@ -4521,14 +4529,6 @@
       "onboard_time": 1697018858,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1536400,
-      "num": 279609,
-      "word": "杨幂生图",
-      "onboard_time": 1698492995,
-      "rank": 10,
-      "category": "电竞,演出"
     },
     {
       "raw_hot": 1534893,
@@ -5535,6 +5535,14 @@
       "num": 360543,
       "word": "妻子称非常害怕嫁给威尔史密斯",
       "onboard_time": 1697432377,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1352407,
+      "num": 279125,
+      "word": "李善均全慧珍紧急送小儿子出国",
+      "onboard_time": 1698497555,
       "rank": 13,
       "category": "艺人"
     },
@@ -9376,14 +9384,6 @@
       "word": "虞书欣方回应浪费粮食",
       "onboard_time": 1698068680,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 914974,
-      "num": 279125,
-      "word": "李善均全慧珍紧急送小儿子出国",
-      "onboard_time": 1698497555,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -14507,6 +14507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 659854,
+      "num": 278413,
+      "word": "虞书欣爷爷去看THE9演唱会了",
+      "onboard_time": 1698498576,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 659781,
       "num": 659781,
       "word": "周深戏腔一开口惠英红都坐不住了",
@@ -14571,6 +14579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658036,
+      "num": 278703,
+      "word": "王嘉尔在温州参加婚礼",
+      "onboard_time": 1698496355,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657996,
       "num": 657996,
       "word": "迷笛盗窃事件或受短视频误导",
@@ -14608,14 +14624,6 @@
       "word": "赵丽颖去布拉格了",
       "onboard_time": 1697199874,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 656594,
-      "num": 278703,
-      "word": "王嘉尔在温州参加婚礼",
-      "onboard_time": 1698496355,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -16217,14 +16225,6 @@
       "onboard_time": 1696741363,
       "rank": 25,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 607173,
-      "num": 278413,
-      "word": "虞书欣爷爷去看THE9演唱会了",
-      "onboard_time": 1698498576,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 607046,
@@ -24755,6 +24755,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 429930,
+      "num": 242748,
+      "word": "王源直播",
+      "onboard_time": 1698499358,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429767,
       "num": 429767,
       "word": "TheShy 来还债的",
@@ -26097,6 +26105,14 @@
       "onboard_time": 1696387899,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406015,
+      "num": 277291,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1698498157,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 405923,
@@ -28713,14 +28729,6 @@
       "onboard_time": 1697419773,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369702,
-      "num": 277291,
-      "word": "林俊杰演唱会",
-      "onboard_time": 1698498157,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 369573,
@@ -31905,6 +31913,14 @@
       "onboard_time": 1697707356,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333645,
+      "num": 276818,
+      "word": "睡前多和孩子聊聊这些废话",
+      "onboard_time": 1698497496,
+      "rank": 28,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 333518,
@@ -35209,14 +35225,6 @@
       "onboard_time": 1697356834,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300664,
-      "num": 276818,
-      "word": "睡前多和孩子聊聊这些废话",
-      "onboard_time": 1698497496,
-      "rank": 28,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 300656,
@@ -39945,6 +39953,14 @@
       "onboard_time": 1697465257,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264912,
+      "num": 239698,
+      "word": "苹果手机怎么不香了",
+      "onboard_time": 1698498397,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 264865,
@@ -45529,6 +45545,14 @@
       "onboard_time": 1696827764,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 232202,
+      "num": 232202,
+      "word": "喻言异兽首秀杀疯了",
+      "onboard_time": 1698499959,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 232173,
@@ -52843,14 +52867,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 200863,
-      "num": 200863,
-      "word": "苹果手机怎么不香了",
-      "onboard_time": 1698498397,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 200838,
       "num": 200838,
       "word": "中国队亚运金牌创历史新高",
@@ -54131,6 +54147,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 197161,
+      "num": 197161,
+      "word": "油性皮肤还需要补水保湿吗",
+      "onboard_time": 1698498096,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 197160,
       "num": 197160,
       "word": "Jennie个人单曲预告海报",
@@ -54737,14 +54761,6 @@
       "onboard_time": 1697341594,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195052,
-      "num": 195052,
-      "word": "油性皮肤还需要补水保湿吗",
-      "onboard_time": 1698498096,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 195050,
@@ -61803,6 +61819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169827,
+      "num": 169827,
+      "word": "切尔西vs布伦特福德",
+      "onboard_time": 1698499895,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169826,
       "num": 169826,
       "word": "消防队员在地上爬行用身体当担架",
@@ -62745,6 +62769,14 @@
       "onboard_time": 1697873675,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165688,
+      "num": 165688,
+      "word": "坐轮椅跳舞的阿姨收到一件汉服",
+      "onboard_time": 1698499475,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165635,
@@ -68881,6 +68913,14 @@
       "onboard_time": 1698069405,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138463,
+      "num": 138463,
+      "word": "跟着鞠婧祎画进阶版淡妆",
+      "onboard_time": 1698499657,
+      "rank": 45,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 138432,
