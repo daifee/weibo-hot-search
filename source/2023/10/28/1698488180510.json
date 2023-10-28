@@ -1,0 +1,410 @@
+{
+  "runTime": 1698488180510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685354,
+        "num": 1685354,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446195,
+        "num": 1329674,
+        "word": "舅舅带12岁外甥骑行318国道去拉萨",
+        "onboard_time": 1698484230,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36333,
+        "num": 1314495,
+        "word": "3分钟看航天员的训练日常",
+        "onboard_time": 1698479133,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308682,
+        "num": 1308682,
+        "word": "小杨哥换头像",
+        "onboard_time": 1698483931,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240887,
+        "num": 846274,
+        "word": "外卖小哥取餐时顺手救了场火",
+        "onboard_time": 1698483752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754299,
+        "num": 754299,
+        "word": "安徽通报男子同时迎娶两个新娘",
+        "onboard_time": 1698485553,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183438,
+        "num": 618762,
+        "word": "司机集体给救护车让道后憨憨原地待命",
+        "onboard_time": 1698484352,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 616065,
+        "num": 616065,
+        "word": "厦门航空通报飞机被刮蹭",
+        "onboard_time": 1698485615,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462980,
+        "num": 462980,
+        "word": "美国总统拜登在白宫会见王毅",
+        "onboard_time": 1698482913,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 382418,
+        "num": 382418,
+        "word": "9块9咖啡让独立咖啡店很受伤",
+        "onboard_time": 1698486572,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1391219,
+        "num": 381700,
+        "word": "参加晚宴的王诗龄",
+        "onboard_time": 1698482792,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 997193,
+        "num": 377258,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531363,
+        "num": 371768,
+        "word": "冯禧气质",
+        "onboard_time": 1698480571,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515044,
+        "num": 368538,
+        "word": "扁平脸把这个妆半永久在脸上",
+        "onboard_time": 1698484651,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 431217,
+        "num": 364639,
+        "word": "田曦薇身材曲线",
+        "onboard_time": 1698477092,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 677644,
+        "num": 361936,
+        "word": "和王诗龄合拍的男生该汗流浃背了",
+        "onboard_time": 1698475113,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 359191,
+        "num": 359191,
+        "word": "来了内蒙才知道以前吃的不叫酸奶",
+        "onboard_time": 1698487053,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321561,
+        "num": 321561,
+        "word": "苍兰诀恭喜王鹤棣",
+        "onboard_time": 1698478772,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310187,
+        "num": 310187,
+        "word": "T1对战BLG",
+        "onboard_time": 1698484111,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267607,
+        "num": 267607,
+        "word": "秦海璐外语真学不了一点",
+        "onboard_time": 1698487411,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711241,
+        "num": 267148,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265337,
+        "num": 265337,
+        "word": "辍学女孩送继妹上学后投河身亡",
+        "onboard_time": 1698466894,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260153,
+        "num": 260153,
+        "word": "陈楚生 他不爱我",
+        "onboard_time": 1698474092,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257475,
+        "num": 257475,
+        "word": "BLG天崩开局",
+        "onboard_time": 1698486451,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254106,
+        "num": 254106,
+        "word": "张元英穿平底鞋的视觉效果",
+        "onboard_time": 1698482854,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242582,
+        "num": 242582,
+        "word": "告别吴尊友不应只记得三年白头",
+        "onboard_time": 1698478772,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235239,
+        "num": 235239,
+        "word": "BLG选豹女",
+        "onboard_time": 1698486511,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228210,
+        "num": 228210,
+        "word": "陈都灵 清纯女大",
+        "onboard_time": 1698482553,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221519,
+        "num": 221519,
+        "word": "看月亮",
+        "onboard_time": 1698486812,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 200904,
+        "num": 200904,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186873,
+        "num": 186873,
+        "word": "孔雪儿ending",
+        "onboard_time": 1698485013,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179580,
+        "num": 179580,
+        "word": "过山车设备厂家解释事故原因",
+        "onboard_time": 1698488132,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175897,
+        "num": 175897,
+        "word": "河边的错误 没看懂",
+        "onboard_time": 1698482012,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173506,
+        "num": 173506,
+        "word": "王者荣耀2023周年庆",
+        "onboard_time": 1698482732,
+        "rank": 33,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 169963,
+        "num": 169963,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1698470371,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168766,
+        "num": 168766,
+        "word": "龚俊首部黄金档上星剧",
+        "onboard_time": 1698483334,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151682,
+        "num": 151682,
+        "word": "设备失控撞向客机地勤跑出残影阻拦",
+        "onboard_time": 1698487053,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146856,
+        "num": 146856,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141981,
+        "num": 141981,
+        "word": "支教女教师在班级设卫生巾互助盒",
+        "onboard_time": 1698486394,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168805,
+        "num": 141849,
+        "word": "时代少年团台历",
+        "onboard_time": 1698476309,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141644,
+        "num": 141644,
+        "word": "13岁侏儒症小奶猫",
+        "onboard_time": 1698473192,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 127880,
+        "num": 127880,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 124177,
+        "num": 124177,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 115638,
+        "num": 115638,
+        "word": "最能预示癌症的20个表现",
+        "onboard_time": 1698464974,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112510,
+        "num": 112510,
+        "word": "NRG战胜G2",
+        "onboard_time": 1698482553,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111649,
+        "num": 111649,
+        "word": "河边的错误解析",
+        "onboard_time": 1698484051,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109398,
+        "num": 109398,
+        "word": "孟加拉虎宝宝也喜欢摸肚皮",
+        "onboard_time": 1698485071,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108049,
+        "num": 108049,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 105898,
+        "num": 105898,
+        "word": "朱雀第五人格",
+        "onboard_time": 1698484651,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104817,
+        "num": 104817,
+        "word": "小杨哥被指直播低俗言论比徒弟更甚",
+        "onboard_time": 1698464670,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}
