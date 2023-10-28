@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698489253282,
+  "endTime": 1698491604832,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -2059,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2126241,
+      "num": 2126241,
+      "word": "抽签",
+      "onboard_time": 1697974170,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2125796,
       "num": 2125796,
       "word": "华北理工食堂被曝吃出鼠头",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1697379216,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1962078,
+      "num": 567228,
+      "word": "李湘王岳伦发出尖锐爆鸣",
+      "onboard_time": 1698488794,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1958952,
@@ -4179,14 +4195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1598171,
-      "num": 567228,
-      "word": "李湘王岳伦发出尖锐爆鸣",
-      "onboard_time": 1698488794,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1596375,
       "num": 1596375,
       "word": "207C 失误",
@@ -5057,6 +5065,14 @@
       "onboard_time": 1696563096,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1410482,
+      "num": 454131,
+      "word": "科学家发现精子运动违背牛顿第三定律",
+      "onboard_time": 1698489934,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1408722,
@@ -12491,6 +12507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 743677,
+      "num": 743677,
+      "word": "9块9咖啡让独立咖啡店很受伤",
+      "onboard_time": 1698486572,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 743524,
       "num": 743524,
       "word": "女子花3.5扫共享单车从上海骑到苏州",
@@ -15257,6 +15281,14 @@
       "onboard_time": 1696331976,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 632311,
+      "num": 450963,
+      "word": "李善均鞠躬道歉",
+      "onboard_time": 1698489633,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 631750,
@@ -18113,14 +18145,6 @@
       "onboard_time": 1697805212,
       "rank": 6,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 552747,
-      "num": 552747,
-      "word": "9块9咖啡让独立咖啡店很受伤",
-      "onboard_time": 1698486572,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 552581,
@@ -21515,6 +21539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 478809,
+      "num": 450342,
+      "word": "KT倒霉蛋",
+      "onboard_time": 1698489995,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 478777,
       "num": 511286,
       "word": "乒乓球比赛现场喔声一片",
@@ -23217,6 +23249,14 @@
       "onboard_time": 1696906111,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 449763,
+      "num": 449763,
+      "word": "on牛头 疯牛病",
+      "onboard_time": 1698488853,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 449761,
@@ -30627,14 +30667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345704,
-      "num": 345704,
-      "word": "on牛头 疯牛病",
-      "onboard_time": 1698488853,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 345679,
       "num": 4801755,
       "word": "直播间卖的玉到底是真是假",
@@ -35707,6 +35739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294751,
+      "num": 213071,
+      "word": "我妈网购买了一头猪",
+      "onboard_time": 1698491433,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294737,
       "num": 294737,
       "word": "Mate60系列供应商涨价",
@@ -37537,6 +37577,14 @@
       "onboard_time": 1698210463,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 281076,
+      "num": 281076,
+      "word": "WBG好签",
+      "onboard_time": 1698490895,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 280983,
@@ -43819,6 +43867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240360,
+      "num": 240360,
+      "word": "过山车设备厂家解释事故原因",
+      "onboard_time": 1698488132,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240283,
       "num": 240283,
       "word": "湖人vs勇士",
@@ -44353,6 +44409,14 @@
       "onboard_time": 1696824338,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 237203,
+      "num": 237203,
+      "word": "杨紫我们的美好生活播放量破亿",
+      "onboard_time": 1698489093,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 237178,
@@ -45953,14 +46017,6 @@
       "onboard_time": 1696346260,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228288,
-      "num": 228288,
-      "word": "过山车设备厂家解释事故原因",
-      "onboard_time": 1698488132,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228268,
@@ -48345,6 +48401,14 @@
       "onboard_time": 1697870732,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 216180,
+      "num": 216180,
+      "word": "S13瑞士轮第五轮赛程",
+      "onboard_time": 1698489756,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 216089,
@@ -53891,6 +53955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196943,
+      "num": 196943,
+      "word": "世一抽",
+      "onboard_time": 1698491135,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196882,
       "num": 213920,
       "word": "一见钟情到无话可说要多久",
@@ -54209,6 +54281,14 @@
       "onboard_time": 1697900799,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195772,
+      "num": 195772,
+      "word": "太二酸菜鱼大众点评情况说明",
+      "onboard_time": 1698491374,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195765,
@@ -55737,6 +55817,14 @@
       "onboard_time": 1698453937,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191414,
+      "num": 191414,
+      "word": "和爱的人一起睡是大补",
+      "onboard_time": 1698489034,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 191406,
@@ -57536,6 +57624,14 @@
       "word": "4个月白内障宝宝第1次清晰看见妈妈",
       "onboard_time": 1697690417,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185580,
+      "num": 185580,
+      "word": "冲出去救人那一瞬她忘了自己是个病人",
+      "onboard_time": 1698491254,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -59779,6 +59875,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 176774,
+      "num": 176774,
+      "word": "共创之夜",
+      "onboard_time": 1698490354,
+      "rank": 37,
+      "category": "电竞,演出"
+    },
+    {
       "raw_hot": 176736,
       "num": 176736,
       "word": "钟汉良20米高空跳楼戏",
@@ -59953,6 +60057,14 @@
       "onboard_time": 1696750354,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175850,
+      "num": 175850,
+      "word": "Bin连续单杀Zeus",
+      "onboard_time": 1698491374,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 175843,
@@ -61528,6 +61640,14 @@
       "word": "XHW逆风翻盘",
       "onboard_time": 1697977770,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 169545,
+      "num": 169545,
+      "word": "WBG将对战FNC",
+      "onboard_time": 1698491491,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -67403,14 +67523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 143215,
-      "num": 143215,
-      "word": "抽签",
-      "onboard_time": 1697974170,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 143202,
       "num": 143202,
       "word": "现在的厕所名有多文雅",
@@ -67723,14 +67835,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 141715,
-      "num": 141715,
-      "word": "和爱的人一起睡是大补",
-      "onboard_time": 1698489034,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141707,
       "num": 141707,
       "word": "郭艾伦在观众散去的球馆训练",
@@ -67785,6 +67889,14 @@
       "onboard_time": 1698291753,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 141383,
+      "num": 141383,
+      "word": "DK将对战KT",
+      "onboard_time": 1698490535,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 141322,
@@ -67960,6 +68072,14 @@
       "word": "河边的错误 全是细节",
       "onboard_time": 1698152615,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140491,
+      "num": 140491,
+      "word": "邓超请大家看一个和四个",
+      "onboard_time": 1698491554,
+      "rank": 48,
       "category": "电影"
     },
     {
@@ -68601,14 +68721,6 @@
       "onboard_time": 1696600304,
       "rank": 14,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 137557,
-      "num": 137557,
-      "word": "杨紫我们的美好生活播放量破亿",
-      "onboard_time": 1698489093,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 137522,
