@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698471257415,
+  "endTime": 1698474051910,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -273,6 +273,14 @@
       "onboard_time": 1698228214,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2578875,
+      "num": 2578875,
+      "word": "深圳欢乐谷事故4人在ICU救治",
+      "onboard_time": 1698471153,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2577468,
@@ -1476,7 +1484,7 @@
     },
     {
       "raw_hot": 1162952,
-      "num": 306421,
+      "num": 319715,
       "word": "李钟硕最近状态",
       "onboard_time": 1698467253,
       "rank": 12,
@@ -1492,7 +1500,7 @@
     },
     {
       "raw_hot": 1154827,
-      "num": 302821,
+      "num": 327547,
       "word": "辍学女孩送继妹上学后投河身亡",
       "onboard_time": 1698466894,
       "rank": 18,
@@ -2371,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 812018,
+      "num": 322570,
+      "word": "冯禧活动造型",
+      "onboard_time": 1698472054,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 811133,
       "num": 811133,
       "word": "田耕纪结局",
@@ -2732,7 +2748,7 @@
     },
     {
       "raw_hot": 729495,
-      "num": 297485,
+      "num": 309141,
       "word": "陈都灵 美人肩",
       "onboard_time": 1698468992,
       "rank": 16,
@@ -3539,6 +3555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 587473,
+      "num": 314757,
+      "word": "王源登国内外教科书",
+      "onboard_time": 1698472532,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586365,
       "num": 474971,
       "word": "赵丽颖蛋卷发",
@@ -4049,6 +4073,14 @@
       "onboard_time": 1698071085,
       "rank": 18,
       "category": "音乐,互联网"
+    },
+    {
+      "raw_hot": 526048,
+      "num": 313605,
+      "word": "薛功灿 完美男主",
+      "onboard_time": 1698469233,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 524516,
@@ -5507,6 +5539,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 403268,
+      "num": 306532,
+      "word": "王安宇好多第一次都给了花少",
+      "onboard_time": 1698472771,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 403030,
+      "num": 403030,
+      "word": "阴阳师 结局",
+      "onboard_time": 1698472411,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401550,
       "num": 401550,
       "word": "京东火力",
@@ -5529,14 +5577,6 @@
       "onboard_time": 1697990970,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400491,
-      "num": 282791,
-      "word": "薛功灿 完美男主",
-      "onboard_time": 1698469233,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 400219,
@@ -5601,6 +5641,14 @@
       "onboard_time": 1698035023,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 395888,
+      "num": 299221,
+      "word": "13岁侏儒症小奶猫",
+      "onboard_time": 1698473192,
+      "rank": 22,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 395747,
@@ -6217,6 +6265,14 @@
       "onboard_time": 1698373722,
       "rank": 37,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 360642,
+      "num": 360642,
+      "word": "家里有装监控的要小心了",
+      "onboard_time": 1698468513,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 360542,
@@ -8483,6 +8539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266508,
+      "num": 266508,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1698470371,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266480,
       "num": 266480,
       "word": "白鹿郑书意",
@@ -9115,14 +9179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251139,
-      "num": 251139,
-      "word": "时代少年团演唱会抢票",
-      "onboard_time": 1698470371,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 250942,
       "num": 250942,
       "word": "电影黑金古殿定档",
@@ -9331,14 +9387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 245929,
-      "num": 291388,
-      "word": "家里有装监控的要小心了",
-      "onboard_time": 1698468513,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 245916,
       "num": 245916,
       "word": "被12岁小朋友的作业震撼到",
@@ -9393,6 +9441,14 @@
       "onboard_time": 1698055550,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245051,
+      "num": 245051,
+      "word": "男生和爸爸开玩笑说女友比他大三岁",
+      "onboard_time": 1698471573,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 244942,
@@ -10091,6 +10147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227562,
+      "num": 227562,
+      "word": "当边牧误入耶总会",
+      "onboard_time": 1698471330,
+      "rank": 28,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 227378,
       "num": 227378,
       "word": "AG零封TES",
@@ -10673,6 +10737,14 @@
       "onboard_time": 1698417103,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215453,
+      "num": 215453,
+      "word": "辛芷蕾的每一步都出乎意料",
+      "onboard_time": 1698471398,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 215376,
@@ -13307,6 +13379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178339,
+      "num": 178339,
+      "word": "韩国反偷拍标语中最令人难过的一条",
+      "onboard_time": 1698473793,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178309,
       "num": 169168,
       "word": "华浅 受不了你们这些玛丽苏了",
@@ -15148,7 +15228,7 @@
     },
     {
       "raw_hot": 147382,
-      "num": 751536,
+      "num": 897491,
       "word": "3分钟回顾中国航天员出征太空",
       "onboard_time": 1698416261,
       "rank": 48,
@@ -15235,6 +15315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145484,
+      "num": 145484,
+      "word": "LGD晋级TI12胜者组决赛",
+      "onboard_time": 1698474032,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145474,
       "num": 145474,
       "word": "掘金新赛季开门红",
@@ -15257,6 +15345,14 @@
       "onboard_time": 1698053806,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145245,
+      "num": 145245,
+      "word": "i人吃不了这卷饼",
+      "onboard_time": 1698473491,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 145213,
@@ -16073,14 +16169,6 @@
       "onboard_time": 1698214417,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133963,
-      "num": 133963,
-      "word": "深圳欢乐谷事故4人在ICU救治",
-      "onboard_time": 1698471153,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133418,
@@ -18417,6 +18505,14 @@
       "onboard_time": 1697992287,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74507,
+      "num": 305637,
+      "word": "何同学趣味解构洗碗机",
+      "onboard_time": 1698471991,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 74456,

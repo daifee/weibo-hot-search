@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 13:34:17
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 14:20:51
 </p>
 </blockquote>
 <p>
@@ -833,6 +833,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23" target="weibo">
 秦霄贤喜欢的女生类型变了（热度：2580234）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E4%BA%8B%E6%95%854%E4%BA%BA%E5%9C%A8ICU%E6%95%91%E6%B2%BB%23" target="weibo">
+深圳欢乐谷事故4人在ICU救治（热度：2578875）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%AF%B9%E8%80%83%E7%94%9F%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23" target="weibo">
 国家公务员局对考生发布提醒（热度：1020266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%9A%BB%E7%A7%80%E7%A6%BB%E5%BC%80SMTOWN%23" target="weibo">
-都暻秀离开SMTOWN（热度：1019503）
 </a>
 </li>
 
