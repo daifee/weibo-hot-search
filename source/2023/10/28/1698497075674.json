@@ -1,0 +1,410 @@
+{
+  "runTime": 1698497075674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1911734,
+        "num": 1911734,
+        "word": "教师全员竞聘上岗",
+        "onboard_time": 1698492995,
+        "rank": 0,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 651542,
+        "num": 651542,
+        "word": "共创之夜",
+        "onboard_time": 1698490354,
+        "rank": 1,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 567682,
+        "word": "亚残运闭幕式中国代表团旗手公布",
+        "onboard_time": 1698459872,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 552144,
+        "num": 552144,
+        "word": "圆明园十二兽首已有七尊回归祖国",
+        "onboard_time": 1698494375,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485773,
+        "num": 485773,
+        "word": "9块9咖啡让独立咖啡店很受伤",
+        "onboard_time": 1698486572,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 467866,
+        "num": 467866,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360541,
+        "num": 360541,
+        "word": "太二酸菜鱼大众点评情况说明",
+        "onboard_time": 1698491374,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292654,
+        "num": 292654,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 233620,
+        "num": 233620,
+        "word": "T1零封BLG",
+        "onboard_time": 1698488495,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224655,
+        "num": 233400,
+        "word": "elk",
+        "onboard_time": 1698493356,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1536400,
+        "num": 233227,
+        "word": "杨幂生图",
+        "onboard_time": 1698492995,
+        "rank": 10,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 1345209,
+        "num": 233020,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1089127,
+        "num": 232856,
+        "word": "大学生用遮瑕把自己涂成阿凡达",
+        "onboard_time": 1698491795,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 971362,
+        "num": 232569,
+        "word": "科学家发现精子运动违背牛顿第三定律",
+        "onboard_time": 1698489934,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 780062,
+        "num": 232403,
+        "word": "穿匡威爬山的爱豆",
+        "onboard_time": 1698495096,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704365,
+        "num": 232191,
+        "word": "田耕纪编剧起诉剧方",
+        "onboard_time": 1698491974,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697790,
+        "num": 232048,
+        "word": "鞠婧祎唱恋爱告急好甜",
+        "onboard_time": 1698495696,
+        "rank": 16,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 597141,
+        "num": 231678,
+        "word": "我妈网购买了一头猪",
+        "onboard_time": 1698491433,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 591962,
+        "num": 231608,
+        "word": "檀健次跳国风舞了",
+        "onboard_time": 1698496475,
+        "rank": 18,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 523344,
+        "num": 231418,
+        "word": "杨幂沈腾同框",
+        "onboard_time": 1698495034,
+        "rank": 19,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 518561,
+        "num": 231044,
+        "word": "和王诗龄合拍的男生该汗流浃背了",
+        "onboard_time": 1698475113,
+        "rank": 20,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 393302,
+        "num": 230925,
+        "word": "林心如霍建华带女儿沙滩玩耍",
+        "onboard_time": 1698491854,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389446,
+        "num": 230668,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380215,
+        "num": 230439,
+        "word": "抽签",
+        "onboard_time": 1698489575,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347902,
+        "num": 230118,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344075,
+        "num": 229894,
+        "word": "王嘉尔在温州参加婚礼",
+        "onboard_time": 1698496355,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311353,
+        "num": 229811,
+        "word": "小杨哥换头像",
+        "onboard_time": 1698483931,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236989,
+        "num": 229667,
+        "word": "刘宇宁给张艺兴演唱会送花篮",
+        "onboard_time": 1698495454,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229448,
+        "num": 229448,
+        "word": "周深的现场毫不费力",
+        "onboard_time": 1698495216,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 226640,
+        "word": "幼儿园保安大叔是全园娃娃的爷爷",
+        "onboard_time": 1698495636,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226640,
+        "num": 226639,
+        "word": "THE9演唱会",
+        "onboard_time": 1698496355,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "王者荣耀节目单",
+        "onboard_time": 1698494253,
+        "rank": 31,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 195785,
+        "num": 195785,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1698495396,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186702,
+        "num": 186702,
+        "word": "安徽通报男子同时迎娶两个新娘",
+        "onboard_time": 1698485553,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184957,
+        "num": 184957,
+        "word": "秦岚迪丽热巴cp名",
+        "onboard_time": 1698494314,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183675,
+        "num": 183675,
+        "word": "35岁的她实现17岁时的梦想",
+        "onboard_time": 1698496713,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179570,
+        "num": 179570,
+        "word": "舅舅带12岁外甥骑行318国道去拉萨",
+        "onboard_time": 1698484230,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177142,
+        "num": 177142,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1698495454,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164563,
+        "num": 164563,
+        "word": "扁平脸把这个妆半永久在脸上",
+        "onboard_time": 1698484651,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160003,
+        "num": 160003,
+        "word": "邓超请大家看一个和四个",
+        "onboard_time": 1698491554,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158479,
+        "num": 158479,
+        "word": "杭州亚残运会闭幕式",
+        "onboard_time": 1698495937,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 154664,
+        "word": "吴磊新片首映外网评价",
+        "onboard_time": 1698494014,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 140569,
+        "word": "大梦归离",
+        "onboard_time": 1698493417,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139119,
+        "num": 139119,
+        "word": "SEVENTEEN听歌歌单",
+        "onboard_time": 1698495514,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138731,
+        "num": 138731,
+        "word": "田曦薇身材曲线",
+        "onboard_time": 1698477092,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136769,
+        "num": 136769,
+        "word": "交警一把扯下自己领带为驾驶员止血",
+        "onboard_time": 1698492636,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136096,
+        "num": 136096,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130063,
+        "num": 130063,
+        "word": "雅拉贡嘎现日照金山",
+        "onboard_time": 1698496956,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 128695,
+        "num": 128695,
+        "word": "龚俊钟楚曦高端互撩局",
+        "onboard_time": 1698494432,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127626,
+        "num": 127626,
+        "word": "WBG好签",
+        "onboard_time": 1698490895,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
+    }
+  }
+}

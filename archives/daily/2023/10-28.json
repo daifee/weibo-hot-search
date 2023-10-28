@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698496166827,
+  "endTime": 1698497075674,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911734,
+      "num": 1911734,
+      "word": "教师全员竞聘上岗",
+      "onboard_time": 1698492995,
+      "rank": 0,
+      "category": "国内要闻,教育"
+    },
+    {
       "raw_hot": 1833321,
       "num": 466577,
       "word": "和王诗龄合拍的男生该汗流浃背了",
@@ -139,6 +147,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1536400,
+      "num": 257255,
+      "word": "杨幂生图",
+      "onboard_time": 1698492995,
+      "rank": 10,
+      "category": "电竞,演出"
+    },
+    {
       "raw_hot": 1510236,
       "num": 401762,
       "word": "山东一19岁女生在校跳楼身亡",
@@ -161,14 +177,6 @@
       "onboard_time": 1698421060,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1442936,
-      "num": 257255,
-      "word": "杨幂生图",
-      "onboard_time": 1698492995,
-      "rank": 10,
-      "category": "电竞,演出"
     },
     {
       "raw_hot": 1441866,
@@ -201,14 +209,6 @@
       "onboard_time": 1698452672,
       "rank": 12,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1327790,
-      "num": 1327790,
-      "word": "教师全员竞聘上岗",
-      "onboard_time": 1698492995,
-      "rank": 0,
-      "category": "国内要闻,教育"
     },
     {
       "raw_hot": 1309047,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780062,
+      "num": 249852,
+      "word": "穿匡威爬山的爱豆",
+      "onboard_time": 1698495096,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 754299,
       "num": 754299,
       "word": "安徽通报男子同时迎娶两个新娘",
@@ -451,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695666,
+      "raw_hot": 704365,
       "num": 385404,
       "word": "田耕纪编剧起诉剧方",
       "onboard_time": 1698491974,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 697790,
+      "num": 249070,
+      "word": "鞠婧祎唱恋爱告急好甜",
+      "onboard_time": 1698495696,
+      "rank": 18,
+      "category": "电竞,演出"
     },
     {
       "raw_hot": 695231,
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591962,
+      "num": 231608,
+      "word": "檀健次跳国风舞了",
+      "onboard_time": 1698496475,
+      "rank": 18,
+      "category": "电竞,演出"
+    },
+    {
       "raw_hot": 588983,
       "num": 588983,
       "word": "NRG战胜G2",
@@ -595,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576699,
-      "num": 249852,
-      "word": "穿匡威爬山的爱豆",
-      "onboard_time": 1698495096,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574962,
       "num": 430377,
       "word": "14岁男生吃完烤全羊竟然变小黄人",
@@ -635,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550436,
-      "num": 249070,
-      "word": "鞠婧祎唱恋爱告急好甜",
-      "onboard_time": 1698495696,
-      "rank": 18,
-      "category": "电竞,演出"
+      "raw_hot": 552144,
+      "num": 552144,
+      "word": "圆明园十二兽首已有七尊回归祖国",
+      "onboard_time": 1698494375,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526048,
@@ -649,6 +665,14 @@
       "onboard_time": 1698469233,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523344,
+      "num": 246166,
+      "word": "杨幂沈腾同框",
+      "onboard_time": 1698495034,
+      "rank": 23,
+      "category": "电竞,演出"
     },
     {
       "raw_hot": 519895,
@@ -883,27 +907,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 396748,
-      "num": 246166,
-      "word": "杨幂沈腾同框",
-      "onboard_time": 1698495034,
-      "rank": 23,
-      "category": "电竞,演出"
-    },
-    {
       "raw_hot": 386385,
       "num": 386385,
       "word": "夺得世界冠军的中国面包原料是西藏青稞",
       "onboard_time": 1698421362,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384807,
-      "num": 384807,
-      "word": "圆明园十二兽首已有七尊回归祖国",
-      "onboard_time": 1698494375,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1057,14 @@
       "onboard_time": 1698470371,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344075,
+      "num": 229894,
+      "word": "王嘉尔在温州参加婚礼",
+      "onboard_time": 1698496355,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 341551,
@@ -1419,8 +1435,16 @@
       "category": "电竞,演出"
     },
     {
+      "raw_hot": 226640,
+      "num": 226639,
+      "word": "THE9演唱会",
+      "onboard_time": 1698415182,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225213,
-      "num": 225213,
+      "num": 233400,
       "word": "elk",
       "onboard_time": 1698493356,
       "rank": 29,
@@ -1571,6 +1595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204088,
+      "num": 226640,
+      "word": "幼儿园保安大叔是全园娃娃的爷爷",
+      "onboard_time": 1698495636,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203759,
       "num": 203759,
       "word": "孔雪儿ending",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1698452792,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195785,
+      "num": 195785,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1698495396,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 195539,
@@ -1827,20 +1867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183675,
+      "num": 183675,
+      "word": "35岁的她实现17岁时的梦想",
+      "onboard_time": 1698496713,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 182928,
       "num": 182928,
       "word": "三月兽 第八弹",
       "onboard_time": 1698469714,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 181736,
-      "num": 181736,
-      "word": "幼儿园保安大叔是全园娃娃的爷爷",
-      "onboard_time": 1698495636,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177985,
@@ -1939,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169636,
-      "num": 169636,
-      "word": "张韶涵演唱会",
-      "onboard_time": 1698495396,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 169545,
       "num": 169545,
       "word": "WBG将对战FNC",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1698468812,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160664,
-      "num": 160664,
-      "word": "THE9演唱会",
-      "onboard_time": 1698415182,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 159047,
@@ -2329,6 +2353,14 @@
       "onboard_time": 1698475470,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130063,
+      "num": 130063,
+      "word": "雅拉贡嘎现日照金山",
+      "onboard_time": 1698496956,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 129617,
