@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 12:34:04
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 13:15:17
 </p>
 </blockquote>
 <p>
@@ -3135,6 +3135,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E9%A2%84%E7%A4%BA%E7%99%8C%E7%97%87%E7%9A%8420%E4%B8%AA%E8%A1%A8%E7%8E%B0%23" target="weibo">
+最能预示癌症的20个表现（热度：1594574）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 女单决赛（热度：1593000）
 </a>
@@ -6003,14 +6009,8 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AFTizzyT%E7%9A%84%E6%AD%8C%23" target="weibo">
-这居然是TizzyT的歌（热度：1018184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-以色列中国留学生发声（热度：1017394）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%8D%E5%AD%A6%E5%A5%B3%E5%AD%A9%E9%80%81%E7%BB%A7%E5%A6%B9%E4%B8%8A%E5%AD%A6%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
+辍学女孩送继妹上学后投河身亡（热度：1019318）
 </a>
 </li>
 
