@@ -1,0 +1,410 @@
+{
+  "runTime": 1698536045959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 683122,
+        "num": 683122,
+        "word": "女子为减肥连吃3月胡萝卜变小橘人",
+        "onboard_time": 1698534079,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440489,
+        "num": 440489,
+        "word": "男朋友给我做了个电子衣橱",
+        "onboard_time": 1698529814,
+        "rank": 1,
+        "category": "时尚,情感"
+      },
+      {
+        "raw_hot": 29183,
+        "num": 387439,
+        "word": "向世界展示中国青年的青春力量",
+        "onboard_time": 1698496897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355513,
+        "num": 355513,
+        "word": "被生母虐待致残男童仍惦记妈妈",
+        "onboard_time": 1698506799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285396,
+        "num": 285396,
+        "word": "教师全员竞聘上岗",
+        "onboard_time": 1698492995,
+        "rank": 4,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 210713,
+        "num": 210713,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206223,
+        "num": 206223,
+        "word": "她32岁成教授级工程师",
+        "onboard_time": 1698512905,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201782,
+        "num": 201782,
+        "word": "体制内你不知道的文件命名",
+        "onboard_time": 1698503859,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 191074,
+        "num": 191074,
+        "word": "王者荣耀",
+        "onboard_time": 1698534980,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185228,
+        "num": 185228,
+        "word": "以色列声称联合国不具有合法性",
+        "onboard_time": 1698535823,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 466521,
+        "num": 183077,
+        "word": "内娱慕强批的天堂",
+        "onboard_time": 1698507634,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428439,
+        "num": 182528,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387730,
+        "num": 180257,
+        "word": "科学家发现精子运动违背牛顿第三定律",
+        "onboard_time": 1698489934,
+        "rank": 12,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 387465,
+        "num": 178462,
+        "word": "辛芷蕾人设逐渐不在了",
+        "onboard_time": 1698534558,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356776,
+        "num": 174569,
+        "word": "李善均全慧珍紧急送小儿子出国",
+        "onboard_time": 1698497555,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174394,
+        "num": 174394,
+        "word": "以方拒绝联大呼吁巴以停火的决议",
+        "onboard_time": 1698504697,
+        "rank": 15,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 183267,
+        "num": 169655,
+        "word": "虞书欣爷爷去看THE9演唱会了",
+        "onboard_time": 1698498576,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132661,
+        "num": 132661,
+        "word": "河南一小区为防高空坠物布满钢丝网",
+        "onboard_time": 1698534139,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "周小仙 一天格格装妆造体验卡",
+        "onboard_time": 1698509493,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126262,
+        "num": 126262,
+        "word": "杨幂生图",
+        "onboard_time": 1698492995,
+        "rank": 19,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 309178,
+        "num": 126240,
+        "word": "胎儿8斤重产妇要求剖腹产被拒",
+        "onboard_time": 1698505537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226976,
+        "num": 126032,
+        "word": "1晚少了11只螃蟹蟹农怒而报警",
+        "onboard_time": 1698525615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199530,
+        "num": 125931,
+        "word": "星穹铁道 1.4",
+        "onboard_time": 1698535522,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125705,
+        "num": 125705,
+        "word": "一根头发居然能吊起14页PPT",
+        "onboard_time": 1698535281,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118472,
+        "num": 118472,
+        "word": "短道速滑",
+        "onboard_time": 1698534681,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116689,
+        "num": 116689,
+        "word": "陈楚生居然唱了活该",
+        "onboard_time": 1698507456,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106582,
+        "num": 106582,
+        "word": "巨显发量的双麻花辫",
+        "onboard_time": 1698508413,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 101660,
+        "num": 101660,
+        "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
+        "onboard_time": 1698501216,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92073,
+        "num": 92073,
+        "word": "胡先煦王安宇花少前后对比",
+        "onboard_time": 1698535163,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84660,
+        "num": 84660,
+        "word": "王嘉尔在温州参加婚礼",
+        "onboard_time": 1698496355,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82241,
+        "num": 82241,
+        "word": "李宇春唱陆贞传奇主题曲",
+        "onboard_time": 1698508054,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81389,
+        "num": 81389,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78282,
+        "num": 78282,
+        "word": "JustinBieber万圣节潜水造型",
+        "onboard_time": 1698511707,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74028,
+        "num": 74028,
+        "word": "贝林厄姆",
+        "onboard_time": 1698515538,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73347,
+        "num": 73347,
+        "word": "巴萨1比2皇马",
+        "onboard_time": 1698534980,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68623,
+        "num": 68623,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67548,
+        "num": 67548,
+        "word": "千灯之约 对口型",
+        "onboard_time": 1698535700,
+        "rank": 36,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 65917,
+        "num": 65917,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 62175,
+        "num": 62175,
+        "word": "杨幂沈腾同框",
+        "onboard_time": 1698495034,
+        "rank": 38,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 61670,
+        "num": 61670,
+        "word": "张杰音乐节",
+        "onboard_time": 1698507400,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59378,
+        "num": 59378,
+        "word": "林心如霍建华带女儿沙滩玩耍",
+        "onboard_time": 1698491854,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56904,
+        "num": 56904,
+        "word": "迪丽热巴吃的鸡汤面",
+        "onboard_time": 1698535281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55908,
+        "num": 55908,
+        "word": "女教师持续31年在乡村播种航天梦",
+        "onboard_time": 1698532338,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 55631,
+        "num": 55631,
+        "word": "沈腾檀健次打游戏",
+        "onboard_time": 1698508653,
+        "rank": 43,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 52903,
+        "num": 52903,
+        "word": "田耕纪编剧起诉剧方",
+        "onboard_time": 1698491974,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51712,
+        "num": 51712,
+        "word": "他的坚持是直到你平安无事",
+        "onboard_time": 1698534139,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 48817,
+        "num": 48817,
+        "word": "大学生用遮瑕把自己涂成阿凡达",
+        "onboard_time": 1698491795,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 47297,
+        "num": 47297,
+        "word": "2023F1墨西哥城大奖赛",
+        "onboard_time": 1698535100,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45330,
+        "num": 45330,
+        "word": "檀健次跳国风舞了",
+        "onboard_time": 1698496475,
+        "rank": 48,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 45144,
+        "num": 45144,
+        "word": "iPhone15",
+        "onboard_time": 1698536004,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
+    }
+  }
+}
