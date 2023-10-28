@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698481159238,
+  "endTime": 1698482047960,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -59,6 +59,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1994374,
+      "num": 1994374,
+      "word": "电脑聊天记录被公司看见",
+      "onboard_time": 1698477634,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1987025,
       "num": 403573,
       "word": "官方回应深圳欢乐谷发生过山车追尾事故",
@@ -89,14 +97,6 @@
       "onboard_time": 1698403607,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1652727,
-      "num": 1652727,
-      "word": "电脑聊天记录被公司看见",
-      "onboard_time": 1698477634,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1635519,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795951,
+      "num": 795951,
+      "word": "告别吴尊友不应只记得三年白头",
+      "onboard_time": 1698478772,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787261,
       "num": 437131,
       "word": "官方通报村书记威胁女子发生性关系",
@@ -331,14 +339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 670884,
-      "num": 670884,
-      "word": "告别吴尊友不应只记得三年白头",
-      "onboard_time": 1698478772,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 668487,
       "num": 668487,
       "word": "手机电量1%女子迷路紧急求助110",
@@ -369,6 +369,14 @@
       "onboard_time": 1698463291,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614658,
+      "num": 225857,
+      "word": "冯禧气质",
+      "onboard_time": 1698480571,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612946,
@@ -427,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569508,
+      "num": 247171,
+      "word": "苍兰诀恭喜王鹤棣",
+      "onboard_time": 1698478772,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567608,
       "num": 429868,
       "word": "金子涵去看THE9演唱会了",
       "onboard_time": 1698449906,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 563103,
-      "num": 247171,
-      "word": "苍兰诀恭喜王鹤棣",
-      "onboard_time": 1698478772,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 560729,
@@ -971,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238985,
-      "num": 225857,
-      "word": "冯禧气质",
-      "onboard_time": 1698480571,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235484,
       "num": 209431,
       "word": "袜子囤一周洗男子肺部真菌感染",
@@ -1041,6 +1041,14 @@
       "onboard_time": 1698474211,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219382,
+      "num": 194411,
+      "word": "无穷小亮在北方室内把苔藓养爆盆",
+      "onboard_time": 1698480333,
+      "rank": 28,
+      "category": "知识科普"
     },
     {
       "raw_hot": 218197,
@@ -1291,14 +1299,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 176987,
-      "num": 176987,
-      "word": "无穷小亮在北方室内把苔藓养爆盆",
-      "onboard_time": 1698480333,
-      "rank": 28,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 176133,
       "num": 176133,
       "word": "花傲天太宠了",
@@ -1401,6 +1401,14 @@
       "onboard_time": 1698476913,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 161152,
+      "num": 161152,
+      "word": "陆翊美甲铺",
+      "onboard_time": 1698481354,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 160742,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1698478233,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137183,
+      "num": 137183,
+      "word": "拯救嫌疑人",
+      "onboard_time": 1698481234,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 135376,
@@ -1763,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106128,
+      "num": 106128,
+      "word": "河边的错误 没看懂",
+      "onboard_time": 1698482012,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103785,
       "num": 128809,
       "word": "光与夜之恋",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1698411636,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95130,
+      "num": 105711,
+      "word": "亚残运会今日闭幕",
+      "onboard_time": 1698481890,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 94447,
@@ -1915,8 +1947,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 37081,
-      "num": 776891,
+      "raw_hot": 42243,
+      "num": 802869,
       "word": "3分钟看航天员的训练日常",
       "onboard_time": 1698479133,
       "rank": 2,
