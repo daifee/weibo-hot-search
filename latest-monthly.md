@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 10:01:53
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 10:20:56
 </p>
 </blockquote>
 <p>
@@ -815,6 +815,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B5%B4%E6%B6%B2%E6%AF%94%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0%E8%B4%B5%E8%B6%8530%E5%85%83%23" target="weibo">
 李佳琦直播间浴液比其它平台贵超30元（热度：2603104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%E9%81%93%E6%AD%89%23" target="weibo">
+红绿灯的黄道歉（热度：2586342）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ A股（热度：1016083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%20%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%9B%B4%E5%8D%96%E7%89%88%E6%9D%83%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%8D%23" target="weibo">
 余华 希望一直卖版权一直不拍（热度：1013886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-珠帘玉幕阵容官宣（热度：1013533）
 </a>
 </li>
 

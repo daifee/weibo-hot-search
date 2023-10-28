@@ -1,0 +1,410 @@
+{
+  "runTime": 1698459656236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2586342,
+        "num": 2586342,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1134124,
+        "num": 1134124,
+        "word": "亲历者称过山车事故推测弹射装置气压不足",
+        "onboard_time": 1698456453,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18711,
+        "num": 977109,
+        "word": "进博会5大亮点抢鲜看",
+        "onboard_time": 1698410979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939045,
+        "num": 939045,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497273,
+        "num": 497273,
+        "word": "00后中专生女孩为追星考上上戏",
+        "onboard_time": 1698457834,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477856,
+        "num": 477856,
+        "word": "学生眼中的吴尊友没有一天不在工作",
+        "onboard_time": 1698454893,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444222,
+        "num": 444222,
+        "word": "以为有蛇偷蛋村民扒开枯枝发现国宝",
+        "onboard_time": 1698451533,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418312,
+        "num": 418312,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 415575,
+        "num": 415575,
+        "word": "多次梦到同一个人",
+        "onboard_time": 1698453034,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402626,
+        "num": 402626,
+        "word": "深圳欢乐谷开展安全大检查",
+        "onboard_time": 1698453452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1883943,
+        "num": 402250,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1094194,
+        "num": 401915,
+        "word": "叙利亚",
+        "onboard_time": 1698451770,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 894426,
+        "num": 401762,
+        "word": "山东一19岁女生在校跳楼身亡",
+        "onboard_time": 1698458911,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870195,
+        "num": 401137,
+        "word": "警方称有权志龙吸毒证据",
+        "onboard_time": 1698452672,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 837318,
+        "num": 400960,
+        "word": "中小学生连厕所时间都快没了",
+        "onboard_time": 1698421060,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 831303,
+        "num": 400286,
+        "word": "霉霉资产正式突破十位数",
+        "onboard_time": 1698458554,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740318,
+        "num": 399819,
+        "word": "进口化妆品价格不到半年腰斩",
+        "onboard_time": 1698456873,
+        "rank": 16,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 558743,
+        "num": 399467,
+        "word": "YSL客服回应小杨哥徒弟带货被指低俗",
+        "onboard_time": 1698395616,
+        "rank": 17,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 461517,
+        "num": 399332,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 18,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 441453,
+        "num": 398688,
+        "word": "亲历者讲述欢乐谷过山车追尾事故",
+        "onboard_time": 1698449245,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398519,
+        "num": 398519,
+        "word": "金子涵去看THE9演唱会了",
+        "onboard_time": 1698449906,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 392353,
+        "num": 392353,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 383808,
+        "num": 383808,
+        "word": "马立奥 爸爸当家一天",
+        "onboard_time": 1698452737,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367839,
+        "num": 367839,
+        "word": "官方通报村书记威胁女子发生性关系",
+        "onboard_time": 1698450389,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343642,
+        "num": 343642,
+        "word": "深圳欢乐谷闭园两天",
+        "onboard_time": 1698453215,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309131,
+        "num": 309131,
+        "word": "深圳欢乐谷通报",
+        "onboard_time": 1698414763,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284840,
+        "num": 284840,
+        "word": "性子很急的人到底哪里有问题",
+        "onboard_time": 1698453394,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273695,
+        "num": 273695,
+        "word": "14岁男生吃完烤全羊竟然变小黄人",
+        "onboard_time": 1698450266,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269964,
+        "num": 269964,
+        "word": "花少全员透着清澈的愚蠢",
+        "onboard_time": 1698451289,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203294,
+        "num": 260964,
+        "word": "吴尊友生前采访",
+        "onboard_time": 1698455254,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255674,
+        "num": 255674,
+        "word": "你一月能存多少钱",
+        "onboard_time": 1698457712,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208383,
+        "num": 208383,
+        "word": "俞灏明说王栎鑫的难题是超越张远",
+        "onboard_time": 1698457290,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199712,
+        "num": 199712,
+        "word": "13岁男孩开车上高速行驶500公里",
+        "onboard_time": 1698454955,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198181,
+        "num": 198181,
+        "word": "日本年轻人开始流行周末婚",
+        "onboard_time": 1698417942,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 194687,
+        "num": 194687,
+        "word": "何超莲窦骁挽手出席活动",
+        "onboard_time": 1698452672,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192008,
+        "num": 192008,
+        "word": "陆柯燃不奉陪舞台气场",
+        "onboard_time": 1698458974,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176017,
+        "num": 176017,
+        "word": "Newjeans 梦核感",
+        "onboard_time": 1698459393,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171477,
+        "num": 171477,
+        "word": "小学生玩蛋仔10天花光家里积蓄",
+        "onboard_time": 1698450990,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168948,
+        "num": 168948,
+        "word": "大虞海棠",
+        "onboard_time": 1698421898,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166459,
+        "num": 166459,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 163298,
+        "num": 163298,
+        "word": "流浪地球2角逐奥斯卡",
+        "onboard_time": 1698453154,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160862,
+        "num": 160862,
+        "word": "张天爱蓝色羽毛抹胸裙",
+        "onboard_time": 1698456155,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155432,
+        "num": 155432,
+        "word": "美称空袭叙利亚与巴以冲突无关",
+        "onboard_time": 1698453572,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 155072,
+        "num": 155072,
+        "word": "虞书欣动作做早的反应",
+        "onboard_time": 1698421002,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 154835,
+        "word": "孔雪儿yes ok直拍",
+        "onboard_time": 1698452792,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154052,
+        "num": 154052,
+        "word": "警民跳入泥潭合力救出7旬奶奶",
+        "onboard_time": 1698457712,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149835,
+        "num": 149835,
+        "word": "黄旭东去米哈游讲PPT",
+        "onboard_time": 1698459153,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149232,
+        "num": 149232,
+        "word": "邓紫棋林俊杰现场版手心的蔷薇",
+        "onboard_time": 1698453274,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109969,
+        "num": 146520,
+        "word": "孙颖莎首轮遭遇田志希",
+        "onboard_time": 1698447681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99377,
+        "num": 145639,
+        "word": "为什么拖完地瓷砖有股腥味",
+        "onboard_time": 1698420161,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698458513544,
+  "endTime": 1698459656236,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -17,6 +17,14 @@
       "onboard_time": 1698404079,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2586342,
+      "num": 2586342,
+      "word": "红绿灯的黄道歉",
+      "onboard_time": 1698458253,
+      "rank": 22,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2541384,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1269550,
-      "num": 612332,
+      "num": 939045,
       "word": "夫妻存款3500元发现多一个0秒退还",
       "onboard_time": 1698451715,
       "rank": 3,
@@ -131,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 894426,
+      "num": 401762,
+      "word": "山东一19岁女生在校跳楼身亡",
+      "onboard_time": 1698458911,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 890576,
       "num": 1577560,
       "word": "吴尊友逝世",
@@ -139,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831303,
+      "num": 400286,
+      "word": "霉霉资产正式突破十位数",
+      "onboard_time": 1698458554,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787261,
       "num": 437131,
       "word": "官方通报村书记威胁女子发生性关系",
       "onboard_time": 1698450389,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740318,
+      "num": 441852,
+      "word": "进口化妆品价格不到半年腰斩",
+      "onboard_time": 1698456873,
+      "rank": 13,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 736992,
@@ -177,14 +209,6 @@
       "onboard_time": 1698412900,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 624410,
-      "num": 441852,
-      "word": "进口化妆品价格不到半年腰斩",
-      "onboard_time": 1698456873,
-      "rank": 13,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 612946,
@@ -233,6 +257,14 @@
       "onboard_time": 1698453034,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497273,
+      "num": 497273,
+      "word": "00后中专生女孩为追星考上上戏",
+      "onboard_time": 1698457834,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464110,
@@ -427,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316601,
-      "num": 316601,
-      "word": "红绿灯的黄道歉",
-      "onboard_time": 1698458253,
-      "rank": 22,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 304527,
       "num": 304527,
       "word": "吴尊友与癌症搏斗了两年",
@@ -467,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 289458,
-      "num": 289458,
-      "word": "00后中专生女孩为追星考上上戏",
-      "onboard_time": 1698457834,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286683,
       "num": 1348977,
       "word": "胰腺癌是最内向的癌",
@@ -505,6 +521,14 @@
       "onboard_time": 1698413438,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 255674,
+      "num": 255674,
+      "word": "你一月能存多少钱",
+      "onboard_time": 1698457712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244540,
@@ -563,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203975,
-      "num": 203975,
-      "word": "你一月能存多少钱",
-      "onboard_time": 1698457712,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201586,
       "num": 201586,
       "word": "生理性喜欢",
@@ -609,6 +625,14 @@
       "onboard_time": 1698456155,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192008,
+      "num": 192008,
+      "word": "陆柯燃不奉陪舞台气场",
+      "onboard_time": 1698458974,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 191418,
@@ -667,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176017,
+      "num": 176017,
+      "word": "Newjeans 梦核感",
+      "onboard_time": 1698459393,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170936,
       "num": 170936,
       "word": "骆岗音乐节",
@@ -713,6 +745,22 @@
       "onboard_time": 1698414643,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154052,
+      "num": 154052,
+      "word": "警民跳入泥潭合力救出7旬奶奶",
+      "onboard_time": 1698457712,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149835,
+      "num": 149835,
+      "word": "黄旭东去米哈游讲PPT",
+      "onboard_time": 1698459153,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 147157,
@@ -980,7 +1028,7 @@
     },
     {
       "raw_hot": 23384,
-      "num": 629045,
+      "num": 977109,
       "word": "进博会5大亮点抢鲜看",
       "onboard_time": 1698410979,
       "rank": 2,
