@@ -1,0 +1,410 @@
+{
+  "runTime": 1698478438772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758998,
+        "num": 758998,
+        "word": "小杨哥被指直播低俗言论比徒弟更甚",
+        "onboard_time": 1698464670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547354,
+        "num": 547354,
+        "word": "深圳欢乐谷被曝多次出现弹射失败",
+        "onboard_time": 1698477153,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36435,
+        "num": 540265,
+        "word": "亚残运闭幕式中国代表团旗手公布",
+        "onboard_time": 1698459872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538422,
+        "num": 538422,
+        "word": "亲历者回忆过山车回滑太快起火花",
+        "onboard_time": 1698474873,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510904,
+        "num": 510904,
+        "word": "最能预示癌症的20个表现",
+        "onboard_time": 1698464974,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370946,
+        "num": 370946,
+        "word": "这三种护肤品要拉进黑名单",
+        "onboard_time": 1698476251,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 370854,
+        "num": 370854,
+        "word": "蛋仔派对",
+        "onboard_time": 1698474631,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286857,
+        "num": 368851,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237173,
+        "num": 366607,
+        "word": "家里有装监控的要小心了",
+        "onboard_time": 1698468513,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200040,
+        "num": 364704,
+        "word": "阴阳师 结局",
+        "onboard_time": 1698472411,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1833321,
+        "num": 361848,
+        "word": "和王诗龄合拍的男生该汗流浃背了",
+        "onboard_time": 1698475113,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1075815,
+        "num": 358502,
+        "word": "田曦薇身材曲线",
+        "onboard_time": 1698477092,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 902025,
+        "num": 356192,
+        "word": "陈楚生 他不爱我",
+        "onboard_time": 1698474092,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716082,
+        "num": 350991,
+        "word": "辍学女孩送继妹上学后投河身亡",
+        "onboard_time": 1698466894,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651443,
+        "num": 349485,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 419930,
+        "num": 345848,
+        "word": "冯禧活动造型",
+        "onboard_time": 1698472054,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412445,
+        "num": 343914,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 342240,
+        "num": 342240,
+        "word": "薛功灿 完美男主",
+        "onboard_time": 1698469233,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331228,
+        "num": 331228,
+        "word": "山东一19岁女生在校跳楼身亡",
+        "onboard_time": 1698458911,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294278,
+        "num": 294278,
+        "word": "李钟硕最近状态",
+        "onboard_time": 1698467253,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887434,
+        "num": 291658,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378519,
+        "num": 284441,
+        "word": "13岁侏儒症小奶猫",
+        "onboard_time": 1698473192,
+        "rank": 21,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 269571,
+        "num": 269571,
+        "word": "时代少年团台历",
+        "onboard_time": 1698476309,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259067,
+        "num": 259067,
+        "word": "王安宇好多第一次都给了花少",
+        "onboard_time": 1698472771,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231477,
+        "num": 231477,
+        "word": "于和伟说年轻人觉得我好玩吧",
+        "onboard_time": 1698477870,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221848,
+        "num": 221848,
+        "word": "韩国反偷拍标语中最令人难过的一条",
+        "onboard_time": 1698473793,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215766,
+        "num": 215766,
+        "word": "王源登国内外教科书",
+        "onboard_time": 1698472532,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205655,
+        "num": 205655,
+        "word": "建议爱到这种程度再结婚",
+        "onboard_time": 1698474211,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182847,
+        "num": 205219,
+        "word": "红绿灯的黄30日销售额超5000万",
+        "onboard_time": 1698463291,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181419,
+        "num": 204993,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 372236,
+        "num": 204991,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204960,
+        "num": 204960,
+        "word": "女朋友给我打包的拉面",
+        "onboard_time": 1698475292,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205335,
+        "num": 196455,
+        "word": "我要逆风去",
+        "onboard_time": 1698477992,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186388,
+        "num": 186388,
+        "word": "最近的Giselle",
+        "onboard_time": 1698477332,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184003,
+        "num": 184003,
+        "word": "陈都灵 美人肩",
+        "onboard_time": 1698468992,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179581,
+        "num": 179581,
+        "word": "迪丽热巴reaction",
+        "onboard_time": 1698475351,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176843,
+        "num": 176843,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1698470371,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173123,
+        "num": 173123,
+        "word": "披荆斩棘推迟上线",
+        "onboard_time": 1698468274,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154727,
+        "num": 154727,
+        "word": "充电费涨价电车真成电动爹了",
+        "onboard_time": 1698462813,
+        "rank": 38,
+        "category": "汽车,科技"
+      },
+      {
+        "raw_hot": 61567,
+        "num": 145165,
+        "word": "靠点外卖吃上真太空餐了",
+        "onboard_time": 1698476431,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138577,
+        "num": 138577,
+        "word": "NRG对战G2",
+        "onboard_time": 1698478233,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1560279,
+        "num": 138470,
+        "word": "深圳欢乐谷事故4人在ICU救治",
+        "onboard_time": 1698471153,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135770,
+        "num": 135770,
+        "word": "于和伟被嫌弃的小波的一生",
+        "onboard_time": 1698476670,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134330,
+        "num": 134330,
+        "word": "叶檀蔡磊流泪相约再见",
+        "onboard_time": 1698478293,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132984,
+        "num": 132984,
+        "word": "i人吃不了这卷饼",
+        "onboard_time": 1698473491,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125179,
+        "num": 125179,
+        "word": "警方称有权志龙吸毒证据",
+        "onboard_time": 1698452672,
+        "rank": 45,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 123495,
+        "num": 123495,
+        "word": "男生和爸爸开玩笑说女友比他大三岁",
+        "onboard_time": 1698471573,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "我要逆风去定档海报",
+        "onboard_time": 1698476072,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119182,
+        "num": 119182,
+        "word": "霉霉资产正式突破十位数",
+        "onboard_time": 1698458554,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113903,
+        "num": 118218,
+        "word": "残疾小伙摆1元摊赚的钱全捐出",
+        "onboard_time": 1698477811,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程推动东北全面振兴#"
+    }
+  }
+}
