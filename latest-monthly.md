@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 12:20:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 12:34:04
 </p>
 </blockquote>
 <p>
@@ -1281,6 +1281,12 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23" target="weibo">
+小杨哥被指直播低俗言论比徒弟更甚（热度：2245241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23" target="weibo">
 杭州亚运会闭幕式（热度：2244486）
 </a>
@@ -1967,12 +1973,6 @@ iPhone15全系价格暴跌（热度：2058577）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%E4%BB%8E126G%E5%88%B075G%23" target="weibo">
 微信内存从126G到75G（热度：1954001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23" target="weibo">
-小杨哥被指直播低俗言论比徒弟更甚（热度：1953651）
 </a>
 </li>
 
@@ -5079,6 +5079,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E6%9C%80%E8%BF%91%E7%8A%B6%E6%80%81%23" target="weibo">
+李钟硕最近状态（热度：1162952）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%23" target="weibo">
 黎巴嫩（热度：1162684）
 </a>
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
 以色列中国留学生发声（热度：1017394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E9%95%BF%E9%AB%98%E4%BA%865%E5%8E%98%E7%B1%B3%23" target="weibo">
-23岁长高了5厘米（热度：1016869）
 </a>
 </li>
 

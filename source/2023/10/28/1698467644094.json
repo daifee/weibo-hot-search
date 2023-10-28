@@ -1,0 +1,410 @@
+{
+  "runTime": 1698467644094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2245241,
+        "num": 2245241,
+        "word": "小杨哥被指直播低俗言论比徒弟更甚",
+        "onboard_time": 1698464670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976802,
+        "num": 976802,
+        "word": "最能预示癌症的20个表现",
+        "onboard_time": 1698464974,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27995,
+        "num": 751536,
+        "word": "3分钟回顾中国航天员出征太空",
+        "onboard_time": 1698416261,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 624259,
+        "num": 624259,
+        "word": "红绿灯的黄30日销售额超5000万",
+        "onboard_time": 1698463291,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1536905,
+        "num": 614760,
+        "word": "游客拍到事发时过山车溜车画面",
+        "onboard_time": 1698462273,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444155,
+        "num": 444155,
+        "word": "夫妻存款3500元发现多一个0秒退还",
+        "onboard_time": 1698451715,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326062,
+        "num": 326062,
+        "word": "学生眼中的吴尊友没有一天不在工作",
+        "onboard_time": 1698454893,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303458,
+        "num": 303458,
+        "word": "深圳欢乐谷开展安全大检查",
+        "onboard_time": 1698453452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298688,
+        "num": 298688,
+        "word": "多次梦到同一个人",
+        "onboard_time": 1698453034,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240450,
+        "num": 298253,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1815854,
+        "num": 298096,
+        "word": "红绿灯的黄道歉",
+        "onboard_time": 1698458253,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1502877,
+        "num": 297519,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1162952,
+        "num": 296833,
+        "word": "李钟硕最近状态",
+        "onboard_time": 1698467253,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001157,
+        "num": 296738,
+        "word": "山东一19岁女生在校跳楼身亡",
+        "onboard_time": 1698458911,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691677,
+        "num": 295882,
+        "word": "霉霉资产正式突破十位数",
+        "onboard_time": 1698458554,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519895,
+        "num": 295634,
+        "word": "披荆斩棘",
+        "onboard_time": 1698466293,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518039,
+        "num": 295314,
+        "word": "迪丽热巴带了速效救心丸",
+        "onboard_time": 1698459935,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445932,
+        "num": 294741,
+        "word": "女生吃20颗西梅腹泻十几次晕倒",
+        "onboard_time": 1698461431,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427526,
+        "num": 294154,
+        "word": "辍学女孩送继妹上学后投河身亡",
+        "onboard_time": 1698466894,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420609,
+        "num": 293772,
+        "word": "警方称有权志龙吸毒证据",
+        "onboard_time": 1698452672,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 381135,
+        "num": 293027,
+        "word": "被守护解放西评论笑不活了",
+        "onboard_time": 1698464974,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292953,
+        "num": 292953,
+        "word": "充电费涨价电车真成电动爹了",
+        "onboard_time": 1698462813,
+        "rank": 21,
+        "category": "汽车,科技"
+      },
+      {
+        "raw_hot": 290836,
+        "num": 290836,
+        "word": "秦岚嗓子都这样了还得唱歌",
+        "onboard_time": 1698464072,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287065,
+        "num": 287065,
+        "word": "五月天 上海11场",
+        "onboard_time": 1698460711,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283534,
+        "num": 283534,
+        "word": "林更新 赵又廷就是loopy",
+        "onboard_time": 1698463832,
+        "rank": 24,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 250013,
+        "num": 250013,
+        "word": "THE9演唱会结尾是全体青春制作人",
+        "onboard_time": 1698462153,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221890,
+        "num": 221890,
+        "word": "虞书欣饭撒",
+        "onboard_time": 1698464372,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205086,
+        "num": 205086,
+        "word": "红绿灯的黄",
+        "onboard_time": 1698460411,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199454,
+        "num": 199454,
+        "word": "进口化妆品价格不到半年腰斩",
+        "onboard_time": 1698456873,
+        "rank": 28,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 190998,
+        "num": 190998,
+        "word": "华晨宇欧豪包场看不见的顶峰",
+        "onboard_time": 1698463892,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185830,
+        "num": 185830,
+        "word": "深圳欢乐谷通报",
+        "onboard_time": 1698414763,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172123,
+        "num": 172123,
+        "word": "京东李佳琦打架用户狂薅羊毛",
+        "onboard_time": 1698407503,
+        "rank": 31,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 171715,
+        "word": "以为有蛇偷蛋村民扒开枯枝发现国宝",
+        "onboard_time": 1698451533,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169382,
+        "num": 169382,
+        "word": "金子涵去看THE9演唱会了",
+        "onboard_time": 1698449906,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157017,
+        "num": 157017,
+        "word": "14岁男生吃完烤全羊竟然变小黄人",
+        "onboard_time": 1698450266,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152553,
+        "num": 152553,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151647,
+        "num": 151647,
+        "word": "东契奇49分",
+        "onboard_time": 1698462813,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151126,
+        "num": 151126,
+        "word": "李克强同志遗像",
+        "onboard_time": 1698404079,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148743,
+        "num": 148743,
+        "word": "吴尊友生前采访",
+        "onboard_time": 1698455254,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144789,
+        "num": 144789,
+        "word": "你一月能存多少钱",
+        "onboard_time": 1698457712,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143902,
+        "num": 143902,
+        "word": "Crisp及时救难收购摧人心",
+        "onboard_time": 1698467434,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142365,
+        "num": 142365,
+        "word": "00后中专生女孩为追星考上上戏",
+        "onboard_time": 1698457834,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141837,
+        "num": 141837,
+        "word": "文班亚马绝平",
+        "onboard_time": 1698462872,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139165,
+        "num": 139165,
+        "word": "Newjeans 梦核感",
+        "onboard_time": 1698459393,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133955,
+        "num": 133955,
+        "word": "亲历者讲述欢乐谷过山车追尾事故",
+        "onboard_time": 1698449245,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132247,
+        "num": 132247,
+        "word": "河边的错误预测票房超3亿",
+        "onboard_time": 1698466355,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131013,
+        "num": 131013,
+        "word": "胡先煦好美的精神状态",
+        "onboard_time": 1698465811,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127906,
+        "num": 127906,
+        "word": "姐姐为留学妹妹定制书法版行李箱",
+        "onboard_time": 1698466054,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125641,
+        "num": 125641,
+        "word": "上海最贵潮汕菜",
+        "onboard_time": 1698465753,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119289,
+        "num": 119289,
+        "word": "王楚钦首轮对战高承睿",
+        "onboard_time": 1698463473,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步推动新时代东北全面振兴取得新突破#"
+    }
+  }
+}
