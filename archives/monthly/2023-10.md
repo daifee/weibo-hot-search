@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 14:20:51
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 14:34:03
 </p>
 </blockquote>
 <p>
@@ -813,6 +813,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E4%BA%8B%E6%95%854%E4%BA%BA%E5%9C%A8ICU%E6%95%91%E6%B2%BB%23" target="weibo">
+深圳欢乐谷事故4人在ICU救治（热度：2615585）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83%23" target="weibo">
 吃播 假吃（热度：2610102）
 </a>
@@ -833,12 +839,6 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E7%B1%BB%E5%9E%8B%E5%8F%98%E4%BA%86%23" target="weibo">
 秦霄贤喜欢的女生类型变了（热度：2580234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E4%BA%8B%E6%95%854%E4%BA%BA%E5%9C%A8ICU%E6%95%91%E6%B2%BB%23" target="weibo">
-深圳欢乐谷事故4人在ICU救治（热度：2578875）
 </a>
 </li>
 

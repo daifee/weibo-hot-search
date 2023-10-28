@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698474051910,
+  "endTime": 1698474843529,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -1067,6 +1067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2615585,
+      "num": 2578875,
+      "word": "深圳欢乐谷事故4人在ICU救治",
+      "onboard_time": 1698471153,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2610102,
       "num": 2610102,
       "word": "吃播 假吃",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1696472250,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2578875,
-      "num": 2578875,
-      "word": "深圳欢乐谷事故4人在ICU救治",
-      "onboard_time": 1698471153,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2577468,
@@ -9019,6 +9019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 935321,
+      "num": 322570,
+      "word": "冯禧活动造型",
+      "onboard_time": 1698472054,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 935199,
       "num": 662624,
       "word": "乘务员在高铁上被惊喜求婚",
@@ -10929,14 +10937,6 @@
       "onboard_time": 1697550223,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 812018,
-      "num": 322570,
-      "word": "冯禧活动造型",
-      "onboard_time": 1698472054,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 811640,
@@ -21555,6 +21555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 473879,
+      "num": 298185,
+      "word": "陈楚生 他不爱我",
+      "onboard_time": 1698474092,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473582,
       "num": 473582,
       "word": "许昕让王楚钦长点脂肪",
@@ -22771,6 +22779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453895,
+      "num": 299221,
+      "word": "13岁侏儒症小奶猫",
+      "onboard_time": 1698473192,
+      "rank": 22,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 453821,
       "num": 373480,
       "word": "张雪峰 惹谁都不要惹知识分子",
@@ -23953,6 +23969,14 @@
       "onboard_time": 1696085022,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 435684,
+      "num": 306532,
+      "word": "王安宇好多第一次都给了花少",
+      "onboard_time": 1698472771,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 435679,
@@ -25875,14 +25899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 403268,
-      "num": 306532,
-      "word": "王安宇好多第一次都给了花少",
-      "onboard_time": 1698472771,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403192,
       "num": 403192,
       "word": "原来国乒队都有属于自己的教练",
@@ -26273,14 +26289,6 @@
       "onboard_time": 1698035023,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 395888,
-      "num": 299221,
-      "word": "13岁侏儒症小奶猫",
-      "onboard_time": 1698473192,
-      "rank": 22,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 395809,
@@ -31745,6 +31753,14 @@
       "onboard_time": 1698161795,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330279,
+      "num": 288756,
+      "word": "韩国反偷拍标语中最令人难过的一条",
+      "onboard_time": 1698473793,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 330225,
@@ -37499,6 +37515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279021,
+      "num": 279021,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1698470371,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "种地吧",
@@ -39177,14 +39201,6 @@
       "onboard_time": 1696606656,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 266508,
-      "num": 266508,
-      "word": "时代少年团演唱会抢票",
-      "onboard_time": 1698470371,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 266493,
@@ -50835,6 +50851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204465,
+      "num": 204465,
+      "word": "LGD晋级TI12胜者组决赛",
+      "onboard_time": 1698474032,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204456,
       "num": 204456,
       "word": "这个是沈月那款吗",
@@ -54915,6 +54939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192613,
+      "num": 315522,
+      "word": "蛋仔派对",
+      "onboard_time": 1698158740,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192611,
       "num": 192611,
       "word": "孙颖莎晋级女单决赛",
@@ -58963,14 +58995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178339,
-      "num": 178339,
-      "word": "韩国反偷拍标语中最令人难过的一条",
-      "onboard_time": 1698473793,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178329,
       "num": 178329,
       "word": "中国女足半决赛对战日本",
@@ -59953,6 +59977,14 @@
       "onboard_time": 1698149620,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174168,
+      "num": 174168,
+      "word": "建议爱到这种程度再结婚",
+      "onboard_time": 1698474211,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 174167,
@@ -61233,6 +61265,14 @@
       "onboard_time": 1696635691,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168583,
+      "num": 168583,
+      "word": "i人吃不了这卷饼",
+      "onboard_time": 1698473491,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 168577,
@@ -65507,14 +65547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149783,
-      "num": 149783,
-      "word": "蛋仔派对",
-      "onboard_time": 1698158740,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149766,
       "num": 149766,
       "word": "中国菌草技术何以全球圈粉",
@@ -66435,14 +66467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145484,
-      "num": 145484,
-      "word": "LGD晋级TI12胜者组决赛",
-      "onboard_time": 1698474032,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145474,
       "num": 145474,
       "word": "掘金新赛季开门红",
@@ -66481,14 +66505,6 @@
       "onboard_time": 1697778935,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145245,
-      "num": 145245,
-      "word": "i人吃不了这卷饼",
-      "onboard_time": 1698473491,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 145213,
@@ -71507,6 +71523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115804,
+      "num": 115804,
+      "word": "女孩公交遇偷拍者勇敢制止并报警",
+      "onboard_time": 1698473971,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115379,
       "num": 115379,
       "word": "江苏监狱轻奢风普法片",
@@ -74131,6 +74155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83847,
+      "num": 305637,
+      "word": "何同学趣味解构洗碗机",
+      "onboard_time": 1698471991,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 83657,
       "num": 83657,
       "word": "阿彩婚礼",
@@ -74665,14 +74697,6 @@
       "onboard_time": 1697992287,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74507,
-      "num": 305637,
-      "word": "何同学趣味解构洗碗机",
-      "onboard_time": 1698471991,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 74456,

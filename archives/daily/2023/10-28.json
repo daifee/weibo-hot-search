@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698474051910,
+  "endTime": 1698474843529,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -27,7 +27,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2578875,
+      "raw_hot": 2615585,
       "num": 2578875,
       "word": "深圳欢乐谷事故4人在ICU救治",
       "onboard_time": 1698471153,
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935321,
+      "num": 322570,
+      "word": "冯禧活动造型",
+      "onboard_time": 1698472054,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 890576,
       "num": 1577560,
       "word": "吴尊友逝世",
       "onboard_time": 1698396773,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 812018,
-      "num": 322570,
-      "word": "冯禧活动造型",
-      "onboard_time": 1698472054,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 802850,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 473879,
+      "num": 298185,
+      "word": "陈楚生 他不爱我",
+      "onboard_time": 1698474092,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466114,
       "num": 289237,
       "word": "红绿灯的黄",
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453895,
+      "num": 299221,
+      "word": "13岁侏儒症小奶猫",
+      "onboard_time": 1698473192,
+      "rank": 22,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 453387,
       "num": 1494302,
       "word": "中级会计成绩",
@@ -441,6 +457,14 @@
       "onboard_time": 1698453452,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435684,
+      "num": 306532,
+      "word": "王安宇好多第一次都给了花少",
+      "onboard_time": 1698472771,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 410583,
@@ -465,14 +489,6 @@
       "onboard_time": 1698411341,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 403268,
-      "num": 306532,
-      "word": "王安宇好多第一次都给了花少",
-      "onboard_time": 1698472771,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 403030,
@@ -505,14 +521,6 @@
       "onboard_time": 1698451110,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 395888,
-      "num": 299221,
-      "word": "13岁侏儒症小奶猫",
-      "onboard_time": 1698473192,
-      "rank": 22,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 386385,
@@ -651,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 330279,
+      "num": 288756,
+      "word": "韩国反偷拍标语中最令人难过的一条",
+      "onboard_time": 1698473793,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327659,
       "num": 327659,
       "word": "13岁哥哥见新生妹妹紧张到无从下手",
@@ -739,6 +755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279021,
+      "num": 279021,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1698470371,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276110,
       "num": 276110,
       "word": "美称空袭叙利亚与巴以冲突无关",
@@ -753,14 +777,6 @@
       "onboard_time": 1698365932,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 266508,
-      "num": 266508,
-      "word": "时代少年团演唱会抢票",
-      "onboard_time": 1698470371,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 261435,
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204465,
+      "num": 204465,
+      "word": "LGD晋级TI12胜者组决赛",
+      "onboard_time": 1698474032,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202710,
       "num": 202710,
       "word": "红绿灯的黄曾被抢注商标",
@@ -993,6 +1017,14 @@
       "onboard_time": 1698456155,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192613,
+      "num": 315522,
+      "word": "蛋仔派对",
+      "onboard_time": 1698474631,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 192015,
@@ -1083,14 +1115,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 178339,
-      "num": 178339,
-      "word": "韩国反偷拍标语中最令人难过的一条",
-      "onboard_time": 1698473793,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176133,
       "num": 176133,
       "word": "花傲天太宠了",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1698463473,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174168,
+      "num": 174168,
+      "word": "建议爱到这种程度再结婚",
+      "onboard_time": 1698474211,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 173502,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1698470612,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168583,
+      "num": 168583,
+      "word": "i人吃不了这卷饼",
+      "onboard_time": 1698473491,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 168389,
@@ -1249,22 +1289,6 @@
       "onboard_time": 1698398094,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145484,
-      "num": 145484,
-      "word": "LGD晋级TI12胜者组决赛",
-      "onboard_time": 1698474032,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 145245,
-      "num": 145245,
-      "word": "i人吃不了这卷饼",
-      "onboard_time": 1698473491,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 145212,
@@ -1451,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115804,
+      "num": 115804,
+      "word": "女孩公交遇偷拍者勇敢制止并报警",
+      "onboard_time": 1698473971,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112021,
       "num": 112021,
       "word": "秋冬一周不重样穿搭",
@@ -1539,7 +1571,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 74507,
+      "raw_hot": 83847,
       "num": 305637,
       "word": "何同学趣味解构洗碗机",
       "onboard_time": 1698471991,
