@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698517207698,
+  "endTime": 1698518050411,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -49523,6 +49523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213217,
+      "num": 213217,
+      "word": "她32岁成教授级工程师",
+      "onboard_time": 1698512905,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213205,
       "num": 192286,
       "word": "玄月簪盘发",
@@ -53497,14 +53505,6 @@
       "onboard_time": 1698105456,
       "rank": 25,
       "category": "电竞,音乐"
-    },
-    {
-      "raw_hot": 199940,
-      "num": 199940,
-      "word": "她32岁成教授级工程师",
-      "onboard_time": 1698512905,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199890,
@@ -66619,6 +66619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151386,
+      "num": 151386,
+      "word": "贝林厄姆",
+      "onboard_time": 1698515538,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151358,
       "num": 151358,
       "word": "专业化妆师提供的底妆新思路",
@@ -68097,14 +68105,6 @@
       "onboard_time": 1697242532,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144137,
-      "num": 144137,
-      "word": "贝林厄姆",
-      "onboard_time": 1698515538,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 144126,

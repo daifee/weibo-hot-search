@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698517207698,
+  "endTime": 1698518050411,
   "band_list": [
     {
       "raw_hot": 2203373,
@@ -275,20 +275,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 213217,
+      "num": 213217,
+      "word": "她32岁成教授级工程师",
+      "onboard_time": 1698512905,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205716,
       "num": 205716,
       "word": "王嘉尔在温州参加婚礼",
       "onboard_time": 1698496355,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199940,
-      "num": 199940,
-      "word": "她32岁成教授级工程师",
-      "onboard_time": 1698512905,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194536,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151386,
+      "num": 151386,
+      "word": "贝林厄姆",
+      "onboard_time": 1698515538,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "崔秀彬踩燃了十辆摩托",
@@ -377,14 +385,6 @@
       "onboard_time": 1698503078,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 144137,
-      "num": 144137,
-      "word": "贝林厄姆",
-      "onboard_time": 1698515538,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 142145,
