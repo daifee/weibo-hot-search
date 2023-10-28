@@ -1,0 +1,411 @@
+{
+  "startTime": 1698509994848,
+  "endTime": 1698509994848,
+  "band_list": [
+    {
+      "raw_hot": 2017310,
+      "num": 625166,
+      "word": "巴勒斯坦",
+      "onboard_time": 1698507514,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1095003,
+      "num": 356582,
+      "word": "内娱慕强批的天堂",
+      "onboard_time": 1698507634,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 988432,
+      "num": 988432,
+      "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
+      "onboard_time": 1698501216,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860384,
+      "num": 355999,
+      "word": "李湘王岳伦发出尖锐爆鸣",
+      "onboard_time": 1698488794,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 767355,
+      "num": 767355,
+      "word": "体制内你不知道的文件命名",
+      "onboard_time": 1698503859,
+      "rank": 1,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 699226,
+      "num": 699226,
+      "word": "贝林厄姆世界波",
+      "onboard_time": 1698508953,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 690247,
+      "num": 690247,
+      "word": "被生母虐待致残男童仍惦记妈妈",
+      "onboard_time": 1698506799,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676690,
+      "num": 354634,
+      "word": "杨幂生图",
+      "onboard_time": 1698492995,
+      "rank": 12,
+      "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 613212,
+      "num": 353860,
+      "word": "陈楚生居然唱了活该",
+      "onboard_time": 1698507456,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 581795,
+      "num": 352564,
+      "word": "科学家发现精子运动违背牛顿第三定律",
+      "onboard_time": 1698489934,
+      "rank": 14,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 547408,
+      "num": 547408,
+      "word": "巨显发量的双麻花辫",
+      "onboard_time": 1698508413,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 523810,
+      "num": 321470,
+      "word": "胎儿8斤重产妇要求剖腹产被拒",
+      "onboard_time": 1698505537,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496240,
+      "num": 351548,
+      "word": "李善均全慧珍紧急送小儿子出国",
+      "onboard_time": 1698497555,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 463049,
+      "num": 315047,
+      "word": "车毁仁亡",
+      "onboard_time": 1698502117,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420814,
+      "num": 420814,
+      "word": "深圳过山车事发前曾连续两天出故障",
+      "onboard_time": 1698505297,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419953,
+      "num": 350548,
+      "word": "大学生用遮瑕把自己涂成阿凡达",
+      "onboard_time": 1698491795,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 365752,
+      "num": 349372,
+      "word": "张杰音乐节",
+      "onboard_time": 1698507400,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 362125,
+      "num": 362125,
+      "word": "电脑聊天记录被公司看见",
+      "onboard_time": 1698477634,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 357587,
+      "num": 357587,
+      "word": "教师全员竞聘上岗",
+      "onboard_time": 1698492995,
+      "rank": 9,
+      "category": "国内要闻,教育"
+    },
+    {
+      "raw_hot": 349176,
+      "num": 349176,
+      "word": "李宇春唱陆贞传奇主题曲",
+      "onboard_time": 1698508054,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 329606,
+      "num": 329606,
+      "word": "巴萨vs皇马",
+      "onboard_time": 1698503321,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 307658,
+      "num": 307658,
+      "word": "王源 公主请喝水",
+      "onboard_time": 1698501337,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286230,
+      "num": 286230,
+      "word": "许佳琪带伤跳蝎子舞好拼",
+      "onboard_time": 1698507215,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 276330,
+      "num": 276330,
+      "word": "虞书欣爷爷去看THE9演唱会了",
+      "onboard_time": 1698498576,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 269556,
+      "num": 230402,
+      "word": "虞书欣甲片都跳掉了",
+      "onboard_time": 1698501034,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 239960,
+      "num": 239960,
+      "word": "张大仙 欢迎来到王者荣耀",
+      "onboard_time": 1698503619,
+      "rank": 25,
+      "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 237248,
+      "num": 237248,
+      "word": "人生中第一次吃面肺子",
+      "onboard_time": 1698506857,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 236079,
+      "num": 236079,
+      "word": "沈腾檀健次打游戏",
+      "onboard_time": 1698508653,
+      "rank": 27,
+      "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 231968,
+      "num": 231968,
+      "word": "赖冠霖 人要近看了都差不多",
+      "onboard_time": 1698503139,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227210,
+      "num": 227210,
+      "word": "李克强同志逝世",
+      "onboard_time": 1698365932,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 224126,
+      "num": 224126,
+      "word": "周小仙 一天格格装妆造体验卡",
+      "onboard_time": 1698509493,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 205716,
+      "num": 205716,
+      "word": "王嘉尔在温州参加婚礼",
+      "onboard_time": 1698496355,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194536,
+      "num": 194536,
+      "word": "杨千嬅演唱会",
+      "onboard_time": 1698506857,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193199,
+      "num": 193199,
+      "word": "以方拒绝联大呼吁巴以停火的决议",
+      "onboard_time": 1698504697,
+      "rank": 34,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 191828,
+      "num": 191828,
+      "word": "林俊杰起风了",
+      "onboard_time": 1698502477,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 181819,
+      "num": 181819,
+      "word": "刘雨昕唱promise哽咽了",
+      "onboard_time": 1698506736,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 179580,
+      "num": 179580,
+      "word": "gemini采访五月天",
+      "onboard_time": 1698504697,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171900,
+      "num": 171900,
+      "word": "杨幂沈腾同框",
+      "onboard_time": 1698495034,
+      "rank": 38,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 168949,
+      "num": 168949,
+      "word": "拜仁8比0达姆施塔特",
+      "onboard_time": 1698507757,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159951,
+      "num": 159951,
+      "word": "男子公交上裸露下体偷拍女生",
+      "onboard_time": 1698476191,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150400,
+      "num": 150400,
+      "word": "崔秀彬踩燃了十辆摩托",
+      "onboard_time": 1698507873,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146012,
+      "num": 146012,
+      "word": "好吃懒做减肥法",
+      "onboard_time": 1698503078,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 142145,
+      "num": 142145,
+      "word": "9块9咖啡让独立咖啡店很受伤",
+      "onboard_time": 1698486572,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 140631,
+      "num": 140631,
+      "word": "田耕纪编剧起诉剧方",
+      "onboard_time": 1698491974,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130413,
+      "num": 130413,
+      "word": "凯恩半场吊射破门",
+      "onboard_time": 1698506374,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118322,
+      "num": 118322,
+      "word": "肖战汪藏海要来了吗",
+      "onboard_time": 1698487593,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117076,
+      "num": 117076,
+      "word": "THE9演唱会",
+      "onboard_time": 1698496355,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 112896,
+      "num": 112896,
+      "word": "鞠婧祎唱恋爱告急好甜",
+      "onboard_time": 1698495696,
+      "rank": 48,
+      "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 111380,
+      "num": 111380,
+      "word": "王哲林关键失误",
+      "onboard_time": 1698504277,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43903,
+      "num": 723956,
+      "word": "杭州亚残运会闭幕",
+      "onboard_time": 1698498634,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中华民族共同体意识#"
+    }
+  ]
+}
