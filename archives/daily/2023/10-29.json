@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698514444682,
+  "endTime": 1698517207698,
   "band_list": [
     {
       "raw_hot": 2203373,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199940,
+      "num": 199940,
+      "word": "她32岁成教授级工程师",
+      "onboard_time": 1698512905,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194536,
       "num": 194536,
       "word": "杨千嬅演唱会",
@@ -371,6 +379,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 144137,
+      "num": 144137,
+      "word": "贝林厄姆",
+      "onboard_time": 1698515538,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142145,
       "num": 142145,
       "word": "9块9咖啡让独立咖啡店很受伤",
@@ -393,14 +409,6 @@
       "onboard_time": 1698506374,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123344,
-      "num": 123344,
-      "word": "她32岁成教授级工程师",
-      "onboard_time": 1698512905,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118322,
@@ -473,6 +481,14 @@
       "onboard_time": 1698498634,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 38535,
+      "num": 38535,
+      "word": "古早cp最遥远的距离",
+      "onboard_time": 1698511168,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 14577,
