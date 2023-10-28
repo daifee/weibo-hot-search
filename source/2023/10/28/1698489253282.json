@@ -1,0 +1,410 @@
+{
+  "runTime": 1698489253282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617225,
+        "num": 1617225,
+        "word": "电脑聊天记录被公司看见",
+        "onboard_time": 1698477634,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458660,
+        "num": 1532350,
+        "word": "舅舅带12岁外甥骑行318国道去拉萨",
+        "onboard_time": 1698484230,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32354,
+        "num": 1506286,
+        "word": "3分钟看航天员的训练日常",
+        "onboard_time": 1698479133,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1504225,
+        "num": 1504225,
+        "word": "T1零封BLG",
+        "onboard_time": 1698488495,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231302,
+        "num": 1195817,
+        "word": "外卖小哥取餐时顺手救了场火",
+        "onboard_time": 1698483752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185850,
+        "num": 1185850,
+        "word": "小杨哥换头像",
+        "onboard_time": 1698483931,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207599,
+        "num": 937479,
+        "word": "司机集体给救护车让道后憨憨原地待命",
+        "onboard_time": 1698484352,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 737054,
+        "num": 737054,
+        "word": "T1对战BLG",
+        "onboard_time": 1698484111,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 635800,
+        "num": 635800,
+        "word": "安徽通报男子同时迎娶两个新娘",
+        "onboard_time": 1698485553,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580316,
+        "num": 580316,
+        "word": "厦门航空通报飞机被刮蹭",
+        "onboard_time": 1698485615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1598171,
+        "num": 567228,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1051385,
+        "num": 559998,
+        "word": "肖战汪藏海要来了吗",
+        "onboard_time": 1698487593,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584313,
+        "num": 559105,
+        "word": "扁平脸把这个妆半永久在脸上",
+        "onboard_time": 1698484651,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 552747,
+        "num": 552747,
+        "word": "9块9咖啡让独立咖啡店很受伤",
+        "onboard_time": 1698486572,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 518230,
+        "num": 518230,
+        "word": "秦海璐外语真学不了一点",
+        "onboard_time": 1698487411,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044090,
+        "num": 499991,
+        "word": "参加晚宴的王诗龄",
+        "onboard_time": 1698482792,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462527,
+        "num": 462527,
+        "word": "BLG天崩开局",
+        "onboard_time": 1698486451,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 417722,
+        "num": 417722,
+        "word": "冯禧气质",
+        "onboard_time": 1698480571,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381156,
+        "num": 381156,
+        "word": "田曦薇身材曲线",
+        "onboard_time": 1698477092,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345704,
+        "num": 345704,
+        "word": "on牛头 疯牛病",
+        "onboard_time": 1698488853,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 721599,
+        "num": 341412,
+        "word": "男子公交上裸露下体偷拍女生",
+        "onboard_time": 1698476191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421086,
+        "num": 341129,
+        "word": "BLG选豹女",
+        "onboard_time": 1698486511,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334400,
+        "num": 334400,
+        "word": "娜扎大梦归离神女路透",
+        "onboard_time": 1698488495,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313604,
+        "num": 313604,
+        "word": "美国总统拜登在白宫会见王毅",
+        "onboard_time": 1698482913,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 298495,
+        "num": 298495,
+        "word": "迪丽热巴辛芷蕾互相拿错名字",
+        "onboard_time": 1698488192,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270349,
+        "num": 270349,
+        "word": "来了内蒙才知道以前吃的不叫酸奶",
+        "onboard_time": 1698487053,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253240,
+        "num": 253240,
+        "word": "陈楚生 他不爱我",
+        "onboard_time": 1698474092,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251360,
+        "num": 251360,
+        "word": "看月亮",
+        "onboard_time": 1698486812,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 240165,
+        "num": 240165,
+        "word": "苍兰诀恭喜王鹤棣",
+        "onboard_time": 1698478772,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234850,
+        "num": 234850,
+        "word": "万圣节妆容",
+        "onboard_time": 1698488374,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228288,
+        "num": 228288,
+        "word": "过山车设备厂家解释事故原因",
+        "onboard_time": 1698488132,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 216986,
+        "num": 216986,
+        "word": "辍学女孩送继妹上学后投河身亡",
+        "onboard_time": 1698466894,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195090,
+        "num": 195090,
+        "word": "告别吴尊友不应只记得三年白头",
+        "onboard_time": 1698478772,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193632,
+        "num": 193632,
+        "word": "张元英穿平底鞋的视觉效果",
+        "onboard_time": 1698482854,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175781,
+        "num": 175781,
+        "word": "陈都灵 清纯女大",
+        "onboard_time": 1698482553,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165353,
+        "num": 165353,
+        "word": "王者荣耀2023周年庆",
+        "onboard_time": 1698482732,
+        "rank": 36,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 158069,
+        "num": 158069,
+        "word": "偷懒妆容",
+        "onboard_time": 1698488853,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148885,
+        "num": 148885,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1698470371,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145046,
+        "num": 145046,
+        "word": "一句话辣评20个热门国货优缺点",
+        "onboard_time": 1698488913,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141875,
+        "num": 141875,
+        "word": "河边的错误 没看懂",
+        "onboard_time": 1698482012,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141715,
+        "num": 141715,
+        "word": "和爱的人一起睡是大补",
+        "onboard_time": 1698489034,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137557,
+        "num": 137557,
+        "word": "杨紫我们的美好生活播放量破亿",
+        "onboard_time": 1698489093,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142081,
+        "num": 137379,
+        "word": "时代少年团台历",
+        "onboard_time": 1698476309,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135776,
+        "num": 135776,
+        "word": "虞书欣被台下激光笔照射",
+        "onboard_time": 1698449366,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134248,
+        "num": 134248,
+        "word": "龚俊首部黄金档上星剧",
+        "onboard_time": 1698483334,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132371,
+        "num": 132371,
+        "word": "孔雪儿ending",
+        "onboard_time": 1698485013,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131683,
+        "num": 131683,
+        "word": "李克强同志讣告",
+        "onboard_time": 1698403607,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 129080,
+        "num": 129080,
+        "word": "13岁侏儒症小奶猫",
+        "onboard_time": 1698473192,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 114908,
+        "num": 114908,
+        "word": "设备失控撞向客机地勤跑出残影阻拦",
+        "onboard_time": 1698487053,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第九次集体学习#"
+    }
+  }
+}
