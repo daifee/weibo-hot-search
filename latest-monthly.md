@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 11:34:09
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/28 12:20:07
 </p>
 </blockquote>
 <p>
@@ -1959,8 +1959,20 @@ iPhone15全系价格暴跌（热度：2058577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E4%BA%8B%E5%8F%91%E6%97%B6%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%BA%9C%E8%BD%A6%E7%94%BB%E9%9D%A2%23" target="weibo">
+游客拍到事发时过山车溜车画面（热度：1958952）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%E4%BB%8E126G%E5%88%B075G%23" target="weibo">
 微信内存从126G到75G（热度：1954001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%A2%AB%E6%8C%87%E7%9B%B4%E6%92%AD%E4%BD%8E%E4%BF%97%E8%A8%80%E8%AE%BA%E6%AF%94%E5%BE%92%E5%BC%9F%E6%9B%B4%E7%94%9A%23" target="weibo">
+小杨哥被指直播低俗言论比徒弟更甚（热度：1953651）
 </a>
 </li>
 
@@ -3875,12 +3887,6 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E7%BE%8E%E5%87%AF%E9%BE%99%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 红星美凯龙 迪丽热巴（热度：1391052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8B%8D%E5%88%B0%E4%BA%8B%E5%8F%91%E6%97%B6%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%BA%9C%E8%BD%A6%E7%94%BB%E9%9D%A2%23" target="weibo">
-游客拍到事发时过山车溜车画面（热度：1390651）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E9%95%BF%E9%AB%98%E4%BA%865%E5%8E%98%E7%B1%B3%23" target="weibo">
 23岁长高了5厘米（热度：1016869）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：1016083）
 </a>
 </li>
 

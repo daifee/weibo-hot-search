@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698464049759,
+  "endTime": 1698466807106,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -595,6 +595,22 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1958952,
+      "num": 1390651,
+      "word": "游客拍到事发时过山车溜车画面",
+      "onboard_time": 1698462273,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1953651,
+      "num": 1953651,
+      "word": "小杨哥被指直播低俗言论比徒弟更甚",
+      "onboard_time": 1698464670,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1950463,
       "num": 1950463,
       "word": "北京长峰医院重大火灾事故调查报告",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1697934390,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1390651,
-      "num": 1390651,
-      "word": "游客拍到事发时过山车溜车画面",
-      "onboard_time": 1698462273,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1389594,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1698290011,
       "rank": 45,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 806795,
+      "num": 231879,
+      "word": "最能预示癌症的20个表现",
+      "onboard_time": 1698464974,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 803623,
@@ -3705,6 +3721,14 @@
       "onboard_time": 1697951252,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 561356,
+      "num": 561356,
+      "word": "红绿灯的黄30日销售额超5000万",
+      "onboard_time": 1698463291,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560755,
@@ -5147,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424558,
+      "num": 229271,
+      "word": "披荆斩棘",
+      "onboard_time": 1698466293,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424228,
       "num": 424228,
       "word": "段艺璇被砸",
@@ -5465,6 +5497,14 @@
       "onboard_time": 1697990970,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400219,
+      "num": 229061,
+      "word": "被守护解放西评论笑不活了",
+      "onboard_time": 1698464974,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 398918,
@@ -5923,6 +5963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 373131,
+      "num": 228394,
+      "word": "林更新 赵又廷就是loopy",
+      "onboard_time": 1698463832,
+      "rank": 32,
+      "category": "剧集,幽默"
+    },
+    {
       "raw_hot": 372015,
       "num": 372015,
       "word": "任家萱 我就是我自己的偶像",
@@ -6281,6 +6329,14 @@
       "onboard_time": 1697906429,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351717,
+      "num": 227554,
+      "word": "秦岚嗓子都这样了还得唱歌",
+      "onboard_time": 1698464072,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 351104,
@@ -7875,14 +7931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 285532,
-      "num": 285532,
-      "word": "红绿灯的黄30日销售额超5000万",
-      "onboard_time": 1698463291,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285380,
       "num": 285380,
       "word": "明星吸毒为何不断出现",
@@ -9113,6 +9161,14 @@
       "onboard_time": 1697984735,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 248898,
+      "num": 226611,
+      "word": "虞书欣饭撒",
+      "onboard_time": 1698464372,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 248583,
@@ -10473,14 +10529,6 @@
       "onboard_time": 1698046184,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 216411,
-      "num": 216411,
-      "word": "林更新 赵又廷就是loopy",
-      "onboard_time": 1698463832,
-      "rank": 32,
-      "category": "剧集,幽默"
     },
     {
       "raw_hot": 216380,
@@ -11857,6 +11905,14 @@
       "onboard_time": 1698229115,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195539,
+      "num": 195539,
+      "word": "华晨宇欧豪包场看不见的顶峰",
+      "onboard_time": 1698463892,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 195457,
@@ -14011,14 +14067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162289,
-      "num": 162289,
-      "word": "华晨宇欧豪包场看不见的顶峰",
-      "onboard_time": 1698463892,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -15139,6 +15187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143854,
+      "num": 143854,
+      "word": "河边的错误预测票房超3亿",
+      "onboard_time": 1698466355,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143805,
       "num": 143805,
       "word": "赵继伟受伤下场",
@@ -15395,6 +15451,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 140152,
+      "num": 140152,
+      "word": "周柏豪演唱会抢票",
+      "onboard_time": 1698465393,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139973,
       "num": 139973,
       "word": "电影欢迎来到我身边杀青",
@@ -15465,6 +15529,14 @@
       "onboard_time": 1697986357,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139344,
+      "num": 139344,
+      "word": "姐姐为留学妹妹定制书法版行李箱",
+      "onboard_time": 1698466054,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139320,
@@ -16051,6 +16123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 130611,
+      "num": 130611,
+      "word": "胡先煦好美的精神状态",
+      "onboard_time": 1698465811,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130407,
       "num": 130407,
       "word": "哭起来也很可爱的Sana酱",
@@ -16547,6 +16627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122481,
+      "num": 122481,
+      "word": "上海最贵潮汕菜",
+      "onboard_time": 1698465753,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122250,
       "num": 122250,
       "word": "田曦薇王星越合作过",
@@ -16649,6 +16737,14 @@
       "onboard_time": 1698028533,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 119438,
+      "num": 119438,
+      "word": "马龙玩的巨开心 奥恰看的巨感叹",
+      "onboard_time": 1698464135,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119346,
