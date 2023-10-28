@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698524187168,
+  "endTime": 1698525245370,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -79289,6 +79289,14 @@
       "onboard_time": 1697919913,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16343,
+      "num": 20594,
+      "word": "猫都知道自己叫咪咪",
+      "onboard_time": 1698524414,
+      "rank": 44,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 16254,
