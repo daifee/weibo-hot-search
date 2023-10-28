@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698531316105,
+  "endTime": 1698532444560,
   "band_list": [
     {
       "raw_hot": 2203373,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106190,
+      "num": 44917,
+      "word": "1晚少了11只螃蟹蟹农怒而报警",
+      "onboard_time": 1698525615,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104378,
       "num": 104378,
       "word": "李克强同志讣告",
@@ -459,20 +467,20 @@
       "category": "游戏,演出"
     },
     {
-      "raw_hot": 85507,
-      "num": 32287,
-      "word": "1晚少了11只螃蟹蟹农怒而报警",
-      "onboard_time": 1698525615,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
       "onboard_time": 1698498157,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75416,
+      "num": 54875,
+      "word": "男朋友给我做了个电子衣橱",
+      "onboard_time": 1698529814,
+      "rank": 22,
+      "category": "时尚,情感"
     },
     {
       "raw_hot": 55764,
@@ -507,28 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31850,
-      "num": 31850,
-      "word": "男朋友给我做了个电子衣橱",
-      "onboard_time": 1698529814,
-      "rank": 22,
-      "category": "时尚,情感"
-    },
-    {
-      "raw_hot": 23382,
-      "num": 23382,
+      "raw_hot": 26583,
+      "num": 26583,
       "word": "猫都知道自己叫咪咪",
       "onboard_time": 1698524414,
       "rank": 44,
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 19491,
-      "num": 19491,
+      "raw_hot": 26184,
+      "num": 26184,
       "word": "小狗能正的骨 咱车也能正",
       "onboard_time": 1698527654,
       "rank": 49,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 18284,
+      "num": 22755,
+      "word": "女教师持续31年在乡村播种航天梦",
+      "onboard_time": 1698532338,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14577,
