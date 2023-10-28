@@ -1,6 +1,6 @@
 {
   "startTime": 1698423696558,
-  "endTime": 1698500041562,
+  "endTime": 1698502432356,
   "band_list": [
     {
       "raw_hot": 3634337,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 1547308,
-      "num": 279609,
+      "num": 285015,
       "word": "杨幂生图",
       "onboard_time": 1698492995,
       "rank": 10,
       "category": "电竞,演出"
+    },
+    {
+      "raw_hot": 1511046,
+      "num": 285667,
+      "word": "李善均全慧珍紧急送小儿子出国",
+      "onboard_time": 1698497555,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1510236,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1385558,
+      "num": 284248,
+      "word": "王源 公主请喝水",
+      "onboard_time": 1698501337,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1374063,
       "num": 1374063,
       "word": "亲历者称过山车事故推测弹射装置气压不足",
@@ -209,14 +225,6 @@
       "onboard_time": 1698452672,
       "rank": 12,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1352407,
-      "num": 279125,
-      "word": "李善均全慧珍紧急送小儿子出国",
-      "onboard_time": 1698497555,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1309047,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 780062,
-      "num": 279026,
+      "num": 279230,
       "word": "穿匡威爬山的爱豆",
       "onboard_time": 1698495096,
       "rank": 17,
@@ -467,11 +475,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 719021,
+      "num": 281881,
+      "word": "虞书欣甲片都跳掉了",
+      "onboard_time": 1698501034,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 715607,
       "num": 440841,
       "word": "亲历者讲述欢乐谷过山车追尾事故",
       "onboard_time": 1698449245,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707886,
+      "num": 707886,
+      "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
+      "onboard_time": 1698501216,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 658036,
-      "num": 278703,
+      "num": 280185,
       "word": "王嘉尔在温州参加婚礼",
       "onboard_time": 1698496355,
       "rank": 25,
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382544,
+      "num": 277464,
+      "word": "睡前多和孩子聊聊这些废话",
+      "onboard_time": 1698497496,
+      "rank": 28,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 382384,
       "num": 295184,
       "word": "谁给张雪峰创造了生存空间",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1698488495,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333645,
-      "num": 276818,
-      "word": "睡前多和孩子聊聊这些废话",
-      "onboard_time": 1698497496,
-      "rank": 28,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 332915,
@@ -1323,6 +1347,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272055,
+      "num": 272055,
+      "word": "陈法蓉 短发女神",
+      "onboard_time": 1698501216,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271321,
+      "num": 271321,
+      "word": "车毁仁亡",
+      "onboard_time": 1698502117,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268010,
       "num": 268010,
       "word": "THE9演唱会",
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 264912,
-      "num": 239698,
+      "num": 242207,
       "word": "苹果手机怎么不香了",
       "onboard_time": 1698498397,
       "rank": 33,
@@ -1771,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196551,
+      "num": 196551,
+      "word": "9岁女孩捡到4岁萌娃手拉手找警察",
+      "onboard_time": 1698501756,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196297,
       "num": 196297,
       "word": "刘雨昕银发大屏",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1698495396,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195604,
+      "num": 195604,
+      "word": "拜仁vs达姆施塔特",
+      "onboard_time": 1698501398,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 195539,
@@ -1939,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184593,
+      "num": 184593,
+      "word": "西游记白骨精仿妆",
+      "onboard_time": 1698500616,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "汤普森会离开勇士吗",
@@ -1971,12 +2035,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 181231,
+      "num": 181231,
+      "word": "华浅仲溪午还没开始就结束了",
+      "onboard_time": 1698500316,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179440,
+      "num": 179440,
+      "word": "小猫咪被吓到撤回两只耳朵",
+      "onboard_time": 1698500556,
+      "rank": 42,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 177985,
       "num": 177985,
       "word": "河边的错误",
       "onboard_time": 1698485253,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177438,
+      "num": 177438,
+      "word": "花50元把河南碳水全点一遍",
+      "onboard_time": 1698501998,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 176133,
@@ -2131,6 +2219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166144,
+      "num": 166144,
+      "word": "gemini指QG徽章",
+      "onboard_time": 1698502296,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165936,
       "num": 165936,
       "word": "大梦归离",
@@ -2201,6 +2297,14 @@
       "onboard_time": 1698488853,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 157146,
+      "num": 157146,
+      "word": "诺伊尔复出",
+      "onboard_time": 1698502117,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 156205,
