@@ -1,0 +1,410 @@
+{
+  "runTime": 1698575656189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406479,
+        "num": 1406479,
+        "word": "女生去温州同学家发现厕所藏衣柜里",
+        "onboard_time": 1698571655,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516640,
+        "num": 980481,
+        "word": "杭州一中学午餐上了1000只团脐大闸蟹",
+        "onboard_time": 1698567689,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71132,
+        "num": 802391,
+        "word": "这个秋天谢谢你们带来的感动",
+        "onboard_time": 1698568773,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790588,
+        "num": 790588,
+        "word": "塔斯汀被曝吃出生鸡肉",
+        "onboard_time": 1698562290,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227899,
+        "num": 597830,
+        "word": "小区没物业67岁阿姨管得井井有条",
+        "onboard_time": 1698563069,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557901,
+        "num": 557901,
+        "word": "G2对战BLG",
+        "onboard_time": 1698573151,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 550521,
+        "num": 550521,
+        "word": "月亮",
+        "onboard_time": 1698573570,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 393607,
+        "num": 393607,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103696,
+        "num": 392611,
+        "word": "萌娃收到消防员的敬礼有多满足",
+        "onboard_time": 1698575072,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391858,
+        "num": 391858,
+        "word": "你支持禁止老头乐吗",
+        "onboard_time": 1698552931,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253968,
+        "num": 389085,
+        "word": "警方称权志龙被确认的证据不具体",
+        "onboard_time": 1698573329,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163407,
+        "num": 384892,
+        "word": "陶昕然 请问旁边的是宝鹃吗",
+        "onboard_time": 1698569729,
+        "rank": 11,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 1079346,
+        "num": 374024,
+        "word": "何炅标注了花少每个人的名字",
+        "onboard_time": 1698573932,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809314,
+        "num": 366701,
+        "word": "给安陵容打伞的是晴川",
+        "onboard_time": 1698573271,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365756,
+        "num": 365756,
+        "word": "大胖媳妇拒绝陪丈母娘住院",
+        "onboard_time": 1698559769,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564376,
+        "num": 361487,
+        "word": "25岁女孩为自己办葬礼请朋友吃席",
+        "onboard_time": 1698574412,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456612,
+        "num": 355908,
+        "word": "少年的你哪儿去了豆瓣开分9.9",
+        "onboard_time": 1698568058,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317798,
+        "num": 317798,
+        "word": "秦海璐 每次旅游经费都有剩余",
+        "onboard_time": 1698569969,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259798,
+        "num": 259798,
+        "word": "DK",
+        "onboard_time": 1698571052,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221396,
+        "num": 221396,
+        "word": "广东男子骑共享单车遭突然锁死",
+        "onboard_time": 1698573932,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661507,
+        "num": 219066,
+        "word": "30岁小伙婚前查出癌症切睾丸求生",
+        "onboard_time": 1698572612,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650025,
+        "num": 218097,
+        "word": "魏晨 分身情人",
+        "onboard_time": 1698572850,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214587,
+        "num": 214587,
+        "word": "秦岚但凡少说两句嗓子早好了",
+        "onboard_time": 1698571593,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213994,
+        "num": 213994,
+        "word": "海港泰山冲突",
+        "onboard_time": 1698569852,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201023,
+        "num": 201023,
+        "word": "胡彦斌终于拿第一了",
+        "onboard_time": 1698564752,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199013,
+        "num": 199013,
+        "word": "周杰伦 止战之殇",
+        "onboard_time": 1698573151,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195418,
+        "num": 195418,
+        "word": "陈哲远直播吃烤全羊",
+        "onboard_time": 1698571290,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190321,
+        "num": 190321,
+        "word": "花花肚子上的苹果堆成小山",
+        "onboard_time": 1698566672,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187451,
+        "num": 187451,
+        "word": "WBG晋级八强",
+        "onboard_time": 1698569131,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185377,
+        "num": 185377,
+        "word": "十个勤天",
+        "onboard_time": 1698574412,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178723,
+        "num": 178723,
+        "word": "21名高中生把教室画成千里江山图",
+        "onboard_time": 1698571831,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174095,
+        "num": 174095,
+        "word": "24岁小伙闻臭袜子闻出肺部感染",
+        "onboard_time": 1698562890,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170359,
+        "num": 170359,
+        "word": "黄子弘凡 音乐节",
+        "onboard_time": 1698571770,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 169586,
+        "word": "迪丽热巴辛芷蕾第一次见秦岚",
+        "onboard_time": 1698563069,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163709,
+        "num": 163709,
+        "word": "TheShy十倍输出",
+        "onboard_time": 1698567874,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162691,
+        "num": 162691,
+        "word": "武磊哭了",
+        "onboard_time": 1698575372,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157698,
+        "num": 157698,
+        "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
+        "onboard_time": 1698558632,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157506,
+        "num": 157506,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150993,
+        "num": 150993,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137894,
+        "num": 137894,
+        "word": "莲花楼为欢瑞带来超2.264亿收入",
+        "onboard_time": 1698561330,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134349,
+        "num": 134349,
+        "word": "当kpop人参加北伐",
+        "onboard_time": 1698573870,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124310,
+        "num": 124310,
+        "word": "没有一个孩子会无缘无故就抑郁了",
+        "onboard_time": 1698558211,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110659,
+        "num": 110659,
+        "word": "老友记官方账号发文悼念钱德勒扮演者",
+        "onboard_time": 1698567630,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105588,
+        "num": 105588,
+        "word": "上海海港1比1山东泰山",
+        "onboard_time": 1698572429,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104373,
+        "num": 104373,
+        "word": "被动物世界中的挣扎感打动了",
+        "onboard_time": 1698574531,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103599,
+        "num": 103599,
+        "word": "青岛海牛2比2大连人",
+        "onboard_time": 1698575015,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99860,
+        "num": 99860,
+        "word": "北京国安2比3成都蓉城",
+        "onboard_time": 1698572790,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96389,
+        "num": 96389,
+        "word": "上海海港夺得中超冠军",
+        "onboard_time": 1698573030,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90237,
+        "num": 90237,
+        "word": "消防员归队途中暖心救助受伤小狗",
+        "onboard_time": 1698575557,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87243,
+        "num": 87243,
+        "word": "39岁老将目标是第6次征战残奥会",
+        "onboard_time": 1698573151,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

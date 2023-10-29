@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698574614303,
+  "endTime": 1698575656189,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1946128,
-      "num": 384035,
+      "num": 384892,
       "word": "陶昕然 请问旁边的是宝鹃吗",
       "onboard_time": 1698569729,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1406479,
+      "num": 1406479,
+      "word": "女生去温州同学家发现厕所藏衣柜里",
+      "onboard_time": 1698571655,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1371291,
       "num": 1371291,
       "word": "如何才能睡出一个好看的头型",
@@ -97,6 +105,14 @@
       "onboard_time": 1698507634,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1253968,
+      "num": 389085,
+      "word": "警方称权志龙被确认的证据不具体",
+      "onboard_time": 1698573329,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1225735,
@@ -123,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034098,
-      "num": 1034098,
-      "word": "女生去温州同学家发现厕所藏衣柜里",
-      "onboard_time": 1698571655,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 1079346,
+      "num": 374024,
+      "word": "何炅标注了花少每个人的名字",
+      "onboard_time": 1698573932,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1008529,
@@ -195,14 +211,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 880166,
-      "num": 376075,
-      "word": "警方称权志龙被确认的证据不具体",
-      "onboard_time": 1698573329,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 860384,
       "num": 379530,
       "word": "李湘王岳伦发出尖锐爆鸣",
@@ -217,6 +225,14 @@
       "onboard_time": 1698546152,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 809314,
+      "num": 366701,
+      "word": "给安陵容打伞的是晴川",
+      "onboard_time": 1698573271,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 793626,
@@ -307,19 +323,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 661507,
+      "num": 261364,
+      "word": "30岁小伙婚前查出癌症切睾丸求生",
+      "onboard_time": 1698572612,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661075,
       "num": 661075,
       "word": "花花肚子上的苹果堆成小山",
       "onboard_time": 1698566672,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658571,
-      "num": 261364,
-      "word": "30岁小伙婚前查出癌症切睾丸求生",
-      "onboard_time": 1698572612,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -467,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564376,
+      "num": 361487,
+      "word": "25岁女孩为自己办葬礼请朋友吃席",
+      "onboard_time": 1698574412,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559039,
       "num": 559039,
       "word": "一根头发居然能吊起14页PPT",
       "onboard_time": 1698535281,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557901,
+      "num": 557901,
+      "word": "G2对战BLG",
+      "onboard_time": 1698573151,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 556515,
@@ -489,6 +521,14 @@
       "onboard_time": 1698544771,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 550521,
+      "num": 550521,
+      "word": "月亮",
+      "onboard_time": 1698573570,
+      "rank": 17,
+      "category": "自然"
     },
     {
       "raw_hot": 547745,
@@ -521,14 +561,6 @@
       "onboard_time": 1698505537,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521084,
-      "num": 338989,
-      "word": "给安陵容打伞的是晴川",
-      "onboard_time": 1698573271,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 502659,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 463595,
-      "num": 582758,
+      "num": 597830,
       "word": "小区没物业67岁阿姨管得井井有条",
       "onboard_time": 1698563069,
       "rank": 31,
@@ -624,14 +656,6 @@
       "word": "秦海璐 每次旅游经费都有剩余",
       "onboard_time": 1698569969,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 434582,
-      "num": 321829,
-      "word": "何炅标注了花少每个人的名字",
-      "onboard_time": 1698573932,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -697,14 +721,6 @@
       "onboard_time": 1698552693,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398716,
-      "num": 398716,
-      "word": "G2对战BLG",
-      "onboard_time": 1698573151,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 384885,
@@ -817,14 +833,6 @@
       "onboard_time": 1698562412,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 315474,
-      "num": 315474,
-      "word": "月亮",
-      "onboard_time": 1698573570,
-      "rank": 17,
-      "category": "自然"
     },
     {
       "raw_hot": 314586,
@@ -1163,12 +1171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221396,
+      "num": 221396,
+      "word": "广东男子骑共享单车遭突然锁死",
+      "onboard_time": 1698573932,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217285,
       "num": 217285,
       "word": "黄子弘凡 音乐节",
       "onboard_time": 1698571770,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214587,
+      "num": 214587,
+      "word": "秦岚但凡少说两句嗓子早好了",
+      "onboard_time": 1698571593,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 211844,
@@ -1259,14 +1283,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 200409,
-      "num": 200409,
-      "word": "秦岚但凡少说两句嗓子早好了",
-      "onboard_time": 1698571593,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200231,
       "num": 154354,
       "word": "你觉着爽肤水是智商税吗",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1698535522,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199013,
+      "num": 199013,
+      "word": "周杰伦 止战之殇",
+      "onboard_time": 1698573151,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 198543,
@@ -1395,28 +1419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186719,
-      "num": 186719,
-      "word": "25岁女孩为自己办葬礼请朋友吃席",
-      "onboard_time": 1698574412,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186697,
       "num": 186697,
       "word": "深圳欢乐谷伤者均无生命危险",
       "onboard_time": 1698563370,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186586,
-      "num": 186586,
-      "word": "周杰伦 止战之殇",
-      "onboard_time": 1698573151,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 186367,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185377,
+      "num": 185377,
+      "word": "十个勤天",
+      "onboard_time": 1698574412,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183039,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1698537144,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162691,
+      "num": 162691,
+      "word": "武磊哭了",
+      "onboard_time": 1698575372,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 162608,
@@ -1811,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135852,
-      "num": 135852,
-      "word": "十个勤天",
-      "onboard_time": 1698574412,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135457,
       "num": 135457,
       "word": "我军特种车辆长途运输震撼画面",
@@ -1843,12 +1859,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 133345,
-      "num": 133345,
-      "word": "广东男子骑共享单车遭突然锁死",
-      "onboard_time": 1698573932,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 134349,
+      "num": 134349,
+      "word": "当kpop人参加北伐",
+      "onboard_time": 1698573870,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 133219,
@@ -2075,14 +2091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117546,
-      "num": 117546,
-      "word": "当kpop人参加北伐",
-      "onboard_time": 1698573870,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117318,
       "num": 117318,
       "word": "丑但好吃的四大名菜",
@@ -2227,6 +2235,30 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 104373,
+      "num": 104373,
+      "word": "被动物世界中的挣扎感打动了",
+      "onboard_time": 1698574531,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 103696,
+      "num": 392611,
+      "word": "萌娃收到消防员的敬礼有多满足",
+      "onboard_time": 1698575072,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103599,
+      "num": 103599,
+      "word": "青岛海牛2比2大连人",
+      "onboard_time": 1698575015,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103588,
       "num": 103588,
       "word": "高龄孕妇犯低血糖细心民警带糖出警",
@@ -2267,12 +2299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88904,
-      "num": 88904,
-      "word": "被动物世界中的挣扎感打动了",
-      "onboard_time": 1698574531,
+      "raw_hot": 90237,
+      "num": 90237,
+      "word": "消防员归队途中暖心救助受伤小狗",
+      "onboard_time": 1698575557,
       "rank": 48,
-      "category": "音乐"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87115,
