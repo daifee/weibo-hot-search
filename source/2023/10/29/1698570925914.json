@@ -1,0 +1,410 @@
+{
+  "runTime": 1698570925914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1405848,
+        "num": 1405848,
+        "word": "塔斯汀被曝吃出生鸡肉",
+        "onboard_time": 1698562290,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883119,
+        "num": 883119,
+        "word": "大胖媳妇拒绝陪丈母娘住院",
+        "onboard_time": 1698559769,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80961,
+        "num": 743043,
+        "word": "这个秋天谢谢你们带来的感动",
+        "onboard_time": 1698568773,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730586,
+        "num": 730586,
+        "word": "WBG晋级八强",
+        "onboard_time": 1698569131,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 661075,
+        "num": 661075,
+        "word": "花花肚子上的苹果堆成小山",
+        "onboard_time": 1698566672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548936,
+        "num": 548936,
+        "word": "你支持禁止老头乐吗",
+        "onboard_time": 1698552931,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516247,
+        "num": 516247,
+        "word": "杭州一中学午餐上了1000只团脐大闸蟹",
+        "onboard_time": 1698567689,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438749,
+        "num": 438749,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389072,
+        "num": 389072,
+        "word": "TheShy十倍输出",
+        "onboard_time": 1698567874,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300105,
+        "num": 300105,
+        "word": "小区没物业67岁阿姨管得井井有条",
+        "onboard_time": 1698563069,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666920,
+        "num": 297416,
+        "word": "陶昕然 请问旁边的是宝鹃吗",
+        "onboard_time": 1698569729,
+        "rank": 10,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 553904,
+        "num": 295555,
+        "word": "胡彦斌终于拿第一了",
+        "onboard_time": 1698564752,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451666,
+        "num": 289600,
+        "word": "少年的你哪儿去了豆瓣开分9.9",
+        "onboard_time": 1698568058,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384885,
+        "num": 286467,
+        "word": "WBG战胜FNC",
+        "onboard_time": 1698569192,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 285773,
+        "num": 285773,
+        "word": "秦海璐 每次旅游经费都有剩余",
+        "onboard_time": 1698569969,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257162,
+        "num": 257162,
+        "word": "老友记官方账号发文悼念钱德勒扮演者",
+        "onboard_time": 1698567630,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345621,
+        "num": 253973,
+        "word": "TheShy太想赢了",
+        "onboard_time": 1698566730,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284777,
+        "num": 243959,
+        "word": "迪丽热巴辛芷蕾第一次见秦岚",
+        "onboard_time": 1698563069,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225653,
+        "num": 225653,
+        "word": "FNC对战WBG",
+        "onboard_time": 1698560490,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223200,
+        "num": 223200,
+        "word": "莲花楼为欢瑞带来超2.264亿收入",
+        "onboard_time": 1698561330,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325943,
+        "num": 221895,
+        "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
+        "onboard_time": 1698558632,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279337,
+        "num": 219895,
+        "word": "24岁小伙闻臭袜子闻出肺部感染",
+        "onboard_time": 1698562890,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224308,
+        "num": 217785,
+        "word": "秦岚 电音朵拉",
+        "onboard_time": 1698569551,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214553,
+        "num": 214553,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205926,
+        "num": 205926,
+        "word": "英雄联盟",
+        "onboard_time": 1698570509,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202876,
+        "num": 202876,
+        "word": "WBG 蓝方ban霞",
+        "onboard_time": 1698563489,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201314,
+        "num": 201314,
+        "word": "海港泰山冲突",
+        "onboard_time": 1698569852,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201014,
+        "num": 201014,
+        "word": "没有一个孩子会无缘无故就抑郁了",
+        "onboard_time": 1698558211,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193067,
+        "num": 193067,
+        "word": "WBG生死战",
+        "onboard_time": 1698563192,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186367,
+        "num": 186367,
+        "word": "白骨精仿妆",
+        "onboard_time": 1698568532,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183039,
+        "num": 183039,
+        "word": "中超 红牌大战",
+        "onboard_time": 1698570212,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178396,
+        "num": 178396,
+        "word": "何泓姗终于演大女主了",
+        "onboard_time": 1698544711,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166320,
+        "num": 166320,
+        "word": "郑钦文VS玛雅",
+        "onboard_time": 1698570689,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162830,
+        "num": 162830,
+        "word": "谁能想到这是头发而不是蕾丝",
+        "onboard_time": 1698542372,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153266,
+        "num": 153266,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698562472,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140053,
+        "num": 140053,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 135207,
+        "num": 135207,
+        "word": "男子参加婚礼随礼600元彩票",
+        "onboard_time": 1698561569,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131766,
+        "num": 131766,
+        "word": "男子不顾伤情勇救落水女童",
+        "onboard_time": 1698570568,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130704,
+        "num": 130704,
+        "word": "丞磊回应有人夫感",
+        "onboard_time": 1698568172,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128067,
+        "num": 128067,
+        "word": "THE9演唱会微指",
+        "onboard_time": 1698562890,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127347,
+        "num": 127347,
+        "word": "厦门居然有不少人住在湖里",
+        "onboard_time": 1698560251,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 122220,
+        "num": 122220,
+        "word": "夺冠后他单手把国旗叠得整整齐齐",
+        "onboard_time": 1698568892,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 121254,
+        "num": 121254,
+        "word": "保安大叔牵萌娃上楼梯同步率满分",
+        "onboard_time": 1698570390,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 120125,
+        "word": "老友记里钱莫的爱情",
+        "onboard_time": 1698569254,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117769,
+        "num": 117769,
+        "word": "周冬雨同款扎发",
+        "onboard_time": 1698553471,
+        "rank": 44,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 87673,
+        "num": 116836,
+        "word": "苹果官旗以旧换新最高补1200元",
+        "onboard_time": 1698567333,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116794,
+        "num": 116794,
+        "word": "张小斐这段质问戏的爆发力",
+        "onboard_time": 1698567452,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115952,
+        "num": 115952,
+        "word": "男子砍人未被罚数月后驾车撞死母子2人",
+        "onboard_time": 1698541533,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115717,
+        "num": 115717,
+        "word": "9岁男孩双手捧水喂寺庙流浪猫",
+        "onboard_time": 1698567808,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114724,
+        "num": 114724,
+        "word": "鸿星尔克支棱起来了",
+        "onboard_time": 1698566551,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

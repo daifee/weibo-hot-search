@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698568458300,
+  "endTime": 1698570925914,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -49,6 +49,14 @@
       "onboard_time": 1698562290,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1666920,
+      "num": 297416,
+      "word": "陶昕然 请问旁边的是宝鹃吗",
+      "onboard_time": 1698569729,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 1605000,
@@ -227,6 +235,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 730586,
+      "num": 730586,
+      "word": "WBG晋级八强",
+      "onboard_time": 1698569131,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 728651,
       "num": 728651,
       "word": "TheShy太想赢了",
@@ -265,6 +281,14 @@
       "onboard_time": 1698492995,
       "rank": 12,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 661075,
+      "num": 661075,
+      "word": "花花肚子上的苹果堆成小山",
+      "onboard_time": 1698566672,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638131,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516247,
+      "num": 516247,
+      "word": "杭州一中学午餐上了1000只团脐大闸蟹",
+      "onboard_time": 1698567689,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502659,
       "num": 502659,
       "word": "练八段锦不能不知道的小细节",
@@ -515,12 +547,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 453097,
-      "num": 453097,
-      "word": "花花肚子上的苹果堆成小山",
-      "onboard_time": 1698566672,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 451666,
+      "num": 289600,
+      "word": "少年的你哪儿去了豆瓣开分9.9",
+      "onboard_time": 1698568058,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 450095,
@@ -601,6 +633,14 @@
       "onboard_time": 1698552693,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384885,
+      "num": 286467,
+      "word": "WBG战胜FNC",
+      "onboard_time": 1698569192,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 376583,
@@ -771,12 +811,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 284586,
-      "num": 284586,
-      "word": "杭州一中学午餐上了1000只团脐大闸蟹",
-      "onboard_time": 1698567689,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 285773,
+      "num": 285773,
+      "word": "秦海璐 每次旅游经费都有剩余",
+      "onboard_time": 1698569969,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 284086,
@@ -857,6 +897,14 @@
       "onboard_time": 1698510631,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257162,
+      "num": 257162,
+      "word": "老友记官方账号发文悼念钱德勒扮演者",
+      "onboard_time": 1698567630,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256184,
@@ -1003,20 +1051,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224308,
+      "num": 217785,
+      "word": "秦岚 电音朵拉",
+      "onboard_time": 1698569551,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223257,
       "num": 223257,
       "word": "王安宇高敏感人格吧",
       "onboard_time": 1698561270,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218732,
-      "num": 218732,
-      "word": "老友记官方账号发文悼念钱德勒扮演者",
-      "onboard_time": 1698567630,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211844,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1698547470,
       "rank": 25,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 205926,
+      "num": 205926,
+      "word": "英雄联盟",
+      "onboard_time": 1698570509,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 205716,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1698552931,
       "rank": 41,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 201314,
+      "num": 201314,
+      "word": "海港泰山冲突",
+      "onboard_time": 1698569852,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 200231,
@@ -1227,12 +1291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186367,
+      "num": 186367,
+      "word": "白骨精仿妆",
+      "onboard_time": 1698568532,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 186303,
       "num": 186303,
       "word": "LGD猛犸",
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 183039,
+      "num": 183039,
+      "word": "中超 红牌大战",
+      "onboard_time": 1698570212,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 181819,
@@ -1289,14 +1369,6 @@
       "onboard_time": 1698545433,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 178210,
-      "num": 178210,
-      "word": "少年的你哪儿去了豆瓣开分9.9",
-      "onboard_time": 1698568058,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 177747,
@@ -1361,6 +1433,14 @@
       "onboard_time": 1698560610,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166320,
+      "num": 166320,
+      "word": "郑钦文VS玛雅",
+      "onboard_time": 1698570689,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 164547,
@@ -1635,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131766,
+      "num": 131766,
+      "word": "男子不顾伤情勇救落水女童",
+      "onboard_time": 1698570568,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "我的朋友入围第24届圣地亚哥亚洲电影节",
@@ -1723,6 +1811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122220,
+      "num": 122220,
+      "word": "夺冠后他单手把国旗叠得整整齐齐",
+      "onboard_time": 1698568892,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 122173,
       "num": 1002237,
       "word": "烈士陵园种红星杨是中国式浪漫",
@@ -1739,12 +1835,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121254,
+      "num": 121254,
+      "word": "保安大叔牵萌娃上楼梯同步率满分",
+      "onboard_time": 1698570390,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120600,
       "num": 120600,
       "word": "小众且不被理解的爱好",
       "onboard_time": 1698562111,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "老友记里钱莫的爱情",
+      "onboard_time": 1698569254,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 119342,
@@ -1795,6 +1907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116794,
+      "num": 116794,
+      "word": "张小斐这段质问戏的爆发力",
+      "onboard_time": 1698567452,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116258,
       "num": 116258,
       "word": "她跳进水塘阻止青年在扬子鳄保护区电鱼",
@@ -1827,6 +1947,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 114724,
+      "num": 450007,
+      "word": "鸿星尔克支棱起来了",
+      "onboard_time": 1698566551,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 113830,
       "num": 113830,
       "word": "好piu靓的眼妆",
@@ -1849,14 +1977,6 @@
       "onboard_time": 1698540388,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 112291,
-      "num": 112291,
-      "word": "张小斐这段质问戏的爆发力",
-      "onboard_time": 1698567452,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 111380,
@@ -1947,12 +2067,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81262,
-      "num": 450007,
-      "word": "鸿星尔克支棱起来了",
-      "onboard_time": 1698566551,
-      "rank": 14,
-      "category": "运动健身"
+      "raw_hot": 80961,
+      "num": 743043,
+      "word": "这个秋天谢谢你们带来的感动",
+      "onboard_time": 1698568773,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73347,
@@ -2119,6 +2239,9 @@
     },
     {
       "word": "#推进新时代党的民族工作高质量发展#"
+    },
+    {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
     }
   ]
 }
