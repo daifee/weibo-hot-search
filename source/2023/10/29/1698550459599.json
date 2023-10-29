@@ -1,0 +1,410 @@
+{
+  "runTime": 1698550459599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371291,
+        "num": 1371291,
+        "word": "如何才能睡出一个好看的头型",
+        "onboard_time": 1698545134,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 880664,
+        "num": 880664,
+        "word": "协和医生说喷雾爽肤水不补水",
+        "onboard_time": 1698536545,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118266,
+        "num": 751760,
+        "word": "烈士陵园种红星杨是中国式浪漫",
+        "onboard_time": 1698548729,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742603,
+        "num": 742603,
+        "word": "谁能想到这是头发而不是蕾丝",
+        "onboard_time": 1698542372,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 586456,
+        "num": 586456,
+        "word": "楼上是重点班 楼下是普通班",
+        "onboard_time": 1698542669,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1929508,
+        "num": 582952,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695503,
+        "num": 582127,
+        "word": "以大使称以色列目前不打算退出联合国",
+        "onboard_time": 1698548191,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 579192,
+        "num": 579192,
+        "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
+        "onboard_time": 1698544892,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371453,
+        "num": 371453,
+        "word": "彭斯宣布退出2024总统竞选",
+        "onboard_time": 1698543931,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 356768,
+        "num": 356768,
+        "word": "女子为减肥连吃3月胡萝卜变小橘人",
+        "onboard_time": 1698534079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878937,
+        "num": 350923,
+        "word": "何泓姗终于演大女主了",
+        "onboard_time": 1698544711,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725882,
+        "num": 345940,
+        "word": "老友记六人组不完整了",
+        "onboard_time": 1698546152,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452258,
+        "num": 341123,
+        "word": "陆虎快男时期看张杰非常不顺眼",
+        "onboard_time": 1698545433,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381951,
+        "num": 335631,
+        "word": "辛芷蕾人设逐渐不在了",
+        "onboard_time": 1698534558,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329322,
+        "num": 329322,
+        "word": "巴以冲突已超9200人死亡",
+        "onboard_time": 1698544232,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 298974,
+        "num": 298974,
+        "word": "檀健次被沈腾踩脚的反应",
+        "onboard_time": 1698548553,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294078,
+        "num": 294078,
+        "word": "THE9 dumb dumb bomb",
+        "onboard_time": 1698546092,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266657,
+        "num": 266657,
+        "word": "权志龙没有被立案",
+        "onboard_time": 1698538827,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250949,
+        "num": 250949,
+        "word": "以色列声称联合国不具有合法性",
+        "onboard_time": 1698535823,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 247756,
+        "num": 247756,
+        "word": "杨幂四分钟直拍",
+        "onboard_time": 1698548431,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 995357,
+        "num": 243152,
+        "word": "男子砍人未被罚数月后驾车撞死母子2人",
+        "onboard_time": 1698541533,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524799,
+        "num": 241225,
+        "word": "阳光玫瑰从300元暴跌到10元",
+        "onboard_time": 1698547952,
+        "rank": 21,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 230159,
+        "num": 230159,
+        "word": "张杰没看完邓紫棋MV被抓包",
+        "onboard_time": 1698547771,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226014,
+        "num": 226014,
+        "word": "老友记",
+        "onboard_time": 1698540508,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197302,
+        "num": 197302,
+        "word": "王鹤棣大奉打更人剧组合照",
+        "onboard_time": 1698547832,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195479,
+        "num": 195479,
+        "word": "伯恩山犬的脚为什么这么大啊",
+        "onboard_time": 1698547470,
+        "rank": 25,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 183012,
+        "num": 183012,
+        "word": "网友拍到和谐号和复兴号飙车",
+        "onboard_time": 1698545732,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182799,
+        "num": 182799,
+        "word": "洪知秀 i think so maybe",
+        "onboard_time": 1698537926,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179642,
+        "num": 179642,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 178964,
+        "num": 178964,
+        "word": "加沙地带经历迄今为止最严重轰炸",
+        "onboard_time": 1698544771,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 168518,
+        "num": 168518,
+        "word": "LGD猛犸",
+        "onboard_time": 1698548131,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164878,
+        "num": 164878,
+        "word": "内娱慕强批的天堂",
+        "onboard_time": 1698507634,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164860,
+        "num": 164860,
+        "word": "万圣节 上海",
+        "onboard_time": 1698538648,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159625,
+        "num": 159625,
+        "word": "胎儿8斤重产妇要求剖腹产被拒",
+        "onboard_time": 1698505537,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159515,
+        "num": 159515,
+        "word": "埃塞俄比亚选手北马夺冠",
+        "onboard_time": 1698548071,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156776,
+        "num": 156776,
+        "word": "陈楚生居然唱了活该",
+        "onboard_time": 1698507456,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142943,
+        "num": 142943,
+        "word": "许佳琪说很有可能是最后一次演唱会",
+        "onboard_time": 1698546033,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142598,
+        "num": 142598,
+        "word": "不要直接用黄瓜敷脸",
+        "onboard_time": 1698545433,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139721,
+        "num": 139721,
+        "word": "THE9演唱会 给十年后的自己",
+        "onboard_time": 1698540091,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137002,
+        "num": 137002,
+        "word": "Ame订婚",
+        "onboard_time": 1698543271,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116188,
+        "num": 116188,
+        "word": "男性群体超重比例达76.5%",
+        "onboard_time": 1698539249,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114870,
+        "num": 114870,
+        "word": "WBG宵夜第一小分队合影",
+        "onboard_time": 1698546993,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112821,
+        "num": 112821,
+        "word": "祝绪丹新造型",
+        "onboard_time": 1698536846,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112105,
+        "num": 112105,
+        "word": "董国建西安马拉松夺冠",
+        "onboard_time": 1698549269,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110716,
+        "num": 110716,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109572,
+        "num": 109572,
+        "word": "一根头发居然能吊起14页PPT",
+        "onboard_time": 1698535281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107625,
+        "num": 107625,
+        "word": "1晚少了11只螃蟹蟹农怒而报警",
+        "onboard_time": 1698525615,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106490,
+        "num": 106490,
+        "word": "陈天宇北马男子组第七",
+        "onboard_time": 1698549511,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103557,
+        "num": 103557,
+        "word": "我军特种车辆长途运输震撼画面",
+        "onboard_time": 1698544293,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 98893,
+        "num": 98893,
+        "word": "马拉松",
+        "onboard_time": 1698550411,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}
