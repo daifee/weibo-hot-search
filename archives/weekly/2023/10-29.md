@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/10/30 06:34:01
+本榜单时间：2023/10/29 00:19:54 ~ 2023/10/30 07:16:19
 </p>
 </blockquote>
 <p>
@@ -711,6 +711,12 @@ TheShy十倍输出（热度：450095）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97%23" target="weibo">
+现在日本中小学生这么卷了吗（热度：425692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%BF%E5%AD%90%E6%8B%BF%E9%93%81%23" target="weibo">
 柿子拿铁（热度：424809）
 </a>
@@ -737,6 +743,12 @@ TheShy十倍输出（热度：450095）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%BF%B5%E7%B2%89%E4%B8%9D%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%95%99%E8%A8%80%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 丞磊念粉丝大尺度留言的反应（热度：418562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E5%AD%A3%E8%8A%B1%E5%B0%91%E7%9B%B8%E5%A4%84%E8%BF%99%E4%B9%88%E8%9E%8D%E6%B4%BD%E4%BA%86%23" target="weibo">
+知道为什么这季花少相处这么融洽了（热度：415255）
 </a>
 </li>
 
@@ -1167,6 +1179,12 @@ THE9演唱会微指（热度：243742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB3%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%9B%A0%E4%B8%88%E5%A4%AB%E7%B2%BE%E5%AD%90%E9%80%86%E8%A1%8C%E8%BF%9B%E8%86%80%E8%83%B1%23" target="weibo">
+夫妻3年不孕因丈夫精子逆行进膀胱（热度：241207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%91%E7%90%BC%E4%B8%B9%E5%90%A6%E8%AE%A4%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E6%98%AF%E8%87%AA%E9%99%8D%E8%BA%AB%E4%BB%B7%23" target="weibo">
 苑琼丹否认直播带货是自降身价（热度：240904）
 </a>
@@ -1449,12 +1467,6 @@ Deft告别S13（热度：204866）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97%23" target="weibo">
-现在日本中小学生这么卷了吗（热度：200689）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E7%9D%80%E7%88%BD%E8%82%A4%E6%B0%B4%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97%23" target="weibo">
 你觉着爽肤水是智商税吗（热度：200231）
 </a>
@@ -1523,12 +1535,6 @@ EDG击败TE夺冠（热度：198909）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23" target="weibo">
 张云雷演唱会哭了（热度：196101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E5%AD%A3%E8%8A%B1%E5%B0%91%E7%9B%B8%E5%A4%84%E8%BF%99%E4%B9%88%E8%9E%8D%E6%B4%BD%E4%BA%86%23" target="weibo">
-知道为什么这季花少相处这么融洽了（热度：195798）
 </a>
 </li>
 
@@ -1739,6 +1745,12 @@ gemini采访五月天（热度：179580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E6%8B%94%E6%B2%B3%E5%BC%8F%E6%8B%89%E5%9B%9E%E8%A2%AB%E5%9B%B0%E8%BD%BF%E8%BD%A6%23" target="weibo">
 村民拔河式拉回被困轿车（热度：171734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23" target="weibo">
+商店店员被曝当街用开水烫杀狗（热度：171494）
 </a>
 </li>
 
@@ -1985,12 +1997,6 @@ WTT（热度：146071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E7%9C%BC%E7%9A%AE%E5%A5%B3%E7%94%9F%E5%8C%96%E5%A6%86%E6%97%A5%E5%B8%B8%23" target="weibo">
 单眼皮女生化妆日常（热度：144995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23" target="weibo">
-商店店员被曝当街用开水烫杀狗（热度：144082）
 </a>
 </li>
 
@@ -2463,6 +2469,12 @@ THE9演唱会（热度：117076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E7%94%A8%E5%BA%9F%E5%BC%83%E7%AD%B7%E5%AD%90%E6%90%AD%E5%87%BA%E5%BE%AE%E7%BC%A9%E7%89%88%E9%BB%84%E9%B9%A4%E6%A5%BC%23" target="weibo">
+大叔用废弃筷子搭出微缩版黄鹤楼（热度：93649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E4%B8%B4%E7%9B%86%E9%93%81%E9%AA%91%E5%98%B6%E5%90%BC%E4%B8%BA%E7%94%9F%E5%91%BD%E5%BC%80%E9%81%93%23" target="weibo">
 孕妇临盆铁骑嘶吼为生命开道（热度：92691）
 </a>
@@ -2511,8 +2523,20 @@ THE9演唱会（热度：117076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%AF%95%E5%9B%BE%E6%8C%91%E6%88%98%E6%9F%9A%E5%AD%90%E7%9A%AE%E6%8D%A2%E9%AB%98%E9%A2%85%E9%A1%B6%23" target="weibo">
+李兰迪试图挑战柚子皮换高颅顶（热度：65813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%B2%99%E6%BB%A9%E7%8E%A9%E8%80%8D%23" target="weibo">
 林心如霍建华带女儿沙滩玩耍（热度：65199）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%88%86%E6%9E%90%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%E5%8E%9F%E5%9B%A0%23" target="weibo">
+律师分析权志龙否认吸毒原因（热度：57125）
 </a>
 </li>
 
@@ -2537,6 +2561,12 @@ THE9演唱会（热度：117076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E6%AE%B5%E6%84%9F%E6%83%85%E8%BF%98%E8%A6%81%E4%B8%8D%E8%A6%81%E7%BB%A7%E7%BB%AD%23" target="weibo">
 如何判断一段感情还要不要继续（热度：55320）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%96%B0%E4%B8%93%E5%88%9D%E5%8A%A8%E9%94%80%E9%87%8F%E7%AA%81%E7%A0%B4500%E4%B8%87%E5%BC%A0%23" target="weibo">
+SEVENTEEN新专初动销量突破500万张（热度：53483）
 </a>
 </li>
 
@@ -2621,12 +2651,6 @@ DOTA2（热度：50427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%9A%96%E5%BF%83%E7%9B%B8%E5%8A%A9%E7%82%B9%E8%B5%9E%23" target="weibo">
 为陌生人的暖心相助点赞（热度：29916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%88%86%E6%9E%90%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%E5%8E%9F%E5%9B%A0%23" target="weibo">
-律师分析权志龙否认吸毒原因（热度：27855）
 </a>
 </li>
 

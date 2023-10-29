@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698618841106,
+  "endTime": 1698621379938,
   "band_list": [
     {
       "raw_hot": 1339169,
@@ -35,12 +35,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512172,
-      "num": 512172,
+      "raw_hot": 645680,
+      "num": 645680,
       "word": "中国驻美大使馆发紧急提醒",
       "onboard_time": 1698579333,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 425692,
+      "num": 425692,
+      "word": "现在日本中小学生这么卷了吗",
+      "onboard_time": 1698615254,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 415255,
+      "num": 164890,
+      "word": "知道为什么这季花少相处这么融洽了",
+      "onboard_time": 1698593794,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 378654,
@@ -107,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245712,
+      "num": 164627,
+      "word": "女生脚疼日本医院要手术回国查是鸡眼",
+      "onboard_time": 1698585093,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241207,
+      "num": 114229,
+      "word": "夫妻3年不孕因丈夫精子逆行进膀胱",
+      "onboard_time": 1698620964,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238446,
       "num": 165272,
       "word": "钱德勒演员死前六天还曾露面",
@@ -147,35 +179,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200689,
-      "num": 56158,
-      "word": "现在日本中小学生这么卷了吗",
-      "onboard_time": 1698615254,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 195798,
-      "num": 164890,
-      "word": "知道为什么这季花少相处这么融洽了",
-      "onboard_time": 1698593794,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192753,
-      "num": 192753,
+      "raw_hot": 193568,
+      "num": 193568,
       "word": "孙颖莎 破阵",
       "onboard_time": 1698590017,
       "rank": 8,
       "category": "体育"
     },
     {
-      "raw_hot": 181308,
-      "num": 164627,
-      "word": "女生脚疼日本医院要手术回国查是鸡眼",
-      "onboard_time": 1698585093,
-      "rank": 21,
+      "raw_hot": 171494,
+      "num": 113370,
+      "word": "商店店员被曝当街用开水烫杀狗",
+      "onboard_time": 1698602959,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158961,
+      "num": 158961,
+      "word": "被拐走21年的女儿回家了",
+      "onboard_time": 1698589057,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145506,
       "num": 145506,
       "word": "权顺荣和粉丝牵手",
@@ -225,14 +249,6 @@
       "onboard_time": 1698572850,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144082,
-      "num": 53423,
-      "word": "商店店员被曝当街用开水烫杀狗",
-      "onboard_time": 1698602959,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139674,
@@ -259,12 +275,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 128328,
+      "raw_hot": 133250,
       "num": 128328,
       "word": "警方称权志龙被确认的证据不具体",
       "onboard_time": 1698573329,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120168,
+      "num": 112710,
+      "word": "久坐再也别想累丑了",
+      "onboard_time": 1698591034,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 119581,
@@ -323,22 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102723,
-      "num": 102723,
-      "word": "久坐再也别想累丑了",
-      "onboard_time": 1698591034,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 101811,
-      "num": 101811,
-      "word": "被拐走21年的女儿回家了",
-      "onboard_time": 1698589057,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99331,
       "num": 99331,
       "word": "LPL抽签二段笑",
@@ -353,6 +361,14 @@
       "onboard_time": 1698590615,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93649,
+      "num": 93649,
+      "word": "大叔用废弃筷子搭出微缩版黄鹤楼",
+      "onboard_time": 1698621205,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90931,
@@ -427,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65813,
+      "num": 65813,
+      "word": "李兰迪试图挑战柚子皮换高颅顶",
+      "onboard_time": 1698620422,
+      "rank": 31,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 57125,
+      "num": 57125,
+      "word": "律师分析权志龙否认吸毒原因",
+      "onboard_time": 1698610094,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55866,
       "num": 34064,
       "word": "熬夜吃什么补回来",
@@ -441,6 +473,22 @@
       "onboard_time": 1698600320,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53483,
+      "num": 53483,
+      "word": "SEVENTEEN新专初动销量突破500万张",
+      "onboard_time": 1698621024,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 52379,
+      "num": 52379,
+      "word": "港媒曝苑琼丹暂时息影",
+      "onboard_time": 1698584613,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 50048,
@@ -459,32 +507,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27855,
-      "num": 27855,
-      "word": "律师分析权志龙否认吸毒原因",
-      "onboard_time": 1698610094,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26912,
-      "num": 28816,
-      "word": "港媒曝苑琼丹暂时息影",
-      "onboard_time": 1698584613,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 23338,
-      "num": 23338,
+      "raw_hot": 46509,
+      "num": 46509,
       "word": "苑琼丹否认直播带货是自降身价",
       "onboard_time": 1698586596,
       "rank": 47,
       "category": "艺人"
     },
     {
-      "raw_hot": 19629,
-      "num": 381901,
+      "raw_hot": 19820,
+      "num": 429682,
       "word": "杭州亚残运这些画面好戳泪点",
       "onboard_time": 1698586596,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698618841106,
+  "endTime": 1698621379938,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425692,
+      "num": 425692,
+      "word": "现在日本中小学生这么卷了吗",
+      "onboard_time": 1698615254,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 424809,
       "num": 424809,
       "word": "柿子拿铁",
@@ -969,6 +977,14 @@
       "onboard_time": 1698553353,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415255,
+      "num": 164890,
+      "word": "知道为什么这季花少相处这么融洽了",
+      "onboard_time": 1698593794,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 408749,
@@ -1539,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241207,
+      "num": 114229,
+      "word": "夫妻3年不孕因丈夫精子逆行进膀胱",
+      "onboard_time": 1698620964,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240904,
       "num": 211624,
       "word": "苑琼丹否认直播带货是自降身价",
@@ -1915,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200689,
-      "num": 56158,
-      "word": "现在日本中小学生这么卷了吗",
-      "onboard_time": 1698615254,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 200231,
       "num": 154354,
       "word": "你觉着爽肤水是智商税吗",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1698588095,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195798,
-      "num": 164890,
-      "word": "知道为什么这季花少相处这么融洽了",
-      "onboard_time": 1698593794,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 195507,
@@ -2305,6 +2313,14 @@
       "onboard_time": 1698555991,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 171494,
+      "num": 113370,
+      "word": "商店店员被曝当街用开水烫杀狗",
+      "onboard_time": 1698602959,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171101,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1698561209,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 144082,
-      "num": 53423,
-      "word": "商店店员被曝当街用开水烫杀狗",
-      "onboard_time": 1698602959,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143027,
@@ -3267,6 +3275,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 93649,
+      "num": 93649,
+      "word": "大叔用废弃筷子搭出微缩版黄鹤楼",
+      "onboard_time": 1698621205,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92691,
       "num": 128953,
       "word": "孕妇临盆铁骑嘶吼为生命开道",
@@ -3331,11 +3347,27 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 65813,
+      "num": 65813,
+      "word": "李兰迪试图挑战柚子皮换高颅顶",
+      "onboard_time": 1698620422,
+      "rank": 31,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 65199,
       "num": 65199,
       "word": "林心如霍建华带女儿沙滩玩耍",
       "onboard_time": 1698491854,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57125,
+      "num": 57125,
+      "word": "律师分析权志龙否认吸毒原因",
+      "onboard_time": 1698610094,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3369,6 +3401,14 @@
       "onboard_time": 1698600320,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53483,
+      "num": 53483,
+      "word": "SEVENTEEN新专初动销量突破500万张",
+      "onboard_time": 1698621024,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 51727,
@@ -3481,14 +3521,6 @@
       "onboard_time": 1698567935,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27855,
-      "num": 27855,
-      "word": "律师分析权志龙否认吸毒原因",
-      "onboard_time": 1698610094,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 26583,
