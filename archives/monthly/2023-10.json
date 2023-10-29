@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698542175687,
+  "endTime": 1698543344795,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -7113,6 +7113,14 @@
       "onboard_time": 1698224855,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1131730,
+      "num": 1131730,
+      "word": "男子砍人未被罚数月后驾车撞死母子2人",
+      "onboard_time": 1698541533,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1130964,
@@ -15891,6 +15899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 620505,
+      "num": 620505,
+      "word": "如何做不被女性避雷的广告",
+      "onboard_time": 1698540752,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 620482,
       "num": 620482,
       "word": "张艺兴太会了",
@@ -20211,6 +20227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511475,
+      "num": 383754,
+      "word": "谁能想到这是头发而不是蕾丝",
+      "onboard_time": 1698542372,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 511104,
       "num": 511104,
       "word": "胡兵曾代表中国赛艇队拿了世界第七",
@@ -20593,6 +20617,14 @@
       "onboard_time": 1698043127,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502659,
+      "num": 502659,
+      "word": "练八段锦不能不知道的小细节",
+      "onboard_time": 1698539550,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 502078,
@@ -22017,14 +22049,6 @@
       "onboard_time": 1696748794,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474977,
-      "num": 474977,
-      "word": "如何做不被女性避雷的广告",
-      "onboard_time": 1698540752,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 474885,
@@ -30731,14 +30755,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 349910,
-      "num": 349910,
-      "word": "男子砍人未被罚数月后驾车撞死母子2人",
-      "onboard_time": 1698541533,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349852,
       "num": 349852,
       "word": "烬相思开播",
@@ -31763,6 +31779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338255,
+      "num": 338255,
+      "word": "男性群体超重比例达76.5%",
+      "onboard_time": 1698539249,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338245,
       "num": 338245,
       "word": "辛爽 我们把火车从桦林开到了釜山",
@@ -32459,14 +32483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331076,
-      "num": 331076,
-      "word": "男性群体超重比例达76.5%",
-      "onboard_time": 1698539249,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 330975,
       "num": 330975,
       "word": "薛之谦 清远",
@@ -33073,14 +33089,6 @@
       "onboard_time": 1698236858,
       "rank": 32,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 324759,
-      "num": 324759,
-      "word": "练八段锦不能不知道的小细节",
-      "onboard_time": 1698539550,
-      "rank": 17,
-      "category": "运动健身"
     },
     {
       "raw_hot": 324704,
@@ -34921,6 +34929,14 @@
       "onboard_time": 1697857888,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305563,
+      "num": 184718,
+      "word": "楼上是重点班 楼下是普通班",
+      "onboard_time": 1698542669,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 305551,
@@ -40347,6 +40363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 264905,
+      "num": 264905,
+      "word": "洪知秀 i think so maybe",
+      "onboard_time": 1698537926,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264865,
       "num": 264865,
       "word": "黄明昊 哥哥们太爱我怎么办",
@@ -42105,14 +42129,6 @@
       "onboard_time": 1697277032,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254500,
-      "num": 254500,
-      "word": "洪知秀 i think so maybe",
-      "onboard_time": 1698537926,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 254491,
@@ -45875,6 +45891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232793,
+      "num": 232793,
+      "word": "THE9演唱会 给十年后的自己",
+      "onboard_time": 1698540091,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232712,
       "num": 232712,
       "word": "轿车侧翻公交司机飞奔跳上车救人",
@@ -48241,14 +48265,6 @@
       "onboard_time": 1698051056,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221119,
-      "num": 221119,
-      "word": "THE9演唱会 给十年后的自己",
-      "onboard_time": 1698540091,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 221053,
@@ -67683,6 +67699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147462,
+      "num": 147462,
+      "word": "AI替代人工吵到香水圈了",
+      "onboard_time": 1698543152,
+      "rank": 34,
+      "category": "美妆,科技"
+    },
+    {
       "raw_hot": 147459,
       "num": 147459,
       "word": "民警凌晨救下轻生男子后说睡不着了",
@@ -68683,6 +68707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142816,
+      "num": 142816,
+      "word": "下睫毛印章是神器还是智商税",
+      "onboard_time": 1698542972,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 142790,
       "num": 142790,
       "word": "魔卡少女樱 杂志同人图",
@@ -68961,6 +68993,14 @@
       "onboard_time": 1696723235,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141453,
+      "num": 141453,
+      "word": "Ame订婚",
+      "onboard_time": 1698543271,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 141425,
@@ -69681,6 +69721,14 @@
       "onboard_time": 1697432437,
       "rank": 14,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 138230,
+      "num": 138230,
+      "word": "张云龙剥虾",
+      "onboard_time": 1698543091,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138153,
@@ -70795,6 +70843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132393,
+      "num": 132393,
+      "word": "95后女孩开公司允许带宠物上班",
+      "onboard_time": 1698543271,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132358,
       "num": 132358,
       "word": "海豚伴航海警舰艇降速护送",
@@ -71673,6 +71729,14 @@
       "onboard_time": 1696210589,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128216,
+      "num": 128216,
+      "word": "于适晚安帖",
+      "onboard_time": 1698542556,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128180,

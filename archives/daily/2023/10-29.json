@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698542175687,
+  "endTime": 1698543344795,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -33,6 +33,14 @@
       "onboard_time": 1698507634,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1131730,
+      "num": 1131730,
+      "word": "男子砍人未被罚数月后驾车撞死母子2人",
+      "onboard_time": 1698541533,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1124434,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620505,
+      "num": 620505,
+      "word": "如何做不被女性避雷的广告",
+      "onboard_time": 1698540752,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 594419,
       "num": 474638,
       "word": "辛芷蕾人设逐渐不在了",
@@ -179,20 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511475,
+      "num": 383754,
+      "word": "谁能想到这是头发而不是蕾丝",
+      "onboard_time": 1698542372,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 502659,
+      "num": 502659,
+      "word": "练八段锦不能不知道的小细节",
+      "onboard_time": 1698539550,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 496240,
       "num": 351548,
       "word": "李善均全慧珍紧急送小儿子出国",
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 474977,
-      "num": 474977,
-      "word": "如何做不被女性避雷的广告",
-      "onboard_time": 1698540752,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 474822,
@@ -283,14 +307,6 @@
       "category": "国内要闻,教育"
     },
     {
-      "raw_hot": 349910,
-      "num": 349910,
-      "word": "男子砍人未被罚数月后驾车撞死母子2人",
-      "onboard_time": 1698541533,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349176,
       "num": 349176,
       "word": "李宇春唱陆贞传奇主题曲",
@@ -299,8 +315,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 331076,
-      "num": 331076,
+      "raw_hot": 338255,
+      "num": 338255,
       "word": "男性群体超重比例达76.5%",
       "onboard_time": 1698539249,
       "rank": 16,
@@ -315,20 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324759,
-      "num": 324759,
-      "word": "练八段锦不能不知道的小细节",
-      "onboard_time": 1698539550,
-      "rank": 17,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
       "onboard_time": 1698501337,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305563,
+      "num": 184718,
+      "word": "楼上是重点班 楼下是普通班",
+      "onboard_time": 1698542669,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 297447,
@@ -371,20 +387,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 264905,
+      "num": 264905,
+      "word": "洪知秀 i think so maybe",
+      "onboard_time": 1698537926,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259253,
       "num": 234244,
       "word": "虞书欣喻言双人part",
       "onboard_time": 1698510631,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 254500,
-      "num": 254500,
-      "word": "洪知秀 i think so maybe",
-      "onboard_time": 1698537926,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 250917,
@@ -443,6 +459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232793,
+      "num": 232793,
+      "word": "THE9演唱会 给十年后的自己",
+      "onboard_time": 1698540091,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231968,
       "num": 231968,
       "word": "赖冠霖 人要近看了都差不多",
@@ -473,14 +497,6 @@
       "onboard_time": 1698538708,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221119,
-      "num": 221119,
-      "word": "THE9演唱会 给十年后的自己",
-      "onboard_time": 1698540091,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 205716,
@@ -627,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147462,
+      "num": 147462,
+      "word": "AI替代人工吵到香水圈了",
+      "onboard_time": 1698543152,
+      "rank": 34,
+      "category": "美妆,科技"
+    },
+    {
       "raw_hot": 146012,
       "num": 146012,
       "word": "好吃懒做减肥法",
@@ -641,6 +665,14 @@
       "onboard_time": 1698539307,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142816,
+      "num": 142816,
+      "word": "下睫毛印章是神器还是智商税",
+      "onboard_time": 1698542972,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 142603,
@@ -667,6 +699,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 141453,
+      "num": 141453,
+      "word": "Ame订婚",
+      "onboard_time": 1698543271,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140631,
       "num": 140631,
       "word": "田耕纪编剧起诉剧方",
@@ -675,11 +715,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138230,
+      "num": 138230,
+      "word": "张云龙剥虾",
+      "onboard_time": 1698543091,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132661,
       "num": 132661,
       "word": "河南一小区为防高空坠物布满钢丝网",
       "onboard_time": 1698534139,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132393,
+      "num": 132393,
+      "word": "95后女孩开公司允许带宠物上班",
+      "onboard_time": 1698543271,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -705,6 +761,14 @@
       "onboard_time": 1698506374,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128216,
+      "num": 128216,
+      "word": "于适晚安帖",
+      "onboard_time": 1698542556,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125630,

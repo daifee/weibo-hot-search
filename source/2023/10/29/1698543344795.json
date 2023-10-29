@@ -1,0 +1,410 @@
+{
+  "runTime": 1698543344795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2789401,
+        "num": 2789401,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1512368,
+        "num": 1512368,
+        "word": "协和医生说喷雾爽肤水不补水",
+        "onboard_time": 1698536545,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 43405,
+        "num": 1222291,
+        "word": "向世界展示中国青年的青春力量",
+        "onboard_time": 1698496897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131730,
+        "num": 1131730,
+        "word": "男子砍人未被罚数月后驾车撞死母子2人",
+        "onboard_time": 1698541533,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024475,
+        "num": 1024475,
+        "word": "女子为减肥连吃3月胡萝卜变小橘人",
+        "onboard_time": 1698534079,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620505,
+        "num": 620505,
+        "word": "如何做不被女性避雷的广告",
+        "onboard_time": 1698540752,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577230,
+        "num": 577230,
+        "word": "以色列声称联合国不具有合法性",
+        "onboard_time": 1698535823,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 502659,
+        "num": 502659,
+        "word": "练八段锦不能不知道的小细节",
+        "onboard_time": 1698539550,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 460014,
+        "num": 460014,
+        "word": "一根头发居然能吊起14页PPT",
+        "onboard_time": 1698535281,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407521,
+        "num": 407521,
+        "word": "老友记",
+        "onboard_time": 1698540508,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564310,
+        "num": 393921,
+        "word": "辛芷蕾人设逐渐不在了",
+        "onboard_time": 1698534558,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511475,
+        "num": 383754,
+        "word": "谁能想到这是头发而不是蕾丝",
+        "onboard_time": 1698542372,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 470649,
+        "num": 378189,
+        "word": "深圳欢乐谷被责令闭园整改",
+        "onboard_time": 1698540030,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410249,
+        "num": 357260,
+        "word": "权志龙没有被立案",
+        "onboard_time": 1698538827,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644412,
+        "num": 346848,
+        "word": "万圣节 上海",
+        "onboard_time": 1698538648,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338255,
+        "num": 338255,
+        "word": "男性群体超重比例达76.5%",
+        "onboard_time": 1698539249,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333700,
+        "num": 333700,
+        "word": "李湘王岳伦发出尖锐爆鸣",
+        "onboard_time": 1698488794,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326631,
+        "num": 326631,
+        "word": "内娱慕强批的天堂",
+        "onboard_time": 1698507634,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264905,
+        "num": 264905,
+        "word": "洪知秀 i think so maybe",
+        "onboard_time": 1698537926,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268074,
+        "num": 264396,
+        "word": "官方通报深圳欢乐谷过山车碰撞事故",
+        "onboard_time": 1698539006,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344851,
+        "num": 264255,
+        "word": "1晚少了11只螃蟹蟹农怒而报警",
+        "onboard_time": 1698525615,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257146,
+        "num": 257146,
+        "word": "胎儿8斤重产妇要求剖腹产被拒",
+        "onboard_time": 1698505537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236484,
+        "num": 236484,
+        "word": "祝绪丹新造型",
+        "onboard_time": 1698536846,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235951,
+        "num": 235951,
+        "word": "张杰王铮亮陆虎合唱舞台",
+        "onboard_time": 1698539611,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232793,
+        "num": 232793,
+        "word": "THE9演唱会 给十年后的自己",
+        "onboard_time": 1698540091,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213885,
+        "num": 213885,
+        "word": "我越来越喜欢温柔的人了",
+        "onboard_time": 1698538708,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199316,
+        "num": 199316,
+        "word": "G2",
+        "onboard_time": 1698540752,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194551,
+        "num": 194551,
+        "word": "陈楚生居然唱了活该",
+        "onboard_time": 1698507456,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188913,
+        "num": 188913,
+        "word": "被生母虐待致残男童仍惦记妈妈",
+        "onboard_time": 1698506799,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186489,
+        "num": 186489,
+        "word": "AR晋级TI12败者组半决赛",
+        "onboard_time": 1698541111,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305563,
+        "num": 184718,
+        "word": "楼上是重点班 楼下是普通班",
+        "onboard_time": 1698542669,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162424,
+        "num": 162424,
+        "word": "以方称对哈马斯的战争进入第二阶段",
+        "onboard_time": 1698538287,
+        "rank": 31,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 158080,
+        "num": 158080,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 154157,
+        "num": 154157,
+        "word": "李善均全慧珍紧急送小儿子出国",
+        "onboard_time": 1698497555,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147462,
+        "num": 147462,
+        "word": "AI替代人工吵到香水圈了",
+        "onboard_time": 1698543152,
+        "rank": 34,
+        "category": "美妆,科技"
+      },
+      {
+        "raw_hot": 147059,
+        "num": 147059,
+        "word": "王者荣耀世界6分钟实机演示发布",
+        "onboard_time": 1698540212,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142816,
+        "num": 142816,
+        "word": "下睫毛印章是神器还是智商税",
+        "onboard_time": 1698542972,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141453,
+        "num": 141453,
+        "word": "Ame订婚",
+        "onboard_time": 1698543271,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138230,
+        "num": 138230,
+        "word": "张云龙剥虾",
+        "onboard_time": 1698543091,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133196,
+        "num": 133196,
+        "word": "林孝埈500米铜牌",
+        "onboard_time": 1698539550,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132393,
+        "num": 132393,
+        "word": "95后女孩开公司允许带宠物上班",
+        "onboard_time": 1698543271,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131253,
+        "num": 131253,
+        "word": "公司回应辞退员工用几十公斤重硬币赔偿",
+        "onboard_time": 1698537144,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130254,
+        "num": 130254,
+        "word": "体制内你不知道的文件命名",
+        "onboard_time": 1698503859,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 129342,
+        "num": 129342,
+        "word": "教师全员竞聘上岗",
+        "onboard_time": 1698492995,
+        "rank": 43,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 128216,
+        "num": 128216,
+        "word": "于适晚安帖",
+        "onboard_time": 1698542556,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128148,
+        "num": 128148,
+        "word": "WTT 晚宴",
+        "onboard_time": 1698538527,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127724,
+        "num": 127724,
+        "word": "文俊辉上节目带瓜子麻辣烫",
+        "onboard_time": 1698539367,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122651,
+        "num": 122651,
+        "word": "喻言追着彩带满场跑",
+        "onboard_time": 1698541833,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120886,
+        "num": 120886,
+        "word": "虞书欣爷爷去看THE9演唱会了",
+        "onboard_time": 1698498576,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119368,
+        "num": 119368,
+        "word": "刘宪华南昌",
+        "onboard_time": 1698539307,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第九次集体学习#"
+    }
+  }
+}
