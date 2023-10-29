@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698546291784,
+  "endTime": 1698546938646,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -51,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994562,
+      "num": 520785,
+      "word": "何泓姗终于演大女主了",
+      "onboard_time": 1698544711,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 988773,
+      "num": 988773,
+      "word": "谁能想到这是头发而不是蕾丝",
+      "onboard_time": 1698542372,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 988432,
       "num": 988432,
       "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
@@ -59,20 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 937375,
-      "num": 423390,
-      "word": "何泓姗终于演大女主了",
-      "onboard_time": 1698544711,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 931385,
-      "num": 931385,
-      "word": "谁能想到这是头发而不是蕾丝",
-      "onboard_time": 1698542372,
-      "rank": 11,
-      "category": "美妆"
+      "raw_hot": 889105,
+      "num": 608014,
+      "word": "巴以冲突已超9200人死亡",
+      "onboard_time": 1698544232,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 860384,
@@ -83,12 +91,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 850264,
-      "num": 591080,
-      "word": "巴以冲突已超9200人死亡",
-      "onboard_time": 1698544232,
-      "rank": 6,
-      "category": "国外要闻"
+      "raw_hot": 793626,
+      "num": 793626,
+      "word": "楼上是重点班 楼下是普通班",
+      "onboard_time": 1698542669,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 777235,
@@ -113,14 +121,6 @@
       "onboard_time": 1698535823,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 746845,
-      "num": 746845,
-      "word": "楼上是重点班 楼下是普通班",
-      "onboard_time": 1698542669,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 696044,
@@ -171,8 +171,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 605418,
+      "num": 605418,
+      "word": "彭斯宣布退出2024总统竞选",
+      "onboard_time": 1698543931,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 594419,
-      "num": 474638,
+      "num": 507842,
       "word": "辛芷蕾人设逐渐不在了",
       "onboard_time": 1698534558,
       "rank": 27,
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556726,
-      "num": 556726,
-      "word": "彭斯宣布退出2024总统竞选",
-      "onboard_time": 1698543931,
-      "rank": 7,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 556515,
       "num": 556515,
       "word": "深圳欢乐谷被责令闭园整改",
@@ -227,20 +227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551423,
+      "num": 551423,
+      "word": "加沙地带经历迄今为止最严重轰炸",
+      "onboard_time": 1698544771,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 536610,
+      "num": 514509,
+      "word": "陆虎快男时期看张杰非常不顺眼",
+      "onboard_time": 1698545433,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 532248,
+      "num": 532248,
+      "word": "老友记六人组不完整了",
+      "onboard_time": 1698546152,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523810,
       "num": 321470,
       "word": "胎儿8斤重产妇要求剖腹产被拒",
       "onboard_time": 1698505537,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503623,
-      "num": 503623,
-      "word": "加沙地带经历迄今为止最严重轰炸",
-      "onboard_time": 1698544771,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 502659,
@@ -283,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441581,
+      "num": 441581,
+      "word": "如何才能睡出一个好看的头型",
+      "onboard_time": 1698545134,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 440489,
       "num": 440489,
       "word": "男朋友给我做了个电子衣橱",
@@ -321,22 +345,6 @@
       "onboard_time": 1698525615,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401725,
-      "num": 401725,
-      "word": "陆虎快男时期看张杰非常不顺眼",
-      "onboard_time": 1698545433,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 377442,
-      "num": 188642,
-      "word": "如何才能睡出一个好看的头型",
-      "onboard_time": 1698545134,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 365752,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318844,
+      "num": 318844,
+      "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
+      "onboard_time": 1698544892,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
@@ -435,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273882,
-      "num": 273882,
-      "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
-      "onboard_time": 1698544892,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 270411,
+      "num": 270411,
+      "word": "THE9 dumb dumb bomb",
+      "onboard_time": 1698546092,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 269556,
@@ -563,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210530,
-      "num": 187925,
-      "word": "THE9 dumb dumb bomb",
-      "onboard_time": 1698546092,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205716,
       "num": 205716,
       "word": "王嘉尔在温州参加婚礼",
@@ -601,6 +609,14 @@
       "onboard_time": 1698504697,
       "rank": 34,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 192328,
+      "num": 192328,
+      "word": "网友拍到和谐号和复兴号飙车",
+      "onboard_time": 1698545732,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191828,
@@ -707,14 +723,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 152029,
-      "num": 152029,
-      "word": "网友拍到和谐号和复兴号飙车",
-      "onboard_time": 1698545732,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151386,
       "num": 151386,
       "word": "贝林厄姆",
@@ -729,14 +737,6 @@
       "onboard_time": 1698507873,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149890,
-      "num": 149890,
-      "word": "老友记六人组不完整了",
-      "onboard_time": 1698546152,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 147732,
@@ -811,20 +811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135457,
+      "num": 135457,
+      "word": "我军特种车辆长途运输震撼画面",
+      "onboard_time": 1698544293,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 134932,
       "num": 134932,
       "word": "百年女士发型",
       "onboard_time": 1698545913,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 134889,
-      "num": 134889,
-      "word": "我军特种车辆长途运输震撼画面",
-      "onboard_time": 1698544293,
-      "rank": 44,
-      "category": "军事"
     },
     {
       "raw_hot": 132661,
@@ -865,6 +865,14 @@
       "onboard_time": 1698506374,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129706,
+      "num": 129706,
+      "word": "许佳琪说很有可能是最后一次演唱会",
+      "onboard_time": 1698546033,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 128216,
@@ -939,12 +947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110274,
-      "num": 110274,
-      "word": "许佳琪说很有可能是最后一次演唱会",
-      "onboard_time": 1698546033,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 107448,
+      "num": 107448,
+      "word": "民警钻下水道救回被困11小时老人",
+      "onboard_time": 1698546510,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104378,
