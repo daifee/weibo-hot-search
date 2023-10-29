@@ -1,0 +1,410 @@
+{
+  "runTime": 1698592551525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123619,
+        "num": 1123619,
+        "word": "中国驻美大使馆发紧急提醒",
+        "onboard_time": 1698579333,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1115942,
+        "num": 1115942,
+        "word": "英国29岁冰球运动员遭冰刀割喉去世",
+        "onboard_time": 1698590677,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40946,
+        "num": 686930,
+        "word": "杭州亚残运这些画面好戳泪点",
+        "onboard_time": 1698586596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615597,
+        "num": 615597,
+        "word": "女子花270元订酒店套房竟有会议室",
+        "onboard_time": 1698588877,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578191,
+        "num": 578191,
+        "word": "孙颖莎 破阵",
+        "onboard_time": 1698590017,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554563,
+        "num": 554563,
+        "word": "餐具收费大学生付1元直接带走",
+        "onboard_time": 1698582455,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 406406,
+        "num": 406406,
+        "word": "深圳欢乐谷过山车事故共接诊28人",
+        "onboard_time": 1698585516,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290867,
+        "num": 290867,
+        "word": "归期 花木兰",
+        "onboard_time": 1698588517,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270037,
+        "num": 270037,
+        "word": "女生去温州同学家发现厕所藏衣柜里",
+        "onboard_time": 1698571655,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233761,
+        "num": 269469,
+        "word": "LPL抽签二段笑",
+        "onboard_time": 1698586474,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1972745,
+        "num": 268756,
+        "word": "万圣节cos李佳琦",
+        "onboard_time": 1698590558,
+        "rank": 10,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 913737,
+        "num": 268230,
+        "word": "迪丽热巴有十年没回家了",
+        "onboard_time": 1698589896,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679976,
+        "num": 267712,
+        "word": "万圣节cos乙方",
+        "onboard_time": 1698587072,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1045784,
+        "num": 266965,
+        "word": "石矶娘娘cos",
+        "onboard_time": 1698588215,
+        "rank": 13,
+        "category": "动漫,美妆"
+      },
+      {
+        "raw_hot": 554351,
+        "num": 266341,
+        "word": "何洁减肥大法",
+        "onboard_time": 1698590197,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417819,
+        "num": 265518,
+        "word": "港媒曝苑琼丹暂时息影",
+        "onboard_time": 1698584613,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387192,
+        "num": 264873,
+        "word": "钱德勒演员死前六天还曾露面",
+        "onboard_time": 1698583893,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386248,
+        "num": 264535,
+        "word": "魏晨 分身情人",
+        "onboard_time": 1698572850,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341706,
+        "num": 263903,
+        "word": "上海版王菲那英",
+        "onboard_time": 1698585212,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 321126,
+        "num": 263121,
+        "word": "周也学化妆",
+        "onboard_time": 1698587975,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395953,
+        "num": 262577,
+        "word": "25岁女孩为自己办葬礼请朋友吃席",
+        "onboard_time": 1698574412,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321887,
+        "num": 262032,
+        "word": "女生脚疼日本医院要手术回国查是鸡眼",
+        "onboard_time": 1698585093,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288462,
+        "num": 260964,
+        "word": "叶舒华短发",
+        "onboard_time": 1698586115,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 260934,
+        "num": 260934,
+        "word": "仲溪午答应娶妻",
+        "onboard_time": 1698591097,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258388,
+        "num": 258388,
+        "word": "上海万圣节",
+        "onboard_time": 1698590615,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253850,
+        "num": 253850,
+        "word": "月薪3万去不起泡泡玛特乐园",
+        "onboard_time": 1698582212,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245778,
+        "num": 245778,
+        "word": "何炅标注了花少每个人的名字",
+        "onboard_time": 1698573932,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241386,
+        "num": 241386,
+        "word": "王嘉尔说自己和王嘉尔长得特别像",
+        "onboard_time": 1698585815,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 234198,
+        "word": "久坐再也别想累丑了",
+        "onboard_time": 1698591034,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 224685,
+        "num": 224685,
+        "word": "王栎鑫五公第一",
+        "onboard_time": 1698579456,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223011,
+        "num": 223011,
+        "word": "万圣节cos甄嬛醉酒",
+        "onboard_time": 1698592475,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 222477,
+        "num": 222477,
+        "word": "老友们围着他 而他开心泡着澡",
+        "onboard_time": 1698589657,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220455,
+        "num": 220455,
+        "word": "WBG什么运气",
+        "onboard_time": 1698582933,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217921,
+        "num": 217921,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 203820,
+        "num": 203820,
+        "word": "万圣节cos",
+        "onboard_time": 1698592236,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 199450,
+        "num": 199450,
+        "word": "PCL",
+        "onboard_time": 1698591517,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198480,
+        "num": 198480,
+        "word": "马修拍老友记是为获得妈妈关注",
+        "onboard_time": 1698591817,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198076,
+        "num": 198076,
+        "word": "宋亚轩严浩翔张真源版燃冬",
+        "onboard_time": 1698588398,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196929,
+        "num": 196929,
+        "word": "宋雨琦唱稻香忘词的反应",
+        "onboard_time": 1698590436,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191855,
+        "num": 191855,
+        "word": "万圣节cos 全明星律师函",
+        "onboard_time": 1698592236,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 188075,
+        "num": 188075,
+        "word": "警方称权志龙被确认的证据不具体",
+        "onboard_time": 1698573329,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180240,
+        "num": 180240,
+        "word": "钱德勒的底色",
+        "onboard_time": 1698591218,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173400,
+        "num": 173400,
+        "word": "女子买生腌蟹食用时发现蟹钳仍在动",
+        "onboard_time": 1698575859,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168386,
+        "num": 168386,
+        "word": "利物浦vs诺丁汉森林",
+        "onboard_time": 1698591459,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160070,
+        "num": 160070,
+        "word": "被拐走21年的女儿回家了",
+        "onboard_time": 1698589057,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143027,
+        "num": 143027,
+        "word": "曼联vs曼城",
+        "onboard_time": 1698592177,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141920,
+        "num": 141920,
+        "word": "30岁小伙婚前查出癌症切睾丸求生",
+        "onboard_time": 1698572612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140934,
+        "num": 140934,
+        "word": "17战队夺冠",
+        "onboard_time": 1698590856,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133254,
+        "num": 133254,
+        "word": "权顺荣和粉丝牵手",
+        "onboard_time": 1698592536,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128128,
+        "num": 128128,
+        "word": "考公人的精神状态",
+        "onboard_time": 1698592475,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698590043902,
+  "endTime": 1698592551525,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1697600974,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1972745,
+      "num": 268756,
+      "word": "万圣节cos李佳琦",
+      "onboard_time": 1698590558,
+      "rank": 10,
+      "category": "网红,美妆"
     },
     {
       "raw_hot": 1972679,
@@ -7435,6 +7443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1115942,
+      "num": 1115942,
+      "word": "英国29岁冰球运动员遭冰刀割喉去世",
+      "onboard_time": 1698590677,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1115123,
       "num": 778788,
       "word": "深圳机场",
@@ -8009,6 +8025,14 @@
       "onboard_time": 1697250934,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1045784,
+      "num": 266965,
+      "word": "石矶娘娘cos",
+      "onboard_time": 1698588215,
+      "rank": 17,
+      "category": "动漫,美妆"
     },
     {
       "raw_hot": 1045285,
@@ -9675,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 913737,
+      "num": 268230,
+      "word": "迪丽热巴有十年没回家了",
+      "onboard_time": 1698589896,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 913004,
       "num": 509761,
       "word": "咬伤女童罗威纳犬打过狂犬疫苗",
@@ -10628,7 +10660,7 @@
     },
     {
       "raw_hot": 855605,
-      "num": 217104,
+      "num": 267712,
       "word": "万圣节cos乙方",
       "onboard_time": 1698587072,
       "rank": 11,
@@ -16483,6 +16515,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 615597,
+      "num": 615597,
+      "word": "女子花270元订酒店套房竟有会议室",
+      "onboard_time": 1698588877,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615504,
       "num": 615504,
       "word": "孙颖莎终极目标是巴黎奥运会",
@@ -17971,6 +18011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 578191,
+      "num": 578191,
+      "word": "孙颖莎 破阵",
+      "onboard_time": 1698590017,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577860,
       "num": 577860,
       "word": "张小斐这个动图谁懂",
@@ -18832,6 +18880,14 @@
       "word": "韩国男星回应空气酵母",
       "onboard_time": 1697618196,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 554351,
+      "num": 266341,
+      "word": "何洁减肥大法",
+      "onboard_time": 1698590197,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -22620,7 +22676,7 @@
     },
     {
       "raw_hot": 474121,
-      "num": 250919,
+      "num": 260964,
       "word": "叶舒华短发",
       "onboard_time": 1698586115,
       "rank": 24,
@@ -23193,14 +23249,6 @@
       "onboard_time": 1696986158,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 464979,
-      "num": 212793,
-      "word": "石矶娘娘cos",
-      "onboard_time": 1698588215,
-      "rank": 17,
-      "category": "动漫,美妆"
     },
     {
       "raw_hot": 464837,
@@ -32436,7 +32484,7 @@
     },
     {
       "raw_hot": 338904,
-      "num": 212011,
+      "num": 263121,
       "word": "周也学化妆",
       "onboard_time": 1698587975,
       "rank": 24,
@@ -37539,6 +37587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 290867,
+      "num": 290867,
+      "word": "归期 花木兰",
+      "onboard_time": 1698588517,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 290830,
       "num": 290830,
       "word": "你们馒头届要考博啊",
@@ -41971,6 +42027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 260934,
+      "num": 260934,
+      "word": "仲溪午答应娶妻",
+      "onboard_time": 1698591097,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260926,
       "num": 236884,
       "word": "王一博现身乌镇戏剧节",
@@ -42353,6 +42417,14 @@
       "onboard_time": 1697850333,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 258388,
+      "num": 258388,
+      "word": "上海万圣节",
+      "onboard_time": 1698590615,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 258381,
@@ -46643,6 +46715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 234198,
+      "num": 234198,
+      "word": "久坐再也别想累丑了",
+      "onboard_time": 1698591034,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 234167,
       "num": 234167,
       "word": "日综采访中国老人长寿秘诀",
@@ -48795,6 +48875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223011,
+      "num": 223011,
+      "word": "万圣节cos甄嬛醉酒",
+      "onboard_time": 1698592475,
+      "rank": 30,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 222950,
       "num": 222950,
       "word": "华晨宇演唱会边系鞋带边唱歌",
@@ -48897,6 +48985,14 @@
       "onboard_time": 1696978945,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222477,
+      "num": 222477,
+      "word": "老友们围着他 而他开心泡着澡",
+      "onboard_time": 1698589657,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 222475,
@@ -50457,14 +50553,6 @@
       "onboard_time": 1698074146,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214449,
-      "num": 211455,
-      "word": "归期 花木兰",
-      "onboard_time": 1698588517,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 214409,
@@ -53475,6 +53563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203820,
+      "num": 203820,
+      "word": "万圣节cos",
+      "onboard_time": 1698592236,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 203796,
       "num": 203796,
       "word": "外国人被杭州的网约车惊艳到了",
@@ -55075,6 +55171,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 199450,
+      "num": 199450,
+      "word": "PCL",
+      "onboard_time": 1698591517,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199430,
       "num": 199430,
       "word": "哈萨克斯坦总统返回母校",
@@ -55401,6 +55505,14 @@
       "onboard_time": 1698127775,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198480,
+      "num": 198480,
+      "word": "马修拍老友记是为获得妈妈关注",
+      "onboard_time": 1698591817,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198459,
@@ -55993,6 +56105,14 @@
       "onboard_time": 1698491135,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196929,
+      "num": 196929,
+      "word": "宋雨琦唱稻香忘词的反应",
+      "onboard_time": 1698590436,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 196882,
@@ -57833,6 +57953,14 @@
       "onboard_time": 1697346935,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191855,
+      "num": 191855,
+      "word": "万圣节cos 全明星律师函",
+      "onboard_time": 1698592236,
+      "rank": 39,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 191809,
@@ -61403,6 +61531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180240,
+      "num": 180240,
+      "word": "钱德勒的底色",
+      "onboard_time": 1698591218,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180230,
       "num": 180230,
       "word": "智己LS6",
@@ -64347,6 +64483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168386,
+      "num": 168386,
+      "word": "利物浦vs诺丁汉森林",
+      "onboard_time": 1698591459,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168382,
       "num": 168382,
       "word": "男孩钱没带够求便宜摊主爽快答应",
@@ -66473,6 +66617,14 @@
       "onboard_time": 1696638875,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 160070,
+      "num": 160070,
+      "word": "被拐走21年的女儿回家了",
+      "onboard_time": 1698589057,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160034,
@@ -70291,6 +70443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143027,
+      "num": 143027,
+      "word": "曼联vs曼城",
+      "onboard_time": 1698592177,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143021,
       "num": 143021,
       "word": "范丞丞回复王安宇",
@@ -70761,6 +70921,14 @@
       "onboard_time": 1697721275,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140934,
+      "num": 140934,
+      "word": "17战队夺冠",
+      "onboard_time": 1698590856,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 140920,
@@ -72331,6 +72499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133254,
+      "num": 133254,
+      "word": "权顺荣和粉丝牵手",
+      "onboard_time": 1698592536,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133219,
       "num": 133219,
       "word": "张云龙新剧用绑止血带方式绑头发",
@@ -73521,6 +73697,14 @@
       "onboard_time": 1698289292,
       "rank": 41,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "考公人的精神状态",
+      "onboard_time": 1698592475,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 128116,
