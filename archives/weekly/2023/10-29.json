@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698556559667,
+  "endTime": 1698557639748,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -19,7 +19,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1966780,
+      "raw_hot": 2018418,
       "num": 389626,
       "word": "向太cos",
       "onboard_time": 1698554851,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1873174,
-      "num": 700042,
+      "num": 991561,
       "word": "男朋友说当伴娘就默认分手",
       "onboard_time": 1698550710,
       "rank": 3,
@@ -75,11 +75,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1225735,
+      "num": 962787,
+      "word": "万圣节 安陵容",
+      "onboard_time": 1698555571,
+      "rank": 4,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 1124434,
       "num": 1124434,
       "word": "女子为减肥连吃3月胡萝卜变小橘人",
       "onboard_time": 1698534079,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010803,
+      "num": 1010803,
+      "word": "你支持禁止老头乐吗",
+      "onboard_time": 1698552931,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1698488794,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 859229,
-      "num": 546746,
-      "word": "万圣节 安陵容",
-      "onboard_time": 1698555571,
-      "rank": 4,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 822672,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624705,
+      "num": 624705,
+      "word": "上海万圣节冠军竞争太激烈了",
+      "onboard_time": 1698555331,
+      "rank": 7,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 620505,
       "num": 620505,
       "word": "如何做不被女性避雷的广告",
@@ -323,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533178,
-      "num": 533178,
-      "word": "你支持禁止老头乐吗",
-      "onboard_time": 1698552931,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527700,
       "num": 417682,
       "word": "以爱为营",
@@ -361,14 +369,6 @@
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486550,
-      "num": 486550,
-      "word": "上海万圣节冠军竞争太激烈了",
-      "onboard_time": 1698555331,
-      "rank": 7,
-      "category": "美妆"
     },
     {
       "raw_hot": 474822,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 407426,
-      "num": 407426,
+      "num": 967921,
       "word": "官方通报公司规定私聊微信罚款100",
       "onboard_time": 1698552693,
       "rank": 27,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 304443,
-      "num": 270430,
+      "num": 284817,
       "word": "鞠婧祎工作室有图是真发",
       "onboard_time": 1698555811,
       "rank": 21,
@@ -585,6 +585,14 @@
       "onboard_time": 1698536846,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 279310,
+      "num": 279310,
+      "word": "上海万圣节祺贵人都来了",
+      "onboard_time": 1698555991,
+      "rank": 30,
+      "category": "休闲,剧集"
     },
     {
       "raw_hot": 277054,
@@ -707,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231195,
+      "num": 231195,
+      "word": "张小斐新片口碑",
+      "onboard_time": 1698556230,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231107,
       "num": 231107,
       "word": "她32岁成教授级工程师",
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 227210,
-      "num": 232021,
+      "num": 275176,
       "word": "李克强同志逝世",
       "onboard_time": 1698365932,
       "rank": 30,
@@ -739,12 +755,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220864,
-      "num": 220864,
-      "word": "张小斐新片口碑",
-      "onboard_time": 1698556230,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 221352,
+      "num": 221352,
+      "word": "KT对战DK",
+      "onboard_time": 1698556711,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 208497,
@@ -753,6 +769,14 @@
       "onboard_time": 1698547832,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207764,
+      "num": 207764,
+      "word": "檀健次美拉德西装造型",
+      "onboard_time": 1698556890,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 207085,
@@ -795,20 +819,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 199621,
+      "num": 199621,
+      "word": "花儿与少年",
+      "onboard_time": 1698556890,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199530,
       "num": 125931,
       "word": "星穹铁道 1.4",
       "onboard_time": 1698535522,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 199439,
-      "num": 171516,
-      "word": "上海万圣节祺贵人都来了",
-      "onboard_time": 1698555991,
-      "rank": 30,
-      "category": "休闲,剧集"
     },
     {
       "raw_hot": 195507,
@@ -905,6 +929,14 @@
       "onboard_time": 1698553710,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181278,
+      "num": 181278,
+      "word": "道诡异仙妆容",
+      "onboard_time": 1698556772,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 180739,
@@ -1260,7 +1292,7 @@
     },
     {
       "raw_hot": 122173,
-      "num": 797318,
+      "num": 1002237,
       "word": "烈士陵园种红星杨是中国式浪漫",
       "onboard_time": 1698548729,
       "rank": 2,

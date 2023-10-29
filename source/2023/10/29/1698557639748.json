@@ -1,0 +1,410 @@
+{
+  "runTime": 1698557639748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182176,
+        "num": 1182176,
+        "word": "阳光玫瑰从300元暴跌到10元",
+        "onboard_time": 1698547952,
+        "rank": 0,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1010803,
+        "num": 1010803,
+        "word": "你支持禁止老头乐吗",
+        "onboard_time": 1698552931,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101449,
+        "num": 1002237,
+        "word": "烈士陵园种红星杨是中国式浪漫",
+        "onboard_time": 1698548729,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174919,
+        "num": 991561,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319075,
+        "num": 967921,
+        "word": "官方通报公司规定私聊微信罚款100",
+        "onboard_time": 1698552693,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225735,
+        "num": 962787,
+        "word": "万圣节 安陵容",
+        "onboard_time": 1698555571,
+        "rank": 5,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 951097,
+        "num": 951097,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624705,
+        "num": 624705,
+        "word": "上海万圣节冠军竞争太激烈了",
+        "onboard_time": 1698555331,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 481263,
+        "num": 481263,
+        "word": "周也恶女这才对味儿嘛",
+        "onboard_time": 1698553471,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314021,
+        "num": 314021,
+        "word": "协和医生说喷雾爽肤水不补水",
+        "onboard_time": 1698536545,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 605546,
+        "num": 313435,
+        "word": "何泓姗终于演大女主了",
+        "onboard_time": 1698544711,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2018418,
+        "num": 313122,
+        "word": "向太cos",
+        "onboard_time": 1698554851,
+        "rank": 11,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 338454,
+        "num": 312664,
+        "word": "就没有白敬亭接不了的梗吧",
+        "onboard_time": 1698553591,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312088,
+        "num": 312088,
+        "word": "肿眼泡塌鼻子都画这个S型阴影",
+        "onboard_time": 1698553292,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 303618,
+        "num": 303618,
+        "word": "白色橄榄树",
+        "onboard_time": 1698551791,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284817,
+        "num": 284817,
+        "word": "鞠婧祎工作室有图是真发",
+        "onboard_time": 1698555811,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284127,
+        "num": 284127,
+        "word": "以爱为营",
+        "onboard_time": 1698551434,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279310,
+        "num": 279310,
+        "word": "上海万圣节祺贵人都来了",
+        "onboard_time": 1698555991,
+        "rank": 17,
+        "category": "休闲,剧集"
+      },
+      {
+        "raw_hot": 203872,
+        "num": 276198,
+        "word": "楼上是重点班 楼下是普通班",
+        "onboard_time": 1698542669,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193682,
+        "num": 275176,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 763450,
+        "num": 275130,
+        "word": "男子砍人未被罚数月后驾车撞死母子2人",
+        "onboard_time": 1698541533,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274833,
+        "num": 274833,
+        "word": "谁能想到这是头发而不是蕾丝",
+        "onboard_time": 1698542372,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269942,
+        "num": 269942,
+        "word": "周冬雨同款扎发",
+        "onboard_time": 1698553471,
+        "rank": 22,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 231195,
+        "num": 231195,
+        "word": "张小斐新片口碑",
+        "onboard_time": 1698556230,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221352,
+        "num": 221352,
+        "word": "KT对战DK",
+        "onboard_time": 1698556711,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219692,
+        "num": 219692,
+        "word": "楼炅择仿妆Liz",
+        "onboard_time": 1698554728,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 215771,
+        "num": 215771,
+        "word": "丞磊念粉丝大尺度留言的反应",
+        "onboard_time": 1698553353,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211319,
+        "num": 211319,
+        "word": "老友记六人组不完整了",
+        "onboard_time": 1698546152,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151732,
+        "num": 207989,
+        "word": "巴以冲突已超9200人死亡",
+        "onboard_time": 1698544232,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146301,
+        "num": 207803,
+        "word": "以大使称以色列目前不打算退出联合国",
+        "onboard_time": 1698548191,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207764,
+        "num": 207764,
+        "word": "檀健次美拉德西装造型",
+        "onboard_time": 1698556890,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199621,
+        "num": 199621,
+        "word": "花儿与少年",
+        "onboard_time": 1698556890,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182236,
+        "num": 182236,
+        "word": "陆虎快男时期看张杰非常不顺眼",
+        "onboard_time": 1698545433,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181278,
+        "num": 181278,
+        "word": "道诡异仙妆容",
+        "onboard_time": 1698556772,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159210,
+        "num": 159210,
+        "word": "枫原万叶",
+        "onboard_time": 1698554911,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "如何才能睡出一个好看的头型",
+        "onboard_time": 1698545134,
+        "rank": 35,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 142807,
+        "num": 142807,
+        "word": "13届快男看不见的顶峰再次顶峰相见",
+        "onboard_time": 1698551312,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137172,
+        "num": 137172,
+        "word": "THE9 dumb dumb bomb",
+        "onboard_time": 1698546092,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136403,
+        "num": 136403,
+        "word": "陈哲远演的李瓒又燃又虐",
+        "onboard_time": 1698552509,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122786,
+        "num": 135867,
+        "word": "女子为减肥连吃3月胡萝卜变小橘人",
+        "onboard_time": 1698534079,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135656,
+        "num": 135656,
+        "word": "老友记",
+        "onboard_time": 1698540508,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135481,
+        "num": 135481,
+        "word": "王鹤润出道7年演了25部剧",
+        "onboard_time": 1698553710,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133502,
+        "num": 133502,
+        "word": "权志龙没有被立案",
+        "onboard_time": 1698538827,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126121,
+        "num": 126121,
+        "word": "杨幂四分钟直拍",
+        "onboard_time": 1698548431,
+        "rank": 43,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 126085,
+        "num": 126085,
+        "word": "低频",
+        "onboard_time": 1698553951,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109285,
+        "num": 109285,
+        "word": "以色列声称联合国不具有合法性",
+        "onboard_time": 1698535823,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 107038,
+        "num": 107038,
+        "word": "村民拔河式拉回被困轿车",
+        "onboard_time": 1698555991,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105664,
+        "num": 105664,
+        "word": "檀健次被沈腾踩脚的反应",
+        "onboard_time": 1698548553,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 99774,
+        "num": 99774,
+        "word": "大白兔 光与夜之恋",
+        "onboard_time": 1698555512,
+        "rank": 48,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 97953,
+        "num": 97953,
+        "word": "王嘉尔表情是抗拒的",
+        "onboard_time": 1698554072,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持中共中央政治局第九次集体学习#"
+    }
+  }
+}
