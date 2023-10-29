@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698536045959,
+  "endTime": 1698542175687,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -633,6 +633,14 @@
       "onboard_time": 1697706156,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3267856,
+      "num": 3267856,
+      "word": "老友记钱德勒扮演者去世",
+      "onboard_time": 1698540151,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3228661,
@@ -4171,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1605000,
+      "num": 1605000,
+      "word": "协和医生说喷雾爽肤水不补水",
+      "onboard_time": 1698536545,
+      "rank": 1,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1604990,
       "num": 946243,
       "word": "兰州站王楚钦马龙争冠",
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 1355453,
-      "num": 356582,
+      "num": 382658,
       "word": "内娱慕强批的天堂",
       "onboard_time": 1698507634,
       "rank": 10,
@@ -7177,6 +7193,14 @@
       "onboard_time": 1697701958,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1124434,
+      "num": 1124434,
+      "word": "女子为减肥连吃3月胡萝卜变小橘人",
+      "onboard_time": 1698534079,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1122807,
@@ -12523,6 +12547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 747342,
+      "num": 633632,
+      "word": "以色列声称联合国不具有合法性",
+      "onboard_time": 1698535823,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 747297,
       "num": 747297,
       "word": "陈情令版权已到期",
@@ -13763,6 +13795,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 696044,
+      "num": 696044,
+      "word": "万圣节 上海",
+      "onboard_time": 1698538648,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695231,
       "num": 695231,
       "word": "亲历者回忆过山车回滑太快起火花",
@@ -14001,14 +14041,6 @@
       "onboard_time": 1696170941,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 683122,
-      "num": 683122,
-      "word": "女子为减肥连吃3月胡萝卜变小橘人",
-      "onboard_time": 1698534079,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682468,
@@ -16835,6 +16867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 594419,
+      "num": 474638,
+      "word": "辛芷蕾人设逐渐不在了",
+      "onboard_time": 1698534558,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 594304,
       "num": 594304,
       "word": "以色列总统发文",
@@ -18131,6 +18171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559039,
+      "num": 559039,
+      "word": "一根头发居然能吊起14页PPT",
+      "onboard_time": 1698535281,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558734,
       "num": 558734,
       "word": "她一辈子是林双的小狐狸",
@@ -18233,6 +18281,14 @@
       "onboard_time": 1697813434,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 556515,
+      "num": 556515,
+      "word": "深圳欢乐谷被责令闭园整改",
+      "onboard_time": 1698540030,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556325,
@@ -21963,12 +22019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474977,
+      "num": 474977,
+      "word": "如何做不被女性避雷的广告",
+      "onboard_time": 1698540752,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 474885,
       "num": 409774,
       "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
       "onboard_time": 1697968954,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474822,
+      "num": 474822,
+      "word": "老友记",
+      "onboard_time": 1698540508,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 474727,
@@ -22385,6 +22457,14 @@
       "onboard_time": 1697634274,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469080,
+      "num": 469080,
+      "word": "权志龙没有被立案",
+      "onboard_time": 1698538827,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 469060,
@@ -24555,6 +24635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434560,
+      "num": 434560,
+      "word": "官方通报深圳欢乐谷过山车碰撞事故",
+      "onboard_time": 1698539006,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434322,
       "num": 598779,
       "word": "小米澎湃OS",
@@ -26067,6 +26155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408749,
+      "num": 274128,
+      "word": "1晚少了11只螃蟹蟹农怒而报警",
+      "onboard_time": 1698525615,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408727,
       "num": 470910,
       "word": "钟楚曦张云龙新剧吻戏",
@@ -27553,14 +27649,6 @@
       "onboard_time": 1697972372,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 387465,
-      "num": 178462,
-      "word": "辛芷蕾人设逐渐不在了",
-      "onboard_time": 1698534558,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 387454,
@@ -30643,6 +30731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 349910,
+      "num": 349910,
+      "word": "男子砍人未被罚数月后驾车撞死母子2人",
+      "onboard_time": 1698541533,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349852,
       "num": 349852,
       "word": "烬相思开播",
@@ -32363,6 +32459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331076,
+      "num": 331076,
+      "word": "男性群体超重比例达76.5%",
+      "onboard_time": 1698539249,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 330975,
       "num": 330975,
       "word": "薛之谦 清远",
@@ -32969,6 +33073,14 @@
       "onboard_time": 1698236858,
       "rank": 32,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 324759,
+      "num": 324759,
+      "word": "练八段锦不能不知道的小细节",
+      "onboard_time": 1698539550,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 324704,
@@ -35819,6 +35931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297447,
+      "num": 297447,
+      "word": "AR晋级TI12败者组半决赛",
+      "onboard_time": 1698541111,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297438,
       "num": 237173,
       "word": "河边的错误 没看懂",
@@ -37665,6 +37785,14 @@
       "onboard_time": 1698133354,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284086,
+      "num": 284086,
+      "word": "祝绪丹新造型",
+      "onboard_time": 1698536846,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284001,
@@ -41979,6 +42107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254500,
+      "num": 254500,
+      "word": "洪知秀 i think so maybe",
+      "onboard_time": 1698537926,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254491,
       "num": 254491,
       "word": "凤凰传奇 现在歌曲只火三个月",
@@ -42569,6 +42705,14 @@
       "onboard_time": 1698120878,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250917,
+      "num": 250917,
+      "word": "以方称对哈马斯的战争进入第二阶段",
+      "onboard_time": 1698538287,
+      "rank": 23,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 250911,
@@ -43417,6 +43561,14 @@
       "onboard_time": 1697119782,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245957,
+      "num": 245957,
+      "word": "G2",
+      "onboard_time": 1698540752,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 245944,
@@ -44769,6 +44921,14 @@
       "onboard_time": 1697284173,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237568,
+      "num": 237568,
+      "word": "张杰王铮亮陆虎合唱舞台",
+      "onboard_time": 1698539611,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 237560,
@@ -46779,14 +46939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226976,
-      "num": 126032,
-      "word": "1晚少了11只螃蟹蟹农怒而报警",
-      "onboard_time": 1698525615,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226968,
       "num": 226968,
       "word": "很适合一个人住的梦中情房",
@@ -47177,6 +47329,14 @@
       "onboard_time": 1696507537,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 225450,
+      "num": 225450,
+      "word": "我越来越喜欢温柔的人了",
+      "onboard_time": 1698538708,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 225341,
@@ -48081,6 +48241,14 @@
       "onboard_time": 1698051056,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221119,
+      "num": 221119,
+      "word": "THE9演唱会 给十年后的自己",
+      "onboard_time": 1698540091,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 221053,
@@ -58435,14 +58603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185228,
-      "num": 185228,
-      "word": "以色列声称联合国不具有合法性",
-      "onboard_time": 1698535823,
-      "rank": 9,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 185201,
       "num": 185201,
       "word": "马龙与王者项目选手见面",
@@ -60371,6 +60531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177747,
+      "num": 177747,
+      "word": "中国队2000米混接夺冠",
+      "onboard_time": 1698536184,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177742,
       "num": 177742,
       "word": "莲花楼 缠人老笛",
@@ -61929,6 +62097,14 @@
       "onboard_time": 1696243953,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171101,
+      "num": 171101,
+      "word": "王者荣耀世界6分钟实机演示发布",
+      "onboard_time": 1698540212,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 171079,
@@ -63512,6 +63688,14 @@
       "word": "70岁老奶奶清晨打扫街头护栏",
       "onboard_time": 1696157793,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164547,
+      "num": 164547,
+      "word": "公司回应辞退员工用几十公斤重硬币赔偿",
+      "onboard_time": 1698537144,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -67451,6 +67635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147709,
+      "num": 147709,
+      "word": "WTT 晚宴",
+      "onboard_time": 1698538527,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "羊肉手抓饭",
@@ -67841,6 +68033,14 @@
       "onboard_time": 1697016519,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145733,
+      "num": 145733,
+      "word": "刘宪华南昌",
+      "onboard_time": 1698539307,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 145619,
@@ -68523,6 +68723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142603,
+      "num": 142603,
+      "word": "文俊辉上节目带瓜子麻辣烫",
+      "onboard_time": 1698539367,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142601,
       "num": 142601,
       "word": "许文婷的脆弱仅男友可见",
@@ -68536,6 +68744,14 @@
       "word": "亚运DJ带全场朗诵少年中国说",
       "onboard_time": 1696467873,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "林孝埈500米铜牌",
+      "onboard_time": 1698539550,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -70731,6 +70947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131485,
+      "num": 131485,
+      "word": "我的朋友入围第24届圣地亚哥亚洲电影节",
+      "onboard_time": 1698540933,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "杭州亚运会音乐是懂内涵人的",
@@ -70817,6 +71041,14 @@
       "onboard_time": 1697356834,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131014,
+      "num": 131014,
+      "word": "出现这些情况可能是脑卒中前兆",
+      "onboard_time": 1698538950,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131013,
@@ -71843,14 +72075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125705,
-      "num": 125705,
-      "word": "一根头发居然能吊起14页PPT",
-      "onboard_time": 1698535281,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125691,
       "num": 102377,
       "word": "国家级保护区山上遍布捕鸟网",
@@ -71865,6 +72089,14 @@
       "onboard_time": 1698465753,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125630,
+      "num": 125630,
+      "word": "喻言追着彩带满场跑",
+      "onboard_time": 1698541833,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 125410,
@@ -72289,6 +72521,14 @@
       "onboard_time": 1697275293,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122306,
+      "num": 122306,
+      "word": "iPhone15",
+      "onboard_time": 1698536004,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 122250,
@@ -73473,6 +73713,14 @@
       "onboard_time": 1697803712,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112912,
+      "num": 112912,
+      "word": "2023成都马拉松3.5万人开跑",
+      "onboard_time": 1698540388,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112862,
@@ -78131,12 +78379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45144,
-      "num": 45144,
-      "word": "iPhone15",
-      "onboard_time": 1698536004,
-      "rank": 49,
-      "category": "数码"
+      "raw_hot": 45466,
+      "num": 1225246,
+      "word": "向世界展示中国青年的青春力量",
+      "onboard_time": 1698496897,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44848,
@@ -78344,14 +78592,6 @@
       "word": "亚残运会火炬灵感来自玉琮和桂花",
       "onboard_time": 1697720974,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39434,
-      "num": 387439,
-      "word": "向世界展示中国青年的青春力量",
-      "onboard_time": 1698496897,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
