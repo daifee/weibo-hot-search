@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698615225667,
+  "endTime": 1698617698898,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -77625,6 +77625,14 @@
       "onboard_time": 1698299194,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96532,
+      "num": 35722,
+      "word": "现在日本中小学生这么卷了吗",
+      "onboard_time": 1698615254,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 96405,

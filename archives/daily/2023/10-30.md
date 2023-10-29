@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/30 00:21:33 ~ 2023/10/30 05:33:45
+本榜单时间：2023/10/30 00:21:33 ~ 2023/10/30 06:14:58
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ LPL抽签二段笑（热度：99331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97%23" target="weibo">
+现在日本中小学生这么卷了吗（热度：96532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%B2%9A%E6%8E%89%E7%82%B9%23" target="weibo">
 梦岚掉点（热度：90931）
 </a>
@@ -369,14 +375,14 @@ LPL抽签二段笑（热度：99331）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23EDGZmjjKK%20%E8%B7%9F%E6%88%91%E5%85%84%E5%BC%9F%E4%BB%8E%E5%9C%B0%E4%B8%8B%E7%AB%99%E4%B8%8A%23" target="weibo">
-EDGZmjjKK 跟我兄弟从地下站上（热度：15354）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%91%E7%90%BC%E4%B8%B9%E5%90%A6%E8%AE%A4%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E6%98%AF%E8%87%AA%E9%99%8D%E8%BA%AB%E4%BB%B7%23" target="weibo">
+苑琼丹否认直播带货是自降身价（热度：17452）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%91%E7%90%BC%E4%B8%B9%E5%90%A6%E8%AE%A4%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E6%98%AF%E8%87%AA%E9%99%8D%E8%BA%AB%E4%BB%B7%23" target="weibo">
-苑琼丹否认直播带货是自降身价（热度：14870）
+<a href="https://s.weibo.com/weibo?q=%23EDGZmjjKK%20%E8%B7%9F%E6%88%91%E5%85%84%E5%BC%9F%E4%BB%8E%E5%9C%B0%E4%B8%8B%E7%AB%99%E4%B8%8A%23" target="weibo">
+EDGZmjjKK 跟我兄弟从地下站上（热度：15354）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/10/30 05:33:45
+本榜单时间：2023/10/29 00:19:54 ~ 2023/10/30 06:14:58
 </p>
 </blockquote>
 <p>
@@ -2453,6 +2453,12 @@ THE9演唱会（热度：117076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%8B%89%E6%9D%BE%23" target="weibo">
 马拉松（热度：98893）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97%23" target="weibo">
+现在日本中小学生这么卷了吗（热度：96532）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698615225667,
+  "endTime": 1698617698898,
   "band_list": [
     {
       "raw_hot": 1339169,
@@ -347,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96532,
+      "num": 35722,
+      "word": "现在日本中小学生这么卷了吗",
+      "onboard_time": 1698615254,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 90931,
       "num": 90931,
       "word": "梦岚掉点",
@@ -475,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17452,
+      "num": 17452,
+      "word": "苑琼丹否认直播带货是自降身价",
+      "onboard_time": 1698586596,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15354,
       "num": 16581,
       "word": "EDGZmjjKK 跟我兄弟从地下站上",
       "onboard_time": 1698607275,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14870,
-      "num": 16567,
-      "word": "苑琼丹否认直播带货是自降身价",
-      "onboard_time": 1698586596,
-      "rank": 47,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
