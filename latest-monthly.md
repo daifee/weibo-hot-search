@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 21:33:48
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 22:14:14
 </p>
 </blockquote>
 <p>
@@ -5817,6 +5817,12 @@ WBG两连败（热度：1076997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%85%B7%E6%94%B6%E8%B4%B9%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%981%E5%85%83%E7%9B%B4%E6%8E%A5%E5%B8%A6%E8%B5%B0%23" target="weibo">
+餐具收费大学生付1元直接带走（热度：1069499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%B7%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%88%92%E4%BC%A4%E9%A3%9F%E9%81%93%23" target="weibo">
 被德国面包划伤食道（热度：1069224）
 </a>
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23" target="weibo">
 高校食堂干锅虾28一份有61只虾（热度：1046809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E5%B2%97%E4%BD%8D%23" target="weibo">
-国考岗位（热度：1045983）
 </a>
 </li>
 
