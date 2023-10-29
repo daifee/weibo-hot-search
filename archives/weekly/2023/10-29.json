@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698567582899,
+  "endTime": 1698568458300,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 926607,
-      "num": 392243,
+      "num": 497145,
       "word": "胡彦斌终于拿第一了",
       "onboard_time": 1698564752,
       "rank": 10,
@@ -225,6 +225,14 @@
       "onboard_time": 1698535823,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 728651,
+      "num": 728651,
+      "word": "TheShy太想赢了",
+      "onboard_time": 1698566730,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 696044,
@@ -308,11 +316,19 @@
     },
     {
       "raw_hot": 604944,
-      "num": 440206,
+      "num": 449935,
       "word": "迪丽热巴辛芷蕾第一次见秦岚",
       "onboard_time": 1698563069,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598448,
+      "num": 598448,
+      "word": "WBG生死战",
+      "onboard_time": 1698563192,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 594419,
@@ -321,6 +337,14 @@
       "onboard_time": 1698534558,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592311,
+      "num": 592311,
+      "word": "WBG 蓝方ban霞",
+      "onboard_time": 1698563489,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 585754,
@@ -395,6 +419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 547745,
+      "num": 265349,
+      "word": "24岁小伙闻臭袜子闻出肺部感染",
+      "onboard_time": 1698562890,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536610,
       "num": 514509,
       "word": "陆虎快男时期看张杰非常不顺眼",
@@ -451,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472669,
-      "num": 232836,
-      "word": "24岁小伙闻臭袜子闻出肺部感染",
-      "onboard_time": 1698562890,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469080,
       "num": 469080,
       "word": "权志龙没有被立案",
       "onboard_time": 1698538827,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463595,
+      "num": 463595,
+      "word": "小区没物业67岁阿姨管得井井有条",
+      "onboard_time": 1698563069,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463049,
@@ -481,6 +513,22 @@
       "onboard_time": 1698560251,
       "rank": 35,
       "category": "其它"
+    },
+    {
+      "raw_hot": 453097,
+      "num": 453097,
+      "word": "花花肚子上的苹果堆成小山",
+      "onboard_time": 1698566672,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450095,
+      "num": 450095,
+      "word": "TheShy十倍输出",
+      "onboard_time": 1698567874,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 440489,
@@ -537,22 +585,6 @@
       "onboard_time": 1698553353,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 415483,
-      "num": 415483,
-      "word": "WBG 蓝方ban霞",
-      "onboard_time": 1698563489,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 409102,
-      "num": 409102,
-      "word": "小区没物业67岁阿姨管得井井有条",
-      "onboard_time": 1698563069,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408749,
@@ -739,20 +771,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 284586,
+      "num": 284586,
+      "word": "杭州一中学午餐上了1000只团脐大闸蟹",
+      "onboard_time": 1698567689,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284086,
       "num": 284086,
       "word": "祝绪丹新造型",
       "onboard_time": 1698536846,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 283475,
-      "num": 283475,
-      "word": "WBG生死战",
-      "onboard_time": 1698563192,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 281898,
@@ -825,14 +857,6 @@
       "onboard_time": 1698510631,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256322,
-      "num": 256322,
-      "word": "花花肚子上的苹果堆成小山",
-      "onboard_time": 1698566672,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256184,
@@ -987,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218732,
+      "num": 218732,
+      "word": "老友记官方账号发文悼念钱德勒扮演者",
+      "onboard_time": 1698567630,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211844,
       "num": 211844,
       "word": "狗狗帮主人叼身上的苍耳",
@@ -1027,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204866,
+      "num": 204866,
+      "word": "Deft告别S13",
+      "onboard_time": 1698562890,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204831,
       "num": 202301,
       "word": "虞书欣双马尾有始有终",
@@ -1059,14 +1099,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 202814,
-      "num": 202814,
-      "word": "TheShy太想赢了",
-      "onboard_time": 1698566730,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200231,
       "num": 154354,
       "word": "你觉着爽肤水是智商税吗",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1698535522,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "上海海港vs山东泰山",
+      "onboard_time": 1698567874,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 195507,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1698564632,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189773,
-      "num": 189773,
-      "word": "Deft告别S13",
-      "onboard_time": 1698562890,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 189366,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1698545433,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 178210,
+      "num": 178210,
+      "word": "少年的你哪儿去了豆瓣开分9.9",
+      "onboard_time": 1698568058,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 177747,
@@ -1352,6 +1392,14 @@
       "word": "男子公交上裸露下体偷拍女生",
       "onboard_time": 1698476191,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159395,
+      "num": 159395,
+      "word": "9岁男孩双手捧水喂寺庙流浪猫",
+      "onboard_time": 1698567808,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1515,6 +1563,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138634,
+      "num": 266246,
+      "word": "苹果官旗以旧换新最高补1200元",
+      "onboard_time": 1698567333,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 138054,
+      "num": 138054,
+      "word": "白化病女孩近距离写作业一次没落下",
+      "onboard_time": 1698567752,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135457,
       "num": 135457,
       "word": "我军特种车辆长途运输震撼画面",
@@ -1579,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131120,
+      "num": 131120,
+      "word": "丞磊回应有人夫感",
+      "onboard_time": 1698568172,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131014,
       "num": 131014,
       "word": "出现这些情况可能是脑卒中前兆",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1698555512,
       "rank": 44,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 129332,
+      "num": 129332,
+      "word": "Fy",
+      "onboard_time": 1698565592,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 129221,
@@ -1715,14 +1795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116360,
-      "num": 116360,
-      "word": "Fy",
-      "onboard_time": 1698565592,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116258,
       "num": 116258,
       "word": "她跳进水塘阻止青年在扬子鳄保护区电鱼",
@@ -1779,6 +1851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112291,
+      "num": 112291,
+      "word": "张小斐这段质问戏的爆发力",
+      "onboard_time": 1698567452,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111380,
       "num": 111380,
       "word": "王哲林关键失误",
@@ -1793,14 +1873,6 @@
       "onboard_time": 1698565952,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109088,
-      "num": 109088,
-      "word": "张小斐这段质问戏的爆发力",
-      "onboard_time": 1698567452,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 107448,
@@ -1875,12 +1947,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82615,
-      "num": 103109,
-      "word": "苹果官旗以旧换新最高补1200元",
-      "onboard_time": 1698567333,
-      "rank": 42,
-      "category": "数码"
+      "raw_hot": 81262,
+      "num": 450007,
+      "word": "鸿星尔克支棱起来了",
+      "onboard_time": 1698566551,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 73347,
@@ -1921,14 +1993,6 @@
       "onboard_time": 1698532338,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 51900,
-      "num": 274503,
-      "word": "鸿星尔克支棱起来了",
-      "onboard_time": 1698566551,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 51712,
@@ -2008,6 +2072,14 @@
       "word": "挖机师傅帮老人平土被追着塞水感谢",
       "onboard_time": 1698534079,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29916,
+      "num": 847561,
+      "word": "为陌生人的暖心相助点赞",
+      "onboard_time": 1698567935,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
