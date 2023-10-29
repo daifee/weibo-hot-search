@@ -1,6 +1,411 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698596493278,
-  "band_list": [],
-  "hotgov_list": []
+  "endTime": 1698597347795,
+  "band_list": [
+    {
+      "raw_hot": 1339169,
+      "num": 165732,
+      "word": "万圣节cos李佳琦",
+      "onboard_time": 1698590558,
+      "rank": 10,
+      "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 1083028,
+      "num": 165421,
+      "word": "吴京cos",
+      "onboard_time": 1698592656,
+      "rank": 13,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 949667,
+      "num": 165133,
+      "word": "万圣节cos 全明星律师函",
+      "onboard_time": 1698592236,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 715589,
+      "num": 715589,
+      "word": "英国29岁冰球运动员遭冰刀割喉去世",
+      "onboard_time": 1698590677,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 512172,
+      "num": 512172,
+      "word": "中国驻美大使馆发紧急提醒",
+      "onboard_time": 1698579333,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 378654,
+      "num": 165635,
+      "word": "迪丽热巴有十年没回家了",
+      "onboard_time": 1698589896,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359178,
+      "num": 359178,
+      "word": "白桃星座",
+      "onboard_time": 1698593672,
+      "rank": 3,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 331799,
+      "num": 283396,
+      "word": "哈马斯持续向以色列发射大量火箭弹",
+      "onboard_time": 1698592775,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 321200,
+      "num": 164773,
+      "word": "石矶娘娘cos",
+      "onboard_time": 1698588215,
+      "rank": 19,
+      "category": "动漫,美妆"
+    },
+    {
+      "raw_hot": 309648,
+      "num": 165514,
+      "word": "第一次见这么爱哭的男主",
+      "onboard_time": 1698595110,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 301157,
+      "num": 301157,
+      "word": "餐具收费大学生付1元直接带走",
+      "onboard_time": 1698582455,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 287073,
+      "num": 165368,
+      "word": "何洁减肥大法",
+      "onboard_time": 1698590197,
+      "rank": 14,
+      "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 245763,
+      "num": 245763,
+      "word": "女子花270元订酒店套房竟有会议室",
+      "onboard_time": 1698588877,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238446,
+      "num": 165272,
+      "word": "钱德勒演员死前六天还曾露面",
+      "onboard_time": 1698583893,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232380,
+      "num": 232380,
+      "word": "考公人的精神状态",
+      "onboard_time": 1698592475,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 210584,
+      "num": 164992,
+      "word": "胡一天和我奶能唠一宿",
+      "onboard_time": 1698592835,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201404,
+      "num": 164741,
+      "word": "月薪3万去不起泡泡玛特乐园",
+      "onboard_time": 1698582212,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195798,
+      "num": 164890,
+      "word": "知道为什么这季花少相处这么融洽了",
+      "onboard_time": 1698593794,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192753,
+      "num": 192753,
+      "word": "孙颖莎 破阵",
+      "onboard_time": 1698590017,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181308,
+      "num": 164627,
+      "word": "女生脚疼日本医院要手术回国查是鸡眼",
+      "onboard_time": 1698585093,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170894,
+      "num": 164499,
+      "word": "叶舒华短发",
+      "onboard_time": 1698586115,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 165793,
+      "num": 165793,
+      "word": "李克强同志逝世",
+      "onboard_time": 1698365932,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 164451,
+      "num": 164451,
+      "word": "万圣节cos甄嬛醉酒",
+      "onboard_time": 1698592475,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 162785,
+      "num": 162785,
+      "word": "25岁女孩为自己办葬礼请朋友吃席",
+      "onboard_time": 1698574412,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145506,
+      "num": 145506,
+      "word": "权顺荣和粉丝牵手",
+      "onboard_time": 1698592536,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 144714,
+      "num": 144714,
+      "word": "魏晨 分身情人",
+      "onboard_time": 1698572850,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139643,
+      "num": 139643,
+      "word": "WBG什么运气",
+      "onboard_time": 1698582933,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 134712,
+      "num": 134712,
+      "word": "万圣节cos乙方",
+      "onboard_time": 1698587072,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 128328,
+      "num": 128328,
+      "word": "警方称权志龙被确认的证据不具体",
+      "onboard_time": 1698573329,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119581,
+      "num": 119581,
+      "word": "王栎鑫五公第一",
+      "onboard_time": 1698579456,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112208,
+      "num": 112208,
+      "word": "仲溪午答应娶妻",
+      "onboard_time": 1698591097,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112067,
+      "num": 112067,
+      "word": "上海版王菲那英",
+      "onboard_time": 1698585212,
+      "rank": 32,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 110821,
+      "num": 110821,
+      "word": "万梗节",
+      "onboard_time": 1698595653,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109974,
+      "num": 109974,
+      "word": "原来幼年宇文拓是张逸杰演的",
+      "onboard_time": 1698594992,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 105692,
+      "num": 105692,
+      "word": "以爱为营泰国将播出",
+      "onboard_time": 1698597027,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103274,
+      "num": 103274,
+      "word": "王嘉尔说自己和王嘉尔长得特别像",
+      "onboard_time": 1698585815,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102723,
+      "num": 102723,
+      "word": "久坐再也别想累丑了",
+      "onboard_time": 1698591034,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 101811,
+      "num": 101811,
+      "word": "被拐走21年的女儿回家了",
+      "onboard_time": 1698589057,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99331,
+      "num": 99331,
+      "word": "LPL抽签二段笑",
+      "onboard_time": 1698586474,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98572,
+      "num": 98572,
+      "word": "上海万圣节",
+      "onboard_time": 1698590615,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90931,
+      "num": 90931,
+      "word": "梦岚掉点",
+      "onboard_time": 1698596729,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89611,
+      "num": 89611,
+      "word": "何炅标注了花少每个人的名字",
+      "onboard_time": 1698573932,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87670,
+      "num": 87670,
+      "word": "马修拍老友记是为获得妈妈关注",
+      "onboard_time": 1698591817,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79000,
+      "num": 79000,
+      "word": "沃特斯打到张镇麟脸部",
+      "onboard_time": 1698593015,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76678,
+      "num": 76678,
+      "word": "马嘉祺喊哥发现店员比自己小的反应",
+      "onboard_time": 1698580476,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73198,
+      "num": 73198,
+      "word": "女生去温州同学家发现厕所藏衣柜里",
+      "onboard_time": 1698571655,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73191,
+      "num": 73191,
+      "word": "王亚飞给虞书欣化的舞台妆",
+      "onboard_time": 1698581858,
+      "rank": 47,
+      "category": "演出,美妆"
+    },
+    {
+      "raw_hot": 71784,
+      "num": 71784,
+      "word": "宋亚轩严浩翔张真源版燃冬",
+      "onboard_time": 1698588398,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71602,
+      "num": 71602,
+      "word": "钱德勒的底色",
+      "onboard_time": 1698591218,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19629,
+      "num": 381901,
+      "word": "杭州亚残运这些画面好戳泪点",
+      "onboard_time": 1698586596,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  ]
 }
