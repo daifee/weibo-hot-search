@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/10/30 02:34:21
+本榜单时间：2023/10/29 00:19:54 ~ 2023/10/30 03:13:26
 </p>
 </blockquote>
 <p>
@@ -1983,6 +1983,12 @@ WTT（热度：146071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23" target="weibo">
+商店店员被曝当街用开水烫杀狗（热度：144082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E6%9B%BC%E5%9F%8E%23" target="weibo">
 曼联vs曼城（热度：143027）
 </a>
@@ -2517,8 +2523,8 @@ THE9演唱会（热度：117076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23" target="weibo">
-商店店员被曝当街用开水烫杀狗（热度：55694）
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88%E8%A1%A5%E5%9B%9E%E6%9D%A5%23" target="weibo">
+熬夜吃什么补回来（热度：55866）
 </a>
 </li>
 
@@ -2585,12 +2591,6 @@ DOTA2（热度：50427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%97%A9cp%E6%9C%80%E9%81%A5%E8%BF%9C%E7%9A%84%E8%B7%9D%E7%A6%BB%23" target="weibo">
 古早cp最遥远的距离（热度：38535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88%E8%A1%A5%E5%9B%9E%E6%9D%A5%23" target="weibo">
-熬夜吃什么补回来（热度：34064）
 </a>
 </li>
 

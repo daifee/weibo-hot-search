@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/30 00:21:33 ~ 2023/10/30 02:34:21
+本榜单时间：2023/10/30 00:21:33 ~ 2023/10/30 03:13:26
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23" target="weibo">
+商店店员被曝当街用开水烫杀狗（热度：144082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%87%B4%E6%AD%89%23" target="weibo">
 深圳欢乐谷致歉（热度：139674）
 </a>
@@ -321,8 +327,8 @@ LPL抽签二段笑（热度：99331）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23" target="weibo">
-商店店员被曝当街用开水烫杀狗（热度：55694）
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88%E8%A1%A5%E5%9B%9E%E6%9D%A5%23" target="weibo">
+熬夜吃什么补回来（热度：55866）
 </a>
 </li>
 
@@ -341,12 +347,6 @@ LPL抽签二段笑（热度：99331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%B8%85%E8%9E%8D%E4%B8%80%E8%B5%B7%E5%85%B3%E6%B3%A8%E7%BD%95%E8%A7%81%E7%97%85%23" target="weibo">
 和清融一起关注罕见病（热度：47360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88%E8%A1%A5%E5%9B%9E%E6%9D%A5%23" target="weibo">
-熬夜吃什么补回来（热度：34064）
 </a>
 </li>
 
