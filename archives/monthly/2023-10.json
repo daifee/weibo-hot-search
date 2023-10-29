@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698608045716,
+  "endTime": 1698610616213,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -81665,6 +81665,14 @@
       "onboard_time": 1696625954,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 25957,
+      "num": 20283,
+      "word": "律师分析权志龙否认吸毒原因",
+      "onboard_time": 1698610094,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 25815,
