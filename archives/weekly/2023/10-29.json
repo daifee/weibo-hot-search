@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698583539923,
+  "endTime": 1698585528921,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1021471,
+      "num": 1021471,
+      "word": "WBG什么运气",
+      "onboard_time": 1698582933,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1008529,
       "num": 1008529,
       "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
@@ -259,19 +267,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 858127,
+      "num": 307513,
+      "word": "港媒曝苑琼丹暂时息影",
+      "onboard_time": 1698584613,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 849158,
       "num": 849158,
       "word": "BLG战胜G2",
       "onboard_time": 1698579034,
       "rank": 5,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 846265,
-      "num": 846265,
-      "word": "WBG什么运气",
-      "onboard_time": 1698582933,
-      "rank": 4,
       "category": "电竞"
     },
     {
@@ -385,6 +393,14 @@
       "onboard_time": 1698548191,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 692334,
+      "num": 299807,
+      "word": "月薪3万去不起泡泡玛特乐园",
+      "onboard_time": 1698582212,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690247,
@@ -595,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551830,
-      "num": 299807,
-      "word": "月薪3万去不起泡泡玛特乐园",
-      "onboard_time": 1698582212,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551423,
       "num": 551423,
       "word": "加沙地带经历迄今为止最严重轰炸",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517303,
+      "num": 517303,
+      "word": "餐具收费大学生付1元直接带走",
+      "onboard_time": 1698582455,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 502659,
       "num": 502659,
       "word": "练八段锦不能不知道的小细节",
@@ -659,12 +675,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 497905,
+      "num": 296731,
+      "word": "张小斐 小烟熏妆",
+      "onboard_time": 1698583834,
+      "rank": 13,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 496240,
       "num": 351548,
       "word": "李善均全慧珍紧急送小儿子出国",
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491865,
+      "num": 310210,
+      "word": "武林外传演员今昔对比",
+      "onboard_time": 1698582093,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 484480,
@@ -683,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474468,
+      "num": 195607,
+      "word": "钱德勒演员死前六天还曾露面",
+      "onboard_time": 1698583893,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469080,
       "num": 469080,
       "word": "权志龙没有被立案",
@@ -697,6 +737,14 @@
       "onboard_time": 1698571290,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465758,
+      "num": 465758,
+      "word": "王楚钦3比0高承睿",
+      "onboard_time": 1698584915,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 463595,
@@ -737,14 +785,6 @@
       "onboard_time": 1698581858,
       "rank": 17,
       "category": "演出,美妆"
-    },
-    {
-      "raw_hot": 452110,
-      "num": 310210,
-      "word": "武林外传演员今昔对比",
-      "onboard_time": 1698582093,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 450095,
@@ -833,6 +873,14 @@
       "onboard_time": 1698552693,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405175,
+      "num": 405175,
+      "word": "法国赛陈雨菲女单夺冠",
+      "onboard_time": 1698584434,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 384885,
@@ -1003,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306245,
+      "num": 268718,
+      "word": "女生脚疼日本医院要手术回国查是鸡眼",
+      "onboard_time": 1698585093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304987,
       "num": 304987,
       "word": "THE9 dumb dumb bomb",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1698561869,
       "rank": 22,
       "category": "动漫,读书作家"
+    },
+    {
+      "raw_hot": 275612,
+      "num": 275612,
+      "word": "上海版王菲那英",
+      "onboard_time": 1698585212,
+      "rank": 19,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 274159,
@@ -1411,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221156,
-      "num": 206165,
-      "word": "餐具收费大学生付1元直接带走",
-      "onboard_time": 1698582455,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 217285,
       "num": 217285,
       "word": "黄子弘凡 音乐节",
@@ -1555,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201343,
+      "num": 194455,
+      "word": "Bin说会赢GEN",
+      "onboard_time": 1698584733,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200231,
       "num": 154354,
       "word": "你觉着爽肤水是智商税吗",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1698581195,
       "rank": 33,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 198909,
+      "num": 198909,
+      "word": "EDG击败TE夺冠",
+      "onboard_time": 1698584555,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 198543,
@@ -1705,6 +1777,14 @@
       "onboard_time": 1698564632,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189697,
+      "num": 189697,
+      "word": "EDGS夺冠",
+      "onboard_time": 1698584974,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 189366,
@@ -1833,6 +1913,22 @@
       "onboard_time": 1698582513,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176209,
+      "num": 176209,
+      "word": "小孩子都懂得一家人要好好说话",
+      "onboard_time": 1698584974,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174342,
+      "num": 174342,
+      "word": "本轮巴以冲突已致双方超9500人死亡",
+      "onboard_time": 1698583655,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 171900,
@@ -1984,6 +2080,14 @@
       "word": "9岁男孩双手捧水喂寺庙流浪猫",
       "onboard_time": 1698567808,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157178,
+      "num": 157178,
+      "word": "深圳欢乐谷过山车事故共接诊28人",
+      "onboard_time": 1698585516,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2161,6 +2265,14 @@
       "onboard_time": 1698491974,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139947,
+      "num": 139947,
+      "word": "MRC 状态",
+      "onboard_time": 1698584794,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 139589,
