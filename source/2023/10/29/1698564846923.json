@@ -1,0 +1,410 @@
+{
+  "runTime": 1698564846923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547673,
+        "num": 1547673,
+        "word": "塔斯汀被曝吃出生鸡肉",
+        "onboard_time": 1698562290,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310230,
+        "num": 1310230,
+        "word": "你支持禁止老头乐吗",
+        "onboard_time": 1698552931,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17242,
+        "num": 777833,
+        "word": "杭州亚残运上那些拼尽全力的身影",
+        "onboard_time": 1698548553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657734,
+        "num": 657734,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 766038,
+        "num": 604737,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698562472,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 506206,
+        "num": 506206,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442319,
+        "num": 442319,
+        "word": "厦门居然有不少人住在湖里",
+        "onboard_time": 1698560251,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 441894,
+        "num": 441894,
+        "word": "谁能想到这是头发而不是蕾丝",
+        "onboard_time": 1698542372,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 399563,
+        "num": 399563,
+        "word": "没有一个孩子会无缘无故就抑郁了",
+        "onboard_time": 1698558211,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 842532,
+        "num": 398258,
+        "word": "深圳欢乐谷回应具体受伤人数",
+        "onboard_time": 1698560311,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926607,
+        "num": 392243,
+        "word": "胡彦斌终于拿第一了",
+        "onboard_time": 1698564752,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747019,
+        "num": 383955,
+        "word": "大胖媳妇拒绝陪丈母娘住院",
+        "onboard_time": 1698559769,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 604944,
+        "num": 376795,
+        "word": "迪丽热巴辛芷蕾第一次见秦岚",
+        "onboard_time": 1698563069,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419996,
+        "num": 370088,
+        "word": "莲花楼为欢瑞带来超2.264亿收入",
+        "onboard_time": 1698561330,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365991,
+        "num": 365991,
+        "word": "WBG 蓝方ban霞",
+        "onboard_time": 1698563489,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 332555,
+        "num": 332555,
+        "word": "FNC对战WBG",
+        "onboard_time": 1698560490,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302978,
+        "num": 302978,
+        "word": "男子参加婚礼随礼600元彩票",
+        "onboard_time": 1698561569,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282747,
+        "num": 282747,
+        "word": "Maybe 玩爽了梦也醒了",
+        "onboard_time": 1698562412,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242281,
+        "num": 242281,
+        "word": "THE9演唱会微指",
+        "onboard_time": 1698562890,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235223,
+        "num": 235223,
+        "word": "小区没物业67岁阿姨管得井井有条",
+        "onboard_time": 1698563069,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728995,
+        "num": 233915,
+        "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
+        "onboard_time": 1698558632,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408817,
+        "num": 232836,
+        "word": "24岁小伙闻臭袜子闻出肺部感染",
+        "onboard_time": 1698562890,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236468,
+        "num": 230279,
+        "word": "何泓姗终于演大女主了",
+        "onboard_time": 1698544711,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226577,
+        "num": 226577,
+        "word": "男子砍人未被罚数月后驾车撞死母子2人",
+        "onboard_time": 1698541533,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218694,
+        "num": 218694,
+        "word": "王安宇高敏感人格吧",
+        "onboard_time": 1698561270,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218571,
+        "num": 218571,
+        "word": "WBG生死战",
+        "onboard_time": 1698563192,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198901,
+        "num": 198901,
+        "word": "柿子拿铁",
+        "onboard_time": 1698558149,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 196549,
+        "word": "阳光玫瑰从300元暴跌到10元",
+        "onboard_time": 1698547952,
+        "rank": 27,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 190132,
+        "num": 190132,
+        "word": "老头乐",
+        "onboard_time": 1698564632,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128931,
+        "num": 187698,
+        "word": "协和医生说喷雾爽肤水不补水",
+        "onboard_time": 1698536545,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187196,
+        "num": 187196,
+        "word": "朴志效 好明亮的生命力啊",
+        "onboard_time": 1698563853,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186697,
+        "num": 186697,
+        "word": "深圳欢乐谷伤者均无生命危险",
+        "onboard_time": 1698563370,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168106,
+        "num": 168106,
+        "word": "郭晶晶聊高山大海式爱情",
+        "onboard_time": 1698561628,
+        "rank": 32,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 154133,
+        "num": 154133,
+        "word": "周也待播现偶男主檀健次林一",
+        "onboard_time": 1698564391,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153586,
+        "num": 153586,
+        "word": "cos张起灵",
+        "onboard_time": 1698561869,
+        "rank": 34,
+        "category": "动漫,读书作家"
+      },
+      {
+        "raw_hot": 144657,
+        "num": 144657,
+        "word": "于正新剧要换妆造",
+        "onboard_time": 1698560130,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139832,
+        "num": 139832,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138964,
+        "num": 138964,
+        "word": "Deft告别S13",
+        "onboard_time": 1698562890,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135329,
+        "num": 135329,
+        "word": "老友记六人组不完整了",
+        "onboard_time": 1698546152,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133589,
+        "num": 133589,
+        "word": "陈哲远19岁到27岁荧幕变化",
+        "onboard_time": 1698559890,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130029,
+        "num": 130029,
+        "word": "小孩哥给小猫喂水",
+        "onboard_time": 1698559769,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 125101,
+        "num": 125101,
+        "word": "你觉着爽肤水是智商税吗",
+        "onboard_time": 1698560550,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118390,
+        "num": 118390,
+        "word": "巴以冲突已超9200人死亡",
+        "onboard_time": 1698544232,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 117160,
+        "num": 117160,
+        "word": "小众且不被理解的爱好",
+        "onboard_time": 1698562111,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116258,
+        "num": 116258,
+        "word": "她跳进水塘阻止青年在扬子鳄保护区电鱼",
+        "onboard_time": 1698561330,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113758,
+        "num": 113758,
+        "word": "普陀山上有位手机守护神",
+        "onboard_time": 1698564752,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 108347,
+        "num": 108347,
+        "word": "单眼皮女生化妆日常",
+        "onboard_time": 1698561209,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106815,
+        "num": 106815,
+        "word": "AR止步TI12四强",
+        "onboard_time": 1698560490,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105943,
+        "num": 105943,
+        "word": "鞠婧祎工作室有图是真发",
+        "onboard_time": 1698555811,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101041,
+        "num": 101041,
+        "word": "周冬雨同款扎发",
+        "onboard_time": 1698553471,
+        "rank": 49,
+        "category": "美妆,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识#"
+    }
+  }
+}

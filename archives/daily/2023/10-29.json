@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698563690525,
+  "endTime": 1698564846923,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -56,6 +56,14 @@
       "word": "男子砍人未被罚数月后驾车撞死母子2人",
       "onboard_time": 1698541533,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1547673,
+      "num": 1547673,
+      "word": "塔斯汀被曝吃出生鸡肉",
+      "onboard_time": 1698562290,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926607,
+      "num": 392243,
+      "word": "胡彦斌终于拿第一了",
+      "onboard_time": 1698564752,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 889105,
       "num": 608014,
       "word": "巴以冲突已超9200人死亡",
@@ -203,7 +219,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 727832,
+      "raw_hot": 747019,
       "num": 451312,
       "word": "大胖媳妇拒绝陪丈母娘住院",
       "onboard_time": 1698559769,
@@ -241,14 +257,6 @@
       "onboard_time": 1698492995,
       "rank": 12,
       "category": "艺人,演出"
-    },
-    {
-      "raw_hot": 656375,
-      "num": 656375,
-      "word": "塔斯汀被曝吃出生鸡肉",
-      "onboard_time": 1698562290,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638131,
@@ -299,7 +307,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 601448,
+      "raw_hot": 604944,
       "num": 440206,
       "word": "迪丽热巴辛芷蕾第一次见秦岚",
       "onboard_time": 1698563069,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419996,
+      "num": 370088,
+      "word": "莲花楼为欢瑞带来超2.264亿收入",
+      "onboard_time": 1698561330,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419953,
       "num": 350548,
       "word": "大学生用遮瑕把自己涂成阿凡达",
@@ -523,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 408817,
+      "num": 232836,
+      "word": "24岁小伙闻臭袜子闻出肺部感染",
+      "onboard_time": 1698562890,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
@@ -545,14 +569,6 @@
       "onboard_time": 1698553471,
       "rank": 14,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 369742,
-      "num": 369742,
-      "word": "莲花楼为欢瑞带来超2.264亿收入",
-      "onboard_time": 1698561330,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 365752,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 319729,
-      "num": 165813,
+      "num": 282747,
       "word": "Maybe 玩爽了梦也醒了",
       "onboard_time": 1698562412,
       "rank": 30,
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302978,
+      "num": 302978,
+      "word": "男子参加婚礼随礼600元彩票",
+      "onboard_time": 1698561569,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297447,
       "num": 297447,
       "word": "AR晋级TI12败者组半决赛",
@@ -705,14 +729,6 @@
       "onboard_time": 1698507215,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 284321,
-      "num": 284321,
-      "word": "男子参加婚礼随礼600元彩票",
-      "onboard_time": 1698561569,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284086,
@@ -851,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242281,
+      "num": 242281,
+      "word": "THE9演唱会微指",
+      "onboard_time": 1698562890,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239960,
       "num": 239960,
       "word": "张大仙 欢迎来到王者荣耀",
@@ -881,6 +905,14 @@
       "onboard_time": 1698506857,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 235223,
+      "num": 235223,
+      "word": "小区没物业67岁阿姨管得井井有条",
+      "onboard_time": 1698563069,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231968,
@@ -929,14 +961,6 @@
       "onboard_time": 1698554728,
       "rank": 26,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 225498,
-      "num": 225498,
-      "word": "THE9演唱会微指",
-      "onboard_time": 1698562890,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 225450,
@@ -1051,14 +1075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197024,
-      "num": 197024,
-      "word": "24岁小伙闻臭袜子闻出肺部感染",
-      "onboard_time": 1698562890,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195507,
       "num": 195507,
       "word": "网友拍到和谐号和复兴号飙车",
@@ -1115,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190132,
+      "num": 190132,
+      "word": "老头乐",
+      "onboard_time": 1698564632,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189773,
       "num": 189773,
       "word": "Deft告别S13",
@@ -1131,12 +1155,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187196,
+      "num": 187196,
+      "word": "朴志效 好明亮的生命力啊",
+      "onboard_time": 1698563853,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186906,
       "num": 186906,
       "word": "你们东北人全员e人",
       "onboard_time": 1698553951,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186697,
+      "num": 186697,
+      "word": "深圳欢乐谷伤者均无生命危险",
+      "onboard_time": 1698563370,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186303,
@@ -1275,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163352,
-      "num": 163352,
-      "word": "小区没物业67岁阿姨管得井井有条",
-      "onboard_time": 1698563069,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162608,
       "num": 162608,
       "word": "13届快男看不见的顶峰再次顶峰相见",
@@ -1320,6 +1352,14 @@
       "word": "斗破苍穹",
       "onboard_time": 1698553052,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154133,
+      "num": 154133,
+      "word": "周也待播现偶男主檀健次林一",
+      "onboard_time": 1698564391,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1377,14 +1417,6 @@
       "onboard_time": 1698543152,
       "rank": 34,
       "category": "美妆,科技"
-    },
-    {
-      "raw_hot": 147278,
-      "num": 147278,
-      "word": "深圳欢乐谷伤者均无生命危险",
-      "onboard_time": 1698563370,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146012,
@@ -1635,12 +1667,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117160,
+      "num": 117160,
+      "word": "小众且不被理解的爱好",
+      "onboard_time": 1698562111,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117076,
       "num": 117076,
       "word": "THE9演唱会",
       "onboard_time": 1698496355,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116258,
+      "num": 116258,
+      "word": "她跳进水塘阻止青年在扬子鳄保护区电鱼",
+      "onboard_time": 1698561330,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116105,
@@ -1675,12 +1723,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 113778,
-      "num": 113778,
-      "word": "小众且不被理解的爱好",
-      "onboard_time": 1698562111,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 113758,
+      "num": 113758,
+      "word": "普陀山上有位手机守护神",
+      "onboard_time": 1698564752,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 113184,
@@ -1899,19 +1947,19 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 17242,
+      "num": 960749,
+      "word": "杭州亚残运上那些拼尽全力的身影",
+      "onboard_time": 1698548553,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14224,
       "num": 19160,
       "word": "消防员救了位超委屈的醉酒老人",
       "onboard_time": 1698531136,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9837,
-      "num": 960749,
-      "word": "杭州亚残运上那些拼尽全力的身影",
-      "onboard_time": 1698548553,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
