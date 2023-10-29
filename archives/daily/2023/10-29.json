@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698554055296,
+  "endTime": 1698556559667,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -17,6 +17,14 @@
       "onboard_time": 1698507514,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1966780,
+      "num": 389626,
+      "word": "向太cos",
+      "onboard_time": 1698554851,
+      "rank": 10,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 1873174,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1536227,
+      "num": 1536227,
+      "word": "阳光玫瑰从300元暴跌到10元",
+      "onboard_time": 1698547952,
+      "rank": 21,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1371291,
       "num": 1371291,
       "word": "如何才能睡出一个好看的头型",
@@ -57,14 +73,6 @@
       "onboard_time": 1698507634,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1337538,
-      "num": 1337538,
-      "word": "阳光玫瑰从300元暴跌到10元",
-      "onboard_time": 1698547952,
-      "rank": 21,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 1124434,
@@ -113,6 +121,14 @@
       "onboard_time": 1698488794,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 859229,
+      "num": 546746,
+      "word": "万圣节 安陵容",
+      "onboard_time": 1698555571,
+      "rank": 4,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 822672,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565632,
+      "num": 565632,
+      "word": "周也恶女这才对味儿嘛",
+      "onboard_time": 1698553471,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559039,
       "num": 559039,
       "word": "一根头发居然能吊起14页PPT",
@@ -299,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533178,
+      "num": 533178,
+      "word": "你支持禁止老头乐吗",
+      "onboard_time": 1698552931,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527700,
       "num": 417682,
       "word": "以爱为营",
@@ -329,6 +361,14 @@
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486550,
+      "num": 486550,
+      "word": "上海万圣节冠军竞争太激烈了",
+      "onboard_time": 1698555331,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 474822,
@@ -403,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377388,
-      "num": 377388,
+      "raw_hot": 407426,
+      "num": 407426,
       "word": "官方通报公司规定私聊微信罚款100",
       "onboard_time": 1698552693,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376583,
+      "num": 376583,
+      "word": "周冬雨同款扎发",
+      "onboard_time": 1698553471,
+      "rank": 14,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 365752,
@@ -427,20 +475,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 360403,
-      "num": 224308,
-      "word": "你支持禁止老头乐吗",
-      "onboard_time": 1698552931,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357587,
       "num": 357587,
       "word": "教师全员竞聘上岗",
       "onboard_time": 1698492995,
       "rank": 9,
       "category": "国内要闻,教育"
+    },
+    {
+      "raw_hot": 349754,
+      "num": 349754,
+      "word": "就没有白敬亭接不了的梗吧",
+      "onboard_time": 1698553591,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 349176,
@@ -475,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327796,
-      "num": 327796,
-      "word": "周冬雨同款扎发",
-      "onboard_time": 1698553471,
-      "rank": 14,
-      "category": "美妆,艺人"
+      "raw_hot": 327456,
+      "num": 327456,
+      "word": "肿眼泡塌鼻子都画这个S型阴影",
+      "onboard_time": 1698553292,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 307658,
@@ -499,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304443,
+      "num": 270430,
+      "word": "鞠婧祎工作室有图是真发",
+      "onboard_time": 1698555811,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297447,
       "num": 297447,
       "word": "AR晋级TI12败者组半决赛",
@@ -513,14 +569,6 @@
       "onboard_time": 1698498576,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 289072,
-      "num": 289072,
-      "word": "周也恶女这才对味儿嘛",
-      "onboard_time": 1698553471,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 286230,
@@ -668,11 +716,19 @@
     },
     {
       "raw_hot": 227210,
-      "num": 227210,
+      "num": 232021,
       "word": "李克强同志逝世",
       "onboard_time": 1698365932,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 227126,
+      "num": 227126,
+      "word": "楼炅择仿妆Liz",
+      "onboard_time": 1698554728,
+      "rank": 26,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 225450,
@@ -683,20 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225077,
-      "num": 225077,
-      "word": "就没有白敬亭接不了的梗吧",
-      "onboard_time": 1698553591,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 208792,
-      "num": 208792,
-      "word": "肿眼泡塌鼻子都画这个S型阴影",
-      "onboard_time": 1698553292,
+      "raw_hot": 220864,
+      "num": 220864,
+      "word": "张小斐新片口碑",
+      "onboard_time": 1698556230,
       "rank": 27,
-      "category": "美妆"
+      "category": "电影"
     },
     {
       "raw_hot": 208497,
@@ -753,6 +801,14 @@
       "onboard_time": 1698535522,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199439,
+      "num": 171516,
+      "word": "上海万圣节祺贵人都来了",
+      "onboard_time": 1698555991,
+      "rank": 30,
+      "category": "休闲,剧集"
     },
     {
       "raw_hot": 195507,
@@ -891,6 +947,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 171734,
+      "num": 171734,
+      "word": "村民拔河式拉回被困轿车",
+      "onboard_time": 1698555991,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 171101,
       "num": 171101,
       "word": "王者荣耀世界6分钟实机演示发布",
@@ -929,6 +993,22 @@
       "onboard_time": 1698551312,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161145,
+      "num": 161145,
+      "word": "微博迎新之夜文案海报",
+      "onboard_time": 1698555212,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 160900,
+      "num": 160900,
+      "word": "枫原万叶",
+      "onboard_time": 1698554911,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 159951,
@@ -1147,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129354,
+      "num": 129354,
+      "word": "大白兔 光与夜之恋",
+      "onboard_time": 1698555512,
+      "rank": 44,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 128216,
       "num": 128216,
       "word": "于适晚安帖",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1698496355,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116105,
+      "num": 116105,
+      "word": "王嘉尔表情是抗拒的",
+      "onboard_time": 1698554072,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 116023,
