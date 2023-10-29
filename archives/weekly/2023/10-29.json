@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698582606560,
+  "endTime": 1698583539923,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -19,20 +19,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2105974,
+      "num": 2105974,
+      "word": "中国驻美大使馆发紧急提醒",
+      "onboard_time": 1698579333,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2060724,
       "num": 2060724,
       "word": "你支持禁止老头乐吗",
       "onboard_time": 1698552931,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2059412,
-      "num": 2059412,
-      "word": "中国驻美大使馆发紧急提醒",
-      "onboard_time": 1698579333,
-      "rank": 0,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2018418,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1286755,
+      "num": 349013,
+      "word": "万圣节cos关晓彤",
+      "onboard_time": 1698579392,
+      "rank": 10,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1253968,
       "num": 430321,
       "word": "警方称权志龙被确认的证据不具体",
@@ -153,14 +161,6 @@
       "onboard_time": 1698580298,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1203330,
-      "num": 349013,
-      "word": "万圣节cos关晓彤",
-      "onboard_time": 1698579392,
-      "rank": 10,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1177180,
@@ -264,6 +264,14 @@
       "word": "BLG战胜G2",
       "onboard_time": 1698579034,
       "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 846265,
+      "num": 846265,
+      "word": "WBG什么运气",
+      "onboard_time": 1698582933,
+      "rank": 4,
       "category": "电竞"
     },
     {
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551830,
+      "num": 299807,
+      "word": "月薪3万去不起泡泡玛特乐园",
+      "onboard_time": 1698582212,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551423,
       "num": 551423,
       "word": "加沙地带经历迄今为止最严重轰炸",
@@ -715,6 +731,22 @@
       "category": "其它"
     },
     {
+      "raw_hot": 452487,
+      "num": 322965,
+      "word": "王亚飞给虞书欣化的舞台妆",
+      "onboard_time": 1698581858,
+      "rank": 17,
+      "category": "演出,美妆"
+    },
+    {
+      "raw_hot": 452110,
+      "num": 310210,
+      "word": "武林外传演员今昔对比",
+      "onboard_time": 1698582093,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 450095,
       "num": 450095,
       "word": "TheShy十倍输出",
@@ -729,14 +761,6 @@
       "onboard_time": 1698529814,
       "rank": 22,
       "category": "时尚,情感"
-    },
-    {
-      "raw_hot": 440109,
-      "num": 322965,
-      "word": "王亚飞给虞书欣化的舞台妆",
-      "onboard_time": 1698581858,
-      "rank": 17,
-      "category": "演出,美妆"
     },
     {
       "raw_hot": 435248,
@@ -843,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358064,
+      "num": 303162,
+      "word": "DRX 我们只能帮到这里了兄弟",
+      "onboard_time": 1698581673,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 357587,
       "num": 357587,
       "word": "教师全员竞聘上岗",
@@ -881,14 +913,6 @@
       "onboard_time": 1698508054,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 344129,
-      "num": 214569,
-      "word": "DRX 我们只能帮到这里了兄弟",
-      "onboard_time": 1698581673,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 338817,
@@ -963,14 +987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 310210,
-      "num": 310210,
-      "word": "武林外传演员今昔对比",
-      "onboard_time": 1698582093,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1698561569,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299242,
+      "num": 299242,
+      "word": "魏晨唱流星雨又来临",
+      "onboard_time": 1698582814,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 297447,
@@ -1387,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221156,
+      "num": 206165,
+      "word": "餐具收费大学生付1元直接带走",
+      "onboard_time": 1698582455,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 217285,
       "num": 217285,
       "word": "黄子弘凡 音乐节",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1698575859,
       "rank": 26,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 209958,
+      "num": 209958,
+      "word": "两个家庭因为一句承诺变成一家人",
+      "onboard_time": 1698582331,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208497,
@@ -1507,6 +1547,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 201569,
+      "num": 201569,
+      "word": "于适对话环球人物",
+      "onboard_time": 1698583113,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200231,
       "num": 154354,
       "word": "你觉着爽肤水是智商税吗",
@@ -1555,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196213,
-      "num": 196213,
-      "word": "月薪3万去不起泡泡玛特乐园",
-      "onboard_time": 1698582212,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196172,
       "num": 196172,
       "word": "日本科学家发现太空中生娃或可行",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1698577113,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193834,
+      "num": 193834,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1698583173,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 193261,
@@ -1776,6 +1824,14 @@
       "word": "中国队2000米混接夺冠",
       "onboard_time": 1698536184,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176535,
+      "num": 176535,
+      "word": "中国女足vs泰国女足",
+      "onboard_time": 1698582513,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2051,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145344,
-      "num": 145344,
-      "word": "两个家庭因为一句承诺变成一家人",
-      "onboard_time": 1698582331,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144995,
       "num": 144995,
       "word": "单眼皮女生化妆日常",
@@ -2112,6 +2160,14 @@
       "word": "田耕纪编剧起诉剧方",
       "onboard_time": 1698491974,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139589,
+      "num": 139589,
+      "word": "梅花红桃",
+      "onboard_time": 1698583414,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -2441,14 +2497,6 @@
       "onboard_time": 1698567452,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116661,
-      "num": 143694,
-      "word": "中国女足vs泰国女足",
-      "onboard_time": 1698582513,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 116258,
