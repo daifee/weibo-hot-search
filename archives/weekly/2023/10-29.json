@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698553174518,
+  "endTime": 1698554055296,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -19,7 +19,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1806926,
+      "raw_hot": 1873174,
       "num": 700042,
       "word": "男朋友说当伴娘就默认分手",
       "onboard_time": 1698550710,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1337538,
+      "num": 1337538,
+      "word": "阳光玫瑰从300元暴跌到10元",
+      "onboard_time": 1698547952,
+      "rank": 21,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1124434,
       "num": 1124434,
       "word": "女子为减肥连吃3月胡萝卜变小橘人",
@@ -89,14 +97,6 @@
       "onboard_time": 1698501216,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 945216,
-      "num": 945216,
-      "word": "阳光玫瑰从300元暴跌到10元",
-      "onboard_time": 1698547952,
-      "rank": 21,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 889105,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527700,
+      "num": 417682,
+      "word": "以爱为营",
+      "onboard_time": 1698551434,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523810,
       "num": 321470,
       "word": "胎儿8斤重产妇要求剖腹产被拒",
@@ -337,14 +345,6 @@
       "onboard_time": 1698538827,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463755,
-      "num": 417682,
-      "word": "以爱为营",
-      "onboard_time": 1698551434,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 463049,
@@ -387,11 +387,27 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 418562,
+      "num": 334895,
+      "word": "丞磊念粉丝大尺度留言的反应",
+      "onboard_time": 1698553353,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
       "onboard_time": 1698525615,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377388,
+      "num": 377388,
+      "word": "官方通报公司规定私聊微信罚款100",
+      "onboard_time": 1698552693,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -409,6 +425,14 @@
       "onboard_time": 1698477634,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 360403,
+      "num": 224308,
+      "word": "你支持禁止老头乐吗",
+      "onboard_time": 1698552931,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357587,
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327796,
+      "num": 327796,
+      "word": "周冬雨同款扎发",
+      "onboard_time": 1698553471,
+      "rank": 14,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
@@ -481,6 +513,14 @@
       "onboard_time": 1698498576,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 289072,
+      "num": 289072,
+      "word": "周也恶女这才对味儿嘛",
+      "onboard_time": 1698553471,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 286230,
@@ -643,6 +683,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225077,
+      "num": 225077,
+      "word": "就没有白敬亭接不了的梗吧",
+      "onboard_time": 1698553591,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208792,
+      "num": 208792,
+      "word": "肿眼泡塌鼻子都画这个S型阴影",
+      "onboard_time": 1698553292,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 208497,
       "num": 208497,
       "word": "王鹤棣大奉打更人剧组合照",
@@ -683,12 +739,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200074,
-      "num": 200074,
-      "word": "官方通报公司规定私聊微信罚款100",
-      "onboard_time": 1698552693,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 202834,
+      "num": 202834,
+      "word": "这是罗文姬奶奶仿妆吧",
+      "onboard_time": 1698552931,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 199530,
@@ -713,6 +769,14 @@
       "onboard_time": 1698506857,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193261,
+      "num": 193261,
+      "word": "陈哲远演的李瓒又燃又虐",
+      "onboard_time": 1698552509,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 193199,
@@ -755,12 +819,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187976,
-      "num": 187976,
-      "word": "陈哲远演的李瓒又燃又虐",
-      "onboard_time": 1698552509,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 186906,
+      "num": 186906,
+      "word": "你们东北人全员e人",
+      "onboard_time": 1698553951,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 186303,
@@ -777,6 +841,22 @@
       "onboard_time": 1698506736,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181659,
+      "num": 181659,
+      "word": "王鹤润出道7年演了25部剧",
+      "onboard_time": 1698553710,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180739,
+      "num": 180739,
+      "word": "5支蜜桃香",
+      "onboard_time": 1698552993,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 179580,
@@ -803,22 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177257,
-      "num": 177257,
-      "word": "你支持禁止老头乐吗",
-      "onboard_time": 1698552931,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173756,
-      "num": 173756,
-      "word": "5支蜜桃香",
-      "onboard_time": 1698552993,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 171900,
       "num": 171900,
       "word": "杨幂沈腾同框",
@@ -832,6 +896,14 @@
       "word": "王者荣耀世界6分钟实机演示发布",
       "onboard_time": 1698540212,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170960,
+      "num": 170960,
+      "word": "低频",
+      "onboard_time": 1698553951,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -873,6 +945,14 @@
       "onboard_time": 1698542972,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 154484,
+      "num": 154484,
+      "word": "斗破苍穹",
+      "onboard_time": 1698553052,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 154046,
@@ -939,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145660,
+      "num": 145660,
+      "word": "战友细心帮智力受损消防员穿鞋",
+      "onboard_time": 1698553171,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142943,
       "num": 142943,
       "word": "许佳琪说很有可能是最后一次演唱会",
@@ -969,14 +1057,6 @@
       "onboard_time": 1698486572,
       "rank": 43,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 141268,
-      "num": 141268,
-      "word": "这是罗文姬奶奶仿妆吧",
-      "onboard_time": 1698552931,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 140631,
@@ -1075,14 +1155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125673,
-      "num": 125673,
-      "word": "斗破苍穹",
-      "onboard_time": 1698553052,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125630,
       "num": 125630,
       "word": "喻言追着彩带满场跑",
@@ -1099,7 +1171,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 119655,
+      "raw_hot": 122173,
       "num": 797318,
       "word": "烈士陵园种红星杨是中国式浪漫",
       "onboard_time": 1698548729,
