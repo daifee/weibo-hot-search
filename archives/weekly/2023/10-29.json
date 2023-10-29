@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698546938646,
+  "endTime": 1698549451546,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -41,6 +41,14 @@
       "onboard_time": 1698507634,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1147059,
+      "num": 1147059,
+      "word": "如何才能睡出一个好看的头型",
+      "onboard_time": 1698545134,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 1124434,
@@ -89,6 +97,14 @@
       "onboard_time": 1698488794,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 822672,
+      "num": 595570,
+      "word": "老友记六人组不完整了",
+      "onboard_time": 1698546152,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 793626,
@@ -211,6 +227,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 574371,
+      "num": 574371,
+      "word": "以大使称以色列目前不打算退出联合国",
+      "onboard_time": 1698548191,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 559039,
       "num": 559039,
       "word": "一根头发居然能吊起14页PPT",
@@ -243,19 +267,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532248,
-      "num": 532248,
-      "word": "老友记六人组不完整了",
-      "onboard_time": 1698546152,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 523810,
       "num": 321470,
       "word": "胎儿8斤重产妇要求剖腹产被拒",
       "onboard_time": 1698505537,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503318,
+      "num": 503318,
+      "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
+      "onboard_time": 1698544892,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -273,6 +297,14 @@
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477867,
+      "num": 260130,
+      "word": "阳光玫瑰从300元暴跌到10元",
+      "onboard_time": 1698547952,
+      "rank": 21,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 474822,
@@ -297,14 +329,6 @@
       "onboard_time": 1698502117,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 441581,
-      "num": 441581,
-      "word": "如何才能睡出一个好看的头型",
-      "onboard_time": 1698545134,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 440489,
@@ -379,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 338817,
+      "num": 338817,
+      "word": "檀健次被沈腾踩脚的反应",
+      "onboard_time": 1698548553,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 338255,
       "num": 338255,
       "word": "男性群体超重比例达76.5%",
@@ -395,20 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318844,
-      "num": 318844,
-      "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
-      "onboard_time": 1698544892,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
       "onboard_time": 1698501337,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304987,
+      "num": 304987,
+      "word": "THE9 dumb dumb bomb",
+      "onboard_time": 1698546092,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 297447,
@@ -451,20 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270411,
-      "num": 270411,
-      "word": "THE9 dumb dumb bomb",
-      "onboard_time": 1698546092,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 269556,
       "num": 230402,
       "word": "虞书欣甲片都跳掉了",
       "onboard_time": 1698501034,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268825,
+      "num": 268825,
+      "word": "张杰没看完邓紫棋MV被抓包",
+      "onboard_time": 1698547771,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 264905,
@@ -579,6 +611,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208497,
+      "num": 208497,
+      "word": "王鹤棣大奉打更人剧组合照",
+      "onboard_time": 1698547832,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207085,
+      "num": 207085,
+      "word": "伯恩山犬的脚为什么这么大啊",
+      "onboard_time": 1698547470,
+      "rank": 25,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 205716,
       "num": 205716,
       "word": "王嘉尔在温州参加婚礼",
@@ -593,6 +641,14 @@
       "onboard_time": 1698535522,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195507,
+      "num": 195507,
+      "word": "网友拍到和谐号和复兴号飙车",
+      "onboard_time": 1698545732,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194536,
@@ -611,20 +667,20 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 192328,
-      "num": 192328,
-      "word": "网友拍到和谐号和复兴号飙车",
-      "onboard_time": 1698545732,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191828,
       "num": 191828,
       "word": "林俊杰起风了",
       "onboard_time": 1698502477,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191545,
+      "num": 191545,
+      "word": "埃塞俄比亚选手北马夺冠",
+      "onboard_time": 1698548071,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 191074,
@@ -640,6 +696,22 @@
       "word": "张云龙剥虾",
       "onboard_time": 1698543091,
       "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186303,
+      "num": 186303,
+      "word": "LGD猛犸",
+      "onboard_time": 1698548131,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 182042,
+      "num": 182042,
+      "word": "杨幂四分钟直拍",
+      "onboard_time": 1698548431,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -827,6 +899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134221,
+      "num": 134221,
+      "word": "许佳琪说很有可能是最后一次演唱会",
+      "onboard_time": 1698546033,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132661,
       "num": 132661,
       "word": "河南一小区为防高空坠物布满钢丝网",
@@ -867,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129706,
-      "num": 129706,
-      "word": "许佳琪说很有可能是最后一次演唱会",
-      "onboard_time": 1698546033,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128216,
       "num": 128216,
       "word": "于适晚安帖",
@@ -899,6 +971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119342,
+      "num": 119342,
+      "word": "WBG宵夜第一小分队合影",
+      "onboard_time": 1698546993,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118472,
       "num": 118472,
       "word": "短道速滑",
@@ -921,6 +1001,22 @@
       "onboard_time": 1698496355,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116023,
+      "num": 116023,
+      "word": "董国建西安马拉松夺冠",
+      "onboard_time": 1698549269,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 113830,
+      "num": 113830,
+      "word": "好piu靓的眼妆",
+      "onboard_time": 1698547892,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 113184,
@@ -993,6 +1089,14 @@
       "onboard_time": 1698534980,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69838,
+      "num": 797318,
+      "word": "烈士陵园种红星杨是中国式浪漫",
+      "onboard_time": 1698548729,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67548,

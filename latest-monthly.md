@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 10:35:38
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 11:17:31
 </p>
 </blockquote>
 <p>
@@ -5289,6 +5289,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E7%9D%A1%E5%87%BA%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A4%B4%E5%9E%8B%23" target="weibo">
+如何才能睡出一个好看的头型（热度：1147059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%23" target="weibo">
 军队文职（热度：1146339）
 </a>
@@ -6005,12 +6011,6 @@ HYBE否认防弹少年团吸毒（热度：1052861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
 网友在巴黎偶遇王一博（热度：1034636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%BD%93%E5%9C%BA%E5%9B%9E%E5%BA%94%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E6%BB%A1%23" target="weibo">
-中国代表当场回应以色列不满（热度：1033694）
 </a>
 </li>
 
