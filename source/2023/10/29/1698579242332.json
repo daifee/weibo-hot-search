@@ -1,0 +1,410 @@
+{
+  "runTime": 1698579242332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924366,
+        "num": 924366,
+        "word": "女生去温州同学家发现厕所藏衣柜里",
+        "onboard_time": 1698571655,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379278,
+        "num": 907093,
+        "word": "杭州一中学午餐上了1000只团脐大闸蟹",
+        "onboard_time": 1698567689,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75243,
+        "num": 895812,
+        "word": "这个秋天谢谢你们带来的感动",
+        "onboard_time": 1698568773,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1842606,
+        "num": 874632,
+        "word": "25岁女孩为自己办葬礼请朋友吃席",
+        "onboard_time": 1698574412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322358,
+        "num": 854589,
+        "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
+        "onboard_time": 1698578010,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849158,
+        "num": 849158,
+        "word": "BLG战胜G2",
+        "onboard_time": 1698579034,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 766810,
+        "num": 766810,
+        "word": "福州市委书记称百姓都用自来水泡茶",
+        "onboard_time": 1698575913,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758804,
+        "num": 758804,
+        "word": "女子买生腌蟹食用时发现蟹钳仍在动",
+        "onboard_time": 1698575859,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744636,
+        "num": 744636,
+        "word": "G2对战BLG",
+        "onboard_time": 1698573151,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447096,
+        "num": 447096,
+        "word": "月亮",
+        "onboard_time": 1698573570,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1265839,
+        "num": 432670,
+        "word": "何炅标注了花少每个人的名字",
+        "onboard_time": 1698573932,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 877500,
+        "num": 430321,
+        "word": "警方称权志龙被确认的证据不具体",
+        "onboard_time": 1698573329,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832878,
+        "num": 409081,
+        "word": "魏晨 分身情人",
+        "onboard_time": 1698572850,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 813894,
+        "num": 387315,
+        "word": "陶昕然 请问旁边的是宝鹃吗",
+        "onboard_time": 1698569729,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 637196,
+        "num": 373499,
+        "word": "BLG生死局",
+        "onboard_time": 1698576633,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370271,
+        "num": 370271,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326695,
+        "num": 326695,
+        "word": "塔斯汀被曝吃出生鸡肉",
+        "onboard_time": 1698562290,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208842,
+        "num": 308608,
+        "word": "妈妈带锅开车2小时为女儿送排骨",
+        "onboard_time": 1698577713,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292179,
+        "num": 292179,
+        "word": "周杰伦 止战之殇",
+        "onboard_time": 1698573151,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291044,
+        "num": 291044,
+        "word": "广东男子骑共享单车遭突然锁死",
+        "onboard_time": 1698573932,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448721,
+        "num": 281557,
+        "word": "30岁小伙婚前查出癌症切睾丸求生",
+        "onboard_time": 1698572612,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195215,
+        "num": 269735,
+        "word": "小区没物业67岁阿姨管得井井有条",
+        "onboard_time": 1698563069,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266715,
+        "num": 266715,
+        "word": "十个勤天",
+        "onboard_time": 1698574412,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247156,
+        "num": 247156,
+        "word": "管泽元",
+        "onboard_time": 1698578614,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244580,
+        "num": 244580,
+        "word": "WBG晋级八强",
+        "onboard_time": 1698569131,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241947,
+        "num": 241947,
+        "word": "烬相思",
+        "onboard_time": 1698578558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241648,
+        "num": 241648,
+        "word": "陈哲远你在对你的帅脸做什么",
+        "onboard_time": 1698576393,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231960,
+        "num": 231960,
+        "word": "少年的你哪儿去了豆瓣开分9.9",
+        "onboard_time": 1698568058,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216602,
+        "num": 216602,
+        "word": "武磊哭了",
+        "onboard_time": 1698575372,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125698,
+        "num": 203256,
+        "word": "花花肚子上的苹果堆成小山",
+        "onboard_time": 1698566672,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201652,
+        "num": 201652,
+        "word": "LPL首次四支队伍进八强",
+        "onboard_time": 1698579155,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199991,
+        "num": 199991,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193885,
+        "num": 193885,
+        "word": "张雨绮新中式造型",
+        "onboard_time": 1698577113,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193845,
+        "num": 193845,
+        "word": "温州将迎来一波大型个人演唱会",
+        "onboard_time": 1698577832,
+        "rank": 33,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 193353,
+        "num": 193353,
+        "word": "DK",
+        "onboard_time": 1698571052,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184382,
+        "num": 184382,
+        "word": "秦岚但凡少说两句嗓子早好了",
+        "onboard_time": 1698571593,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179802,
+        "num": 179802,
+        "word": "马嘉祺吃鳗鱼去了",
+        "onboard_time": 1698575859,
+        "rank": 36,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 175811,
+        "num": 175811,
+        "word": "日本科学家发现太空中生娃或可行",
+        "onboard_time": 1698578312,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 174986,
+        "num": 174986,
+        "word": "胡彦斌终于拿第一了",
+        "onboard_time": 1698564752,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167024,
+        "num": 167024,
+        "word": "仲溪午哭戏含泪下跪",
+        "onboard_time": 1698578972,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155037,
+        "num": 155037,
+        "word": "TheShy十倍输出",
+        "onboard_time": 1698567874,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147746,
+        "num": 147746,
+        "word": "Bin贾克斯辐射全场",
+        "onboard_time": 1698573209,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142258,
+        "num": 142258,
+        "word": "苦练30余年后99岁老人加入中国书协",
+        "onboard_time": 1698574770,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140785,
+        "num": 140785,
+        "word": "你支持禁止老头乐吗",
+        "onboard_time": 1698552931,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135983,
+        "num": 135983,
+        "word": "苏醒 你最醒目",
+        "onboard_time": 1698577954,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132852,
+        "num": 132852,
+        "word": "感受到了仲溪午的崩溃",
+        "onboard_time": 1698574833,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132671,
+        "num": 132671,
+        "word": "WBG战胜FNC",
+        "onboard_time": 1698569192,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128687,
+        "num": 128687,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125812,
+        "num": 125812,
+        "word": "24岁小伙闻臭袜子闻出肺部感染",
+        "onboard_time": 1698562890,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125371,
+        "num": 125371,
+        "word": "女生拍到最美山峰南迦巴瓦日照金山",
+        "onboard_time": 1698579034,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698577991365,
+  "endTime": 1698579242332,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -2700,7 +2700,7 @@
     },
     {
       "raw_hot": 1946128,
-      "num": 386569,
+      "num": 387315,
       "word": "陶昕然 请问旁边的是宝鹃吗",
       "onboard_time": 1698569729,
       "rank": 10,
@@ -3065,6 +3065,14 @@
       "onboard_time": 1698301475,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1842606,
+      "num": 874632,
+      "word": "25岁女孩为自己办葬礼请朋友吃席",
+      "onboard_time": 1698574412,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1841521,
@@ -3865,14 +3873,6 @@
       "onboard_time": 1696387899,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1657431,
-      "num": 757255,
-      "word": "25岁女孩为自己办葬礼请朋友吃席",
-      "onboard_time": 1698574412,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1656190,
@@ -4948,7 +4948,7 @@
     },
     {
       "raw_hot": 1463158,
-      "num": 421776,
+      "num": 432670,
       "word": "何炅标注了花少每个人的名字",
       "onboard_time": 1698573932,
       "rank": 16,
@@ -6380,7 +6380,7 @@
     },
     {
       "raw_hot": 1253968,
-      "num": 406259,
+      "num": 430321,
       "word": "警方称权志龙被确认的证据不具体",
       "onboard_time": 1698573329,
       "rank": 11,
@@ -10691,6 +10691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 849158,
+      "num": 849158,
+      "word": "BLG战胜G2",
+      "onboard_time": 1698579034,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 848490,
       "num": 749749,
       "word": "孙颖莎说遗憾是前进的动力",
@@ -10969,6 +10977,14 @@
       "onboard_time": 1697899417,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832878,
+      "num": 409081,
+      "word": "魏晨 分身情人",
+      "onboard_time": 1698572850,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 832433,
@@ -12395,6 +12411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766810,
+      "num": 766810,
+      "word": "福州市委书记称百姓都用自来水泡茶",
+      "onboard_time": 1698575913,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766247,
       "num": 640984,
       "word": "巴以冲突已致双方超2800人死亡",
@@ -12497,6 +12521,14 @@
       "onboard_time": 1697365294,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 758804,
+      "num": 758804,
+      "word": "女子买生腌蟹食用时发现蟹钳仍在动",
+      "onboard_time": 1698575859,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758341,
@@ -12809,6 +12841,14 @@
       "onboard_time": 1696682800,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 744636,
+      "num": 744636,
+      "word": "G2对战BLG",
+      "onboard_time": 1698573151,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 744588,
@@ -13489,14 +13529,6 @@
       "onboard_time": 1697075854,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 714374,
-      "num": 379137,
-      "word": "魏晨 分身情人",
-      "onboard_time": 1698572850,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 713923,
@@ -14635,14 +14667,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 668473,
-      "num": 357274,
-      "word": "女子买生腌蟹食用时发现蟹钳仍在动",
-      "onboard_time": 1698575859,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 668157,
       "num": 668157,
       "word": "王者荣耀仍居中国手游收入榜首",
@@ -14788,7 +14812,7 @@
     },
     {
       "raw_hot": 661507,
-      "num": 268829,
+      "num": 281557,
       "word": "30岁小伙婚前查出癌症切睾丸求生",
       "onboard_time": 1698572612,
       "rank": 21,
@@ -15515,6 +15539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637196,
+      "num": 477565,
+      "word": "BLG生死局",
+      "onboard_time": 1698576633,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 637180,
       "num": 637180,
       "word": "哪吒2要来了",
@@ -16233,14 +16265,6 @@
       "onboard_time": 1696123771,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 619492,
-      "num": 343211,
-      "word": "福州市委书记称百姓都用自来水泡茶",
-      "onboard_time": 1698575913,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619428,
@@ -18561,14 +18585,6 @@
       "onboard_time": 1696857033,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 557901,
-      "num": 557901,
-      "word": "G2对战BLG",
-      "onboard_time": 1698573151,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 557524,
@@ -22297,14 +22313,6 @@
       "onboard_time": 1697335353,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 477565,
-      "num": 477565,
-      "word": "BLG生死局",
-      "onboard_time": 1698576633,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 477242,
@@ -33795,6 +33803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 322358,
+      "num": 854589,
+      "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
+      "onboard_time": 1698578010,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322352,
       "num": 322352,
       "word": "1020魔咒",
@@ -37075,6 +37091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 292179,
+      "num": 292179,
+      "word": "周杰伦 止战之殇",
+      "onboard_time": 1698573151,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 292162,
       "num": 292162,
       "word": "何运晨为张纯烨的专业性鼓掌",
@@ -37249,6 +37273,14 @@
       "onboard_time": 1696344160,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 291044,
+      "num": 291044,
+      "word": "广东男子骑共享单车遭突然锁死",
+      "onboard_time": 1698573932,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290983,
@@ -37992,14 +38024,6 @@
       "word": "你多久更换一次床上用品",
       "onboard_time": 1696125512,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286468,
-      "num": 286468,
-      "word": "广东男子骑共享单车遭突然锁死",
-      "onboard_time": 1698573932,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -40409,14 +40433,6 @@
       "onboard_time": 1696919555,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269657,
-      "num": 269657,
-      "word": "周杰伦 止战之殇",
-      "onboard_time": 1698573151,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 269546,
@@ -43963,6 +43979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247156,
+      "num": 247156,
+      "word": "管泽元",
+      "onboard_time": 1698578614,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247114,
       "num": 247114,
       "word": "鹿晗侧颜鲨我",
@@ -44889,6 +44913,14 @@
       "onboard_time": 1697811215,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241947,
+      "num": 241947,
+      "word": "烬相思",
+      "onboard_time": 1698578558,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 241946,
@@ -49747,6 +49779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216602,
+      "num": 216602,
+      "word": "武磊哭了",
+      "onboard_time": 1698575372,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216581,
       "num": 216581,
       "word": "恐怖钢管舞",
@@ -50819,14 +50859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211632,
-      "num": 211632,
-      "word": "武磊哭了",
-      "onboard_time": 1698575372,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211537,
       "num": 211537,
       "word": "王楚钦四冠王",
@@ -51457,6 +51489,14 @@
       "onboard_time": 1697508872,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208842,
+      "num": 308608,
+      "word": "妈妈带锅开车2小时为女儿送排骨",
+      "onboard_time": 1698577713,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208809,
@@ -53905,6 +53945,14 @@
       "onboard_time": 1697455532,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201652,
+      "num": 201652,
+      "word": "LPL首次四支队伍进八强",
+      "onboard_time": 1698579155,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 201651,
@@ -56603,6 +56651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 193885,
+      "num": 193885,
+      "word": "张雨绮新中式造型",
+      "onboard_time": 1698577113,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193877,
       "num": 193877,
       "word": "九尾的狸梦乐园",
@@ -57425,14 +57481,6 @@
       "onboard_time": 1697442574,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191775,
-      "num": 191775,
-      "word": "张雨绮新中式造型",
-      "onboard_time": 1698577113,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191732,
@@ -61995,6 +62043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175811,
+      "num": 175811,
+      "word": "日本科学家发现太空中生娃或可行",
+      "onboard_time": 1698578312,
+      "rank": 37,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 175770,
       "num": 175770,
       "word": "林双挖人",
@@ -64169,6 +64225,14 @@
       "onboard_time": 1698126637,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167024,
+      "num": 167024,
+      "word": "仲溪午哭戏含泪下跪",
+      "onboard_time": 1698578972,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 167008,
@@ -68723,6 +68787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147746,
+      "num": 147746,
+      "word": "Bin贾克斯辐射全场",
+      "onboard_time": 1698573209,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147739,
       "num": 211410,
       "word": "J罗凌空破门",
@@ -71283,6 +71355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135983,
+      "num": 135983,
+      "word": "苏醒 你最醒目",
+      "onboard_time": 1698577954,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135957,
       "num": 141766,
       "word": "卡卡中国行",
@@ -71905,6 +71985,14 @@
       "onboard_time": 1697361095,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132852,
+      "num": 132852,
+      "word": "感受到了仲溪午的崩溃",
+      "onboard_time": 1698574833,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 132801,
@@ -73411,6 +73499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125371,
+      "num": 125371,
+      "word": "女生拍到最美山峰南迦巴瓦日照金山",
+      "onboard_time": 1698579034,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125369,
       "num": 124388,
       "word": "板栗焖饭",
@@ -73713,14 +73809,6 @@
       "onboard_time": 1697899297,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123290,
-      "num": 123290,
-      "word": "感受到了仲溪午的崩溃",
-      "onboard_time": 1698574833,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 123287,
@@ -74201,14 +74289,6 @@
       "onboard_time": 1698384336,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119892,
-      "num": 119892,
-      "word": "妈妈带锅开车2小时为女儿送排骨",
-      "onboard_time": 1698577713,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119891,
@@ -75721,14 +75801,6 @@
       "onboard_time": 1696116444,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 107222,
-      "num": 107222,
-      "word": "苏醒 你最醒目",
-      "onboard_time": 1698577954,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 107221,
@@ -77705,14 +77777,6 @@
       "onboard_time": 1696718118,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81649,
-      "num": 81649,
-      "word": "Bin贾克斯辐射全场",
-      "onboard_time": 1698573209,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 81493,

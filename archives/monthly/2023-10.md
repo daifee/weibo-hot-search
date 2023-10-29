@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 19:13:11
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 19:34:02
 </p>
 </blockquote>
 <p>
@@ -2313,6 +2313,12 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%8A%9E%E8%91%AC%E7%A4%BC%E8%AF%B7%E6%9C%8B%E5%8F%8B%E5%90%83%E5%B8%AD%23" target="weibo">
+25岁女孩为自己办葬礼请朋友吃席（热度：1842606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87100%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C%23" target="weibo">
 林雨薇100米栏金牌（热度：1841521）
 </a>
@@ -2909,12 +2915,6 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A4%E6%A9%98%E5%AD%90%20%E6%85%A2%E6%80%A7%E5%92%BD%E7%82%8E%23" target="weibo">
 烤橘子 慢性咽炎（热度：1657558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%8A%9E%E8%91%AC%E7%A4%BC%E8%AF%B7%E6%9C%8B%E5%8F%8B%E5%90%83%E5%B8%AD%23" target="weibo">
-25岁女孩为自己办葬礼请朋友吃席（热度：1657431）
 </a>
 </li>
 
