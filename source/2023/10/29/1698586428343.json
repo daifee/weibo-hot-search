@@ -1,0 +1,410 @@
+{
+  "runTime": 1698586428343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1518685,
+        "num": 1518685,
+        "word": "中国驻美大使馆发紧急提醒",
+        "onboard_time": 1698579333,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 917133,
+        "num": 917133,
+        "word": "WBG什么运气",
+        "onboard_time": 1698582933,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 5264,
+        "num": 787258,
+        "word": "海上油气平台用上了中国心",
+        "onboard_time": 1698586413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715450,
+        "num": 715450,
+        "word": "餐具收费大学生付1元直接带走",
+        "onboard_time": 1698582455,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 509218,
+        "num": 509218,
+        "word": "深圳欢乐谷过山车事故共接诊28人",
+        "onboard_time": 1698585516,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417366,
+        "num": 417366,
+        "word": "王楚钦3比0高承睿",
+        "onboard_time": 1698584915,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388050,
+        "num": 388050,
+        "word": "KT 地狱副本",
+        "onboard_time": 1698580298,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380513,
+        "num": 380513,
+        "word": "女子买生腌蟹食用时发现蟹钳仍在动",
+        "onboard_time": 1698575859,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351168,
+        "num": 351168,
+        "word": "法国赛陈雨菲女单夺冠",
+        "onboard_time": 1698584434,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282267,
+        "num": 282267,
+        "word": "女生去温州同学家发现厕所藏衣柜里",
+        "onboard_time": 1698571655,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203917,
+        "num": 280373,
+        "word": "港媒曝苑琼丹暂时息影",
+        "onboard_time": 1698584613,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637423,
+        "num": 278479,
+        "word": "上海版王菲那英",
+        "onboard_time": 1698585212,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 561177,
+        "num": 274400,
+        "word": "何炅标注了花少每个人的名字",
+        "onboard_time": 1698573932,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551025,
+        "num": 272737,
+        "word": "魏晨 分身情人",
+        "onboard_time": 1698572850,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 493423,
+        "num": 271116,
+        "word": "钱德勒演员死前六天还曾露面",
+        "onboard_time": 1698583893,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269148,
+        "num": 269148,
+        "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
+        "onboard_time": 1698578010,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430444,
+        "num": 268822,
+        "word": "张小斐 小烟熏妆",
+        "onboard_time": 1698583834,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 368190,
+        "num": 266314,
+        "word": "武林外传演员今昔对比",
+        "onboard_time": 1698582093,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345997,
+        "num": 264559,
+        "word": "王栎鑫五公第一",
+        "onboard_time": 1698579456,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328174,
+        "num": 262168,
+        "word": "警方称权志龙被确认的证据不具体",
+        "onboard_time": 1698573329,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740957,
+        "num": 258494,
+        "word": "25岁女孩为自己办葬礼请朋友吃席",
+        "onboard_time": 1698574412,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659831,
+        "num": 256364,
+        "word": "月薪3万去不起泡泡玛特乐园",
+        "onboard_time": 1698582212,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497643,
+        "num": 254385,
+        "word": "女生脚疼日本医院要手术回国查是鸡眼",
+        "onboard_time": 1698585093,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61730,
+        "num": 251862,
+        "word": "这个秋天谢谢你们带来的感动",
+        "onboard_time": 1698568773,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441751,
+        "num": 250919,
+        "word": "叶舒华短发",
+        "onboard_time": 1698586115,
+        "rank": 24,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 270665,
+        "num": 249471,
+        "word": "王亚飞给虞书欣化的舞台妆",
+        "onboard_time": 1698581858,
+        "rank": 25,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 247389,
+        "num": 247389,
+        "word": "王嘉尔说自己和王嘉尔长得特别像",
+        "onboard_time": 1698585815,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236285,
+        "num": 236285,
+        "word": "陶昕然 请问旁边的是宝鹃吗",
+        "onboard_time": 1698569729,
+        "rank": 27,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 236180,
+        "num": 236180,
+        "word": "我们的歌",
+        "onboard_time": 1698585693,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209046,
+        "num": 209046,
+        "word": "DRX 我们只能帮到这里了兄弟",
+        "onboard_time": 1698581673,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258992,
+        "num": 204528,
+        "word": "Bin说会赢GEN",
+        "onboard_time": 1698584733,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196662,
+        "num": 196662,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 185863,
+        "num": 185863,
+        "word": "30岁小伙婚前查出癌症切睾丸求生",
+        "onboard_time": 1698572612,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185224,
+        "num": 185224,
+        "word": "马嘉祺喊哥发现店员比自己小的反应",
+        "onboard_time": 1698580476,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179993,
+        "num": 179993,
+        "word": "奶奶家来了好多人唯独少了奶奶",
+        "onboard_time": 1698585934,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170514,
+        "num": 170514,
+        "word": "两个家庭因为一句承诺变成一家人",
+        "onboard_time": 1698582331,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177357,
+        "num": 170373,
+        "word": "魏晨唱流星雨又来临",
+        "onboard_time": 1698582814,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169776,
+        "num": 169776,
+        "word": "陈哲远不像只饿了一天",
+        "onboard_time": 1698585759,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168937,
+        "num": 168937,
+        "word": "大熊猫飞云放了嘴里小鸟一条生路",
+        "onboard_time": 1698585995,
+        "rank": 38,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 164498,
+        "num": 164498,
+        "word": "本轮巴以冲突已致双方超9500人死亡",
+        "onboard_time": 1698583655,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 152208,
+        "num": 152208,
+        "word": "LPL首次四支队伍进八强",
+        "onboard_time": 1698579155,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149663,
+        "num": 149663,
+        "word": "EDG击败TE夺冠",
+        "onboard_time": 1698584555,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141841,
+        "num": 141841,
+        "word": "猫 你最好找我有事",
+        "onboard_time": 1698586055,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 140806,
+        "num": 140806,
+        "word": "EDGS夺冠",
+        "onboard_time": 1698584974,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136017,
+        "num": 136017,
+        "word": "原神哥 好签",
+        "onboard_time": 1698581435,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126237,
+        "num": 126237,
+        "word": "BLG战胜G2",
+        "onboard_time": 1698579034,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122530,
+        "num": 122530,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119782,
+        "num": 119782,
+        "word": "辽宁男篮vs广东男篮",
+        "onboard_time": 1698586295,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119201,
+        "num": 119201,
+        "word": "小孩子都懂得一家人要好好说话",
+        "onboard_time": 1698584974,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112595,
+        "num": 112595,
+        "word": "G2对战BLG",
+        "onboard_time": 1698573151,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698585528921,
+  "endTime": 1698586428343,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -163,6 +163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1203917,
+      "num": 307513,
+      "word": "港媒曝苑琼丹暂时息影",
+      "onboard_time": 1698584613,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1177180,
       "num": 1177180,
       "word": "小虎在干嘛",
@@ -265,14 +273,6 @@
       "onboard_time": 1698488794,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 858127,
-      "num": 307513,
-      "word": "港媒曝苑琼丹暂时息影",
-      "onboard_time": 1698584613,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 849158,
@@ -379,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 715450,
+      "num": 715450,
+      "word": "餐具收费大学生付1元直接带走",
+      "onboard_time": 1698582455,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 696044,
       "num": 696044,
       "word": "万圣节 上海",
@@ -441,6 +449,14 @@
       "onboard_time": 1698509493,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 637423,
+      "num": 278479,
+      "word": "上海版王菲那英",
+      "onboard_time": 1698585212,
+      "rank": 19,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 637196,
@@ -659,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517303,
-      "num": 517303,
-      "word": "餐具收费大学生付1元直接带走",
-      "onboard_time": 1698582455,
-      "rank": 30,
-      "category": "社会新闻,教育"
+      "raw_hot": 509218,
+      "num": 509218,
+      "word": "深圳欢乐谷过山车事故共接诊28人",
+      "onboard_time": 1698585516,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502659,
@@ -683,11 +699,27 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 497643,
+      "num": 268718,
+      "word": "女生脚疼日本医院要手术回国查是鸡眼",
+      "onboard_time": 1698585093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496240,
       "num": 351548,
       "word": "李善均全慧珍紧急送小儿子出国",
       "onboard_time": 1698497555,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493423,
+      "num": 271116,
+      "word": "钱德勒演员死前六天还曾露面",
+      "onboard_time": 1698583893,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -713,14 +745,6 @@
       "onboard_time": 1698540508,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474468,
-      "num": 195607,
-      "word": "钱德勒演员死前六天还曾露面",
-      "onboard_time": 1698583893,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 469080,
@@ -793,6 +817,14 @@
       "onboard_time": 1698567874,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 441751,
+      "num": 250919,
+      "word": "叶舒华短发",
+      "onboard_time": 1698586115,
+      "rank": 24,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 440489,
@@ -1051,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306245,
-      "num": 268718,
-      "word": "女生脚疼日本医院要手术回国查是鸡眼",
-      "onboard_time": 1698585093,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304987,
       "num": 304987,
       "word": "THE9 dumb dumb bomb",
@@ -1187,14 +1211,6 @@
       "category": "动漫,读书作家"
     },
     {
-      "raw_hot": 275612,
-      "num": 275612,
-      "word": "上海版王菲那英",
-      "onboard_time": 1698585212,
-      "rank": 19,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 274159,
       "num": 274159,
       "word": "NRG 签运",
@@ -1259,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258992,
+      "num": 204528,
+      "word": "Bin说会赢GEN",
+      "onboard_time": 1698584733,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 257162,
       "num": 257162,
       "word": "老友记官方账号发文悼念钱德勒扮演者",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1698548431,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247389,
+      "num": 247389,
+      "word": "王嘉尔说自己和王嘉尔长得特别像",
+      "onboard_time": 1698585815,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 247156,
@@ -1392,6 +1424,14 @@
       "word": "秦岚但凡少说两句嗓子早好了",
       "onboard_time": 1698571593,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236180,
+      "num": 236180,
+      "word": "我们的歌",
+      "onboard_time": 1698585693,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1609,14 +1649,6 @@
       "onboard_time": 1698583113,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201343,
-      "num": 194455,
-      "word": "Bin说会赢GEN",
-      "onboard_time": 1698584733,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 200231,
@@ -1875,6 +1907,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 179993,
+      "num": 179993,
+      "word": "奶奶家来了好多人唯独少了奶奶",
+      "onboard_time": 1698585934,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179580,
       "num": 179580,
       "word": "gemini采访五月天",
@@ -1963,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169776,
+      "num": 169776,
+      "word": "陈哲远不像只饿了一天",
+      "onboard_time": 1698585759,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169232,
       "num": 169232,
       "word": "虞书欣性感交叉小黑裙",
@@ -1977,6 +2025,14 @@
       "onboard_time": 1698507757,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168937,
+      "num": 168937,
+      "word": "大熊猫飞云放了嘴里小鸟一条生路",
+      "onboard_time": 1698585995,
+      "rank": 38,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 168060,
@@ -2080,14 +2136,6 @@
       "word": "9岁男孩双手捧水喂寺庙流浪猫",
       "onboard_time": 1698567808,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157178,
-      "num": 157178,
-      "word": "深圳欢乐谷过山车事故共接诊28人",
-      "onboard_time": 1698585516,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2257,6 +2305,14 @@
       "onboard_time": 1698486572,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 141841,
+      "num": 141841,
+      "word": "猫 你最好找我有事",
+      "onboard_time": 1698586055,
+      "rank": 42,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 140631,
@@ -2545,6 +2601,14 @@
       "onboard_time": 1698569254,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119782,
+      "num": 119782,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1698586295,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 119342,
@@ -2968,6 +3032,14 @@
       "word": "消防员救了位超委屈的醉酒老人",
       "onboard_time": 1698531136,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 787258,
+      "word": "海上油气平台用上了中国心",
+      "onboard_time": 1698586413,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
