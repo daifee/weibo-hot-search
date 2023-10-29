@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698575656189,
+  "endTime": 1698577991365,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1946128,
-      "num": 384892,
+      "num": 386569,
       "word": "陶昕然 请问旁边的是宝鹃吗",
       "onboard_time": 1698569729,
       "rank": 10,
@@ -56,6 +56,14 @@
       "word": "塔斯汀被曝吃出生鸡肉",
       "onboard_time": 1698562290,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1657431,
+      "num": 757255,
+      "word": "25岁女孩为自己办葬礼请朋友吃席",
+      "onboard_time": 1698574412,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1463158,
+      "num": 421776,
+      "word": "何炅标注了花少每个人的名字",
+      "onboard_time": 1698573932,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1406479,
       "num": 1406479,
       "word": "女生去温州同学家发现厕所藏衣柜里",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1253968,
-      "num": 389085,
+      "num": 406259,
       "word": "警方称权志龙被确认的证据不具体",
       "onboard_time": 1698573329,
       "rank": 11,
@@ -137,14 +153,6 @@
       "onboard_time": 1698534079,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1079346,
-      "num": 374024,
-      "word": "何炅标注了花少每个人的名字",
-      "onboard_time": 1698573932,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1008529,
@@ -283,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 714374,
+      "num": 379137,
+      "word": "魏晨 分身情人",
+      "onboard_time": 1698572850,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 696044,
       "num": 696044,
       "word": "万圣节 上海",
@@ -315,16 +331,16 @@
       "category": "艺人,演出"
     },
     {
-      "raw_hot": 672278,
-      "num": 264448,
-      "word": "魏晨 分身情人",
-      "onboard_time": 1698572850,
-      "rank": 20,
-      "category": "演出"
+      "raw_hot": 668473,
+      "num": 357274,
+      "word": "女子买生腌蟹食用时发现蟹钳仍在动",
+      "onboard_time": 1698575859,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661507,
-      "num": 261364,
+      "num": 268829,
       "word": "30岁小伙婚前查出癌症切睾丸求生",
       "onboard_time": 1698572612,
       "rank": 21,
@@ -377,6 +393,14 @@
       "onboard_time": 1698540752,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 619492,
+      "num": 343211,
+      "word": "福州市委书记称百姓都用自来水泡茶",
+      "onboard_time": 1698575913,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611951,
@@ -483,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 564376,
-      "num": 361487,
-      "word": "25岁女孩为自己办葬礼请朋友吃席",
-      "onboard_time": 1698574412,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559039,
       "num": 559039,
       "word": "一根头发居然能吊起14页PPT",
@@ -587,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477565,
+      "num": 477565,
+      "word": "BLG生死局",
+      "onboard_time": 1698576633,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 474822,
       "num": 474822,
       "word": "老友记",
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 463595,
-      "num": 597830,
+      "num": 657835,
       "word": "小区没物业67岁阿姨管得井井有条",
       "onboard_time": 1698563069,
       "rank": 31,
@@ -867,6 +891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304587,
+      "num": 304587,
+      "word": "陈哲远你在对你的帅脸做什么",
+      "onboard_time": 1698576393,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304443,
       "num": 284817,
       "word": "鞠婧祎工作室有图是真发",
@@ -905,6 +937,14 @@
       "onboard_time": 1698571052,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286468,
+      "num": 286468,
+      "word": "广东男子骑共享单车遭突然锁死",
+      "onboard_time": 1698573932,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286230,
@@ -961,6 +1001,14 @@
       "onboard_time": 1698556711,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 269657,
+      "num": 269657,
+      "word": "周杰伦 止战之殇",
+      "onboard_time": 1698573151,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 269556,
@@ -1051,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245456,
+      "num": 245456,
+      "word": "温州将迎来一波大型个人演唱会",
+      "onboard_time": 1698577832,
+      "rank": 22,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 243742,
       "num": 243742,
       "word": "THE9演唱会微指",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1698506857,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 237189,
+      "num": 237189,
+      "word": "秦岚但凡少说两句嗓子早好了",
+      "onboard_time": 1698571593,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 231968,
@@ -1131,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227511,
+      "num": 227511,
+      "word": "十个勤天",
+      "onboard_time": 1698574412,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227210,
       "num": 275176,
       "word": "李克强同志逝世",
@@ -1171,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221396,
-      "num": 221396,
-      "word": "广东男子骑共享单车遭突然锁死",
-      "onboard_time": 1698573932,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217285,
       "num": 217285,
       "word": "黄子弘凡 音乐节",
@@ -1187,20 +1251,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 214587,
-      "num": 214587,
-      "word": "秦岚但凡少说两句嗓子早好了",
-      "onboard_time": 1698571593,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211844,
       "num": 211844,
       "word": "狗狗帮主人叼身上的苍耳",
       "onboard_time": 1698557669,
       "rank": 16,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 211632,
+      "num": 211632,
+      "word": "武磊哭了",
+      "onboard_time": 1698575372,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211087,
+      "num": 211087,
+      "word": "马嘉祺吃鳗鱼去了",
+      "onboard_time": 1698575859,
+      "rank": 26,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 208497,
@@ -1307,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199013,
-      "num": 199013,
-      "word": "周杰伦 止战之殇",
-      "onboard_time": 1698573151,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 198543,
       "num": 198543,
       "word": "刘青松的拉克丝美学",
@@ -1363,12 +1427,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 192858,
+      "num": 192858,
+      "word": "珠海赛郑钦文亚军",
+      "onboard_time": 1698577411,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191828,
       "num": 191828,
       "word": "林俊杰起风了",
       "onboard_time": 1698502477,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191775,
+      "num": 191775,
+      "word": "张雨绮新中式造型",
+      "onboard_time": 1698577113,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191545,
@@ -1441,14 +1521,6 @@
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 185377,
-      "num": 185377,
-      "word": "十个勤天",
-      "onboard_time": 1698574412,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 183039,
@@ -1595,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162691,
-      "num": 162691,
-      "word": "武磊哭了",
-      "onboard_time": 1698575372,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162608,
       "num": 162608,
       "word": "13届快男看不见的顶峰再次顶峰相见",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1698538527,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147472,
+      "num": 497942,
+      "word": "苦练30余年后99岁老人加入中国书协",
+      "onboard_time": 1698574770,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147462,
@@ -1995,6 +2067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123290,
+      "num": 123290,
+      "word": "感受到了仲溪午的崩溃",
+      "onboard_time": 1698574833,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122306,
       "num": 122306,
       "word": "iPhone15",
@@ -2049,6 +2129,14 @@
       "onboard_time": 1698569254,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "妈妈带锅开车2小时为女儿送排骨",
+      "onboard_time": 1698577713,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119342,
@@ -2217,6 +2305,14 @@
       "onboard_time": 1698568773,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107222,
+      "num": 107222,
+      "word": "苏醒 你最醒目",
+      "onboard_time": 1698577954,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 106490,
