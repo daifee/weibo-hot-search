@@ -1,0 +1,410 @@
+{
+  "runTime": 1698582606560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2059412,
+        "num": 2059412,
+        "word": "中国驻美大使馆发紧急提醒",
+        "onboard_time": 1698579333,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1212697,
+        "num": 1212697,
+        "word": "KT 地狱副本",
+        "onboard_time": 1698580298,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90700,
+        "num": 1206683,
+        "word": "这个秋天谢谢你们带来的感动",
+        "onboard_time": 1698568773,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201577,
+        "num": 1201577,
+        "word": "25岁女孩为自己办葬礼请朋友吃席",
+        "onboard_time": 1698574412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939023,
+        "num": 939023,
+        "word": "LPL首次四支队伍进八强",
+        "onboard_time": 1698579155,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 611472,
+        "num": 611472,
+        "word": "S13抽签",
+        "onboard_time": 1698580717,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 569211,
+        "num": 569211,
+        "word": "女子买生腌蟹食用时发现蟹钳仍在动",
+        "onboard_time": 1698575859,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416166,
+        "num": 416166,
+        "word": "女生去温州同学家发现厕所藏衣柜里",
+        "onboard_time": 1698571655,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353787,
+        "num": 353787,
+        "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
+        "onboard_time": 1698578010,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351991,
+        "num": 351991,
+        "word": "WBG晋级八强",
+        "onboard_time": 1698569131,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1203330,
+        "num": 349013,
+        "word": "万圣节cos关晓彤",
+        "onboard_time": 1698579392,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 862578,
+        "num": 344983,
+        "word": "何炅标注了花少每个人的名字",
+        "onboard_time": 1698573932,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639289,
+        "num": 341695,
+        "word": "魏晨 分身情人",
+        "onboard_time": 1698572850,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 563710,
+        "num": 339409,
+        "word": "陶昕然 请问旁边的是宝鹃吗",
+        "onboard_time": 1698569729,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 492410,
+        "num": 334464,
+        "word": "警方称权志龙被确认的证据不具体",
+        "onboard_time": 1698573329,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461189,
+        "num": 328700,
+        "word": "王栎鑫五公第一",
+        "onboard_time": 1698579456,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445937,
+        "num": 327353,
+        "word": "福州市委书记称百姓都用自来水泡茶",
+        "onboard_time": 1698575913,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440109,
+        "num": 322965,
+        "word": "王亚飞给虞书欣化的舞台妆",
+        "onboard_time": 1698581858,
+        "rank": 17,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 320747,
+        "num": 320747,
+        "word": "BeryL抽签",
+        "onboard_time": 1698581256,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315190,
+        "num": 315190,
+        "word": "BLG战胜G2",
+        "onboard_time": 1698579034,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 310210,
+        "num": 310210,
+        "word": "武林外传演员今昔对比",
+        "onboard_time": 1698582093,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306675,
+        "num": 306675,
+        "word": "马嘉祺喊哥发现店员比自己小的反应",
+        "onboard_time": 1698580476,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305073,
+        "num": 305073,
+        "word": "WBG战胜FNC",
+        "onboard_time": 1698569192,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295597,
+        "num": 295597,
+        "word": "WBG 蓝方ban霞",
+        "onboard_time": 1698563489,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274159,
+        "num": 274159,
+        "word": "NRG 签运",
+        "onboard_time": 1698581315,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260206,
+        "num": 260206,
+        "word": "妈妈带锅开车2小时为女儿送排骨",
+        "onboard_time": 1698577713,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253420,
+        "num": 253420,
+        "word": "原神哥 好签",
+        "onboard_time": 1698581435,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252517,
+        "num": 252517,
+        "word": "30岁小伙婚前查出癌症切睾丸求生",
+        "onboard_time": 1698572612,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232249,
+        "num": 232249,
+        "word": "G2对战BLG",
+        "onboard_time": 1698573151,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216090,
+        "num": 216090,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344129,
+        "num": 214569,
+        "word": "DRX 我们只能帮到这里了兄弟",
+        "onboard_time": 1698581673,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212923,
+        "num": 212923,
+        "word": "秦岚去环球影城探亲霸天虎了吗",
+        "onboard_time": 1698579512,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205777,
+        "num": 205777,
+        "word": "周杰伦 止战之殇",
+        "onboard_time": 1698573151,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199055,
+        "num": 199055,
+        "word": "中国航天员完成在轨交接",
+        "onboard_time": 1698581195,
+        "rank": 33,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 196213,
+        "num": 196213,
+        "word": "月薪3万去不起泡泡玛特乐园",
+        "onboard_time": 1698582212,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196172,
+        "num": 196172,
+        "word": "日本科学家发现太空中生娃或可行",
+        "onboard_time": 1698578312,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 188181,
+        "num": 188181,
+        "word": "S13赛程",
+        "onboard_time": 1698581916,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184918,
+        "num": 184918,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 169232,
+        "num": 169232,
+        "word": "虞书欣性感交叉小黑裙",
+        "onboard_time": 1698579273,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "NRG将对战WBG",
+        "onboard_time": 1698581554,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166667,
+        "num": 166667,
+        "word": "管泽元",
+        "onboard_time": 1698578614,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164641,
+        "num": 164641,
+        "word": "S13八强",
+        "onboard_time": 1698581256,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163160,
+        "num": 163160,
+        "word": "烬相思",
+        "onboard_time": 1698578558,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161094,
+        "num": 161094,
+        "word": "Bin贾克斯辐射全场",
+        "onboard_time": 1698573209,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158591,
+        "num": 158591,
+        "word": "广东男子骑共享单车遭突然锁死",
+        "onboard_time": 1698573932,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150454,
+        "num": 150454,
+        "word": "十个勤天",
+        "onboard_time": 1698574412,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145344,
+        "num": 145344,
+        "word": "两个家庭因为一句承诺变成一家人",
+        "onboard_time": 1698582331,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144253,
+        "num": 144253,
+        "word": "杭州一中学午餐上了1000只团脐大闸蟹",
+        "onboard_time": 1698567689,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116661,
+        "num": 143694,
+        "word": "中国女足vs泰国女足",
+        "onboard_time": 1698582513,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99605,
+        "num": 143472,
+        "word": "BLG生死局",
+        "onboard_time": 1698576633,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

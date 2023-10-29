@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698579242332,
+  "endTime": 1698582606560,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -2331,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2059412,
+      "num": 2059412,
+      "word": "中国驻美大使馆发紧急提醒",
+      "onboard_time": 1698579333,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2058577,
       "num": 2058577,
       "word": "iPhone15全系价格暴跌",
@@ -3068,7 +3076,7 @@
     },
     {
       "raw_hot": 1842606,
-      "num": 874632,
+      "num": 1201577,
       "word": "25岁女孩为自己办葬礼请朋友吃席",
       "onboard_time": 1698574412,
       "rank": 28,
@@ -6651,6 +6659,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1212697,
+      "num": 1212697,
+      "word": "KT 地狱副本",
+      "onboard_time": 1698580298,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1212285,
       "num": 523681,
       "word": "罗翔谈狗咬伤他人狗主是否犯罪",
@@ -6705,6 +6721,14 @@
       "onboard_time": 1697772095,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1203330,
+      "num": 349013,
+      "word": "万圣节cos关晓彤",
+      "onboard_time": 1698579392,
+      "rank": 10,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1202648,
@@ -9337,6 +9361,14 @@
       "onboard_time": 1697795853,
       "rank": 20,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 939023,
+      "num": 939023,
+      "word": "LPL首次四支队伍进八强",
+      "onboard_time": 1698579155,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 938609,
@@ -23307,6 +23339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 461189,
+      "num": 328700,
+      "word": "王栎鑫五公第一",
+      "onboard_time": 1698579456,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461145,
       "num": 461145,
       "word": "没人在意范丞丞的死活吗",
@@ -24825,6 +24865,14 @@
       "onboard_time": 1697185713,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440109,
+      "num": 322965,
+      "word": "王亚飞给虞书欣化的舞台妆",
+      "onboard_time": 1698581858,
+      "rank": 17,
+      "category": "演出,美妆"
     },
     {
       "raw_hot": 439961,
@@ -28348,7 +28396,7 @@
     },
     {
       "raw_hot": 384885,
-      "num": 286467,
+      "num": 305073,
       "word": "WBG战胜FNC",
       "onboard_time": 1698569192,
       "rank": 13,
@@ -30819,6 +30867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353787,
+      "num": 854589,
+      "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
+      "onboard_time": 1698578010,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353639,
       "num": 353639,
       "word": "库里抹护手霜",
@@ -31761,6 +31817,14 @@
       "onboard_time": 1696168844,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344129,
+      "num": 214569,
+      "word": "DRX 我们只能帮到这里了兄弟",
+      "onboard_time": 1698581673,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 344066,
@@ -33803,14 +33867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 322358,
-      "num": 854589,
-      "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
-      "onboard_time": 1698578010,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322352,
       "num": 322352,
       "word": "1020魔咒",
@@ -33961,6 +34017,14 @@
       "onboard_time": 1697850871,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320747,
+      "num": 320747,
+      "word": "BeryL抽签",
+      "onboard_time": 1698581256,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 320691,
@@ -35035,6 +35099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310210,
+      "num": 310210,
+      "word": "武林外传演员今昔对比",
+      "onboard_time": 1698582093,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310182,
       "num": 310182,
       "word": "梅西不去青岛了",
@@ -35361,6 +35433,14 @@
       "onboard_time": 1698326556,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306675,
+      "num": 306675,
+      "word": "马嘉祺喊哥发现店员比自己小的反应",
+      "onboard_time": 1698580476,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 306439,
@@ -39747,6 +39827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274159,
+      "num": 274159,
+      "word": "NRG 签运",
+      "onboard_time": 1698581315,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 274018,
       "num": 274018,
       "word": "谢震业回应递补奥运奖牌",
@@ -41867,6 +41955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260206,
+      "num": 308608,
+      "word": "妈妈带锅开车2小时为女儿送排骨",
+      "onboard_time": 1698577713,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260189,
       "num": 260189,
       "word": "虞书欣把封神质子团猜成雷震子",
@@ -42985,6 +43081,14 @@
       "onboard_time": 1696433437,
       "rank": 49,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 253420,
+      "num": 253420,
+      "word": "原神哥 好签",
+      "onboard_time": 1698581435,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 253395,
@@ -50563,6 +50667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212923,
+      "num": 212923,
+      "word": "秦岚去环球影城探亲霸天虎了吗",
+      "onboard_time": 1698579512,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212920,
       "num": 212920,
       "word": "TL告别S13",
@@ -51489,14 +51601,6 @@
       "onboard_time": 1697508872,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208842,
-      "num": 308608,
-      "word": "妈妈带锅开车2小时为女儿送排骨",
-      "onboard_time": 1698577713,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208809,
@@ -53947,14 +54051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201652,
-      "num": 201652,
-      "word": "LPL首次四支队伍进八强",
-      "onboard_time": 1698579155,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201651,
       "num": 201651,
       "word": "郭麒麟直播喊倪虹洁妈",
@@ -54865,6 +54961,14 @@
       "onboard_time": 1697551964,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199055,
+      "num": 199055,
+      "word": "中国航天员完成在轨交接",
+      "onboard_time": 1698581195,
+      "rank": 33,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 199051,
@@ -55883,6 +55987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196213,
+      "num": 196213,
+      "word": "月薪3万去不起泡泡玛特乐园",
+      "onboard_time": 1698582212,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196205,
       "num": 196205,
       "word": "男子江边遇涨潮民警摸着石头救人",
@@ -55897,6 +56009,14 @@
       "onboard_time": 1697253631,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196172,
+      "num": 196172,
+      "word": "日本科学家发现太空中生娃或可行",
+      "onboard_time": 1698578312,
+      "rank": 37,
+      "category": "知识科普"
     },
     {
       "raw_hot": 196164,
@@ -58721,6 +58841,14 @@
       "onboard_time": 1696120770,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188181,
+      "num": 188181,
+      "word": "S13赛程",
+      "onboard_time": 1698581916,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 188158,
@@ -62043,14 +62171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175811,
-      "num": 175811,
-      "word": "日本科学家发现太空中生娃或可行",
-      "onboard_time": 1698578312,
-      "rank": 37,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 175770,
       "num": 175770,
       "word": "林双挖人",
@@ -63755,6 +63875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169232,
+      "num": 169232,
+      "word": "虞书欣性感交叉小黑裙",
+      "onboard_time": 1698579273,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169193,
       "num": 169193,
       "word": "Vernon打乱文俊辉权顺荣cha节奏",
@@ -64225,6 +64353,14 @@
       "onboard_time": 1698126637,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "NRG将对战WBG",
+      "onboard_time": 1698581554,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 167024,
@@ -64769,6 +64905,14 @@
       "onboard_time": 1698412778,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164641,
+      "num": 164641,
+      "word": "S13八强",
+      "onboard_time": 1698581256,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 164631,
@@ -65673,6 +65817,14 @@
       "onboard_time": 1697624559,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161094,
+      "num": 161094,
+      "word": "Bin贾克斯辐射全场",
+      "onboard_time": 1698573209,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 161057,
@@ -68787,14 +68939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147746,
-      "num": 147746,
-      "word": "Bin贾克斯辐射全场",
-      "onboard_time": 1698573209,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147739,
       "num": 211410,
       "word": "J罗凌空破门",
@@ -69360,6 +69504,14 @@
       "word": "听闻市民求救消防员拔吊瓶冲去救援",
       "onboard_time": 1697612498,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145344,
+      "num": 145344,
+      "word": "两个家庭因为一句承诺变成一家人",
+      "onboard_time": 1698582331,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -74691,6 +74843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116661,
+      "num": 143694,
+      "word": "中国女足vs泰国女足",
+      "onboard_time": 1696074099,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116576,
       "num": 208724,
       "word": "广东月收入多少才活的够滋润",
@@ -74721,14 +74881,6 @@
       "onboard_time": 1697792011,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116310,
-      "num": 116310,
-      "word": "中国女足vs泰国女足",
-      "onboard_time": 1696074099,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 116258,
@@ -75788,7 +75940,7 @@
     },
     {
       "raw_hot": 107394,
-      "num": 1045626,
+      "num": 1206683,
       "word": "这个秋天谢谢你们带来的感动",
       "onboard_time": 1698568773,
       "rank": 2,

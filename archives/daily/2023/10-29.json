@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698579242332,
+  "endTime": 1698582606560,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -25,6 +25,14 @@
       "onboard_time": 1698552931,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2059412,
+      "num": 2059412,
+      "word": "中国驻美大使馆发紧急提醒",
+      "onboard_time": 1698579333,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2018418,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1842606,
-      "num": 874632,
+      "num": 1201577,
       "word": "25岁女孩为自己办葬礼请朋友吃席",
       "onboard_time": 1698574412,
       "rank": 28,
@@ -139,6 +147,22 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 1212697,
+      "num": 1212697,
+      "word": "KT 地狱副本",
+      "onboard_time": 1698580298,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1203330,
+      "num": 349013,
+      "word": "万圣节cos关晓彤",
+      "onboard_time": 1698579392,
+      "rank": 10,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1177180,
       "num": 1177180,
       "word": "小虎在干嘛",
@@ -201,6 +225,14 @@
       "onboard_time": 1698560311,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939023,
+      "num": 939023,
+      "word": "LPL首次四支队伍进八强",
+      "onboard_time": 1698579155,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 926607,
@@ -435,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 611472,
+      "num": 611472,
+      "word": "S13抽签",
+      "onboard_time": 1698580717,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 607229,
       "num": 1059373,
       "word": "杭州一中学午餐上了1000只团脐大闸蟹",
@@ -659,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461189,
+      "num": 328700,
+      "word": "王栎鑫五公第一",
+      "onboard_time": 1698579456,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453942,
       "num": 453942,
       "word": "厦门居然有不少人住在湖里",
@@ -681,6 +729,14 @@
       "onboard_time": 1698529814,
       "rank": 22,
       "category": "时尚,情感"
+    },
+    {
+      "raw_hot": 440109,
+      "num": 322965,
+      "word": "王亚飞给虞书欣化的舞台妆",
+      "onboard_time": 1698581858,
+      "rank": 17,
+      "category": "演出,美妆"
     },
     {
       "raw_hot": 435248,
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 384885,
-      "num": 286467,
+      "num": 305073,
       "word": "WBG战胜FNC",
       "onboard_time": 1698569192,
       "rank": 13,
@@ -795,6 +851,14 @@
       "category": "国内要闻,教育"
     },
     {
+      "raw_hot": 353787,
+      "num": 854589,
+      "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
+      "onboard_time": 1698578010,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349822,
       "num": 349822,
       "word": "海港泰山冲突",
@@ -817,6 +881,14 @@
       "onboard_time": 1698508054,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344129,
+      "num": 214569,
+      "word": "DRX 我们只能帮到这里了兄弟",
+      "onboard_time": 1698581673,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 338817,
@@ -859,12 +931,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 322358,
-      "num": 854589,
-      "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
-      "onboard_time": 1698578010,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 320747,
+      "num": 320747,
+      "word": "BeryL抽签",
+      "onboard_time": 1698581256,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 319729,
@@ -891,11 +963,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310210,
+      "num": 310210,
+      "word": "武林外传演员今昔对比",
+      "onboard_time": 1698582093,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
       "onboard_time": 1698501337,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306675,
+      "num": 306675,
+      "word": "马嘉祺喊哥发现店员比自己小的反应",
+      "onboard_time": 1698580476,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1019,6 +1107,14 @@
       "category": "动漫,读书作家"
     },
     {
+      "raw_hot": 274159,
+      "num": 274159,
+      "word": "NRG 签运",
+      "onboard_time": 1698581315,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 271681,
       "num": 271681,
       "word": "KT对战DK",
@@ -1059,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260206,
+      "num": 308608,
+      "word": "妈妈带锅开车2小时为女儿送排骨",
+      "onboard_time": 1698577713,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259253,
       "num": 234244,
       "word": "虞书欣喻言双人part",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1698560130,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253420,
+      "num": 253420,
+      "word": "原神哥 好签",
+      "onboard_time": 1698581435,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 250917,
@@ -1291,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212923,
+      "num": 212923,
+      "word": "秦岚去环球影城探亲霸天虎了吗",
+      "onboard_time": 1698579512,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211844,
       "num": 211844,
       "word": "狗狗帮主人叼身上的苍耳",
@@ -1305,14 +1425,6 @@
       "onboard_time": 1698575859,
       "rank": 26,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 208842,
-      "num": 308608,
-      "word": "妈妈带锅开车2小时为女儿送排骨",
-      "onboard_time": 1698577713,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208497,
@@ -1395,14 +1507,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 201652,
-      "num": 201652,
-      "word": "LPL首次四支队伍进八强",
-      "onboard_time": 1698579155,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200231,
       "num": 154354,
       "word": "你觉着爽肤水是智商税吗",
@@ -1427,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199055,
+      "num": 199055,
+      "word": "中国航天员完成在轨交接",
+      "onboard_time": 1698581195,
+      "rank": 33,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 198543,
       "num": 198543,
       "word": "刘青松的拉克丝美学",
@@ -1441,6 +1553,22 @@
       "onboard_time": 1698567874,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196213,
+      "num": 196213,
+      "word": "月薪3万去不起泡泡玛特乐园",
+      "onboard_time": 1698582212,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196172,
+      "num": 196172,
+      "word": "日本科学家发现太空中生娃或可行",
+      "onboard_time": 1698578312,
+      "rank": 37,
+      "category": "知识科普"
     },
     {
       "raw_hot": 195507,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1698543091,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188181,
+      "num": 188181,
+      "word": "S13赛程",
+      "onboard_time": 1698581916,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 186906,
@@ -1643,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175811,
-      "num": 175811,
-      "word": "日本科学家发现太空中生娃或可行",
-      "onboard_time": 1698578312,
-      "rank": 37,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 171900,
       "num": 171900,
       "word": "杨幂沈腾同框",
@@ -1683,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169232,
+      "num": 169232,
+      "word": "虞书欣性感交叉小黑裙",
+      "onboard_time": 1698579273,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168949,
       "num": 168949,
       "word": "拜仁8比0达姆施塔特",
@@ -1707,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "NRG将对战WBG",
+      "onboard_time": 1698581554,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167024,
       "num": 167024,
       "word": "仲溪午哭戏含泪下跪",
@@ -1721,6 +1865,14 @@
       "onboard_time": 1698570689,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164641,
+      "num": 164641,
+      "word": "S13八强",
+      "onboard_time": 1698581256,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 164547,
@@ -1753,6 +1905,14 @@
       "onboard_time": 1698555212,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161094,
+      "num": 161094,
+      "word": "Bin贾克斯辐射全场",
+      "onboard_time": 1698573209,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 159951,
@@ -1835,14 +1995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147746,
-      "num": 147746,
-      "word": "Bin贾克斯辐射全场",
-      "onboard_time": 1698573209,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147732,
       "num": 147732,
       "word": "孔雪儿舞台上的红玫瑰",
@@ -1896,6 +2048,14 @@
       "word": "战友细心帮智力受损消防员穿鞋",
       "onboard_time": 1698553171,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145344,
+      "num": 145344,
+      "word": "两个家庭因为一句承诺变成一家人",
+      "onboard_time": 1698582331,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2283,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116661,
+      "num": 143694,
+      "word": "中国女足vs泰国女足",
+      "onboard_time": 1698582513,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116258,
       "num": 116258,
       "word": "她跳进水塘阻止青年在扬子鳄保护区电鱼",
@@ -2380,7 +2548,7 @@
     },
     {
       "raw_hot": 107394,
-      "num": 1045626,
+      "num": 1206683,
       "word": "这个秋天谢谢你们带来的感动",
       "onboard_time": 1698568773,
       "rank": 2,
