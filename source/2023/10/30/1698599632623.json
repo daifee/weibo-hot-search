@@ -1,0 +1,410 @@
+{
+  "runTime": 1698599632623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 416981,
+        "num": 416981,
+        "word": "英国29岁冰球运动员遭冰刀割喉去世",
+        "onboard_time": 1698590677,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337961,
+        "num": 337961,
+        "word": "中国驻美大使馆发紧急提醒",
+        "onboard_time": 1698579333,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 14090,
+        "num": 222502,
+        "word": "杭州亚残运这些画面好戳泪点",
+        "onboard_time": 1698586596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207368,
+        "num": 207368,
+        "word": "餐具收费大学生付1元直接带走",
+        "onboard_time": 1698582455,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 196233,
+        "num": 196233,
+        "word": "白桃星座",
+        "onboard_time": 1698593672,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 186310,
+        "num": 186310,
+        "word": "哈马斯持续向以色列发射大量火箭弹",
+        "onboard_time": 1698592775,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 132232,
+        "num": 132232,
+        "word": "女子花270元订酒店套房竟有会议室",
+        "onboard_time": 1698588877,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123967,
+        "num": 123967,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 120708,
+        "num": 120708,
+        "word": "考公人的精神状态",
+        "onboard_time": 1698592475,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104752,
+        "num": 120678,
+        "word": "WBG什么运气",
+        "onboard_time": 1698582933,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 825837,
+        "num": 120659,
+        "word": "万圣节cos李佳琦",
+        "onboard_time": 1698590558,
+        "rank": 10,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 217460,
+        "num": 120607,
+        "word": "以爱为营泰国将播出",
+        "onboard_time": 1698597027,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205753,
+        "num": 120599,
+        "word": "迪丽热巴有十年没回家了",
+        "onboard_time": 1698589896,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664410,
+        "num": 120541,
+        "word": "万圣节cos 全明星律师函",
+        "onboard_time": 1698592236,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 172762,
+        "num": 120507,
+        "word": "钱德勒演员死前六天还曾露面",
+        "onboard_time": 1698583893,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104070,
+        "num": 120483,
+        "word": "孙颖莎 破阵",
+        "onboard_time": 1698590017,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598411,
+        "num": 120440,
+        "word": "吴京cos",
+        "onboard_time": 1698592656,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 160168,
+        "num": 120423,
+        "word": "知道为什么这季花少相处这么融洽了",
+        "onboard_time": 1698593794,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159686,
+        "num": 120364,
+        "word": "第一次见这么爱哭的男主",
+        "onboard_time": 1698595110,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204636,
+        "num": 120357,
+        "word": "石矶娘娘cos",
+        "onboard_time": 1698588215,
+        "rank": 19,
+        "category": "动漫,美妆"
+      },
+      {
+        "raw_hot": 145453,
+        "num": 120319,
+        "word": "月薪3万去不起泡泡玛特乐园",
+        "onboard_time": 1698582212,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139674,
+        "num": 120259,
+        "word": "深圳欢乐谷致歉",
+        "onboard_time": 1698597388,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124589,
+        "num": 120255,
+        "word": "女生脚疼日本医院要手术回国查是鸡眼",
+        "onboard_time": 1698585093,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120225,
+        "num": 120225,
+        "word": "何洁减肥大法",
+        "onboard_time": 1698590197,
+        "rank": 23,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 118502,
+        "num": 118502,
+        "word": "成年人最体面的告别方式",
+        "onboard_time": 1698597925,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113051,
+        "num": 113051,
+        "word": "叶舒华短发",
+        "onboard_time": 1698586115,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 101343,
+        "num": 101343,
+        "word": "胡一天和我奶能唠一宿",
+        "onboard_time": 1698592835,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96623,
+        "num": 96623,
+        "word": "魏晨 分身情人",
+        "onboard_time": 1698572850,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94381,
+        "num": 94381,
+        "word": "万圣节cos甄嬛醉酒",
+        "onboard_time": 1698592475,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 91248,
+        "num": 91248,
+        "word": "25岁女孩为自己办葬礼请朋友吃席",
+        "onboard_time": 1698574412,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90379,
+        "num": 90379,
+        "word": "警方称权志龙被确认的证据不具体",
+        "onboard_time": 1698573329,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79864,
+        "num": 79864,
+        "word": "王栎鑫五公第一",
+        "onboard_time": 1698579456,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75418,
+        "num": 75418,
+        "word": "万梗节",
+        "onboard_time": 1698595653,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75286,
+        "num": 75286,
+        "word": "万圣节cos乙方",
+        "onboard_time": 1698587072,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 71743,
+        "num": 71743,
+        "word": "王嘉尔说自己和王嘉尔长得特别像",
+        "onboard_time": 1698585815,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67568,
+        "num": 67568,
+        "word": "LPL抽签二段笑",
+        "onboard_time": 1698586474,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67166,
+        "num": 67166,
+        "word": "上海版王菲那英",
+        "onboard_time": 1698585212,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 66754,
+        "num": 66754,
+        "word": "权顺荣和粉丝牵手",
+        "onboard_time": 1698592536,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65717,
+        "num": 65717,
+        "word": "被拐走21年的女儿回家了",
+        "onboard_time": 1698589057,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64522,
+        "num": 64522,
+        "word": "梦岚掉点",
+        "onboard_time": 1698596729,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57966,
+        "num": 57966,
+        "word": "宋亚轩严浩翔张真源版燃冬",
+        "onboard_time": 1698588398,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57079,
+        "num": 57079,
+        "word": "原来幼年宇文拓是张逸杰演的",
+        "onboard_time": 1698594992,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56853,
+        "num": 56853,
+        "word": "何炅标注了花少每个人的名字",
+        "onboard_time": 1698573932,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56479,
+        "num": 56479,
+        "word": "王亚飞给虞书欣化的舞台妆",
+        "onboard_time": 1698581858,
+        "rank": 43,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 55594,
+        "num": 55594,
+        "word": "仲溪午答应娶妻",
+        "onboard_time": 1698591097,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51372,
+        "num": 55589,
+        "word": "久坐再也别想累丑了",
+        "onboard_time": 1698591034,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 49180,
+        "num": 55570,
+        "word": "沃特斯打到张镇麟脸部",
+        "onboard_time": 1698593015,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48078,
+        "num": 55559,
+        "word": "上海万圣节",
+        "onboard_time": 1698590615,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47754,
+        "num": 55538,
+        "word": "马修拍老友记是为获得妈妈关注",
+        "onboard_time": 1698591817,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47360,
+        "num": 55537,
+        "word": "和清融一起关注罕见病",
+        "onboard_time": 1698598163,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}
