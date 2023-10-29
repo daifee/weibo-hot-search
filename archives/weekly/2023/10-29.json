@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698560443763,
+  "endTime": 1698561245579,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008529,
+      "num": 1008529,
+      "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
+      "onboard_time": 1698558632,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 994562,
       "num": 520785,
       "word": "何泓姗终于演大女主了",
@@ -161,14 +169,6 @@
       "onboard_time": 1698508953,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 773569,
-      "num": 773569,
-      "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
-      "onboard_time": 1698558632,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 767355,
@@ -259,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617606,
+      "num": 155946,
+      "word": "大胖媳妇拒绝陪丈母娘住院",
+      "onboard_time": 1698559769,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 605418,
       "num": 605418,
       "word": "彭斯宣布退出2024总统竞选",
@@ -304,6 +312,14 @@
       "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
       "onboard_time": 1698544892,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577101,
+      "num": 577101,
+      "word": "深圳欢乐谷回应具体受伤人数",
+      "onboard_time": 1698560311,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -387,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469438,
+      "num": 469438,
+      "word": "没有一个孩子会无缘无故就抑郁了",
+      "onboard_time": 1698558211,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469080,
       "num": 469080,
       "word": "权志龙没有被立案",
@@ -411,28 +435,12 @@
       "category": "时尚,情感"
     },
     {
-      "raw_hot": 438137,
-      "num": 438137,
-      "word": "没有一个孩子会无缘无故就抑郁了",
-      "onboard_time": 1698558211,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 434560,
       "num": 434560,
       "word": "官方通报深圳欢乐谷过山车碰撞事故",
       "onboard_time": 1698539006,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427546,
-      "num": 152388,
-      "word": "大胖媳妇拒绝陪丈母娘住院",
-      "onboard_time": 1698559769,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 424809,
@@ -563,11 +571,27 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 325971,
+      "num": 325971,
+      "word": "KT战胜DK",
+      "onboard_time": 1698560490,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314586,
       "num": 314586,
       "word": "Deft全球总决赛400杀",
       "onboard_time": 1698559351,
       "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 310967,
+      "num": 310967,
+      "word": "AR止步TI12四强",
+      "onboard_time": 1698560490,
+      "rank": 12,
       "category": "电竞"
     },
     {
@@ -683,12 +707,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261922,
+      "num": 154912,
+      "word": "厦门居然有不少人住在湖里",
+      "onboard_time": 1698560251,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
       "raw_hot": 259253,
       "num": 234244,
       "word": "虞书欣喻言双人part",
       "onboard_time": 1698510631,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256184,
+      "num": 256184,
+      "word": "于正新剧要换妆造",
+      "onboard_time": 1698560130,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250917,
@@ -729,14 +769,6 @@
       "onboard_time": 1698540752,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 245027,
-      "num": 245027,
-      "word": "于正新剧要换妆造",
-      "onboard_time": 1698560130,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 239960,
@@ -891,6 +923,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 200231,
+      "num": 154354,
+      "word": "你觉着爽肤水是智商税吗",
+      "onboard_time": 1698560550,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 199621,
       "num": 199621,
       "word": "花儿与少年",
@@ -1027,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179151,
+      "num": 153452,
+      "word": "小孩哥给小猫喂水",
+      "onboard_time": 1698559769,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 178619,
       "num": 178619,
       "word": "不要直接用黄瓜敷脸",
@@ -1091,12 +1139,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166836,
-      "num": 166836,
-      "word": "深圳欢乐谷回应具体受伤人数",
-      "onboard_time": 1698560311,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 167739,
+      "num": 167739,
+      "word": "FNC对战WBG",
+      "onboard_time": 1698560490,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 167439,
+      "num": 167439,
+      "word": "KT晋级八强",
+      "onboard_time": 1698560610,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 164547,
@@ -1155,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153251,
+      "num": 153251,
+      "word": "陈冲 好电影会让你语无伦次",
+      "onboard_time": 1698560730,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151386,
       "num": 151386,
       "word": "贝林厄姆",
@@ -1169,14 +1233,6 @@
       "onboard_time": 1698507873,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148300,
-      "num": 148300,
-      "word": "小孩哥给小猫喂水",
-      "onboard_time": 1698559769,
-      "rank": 32,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 147732,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1698486572,
       "rank": 43,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 141478,
-      "num": 141478,
-      "word": "厦门居然有不少人住在湖里",
-      "onboard_time": 1698560251,
-      "rank": 35,
-      "category": "其它"
     },
     {
       "raw_hot": 140631,
@@ -1435,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117318,
+      "num": 117318,
+      "word": "丑但好吃的四大名菜",
+      "onboard_time": 1698560852,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117076,
       "num": 117076,
       "word": "THE9演唱会",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1698495696,
       "rank": 48,
       "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 112962,
+      "num": 112962,
+      "word": "单眼皮女生化妆日常",
+      "onboard_time": 1698561209,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 112912,
@@ -1524,7 +1588,7 @@
     },
     {
       "raw_hot": 92691,
-      "num": 98128,
+      "num": 128953,
       "word": "孕妇临盆铁骑嘶吼为生命开道",
       "onboard_time": 1698558569,
       "rank": 49,
