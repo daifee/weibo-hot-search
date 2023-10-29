@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698561245579,
+  "endTime": 1698563690525,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -91,6 +91,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 1177180,
+      "num": 1177180,
+      "word": "小虎在干嘛",
+      "onboard_time": 1698562472,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1124434,
       "num": 1124434,
       "word": "女子为减肥连吃3月胡萝卜变小橘人",
@@ -128,6 +136,14 @@
       "word": "13岁女孩戴鲨鱼夹滑倒头皮缝了3针",
       "onboard_time": 1698501216,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939251,
+      "num": 939251,
+      "word": "深圳欢乐谷回应具体受伤人数",
+      "onboard_time": 1698560311,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 727832,
+      "num": 451312,
+      "word": "大胖媳妇拒绝陪丈母娘住院",
+      "onboard_time": 1698559769,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 696044,
       "num": 696044,
       "word": "万圣节 上海",
@@ -217,6 +241,14 @@
       "onboard_time": 1698492995,
       "rank": 12,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 656375,
+      "num": 656375,
+      "word": "塔斯汀被曝吃出生鸡肉",
+      "onboard_time": 1698562290,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638131,
@@ -259,20 +291,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 617606,
-      "num": 155946,
-      "word": "大胖媳妇拒绝陪丈母娘住院",
-      "onboard_time": 1698559769,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 605418,
       "num": 605418,
       "word": "彭斯宣布退出2024总统竞选",
       "onboard_time": 1698543931,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 601448,
+      "num": 440206,
+      "word": "迪丽热巴辛芷蕾第一次见秦岚",
+      "onboard_time": 1698563069,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 594419,
@@ -315,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577101,
-      "num": 577101,
-      "word": "深圳欢乐谷回应具体受伤人数",
-      "onboard_time": 1698560311,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 566576,
+      "num": 566576,
+      "word": "FNC对战WBG",
+      "onboard_time": 1698560490,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 565632,
@@ -395,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484480,
+      "num": 484480,
+      "word": "没有一个孩子会无缘无故就抑郁了",
+      "onboard_time": 1698558211,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 474822,
       "num": 474822,
       "word": "老友记",
       "onboard_time": 1698540508,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469438,
-      "num": 469438,
-      "word": "没有一个孩子会无缘无故就抑郁了",
-      "onboard_time": 1698558211,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 469080,
@@ -425,6 +457,14 @@
       "onboard_time": 1698502117,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453942,
+      "num": 453942,
+      "word": "厦门居然有不少人住在湖里",
+      "onboard_time": 1698560251,
+      "rank": 35,
+      "category": "其它"
     },
     {
       "raw_hot": 440489,
@@ -475,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415483,
+      "num": 415483,
+      "word": "WBG 蓝方ban霞",
+      "onboard_time": 1698563489,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
@@ -497,6 +545,14 @@
       "onboard_time": 1698553471,
       "rank": 14,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 369742,
+      "num": 369742,
+      "word": "莲花楼为欢瑞带来超2.264亿收入",
+      "onboard_time": 1698561330,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 365752,
@@ -579,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 319729,
+      "num": 165813,
+      "word": "Maybe 玩爽了梦也醒了",
+      "onboard_time": 1698562412,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314586,
       "num": 314586,
       "word": "Deft全球总决赛400杀",
@@ -643,12 +707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 284321,
+      "num": 284321,
+      "word": "男子参加婚礼随礼600元彩票",
+      "onboard_time": 1698561569,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284086,
       "num": 284086,
       "word": "祝绪丹新造型",
       "onboard_time": 1698536846,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283475,
+      "num": 283475,
+      "word": "WBG生死战",
+      "onboard_time": 1698563192,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 281898,
@@ -673,6 +753,14 @@
       "onboard_time": 1698543271,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276479,
+      "num": 276479,
+      "word": "cos张起灵",
+      "onboard_time": 1698561869,
+      "rank": 22,
+      "category": "动漫,读书作家"
     },
     {
       "raw_hot": 271681,
@@ -705,14 +793,6 @@
       "onboard_time": 1698537926,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261922,
-      "num": 154912,
-      "word": "厦门居然有不少人住在湖里",
-      "onboard_time": 1698560251,
-      "rank": 35,
-      "category": "其它"
     },
     {
       "raw_hot": 259253,
@@ -811,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231551,
+      "num": 231551,
+      "word": "郭晶晶聊高山大海式爱情",
+      "onboard_time": 1698561628,
+      "rank": 23,
+      "category": "体育,电影"
+    },
+    {
       "raw_hot": 231195,
       "num": 231195,
       "word": "张小斐新片口碑",
@@ -843,12 +931,28 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 225498,
+      "num": 225498,
+      "word": "THE9演唱会微指",
+      "onboard_time": 1698562890,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225450,
       "num": 225450,
       "word": "我越来越喜欢温柔的人了",
       "onboard_time": 1698538708,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223257,
+      "num": 223257,
+      "word": "王安宇高敏感人格吧",
+      "onboard_time": 1698561270,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 211844,
@@ -947,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197024,
+      "num": 197024,
+      "word": "24岁小伙闻臭袜子闻出肺部感染",
+      "onboard_time": 1698562890,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195507,
       "num": 195507,
       "word": "网友拍到和谐号和复兴号飙车",
@@ -1001,6 +1113,14 @@
       "onboard_time": 1698534980,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189773,
+      "num": 189773,
+      "word": "Deft告别S13",
+      "onboard_time": 1698562890,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 189366,
@@ -1139,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167739,
-      "num": 167739,
-      "word": "FNC对战WBG",
-      "onboard_time": 1698560490,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 167439,
       "num": 167439,
       "word": "KT晋级八强",
@@ -1160,6 +1272,14 @@
       "word": "公司回应辞退员工用几十公斤重硬币赔偿",
       "onboard_time": 1698537144,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163352,
+      "num": 163352,
+      "word": "小区没物业67岁阿姨管得井井有条",
+      "onboard_time": 1698563069,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1379,14 @@
       "category": "美妆,科技"
     },
     {
+      "raw_hot": 147278,
+      "num": 147278,
+      "word": "深圳欢乐谷伤者均无生命危险",
+      "onboard_time": 1698563370,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146012,
       "num": 146012,
       "word": "好吃懒做减肥法",
@@ -1281,6 +1409,14 @@
       "onboard_time": 1698553171,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144995,
+      "num": 144995,
+      "word": "单眼皮女生化妆日常",
+      "onboard_time": 1698561209,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 142943,
@@ -1435,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125444,
+      "num": 125444,
+      "word": "FNC先下一城",
+      "onboard_time": 1698563549,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122306,
       "num": 122306,
       "word": "iPhone15",
@@ -1515,6 +1659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 115962,
+      "num": 115962,
+      "word": "他的60岁生日礼物是最后一次献血",
+      "onboard_time": 1698561509,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 113830,
       "num": 113830,
       "word": "好piu靓的眼妆",
@@ -1523,20 +1675,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 113778,
+      "num": 113778,
+      "word": "小众且不被理解的爱好",
+      "onboard_time": 1698562111,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113184,
       "num": 113184,
       "word": "鞠婧祎唱恋爱告急好甜",
       "onboard_time": 1698495696,
       "rank": 48,
       "category": "游戏,演出"
-    },
-    {
-      "raw_hot": 112962,
-      "num": 112962,
-      "word": "单眼皮女生化妆日常",
-      "onboard_time": 1698561209,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 112912,
@@ -1752,6 +1904,14 @@
       "word": "消防员救了位超委屈的醉酒老人",
       "onboard_time": 1698531136,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9837,
+      "num": 960749,
+      "word": "杭州亚残运上那些拼尽全力的身影",
+      "onboard_time": 1698548553,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
