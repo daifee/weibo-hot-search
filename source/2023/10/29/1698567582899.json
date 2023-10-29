@@ -1,0 +1,410 @@
+{
+  "runTime": 1698567582899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1832712,
+        "num": 1832712,
+        "word": "塔斯汀被曝吃出生鸡肉",
+        "onboard_time": 1698562290,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986487,
+        "num": 986487,
+        "word": "大胖媳妇拒绝陪丈母娘住院",
+        "onboard_time": 1698559769,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20380,
+        "num": 905134,
+        "word": "杭州亚残运上那些拼尽全力的身影",
+        "onboard_time": 1698548553,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871042,
+        "num": 871042,
+        "word": "你支持禁止老头乐吗",
+        "onboard_time": 1698552931,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606961,
+        "num": 606961,
+        "word": "男朋友说当伴娘就默认分手",
+        "onboard_time": 1698550710,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424185,
+        "num": 424185,
+        "word": "谁能想到这是头发而不是蕾丝",
+        "onboard_time": 1698542372,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 409102,
+        "num": 409102,
+        "word": "小区没物业67岁阿姨管得井井有条",
+        "onboard_time": 1698563069,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384601,
+        "num": 384601,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698562472,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 368475,
+        "num": 368475,
+        "word": "老友记钱德勒扮演者去世",
+        "onboard_time": 1698540151,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293693,
+        "num": 293693,
+        "word": "厦门居然有不少人住在湖里",
+        "onboard_time": 1698560251,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 824200,
+        "num": 293387,
+        "word": "胡彦斌终于拿第一了",
+        "onboard_time": 1698564752,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401912,
+        "num": 292011,
+        "word": "迪丽热巴辛芷蕾第一次见秦岚",
+        "onboard_time": 1698563069,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289114,
+        "num": 289114,
+        "word": "没有一个孩子会无缘无故就抑郁了",
+        "onboard_time": 1698558211,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283766,
+        "num": 283766,
+        "word": "莲花楼为欢瑞带来超2.264亿收入",
+        "onboard_time": 1698561330,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51900,
+        "num": 274503,
+        "word": "鸿星尔克支棱起来了",
+        "onboard_time": 1698566551,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 266697,
+        "num": 266697,
+        "word": "男子参加婚礼随礼600元彩票",
+        "onboard_time": 1698561569,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256322,
+        "num": 256322,
+        "word": "花花肚子上的苹果堆成小山",
+        "onboard_time": 1698566672,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250786,
+        "num": 250786,
+        "word": "WBG 蓝方ban霞",
+        "onboard_time": 1698563489,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243742,
+        "num": 243742,
+        "word": "THE9演唱会微指",
+        "onboard_time": 1698562890,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238609,
+        "num": 238609,
+        "word": "WBG生死战",
+        "onboard_time": 1698563192,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 544540,
+        "num": 230445,
+        "word": "孩子在猫咖被吓哭男子一脚将猫踹下楼",
+        "onboard_time": 1698558632,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472669,
+        "num": 228167,
+        "word": "24岁小伙闻臭袜子闻出肺部感染",
+        "onboard_time": 1698562890,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202814,
+        "num": 202814,
+        "word": "TheShy太想赢了",
+        "onboard_time": 1698566730,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202711,
+        "num": 202711,
+        "word": "何泓姗终于演大女主了",
+        "onboard_time": 1698544711,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197486,
+        "num": 197486,
+        "word": "男子砍人未被罚数月后驾车撞死母子2人",
+        "onboard_time": 1698541533,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191369,
+        "num": 191369,
+        "word": "朴志效 好明亮的生命力啊",
+        "onboard_time": 1698563853,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176657,
+        "num": 176657,
+        "word": "Maybe 玩爽了梦也醒了",
+        "onboard_time": 1698562412,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169666,
+        "num": 169666,
+        "word": "FNC对战WBG",
+        "onboard_time": 1698560490,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160648,
+        "num": 160648,
+        "word": "王安宇高敏感人格吧",
+        "onboard_time": 1698561270,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155879,
+        "num": 155879,
+        "word": "周也待播现偶男主檀健次林一",
+        "onboard_time": 1698564391,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151641,
+        "num": 151641,
+        "word": "深圳欢乐谷伤者均无生命危险",
+        "onboard_time": 1698563370,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141094,
+        "num": 141094,
+        "word": "李克强同志逝世",
+        "onboard_time": 1698365932,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 134525,
+        "num": 134525,
+        "word": "普陀山上有位手机守护神",
+        "onboard_time": 1698564752,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 127095,
+        "num": 127095,
+        "word": "Deft告别S13",
+        "onboard_time": 1698562890,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121564,
+        "num": 121564,
+        "word": "以爱为营",
+        "onboard_time": 1698551434,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121430,
+        "num": 121430,
+        "word": "散粉大盘点",
+        "onboard_time": 1698566190,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120600,
+        "num": 120600,
+        "word": "小众且不被理解的爱好",
+        "onboard_time": 1698562111,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118976,
+        "num": 118976,
+        "word": "老头乐",
+        "onboard_time": 1698564632,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116360,
+        "num": 116360,
+        "word": "Fy",
+        "onboard_time": 1698565592,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109566,
+        "num": 109566,
+        "word": "龚俊新剧是懂劝人的",
+        "onboard_time": 1698565952,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109088,
+        "num": 109088,
+        "word": "张小斐这段质问戏的爆发力",
+        "onboard_time": 1698567452,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103588,
+        "num": 103588,
+        "word": "高龄孕妇犯低血糖细心民警带糖出警",
+        "onboard_time": 1698565233,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82615,
+        "num": 103109,
+        "word": "苹果官旗以旧换新最高补1200元",
+        "onboard_time": 1698567333,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102951,
+        "num": 102951,
+        "word": "老友记六人组不完整了",
+        "onboard_time": 1698546152,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102238,
+        "num": 102238,
+        "word": "郭晶晶聊高山大海式爱情",
+        "onboard_time": 1698561628,
+        "rank": 44,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 100981,
+        "num": 100981,
+        "word": "阳光玫瑰从300元暴跌到10元",
+        "onboard_time": 1698547952,
+        "rank": 45,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 99617,
+        "num": 99617,
+        "word": "巴以冲突已超9200人死亡",
+        "onboard_time": 1698544232,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 97635,
+        "num": 97635,
+        "word": "你觉着爽肤水是智商税吗",
+        "onboard_time": 1698560550,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96054,
+        "num": 96054,
+        "word": "协和医生说喷雾爽肤水不补水",
+        "onboard_time": 1698536545,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95964,
+        "num": 95964,
+        "word": "鞠婧祎工作室有图是真发",
+        "onboard_time": 1698555811,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}
