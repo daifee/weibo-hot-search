@@ -1,10 +1,10 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698621379938,
+  "endTime": 1698622449784,
   "band_list": [
     {
       "raw_hot": 1339169,
-      "num": 165732,
+      "num": 185443,
       "word": "万圣节cos李佳琦",
       "onboard_time": 1698590558,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1083028,
-      "num": 165421,
+      "num": 169810,
       "word": "吴京cos",
       "onboard_time": 1698592656,
       "rank": 13,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 949667,
-      "num": 165133,
+      "num": 176773,
       "word": "万圣节cos 全明星律师函",
       "onboard_time": 1698592236,
       "rank": 16,
@@ -35,32 +35,40 @@
       "category": "体育"
     },
     {
-      "raw_hot": 645680,
-      "num": 645680,
+      "raw_hot": 645712,
+      "num": 645712,
       "word": "中国驻美大使馆发紧急提醒",
       "onboard_time": 1698579333,
       "rank": 1,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 425692,
-      "num": 425692,
-      "word": "现在日本中小学生这么卷了吗",
-      "onboard_time": 1698615254,
-      "rank": 12,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 415255,
-      "num": 164890,
+      "raw_hot": 606529,
+      "num": 181883,
       "word": "知道为什么这季花少相处这么融洽了",
       "onboard_time": 1698593794,
       "rank": 18,
       "category": "综艺"
     },
     {
+      "raw_hot": 488479,
+      "num": 145590,
+      "word": "夫妻3年不孕因丈夫精子逆行进膀胱",
+      "onboard_time": 1698620964,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440799,
+      "num": 440799,
+      "word": "现在日本中小学生这么卷了吗",
+      "onboard_time": 1698615254,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 378654,
-      "num": 165635,
+      "num": 173666,
       "word": "迪丽热巴有十年没回家了",
       "onboard_time": 1698589896,
       "rank": 11,
@@ -107,23 +115,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 287073,
-      "num": 165368,
-      "word": "何洁减肥大法",
-      "onboard_time": 1698590197,
-      "rank": 14,
-      "category": "美食,艺人"
-    },
-    {
-      "raw_hot": 245763,
-      "num": 245763,
-      "word": "女子花270元订酒店套房竟有会议室",
-      "onboard_time": 1698588877,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245712,
+      "raw_hot": 292101,
       "num": 164627,
       "word": "女生脚疼日本医院要手术回国查是鸡眼",
       "onboard_time": 1698585093,
@@ -131,16 +123,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241207,
-      "num": 114229,
-      "word": "夫妻3年不孕因丈夫精子逆行进膀胱",
-      "onboard_time": 1698620964,
-      "rank": 12,
+      "raw_hot": 287073,
+      "num": 170332,
+      "word": "何洁减肥大法",
+      "onboard_time": 1698590197,
+      "rank": 14,
+      "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 269965,
+      "num": 269965,
+      "word": "女子花270元订酒店套房竟有会议室",
+      "onboard_time": 1698588877,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253136,
+      "num": 253136,
+      "word": "LGD获得TI12季军",
+      "onboard_time": 1698621445,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238446,
-      "num": 165272,
+      "num": 179806,
       "word": "钱德勒演员死前六天还曾露面",
       "onboard_time": 1698583893,
       "rank": 15,
@@ -153,6 +161,14 @@
       "onboard_time": 1698592475,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220513,
+      "num": 164741,
+      "word": "月薪3万去不起泡泡玛特乐园",
+      "onboard_time": 1698582212,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217460,
@@ -171,14 +187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201404,
-      "num": 164741,
-      "word": "月薪3万去不起泡泡玛特乐园",
-      "onboard_time": 1698582212,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193568,
       "num": 193568,
       "word": "孙颖莎 破阵",
@@ -187,11 +195,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171494,
-      "num": 113370,
+      "raw_hot": 192896,
+      "num": 165460,
       "word": "商店店员被曝当街用开水烫杀狗",
       "onboard_time": 1698602959,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187707,
+      "num": 187707,
+      "word": "大叔用废弃筷子搭出微缩版黄鹤楼",
+      "onboard_time": 1698621205,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -219,12 +235,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 164359,
+      "num": 164359,
+      "word": "樊振东3比1莫雷高德",
+      "onboard_time": 1698621445,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162785,
       "num": 162785,
       "word": "25岁女孩为自己办葬礼请朋友吃席",
       "onboard_time": 1698574412,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162417,
+      "num": 144356,
+      "word": "久坐再也别想累丑了",
+      "onboard_time": 1698591034,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 158961,
@@ -251,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144013,
+      "num": 144013,
+      "word": "警方称权志龙被确认的证据不具体",
+      "onboard_time": 1698573329,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139674,
       "num": 120259,
       "word": "深圳欢乐谷致歉",
@@ -275,20 +315,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 133250,
-      "num": 128328,
-      "word": "警方称权志龙被确认的证据不具体",
-      "onboard_time": 1698573329,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 131903,
+      "num": 131903,
+      "word": "中国队男子5000米接力冠军",
+      "onboard_time": 1698622227,
+      "rank": 25,
+      "category": "体育"
     },
     {
-      "raw_hot": 120168,
-      "num": 112710,
-      "word": "久坐再也别想累丑了",
-      "onboard_time": 1698591034,
-      "rank": 37,
-      "category": "运动健身"
+      "raw_hot": 129089,
+      "num": 129089,
+      "word": "成年人最体面的告别方式",
+      "onboard_time": 1698597925,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 119581,
@@ -297,14 +337,6 @@
       "onboard_time": 1698579456,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118502,
-      "num": 118502,
-      "word": "成年人最体面的告别方式",
-      "onboard_time": 1698597925,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 112208,
@@ -363,12 +395,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93649,
-      "num": 93649,
-      "word": "大叔用废弃筷子搭出微缩版黄鹤楼",
-      "onboard_time": 1698621205,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 96572,
+      "num": 96572,
+      "word": "曼联0比3曼城",
+      "onboard_time": 1698622348,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94864,
+      "num": 94864,
+      "word": "李兰迪试图挑战柚子皮换高颅顶",
+      "onboard_time": 1698620422,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 90931,
@@ -385,6 +425,14 @@
       "onboard_time": 1698573932,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88626,
+      "num": 88626,
+      "word": "边防军人用戍边石为志愿军老战士画像",
+      "onboard_time": 1698621445,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87670,
@@ -409,6 +457,14 @@
       "onboard_time": 1698580476,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74758,
+      "num": 74758,
+      "word": "F1",
+      "onboard_time": 1698621686,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 73198,
@@ -443,19 +499,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65813,
-      "num": 65813,
-      "word": "李兰迪试图挑战柚子皮换高颅顶",
-      "onboard_time": 1698620422,
-      "rank": 31,
-      "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 57125,
-      "num": 57125,
+      "raw_hot": 66538,
+      "num": 66538,
       "word": "律师分析权志龙否认吸毒原因",
       "onboard_time": 1698610094,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65913,
+      "num": 65913,
+      "word": "SEVENTEEN新专初动销量突破500万张",
+      "onboard_time": 1698621024,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 64831,
+      "num": 64831,
+      "word": "港媒曝苑琼丹暂时息影",
+      "onboard_time": 1698584613,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -473,22 +537,6 @@
       "onboard_time": 1698600320,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53483,
-      "num": 53483,
-      "word": "SEVENTEEN新专初动销量突破500万张",
-      "onboard_time": 1698621024,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 52379,
-      "num": 52379,
-      "word": "港媒曝苑琼丹暂时息影",
-      "onboard_time": 1698584613,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 50048,
@@ -515,8 +563,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19820,
-      "num": 429682,
+      "raw_hot": 21817,
+      "num": 526876,
       "word": "杭州亚残运这些画面好戳泪点",
       "onboard_time": 1698586596,
       "rank": 2,
