@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698543344795,
+  "endTime": 1698546291784,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -27,20 +27,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1594001,
+      "num": 1131730,
+      "word": "男子砍人未被罚数月后驾车撞死母子2人",
+      "onboard_time": 1698541533,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1355453,
       "num": 382658,
       "word": "内娱慕强批的天堂",
       "onboard_time": 1698507634,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1131730,
-      "num": 1131730,
-      "word": "男子砍人未被罚数月后驾车撞死母子2人",
-      "onboard_time": 1698541533,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1124434,
@@ -59,12 +59,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937375,
+      "num": 423390,
+      "word": "何泓姗终于演大女主了",
+      "onboard_time": 1698544711,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 931385,
+      "num": 931385,
+      "word": "谁能想到这是头发而不是蕾丝",
+      "onboard_time": 1698542372,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 860384,
       "num": 379530,
       "word": "李湘王岳伦发出尖锐爆鸣",
       "onboard_time": 1698488794,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 850264,
+      "num": 591080,
+      "word": "巴以冲突已超9200人死亡",
+      "onboard_time": 1698544232,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 777235,
@@ -89,6 +113,14 @@
       "onboard_time": 1698535823,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 746845,
+      "num": 746845,
+      "word": "楼上是重点班 楼下是普通班",
+      "onboard_time": 1698542669,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 696044,
@@ -179,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556726,
+      "num": 556726,
+      "word": "彭斯宣布退出2024总统竞选",
+      "onboard_time": 1698543931,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 556515,
       "num": 556515,
       "word": "深圳欢乐谷被责令闭园整改",
@@ -195,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511475,
-      "num": 383754,
-      "word": "谁能想到这是头发而不是蕾丝",
-      "onboard_time": 1698542372,
-      "rank": 11,
-      "category": "美妆"
+      "raw_hot": 503623,
+      "num": 503623,
+      "word": "加沙地带经历迄今为止最严重轰炸",
+      "onboard_time": 1698544771,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 502659,
@@ -283,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401725,
+      "num": 401725,
+      "word": "陆虎快男时期看张杰非常不顺眼",
+      "onboard_time": 1698545433,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377442,
+      "num": 188642,
+      "word": "如何才能睡出一个好看的头型",
+      "onboard_time": 1698545134,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 365752,
       "num": 349372,
       "word": "张杰音乐节",
@@ -339,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305563,
-      "num": 184718,
-      "word": "楼上是重点班 楼下是普通班",
-      "onboard_time": 1698542669,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 297447,
       "num": 297447,
       "word": "AR晋级TI12败者组半决赛",
@@ -377,6 +425,22 @@
       "onboard_time": 1698536846,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 277054,
+      "num": 277054,
+      "word": "Ame订婚",
+      "onboard_time": 1698543271,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 273882,
+      "num": 273882,
+      "word": "女子就餐吃出蟑螂与商家沟通时被气晕",
+      "onboard_time": 1698544892,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269556,
@@ -419,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246621,
+      "num": 246621,
+      "word": "THE9演唱会 给十年后的自己",
+      "onboard_time": 1698540091,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245957,
       "num": 245957,
       "word": "G2",
@@ -459,14 +531,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 232793,
-      "num": 232793,
-      "word": "THE9演唱会 给十年后的自己",
-      "onboard_time": 1698540091,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 231968,
       "num": 231968,
       "word": "赖冠霖 人要近看了都差不多",
@@ -497,6 +561,14 @@
       "onboard_time": 1698538708,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210530,
+      "num": 187925,
+      "word": "THE9 dumb dumb bomb",
+      "onboard_time": 1698546092,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 205716,
@@ -547,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189366,
+      "num": 189366,
+      "word": "张云龙剥虾",
+      "onboard_time": 1698543091,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181819,
       "num": 181819,
       "word": "刘雨昕唱promise哽咽了",
@@ -561,6 +641,14 @@
       "onboard_time": 1698504697,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178619,
+      "num": 178619,
+      "word": "不要直接用黄瓜敷脸",
+      "onboard_time": 1698545433,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 177747,
@@ -611,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155029,
+      "num": 155029,
+      "word": "下睫毛印章是神器还是智商税",
+      "onboard_time": 1698542972,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 152029,
+      "num": 152029,
+      "word": "网友拍到和谐号和复兴号飙车",
+      "onboard_time": 1698545732,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151386,
       "num": 151386,
       "word": "贝林厄姆",
@@ -625,6 +729,14 @@
       "onboard_time": 1698507873,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149890,
+      "num": 149890,
+      "word": "老友记六人组不完整了",
+      "onboard_time": 1698546152,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 147732,
@@ -667,14 +779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142816,
-      "num": 142816,
-      "word": "下睫毛印章是神器还是智商税",
-      "onboard_time": 1698542972,
-      "rank": 36,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 142603,
       "num": 142603,
       "word": "文俊辉上节目带瓜子麻辣烫",
@@ -699,14 +803,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 141453,
-      "num": 141453,
-      "word": "Ame订婚",
-      "onboard_time": 1698543271,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 140631,
       "num": 140631,
       "word": "田耕纪编剧起诉剧方",
@@ -715,12 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138230,
-      "num": 138230,
-      "word": "张云龙剥虾",
-      "onboard_time": 1698543091,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 134932,
+      "num": 134932,
+      "word": "百年女士发型",
+      "onboard_time": 1698545913,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 134889,
+      "num": 134889,
+      "word": "我军特种车辆长途运输震撼画面",
+      "onboard_time": 1698544293,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 132661,
@@ -833,6 +937,14 @@
       "onboard_time": 1698504277,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110274,
+      "num": 110274,
+      "word": "许佳琪说很有可能是最后一次演唱会",
+      "onboard_time": 1698546033,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 104378,

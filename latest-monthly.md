@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 09:35:44
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/29 10:24:51
 </p>
 </blockquote>
 <p>
@@ -3201,6 +3201,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A0%8D%E4%BA%BA%E6%9C%AA%E8%A2%AB%E7%BD%9A%E6%95%B0%E6%9C%88%E5%90%8E%E9%A9%BE%E8%BD%A6%E6%92%9E%E6%AD%BB%E6%AF%8D%E5%AD%902%E4%BA%BA%23" target="weibo">
+男子砍人未被罚数月后驾车撞死母子2人（热度：1594001）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 女单决赛（热度：1593000）
 </a>
@@ -5345,12 +5351,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8E%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%95%86%E4%B8%9A%E5%85%B3%E8%81%94%23" target="weibo">
 揭秘李佳琦与小杨哥商业关联（热度：1132373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A0%8D%E4%BA%BA%E6%9C%AA%E8%A2%AB%E7%BD%9A%E6%95%B0%E6%9C%88%E5%90%8E%E9%A9%BE%E8%BD%A6%E6%92%9E%E6%AD%BB%E6%AF%8D%E5%AD%902%E4%BA%BA%23" target="weibo">
-男子砍人未被罚数月后驾车撞死母子2人（热度：1131730）
 </a>
 </li>
 
