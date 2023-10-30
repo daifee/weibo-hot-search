@@ -1,0 +1,410 @@
+{
+  "runTime": 1698708873366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136550,
+        "num": 1136550,
+        "word": "朋友30岁癌症去世生前说他反而很开心",
+        "onboard_time": 1698671555,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 986568,
+        "num": 986568,
+        "word": "梅西获得第八座金球奖",
+        "onboard_time": 1698707064,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20886,
+        "num": 881440,
+        "word": "直击第六届进博会",
+        "onboard_time": 1698669755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779150,
+        "num": 779150,
+        "word": "第一次觉得男女主be不可惜的",
+        "onboard_time": 1698677375,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356951,
+        "num": 356951,
+        "word": "你用过夸克吗",
+        "onboard_time": 1698707064,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287414,
+        "num": 287414,
+        "word": "大牌化妆品价格集体跳水看齐国货",
+        "onboard_time": 1698673402,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 284011,
+        "num": 284011,
+        "word": "钟楚曦14秒换了3套衣服",
+        "onboard_time": 1698678575,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248245,
+        "num": 248245,
+        "word": "以总理办公室发言人称坚决拒绝停火",
+        "onboard_time": 1698697213,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 214655,
+        "num": 214655,
+        "word": "谢可寅 以后再也不会有THE9了",
+        "onboard_time": 1698679593,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193745,
+        "num": 193745,
+        "word": "欢迎景海鹏朱杨柱桂海潮回家",
+        "onboard_time": 1698707966,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886902,
+        "num": 193724,
+        "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
+        "onboard_time": 1698677019,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845843,
+        "num": 190441,
+        "word": "缅甸",
+        "onboard_time": 1698673835,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 554004,
+        "num": 189774,
+        "word": "花西子跌出天猫双十一彩妆预售榜前20",
+        "onboard_time": 1698708506,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 492672,
+        "num": 188211,
+        "word": "李金铭14年吃剩的饭被留到现在",
+        "onboard_time": 1698658291,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449587,
+        "num": 186187,
+        "word": "万圣节徐冬冬cos终于来了",
+        "onboard_time": 1698674558,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 388718,
+        "num": 183861,
+        "word": "李健 我老婆我喜欢就好了",
+        "onboard_time": 1698663931,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182837,
+        "num": 182837,
+        "word": "夸克回应被罚",
+        "onboard_time": 1698678517,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181851,
+        "num": 181851,
+        "word": "金球奖",
+        "onboard_time": 1698674196,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173244,
+        "num": 173244,
+        "word": "孙颖莎光速下班",
+        "onboard_time": 1698708569,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167532,
+        "num": 167532,
+        "word": "苹果中国官方首降价",
+        "onboard_time": 1698663395,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 339199,
+        "num": 166472,
+        "word": "孙女在奶奶嫁妆柜子里发现了暗格",
+        "onboard_time": 1698707064,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161878,
+        "num": 161878,
+        "word": "看见爸爸网购记录后我羞愧了",
+        "onboard_time": 1698669335,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154795,
+        "num": 154795,
+        "word": "延禧攻略主题曲陆虎埋藏了自己的情感",
+        "onboard_time": 1698682528,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151015,
+        "num": 151015,
+        "word": "侯明昊体面",
+        "onboard_time": 1698708086,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150874,
+        "num": 150874,
+        "word": "WTT法兰克福冠军赛2023",
+        "onboard_time": 1698707425,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "胡锡进谈上海万圣节",
+        "onboard_time": 1698678575,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125406,
+        "num": 125406,
+        "word": "当牙医的爸爸给弄的万圣节尖牙",
+        "onboard_time": 1698664833,
+        "rank": 26,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 118801,
+        "num": 118801,
+        "word": "女毒贩为逃避刑罚6年生4娃",
+        "onboard_time": 1698667173,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117990,
+        "num": 117990,
+        "word": "今年很新的一种反向催婚",
+        "onboard_time": 1698670411,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113376,
+        "num": 113376,
+        "word": "2023只剩最后两个月",
+        "onboard_time": 1698708206,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108776,
+        "num": 108776,
+        "word": "iPhone13用户换15热情不高",
+        "onboard_time": 1698672695,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105796,
+        "num": 105796,
+        "word": "秦岚惹眼的发缝",
+        "onboard_time": 1698665192,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104672,
+        "num": 104672,
+        "word": "中国学者当面回怼日本学者",
+        "onboard_time": 1698684264,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103654,
+        "num": 103654,
+        "word": "南部战区回应菲护卫舰非法闯入",
+        "onboard_time": 1698673054,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99907,
+        "num": 99907,
+        "word": "这样做真的会显脸小",
+        "onboard_time": 1698674796,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98464,
+        "num": 98464,
+        "word": "蔡依林新歌",
+        "onboard_time": 1698708686,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97273,
+        "num": 97273,
+        "word": "ICU医生发了条朋友圈后结局暖心",
+        "onboard_time": 1698707904,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96568,
+        "num": 96568,
+        "word": "常去的彩票店有人中了7400w",
+        "onboard_time": 1698669512,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95047,
+        "num": 95047,
+        "word": "天官赐福动画开播三周年",
+        "onboard_time": 1698708386,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92798,
+        "num": 92798,
+        "word": "结局了来了三个客串",
+        "onboard_time": 1698701233,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91180,
+        "num": 91180,
+        "word": "连狗瘦之后五官都会变立体",
+        "onboard_time": 1698673716,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90319,
+        "num": 90319,
+        "word": "凯特王妃的发型是怎么做的",
+        "onboard_time": 1698670473,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 89202,
+        "num": 89202,
+        "word": "这部剧是懂网红直播剧本的",
+        "onboard_time": 1698674615,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86577,
+        "num": 86577,
+        "word": "金球奖颁奖典礼",
+        "onboard_time": 1698707545,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79595,
+        "num": 79595,
+        "word": "孕妇低血糖民警带一盒糖出警",
+        "onboard_time": 1698708686,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72669,
+        "num": 72669,
+        "word": "金鸡奖开幕式 嘉宾名单",
+        "onboard_time": 1698673835,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69858,
+        "num": 69858,
+        "word": "大熊猫园润带崽好温柔",
+        "onboard_time": 1698675875,
+        "rank": 46,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 69266,
+        "num": 69266,
+        "word": "上海万圣节 找个发疯的理由罢了",
+        "onboard_time": 1698673356,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68847,
+        "num": 68847,
+        "word": "秦岚胖了三斤",
+        "onboard_time": 1698677735,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68616,
+        "num": 68616,
+        "word": "警方称对权志龙的调查要从下周开始",
+        "onboard_time": 1698680971,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698707798894,
+  "endTime": 1698708873366,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986568,
+      "num": 986568,
+      "word": "梅西获得第八座金球奖",
+      "onboard_time": 1698707064,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 986487,
       "num": 986487,
       "word": "大胖媳妇拒绝陪丈母娘住院",
@@ -563,6 +571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 886902,
+      "num": 607702,
+      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
+      "onboard_time": 1698677019,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882272,
       "num": 257809,
       "word": "男童被4只狗追咬多次求救主人未制止",
@@ -665,14 +681,6 @@
       "onboard_time": 1698573271,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803938,
-      "num": 607702,
-      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
-      "onboard_time": 1698677019,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 800028,
@@ -1051,14 +1059,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 631836,
-      "num": 631836,
-      "word": "梅西获得第八座金球奖",
-      "onboard_time": 1698707064,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 624705,
       "num": 624705,
       "word": "上海万圣节冠军竞争太激烈了",
@@ -1296,6 +1296,14 @@
       "word": "这样做真的会显脸小",
       "onboard_time": 1698674796,
       "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 554004,
+      "num": 189774,
+      "word": "花西子跌出天猫双十一彩妆预售榜前20",
+      "onboard_time": 1698708506,
+      "rank": 12,
       "category": "美妆"
     },
     {
@@ -1987,6 +1995,14 @@
       "category": "国内要闻,教育"
     },
     {
+      "raw_hot": 356951,
+      "num": 356951,
+      "word": "你用过夸克吗",
+      "onboard_time": 1698707064,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 353787,
       "num": 854589,
       "word": "102岁老人和刚出生玄孙跨世纪对视太有爱",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1698631229,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 339199,
+      "num": 166472,
+      "word": "孙女在奶奶嫁妆柜子里发现了暗格",
+      "onboard_time": 1698707064,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339173,
@@ -2435,6 +2459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287414,
+      "num": 287414,
+      "word": "大牌化妆品价格集体跳水看齐国货",
+      "onboard_time": 1698673402,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 286475,
       "num": 338657,
       "word": "金球奖",
@@ -2755,6 +2787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 248245,
+      "num": 248245,
+      "word": "以总理办公室发言人称坚决拒绝停火",
+      "onboard_time": 1698697213,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 247756,
       "num": 247756,
       "word": "杨幂四分钟直拍",
@@ -2873,14 +2913,6 @@
       "onboard_time": 1698578558,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241469,
-      "num": 241469,
-      "word": "大牌化妆品价格集体跳水看齐国货",
-      "onboard_time": 1698673402,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 240904,
@@ -3099,14 +3131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227496,
-      "num": 88313,
-      "word": "孙女在奶奶嫁妆柜子里发现了暗格",
-      "onboard_time": 1698707064,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227210,
       "num": 275176,
       "word": "李克强同志逝世",
@@ -3297,14 +3321,6 @@
       "onboard_time": 1698635553,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 213464,
-      "num": 213464,
-      "word": "以总理办公室发言人称坚决拒绝停火",
-      "onboard_time": 1698697213,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 212923,
@@ -3833,6 +3849,14 @@
       "onboard_time": 1698583173,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193745,
+      "num": 193745,
+      "word": "欢迎景海鹏朱杨柱桂海潮回家",
+      "onboard_time": 1698707966,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193429,
@@ -4395,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173244,
+      "num": 173244,
+      "word": "孙颖莎光速下班",
+      "onboard_time": 1698708569,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173147,
       "num": 173147,
       "word": "周一 更适合打工人体质的鬼节",
@@ -4883,6 +4915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151015,
+      "num": 151015,
+      "word": "侯明昊体面",
+      "onboard_time": 1698708086,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150874,
+      "num": 150874,
+      "word": "WTT法兰克福冠军赛2023",
+      "onboard_time": 1698707425,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "天满光",
@@ -5057,14 +5105,6 @@
       "onboard_time": 1698561209,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 143736,
-      "num": 143736,
-      "word": "你用过夸克吗",
-      "onboard_time": 1698707064,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 143201,
@@ -5385,14 +5425,6 @@
       "onboard_time": 1698540933,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131316,
-      "num": 114588,
-      "word": "WTT法兰克福冠军赛2023",
-      "onboard_time": 1698707425,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 131311,
@@ -5859,6 +5891,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113376,
+      "num": 113376,
+      "word": "2023只剩最后两个月",
+      "onboard_time": 1698708206,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113184,
       "num": 113184,
       "word": "鞠婧祎唱恋爱告急好甜",
@@ -6107,6 +6147,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 98464,
+      "num": 98464,
+      "word": "蔡依林新歌",
+      "onboard_time": 1698708686,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 98453,
       "num": 98453,
       "word": "孔雪儿细闪眼妆",
@@ -6123,6 +6171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 97273,
+      "num": 97273,
+      "word": "ICU医生发了条朋友圈后结局暖心",
+      "onboard_time": 1698707904,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96726,
       "num": 96726,
       "word": "陈楚生新歌向海而生",
@@ -6137,6 +6193,14 @@
       "onboard_time": 1698622348,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95047,
+      "num": 95047,
+      "word": "天官赐福动画开播三周年",
+      "onboard_time": 1698708386,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 94864,
@@ -6211,12 +6275,28 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 86577,
+      "num": 86577,
+      "word": "金球奖颁奖典礼",
+      "onboard_time": 1698707545,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
       "onboard_time": 1698498157,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79595,
+      "num": 79595,
+      "word": "孕妇低血糖民警带一盒糖出警",
+      "onboard_time": 1698708686,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77747,
@@ -6289,14 +6369,6 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 68751,
-      "num": 68751,
-      "word": "金球奖颁奖典礼",
-      "onboard_time": 1698707545,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 67548,
@@ -6603,18 +6675,18 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20380,
-      "num": 960749,
-      "word": "杭州亚残运上那些拼尽全力的身影",
-      "onboard_time": 1698548553,
+      "raw_hot": 20886,
+      "num": 881440,
+      "word": "直击第六届进博会",
+      "onboard_time": 1698669755,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17328,
-      "num": 819911,
-      "word": "直击第六届进博会",
-      "onboard_time": 1698669755,
+      "raw_hot": 20380,
+      "num": 960749,
+      "word": "杭州亚残运上那些拼尽全力的身影",
+      "onboard_time": 1698548553,
       "rank": 2,
       "category": "社会新闻"
     },
