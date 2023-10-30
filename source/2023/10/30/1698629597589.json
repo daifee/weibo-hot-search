@@ -1,0 +1,410 @@
+{
+  "runTime": 1698629597589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979052,
+        "num": 979052,
+        "word": "谈恋爱时最不受欢迎的星座",
+        "onboard_time": 1698624454,
+        "rank": 0,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 758488,
+        "num": 758488,
+        "word": "iPhone15价格跳水",
+        "onboard_time": 1698622828,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30593,
+        "num": 621447,
+        "word": "杭州亚残运这些画面好戳泪点",
+        "onboard_time": 1698586596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615805,
+        "num": 615805,
+        "word": "英国29岁冰球运动员遭冰刀割喉去世",
+        "onboard_time": 1698590677,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361521,
+        "num": 361521,
+        "word": "家里已准备好迎接3名中国人回地球",
+        "onboard_time": 1698627213,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 382471,
+        "num": 330989,
+        "word": "加沙地带至少1870人仍被埋在废墟下",
+        "onboard_time": 1698624933,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 295229,
+        "num": 295229,
+        "word": "餐具收费大学生付1元直接带走",
+        "onboard_time": 1698582455,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 286250,
+        "word": "幼童卡喉脸已发紫护士45秒极速营救",
+        "onboard_time": 1698628590,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280329,
+        "num": 280329,
+        "word": "权志龙风波后首次更新个人账号",
+        "onboard_time": 1698629070,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256202,
+        "num": 256202,
+        "word": "川A大军给华西救护车让行",
+        "onboard_time": 1698623069,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409114,
+        "num": 256173,
+        "word": "这英cos那英",
+        "onboard_time": 1698623129,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1270916,
+        "num": 255500,
+        "word": "楚雨荨cos",
+        "onboard_time": 1698628890,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1234536,
+        "num": 255044,
+        "word": "迪丽热巴的表妹",
+        "onboard_time": 1698623791,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 915631,
+        "num": 254310,
+        "word": "万圣节cos 全明星律师函",
+        "onboard_time": 1698592236,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 903043,
+        "num": 254043,
+        "word": "嬛嬛这是送给朕的惊魂舞吗",
+        "onboard_time": 1698623429,
+        "rank": 14,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 418681,
+        "num": 253403,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1698623913,
+        "rank": 15,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 541973,
+        "num": 253118,
+        "word": "吴京cos",
+        "onboard_time": 1698592656,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 384388,
+        "num": 252779,
+        "word": "娄底渣渡中心小学",
+        "onboard_time": 1698623971,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252362,
+        "num": 252362,
+        "word": "enhypen 油头",
+        "onboard_time": 1698627453,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233389,
+        "num": 233389,
+        "word": "所有的雨都避开这只小狗",
+        "onboard_time": 1698627754,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227252,
+        "num": 227252,
+        "word": "沈腾承包了我所有的笑点",
+        "onboard_time": 1698627392,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223804,
+        "num": 223804,
+        "word": "知道为什么这季花少相处这么融洽了",
+        "onboard_time": 1698593794,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213341,
+        "num": 213341,
+        "word": "万圣节本土化",
+        "onboard_time": 1698629314,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191824,
+        "num": 195785,
+        "word": "哈马斯持续向以色列发射大量火箭弹",
+        "onboard_time": 1698592775,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 642988,
+        "num": 195173,
+        "word": "万圣节cos李佳琦",
+        "onboard_time": 1698590558,
+        "rank": 24,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 194439,
+        "word": "张云雷演唱会好多奶奶粉",
+        "onboard_time": 1698629190,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192132,
+        "num": 192132,
+        "word": "男生开玩笑称女朋友比父亲大三岁",
+        "onboard_time": 1698623791,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882272,
+        "num": 192065,
+        "word": "男童被4只狗追咬多次求救主人未制止",
+        "onboard_time": 1698625354,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188267,
+        "num": 191392,
+        "word": "中国驻美大使馆发紧急提醒",
+        "onboard_time": 1698579333,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 191282,
+        "num": 191282,
+        "word": "秋冬呼吸道传染病防治指南",
+        "onboard_time": 1698628950,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201365,
+        "num": 191267,
+        "word": "G2 uu们明年见",
+        "onboard_time": 1698626433,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187670,
+        "num": 187670,
+        "word": "印度富豪要求年轻人每周工作70小时",
+        "onboard_time": 1698629314,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185284,
+        "num": 185284,
+        "word": "Spirit双冠王",
+        "onboard_time": 1698626073,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181454,
+        "num": 181454,
+        "word": "迪亚斯父母被绑架",
+        "onboard_time": 1698625716,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169796,
+        "num": 169796,
+        "word": "月薪3万去不起泡泡玛特乐园",
+        "onboard_time": 1698582212,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166866,
+        "num": 166866,
+        "word": "詹姆斯生涯首秀20周年",
+        "onboard_time": 1698626494,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166499,
+        "num": 166499,
+        "word": "真正的KPOP高手才知道的男团",
+        "onboard_time": 1698628716,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 161649,
+        "word": "十月就看到春晚了",
+        "onboard_time": 1698623669,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154757,
+        "num": 154757,
+        "word": "石矶娘娘cos",
+        "onboard_time": 1698588215,
+        "rank": 38,
+        "category": "动漫,美妆"
+      },
+      {
+        "raw_hot": 154445,
+        "num": 154445,
+        "word": "女生脚疼日本医院要手术回国查是鸡眼",
+        "onboard_time": 1698585093,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149860,
+        "num": 149860,
+        "word": "各种维生素不足和过量有啥表现",
+        "onboard_time": 1698629431,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147305,
+        "num": 147305,
+        "word": "苏醒再就业以来最愉快的音乐节目",
+        "onboard_time": 1698624514,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137669,
+        "num": 137669,
+        "word": "商店店员被曝当街用开水烫杀狗",
+        "onboard_time": 1698602959,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137561,
+        "num": 137561,
+        "word": "向佐和孩子们一起玩蹦床",
+        "onboard_time": 1698625955,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135103,
+        "num": 135103,
+        "word": "十几年前妈妈的QQ空间",
+        "onboard_time": 1698626494,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129944,
+        "num": 129944,
+        "word": "深圳欢乐谷致歉",
+        "onboard_time": 1698597388,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114654,
+        "num": 114654,
+        "word": "90后小伙捐髓救人新婚妻子全程陪同",
+        "onboard_time": 1698626553,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111933,
+        "num": 111933,
+        "word": "何洁减肥大法",
+        "onboard_time": 1698590197,
+        "rank": 47,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 111792,
+        "num": 111792,
+        "word": "久坐再也别想累丑了",
+        "onboard_time": 1698591034,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111654,
+        "num": 111654,
+        "word": "新疆阿克苏地震",
+        "onboard_time": 1698622589,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

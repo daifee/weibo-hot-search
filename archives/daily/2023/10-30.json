@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698628362033,
+  "endTime": 1698629597589,
   "band_list": [
     {
       "raw_hot": 1508188,
@@ -27,12 +27,28 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 1270916,
+      "num": 255500,
+      "word": "楚雨荨cos",
+      "onboard_time": 1698628890,
+      "rank": 11,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 1083028,
-      "num": 249937,
+      "num": 253118,
       "word": "吴京cos",
       "onboard_time": 1698592656,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 979052,
+      "num": 979052,
+      "word": "谈恋爱时最不受欢迎的星座",
+      "onboard_time": 1698624454,
+      "rank": 1,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 949667,
@@ -59,15 +75,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 834287,
-      "num": 834287,
-      "word": "谈恋爱时最不受欢迎的星座",
-      "onboard_time": 1698624454,
-      "rank": 1,
-      "category": "情感,网红"
-    },
-    {
-      "raw_hot": 830753,
+      "raw_hot": 882272,
       "num": 257809,
       "word": "男童被4只狗追咬多次求救主人未制止",
       "onboard_time": 1698625354,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 474009,
-      "num": 328007,
+      "num": 330989,
       "word": "加沙地带至少1870人仍被埋在废墟下",
       "onboard_time": 1698624933,
       "rank": 5,
@@ -145,6 +153,14 @@
       "onboard_time": 1698589896,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361521,
+      "num": 361521,
+      "word": "家里已准备好迎接3名中国人回地球",
+      "onboard_time": 1698627213,
+      "rank": 24,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 359178,
@@ -211,6 +227,22 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 286250,
+      "num": 286250,
+      "word": "幼童卡喉脸已发紫护士45秒极速营救",
+      "onboard_time": 1698628590,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280329,
+      "num": 280329,
+      "word": "权志龙风波后首次更新个人账号",
+      "onboard_time": 1698629070,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269965,
       "num": 269965,
       "word": "女子花270元订酒店套房竟有会议室",
@@ -235,8 +267,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250686,
-      "num": 250686,
+      "raw_hot": 252362,
+      "num": 252362,
       "word": "enhypen 油头",
       "onboard_time": 1698627453,
       "rank": 19,
@@ -275,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233389,
+      "num": 233389,
+      "word": "所有的雨都避开这只小狗",
+      "onboard_time": 1698627754,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232380,
       "num": 232380,
       "word": "考公人的精神状态",
@@ -284,27 +324,11 @@
     },
     {
       "raw_hot": 231492,
-      "num": 187214,
+      "num": 191267,
       "word": "G2 uu们明年见",
       "onboard_time": 1698626433,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228782,
-      "num": 186185,
-      "word": "所有的雨都避开这只小狗",
-      "onboard_time": 1698627754,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 224130,
-      "num": 224130,
-      "word": "家里已准备好迎接3名中国人回地球",
-      "onboard_time": 1698627213,
-      "rank": 24,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 220513,
@@ -321,6 +345,14 @@
       "onboard_time": 1698597027,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213341,
+      "num": 213341,
+      "word": "万圣节本土化",
+      "onboard_time": 1698629314,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 210584,
@@ -347,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194439,
+      "num": 194439,
+      "word": "张云雷演唱会好多奶奶粉",
+      "onboard_time": 1698629190,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193568,
       "num": 193568,
       "word": "孙颖莎 破阵",
@@ -363,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191282,
+      "num": 191282,
+      "word": "秋冬呼吸道传染病防治指南",
+      "onboard_time": 1698628950,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188417,
       "num": 188417,
       "word": "中国队男子5000米接力冠军",
@@ -376,6 +424,14 @@
       "word": "大叔用废弃筷子搭出微缩版黄鹤楼",
       "onboard_time": 1698621205,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187670,
+      "num": 187670,
+      "word": "印度富豪要求年轻人每周工作70小时",
+      "onboard_time": 1698629314,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -401,6 +457,14 @@
       "onboard_time": 1698586115,
       "rank": 22,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 166499,
+      "num": 166499,
+      "word": "真正的KPOP高手才知道的男团",
+      "onboard_time": 1698628716,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 165793,
@@ -465,6 +529,14 @@
       "onboard_time": 1698597388,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149860,
+      "num": 149860,
+      "word": "各种维生素不足和过量有啥表现",
+      "onboard_time": 1698629431,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147259,
