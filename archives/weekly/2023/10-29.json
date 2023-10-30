@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698675373534,
+  "endTime": 1698676463564,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -147,12 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1765099,
-      "num": 1765099,
+      "raw_hot": 1830698,
+      "num": 1830698,
       "word": "朋友30岁癌症去世生前说他反而很开心",
       "onboard_time": 1698671555,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1769779,
+      "num": 434737,
+      "word": "缅甸",
+      "onboard_time": 1698673835,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1759986,
@@ -529,14 +537,6 @@
       "onboard_time": 1698653913,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 892706,
-      "num": 434737,
-      "word": "缅甸",
-      "onboard_time": 1698673835,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 889105,
@@ -1339,8 +1339,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 510078,
-      "num": 510078,
+      "raw_hot": 511338,
+      "num": 511338,
       "word": "南部战区回应菲护卫舰非法闯入",
       "onboard_time": 1698673054,
       "rank": 7,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1698582093,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 490886,
+      "num": 405279,
+      "word": "万圣节徐冬冬cos终于来了",
+      "onboard_time": 1698674558,
+      "rank": 23,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 488479,
@@ -1795,6 +1803,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 382024,
+      "num": 322044,
+      "word": "iPhone13用户换15热情不高",
+      "onboard_time": 1698672695,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 376583,
       "num": 376583,
       "word": "周冬雨同款扎发",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1698507400,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 363413,
-      "num": 322044,
-      "word": "iPhone13用户换15热情不高",
-      "onboard_time": 1698672695,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 362125,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1698508054,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347111,
+      "num": 255691,
+      "word": "这样做真的会显脸小",
+      "onboard_time": 1698674796,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 342964,
@@ -2067,14 +2083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 320708,
-      "num": 320708,
-      "word": "万圣节徐冬冬cos终于来了",
-      "onboard_time": 1698674558,
-      "rank": 23,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 319729,
       "num": 282747,
       "word": "Maybe 玩爽了梦也醒了",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1698595110,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 309403,
-      "num": 255691,
-      "word": "这样做真的会显脸小",
-      "onboard_time": 1698674796,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 308847,
@@ -2212,7 +2212,7 @@
     },
     {
       "raw_hot": 298004,
-      "num": 253548,
+      "num": 261603,
       "word": "连狗瘦之后五官都会变立体",
       "onboard_time": 1698673716,
       "rank": 31,
@@ -2315,12 +2315,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 288637,
+      "num": 341652,
+      "word": "Kimi晒中国粉丝礼物",
+      "onboard_time": 1698675697,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287624,
       "num": 287624,
       "word": "DK",
       "onboard_time": 1698571052,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286475,
+      "num": 338657,
+      "word": "金球奖",
+      "onboard_time": 1698674196,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 286230,
@@ -2691,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245795,
+      "num": 245795,
+      "word": "王哲林",
+      "onboard_time": 1698674558,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245456,
       "num": 245456,
       "word": "温州将迎来一波大型个人演唱会",
@@ -2787,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237441,
-      "num": 338657,
-      "word": "金球奖",
-      "onboard_time": 1698674196,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237365,
       "num": 237365,
       "word": "看过急救现场马上去学海姆立克方法了",
@@ -2849,6 +2865,14 @@
       "onboard_time": 1698670411,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234854,
+      "num": 234854,
+      "word": "张小斐说拍拯救嫌疑人暴瘦",
+      "onboard_time": 1698675577,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 234198,
@@ -2987,6 +3011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224994,
+      "num": 224994,
+      "word": "田嘉瑞回应红气养人",
+      "onboard_time": 1698675816,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224881,
       "num": 224881,
       "word": "权顺荣和粉丝牵手",
@@ -3120,6 +3152,14 @@
       "word": "古相思曲",
       "onboard_time": 1698637053,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215499,
+      "num": 215499,
+      "word": "这部剧是懂网红直播剧本的",
+      "onboard_time": 1698674615,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -3265,14 +3305,6 @@
       "onboard_time": 1698570509,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205857,
-      "num": 167105,
-      "word": "这部剧是懂网红直播剧本的",
-      "onboard_time": 1698674615,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 205716,
@@ -3907,6 +3939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186654,
+      "num": 186654,
+      "word": "拯救嫌疑人首映礼官宣提档",
+      "onboard_time": 1698675938,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "白骨精仿妆",
@@ -3921,6 +3961,14 @@
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185771,
+      "num": 185771,
+      "word": "徐斯天天有钱进账",
+      "onboard_time": 1698676175,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 185627,
@@ -3992,6 +4040,14 @@
       "word": "王鹤润出道7年演了25部剧",
       "onboard_time": 1698553710,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181289,
+      "num": 181289,
+      "word": "罗云熙又在现偶骑三蹦子",
+      "onboard_time": 1698675397,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -4347,14 +4403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165223,
-      "num": 165223,
-      "word": "王哲林",
-      "onboard_time": 1698674558,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164641,
       "num": 164641,
       "word": "S13八强",
@@ -4417,6 +4465,14 @@
       "onboard_time": 1698669932,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161789,
+      "num": 161789,
+      "word": "电视剧宣判定档1030",
+      "onboard_time": 1698675277,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 161145,
@@ -4681,6 +4737,14 @@
       "onboard_time": 1698631352,
       "rank": 31,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 149316,
+      "num": 149316,
+      "word": "吴宣仪回应写错字了",
+      "onboard_time": 1698676416,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148498,
@@ -5041,14 +5105,6 @@
       "onboard_time": 1698627152,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133697,
-      "num": 133697,
-      "word": "电视剧宣判定档1030",
-      "onboard_time": 1698675277,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 133219,
@@ -5587,6 +5643,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 113751,
+      "num": 144749,
+      "word": "大熊猫园润带崽好温柔",
+      "onboard_time": 1698675875,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 113184,
       "num": 113184,
       "word": "鞠婧祎唱恋爱告急好甜",
@@ -5625,6 +5689,14 @@
       "onboard_time": 1698635790,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110180,
+      "num": 142423,
+      "word": "女子地铁突发癫痫摔破脸急坏民警",
+      "onboard_time": 1698675997,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109974,
@@ -6131,6 +6203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39806,
+      "num": 401016,
+      "word": "北马破三国产跑鞋占比过半",
+      "onboard_time": 1698674435,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 38535,
       "num": 38535,
       "word": "古早cp最遥远的距离",
@@ -6185,14 +6265,6 @@
       "onboard_time": 1698524414,
       "rank": 44,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 24542,
-      "num": 401016,
-      "word": "北马破三国产跑鞋占比过半",
-      "onboard_time": 1698674435,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 20380,

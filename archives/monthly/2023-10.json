@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698675373534,
+  "endTime": 1698676463564,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -3235,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1830698,
+      "num": 1830698,
+      "word": "朋友30岁癌症去世生前说他反而很开心",
+      "onboard_time": 1698671555,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1826306,
       "num": 1186416,
       "word": "杜华说不想再养NAME了",
@@ -3513,14 +3521,6 @@
       "onboard_time": 1697722478,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1765099,
-      "num": 1765099,
-      "word": "朋友30岁癌症去世生前说他反而很开心",
-      "onboard_time": 1698671555,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1764248,
@@ -21339,6 +21339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511338,
+      "num": 511338,
+      "word": "南部战区回应菲护卫舰非法闯入",
+      "onboard_time": 1698673054,
+      "rank": 7,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 511104,
       "num": 511104,
       "word": "胡兵曾代表中国赛艇队拿了世界第七",
@@ -21385,14 +21393,6 @@
       "onboard_time": 1696383695,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510078,
-      "num": 510078,
-      "word": "南部战区回应菲护卫舰非法闯入",
-      "onboard_time": 1698673054,
-      "rank": 7,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 510041,
@@ -22377,6 +22377,14 @@
       "onboard_time": 1697440291,
       "rank": 36,
       "category": "演出,幽默"
+    },
+    {
+      "raw_hot": 490886,
+      "num": 405279,
+      "word": "万圣节徐冬冬cos终于来了",
+      "onboard_time": 1698674558,
+      "rank": 23,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 490759,
@@ -29611,6 +29619,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 382024,
+      "num": 322044,
+      "word": "iPhone13用户换15热情不高",
+      "onboard_time": 1698672695,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 382011,
       "num": 307508,
       "word": "流浪地球2角逐奥斯卡",
@@ -31033,14 +31049,6 @@
       "onboard_time": 1696482693,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363413,
-      "num": 322044,
-      "word": "iPhone13用户换15热情不高",
-      "onboard_time": 1698672695,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 363273,
@@ -32537,6 +32545,14 @@
       "onboard_time": 1696571075,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 347111,
+      "num": 255691,
+      "word": "这样做真的会显脸小",
+      "onboard_time": 1698674796,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 347089,
@@ -35131,14 +35147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 320708,
-      "num": 320708,
-      "word": "万圣节徐冬冬cos终于来了",
-      "onboard_time": 1698674558,
-      "rank": 23,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 320691,
       "num": 1731169,
       "word": "双眼皮的大熊猫有多可爱",
@@ -36297,14 +36305,6 @@
       "onboard_time": 1698159457,
       "rank": 18,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 309403,
-      "num": 255691,
-      "word": "这样做真的会显脸小",
-      "onboard_time": 1698674796,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 309327,
@@ -37708,7 +37708,7 @@
     },
     {
       "raw_hot": 298004,
-      "num": 253548,
+      "num": 261603,
       "word": "连狗瘦之后五官都会变立体",
       "onboard_time": 1698673716,
       "rank": 31,
@@ -38987,6 +38987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288637,
+      "num": 341652,
+      "word": "Kimi晒中国粉丝礼物",
+      "onboard_time": 1698675697,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288624,
       "num": 288624,
       "word": "玫瑰故事",
@@ -39345,6 +39353,14 @@
       "onboard_time": 1696125512,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286475,
+      "num": 338657,
+      "word": "金球奖",
+      "onboard_time": 1698674196,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 286456,
@@ -45835,6 +45851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245795,
+      "num": 245795,
+      "word": "王哲林",
+      "onboard_time": 1696312531,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245687,
       "num": 245687,
       "word": "刘嘉玲晒梁朝伟是枝裕和合影",
@@ -46049,14 +46073,6 @@
       "onboard_time": 1697089835,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 244715,
-      "num": 244715,
-      "word": "王哲林",
-      "onboard_time": 1696312531,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 244677,
@@ -47283,14 +47299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 237441,
-      "num": 338657,
-      "word": "金球奖",
-      "onboard_time": 1698674196,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237406,
       "num": 237406,
       "word": "詹姆斯真老了",
@@ -47881,6 +47889,14 @@
       "onboard_time": 1697846306,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234854,
+      "num": 234854,
+      "word": "张小斐说拍拯救嫌疑人暴瘦",
+      "onboard_time": 1698675577,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 234850,
@@ -49835,6 +49851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224994,
+      "num": 224994,
+      "word": "田嘉瑞回应红气养人",
+      "onboard_time": 1698675816,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224973,
       "num": 224973,
       "word": "原神 小保底不歪",
@@ -51737,6 +51761,14 @@
       "onboard_time": 1696648594,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215499,
+      "num": 215499,
+      "word": "这部剧是懂网红直播剧本的",
+      "onboard_time": 1698674615,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 215479,
@@ -54313,14 +54345,6 @@
       "onboard_time": 1697719356,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205857,
-      "num": 167105,
-      "word": "这部剧是懂网红直播剧本的",
-      "onboard_time": 1698674615,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 205828,
@@ -61443,6 +61467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186654,
+      "num": 186654,
+      "word": "拯救嫌疑人首映礼官宣提档",
+      "onboard_time": 1698675938,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186641,
       "num": 186641,
       "word": "克拉克森没来",
@@ -61737,6 +61769,14 @@
       "onboard_time": 1696584033,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185771,
+      "num": 185771,
+      "word": "徐斯天天有钱进账",
+      "onboard_time": 1698676175,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 185739,
@@ -63049,6 +63089,14 @@
       "onboard_time": 1697085159,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181289,
+      "num": 181289,
+      "word": "罗云熙又在现偶骑三蹦子",
+      "onboard_time": 1698675397,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 181284,
@@ -68107,6 +68155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161789,
+      "num": 161789,
+      "word": "电视剧宣判定档1030",
+      "onboard_time": 1698675277,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "全红婵陈若琳拥抱",
@@ -71217,6 +71273,14 @@
       "onboard_time": 1697338708,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149316,
+      "num": 149316,
+      "word": "吴宣仪回应写错字了",
+      "onboard_time": 1698676416,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149305,
@@ -74753,14 +74817,6 @@
       "onboard_time": 1697251116,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133697,
-      "num": 133697,
-      "word": "电视剧宣判定档1030",
-      "onboard_time": 1698675277,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 133668,
@@ -78323,6 +78379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113751,
+      "num": 144749,
+      "word": "大熊猫园润带崽好温柔",
+      "onboard_time": 1698675875,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 113644,
       "num": 113644,
       "word": "马哲的枪里还剩7发子弹",
@@ -78688,6 +78752,14 @@
       "word": "民警进校园摆摊开模拟驾校",
       "onboard_time": 1697878472,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110180,
+      "num": 142423,
+      "word": "女子地铁突发癫痫摔破脸急坏民警",
+      "onboard_time": 1698675997,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -83651,6 +83723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39806,
+      "num": 401016,
+      "word": "北马破三国产跑鞋占比过半",
+      "onboard_time": 1698674435,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 39735,
       "num": 39735,
       "word": "鞠萍姐姐 绝对最佳女主角",
@@ -84425,14 +84505,6 @@
       "onboard_time": 1697169997,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 24542,
-      "num": 401016,
-      "word": "北马破三国产跑鞋占比过半",
-      "onboard_time": 1698674435,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 24484,

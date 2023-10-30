@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 22:16:13
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 22:34:23
 </p>
 </blockquote>
 <p>
@@ -2439,6 +2439,12 @@ Lucky八岁了好漂亮（热度：1840803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23" target="weibo">
+朋友30岁癌症去世生前说他反而很开心（热度：1830698）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23" target="weibo">
 杜华说不想再养NAME了（热度：1826306）
 </a>
@@ -2645,12 +2651,6 @@ K5133次旅客列车运行中脱轨（热度：1792980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%E7%89%9B%E5%95%8A%23" target="weibo">
 Bin哥牛啊（热度：1766274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23" target="weibo">
-朋友30岁癌症去世生前说他反而很开心（热度：1765099）
 </a>
 </li>
 
