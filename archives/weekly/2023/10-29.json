@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698654888165,
+  "endTime": 1698657453082,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -65,6 +65,14 @@
       "onboard_time": 1698590558,
       "rank": 10,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 2063697,
+      "num": 2063697,
+      "word": "大学生校内乘共享电动车摔伤后身亡",
+      "onboard_time": 1698653013,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2060724,
@@ -241,14 +249,6 @@
       "onboard_time": 1698573329,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1229682,
-      "num": 1229682,
-      "word": "大学生校内乘共享电动车摔伤后身亡",
-      "onboard_time": 1698653013,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1225735,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876164,
+      "num": 324964,
+      "word": "字节跳动除夕放假",
+      "onboard_time": 1698650551,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860384,
       "num": 379530,
       "word": "李湘王岳伦发出尖锐爆鸣",
@@ -561,6 +569,14 @@
       "onboard_time": 1698635253,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 784980,
+      "num": 322538,
+      "word": "陈若琳被调至北京工作",
+      "onboard_time": 1698656432,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 777235,
@@ -809,14 +825,6 @@
       "onboard_time": 1698632312,
       "rank": 34,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 642263,
-      "num": 243110,
-      "word": "字节跳动除夕放假",
-      "onboard_time": 1698650551,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638131,
@@ -1147,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512796,
+      "num": 512796,
+      "word": "王安宇回应微信名闪亮的屁灯",
+      "onboard_time": 1698656671,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505243,
       "num": 268718,
       "word": "女生脚疼日本医院要手术回国查是鸡眼",
@@ -1387,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428945,
+      "num": 311799,
+      "word": "王一博去珠海考赛车证",
+      "onboard_time": 1698656013,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424809,
       "num": 424809,
       "word": "柿子拿铁",
@@ -1443,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409042,
+      "num": 409042,
+      "word": "王海称李佳琦和田玉附假鉴定证书已实锤",
+      "onboard_time": 1698656131,
+      "rank": 7,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1698584434,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398282,
+      "num": 308948,
+      "word": "王源工作室发了九宫格",
+      "onboard_time": 1698656552,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 389090,
@@ -1707,6 +1747,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325732,
+      "num": 325732,
+      "word": "女子捡到包裹38枚银元价值10多万",
+      "onboard_time": 1698651571,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322516,
+      "num": 275547,
+      "word": "17岁高中生颈椎后凸堪比47岁",
+      "onboard_time": 1698654390,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321586,
       "num": 321586,
       "word": "LPL抽签二段笑",
@@ -1729,14 +1785,6 @@
       "onboard_time": 1698562412,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 319390,
-      "num": 319390,
-      "word": "女子捡到包裹38枚银元价值10多万",
-      "onboard_time": 1698651571,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314586,
@@ -2059,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262772,
+      "num": 262772,
+      "word": "花少团吐槽后期剪的预告",
+      "onboard_time": 1698657155,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262645,
       "num": 262645,
       "word": "Spirit双冠王",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1698562890,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 242604,
+      "num": 242604,
+      "word": "保定一学生屁股被老师打成黑紫色",
+      "onboard_time": 1698656491,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 242592,
@@ -2563,6 +2627,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 219288,
+      "num": 215962,
+      "word": "大小杨哥带众徒弟喊话小黄",
+      "onboard_time": 1698656613,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 219272,
       "num": 219272,
       "word": "陆沉 我电话呢",
@@ -2779,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204696,
+      "num": 204696,
+      "word": "郭敬明于正王一栩 有自己的燃冬",
+      "onboard_time": 1698656971,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203820,
       "num": 203820,
       "word": "万圣节cos",
@@ -2961,6 +3041,14 @@
       "onboard_time": 1698590436,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196804,
+      "num": 196804,
+      "word": "MBC与HYBE和解",
+      "onboard_time": 1698656850,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 196786,
@@ -3299,6 +3387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182905,
+      "num": 182905,
+      "word": "万圣节cos向太全记录",
+      "onboard_time": 1698655832,
+      "rank": 31,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 181853,
+      "num": 181853,
+      "word": "重生文学算是被玩明白了",
+      "onboard_time": 1698657393,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181819,
       "num": 181819,
       "word": "刘雨昕唱promise哽咽了",
@@ -3321,6 +3425,22 @@
       "onboard_time": 1698556772,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 181250,
+      "num": 181250,
+      "word": "米哈游公告打击游戏私服",
+      "onboard_time": 1698655712,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 181151,
+      "num": 181151,
+      "word": "为什么有些父母执着于逼婚",
+      "onboard_time": 1698654992,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 180739,
@@ -3611,6 +3731,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 165653,
+      "num": 165653,
+      "word": "不计成本的粥底火锅",
+      "onboard_time": 1698655471,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165241,
       "num": 165241,
       "word": "海清饰演张校长让大山女孩考出去",
@@ -3771,14 +3899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156531,
-      "num": 156531,
-      "word": "17岁高中生颈椎后凸堪比47岁",
-      "onboard_time": 1698654390,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155879,
       "num": 155879,
       "word": "周也待播现偶男主檀健次林一",
@@ -3817,6 +3937,14 @@
       "onboard_time": 1698593015,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154050,
+      "num": 154050,
+      "word": "52岁环卫大姐连续3年边工作边自考大学",
+      "onboard_time": 1698656432,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154046,
@@ -3929,6 +4057,14 @@
       "onboard_time": 1698543152,
       "rank": 34,
       "category": "美妆,科技"
+    },
+    {
+      "raw_hot": 147400,
+      "num": 147400,
+      "word": "罗云熙最有cp感的女主",
+      "onboard_time": 1698657211,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 147259,
@@ -4137,6 +4273,14 @@
       "onboard_time": 1698577954,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135644,
+      "num": 135644,
+      "word": "机械菩萨妆",
+      "onboard_time": 1698655894,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 135618,
@@ -4683,6 +4827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 111576,
+      "num": 111576,
+      "word": "别摸此猫",
+      "onboard_time": 1698657271,
+      "rank": 44,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 111380,
       "num": 111380,
       "word": "王哲林关键失误",
@@ -5209,6 +5361,14 @@
       "onboard_time": 1698567935,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28342,
+      "num": 825908,
+      "word": "杭州亚残运会暖心短片",
+      "onboard_time": 1698655535,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 26583,
