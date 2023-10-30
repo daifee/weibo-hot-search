@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698647762128,
+  "endTime": 1698650163176,
   "band_list": [
     {
       "raw_hot": 2607465,
@@ -59,12 +59,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 1451515,
+      "num": 1451515,
+      "word": "科学家警告防晒霜悖论",
+      "onboard_time": 1698644850,
+      "rank": 7,
+      "category": "美妆,知识科普"
+    },
+    {
       "raw_hot": 1339169,
       "num": 253030,
       "word": "万圣节cos李佳琦",
       "onboard_time": 1698590558,
       "rank": 10,
       "category": "网红,美妆"
+    },
+    {
+      "raw_hot": 1206213,
+      "num": 1206213,
+      "word": "小S许雅钧cos",
+      "onboard_time": 1698649110,
+      "rank": 1,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 1083028,
@@ -89,14 +105,6 @@
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 953418,
-      "num": 953418,
-      "word": "科学家警告防晒霜悖论",
-      "onboard_time": 1698644850,
-      "rank": 7,
-      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 952487,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681263,
+      "num": 328843,
+      "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
+      "onboard_time": 1698647491,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681061,
       "num": 400989,
       "word": "别把孩子养得太老实",
@@ -233,6 +249,14 @@
       "onboard_time": 1698634472,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665512,
+      "num": 665512,
+      "word": "网友裸辞炒股5个月亏损48%",
+      "onboard_time": 1698646771,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 648980,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562268,
+      "num": 562268,
+      "word": "突然发现我上四年大学花了十万",
+      "onboard_time": 1698647968,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 561427,
       "num": 521244,
       "word": "关智斌想和赵丽颖演伦理剧",
@@ -339,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482845,
+      "num": 305839,
+      "word": "火鬼王cos",
+      "onboard_time": 1698647430,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 474009,
       "num": 330989,
       "word": "加沙地带至少1870人仍被埋在废墟下",
@@ -353,6 +393,14 @@
       "onboard_time": 1698615254,
       "rank": 12,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 440081,
+      "num": 299666,
+      "word": "郭敬明 你哥最帅",
+      "onboard_time": 1698649470,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434364,
@@ -371,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432255,
+      "num": 293736,
+      "word": "陈都灵恶女妆",
+      "onboard_time": 1698649171,
+      "rank": 14,
+      "category": "电影,美妆"
+    },
+    {
       "raw_hot": 417548,
       "num": 295295,
       "word": "权志龙风波后首次更新个人账号",
@@ -385,14 +441,6 @@
       "onboard_time": 1698628590,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402010,
-      "num": 402010,
-      "word": "网友裸辞炒股5个月亏损48%",
-      "onboard_time": 1698646771,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 389090,
@@ -419,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382361,
+      "num": 382361,
+      "word": "一个视频弄清自己适合长发还是短发",
+      "onboard_time": 1698646231,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 378654,
       "num": 173666,
       "word": "迪丽热巴有十年没回家了",
@@ -436,7 +492,7 @@
     },
     {
       "raw_hot": 361521,
-      "num": 870191,
+      "num": 1116357,
       "word": "家里已准备好迎接3名中国人回地球",
       "onboard_time": 1698627213,
       "rank": 24,
@@ -521,14 +577,6 @@
       "onboard_time": 1698623069,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298431,
-      "num": 179777,
-      "word": "一个视频弄清自己适合长发还是短发",
-      "onboard_time": 1698646231,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 295638,
@@ -763,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226570,
+      "num": 226570,
+      "word": "仙剑三里的封神台词",
+      "onboard_time": 1698647312,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222188,
       "num": 222188,
       "word": "知识用卑鄙的方式进了脑子",
@@ -809,14 +865,6 @@
       "onboard_time": 1698597027,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217011,
-      "num": 217011,
-      "word": "火鬼王cos",
-      "onboard_time": 1698647430,
-      "rank": 22,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 216197,
@@ -907,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204718,
+      "num": 159910,
+      "word": "谁都别惹我们郭总",
+      "onboard_time": 1698649352,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201404,
       "num": 201404,
       "word": "樊振东发带造型太帅了",
@@ -979,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191676,
-      "num": 191676,
-      "word": "仙剑三里的封神台词",
-      "onboard_time": 1698647312,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191420,
       "num": 191420,
       "word": "7岁女孩在校被多人霸凌",
@@ -1043,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183842,
+      "num": 159719,
+      "word": "原来贞子宝宝就是去年的下水道宝宝",
+      "onboard_time": 1698648152,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183571,
       "num": 183571,
       "word": "02年小伙花180元从青岛坐公交来杭州",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1698637595,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178918,
-      "num": 178918,
-      "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
-      "onboard_time": 1698647491,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178848,
@@ -1259,12 +1307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158651,
+      "num": 158651,
+      "word": "淡颜不适合画浓妆",
+      "onboard_time": 1698650070,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 157304,
       "num": 157304,
       "word": "向佐和孩子们一起玩蹦床",
       "onboard_time": 1698625955,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157129,
+      "num": 157129,
+      "word": "卢昱晓少女情绪大片",
+      "onboard_time": 1698648391,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 157015,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1698592536,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145250,
+      "num": 145250,
+      "word": "钟楚曦新剧甲方是前男友",
+      "onboard_time": 1698647670,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 144714,
@@ -1459,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123966,
+      "num": 123966,
+      "word": "毛不易说单依纯电视上的少",
+      "onboard_time": 1698648270,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123870,
       "num": 123870,
       "word": "她悉心照顾95岁独居邻居31年",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1698634954,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 120314,
+      "num": 120314,
+      "word": "圆脸如何化小脸妆容",
+      "onboard_time": 1698649830,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 119581,
@@ -1539,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108143,
+      "num": 108143,
+      "word": "长城汽车三季度利润暴增200%",
+      "onboard_time": 1698648809,
+      "rank": 47,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 106775,
       "num": 375781,
       "word": "OPPO小折叠中国市场第一",
@@ -1576,6 +1672,22 @@
       "word": "男子全马PB瘫倒救援队公主抱急救",
       "onboard_time": 1698630989,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101780,
+      "num": 101780,
+      "word": "猫咪头套袋子过马路女子车流中救助",
+      "onboard_time": 1698648630,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101047,
+      "num": 101047,
+      "word": "直播间真的便宜吗",
+      "onboard_time": 1698648152,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62647,
+      "num": 125651,
+      "word": "上千个天猫品牌承诺买贵双倍赔",
+      "onboard_time": 1698649228,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55866,
       "num": 34064,
       "word": "熬夜吃什么补回来",
@@ -1777,6 +1897,14 @@
       "onboard_time": 1698600320,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54813,
+      "num": 221286,
+      "word": "天猫把购物车推进王者峡谷",
+      "onboard_time": 1698646890,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 50048,
@@ -1809,14 +1937,6 @@
       "onboard_time": 1698586596,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31793,
-      "num": 221286,
-      "word": "天猫把购物车推进王者峡谷",
-      "onboard_time": 1698646890,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 15354,
