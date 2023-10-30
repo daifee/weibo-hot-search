@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698640537196,
+  "endTime": 1698643001809,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -17,6 +17,14 @@
       "onboard_time": 1698631651,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2395038,
+      "num": 2395038,
+      "word": "湖南冷水江通报网传7岁女孩遭霸凌",
+      "onboard_time": 1698641919,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2203373,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1676293,
+      "num": 1676293,
+      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+      "onboard_time": 1698639035,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1608139,
       "num": 1608139,
       "word": "电影花千骨定档",
@@ -177,14 +193,6 @@
       "onboard_time": 1698507634,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1289355,
-      "num": 1289355,
-      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
-      "onboard_time": 1698639035,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1286755,
@@ -451,6 +459,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 844880,
+      "num": 844880,
+      "word": "原来抓夹还可以这样用",
+      "onboard_time": 1698638318,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 832878,
       "num": 409081,
       "word": "魏晨 分身情人",
@@ -585,6 +601,14 @@
       "onboard_time": 1698566730,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 705329,
+      "num": 705329,
+      "word": "租客厕所吊顶发现10万金器竟是赃物",
+      "onboard_time": 1698639102,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696044,
@@ -723,20 +747,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 621927,
+      "num": 491935,
+      "word": "全红婵",
+      "onboard_time": 1698639335,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620505,
       "num": 620505,
       "word": "如何做不被女性避雷的广告",
       "onboard_time": 1698540752,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 619107,
-      "num": 619107,
-      "word": "原来抓夹还可以这样用",
-      "onboard_time": 1698638318,
-      "rank": 17,
-      "category": "美妆"
     },
     {
       "raw_hot": 618626,
@@ -995,14 +1019,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 499248,
-      "num": 491935,
-      "word": "全红婵",
-      "onboard_time": 1698639335,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 497905,
       "num": 296731,
       "word": "张小斐 小烟熏妆",
@@ -1091,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468064,
+      "num": 468064,
+      "word": "媒体批小杨哥们低俗带货赢流量输底线",
+      "onboard_time": 1698641322,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466266,
       "num": 310498,
       "word": "陈哲远直播吃烤全羊",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1698584915,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 463932,
-      "num": 463932,
-      "word": "租客厕所吊顶发现10万金器竟是赃物",
-      "onboard_time": 1698639102,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463595,
@@ -1283,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391988,
+      "num": 365615,
+      "word": "邓为转簪子好苏",
+      "onboard_time": 1698641616,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389090,
       "num": 389090,
       "word": "周杰伦杭州演唱会报批",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1698553471,
       "rank": 14,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 366673,
+      "num": 366673,
+      "word": "娄底遭霸凌女孩家长回应网友关心",
+      "onboard_time": 1698639816,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365752,
@@ -1579,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300209,
+      "num": 300209,
+      "word": "年轻夫妻捐出20万元结婚钱支持公益",
+      "onboard_time": 1698642156,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299242,
       "num": 299242,
       "word": "魏晨唱流星雨又来临",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1698541111,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 295638,
+      "num": 295638,
+      "word": "中科院院士褚君浩现场演示隐身术",
+      "onboard_time": 1698641080,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 292179,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1698588517,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289450,
+      "num": 289450,
+      "word": "老友记 Chandler没想到是第一个离开",
+      "onboard_time": 1698638253,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 289154,
@@ -1659,6 +1715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 282765,
+      "num": 282765,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1698638675,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281898,
       "num": 281898,
       "word": "AR对阵GG",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1698555991,
       "rank": 30,
       "category": "休闲,剧集"
-    },
-    {
-      "raw_hot": 277180,
-      "num": 277180,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1698638675,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 277054,
@@ -1827,14 +1883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256580,
-      "num": 256580,
-      "word": "老友记 Chandler没想到是第一个离开",
-      "onboard_time": 1698638253,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256184,
       "num": 256184,
       "word": "于正新剧要换妆造",
@@ -1947,6 +1995,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 244748,
+      "num": 244748,
+      "word": "华浅仲溪午be了",
+      "onboard_time": 1698640359,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243855,
       "num": 243855,
       "word": "穿越火线回应线下约赛事件",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1698578558,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241813,
-      "num": 241813,
-      "word": "娄底遭霸凌女孩家长回应网友关心",
-      "onboard_time": 1698639816,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240904,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1698627754,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232694,
+      "num": 232694,
+      "word": "keshi抢票",
+      "onboard_time": 1698641978,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 232380,
@@ -2387,6 +2443,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 206227,
+      "num": 206227,
+      "word": "沈腾拉着杨幂蹦起了迪",
+      "onboard_time": 1698641017,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206140,
       "num": 206140,
       "word": "十月就看到春晚了",
@@ -2585,6 +2649,14 @@
       "onboard_time": 1698590436,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196786,
+      "num": 196786,
+      "word": "赵丽颖黑粉未道歉被强执",
+      "onboard_time": 1698640599,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 196477,
@@ -2857,14 +2929,6 @@
       "onboard_time": 1698570212,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182001,
-      "num": 182001,
-      "word": "华浅仲溪午be了",
-      "onboard_time": 1698640359,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 181819,
@@ -3163,6 +3227,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 165241,
+      "num": 165241,
+      "word": "海清饰演张校长让大山女孩考出去",
+      "onboard_time": 1698640656,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164641,
       "num": 164641,
       "word": "S13八强",
@@ -3248,6 +3320,14 @@
       "word": "男子公交上裸露下体偷拍女生",
       "onboard_time": 1698476191,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159562,
+      "num": 159562,
+      "word": "护送烫伤婴儿交警一路咆哮冲进医院",
+      "onboard_time": 1698641322,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3353,6 +3433,14 @@
       "onboard_time": 1698633810,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149552,
+      "num": 149552,
+      "word": "小朋友当然会记得住约定啊",
+      "onboard_time": 1698641436,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 149330,
@@ -4099,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106775,
+      "num": 375781,
+      "word": "OPPO小折叠中国市场第一",
+      "onboard_time": 1698639575,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106490,
       "num": 106490,
       "word": "陈天宇北马男子组第七",
@@ -4307,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70994,
+      "num": 1230549,
+      "word": "大国重器持续上新",
+      "onboard_time": 1698640779,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67548,
       "num": 67548,
       "word": "千灯之约 对口型",
@@ -4441,14 +4545,6 @@
       "onboard_time": 1698499959,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43782,
-      "num": 375781,
-      "word": "OPPO小折叠中国市场第一",
-      "onboard_time": 1698639575,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 38535,

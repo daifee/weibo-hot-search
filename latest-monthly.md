@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 12:35:37
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 13:16:41
 </p>
 </blockquote>
 <p>
@@ -1073,6 +1073,12 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E6%89%93%E5%81%87%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%92%8C%E7%94%B0%E7%8E%89%23" target="weibo">
 王海打假李佳琦直播间卖和田玉（热度：2395574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%86%B7%E6%B0%B4%E6%B1%9F%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A07%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
+湖南冷水江通报网传7岁女孩遭霸凌（热度：2395038）
 </a>
 </li>
 
@@ -2901,6 +2907,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+小杨哥徒弟七老板回应小黄带货被指低俗（热度：1676293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BB%99%E5%BE%92%E5%BC%9F%E8%A1%A5%E8%BF%91%E4%BA%BF%E7%A8%8E%E9%A2%9D%23" target="weibo">
 赵本山给徒弟补近亿税额（热度：1675719）
 </a>
@@ -4671,12 +4683,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
-小杨哥徒弟七老板回应小黄带货被指低俗（热度：1289355）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -6005,12 +6011,6 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BB%A5%E7%A7%9F%E4%BB%A3%E4%B9%B0%E7%9A%84%E7%89%A9%E5%93%81%23" target="weibo">
 建议以租代买的物品（热度：1054712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0%23" target="weibo">
-迪丽热巴 万渣朝凰（热度：1054056）
 </a>
 </li>
 
