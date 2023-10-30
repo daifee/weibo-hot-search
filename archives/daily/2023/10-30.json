@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698672046341,
+  "endTime": 1698672849587,
   "band_list": [
     {
       "raw_hot": 2875734,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2777137,
-      "num": 462181,
+      "num": 504252,
       "word": "李健 我老婆我喜欢就好了",
       "onboard_time": 1698663931,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2659390,
+      "num": 2659390,
+      "word": "夸克被罚款50万",
+      "onboard_time": 1698670354,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2607465,
@@ -57,14 +65,6 @@
       "onboard_time": 1698653013,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1956840,
-      "num": 1956840,
-      "word": "夸克被罚款50万",
-      "onboard_time": 1698670354,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1759986,
@@ -155,6 +155,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 1074192,
+      "num": 1074192,
+      "word": "云南3所学校因缅甸战事停课",
+      "onboard_time": 1698670772,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055827,
       "num": 1055827,
       "word": "印度富豪要求年轻人每周工作70小时",
@@ -185,14 +193,6 @@
       "onboard_time": 1698592236,
       "rank": 16,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 932836,
-      "num": 932836,
-      "word": "云南3所学校因缅甸战事停课",
-      "onboard_time": 1698670772,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 915276,
@@ -241,6 +241,14 @@
       "onboard_time": 1698625354,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881886,
+      "num": 504229,
+      "word": "朋友30岁癌症去世生前说他反而很开心",
+      "onboard_time": 1698671555,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 865240,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 691605,
-      "num": 461461,
+      "num": 682731,
       "word": "看见爸爸网购记录后我羞愧了",
       "onboard_time": 1698669335,
       "rank": 30,
@@ -393,6 +401,14 @@
       "onboard_time": 1698638195,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 680008,
+      "num": 680008,
+      "word": "钟楚曦圈内人缘",
+      "onboard_time": 1698672155,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 677823,
@@ -465,6 +481,14 @@
       "onboard_time": 1698647968,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 632576,
+      "num": 632576,
+      "word": "凯特王妃的发型是怎么做的",
+      "onboard_time": 1698670473,
+      "rank": 9,
+      "category": "美妆"
     },
     {
       "raw_hot": 621927,
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503070,
+      "num": 503070,
+      "word": "以爱为营",
+      "onboard_time": 1698671313,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498427,
       "num": 498427,
       "word": "大小杨哥带众徒弟喊话小黄",
@@ -649,14 +681,6 @@
       "onboard_time": 1698624933,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 464777,
-      "num": 464777,
-      "word": "凯特王妃的发型是怎么做的",
-      "onboard_time": 1698670473,
-      "rank": 9,
-      "category": "美妆"
     },
     {
       "raw_hot": 457253,
@@ -843,22 +867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 357233,
-      "num": 183743,
-      "word": "朋友30岁癌症去世生前说他反而很开心",
-      "onboard_time": 1698671555,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 357217,
-      "num": 357217,
-      "word": "以爱为营",
-      "onboard_time": 1698671313,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342964,
       "num": 342964,
       "word": "余姚",
@@ -955,6 +963,14 @@
       "category": "动漫,美妆"
     },
     {
+      "raw_hot": 312699,
+      "num": 312699,
+      "word": "AG",
+      "onboard_time": 1698668314,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 310372,
       "num": 310372,
       "word": "王鹤棣工作室是懂粉丝的",
@@ -979,16 +995,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301963,
-      "num": 301963,
-      "word": "AG",
-      "onboard_time": 1698668314,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 300437,
+      "num": 300437,
+      "word": "为有暗香来有孙怡彭小苒",
+      "onboard_time": 1698670110,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 296634,
-      "num": 357800,
+      "num": 370164,
       "word": "莫兰德道歉",
       "onboard_time": 1698669692,
       "rank": 18,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1698638675,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281241,
-      "num": 281241,
-      "word": "为有暗香来有孙怡彭小苒",
-      "onboard_time": 1698670110,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 279806,
@@ -1203,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246936,
+      "num": 246936,
+      "word": "创造营时期的李昀锐",
+      "onboard_time": 1698671733,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246105,
       "num": 246105,
       "word": "她的头发好听话",
@@ -1276,7 +1292,7 @@
     },
     {
       "raw_hot": 235539,
-      "num": 183578,
+      "num": 206004,
       "word": "今年很新的一种反向催婚",
       "onboard_time": 1698670411,
       "rank": 31,
@@ -1572,7 +1588,7 @@
     },
     {
       "raw_hot": 199248,
-      "num": 199248,
+      "num": 213342,
       "word": "华侨城就过山车事故发公告致歉",
       "onboard_time": 1698670173,
       "rank": 27,
@@ -1811,20 +1827,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185507,
+      "num": 185507,
+      "word": "iPhone13用户换15热情不高",
+      "onboard_time": 1698672695,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184500,
       "num": 184500,
       "word": "库里该出手时就出手",
       "onboard_time": 1698630928,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184359,
-      "num": 184359,
-      "word": "创造营时期的李昀锐",
-      "onboard_time": 1698671733,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183842,
@@ -2004,7 +2020,7 @@
     },
     {
       "raw_hot": 165375,
-      "num": 135995,
+      "num": 139316,
       "word": "鞠婧祎HelloKitty手机壳",
       "onboard_time": 1698668912,
       "rank": 41,
@@ -2107,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159554,
+      "num": 159554,
+      "word": "AG超玩会进决赛",
+      "onboard_time": 1698672695,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158961,
       "num": 158961,
       "word": "被拐走21年的女儿回家了",
@@ -2187,6 +2211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151405,
+      "num": 503452,
+      "word": "拼多多双11订单已收货",
+      "onboard_time": 1698667772,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "深圳欢乐谷致歉",
@@ -2225,6 +2257,14 @@
       "onboard_time": 1698631352,
       "rank": 31,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 148498,
+      "num": 148498,
+      "word": "王子异被包上恩锁喉",
+      "onboard_time": 1698672334,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 148359,
@@ -2491,14 +2531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126206,
-      "num": 450185,
-      "word": "拼多多双11订单已收货",
-      "onboard_time": 1698667772,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 124787,
       "num": 124787,
       "word": "年鹏 穿越火线",
@@ -2595,6 +2627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115790,
+      "num": 1127865,
+      "word": "中国人到了太空也是收纳高手",
+      "onboard_time": 1698670231,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114443,
       "num": 114443,
       "word": "地铁皮肤换得比我壁纸还快",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1698648809,
       "rank": 47,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 107940,
-      "num": 1036808,
-      "word": "中国人到了太空也是收纳高手",
-      "onboard_time": 1698670231,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106775,
