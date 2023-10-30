@@ -1,0 +1,410 @@
+{
+  "runTime": 1698635871812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608139,
+        "num": 1608139,
+        "word": "电影花千骨定档",
+        "onboard_time": 1698634229,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2577788,
+        "num": 1579382,
+        "word": "教育局回应7岁女孩在校被多人霸凌",
+        "onboard_time": 1698631651,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 18959,
+        "num": 885853,
+        "word": "杭州亚残运这些画面好戳泪点",
+        "onboard_time": 1698586596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794894,
+        "num": 794894,
+        "word": "第一批90后已成为中风高发人群",
+        "onboard_time": 1698633391,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683282,
+        "num": 683282,
+        "word": "印度富豪要求年轻人每周工作70小时",
+        "onboard_time": 1698629314,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847986,
+        "num": 667654,
+        "word": "以色列称坚决拒绝停火",
+        "onboard_time": 1698632312,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 634888,
+        "num": 634888,
+        "word": "工科生查重率百分百的穿搭",
+        "onboard_time": 1698632312,
+        "rank": 6,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 530602,
+        "num": 530602,
+        "word": "穿越火线 外挂",
+        "onboard_time": 1698634351,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437839,
+        "num": 437839,
+        "word": "七国集团呼吁撤销对日本食品进口限制",
+        "onboard_time": 1698633751,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 434364,
+        "num": 434364,
+        "word": "韩国爆火的护肤方法",
+        "onboard_time": 1698631712,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 707831,
+        "num": 433122,
+        "word": "这英cos那英",
+        "onboard_time": 1698623129,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 668722,
+        "num": 428634,
+        "word": "迪丽热巴的表妹",
+        "onboard_time": 1698623791,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609816,
+        "num": 427435,
+        "word": "靠脖子认出了范丞丞",
+        "onboard_time": 1698634472,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612668,
+        "num": 424220,
+        "word": "万圣节cos 全明星律师函",
+        "onboard_time": 1698592236,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 76579,
+        "num": 422096,
+        "word": "电车跑赛道让油车嫉妒",
+        "onboard_time": 1698634830,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 537598,
+        "num": 418558,
+        "word": "嬛嬛这是送给朕的惊魂舞吗",
+        "onboard_time": 1698623429,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 474665,
+        "num": 416699,
+        "word": "猫咖内部培训曝光",
+        "onboard_time": 1698633995,
+        "rank": 16,
+        "category": "动物萌宠,幽默"
+      },
+      {
+        "raw_hot": 414260,
+        "num": 414260,
+        "word": "谈恋爱时最不受欢迎的星座",
+        "onboard_time": 1698624454,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 389090,
+        "num": 389090,
+        "word": "周杰伦杭州演唱会报批",
+        "onboard_time": 1698635492,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299753,
+        "num": 299753,
+        "word": "吴京cos",
+        "onboard_time": 1698592656,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 296804,
+        "num": 296804,
+        "word": "各种维生素不足和过量有啥表现",
+        "onboard_time": 1698629431,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 262858,
+        "num": 262858,
+        "word": "伊能静做偶像时公司教的话术",
+        "onboard_time": 1698634891,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217291,
+        "num": 217291,
+        "word": "权志龙风波后首次更新个人账号",
+        "onboard_time": 1698629070,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210121,
+        "num": 210121,
+        "word": "陈都灵演花千骨",
+        "onboard_time": 1698635790,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209646,
+        "num": 209646,
+        "word": "幼童卡喉脸已发紫护士45秒极速营救",
+        "onboard_time": 1698628590,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207310,
+        "num": 207310,
+        "word": "剑网3衣服拆开卖",
+        "onboard_time": 1698635492,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206758,
+        "num": 206758,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1698623913,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 200665,
+        "num": 200665,
+        "word": "华为再次成为中国轻薄笔记本市场第一",
+        "onboard_time": 1698635253,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192388,
+        "num": 192388,
+        "word": "陕西3所大学的3个专业世界第一",
+        "onboard_time": 1698631229,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 191608,
+        "num": 191608,
+        "word": "iPhone15价格跳水",
+        "onboard_time": 1698622828,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189217,
+        "num": 189217,
+        "word": "小小的她紧紧牵着更小的她",
+        "onboard_time": 1698634111,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177888,
+        "num": 177888,
+        "word": "上海万圣节 百变大咖秀",
+        "onboard_time": 1698630630,
+        "rank": 31,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 177516,
+        "num": 177516,
+        "word": "万圣节本土化",
+        "onboard_time": 1698629314,
+        "rank": 32,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 174006,
+        "num": 174006,
+        "word": "34年后妈妈再给了我一次生命",
+        "onboard_time": 1698633450,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173147,
+        "num": 173147,
+        "word": "周一 更适合打工人体质的鬼节",
+        "onboard_time": 1698633571,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 164842,
+        "word": "樊振东发带造型太帅了",
+        "onboard_time": 1698632250,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160193,
+        "num": 160193,
+        "word": "英国29岁冰球运动员遭冰刀割喉去世",
+        "onboard_time": 1698590677,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156949,
+        "num": 156949,
+        "word": "小米澎湃OS评测",
+        "onboard_time": 1698635431,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150044,
+        "num": 150044,
+        "word": "A股",
+        "onboard_time": 1698633810,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144332,
+        "num": 144332,
+        "word": "周也演我画眼线",
+        "onboard_time": 1698630809,
+        "rank": 39,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 138997,
+        "num": 138997,
+        "word": "教育局回应运动会有学生举日本国旗",
+        "onboard_time": 1698635553,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137674,
+        "num": 137674,
+        "word": "魏晨听到脱掉的反应",
+        "onboard_time": 1698631113,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128493,
+        "num": 128493,
+        "word": "赵露思逛乌镇戏剧市集",
+        "onboard_time": 1698635315,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122735,
+        "num": 122735,
+        "word": "车轱辘甄嬛",
+        "onboard_time": 1698634954,
+        "rank": 43,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 115914,
+        "num": 115914,
+        "word": "所有的雨都避开这只小狗",
+        "onboard_time": 1698627754,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110705,
+        "num": 110705,
+        "word": "双十一必入秋冬彩妆分享",
+        "onboard_time": 1698635790,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110587,
+        "num": 110587,
+        "word": "G2 uu们明年见",
+        "onboard_time": 1698626433,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107065,
+        "num": 107065,
+        "word": "加沙地带至少1870人仍被埋在废墟下",
+        "onboard_time": 1698624933,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 105788,
+        "num": 105788,
+        "word": "张钧甯的这段话值得反复听",
+        "onboard_time": 1698633870,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98933,
+        "num": 98933,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1698632609,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

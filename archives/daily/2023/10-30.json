@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698633363943,
+  "endTime": 1698635871812,
   "band_list": [
     {
       "raw_hot": 2607465,
@@ -19,8 +19,16 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 1608139,
+      "num": 1608139,
+      "word": "电影花千骨定档",
+      "onboard_time": 1698634229,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1508188,
-      "num": 304997,
+      "num": 428634,
       "word": "迪丽热巴的表妹",
       "onboard_time": 1698623791,
       "rank": 10,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1479329,
-      "num": 305828,
+      "num": 433122,
       "word": "这英cos那英",
       "onboard_time": 1698623129,
       "rank": 11,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1083028,
-      "num": 288715,
+      "num": 299753,
       "word": "吴京cos",
       "onboard_time": 1698592656,
       "rank": 13,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 949667,
-      "num": 301143,
+      "num": 424220,
       "word": "万圣节cos 全明星律师函",
       "onboard_time": 1698592236,
       "rank": 16,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 907274,
-      "num": 303129,
+      "num": 418558,
       "word": "嬛嬛这是送给朕的惊魂舞吗",
       "onboard_time": 1698623429,
       "rank": 12,
@@ -99,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847986,
+      "num": 667654,
+      "word": "以色列称坚决拒绝停火",
+      "onboard_time": 1698632312,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 815736,
       "num": 815736,
       "word": "英国29岁冰球运动员遭冰刀割喉去世",
       "onboard_time": 1698590677,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 794894,
+      "num": 794894,
+      "word": "第一批90后已成为中风高发人群",
+      "onboard_time": 1698633391,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736483,
@@ -123,12 +147,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 634888,
+      "num": 634888,
+      "word": "工科生查重率百分百的穿搭",
+      "onboard_time": 1698632312,
+      "rank": 34,
+      "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 609816,
+      "num": 427435,
+      "word": "靠脖子认出了范丞丞",
+      "onboard_time": 1698634472,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606529,
       "num": 251205,
       "word": "知道为什么这季花少相处这么融洽了",
       "onboard_time": 1698593794,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530602,
+      "num": 530602,
+      "word": "穿越火线 外挂",
+      "onboard_time": 1698634351,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 497215,
@@ -155,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474665,
+      "num": 416699,
+      "word": "猫咖内部培训曝光",
+      "onboard_time": 1698633995,
+      "rank": 16,
+      "category": "动物萌宠,幽默"
+    },
+    {
       "raw_hot": 474009,
       "num": 330989,
       "word": "加沙地带至少1870人仍被埋在废墟下",
@@ -169,6 +225,22 @@
       "onboard_time": 1698615254,
       "rank": 12,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 437839,
+      "num": 437839,
+      "word": "七国集团呼吁撤销对日本食品进口限制",
+      "onboard_time": 1698633751,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 434364,
+      "num": 434364,
+      "word": "韩国爆火的护肤方法",
+      "onboard_time": 1698631712,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 417548,
@@ -187,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389090,
+      "num": 389090,
+      "word": "周杰伦杭州演唱会报批",
+      "onboard_time": 1698635492,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 378654,
       "num": 173666,
       "word": "迪丽热巴有十年没回家了",
       "onboard_time": 1698589896,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368047,
-      "num": 368047,
-      "word": "以色列称坚决拒绝停火",
-      "onboard_time": 1698632312,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 361521,
@@ -267,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307079,
-      "num": 307079,
-      "word": "韩国爆火的护肤方法",
-      "onboard_time": 1698631712,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 292101,
       "num": 200490,
       "word": "女生脚疼日本医院要手术回国查是鸡眼",
@@ -307,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262858,
+      "num": 262858,
+      "word": "伊能静做偶像时公司教的话术",
+      "onboard_time": 1698634891,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262645,
       "num": 262645,
       "word": "Spirit双冠王",
@@ -329,14 +401,6 @@
       "onboard_time": 1698627453,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251659,
-      "num": 251659,
-      "word": "工科生查重率百分百的穿搭",
-      "onboard_time": 1698632312,
-      "rank": 34,
-      "category": "幽默,时尚"
     },
     {
       "raw_hot": 247606,
@@ -435,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210121,
+      "num": 210121,
+      "word": "陈都灵演花千骨",
+      "onboard_time": 1698635790,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209613,
       "num": 209613,
       "word": "詹姆斯生涯首秀20周年",
@@ -451,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207310,
+      "num": 207310,
+      "word": "剑网3衣服拆开卖",
+      "onboard_time": 1698635492,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206140,
       "num": 206140,
       "word": "十月就看到春晚了",
@@ -465,6 +545,14 @@
       "onboard_time": 1698632250,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200665,
+      "num": 200665,
+      "word": "华为再次成为中国轻薄笔记本市场第一",
+      "onboard_time": 1698635253,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 194439,
@@ -504,6 +592,14 @@
       "word": "秋冬呼吸道传染病防治指南",
       "onboard_time": 1698628950,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189217,
+      "num": 189217,
+      "word": "小小的她紧紧牵着更小的她",
+      "onboard_time": 1698634111,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -547,11 +643,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174006,
+      "num": 174006,
+      "word": "34年后妈妈再给了我一次生命",
+      "onboard_time": 1698633450,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173932,
       "num": 173932,
       "word": "十几年前妈妈的QQ空间",
       "onboard_time": 1698626494,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 173147,
+      "num": 173147,
+      "word": "周一 更适合打工人体质的鬼节",
+      "onboard_time": 1698633571,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -635,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156949,
+      "num": 156949,
+      "word": "小米澎湃OS评测",
+      "onboard_time": 1698635431,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "深圳欢乐谷致歉",
       "onboard_time": 1698597388,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150044,
+      "num": 150044,
+      "word": "A股",
+      "onboard_time": 1698633810,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 149330,
@@ -715,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138997,
+      "num": 138997,
+      "word": "教育局回应运动会有学生举日本国旗",
+      "onboard_time": 1698635553,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 134712,
       "num": 134712,
       "word": "万圣节cos乙方",
@@ -761,6 +897,22 @@
       "onboard_time": 1698597925,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128493,
+      "num": 128493,
+      "word": "赵露思逛乌镇戏剧市集",
+      "onboard_time": 1698635315,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122735,
+      "num": 122735,
+      "word": "车轱辘甄嬛",
+      "onboard_time": 1698634954,
+      "rank": 43,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 119581,
@@ -811,12 +963,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110705,
+      "num": 110705,
+      "word": "双十一必入秋冬彩妆分享",
+      "onboard_time": 1698635790,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 109974,
       "num": 109974,
       "word": "原来幼年宇文拓是张逸杰演的",
       "onboard_time": 1698594992,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105788,
+      "num": 105788,
+      "word": "张钧甯的这段话值得反复听",
+      "onboard_time": 1698633870,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104000,
@@ -937,6 +1105,14 @@
       "onboard_time": 1698580476,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76579,
+      "num": 422096,
+      "word": "电车跑赛道让油车嫉妒",
+      "onboard_time": 1698634830,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 74758,
