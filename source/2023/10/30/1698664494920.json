@@ -1,0 +1,410 @@
+{
+  "runTime": 1698664494920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1089928,
+        "num": 1089928,
+        "word": "陈若琳被调至北京工作",
+        "onboard_time": 1698656432,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298644,
+        "num": 901008,
+        "word": "女子捡到包裹38枚银元价值10多万",
+        "onboard_time": 1698651571,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16905,
+        "num": 878203,
+        "word": "杭州亚残运会暖心短片",
+        "onboard_time": 1698655535,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 876760,
+        "num": 876760,
+        "word": "郭敬明 又怎么了我的大小姐",
+        "onboard_time": 1698650609,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 843199,
+        "num": 843199,
+        "word": "苹果中国官方首降价",
+        "onboard_time": 1698663395,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 818197,
+        "num": 818197,
+        "word": "第一次见国产剧男主穿这么贵的衣服",
+        "onboard_time": 1698658712,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189308,
+        "num": 811691,
+        "word": "中国6岁女孩打破魔方世界纪录",
+        "onboard_time": 1698643954,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810058,
+        "num": 810058,
+        "word": "秦海璐录完花少瘦了18斤",
+        "onboard_time": 1698651511,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409343,
+        "num": 409343,
+        "word": "反垄断办称正调查核实李佳琦被指控价",
+        "onboard_time": 1698658591,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 397880,
+        "num": 397880,
+        "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
+        "onboard_time": 1698660993,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2297897,
+        "num": 389268,
+        "word": "李金铭14年吃剩的饭被留到现在",
+        "onboard_time": 1698658291,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911942,
+        "num": 385671,
+        "word": "李健 我老婆我喜欢就好了",
+        "onboard_time": 1698663931,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554825,
+        "num": 385383,
+        "word": "陈都灵恶女妆",
+        "onboard_time": 1698649171,
+        "rank": 12,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 375470,
+        "num": 375470,
+        "word": "大小杨哥带众徒弟喊话小黄",
+        "onboard_time": 1698656613,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372765,
+        "num": 372765,
+        "word": "小S许雅钧cos",
+        "onboard_time": 1698649110,
+        "rank": 14,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 367543,
+        "num": 367543,
+        "word": "官方通报女子被列车撞伤",
+        "onboard_time": 1698659194,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360007,
+        "num": 360007,
+        "word": "字节跳动除夕放假",
+        "onboard_time": 1698650551,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239317,
+        "num": 358726,
+        "word": "46名科学家获资助约11亿元",
+        "onboard_time": 1698664230,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358299,
+        "num": 358299,
+        "word": "beryl回应抽签",
+        "onboard_time": 1698663513,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341636,
+        "num": 341636,
+        "word": "大学生校内乘共享电动车摔伤后身亡",
+        "onboard_time": 1698653013,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261282,
+        "num": 261282,
+        "word": "张婉婷 我吵架是有天赋的",
+        "onboard_time": 1698657816,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260431,
+        "num": 260431,
+        "word": "小孩哥赴约",
+        "onboard_time": 1698661413,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255457,
+        "num": 255457,
+        "word": "蒋勤勤说和吴磊搭档是上天的礼物",
+        "onboard_time": 1698663634,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253257,
+        "num": 253257,
+        "word": "宋妍霏真剪短发了",
+        "onboard_time": 1698652831,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246105,
+        "num": 246105,
+        "word": "她的头发好听话",
+        "onboard_time": 1698662914,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228132,
+        "num": 228132,
+        "word": "保定一学生屁股被老师打成黑紫色",
+        "onboard_time": 1698656491,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201209,
+        "num": 201209,
+        "word": "原神哥去大B庄园解说",
+        "onboard_time": 1698663395,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201194,
+        "num": 201194,
+        "word": "仲溪午成全华浅华戎舟",
+        "onboard_time": 1698663452,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196796,
+        "num": 196796,
+        "word": "上海欢乐谷回应设备安全问题",
+        "onboard_time": 1698663572,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192383,
+        "num": 192383,
+        "word": "17岁高中生颈椎后凸堪比47岁",
+        "onboard_time": 1698654390,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187078,
+        "num": 187078,
+        "word": "别摸此猫",
+        "onboard_time": 1698657271,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 179417,
+        "num": 179417,
+        "word": "罗云熙骑摩托",
+        "onboard_time": 1698664470,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178578,
+        "num": 178578,
+        "word": "吸二手烟更容易得肺癌",
+        "onboard_time": 1698661834,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71917,
+        "num": 172615,
+        "word": "成都3季度平均租金水平发布",
+        "onboard_time": 1698663931,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171239,
+        "num": 171239,
+        "word": "万圣节cos马杨",
+        "onboard_time": 1698661955,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156404,
+        "num": 156404,
+        "word": "肖战白百何骄阳伴我上星山东卫视",
+        "onboard_time": 1698658233,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160865,
+        "num": 156303,
+        "word": "罗云熙最有cp感的女主",
+        "onboard_time": 1698657211,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156164,
+        "num": 156164,
+        "word": "王海称李佳琦和田玉附假鉴定证书已实锤",
+        "onboard_time": 1698656131,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 154301,
+        "num": 154301,
+        "word": "张馨予针灸",
+        "onboard_time": 1698661654,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144230,
+        "num": 144230,
+        "word": "易烊千玺影人碎片",
+        "onboard_time": 1698661654,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140764,
+        "num": 140764,
+        "word": "时代少年团重返幼儿园",
+        "onboard_time": 1698659013,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139130,
+        "num": 139130,
+        "word": "红楼梦里最喜欢的丫头",
+        "onboard_time": 1698664291,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138380,
+        "num": 138380,
+        "word": "王一博去珠海考赛车证",
+        "onboard_time": 1698656013,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135356,
+        "num": 135356,
+        "word": "突然发现我上四年大学花了十万",
+        "onboard_time": 1698647968,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "池田纯矢涉嫌参与特殊诈骗被捕",
+        "onboard_time": 1698664411,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122162,
+        "num": 122162,
+        "word": "环球人物",
+        "onboard_time": 1698660813,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122139,
+        "num": 122139,
+        "word": "网友裸辞炒股5个月亏损48%",
+        "onboard_time": 1698646771,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120273,
+        "num": 120273,
+        "word": "吴宣仪高至霆合照",
+        "onboard_time": 1698662373,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118209,
+        "num": 118209,
+        "word": "一直到最后都没有拖鞋的迪丽热巴",
+        "onboard_time": 1698658114,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116896,
+        "num": 116896,
+        "word": "热依扎王阳新剧定档",
+        "onboard_time": 1698659133,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698662150813,
+  "endTime": 1698664494920,
   "band_list": [
     {
       "raw_hot": 2875734,
@@ -163,6 +163,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 911942,
+      "num": 385671,
+      "word": "李健 我老婆我喜欢就好了",
+      "onboard_time": 1698663931,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909734,
       "num": 642579,
       "word": "字节跳动除夕放假",
@@ -225,6 +233,22 @@
       "onboard_time": 1698638318,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 843199,
+      "num": 843199,
+      "word": "苹果中国官方首降价",
+      "onboard_time": 1698663395,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 818197,
+      "num": 818197,
+      "word": "第一次见国产剧男主穿这么贵的衣服",
+      "onboard_time": 1698658712,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 815736,
@@ -393,14 +417,6 @@
       "onboard_time": 1698647968,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 626440,
-      "num": 626440,
-      "word": "第一次见国产剧男主穿这么贵的衣服",
-      "onboard_time": 1698658712,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 621927,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397880,
+      "num": 901696,
+      "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
+      "onboard_time": 1698660993,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389090,
       "num": 389090,
       "word": "周杰伦杭州演唱会报批",
@@ -689,6 +713,14 @@
       "onboard_time": 1698593672,
       "rank": 3,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 358299,
+      "num": 358299,
+      "word": "beryl回应抽签",
+      "onboard_time": 1698663513,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 342964,
@@ -792,14 +824,6 @@
       "word": "川A大军给华西救护车让行",
       "onboard_time": 1698623069,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306304,
-      "num": 901696,
-      "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
-      "onboard_time": 1698660993,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -915,12 +939,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 256091,
-      "num": 245228,
+      "raw_hot": 261282,
+      "num": 261282,
       "word": "张婉婷 我吵架是有天赋的",
       "onboard_time": 1698657816,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260431,
+      "num": 260431,
+      "word": "小孩哥赴约",
+      "onboard_time": 1698661413,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 255457,
+      "num": 255457,
+      "word": "蒋勤勤说和吴磊搭档是上天的礼物",
+      "onboard_time": 1698663634,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 255197,
@@ -971,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246105,
+      "num": 246105,
+      "word": "她的头发好听话",
+      "onboard_time": 1698662914,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 244748,
       "num": 244748,
       "word": "华浅仲溪午be了",
@@ -993,6 +1041,14 @@
       "onboard_time": 1698630630,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 239317,
+      "num": 358726,
+      "word": "46名科学家获资助约11亿元",
+      "onboard_time": 1698664230,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238446,
@@ -1267,6 +1323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201209,
+      "num": 201209,
+      "word": "原神哥去大B庄园解说",
+      "onboard_time": 1698663395,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201194,
+      "num": 201194,
+      "word": "仲溪午成全华浅华戎舟",
+      "onboard_time": 1698663452,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "女子帮8旬大爷认路4年后参加其家族婚宴",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1698646231,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196796,
+      "num": 196796,
+      "word": "上海欢乐谷回应设备安全问题",
+      "onboard_time": 1698663572,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196786,
@@ -1523,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179417,
+      "num": 179417,
+      "word": "罗云熙骑摩托",
+      "onboard_time": 1698664470,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178848,
       "num": 178848,
       "word": "白举纲给了沈腾一巴掌周深鼓掌",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1698646771,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178578,
+      "num": 178578,
+      "word": "吸二手烟更容易得肺癌",
+      "onboard_time": 1698661834,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178041,
@@ -1601,6 +1697,14 @@
       "onboard_time": 1698633571,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171239,
+      "num": 171239,
+      "word": "万圣节cos马杨",
+      "onboard_time": 1698661955,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 170894,
@@ -1923,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139130,
+      "num": 139130,
+      "word": "红楼梦里最喜欢的丫头",
+      "onboard_time": 1698664291,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139104,
       "num": 139104,
       "word": "90后小伙捐髓救人新婚妻子全程陪同",
@@ -1937,14 +2049,6 @@
       "onboard_time": 1698654872,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135990,
-      "num": 135990,
-      "word": "小孩哥赴约",
-      "onboard_time": 1698661413,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 135644,
@@ -1985,6 +2089,14 @@
       "onboard_time": 1698627152,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132773,
+      "num": 132773,
+      "word": "池田纯矢涉嫌参与特殊诈骗被捕",
+      "onboard_time": 1698664411,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 132712,
@@ -2051,14 +2163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128954,
-      "num": 128954,
-      "word": "万圣节cos马杨",
-      "onboard_time": 1698661955,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 128493,
       "num": 128493,
       "word": "赵露思逛乌镇戏剧市集",
@@ -2123,6 +2227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 120273,
+      "num": 120273,
+      "word": "吴宣仪高至霆合照",
+      "onboard_time": 1698662373,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119581,
       "num": 119581,
       "word": "王栎鑫五公第一",
@@ -2145,14 +2257,6 @@
       "onboard_time": 1698632850,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 114726,
-      "num": 114726,
-      "word": "吸二手烟更容易得肺癌",
-      "onboard_time": 1698661834,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114356,
@@ -2425,6 +2529,14 @@
       "onboard_time": 1698581858,
       "rank": 47,
       "category": "演出,美妆"
+    },
+    {
+      "raw_hot": 71917,
+      "num": 172615,
+      "word": "成都3季度平均租金水平发布",
+      "onboard_time": 1698663931,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71784,
