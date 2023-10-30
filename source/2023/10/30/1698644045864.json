@@ -1,0 +1,410 @@
+{
+  "runTime": 1698644045864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2577973,
+        "num": 2577973,
+        "word": "湖南冷水江通报网传7岁女孩遭霸凌",
+        "onboard_time": 1698641919,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1579992,
+        "num": 1579992,
+        "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+        "onboard_time": 1698639035,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76792,
+        "num": 1108036,
+        "word": "大国重器持续上新",
+        "onboard_time": 1698640779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688678,
+        "num": 688678,
+        "word": "原来抓夹还可以这样用",
+        "onboard_time": 1698638318,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 639810,
+        "num": 639810,
+        "word": "租客厕所吊顶发现10万金器竟是赃物",
+        "onboard_time": 1698639102,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610083,
+        "num": 610083,
+        "word": "媒体批小杨哥们低俗带货赢流量输底线",
+        "onboard_time": 1698641322,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559103,
+        "num": 559103,
+        "word": "电影花千骨定档",
+        "onboard_time": 1698634229,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383806,
+        "num": 383806,
+        "word": "娄底遭霸凌女孩家长回应网友关心",
+        "onboard_time": 1698639816,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373518,
+        "num": 373518,
+        "word": "猫咖内部培训曝光",
+        "onboard_time": 1698633995,
+        "rank": 8,
+        "category": "动物萌宠,幽默"
+      },
+      {
+        "raw_hot": 367375,
+        "num": 367375,
+        "word": "年轻夫妻捐出20万元结婚钱支持公益",
+        "onboard_time": 1698642156,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664084,
+        "num": 360799,
+        "word": "别把孩子养得太老实",
+        "onboard_time": 1698638195,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 657006,
+        "num": 345875,
+        "word": "教育局回应7岁女孩在校被多人霸凌",
+        "onboard_time": 1698631651,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 516276,
+        "num": 342521,
+        "word": "这英cos那英",
+        "onboard_time": 1698623129,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 433445,
+        "num": 327822,
+        "word": "邓为转簪子好苏",
+        "onboard_time": 1698641616,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324310,
+        "num": 324310,
+        "word": "以色列称坚决拒绝停火",
+        "onboard_time": 1698632312,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318682,
+        "num": 318682,
+        "word": "第一批90后已成为中风高发人群",
+        "onboard_time": 1698633391,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301252,
+        "num": 301252,
+        "word": "全红婵",
+        "onboard_time": 1698639335,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278261,
+        "num": 278261,
+        "word": "关智斌想和赵丽颖演伦理剧",
+        "onboard_time": 1698637956,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264022,
+        "num": 264022,
+        "word": "万圣节cos 全明星律师函",
+        "onboard_time": 1698592236,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 258240,
+        "num": 258240,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1698638675,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256984,
+        "num": 256984,
+        "word": "靠脖子认出了范丞丞",
+        "onboard_time": 1698634472,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252442,
+        "num": 252442,
+        "word": "迪丽热巴的表妹",
+        "onboard_time": 1698623791,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251489,
+        "num": 251489,
+        "word": "七国集团呼吁撤销对日本食品进口限制",
+        "onboard_time": 1698633751,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 246618,
+        "num": 246618,
+        "word": "老友记 Chandler没想到是第一个离开",
+        "onboard_time": 1698638253,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234615,
+        "num": 234615,
+        "word": "中科院院士褚君浩现场演示隐身术",
+        "onboard_time": 1698641080,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 222546,
+        "num": 222546,
+        "word": "张馨予甜感西瓜妆",
+        "onboard_time": 1698638976,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 218387,
+        "num": 218387,
+        "word": "keshi抢票",
+        "onboard_time": 1698641978,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214115,
+        "num": 214115,
+        "word": "陆鸢陆时在一起了",
+        "onboard_time": 1698636515,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209998,
+        "num": 209998,
+        "word": "华浅仲溪午be了",
+        "onboard_time": 1698640359,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208139,
+        "num": 208139,
+        "word": "张真源新歌词曲钟易轩",
+        "onboard_time": 1698643831,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207434,
+        "num": 207434,
+        "word": "穿越火线回应线下约赛事件",
+        "onboard_time": 1698640297,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204885,
+        "num": 204885,
+        "word": "华为再次成为中国轻薄笔记本市场第一",
+        "onboard_time": 1698635253,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203857,
+        "num": 203857,
+        "word": "万圣节本土化",
+        "onboard_time": 1698629314,
+        "rank": 32,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 200731,
+        "num": 200731,
+        "word": "嬛嬛这是送给朕的惊魂舞吗",
+        "onboard_time": 1698623429,
+        "rank": 33,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 178041,
+        "num": 178041,
+        "word": "全场亮灯回应陈楚生有人很爱你",
+        "onboard_time": 1698643291,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174887,
+        "num": 174887,
+        "word": "沈腾拉着杨幂蹦起了迪",
+        "onboard_time": 1698641017,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163551,
+        "num": 163551,
+        "word": "上海万圣节 百变大咖秀",
+        "onboard_time": 1698630630,
+        "rank": 36,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 160580,
+        "num": 160580,
+        "word": "中风前的四大征兆",
+        "onboard_time": 1698643593,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158335,
+        "num": 158335,
+        "word": "谈恋爱时最不受欢迎的星座",
+        "onboard_time": 1698624454,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 148390,
+        "num": 148390,
+        "word": "这就是你的作业吗也子",
+        "onboard_time": 1698643652,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 145029,
+        "num": 145029,
+        "word": "印度富豪要求年轻人每周工作70小时",
+        "onboard_time": 1698629314,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144928,
+        "num": 144928,
+        "word": "赵丽颖黑粉未道歉被强执",
+        "onboard_time": 1698640599,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143104,
+        "num": 143104,
+        "word": "一棵树居然可以有这么多种颜色",
+        "onboard_time": 1698643772,
+        "rank": 42,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 142547,
+        "num": 142547,
+        "word": "詹姆斯绝平",
+        "onboard_time": 1698639102,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140723,
+        "num": 140723,
+        "word": "中国6岁女孩打破魔方世界纪录",
+        "onboard_time": 1698643954,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140141,
+        "num": 140141,
+        "word": "周杰伦杭州演唱会报批",
+        "onboard_time": 1698635492,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134846,
+        "num": 134846,
+        "word": "陈都灵赖美云新片演母女",
+        "onboard_time": 1698643529,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131851,
+        "num": 131851,
+        "word": "穿越火线 外挂",
+        "onboard_time": 1698634351,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127017,
+        "num": 127017,
+        "word": "权志龙称被立案前没有接到警察的联系",
+        "onboard_time": 1698637534,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123870,
+        "num": 123870,
+        "word": "她悉心照顾95岁独居邻居31年",
+        "onboard_time": 1698640538,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

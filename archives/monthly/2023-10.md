@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 13:16:41
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 13:34:05
 </p>
 </blockquote>
 <p>
@@ -855,6 +855,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%86%B7%E6%B0%B4%E6%B1%9F%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A07%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
+湖南冷水江通报网传7岁女孩遭霸凌（热度：2577973）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E5%96%8A%E8%AF%9D%E6%9D%8E%E4%BD%B3%E7%90%A6%23" target="weibo">
 京东采销喊话李佳琦（热度：2577468）
 </a>
@@ -1073,12 +1079,6 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E6%89%93%E5%81%87%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E5%92%8C%E7%94%B0%E7%8E%89%23" target="weibo">
 王海打假李佳琦直播间卖和田玉（热度：2395574）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%86%B7%E6%B0%B4%E6%B1%9F%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A07%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
-湖南冷水江通报网传7岁女孩遭霸凌（热度：2395038）
 </a>
 </li>
 
