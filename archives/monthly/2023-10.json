@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698683909371,
+  "endTime": 1698686134391,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -68323,6 +68323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161670,
+      "num": 138280,
+      "word": "同济大学A408女寝全员保研",
+      "onboard_time": 1698683426,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161614,
       "num": 161614,
       "word": "吴彦祖来配眼镜老板娘手足无措",
@@ -80435,14 +80443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95532,
-      "num": 95532,
-      "word": "同济大学A408女寝全员保研",
-      "onboard_time": 1698683426,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 95450,
       "num": 95450,
       "word": "C罗任意球破门",
@@ -81505,6 +81505,14 @@
       "onboard_time": 1696413993,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78872,
+      "num": 73478,
+      "word": "中国学者当面回怼日本学者",
+      "onboard_time": 1698684264,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 78627,
@@ -82745,6 +82753,14 @@
       "onboard_time": 1698448105,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59855,
+      "num": 59855,
+      "word": "陈哲远忘词还撒娇",
+      "onboard_time": 1698684863,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 59837,
