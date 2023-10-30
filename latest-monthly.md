@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 18:19:02
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 18:35:50
 </p>
 </blockquote>
 <p>
@@ -639,6 +639,12 @@ G2战胜WBG（热度：3782780）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD14%E5%B9%B4%E5%90%83%E5%89%A9%E7%9A%84%E9%A5%AD%E8%A2%AB%E7%95%99%E5%88%B0%E7%8E%B0%E5%9C%A8%23" target="weibo">
+李金铭14年吃剩的饭被留到现在（热度：2875734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BF%87%E6%9C%9F%E6%96%87%E4%BB%B6%E6%89%93%E5%BC%80%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95%23" target="weibo">
 微信过期文件打开的最简单方法（热度：2875109）
 </a>
@@ -767,12 +773,6 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E6%B4%97%E5%A4%B4%23" target="weibo">
 海底捞 洗头（热度：2716171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD14%E5%B9%B4%E5%90%83%E5%89%A9%E7%9A%84%E9%A5%AD%E8%A2%AB%E7%95%99%E5%88%B0%E7%8E%B0%E5%9C%A8%23" target="weibo">
-李金铭14年吃剩的饭被留到现在（热度：2710666）
 </a>
 </li>
 

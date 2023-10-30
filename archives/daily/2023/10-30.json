@@ -1,9 +1,9 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698661142132,
+  "endTime": 1698662150813,
   "band_list": [
     {
-      "raw_hot": 2710666,
+      "raw_hot": 2875734,
       "num": 624304,
       "word": "李金铭14年吃剩的饭被留到现在",
       "onboard_time": 1698658291,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 699391,
-      "num": 432858,
+      "num": 493338,
       "word": "陈都灵恶女妆",
       "onboard_time": 1698649171,
       "rank": 14,
@@ -395,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 626440,
+      "num": 626440,
+      "word": "第一次见国产剧男主穿这么贵的衣服",
+      "onboard_time": 1698658712,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621927,
       "num": 491935,
       "word": "全红婵",
@@ -417,14 +425,6 @@
       "onboard_time": 1698645090,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 572997,
-      "num": 572997,
-      "word": "第一次见国产剧男主穿这么贵的衣服",
-      "onboard_time": 1698658712,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 561427,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306304,
+      "num": 901696,
+      "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
+      "onboard_time": 1698660993,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295638,
       "num": 295638,
       "word": "中科院院士褚君浩现场演示隐身术",
@@ -937,6 +945,14 @@
       "onboard_time": 1698627453,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251169,
+      "num": 251169,
+      "word": "易烊千玺影人碎片",
+      "onboard_time": 1698661654,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 250990,
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 203289,
-      "num": 174905,
+      "num": 185158,
       "word": "罗云熙最有cp感的女主",
       "onboard_time": 1698657211,
       "rank": 38,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1698653314,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198773,
+      "num": 1041862,
+      "word": "中国6岁女孩打破魔方世界纪录",
+      "onboard_time": 1698643954,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197454,
@@ -1395,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188443,
+      "num": 160031,
+      "word": "20秒手工制布偶小熊",
+      "onboard_time": 1698661713,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 188417,
       "num": 188417,
       "word": "中国队男子5000米接力冠军",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1698654390,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185470,
-      "num": 1041862,
-      "word": "中国6岁女孩打破魔方世界纪录",
-      "onboard_time": 1698643954,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184500,
@@ -1731,6 +1755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 157035,
+      "num": 157035,
+      "word": "张馨予针灸",
+      "onboard_time": 1698661654,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157015,
       "num": 157015,
       "word": "治愈系恋人央八定档",
@@ -1907,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135990,
+      "num": 135990,
+      "word": "小孩哥赴约",
+      "onboard_time": 1698661413,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135644,
       "num": 135644,
       "word": "机械菩萨妆",
@@ -1955,12 +1995,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 131820,
-      "num": 131820,
-      "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
-      "onboard_time": 1698660993,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 132375,
+      "num": 128533,
+      "word": "张小斐 女霸总",
+      "onboard_time": 1698660873,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132066,
+      "num": 132066,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1698661413,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 131710,
@@ -2003,6 +2051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128954,
+      "num": 128954,
+      "word": "万圣节cos马杨",
+      "onboard_time": 1698661955,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 128493,
       "num": 128493,
       "word": "赵露思逛乌镇戏剧市集",
@@ -2033,14 +2089,6 @@
       "onboard_time": 1698640538,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123106,
-      "num": 123106,
-      "word": "张小斐 女霸总",
-      "onboard_time": 1698660873,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 122735,
@@ -2097,6 +2145,14 @@
       "onboard_time": 1698632850,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114726,
+      "num": 114726,
+      "word": "吸二手烟更容易得肺癌",
+      "onboard_time": 1698661834,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114356,
