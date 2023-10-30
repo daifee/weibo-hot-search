@@ -1,0 +1,410 @@
+{
+  "runTime": 1698694451734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146187,
+        "num": 146187,
+        "word": "朋友30岁癌症去世生前说他反而很开心",
+        "onboard_time": 1698671555,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87859,
+        "num": 87859,
+        "word": "第一次觉得男女主be不可惜的",
+        "onboard_time": 1698677375,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7797,
+        "num": 77113,
+        "word": "直击第六届进博会",
+        "onboard_time": 1698669755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75486,
+        "num": 75486,
+        "word": "金球奖",
+        "onboard_time": 1698674196,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54798,
+        "num": 54798,
+        "word": "谢可寅 以后再也不会有THE9了",
+        "onboard_time": 1698679593,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46131,
+        "num": 46131,
+        "word": "钟楚曦14秒换了3套衣服",
+        "onboard_time": 1698678575,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45379,
+        "num": 45379,
+        "word": "夸克回应被罚",
+        "onboard_time": 1698678517,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40611,
+        "num": 40611,
+        "word": "郭敬明 又怎么了我的大小姐",
+        "onboard_time": 1698650609,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39854,
+        "num": 39854,
+        "word": "iPhone13用户换15热情不高",
+        "onboard_time": 1698672695,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27620,
+        "num": 27620,
+        "word": "同济大学A408女寝全员保研",
+        "onboard_time": 1698683426,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123149,
+        "num": 27606,
+        "word": "缅甸",
+        "onboard_time": 1698673835,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 108472,
+        "num": 27530,
+        "word": "李金铭14年吃剩的饭被留到现在",
+        "onboard_time": 1698658291,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74919,
+        "num": 27418,
+        "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
+        "onboard_time": 1698677019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74835,
+        "num": 27380,
+        "word": "李健 我老婆我喜欢就好了",
+        "onboard_time": 1698663931,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66837,
+        "num": 27302,
+        "word": "万圣节徐冬冬cos终于来了",
+        "onboard_time": 1698674558,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 33855,
+        "num": 27221,
+        "word": "警方称对权志龙的调查要从下周开始",
+        "onboard_time": 1698680971,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27216,
+        "num": 27216,
+        "word": "胡锡进谈上海万圣节",
+        "onboard_time": 1698678575,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26935,
+        "num": 26935,
+        "word": "上海万圣节 找个发疯的理由罢了",
+        "onboard_time": 1698673356,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26724,
+        "num": 26724,
+        "word": "Kimi晒中国粉丝礼物",
+        "onboard_time": 1698675697,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26165,
+        "num": 26165,
+        "word": "秦岚惹眼的发缝",
+        "onboard_time": 1698665192,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31992,
+        "num": 25427,
+        "word": "看见爸爸网购记录后我羞愧了",
+        "onboard_time": 1698669335,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24454,
+        "num": 24454,
+        "word": "这部剧是懂网红直播剧本的",
+        "onboard_time": 1698674615,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24351,
+        "num": 24351,
+        "word": "南部战区回应菲护卫舰非法闯入",
+        "onboard_time": 1698673054,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23762,
+        "num": 23762,
+        "word": "这样做真的会显脸小",
+        "onboard_time": 1698674796,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23432,
+        "num": 23432,
+        "word": "为有暗香来有孙怡彭小苒",
+        "onboard_time": 1698670110,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22980,
+        "num": 22980,
+        "word": "女毒贩为逃避刑罚6年生4娃",
+        "onboard_time": 1698667173,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22475,
+        "num": 22475,
+        "word": "苹果中国官方首降价",
+        "onboard_time": 1698663395,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21516,
+        "num": 21516,
+        "word": "全昭旻最后一次录制RM",
+        "onboard_time": 1698687139,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21051,
+        "num": 21051,
+        "word": "小S许雅钧cos",
+        "onboard_time": 1698649110,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 20395,
+        "num": 20395,
+        "word": "凯特王妃的发型是怎么做的",
+        "onboard_time": 1698670473,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 24267,
+        "num": 20345,
+        "word": "中国学者当面回怼日本学者",
+        "onboard_time": 1698684264,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 19770,
+        "num": 19770,
+        "word": "吴宣仪根字写错",
+        "onboard_time": 1698666994,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19758,
+        "num": 19758,
+        "word": "延禧攻略主题曲陆虎埋藏了自己的情感",
+        "onboard_time": 1698682528,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19617,
+        "num": 19617,
+        "word": "常去的彩票店有人中了7400w",
+        "onboard_time": 1698669512,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19485,
+        "num": 19485,
+        "word": "徐璐纯欲风",
+        "onboard_time": 1698678871,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 19441,
+        "num": 19441,
+        "word": "大牌化妆品价格集体跳水看齐国货",
+        "onboard_time": 1698673402,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18877,
+        "num": 18877,
+        "word": "连狗瘦之后五官都会变立体",
+        "onboard_time": 1698673716,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18531,
+        "num": 18531,
+        "word": "金鸡奖开幕式 嘉宾名单",
+        "onboard_time": 1698673835,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17296,
+        "num": 17296,
+        "word": "秦岚胖了三斤",
+        "onboard_time": 1698677735,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17266,
+        "num": 17266,
+        "word": "今年很新的一种反向催婚",
+        "onboard_time": 1698670411,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17091,
+        "num": 17091,
+        "word": "明星到我家",
+        "onboard_time": 1698679714,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17066,
+        "num": 17066,
+        "word": "当牙医的爸爸给弄的万圣节尖牙",
+        "onboard_time": 1698664833,
+        "rank": 41,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 17050,
+        "num": 17050,
+        "word": "大熊猫园润带崽好温柔",
+        "onboard_time": 1698675875,
+        "rank": 42,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 16304,
+        "num": 16304,
+        "word": "陈丽君李云霄",
+        "onboard_time": 1698690735,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14850,
+        "num": 14850,
+        "word": "考研网上确认",
+        "onboard_time": 1698688277,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14113,
+        "num": 14849,
+        "word": "第一次见国产剧男主穿这么贵的衣服",
+        "onboard_time": 1698658712,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13227,
+        "num": 14849,
+        "word": "以爱为营什么时候定档",
+        "onboard_time": 1698682111,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12720,
+        "num": 14848,
+        "word": "吴宣仪回应写错字了",
+        "onboard_time": 1698676416,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12720,
+        "num": 14845,
+        "word": "陈哲远忘词还撒娇",
+        "onboard_time": 1698684863,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12448,
+        "num": 14845,
+        "word": "韩国警方称涉案艺人只有李善均权志龙",
+        "onboard_time": 1698666812,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
