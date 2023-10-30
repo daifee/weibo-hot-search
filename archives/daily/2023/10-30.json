@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698676463564,
+  "endTime": 1698679101129,
   "band_list": [
     {
       "raw_hot": 2980964,
@@ -387,6 +387,14 @@
       "category": "电影,美妆"
     },
     {
+      "raw_hot": 696950,
+      "num": 696950,
+      "word": "Kimi晒中国粉丝礼物",
+      "onboard_time": 1698675697,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 691605,
       "num": 682731,
       "word": "看见爸爸网购记录后我羞愧了",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654438,
+      "num": 405279,
+      "word": "万圣节徐冬冬cos终于来了",
+      "onboard_time": 1698674558,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 648980,
       "num": 648980,
       "word": "秦岚用手护着迪丽热巴",
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607702,
+      "num": 607702,
+      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
+      "onboard_time": 1698677019,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606529,
       "num": 251205,
       "word": "知道为什么这季花少相处这么融洽了",
@@ -547,12 +571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 565812,
+      "num": 565812,
+      "word": "第一次觉得男女主be不可惜的",
+      "onboard_time": 1698677375,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561427,
       "num": 521244,
       "word": "关智斌想和赵丽颖演伦理剧",
       "onboard_time": 1698637956,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554326,
+      "num": 554326,
+      "word": "这样做真的会显脸小",
+      "onboard_time": 1698674796,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 545152,
@@ -577,6 +617,14 @@
       "onboard_time": 1698636515,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 526877,
+      "num": 526877,
+      "word": "夸克回应被罚",
+      "onboard_time": 1698678517,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 517170,
@@ -659,14 +707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 490886,
-      "num": 405279,
-      "word": "万圣节徐冬冬cos终于来了",
-      "onboard_time": 1698674558,
-      "rank": 23,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 488479,
       "num": 145590,
       "word": "夫妻3年不孕因丈夫精子逆行进膀胱",
@@ -713,6 +753,14 @@
       "onboard_time": 1698624933,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 458250,
+      "num": 458250,
+      "word": "业余主播混乱式带货走红网络",
+      "onboard_time": 1698678275,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457253,
@@ -811,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398201,
+      "num": 366933,
+      "word": "钟楚曦14秒换了3套衣服",
+      "onboard_time": 1698678575,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397880,
       "num": 901696,
       "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
@@ -852,7 +908,7 @@
     },
     {
       "raw_hot": 382024,
-      "num": 322044,
+      "num": 378543,
       "word": "iPhone13用户换15热情不高",
       "onboard_time": 1698672695,
       "rank": 32,
@@ -883,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365230,
+      "num": 365230,
+      "word": "秦岚胖了三斤",
+      "onboard_time": 1698677735,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361521,
       "num": 1273390,
       "word": "家里已准备好迎接3名中国人回地球",
@@ -905,14 +969,6 @@
       "onboard_time": 1698663513,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 347111,
-      "num": 255691,
-      "word": "这样做真的会显脸小",
-      "onboard_time": 1698674796,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 342964,
@@ -1051,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300283,
+      "num": 300283,
+      "word": "吴宣仪回应写错字了",
+      "onboard_time": 1698676416,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298684,
       "num": 298684,
       "word": "上海万圣节 找个发疯的理由罢了",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1698673716,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296845,
+      "num": 296845,
+      "word": "徐璐纯欲风",
+      "onboard_time": 1698678871,
+      "rank": 22,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 296634,
@@ -1129,14 +1201,6 @@
       "onboard_time": 1698638615,
       "rank": 32,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 288637,
-      "num": 341652,
-      "word": "Kimi晒中国粉丝礼物",
-      "onboard_time": 1698675697,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 287073,
@@ -1339,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242820,
+      "num": 242820,
+      "word": "田嘉瑞回应红气养人",
+      "onboard_time": 1698675816,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242592,
       "num": 242592,
       "word": "上海万圣节 百变大咖秀",
@@ -1451,20 +1523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228473,
+      "num": 228473,
+      "word": "胡锡进谈上海万圣节",
+      "onboard_time": 1698678575,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226570,
       "num": 226570,
       "word": "仙剑三里的封神台词",
       "onboard_time": 1698647312,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224994,
-      "num": 224994,
-      "word": "田嘉瑞回应红气养人",
-      "onboard_time": 1698675816,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 223086,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1698635790,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215973,
+      "num": 215973,
+      "word": "赵昭仪 小心翼翼的哈哈大笑",
+      "onboard_time": 1698676597,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 215825,
@@ -1891,6 +1971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189321,
+      "num": 189321,
+      "word": "神十六乘组回家",
+      "onboard_time": 1698678756,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 189217,
       "num": 189217,
       "word": "小小的她紧紧牵着更小的她",
@@ -2139,12 +2227,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173258,
+      "num": 173258,
+      "word": "秦岚和素人合影",
+      "onboard_time": 1698678033,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173147,
       "num": 173147,
       "word": "周一 更适合打工人体质的鬼节",
       "onboard_time": 1698633571,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171411,
+      "num": 171411,
+      "word": "杭州菜场火锅火了",
+      "onboard_time": 1698678275,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 170894,
@@ -2419,14 +2523,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 149316,
-      "num": 149316,
-      "word": "吴宣仪回应写错字了",
-      "onboard_time": 1698676416,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 148498,
       "num": 148498,
       "word": "王子异被包上恩锁喉",
@@ -2643,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131311,
+      "num": 144749,
+      "word": "大熊猫园润带崽好温柔",
+      "onboard_time": 1698675875,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 130907,
       "num": 130907,
       "word": "朱一龙奚美娟点亮金鸡",
@@ -2664,6 +2768,14 @@
       "word": "他那么小但不影响梦想种子使劲生长",
       "onboard_time": 1698632130,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130033,
+      "num": 130033,
+      "word": "成都把秋天搬进地铁里",
+      "onboard_time": 1698679055,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2817,14 +2929,6 @@
       "onboard_time": 1698625053,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113751,
-      "num": 144749,
-      "word": "大熊猫园润带崽好温柔",
-      "onboard_time": 1698675875,
-      "rank": 48,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 112208,
