@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698680085538,
+  "endTime": 1698682970206,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -6835,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211890,
+      "num": 1211890,
+      "word": "谢可寅 以后再也不会有THE9了",
+      "onboard_time": 1698679593,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1211718,
       "num": 668487,
       "word": "手机电量1%女子迷路紧急求助110",
@@ -11449,6 +11457,14 @@
       "onboard_time": 1698020193,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 828672,
+      "num": 828672,
+      "word": "第一次觉得男女主be不可惜的",
+      "onboard_time": 1698677375,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 828309,
@@ -17121,14 +17137,6 @@
       "onboard_time": 1698324393,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 611960,
-      "num": 611960,
-      "word": "第一次觉得男女主be不可惜的",
-      "onboard_time": 1698677375,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 611951,
@@ -23273,14 +23281,6 @@
       "onboard_time": 1697451395,
       "rank": 32,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 475906,
-      "num": 475906,
-      "word": "谢可寅 以后再也不会有THE9了",
-      "onboard_time": 1698679593,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 475586,
@@ -38915,6 +38915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289454,
+      "num": 289454,
+      "word": "延禧攻略主题曲陆虎埋藏了自己的情感",
+      "onboard_time": 1698682528,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289450,
       "num": 289450,
       "word": "老友记 Chandler没想到是第一个离开",
@@ -39681,6 +39689,14 @@
       "onboard_time": 1697362534,
       "rank": 24,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 284853,
+      "num": 284853,
+      "word": "警方称对权志龙的调查要从下周开始",
+      "onboard_time": 1698680971,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 284827,
@@ -73059,6 +73075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142281,
+      "num": 140767,
+      "word": "以爱为营什么时候定档",
+      "onboard_time": 1698682111,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142208,
       "num": 142208,
       "word": "崔胜澈part歌词",
@@ -78939,6 +78963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109443,
+      "num": 109443,
+      "word": "小学生的秘密基地已被占领",
+      "onboard_time": 1698680672,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109398,
       "num": 109398,
       "word": "孟加拉虎宝宝也喜欢摸肚皮",
@@ -80145,6 +80177,14 @@
       "onboard_time": 1697978672,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98453,
+      "num": 98453,
+      "word": "孔雪儿细闪眼妆",
+      "onboard_time": 1698681031,
+      "rank": 44,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 98445,
@@ -81835,6 +81875,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 73840,
+      "num": 97690,
+      "word": "小孩姐的全开麦惊艳到我了",
+      "onboard_time": 1698682051,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73690,
       "num": 285269,
       "word": "天猫双11直播间堪比跨年演唱会",
@@ -83075,6 +83123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54509,
+      "num": 97689,
+      "word": "援藏到期后老师主动申请延期",
+      "onboard_time": 1698680431,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54490,
       "num": 225917,
       "word": "杭州姑娘用漫画记录夺金时刻",
@@ -83217,6 +83273,14 @@
       "onboard_time": 1697844805,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52089,
+      "num": 97668,
+      "word": "女辅警温柔劝导90分钟救下轻生女子",
+      "onboard_time": 1698680672,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51887,

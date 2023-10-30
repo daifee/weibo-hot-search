@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698680085538,
+  "endTime": 1698682970206,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -323,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1211890,
+      "num": 1211890,
+      "word": "谢可寅 以后再也不会有THE9了",
+      "onboard_time": 1698679593,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1203917,
       "num": 307513,
       "word": "港媒曝苑琼丹暂时息影",
@@ -633,6 +641,14 @@
       "onboard_time": 1698572850,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 828672,
+      "num": 828672,
+      "word": "第一次觉得男女主be不可惜的",
+      "onboard_time": 1698677375,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 822672,
@@ -1075,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611960,
-      "num": 611960,
-      "word": "第一次觉得男女主be不可惜的",
-      "onboard_time": 1698677375,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 611951,
       "num": 358339,
       "word": "少年的你哪儿去了豆瓣开分9.9",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1698650070,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 475906,
-      "num": 475906,
-      "word": "谢可寅 以后再也不会有THE9了",
-      "onboard_time": 1698679593,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 475148,
@@ -2379,6 +2379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289454,
+      "num": 289454,
+      "word": "延禧攻略主题曲陆虎埋藏了自己的情感",
+      "onboard_time": 1698682528,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289450,
       "num": 289450,
       "word": "老友记 Chandler没想到是第一个离开",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1698668430,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284853,
+      "num": 284853,
+      "word": "警方称对权志龙的调查要从下周开始",
+      "onboard_time": 1698680971,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 284086,
@@ -5059,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142281,
+      "num": 140767,
+      "word": "以爱为营什么时候定档",
+      "onboard_time": 1698682111,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142145,
       "num": 142145,
       "word": "9块9咖啡让独立咖啡店很受伤",
@@ -5843,6 +5867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109443,
+      "num": 109443,
+      "word": "小学生的秘密基地已被占领",
+      "onboard_time": 1698680672,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108143,
       "num": 112889,
       "word": "长城汽车三季度利润暴增200%",
@@ -6011,6 +6043,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 98453,
+      "num": 98453,
+      "word": "孔雪儿细闪眼妆",
+      "onboard_time": 1698681031,
+      "rank": 44,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 98130,
       "num": 98130,
       "word": "光雾山秋日限定多巴胺皮肤",
@@ -6147,6 +6187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73840,
+      "num": 97690,
+      "word": "小孩姐的全开麦惊艳到我了",
+      "onboard_time": 1698682051,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73347,
       "num": 73347,
       "word": "巴萨1比2皇马",
@@ -6257,6 +6305,22 @@
       "onboard_time": 1698646890,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54509,
+      "num": 97689,
+      "word": "援藏到期后老师主动申请延期",
+      "onboard_time": 1698680431,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52089,
+      "num": 97668,
+      "word": "女辅警温柔劝导90分钟救下轻生女子",
+      "onboard_time": 1698680672,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51727,

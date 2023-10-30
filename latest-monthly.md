@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 23:34:45
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 00:22:50
 </p>
 </blockquote>
 <p>
@@ -5139,6 +5139,12 @@ KT 地狱副本（热度：1212697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%20%E4%BB%A5%E5%90%8E%E5%86%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%9C%89THE9%E4%BA%86%23" target="weibo">
+谢可寅 以后再也不会有THE9了（热度：1211890）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F1%25%E5%A5%B3%E5%AD%90%E8%BF%B7%E8%B7%AF%E7%B4%A7%E6%80%A5%E6%B1%82%E5%8A%A9110%23" target="weibo">
 手机电量1%女子迷路紧急求助110（热度：1211718）
 </a>
@@ -6005,12 +6011,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%AB%E6%B3%AA%E8%B7%AA%E5%9C%B0%E5%90%83%E7%94%9F%E6%AF%8D%E7%85%AE%E7%9A%84%E9%86%AA%E7%B3%9F%E8%9B%8B%23" target="weibo">
 男子含泪跪地吃生母煮的醪糟蛋（热度：1064609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E4%BA%89%E4%BA%BA%E5%B7%A5%E5%8F%97%E7%B2%BE%E5%AD%A9%E5%AD%90%E7%94%B7%E6%96%B9%E9%9D%9E%E7%94%9F%E7%88%B6%23" target="weibo">
-夫妻离婚争人工受精孩子男方非生父（热度：1063705）
 </a>
 </li>
 
