@@ -1,0 +1,410 @@
+{
+  "runTime": 1698670143397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582370,
+        "num": 1582370,
+        "word": "第一次见国产剧男主穿这么贵的衣服",
+        "onboard_time": 1698658712,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 851727,
+        "num": 851727,
+        "word": "女毒贩为逃避刑罚6年生4娃",
+        "onboard_time": 1698667173,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11790,
+        "num": 819911,
+        "word": "直击第六届进博会",
+        "onboard_time": 1698669755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806053,
+        "num": 806053,
+        "word": "吴宣仪根字写错",
+        "onboard_time": 1698666994,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 712089,
+        "num": 712089,
+        "word": "苹果中国官方首降价",
+        "onboard_time": 1698663395,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 576427,
+        "num": 576427,
+        "word": "韩国警方称涉案艺人只有李善均权志龙",
+        "onboard_time": 1698666812,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510819,
+        "num": 510819,
+        "word": "郭敬明 又怎么了我的大小姐",
+        "onboard_time": 1698650609,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470943,
+        "num": 470943,
+        "word": "秦海璐录完花少瘦了18斤",
+        "onboard_time": 1698651511,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425465,
+        "num": 425465,
+        "word": "常去的彩票店有人中了7400w",
+        "onboard_time": 1698669512,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337012,
+        "num": 337012,
+        "word": "妇女的作用不可替代",
+        "onboard_time": 1698669451,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1807592,
+        "num": 336912,
+        "word": "李健 我老婆我喜欢就好了",
+        "onboard_time": 1698663931,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1599904,
+        "num": 336540,
+        "word": "李金铭14年吃剩的饭被留到现在",
+        "onboard_time": 1698658291,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582588,
+        "num": 336358,
+        "word": "当牙医的爸爸给弄的万圣节尖牙",
+        "onboard_time": 1698664833,
+        "rank": 12,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 479814,
+        "num": 336150,
+        "word": "魏大勋男大",
+        "onboard_time": 1698667052,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335959,
+        "num": 335959,
+        "word": "自闭症儿童地铁吃东西遭老人谩骂",
+        "onboard_time": 1698667354,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78972,
+        "num": 334978,
+        "word": "拼多多双11订单已收货",
+        "onboard_time": 1698667772,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430258,
+        "num": 334851,
+        "word": "秦岚惹眼的发缝",
+        "onboard_time": 1698665192,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334369,
+        "num": 334369,
+        "word": "韩庚希望能给女儿安全感",
+        "onboard_time": 1698664711,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234853,
+        "num": 234853,
+        "word": "莫兰德道歉",
+        "onboard_time": 1698669692,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233222,
+        "num": 233222,
+        "word": "陈若琳被调至北京工作",
+        "onboard_time": 1698656432,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232724,
+        "num": 232724,
+        "word": "这英回应万圣节cos那英",
+        "onboard_time": 1698665553,
+        "rank": 20,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 227959,
+        "num": 227959,
+        "word": "胡先煦四个女神一个男神",
+        "onboard_time": 1698668430,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226407,
+        "num": 226407,
+        "word": "AG",
+        "onboard_time": 1698668314,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180291,
+        "num": 180291,
+        "word": "万圣节cos马杨",
+        "onboard_time": 1698661955,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 151044,
+        "num": 151044,
+        "word": "17岁高中生颈椎后凸堪比47岁",
+        "onboard_time": 1698654390,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226936,
+        "num": 150932,
+        "word": "小S许雅钧cos",
+        "onboard_time": 1698649110,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 218093,
+        "num": 150909,
+        "word": "陈都灵恶女妆",
+        "onboard_time": 1698649171,
+        "rank": 26,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 191039,
+        "num": 150683,
+        "word": "这是62岁费翔的身材",
+        "onboard_time": 1698669634,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150394,
+        "num": 150394,
+        "word": "月亮",
+        "onboard_time": 1698665613,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 138435,
+        "num": 138435,
+        "word": "女儿第一次看到爸爸买的车",
+        "onboard_time": 1698666152,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314305,
+        "num": 138363,
+        "word": "看见爸爸网购记录后我羞愧了",
+        "onboard_time": 1698669335,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178003,
+        "num": 137288,
+        "word": "宋妍霏真剪短发了",
+        "onboard_time": 1698652831,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172839,
+        "num": 136189,
+        "word": "粉丝悼念马修",
+        "onboard_time": 1698666932,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165375,
+        "num": 135995,
+        "word": "鞠婧祎HelloKitty手机壳",
+        "onboard_time": 1698668912,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135396,
+        "num": 135396,
+        "word": "46名科学家获资助约11亿元",
+        "onboard_time": 1698664230,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148263,
+        "num": 128301,
+        "word": "大小杨哥带众徒弟喊话小黄",
+        "onboard_time": 1698656613,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146328,
+        "num": 127975,
+        "word": "为有暗香来有孙怡彭小苒",
+        "onboard_time": 1698670110,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119776,
+        "num": 119776,
+        "word": "她的头发好听话",
+        "onboard_time": 1698662914,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119104,
+        "num": 119104,
+        "word": "字节跳动除夕放假",
+        "onboard_time": 1698650551,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107703,
+        "num": 107703,
+        "word": "beryl回应抽签",
+        "onboard_time": 1698663513,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 107565,
+        "word": "三喜家cos亚当斯一家",
+        "onboard_time": 1698669634,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128128,
+        "num": 107512,
+        "word": "三十多岁的快乐追星生活",
+        "onboard_time": 1698665432,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127180,
+        "num": 107200,
+        "word": "仲溪午成全华浅华戎舟",
+        "onboard_time": 1698663452,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121637,
+        "num": 106978,
+        "word": "凤凰传奇现场没有一张嘴是闭着的",
+        "onboard_time": 1698669932,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119653,
+        "num": 106867,
+        "word": "红楼梦里最喜欢的丫头",
+        "onboard_time": 1698664291,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118168,
+        "num": 106723,
+        "word": "蒋勤勤说和吴磊搭档是上天的礼物",
+        "onboard_time": 1698663634,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106569,
+        "num": 106569,
+        "word": "池田纯矢涉嫌参与特殊诈骗被捕",
+        "onboard_time": 1698664411,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 106031,
+        "num": 106031,
+        "word": "单双号",
+        "onboard_time": 1698669871,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101480,
+        "num": 105214,
+        "word": "巨人插画 艾伦的一生",
+        "onboard_time": 1698669991,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 89767,
+        "num": 104801,
+        "word": "研究表明金星早期或能孕育生命",
+        "onboard_time": 1698670110,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
