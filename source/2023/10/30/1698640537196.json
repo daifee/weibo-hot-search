@@ -1,0 +1,410 @@
+{
+  "runTime": 1698640537196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289355,
+        "num": 1289355,
+        "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+        "onboard_time": 1698639035,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956053,
+        "num": 956053,
+        "word": "电影花千骨定档",
+        "onboard_time": 1698634229,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8632,
+        "num": 953730,
+        "word": "杭州亚残运这些画面好戳泪点",
+        "onboard_time": 1698586596,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952487,
+        "num": 952487,
+        "word": "第一批90后已成为中风高发人群",
+        "onboard_time": 1698633391,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788097,
+        "num": 788097,
+        "word": "华为再次成为中国轻薄笔记本市场第一",
+        "onboard_time": 1698635253,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 715898,
+        "num": 715898,
+        "word": "猫咖内部培训曝光",
+        "onboard_time": 1698633995,
+        "rank": 5,
+        "category": "动物萌宠,幽默"
+      },
+      {
+        "raw_hot": 619107,
+        "num": 619107,
+        "word": "原来抓夹还可以这样用",
+        "onboard_time": 1698638318,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 605966,
+        "num": 605966,
+        "word": "七国集团呼吁撤销对日本食品进口限制",
+        "onboard_time": 1698633751,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 524730,
+        "num": 524730,
+        "word": "以色列称坚决拒绝停火",
+        "onboard_time": 1698632312,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 493192,
+        "num": 493192,
+        "word": "陆鸢陆时在一起了",
+        "onboard_time": 1698636515,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1800323,
+        "num": 493080,
+        "word": "教育局回应7岁女孩在校被多人霸凌",
+        "onboard_time": 1698631651,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 561427,
+        "num": 492612,
+        "word": "关智斌想和赵丽颖演伦理剧",
+        "onboard_time": 1698637956,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553387,
+        "num": 492277,
+        "word": "这英cos那英",
+        "onboard_time": 1698623129,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 499248,
+        "num": 491935,
+        "word": "全红婵",
+        "onboard_time": 1698639335,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77747,
+        "num": 491693,
+        "word": "男性健康日晒出你的男人本色",
+        "onboard_time": 1698638435,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 491328,
+        "num": 491328,
+        "word": "嬛嬛这是送给朕的惊魂舞吗",
+        "onboard_time": 1698623429,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 463932,
+        "num": 463932,
+        "word": "租客厕所吊顶发现10万金器竟是赃物",
+        "onboard_time": 1698639102,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454374,
+        "num": 454374,
+        "word": "穿越火线 外挂",
+        "onboard_time": 1698634351,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 422675,
+        "num": 422675,
+        "word": "靠脖子认出了范丞丞",
+        "onboard_time": 1698634472,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379461,
+        "num": 379461,
+        "word": "陈哲远官宣爱奇艺尖叫之夜",
+        "onboard_time": 1698637053,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43782,
+        "num": 375781,
+        "word": "OPPO小折叠中国市场第一",
+        "onboard_time": 1698639575,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 632356,
+        "num": 375726,
+        "word": "别把孩子养得太老实",
+        "onboard_time": 1698638195,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 375566,
+        "num": 375566,
+        "word": "张馨予甜感西瓜妆",
+        "onboard_time": 1698638976,
+        "rank": 22,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 363872,
+        "num": 363872,
+        "word": "万圣节cos 全明星律师函",
+        "onboard_time": 1698592236,
+        "rank": 23,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 324743,
+        "num": 324743,
+        "word": "迪丽热巴的表妹",
+        "onboard_time": 1698623791,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288790,
+        "num": 288790,
+        "word": "一口气看懂明朝最牛的男人",
+        "onboard_time": 1698638615,
+        "rank": 25,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 279806,
+        "num": 279806,
+        "word": "詹姆斯绝平",
+        "onboard_time": 1698639102,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277180,
+        "num": 277180,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1698638675,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251981,
+        "num": 251981,
+        "word": "老友记 Chandler没想到是第一个离开",
+        "onboard_time": 1698638253,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118397,
+        "num": 250443,
+        "word": "加沙地带至少1870人仍被埋在废墟下",
+        "onboard_time": 1698624933,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 249701,
+        "num": 249701,
+        "word": "周杰伦杭州演唱会报批",
+        "onboard_time": 1698635492,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248123,
+        "num": 248123,
+        "word": "万圣节本土化",
+        "onboard_time": 1698629314,
+        "rank": 31,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 245832,
+        "num": 245832,
+        "word": "印度富豪要求年轻人每周工作70小时",
+        "onboard_time": 1698629314,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243855,
+        "num": 243855,
+        "word": "穿越火线回应线下约赛事件",
+        "onboard_time": 1698640297,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241813,
+        "num": 241813,
+        "word": "娄底遭霸凌女孩家长回应网友关心",
+        "onboard_time": 1698639816,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222188,
+        "num": 222188,
+        "word": "知识用卑鄙的方式进了脑子",
+        "onboard_time": 1698639517,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220694,
+        "num": 220694,
+        "word": "权志龙称被立案前没有接到警察的联系",
+        "onboard_time": 1698637534,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219865,
+        "num": 219865,
+        "word": "微博迎新之夜阵容官宣",
+        "onboard_time": 1698639877,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210604,
+        "num": 210604,
+        "word": "古相思曲",
+        "onboard_time": 1698637053,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209722,
+        "num": 209722,
+        "word": "工科生查重率百分百的穿搭",
+        "onboard_time": 1698632312,
+        "rank": 39,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 208902,
+        "num": 208902,
+        "word": "谈恋爱时最不受欢迎的星座",
+        "onboard_time": 1698624454,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 207181,
+        "num": 207181,
+        "word": "肯豆cos玛丽莲梦露",
+        "onboard_time": 1698636515,
+        "rank": 41,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 205120,
+        "num": 205120,
+        "word": "王星越嘴好严",
+        "onboard_time": 1698639877,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202116,
+        "num": 202116,
+        "word": "上海万圣节 百变大咖秀",
+        "onboard_time": 1698630630,
+        "rank": 43,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 196721,
+        "num": 196721,
+        "word": "缉凶26年破案后不喝酒的民警灌醉自己",
+        "onboard_time": 1698638856,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195069,
+        "num": 195069,
+        "word": "陆沉 我电话呢",
+        "onboard_time": 1698637119,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192681,
+        "num": 192681,
+        "word": "教育局回应运动会有学生举日本国旗",
+        "onboard_time": 1698635553,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191420,
+        "num": 191420,
+        "word": "7岁女孩在校被多人霸凌",
+        "onboard_time": 1698639756,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182001,
+        "num": 182001,
+        "word": "华浅仲溪午be了",
+        "onboard_time": 1698640359,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180350,
+        "num": 180350,
+        "word": "喻言开了两天演唱会又去音乐节",
+        "onboard_time": 1698637595,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

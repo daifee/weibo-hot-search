@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698639645132,
+  "endTime": 1698640537196,
   "band_list": [
     {
       "raw_hot": 2607465,
@@ -51,6 +51,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 1289355,
+      "num": 1289355,
+      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+      "onboard_time": 1698639035,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083028,
       "num": 299753,
       "word": "吴京cos",
@@ -73,6 +81,14 @@
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 952487,
+      "num": 952487,
+      "word": "第一批90后已成为中风高发人群",
+      "onboard_time": 1698633391,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 949667,
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854951,
-      "num": 854951,
-      "word": "第一批90后已成为中风高发人群",
-      "onboard_time": 1698633391,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 847986,
       "num": 667654,
       "word": "以色列称坚决拒绝停火",
@@ -139,8 +147,8 @@
       "category": "动物萌宠,幽默"
     },
     {
-      "raw_hot": 782332,
-      "num": 782332,
+      "raw_hot": 788097,
+      "num": 788097,
       "word": "华为再次成为中国轻薄笔记本市场第一",
       "onboard_time": 1698635253,
       "rank": 27,
@@ -195,6 +203,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 632356,
+      "num": 385034,
+      "word": "别把孩子养得太老实",
+      "onboard_time": 1698638195,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 619107,
+      "num": 619107,
+      "word": "原来抓夹还可以这样用",
+      "onboard_time": 1698638318,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 606529,
       "num": 251205,
       "word": "知道为什么这季花少相处这么融洽了",
@@ -203,15 +227,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547071,
-      "num": 547071,
-      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
-      "onboard_time": 1698639035,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540105,
+      "raw_hot": 561427,
       "num": 521244,
       "word": "关智斌想和赵丽颖演伦理剧",
       "onboard_time": 1698637956,
@@ -227,20 +243,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531448,
-      "num": 385034,
-      "word": "别把孩子养得太老实",
-      "onboard_time": 1698638195,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 513687,
       "num": 513687,
       "word": "陈哲远官宣爱奇艺尖叫之夜",
       "onboard_time": 1698637053,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499248,
+      "num": 491935,
+      "word": "全红婵",
+      "onboard_time": 1698639335,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 497215,
@@ -275,12 +291,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 462466,
-      "num": 462466,
-      "word": "原来抓夹还可以这样用",
-      "onboard_time": 1698638318,
-      "rank": 17,
-      "category": "美妆"
+      "raw_hot": 463932,
+      "num": 463932,
+      "word": "租客厕所吊顶发现10万金器竟是赃物",
+      "onboard_time": 1698639102,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440799,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288790,
+      "num": 288790,
+      "word": "一口气看懂明朝最牛的男人",
+      "onboard_time": 1698638615,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 287073,
       "num": 170332,
       "word": "何洁减肥大法",
@@ -427,12 +451,20 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 274641,
-      "num": 274641,
-      "word": "租客厕所吊顶发现10万金器竟是赃物",
+      "raw_hot": 279806,
+      "num": 279806,
+      "word": "詹姆斯绝平",
       "onboard_time": 1698639102,
-      "rank": 25,
-      "category": "社会新闻"
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 277180,
+      "num": 277180,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1698638675,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 269965,
@@ -491,22 +523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252551,
-      "num": 252551,
-      "word": "全红婵",
-      "onboard_time": 1698639335,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 252372,
-      "num": 252372,
-      "word": "詹姆斯绝平",
-      "onboard_time": 1698639102,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252362,
       "num": 252362,
       "word": "enhypen 油头",
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243855,
+      "num": 243855,
+      "word": "穿越火线回应线下约赛事件",
+      "onboard_time": 1698640297,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242592,
       "num": 242592,
       "word": "上海万圣节 百变大咖秀",
@@ -531,20 +555,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 241813,
+      "num": 241813,
+      "word": "娄底遭霸凌女孩家长回应网友关心",
+      "onboard_time": 1698639816,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238446,
       "num": 179806,
       "word": "钱德勒演员死前六天还曾露面",
       "onboard_time": 1698583893,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238195,
-      "num": 238195,
-      "word": "一口气看懂明朝最牛的男人",
-      "onboard_time": 1698638615,
-      "rank": 32,
-      "category": "知识科普"
     },
     {
       "raw_hot": 237903,
@@ -603,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222188,
+      "num": 222188,
+      "word": "知识用卑鄙的方式进了脑子",
+      "onboard_time": 1698639517,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220513,
       "num": 215266,
       "word": "月薪3万去不起泡泡玛特乐园",
       "onboard_time": 1698582212,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219865,
+      "num": 219865,
+      "word": "微博迎新之夜阵容官宣",
+      "onboard_time": 1698639877,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 219272,
@@ -691,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205120,
+      "num": 205120,
+      "word": "王星越嘴好严",
+      "onboard_time": 1698639877,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201404,
       "num": 201404,
       "word": "樊振东发带造型太帅了",
@@ -705,14 +753,6 @@
       "onboard_time": 1698636213,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1698638675,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 194439,
@@ -745,6 +785,14 @@
       "onboard_time": 1698602959,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191420,
+      "num": 191420,
+      "word": "7岁女孩在校被多人霸凌",
+      "onboard_time": 1698639756,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 191282,
@@ -793,6 +841,22 @@
       "onboard_time": 1698630928,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182001,
+      "num": 182001,
+      "word": "华浅仲溪午be了",
+      "onboard_time": 1698640359,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180350,
+      "num": 180350,
+      "word": "喻言开了两天演唱会又去音乐节",
+      "onboard_time": 1698637595,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 178848,
@@ -867,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166043,
-      "num": 166043,
-      "word": "喻言开了两天演唱会又去音乐节",
-      "onboard_time": 1698637595,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165793,
       "num": 165793,
       "word": "李克强同志逝世",
@@ -929,14 +985,6 @@
       "onboard_time": 1698637413,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159318,
-      "num": 159318,
-      "word": "知识用卑鄙的方式进了脑子",
-      "onboard_time": 1698639517,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 158961,
@@ -1299,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77747,
+      "num": 514964,
+      "word": "男性健康日晒出你的男人本色",
+      "onboard_time": 1698638435,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76678,
       "num": 76678,
       "word": "马嘉祺喊哥发现店员比自己小的反应",
@@ -1403,14 +1459,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 49309,
-      "num": 514964,
-      "word": "男性健康日晒出你的男人本色",
-      "onboard_time": 1698638435,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 47360,
       "num": 55537,
       "word": "和清融一起关注罕见病",
@@ -1427,20 +1475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34743,
-      "num": 897533,
-      "word": "杭州亚残运这些画面好戳泪点",
-      "onboard_time": 1698586596,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18420,
-      "num": 153564,
+      "raw_hot": 43782,
+      "num": 375781,
       "word": "OPPO小折叠中国市场第一",
       "onboard_time": 1698639575,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 34743,
+      "num": 953730,
+      "word": "杭州亚残运这些画面好戳泪点",
+      "onboard_time": 1698586596,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15354,

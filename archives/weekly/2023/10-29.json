@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698639645132,
+  "endTime": 1698640537196,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1289355,
+      "num": 1289355,
+      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+      "onboard_time": 1698639035,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1286755,
       "num": 349013,
       "word": "万圣节cos关晓彤",
@@ -331,6 +339,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 952487,
+      "num": 952487,
+      "word": "第一批90后已成为中风高发人群",
+      "onboard_time": 1698633391,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949667,
       "num": 491943,
       "word": "万圣节cos 全明星律师函",
@@ -419,14 +435,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 854951,
-      "num": 854951,
-      "word": "第一批90后已成为中风高发人群",
-      "onboard_time": 1698633391,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 849158,
       "num": 849158,
       "word": "BLG战胜G2",
@@ -483,8 +491,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 782332,
-      "num": 782332,
+      "raw_hot": 788097,
+      "num": 788097,
       "word": "华为再次成为中国轻薄笔记本市场第一",
       "onboard_time": 1698635253,
       "rank": 27,
@@ -699,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632356,
+      "num": 385034,
+      "word": "别把孩子养得太老实",
+      "onboard_time": 1698638195,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 624705,
       "num": 624705,
       "word": "上海万圣节冠军竞争太激烈了",
@@ -713,6 +729,14 @@
       "onboard_time": 1698540752,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 619107,
+      "num": 619107,
+      "word": "原来抓夹还可以这样用",
+      "onboard_time": 1698638318,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 618626,
@@ -859,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561427,
+      "num": 521244,
+      "word": "关智斌想和赵丽颖演伦理剧",
+      "onboard_time": 1698637956,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559039,
       "num": 559039,
       "word": "一根头发居然能吊起14页PPT",
@@ -907,22 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547071,
-      "num": 547071,
-      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
-      "onboard_time": 1698639035,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540105,
-      "num": 521244,
-      "word": "关智斌想和赵丽颖演伦理剧",
-      "onboard_time": 1698637956,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536610,
       "num": 514509,
       "word": "陆虎快男时期看张杰非常不顺眼",
@@ -937,14 +953,6 @@
       "onboard_time": 1698636515,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531448,
-      "num": 385034,
-      "word": "别把孩子养得太老实",
-      "onboard_time": 1698638195,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 527700,
@@ -985,6 +993,14 @@
       "onboard_time": 1698539550,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 499248,
+      "num": 491935,
+      "word": "全红婵",
+      "onboard_time": 1698639335,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 497905,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463932,
+      "num": 463932,
+      "word": "租客厕所吊顶发现10万金器竟是赃物",
+      "onboard_time": 1698639102,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463595,
       "num": 657835,
       "word": "小区没物业67岁阿姨管得井井有条",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1698502117,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462466,
-      "num": 462466,
-      "word": "原来抓夹还可以这样用",
-      "onboard_time": 1698638318,
-      "rank": 17,
-      "category": "美妆"
     },
     {
       "raw_hot": 461189,
@@ -1611,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288790,
+      "num": 288790,
+      "word": "一口气看懂明朝最牛的男人",
+      "onboard_time": 1698638615,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 287624,
       "num": 287624,
       "word": "DK",
@@ -1643,12 +1667,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279806,
+      "num": 279806,
+      "word": "詹姆斯绝平",
+      "onboard_time": 1698639102,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279310,
       "num": 279310,
       "word": "上海万圣节祺贵人都来了",
       "onboard_time": 1698555991,
       "rank": 30,
       "category": "休闲,剧集"
+    },
+    {
+      "raw_hot": 277180,
+      "num": 277180,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1698638675,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 277054,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1698561869,
       "rank": 22,
       "category": "动漫,读书作家"
-    },
-    {
-      "raw_hot": 274641,
-      "num": 274641,
-      "word": "租客厕所吊顶发现10万金器竟是赃物",
-      "onboard_time": 1698639102,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274159,
@@ -1843,22 +1875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252551,
-      "num": 252551,
-      "word": "全红婵",
-      "onboard_time": 1698639335,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 252372,
-      "num": 252372,
-      "word": "詹姆斯绝平",
-      "onboard_time": 1698639102,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252362,
       "num": 252362,
       "word": "enhypen 油头",
@@ -1931,6 +1947,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 243855,
+      "num": 243855,
+      "word": "穿越火线回应线下约赛事件",
+      "onboard_time": 1698640297,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243742,
       "num": 243742,
       "word": "THE9演唱会微指",
@@ -1955,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241813,
+      "num": 241813,
+      "word": "娄底遭霸凌女孩家长回应网友关心",
+      "onboard_time": 1698639816,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240904,
       "num": 211624,
       "word": "苑琼丹否认直播带货是自降身价",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1698508653,
       "rank": 27,
       "category": "游戏,演出"
-    },
-    {
-      "raw_hot": 238195,
-      "num": 238195,
-      "word": "一口气看懂明朝最牛的男人",
-      "onboard_time": 1698638615,
-      "rank": 32,
-      "category": "知识科普"
     },
     {
       "raw_hot": 237903,
@@ -2195,6 +2219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222188,
+      "num": 222188,
+      "word": "知识用卑鄙的方式进了脑子",
+      "onboard_time": 1698639517,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 219865,
+      "num": 219865,
+      "word": "微博迎新之夜阵容官宣",
+      "onboard_time": 1698639877,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219565,
       "num": 219565,
       "word": "EDG",
@@ -2371,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205120,
+      "num": 205120,
+      "word": "王星越嘴好严",
+      "onboard_time": 1698639877,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204866,
       "num": 204866,
       "word": "Deft告别S13",
@@ -2531,14 +2579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1698638675,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196929,
       "num": 196929,
       "word": "宋雨琦唱稻香忘词的反应",
@@ -2673,6 +2713,14 @@
       "onboard_time": 1698548071,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 191420,
+      "num": 191420,
+      "word": "7岁女孩在校被多人霸凌",
+      "onboard_time": 1698639756,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 191369,
@@ -2811,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182001,
+      "num": 182001,
+      "word": "华浅仲溪午be了",
+      "onboard_time": 1698640359,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181819,
       "num": 181819,
       "word": "刘雨昕唱promise哽咽了",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1698552993,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 180350,
+      "num": 180350,
+      "word": "喻言开了两天演唱会又去音乐节",
+      "onboard_time": 1698637595,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 180240,
@@ -3091,14 +3155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166043,
-      "num": 166043,
-      "word": "喻言开了两天演唱会又去音乐节",
-      "onboard_time": 1698637595,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165675,
       "num": 165675,
       "word": "猫 你最好找我有事",
@@ -3201,14 +3257,6 @@
       "onboard_time": 1698567808,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159318,
-      "num": 159318,
-      "word": "知识用卑鄙的方式进了脑子",
-      "onboard_time": 1698639517,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 157304,
@@ -4227,6 +4275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77747,
+      "num": 514964,
+      "word": "男性健康日晒出你的男人本色",
+      "onboard_time": 1698638435,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76579,
       "num": 501011,
       "word": "电车跑赛道让油车嫉妒",
@@ -4316,7 +4372,7 @@
     },
     {
       "raw_hot": 51727,
-      "num": 897533,
+      "num": 953730,
       "word": "杭州亚残运这些画面好戳泪点",
       "onboard_time": 1698586596,
       "rank": 2,
@@ -4345,14 +4401,6 @@
       "onboard_time": 1698601219,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 49309,
-      "num": 514964,
-      "word": "男性健康日晒出你的男人本色",
-      "onboard_time": 1698638435,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 47360,
@@ -4393,6 +4441,14 @@
       "onboard_time": 1698499959,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43782,
+      "num": 375781,
+      "word": "OPPO小折叠中国市场第一",
+      "onboard_time": 1698639575,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 38535,
@@ -4449,14 +4505,6 @@
       "onboard_time": 1698548553,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18420,
-      "num": 153564,
-      "word": "OPPO小折叠中国市场第一",
-      "onboard_time": 1698639575,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 15354,

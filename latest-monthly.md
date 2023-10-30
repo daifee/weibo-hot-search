@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 12:20:45
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 12:35:37
 </p>
 </blockquote>
 <p>
@@ -4671,6 +4671,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+小杨哥徒弟七老板回应小黄带货被指低俗（热度：1289355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -6005,12 +6011,6 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0%23" target="weibo">
 迪丽热巴 万渣朝凰（热度：1054056）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E8%A6%81%E6%B1%82%E5%89%8D%E5%90%8C%E4%BA%8B%E8%BF%98%E7%A4%BC400%E5%85%83%23" target="weibo">
-女子结婚要求前同事还礼400元（热度：1053739）
 </a>
 </li>
 
