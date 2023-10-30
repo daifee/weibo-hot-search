@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698698067543,
+  "endTime": 1698700424561,
   "band_list": [
     {
       "raw_hot": 1211890,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73804,
+      "num": 73804,
+      "word": "以总理办公室发言人称坚决拒绝停火",
+      "onboard_time": 1698697213,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 59855,
       "num": 59855,
       "word": "陈哲远忘词还撒娇",
@@ -507,24 +515,24 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19961,
-      "num": 19961,
-      "word": "以总理办公室发言人称坚决拒绝停火",
-      "onboard_time": 1698697213,
-      "rank": 22,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 15373,
-      "num": 15373,
+      "raw_hot": 17313,
+      "num": 18715,
       "word": "AI合成郭德纲于谦用外语说相声",
       "onboard_time": 1698697573,
       "rank": 38,
       "category": "艺人"
     },
     {
-      "raw_hot": 12072,
-      "num": 14036,
+      "raw_hot": 17047,
+      "num": 18713,
+      "word": "身体从未如此放松过",
+      "onboard_time": 1698698413,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 12164,
+      "num": 18701,
       "word": "原来魏晨粉丝吃这么好",
       "onboard_time": 1698695053,
       "rank": 48,
