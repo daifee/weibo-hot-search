@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698682970206,
+  "endTime": 1698683909371,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -2379,6 +2379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 290506,
+      "num": 290506,
+      "word": "警方称对权志龙的调查要从下周开始",
+      "onboard_time": 1698680971,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289454,
       "num": 289454,
       "word": "延禧攻略主题曲陆虎埋藏了自己的情感",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1698668430,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284853,
-      "num": 284853,
-      "word": "警方称对权志龙的调查要从下周开始",
-      "onboard_time": 1698680971,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 284086,
@@ -4427,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169356,
+      "num": 169356,
+      "word": "以爱为营什么时候定档",
+      "onboard_time": 1698682111,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169232,
       "num": 169232,
       "word": "虞书欣性感交叉小黑裙",
@@ -5073,14 +5081,6 @@
       "onboard_time": 1698646111,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142281,
-      "num": 140767,
-      "word": "以爱为营什么时候定档",
-      "onboard_time": 1698682111,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 142145,
@@ -6073,6 +6073,14 @@
       "onboard_time": 1698622348,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95532,
+      "num": 95532,
+      "word": "同济大学A408女寝全员保研",
+      "onboard_time": 1698683426,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 94864,

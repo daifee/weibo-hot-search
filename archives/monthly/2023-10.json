@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698682970206,
+  "endTime": 1698683909371,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -38755,6 +38755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290506,
+      "num": 290506,
+      "word": "警方称对权志龙的调查要从下周开始",
+      "onboard_time": 1698680971,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290488,
       "num": 290488,
       "word": "孕妇早产交警紧急开道提前送达",
@@ -39689,14 +39697,6 @@
       "onboard_time": 1697362534,
       "rank": 24,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 284853,
-      "num": 284853,
-      "word": "警方称对权志龙的调查要从下周开始",
-      "onboard_time": 1698680971,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 284827,
@@ -66419,6 +66419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169356,
+      "num": 169356,
+      "word": "以爱为营什么时候定档",
+      "onboard_time": 1698682111,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169271,
       "num": 169271,
       "word": "杨紫秋日雀斑妆",
@@ -73073,14 +73081,6 @@
       "onboard_time": 1696831833,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142281,
-      "num": 140767,
-      "word": "以爱为营什么时候定档",
-      "onboard_time": 1698682111,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 142208,
@@ -80433,6 +80433,14 @@
       "onboard_time": 1696611804,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95532,
+      "num": 95532,
+      "word": "同济大学A408女寝全员保研",
+      "onboard_time": 1698683426,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 95450,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698682970206,
+  "endTime": 1698683909371,
   "band_list": [
     {
       "raw_hot": 1211890,
@@ -35,20 +35,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 808366,
+      "num": 274872,
+      "word": "缅甸",
+      "onboard_time": 1698673835,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 748038,
       "num": 748038,
       "word": "夸克回应被罚",
       "onboard_time": 1698678517,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 682983,
-      "num": 274872,
-      "word": "缅甸",
-      "onboard_time": 1698673835,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 579469,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290506,
+      "num": 290506,
+      "word": "警方称对权志龙的调查要从下周开始",
+      "onboard_time": 1698680971,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289454,
       "num": 289454,
       "word": "延禧攻略主题曲陆虎埋藏了自己的情感",
       "onboard_time": 1698682528,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284853,
-      "num": 284853,
-      "word": "警方称对权志龙的调查要从下周开始",
-      "onboard_time": 1698680971,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 272384,
@@ -179,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169356,
+      "num": 169356,
+      "word": "以爱为营什么时候定档",
+      "onboard_time": 1698682111,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166480,
       "num": 166480,
       "word": "明星到我家",
       "onboard_time": 1698679714,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164402,
+      "num": 164402,
+      "word": "金球奖",
+      "onboard_time": 1698674196,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 162127,
@@ -203,14 +219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 156677,
-      "num": 156677,
-      "word": "金球奖",
-      "onboard_time": 1698674196,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153443,
       "num": 153443,
       "word": "常去的彩票店有人中了7400w",
@@ -225,14 +233,6 @@
       "onboard_time": 1698663395,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142281,
-      "num": 140767,
-      "word": "以爱为营什么时候定档",
-      "onboard_time": 1698682111,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 141289,
@@ -371,6 +371,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 95532,
+      "num": 95532,
+      "word": "同济大学A408女寝全员保研",
+      "onboard_time": 1698683426,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73840,
       "num": 97690,
       "word": "小孩姐的全开麦惊艳到我了",
@@ -401,11 +409,22 @@
       "onboard_time": 1698680672,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38211,
+      "num": 82974,
+      "word": "王哲林",
+      "onboard_time": 1698674558,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    },
+    {
+      "word": "#创建丝路电商合作先行区推进高质量共建一带一路#"
     }
   ]
 }
