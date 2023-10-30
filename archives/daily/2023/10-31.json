@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698705230279,
+  "endTime": 1698707798894,
   "band_list": [
     {
       "raw_hot": 1211890,
@@ -43,12 +43,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 803938,
+      "num": 263818,
+      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
+      "onboard_time": 1698677019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748038,
       "num": 748038,
       "word": "夸克回应被罚",
       "onboard_time": 1698678517,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 631836,
+      "num": 631836,
+      "word": "梅西获得第八座金球奖",
+      "onboard_time": 1698707064,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 579469,
@@ -65,14 +81,6 @@
       "onboard_time": 1698663931,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517763,
-      "num": 263818,
-      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
-      "onboard_time": 1698677019,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361803,
@@ -131,12 +139,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 249123,
+      "num": 249123,
+      "word": "金球奖",
+      "onboard_time": 1698674196,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241786,
       "num": 175362,
       "word": "徐璐纯欲风",
       "onboard_time": 1698678871,
       "rank": 21,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 241469,
+      "num": 241469,
+      "word": "大牌化妆品价格集体跳水看齐国货",
+      "onboard_time": 1698673402,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 239280,
@@ -155,6 +179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 227496,
+      "num": 88313,
+      "word": "孙女在奶奶嫁妆柜子里发现了暗格",
+      "onboard_time": 1698707064,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225909,
       "num": 282827,
       "word": "Kimi晒中国粉丝礼物",
@@ -163,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207643,
-      "num": 207643,
-      "word": "金球奖",
-      "onboard_time": 1698674196,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 213464,
+      "num": 213464,
+      "word": "以总理办公室发言人称坚决拒绝停火",
+      "onboard_time": 1698697213,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 205081,
@@ -235,12 +267,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146839,
-      "num": 146839,
+      "raw_hot": 153053,
+      "num": 153053,
       "word": "苹果中国官方首降价",
       "onboard_time": 1698663395,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143736,
+      "num": 143736,
+      "word": "你用过夸克吗",
+      "onboard_time": 1698707064,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 141289,
@@ -267,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131316,
+      "num": 114588,
+      "word": "WTT法兰克福冠军赛2023",
+      "onboard_time": 1698707425,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121236,
       "num": 121236,
       "word": "连狗瘦之后五官都会变立体",
@@ -291,12 +339,12 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 112849,
-      "num": 112849,
-      "word": "以总理办公室发言人称坚决拒绝停火",
-      "onboard_time": 1698697213,
-      "rank": 22,
-      "category": "国外要闻"
+      "raw_hot": 113610,
+      "num": 113610,
+      "word": "中国学者当面回怼日本学者",
+      "onboard_time": 1698684264,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 112044,
@@ -329,6 +377,22 @@
       "onboard_time": 1698676416,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108388,
+      "num": 108388,
+      "word": "当牙医的爸爸给弄的万圣节尖牙",
+      "onboard_time": 1698664833,
+      "rank": 43,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 107697,
+      "num": 107697,
+      "word": "结局了来了三个客串",
+      "onboard_time": 1698701233,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 105109,
@@ -379,28 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97704,
-      "num": 97704,
-      "word": "大牌化妆品价格集体跳水看齐国货",
-      "onboard_time": 1698673402,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 90035,
       "num": 90035,
       "word": "全昭旻最后一次录制RM",
       "onboard_time": 1698687139,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84733,
-      "num": 73478,
-      "word": "中国学者当面回怼日本学者",
-      "onboard_time": 1698684264,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 73840,
@@ -411,12 +459,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70022,
-      "num": 62773,
-      "word": "结局了来了三个客串",
-      "onboard_time": 1698701233,
-      "rank": 42,
+      "raw_hot": 72427,
+      "num": 72427,
+      "word": "这部剧是懂网红直播剧本的",
+      "onboard_time": 1698674615,
+      "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68751,
+      "num": 68751,
+      "word": "金球奖颁奖典礼",
+      "onboard_time": 1698707545,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60380,
+      "num": 60380,
+      "word": "身体从未如此放松过",
+      "onboard_time": 1698698413,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 59855,
@@ -459,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48946,
+      "num": 48946,
+      "word": "坠湖者为救命恩人送止痛药",
+      "onboard_time": 1698707425,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38211,
       "num": 82974,
       "word": "王哲林",
@@ -467,35 +539,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38168,
-      "num": 36886,
-      "word": "身体从未如此放松过",
-      "onboard_time": 1698698413,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 36675,
       "num": 48403,
       "word": "最遥远的距离嗑男一女二",
       "onboard_time": 1698686419,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 35037,
-      "num": 35037,
-      "word": "当牙医的爸爸给弄的万圣节尖牙",
-      "onboard_time": 1698664833,
-      "rank": 43,
-      "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 34704,
-      "num": 34704,
-      "word": "这部剧是懂网红直播剧本的",
-      "onboard_time": 1698674615,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -539,20 +587,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17328,
+      "num": 589249,
+      "word": "直击第六届进博会",
+      "onboard_time": 1698669755,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12164,
       "num": 18701,
       "word": "原来魏晨粉丝吃这么好",
       "onboard_time": 1698695053,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11029,
-      "num": 462593,
-      "word": "直击第六届进博会",
-      "onboard_time": 1698669755,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698705230279,
+  "endTime": 1698707798894,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 803938,
+      "num": 607702,
+      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
+      "onboard_time": 1698677019,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800028,
       "num": 800028,
       "word": "猫咖内部培训曝光",
@@ -971,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 660931,
-      "num": 607702,
-      "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
-      "onboard_time": 1698677019,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648980,
       "num": 648980,
       "word": "秦岚用手护着迪丽热巴",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1698670473,
       "rank": 9,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 631836,
+      "num": 631836,
+      "word": "梅西获得第八座金球奖",
+      "onboard_time": 1698707064,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 624705,
@@ -2867,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241469,
+      "num": 241469,
+      "word": "大牌化妆品价格集体跳水看齐国货",
+      "onboard_time": 1698673402,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 240904,
       "num": 211624,
       "word": "苑琼丹否认直播带货是自降身价",
@@ -2945,14 +2961,6 @@
       "onboard_time": 1698571593,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236867,
-      "num": 236867,
-      "word": "大牌化妆品价格集体跳水看齐国货",
-      "onboard_time": 1698673402,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 236689,
@@ -3087,6 +3095,14 @@
       "num": 229593,
       "word": "21名高中生把教室画成千里江山图",
       "onboard_time": 1698571831,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227496,
+      "num": 88313,
+      "word": "孙女在奶奶嫁妆柜子里发现了暗格",
+      "onboard_time": 1698707064,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -3281,6 +3297,14 @@
       "onboard_time": 1698635553,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 213464,
+      "num": 213464,
+      "word": "以总理办公室发言人称坚决拒绝停火",
+      "onboard_time": 1698697213,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 212923,
@@ -5035,6 +5059,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143736,
+      "num": 143736,
+      "word": "你用过夸克吗",
+      "onboard_time": 1698707064,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143201,
       "num": 143201,
       "word": "于和伟在准备演精神病了",
@@ -5353,6 +5385,14 @@
       "onboard_time": 1698540933,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131316,
+      "num": 114588,
+      "word": "WTT法兰克福冠军赛2023",
+      "onboard_time": 1698707425,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 131311,
@@ -5811,6 +5851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 113610,
+      "num": 113610,
+      "word": "中国学者当面回怼日本学者",
+      "onboard_time": 1698684264,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 113184,
       "num": 113184,
       "word": "鞠婧祎唱恋爱告急好甜",
@@ -5825,14 +5873,6 @@
       "onboard_time": 1698540388,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 112849,
-      "num": 112849,
-      "word": "以总理办公室发言人称坚决拒绝停火",
-      "onboard_time": 1698697213,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 111380,
@@ -5897,6 +5937,14 @@
       "onboard_time": 1698648809,
       "rank": 47,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 107697,
+      "num": 107697,
+      "word": "结局了来了三个客串",
+      "onboard_time": 1698701233,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 107448,
@@ -6163,14 +6211,6 @@
       "category": "游戏,演出"
     },
     {
-      "raw_hot": 84733,
-      "num": 73478,
-      "word": "中国学者当面回怼日本学者",
-      "onboard_time": 1698684264,
-      "rank": 31,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
@@ -6251,12 +6291,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 70022,
-      "num": 62773,
-      "word": "结局了来了三个客串",
-      "onboard_time": 1698701233,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 68751,
+      "num": 68751,
+      "word": "金球奖颁奖典礼",
+      "onboard_time": 1698707545,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 67548,
@@ -6305,6 +6345,14 @@
       "onboard_time": 1698649228,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 60380,
+      "num": 60380,
+      "word": "身体从未如此放松过",
+      "onboard_time": 1698698413,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 59855,
@@ -6403,6 +6451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 48946,
+      "num": 48946,
+      "word": "坠湖者为救命恩人送止痛药",
+      "onboard_time": 1698707425,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47360,
       "num": 55537,
       "word": "和清融一起关注罕见病",
@@ -6457,14 +6513,6 @@
       "onboard_time": 1698511168,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38168,
-      "num": 36886,
-      "word": "身体从未如此放松过",
-      "onboard_time": 1698698413,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 36675,
@@ -6563,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17328,
+      "num": 819911,
+      "word": "直击第六届进博会",
+      "onboard_time": 1698669755,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15354,
       "num": 16581,
       "word": "EDGZmjjKK 跟我兄弟从地下站上",
@@ -6585,14 +6641,6 @@
       "onboard_time": 1698695053,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11790,
-      "num": 819911,
-      "word": "直击第六届进博会",
-      "onboard_time": 1698669755,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5264,
