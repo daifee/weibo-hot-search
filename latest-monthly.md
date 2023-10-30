@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 19:14:54
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 19:34:22
 </p>
 </blockquote>
 <p>
@@ -701,6 +701,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%20%E5%81%B7%E4%B8%9C%E8%A5%BF%23" target="weibo">
 迷笛 偷东西（热度：2789072）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%20%E6%88%91%E8%80%81%E5%A9%86%E6%88%91%E5%96%9C%E6%AC%A2%E5%B0%B1%E5%A5%BD%E4%BA%86%23" target="weibo">
+李健 我老婆我喜欢就好了（热度：2777137）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AE%A9%E6%B2%A1%E5%A4%A9%E8%B5%8B%E7%9A%84%E4%BA%BA%E6%B2%A1%E9%A5%AD%E5%90%83%E4%BA%86%23" target="weibo">
 樊振东让没天赋的人没饭吃了（热度：1060010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DK%20%E7%96%AF%E7%89%9B%E7%97%85%23" target="weibo">
-DK 疯牛病（热度：1059512）
 </a>
 </li>
 

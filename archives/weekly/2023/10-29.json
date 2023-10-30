@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698664494920,
+  "endTime": 1698665662573,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -16,6 +16,14 @@
       "word": "李金铭14年吃剩的饭被留到现在",
       "onboard_time": 1698658291,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2777137,
+      "num": 385671,
+      "word": "李健 我老婆我喜欢就好了",
+      "onboard_time": 1698663931,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 911942,
-      "num": 385671,
-      "word": "李健 我老婆我喜欢就好了",
-      "onboard_time": 1698663931,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 909734,
       "num": 642579,
       "word": "字节跳动除夕放假",
@@ -555,6 +555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 844124,
+      "num": 844124,
+      "word": "第一次见国产剧男主穿这么贵的衣服",
+      "onboard_time": 1698658712,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 843199,
       "num": 843199,
       "word": "苹果中国官方首降价",
@@ -576,14 +584,6 @@
       "word": "老友记六人组不完整了",
       "onboard_time": 1698546152,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 818197,
-      "num": 818197,
-      "word": "第一次见国产剧男主穿这么贵的衣服",
-      "onboard_time": 1698658712,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -1315,6 +1315,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 482539,
+      "num": 860702,
+      "word": "46名科学家获资助约11亿元",
+      "onboard_time": 1698664230,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481972,
       "num": 481972,
       "word": "淡颜不适合画浓妆",
@@ -1795,6 +1803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333524,
+      "num": 333524,
+      "word": "池田纯矢涉嫌参与特殊诈骗被捕",
+      "onboard_time": 1698664411,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 331799,
       "num": 283396,
       "word": "哈马斯持续向以色列发射大量火箭弹",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1698623069,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307839,
+      "num": 187293,
+      "word": "当牙医的爸爸给弄的万圣节尖牙",
+      "onboard_time": 1698664833,
+      "rank": 30,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 307658,
@@ -2483,14 +2507,6 @@
       "category": "游戏,演出"
     },
     {
-      "raw_hot": 239317,
-      "num": 358726,
-      "word": "46名科学家获资助约11亿元",
-      "onboard_time": 1698664230,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238377,
       "num": 238377,
       "word": "沈腾檀健次打游戏",
@@ -2843,6 +2859,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 211362,
+      "num": 187073,
+      "word": "秦岚惹眼的发缝",
+      "onboard_time": 1698665192,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211087,
       "num": 211087,
       "word": "马嘉祺吃鳗鱼去了",
@@ -2979,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204729,
+      "num": 204729,
+      "word": "万圣节cos马杨",
+      "onboard_time": 1698661955,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 204718,
       "num": 159910,
       "word": "谁都别惹我们郭总",
@@ -3057,6 +3089,14 @@
       "onboard_time": 1698588398,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201843,
+      "num": 201843,
+      "word": "韩庚希望能给女儿安全感",
+      "onboard_time": 1698664711,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 201569,
@@ -3507,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187450,
+      "num": 187450,
+      "word": "黄轩拍杂志的猫是自己的",
+      "onboard_time": 1698664893,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187319,
       "num": 181853,
       "word": "重生文学算是被玩明白了",
@@ -3515,12 +3563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187089,
+      "num": 187089,
+      "word": "罗云熙骑摩托",
+      "onboard_time": 1698664470,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186906,
       "num": 186906,
       "word": "你们东北人全员e人",
       "onboard_time": 1698553951,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186857,
+      "num": 186857,
+      "word": "红楼梦里最喜欢的丫头",
+      "onboard_time": 1698664291,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 186697,
@@ -3665,14 +3729,6 @@
       "onboard_time": 1698504697,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179417,
-      "num": 179417,
-      "word": "罗云熙骑摩托",
-      "onboard_time": 1698664470,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 179151,
@@ -3825,14 +3881,6 @@
       "onboard_time": 1698555991,
       "rank": 29,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 171239,
-      "num": 171239,
-      "word": "万圣节cos马杨",
-      "onboard_time": 1698661955,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 171101,
@@ -4387,6 +4435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143201,
+      "num": 143201,
+      "word": "于和伟在准备演精神病了",
+      "onboard_time": 1698664532,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143027,
       "num": 143027,
       "word": "曼联vs曼城",
@@ -4475,6 +4531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139883,
+      "num": 139883,
+      "word": "这英回应万圣节cos那英",
+      "onboard_time": 1698665553,
+      "rank": 40,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 139589,
       "num": 139589,
       "word": "梅花红桃",
@@ -4489,14 +4553,6 @@
       "onboard_time": 1698551730,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139130,
-      "num": 139130,
-      "word": "红楼梦里最喜欢的丫头",
-      "onboard_time": 1698664291,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 139104,
@@ -4529,6 +4585,14 @@
       "onboard_time": 1698567752,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136003,
+      "num": 136003,
+      "word": "三十多岁的快乐追星生活",
+      "onboard_time": 1698665432,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 135983,
@@ -4627,14 +4691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132773,
-      "num": 132773,
-      "word": "池田纯矢涉嫌参与特殊诈骗被捕",
-      "onboard_time": 1698664411,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 132712,
       "num": 132712,
       "word": "赵本山AI伦敦腔",
@@ -4723,6 +4779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130907,
+      "num": 130907,
+      "word": "朱一龙奚美娟点亮金鸡",
+      "onboard_time": 1698665613,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130743,
       "num": 130743,
       "word": "广君 开挂",
@@ -4793,6 +4857,14 @@
       "onboard_time": 1698597925,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128686,
+      "num": 128686,
+      "word": "好用到爆的神仙单品",
+      "onboard_time": 1698665132,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 128493,
