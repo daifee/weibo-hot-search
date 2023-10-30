@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698635871812,
+  "endTime": 1698636857815,
   "band_list": [
     {
       "raw_hot": 2607465,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1508188,
-      "num": 428634,
+      "num": 505304,
       "word": "迪丽热巴的表妹",
       "onboard_time": 1698623791,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1479329,
-      "num": 433122,
+      "num": 509173,
       "word": "这英cos那英",
       "onboard_time": 1698623129,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 949667,
-      "num": 424220,
+      "num": 491943,
       "word": "万圣节cos 全明星律师函",
       "onboard_time": 1698592236,
       "rank": 16,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 907274,
-      "num": 418558,
+      "num": 501539,
       "word": "嬛嬛这是送给朕的惊魂舞吗",
       "onboard_time": 1698623429,
       "rank": 12,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854951,
+      "num": 854951,
+      "word": "第一批90后已成为中风高发人群",
+      "onboard_time": 1698633391,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847986,
       "num": 667654,
       "word": "以色列称坚决拒绝停火",
@@ -123,20 +131,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 794894,
-      "num": 794894,
-      "word": "第一批90后已成为中风高发人群",
-      "onboard_time": 1698633391,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 736483,
       "num": 736483,
       "word": "各种维生素不足和过量有啥表现",
       "onboard_time": 1698629431,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 708278,
+      "num": 708278,
+      "word": "七国集团呼吁撤销对日本食品进口限制",
+      "onboard_time": 1698633751,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 673427,
+      "num": 509887,
+      "word": "靠脖子认出了范丞丞",
+      "onboard_time": 1698634472,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 645712,
@@ -147,20 +163,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 634888,
-      "num": 634888,
+      "raw_hot": 642739,
+      "num": 642739,
       "word": "工科生查重率百分百的穿搭",
       "onboard_time": 1698632312,
       "rank": 34,
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 609816,
-      "num": 427435,
-      "word": "靠脖子认出了范丞丞",
-      "onboard_time": 1698634472,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 637930,
+      "num": 637930,
+      "word": "穿越火线 外挂",
+      "onboard_time": 1698634351,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 613952,
+      "num": 613952,
+      "word": "猫咖内部培训曝光",
+      "onboard_time": 1698633995,
+      "rank": 16,
+      "category": "动物萌宠,幽默"
     },
     {
       "raw_hot": 606529,
@@ -171,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530602,
-      "num": 530602,
-      "word": "穿越火线 外挂",
-      "onboard_time": 1698634351,
-      "rank": 7,
-      "category": "游戏"
+      "raw_hot": 512615,
+      "num": 512615,
+      "word": "陆鸢陆时在一起了",
+      "onboard_time": 1698636515,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 497215,
@@ -203,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 474665,
-      "num": 416699,
-      "word": "猫咖内部培训曝光",
-      "onboard_time": 1698633995,
-      "rank": 16,
-      "category": "动物萌宠,幽默"
-    },
-    {
       "raw_hot": 474009,
       "num": 330989,
       "word": "加沙地带至少1870人仍被埋在废墟下",
@@ -225,14 +241,6 @@
       "onboard_time": 1698615254,
       "rank": 12,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 437839,
-      "num": 437839,
-      "word": "七国集团呼吁撤销对日本食品进口限制",
-      "onboard_time": 1698633751,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 434364,
@@ -299,6 +307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 334559,
+      "num": 334559,
+      "word": "华为再次成为中国轻薄笔记本市场第一",
+      "onboard_time": 1698635253,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 333431,
       "num": 333431,
       "word": "餐具收费大学生付1元直接带走",
@@ -313,6 +329,14 @@
       "onboard_time": 1698592775,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 327815,
+      "num": 327815,
+      "word": "肯豆cos玛丽莲梦露",
+      "onboard_time": 1698636515,
+      "rank": 21,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 321200,
@@ -491,20 +515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216197,
+      "num": 216197,
+      "word": "陈都灵演花千骨",
+      "onboard_time": 1698635790,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210584,
       "num": 164992,
       "word": "胡一天和我奶能唠一宿",
       "onboard_time": 1698592835,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210121,
-      "num": 210121,
-      "word": "陈都灵演花千骨",
-      "onboard_time": 1698635790,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 209613,
@@ -547,12 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200665,
-      "num": 200665,
-      "word": "华为再次成为中国轻薄笔记本市场第一",
-      "onboard_time": 1698635253,
-      "rank": 27,
-      "category": "数码"
+      "raw_hot": 197454,
+      "num": 197454,
+      "word": "杨幂伦敦机场路透",
+      "onboard_time": 1698636213,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194836,
+      "num": 194836,
+      "word": "教育局回应运动会有学生举日本国旗",
+      "onboard_time": 1698635553,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 194439,
@@ -635,6 +667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178848,
+      "num": 178848,
+      "word": "白举纲给了沈腾一巴掌周深鼓掌",
+      "onboard_time": 1698635972,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177651,
+      "num": 189191,
+      "word": "34年后妈妈再给了我一次生命",
+      "onboard_time": 1698633450,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174979,
       "num": 174979,
       "word": "苏醒再就业以来最愉快的音乐节目",
@@ -643,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174006,
-      "num": 174006,
-      "word": "34年后妈妈再给了我一次生命",
-      "onboard_time": 1698633450,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 174103,
+      "num": 174103,
+      "word": "小米澎湃OS评测",
+      "onboard_time": 1698635431,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 173932,
@@ -747,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156949,
-      "num": 156949,
-      "word": "小米澎湃OS评测",
-      "onboard_time": 1698635431,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 151243,
       "num": 151243,
       "word": "深圳欢乐谷致歉",
@@ -843,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138997,
-      "num": 138997,
-      "word": "教育局回应运动会有学生举日本国旗",
-      "onboard_time": 1698635553,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 134712,
       "num": 134712,
       "word": "万圣节cos乙方",
@@ -905,6 +937,14 @@
       "onboard_time": 1698635315,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124787,
+      "num": 124787,
+      "word": "年鹏 穿越火线",
+      "onboard_time": 1698636152,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 122735,
@@ -1108,7 +1148,7 @@
     },
     {
       "raw_hot": 76579,
-      "num": 422096,
+      "num": 501011,
       "word": "电车跑赛道让油车嫉妒",
       "onboard_time": 1698634830,
       "rank": 14,
