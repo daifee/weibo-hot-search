@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698665662573,
+  "endTime": 1698669201736,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -4369,6 +4369,14 @@
       "onboard_time": 1696992333,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1600372,
+      "num": 1600372,
+      "word": "第一次见国产剧男主穿这么贵的衣服",
+      "onboard_time": 1698658712,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1596375,
@@ -10899,6 +10907,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 854512,
+      "num": 684284,
+      "word": "吴宣仪根字写错",
+      "onboard_time": 1698666994,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 854269,
       "num": 661508,
       "word": "男子手持铁锹将没拴绳柯基打死",
@@ -11003,6 +11019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 848787,
+      "num": 848787,
+      "word": "苹果中国官方首降价",
+      "onboard_time": 1698663395,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 848490,
       "num": 749749,
       "word": "孙颖莎说遗憾是前进的动力",
@@ -11091,14 +11115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 844124,
-      "num": 844124,
-      "word": "第一次见国产剧男主穿这么贵的衣服",
-      "onboard_time": 1698658712,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 843570,
       "num": 465292,
       "word": "28岁智障女子被迫嫁给34岁二婚男",
@@ -11113,14 +11129,6 @@
       "onboard_time": 1698391359,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 843199,
-      "num": 843199,
-      "word": "苹果中国官方首降价",
-      "onboard_time": 1698663395,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 842917,
@@ -15251,6 +15259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663760,
+      "num": 663760,
+      "word": "韩国警方称涉案艺人只有李善均权志龙",
+      "onboard_time": 1698666812,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663507,
       "num": 663507,
       "word": "光遇 道袍复刻",
@@ -18851,6 +18867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 565846,
+      "num": 242720,
+      "word": "魏大勋男大",
+      "onboard_time": 1698667052,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 565632,
       "num": 565632,
       "word": "周也恶女这才对味儿嘛",
@@ -19417,6 +19441,14 @@
       "onboard_time": 1698377324,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551359,
+      "num": 551359,
+      "word": "女毒贩为逃避刑罚6年生4娃",
+      "onboard_time": 1698667173,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551041,
@@ -20809,6 +20841,14 @@
       "onboard_time": 1696908940,
       "rank": 22,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 520154,
+      "num": 238223,
+      "word": "当牙医的爸爸给弄的万圣节尖牙",
+      "onboard_time": 1698664833,
+      "rank": 30,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 520018,
@@ -26291,6 +26331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 427973,
+      "num": 206860,
+      "word": "秦岚惹眼的发缝",
+      "onboard_time": 1698665192,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427534,
       "num": 427534,
       "word": "戚薇许嵩歌圈何炅谢娜",
@@ -28064,6 +28112,14 @@
       "word": "刘雅瑟扒出柳姐包里装发胶",
       "onboard_time": 1697033979,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 399574,
+      "num": 205482,
+      "word": "韩庚希望能给女儿安全感",
+      "onboard_time": 1698664711,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -36323,14 +36379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307839,
-      "num": 187293,
-      "word": "当牙医的爸爸给弄的万圣节尖牙",
-      "onboard_time": 1698664833,
-      "rank": 30,
-      "category": "美妆,幽默"
-    },
-    {
       "raw_hot": 307819,
       "num": 307819,
       "word": "河边的错误开分9.2",
@@ -38131,6 +38179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292647,
+      "num": 193635,
+      "word": "这英回应万圣节cos那英",
+      "onboard_time": 1698665553,
+      "rank": 40,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 292538,
       "num": 292538,
       "word": "唐嫣神女造型",
@@ -39353,6 +39409,14 @@
       "onboard_time": 1697342912,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284934,
+      "num": 193031,
+      "word": "胡先煦四个女神一个男神",
+      "onboard_time": 1698668430,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 284913,
@@ -44587,6 +44651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251412,
+      "num": 251412,
+      "word": "自闭症儿童地铁吃东西遭老人谩骂",
+      "onboard_time": 1698667354,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251360,
       "num": 251360,
       "word": "看月亮",
@@ -46905,6 +46977,14 @@
       "onboard_time": 1697105254,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238143,
+      "num": 238143,
+      "word": "万圣节cos马杨",
+      "onboard_time": 1698661955,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 238132,
@@ -52395,14 +52475,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 211362,
-      "num": 187073,
-      "word": "秦岚惹眼的发缝",
-      "onboard_time": 1698665192,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211295,
       "num": 211295,
       "word": "檀健次复活甲",
@@ -53393,6 +53465,14 @@
       "onboard_time": 1697976753,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207607,
+      "num": 139598,
+      "word": "粉丝悼念马修",
+      "onboard_time": 1698666932,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207603,
@@ -54425,14 +54505,6 @@
       "onboard_time": 1696172978,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204729,
-      "num": 204729,
-      "word": "万圣节cos马杨",
-      "onboard_time": 1698661955,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 204718,
@@ -55531,14 +55603,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 201843,
-      "num": 201843,
-      "word": "韩庚希望能给女儿安全感",
-      "onboard_time": 1698664711,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201838,
       "num": 201838,
       "word": "于适知道自己演姬发的反应",
@@ -56097,6 +56161,14 @@
       "onboard_time": 1696570655,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200501,
+      "num": 200501,
+      "word": "AG",
+      "onboard_time": 1698668314,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 200499,
@@ -70259,6 +70331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152071,
+      "num": 134591,
+      "word": "女儿第一次看到爸爸买的车",
+      "onboard_time": 1698666152,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151962,
       "num": 151962,
       "word": "李现送阿尔卡拉斯故宫印章",
@@ -71585,6 +71665,14 @@
       "onboard_time": 1697759852,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146120,
+      "num": 136003,
+      "word": "三十多岁的快乐追星生活",
+      "onboard_time": 1698665432,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146029,
@@ -73035,14 +73123,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 139883,
-      "num": 139883,
-      "word": "这英回应万圣节cos那英",
-      "onboard_time": 1698665553,
-      "rank": 40,
-      "category": "艺人,网红"
-    },
-    {
       "raw_hot": 139857,
       "num": 139857,
       "word": "爸妈赶1000多公里路回家俩娃雨中迎接",
@@ -73873,14 +73953,6 @@
       "onboard_time": 1697378860,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136003,
-      "num": 136003,
-      "word": "三十多岁的快乐追星生活",
-      "onboard_time": 1698665432,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 136002,
@@ -76641,6 +76713,14 @@
       "onboard_time": 1698548729,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122112,
+      "num": 122112,
+      "word": "鞠婧祎HelloKitty手机壳",
+      "onboard_time": 1698668912,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 122069,
@@ -80035,6 +80115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92351,
+      "num": 115637,
+      "word": "齐司礼的神秘来电",
+      "onboard_time": 1698668973,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92148,
       "num": 146283,
       "word": "红酒红肉很搭我们俩也很搭",
@@ -81131,6 +81219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74737,
+      "num": 115608,
+      "word": "番茄肥牛粉丝煲",
+      "onboard_time": 1698669092,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74537,
       "num": 100748,
       "word": "环球影城里最酷的闺蜜",
@@ -82137,6 +82233,14 @@
       "onboard_time": 1696453694,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58841,
+      "num": 194687,
+      "word": "拼多多双11订单已收货",
+      "onboard_time": 1698667772,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 58813,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698665662573,
+  "endTime": 1698669201736,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -169,6 +169,14 @@
       "onboard_time": 1698536545,
       "rank": 1,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1600372,
+      "num": 1600372,
+      "word": "第一次见国产剧男主穿这么贵的衣服",
+      "onboard_time": 1698658712,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1594001,
@@ -531,12 +539,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 854512,
+      "num": 684284,
+      "word": "吴宣仪根字写错",
+      "onboard_time": 1698666994,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 849158,
       "num": 849158,
       "word": "BLG战胜G2",
       "onboard_time": 1698579034,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 848787,
+      "num": 848787,
+      "word": "苹果中国官方首降价",
+      "onboard_time": 1698663395,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 847986,
@@ -553,22 +577,6 @@
       "onboard_time": 1698638318,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 844124,
-      "num": 844124,
-      "word": "第一次见国产剧男主穿这么贵的衣服",
-      "onboard_time": 1698658712,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 843199,
-      "num": 843199,
-      "word": "苹果中国官方首降价",
-      "onboard_time": 1698663395,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 832878,
@@ -843,6 +851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 663760,
+      "num": 663760,
+      "word": "韩国警方称涉案艺人只有李善均权志龙",
+      "onboard_time": 1698666812,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661507,
       "num": 281557,
       "word": "30岁小伙婚前查出癌症切睾丸求生",
@@ -1091,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 565846,
+      "num": 242720,
+      "word": "魏大勋男大",
+      "onboard_time": 1698667052,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 565632,
       "num": 565632,
       "word": "周也恶女这才对味儿嘛",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1698544771,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 551359,
+      "num": 551359,
+      "word": "女毒贩为逃避刑罚6年生4娃",
+      "onboard_time": 1698667173,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550521,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1698505537,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520154,
+      "num": 238223,
+      "word": "当牙医的爸爸给弄的万圣节尖牙",
+      "onboard_time": 1698664833,
+      "rank": 30,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 517170,
@@ -1499,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427973,
+      "num": 206860,
+      "word": "秦岚惹眼的发缝",
+      "onboard_time": 1698665192,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424809,
       "num": 424809,
       "word": "柿子拿铁",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1698584434,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399574,
+      "num": 205482,
+      "word": "韩庚希望能给女儿安全感",
+      "onboard_time": 1698664711,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 398282,
@@ -1947,14 +2003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307839,
-      "num": 187293,
-      "word": "当牙医的爸爸给弄的万圣节尖牙",
-      "onboard_time": 1698664833,
-      "rank": 30,
-      "category": "美妆,幽默"
-    },
-    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
@@ -2043,6 +2091,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 292647,
+      "num": 193635,
+      "word": "这英回应万圣节cos那英",
+      "onboard_time": 1698665553,
+      "rank": 40,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 292179,
       "num": 292179,
       "word": "周杰伦 止战之殇",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1698507215,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284934,
+      "num": 193031,
+      "word": "胡先煦四个女神一个男神",
+      "onboard_time": 1698668430,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 284086,
@@ -2363,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251412,
+      "num": 251412,
+      "word": "自闭症儿童地铁吃东西遭老人谩骂",
+      "onboard_time": 1698667354,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251169,
       "num": 251169,
       "word": "易烊千玺影人碎片",
@@ -2513,6 +2585,14 @@
       "onboard_time": 1698508653,
       "rank": 27,
       "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 238143,
+      "num": 238143,
+      "word": "万圣节cos马杨",
+      "onboard_time": 1698661955,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 237903,
@@ -2859,14 +2939,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 211362,
-      "num": 187073,
-      "word": "秦岚惹眼的发缝",
-      "onboard_time": 1698665192,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211087,
       "num": 211087,
       "word": "马嘉祺吃鳗鱼去了",
@@ -2913,6 +2985,14 @@
       "onboard_time": 1698556890,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207607,
+      "num": 139598,
+      "word": "粉丝悼念马修",
+      "onboard_time": 1698666932,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207603,
@@ -3003,14 +3083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204729,
-      "num": 204729,
-      "word": "万圣节cos马杨",
-      "onboard_time": 1698661955,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 204718,
       "num": 159910,
       "word": "谁都别惹我们郭总",
@@ -3091,14 +3163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201843,
-      "num": 201843,
-      "word": "韩庚希望能给女儿安全感",
-      "onboard_time": 1698664711,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201569,
       "num": 201569,
       "word": "于适对话环球人物",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1698587615,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200501,
+      "num": 200501,
+      "word": "AG",
+      "onboard_time": 1698668314,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 200254,
@@ -4259,6 +4331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152071,
+      "num": 134591,
+      "word": "女儿第一次看到爸爸买的车",
+      "onboard_time": 1698666152,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151386,
       "num": 151386,
       "word": "贝林厄姆",
@@ -4377,6 +4457,14 @@
       "onboard_time": 1698627811,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 146120,
+      "num": 136003,
+      "word": "三十多岁的快乐追星生活",
+      "onboard_time": 1698665432,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146071,
@@ -4531,14 +4619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139883,
-      "num": 139883,
-      "word": "这英回应万圣节cos那英",
-      "onboard_time": 1698665553,
-      "rank": 40,
-      "category": "艺人,网红"
-    },
-    {
       "raw_hot": 139589,
       "num": 139589,
       "word": "梅花红桃",
@@ -4585,14 +4665,6 @@
       "onboard_time": 1698567752,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136003,
-      "num": 136003,
-      "word": "三十多岁的快乐追星生活",
-      "onboard_time": 1698665432,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 135983,
@@ -4961,6 +5033,14 @@
       "onboard_time": 1698548729,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122112,
+      "num": 122112,
+      "word": "鞠婧祎HelloKitty手机壳",
+      "onboard_time": 1698668912,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 121850,
@@ -5427,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92351,
+      "num": 115637,
+      "word": "齐司礼的神秘来电",
+      "onboard_time": 1698668973,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92073,
       "num": 92073,
       "word": "胡先煦王安宇花少前后对比",
@@ -5507,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74737,
+      "num": 115608,
+      "word": "番茄肥牛粉丝煲",
+      "onboard_time": 1698669092,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 73347,
       "num": 73347,
       "word": "巴萨1比2皇马",
@@ -5576,6 +5672,14 @@
       "word": "上千个天猫品牌承诺买贵双倍赔",
       "onboard_time": 1698649228,
       "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 58841,
+      "num": 194687,
+      "word": "拼多多双11订单已收货",
+      "onboard_time": 1698667772,
+      "rank": 19,
       "category": "互联网"
     },
     {

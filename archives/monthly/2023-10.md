@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 19:34:22
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 20:33:21
 </p>
 </blockquote>
 <p>
@@ -3291,6 +3291,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%9B%BD%E4%BA%A7%E5%89%A7%E7%94%B7%E4%B8%BB%E7%A9%BF%E8%BF%99%E4%B9%88%E8%B4%B5%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
+第一次见国产剧男主穿这么贵的衣服（热度：1600372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23207C%20%E5%A4%B1%E8%AF%AF%23" target="weibo">
 207C 失误（热度：1596375）
 </a>
@@ -6005,12 +6011,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%96%E6%8A%8A%E5%85%84%E5%BC%9F%20%E5%90%B8%E6%B0%A7%E5%85%84%E5%BC%9F%23" target="weibo">
 拖把兄弟 吸氧兄弟（热度：1061178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AE%A9%E6%B2%A1%E5%A4%A9%E8%B5%8B%E7%9A%84%E4%BA%BA%E6%B2%A1%E9%A5%AD%E5%90%83%E4%BA%86%23" target="weibo">
-樊振东让没天赋的人没饭吃了（热度：1060010）
 </a>
 </li>
 
