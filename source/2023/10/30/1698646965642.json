@@ -1,0 +1,410 @@
+{
+  "runTime": 1698646965642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697593,
+        "num": 1697593,
+        "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+        "onboard_time": 1698639035,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090608,
+        "num": 1090608,
+        "word": "湖南冷水江通报网传7岁女孩遭霸凌",
+        "onboard_time": 1698641919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 870191,
+        "word": "家里已准备好迎接3名中国人回地球",
+        "onboard_time": 1698627213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760841,
+        "num": 760841,
+        "word": "媒体批小杨哥们低俗带货赢流量输底线",
+        "onboard_time": 1698641322,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686930,
+        "num": 686930,
+        "word": "疯狂小杨哥定期直播未开播",
+        "onboard_time": 1698644729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648980,
+        "num": 648980,
+        "word": "秦岚用手护着迪丽热巴",
+        "onboard_time": 1698645331,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580649,
+        "num": 580649,
+        "word": "老板谈涨薪时的小心机",
+        "onboard_time": 1698645090,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555618,
+        "num": 555618,
+        "word": "科学家警告防晒霜悖论",
+        "onboard_time": 1698644850,
+        "rank": 7,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 411180,
+        "num": 411180,
+        "word": "租客厕所吊顶发现10万金器竟是赃物",
+        "onboard_time": 1698639102,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409409,
+        "num": 409409,
+        "word": "电影花千骨定档",
+        "onboard_time": 1698634229,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 681061,
+        "num": 400989,
+        "word": "别把孩子养得太老实",
+        "onboard_time": 1698638195,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62367,
+        "num": 363998,
+        "word": "大国重器持续上新",
+        "onboard_time": 1698640779,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339227,
+        "num": 339227,
+        "word": "这英cos那英",
+        "onboard_time": 1698623129,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 318658,
+        "num": 318658,
+        "word": "田耕纪出品方回应编剧问题",
+        "onboard_time": 1698646650,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305919,
+        "num": 305919,
+        "word": "年轻夫妻捐出20万元结婚钱支持公益",
+        "onboard_time": 1698642156,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294315,
+        "num": 294315,
+        "word": "原来抓夹还可以这样用",
+        "onboard_time": 1698638318,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 292770,
+        "num": 292770,
+        "word": "这就是你的作业吗也子",
+        "onboard_time": 1698643652,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 290233,
+        "num": 290233,
+        "word": "邓为转簪子好苏",
+        "onboard_time": 1698641616,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280250,
+        "num": 280250,
+        "word": "猫咖内部培训曝光",
+        "onboard_time": 1698633995,
+        "rank": 18,
+        "category": "动物萌宠,幽默"
+      },
+      {
+        "raw_hot": 259977,
+        "num": 259977,
+        "word": "王鹤棣工作室是懂粉丝的",
+        "onboard_time": 1698646290,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 243764,
+        "num": 243764,
+        "word": "迪丽热巴的表妹",
+        "onboard_time": 1698623791,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225272,
+        "num": 225272,
+        "word": "以色列称坚决拒绝停火",
+        "onboard_time": 1698632312,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219531,
+        "num": 219531,
+        "word": "一棵树居然可以有这么多种颜色",
+        "onboard_time": 1698643772,
+        "rank": 22,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 216742,
+        "num": 216742,
+        "word": "网友裸辞炒股5个月亏损48%",
+        "onboard_time": 1698646771,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207572,
+        "num": 207572,
+        "word": "第一批90后已成为中风高发人群",
+        "onboard_time": 1698633391,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200254,
+        "num": 200254,
+        "word": "虞书欣烈焰红玫瑰",
+        "onboard_time": 1698646231,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197285,
+        "num": 197285,
+        "word": "张真源新歌蝴蝶",
+        "onboard_time": 1698646231,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194393,
+        "num": 194393,
+        "word": "秦岚辛芷蕾见面就掐",
+        "onboard_time": 1698645992,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183571,
+        "num": 183571,
+        "word": "02年小伙花180元从青岛坐公交来杭州",
+        "onboard_time": 1698645871,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179835,
+        "num": 179835,
+        "word": "娄底遭霸凌女孩家长回应网友关心",
+        "onboard_time": 1698639816,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298431,
+        "num": 179777,
+        "word": "一个视频弄清自己适合长发还是短发",
+        "onboard_time": 1698646231,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178837,
+        "num": 178837,
+        "word": "极乐嘉年华",
+        "onboard_time": 1698646771,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176275,
+        "num": 176275,
+        "word": "中国6岁女孩打破魔方世界纪录",
+        "onboard_time": 1698643954,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169488,
+        "num": 169488,
+        "word": "教育局回应7岁女孩在校被多人霸凌",
+        "onboard_time": 1698631651,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162689,
+        "num": 162689,
+        "word": "靠脖子认出了范丞丞",
+        "onboard_time": 1698634472,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160317,
+        "num": 160317,
+        "word": "耶稣在人间",
+        "onboard_time": 1698644729,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154914,
+        "num": 154914,
+        "word": "中科院院士褚君浩现场演示隐身术",
+        "onboard_time": 1698641080,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 148607,
+        "num": 148607,
+        "word": "关智斌想和赵丽颖演伦理剧",
+        "onboard_time": 1698637956,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147559,
+        "num": 147559,
+        "word": "七国集团呼吁撤销对日本食品进口限制",
+        "onboard_time": 1698633751,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 143589,
+        "num": 143589,
+        "word": "全红婵",
+        "onboard_time": 1698639335,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142371,
+        "num": 142371,
+        "word": "身高1米35村医坚守大山深处44年",
+        "onboard_time": 1698646111,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "老友记 Chandler没想到是第一个离开",
+        "onboard_time": 1698638253,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138591,
+        "num": 138591,
+        "word": "穿越火线回应线下约赛事件",
+        "onboard_time": 1698640297,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138509,
+        "num": 138509,
+        "word": "张馨予甜感西瓜妆",
+        "onboard_time": 1698638976,
+        "rank": 43,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 135618,
+        "num": 135618,
+        "word": "陈都灵赖美云新片演母女",
+        "onboard_time": 1698643529,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133281,
+        "num": 133281,
+        "word": "华浅仲溪午be了",
+        "onboard_time": 1698640359,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130743,
+        "num": 130743,
+        "word": "广君 开挂",
+        "onboard_time": 1698644073,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19683,
+        "num": 128212,
+        "word": "天猫把购物车推进王者峡谷",
+        "onboard_time": 1698646890,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 127798,
+        "word": "万圣节本土化",
+        "onboard_time": 1698629314,
+        "rank": 48,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 126948,
+        "num": 126948,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1698638675,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以多样化为美打造各具特色的现代版富春山居图#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 13:34:05
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 14:22:45
 </p>
 </blockquote>
 <p>
@@ -2817,6 +2817,12 @@ Z先生到底是谁（热度：1751124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+小杨哥徒弟七老板回应小黄带货被指低俗（热度：1697593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
 iPhone15Pro被曝生产成本523美元（热度：1697579）
 </a>
@@ -2903,12 +2909,6 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%86%B0%E5%A8%87%E5%BC%BA%E5%BF%8D%E7%9C%BC%E6%B3%AA%23" target="weibo">
 何冰娇强忍眼泪（热度：1677381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
-小杨哥徒弟七老板回应小黄带货被指低俗（热度：1676293）
 </a>
 </li>
 
