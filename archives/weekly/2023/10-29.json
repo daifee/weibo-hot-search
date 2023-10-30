@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698636857815,
+  "endTime": 1698639645132,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1479329,
-      "num": 509173,
+      "num": 527052,
       "word": "这英cos那英",
       "onboard_time": 1698623129,
       "rank": 11,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 907274,
-      "num": 501539,
+      "num": 524255,
       "word": "嬛嬛这是送给朕的惊魂舞吗",
       "onboard_time": 1698623429,
       "rank": 12,
@@ -467,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800028,
+      "num": 800028,
+      "word": "猫咖内部培训曝光",
+      "onboard_time": 1698633995,
+      "rank": 16,
+      "category": "动物萌宠,幽默"
+    },
+    {
       "raw_hot": 793626,
       "num": 793626,
       "word": "楼上是重点班 楼下是普通班",
       "onboard_time": 1698542669,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 782332,
+      "num": 782332,
+      "word": "华为再次成为中国轻薄笔记本市场第一",
+      "onboard_time": 1698635253,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 777235,
@@ -497,6 +513,14 @@
       "onboard_time": 1698575913,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765118,
+      "num": 765118,
+      "word": "七国集团呼吁撤销对日本食品进口限制",
+      "onboard_time": 1698633751,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 758804,
@@ -553,14 +577,6 @@
       "onboard_time": 1698566730,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 708278,
-      "num": 708278,
-      "word": "七国集团呼吁撤销对日本食品进口限制",
-      "onboard_time": 1698633751,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 696044,
@@ -713,14 +729,6 @@
       "onboard_time": 1698588877,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613952,
-      "num": 613952,
-      "word": "猫咖内部培训曝光",
-      "onboard_time": 1698633995,
-      "rank": 16,
-      "category": "动物萌宠,幽默"
     },
     {
       "raw_hot": 611951,
@@ -899,12 +907,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547071,
+      "num": 547071,
+      "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+      "onboard_time": 1698639035,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540105,
+      "num": 521244,
+      "word": "关智斌想和赵丽颖演伦理剧",
+      "onboard_time": 1698637956,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536610,
       "num": 514509,
       "word": "陆虎快男时期看张杰非常不顺眼",
       "onboard_time": 1698545433,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535772,
+      "num": 535772,
+      "word": "陆鸢陆时在一起了",
+      "onboard_time": 1698636515,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 531448,
+      "num": 385034,
+      "word": "别把孩子养得太老实",
+      "onboard_time": 1698638195,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 527700,
@@ -923,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512615,
-      "num": 512615,
-      "word": "陆鸢陆时在一起了",
-      "onboard_time": 1698636515,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 513687,
+      "num": 513687,
+      "word": "陈哲远官宣爱奇艺尖叫之夜",
+      "onboard_time": 1698637053,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 505243,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1698502117,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462466,
+      "num": 462466,
+      "word": "原来抓夹还可以这样用",
+      "onboard_time": 1698638318,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 461189,
@@ -1227,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 387459,
+      "num": 387459,
+      "word": "张馨予甜感西瓜妆",
+      "onboard_time": 1698638976,
+      "rank": 19,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 384885,
       "num": 305073,
       "word": "WBG战胜FNC",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1698539249,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 334559,
-      "num": 334559,
-      "word": "华为再次成为中国轻薄笔记本市场第一",
-      "onboard_time": 1698635253,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 331799,
@@ -1619,6 +1667,14 @@
       "category": "动漫,读书作家"
     },
     {
+      "raw_hot": 274641,
+      "num": 274641,
+      "word": "租客厕所吊顶发现10万金器竟是赃物",
+      "onboard_time": 1698639102,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274159,
       "num": 274159,
       "word": "NRG 签运",
@@ -1739,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256580,
+      "num": 256580,
+      "word": "老友记 Chandler没想到是第一个离开",
+      "onboard_time": 1698638253,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256184,
       "num": 256184,
       "word": "于正新剧要换妆造",
@@ -1755,6 +1819,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 255197,
+      "num": 255197,
+      "word": "缉凶26年破案后不喝酒的民警灌醉自己",
+      "onboard_time": 1698638856,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253420,
       "num": 253420,
       "word": "原神哥 好签",
@@ -1769,6 +1841,22 @@
       "onboard_time": 1698621445,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252551,
+      "num": 252551,
+      "word": "全红婵",
+      "onboard_time": 1698639335,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252372,
+      "num": 252372,
+      "word": "詹姆斯绝平",
+      "onboard_time": 1698639102,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 252362,
@@ -1889,6 +1977,14 @@
       "onboard_time": 1698508653,
       "rank": 27,
       "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 238195,
+      "num": 238195,
+      "word": "一口气看懂明朝最牛的男人",
+      "onboard_time": 1698638615,
+      "rank": 32,
+      "category": "知识科普"
     },
     {
       "raw_hot": 237903,
@@ -2027,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229713,
+      "num": 229713,
+      "word": "权志龙称被立案前没有接到警察的联系",
+      "onboard_time": 1698637534,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229593,
       "num": 229593,
       "word": "21名高中生把教室画成千里江山图",
@@ -2099,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219272,
+      "num": 219272,
+      "word": "陆沉 我电话呢",
+      "onboard_time": 1698637119,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217460,
       "num": 139997,
       "word": "以爱为营泰国将播出",
@@ -2129,6 +2241,22 @@
       "onboard_time": 1698635790,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215825,
+      "num": 215825,
+      "word": "古相思曲",
+      "onboard_time": 1698637053,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214703,
+      "num": 214703,
+      "word": "教育局回应运动会有学生举日本国旗",
+      "onboard_time": 1698635553,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 212923,
@@ -2403,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197294,
+      "num": 197294,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1698638675,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196929,
       "num": 196929,
       "word": "宋雨琦唱稻香忘词的反应",
@@ -2449,14 +2585,6 @@
       "onboard_time": 1698588035,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194836,
-      "num": 194836,
-      "word": "教育局回应运动会有学生举日本国旗",
-      "onboard_time": 1698635553,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 194536,
@@ -2787,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175333,
+      "num": 175333,
+      "word": "国王战胜湖人",
+      "onboard_time": 1698639456,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174979,
       "num": 174979,
       "word": "苏醒再就业以来最愉快的音乐节目",
@@ -2955,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166043,
+      "num": 166043,
+      "word": "喻言开了两天演唱会又去音乐节",
+      "onboard_time": 1698637595,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165675,
       "num": 165675,
       "word": "猫 你最好找我有事",
@@ -3027,6 +3171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160960,
+      "num": 160960,
+      "word": "湖人vs国王",
+      "onboard_time": 1698637413,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160070,
       "num": 160070,
       "word": "被拐走21年的女儿回家了",
@@ -3049,6 +3201,14 @@
       "onboard_time": 1698567808,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "知识用卑鄙的方式进了脑子",
+      "onboard_time": 1698639517,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 157304,
@@ -4187,6 +4347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 49309,
+      "num": 514964,
+      "word": "男性健康日晒出你的男人本色",
+      "onboard_time": 1698638435,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47360,
       "num": 55537,
       "word": "和清融一起关注罕见病",
@@ -4281,6 +4449,14 @@
       "onboard_time": 1698548553,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18420,
+      "num": 153564,
+      "word": "OPPO小折叠中国市场第一",
+      "onboard_time": 1698639575,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 15354,
