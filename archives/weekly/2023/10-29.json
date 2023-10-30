@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698622449784,
+  "endTime": 1698628362033,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -105,6 +105,22 @@
       "onboard_time": 1698547952,
       "rank": 21,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 1508188,
+      "num": 261759,
+      "word": "迪丽热巴的表妹",
+      "onboard_time": 1698623791,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1479329,
+      "num": 260095,
+      "word": "这英cos那英",
+      "onboard_time": 1698623129,
+      "rank": 11,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 1463158,
@@ -315,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 907274,
+      "num": 259028,
+      "word": "嬛嬛这是送给朕的惊魂舞吗",
+      "onboard_time": 1698623429,
+      "rank": 12,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 899923,
+      "num": 899923,
+      "word": "iPhone15价格跳水",
+      "onboard_time": 1698622828,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 889105,
       "num": 608014,
       "word": "巴以冲突已超9200人死亡",
@@ -347,12 +379,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 834287,
+      "num": 834287,
+      "word": "谈恋爱时最不受欢迎的星座",
+      "onboard_time": 1698624454,
+      "rank": 1,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 832878,
       "num": 409081,
       "word": "魏晨 分身情人",
       "onboard_time": 1698572850,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 830753,
+      "num": 257809,
+      "word": "男童被4只狗追咬多次求救主人未制止",
+      "onboard_time": 1698625354,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822672,
@@ -604,7 +652,7 @@
     },
     {
       "raw_hot": 606529,
-      "num": 181883,
+      "num": 251205,
       "word": "知道为什么这季花少相处这么融洽了",
       "onboard_time": 1698593794,
       "rank": 18,
@@ -803,12 +851,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 497215,
+      "num": 255913,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1698623913,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 496240,
       "num": 351548,
       "word": "李善均全慧珍紧急送小儿子出国",
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494958,
+      "num": 254389,
+      "word": "娄底渣渡中心小学",
+      "onboard_time": 1698623971,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 491865,
@@ -849,6 +913,14 @@
       "onboard_time": 1698586115,
       "rank": 24,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 474009,
+      "num": 328007,
+      "word": "加沙地带至少1870人仍被埋在废墟下",
+      "onboard_time": 1698624933,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 469080,
@@ -1219,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308847,
+      "num": 308847,
+      "word": "川A大军给华西救护车让行",
+      "onboard_time": 1698623069,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
@@ -1427,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262645,
+      "num": 262645,
+      "word": "Spirit双冠王",
+      "onboard_time": 1698626073,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260934,
       "num": 260934,
       "word": "仲溪午答应娶妻",
@@ -1507,6 +1595,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 250686,
+      "num": 250686,
+      "word": "enhypen 油头",
+      "onboard_time": 1698627453,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249037,
       "num": 176888,
       "word": "JustinBieber万圣节潜水造型",
@@ -1521,6 +1617,14 @@
       "onboard_time": 1698548431,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247606,
+      "num": 247606,
+      "word": "男生开玩笑称女朋友比父亲大三岁",
+      "onboard_time": 1698623791,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247156,
@@ -1595,6 +1699,14 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 237903,
+      "num": 237903,
+      "word": "迪亚斯父母被绑架",
+      "onboard_time": 1698625716,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237568,
       "num": 237568,
       "word": "张杰王铮亮陆虎合唱舞台",
@@ -1616,6 +1728,14 @@
       "word": "秦岚但凡少说两句嗓子早好了",
       "onboard_time": 1698571593,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236689,
+      "num": 236689,
+      "word": "沈腾承包了我所有的笑点",
+      "onboard_time": 1698627392,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1667,6 +1787,14 @@
       "category": "体育,电影"
     },
     {
+      "raw_hot": 231492,
+      "num": 187214,
+      "word": "G2 uu们明年见",
+      "onboard_time": 1698626433,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231195,
       "num": 231195,
       "word": "张小斐新片口碑",
@@ -1697,6 +1825,14 @@
       "onboard_time": 1698571831,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228782,
+      "num": 186185,
+      "word": "所有的雨都避开这只小狗",
+      "onboard_time": 1698627754,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 227210,
@@ -1739,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224130,
+      "num": 224130,
+      "word": "家里已准备好迎接3名中国人回地球",
+      "onboard_time": 1698627213,
+      "rank": 24,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 223257,
       "num": 223257,
       "word": "王安宇高敏感人格吧",
@@ -1764,7 +1908,7 @@
     },
     {
       "raw_hot": 217460,
-      "num": 120607,
+      "num": 139997,
       "word": "以爱为营泰国将播出",
       "onboard_time": 1698597027,
       "rank": 35,
@@ -1819,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209613,
+      "num": 209613,
+      "word": "詹姆斯生涯首秀20周年",
+      "onboard_time": 1698626494,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208497,
       "num": 208497,
       "word": "王鹤棣大奉打更人剧组合照",
@@ -1849,6 +2001,14 @@
       "onboard_time": 1698547470,
       "rank": 25,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 206140,
+      "num": 206140,
+      "word": "十月就看到春晚了",
+      "onboard_time": 1698623669,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 205926,
@@ -2100,7 +2260,7 @@
     },
     {
       "raw_hot": 192896,
-      "num": 165460,
+      "num": 179847,
       "word": "商店店员被曝当街用开水烫杀狗",
       "onboard_time": 1698602959,
       "rank": 40,
@@ -2169,6 +2329,14 @@
       "onboard_time": 1698543091,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188417,
+      "num": 188417,
+      "word": "中国队男子5000米接力冠军",
+      "onboard_time": 1698622227,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 188181,
@@ -2315,12 +2483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174979,
+      "num": 174979,
+      "word": "苏醒再就业以来最愉快的音乐节目",
+      "onboard_time": 1698624514,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174342,
       "num": 174342,
       "word": "本轮巴以冲突已致双方超9500人死亡",
       "onboard_time": 1698583655,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 173932,
+      "num": 173932,
+      "word": "十几年前妈妈的QQ空间",
+      "onboard_time": 1698626494,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 171900,
@@ -2531,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157304,
+      "num": 157304,
+      "word": "向佐和孩子们一起玩蹦床",
+      "onboard_time": 1698625955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155879,
       "num": 155879,
       "word": "周也待播现偶男主檀健次林一",
@@ -2595,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151243,
+      "num": 151243,
+      "word": "深圳欢乐谷致歉",
+      "onboard_time": 1698597388,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150400,
       "num": 150400,
       "word": "崔秀彬踩燃了十辆摩托",
@@ -2633,6 +2833,22 @@
       "onboard_time": 1698543152,
       "rank": 34,
       "category": "美妆,科技"
+    },
+    {
+      "raw_hot": 147259,
+      "num": 147259,
+      "word": "新疆阿克苏地震",
+      "onboard_time": 1698622589,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146177,
+      "num": 146177,
+      "word": "假如维A有段位",
+      "onboard_time": 1698627811,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 146071,
@@ -2747,14 +2963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139674,
-      "num": 120259,
-      "word": "深圳欢乐谷致歉",
-      "onboard_time": 1698597388,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139589,
       "num": 139589,
       "word": "梅花红桃",
@@ -2769,6 +2977,14 @@
       "onboard_time": 1698551730,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "90后小伙捐髓救人新婚妻子全程陪同",
+      "onboard_time": 1698626553,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138634,
@@ -2835,6 +3051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134130,
+      "num": 134130,
+      "word": "aespa迷你4辑概念预告视频",
+      "onboard_time": 1698627152,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133219,
       "num": 133219,
       "word": "张云龙新剧用绑止血带方式绑头发",
@@ -2873,14 +3097,6 @@
       "onboard_time": 1698543271,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131903,
-      "num": 131903,
-      "word": "中国队男子5000米接力冠军",
-      "onboard_time": 1698622227,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 131766,
@@ -3168,6 +3384,14 @@
       "word": "中超联赛",
       "onboard_time": 1698574111,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114356,
+      "num": 114356,
+      "word": "朱婷21分",
+      "onboard_time": 1698625053,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -3460,7 +3684,7 @@
     },
     {
       "raw_hot": 51727,
-      "num": 776106,
+      "num": 820792,
       "word": "杭州亚残运这些画面好戳泪点",
       "onboard_time": 1698586596,
       "rank": 2,
