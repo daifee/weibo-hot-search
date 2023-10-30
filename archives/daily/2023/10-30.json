@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698646965642,
+  "endTime": 1698647762128,
   "band_list": [
     {
       "raw_hot": 2607465,
@@ -89,6 +89,14 @@
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 953418,
+      "num": 953418,
+      "word": "科学家警告防晒霜悖论",
+      "onboard_time": 1698644850,
+      "rank": 7,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 952487,
@@ -291,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 555618,
-      "num": 555618,
-      "word": "科学家警告防晒霜悖论",
-      "onboard_time": 1698644850,
-      "rank": 7,
-      "category": "美妆,知识科普"
-    },
-    {
       "raw_hot": 535772,
       "num": 535772,
       "word": "陆鸢陆时在一起了",
@@ -385,6 +385,14 @@
       "onboard_time": 1698628590,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402010,
+      "num": 402010,
+      "word": "网友裸辞炒股5个月亏损48%",
+      "onboard_time": 1698646771,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 389090,
@@ -475,6 +483,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 326778,
+      "num": 326778,
+      "word": "田耕纪出品方回应编剧问题",
+      "onboard_time": 1698646650,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321200,
       "num": 181159,
       "word": "石矶娘娘cos",
@@ -483,12 +499,12 @@
       "category": "动漫,美妆"
     },
     {
-      "raw_hot": 318658,
-      "num": 318658,
-      "word": "田耕纪出品方回应编剧问题",
-      "onboard_time": 1698646650,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 310372,
+      "num": 310372,
+      "word": "王鹤棣工作室是懂粉丝的",
+      "onboard_time": 1698646290,
+      "rank": 19,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 309648,
@@ -611,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259977,
-      "num": 259977,
-      "word": "王鹤棣工作室是懂粉丝的",
-      "onboard_time": 1698646290,
-      "rank": 19,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 255197,
       "num": 255197,
       "word": "缉凶26年破案后不喝酒的民警灌醉自己",
@@ -641,6 +649,14 @@
       "onboard_time": 1698627453,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250990,
+      "num": 221266,
+      "word": "秦岚辛芷蕾见面就掐",
+      "onboard_time": 1698645992,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 247606,
@@ -795,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216742,
-      "num": 216742,
-      "word": "网友裸辞炒股5个月亏损48%",
-      "onboard_time": 1698646771,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 217011,
+      "num": 217011,
+      "word": "火鬼王cos",
+      "onboard_time": 1698647430,
+      "rank": 22,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 216197,
@@ -939,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194393,
-      "num": 194393,
-      "word": "秦岚辛芷蕾见面就掐",
-      "onboard_time": 1698645992,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193568,
       "num": 193568,
       "word": "孙颖莎 破阵",
@@ -969,6 +977,14 @@
       "onboard_time": 1698602959,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191676,
+      "num": 191676,
+      "word": "仙剑三里的封神台词",
+      "onboard_time": 1698647312,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 191420,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1698637595,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178918,
+      "num": 178918,
+      "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
+      "onboard_time": 1698647491,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178848,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1698625955,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157015,
+      "num": 157015,
+      "word": "治愈系恋人央八定档",
+      "onboard_time": 1698647730,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 151243,
@@ -1779,8 +1811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19683,
-      "num": 128212,
+      "raw_hot": 31793,
+      "num": 221286,
       "word": "天猫把购物车推进王者峡谷",
       "onboard_time": 1698646890,
       "rank": 47,
