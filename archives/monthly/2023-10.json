@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698687278060,
+  "endTime": 1698690150951,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -84513,6 +84513,14 @@
       "onboard_time": 1696622954,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28115,
+      "num": 30928,
+      "word": "考研网上确认",
+      "onboard_time": 1698688277,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 28013,

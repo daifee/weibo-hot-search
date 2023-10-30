@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698687278060,
+  "endTime": 1698690150951,
   "band_list": [
     {
       "raw_hot": 1211890,
@@ -459,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34704,
+      "num": 34704,
+      "word": "这部剧是懂网红直播剧本的",
+      "onboard_time": 1698674615,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28115,
+      "num": 30928,
+      "word": "考研网上确认",
+      "onboard_time": 1698688277,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25339,
       "num": 48390,
       "word": "迎新之夜祝福所有大学生",
@@ -467,7 +483,23 @@
       "category": "教育,作品衍生"
     },
     {
-      "raw_hot": 8420,
+      "raw_hot": 25155,
+      "num": 30926,
+      "word": "当牙医的爸爸给弄的万圣节尖牙",
+      "onboard_time": 1698664833,
+      "rank": 43,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 22100,
+      "num": 30913,
+      "word": "韩国警方称涉案艺人只有李善均权志龙",
+      "onboard_time": 1698666812,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8440,
       "num": 462593,
       "word": "直击第六届进博会",
       "onboard_time": 1698669755,
