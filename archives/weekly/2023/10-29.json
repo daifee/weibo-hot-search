@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698654120363,
+  "endTime": 1698654888165,
   "band_list": [
     {
       "raw_hot": 3267856,
@@ -203,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1389230,
-      "num": 1389230,
+      "raw_hot": 1400461,
+      "num": 1400461,
       "word": "秦海璐录完花少瘦了18斤",
       "onboard_time": 1698651511,
       "rank": 0,
@@ -241,6 +241,14 @@
       "onboard_time": 1698573329,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1229682,
+      "num": 1229682,
+      "word": "大学生校内乘共享电动车摔伤后身亡",
+      "onboard_time": 1698653013,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1225735,
@@ -443,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 898360,
+      "num": 898360,
+      "word": "权志龙再次否认吸毒",
+      "onboard_time": 1698653913,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889105,
       "num": 608014,
       "word": "巴以冲突已超9200人死亡",
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 771057,
+      "num": 362160,
+      "word": "宋妍霏真剪短发了",
+      "onboard_time": 1698652831,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 767355,
       "num": 767355,
       "word": "体制内你不知道的文件命名",
@@ -593,14 +617,6 @@
       "onboard_time": 1698575859,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751181,
-      "num": 319549,
-      "word": "宋妍霏真剪短发了",
-      "onboard_time": 1698652831,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 747342,
@@ -651,8 +667,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 727652,
+      "num": 727652,
+      "word": "余姚北站进入铁路轨道女子暂无生命危险",
+      "onboard_time": 1698653431,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709545,
-      "num": 328843,
+      "num": 353626,
       "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
       "onboard_time": 1698647491,
       "rank": 27,
@@ -667,16 +691,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 701557,
-      "num": 701557,
-      "word": "大学生校内乘共享电动车摔伤后身亡",
-      "onboard_time": 1698653013,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 699391,
-      "num": 318213,
+      "num": 359070,
       "word": "陈都灵恶女妆",
       "onboard_time": 1698649171,
       "rank": 14,
@@ -1219,8 +1235,8 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 476738,
-      "num": 476738,
+      "raw_hot": 481972,
+      "num": 481972,
       "word": "淡颜不适合画浓妆",
       "onboard_time": 1698650070,
       "rank": 32,
@@ -1305,14 +1321,6 @@
       "onboard_time": 1698560251,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 453751,
-      "num": 453751,
-      "word": "余姚北站进入铁路轨道女子暂无生命危险",
-      "onboard_time": 1698653431,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452487,
@@ -1507,6 +1515,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 374125,
+      "num": 374125,
+      "word": "辛芷蕾魏大勋演过情侣",
+      "onboard_time": 1698653673,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367375,
       "num": 367375,
       "word": "年轻夫妻捐出20万元结婚钱支持公益",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1698508054,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 342964,
+      "num": 342964,
+      "word": "余姚",
+      "onboard_time": 1698653013,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342386,
@@ -1683,14 +1707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 322957,
-      "num": 322957,
-      "word": "辛芷蕾魏大勋演过情侣",
-      "onboard_time": 1698653673,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 321586,
       "num": 321586,
       "word": "LPL抽签二段笑",
@@ -1715,20 +1731,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 319390,
+      "num": 319390,
+      "word": "女子捡到包裹38枚银元价值10多万",
+      "onboard_time": 1698651571,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314586,
       "num": 314586,
       "word": "Deft全球总决赛400杀",
       "onboard_time": 1698559351,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 313819,
-      "num": 313819,
-      "word": "权志龙再次否认吸毒",
-      "onboard_time": 1698653913,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 310967,
@@ -1811,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300350,
-      "num": 300350,
-      "word": "女子捡到包裹38枚银元价值10多万",
-      "onboard_time": 1698651571,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299242,
       "num": 299242,
       "word": "魏晨唱流星雨又来临",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1698641080,
       "rank": 21,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 293611,
+      "num": 293611,
+      "word": "THE9 很好笑的一群人",
+      "onboard_time": 1698651991,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 292770,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1698555991,
       "rank": 30,
       "category": "休闲,剧集"
-    },
-    {
-      "raw_hot": 278631,
-      "num": 278631,
-      "word": "THE9 很好笑的一群人",
-      "onboard_time": 1698651991,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 277054,
@@ -2233,14 +2241,6 @@
       "onboard_time": 1698640297,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243784,
-      "num": 243784,
-      "word": "余姚",
-      "onboard_time": 1698653013,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243742,
@@ -3251,6 +3251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185627,
+      "num": 185627,
+      "word": "星穹铁道TI12结算奖励",
+      "onboard_time": 1698654390,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185470,
       "num": 200176,
       "word": "中国6岁女孩打破魔方世界纪录",
@@ -3635,6 +3643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164080,
+      "num": 164080,
+      "word": "李溪芮齐肩短发",
+      "onboard_time": 1698654151,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163799,
       "num": 163799,
       "word": "周也演我画眼线",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1698647730,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156531,
+      "num": 156531,
+      "word": "17岁高中生颈椎后凸堪比47岁",
+      "onboard_time": 1698654390,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155879,
@@ -4089,6 +4113,14 @@
       "onboard_time": 1698567333,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138479,
+      "num": 138479,
+      "word": "光与夜之恋",
+      "onboard_time": 1698654872,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 138054,
@@ -4531,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117853,
+      "num": 117853,
+      "word": "成都马拉松看起来好香",
+      "onboard_time": 1698654331,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 117318,
       "num": 117318,
       "word": "丑但好吃的四大名菜",
@@ -4963,6 +5003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70544,
+      "num": 343727,
+      "word": "据说明晚京东双十一又放补贴",
+      "onboard_time": 1698652831,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67548,
       "num": 67548,
       "word": "千灯之约 对口型",
@@ -5081,14 +5129,6 @@
       "onboard_time": 1698601219,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 49299,
-      "num": 314683,
-      "word": "据说明晚京东双十一又放补贴",
-      "onboard_time": 1698652831,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 47360,

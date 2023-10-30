@@ -1,0 +1,410 @@
+{
+  "runTime": 1698654888165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400461,
+        "num": 1400461,
+        "word": "秦海璐录完花少瘦了18斤",
+        "onboard_time": 1698651511,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1229682,
+        "num": 1229682,
+        "word": "大学生校内乘共享电动车摔伤后身亡",
+        "onboard_time": 1698653013,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56039,
+        "num": 965993,
+        "word": "家里已准备好迎接3名中国人回地球",
+        "onboard_time": 1698627213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2138300,
+        "num": 936380,
+        "word": "郭敬明 又怎么了我的大小姐",
+        "onboard_time": 1698650609,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 898360,
+        "num": 898360,
+        "word": "权志龙再次否认吸毒",
+        "onboard_time": 1698653913,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727652,
+        "num": 727652,
+        "word": "余姚北站进入铁路轨道女子暂无生命危险",
+        "onboard_time": 1698653431,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543051,
+        "num": 543051,
+        "word": "突然发现我上四年大学花了十万",
+        "onboard_time": 1698647968,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 481972,
+        "num": 481972,
+        "word": "淡颜不适合画浓妆",
+        "onboard_time": 1698650070,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 423636,
+        "num": 423636,
+        "word": "全红婵已返京随国家队训练",
+        "onboard_time": 1698651810,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374125,
+        "num": 374125,
+        "word": "辛芷蕾魏大勋演过情侣",
+        "onboard_time": 1698653673,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1052403,
+        "num": 371061,
+        "word": "小S许雅钧cos",
+        "onboard_time": 1698649110,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 771057,
+        "num": 362160,
+        "word": "宋妍霏真剪短发了",
+        "onboard_time": 1698652831,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670577,
+        "num": 359070,
+        "word": "陈都灵恶女妆",
+        "onboard_time": 1698649171,
+        "rank": 12,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 378917,
+        "num": 353626,
+        "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
+        "onboard_time": 1698647491,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70544,
+        "num": 343727,
+        "word": "据说明晚京东双十一又放补贴",
+        "onboard_time": 1698652831,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342964,
+        "num": 342964,
+        "word": "余姚",
+        "onboard_time": 1698653013,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319390,
+        "num": 319390,
+        "word": "女子捡到包裹38枚银元价值10多万",
+        "onboard_time": 1698651571,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312903,
+        "num": 312903,
+        "word": "网友裸辞炒股5个月亏损48%",
+        "onboard_time": 1698646771,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293611,
+        "num": 293611,
+        "word": "THE9 很好笑的一群人",
+        "onboard_time": 1698651991,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206860,
+        "num": 206860,
+        "word": "郭敬明 你哥最帅",
+        "onboard_time": 1698649470,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65990,
+        "num": 201808,
+        "word": "鸿蒙4升级设备数量破亿",
+        "onboard_time": 1698652530,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 611846,
+        "num": 200768,
+        "word": "字节跳动除夕放假",
+        "onboard_time": 1698650551,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198959,
+        "num": 198959,
+        "word": "小杨哥徒弟七老板回应小黄带货被指低俗",
+        "onboard_time": 1698639035,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185627,
+        "num": 185627,
+        "word": "星穹铁道TI12结算奖励",
+        "onboard_time": 1698654390,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179219,
+        "num": 179219,
+        "word": "杭州西湖边美女交警火了",
+        "onboard_time": 1698652111,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176114,
+        "num": 176114,
+        "word": "女子帮8旬大爷认路4年后参加其家族婚宴",
+        "onboard_time": 1698651692,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171788,
+        "num": 171788,
+        "word": "别把孩子养得太老实",
+        "onboard_time": 1698638195,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166034,
+        "num": 166034,
+        "word": "秦岚用手护着迪丽热巴",
+        "onboard_time": 1698645331,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164080,
+        "num": 164080,
+        "word": "李溪芮齐肩短发",
+        "onboard_time": 1698654151,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109962,
+        "num": 163656,
+        "word": "中国6岁女孩打破魔方世界纪录",
+        "onboard_time": 1698643954,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163648,
+        "num": 163648,
+        "word": "一个视频弄清自己适合长发还是短发",
+        "onboard_time": 1698646231,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162042,
+        "num": 162042,
+        "word": "罗云熙上半年古偶下半年现偶",
+        "onboard_time": 1698652831,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157663,
+        "num": 157663,
+        "word": "教育局回应7岁女孩在校被多人霸凌",
+        "onboard_time": 1698631651,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156531,
+        "num": 156531,
+        "word": "17岁高中生颈椎后凸堪比47岁",
+        "onboard_time": 1698654390,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148755,
+        "num": 148755,
+        "word": "火鬼王cos",
+        "onboard_time": 1698647430,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 138479,
+        "num": 138479,
+        "word": "光与夜之恋",
+        "onboard_time": 1698654872,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146066,
+        "num": 134949,
+        "word": "罗云熙又有上星剧了",
+        "onboard_time": 1698653431,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131046,
+        "num": 131046,
+        "word": "苹果或将发布三款M3芯片",
+        "onboard_time": 1698651331,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126827,
+        "num": 126827,
+        "word": "我要逆风去今日开播",
+        "onboard_time": 1698653314,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 125796,
+        "word": "天满光",
+        "onboard_time": 1698653913,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124633,
+        "num": 124633,
+        "word": "科学家警告防晒霜悖论",
+        "onboard_time": 1698644850,
+        "rank": 40,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 124566,
+        "num": 124566,
+        "word": "邓为转簪子好苏",
+        "onboard_time": 1698641616,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "原来抓夹还可以这样用",
+        "onboard_time": 1698638318,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120156,
+        "num": 120156,
+        "word": "租客厕所吊顶发现10万金器竟是赃物",
+        "onboard_time": 1698639102,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117853,
+        "num": 117853,
+        "word": "成都马拉松看起来好香",
+        "onboard_time": 1698654331,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112326,
+        "num": 112326,
+        "word": "辛芷蕾刘芸合照",
+        "onboard_time": 1698652411,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108594,
+        "num": 108594,
+        "word": "原神4.1版本",
+        "onboard_time": 1698652711,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107776,
+        "num": 107776,
+        "word": "仙剑三里的封神台词",
+        "onboard_time": 1698647312,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105495,
+        "num": 105495,
+        "word": "原来贞子宝宝就是去年的下水道宝宝",
+        "onboard_time": 1698648152,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101066,
+        "num": 101066,
+        "word": "小姐姐抓夹这样用被卡捂脸求助消防",
+        "onboard_time": 1698652953,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}
