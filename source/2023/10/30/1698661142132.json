@@ -1,0 +1,410 @@
+{
+  "runTime": 1698661142132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1517445,
+        "num": 1517445,
+        "word": "陈若琳被调至北京工作",
+        "onboard_time": 1698656432,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285512,
+        "num": 1242202,
+        "word": "女子捡到包裹38枚银元价值10多万",
+        "onboard_time": 1698651571,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19778,
+        "num": 1113561,
+        "word": "杭州亚残运会暖心短片",
+        "onboard_time": 1698655535,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1042786,
+        "num": 1042786,
+        "word": "秦海璐录完花少瘦了18斤",
+        "onboard_time": 1698651511,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166536,
+        "num": 1041862,
+        "word": "中国6岁女孩打破魔方世界纪录",
+        "onboard_time": 1698643954,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041858,
+        "num": 1041858,
+        "word": "郭敬明 又怎么了我的大小姐",
+        "onboard_time": 1698650609,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146764,
+        "num": 889808,
+        "word": "52岁环卫大姐连续3年边工作边自考大学",
+        "onboard_time": 1698656432,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865240,
+        "num": 865240,
+        "word": "反垄断办称正调查核实李佳琦被指控价",
+        "onboard_time": 1698658591,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 742761,
+        "num": 742761,
+        "word": "大学生校内乘共享电动车摔伤后身亡",
+        "onboard_time": 1698653013,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642579,
+        "num": 642579,
+        "word": "字节跳动除夕放假",
+        "onboard_time": 1698650551,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2710666,
+        "num": 624304,
+        "word": "李金铭14年吃剩的饭被留到现在",
+        "onboard_time": 1698658291,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572997,
+        "num": 572997,
+        "word": "第一次见国产剧男主穿这么贵的衣服",
+        "onboard_time": 1698658712,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517170,
+        "num": 517170,
+        "word": "保定一学生屁股被老师打成黑紫色",
+        "onboard_time": 1698656491,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 498427,
+        "num": 498427,
+        "word": "大小杨哥带众徒弟喊话小黄",
+        "onboard_time": 1698656613,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 475148,
+        "num": 475148,
+        "word": "官方通报女子被列车撞伤",
+        "onboard_time": 1698659194,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471668,
+        "num": 471668,
+        "word": "小S许雅钧cos",
+        "onboard_time": 1698649110,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 432858,
+        "num": 432858,
+        "word": "陈都灵恶女妆",
+        "onboard_time": 1698649171,
+        "rank": 16,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 431256,
+        "num": 431256,
+        "word": "王海称李佳琦和田玉附假鉴定证书已实锤",
+        "onboard_time": 1698656131,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 407289,
+        "num": 407289,
+        "word": "别摸此猫",
+        "onboard_time": 1698657271,
+        "rank": 18,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 287826,
+        "num": 287826,
+        "word": "宋妍霏真剪短发了",
+        "onboard_time": 1698652831,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245228,
+        "num": 245228,
+        "word": "张婉婷 我吵架是有天赋的",
+        "onboard_time": 1698657816,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225533,
+        "num": 225533,
+        "word": "肖战白百何骄阳伴我上星山东卫视",
+        "onboard_time": 1698658233,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215950,
+        "num": 215950,
+        "word": "17岁高中生颈椎后凸堪比47岁",
+        "onboard_time": 1698654390,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214807,
+        "num": 214807,
+        "word": "MBC与HYBE和解",
+        "onboard_time": 1698656850,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214301,
+        "num": 214301,
+        "word": "王一博去珠海考赛车证",
+        "onboard_time": 1698656013,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203265,
+        "num": 203265,
+        "word": "环球人物",
+        "onboard_time": 1698660813,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199871,
+        "num": 199871,
+        "word": "王安宇回应微信名闪亮的屁灯",
+        "onboard_time": 1698656671,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195283,
+        "num": 195283,
+        "word": "北京国安官方通报王刚肋骨骨折",
+        "onboard_time": 1698659435,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191505,
+        "num": 191505,
+        "word": "时代少年团重返幼儿园",
+        "onboard_time": 1698659013,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190268,
+        "num": 190268,
+        "word": "突然发现我上四年大学花了十万",
+        "onboard_time": 1698647968,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179158,
+        "num": 179158,
+        "word": "权志龙再次否认吸毒",
+        "onboard_time": 1698653913,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177854,
+        "num": 177854,
+        "word": "一直到最后都没有拖鞋的迪丽热巴",
+        "onboard_time": 1698658114,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172768,
+        "num": 172768,
+        "word": "罗云熙最有cp感的女主",
+        "onboard_time": 1698657211,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151254,
+        "num": 151254,
+        "word": "网友裸辞炒股5个月亏损48%",
+        "onboard_time": 1698646771,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140615,
+        "num": 140615,
+        "word": "学姐给我们留下500多电费",
+        "onboard_time": 1698659013,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156381,
+        "num": 140161,
+        "word": "热依扎王阳新剧定档",
+        "onboard_time": 1698659133,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147977,
+        "num": 136842,
+        "word": "花少团吐槽后期剪的预告",
+        "onboard_time": 1698657155,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131820,
+        "num": 131820,
+        "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
+        "onboard_time": 1698660993,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130022,
+        "num": 130022,
+        "word": "米哈游公告打击游戏私服",
+        "onboard_time": 1698655712,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 129891,
+        "word": "淡颜不适合画浓妆",
+        "onboard_time": 1698650070,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126321,
+        "num": 126321,
+        "word": "王源工作室发了九宫格",
+        "onboard_time": 1698656552,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123106,
+        "num": 123106,
+        "word": "张小斐 女霸总",
+        "onboard_time": 1698660873,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119964,
+        "num": 119964,
+        "word": "余姚北站进入铁路轨道女子暂无生命危险",
+        "onboard_time": 1698653431,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116248,
+        "num": 116248,
+        "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
+        "onboard_time": 1698647491,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114439,
+        "num": 114439,
+        "word": "不计成本的粥底火锅",
+        "onboard_time": 1698655471,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112573,
+        "num": 112573,
+        "word": "郭敬明于正王一栩 有自己的燃冬",
+        "onboard_time": 1698656971,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107193,
+        "num": 107193,
+        "word": "THE9 很好笑的一群人",
+        "onboard_time": 1698651991,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106977,
+        "num": 106977,
+        "word": "万圣节cos向太全记录",
+        "onboard_time": 1698655832,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 105763,
+        "num": 105763,
+        "word": "余姚",
+        "onboard_time": 1698653013,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103390,
+        "num": 103390,
+        "word": "为什么有些父母执着于逼婚",
+        "onboard_time": 1698654992,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#创建丝路电商合作先行区推进高质量共建一带一路#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 17:34:17
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 18:19:02
 </p>
 </blockquote>
 <p>
@@ -767,6 +767,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E6%B4%97%E5%A4%B4%23" target="weibo">
 海底捞 洗头（热度：2716171）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD14%E5%B9%B4%E5%90%83%E5%89%A9%E7%9A%84%E9%A5%AD%E8%A2%AB%E7%95%99%E5%88%B0%E7%8E%B0%E5%9C%A8%23" target="weibo">
+李金铭14年吃剩的饭被留到现在（热度：2710666）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DK%20%E7%96%AF%E7%89%9B%E7%97%85%23" target="weibo">
 DK 疯牛病（热度：1059512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B8%BD%E5%AD%90%20%E6%B5%8E%E5%85%AC%23" target="weibo">
-杨幂帽子 济公（热度：1057356）
 </a>
 </li>
 
