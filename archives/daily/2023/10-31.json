@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698686134391,
+  "endTime": 1698687278060,
   "band_list": [
     {
       "raw_hot": 1211890,
@@ -139,6 +139,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 239280,
+      "num": 138280,
+      "word": "同济大学A408女寝全员保研",
+      "onboard_time": 1698683426,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 237303,
       "num": 237303,
       "word": "这样做真的会显脸小",
@@ -209,14 +217,6 @@
       "onboard_time": 1698678275,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161670,
-      "num": 138280,
-      "word": "同济大学A408女寝全员保研",
-      "onboard_time": 1698683426,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 159357,
@@ -379,7 +379,15 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 78872,
+      "raw_hot": 90035,
+      "num": 90035,
+      "word": "全昭旻最后一次录制RM",
+      "onboard_time": 1698687139,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84733,
       "num": 73478,
       "word": "中国学者当面回怼日本学者",
       "onboard_time": 1698684264,
@@ -403,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55150,
+      "num": 55150,
+      "word": "吴宣仪根字写错",
+      "onboard_time": 1698666994,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54509,
       "num": 97689,
       "word": "援藏到期后老师主动申请延期",
       "onboard_time": 1698680431,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54418,
-      "num": 54418,
-      "word": "吴宣仪根字写错",
-      "onboard_time": 1698666994,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 54196,
@@ -441,6 +449,22 @@
       "onboard_time": 1698674558,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36675,
+      "num": 48403,
+      "word": "最遥远的距离嗑男一女二",
+      "onboard_time": 1698686419,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25339,
+      "num": 48390,
+      "word": "迎新之夜祝福所有大学生",
+      "onboard_time": 1698687198,
+      "rank": 49,
+      "category": "教育,作品衍生"
     },
     {
       "raw_hot": 8420,
