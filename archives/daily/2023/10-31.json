@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698704172343,
+  "endTime": 1698705230279,
   "band_list": [
     {
       "raw_hot": 1211890,
@@ -163,8 +163,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206844,
-      "num": 206844,
+      "raw_hot": 207643,
+      "num": 207643,
       "word": "金球奖",
       "onboard_time": 1698674196,
       "rank": 24,
@@ -291,6 +291,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "以总理办公室发言人称坚决拒绝停火",
+      "onboard_time": 1698697213,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 112044,
       "num": 112044,
       "word": "卢凌风你怎么也喜欢上华浅了",
@@ -345,14 +353,6 @@
       "onboard_time": 1698649110,
       "rank": 42,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 99423,
-      "num": 99423,
-      "word": "以总理办公室发言人称坚决拒绝停火",
-      "onboard_time": 1698697213,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 98822,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 70022,
-      "num": 47472,
+      "num": 62773,
       "word": "结局了来了三个客串",
       "onboard_time": 1698701233,
       "rank": 42,
@@ -467,12 +467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38168,
+      "num": 36886,
+      "word": "身体从未如此放松过",
+      "onboard_time": 1698698413,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 36675,
       "num": 48403,
       "word": "最遥远的距离嗑男一女二",
       "onboard_time": 1698686419,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35037,
+      "num": 35037,
+      "word": "当牙医的爸爸给弄的万圣节尖牙",
+      "onboard_time": 1698664833,
+      "rank": 43,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 34704,
@@ -483,28 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33852,
-      "num": 28662,
-      "word": "身体从未如此放松过",
-      "onboard_time": 1698698413,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 28115,
       "num": 30928,
       "word": "考研网上确认",
       "onboard_time": 1698688277,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 27438,
-      "num": 30926,
-      "word": "当牙医的爸爸给弄的万圣节尖牙",
-      "onboard_time": 1698664833,
-      "rank": 43,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 25339,
@@ -515,8 +515,8 @@
       "category": "教育,作品衍生"
     },
     {
-      "raw_hot": 23905,
-      "num": 23905,
+      "raw_hot": 23997,
+      "num": 29123,
       "word": "AI合成郭德纲于谦用外语说相声",
       "onboard_time": 1698697573,
       "rank": 38,
@@ -547,7 +547,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8813,
+      "raw_hot": 11029,
       "num": 462593,
       "word": "直击第六届进博会",
       "onboard_time": 1698669755,
