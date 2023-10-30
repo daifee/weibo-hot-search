@@ -1,6 +1,6 @@
 {
   "startTime": 1698596493278,
-  "endTime": 1698651248847,
+  "endTime": 1698654120363,
   "band_list": [
     {
       "raw_hot": 2607465,
@@ -17,6 +17,14 @@
       "onboard_time": 1698641919,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2509101,
+      "num": 1643529,
+      "word": "郭敬明 又怎么了我的大小姐",
+      "onboard_time": 1698650609,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2068705,
@@ -41,14 +49,6 @@
       "onboard_time": 1698639035,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1643529,
-      "num": 1643529,
-      "word": "郭敬明 又怎么了我的大小姐",
-      "onboard_time": 1698650609,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1608139,
@@ -81,6 +81,14 @@
       "onboard_time": 1698644850,
       "rank": 7,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 1389230,
+      "num": 1389230,
+      "word": "秦海璐录完花少瘦了18斤",
+      "onboard_time": 1698651511,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1339169,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751181,
+      "num": 319549,
+      "word": "宋妍霏真剪短发了",
+      "onboard_time": 1698652831,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736483,
       "num": 736483,
       "word": "各种维生素不足和过量有啥表现",
@@ -233,6 +249,22 @@
       "onboard_time": 1698639102,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701557,
+      "num": 701557,
+      "word": "大学生校内乘共享电动车摔伤后身亡",
+      "onboard_time": 1698653013,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699391,
+      "num": 318213,
+      "word": "陈都灵恶女妆",
+      "onboard_time": 1698649171,
+      "rank": 14,
+      "category": "电影,美妆"
     },
     {
       "raw_hot": 686930,
@@ -267,14 +299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 656848,
-      "num": 293736,
-      "word": "陈都灵恶女妆",
-      "onboard_time": 1698649171,
-      "rank": 14,
-      "category": "电影,美妆"
-    },
-    {
       "raw_hot": 648980,
       "num": 648980,
       "word": "秦岚用手护着迪丽热巴",
@@ -297,6 +321,14 @@
       "onboard_time": 1698632312,
       "rank": 34,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 642263,
+      "num": 243110,
+      "word": "字节跳动除夕放假",
+      "onboard_time": 1698650551,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637930,
@@ -379,6 +411,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 496627,
+      "num": 496627,
+      "word": "全红婵已返京随国家队训练",
+      "onboard_time": 1698651810,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494958,
       "num": 254389,
       "word": "娄底渣渡中心小学",
@@ -403,12 +443,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 476738,
+      "num": 476738,
+      "word": "淡颜不适合画浓妆",
+      "onboard_time": 1698650070,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 474009,
       "num": 330989,
       "word": "加沙地带至少1870人仍被埋在废墟下",
       "onboard_time": 1698624933,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 453751,
+      "num": 453751,
+      "word": "余姚北站进入铁路轨道女子暂无生命危险",
+      "onboard_time": 1698653431,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440799,
@@ -515,14 +571,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 342455,
-      "num": 250870,
-      "word": "淡颜不适合画浓妆",
-      "onboard_time": 1698650070,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 342386,
       "num": 342386,
       "word": "陕西3所大学的3个专业世界第一",
@@ -563,12 +611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322957,
+      "num": 322957,
+      "word": "辛芷蕾魏大勋演过情侣",
+      "onboard_time": 1698653673,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321200,
       "num": 181159,
       "word": "石矶娘娘cos",
       "onboard_time": 1698588215,
       "rank": 19,
       "category": "动漫,美妆"
+    },
+    {
+      "raw_hot": 313819,
+      "num": 313819,
+      "word": "权志龙再次否认吸毒",
+      "onboard_time": 1698653913,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 310372,
@@ -592,6 +656,14 @@
       "word": "川A大军给华西救护车让行",
       "onboard_time": 1698623069,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300350,
+      "num": 300350,
+      "word": "女子捡到包裹38枚银元价值10多万",
+      "onboard_time": 1698651571,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -659,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277332,
-      "num": 212494,
-      "word": "字节跳动除夕放假",
-      "onboard_time": 1698650551,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 278631,
+      "num": 278631,
+      "word": "THE9 很好笑的一群人",
+      "onboard_time": 1698651991,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 269965,
@@ -753,6 +825,14 @@
       "onboard_time": 1698640297,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243784,
+      "num": 243784,
+      "word": "余姚",
+      "onboard_time": 1698653013,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242592,
@@ -849,6 +929,22 @@
       "onboard_time": 1698639517,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221646,
+      "num": 221646,
+      "word": "罗云熙又有上星剧了",
+      "onboard_time": 1698653431,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220899,
+      "num": 220899,
+      "word": "杭州西湖边美女交警火了",
+      "onboard_time": 1698652111,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220513,
@@ -995,12 +1091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201052,
+      "num": 201052,
+      "word": "女子帮8旬大爷认路4年后参加其家族婚宴",
+      "onboard_time": 1698651692,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200254,
       "num": 200254,
       "word": "虞书欣烈焰红玫瑰",
       "onboard_time": 1698646231,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199873,
+      "num": 199873,
+      "word": "我要逆风去今日开播",
+      "onboard_time": 1698653314,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 197454,
@@ -1025,6 +1137,14 @@
       "onboard_time": 1698640599,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195024,
+      "num": 195024,
+      "word": "罗云熙上半年古偶下半年现偶",
+      "onboard_time": 1698652831,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194439,
@@ -1124,7 +1244,7 @@
     },
     {
       "raw_hot": 185470,
-      "num": 185470,
+      "num": 200176,
       "word": "中国6岁女孩打破魔方世界纪录",
       "onboard_time": 1698643954,
       "rank": 44,
@@ -1379,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150651,
+      "num": 150651,
+      "word": "天满光",
+      "onboard_time": 1698653913,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150044,
       "num": 150044,
       "word": "A股",
@@ -1433,6 +1561,14 @@
       "onboard_time": 1698592536,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145269,
+      "num": 145269,
+      "word": "辛芷蕾刘芸合照",
+      "onboard_time": 1698652411,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 145250,
@@ -1491,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135328,
+      "num": 135328,
+      "word": "苹果或将发布三款M3芯片",
+      "onboard_time": 1698651331,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134712,
       "num": 134712,
       "word": "万圣节cos乙方",
@@ -1535,6 +1679,14 @@
       "num": 130137,
       "word": "他那么小但不影响梦想种子使劲生长",
       "onboard_time": 1698632130,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129695,
+      "num": 129695,
+      "word": "小姐姐抓夹这样用被卡捂脸求助消防",
+      "onboard_time": 1698652953,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -1593,6 +1745,14 @@
       "onboard_time": 1698650252,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121386,
+      "num": 121386,
+      "word": "原神4.1版本",
+      "onboard_time": 1698652711,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 120314,
@@ -1699,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 103795,
+      "num": 112882,
+      "word": "撒贝宁就是能让你笑着佩服他",
+      "onboard_time": 1698651151,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103274,
       "num": 103274,
       "word": "王嘉尔说自己和王嘉尔长得特别像",
@@ -1755,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98130,
+      "num": 98130,
+      "word": "光雾山秋日限定多巴胺皮肤",
+      "onboard_time": 1698653314,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 96726,
       "num": 96726,
       "word": "陈楚生新歌向海而生",
@@ -1777,14 +1953,6 @@
       "onboard_time": 1698620422,
       "rank": 31,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 92012,
-      "num": 112882,
-      "word": "撒贝宁就是能让你笑着佩服他",
-      "onboard_time": 1698651151,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 90931,
@@ -1907,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66051,
+      "num": 237895,
+      "word": "鸿蒙4升级设备数量破亿",
+      "onboard_time": 1698652530,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65913,
       "num": 65913,
       "word": "SEVENTEEN新专初动销量突破500万张",
@@ -1961,6 +2137,14 @@
       "onboard_time": 1698601219,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 49299,
+      "num": 314683,
+      "word": "据说明晚京东双十一又放补贴",
+      "onboard_time": 1698652831,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 47360,
