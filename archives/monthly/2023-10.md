@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 10:24:54
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/30 10:36:03
 </p>
 </blockquote>
 <p>
@@ -827,6 +827,12 @@ YSL客服回应小杨哥徒弟带货被指低俗（热度：2632291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83%23" target="weibo">
 吃播 假吃（热度：2610102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%947%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A0%A1%E8%A2%AB%E5%A4%9A%E4%BA%BA%E9%9C%B8%E5%87%8C%23" target="weibo">
+教育局回应7岁女孩在校被多人霸凌（热度：2607465）
 </a>
 </li>
 
@@ -1853,12 +1859,6 @@ iPhone15全系价格暴跌（热度：2058577）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E5%9B%9E%E5%BA%94%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23" target="weibo">
 郑强回应婚内出轨包养情妇（热度：2031971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%947%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A0%A1%E8%A2%AB%E5%A4%9A%E4%BA%BA%E9%9C%B8%E5%87%8C%23" target="weibo">
-教育局回应7岁女孩在校被多人霸凌（热度：2026516）
 </a>
 </li>
 
@@ -5979,6 +5979,12 @@ DK 疯牛病（热度：1059512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AF%8C%E8%B1%AA%E8%A6%81%E6%B1%82%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C70%E5%B0%8F%E6%97%B6%23" target="weibo">
+印度富豪要求年轻人每周工作70小时（热度：1055827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A9%B4%E5%84%BF%E8%A2%AB3%E6%9D%A1%E6%B5%81%E6%B5%AA%E7%8B%97%E5%9B%B4%E6%94%BB%E5%92%AC%E4%BC%A4%23" target="weibo">
 女子带婴儿被3条流浪狗围攻咬伤（热度：1055014）
 </a>
@@ -6005,12 +6011,6 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23HYBE%E5%90%A6%E8%AE%A4%E9%98%B2%E5%BC%B9%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%B8%E6%AF%92%23" target="weibo">
 HYBE否认防弹少年团吸毒（热度：1052861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E7%A7%81%E5%BA%95%E4%B8%8B%E7%A9%BF%E5%90%8A%E5%B8%A6%23" target="weibo">
-于和伟私底下穿吊带（热度：1052615）
 </a>
 </li>
 
