@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 12:20:23
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 12:34:25
 </p>
 </blockquote>
 <p>
@@ -1533,6 +1533,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23" target="weibo">
+重度抑郁女生被医生建议断亲（热度：2153955）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C8%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23" target="weibo">
 王牌8官宣阵容（热度：2153359）
 </a>
@@ -2895,6 +2901,12 @@ Z先生到底是谁（热度：1751124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%A4%B9%E5%9C%A8%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%23" target="weibo">
+头发夹在耳后显脸小的正确方法（热度：1704546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E4%B8%83%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%BB%84%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
 小杨哥徒弟七老板回应小黄带货被指低俗（热度：1697593）
 </a>
@@ -3191,12 +3203,6 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E6%9C%AC%E5%90%8D%23" target="weibo">
 王楚钦已经痛失本名（热度：1620351）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%A4%B9%E5%9C%A8%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%23" target="weibo">
-头发夹在耳后显脸小的正确方法（热度：1619567）
 </a>
 </li>
 
@@ -4029,6 +4035,12 @@ EXO变成CEO了（热度：1420109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9B%B2%E5%B1%B1%23" target="weibo">
+李金铭 现实版盲山（热度：1417644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%A6%81%E6%B1%82%E6%9C%88%E5%85%A56000%E5%85%83%E5%A5%B3%E5%84%BF%E4%BB%984500%E5%85%83%E8%B5%A1%E5%85%BB%E8%B4%B9%23" target="weibo">
 父亲要求月入6000元女儿付4500元赡养费（热度：1417595）
 </a>
@@ -4211,12 +4223,6 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
 西南科技大学馄饨阿姨事件（热度：1389594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23" target="weibo">
-重度抑郁女生被医生建议断亲（热度：1388212）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BC%85%E5%9B%A0%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%91%E5%B7%B2%E8%87%B422%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 美缅因州枪击事件至少已致22人死亡（热度：1073177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9C%AF%E9%98%9F%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8F%82%E8%B5%9B%E8%B5%84%E6%A0%BC%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
-中国马术队巴黎奥运会参赛资格被取消（热度：1071419）
 </a>
 </li>
 
