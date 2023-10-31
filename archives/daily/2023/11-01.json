@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698786880488,
+  "endTime": 1698788043617,
   "band_list": [
     {
       "raw_hot": 1258089,
@@ -211,20 +211,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150743,
+      "num": 150743,
+      "word": "这个锅中国不背",
+      "onboard_time": 1698781874,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 149032,
       "num": 149032,
       "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
       "onboard_time": 1698750334,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146873,
-      "num": 146873,
-      "word": "这个锅中国不背",
-      "onboard_time": 1698781874,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 145037,
@@ -411,6 +411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 71536,
+      "num": 18060,
+      "word": "杜海涛吴昕百分百合拍友谊",
+      "onboard_time": 1698787215,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63846,
       "num": 99654,
       "word": "李克强同志遗体11月2日火化",
@@ -507,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19945,
+      "raw_hot": 21055,
       "num": 22823,
       "word": "三岁宝宝会滚床",
       "onboard_time": 1698784273,
@@ -515,7 +523,7 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 18500,
+      "raw_hot": 19068,
       "num": 22839,
       "word": "孙怡从e人变i人了",
       "onboard_time": 1698783313,
@@ -531,12 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13050,
+      "raw_hot": 14899,
       "num": 22833,
       "word": "人活的是几个瞬间",
       "onboard_time": 1698782352,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12929,
+      "num": 16685,
+      "word": "78岁奶奶坚持健身18年状态满分",
+      "onboard_time": 1698787453,
+      "rank": 46,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
