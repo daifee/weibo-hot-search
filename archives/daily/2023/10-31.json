@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698765491669,
+  "endTime": 1698766481054,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1191629,
-      "num": 656824,
+      "num": 690570,
       "word": "微信新增独立发送按钮",
       "onboard_time": 1698752369,
       "rank": 1,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1087706,
-      "num": 260901,
+      "num": 276619,
       "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
       "onboard_time": 1698761197,
       "rank": 20,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526629,
+      "num": 526629,
+      "word": "大吉岭茶与无人区玫瑰",
+      "onboard_time": 1698763177,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514913,
       "num": 514913,
       "word": "男子晒出结婚多年生9女1男",
@@ -683,12 +691,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 475050,
-      "num": 475050,
-      "word": "大吉岭茶与无人区玫瑰",
-      "onboard_time": 1698763177,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 468382,
+      "num": 346134,
+      "word": "张艺兴被路人当成雕塑",
+      "onboard_time": 1698765096,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 464454,
@@ -713,14 +721,6 @@
       "onboard_time": 1698741870,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 444446,
-      "num": 346134,
-      "word": "张艺兴被路人当成雕塑",
-      "onboard_time": 1698765096,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 443792,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371078,
+      "num": 371078,
+      "word": "C罗点赞龙赛罗嘲讽梅西视频",
+      "onboard_time": 1698763477,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370665,
       "num": 370665,
       "word": "一念关山",
@@ -899,20 +907,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 354314,
-      "num": 354314,
-      "word": "C罗点赞龙赛罗嘲讽梅西视频",
-      "onboard_time": 1698763477,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 350319,
       "num": 329504,
       "word": "2014万圣节 青蛇白蛇",
       "onboard_time": 1698713913,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 350071,
+      "num": 276619,
+      "word": "以色列",
+      "onboard_time": 1698765513,
+      "rank": 21,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 348821,
@@ -1059,6 +1067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 298762,
+      "num": 298762,
+      "word": "万圣夜上海巨鹿路人山人海",
+      "onboard_time": 1698764616,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295373,
       "num": 295373,
       "word": "2023MAMA第二轮阵容",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1698721354,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276611,
+      "num": 276611,
+      "word": "上海地铁13号线淮海中路站封站",
+      "onboard_time": 1698764138,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275910,
@@ -1347,12 +1371,28 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 241494,
+      "num": 241494,
+      "word": "她一句谢谢他就红了眼眶",
+      "onboard_time": 1698765335,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239721,
       "num": 239721,
       "word": "侯明昊体面",
       "onboard_time": 1698708086,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239572,
+      "num": 239572,
+      "word": "相当于考研人看到男主名字叫肖秀荣",
+      "onboard_time": 1698760958,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 239331,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1698731010,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 232500,
-      "num": 232500,
-      "word": "上海地铁13号线淮海中路站封站",
-      "onboard_time": 1698764138,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229360,
@@ -1555,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209089,
-      "num": 209089,
-      "word": "万圣夜上海巨鹿路人山人海",
-      "onboard_time": 1698764616,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207184,
       "num": 207184,
       "word": "请你们少做自己多做爱豆",
@@ -1625,14 +1649,6 @@
       "onboard_time": 1698728255,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204267,
-      "num": 204267,
-      "word": "相当于考研人看到男主名字叫肖秀荣",
-      "onboard_time": 1698760958,
-      "rank": 46,
-      "category": "读书作家"
     },
     {
       "raw_hot": 203639,
@@ -1979,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175168,
+      "num": 175168,
+      "word": "今天好多明星营业",
+      "onboard_time": 1698763778,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175045,
       "num": 175045,
       "word": "胡先煦cos蜘蛛侠",
@@ -2065,14 +2089,6 @@
       "onboard_time": 1698752851,
       "rank": 40,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 170712,
-      "num": 170712,
-      "word": "今天好多明星营业",
-      "onboard_time": 1698763778,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 170277,
@@ -2243,6 +2259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159090,
+      "num": 159090,
+      "word": "拥有教师编制的他们后悔了",
+      "onboard_time": 1698766415,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159015,
       "num": 159015,
       "word": "桂海潮已经在期待下次太空出差了",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1698711755,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155620,
+      "num": 155620,
+      "word": "当妈妈第一次尝试暗黑妆",
+      "onboard_time": 1698766055,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 154847,
@@ -2369,6 +2401,14 @@
       "onboard_time": 1698736112,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144437,
+      "num": 144437,
+      "word": "广东街头的肠粉真是什么都敢加",
+      "onboard_time": 1698765278,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 143942,
@@ -2499,14 +2539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134174,
-      "num": 134174,
-      "word": "她一句谢谢他就红了眼眶",
-      "onboard_time": 1698765335,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134067,
       "num": 134067,
       "word": "辛芷蕾是懂花少drama效果的",
@@ -2547,14 +2579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132119,
-      "num": 132119,
-      "word": "广东街头的肠粉真是什么都敢加",
-      "onboard_time": 1698765278,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 131464,
       "num": 131464,
       "word": "今年很新的一种反向催婚",
@@ -2585,6 +2609,14 @@
       "onboard_time": 1698733892,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128753,
+      "num": 128753,
+      "word": "黄凯细节的神",
+      "onboard_time": 1698765995,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 128252,
@@ -3107,6 +3139,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 80546,
+      "num": 276624,
+      "word": "阿里云送每位大学生一台云服务器",
+      "onboard_time": 1698764497,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79595,
       "num": 79595,
       "word": "孕妇低血糖民警带一盒糖出警",
@@ -3153,14 +3193,6 @@
       "onboard_time": 1698726158,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62475,
-      "num": 261058,
-      "word": "阿里云送每位大学生一台云服务器",
-      "onboard_time": 1698764497,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 60380,
