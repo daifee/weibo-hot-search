@@ -1,0 +1,410 @@
+{
+  "runTime": 1698752056664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 513654,
+        "num": 513654,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 313017,
+        "num": 513594,
+        "word": "男子网购相机交2000元后民警秒上门",
+        "onboard_time": 1698744094,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38431,
+        "num": 513244,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 691896,
+        "num": 512880,
+        "word": "以爱为营",
+        "onboard_time": 1698749971,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160117,
+        "num": 512193,
+        "word": "为保护50米齐长城山东花4亿修隧道",
+        "onboard_time": 1698747511,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652387,
+        "num": 512108,
+        "word": "杨紫问谢娜是不是喜欢邓为",
+        "onboard_time": 1698746491,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136568,
+        "num": 511464,
+        "word": "90后夫妻深山种出火龙果",
+        "onboard_time": 1698745834,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626384,
+        "num": 511068,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 7,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 626072,
+        "num": 510856,
+        "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
+        "onboard_time": 1698750334,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597846,
+        "num": 510444,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606346,
+        "num": 510217,
+        "word": "女子疑因cos低俗内容被警方带离现场",
+        "onboard_time": 1698745112,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033018,
+        "num": 509818,
+        "word": "女医生水杯遭投多聚甲醛及尿液",
+        "onboard_time": 1698748234,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930537,
+        "num": 509283,
+        "word": "刘诗诗一天穿了六套高定",
+        "onboard_time": 1698749614,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672621,
+        "num": 509028,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33613,
+        "num": 508540,
+        "word": "微博迎新之夜直播",
+        "onboard_time": 1698750154,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 508428,
+        "num": 508428,
+        "word": "宁静什么时候受过这委屈",
+        "onboard_time": 1698748773,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443792,
+        "num": 443792,
+        "word": "cos穷鬼",
+        "onboard_time": 1698747451,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393099,
+        "num": 393099,
+        "word": "警方不予公开中学男生被逼吃粪案件",
+        "onboard_time": 1698745233,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231664,
+        "num": 378689,
+        "word": "cos向太的网友去向佐直播间了",
+        "onboard_time": 1698750211,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328706,
+        "num": 328706,
+        "word": "西贝回应3只蒸饺29元",
+        "onboard_time": 1698740670,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 305474,
+        "num": 305474,
+        "word": "戴口罩戴口罩戴口罩",
+        "onboard_time": 1698740912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324123,
+        "num": 300339,
+        "word": "巨鹿路",
+        "onboard_time": 1698750211,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286653,
+        "num": 286653,
+        "word": "田曦薇高清无刘海生图",
+        "onboard_time": 1698748593,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271027,
+        "num": 271027,
+        "word": "以色列在联大展示斩首视频",
+        "onboard_time": 1698739893,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 250265,
+        "num": 250265,
+        "word": "为有暗香来",
+        "onboard_time": 1698748593,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232729,
+        "num": 232729,
+        "word": "谢娜杨紫微信 八卦姐姐八卦妹妹",
+        "onboard_time": 1698749254,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212500,
+        "num": 212500,
+        "word": "杜华 质疑李飞理解李飞成为李飞",
+        "onboard_time": 1698745711,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206060,
+        "num": 206060,
+        "word": "王鹤棣说自己还是个非常新的新人",
+        "onboard_time": 1698749072,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193906,
+        "num": 193906,
+        "word": "淘宝双十一",
+        "onboard_time": 1698751352,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187244,
+        "num": 187244,
+        "word": "彭小苒郭敬明三搭",
+        "onboard_time": 1698751593,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1197819,
+        "num": 186059,
+        "word": "李佳琦谈未来两年规划",
+        "onboard_time": 1698746853,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180476,
+        "num": 180476,
+        "word": "何炅曾请杨紫等小朋友吃汉堡",
+        "onboard_time": 1698746731,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166014,
+        "num": 166014,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165294,
+        "num": 165294,
+        "word": "今天是阳明先生551岁生日",
+        "onboard_time": 1698751714,
+        "rank": 33,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 71331,
+        "num": 161347,
+        "word": "天猫双十一直播间加发大额补贴",
+        "onboard_time": 1698750693,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 160894,
+        "word": "官方回应广东一6岁女孩脑死亡去世",
+        "onboard_time": 1698747393,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150361,
+        "num": 150361,
+        "word": "陈都灵美拉德风衣",
+        "onboard_time": 1698749912,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148515,
+        "num": 148515,
+        "word": "辛芷蕾我有普通拖鞋",
+        "onboard_time": 1698749971,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142818,
+        "num": 142818,
+        "word": "王者新英雄朵莉亚",
+        "onboard_time": 1698751472,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25508,
+        "num": 139939,
+        "word": "8点来京东抢1分钱的黄金",
+        "onboard_time": 1698750036,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139938,
+        "num": 139938,
+        "word": "王者荣耀",
+        "onboard_time": 1698741388,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130056,
+        "num": 130056,
+        "word": "檀健次喝无糖奶茶主打一个过嘴瘾",
+        "onboard_time": 1698748534,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125011,
+        "num": 125011,
+        "word": "蔡艺侬 什么叫做日薄西山",
+        "onboard_time": 1698750273,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123006,
+        "num": 123006,
+        "word": "红包雨",
+        "onboard_time": 1698751891,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122333,
+        "num": 122333,
+        "word": "辛芷蕾是懂花少drama效果的",
+        "onboard_time": 1698749853,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116953,
+        "num": 116953,
+        "word": "当我知道领导月薪十万后",
+        "onboard_time": 1698733530,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110766,
+        "num": 110766,
+        "word": "李佳琦回应最低价争夺",
+        "onboard_time": 1698732510,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 109657,
+        "num": 109657,
+        "word": "秦岚好爱吃火锅",
+        "onboard_time": 1698749673,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107881,
+        "num": 107881,
+        "word": "以色列拒绝联合国停火决议",
+        "onboard_time": 1698752011,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 106429,
+        "num": 106429,
+        "word": "民警历时4年助失散36年母子团聚",
+        "onboard_time": 1698750931,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
