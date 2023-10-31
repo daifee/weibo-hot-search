@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698769380301,
+  "endTime": 1698770308413,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1158007,
+      "num": 286248,
+      "word": "拥有教师编制的他们后悔了",
+      "onboard_time": 1698766415,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1124434,
       "num": 1124434,
       "word": "女子为减肥连吃3月胡萝卜变小橘人",
@@ -569,14 +577,6 @@
       "onboard_time": 1698590677,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1107721,
-      "num": 286248,
-      "word": "拥有教师编制的他们后悔了",
-      "onboard_time": 1698766415,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1090579,
@@ -1163,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727002,
+      "num": 727002,
+      "word": "以色列",
+      "onboard_time": 1698765513,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 714207,
       "num": 634396,
       "word": "佛山电翰已出现人传人",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1698645331,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 646648,
-      "num": 646648,
-      "word": "以色列",
-      "onboard_time": 1698765513,
-      "rank": 21,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 644719,
@@ -3811,6 +3811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257100,
+      "num": 195678,
+      "word": "知画是对秦岚最大的误解",
+      "onboard_time": 1698769231,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256184,
       "num": 256184,
       "word": "于正新剧要换妆造",
@@ -5571,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191208,
+      "num": 191208,
+      "word": "洗发水",
+      "onboard_time": 1698767436,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 191125,
       "num": 191125,
       "word": "于和伟 知道自己是主公还是公主",
@@ -5736,14 +5752,6 @@
       "word": "红楼梦里最喜欢的丫头",
       "onboard_time": 1698664291,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 186734,
-      "num": 186734,
-      "word": "知画是对秦岚最大的误解",
-      "onboard_time": 1698769231,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -6073,14 +6081,6 @@
       "onboard_time": 1698633450,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177395,
-      "num": 177395,
-      "word": "洗发水",
-      "onboard_time": 1698767436,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 177215,
@@ -7923,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125284,
+      "num": 125284,
+      "word": "人民文娱评河边的错误",
+      "onboard_time": 1698769588,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124787,
       "num": 124787,
       "word": "年鹏 穿越火线",
@@ -9201,6 +9209,14 @@
       "onboard_time": 1698534139,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 50522,
+      "num": 89698,
+      "word": "钢筋扎穿工人消防边救边喊我们在呢",
+      "onboard_time": 1698767373,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50427,

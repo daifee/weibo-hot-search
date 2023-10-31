@@ -1,22 +1,30 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698769380301,
+  "endTime": 1698770308413,
   "band_list": [
     {
       "raw_hot": 1258089,
-      "num": 649053,
+      "num": 652522,
       "word": "向佐 我把假向太抓来直播间啦",
       "onboard_time": 1698761497,
       "rank": 3,
       "category": "艺人"
     },
     {
-      "raw_hot": 1107721,
+      "raw_hot": 1158007,
       "num": 286248,
       "word": "拥有教师编制的他们后悔了",
       "onboard_time": 1698766415,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897081,
+      "num": 897081,
+      "word": "7款APP全网下架",
+      "onboard_time": 1698757836,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 821493,
@@ -35,12 +43,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 669586,
-      "num": 669586,
-      "word": "7款APP全网下架",
-      "onboard_time": 1698757836,
-      "rank": 1,
-      "category": "互联网"
+      "raw_hot": 727002,
+      "num": 727002,
+      "word": "以色列",
+      "onboard_time": 1698765513,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 666744,
@@ -49,14 +57,6 @@
       "onboard_time": 1698753987,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646648,
-      "num": 646648,
-      "word": "以色列",
-      "onboard_time": 1698765513,
-      "rank": 4,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 501907,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257100,
+      "num": 195678,
+      "word": "知画是对秦岚最大的误解",
+      "onboard_time": 1698769231,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239680,
       "num": 239680,
       "word": "八年花了12万网购的感受",
@@ -171,12 +179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186734,
-      "num": 186734,
-      "word": "知画是对秦岚最大的误解",
-      "onboard_time": 1698769231,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 191208,
+      "num": 191208,
+      "word": "洗发水",
+      "onboard_time": 1698767436,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 179090,
@@ -185,14 +193,6 @@
       "onboard_time": 1698749614,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177395,
-      "num": 177395,
-      "word": "洗发水",
-      "onboard_time": 1698767436,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 176323,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127517,
+      "num": 127517,
+      "word": "胰腺癌的早期信号是什么",
+      "onboard_time": 1698752911,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126804,
       "num": 126804,
       "word": "相当于考研人看到男主名字叫肖秀荣",
@@ -243,12 +251,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 125706,
-      "num": 125706,
-      "word": "胰腺癌的早期信号是什么",
-      "onboard_time": 1698752911,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 125284,
+      "num": 125284,
+      "word": "人民文娱评河边的错误",
+      "onboard_time": 1698769588,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 122098,
@@ -347,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95296,
+      "num": 95296,
+      "word": "小S二女儿万圣节cos",
+      "onboard_time": 1698754832,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 87321,
       "num": 99659,
       "word": "孕妇坐乐园小火车致先兆流产",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 76860,
-      "num": 649786,
+      "num": 654945,
       "word": "中国航天员从1人变成了大家庭",
       "onboard_time": 1698760838,
       "rank": 2,
@@ -401,11 +417,22 @@
       "onboard_time": 1698767312,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50522,
+      "num": 89698,
+      "word": "钢筋扎穿工人消防边救边喊我们在呢",
+      "onboard_time": 1698767373,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    },
+    {
+      "word": "#金融是国民经济的血脉#"
     }
   ]
 }
