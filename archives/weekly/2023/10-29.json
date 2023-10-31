@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698722268999,
+  "endTime": 1698723247296,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922539,
+      "num": 922539,
+      "word": "头发夹在耳后显脸小的正确方法",
+      "onboard_time": 1698722012,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 915276,
       "num": 915276,
       "word": "女毒贩为逃避刑罚6年生4娃",
@@ -1107,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644408,
+      "num": 430569,
+      "word": "恒大歌舞团团长白珊珊发声",
+      "onboard_time": 1698717388,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642739,
       "num": 642739,
       "word": "工科生查重率百分百的穿搭",
@@ -1363,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579023,
+      "num": 579023,
+      "word": "藏海戏麟改名 藏海传",
+      "onboard_time": 1698720692,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578191,
       "num": 578191,
       "word": "孙颖莎 破阵",
@@ -1424,14 +1448,6 @@
       "word": "深圳欢乐谷被责令闭园整改",
       "onboard_time": 1698540030,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555398,
-      "num": 430569,
-      "word": "恒大歌舞团团长白珊珊发声",
-      "onboard_time": 1698717388,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1569,14 +1585,6 @@
       "onboard_time": 1698585093,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503396,
-      "num": 503396,
-      "word": "藏海戏麟改名 藏海传",
-      "onboard_time": 1698720692,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 502659,
@@ -2115,8 +2123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369920,
-      "num": 369920,
+      "raw_hot": 370517,
+      "num": 370517,
       "word": "马立奥的英文单词量比张拿铁都多",
       "onboard_time": 1698720454,
       "rank": 9,
@@ -3003,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253839,
+      "num": 253839,
+      "word": "小学生刮蹭私家车留纸条提出分期付款",
+      "onboard_time": 1698719315,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253420,
       "num": 253420,
       "word": "原神哥 好签",
@@ -3139,19 +3155,19 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 245054,
-      "num": 245054,
-      "word": "小学生刮蹭私家车留纸条提出分期付款",
-      "onboard_time": 1698719315,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244748,
       "num": 244748,
       "word": "华浅仲溪午be了",
       "onboard_time": 1698640359,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244050,
+      "num": 244050,
+      "word": "为有暗香来 长公主",
+      "onboard_time": 1698721591,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -3297,14 +3313,6 @@
       "onboard_time": 1698585693,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235904,
-      "num": 235904,
-      "word": "为有暗香来 长公主",
-      "onboard_time": 1698721591,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 235620,
@@ -3467,14 +3475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225233,
-      "num": 225233,
-      "word": "头发夹在耳后显脸小的正确方法",
-      "onboard_time": 1698722012,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 224881,
       "num": 224881,
       "word": "权顺荣和粉丝牵手",
@@ -3505,6 +3505,14 @@
       "onboard_time": 1698675038,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 222701,
+      "num": 222701,
+      "word": "苹果称iOS17.2将解决WiFi连接问题",
+      "onboard_time": 1698719013,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 222477,
@@ -3713,14 +3721,6 @@
       "onboard_time": 1698547832,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208493,
-      "num": 208493,
-      "word": "苹果称iOS17.2将解决WiFi连接问题",
-      "onboard_time": 1698719013,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 208139,
@@ -4283,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192143,
+      "num": 192143,
+      "word": "三大队新狱告",
+      "onboard_time": 1698722132,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191828,
       "num": 191828,
       "word": "林俊杰起风了",
@@ -4313,6 +4321,14 @@
       "onboard_time": 1698659013,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191505,
+      "num": 191505,
+      "word": "ONEOKROCK 成都",
+      "onboard_time": 1698722912,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 191420,
@@ -4913,14 +4929,6 @@
       "onboard_time": 1698678275,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 171291,
-      "num": 171291,
-      "word": "三大队新狱告",
-      "onboard_time": 1698722132,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 171101,
@@ -5553,6 +5561,14 @@
       "onboard_time": 1698622589,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147195,
+      "num": 286110,
+      "word": "京东和哈利波特联名啦",
+      "onboard_time": 1698721234,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 146887,
@@ -6435,6 +6451,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 114969,
+      "num": 114969,
+      "word": "于和伟 知道自己是主公还是公主",
+      "onboard_time": 1698722313,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114724,
       "num": 450007,
       "word": "鸿星尔克支棱起来了",
@@ -6465,6 +6489,14 @@
       "onboard_time": 1698625053,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114222,
+      "num": 114222,
+      "word": "外卖漏送米饭被要求191元整单退款",
+      "onboard_time": 1698723032,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114095,
@@ -6523,6 +6555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111374,
+      "num": 111374,
+      "word": "邓为说想和沈腾合作",
+      "onboard_time": 1698723213,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110821,
       "num": 110821,
       "word": "万梗节",
@@ -6537,14 +6577,6 @@
       "onboard_time": 1698635790,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 110294,
-      "num": 281405,
-      "word": "京东和哈利波特联名啦",
-      "onboard_time": 1698721234,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 110180,
@@ -6633,6 +6665,14 @@
       "onboard_time": 1698549511,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 106480,
+      "num": 336021,
+      "word": "听歌时有必要开无损吗",
+      "onboard_time": 1698719613,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 106031,
@@ -6953,14 +6993,6 @@
       "onboard_time": 1698669092,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 74265,
-      "num": 332802,
-      "word": "听歌时有必要开无损吗",
-      "onboard_time": 1698719613,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 73840,

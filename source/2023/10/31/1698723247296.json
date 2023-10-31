@@ -1,0 +1,410 @@
+{
+  "runTime": 1698723247296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4174158,
+        "num": 4174158,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 922539,
+        "num": 922539,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 6167,
+        "num": 680817,
+        "word": "直击第六届进博会",
+        "onboard_time": 1698669755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579023,
+        "num": 579023,
+        "word": "藏海戏麟改名 藏海传",
+        "onboard_time": 1698720692,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542371,
+        "num": 542371,
+        "word": "花西子跌出天猫双十一彩妆预售榜前20",
+        "onboard_time": 1698708506,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1202226,
+        "num": 541660,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 479824,
+        "num": 479824,
+        "word": "朋友30岁癌症去世生前说他反而很开心",
+        "onboard_time": 1698671555,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454836,
+        "num": 454836,
+        "word": "居然在韩国KBS看到袁娅维",
+        "onboard_time": 1698716368,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370517,
+        "num": 370517,
+        "word": "马立奥的英文单词量比张拿铁都多",
+        "onboard_time": 1698720454,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347542,
+        "num": 347542,
+        "word": "没有iPad",
+        "onboard_time": 1698716308,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2703625,
+        "num": 342445,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106480,
+        "num": 336021,
+        "word": "听歌时有必要开无损吗",
+        "onboard_time": 1698719613,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 644408,
+        "num": 335192,
+        "word": "恒大歌舞团团长白珊珊发声",
+        "onboard_time": 1698717388,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331814,
+        "num": 331814,
+        "word": "廊坊地震",
+        "onboard_time": 1698718593,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147195,
+        "num": 286110,
+        "word": "京东和哈利波特联名啦",
+        "onboard_time": 1698721234,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279684,
+        "num": 279684,
+        "word": "刘宇万圣节cos朱迪兔子警官",
+        "onboard_time": 1698713073,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 266159,
+        "num": 266159,
+        "word": "周迅教你演尸体",
+        "onboard_time": 1698721354,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253839,
+        "num": 253839,
+        "word": "小学生刮蹭私家车留纸条提出分期付款",
+        "onboard_time": 1698719315,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244050,
+        "num": 244050,
+        "word": "为有暗香来 长公主",
+        "onboard_time": 1698721591,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222701,
+        "num": 222701,
+        "word": "苹果称iOS17.2将解决WiFi连接问题",
+        "onboard_time": 1698719013,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 700865,
+        "num": 213898,
+        "word": "乳腺结节真是气出来的吗",
+        "onboard_time": 1698719074,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198209,
+        "num": 198209,
+        "word": "警方申请确认权志龙通话内容被驳回",
+        "onboard_time": 1698718174,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192143,
+        "num": 192143,
+        "word": "三大队新狱告",
+        "onboard_time": 1698722132,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191505,
+        "num": 191505,
+        "word": "ONEOKROCK 成都",
+        "onboard_time": 1698722912,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189937,
+        "num": 189937,
+        "word": "库里被鹈鹕全场狂嘘",
+        "onboard_time": 1698721114,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189753,
+        "num": 189753,
+        "word": "夸克",
+        "onboard_time": 1698708869,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178875,
+        "num": 178875,
+        "word": "巨好吃却最长肉的食物是什么",
+        "onboard_time": 1698710794,
+        "rank": 26,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 177617,
+        "num": 177617,
+        "word": "第一次觉得男女主be不可惜的",
+        "onboard_time": 1698677375,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176364,
+        "num": 176364,
+        "word": "完蛋了 来不及交稿了啊",
+        "onboard_time": 1698719254,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151012,
+        "num": 166358,
+        "word": "国乒世界排名四项第一",
+        "onboard_time": 1698719433,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166274,
+        "num": 166274,
+        "word": "模仿成龙整活让我上错了动车",
+        "onboard_time": 1698721773,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 155163,
+        "num": 155163,
+        "word": "2023MAMA第二轮阵容",
+        "onboard_time": 1698717388,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152871,
+        "num": 152871,
+        "word": "毛不易做饭尝都尝饱了",
+        "onboard_time": 1698720574,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146033,
+        "num": 146033,
+        "word": "山西一患者疑被医生输入禁忌药物致死",
+        "onboard_time": 1698716431,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142731,
+        "num": 142731,
+        "word": "iPhone16Pro或进一步上调售价",
+        "onboard_time": 1698710915,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140019,
+        "num": 140019,
+        "word": "花少团真的好爱王安宇",
+        "onboard_time": 1698712776,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135569,
+        "num": 135569,
+        "word": "秋冬氛围感的千金发型",
+        "onboard_time": 1698721354,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134953,
+        "num": 134953,
+        "word": "钟楚曦14秒换了3套衣服",
+        "onboard_time": 1698678575,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131983,
+        "num": 131983,
+        "word": "C罗",
+        "onboard_time": 1698715650,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130860,
+        "num": 130860,
+        "word": "高三最后一次运动会同学们牵手一起冲线",
+        "onboard_time": 1698721414,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125137,
+        "num": 125137,
+        "word": "夸克回应被罚",
+        "onboard_time": 1698678517,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124711,
+        "num": 124711,
+        "word": "00后特殊爱好被妈妈支持",
+        "onboard_time": 1698714873,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122307,
+        "num": 122307,
+        "word": "库里42分",
+        "onboard_time": 1698721532,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121269,
+        "num": 121269,
+        "word": "史上最短苹果发布会",
+        "onboard_time": 1698714873,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115027,
+        "num": 115027,
+        "word": "万圣节",
+        "onboard_time": 1698711394,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114969,
+        "num": 114969,
+        "word": "于和伟 知道自己是主公还是公主",
+        "onboard_time": 1698722313,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114222,
+        "num": 114222,
+        "word": "外卖漏送米饭被要求191元整单退款",
+        "onboard_time": 1698723032,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112873,
+        "num": 112873,
+        "word": "胡先煦躲过了霸天虎过山车",
+        "onboard_time": 1698718474,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111374,
+        "num": 111374,
+        "word": "邓为说想和沈腾合作",
+        "onboard_time": 1698723213,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110597,
+        "num": 110597,
+        "word": "梅西获得第八座金球奖",
+        "onboard_time": 1698707064,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#创建丝路电商合作先行区推进高质量共建一带一路#"
+    }
+  }
+}
