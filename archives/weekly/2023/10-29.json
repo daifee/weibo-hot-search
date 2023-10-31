@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698770308413,
+  "endTime": 1698772559054,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -3891,6 +3891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251487,
+      "num": 251487,
+      "word": "洗发水",
+      "onboard_time": 1698767436,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 251169,
       "num": 251169,
       "word": "易烊千玺影人碎片",
@@ -5577,14 +5585,6 @@
       "onboard_time": 1698628950,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191208,
-      "num": 191208,
-      "word": "洗发水",
-      "onboard_time": 1698767436,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 191125,
@@ -8763,6 +8763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97696,
+      "num": 97696,
+      "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
+      "onboard_time": 1698771206,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97508,
       "num": 175464,
       "word": "国货打广告卷到了工位上",
@@ -9107,6 +9115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61051,
+      "num": 74045,
+      "word": "卧蚕紧贴下睫毛才美",
+      "onboard_time": 1698771325,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 60380,
       "num": 60380,
       "word": "身体从未如此放松过",
@@ -9291,6 +9307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43560,
+      "num": 73870,
+      "word": "梅西谈他与C罗的竞争",
+      "onboard_time": 1698771804,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39806,
       "num": 401016,
       "word": "北马破三国产跑鞋占比过半",
@@ -9345,6 +9369,14 @@
       "onboard_time": 1698534079,
       "rank": 47,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 30862,
+      "num": 73825,
+      "word": "云南边境居民讲述缅甸军事冲突",
+      "onboard_time": 1698772222,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30302,
