@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698716009144,
+  "endTime": 1698719054555,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -265,6 +265,14 @@
       "onboard_time": 1696427803,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6292102,
+      "num": 7542102,
+      "word": "李克强同志遗体11月2日火化",
+      "onboard_time": 1698717808,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 6008481,
@@ -3809,6 +3817,14 @@
       "onboard_time": 1697765492,
       "rank": 45,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1709100,
+      "num": 1709100,
+      "word": "加沙孕妇在无麻醉下接受剖腹产",
+      "onboard_time": 1698716487,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1697593,
@@ -8321,6 +8337,14 @@
       "onboard_time": 1698458554,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1039339,
+      "num": 1039339,
+      "word": "神十六成功着陆",
+      "onboard_time": 1698712174,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1037892,
@@ -14739,6 +14763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 690340,
+      "num": 690340,
+      "word": "没有iPad",
+      "onboard_time": 1698716308,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 690247,
       "num": 690247,
       "word": "被生母虐待致残男童仍惦记妈妈",
@@ -16419,6 +16451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634123,
+      "num": 378627,
+      "word": "专家称房价大幅下跌老百姓最吃亏",
+      "onboard_time": 1698718114,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 633848,
       "num": 462214,
       "word": "杨紫美拉德大衣",
@@ -17904,6 +17944,14 @@
       "word": "杨紫造型师说你们的福气还在后头",
       "onboard_time": 1696650038,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595422,
+      "num": 595422,
+      "word": "居然在韩国KBS看到袁娅维",
+      "onboard_time": 1698716368,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -24851,6 +24899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 453654,
+      "num": 376452,
+      "word": "恒大歌舞团团长白珊珊发声",
+      "onboard_time": 1698717388,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453545,
       "num": 330338,
       "word": "女子试穿将千元衣服染血渍拒赔偿",
@@ -31251,6 +31307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363305,
+      "num": 363305,
+      "word": "神十六航天员安全顺利出舱",
+      "onboard_time": 1698715710,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363273,
       "num": 363273,
       "word": "李沁去刘雨昕演唱会",
@@ -31281,6 +31345,14 @@
       "onboard_time": 1696316671,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 362625,
+      "num": 362625,
+      "word": "警方申请确认权志龙通话内容被驳回",
+      "onboard_time": 1698718174,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 362602,
@@ -36283,6 +36355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311676,
+      "num": 311676,
+      "word": "廊坊地震",
+      "onboard_time": 1698718593,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311592,
       "num": 311592,
       "word": "金秋天I want it I got it",
@@ -38291,6 +38371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295373,
+      "num": 295373,
+      "word": "2023MAMA第二轮阵容",
+      "onboard_time": 1698717388,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295284,
       "num": 295284,
       "word": "中国B级片的未来",
@@ -40091,14 +40179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283194,
-      "num": 377122,
-      "word": "神十六成功着陆",
-      "onboard_time": 1698712174,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283157,
       "num": 283157,
       "word": "赵晴演技",
@@ -40209,6 +40289,14 @@
       "onboard_time": 1696603842,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282227,
+      "num": 282227,
+      "word": "C罗",
+      "onboard_time": 1698715650,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 282142,
@@ -48003,6 +48091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235620,
+      "num": 235620,
+      "word": "山西一患者疑被医生输入禁忌药物致死",
+      "onboard_time": 1698716431,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235588,
       "num": 219447,
       "word": "给黑狗逼得上手了",
@@ -49073,14 +49169,6 @@
       "onboard_time": 1697875111,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230416,
-      "num": 252956,
-      "word": "C罗",
-      "onboard_time": 1698715650,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 230354,
@@ -53235,14 +53323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210436,
-      "num": 210436,
-      "word": "神十六航天员安全顺利出舱",
-      "onboard_time": 1698715710,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210435,
       "num": 395740,
       "word": "泰国枪击案嫌疑人有精神病治疗史",
@@ -55481,6 +55561,14 @@
       "onboard_time": 1698559890,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203639,
+      "num": 203639,
+      "word": "去太空出差的导师回来了",
+      "onboard_time": 1698718054,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203638,
@@ -62465,6 +62553,14 @@
       "onboard_time": 1697282673,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184714,
+      "num": 184714,
+      "word": "胡先煦躲过了霸天虎过山车",
+      "onboard_time": 1698718474,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 184667,
@@ -69465,6 +69561,14 @@
       "onboard_time": 1696590161,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159015,
+      "num": 159015,
+      "word": "桂海潮已经在期待下次太空出差了",
+      "onboard_time": 1698717689,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159005,
@@ -77035,6 +77139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126143,
+      "num": 126143,
+      "word": "神十六航天员回家途中淡定聊天",
+      "onboard_time": 1698718893,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126121,
       "num": 146169,
       "word": "我爸第一次网购买的耳机架",
@@ -78827,6 +78939,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 114095,
+      "num": 151895,
+      "word": "核能充电宝上架淘宝",
+      "onboard_time": 1698717630,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114056,
       "num": 108229,
       "word": "泰国VOGUE报道迪丽热巴",
@@ -78889,6 +79009,14 @@
       "onboard_time": 1698477811,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113848,
+      "num": 113848,
+      "word": "苹果称iOS17.2将解决WiFi连接问题",
+      "onboard_time": 1698719013,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 113830,
@@ -82379,6 +82507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72781,
+      "num": 371941,
+      "word": "iPhone15这些功能你都会用吗",
+      "onboard_time": 1698717630,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72473,
       "num": 256420,
       "word": "央媒谈亚运会赛场的中国品牌力量",
@@ -84868,7 +85004,7 @@
     },
     {
       "raw_hot": 29469,
-      "num": 981211,
+      "num": 1057059,
       "word": "直击第六届进博会",
       "onboard_time": 1698669755,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698716009144,
+  "endTime": 1698719054555,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2299,6 +2299,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 6292102,
+      "num": 7542102,
+      "word": "李克强同志遗体11月2日火化",
+      "onboard_time": 1698717808,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 6223000,
       "num": 1112136,
       "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1692504398,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5774735,
-      "num": 5774735,
-      "word": "五个王源",
-      "onboard_time": 1672501848,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

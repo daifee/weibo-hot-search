@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/10/31 09:33:29
+本榜单时间：2023/01/01 00:23:37 ~ 2023/10/31 10:24:14
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ DOTA2中国队夺冠（热度：6586145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9311%E6%9C%882%E6%97%A5%E7%81%AB%E5%8C%96%23" target="weibo">
+李克强同志遗体11月2日火化（热度：6292102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E8%AF%B7%E5%91%98%E5%B7%A5%E5%B0%81%E9%94%81%E9%82%B1%E8%80%80%E4%B9%90%E8%B4%A6%E5%8F%B7%23" target="weibo">
 曝炎亚纶曾请员工封锁邱耀乐账号（热度：6223000）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B3%BD%E9%B9%8F%E6%B2%A1%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E7%AB%99%E5%87%BA%E6%9D%A5%E5%9B%A0%E4%B8%BA%E6%80%AF%E6%87%A6%23" target="weibo">
 王泽鹏没第一时间站出来因为怯懦（热度：5778123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E7%8E%8B%E6%BA%90%23" target="weibo">
-五个王源（热度：5774735）
 </a>
 </li>
 
