@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698743838864,
+  "endTime": 1698744862994,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -75,6 +75,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1674784,
+      "num": 895540,
+      "word": "西贝回应3只蒸饺29元",
+      "onboard_time": 1698740670,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1672955,
       "num": 449967,
       "word": "Lisa万圣节cos木偶女孩",
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1434394,
+      "num": 677381,
+      "word": "李金铭参加明星到我家错过花少",
+      "onboard_time": 1698742652,
+      "rank": 4,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 1335385,
       "num": 548691,
       "word": "刘宇万圣节cos朱迪兔子警官",
       "onboard_time": 1698713073,
       "rank": 11,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 1315657,
-      "num": 895540,
-      "word": "西贝回应3只蒸饺29元",
-      "onboard_time": 1698740670,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1254294,
@@ -169,14 +177,6 @@
       "onboard_time": 1698712174,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1035647,
-      "num": 677381,
-      "word": "李金铭参加明星到我家错过花少",
-      "onboard_time": 1698742652,
-      "rank": 4,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1019971,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 480842,
+      "num": 480842,
+      "word": "长沙被打破头骨女孩已出院",
+      "onboard_time": 1698742172,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475874,
       "num": 475874,
       "word": "科学家找到癌细胞的生死开关",
@@ -475,8 +483,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 428997,
-      "num": 260512,
+      "raw_hot": 441939,
+      "num": 262594,
       "word": "戴口罩戴口罩戴口罩",
       "onboard_time": 1698740912,
       "rank": 35,
@@ -513,6 +521,14 @@
       "onboard_time": 1698738632,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398520,
+      "num": 306094,
+      "word": "张馨予针灸是为了治疗长痘",
+      "onboard_time": 1698742893,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 386628,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370665,
+      "num": 370665,
+      "word": "一念关山",
+      "onboard_time": 1698742412,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370517,
       "num": 370517,
       "word": "马立奥的英文单词量比张拿铁都多",
@@ -585,14 +609,6 @@
       "onboard_time": 1698734789,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 357353,
-      "num": 357353,
-      "word": "长沙被打破头骨女孩已出院",
-      "onboard_time": 1698742172,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356951,
@@ -675,14 +691,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 306675,
-      "num": 243249,
-      "word": "一念关山",
-      "onboard_time": 1698742412,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306015,
       "num": 306015,
       "word": "檀健次还原相柳名场面",
@@ -761,14 +769,6 @@
       "onboard_time": 1698721354,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 276800,
-      "num": 276800,
-      "word": "张馨予针灸是为了治疗长痘",
-      "onboard_time": 1698742893,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 275910,
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235462,
+      "num": 235462,
+      "word": "有人自林中坠落",
+      "onboard_time": 1698743554,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 233461,
       "num": 233461,
       "word": "张小斐 女孩子就应该穿得漂亮",
@@ -1011,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215234,
+      "num": 215234,
+      "word": "李一桐cos小恶魔",
+      "onboard_time": 1698744690,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 214254,
       "num": 214254,
       "word": "罗云熙章若楠情侣装海报",
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 212297,
-      "num": 190242,
+      "num": 202452,
       "word": "广州医生用病人肚腩再造乳房",
       "onboard_time": 1698741633,
       "rank": 30,
@@ -1107,14 +1123,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202494,
-      "num": 202494,
-      "word": "有人自林中坠落",
-      "onboard_time": 1698743554,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 201739,
       "num": 201739,
       "word": "张译又演警察了",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1698734313,
       "rank": 27,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 199052,
+      "num": 191035,
+      "word": "王子异 瘦不代表美",
+      "onboard_time": 1698743672,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 198654,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1698740670,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179155,
+      "num": 179155,
+      "word": "伍佰叫伍佰 我叫二百五",
+      "onboard_time": 1698744512,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 178592,
@@ -1571,11 +1595,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153298,
+      "num": 153298,
+      "word": "上班的时候吃就是三份苦了",
+      "onboard_time": 1698743491,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150874,
       "num": 150874,
       "word": "WTT法兰克福冠军赛2023",
       "onboard_time": 1698707425,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150682,
+      "num": 150682,
+      "word": "梅西 这个奖杯属于我也同样属于你们",
+      "onboard_time": 1698744212,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1585,6 +1625,14 @@
       "onboard_time": 1698728315,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147840,
+      "num": 147840,
+      "word": "虞书欣亮片粉玫瑰裙",
+      "onboard_time": 1698743794,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147195,
@@ -1819,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123847,
-      "num": 123847,
-      "word": "上班的时候吃就是三份苦了",
-      "onboard_time": 1698743491,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 123691,
       "num": 123691,
       "word": "慎用支原体肺炎用药3件套",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1698737072,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121137,
-      "num": 121137,
-      "word": "王子异 瘦不代表美",
-      "onboard_time": 1698743672,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 118005,
@@ -2067,19 +2099,19 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 103944,
+      "num": 262855,
+      "word": "郁美净打造大叔团教网友做搓脸操",
+      "onboard_time": 1698744034,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 103502,
       "num": 103502,
       "word": "睡在猪圈上是什么样的体验",
       "onboard_time": 1698741513,
       "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102938,
-      "num": 102938,
-      "word": "虞书欣亮片粉玫瑰裙",
-      "onboard_time": 1698743794,
-      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -2321,6 +2353,14 @@
       "onboard_time": 1698686419,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34954,
+      "num": 107118,
+      "word": "通义千问2.0版本发布",
+      "onboard_time": 1698744512,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 29469,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1698744862994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 690884,
+        "num": 847202,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1674784,
+        "num": 798492,
+        "word": "西贝回应3只蒸饺29元",
+        "onboard_time": 1698740670,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 59439,
+        "num": 728049,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1434394,
+        "num": 664116,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 3,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 1034996,
+        "num": 628230,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600039,
+        "num": 600039,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 480842,
+        "num": 480842,
+        "word": "长沙被打破头骨女孩已出院",
+        "onboard_time": 1698742172,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370665,
+        "num": 370665,
+        "word": "一念关山",
+        "onboard_time": 1698742412,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370019,
+        "num": 370019,
+        "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+        "onboard_time": 1698726214,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343953,
+        "num": 343953,
+        "word": "Karsa疑似参加WBG训练赛",
+        "onboard_time": 1698741870,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1007872,
+        "num": 343882,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721052,
+        "num": 332988,
+        "word": "多部门介入学生被逼吃粪便事件",
+        "onboard_time": 1698731671,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742511,
+        "num": 326359,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573730,
+        "num": 324113,
+        "word": "以色列在联大展示斩首视频",
+        "onboard_time": 1698739893,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 448244,
+        "num": 315920,
+        "word": "李佳琦回应最低价争夺",
+        "onboard_time": 1698732510,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 398520,
+        "num": 306094,
+        "word": "张馨予针灸是为了治疗长痘",
+        "onboard_time": 1698742893,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305444,
+        "num": 305444,
+        "word": "浪姐2024拟邀嘉宾",
+        "onboard_time": 1698737012,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291806,
+        "num": 291806,
+        "word": "伍佰叫伍佰的原因",
+        "onboard_time": 1698738813,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275576,
+        "num": 275576,
+        "word": "王者荣耀",
+        "onboard_time": 1698741388,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103944,
+        "num": 262855,
+        "word": "郁美净打造大叔团教网友做搓脸操",
+        "onboard_time": 1698744034,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 441939,
+        "num": 262594,
+        "word": "戴口罩戴口罩戴口罩",
+        "onboard_time": 1698740912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260415,
+        "num": 260415,
+        "word": "宋仲基说和儿子还不熟",
+        "onboard_time": 1698726214,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235462,
+        "num": 235462,
+        "word": "有人自林中坠落",
+        "onboard_time": 1698743554,
+        "rank": 22,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 220301,
+        "num": 220301,
+        "word": "娜扎万圣节cos",
+        "onboard_time": 1698736051,
+        "rank": 23,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 215234,
+        "num": 215234,
+        "word": "李一桐cos小恶魔",
+        "onboard_time": 1698744690,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 202452,
+        "num": 202452,
+        "word": "广州医生用病人肚腩再造乳房",
+        "onboard_time": 1698741633,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200861,
+        "num": 200861,
+        "word": "张小斐 让红姐少亲点吧",
+        "onboard_time": 1698731250,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192331,
+        "num": 192331,
+        "word": "宋雨琦首个国产剧OST",
+        "onboard_time": 1698740011,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199052,
+        "num": 191035,
+        "word": "王子异 瘦不代表美",
+        "onboard_time": 1698743672,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186410,
+        "num": 186410,
+        "word": "当我知道领导月薪十万后",
+        "onboard_time": 1698733530,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181838,
+        "num": 181838,
+        "word": "哈登加盟快船",
+        "onboard_time": 1698732811,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179155,
+        "num": 179155,
+        "word": "伍佰叫伍佰 我叫二百五",
+        "onboard_time": 1698744512,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158125,
+        "num": 158125,
+        "word": "林子烨回击郭敬明",
+        "onboard_time": 1698735694,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155351,
+        "num": 155351,
+        "word": "为什么不出一档男人体验女婿的综艺",
+        "onboard_time": 1698740670,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153298,
+        "num": 153298,
+        "word": "上班的时候吃就是三份苦了",
+        "onboard_time": 1698743491,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150682,
+        "num": 150682,
+        "word": "梅西 这个奖杯属于我也同样属于你们",
+        "onboard_time": 1698744212,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149211,
+        "num": 149211,
+        "word": "迪丽热巴秦岚胡先煦挡脸合影",
+        "onboard_time": 1698738992,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148568,
+        "num": 148568,
+        "word": "秦岚声带出了问题",
+        "onboard_time": 1698731613,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147840,
+        "num": 147840,
+        "word": "虞书欣亮片粉玫瑰裙",
+        "onboard_time": 1698743794,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144583,
+        "num": 144583,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 143299,
+        "num": 143299,
+        "word": "刘诗诗好有冲击力的美",
+        "onboard_time": 1698738155,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131838,
+        "num": 131838,
+        "word": "唐嫣羊毛卷冻伤妆",
+        "onboard_time": 1698735212,
+        "rank": 41,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 129524,
+        "num": 129524,
+        "word": "科学家找到癌细胞的生死开关",
+        "onboard_time": 1698733530,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128434,
+        "num": 128434,
+        "word": "恒大歌舞团4年间由78人参保减为0",
+        "onboard_time": 1698737193,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117232,
+        "num": 117232,
+        "word": "NBA西部更乱了",
+        "onboard_time": 1698736892,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 113265,
+        "word": "男子晒出结婚多年生9女1男",
+        "onboard_time": 1698725855,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110565,
+        "num": 110565,
+        "word": "博士乘组回家",
+        "onboard_time": 1698742773,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 108011,
+        "num": 108011,
+        "word": "16岁溺水少年手写感谢信赠民警",
+        "onboard_time": 1698740731,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107187,
+        "num": 107187,
+        "word": "萧亚轩混血烟熏妆",
+        "onboard_time": 1698732871,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 34954,
+        "num": 107118,
+        "word": "通义千问2.0版本发布",
+        "onboard_time": 1698744512,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
