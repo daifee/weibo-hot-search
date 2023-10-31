@@ -1,0 +1,410 @@
+{
+  "runTime": 1698743838864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 916796,
+        "num": 916796,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1315657,
+        "num": 895540,
+        "word": "西贝回应3只蒸饺29元",
+        "onboard_time": 1698740670,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 60030,
+        "num": 809100,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1279955,
+        "num": 738147,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035647,
+        "num": 677381,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 4,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 670984,
+        "num": 670984,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 491179,
+        "num": 491179,
+        "word": "王者荣耀",
+        "onboard_time": 1698741388,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 446472,
+        "num": 446472,
+        "word": "Karsa疑似参加WBG训练赛",
+        "onboard_time": 1698741870,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383295,
+        "num": 383295,
+        "word": "浪姐2024拟邀嘉宾",
+        "onboard_time": 1698737012,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381517,
+        "num": 381517,
+        "word": "伍佰叫伍佰的原因",
+        "onboard_time": 1698738813,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 978985,
+        "num": 381391,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822359,
+        "num": 374338,
+        "word": "多部门介入学生被逼吃粪便事件",
+        "onboard_time": 1698731671,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901342,
+        "num": 369942,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603955,
+        "num": 364471,
+        "word": "李佳琦回应最低价争夺",
+        "onboard_time": 1698732510,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 597662,
+        "num": 357393,
+        "word": "以色列在联大展示斩首视频",
+        "onboard_time": 1698739893,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 357353,
+        "num": 357353,
+        "word": "长沙被打破头骨女孩已出院",
+        "onboard_time": 1698742172,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338506,
+        "num": 338506,
+        "word": "宋仲基说和儿子还不熟",
+        "onboard_time": 1698726214,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334518,
+        "num": 334518,
+        "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+        "onboard_time": 1698726214,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276800,
+        "num": 276800,
+        "word": "张馨予针灸是为了治疗长痘",
+        "onboard_time": 1698742893,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275131,
+        "num": 275131,
+        "word": "娜扎万圣节cos",
+        "onboard_time": 1698736051,
+        "rank": 19,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 428997,
+        "num": 260512,
+        "word": "戴口罩戴口罩戴口罩",
+        "onboard_time": 1698740912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306675,
+        "num": 243249,
+        "word": "一念关山",
+        "onboard_time": 1698742412,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224375,
+        "num": 224375,
+        "word": "张小斐 让红姐少亲点吧",
+        "onboard_time": 1698731250,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219927,
+        "num": 219927,
+        "word": "哈登加盟快船",
+        "onboard_time": 1698732811,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202494,
+        "num": 202494,
+        "word": "有人自林中坠落",
+        "onboard_time": 1698743554,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 200401,
+        "num": 200401,
+        "word": "林子烨回击郭敬明",
+        "onboard_time": 1698735694,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198654,
+        "num": 198654,
+        "word": "博士乘组回家",
+        "onboard_time": 1698742773,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 197240,
+        "num": 197240,
+        "word": "宋雨琦首个国产剧OST",
+        "onboard_time": 1698740011,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193483,
+        "num": 193483,
+        "word": "恒大歌舞团4年间由78人参保减为0",
+        "onboard_time": 1698737193,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190862,
+        "num": 190862,
+        "word": "刘诗诗好有冲击力的美",
+        "onboard_time": 1698738155,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212297,
+        "num": 190242,
+        "word": "广州医生用病人肚腩再造乳房",
+        "onboard_time": 1698741633,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188709,
+        "num": 188709,
+        "word": "当我知道领导月薪十万后",
+        "onboard_time": 1698733530,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "为什么不出一档男人体验女婿的综艺",
+        "onboard_time": 1698740670,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170891,
+        "num": 170891,
+        "word": "迪丽热巴秦岚胡先煦挡脸合影",
+        "onboard_time": 1698738992,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154577,
+        "num": 154577,
+        "word": "秦岚声带出了问题",
+        "onboard_time": 1698731613,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150559,
+        "num": 150559,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 143418,
+        "num": 143418,
+        "word": "唐嫣羊毛卷冻伤妆",
+        "onboard_time": 1698735212,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 139615,
+        "num": 139615,
+        "word": "科学家找到癌细胞的生死开关",
+        "onboard_time": 1698733530,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133363,
+        "num": 133363,
+        "word": "16岁溺水少年手写感谢信赠民警",
+        "onboard_time": 1698740731,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126853,
+        "num": 126853,
+        "word": "男子晒出结婚多年生9女1男",
+        "onboard_time": 1698725855,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123847,
+        "num": 123847,
+        "word": "上班的时候吃就是三份苦了",
+        "onboard_time": 1698743491,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123223,
+        "num": 123223,
+        "word": "惹谁不好惹爱写字的",
+        "onboard_time": 1698739235,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121137,
+        "num": 121137,
+        "word": "王子异 瘦不代表美",
+        "onboard_time": 1698743672,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116404,
+        "num": 116404,
+        "word": "NBA西部更乱了",
+        "onboard_time": 1698736892,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108268,
+        "num": 108268,
+        "word": "被采销小哥的带货方式震惊到",
+        "onboard_time": 1698740852,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104650,
+        "num": 104650,
+        "word": "张硕 再这样就不地道了",
+        "onboard_time": 1698739471,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103502,
+        "num": 103502,
+        "word": "睡在猪圈上是什么样的体验",
+        "onboard_time": 1698741513,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102938,
+        "num": 102938,
+        "word": "虞书欣亮片粉玫瑰裙",
+        "onboard_time": 1698743794,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102455,
+        "num": 102455,
+        "word": "老友记五人组将参加马修葬礼",
+        "onboard_time": 1698740073,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100178,
+        "num": 100178,
+        "word": "神十六航天员平安抵京",
+        "onboard_time": 1698738632,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 16:34:30
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 17:17:18
 </p>
 </blockquote>
 <p>
@@ -4665,6 +4665,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%9B%9E%E5%BA%943%E5%8F%AA%E8%92%B8%E9%A5%BA29%E5%85%83%23" target="weibo">
+西贝回应3只蒸饺29元（热度：1315657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B750%E5%A4%9A%E5%A4%A924%E5%B2%81%E4%BA%A7%E5%A6%87%E9%81%97%E6%86%BE%E7%A6%BB%E5%BC%80%E4%BA%BA%E4%B8%96%23" target="weibo">
 昏迷50多天24岁产妇遗憾离开人世（热度：1315509）
 </a>
@@ -6005,12 +6011,6 @@ papi酱 老板直播间（热度：1083020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%9C%A8%E7%BE%8E%E5%90%90%E6%A7%BD%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E6%B3%9B%E6%BB%A5%23" target="weibo">
 陈奕迅在美吐槽旧金山街头吸毒泛滥（热度：1077530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E4%B8%A4%E8%BF%9E%E8%B4%A5%23" target="weibo">
-WBG两连败（热度：1076997）
 </a>
 </li>
 
