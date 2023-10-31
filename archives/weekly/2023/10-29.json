@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698734134781,
+  "endTime": 1698736537975,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -203,6 +203,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1765049,
+      "num": 1038837,
+      "word": "李佳琦回应最低价争夺",
+      "onboard_time": 1698732510,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1759986,
       "num": 1759986,
       "word": "小S许雅钧cos",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 1704546,
-      "num": 929473,
+      "num": 1060260,
       "word": "头发夹在耳后显脸小的正确方法",
       "onboard_time": 1698722012,
       "rank": 18,
@@ -241,6 +249,14 @@
       "onboard_time": 1698639035,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1672955,
+      "num": 449967,
+      "word": "Lisa万圣节cos木偶女孩",
+      "onboard_time": 1698734970,
+      "rank": 10,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 1608139,
@@ -427,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1202455,
-      "num": 1038837,
-      "word": "李佳琦回应最低价争夺",
-      "onboard_time": 1698732510,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1177180,
       "num": 1177180,
       "word": "小虎在干嘛",
@@ -520,6 +528,14 @@
       "word": "印度富豪要求年轻人每周工作70小时",
       "onboard_time": 1698629314,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1051418,
+      "num": 431920,
+      "word": "多部门介入学生被逼吃粪便事件",
+      "onboard_time": 1698731671,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -641,14 +657,6 @@
       "onboard_time": 1698677375,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 940147,
-      "num": 397167,
-      "word": "多部门介入学生被逼吃粪便事件",
-      "onboard_time": 1698731671,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 939251,
@@ -937,6 +945,14 @@
       "onboard_time": 1698575859,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756243,
+      "num": 412229,
+      "word": "娜扎万圣节cos",
+      "onboard_time": 1698736051,
+      "rank": 15,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 752972,
@@ -1899,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461875,
+      "num": 461875,
+      "word": "科学家找到癌细胞的生死开关",
+      "onboard_time": 1698733530,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 461189,
       "num": 328700,
       "word": "王栎鑫五公第一",
@@ -2331,6 +2355,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 359090,
+      "num": 359090,
+      "word": "林子烨回击郭敬明",
+      "onboard_time": 1698735694,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358446,
+      "num": 456001,
+      "word": "阿斐家规很严的",
+      "onboard_time": 1698734789,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358299,
       "num": 358299,
       "word": "beryl回应抽签",
@@ -2476,7 +2516,7 @@
     },
     {
       "raw_hot": 334858,
-      "num": 288264,
+      "num": 328281,
       "word": "当我知道领导月薪十万后",
       "onboard_time": 1698733530,
       "rank": 20,
@@ -3043,6 +3083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269465,
+      "num": 269465,
+      "word": "唐嫣羊毛卷冻伤妆",
+      "onboard_time": 1698735212,
+      "rank": 24,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 268825,
       "num": 268825,
       "word": "张杰没看完邓紫棋MV被抓包",
@@ -3137,14 +3185,6 @@
       "onboard_time": 1698591097,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260895,
-      "num": 260895,
-      "word": "科学家找到癌细胞的生死开关",
-      "onboard_time": 1698733530,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 260431,
@@ -4331,6 +4371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199793,
+      "num": 199793,
+      "word": "陈绮贞cos",
+      "onboard_time": 1698734313,
+      "rank": 27,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 199621,
       "num": 199621,
       "word": "花儿与少年",
@@ -4937,6 +4985,14 @@
       "onboard_time": 1698648152,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183834,
+      "num": 183834,
+      "word": "贾玲给张小斐做的海报",
+      "onboard_time": 1698735454,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 183571,
@@ -5715,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "罗云熙章若楠30秒吻戏",
+      "onboard_time": 1698734372,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157915,
       "num": 157915,
       "word": "秦岚嗓子虽然不好但话一句不少说",
@@ -6091,6 +6155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 144878,
+      "num": 144878,
+      "word": "明星到我家这种综艺意义在哪",
+      "onboard_time": 1698736112,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143201,
       "num": 143201,
       "word": "于和伟在准备演精神病了",
@@ -6185,6 +6257,14 @@
       "onboard_time": 1698590856,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140751,
+      "num": 140751,
+      "word": "一身反骨张拿铁",
+      "onboard_time": 1698735753,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 140631,
@@ -6393,6 +6473,14 @@
       "onboard_time": 1698627152,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133241,
+      "num": 133241,
+      "word": "DWG夺冠三周年",
+      "onboard_time": 1698735990,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 133219,
@@ -6915,6 +7003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 117831,
+      "num": 165925,
+      "word": "梅见主播因宣传费减少直播哭了",
+      "onboard_time": 1698735871,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117651,
       "num": 117651,
       "word": "退休前最后一课丈夫捧着鲜花接她",
@@ -7427,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95537,
+      "num": 95537,
+      "word": "超适合淡颜的白开水妆",
+      "onboard_time": 1698735454,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 95047,
       "num": 95047,
       "word": "天官赐福动画开播三周年",
@@ -7465,6 +7569,14 @@
       "onboard_time": 1698535163,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 91003,
+      "word": "76人大甩卖",
+      "onboard_time": 1698736472,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90931,
@@ -7723,6 +7835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55185,
+      "num": 444252,
+      "word": "年轻人的必备房搭子",
+      "onboard_time": 1698735394,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54813,
       "num": 221286,
       "word": "天猫把购物车推进王者峡谷",
@@ -7945,6 +8065,14 @@
       "onboard_time": 1698548553,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18534,
+      "num": 420577,
+      "word": "和毛雪汪一起付天猫双11尾款",
+      "onboard_time": 1698735633,
+      "rank": 14,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 15354,

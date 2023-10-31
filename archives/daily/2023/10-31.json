@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698734134781,
+  "endTime": 1698736537975,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -43,6 +43,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1765049,
+      "num": 1038837,
+      "word": "李佳琦回应最低价争夺",
+      "onboard_time": 1698732510,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1755268,
       "num": 1755268,
       "word": "苹果发布会",
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 1704546,
-      "num": 929473,
+      "num": 1060260,
       "word": "头发夹在耳后显脸小的正确方法",
       "onboard_time": 1698722012,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1672955,
+      "num": 449967,
+      "word": "Lisa万圣节cos木偶女孩",
+      "onboard_time": 1698734970,
+      "rank": 10,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 1555743,
@@ -99,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1202455,
-      "num": 1038837,
-      "word": "李佳琦回应最低价争夺",
-      "onboard_time": 1698732510,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1174338,
       "num": 1081038,
       "word": "哈登加盟快船",
@@ -137,6 +145,14 @@
       "onboard_time": 1698726214,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1051418,
+      "num": 431920,
+      "word": "多部门介入学生被逼吃粪便事件",
+      "onboard_time": 1698731671,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039339,
@@ -187,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 940147,
-      "num": 397167,
-      "word": "多部门介入学生被逼吃粪便事件",
-      "onboard_time": 1698731671,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 900442,
       "num": 900442,
       "word": "外卖漏送米饭被要求191元整单退款",
@@ -233,6 +241,14 @@
       "onboard_time": 1698719074,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 756243,
+      "num": 412229,
+      "word": "娜扎万圣节cos",
+      "onboard_time": 1698736051,
+      "rank": 15,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 748038,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461875,
+      "num": 461875,
+      "word": "科学家找到癌细胞的生死开关",
+      "onboard_time": 1698733530,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 456255,
       "num": 456255,
       "word": "00后特殊爱好被妈妈支持",
@@ -467,6 +491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359090,
+      "num": 359090,
+      "word": "林子烨回击郭敬明",
+      "onboard_time": 1698735694,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358446,
+      "num": 456001,
+      "word": "阿斐家规很严的",
+      "onboard_time": 1698734789,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356951,
       "num": 356951,
       "word": "你用过夸克吗",
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 334858,
-      "num": 288264,
+      "num": 328281,
       "word": "当我知道领导月薪十万后",
       "onboard_time": 1698733530,
       "rank": 20,
@@ -627,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269465,
+      "num": 269465,
+      "word": "唐嫣羊毛卷冻伤妆",
+      "onboard_time": 1698735212,
+      "rank": 24,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 266315,
       "num": 266315,
       "word": "刘耀文这泼天的酱板鸭",
@@ -641,14 +689,6 @@
       "onboard_time": 1698712358,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260895,
-      "num": 260895,
-      "word": "科学家找到癌细胞的生死开关",
-      "onboard_time": 1698733530,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 259940,
@@ -923,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199793,
+      "num": 199793,
+      "word": "陈绮贞cos",
+      "onboard_time": 1698734313,
+      "rank": 27,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 197771,
       "num": 197771,
       "word": "博士乘组着陆后报告感觉很好",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1698718474,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183834,
+      "num": 183834,
+      "word": "贾玲给张小斐做的海报",
+      "onboard_time": 1698735454,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 180984,
@@ -1251,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "罗云熙章若楠30秒吻戏",
+      "onboard_time": 1698734372,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157387,
       "num": 157387,
       "word": "神十六任务圆满成功",
@@ -1307,6 +1371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144878,
+      "num": 144878,
+      "word": "明星到我家这种综艺意义在哪",
+      "onboard_time": 1698736112,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142957,
       "num": 142957,
       "word": "梁洁清透蒸馏系妆容",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1698667173,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140751,
+      "num": 140751,
+      "word": "一身反骨张拿铁",
+      "onboard_time": 1698735753,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 140660,
@@ -1401,6 +1481,14 @@
       "onboard_time": 1698713612,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133241,
+      "num": 133241,
+      "word": "DWG夺冠三周年",
+      "onboard_time": 1698735990,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 132546,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1698673054,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 117831,
+      "num": 165925,
+      "word": "梅见主播因宣传费减少直播哭了",
+      "onboard_time": 1698735871,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117651,
@@ -1731,12 +1827,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95537,
+      "num": 95537,
+      "word": "超适合淡颜的白开水妆",
+      "onboard_time": 1698735454,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 95047,
       "num": 95047,
       "word": "天官赐福动画开播三周年",
       "onboard_time": 1698708386,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 91003,
+      "word": "76人大甩卖",
+      "onboard_time": 1698736472,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90035,
@@ -1817,6 +1929,14 @@
       "onboard_time": 1698684863,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55185,
+      "num": 444252,
+      "word": "年轻人的必备房搭子",
+      "onboard_time": 1698735394,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 55150,
@@ -1921,6 +2041,14 @@
       "onboard_time": 1698690735,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18534,
+      "num": 420577,
+      "word": "和毛雪汪一起付天猫双11尾款",
+      "onboard_time": 1698735633,
+      "rank": 14,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 12164,
