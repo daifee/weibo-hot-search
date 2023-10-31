@@ -1,0 +1,410 @@
+{
+  "runTime": 1698722268999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5020059,
+        "num": 5020059,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 583655,
+        "num": 583655,
+        "word": "花西子跌出天猫双十一彩妆预售榜前20",
+        "onboard_time": 1698708506,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 9159,
+        "num": 523615,
+        "word": "直击第六届进博会",
+        "onboard_time": 1698669755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513215,
+        "num": 513215,
+        "word": "朋友30岁癌症去世生前说他反而很开心",
+        "onboard_time": 1698671555,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504487,
+        "num": 504487,
+        "word": "居然在韩国KBS看到袁娅维",
+        "onboard_time": 1698716368,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1424248,
+        "num": 504359,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 503396,
+        "num": 503396,
+        "word": "藏海戏麟改名 藏海传",
+        "onboard_time": 1698720692,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465596,
+        "num": 465596,
+        "word": "没有iPad",
+        "onboard_time": 1698716308,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381183,
+        "num": 381183,
+        "word": "廊坊地震",
+        "onboard_time": 1698718593,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369920,
+        "num": 369920,
+        "word": "马立奥的英文单词量比张拿铁都多",
+        "onboard_time": 1698720454,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74265,
+        "num": 332802,
+        "word": "听歌时有必要开无损吗",
+        "onboard_time": 1698719613,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2804133,
+        "num": 330010,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555398,
+        "num": 328830,
+        "word": "恒大歌舞团团长白珊珊发声",
+        "onboard_time": 1698717388,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321955,
+        "num": 321955,
+        "word": "刘宇万圣节cos朱迪兔子警官",
+        "onboard_time": 1698713073,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 110294,
+        "num": 281405,
+        "word": "京东和哈利波特联名啦",
+        "onboard_time": 1698721234,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 277072,
+        "num": 277072,
+        "word": "周迅教你演尸体",
+        "onboard_time": 1698721354,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245054,
+        "num": 245054,
+        "word": "小学生刮蹭私家车留纸条提出分期付款",
+        "onboard_time": 1698719315,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235904,
+        "num": 235904,
+        "word": "为有暗香来 长公主",
+        "onboard_time": 1698721591,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225233,
+        "num": 225233,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 235874,
+        "num": 225181,
+        "word": "第一次觉得男女主be不可惜的",
+        "onboard_time": 1698677375,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760310,
+        "num": 225143,
+        "word": "乳腺结节真是气出来的吗",
+        "onboard_time": 1698719074,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224063,
+        "num": 224063,
+        "word": "夸克",
+        "onboard_time": 1698708869,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213290,
+        "num": 213290,
+        "word": "库里被鹈鹕全场狂嘘",
+        "onboard_time": 1698721114,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204589,
+        "num": 204589,
+        "word": "巨好吃却最长肉的食物是什么",
+        "onboard_time": 1698710794,
+        "rank": 23,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 197066,
+        "num": 197066,
+        "word": "警方申请确认权志龙通话内容被驳回",
+        "onboard_time": 1698718174,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194691,
+        "num": 194691,
+        "word": "完蛋了 来不及交稿了啊",
+        "onboard_time": 1698719254,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192940,
+        "num": 192940,
+        "word": "苹果称iOS17.2将解决WiFi连接问题",
+        "onboard_time": 1698719013,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192394,
+        "num": 192394,
+        "word": "2023MAMA第二轮阵容",
+        "onboard_time": 1698717388,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187037,
+        "num": 187037,
+        "word": "钟楚曦14秒换了3套衣服",
+        "onboard_time": 1698678575,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179917,
+        "num": 179917,
+        "word": "山西一患者疑被医生输入禁忌药物致死",
+        "onboard_time": 1698716431,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171881,
+        "num": 171881,
+        "word": "国乒世界排名四项第一",
+        "onboard_time": 1698719433,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171467,
+        "num": 171467,
+        "word": "模仿成龙整活让我上错了动车",
+        "onboard_time": 1698721773,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 171291,
+        "num": 171291,
+        "word": "三大队新狱告",
+        "onboard_time": 1698722132,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169626,
+        "num": 169626,
+        "word": "毛不易做饭尝都尝饱了",
+        "onboard_time": 1698720574,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 159267,
+        "word": "秋冬氛围感的千金发型",
+        "onboard_time": 1698721354,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159122,
+        "num": 159122,
+        "word": "高三最后一次运动会同学们牵手一起冲线",
+        "onboard_time": 1698721414,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141639,
+        "num": 141639,
+        "word": "花少团真的好爱王安宇",
+        "onboard_time": 1698712776,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141103,
+        "num": 141103,
+        "word": "00后特殊爱好被妈妈支持",
+        "onboard_time": 1698714873,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 139740,
+        "word": "iPhone16Pro或进一步上调售价",
+        "onboard_time": 1698710915,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137711,
+        "num": 137711,
+        "word": "库里42分",
+        "onboard_time": 1698721532,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136927,
+        "num": 136927,
+        "word": "C罗",
+        "onboard_time": 1698715650,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133760,
+        "num": 133760,
+        "word": "神十六成功着陆",
+        "onboard_time": 1698712174,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132072,
+        "num": 132072,
+        "word": "夸克回应被罚",
+        "onboard_time": 1698678517,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126211,
+        "num": 126211,
+        "word": "孙女在奶奶嫁妆柜子里发现了暗格",
+        "onboard_time": 1698707064,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124251,
+        "num": 124251,
+        "word": "万圣节徐冬冬cos终于来了",
+        "onboard_time": 1698674558,
+        "rank": 44,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 119430,
+        "num": 119430,
+        "word": "梅西获得第八座金球奖",
+        "onboard_time": 1698707064,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114330,
+        "num": 114330,
+        "word": "史上最短苹果发布会",
+        "onboard_time": 1698714873,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107958,
+        "num": 107958,
+        "word": "胡先煦躲过了霸天虎过山车",
+        "onboard_time": 1698718474,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 971798,
+        "num": 106355,
+        "word": "专家称房价大幅下跌老百姓最吃亏",
+        "onboard_time": 1698718114,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104565,
+        "num": 104565,
+        "word": "缅甸",
+        "onboard_time": 1698673835,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

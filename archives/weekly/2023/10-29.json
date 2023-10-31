@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698719710485,
+  "endTime": 1698722268999,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -33,6 +33,14 @@
       "onboard_time": 1698658291,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2804133,
+      "num": 431686,
+      "word": "李金铭农村婚纱照",
+      "onboard_time": 1698719074,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2777137,
@@ -531,6 +539,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 971798,
+      "num": 431833,
+      "word": "专家称房价大幅下跌老百姓最吃亏",
+      "onboard_time": 1698718114,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 952487,
       "num": 952487,
       "word": "第一批90后已成为中风高发人群",
@@ -593,14 +609,6 @@
       "onboard_time": 1698589896,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 913686,
-      "num": 431833,
-      "word": "专家称房价大幅下跌老百姓最吃亏",
-      "onboard_time": 1698718114,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 909734,
@@ -739,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 813690,
-      "num": 431686,
-      "word": "李金铭农村婚纱照",
-      "onboard_time": 1698719074,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 809314,
       "num": 366701,
       "word": "给安陵容打伞的是晴川",
@@ -833,6 +833,14 @@
       "onboard_time": 1698641322,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760310,
+      "num": 295120,
+      "word": "乳腺结节真是气出来的吗",
+      "onboard_time": 1698719074,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 758804,
@@ -1419,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555398,
+      "num": 430569,
+      "word": "恒大歌舞团团长白珊珊发声",
+      "onboard_time": 1698717388,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554351,
       "num": 269050,
       "word": "何洁减肥大法",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1698585093,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503396,
+      "num": 503396,
+      "word": "藏海戏麟改名 藏海传",
+      "onboard_time": 1698720692,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 502659,
@@ -1777,14 +1801,6 @@
       "onboard_time": 1698560251,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 453654,
-      "num": 430569,
-      "word": "恒大歌舞团团长白珊珊发声",
-      "onboard_time": 1698717388,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452487,
@@ -2083,14 +2099,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 375348,
-      "num": 295120,
-      "word": "乳腺结节真是气出来的吗",
-      "onboard_time": 1698719074,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 374125,
       "num": 374125,
       "word": "辛芷蕾魏大勋演过情侣",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1698715710,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369920,
+      "num": 369920,
+      "word": "马立奥的英文单词量比张拿铁都多",
+      "onboard_time": 1698720454,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 367375,
@@ -2763,6 +2779,14 @@
       "category": "休闲,剧集"
     },
     {
+      "raw_hot": 277072,
+      "num": 277072,
+      "word": "周迅教你演尸体",
+      "onboard_time": 1698721354,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277054,
       "num": 277054,
       "word": "Ame订婚",
@@ -3115,6 +3139,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 245054,
+      "num": 245054,
+      "word": "小学生刮蹭私家车留纸条提出分期付款",
+      "onboard_time": 1698719315,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244748,
       "num": 244748,
       "word": "华浅仲溪午be了",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1698585693,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235904,
+      "num": 235904,
+      "word": "为有暗香来 长公主",
+      "onboard_time": 1698721591,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 235620,
@@ -3425,6 +3465,14 @@
       "onboard_time": 1698538708,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225233,
+      "num": 225233,
+      "word": "头发夹在耳后显脸小的正确方法",
+      "onboard_time": 1698722012,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 224881,
@@ -3593,6 +3641,14 @@
       "onboard_time": 1698635553,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 213290,
+      "num": 213290,
+      "word": "库里被鹈鹕全场狂嘘",
+      "onboard_time": 1698721114,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 212923,
@@ -3971,14 +4027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199156,
-      "num": 199156,
-      "word": "小学生刮蹭私家车留纸条提出分期付款",
-      "onboard_time": 1698719315,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199055,
       "num": 199055,
       "word": "中国航天员完成在轨交接",
@@ -4121,6 +4169,14 @@
       "onboard_time": 1698588035,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194691,
+      "num": 194691,
+      "word": "完蛋了 来不及交稿了啊",
+      "onboard_time": 1698719254,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194536,
@@ -4827,6 +4883,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 171881,
+      "num": 171881,
+      "word": "国乒世界排名四项第一",
+      "onboard_time": 1698719433,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171734,
       "num": 171734,
       "word": "村民拔河式拉回被困轿车",
@@ -4835,12 +4899,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171467,
+      "num": 171467,
+      "word": "模仿成龙整活让我上错了动车",
+      "onboard_time": 1698721773,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 171411,
       "num": 171411,
       "word": "杭州菜场火锅火了",
       "onboard_time": 1698678275,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171291,
+      "num": 171291,
+      "word": "三大队新狱告",
+      "onboard_time": 1698722132,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 171101,
@@ -4873,6 +4953,14 @@
       "onboard_time": 1698585759,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169626,
+      "num": 169626,
+      "word": "毛不易做饭尝都尝饱了",
+      "onboard_time": 1698720574,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 169356,
@@ -5155,20 +5243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159267,
+      "num": 159267,
+      "word": "秋冬氛围感的千金发型",
+      "onboard_time": 1698721354,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 159122,
+      "num": 159122,
+      "word": "高三最后一次运动会同学们牵手一起冲线",
+      "onboard_time": 1698721414,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159015,
       "num": 159015,
       "word": "桂海潮已经在期待下次太空出差了",
       "onboard_time": 1698717689,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158693,
-      "num": 158693,
-      "word": "国乒世界排名四项第一",
-      "onboard_time": 1698719433,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 158588,
@@ -5697,6 +5793,14 @@
       "onboard_time": 1698567752,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137711,
+      "num": 137711,
+      "word": "库里42分",
+      "onboard_time": 1698721532,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 137662,
@@ -6435,6 +6539,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110294,
+      "num": 281405,
+      "word": "京东和哈利波特联名啦",
+      "onboard_time": 1698721234,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110180,
       "num": 142423,
       "word": "女子地铁突发癫痫摔破脸急坏民警",
@@ -6843,6 +6955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74265,
+      "num": 332802,
+      "word": "听歌时有必要开无损吗",
+      "onboard_time": 1698719613,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 73840,
       "num": 97690,
       "word": "小孩姐的全开麦惊艳到我了",
@@ -6873,14 +6993,6 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 68943,
-      "num": 145355,
-      "word": "听歌时有必要开无损吗",
-      "onboard_time": 1698719613,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 67548,
