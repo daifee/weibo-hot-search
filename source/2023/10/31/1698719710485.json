@@ -1,0 +1,410 @@
+{
+  "runTime": 1698719710485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6108924,
+        "num": 7358924,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1730248,
+        "num": 1730248,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 15575,
+        "num": 1009299,
+        "word": "直击第六届进博会",
+        "onboard_time": 1698669755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919585,
+        "num": 919585,
+        "word": "神十六成功着陆",
+        "onboard_time": 1698712174,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678853,
+        "num": 678853,
+        "word": "没有iPad",
+        "onboard_time": 1698716308,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 671003,
+        "num": 671003,
+        "word": "花西子跌出天猫双十一彩妆预售榜前20",
+        "onboard_time": 1698708506,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 575778,
+        "num": 575778,
+        "word": "居然在韩国KBS看到袁娅维",
+        "onboard_time": 1698716368,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519538,
+        "num": 519538,
+        "word": "朋友30岁癌症去世生前说他反而很开心",
+        "onboard_time": 1698671555,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464454,
+        "num": 464454,
+        "word": "廊坊地震",
+        "onboard_time": 1698718593,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431935,
+        "num": 431935,
+        "word": "第一次觉得男女主be不可惜的",
+        "onboard_time": 1698677375,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 913686,
+        "num": 431833,
+        "word": "专家称房价大幅下跌老百姓最吃亏",
+        "onboard_time": 1698718114,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 813690,
+        "num": 431686,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504554,
+        "num": 431445,
+        "word": "刘宇万圣节cos朱迪兔子警官",
+        "onboard_time": 1698713073,
+        "rank": 12,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 430569,
+        "num": 430569,
+        "word": "恒大歌舞团团长白珊珊发声",
+        "onboard_time": 1698717388,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98084,
+        "num": 400577,
+        "word": "iPhone15这些功能你都会用吗",
+        "onboard_time": 1698717630,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373303,
+        "num": 373303,
+        "word": "神十六航天员安全顺利出舱",
+        "onboard_time": 1698715710,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353290,
+        "num": 353290,
+        "word": "巨好吃却最长肉的食物是什么",
+        "onboard_time": 1698710794,
+        "rank": 16,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 328856,
+        "num": 328856,
+        "word": "钟楚曦14秒换了3套衣服",
+        "onboard_time": 1698678575,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319040,
+        "num": 319040,
+        "word": "警方申请确认权志龙通话内容被驳回",
+        "onboard_time": 1698718174,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307321,
+        "num": 307321,
+        "word": "花少团真的好爱王安宇",
+        "onboard_time": 1698712776,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375348,
+        "num": 295120,
+        "word": "乳腺结节真是气出来的吗",
+        "onboard_time": 1698719074,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276784,
+        "num": 276784,
+        "word": "2023MAMA第二轮阵容",
+        "onboard_time": 1698717388,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268557,
+        "num": 268557,
+        "word": "被孙子污蔑弄湿床垫印度老人遭儿子殴打",
+        "onboard_time": 1698677019,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263357,
+        "num": 263357,
+        "word": "缅甸",
+        "onboard_time": 1698673835,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 236503,
+        "num": 236503,
+        "word": "新郎接亲遇最强伴娘天团",
+        "onboard_time": 1698714691,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235117,
+        "num": 235117,
+        "word": "00后特殊爱好被妈妈支持",
+        "onboard_time": 1698714873,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227316,
+        "num": 227316,
+        "word": "C罗",
+        "onboard_time": 1698715650,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218621,
+        "num": 218621,
+        "word": "山西一患者疑被医生输入禁忌药物致死",
+        "onboard_time": 1698716431,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208493,
+        "num": 208493,
+        "word": "苹果称iOS17.2将解决WiFi连接问题",
+        "onboard_time": 1698719013,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200099,
+        "num": 200099,
+        "word": "iPhone16Pro或进一步上调售价",
+        "onboard_time": 1698710915,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199156,
+        "num": 199156,
+        "word": "小学生刮蹭私家车留纸条提出分期付款",
+        "onboard_time": 1698719315,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196677,
+        "num": 196677,
+        "word": "史上最短苹果发布会",
+        "onboard_time": 1698714873,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183279,
+        "num": 183279,
+        "word": "去太空出差的导师回来了",
+        "onboard_time": 1698718054,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180682,
+        "num": 180682,
+        "word": "刘耀文这泼天的酱板鸭",
+        "onboard_time": 1698714992,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175719,
+        "num": 175719,
+        "word": "11月这些新规施行",
+        "onboard_time": 1698719074,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171053,
+        "num": 171053,
+        "word": "夸克",
+        "onboard_time": 1698708869,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164945,
+        "num": 164945,
+        "word": "万圣节徐冬冬cos终于来了",
+        "onboard_time": 1698674558,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 163823,
+        "num": 163823,
+        "word": "勇士三连胜",
+        "onboard_time": 1698719613,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163704,
+        "num": 163704,
+        "word": "苹果发布会",
+        "onboard_time": 1698711034,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110161,
+        "num": 160283,
+        "word": "核能充电宝上架淘宝",
+        "onboard_time": 1698717630,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159005,
+        "num": 159005,
+        "word": "内娱古现双绝的明星",
+        "onboard_time": 1698712358,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158693,
+        "num": 158693,
+        "word": "国乒世界排名四项第一",
+        "onboard_time": 1698719433,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158561,
+        "num": 158561,
+        "word": "胡先煦躲过了霸天虎过山车",
+        "onboard_time": 1698718474,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156195,
+        "num": 156195,
+        "word": "梅西获得第八座金球奖",
+        "onboard_time": 1698707064,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154157,
+        "num": 154157,
+        "word": "孙女在奶奶嫁妆柜子里发现了暗格",
+        "onboard_time": 1698707064,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68943,
+        "num": 145355,
+        "word": "听歌时有必要开无损吗",
+        "onboard_time": 1698719613,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144051,
+        "num": 144051,
+        "word": "李健 情敌",
+        "onboard_time": 1698709409,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137662,
+        "num": 137662,
+        "word": "桂老师交代的作业完成了吗",
+        "onboard_time": 1698719674,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136179,
+        "num": 136179,
+        "word": "谢可寅 以后再也不会有THE9了",
+        "onboard_time": 1698679593,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132659,
+        "num": 132659,
+        "word": "夸克回应被罚",
+        "onboard_time": 1698678517,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进新时代党的民族工作高质量发展#"
+    }
+  }
+}

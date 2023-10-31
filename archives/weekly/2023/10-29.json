@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698719054555,
+  "endTime": 1698719710485,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -195,8 +195,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1709100,
-      "num": 1709100,
+      "raw_hot": 1730248,
+      "num": 1730248,
       "word": "加沙孕妇在无麻醉下接受剖腹产",
       "onboard_time": 1698716487,
       "rank": 1,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913686,
+      "num": 431833,
+      "word": "专家称房价大幅下跌老百姓最吃亏",
+      "onboard_time": 1698718114,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 909734,
       "num": 642579,
       "word": "字节跳动除夕放假",
@@ -729,6 +737,14 @@
       "onboard_time": 1698546152,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 813690,
+      "num": 431686,
+      "word": "李金铭农村婚纱照",
+      "onboard_time": 1698719074,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 809314,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1698647968,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 634123,
-      "num": 378627,
-      "word": "专家称房价大幅下跌老百姓最吃亏",
-      "onboard_time": 1698718114,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 633108,
@@ -1707,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464454,
+      "num": 464454,
+      "word": "廊坊地震",
+      "onboard_time": 1698718593,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463595,
       "num": 657835,
       "word": "小区没物业67岁阿姨管得井井有条",
@@ -1764,7 +1780,7 @@
     },
     {
       "raw_hot": 453654,
-      "num": 376452,
+      "num": 430569,
       "word": "恒大歌舞团团长白珊珊发声",
       "onboard_time": 1698717388,
       "rank": 12,
@@ -2067,12 +2083,28 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 375348,
+      "num": 295120,
+      "word": "乳腺结节真是气出来的吗",
+      "onboard_time": 1698719074,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 374125,
       "num": 374125,
       "word": "辛芷蕾魏大勋演过情侣",
       "onboard_time": 1698653673,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373303,
+      "num": 373303,
+      "word": "神十六航天员安全顺利出舱",
+      "onboard_time": 1698715710,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367375,
@@ -2097,14 +2129,6 @@
       "onboard_time": 1698677735,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363305,
-      "num": 363305,
-      "word": "神十六航天员安全顺利出舱",
-      "onboard_time": 1698715710,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362625,
@@ -2393,14 +2417,6 @@
       "onboard_time": 1698668314,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 311676,
-      "num": 311676,
-      "word": "廊坊地震",
-      "onboard_time": 1698718593,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310967,
@@ -3643,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208493,
+      "num": 208493,
+      "word": "苹果称iOS17.2将解决WiFi连接问题",
+      "onboard_time": 1698719013,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208139,
       "num": 208139,
       "word": "张真源新歌词曲钟易轩",
@@ -3944,6 +3968,14 @@
       "word": "华侨城就过山车事故发公告致歉",
       "onboard_time": 1698670173,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199156,
+      "num": 199156,
+      "word": "小学生刮蹭私家车留纸条提出分期付款",
+      "onboard_time": 1698719315,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4699,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175719,
+      "num": 175719,
+      "word": "11月这些新规施行",
+      "onboard_time": 1698719074,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175333,
       "num": 175333,
       "word": "国王战胜湖人",
@@ -4995,6 +5035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163823,
+      "num": 163823,
+      "word": "勇士三连胜",
+      "onboard_time": 1698719613,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163799,
       "num": 163799,
       "word": "周也演我画眼线",
@@ -5113,6 +5161,14 @@
       "onboard_time": 1698717689,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158693,
+      "num": 158693,
+      "word": "国乒世界排名四项第一",
+      "onboard_time": 1698719433,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 158588,
@@ -5640,6 +5696,14 @@
       "word": "白化病女孩近距离写作业一次没落下",
       "onboard_time": 1698567752,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137662,
+      "num": 137662,
+      "word": "桂老师交代的作业完成了吗",
+      "onboard_time": 1698719674,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6300,19 +6364,11 @@
     },
     {
       "raw_hot": 114095,
-      "num": 151895,
+      "num": 160283,
       "word": "核能充电宝上架淘宝",
       "onboard_time": 1698717630,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113848,
-      "num": 113848,
-      "word": "苹果称iOS17.2将解决WiFi连接问题",
-      "onboard_time": 1698719013,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 113830,
@@ -6619,6 +6675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98084,
+      "num": 400577,
+      "word": "iPhone15这些功能你都会用吗",
+      "onboard_time": 1698717630,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96726,
       "num": 96726,
       "word": "陈楚生新歌向海而生",
@@ -6795,14 +6859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72781,
-      "num": 371941,
-      "word": "iPhone15这些功能你都会用吗",
-      "onboard_time": 1698717630,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 71917,
       "num": 172615,
       "word": "成都3季度平均租金水平发布",
@@ -6817,6 +6873,14 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68943,
+      "num": 145355,
+      "word": "听歌时有必要开无损吗",
+      "onboard_time": 1698719613,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 67548,

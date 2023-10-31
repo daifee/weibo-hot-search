@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698719054555,
+  "endTime": 1698719710485,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -27,8 +27,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1709100,
-      "num": 1709100,
+      "raw_hot": 1730248,
+      "num": 1730248,
       "word": "加沙孕妇在无麻醉下接受剖腹产",
       "onboard_time": 1698716487,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 913686,
+      "num": 431833,
+      "word": "专家称房价大幅下跌老百姓最吃亏",
+      "onboard_time": 1698718114,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 886902,
       "num": 263818,
       "word": "被孙子污蔑弄湿床垫老人遭儿子殴打",
@@ -113,6 +121,14 @@
       "onboard_time": 1698658291,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 813690,
+      "num": 431686,
+      "word": "李金铭农村婚纱照",
+      "onboard_time": 1698719074,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 779453,
@@ -153,14 +169,6 @@
       "onboard_time": 1698710794,
       "rank": 8,
       "category": "美食,健康医疗"
-    },
-    {
-      "raw_hot": 634123,
-      "num": 378627,
-      "word": "专家称房价大幅下跌老百姓最吃亏",
-      "onboard_time": 1698718114,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 617933,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464454,
+      "num": 464454,
+      "word": "廊坊地震",
+      "onboard_time": 1698718593,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456255,
       "num": 456255,
       "word": "00后特殊爱好被妈妈支持",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 453654,
-      "num": 376452,
+      "num": 430569,
       "word": "恒大歌舞团团长白珊珊发声",
       "onboard_time": 1698717388,
       "rank": 12,
@@ -251,8 +267,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 363305,
-      "num": 363305,
+      "raw_hot": 375348,
+      "num": 295120,
+      "word": "乳腺结节真是气出来的吗",
+      "onboard_time": 1698719074,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 373303,
+      "num": 373303,
       "word": "神十六航天员安全顺利出舱",
       "onboard_time": 1698715710,
       "rank": 29,
@@ -304,14 +328,6 @@
       "word": "胡锡进谈上海万圣节",
       "onboard_time": 1698678575,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311676,
-      "num": 311676,
-      "word": "廊坊地震",
-      "onboard_time": 1698718593,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208493,
+      "num": 208493,
+      "word": "苹果称iOS17.2将解决WiFi连接问题",
+      "onboard_time": 1698719013,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205081,
       "num": 205081,
       "word": "上海万圣节 找个发疯的理由罢了",
@@ -505,6 +529,14 @@
       "onboard_time": 1698650609,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199156,
+      "num": 199156,
+      "word": "小学生刮蹭私家车留纸条提出分期付款",
+      "onboard_time": 1698719315,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197771,
@@ -579,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175719,
+      "num": 175719,
+      "word": "11月这些新规施行",
+      "onboard_time": 1698719074,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175045,
       "num": 175045,
       "word": "胡先煦cos蜘蛛侠",
@@ -627,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163823,
+      "num": 163823,
+      "word": "勇士三连胜",
+      "onboard_time": 1698719613,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162127,
       "num": 184155,
       "word": "业余主播混乱式带货走红网络",
@@ -649,6 +697,14 @@
       "onboard_time": 1698717689,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158693,
+      "num": 158693,
+      "word": "国乒世界排名四项第一",
+      "onboard_time": 1698719433,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 158588,
@@ -731,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137662,
+      "num": 137662,
+      "word": "桂老师交代的作业完成了吗",
+      "onboard_time": 1698719674,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134892,
       "num": 134892,
       "word": "毕业前最后一课学带娃",
@@ -804,7 +868,7 @@
     },
     {
       "raw_hot": 114095,
-      "num": 151895,
+      "num": 160283,
       "word": "核能充电宝上架淘宝",
       "onboard_time": 1698717630,
       "rank": 39,
@@ -817,14 +881,6 @@
       "onboard_time": 1698675875,
       "rank": 35,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 113848,
-      "num": 113848,
-      "word": "苹果称iOS17.2将解决WiFi连接问题",
-      "onboard_time": 1698719013,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 113610,
@@ -939,6 +995,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 98084,
+      "num": 400577,
+      "word": "iPhone15这些功能你都会用吗",
+      "onboard_time": 1698717630,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95047,
       "num": 95047,
       "word": "天官赐福动画开播三周年",
@@ -987,12 +1051,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72781,
-      "num": 371941,
-      "word": "iPhone15这些功能你都会用吗",
-      "onboard_time": 1698717630,
-      "rank": 14,
-      "category": "数码"
+      "raw_hot": 68943,
+      "num": 145355,
+      "word": "听歌时有必要开无损吗",
+      "onboard_time": 1698719613,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 60380,
