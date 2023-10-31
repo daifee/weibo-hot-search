@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698748602878,
+  "endTime": 1698750881120,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -75,6 +75,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1715497,
+      "num": 765147,
+      "word": "李佳琦谈未来两年规划",
+      "onboard_time": 1698746853,
+      "rank": 8,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1704546,
       "num": 1060260,
       "word": "头发夹在耳后显脸小的正确方法",
@@ -113,14 +121,6 @@
       "onboard_time": 1698725313,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1483619,
-      "num": 765147,
-      "word": "李佳琦谈未来两年规划",
-      "onboard_time": 1698746853,
-      "rank": 8,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1335385,
@@ -251,12 +251,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885252,
+      "num": 485287,
+      "word": "女医生水杯遭投多聚甲醛及尿液",
+      "onboard_time": 1698748234,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836452,
+      "num": 717615,
+      "word": "杨紫问谢娜是不是喜欢邓为",
+      "onboard_time": 1698746491,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830393,
       "num": 292456,
       "word": "李金铭14年吃剩的饭被留到现在",
       "onboard_time": 1698658291,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 815664,
+      "num": 485126,
+      "word": "刘诗诗一天穿了六套高定",
+      "onboard_time": 1698749614,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 779453,
@@ -289,14 +313,6 @@
       "onboard_time": 1698678517,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 717615,
-      "num": 717615,
-      "word": "杨紫问谢娜是不是喜欢邓为",
-      "onboard_time": 1698746491,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 699219,
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599231,
+      "num": 485593,
+      "word": "宁静什么时候受过这委屈",
+      "onboard_time": 1698748773,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597662,
       "num": 412363,
       "word": "以色列在联大展示斩首视频",
@@ -416,6 +440,14 @@
       "word": "被郭敬明留住二十多岁的明星们",
       "onboard_time": 1698726935,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 573745,
+      "num": 484660,
+      "word": "cos向太的网友去向佐直播间了",
+      "onboard_time": 1698750211,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -473,6 +505,14 @@
       "onboard_time": 1698741388,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 484608,
+      "num": 484608,
+      "word": "以爱为营",
+      "onboard_time": 1698671313,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 480842,
@@ -561,6 +601,14 @@
       "onboard_time": 1698738632,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406279,
+      "num": 406279,
+      "word": "cos穷鬼",
+      "onboard_time": 1698747451,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 398520,
@@ -755,6 +803,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 306121,
+      "num": 306121,
+      "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
+      "onboard_time": 1698750334,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306015,
       "num": 306015,
       "word": "檀健次还原相柳名场面",
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292739,
+      "num": 292739,
+      "word": "田曦薇高清无刘海生图",
+      "onboard_time": 1698748593,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291223,
       "num": 291223,
       "word": "李健 情敌",
@@ -819,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288055,
-      "num": 288055,
-      "word": "cos穷鬼",
-      "onboard_time": 1698747451,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 287691,
+      "num": 287691,
+      "word": "为有暗香来",
+      "onboard_time": 1698748593,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 287414,
@@ -1035,6 +1099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238884,
+      "num": 238884,
+      "word": "谢娜杨紫微信 八卦姐姐八卦妹妹",
+      "onboard_time": 1698749254,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237303,
       "num": 237303,
       "word": "这样做真的会显脸小",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1698733892,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219819,
+      "num": 219819,
+      "word": "辛芷蕾我有普通拖鞋",
+      "onboard_time": 1698749971,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 217583,
@@ -1219,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202925,
-      "num": 202925,
-      "word": "田曦薇高清无刘海生图",
-      "onboard_time": 1698748593,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202742,
       "num": 188544,
       "word": "张硕 再这样就不地道了",
@@ -1275,6 +1347,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 199068,
+      "num": 199068,
+      "word": "王鹤棣说自己还是个非常新的新人",
+      "onboard_time": 1698749072,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199052,
       "num": 191035,
       "word": "王子异 瘦不代表美",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1698740011,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196142,
+      "num": 196142,
+      "word": "巨鹿路",
+      "onboard_time": 1698750211,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195531,
@@ -1363,20 +1451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189288,
+      "num": 189288,
+      "word": "陈都灵美拉德风衣",
+      "onboard_time": 1698749912,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189056,
       "num": 189056,
       "word": "星穹铁道真理医生",
       "onboard_time": 1698728737,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188518,
-      "num": 188518,
-      "word": "女医生水杯遭投多聚甲醛及尿液",
-      "onboard_time": 1698748234,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186641,
@@ -1523,14 +1611,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 171313,
-      "num": 171313,
-      "word": "以爱为营",
-      "onboard_time": 1698671313,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171072,
       "num": 171072,
       "word": "再见爱人",
@@ -1641,6 +1721,14 @@
       "onboard_time": 1698678275,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161917,
+      "num": 161917,
+      "word": "蔡艺侬 什么叫做日薄西山",
+      "onboard_time": 1698750273,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 161761,
@@ -1907,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134067,
+      "num": 134067,
+      "word": "辛芷蕾是懂花少drama效果的",
+      "onboard_time": 1698749853,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133363,
       "num": 496487,
       "word": "16岁溺水少年手写感谢信赠民警",
@@ -1961,6 +2057,14 @@
       "onboard_time": 1698733892,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128252,
+      "num": 128252,
+      "word": "秦岚好爱吃火锅",
+      "onboard_time": 1698749673,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 126300,
@@ -2315,14 +2419,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96910,
-      "num": 117362,
-      "word": "为有暗香来",
-      "onboard_time": 1698748593,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95537,
       "num": 95537,
       "word": "超适合淡颜的白开水妆",
@@ -2451,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59026,
+      "num": 108820,
+      "word": "天猫双十一直播间加发大额补贴",
+      "onboard_time": 1698750693,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55150,
       "num": 55150,
       "word": "吴宣仪根字写错",
@@ -2497,6 +2601,14 @@
       "onboard_time": 1698738452,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38859,
+      "num": 484880,
+      "word": "微博迎新之夜直播",
+      "onboard_time": 1698750154,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 38211,
@@ -2577,6 +2689,14 @@
       "onboard_time": 1698690735,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14469,
+      "num": 128388,
+      "word": "8点来京东抢1分钱的黄金",
+      "onboard_time": 1698750036,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 12164,
