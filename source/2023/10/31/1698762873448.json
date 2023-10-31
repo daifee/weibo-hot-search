@@ -1,0 +1,410 @@
+{
+  "runTime": 1698762873448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108379,
+        "num": 1244746,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1832296,
+        "num": 937970,
+        "word": "7款APP全网下架",
+        "onboard_time": 1698757836,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114241,
+        "num": 747888,
+        "word": "中国航天员从1人变成了大家庭",
+        "onboard_time": 1698760838,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2346419,
+        "num": 747199,
+        "word": "向佐 我把假向太抓来直播间啦",
+        "onboard_time": 1698761497,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592589,
+        "num": 592589,
+        "word": "八年花了12万网购的感受",
+        "onboard_time": 1698757531,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2076933,
+        "num": 590208,
+        "word": "退款",
+        "onboard_time": 1698757353,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1882754,
+        "num": 588505,
+        "word": "小学女教师离世留遗书称课外工作压力大",
+        "onboard_time": 1698759335,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 584500,
+        "num": 584500,
+        "word": "微信新增独立发送按钮",
+        "onboard_time": 1698752369,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 435946,
+        "num": 435946,
+        "word": "以爱为营",
+        "onboard_time": 1698749971,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398830,
+        "num": 398830,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 9,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 1747310,
+        "num": 398806,
+        "word": "向太 衣服太low了",
+        "onboard_time": 1698753987,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455790,
+        "num": 398797,
+        "word": "刘诗诗一天穿了六套高定",
+        "onboard_time": 1698749614,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436879,
+        "num": 398783,
+        "word": "女子疑因cos低俗内容被警方带离现场",
+        "onboard_time": 1698745112,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398761,
+        "num": 398761,
+        "word": "肖战短发库存",
+        "onboard_time": 1698761377,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308983,
+        "num": 308983,
+        "word": "虞书欣回应演唱会动作做早",
+        "onboard_time": 1698758495,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294627,
+        "num": 294627,
+        "word": "佛山电翰已出现人传人",
+        "onboard_time": 1698755131,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288756,
+        "num": 288756,
+        "word": "24岁男子3颗烂牙一直没治感染大脑",
+        "onboard_time": 1698753867,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285848,
+        "num": 285848,
+        "word": "万圣节",
+        "onboard_time": 1698759755,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265974,
+        "num": 265974,
+        "word": "购买失败",
+        "onboard_time": 1698755851,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249388,
+        "num": 249388,
+        "word": "小伙cos哈利波特为哈迷女友庆生",
+        "onboard_time": 1698761316,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064338,
+        "num": 247004,
+        "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
+        "onboard_time": 1698761197,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400726,
+        "num": 246477,
+        "word": "211硕士毕业后工作还需要家里补贴",
+        "onboard_time": 1698757713,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239331,
+        "num": 239331,
+        "word": "檀健次上下半身有季节差",
+        "onboard_time": 1698760595,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224077,
+        "num": 224077,
+        "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
+        "onboard_time": 1698750334,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200996,
+        "num": 200996,
+        "word": "可爱鬼",
+        "onboard_time": 1698760716,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200335,
+        "num": 200335,
+        "word": "张婧仪又发朋友圈了",
+        "onboard_time": 1698758735,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198489,
+        "num": 198489,
+        "word": "虞书欣深V钻石吊带",
+        "onboard_time": 1698761676,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197142,
+        "num": 197142,
+        "word": "为有暗香来结局",
+        "onboard_time": 1698754468,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196939,
+        "num": 196939,
+        "word": "杨紫问谢娜是不是喜欢邓为",
+        "onboard_time": 1698746491,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191534,
+        "num": 191534,
+        "word": "伊朗称战争扩大将让以色列彻底毁灭",
+        "onboard_time": 1698752491,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 193738,
+        "num": 191534,
+        "word": "请你们少做自己多做爱豆",
+        "onboard_time": 1698759575,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190415,
+        "num": 190415,
+        "word": "孕妇坐乐园小火车致先兆流产",
+        "onboard_time": 1698756871,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182011,
+        "num": 182011,
+        "word": "小S二女儿万圣节cos",
+        "onboard_time": 1698754832,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180684,
+        "num": 180684,
+        "word": "THE9再现出道公式照",
+        "onboard_time": 1698755371,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173585,
+        "num": 173585,
+        "word": "奶奶第一次喝咖啡以为是豆浆",
+        "onboard_time": 1698757471,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167856,
+        "num": 167856,
+        "word": "胰腺癌的早期信号是什么",
+        "onboard_time": 1698752911,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159930,
+        "num": 159930,
+        "word": "巨鹿路",
+        "onboard_time": 1698750211,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157970,
+        "num": 157970,
+        "word": "男子送坠楼男孩就医父母哽咽致谢",
+        "onboard_time": 1698760239,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149562,
+        "num": 149562,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148783,
+        "num": 148783,
+        "word": "女医生水杯遭投多聚甲醛及尿液",
+        "onboard_time": 1698748234,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146603,
+        "num": 146603,
+        "word": "三部门联合约谈华侨城",
+        "onboard_time": 1698756752,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139917,
+        "num": 139917,
+        "word": "美依礼芽再唱中文版极乐净土",
+        "onboard_time": 1698762218,
+        "rank": 41,
+        "category": "教育,演出"
+      },
+      {
+        "raw_hot": 135022,
+        "num": 135022,
+        "word": "上海万圣节",
+        "onboard_time": 1698759641,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134867,
+        "num": 134867,
+        "word": "戴口罩戴口罩戴口罩",
+        "onboard_time": 1698740912,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129679,
+        "num": 129679,
+        "word": "永远在高考的谭松韵",
+        "onboard_time": 1698753273,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 127089,
+        "word": "丁程鑫严浩翔贺峻霖复刻经典影视作品",
+        "onboard_time": 1698758194,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126819,
+        "num": 126819,
+        "word": "相当于考研人看到男主名字叫肖秀荣",
+        "onboard_time": 1698760958,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 125583,
+        "num": 125583,
+        "word": "彝族奶奶拍照一眼惊艳",
+        "onboard_time": 1698759575,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118565,
+        "num": 118565,
+        "word": "以色列拒绝联合国停火决议",
+        "onboard_time": 1698752011,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 109049,
+        "num": 118560,
+        "word": "张碧晨双马尾造型",
+        "onboard_time": 1698759996,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
