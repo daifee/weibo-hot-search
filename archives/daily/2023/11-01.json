@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698772559054,
+  "endTime": 1698773649658,
   "band_list": [
     {
       "raw_hot": 1258089,
@@ -43,8 +43,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 727002,
-      "num": 727002,
+      "raw_hot": 746695,
+      "num": 746695,
       "word": "以色列",
       "onboard_time": 1698765513,
       "rank": 4,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51557,
+      "num": 73870,
+      "word": "梅西谈他与C罗的竞争",
+      "onboard_time": 1698771804,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50522,
       "num": 89698,
       "word": "钢筋扎穿工人消防边救边喊我们在呢",
@@ -443,20 +451,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43560,
-      "num": 73870,
-      "word": "梅西谈他与C罗的竞争",
-      "onboard_time": 1698771804,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 30862,
+      "raw_hot": 46204,
       "num": 73825,
       "word": "云南边境居民讲述缅甸军事冲突",
       "onboard_time": 1698772222,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42654,
+      "num": 66940,
+      "word": "陈丽君美得好英气",
+      "onboard_time": 1698772641,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 32881,
+      "num": 66903,
+      "word": "为什么人到绝境后会大彻大悟",
+      "onboard_time": 1698771982,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32478,
+      "num": 66891,
+      "word": "以色列拒绝联合国停火决议",
+      "onboard_time": 1698752011,
+      "rank": 49,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698772559054,
+  "endTime": 1698773649658,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -1115,6 +1115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 746695,
+      "num": 746695,
+      "word": "以色列",
+      "onboard_time": 1698765513,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 744636,
       "num": 744636,
       "word": "G2对战BLG",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1698653431,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 727002,
-      "num": 727002,
-      "word": "以色列",
-      "onboard_time": 1698765513,
-      "rank": 21,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 714207,
@@ -9227,6 +9227,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 51557,
+      "num": 73870,
+      "word": "梅西谈他与C罗的竞争",
+      "onboard_time": 1698771804,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50522,
       "num": 89698,
       "word": "钢筋扎穿工人消防边救边喊我们在呢",
@@ -9283,6 +9291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46204,
+      "num": 73825,
+      "word": "云南边境居民讲述缅甸军事冲突",
+      "onboard_time": 1698772222,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45466,
       "num": 1225246,
       "word": "向世界展示中国青年的青春力量",
@@ -9307,12 +9323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43560,
-      "num": 73870,
-      "word": "梅西谈他与C罗的竞争",
-      "onboard_time": 1698771804,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 42654,
+      "num": 66940,
+      "word": "陈丽君美得好英气",
+      "onboard_time": 1698772641,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 39806,
@@ -9363,20 +9379,20 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 32881,
+      "num": 66903,
+      "word": "为什么人到绝境后会大彻大悟",
+      "onboard_time": 1698771982,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32324,
       "num": 32324,
       "word": "长江枝江段又见2只江豚戏水",
       "onboard_time": 1698534079,
       "rank": 47,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 30862,
-      "num": 73825,
-      "word": "云南边境居民讲述缅甸军事冲突",
-      "onboard_time": 1698772222,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30302,
