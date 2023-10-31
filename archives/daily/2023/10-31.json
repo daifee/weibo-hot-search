@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698733351196,
+  "endTime": 1698734134781,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2603058,
-      "num": 849844,
+      "num": 961308,
       "word": "重度抑郁女生被医生建议断亲",
       "onboard_time": 1698724532,
       "rank": 4,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1704546,
-      "num": 922539,
+      "num": 929473,
       "word": "头发夹在耳后显脸小的正确方法",
       "onboard_time": 1698722012,
       "rank": 18,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1254294,
-      "num": 627492,
+      "num": 840084,
       "word": "中国籍苹果女程序员在美飙车致男伴死亡",
       "onboard_time": 1698726214,
       "rank": 13,
@@ -97,6 +97,22 @@
       "onboard_time": 1698679593,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1202455,
+      "num": 1038837,
+      "word": "李佳琦回应最低价争夺",
+      "onboard_time": 1698732510,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1174338,
+      "num": 1081038,
+      "word": "哈登加盟快船",
+      "onboard_time": 1698732811,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1136550,
@@ -113,14 +129,6 @@
       "onboard_time": 1698677019,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1081038,
-      "num": 1081038,
-      "word": "哈登加盟快船",
-      "onboard_time": 1698732811,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1057774,
@@ -155,7 +163,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 971941,
+      "raw_hot": 984753,
       "num": 423754,
       "word": "第一次想让明星耍大牌",
       "onboard_time": 1698729332,
@@ -177,6 +185,14 @@
       "onboard_time": 1698677375,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 940147,
+      "num": 397167,
+      "word": "多部门介入学生被逼吃粪便事件",
+      "onboard_time": 1698731671,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 900442,
@@ -275,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599921,
+      "num": 599921,
+      "word": "秦岚声带出了问题",
+      "onboard_time": 1698731613,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595422,
       "num": 595422,
       "word": "居然在韩国KBS看到袁娅维",
       "onboard_time": 1698716368,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592570,
-      "num": 592570,
-      "word": "李佳琦回应最低价争夺",
-      "onboard_time": 1698732510,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 579469,
@@ -313,14 +329,6 @@
       "onboard_time": 1698726935,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 572288,
-      "num": 380259,
-      "word": "多部门介入学生被逼吃粪便事件",
-      "onboard_time": 1698731671,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567745,
@@ -361,14 +369,6 @@
       "onboard_time": 1698726935,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 541858,
-      "num": 354217,
-      "word": "秦岚声带出了问题",
-      "onboard_time": 1698731613,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 514913,
@@ -417,6 +417,14 @@
       "onboard_time": 1698724412,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 382537,
+      "num": 382537,
+      "word": "大疆回应网传被罚440亿",
+      "onboard_time": 1698732453,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 376963,
@@ -475,12 +483,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 342907,
+      "num": 342907,
+      "word": "萧亚轩混血烟熏妆",
+      "onboard_time": 1698732871,
+      "rank": 25,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 339199,
       "num": 297304,
       "word": "孙女在奶奶嫁妆柜子里发现了暗格",
       "onboard_time": 1698707064,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334858,
+      "num": 288264,
+      "word": "当我知道领导月薪十万后",
+      "onboard_time": 1698733530,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 327013,
@@ -499,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321299,
-      "num": 321299,
-      "word": "大疆回应网传被罚440亿",
-      "onboard_time": 1698732453,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 316453,
       "num": 316453,
       "word": "cos明星上街会被发律师函吗",
@@ -515,20 +531,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 308730,
+      "num": 308730,
+      "word": "露露黄了 联名礼盒",
+      "onboard_time": 1698732331,
+      "rank": 21,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 306015,
       "num": 306015,
       "word": "檀健次还原相柳名场面",
       "onboard_time": 1698728556,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302176,
-      "num": 302176,
-      "word": "露露黄了 联名礼盒",
-      "onboard_time": 1698732331,
-      "rank": 21,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 299634,
@@ -627,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260895,
+      "num": 260895,
+      "word": "科学家找到癌细胞的生死开关",
+      "onboard_time": 1698733530,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259940,
       "num": 259940,
       "word": "iPhone13用户换15热情不高",
@@ -715,14 +739,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 241068,
-      "num": 241068,
-      "word": "萧亚轩混血烟熏妆",
-      "onboard_time": 1698732871,
-      "rank": 25,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 239721,
       "num": 239721,
       "word": "侯明昊体面",
@@ -793,6 +809,14 @@
       "onboard_time": 1698708569,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220128,
+      "num": 220128,
+      "word": "星穹铁道雪衣",
+      "onboard_time": 1698733892,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 214254,
@@ -1115,6 +1139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168475,
+      "num": 168475,
+      "word": "哈登威少第三次同队",
+      "onboard_time": 1698733710,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167532,
       "num": 167532,
       "word": "苹果中国官方首降价",
@@ -1283,6 +1315,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 142571,
+      "num": 142571,
+      "word": "THE9也有自己的燃冬",
+      "onboard_time": 1698731850,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141495,
       "num": 141495,
       "word": "单依纯 我最近说错太多话了",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1698710734,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138534,
+      "num": 138534,
+      "word": "父亲见朱杨柱顺利出舱激动落泪",
+      "onboard_time": 1698733833,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137711,
@@ -1379,20 +1427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130056,
-      "num": 125746,
-      "word": "THE9也有自己的燃冬",
-      "onboard_time": 1698731850,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129337,
       "num": 129337,
       "word": "家人祝贺梅西获得金球奖",
       "onboard_time": 1698712174,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129126,
+      "num": 129126,
+      "word": "杨利伟对战友们顺利完成任务表示祝贺",
+      "onboard_time": 1698733892,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126300,
@@ -1507,6 +1555,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 113711,
+      "num": 113711,
+      "word": "丁程鑫的MBTI是CUTE吧",
+      "onboard_time": 1698733710,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113610,
       "num": 113610,
       "word": "中国学者当面回怼日本学者",
@@ -1587,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105922,
+      "num": 105922,
+      "word": "周也说我就是天选华浅",
+      "onboard_time": 1698734072,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105352,
       "num": 105352,
       "word": "张小斐惠英红新浪扫楼",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1698670473,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 104260,
+      "num": 296557,
+      "word": "黄龄教你怎么买低价iPhone",
+      "onboard_time": 1698731911,
+      "rank": 24,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 102511,
@@ -1692,7 +1764,7 @@
     },
     {
       "raw_hot": 82876,
-      "num": 895730,
+      "num": 989132,
       "word": "神十六航天员回地球",
       "onboard_time": 1698729812,
       "rank": 2,
@@ -1713,14 +1785,6 @@
       "onboard_time": 1698682051,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68733,
-      "num": 242251,
-      "word": "黄龄教你怎么买低价iPhone",
-      "onboard_time": 1698731911,
-      "rank": 24,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 67179,

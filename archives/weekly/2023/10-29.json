@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698733351196,
+  "endTime": 1698734134781,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2603058,
-      "num": 849844,
+      "num": 961308,
       "word": "重度抑郁女生被医生建议断亲",
       "onboard_time": 1698724532,
       "rank": 4,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1704546,
-      "num": 922539,
+      "num": 929473,
       "word": "头发夹在耳后显脸小的正确方法",
       "onboard_time": 1698722012,
       "rank": 18,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1254294,
-      "num": 627492,
+      "num": 840084,
       "word": "中国籍苹果女程序员在美飙车致男伴死亡",
       "onboard_time": 1698726214,
       "rank": 13,
@@ -427,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1202455,
+      "num": 1038837,
+      "word": "李佳琦回应最低价争夺",
+      "onboard_time": 1698732510,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1177180,
       "num": 1177180,
       "word": "小虎在干嘛",
       "onboard_time": 1698562472,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1174338,
+      "num": 1081038,
+      "word": "哈登加盟快船",
+      "onboard_time": 1698732811,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1124434,
@@ -465,14 +481,6 @@
       "onboard_time": 1698592656,
       "rank": 16,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 1081038,
-      "num": 1081038,
-      "word": "哈登加盟快船",
-      "onboard_time": 1698732811,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1074192,
@@ -587,20 +595,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 984753,
+      "num": 423754,
+      "word": "第一次想让明星耍大牌",
+      "onboard_time": 1698729332,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 979052,
       "num": 979052,
       "word": "谈恋爱时最不受欢迎的星座",
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 971941,
-      "num": 423754,
-      "word": "第一次想让明星耍大牌",
-      "onboard_time": 1698729332,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 971798,
@@ -633,6 +641,14 @@
       "onboard_time": 1698677375,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 940147,
+      "num": 397167,
+      "word": "多部门介入学生被逼吃粪便事件",
+      "onboard_time": 1698731671,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 939251,
@@ -1355,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599921,
+      "num": 599921,
+      "word": "秦岚声带出了问题",
+      "onboard_time": 1698731613,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598448,
       "num": 598448,
       "word": "WBG生死战",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1698534558,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 592570,
-      "num": 592570,
-      "word": "李佳琦回应最低价争夺",
-      "onboard_time": 1698732510,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 592311,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1698726935,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 572288,
-      "num": 380259,
-      "word": "多部门介入学生被逼吃粪便事件",
-      "onboard_time": 1698731671,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567745,
@@ -1609,14 +1617,6 @@
       "onboard_time": 1698669512,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 541858,
-      "num": 354217,
-      "word": "秦岚声带出了问题",
-      "onboard_time": 1698731613,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 537742,
@@ -2211,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382537,
+      "num": 382537,
+      "word": "大疆回应网传被罚440亿",
+      "onboard_time": 1698732453,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 382361,
       "num": 382361,
       "word": "一个视频弄清自己适合长发还是短发",
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342907,
+      "num": 342907,
+      "word": "萧亚轩混血烟熏妆",
+      "onboard_time": 1698732871,
+      "rank": 25,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 342386,
       "num": 342386,
       "word": "陕西3所大学的3个专业世界第一",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1698667354,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334858,
+      "num": 288264,
+      "word": "当我知道领导月薪十万后",
+      "onboard_time": 1698733530,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 333524,
@@ -2555,14 +2579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 321299,
-      "num": 321299,
-      "word": "大疆回应网传被罚440亿",
-      "onboard_time": 1698732453,
-      "rank": 20,
-      "category": "数码"
-    },
-    {
       "raw_hot": 320747,
       "num": 320747,
       "word": "BeryL抽签",
@@ -2635,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308730,
+      "num": 308730,
+      "word": "露露黄了 联名礼盒",
+      "onboard_time": 1698732331,
+      "rank": 21,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 307658,
       "num": 307658,
       "word": "王源 公主请喝水",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1698561569,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302176,
-      "num": 302176,
-      "word": "露露黄了 联名礼盒",
-      "onboard_time": 1698732331,
-      "rank": 21,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 300283,
@@ -3123,6 +3139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260895,
+      "num": 260895,
+      "word": "科学家找到癌细胞的生死开关",
+      "onboard_time": 1698733530,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 260431,
       "num": 260431,
       "word": "小孩哥赴约",
@@ -3433,14 +3457,6 @@
       "onboard_time": 1698578558,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241068,
-      "num": 241068,
-      "word": "萧亚轩混血烟熏妆",
-      "onboard_time": 1698732871,
-      "rank": 25,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 240904,
@@ -3801,6 +3817,14 @@
       "onboard_time": 1698652111,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220128,
+      "num": 220128,
+      "word": "星穹铁道雪衣",
+      "onboard_time": 1698733892,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 219865,
@@ -5371,6 +5395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168475,
+      "num": 168475,
+      "word": "哈登威少第三次同队",
+      "onboard_time": 1698733710,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "利物浦vs诺丁汉森林",
@@ -6099,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142571,
+      "num": 142571,
+      "word": "THE9也有自己的燃冬",
+      "onboard_time": 1698731850,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "林孝埈500米铜牌",
@@ -6217,6 +6257,14 @@
       "onboard_time": 1698567333,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138534,
+      "num": 138534,
+      "word": "父亲见朱杨柱顺利出舱激动落泪",
+      "onboard_time": 1698733833,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138479,
@@ -6515,14 +6563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130056,
-      "num": 125746,
-      "word": "THE9也有自己的燃冬",
-      "onboard_time": 1698731850,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 130033,
       "num": 130033,
       "word": "成都把秋天搬进地铁里",
@@ -6577,6 +6617,14 @@
       "onboard_time": 1698558391,
       "rank": 39,
       "category": "演出,幽默"
+    },
+    {
+      "raw_hot": 129126,
+      "num": 129126,
+      "word": "杨利伟对战友们顺利完成任务表示祝贺",
+      "onboard_time": 1698733892,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129089,
@@ -7003,6 +7051,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 113711,
+      "num": 113711,
+      "word": "丁程鑫的MBTI是CUTE吧",
+      "onboard_time": 1698733710,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113610,
       "num": 113610,
       "word": "中国学者当面回怼日本学者",
@@ -7171,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105922,
+      "num": 105922,
+      "word": "周也说我就是天选华浅",
+      "onboard_time": 1698734072,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105788,
       "num": 105788,
       "word": "张钧甯的这段话值得反复听",
@@ -7201,6 +7265,14 @@
       "onboard_time": 1698574531,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104260,
+      "num": 296557,
+      "word": "黄龄教你怎么买低价iPhone",
+      "onboard_time": 1698731911,
+      "rank": 24,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 104000,
@@ -7452,7 +7524,7 @@
     },
     {
       "raw_hot": 82876,
-      "num": 895730,
+      "num": 989132,
       "word": "神十六航天员回地球",
       "onboard_time": 1698729812,
       "rank": 2,
@@ -7537,14 +7609,6 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 68733,
-      "num": 242251,
-      "word": "黄龄教你怎么买低价iPhone",
-      "onboard_time": 1698731911,
-      "rank": 24,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 67548,

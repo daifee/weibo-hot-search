@@ -1,0 +1,410 @@
+{
+  "runTime": 1698734134781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869736,
+        "num": 1077560,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1202455,
+        "num": 1038837,
+        "word": "李佳琦回应最低价争夺",
+        "onboard_time": 1698732510,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78771,
+        "num": 989132,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2059040,
+        "num": 961308,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232290,
+        "num": 929473,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1174338,
+        "num": 887207,
+        "word": "哈登加盟快船",
+        "onboard_time": 1698732811,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840084,
+        "num": 840084,
+        "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+        "onboard_time": 1698726214,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599921,
+        "num": 599921,
+        "word": "秦岚声带出了问题",
+        "onboard_time": 1698731613,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517288,
+        "num": 517288,
+        "word": "张小斐 让红姐少亲点吧",
+        "onboard_time": 1698731250,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405742,
+        "num": 405742,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1471267,
+        "num": 401522,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940147,
+        "num": 397167,
+        "word": "多部门介入学生被逼吃粪便事件",
+        "onboard_time": 1698731671,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984753,
+        "num": 391087,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469133,
+        "num": 383438,
+        "word": "宋仲基说和儿子还不熟",
+        "onboard_time": 1698726214,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382537,
+        "num": 382537,
+        "word": "大疆回应网传被罚440亿",
+        "onboard_time": 1698732453,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 817497,
+        "num": 372988,
+        "word": "李金铭 现实版盲山",
+        "onboard_time": 1698725313,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342907,
+        "num": 342907,
+        "word": "萧亚轩混血烟熏妆",
+        "onboard_time": 1698732871,
+        "rank": 16,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 308730,
+        "num": 308730,
+        "word": "露露黄了 联名礼盒",
+        "onboard_time": 1698732331,
+        "rank": 17,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 104260,
+        "num": 296557,
+        "word": "黄龄教你怎么买低价iPhone",
+        "onboard_time": 1698731911,
+        "rank": 18,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 288279,
+        "num": 288279,
+        "word": "被郭敬明留住二十多岁的明星们",
+        "onboard_time": 1698726935,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334858,
+        "num": 288264,
+        "word": "当我知道领导月薪十万后",
+        "onboard_time": 1698733530,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288234,
+        "num": 288234,
+        "word": "西方猛鬼为何输给了中式恐怖",
+        "onboard_time": 1698729452,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278610,
+        "num": 278610,
+        "word": "外卖漏送米饭被要求191元整单退款",
+        "onboard_time": 1698723032,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262183,
+        "num": 262183,
+        "word": "夏克立自曝为打官司花了560万",
+        "onboard_time": 1698726935,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261538,
+        "num": 261538,
+        "word": "男子晒出结婚多年生9女1男",
+        "onboard_time": 1698725855,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260895,
+        "num": 260895,
+        "word": "科学家找到癌细胞的生死开关",
+        "onboard_time": 1698733530,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220128,
+        "num": 220128,
+        "word": "星穹铁道雪衣",
+        "onboard_time": 1698733892,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213197,
+        "num": 213197,
+        "word": "把15块的奶茶换成了等价值的水果",
+        "onboard_time": 1698729272,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206213,
+        "num": 206213,
+        "word": "沙特人跟韩国人说中文",
+        "onboard_time": 1698725795,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201775,
+        "num": 201775,
+        "word": "enhypen 票贵",
+        "onboard_time": 1698731491,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189170,
+        "num": 189170,
+        "word": "郭敬明叫田嘉瑞林子烨小学鸡",
+        "onboard_time": 1698730773,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185775,
+        "num": 185775,
+        "word": "乳腺结节真是气出来的吗",
+        "onboard_time": 1698719074,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170480,
+        "num": 170480,
+        "word": "张小斐 女孩子就应该穿得漂亮",
+        "onboard_time": 1698731010,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168475,
+        "num": 168475,
+        "word": "哈登威少第三次同队",
+        "onboard_time": 1698733710,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168121,
+        "num": 168121,
+        "word": "张远万圣节狼人造型",
+        "onboard_time": 1698731791,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 159431,
+        "num": 159431,
+        "word": "檀健次还原相柳名场面",
+        "onboard_time": 1698728556,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150163,
+        "num": 150163,
+        "word": "华为成为中国平板市场第一",
+        "onboard_time": 1698729932,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142571,
+        "num": 142571,
+        "word": "THE9也有自己的燃冬",
+        "onboard_time": 1698731850,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138534,
+        "num": 138534,
+        "word": "父亲见朱杨柱顺利出舱激动落泪",
+        "onboard_time": 1698733833,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129126,
+        "num": 129126,
+        "word": "杨利伟对战友们顺利完成任务表示祝贺",
+        "onboard_time": 1698733892,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126682,
+        "num": 126682,
+        "word": "湖人防守",
+        "onboard_time": 1698729753,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121592,
+        "num": 121592,
+        "word": "再见爱人",
+        "onboard_time": 1698730053,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118572,
+        "num": 118572,
+        "word": "单依纯 我最近说错太多话了",
+        "onboard_time": 1698730411,
+        "rank": 42,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 116877,
+        "num": 116877,
+        "word": "胡先煦 找个靠谱的朋友比较重要",
+        "onboard_time": 1698731551,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114885,
+        "num": 114885,
+        "word": "藏海戏麟改名 藏海传",
+        "onboard_time": 1698720692,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113711,
+        "num": 113711,
+        "word": "丁程鑫的MBTI是CUTE吧",
+        "onboard_time": 1698733710,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112227,
+        "num": 112227,
+        "word": "的哥听到乘客对话直接开进派出所",
+        "onboard_time": 1698731010,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111596,
+        "num": 111596,
+        "word": "陈瑶万圣节妆容",
+        "onboard_time": 1698732931,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 108473,
+        "num": 108473,
+        "word": "亲密关系中不要总是做小孩",
+        "onboard_time": 1698726697,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105922,
+        "num": 105922,
+        "word": "周也说我就是天选华浅",
+        "onboard_time": 1698734072,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
