@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698752056664,
+  "endTime": 1698755562308,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -81,6 +81,14 @@
       "onboard_time": 1698650609,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2426695,
+      "num": 385172,
+      "word": "向太 衣服太low了",
+      "onboard_time": 1698753987,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2203373,
@@ -481,6 +489,14 @@
       "onboard_time": 1698584613,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1191629,
+      "num": 656824,
+      "word": "微信新增独立发送按钮",
+      "onboard_time": 1698752369,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1177180,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714207,
+      "num": 634396,
+      "word": "佛山电翰已出现人传人",
+      "onboard_time": 1698755131,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 709545,
       "num": 353626,
       "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
@@ -1156,7 +1180,7 @@
     },
     {
       "raw_hot": 691896,
-      "num": 512880,
+      "num": 582555,
       "word": "以爱为营",
       "onboard_time": 1698551434,
       "rank": 11,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1698634472,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 666347,
+      "num": 625392,
+      "word": "宋L",
+      "onboard_time": 1698753867,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 665512,
@@ -1364,7 +1396,7 @@
     },
     {
       "raw_hot": 626072,
-      "num": 510856,
+      "num": 588104,
       "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
       "onboard_time": 1698750334,
       "rank": 19,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1698540752,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 619749,
+      "num": 619749,
+      "word": "以色列拒绝联合国停火决议",
+      "onboard_time": 1698752011,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 618626,
@@ -2403,6 +2443,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 386621,
+      "num": 386621,
+      "word": "THE9再现出道公式照",
+      "onboard_time": 1698755371,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384885,
       "num": 305073,
       "word": "WBG战胜FNC",
@@ -2563,6 +2611,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 360201,
+      "num": 294447,
+      "word": "淘宝双十一",
+      "onboard_time": 1698751352,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 359178,
       "num": 359178,
       "word": "白桃星座",
@@ -2649,6 +2705,14 @@
       "onboard_time": 1698508054,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347839,
+      "num": 347839,
+      "word": "巨鹿路",
+      "onboard_time": 1698750211,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344619,
@@ -2763,6 +2827,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 330632,
+      "num": 330632,
+      "word": "伊朗称战争扩大将让以色列彻底毁灭",
+      "onboard_time": 1698752491,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 329606,
       "num": 329606,
       "word": "巴萨vs皇马",
@@ -2825,14 +2897,6 @@
       "onboard_time": 1698656850,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324123,
-      "num": 300339,
-      "word": "巨鹿路",
-      "onboard_time": 1698750211,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322516,
@@ -3235,6 +3299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285696,
+      "num": 285696,
+      "word": "24岁男子3颗烂牙一直没治感染大脑",
+      "onboard_time": 1698753867,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284934,
       "num": 227959,
       "word": "胡先煦四个女神一个男神",
@@ -3345,6 +3417,14 @@
       "onboard_time": 1698724833,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 270110,
+      "num": 270110,
+      "word": "永远在高考的谭松韵",
+      "onboard_time": 1698753273,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269842,
@@ -3763,6 +3843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243782,
+      "num": 243782,
+      "word": "小S二女儿万圣节cos",
+      "onboard_time": 1698754832,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243742,
       "num": 243742,
       "word": "THE9演唱会微指",
@@ -4073,6 +4161,22 @@
       "onboard_time": 1698731491,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 228031,
+      "num": 228031,
+      "word": "双十一",
+      "onboard_time": 1698754832,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 227892,
+      "num": 227892,
+      "word": "为有暗香来结局",
+      "onboard_time": 1698754468,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 227210,
@@ -4539,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "马里奥世界闹鬼了",
+      "onboard_time": 1698754050,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 204866,
       "num": 204866,
       "word": "Deft告别S13",
@@ -4609,6 +4721,14 @@
       "onboard_time": 1698552030,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203443,
+      "num": 203443,
+      "word": "胰腺癌的早期信号是什么",
+      "onboard_time": 1698752911,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203289,
@@ -4819,6 +4939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198832,
+      "num": 198832,
+      "word": "新裤子全场万人大合唱",
+      "onboard_time": 1698754708,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198773,
       "num": 1041862,
       "word": "中国6岁女孩打破魔方世界纪录",
@@ -5003,14 +5131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193906,
-      "num": 193906,
-      "word": "淘宝双十一",
-      "onboard_time": 1698751352,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 193885,
       "num": 193885,
       "word": "张雨绮新中式造型",
@@ -5089,6 +5209,22 @@
       "onboard_time": 1698577411,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 192342,
+      "word": "凑单",
+      "onboard_time": 1698754650,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 192185,
+      "num": 192185,
+      "word": "仔仔互助",
+      "onboard_time": 1698754532,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 192143,
@@ -5233,6 +5369,14 @@
       "onboard_time": 1698728737,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188868,
+      "num": 188868,
+      "word": "魔道祖师广播剧",
+      "onboard_time": 1698752911,
+      "rank": 32,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 188443,
@@ -5579,6 +5723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178814,
+      "num": 178814,
+      "word": "洗衣液 双十一",
+      "onboard_time": 1698754230,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178619,
       "num": 178619,
       "word": "不要直接用黄瓜敷脸",
@@ -5657,6 +5809,14 @@
       "onboard_time": 1698582513,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176210,
+      "num": 176210,
+      "word": "优惠信息变更",
+      "onboard_time": 1698755371,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 176209,
@@ -5835,12 +5995,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170962,
+      "num": 170962,
+      "word": "中央金融工作会议在北京举行",
+      "onboard_time": 1698755309,
+      "rank": 39,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 170960,
       "num": 170960,
       "word": "低频",
       "onboard_time": 1698553951,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170747,
+      "num": 170747,
+      "word": "以色列大使说诚实国家都该断供联合国",
+      "onboard_time": 1698752851,
+      "rank": 40,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 170103,
@@ -7699,6 +7875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115592,
+      "num": 115592,
+      "word": "令人心动的offer",
+      "onboard_time": 1698754108,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114724,
       "num": 450007,
       "word": "鸿星尔克支棱起来了",
@@ -7873,14 +8057,6 @@
       "onboard_time": 1698648809,
       "rank": 47,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 107881,
-      "num": 107881,
-      "word": "以色列拒绝联合国停火决议",
-      "onboard_time": 1698752011,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 107697,
@@ -8147,6 +8323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97508,
+      "num": 175464,
+      "word": "国货打广告卷到了工位上",
+      "onboard_time": 1698752131,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96726,
       "num": 96726,
       "word": "陈楚生新歌向海而生",
@@ -8177,6 +8361,14 @@
       "onboard_time": 1698708386,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 94897,
+      "num": 365021,
+      "word": "天猫双11决定今晚增加三波红包雨",
+      "onboard_time": 1698753632,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 94864,

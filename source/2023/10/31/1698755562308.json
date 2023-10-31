@@ -1,0 +1,410 @@
+{
+  "runTime": 1698755562308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 316656,
+        "num": 663031,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1191629,
+        "num": 656824,
+        "word": "微信新增独立发送按钮",
+        "onboard_time": 1698752369,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28217,
+        "num": 641394,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 714207,
+        "num": 634396,
+        "word": "佛山电翰已出现人传人",
+        "onboard_time": 1698755131,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 666347,
+        "num": 625392,
+        "word": "宋L",
+        "onboard_time": 1698753867,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 619749,
+        "num": 619749,
+        "word": "以色列拒绝联合国停火决议",
+        "onboard_time": 1698752011,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 588104,
+        "num": 588104,
+        "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
+        "onboard_time": 1698750334,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582555,
+        "num": 582555,
+        "word": "以爱为营",
+        "onboard_time": 1698749971,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431173,
+        "num": 431173,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 8,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 386621,
+        "num": 386621,
+        "word": "THE9再现出道公式照",
+        "onboard_time": 1698755371,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2426695,
+        "num": 385172,
+        "word": "向太 衣服太low了",
+        "onboard_time": 1698753987,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762212,
+        "num": 378246,
+        "word": "刘诗诗一天穿了六套高定",
+        "onboard_time": 1698749614,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 941145,
+        "num": 373823,
+        "word": "女子疑因cos低俗内容被警方带离现场",
+        "onboard_time": 1698745112,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450572,
+        "num": 370330,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94897,
+        "num": 365021,
+        "word": "天猫双11决定今晚增加三波红包雨",
+        "onboard_time": 1698753632,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 418504,
+        "num": 361644,
+        "word": "女医生水杯遭投多聚甲醛及尿液",
+        "onboard_time": 1698748234,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359282,
+        "num": 359282,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347839,
+        "num": 347839,
+        "word": "巨鹿路",
+        "onboard_time": 1698750211,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330632,
+        "num": 330632,
+        "word": "伊朗称战争扩大将让以色列彻底毁灭",
+        "onboard_time": 1698752491,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 297688,
+        "num": 297688,
+        "word": "杨紫问谢娜是不是喜欢邓为",
+        "onboard_time": 1698746491,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360201,
+        "num": 294447,
+        "word": "淘宝双十一",
+        "onboard_time": 1698751352,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285696,
+        "num": 285696,
+        "word": "24岁男子3颗烂牙一直没治感染大脑",
+        "onboard_time": 1698753867,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270110,
+        "num": 270110,
+        "word": "永远在高考的谭松韵",
+        "onboard_time": 1698753273,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243782,
+        "num": 243782,
+        "word": "小S二女儿万圣节cos",
+        "onboard_time": 1698754832,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228031,
+        "num": 228031,
+        "word": "双十一",
+        "onboard_time": 1698754832,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227892,
+        "num": 227892,
+        "word": "为有暗香来结局",
+        "onboard_time": 1698754468,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204933,
+        "num": 204933,
+        "word": "马里奥世界闹鬼了",
+        "onboard_time": 1698754050,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 203443,
+        "num": 203443,
+        "word": "胰腺癌的早期信号是什么",
+        "onboard_time": 1698752911,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198832,
+        "num": 198832,
+        "word": "新裤子全场万人大合唱",
+        "onboard_time": 1698754708,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192342,
+        "num": 192342,
+        "word": "凑单",
+        "onboard_time": 1698754650,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272672,
+        "num": 192333,
+        "word": "李佳琦谈未来两年规划",
+        "onboard_time": 1698746853,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192185,
+        "num": 192185,
+        "word": "仔仔互助",
+        "onboard_time": 1698754532,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188868,
+        "num": 188868,
+        "word": "魔道祖师广播剧",
+        "onboard_time": 1698752911,
+        "rank": 32,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 186277,
+        "num": 186277,
+        "word": "田曦薇高清无刘海生图",
+        "onboard_time": 1698748593,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178814,
+        "num": 178814,
+        "word": "洗衣液 双十一",
+        "onboard_time": 1698754230,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176210,
+        "num": 176210,
+        "word": "优惠信息变更",
+        "onboard_time": 1698755371,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97508,
+        "num": 175464,
+        "word": "国货打广告卷到了工位上",
+        "onboard_time": 1698752131,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175462,
+        "num": 175462,
+        "word": "戴口罩戴口罩戴口罩",
+        "onboard_time": 1698740912,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171851,
+        "num": 171851,
+        "word": "cos穷鬼",
+        "onboard_time": 1698747451,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170962,
+        "num": 170962,
+        "word": "中央金融工作会议在北京举行",
+        "onboard_time": 1698755309,
+        "rank": 39,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 170747,
+        "num": 170747,
+        "word": "以色列大使说诚实国家都该断供联合国",
+        "onboard_time": 1698752851,
+        "rank": 40,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 165532,
+        "num": 165532,
+        "word": "宁静什么时候受过这委屈",
+        "onboard_time": 1698748773,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145784,
+        "num": 145784,
+        "word": "为有暗香来",
+        "onboard_time": 1698748593,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133094,
+        "num": 133094,
+        "word": "西贝回应3只蒸饺29元",
+        "onboard_time": 1698740670,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 124918,
+        "num": 124918,
+        "word": "陈都灵美拉德风衣",
+        "onboard_time": 1698749912,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124145,
+        "num": 124145,
+        "word": "警方不予公开中学男生被逼吃粪案件",
+        "onboard_time": 1698745233,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119851,
+        "num": 119851,
+        "word": "谢娜杨紫微信 八卦姐姐八卦妹妹",
+        "onboard_time": 1698749254,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118659,
+        "num": 118659,
+        "word": "男子网购相机交2000元后民警秒上门",
+        "onboard_time": 1698744094,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117189,
+        "num": 117189,
+        "word": "以色列在联大展示斩首视频",
+        "onboard_time": 1698739893,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 115592,
+        "num": 115592,
+        "word": "令人心动的offer",
+        "onboard_time": 1698754108,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
