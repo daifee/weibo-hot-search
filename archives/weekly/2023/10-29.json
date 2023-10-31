@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698726865699,
+  "endTime": 1698729363817,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -59,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2603058,
+      "num": 849844,
+      "word": "重度抑郁女生被医生建议断亲",
+      "onboard_time": 1698724532,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2577973,
       "num": 2577973,
       "word": "湖南冷水江通报网传7岁女孩遭霸凌",
@@ -84,19 +92,11 @@
     },
     {
       "raw_hot": 2200538,
-      "num": 353580,
+      "num": 354614,
       "word": "郭敬明 十条回应",
       "onboard_time": 1698723451,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2153955,
-      "num": 849844,
-      "word": "重度抑郁女生被医生建议断亲",
-      "onboard_time": 1698724532,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2105974,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1555743,
+      "num": 305059,
+      "word": "李金铭 现实版盲山",
+      "onboard_time": 1698725313,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1537832,
       "num": 1517445,
       "word": "陈若琳被调至北京工作",
@@ -321,14 +329,6 @@
       "onboard_time": 1698644850,
       "rank": 7,
       "category": "美妆,知识科普"
-    },
-    {
-      "raw_hot": 1417644,
-      "num": 305059,
-      "word": "李金铭 现实版盲山",
-      "onboard_time": 1698725313,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1406479,
@@ -385,6 +385,14 @@
       "onboard_time": 1698573329,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1250999,
+      "num": 595817,
+      "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+      "onboard_time": 1698726214,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1225735,
@@ -481,6 +489,14 @@
       "onboard_time": 1698678517,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1057774,
+      "num": 387263,
+      "word": "宋仲基说和儿子还不熟",
+      "onboard_time": 1698726214,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1055827,
@@ -1427,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 575236,
+      "num": 271895,
+      "word": "被郭敬明留住二十多岁的明星们",
+      "onboard_time": 1698726935,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566576,
       "num": 566576,
       "word": "FNC对战WBG",
@@ -1499,6 +1523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 551934,
+      "num": 551934,
+      "word": "沙特人跟韩国人说中文",
+      "onboard_time": 1698725795,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551423,
       "num": 551423,
       "word": "加沙地带经历迄今为止最严重轰炸",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1698573570,
       "rank": 17,
       "category": "自然"
+    },
+    {
+      "raw_hot": 550251,
+      "num": 333601,
+      "word": "夏克立自曝为打官司花了560万",
+      "onboard_time": 1698726935,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 547745,
@@ -1571,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519223,
-      "num": 308017,
-      "word": "宋仲基说和儿子还不熟",
-      "onboard_time": 1698726214,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 517170,
       "num": 517170,
       "word": "保定一学生屁股被老师打成黑紫色",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1698637053,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513474,
+      "num": 513474,
+      "word": "男子晒出结婚多年生9女1男",
+      "onboard_time": 1698725855,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512796,
@@ -1787,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 465177,
-      "num": 303813,
-      "word": "中国籍苹果女程序员在美飙车致男伴死亡",
-      "onboard_time": 1698726214,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464454,
       "num": 464454,
       "word": "廊坊地震",
@@ -1841,14 +1873,6 @@
       "onboard_time": 1698658233,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 457034,
-      "num": 300367,
-      "word": "沙特人跟韩国人说中文",
-      "onboard_time": 1698725795,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 456255,
@@ -2377,14 +2401,6 @@
       "onboard_time": 1698539249,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 337579,
-      "num": 295207,
-      "word": "男子晒出结婚多年生9女1男",
-      "onboard_time": 1698725855,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335959,
@@ -3283,6 +3299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243251,
+      "num": 243251,
+      "word": "我就知道不是眼影的问题",
+      "onboard_time": 1698726396,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242820,
       "num": 242820,
       "word": "田嘉瑞回应红气养人",
@@ -3747,6 +3771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 214254,
+      "num": 214254,
+      "word": "罗云熙章若楠情侣装海报",
+      "onboard_time": 1698727419,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213290,
       "num": 213290,
       "word": "库里被鹈鹕全场狂嘘",
@@ -3875,6 +3907,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 206471,
+      "num": 206471,
+      "word": "邢菲冰透氧气妆",
+      "onboard_time": 1698728315,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 206227,
       "num": 206227,
       "word": "沈腾拉着杨幂蹦起了迪",
@@ -3907,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205619,
+      "num": 205619,
+      "word": "星穹铁道阮梅",
+      "onboard_time": 1698728616,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205120,
       "num": 205120,
       "word": "王星越嘴好严",
@@ -3929,6 +3977,14 @@
       "onboard_time": 1698550710,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204824,
+      "num": 204824,
+      "word": "光遇 风行季",
+      "onboard_time": 1698728255,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 204718,
@@ -4243,6 +4299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195531,
+      "num": 195531,
+      "word": "亲密关系中不要总是做小孩",
+      "onboard_time": 1698726697,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 195521,
+      "num": 195521,
+      "word": "檀健次还原相柳名场面",
+      "onboard_time": 1698728556,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195507,
       "num": 195507,
       "word": "网友拍到和谐号和复兴号飙车",
@@ -4521,6 +4593,14 @@
       "onboard_time": 1698634111,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189056,
+      "num": 189056,
+      "word": "星穹铁道真理医生",
+      "onboard_time": 1698728737,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 188443,
@@ -4811,14 +4891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179336,
-      "num": 179336,
-      "word": "我就知道不是眼影的问题",
-      "onboard_time": 1698726396,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 179151,
       "num": 153452,
       "word": "小孩哥给小猫喂水",
@@ -4953,6 +5025,14 @@
       "onboard_time": 1698624514,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174730,
+      "num": 174730,
+      "word": "李雪琴新剧像650做大做强",
+      "onboard_time": 1698728737,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 174685,
@@ -5193,6 +5273,14 @@
       "onboard_time": 1698570689,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165982,
+      "num": 165982,
+      "word": "男人是容易掉色的",
+      "onboard_time": 1698728015,
+      "rank": 33,
+      "category": "知识科普"
     },
     {
       "raw_hot": 165675,
@@ -5531,6 +5619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154683,
+      "num": 154683,
+      "word": "万圣节扮鬼大会",
+      "onboard_time": 1698729272,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154484,
       "num": 154484,
       "word": "斗破苍穹",
@@ -5561,6 +5657,14 @@
       "onboard_time": 1698551251,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 153848,
+      "num": 153848,
+      "word": "第一次想让明星耍大牌",
+      "onboard_time": 1698729332,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 153251,
@@ -5651,12 +5755,28 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 148692,
+      "num": 148692,
+      "word": "vivoX100价格曝光",
+      "onboard_time": 1698728315,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 148498,
       "num": 148498,
       "word": "王子异被包上恩锁喉",
       "onboard_time": 1698672334,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148385,
+      "num": 148385,
+      "word": "把15块的奶茶换成了等价值的水果",
+      "onboard_time": 1698729272,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 148359,
@@ -5809,6 +5929,14 @@
       "onboard_time": 1698592177,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142957,
+      "num": 142957,
+      "word": "梁洁清透蒸馏系妆容",
+      "onboard_time": 1698727055,
+      "rank": 41,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 142943,
@@ -6307,20 +6435,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126236,
+      "num": 126236,
+      "word": "河边的错误做对了哪三件事",
+      "onboard_time": 1698726758,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126143,
       "num": 126143,
       "word": "神十六航天员回家途中淡定聊天",
       "onboard_time": 1698718893,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125861,
-      "num": 125861,
-      "word": "河边的错误做对了哪三件事",
-      "onboard_time": 1698726758,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 125630,
@@ -6707,14 +6835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111163,
-      "num": 111163,
-      "word": "亲密关系中不要总是做小孩",
-      "onboard_time": 1698726697,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110821,
       "num": 110821,
       "word": "万梗节",
@@ -7099,6 +7219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86186,
+      "num": 159320,
+      "word": "双11衣服开始论斤卖了",
+      "onboard_time": 1698728975,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
@@ -7235,6 +7363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64269,
+      "num": 174737,
+      "word": "来自耳机里的大型告白现场",
+      "onboard_time": 1698726158,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62647,
       "num": 125651,
       "word": "上千个天猫品牌承诺买贵双倍赔",
@@ -7288,14 +7424,6 @@
       "word": "如何判断一段感情还要不要继续",
       "onboard_time": 1698600320,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 54863,
-      "num": 154692,
-      "word": "来自耳机里的大型告白现场",
-      "onboard_time": 1698726158,
-      "rank": 34,
       "category": "情感"
     },
     {
