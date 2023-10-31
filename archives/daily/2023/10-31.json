@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698759252096,
+  "endTime": 1698761795468,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2397806,
+      "num": 754251,
+      "word": "退款",
+      "onboard_time": 1698757353,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2200538,
       "num": 354614,
       "word": "郭敬明 十条回应",
@@ -49,14 +57,6 @@
       "onboard_time": 1698745112,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1798614,
-      "num": 728643,
-      "word": "退款",
-      "onboard_time": 1698757353,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1786761,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1504800,
+      "num": 672489,
+      "word": "小学女教师离世留遗书称课外工作压力大",
+      "onboard_time": 1698759335,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1428139,
       "num": 625392,
       "word": "宋L",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1087706,
+      "num": 260901,
+      "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
+      "onboard_time": 1698761197,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1057774,
       "num": 461080,
       "word": "宋仲基说和儿子还不熟",
@@ -273,6 +289,14 @@
       "onboard_time": 1698718114,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 959049,
+      "num": 919239,
+      "word": "7款APP全网下架",
+      "onboard_time": 1698757836,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 942049,
@@ -515,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585984,
-      "num": 409161,
-      "word": "7款APP全网下架",
-      "onboard_time": 1698757836,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 579469,
       "num": 468387,
       "word": "万圣节徐冬冬cos终于来了",
@@ -545,6 +561,14 @@
       "onboard_time": 1698720692,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576273,
+      "num": 415449,
+      "word": "肖战短发库存",
+      "onboard_time": 1698761377,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 575236,
@@ -851,6 +875,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 348821,
+      "num": 348821,
+      "word": "虞书欣回应演唱会动作做早",
+      "onboard_time": 1698758495,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 347839,
       "num": 347839,
       "word": "巨鹿路",
@@ -985,6 +1017,14 @@
       "onboard_time": 1698717388,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293900,
+      "num": 293900,
+      "word": "向佐 我把假向太抓来直播间啦",
+      "onboard_time": 1698761497,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 292739,
@@ -1315,6 +1355,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 233721,
+      "num": 233721,
+      "word": "小伙cos哈利波特为哈迷女友庆生",
+      "onboard_time": 1698761316,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233461,
       "num": 233461,
       "word": "张小斐 女孩子就应该穿得漂亮",
@@ -1331,14 +1379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 228405,
-      "num": 228405,
-      "word": "虞书欣回应演唱会动作做早",
-      "onboard_time": 1698758495,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228031,
       "num": 228031,
       "word": "双十一",
@@ -1347,12 +1387,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 227684,
+      "num": 227684,
+      "word": "檀健次上下半身有季节差",
+      "onboard_time": 1698760595,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225909,
       "num": 282827,
       "word": "Kimi晒中国粉丝礼物",
       "onboard_time": 1698675697,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225759,
+      "num": 225759,
+      "word": "张婧仪又发朋友圈了",
+      "onboard_time": 1698758735,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 222701,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1698713073,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207184,
+      "num": 207184,
+      "word": "请你们少做自己多做爱豆",
+      "onboard_time": 1698759575,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 206854,
@@ -1603,14 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196048,
-      "num": 196048,
-      "word": "张婧仪又发朋友圈了",
-      "onboard_time": 1698758735,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195531,
       "num": 195531,
       "word": "亲密关系中不要总是做小孩",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1698722132,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192120,
+      "num": 192120,
+      "word": "可爱鬼",
+      "onboard_time": 1698760716,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 191505,
@@ -1811,6 +1875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177013,
+      "num": 177013,
+      "word": "虞书欣深V钻石吊带",
+      "onboard_time": 1698761676,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176616,
       "num": 176616,
       "word": "半个国货圈都在广州塔了",
@@ -1867,6 +1939,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 174251,
+      "num": 174251,
+      "word": "上海万圣节",
+      "onboard_time": 1698759641,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173599,
       "num": 173599,
       "word": "哈兰德获得盖德穆勒奖",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1698752851,
       "rank": 40,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 170277,
+      "num": 170277,
+      "word": "男子送坠楼男孩就医父母哽咽致谢",
+      "onboard_time": 1698760239,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169626,
@@ -2483,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "张碧晨双马尾造型",
+      "onboard_time": 1698759996,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121276,
       "num": 121276,
       "word": "园润和崽崽1比1复刻",
@@ -2889,6 +2985,14 @@
       "onboard_time": 1698746433,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74966,
+      "num": 779932,
+      "word": "中国航天员从1人变成了大家庭",
+      "onboard_time": 1698760838,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 73840,

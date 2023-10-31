@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 21:34:12
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 22:16:35
 </p>
 </blockquote>
 <p>
@@ -1121,6 +1121,12 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23" target="weibo">
 赵继伟道歉（热度：2401767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E6%AC%BE%23" target="weibo">
+退款（热度：2397806）
 </a>
 </li>
 
@@ -2583,12 +2589,6 @@ Jennie王一博看秀待遇（热度：1809955）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E6%AC%BE%23" target="weibo">
-退款（热度：1798614）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23" target="weibo">
 小慧君胜诉（热度：1798324）
 </a>
@@ -3779,6 +3779,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%B2%B3%E9%98%B3%E4%B8%80%E5%A9%9A%E8%BD%A6%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
 湖南岳阳一婚车发生车祸（热度：1507667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E7%95%99%E9%81%97%E4%B9%A6%E7%A7%B0%E8%AF%BE%E5%A4%96%E5%B7%A5%E4%BD%9C%E5%8E%8B%E5%8A%9B%E5%A4%A7%23" target="weibo">
+小学女教师离世留遗书称课外工作压力大（热度：1504800）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG掉入瑞士轮生死局（热度：1109715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%99%E5%AD%90%E6%B1%A1%E8%94%91%E5%BC%84%E6%B9%BF%E5%BA%8A%E5%9E%AB%E5%8D%B0%E5%BA%A6%E8%80%81%E4%BA%BA%E9%81%AD%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%23" target="weibo">
 被孙子污蔑弄湿床垫印度老人遭儿子殴打（热度：1090579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%8E%82%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%9B%9D%E5%9C%A8%E5%8E%9F%E6%96%99%E4%BB%93%E5%B0%8F%E4%BE%BF%23" target="weibo">
-青岛啤酒厂工人被曝在原料仓小便（热度：1090452）
 </a>
 </li>
 
