@@ -1,0 +1,410 @@
+{
+  "runTime": 1698776556811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 312527,
+        "num": 312527,
+        "word": "以色列",
+        "onboard_time": 1698765513,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216521,
+        "num": 216521,
+        "word": "7款APP全网下架",
+        "onboard_time": 1698757836,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21803,
+        "num": 160065,
+        "word": "11月起这些新规开始施行",
+        "onboard_time": 1698760536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313952,
+        "num": 153794,
+        "word": "向佐 我把假向太抓来直播间啦",
+        "onboard_time": 1698761497,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145037,
+        "num": 145037,
+        "word": "胰腺癌的早期信号是什么",
+        "onboard_time": 1698752911,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116739,
+        "num": 116739,
+        "word": "退款",
+        "onboard_time": 1698757353,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90123,
+        "num": 90123,
+        "word": "秦岚痛失真名",
+        "onboard_time": 1698763118,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86968,
+        "num": 86968,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 7,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 76756,
+        "num": 76756,
+        "word": "八年花了12万网购的感受",
+        "onboard_time": 1698757531,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69990,
+        "num": 76359,
+        "word": "24岁男子3颗烂牙一直没治感染大脑",
+        "onboard_time": 1698753867,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166318,
+        "num": 76356,
+        "word": "向太 衣服太low了",
+        "onboard_time": 1698753987,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134352,
+        "num": 76316,
+        "word": "拥有教师编制的他们后悔了",
+        "onboard_time": 1698766415,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76263,
+        "num": 76263,
+        "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
+        "onboard_time": 1698771206,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73042,
+        "num": 73042,
+        "word": "微信新增独立发送按钮",
+        "onboard_time": 1698752369,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68199,
+        "num": 68199,
+        "word": "张婧仪又发朋友圈了",
+        "onboard_time": 1698758735,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61921,
+        "num": 61921,
+        "word": "小学女教师离世留遗书称课外工作压力大",
+        "onboard_time": 1698759335,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 60087,
+        "num": 60087,
+        "word": "C罗点赞龙赛罗嘲讽梅西视频",
+        "onboard_time": 1698763477,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53385,
+        "num": 53385,
+        "word": "大吉岭茶与无人区玫瑰",
+        "onboard_time": 1698763177,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51643,
+        "num": 51643,
+        "word": "洗发水",
+        "onboard_time": 1698767436,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 49716,
+        "num": 49716,
+        "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
+        "onboard_time": 1698750334,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89374,
+        "num": 49146,
+        "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
+        "onboard_time": 1698761197,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60124,
+        "num": 49000,
+        "word": "知画是对秦岚最大的误解",
+        "onboard_time": 1698769231,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54760,
+        "num": 48925,
+        "word": "211硕士毕业后工作还需要家里补贴",
+        "onboard_time": 1698757713,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48394,
+        "num": 48394,
+        "word": "徐志胜是懂cos的",
+        "onboard_time": 1698766477,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45507,
+        "num": 45507,
+        "word": "为什么人到绝境后会大彻大悟",
+        "onboard_time": 1698771982,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44283,
+        "num": 44283,
+        "word": "卧蚕紧贴下睫毛才美",
+        "onboard_time": 1698771325,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44186,
+        "num": 44186,
+        "word": "伊朗称战争扩大将让以色列彻底毁灭",
+        "onboard_time": 1698752491,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 42453,
+        "num": 42453,
+        "word": "小S二女儿万圣节cos",
+        "onboard_time": 1698754832,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41479,
+        "num": 41479,
+        "word": "上海地铁13号线淮海中路站封站",
+        "onboard_time": 1698764138,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40681,
+        "num": 40681,
+        "word": "刘诗诗一天穿了六套高定",
+        "onboard_time": 1698749614,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39366,
+        "num": 39366,
+        "word": "万圣节",
+        "onboard_time": 1698759755,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38896,
+        "num": 38896,
+        "word": "孕妇坐乐园小火车致先兆流产",
+        "onboard_time": 1698756871,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38538,
+        "num": 38538,
+        "word": "今天好多明星营业",
+        "onboard_time": 1698763778,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37249,
+        "num": 37249,
+        "word": "梅西谈他与C罗的竞争",
+        "onboard_time": 1698771804,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36901,
+        "num": 36901,
+        "word": "THE9再现出道公式照",
+        "onboard_time": 1698755371,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35740,
+        "num": 35740,
+        "word": "张艺兴被路人当成雕塑",
+        "onboard_time": 1698765096,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35012,
+        "num": 35012,
+        "word": "以色列拒绝联合国停火决议",
+        "onboard_time": 1698752011,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 34981,
+        "num": 34981,
+        "word": "肖战短发库存",
+        "onboard_time": 1698761377,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34911,
+        "num": 34911,
+        "word": "檀健次上下半身有季节差",
+        "onboard_time": 1698760595,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33433,
+        "num": 33433,
+        "word": "虞书欣回应演唱会动作做早",
+        "onboard_time": 1698758495,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32283,
+        "num": 32283,
+        "word": "虞书欣深V钻石吊带",
+        "onboard_time": 1698761676,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31450,
+        "num": 31450,
+        "word": "相当于考研人看到男主名字叫肖秀荣",
+        "onboard_time": 1698760958,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 30793,
+        "num": 30793,
+        "word": "云南边境居民讲述缅甸军事冲突",
+        "onboard_time": 1698772222,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30018,
+        "num": 30018,
+        "word": "为有暗香来结局",
+        "onboard_time": 1698754468,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24147,
+        "num": 30016,
+        "word": "佛山电翰已出现人传人",
+        "onboard_time": 1698755131,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26373,
+        "num": 30001,
+        "word": "她一句谢谢他就红了眼眶",
+        "onboard_time": 1698765335,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24000,
+        "num": 29997,
+        "word": "中国航天员从1人变成了大家庭",
+        "onboard_time": 1698760838,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 21690,
+        "num": 29991,
+        "word": "以爱为营",
+        "onboard_time": 1698749971,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 29983,
+        "word": "仲溪午终于等到了他的华浅",
+        "onboard_time": 1698766835,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19631,
+        "num": 29974,
+        "word": "陈丽君美得好英气",
+        "onboard_time": 1698772641,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#金融是国民经济的血脉#"
+    }
+  }
+}
