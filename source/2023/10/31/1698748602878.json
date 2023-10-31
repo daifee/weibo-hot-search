@@ -1,0 +1,410 @@
+{
+  "runTime": 1698748602878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 518901,
+        "num": 781874,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 378402,
+        "num": 776114,
+        "word": "男子网购相机交2000元后民警秒上门",
+        "onboard_time": 1698744094,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51441,
+        "num": 773571,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1483619,
+        "num": 765147,
+        "word": "李佳琦谈未来两年规划",
+        "onboard_time": 1698746853,
+        "rank": 3,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 287094,
+        "num": 760479,
+        "word": "为保护50米齐长城山东花4亿修隧道",
+        "onboard_time": 1698747511,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286671,
+        "num": 753100,
+        "word": "李金铭参加明星到我家错过花少",
+        "onboard_time": 1698742652,
+        "rank": 5,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 163018,
+        "num": 748883,
+        "word": "90后夫妻深山种出火龙果",
+        "onboard_time": 1698745834,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889959,
+        "num": 741475,
+        "word": "西贝回应3只蒸饺29元",
+        "onboard_time": 1698740670,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 738894,
+        "num": 738894,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717615,
+        "num": 717615,
+        "word": "杨紫问谢娜是不是喜欢邓为",
+        "onboard_time": 1698746491,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1980945,
+        "num": 714290,
+        "word": "女子疑因cos低俗内容被警方带离现场",
+        "onboard_time": 1698745112,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881488,
+        "num": 665877,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587075,
+        "num": 587075,
+        "word": "警方不予公开中学男生被逼吃粪案件",
+        "onboard_time": 1698745233,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457183,
+        "num": 457183,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75463,
+        "num": 410486,
+        "word": "天猫双11付尾款攻略来了",
+        "onboard_time": 1698746433,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377096,
+        "num": 377096,
+        "word": "以色列在联大展示斩首视频",
+        "onboard_time": 1698739893,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 365582,
+        "num": 365582,
+        "word": "杜华 质疑李飞理解李飞成为李飞",
+        "onboard_time": 1698745711,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344619,
+        "num": 344619,
+        "word": "官方回应广东一6岁女孩脑死亡去世",
+        "onboard_time": 1698747393,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338648,
+        "num": 338648,
+        "word": "何炅曾请杨紫等小朋友吃汉堡",
+        "onboard_time": 1698746731,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288055,
+        "num": 288055,
+        "word": "cos穷鬼",
+        "onboard_time": 1698747451,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302118,
+        "num": 279062,
+        "word": "戴口罩戴口罩戴口罩",
+        "onboard_time": 1698740912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262085,
+        "num": 262085,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 231868,
+        "num": 231868,
+        "word": "张馨予针灸是为了治疗长痘",
+        "onboard_time": 1698742893,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229581,
+        "num": 229581,
+        "word": "伍佰叫伍佰 我叫二百五",
+        "onboard_time": 1698744512,
+        "rank": 23,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 229531,
+        "num": 229531,
+        "word": "多部门介入学生被逼吃粪便事件",
+        "onboard_time": 1698731671,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218800,
+        "num": 218800,
+        "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+        "onboard_time": 1698726214,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218166,
+        "num": 218166,
+        "word": "一念关山",
+        "onboard_time": 1698742412,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206854,
+        "num": 206854,
+        "word": "檀健次喝无糖奶茶主打一个过嘴瘾",
+        "onboard_time": 1698748534,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205317,
+        "num": 205317,
+        "word": "李佳琦回应最低价争夺",
+        "onboard_time": 1698732510,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 202925,
+        "num": 202925,
+        "word": "田曦薇高清无刘海生图",
+        "onboard_time": 1698748593,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201792,
+        "num": 201792,
+        "word": "长沙被打破头骨女孩已出院",
+        "onboard_time": 1698742172,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190506,
+        "num": 190506,
+        "word": "爱豆男团仿妆",
+        "onboard_time": 1698747268,
+        "rank": 31,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 190296,
+        "num": 190296,
+        "word": "有人自林中坠落",
+        "onboard_time": 1698743554,
+        "rank": 32,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 188518,
+        "num": 188518,
+        "word": "女医生水杯遭投多聚甲醛及尿液",
+        "onboard_time": 1698748234,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184534,
+        "num": 184534,
+        "word": "当我知道领导月薪十万后",
+        "onboard_time": 1698733530,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182662,
+        "num": 182662,
+        "word": "李一桐cos小恶魔",
+        "onboard_time": 1698744690,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 179766,
+        "num": 179766,
+        "word": "孟子义周也环球影城vlog",
+        "onboard_time": 1698747033,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177975,
+        "num": 177975,
+        "word": "王者荣耀",
+        "onboard_time": 1698741388,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166097,
+        "num": 166097,
+        "word": "张小斐 让红姐少亲点吧",
+        "onboard_time": 1698731250,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153311,
+        "num": 153311,
+        "word": "浪姐2024拟邀嘉宾",
+        "onboard_time": 1698737012,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152828,
+        "num": 152828,
+        "word": "闻着他家味能多吃俩馒头",
+        "onboard_time": 1698747092,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138803,
+        "num": 138803,
+        "word": "哈登加盟快船",
+        "onboard_time": 1698732811,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134058,
+        "num": 134058,
+        "word": "梅西 这个奖杯属于我也同样属于你们",
+        "onboard_time": 1698744212,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125032,
+        "num": 125032,
+        "word": "娜扎万圣节cos",
+        "onboard_time": 1698736051,
+        "rank": 43,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 118648,
+        "num": 118648,
+        "word": "广州医生用病人肚腩再造乳房",
+        "onboard_time": 1698741633,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117406,
+        "num": 117406,
+        "word": "唐嫣羊毛卷冻伤妆",
+        "onboard_time": 1698735212,
+        "rank": 45,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 113895,
+        "num": 117403,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 98332,
+        "num": 117385,
+        "word": "宋仲基说和儿子还不熟",
+        "onboard_time": 1698726214,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96910,
+        "num": 117362,
+        "word": "为有暗香来",
+        "onboard_time": 1698748593,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96908,
+        "num": 117357,
+        "word": "迪丽热巴秦岚胡先煦挡脸合影",
+        "onboard_time": 1698738992,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}

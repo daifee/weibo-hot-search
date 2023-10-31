@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698747618987,
+  "endTime": 1698748602878,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2804133,
-      "num": 507260,
+      "num": 665877,
       "word": "李金铭农村婚纱照",
       "onboard_time": 1698719074,
       "rank": 11,
@@ -113,6 +113,14 @@
       "onboard_time": 1698725313,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1483619,
+      "num": 765147,
+      "word": "李佳琦谈未来两年规划",
+      "onboard_time": 1698746853,
+      "rank": 8,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 1335385,
@@ -283,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 717615,
+      "num": 717615,
+      "word": "杨紫问谢娜是不是喜欢邓为",
+      "onboard_time": 1698746491,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699219,
       "num": 699219,
       "word": "iPhone16Pro或进一步上调售价",
@@ -371,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587075,
+      "num": 587075,
+      "word": "警方不予公开中学男生被逼吃粪案件",
+      "onboard_time": 1698745233,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579469,
       "num": 468387,
       "word": "万圣节徐冬冬cos终于来了",
@@ -435,22 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 529768,
-      "num": 529768,
-      "word": "李佳琦谈未来两年规划",
-      "onboard_time": 1698746853,
-      "rank": 8,
-      "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 516917,
-      "num": 516917,
-      "word": "警方不予公开中学男生被逼吃粪案件",
-      "onboard_time": 1698745233,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514913,
       "num": 514913,
       "word": "男子晒出结婚多年生9女1男",
@@ -465,14 +473,6 @@
       "onboard_time": 1698741388,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 489673,
-      "num": 489673,
-      "word": "杨紫问谢娜是不是喜欢邓为",
-      "onboard_time": 1698746491,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 480842,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378402,
+      "num": 894381,
+      "word": "男子网购相机交2000元后民警秒上门",
+      "onboard_time": 1698744094,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376963,
       "num": 376963,
       "word": "夸克",
@@ -675,6 +683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 344619,
+      "num": 344619,
+      "word": "官方回应广东一6岁女孩脑死亡去世",
+      "onboard_time": 1698747393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342907,
       "num": 342907,
       "word": "萧亚轩混血烟熏妆",
@@ -729,14 +745,6 @@
       "onboard_time": 1698723632,
       "rank": 14,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 309570,
-      "num": 894381,
-      "word": "男子网购相机交2000元后民警秒上门",
-      "onboard_time": 1698744094,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308730,
@@ -811,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288055,
+      "num": 288055,
+      "word": "cos穷鬼",
+      "onboard_time": 1698747451,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287414,
       "num": 287414,
       "word": "大牌化妆品价格集体跳水看齐国货",
       "onboard_time": 1698673402,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 287094,
+      "num": 760479,
+      "word": "为保护50米齐长城山东花4亿修隧道",
+      "onboard_time": 1698747511,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282227,
@@ -1147,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206854,
+      "num": 206854,
+      "word": "檀健次喝无糖奶茶主打一个过嘴瘾",
+      "onboard_time": 1698748534,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206471,
       "num": 206471,
       "word": "邢菲冰透氧气妆",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1698718054,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202925,
+      "num": 202925,
+      "word": "田曦薇高清无刘海生图",
+      "onboard_time": 1698748593,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202742,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1698728737,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188518,
+      "num": 188518,
+      "word": "女医生水杯遭投多聚甲醛及尿液",
+      "onboard_time": 1698748234,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186641,
@@ -1571,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163018,
+      "num": 811517,
+      "word": "90后夫妻深山种出火龙果",
+      "onboard_time": 1698745834,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162672,
       "num": 162672,
       "word": "涉过愤怒的海全员戏疯子",
@@ -1683,6 +1739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152828,
+      "num": 152828,
+      "word": "闻着他家味能多吃俩馒头",
+      "onboard_time": 1698747092,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151531,
       "num": 344426,
       "word": "郁美净打造大叔团教网友做搓脸操",
@@ -1731,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144295,
-      "num": 144295,
-      "word": "闻着他家味能多吃俩馒头",
-      "onboard_time": 1698747092,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143942,
       "num": 143942,
       "word": "一身反骨张拿铁",
@@ -1755,28 +1811,12 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 142939,
-      "num": 811517,
-      "word": "90后夫妻深山种出火龙果",
-      "onboard_time": 1698745834,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142571,
       "num": 142571,
       "word": "THE9也有自己的燃冬",
       "onboard_time": 1698731850,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141550,
-      "num": 141550,
-      "word": "官方回应广东一6岁女孩脑死亡去世",
-      "onboard_time": 1698747393,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141495,
@@ -1979,14 +2019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122631,
-      "num": 122631,
-      "word": "cos穷鬼",
-      "onboard_time": 1698747451,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122063,
       "num": 122063,
       "word": "撒贝宁 司仪界的天花板",
@@ -2065,14 +2097,6 @@
       "onboard_time": 1698724653,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114600,
-      "num": 259341,
-      "word": "为保护50米齐长城山东花4亿修隧道",
-      "onboard_time": 1698747511,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114095,
@@ -2291,6 +2315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96910,
+      "num": 117362,
+      "word": "为有暗香来",
+      "onboard_time": 1698748593,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95537,
       "num": 95537,
       "word": "超适合淡颜的白开水妆",
@@ -2369,6 +2401,14 @@
       "onboard_time": 1698708686,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75463,
+      "num": 478404,
+      "word": "天猫双11付尾款攻略来了",
+      "onboard_time": 1698746433,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 73840,
@@ -2457,14 +2497,6 @@
       "onboard_time": 1698738452,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 44699,
-      "num": 478404,
-      "word": "天猫双11付尾款攻略来了",
-      "onboard_time": 1698746433,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 38211,
