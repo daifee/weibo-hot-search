@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698736537975,
+  "endTime": 1698737648490,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1765049,
-      "num": 1038837,
+      "num": 1583690,
       "word": "李佳琦回应最低价争夺",
       "onboard_time": 1698732510,
       "rank": 6,
@@ -1835,6 +1835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 475874,
+      "num": 475874,
+      "word": "科学家找到癌细胞的生死开关",
+      "onboard_time": 1698733530,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 475148,
       "num": 475148,
       "word": "官方通报女子被列车撞伤",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1698502117,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461875,
-      "num": 461875,
-      "word": "科学家找到癌细胞的生死开关",
-      "onboard_time": 1698733530,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 461189,
@@ -2113,6 +2113,14 @@
       "onboard_time": 1698628590,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414358,
+      "num": 359090,
+      "word": "林子烨回击郭敬明",
+      "onboard_time": 1698735694,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 408749,
@@ -2355,14 +2363,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 359090,
-      "num": 359090,
-      "word": "林子烨回击郭敬明",
-      "onboard_time": 1698735694,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 358446,
       "num": 456001,
       "word": "阿斐家规很严的",
@@ -2457,6 +2457,14 @@
       "onboard_time": 1698732871,
       "rank": 25,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 342715,
+      "num": 342715,
+      "word": "吴亦凡公司因与华帝纠纷被限消",
+      "onboard_time": 1698737371,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 342386,
@@ -2667,6 +2675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310611,
+      "num": 310611,
+      "word": "浪姐2024拟邀嘉宾",
+      "onboard_time": 1698737012,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310372,
       "num": 310372,
       "word": "王鹤棣工作室是懂粉丝的",
@@ -2753,6 +2769,14 @@
       "onboard_time": 1698555811,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303176,
+      "num": 303176,
+      "word": "唐嫣羊毛卷冻伤妆",
+      "onboard_time": 1698735212,
+      "rank": 24,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 302978,
@@ -3083,14 +3107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 269465,
-      "num": 269465,
-      "word": "唐嫣羊毛卷冻伤妆",
-      "onboard_time": 1698735212,
-      "rank": 24,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 268825,
       "num": 268825,
       "word": "张杰没看完邓紫棋MV被抓包",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1698590615,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 264165,
+      "num": 264165,
+      "word": "杨迪把檀健次毛晓彤整不会了",
+      "onboard_time": 1698737131,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 263986,
@@ -3225,6 +3249,14 @@
       "onboard_time": 1698584733,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257721,
+      "num": 257721,
+      "word": "恒大歌舞团4年间由78人参保减为0",
+      "onboard_time": 1698737193,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257162,
@@ -4995,6 +5027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183811,
+      "num": 183811,
+      "word": "NBA西部更乱了",
+      "onboard_time": 1698736892,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183571,
       "num": 183571,
       "word": "02年小伙花180元从青岛坐公交来杭州",
@@ -5249,6 +5289,14 @@
       "onboard_time": 1698624514,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174879,
+      "num": 174879,
+      "word": "76人大甩卖",
+      "onboard_time": 1698736472,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 174730,
@@ -6163,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143942,
+      "num": 143942,
+      "word": "一身反骨张拿铁",
+      "onboard_time": 1698735753,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143201,
       "num": 143201,
       "word": "于和伟在准备演精神病了",
@@ -6257,14 +6313,6 @@
       "onboard_time": 1698590856,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140751,
-      "num": 140751,
-      "word": "一身反骨张拿铁",
-      "onboard_time": 1698735753,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 140631,
@@ -6891,12 +6939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121276,
+      "num": 121276,
+      "word": "园润和崽崽1比1复刻",
+      "onboard_time": 1698737012,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121254,
       "num": 121254,
       "word": "保安大叔牵萌娃上楼梯同步率满分",
       "onboard_time": 1698570390,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121142,
+      "num": 121142,
+      "word": "老友记 爱永远是赢家",
+      "onboard_time": 1698737072,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 120600,
@@ -7004,7 +7068,7 @@
     },
     {
       "raw_hot": 117831,
-      "num": 165925,
+      "num": 311147,
       "word": "梅见主播因宣传费减少直播哭了",
       "onboard_time": 1698735871,
       "rank": 31,
@@ -7571,14 +7635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91003,
-      "num": 91003,
-      "word": "76人大甩卖",
-      "onboard_time": 1698736472,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90931,
       "num": 90931,
       "word": "梦岚掉点",
@@ -7715,6 +7771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71108,
+      "num": 444252,
+      "word": "年轻人的必备房搭子",
+      "onboard_time": 1698735394,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70544,
       "num": 343727,
       "word": "据说明晚京东双十一又放补贴",
@@ -7832,14 +7896,6 @@
       "word": "如何判断一段感情还要不要继续",
       "onboard_time": 1698600320,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 55185,
-      "num": 444252,
-      "word": "年轻人的必备房搭子",
-      "onboard_time": 1698735394,
-      "rank": 11,
       "category": "情感"
     },
     {
@@ -8043,6 +8099,14 @@
       "category": "教育,作品衍生"
     },
     {
+      "raw_hot": 24981,
+      "num": 420577,
+      "word": "和毛雪汪一起付天猫双11尾款",
+      "onboard_time": 1698735633,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 23997,
       "num": 29123,
       "word": "AI合成郭德纲于谦用外语说相声",
@@ -8065,14 +8129,6 @@
       "onboard_time": 1698548553,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18534,
-      "num": 420577,
-      "word": "和毛雪汪一起付天猫双11尾款",
-      "onboard_time": 1698735633,
-      "rank": 14,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 15354,
