@@ -1,0 +1,410 @@
+{
+  "runTime": 1698730438706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306491,
+        "num": 1306491,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 619726,
+        "num": 619726,
+        "word": "外卖漏送米饭被要求191元整单退款",
+        "onboard_time": 1698723032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67943,
+        "num": 607966,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2325888,
+        "num": 581624,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1634446,
+        "num": 570535,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1254294,
+        "num": 546267,
+        "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+        "onboard_time": 1698726214,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642011,
+        "num": 520393,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 514913,
+        "num": 514913,
+        "word": "男子晒出结婚多年生9女1男",
+        "onboard_time": 1698725855,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462190,
+        "num": 462190,
+        "word": "沙特人跟韩国人说中文",
+        "onboard_time": 1698725795,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411241,
+        "num": 461994,
+        "word": "乳腺结节真是气出来的吗",
+        "onboard_time": 1698719074,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1956526,
+        "num": 461519,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 952072,
+        "num": 461080,
+        "word": "宋仲基说和儿子还不熟",
+        "onboard_time": 1698726214,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570028,
+        "num": 460395,
+        "word": "被郭敬明留住二十多岁的明星们",
+        "onboard_time": 1698726935,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460240,
+        "num": 460240,
+        "word": "夏克立自曝为打官司花了560万",
+        "onboard_time": 1698726935,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423754,
+        "num": 423754,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1318062,
+        "num": 420860,
+        "word": "李金铭 现实版盲山",
+        "onboard_time": 1698725313,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306015,
+        "num": 306015,
+        "word": "檀健次还原相柳名场面",
+        "onboard_time": 1698728556,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469266,
+        "num": 288683,
+        "word": "郭敬明 十条回应",
+        "onboard_time": 1698723451,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267507,
+        "num": 267507,
+        "word": "西方猛鬼为何输给了中式恐怖",
+        "onboard_time": 1698729452,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259805,
+        "num": 259805,
+        "word": "把15块的奶茶换成了等价值的水果",
+        "onboard_time": 1698729272,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244950,
+        "num": 244950,
+        "word": "湖人防守",
+        "onboard_time": 1698729753,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225322,
+        "num": 225322,
+        "word": "藏海戏麟改名 藏海传",
+        "onboard_time": 1698720692,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203969,
+        "num": 203969,
+        "word": "中方呼吁巴以冲突方立即实现人道休战",
+        "onboard_time": 1698724412,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 201724,
+        "num": 201724,
+        "word": "毛晓彤起床铃声",
+        "onboard_time": 1698729812,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195902,
+        "num": 195902,
+        "word": "罗云熙章若楠情侣装海报",
+        "onboard_time": 1698727419,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184464,
+        "num": 184464,
+        "word": "亲密关系中不要总是做小孩",
+        "onboard_time": 1698726697,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183989,
+        "num": 183989,
+        "word": "我就知道不是眼影的问题",
+        "onboard_time": 1698726396,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175733,
+        "num": 175733,
+        "word": "花西子跌出天猫双十一彩妆预售榜前20",
+        "onboard_time": 1698708506,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171072,
+        "num": 171072,
+        "word": "再见爱人",
+        "onboard_time": 1698730053,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109068,
+        "num": 168066,
+        "word": "双11衣服开始论斤卖了",
+        "onboard_time": 1698728975,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167529,
+        "num": 167529,
+        "word": "原来丑橘不是橘子",
+        "onboard_time": 1698724833,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167019,
+        "num": 167019,
+        "word": "万圣节扮鬼大会",
+        "onboard_time": 1698729272,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161507,
+        "num": 161507,
+        "word": "华为成为中国平板市场第一",
+        "onboard_time": 1698729932,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152606,
+        "num": 152606,
+        "word": "居然在韩国KBS看到袁娅维",
+        "onboard_time": 1698716368,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140435,
+        "num": 140435,
+        "word": "男人是容易掉色的",
+        "onboard_time": 1698728015,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 137062,
+        "num": 137062,
+        "word": "朋友30岁癌症去世生前说他反而很开心",
+        "onboard_time": 1698671555,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123835,
+        "num": 123835,
+        "word": "刘宇万圣节cos朱迪兔子警官",
+        "onboard_time": 1698713073,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 122063,
+        "num": 122063,
+        "word": "撒贝宁 司仪界的天花板",
+        "onboard_time": 1698730294,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120672,
+        "num": 120672,
+        "word": "邓为说想和沈腾合作",
+        "onboard_time": 1698723213,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115183,
+        "num": 115183,
+        "word": "cos明星上街会被发律师函吗",
+        "onboard_time": 1698723632,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 112695,
+        "num": 112695,
+        "word": "夸克",
+        "onboard_time": 1698708869,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112366,
+        "num": 112366,
+        "word": "万圣节",
+        "onboard_time": 1698711394,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109949,
+        "num": 109949,
+        "word": "河边的错误做对了哪三件事",
+        "onboard_time": 1698726758,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109694,
+        "num": 109694,
+        "word": "马立奥的英文单词量比张拿铁都多",
+        "onboard_time": 1698720454,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106850,
+        "num": 106850,
+        "word": "单依纯 我最近说错太多话了",
+        "onboard_time": 1698730411,
+        "rank": 44,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 106492,
+        "num": 106492,
+        "word": "邢菲冰透氧气妆",
+        "onboard_time": 1698728315,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 104195,
+        "num": 104195,
+        "word": "警方申请确认权志龙通话内容被驳回",
+        "onboard_time": 1698718174,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103061,
+        "num": 103061,
+        "word": "2023MAMA第二轮阵容",
+        "onboard_time": 1698717388,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99583,
+        "num": 102797,
+        "word": "星穹铁道真理医生",
+        "onboard_time": 1698728737,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102607,
+        "num": 102607,
+        "word": "张译又演警察了",
+        "onboard_time": 1698726214,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}

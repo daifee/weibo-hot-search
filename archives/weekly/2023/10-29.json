@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698729363817,
+  "endTime": 1698730438706,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2804133,
-      "num": 431686,
+      "num": 461519,
       "word": "李金铭农村婚纱照",
       "onboard_time": 1698719074,
       "rank": 11,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1555743,
-      "num": 305059,
+      "num": 420860,
       "word": "李金铭 现实版盲山",
       "onboard_time": 1698725313,
       "rank": 16,
@@ -379,20 +379,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1254294,
+      "num": 595817,
+      "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+      "onboard_time": 1698726214,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1253968,
       "num": 430321,
       "word": "警方称权志龙被确认的证据不具体",
       "onboard_time": 1698573329,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1250999,
-      "num": 595817,
-      "word": "中国籍苹果女程序员在美飙车致男伴死亡",
-      "onboard_time": 1698726214,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1225735,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 1057774,
-      "num": 387263,
+      "num": 461080,
       "word": "宋仲基说和儿子还不熟",
       "onboard_time": 1698726214,
       "rank": 12,
@@ -1444,7 +1444,7 @@
     },
     {
       "raw_hot": 575236,
-      "num": 271895,
+      "num": 460395,
       "word": "被郭敬明留住二十多岁的明星们",
       "onboard_time": 1698726935,
       "rank": 17,
@@ -1548,7 +1548,7 @@
     },
     {
       "raw_hot": 550251,
-      "num": 333601,
+      "num": 460240,
       "word": "夏克立自曝为打官司花了560万",
       "onboard_time": 1698726935,
       "rank": 13,
@@ -1619,6 +1619,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 514913,
+      "num": 514913,
+      "word": "男子晒出结婚多年生9女1男",
+      "onboard_time": 1698725855,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514722,
       "num": 514722,
       "word": "妇女的作用不可替代",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1698637053,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 513474,
-      "num": 513474,
-      "word": "男子晒出结婚多年生9女1男",
-      "onboard_time": 1698725855,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512796,
@@ -1985,6 +1985,14 @@
       "onboard_time": 1698558149,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 423754,
+      "num": 423754,
+      "word": "第一次想让明星耍大牌",
+      "onboard_time": 1698729332,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 420814,
@@ -2595,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306015,
+      "num": 306015,
+      "word": "檀健次还原相柳名场面",
+      "onboard_time": 1698728556,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304987,
       "num": 304987,
       "word": "THE9 dumb dumb bomb",
@@ -2955,6 +2971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267507,
+      "num": 267507,
+      "word": "西方猛鬼为何输给了中式恐怖",
+      "onboard_time": 1698729452,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266715,
       "num": 266715,
       "word": "十个勤天",
@@ -3057,6 +3081,14 @@
       "onboard_time": 1698577713,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259805,
+      "num": 259805,
+      "word": "把15块的奶茶换成了等价值的水果",
+      "onboard_time": 1698729272,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 259253,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1698577832,
       "rank": 22,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 244950,
+      "num": 244950,
+      "word": "湖人防守",
+      "onboard_time": 1698729753,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 244748,
@@ -4083,6 +4123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201724,
+      "num": 201724,
+      "word": "毛晓彤起床铃声",
+      "onboard_time": 1698729812,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 201569,
       "num": 201569,
       "word": "于适对话环球人物",
@@ -4305,14 +4353,6 @@
       "onboard_time": 1698726697,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195521,
-      "num": 195521,
-      "word": "檀健次还原相柳名场面",
-      "onboard_time": 1698728556,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 195507,
@@ -5147,6 +5187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171072,
+      "num": 171072,
+      "word": "再见爱人",
+      "onboard_time": 1698730053,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170960,
       "num": 170960,
       "word": "低频",
@@ -5249,6 +5297,14 @@
       "onboard_time": 1698578972,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167019,
+      "num": 167019,
+      "word": "万圣节扮鬼大会",
+      "onboard_time": 1698729272,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 166499,
@@ -5409,6 +5465,14 @@
       "onboard_time": 1698675277,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161507,
+      "num": 161507,
+      "word": "华为成为中国平板市场第一",
+      "onboard_time": 1698729932,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 161145,
@@ -5619,14 +5683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154683,
-      "num": 154683,
-      "word": "万圣节扮鬼大会",
-      "onboard_time": 1698729272,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154484,
       "num": 154484,
       "word": "斗破苍穹",
@@ -5657,14 +5713,6 @@
       "onboard_time": 1698551251,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 153848,
-      "num": 153848,
-      "word": "第一次想让明星耍大牌",
-      "onboard_time": 1698729332,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 153251,
@@ -5769,14 +5817,6 @@
       "onboard_time": 1698672334,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148385,
-      "num": 148385,
-      "word": "把15块的奶茶换成了等价值的水果",
-      "onboard_time": 1698729272,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 148359,
@@ -6539,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122063,
+      "num": 122063,
+      "word": "撒贝宁 司仪界的天花板",
+      "onboard_time": 1698730294,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121850,
       "num": 121850,
       "word": "舒兰受灾群众42天搬入新家",
@@ -6883,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109068,
+      "num": 168066,
+      "word": "双11衣服开始论斤卖了",
+      "onboard_time": 1698728975,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108746,
       "num": 108746,
       "word": "万圣节巫毒娃娃",
@@ -6921,6 +6977,14 @@
       "onboard_time": 1698568773,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106850,
+      "num": 106850,
+      "word": "单依纯 我最近说错太多话了",
+      "onboard_time": 1698730411,
+      "rank": 44,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 106775,
@@ -7219,14 +7283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86186,
-      "num": 159320,
-      "word": "双11衣服开始论斤卖了",
-      "onboard_time": 1698728975,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
@@ -7313,6 +7369,14 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67943,
+      "num": 607966,
+      "word": "神十六航天员回地球",
+      "onboard_time": 1698729812,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 67548,

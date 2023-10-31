@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 13:16:03
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 13:33:58
 </p>
 </blockquote>
 <p>
@@ -4977,6 +4977,12 @@ THE9合体再跳YESOK（热度：1276398）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23" target="weibo">
+中国籍苹果女程序员在美飙车致男伴死亡（热度：1254294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8E%A7%E7%B3%96%E4%B8%8D%E8%83%BD%E5%90%83%E8%BF%99%E4%BA%9B%23" target="weibo">
 原来控糖不能吃这些（热度：1254068）
 </a>
@@ -4997,12 +5003,6 @@ THE9合体再跳YESOK（热度：1276398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F%23" target="weibo">
 腾讯视频 胆小模式（热度：1252085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23" target="weibo">
-中国籍苹果女程序员在美飙车致男伴死亡（热度：1250999）
 </a>
 </li>
 
