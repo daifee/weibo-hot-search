@@ -1,6 +1,6 @@
 {
   "startTime": 1698682970206,
-  "endTime": 1698737648490,
+  "endTime": 1698740486016,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -275,6 +275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 689382,
+      "num": 326097,
+      "word": "恒大歌舞团4年间由78人参保减为0",
+      "onboard_time": 1698737193,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684691,
       "num": 684691,
       "word": "巨好吃却最长肉的食物是什么",
@@ -305,6 +313,14 @@
       "onboard_time": 1698707904,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603692,
+      "num": 603692,
+      "word": "浪姐2024拟邀嘉宾",
+      "onboard_time": 1698737012,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 599921,
@@ -427,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414358,
-      "num": 359090,
+      "raw_hot": 417163,
+      "num": 417163,
       "word": "林子烨回击郭敬明",
       "onboard_time": 1698735694,
       "rank": 19,
@@ -441,6 +457,14 @@
       "onboard_time": 1698712716,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 406695,
+      "num": 406695,
+      "word": "神十六航天员平安抵京",
+      "onboard_time": 1698738632,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386628,
@@ -579,14 +603,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 310611,
-      "num": 310611,
-      "word": "浪姐2024拟邀嘉宾",
-      "onboard_time": 1698737012,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 308730,
       "num": 308730,
       "word": "露露黄了 联名礼盒",
@@ -667,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278681,
+      "num": 278681,
+      "word": "伍佰叫伍佰的原因",
+      "onboard_time": 1698738813,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277072,
       "num": 277072,
       "word": "周迅教你演尸体",
       "onboard_time": 1698721354,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 275910,
+      "num": 275910,
+      "word": "刘诗诗好有冲击力的美",
+      "onboard_time": 1698738155,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 272384,
@@ -729,14 +761,6 @@
       "onboard_time": 1698729272,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 257721,
-      "num": 257721,
-      "word": "恒大歌舞团4年间由78人参保减为0",
-      "onboard_time": 1698737193,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253839,
@@ -835,6 +859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 237102,
+      "num": 237102,
+      "word": "看过爱豆的眼珠子售价500成本1元",
+      "onboard_time": 1698738512,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235620,
       "num": 235620,
       "word": "山西一患者疑被医生输入禁忌药物致死",
@@ -889,6 +921,14 @@
       "onboard_time": 1698733892,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215012,
+      "num": 215012,
+      "word": "惹谁不好惹爱写字的",
+      "onboard_time": 1698739235,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214254,
@@ -961,6 +1001,14 @@
       "onboard_time": 1698718054,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202742,
+      "num": 168976,
+      "word": "张硕 再这样就不地道了",
+      "onboard_time": 1698739471,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 202645,
@@ -1147,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175545,
+      "num": 175545,
+      "word": "迪丽热巴秦岚胡先煦挡脸合影",
+      "onboard_time": 1698738992,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175045,
       "num": 175045,
       "word": "胡先煦cos蜘蛛侠",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1698719433,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171543,
+      "num": 168063,
+      "word": "宋雨琦首个国产剧OST",
+      "onboard_time": 1698740011,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 171467,
@@ -1281,6 +1345,14 @@
       "onboard_time": 1698728015,
       "rank": 33,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "以色列在联大展示斩首视频",
+      "onboard_time": 1698739893,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 163823,
@@ -1611,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125489,
+      "num": 121637,
+      "word": "老友记五人组将参加马修葬礼",
+      "onboard_time": 1698740073,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125406,
       "num": 125406,
       "word": "当牙医的爸爸给弄的万圣节尖牙",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1698673716,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121161,
+      "num": 121161,
+      "word": "交警暖心回应川A大军让行后不敢走",
+      "onboard_time": 1698738391,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121142,
@@ -1745,6 +1833,14 @@
       "onboard_time": 1698679295,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111163,
+      "num": 111163,
+      "word": "女邻居冲进火场抢关燃气阀门被烧伤",
+      "onboard_time": 1698740253,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110363,
@@ -1923,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87154,
+      "num": 444252,
+      "word": "年轻人的必备房搭子",
+      "onboard_time": 1698735394,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86577,
       "num": 86577,
       "word": "金球奖颁奖典礼",
@@ -1931,12 +2035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84245,
+      "num": 84245,
+      "word": "大熊猫是怎么贴秋膘的",
+      "onboard_time": 1698739773,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82876,
       "num": 989132,
       "word": "神十六航天员回地球",
       "onboard_time": 1698729812,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 80812,
+      "num": 80812,
+      "word": "小马甲维持婚姻幸福的秘诀",
+      "onboard_time": 1698738092,
+      "rank": 48,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 79595,
@@ -1953,14 +2073,6 @@
       "onboard_time": 1698682051,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71108,
-      "num": 444252,
-      "word": "年轻人的必备房搭子",
-      "onboard_time": 1698735394,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 67179,
@@ -2033,6 +2145,14 @@
       "onboard_time": 1698707425,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48164,
+      "num": 80717,
+      "word": "费翔唱了故乡的云一万次",
+      "onboard_time": 1698738452,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 38211,
