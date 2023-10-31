@@ -1,0 +1,410 @@
+{
+  "runTime": 1698733351196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081038,
+        "num": 1081038,
+        "word": "哈登加盟快船",
+        "onboard_time": 1698732811,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 932633,
+        "num": 932633,
+        "word": "李克强同志遗体11月2日火化",
+        "onboard_time": 1698717808,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82876,
+        "num": 895730,
+        "word": "神十六航天员回地球",
+        "onboard_time": 1698729812,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2027406,
+        "num": 808803,
+        "word": "重度抑郁女生被医生建议断亲",
+        "onboard_time": 1698724532,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245779,
+        "num": 678346,
+        "word": "头发夹在耳后显脸小的正确方法",
+        "onboard_time": 1698722012,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 966012,
+        "num": 627492,
+        "word": "中国籍苹果女程序员在美飙车致男伴死亡",
+        "onboard_time": 1698726214,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592570,
+        "num": 592570,
+        "word": "李佳琦回应最低价争夺",
+        "onboard_time": 1698732510,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 567745,
+        "num": 567745,
+        "word": "张小斐 让红姐少亲点吧",
+        "onboard_time": 1698731250,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480095,
+        "num": 480095,
+        "word": "加沙孕妇在无麻醉下接受剖腹产",
+        "onboard_time": 1698716487,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 394074,
+        "num": 394074,
+        "word": "外卖漏送米饭被要求191元整单退款",
+        "onboard_time": 1698723032,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483626,
+        "num": 391857,
+        "word": "李金铭农村婚纱照",
+        "onboard_time": 1698719074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572288,
+        "num": 380259,
+        "word": "多部门介入学生被逼吃粪便事件",
+        "onboard_time": 1698731671,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971941,
+        "num": 368048,
+        "word": "第一次想让明星耍大牌",
+        "onboard_time": 1698729332,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553020,
+        "num": 362725,
+        "word": "宋仲基说和儿子还不熟",
+        "onboard_time": 1698726214,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541858,
+        "num": 354217,
+        "word": "秦岚声带出了问题",
+        "onboard_time": 1698731613,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 898688,
+        "num": 343555,
+        "word": "李金铭 现实版盲山",
+        "onboard_time": 1698725313,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340822,
+        "num": 340822,
+        "word": "夏克立自曝为打官司花了560万",
+        "onboard_time": 1698726935,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327013,
+        "num": 327013,
+        "word": "西方猛鬼为何输给了中式恐怖",
+        "onboard_time": 1698729452,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326711,
+        "num": 326711,
+        "word": "被郭敬明留住二十多岁的明星们",
+        "onboard_time": 1698726935,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322807,
+        "num": 322807,
+        "word": "男子晒出结婚多年生9女1男",
+        "onboard_time": 1698725855,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321299,
+        "num": 321299,
+        "word": "大疆回应网传被罚440亿",
+        "onboard_time": 1698732453,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 302176,
+        "num": 302176,
+        "word": "露露黄了 联名礼盒",
+        "onboard_time": 1698732331,
+        "rank": 21,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 279604,
+        "num": 279604,
+        "word": "沙特人跟韩国人说中文",
+        "onboard_time": 1698725795,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245947,
+        "num": 245947,
+        "word": "郭敬明叫田嘉瑞林子烨小学鸡",
+        "onboard_time": 1698730773,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68733,
+        "num": 242251,
+        "word": "黄龄教你怎么买低价iPhone",
+        "onboard_time": 1698731911,
+        "rank": 24,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 241068,
+        "num": 241068,
+        "word": "萧亚轩混血烟熏妆",
+        "onboard_time": 1698732871,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 233461,
+        "num": 233461,
+        "word": "张小斐 女孩子就应该穿得漂亮",
+        "onboard_time": 1698731010,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229360,
+        "num": 229360,
+        "word": "enhypen 票贵",
+        "onboard_time": 1698731491,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223383,
+        "num": 223383,
+        "word": "把15块的奶茶换成了等价值的水果",
+        "onboard_time": 1698729272,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216759,
+        "num": 216759,
+        "word": "乳腺结节真是气出来的吗",
+        "onboard_time": 1698719074,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212157,
+        "num": 212157,
+        "word": "张远万圣节狼人造型",
+        "onboard_time": 1698731791,
+        "rank": 30,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 202645,
+        "num": 202645,
+        "word": "刘诗诗时光生长大片",
+        "onboard_time": 1698732390,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186419,
+        "num": 186419,
+        "word": "檀健次还原相柳名场面",
+        "onboard_time": 1698728556,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171510,
+        "num": 171510,
+        "word": "湖人防守",
+        "onboard_time": 1698729753,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168729,
+        "num": 168729,
+        "word": "华为成为中国平板市场第一",
+        "onboard_time": 1698729932,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 141495,
+        "word": "单依纯 我最近说错太多话了",
+        "onboard_time": 1698730411,
+        "rank": 35,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 60382,
+        "num": 135431,
+        "word": "vivoX100价格曝光",
+        "onboard_time": 1698730533,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135216,
+        "num": 135216,
+        "word": "陈瑶万圣节妆容",
+        "onboard_time": 1698732931,
+        "rank": 37,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 132546,
+        "num": 132546,
+        "word": "胡先煦 找个靠谱的朋友比较重要",
+        "onboard_time": 1698731551,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126300,
+        "num": 126300,
+        "word": "的哥听到乘客对话直接开进派出所",
+        "onboard_time": 1698731010,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130056,
+        "num": 125746,
+        "word": "THE9也有自己的燃冬",
+        "onboard_time": 1698731850,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123129,
+        "num": 123129,
+        "word": "藏海戏麟改名 藏海传",
+        "onboard_time": 1698720692,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119317,
+        "num": 119317,
+        "word": "亲密关系中不要总是做小孩",
+        "onboard_time": 1698726697,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117651,
+        "num": 117651,
+        "word": "退休前最后一课丈夫捧着鲜花接她",
+        "onboard_time": 1698731491,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116888,
+        "num": 116888,
+        "word": "周也一凑近王星越就慌了",
+        "onboard_time": 1698730533,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108423,
+        "num": 108423,
+        "word": "撒贝宁 司仪界的天花板",
+        "onboard_time": 1698730294,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100435,
+        "num": 100435,
+        "word": "星穹铁道万圣节cos",
+        "onboard_time": 1698730832,
+        "rank": 46,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 98564,
+        "num": 98564,
+        "word": "罗云熙章若楠情侣装海报",
+        "onboard_time": 1698727419,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94549,
+        "num": 94549,
+        "word": "原来丑橘不是橘子",
+        "onboard_time": 1698724833,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89606,
+        "num": 89606,
+        "word": "万圣节",
+        "onboard_time": 1698711394,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}

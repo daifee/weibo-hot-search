@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698730438706,
+  "endTime": 1698733351196,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1254294,
-      "num": 595817,
+      "num": 627492,
       "word": "中国籍苹果女程序员在美飙车致男伴死亡",
       "onboard_time": 1698726214,
       "rank": 13,
@@ -465,6 +465,14 @@
       "onboard_time": 1698592656,
       "rank": 16,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 1081038,
+      "num": 1081038,
+      "word": "哈登加盟快船",
+      "onboard_time": 1698732811,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1074192,
@@ -585,6 +593,14 @@
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 971941,
+      "num": 423754,
+      "word": "第一次想让明星耍大牌",
+      "onboard_time": 1698729332,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 971798,
@@ -1371,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592570,
+      "num": 592570,
+      "word": "李佳琦回应最低价争夺",
+      "onboard_time": 1698732510,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 592311,
       "num": 592311,
       "word": "WBG 蓝方ban霞",
@@ -1449,6 +1473,22 @@
       "onboard_time": 1698726935,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572288,
+      "num": 380259,
+      "word": "多部门介入学生被逼吃粪便事件",
+      "onboard_time": 1698731671,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567745,
+      "num": 567745,
+      "word": "张小斐 让红姐少亲点吧",
+      "onboard_time": 1698731250,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 566576,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1698669512,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 541858,
+      "num": 354217,
+      "word": "秦岚声带出了问题",
+      "onboard_time": 1698731613,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 537742,
@@ -1985,14 +2033,6 @@
       "onboard_time": 1698558149,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 423754,
-      "num": 423754,
-      "word": "第一次想让明星耍大牌",
-      "onboard_time": 1698729332,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 420814,
@@ -2459,6 +2499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 327013,
+      "num": 327013,
+      "word": "西方猛鬼为何输给了中式恐怖",
+      "onboard_time": 1698729452,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326778,
       "num": 326778,
       "word": "田耕纪出品方回应编剧问题",
@@ -2505,6 +2553,14 @@
       "onboard_time": 1698586474,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 321299,
+      "num": 321299,
+      "word": "大疆回应网传被罚440亿",
+      "onboard_time": 1698732453,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 320747,
@@ -2641,6 +2697,14 @@
       "onboard_time": 1698561569,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302176,
+      "num": 302176,
+      "word": "露露黄了 联名礼盒",
+      "onboard_time": 1698732331,
+      "rank": 21,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 300283,
@@ -2971,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267507,
-      "num": 267507,
-      "word": "西方猛鬼为何输给了中式恐怖",
-      "onboard_time": 1698729452,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266715,
       "num": 266715,
       "word": "十个勤天",
@@ -3283,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245947,
+      "num": 245947,
+      "word": "郭敬明叫田嘉瑞林子烨小学鸡",
+      "onboard_time": 1698730773,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245795,
       "num": 245795,
       "word": "王哲林",
@@ -3369,6 +3433,14 @@
       "onboard_time": 1698578558,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241068,
+      "num": 241068,
+      "word": "萧亚轩混血烟熏妆",
+      "onboard_time": 1698732871,
+      "rank": 25,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 240904,
@@ -3507,6 +3579,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 233461,
+      "num": 233461,
+      "word": "张小斐 女孩子就应该穿得漂亮",
+      "onboard_time": 1698731010,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 233389,
       "num": 233389,
       "word": "所有的雨都避开这只小狗",
@@ -3601,6 +3681,14 @@
       "onboard_time": 1698571831,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229360,
+      "num": 229360,
+      "word": "enhypen 票贵",
+      "onboard_time": 1698731491,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 227210,
@@ -3833,6 +3921,14 @@
       "onboard_time": 1698579512,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212157,
+      "num": 212157,
+      "word": "张远万圣节狼人造型",
+      "onboard_time": 1698731791,
+      "rank": 30,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 211844,
@@ -4097,6 +4193,14 @@
       "onboard_time": 1698552931,
       "rank": 41,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 202645,
+      "num": 202645,
+      "word": "刘诗诗时光生长大片",
+      "onboard_time": 1698732390,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202641,
@@ -5259,6 +5363,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 168729,
+      "num": 168729,
+      "word": "华为成为中国平板市场第一",
+      "onboard_time": 1698729932,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "利物浦vs诺丁汉森林",
@@ -5465,14 +5577,6 @@
       "onboard_time": 1698675277,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161507,
-      "num": 161507,
-      "word": "华为成为中国平板市场第一",
-      "onboard_time": 1698729932,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 161145,
@@ -6027,6 +6131,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 141495,
+      "num": 141495,
+      "word": "单依纯 我最近说错太多话了",
+      "onboard_time": 1698730411,
+      "rank": 44,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 140934,
       "num": 140934,
       "word": "17战队夺冠",
@@ -6179,6 +6291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135216,
+      "num": 135216,
+      "word": "陈瑶万圣节妆容",
+      "onboard_time": 1698732931,
+      "rank": 37,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 134966,
       "num": 134966,
       "word": "仲溪午为了华浅创翻所有人",
@@ -6273,6 +6393,14 @@
       "onboard_time": 1698550890,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132546,
+      "num": 132546,
+      "word": "胡先煦 找个靠谱的朋友比较重要",
+      "onboard_time": 1698731551,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 132393,
@@ -6387,6 +6515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130056,
+      "num": 125746,
+      "word": "THE9也有自己的燃冬",
+      "onboard_time": 1698731850,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130033,
       "num": 130033,
       "word": "成都把秋天搬进地铁里",
@@ -6473,6 +6609,14 @@
       "onboard_time": 1698542556,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126300,
+      "num": 126300,
+      "word": "的哥听到乘客对话直接开进派出所",
+      "onboard_time": 1698731010,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126236,
@@ -6723,6 +6867,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 117651,
+      "num": 117651,
+      "word": "退休前最后一课丈夫捧着鲜花接她",
+      "onboard_time": 1698731491,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117318,
       "num": 117318,
       "word": "丑但好吃的四大名菜",
@@ -6737,6 +6889,14 @@
       "onboard_time": 1698496355,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116888,
+      "num": 116888,
+      "word": "周也一凑近王星越就慌了",
+      "onboard_time": 1698730533,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 116794,
@@ -6979,14 +7139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106850,
-      "num": 106850,
-      "word": "单依纯 我最近说错太多话了",
-      "onboard_time": 1698730411,
-      "rank": 44,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 106775,
       "num": 375781,
       "word": "OPPO小折叠中国市场第一",
@@ -7121,6 +7273,14 @@
       "onboard_time": 1698648152,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100435,
+      "num": 100435,
+      "word": "星穹铁道万圣节cos",
+      "onboard_time": 1698730832,
+      "rank": 46,
+      "category": "游戏,美妆"
     },
     {
       "raw_hot": 100332,
@@ -7291,6 +7451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82876,
+      "num": 895730,
+      "word": "神十六航天员回地球",
+      "onboard_time": 1698729812,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 79595,
       "num": 79595,
       "word": "孕妇低血糖民警带一盒糖出警",
@@ -7371,12 +7539,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 67943,
-      "num": 607966,
-      "word": "神十六航天员回地球",
-      "onboard_time": 1698729812,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 68733,
+      "num": 242251,
+      "word": "黄龄教你怎么买低价iPhone",
+      "onboard_time": 1698731911,
+      "rank": 24,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 67548,
