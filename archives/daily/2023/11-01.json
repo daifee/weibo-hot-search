@@ -1,7 +1,23 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698791649558,
+  "endTime": 1698794195585,
   "band_list": [
+    {
+      "raw_hot": 1593385,
+      "num": 1593385,
+      "word": "以色列",
+      "onboard_time": 1698765513,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1259657,
+      "num": 286248,
+      "word": "拥有教师编制的他们后悔了",
+      "onboard_time": 1698766415,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1258089,
       "num": 652522,
@@ -9,14 +25,6 @@
       "onboard_time": 1698761497,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1158007,
-      "num": 286248,
-      "word": "拥有教师编制的他们后悔了",
-      "onboard_time": 1698766415,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897081,
@@ -43,11 +51,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 746695,
-      "num": 746695,
-      "word": "以色列",
-      "onboard_time": 1698765513,
-      "rank": 4,
+      "raw_hot": 783640,
+      "num": 783640,
+      "word": "这个锅中国不背",
+      "onboard_time": 1698781874,
+      "rank": 6,
       "category": "国外要闻"
     },
     {
@@ -83,12 +91,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331182,
-      "num": 331182,
-      "word": "这个锅中国不背",
-      "onboard_time": 1698781874,
-      "rank": 6,
-      "category": "国外要闻"
+      "raw_hot": 334068,
+      "num": 334068,
+      "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
+      "onboard_time": 1698750334,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321993,
@@ -163,6 +171,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 231636,
+      "num": 161995,
+      "word": "乌镇偶遇黄磊一家五口",
+      "onboard_time": 1698790035,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228646,
       "num": 228646,
       "word": "C罗点赞龙赛罗嘲讽梅西视频",
@@ -177,6 +193,22 @@
       "onboard_time": 1698763778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209322,
+      "num": 159601,
+      "word": "陈采尼 乐坛传奇穿我做的衣服重返乐坛",
+      "onboard_time": 1698793463,
+      "rank": 14,
+      "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 204235,
+      "num": 204235,
+      "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
+      "onboard_time": 1698771206,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 197764,
@@ -195,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195967,
+      "num": 195967,
+      "word": "胰腺癌的早期信号是什么",
+      "onboard_time": 1698752911,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179090,
       "num": 179090,
       "word": "刘诗诗一天穿了六套高定",
@@ -211,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170267,
+      "num": 170267,
+      "word": "11月你好",
+      "onboard_time": 1698793944,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161223,
       "num": 161223,
       "word": "仲溪午终于等到了他的华浅",
@@ -219,20 +267,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149032,
-      "num": 149032,
-      "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
-      "onboard_time": 1698750334,
-      "rank": 27,
+      "raw_hot": 157147,
+      "num": 157147,
+      "word": "78岁奶奶坚持健身18年状态满分",
+      "onboard_time": 1698787453,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145037,
-      "num": 145037,
-      "word": "胰腺癌的早期信号是什么",
-      "onboard_time": 1698752911,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 153642,
+      "num": 153642,
+      "word": "孕妇坐乐园小火车致先兆流产",
+      "onboard_time": 1698756871,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147662,
+      "num": 114113,
+      "word": "杜海涛吴昕百分百合拍友谊",
+      "onboard_time": 1698787215,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 143981,
@@ -251,12 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140924,
-      "num": 50969,
-      "word": "杜海涛吴昕百分百合拍友谊",
-      "onboard_time": 1698787215,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 140621,
+      "num": 140621,
+      "word": "伊朗称战争扩大将让以色列彻底毁灭",
+      "onboard_time": 1698752491,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 127949,
+      "num": 127949,
+      "word": "檀健次上下半身有季节差",
+      "onboard_time": 1698760595,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126804,
@@ -291,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119998,
+      "num": 119998,
+      "word": "国考报名确认",
+      "onboard_time": 1698793884,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118849,
       "num": 118849,
       "word": "THE9再现出道公式照",
@@ -307,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116837,
-      "num": 116837,
-      "word": "伊朗称战争扩大将让以色列彻底毁灭",
-      "onboard_time": 1698752491,
-      "rank": 36,
-      "category": "国外要闻"
+      "raw_hot": 116728,
+      "num": 116728,
+      "word": "国考 验证码",
+      "onboard_time": 1698793765,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 112495,
@@ -347,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106077,
+      "num": 106077,
+      "word": "王诗晴是在为了指责而指责",
+      "onboard_time": 1698793463,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101560,
       "num": 101560,
       "word": "佛山电翰已出现人传人",
@@ -363,22 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97696,
-      "num": 97696,
-      "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
-      "onboard_time": 1698771206,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 96917,
-      "num": 99657,
-      "word": "檀健次上下半身有季节差",
-      "onboard_time": 1698760595,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 95296,
       "num": 95296,
       "word": "小S二女儿万圣节cos",
@@ -387,20 +451,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 88146,
-      "num": 69377,
-      "word": "乌镇偶遇黄磊一家五口",
-      "onboard_time": 1698790035,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 86623,
+      "num": 86623,
+      "word": "徐娇露背丝绸裙",
+      "onboard_time": 1698791657,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 87321,
-      "num": 99659,
-      "word": "孕妇坐乐园小火车致先兆流产",
-      "onboard_time": 1698756871,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 82077,
+      "num": 82077,
+      "word": "以色列拒绝联合国停火决议",
+      "onboard_time": 1698752011,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 80196,
@@ -425,6 +489,22 @@
       "onboard_time": 1698760838,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 65267,
+      "num": 66903,
+      "word": "为什么人到绝境后会大彻大悟",
+      "onboard_time": 1698771982,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 64353,
+      "num": 439396,
+      "word": "11月起这些新规开始施行",
+      "onboard_time": 1698760536,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63846,
@@ -475,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46866,
-      "num": 46866,
-      "word": "78岁奶奶坚持健身18年状态满分",
-      "onboard_time": 1698787453,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46204,
       "num": 73825,
       "word": "云南边境居民讲述缅甸军事冲突",
@@ -491,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45507,
-      "num": 66903,
-      "word": "为什么人到绝境后会大彻大悟",
-      "onboard_time": 1698771982,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42654,
       "num": 66940,
       "word": "陈丽君美得好英气",
       "onboard_time": 1698772641,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37761,
-      "num": 66891,
-      "word": "以色列拒绝联合国停火决议",
-      "onboard_time": 1698752011,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 33615,
@@ -529,14 +585,6 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24088,
-      "num": 194690,
-      "word": "11月起这些新规开始施行",
-      "onboard_time": 1698760536,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22179,
