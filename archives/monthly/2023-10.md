@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 11:34:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/31 12:20:23
 </p>
 </blockquote>
 <p>
@@ -1439,6 +1439,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%9E%97%E6%9C%89%E6%85%A7%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23" target="weibo">
 萧敬腾林有慧官宣结婚（热度：2205646）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%8D%81%E6%9D%A1%E5%9B%9E%E5%BA%94%23" target="weibo">
+郭敬明 十条回应（热度：2200538）
 </a>
 </li>
 
@@ -3189,6 +3195,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%A4%B9%E5%9C%A8%E8%80%B3%E5%90%8E%E6%98%BE%E8%84%B8%E5%B0%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%23" target="weibo">
+头发夹在耳后显脸小的正确方法（热度：1619567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E8%A7%A3%E8%AF%B4%20%E5%A5%BD%E7%AC%91%23" target="weibo">
 许昕解说 好笑（热度：1618307）
 </a>
@@ -4199,6 +4211,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
 西南科技大学馄饨阿姨事件（热度：1389594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%96%AD%E4%BA%B2%23" target="weibo">
+重度抑郁女生被医生建议断亲（热度：1388212）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9C%AF%E9%98%9F%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8F%82%E8%B5%9B%E8%B5%84%E6%A0%BC%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
 中国马术队巴黎奥运会参赛资格被取消（热度：1071419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%85%B7%E6%94%B6%E8%B4%B9%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%981%E5%85%83%E7%9B%B4%E6%8E%A5%E5%B8%A6%E8%B5%B0%23" target="weibo">
-餐具收费大学生付1元直接带走（热度：1069499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%B7%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%88%92%E4%BC%A4%E9%A3%9F%E9%81%93%23" target="weibo">
-被德国面包划伤食道（热度：1069224）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%20%E6%93%A6%E8%BE%B9%E7%90%83%E5%BE%97%E5%88%86%23" target="weibo">
-早田希娜 擦边球得分（热度：1069162）
 </a>
 </li>
 
