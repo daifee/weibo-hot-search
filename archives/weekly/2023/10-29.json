@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698755562308,
+  "endTime": 1698759252096,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2426695,
-      "num": 385172,
+      "num": 418991,
       "word": "向太 衣服太low了",
       "onboard_time": 1698753987,
       "rank": 10,
@@ -201,6 +201,14 @@
       "onboard_time": 1698671555,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1798614,
+      "num": 728643,
+      "word": "退款",
+      "onboard_time": 1698757353,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1786761,
@@ -385,6 +393,14 @@
       "onboard_time": 1698644850,
       "rank": 7,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 1428139,
+      "num": 625392,
+      "word": "宋L",
+      "onboard_time": 1698753867,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 1406479,
@@ -1275,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 666347,
-      "num": 625392,
-      "word": "宋L",
-      "onboard_time": 1698753867,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 665512,
       "num": 665512,
       "word": "网友裸辞炒股5个月亏损48%",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1698645331,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 644719,
+      "num": 644719,
+      "word": "八年花了12万网购的感受",
+      "onboard_time": 1698757531,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 644408,
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603011,
+      "num": 603011,
+      "word": "购买失败",
+      "onboard_time": 1698755851,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 599921,
       "num": 599921,
       "word": "秦岚声带出了问题",
@@ -1587,12 +1611,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 590432,
+      "num": 590432,
+      "word": "三部门联合约谈华侨城",
+      "onboard_time": 1698756752,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587075,
       "num": 587075,
       "word": "警方不予公开中学男生被逼吃粪案件",
       "onboard_time": 1698745233,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585984,
+      "num": 409161,
+      "word": "7款APP全网下架",
+      "onboard_time": 1698757836,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 585754,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1698645090,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579320,
+      "num": 579320,
+      "word": "24岁男子3颗烂牙一直没治感染大脑",
+      "onboard_time": 1698753867,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579192,
@@ -1745,6 +1793,14 @@
       "onboard_time": 1698674796,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 552967,
+      "num": 283102,
+      "word": "211硕士毕业后工作还需要家里补贴",
+      "onboard_time": 1698757713,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 551934,
@@ -3043,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304499,
+      "num": 304499,
+      "word": "付尾款",
+      "onboard_time": 1698756154,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 304443,
       "num": 284817,
       "word": "鞠婧祎工作室有图是真发",
@@ -3299,14 +3363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 285696,
-      "num": 285696,
-      "word": "24岁男子3颗烂牙一直没治感染大脑",
-      "onboard_time": 1698753867,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284934,
       "num": 227959,
       "word": "胡先煦四个女神一个男神",
@@ -3321,6 +3377,22 @@
       "onboard_time": 1698536846,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283115,
+      "num": 283115,
+      "word": "小S二女儿万圣节cos",
+      "onboard_time": 1698754832,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283087,
+      "num": 283087,
+      "word": "永远在高考的谭松韵",
+      "onboard_time": 1698753273,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282765,
@@ -3417,14 +3489,6 @@
       "onboard_time": 1698724833,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 270110,
-      "num": 270110,
-      "word": "永远在高考的谭松韵",
-      "onboard_time": 1698753273,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269842,
@@ -3843,14 +3907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 243782,
-      "num": 243782,
-      "word": "小S二女儿万圣节cos",
-      "onboard_time": 1698754832,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243742,
       "num": 243742,
       "word": "THE9演唱会微指",
@@ -3875,12 +3931,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242761,
+      "num": 242761,
+      "word": "奶奶第一次喝咖啡以为是豆浆",
+      "onboard_time": 1698757471,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242592,
       "num": 242592,
       "word": "上海万圣节 百变大咖秀",
       "onboard_time": 1698630630,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 242370,
+      "num": 242370,
+      "word": "为有暗香来结局",
+      "onboard_time": 1698754468,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 241947,
@@ -4001,6 +4073,14 @@
       "onboard_time": 1698627392,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236596,
+      "num": 236596,
+      "word": "孕妇坐乐园小火车致先兆流产",
+      "onboard_time": 1698756871,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236180,
@@ -4163,20 +4243,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228405,
+      "num": 228405,
+      "word": "虞书欣回应演唱会动作做早",
+      "onboard_time": 1698758495,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228031,
       "num": 228031,
       "word": "双十一",
       "onboard_time": 1698754832,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 227892,
-      "num": 227892,
-      "word": "为有暗香来结局",
-      "onboard_time": 1698754468,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 227210,
@@ -5059,6 +5139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196048,
+      "num": 196048,
+      "word": "张婧仪又发朋友圈了",
+      "onboard_time": 1698758735,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195531,
       "num": 195531,
       "word": "亲密关系中不要总是做小孩",
@@ -5499,6 +5587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186382,
+      "num": 186382,
+      "word": "丁程鑫严浩翔贺峻霖复刻经典影视作品",
+      "onboard_time": 1698758194,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "白骨精仿妆",
@@ -5801,6 +5897,14 @@
       "onboard_time": 1698715411,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 176616,
+      "num": 176616,
+      "word": "半个国货圈都在广州塔了",
+      "onboard_time": 1698757531,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176535,
@@ -6811,6 +6915,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 145817,
+      "num": 145817,
+      "word": "沈月万圣节怼脸cos",
+      "onboard_time": 1698756154,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 145733,
       "num": 145733,
       "word": "刘宪华南昌",
@@ -7547,6 +7659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123989,
+      "num": 197457,
+      "word": "鸿星尔克主播直播时睡着了",
+      "onboard_time": 1698757414,
+      "rank": 29,
+      "category": "社会新闻,运动健身"
+    },
+    {
       "raw_hot": 123966,
       "num": 123966,
       "word": "毛不易说单依纯电视上的少",
@@ -7571,6 +7691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123510,
+      "num": 123510,
+      "word": "令人心动的offer",
+      "onboard_time": 1698754108,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123006,
       "num": 123006,
       "word": "红包雨",
@@ -7585,6 +7713,14 @@
       "onboard_time": 1698634954,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 122324,
+      "num": 122324,
+      "word": "祝绪丹蓝色抹胸纱裙",
+      "onboard_time": 1698752732,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122306,
@@ -7875,14 +8011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115592,
-      "num": 115592,
-      "word": "令人心动的offer",
-      "onboard_time": 1698754108,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114724,
       "num": 450007,
       "word": "鸿星尔克支棱起来了",
@@ -8049,6 +8177,14 @@
       "onboard_time": 1698711394,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 108625,
+      "num": 108625,
+      "word": "美妆券",
+      "onboard_time": 1698756990,
+      "rank": 49,
+      "category": "美妆,互联网"
     },
     {
       "raw_hot": 108143,
@@ -8764,7 +8900,7 @@
     },
     {
       "raw_hot": 48164,
-      "num": 80717,
+      "num": 371783,
       "word": "费翔唱了故乡的云一万次",
       "onboard_time": 1698738452,
       "rank": 49,

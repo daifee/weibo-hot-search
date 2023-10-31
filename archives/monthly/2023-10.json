@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698755562308,
+  "endTime": 1698759252096,
   "band_list": [
     {
       "raw_hot": 52709316,
@@ -1452,7 +1452,7 @@
     },
     {
       "raw_hot": 2426695,
-      "num": 385172,
+      "num": 418991,
       "word": "向太 衣服太low了",
       "onboard_time": 1698753987,
       "rank": 10,
@@ -3427,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1798614,
+      "num": 728643,
+      "word": "退款",
+      "onboard_time": 1698757353,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1798324,
       "num": 1798324,
       "word": "小慧君胜诉",
@@ -5369,6 +5377,14 @@
       "onboard_time": 1696996657,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1428139,
+      "num": 625392,
+      "word": "宋L",
+      "onboard_time": 1698753867,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 1426165,
@@ -15619,14 +15635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 666347,
-      "num": 625392,
-      "word": "宋L",
-      "onboard_time": 1698753867,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 666132,
       "num": 666132,
       "word": "中国围棋女团战胜韩国夺冠",
@@ -16273,6 +16281,14 @@
       "onboard_time": 1697879430,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644719,
+      "num": 644719,
+      "word": "八年花了12万网购的感受",
+      "onboard_time": 1698757531,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 644595,
@@ -17867,6 +17883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603011,
+      "num": 603011,
+      "word": "购买失败",
+      "onboard_time": 1698755851,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 602849,
       "num": 602849,
       "word": "李佳琦直播预告",
@@ -18427,6 +18451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 590432,
+      "num": 590432,
+      "word": "三部门联合约谈华侨城",
+      "onboard_time": 1698756752,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589900,
       "num": 436671,
       "word": "叙机场在伊朗外长到访前遭以军空袭",
@@ -18585,6 +18617,14 @@
       "onboard_time": 1696496854,
       "rank": 9,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 585984,
+      "num": 409161,
+      "word": "7款APP全网下架",
+      "onboard_time": 1698757836,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 585754,
@@ -18897,6 +18937,14 @@
       "onboard_time": 1696213651,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 579320,
+      "num": 579320,
+      "word": "24岁男子3颗烂牙一直没治感染大脑",
+      "onboard_time": 1698753867,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579293,
@@ -19969,6 +20017,14 @@
       "onboard_time": 1697805212,
       "rank": 6,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 552967,
+      "num": 283102,
+      "word": "211硕士毕业后工作还需要家里补贴",
+      "onboard_time": 1698757713,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 552581,
@@ -37715,6 +37771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304499,
+      "num": 304499,
+      "word": "付尾款",
+      "onboard_time": 1698756154,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 304470,
       "num": 304470,
       "word": "华为发布全球首个全系列5.5G解决方案",
@@ -40411,14 +40475,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 285696,
-      "num": 285696,
-      "word": "24岁男子3颗烂牙一直没治感染大脑",
-      "onboard_time": 1698753867,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285648,
       "num": 274742,
       "word": "罗云熙古装梦回润玉",
@@ -40785,6 +40841,22 @@
       "onboard_time": 1697504316,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283115,
+      "num": 283115,
+      "word": "小S二女儿万圣节cos",
+      "onboard_time": 1698754832,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283087,
+      "num": 283087,
+      "word": "永远在高考的谭松韵",
+      "onboard_time": 1698753273,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283046,
@@ -42713,14 +42785,6 @@
       "onboard_time": 1696723896,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 270110,
-      "num": 270110,
-      "word": "永远在高考的谭松韵",
-      "onboard_time": 1698753273,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269964,
@@ -47299,14 +47363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243782,
-      "num": 243782,
-      "word": "小S二女儿万圣节cos",
-      "onboard_time": 1698754832,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243742,
       "num": 243742,
       "word": "THE9演唱会微指",
@@ -47443,6 +47499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 242761,
+      "num": 242761,
+      "word": "奶奶第一次喝咖啡以为是豆浆",
+      "onboard_time": 1698757471,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242747,
       "num": 242747,
       "word": "工作三年后身边的人变化真的大",
@@ -47521,6 +47585,14 @@
       "onboard_time": 1698032616,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242370,
+      "num": 242370,
+      "word": "为有暗香来结局",
+      "onboard_time": 1698754468,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 242366,
@@ -48625,6 +48697,14 @@
       "onboard_time": 1696238913,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236596,
+      "num": 236596,
+      "word": "孕妇坐乐园小火车致先兆流产",
+      "onboard_time": 1698756871,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236528,
@@ -50275,6 +50355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228405,
+      "num": 228405,
+      "word": "虞书欣回应演唱会动作做早",
+      "onboard_time": 1698758495,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228370,
       "num": 228370,
       "word": "高圆圆去看乐队的夏天演唱会",
@@ -50369,14 +50457,6 @@
       "onboard_time": 1696309773,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227892,
-      "num": 227892,
-      "word": "为有暗香来结局",
-      "onboard_time": 1698754468,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 227861,
@@ -59435,6 +59515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196048,
+      "num": 196048,
+      "word": "张婧仪又发朋友圈了",
+      "onboard_time": 1698758735,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196032,
       "num": 196032,
       "word": "短发Arin回归",
@@ -63083,6 +63171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186382,
+      "num": 186382,
+      "word": "丁程鑫严浩翔贺峻霖复刻经典影视作品",
+      "onboard_time": 1698758194,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186367,
       "num": 186367,
       "word": "白骨精仿妆",
@@ -65921,6 +66017,14 @@
       "onboard_time": 1696488273,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176616,
+      "num": 176616,
+      "word": "半个国货圈都在广州塔了",
+      "onboard_time": 1698757531,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176563,
@@ -73995,6 +74099,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 145817,
+      "num": 145817,
+      "word": "沈月万圣节怼脸cos",
+      "onboard_time": 1698756154,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 145806,
       "num": 145806,
       "word": "成都科幻馆夜晚的音乐喷泉太美了",
@@ -78939,6 +79051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123989,
+      "num": 197457,
+      "word": "鸿星尔克主播直播时睡着了",
+      "onboard_time": 1698757414,
+      "rank": 29,
+      "category": "社会新闻,运动健身"
+    },
+    {
       "raw_hot": 123966,
       "num": 123966,
       "word": "毛不易说单依纯电视上的少",
@@ -79169,6 +79289,14 @@
       "onboard_time": 1697622701,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122324,
+      "num": 122324,
+      "word": "祝绪丹蓝色抹胸纱裙",
+      "onboard_time": 1698752732,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122321,
@@ -85876,7 +86004,7 @@
     },
     {
       "raw_hot": 48164,
-      "num": 80717,
+      "num": 371783,
       "word": "费翔唱了故乡的云一万次",
       "onboard_time": 1698738452,
       "rank": 49,
