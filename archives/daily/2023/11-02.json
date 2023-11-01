@@ -1,0 +1,411 @@
+{
+  "startTime": 1698855774340,
+  "endTime": 1698855774340,
+  "band_list": [
+    {
+      "raw_hot": 1875278,
+      "num": 1875278,
+      "word": "教体局通报女教师跳楼轻生事件",
+      "onboard_time": 1698853536,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1597573,
+      "num": 425539,
+      "word": "湖北大学",
+      "onboard_time": 1698850598,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1510762,
+      "num": 417848,
+      "word": "女教师跳楼自杀家属称发求助后被踢出群",
+      "onboard_time": 1698847479,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 884506,
+      "num": 413953,
+      "word": "微信转账",
+      "onboard_time": 1698839973,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 848871,
+      "num": 848871,
+      "word": "杨紫发个正常的朋友圈被80个好友担心",
+      "onboard_time": 1698843513,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 696263,
+      "num": 696263,
+      "word": "反向泡脚 越泡越虚",
+      "onboard_time": 1698853415,
+      "rank": 3,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 589101,
+      "num": 589101,
+      "word": "这英 没有那姐哪来的我",
+      "onboard_time": 1698850598,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 554712,
+      "num": 554712,
+      "word": "陈梦 女单",
+      "onboard_time": 1698851496,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 550135,
+      "num": 295638,
+      "word": "印度男子强奸女大学生后倒水毁证据",
+      "onboard_time": 1698833372,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488734,
+      "num": 488734,
+      "word": "接了个大单没想到是贾乃亮",
+      "onboard_time": 1698836253,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 486058,
+      "num": 409225,
+      "word": "霉霉 没人比我更了解戏精男",
+      "onboard_time": 1698853834,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 459308,
+      "num": 459308,
+      "word": "下一站幸福导演陈慧翎去世",
+      "onboard_time": 1698844835,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 441981,
+      "num": 441981,
+      "word": "水庆霞道歉",
+      "onboard_time": 1698852875,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 425579,
+      "num": 425579,
+      "word": "男生住商场楼梯下超半年无人知晓",
+      "onboard_time": 1698851318,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407141,
+      "num": 407141,
+      "word": "不敢想和秦岚一起旅行会多快乐",
+      "onboard_time": 1698851736,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 381060,
+      "num": 381060,
+      "word": "迪丽热巴李慧珍属性大爆发",
+      "onboard_time": 1698854432,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 374076,
+      "num": 374076,
+      "word": "WTT法兰克福冠军赛2023",
+      "onboard_time": 1698854132,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 341134,
+      "num": 341134,
+      "word": "30集的剧前29集是做梦",
+      "onboard_time": 1698845556,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 305075,
+      "num": 305075,
+      "word": "程耳说王一博在生活中不做作",
+      "onboard_time": 1698855390,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 299924,
+      "num": 299924,
+      "word": "美依礼芽外网表白中国粉丝",
+      "onboard_time": 1698854554,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285895,
+      "num": 285895,
+      "word": "于正 下部剧让王星越周也往死里甜",
+      "onboard_time": 1698848677,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280202,
+      "num": 280202,
+      "word": "陈梦2比3斯佐科斯",
+      "onboard_time": 1698853476,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 275255,
+      "num": 275255,
+      "word": "妈妈51岁我才知道她没买社保",
+      "onboard_time": 1698836253,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 256164,
+      "num": 170064,
+      "word": "ChatGPT可能已经有了意识",
+      "onboard_time": 1698836557,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 255451,
+      "num": 255451,
+      "word": "WTT",
+      "onboard_time": 1698852096,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252695,
+      "num": 252695,
+      "word": "富婆为什么会被博士骗",
+      "onboard_time": 1698846397,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 222098,
+      "num": 222098,
+      "word": "美国宣布增兵中东",
+      "onboard_time": 1698846816,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 215180,
+      "num": 215180,
+      "word": "向佐 大家不能靠长相判刑吧",
+      "onboard_time": 1698842972,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185900,
+      "num": 185900,
+      "word": "外卖烧烤店直接改名叫炸串店吧",
+      "onboard_time": 1698846575,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 170713,
+      "num": 170713,
+      "word": "这是菅田将晖的万圣节cos吗",
+      "onboard_time": 1698852398,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159329,
+      "num": 159329,
+      "word": "迪丽热巴情绪好稳定",
+      "onboard_time": 1698854852,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156091,
+      "num": 156091,
+      "word": "披荆斩棘3总决赛定档",
+      "onboard_time": 1698850837,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154195,
+      "num": 154195,
+      "word": "向太 别再说我和媳妇的关系",
+      "onboard_time": 1698815856,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151452,
+      "num": 151452,
+      "word": "白鹿最有cp感的男主",
+      "onboard_time": 1698850119,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149565,
+      "num": 149565,
+      "word": "杨紫 把悲伤留给自己",
+      "onboard_time": 1698853476,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148111,
+      "num": 148111,
+      "word": "天官赐福",
+      "onboard_time": 1698840876,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 147220,
+      "num": 147220,
+      "word": "湖南卫视的预告真的太有特色了",
+      "onboard_time": 1698845738,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145757,
+      "num": 145757,
+      "word": "邓为紫色牛仔套装",
+      "onboard_time": 1698854673,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144864,
+      "num": 148198,
+      "word": "大熊猫飞云搂着小象呼呼呼呼呼",
+      "onboard_time": 1698855091,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142449,
+      "num": 142449,
+      "word": "天津中德应用技术大学",
+      "onboard_time": 1698848561,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 142353,
+      "num": 142353,
+      "word": "白鹿一部剧开机一部剧定档",
+      "onboard_time": 1698839615,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139827,
+      "num": 139827,
+      "word": "我在网上编故事月入十几万",
+      "onboard_time": 1698849878,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 136214,
+      "num": 136214,
+      "word": "梅西中国行取消",
+      "onboard_time": 1698840215,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131326,
+      "num": 131326,
+      "word": "男子晒控糖一年身体变化",
+      "onboard_time": 1698830315,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129787,
+      "num": 129787,
+      "word": "檀健次演唱会真的来了",
+      "onboard_time": 1698851318,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 126327,
+      "num": 126327,
+      "word": "女兽医全粉妆造给牛羊做剖腹产",
+      "onboard_time": 1698850958,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125787,
+      "num": 125787,
+      "word": "全球第二例猪心脏移植患者6周后去世",
+      "onboard_time": 1698843513,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110655,
+      "num": 110655,
+      "word": "长空之王导演说于适有难得的气质",
+      "onboard_time": 1698853476,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 110373,
+      "num": 110373,
+      "word": "赵丽颖说王梓薇表演很有感受力",
+      "onboard_time": 1698843154,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43915,
+      "num": 742137,
+      "word": "6位航天员太空会面瞬间回顾",
+      "onboard_time": 1698842616,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中央金融工作会议释放重要信号#"
+    }
+  ]
+}
