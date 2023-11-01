@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698837268050,
+  "endTime": 1698838435752,
   "band_list": [
     {
       "raw_hot": 3091526,
@@ -51,8 +51,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2136205,
-      "num": 2136205,
+      "raw_hot": 2195122,
+      "num": 2195122,
       "word": "男子晒控糖一年身体变化",
       "onboard_time": 1698830315,
       "rank": 16,
@@ -227,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1058777,
+      "num": 1058777,
+      "word": "接了个大单没想到是贾乃亮",
+      "onboard_time": 1698836253,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1039283,
       "num": 994388,
       "word": "知情人回应00后女老师跳楼身亡",
@@ -273,6 +281,14 @@
       "onboard_time": 1698757836,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 873431,
+      "num": 873431,
+      "word": "ChatGPT可能已经有了意识",
+      "onboard_time": 1698836557,
+      "rank": 18,
+      "category": "知识科普"
     },
     {
       "raw_hot": 861361,
@@ -353,6 +369,14 @@
       "onboard_time": 1698796713,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 703635,
+      "num": 1273507,
+      "word": "95后男子被裁员抗争17个月获赔16万9",
+      "onboard_time": 1698835593,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700546,
@@ -595,20 +619,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 473889,
-      "num": 473889,
-      "word": "接了个大单没想到是贾乃亮",
-      "onboard_time": 1698836253,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 472969,
-      "num": 1064792,
-      "word": "95后男子被裁员抗争17个月获赔16万9",
-      "onboard_time": 1698835593,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 468696,
+      "num": 468696,
+      "word": "于正暗香来欠一个满意的结局",
+      "onboard_time": 1698837274,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 460334,
@@ -723,16 +739,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 394942,
-      "num": 394942,
-      "word": "ChatGPT可能已经有了意识",
-      "onboard_time": 1698836557,
-      "rank": 18,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 393583,
-      "num": 1071273,
+      "num": 1120137,
       "word": "8090课间十分钟能有多快乐",
       "onboard_time": 1698831391,
       "rank": 4,
@@ -1107,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258734,
+      "num": 258734,
+      "word": "双胞胎为什么要穿得一模一样",
+      "onboard_time": 1698837754,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 258253,
       "num": 258253,
       "word": "花少团集体被王安宇卷懵",
@@ -1467,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208165,
+      "num": 208165,
+      "word": "乐游原定档",
+      "onboard_time": 1698838113,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206976,
       "num": 206976,
       "word": "恋与深空测试",
@@ -1491,6 +1515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "内娱天选现偶男主脸",
+      "onboard_time": 1698837514,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205249,
       "num": 205249,
       "word": "眼下腮红",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1698805531,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201838,
+      "num": 890862,
+      "word": "孩子头颅出血交警开道7分钟送医",
+      "onboard_time": 1698837394,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201500,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1698757713,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196927,
+      "num": 196927,
+      "word": "林孝埈回北京了",
+      "onboard_time": 1698837995,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 196879,
@@ -1771,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177883,
+      "num": 177883,
+      "word": "女孩走失17年刷视频找到亲生父母",
+      "onboard_time": 1698838172,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177787,
       "num": 177787,
       "word": "丁薇回应没参加浪姐",
@@ -1857,6 +1913,22 @@
       "onboard_time": 1698836557,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168441,
+      "num": 168441,
+      "word": "一分钟看纯享版邓为穿搭",
+      "onboard_time": 1698837155,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 167808,
+      "num": 167808,
+      "word": "萧亚轩AI演唱会",
+      "onboard_time": 1698838291,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 166740,
@@ -2131,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143101,
+      "num": 143101,
+      "word": "为了LPL拼尽全力",
+      "onboard_time": 1698837693,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142894,
       "num": 142894,
       "word": "以爱为营",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1698797852,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 136955,
+      "num": 136955,
+      "word": "给狗狗买了一个电话手表后",
+      "onboard_time": 1698836437,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 136428,
@@ -2235,14 +2323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129774,
-      "num": 129774,
-      "word": "给狗狗买了一个电话手表后",
-      "onboard_time": 1698836437,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
@@ -2257,6 +2337,14 @@
       "onboard_time": 1698799594,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127232,
+      "num": 127232,
+      "word": "被同事直接叫了微信名",
+      "onboard_time": 1698838415,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127073,
@@ -2337,14 +2425,6 @@
       "onboard_time": 1698831154,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119775,
-      "num": 119775,
-      "word": "一分钟看纯享版邓为穿搭",
-      "onboard_time": 1698837155,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 119627,
@@ -2516,7 +2596,7 @@
     },
     {
       "raw_hot": 89888,
-      "num": 111613,
+      "num": 144027,
       "word": "没想到双11快递是祈福过的",
       "onboard_time": 1698837094,
       "rank": 49,

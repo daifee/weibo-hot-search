@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698837268050,
+  "endTime": 1698838435752,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -171,8 +171,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2136205,
-      "num": 2136205,
+      "raw_hot": 2195122,
+      "num": 2195122,
       "word": "男子晒控糖一年身体变化",
       "onboard_time": 1698830315,
       "rank": 16,
@@ -835,6 +835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1058777,
+      "num": 1058777,
+      "word": "接了个大单没想到是贾乃亮",
+      "onboard_time": 1698836253,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057774,
       "num": 461080,
       "word": "宋仲基说和儿子还不熟",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1698625354,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873431,
+      "num": 873431,
+      "word": "ChatGPT可能已经有了意识",
+      "onboard_time": 1698836557,
+      "rank": 18,
+      "category": "知识科普"
     },
     {
       "raw_hot": 865240,
@@ -1496,6 +1512,14 @@
       "word": "租客厕所吊顶发现10万金器竟是赃物",
       "onboard_time": 1698639102,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703635,
+      "num": 1273507,
+      "word": "95后男子被裁员抗争17个月获赔16万9",
+      "onboard_time": 1698835593,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2699,28 +2723,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 473889,
-      "num": 473889,
-      "word": "接了个大单没想到是贾乃亮",
-      "onboard_time": 1698836253,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 472969,
-      "num": 1064792,
-      "word": "95后男子被裁员抗争17个月获赔16万9",
-      "onboard_time": 1698835593,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469080,
       "num": 469080,
       "word": "权志龙没有被立案",
       "onboard_time": 1698538827,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468696,
+      "num": 468696,
+      "word": "于正暗香来欠一个满意的结局",
+      "onboard_time": 1698837274,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 468382,
@@ -3187,14 +3203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394942,
-      "num": 394942,
-      "word": "ChatGPT可能已经有了意识",
-      "onboard_time": 1698836557,
-      "rank": 18,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 394059,
       "num": 296845,
       "word": "徐璐纯欲风",
@@ -3204,7 +3212,7 @@
     },
     {
       "raw_hot": 393583,
-      "num": 1071273,
+      "num": 1120137,
       "word": "8090课间十分钟能有多快乐",
       "onboard_time": 1698831391,
       "rank": 4,
@@ -4763,6 +4771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258734,
+      "num": 258734,
+      "word": "双胞胎为什么要穿得一模一样",
+      "onboard_time": 1698837754,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 258255,
       "num": 258255,
       "word": "陈伟霆刘雅瑟cos的谁",
@@ -6051,6 +6067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208165,
+      "num": 208165,
+      "word": "乐游原定档",
+      "onboard_time": 1698838113,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208139,
       "num": 208139,
       "word": "张真源新歌词曲钟易轩",
@@ -6201,6 +6225,14 @@
       "onboard_time": 1698728616,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "内娱天选现偶男主脸",
+      "onboard_time": 1698837514,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 205249,
@@ -6369,6 +6401,14 @@
       "onboard_time": 1698805531,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201838,
+      "num": 890862,
+      "word": "孩子头颅出血交警开道7分钟送医",
+      "onboard_time": 1698837394,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201739,
@@ -6641,6 +6681,14 @@
       "onboard_time": 1698590436,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196927,
+      "num": 196927,
+      "word": "林孝埈回北京了",
+      "onboard_time": 1698837995,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 196879,
@@ -7595,6 +7643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177883,
+      "num": 177883,
+      "word": "女孩走失17年刷视频找到亲生父母",
+      "onboard_time": 1698838172,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177854,
       "num": 177854,
       "word": "一直到最后都没有拖鞋的迪丽热巴",
@@ -8019,6 +8075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168441,
+      "num": 168441,
+      "word": "一分钟看纯享版邓为穿搭",
+      "onboard_time": 1698837155,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 168386,
       "num": 168386,
       "word": "利物浦vs诺丁汉森林",
@@ -8033,6 +8097,14 @@
       "onboard_time": 1698554911,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167808,
+      "num": 167808,
+      "word": "萧亚轩AI演唱会",
+      "onboard_time": 1698838291,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 167439,
@@ -9075,6 +9147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143101,
+      "num": 143101,
+      "word": "为了LPL拼尽全力",
+      "onboard_time": 1698837693,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143027,
       "num": 143027,
       "word": "曼联vs曼城",
@@ -9305,6 +9385,14 @@
       "onboard_time": 1698719674,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136955,
+      "num": 136955,
+      "word": "给狗狗买了一个电话手表后",
+      "onboard_time": 1698836437,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 136428,
@@ -9699,14 +9787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129774,
-      "num": 129774,
-      "word": "给狗狗买了一个电话手表后",
-      "onboard_time": 1698836437,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129695,
       "num": 129695,
       "word": "小姐姐抓夹这样用被卡捂脸求助消防",
@@ -9825,6 +9905,14 @@
       "onboard_time": 1698799594,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127232,
+      "num": 127232,
+      "word": "被同事直接叫了微信名",
+      "onboard_time": 1698838415,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127073,
@@ -10169,14 +10257,6 @@
       "onboard_time": 1698586295,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119775,
-      "num": 119775,
-      "word": "一分钟看纯享版邓为穿搭",
-      "onboard_time": 1698837155,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 119627,
@@ -10988,7 +11068,7 @@
     },
     {
       "raw_hot": 89888,
-      "num": 111613,
+      "num": 144027,
       "word": "没想到双11快递是祈福过的",
       "onboard_time": 1698837094,
       "rank": 49,
