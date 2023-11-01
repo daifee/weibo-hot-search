@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698856707216,
+  "endTime": 1698858937950,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -2835,6 +2835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 492115,
+      "num": 357919,
+      "word": "美依礼芽外网表白中国粉丝",
+      "onboard_time": 1698854554,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491865,
       "num": 310210,
       "word": "武林外传演员今昔对比",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1698567874,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 447677,
-      "num": 357919,
-      "word": "美依礼芽外网表白中国粉丝",
-      "onboard_time": 1698854554,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 446472,
@@ -11811,6 +11811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84183,
+      "num": 84183,
+      "word": "张栋梁第一次当卧底失败的原因",
+      "onboard_time": 1698858741,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
@@ -12017,6 +12025,14 @@
       "onboard_time": 1698491854,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64884,
+      "num": 64884,
+      "word": "王安宇听到辛芷蕾丢1500的反应",
+      "onboard_time": 1698858681,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 64269,
