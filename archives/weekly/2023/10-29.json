@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698806316088,
+  "endTime": 1698808685117,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -297,6 +297,14 @@
       "onboard_time": 1698711034,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1739352,
+      "num": 457690,
+      "word": "这英模仿那英侵权吗",
+      "onboard_time": 1698806670,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1730248,
@@ -1243,6 +1251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 711300,
+      "num": 445575,
+      "word": "万圣节宋焰cos",
+      "onboard_time": 1698807570,
+      "rank": 11,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 709545,
       "num": 353626,
       "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1698666812,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663566,
+      "num": 424933,
+      "word": "不孕不育一半以上原因在男性",
+      "onboard_time": 1698807870,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661507,
@@ -2131,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503899,
+      "num": 503899,
+      "word": "萧逸 崩卡",
+      "onboard_time": 1698806551,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 502659,
       "num": 502659,
       "word": "练八段锦不能不知道的小细节",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1698745711,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476839,
+      "num": 476839,
+      "word": "查理苏 颈环",
+      "onboard_time": 1698807031,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 475874,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412999,
+      "num": 412999,
+      "word": "傅首尔为老刘重燃生活热情而开心",
+      "onboard_time": 1698807930,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 408749,
@@ -3313,6 +3361,14 @@
       "onboard_time": 1698562412,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 319457,
+      "num": 319457,
+      "word": "哈登放弃交易补偿金",
+      "onboard_time": 1698805894,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 316453,
@@ -4155,14 +4211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253736,
-      "num": 253736,
-      "word": "哈登放弃交易补偿金",
-      "onboard_time": 1698805894,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253420,
       "num": 253420,
       "word": "原神哥 好签",
@@ -4489,6 +4537,14 @@
       "onboard_time": 1698683426,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239028,
+      "num": 239028,
+      "word": "费启鸣入选2023星辰大海",
+      "onboard_time": 1698806190,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 238884,
@@ -4928,6 +4984,14 @@
       "word": "辛芷蕾我有普通拖鞋",
       "onboard_time": 1698749971,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219596,
+      "num": 219596,
+      "word": "这就是街舞6定档",
+      "onboard_time": 1698807990,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -5915,6 +5979,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 192662,
+      "num": 192662,
+      "word": "万圣节该来的都来了",
+      "onboard_time": 1698807990,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192342,
       "num": 192342,
       "word": "凑单",
@@ -6025,6 +6097,14 @@
       "onboard_time": 1698564632,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189784,
+      "num": 189784,
+      "word": "双十一互助",
+      "onboard_time": 1698807691,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 189697,
@@ -6283,14 +6363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 183925,
-      "num": 183925,
-      "word": "费启鸣入选2023星辰大海",
-      "onboard_time": 1698806190,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183842,
       "num": 159719,
       "word": "原来贞子宝宝就是去年的下水道宝宝",
@@ -6337,6 +6409,14 @@
       "onboard_time": 1698655832,
       "rank": 31,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 182131,
+      "num": 182131,
+      "word": "2023vivo开发者大会",
+      "onboard_time": 1698807391,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 181994,
@@ -6995,6 +7075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166156,
+      "num": 166156,
+      "word": "疾控中心回应小区自来水变成蓝色",
+      "onboard_time": 1698807031,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166069,
       "num": 166069,
       "word": "王鹤棣手牵白马",
@@ -7153,6 +7241,14 @@
       "onboard_time": 1698551312,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162535,
+      "num": 162535,
+      "word": "尹子维 大叔也是花美男",
+      "onboard_time": 1698806609,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 161989,
@@ -7321,6 +7417,14 @@
       "onboard_time": 1698734372,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158055,
+      "num": 158055,
+      "word": "巨人 艾伦三笠共用围巾",
+      "onboard_time": 1698807331,
+      "rank": 44,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 157915,
@@ -7731,6 +7835,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 145921,
+      "num": 145921,
+      "word": "郭晓婷正剧适配度",
+      "onboard_time": 1698807270,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "沈月万圣节怼脸cos",
@@ -8091,6 +8203,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 135110,
+      "num": 135110,
+      "word": "白荆回廊终极测试",
+      "onboard_time": 1698807331,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134966,
       "num": 134966,
       "word": "仲溪午为了华浅创翻所有人",
@@ -8113,6 +8233,14 @@
       "onboard_time": 1698713612,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134540,
+      "num": 134540,
+      "word": "罗云熙章若楠新剧一个惜命一个爱财",
+      "onboard_time": 1698806851,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 134525,
@@ -9363,6 +9491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100719,
+      "num": 365739,
+      "word": "一块好屏幕有多重要",
+      "onboard_time": 1698805591,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100435,
       "num": 100435,
       "word": "星穹铁道万圣节cos",
@@ -9761,14 +9897,6 @@
       "onboard_time": 1698621024,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65319,
-      "num": 226218,
-      "word": "一块好屏幕有多重要",
-      "onboard_time": 1698805591,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 65267,

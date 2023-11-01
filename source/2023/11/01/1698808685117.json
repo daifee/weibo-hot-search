@@ -1,0 +1,410 @@
+{
+  "runTime": 1698808685117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510404,
+        "num": 1510404,
+        "word": "人民日报评不该消失的课间10分钟",
+        "onboard_time": 1698800435,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1109308,
+        "num": 1109308,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58351,
+        "num": 682444,
+        "word": "11月起这些新规开始施行",
+        "onboard_time": 1698760536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594123,
+        "num": 594123,
+        "word": "男子面试失败骂HR后个人信息被曝光",
+        "onboard_time": 1698800974,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570651,
+        "num": 570651,
+        "word": "段奥娟入选2023星辰大海",
+        "onboard_time": 1698805894,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 503979,
+        "num": 503979,
+        "word": "安踏宣布更改公司标志",
+        "onboard_time": 1698798697,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 503899,
+        "num": 503899,
+        "word": "萧逸 崩卡",
+        "onboard_time": 1698806551,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 496319,
+        "num": 496319,
+        "word": "向佐 我把假向太抓来直播间啦",
+        "onboard_time": 1698761497,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476839,
+        "num": 476839,
+        "word": "查理苏 颈环",
+        "onboard_time": 1698807031,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458085,
+        "num": 458085,
+        "word": "以色列",
+        "onboard_time": 1698765513,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1739352,
+        "num": 457690,
+        "word": "这英模仿那英侵权吗",
+        "onboard_time": 1698806670,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 711300,
+        "num": 445575,
+        "word": "万圣节宋焰cos",
+        "onboard_time": 1698807570,
+        "rank": 11,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 663566,
+        "num": 424933,
+        "word": "不孕不育一半以上原因在男性",
+        "onboard_time": 1698807870,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558550,
+        "num": 418639,
+        "word": "拥有教师编制的他们后悔了",
+        "onboard_time": 1698766415,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412999,
+        "num": 412999,
+        "word": "傅首尔为老刘重燃生活热情而开心",
+        "onboard_time": 1698807930,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100719,
+        "num": 365739,
+        "word": "一块好屏幕有多重要",
+        "onboard_time": 1698805591,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 352180,
+        "num": 352180,
+        "word": "茅台开盘暴涨",
+        "onboard_time": 1698805110,
+        "rank": 16,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 343534,
+        "num": 343534,
+        "word": "长沙鸣响防空警报",
+        "onboard_time": 1698802892,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341860,
+        "num": 341860,
+        "word": "曾黎在飞机上的卸妆护肤步骤",
+        "onboard_time": 1698802354,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 319457,
+        "num": 319457,
+        "word": "哈登放弃交易补偿金",
+        "onboard_time": 1698805894,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382000,
+        "num": 318723,
+        "word": "长痘与身体器官的联系",
+        "onboard_time": 1698802415,
+        "rank": 20,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 310686,
+        "num": 310686,
+        "word": "1岁娃因妈妈不让开抽屉哭晕送医",
+        "onboard_time": 1698803493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299864,
+        "num": 299864,
+        "word": "吴楚一吴尊早期同框",
+        "onboard_time": 1698804392,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280627,
+        "num": 280627,
+        "word": "赵露思cos熊二",
+        "onboard_time": 1698797615,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 259354,
+        "num": 259354,
+        "word": "林孝埈晒图为中国短道加油",
+        "onboard_time": 1698804511,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251951,
+        "num": 251951,
+        "word": "中国第40次南极科考队出征",
+        "onboard_time": 1698805772,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241570,
+        "num": 241570,
+        "word": "原来拿铁是牛奶不是咖啡",
+        "onboard_time": 1698803493,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239028,
+        "num": 239028,
+        "word": "费启鸣入选2023星辰大海",
+        "onboard_time": 1698806190,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222245,
+        "num": 222245,
+        "word": "月薪两万一年的护肤花费58.3元",
+        "onboard_time": 1698796713,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219596,
+        "num": 219596,
+        "word": "这就是街舞6定档",
+        "onboard_time": 1698807990,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212246,
+        "num": 212246,
+        "word": "人在医院能无知到什么程度",
+        "onboard_time": 1698799474,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 209550,
+        "num": 209550,
+        "word": "齐司礼 二段",
+        "onboard_time": 1698803674,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207719,
+        "num": 207719,
+        "word": "茅台回应涨价",
+        "onboard_time": 1698804752,
+        "rank": 32,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 199703,
+        "num": 199703,
+        "word": "夏鸣星卡面好帅",
+        "onboard_time": 1698805353,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192662,
+        "num": 192662,
+        "word": "万圣节该来的都来了",
+        "onboard_time": 1698807990,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189784,
+        "num": 189784,
+        "word": "双十一互助",
+        "onboard_time": 1698807691,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188541,
+        "num": 188541,
+        "word": "广西一客机遇险驾驶舱对话满满安全感",
+        "onboard_time": 1698803733,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186959,
+        "num": 186959,
+        "word": "智利决定召回驻以色列大使",
+        "onboard_time": 1698800855,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182131,
+        "num": 182131,
+        "word": "2023vivo开发者大会",
+        "onboard_time": 1698807391,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178138,
+        "num": 178138,
+        "word": "陆沉新卡",
+        "onboard_time": 1698803852,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177614,
+        "num": 177614,
+        "word": "我把小卡给了虞书欣的爷爷",
+        "onboard_time": 1698796955,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169605,
+        "num": 169605,
+        "word": "加沙地带超3500名儿童死亡",
+        "onboard_time": 1698805171,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 166156,
+        "num": 166156,
+        "word": "疾控中心回应小区自来水变成蓝色",
+        "onboard_time": 1698807031,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162535,
+        "num": 162535,
+        "word": "尹子维 大叔也是花美男",
+        "onboard_time": 1698806609,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158055,
+        "num": 158055,
+        "word": "巨人 艾伦三笠共用围巾",
+        "onboard_time": 1698807331,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 157025,
+        "num": 157025,
+        "word": "赵晴瘦了",
+        "onboard_time": 1698799835,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145921,
+        "num": 145921,
+        "word": "郭晓婷正剧适配度",
+        "onboard_time": 1698807270,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135110,
+        "num": 135110,
+        "word": "白荆回廊终极测试",
+        "onboard_time": 1698807331,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134540,
+        "num": 134540,
+        "word": "罗云熙章若楠新剧一个惜命一个爱财",
+        "onboard_time": 1698806851,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129995,
+        "num": 129995,
+        "word": "2023星辰大海青年演员官宣",
+        "onboard_time": 1698805951,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
