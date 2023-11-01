@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698808685117,
+  "endTime": 1698809664450,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -219,6 +219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1877649,
+      "num": 457690,
+      "word": "这英模仿那英侵权吗",
+      "onboard_time": 1698806670,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1873174,
       "num": 991561,
       "word": "男朋友说当伴娘就默认分手",
@@ -297,14 +305,6 @@
       "onboard_time": 1698711034,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1739352,
-      "num": 457690,
-      "word": "这英模仿那英侵权吗",
-      "onboard_time": 1698806670,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1730248,
@@ -425,6 +425,14 @@
       "onboard_time": 1698623791,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1503930,
+      "num": 424933,
+      "word": "不孕不育一半以上原因在男性",
+      "onboard_time": 1698807870,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1479329,
@@ -1067,6 +1075,14 @@
       "category": "动物萌宠,幽默"
     },
     {
+      "raw_hot": 799100,
+      "num": 445575,
+      "word": "万圣节宋焰cos",
+      "onboard_time": 1698807570,
+      "rank": 11,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 793626,
       "num": 793626,
       "word": "楼上是重点班 楼下是普通班",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1698755131,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 711300,
-      "num": 445575,
-      "word": "万圣节宋焰cos",
-      "onboard_time": 1698807570,
-      "rank": 11,
-      "category": "剧集,美妆"
     },
     {
       "raw_hot": 709545,
@@ -1449,14 +1457,6 @@
       "onboard_time": 1698666812,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 663566,
-      "num": 424933,
-      "word": "不孕不育一半以上原因在男性",
-      "onboard_time": 1698807870,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 661507,
@@ -2075,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534192,
+      "num": 534192,
+      "word": "傅首尔为老刘重燃生活热情而开心",
+      "onboard_time": 1698807930,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526629,
       "num": 526629,
       "word": "大吉岭茶与无人区玫瑰",
@@ -2635,14 +2643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412999,
-      "num": 412999,
-      "word": "傅首尔为老刘重燃生活热情而开心",
-      "onboard_time": 1698807930,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
@@ -2955,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364402,
+      "num": 364402,
+      "word": "女教师辞职拍飞机6年拍几十万张",
+      "onboard_time": 1698808771,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362625,
       "num": 362625,
       "word": "警方申请确认权志龙通话内容被驳回",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1698733530,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 334669,
+      "num": 334669,
+      "word": "这就是街舞6定档",
+      "onboard_time": 1698807990,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 334081,
@@ -3633,6 +3649,14 @@
       "onboard_time": 1698651991,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293006,
+      "num": 293006,
+      "word": "球迷高喊梅西 C罗示意闭嘴",
+      "onboard_time": 1698809071,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 292770,
@@ -4483,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242291,
+      "num": 242291,
+      "word": "张译第一次看无价之宝剧本就哭了",
+      "onboard_time": 1698808831,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241947,
       "num": 241947,
       "word": "烬相思",
@@ -4819,6 +4851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229192,
+      "num": 229192,
+      "word": "刘家昌对前妻章家珍提起诉讼",
+      "onboard_time": 1698808896,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228031,
       "num": 228031,
       "word": "双十一",
@@ -4881,6 +4921,14 @@
       "onboard_time": 1698592536,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224676,
+      "num": 224676,
+      "word": "田嘉瑞cos小丑",
+      "onboard_time": 1698808711,
+      "rank": 28,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 224308,
@@ -4987,14 +5035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219596,
-      "num": 219596,
-      "word": "这就是街舞6定档",
-      "onboard_time": 1698807990,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219565,
       "num": 219565,
       "word": "EDG",
@@ -5017,6 +5057,22 @@
       "onboard_time": 1698637119,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218401,
+      "num": 218401,
+      "word": "这英被父母扫兴了20年",
+      "onboard_time": 1698809433,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 218163,
+      "num": 218163,
+      "word": "卢昱晓cos小猫咪",
+      "onboard_time": 1698809313,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 217691,
@@ -5763,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197186,
+      "num": 197186,
+      "word": "律师称高度模仿明星涉嫌侵权",
+      "onboard_time": 1698809373,
+      "rank": 34,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 196929,
       "num": 196929,
       "word": "宋雨琦唱稻香忘词的反应",
@@ -6209,6 +6273,14 @@
       "onboard_time": 1698664893,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187388,
+      "num": 187388,
+      "word": "刘家昌曝儿子多次被退学",
+      "onboard_time": 1698809552,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 187319,
@@ -7539,6 +7611,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 154974,
+      "num": 154974,
+      "word": "杜兰特对位文班亚马",
+      "onboard_time": 1698809433,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154847,
       "num": 154847,
       "word": "薛之谦 成都加场",
@@ -7561,6 +7641,14 @@
       "onboard_time": 1698553052,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154435,
+      "num": 154435,
+      "word": "巨蟹座绝对不会主动第二次",
+      "onboard_time": 1698809495,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 154134,
@@ -7697,6 +7785,14 @@
       "onboard_time": 1698633810,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149637,
+      "num": 149637,
+      "word": "周深岁岁青莲主题曲似夏",
+      "onboard_time": 1698809552,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 149552,
@@ -9283,6 +9379,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 107925,
+      "num": 365739,
+      "word": "一块好屏幕有多重要",
+      "onboard_time": 1698805591,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107697,
       "num": 107697,
       "word": "结局了来了三个客串",
@@ -9489,14 +9593,6 @@
       "onboard_time": 1698648152,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100719,
-      "num": 365739,
-      "word": "一块好屏幕有多重要",
-      "onboard_time": 1698805591,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 100435,
