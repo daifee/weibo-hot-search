@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698802654105,
+  "endTime": 1698805674651,
   "band_list": [
     {
       "raw_hot": 2481239,
@@ -19,8 +19,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1361062,
-      "num": 466540,
+      "raw_hot": 1948331,
+      "num": 1948331,
       "word": "人民日报评不该消失的课间10分钟",
       "onboard_time": 1698800435,
       "rank": 11,
@@ -51,20 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1146012,
+      "num": 1146012,
+      "word": "吴承恩作品票房59亿",
+      "onboard_time": 1698801215,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1121372,
+      "num": 1121372,
+      "word": "男子面试失败骂HR后个人信息被曝光",
+      "onboard_time": 1698800974,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030537,
       "num": 1030537,
       "word": "这个锅中国不背",
       "onboard_time": 1698781874,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 932236,
-      "num": 932236,
-      "word": "吴承恩作品票房59亿",
-      "onboard_time": 1698801215,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 897081,
@@ -99,6 +107,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 730821,
+      "num": 730821,
+      "word": "长沙鸣响防空警报",
+      "onboard_time": 1698802892,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700546,
+      "num": 275871,
+      "word": "长痘与身体器官的联系",
+      "onboard_time": 1698802415,
+      "rank": 31,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 666744,
       "num": 283036,
       "word": "向太 衣服太low了",
@@ -121,6 +145,14 @@
       "onboard_time": 1698795388,
       "rank": 7,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 609734,
+      "num": 394451,
+      "word": "曾黎在飞机上的卸妆护肤步骤",
+      "onboard_time": 1698802354,
+      "rank": 34,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 585385,
@@ -163,20 +195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 454625,
-      "num": 454625,
-      "word": "男子面试失败骂HR后个人信息被曝光",
-      "onboard_time": 1698800974,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435682,
       "num": 435682,
       "word": "秦岚痛失真名",
       "onboard_time": 1698763118,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402248,
+      "num": 402248,
+      "word": "齐司礼 二段",
+      "onboard_time": 1698803674,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 401444,
@@ -211,6 +243,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 373956,
+      "num": 373956,
+      "word": "吴楚一吴尊早期同框",
+      "onboard_time": 1698804392,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349798,
       "num": 282484,
       "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
@@ -227,12 +267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343015,
+      "num": 343015,
+      "word": "夏鸣星卡面好帅",
+      "onboard_time": 1698805353,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 334081,
       "num": 193675,
       "word": "乌镇偶遇黄磊一家五口",
       "onboard_time": 1698790035,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323560,
+      "num": 274822,
+      "word": "1岁娃因妈妈不让开抽屉哭晕送医",
+      "onboard_time": 1698803493,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321993,
@@ -259,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303322,
+      "num": 303322,
+      "word": "林孝埈晒图为中国短道加油",
+      "onboard_time": 1698804511,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300563,
+      "num": 273823,
+      "word": "原来拿铁是牛奶不是咖啡",
+      "onboard_time": 1698803493,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297520,
       "num": 297520,
       "word": "如萍亲杜飞粘了一嘴胡子",
@@ -283,12 +355,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 285827,
+      "num": 285827,
+      "word": "茅台回应涨价",
+      "onboard_time": 1698804752,
+      "rank": 18,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 272753,
       "num": 272753,
       "word": "徐志胜是懂cos的",
       "onboard_time": 1698766477,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271789,
+      "num": 271789,
+      "word": "茅台开盘暴涨",
+      "onboard_time": 1698805110,
+      "rank": 25,
+      "category": "财经,美食"
+    },
+    {
+      "raw_hot": 271334,
+      "num": 273310,
+      "word": "陆沉新卡",
+      "onboard_time": 1698803852,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 268440,
@@ -363,12 +459,28 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 231686,
+      "num": 231686,
+      "word": "广西一客机遇险驾驶舱对话满满安全感",
+      "onboard_time": 1698803733,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230613,
       "num": 230613,
       "word": "曾舜晞进组七夜雪",
       "onboard_time": 1698798755,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229553,
+      "num": 229553,
+      "word": "逆水寒 龙吟",
+      "onboard_time": 1698804931,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 228646,
@@ -427,20 +539,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 210112,
-      "num": 210112,
-      "word": "长痘与身体器官的联系",
-      "onboard_time": 1698802415,
-      "rank": 31,
-      "category": "健康医疗,美妆"
-    },
-    {
-      "raw_hot": 201900,
-      "num": 201900,
-      "word": "曾黎在飞机上的卸妆护肤步骤",
-      "onboard_time": 1698802354,
-      "rank": 34,
-      "category": "艺人,美妆"
+      "raw_hot": 201500,
+      "num": 201500,
+      "word": "快船老板亲自迎接哈登",
+      "onboard_time": 1698804212,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 197764,
@@ -457,6 +561,14 @@
       "onboard_time": 1698757713,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195493,
+      "num": 195493,
+      "word": "秦海璐清花少旅行库存",
+      "onboard_time": 1698802714,
+      "rank": 34,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 185145,
@@ -507,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177787,
+      "num": 177787,
+      "word": "丁薇回应没参加浪姐",
+      "onboard_time": 1698805231,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176323,
       "num": 176323,
       "word": "张婧仪又发朋友圈了",
@@ -523,6 +643,22 @@
       "category": "教育,演出"
     },
     {
+      "raw_hot": 171380,
+      "num": 171380,
+      "word": "5块钱的cos能有多惊艳",
+      "onboard_time": 1698805051,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 171155,
+      "num": 171155,
+      "word": "哈登有望在洛城德比迎首秀",
+      "onboard_time": 1698804452,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170808,
       "num": 170808,
       "word": "YYF",
@@ -537,6 +673,14 @@
       "onboard_time": 1698793463,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167626,
+      "num": 167626,
+      "word": "互金币",
+      "onboard_time": 1698805531,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 166740,
@@ -571,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163249,
+      "num": 163249,
+      "word": "oner灵超cos爱德华",
+      "onboard_time": 1698804810,
+      "rank": 45,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 161223,
       "num": 161223,
       "word": "仲溪午终于等到了他的华浅",
@@ -585,6 +737,14 @@
       "onboard_time": 1698756871,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157616,
+      "num": 157616,
+      "word": "加沙地带超3500名儿童死亡",
+      "onboard_time": 1698805171,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 155783,
@@ -609,6 +769,14 @@
       "onboard_time": 1698787215,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151749,
+      "num": 151749,
+      "word": "C罗晒照庆祝杯赛晋级",
+      "onboard_time": 1698803372,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 144744,
@@ -937,6 +1105,14 @@
       "onboard_time": 1698772641,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39395,
+      "num": 147059,
+      "word": "一块好屏幕有多重要",
+      "onboard_time": 1698805591,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 33615,
