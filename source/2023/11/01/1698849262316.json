@@ -1,0 +1,410 @@
+{
+  "runTime": 1698849262316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928245,
+        "num": 1928245,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1586692,
+        "num": 1586692,
+        "word": "女教师跳楼自杀家属称发求助后被踢出群",
+        "onboard_time": 1698847479,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 31337,
+        "num": 1310485,
+        "word": "90秒数说今年进博会亮点",
+        "onboard_time": 1698843033,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091772,
+        "num": 1091772,
+        "word": "中国女足无缘巴黎奥运会",
+        "onboard_time": 1698846038,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1061068,
+        "num": 1061068,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878305,
+        "num": 878305,
+        "word": "下一站幸福导演陈慧翎去世",
+        "onboard_time": 1698844835,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 752839,
+        "num": 752839,
+        "word": "闲鱼回应多地大学生在平台挂学校",
+        "onboard_time": 1698842795,
+        "rank": 6,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 750191,
+        "num": 750191,
+        "word": "30集的剧前29集是做梦",
+        "onboard_time": 1698845556,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 630501,
+        "num": 630501,
+        "word": "王一博于适 星辰大海双C位",
+        "onboard_time": 1698845256,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 623422,
+        "num": 623422,
+        "word": "美国宣布增兵中东",
+        "onboard_time": 1698846816,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1725156,
+        "num": 593913,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 924513,
+        "num": 590492,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 558318,
+        "num": 558318,
+        "word": "全球第二例猪心脏移植患者6周后去世",
+        "onboard_time": 1698843513,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529682,
+        "num": 529682,
+        "word": "湖南卫视的预告真的太有特色了",
+        "onboard_time": 1698845738,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490742,
+        "num": 490742,
+        "word": "外卖烧烤店直接改名叫炸串店吧",
+        "onboard_time": 1698846575,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 483557,
+        "num": 483557,
+        "word": "富婆为什么会被博士骗",
+        "onboard_time": 1698846397,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463379,
+        "num": 463379,
+        "word": "于正 下部剧让王星越周也往死里甜",
+        "onboard_time": 1698848677,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391587,
+        "num": 391587,
+        "word": "白鹿一部剧开机一部剧定档",
+        "onboard_time": 1698839615,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379457,
+        "num": 379457,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376025,
+        "num": 376025,
+        "word": "谢娜不知道杨紫比张一山小",
+        "onboard_time": 1698848076,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 898346,
+        "num": 375922,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382212,
+        "num": 374932,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354461,
+        "num": 354461,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318628,
+        "num": 318628,
+        "word": "向佐 大家不能靠长相判刑吧",
+        "onboard_time": 1698842972,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298223,
+        "num": 298223,
+        "word": "赵丽颖说王梓薇表演很有感受力",
+        "onboard_time": 1698843154,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285097,
+        "num": 285097,
+        "word": "于正你好歹毒的心",
+        "onboard_time": 1698841715,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240719,
+        "num": 240719,
+        "word": "ChatGPT可能已经有了意识",
+        "onboard_time": 1698836557,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 237402,
+        "num": 237402,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1698841894,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 227862,
+        "num": 227862,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218627,
+        "num": 226258,
+        "word": "青岛啤酒小便工人被行拘",
+        "onboard_time": 1698841357,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225651,
+        "num": 225651,
+        "word": "天官赐福",
+        "onboard_time": 1698840876,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 213660,
+        "num": 213660,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194200,
+        "num": 194200,
+        "word": "以爱为营",
+        "onboard_time": 1698848677,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190040,
+        "num": 190040,
+        "word": "薛之谦彭昱畅见面干瞪眼",
+        "onboard_time": 1698846638,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180598,
+        "num": 180598,
+        "word": "王鹤棣原声",
+        "onboard_time": 1698840934,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177011,
+        "num": 177011,
+        "word": "越华丽的衣服越配景甜",
+        "onboard_time": 1698845794,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158299,
+        "num": 158299,
+        "word": "天津男篮战胜广东男篮",
+        "onboard_time": 1698848919,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155126,
+        "num": 155126,
+        "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+        "onboard_time": 1698838713,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149023,
+        "num": 149023,
+        "word": "双胞胎为什么要穿得一模一样",
+        "onboard_time": 1698837754,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 139480,
+        "num": 139480,
+        "word": "微信呼叫",
+        "onboard_time": 1698839853,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145448,
+        "num": 139109,
+        "word": "易烊千玺表情包cos",
+        "onboard_time": 1698841957,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136462,
+        "num": 136462,
+        "word": "以爱为营定档",
+        "onboard_time": 1698827373,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134787,
+        "num": 134787,
+        "word": "为什么流感会嗓子疼",
+        "onboard_time": 1698848618,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133357,
+        "num": 133357,
+        "word": "为有暗香来 OE",
+        "onboard_time": 1698840758,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132930,
+        "num": 132930,
+        "word": "88岁老人离世后被发现已与保姆结婚",
+        "onboard_time": 1698843995,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128877,
+        "num": 128877,
+        "word": "以爱为营预告",
+        "onboard_time": 1698834033,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126817,
+        "num": 126817,
+        "word": "95后男子被裁员抗争17个月获赔16万9",
+        "onboard_time": 1698835593,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124689,
+        "num": 124689,
+        "word": "极速悖论",
+        "onboard_time": 1698845617,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 120752,
+        "word": "广东男篮vs天津男篮",
+        "onboard_time": 1698847599,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115922,
+        "num": 115922,
+        "word": "天津中德应用技术大学",
+        "onboard_time": 1698848561,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
