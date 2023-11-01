@@ -1,0 +1,410 @@
+{
+  "runTime": 1698842935541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2450193,
+        "num": 2450193,
+        "word": "青岛啤酒小便工人被行拘",
+        "onboard_time": 1698841357,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163481,
+        "num": 1163481,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53072,
+        "num": 1128921,
+        "word": "6位航天员太空会面瞬间回顾",
+        "onboard_time": 1698842616,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1122741,
+        "num": 1122741,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 747476,
+        "num": 747476,
+        "word": "官方再通报青岛啤酒三厂事件",
+        "onboard_time": 1698841234,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740312,
+        "num": 740312,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601156,
+        "num": 601156,
+        "word": "ChatGPT可能已经有了意识",
+        "onboard_time": 1698836557,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 595828,
+        "num": 595828,
+        "word": "双胞胎为什么要穿得一模一样",
+        "onboard_time": 1698837754,
+        "rank": 7,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 558351,
+        "num": 558351,
+        "word": "白鹿一部剧开机一部剧定档",
+        "onboard_time": 1698839615,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502154,
+        "num": 502154,
+        "word": "于正你好歹毒的心",
+        "onboard_time": 1698841715,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2540666,
+        "num": 498441,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1845345,
+        "num": 492321,
+        "word": "微信呼叫",
+        "onboard_time": 1698839853,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 990041,
+        "num": 490485,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 484342,
+        "num": 484342,
+        "word": "王鹤棣原声",
+        "onboard_time": 1698840934,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48919,
+        "num": 467745,
+        "word": "萧亚轩音乐虚拟首秀",
+        "onboard_time": 1698840033,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 763944,
+        "num": 464883,
+        "word": "工作人员让杨紫不要戳别人的鼻孔",
+        "onboard_time": 1698832594,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499819,
+        "num": 464787,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1698841894,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 461564,
+        "num": 461564,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384448,
+        "num": 384448,
+        "word": "天官赐福",
+        "onboard_time": 1698840876,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 380861,
+        "num": 380861,
+        "word": "主播讲国考知识点讲嗨了忘记直播",
+        "onboard_time": 1698841715,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1046086,
+        "num": 377169,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408022,
+        "num": 364697,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384082,
+        "num": 358604,
+        "word": "于正暗香来欠一个满意的结局",
+        "onboard_time": 1698837274,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350967,
+        "num": 350967,
+        "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+        "onboard_time": 1698838713,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337317,
+        "num": 337317,
+        "word": "青岛啤酒发布整改情况说明",
+        "onboard_time": 1698842495,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329448,
+        "num": 329448,
+        "word": "95后男子被裁员抗争17个月获赔16万9",
+        "onboard_time": 1698835593,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294285,
+        "num": 294285,
+        "word": "以爱为营定档",
+        "onboard_time": 1698827373,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281397,
+        "num": 281397,
+        "word": "中方尊重朝鲜关闭香港总领馆的决定",
+        "onboard_time": 1698834755,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 280202,
+        "num": 280202,
+        "word": "为有暗香来 OE",
+        "onboard_time": 1698840758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129498,
+        "num": 271670,
+        "word": "北大辟谣韦东奕被解雇",
+        "onboard_time": 1698832956,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271408,
+        "num": 271408,
+        "word": "易烊千玺表情包cos",
+        "onboard_time": 1698841957,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235217,
+        "num": 235217,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218820,
+        "num": 218820,
+        "word": "乐游原定档",
+        "onboard_time": 1698838113,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208199,
+        "num": 208199,
+        "word": "以爱为营预告",
+        "onboard_time": 1698834033,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204359,
+        "num": 204359,
+        "word": "闲鱼回应多地大学生在平台挂学校",
+        "onboard_time": 1698842795,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 188825,
+        "num": 188825,
+        "word": "温碧霞P图从不P老公",
+        "onboard_time": 1698819933,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184343,
+        "num": 184343,
+        "word": "为有暗香来结局",
+        "onboard_time": 1698836253,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172351,
+        "num": 172351,
+        "word": "檀健次直播",
+        "onboard_time": 1698838834,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167424,
+        "num": 167424,
+        "word": "曾舜晞姐姐姐姐姐姐",
+        "onboard_time": 1698829413,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158147,
+        "num": 158147,
+        "word": "被同事直接叫了微信名",
+        "onboard_time": 1698838415,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143580,
+        "num": 143580,
+        "word": "网传外卖媛实为虚假摆拍",
+        "onboard_time": 1698834994,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143260,
+        "num": 143260,
+        "word": "2年遭家暴16次女子不满伤残鉴定",
+        "onboard_time": 1698831213,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141909,
+        "num": 141909,
+        "word": "孩子头颅出血交警开道7分钟送医",
+        "onboard_time": 1698837394,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139865,
+        "num": 139865,
+        "word": "中国短道速滑队平安抵京",
+        "onboard_time": 1698839732,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "年轻人开始养鱼式理财了",
+        "onboard_time": 1698838773,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37649,
+        "num": 136062,
+        "word": "神十六着陆前和太阳惊艳合影",
+        "onboard_time": 1698826769,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 135727,
+        "num": 135727,
+        "word": "小杨哥被曝也有保价协议",
+        "onboard_time": 1698828391,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 133142,
+        "num": 133142,
+        "word": "在东北没点才艺是吃不上席的",
+        "onboard_time": 1698841416,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132061,
+        "num": 132061,
+        "word": "六公主人还怪好的嘞",
+        "onboard_time": 1698835053,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125088,
+        "num": 125088,
+        "word": "把许凯关在横店多拍古装",
+        "onboard_time": 1698838652,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}

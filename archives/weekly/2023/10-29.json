@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698841997284,
+  "endTime": 1698842935541,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3213405,
-      "num": 437225,
+      "num": 498441,
       "word": "微信转账",
       "onboard_time": 1698839973,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 2450193,
+      "num": 2450193,
+      "word": "青岛啤酒小便工人被行拘",
+      "onboard_time": 1698841357,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2426695,
       "num": 418991,
       "word": "向太 衣服太low了",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2405653,
-      "num": 434726,
+      "num": 492321,
       "word": "微信呼叫",
       "onboard_time": 1698839853,
       "rank": 11,
@@ -713,14 +721,6 @@
       "onboard_time": 1698679593,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1205690,
-      "num": 1205690,
-      "word": "青岛啤酒小便工人被行拘",
-      "onboard_time": 1698841357,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1203917,
@@ -1451,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747476,
+      "num": 747476,
+      "word": "官方再通报青岛啤酒三厂事件",
+      "onboard_time": 1698841234,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747342,
       "num": 633632,
       "word": "以色列声称联合国不具有合法性",
@@ -2083,6 +2091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 595828,
+      "num": 595828,
+      "word": "双胞胎为什么要穿得一模一样",
+      "onboard_time": 1698837754,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 595633,
       "num": 595633,
       "word": "段奥娟入选2023星辰大海",
@@ -2227,28 +2243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574666,
-      "num": 574666,
-      "word": "双胞胎为什么要穿得一模一样",
-      "onboard_time": 1698837754,
-      "rank": 26,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 572242,
       "num": 572242,
       "word": "白鹿一部剧开机一部剧定档",
       "onboard_time": 1698839615,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570059,
-      "num": 570059,
-      "word": "官方再通报青岛啤酒三厂事件",
-      "onboard_time": 1698841234,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567745,
@@ -2579,12 +2579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502154,
+      "num": 502154,
+      "word": "于正你好歹毒的心",
+      "onboard_time": 1698841715,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500651,
       "num": 237137,
       "word": "vivo发布自研AI蓝心大模型",
       "onboard_time": 1698810696,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 499819,
+      "num": 464787,
+      "word": "檀健次 戴比尔斯",
+      "onboard_time": 1698841894,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 498427,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1698558211,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484342,
+      "num": 484342,
+      "word": "王鹤棣原声",
+      "onboard_time": 1698840934,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 483594,
@@ -3131,14 +3155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414962,
-      "num": 414962,
-      "word": "王鹤棣原声",
-      "onboard_time": 1698840934,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 414508,
       "num": 414508,
       "word": "幼童卡喉脸已发紫护士45秒极速营救",
@@ -3347,6 +3363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 384448,
+      "num": 384448,
+      "word": "天官赐福",
+      "onboard_time": 1698840876,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 383806,
       "num": 383806,
       "word": "娄底遭霸凌女孩家长回应网友关心",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1698738813,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380861,
+      "num": 380861,
+      "word": "主播讲国考知识点讲嗨了忘记直播",
+      "onboard_time": 1698841715,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 380552,
@@ -3771,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337317,
+      "num": 337317,
+      "word": "青岛啤酒发布整改情况说明",
+      "onboard_time": 1698842495,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337235,
       "num": 337235,
       "word": "秦岚迪丽热巴胡先煦炸鸡三人组",
@@ -3921,14 +3961,6 @@
       "onboard_time": 1698656850,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325042,
-      "num": 325042,
-      "word": "于正你好歹毒的心",
-      "onboard_time": 1698841715,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 323560,
@@ -4411,14 +4443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287775,
-      "num": 287775,
-      "word": "天官赐福",
-      "onboard_time": 1698840876,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 287624,
       "num": 287624,
       "word": "DK",
@@ -4531,6 +4555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280202,
+      "num": 280202,
+      "word": "为有暗香来 OE",
+      "onboard_time": 1698840758,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279806,
       "num": 279806,
       "word": "詹姆斯绝平",
@@ -4617,6 +4649,14 @@
       "onboard_time": 1698724833,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 271408,
+      "num": 271408,
+      "word": "易烊千玺表情包cos",
+      "onboard_time": 1698841957,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271334,
@@ -5739,14 +5779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225872,
-      "num": 225872,
-      "word": "为有暗香来 OE",
-      "onboard_time": 1698840758,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225759,
       "num": 225759,
       "word": "张婧仪又发朋友圈了",
@@ -5761,14 +5793,6 @@
       "onboard_time": 1698538708,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225313,
-      "num": 238314,
-      "word": "主播讲国考知识点讲嗨了忘记直播",
-      "onboard_time": 1698841715,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 224881,
@@ -6409,6 +6433,14 @@
       "onboard_time": 1698837394,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204359,
+      "num": 204359,
+      "word": "闲鱼回应多地大学生在平台挂学校",
+      "onboard_time": 1698842795,
+      "rank": 34,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 203820,
@@ -8467,14 +8499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162409,
-      "num": 162409,
-      "word": "檀健次 戴比尔斯",
-      "onboard_time": 1698841894,
-      "rank": 40,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 161989,
       "num": 161989,
       "word": "上海海港1比1山东泰山",
@@ -9273,14 +9297,6 @@
       "onboard_time": 1698821311,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144226,
-      "num": 144226,
-      "word": "易烊千玺表情包cos",
-      "onboard_time": 1698841957,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143942,
@@ -11603,6 +11619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53072,
+      "num": 1128921,
+      "word": "6位航天员太空会面瞬间回顾",
+      "onboard_time": 1698842616,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52356,
       "num": 1431393,
       "word": "老朋友带着新展品参加进博会",
@@ -11675,6 +11699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48919,
+      "num": 467745,
+      "word": "萧亚轩音乐虚拟首秀",
+      "onboard_time": 1698840033,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 48164,
       "num": 371783,
       "word": "费翔唱了故乡的云一万次",
@@ -11713,14 +11745,6 @@
       "onboard_time": 1698496897,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45429,
-      "num": 428228,
-      "word": "萧亚轩音乐虚拟首秀",
-      "onboard_time": 1698840033,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 44059,

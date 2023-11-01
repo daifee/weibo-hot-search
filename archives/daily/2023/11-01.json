@@ -1,10 +1,10 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698841997284,
+  "endTime": 1698842935541,
   "band_list": [
     {
       "raw_hot": 3213405,
-      "num": 437225,
+      "num": 498441,
       "word": "微信转账",
       "onboard_time": 1698839973,
       "rank": 10,
@@ -43,8 +43,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 2450193,
+      "num": 2450193,
+      "word": "青岛啤酒小便工人被行拘",
+      "onboard_time": 1698841357,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2405653,
-      "num": 434726,
+      "num": 492321,
       "word": "微信呼叫",
       "onboard_time": 1698839853,
       "rank": 11,
@@ -201,14 +209,6 @@
       "onboard_time": 1698801215,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1205690,
-      "num": 1205690,
-      "word": "青岛啤酒小便工人被行拘",
-      "onboard_time": 1698841357,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1199298,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747476,
+      "num": 747476,
+      "word": "官方再通报青岛啤酒三厂事件",
+      "onboard_time": 1698841234,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745845,
       "num": 745845,
       "word": "当地教体局回应小学女教师去世",
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595828,
+      "num": 595828,
+      "word": "双胞胎为什么要穿得一模一样",
+      "onboard_time": 1698837754,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 595633,
       "num": 595633,
       "word": "段奥娟入选2023星辰大海",
@@ -515,28 +531,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 574666,
-      "num": 574666,
-      "word": "双胞胎为什么要穿得一模一样",
-      "onboard_time": 1698837754,
-      "rank": 26,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 572242,
       "num": 572242,
       "word": "白鹿一部剧开机一部剧定档",
       "onboard_time": 1698839615,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570059,
-      "num": 570059,
-      "word": "官方再通报青岛啤酒三厂事件",
-      "onboard_time": 1698841234,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557117,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502154,
+      "num": 502154,
+      "word": "于正你好歹毒的心",
+      "onboard_time": 1698841715,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501907,
       "num": 310777,
       "word": "小学女教师离世留遗书称课外工作压力大",
@@ -643,6 +651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 499819,
+      "num": 464787,
+      "word": "檀健次 戴比尔斯",
+      "onboard_time": 1698841894,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 496795,
       "num": 496795,
       "word": "胡先煦帮迪丽热巴解围",
@@ -657,6 +673,14 @@
       "onboard_time": 1698818733,
       "rank": 12,
       "category": "游戏,美妆"
+    },
+    {
+      "raw_hot": 484342,
+      "num": 484342,
+      "word": "王鹤棣原声",
+      "onboard_time": 1698840934,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 483594,
@@ -763,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 414962,
-      "num": 414962,
-      "word": "王鹤棣原声",
-      "onboard_time": 1698840934,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 414344,
       "num": 414344,
       "word": "吴楚一吴尊早期同框",
@@ -841,6 +857,22 @@
       "onboard_time": 1698816333,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384448,
+      "num": 384448,
+      "word": "天官赐福",
+      "onboard_time": 1698840876,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 380861,
+      "num": 380861,
+      "word": "主播讲国考知识点讲嗨了忘记直播",
+      "onboard_time": 1698841715,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 380552,
@@ -931,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337317,
+      "num": 337317,
+      "word": "青岛啤酒发布整改情况说明",
+      "onboard_time": 1698842495,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336983,
       "num": 307194,
       "word": "Ricky直播被工作人员训斥",
@@ -969,14 +1009,6 @@
       "onboard_time": 1698819813,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 325042,
-      "num": 325042,
-      "word": "于正你好歹毒的心",
-      "onboard_time": 1698841715,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 323560,
@@ -1099,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287775,
-      "num": 287775,
-      "word": "天官赐福",
-      "onboard_time": 1698840876,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 286731,
       "num": 286731,
       "word": "加沙婴儿脱水成为日益严重的威胁",
@@ -1123,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280202,
+      "num": 280202,
+      "word": "为有暗香来 OE",
+      "onboard_time": 1698840758,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272753,
       "num": 272753,
       "word": "徐志胜是懂cos的",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1698818673,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271408,
+      "num": 271408,
+      "word": "易烊千玺表情包cos",
+      "onboard_time": 1698841957,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271334,
@@ -1475,22 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225872,
-      "num": 225872,
-      "word": "为有暗香来 OE",
-      "onboard_time": 1698840758,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 225313,
-      "num": 238314,
-      "word": "主播讲国考知识点讲嗨了忘记直播",
-      "onboard_time": 1698841715,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 224562,
       "num": 224542,
       "word": "星辰大海给于适P了内搭",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1698837394,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204359,
+      "num": 204359,
+      "word": "闲鱼回应多地大学生在平台挂学校",
+      "onboard_time": 1698842795,
+      "rank": 34,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 203495,
@@ -2107,14 +2139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162409,
-      "num": 162409,
-      "word": "檀健次 戴比尔斯",
-      "onboard_time": 1698841894,
-      "rank": 40,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 161223,
       "num": 161223,
       "word": "仲溪午终于等到了他的华浅",
@@ -2337,14 +2361,6 @@
       "onboard_time": 1698821311,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144226,
-      "num": 144226,
-      "word": "易烊千玺表情包cos",
-      "onboard_time": 1698841957,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143981,
@@ -2859,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53072,
+      "num": 1128921,
+      "word": "6位航天员太空会面瞬间回顾",
+      "onboard_time": 1698842616,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52356,
       "num": 1431393,
       "word": "老朋友带着新展品参加进博会",
@@ -2883,20 +2907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48919,
+      "num": 467745,
+      "word": "萧亚轩音乐虚拟首秀",
+      "onboard_time": 1698840033,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46204,
       "num": 73825,
       "word": "云南边境居民讲述缅甸军事冲突",
       "onboard_time": 1698772222,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45429,
-      "num": 428228,
-      "word": "萧亚轩音乐虚拟首秀",
-      "onboard_time": 1698840033,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 44059,
