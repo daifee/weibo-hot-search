@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698830242044,
+  "endTime": 1698831253978,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2696802,
-      "num": 433829,
+      "num": 468246,
       "word": "向太 别再说我和媳妇的关系",
       "onboard_time": 1698815856,
       "rank": 10,
@@ -177,6 +177,14 @@
       "onboard_time": 1698579333,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2100062,
+      "num": 2100062,
+      "word": "小杨哥被曝也有保价协议",
+      "onboard_time": 1698828391,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2068705,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 1482421,
-      "num": 394018,
+      "num": 451538,
       "word": "温碧霞P图从不P老公",
       "onboard_time": 1698819933,
       "rank": 31,
@@ -521,14 +529,6 @@
       "onboard_time": 1698753867,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1427156,
-      "num": 1427156,
-      "word": "小杨哥被曝也有保价协议",
-      "onboard_time": 1698828391,
-      "rank": 3,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1406479,
@@ -585,6 +585,14 @@
       "onboard_time": 1698713073,
       "rank": 11,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 1328238,
+      "num": 1328238,
+      "word": "朝鲜关闭12个驻外使领馆",
+      "onboard_time": 1698829234,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1286755,
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 1122133,
-      "num": 382539,
+      "num": 386139,
       "word": "孙俪背沟",
       "onboard_time": 1698821369,
       "rank": 17,
@@ -737,14 +745,6 @@
       "onboard_time": 1698590677,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1094812,
-      "num": 1094812,
-      "word": "朝鲜关闭12个驻外使领馆",
-      "onboard_time": 1698829234,
-      "rank": 4,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1090579,
@@ -777,6 +777,14 @@
       "onboard_time": 1698670772,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072733,
+      "num": 1072733,
+      "word": "对不起那英我喜欢这英",
+      "onboard_time": 1698827430,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 1069499,
@@ -995,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 929668,
-      "num": 929668,
-      "word": "对不起那英我喜欢这英",
-      "onboard_time": 1698827430,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 926607,
       "num": 497145,
       "word": "胡彦斌终于拿第一了",
@@ -1195,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 818922,
+      "num": 818922,
+      "word": "杭州出现卖4988元一杯的咖啡",
+      "onboard_time": 1698825271,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 809314,
       "num": 366701,
       "word": "给安陵容打伞的是晴川",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1698508953,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 775895,
-      "num": 775895,
-      "word": "杭州出现卖4988元一杯的咖啡",
-      "onboard_time": 1698825271,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 771057,
@@ -1915,6 +1915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 603004,
+      "num": 442037,
+      "word": "林允儿 我看我闺蜜上班",
+      "onboard_time": 1698829896,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599921,
       "num": 599921,
       "word": "秦岚声带出了问题",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1698535281,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557117,
+      "num": 557117,
+      "word": "小米14超iPhone15Pro首销量",
+      "onboard_time": 1698829830,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 556515,
@@ -2804,7 +2820,7 @@
     },
     {
       "raw_hot": 432398,
-      "num": 185984,
+      "num": 297245,
       "word": "以爱为营群像海报",
       "onboard_time": 1698829773,
       "rank": 30,
@@ -2881,6 +2897,14 @@
       "onboard_time": 1698491795,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 419068,
+      "num": 419068,
+      "word": "曾舜晞姐姐姐姐姐姐",
+      "onboard_time": 1698829413,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 418562,
@@ -3089,6 +3113,14 @@
       "onboard_time": 1698638976,
       "rank": 19,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 386909,
+      "num": 386909,
+      "word": "教体局已介入郑州女教师跳楼轻生事件",
+      "onboard_time": 1698830192,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 386628,
@@ -3425,6 +3457,14 @@
       "onboard_time": 1698750211,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345275,
+      "num": 345275,
+      "word": "男子晒控糖一年身体变化",
+      "onboard_time": 1698830315,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 344619,
@@ -3785,14 +3825,6 @@
       "onboard_time": 1698668314,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 312533,
-      "num": 312533,
-      "word": "小米14超iPhone15Pro首销量",
-      "onboard_time": 1698829830,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 312168,
@@ -4475,14 +4507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264504,
-      "num": 264504,
-      "word": "曾舜晞姐姐姐姐姐姐",
-      "onboard_time": 1698829413,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264399,
       "num": 264399,
       "word": "爱豆男团仿妆",
@@ -4731,12 +4755,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252406,
-      "num": 252406,
-      "word": "林允儿 我看我闺蜜上班",
-      "onboard_time": 1698829896,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 252654,
+      "num": 252654,
+      "word": "在高铁上办公被一群人围观了",
+      "onboard_time": 1698829174,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 252362,
@@ -4953,14 +4977,6 @@
       "onboard_time": 1698721591,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243921,
-      "num": 243921,
-      "word": "在高铁上办公被一群人围观了",
-      "onboard_time": 1698829174,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 243855,
@@ -6827,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191134,
+      "num": 191134,
+      "word": "人类幼崽的衣服有多可爱",
+      "onboard_time": 1698830613,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191125,
       "num": 191125,
       "word": "于和伟 知道自己是主公还是公主",
@@ -8427,6 +8451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153771,
+      "num": 153771,
+      "word": "谢娜分享高马尾发型教程",
+      "onboard_time": 1698830913,
+      "rank": 37,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 153322,
       "num": 153322,
       "word": "不会贴假睫毛的有福了",
@@ -9009,6 +9041,14 @@
       "onboard_time": 1698654872,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138136,
+      "num": 125013,
+      "word": "烤红薯为什么比蒸红薯更好吃",
+      "onboard_time": 1698830975,
+      "rank": 40,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 138054,
@@ -9747,6 +9787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122097,
+      "num": 122097,
+      "word": "千年前的壁画上女孩比了个心",
+      "onboard_time": 1698830793,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122063,
       "num": 122063,
       "word": "撒贝宁 司仪界的天花板",
@@ -9841,6 +9889,14 @@
       "onboard_time": 1698562111,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120378,
+      "num": 120378,
+      "word": "完蛋我被美女包围了",
+      "onboard_time": 1698831154,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 120314,
@@ -9961,6 +10017,14 @@
       "onboard_time": 1698735871,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117797,
+      "num": 117797,
+      "word": "黑白无常别抢贫僧的狼牙土豆",
+      "onboard_time": 1698831031,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 117651,
@@ -10147,6 +10211,14 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 112913,
+      "num": 117794,
+      "word": "2年遭家暴16次女子不满伤残鉴定",
+      "onboard_time": 1698831213,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112912,
       "num": 112912,
       "word": "2023成都马拉松3.5万人开跑",
@@ -10281,6 +10353,14 @@
       "onboard_time": 1698568773,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107277,
+      "num": 117785,
+      "word": "阳光下的赵露思",
+      "onboard_time": 1698831098,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 106775,
@@ -10547,14 +10627,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 97996,
-      "num": 137472,
-      "word": "教体局已介入郑州女教师跳楼轻生事件",
-      "onboard_time": 1698830192,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 97508,
       "num": 175464,
       "word": "国货打广告卷到了工位上",
@@ -10564,7 +10636,7 @@
     },
     {
       "raw_hot": 97114,
-      "num": 137475,
+      "num": 297307,
       "word": "周黑鸭拉横幅帮网友告白",
       "onboard_time": 1698830134,
       "rank": 42,
@@ -11051,7 +11123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52150,
+      "raw_hot": 52356,
       "num": 1431393,
       "word": "老朋友带着新展品参加进博会",
       "onboard_time": 1698827250,

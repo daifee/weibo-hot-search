@@ -1,0 +1,410 @@
+{
+  "runTime": 1698831253978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100062,
+        "num": 2100062,
+        "word": "小杨哥被曝也有保价协议",
+        "onboard_time": 1698828391,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1389336,
+        "num": 1389336,
+        "word": "以爱为营定档",
+        "onboard_time": 1698827373,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52356,
+        "num": 1343401,
+        "word": "老朋友带着新展品参加进博会",
+        "onboard_time": 1698827250,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2143072,
+        "num": 1337271,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1328238,
+        "num": 1328238,
+        "word": "朝鲜关闭12个驻外使领馆",
+        "onboard_time": 1698829234,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1072733,
+        "num": 1072733,
+        "word": "对不起那英我喜欢这英",
+        "onboard_time": 1698827430,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 818922,
+        "num": 818922,
+        "word": "杭州出现卖4988元一杯的咖啡",
+        "onboard_time": 1698825271,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 754774,
+        "num": 754774,
+        "word": "时宴终于来了",
+        "onboard_time": 1698829715,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557117,
+        "num": 557117,
+        "word": "小米14超iPhone15Pro首销量",
+        "onboard_time": 1698829830,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 492103,
+        "num": 492103,
+        "word": "迪丽姐热了吧",
+        "onboard_time": 1698814597,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 977368,
+        "num": 468246,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702823,
+        "num": 451538,
+        "word": "温碧霞P图从不P老公",
+        "onboard_time": 1698819933,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603004,
+        "num": 442037,
+        "word": "林允儿 我看我闺蜜上班",
+        "onboard_time": 1698829896,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419068,
+        "num": 419068,
+        "word": "曾舜晞姐姐姐姐姐姐",
+        "onboard_time": 1698829413,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386909,
+        "num": 386909,
+        "word": "教体局已介入郑州女教师跳楼轻生事件",
+        "onboard_time": 1698830192,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 404280,
+        "num": 386139,
+        "word": "孙俪背沟",
+        "onboard_time": 1698821369,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345275,
+        "num": 345275,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331201,
+        "num": 331201,
+        "word": "向太coser晒装扮价格",
+        "onboard_time": 1698816993,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330710,
+        "num": 330710,
+        "word": "月经周期短会有什么影响吗",
+        "onboard_time": 1698821912,
+        "rank": 18,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 298281,
+        "num": 298281,
+        "word": "知情人回应00后女老师跳楼身亡",
+        "onboard_time": 1698815913,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66804,
+        "num": 297307,
+        "word": "周黑鸭拉横幅帮网友告白",
+        "onboard_time": 1698830134,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 387132,
+        "num": 297245,
+        "word": "以爱为营群像海报",
+        "onboard_time": 1698829773,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297113,
+        "num": 297113,
+        "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
+        "onboard_time": 1698823896,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252654,
+        "num": 252654,
+        "word": "在高铁上办公被一群人围观了",
+        "onboard_time": 1698829174,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249481,
+        "num": 249481,
+        "word": "安踏回应ANTA是拼音还是英文",
+        "onboard_time": 1698815256,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 223070,
+        "num": 223070,
+        "word": "九成网络主播收入不如外卖员",
+        "onboard_time": 1698828932,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215347,
+        "num": 215347,
+        "word": "成都被狗咬女童右肾已保住",
+        "onboard_time": 1698818974,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209490,
+        "num": 209490,
+        "word": "白鹿的伞升级了",
+        "onboard_time": 1698823471,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209011,
+        "num": 209011,
+        "word": "迪丽热巴再现武艺名场面",
+        "onboard_time": 1698828090,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196904,
+        "num": 196904,
+        "word": "这英被父母扫兴了20年",
+        "onboard_time": 1698809433,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191134,
+        "num": 191134,
+        "word": "人类幼崽的衣服有多可爱",
+        "onboard_time": 1698830613,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174639,
+        "num": 174639,
+        "word": "惠英红这段戏竟然没被删",
+        "onboard_time": 1698828633,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171120,
+        "num": 171120,
+        "word": "00后女老师自杀校方拒绝家属看监控",
+        "onboard_time": 1698813575,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163327,
+        "num": 163327,
+        "word": "贵州人有自己的披萨",
+        "onboard_time": 1698829234,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163092,
+        "num": 163092,
+        "word": "花少三姐妹谈男人至死是少年",
+        "onboard_time": 1698825992,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157132,
+        "num": 157132,
+        "word": "刘家昌曝儿子多次被退学",
+        "onboard_time": 1698809552,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155358,
+        "num": 155358,
+        "word": "华莎演出被判无淫乱嫌疑",
+        "onboard_time": 1698813758,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153771,
+        "num": 153771,
+        "word": "谢娜分享高马尾发型教程",
+        "onboard_time": 1698830913,
+        "rank": 37,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 151302,
+        "num": 151302,
+        "word": "给初次怀孕的姐妹的小建议",
+        "onboard_time": 1698818314,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 126968,
+        "num": 126968,
+        "word": "秋日限定壁纸",
+        "onboard_time": 1698821369,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138136,
+        "num": 125013,
+        "word": "烤红薯为什么比蒸红薯更好吃",
+        "onboard_time": 1698830975,
+        "rank": 40,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 122097,
+        "num": 122097,
+        "word": "千年前的壁画上女孩比了个心",
+        "onboard_time": 1698830793,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120378,
+        "num": 120378,
+        "word": "完蛋我被美女包围了",
+        "onboard_time": 1698831154,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118020,
+        "num": 118020,
+        "word": "王安宇像在rua狗",
+        "onboard_time": 1698823832,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118017,
+        "num": 118017,
+        "word": "乃万cos迪达拉",
+        "onboard_time": 1698820413,
+        "rank": 44,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 117797,
+        "num": 117797,
+        "word": "黑白无常别抢贫僧的狼牙土豆",
+        "onboard_time": 1698831031,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112913,
+        "num": 117794,
+        "word": "2年遭家暴16次女子不满伤残鉴定",
+        "onboard_time": 1698831213,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109487,
+        "num": 117788,
+        "word": "曹操偏头痛的原因找到了",
+        "onboard_time": 1698819813,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107277,
+        "num": 117785,
+        "word": "阳光下的赵露思",
+        "onboard_time": 1698831098,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103099,
+        "num": 117779,
+        "word": "师傅检修电路比破案还精彩",
+        "onboard_time": 1698827132,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}
