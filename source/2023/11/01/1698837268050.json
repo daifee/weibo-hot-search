@@ -1,0 +1,410 @@
+{
+  "runTime": 1698837268050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2136205,
+        "num": 2136205,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1560064,
+        "num": 1560064,
+        "word": "中方尊重朝鲜关闭香港总领馆的决定",
+        "onboard_time": 1698834755,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 27203,
+        "num": 1251735,
+        "word": "老朋友带着新展品参加进博会",
+        "onboard_time": 1698827250,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1173780,
+        "num": 1173780,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 472969,
+        "num": 1064792,
+        "word": "95后男子被裁员抗争17个月获赔16万9",
+        "onboard_time": 1698835593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006279,
+        "num": 1006279,
+        "word": "小杨哥被曝也有保价协议",
+        "onboard_time": 1698828391,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 323033,
+        "num": 798870,
+        "word": "8090课间十分钟能有多快乐",
+        "onboard_time": 1698831391,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 792121,
+        "num": 792121,
+        "word": "以爱为营定档",
+        "onboard_time": 1698827373,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679172,
+        "num": 679172,
+        "word": "北大辟谣韦东奕被解雇",
+        "onboard_time": 1698832956,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528827,
+        "num": 528827,
+        "word": "2年遭家暴16次女子不满伤残鉴定",
+        "onboard_time": 1698831213,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1699871,
+        "num": 527151,
+        "word": "工作人员让杨紫不要戳别人的鼻孔",
+        "onboard_time": 1698832594,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646631,
+        "num": 526088,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524289,
+        "num": 524289,
+        "word": "为有暗香来结局",
+        "onboard_time": 1698836253,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473889,
+        "num": 473889,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473289,
+        "num": 473289,
+        "word": "对不起那英我喜欢这英",
+        "onboard_time": 1698827430,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 458983,
+        "num": 458983,
+        "word": "18岁西班牙公主成为王位继承人",
+        "onboard_time": 1698833372,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415981,
+        "num": 415981,
+        "word": "杭州出现卖4988元一杯的咖啡",
+        "onboard_time": 1698825271,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 413024,
+        "num": 413024,
+        "word": "以爱为营预告",
+        "onboard_time": 1698834033,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394942,
+        "num": 394942,
+        "word": "ChatGPT可能已经有了意识",
+        "onboard_time": 1698836557,
+        "rank": 18,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 388304,
+        "num": 388304,
+        "word": "金鸡奖",
+        "onboard_time": 1698831756,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1175695,
+        "num": 386711,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766038,
+        "num": 385941,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380552,
+        "num": 380552,
+        "word": "薛之谦巡演温州站开启预售",
+        "onboard_time": 1698836253,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375606,
+        "num": 375606,
+        "word": "朝鲜关闭12个驻外使领馆",
+        "onboard_time": 1698829234,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 360670,
+        "num": 360670,
+        "word": "为有暗香来",
+        "onboard_time": 1698835474,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357799,
+        "num": 357799,
+        "word": "温碧霞P图从不P老公",
+        "onboard_time": 1698819933,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321805,
+        "num": 321805,
+        "word": "网传外卖媛实为虚假摆拍",
+        "onboard_time": 1698834994,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298891,
+        "num": 298891,
+        "word": "曾舜晞姐姐姐姐姐姐",
+        "onboard_time": 1698829413,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250634,
+        "num": 250634,
+        "word": "六公主人还怪好的嘞",
+        "onboard_time": 1698835053,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223223,
+        "num": 223223,
+        "word": "迪丽热巴躺在地上帮秦海璐拍照",
+        "onboard_time": 1698831631,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189237,
+        "num": 189237,
+        "word": "林允儿 我看我闺蜜上班",
+        "onboard_time": 1698829896,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207362,
+        "num": 188677,
+        "word": "迪丽姐热了吧",
+        "onboard_time": 1698814597,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186299,
+        "num": 186299,
+        "word": "向太coser晒装扮价格",
+        "onboard_time": 1698816993,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185543,
+        "num": 185543,
+        "word": "以爱为营群像海报",
+        "onboard_time": 1698829773,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184401,
+        "num": 184401,
+        "word": "中国女足vs韩国女足",
+        "onboard_time": 1698836313,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175058,
+        "num": 175058,
+        "word": "小米14超iPhone15Pro首销量",
+        "onboard_time": 1698829830,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169217,
+        "num": 169217,
+        "word": "到底要怎样才舍得为自己花钱",
+        "onboard_time": 1698836557,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 164842,
+        "word": "知情人回应00后女老师跳楼身亡",
+        "onboard_time": 1698815913,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158261,
+        "num": 158261,
+        "word": "京东百亿补贴把价格打下来了",
+        "onboard_time": 1698832834,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157104,
+        "num": 157104,
+        "word": "时宴终于来了",
+        "onboard_time": 1698829715,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153900,
+        "num": 153900,
+        "word": "教体局已介入郑州女教师跳楼轻生事件",
+        "onboard_time": 1698830192,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150575,
+        "num": 150575,
+        "word": "伊能静的静是明镜的静",
+        "onboard_time": 1698835175,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147924,
+        "num": 147924,
+        "word": "朴灿烈杂志",
+        "onboard_time": 1698831573,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143354,
+        "num": 143354,
+        "word": "在高铁上办公被一群人围观了",
+        "onboard_time": 1698829174,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129774,
+        "num": 129774,
+        "word": "给狗狗买了一个电话手表后",
+        "onboard_time": 1698836437,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119775,
+        "num": 119775,
+        "word": "一分钟看纯享版邓为穿搭",
+        "onboard_time": 1698837155,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 118686,
+        "num": 118686,
+        "word": "阳光下的赵露思",
+        "onboard_time": 1698831098,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115963,
+        "num": 115963,
+        "word": "王一博呼吁用行动防范火灾",
+        "onboard_time": 1698832715,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111831,
+        "num": 111831,
+        "word": "被侯明昊变猴评论区笑yue了",
+        "onboard_time": 1698834874,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89888,
+        "num": 111613,
+        "word": "没想到双11快递是祈福过的",
+        "onboard_time": 1698837094,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}
