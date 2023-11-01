@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698860054802,
+  "endTime": 1698862937373,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -8659,6 +8659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167516,
+      "num": 79815,
+      "word": "双十一冷静期退货清单",
+      "onboard_time": 1698859040,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167439,
       "num": 167439,
       "word": "KT晋级八强",
@@ -11867,14 +11875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78705,
-      "num": 78705,
-      "word": "双十一冷静期退货清单",
-      "onboard_time": 1698859040,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 77747,
       "num": 514964,
       "word": "男性健康日晒出你的男人本色",
@@ -12331,6 +12331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 39806,
+      "num": 39806,
+      "word": "世界上最长寿的狗Bobi去世",
+      "onboard_time": 1698861438,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38859,
       "num": 508540,
       "word": "微博迎新之夜直播",
@@ -12361,6 +12369,14 @@
       "onboard_time": 1698686419,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 39769,
+      "word": "边界感清晰的人身上会有一种冷感",
+      "onboard_time": 1698860238,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 34954,

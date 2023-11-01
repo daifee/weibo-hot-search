@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698860054802,
+  "endTime": 1698862937373,
   "band_list": [
     {
       "raw_hot": 1875278,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167516,
+      "num": 79815,
+      "word": "双十一冷静期退货清单",
+      "onboard_time": 1698859040,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156091,
       "num": 156091,
       "word": "披荆斩棘3总决赛定档",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78705,
-      "num": 78705,
-      "word": "双十一冷静期退货清单",
-      "onboard_time": 1698859040,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 74185,
       "num": 74185,
       "word": "王安宇听到辛芷蕾丢1500的反应",
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54389,
+      "num": 54389,
+      "word": "王一博于适 星辰大海双C位",
+      "onboard_time": 1698845256,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49765,
       "num": 49765,
       "word": "傅首尔老刘拥抱的瞬间太阳出来了",
@@ -489,6 +497,30 @@
       "onboard_time": 1698859340,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39806,
+      "num": 39806,
+      "word": "世界上最长寿的狗Bobi去世",
+      "onboard_time": 1698861438,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 39769,
+      "word": "边界感清晰的人身上会有一种冷感",
+      "onboard_time": 1698860238,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28585,
+      "num": 39730,
+      "word": "于正你好歹毒的心",
+      "onboard_time": 1698841715,
+      "rank": 44,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

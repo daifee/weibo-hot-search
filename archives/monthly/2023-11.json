@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698860054802,
+  "endTime": 1698862937373,
   "band_list": [
     {
       "raw_hot": 3213405,
@@ -2491,6 +2491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167516,
+      "num": 79815,
+      "word": "双十一冷静期退货清单",
+      "onboard_time": 1698859040,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167312,
       "num": 167312,
       "word": "我读书少感觉他们都在骗我",
@@ -3347,14 +3355,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 78705,
-      "num": 78705,
-      "word": "双十一冷静期退货清单",
-      "onboard_time": 1698859040,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 76926,
       "num": 99655,
       "word": "众人合力15分钟救出被困电梯一老两小",
@@ -3507,12 +3507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39806,
+      "num": 39806,
+      "word": "世界上最长寿的狗Bobi去世",
+      "onboard_time": 1698861438,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37855,
       "num": 1230919,
       "word": "神十六着陆前和太阳惊艳合影",
       "onboard_time": 1698826769,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 35315,
+      "num": 39769,
+      "word": "边界感清晰的人身上会有一种冷感",
+      "onboard_time": 1698860238,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 34400,
