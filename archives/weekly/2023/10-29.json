@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698833915791,
+  "endTime": 1698834891480,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2696802,
-      "num": 575426,
+      "num": 698193,
       "word": "向太 别再说我和媳妇的关系",
       "onboard_time": 1698815856,
       "rank": 10,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1978558,
+      "num": 1978558,
+      "word": "男子晒控糖一年身体变化",
+      "onboard_time": 1698830315,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1958869,
       "num": 457690,
       "word": "这英模仿那英侵权吗",
@@ -403,6 +411,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 1648170,
+      "num": 716540,
+      "word": "工作人员让杨紫不要戳别人的鼻孔",
+      "onboard_time": 1698832594,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1630969,
       "num": 779931,
       "word": "李金铭参加明星到我家错过花少",
@@ -491,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1484992,
-      "num": 1484992,
-      "word": "男子晒控糖一年身体变化",
-      "onboard_time": 1698830315,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1482421,
       "num": 475049,
       "word": "温碧霞P图从不P老公",
@@ -569,14 +577,6 @@
       "onboard_time": 1698545134,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1371098,
-      "num": 580651,
-      "word": "工作人员让杨紫不要戳别人的鼻孔",
-      "onboard_time": 1698832594,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1359273,
@@ -883,6 +883,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1023620,
+      "num": 203981,
+      "word": "印度男子强奸女大学生后倒水毁证据",
+      "onboard_time": 1698833372,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021471,
       "num": 1021471,
       "word": "WBG什么运气",
@@ -905,6 +913,14 @@
       "onboard_time": 1698544711,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 988909,
+      "num": 988909,
+      "word": "金鸡奖",
+      "onboard_time": 1698831756,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 988773,
@@ -963,12 +979,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 959388,
-      "num": 959388,
-      "word": "金鸡奖",
-      "onboard_time": 1698831756,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 962074,
+      "num": 962074,
+      "word": "北大辟谣韦东奕被解雇",
+      "onboard_time": 1698832956,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 954845,
@@ -1739,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 635945,
+      "num": 635945,
+      "word": "以爱为营预告",
+      "onboard_time": 1698834033,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635698,
       "num": 635698,
       "word": "白色橄榄树",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1698712776,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 615605,
-      "num": 615605,
-      "word": "北大辟谣韦东奕被解雇",
-      "onboard_time": 1698832956,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615597,
@@ -2275,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548966,
+      "num": 548966,
+      "word": "2年遭家暴16次女子不满伤残鉴定",
+      "onboard_time": 1698831213,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547745,
       "num": 265349,
       "word": "24岁小伙闻臭袜子闻出肺部感染",
@@ -2323,20 +2347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530507,
-      "num": 530507,
-      "word": "2年遭家暴16次女子不满伤残鉴定",
-      "onboard_time": 1698831213,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 526629,
       "num": 526629,
       "word": "大吉岭茶与无人区玫瑰",
       "onboard_time": 1698763177,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 526282,
+      "num": 526282,
+      "word": "曾舜晞姐姐姐姐姐姐",
+      "onboard_time": 1698829413,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 523810,
@@ -2353,14 +2377,6 @@
       "onboard_time": 1698830192,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 519974,
-      "num": 519973,
-      "word": "曾舜晞姐姐姐姐姐姐",
-      "onboard_time": 1698829413,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 517170,
@@ -2425,14 +2441,6 @@
       "onboard_time": 1698673054,
       "rank": 7,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 506924,
-      "num": 203981,
-      "word": "印度男子强奸女大学生后倒水毁证据",
-      "onboard_time": 1698833372,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505243,
@@ -3128,6 +3136,14 @@
       "word": "胡锡进谈上海万圣节",
       "onboard_time": 1698678575,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395314,
+      "num": 1024060,
+      "word": "18岁西班牙公主成为王位继承人",
+      "onboard_time": 1698833372,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5435,6 +5451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230884,
+      "num": 230884,
+      "word": "迪丽热巴躺在地上帮秦海璐拍照",
+      "onboard_time": 1698831631,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230613,
       "num": 230613,
       "word": "曾舜晞进组七夜雪",
@@ -5955,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208274,
-      "num": 353840,
-      "word": "18岁西班牙公主成为王位继承人",
-      "onboard_time": 1698833372,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208221,
       "num": 208221,
       "word": "呼吸道感染情况调查问卷",
@@ -6256,14 +6272,6 @@
       "word": "张硕 再这样就不地道了",
       "onboard_time": 1698739471,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202739,
-      "num": 202739,
-      "word": "迪丽热巴躺在地上帮秦海璐拍照",
-      "onboard_time": 1698831631,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -6745,6 +6753,14 @@
       "onboard_time": 1698650609,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193392,
+      "num": 193392,
+      "word": "中方尊重朝鲜关闭香港总领馆的决定",
+      "onboard_time": 1698834755,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 193261,
@@ -7251,6 +7267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184140,
+      "num": 184140,
+      "word": "阳光下的赵露思",
+      "onboard_time": 1698831098,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184109,
       "num": 184109,
       "word": "国考报名确认",
@@ -7313,14 +7337,6 @@
       "onboard_time": 1698807391,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 182041,
-      "num": 182041,
-      "word": "阳光下的赵露思",
-      "onboard_time": 1698831098,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 181994,
@@ -7849,6 +7865,14 @@
       "onboard_time": 1698760239,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170112,
+      "num": 170112,
+      "word": "光与夜之恋新卡",
+      "onboard_time": 1698834755,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 170103,
@@ -8443,6 +8467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156720,
+      "num": 561075,
+      "word": "京东百亿补贴把价格打下来了",
+      "onboard_time": 1698832834,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156381,
       "num": 140161,
       "word": "热依扎王阳新剧定档",
@@ -8625,6 +8657,14 @@
       "onboard_time": 1698666152,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151975,
+      "num": 151975,
+      "word": "明日方舟感恩庆典",
+      "onboard_time": 1698834337,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 151749,
@@ -10451,6 +10491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107077,
+      "num": 107077,
+      "word": "被侯明昊变猴评论区笑yue了",
+      "onboard_time": 1698834874,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106775,
       "num": 375781,
       "word": "OPPO小折叠中国市场第一",
@@ -10953,14 +11001,6 @@
       "onboard_time": 1698708686,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79540,
-      "num": 519974,
-      "word": "京东百亿补贴把价格打下来了",
-      "onboard_time": 1698832834,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 77747,
