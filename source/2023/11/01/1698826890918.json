@@ -1,0 +1,410 @@
+{
+  "runTime": 1698826890918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1049986,
+        "num": 1049986,
+        "word": "迪丽姐热了吧",
+        "onboard_time": 1698814597,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848224,
+        "num": 848224,
+        "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
+        "onboard_time": 1698823896,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11230,
+        "num": 684864,
+        "word": "神十六着陆前和太阳惊艳合影",
+        "onboard_time": 1698826769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 622751,
+        "num": 622751,
+        "word": "知情人回应00后女老师跳楼身亡",
+        "onboard_time": 1698815913,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460334,
+        "num": 460334,
+        "word": "王安宇像在rua狗",
+        "onboard_time": 1698823832,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438208,
+        "num": 438208,
+        "word": "安踏回应ANTA是拼音还是英文",
+        "onboard_time": 1698815256,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 390161,
+        "num": 390161,
+        "word": "成都被狗咬女童右肾已保住",
+        "onboard_time": 1698818974,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340974,
+        "num": 340974,
+        "word": "这英被父母扫兴了20年",
+        "onboard_time": 1698809433,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 327612,
+        "num": 327612,
+        "word": "曹操偏头痛的原因找到了",
+        "onboard_time": 1698819813,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261101,
+        "num": 261101,
+        "word": "儿童掉入污水井两成人施救遇难",
+        "onboard_time": 1698820713,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1604155,
+        "num": 260969,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1394575,
+        "num": 260780,
+        "word": "温碧霞P图从不P老公",
+        "onboard_time": 1698819933,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1122133,
+        "num": 260660,
+        "word": "孙俪背沟",
+        "onboard_time": 1698821369,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1003512,
+        "num": 260401,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 51347,
+        "num": 260093,
+        "word": "京东采销直播间送酱香国酒",
+        "onboard_time": 1698825632,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 954845,
+        "num": 260011,
+        "word": "月经周期短会有什么影响吗",
+        "onboard_time": 1698821912,
+        "rank": 15,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 715738,
+        "num": 259822,
+        "word": "向太coser晒装扮价格",
+        "onboard_time": 1698816993,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430013,
+        "num": 259519,
+        "word": "华莎演出被判无淫乱嫌疑",
+        "onboard_time": 1698813758,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321805,
+        "num": 259272,
+        "word": "白鹿的伞升级了",
+        "onboard_time": 1698823471,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200012,
+        "num": 259263,
+        "word": "辛芷蕾说我想结婚",
+        "onboard_time": 1698820531,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589158,
+        "num": 258971,
+        "word": "杭州出现卖4988元一杯的咖啡",
+        "onboard_time": 1698825271,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 315894,
+        "num": 258780,
+        "word": "刘家昌曝儿子多次被退学",
+        "onboard_time": 1698809552,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21151,
+        "num": 258651,
+        "word": "2023进博会亮点抢先看",
+        "onboard_time": 1698814175,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274313,
+        "num": 258331,
+        "word": "00后女老师自杀校方拒绝家属看监控",
+        "onboard_time": 1698813575,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 258253,
+        "num": 258253,
+        "word": "花少团集体被王安宇卷懵",
+        "onboard_time": 1698822096,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220389,
+        "num": 220389,
+        "word": "梅西辟谣打脸巴萨随队记者",
+        "onboard_time": 1698821431,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215825,
+        "num": 215825,
+        "word": "乃万cos迪达拉",
+        "onboard_time": 1698820413,
+        "rank": 26,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 205182,
+        "num": 205182,
+        "word": "花少三姐妹谈男人至死是少年",
+        "onboard_time": 1698825992,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193987,
+        "num": 193987,
+        "word": "2023感谢庆典",
+        "onboard_time": 1698826469,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161906,
+        "num": 161906,
+        "word": "女教师辞职拍飞机6年拍几十万张",
+        "onboard_time": 1698808771,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183328,
+        "num": 160098,
+        "word": "给初次怀孕的姐妹的小建议",
+        "onboard_time": 1698818314,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 149837,
+        "num": 149837,
+        "word": "穷奇cos 魔尊重楼",
+        "onboard_time": 1698818733,
+        "rank": 31,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 148518,
+        "num": 148518,
+        "word": "女子自费请收割机帮陌生老人收稻子",
+        "onboard_time": 1698824495,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147454,
+        "num": 147454,
+        "word": "徐穗珍solo概念照",
+        "onboard_time": 1698823173,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147317,
+        "num": 147317,
+        "word": "万圣节宋焰cos",
+        "onboard_time": 1698807570,
+        "rank": 34,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 146408,
+        "num": 146408,
+        "word": "不孕不育一半以上原因在男性",
+        "onboard_time": 1698807870,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133129,
+        "num": 133129,
+        "word": "秋日限定壁纸",
+        "onboard_time": 1698821369,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132912,
+        "num": 132912,
+        "word": "soso逐渐紧闭的嘴唇",
+        "onboard_time": 1698826353,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122144,
+        "num": 122144,
+        "word": "眠狼离职",
+        "onboard_time": 1698818557,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105983,
+        "num": 105983,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104827,
+        "num": 104827,
+        "word": "第36届中国电影金鸡奖",
+        "onboard_time": 1698822872,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100615,
+        "num": 100615,
+        "word": "这眼神何止是会爱人啊",
+        "onboard_time": 1698818673,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99927,
+        "num": 99927,
+        "word": "剑网3面挂时装效果",
+        "onboard_time": 1698826295,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146078,
+        "num": 99859,
+        "word": "迪丽热巴极速爱情",
+        "onboard_time": 1698822989,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99724,
+        "num": 99724,
+        "word": "巨石强森cos贝克汉姆",
+        "onboard_time": 1698823232,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99053,
+        "num": 99053,
+        "word": "秦霄贤说兄弟媳妇儿多看不了一点",
+        "onboard_time": 1698815794,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97341,
+        "num": 97341,
+        "word": "边伯贤将在英雄联盟开幕式表演",
+        "onboard_time": 1698814776,
+        "rank": 46,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 90618,
+        "num": 90618,
+        "word": "张镇麟",
+        "onboard_time": 1698812497,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89600,
+        "num": 89600,
+        "word": "不会贴假睫毛的有福了",
+        "onboard_time": 1698821132,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 41505,
+        "num": 89388,
+        "word": "五谷磨房想和蜂花组洗头CP",
+        "onboard_time": 1698824193,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}

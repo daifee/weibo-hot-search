@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698824045247,
+  "endTime": 1698826890918,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -691,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122133,
+      "num": 270693,
+      "word": "孙俪背沟",
+      "onboard_time": 1698821369,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1121372,
       "num": 1121372,
       "word": "男子面试失败骂HR后个人信息被曝光",
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003512,
+      "num": 260401,
+      "word": "郑州轻生女教师曾被要求加班数石榴",
+      "onboard_time": 1698824971,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 994562,
       "num": 520785,
       "word": "何泓姗终于演大女主了",
@@ -897,6 +913,14 @@
       "onboard_time": 1698718114,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 954845,
+      "num": 277399,
+      "word": "月经周期短会有什么影响吗",
+      "onboard_time": 1698821912,
+      "rank": 13,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 952487,
@@ -1051,14 +1075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 856873,
-      "num": 277399,
-      "word": "月经周期短会有什么影响吗",
-      "onboard_time": 1698821912,
-      "rank": 13,
-      "category": "健康医疗,知识科普"
-    },
-    {
       "raw_hot": 855605,
       "num": 267975,
       "word": "万圣节cos乙方",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1698663395,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 848224,
+      "num": 848224,
+      "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
+      "onboard_time": 1698823896,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 847986,
@@ -1321,14 +1345,6 @@
       "onboard_time": 1698629431,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 732174,
-      "num": 270693,
-      "word": "孙俪背沟",
-      "onboard_time": 1698821369,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 730586,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1698756752,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589158,
+      "num": 258971,
+      "word": "杭州出现卖4988元一杯的咖啡",
+      "onboard_time": 1698825271,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 587075,
@@ -2584,6 +2608,14 @@
       "word": "王栎鑫五公第一",
       "onboard_time": 1698579456,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 460334,
+      "num": 460334,
+      "word": "王安宇像在rua狗",
+      "onboard_time": 1698823832,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -3539,6 +3571,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 327612,
+      "num": 327612,
+      "word": "曹操偏头痛的原因找到了",
+      "onboard_time": 1698819813,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 327456,
       "num": 327456,
       "word": "肿眼泡塌鼻子都画这个S型阴影",
@@ -3609,6 +3649,14 @@
       "onboard_time": 1698764138,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321805,
+      "num": 259272,
+      "word": "白鹿的伞升级了",
+      "onboard_time": 1698823471,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 321586,
@@ -4507,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258253,
+      "num": 258253,
+      "word": "花少团集体被王安宇卷懵",
+      "onboard_time": 1698822096,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257162,
       "num": 257162,
       "word": "老友记官方账号发文悼念钱德勒扮演者",
@@ -4665,14 +4721,6 @@
       "onboard_time": 1698794667,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 249110,
-      "num": 197494,
-      "word": "花少团集体被王安宇卷懵",
-      "onboard_time": 1698822096,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 249037,
@@ -5100,7 +5148,7 @@
     },
     {
       "raw_hot": 235213,
-      "num": 213967,
+      "num": 220389,
       "word": "梅西辟谣打脸巴萨随队记者",
       "onboard_time": 1698821431,
       "rank": 30,
@@ -5137,14 +5185,6 @@
       "onboard_time": 1698627754,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233088,
-      "num": 196125,
-      "word": "白鹿的伞升级了",
-      "onboard_time": 1698823471,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 232694,
@@ -5683,14 +5723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210642,
-      "num": 210642,
-      "word": "曹操偏头痛的原因找到了",
-      "onboard_time": 1698819813,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 209958,
       "num": 209958,
       "word": "两个家庭因为一句承诺变成一家人",
@@ -5905,6 +5937,14 @@
       "onboard_time": 1698814901,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 205182,
+      "num": 205182,
+      "word": "花少三姐妹谈男人至死是少年",
+      "onboard_time": 1698825992,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205120,
@@ -6459,6 +6499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193987,
+      "num": 193987,
+      "word": "2023感谢庆典",
+      "onboard_time": 1698826469,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193885,
       "num": 193885,
       "word": "张雨绮新中式造型",
@@ -6913,14 +6961,6 @@
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 186126,
-      "num": 186126,
-      "word": "王安宇像在rua狗",
-      "onboard_time": 1698823832,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 186055,
@@ -7393,14 +7433,6 @@
       "onboard_time": 1698794786,
       "rank": 47,
       "category": "教育,演出"
-    },
-    {
-      "raw_hot": 174164,
-      "num": 174164,
-      "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
-      "onboard_time": 1698823896,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 174103,
@@ -8244,7 +8276,7 @@
     },
     {
       "raw_hot": 154134,
-      "num": 132336,
+      "num": 147454,
       "word": "徐穗珍solo概念照",
       "onboard_time": 1698823173,
       "rank": 40,
@@ -8417,6 +8449,14 @@
       "onboard_time": 1698728315,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148518,
+      "num": 148518,
+      "word": "女子自费请收割机帮陌生老人收稻子",
+      "onboard_time": 1698824495,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148498,
@@ -9048,6 +9088,14 @@
       "word": "三喜家cos亚当斯一家",
       "onboard_time": 1698669634,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132912,
+      "num": 132912,
+      "word": "soso逐渐紧闭的嘴唇",
+      "onboard_time": 1698826353,
+      "rank": 37,
       "category": "作品衍生"
     },
     {
@@ -10307,6 +10355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99927,
+      "num": 99927,
+      "word": "剑网3面挂时装效果",
+      "onboard_time": 1698826295,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99897,
       "num": 99897,
       "word": "杭州参天大树被包装成巨型花束",
@@ -10851,6 +10907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51347,
+      "num": 260093,
+      "word": "京东采销直播间送酱香国酒",
+      "onboard_time": 1698825632,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50522,
       "num": 89698,
       "word": "钢筋扎穿工人消防边救边喊我们在呢",
@@ -10953,6 +11017,14 @@
       "onboard_time": 1698772641,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41505,
+      "num": 89388,
+      "word": "五谷磨房想和蜂花组洗头CP",
+      "onboard_time": 1698824193,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39806,
@@ -11185,6 +11257,14 @@
       "onboard_time": 1698695053,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11230,
+      "num": 684864,
+      "word": "神十六着陆前和太阳惊艳合影",
+      "onboard_time": 1698826769,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 5264,
