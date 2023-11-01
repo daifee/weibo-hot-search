@@ -1,0 +1,410 @@
+{
+  "runTime": 1698874444375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 180231,
+        "num": 180231,
+        "word": "教体局通报女教师跳楼轻生事件",
+        "onboard_time": 1698853536,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 88234,
+        "num": 88234,
+        "word": "反向泡脚 越泡越虚",
+        "onboard_time": 1698853415,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10070,
+        "num": 81420,
+        "word": "6位航天员太空会面瞬间回顾",
+        "onboard_time": 1698842616,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 78299,
+        "num": 78299,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68379,
+        "num": 68379,
+        "word": "男生住商场楼梯下超半年无人知晓",
+        "onboard_time": 1698851318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47426,
+        "num": 47426,
+        "word": "WTT法兰克福冠军赛2023",
+        "onboard_time": 1698854132,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47154,
+        "num": 47154,
+        "word": "美国宣布增兵中东",
+        "onboard_time": 1698846816,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 42683,
+        "num": 42683,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40837,
+        "num": 40837,
+        "word": "46%过敏性鼻炎9年内会发展为哮喘",
+        "onboard_time": 1698864795,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40102,
+        "num": 40102,
+        "word": "30集的剧前29集是做梦",
+        "onboard_time": 1698845556,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125895,
+        "num": 40001,
+        "word": "湖北大学",
+        "onboard_time": 1698850598,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75636,
+        "num": 39963,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42702,
+        "num": 39932,
+        "word": "天津中德应用技术大学",
+        "onboard_time": 1698848561,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39874,
+        "num": 39874,
+        "word": "霉霉 没人比我更了解戏精男",
+        "onboard_time": 1698853834,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38334,
+        "num": 38334,
+        "word": "美依礼芽外网表白中国粉丝",
+        "onboard_time": 1698854554,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38021,
+        "num": 38021,
+        "word": "问路老人和指路女孩时隔4年相聚了",
+        "onboard_time": 1698856645,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36758,
+        "num": 36758,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36061,
+        "num": 36061,
+        "word": "迪丽热巴李慧珍属性大爆发",
+        "onboard_time": 1698854432,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31039,
+        "num": 31039,
+        "word": "大熊猫飞云搂着小象呼呼呼呼呼",
+        "onboard_time": 1698855091,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30325,
+        "num": 30325,
+        "word": "水庆霞道歉",
+        "onboard_time": 1698852875,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55283,
+        "num": 30162,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44139,
+        "num": 30006,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35270,
+        "num": 29976,
+        "word": "向佐 大家不能靠长相判刑吧",
+        "onboard_time": 1698842972,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29697,
+        "num": 29697,
+        "word": "全球第二例猪心脏移植患者6周后去世",
+        "onboard_time": 1698843513,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25823,
+        "num": 25823,
+        "word": "王一博于适 星辰大海双C位",
+        "onboard_time": 1698845256,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24772,
+        "num": 24772,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24175,
+        "num": 24175,
+        "word": "下一站幸福导演陈慧翎去世",
+        "onboard_time": 1698844835,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23596,
+        "num": 23596,
+        "word": "王安宇听到辛芷蕾丢1500的反应",
+        "onboard_time": 1698858681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23076,
+        "num": 23076,
+        "word": "张拿铁姥爷和奶奶太可爱了",
+        "onboard_time": 1698856348,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22183,
+        "num": 22183,
+        "word": "陈梦 女单",
+        "onboard_time": 1698851496,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21797,
+        "num": 21797,
+        "word": "于正 下部剧让王星越周也往死里甜",
+        "onboard_time": 1698848677,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21217,
+        "num": 21217,
+        "word": "WTT",
+        "onboard_time": 1698852096,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21062,
+        "num": 21062,
+        "word": "外卖烧烤店直接改名叫炸串店吧",
+        "onboard_time": 1698846575,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19850,
+        "num": 21062,
+        "word": "亲历者讲述缅甸战事波及云南边境小镇",
+        "onboard_time": 1698866594,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 19188,
+        "num": 21061,
+        "word": "我在网上编故事月入十几万",
+        "onboard_time": 1698849878,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 18949,
+        "num": 21061,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18487,
+        "num": 21061,
+        "word": "富婆为什么会被博士骗",
+        "onboard_time": 1698846397,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18431,
+        "num": 21060,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17306,
+        "num": 21060,
+        "word": "世界上最长寿的狗Bobi去世",
+        "onboard_time": 1698861438,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17294,
+        "num": 21060,
+        "word": "边界感清晰的人身上会有一种冷感",
+        "onboard_time": 1698860238,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17177,
+        "num": 21059,
+        "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+        "onboard_time": 1698838713,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16994,
+        "num": 21059,
+        "word": "王鹤棣原声",
+        "onboard_time": 1698840934,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16908,
+        "num": 21059,
+        "word": "不敢想和秦岚一起旅行会多快乐",
+        "onboard_time": 1698851736,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15953,
+        "num": 21058,
+        "word": "这英 没有那姐哪来的我",
+        "onboard_time": 1698850598,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15652,
+        "num": 21058,
+        "word": "陈梦2比3斯佐科斯",
+        "onboard_time": 1698853476,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15546,
+        "num": 21057,
+        "word": "檀健次不知道公主梗",
+        "onboard_time": 1698855991,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14351,
+        "num": 21057,
+        "word": "于正你好歹毒的心",
+        "onboard_time": 1698841715,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14253,
+        "num": 21056,
+        "word": "湖南卫视的预告真的太有特色了",
+        "onboard_time": 1698845738,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14086,
+        "num": 21056,
+        "word": "张栋梁第一次当卧底失败的原因",
+        "onboard_time": 1698858741,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12295,
+        "num": 21056,
+        "word": "白鹿一部剧开机一部剧定档",
+        "onboard_time": 1698839615,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}
