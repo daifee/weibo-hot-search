@@ -1,0 +1,410 @@
+{
+  "runTime": 1698806316088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899563,
+        "num": 1899563,
+        "word": "人民日报评不该消失的课间10分钟",
+        "onboard_time": 1698800435,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1234879,
+        "num": 1234879,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73270,
+        "num": 1099286,
+        "word": "11月起这些新规开始施行",
+        "onboard_time": 1698760536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059668,
+        "num": 1059668,
+        "word": "男子面试失败骂HR后个人信息被曝光",
+        "onboard_time": 1698800974,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801076,
+        "num": 801076,
+        "word": "安踏宣布更改公司标志",
+        "onboard_time": 1698798697,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 748815,
+        "num": 748815,
+        "word": "长沙鸣响防空警报",
+        "onboard_time": 1698802892,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699172,
+        "num": 699172,
+        "word": "以色列",
+        "onboard_time": 1698765513,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 691256,
+        "num": 691256,
+        "word": "向佐 我把假向太抓来直播间啦",
+        "onboard_time": 1698761497,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595633,
+        "num": 595633,
+        "word": "段奥娟入选2023星辰大海",
+        "onboard_time": 1698805894,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443777,
+        "num": 443777,
+        "word": "人在医院能无知到什么程度",
+        "onboard_time": 1698799474,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 797948,
+        "num": 433307,
+        "word": "拥有教师编制的他们后悔了",
+        "onboard_time": 1698766415,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531870,
+        "num": 432026,
+        "word": "曾黎在飞机上的卸妆护肤步骤",
+        "onboard_time": 1698802354,
+        "rank": 11,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 414344,
+        "num": 414344,
+        "word": "吴楚一吴尊早期同框",
+        "onboard_time": 1698804392,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403479,
+        "num": 403479,
+        "word": "林孝埈晒图为中国短道加油",
+        "onboard_time": 1698804511,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354377,
+        "num": 354377,
+        "word": "茅台开盘暴涨",
+        "onboard_time": 1698805110,
+        "rank": 14,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 351511,
+        "num": 351511,
+        "word": "夏鸣星卡面好帅",
+        "onboard_time": 1698805353,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340794,
+        "num": 340794,
+        "word": "智利决定召回驻以色列大使",
+        "onboard_time": 1698800855,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 333071,
+        "num": 333071,
+        "word": "齐司礼 二段",
+        "onboard_time": 1698803674,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331559,
+        "num": 331559,
+        "word": "茅台回应涨价",
+        "onboard_time": 1698804752,
+        "rank": 18,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 330611,
+        "num": 330611,
+        "word": "赵露思cos熊二",
+        "onboard_time": 1698797615,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 571785,
+        "num": 324384,
+        "word": "长痘与身体器官的联系",
+        "onboard_time": 1698802415,
+        "rank": 20,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 317290,
+        "num": 317290,
+        "word": "1岁娃因妈妈不让开抽屉哭晕送医",
+        "onboard_time": 1698803493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291720,
+        "num": 291720,
+        "word": "原来拿铁是牛奶不是咖啡",
+        "onboard_time": 1698803493,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270488,
+        "num": 270488,
+        "word": "中国第40次南极科考队出征",
+        "onboard_time": 1698805772,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270013,
+        "num": 270013,
+        "word": "月薪两万一年的护肤花费58.3元",
+        "onboard_time": 1698796713,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 263934,
+        "num": 263934,
+        "word": "我把小卡给了虞书欣的爷爷",
+        "onboard_time": 1698796955,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253736,
+        "num": 253736,
+        "word": "哈登放弃交易补偿金",
+        "onboard_time": 1698805894,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235976,
+        "num": 235976,
+        "word": "赵晴瘦了",
+        "onboard_time": 1698799835,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229677,
+        "num": 229677,
+        "word": "广西一客机遇险驾驶舱对话满满安全感",
+        "onboard_time": 1698803733,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227663,
+        "num": 227663,
+        "word": "陆沉新卡",
+        "onboard_time": 1698803852,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65319,
+        "num": 226218,
+        "word": "一块好屏幕有多重要",
+        "onboard_time": 1698805591,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225943,
+        "num": 225943,
+        "word": "花西子双11为什么卖不动了",
+        "onboard_time": 1698801754,
+        "rank": 31,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 208640,
+        "num": 208640,
+        "word": "2023星辰大海青年演员官宣",
+        "onboard_time": 1698805951,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207201,
+        "num": 207201,
+        "word": "读研日常无心科研但嫉恶如仇",
+        "onboard_time": 1698801515,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202381,
+        "num": 202381,
+        "word": "互金币",
+        "onboard_time": 1698805531,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200991,
+        "num": 200991,
+        "word": "中方回应加拿大政府手机禁用微信",
+        "onboard_time": 1698797794,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198384,
+        "num": 198384,
+        "word": "逆水寒 龙吟",
+        "onboard_time": 1698804931,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192669,
+        "num": 192669,
+        "word": "加沙地带超3500名儿童死亡",
+        "onboard_time": 1698805171,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191597,
+        "num": 191597,
+        "word": "快船老板亲自迎接哈登",
+        "onboard_time": 1698804212,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186804,
+        "num": 186804,
+        "word": "退款",
+        "onboard_time": 1698757353,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183925,
+        "num": 183925,
+        "word": "费启鸣入选2023星辰大海",
+        "onboard_time": 1698806190,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179118,
+        "num": 179118,
+        "word": "秦海璐清花少旅行库存",
+        "onboard_time": 1698802714,
+        "rank": 41,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 174361,
+        "num": 174361,
+        "word": "5块钱的cos能有多惊艳",
+        "onboard_time": 1698805051,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163514,
+        "num": 163514,
+        "word": "丁薇回应没参加浪姐",
+        "onboard_time": 1698805231,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162814,
+        "num": 162814,
+        "word": "oner木子洋cos乞丐",
+        "onboard_time": 1698800136,
+        "rank": 44,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 162310,
+        "num": 162310,
+        "word": "秦岚痛失真名",
+        "onboard_time": 1698763118,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160808,
+        "num": 160808,
+        "word": "时代少年团营业照",
+        "onboard_time": 1698806129,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159480,
+        "num": 159480,
+        "word": "加沙婴儿脱水成为日益严重的威胁",
+        "onboard_time": 1698801034,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
+        "onboard_time": 1698761197,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "玻利维亚决定与以色列断交",
+        "onboard_time": 1698795749,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}
