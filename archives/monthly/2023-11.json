@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698819788623,
+  "endTime": 1698820556894,
   "band_list": [
     {
       "raw_hot": 3091526,
@@ -147,6 +147,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 994388,
+      "num": 994388,
+      "word": "知情人回应00后女老师跳楼身亡",
+      "onboard_time": 1698815913,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897081,
       "num": 897081,
       "word": "7款APP全网下架",
@@ -203,14 +211,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 730221,
-      "num": 730221,
-      "word": "知情人回应00后女老师跳楼身亡",
-      "onboard_time": 1698815913,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 700546,
       "num": 324384,
       "word": "长痘与身体器官的联系",
@@ -219,20 +219,20 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 699489,
+      "num": 699489,
+      "word": "巴勒斯坦儿童向普京求救",
+      "onboard_time": 1698816515,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 689967,
       "num": 689967,
       "word": "女教师辞职拍飞机6年拍几十万张",
       "onboard_time": 1698808771,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 673831,
-      "num": 673831,
-      "word": "巴勒斯坦儿童向普京求救",
-      "onboard_time": 1698816515,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 666744,
@@ -273,6 +273,14 @@
       "onboard_time": 1698805894,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590587,
+      "num": 548502,
+      "word": "成都被狗咬女童右肾已保住",
+      "onboard_time": 1698818974,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588151,
@@ -355,12 +363,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 477518,
-      "num": 477518,
+      "raw_hot": 496795,
+      "num": 496795,
       "word": "胡先煦帮迪丽热巴解围",
       "onboard_time": 1698818253,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494982,
+      "num": 386551,
+      "word": "穷奇cos 魔尊重楼",
+      "onboard_time": 1698818733,
+      "rank": 12,
+      "category": "游戏,美妆"
     },
     {
       "raw_hot": 476839,
@@ -425,14 +441,6 @@
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414169,
-      "num": 386551,
-      "word": "穷奇cos 魔尊重楼",
-      "onboard_time": 1698818733,
-      "rank": 12,
-      "category": "游戏,美妆"
     },
     {
       "raw_hot": 407890,
@@ -539,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349725,
-      "num": 349725,
-      "word": "成都被狗咬女童右肾已保住",
-      "onboard_time": 1698818974,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343572,
       "num": 343572,
       "word": "大吉岭茶与无人区玫瑰",
@@ -619,20 +619,20 @@
       "category": "美妆,互联网"
     },
     {
+      "raw_hot": 313838,
+      "num": 267347,
+      "word": "给初次怀孕的姐妹的小建议",
+      "onboard_time": 1698818314,
+      "rank": 20,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 312168,
       "num": 312168,
       "word": "马刺20分逆转太阳",
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307793,
-      "num": 267347,
-      "word": "给初次怀孕的姐妹的小建议",
-      "onboard_time": 1698818314,
-      "rank": 20,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 306258,
@@ -699,12 +699,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281036,
+      "num": 281036,
+      "word": "辛芷蕾说我想结婚",
+      "onboard_time": 1698820531,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280871,
+      "num": 257003,
+      "word": "李咏女儿气场",
+      "onboard_time": 1698818853,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272753,
       "num": 272753,
       "word": "徐志胜是懂cos的",
       "onboard_time": 1698766477,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271729,
+      "num": 271729,
+      "word": "这眼神何止是会爱人啊",
+      "onboard_time": 1698818673,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 271334,
@@ -803,14 +827,6 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 252638,
-      "num": 252638,
-      "word": "李咏女儿气场",
-      "onboard_time": 1698818853,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 251487,
       "num": 251487,
       "word": "洗发水",
@@ -859,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242762,
+      "num": 242762,
+      "word": "眠狼离职",
+      "onboard_time": 1698818557,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 242291,
       "num": 242291,
       "word": "张译第一次看无价之宝剧本就哭了",
@@ -891,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237428,
-      "num": 237428,
-      "word": "这眼神何止是会爱人啊",
-      "onboard_time": 1698818673,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235313,
       "num": 235313,
       "word": "2只沙狐被困井底被救后发现是夫妻",
@@ -907,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232269,
-      "num": 232269,
-      "word": "眠狼离职",
-      "onboard_time": 1698818557,
-      "rank": 23,
-      "category": "动漫"
+      "raw_hot": 233029,
+      "num": 189446,
+      "word": "温碧霞P图从不P老公",
+      "onboard_time": 1698819933,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 231686,
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224542,
+      "num": 224542,
+      "word": "星辰大海给于适P了内搭",
+      "onboard_time": 1698819097,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224100,
       "num": 224100,
       "word": "今天好多明星营业",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1698801575,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 211048,
+      "num": 211048,
+      "word": "迪丽热巴让赵昭仪快把钱收起来",
+      "onboard_time": 1698820531,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 209541,
@@ -1115,6 +1147,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 197155,
+      "num": 197155,
+      "word": "曹操偏头痛的原因找到了",
+      "onboard_time": 1698819813,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196989,
       "num": 196989,
       "word": "211硕士毕业后工作还需要家里补贴",
@@ -1203,14 +1243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188658,
-      "num": 188658,
-      "word": "星辰大海给于适P了内搭",
-      "onboard_time": 1698819097,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186055,
       "num": 186055,
       "word": "大可不必指责过洋节的年轻人崇洋媚外",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1698799056,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184239,
+      "num": 184239,
+      "word": "乃万cos迪达拉",
+      "onboard_time": 1698820413,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 184109,
@@ -1483,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151742,
+      "num": 151742,
+      "word": "首款国产5G基站核心芯片上架淘宝",
+      "onboard_time": 1698820296,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149637,
       "num": 149637,
       "word": "周深岁岁青莲主题曲似夏",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1698755371,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117385,
+      "num": 117385,
+      "word": "宋轶金丝眼镜",
+      "onboard_time": 1698820472,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 116791,
