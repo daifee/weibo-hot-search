@@ -1,0 +1,410 @@
+{
+  "runTime": 1698851895027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2659152,
+        "num": 2659152,
+        "word": "女教师跳楼自杀家属称发求助后被踢出群",
+        "onboard_time": 1698847479,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1423064,
+        "num": 1423064,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28336,
+        "num": 1001709,
+        "word": "90秒数说今年进博会亮点",
+        "onboard_time": 1698843033,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890699,
+        "num": 890699,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807949,
+        "num": 807949,
+        "word": "下一站幸福导演陈慧翎去世",
+        "onboard_time": 1698844835,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 761197,
+        "num": 761197,
+        "word": "富婆为什么会被博士骗",
+        "onboard_time": 1698846397,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 751868,
+        "num": 751868,
+        "word": "30集的剧前29集是做梦",
+        "onboard_time": 1698845556,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523473,
+        "num": 523473,
+        "word": "美国宣布增兵中东",
+        "onboard_time": 1698846816,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 589146,
+        "num": 518606,
+        "word": "于正 下部剧让王星越周也往死里甜",
+        "onboard_time": 1698848677,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498114,
+        "num": 498114,
+        "word": "外卖烧烤店直接改名叫炸串店吧",
+        "onboard_time": 1698846575,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1445962,
+        "num": 482625,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1402092,
+        "num": 480311,
+        "word": "湖北大学",
+        "onboard_time": 1698850598,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 641648,
+        "num": 477202,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 466242,
+        "num": 466242,
+        "word": "王一博于适 星辰大海双C位",
+        "onboard_time": 1698845256,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426471,
+        "num": 426471,
+        "word": "这英 没有那姐哪来的我",
+        "onboard_time": 1698850598,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 381791,
+        "num": 381791,
+        "word": "中国女足无缘巴黎奥运会",
+        "onboard_time": 1698846038,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340825,
+        "num": 340825,
+        "word": "白鹿一部剧开机一部剧定档",
+        "onboard_time": 1698839615,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330454,
+        "num": 330454,
+        "word": "闲鱼回应多地大学生在平台挂学校",
+        "onboard_time": 1698842795,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 329783,
+        "num": 329783,
+        "word": "湖南卫视的预告真的太有特色了",
+        "onboard_time": 1698845738,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313703,
+        "num": 313703,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821838,
+        "num": 308423,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391351,
+        "num": 308123,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294477,
+        "num": 294477,
+        "word": "白鹿最有cp感的男主",
+        "onboard_time": 1698850119,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272727,
+        "num": 272727,
+        "word": "我在网上编故事月入十几万",
+        "onboard_time": 1698849878,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 272246,
+        "num": 272246,
+        "word": "梁靖崑1比3林钟勋",
+        "onboard_time": 1698850476,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266015,
+        "num": 266015,
+        "word": "ChatGPT可能已经有了意识",
+        "onboard_time": 1698836557,
+        "rank": 25,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 246754,
+        "num": 246754,
+        "word": "全球第二例猪心脏移植患者6周后去世",
+        "onboard_time": 1698843513,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246586,
+        "num": 246586,
+        "word": "向佐 大家不能靠长相判刑吧",
+        "onboard_time": 1698842972,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233040,
+        "num": 233040,
+        "word": "谢娜不知道杨紫比张一山小",
+        "onboard_time": 1698848076,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221706,
+        "num": 221706,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359306,
+        "num": 220644,
+        "word": "陈梦 女单",
+        "onboard_time": 1698851496,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217967,
+        "num": 217967,
+        "word": "檀健次演唱会真的来了",
+        "onboard_time": 1698851318,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215649,
+        "num": 215649,
+        "word": "SEVENTEEN音乐之神初一位",
+        "onboard_time": 1698851318,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213917,
+        "num": 213917,
+        "word": "赵丽颖说王梓薇表演很有感受力",
+        "onboard_time": 1698843154,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207192,
+        "num": 207192,
+        "word": "女兽医全粉妆造给牛羊做剖腹产",
+        "onboard_time": 1698850958,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193048,
+        "num": 193048,
+        "word": "被花少这一段真诚打动",
+        "onboard_time": 1698850659,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189947,
+        "num": 189947,
+        "word": "于正你好歹毒的心",
+        "onboard_time": 1698841715,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187576,
+        "num": 187576,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186842,
+        "num": 186842,
+        "word": "秦岚 我是百灵鸟",
+        "onboard_time": 1698849820,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183654,
+        "num": 183654,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183239,
+        "num": 183239,
+        "word": "男生住商场楼梯下超半年无人知晓",
+        "onboard_time": 1698851318,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182159,
+        "num": 182159,
+        "word": "天官赐福",
+        "onboard_time": 1698840876,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177993,
+        "num": 177993,
+        "word": "农村妮终于迎来了自己的春天",
+        "onboard_time": 1698851258,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176574,
+        "num": 176574,
+        "word": "披荆斩棘3总决赛定档",
+        "onboard_time": 1698850837,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166842,
+        "num": 166842,
+        "word": "天津中德应用技术大学",
+        "onboard_time": 1698848561,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164989,
+        "num": 164989,
+        "word": "不敢想和秦岚一起旅行会多快乐",
+        "onboard_time": 1698851736,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1698841894,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149173,
+        "num": 149173,
+        "word": "我读书少感觉他们都在骗我",
+        "onboard_time": 1698851797,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132725,
+        "num": 132725,
+        "word": "95后男子被裁员抗争17个月获赔16万9",
+        "onboard_time": 1698835593,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122795,
+        "num": 122795,
+        "word": "双胞胎为什么要穿得一模一样",
+        "onboard_time": 1698837754,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}

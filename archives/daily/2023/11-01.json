@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698849262316,
+  "endTime": 1698851895027,
   "band_list": [
     {
       "raw_hot": 3213405,
@@ -33,6 +33,14 @@
       "onboard_time": 1698815856,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2659152,
+      "num": 2659152,
+      "word": "女教师跳楼自杀家属称发求助后被踢出群",
+      "onboard_time": 1698847479,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2481239,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1586692,
-      "num": 1586692,
-      "word": "女教师跳楼自杀家属称发求助后被踢出群",
-      "onboard_time": 1698847479,
-      "rank": 16,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1560064,
       "num": 1560064,
       "word": "中方尊重朝鲜关闭香港总领馆的决定",
@@ -169,6 +169,14 @@
       "onboard_time": 1698819933,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1402092,
+      "num": 480311,
+      "word": "湖北大学",
+      "onboard_time": 1698850598,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1379184,
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 761197,
+      "num": 761197,
+      "word": "富婆为什么会被博士骗",
+      "onboard_time": 1698846397,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 748815,
       "num": 748815,
       "word": "长沙鸣响防空警报",
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589146,
+      "num": 518606,
+      "word": "于正 下部剧让王星越周也往死里甜",
+      "onboard_time": 1698848677,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588194,
       "num": 529682,
       "word": "湖南卫视的预告真的太有特色了",
@@ -763,6 +787,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 498114,
+      "num": 498114,
+      "word": "外卖烧烤店直接改名叫炸串店吧",
+      "onboard_time": 1698846575,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 496795,
       "num": 496795,
       "word": "胡先煦帮迪丽热巴解围",
@@ -777,14 +809,6 @@
       "onboard_time": 1698818733,
       "rank": 12,
       "category": "游戏,美妆"
-    },
-    {
-      "raw_hot": 490742,
-      "num": 490742,
-      "word": "外卖烧烤店直接改名叫炸串店吧",
-      "onboard_time": 1698846575,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 484342,
@@ -803,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483557,
-      "num": 483557,
-      "word": "富婆为什么会被博士骗",
-      "onboard_time": 1698846397,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 476839,
       "num": 476839,
       "word": "查理苏 颈环",
@@ -824,14 +840,6 @@
       "word": "于正暗香来欠一个满意的结局",
       "onboard_time": 1698837274,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 463379,
-      "num": 463379,
-      "word": "于正 下部剧让王星越周也往死里甜",
-      "onboard_time": 1698848677,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -905,6 +913,14 @@
       "onboard_time": 1698817414,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 426471,
+      "num": 426471,
+      "word": "这英 没有那姐哪来的我",
+      "onboard_time": 1698850598,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 422785,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1698835474,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359306,
+      "num": 220644,
+      "word": "陈梦 女单",
+      "onboard_time": 1698851496,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 354377,
@@ -1251,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294477,
+      "num": 294477,
+      "word": "白鹿最有cp感的男主",
+      "onboard_time": 1698850119,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287877,
       "num": 287877,
       "word": "她一句谢谢他就红了眼眶",
@@ -1289,6 +1321,22 @@
       "onboard_time": 1698766477,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272727,
+      "num": 272727,
+      "word": "我在网上编故事月入十几万",
+      "onboard_time": 1698849878,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 272246,
+      "num": 272246,
+      "word": "梁靖崑1比3林钟勋",
+      "onboard_time": 1698850476,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 271729,
@@ -1683,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217967,
+      "num": 217967,
+      "word": "檀健次演唱会真的来了",
+      "onboard_time": 1698851318,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217691,
       "num": 217691,
       "word": "国考抢考点",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1698822989,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215649,
+      "num": 215649,
+      "word": "SEVENTEEN音乐之神初一位",
+      "onboard_time": 1698851318,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 214478,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1698838834,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207192,
+      "num": 207192,
+      "word": "女兽医全粉妆造给牛羊做剖腹产",
+      "onboard_time": 1698850958,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207053,
@@ -1963,6 +2035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193048,
+      "num": 193048,
+      "word": "被花少这一段真诚打动",
+      "onboard_time": 1698850659,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192823,
       "num": 192823,
       "word": "宝可梦大集结",
@@ -2059,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186842,
+      "num": 186842,
+      "word": "秦岚 我是百灵鸟",
+      "onboard_time": 1698849820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186055,
       "num": 186055,
       "word": "大可不必指责过洋节的年轻人崇洋媚外",
@@ -2115,6 +2203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183239,
+      "num": 183239,
+      "word": "男生住商场楼梯下超半年无人知晓",
+      "onboard_time": 1698851318,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "2023vivo开发者大会",
@@ -2155,6 +2251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177993,
+      "num": 177993,
+      "word": "农村妮终于迎来了自己的春天",
+      "onboard_time": 1698851258,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177883,
       "num": 177883,
       "word": "女孩走失17年刷视频找到亲生父母",
@@ -2169,6 +2273,14 @@
       "onboard_time": 1698805231,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176574,
+      "num": 176574,
+      "word": "披荆斩棘3总决赛定档",
+      "onboard_time": 1698850837,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 176323,
@@ -2275,6 +2387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166842,
+      "num": 166842,
+      "word": "天津中德应用技术大学",
+      "onboard_time": 1698848561,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 166740,
       "num": 166740,
       "word": "刷酸长痘用药膏经验",
@@ -2313,6 +2433,14 @@
       "onboard_time": 1698787453,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164989,
+      "num": 164989,
+      "word": "不敢想和秦岚一起旅行会多快乐",
+      "onboard_time": 1698851736,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 163249,
@@ -2528,6 +2656,14 @@
       "word": "周深岁岁青莲主题曲似夏",
       "onboard_time": 1698809552,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149173,
+      "num": 149173,
+      "word": "我读书少感觉他们都在骗我",
+      "onboard_time": 1698851797,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2873,14 +3009,6 @@
       "onboard_time": 1698760536,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115922,
-      "num": 115922,
-      "word": "天津中德应用技术大学",
-      "onboard_time": 1698848561,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 112495,
