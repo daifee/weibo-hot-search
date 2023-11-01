@@ -1,7 +1,15 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698815797727,
+  "endTime": 1698816832434,
   "band_list": [
+    {
+      "raw_hot": 3091526,
+      "num": 3091526,
+      "word": "00后女老师自杀校方拒绝家属看监控",
+      "onboard_time": 1698813575,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 2721434,
       "num": 2721434,
@@ -25,14 +33,6 @@
       "onboard_time": 1698765513,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2192793,
-      "num": 2192793,
-      "word": "00后女老师自杀校方拒绝家属看监控",
-      "onboard_time": 1698813575,
-      "rank": 0,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2003173,
@@ -73,6 +73,14 @@
       "onboard_time": 1698766415,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1263442,
+      "num": 433829,
+      "word": "向太 别再说我和媳妇的关系",
+      "onboard_time": 1698815856,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1258089,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1100290,
-      "num": 231779,
+      "num": 234050,
       "word": "华莎演出被判无淫乱嫌疑",
       "onboard_time": 1698813758,
       "rank": 30,
@@ -251,6 +259,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 558765,
+      "num": 558765,
+      "word": "安踏回应ANTA是拼音还是英文",
+      "onboard_time": 1698815256,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 554040,
       "num": 554040,
       "word": "人在医院能无知到什么程度",
@@ -265,6 +281,14 @@
       "onboard_time": 1698807930,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516908,
+      "num": 516908,
+      "word": "知情人回应00后女老师跳楼身亡",
+      "onboard_time": 1698815913,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514939,
@@ -339,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444271,
+      "num": 444271,
+      "word": "承包户收割白术遭上百村民哄抢",
+      "onboard_time": 1698815976,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435682,
       "num": 435682,
       "word": "秦岚痛失真名",
@@ -411,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388749,
+      "num": 388749,
+      "word": "秦海璐 不要我觉得",
+      "onboard_time": 1698816333,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375312,
       "num": 375312,
       "word": "茅台近6年来首次涨价",
       "onboard_time": 1698799174,
       "rank": 17,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 373175,
-      "num": 373175,
-      "word": "安踏回应ANTA是拼音还是英文",
-      "onboard_time": 1698815256,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 354377,
@@ -595,6 +627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 284542,
+      "num": 284542,
+      "word": "港媒真的什么都敢问",
+      "onboard_time": 1698816155,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272753,
       "num": 272753,
       "word": "徐志胜是懂cos的",
@@ -625,6 +665,22 @@
       "onboard_time": 1698805772,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269897,
+      "num": 269897,
+      "word": "威少来劲了",
+      "onboard_time": 1698815736,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269710,
+      "num": 269710,
+      "word": "马立奥新发型撞脸正峰欧巴",
+      "onboard_time": 1698814838,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 268440,
@@ -659,20 +715,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255998,
-      "num": 252739,
-      "word": "马立奥新发型撞脸正峰欧巴",
-      "onboard_time": 1698814838,
-      "rank": 27,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 255856,
       "num": 255856,
       "word": "盒马被曝烤鸡中吃出生肉",
       "onboard_time": 1698813874,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 255348,
+      "num": 232934,
+      "word": "文班亚马复刻姚明神仙球",
+      "onboard_time": 1698815017,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 253904,
@@ -697,6 +753,14 @@
       "onboard_time": 1698794667,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 248236,
+      "num": 248236,
+      "word": "秦霄贤说兄弟媳妇儿多看不了一点",
+      "onboard_time": 1698815794,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 246994,
@@ -755,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235313,
+      "num": 235313,
+      "word": "2只沙狐被困井底被救后发现是夫妻",
+      "onboard_time": 1698815976,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231686,
       "num": 231686,
       "word": "广西一客机遇险驾驶舱对话满满安全感",
@@ -803,12 +875,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227715,
+      "num": 227715,
+      "word": "迪丽热巴怎么拘谨了",
+      "onboard_time": 1698815377,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224100,
       "num": 224100,
       "word": "今天好多明星营业",
       "onboard_time": 1698763778,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220148,
+      "num": 220148,
+      "word": "巴勒斯坦儿童向普京求救",
+      "onboard_time": 1698816515,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 218063,
@@ -867,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207809,
-      "num": 207809,
-      "word": "文班亚马复刻姚明神仙球",
-      "onboard_time": 1698815017,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206976,
       "num": 206976,
       "word": "恋与深空测试",
@@ -888,14 +968,6 @@
       "word": "迪丽热巴送新疆礼物",
       "onboard_time": 1698815435,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 205814,
-      "num": 195354,
-      "word": "迪丽热巴怎么拘谨了",
-      "onboard_time": 1698815377,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1137,14 +1209,6 @@
       "onboard_time": 1698794786,
       "rank": 47,
       "category": "教育,演出"
-    },
-    {
-      "raw_hot": 174002,
-      "num": 174002,
-      "word": "威少来劲了",
-      "onboard_time": 1698815736,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 171155,
@@ -1692,7 +1756,7 @@
     },
     {
       "raw_hot": 44059,
-      "num": 193435,
+      "num": 235201,
       "word": "还是中国AI更懂中国人",
       "onboard_time": 1698815377,
       "rank": 42,
@@ -1715,20 +1779,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 28730,
+      "num": 1428092,
+      "word": "2023进博会亮点抢先看",
+      "onboard_time": 1698814175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26279,
       "num": 26279,
       "word": "胡彦斌点出了纪焕博王诗晴在争什么",
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26197,
-      "num": 1428092,
-      "word": "2023进博会亮点抢先看",
-      "onboard_time": 1698814175,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22179,
@@ -1769,6 +1833,9 @@
     },
     {
       "word": "#金融是国民经济的血脉#"
+    },
+    {
+      "word": "#坚定不移走中国特色金融发展之路#"
     }
   ]
 }
