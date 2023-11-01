@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698855774340,
+  "endTime": 1698856707216,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -1587,6 +1587,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 736840,
+      "num": 736840,
+      "word": "反向泡脚 越泡越虚",
+      "onboard_time": 1698853415,
+      "rank": 3,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 736483,
       "num": 736483,
       "word": "各种维生素不足和过量有啥表现",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1698675697,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 696263,
-      "num": 696263,
-      "word": "反向泡脚 越泡越虚",
-      "onboard_time": 1698853415,
-      "rank": 3,
-      "category": "知识科普"
     },
     {
       "raw_hot": 696044,
@@ -2860,7 +2860,7 @@
     },
     {
       "raw_hot": 486058,
-      "num": 409225,
+      "num": 470465,
       "word": "霉霉 没人比我更了解戏精男",
       "onboard_time": 1698853834,
       "rank": 13,
@@ -3131,12 +3131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 447677,
+      "num": 357919,
+      "word": "美依礼芽外网表白中国粉丝",
+      "onboard_time": 1698854554,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446472,
       "num": 446472,
       "word": "Karsa疑似参加WBG训练赛",
       "onboard_time": 1698741870,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 446078,
+      "num": 446078,
+      "word": "迪丽热巴李慧珍属性大爆发",
+      "onboard_time": 1698854432,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 444271,
@@ -3515,6 +3531,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 390058,
+      "num": 390058,
+      "word": "WTT法兰克福冠军赛2023",
+      "onboard_time": 1698707425,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389090,
       "num": 389090,
       "word": "周杰伦杭州演唱会报批",
@@ -3611,14 +3635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381060,
-      "num": 381060,
-      "word": "迪丽热巴李慧珍属性大爆发",
-      "onboard_time": 1698854432,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 380861,
       "num": 380861,
       "word": "主播讲国考知识点讲嗨了忘记直播",
@@ -3681,14 +3697,6 @@
       "onboard_time": 1698653673,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374076,
-      "num": 374076,
-      "word": "WTT法兰克福冠军赛2023",
-      "onboard_time": 1698707425,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 373303,
@@ -4465,14 +4473,6 @@
       "onboard_time": 1698676416,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299924,
-      "num": 299924,
-      "word": "美依礼芽外网表白中国粉丝",
-      "onboard_time": 1698854554,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 299634,
@@ -8523,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170520,
+      "num": 170520,
+      "word": "迪丽热巴情绪好稳定",
+      "onboard_time": 1698854852,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170277,
       "num": 170277,
       "word": "男子送坠楼男孩就医父母哽咽致谢",
@@ -9033,14 +9041,6 @@
       "onboard_time": 1698567808,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159329,
-      "num": 159329,
-      "word": "迪丽热巴情绪好稳定",
-      "onboard_time": 1698854852,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 159267,
@@ -10923,6 +10923,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 119247,
+      "num": 119247,
+      "word": "檀健次不知道公主梗",
+      "onboard_time": 1698855991,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119021,
       "num": 119021,
       "word": "消防员救下孩子自己却变回孩子",
@@ -10977,6 +10985,14 @@
       "onboard_time": 1698831031,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117768,
+      "num": 117768,
+      "word": "张拿铁姥爷和奶奶太可爱了",
+      "onboard_time": 1698856348,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 117651,
@@ -11379,6 +11395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105417,
+      "num": 105417,
+      "word": "小精灵万圣节饺子妆",
+      "onboard_time": 1698856110,
+      "rank": 48,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 105352,
       "num": 105352,
       "word": "张小斐惠英红新浪扫楼",
@@ -11409,6 +11433,14 @@
       "onboard_time": 1698731911,
       "rank": 24,
       "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 104170,
+      "num": 104170,
+      "word": "问路老人和指路女孩时隔4年相聚了",
+      "onboard_time": 1698856645,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104000,

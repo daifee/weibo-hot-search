@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698855774340,
+  "endTime": 1698856707216,
   "band_list": [
     {
       "raw_hot": 3213405,
@@ -499,6 +499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 736840,
+      "num": 736840,
+      "word": "反向泡脚 越泡越虚",
+      "onboard_time": 1698853415,
+      "rank": 3,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 729791,
       "num": 729791,
       "word": "王一博于适 星辰大海双C位",
@@ -537,14 +545,6 @@
       "onboard_time": 1698816515,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 696263,
-      "num": 696263,
-      "word": "反向泡脚 越泡越虚",
-      "onboard_time": 1698853415,
-      "rank": 3,
-      "category": "知识科普"
     },
     {
       "raw_hot": 689967,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 486058,
-      "num": 409225,
+      "num": 470465,
       "word": "霉霉 没人比我更了解戏精男",
       "onboard_time": 1698853834,
       "rank": 13,
@@ -913,6 +913,22 @@
       "onboard_time": 1698833372,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447677,
+      "num": 357919,
+      "word": "美依礼芽外网表白中国粉丝",
+      "onboard_time": 1698854554,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446078,
+      "num": 446078,
+      "word": "迪丽热巴李慧珍属性大爆发",
+      "onboard_time": 1698854432,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 444271,
@@ -1043,6 +1059,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 390058,
+      "num": 390058,
+      "word": "WTT法兰克福冠军赛2023",
+      "onboard_time": 1698854132,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388957,
       "num": 388957,
       "word": "官方回应6岁双胞胎打架姐姐摔倒离世",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1698840876,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 381060,
-      "num": 381060,
-      "word": "迪丽热巴李慧珍属性大爆发",
-      "onboard_time": 1698854432,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 380861,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1698799174,
       "rank": 17,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 374076,
-      "num": 374076,
-      "word": "WTT法兰克福冠军赛2023",
-      "onboard_time": 1698854132,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 366348,
@@ -1329,14 +1337,6 @@
       "onboard_time": 1698803493,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299924,
-      "num": 299924,
-      "word": "美依礼芽外网表白中国粉丝",
-      "onboard_time": 1698854554,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 297520,
@@ -2451,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170520,
+      "num": 170520,
+      "word": "迪丽热巴情绪好稳定",
+      "onboard_time": 1698854852,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170112,
       "num": 170112,
       "word": "光与夜之恋新卡",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1698756871,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159329,
-      "num": 159329,
-      "word": "迪丽热巴情绪好稳定",
-      "onboard_time": 1698854852,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 159035,
@@ -3099,6 +3099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119247,
+      "num": 119247,
+      "word": "檀健次不知道公主梗",
+      "onboard_time": 1698855991,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118849,
       "num": 118849,
       "word": "THE9再现出道公式照",
@@ -3113,6 +3121,14 @@
       "onboard_time": 1698831031,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117768,
+      "num": 117768,
+      "word": "张拿铁姥爷和奶奶太可爱了",
+      "onboard_time": 1698856348,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 117385,
@@ -3185,6 +3201,22 @@
       "onboard_time": 1698805591,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105417,
+      "num": 105417,
+      "word": "小精灵万圣节饺子妆",
+      "onboard_time": 1698856110,
+      "rank": 48,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 104170,
+      "num": 104170,
+      "word": "问路老人和指路女孩时隔4年相聚了",
+      "onboard_time": 1698856645,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101724,
