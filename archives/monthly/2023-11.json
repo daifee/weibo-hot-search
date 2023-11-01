@@ -1,7 +1,15 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698838435752,
+  "endTime": 1698841997284,
   "band_list": [
+    {
+      "raw_hot": 3213405,
+      "num": 437225,
+      "word": "微信转账",
+      "onboard_time": 1698839973,
+      "rank": 10,
+      "category": "互联网"
+    },
     {
       "raw_hot": 3091526,
       "num": 3091526,
@@ -33,6 +41,14 @@
       "onboard_time": 1698798697,
       "rank": 0,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 2405653,
+      "num": 434726,
+      "word": "微信呼叫",
+      "onboard_time": 1698839853,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 2404535,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352902,
+      "num": 1352902,
+      "word": "接了个大单没想到是贾乃亮",
+      "onboard_time": 1698836253,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1328238,
       "num": 1328238,
       "word": "朝鲜关闭12个驻外使领馆",
@@ -179,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1205690,
+      "num": 1205690,
+      "word": "青岛啤酒小便工人被行拘",
+      "onboard_time": 1698841357,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1199298,
       "num": 359715,
       "word": "向太coser晒装扮价格",
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 1175695,
-      "num": 386711,
+      "num": 394795,
       "word": "印度男子强奸女大学生后倒水毁证据",
       "onboard_time": 1698833372,
       "rank": 30,
@@ -225,14 +257,6 @@
       "onboard_time": 1698827430,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1058777,
-      "num": 1058777,
-      "word": "接了个大单没想到是贾乃亮",
-      "onboard_time": 1698836253,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1039283,
@@ -337,6 +361,14 @@
       "onboard_time": 1698829715,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 791108,
+      "num": 791108,
+      "word": "梅西中国行取消",
+      "onboard_time": 1698840215,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 766038,
@@ -481,6 +513,30 @@
       "onboard_time": 1698797615,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 574666,
+      "num": 574666,
+      "word": "双胞胎为什么要穿得一模一样",
+      "onboard_time": 1698837754,
+      "rank": 26,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 572242,
+      "num": 572242,
+      "word": "白鹿一部剧开机一部剧定档",
+      "onboard_time": 1698839615,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 570059,
+      "num": 570059,
+      "word": "官方再通报青岛啤酒三厂事件",
+      "onboard_time": 1698841234,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557117,
@@ -699,6 +755,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 422785,
+      "num": 422785,
+      "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+      "onboard_time": 1698838713,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414962,
+      "num": 414962,
+      "word": "王鹤棣原声",
+      "onboard_time": 1698840934,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414344,
       "num": 414344,
       "word": "吴楚一吴尊早期同框",
@@ -899,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325042,
+      "num": 325042,
+      "word": "于正你好歹毒的心",
+      "onboard_time": 1698841715,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323560,
       "num": 317290,
       "word": "1岁娃因妈妈不让开抽屉哭晕送医",
@@ -1019,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287775,
+      "num": 287775,
+      "word": "天官赐福",
+      "onboard_time": 1698840876,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 286731,
       "num": 286731,
       "word": "加沙婴儿脱水成为日益严重的威胁",
@@ -1115,12 +1203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258734,
-      "num": 258734,
-      "word": "双胞胎为什么要穿得一模一样",
-      "onboard_time": 1698837754,
-      "rank": 26,
-      "category": "母婴育儿"
+      "raw_hot": 265106,
+      "num": 265106,
+      "word": "内娱天选现偶男主脸",
+      "onboard_time": 1698837514,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 258253,
@@ -1379,6 +1467,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226643,
+      "num": 226643,
+      "word": "乐游原定档",
+      "onboard_time": 1698838113,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225872,
+      "num": 225872,
+      "word": "为有暗香来 OE",
+      "onboard_time": 1698840758,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225313,
+      "num": 238314,
+      "word": "主播讲国考知识点讲嗨了忘记直播",
+      "onboard_time": 1698841715,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 224562,
       "num": 224542,
       "word": "星辰大海给于适P了内搭",
@@ -1483,12 +1595,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208165,
-      "num": 208165,
-      "word": "乐游原定档",
-      "onboard_time": 1698838113,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 207406,
+      "num": 207406,
+      "word": "檀健次直播",
+      "onboard_time": 1698838834,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 206976,
@@ -1515,20 +1627,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 205417,
-      "num": 205417,
-      "word": "内娱天选现偶男主脸",
-      "onboard_time": 1698837514,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205249,
       "num": 205249,
       "word": "眼下腮红",
       "onboard_time": 1698814901,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 204394,
+      "num": 890862,
+      "word": "孩子头颅出血交警开道7分钟送医",
+      "onboard_time": 1698837394,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203495,
@@ -1545,14 +1657,6 @@
       "onboard_time": 1698805531,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 201838,
-      "num": 890862,
-      "word": "孩子头颅出血交警开道7分钟送医",
-      "onboard_time": 1698837394,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201500,
@@ -1633,6 +1737,14 @@
       "onboard_time": 1698802714,
       "rank": 34,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 194239,
+      "num": 194239,
+      "word": "在东北没点才艺是吃不上席的",
+      "onboard_time": 1698841416,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 193987,
@@ -1875,6 +1987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171400,
+      "num": 171400,
+      "word": "被同事直接叫了微信名",
+      "onboard_time": 1698838415,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171155,
       "num": 171155,
       "word": "哈登有望在洛城德比迎首秀",
@@ -1987,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162409,
+      "num": 162409,
+      "word": "檀健次 戴比尔斯",
+      "onboard_time": 1698841894,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 161223,
       "num": 161223,
       "word": "仲溪午终于等到了他的华浅",
@@ -2057,6 +2185,14 @@
       "onboard_time": 1698830793,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "年轻人开始养鱼式理财了",
+      "onboard_time": 1698838773,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 156761,
@@ -2155,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148950,
+      "num": 148950,
+      "word": "中国短道速滑队平安抵京",
+      "onboard_time": 1698839732,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148518,
       "num": 198150,
       "word": "女子自费请收割机帮陌生老人收稻子",
@@ -2193,6 +2337,14 @@
       "onboard_time": 1698821311,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144226,
+      "num": 144226,
+      "word": "易烊千玺表情包cos",
+      "onboard_time": 1698841957,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143981,
@@ -2283,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133413,
+      "num": 133413,
+      "word": "把许凯关在横店多拍古装",
+      "onboard_time": 1698838652,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132912,
       "num": 132912,
       "word": "soso逐渐紧闭的嘴唇",
@@ -2337,14 +2497,6 @@
       "onboard_time": 1698799594,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127232,
-      "num": 127232,
-      "word": "被同事直接叫了微信名",
-      "onboard_time": 1698838415,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 127073,
@@ -2739,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45429,
+      "num": 428228,
+      "word": "萧亚轩音乐虚拟首秀",
+      "onboard_time": 1698840033,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44059,
       "num": 235201,
       "word": "还是中国AI更懂中国人",
@@ -2764,7 +2924,7 @@
     },
     {
       "raw_hot": 37855,
-      "num": 684864,
+      "num": 1230919,
       "word": "神十六着陆前和太阳惊艳合影",
       "onboard_time": 1698826769,
       "rank": 2,
