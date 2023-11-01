@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698813270749,
+  "endTime": 1698815797727,
   "band_list": [
     {
       "raw_hot": 2721434,
@@ -25,6 +25,14 @@
       "onboard_time": 1698765513,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2192793,
+      "num": 2192793,
+      "word": "00后女老师自杀校方拒绝家属看监控",
+      "onboard_time": 1698813575,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2003173,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1239458,
+      "num": 1239458,
+      "word": "迪丽姐热了吧",
+      "onboard_time": 1698814597,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1234879,
       "num": 1234879,
       "word": "吴承恩作品票房59亿",
@@ -97,6 +113,14 @@
       "onboard_time": 1698800974,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100290,
+      "num": 231779,
+      "word": "华莎演出被判无淫乱嫌疑",
+      "onboard_time": 1698813758,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1030537,
@@ -145,6 +169,14 @@
       "onboard_time": 1698802892,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745845,
+      "num": 745845,
+      "word": "当地教体局回应小学女教师去世",
+      "onboard_time": 1698812073,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 739020,
@@ -283,20 +315,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 495703,
-      "num": 495703,
-      "word": "当地教体局回应小学女教师去世",
-      "onboard_time": 1698812073,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 476839,
       "num": 476839,
       "word": "查理苏 颈环",
       "onboard_time": 1698807031,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 460255,
+      "num": 460255,
+      "word": "张镇麟",
+      "onboard_time": 1698812497,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 459689,
@@ -385,6 +417,14 @@
       "onboard_time": 1698799174,
       "rank": 17,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 373175,
+      "num": 373175,
+      "word": "安踏回应ANTA是拼音还是英文",
+      "onboard_time": 1698815256,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 354377,
@@ -491,6 +531,14 @@
       "category": "美妆,互联网"
     },
     {
+      "raw_hot": 312168,
+      "num": 312168,
+      "word": "马刺20分逆转太阳",
+      "onboard_time": 1698814901,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306258,
       "num": 260020,
       "word": "田嘉瑞cos小丑",
@@ -521,6 +569,14 @@
       "onboard_time": 1698800015,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295944,
+      "num": 295944,
+      "word": "腾讯视频11月大剧片单",
+      "onboard_time": 1698815137,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 287877,
@@ -587,12 +643,44 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 265380,
+      "num": 265380,
+      "word": "花儿与少年",
+      "onboard_time": 1698813458,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257100,
       "num": 195678,
       "word": "知画是对秦岚最大的误解",
       "onboard_time": 1698769231,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255998,
+      "num": 252739,
+      "word": "马立奥新发型撞脸正峰欧巴",
+      "onboard_time": 1698814838,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 255856,
+      "num": 255856,
+      "word": "盒马被曝烤鸡中吃出生肉",
+      "onboard_time": 1698813874,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 253904,
+      "num": 253904,
+      "word": "边伯贤将在英雄联盟开幕式表演",
+      "onboard_time": 1698814776,
+      "rank": 24,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 251487,
@@ -609,14 +697,6 @@
       "onboard_time": 1698794667,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 248531,
-      "num": 248531,
-      "word": "张镇麟",
-      "onboard_time": 1698812497,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 246994,
@@ -771,12 +851,60 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 209541,
+      "num": 209541,
+      "word": "辛芷蕾离谱和靠谱只差一个字",
+      "onboard_time": 1698814597,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208640,
       "num": 208640,
       "word": "2023星辰大海青年演员官宣",
       "onboard_time": 1698805951,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207809,
+      "num": 207809,
+      "word": "文班亚马复刻姚明神仙球",
+      "onboard_time": 1698815017,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206976,
+      "num": 206976,
+      "word": "恋与深空测试",
+      "onboard_time": 1698815736,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206568,
+      "num": 206568,
+      "word": "迪丽热巴送新疆礼物",
+      "onboard_time": 1698815435,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205814,
+      "num": 195354,
+      "word": "迪丽热巴怎么拘谨了",
+      "onboard_time": 1698815377,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205249,
+      "num": 205249,
+      "word": "眼下腮红",
+      "onboard_time": 1698814901,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 203495,
@@ -803,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197901,
+      "num": 197901,
+      "word": "双十一快递为什么这么快",
+      "onboard_time": 1698812614,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197764,
       "num": 197764,
       "word": "24岁男子3颗烂牙一直没治感染大脑",
@@ -827,12 +963,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "杜兰特关键失误",
+      "onboard_time": 1698815559,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195493,
       "num": 195493,
       "word": "秦海璐清花少旅行库存",
       "onboard_time": 1698802714,
       "rank": 34,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 192823,
+      "num": 192823,
+      "word": "宝可梦大集结",
+      "onboard_time": 1698815616,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 192669,
@@ -851,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192506,
+      "num": 176990,
+      "word": "秦海璐听霸总小说被王新军批评",
+      "onboard_time": 1698813277,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191651,
       "num": 191651,
       "word": "公司周年庆给老员工发30g金子",
@@ -865,14 +1025,6 @@
       "onboard_time": 1698807691,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 189558,
-      "num": 189558,
-      "word": "双十一快递为什么这么快",
-      "onboard_time": 1698812614,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188679,
@@ -985,6 +1137,14 @@
       "onboard_time": 1698794786,
       "rank": 47,
       "category": "教育,演出"
+    },
+    {
+      "raw_hot": 174002,
+      "num": 174002,
+      "word": "威少来劲了",
+      "onboard_time": 1698815736,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 171155,
@@ -1403,6 +1563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 101219,
+      "num": 445603,
+      "word": "好望水为求大卖在工位拜财神",
+      "onboard_time": 1698811655,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99659,
       "num": 99659,
       "word": "陈伟霆刘雅瑟cos的谁",
@@ -1441,14 +1609,6 @@
       "onboard_time": 1698765278,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 78192,
-      "num": 445603,
-      "word": "好望水为求大卖在工位拜财神",
-      "onboard_time": 1698811655,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76926,
@@ -1531,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44059,
+      "num": 193435,
+      "word": "还是中国AI更懂中国人",
+      "onboard_time": 1698815377,
+      "rank": 42,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 42654,
       "num": 66940,
       "word": "陈丽君美得好英气",
@@ -1553,6 +1721,14 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26197,
+      "num": 1428092,
+      "word": "2023进博会亮点抢先看",
+      "onboard_time": 1698814175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22179,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698813270749,
+  "endTime": 1698815797727,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -145,6 +145,14 @@
       "onboard_time": 1698723451,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2192793,
+      "num": 2192793,
+      "word": "00后女老师自杀校方拒绝家属看监控",
+      "onboard_time": 1698813575,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2105974,
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1239458,
+      "num": 1239458,
+      "word": "迪丽姐热了吧",
+      "onboard_time": 1698814597,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1234879,
       "num": 1234879,
       "word": "吴承恩作品票房59亿",
@@ -657,6 +673,14 @@
       "onboard_time": 1698590677,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1100290,
+      "num": 231779,
+      "word": "华莎演出被判无淫乱嫌疑",
+      "onboard_time": 1698813758,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1090579,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1698535823,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 745845,
+      "num": 745845,
+      "word": "当地教体局回应小学女教师去世",
+      "onboard_time": 1698812073,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 744636,
@@ -2267,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495703,
-      "num": 495703,
-      "word": "当地教体局回应小学女教师去世",
-      "onboard_time": 1698812073,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 494958,
       "num": 254389,
       "word": "娄底渣渡中心小学",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1698579456,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460255,
+      "num": 460255,
+      "word": "张镇麟",
+      "onboard_time": 1698812497,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 459689,
@@ -2969,6 +3001,14 @@
       "onboard_time": 1698715710,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373175,
+      "num": 373175,
+      "word": "安踏回应ANTA是拼音还是英文",
+      "onboard_time": 1698815256,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 371078,
@@ -3499,6 +3539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 312168,
+      "num": 312168,
+      "word": "马刺20分逆转太阳",
+      "onboard_time": 1698814901,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310967,
       "num": 310967,
       "word": "AR止步TI12四强",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1698669692,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295944,
+      "num": 295944,
+      "word": "腾讯视频11月大剧片单",
+      "onboard_time": 1698815137,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 295638,
@@ -4115,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265380,
+      "num": 265380,
+      "word": "花儿与少年",
+      "onboard_time": 1698556890,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264905,
       "num": 264905,
       "word": "洪知秀 i think so maybe",
@@ -4283,6 +4347,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255998,
+      "num": 252739,
+      "word": "马立奥新发型撞脸正峰欧巴",
+      "onboard_time": 1698814838,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 255856,
+      "num": 255856,
+      "word": "盒马被曝烤鸡中吃出生肉",
+      "onboard_time": 1698813874,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 255457,
       "num": 255457,
       "word": "蒋勤勤说和吴磊搭档是上天的礼物",
@@ -4305,6 +4385,14 @@
       "onboard_time": 1698638856,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253904,
+      "num": 253904,
+      "word": "边伯贤将在英雄联盟开幕式表演",
+      "onboard_time": 1698814776,
+      "rank": 24,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 253839,
@@ -4401,14 +4489,6 @@
       "onboard_time": 1698511707,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 248531,
-      "num": 248531,
-      "word": "张镇麟",
-      "onboard_time": 1698812497,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 248245,
@@ -5355,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209541,
+      "num": 209541,
+      "word": "辛芷蕾离谱和靠谱只差一个字",
+      "onboard_time": 1698814597,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208781,
       "num": 208781,
       "word": "AG超玩会进决赛",
@@ -5385,6 +5473,14 @@
       "onboard_time": 1698643831,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207809,
+      "num": 207809,
+      "word": "文班亚马复刻姚明神仙球",
+      "onboard_time": 1698815017,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 207764,
@@ -5443,11 +5539,27 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 206976,
+      "num": 206976,
+      "word": "恋与深空测试",
+      "onboard_time": 1698815736,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206854,
       "num": 206854,
       "word": "檀健次喝无糖奶茶主打一个过嘴瘾",
       "onboard_time": 1698748534,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206568,
+      "num": 206568,
+      "word": "迪丽热巴送新疆礼物",
+      "onboard_time": 1698815435,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -5491,6 +5603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205814,
+      "num": 195354,
+      "word": "迪丽热巴怎么拘谨了",
+      "onboard_time": 1698815377,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205716,
       "num": 205716,
       "word": "王嘉尔在温州参加婚礼",
@@ -5505,6 +5625,14 @@
       "onboard_time": 1698728616,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205249,
+      "num": 205249,
+      "word": "眼下腮红",
+      "onboard_time": 1698814901,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 205120,
@@ -5779,14 +5907,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 199621,
-      "num": 199621,
-      "word": "花儿与少年",
-      "onboard_time": 1698556890,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199530,
       "num": 125931,
       "word": "星穹铁道 1.4",
@@ -5883,6 +6003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197901,
+      "num": 197901,
+      "word": "双十一快递为什么这么快",
+      "onboard_time": 1698812614,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197771,
       "num": 197771,
       "word": "博士乘组着陆后报告感觉很好",
@@ -5945,6 +6073,14 @@
       "onboard_time": 1698640599,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "杜兰特关键失误",
+      "onboard_time": 1698815559,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196477,
@@ -6131,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192823,
+      "num": 192823,
+      "word": "宝可梦大集结",
+      "onboard_time": 1698815616,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192669,
       "num": 192669,
       "word": "加沙地带超3500名儿童死亡",
@@ -6145,6 +6289,14 @@
       "onboard_time": 1698807990,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192506,
+      "num": 176990,
+      "word": "秦海璐听霸总小说被王新军批评",
+      "onboard_time": 1698813277,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 192342,
@@ -6281,14 +6433,6 @@
       "onboard_time": 1698584974,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189558,
-      "num": 189558,
-      "word": "双十一快递为什么这么快",
-      "onboard_time": 1698812614,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189366,
@@ -6969,6 +7113,14 @@
       "onboard_time": 1698635431,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174002,
+      "num": 174002,
+      "word": "威少来劲了",
+      "onboard_time": 1698815736,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 173932,
@@ -9731,6 +9883,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 101219,
+      "num": 445603,
+      "word": "好望水为求大卖在工位拜财神",
+      "onboard_time": 1698811655,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101047,
       "num": 101047,
       "word": "直播间真的便宜吗",
@@ -10000,14 +10160,6 @@
       "word": "孕妇低血糖民警带一盒糖出警",
       "onboard_time": 1698708686,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78192,
-      "num": 445603,
-      "word": "好望水为求大卖在工位拜财神",
-      "onboard_time": 1698811655,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -10371,6 +10523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44059,
+      "num": 193435,
+      "word": "还是中国AI更懂中国人",
+      "onboard_time": 1698815377,
+      "rank": 42,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 43903,
       "num": 723956,
       "word": "杭州亚残运会闭幕",
@@ -10513,6 +10673,14 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26197,
+      "num": 1428092,
+      "word": "2023进博会亮点抢先看",
+      "onboard_time": 1698814175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25508,
