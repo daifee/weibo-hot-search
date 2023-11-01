@@ -1,0 +1,410 @@
+{
+  "runTime": 1698802654105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2356916,
+        "num": 2356916,
+        "word": "安踏宣布更改公司标志",
+        "onboard_time": 1698798697,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 932236,
+        "num": 932236,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97170,
+        "num": 914498,
+        "word": "11月起这些新规开始施行",
+        "onboard_time": 1698760536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899315,
+        "num": 899315,
+        "word": "向佐 我把假向太抓来直播间啦",
+        "onboard_time": 1698761497,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834629,
+        "num": 834629,
+        "word": "中方回应加拿大政府手机禁用微信",
+        "onboard_time": 1698797794,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707721,
+        "num": 707721,
+        "word": "以色列",
+        "onboard_time": 1698765513,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 554040,
+        "num": 554040,
+        "word": "人在医院能无知到什么程度",
+        "onboard_time": 1698799474,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 535433,
+        "num": 535433,
+        "word": "这个锅中国不背",
+        "onboard_time": 1698781874,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 469097,
+        "num": 469097,
+        "word": "退款",
+        "onboard_time": 1698757353,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454625,
+        "num": 454625,
+        "word": "男子面试失败骂HR后个人信息被曝光",
+        "onboard_time": 1698800974,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361062,
+        "num": 449997,
+        "word": "人民日报评不该消失的课间10分钟",
+        "onboard_time": 1698800435,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1082601,
+        "num": 439934,
+        "word": "拥有教师编制的他们后悔了",
+        "onboard_time": 1698766415,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525658,
+        "num": 435482,
+        "word": "赵露思cos熊二",
+        "onboard_time": 1698797615,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 412152,
+        "num": 412152,
+        "word": "茅台涨价20%",
+        "onboard_time": 1698795388,
+        "rank": 13,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 392112,
+        "num": 392112,
+        "word": "智利决定召回驻以色列大使",
+        "onboard_time": 1698800855,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 388772,
+        "num": 388772,
+        "word": "赵晴瘦了",
+        "onboard_time": 1698799835,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381485,
+        "num": 381485,
+        "word": "玻利维亚决定与以色列断交",
+        "onboard_time": 1698795749,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 374086,
+        "num": 374086,
+        "word": "我把小卡给了虞书欣的爷爷",
+        "onboard_time": 1698796955,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363379,
+        "num": 363379,
+        "word": "oner木子洋cos乞丐",
+        "onboard_time": 1698800136,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 315947,
+        "num": 315947,
+        "word": "花西子双11为什么卖不动了",
+        "onboard_time": 1698801754,
+        "rank": 19,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 561611,
+        "num": 302450,
+        "word": "月薪两万一年的护肤花费58.3元",
+        "onboard_time": 1698796713,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 288561,
+        "num": 288561,
+        "word": "7款APP全网下架",
+        "onboard_time": 1698757836,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 286810,
+        "num": 286810,
+        "word": "茅台近6年来首次涨价",
+        "onboard_time": 1698799174,
+        "rank": 22,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 286731,
+        "num": 286731,
+        "word": "加沙婴儿脱水成为日益严重的威胁",
+        "onboard_time": 1698801034,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266379,
+        "num": 266379,
+        "word": "茅台涨价影响有多大",
+        "onboard_time": 1698801875,
+        "rank": 24,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 262397,
+        "num": 262397,
+        "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
+        "onboard_time": 1698761197,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245919,
+        "num": 245919,
+        "word": "读研日常无心科研但嫉恶如仇",
+        "onboard_time": 1698801515,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236921,
+        "num": 236921,
+        "word": "小学女教师离世留遗书称课外工作压力大",
+        "onboard_time": 1698759335,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 226495,
+        "num": 226495,
+        "word": "如萍亲杜飞粘了一嘴胡子",
+        "onboard_time": 1698800015,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214478,
+        "num": 214478,
+        "word": "于适好像在花样游泳",
+        "onboard_time": 1698801694,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211444,
+        "num": 211444,
+        "word": "9.9四斤洗衣液还能赚一块三",
+        "onboard_time": 1698801575,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210112,
+        "num": 210112,
+        "word": "长痘与身体器官的联系",
+        "onboard_time": 1698802415,
+        "rank": 31,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 203476,
+        "num": 203476,
+        "word": "秦岚痛失真名",
+        "onboard_time": 1698763118,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203413,
+        "num": 203413,
+        "word": "向太 衣服太low了",
+        "onboard_time": 1698753987,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201900,
+        "num": 201900,
+        "word": "曾黎在飞机上的卸妆护肤步骤",
+        "onboard_time": 1698802354,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 195803,
+        "num": 195803,
+        "word": "也门胡塞武装称向以色列发起打击",
+        "onboard_time": 1698794667,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180027,
+        "num": 180027,
+        "word": "13年的咆哮到底有多火",
+        "onboard_time": 1698798815,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167437,
+        "num": 167437,
+        "word": "西贝称拿出3000万践行退菜承诺",
+        "onboard_time": 1698797132,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166451,
+        "num": 166451,
+        "word": "国考抢考点",
+        "onboard_time": 1698794365,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166387,
+        "num": 166387,
+        "word": "曾舜晞进组七夜雪",
+        "onboard_time": 1698798755,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166069,
+        "num": 166069,
+        "word": "王鹤棣手牵白马",
+        "onboard_time": 1698802172,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160317,
+        "num": 160317,
+        "word": "YYF",
+        "onboard_time": 1698800793,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154685,
+        "num": 154685,
+        "word": "七夜雪",
+        "onboard_time": 1698802232,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142974,
+        "num": 142974,
+        "word": "纪焕博 我也想出去喝杯咖啡",
+        "onboard_time": 1698799056,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131272,
+        "num": 131272,
+        "word": "大吉岭茶与无人区玫瑰",
+        "onboard_time": 1698763177,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130724,
+        "num": 130724,
+        "word": "11月你好",
+        "onboard_time": 1698793944,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124467,
+        "num": 124467,
+        "word": "老舅说不要找rapper当男朋友",
+        "onboard_time": 1698794786,
+        "rank": 46,
+        "category": "教育,演出"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "陈奕迅社交恐惧癌歌词版MV",
+        "onboard_time": 1698800732,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117303,
+        "num": 117303,
+        "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
+        "onboard_time": 1698771206,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116818,
+        "num": 116818,
+        "word": "乌镇偶遇黄磊一家五口",
+        "onboard_time": 1698790035,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色社会主义妇女发展道路#"
+    }
+  }
+}

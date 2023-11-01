@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698801418906,
+  "endTime": 1698802654105,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -467,6 +467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1361062,
+      "num": 466540,
+      "word": "人民日报评不该消失的课间10分钟",
+      "onboard_time": 1698800435,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1359273,
       "num": 468537,
       "word": "拥有教师编制的他们后悔了",
@@ -827,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 932236,
+      "num": 932236,
+      "word": "吴承恩作品票房59亿",
+      "onboard_time": 1698801215,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 930537,
       "num": 509283,
       "word": "刘诗诗一天穿了六套高定",
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 739020,
-      "num": 289457,
+      "num": 302450,
       "word": "月薪两万一年的护肤花费58.3元",
       "onboard_time": 1698796713,
       "rank": 20,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1698750334,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 624847,
-      "num": 466540,
-      "word": "人民日报评不该消失的课间10分钟",
-      "onboard_time": 1698800435,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 624841,
@@ -1915,20 +1923,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 554040,
+      "num": 554040,
+      "word": "人在医院能无知到什么程度",
+      "onboard_time": 1698799474,
+      "rank": 13,
+      "category": "其它"
+    },
+    {
       "raw_hot": 552967,
       "num": 283102,
       "word": "211硕士毕业后工作还需要家里补贴",
       "onboard_time": 1698757713,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 552036,
-      "num": 462658,
-      "word": "人在医院能无知到什么程度",
-      "onboard_time": 1698799474,
-      "rank": 13,
-      "category": "其它"
     },
     {
       "raw_hot": 551934,
@@ -2347,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454625,
+      "num": 454625,
+      "word": "男子面试失败骂HR后个人信息被曝光",
+      "onboard_time": 1698800974,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453942,
       "num": 453942,
       "word": "厦门居然有不少人住在湖里",
@@ -2641,6 +2657,14 @@
       "onboard_time": 1698678871,
       "rank": 22,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 392112,
+      "num": 392112,
+      "word": "智利决定召回驻以色列大使",
+      "onboard_time": 1698800855,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 389090,
@@ -3211,6 +3235,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 315947,
+      "num": 315947,
+      "word": "花西子双11为什么卖不动了",
+      "onboard_time": 1698801754,
+      "rank": 19,
+      "category": "美妆,互联网"
+    },
+    {
       "raw_hot": 314586,
       "num": 314586,
       "word": "Deft全球总决赛400杀",
@@ -3587,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286731,
+      "num": 286731,
+      "word": "加沙婴儿脱水成为日益严重的威胁",
+      "onboard_time": 1698801034,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 286475,
       "num": 338657,
       "word": "金球奖",
@@ -3777,6 +3817,14 @@
       "onboard_time": 1698574412,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266379,
+      "num": 266379,
+      "word": "茅台涨价影响有多大",
+      "onboard_time": 1698801875,
+      "rank": 24,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 266315,
@@ -4155,20 +4203,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245919,
+      "num": 245919,
+      "word": "读研日常无心科研但嫉恶如仇",
+      "onboard_time": 1698801515,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245795,
       "num": 245795,
       "word": "王哲林",
       "onboard_time": 1698674558,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245711,
-      "num": 245711,
-      "word": "智利决定召回驻以色列大使",
-      "onboard_time": 1698800855,
-      "rank": 24,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 245456,
@@ -4659,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223326,
-      "num": 223326,
-      "word": "男子面试失败骂HR后个人信息被曝光",
-      "onboard_time": 1698800974,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223257,
       "num": 223257,
       "word": "王安宇高敏感人格吧",
@@ -4729,14 +4769,6 @@
       "onboard_time": 1698652111,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220561,
-      "num": 211962,
-      "word": "吴承恩作品票房59亿",
-      "onboard_time": 1698801215,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 220128,
@@ -4875,6 +4907,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 214478,
+      "num": 214478,
+      "word": "于适好像在花样游泳",
+      "onboard_time": 1698801694,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214254,
       "num": 214254,
       "word": "罗云熙章若楠情侣装海报",
@@ -4931,12 +4971,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 211444,
+      "num": 211444,
+      "word": "9.9四斤洗衣液还能赚一块三",
+      "onboard_time": 1698801575,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 211087,
       "num": 211087,
       "word": "马嘉祺吃鳗鱼去了",
       "onboard_time": 1698575859,
       "rank": 26,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 210112,
+      "num": 210112,
+      "word": "长痘与身体器官的联系",
+      "onboard_time": 1698802415,
+      "rank": 31,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 209958,
@@ -5249,6 +5305,14 @@
       "onboard_time": 1698588398,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201900,
+      "num": 201900,
+      "word": "曾黎在飞机上的卸妆护肤步骤",
+      "onboard_time": 1698802354,
+      "rank": 34,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 201739,
@@ -6203,20 +6267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180027,
+      "num": 180027,
+      "word": "13年的咆哮到底有多火",
+      "onboard_time": 1698798815,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179580,
       "num": 179580,
       "word": "gemini采访五月天",
       "onboard_time": 1698504697,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179318,
-      "num": 179318,
-      "word": "加沙婴儿脱水成为日益严重的威胁",
-      "onboard_time": 1698801034,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 179151,
@@ -6603,14 +6667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169659,
-      "num": 169659,
-      "word": "13年的咆哮到底有多火",
-      "onboard_time": 1698798815,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 169626,
       "num": 169626,
       "word": "毛不易做饭尝都尝饱了",
@@ -6745,6 +6801,14 @@
       "onboard_time": 1698570689,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166069,
+      "num": 166069,
+      "word": "王鹤棣手牵白马",
+      "onboard_time": 1698802172,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165982,
@@ -7169,6 +7233,14 @@
       "onboard_time": 1698709290,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154685,
+      "num": 154685,
+      "word": "七夜雪",
+      "onboard_time": 1698802232,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 154484,
