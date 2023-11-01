@@ -1,7 +1,15 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698812438883,
+  "endTime": 1698813270749,
   "band_list": [
+    {
+      "raw_hot": 2721434,
+      "num": 2721434,
+      "word": "这英被父母扫兴了20年",
+      "onboard_time": 1698809433,
+      "rank": 30,
+      "category": "网红"
+    },
     {
       "raw_hot": 2481239,
       "num": 2481239,
@@ -11,20 +19,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 2430576,
-      "num": 2430576,
-      "word": "这英被父母扫兴了20年",
-      "onboard_time": 1698809433,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 2404535,
       "num": 2404535,
       "word": "以色列",
       "onboard_time": 1698765513,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2003173,
+      "num": 2003173,
+      "word": "刘家昌曝儿子多次被退学",
+      "onboard_time": 1698809552,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1958869,
@@ -43,16 +51,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1890115,
-      "num": 1890115,
-      "word": "刘家昌曝儿子多次被退学",
-      "onboard_time": 1698809552,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1594962,
-      "num": 424933,
+      "num": 437095,
       "word": "不孕不育一半以上原因在男性",
       "onboard_time": 1698807870,
       "rank": 12,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 512984,
-      "num": 320820,
+      "num": 379818,
       "word": "cos的是人不是衣服",
       "onboard_time": 1698809850,
       "rank": 14,
@@ -259,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 502331,
+      "num": 429507,
+      "word": "万圣节偶遇王嘉尔",
+      "onboard_time": 1698810096,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501907,
       "num": 310777,
       "word": "小学女教师离世留遗书称课外工作压力大",
@@ -267,12 +275,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 500200,
-      "num": 297175,
-      "word": "万圣节偶遇王嘉尔",
-      "onboard_time": 1698810096,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 500651,
+      "num": 237137,
+      "word": "vivo发布自研AI蓝心大模型",
+      "onboard_time": 1698810696,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 495703,
+      "num": 495703,
+      "word": "当地教体局回应小学女教师去世",
+      "onboard_time": 1698812073,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 476839,
@@ -299,20 +315,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432348,
+      "num": 432348,
+      "word": "胡先煦喝药干湿分离",
+      "onboard_time": 1698810696,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414344,
       "num": 414344,
       "word": "吴楚一吴尊早期同框",
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409948,
-      "num": 303837,
-      "word": "胡先煦喝药干湿分离",
-      "onboard_time": 1698810696,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 407890,
@@ -345,14 +361,6 @@
       "onboard_time": 1698799835,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 396562,
-      "num": 210673,
-      "word": "vivo发布自研AI蓝心大模型",
-      "onboard_time": 1698810696,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 392112,
@@ -395,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351122,
+      "num": 310852,
+      "word": "白鹿白月梵星出妆路透",
+      "onboard_time": 1698813216,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349798,
       "num": 282484,
       "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
@@ -409,6 +425,14 @@
       "onboard_time": 1698763177,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336983,
+      "num": 307194,
+      "word": "Ricky直播被工作人员训斥",
+      "onboard_time": 1698811234,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 334669,
@@ -467,16 +491,8 @@
       "category": "美妆,互联网"
     },
     {
-      "raw_hot": 306490,
-      "num": 214706,
-      "word": "Ricky直播被工作人员训斥",
-      "onboard_time": 1698811234,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306258,
-      "num": 224676,
+      "num": 260020,
       "word": "田嘉瑞cos小丑",
       "onboard_time": 1698808711,
       "rank": 28,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 270861,
-      "num": 218163,
+      "num": 255377,
       "word": "卢昱晓cos小猫咪",
       "onboard_time": 1698809313,
       "rank": 31,
@@ -595,6 +611,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 248531,
+      "num": 248531,
+      "word": "张镇麟",
+      "onboard_time": 1698812497,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246994,
       "num": 246994,
       "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
@@ -608,6 +632,14 @@
       "word": "读研日常无心科研但嫉恶如仇",
       "onboard_time": 1698801515,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 245470,
+      "num": 245470,
+      "word": "巨蟹座绝对不会主动第二次",
+      "onboard_time": 1698809495,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -673,14 +705,6 @@
       "onboard_time": 1698808896,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228960,
-      "num": 210837,
-      "word": "巨蟹座绝对不会主动第二次",
-      "onboard_time": 1698809495,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 228646,
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203495,
+      "num": 203495,
+      "word": "法院双十一最高直降4300万",
+      "onboard_time": 1698812434,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "互金币",
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191651,
+      "num": 191651,
+      "word": "公司周年庆给老员工发30g金子",
+      "onboard_time": 1698812614,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189784,
       "num": 189784,
       "word": "双十一互助",
@@ -827,12 +867,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189558,
+      "num": 189558,
+      "word": "双十一快递为什么这么快",
+      "onboard_time": 1698812614,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188679,
       "num": 188679,
       "word": "恩比德因猥亵手势被罚款",
       "onboard_time": 1698811594,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186055,
+      "num": 186055,
+      "word": "大可不必指责过洋节的年轻人崇洋媚外",
+      "onboard_time": 1698812013,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 185382,
+      "num": 185382,
+      "word": "明日方舟 感谢庆典",
+      "onboard_time": 1698812614,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 185145,
@@ -891,14 +955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178830,
-      "num": 178830,
-      "word": "大可不必指责过洋节的年轻人崇洋媚外",
-      "onboard_time": 1698812013,
-      "rank": 36,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 177787,
       "num": 177787,
       "word": "丁薇回应没参加浪姐",
@@ -929,14 +985,6 @@
       "onboard_time": 1698794786,
       "rank": 47,
       "category": "教育,演出"
-    },
-    {
-      "raw_hot": 172989,
-      "num": 172989,
-      "word": "当地教体局回应小学女教师去世",
-      "onboard_time": 1698812073,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 171155,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1698797852,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 136428,
+      "num": 136428,
+      "word": "UFC上海站官宣",
+      "onboard_time": 1698813097,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 135110,
@@ -1388,7 +1444,7 @@
     },
     {
       "raw_hot": 78192,
-      "num": 196901,
+      "num": 445603,
       "word": "好望水为求大卖在工位拜财神",
       "onboard_time": 1698811655,
       "rank": 32,
@@ -1404,7 +1460,7 @@
     },
     {
       "raw_hot": 76860,
-      "num": 654945,
+      "num": 894772,
       "word": "中国航天员从1人变成了大家庭",
       "onboard_time": 1698760838,
       "rank": 2,

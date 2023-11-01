@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698812438883,
+  "endTime": 1698813270749,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2721434,
+      "num": 2721434,
+      "word": "这英被父母扫兴了20年",
+      "onboard_time": 1698809433,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2607465,
       "num": 2607465,
       "word": "教育局回应7岁女孩在校被多人霸凌",
@@ -89,14 +97,6 @@
       "onboard_time": 1698798697,
       "rank": 0,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 2430576,
-      "num": 2430576,
-      "word": "这英被父母扫兴了20年",
-      "onboard_time": 1698809433,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 2426695,
@@ -203,6 +203,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 2003173,
+      "num": 2003173,
+      "word": "刘家昌曝儿子多次被退学",
+      "onboard_time": 1698809552,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1958869,
       "num": 457690,
       "word": "这英模仿那英侵权吗",
@@ -225,14 +233,6 @@
       "onboard_time": 1698569729,
       "rank": 10,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 1890115,
-      "num": 1890115,
-      "word": "刘家昌曝儿子多次被退学",
-      "onboard_time": 1698809552,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1882754,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1594962,
-      "num": 424933,
+      "num": 437095,
       "word": "不孕不育一半以上原因在男性",
       "onboard_time": 1698807870,
       "rank": 12,
@@ -2164,7 +2164,7 @@
     },
     {
       "raw_hot": 512984,
-      "num": 320820,
+      "num": 379818,
       "word": "cos的是人不是衣服",
       "onboard_time": 1698809850,
       "rank": 14,
@@ -2211,12 +2211,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 500200,
-      "num": 297175,
+      "raw_hot": 502331,
+      "num": 429507,
       "word": "万圣节偶遇王嘉尔",
       "onboard_time": 1698810096,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500651,
+      "num": 237137,
+      "word": "vivo发布自研AI蓝心大模型",
+      "onboard_time": 1698810696,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 498427,
@@ -2257,6 +2265,14 @@
       "onboard_time": 1698497555,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495703,
+      "num": 495703,
+      "word": "当地教体局回应小学女教师去世",
+      "onboard_time": 1698812073,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 494958,
@@ -2579,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432348,
+      "num": 432348,
+      "word": "胡先煦喝药干湿分离",
+      "onboard_time": 1698810696,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430258,
       "num": 335915,
       "word": "秦岚惹眼的发缝",
@@ -2681,14 +2705,6 @@
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409948,
-      "num": 303837,
-      "word": "胡先煦喝药干湿分离",
-      "onboard_time": 1698810696,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 408749,
@@ -2801,14 +2817,6 @@
       "onboard_time": 1698660993,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396562,
-      "num": 210673,
-      "word": "vivo发布自研AI蓝心大模型",
-      "onboard_time": 1698810696,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 396315,
@@ -3123,6 +3131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351122,
+      "num": 310852,
+      "word": "白鹿白月梵星出妆路透",
+      "onboard_time": 1698813216,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350319,
       "num": 329504,
       "word": "2014万圣节 青蛇白蛇",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1698763239,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336983,
+      "num": 307194,
+      "word": "Ricky直播被工作人员训斥",
+      "onboard_time": 1698811234,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 335959,
@@ -3539,16 +3563,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306490,
-      "num": 214706,
-      "word": "Ricky直播被工作人员训斥",
-      "onboard_time": 1698811234,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306258,
-      "num": 224676,
+      "num": 260020,
       "word": "田嘉瑞cos小丑",
       "onboard_time": 1698808711,
       "rank": 28,
@@ -4028,7 +4044,7 @@
     },
     {
       "raw_hot": 270861,
-      "num": 218163,
+      "num": 255377,
       "word": "卢昱晓cos小猫咪",
       "onboard_time": 1698809313,
       "rank": 31,
@@ -4387,6 +4403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 248531,
+      "num": 248531,
+      "word": "张镇麟",
+      "onboard_time": 1698812497,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248245,
       "num": 248245,
       "word": "以总理办公室发言人称坚决拒绝停火",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1698674558,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245470,
+      "num": 245470,
+      "word": "巨蟹座绝对不会主动第二次",
+      "onboard_time": 1698809495,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 245456,
@@ -4929,14 +4961,6 @@
       "onboard_time": 1698808896,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228960,
-      "num": 210837,
-      "word": "巨蟹座绝对不会主动第二次",
-      "onboard_time": 1698809495,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 228031,
@@ -5571,6 +5595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203495,
+      "num": 203495,
+      "word": "法院双十一最高直降4300万",
+      "onboard_time": 1698812434,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 203289,
       "num": 185158,
       "word": "罗云熙最有cp感的女主",
@@ -6147,6 +6179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191651,
+      "num": 191651,
+      "word": "公司周年庆给老员工发30g金子",
+      "onboard_time": 1698812614,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191623,
       "num": 191623,
       "word": "胰腺癌有多会伪装",
@@ -6241,6 +6281,14 @@
       "onboard_time": 1698584974,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189558,
+      "num": 189558,
+      "word": "双十一快递为什么这么快",
+      "onboard_time": 1698812614,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189366,
@@ -6443,6 +6491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186055,
+      "num": 186055,
+      "word": "大可不必指责过洋节的年轻人崇洋媚外",
+      "onboard_time": 1698812013,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 185771,
       "num": 185771,
       "word": "徐斯天天有钱进账",
@@ -6457,6 +6513,14 @@
       "onboard_time": 1698654390,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185382,
+      "num": 185382,
+      "word": "明日方舟 感谢庆典",
+      "onboard_time": 1698812614,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 185145,
@@ -6697,14 +6761,6 @@
       "onboard_time": 1698646771,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178830,
-      "num": 178830,
-      "word": "大可不必指责过洋节的年轻人崇洋媚外",
-      "onboard_time": 1698812013,
-      "rank": 36,
-      "category": "社会议题"
     },
     {
       "raw_hot": 178814,
@@ -6953,14 +7009,6 @@
       "onboard_time": 1698633571,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172989,
-      "num": 172989,
-      "word": "当地教体局回应小学女教师去世",
-      "onboard_time": 1698812073,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 171900,
@@ -8323,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136428,
+      "num": 136428,
+      "word": "UFC上海站官宣",
+      "onboard_time": 1698813097,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135983,
       "num": 135983,
       "word": "苏醒 你最醒目",
@@ -8788,7 +8844,7 @@
     },
     {
       "raw_hot": 126961,
-      "num": 873777,
+      "num": 894772,
       "word": "中国航天员从1人变成了大家庭",
       "onboard_time": 1698760838,
       "rank": 2,
@@ -9948,7 +10004,7 @@
     },
     {
       "raw_hot": 78192,
-      "num": 196901,
+      "num": 445603,
       "word": "好望水为求大卖在工位拜财神",
       "onboard_time": 1698811655,
       "rank": 32,
