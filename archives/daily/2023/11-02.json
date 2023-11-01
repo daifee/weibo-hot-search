@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698867237381,
+  "endTime": 1698869911630,
   "band_list": [
     {
       "raw_hot": 1875278,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97502,
+      "num": 97502,
+      "word": "46%过敏性鼻炎9年内会发展为哮喘",
+      "onboard_time": 1698864795,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74185,
       "num": 74185,
       "word": "王安宇听到辛芷蕾丢1500的反应",
@@ -473,14 +481,6 @@
       "onboard_time": 1698845256,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51719,
-      "num": 51719,
-      "word": "46%过敏性鼻炎9年内会发展为哮喘",
-      "onboard_time": 1698864795,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 49765,
@@ -523,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29202,
+      "num": 25962,
+      "word": "亲历者讲述缅甸战事波及云南边境小镇",
+      "onboard_time": 1698866594,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 28585,
       "num": 39730,
       "word": "于正你好歹毒的心",
       "onboard_time": 1698841715,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25962,
-      "num": 25962,
-      "word": "亲历者讲述缅甸战事波及云南边境小镇",
-      "onboard_time": 1698866594,
-      "rank": 35,
-      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
