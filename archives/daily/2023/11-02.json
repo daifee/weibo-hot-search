@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698862937373,
+  "endTime": 1698863722958,
   "band_list": [
     {
       "raw_hot": 1875278,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 167516,
-      "num": 79815,
+      "num": 160328,
       "word": "双十一冷静期退货清单",
       "onboard_time": 1698859040,
       "rank": 32,
@@ -491,28 +491,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 40049,
-      "num": 48705,
-      "word": "深夜的这盒糖好甜",
-      "onboard_time": 1698859340,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 42172,
+      "num": 42172,
+      "word": "边界感清晰的人身上会有一种冷感",
+      "onboard_time": 1698860238,
+      "rank": 40,
+      "category": "情感"
     },
     {
-      "raw_hot": 39806,
-      "num": 39806,
+      "raw_hot": 40377,
+      "num": 40377,
       "word": "世界上最长寿的狗Bobi去世",
       "onboard_time": 1698861438,
       "rank": 36,
       "category": "幽默"
     },
     {
-      "raw_hot": 35315,
-      "num": 39769,
-      "word": "边界感清晰的人身上会有一种冷感",
-      "onboard_time": 1698860238,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 40049,
+      "num": 48705,
+      "word": "深夜的这盒糖好甜",
+      "onboard_time": 1698859340,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28585,
