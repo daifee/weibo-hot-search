@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698809664450,
+  "endTime": 1698812438883,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -89,6 +89,14 @@
       "onboard_time": 1698798697,
       "rank": 0,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 2430576,
+      "num": 2430576,
+      "word": "这英被父母扫兴了20年",
+      "onboard_time": 1698809433,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 2426695,
@@ -195,6 +203,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 1958869,
+      "num": 457690,
+      "word": "这英模仿那英侵权吗",
+      "onboard_time": 1698806670,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1948331,
       "num": 1948331,
       "word": "人民日报评不该消失的课间10分钟",
@@ -211,20 +227,20 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 1890115,
+      "num": 1890115,
+      "word": "刘家昌曝儿子多次被退学",
+      "onboard_time": 1698809552,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1882754,
       "num": 672489,
       "word": "小学女教师离世留遗书称课外工作压力大",
       "onboard_time": 1698759335,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1877649,
-      "num": 457690,
-      "word": "这英模仿那英侵权吗",
-      "onboard_time": 1698806670,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1873174,
@@ -387,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1594962,
+      "num": 424933,
+      "word": "不孕不育一半以上原因在男性",
+      "onboard_time": 1698807870,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1594001,
       "num": 1131730,
       "word": "男子砍人未被罚数月后驾车撞死母子2人",
@@ -425,14 +449,6 @@
       "onboard_time": 1698623791,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1503930,
-      "num": 424933,
-      "word": "不孕不育一半以上原因在男性",
-      "onboard_time": 1698807870,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1479329,
@@ -1379,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689967,
+      "num": 689967,
+      "word": "女教师辞职拍飞机6年拍几十万张",
+      "onboard_time": 1698808771,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689382,
       "num": 333345,
       "word": "恒大歌舞团4年间由78人参保减为0",
@@ -2139,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512984,
+      "num": 320820,
+      "word": "cos的是人不是衣服",
+      "onboard_time": 1698809850,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512796,
       "num": 512796,
       "word": "王安宇回应微信名闪亮的屁灯",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1698539550,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 500200,
+      "num": 297175,
+      "word": "万圣节偶遇王嘉尔",
+      "onboard_time": 1698810096,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 498427,
@@ -2643,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409948,
+      "num": 303837,
+      "word": "胡先煦喝药干湿分离",
+      "onboard_time": 1698810696,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1698712716,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 407890,
+      "num": 407890,
+      "word": "球迷高喊梅西 C罗示意闭嘴",
+      "onboard_time": 1698809071,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 407426,
@@ -2745,6 +2801,14 @@
       "onboard_time": 1698660993,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396562,
+      "num": 210673,
+      "word": "vivo发布自研AI蓝心大模型",
+      "onboard_time": 1698810696,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 396315,
@@ -2953,14 +3017,6 @@
       "onboard_time": 1698746731,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364402,
-      "num": 364402,
-      "word": "女教师辞职拍飞机6年拍几十万张",
-      "onboard_time": 1698808771,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362625,
@@ -3483,6 +3539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306490,
+      "num": 214706,
+      "word": "Ricky直播被工作人员训斥",
+      "onboard_time": 1698811234,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306258,
+      "num": 224676,
+      "word": "田嘉瑞cos小丑",
+      "onboard_time": 1698808711,
+      "rank": 28,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 306015,
       "num": 306015,
       "word": "檀健次还原相柳名场面",
@@ -3649,14 +3721,6 @@
       "onboard_time": 1698651991,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 293006,
-      "num": 293006,
-      "word": "球迷高喊梅西 C罗示意闭嘴",
-      "onboard_time": 1698809071,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 292770,
@@ -3961,6 +4025,14 @@
       "onboard_time": 1698803852,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270861,
+      "num": 218163,
+      "word": "卢昱晓cos小猫咪",
+      "onboard_time": 1698809313,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 270488,
@@ -4859,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228960,
+      "num": 210837,
+      "word": "巨蟹座绝对不会主动第二次",
+      "onboard_time": 1698809495,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228031,
       "num": 228031,
       "word": "双十一",
@@ -4921,14 +5001,6 @@
       "onboard_time": 1698592536,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 224676,
-      "num": 224676,
-      "word": "田嘉瑞cos小丑",
-      "onboard_time": 1698808711,
-      "rank": 28,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 224308,
@@ -5059,20 +5131,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218401,
-      "num": 218401,
-      "word": "这英被父母扫兴了20年",
-      "onboard_time": 1698809433,
+      "raw_hot": 218063,
+      "num": 205997,
+      "word": "柯佳嬿的收视率我来守护",
+      "onboard_time": 1698810096,
       "rank": 30,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 218163,
-      "num": 218163,
-      "word": "卢昱晓cos小猫咪",
-      "onboard_time": 1698809313,
-      "rank": 31,
-      "category": "艺人,美妆"
+      "category": "剧集"
     },
     {
       "raw_hot": 217691,
@@ -6227,6 +6291,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 188679,
+      "num": 188679,
+      "word": "恩比德因猥亵手势被罚款",
+      "onboard_time": 1698811594,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188443,
       "num": 160031,
       "word": "20秒手工制布偶小熊",
@@ -6273,14 +6345,6 @@
       "onboard_time": 1698664893,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187388,
-      "num": 187388,
-      "word": "刘家昌曝儿子多次被退学",
-      "onboard_time": 1698809552,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 187319,
@@ -6635,6 +6699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178830,
+      "num": 178830,
+      "word": "大可不必指责过洋节的年轻人崇洋媚外",
+      "onboard_time": 1698812013,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 178814,
       "num": 178814,
       "word": "洗衣液 双十一",
@@ -6881,6 +6953,14 @@
       "onboard_time": 1698633571,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172989,
+      "num": 172989,
+      "word": "当地教体局回应小学女教师去世",
+      "onboard_time": 1698812073,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 171900,
@@ -7641,14 +7721,6 @@
       "onboard_time": 1698553052,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154435,
-      "num": 154435,
-      "word": "巨蟹座绝对不会主动第二次",
-      "onboard_time": 1698809495,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 154134,
@@ -8435,6 +8507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132558,
+      "num": 132558,
+      "word": "AI上岗紧箍咒式提醒骑电动戴头盔",
+      "onboard_time": 1698810512,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 132546,
       "num": 132546,
       "word": "胡先煦 找个靠谱的朋友比较重要",
@@ -8761,6 +8841,14 @@
       "onboard_time": 1698563549,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125390,
+      "num": 125390,
+      "word": "黄梅戏女驸马极速变装",
+      "onboard_time": 1698811234,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 125371,
@@ -9856,6 +9944,14 @@
       "word": "孕妇低血糖民警带一盒糖出警",
       "onboard_time": 1698708686,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78192,
+      "num": 196901,
+      "word": "好望水为求大卖在工位拜财神",
+      "onboard_time": 1698811655,
+      "rank": 32,
       "category": "社会新闻"
     },
     {

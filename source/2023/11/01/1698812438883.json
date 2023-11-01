@@ -1,0 +1,410 @@
+{
+  "runTime": 1698812438883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2430576,
+        "num": 2430576,
+        "word": "这英被父母扫兴了20年",
+        "onboard_time": 1698809433,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1890115,
+        "num": 1890115,
+        "word": "刘家昌曝儿子多次被退学",
+        "onboard_time": 1698809552,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38453,
+        "num": 936579,
+        "word": "11月起这些新规开始施行",
+        "onboard_time": 1698760536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835224,
+        "num": 835224,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732135,
+        "num": 732135,
+        "word": "人民日报评不该消失的课间10分钟",
+        "onboard_time": 1698800435,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 689967,
+        "num": 689967,
+        "word": "女教师辞职拍飞机6年拍几十万张",
+        "onboard_time": 1698808771,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553678,
+        "num": 553678,
+        "word": "以色列",
+        "onboard_time": 1698765513,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 446269,
+        "num": 446269,
+        "word": "傅首尔为老刘重燃生活热情而开心",
+        "onboard_time": 1698807930,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411487,
+        "num": 411487,
+        "word": "向佐 我把假向太抓来直播间啦",
+        "onboard_time": 1698761497,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407890,
+        "num": 407890,
+        "word": "球迷高喊梅西 C罗示意闭嘴",
+        "onboard_time": 1698809071,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1958869,
+        "num": 372145,
+        "word": "这英模仿那英侵权吗",
+        "onboard_time": 1698806670,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1594962,
+        "num": 370142,
+        "word": "不孕不育一半以上原因在男性",
+        "onboard_time": 1698807870,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748632,
+        "num": 351191,
+        "word": "万圣节宋焰cos",
+        "onboard_time": 1698807570,
+        "rank": 12,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 325702,
+        "num": 325702,
+        "word": "安踏宣布更改公司标志",
+        "onboard_time": 1698798697,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 512984,
+        "num": 320820,
+        "word": "cos的是人不是衣服",
+        "onboard_time": 1698809850,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409948,
+        "num": 303837,
+        "word": "胡先煦喝药干湿分离",
+        "onboard_time": 1698810696,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500200,
+        "num": 297175,
+        "word": "万圣节偶遇王嘉尔",
+        "onboard_time": 1698810096,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271914,
+        "num": 271914,
+        "word": "拥有教师编制的他们后悔了",
+        "onboard_time": 1698766415,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215114,
+        "num": 215114,
+        "word": "男子面试失败骂HR后个人信息被曝光",
+        "onboard_time": 1698800974,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214849,
+        "num": 214849,
+        "word": "萧逸 崩卡",
+        "onboard_time": 1698806551,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306490,
+        "num": 214706,
+        "word": "Ricky直播被工作人员训斥",
+        "onboard_time": 1698811234,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306258,
+        "num": 213638,
+        "word": "田嘉瑞cos小丑",
+        "onboard_time": 1698808711,
+        "rank": 21,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 265933,
+        "num": 212732,
+        "word": "长痘与身体器官的联系",
+        "onboard_time": 1698802415,
+        "rank": 22,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 245690,
+        "num": 212241,
+        "word": "月薪两万一年的护肤花费58.3元",
+        "onboard_time": 1698796713,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228960,
+        "num": 210837,
+        "word": "巨蟹座绝对不会主动第二次",
+        "onboard_time": 1698809495,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396562,
+        "num": 210673,
+        "word": "vivo发布自研AI蓝心大模型",
+        "onboard_time": 1698810696,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270861,
+        "num": 209164,
+        "word": "卢昱晓cos小猫咪",
+        "onboard_time": 1698809313,
+        "rank": 26,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 230567,
+        "num": 208425,
+        "word": "赵露思cos熊二",
+        "onboard_time": 1698797615,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 216395,
+        "num": 207904,
+        "word": "1岁娃因妈妈不让开抽屉哭晕送医",
+        "onboard_time": 1698803493,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154986,
+        "num": 207254,
+        "word": "广西一客机遇险驾驶舱对话满满安全感",
+        "onboard_time": 1698803733,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218063,
+        "num": 205997,
+        "word": "柯佳嬿的收视率我来守护",
+        "onboard_time": 1698810096,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205888,
+        "num": 205888,
+        "word": "原来拿铁是牛奶不是咖啡",
+        "onboard_time": 1698803493,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78192,
+        "num": 196901,
+        "word": "好望水为求大卖在工位拜财神",
+        "onboard_time": 1698811655,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191587,
+        "num": 191587,
+        "word": "查理苏 颈环",
+        "onboard_time": 1698807031,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188679,
+        "num": 188679,
+        "word": "恩比德因猥亵手势被罚款",
+        "onboard_time": 1698811594,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182486,
+        "num": 182486,
+        "word": "段奥娟入选2023星辰大海",
+        "onboard_time": 1698805894,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178830,
+        "num": 178830,
+        "word": "大可不必指责过洋节的年轻人崇洋媚外",
+        "onboard_time": 1698812013,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 172989,
+        "num": 172989,
+        "word": "当地教体局回应小学女教师去世",
+        "onboard_time": 1698812073,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169254,
+        "num": 169254,
+        "word": "这就是街舞6定档",
+        "onboard_time": 1698807990,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164763,
+        "num": 164763,
+        "word": "张译第一次看无价之宝剧本就哭了",
+        "onboard_time": 1698808831,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150437,
+        "num": 150437,
+        "word": "茅台开盘暴涨",
+        "onboard_time": 1698805110,
+        "rank": 40,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 149586,
+        "num": 149586,
+        "word": "吴楚一吴尊早期同框",
+        "onboard_time": 1698804392,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144793,
+        "num": 144793,
+        "word": "费启鸣入选2023星辰大海",
+        "onboard_time": 1698806190,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142320,
+        "num": 142320,
+        "word": "杜兰特对位文班亚马",
+        "onboard_time": 1698809433,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140895,
+        "num": 140895,
+        "word": "玻利维亚决定与以色列断交",
+        "onboard_time": 1698795749,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 136419,
+        "num": 136419,
+        "word": "哈登放弃交易补偿金",
+        "onboard_time": 1698805894,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132558,
+        "num": 132558,
+        "word": "AI上岗紧箍咒式提醒骑电动戴头盔",
+        "onboard_time": 1698810512,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 128516,
+        "num": 128516,
+        "word": "智利决定召回驻以色列大使",
+        "onboard_time": 1698800855,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 125390,
+        "word": "黄梅戏女驸马极速变装",
+        "onboard_time": 1698811234,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 119355,
+        "word": "齐司礼 二段",
+        "onboard_time": 1698803674,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#金融是国民经济的血脉#"
+    }
+  }
+}
