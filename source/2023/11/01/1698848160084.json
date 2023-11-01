@@ -1,0 +1,410 @@
+{
+  "runTime": 1698848160084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2070343,
+        "num": 2070343,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1379184,
+        "num": 1379184,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34400,
+        "num": 1268365,
+        "word": "90秒数说今年进博会亮点",
+        "onboard_time": 1698843033,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237407,
+        "num": 1237407,
+        "word": "中国女足无缘巴黎奥运会",
+        "onboard_time": 1698846038,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 849709,
+        "num": 849709,
+        "word": "闲鱼回应多地大学生在平台挂学校",
+        "onboard_time": 1698842795,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 812873,
+        "num": 812873,
+        "word": "30集的剧前29集是做梦",
+        "onboard_time": 1698845556,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 811209,
+        "num": 811209,
+        "word": "下一站幸福导演陈慧翎去世",
+        "onboard_time": 1698844835,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 737800,
+        "num": 737800,
+        "word": "全球第二例猪心脏移植患者6周后去世",
+        "onboard_time": 1698843513,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729791,
+        "num": 729791,
+        "word": "王一博于适 星辰大海双C位",
+        "onboard_time": 1698845256,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 505869,
+        "num": 505869,
+        "word": "美国宣布增兵中东",
+        "onboard_time": 1698846816,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1883561,
+        "num": 505222,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1085026,
+        "num": 502372,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 588194,
+        "num": 498935,
+        "word": "湖南卫视的预告真的太有特色了",
+        "onboard_time": 1698845738,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489239,
+        "num": 489239,
+        "word": "外卖烧烤店直接改名叫炸串店吧",
+        "onboard_time": 1698846575,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 471993,
+        "num": 471993,
+        "word": "白鹿一部剧开机一部剧定档",
+        "onboard_time": 1698839615,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452597,
+        "num": 452597,
+        "word": "青岛啤酒小便工人被行拘",
+        "onboard_time": 1698841357,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432858,
+        "num": 432858,
+        "word": "女教师跳楼自杀家属称发求助后被踢出群",
+        "onboard_time": 1698847479,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 422752,
+        "num": 422752,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 418301,
+        "num": 418301,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389113,
+        "num": 389113,
+        "word": "于正你好歹毒的心",
+        "onboard_time": 1698841715,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 959503,
+        "num": 385098,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439390,
+        "num": 384964,
+        "word": "向佐 大家不能靠长相判刑吧",
+        "onboard_time": 1698842972,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390921,
+        "num": 384910,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376038,
+        "num": 376038,
+        "word": "赵丽颖说王梓薇表演很有感受力",
+        "onboard_time": 1698843154,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358139,
+        "num": 358139,
+        "word": "谢娜不知道杨紫比张一山小",
+        "onboard_time": 1698848076,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314092,
+        "num": 314092,
+        "word": "富婆为什么会被博士骗",
+        "onboard_time": 1698846397,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275036,
+        "num": 275036,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255788,
+        "num": 255788,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1698841894,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 242690,
+        "num": 242690,
+        "word": "ChatGPT可能已经有了意识",
+        "onboard_time": 1698836557,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 226943,
+        "num": 226943,
+        "word": "越华丽的衣服越配景甜",
+        "onboard_time": 1698845794,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224774,
+        "num": 224774,
+        "word": "于正暗香来欠一个满意的结局",
+        "onboard_time": 1698837274,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216919,
+        "num": 216919,
+        "word": "天官赐福",
+        "onboard_time": 1698840876,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210020,
+        "num": 210020,
+        "word": "王鹤棣原声",
+        "onboard_time": 1698840934,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207053,
+        "num": 207053,
+        "word": "中国女足1比1韩国女足",
+        "onboard_time": 1698846275,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205516,
+        "num": 205516,
+        "word": "中方尊重朝鲜关闭香港总领馆的决定",
+        "onboard_time": 1698834755,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 190611,
+        "num": 190611,
+        "word": "88岁老人离世后被发现已与保姆结婚",
+        "onboard_time": 1698843995,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190188,
+        "num": 190188,
+        "word": "双胞胎为什么要穿得一模一样",
+        "onboard_time": 1698837754,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 189420,
+        "num": 189420,
+        "word": "广东男篮vs天津男篮",
+        "onboard_time": 1698847599,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188372,
+        "num": 188372,
+        "word": "薛之谦彭昱畅见面干瞪眼",
+        "onboard_time": 1698846638,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180353,
+        "num": 180353,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179870,
+        "num": 179870,
+        "word": "微信呼叫",
+        "onboard_time": 1698839853,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168806,
+        "num": 168806,
+        "word": "以爱为营定档",
+        "onboard_time": 1698827373,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157141,
+        "num": 157141,
+        "word": "易烊千玺表情包cos",
+        "onboard_time": 1698841957,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155983,
+        "num": 155983,
+        "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+        "onboard_time": 1698838713,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153661,
+        "num": 153661,
+        "word": "为有暗香来 OE",
+        "onboard_time": 1698840758,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148038,
+        "num": 148038,
+        "word": "以爱为营预告",
+        "onboard_time": 1698834033,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147751,
+        "num": 147751,
+        "word": "95后男子被裁员抗争17个月获赔16万9",
+        "onboard_time": 1698835593,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140457,
+        "num": 140457,
+        "word": "青岛啤酒发布整改情况说明",
+        "onboard_time": 1698842495,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 118687,
+        "word": "火锅店鼓励食客去隔壁菜场买菜来涮",
+        "onboard_time": 1698845074,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113201,
+        "num": 118687,
+        "word": "六公主人还怪好的嘞",
+        "onboard_time": 1698835053,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央金融工作会议释放重要信号#"
+    }
+  }
+}
