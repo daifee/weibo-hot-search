@@ -1,0 +1,410 @@
+{
+  "runTime": 1698844811127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2287886,
+        "num": 2287886,
+        "word": "青岛啤酒小便工人被行拘",
+        "onboard_time": 1698841357,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273408,
+        "num": 1273408,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31844,
+        "num": 913260,
+        "word": "90秒数说今年进博会亮点",
+        "onboard_time": 1698843033,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758849,
+        "num": 758849,
+        "word": "闲鱼回应多地大学生在平台挂学校",
+        "onboard_time": 1698842795,
+        "rank": 3,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 713683,
+        "num": 713683,
+        "word": "青岛啤酒发布整改情况说明",
+        "onboard_time": 1698842495,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665804,
+        "num": 665804,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 642504,
+        "num": 642504,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614007,
+        "num": 614007,
+        "word": "全球第二例猪心脏移植患者6周后去世",
+        "onboard_time": 1698843513,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586329,
+        "num": 586329,
+        "word": "于正你好歹毒的心",
+        "onboard_time": 1698841715,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526869,
+        "num": 526869,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2222618,
+        "num": 524254,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 992376,
+        "num": 516339,
+        "word": "郑州轻生女教师曾被要求加班数石榴",
+        "onboard_time": 1698824971,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 974231,
+        "num": 507872,
+        "word": "微信呼叫",
+        "onboard_time": 1698839853,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 572461,
+        "num": 497734,
+        "word": "工作人员让杨紫不要戳别人的鼻孔",
+        "onboard_time": 1698832594,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497371,
+        "num": 497371,
+        "word": "双胞胎为什么要穿得一模一样",
+        "onboard_time": 1698837754,
+        "rank": 14,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 489166,
+        "num": 489166,
+        "word": "赵丽颖说王梓薇表演很有感受力",
+        "onboard_time": 1698843154,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466928,
+        "num": 466928,
+        "word": "白鹿一部剧开机一部剧定档",
+        "onboard_time": 1698839615,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449873,
+        "num": 449873,
+        "word": "檀健次 戴比尔斯",
+        "onboard_time": 1698841894,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 408095,
+        "num": 408095,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399296,
+        "num": 399296,
+        "word": "王鹤棣原声",
+        "onboard_time": 1698840934,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1012629,
+        "num": 394964,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615177,
+        "num": 388491,
+        "word": "向佐 大家不能靠长相判刑吧",
+        "onboard_time": 1698842972,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367202,
+        "num": 367202,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329098,
+        "num": 329098,
+        "word": "ChatGPT可能已经有了意识",
+        "onboard_time": 1698836557,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 322912,
+        "num": 322912,
+        "word": "天官赐福",
+        "onboard_time": 1698840876,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 294982,
+        "num": 294982,
+        "word": "于正暗香来欠一个满意的结局",
+        "onboard_time": 1698837274,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259629,
+        "num": 259629,
+        "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+        "onboard_time": 1698838713,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254658,
+        "num": 254658,
+        "word": "官方再通报青岛啤酒三厂事件",
+        "onboard_time": 1698841234,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244746,
+        "num": 244746,
+        "word": "为有暗香来 OE",
+        "onboard_time": 1698840758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94090,
+        "num": 237130,
+        "word": "麻辣王子团叫粉丝麻辣公主",
+        "onboard_time": 1698843513,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230412,
+        "num": 230412,
+        "word": "易烊千玺表情包cos",
+        "onboard_time": 1698841957,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219887,
+        "num": 219887,
+        "word": "以爱为营定档",
+        "onboard_time": 1698827373,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210377,
+        "num": 210377,
+        "word": "主播讲国考知识点讲嗨了忘记直播",
+        "onboard_time": 1698841715,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202683,
+        "num": 202683,
+        "word": "88岁老人离世后被发现已与保姆结婚",
+        "onboard_time": 1698843995,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198524,
+        "num": 198524,
+        "word": "中国女足半场0比0韩国女足",
+        "onboard_time": 1698843755,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189955,
+        "num": 189955,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184770,
+        "num": 184770,
+        "word": "95后男子被裁员抗争17个月获赔16万9",
+        "onboard_time": 1698835593,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184168,
+        "num": 184168,
+        "word": "中方尊重朝鲜关闭香港总领馆的决定",
+        "onboard_time": 1698834755,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 182195,
+        "num": 182195,
+        "word": "以爱为营预告",
+        "onboard_time": 1698834033,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43283,
+        "num": 160942,
+        "word": "没想到双11快递是祈福过的",
+        "onboard_time": 1698837094,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155549,
+        "num": 155549,
+        "word": "温碧霞P图从不P老公",
+        "onboard_time": 1698819933,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148206,
+        "num": 148206,
+        "word": "曾舜晞姐姐姐姐姐姐",
+        "onboard_time": 1698829413,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143773,
+        "num": 143773,
+        "word": "乐游原定档",
+        "onboard_time": 1698838113,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143493,
+        "num": 143493,
+        "word": "2年遭家暴16次女子不满伤残鉴定",
+        "onboard_time": 1698831213,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137452,
+        "num": 137452,
+        "word": "被同事直接叫了微信名",
+        "onboard_time": 1698838415,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125898,
+        "num": 125898,
+        "word": "中国女足vs韩国女足",
+        "onboard_time": 1698836313,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123896,
+        "num": 123896,
+        "word": "A股",
+        "onboard_time": 1698844656,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122776,
+        "num": 122776,
+        "word": "为有暗香来结局",
+        "onboard_time": 1698836253,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118943,
+        "num": 118943,
+        "word": "六公主人还怪好的嘞",
+        "onboard_time": 1698835053,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114156,
+        "num": 118937,
+        "word": "檀健次直播",
+        "onboard_time": 1698838834,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}
