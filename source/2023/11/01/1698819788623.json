@@ -1,0 +1,410 @@
+{
+  "runTime": 1698819788623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1377308,
+        "num": 1377308,
+        "word": "迪丽姐热了吧",
+        "onboard_time": 1698814597,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730221,
+        "num": 730221,
+        "word": "知情人回应00后女老师跳楼身亡",
+        "onboard_time": 1698815913,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27112,
+        "num": 681418,
+        "word": "2023进博会亮点抢先看",
+        "onboard_time": 1698814175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608725,
+        "num": 677893,
+        "word": "00后女老师自杀校方拒绝家属看监控",
+        "onboard_time": 1698813575,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 673831,
+        "num": 673831,
+        "word": "巴勒斯坦儿童向普京求救",
+        "onboard_time": 1698816515,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 671829,
+        "num": 671829,
+        "word": "这英被父母扫兴了20年",
+        "onboard_time": 1698809433,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 588151,
+        "num": 588151,
+        "word": "安踏回应ANTA是拼音还是英文",
+        "onboard_time": 1698815256,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 477518,
+        "num": 477518,
+        "word": "胡先煦帮迪丽热巴解围",
+        "onboard_time": 1698818253,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430738,
+        "num": 430738,
+        "word": "中国海警依法管控日非法进我钓鱼岛领海船只",
+        "onboard_time": 1698817414,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 390513,
+        "num": 390513,
+        "word": "承包户收割白术遭上百村民哄抢",
+        "onboard_time": 1698815976,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2696802,
+        "num": 389184,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629262,
+        "num": 388916,
+        "word": "刘家昌曝儿子多次被退学",
+        "onboard_time": 1698809552,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414169,
+        "num": 386551,
+        "word": "穷奇cos 魔尊重楼",
+        "onboard_time": 1698818733,
+        "rank": 12,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 375433,
+        "num": 375433,
+        "word": "不孕不育一半以上原因在男性",
+        "onboard_time": 1698807870,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366348,
+        "num": 366348,
+        "word": "千纸鹤颠婆",
+        "onboard_time": 1698817654,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1199298,
+        "num": 359715,
+        "word": "向太coser晒装扮价格",
+        "onboard_time": 1698816993,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349725,
+        "num": 349725,
+        "word": "成都被狗咬女童右肾已保住",
+        "onboard_time": 1698818974,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292420,
+        "num": 292420,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283102,
+        "num": 283102,
+        "word": "万圣节宋焰cos",
+        "onboard_time": 1698807570,
+        "rank": 18,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 276896,
+        "num": 276896,
+        "word": "女教师辞职拍飞机6年拍几十万张",
+        "onboard_time": 1698808771,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307793,
+        "num": 267347,
+        "word": "给初次怀孕的姐妹的小建议",
+        "onboard_time": 1698818314,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 252638,
+        "num": 252638,
+        "word": "李咏女儿气场",
+        "onboard_time": 1698818853,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237428,
+        "num": 237428,
+        "word": "这眼神何止是会爱人啊",
+        "onboard_time": 1698818673,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232269,
+        "num": 232269,
+        "word": "眠狼离职",
+        "onboard_time": 1698818557,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 230375,
+        "num": 230375,
+        "word": "秦霄贤说兄弟媳妇儿多看不了一点",
+        "onboard_time": 1698815794,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222867,
+        "num": 222867,
+        "word": "秦海璐 不要我觉得",
+        "onboard_time": 1698816333,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208221,
+        "num": 208221,
+        "word": "呼吸道感染情况调查问卷",
+        "onboard_time": 1698819452,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188864,
+        "num": 188864,
+        "word": "黄子韬广州抢票",
+        "onboard_time": 1698818792,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188658,
+        "num": 188658,
+        "word": "星辰大海给于适P了内搭",
+        "onboard_time": 1698819097,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175710,
+        "num": 175710,
+        "word": "张镇麟",
+        "onboard_time": 1698812497,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1235326,
+        "num": 175213,
+        "word": "华莎演出被判无淫乱嫌疑",
+        "onboard_time": 1698813758,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184452,
+        "num": 171376,
+        "word": "这英模仿那英侵权吗",
+        "onboard_time": 1698806670,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182702,
+        "num": 169000,
+        "word": "迪丽热巴怎么拘谨了",
+        "onboard_time": 1698815377,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178814,
+        "num": 166243,
+        "word": "港媒真的什么都敢问",
+        "onboard_time": 1698816155,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163422,
+        "num": 163422,
+        "word": "腾讯视频11月大剧片单",
+        "onboard_time": 1698815137,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156520,
+        "num": 156520,
+        "word": "当地教体局回应小学女教师去世",
+        "onboard_time": 1698812073,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153752,
+        "num": 153752,
+        "word": "文班亚马复刻姚明神仙球",
+        "onboard_time": 1698815017,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142908,
+        "num": 142908,
+        "word": "盒马被曝烤鸡中吃出生肉",
+        "onboard_time": 1698813874,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 142467,
+        "num": 142467,
+        "word": "威少来劲了",
+        "onboard_time": 1698815736,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138188,
+        "num": 138188,
+        "word": "人民日报评不该消失的课间10分钟",
+        "onboard_time": 1698800435,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159035,
+        "num": 138094,
+        "word": "王安宇少爷脸小厮命",
+        "onboard_time": 1698818314,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158300,
+        "num": 138041,
+        "word": "马立奥新发型撞脸正峰欧巴",
+        "onboard_time": 1698814838,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 137739,
+        "num": 137739,
+        "word": "白鹿白月梵星出妆路透",
+        "onboard_time": 1698813216,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136292,
+        "num": 136292,
+        "word": "50人众筹82年拉菲每人15毫升",
+        "onboard_time": 1698816936,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158984,
+        "num": 135616,
+        "word": "秦岚听不得乌鸦两个字",
+        "onboard_time": 1698818853,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131770,
+        "num": 131770,
+        "word": "边伯贤将在英雄联盟开幕式表演",
+        "onboard_time": 1698814776,
+        "rank": 45,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 129396,
+        "num": 129396,
+        "word": "安踏宣布更改公司标志",
+        "onboard_time": 1698798697,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125251,
+        "num": 125251,
+        "word": "以色列",
+        "onboard_time": 1698765513,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 116173,
+        "num": 116173,
+        "word": "双十一快递为什么这么快",
+        "onboard_time": 1698812614,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104952,
+        "num": 116172,
+        "word": "Ricky直播被工作人员训斥",
+        "onboard_time": 1698811234,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#金融是国民经济的血脉#"
+    }
+  }
+}
