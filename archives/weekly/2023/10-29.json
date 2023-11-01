@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698795258999,
+  "endTime": 1698801418906,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2481239,
+      "num": 2481239,
+      "word": "安踏宣布更改公司标志",
+      "onboard_time": 1698798697,
+      "rank": 0,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 2426695,
       "num": 418991,
       "word": "向太 衣服太low了",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 2346419,
-      "num": 859144,
+      "num": 1143623,
       "word": "向佐 我把假向太抓来直播间啦",
       "onboard_time": 1698761497,
       "rank": 18,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 1359273,
-      "num": 286248,
+      "num": 468537,
       "word": "拥有教师编制的他们后悔了",
       "onboard_time": 1698766415,
       "rank": 36,
@@ -571,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1157889,
+      "num": 1157889,
+      "word": "中方回应加拿大政府手机禁用微信",
+      "onboard_time": 1698797794,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1124434,
       "num": 1124434,
       "word": "女子为减肥连吃3月胡萝卜变小橘人",
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 1087706,
-      "num": 276619,
+      "num": 282484,
       "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
       "onboard_time": 1698761197,
       "rank": 20,
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030537,
+      "num": 1030537,
+      "word": "这个锅中国不背",
+      "onboard_time": 1698781874,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1021471,
       "num": 1021471,
       "word": "WBG什么运气",
@@ -753,14 +777,6 @@
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 972033,
-      "num": 972033,
-      "word": "这个锅中国不背",
-      "onboard_time": 1698781874,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 971798,
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739020,
+      "num": 289457,
+      "word": "月薪两万一年的护肤花费58.3元",
+      "onboard_time": 1698796713,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 736483,
       "num": 736483,
       "word": "各种维生素不足和过量有啥表现",
@@ -1395,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644881,
+      "num": 644881,
+      "word": "玻利维亚决定与以色列断交",
+      "onboard_time": 1698795749,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 644719,
       "num": 644719,
       "word": "八年花了12万网购的感受",
@@ -1481,6 +1513,22 @@
       "onboard_time": 1698750334,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624847,
+      "num": 466540,
+      "word": "人民日报评不该消失的课间10分钟",
+      "onboard_time": 1698800435,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 624841,
+      "num": 624841,
+      "word": "茅台涨价20%",
+      "onboard_time": 1698795388,
+      "rank": 7,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 624705,
@@ -1699,6 +1747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 585385,
+      "num": 464615,
+      "word": "赵露思cos熊二",
+      "onboard_time": 1698797615,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 584554,
       "num": 584554,
       "word": "粉底前先打一层白色的底",
@@ -1867,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 552036,
+      "num": 462658,
+      "word": "人在医院能无知到什么程度",
+      "onboard_time": 1698799474,
+      "rank": 13,
+      "category": "其它"
+    },
+    {
       "raw_hot": 551934,
       "num": 551934,
       "word": "沙特人跟韩国人说中文",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1698656491,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 514939,
+      "num": 459725,
+      "word": "oner木子洋cos乞丐",
+      "onboard_time": 1698800136,
+      "rank": 14,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 514913,
@@ -2243,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459689,
+      "num": 459689,
+      "word": "我把小卡给了虞书欣的爷爷",
+      "onboard_time": 1698796955,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 458250,
       "num": 458250,
       "word": "业余主播混乱式带货走红网络",
@@ -2507,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401444,
+      "num": 401444,
+      "word": "赵晴瘦了",
+      "onboard_time": 1698799835,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 399574,
       "num": 334369,
       "word": "韩庚希望能给女儿安全感",
@@ -2657,6 +2745,14 @@
       "onboard_time": 1698553471,
       "rank": 14,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 375312,
+      "num": 375312,
+      "word": "茅台近6年来首次涨价",
+      "onboard_time": 1698799174,
+      "rank": 17,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 374125,
@@ -3307,6 +3403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297520,
+      "num": 297520,
+      "word": "如萍亲杜飞粘了一嘴胡子",
+      "onboard_time": 1698800015,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297447,
       "num": 297447,
       "word": "AR晋级TI12败者组半决赛",
@@ -3955,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249187,
+      "num": 249187,
+      "word": "也门胡塞武装称向以色列发起打击",
+      "onboard_time": 1698794667,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 249037,
       "num": 176888,
       "word": "JustinBieber万圣节潜水造型",
@@ -4049,6 +4161,14 @@
       "onboard_time": 1698674558,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245711,
+      "num": 245711,
+      "word": "智利决定召回驻以色列大使",
+      "onboard_time": 1698800855,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 245456,
@@ -4419,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230613,
+      "num": 230613,
+      "word": "曾舜晞进组七夜雪",
+      "onboard_time": 1698798755,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229846,
       "num": 229846,
       "word": "胡一天和我奶能唠一宿",
@@ -4531,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223326,
+      "num": 223326,
+      "word": "男子面试失败骂HR后个人信息被曝光",
+      "onboard_time": 1698800974,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223257,
       "num": 223257,
       "word": "王安宇高敏感人格吧",
@@ -4595,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220561,
+      "num": 211962,
+      "word": "吴承恩作品票房59亿",
+      "onboard_time": 1698801215,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220128,
       "num": 220128,
       "word": "星穹铁道雪衣",
@@ -4641,6 +4785,14 @@
       "onboard_time": 1698637119,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217691,
+      "num": 217691,
+      "word": "国考抢考点",
+      "onboard_time": 1698794365,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 217583,
@@ -4745,6 +4897,14 @@
       "onboard_time": 1698579512,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212470,
+      "num": 212470,
+      "word": "西贝称拿出3000万践行退菜承诺",
+      "onboard_time": 1698797132,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 212297,
@@ -5089,14 +5249,6 @@
       "onboard_time": 1698588398,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202433,
-      "num": 185549,
-      "word": "国考抢考点",
-      "onboard_time": 1698794365,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 201739,
@@ -5883,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184663,
+      "num": 184663,
+      "word": "纪焕博 我也想出去喝杯咖啡",
+      "onboard_time": 1698799056,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184500,
       "num": 184500,
       "word": "库里该出手时就出手",
@@ -5945,14 +6105,6 @@
       "onboard_time": 1698655832,
       "rank": 31,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 182153,
-      "num": 117494,
-      "word": "也门胡塞武装称向以色列发起打击",
-      "onboard_time": 1698794667,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 181994,
@@ -6057,6 +6209,14 @@
       "onboard_time": 1698504697,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179318,
+      "num": 179318,
+      "word": "加沙婴儿脱水成为日益严重的威胁",
+      "onboard_time": 1698801034,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 179151,
@@ -6267,6 +6427,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 174328,
+      "num": 174328,
+      "word": "老舅说不要找rapper当男朋友",
+      "onboard_time": 1698794786,
+      "rank": 47,
+      "category": "教育,演出"
+    },
+    {
       "raw_hot": 174103,
       "num": 174103,
       "word": "小米澎湃OS评测",
@@ -6387,6 +6555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170808,
+      "num": 170808,
+      "word": "YYF",
+      "onboard_time": 1698800793,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170747,
       "num": 170747,
       "word": "以色列大使说诚实国家都该断供联合国",
@@ -6425,6 +6601,14 @@
       "onboard_time": 1698585759,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169659,
+      "num": 169659,
+      "word": "13年的咆哮到底有多火",
+      "onboard_time": 1698798815,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 169626,
@@ -6529,6 +6713,14 @@
       "onboard_time": 1698729272,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166740,
+      "num": 166740,
+      "word": "刷酸长痘用药膏经验",
+      "onboard_time": 1698795688,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 166499,
@@ -7411,6 +7603,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 141846,
+      "num": 141846,
+      "word": "这种玉米怎么榴里榴气的",
+      "onboard_time": 1698797852,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 141495,
       "num": 141495,
       "word": "单依纯 我最近说错太多话了",
@@ -7835,6 +8035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 130462,
+      "num": 130462,
+      "word": "陈奕迅社交恐惧癌歌词版MV",
+      "onboard_time": 1698800732,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130413,
       "num": 130413,
       "word": "凯恩半场吊射破门",
@@ -7923,6 +8131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128814,
+      "num": 128814,
+      "word": "钟楚曦披肩长发",
+      "onboard_time": 1698797852,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128753,
       "num": 128753,
       "word": "黄凯细节的神",
@@ -7961,6 +8177,14 @@
       "onboard_time": 1698542556,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127882,
+      "num": 127882,
+      "word": "83岁奶奶日历密密麻麻写满工作安排",
+      "onboard_time": 1698799594,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127073,
@@ -8033,6 +8257,14 @@
       "onboard_time": 1698579034,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125346,
+      "num": 125346,
+      "word": "enhypen预告照",
+      "onboard_time": 1698800974,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 125284,
@@ -8163,6 +8395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "老人深夜迷路警民线上线下接力送回家",
+      "onboard_time": 1698800732,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121577,
       "num": 121577,
       "word": "田姬振solo出道",
@@ -8275,6 +8515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119627,
+      "num": 119627,
+      "word": "刘亦菲玫瑰故事披萨店路透",
+      "onboard_time": 1698794967,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119342,
       "num": 119342,
       "word": "WBG宵夜第一小分队合影",
@@ -8377,6 +8625,14 @@
       "onboard_time": 1698567452,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116791,
+      "num": 1147115,
+      "word": "11月起这些新规开始施行",
+      "onboard_time": 1698760536,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116478,
@@ -8649,14 +8905,6 @@
       "onboard_time": 1698746913,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 106553,
-      "num": 106553,
-      "word": "刘亦菲玫瑰故事披萨店路透",
-      "onboard_time": 1698794967,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 106490,
@@ -9043,14 +9291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84039,
-      "num": 439396,
-      "word": "11月起这些新规开始施行",
-      "onboard_time": 1698760536,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83070,
       "num": 83070,
       "word": "林俊杰演唱会",
@@ -9097,14 +9337,6 @@
       "onboard_time": 1698708686,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78958,
-      "num": 78958,
-      "word": "老舅说不要找rapper当男朋友",
-      "onboard_time": 1698794786,
-      "rank": 47,
-      "category": "教育,演出"
     },
     {
       "raw_hot": 77747,
