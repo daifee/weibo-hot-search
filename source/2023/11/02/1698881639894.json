@@ -1,0 +1,410 @@
+{
+  "runTime": 1698881639894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 672104,
+        "num": 672104,
+        "word": "反向泡脚 越泡越虚",
+        "onboard_time": 1698853415,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 644269,
+        "num": 644269,
+        "word": "男生住商场楼梯下超半年无人知晓",
+        "onboard_time": 1698851318,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54521,
+        "num": 525510,
+        "word": "6位航天员太空会面瞬间回顾",
+        "onboard_time": 1698842616,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1919577,
+        "num": 468705,
+        "word": "教体局通报女教师跳楼轻生事件",
+        "onboard_time": 1698853536,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 716664,
+        "num": 443116,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410062,
+        "num": 410062,
+        "word": "幼童高烧40度公交变救护车3分钟送医",
+        "onboard_time": 1698876736,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405354,
+        "num": 405354,
+        "word": "樊振东1比3李尚洙",
+        "onboard_time": 1698880705,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343730,
+        "num": 343730,
+        "word": "接了个大单没想到是贾乃亮",
+        "onboard_time": 1698836253,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313065,
+        "num": 313065,
+        "word": "海归博士985硕士求职因本科双非被刷",
+        "onboard_time": 1698880223,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268841,
+        "num": 268841,
+        "word": "美国宣布增兵中东",
+        "onboard_time": 1698846816,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 731570,
+        "num": 268045,
+        "word": "湖北大学",
+        "onboard_time": 1698850598,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526434,
+        "num": 267112,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 323664,
+        "num": 266090,
+        "word": "向佐 我只是长的凶",
+        "onboard_time": 1698880348,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264529,
+        "num": 264529,
+        "word": "46%过敏性鼻炎9年内会发展为哮喘",
+        "onboard_time": 1698864795,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264024,
+        "num": 264024,
+        "word": "30集的剧前29集是做梦",
+        "onboard_time": 1698845556,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241197,
+        "num": 241197,
+        "word": "大熊猫飞云搂着小象呼呼呼呼呼",
+        "onboard_time": 1698855091,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199726,
+        "num": 199726,
+        "word": "天津中德应用技术大学",
+        "onboard_time": 1698848561,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195290,
+        "num": 195290,
+        "word": "空腹有氧谁跳谁瘦",
+        "onboard_time": 1698875415,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176735,
+        "num": 176735,
+        "word": "曼联0比3纽卡",
+        "onboard_time": 1698880527,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165395,
+        "num": 165395,
+        "word": "美依礼芽外网表白中国粉丝",
+        "onboard_time": 1698854554,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412850,
+        "num": 162479,
+        "word": "印度男子强奸女大学生后倒水毁证据",
+        "onboard_time": 1698833372,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192669,
+        "num": 160474,
+        "word": "妈妈51岁我才知道她没买社保",
+        "onboard_time": 1698836253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156661,
+        "num": 156661,
+        "word": "王一博于适 星辰大海双C位",
+        "onboard_time": 1698845256,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152132,
+        "num": 152132,
+        "word": "迪丽热巴李慧珍属性大爆发",
+        "onboard_time": 1698854432,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136540,
+        "num": 136540,
+        "word": "向佐 大家不能靠长相判刑吧",
+        "onboard_time": 1698842972,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135699,
+        "num": 135699,
+        "word": "下一站幸福导演陈慧翎去世",
+        "onboard_time": 1698844835,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134585,
+        "num": 134585,
+        "word": "内娱天选现偶男主脸",
+        "onboard_time": 1698837514,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132326,
+        "num": 132326,
+        "word": "于正 下部剧让王星越周也往死里甜",
+        "onboard_time": 1698848677,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127620,
+        "num": 127620,
+        "word": "问路老人和指路女孩时隔4年相聚了",
+        "onboard_time": 1698856645,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123199,
+        "num": 123199,
+        "word": "WTT法兰克福冠军赛2023",
+        "onboard_time": 1698854132,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149260,
+        "num": 123152,
+        "word": "王安宇肉眼可见的憔悴了",
+        "onboard_time": 1698880586,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123093,
+        "num": 123093,
+        "word": "西安网红猴芭娜娜现身与民警斗智斗勇",
+        "onboard_time": 1698880106,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117351,
+        "num": 117351,
+        "word": "全球第二例猪心脏移植患者6周后去世",
+        "onboard_time": 1698843513,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108687,
+        "num": 108687,
+        "word": "外卖烧烤店直接改名叫炸串店吧",
+        "onboard_time": 1698846575,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108213,
+        "num": 108213,
+        "word": "水庆霞道歉",
+        "onboard_time": 1698852875,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109651,
+        "num": 108134,
+        "word": "王安宇听到辛芷蕾丢1500的反应",
+        "onboard_time": 1698858681,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107392,
+        "num": 107392,
+        "word": "陈梦 女单",
+        "onboard_time": 1698851496,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101011,
+        "num": 101011,
+        "word": "霉霉 没人比我更了解戏精男",
+        "onboard_time": 1698853834,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96793,
+        "num": 96793,
+        "word": "大伯拒做心电图医生软磨硬泡救回一命",
+        "onboard_time": 1698880164,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92216,
+        "num": 92216,
+        "word": "47岁派出所所长生前最后一通电话",
+        "onboard_time": 1698881067,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85048,
+        "num": 85048,
+        "word": "张拿铁姥爷和奶奶太可爱了",
+        "onboard_time": 1698856348,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84723,
+        "num": 84723,
+        "word": "男子晒控糖一年身体变化",
+        "onboard_time": 1698830315,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84681,
+        "num": 84681,
+        "word": "张栋梁第一次当卧底失败的原因",
+        "onboard_time": 1698858741,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84205,
+        "num": 84205,
+        "word": "富婆为什么会被博士骗",
+        "onboard_time": 1698846397,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84150,
+        "num": 84150,
+        "word": "女孩马路边睡醒警察到了才开口",
+        "onboard_time": 1698880106,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83295,
+        "num": 83295,
+        "word": "梅西中国行取消",
+        "onboard_time": 1698840215,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82903,
+        "num": 82903,
+        "word": "被烫伤小朋友一个敬礼暖化护送民警",
+        "onboard_time": 1698881553,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 81877,
+        "num": 81877,
+        "word": "我在网上编故事月入十几万",
+        "onboard_time": 1698849878,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 80376,
+        "num": 80376,
+        "word": "傅首尔老刘拥抱的瞬间太阳出来了",
+        "onboard_time": 1698838713,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77073,
+        "num": 77073,
+        "word": "华浅只剩下仲溪午了",
+        "onboard_time": 1698881553,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}
