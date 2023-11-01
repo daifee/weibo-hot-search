@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698822984102,
+  "endTime": 1698824045247,
   "band_list": [
     {
       "raw_hot": 3091526,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482421,
+      "num": 280325,
+      "word": "温碧霞P图从不P老公",
+      "onboard_time": 1698819933,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1377308,
       "num": 1377308,
       "word": "迪丽姐热了吧",
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1181616,
-      "num": 280325,
-      "word": "温碧霞P图从不P老公",
-      "onboard_time": 1698819933,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1157889,
       "num": 1157889,
       "word": "中方回应加拿大政府手机禁用微信",
@@ -169,6 +169,14 @@
       "onboard_time": 1698757836,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 856873,
+      "num": 277399,
+      "word": "月经周期短会有什么影响吗",
+      "onboard_time": 1698821912,
+      "rank": 13,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 821493,
@@ -217,6 +225,14 @@
       "onboard_time": 1698796713,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 732174,
+      "num": 270693,
+      "word": "孙俪背沟",
+      "onboard_time": 1698821369,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 700546,
@@ -379,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 496460,
-      "num": 277399,
-      "word": "月经周期短会有什么影响吗",
-      "onboard_time": 1698821912,
-      "rank": 13,
-      "category": "健康医疗,知识科普"
-    },
-    {
       "raw_hot": 494982,
       "num": 386551,
       "word": "穷奇cos 魔尊重楼",
@@ -425,14 +433,6 @@
       "onboard_time": 1698796955,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 445731,
-      "num": 270693,
-      "word": "孙俪背沟",
-      "onboard_time": 1698821369,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 444271,
@@ -595,6 +595,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 337410,
+      "num": 337410,
+      "word": "辛芷蕾说我想结婚",
+      "onboard_time": 1698820531,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336983,
       "num": 307194,
       "word": "Ricky直播被工作人员训斥",
@@ -625,14 +633,6 @@
       "onboard_time": 1698804752,
       "rank": 18,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 324384,
-      "num": 281036,
-      "word": "辛芷蕾说我想结婚",
-      "onboard_time": 1698820531,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 323560,
@@ -675,20 +675,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 312758,
+      "num": 257003,
+      "word": "李咏女儿气场",
+      "onboard_time": 1698818853,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312168,
       "num": 312168,
       "word": "马刺20分逆转太阳",
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308091,
-      "num": 257003,
-      "word": "李咏女儿气场",
-      "onboard_time": 1698818853,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 306258,
@@ -883,6 +883,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 249110,
+      "num": 197494,
+      "word": "花少团集体被王安宇卷懵",
+      "onboard_time": 1698822096,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248236,
       "num": 248236,
       "word": "秦霄贤说兄弟媳妇儿多看不了一点",
@@ -931,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 240824,
-      "num": 191267,
-      "word": "花少团集体被王安宇卷懵",
-      "onboard_time": 1698822096,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239680,
       "num": 239680,
       "word": "八年花了12万网购的感受",
@@ -972,11 +972,19 @@
     },
     {
       "raw_hot": 235213,
-      "num": 155809,
+      "num": 213967,
       "word": "梅西辟谣打脸巴萨随队记者",
       "onboard_time": 1698821431,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233088,
+      "num": 196125,
+      "word": "白鹿的伞升级了",
+      "onboard_time": 1698823471,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 231686,
@@ -1067,12 +1075,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216434,
+      "num": 189487,
+      "word": "迪丽热巴极速爱情",
+      "onboard_time": 1698822989,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214478,
       "num": 214478,
       "word": "于适好像在花样游泳",
       "onboard_time": 1698801694,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213078,
+      "num": 294493,
+      "word": "第36届中国电影金鸡奖",
+      "onboard_time": 1698822872,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 212470,
@@ -1291,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186126,
+      "num": 186126,
+      "word": "王安宇像在rua狗",
+      "onboard_time": 1698823832,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186055,
       "num": 186055,
       "word": "大可不必指责过洋节的年轻人崇洋媚外",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1698794786,
       "rank": 47,
       "category": "教育,演出"
+    },
+    {
+      "raw_hot": 174164,
+      "num": 174164,
+      "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
+      "onboard_time": 1698823896,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 171155,
@@ -1515,20 +1555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158805,
+      "num": 156211,
+      "word": "首款国产5G基站核心芯片上架淘宝",
+      "onboard_time": 1698820296,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158055,
       "num": 158055,
       "word": "巨人 艾伦三笠共用围巾",
       "onboard_time": 1698807331,
       "rank": 44,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 156211,
-      "num": 156211,
-      "word": "首款国产5G基站核心芯片上架淘宝",
-      "onboard_time": 1698820296,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155783,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1698802232,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154134,
+      "num": 132336,
+      "word": "徐穗珍solo概念照",
+      "onboard_time": 1698823173,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153322,
@@ -1683,12 +1731,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133675,
+      "num": 133675,
+      "word": "秋日限定壁纸",
+      "onboard_time": 1698821369,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132558,
       "num": 132558,
       "word": "AI上岗紧箍咒式提醒骑电动戴头盔",
       "onboard_time": 1698810512,
       "rank": 46,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 132468,
+      "num": 132468,
+      "word": "巨石强森cos贝克汉姆",
+      "onboard_time": 1698823232,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131999,
+      "num": 131999,
+      "word": "消防下班喝奶茶顺便灭了个火",
+      "onboard_time": 1698822572,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130462,
@@ -1721,14 +1793,6 @@
       "onboard_time": 1698794426,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126990,
-      "num": 126990,
-      "word": "秋日限定壁纸",
-      "onboard_time": 1698821369,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126804,
@@ -1803,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118868,
-      "num": 118868,
-      "word": "第36届中国电影金鸡奖",
-      "onboard_time": 1698822872,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118849,
       "num": 118849,
       "word": "THE9再现出道公式照",
@@ -1832,14 +1888,6 @@
       "word": "11月起这些新规开始施行",
       "onboard_time": 1698760536,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112930,
-      "num": 112930,
-      "word": "消防下班喝奶茶顺便灭了个火",
-      "onboard_time": 1698822572,
-      "rank": 43,
       "category": "社会新闻"
     },
     {

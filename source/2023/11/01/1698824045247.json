@@ -1,0 +1,410 @@
+{
+  "runTime": 1698824045247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220882,
+        "num": 1220882,
+        "word": "迪丽姐热了吧",
+        "onboard_time": 1698814597,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598203,
+        "num": 598203,
+        "word": "安踏回应ANTA是拼音还是英文",
+        "onboard_time": 1698815256,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24835,
+        "num": 501595,
+        "word": "2023进博会亮点抢先看",
+        "onboard_time": 1698814175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874226,
+        "num": 499593,
+        "word": "知情人回应00后女老师跳楼身亡",
+        "onboard_time": 1698815913,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450879,
+        "num": 450879,
+        "word": "儿童掉入污水井两成人施救遇难",
+        "onboard_time": 1698820713,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501580,
+        "num": 437660,
+        "word": "成都被狗咬女童右肾已保住",
+        "onboard_time": 1698818974,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421517,
+        "num": 421517,
+        "word": "这英被父母扫兴了20年",
+        "onboard_time": 1698809433,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337410,
+        "num": 337410,
+        "word": "辛芷蕾说我想结婚",
+        "onboard_time": 1698820531,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213078,
+        "num": 294493,
+        "word": "第36届中国电影金鸡奖",
+        "onboard_time": 1698822872,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272509,
+        "num": 272509,
+        "word": "胡先煦帮迪丽热巴解围",
+        "onboard_time": 1698818253,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1893523,
+        "num": 269832,
+        "word": "向太 别再说我和媳妇的关系",
+        "onboard_time": 1698815856,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1482421,
+        "num": 267573,
+        "word": "温碧霞P图从不P老公",
+        "onboard_time": 1698819933,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856873,
+        "num": 262334,
+        "word": "月经周期短会有什么影响吗",
+        "onboard_time": 1698821912,
+        "rank": 12,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 391654,
+        "num": 254982,
+        "word": "00后女老师自杀校方拒绝家属看监控",
+        "onboard_time": 1698813575,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 282450,
+        "num": 254017,
+        "word": "穷奇cos 魔尊重楼",
+        "onboard_time": 1698818733,
+        "rank": 14,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 793234,
+        "num": 247080,
+        "word": "向太coser晒装扮价格",
+        "onboard_time": 1698816993,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732174,
+        "num": 244581,
+        "word": "孙俪背沟",
+        "onboard_time": 1698821369,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 527361,
+        "num": 238760,
+        "word": "华莎演出被判无淫乱嫌疑",
+        "onboard_time": 1698813758,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236059,
+        "num": 236059,
+        "word": "不孕不育一半以上原因在男性",
+        "onboard_time": 1698807870,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213967,
+        "num": 213967,
+        "word": "梅西辟谣打脸巴萨随队记者",
+        "onboard_time": 1698821431,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208557,
+        "num": 208557,
+        "word": "中国海警依法管控日非法进我钓鱼岛领海船只",
+        "onboard_time": 1698817414,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 486023,
+        "num": 207150,
+        "word": "刘家昌曝儿子多次被退学",
+        "onboard_time": 1698809552,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322859,
+        "num": 204633,
+        "word": "乃万cos迪达拉",
+        "onboard_time": 1698820413,
+        "rank": 22,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 312758,
+        "num": 203131,
+        "word": "李咏女儿气场",
+        "onboard_time": 1698818853,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237866,
+        "num": 200683,
+        "word": "给初次怀孕的姐妹的小建议",
+        "onboard_time": 1698818314,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 249110,
+        "num": 197494,
+        "word": "花少团集体被王安宇卷懵",
+        "onboard_time": 1698822096,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233088,
+        "num": 196125,
+        "word": "白鹿的伞升级了",
+        "onboard_time": 1698823471,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194886,
+        "num": 194886,
+        "word": "曹操偏头痛的原因找到了",
+        "onboard_time": 1698819813,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194634,
+        "num": 194634,
+        "word": "眠狼离职",
+        "onboard_time": 1698818557,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 190639,
+        "word": "女教师辞职拍飞机6年拍几十万张",
+        "onboard_time": 1698808771,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216434,
+        "num": 189487,
+        "word": "迪丽热巴极速爱情",
+        "onboard_time": 1698822989,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187071,
+        "num": 187071,
+        "word": "万圣节宋焰cos",
+        "onboard_time": 1698807570,
+        "rank": 31,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 186126,
+        "num": 186126,
+        "word": "王安宇像在rua狗",
+        "onboard_time": 1698823832,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174164,
+        "num": 174164,
+        "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
+        "onboard_time": 1698823896,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135152,
+        "num": 135152,
+        "word": "不会贴假睫毛的有福了",
+        "onboard_time": 1698821132,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172258,
+        "num": 134561,
+        "word": "千纸鹤颠婆",
+        "onboard_time": 1698817654,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159876,
+        "num": 134410,
+        "word": "星辰大海给于适P了内搭",
+        "onboard_time": 1698819097,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133675,
+        "num": 133675,
+        "word": "秋日限定壁纸",
+        "onboard_time": 1698821369,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 132468,
+        "word": "巨石强森cos贝克汉姆",
+        "onboard_time": 1698823232,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158805,
+        "num": 132371,
+        "word": "首款国产5G基站核心芯片上架淘宝",
+        "onboard_time": 1698820296,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154134,
+        "num": 132336,
+        "word": "徐穗珍solo概念照",
+        "onboard_time": 1698823173,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142466,
+        "num": 132232,
+        "word": "吴承恩作品票房59亿",
+        "onboard_time": 1698801215,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136604,
+        "num": 132096,
+        "word": "张小斐 突破",
+        "onboard_time": 1698821311,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131999,
+        "num": 131999,
+        "word": "消防下班喝奶茶顺便灭了个火",
+        "onboard_time": 1698822572,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127157,
+        "num": 127157,
+        "word": "这眼神何止是会爱人啊",
+        "onboard_time": 1698818673,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110970,
+        "num": 110970,
+        "word": "马特乌斯说梅西不配金球奖",
+        "onboard_time": 1698820953,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107588,
+        "num": 110906,
+        "word": "承包户收割白术遭上百村民哄抢",
+        "onboard_time": 1698815976,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106689,
+        "num": 110841,
+        "word": "张镇麟",
+        "onboard_time": 1698812497,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95105,
+        "num": 110755,
+        "word": "50人众筹82年拉菲每人15毫升",
+        "onboard_time": 1698816936,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86855,
+        "num": 110671,
+        "word": "边伯贤将在英雄联盟开幕式表演",
+        "onboard_time": 1698814776,
+        "rank": 49,
+        "category": "电竞,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}

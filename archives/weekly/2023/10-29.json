@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698822984102,
+  "endTime": 1698824045247,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1482421,
+      "num": 280325,
+      "word": "温碧霞P图从不P老公",
+      "onboard_time": 1698819933,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1479329,
       "num": 527052,
       "word": "这英cos那英",
@@ -649,14 +657,6 @@
       "onboard_time": 1698752369,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1181616,
-      "num": 280325,
-      "word": "温碧霞P图从不P老公",
-      "onboard_time": 1698819933,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1177180,
@@ -1051,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 856873,
+      "num": 277399,
+      "word": "月经周期短会有什么影响吗",
+      "onboard_time": 1698821912,
+      "rank": 13,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 855605,
       "num": 267975,
       "word": "万圣节cos乙方",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1698629431,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 732174,
+      "num": 270693,
+      "word": "孙俪背沟",
+      "onboard_time": 1698821369,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 730586,
@@ -2355,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496460,
-      "num": 277399,
-      "word": "月经周期短会有什么影响吗",
-      "onboard_time": 1698821912,
-      "rank": 13,
-      "category": "健康医疗,知识科普"
-    },
-    {
       "raw_hot": 496240,
       "num": 351548,
       "word": "李善均全慧珍紧急送小儿子出国",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1698741870,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 445731,
-      "num": 270693,
-      "word": "孙俪背沟",
-      "onboard_time": 1698821369,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 444271,
@@ -3435,6 +3435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 337410,
+      "num": 337410,
+      "word": "辛芷蕾说我想结婚",
+      "onboard_time": 1698820531,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337235,
       "num": 337235,
       "word": "秦岚迪丽热巴胡先煦炸鸡三人组",
@@ -3579,14 +3587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324384,
-      "num": 281036,
-      "word": "辛芷蕾说我想结婚",
-      "onboard_time": 1698820531,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323560,
       "num": 317290,
       "word": "1岁娃因妈妈不让开抽屉哭晕送医",
@@ -3675,6 +3675,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 312758,
+      "num": 257003,
+      "word": "李咏女儿气场",
+      "onboard_time": 1698818853,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312699,
       "num": 312699,
       "word": "AG",
@@ -3729,14 +3737,6 @@
       "onboard_time": 1698732331,
       "rank": 21,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 308091,
-      "num": 257003,
-      "word": "李咏女儿气场",
-      "onboard_time": 1698818853,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 307658,
@@ -4667,6 +4667,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 249110,
+      "num": 197494,
+      "word": "花少团集体被王安宇卷懵",
+      "onboard_time": 1698822096,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249037,
       "num": 176888,
       "word": "JustinBieber万圣节潜水造型",
@@ -4915,14 +4923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240824,
-      "num": 191267,
-      "word": "花少团集体被王安宇卷懵",
-      "onboard_time": 1698822096,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239960,
       "num": 239960,
       "word": "张大仙 欢迎来到王者荣耀",
@@ -5100,7 +5100,7 @@
     },
     {
       "raw_hot": 235213,
-      "num": 155809,
+      "num": 213967,
       "word": "梅西辟谣打脸巴萨随队记者",
       "onboard_time": 1698821431,
       "rank": 30,
@@ -5137,6 +5137,14 @@
       "onboard_time": 1698627754,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233088,
+      "num": 196125,
+      "word": "白鹿的伞升级了",
+      "onboard_time": 1698823471,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 232694,
@@ -5523,6 +5531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216434,
+      "num": 189487,
+      "word": "迪丽热巴极速爱情",
+      "onboard_time": 1698822989,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216197,
       "num": 216197,
       "word": "陈都灵演花千骨",
@@ -5593,6 +5609,14 @@
       "onboard_time": 1698721114,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213078,
+      "num": 294493,
+      "word": "第36届中国电影金鸡奖",
+      "onboard_time": 1698822872,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 212923,
@@ -6891,6 +6915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186126,
+      "num": 186126,
+      "word": "王安宇像在rua狗",
+      "onboard_time": 1698823832,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186055,
       "num": 186055,
       "word": "大可不必指责过洋节的年轻人崇洋媚外",
@@ -7361,6 +7393,14 @@
       "onboard_time": 1698794786,
       "rank": 47,
       "category": "教育,演出"
+    },
+    {
+      "raw_hot": 174164,
+      "num": 174164,
+      "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
+      "onboard_time": 1698823896,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 174103,
@@ -8019,6 +8059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158805,
+      "num": 156211,
+      "word": "首款国产5G基站核心芯片上架淘宝",
+      "onboard_time": 1698820296,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158588,
       "num": 158588,
       "word": "王安宇导游后遗症",
@@ -8107,14 +8155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156211,
-      "num": 156211,
-      "word": "首款国产5G基站核心芯片上架淘宝",
-      "onboard_time": 1698820296,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155879,
       "num": 155879,
       "word": "周也待播现偶男主檀健次林一",
@@ -8201,6 +8241,14 @@
       "onboard_time": 1698593015,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154134,
+      "num": 132336,
+      "word": "徐穗珍solo概念照",
+      "onboard_time": 1698823173,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 154050,
@@ -8963,6 +9011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133675,
+      "num": 133675,
+      "word": "秋日限定壁纸",
+      "onboard_time": 1698821369,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133363,
       "num": 496487,
       "word": "16岁溺水少年手写感谢信赠民警",
@@ -9043,6 +9099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132468,
+      "num": 132468,
+      "word": "巨石强森cos贝克汉姆",
+      "onboard_time": 1698823232,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132393,
       "num": 132393,
       "word": "95后女孩开公司允许带宠物上班",
@@ -9073,6 +9137,14 @@
       "onboard_time": 1698661413,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131999,
+      "num": 131999,
+      "word": "消防下班喝奶茶顺便灭了个火",
+      "onboard_time": 1698822572,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131766,
@@ -9305,14 +9377,6 @@
       "onboard_time": 1698794426,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126990,
-      "num": 126990,
-      "word": "秋日限定壁纸",
-      "onboard_time": 1698821369,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126961,
@@ -9675,14 +9739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118868,
-      "num": 118868,
-      "word": "第36届中国电影金鸡奖",
-      "onboard_time": 1698822872,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118811,
       "num": 141471,
       "word": "研究表明金星早期或能孕育生命",
@@ -9905,14 +9961,6 @@
       "onboard_time": 1698495696,
       "rank": 48,
       "category": "游戏,演出"
-    },
-    {
-      "raw_hot": 112930,
-      "num": 112930,
-      "word": "消防下班喝奶茶顺便灭了个火",
-      "onboard_time": 1698822572,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112912,
