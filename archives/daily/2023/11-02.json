@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698876965226,
+  "endTime": 1698878038886,
   "band_list": [
     {
       "raw_hot": 1875278,
@@ -443,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97502,
-      "num": 97502,
+      "raw_hot": 102787,
+      "num": 102787,
       "word": "46%过敏性鼻炎9年内会发展为哮喘",
       "onboard_time": 1698864795,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90755,
+      "num": 90755,
+      "word": "幼童高烧40度公交变救护车3分钟送医",
+      "onboard_time": 1698876736,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74185,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73910,
+      "num": 73910,
+      "word": "空腹有氧谁跳谁瘦",
+      "onboard_time": 1698875415,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 64566,
       "num": 64566,
       "word": "内娱天选现偶男主脸",
@@ -467,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63202,
+      "num": 63202,
+      "word": "王一博于适 星辰大海双C位",
+      "onboard_time": 1698845256,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58689,
       "num": 58689,
       "word": "王鹤棣原声",
       "onboard_time": 1698840934,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54389,
-      "num": 54389,
-      "word": "王一博于适 星辰大海双C位",
-      "onboard_time": 1698845256,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 49765,
@@ -523,16 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36182,
-      "num": 36182,
-      "word": "空腹有氧谁跳谁瘦",
-      "onboard_time": 1698875415,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 29202,
-      "num": 28008,
+      "num": 37954,
       "word": "亲历者讲述缅甸战事波及云南边境小镇",
       "onboard_time": 1698866594,
       "rank": 35,
@@ -545,14 +553,6 @@
       "onboard_time": 1698841715,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20439,
-      "num": 28000,
-      "word": "幼童高烧40度公交变救护车3分钟送医",
-      "onboard_time": 1698876736,
-      "rank": 45,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
