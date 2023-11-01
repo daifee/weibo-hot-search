@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698851895027,
+  "endTime": 1698852880326,
   "band_list": [
     {
       "raw_hot": 6292102,
@@ -265,6 +265,14 @@
       "onboard_time": 1698552931,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2035331,
+      "num": 480311,
+      "word": "湖北大学",
+      "onboard_time": 1698850598,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 2023630,
@@ -603,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1402092,
-      "num": 480311,
-      "word": "湖北大学",
-      "onboard_time": 1698850598,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1400461,
       "num": 1400461,
       "word": "秦海璐录完花少瘦了18斤",
@@ -929,6 +929,14 @@
       "onboard_time": 1698588215,
       "rank": 17,
       "category": "动漫,美妆"
+    },
+    {
+      "raw_hot": 1040217,
+      "num": 1040217,
+      "word": "陈梦 女单",
+      "onboard_time": 1698851496,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1039339,
@@ -2025,6 +2033,14 @@
       "onboard_time": 1698752011,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 618630,
+      "num": 618630,
+      "word": "这英 没有那姐哪来的我",
+      "onboard_time": 1698850598,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 618626,
@@ -3219,14 +3235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426471,
-      "num": 426471,
-      "word": "这英 没有那姐哪来的我",
-      "onboard_time": 1698850598,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 424809,
       "num": 424809,
       "word": "柿子拿铁",
@@ -3313,6 +3321,14 @@
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409931,
+      "num": 409931,
+      "word": "不敢想和秦岚一起旅行会多快乐",
+      "onboard_time": 1698851736,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 408749,
@@ -3729,14 +3745,6 @@
       "onboard_time": 1698751352,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 359306,
-      "num": 220644,
-      "word": "陈梦 女单",
-      "onboard_time": 1698851496,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 359178,
@@ -4627,6 +4635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286735,
+      "num": 227310,
+      "word": "男生住商场楼梯下超半年无人知晓",
+      "onboard_time": 1698851318,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286731,
       "num": 286731,
       "word": "加沙婴儿脱水成为日益严重的威胁",
@@ -5083,6 +5099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258931,
+      "num": 258931,
+      "word": "女兽医全粉妆造给牛羊做剖腹产",
+      "onboard_time": 1698850958,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258255,
       "num": 258255,
       "word": "陈伟霆刘雅瑟cos的谁",
@@ -5313,6 +5337,14 @@
       "onboard_time": 1698623791,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247253,
+      "num": 247253,
+      "word": "檀健次演唱会真的来了",
+      "onboard_time": 1698851318,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 247156,
@@ -5561,6 +5593,14 @@
       "onboard_time": 1698806190,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238913,
+      "num": 238913,
+      "word": "这是菅田将晖的万圣节cos吗",
+      "onboard_time": 1698852398,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238884,
@@ -6139,14 +6179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217967,
-      "num": 217967,
-      "word": "檀健次演唱会真的来了",
-      "onboard_time": 1698851318,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 217691,
       "num": 217691,
       "word": "国考抢考点",
@@ -6481,14 +6513,6 @@
       "onboard_time": 1698635492,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207192,
-      "num": 207192,
-      "word": "女兽医全粉妆造给牛羊做剖腹产",
-      "onboard_time": 1698850958,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207184,
@@ -6913,6 +6937,14 @@
       "onboard_time": 1698670173,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199134,
+      "num": 199134,
+      "word": "WTT",
+      "onboard_time": 1698587258,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 199055,
@@ -7691,6 +7723,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 186488,
+      "num": 186488,
+      "word": "农村妮终于迎来了自己的春天",
+      "onboard_time": 1698851258,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186416,
       "num": 186416,
       "word": "10月最后一天",
@@ -7840,14 +7880,6 @@
       "word": "02年小伙花180元从青岛坐公交来杭州",
       "onboard_time": 1698645871,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183239,
-      "num": 183239,
-      "word": "男生住商场楼梯下超半年无人知晓",
-      "onboard_time": 1698851318,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -8065,14 +8097,6 @@
       "onboard_time": 1698643291,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177993,
-      "num": 177993,
-      "word": "农村妮终于迎来了自己的春天",
-      "onboard_time": 1698851258,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 177883,
@@ -8563,6 +8587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167312,
+      "num": 167312,
+      "word": "我读书少感觉他们都在骗我",
+      "onboard_time": 1698851797,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167041,
       "num": 167041,
       "word": "NRG将对战WBG",
@@ -8697,14 +8729,6 @@
       "onboard_time": 1698640656,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164989,
-      "num": 164989,
-      "word": "不敢想和秦岚一起旅行会多快乐",
-      "onboard_time": 1698851736,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 164641,
@@ -9403,14 +9427,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 149173,
-      "num": 149173,
-      "word": "我读书少感觉他们都在骗我",
-      "onboard_time": 1698851797,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148950,
       "num": 148950,
       "word": "中国短道速滑队平安抵京",
@@ -9537,14 +9553,6 @@
       "onboard_time": 1698665432,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146071,
-      "num": 146071,
-      "word": "WTT",
-      "onboard_time": 1698587258,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 146012,

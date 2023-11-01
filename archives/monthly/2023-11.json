@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698851895027,
+  "endTime": 1698852880326,
   "band_list": [
     {
       "raw_hot": 3213405,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2035331,
+      "num": 480311,
+      "word": "湖北大学",
+      "onboard_time": 1698850598,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2003173,
       "num": 2003173,
       "word": "刘家昌曝儿子多次被退学",
@@ -169,14 +177,6 @@
       "onboard_time": 1698819933,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1402092,
-      "num": 480311,
-      "word": "湖北大学",
-      "onboard_time": 1698850598,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 1379184,
@@ -289,6 +289,14 @@
       "onboard_time": 1698827430,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1040217,
+      "num": 1040217,
+      "word": "陈梦 女单",
+      "onboard_time": 1698851496,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1039283,
@@ -577,6 +585,14 @@
       "onboard_time": 1698846816,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 618630,
+      "num": 618630,
+      "word": "这英 没有那姐哪来的我",
+      "onboard_time": 1698850598,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 615177,
@@ -915,14 +931,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 426471,
-      "num": 426471,
-      "word": "这英 没有那姐哪来的我",
-      "onboard_time": 1698850598,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 422785,
       "num": 422785,
       "word": "傅首尔老刘拥抱的瞬间太阳出来了",
@@ -937,6 +945,14 @@
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409931,
+      "num": 409931,
+      "word": "不敢想和秦岚一起旅行会多快乐",
+      "onboard_time": 1698851736,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 407890,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1698835474,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 359306,
-      "num": 220644,
-      "word": "陈梦 女单",
-      "onboard_time": 1698851496,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 354377,
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286735,
+      "num": 227310,
+      "word": "男生住商场楼梯下超半年无人知晓",
+      "onboard_time": 1698851318,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286731,
       "num": 286731,
       "word": "加沙婴儿脱水成为日益严重的威胁",
@@ -1427,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258931,
+      "num": 258931,
+      "word": "女兽医全粉妆造给牛羊做剖腹产",
+      "onboard_time": 1698850958,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258253,
       "num": 258253,
       "word": "花少团集体被王安宇卷懵",
@@ -1507,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247253,
+      "num": 247253,
+      "word": "檀健次演唱会真的来了",
+      "onboard_time": 1698851318,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246994,
       "num": 246994,
       "word": "赵昭仪一晚上找了秦岚辛芷蕾五次",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1698806190,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238913,
+      "num": 238913,
+      "word": "这是菅田将晖的万圣节cos吗",
+      "onboard_time": 1698852398,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236291,
@@ -1731,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217967,
-      "num": 217967,
-      "word": "檀健次演唱会真的来了",
-      "onboard_time": 1698851318,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 217691,
       "num": 217691,
       "word": "国考抢考点",
@@ -1851,14 +1883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207192,
-      "num": 207192,
-      "word": "女兽医全粉妆造给牛羊做剖腹产",
-      "onboard_time": 1698850958,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207053,
       "num": 207053,
       "word": "中国女足1比1韩国女足",
@@ -1928,6 +1952,14 @@
       "word": "快船老板亲自迎接哈登",
       "onboard_time": 1698804212,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199134,
+      "num": 199134,
+      "word": "WTT",
+      "onboard_time": 1698852096,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2147,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186488,
+      "num": 186488,
+      "word": "农村妮终于迎来了自己的春天",
+      "onboard_time": 1698851258,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186055,
       "num": 186055,
       "word": "大可不必指责过洋节的年轻人崇洋媚外",
@@ -2203,14 +2243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 183239,
-      "num": 183239,
-      "word": "男生住商场楼梯下超半年无人知晓",
-      "onboard_time": 1698851318,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "2023vivo开发者大会",
@@ -2249,14 +2281,6 @@
       "onboard_time": 1698827132,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177993,
-      "num": 177993,
-      "word": "农村妮终于迎来了自己的春天",
-      "onboard_time": 1698851258,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 177883,
@@ -2387,6 +2411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167312,
+      "num": 167312,
+      "word": "我读书少感觉他们都在骗我",
+      "onboard_time": 1698851797,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166842,
       "num": 166842,
       "word": "天津中德应用技术大学",
@@ -2433,14 +2465,6 @@
       "onboard_time": 1698787453,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164989,
-      "num": 164989,
-      "word": "不敢想和秦岚一起旅行会多快乐",
-      "onboard_time": 1698851736,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 163249,
@@ -2656,14 +2680,6 @@
       "word": "周深岁岁青莲主题曲似夏",
       "onboard_time": 1698809552,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 149173,
-      "num": 149173,
-      "word": "我读书少感觉他们都在骗我",
-      "onboard_time": 1698851797,
-      "rank": 47,
       "category": "剧集"
     },
     {
