@@ -1,0 +1,410 @@
+{
+  "runTime": 1698902190684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3582668,
+        "num": 3582668,
+        "word": "香港特区政府下半旗悼念李克强",
+        "onboard_time": 1698901479,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2404666,
+        "num": 2404666,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43389,
+        "num": 1739438,
+        "word": "中国计划开启太阳立体探测时代",
+        "onboard_time": 1698901598,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1563412,
+        "num": 1563412,
+        "word": "湖大冲突事件双方达成谅解",
+        "onboard_time": 1698896733,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 878387,
+        "num": 878387,
+        "word": "高校通报贫困生举报助学金名额被挤",
+        "onboard_time": 1698896192,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 768063,
+        "num": 768063,
+        "word": "克莱绝杀",
+        "onboard_time": 1698899799,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713899,
+        "num": 713899,
+        "word": "年轻人逛商场只去B1B2",
+        "onboard_time": 1698894512,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 568748,
+        "num": 568748,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1698898716,
+        "rank": 7,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 445338,
+        "num": 445338,
+        "word": "被解聘医院员工发声",
+        "onboard_time": 1698899980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412515,
+        "num": 412515,
+        "word": "林孝埈 精卫",
+        "onboard_time": 1698898417,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1277520,
+        "num": 408037,
+        "word": "贾静雯发文悼念陈慧翎",
+        "onboard_time": 1698899017,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1258299,
+        "num": 393622,
+        "word": "刘亚仁教唆他人吸毒",
+        "onboard_time": 1698897754,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1101012,
+        "num": 389830,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 925164,
+        "num": 373326,
+        "word": "剧版左耳",
+        "onboard_time": 1698900220,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561053,
+        "num": 363040,
+        "word": "为有暗香来 植物人昏迷两年爱上护工",
+        "onboard_time": 1698897995,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525319,
+        "num": 358145,
+        "word": "天官赐福花城穿了光腿神器",
+        "onboard_time": 1698900938,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 476587,
+        "num": 347181,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343046,
+        "num": 343046,
+        "word": "缅甸",
+        "onboard_time": 1698887258,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 333274,
+        "num": 333274,
+        "word": "傅首尔是在告别吗",
+        "onboard_time": 1698882452,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325897,
+        "num": 325897,
+        "word": "仙剑4要来了",
+        "onboard_time": 1698884862,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527212,
+        "num": 317059,
+        "word": "女孩吃小粉丸瘦到50斤多器官出血",
+        "onboard_time": 1698893014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307132,
+        "num": 307132,
+        "word": "健身房回应女子欲退款被扣13万手续费",
+        "onboard_time": 1698897754,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299535,
+        "num": 299535,
+        "word": "迪丽热巴 大家都减轻彼此负担吧",
+        "onboard_time": 1698892535,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293536,
+        "num": 293536,
+        "word": "36岁男子脑死亡捐器官救5人",
+        "onboard_time": 1698894395,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 285379,
+        "num": 285379,
+        "word": "松弛感半扎发",
+        "onboard_time": 1698899261,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 284594,
+        "num": 284594,
+        "word": "快船vs湖人",
+        "onboard_time": 1698893732,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272828,
+        "num": 272828,
+        "word": "吴慷仁悼念导演陈慧翎",
+        "onboard_time": 1698900400,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260536,
+        "num": 260536,
+        "word": "突然意识到看鞋识人很不礼貌",
+        "onboard_time": 1698894573,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259657,
+        "num": 259657,
+        "word": "湖北大学保卫处回应情侣与校外人冲突",
+        "onboard_time": 1698887497,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255154,
+        "num": 255154,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269282,
+        "num": 254346,
+        "word": "NBA 解说",
+        "onboard_time": 1698899619,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251430,
+        "num": 251430,
+        "word": "陈慧翎将举行树葬",
+        "onboard_time": 1698900159,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247275,
+        "num": 247275,
+        "word": "于正 我讨厌oe喜欢1V1",
+        "onboard_time": 1698893253,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237650,
+        "num": 237650,
+        "word": "梁朝伟 他的双眼是整个世代的眷恋",
+        "onboard_time": 1698896312,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236404,
+        "num": 236404,
+        "word": "秦岚说嗓子没好辛芷蕾得负一半责任",
+        "onboard_time": 1698895351,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234908,
+        "num": 234908,
+        "word": "福岛第一核电站核废液溅射量超此前估算",
+        "onboard_time": 1698895049,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 224926,
+        "num": 224926,
+        "word": "天官赐福花怜名场面",
+        "onboard_time": 1698896792,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 220546,
+        "num": 220546,
+        "word": "离世女教师加班数石榴系谣言",
+        "onboard_time": 1698883295,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195482,
+        "num": 195482,
+        "word": "keshi上海抢票",
+        "onboard_time": 1698900521,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192132,
+        "num": 192132,
+        "word": "花儿与少年5",
+        "onboard_time": 1698900759,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183980,
+        "num": 183980,
+        "word": "职业替身影视化",
+        "onboard_time": 1698897876,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181879,
+        "num": 181879,
+        "word": "美军导弹试射突发异常被迫引爆",
+        "onboard_time": 1698897695,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175163,
+        "num": 175163,
+        "word": "LE SSERAFIM观看洛城德比",
+        "onboard_time": 1698901896,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 174505,
+        "num": 174505,
+        "word": "港星林皓霆去世",
+        "onboard_time": 1698888875,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168207,
+        "num": 168207,
+        "word": "我使馆回应日本第三批核污染水排海",
+        "onboard_time": 1698896192,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 165700,
+        "num": 165700,
+        "word": "TS与勇士梦幻联动",
+        "onboard_time": 1698899799,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153461,
+        "num": 153461,
+        "word": "苹果取消AppleWatch应用兼容安卓计划",
+        "onboard_time": 1698887379,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139667,
+        "num": 139667,
+        "word": "多彩发色参考",
+        "onboard_time": 1698900997,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 136424,
+        "num": 136424,
+        "word": "漫威没有好剧本复活谁都没用",
+        "onboard_time": 1698898596,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129341,
+        "num": 129341,
+        "word": "林俊杰告黑获赔2万",
+        "onboard_time": 1698897272,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在奋力奔跑和接续奋斗中成就梦想#"
+    }
+  }
+}

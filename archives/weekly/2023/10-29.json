@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698899678540,
+  "endTime": 1698902190684,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -15,6 +15,14 @@
       "num": 7542102,
       "word": "李克强同志遗体11月2日火化",
       "onboard_time": 1698717808,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3582668,
+      "num": 3582668,
+      "word": "香港特区政府下半旗悼念李克强",
+      "onboard_time": 1698901479,
       "rank": 0,
       "category": "国内要闻"
     },
@@ -723,6 +731,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1277520,
+      "num": 408037,
+      "word": "贾静雯发文悼念陈慧翎",
+      "onboard_time": 1698899017,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1254294,
       "num": 840084,
       "word": "中国籍苹果女程序员在美飙车致男伴死亡",
@@ -1235,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925164,
+      "num": 373326,
+      "word": "剧版左耳",
+      "onboard_time": 1698900220,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 915276,
       "num": 915276,
       "word": "女毒贩为逃避刑罚6年生4娃",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1698652831,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 768063,
+      "num": 768063,
+      "word": "克莱绝杀",
+      "onboard_time": 1698899799,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 767355,
@@ -2268,7 +2300,7 @@
     },
     {
       "raw_hot": 611995,
-      "num": 379967,
+      "num": 412515,
       "word": "林孝埈 精卫",
       "onboard_time": 1698898417,
       "rank": 30,
@@ -2659,20 +2691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 563110,
-      "num": 375116,
-      "word": "贾静雯发文悼念陈慧翎",
-      "onboard_time": 1698899017,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 561427,
       "num": 521244,
       "word": "关智斌想和赵丽颖演伦理剧",
       "onboard_time": 1698637956,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561053,
+      "num": 367508,
+      "word": "为有暗香来 植物人昏迷两年爱上护工",
+      "onboard_time": 1698897995,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 559039,
@@ -2787,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547163,
-      "num": 367508,
-      "word": "为有暗香来 植物人昏迷两年爱上护工",
-      "onboard_time": 1698897995,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 545152,
       "num": 545152,
       "word": "常去的彩票店有人中了7400w",
@@ -2849,6 +2873,14 @@
       "onboard_time": 1698829413,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525319,
+      "num": 358145,
+      "word": "天官赐福花城穿了光腿神器",
+      "onboard_time": 1698900938,
+      "rank": 15,
+      "category": "动漫"
     },
     {
       "raw_hot": 524289,
@@ -3409,6 +3441,14 @@
       "onboard_time": 1698854432,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445338,
+      "num": 445338,
+      "word": "被解聘医院员工发声",
+      "onboard_time": 1698899980,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444271,
@@ -5195,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284594,
+      "num": 284594,
+      "word": "快船vs湖人",
+      "onboard_time": 1698893732,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284542,
       "num": 284542,
       "word": "港媒真的什么都敢问",
@@ -5355,6 +5403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272828,
+      "num": 272828,
+      "word": "吴慷仁悼念导演陈慧翎",
+      "onboard_time": 1698900400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272753,
       "num": 272753,
       "word": "徐志胜是懂cos的",
@@ -5473,6 +5529,14 @@
       "onboard_time": 1698501034,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 269282,
+      "num": 254346,
+      "word": "NBA 解说",
+      "onboard_time": 1698899619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 268825,
@@ -5849,6 +5913,14 @@
       "onboard_time": 1698767436,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 251430,
+      "num": 251430,
+      "word": "陈慧翎将举行树葬",
+      "onboard_time": 1698900159,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 251169,
@@ -7907,6 +7979,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 195482,
+      "num": 195482,
+      "word": "keshi上海抢票",
+      "onboard_time": 1698900521,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195283,
       "num": 195283,
       "word": "北京国安官方通报王刚肋骨骨折",
@@ -8123,12 +8203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191937,
-      "num": 191937,
-      "word": "快船vs湖人",
-      "onboard_time": 1698893732,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 192132,
+      "num": 192132,
+      "word": "花儿与少年5",
+      "onboard_time": 1698900759,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 191828,
@@ -9003,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175163,
+      "num": 175163,
+      "word": "LE SSERAFIM观看洛城德比",
+      "onboard_time": 1698901896,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 175045,
       "num": 175045,
       "word": "胡先煦cos蜘蛛侠",
@@ -9513,6 +9601,14 @@
       "onboard_time": 1698858741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165700,
+      "num": 165700,
+      "word": "TS与勇士梦幻联动",
+      "onboard_time": 1698899799,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 165675,
@@ -10747,6 +10843,14 @@
       "category": "教育,演出"
     },
     {
+      "raw_hot": 139667,
+      "num": 139667,
+      "word": "多彩发色参考",
+      "onboard_time": 1698900997,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139589,
       "num": 139589,
       "word": "梅花红桃",
@@ -10873,14 +10977,6 @@
       "onboard_time": 1698577954,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135664,
-      "num": 135664,
-      "word": "NBA 解说",
-      "onboard_time": 1698899619,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 135644,
@@ -13195,6 +13291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43389,
+      "num": 1739438,
+      "word": "中国计划开启太阳立体探测时代",
+      "onboard_time": 1698901598,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 42654,
       "num": 66940,
       "word": "陈丽君美得好英气",
@@ -13524,6 +13628,9 @@
     },
     {
       "word": "#中央金融工作会议释放重要信号#"
+    },
+    {
+      "word": "#在奋力奔跑和接续奋斗中成就梦想#"
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698899678540,
+  "endTime": 1698902190684,
   "band_list": [
     {
       "raw_hot": 7458191,
       "num": 7458191,
       "word": "天安门下半旗悼念李克强同志",
       "onboard_time": 1698884075,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3582668,
+      "num": 3582668,
+      "word": "香港特区政府下半旗悼念李克强",
+      "onboard_time": 1698901479,
       "rank": 0,
       "category": "国内要闻"
     },
@@ -65,6 +73,14 @@
       "onboard_time": 1698847479,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1277520,
+      "num": 408037,
+      "word": "贾静雯发文悼念陈慧翎",
+      "onboard_time": 1698899017,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236206,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925164,
+      "num": 373326,
+      "word": "剧版左耳",
+      "onboard_time": 1698900220,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 892251,
       "num": 892251,
       "word": "海归博士985硕士求职因本科双非被刷",
@@ -161,6 +185,14 @@
       "onboard_time": 1698890734,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768063,
+      "num": 768063,
+      "word": "克莱绝杀",
+      "onboard_time": 1698899799,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 746577,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 611995,
-      "num": 379967,
+      "num": 412515,
       "word": "林孝埈 精卫",
       "onboard_time": 1698898417,
       "rank": 30,
@@ -275,12 +307,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 563110,
-      "num": 375116,
-      "word": "贾静雯发文悼念陈慧翎",
-      "onboard_time": 1698899017,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 561053,
+      "num": 367508,
+      "word": "为有暗香来 植物人昏迷两年爱上护工",
+      "onboard_time": 1698897995,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 554888,
@@ -307,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547163,
-      "num": 367508,
-      "word": "为有暗香来 植物人昏迷两年爱上护工",
-      "onboard_time": 1698897995,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 525319,
+      "num": 358145,
+      "word": "天官赐福花城穿了光腿神器",
+      "onboard_time": 1698900938,
+      "rank": 15,
+      "category": "动漫"
     },
     {
       "raw_hot": 492115,
@@ -377,6 +409,14 @@
       "onboard_time": 1698854432,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445338,
+      "num": 445338,
+      "word": "被解聘医院员工发声",
+      "onboard_time": 1698899980,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441981,
@@ -635,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284594,
+      "num": 284594,
+      "word": "快船vs湖人",
+      "onboard_time": 1698893732,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282684,
       "num": 282684,
       "word": "五月天 还不开票",
@@ -683,11 +731,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272828,
+      "num": 272828,
+      "word": "吴慷仁悼念导演陈慧翎",
+      "onboard_time": 1698900400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270808,
       "num": 270808,
       "word": "梅西中国行主办方致歉",
       "onboard_time": 1698893072,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269282,
+      "num": 254346,
+      "word": "NBA 解说",
+      "onboard_time": 1698899619,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -745,6 +809,14 @@
       "onboard_time": 1698846397,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251430,
+      "num": 251430,
+      "word": "陈慧翎将举行树葬",
+      "onboard_time": 1698900159,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 246222,
@@ -891,12 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191937,
-      "num": 191937,
-      "word": "快船vs湖人",
-      "onboard_time": 1698893732,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 195482,
+      "num": 195482,
+      "word": "keshi上海抢票",
+      "onboard_time": 1698900521,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192132,
+      "num": 192132,
+      "word": "花儿与少年5",
+      "onboard_time": 1698900759,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 190650,
@@ -963,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175163,
+      "num": 175163,
+      "word": "LE SSERAFIM观看洛城德比",
+      "onboard_time": 1698901896,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1698858741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165700,
+      "num": 165700,
+      "word": "TS与勇士梦幻联动",
+      "onboard_time": 1698899799,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 158219,
@@ -1187,6 +1283,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 139667,
+      "num": 139667,
+      "word": "多彩发色参考",
+      "onboard_time": 1698900997,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 137916,
       "num": 137916,
       "word": "王安宇听到辛芷蕾丢1500的反应",
@@ -1208,14 +1312,6 @@
       "word": "梅西中国行取消",
       "onboard_time": 1698840215,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135664,
-      "num": 135664,
-      "word": "NBA 解说",
-      "onboard_time": 1698899619,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1395,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43389,
+      "num": 1739438,
+      "word": "中国计划开启太阳立体探测时代",
+      "onboard_time": 1698901598,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 40377,
       "num": 40377,
       "word": "世界上最长寿的狗Bobi去世",
@@ -1436,6 +1540,9 @@
     },
     {
       "word": "#推动高质量发展开创金融工作新局面#"
+    },
+    {
+      "word": "#在奋力奔跑和接续奋斗中成就梦想#"
     }
   ]
 }
