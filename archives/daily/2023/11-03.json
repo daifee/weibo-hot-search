@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698960864815,
+  "endTime": 1698963263566,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -323,6 +323,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 115127,
+      "num": 50270,
+      "word": "官方通报网传哄抢种植户药材事件",
+      "onboard_time": 1698959832,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113517,
       "num": 113517,
       "word": "长期不社交的结果",
@@ -435,6 +443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82554,
+      "num": 82554,
+      "word": "林丹丹否认曾担任恒大歌舞团团长",
+      "onboard_time": 1698961394,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81986,
+      "num": 33886,
+      "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
+      "onboard_time": 1698957974,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 81336,
       "num": 81336,
       "word": "消防员帮村民收稻谷这一幕好治愈",
@@ -483,14 +507,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 41945,
-      "num": 21567,
-      "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
-      "onboard_time": 1698957974,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 30902,
       "num": 30902,
       "word": "中式元素混搭妆",
@@ -499,12 +515,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 25818,
-      "num": 25818,
-      "word": "官方通报网传哄抢种植户药材事件",
-      "onboard_time": 1698959832,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 24267,
+      "num": 24267,
+      "word": "在纽约叫路人男给我买个包",
+      "onboard_time": 1698958754,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 22469,
@@ -515,16 +531,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17699,
-      "num": 17699,
-      "word": "在纽约叫路人男给我买个包",
-      "onboard_time": 1698958754,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 17084,
+      "num": 18390,
+      "word": "在现偶古偶反复爱上王鹤棣",
+      "onboard_time": 1698933277,
+      "rank": 49,
+      "category": "剧集"
     },
     {
-      "raw_hot": 15614,
-      "num": 15614,
+      "raw_hot": 16450,
+      "num": 18374,
       "word": "狗狗邀请主人一起玩时的小碎步",
       "onboard_time": 1698955272,
       "rank": 47,
@@ -553,14 +569,6 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11797,
-      "num": 13783,
-      "word": "在现偶古偶反复爱上王鹤棣",
-      "onboard_time": 1698933277,
-      "rank": 49,
-      "category": "剧集"
     }
   ],
   "hotgov_list": []
