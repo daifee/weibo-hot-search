@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/03 00:23:29 ~ 2023/11/03 01:34:09
+本榜单时间：2023/11/03 00:23:29 ~ 2023/11/03 02:22:03
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ ELLE红毯内场（热度：311196）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E5%85%83%E7%B4%A0%E6%B7%B7%E6%90%AD%E5%A6%86%23" target="weibo">
 中式元素混搭妆（热度：30902）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%95%BF%E5%B0%BE%E6%95%88%E5%BA%94%E5%A5%BD%E5%BC%BA%23" target="weibo">
+莲花楼长尾效应好强（热度：22469）
 </a>
 </li>
 

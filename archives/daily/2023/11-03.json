@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698946449143,
+  "endTime": 1698949323335,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -489,6 +489,14 @@
       "onboard_time": 1698944720,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 22469,
+      "num": 22469,
+      "word": "莲花楼长尾效应好强",
+      "onboard_time": 1698930634,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": []
