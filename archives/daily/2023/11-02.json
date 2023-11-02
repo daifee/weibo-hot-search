@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698888752905,
+  "endTime": 1698891814967,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1514754,
-      "num": 336847,
+      "num": 380329,
       "word": "傅首尔是在告别吗",
       "onboard_time": 1698882452,
       "rank": 11,
@@ -43,8 +43,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1236206,
+      "num": 636510,
+      "word": "湖北大学保卫处回应情侣与校外人冲突",
+      "onboard_time": 1698887497,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1097870,
-      "num": 334055,
+      "num": 385689,
       "word": "仙剑4要来了",
       "onboard_time": 1698884862,
       "rank": 12,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636510,
-      "num": 636510,
-      "word": "湖北大学保卫处回应情侣与校外人冲突",
-      "onboard_time": 1698887497,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625148,
       "num": 625148,
       "word": "苹果取消AppleWatch应用兼容安卓计划",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 614572,
-      "num": 301344,
+      "num": 359538,
       "word": "斯嘉丽起诉AI开发商",
       "onboard_time": 1698888160,
       "rank": 13,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 613542,
-      "num": 324515,
+      "num": 362510,
       "word": "漫威考虑复活钢铁侠黑寡妇",
       "onboard_time": 1698886538,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 593471,
+      "num": 374482,
+      "word": "港星林皓霆去世",
+      "onboard_time": 1698888875,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 589101,
@@ -209,6 +217,22 @@
       "onboard_time": 1698844835,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 456326,
+      "num": 456326,
+      "word": "日本开始第3轮核污染水排海",
+      "onboard_time": 1698890734,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450701,
+      "num": 450701,
+      "word": "把课间十分钟还给孩子",
+      "onboard_time": 1698889655,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 446078,
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387331,
+      "num": 387331,
+      "word": "中国护照里藏着祖国大好河山",
+      "onboard_time": 1698888575,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 387276,
       "num": 315342,
       "word": "声生不息中华季",
@@ -313,6 +345,14 @@
       "onboard_time": 1698884922,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 348902,
+      "num": 348902,
+      "word": "最简单判断自己脸型的方法",
+      "onboard_time": 1698889173,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 347623,
@@ -363,12 +403,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303165,
+      "num": 303165,
+      "word": "宋亚轩将参加声生不息中华季",
+      "onboard_time": 1698888875,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285895,
       "num": 285895,
       "word": "于正 下部剧让王星越周也往死里甜",
       "onboard_time": 1698848677,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285312,
+      "num": 285312,
+      "word": "秦岚迪丽热巴对彼此有误解",
+      "onboard_time": 1698890734,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 280202,
@@ -435,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253333,
+      "num": 253333,
+      "word": "五月天 还不开票",
+      "onboard_time": 1698889956,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 252695,
       "num": 252695,
       "word": "富婆为什么会被博士骗",
@@ -457,6 +521,14 @@
       "onboard_time": 1698875415,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 224863,
+      "num": 224863,
+      "word": "苹果或在印度启动iPhone17研发",
+      "onboard_time": 1698889358,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 220883,
@@ -507,6 +579,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 203452,
+      "num": 203452,
+      "word": "第五人格开门了",
+      "onboard_time": 1698891276,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199726,
       "num": 199726,
       "word": "天津中德应用技术大学",
@@ -515,12 +595,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 196655,
+      "num": 196655,
+      "word": "白鹿泪眼式撒娇",
+      "onboard_time": 1698889956,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190650,
       "num": 190650,
       "word": "美依礼芽回应年轻粉丝的喜爱",
       "onboard_time": 1698888455,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189681,
+      "num": 189681,
+      "word": "百胜中国股价大跌15%",
+      "onboard_time": 1698890734,
+      "rank": 30,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 187093,
@@ -595,6 +691,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166969,
+      "num": 166969,
+      "word": "第一次见女主努力努力白努力",
+      "onboard_time": 1698891633,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166418,
+      "num": 166418,
+      "word": "遇到让人心梗的神",
+      "onboard_time": 1698891214,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165880,
       "num": 165880,
       "word": "张栋梁第一次当卧底失败的原因",
@@ -649,6 +761,14 @@
       "onboard_time": 1698815856,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152474,
+      "num": 152474,
+      "word": "母亲在女儿生前工作医院当8年志愿者",
+      "onboard_time": 1698891276,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151452,
@@ -707,20 +827,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146627,
+      "num": 146627,
+      "word": "110训练途中串场当了回119",
+      "onboard_time": 1698891096,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145757,
       "num": 145757,
       "word": "邓为紫色牛仔套装",
       "onboard_time": 1698854673,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 144804,
-      "num": 144804,
-      "word": "中国护照里藏着祖国大好河山",
-      "onboard_time": 1698888575,
-      "rank": 47,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 142353,
@@ -731,12 +851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140810,
+      "num": 140810,
+      "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
+      "onboard_time": 1698889114,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139827,
       "num": 139827,
       "word": "我在网上编故事月入十几万",
       "onboard_time": 1698849878,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 138874,
+      "num": 138874,
+      "word": "我也第一次见这样主动教的",
+      "onboard_time": 1698891033,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 136214,
@@ -801,6 +937,14 @@
       "onboard_time": 1698856348,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114409,
+      "num": 114409,
+      "word": "少年离家流浪走投无路求民警帮找工作",
+      "onboard_time": 1698890914,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110655,
