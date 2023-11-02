@@ -1,0 +1,408 @@
+{
+  "runTime": 1698931236765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1731185,
+        "num": 1731185,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1043495,
+        "num": 1571752,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 780387,
+        "num": 1492657,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1455935,
+        "num": 1455935,
+        "word": "缅方称一个中缅边境战略城镇失去控制",
+        "onboard_time": 1698926015,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1444395,
+        "num": 1444395,
+        "word": "3元钱已经买不到饮料了",
+        "onboard_time": 1698923313,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 868349,
+        "num": 868349,
+        "word": "新闻联播",
+        "onboard_time": 1698929253,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 658204,
+        "num": 658204,
+        "word": "专家称彩礼理念不改婚姻制度要崩溃",
+        "onboard_time": 1698926373,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455866,
+        "num": 455866,
+        "word": "达美乐30分钟必达3年亏损9亿",
+        "onboard_time": 1698930217,
+        "rank": 7,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 410468,
+        "num": 410468,
+        "word": "男子用儿子微信花110万规避执行获刑",
+        "onboard_time": 1698917433,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398230,
+        "num": 398230,
+        "word": "雷军回应小米14发烫",
+        "onboard_time": 1698927874,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1697883,
+        "num": 392174,
+        "word": "金鸡奖给周冬雨于适P了衣服",
+        "onboard_time": 1698926435,
+        "rank": 10,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 558829,
+        "num": 371414,
+        "word": "杨紫范丞丞将录制hi6",
+        "onboard_time": 1698930156,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511729,
+        "num": 348128,
+        "word": "鹿晗 深圳",
+        "onboard_time": 1698926495,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480764,
+        "num": 334143,
+        "word": "秦岚 我们不缺住好酒店的经历",
+        "onboard_time": 1698911915,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449925,
+        "num": 330313,
+        "word": "康师傅回应涨价",
+        "onboard_time": 1698925953,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 314578,
+        "num": 314578,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 15,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 313066,
+        "num": 313066,
+        "word": "水管工捡到300克黄金上交意外破获盗窃案",
+        "onboard_time": 1698923794,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290113,
+        "num": 290113,
+        "word": "官方回应副市长与女同事暖昧",
+        "onboard_time": 1698930757,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289827,
+        "num": 289827,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 288431,
+        "num": 288431,
+        "word": "相夷太剑",
+        "onboard_time": 1698916354,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515214,
+        "num": 285257,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492637,
+        "num": 284451,
+        "word": "因男朋友妈妈一句话分手了",
+        "onboard_time": 1698925536,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478100,
+        "num": 278482,
+        "word": "王一博被香奈儿CEO夸的笑容",
+        "onboard_time": 1698930395,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 402735,
+        "num": 274817,
+        "word": "肖战中美电视节获奖",
+        "onboard_time": 1698930094,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274228,
+        "num": 274228,
+        "word": "官方回应福建龙岩一小学生回家跳楼身亡",
+        "onboard_time": 1698924511,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267410,
+        "num": 267410,
+        "word": "邓紫棋 门票",
+        "onboard_time": 1698926253,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237067,
+        "num": 237067,
+        "word": "缅北激战画面曝光",
+        "onboard_time": 1698908312,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234943,
+        "num": 234943,
+        "word": "4家邻居8年几乎处成1家人",
+        "onboard_time": 1698922834,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231770,
+        "num": 231770,
+        "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+        "onboard_time": 1698924093,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215122,
+        "num": 215122,
+        "word": "莲花楼长尾效应好强",
+        "onboard_time": 1698930634,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210721,
+        "num": 210721,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203382,
+        "num": 203382,
+        "word": "被papi酱的表情笑死",
+        "onboard_time": 1698921755,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191246,
+        "num": 191246,
+        "word": "金晨 被演戏耽误的北舞校花",
+        "onboard_time": 1698924633,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183563,
+        "num": 183563,
+        "word": "李飞关注了杜华",
+        "onboard_time": 1698926015,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176138,
+        "num": 176138,
+        "word": "WBG晋级S13四强",
+        "onboard_time": 1698921517,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174304,
+        "num": 174304,
+        "word": "长期不社交的结果",
+        "onboard_time": 1698918934,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169379,
+        "num": 169379,
+        "word": "安吉丽娜朱莉谴责以色列",
+        "onboard_time": 1698919771,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147047,
+        "num": 147047,
+        "word": "张常宁向球队提出复出意愿",
+        "onboard_time": 1698925418,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145484,
+        "num": 145484,
+        "word": "都暻秀与SMtown合约到期",
+        "onboard_time": 1698922235,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138277,
+        "num": 138277,
+        "word": "TheShy时隔四年再次晋级四强",
+        "onboard_time": 1698924874,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137492,
+        "num": 137492,
+        "word": "LNG",
+        "onboard_time": 1698923555,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133441,
+        "num": 133441,
+        "word": "莫兰德找李宁要装备",
+        "onboard_time": 1698930875,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126710,
+        "num": 126710,
+        "word": "演员一定要用原声吗",
+        "onboard_time": 1698923195,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120154,
+        "num": 120154,
+        "word": "刘润道歉",
+        "onboard_time": 1698930996,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116644,
+        "num": 116644,
+        "word": "G2居然输给这种队",
+        "onboard_time": 1698920072,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114718,
+        "num": 114718,
+        "word": "重庆盖碗火锅",
+        "onboard_time": 1698928713,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109605,
+        "num": 109605,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 107090,
+        "num": 107090,
+        "word": "私教离职后充100万健身卡女子欲退款",
+        "onboard_time": 1698911318,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104688,
+        "num": 104688,
+        "word": "WBG零封NRG",
+        "onboard_time": 1698921635,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103801,
+        "num": 103801,
+        "word": "知情人士称辛巴屡次在抖音发布不实信息",
+        "onboard_time": 1698908373,
+        "rank": 49,
+        "category": "网红,互联网"
+      }
+    ],
+    "hotgov": null
+  }
+}

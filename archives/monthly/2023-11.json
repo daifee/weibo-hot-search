@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698929331381,
+  "endTime": 1698931236765,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2040579,
-      "num": 1411403,
+      "num": 1444395,
       "word": "3元钱已经买不到饮料了",
       "onboard_time": 1698923313,
       "rank": 40,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1825997,
-      "num": 353398,
+      "num": 392174,
       "word": "金鸡奖给周冬雨于适P了衣服",
       "onboard_time": 1698926435,
       "rank": 10,
@@ -323,8 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1397122,
-      "num": 1397122,
+      "raw_hot": 1455935,
+      "num": 1455935,
       "word": "缅方称一个中缅边境战略城镇失去控制",
       "onboard_time": 1698926015,
       "rank": 4,
@@ -659,6 +659,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 868349,
+      "num": 868349,
+      "word": "新闻联播",
+      "onboard_time": 1698929253,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 861361,
       "num": 861361,
       "word": "专家说金鸡奖最佳男配角给谁都不奇怪",
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658204,
+      "num": 658204,
+      "word": "专家称彩礼理念不改婚姻制度要崩溃",
+      "onboard_time": 1698926373,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646054,
       "num": 411070,
       "word": "缅北激战画面曝光",
@@ -953,14 +969,6 @@
       "onboard_time": 1698892535,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 628881,
-      "num": 628881,
-      "word": "专家称彩礼理念不改婚姻制度要崩溃",
-      "onboard_time": 1698926373,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 627613,
@@ -1211,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 558829,
+      "num": 371414,
+      "word": "杨紫范丞丞将录制hi6",
+      "onboard_time": 1698930156,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557117,
       "num": 557117,
       "word": "小米14超iPhone15Pro首销量",
@@ -1451,6 +1467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 478100,
+      "num": 278482,
+      "word": "王一博被香奈儿CEO夸的笑容",
+      "onboard_time": 1698930395,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 476839,
       "num": 476839,
       "word": "查理苏 颈环",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1698833372,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455866,
+      "num": 455866,
+      "word": "达美乐30分钟必达3年亏损9亿",
+      "onboard_time": 1698930217,
+      "rank": 7,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 450701,
@@ -1739,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402735,
+      "num": 274817,
+      "word": "肖战中美电视节获奖",
+      "onboard_time": 1698930094,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402248,
       "num": 402248,
       "word": "齐司礼 二段",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1698885220,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398230,
+      "num": 398230,
+      "word": "雷军回应小米14发烫",
+      "onboard_time": 1698927874,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 398115,
@@ -2403,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290113,
+      "num": 290113,
+      "word": "官方回应副市长与女同事暖昧",
+      "onboard_time": 1698930757,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288729,
       "num": 288729,
       "word": "LNG",
@@ -2737,14 +2793,6 @@
       "onboard_time": 1698852096,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255431,
-      "num": 255431,
-      "word": "雷军回应小米14发烫",
-      "onboard_time": 1698927874,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 255348,
@@ -3187,14 +3235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220326,
-      "num": 200887,
-      "word": "新闻联播",
-      "onboard_time": 1698929253,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 219870,
       "num": 219870,
       "word": "S13",
@@ -3249,6 +3289,14 @@
       "onboard_time": 1698851318,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215122,
+      "num": 215122,
+      "word": "莲花楼长尾效应好强",
+      "onboard_time": 1698930634,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 214478,
@@ -4811,6 +4859,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 133441,
+      "num": 133441,
+      "word": "莫兰德找李宁要装备",
+      "onboard_time": 1698930875,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133413,
       "num": 133413,
       "word": "把许凯关在横店多拍古装",
@@ -5017,6 +5073,14 @@
       "onboard_time": 1698831154,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120154,
+      "num": 120154,
+      "word": "刘润道歉",
+      "onboard_time": 1698930996,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 119642,
