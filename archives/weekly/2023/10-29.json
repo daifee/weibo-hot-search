@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698921349061,
+  "endTime": 1698923681317,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1696895,
-      "num": 371170,
+      "num": 615116,
       "word": "秦岚 我们不缺住好酒店的经历",
       "onboard_time": 1698911915,
       "rank": 11,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1689843,
-      "num": 367723,
+      "num": 378996,
       "word": "遭家暴16次女子公开挂粪袋造口画面",
       "onboard_time": 1698908132,
       "rank": 20,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 1314538,
-      "num": 370669,
+      "num": 586210,
       "word": "私教离职后充100万健身卡女子欲退款",
       "onboard_time": 1698911318,
       "rank": 15,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200624,
+      "num": 615381,
+      "word": "安吉丽娜朱莉谴责以色列",
+      "onboard_time": 1698919771,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1199298,
       "num": 359715,
       "word": "向太coser晒装扮价格",
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 1126098,
-      "num": 371634,
+      "num": 535164,
       "word": "顾客举报喜茶一门店浪费水",
       "onboard_time": 1698910478,
       "rank": 16,
@@ -1115,6 +1123,14 @@
       "category": "动漫,美妆"
     },
     {
+      "raw_hot": 1045519,
+      "num": 1045519,
+      "word": "WBG晋级S13四强",
+      "onboard_time": 1698921517,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1040217,
       "num": 1040217,
       "word": "陈梦 女单",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1698624454,
       "rank": 1,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 974035,
-      "num": 365119,
-      "word": "安吉丽娜朱莉谴责以色列",
-      "onboard_time": 1698919771,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 971798,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1698623429,
       "rank": 12,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 906748,
+      "num": 906748,
+      "word": "男子用儿子微信花110万规避执行获刑",
+      "onboard_time": 1698917433,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 900442,
@@ -1683,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 775310,
-      "num": 775310,
-      "word": "男子用儿子微信花110万规避执行获刑",
-      "onboard_time": 1698917433,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 771057,
       "num": 417754,
       "word": "宋妍霏真剪短发了",
@@ -1859,6 +1867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 737335,
+      "num": 737335,
+      "word": "WBG零封NRG",
+      "onboard_time": 1698921635,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 737042,
       "num": 284774,
       "word": "鱼都以被做成西湖醋鱼为耻",
@@ -1916,7 +1932,7 @@
     },
     {
       "raw_hot": 721891,
-      "num": 369864,
+      "num": 453652,
       "word": "相夷太剑",
       "onboard_time": 1698916354,
       "rank": 39,
@@ -2433,6 +2449,14 @@
       "onboard_time": 1698886538,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 613368,
+      "num": 613368,
+      "word": "G2居然输给这种队",
+      "onboard_time": 1698920072,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 613227,
@@ -3323,6 +3347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488734,
+      "num": 368748,
+      "word": "被papi酱的表情笑死",
+      "onboard_time": 1698921755,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488479,
       "num": 145590,
       "word": "夫妻3年不孕因丈夫精子逆行进膀胱",
@@ -3521,6 +3553,14 @@
       "onboard_time": 1698563069,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463097,
+      "num": 463097,
+      "word": "都暻秀与SMtown合约到期",
+      "onboard_time": 1698922235,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 463049,
@@ -4116,7 +4156,7 @@
     },
     {
       "raw_hot": 396205,
-      "num": 368218,
+      "num": 387864,
       "word": "NRG对战WBG",
       "onboard_time": 1698909158,
       "rank": 16,
@@ -4305,6 +4345,14 @@
       "onboard_time": 1698836253,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 379862,
+      "num": 379862,
+      "word": "TheShy剑魔",
+      "onboard_time": 1698919891,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 379549,
@@ -4644,7 +4692,7 @@
     },
     {
       "raw_hot": 348647,
-      "num": 836173,
+      "num": 1123974,
       "word": "女子跳舞被困礁石3小伙手拉手将其救回",
       "onboard_time": 1698918635,
       "rank": 3,
@@ -5155,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309437,
+      "num": 1078707,
+      "word": "4家邻居8年几乎处成1家人",
+      "onboard_time": 1698922834,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308996,
       "num": 236405,
       "word": "浙江一县城每天喝掉1.5万杯咖啡",
@@ -5233,6 +5289,14 @@
       "onboard_time": 1698728556,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305306,
+      "num": 305306,
+      "word": "演员一定要用原声吗",
+      "onboard_time": 1698923195,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 305075,
@@ -6243,14 +6307,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 255445,
-      "num": 255445,
-      "word": "G2居然输给这种队",
-      "onboard_time": 1698920072,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 255348,
       "num": 232934,
       "word": "文班亚马复刻姚明神仙球",
@@ -6545,14 +6601,6 @@
       "onboard_time": 1698729753,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244755,
-      "num": 244755,
-      "word": "TheShy剑魔",
-      "onboard_time": 1698919891,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 244748,
@@ -7155,6 +7203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225828,
+      "num": 915561,
+      "word": "变回孩子的消防员重学说话走路",
+      "onboard_time": 1698921934,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225759,
       "num": 225759,
       "word": "张婧仪又发朋友圈了",
@@ -7385,6 +7441,14 @@
       "onboard_time": 1698637119,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218602,
+      "num": 218602,
+      "word": "在评论区开凤凰传奇演唱会",
+      "onboard_time": 1698922115,
+      "rank": 32,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 218063,
@@ -8083,6 +8147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202065,
+      "num": 202065,
+      "word": "BLG",
+      "onboard_time": 1698923313,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201739,
       "num": 201739,
       "word": "张译又演警察了",
@@ -8331,6 +8403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197642,
+      "num": 197642,
+      "word": "我在四强很想你",
+      "onboard_time": 1698923434,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197455,
       "num": 197455,
       "word": "李健 不要人云亦云",
@@ -8513,6 +8593,14 @@
       "onboard_time": 1698719254,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194689,
+      "num": 194689,
+      "word": "可爱秋冬美甲",
+      "onboard_time": 1698922834,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 194536,
@@ -9097,6 +9185,14 @@
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186295,
+      "num": 186295,
+      "word": "3元钱已经买不到饮料了",
+      "onboard_time": 1698923313,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 186055,
@@ -10227,6 +10323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165085,
+      "num": 165085,
+      "word": "LNG",
+      "onboard_time": 1698923555,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164641,
       "num": 164641,
       "word": "S13八强",
@@ -11057,6 +11161,14 @@
       "onboard_time": 1698743794,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147773,
+      "num": 147773,
+      "word": "为什么不ban剑魔",
+      "onboard_time": 1698921815,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 147732,
