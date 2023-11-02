@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698928363905,
+  "endTime": 1698929331381,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2040579,
-      "num": 1321569,
+      "num": 1411403,
       "word": "3元钱已经买不到饮料了",
       "onboard_time": 1698923313,
       "rank": 40,
@@ -163,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1397122,
+      "num": 1397122,
+      "word": "缅方称一个中缅边境战略城镇失去控制",
+      "onboard_time": 1698926015,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1314538,
       "num": 586210,
       "word": "私教离职后充100万健身卡女子欲退款",
       "onboard_time": 1698911318,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1288949,
-      "num": 1288949,
-      "word": "缅方称一个中缅边境战略城镇失去控制",
-      "onboard_time": 1698926015,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1236206,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628881,
+      "num": 628881,
+      "word": "专家称彩礼理念不改婚姻制度要崩溃",
+      "onboard_time": 1698926373,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627613,
       "num": 376891,
       "word": "柚子皮高颅顶真的生产了",
@@ -481,6 +489,14 @@
       "onboard_time": 1698898716,
       "rank": 42,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 596081,
+      "num": 350306,
+      "word": "康师傅回应涨价",
+      "onboard_time": 1698925953,
+      "rank": 12,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 590455,
@@ -579,15 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548902,
-      "num": 350306,
-      "word": "康师傅回应涨价",
-      "onboard_time": 1698925953,
-      "rank": 12,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 531137,
+      "raw_hot": 542156,
       "num": 288856,
       "word": "因男朋友妈妈一句话分手了",
       "onboard_time": 1698925536,
@@ -961,14 +969,6 @@
       "onboard_time": 1698914254,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 362477,
-      "num": 362477,
-      "word": "专家称彩礼理念不改婚姻制度要崩溃",
-      "onboard_time": 1698926373,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361132,
@@ -1347,7 +1347,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 265376,
+      "raw_hot": 268730,
       "num": 265376,
       "word": "女孩生日爷爷去世一空乘塞手写信安慰",
       "onboard_time": 1698924093,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1698852096,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255431,
+      "num": 255431,
+      "word": "雷军回应小米14发烫",
+      "onboard_time": 1698927874,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 252695,
@@ -1555,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220326,
+      "num": 200887,
+      "word": "新闻联播",
+      "onboard_time": 1698929253,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 219870,
       "num": 219870,
       "word": "S13",
@@ -1569,14 +1585,6 @@
       "onboard_time": 1698883536,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218893,
-      "num": 218893,
-      "word": "雷军回应小米14发烫",
-      "onboard_time": 1698927874,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 218602,
@@ -2323,6 +2331,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 119642,
+      "num": 119642,
+      "word": "重庆盖碗火锅",
+      "onboard_time": 1698928713,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119247,
       "num": 119247,
       "word": "檀健次不知道公主梗",
@@ -2347,8 +2363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116745,
-      "num": 116745,
+      "raw_hot": 116943,
+      "num": 116943,
       "word": "葱油炸猪排",
       "onboard_time": 1698925833,
       "rank": 44,
@@ -2361,6 +2377,14 @@
       "onboard_time": 1698890914,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113832,
+      "num": 113832,
+      "word": "你平时怎么涂唇膏",
+      "onboard_time": 1698929134,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 111076,
@@ -2417,6 +2441,14 @@
       "onboard_time": 1698913653,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99049,
+      "num": 99049,
+      "word": "初中生下课后围着抗美援朝老兵要签名",
+      "onboard_time": 1698928713,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96793,
