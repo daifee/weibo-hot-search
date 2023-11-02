@@ -1,0 +1,408 @@
+{
+  "runTime": 1698924847585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2359874,
+        "num": 2359874,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1333559,
+        "num": 1333559,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1134041,
+        "num": 1134041,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 709221,
+        "num": 1017291,
+        "word": "4家邻居8年几乎处成1家人",
+        "onboard_time": 1698922834,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398115,
+        "num": 962276,
+        "word": "水管工捡到300克黄金上交意外破获盗窃案",
+        "onboard_time": 1698923794,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933640,
+        "num": 933640,
+        "word": "男子用儿子微信花110万规避执行获刑",
+        "onboard_time": 1698917433,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266075,
+        "num": 848884,
+        "word": "女子跳舞被困礁石3小伙手拉手将其救回",
+        "onboard_time": 1698918635,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799967,
+        "num": 799967,
+        "word": "WBG晋级S13四强",
+        "onboard_time": 1698921517,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 539223,
+        "num": 539223,
+        "word": "3元钱已经买不到饮料了",
+        "onboard_time": 1698923313,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 508510,
+        "num": 508510,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1065479,
+        "num": 505177,
+        "word": "安吉丽娜朱莉谴责以色列",
+        "onboard_time": 1698919771,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 611456,
+        "num": 500012,
+        "word": "秦岚 我们不缺住好酒店的经历",
+        "onboard_time": 1698911915,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533597,
+        "num": 496032,
+        "word": "私教离职后充100万健身卡女子欲退款",
+        "onboard_time": 1698911318,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486915,
+        "num": 486915,
+        "word": "G2居然输给这种队",
+        "onboard_time": 1698920072,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 473148,
+        "num": 473148,
+        "word": "演员一定要用原声吗",
+        "onboard_time": 1698923195,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471935,
+        "num": 471935,
+        "word": "WBG零封NRG",
+        "onboard_time": 1698921635,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 446881,
+        "num": 446881,
+        "word": "都暻秀与SMtown合约到期",
+        "onboard_time": 1698922235,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401942,
+        "num": 401942,
+        "word": "相夷太剑",
+        "onboard_time": 1698916354,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399934,
+        "num": 399934,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 18,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 365635,
+        "num": 365635,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810873,
+        "num": 364946,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481863,
+        "num": 363256,
+        "word": "被papi酱的表情笑死",
+        "onboard_time": 1698921755,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445572,
+        "num": 359093,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 392181,
+        "num": 356560,
+        "word": "长期不社交的结果",
+        "onboard_time": 1698918934,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356266,
+        "num": 356266,
+        "word": "我在四强很想你",
+        "onboard_time": 1698923434,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 301803,
+        "num": 301803,
+        "word": "BLG",
+        "onboard_time": 1698923313,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 301096,
+        "num": 301096,
+        "word": "顾客举报喜茶一门店浪费水",
+        "onboard_time": 1698910478,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 298545,
+        "num": 298545,
+        "word": "缅北激战画面曝光",
+        "onboard_time": 1698908312,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 288729,
+        "num": 288729,
+        "word": "LNG",
+        "onboard_time": 1698923555,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254476,
+        "num": 254476,
+        "word": "TheShy剑魔",
+        "onboard_time": 1698919891,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250393,
+        "num": 250393,
+        "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+        "onboard_time": 1698924093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241744,
+        "num": 241744,
+        "word": "NRG对战WBG",
+        "onboard_time": 1698909158,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229351,
+        "num": 229351,
+        "word": "可爱秋冬美甲",
+        "onboard_time": 1698922834,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228398,
+        "num": 228398,
+        "word": "官方回应福建龙岩一小学生回家跳楼身亡",
+        "onboard_time": 1698924511,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214877,
+        "num": 214877,
+        "word": "湖南一医院解聘全体员工",
+        "onboard_time": 1698906631,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196743,
+        "num": 196743,
+        "word": "SEVENTEEN迪士尼版漫画",
+        "onboard_time": 1698920134,
+        "rank": 35,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 193482,
+        "num": 193482,
+        "word": "中国担任联合国安理会本月轮值主席",
+        "onboard_time": 1698917371,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 192166,
+        "num": 192166,
+        "word": "985硕士毕业找工作底薪3400",
+        "onboard_time": 1698908013,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 191147,
+        "num": 191147,
+        "word": "被六个姐姐打是种什么体验",
+        "onboard_time": 1698917911,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186859,
+        "num": 186859,
+        "word": "金晨 被演戏耽误的北舞校花",
+        "onboard_time": 1698924633,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184681,
+        "num": 184681,
+        "word": "变回孩子的消防员重学说话走路",
+        "onboard_time": 1698921934,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180440,
+        "num": 180440,
+        "word": "花儿与少年文案",
+        "onboard_time": 1698917973,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177216,
+        "num": 177216,
+        "word": "康师傅涨价",
+        "onboard_time": 1698904472,
+        "rank": 42,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 174422,
+        "num": 174422,
+        "word": "赵小童英文演讲",
+        "onboard_time": 1698920193,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163153,
+        "num": 163153,
+        "word": "在评论区开凤凰传奇演唱会",
+        "onboard_time": 1698922115,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 156606,
+        "num": 156606,
+        "word": "临近婚期被要求加3万彩礼男子退婚",
+        "onboard_time": 1698912695,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140602,
+        "num": 140602,
+        "word": "五块九的粉底液配料表",
+        "onboard_time": 1698918513,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 89082,
+        "num": 137542,
+        "word": "胃其实是情绪器官",
+        "onboard_time": 1698908674,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80545,
+        "num": 136279,
+        "word": "香蕉的茎也可以吃吗",
+        "onboard_time": 1698914613,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56770,
+        "num": 135317,
+        "word": "8岁女孩和41岁妈妈练出同款腹肌",
+        "onboard_time": 1698910478,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": null
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698923681317,
+  "endTime": 1698924847585,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -251,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 933640,
+      "num": 933640,
+      "word": "男子用儿子微信花110万规避执行获刑",
+      "onboard_time": 1698917433,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927195,
       "num": 416832,
       "word": "秦海璐和秦岚原来只差一岁",
@@ -265,14 +273,6 @@
       "onboard_time": 1698900220,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 906748,
-      "num": 906748,
-      "word": "男子用儿子微信花110万规避执行获刑",
-      "onboard_time": 1698917433,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 892251,
@@ -361,6 +361,14 @@
       "onboard_time": 1698916354,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 709221,
+      "num": 1078707,
+      "word": "4家邻居8年几乎处成1家人",
+      "onboard_time": 1698922834,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646054,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539223,
+      "num": 539223,
+      "word": "3元钱已经买不到饮料了",
+      "onboard_time": 1698923313,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 516238,
       "num": 516238,
       "word": "湖南一医院解聘全体员工",
@@ -617,6 +633,14 @@
       "onboard_time": 1698894395,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 473148,
+      "num": 473148,
+      "word": "演员一定要用原声吗",
+      "onboard_time": 1698923195,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 463097,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398115,
+      "num": 962276,
+      "word": "水管工捡到300克黄金上交意外破获盗窃案",
+      "onboard_time": 1698923794,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396205,
       "num": 387864,
       "word": "NRG对战WBG",
@@ -905,6 +937,14 @@
       "onboard_time": 1698903035,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356266,
+      "num": 356266,
+      "word": "我在四强很想你",
+      "onboard_time": 1698923434,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 350881,
@@ -1027,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309437,
-      "num": 1078707,
-      "word": "4家邻居8年几乎处成1家人",
-      "onboard_time": 1698922834,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308996,
       "num": 236405,
       "word": "浙江一县城每天喝掉1.5万杯咖啡",
@@ -1059,14 +1091,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 305306,
-      "num": 305306,
-      "word": "演员一定要用原声吗",
-      "onboard_time": 1698923195,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305075,
       "num": 305075,
       "word": "程耳说王一博在生活中不做作",
@@ -1083,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301803,
+      "num": 301803,
+      "word": "BLG",
+      "onboard_time": 1698923313,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 294511,
       "num": 294511,
       "word": "五块九的粉底液配料表",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1698910717,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288729,
+      "num": 288729,
+      "word": "LNG",
+      "onboard_time": 1698923555,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 288145,
@@ -1291,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250393,
+      "num": 250393,
+      "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+      "onboard_time": 1698924093,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249545,
       "num": 249545,
       "word": "胃其实是情绪器官",
@@ -1337,6 +1385,22 @@
       "onboard_time": 1698907353,
       "rank": 29,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 229351,
+      "num": 229351,
+      "word": "可爱秋冬美甲",
+      "onboard_time": 1698922834,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 228398,
+      "num": 228398,
+      "word": "官方回应福建龙岩一小学生回家跳楼身亡",
+      "onboard_time": 1698924511,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226905,
@@ -1499,28 +1563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202065,
-      "num": 202065,
-      "word": "BLG",
-      "onboard_time": 1698923313,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199726,
       "num": 199726,
       "word": "天津中德应用技术大学",
       "onboard_time": 1698848561,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197642,
-      "num": 197642,
-      "word": "我在四强很想你",
-      "onboard_time": 1698923434,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 197455,
@@ -1545,14 +1593,6 @@
       "onboard_time": 1698900521,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "可爱秋冬美甲",
-      "onboard_time": 1698922834,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 194087,
@@ -1587,20 +1627,20 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 186859,
+      "num": 186859,
+      "word": "金晨 被演戏耽误的北舞校花",
+      "onboard_time": 1698924633,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186596,
       "num": 186596,
       "word": "陈楚生王栎鑫互相伤害",
       "onboard_time": 1698908013,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186295,
-      "num": 186295,
-      "word": "3元钱已经买不到饮料了",
-      "onboard_time": 1698923313,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 185900,
@@ -1785,14 +1825,6 @@
       "onboard_time": 1698899799,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165085,
-      "num": 165085,
-      "word": "LNG",
-      "onboard_time": 1698923555,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 163009,

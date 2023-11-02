@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698923681317,
+  "endTime": 1698924847585,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1339,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 933640,
+      "num": 933640,
+      "word": "男子用儿子微信花110万规避执行获刑",
+      "onboard_time": 1698917433,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 930537,
       "num": 509283,
       "word": "刘诗诗一天穿了六套高定",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1698623429,
       "rank": 12,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 906748,
-      "num": 906748,
-      "word": "男子用儿子微信花110万规避执行获刑",
-      "onboard_time": 1698917433,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 900442,
@@ -1960,6 +1960,14 @@
       "word": "烫杀狗店员所在餐馆被喷漆撒冥币",
       "onboard_time": 1698647491,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709221,
+      "num": 1078707,
+      "word": "4家邻居8年几乎处成1家人",
+      "onboard_time": 1698922834,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 539223,
+      "num": 539223,
+      "word": "3元钱已经买不到饮料了",
+      "onboard_time": 1698923313,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 537742,
       "num": 299666,
       "word": "郭敬明 你哥最帅",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1698624933,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 473148,
+      "num": 473148,
+      "word": "演员一定要用原声吗",
+      "onboard_time": 1698923195,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 469080,
@@ -4139,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398115,
+      "num": 962276,
+      "word": "水管工捡到300克黄金上交意外破获盗窃案",
+      "onboard_time": 1698923794,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397880,
       "num": 901696,
       "word": "爸爸哄娃睡觉随手一丢震惊妈妈",
@@ -4609,6 +4641,14 @@
       "onboard_time": 1698707064,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 356266,
+      "num": 356266,
+      "word": "我在四强很想你",
+      "onboard_time": 1698923434,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 354377,
@@ -5203,14 +5243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309437,
-      "num": 1078707,
-      "word": "4家邻居8年几乎处成1家人",
-      "onboard_time": 1698922834,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308996,
       "num": 236405,
       "word": "浙江一县城每天喝掉1.5万杯咖啡",
@@ -5291,14 +5323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305306,
-      "num": 305306,
-      "word": "演员一定要用原声吗",
-      "onboard_time": 1698923195,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305075,
       "num": 305075,
       "word": "程耳说王一博在生活中不做作",
@@ -5361,6 +5385,14 @@
       "onboard_time": 1698561569,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301803,
+      "num": 301803,
+      "word": "BLG",
+      "onboard_time": 1698923313,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 301567,
@@ -5601,6 +5633,14 @@
       "onboard_time": 1698638615,
       "rank": 32,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 288729,
+      "num": 288729,
+      "word": "LNG",
+      "onboard_time": 1698923555,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 288145,
@@ -6427,6 +6467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250393,
+      "num": 250393,
+      "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+      "onboard_time": 1698924093,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249545,
       "num": 249545,
       "word": "胃其实是情绪器官",
@@ -7123,12 +7171,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229351,
+      "num": 229351,
+      "word": "可爱秋冬美甲",
+      "onboard_time": 1698922834,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 229192,
       "num": 229192,
       "word": "刘家昌对前妻章家珍提起诉讼",
       "onboard_time": 1698808896,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228398,
+      "num": 228398,
+      "word": "官方回应福建龙岩一小学生回家跳楼身亡",
+      "onboard_time": 1698924511,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228031,
@@ -8147,14 +8211,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 202065,
-      "num": 202065,
-      "word": "BLG",
-      "onboard_time": 1698923313,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201739,
       "num": 201739,
       "word": "张译又演警察了",
@@ -8403,14 +8459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197642,
-      "num": 197642,
-      "word": "我在四强很想你",
-      "onboard_time": 1698923434,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 197455,
       "num": 197455,
       "word": "李健 不要人云亦云",
@@ -8593,14 +8641,6 @@
       "onboard_time": 1698719254,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "可爱秋冬美甲",
-      "onboard_time": 1698922834,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 194536,
@@ -9099,6 +9139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186859,
+      "num": 186859,
+      "word": "金晨 被演戏耽误的北舞校花",
+      "onboard_time": 1698924633,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186857,
       "num": 186857,
       "word": "红楼梦里最喜欢的丫头",
@@ -9185,14 +9233,6 @@
       "onboard_time": 1698548131,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 186295,
-      "num": 186295,
-      "word": "3元钱已经买不到饮料了",
-      "onboard_time": 1698923313,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 186055,
@@ -10321,14 +10361,6 @@
       "onboard_time": 1698640656,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165085,
-      "num": 165085,
-      "word": "LNG",
-      "onboard_time": 1698923555,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 164641,
