@@ -1,0 +1,410 @@
+{
+  "runTime": 1698892496225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3666142,
+        "num": 3666142,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 812558,
+        "num": 812558,
+        "word": "日本开始第3轮核污染水排海",
+        "onboard_time": 1698890734,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64361,
+        "num": 625433,
+        "word": "6位航天员太空会面瞬间回顾",
+        "onboard_time": 1698842616,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2123546,
+        "num": 610241,
+        "word": "缅甸",
+        "onboard_time": 1698887258,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1139073,
+        "num": 592921,
+        "word": "湖北大学保卫处回应情侣与校外人冲突",
+        "onboard_time": 1698887497,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558858,
+        "num": 558858,
+        "word": "苹果取消AppleWatch应用兼容安卓计划",
+        "onboard_time": 1698887379,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 524765,
+        "num": 524765,
+        "word": "离世女教师加班数石榴系谣言",
+        "onboard_time": 1698883295,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437339,
+        "num": 437339,
+        "word": "海归博士985硕士求职因本科双非被刷",
+        "onboard_time": 1698880223,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405826,
+        "num": 405826,
+        "word": "把课间十分钟还给孩子",
+        "onboard_time": 1698889655,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376334,
+        "num": 376334,
+        "word": "中国护照里藏着祖国大好河山",
+        "onboard_time": 1698888575,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060973,
+        "num": 376193,
+        "word": "港星林皓霆去世",
+        "onboard_time": 1698888875,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872862,
+        "num": 373281,
+        "word": "仙剑4要来了",
+        "onboard_time": 1698884862,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 820923,
+        "num": 370817,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803046,
+        "num": 369357,
+        "word": "傅首尔是在告别吗",
+        "onboard_time": 1698882452,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414756,
+        "num": 366817,
+        "word": "湖北大学",
+        "onboard_time": 1698850598,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 400090,
+        "num": 366552,
+        "word": "斯嘉丽起诉AI开发商",
+        "onboard_time": 1698888160,
+        "rank": 15,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 379549,
+        "num": 363120,
+        "word": "最简单判断自己脸型的方法",
+        "onboard_time": 1698889173,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 362906,
+        "num": 362906,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359452,
+        "num": 359452,
+        "word": "漫威考虑复活钢铁侠黑寡妇",
+        "onboard_time": 1698886538,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345570,
+        "num": 345570,
+        "word": "秦岚迪丽热巴对彼此有误解",
+        "onboard_time": 1698890734,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338893,
+        "num": 338893,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282684,
+        "num": 282684,
+        "word": "五月天 还不开票",
+        "onboard_time": 1698889956,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274929,
+        "num": 274929,
+        "word": "王宝钏挖野菜cos",
+        "onboard_time": 1698885520,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271131,
+        "num": 271131,
+        "word": "宋亚轩将参加声生不息中华季",
+        "onboard_time": 1698888875,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267464,
+        "num": 267464,
+        "word": "蒋依依cos失眠鬼",
+        "onboard_time": 1698885764,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246222,
+        "num": 246222,
+        "word": "苹果或在印度启动iPhone17研发",
+        "onboard_time": 1698889358,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219472,
+        "num": 219472,
+        "word": "河南淮阳官方回应抢中药事件",
+        "onboard_time": 1698891813,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210519,
+        "num": 210519,
+        "word": "百胜中国股价大跌15%",
+        "onboard_time": 1698890734,
+        "rank": 27,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 208406,
+        "num": 208406,
+        "word": "我也第一次见这样主动教的",
+        "onboard_time": 1698891033,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201846,
+        "num": 201846,
+        "word": "声生不息中华季",
+        "onboard_time": 1698883054,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201058,
+        "num": 201058,
+        "word": "第五人格开门了",
+        "onboard_time": 1698891276,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196691,
+        "num": 196691,
+        "word": "白鹿泪眼式撒娇",
+        "onboard_time": 1698889956,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192997,
+        "num": 192997,
+        "word": "天官赐福第三集真是好大一张床",
+        "onboard_time": 1698883965,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 189204,
+        "num": 189204,
+        "word": "莎头 稳稳的幸福",
+        "onboard_time": 1698884075,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177155,
+        "num": 177155,
+        "word": "遇到让人心梗的神",
+        "onboard_time": 1698891214,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175622,
+        "num": 175622,
+        "word": "反向泡脚 越泡越虚",
+        "onboard_time": 1698853415,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173361,
+        "num": 173361,
+        "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
+        "onboard_time": 1698889114,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168496,
+        "num": 168496,
+        "word": "乔治假摔被罚款",
+        "onboard_time": 1698891931,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161307,
+        "num": 161307,
+        "word": "微信转账",
+        "onboard_time": 1698839973,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159442,
+        "num": 159442,
+        "word": "男生住商场楼梯下超半年无人知晓",
+        "onboard_time": 1698851318,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148934,
+        "num": 148934,
+        "word": "物理老师用触及灵魂法帮学生记知识",
+        "onboard_time": 1698891931,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147690,
+        "num": 147690,
+        "word": "怕血女孩为救母捐出半个肝",
+        "onboard_time": 1698892053,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 147595,
+        "num": 147595,
+        "word": "幼童高烧40度公交变救护车3分钟送医",
+        "onboard_time": 1698876736,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141759,
+        "num": 141759,
+        "word": "樊振东1比3李尚洙",
+        "onboard_time": 1698880705,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137916,
+        "num": 137916,
+        "word": "王安宇听到辛芷蕾丢1500的反应",
+        "onboard_time": 1698858681,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136283,
+        "num": 136283,
+        "word": "羊 就你叫牧羊犬啊",
+        "onboard_time": 1698882994,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133179,
+        "num": 133179,
+        "word": "成都爱心面馆报暗号免费吃面",
+        "onboard_time": 1698891813,
+        "rank": 46,
+        "category": "社会正能量,美食"
+      },
+      {
+        "raw_hot": 129038,
+        "num": 129038,
+        "word": "黄凯在offer5做医美",
+        "onboard_time": 1698882573,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127286,
+        "num": 127286,
+        "word": "母亲在女儿生前工作医院当8年志愿者",
+        "onboard_time": 1698891276,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123375,
+        "num": 123375,
+        "word": "中国三人女篮世界第一",
+        "onboard_time": 1698892473,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走中国特色金融发展之路#"
+    }
+  }
+}

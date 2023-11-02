@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698891814967,
+  "endTime": 1698892496225,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -9,6 +9,14 @@
       "onboard_time": 1698884075,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2123546,
+      "num": 676290,
+      "word": "缅甸",
+      "onboard_time": 1698887258,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2059282,
@@ -59,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1060973,
+      "num": 376193,
+      "word": "港星林皓霆去世",
+      "onboard_time": 1698888875,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970738,
       "num": 970738,
       "word": "离世女教师加班数石榴系谣言",
@@ -91,20 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 820923,
+      "num": 370817,
+      "word": "第一次见女主努力努力白努力",
+      "onboard_time": 1698891633,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 812558,
+      "num": 812558,
+      "word": "日本开始第3轮核污染水排海",
+      "onboard_time": 1698890734,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736840,
       "num": 736840,
       "word": "反向泡脚 越泡越虚",
       "onboard_time": 1698853415,
       "rank": 3,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 676290,
-      "num": 676290,
-      "word": "缅甸",
-      "onboard_time": 1698887258,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 644269,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 614572,
-      "num": 359538,
+      "num": 366552,
       "word": "斯嘉丽起诉AI开发商",
       "onboard_time": 1698888160,
       "rank": 13,
@@ -137,14 +161,6 @@
       "onboard_time": 1698886538,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 593471,
-      "num": 374482,
-      "word": "港星林皓霆去世",
-      "onboard_time": 1698888875,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 589101,
@@ -219,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 456326,
-      "num": 456326,
-      "word": "日本开始第3轮核污染水排海",
-      "onboard_time": 1698890734,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450701,
       "num": 450701,
       "word": "把课间十分钟还给孩子",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 408835,
-      "num": 298649,
+      "num": 338893,
       "word": "8个不经意却很不卫生的行为",
       "onboard_time": 1698887976,
       "rank": 22,
@@ -347,8 +355,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 348902,
-      "num": 348902,
+      "raw_hot": 379549,
+      "num": 363120,
       "word": "最简单判断自己脸型的方法",
       "onboard_time": 1698889173,
       "rank": 16,
@@ -361,6 +369,14 @@
       "onboard_time": 1698885520,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345570,
+      "num": 345570,
+      "word": "秦岚迪丽热巴对彼此有误解",
+      "onboard_time": 1698890734,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 342264,
@@ -419,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285312,
-      "num": 285312,
-      "word": "秦岚迪丽热巴对彼此有误解",
-      "onboard_time": 1698890734,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 282684,
+      "num": 282684,
+      "word": "五月天 还不开票",
+      "onboard_time": 1698889956,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 280202,
@@ -491,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253333,
-      "num": 253333,
-      "word": "五月天 还不开票",
-      "onboard_time": 1698889956,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 252695,
       "num": 252695,
       "word": "富婆为什么会被博士骗",
       "onboard_time": 1698846397,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246222,
+      "num": 246222,
+      "word": "苹果或在印度启动iPhone17研发",
+      "onboard_time": 1698889358,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 241197,
@@ -523,14 +539,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 224863,
-      "num": 224863,
-      "word": "苹果或在印度启动iPhone17研发",
-      "onboard_time": 1698889358,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 220883,
       "num": 220883,
       "word": "真正的赌徒 不定闹钟我也能睡醒",
@@ -545,6 +553,14 @@
       "onboard_time": 1698883536,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219472,
+      "num": 219472,
+      "word": "河南淮阳官方回应抢中药事件",
+      "onboard_time": 1698891813,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215180,
@@ -579,6 +595,22 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 210519,
+      "num": 210519,
+      "word": "百胜中国股价大跌15%",
+      "onboard_time": 1698890734,
+      "rank": 30,
+      "category": "财经,美食"
+    },
+    {
+      "raw_hot": 208406,
+      "num": 208406,
+      "word": "我也第一次见这样主动教的",
+      "onboard_time": 1698891033,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203452,
       "num": 203452,
       "word": "第五人格开门了",
@@ -595,8 +627,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 196655,
-      "num": 196655,
+      "raw_hot": 196691,
+      "num": 196691,
       "word": "白鹿泪眼式撒娇",
       "onboard_time": 1698889956,
       "rank": 29,
@@ -609,14 +641,6 @@
       "onboard_time": 1698888455,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189681,
-      "num": 189681,
-      "word": "百胜中国股价大跌15%",
-      "onboard_time": 1698890734,
-      "rank": 30,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 187093,
@@ -651,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177155,
+      "num": 177155,
+      "word": "遇到让人心梗的神",
+      "onboard_time": 1698891214,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176735,
       "num": 176735,
       "word": "曼联0比3纽卡",
       "onboard_time": 1698880527,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173361,
+      "num": 173361,
+      "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
+      "onboard_time": 1698889114,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172185,
@@ -683,28 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168496,
+      "num": 168496,
+      "word": "乔治假摔被罚款",
+      "onboard_time": 1698891931,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167516,
       "num": 160328,
       "word": "双十一冷静期退货清单",
       "onboard_time": 1698859040,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 166969,
-      "num": 166969,
-      "word": "第一次见女主努力努力白努力",
-      "onboard_time": 1698891633,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166418,
-      "num": 166418,
-      "word": "遇到让人心梗的神",
-      "onboard_time": 1698891214,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 165880,
@@ -795,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148934,
+      "num": 148934,
+      "word": "物理老师用触及灵魂法帮学生记知识",
+      "onboard_time": 1698891931,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148599,
       "num": 148599,
       "word": "问路老人和指路女孩时隔4年相聚了",
@@ -809,6 +849,14 @@
       "onboard_time": 1698840876,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147690,
+      "num": 147690,
+      "word": "怕血女孩为救母捐出半个肝",
+      "onboard_time": 1698892053,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 147323,
@@ -851,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140810,
-      "num": 140810,
-      "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
-      "onboard_time": 1698889114,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139827,
       "num": 139827,
       "word": "我在网上编故事月入十几万",
@@ -867,12 +907,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 138874,
-      "num": 138874,
-      "word": "我也第一次见这样主动教的",
-      "onboard_time": 1698891033,
+      "raw_hot": 137916,
+      "num": 137916,
+      "word": "王安宇听到辛芷蕾丢1500的反应",
+      "onboard_time": 1698858681,
       "rank": 42,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 136214,
@@ -889,6 +929,14 @@
       "onboard_time": 1698837514,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133179,
+      "num": 133179,
+      "word": "成都爱心面馆报暗号免费吃面",
+      "onboard_time": 1698891813,
+      "rank": 46,
+      "category": "社会正能量,美食"
     },
     {
       "raw_hot": 131326,
@@ -913,6 +961,14 @@
       "onboard_time": 1698850958,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123375,
+      "num": 123375,
+      "word": "中国三人女篮世界第一",
+      "onboard_time": 1698892473,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123093,
@@ -961,14 +1017,6 @@
       "onboard_time": 1698843154,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109651,
-      "num": 108134,
-      "word": "王安宇听到辛芷蕾丢1500的反应",
-      "onboard_time": 1698858681,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 105417,
