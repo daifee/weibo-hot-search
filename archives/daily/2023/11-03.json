@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698963263566,
+  "endTime": 1698964447042,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -235,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 171816,
+      "num": 171816,
+      "word": "官方通报网传哄抢种植户药材事件",
+      "onboard_time": 1698959832,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170710,
       "num": 170710,
       "word": "香港房价暴跌给内地楼市敲响警钟",
@@ -265,6 +273,14 @@
       "onboard_time": 1698907171,
       "rank": 30,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 150090,
+      "num": 150090,
+      "word": "林丹丹否认曾担任恒大歌舞团团长",
+      "onboard_time": 1698961394,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145179,
@@ -321,14 +337,6 @@
       "onboard_time": 1698938974,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 115127,
-      "num": 50270,
-      "word": "官方通报网传哄抢种植户药材事件",
-      "onboard_time": 1698959832,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113517,
@@ -435,28 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89908,
+      "num": 45963,
+      "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
+      "onboard_time": 1698957974,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 84713,
       "num": 84713,
       "word": "当老婆喜欢随身带大容量吸管杯",
       "onboard_time": 1698934301,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82554,
-      "num": 82554,
-      "word": "林丹丹否认曾担任恒大歌舞团团长",
-      "onboard_time": 1698961394,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81986,
-      "num": 33886,
-      "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
-      "onboard_time": 1698957974,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 81336,
@@ -507,6 +507,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 31045,
+      "num": 31045,
+      "word": "在纽约叫路人男给我买个包",
+      "onboard_time": 1698958754,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30902,
       "num": 30902,
       "word": "中式元素混搭妆",
@@ -515,32 +523,24 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 24267,
-      "num": 24267,
-      "word": "在纽约叫路人男给我买个包",
-      "onboard_time": 1698958754,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 22469,
-      "num": 22469,
+      "raw_hot": 27522,
+      "num": 27522,
       "word": "莲花楼长尾效应好强",
       "onboard_time": 1698930634,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 17084,
-      "num": 18390,
+      "raw_hot": 23917,
+      "num": 23917,
       "word": "在现偶古偶反复爱上王鹤棣",
       "onboard_time": 1698933277,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 16450,
-      "num": 18374,
+      "raw_hot": 20675,
+      "num": 23844,
       "word": "狗狗邀请主人一起玩时的小碎步",
       "onboard_time": 1698955272,
       "rank": 47,
