@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698959718415,
+  "endTime": 1698960864815,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -14803,6 +14803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41945,
+      "num": 21567,
+      "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
+      "onboard_time": 1698957974,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 41505,
       "num": 89388,
       "word": "五谷磨房想和蜂花组洗头CP",
@@ -14971,14 +14979,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 27821,
-      "num": 19671,
-      "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
-      "onboard_time": 1698957974,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 26583,
       "num": 26583,
       "word": "猫都知道自己叫咪咪",
@@ -14993,6 +14993,14 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25818,
+      "num": 25818,
+      "word": "官方通报网传哄抢种植户药材事件",
+      "onboard_time": 1698959832,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25508,
@@ -15059,6 +15067,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 17699,
+      "num": 17699,
+      "word": "在纽约叫路人男给我买个包",
+      "onboard_time": 1698958754,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15614,
+      "num": 15614,
+      "word": "狗狗邀请主人一起玩时的小碎步",
+      "onboard_time": 1698955272,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15354,
       "num": 16581,
       "word": "EDGZmjjKK 跟我兄弟从地下站上",
@@ -15097,22 +15121,6 @@
       "onboard_time": 1698531136,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14117,
-      "num": 14117,
-      "word": "狗狗邀请主人一起玩时的小碎步",
-      "onboard_time": 1698955272,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 14035,
-      "num": 14035,
-      "word": "在纽约叫路人男给我买个包",
-      "onboard_time": 1698958754,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 13148,
