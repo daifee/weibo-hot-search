@@ -1,0 +1,410 @@
+{
+  "runTime": 1698903265554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2258169,
+        "num": 2258169,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 763196,
+        "num": 763196,
+        "word": "高校通报贫困生举报助学金名额被挤",
+        "onboard_time": 1698896192,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 75872,
+        "num": 706770,
+        "word": "中国计划开启太阳立体探测时代",
+        "onboard_time": 1698901598,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1352201,
+        "num": 706234,
+        "word": "湖大冲突事件双方达成谅解",
+        "onboard_time": 1698896733,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 701781,
+        "num": 701781,
+        "word": "年轻人逛商场只去B1B2",
+        "onboard_time": 1698894512,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 566129,
+        "num": 566129,
+        "word": "湖人终于赢快船了",
+        "onboard_time": 1698902673,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544072,
+        "num": 544072,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1698898716,
+        "rank": 6,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 495237,
+        "num": 495237,
+        "word": "克莱绝杀",
+        "onboard_time": 1698899799,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441057,
+        "num": 441057,
+        "word": "被解聘医院员工发声",
+        "onboard_time": 1698899980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401478,
+        "num": 401478,
+        "word": "林孝埈 精卫",
+        "onboard_time": 1698898417,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1462107,
+        "num": 393695,
+        "word": "贾静雯发文悼念陈慧翎",
+        "onboard_time": 1698899017,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1180925,
+        "num": 390183,
+        "word": "刘亚仁教唆他人吸毒",
+        "onboard_time": 1698897754,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940437,
+        "num": 377212,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 834686,
+        "num": 365816,
+        "word": "剧版左耳",
+        "onboard_time": 1698900220,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565370,
+        "num": 362198,
+        "word": "天官赐福花城穿了光腿神器",
+        "onboard_time": 1698900938,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 479704,
+        "num": 351632,
+        "word": "为有暗香来 植物人昏迷两年爱上护工",
+        "onboard_time": 1698897995,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465997,
+        "num": 343300,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338318,
+        "num": 338318,
+        "word": "缅甸",
+        "onboard_time": 1698887258,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 328268,
+        "num": 328268,
+        "word": "傅首尔是在告别吗",
+        "onboard_time": 1698882452,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319959,
+        "num": 319959,
+        "word": "36岁男子脑死亡捐器官救5人",
+        "onboard_time": 1698894395,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 488238,
+        "num": 319057,
+        "word": "女孩吃小粉丸瘦到50斤多器官出血",
+        "onboard_time": 1698893014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309245,
+        "num": 309245,
+        "word": "健身房回应女子欲退款被扣13万手续费",
+        "onboard_time": 1698897754,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294895,
+        "num": 294895,
+        "word": "仙剑4要来了",
+        "onboard_time": 1698884862,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275234,
+        "num": 275234,
+        "word": "迪丽热巴 大家都减轻彼此负担吧",
+        "onboard_time": 1698892535,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256100,
+        "num": 256100,
+        "word": "突然意识到看鞋识人很不礼貌",
+        "onboard_time": 1698894573,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243609,
+        "num": 243609,
+        "word": "松弛感半扎发",
+        "onboard_time": 1698899261,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 233502,
+        "num": 233502,
+        "word": "NBA 解说",
+        "onboard_time": 1698899619,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231088,
+        "num": 231088,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229807,
+        "num": 229807,
+        "word": "于正 我讨厌oe喜欢1V1",
+        "onboard_time": 1698893253,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224268,
+        "num": 224268,
+        "word": "詹姆斯35分",
+        "onboard_time": 1698902973,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213840,
+        "num": 213840,
+        "word": "辛芷蕾 秦岚你是电音百灵鸟",
+        "onboard_time": 1698903035,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211150,
+        "num": 211150,
+        "word": "洗漱后护肤黄金3分钟别错过",
+        "onboard_time": 1698902973,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 210439,
+        "num": 210439,
+        "word": "陈慧翎将举行树葬",
+        "onboard_time": 1698900159,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207996,
+        "num": 207996,
+        "word": "快船vs湖人",
+        "onboard_time": 1698893732,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207375,
+        "num": 207375,
+        "word": "湖北大学保卫处回应情侣与校外人冲突",
+        "onboard_time": 1698887497,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198169,
+        "num": 198169,
+        "word": "秦岚说嗓子没好辛芷蕾得负一半责任",
+        "onboard_time": 1698895351,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194087,
+        "num": 194087,
+        "word": "花儿与少年5",
+        "onboard_time": 1698900759,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187410,
+        "num": 187410,
+        "word": "离世女教师加班数石榴系谣言",
+        "onboard_time": 1698883295,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186076,
+        "num": 186076,
+        "word": "梁朝伟 他的双眼是整个世代的眷恋",
+        "onboard_time": 1698896312,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181833,
+        "num": 181833,
+        "word": "港星林皓霆去世",
+        "onboard_time": 1698888875,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176778,
+        "num": 176778,
+        "word": "keshi上海抢票",
+        "onboard_time": 1698900521,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176343,
+        "num": 176343,
+        "word": "LE SSERAFIM观看洛城德比",
+        "onboard_time": 1698901896,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 175740,
+        "num": 175740,
+        "word": "美军导弹试射突发异常被迫引爆",
+        "onboard_time": 1698897695,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175488,
+        "num": 175488,
+        "word": "苹果取消AppleWatch应用兼容安卓计划",
+        "onboard_time": 1698887379,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "鱼都以被做成西湖醋鱼为耻",
+        "onboard_time": 1698903096,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167466,
+        "num": 167466,
+        "word": "吴慷仁悼念导演陈慧翎",
+        "onboard_time": 1698900400,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148334,
+        "num": 148334,
+        "word": "库里连续250场投中三分",
+        "onboard_time": 1698902255,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148022,
+        "num": 148022,
+        "word": "金鸡奖出发前讲个故事",
+        "onboard_time": 1698902914,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147612,
+        "num": 147612,
+        "word": "独臂教师教出两千余名大学生",
+        "onboard_time": 1698902734,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143457,
+        "num": 143457,
+        "word": "福岛第一核电站核废液溅射量超此前估算",
+        "onboard_time": 1698895049,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}
