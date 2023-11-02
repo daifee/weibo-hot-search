@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698932055399,
+  "endTime": 1698934582994,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1572098,
+      "num": 1283072,
+      "word": "达美乐30分钟必达3年亏损9亿",
+      "onboard_time": 1698930217,
+      "rank": 7,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 1560064,
       "num": 1560064,
       "word": "中方尊重朝鲜关闭香港总领馆的决定",
@@ -371,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1284441,
+      "num": 1179948,
+      "word": "新闻联播",
+      "onboard_time": 1698929253,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1282120,
+      "num": 1282120,
+      "word": "俄罗斯撤销全面禁止核试验条约",
+      "onboard_time": 1698932135,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1258089,
       "num": 1143623,
       "word": "向佐 我把假向太抓来直播间啦",
@@ -409,14 +433,6 @@
       "onboard_time": 1698801215,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1222137,
-      "num": 1179948,
-      "word": "新闻联播",
-      "onboard_time": 1698929253,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1200624,
@@ -627,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 921305,
-      "num": 921305,
-      "word": "达美乐30分钟必达3年亏损9亿",
-      "onboard_time": 1698930217,
-      "rank": 7,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 897081,
       "num": 897081,
       "word": "7款APP全网下架",
@@ -647,6 +655,14 @@
       "num": 896351,
       "word": "全球第二例猪心脏移植患者6周后去世",
       "onboard_time": 1698843513,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 894201,
+      "num": 894201,
+      "word": "赴美失踪3个月中国女子遗骸疑似被找到",
+      "onboard_time": 1698932796,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799638,
+      "num": 400584,
+      "word": "张元英凌晨去运动",
+      "onboard_time": 1698933578,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799100,
       "num": 445575,
       "word": "万圣节宋焰cos",
@@ -777,6 +801,14 @@
       "onboard_time": 1698846397,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 759121,
+      "num": 759121,
+      "word": "官方回应副市长与女同事暖昧",
+      "onboard_time": 1698930757,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 748815,
@@ -936,14 +968,6 @@
       "word": "专家称彩礼理念不改婚姻制度要崩溃",
       "onboard_time": 1698926373,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 656195,
-      "num": 656195,
-      "word": "官方回应副市长与女同事暖昧",
-      "onboard_time": 1698930757,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 402735,
-      "num": 274817,
+      "num": 274938,
       "word": "肖战中美电视节获奖",
       "onboard_time": 1698930094,
       "rank": 23,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1698923794,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397159,
+      "num": 397159,
+      "word": "董宇辉背书方法",
+      "onboard_time": 1698931956,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 396205,
@@ -2009,6 +2041,14 @@
       "onboard_time": 1698817654,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363378,
+      "num": 363378,
+      "word": "Clash 删库跑路",
+      "onboard_time": 1698931894,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 361132,
@@ -2587,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273396,
+      "num": 273396,
+      "word": "飞了36年空姐最后一班飞行哭着告别",
+      "onboard_time": 1698932915,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272828,
       "num": 272828,
       "word": "吴慷仁悼念导演陈慧翎",
@@ -2691,20 +2739,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 269328,
+      "num": 269328,
+      "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+      "onboard_time": 1698924093,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269282,
       "num": 254346,
       "word": "NBA 解说",
       "onboard_time": 1698899619,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268730,
-      "num": 265376,
-      "word": "女孩生日爷爷去世一空乘塞手写信安慰",
-      "onboard_time": 1698924093,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268440,
@@ -2809,6 +2857,14 @@
       "onboard_time": 1698815017,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254967,
+      "num": 254967,
+      "word": "杜华回关了没",
+      "onboard_time": 1698931596,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 253904,
@@ -3107,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229069,
+      "num": 229069,
+      "word": "在现偶古偶反复爱上王鹤棣",
+      "onboard_time": 1698933277,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228646,
       "num": 228646,
       "word": "C罗点赞龙赛罗嘲讽梅西视频",
@@ -3323,6 +3387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212428,
+      "num": 212428,
+      "word": "NewJeans弘大校庆舞台",
+      "onboard_time": 1698933220,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212294,
       "num": 212294,
       "word": "火锅店鼓励食客去隔壁菜场买菜来涮",
@@ -3499,6 +3571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202773,
+      "num": 202773,
+      "word": "儿子假装生病邀请84岁母亲来家住",
+      "onboard_time": 1698933336,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202709,
       "num": 202709,
       "word": "治愈系恋人开播",
@@ -3563,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197552,
+      "num": 197552,
+      "word": "江苏省考筛选什么人才",
+      "onboard_time": 1698931716,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197455,
       "num": 197455,
       "word": "李健 不要人云亦云",
@@ -3609,6 +3697,14 @@
       "onboard_time": 1698815559,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196708,
+      "num": 196708,
+      "word": "刘雯公主切造型",
+      "onboard_time": 1698932436,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 196691,
@@ -4035,14 +4131,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 174960,
-      "num": 174960,
-      "word": "董宇辉背书方法",
-      "onboard_time": 1698931956,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 174361,
       "num": 174361,
       "word": "5块钱的cos能有多惊艳",
@@ -4155,14 +4243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169962,
-      "num": 169962,
-      "word": "杜华回关了没",
-      "onboard_time": 1698931596,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169217,
       "num": 169217,
       "word": "到底要怎样才舍得为自己花钱",
@@ -4193,6 +4273,14 @@
       "onboard_time": 1698837155,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 168439,
+      "num": 168439,
+      "word": "王艺迪3比0巴特拉",
+      "onboard_time": 1698932859,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 167808,
@@ -4497,6 +4585,14 @@
       "onboard_time": 1698821132,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 153089,
+      "num": 153089,
+      "word": "当老婆喜欢随身带大容量吸管杯",
+      "onboard_time": 1698934301,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 152474,
@@ -5011,14 +5107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124207,
-      "num": 124207,
-      "word": "Clash 删库跑路",
-      "onboard_time": 1698931894,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 123667,
       "num": 256966,
       "word": "麻辣王子团叫粉丝麻辣公主",
@@ -5203,12 +5291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116604,
-      "num": 116604,
-      "word": "江苏省考筛选什么人才",
-      "onboard_time": 1698931716,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 115314,
+      "num": 115314,
+      "word": "其实没有什么隔辈亲",
+      "onboard_time": 1698934479,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 114409,
@@ -5256,6 +5344,14 @@
       "word": "致敬折多山交警",
       "onboard_time": 1698908312,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "6岁男孩捐献器官给5个孩子带来新生",
+      "onboard_time": 1698932496,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

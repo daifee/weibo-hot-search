@@ -1,0 +1,408 @@
+{
+  "runTime": 1698934582994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390845,
+        "num": 1390845,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1028678,
+        "num": 1315233,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 675154,
+        "num": 1283322,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1572098,
+        "num": 1283072,
+        "word": "达美乐30分钟必达3年亏损9亿",
+        "onboard_time": 1698930217,
+        "rank": 3,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1282120,
+        "num": 1282120,
+        "word": "俄罗斯撤销全面禁止核试验条约",
+        "onboard_time": 1698932135,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 913376,
+        "num": 913376,
+        "word": "3元钱已经买不到饮料了",
+        "onboard_time": 1698923313,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 898585,
+        "num": 898585,
+        "word": "缅方称一个中缅边境战略城镇失去控制",
+        "onboard_time": 1698926015,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 894201,
+        "num": 894201,
+        "word": "赴美失踪3个月中国女子遗骸疑似被找到",
+        "onboard_time": 1698932796,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759121,
+        "num": 759121,
+        "word": "官方回应副市长与女同事暖昧",
+        "onboard_time": 1698930757,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402910,
+        "num": 402910,
+        "word": "专家称彩礼理念不改婚姻制度要崩溃",
+        "onboard_time": 1698926373,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326675,
+        "num": 401574,
+        "word": "金鸡奖给周冬雨于适P了衣服",
+        "onboard_time": 1698926435,
+        "rank": 10,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 1284441,
+        "num": 401094,
+        "word": "新闻联播",
+        "onboard_time": 1698929253,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 799638,
+        "num": 400584,
+        "word": "张元英凌晨去运动",
+        "onboard_time": 1698933578,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397440,
+        "num": 397440,
+        "word": "秦岚 我们不缺住好酒店的经历",
+        "onboard_time": 1698911915,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397159,
+        "num": 397159,
+        "word": "董宇辉背书方法",
+        "onboard_time": 1698931956,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366462,
+        "num": 366462,
+        "word": "杨紫范丞丞将录制hi6",
+        "onboard_time": 1698930156,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363378,
+        "num": 363378,
+        "word": "Clash 删库跑路",
+        "onboard_time": 1698931894,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324048,
+        "num": 324048,
+        "word": "鹿晗 深圳",
+        "onboard_time": 1698926495,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314513,
+        "num": 314513,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 18,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 282277,
+        "num": 282277,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 467984,
+        "num": 278550,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428352,
+        "num": 276200,
+        "word": "因男朋友妈妈一句话分手了",
+        "onboard_time": 1698925536,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323156,
+        "num": 274938,
+        "word": "肖战中美电视节获奖",
+        "onboard_time": 1698930094,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273396,
+        "num": 273396,
+        "word": "飞了36年空姐最后一班飞行哭着告别",
+        "onboard_time": 1698932915,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269328,
+        "num": 269328,
+        "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+        "onboard_time": 1698924093,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254967,
+        "num": 254967,
+        "word": "杜华回关了没",
+        "onboard_time": 1698931596,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251314,
+        "num": 251314,
+        "word": "莲花楼长尾效应好强",
+        "onboard_time": 1698930634,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229069,
+        "num": 229069,
+        "word": "在现偶古偶反复爱上王鹤棣",
+        "onboard_time": 1698933277,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212428,
+        "num": 212428,
+        "word": "NewJeans弘大校庆舞台",
+        "onboard_time": 1698933220,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212048,
+        "num": 212048,
+        "word": "康师傅回应涨价",
+        "onboard_time": 1698925953,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 202773,
+        "num": 202773,
+        "word": "儿子假装生病邀请84岁母亲来家住",
+        "onboard_time": 1698933336,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197860,
+        "num": 197860,
+        "word": "水管工捡到300克黄金上交意外破获盗窃案",
+        "onboard_time": 1698923794,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197552,
+        "num": 197552,
+        "word": "江苏省考筛选什么人才",
+        "onboard_time": 1698931716,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196708,
+        "num": 196708,
+        "word": "刘雯公主切造型",
+        "onboard_time": 1698932436,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 192544,
+        "num": 192544,
+        "word": "缅北激战画面曝光",
+        "onboard_time": 1698908312,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 192517,
+        "num": 192517,
+        "word": "长期不社交的结果",
+        "onboard_time": 1698918934,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169072,
+        "num": 169072,
+        "word": "金晨 被演戏耽误的北舞校花",
+        "onboard_time": 1698924633,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168439,
+        "num": 168439,
+        "word": "王艺迪3比0巴特拉",
+        "onboard_time": 1698932859,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167842,
+        "num": 167842,
+        "word": "WBG晋级S13四强",
+        "onboard_time": 1698921517,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166775,
+        "num": 166775,
+        "word": "男子用儿子微信花110万规避执行获刑",
+        "onboard_time": 1698917433,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165827,
+        "num": 165827,
+        "word": "被papi酱的表情笑死",
+        "onboard_time": 1698921755,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164907,
+        "num": 164907,
+        "word": "相夷太剑",
+        "onboard_time": 1698916354,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161171,
+        "num": 161171,
+        "word": "4家邻居8年几乎处成1家人",
+        "onboard_time": 1698922834,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153089,
+        "num": 153089,
+        "word": "当老婆喜欢随身带大容量吸管杯",
+        "onboard_time": 1698934301,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149959,
+        "num": 149959,
+        "word": "邓紫棋 门票",
+        "onboard_time": 1698926253,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144558,
+        "num": 144558,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141482,
+        "num": 141482,
+        "word": "刘润道歉",
+        "onboard_time": 1698930996,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118921,
+        "num": 118921,
+        "word": "都暻秀与SMtown合约到期",
+        "onboard_time": 1698922235,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115314,
+        "num": 115314,
+        "word": "其实没有什么隔辈亲",
+        "onboard_time": 1698934479,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110913,
+        "num": 110913,
+        "word": "6岁男孩捐献器官给5个孩子带来新生",
+        "onboard_time": 1698932496,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": null
+  }
+}
