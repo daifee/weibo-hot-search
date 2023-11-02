@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698916615161,
+  "endTime": 1698917664740,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -147,19 +147,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1314538,
+      "num": 370473,
+      "word": "私教离职后充100万健身卡女子欲退款",
+      "onboard_time": 1698911318,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236206,
       "num": 657352,
       "word": "湖北大学保卫处回应情侣与校外人冲突",
       "onboard_time": 1698887497,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1218583,
-      "num": 370473,
-      "word": "私教离职后充100万健身卡女子欲退款",
-      "onboard_time": 1698911318,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 924328,
+      "num": 370260,
+      "word": "顾客举报喜茶一门店浪费水",
+      "onboard_time": 1698910478,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 892251,
       "num": 892251,
       "word": "海归博士985硕士求职因本科双非被刷",
@@ -265,14 +273,6 @@
       "onboard_time": 1698843513,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 813168,
-      "num": 370260,
-      "word": "顾客举报喜茶一门店浪费水",
-      "onboard_time": 1698910478,
-      "rank": 16,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 812558,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416256,
+      "num": 255513,
+      "word": "相夷太剑",
+      "onboard_time": 1698916354,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 413822,
       "num": 296034,
       "word": "于正 我讨厌oe喜欢1V1",
@@ -641,6 +649,14 @@
       "onboard_time": 1698894573,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409188,
+      "num": 345106,
+      "word": "吴京怕被说耍大牌不让安保围着",
+      "onboard_time": 1698916535,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 408835,
@@ -747,7 +763,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 375369,
+      "raw_hot": 375651,
       "num": 367774,
       "word": "WBG先下一城",
       "onboard_time": 1698916112,
@@ -817,14 +833,6 @@
       "onboard_time": 1698890734,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345106,
-      "num": 345106,
-      "word": "吴京怕被说耍大牌不让安保围着",
-      "onboard_time": 1698916535,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 342264,
@@ -937,6 +945,14 @@
       "onboard_time": 1698910717,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288145,
+      "num": 253540,
+      "word": "公婆耗时5个月为儿媳打造草坪婚礼",
+      "onboard_time": 1698915816,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288114,
@@ -1091,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258863,
+      "num": 258863,
+      "word": "中国担任联合国安理会本月轮值主席",
+      "onboard_time": 1698917371,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 256164,
       "num": 170064,
       "word": "ChatGPT可能已经有了意识",
@@ -1163,14 +1187,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 227353,
-      "num": 227353,
-      "word": "公婆耗时5个月为儿媳打造草坪婚礼",
-      "onboard_time": 1698915816,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226905,
       "num": 226905,
       "word": "韩国人的形容好离谱",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1698902973,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224082,
+      "num": 372427,
+      "word": "8岁女孩和41岁妈妈练出同款腹肌",
+      "onboard_time": 1698910478,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 223574,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1698883536,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219210,
-      "num": 372427,
-      "word": "8岁女孩和41岁妈妈练出同款腹肌",
-      "onboard_time": 1698910478,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 215180,
@@ -1651,19 +1667,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148925,
-      "num": 148925,
-      "word": "相夷太剑",
-      "onboard_time": 1698916354,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 148599,
       "num": 148599,
       "word": "问路老人和指路女孩时隔4年相聚了",
       "onboard_time": 1698856645,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148528,
+      "num": 148528,
+      "word": "男子用儿子微信花110万规避执行获刑",
+      "onboard_time": 1698917433,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1755,6 +1771,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 142623,
+      "num": 142623,
+      "word": "如何看待辛巴带货慕思床垫事件",
+      "onboard_time": 1698916891,
+      "rank": 41,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 142353,
       "num": 142353,
       "word": "白鹿一部剧开机一部剧定档",
@@ -1819,6 +1843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134102,
+      "num": 134102,
+      "word": "金智秀ELLE新加坡30周年刊封",
+      "onboard_time": 1698914913,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133522,
+      "num": 177834,
+      "word": "接受过帮助的她长大后想帮助更多人",
+      "onboard_time": 1698916773,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 133179,
       "num": 133179,
       "word": "成都爱心面馆报暗号免费吃面",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1698850958,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125187,
-      "num": 125187,
-      "word": "金智秀ELLE新加坡30周年刊封",
-      "onboard_time": 1698914913,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123375,
@@ -1953,6 +1985,14 @@
       "onboard_time": 1698856110,
       "rank": 48,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 101339,
+      "num": 101339,
+      "word": "这个拥抱一家人等了17年",
+      "onboard_time": 1698917552,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99766,

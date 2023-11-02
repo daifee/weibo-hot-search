@@ -1,0 +1,408 @@
+{
+  "runTime": 1698917664740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2736478,
+        "num": 2736478,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1365357,
+        "num": 1365357,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1156860,
+        "num": 1156860,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 940551,
+        "num": 940551,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 478798,
+        "num": 478798,
+        "word": "湖南一医院解聘全体员工",
+        "onboard_time": 1698906631,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369671,
+        "num": 369671,
+        "word": "18岁弟弟被姐姐带去打九价",
+        "onboard_time": 1698905674,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258863,
+        "num": 258863,
+        "word": "中国担任联合国安理会本月轮值主席",
+        "onboard_time": 1698917371,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 224082,
+        "num": 258656,
+        "word": "8岁女孩和41岁妈妈练出同款腹肌",
+        "onboard_time": 1698910478,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165143,
+        "num": 258343,
+        "word": "残疾妻子坚持每天给摆摊丈夫送饭",
+        "onboard_time": 1698910299,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 148487,
+        "num": 258182,
+        "word": "江苏省考",
+        "onboard_time": 1698909641,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1457735,
+        "num": 257807,
+        "word": "秦岚 我们不缺住好酒店的经历",
+        "onboard_time": 1698911915,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1314538,
+        "num": 257579,
+        "word": "私教离职后充100万健身卡女子欲退款",
+        "onboard_time": 1698911318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924328,
+        "num": 257104,
+        "word": "顾客举报喜茶一门店浪费水",
+        "onboard_time": 1698910478,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 801487,
+        "num": 256938,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 13,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 638402,
+        "num": 256666,
+        "word": "缅北激战画面曝光",
+        "onboard_time": 1698908312,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 627919,
+        "num": 256246,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517256,
+        "num": 256145,
+        "word": "康师傅涨价",
+        "onboard_time": 1698904472,
+        "rank": 16,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 487246,
+        "num": 255799,
+        "word": "辛芷蕾但凡有点金玉妍的心思在身上",
+        "onboard_time": 1698914732,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416256,
+        "num": 255513,
+        "word": "相夷太剑",
+        "onboard_time": 1698916354,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 409188,
+        "num": 255073,
+        "word": "吴京怕被说耍大牌不让安保围着",
+        "onboard_time": 1698916535,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1246369,
+        "num": 254907,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513439,
+        "num": 254565,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 388766,
+        "num": 254235,
+        "word": "临近婚期被要求加3万彩礼男子退婚",
+        "onboard_time": 1698912695,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375651,
+        "num": 254075,
+        "word": "WBG先下一城",
+        "onboard_time": 1698916112,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 344050,
+        "num": 253779,
+        "word": "王一博陈伟霆刘诗诗张子枫同框看秀",
+        "onboard_time": 1698914254,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288145,
+        "num": 253540,
+        "word": "公婆耗时5个月为儿媳打造草坪婚礼",
+        "onboard_time": 1698915816,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265047,
+        "num": 253223,
+        "word": "香奈儿大秀",
+        "onboard_time": 1698912935,
+        "rank": 26,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 252981,
+        "num": 252981,
+        "word": "NRG对战WBG",
+        "onboard_time": 1698909158,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244040,
+        "num": 244040,
+        "word": "985硕士毕业找工作底薪3400",
+        "onboard_time": 1698908013,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 218391,
+        "num": 218391,
+        "word": "香蕉的茎也可以吃吗",
+        "onboard_time": 1698914613,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210216,
+        "num": 210216,
+        "word": "刘律真的好励志",
+        "onboard_time": 1698912277,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183848,
+        "num": 183848,
+        "word": "英雄联盟",
+        "onboard_time": 1698916292,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186455,
+        "num": 182070,
+        "word": "了解黄凯 理解黄凯 成为黄凯",
+        "onboard_time": 1698910717,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178675,
+        "num": 178675,
+        "word": "柚子皮高颅顶真的生产了",
+        "onboard_time": 1698903934,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133522,
+        "num": 177834,
+        "word": "接受过帮助的她长大后想帮助更多人",
+        "onboard_time": 1698916773,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177521,
+        "num": 177521,
+        "word": "天官赐福花城穿了光腿神器",
+        "onboard_time": 1698900938,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176454,
+        "num": 176454,
+        "word": "一包零食鸡爪价格堪比一只鸡",
+        "onboard_time": 1698911139,
+        "rank": 36,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 157732,
+        "num": 157732,
+        "word": "剧版左耳",
+        "onboard_time": 1698900220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154534,
+        "num": 154534,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148528,
+        "num": 148528,
+        "word": "男子用儿子微信花110万规避执行获刑",
+        "onboard_time": 1698917433,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148315,
+        "num": 148315,
+        "word": "S13",
+        "onboard_time": 1698915336,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142623,
+        "num": 142623,
+        "word": "如何看待辛巴带货慕思床垫事件",
+        "onboard_time": 1698916891,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 134333,
+        "num": 134333,
+        "word": "胃其实是情绪器官",
+        "onboard_time": 1698908674,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134102,
+        "num": 134102,
+        "word": "金智秀ELLE新加坡30周年刊封",
+        "onboard_time": 1698914913,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119266,
+        "num": 119266,
+        "word": "湖大冲突事件双方达成谅解",
+        "onboard_time": 1698896733,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 114377,
+        "num": 114377,
+        "word": "刘亚仁教唆他人吸毒",
+        "onboard_time": 1698897754,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107316,
+        "num": 107316,
+        "word": "为什么艺人出外景不脱妆",
+        "onboard_time": 1698907353,
+        "rank": 46,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 105456,
+        "num": 105456,
+        "word": "为有暗香来 植物人昏迷两年爱上护工",
+        "onboard_time": 1698897995,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101339,
+        "num": 101339,
+        "word": "这个拥抱一家人等了17年",
+        "onboard_time": 1698917552,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96126,
+        "num": 96126,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": null
+  }
+}

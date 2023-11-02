@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698916615161,
+  "endTime": 1698917664740,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -795,6 +795,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1314538,
+      "num": 370473,
+      "word": "私教离职后充100万健身卡女子欲退款",
+      "onboard_time": 1698911318,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1286755,
       "num": 349013,
       "word": "万圣节cos关晓彤",
@@ -865,14 +873,6 @@
       "onboard_time": 1698555571,
       "rank": 4,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 1218583,
-      "num": 370473,
-      "word": "私教离职后充100万健身卡女子欲退款",
-      "onboard_time": 1698911318,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1212697,
@@ -1347,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 924328,
+      "num": 370260,
+      "word": "顾客举报喜茶一门店浪费水",
+      "onboard_time": 1698910478,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 915276,
       "num": 915276,
       "word": "女毒贩为逃避刑罚6年生4娃",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1698825271,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 813168,
-      "num": 370260,
-      "word": "顾客举报喜茶一门店浪费水",
-      "onboard_time": 1698910478,
-      "rank": 16,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 812873,
@@ -3835,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416256,
+      "num": 255513,
+      "word": "相夷太剑",
+      "onboard_time": 1698916354,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 414508,
       "num": 414508,
       "word": "幼童卡喉脸已发紫护士45秒极速营救",
@@ -3889,6 +3897,14 @@
       "onboard_time": 1698894573,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409188,
+      "num": 345106,
+      "word": "吴京怕被说耍大牌不让安保围着",
+      "onboard_time": 1698916535,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 408835,
@@ -4275,7 +4291,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375369,
+      "raw_hot": 375651,
       "num": 367774,
       "word": "WBG先下一城",
       "onboard_time": 1698916112,
@@ -4601,14 +4617,6 @@
       "onboard_time": 1698890734,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345106,
-      "num": 345106,
-      "word": "吴京怕被说耍大牌不让安保围着",
-      "onboard_time": 1698916535,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 344619,
@@ -5443,6 +5451,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 288145,
+      "num": 253540,
+      "word": "公婆耗时5个月为儿媳打造草坪婚礼",
+      "onboard_time": 1698915816,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288114,
       "num": 288114,
       "word": "秦岚说嗓子没好辛芷蕾得负一半责任",
@@ -6065,6 +6081,14 @@
       "onboard_time": 1698850958,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258863,
+      "num": 258863,
+      "word": "中国担任联合国安理会本月轮值主席",
+      "onboard_time": 1698917371,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 258255,
@@ -6979,14 +7003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227353,
-      "num": 227353,
-      "word": "公婆耗时5个月为儿媳打造草坪婚礼",
-      "onboard_time": 1698915816,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227210,
       "num": 275176,
       "word": "李克强同志逝世",
@@ -7097,6 +7113,14 @@
       "onboard_time": 1698763778,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224082,
+      "num": 372427,
+      "word": "8岁女孩和41岁妈妈练出同款腹肌",
+      "onboard_time": 1698910478,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 223574,
@@ -7257,14 +7281,6 @@
       "onboard_time": 1698637119,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219210,
-      "num": 372427,
-      "word": "8岁女孩和41岁妈妈练出同款腹肌",
-      "onboard_time": 1698910478,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 218063,
@@ -10843,14 +10859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148925,
-      "num": 148925,
-      "word": "相夷太剑",
-      "onboard_time": 1698916354,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 148692,
       "num": 148692,
       "word": "vivoX100价格曝光",
@@ -10864,6 +10872,14 @@
       "word": "问路老人和指路女孩时隔4年相聚了",
       "onboard_time": 1698856645,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148528,
+      "num": 148528,
+      "word": "男子用儿子微信花110万规避执行获刑",
+      "onboard_time": 1698917433,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -11193,6 +11209,14 @@
       "onboard_time": 1698751472,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142623,
+      "num": 142623,
+      "word": "如何看待辛巴带货慕思床垫事件",
+      "onboard_time": 1698916891,
+      "rank": 41,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 142603,
@@ -11579,6 +11603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134102,
+      "num": 134102,
+      "word": "金智秀ELLE新加坡30周年刊封",
+      "onboard_time": 1698914913,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134067,
       "num": 134067,
       "word": "辛芷蕾是懂花少drama效果的",
@@ -11601,6 +11633,14 @@
       "onboard_time": 1698821369,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133522,
+      "num": 177834,
+      "word": "接受过帮助的她长大后想帮助更多人",
+      "onboard_time": 1698916773,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 133413,
@@ -12081,14 +12121,6 @@
       "onboard_time": 1698769588,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125187,
-      "num": 125187,
-      "word": "金智秀ELLE新加坡30周年刊封",
-      "onboard_time": 1698914913,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124787,
@@ -13017,6 +13049,14 @@
       "onboard_time": 1698669991,
       "rank": 48,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 101339,
+      "num": 101339,
+      "word": "这个拥抱一家人等了17年",
+      "onboard_time": 1698917552,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101219,
