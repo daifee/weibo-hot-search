@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698956280678,
+  "endTime": 1698957280796,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -507,6 +507,14 @@
       "category": "作品衍生,教育"
     },
     {
+      "raw_hot": 13620,
+      "num": 13800,
+      "word": "狗狗邀请主人一起玩时的小碎步",
+      "onboard_time": 1698955272,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13148,
       "num": 14377,
       "word": "明日方舟 橘里橘气",
@@ -515,12 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12144,
-      "num": 13800,
-      "word": "狗狗邀请主人一起玩时的小碎步",
-      "onboard_time": 1698955272,
+      "raw_hot": 12410,
+      "num": 12410,
+      "word": "京城大师赛",
+      "onboard_time": 1698955814,
       "rank": 47,
-      "category": "幽默"
+      "category": "游戏"
     },
     {
       "raw_hot": 11797,
