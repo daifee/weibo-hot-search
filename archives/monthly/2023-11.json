@@ -1,7 +1,15 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698881639894,
+  "endTime": 1698887538275,
   "band_list": [
+    {
+      "raw_hot": 7458191,
+      "num": 7458191,
+      "word": "天安门下半旗悼念李克强同志",
+      "onboard_time": 1698884075,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 3213405,
       "num": 593913,
@@ -171,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1514754,
+      "num": 336847,
+      "word": "傅首尔是在告别吗",
+      "onboard_time": 1698882452,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1497092,
       "num": 1497092,
       "word": "以爱为营定档",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1097870,
+      "num": 334055,
+      "word": "仙剑4要来了",
+      "onboard_time": 1698884862,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072733,
       "num": 1072733,
       "word": "对不起那英我喜欢这英",
@@ -347,6 +371,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 935481,
+      "num": 935481,
+      "word": "离世女教师加班数石榴系谣言",
+      "onboard_time": 1698883295,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897081,
       "num": 897081,
       "word": "7款APP全网下架",
@@ -361,6 +393,14 @@
       "onboard_time": 1698843513,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892251,
+      "num": 892251,
+      "word": "海归博士985硕士求职因本科双非被刷",
+      "onboard_time": 1698880223,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 878305,
@@ -699,6 +739,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 579736,
+      "num": 328330,
+      "word": "黄凯在offer5做医美",
+      "onboard_time": 1698882573,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 574578,
+      "num": 574578,
+      "word": "网红低价叫卖学习机实际贵1700元",
+      "onboard_time": 1698886298,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 572242,
       "num": 572242,
       "word": "白鹿一部剧开机一部剧定档",
@@ -729,6 +785,14 @@
       "onboard_time": 1698831213,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548631,
+      "num": 324515,
+      "word": "漫威考虑复活钢铁侠黑寡妇",
+      "onboard_time": 1698886538,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 534192,
@@ -987,12 +1051,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 430340,
+      "num": 320655,
+      "word": "蒋依依cos失眠鬼",
+      "onboard_time": 1698885764,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422785,
       "num": 422785,
       "word": "傅首尔老刘拥抱的瞬间太阳出来了",
       "onboard_time": 1698838713,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420361,
+      "num": 420361,
+      "word": "支原体肺炎防治9个提醒",
+      "onboard_time": 1698883536,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 414344,
@@ -1027,8 +1107,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405354,
-      "num": 405354,
+      "raw_hot": 405929,
+      "num": 405929,
       "word": "樊振东1比3李尚洙",
       "onboard_time": 1698880705,
       "rank": 6,
@@ -1057,6 +1137,22 @@
       "onboard_time": 1698799835,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400842,
+      "num": 319068,
+      "word": "莎头 稳稳的幸福",
+      "onboard_time": 1698884075,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 399211,
+      "num": 224567,
+      "word": "奥恰洛夫晋级冠军赛8强",
+      "onboard_time": 1698885220,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 393583,
@@ -1099,12 +1195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387276,
+      "num": 315342,
+      "word": "声生不息中华季",
+      "onboard_time": 1698883054,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384448,
       "num": 384448,
       "word": "天官赐福",
       "onboard_time": 1698840876,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 381298,
+      "num": 381298,
+      "word": "美国国务卿将再访以色列",
+      "onboard_time": 1698884922,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 380861,
@@ -1187,12 +1299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347623,
+      "num": 306358,
+      "word": "王宝钏挖野菜cos",
+      "onboard_time": 1698885520,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 343572,
       "num": 343572,
       "word": "大吉岭茶与无人区玫瑰",
       "onboard_time": 1698763177,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342264,
+      "num": 342264,
+      "word": "约旦召回驻以色列大使",
+      "onboard_time": 1698884198,
+      "rank": 9,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 341627,
@@ -1252,7 +1380,7 @@
     },
     {
       "raw_hot": 323664,
-      "num": 266090,
+      "num": 278814,
       "word": "向佐 我只是长的凶",
       "onboard_time": 1698880348,
       "rank": 16,
@@ -1315,14 +1443,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 313065,
-      "num": 313065,
-      "word": "海归博士985硕士求职因本科双非被刷",
-      "onboard_time": 1698880223,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 312758,
       "num": 257003,
       "word": "李咏女儿气场",
@@ -1345,6 +1465,14 @@
       "onboard_time": 1698808711,
       "rank": 28,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 306093,
+      "num": 306093,
+      "word": "天官赐福第三集真是好大一张床",
+      "onboard_time": 1698883965,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 305086,
@@ -1433,6 +1561,14 @@
       "onboard_time": 1698853476,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273955,
+      "num": 273955,
+      "word": "羊 就你叫牧羊犬啊",
+      "onboard_time": 1698882994,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 272753,
@@ -1553,6 +1689,14 @@
       "onboard_time": 1698864795,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259602,
+      "num": 259602,
+      "word": "黄凯哭了",
+      "onboard_time": 1698884316,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 258931,
@@ -1681,6 +1825,14 @@
       "onboard_time": 1698809495,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243486,
+      "num": 243486,
+      "word": "苹果取消AppleWatch应用兼容安卓计划",
+      "onboard_time": 1698887379,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 242762,
@@ -1899,6 +2051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220883,
+      "num": 220883,
+      "word": "真正的赌徒 不定闹钟我也能睡醒",
+      "onboard_time": 1698886966,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 219721,
+      "num": 219721,
+      "word": "秦岚迪丽热巴 丽挽狂岚",
+      "onboard_time": 1698883536,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218063,
       "num": 205997,
       "word": "柯佳嬿的收视率我来守护",
@@ -1963,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212191,
+      "num": 212191,
+      "word": "追星女的cos",
+      "onboard_time": 1698884862,
+      "rank": 33,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "9.9四斤洗衣液还能赚一块三",
@@ -1977,6 +2153,22 @@
       "onboard_time": 1698820531,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210841,
+      "num": 210841,
+      "word": "快船官宣哈登加盟",
+      "onboard_time": 1698885458,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210654,
+      "num": 210654,
+      "word": "国际大牌彩妆卖不动了",
+      "onboard_time": 1698883965,
+      "rank": 35,
+      "category": "美妆,财经"
     },
     {
       "raw_hot": 209541,
@@ -2267,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189835,
+      "num": 189835,
+      "word": "缅甸",
+      "onboard_time": 1698887258,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 189784,
       "num": 189784,
       "word": "双十一互助",
@@ -2307,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187093,
+      "num": 187093,
+      "word": "美联储连续两次暂停加息",
+      "onboard_time": 1698881850,
+      "rank": 40,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 186842,
       "num": 186842,
       "word": "秦岚 我是百灵鸟",
@@ -2329,6 +2537,14 @@
       "onboard_time": 1698812013,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 185454,
+      "num": 185454,
+      "word": "47岁派出所所长生前最后一通电话",
+      "onboard_time": 1698881067,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185382,
@@ -2491,6 +2707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172185,
+      "num": 172185,
+      "word": "B太 夜市坑人游戏套路",
+      "onboard_time": 1698881791,
+      "rank": 43,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 171400,
       "num": 171400,
       "word": "被同事直接叫了微信名",
@@ -2547,6 +2771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169028,
+      "num": 169028,
+      "word": "湖北大学保卫处回应情侣与校外人冲突",
+      "onboard_time": 1698887497,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168441,
       "num": 168441,
       "word": "一分钟看纯享版邓为穿搭",
@@ -2601,6 +2833,14 @@
       "onboard_time": 1698802172,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165880,
+      "num": 165880,
+      "word": "张栋梁第一次当卧底失败的原因",
+      "onboard_time": 1698858741,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 165685,
@@ -2745,6 +2985,14 @@
       "onboard_time": 1698794304,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155477,
+      "num": 155477,
+      "word": "放归一年后网红黄麂回来探望救命恩人",
+      "onboard_time": 1698884678,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154974,
@@ -3041,14 +3289,6 @@
       "onboard_time": 1698823232,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132325,
-      "num": 132325,
-      "word": "张栋梁第一次当卧底失败的原因",
-      "onboard_time": 1698858741,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 131999,
@@ -3395,12 +3635,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 92216,
-      "num": 92216,
-      "word": "47岁派出所所长生前最后一通电话",
-      "onboard_time": 1698881067,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 92668,
+      "num": 1128921,
+      "word": "6位航天员太空会面瞬间回顾",
+      "onboard_time": 1698842616,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 89888,
@@ -3553,14 +3793,6 @@
       "onboard_time": 1698767312,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54521,
-      "num": 1128921,
-      "word": "6位航天员太空会面瞬间回顾",
-      "onboard_time": 1698842616,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 52356,

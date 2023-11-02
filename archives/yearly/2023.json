@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698881639894,
+  "endTime": 1698887538275,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 7458191,
+      "num": 7458191,
+      "word": "天安门下半旗悼念李克强同志",
+      "onboard_time": 1698884075,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 7420684,
       "num": 2162913,
       "word": "动如脱兔的邓超",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1694401298,
       "rank": 25,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 5778123,
-      "num": 338303,
-      "word": "王泽鹏没第一时间站出来因为怯懦",
-      "onboard_time": 1692504398,
-      "rank": 31,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
