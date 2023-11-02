@@ -1,0 +1,410 @@
+{
+  "runTime": 1698909400661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6964611,
+        "num": 8214611,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3538275,
+        "num": 3538275,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86650,
+        "num": 3286538,
+        "word": "中国计划开启太阳立体探测时代",
+        "onboard_time": 1698901598,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3128361,
+        "num": 3128361,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1607856,
+        "num": 1607856,
+        "word": "康师傅涨价",
+        "onboard_time": 1698904472,
+        "rank": 4,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1116460,
+        "num": 1116460,
+        "word": "18岁弟弟被姐姐带去打九价",
+        "onboard_time": 1698905674,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998591,
+        "num": 998591,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 516238,
+        "num": 516238,
+        "word": "湖南一医院解聘全体员工",
+        "onboard_time": 1698906631,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291387,
+        "num": 291387,
+        "word": "年轻人逛商场只去B1B2",
+        "onboard_time": 1698894512,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 260015,
+        "num": 260015,
+        "word": "卫健委回应医院解聘全体员工",
+        "onboard_time": 1698905372,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1861855,
+        "num": 259646,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1768917,
+        "num": 259431,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 574512,
+        "num": 259015,
+        "word": "缅北激战画面曝光",
+        "onboard_time": 1698908312,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 566421,
+        "num": 258383,
+        "word": "柚子皮高颅顶真的生产了",
+        "onboard_time": 1698903934,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 414526,
+        "num": 257969,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442103,
+        "num": 257268,
+        "word": "刘亚仁教唆他人吸毒",
+        "onboard_time": 1698897754,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396205,
+        "num": 257047,
+        "word": "NRG对战WBG",
+        "onboard_time": 1698909158,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 392005,
+        "num": 256568,
+        "word": "贾静雯发文悼念陈慧翎",
+        "onboard_time": 1698899017,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377245,
+        "num": 255971,
+        "word": "鱼都以被做成西湖醋鱼为耻",
+        "onboard_time": 1698903096,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375433,
+        "num": 255558,
+        "word": "知情人士称辛巴屡次在抖音发布不实信息",
+        "onboard_time": 1698908373,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 673048,
+        "num": 254907,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317694,
+        "num": 254693,
+        "word": "剧版左耳",
+        "onboard_time": 1698900220,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281434,
+        "num": 254366,
+        "word": "研究表明频繁使用手机或降低精液质量",
+        "onboard_time": 1698906511,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 275762,
+        "num": 253697,
+        "word": "周迅王一博学网球",
+        "onboard_time": 1698908916,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253512,
+        "num": 253512,
+        "word": "宋轶同款鸡毛感丸子头",
+        "onboard_time": 1698904592,
+        "rank": 24,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 249369,
+        "num": 249369,
+        "word": "985硕士毕业找工作底薪3400",
+        "onboard_time": 1698908013,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235924,
+        "num": 235924,
+        "word": "天官赐福花城穿了光腿神器",
+        "onboard_time": 1698900938,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 230893,
+        "num": 230893,
+        "word": "36岁男子脑死亡捐器官救5人",
+        "onboard_time": 1698894395,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 226746,
+        "num": 226746,
+        "word": "吴建豪经纪人回应",
+        "onboard_time": 1698905072,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219285,
+        "num": 219285,
+        "word": "为什么艺人出外景不脱妆",
+        "onboard_time": 1698907353,
+        "rank": 29,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 207649,
+        "num": 207649,
+        "word": "浙江一县城每天喝掉1.5万杯咖啡",
+        "onboard_time": 1698904234,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206756,
+        "num": 206756,
+        "word": "高校通报贫困生举报助学金名额被挤",
+        "onboard_time": 1698896192,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197455,
+        "num": 197455,
+        "word": "李健 不要人云亦云",
+        "onboard_time": 1698907533,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196821,
+        "num": 196821,
+        "word": "湖大冲突事件双方达成谅解",
+        "onboard_time": 1698896733,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 196300,
+        "num": 196300,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186596,
+        "num": 186596,
+        "word": "陈楚生王栎鑫互相伤害",
+        "onboard_time": 1698908013,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183244,
+        "num": 183244,
+        "word": "女孩吃小粉丸瘦到50斤多器官出血",
+        "onboard_time": 1698893014,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173660,
+        "num": 173660,
+        "word": "胃其实是情绪器官",
+        "onboard_time": 1698908674,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161451,
+        "num": 161451,
+        "word": "欧洲人煮米饭",
+        "onboard_time": 1698905971,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160783,
+        "num": 160783,
+        "word": "辛芷蕾名字的由来",
+        "onboard_time": 1698906572,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157877,
+        "num": 157877,
+        "word": "香水品味最好的男明星",
+        "onboard_time": 1698908433,
+        "rank": 40,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 147655,
+        "num": 147655,
+        "word": "以爱为营爱逢对手版预告",
+        "onboard_time": 1698906393,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146465,
+        "num": 146465,
+        "word": "为有暗香来 植物人昏迷两年爱上护工",
+        "onboard_time": 1698897995,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128256,
+        "num": 128256,
+        "word": "湖人终于赢快船了",
+        "onboard_time": 1698902673,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146905,
+        "num": 125183,
+        "word": "辛芷蕾 秦岚你是电音百灵鸟",
+        "onboard_time": 1698903035,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120544,
+        "num": 120544,
+        "word": "手残也能画的赵小棠爆闪妆",
+        "onboard_time": 1698907652,
+        "rank": 45,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 110336,
+        "num": 110336,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1698898716,
+        "rank": 46,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 106136,
+        "num": 106136,
+        "word": "于正 我讨厌oe喜欢1V1",
+        "onboard_time": 1698893253,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105250,
+        "num": 105250,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105024,
+        "num": 105024,
+        "word": "高中生警务站门口放下礼物转身就跑",
+        "onboard_time": 1698907895,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央金融工作会议释放重要信号#"
+    }
+  }
+}
