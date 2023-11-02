@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698887538275,
+  "endTime": 1698888752905,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1769779,
-      "num": 539974,
+      "num": 676290,
       "word": "缅甸",
       "onboard_time": 1698673835,
       "rank": 12,
@@ -1091,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 970738,
+      "num": 970738,
+      "word": "离世女教师加班数石榴系谣言",
+      "onboard_time": 1698883295,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962074,
       "num": 962074,
       "word": "北大辟谣韦东奕被解雇",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1698579155,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 935481,
-      "num": 935481,
-      "word": "离世女教师加班数石榴系谣言",
-      "onboard_time": 1698883295,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 930537,
@@ -1995,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 636510,
+      "num": 636510,
+      "word": "湖北大学保卫处回应情侣与校外人冲突",
+      "onboard_time": 1698887497,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635945,
       "num": 635945,
       "word": "以爱为营预告",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1698750334,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625148,
+      "num": 625148,
+      "word": "苹果取消AppleWatch应用兼容安卓计划",
+      "onboard_time": 1698887379,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 624841,
@@ -2137,6 +2153,22 @@
       "onboard_time": 1698842972,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614572,
+      "num": 301344,
+      "word": "斯嘉丽起诉AI开发商",
+      "onboard_time": 1698888160,
+      "rank": 13,
+      "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 613542,
+      "num": 324515,
+      "word": "漫威考虑复活钢铁侠黑寡妇",
+      "onboard_time": 1698886538,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 613227,
@@ -2617,14 +2649,6 @@
       "onboard_time": 1698831213,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548631,
-      "num": 324515,
-      "word": "漫威考虑复活钢铁侠黑寡妇",
-      "onboard_time": 1698886538,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 547745,
@@ -3475,6 +3499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408835,
+      "num": 298649,
+      "word": "8个不经意却很不卫生的行为",
+      "onboard_time": 1698887976,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 408749,
       "num": 274128,
       "word": "1晚少了11只螃蟹蟹农怒而报警",
@@ -3580,7 +3612,7 @@
     },
     {
       "raw_hot": 399211,
-      "num": 224567,
+      "num": 297620,
       "word": "奥恰洛夫晋级冠军赛8强",
       "onboard_time": 1698885220,
       "rank": 30,
@@ -5283,6 +5315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261306,
+      "num": 261306,
+      "word": "黄凯哭了",
+      "onboard_time": 1698884316,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261282,
       "num": 261282,
       "word": "张婉婷 我吵架是有天赋的",
@@ -5321,14 +5361,6 @@
       "onboard_time": 1698729272,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259602,
-      "num": 259602,
-      "word": "黄凯哭了",
-      "onboard_time": 1698884316,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 259493,
@@ -5745,14 +5777,6 @@
       "onboard_time": 1698562890,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 243486,
-      "num": 243486,
-      "word": "苹果取消AppleWatch应用兼容安卓计划",
-      "onboard_time": 1698887379,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 243251,
@@ -7819,6 +7843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190650,
+      "num": 190650,
+      "word": "美依礼芽回应年轻粉丝的喜爱",
+      "onboard_time": 1698888455,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190132,
       "num": 190132,
       "word": "老头乐",
@@ -8169,6 +8201,14 @@
       "onboard_time": 1698630928,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184403,
+      "num": 184403,
+      "word": "交警霸气喊话开路送重伤老人就医",
+      "onboard_time": 1698887976,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184401,
@@ -8883,14 +8923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169028,
-      "num": 169028,
-      "word": "湖北大学保卫处回应情侣与校外人冲突",
-      "onboard_time": 1698887497,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168949,
       "num": 168949,
       "word": "拜仁8比0达姆施塔特",
@@ -9467,6 +9499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157155,
+      "num": 157155,
+      "word": "徐斯 商战男菩萨",
+      "onboard_time": 1698887857,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157129,
       "num": 157129,
       "word": "卢昱晓少女情绪大片",
@@ -9923,6 +9963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147323,
+      "num": 147323,
+      "word": "来自广东的喜糖甜了杭州民警的心",
+      "onboard_time": 1698888038,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 147259,
       "num": 147259,
       "word": "新疆阿克苏地震",
@@ -10041,6 +10089,14 @@
       "onboard_time": 1698736112,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144804,
+      "num": 144804,
+      "word": "中国护照里藏着祖国大好河山",
+      "onboard_time": 1698888575,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 144437,

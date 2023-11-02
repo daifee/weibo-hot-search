@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698887538275,
+  "endTime": 1698888752905,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 935481,
-      "num": 935481,
+      "raw_hot": 970738,
+      "num": 970738,
       "word": "离世女教师加班数石榴系谣言",
       "onboard_time": 1698883295,
       "rank": 1,
@@ -91,12 +91,52 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 676290,
+      "num": 676290,
+      "word": "缅甸",
+      "onboard_time": 1698887258,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 644269,
       "num": 644269,
       "word": "男生住商场楼梯下超半年无人知晓",
       "onboard_time": 1698851318,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636510,
+      "num": 636510,
+      "word": "湖北大学保卫处回应情侣与校外人冲突",
+      "onboard_time": 1698887497,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625148,
+      "num": 625148,
+      "word": "苹果取消AppleWatch应用兼容安卓计划",
+      "onboard_time": 1698887379,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 614572,
+      "num": 301344,
+      "word": "斯嘉丽起诉AI开发商",
+      "onboard_time": 1698888160,
+      "rank": 13,
+      "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 613542,
+      "num": 324515,
+      "word": "漫威考虑复活钢铁侠黑寡妇",
+      "onboard_time": 1698886538,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 589101,
@@ -137,14 +177,6 @@
       "onboard_time": 1698833372,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548631,
-      "num": 324515,
-      "word": "漫威考虑复活钢铁侠黑寡妇",
-      "onboard_time": 1698886538,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 492115,
@@ -219,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408835,
+      "num": 298649,
+      "word": "8个不经意却很不卫生的行为",
+      "onboard_time": 1698887976,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 407141,
       "num": 407141,
       "word": "不敢想和秦岚一起旅行会多快乐",
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 399211,
-      "num": 224567,
+      "num": 297620,
       "word": "奥恰洛夫晋级冠军赛8强",
       "onboard_time": 1698885220,
       "rank": 30,
@@ -371,8 +411,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 259602,
-      "num": 259602,
+      "raw_hot": 261306,
+      "num": 261306,
       "word": "黄凯哭了",
       "onboard_time": 1698884316,
       "rank": 27,
@@ -401,14 +441,6 @@
       "onboard_time": 1698846397,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243486,
-      "num": 243486,
-      "word": "苹果取消AppleWatch应用兼容安卓计划",
-      "onboard_time": 1698887379,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 241197,
@@ -483,12 +515,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 189835,
-      "num": 189835,
-      "word": "缅甸",
-      "onboard_time": 1698887258,
-      "rank": 39,
-      "category": "国外要闻"
+      "raw_hot": 190650,
+      "num": 190650,
+      "word": "美依礼芽回应年轻粉丝的喜爱",
+      "onboard_time": 1698888455,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187093,
@@ -512,6 +544,14 @@
       "word": "47岁派出所所长生前最后一通电话",
       "onboard_time": 1698881067,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184403,
+      "num": 184403,
+      "word": "交警霸气喊话开路送重伤老人就医",
+      "onboard_time": 1698887976,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -547,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169028,
-      "num": 169028,
-      "word": "湖北大学保卫处回应情侣与校外人冲突",
-      "onboard_time": 1698887497,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167516,
       "num": 160328,
       "word": "双十一冷静期退货清单",
@@ -577,6 +609,14 @@
       "onboard_time": 1698843513,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157155,
+      "num": 157155,
+      "word": "徐斯 商战男菩萨",
+      "onboard_time": 1698887857,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 156661,
@@ -651,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147323,
+      "num": 147323,
+      "word": "来自广东的喜糖甜了杭州民警的心",
+      "onboard_time": 1698888038,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 147220,
       "num": 147220,
       "word": "湖南卫视的预告真的太有特色了",
@@ -665,6 +713,14 @@
       "onboard_time": 1698854673,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144804,
+      "num": 144804,
+      "word": "中国护照里藏着祖国大好河山",
+      "onboard_time": 1698888575,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 142353,
