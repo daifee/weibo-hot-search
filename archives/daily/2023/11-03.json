@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698950110099,
+  "endTime": 1698952445441,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -497,6 +497,14 @@
       "onboard_time": 1698930634,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14343,
+      "num": 16122,
+      "word": "希林娜依高谈如何跟妈妈相处",
+      "onboard_time": 1698949097,
+      "rank": 49,
+      "category": "作品衍生,教育"
     }
   ],
   "hotgov_list": []
