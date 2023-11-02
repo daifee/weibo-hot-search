@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698952445441,
+  "endTime": 1698953649214,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -6121,6 +6121,14 @@
       "onboard_time": 1698949097,
       "rank": 49,
       "category": "作品衍生,教育"
+    },
+    {
+      "raw_hot": 13148,
+      "num": 14377,
+      "word": "明日方舟 橘里橘气",
+      "onboard_time": 1698952635,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
