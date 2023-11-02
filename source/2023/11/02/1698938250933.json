@@ -1,0 +1,408 @@
+{
+  "runTime": 1698938250933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256236,
+        "num": 1256236,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 962236,
+        "num": 1093752,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 524099,
+        "num": 1031096,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1498888,
+        "num": 1030927,
+        "word": "俄罗斯撤销全面禁止核试验条约",
+        "onboard_time": 1698932135,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1030560,
+        "num": 1030560,
+        "word": "赴美失踪3个月中国女子遗骸疑似被找到",
+        "onboard_time": 1698932796,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827484,
+        "num": 827484,
+        "word": "一碗拌面里有199只手剥龙虾",
+        "onboard_time": 1698935678,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 821623,
+        "num": 821623,
+        "word": "3元钱已经买不到饮料了",
+        "onboard_time": 1698923313,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 778934,
+        "num": 778934,
+        "word": "达美乐30分钟必达3年亏损9亿",
+        "onboard_time": 1698930217,
+        "rank": 7,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 561122,
+        "num": 561122,
+        "word": "飞了36年空姐最后一班飞行哭着告别",
+        "onboard_time": 1698932915,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374072,
+        "num": 374072,
+        "word": "专家称彩礼理念不改婚姻制度要崩溃",
+        "onboard_time": 1698926373,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354082,
+        "num": 369410,
+        "word": "金鸡奖给周冬雨于适P了衣服",
+        "onboard_time": 1698926435,
+        "rank": 10,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 1002156,
+        "num": 367985,
+        "word": "新闻联播",
+        "onboard_time": 1698929253,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 675782,
+        "num": 360279,
+        "word": "ELLE红毯内场",
+        "onboard_time": 1698936758,
+        "rank": 12,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 642476,
+        "num": 356201,
+        "word": "张元英凌晨去运动",
+        "onboard_time": 1698933578,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410760,
+        "num": 349222,
+        "word": "官方回应副市长与女同事暧昧",
+        "onboard_time": 1698930757,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405180,
+        "num": 340466,
+        "word": "真爱至上有望内地上映",
+        "onboard_time": 1698937958,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395393,
+        "num": 334615,
+        "word": "秦岚 我们不缺住好酒店的经历",
+        "onboard_time": 1698911915,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333360,
+        "num": 333360,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 306105,
+        "num": 306105,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 18,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 283895,
+        "num": 283895,
+        "word": "儿子假装生病邀请84岁母亲来家住",
+        "onboard_time": 1698933336,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448329,
+        "num": 268791,
+        "word": "柯佳嬿 哪一个老公",
+        "onboard_time": 1698935840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445385,
+        "num": 268512,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366563,
+        "num": 261590,
+        "word": "因男朋友妈妈一句话分手了",
+        "onboard_time": 1698925536,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253063,
+        "num": 253063,
+        "word": "肖战中美电视节获奖",
+        "onboard_time": 1698930094,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222641,
+        "num": 222641,
+        "word": "在现偶古偶反复爱上王鹤棣",
+        "onboard_time": 1698933277,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211965,
+        "num": 211965,
+        "word": "成毅中美电视节获奖",
+        "onboard_time": 1698935497,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200759,
+        "num": 200759,
+        "word": "康师傅回应涨价",
+        "onboard_time": 1698925953,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 196917,
+        "num": 196917,
+        "word": "其实没有什么隔辈亲",
+        "onboard_time": 1698934479,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190264,
+        "num": 190264,
+        "word": "女孩生日爷爷去世一空乘塞手写信安慰",
+        "onboard_time": 1698924093,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183223,
+        "num": 183223,
+        "word": "今年的春节档电影",
+        "onboard_time": 1698937118,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179282,
+        "num": 179282,
+        "word": "长期不社交的结果",
+        "onboard_time": 1698918934,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179206,
+        "num": 179206,
+        "word": "治愈系恋人",
+        "onboard_time": 1698935918,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177167,
+        "num": 177167,
+        "word": "杨紫范丞丞将录制hi6",
+        "onboard_time": 1698930156,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173779,
+        "num": 173779,
+        "word": "当老婆喜欢随身带大容量吸管杯",
+        "onboard_time": 1698934301,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171830,
+        "num": 171830,
+        "word": "董宇辉背书方法",
+        "onboard_time": 1698931956,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164315,
+        "num": 164315,
+        "word": "金晨 被演戏耽误的北舞校花",
+        "onboard_time": 1698924633,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155311,
+        "num": 155311,
+        "word": "水管工捡到300克黄金上交意外破获盗窃案",
+        "onboard_time": 1698923794,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153846,
+        "num": 153846,
+        "word": "NewJeans弘大校庆舞台",
+        "onboard_time": 1698933220,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150152,
+        "num": 150152,
+        "word": "江苏省考筛选什么人才",
+        "onboard_time": 1698931716,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147332,
+        "num": 147332,
+        "word": "体育老师返聘心理老师劝学成功率达7成",
+        "onboard_time": 1698937597,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145507,
+        "num": 145507,
+        "word": "杜华回关了没",
+        "onboard_time": 1698931596,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143458,
+        "num": 143458,
+        "word": "4天婴儿被护士烫伤致后脑勺大片水肿",
+        "onboard_time": 1698937899,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "被papi酱的表情笑死",
+        "onboard_time": 1698921755,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137326,
+        "num": 137326,
+        "word": "太上老君遇到他炼丹炉都省了",
+        "onboard_time": 1698938136,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134349,
+        "num": 134349,
+        "word": "莲花楼长尾效应好强",
+        "onboard_time": 1698930634,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132217,
+        "num": 132217,
+        "word": "双十一华为小米一机难求",
+        "onboard_time": 1698937357,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "邓紫棋 门票",
+        "onboard_time": 1698926253,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128111,
+        "num": 128111,
+        "word": "WBG晋级S13四强",
+        "onboard_time": 1698921517,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118073,
+        "num": 118073,
+        "word": "4家邻居8年几乎处成1家人",
+        "onboard_time": 1698922834,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113618,
+        "num": 113618,
+        "word": "相夷太剑",
+        "onboard_time": 1698916354,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": null
+  }
+}

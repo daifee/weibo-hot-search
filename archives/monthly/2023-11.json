@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698935655629,
+  "endTime": 1698938250933,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -563,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030560,
+      "num": 1030560,
+      "word": "赴美失踪3个月中国女子遗骸疑似被找到",
+      "onboard_time": 1698932796,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030537,
       "num": 1030537,
       "word": "这个锅中国不背",
       "onboard_time": 1698781874,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1014960,
-      "num": 1014960,
-      "word": "赴美失踪3个月中国女子遗骸疑似被找到",
-      "onboard_time": 1698932796,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 992265,
@@ -705,6 +705,14 @@
       "onboard_time": 1698842795,
       "rank": 34,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 827484,
+      "num": 827484,
+      "word": "一碗拌面里有199只手剥龙虾",
+      "onboard_time": 1698935678,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 821493,
@@ -953,6 +961,14 @@
       "onboard_time": 1698808771,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675782,
+      "num": 360279,
+      "word": "ELLE红毯内场",
+      "onboard_time": 1698936758,
+      "rank": 12,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 666744,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1698900938,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 561122,
+      "num": 561122,
+      "word": "飞了36年空姐最后一班飞行哭着告别",
+      "onboard_time": 1698932915,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561053,
@@ -1603,6 +1627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 448329,
+      "num": 268791,
+      "word": "柯佳嬿 哪一个老公",
+      "onboard_time": 1698935840,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446078,
       "num": 446078,
       "word": "迪丽热巴李慧珍属性大爆发",
@@ -1739,6 +1771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 410760,
+      "num": 349222,
+      "word": "官方回应副市长与女同事暧昧",
+      "onboard_time": 1698930757,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410062,
       "num": 410062,
       "word": "幼童高烧40度公交变救护车3分钟送医",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1698880705,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405180,
+      "num": 340466,
+      "word": "真爱至上有望内地上映",
+      "onboard_time": 1698937958,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 403479,
@@ -2049,14 +2097,6 @@
       "onboard_time": 1698931894,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 361487,
-      "num": 361487,
-      "word": "飞了36年空姐最后一班飞行哭着告别",
-      "onboard_time": 1698932915,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361132,
@@ -2571,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283895,
+      "num": 283895,
+      "word": "儿子假装生病邀请84岁母亲来家住",
+      "onboard_time": 1698933336,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283612,
       "num": 206050,
       "word": "当老婆喜欢随身带大容量吸管杯",
@@ -3049,14 +3097,6 @@
       "onboard_time": 1698806190,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238987,
-      "num": 238987,
-      "word": "儿子假装生病邀请84岁母亲来家住",
-      "onboard_time": 1698933336,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238913,
@@ -4027,6 +4067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183223,
+      "num": 183223,
+      "word": "今年的春节档电影",
+      "onboard_time": 1698937118,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "2023vivo开发者大会",
@@ -4049,6 +4097,14 @@
       "onboard_time": 1698798815,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179206,
+      "num": 179206,
+      "word": "治愈系恋人",
+      "onboard_time": 1698935918,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 179090,
@@ -4771,6 +4827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147332,
+      "num": 147332,
+      "word": "体育老师返聘心理老师劝学成功率达7成",
+      "onboard_time": 1698937597,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147323,
       "num": 147323,
       "word": "来自广东的喜糖甜了杭州民警的心",
@@ -4840,6 +4904,14 @@
       "word": "万圣节",
       "onboard_time": 1698759755,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143458,
+      "num": 143458,
+      "word": "4天婴儿被护士烫伤致后脑勺大片水肿",
+      "onboard_time": 1698937899,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4913,6 +4985,14 @@
       "onboard_time": 1698927032,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137326,
+      "num": 137326,
+      "word": "太上老君遇到他炼丹炉都省了",
+      "onboard_time": 1698938136,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 136955,
@@ -5057,6 +5137,14 @@
       "onboard_time": 1698823232,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132217,
+      "num": 132217,
+      "word": "双十一华为小米一机难求",
+      "onboard_time": 1698937357,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 131999,
