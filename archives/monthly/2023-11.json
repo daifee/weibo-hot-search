@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698945376447,
+  "endTime": 1698946449143,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -4987,6 +4987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145179,
+      "num": 128592,
+      "word": "星辰大海的艺人人手一本从艺先从法",
+      "onboard_time": 1698944006,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144744,
       "num": 144744,
       "word": "檀健次上下半身有季节差",
@@ -5257,14 +5265,6 @@
       "onboard_time": 1698797852,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128592,
-      "num": 128592,
-      "word": "星辰大海的艺人人手一本从艺先从法",
-      "onboard_time": 1698944006,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 127882,
@@ -6049,6 +6049,14 @@
       "onboard_time": 1698784273,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 30902,
+      "num": 30902,
+      "word": "中式元素混搭妆",
+      "onboard_time": 1698944720,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 29202,

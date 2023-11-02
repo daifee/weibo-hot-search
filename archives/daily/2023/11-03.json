@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698945376447,
+  "endTime": 1698946449143,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -267,6 +267,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 145179,
+      "num": 128592,
+      "word": "星辰大海的艺人人手一本从艺先从法",
+      "onboard_time": 1698944006,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143094,
       "num": 143094,
       "word": "双十一华为小米一机难求",
@@ -281,14 +289,6 @@
       "onboard_time": 1698942150,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128592,
-      "num": 128592,
-      "word": "星辰大海的艺人人手一本从艺先从法",
-      "onboard_time": 1698944006,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 124671,
@@ -481,6 +481,14 @@
       "onboard_time": 1698944841,
       "rank": 47,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 30902,
+      "num": 30902,
+      "word": "中式元素混搭妆",
+      "onboard_time": 1698944720,
+      "rank": 49,
+      "category": "美妆"
     }
   ],
   "hotgov_list": []

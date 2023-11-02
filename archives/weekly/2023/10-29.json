@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698945376447,
+  "endTime": 1698946449143,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -11859,6 +11859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145179,
+      "num": 128592,
+      "word": "星辰大海的艺人人手一本从艺先从法",
+      "onboard_time": 1698944006,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144995,
       "num": 144995,
       "word": "单眼皮女生化妆日常",
@@ -12761,14 +12769,6 @@
       "onboard_time": 1698665132,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 128592,
-      "num": 128592,
-      "word": "星辰大海的艺人人手一本从艺先从法",
-      "onboard_time": 1698944006,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 128493,
@@ -14905,6 +14905,14 @@
       "onboard_time": 1698534079,
       "rank": 47,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 30902,
+      "num": 30902,
+      "word": "中式元素混搭妆",
+      "onboard_time": 1698944720,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 30302,
