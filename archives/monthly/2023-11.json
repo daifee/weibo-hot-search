@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698920317477,
+  "endTime": 1698921349061,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -523,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 974035,
+      "num": 365119,
+      "word": "安吉丽娜朱莉谴责以色列",
+      "onboard_time": 1698919771,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 970738,
       "num": 970738,
       "word": "离世女教师加班数石榴系谣言",
@@ -691,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 775310,
+      "num": 775310,
+      "word": "男子用儿子微信花110万规避执行获刑",
+      "onboard_time": 1698917433,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768063,
       "num": 768063,
       "word": "克莱绝杀",
@@ -808,14 +824,6 @@
       "word": "95后男子被裁员抗争17个月获赔16万9",
       "onboard_time": 1698835593,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 701413,
-      "num": 701413,
-      "word": "男子用儿子微信花110万规避执行获刑",
-      "onboard_time": 1698917433,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1115,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560778,
+      "num": 366034,
+      "word": "长期不社交的结果",
+      "onboard_time": 1698918934,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 557117,
       "num": 557117,
       "word": "小米14超iPhone15Pro首销量",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1698807930,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532208,
-      "num": 366034,
-      "word": "长期不社交的结果",
-      "onboard_time": 1698918934,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 526282,
@@ -1451,7 +1459,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 438549,
+      "raw_hot": 439733,
       "num": 367548,
       "word": "SEVENTEEN迪士尼版漫画",
       "onboard_time": 1698920134,
@@ -1811,14 +1819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 365119,
-      "num": 365119,
-      "word": "安吉丽娜朱莉谴责以色列",
-      "onboard_time": 1698919771,
-      "rank": 23,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 361132,
       "num": 361132,
       "word": "河南淮阳官方回应抢中药事件",
@@ -1889,6 +1889,14 @@
       "onboard_time": 1698761197,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348647,
+      "num": 836173,
+      "word": "女子跳舞被困礁石3小伙手拉手将其救回",
+      "onboard_time": 1698918635,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348190,
@@ -2113,14 +2121,6 @@
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310400,
-      "num": 836173,
-      "word": "女子跳舞被困礁石3小伙手拉手将其救回",
-      "onboard_time": 1698918635,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309712,
@@ -2555,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255445,
+      "num": 255445,
+      "word": "G2居然输给这种队",
+      "onboard_time": 1698920072,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255348,
       "num": 232934,
       "word": "文班亚马复刻姚明神仙球",
@@ -2667,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244755,
+      "num": 244755,
+      "word": "TheShy剑魔",
+      "onboard_time": 1698919891,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242762,
       "num": 242762,
       "word": "眠狼离职",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1698828090,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235835,
+      "num": 235835,
+      "word": "赵小童英文演讲",
+      "onboard_time": 1698920193,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 235820,
@@ -3219,14 +3243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201320,
-      "num": 201320,
-      "word": "TheShy剑魔",
-      "onboard_time": 1698919891,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199726,
       "num": 199726,
       "word": "天津中德应用技术大学",
@@ -3643,6 +3659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178614,
+      "num": 178614,
+      "word": "盘点韩国爆火好物",
+      "onboard_time": 1698921092,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 178373,
       "num": 178373,
       "word": "欧洲人煮米饭",
@@ -3713,6 +3737,14 @@
       "onboard_time": 1698758735,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175925,
+      "num": 159193,
+      "word": "辛芷蕾刘雯同框看秀",
+      "onboard_time": 1698920852,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 174361,
@@ -3913,6 +3945,14 @@
       "onboard_time": 1698858741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165778,
+      "num": 786362,
+      "word": "这个拥抱一家人等了17年",
+      "onboard_time": 1698917552,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165700,
@@ -4299,14 +4339,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 146778,
-      "num": 708372,
-      "word": "这个拥抱一家人等了17年",
-      "onboard_time": 1698917552,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146627,
       "num": 146627,
       "word": "110训练途中串场当了回119",
@@ -4363,14 +4395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143387,
-      "num": 143387,
-      "word": "G2居然输给这种队",
-      "onboard_time": 1698920072,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 143194,
       "num": 143194,
       "word": "交警找回手机后婉拒大姐酬谢",
@@ -4401,6 +4425,14 @@
       "onboard_time": 1698797852,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 141440,
+      "num": 141440,
+      "word": "代号鸢刘辩",
+      "onboard_time": 1698920673,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 139969,
@@ -4587,14 +4619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128990,
-      "num": 128990,
-      "word": "赵小童英文演讲",
-      "onboard_time": 1698920193,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1698880106,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122422,
+      "num": 135408,
+      "word": "吴京一连说了好多个别",
+      "onboard_time": 1698920372,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 122098,

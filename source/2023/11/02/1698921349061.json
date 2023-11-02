@@ -1,0 +1,408 @@
+{
+  "runTime": 1698921349061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2127757,
+        "num": 2127757,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1259186,
+        "num": 1259186,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1063407,
+        "num": 1063407,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 348647,
+        "num": 820130,
+        "word": "女子跳舞被困礁石3小伙手拉手将其救回",
+        "onboard_time": 1698918635,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165778,
+        "num": 786362,
+        "word": "这个拥抱一家人等了17年",
+        "onboard_time": 1698917552,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775310,
+        "num": 775310,
+        "word": "男子用儿子微信花110万规避执行获刑",
+        "onboard_time": 1698917433,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96332,
+        "num": 630040,
+        "word": "接受过帮助的她长大后想帮助更多人",
+        "onboard_time": 1698916773,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 621335,
+        "num": 621335,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 438213,
+        "num": 438213,
+        "word": "中国担任联合国安理会本月轮值主席",
+        "onboard_time": 1698917371,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 341034,
+        "num": 341034,
+        "word": "湖南一医院解聘全体员工",
+        "onboard_time": 1698906631,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1029448,
+        "num": 339746,
+        "word": "顾客举报喜茶一门店浪费水",
+        "onboard_time": 1698910478,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 974035,
+        "num": 338933,
+        "word": "安吉丽娜朱莉谴责以色列",
+        "onboard_time": 1698919771,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 942508,
+        "num": 337674,
+        "word": "秦岚 我们不缺住好酒店的经历",
+        "onboard_time": 1698911915,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755604,
+        "num": 335932,
+        "word": "私教离职后充100万健身卡女子欲退款",
+        "onboard_time": 1698911318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692686,
+        "num": 333955,
+        "word": "相夷太剑",
+        "onboard_time": 1698916354,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566903,
+        "num": 332605,
+        "word": "辛巴抖音账号被封禁",
+        "onboard_time": 1698907171,
+        "rank": 15,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 439803,
+        "num": 330665,
+        "word": "西游记中的冒充领导类诈骗",
+        "onboard_time": 1698917792,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439733,
+        "num": 329246,
+        "word": "SEVENTEEN迪士尼版漫画",
+        "onboard_time": 1698920134,
+        "rank": 17,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 404334,
+        "num": 327759,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382704,
+        "num": 325396,
+        "word": "缅北激战画面曝光",
+        "onboard_time": 1698908312,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 877599,
+        "num": 323836,
+        "word": "遭家暴16次女子公开挂粪袋造口画面",
+        "onboard_time": 1698908132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560778,
+        "num": 322635,
+        "word": "长期不社交的结果",
+        "onboard_time": 1698918934,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416272,
+        "num": 321296,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 379797,
+        "num": 318202,
+        "word": "NRG对战WBG",
+        "onboard_time": 1698909158,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 318089,
+        "num": 318089,
+        "word": "被六个姐姐打是种什么体验",
+        "onboard_time": 1698917911,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291797,
+        "num": 291797,
+        "word": "小虎 抽象",
+        "onboard_time": 1698918635,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280067,
+        "num": 280067,
+        "word": "花儿与少年文案",
+        "onboard_time": 1698917973,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255445,
+        "num": 255445,
+        "word": "G2居然输给这种队",
+        "onboard_time": 1698920072,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255255,
+        "num": 255255,
+        "word": "WBG先下一城",
+        "onboard_time": 1698916112,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251968,
+        "num": 251968,
+        "word": "康师傅涨价",
+        "onboard_time": 1698904472,
+        "rank": 29,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 249388,
+        "num": 249388,
+        "word": "五块九的粉底液配料表",
+        "onboard_time": 1698918513,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 244755,
+        "num": 244755,
+        "word": "TheShy剑魔",
+        "onboard_time": 1698919891,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235835,
+        "num": 235835,
+        "word": "赵小童英文演讲",
+        "onboard_time": 1698920193,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219045,
+        "num": 219045,
+        "word": "985硕士毕业找工作底薪3400",
+        "onboard_time": 1698908013,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203443,
+        "num": 203443,
+        "word": "临近婚期被要求加3万彩礼男子退婚",
+        "onboard_time": 1698912695,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202785,
+        "num": 202785,
+        "word": "辛芷蕾但凡有点金玉妍的心思在身上",
+        "onboard_time": 1698914732,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193533,
+        "num": 193533,
+        "word": "王一博陈伟霆刘诗诗张子枫同框看秀",
+        "onboard_time": 1698914254,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178614,
+        "num": 178614,
+        "word": "盘点韩国爆火好物",
+        "onboard_time": 1698921092,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164485,
+        "num": 164485,
+        "word": "吴京怕被说耍大牌不让安保围着",
+        "onboard_time": 1698916535,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159348,
+        "num": 159348,
+        "word": "敖瑞鹏白月梵星路透",
+        "onboard_time": 1698919594,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175925,
+        "num": 159193,
+        "word": "辛芷蕾刘雯同框看秀",
+        "onboard_time": 1698920852,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "了解黄凯 理解黄凯 成为黄凯",
+        "onboard_time": 1698910717,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151988,
+        "num": 151988,
+        "word": "18岁弟弟被姐姐带去打九价",
+        "onboard_time": 1698905674,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141440,
+        "num": 141440,
+        "word": "代号鸢刘辩",
+        "onboard_time": 1698920673,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139388,
+        "num": 139388,
+        "word": "香蕉的茎也可以吃吗",
+        "onboard_time": 1698914613,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136136,
+        "num": 136136,
+        "word": "公婆耗时5个月为儿媳打造草坪婚礼",
+        "onboard_time": 1698915816,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 136034,
+        "word": "柚子皮高颅顶真的生产了",
+        "onboard_time": 1698903934,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110797,
+        "num": 135988,
+        "word": "胃其实是情绪器官",
+        "onboard_time": 1698908674,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122422,
+        "num": 135408,
+        "word": "吴京一连说了好多个别",
+        "onboard_time": 1698920372,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87378,
+        "num": 134868,
+        "word": "8岁女孩和41岁妈妈练出同款腹肌",
+        "onboard_time": 1698910478,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": null
+  }
+}
