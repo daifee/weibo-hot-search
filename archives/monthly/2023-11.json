@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698903265554,
+  "endTime": 1698906143133,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -65,6 +65,14 @@
       "onboard_time": 1698798697,
       "rank": 0,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 2467472,
+      "num": 247583,
+      "word": "刘亚仁注射9.6升异丙酚",
+      "onboard_time": 1698904114,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2450193,
@@ -257,6 +265,14 @@
       "onboard_time": 1698814597,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1376175,
+      "num": 543804,
+      "word": "康师傅涨价",
+      "onboard_time": 1698904472,
+      "rank": 3,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 1359273,
@@ -667,6 +683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 737042,
+      "num": 245389,
+      "word": "鱼都以被做成西湖醋鱼为耻",
+      "onboard_time": 1698903096,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 736840,
       "num": 736840,
       "word": "反向泡脚 越泡越虚",
@@ -801,6 +825,14 @@
       "onboard_time": 1698850598,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 617368,
+      "num": 241261,
+      "word": "柚子皮高颅顶真的生产了",
+      "onboard_time": 1698903934,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 615177,
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360580,
+      "num": 238490,
+      "word": "辛芷蕾 秦岚你是电音百灵鸟",
+      "onboard_time": 1698903035,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354377,
       "num": 354377,
       "word": "茅台开盘暴涨",
@@ -1651,12 +1691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337144,
+      "num": 337144,
+      "word": "卫健委回应医院解聘全体员工",
+      "onboard_time": 1698905372,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336983,
       "num": 307194,
       "word": "Ricky直播被工作人员训斥",
       "onboard_time": 1698811234,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335170,
+      "num": 199703,
+      "word": "宋轶同款鸡毛感丸子头",
+      "onboard_time": 1698904592,
+      "rank": 30,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 334669,
@@ -1697,6 +1753,14 @@
       "onboard_time": 1698819813,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326575,
+      "num": 236993,
+      "word": "吴建豪经纪人回应",
+      "onboard_time": 1698905072,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 323664,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308996,
+      "num": 236405,
+      "word": "浙江一县城每天喝掉1.5万杯咖啡",
+      "onboard_time": 1698904234,
+      "rank": 21,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 306258,
@@ -2219,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247947,
+      "num": 247947,
+      "word": "18岁弟弟被姐姐带去打九价",
+      "onboard_time": 1698905674,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247253,
       "num": 247253,
       "word": "檀健次演唱会真的来了",
@@ -2561,14 +2641,6 @@
       "onboard_time": 1698801694,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 213840,
-      "num": 213840,
-      "word": "辛芷蕾 秦岚你是电音百灵鸟",
-      "onboard_time": 1698903035,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 213078,
@@ -3147,6 +3219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 181535,
+      "num": 181535,
+      "word": "休假医生骑小电驴赶回医院救下一命",
+      "onboard_time": 1698904894,
+      "rank": 32,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 180027,
       "num": 180027,
       "word": "13年的咆哮到底有多火",
@@ -3251,14 +3331,6 @@
       "category": "教育,演出"
     },
     {
-      "raw_hot": 173964,
-      "num": 173964,
-      "word": "鱼都以被做成西湖醋鱼为耻",
-      "onboard_time": 1698903096,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
@@ -3281,6 +3353,14 @@
       "onboard_time": 1698829234,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172615,
+      "num": 172615,
+      "word": "外卖小哥不顾订单超时照顾迷路小孩",
+      "onboard_time": 1698905372,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 172185,
@@ -3963,6 +4043,14 @@
       "category": "社会正能量,美食"
     },
     {
+      "raw_hot": 132964,
+      "num": 132964,
+      "word": "小伙晕厥倒地10余人合力施救",
+      "onboard_time": 1698903455,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 132912,
       "num": 132912,
       "word": "soso逐渐紧闭的嘴唇",
@@ -4187,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116719,
+      "num": 116719,
+      "word": "欧洲人煮米饭",
+      "onboard_time": 1698905971,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114409,
       "num": 114409,
       "word": "少年离家流浪走投无路求民警帮找工作",
@@ -4363,6 +4459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 88250,
+      "num": 1739438,
+      "word": "中国计划开启太阳立体探测时代",
+      "onboard_time": 1698901598,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 87996,
       "num": 137470,
       "word": "如果只能选一个护肤品",
@@ -4431,14 +4535,6 @@
       "num": 894772,
       "word": "中国航天员从1人变成了大家庭",
       "onboard_time": 1698760838,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 75872,
-      "num": 1739438,
-      "word": "中国计划开启太阳立体探测时代",
-      "onboard_time": 1698901598,
       "rank": 2,
       "category": "国内要闻"
     },

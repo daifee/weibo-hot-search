@@ -1,0 +1,410 @@
+{
+  "runTime": 1698906143133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2260655,
+        "num": 2260655,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 594599,
+        "num": 594599,
+        "word": "高校通报贫困生举报助学金名额被挤",
+        "onboard_time": 1698896192,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 88250,
+        "num": 554134,
+        "word": "中国计划开启太阳立体探测时代",
+        "onboard_time": 1698901598,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1376175,
+        "num": 543804,
+        "word": "康师傅涨价",
+        "onboard_time": 1698904472,
+        "rank": 3,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 514607,
+        "num": 514607,
+        "word": "年轻人逛商场只去B1B2",
+        "onboard_time": 1698894512,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 337144,
+        "num": 337144,
+        "word": "卫健委回应医院解聘全体员工",
+        "onboard_time": 1698905372,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316032,
+        "num": 316032,
+        "word": "湖人终于赢快船了",
+        "onboard_time": 1698902673,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315119,
+        "num": 315119,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1698898716,
+        "rank": 7,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 300073,
+        "num": 300073,
+        "word": "被解聘医院员工发声",
+        "onboard_time": 1698899980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247947,
+        "num": 247947,
+        "word": "18岁弟弟被姐姐带去打九价",
+        "onboard_time": 1698905674,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2467472,
+        "num": 247583,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832892,
+        "num": 246206,
+        "word": "贾静雯发文悼念陈慧翎",
+        "onboard_time": 1698899017,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737042,
+        "num": 245389,
+        "word": "鱼都以被做成西湖醋鱼为耻",
+        "onboard_time": 1698903096,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 717621,
+        "num": 244854,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644210,
+        "num": 243769,
+        "word": "剧版左耳",
+        "onboard_time": 1698900220,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 968884,
+        "num": 242071,
+        "word": "刘亚仁教唆他人吸毒",
+        "onboard_time": 1698897754,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617368,
+        "num": 241261,
+        "word": "柚子皮高颅顶真的生产了",
+        "onboard_time": 1698903934,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 613605,
+        "num": 240215,
+        "word": "湖大冲突事件双方达成谅解",
+        "onboard_time": 1698896733,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 399727,
+        "num": 239577,
+        "word": "天官赐福花城穿了光腿神器",
+        "onboard_time": 1698900938,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 360580,
+        "num": 238490,
+        "word": "辛芷蕾 秦岚你是电音百灵鸟",
+        "onboard_time": 1698903035,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326575,
+        "num": 236993,
+        "word": "吴建豪经纪人回应",
+        "onboard_time": 1698905072,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308996,
+        "num": 236405,
+        "word": "浙江一县城每天喝掉1.5万杯咖啡",
+        "onboard_time": 1698904234,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 283946,
+        "num": 235078,
+        "word": "女孩吃小粉丸瘦到50斤多器官出血",
+        "onboard_time": 1698893014,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274898,
+        "num": 234188,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261183,
+        "num": 233126,
+        "word": "为有暗香来 植物人昏迷两年爱上护工",
+        "onboard_time": 1698897995,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232487,
+        "num": 232487,
+        "word": "36岁男子脑死亡捐器官救5人",
+        "onboard_time": 1698894395,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 200669,
+        "num": 221379,
+        "word": "克莱绝杀",
+        "onboard_time": 1698899799,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221271,
+        "num": 221271,
+        "word": "傅首尔是在告别吗",
+        "onboard_time": 1698882452,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209250,
+        "num": 209250,
+        "word": "于正 我讨厌oe喜欢1V1",
+        "onboard_time": 1698893253,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202328,
+        "num": 202328,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335170,
+        "num": 199703,
+        "word": "宋轶同款鸡毛感丸子头",
+        "onboard_time": 1698904592,
+        "rank": 30,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 196401,
+        "num": 196401,
+        "word": "林孝埈 精卫",
+        "onboard_time": 1698898417,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181535,
+        "num": 181535,
+        "word": "休假医生骑小电驴赶回医院救下一命",
+        "onboard_time": 1698904894,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175707,
+        "num": 175707,
+        "word": "突然意识到看鞋识人很不礼貌",
+        "onboard_time": 1698894573,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 173491,
+        "word": "迪丽热巴 大家都减轻彼此负担吧",
+        "onboard_time": 1698892535,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172615,
+        "num": 172615,
+        "word": "外卖小哥不顾订单超时照顾迷路小孩",
+        "onboard_time": 1698905372,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 171621,
+        "num": 171621,
+        "word": "仙剑4要来了",
+        "onboard_time": 1698884862,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156138,
+        "num": 156138,
+        "word": "陈慧翎将举行树葬",
+        "onboard_time": 1698900159,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142903,
+        "num": 142903,
+        "word": "湖北大学保卫处回应情侣与校外人冲突",
+        "onboard_time": 1698887497,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137750,
+        "num": 137750,
+        "word": "健身房回应女子欲退款被扣13万手续费",
+        "onboard_time": 1698897754,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132964,
+        "num": 132964,
+        "word": "小伙晕厥倒地10余人合力施救",
+        "onboard_time": 1698903455,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 125224,
+        "num": 125224,
+        "word": "港星林皓霆去世",
+        "onboard_time": 1698888875,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124883,
+        "num": 124883,
+        "word": "缅甸",
+        "onboard_time": 1698887258,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120042,
+        "num": 120042,
+        "word": "keshi上海抢票",
+        "onboard_time": 1698900521,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116719,
+        "num": 116719,
+        "word": "欧洲人煮米饭",
+        "onboard_time": 1698905971,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116416,
+        "num": 116416,
+        "word": "松弛感半扎发",
+        "onboard_time": 1698899261,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 113836,
+        "word": "NBA 解说",
+        "onboard_time": 1698899619,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111889,
+        "num": 111889,
+        "word": "詹姆斯35分",
+        "onboard_time": 1698902973,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111551,
+        "num": 111551,
+        "word": "花儿与少年5",
+        "onboard_time": 1698900759,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105202,
+        "num": 105202,
+        "word": "洗漱后护肤黄金3分钟别错过",
+        "onboard_time": 1698902973,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#在奋力奔跑和接续奋斗中成就梦想#"
+    }
+  }
+}

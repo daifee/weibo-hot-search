@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698903265554,
+  "endTime": 1698906143133,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -17,6 +17,14 @@
       "onboard_time": 1698901479,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2467472,
+      "num": 247583,
+      "word": "刘亚仁注射9.6升异丙酚",
+      "onboard_time": 1698904114,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2230925,
@@ -81,6 +89,14 @@
       "onboard_time": 1698899017,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1376175,
+      "num": 543804,
+      "word": "康师傅涨价",
+      "onboard_time": 1698904472,
+      "rank": 3,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 1236206,
@@ -211,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 737042,
+      "num": 245389,
+      "word": "鱼都以被做成西湖醋鱼为耻",
+      "onboard_time": 1698903096,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 736840,
       "num": 736840,
       "word": "反向泡脚 越泡越虚",
@@ -241,6 +265,14 @@
       "onboard_time": 1698887379,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 617368,
+      "num": 241261,
+      "word": "柚子皮高颅顶真的生产了",
+      "onboard_time": 1698903934,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 614572,
@@ -579,6 +611,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 360580,
+      "num": 238490,
+      "word": "辛芷蕾 秦岚你是电音百灵鸟",
+      "onboard_time": 1698903035,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347623,
       "num": 306358,
       "word": "王宝钏挖野菜cos",
@@ -611,12 +651,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337144,
+      "num": 337144,
+      "word": "卫健委回应医院解聘全体员工",
+      "onboard_time": 1698905372,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335170,
+      "num": 199703,
+      "word": "宋轶同款鸡毛感丸子头",
+      "onboard_time": 1698904592,
+      "rank": 30,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 330199,
       "num": 330199,
       "word": "健身房回应女子欲退款被扣13万手续费",
       "onboard_time": 1698897754,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326575,
+      "num": 236993,
+      "word": "吴建豪经纪人回应",
+      "onboard_time": 1698905072,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 323664,
@@ -633,6 +697,14 @@
       "onboard_time": 1698897876,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308996,
+      "num": 236405,
+      "word": "浙江一县城每天喝掉1.5万杯咖啡",
+      "onboard_time": 1698904234,
+      "rank": 21,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 306110,
@@ -827,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247947,
+      "num": 247947,
+      "word": "18岁弟弟被姐姐带去打九价",
+      "onboard_time": 1698905674,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246222,
       "num": 246222,
       "word": "苹果或在印度启动iPhone17研发",
@@ -905,14 +985,6 @@
       "onboard_time": 1698842972,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213840,
-      "num": 213840,
-      "word": "辛芷蕾 秦岚你是电音百灵鸟",
-      "onboard_time": 1698903035,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 212191,
@@ -1059,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181535,
+      "num": 181535,
+      "word": "休假医生骑小电驴赶回医院救下一命",
+      "onboard_time": 1698904894,
+      "rank": 32,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 177155,
       "num": 177155,
       "word": "遇到让人心梗的神",
@@ -1083,20 +1163,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 173964,
-      "num": 173964,
-      "word": "鱼都以被做成西湖醋鱼为耻",
-      "onboard_time": 1698903096,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
       "onboard_time": 1698889114,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172615,
+      "num": 172615,
+      "word": "外卖小哥不顾订单超时照顾迷路小孩",
+      "onboard_time": 1698905372,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 172185,
@@ -1395,6 +1475,14 @@
       "category": "社会正能量,美食"
     },
     {
+      "raw_hot": 132964,
+      "num": 132964,
+      "word": "小伙晕厥倒地10余人合力施救",
+      "onboard_time": 1698903455,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131326,
       "num": 131326,
       "word": "男子晒控糖一年身体变化",
@@ -1451,6 +1539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116719,
+      "num": 116719,
+      "word": "欧洲人煮米饭",
+      "onboard_time": 1698905971,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114409,
       "num": 114409,
       "word": "少年离家流浪走投无路求民警帮找工作",
@@ -1499,6 +1595,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 88250,
+      "num": 1739438,
+      "word": "中国计划开启太阳立体探测时代",
+      "onboard_time": 1698901598,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 84150,
       "num": 84150,
       "word": "女孩马路边睡醒警察到了才开口",
@@ -1529,14 +1633,6 @@
       "onboard_time": 1698881553,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75872,
-      "num": 1739438,
-      "word": "中国计划开启太阳立体探测时代",
-      "onboard_time": 1698901598,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 63862,
