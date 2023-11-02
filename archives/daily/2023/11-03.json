@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698942209843,
+  "endTime": 1698943176004,
   "band_list": [
     {
       "raw_hot": 768846,
@@ -35,6 +35,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 597343,
+      "num": 597343,
+      "word": "产妇大出血近8000毫升医护抢救7小时",
+      "onboard_time": 1698939873,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564700,
       "num": 564700,
       "word": "俄罗斯撤销全面禁止核试验条约",
@@ -59,20 +67,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 450430,
-      "num": 450430,
-      "word": "产妇大出血近8000毫升医护抢救7小时",
-      "onboard_time": 1698939873,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425353,
       "num": 425353,
       "word": "3元钱已经买不到饮料了",
       "onboard_time": 1698923313,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 421503,
+      "num": 218601,
+      "word": "小杨哥称被黑是因为被误解",
+      "onboard_time": 1698942447,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 421367,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274326,
+      "num": 274326,
+      "word": "爱吃面的公主请试青椒鸡蛋拌面",
+      "onboard_time": 1698938557,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 273875,
       "num": 227676,
       "word": "官方回应副市长与女同事暧昧",
@@ -161,14 +177,6 @@
       "onboard_time": 1698932915,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226603,
-      "num": 226603,
-      "word": "爱吃面的公主请试青椒鸡蛋拌面",
-      "onboard_time": 1698938557,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 222289,
@@ -339,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102403,
+      "num": 102403,
+      "word": "爸爸给住校儿子送饭叮嘱要分享",
+      "onboard_time": 1698939817,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98184,
       "num": 98184,
       "word": "相夷太剑",
       "onboard_time": 1698916354,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95542,
+      "num": 95542,
+      "word": "山东男子受苏州人帮助开面馆名字加苏",
+      "onboard_time": 1698941013,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94440,
@@ -387,18 +411,26 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83165,
-      "num": 83165,
-      "word": "山东男子受苏州人帮助开面馆名字加苏",
-      "onboard_time": 1698941013,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81336,
       "num": 81336,
       "word": "消防员帮村民收稻谷这一幕好治愈",
       "onboard_time": 1698942150,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79063,
+      "num": 79063,
+      "word": "货车侧翻后交警朋友圈帮卖14000斤花菜",
+      "onboard_time": 1698941252,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66971,
+      "num": 66971,
+      "word": "小男孩惹哭小女孩绅士手安慰",
+      "onboard_time": 1698940591,
       "rank": 49,
       "category": "社会新闻"
     }
