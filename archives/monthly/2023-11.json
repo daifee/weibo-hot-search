@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698931236765,
+  "endTime": 1698932055399,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1825997,
-      "num": 392174,
+      "num": 402130,
       "word": "金鸡奖给周冬雨于适P了衣服",
       "onboard_time": 1698926435,
       "rank": 10,
@@ -409,6 +409,14 @@
       "onboard_time": 1698801215,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1222137,
+      "num": 1179948,
+      "word": "新闻联播",
+      "onboard_time": 1698929253,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1200624,
@@ -619,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 921305,
+      "num": 921305,
+      "word": "达美乐30分钟必达3年亏损9亿",
+      "onboard_time": 1698930217,
+      "rank": 7,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 897081,
       "num": 897081,
       "word": "7款APP全网下架",
@@ -657,14 +673,6 @@
       "onboard_time": 1698836557,
       "rank": 18,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 868349,
-      "num": 868349,
-      "word": "新闻联播",
-      "onboard_time": 1698929253,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 861361,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 747381,
-      "num": 352035,
+      "num": 367725,
       "word": "鹿晗 深圳",
       "onboard_time": 1698926495,
       "rank": 11,
@@ -928,6 +936,14 @@
       "word": "专家称彩礼理念不改婚姻制度要崩溃",
       "onboard_time": 1698926373,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656195,
+      "num": 656195,
+      "word": "官方回应副市长与女同事暖昧",
+      "onboard_time": 1698930757,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 596081,
-      "num": 350306,
+      "num": 352555,
       "word": "康师傅回应涨价",
       "onboard_time": 1698925953,
       "rank": 12,
@@ -1220,7 +1236,7 @@
     },
     {
       "raw_hot": 558829,
-      "num": 371414,
+      "num": 388089,
       "word": "杨紫范丞丞将录制hi6",
       "onboard_time": 1698930156,
       "rank": 11,
@@ -1555,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455866,
-      "num": 455866,
-      "word": "达美乐30分钟必达3年亏损9亿",
-      "onboard_time": 1698930217,
-      "rank": 7,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 450701,
       "num": 450701,
       "word": "把课间十分钟还给孩子",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1698912695,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415785,
+      "num": 415785,
+      "word": "雷军回应小米14发烫",
+      "onboard_time": 1698927874,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 414344,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1698885220,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398230,
-      "num": 398230,
-      "word": "雷军回应小米14发烫",
-      "onboard_time": 1698927874,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 398115,
@@ -2419,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296915,
+      "num": 296915,
+      "word": "莲花楼长尾效应好强",
+      "onboard_time": 1698930634,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295944,
       "num": 295944,
       "word": "腾讯视频11月大剧片单",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1698910717,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290113,
-      "num": 290113,
-      "word": "官方回应副市长与女同事暖昧",
-      "onboard_time": 1698930757,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288729,
@@ -3291,14 +3299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215122,
-      "num": 215122,
-      "word": "莲花楼长尾效应好强",
-      "onboard_time": 1698930634,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214478,
       "num": 214478,
       "word": "于适好像在花样游泳",
@@ -4035,6 +4035,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 174960,
+      "num": 174960,
+      "word": "董宇辉背书方法",
+      "onboard_time": 1698931956,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174361,
       "num": 174361,
       "word": "5块钱的cos能有多惊艳",
@@ -4145,6 +4153,14 @@
       "onboard_time": 1698834755,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169962,
+      "num": 169962,
+      "word": "杜华回关了没",
+      "onboard_time": 1698931596,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 169217,
@@ -4267,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "刘润道歉",
+      "onboard_time": 1698930996,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163249,
       "num": 163249,
       "word": "oner灵超cos爱德华",
@@ -4281,6 +4305,14 @@
       "onboard_time": 1698906393,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162870,
+      "num": 162870,
+      "word": "莫兰德找李宁要装备",
+      "onboard_time": 1698930875,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 162535,
@@ -4859,14 +4891,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 133441,
-      "num": 133441,
-      "word": "莫兰德找李宁要装备",
-      "onboard_time": 1698930875,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133413,
       "num": 133413,
       "word": "把许凯关在横店多拍古装",
@@ -4987,6 +5011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124207,
+      "num": 124207,
+      "word": "Clash 删库跑路",
+      "onboard_time": 1698931894,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123667,
       "num": 256966,
       "word": "麻辣王子团叫粉丝麻辣公主",
@@ -5075,14 +5107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 120154,
-      "num": 120154,
-      "word": "刘润道歉",
-      "onboard_time": 1698930996,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 119642,
       "num": 119642,
       "word": "重庆盖碗火锅",
@@ -5105,6 +5129,14 @@
       "onboard_time": 1698828572,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119359,
+      "num": 119359,
+      "word": "谁能抵挡住二次元蛋糕的诱惑",
+      "onboard_time": 1698931777,
+      "rank": 43,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 119247,
@@ -5169,6 +5201,14 @@
       "onboard_time": 1698760536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116604,
+      "num": 116604,
+      "word": "江苏省考筛选什么人才",
+      "onboard_time": 1698931716,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 114409,
