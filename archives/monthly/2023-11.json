@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698892496225,
+  "endTime": 1698895072668,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2123546,
-      "num": 676290,
+      "num": 683491,
       "word": "缅甸",
       "onboard_time": 1698887258,
       "rank": 39,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1236206,
-      "num": 636510,
+      "num": 657352,
       "word": "湖北大学保卫处回应情侣与校外人冲突",
       "onboard_time": 1698887497,
       "rank": 44,
@@ -289,6 +289,14 @@
       "onboard_time": 1698816993,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1189896,
+      "num": 370817,
+      "word": "第一次见女主努力努力白努力",
+      "onboard_time": 1698891633,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 1175695,
@@ -467,14 +475,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 820923,
-      "num": 370817,
-      "word": "第一次见女主努力努力白努力",
-      "onboard_time": 1698891633,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 818922,
       "num": 818922,
       "word": "杭州出现卖4988元一杯的咖啡",
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678643,
+      "num": 268815,
+      "word": "女孩吃小粉丸瘦到50斤多器官出血",
+      "onboard_time": 1698893014,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666744,
       "num": 283036,
       "word": "向太 衣服太low了",
@@ -665,6 +673,14 @@
       "onboard_time": 1698834033,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633733,
+      "num": 269908,
+      "word": "迪丽热巴 大家都减轻彼此负担吧",
+      "onboard_time": 1698892535,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 626465,
@@ -1147,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413822,
+      "num": 269625,
+      "word": "于正 我讨厌oe喜欢1V1",
+      "onboard_time": 1698893253,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410062,
       "num": 410062,
       "word": "幼童高烧40度公交变救护车3分钟送医",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1698831391,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 392174,
+      "num": 269484,
+      "word": "刘家昌让儿子家喻户晓的歌",
+      "onboard_time": 1698894692,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 392112,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1698817654,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361132,
+      "num": 361132,
+      "word": "河南淮阳官方回应抢中药事件",
+      "onboard_time": 1698891813,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360670,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1698765335,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287029,
+      "num": 268610,
+      "word": "突然意识到看鞋识人很不礼貌",
+      "onboard_time": 1698894573,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 286731,
@@ -1987,6 +2035,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 239204,
+      "num": 239204,
+      "word": "梅西中国行主办方致歉",
+      "onboard_time": 1698893072,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239028,
       "num": 239028,
       "word": "费启鸣入选2023星辰大海",
@@ -2123,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226905,
+      "num": 226905,
+      "word": "韩国人的形容好离谱",
+      "onboard_time": 1698892893,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226643,
       "num": 226643,
       "word": "乐游原定档",
@@ -2177,14 +2241,6 @@
       "onboard_time": 1698883536,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219472,
-      "num": 219472,
-      "word": "河南淮阳官方回应抢中药事件",
-      "onboard_time": 1698891813,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218063,
@@ -2411,6 +2467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202597,
+      "num": 202597,
+      "word": "36岁男子脑死亡捐器官救5人",
+      "onboard_time": 1698894395,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "互金币",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1698812614,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191512,
+      "num": 191512,
+      "word": "快船vs湖人",
+      "onboard_time": 1698893732,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 191134,
@@ -3043,6 +3115,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 162983,
+      "num": 162983,
+      "word": "章昊唱了诀爱",
+      "onboard_time": 1698894632,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162535,
       "num": 162535,
       "word": "尹子维 大叔也是花美男",
@@ -3097,6 +3177,14 @@
       "onboard_time": 1698820296,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158699,
+      "num": 158699,
+      "word": "你能接受咖啡多少钱一杯",
+      "onboard_time": 1698893613,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 158299,
@@ -3409,6 +3497,14 @@
       "onboard_time": 1698797852,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 141754,
+      "num": 141754,
+      "word": "年轻人逛商场只去B1B2",
+      "onboard_time": 1698894512,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 139969,
@@ -3783,6 +3879,14 @@
       "num": 109158,
       "word": "以色列拒绝联合国停火决议",
       "onboard_time": 1698752011,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108762,
+      "num": 108762,
+      "word": "福岛第一核电站核废液溅射量超此前估算",
+      "onboard_time": 1698895049,
       "rank": 49,
       "category": "国外要闻"
     },
