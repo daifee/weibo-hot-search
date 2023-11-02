@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1698967032616,
+  "endTime": 1698968069703,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -803,6 +803,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1367853,
+      "num": 275977,
+      "word": "巴以冲突升级",
+      "onboard_time": 1698939396,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1359273,
       "num": 468537,
       "word": "拥有教师编制的他们后悔了",
@@ -945,14 +953,6 @@
       "onboard_time": 1698584613,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1201224,
-      "num": 226022,
-      "word": "巴以冲突升级",
-      "onboard_time": 1698939396,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1200624,
@@ -3651,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474578,
+      "num": 252601,
+      "word": "小杨哥称被黑是因为被误解",
+      "onboard_time": 1698942447,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 474121,
       "num": 260964,
       "word": "叶舒华短发",
@@ -3676,7 +3684,7 @@
     },
     {
       "raw_hot": 470781,
-      "num": 347020,
+      "num": 351054,
       "word": "林丹丹否认曾担任恒大歌舞团团长",
       "onboard_time": 1698961394,
       "rank": 7,
@@ -4057,14 +4065,6 @@
       "onboard_time": 1698838713,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421503,
-      "num": 219684,
-      "word": "小杨哥称被黑是因为被误解",
-      "onboard_time": 1698942447,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 420814,
@@ -5731,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298103,
+      "num": 241650,
+      "word": "长相思和莲花楼的售后学",
+      "onboard_time": 1698966984,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298004,
       "num": 261603,
       "word": "连狗瘦之后五官都会变立体",
@@ -7212,7 +7220,7 @@
     },
     {
       "raw_hot": 237414,
-      "num": 216967,
+      "num": 231035,
       "word": "出席香奈儿大秀的明星们",
       "onboard_time": 1698944062,
       "rank": 13,
@@ -8007,6 +8015,14 @@
       "num": 214254,
       "word": "罗云熙章若楠情侣装海报",
       "onboard_time": 1698727419,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213681,
+      "num": 175947,
+      "word": "郭迦南 换角",
+      "onboard_time": 1698967285,
       "rank": 21,
       "category": "剧集"
     },
@@ -11235,6 +11251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156803,
+      "num": 156803,
+      "word": "女生毕业实习父母每天趴窗等下班",
+      "onboard_time": 1698966264,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156794,
       "num": 156794,
       "word": "年轻人开始养鱼式理财了",
@@ -11449,6 +11473,14 @@
       "onboard_time": 1698787215,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "导盲犬退役看到原主人激动的摇尾巴",
+      "onboard_time": 1698966324,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152071,
@@ -11673,6 +11705,14 @@
       "onboard_time": 1698921815,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147749,
+      "num": 147749,
+      "word": "女子书包丢公厕好心大哥拾还分文不少",
+      "onboard_time": 1698968007,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147732,
@@ -11947,11 +11987,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143061,
+      "num": 143061,
+      "word": "周冬雨惠英红张艺兴李鸿其同框",
+      "onboard_time": 1698943764,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143027,
       "num": 143027,
       "word": "曼联vs曼城",
       "onboard_time": 1698592177,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143006,
+      "num": 143006,
+      "word": "八强战马龙对阵奥恰洛夫",
+      "onboard_time": 1698966564,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -12057,14 +12113,6 @@
       "onboard_time": 1698920673,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141240,
-      "num": 141240,
-      "word": "周冬雨惠英红张艺兴李鸿其同框",
-      "onboard_time": 1698943764,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 140934,
@@ -12273,6 +12321,14 @@
       "onboard_time": 1698577954,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135903,
+      "num": 135903,
+      "word": "萧亚轩新歌MV",
+      "onboard_time": 1698967285,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 135644,
@@ -12513,6 +12569,14 @@
       "onboard_time": 1698630210,
       "rank": 38,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "吴宣仪职场戏",
+      "onboard_time": 1698967646,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 132661,
@@ -13643,14 +13707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110022,
-      "num": 110022,
-      "word": "导盲犬退役看到原主人激动的摇尾巴",
-      "onboard_time": 1698966324,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109974,
       "num": 109974,
       "word": "原来幼年宇文拓是张逸杰演的",
@@ -13809,14 +13865,6 @@
       "onboard_time": 1698633870,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105554,
-      "num": 105554,
-      "word": "女生毕业实习父母每天趴窗等下班",
-      "onboard_time": 1698966264,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105417,
@@ -14009,14 +14057,6 @@
       "onboard_time": 1698633148,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99897,
-      "num": 99897,
-      "word": "八强战马龙对阵奥恰洛夫",
-      "onboard_time": 1698966564,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 99766,
@@ -14228,7 +14268,7 @@
     },
     {
       "raw_hot": 89908,
-      "num": 74410,
+      "num": 84136,
       "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
       "onboard_time": 1698957974,
       "rank": 30,
@@ -14427,6 +14467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75916,
+      "num": 75916,
+      "word": "王曼昱3比1袁嘉楠",
+      "onboard_time": 1698966804,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75463,
       "num": 478404,
       "word": "天猫双11付尾款攻略来了",
@@ -14577,14 +14625,6 @@
       "onboard_time": 1698860238,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63195,
-      "num": 63195,
-      "word": "王曼昱3比1袁嘉楠",
-      "onboard_time": 1698966804,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 62647,
@@ -14777,14 +14817,6 @@
       "onboard_time": 1698840033,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48168,
-      "num": 48168,
-      "word": "长相思和莲花楼的售后学",
-      "onboard_time": 1698966984,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 48164,

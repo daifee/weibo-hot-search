@@ -1,10 +1,10 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698967032616,
+  "endTime": 1698968069703,
   "band_list": [
     {
-      "raw_hot": 1201224,
-      "num": 226022,
+      "raw_hot": 1367853,
+      "num": 275977,
       "word": "巴以冲突升级",
       "onboard_time": 1698939396,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 768846,
-      "num": 239096,
+      "num": 260679,
       "word": "金鸡奖给周冬雨于适P了衣服",
       "onboard_time": 1698926435,
       "rank": 10,
@@ -59,8 +59,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 474578,
+      "num": 252601,
+      "word": "小杨哥称被黑是因为被误解",
+      "onboard_time": 1698942447,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 470781,
-      "num": 347020,
+      "num": 351054,
       "word": "林丹丹否认曾担任恒大歌舞团团长",
       "onboard_time": 1698961394,
       "rank": 7,
@@ -81,14 +89,6 @@
       "onboard_time": 1698923313,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 421503,
-      "num": 219684,
-      "word": "小杨哥称被黑是因为被误解",
-      "onboard_time": 1698942447,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 421367,
@@ -131,12 +131,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 307570,
+      "num": 212175,
+      "word": "因男朋友妈妈一句话分手了",
+      "onboard_time": 1698925536,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302912,
       "num": 302912,
       "word": "达美乐30分钟必达3年亏损9亿",
       "onboard_time": 1698930217,
       "rank": 7,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 298103,
+      "num": 241650,
+      "word": "长相思和莲花楼的售后学",
+      "onboard_time": 1698966984,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 291751,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278922,
+      "num": 278922,
+      "word": "专家称彩礼理念不改婚姻制度要崩溃",
+      "onboard_time": 1698926373,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274326,
       "num": 274326,
       "word": "爱吃面的公主请试青椒鸡蛋拌面",
@@ -172,19 +196,11 @@
     },
     {
       "raw_hot": 273875,
-      "num": 227676,
+      "num": 241125,
       "word": "官方回应副市长与女同事暧昧",
       "onboard_time": 1698930757,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269254,
-      "num": 212175,
-      "word": "因男朋友妈妈一句话分手了",
-      "onboard_time": 1698925536,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 268579,
@@ -204,19 +220,11 @@
     },
     {
       "raw_hot": 237414,
-      "num": 216967,
+      "num": 231035,
       "word": "出席香奈儿大秀的明星们",
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 226323,
-      "num": 226323,
-      "word": "专家称彩礼理念不改婚姻制度要崩溃",
-      "onboard_time": 1698926373,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222289,
@@ -227,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219741,
+      "num": 219741,
+      "word": "香港房价暴跌给内地楼市敲响警钟",
+      "onboard_time": 1698906452,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 213837,
       "num": 213837,
       "word": "太上老君遇到他炼丹炉都省了",
       "onboard_time": 1698938136,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213681,
+      "num": 175947,
+      "word": "郭迦南 换角",
+      "onboard_time": 1698967285,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 211673,
@@ -251,28 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188759,
-      "num": 188759,
-      "word": "真爱至上有望内地上映",
-      "onboard_time": 1698937958,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 172581,
-      "num": 172581,
+      "raw_hot": 194439,
+      "num": 194439,
       "word": "水管工捡到300克黄金上交意外破获盗窃案",
       "onboard_time": 1698923794,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170710,
-      "num": 170710,
-      "word": "香港房价暴跌给内地楼市敲响警钟",
-      "onboard_time": 1698906452,
-      "rank": 27,
-      "category": "社会新闻,财经"
+      "raw_hot": 188759,
+      "num": 188759,
+      "word": "真爱至上有望内地上映",
+      "onboard_time": 1698937958,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 160250,
@@ -283,12 +299,36 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 156803,
+      "num": 156803,
+      "word": "女生毕业实习父母每天趴窗等下班",
+      "onboard_time": 1698966264,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "导盲犬退役看到原主人激动的摇尾巴",
+      "onboard_time": 1698966324,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151980,
       "num": 151980,
       "word": "辛巴抖音账号被封禁",
       "onboard_time": 1698907171,
       "rank": 30,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 147749,
+      "num": 147749,
+      "word": "女子书包丢公厕好心大哥拾还分文不少",
+      "onboard_time": 1698968007,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145179,
@@ -307,12 +347,36 @@
       "category": "数码"
     },
     {
-      "raw_hot": 141240,
-      "num": 141240,
+      "raw_hot": 143061,
+      "num": 143061,
       "word": "周冬雨惠英红张艺兴李鸿其同框",
       "onboard_time": 1698943764,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143006,
+      "num": 143006,
+      "word": "八强战马龙对阵奥恰洛夫",
+      "onboard_time": 1698966564,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135903,
+      "num": 135903,
+      "word": "萧亚轩新歌MV",
+      "onboard_time": 1698967285,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "吴宣仪职场戏",
+      "onboard_time": 1698967646,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 131246,
@@ -339,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119270,
+      "num": 119270,
+      "word": "9岁男孩捡2岁女孩民警猛夸",
+      "onboard_time": 1698937597,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118549,
       "num": 118549,
       "word": "山东男子受苏州人帮助开面馆名字加苏",
@@ -363,36 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110209,
-      "num": 110209,
-      "word": "9岁男孩捡2岁女孩民警猛夸",
-      "onboard_time": 1698937597,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110022,
-      "num": 110022,
-      "word": "导盲犬退役看到原主人激动的摇尾巴",
-      "onboard_time": 1698966324,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109303,
       "num": 109303,
       "word": "金晨 被演戏耽误的北舞校花",
       "onboard_time": 1698924633,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105554,
-      "num": 105554,
-      "word": "女生毕业实习父母每天趴窗等下班",
-      "onboard_time": 1698966264,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104800,
@@ -417,14 +465,6 @@
       "onboard_time": 1698939817,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99897,
-      "num": 99897,
-      "word": "八强战马龙对阵奥恰洛夫",
-      "onboard_time": 1698966564,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 98184,
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 89908,
-      "num": 74410,
+      "num": 84136,
       "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
       "onboard_time": 1698957974,
       "rank": 30,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75916,
+      "num": 75916,
+      "word": "王曼昱3比1袁嘉楠",
+      "onboard_time": 1698966804,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68328,
       "num": 68328,
       "word": "莲花楼长尾效应好强",
@@ -515,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63195,
-      "num": 63195,
-      "word": "王曼昱3比1袁嘉楠",
-      "onboard_time": 1698966804,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54275,
       "num": 54275,
       "word": "消防员下地窖托起被困老人的希望",
       "onboard_time": 1698966264,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48168,
-      "num": 48168,
-      "word": "长相思和莲花楼的售后学",
-      "onboard_time": 1698966984,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 46235,
