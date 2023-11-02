@@ -1,0 +1,410 @@
+{
+  "runTime": 1698896063748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3585293,
+        "num": 3585293,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 607124,
+        "num": 607124,
+        "word": "日本开始第3轮核污染水排海",
+        "onboard_time": 1698890734,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 39450,
+        "num": 503211,
+        "word": "6位航天员太空会面瞬间回顾",
+        "onboard_time": 1698842616,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 843074,
+        "num": 489583,
+        "word": "缅甸",
+        "onboard_time": 1698887258,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 630509,
+        "num": 488780,
+        "word": "湖北大学保卫处回应情侣与校外人冲突",
+        "onboard_time": 1698887497,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475168,
+        "num": 475168,
+        "word": "36岁男子脑死亡捐器官救5人",
+        "onboard_time": 1698894395,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 360377,
+        "num": 360377,
+        "word": "离世女教师加班数石榴系谣言",
+        "onboard_time": 1698883295,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341837,
+        "num": 341837,
+        "word": "年轻人逛商场只去B1B2",
+        "onboard_time": 1698894512,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 323825,
+        "num": 323825,
+        "word": "苹果取消AppleWatch应用兼容安卓计划",
+        "onboard_time": 1698887379,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 296353,
+        "num": 296353,
+        "word": "福岛第一核电站核废液溅射量超此前估算",
+        "onboard_time": 1698895049,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1181383,
+        "num": 295923,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746346,
+        "num": 295273,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 702475,
+        "num": 294322,
+        "word": "仙剑4要来了",
+        "onboard_time": 1698884862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673641,
+        "num": 293127,
+        "word": "港星林皓霆去世",
+        "onboard_time": 1698888875,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292320,
+        "num": 292320,
+        "word": "河南淮阳官方回应抢中药事件",
+        "onboard_time": 1698891813,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628552,
+        "num": 292229,
+        "word": "迪丽热巴 大家都减轻彼此负担吧",
+        "onboard_time": 1698892535,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432203,
+        "num": 292118,
+        "word": "傅首尔是在告别吗",
+        "onboard_time": 1698882452,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347435,
+        "num": 292116,
+        "word": "于正 我讨厌oe喜欢1V1",
+        "onboard_time": 1698893253,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291923,
+        "num": 291923,
+        "word": "漫威考虑复活钢铁侠黑寡妇",
+        "onboard_time": 1698886538,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290026,
+        "num": 290026,
+        "word": "海归博士985硕士求职因本科双非被刷",
+        "onboard_time": 1698880223,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727491,
+        "num": 285724,
+        "word": "女孩吃小粉丸瘦到50斤多器官出血",
+        "onboard_time": 1698893014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409315,
+        "num": 283689,
+        "word": "突然意识到看鞋识人很不礼貌",
+        "onboard_time": 1698894573,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279198,
+        "num": 279198,
+        "word": "章昊唱了诀爱",
+        "onboard_time": 1698894632,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270808,
+        "num": 270808,
+        "word": "梅西中国行主办方致歉",
+        "onboard_time": 1698893072,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262627,
+        "num": 262627,
+        "word": "湖北大学",
+        "onboard_time": 1698850598,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 257362,
+        "num": 257362,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220058,
+        "num": 220058,
+        "word": "秦岚说嗓子没好辛芷蕾得负一半责任",
+        "onboard_time": 1698895351,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217265,
+        "num": 217265,
+        "word": "韩国人的形容好离谱",
+        "onboard_time": 1698892893,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215344,
+        "num": 215344,
+        "word": "斯嘉丽起诉AI开发商",
+        "onboard_time": 1698888160,
+        "rank": 28,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 202709,
+        "num": 202709,
+        "word": "治愈系恋人开播",
+        "onboard_time": 1698895292,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195823,
+        "num": 195823,
+        "word": "杨紫发个正常的朋友圈被80个好友担心",
+        "onboard_time": 1698843513,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206685,
+        "num": 194625,
+        "word": "秦岚迪丽热巴对彼此有误解",
+        "onboard_time": 1698890734,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180382,
+        "num": 180382,
+        "word": "五月天 还不开票",
+        "onboard_time": 1698889956,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163670,
+        "num": 163670,
+        "word": "你能接受咖啡多少钱一杯",
+        "onboard_time": 1698893613,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161267,
+        "num": 161267,
+        "word": "快船vs湖人",
+        "onboard_time": 1698893732,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157172,
+        "num": 157172,
+        "word": "宋亚轩将参加声生不息中华季",
+        "onboard_time": 1698888875,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154118,
+        "num": 154118,
+        "word": "中国护照里藏着祖国大好河山",
+        "onboard_time": 1698888575,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149467,
+        "num": 149467,
+        "word": "最简单判断自己脸型的方法",
+        "onboard_time": 1698889173,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147464,
+        "num": 147464,
+        "word": "声生不息中华季",
+        "onboard_time": 1698883054,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143194,
+        "num": 143194,
+        "word": "交警找回手机后婉拒大姐酬谢",
+        "onboard_time": 1698895831,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 141696,
+        "num": 141696,
+        "word": "天官赐福第三集真是好大一张床",
+        "onboard_time": 1698883965,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139852,
+        "num": 139852,
+        "word": "王宝钏挖野菜cos",
+        "onboard_time": 1698885520,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138669,
+        "num": 138669,
+        "word": "白鹿泪眼式撒娇",
+        "onboard_time": 1698889956,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137805,
+        "num": 137805,
+        "word": "乔治假摔被罚款",
+        "onboard_time": 1698891931,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136655,
+        "num": 136655,
+        "word": "百胜中国股价大跌15%",
+        "onboard_time": 1698890734,
+        "rank": 44,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 130313,
+        "num": 130313,
+        "word": "莎头 稳稳的幸福",
+        "onboard_time": 1698884075,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128763,
+        "num": 128763,
+        "word": "蒋依依cos失眠鬼",
+        "onboard_time": 1698885764,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126822,
+        "num": 126822,
+        "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
+        "onboard_time": 1698889114,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122741,
+        "num": 122741,
+        "word": "丈夫鲜花装饰车子送妻子生日惊喜",
+        "onboard_time": 1698895530,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121506,
+        "num": 121506,
+        "word": "苹果或在印度启动iPhone17研发",
+        "onboard_time": 1698889358,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698895072668,
+  "endTime": 1698896063748,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746346,
+      "num": 295273,
+      "word": "刘家昌让儿子家喻户晓的歌",
+      "onboard_time": 1698894692,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 745845,
       "num": 745845,
       "word": "当地教体局回应小学女教师去世",
@@ -593,6 +601,14 @@
       "onboard_time": 1698845256,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 727491,
+      "num": 285724,
+      "word": "女孩吃小粉丸瘦到50斤多器官出血",
+      "onboard_time": 1698893014,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713683,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678643,
-      "num": 268815,
-      "word": "女孩吃小粉丸瘦到50斤多器官出血",
-      "onboard_time": 1698893014,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666744,
       "num": 283036,
       "word": "向太 衣服太low了",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 633733,
-      "num": 269908,
+      "num": 292229,
       "word": "迪丽热巴 大家都减轻彼此负担吧",
       "onboard_time": 1698892535,
       "rank": 13,
@@ -1027,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 475168,
+      "num": 475168,
+      "word": "36岁男子脑死亡捐器官救5人",
+      "onboard_time": 1698894395,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 468696,
       "num": 468696,
       "word": "于正暗香来欠一个满意的结局",
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 413822,
-      "num": 269625,
+      "num": 292116,
       "word": "于正 我讨厌oe喜欢1V1",
       "onboard_time": 1698893253,
       "rank": 15,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1698851736,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409315,
+      "num": 283689,
+      "word": "突然意识到看鞋识人很不礼貌",
+      "onboard_time": 1698894573,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 408835,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1698831391,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 392174,
-      "num": 269484,
-      "word": "刘家昌让儿子家喻户晓的歌",
-      "onboard_time": 1698894692,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 392112,
@@ -1459,6 +1475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 341837,
+      "num": 341837,
+      "word": "年轻人逛商场只去B1B2",
+      "onboard_time": 1698894512,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 341627,
       "num": 244467,
       "word": "乃万cos迪达拉",
@@ -1651,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296353,
+      "num": 296353,
+      "word": "福岛第一核电站核废液溅射量超此前估算",
+      "onboard_time": 1698895049,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 295944,
       "num": 295944,
       "word": "腾讯视频11月大剧片单",
@@ -1673,14 +1705,6 @@
       "onboard_time": 1698765335,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287029,
-      "num": 268610,
-      "word": "突然意识到看鞋识人很不礼貌",
-      "onboard_time": 1698894573,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 286731,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1698853476,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279198,
+      "num": 279198,
+      "word": "章昊唱了诀爱",
+      "onboard_time": 1698894632,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 273955,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1698809313,
       "rank": 31,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 270808,
+      "num": 270808,
+      "word": "梅西中国行主办方致歉",
+      "onboard_time": 1698893072,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 270488,
@@ -2035,14 +2075,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 239204,
-      "num": 239204,
-      "word": "梅西中国行主办方致歉",
-      "onboard_time": 1698893072,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239028,
       "num": 239028,
       "word": "费启鸣入选2023星辰大海",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1698886966,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220058,
+      "num": 220058,
+      "word": "秦岚说嗓子没好辛芷蕾得负一半责任",
+      "onboard_time": 1698895351,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 219721,
@@ -2467,12 +2507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202597,
-      "num": 202597,
-      "word": "36岁男子脑死亡捐器官救5人",
-      "onboard_time": 1698894395,
+      "raw_hot": 202709,
+      "num": 202709,
+      "word": "治愈系恋人开播",
+      "onboard_time": 1698895292,
       "rank": 29,
-      "category": "社会正能量"
+      "category": "剧集"
     },
     {
       "raw_hot": 202381,
@@ -3107,20 +3147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163670,
+      "num": 163670,
+      "word": "你能接受咖啡多少钱一杯",
+      "onboard_time": 1698893613,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163249,
       "num": 163249,
       "word": "oner灵超cos爱德华",
       "onboard_time": 1698804810,
       "rank": 45,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 162983,
-      "num": 162983,
-      "word": "章昊唱了诀爱",
-      "onboard_time": 1698894632,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 162535,
@@ -3177,14 +3217,6 @@
       "onboard_time": 1698820296,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158699,
-      "num": 158699,
-      "word": "你能接受咖啡多少钱一杯",
-      "onboard_time": 1698893613,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 158299,
@@ -3483,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143194,
+      "num": 143194,
+      "word": "交警找回手机后婉拒大姐酬谢",
+      "onboard_time": 1698895831,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 143101,
       "num": 143101,
       "word": "为了LPL拼尽全力",
@@ -3497,14 +3537,6 @@
       "onboard_time": 1698797852,
       "rank": 41,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 141754,
-      "num": 141754,
-      "word": "年轻人逛商场只去B1B2",
-      "onboard_time": 1698894512,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 139969,
@@ -3723,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122741,
+      "num": 122741,
+      "word": "丈夫鲜花装饰车子送妻子生日惊喜",
+      "onboard_time": 1698895530,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122098,
       "num": 122098,
       "word": "虞书欣回应演唱会动作做早",
@@ -3879,14 +3919,6 @@
       "num": 109158,
       "word": "以色列拒绝联合国停火决议",
       "onboard_time": 1698752011,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 108762,
-      "num": 108762,
-      "word": "福岛第一核电站核废液溅射量超此前估算",
-      "onboard_time": 1698895049,
       "rank": 49,
       "category": "国外要闻"
     },
