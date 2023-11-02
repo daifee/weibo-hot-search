@@ -1,6 +1,6 @@
 {
   "startTime": 1698855774340,
-  "endTime": 1698914052972,
+  "endTime": 1698916615161,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1696895,
+      "num": 370953,
+      "word": "秦岚 我们不缺住好酒店的经历",
+      "onboard_time": 1698911915,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1691802,
       "num": 1607856,
       "word": "康师傅涨价",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1689843,
-      "num": 305352,
+      "num": 367723,
       "word": "遭家暴16次女子公开挂粪袋造口画面",
       "onboard_time": 1698908132,
       "rank": 20,
@@ -131,14 +139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1496032,
-      "num": 306937,
-      "word": "秦岚 我们不缺住好酒店的经历",
-      "onboard_time": 1698911915,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1462107,
       "num": 408037,
       "word": "贾静雯发文悼念陈慧翎",
@@ -152,6 +152,14 @@
       "word": "湖北大学保卫处回应情侣与校外人冲突",
       "onboard_time": 1698887497,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218583,
+      "num": 370473,
+      "word": "私教离职后充100万健身卡女子欲退款",
+      "onboard_time": 1698911318,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1698843513,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 813168,
+      "num": 370260,
+      "word": "顾客举报喜茶一门店浪费水",
+      "onboard_time": 1698910478,
+      "rank": 16,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 812558,
@@ -467,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548632,
-      "num": 301816,
-      "word": "私教离职后充100万健身卡女子欲退款",
-      "onboard_time": 1698911318,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516238,
       "num": 516238,
       "word": "湖南一医院解聘全体员工",
       "onboard_time": 1698906631,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509622,
+      "num": 368475,
+      "word": "辛芷蕾但凡有点金玉妍的心思在身上",
+      "onboard_time": 1698914732,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 492115,
@@ -587,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 417365,
+      "num": 366995,
+      "word": "临近婚期被要求加3万彩礼男子退婚",
+      "onboard_time": 1698912695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413822,
       "num": 296034,
       "word": "于正 我讨厌oe喜欢1V1",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 396205,
-      "num": 365219,
+      "num": 368218,
       "word": "NRG对战WBG",
       "onboard_time": 1698909158,
       "rank": 16,
@@ -668,19 +692,11 @@
     },
     {
       "raw_hot": 393829,
-      "num": 260411,
+      "num": 285133,
       "word": "香奈儿大秀",
       "onboard_time": 1698912935,
       "rank": 25,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 393307,
-      "num": 299751,
-      "word": "顾客举报喜茶一门店浪费水",
-      "onboard_time": 1698910478,
-      "rank": 16,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 390058,
@@ -729,6 +745,22 @@
       "onboard_time": 1698889173,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 375369,
+      "num": 367774,
+      "word": "WBG先下一城",
+      "onboard_time": 1698916112,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 366703,
+      "num": 366703,
+      "word": "王一博陈伟霆刘诗诗张子枫同框看秀",
+      "onboard_time": 1698914254,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 361132,
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345106,
+      "num": 345106,
+      "word": "吴京怕被说耍大牌不让安保围着",
+      "onboard_time": 1698916535,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342264,
       "num": 342264,
       "word": "约旦召回驻以色列大使",
@@ -801,14 +841,6 @@
       "onboard_time": 1698845556,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340440,
-      "num": 260395,
-      "word": "临近婚期被要求加3万彩礼男子退婚",
-      "onboard_time": 1698912695,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330199,
@@ -961,6 +993,14 @@
       "onboard_time": 1698894632,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 277410,
+      "num": 277410,
+      "word": "香蕉的茎也可以吃吗",
+      "onboard_time": 1698914613,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 275421,
@@ -1123,6 +1163,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 227353,
+      "num": 227353,
+      "word": "公婆耗时5个月为儿媳打造草坪婚礼",
+      "onboard_time": 1698915816,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226905,
       "num": 226905,
       "word": "韩国人的形容好离谱",
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 222291,
-      "num": 311790,
+      "num": 371940,
       "word": "残疾妻子坚持每天给摆摊丈夫送饭",
       "onboard_time": 1698910299,
       "rank": 42,
@@ -1171,12 +1219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219870,
+      "num": 219870,
+      "word": "S13",
+      "onboard_time": 1698915336,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219721,
       "num": 219721,
       "word": "秦岚迪丽热巴 丽挽狂岚",
       "onboard_time": 1698883536,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219210,
+      "num": 372427,
+      "word": "8岁女孩和41岁妈妈练出同款腹肌",
+      "onboard_time": 1698910478,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 215180,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1698900759,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193996,
+      "num": 193996,
+      "word": "英雄联盟",
+      "onboard_time": 1698916292,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 190650,
@@ -1523,14 +1595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154282,
-      "num": 260442,
-      "word": "8岁女孩和41岁妈妈练出同款腹肌",
-      "onboard_time": 1698910478,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 154195,
       "num": 154195,
       "word": "向太 别再说我和媳妇的关系",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1698891931,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148925,
+      "num": 148925,
+      "word": "相夷太剑",
+      "onboard_time": 1698916354,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 148599,
@@ -1785,6 +1857,14 @@
       "onboard_time": 1698850958,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125187,
+      "num": 125187,
+      "word": "金智秀ELLE新加坡30周年刊封",
+      "onboard_time": 1698914913,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123375,
