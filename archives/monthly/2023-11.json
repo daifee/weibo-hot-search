@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698913271085,
+  "endTime": 1698914052972,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1496032,
+      "num": 306937,
+      "word": "秦岚 我们不缺住好酒店的经历",
+      "onboard_time": 1698911915,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1482421,
       "num": 475049,
       "word": "温碧霞P图从不P老公",
@@ -481,14 +489,6 @@
       "onboard_time": 1698781874,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1017348,
-      "num": 306937,
-      "word": "秦岚 我们不缺住好酒店的经历",
-      "onboard_time": 1698911915,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 992265,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548632,
+      "num": 301816,
+      "word": "私教离职后充100万健身卡女子欲退款",
+      "onboard_time": 1698911318,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534192,
       "num": 534192,
       "word": "傅首尔为老刘重燃生活热情而开心",
@@ -1395,14 +1403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 435598,
-      "num": 301816,
-      "word": "私教离职后充100万健身卡女子欲退款",
-      "onboard_time": 1698911318,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432398,
       "num": 297245,
       "word": "以爱为营群像海报",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1698909158,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 393829,
+      "num": 260411,
+      "word": "香奈儿大秀",
+      "onboard_time": 1698912935,
+      "rank": 25,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 393583,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1698820413,
       "rank": 32,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 340440,
+      "num": 260395,
+      "word": "临近婚期被要求加3万彩礼男子退婚",
+      "onboard_time": 1698912695,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337410,
@@ -2219,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271781,
+      "num": 260378,
+      "word": "刘律真的好励志",
+      "onboard_time": 1698912277,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271729,
       "num": 271729,
       "word": "这眼神何止是会爱人啊",
@@ -2523,28 +2547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239814,
-      "num": 239814,
-      "word": "刘律真的好励志",
-      "onboard_time": 1698912277,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239680,
       "num": 239680,
       "word": "八年花了12万网购的感受",
       "onboard_time": 1698757531,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239356,
-      "num": 239356,
-      "word": "香奈儿大秀",
-      "onboard_time": 1698912935,
-      "rank": 25,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 239304,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1698815736,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206639,
-      "num": 206639,
-      "word": "临近婚期被要求加3万彩礼男子退婚",
-      "onboard_time": 1698912695,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206568,
@@ -3931,6 +3931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154282,
+      "num": 260442,
+      "word": "8岁女孩和41岁妈妈练出同款腹肌",
+      "onboard_time": 1698910478,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 154134,
       "num": 147454,
       "word": "徐穗珍solo概念照",
@@ -4081,14 +4089,6 @@
       "onboard_time": 1698902914,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147771,
-      "num": 147771,
-      "word": "8岁女孩和41岁妈妈练出同款腹肌",
-      "onboard_time": 1698910478,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 147690,
@@ -4680,6 +4680,14 @@
       "word": "剑网3面挂时装效果",
       "onboard_time": 1698826295,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 99766,
+      "num": 99766,
+      "word": "虚幻5引擎制作的时之笛动画",
+      "onboard_time": 1698913653,
+      "rank": 46,
       "category": "游戏"
     },
     {
