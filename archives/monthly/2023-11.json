@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698906143133,
+  "endTime": 1698906901241,
   "band_list": [
     {
       "raw_hot": 7458191,
@@ -59,20 +59,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2497528,
+      "num": 247583,
+      "word": "刘亚仁注射9.6升异丙酚",
+      "onboard_time": 1698904114,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2481239,
       "num": 2481239,
       "word": "安踏宣布更改公司标志",
       "onboard_time": 1698798697,
       "rank": 0,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 2467472,
-      "num": 247583,
-      "word": "刘亚仁注射9.6升异丙酚",
-      "onboard_time": 1698904114,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2450193,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1691802,
+      "num": 550432,
+      "word": "康师傅涨价",
+      "onboard_time": 1698904472,
+      "rank": 3,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1594962,
       "num": 437095,
       "word": "不孕不育一半以上原因在男性",
@@ -265,14 +273,6 @@
       "onboard_time": 1698814597,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1376175,
-      "num": 543804,
-      "word": "康师傅涨价",
-      "onboard_time": 1698904472,
-      "rank": 3,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 1359273,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648594,
+      "num": 648594,
+      "word": "18岁弟弟被姐姐带去打九价",
+      "onboard_time": 1698905674,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644881,
       "num": 644881,
       "word": "玻利维亚决定与以色列断交",
@@ -785,6 +793,14 @@
       "onboard_time": 1698892535,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 627613,
+      "num": 241261,
+      "word": "柚子皮高颅顶真的生产了",
+      "onboard_time": 1698903934,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 626465,
@@ -825,14 +841,6 @@
       "onboard_time": 1698850598,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 617368,
-      "num": 241261,
-      "word": "柚子皮高颅顶真的生产了",
-      "onboard_time": 1698903934,
-      "rank": 16,
-      "category": "美妆"
     },
     {
       "raw_hot": 615177,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1698837274,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462851,
+      "num": 462851,
+      "word": "卫健委回应医院解聘全体员工",
+      "onboard_time": 1698905372,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460334,
@@ -1643,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348190,
+      "num": 216627,
+      "word": "宋轶同款鸡毛感丸子头",
+      "onboard_time": 1698904592,
+      "rank": 30,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 347623,
       "num": 306358,
       "word": "王宝钏挖野菜cos",
@@ -1691,28 +1715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337144,
-      "num": 337144,
-      "word": "卫健委回应医院解聘全体员工",
-      "onboard_time": 1698905372,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336983,
       "num": 307194,
       "word": "Ricky直播被工作人员训斥",
       "onboard_time": 1698811234,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335170,
-      "num": 199703,
-      "word": "宋轶同款鸡毛感丸子头",
-      "onboard_time": 1698904592,
-      "rank": 30,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 334669,
@@ -1747,20 +1755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329463,
+      "num": 236993,
+      "word": "吴建豪经纪人回应",
+      "onboard_time": 1698905072,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327612,
       "num": 327612,
       "word": "曹操偏头痛的原因找到了",
       "onboard_time": 1698819813,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 326575,
-      "num": 236993,
-      "word": "吴建豪经纪人回应",
-      "onboard_time": 1698905072,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 323664,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1698897272,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274233,
+      "num": 216297,
+      "word": "研究表明频繁使用手机或降低精液质量",
+      "onboard_time": 1698906511,
+      "rank": 22,
+      "category": "知识科普"
     },
     {
       "raw_hot": 273955,
@@ -2291,14 +2307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247947,
-      "num": 247947,
-      "word": "18岁弟弟被姐姐带去打九价",
-      "onboard_time": 1698905674,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247253,
       "num": 247253,
       "word": "檀健次演唱会真的来了",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1698757531,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239564,
+      "num": 215968,
+      "word": "香港房价暴跌给内地楼市敲响警钟",
+      "onboard_time": 1698906452,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 239304,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1698815435,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206315,
+      "num": 206315,
+      "word": "湖南一医院解聘全体员工",
+      "onboard_time": 1698906631,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205861,
@@ -3251,6 +3275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178373,
+      "num": 178373,
+      "word": "欧洲人煮米饭",
+      "onboard_time": 1698905971,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 178073,
       "num": 178073,
       "word": "师傅检修电路比破案还精彩",
@@ -3529,6 +3561,14 @@
       "onboard_time": 1698804810,
       "rank": 45,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 163009,
+      "num": 163009,
+      "word": "以爱为营爱逢对手版预告",
+      "onboard_time": 1698906393,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 162535,
@@ -3987,6 +4027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135605,
+      "num": 128229,
+      "word": "辛芷蕾名字的由来",
+      "onboard_time": 1698906572,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135110,
       "num": 135110,
       "word": "白荆回廊终极测试",
@@ -4273,14 +4321,6 @@
       "onboard_time": 1698760536,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116719,
-      "num": 116719,
-      "word": "欧洲人煮米饭",
-      "onboard_time": 1698905971,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 114409,

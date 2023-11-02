@@ -1,0 +1,410 @@
+{
+  "runTime": 1698906901241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2051298,
+        "num": 2051298,
+        "word": "天安门下半旗悼念李克强同志",
+        "onboard_time": 1698884075,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 648594,
+        "num": 648594,
+        "word": "18岁弟弟被姐姐带去打九价",
+        "onboard_time": 1698905674,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81588,
+        "num": 552358,
+        "word": "中国计划开启太阳立体探测时代",
+        "onboard_time": 1698901598,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1691802,
+        "num": 550432,
+        "word": "康师傅涨价",
+        "onboard_time": 1698904472,
+        "rank": 3,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 534742,
+        "num": 534742,
+        "word": "高校通报贫困生举报助学金名额被挤",
+        "onboard_time": 1698896192,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 462851,
+        "num": 462851,
+        "word": "卫健委回应医院解聘全体员工",
+        "onboard_time": 1698905372,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440926,
+        "num": 440926,
+        "word": "年轻人逛商场只去B1B2",
+        "onboard_time": 1698894512,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 246225,
+        "num": 246225,
+        "word": "湖人终于赢快船了",
+        "onboard_time": 1698902673,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238884,
+        "num": 238884,
+        "word": "东部战区回应美加军舰过航台湾海峡",
+        "onboard_time": 1698898716,
+        "rank": 8,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 217311,
+        "num": 217311,
+        "word": "36岁男子脑死亡捐器官救5人",
+        "onboard_time": 1698894395,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2497528,
+        "num": 217299,
+        "word": "刘亚仁注射9.6升异丙酚",
+        "onboard_time": 1698904114,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693460,
+        "num": 217161,
+        "word": "鱼都以被做成西湖醋鱼为耻",
+        "onboard_time": 1698903096,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 662640,
+        "num": 217128,
+        "word": "第一次见女主努力努力白努力",
+        "onboard_time": 1698891633,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650847,
+        "num": 217065,
+        "word": "贾静雯发文悼念陈慧翎",
+        "onboard_time": 1698899017,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627613,
+        "num": 216915,
+        "word": "柚子皮高颅顶真的生产了",
+        "onboard_time": 1698903934,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 857033,
+        "num": 216848,
+        "word": "刘亚仁教唆他人吸毒",
+        "onboard_time": 1698897754,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522229,
+        "num": 216766,
+        "word": "剧版左耳",
+        "onboard_time": 1698900220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423826,
+        "num": 216713,
+        "word": "湖大冲突事件双方达成谅解",
+        "onboard_time": 1698896733,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348190,
+        "num": 216627,
+        "word": "宋轶同款鸡毛感丸子头",
+        "onboard_time": 1698904592,
+        "rank": 18,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 329463,
+        "num": 216540,
+        "word": "吴建豪经纪人回应",
+        "onboard_time": 1698905072,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322820,
+        "num": 216424,
+        "word": "天官赐福花城穿了光腿神器",
+        "onboard_time": 1698900938,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 285141,
+        "num": 216341,
+        "word": "辛芷蕾 秦岚你是电音百灵鸟",
+        "onboard_time": 1698903035,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274233,
+        "num": 216297,
+        "word": "研究表明频繁使用手机或降低精液质量",
+        "onboard_time": 1698906511,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 272041,
+        "num": 216235,
+        "word": "浙江一县城每天喝掉1.5万杯咖啡",
+        "onboard_time": 1698904234,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 258843,
+        "num": 216103,
+        "word": "刘家昌让儿子家喻户晓的歌",
+        "onboard_time": 1698894692,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246848,
+        "num": 216038,
+        "word": "女孩吃小粉丸瘦到50斤多器官出血",
+        "onboard_time": 1698893014,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239564,
+        "num": 215968,
+        "word": "香港房价暴跌给内地楼市敲响警钟",
+        "onboard_time": 1698906452,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 215917,
+        "num": 215917,
+        "word": "为有暗香来 植物人昏迷两年爱上护工",
+        "onboard_time": 1698897995,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206315,
+        "num": 206315,
+        "word": "湖南一医院解聘全体员工",
+        "onboard_time": 1698906631,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208520,
+        "num": 204926,
+        "word": "于正 我讨厌oe喜欢1V1",
+        "onboard_time": 1698893253,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201469,
+        "num": 201469,
+        "word": "被解聘医院员工发声",
+        "onboard_time": 1698899980,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184442,
+        "num": 184442,
+        "word": "8个不经意却很不卫生的行为",
+        "onboard_time": 1698887976,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178373,
+        "num": 178373,
+        "word": "欧洲人煮米饭",
+        "onboard_time": 1698905971,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171932,
+        "num": 171932,
+        "word": "傅首尔是在告别吗",
+        "onboard_time": 1698882452,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164839,
+        "num": 164839,
+        "word": "仙剑4要来了",
+        "onboard_time": 1698884862,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163009,
+        "num": 163009,
+        "word": "以爱为营爱逢对手版预告",
+        "onboard_time": 1698906393,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155557,
+        "num": 155557,
+        "word": "林孝埈 精卫",
+        "onboard_time": 1698898417,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153972,
+        "num": 153972,
+        "word": "突然意识到看鞋识人很不礼貌",
+        "onboard_time": 1698894573,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153809,
+        "num": 153809,
+        "word": "休假医生骑小电驴赶回医院救下一命",
+        "onboard_time": 1698904894,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 151278,
+        "word": "外卖小哥不顾订单超时照顾迷路小孩",
+        "onboard_time": 1698905372,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 146872,
+        "num": 146872,
+        "word": "克莱绝杀",
+        "onboard_time": 1698899799,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142523,
+        "num": 142523,
+        "word": "迪丽热巴 大家都减轻彼此负担吧",
+        "onboard_time": 1698892535,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129337,
+        "num": 129337,
+        "word": "陈慧翎将举行树葬",
+        "onboard_time": 1698900159,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135605,
+        "num": 128229,
+        "word": "辛芷蕾名字的由来",
+        "onboard_time": 1698906572,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123415,
+        "num": 123415,
+        "word": "湖北大学保卫处回应情侣与校外人冲突",
+        "onboard_time": 1698887497,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117846,
+        "num": 117846,
+        "word": "港星林皓霆去世",
+        "onboard_time": 1698888875,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 117792,
+        "word": "小伙晕厥倒地10余人合力施救",
+        "onboard_time": 1698903455,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110610,
+        "num": 110610,
+        "word": "keshi上海抢票",
+        "onboard_time": 1698900521,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109505,
+        "num": 109505,
+        "word": "缅甸",
+        "onboard_time": 1698887258,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 107864,
+        "num": 107864,
+        "word": "健身房回应女子欲退款被扣13万手续费",
+        "onboard_time": 1698897754,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量发展开创金融工作新局面#"
+    }
+  }
+}
