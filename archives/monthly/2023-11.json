@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698993301145,
+  "endTime": 1698995752965,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -329,6 +329,14 @@
       "onboard_time": 1698807870,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1591349,
+      "num": 244243,
+      "word": "流浪地球3定档",
+      "onboard_time": 1698993452,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1572098,
@@ -689,6 +697,14 @@
       "onboard_time": 1698935678,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1035111,
+      "num": 240928,
+      "word": "迪丽热巴双马尾麻花辫",
+      "onboard_time": 1698994053,
+      "rank": 12,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 1034445,
@@ -1091,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 728264,
+      "num": 236991,
+      "word": "我三十几我也不是大人",
+      "onboard_time": 1698994172,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 722447,
       "num": 403519,
       "word": "赵露思痛失本名",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1698753987,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663622,
+      "num": 235855,
+      "word": "张译这纹身是忍个鸟啊",
+      "onboard_time": 1698993811,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 658204,
@@ -1387,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602019,
+      "num": 348212,
+      "word": "咬伤10岁男童阿拉斯加犬已被打死",
+      "onboard_time": 1698993690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596081,
       "num": 352555,
       "word": "康师傅回应涨价",
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 594235,
-      "num": 347119,
+      "num": 347153,
       "word": "巡视组回应天津助学金事件",
       "onboard_time": 1698988956,
       "rank": 9,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1698917371,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 492658,
+      "num": 347482,
+      "word": "五块九粉底液成分 作弊痕迹",
+      "onboard_time": 1698992372,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 492115,
@@ -2385,6 +2433,14 @@
       "onboard_time": 1698854132,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390017,
+      "num": 231451,
+      "word": "萧亚轩二次手术",
+      "onboard_time": 1698993089,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 389226,
@@ -3211,14 +3267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 283669,
-      "num": 230973,
-      "word": "五块九粉底液成分 作弊痕迹",
-      "onboard_time": 1698992372,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 283612,
       "num": 206050,
       "word": "当老婆喜欢随身带大容量吸管杯",
@@ -3811,6 +3859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245183,
+      "num": 202000,
+      "word": "白鹿抽到丞磊的字条",
+      "onboard_time": 1698995372,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243161,
       "num": 231810,
       "word": "如何把身体里的病气排出去",
@@ -4003,14 +4059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231451,
-      "num": 231451,
-      "word": "萧亚轩二次手术",
-      "onboard_time": 1698993089,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230956,
       "num": 230956,
       "word": "漫威没有好剧本复活谁都没用",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1698910478,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 223796,
+      "num": 223796,
+      "word": "警方通报男子持榔头当街追砸女子",
+      "onboard_time": 1698991894,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223773,
@@ -4481,6 +4537,14 @@
       "onboard_time": 1698838834,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207247,
+      "num": 207247,
+      "word": "战地女记者陈慧慧回应报道巴以冲突",
+      "onboard_time": 1698994891,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 207066,
@@ -5075,20 +5139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184654,
-      "num": 184654,
-      "word": "警方通报男子持榔头当街追砸女子",
-      "onboard_time": 1698991894,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184572,
       "num": 184572,
       "word": "你能接受咖啡多少钱一杯",
       "onboard_time": 1698893613,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184428,
+      "num": 168161,
+      "word": "金晨仙蓝色降温眼妆",
+      "onboard_time": 1698995733,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 184403,
@@ -5409,6 +5473,14 @@
       "onboard_time": 1698800793,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170553,
+      "num": 170553,
+      "word": "男孩高烧错过约定隔周早早赴约",
+      "onboard_time": 1698994712,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170533,
@@ -5801,6 +5873,14 @@
       "onboard_time": 1698809433,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154808,
+      "num": 154808,
+      "word": "故宫的猫凶猛帕帕 生人勿近",
+      "onboard_time": 1698995313,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 154685,
@@ -6481,6 +6561,14 @@
       "onboard_time": 1698797852,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128262,
+      "num": 128262,
+      "word": "吉林一民警早市卖菜被人偷走手枪",
+      "onboard_time": 1698995733,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127882,
