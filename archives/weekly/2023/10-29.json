@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699015772743,
+  "endTime": 1699017680086,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -723,6 +723,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1627258,
+      "num": 1627258,
+      "word": "李思思开口 分不清谁在主持",
+      "onboard_time": 1699011398,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1608139,
       "num": 1608139,
       "word": "电影花千骨定档",
@@ -857,14 +865,6 @@
       "onboard_time": 1698827373,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1490189,
-      "num": 1490189,
-      "word": "李思思开口 分不清谁在主持",
-      "onboard_time": 1699011398,
-      "rank": 1,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1486374,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293717,
+      "num": 1293717,
+      "word": "ELLE内场",
+      "onboard_time": 1699014634,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1286755,
       "num": 349013,
       "word": "万圣节cos关晓彤",
@@ -1107,11 +1115,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1236482,
-      "num": 1236482,
-      "word": "ELLE内场",
-      "onboard_time": 1699014634,
-      "rank": 30,
+      "raw_hot": 1237005,
+      "num": 925288,
+      "word": "张小斐 黑夜里闪耀的钻石",
+      "onboard_time": 1699014155,
+      "rank": 37,
       "category": "作品衍生,时尚"
     },
     {
@@ -1875,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882209,
+      "num": 882209,
+      "word": "GEN 五放皇子",
+      "onboard_time": 1699015898,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 878305,
       "num": 878305,
       "word": "下一站幸福导演陈慧翎去世",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1698488794,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 858064,
+      "num": 858064,
+      "word": "BLG牛啊",
+      "onboard_time": 1699016257,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 855605,
@@ -2043,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816314,
+      "num": 816314,
+      "word": "Tabe哭了",
+      "onboard_time": 1699016436,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 815199,
       "num": 815199,
       "word": "命韵峋环居然发糖了",
@@ -2091,12 +2123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 808300,
-      "num": 808300,
-      "word": "张小斐 黑夜里闪耀的钻石",
-      "onboard_time": 1699014155,
-      "rank": 37,
-      "category": "作品衍生,时尚"
+      "raw_hot": 808039,
+      "num": 808039,
+      "word": "Bin兰博",
+      "onboard_time": 1699002753,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 800028,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1698635253,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 787081,
-      "num": 787081,
-      "word": "Bin兰博",
-      "onboard_time": 1699002753,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 785854,
@@ -3203,6 +3227,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 608230,
+      "num": 608230,
+      "word": "原神",
+      "onboard_time": 1699016855,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 607229,
       "num": 1059373,
       "word": "杭州一中学午餐上了1000只团脐大闸蟹",
@@ -3787,6 +3819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 542878,
+      "num": 1076583,
+      "word": "多方回应网传合肥一小学生校内死亡",
+      "onboard_time": 1699014095,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 542156,
       "num": 289663,
       "word": "因男朋友妈妈一句话分手了",
@@ -3993,14 +4033,6 @@
       "onboard_time": 1698917792,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510120,
-      "num": 1076583,
-      "word": "多方回应网传合肥一小学生校内死亡",
-      "onboard_time": 1699014095,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 509622,
@@ -4513,6 +4545,14 @@
       "onboard_time": 1698796955,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459156,
+      "num": 459156,
+      "word": "XUN 我想成为世界第一打野",
+      "onboard_time": 1699016315,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 458983,
@@ -5171,6 +5211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 401893,
+      "num": 401893,
+      "word": "LPL提前锁定决赛席位",
+      "onboard_time": 1699015417,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 401444,
       "num": 401444,
       "word": "赵晴瘦了",
@@ -5264,6 +5312,14 @@
       "word": "NRG对战WBG",
       "onboard_time": 1698909158,
       "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 396084,
+      "num": 396084,
+      "word": "BLG 对不起刚才是我大声了",
+      "onboard_time": 1699016555,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -6467,14 +6523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318500,
-      "num": 318500,
-      "word": "LPL提前锁定决赛席位",
-      "onboard_time": 1699015417,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 317652,
       "num": 317652,
       "word": "长相思和莲花楼的售后学",
@@ -6585,6 +6633,14 @@
       "onboard_time": 1698560490,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310638,
+      "num": 310638,
+      "word": "原神兑换码",
+      "onboard_time": 1699016614,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 310372,
@@ -6817,6 +6873,14 @@
       "onboard_time": 1698582814,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 298784,
+      "num": 298784,
+      "word": "周奇墨 脱口秀的根还是在线下",
+      "onboard_time": 1699015539,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 298762,
@@ -7507,6 +7571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 271505,
+      "num": 271505,
+      "word": "该时宴出场了",
+      "onboard_time": 1699015180,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271408,
       "num": 271408,
       "word": "易烊千玺表情包cos",
@@ -7553,14 +7625,6 @@
       "onboard_time": 1698805772,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269987,
-      "num": 269987,
-      "word": "该时宴出场了",
-      "onboard_time": 1699015180,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 269897,
@@ -8027,6 +8091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254466,
+      "num": 254466,
+      "word": "Xun封神一战",
+      "onboard_time": 1699017274,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254426,
       "num": 254426,
       "word": "以色列巴勒斯坦冲突",
@@ -8161,6 +8233,14 @@
       "onboard_time": 1699014272,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 249997,
+      "num": 249997,
+      "word": "GEN止步S13八强",
+      "onboard_time": 1699016915,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 249545,
@@ -9867,14 +9947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208023,
-      "num": 250026,
-      "word": "周奇墨 脱口秀的根还是在线下",
-      "onboard_time": 1699015539,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207764,
       "num": 207764,
       "word": "檀健次美拉德西装造型",
@@ -10507,6 +10579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198867,
+      "num": 198867,
+      "word": "LOL",
+      "onboard_time": 1699016797,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198832,
       "num": 198832,
       "word": "新裤子全场万人大合唱",
@@ -10520,6 +10600,14 @@
       "word": "中国6岁女孩打破魔方世界纪录",
       "onboard_time": 1698643954,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198695,
+      "num": 397794,
+      "word": "17岁脑瘫少年卖爆米花母亲婉拒捐赠",
+      "onboard_time": 1699016436,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -11699,6 +11787,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 182276,
+      "num": 182276,
+      "word": "原神丝柯克",
+      "onboard_time": 1699017633,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "2023vivo开发者大会",
@@ -12041,6 +12137,14 @@
       "onboard_time": 1698976354,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176778,
+      "num": 396495,
+      "word": "朱鹮数量让朱鹮发现第一人始料未及",
+      "onboard_time": 1699015658,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176735,
@@ -13252,7 +13356,7 @@
     },
     {
       "raw_hot": 156994,
-      "num": 156994,
+      "num": 1364056,
       "word": "第六届进博会亮点抢先看",
       "onboard_time": 1698993031,
       "rank": 42,
@@ -13857,6 +13961,14 @@
       "onboard_time": 1698821011,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147354,
+      "num": 396257,
+      "word": "摆摊大叔给外国女生盘头发",
+      "onboard_time": 1699016975,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147332,
@@ -15739,14 +15851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116146,
-      "num": 258794,
-      "word": "朱鹮数量让朱鹮发现第一人始料未及",
-      "onboard_time": 1699015658,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116105,
       "num": 116105,
       "word": "王嘉尔表情是抗拒的",
@@ -16728,6 +16832,14 @@
       "word": "货车侧翻后交警朋友圈帮卖14000斤花菜",
       "onboard_time": 1698941252,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78375,
+      "num": 177318,
+      "word": "佛山这群小学生武功有多高",
+      "onboard_time": 1699017457,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
