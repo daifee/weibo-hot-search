@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699003032516,
+  "endTime": 1699004066881,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1591349,
-      "num": 390693,
+      "num": 391108,
       "word": "流浪地球3定档",
       "onboard_time": 1698993452,
       "rank": 10,
@@ -393,6 +393,14 @@
       "onboard_time": 1698827373,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1486374,
+      "num": 1486374,
+      "word": "让领导知道你干了很多活的秘诀",
+      "onboard_time": 1698999635,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 1482421,
@@ -619,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1120825,
-      "num": 1120825,
-      "word": "让领导知道你干了很多活的秘诀",
-      "onboard_time": 1698999635,
-      "rank": 49,
-      "category": "其它"
-    },
-    {
       "raw_hot": 1116460,
       "num": 1116460,
       "word": "18岁弟弟被姐姐带去打九价",
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 1035111,
-      "num": 411431,
+      "num": 414932,
       "word": "迪丽热巴双马尾麻花辫",
       "onboard_time": 1698994053,
       "rank": 12,
@@ -889,6 +889,14 @@
       "onboard_time": 1698880223,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 889739,
+      "num": 889739,
+      "word": "又是谁家的少爷逐梦演艺圈了",
+      "onboard_time": 1699001014,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 878305,
@@ -1147,14 +1155,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 739735,
-      "num": 739735,
-      "word": "又是谁家的少爷逐梦演艺圈了",
-      "onboard_time": 1699001014,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 739020,
       "num": 302450,
       "word": "月薪两万一年的护肤花费58.3元",
@@ -1411,20 +1411,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 621228,
+      "num": 621228,
+      "word": "南京理工偷偷给贫困生充饭卡",
+      "onboard_time": 1698999934,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 618630,
       "num": 618630,
       "word": "这英 没有那姐哪来的我",
       "onboard_time": 1698850598,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 618246,
-      "num": 618246,
-      "word": "南京理工偷偷给贫困生充饭卡",
-      "onboard_time": 1698999934,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 617520,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1698996931,
       "rank": 4,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 611178,
+      "num": 611178,
+      "word": "女生称被蜜雪老板3岁儿子掀裙子",
+      "onboard_time": 1699001076,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609734,
@@ -1611,8 +1619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 577478,
-      "num": 577478,
+      "raw_hot": 579676,
+      "num": 579676,
       "word": "GEN对战BLG",
       "onboard_time": 1698999093,
       "rank": 22,
@@ -2195,6 +2203,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 439259,
+      "num": 439259,
+      "word": "周杰伦 过一阵子发个单曲",
+      "onboard_time": 1699002153,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 437067,
       "num": 398821,
       "word": "文班亚马太夸张了",
@@ -2563,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391269,
+      "num": 391269,
+      "word": "考研在即大四男生割皮救母",
+      "onboard_time": 1698999934,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390058,
       "num": 390058,
       "word": "WTT法兰克福冠军赛2023",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1698883054,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386376,
-      "num": 386376,
-      "word": "考研在即大四男生割皮救母",
-      "onboard_time": 1698999934,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384448,
@@ -3291,14 +3307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 301734,
-      "num": 301734,
-      "word": "周杰伦 过一阵子发个单曲",
-      "onboard_time": 1699002153,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 300563,
       "num": 291720,
       "word": "原来拿铁是牛奶不是咖啡",
@@ -3625,6 +3633,14 @@
       "onboard_time": 1698968007,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272070,
+      "num": 272070,
+      "word": "Bin兰博",
+      "onboard_time": 1699002753,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 271781,
@@ -4019,6 +4035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247372,
+      "num": 247372,
+      "word": "你会买大牌美妆的小样吗",
+      "onboard_time": 1699003714,
+      "rank": 22,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 247253,
       "num": 247253,
       "word": "檀健次演唱会真的来了",
@@ -4163,6 +4187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238727,
+      "num": 238727,
+      "word": "GEN 主动选红",
+      "onboard_time": 1699002513,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237998,
       "num": 237998,
       "word": "黄景瑜再演刑警",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 236688,
+      "num": 213804,
+      "word": "割绳蹦极",
+      "onboard_time": 1699002033,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 236291,
@@ -4371,6 +4411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227167,
+      "num": 227167,
+      "word": "你是几班的学生",
+      "onboard_time": 1699002277,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226943,
       "num": 226943,
       "word": "越华丽的衣服越配景甜",
@@ -4393,6 +4441,14 @@
       "onboard_time": 1698971494,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226669,
+      "num": 226669,
+      "word": "莲花回应味精致癌谣言",
+      "onboard_time": 1699001192,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226643,
@@ -4480,6 +4536,14 @@
       "word": "88岁老人离世后被发现已与保姆结婚",
       "onboard_time": 1698843995,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223142,
+      "num": 223142,
+      "word": "20岁女孩隆鼻不料整成朝天小猪鼻",
+      "onboard_time": 1699003233,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4603,20 +4667,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214293,
-      "num": 214293,
-      "word": "GEN 主动选红",
-      "onboard_time": 1699002513,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 213662,
       "num": 207914,
       "word": "火星情报局开播",
       "onboard_time": 1698976951,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213338,
+      "num": 213338,
+      "word": "小时候不让拿尺子靠着写字是对的",
+      "onboard_time": 1699003293,
+      "rank": 32,
+      "category": "其它"
     },
     {
       "raw_hot": 213078,
@@ -4713,6 +4777,14 @@
       "onboard_time": 1698890734,
       "rank": 30,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 210291,
+      "num": 214257,
+      "word": "秋冬皮肤痒痒怎么办",
+      "onboard_time": 1699003354,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 210102,
@@ -4905,14 +4977,6 @@
       "onboard_time": 1698895292,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202688,
-      "num": 202688,
-      "word": "Bin兰博",
-      "onboard_time": 1699002753,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 202441,
@@ -5331,6 +5395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187325,
+      "num": 187325,
+      "word": "有这样的老师我全勤",
+      "onboard_time": 1699002513,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187093,
       "num": 187093,
       "word": "美联储连续两次暂停加息",
@@ -5699,14 +5771,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172667,
-      "num": 172667,
-      "word": "割绳蹦极",
-      "onboard_time": 1699002033,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 172615,
       "num": 172615,
       "word": "外卖小哥不顾订单超时照顾迷路小孩",
@@ -5936,14 +6000,6 @@
       "word": "78岁奶奶坚持健身18年状态满分",
       "onboard_time": 1698787453,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164740,
-      "num": 203602,
-      "word": "莲花回应味精致癌谣言",
-      "onboard_time": 1699001192,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -6307,6 +6363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149923,
+      "num": 149923,
+      "word": "宋妍霏听到男粉叫老婆的反应",
+      "onboard_time": 1699003834,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149655,
       "num": 149655,
       "word": "想象中孙颖莎进军古典音乐界",
@@ -6547,14 +6611,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143529,
-      "num": 143529,
-      "word": "有这样的老师我全勤",
-      "onboard_time": 1699002513,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143194,
       "num": 143194,
       "word": "交警找回手机后婉拒大姐酬谢",
@@ -6641,14 +6697,6 @@
       "onboard_time": 1698900997,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 138296,
-      "num": 138296,
-      "word": "你是几班的学生",
-      "onboard_time": 1699002277,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 137916,
@@ -7675,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57787,
+      "num": 249956,
+      "word": "三星堆是懂文创的",
+      "onboard_time": 1699002693,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57271,
       "num": 99653,
       "word": "喝完喜酒他们都拎个消防应急包走了",
@@ -7772,7 +7828,7 @@
     },
     {
       "raw_hot": 42050,
-      "num": 1186612,
+      "num": 1281642,
       "word": "一图剧透2023进博会",
       "onboard_time": 1698999452,
       "rank": 2,
@@ -7817,14 +7873,6 @@
       "onboard_time": 1698826769,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 35237,
-      "num": 152300,
-      "word": "三星堆是懂文创的",
-      "onboard_time": 1699002693,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34400,
