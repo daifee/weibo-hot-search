@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699038840690,
+  "endTime": 1699040061932,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -443,12 +443,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 59082,
-      "num": 56411,
+      "raw_hot": 60786,
+      "num": 60786,
       "word": "当红流量今年剧中的原声台词",
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60096,
+      "num": 60096,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 52037,
@@ -459,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50492,
-      "num": 50492,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 36810,
+      "num": 28735,
+      "word": "ELLE红毯主持人没词了",
+      "onboard_time": 1699039096,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 36606,

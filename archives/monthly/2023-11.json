@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699038840690,
+  "endTime": 1699040061932,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -8835,20 +8835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60786,
+      "num": 60786,
+      "word": "当红流量今年剧中的原声台词",
+      "onboard_time": 1699036277,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60096,
+      "num": 60096,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 59904,
       "num": 59904,
       "word": "孕妇大出血民警晚高峰13分钟送医",
       "onboard_time": 1698880465,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59082,
-      "num": 56411,
-      "word": "当红流量今年剧中的原声台词",
-      "onboard_time": 1699036277,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 58778,
@@ -8929,14 +8937,6 @@
       "onboard_time": 1698767373,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50492,
-      "num": 50492,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 48919,
@@ -9041,6 +9041,14 @@
       "onboard_time": 1698826769,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 36810,
+      "num": 28735,
+      "word": "ELLE红毯主持人没词了",
+      "onboard_time": 1699039096,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34400,
