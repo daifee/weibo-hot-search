@@ -1,0 +1,410 @@
+{
+  "runTime": 1699011260997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2615096,
+        "num": 2615096,
+        "word": "红毯没有王法 只有迪丽热巴的想法",
+        "onboard_time": 1699010675,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 400898,
+        "num": 1878712,
+        "word": "南京理工偷偷给贫困生充饭卡",
+        "onboard_time": 1698999934,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 22340,
+        "num": 1380556,
+        "word": "一图剧透2023进博会",
+        "onboard_time": 1698999452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367889,
+        "num": 1367889,
+        "word": "刘诗诗 神女逆光而来",
+        "onboard_time": 1699009956,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313641,
+        "num": 1336106,
+        "word": "1500岁万椹之母被雷劈数次仍结千斤果",
+        "onboard_time": 1699006955,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1330876,
+        "num": 1330876,
+        "word": "ELLE红毯",
+        "onboard_time": 1698998077,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 275728,
+        "num": 1329329,
+        "word": "大四男生割皮救母",
+        "onboard_time": 1698999934,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2478414,
+        "num": 1328787,
+        "word": "迪丽热巴花团锦簇复古造型",
+        "onboard_time": 1699009233,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1327827,
+        "num": 1327827,
+        "word": "没认出来这是李思思",
+        "onboard_time": 1699005094,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 793384,
+        "num": 793384,
+        "word": "教育部要求中小学校确保学生课间正常活动",
+        "onboard_time": 1699007079,
+        "rank": 9,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 2506236,
+        "num": 654527,
+        "word": "娜扎请和我结婚",
+        "onboard_time": 1699006713,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 940222,
+        "num": 575822,
+        "word": "又是谁家的少爷逐梦演艺圈了",
+        "onboard_time": 1699001014,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1215332,
+        "num": 570303,
+        "word": "杨紫 两套造型",
+        "onboard_time": 1699006292,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413221,
+        "num": 413221,
+        "word": "GEN对战BLG",
+        "onboard_time": 1698999093,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128894,
+        "num": 380627,
+        "word": "天猫双11惊喜夜定档官宣",
+        "onboard_time": 1699009233,
+        "rank": 14,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 782121,
+        "num": 377063,
+        "word": "加沙男子痛失21名亲人遭英主持人无脑追问",
+        "onboard_time": 1699006352,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 371001,
+        "num": 371001,
+        "word": "让领导知道你干了很多活的秘诀",
+        "onboard_time": 1698999635,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1202085,
+        "num": 358027,
+        "word": "杨紫 蓝色妖姬",
+        "onboard_time": 1699007556,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342393,
+        "num": 342393,
+        "word": "ELLE直播",
+        "onboard_time": 1698996931,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 326647,
+        "num": 326647,
+        "word": "六问河南23岁女教师留遗书去世",
+        "onboard_time": 1699009475,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619532,
+        "num": 296051,
+        "word": "魏大勋好矜贵",
+        "onboard_time": 1699008459,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 556256,
+        "num": 275468,
+        "word": "宋茜好像复仇文大女主",
+        "onboard_time": 1699010497,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218640,
+        "num": 218640,
+        "word": "奶奶为刚出生孙子送10万见面礼",
+        "onboard_time": 1699006713,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200404,
+        "num": 200404,
+        "word": "水瓶座结束一段关系的原因",
+        "onboard_time": 1699008696,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183066,
+        "num": 200401,
+        "word": "战痘十几年终于上岸",
+        "onboard_time": 1699007556,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 429097,
+        "num": 200391,
+        "word": "辛芷蕾红毯被裙子绊住三四次",
+        "onboard_time": 1699010076,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 388097,
+        "num": 200385,
+        "word": "卢昱晓粉色显黑",
+        "onboard_time": 1699010015,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 383492,
+        "num": 200381,
+        "word": "YG只发了朴彩英台历",
+        "onboard_time": 1699006895,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177061,
+        "num": 200374,
+        "word": "GEN难道只研究了T1",
+        "onboard_time": 1699004433,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167956,
+        "num": 200366,
+        "word": "计划有变 准备夺冠",
+        "onboard_time": 1699004495,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 344195,
+        "num": 200360,
+        "word": "黄景瑜终于不是素颜了",
+        "onboard_time": 1699008759,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290557,
+        "num": 200349,
+        "word": "赵昭仪喜欢上热巴的酸奶疙瘩了",
+        "onboard_time": 1699009773,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240761,
+        "num": 200341,
+        "word": "孙怡张晚意吻戏",
+        "onboard_time": 1699007374,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161041,
+        "num": 200336,
+        "word": "父亲目睹26岁儿子连救3人牺牲",
+        "onboard_time": 1698995913,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139419,
+        "num": 200327,
+        "word": "11岁女生书包挂件写可以找我借卫生巾",
+        "onboard_time": 1699008157,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217200,
+        "num": 200324,
+        "word": "流浪地球3有赵今麦",
+        "onboard_time": 1699009773,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209520,
+        "num": 200313,
+        "word": "命韵峋环居然发糖了",
+        "onboard_time": 1698998255,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136800,
+        "num": 200309,
+        "word": "小时候不让拿尺子靠着写字是对的",
+        "onboard_time": 1699003293,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 130615,
+        "num": 200304,
+        "word": "义乌大爷又出手了",
+        "onboard_time": 1699010917,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129043,
+        "num": 200294,
+        "word": "女生称被蜜雪老板3岁儿子掀裙子",
+        "onboard_time": 1699001076,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207426,
+        "num": 200287,
+        "word": "娜扎挂脖珍珠裙",
+        "onboard_time": 1698999211,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161623,
+        "num": 200276,
+        "word": "宋茜演绎Zuhair Murad高定",
+        "onboard_time": 1699010856,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157251,
+        "num": 200270,
+        "word": "流浪地球3定档",
+        "onboard_time": 1698993452,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144794,
+        "num": 200260,
+        "word": "喻言 红发美人鱼",
+        "onboard_time": 1699004913,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187439,
+        "num": 200257,
+        "word": "小鬼走完红毯扭着恰恰走",
+        "onboard_time": 1699007556,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142771,
+        "num": 200249,
+        "word": "杨幂刘诗诗拍出情头的感觉",
+        "onboard_time": 1699001314,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119408,
+        "num": 200240,
+        "word": "BLG手握三个赛点",
+        "onboard_time": 1699007556,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117806,
+        "num": 200232,
+        "word": "第五人格",
+        "onboard_time": 1699008996,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90695,
+        "num": 200229,
+        "word": "丁真故乡的格聂之眼美到封神",
+        "onboard_time": 1699009655,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73335,
+        "num": 200222,
+        "word": "曝多名篮网球员与啦啦队成员发生关系",
+        "onboard_time": 1698982774,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}
