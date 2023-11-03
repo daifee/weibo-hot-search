@@ -1,0 +1,408 @@
+{
+  "runTime": 1698992537083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 74341,
+        "num": 332263,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 39515,
+        "num": 330963,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 35330,
+        "num": 328751,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 617520,
+        "num": 327581,
+        "word": "重庆女生上下班坐14次扶梯获公司补贴",
+        "onboard_time": 1698984878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558716,
+        "num": 324061,
+        "word": "巡视组回应天津助学金事件",
+        "onboard_time": 1698988956,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407393,
+        "num": 323075,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321615,
+        "num": 321615,
+        "word": "文班亚马太夸张了",
+        "onboard_time": 1698987282,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304585,
+        "num": 304585,
+        "word": "男子100万投资电影亏了96万",
+        "onboard_time": 1698983977,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206586,
+        "num": 304021,
+        "word": "含有肽字的护肤品 智商税",
+        "onboard_time": 1698979954,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 203254,
+        "num": 303546,
+        "word": "我本是高山张桂梅带海清家访",
+        "onboard_time": 1698992074,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1475254,
+        "num": 303138,
+        "word": "向太辟谣李连杰去世",
+        "onboard_time": 1698988057,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824186,
+        "num": 302486,
+        "word": "他不爱我",
+        "onboard_time": 1698987099,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802885,
+        "num": 301840,
+        "word": "曝多名篮网球员与啦啦队成员发生关系",
+        "onboard_time": 1698982774,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697867,
+        "num": 301050,
+        "word": "赵丽颖黑发公主切",
+        "onboard_time": 1698986622,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 585676,
+        "num": 300253,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574274,
+        "num": 299689,
+        "word": "李玟弥留之际老公才出现",
+        "onboard_time": 1698986319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544374,
+        "num": 299233,
+        "word": "时宴的腰力",
+        "onboard_time": 1698990454,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495062,
+        "num": 298514,
+        "word": "赵露思痛失本名",
+        "onboard_time": 1698984515,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487796,
+        "num": 297760,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396453,
+        "num": 297007,
+        "word": "陈飞宇祝李峋一周年快乐",
+        "onboard_time": 1698990156,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358643,
+        "num": 296449,
+        "word": "七英俊 华九灯",
+        "onboard_time": 1698989613,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 356784,
+        "num": 295799,
+        "word": "流浪地球3前进三发布会",
+        "onboard_time": 1698990754,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317792,
+        "num": 294699,
+        "word": "比利时王妃回广东娘家省亲",
+        "onboard_time": 1698984036,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316399,
+        "num": 294337,
+        "word": "10岁男童遭阿拉斯加犬咬伤",
+        "onboard_time": 1698990815,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315795,
+        "num": 293415,
+        "word": "ELLE风尚大典开始官宣了",
+        "onboard_time": 1698978991,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293232,
+        "num": 293232,
+        "word": "凡人修仙传官宣定档",
+        "onboard_time": 1698991054,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 279857,
+        "num": 279857,
+        "word": "以爱为营OST阵容官宣",
+        "onboard_time": 1698991353,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262977,
+        "num": 262977,
+        "word": "中国版花束般的恋爱正式启动",
+        "onboard_time": 1698991655,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258540,
+        "num": 258540,
+        "word": "二姐说李玟离世前夜还和朋友欢聚唱歌",
+        "onboard_time": 1698986862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167168,
+        "num": 258236,
+        "word": "助学金事件当事人称已搬离宿舍",
+        "onboard_time": 1698970114,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258206,
+        "num": 258206,
+        "word": "金莎与男友首个合体综艺",
+        "onboard_time": 1698986921,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257724,
+        "num": 257724,
+        "word": "游客在鳌太线发现1具男尸",
+        "onboard_time": 1698989734,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255973,
+        "num": 255973,
+        "word": "以爱为营 滤镜",
+        "onboard_time": 1698981276,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253881,
+        "num": 253881,
+        "word": "五月天 属于江浙沪的厮杀",
+        "onboard_time": 1698981093,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250525,
+        "num": 250525,
+        "word": "助学金",
+        "onboard_time": 1698987459,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206422,
+        "num": 206422,
+        "word": "男子回应退婚用16.8万彩礼辞职旅行",
+        "onboard_time": 1698976354,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202278,
+        "num": 202278,
+        "word": "我是民政局 我自己过来了",
+        "onboard_time": 1698975269,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199466,
+        "num": 199466,
+        "word": "五块九粉底液成分 作弊痕迹",
+        "onboard_time": 1698992372,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195998,
+        "num": 195998,
+        "word": "郑润泽 别收",
+        "onboard_time": 1698991593,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68029,
+        "num": 193607,
+        "word": "当代职场人的顶配工位",
+        "onboard_time": 1698981453,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193390,
+        "num": 193390,
+        "word": "我亲爱的白月光 替身文学",
+        "onboard_time": 1698992252,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190880,
+        "num": 190880,
+        "word": "绝区零预告",
+        "onboard_time": 1698991713,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183210,
+        "num": 183210,
+        "word": "阿里影业金鸡雅集片单",
+        "onboard_time": 1698992014,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181637,
+        "num": 181637,
+        "word": "盘尼西林 盲猜一下三小只",
+        "onboard_time": 1698989314,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178577,
+        "num": 178577,
+        "word": "老人深夜将女婴遗弃在小卖部门口",
+        "onboard_time": 1698983434,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174752,
+        "num": 174752,
+        "word": "警方通报男子持榔头当街追砸女子",
+        "onboard_time": 1698991894,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173902,
+        "num": 173902,
+        "word": "7岁女童体育课猝死9分钟后才做CPR",
+        "onboard_time": 1698974912,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151397,
+        "num": 151397,
+        "word": "黄景瑜再演刑警",
+        "onboard_time": 1698987282,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 143907,
+        "word": "第五人格 你号没了涂鸦",
+        "onboard_time": 1698986622,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102838,
+        "num": 143677,
+        "word": "工藤新一和白马探的初次见面",
+        "onboard_time": 1698984156,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": null
+  }
+}

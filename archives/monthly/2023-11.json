@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698989640681,
+  "endTime": 1698992537083,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1291,6 +1291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 617520,
+      "num": 564309,
+      "word": "重庆女生上下班坐14次扶梯获公司补贴",
+      "onboard_time": 1698984878,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615435,
       "num": 276815,
       "word": "贾乃亮谅解患病造谣者",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1698829896,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599980,
-      "num": 564309,
-      "word": "重庆女生上下班坐14次扶梯获公司补贴",
-      "onboard_time": 1698984878,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596081,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558716,
+      "num": 347119,
+      "word": "巡视组回应天津助学金事件",
+      "onboard_time": 1698988956,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557117,
       "num": 557117,
       "word": "小米14超iPhone15Pro首销量",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1698831213,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544374,
+      "num": 299233,
+      "word": "时宴的腰力",
+      "onboard_time": 1698990454,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 542156,
@@ -2307,6 +2323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 396453,
+      "num": 297007,
+      "word": "陈飞宇祝李峋一周年快乐",
+      "onboard_time": 1698990156,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396205,
       "num": 387864,
       "word": "NRG对战WBG",
@@ -2545,6 +2569,22 @@
       "onboard_time": 1698903035,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358643,
+      "num": 296449,
+      "word": "七英俊 华九灯",
+      "onboard_time": 1698989613,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 356784,
+      "num": 295799,
+      "word": "流浪地球3前进三发布会",
+      "onboard_time": 1698990754,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 356541,
@@ -2875,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316399,
+      "num": 294337,
+      "word": "10岁男童遭阿拉斯加犬咬伤",
+      "onboard_time": 1698990815,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315947,
       "num": 315947,
       "word": "花西子双11为什么卖不动了",
@@ -3067,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293232,
+      "num": 293232,
+      "word": "凡人修仙传官宣定档",
+      "onboard_time": 1698991054,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 292005,
       "num": 292005,
       "word": "了解黄凯 理解黄凯 成为黄凯",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1698853476,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279857,
+      "num": 279857,
+      "word": "以爱为营OST阵容官宣",
+      "onboard_time": 1698991353,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 279198,
@@ -3451,6 +3515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 262977,
+      "num": 262977,
+      "word": "中国版花束般的恋爱正式启动",
+      "onboard_time": 1698991655,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262179,
       "num": 262179,
       "word": "工藤新一和白马探的初次见面",
@@ -3505,6 +3577,14 @@
       "onboard_time": 1698822096,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257724,
+      "num": 257724,
+      "word": "游客在鳌太线发现1具男尸",
+      "onboard_time": 1698989734,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257100,
@@ -4459,6 +4539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203254,
+      "num": 303546,
+      "word": "我本是高山张桂梅带海清家访",
+      "onboard_time": 1698992074,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202709,
       "num": 202709,
       "word": "治愈系恋人开播",
@@ -4523,12 +4611,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198340,
-      "num": 347119,
-      "word": "巡视组回应天津助学金事件",
-      "onboard_time": 1698988956,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 199466,
+      "num": 199466,
+      "word": "五块九粉底液成分 作弊痕迹",
+      "onboard_time": 1698992372,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 198319,
@@ -4651,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195998,
+      "num": 195998,
+      "word": "郑润泽 别收",
+      "onboard_time": 1698991593,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195493,
       "num": 195493,
       "word": "秦海璐清花少旅行库存",
@@ -4705,6 +4801,14 @@
       "onboard_time": 1698980254,
       "rank": 35,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 193390,
+      "num": 193390,
+      "word": "我亲爱的白月光 替身文学",
+      "onboard_time": 1698992252,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 193048,
@@ -4785,6 +4889,14 @@
       "onboard_time": 1698973354,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190880,
+      "num": 190880,
+      "word": "绝区零预告",
+      "onboard_time": 1698991713,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 190650,
@@ -5003,6 +5115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183210,
+      "num": 183210,
+      "word": "阿里影业金鸡雅集片单",
+      "onboard_time": 1698992014,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "2023vivo开发者大会",
@@ -5176,6 +5296,14 @@
       "word": "孩子手指夹断警车开道送医顺利手术",
       "onboard_time": 1698974432,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174752,
+      "num": 174752,
+      "word": "警方通报男子持榔头当街追砸女子",
+      "onboard_time": 1698991894,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5977,14 +6105,6 @@
       "onboard_time": 1698759755,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143748,
-      "num": 143748,
-      "word": "七英俊 华九灯",
-      "onboard_time": 1698989613,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 143639,
