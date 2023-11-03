@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699035749971,
+  "endTime": 1699036555914,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -8947,6 +8947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45499,
+      "num": 45499,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44059,
       "num": 235201,
       "word": "还是中国AI更懂中国人",
@@ -8995,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41172,
+      "num": 41172,
+      "word": "当红流量今年剧中的原声台词",
+      "onboard_time": 1699036277,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40377,
       "num": 40377,
       "word": "世界上最长寿的狗Bobi去世",
@@ -9025,14 +9041,6 @@
       "onboard_time": 1698826769,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 37198,
-      "num": 37198,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 34400,
