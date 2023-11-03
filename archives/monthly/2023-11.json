@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698988567654,
+  "endTime": 1698989640681,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -233,6 +233,14 @@
       "onboard_time": 1698806670,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1949574,
+      "num": 407509,
+      "word": "向太辟谣李连杰去世",
+      "onboard_time": 1698988057,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1948331,
@@ -627,6 +635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1067560,
+      "num": 405970,
+      "word": "他不爱我",
+      "onboard_time": 1698987099,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1061192,
       "num": 345420,
       "word": "秦岚 我不太有综艺感",
@@ -745,14 +761,6 @@
       "onboard_time": 1698896192,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 963696,
-      "num": 407509,
-      "word": "向太辟谣李连杰去世",
-      "onboard_time": 1698988057,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 962074,
@@ -913,14 +921,6 @@
       "onboard_time": 1698933578,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803074,
-      "num": 405970,
-      "word": "他不爱我",
-      "onboard_time": 1698987099,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 799100,
@@ -1091,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 722447,
+      "num": 403519,
+      "word": "赵露思痛失本名",
+      "onboard_time": 1698984515,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 721891,
       "num": 453652,
       "word": "相夷太剑",
@@ -1131,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 708718,
-      "num": 403519,
-      "word": "赵露思痛失本名",
-      "onboard_time": 1698984515,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 706985,
+      "num": 402900,
+      "word": "李玟弥留之际老公才出现",
+      "onboard_time": 1698986319,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 703635,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1698808771,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687511,
-      "num": 402900,
-      "word": "李玟弥留之际老公才出现",
-      "onboard_time": 1698986319,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 675782,
@@ -2003,6 +2003,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 437067,
+      "num": 398821,
+      "word": "文班亚马太夸张了",
+      "onboard_time": 1698987282,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435682,
       "num": 435682,
       "word": "秦岚痛失真名",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1698804392,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414128,
-      "num": 398821,
-      "word": "文班亚马太夸张了",
-      "onboard_time": 1698987282,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 413822,
@@ -2337,6 +2337,14 @@
       "onboard_time": 1698800855,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 391970,
+      "num": 331171,
+      "word": "姐姐证实李玟曾两次轻生",
+      "onboard_time": 1698986622,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 390058,
@@ -2540,7 +2548,7 @@
     },
     {
       "raw_hot": 356541,
-      "num": 258575,
+      "num": 321040,
       "word": "金莎与男友首个合体综艺",
       "onboard_time": 1698986921,
       "rank": 32,
@@ -2824,6 +2832,14 @@
       "word": "网传外卖媛实为虚假摆拍",
       "onboard_time": 1698834994,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320832,
+      "num": 320832,
+      "word": "助学金",
+      "onboard_time": 1698987459,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3467,14 +3483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259027,
-      "num": 259027,
-      "word": "助学金",
-      "onboard_time": 1698987459,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258931,
       "num": 258931,
       "word": "女兽医全粉妆造给牛羊做剖腹产",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1698815377,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227201,
+      "num": 227201,
+      "word": "盘尼西林 盲猜一下三小只",
+      "onboard_time": 1698989314,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 226943,
@@ -4505,6 +4521,14 @@
       "onboard_time": 1698971554,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198340,
+      "num": 347119,
+      "word": "巡视组回应天津助学金事件",
+      "onboard_time": 1698988956,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198319,
@@ -5635,6 +5659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154644,
+      "num": 154644,
+      "word": "大妈独闯京城称赴约男明星要民警带路",
+      "onboard_time": 1698989314,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154134,
       "num": 147454,
       "word": "徐穗珍solo概念照",
@@ -5945,6 +5977,14 @@
       "onboard_time": 1698759755,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143748,
+      "num": 143748,
+      "word": "七英俊 华九灯",
+      "onboard_time": 1698989613,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 143639,
@@ -6995,6 +7035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 60961,
+      "num": 309795,
+      "word": "披荆斩棘大有可V",
+      "onboard_time": 1698986738,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59904,
       "num": 59904,
       "word": "孕妇大出血民警晚高峰13分钟送医",
@@ -7019,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55676,
+      "num": 375873,
+      "word": "小屏旗舰哪款值得买",
+      "onboard_time": 1698987879,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54275,
       "num": 54275,
       "word": "消防员下地窖托起被困老人的希望",
@@ -7027,28 +7083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53745,
-      "num": 375873,
-      "word": "小屏旗舰哪款值得买",
-      "onboard_time": 1698987879,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 52356,
       "num": 1431393,
       "word": "老朋友带着新展品参加进博会",
       "onboard_time": 1698827250,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 51628,
-      "num": 259388,
-      "word": "披荆斩棘大有可V",
-      "onboard_time": 1698986738,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 51557,
