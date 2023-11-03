@@ -1,0 +1,410 @@
+{
+  "runTime": 1699022124261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989715,
+        "num": 1989715,
+        "word": "主持人还没念完李现就走完了",
+        "onboard_time": 1699018117,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1682885,
+        "num": 1682885,
+        "word": "周铁农同志逝世",
+        "onboard_time": 1699019494,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7963,
+        "num": 1330459,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291577,
+        "num": 1291577,
+        "word": "李思思开口 分不清谁在主持",
+        "onboard_time": 1699011398,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1079773,
+        "num": 1079773,
+        "word": "杨紫 两套造型",
+        "onboard_time": 1699006292,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 873852,
+        "num": 873852,
+        "word": "ELLE内场",
+        "onboard_time": 1699014634,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 844444,
+        "num": 844444,
+        "word": "迪丽热巴花团锦簇复古造型",
+        "onboard_time": 1699009233,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 784366,
+        "num": 784366,
+        "word": "当地通报合肥一小学生校内死亡",
+        "onboard_time": 1699018834,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 572820,
+        "num": 572820,
+        "word": "美团宣布除夕放假",
+        "onboard_time": 1699020759,
+        "rank": 8,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 570251,
+        "num": 570251,
+        "word": "BLG战胜GEN",
+        "onboard_time": 1699015058,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1253559,
+        "num": 568488,
+        "word": "娜扎请和我结婚",
+        "onboard_time": 1699006713,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 724161,
+        "num": 544769,
+        "word": "以爱为营 广告好多",
+        "onboard_time": 1699019016,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1447080,
+        "num": 514327,
+        "word": "红毯没有王法 只有迪丽热巴的想法",
+        "onboard_time": 1699010675,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 589888,
+        "num": 498019,
+        "word": "EDG 出列",
+        "onboard_time": 1699018473,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 476601,
+        "num": 476601,
+        "word": "Chovy 遗憾",
+        "onboard_time": 1699018536,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 651750,
+        "num": 476539,
+        "word": "张小斐 黑夜里闪耀的钻石",
+        "onboard_time": 1699014155,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 546886,
+        "num": 470080,
+        "word": "以爱为营开播",
+        "onboard_time": 1699014881,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379275,
+        "num": 465496,
+        "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+        "onboard_time": 1699021418,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81047,
+        "num": 460306,
+        "word": "起飞吧原神",
+        "onboard_time": 1699020396,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341909,
+        "num": 453263,
+        "word": "教育部要求中小学校确保学生课间正常活动",
+        "onboard_time": 1699007079,
+        "rank": 19,
+        "category": "国内要闻,教育"
+      },
+      {
+        "raw_hot": 451721,
+        "num": 451721,
+        "word": "想看韩网热评",
+        "onboard_time": 1699020877,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437785,
+        "num": 437785,
+        "word": "刘诗诗 神女逆光而来",
+        "onboard_time": 1699009956,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376099,
+        "num": 376099,
+        "word": "刘昊然把你的眼镜借给魏大勋吧",
+        "onboard_time": 1699021418,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 333427,
+        "num": 333427,
+        "word": "王俊凯长文告别野孩子",
+        "onboard_time": 1699020160,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327046,
+        "num": 327046,
+        "word": "Tabe哭了",
+        "onboard_time": 1699016436,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322435,
+        "num": 322435,
+        "word": "早田希娜晋级四强",
+        "onboard_time": 1699020396,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302385,
+        "num": 302385,
+        "word": "压力给到JDG",
+        "onboard_time": 1699018536,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267016,
+        "num": 267016,
+        "word": "林俊杰要和阿信合作了吗",
+        "onboard_time": 1699017876,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250428,
+        "num": 250428,
+        "word": "GEN难道只研究了T1",
+        "onboard_time": 1699004433,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240013,
+        "num": 246771,
+        "word": "六问河南23岁女教师留遗书去世",
+        "onboard_time": 1699009475,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243617,
+        "num": 243617,
+        "word": "赵丽颖美人肩",
+        "onboard_time": 1699013856,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242692,
+        "num": 242692,
+        "word": "王俊凯问学校门口的大哥还认不认得他",
+        "onboard_time": 1699021600,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236347,
+        "num": 236347,
+        "word": "又是谁家的少爷逐梦演艺圈了",
+        "onboard_time": 1699001014,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229317,
+        "num": 229317,
+        "word": "ELLE风尚大典",
+        "onboard_time": 1699013856,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221213,
+        "num": 221213,
+        "word": "舒舒服服起床的睡眠时间",
+        "onboard_time": 1699021118,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220410,
+        "num": 220410,
+        "word": "Bin兰博",
+        "onboard_time": 1699002753,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214072,
+        "num": 214072,
+        "word": "ELLE红毯",
+        "onboard_time": 1698998077,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208339,
+        "num": 208339,
+        "word": "BLG 对不起刚才是我大声了",
+        "onboard_time": 1699016555,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207668,
+        "num": 207668,
+        "word": "黄景瑜终于不是素颜了",
+        "onboard_time": 1699008759,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203046,
+        "num": 203046,
+        "word": "助学金争议当事人要求处罚相关人员",
+        "onboard_time": 1699020939,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202316,
+        "num": 202316,
+        "word": "李宇春好高",
+        "onboard_time": 1699014881,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201745,
+        "num": 201745,
+        "word": "以爱为营能不能让我演两集",
+        "onboard_time": 1699014881,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196617,
+        "num": 196617,
+        "word": "盗墓笔记宇宙最强时间线梳理",
+        "onboard_time": 1699020939,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195617,
+        "num": 195617,
+        "word": "BLG晋级S13四强",
+        "onboard_time": 1699015180,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188291,
+        "num": 188291,
+        "word": "关晓彤 es高定",
+        "onboard_time": 1699008338,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184747,
+        "num": 184747,
+        "word": "郭虎 歹毒的转场幽默的镜头",
+        "onboard_time": 1699019198,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168066,
+        "num": 168066,
+        "word": "17岁脑瘫少年卖爆米花母亲婉拒捐赠",
+        "onboard_time": 1699016436,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165416,
+        "num": 165416,
+        "word": "BLG牛啊",
+        "onboard_time": 1699016257,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162490,
+        "num": 162490,
+        "word": "白鹿白围巾高马尾造型",
+        "onboard_time": 1699022080,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158784,
+        "num": 161678,
+        "word": "南京理工偷偷给贫困生充饭卡",
+        "onboard_time": 1698999934,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见希腊总理#"
+    }
+  }
+}
