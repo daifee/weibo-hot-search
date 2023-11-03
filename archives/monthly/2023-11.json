@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698996851295,
+  "endTime": 1698999689807,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -235,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1955760,
+      "num": 1955760,
+      "word": "ELLE红毯",
+      "onboard_time": 1698998077,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1949574,
       "num": 407509,
       "word": "向太辟谣李连杰去世",
@@ -281,6 +289,14 @@
       "onboard_time": 1698907171,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1753832,
+      "num": 1753832,
+      "word": "父亲目睹26岁儿子连救3人牺牲",
+      "onboard_time": 1698995913,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1699871,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 1591349,
-      "num": 245395,
+      "num": 377650,
       "word": "流浪地球3定档",
       "onboard_time": 1698993452,
       "rank": 10,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1056916,
+      "num": 384254,
+      "word": "杨紫 还没出图",
+      "onboard_time": 1698998913,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1045519,
       "num": 1045519,
       "word": "WBG晋级S13四强",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 1035111,
-      "num": 245316,
+      "num": 371450,
       "word": "迪丽热巴双马尾麻花辫",
       "onboard_time": 1698994053,
       "rank": 12,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 893784,
-      "num": 245332,
+      "num": 368415,
       "word": "我三十几我也不是大人",
       "onboard_time": 1698994172,
       "rank": 14,
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 765653,
-      "num": 245280,
+      "num": 366375,
       "word": "张译这纹身是忍个鸟啊",
       "onboard_time": 1698993811,
       "rank": 15,
@@ -1203,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701050,
+      "num": 701050,
+      "word": "杭州一公司年薪10万招聘逛街专家",
+      "onboard_time": 1698998255,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700546,
       "num": 324384,
       "word": "长痘与身体器官的联系",
@@ -1256,14 +1288,6 @@
       "word": "专家称彩礼理念不改婚姻制度要崩溃",
       "onboard_time": 1698926373,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648371,
-      "num": 648371,
-      "word": "父亲目睹26岁儿子连救3人牺牲",
-      "onboard_time": 1698995913,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1409,6 +1433,14 @@
       "onboard_time": 1698898417,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 611590,
+      "num": 611590,
+      "word": "ELLE直播",
+      "onboard_time": 1698996931,
+      "rank": 4,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 609734,
@@ -1643,12 +1675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542589,
+      "num": 542589,
+      "word": "吉林一民警早市卖菜被人偷走手枪",
+      "onboard_time": 1698995733,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542156,
       "num": 289663,
       "word": "因男朋友妈妈一句话分手了",
       "onboard_time": 1698925536,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539835,
+      "num": 539835,
+      "word": "王栎鑫亲了陈楚生",
+      "onboard_time": 1698997475,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 536423,
@@ -1851,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486060,
+      "num": 486060,
+      "word": "命韵峋环居然发糖了",
+      "onboard_time": 1698998255,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486058,
       "num": 470465,
       "word": "霉霉 没人比我更了解戏精男",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1698922235,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463046,
+      "num": 463046,
+      "word": "战地女记者陈慧慧回应报道巴以冲突",
+      "onboard_time": 1698994891,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 462851,
@@ -2129,6 +2193,14 @@
       "onboard_time": 1698885764,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424918,
+      "num": 354966,
+      "word": "林俊杰回复林志颖",
+      "onboard_time": 1698998973,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 423989,
@@ -2747,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350008,
+      "num": 350008,
+      "word": "小朋友不想上幼儿园老师带全班来接",
+      "onboard_time": 1698996279,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349798,
       "num": 282484,
       "word": "杜海涛沈梦辰有了洗碗机还怎么抱抱",
@@ -2907,12 +2987,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 324257,
-      "num": 245077,
-      "word": "战地女记者陈慧慧回应报道巴以冲突",
-      "onboard_time": 1698994891,
-      "rank": 24,
-      "category": "国外要闻"
+      "raw_hot": 326373,
+      "num": 326373,
+      "word": "爱奇艺11月片单",
+      "onboard_time": 1698998434,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 323982,
@@ -3571,20 +3651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268873,
-      "num": 245027,
-      "word": "吉林一民警早市卖菜被人偷走手枪",
-      "onboard_time": 1698995733,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268440,
       "num": 187229,
       "word": "陈采尼 乐坛传奇穿我做的衣服重返乐坛",
       "onboard_time": 1698793463,
       "rank": 14,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 267996,
+      "num": 200453,
+      "word": "流浪地球3演员阵容",
+      "onboard_time": 1698997294,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 266885,
@@ -3601,6 +3681,14 @@
       "onboard_time": 1698801875,
       "rank": 24,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 265662,
+      "num": 237995,
+      "word": "晋江脸海棠骨起点性子po张力",
+      "onboard_time": 1698996093,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265422,
@@ -4003,14 +4091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237995,
-      "num": 237995,
-      "word": "晋江脸海棠骨起点性子po张力",
-      "onboard_time": 1698996093,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 237627,
       "num": 237627,
       "word": "海王2确认引进",
@@ -4104,14 +4184,6 @@
       "word": "广西一客机遇险驾驶舱对话满满安全感",
       "onboard_time": 1698803733,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231665,
-      "num": 231665,
-      "word": "小朋友不想上幼儿园老师带全班来接",
-      "onboard_time": 1698996279,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4339,6 +4411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222362,
+      "num": 222362,
+      "word": "GEN对战BLG",
+      "onboard_time": 1698999093,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222291,
       "num": 371940,
       "word": "残疾妻子坚持每天给摆摊丈夫送饭",
@@ -4395,6 +4475,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 218510,
+      "num": 191617,
+      "word": "娜扎挂脖珍珠裙",
+      "onboard_time": 1698999211,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218063,
       "num": 205997,
       "word": "柯佳嬿的收视率我来守护",
@@ -4425,6 +4513,14 @@
       "onboard_time": 1698851318,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215089,
+      "num": 215089,
+      "word": "你支持家人见义勇为吗",
+      "onboard_time": 1698998973,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 214970,
@@ -4545,6 +4641,14 @@
       "onboard_time": 1698890734,
       "rank": 30,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 210102,
+      "num": 189115,
+      "word": "李相夷的武侠世界",
+      "onboard_time": 1698999033,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 210056,
@@ -4776,6 +4880,14 @@
       "word": "美颜滤镜下的张钧甯",
       "onboard_time": 1698971554,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199324,
+      "num": 181461,
+      "word": "郭帆二维码",
+      "onboard_time": 1698999093,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -5281,6 +5393,14 @@
       "onboard_time": 1698904894,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 181325,
+      "num": 181325,
+      "word": "王嘉尔巡演双城官宣",
+      "onboard_time": 1698997115,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 181239,
@@ -5817,6 +5937,14 @@
       "onboard_time": 1698756871,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159428,
+      "num": 128217,
+      "word": "赵露思演讲煽情不了一点",
+      "onboard_time": 1698998434,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 159035,
@@ -6587,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131365,
+      "num": 245407,
+      "word": "和叶顺嘴抢竹子给花花留3片叶子",
+      "onboard_time": 1698993932,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131246,
       "num": 131246,
       "word": "昆明取消商品房限售限购",
@@ -6763,6 +6899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 120698,
+      "num": 126236,
+      "word": "改变这5种姿势避免腰疼",
+      "onboard_time": 1698997294,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120581,
       "num": 120581,
       "word": "陶昕然新片入围金鸡",
@@ -6889,6 +7033,14 @@
       "onboard_time": 1698760536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115978,
+      "num": 126143,
+      "word": "齐司礼 是你吗",
+      "onboard_time": 1698998136,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 115665,
@@ -7033,6 +7185,14 @@
       "onboard_time": 1698925474,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102543,
+      "num": 126077,
+      "word": "让领导知道你干了很多活的秘诀",
+      "onboard_time": 1698999635,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 102403,
@@ -7283,14 +7443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 76380,
-      "num": 245407,
-      "word": "和叶顺嘴抢竹子给花花留3片叶子",
-      "onboard_time": 1698993932,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75916,
       "num": 75916,
       "word": "王曼昱3比1袁嘉楠",
@@ -7539,6 +7691,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 29219,
+      "num": 183385,
+      "word": "高清效果图看我国第5个南极科考站",
+      "onboard_time": 1698999211,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29202,
       "num": 37954,
       "word": "亲历者讲述缅甸战事波及云南边境小镇",
@@ -7625,6 +7785,14 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10489,
+      "num": 812694,
+      "word": "一图剧透2023进博会",
+      "onboard_time": 1698999452,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
