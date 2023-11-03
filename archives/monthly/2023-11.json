@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699017680086,
+  "endTime": 1699018440210,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -403,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1627258,
-      "num": 1627258,
+      "raw_hot": 1627789,
+      "num": 1627789,
       "word": "李思思开口 分不清谁在主持",
       "onboard_time": 1699011398,
       "rank": 1,
@@ -3195,6 +3195,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 358007,
+      "num": 358007,
+      "word": "林俊杰要和阿信合作了吗",
+      "onboard_time": 1699017876,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 356541,
       "num": 321040,
       "word": "金莎与男友首个合体综艺",
@@ -3625,6 +3633,14 @@
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310772,
+      "num": 310772,
+      "word": "Xun封神一战",
+      "onboard_time": 1699017274,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 310638,
@@ -4395,14 +4411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254466,
-      "num": 254466,
-      "word": "Xun封神一战",
-      "onboard_time": 1699017274,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 254426,
       "num": 254426,
       "word": "以色列巴勒斯坦冲突",
@@ -4649,6 +4657,14 @@
       "onboard_time": 1698855091,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239982,
+      "num": 239982,
+      "word": "被张小斐身上的姐感蛊到",
+      "onboard_time": 1699018117,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239680,
@@ -4955,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226834,
+      "num": 397794,
+      "word": "17岁脑瘫少年卖爆米花母亲婉拒捐赠",
+      "onboard_time": 1699016436,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226669,
       "num": 226669,
       "word": "莲花回应味精致癌谣言",
@@ -5193,6 +5217,22 @@
       "onboard_time": 1698801694,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214302,
+      "num": 214302,
+      "word": "原神丝柯克",
+      "onboard_time": 1699017633,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 213744,
+      "num": 213744,
+      "word": "马伊琍A到我了",
+      "onboard_time": 1699018296,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213662,
@@ -5595,14 +5635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198695,
-      "num": 397794,
-      "word": "17岁脑瘫少年卖爆米花母亲婉拒捐赠",
-      "onboard_time": 1699016436,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198684,
       "num": 195017,
       "word": "小鬼参考粉丝意见妆发",
@@ -5745,6 +5777,14 @@
       "onboard_time": 1698900521,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194332,
+      "num": 194332,
+      "word": "主持人还没念完李现就走完了",
+      "onboard_time": 1699018117,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194239,
@@ -6145,14 +6185,6 @@
       "onboard_time": 1698992014,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182276,
-      "num": 182276,
-      "word": "原神丝柯克",
-      "onboard_time": 1699017633,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 182131,
