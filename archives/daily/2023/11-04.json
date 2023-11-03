@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699028571543,
+  "endTime": 1699029490763,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -9,6 +9,14 @@
       "onboard_time": 1699021600,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1091606,
+      "num": 1091606,
+      "word": "你敢信这是宋茜生图",
+      "onboard_time": 1699023940,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1074046,
@@ -28,18 +36,10 @@
     },
     {
       "raw_hot": 888298,
-      "num": 369893,
+      "num": 385719,
       "word": "红毯没有王法 只有迪丽热巴的想法",
       "onboard_time": 1699010675,
       "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 830993,
-      "num": 830993,
-      "word": "你敢信这是宋茜生图",
-      "onboard_time": 1699023940,
-      "rank": 4,
       "category": "作品衍生,时尚"
     },
     {
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452799,
+      "num": 342537,
+      "word": "魏大勋刘昊然李现坐一桌",
+      "onboard_time": 1699028311,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 451056,
       "num": 369111,
       "word": "ELLE内场",
@@ -107,6 +115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 422367,
+      "num": 422367,
+      "word": "周杰伦 你最好说话算话",
+      "onboard_time": 1699027535,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421989,
       "num": 368573,
       "word": "以爱为营 广告好多",
@@ -115,20 +131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411742,
+      "num": 411742,
+      "word": "旧的羽绒服不要再扔了",
+      "onboard_time": 1699024957,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 369965,
       "num": 369965,
       "word": "想看韩网热评",
       "onboard_time": 1699020877,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 369552,
-      "num": 369552,
-      "word": "旧的羽绒服不要再扔了",
-      "onboard_time": 1699024957,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 366924,
@@ -171,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317195,
-      "num": 218172,
-      "word": "魏大勋刘昊然李现坐一桌",
-      "onboard_time": 1699028311,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 283804,
       "num": 215131,
       "word": "刘诗诗 神女逆光而来",
@@ -188,19 +196,11 @@
     },
     {
       "raw_hot": 280638,
-      "num": 218855,
+      "num": 220820,
       "word": "孙颖莎成功晋级半决赛",
       "onboard_time": 1699027594,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277766,
-      "num": 214935,
-      "word": "周杰伦 你最好说话算话",
-      "onboard_time": 1699027535,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 237522,
@@ -209,6 +209,14 @@
       "onboard_time": 1699023459,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237137,
+      "num": 237137,
+      "word": "穿越火线 开挂",
+      "onboard_time": 1699027712,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 220247,
@@ -283,14 +291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185335,
-      "num": 185335,
-      "word": "穿越火线 开挂",
-      "onboard_time": 1699027712,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 155663,
       "num": 155663,
       "word": "这些护肤的钱别花都是智商税",
@@ -305,6 +305,14 @@
       "onboard_time": 1699018536,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148000,
+      "num": 148000,
+      "word": "毛晓彤阿伦黛尔风",
+      "onboard_time": 1699028671,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143178,
@@ -355,8 +363,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125562,
-      "num": 125562,
+      "raw_hot": 127843,
+      "num": 127843,
       "word": "ELLE风尚大典",
       "onboard_time": 1699013856,
       "rank": 45,
@@ -395,7 +403,15 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 3912,
+      "raw_hot": 101039,
+      "num": 101039,
+      "word": "BLG晋级S13四强",
+      "onboard_time": 1699015180,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 4037,
       "num": 1063812,
       "word": "第六届进博会亮点抢先看",
       "onboard_time": 1698993031,
