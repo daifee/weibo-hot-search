@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699042729390,
+  "endTime": 1699043659715,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58903,
+      "num": 36131,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 52037,
       "num": 52037,
       "word": "林青霞的东方不败 无法超越",
@@ -475,20 +483,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38316,
-      "num": 36131,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 36606,
       "num": 37195,
       "word": "黄景瑜终于不是素颜了",
       "onboard_time": 1699008759,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18855,
+      "num": 18855,
+      "word": "宋雨琦新加坡演唱会大屏",
+      "onboard_time": 1699042633,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 17035,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/11/04 04:18:49
+本榜单时间：2023/10/29 00:19:54 ~ 2023/11/04 04:34:19
 </p>
 </blockquote>
 <p>
@@ -13155,6 +13155,12 @@ SEVENTEEN新专初动销量突破500万张（热度：65913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：58903）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E5%9C%A8%E5%81%9C%E8%BD%A6%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%E5%B0%B1%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%86%A0%E5%86%9B%23" target="weibo">
 他们在停车的那一刻就已经是冠军（热度：58778）
 </a>
@@ -13413,12 +13419,6 @@ DOTA2（热度：50427）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-造型师刘璐回应迪丽热巴造型（热度：38316）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AD%E7%9D%80%E9%99%86%E5%89%8D%E5%92%8C%E5%A4%AA%E9%98%B3%E6%83%8A%E8%89%B3%E5%90%88%E5%BD%B1%23" target="weibo">
 神十六着陆前和太阳惊艳合影（热度：37855）
 </a>
@@ -13577,6 +13577,12 @@ AI合成郭德纲于谦用外语说相声（热度：23997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%B8%8A%E9%82%A3%E4%BA%9B%E6%8B%BC%E5%B0%BD%E5%85%A8%E5%8A%9B%E7%9A%84%E8%BA%AB%E5%BD%B1%23" target="weibo">
 杭州亚残运上那些拼尽全力的身影（热度：20380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%23" target="weibo">
+宋雨琦新加坡演唱会大屏（热度：18855）
 </a>
 </li>
 

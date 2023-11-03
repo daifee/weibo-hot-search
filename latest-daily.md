@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 04:18:49
+本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 04:34:19
 </p>
 </blockquote>
 <p>
@@ -363,20 +363,26 @@ ELLE红毯主持人没词了（热度：71443）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：58903）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9D%92%E9%9C%9E%E7%9A%84%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5%20%E6%97%A0%E6%B3%95%E8%B6%85%E8%B6%8A%23" target="weibo">
 林青霞的东方不败 无法超越（热度：52037）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-造型师刘璐回应迪丽热巴造型（热度：38316）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E7%B4%A0%E9%A2%9C%E4%BA%86%23" target="weibo">
+黄景瑜终于不是素颜了（热度：36606）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E7%B4%A0%E9%A2%9C%E4%BA%86%23" target="weibo">
-黄景瑜终于不是素颜了（热度：36606）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%23" target="weibo">
+宋雨琦新加坡演唱会大屏（热度：18855）
 </a>
 </li>
 
