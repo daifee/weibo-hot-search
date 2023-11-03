@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699031741466,
+  "endTime": 1699032850245,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -203,8 +203,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241116,
-      "num": 241116,
+      "raw_hot": 250161,
+      "num": 250161,
       "word": "穿越火线 开挂",
       "onboard_time": 1699027712,
       "rank": 36,
@@ -219,8 +219,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227271,
+      "num": 163740,
+      "word": "迪丽热巴ELLE造型致敬星期三",
+      "onboard_time": 1699032083,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220247,
-      "num": 220247,
+      "num": 230535,
       "word": "中国驻菲使馆回应6中国公民马尼拉被绑",
       "onboard_time": 1699027476,
       "rank": 23,
@@ -411,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100119,
+      "num": 100119,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87655,
       "num": 87655,
       "word": "以爱为营能不能让我演两集",
@@ -419,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67739,
-      "num": 67739,
-      "word": "原来你妈妈是冠军啊",
-      "onboard_time": 1699031185,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 82555,
+      "num": 82555,
+      "word": "关晓彤 es高定",
+      "onboard_time": 1699008338,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 4037,
