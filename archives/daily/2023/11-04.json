@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699032850245,
+  "endTime": 1699035749971,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -307,6 +307,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 150359,
+      "num": 150359,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148357,
       "num": 148357,
       "word": "压力给到JDG",
@@ -419,14 +427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100119,
-      "num": 100119,
-      "word": "原来你妈妈是冠军啊",
-      "onboard_time": 1699031185,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87655,
       "num": 87655,
       "word": "以爱为营能不能让我演两集",
@@ -441,6 +441,30 @@
       "onboard_time": 1699008338,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 52037,
+      "num": 52037,
+      "word": "林青霞的东方不败 无法超越",
+      "onboard_time": 1699033878,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 37198,
+      "num": 37198,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 36606,
+      "num": 37195,
+      "word": "黄景瑜终于不是素颜了",
+      "onboard_time": 1699008759,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 4037,

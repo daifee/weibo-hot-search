@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/04 01:34:10
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/04 02:22:29
 </p>
 </blockquote>
 <p>
@@ -5559,6 +5559,12 @@ C罗晒照庆祝杯赛晋级（热度：151749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23" target="weibo">
+原来你妈妈是冠军啊（热度：150359）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%90%AC%E5%88%B0%E7%94%B7%E7%B2%89%E5%8F%AB%E8%80%81%E5%A9%86%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 宋妍霏听到男粉叫老婆的反应（热度：149923）
 </a>
@@ -6005,12 +6011,6 @@ AI上岗紧箍咒式提醒骑电动戴头盔（热度：132558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E4%B8%8B%E7%8F%AD%E5%96%9D%E5%A5%B6%E8%8C%B6%E9%A1%BA%E4%BE%BF%E7%81%AD%E4%BA%86%E4%B8%AA%E7%81%AB%23" target="weibo">
 消防下班喝奶茶顺便灭了个火（热度：131999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8F%B6%E9%A1%BA%E5%98%B4%E6%8A%A2%E7%AB%B9%E5%AD%90%E7%BB%99%E8%8A%B1%E8%8A%B1%E7%95%993%E7%89%87%E5%8F%B6%E5%AD%90%23" target="weibo">
-和叶顺嘴抢竹子给花花留3片叶子（热度：131365）
 </a>
 </li>
 
