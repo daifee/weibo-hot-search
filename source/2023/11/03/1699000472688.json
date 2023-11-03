@@ -1,0 +1,410 @@
+{
+  "runTime": 1699000472688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749184,
+        "num": 1749184,
+        "word": "ELLE红毯",
+        "onboard_time": 1698998077,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1679798,
+        "num": 1679798,
+        "word": "父亲目睹26岁儿子连救3人牺牲",
+        "onboard_time": 1698995913,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21849,
+        "num": 1106069,
+        "word": "一图剧透2023进博会",
+        "onboard_time": 1698999452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818560,
+        "num": 818560,
+        "word": "杭州一公司年薪10万招聘逛街专家",
+        "onboard_time": 1698998255,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742028,
+        "num": 742028,
+        "word": "命韵峋环居然发糖了",
+        "onboard_time": 1698998255,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641988,
+        "num": 641988,
+        "word": "吉林一民警早市卖菜被人偷走手枪",
+        "onboard_time": 1698995733,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554797,
+        "num": 554797,
+        "word": "王栎鑫亲了陈楚生",
+        "onboard_time": 1698997475,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443569,
+        "num": 443569,
+        "word": "ELLE直播",
+        "onboard_time": 1698996931,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 429784,
+        "num": 429784,
+        "word": "战地女记者陈慧慧回应报道巴以冲突",
+        "onboard_time": 1698994891,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 315020,
+        "num": 315020,
+        "word": "五块九粉底液成分 作弊痕迹",
+        "onboard_time": 1698992372,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1274245,
+        "num": 314766,
+        "word": "杨紫 还没出图",
+        "onboard_time": 1698998913,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 778711,
+        "num": 314327,
+        "word": "咬伤10岁男童阿拉斯加犬已被打死",
+        "onboard_time": 1698993690,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662585,
+        "num": 313808,
+        "word": "迪丽热巴双马尾麻花辫",
+        "onboard_time": 1698994053,
+        "rank": 12,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 650477,
+        "num": 313050,
+        "word": "我三十几我也不是大人",
+        "onboard_time": 1698994172,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645074,
+        "num": 312675,
+        "word": "流浪地球3定档",
+        "onboard_time": 1698993452,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 632875,
+        "num": 312219,
+        "word": "张译这纹身是忍个鸟啊",
+        "onboard_time": 1698993811,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506180,
+        "num": 311712,
+        "word": "向太辟谣李连杰去世",
+        "onboard_time": 1698988057,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456764,
+        "num": 311476,
+        "word": "林俊杰回复林志颖",
+        "onboard_time": 1698998973,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335065,
+        "num": 310588,
+        "word": "曝多名篮网球员与啦啦队成员发生关系",
+        "onboard_time": 1698982774,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310519,
+        "num": 310519,
+        "word": "小朋友不想上幼儿园老师带全班来接",
+        "onboard_time": 1698996279,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401508,
+        "num": 309538,
+        "word": "娜扎挂脖珍珠裙",
+        "onboard_time": 1698999211,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 308548,
+        "num": 308548,
+        "word": "爱奇艺11月片单",
+        "onboard_time": 1698998434,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306668,
+        "num": 306668,
+        "word": "GEN对战BLG",
+        "onboard_time": 1698999093,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227858,
+        "num": 227858,
+        "word": "故宫的猫凶猛帕帕 生人勿近",
+        "onboard_time": 1698995313,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174114,
+        "num": 174114,
+        "word": "南京理工偷偷给贫困生充饭卡",
+        "onboard_time": 1698999934,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 246076,
+        "num": 172622,
+        "word": "晋江脸海棠骨起点性子po张力",
+        "onboard_time": 1698996093,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245280,
+        "num": 168684,
+        "word": "赵丽颖黑发公主切",
+        "onboard_time": 1698986622,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242793,
+        "num": 167368,
+        "word": "流浪地球3演员阵容",
+        "onboard_time": 1698997294,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164614,
+        "num": 164614,
+        "word": "考研在即大四男生割皮救母",
+        "onboard_time": 1698999934,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163976,
+        "num": 163976,
+        "word": "玲龙一号全球首堆封顶",
+        "onboard_time": 1699000353,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 294327,
+        "num": 163917,
+        "word": "让领导知道你干了很多活的秘诀",
+        "onboard_time": 1698999635,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 242452,
+        "num": 163568,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185166,
+        "num": 163028,
+        "word": "白鹿抽到丞磊的字条",
+        "onboard_time": 1698995372,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181772,
+        "num": 162661,
+        "word": "李相夷的武侠世界",
+        "onboard_time": 1698999033,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162548,
+        "num": 162548,
+        "word": "重庆女生上下班坐14次扶梯获公司补贴",
+        "onboard_time": 1698984878,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174679,
+        "num": 159209,
+        "word": "时宴的腰力",
+        "onboard_time": 1698990454,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172317,
+        "num": 156248,
+        "word": "郭帆二维码",
+        "onboard_time": 1698999093,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150811,
+        "num": 150811,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138352,
+        "num": 138352,
+        "word": "你支持家人见义勇为吗",
+        "onboard_time": 1698998973,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137115,
+        "num": 137115,
+        "word": "比利时王妃回广东娘家省亲",
+        "onboard_time": 1698984036,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 114049,
+        "num": 136589,
+        "word": "和叶顺嘴抢竹子给花花留3片叶子",
+        "onboard_time": 1698993932,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163222,
+        "num": 135862,
+        "word": "王嘉尔巡演双城官宣",
+        "onboard_time": 1698997115,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162182,
+        "num": 135540,
+        "word": "赵露思痛失本名",
+        "onboard_time": 1698984515,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152304,
+        "num": 134799,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145771,
+        "num": 133773,
+        "word": "金晨仙蓝色降温眼妆",
+        "onboard_time": 1698995733,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 141037,
+        "num": 132669,
+        "word": "李玟弥留之际老公才出现",
+        "onboard_time": 1698986319,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132616,
+        "num": 132616,
+        "word": "游客在鳌太线发现1具男尸",
+        "onboard_time": 1698989734,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112823,
+        "num": 132135,
+        "word": "男子100万投资电影亏了96万",
+        "onboard_time": 1698983977,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108681,
+        "num": 131871,
+        "word": "想象中孙颖莎进军古典音乐界",
+        "onboard_time": 1699000232,
+        "rank": 48,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 106004,
+        "num": 131225,
+        "word": "齐司礼 是你吗",
+        "onboard_time": 1698998136,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}
