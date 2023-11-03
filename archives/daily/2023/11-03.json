@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1699018440210,
+  "endTime": 1699021011699,
   "band_list": [
     {
       "raw_hot": 4273103,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1680768,
+      "num": 1680768,
+      "word": "主持人还没念完李现就走完了",
+      "onboard_time": 1699018117,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1627789,
       "num": 1627789,
       "word": "李思思开口 分不清谁在主持",
@@ -193,6 +201,14 @@
       "onboard_time": 1698977494,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1426649,
+      "num": 1426649,
+      "word": "周铁农同志逝世",
+      "onboard_time": 1699019494,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1377371,
@@ -475,6 +491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 777664,
+      "num": 777664,
+      "word": "当地通报合肥一小学生校内死亡",
+      "onboard_time": 1699018834,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 768846,
       "num": 334686,
       "word": "金鸡奖给周冬雨于适P了衣服",
@@ -497,6 +521,14 @@
       "onboard_time": 1698908674,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 732469,
+      "num": 405619,
+      "word": "以爱为营 广告好多",
+      "onboard_time": 1699019016,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 722447,
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634682,
+      "num": 415288,
+      "word": "EDG 出列",
+      "onboard_time": 1699018473,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 617520,
       "num": 564309,
       "word": "重庆女生上下班坐14次扶梯获公司补贴",
@@ -657,6 +697,14 @@
       "onboard_time": 1698981876,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565893,
+      "num": 565893,
+      "word": "Chovy 遗憾",
+      "onboard_time": 1699018536,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 564700,
@@ -1147,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354569,
+      "num": 354569,
+      "word": "压力给到JDG",
+      "onboard_time": 1699018536,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 352908,
       "num": 294759,
       "word": "库克称iPhone15在中国表现良好",
@@ -1355,6 +1411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 291763,
+      "num": 258033,
+      "word": "早田希娜晋级四强",
+      "onboard_time": 1699020396,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291751,
       "num": 231197,
       "word": "金智秀ELLE内页大片",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1698991353,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279729,
+      "num": 269500,
+      "word": "王俊凯长文告别野孩子",
+      "onboard_time": 1699020160,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 278922,
@@ -1521,6 +1593,14 @@
       "onboard_time": 1698910000,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 268395,
+      "num": 268395,
+      "word": "郭虎 歹毒的转场幽默的镜头",
+      "onboard_time": 1699019198,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 267996,
@@ -2027,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209212,
+      "num": 209212,
+      "word": "美团宣布除夕放假",
+      "onboard_time": 1699020759,
+      "rank": 36,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 208879,
       "num": 208879,
       "word": "治疗贫血的小方子",
@@ -2169,14 +2257,6 @@
       "onboard_time": 1698923794,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194332,
-      "num": 194332,
-      "word": "主持人还没念完李现就走完了",
-      "onboard_time": 1699018117,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193847,
@@ -2363,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175723,
+      "num": 175723,
+      "word": "MiHoYoFriday",
+      "onboard_time": 1699020459,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175143,
       "num": 175143,
       "word": "孩子手指夹断警车开道送医顺利手术",
@@ -2377,6 +2465,14 @@
       "onboard_time": 1698984577,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170834,
+      "num": 170834,
+      "word": "BLG全员守塔人",
+      "onboard_time": 1699019374,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 168390,
@@ -2476,7 +2572,7 @@
     },
     {
       "raw_hot": 156994,
-      "num": 1364056,
+      "num": 1442102,
       "word": "第六届进博会亮点抢先看",
       "onboard_time": 1698993031,
       "rank": 42,
@@ -2608,6 +2704,14 @@
       "word": "塞尔达 命运还没降临",
       "onboard_time": 1698988480,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143643,
+      "num": 195546,
+      "word": "起飞吧原神",
+      "onboard_time": 1699020396,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -2763,6 +2867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128117,
+      "num": 159814,
+      "word": "钢管穿透胸腔120联手119抢救",
+      "onboard_time": 1699019016,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127688,
       "num": 127688,
       "word": "刘律 温柔而强大的女性力量",
@@ -2865,6 +2977,14 @@
       "onboard_time": 1698918934,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109474,
+      "num": 159291,
+      "word": "助学金争议当事人要求处罚相关人员",
+      "onboard_time": 1699020939,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 109303,
@@ -3214,6 +3334,9 @@
   "hotgov_list": [
     {
       "word": "#解读中央金融工作会议#"
+    },
+    {
+      "word": "#习近平会见希腊总理#"
     }
   ]
 }
