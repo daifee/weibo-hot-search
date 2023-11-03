@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698978951208,
+  "endTime": 1698981473831,
   "band_list": [
     {
       "raw_hot": 2202840,
@@ -8,6 +8,14 @@
       "word": "体育课短跑猝死女童家长发声",
       "onboard_time": 1698970053,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2186614,
+      "num": 542031,
+      "word": "李佳琦直播间疑为冲销量未付先送",
+      "onboard_time": 1698977675,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1836183,
-      "num": 266390,
+      "num": 279108,
       "word": "六公主公开处刑侯雯元",
       "onboard_time": 1698975689,
       "rank": 10,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1479482,
-      "num": 265996,
+      "num": 278064,
       "word": "我是民政局 我自己过来了",
       "onboard_time": 1698975269,
       "rank": 11,
@@ -41,6 +49,14 @@
       "onboard_time": 1698939396,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1193463,
+      "num": 278796,
+      "word": "李连杰",
+      "onboard_time": 1698977494,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1187378,
@@ -56,14 +72,6 @@
       "word": "当婚姻被彩礼变成一场交易",
       "onboard_time": 1698969690,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1078608,
-      "num": 542031,
-      "word": "李佳琦直播间疑为冲销量未付先送",
-      "onboard_time": 1698977675,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -91,19 +99,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897320,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820183,
-      "num": 264393,
+      "num": 275650,
       "word": "白百何受伤",
       "onboard_time": 1698977733,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 774389,
-      "num": 263498,
-      "word": "李连杰",
-      "onboard_time": 1698977494,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -147,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 615435,
+      "num": 276815,
+      "word": "贾乃亮谅解患病造谣者",
+      "onboard_time": 1698979232,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564700,
       "num": 564700,
       "word": "俄罗斯撤销全面禁止核试验条约",
@@ -155,20 +171,28 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 564130,
-      "num": 479392,
-      "word": "男子回应退婚用16.8万彩礼辞职旅行",
-      "onboard_time": 1698976354,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544392,
       "num": 700663,
       "word": "李克强同志生平",
       "onboard_time": 1698908974,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 536423,
+      "num": 276380,
+      "word": "薛之谦给刘维写歌漏了戚薇",
+      "onboard_time": 1698979593,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 533550,
+      "num": 276106,
+      "word": "ELLE风尚大典开始官宣了",
+      "onboard_time": 1698978991,
+      "rank": 16,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 501795,
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470675,
+      "num": 274180,
+      "word": "网剧冬至阵容官宣",
+      "onboard_time": 1698979533,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465600,
       "num": 465600,
       "word": "以军称地面部队已包围加沙城",
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 449883,
-      "num": 262800,
+      "num": 363735,
       "word": "报道巴以冲突的中国战地女记者陈慧慧",
       "onboard_time": 1698974969,
       "rank": 46,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 419629,
-      "num": 259852,
+      "num": 271147,
       "word": "戴比尔斯 檀健次",
       "onboard_time": 1698977973,
       "rank": 22,
@@ -249,6 +281,14 @@
       "onboard_time": 1698939272,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 416090,
+      "num": 273808,
+      "word": "7岁女童体育课猝死9分钟后才做CPR",
+      "onboard_time": 1698974912,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411898,
@@ -281,6 +321,22 @@
       "onboard_time": 1698969509,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343802,
+      "num": 343802,
+      "word": "含有肽字的护肤品 智商税",
+      "onboard_time": 1698979954,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 342864,
+      "num": 272311,
+      "word": "五月天 属于江浙沪的厮杀",
+      "onboard_time": 1698981093,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 331454,
@@ -395,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281124,
+      "num": 270971,
+      "word": "以爱为营全员营了个大动作",
+      "onboard_time": 1698977793,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280243,
+      "num": 280243,
+      "word": "被弟弟抢走竹子花花一脸懵",
+      "onboard_time": 1698980313,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278922,
       "num": 278922,
       "word": "专家称彩礼理念不改婚姻制度要崩溃",
@@ -435,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270511,
+      "num": 270511,
+      "word": "ELLE盛典内场嘉宾名单",
+      "onboard_time": 1698979593,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 268579,
       "num": 683709,
       "word": "李克强同志生平照片",
@@ -444,7 +524,7 @@
     },
     {
       "raw_hot": 266885,
-      "num": 266885,
+      "num": 280227,
       "word": "快递小哥迟到可能是遇上了沙尘暴",
       "onboard_time": 1698974671,
       "rank": 19,
@@ -457,14 +537,6 @@
       "onboard_time": 1698974790,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261564,
-      "num": 232593,
-      "word": "以爱为营全员营了个大动作",
-      "onboard_time": 1698977793,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 258870,
@@ -483,20 +555,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 252697,
+      "num": 252697,
+      "word": "澹台烬廿白羽重生还是上下级",
+      "onboard_time": 1698978093,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249320,
       "num": 249320,
       "word": "惠英红回复网友评论简直像个高仿号",
       "onboard_time": 1698971432,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248478,
-      "num": 232234,
-      "word": "澹台烬廿白羽重生还是上下级",
-      "onboard_time": 1698978093,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 247099,
@@ -531,6 +603,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 233927,
+      "num": 233927,
+      "word": "黄景瑜孙千冬至海报",
+      "onboard_time": 1698981033,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228604,
       "num": 228604,
       "word": "没想到甄嬛传还能出试卷",
@@ -555,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220566,
+      "num": 220566,
+      "word": "她不是法律界的杨天真她是刘律",
+      "onboard_time": 1698979473,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "香港房价暴跌给内地楼市敲响警钟",
       "onboard_time": 1698906452,
       "rank": 27,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 214268,
+      "num": 214268,
+      "word": "以爱为营 滤镜",
+      "onboard_time": 1698981276,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 213837,
@@ -587,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210056,
+      "num": 210056,
+      "word": "姜昆被火星6返聘回来开会了",
+      "onboard_time": 1698981394,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209506,
       "num": 209506,
       "word": "金鸡奖",
@@ -595,12 +699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206273,
-      "num": 235391,
-      "word": "7岁女童体育课猝死9分钟后才做CPR",
-      "onboard_time": 1698974912,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 208879,
+      "num": 208879,
+      "word": "治疗贫血的小方子",
+      "onboard_time": 1698980015,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204987,
@@ -633,6 +737,14 @@
       "onboard_time": 1698923794,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193847,
+      "num": 193847,
+      "word": "网购快递速度比你抢红包还快",
+      "onboard_time": 1698980254,
+      "rank": 35,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 192430,
@@ -688,6 +800,14 @@
       "word": "孩子手指夹断警车开道送医顺利手术",
       "onboard_time": 1698974432,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163185,
+      "num": 163185,
+      "word": "窃贼银行取钱出门发现全是警察",
+      "onboard_time": 1698979172,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1105,14 @@
       "onboard_time": 1698937597,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92806,
+      "num": 131173,
+      "word": "当代职场人的顶配工位",
+      "onboard_time": 1698981453,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 92170,

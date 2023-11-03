@@ -1,0 +1,408 @@
+{
+  "runTime": 1698981473831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 88662,
+        "num": 529925,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 515348,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 49718,
+        "num": 466446,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2186614,
+        "num": 407393,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551998,
+        "num": 402243,
+        "word": "助学金事件当事人称已搬离宿舍",
+        "onboard_time": 1698970114,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363735,
+        "num": 363735,
+        "word": "报道巴以冲突的中国战地女记者陈慧慧",
+        "onboard_time": 1698974969,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 343802,
+        "num": 343802,
+        "word": "含有肽字的护肤品 智商税",
+        "onboard_time": 1698979954,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 280548,
+        "num": 280548,
+        "word": "举报助学金被挤男生让网友别转钱了",
+        "onboard_time": 1698973055,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280243,
+        "num": 280243,
+        "word": "被弟弟抢走竹子花花一脸懵",
+        "onboard_time": 1698980313,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217751,
+        "num": 280227,
+        "word": "快递小哥迟到可能是遇上了沙尘暴",
+        "onboard_time": 1698974671,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1516665,
+        "num": 279108,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1193463,
+        "num": 278796,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003127,
+        "num": 278064,
+        "word": "我是民政局 我自己过来了",
+        "onboard_time": 1698975269,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 897320,
+        "num": 277628,
+        "word": "男子回应退婚用16.8万彩礼辞职旅行",
+        "onboard_time": 1698976354,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615435,
+        "num": 276815,
+        "word": "贾乃亮谅解患病造谣者",
+        "onboard_time": 1698979232,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536423,
+        "num": 276380,
+        "word": "薛之谦给刘维写歌漏了戚薇",
+        "onboard_time": 1698979593,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533550,
+        "num": 276106,
+        "word": "ELLE风尚大典开始官宣了",
+        "onboard_time": 1698978991,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 512350,
+        "num": 275650,
+        "word": "白百何受伤",
+        "onboard_time": 1698977733,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751452,
+        "num": 274751,
+        "word": "我爸用20年证明辣条不是垃圾食品",
+        "onboard_time": 1698975331,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470675,
+        "num": 274180,
+        "word": "网剧冬至阵容官宣",
+        "onboard_time": 1698979533,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416090,
+        "num": 273808,
+        "word": "7岁女童体育课猝死9分钟后才做CPR",
+        "onboard_time": 1698974912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410320,
+        "num": 273271,
+        "word": "秦岚 我不太有综艺感",
+        "onboard_time": 1698972093,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342864,
+        "num": 272311,
+        "word": "五月天 属于江浙沪的厮杀",
+        "onboard_time": 1698981093,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304784,
+        "num": 271766,
+        "word": "体育课短跑猝死女童家长发声",
+        "onboard_time": 1698970053,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291492,
+        "num": 271147,
+        "word": "戴比尔斯 檀健次",
+        "onboard_time": 1698977973,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 281124,
+        "num": 270971,
+        "word": "以爱为营全员营了个大动作",
+        "onboard_time": 1698977793,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270511,
+        "num": 270511,
+        "word": "ELLE盛典内场嘉宾名单",
+        "onboard_time": 1698979593,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 252697,
+        "num": 252697,
+        "word": "澹台烬廿白羽重生还是上下级",
+        "onboard_time": 1698978093,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233927,
+        "num": 233927,
+        "word": "黄景瑜孙千冬至海报",
+        "onboard_time": 1698981033,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220752,
+        "num": 220752,
+        "word": "王一博香奈儿大秀内场",
+        "onboard_time": 1698977012,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 974423,
+        "num": 220744,
+        "word": "李登辉之女不满父亲被归为中国人",
+        "onboard_time": 1698976652,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 220566,
+        "num": 220566,
+        "word": "她不是法律界的杨天真她是刘律",
+        "onboard_time": 1698979473,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214268,
+        "num": 214268,
+        "word": "以爱为营 滤镜",
+        "onboard_time": 1698981276,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210056,
+        "num": 210056,
+        "word": "姜昆被火星6返聘回来开会了",
+        "onboard_time": 1698981394,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208879,
+        "num": 208879,
+        "word": "治疗贫血的小方子",
+        "onboard_time": 1698980015,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193847,
+        "num": 193847,
+        "word": "网购快递速度比你抢红包还快",
+        "onboard_time": 1698980254,
+        "rank": 35,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 188196,
+        "num": 188196,
+        "word": "陈奕迅唱了好多年没唱的歌",
+        "onboard_time": 1698971915,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181729,
+        "num": 181729,
+        "word": "故宫银杏壁纸",
+        "onboard_time": 1698975151,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 167166,
+        "num": 167166,
+        "word": "我恋5女嘉宾因为男嘉宾三天哭5次",
+        "onboard_time": 1698975210,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165868,
+        "num": 165868,
+        "word": "支原体肺炎的中医治疗思路",
+        "onboard_time": 1698976354,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163931,
+        "num": 163931,
+        "word": "巴以冲突升级",
+        "onboard_time": 1698939396,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163185,
+        "num": 163185,
+        "word": "窃贼银行取钱出门发现全是警察",
+        "onboard_time": 1698979172,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149856,
+        "num": 149856,
+        "word": "如何把身体里的病气排出去",
+        "onboard_time": 1698977554,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148667,
+        "num": 148667,
+        "word": "金鸡奖给周冬雨于适P了衣服",
+        "onboard_time": 1698926435,
+        "rank": 43,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 135671,
+        "num": 135671,
+        "word": "赵寅成喂韩孝周吃饭",
+        "onboard_time": 1698970713,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133572,
+        "num": 133572,
+        "word": "没想到甄嬛传还能出试卷",
+        "onboard_time": 1698974310,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131180,
+        "num": 131180,
+        "word": "库克称iPhone15在中国表现良好",
+        "onboard_time": 1698971432,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128995,
+        "num": 131178,
+        "word": "金鸡奖 天气凉了请穿衣服",
+        "onboard_time": 1698977494,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123029,
+        "num": 131176,
+        "word": "长相思和莲花楼的售后学",
+        "onboard_time": 1698966984,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92806,
+        "num": 131173,
+        "word": "当代职场人的顶配工位",
+        "onboard_time": 1698981453,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": null
+  }
+}
