@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699040061932,
+  "endTime": 1699042729390,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -443,20 +443,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 71443,
+      "num": 40446,
+      "word": "ELLE红毯主持人没词了",
+      "onboard_time": 1699039096,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 61610,
+      "num": 61610,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60786,
       "num": 60786,
       "word": "当红流量今年剧中的原声台词",
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60096,
-      "num": 60096,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 52037,
@@ -467,12 +475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36810,
-      "num": 28735,
-      "word": "ELLE红毯主持人没词了",
-      "onboard_time": 1699039096,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "raw_hot": 38316,
+      "num": 36131,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 36606,
@@ -481,6 +489,14 @@
       "onboard_time": 1699008759,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17035,
+      "num": 19109,
+      "word": "时代少年团走红毯像军训",
+      "onboard_time": 1699014455,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4037,

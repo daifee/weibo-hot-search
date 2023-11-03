@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699040061932,
+  "endTime": 1699042729390,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -8779,6 +8779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71443,
+      "num": 40446,
+      "word": "ELLE红毯主持人没词了",
+      "onboard_time": 1699039096,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 67022,
       "num": 243605,
       "word": "端牢中国饭碗的自信与骄傲",
@@ -8819,6 +8827,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61610,
+      "num": 61610,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61051,
       "num": 74045,
       "word": "卧蚕紧贴下睫毛才美",
@@ -8841,14 +8857,6 @@
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60096,
-      "num": 60096,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 59904,
@@ -9035,20 +9043,20 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 38316,
+      "num": 36131,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 37855,
       "num": 1230919,
       "word": "神十六着陆前和太阳惊艳合影",
       "onboard_time": 1698826769,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 36810,
-      "num": 28735,
-      "word": "ELLE红毯主持人没词了",
-      "onboard_time": 1699039096,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34400,

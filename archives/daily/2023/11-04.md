@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 03:34:21
+本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 04:18:49
 </p>
 </blockquote>
 <p>
@@ -345,14 +345,20 @@ BLG晋级S13四强（热度：101039）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%BA%A2%E6%B5%81%E9%87%8F%E4%BB%8A%E5%B9%B4%E5%89%A7%E4%B8%AD%E7%9A%84%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%23" target="weibo">
-当红流量今年剧中的原声台词（热度：60786）
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%BA%A2%E6%AF%AF%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B2%A1%E8%AF%8D%E4%BA%86%23" target="weibo">
+ELLE红毯主持人没词了（热度：71443）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E8%AF%B4%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%8D%E5%83%8F%E4%B8%89%E5%AE%A4%E4%B8%80%E5%8E%85%23" target="weibo">
-同事说我的工位像三室一厅（热度：60096）
+同事说我的工位像三室一厅（热度：61610）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%BA%A2%E6%B5%81%E9%87%8F%E4%BB%8A%E5%B9%B4%E5%89%A7%E4%B8%AD%E7%9A%84%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%23" target="weibo">
+当红流量今年剧中的原声台词（热度：60786）
 </a>
 </li>
 
@@ -363,14 +369,20 @@ BLG晋级S13四强（热度：101039）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%BA%A2%E6%AF%AF%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B2%A1%E8%AF%8D%E4%BA%86%23" target="weibo">
-ELLE红毯主持人没词了（热度：36810）
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：38316）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E7%B4%A0%E9%A2%9C%E4%BA%86%23" target="weibo">
 黄景瑜终于不是素颜了（热度：36606）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%B5%B0%E7%BA%A2%E6%AF%AF%E5%83%8F%E5%86%9B%E8%AE%AD%23" target="weibo">
+时代少年团走红毯像军训（热度：17035）
 </a>
 </li>
 
