@@ -1,0 +1,408 @@
+{
+  "runTime": 1698985233999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 80886,
+        "num": 537343,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 51752,
+        "num": 535338,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46251,
+        "num": 494384,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1783195,
+        "num": 460272,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579721,
+        "num": 458086,
+        "word": "比利时王妃回广东娘家省亲",
+        "onboard_time": 1698984036,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433923,
+        "num": 433923,
+        "word": "助学金事件当事人称已搬离宿舍",
+        "onboard_time": 1698970114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432119,
+        "num": 432119,
+        "word": "含有肽字的护肤品 智商税",
+        "onboard_time": 1698979954,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 390163,
+        "num": 390163,
+        "word": "老人深夜将女婴遗弃在小卖部门口",
+        "onboard_time": 1698983434,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348115,
+        "num": 348115,
+        "word": "浙江省考",
+        "onboard_time": 1698983558,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331728,
+        "num": 331728,
+        "word": "被弟弟抢走竹子花花一脸懵",
+        "onboard_time": 1698980313,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1588965,
+        "num": 331540,
+        "word": "曝多名篮网球员与啦啦队成员发生关系",
+        "onboard_time": 1698982774,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1466295,
+        "num": 330541,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1037104,
+        "num": 329488,
+        "word": "男子回应退婚用16.8万彩礼辞职旅行",
+        "onboard_time": 1698976354,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034445,
+        "num": 328147,
+        "word": "杨幂已退出嘉行股东",
+        "onboard_time": 1698982653,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 970790,
+        "num": 327393,
+        "word": "五月天 属于江浙沪的厮杀",
+        "onboard_time": 1698981093,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 796109,
+        "num": 326278,
+        "word": "金莎新综艺和男友接吻镜头",
+        "onboard_time": 1698982233,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781744,
+        "num": 325063,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 741873,
+        "num": 323558,
+        "word": "以爱为营 滤镜",
+        "onboard_time": 1698981276,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613001,
+        "num": 322138,
+        "word": "我是民政局 我自己过来了",
+        "onboard_time": 1698975269,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583627,
+        "num": 322012,
+        "word": "深圳黑老大百达翡丽直降888万拍卖",
+        "onboard_time": 1698981876,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423989,
+        "num": 319878,
+        "word": "杨紫说张小斐可以当歌手",
+        "onboard_time": 1698981934,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352316,
+        "num": 319510,
+        "word": "章若楠新剧用茅台消毒",
+        "onboard_time": 1698982832,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318787,
+        "num": 318787,
+        "word": "重庆女生上下班坐14次扶梯获公司补贴",
+        "onboard_time": 1698984878,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296626,
+        "num": 296626,
+        "word": "薛之谦给刘维写歌漏了戚薇",
+        "onboard_time": 1698979593,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293510,
+        "num": 293510,
+        "word": "男子100万投资电影亏了96万",
+        "onboard_time": 1698983977,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285485,
+        "num": 285485,
+        "word": "杨幂黑天鹅红唇妆",
+        "onboard_time": 1698982534,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 276142,
+        "num": 276142,
+        "word": "7岁女童体育课猝死9分钟后才做CPR",
+        "onboard_time": 1698974912,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268269,
+        "num": 268269,
+        "word": "赵露思痛失本名",
+        "onboard_time": 1698984515,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261146,
+        "num": 261146,
+        "word": "秦岚 我不太有综艺感",
+        "onboard_time": 1698972093,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260990,
+        "num": 260990,
+        "word": "ELLE风尚大典开始官宣了",
+        "onboard_time": 1698978991,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260592,
+        "num": 260592,
+        "word": "辅警连喊6遍一定要去救回受伤司机",
+        "onboard_time": 1698981876,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244023,
+        "num": 244023,
+        "word": "网剧冬至阵容官宣",
+        "onboard_time": 1698979533,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243333,
+        "num": 243333,
+        "word": "贾乃亮谅解患病造谣者",
+        "onboard_time": 1698979232,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232425,
+        "num": 232425,
+        "word": "马龙回应争议球",
+        "onboard_time": 1698984214,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227476,
+        "num": 227476,
+        "word": "工藤新一和白马探的初次见面",
+        "onboard_time": 1698984156,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 215388,
+        "num": 215388,
+        "word": "ELLE盛典内场嘉宾名单",
+        "onboard_time": 1698979593,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 212167,
+        "num": 212167,
+        "word": "田柾国新歌",
+        "onboard_time": 1698984878,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212040,
+        "num": 212040,
+        "word": "报道巴以冲突的中国战地女记者陈慧慧",
+        "onboard_time": 1698974969,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201052,
+        "num": 201052,
+        "word": "斗罗大鹿各自为营",
+        "onboard_time": 1698982352,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198149,
+        "num": 198149,
+        "word": "双11惊喜夜首波艺人阵容",
+        "onboard_time": 1698984515,
+        "rank": 39,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 82111,
+        "num": 192196,
+        "word": "蛋仔派对喜羊羊返场",
+        "onboard_time": 1698984878,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188029,
+        "num": 188029,
+        "word": "电影野孩子杀青",
+        "onboard_time": 1698984097,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181239,
+        "num": 181239,
+        "word": "完美世界",
+        "onboard_time": 1698983737,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 171314,
+        "num": 171314,
+        "word": "红绿灯路口两车默契配合为救护车让行",
+        "onboard_time": 1698984577,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168343,
+        "num": 168343,
+        "word": "白鹿说公主请看剧",
+        "onboard_time": 1698983195,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164662,
+        "num": 164662,
+        "word": "A股",
+        "onboard_time": 1698982593,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156959,
+        "num": 156959,
+        "word": "以爱为营",
+        "onboard_time": 1698981634,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156077,
+        "num": 156077,
+        "word": "戴比尔斯 檀健次",
+        "onboard_time": 1698977973,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 148332,
+        "num": 148332,
+        "word": "黄景瑜孙千冬至海报",
+        "onboard_time": 1698981033,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161668,
+        "num": 146445,
+        "word": "白鹿王鹤棣吻戏镜头",
+        "onboard_time": 1698981693,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": null
+  }
+}

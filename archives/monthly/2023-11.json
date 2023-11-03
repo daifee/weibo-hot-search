@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698982468073,
+  "endTime": 1698985233999,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1836183,
-      "num": 279108,
+      "num": 325063,
       "word": "六公主公开处刑侯雯元",
       "onboard_time": 1698975689,
       "rank": 10,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1588965,
+      "num": 331540,
+      "word": "曝多名篮网球员与啦啦队成员发生关系",
+      "onboard_time": 1698982774,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1572098,
       "num": 1283072,
       "word": "达美乐30分钟必达3年亏损9亿",
@@ -364,11 +372,19 @@
     },
     {
       "raw_hot": 1479482,
-      "num": 278064,
+      "num": 322138,
       "word": "我是民政局 我自己过来了",
       "onboard_time": 1698975269,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1466295,
+      "num": 330541,
+      "word": "李连杰",
+      "onboard_time": 1698977494,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1462107,
@@ -441,14 +457,6 @@
       "onboard_time": 1698911318,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1283510,
-      "num": 278796,
-      "word": "李连杰",
-      "onboard_time": 1698977494,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1258089,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 1110382,
-      "num": 272311,
+      "num": 327393,
       "word": "五月天 属于江浙沪的厮杀",
       "onboard_time": 1698981093,
       "rank": 22,
@@ -651,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037104,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036723,
       "num": 1036723,
       "word": "一碗拌面里有199只手剥龙虾",
       "onboard_time": 1698935678,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1034445,
+      "num": 328147,
+      "word": "杨幂已退出嘉行股东",
+      "onboard_time": 1698982653,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1030560,
@@ -673,14 +697,6 @@
       "onboard_time": 1698781874,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1015642,
-      "num": 479392,
-      "word": "男子回应退婚用16.8万彩礼辞职旅行",
-      "onboard_time": 1698976354,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 997239,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 865018,
-      "num": 254400,
+      "num": 323558,
       "word": "以爱为营 滤镜",
       "onboard_time": 1698981276,
       "rank": 32,
@@ -905,6 +921,14 @@
       "onboard_time": 1698829715,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 796109,
+      "num": 326278,
+      "word": "金莎新综艺和男友接吻镜头",
+      "onboard_time": 1698982233,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 791108,
@@ -1363,12 +1387,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 583627,
+      "num": 322012,
+      "word": "深圳黑老大百达翡丽直降888万拍卖",
+      "onboard_time": 1698981876,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579736,
       "num": 328330,
       "word": "黄凯在offer5做医美",
       "onboard_time": 1698882573,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579721,
+      "num": 458086,
+      "word": "比利时王妃回广东娘家省亲",
+      "onboard_time": 1698984036,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574578,
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 536423,
-      "num": 276380,
+      "num": 296626,
       "word": "薛之谦给刘维写歌漏了戚薇",
       "onboard_time": 1698979593,
       "rank": 15,
@@ -1915,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432119,
+      "num": 432119,
+      "word": "含有肽字的护肤品 智商税",
+      "onboard_time": 1698979954,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 430738,
       "num": 430738,
       "word": "中国海警依法管控日非法进我钓鱼岛领海船只",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1698885764,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423989,
+      "num": 319878,
+      "word": "杨紫说张小斐可以当歌手",
+      "onboard_time": 1698981934,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 423784,
@@ -1980,7 +2036,7 @@
     },
     {
       "raw_hot": 416090,
-      "num": 273808,
+      "num": 276142,
       "word": "7岁女童体育课猝死9分钟后才做CPR",
       "onboard_time": 1698974912,
       "rank": 31,
@@ -2163,28 +2219,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 396930,
-      "num": 254133,
-      "word": "杨紫说张小斐可以当歌手",
-      "onboard_time": 1698981934,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 396205,
       "num": 387864,
       "word": "NRG对战WBG",
       "onboard_time": 1698909158,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 395922,
-      "num": 395922,
-      "word": "含有肽字的护肤品 智商税",
-      "onboard_time": 1698979954,
-      "rank": 6,
-      "category": "美妆"
     },
     {
       "raw_hot": 393829,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1698800855,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 390163,
+      "num": 390163,
+      "word": "老人深夜将女婴遗弃在小卖部门口",
+      "onboard_time": 1698983434,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390058,
@@ -2443,6 +2491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 352316,
+      "num": 319510,
+      "word": "章若楠新剧用茅台消毒",
+      "onboard_time": 1698982832,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351511,
       "num": 351511,
       "word": "夏鸣星卡面好帅",
@@ -2497,6 +2553,14 @@
       "onboard_time": 1698904592,
       "rank": 30,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 348115,
+      "num": 348115,
+      "word": "浙江省考",
+      "onboard_time": 1698983558,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 347623,
@@ -2691,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318787,
+      "num": 318787,
+      "word": "重庆女生上下班坐14次扶梯获公司补贴",
+      "onboard_time": 1698984878,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317652,
       "num": 317652,
       "word": "长相思和莲花楼的售后学",
@@ -2867,14 +2939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296013,
-      "num": 296013,
-      "word": "深圳黑老大百达翡丽直降888万拍卖",
-      "onboard_time": 1698981876,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295944,
       "num": 295944,
       "word": "腾讯视频11月大剧片单",
@@ -2905,6 +2969,14 @@
       "onboard_time": 1698850119,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293510,
+      "num": 293510,
+      "word": "男子100万投资电影亏了96万",
+      "onboard_time": 1698983977,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292005,
@@ -2969,6 +3041,14 @@
       "onboard_time": 1698801034,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 285485,
+      "num": 285485,
+      "word": "杨幂黑天鹅红唇妆",
+      "onboard_time": 1698982534,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284594,
@@ -3235,6 +3315,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 268269,
+      "num": 268269,
+      "word": "赵露思痛失本名",
+      "onboard_time": 1698984515,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266885,
       "num": 280227,
       "word": "快递小哥迟到可能是遇上了沙尘暴",
@@ -3289,6 +3377,14 @@
       "onboard_time": 1698884316,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260592,
+      "num": 260592,
+      "word": "辅警连喊6遍一定要去救回受伤司机",
+      "onboard_time": 1698981876,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259871,
@@ -3659,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232425,
+      "num": 232425,
+      "word": "马龙回应争议球",
+      "onboard_time": 1698984214,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231937,
       "num": 231937,
       "word": "惠英红这段戏竟然没被删",
@@ -3761,6 +3865,14 @@
       "onboard_time": 1698815377,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227476,
+      "num": 227476,
+      "word": "工藤新一和白马探的初次见面",
+      "onboard_time": 1698984156,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 226943,
@@ -4011,6 +4123,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 212167,
+      "num": 212167,
+      "word": "田柾国新歌",
+      "onboard_time": 1698984878,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "9.9四斤洗衣液还能赚一块三",
@@ -4105,14 +4225,6 @@
       "onboard_time": 1698819452,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207627,
-      "num": 207627,
-      "word": "辅警连喊6遍一定要去救回受伤司机",
-      "onboard_time": 1698981876,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207538,
@@ -4243,6 +4355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201052,
+      "num": 201052,
+      "word": "斗罗大鹿各自为营",
+      "onboard_time": 1698982352,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201026,
       "num": 201026,
       "word": "天猫双11惊喜夜定档官宣",
@@ -4281,6 +4401,14 @@
       "onboard_time": 1698827310,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198149,
+      "num": 198149,
+      "word": "双11惊喜夜首波艺人阵容",
+      "onboard_time": 1698984515,
+      "rank": 39,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 197901,
@@ -4579,12 +4707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187303,
-      "num": 187303,
-      "word": "金莎新综艺和男友接吻镜头",
-      "onboard_time": 1698982233,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 188029,
+      "num": 188029,
+      "word": "电影野孩子杀青",
+      "onboard_time": 1698984097,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 187093,
@@ -4729,6 +4857,14 @@
       "onboard_time": 1698904894,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 181239,
+      "num": 181239,
+      "word": "完美世界",
+      "onboard_time": 1698983737,
+      "rank": 42,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 180027,
@@ -4947,6 +5083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171314,
+      "num": 171314,
+      "word": "红绿灯路口两车默契配合为救护车让行",
+      "onboard_time": 1698984577,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171155,
       "num": 171155,
       "word": "哈登有望在洛城德比迎首秀",
@@ -5033,6 +5177,14 @@
       "onboard_time": 1698932859,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168343,
+      "num": 168343,
+      "word": "白鹿说公主请看剧",
+      "onboard_time": 1698983195,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 167808,
@@ -5136,6 +5288,14 @@
       "word": "刘润道歉",
       "onboard_time": 1698930996,
       "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 164662,
+      "num": 164662,
+      "word": "A股",
+      "onboard_time": 1698844656,
+      "rank": 46,
       "category": "财经"
     },
     {
@@ -5265,14 +5425,6 @@
       "onboard_time": 1698807331,
       "rank": 44,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 157774,
-      "num": 157774,
-      "word": "A股",
-      "onboard_time": 1698844656,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 157155,
@@ -5689,14 +5841,6 @@
       "onboard_time": 1698916891,
       "rank": 41,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 142617,
-      "num": 142617,
-      "word": "斗罗大鹿各自为营",
-      "onboard_time": 1698982352,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 141846,
@@ -6569,6 +6713,14 @@
       "onboard_time": 1698881553,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 82111,
+      "num": 192196,
+      "word": "蛋仔派对喜羊羊返场",
+      "onboard_time": 1698984878,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 81433,
