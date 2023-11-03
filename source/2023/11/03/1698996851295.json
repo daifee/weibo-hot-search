@@ -1,0 +1,410 @@
+{
+  "runTime": 1698996851295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 964205,
+        "num": 964205,
+        "word": "咬伤10岁男童阿拉斯加犬已被打死",
+        "onboard_time": 1698993690,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792412,
+        "num": 792412,
+        "word": "五块九粉底液成分 作弊痕迹",
+        "onboard_time": 1698992372,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 39070,
+        "num": 685286,
+        "word": "儿童支原体肺炎病程用药图",
+        "onboard_time": 1698995972,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 648371,
+        "num": 648371,
+        "word": "父亲目睹26岁儿子连救3人牺牲",
+        "onboard_time": 1698995913,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387988,
+        "num": 387988,
+        "word": "重庆女生上下班坐14次扶梯获公司补贴",
+        "onboard_time": 1698984878,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282429,
+        "num": 282429,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260854,
+        "num": 260854,
+        "word": "巡视组回应天津助学金事件",
+        "onboard_time": 1698988956,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257641,
+        "num": 257641,
+        "word": "男子100万投资电影亏了96万",
+        "onboard_time": 1698983977,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245428,
+        "num": 245428,
+        "word": "男孩高烧错过约定隔周早早赴约",
+        "onboard_time": 1698994712,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76380,
+        "num": 245407,
+        "word": "和叶顺嘴抢竹子给花花留3片叶子",
+        "onboard_time": 1698993932,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348334,
+        "num": 245395,
+        "word": "流浪地球3定档",
+        "onboard_time": 1698993452,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 948346,
+        "num": 245376,
+        "word": "向太辟谣李连杰去世",
+        "onboard_time": 1698988057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893784,
+        "num": 245332,
+        "word": "我三十几我也不是大人",
+        "onboard_time": 1698994172,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 864488,
+        "num": 245316,
+        "word": "迪丽热巴双马尾麻花辫",
+        "onboard_time": 1698994053,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 765653,
+        "num": 245280,
+        "word": "张译这纹身是忍个鸟啊",
+        "onboard_time": 1698993811,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 735828,
+        "num": 245272,
+        "word": "曝多名篮网球员与啦啦队成员发生关系",
+        "onboard_time": 1698982774,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494863,
+        "num": 245246,
+        "word": "赵丽颖黑发公主切",
+        "onboard_time": 1698986622,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406052,
+        "num": 245204,
+        "word": "时宴的腰力",
+        "onboard_time": 1698990454,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158644,
+        "num": 245188,
+        "word": "分享手机镜头下的生命力",
+        "onboard_time": 1698995793,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 372862,
+        "num": 245163,
+        "word": "我比王鸥本人还关心她的事业",
+        "onboard_time": 1698996512,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354413,
+        "num": 245130,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354007,
+        "num": 245118,
+        "word": "ELLE风尚大典开始官宣了",
+        "onboard_time": 1698978991,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324257,
+        "num": 245077,
+        "word": "战地女记者陈慧慧回应报道巴以冲突",
+        "onboard_time": 1698994891,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 322230,
+        "num": 245073,
+        "word": "白鹿抽到丞磊的字条",
+        "onboard_time": 1698995372,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268873,
+        "num": 245027,
+        "word": "吉林一民警早市卖菜被人偷走手枪",
+        "onboard_time": 1698995733,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252904,
+        "num": 245012,
+        "word": "李玟弥留之际老公才出现",
+        "onboard_time": 1698986319,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244997,
+        "num": 244997,
+        "word": "萧亚轩二次手术",
+        "onboard_time": 1698993089,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242802,
+        "num": 242802,
+        "word": "他不爱我",
+        "onboard_time": 1698987099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237995,
+        "num": 237995,
+        "word": "晋江脸海棠骨起点性子po张力",
+        "onboard_time": 1698996093,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82487,
+        "num": 234029,
+        "word": "3个动作掌握坐姿瘦肚子",
+        "onboard_time": 1698994953,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 231665,
+        "num": 231665,
+        "word": "小朋友不想上幼儿园老师带全班来接",
+        "onboard_time": 1698996279,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222740,
+        "num": 222740,
+        "word": "故宫的猫凶猛帕帕 生人勿近",
+        "onboard_time": 1698995313,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214970,
+        "num": 214970,
+        "word": "金晨仙蓝色降温眼妆",
+        "onboard_time": 1698995733,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 214925,
+        "num": 214925,
+        "word": "赵露思痛失本名",
+        "onboard_time": 1698984515,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147146,
+        "num": 210730,
+        "word": "10岁男童遭阿拉斯加犬咬伤",
+        "onboard_time": 1698990815,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210573,
+        "num": 210573,
+        "word": "黄凯的考研经历好励志",
+        "onboard_time": 1698992731,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196414,
+        "num": 196414,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185533,
+        "num": 185533,
+        "word": "以爱为营 滤镜",
+        "onboard_time": 1698981276,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175034,
+        "num": 175034,
+        "word": "凡人修仙传官宣定档",
+        "onboard_time": 1698991054,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170739,
+        "num": 170739,
+        "word": "警方通报男子持榔头当街追砸女子",
+        "onboard_time": 1698991894,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179793,
+        "num": 170040,
+        "word": "陈牧驰ELLE风尚大典路透",
+        "onboard_time": 1698996696,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172790,
+        "num": 170025,
+        "word": "中国版花束般的恋爱正式启动",
+        "onboard_time": 1698991655,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168893,
+        "num": 168893,
+        "word": "流浪地球3前进三发布会",
+        "onboard_time": 1698990754,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165689,
+        "num": 165689,
+        "word": "我本是高山张桂梅带海清家访",
+        "onboard_time": 1698992074,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164627,
+        "num": 164627,
+        "word": "金莎与男友首个合体综艺",
+        "onboard_time": 1698986921,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154731,
+        "num": 154731,
+        "word": "比利时王妃回广东娘家省亲",
+        "onboard_time": 1698984036,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150249,
+        "num": 150249,
+        "word": "游客在鳌太线发现1具男尸",
+        "onboard_time": 1698989734,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130864,
+        "num": 130864,
+        "word": "16岁男孩带着奶奶照片骑行西藏",
+        "onboard_time": 1698996456,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121064,
+        "num": 121064,
+        "word": "文班亚马太夸张了",
+        "onboard_time": 1698987282,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111050,
+        "num": 111050,
+        "word": "七英俊 华九灯",
+        "onboard_time": 1698989613,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}
