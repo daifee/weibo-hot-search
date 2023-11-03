@@ -1,0 +1,410 @@
+{
+  "runTime": 1699049781357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 203457,
+        "num": 203457,
+        "word": "原来你妈妈是冠军啊",
+        "onboard_time": 1699031185,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162007,
+        "num": 162007,
+        "word": "6名中国公民在菲被绑架下落不明",
+        "onboard_time": 1699025737,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1602,
+        "num": 110343,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83532,
+        "num": 83532,
+        "word": "同事说我的工位像三室一厅",
+        "onboard_time": 1699035319,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79270,
+        "num": 79270,
+        "word": "你敢信这是宋茜生图",
+        "onboard_time": 1699023940,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76701,
+        "num": 76701,
+        "word": "中国大陆合法销售的iPhone15均为中国组装",
+        "onboard_time": 1699023159,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75006,
+        "num": 75006,
+        "word": "王俊凯问学校门口的大哥还认不认得他",
+        "onboard_time": 1699021600,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72825,
+        "num": 72825,
+        "word": "旧的羽绒服不要再扔了",
+        "onboard_time": 1699024957,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 70684,
+        "num": 70684,
+        "word": "以爱为营开播",
+        "onboard_time": 1699014881,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68188,
+        "num": 68188,
+        "word": "16个月大女童把自己反锁车内消防员砸窗救出",
+        "onboard_time": 1699047316,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187407,
+        "num": 65989,
+        "word": "造型师刘璐回应迪丽热巴造型",
+        "onboard_time": 1699042334,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 97221,
+        "num": 65570,
+        "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+        "onboard_time": 1699021418,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63268,
+        "num": 63268,
+        "word": "魏大勋刘昊然李现坐一桌",
+        "onboard_time": 1699028311,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60756,
+        "num": 60756,
+        "word": "故宫的柿子红了",
+        "onboard_time": 1699046173,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 57924,
+        "num": 57924,
+        "word": "杨紫 两套造型",
+        "onboard_time": 1699006292,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56197,
+        "num": 56197,
+        "word": "当地通报合肥一小学生校内死亡",
+        "onboard_time": 1699018834,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 58998,
+        "num": 53626,
+        "word": "红毯没有王法 只有迪丽热巴的想法",
+        "onboard_time": 1699010675,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50142,
+        "num": 50142,
+        "word": "ELLE红毯主持人没词了",
+        "onboard_time": 1699039096,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49823,
+        "num": 49823,
+        "word": "周铁农同志逝世",
+        "onboard_time": 1699019494,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46103,
+        "num": 46103,
+        "word": "主持人还没念完李现就走完了",
+        "onboard_time": 1699018117,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49723,
+        "num": 46093,
+        "word": "有效减脂且降低食欲的运动",
+        "onboard_time": 1699021779,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45680,
+        "num": 45680,
+        "word": "舒舒服服起床的睡眠时间",
+        "onboard_time": 1699021118,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43606,
+        "num": 43606,
+        "word": "WTT法兰克福冠军赛2023",
+        "onboard_time": 1699023940,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40496,
+        "num": 40496,
+        "word": "又是谁家的少爷逐梦演艺圈了",
+        "onboard_time": 1699001014,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38799,
+        "num": 38799,
+        "word": "张元英 皮衣",
+        "onboard_time": 1699026636,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38363,
+        "num": 38363,
+        "word": "李思思开口 分不清谁在主持",
+        "onboard_time": 1699011398,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37067,
+        "num": 37067,
+        "word": "孙颖莎vs申裕斌",
+        "onboard_time": 1699023397,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34128,
+        "num": 34128,
+        "word": "这些护肤的钱别花都是智商税",
+        "onboard_time": 1699024537,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 32670,
+        "num": 32670,
+        "word": "穿越火线 开挂",
+        "onboard_time": 1699027712,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31504,
+        "num": 31504,
+        "word": "当红流量今年剧中的原声台词",
+        "onboard_time": 1699036277,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31466,
+        "num": 31466,
+        "word": "刘昊然把你的眼镜借给魏大勋吧",
+        "onboard_time": 1699021418,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 29530,
+        "num": 29530,
+        "word": "娜扎请和我结婚",
+        "onboard_time": 1699006713,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28737,
+        "num": 28737,
+        "word": "Bin说到做到",
+        "onboard_time": 1699024659,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27680,
+        "num": 27680,
+        "word": "想看韩网热评",
+        "onboard_time": 1699020877,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27029,
+        "num": 27029,
+        "word": "以爱为营 广告好多",
+        "onboard_time": 1699019016,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25443,
+        "num": 25443,
+        "word": "周杰伦 你最好说话算话",
+        "onboard_time": 1699027535,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25149,
+        "num": 25149,
+        "word": "中国驻菲使馆回应6中国公民马尼拉被绑",
+        "onboard_time": 1699027476,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24427,
+        "num": 24427,
+        "word": "赵昭仪回应谁封的",
+        "onboard_time": 1699024236,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24415,
+        "num": 24415,
+        "word": "宋雨琦新加坡演唱会大屏",
+        "onboard_time": 1699042633,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23756,
+        "num": 23756,
+        "word": "EDG 出列",
+        "onboard_time": 1699018473,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22746,
+        "num": 23756,
+        "word": "助学金争议当事人要求处罚相关人员",
+        "onboard_time": 1699020939,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 22407,
+        "num": 23756,
+        "word": "天秤座总是错把好感当动心",
+        "onboard_time": 1699023459,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22005,
+        "num": 23756,
+        "word": "ELLE内场",
+        "onboard_time": 1699014634,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21747,
+        "num": 23756,
+        "word": "毛晓彤阿伦黛尔风",
+        "onboard_time": 1699028671,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20605,
+        "num": 23755,
+        "word": "五月天 八场总得有张我的票吧",
+        "onboard_time": 1699022318,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13842,
+        "num": 23755,
+        "word": "Tabe哭了",
+        "onboard_time": 1699016436,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20300,
+        "num": 23755,
+        "word": "时代少年团走红毯像军训",
+        "onboard_time": 1699014455,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20046,
+        "num": 23755,
+        "word": "BLG战胜GEN",
+        "onboard_time": 1699015058,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18427,
+        "num": 23755,
+        "word": "ELLE风尚大典",
+        "onboard_time": 1699013856,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 17301,
+        "num": 23755,
+        "word": "一副市长被前妻实名举报",
+        "onboard_time": 1699049596,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}

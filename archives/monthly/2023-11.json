@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699047248523,
+  "endTime": 1699049781357,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -5827,6 +5827,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 203457,
+      "num": 203457,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203452,
       "num": 203452,
       "word": "第五人格开门了",
@@ -6361,6 +6369,14 @@
       "onboard_time": 1699007556,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187407,
+      "num": 65989,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 187325,
@@ -7395,14 +7411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150359,
-      "num": 150359,
-      "word": "原来你妈妈是冠军啊",
-      "onboard_time": 1699031185,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149923,
       "num": 149923,
       "word": "宋妍霏听到男粉叫老婆的反应",
@@ -8083,14 +8091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127491,
-      "num": 36863,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 127073,
       "num": 127073,
       "word": "国考",
@@ -8683,6 +8683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83532,
+      "num": 83532,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82903,
       "num": 82903,
       "word": "被烫伤小朋友一个敬礼暖化护送民警",
@@ -8788,11 +8796,19 @@
     },
     {
       "raw_hot": 71443,
-      "num": 40446,
+      "num": 50142,
       "word": "ELLE红毯主持人没词了",
       "onboard_time": 1699039096,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 68188,
+      "num": 68188,
+      "word": "16个月大女童把自己反锁车内消防员砸窗救出",
+      "onboard_time": 1699047316,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67022,
@@ -8835,14 +8851,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 61610,
-      "num": 61610,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61051,
       "num": 74045,
       "word": "卧蚕紧贴下睫毛才美",
@@ -8865,6 +8873,14 @@
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60756,
+      "num": 60756,
+      "word": "故宫的柿子红了",
+      "onboard_time": 1699046173,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 59904,
@@ -9123,12 +9139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24798,
-      "num": 24798,
-      "word": "故宫的柿子红了",
-      "onboard_time": 1699046173,
-      "rank": 26,
-      "category": "旅游"
+      "raw_hot": 24415,
+      "num": 24415,
+      "word": "宋雨琦新加坡演唱会大屏",
+      "onboard_time": 1699042633,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 22179,
@@ -9147,20 +9163,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19048,
-      "num": 19048,
-      "word": "宋雨琦新加坡演唱会大屏",
-      "onboard_time": 1699042633,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 18233,
       "num": 33839,
       "word": "2个动作锻炼腰背肌",
       "onboard_time": 1698791478,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 17301,
+      "num": 23755,
+      "word": "一副市长被前妻实名举报",
+      "onboard_time": 1699049596,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15116,

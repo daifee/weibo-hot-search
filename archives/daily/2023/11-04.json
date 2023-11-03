@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699047248523,
+  "endTime": 1699049781357,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -251,6 +251,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 203457,
+      "num": 203457,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203391,
       "num": 203391,
       "word": "赵昭仪回应谁封的",
@@ -299,20 +307,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187407,
+      "num": 65989,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 155663,
       "num": 155663,
       "word": "这些护肤的钱别花都是智商税",
       "onboard_time": 1699024537,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 150359,
-      "num": 150359,
-      "word": "原来你妈妈是冠军啊",
-      "onboard_time": 1699031185,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 148357,
@@ -387,14 +395,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 127491,
-      "num": 36863,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 122652,
       "num": 122652,
       "word": "赵丽颖美人肩",
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83532,
+      "num": 83532,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82555,
       "num": 82555,
       "word": "关晓彤 es高定",
@@ -452,19 +460,19 @@
     },
     {
       "raw_hot": 71443,
-      "num": 40446,
+      "num": 50142,
       "word": "ELLE红毯主持人没词了",
       "onboard_time": 1699039096,
       "rank": 30,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 61610,
-      "num": 61610,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 68188,
+      "num": 68188,
+      "word": "16个月大女童把自己反锁车内消防员砸窗救出",
+      "onboard_time": 1699047316,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60786,
@@ -473,6 +481,14 @@
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60756,
+      "num": 60756,
+      "word": "故宫的柿子红了",
+      "onboard_time": 1699046173,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 52037,
@@ -491,28 +507,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24798,
-      "num": 24798,
-      "word": "故宫的柿子红了",
-      "onboard_time": 1699046173,
-      "rank": 26,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 19048,
-      "num": 19048,
+      "raw_hot": 24415,
+      "num": 24415,
       "word": "宋雨琦新加坡演唱会大屏",
       "onboard_time": 1699042633,
       "rank": 38,
       "category": "演出"
     },
     {
-      "raw_hot": 17035,
-      "num": 19109,
+      "raw_hot": 20300,
+      "num": 23755,
       "word": "时代少年团走红毯像军训",
       "onboard_time": 1699014455,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17301,
+      "num": 23755,
+      "word": "一副市长被前妻实名举报",
+      "onboard_time": 1699049596,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4037,
