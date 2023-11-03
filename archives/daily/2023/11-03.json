@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698978286889,
+  "endTime": 1698978951208,
   "band_list": [
     {
       "raw_hot": 2202840,
@@ -43,6 +43,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1187378,
+      "num": 265334,
+      "word": "李登辉之女不满父亲被归为中国人",
+      "onboard_time": 1698976652,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1137514,
       "num": 349364,
       "word": "当婚姻被彩礼变成一场交易",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1066618,
-      "num": 265334,
-      "word": "李登辉之女不满父亲被归为中国人",
-      "onboard_time": 1698976652,
-      "rank": 12,
-      "category": "国内要闻"
+      "raw_hot": 1078608,
+      "num": 542031,
+      "word": "李佳琦直播间疑为冲销量未付先送",
+      "onboard_time": 1698977675,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1061192,
@@ -75,12 +83,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 973696,
+      "raw_hot": 978741,
       "num": 542327,
       "word": "我爸用20年证明辣条不是垃圾食品",
       "onboard_time": 1698975331,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820183,
+      "num": 264393,
+      "word": "白百何受伤",
+      "onboard_time": 1698977733,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774389,
+      "num": 263498,
+      "word": "李连杰",
+      "onboard_time": 1698977494,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 768846,
@@ -115,28 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 679963,
-      "num": 264393,
-      "word": "白百何受伤",
-      "onboard_time": 1698977733,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 677277,
       "num": 677277,
       "word": "一碗拌面里有199只手剥龙虾",
       "onboard_time": 1698935678,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 579321,
-      "num": 263498,
-      "word": "李连杰",
-      "onboard_time": 1698977494,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 564700,
@@ -147,6 +155,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 564130,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544392,
       "num": 700663,
       "word": "李克强同志生平",
@@ -155,27 +171,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 542031,
-      "num": 542031,
-      "word": "李佳琦直播间疑为冲销量未付先送",
-      "onboard_time": 1698977675,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501795,
       "num": 501795,
       "word": "女生毕业实习父母每天趴窗等下班",
       "onboard_time": 1698966264,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479392,
-      "num": 479392,
-      "word": "男子回应退婚用16.8万彩礼辞职旅行",
-      "onboard_time": 1698976354,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419629,
+      "num": 259852,
+      "word": "戴比尔斯 檀健次",
+      "onboard_time": 1698977973,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 418198,
       "num": 418198,
       "word": "小学生劳动课做饭出锅就被抢光了",
@@ -249,6 +257,14 @@
       "onboard_time": 1698971915,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 371465,
+      "num": 262158,
+      "word": "王一博香奈儿大秀内场",
+      "onboard_time": 1698977012,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 352908,
@@ -305,14 +321,6 @@
       "onboard_time": 1698973770,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313473,
-      "num": 262158,
-      "word": "王一博香奈儿大秀内场",
-      "onboard_time": 1698977012,
-      "rank": 18,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 311196,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271134,
-      "num": 259852,
-      "word": "戴比尔斯 檀健次",
-      "onboard_time": 1698977973,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 268579,
       "num": 683709,
       "word": "李克强同志生平照片",
@@ -457,6 +457,14 @@
       "onboard_time": 1698974790,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261564,
+      "num": 232593,
+      "word": "以爱为营全员营了个大动作",
+      "onboard_time": 1698977793,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 258870,
@@ -483,12 +491,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248478,
+      "num": 232234,
+      "word": "澹台烬廿白羽重生还是上下级",
+      "onboard_time": 1698978093,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247099,
       "num": 247099,
       "word": "故宫银杏壁纸",
       "onboard_time": 1698975151,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 243161,
+      "num": 231810,
+      "word": "如何把身体里的病气排出去",
+      "onboard_time": 1698977554,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239942,
@@ -505,14 +529,6 @@
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 231002,
-      "num": 215454,
-      "word": "如何把身体里的病气排出去",
-      "onboard_time": 1698977554,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 228604,
@@ -547,14 +563,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 217663,
-      "num": 217663,
-      "word": "以爱为营全员营了个大动作",
-      "onboard_time": 1698977793,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213837,
       "num": 213837,
       "word": "太上老君遇到他炼丹炉都省了",
@@ -587,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206273,
+      "num": 235391,
+      "word": "7岁女童体育课猝死9分钟后才做CPR",
+      "onboard_time": 1698974912,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204987,
       "num": 204987,
       "word": "想多了全是问题 做多了全是答案",
@@ -609,14 +625,6 @@
       "onboard_time": 1698971554,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199165,
-      "num": 199165,
-      "word": "7岁女童体育课猝死9分钟后才做CPR",
-      "onboard_time": 1698974912,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194439,
@@ -651,12 +659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183269,
-      "num": 183269,
-      "word": "澹台烬廿白羽重生还是上下级",
-      "onboard_time": 1698978093,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 178944,
+      "num": 178944,
+      "word": "金鸡奖 天气凉了请穿衣服",
+      "onboard_time": 1698977494,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 178370,
@@ -665,14 +673,6 @@
       "onboard_time": 1698976593,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 177247,
-      "num": 177247,
-      "word": "金鸡奖 天气凉了请穿衣服",
-      "onboard_time": 1698977494,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 176820,
@@ -873,6 +873,14 @@
       "onboard_time": 1698930094,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120581,
+      "num": 120581,
+      "word": "陶昕然新片入围金鸡",
+      "onboard_time": 1698977432,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 119270,

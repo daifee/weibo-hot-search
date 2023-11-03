@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698978286889,
+  "endTime": 1698978951208,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1187378,
+      "num": 265334,
+      "word": "李登辉之女不满父亲被归为中国人",
+      "onboard_time": 1698976652,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1175695,
       "num": 406230,
       "word": "印度男子强奸女大学生后倒水毁证据",
@@ -571,20 +579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1078608,
+      "num": 542031,
+      "word": "李佳琦直播间疑为冲销量未付先送",
+      "onboard_time": 1698977675,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1072733,
       "num": 1072733,
       "word": "对不起那英我喜欢这英",
       "onboard_time": 1698827430,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1066618,
-      "num": 265334,
-      "word": "李登辉之女不满父亲被归为中国人",
-      "onboard_time": 1698976652,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1061192,
@@ -675,7 +683,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 973696,
+      "raw_hot": 978741,
       "num": 542327,
       "word": "我爸用20年证明辣条不是垃圾食品",
       "onboard_time": 1698975331,
@@ -803,6 +811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 820183,
+      "num": 264393,
+      "word": "白百何受伤",
+      "onboard_time": 1698977733,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 818922,
       "num": 818922,
       "word": "杭州出现卖4988元一杯的咖啡",
@@ -865,6 +881,14 @@
       "onboard_time": 1698840215,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 774389,
+      "num": 263498,
+      "word": "李连杰",
+      "onboard_time": 1698977494,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 768063,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1698808771,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 679963,
-      "num": 264393,
-      "word": "白百何受伤",
-      "onboard_time": 1698977733,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 675782,
@@ -1323,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579321,
-      "num": 263498,
-      "word": "李连杰",
-      "onboard_time": 1698977494,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574578,
       "num": 574578,
       "word": "网红低价叫卖学习机实际贵1700元",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1698900938,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 564130,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561122,
@@ -1441,14 +1457,6 @@
       "onboard_time": 1698925536,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 542031,
-      "num": 542031,
-      "word": "李佳琦直播间疑为冲销量未付先送",
-      "onboard_time": 1698977675,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534192,
@@ -1648,14 +1656,6 @@
       "word": "儿童掉入污水井两成人施救遇难",
       "onboard_time": 1698820713,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479392,
-      "num": 479392,
-      "word": "男子回应退婚用16.8万彩礼辞职旅行",
-      "onboard_time": 1698976354,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1905,6 +1905,14 @@
       "onboard_time": 1698883536,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 419629,
+      "num": 259852,
+      "word": "戴比尔斯 檀健次",
+      "onboard_time": 1698977973,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 418198,
@@ -2257,6 +2265,14 @@
       "onboard_time": 1698799174,
       "rank": 17,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 371465,
+      "num": 262158,
+      "word": "王一博香奈儿大秀内场",
+      "onboard_time": 1698977012,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 366703,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1698818314,
       "rank": 20,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 313473,
-      "num": 262158,
-      "word": "王一博香奈儿大秀内场",
-      "onboard_time": 1698977012,
-      "rank": 18,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 312758,
@@ -3059,14 +3067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271134,
-      "num": 259852,
-      "word": "戴比尔斯 檀健次",
-      "onboard_time": 1698977973,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 270861,
       "num": 255377,
       "word": "卢昱晓cos小猫咪",
@@ -3177,6 +3177,14 @@
       "onboard_time": 1698864795,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 261564,
+      "num": 232593,
+      "word": "以爱为营全员营了个大动作",
+      "onboard_time": 1698977793,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 261306,
@@ -3347,6 +3355,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 248478,
+      "num": 232234,
+      "word": "澹台烬廿白羽重生还是上下级",
+      "onboard_time": 1698978093,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248236,
       "num": 248236,
       "word": "秦霄贤说兄弟媳妇儿多看不了一点",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1698809495,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243161,
+      "num": 231810,
+      "word": "如何把身体里的病气排出去",
+      "onboard_time": 1698977554,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 242762,
@@ -3545,14 +3569,6 @@
       "onboard_time": 1698803733,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231002,
-      "num": 215454,
-      "word": "如何把身体里的病气排出去",
-      "onboard_time": 1698977554,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 230956,
@@ -3803,14 +3819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 217663,
-      "num": 217663,
-      "word": "以爱为营全员营了个大动作",
-      "onboard_time": 1698977793,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216434,
       "num": 189487,
       "word": "迪丽热巴极速爱情",
@@ -4003,6 +4011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206273,
+      "num": 235391,
+      "word": "7岁女童体育课猝死9分钟后才做CPR",
+      "onboard_time": 1698974912,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206044,
       "num": 206044,
       "word": "其实没有什么隔辈亲",
@@ -4097,14 +4113,6 @@
       "onboard_time": 1698971554,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199165,
-      "num": 199165,
-      "word": "7岁女童体育课猝死9分钟后才做CPR",
-      "onboard_time": 1698974912,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198319,
@@ -4531,14 +4539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 183269,
-      "num": 183269,
-      "word": "澹台烬廿白羽重生还是上下级",
-      "onboard_time": 1698978093,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183223,
       "num": 183223,
       "word": "今年的春节档电影",
@@ -4585,6 +4585,14 @@
       "onboard_time": 1698749614,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178944,
+      "num": 178944,
+      "word": "金鸡奖 天气凉了请穿衣服",
+      "onboard_time": 1698977494,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 178874,
@@ -4641,14 +4649,6 @@
       "onboard_time": 1698805231,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177247,
-      "num": 177247,
-      "word": "金鸡奖 天气凉了请穿衣服",
-      "onboard_time": 1698977494,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 177155,
@@ -5929,6 +5929,14 @@
       "onboard_time": 1698927874,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 120581,
+      "num": 120581,
+      "word": "陶昕然新片入围金鸡",
+      "onboard_time": 1698977432,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 120544,
