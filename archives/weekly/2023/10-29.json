@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699011260997,
+  "endTime": 1699014806232,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -47,6 +47,14 @@
       "num": 3533666,
       "word": "迪丽热巴花团锦簇复古造型",
       "onboard_time": 1699009233,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 3267930,
+      "num": 3267930,
+      "word": "红毯没有王法 只有迪丽热巴的想法",
+      "onboard_time": 1699010675,
       "rank": 0,
       "category": "作品衍生,时尚"
     },
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 2670540,
-      "num": 789986,
+      "num": 809907,
       "word": "娜扎请和我结婚",
       "onboard_time": 1699006713,
       "rank": 46,
@@ -153,14 +161,6 @@
       "onboard_time": 1698847479,
       "rank": 16,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2615096,
-      "num": 2615096,
-      "word": "红毯没有王法 只有迪丽热巴的想法",
-      "onboard_time": 1699010675,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2607465,
@@ -1035,6 +1035,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1286540,
+      "num": 1286540,
+      "word": "李思思开口 分不清谁在主持",
+      "onboard_time": 1699011398,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1274245,
       "num": 430093,
       "word": "杨紫 还没出图",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1698677019,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088644,
+      "num": 1088644,
+      "word": "ELLE风尚大典",
+      "onboard_time": 1699013856,
+      "rank": 3,
+      "category": "时尚"
     },
     {
       "raw_hot": 1087706,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1698633391,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952372,
+      "num": 952372,
+      "word": "GEN对战BLG",
+      "onboard_time": 1698999093,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 949667,
@@ -2011,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809747,
+      "num": 809747,
+      "word": "魏大勋好矜贵",
+      "onboard_time": 1699008459,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 809314,
       "num": 366701,
       "word": "给安陵容打伞的是晴川",
@@ -2060,7 +2092,7 @@
     },
     {
       "raw_hot": 793384,
-      "num": 793384,
+      "num": 829602,
       "word": "教育部要求中小学校确保学生课间正常活动",
       "onboard_time": 1699007079,
       "rank": 29,
@@ -2963,14 +2995,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 619532,
-      "num": 512271,
-      "word": "魏大勋好矜贵",
-      "onboard_time": 1699008459,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 618630,
       "num": 618630,
       "word": "这英 没有那姐哪来的我",
@@ -3395,14 +3419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579676,
-      "num": 579676,
-      "word": "GEN对战BLG",
-      "onboard_time": 1698999093,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 579320,
       "num": 579320,
       "word": "24岁男子3颗烂牙一直没治感染大脑",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1698843154,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 521478,
+      "num": 521478,
+      "word": "BLG和GEN决胜局",
+      "onboard_time": 1699013138,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 519981,
@@ -4795,6 +4819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 419436,
+      "num": 419436,
+      "word": "刘雨昕 女战神",
+      "onboard_time": 1699011337,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 418639,
       "num": 295799,
       "word": "流浪地球3前进三发布会",
@@ -4929,6 +4961,14 @@
       "onboard_time": 1698851736,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409381,
+      "num": 810058,
+      "word": "六问河南23岁女教师留遗书去世",
+      "onboard_time": 1699009475,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409315,
@@ -5203,6 +5243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390627,
+      "num": 257016,
+      "word": "时代少年团走红毯像军训",
+      "onboard_time": 1699014455,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390058,
       "num": 390058,
       "word": "WTT法兰克福冠军赛2023",
@@ -5371,6 +5419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 381057,
+      "num": 256591,
+      "word": "赵丽颖美人肩",
+      "onboard_time": 1699013856,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 380861,
       "num": 380861,
       "word": "主播讲国考知识点讲嗨了忘记直播",
@@ -5505,6 +5561,14 @@
       "onboard_time": 1698977012,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 371355,
+      "num": 203246,
+      "word": "by2高铁无座赶音乐节",
+      "onboard_time": 1699012836,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 371078,
@@ -5657,6 +5721,14 @@
       "onboard_time": 1698593672,
       "rank": 3,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 358776,
+      "num": 358776,
+      "word": "牙膏醒醒",
+      "onboard_time": 1699012957,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 358643,
@@ -5897,6 +5969,14 @@
       "onboard_time": 1698747393,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344418,
+      "num": 201957,
+      "word": "谁给赵昭仪封的",
+      "onboard_time": 1699012476,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 344195,
@@ -6169,14 +6249,6 @@
       "onboard_time": 1698646650,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326647,
-      "num": 326647,
-      "word": "六问河南23岁女教师留遗书去世",
-      "onboard_time": 1699009475,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326373,
@@ -7227,6 +7299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 275719,
+      "num": 256314,
+      "word": "我的工位成了公司的网红打卡点",
+      "onboard_time": 1699011581,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "林俊杰告黑获赔2万",
@@ -7729,6 +7809,14 @@
       "onboard_time": 1698967285,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258300,
+      "num": 258300,
+      "word": "多方回应网传合肥一小学生校内死亡",
+      "onboard_time": 1699014095,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258255,
@@ -9267,6 +9355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218832,
+      "num": 197727,
+      "word": "ELLE内场",
+      "onboard_time": 1699014634,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218602,
       "num": 218602,
       "word": "在评论区开凤凰传奇演唱会",
@@ -9617,6 +9713,14 @@
       "onboard_time": 1698582331,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209845,
+      "num": 196371,
+      "word": "龚俊香芋色长西装",
+      "onboard_time": 1699014272,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209730,
@@ -9971,6 +10075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203858,
+      "num": 194026,
+      "word": "张小斐 黑夜里闪耀的钻石",
+      "onboard_time": 1699014155,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203820,
       "num": 203820,
       "word": "万圣节cos",
@@ -10041,6 +10153,14 @@
       "onboard_time": 1698657211,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203283,
+      "num": 203283,
+      "word": "水瓶座结束一段关系的原因",
+      "onboard_time": 1699008696,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 203265,
@@ -10155,6 +10275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201380,
+      "num": 192331,
+      "word": "黄曦彦 我的家人也在猪圈长大",
+      "onboard_time": 1699013674,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201209,
       "num": 201209,
       "word": "原神哥去大B庄园解说",
@@ -10209,14 +10337,6 @@
       "onboard_time": 1698587615,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200404,
-      "num": 200404,
-      "word": "水瓶座结束一段关系的原因",
-      "onboard_time": 1699008696,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 200254,
@@ -10337,6 +10457,14 @@
       "onboard_time": 1698643954,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198684,
+      "num": 195017,
+      "word": "小鬼参考粉丝意见妆发",
+      "onboard_time": 1699014213,
+      "rank": 35,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 198654,
@@ -13209,6 +13337,14 @@
       "onboard_time": 1698553052,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154483,
+      "num": 191281,
+      "word": "张万森满脑子都是林北星",
+      "onboard_time": 1699012235,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 154134,
@@ -16315,6 +16451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91475,
+      "num": 462009,
+      "word": "原神4.2版本直播",
+      "onboard_time": 1699012836,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90931,
       "num": 90931,
       "word": "梦岚掉点",
@@ -17371,6 +17515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13983,
+      "num": 193266,
+      "word": "快手电商晚6点的好生活",
+      "onboard_time": 1699007374,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13148,
       "num": 14377,
       "word": "明日方舟 橘里橘气",
@@ -17393,14 +17545,6 @@
       "onboard_time": 1698695053,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7839,
-      "num": 175631,
-      "word": "快手电商晚6点的好生活",
-      "onboard_time": 1699007374,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 5264,

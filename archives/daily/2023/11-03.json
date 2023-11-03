@@ -1,12 +1,20 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1699011260997,
+  "endTime": 1699014806232,
   "band_list": [
     {
       "raw_hot": 3533666,
       "num": 3533666,
       "word": "迪丽热巴花团锦簇复古造型",
       "onboard_time": 1699009233,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 3267930,
+      "num": 3267930,
+      "word": "红毯没有王法 只有迪丽热巴的想法",
+      "onboard_time": 1699010675,
       "rank": 0,
       "category": "作品衍生,时尚"
     },
@@ -20,19 +28,11 @@
     },
     {
       "raw_hot": 2670540,
-      "num": 789986,
+      "num": 809907,
       "word": "娜扎请和我结婚",
       "onboard_time": 1699006713,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2615096,
-      "num": 2615096,
-      "word": "红毯没有王法 只有迪丽热巴的想法",
-      "onboard_time": 1699010675,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2202840,
@@ -179,6 +179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1286540,
+      "num": 1286540,
+      "word": "李思思开口 分不清谁在主持",
+      "onboard_time": 1699011398,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1274245,
       "num": 430093,
       "word": "杨紫 还没出图",
@@ -217,6 +225,14 @@
       "onboard_time": 1698976354,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088644,
+      "num": 1088644,
+      "word": "ELLE风尚大典",
+      "onboard_time": 1699013856,
+      "rank": 3,
+      "category": "时尚"
     },
     {
       "raw_hot": 1067560,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952372,
+      "num": 952372,
+      "word": "GEN对战BLG",
+      "onboard_time": 1698999093,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 893784,
       "num": 368415,
       "word": "我三十几我也不是大人",
@@ -315,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 809747,
+      "num": 809747,
+      "word": "魏大勋好矜贵",
+      "onboard_time": 1699008459,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 796109,
       "num": 372037,
       "word": "金莎新综艺和男友接吻镜头",
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 793384,
-      "num": 793384,
+      "num": 829602,
       "word": "教育部要求中小学校确保学生课间正常活动",
       "onboard_time": 1699007079,
       "rank": 29,
@@ -483,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619532,
-      "num": 512271,
-      "word": "魏大勋好矜贵",
-      "onboard_time": 1699008459,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 617520,
       "num": 564309,
       "word": "重庆女生上下班坐14次扶梯获公司补贴",
@@ -545,14 +569,6 @@
       "onboard_time": 1698981876,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579676,
-      "num": 579676,
-      "word": "GEN对战BLG",
-      "onboard_time": 1698999093,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 564700,
@@ -617,6 +633,14 @@
       "onboard_time": 1699001076,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521478,
+      "num": 521478,
+      "word": "BLG和GEN决胜局",
+      "onboard_time": 1699013138,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 513555,
@@ -795,6 +819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 419436,
+      "num": 419436,
+      "word": "刘雨昕 女战神",
+      "onboard_time": 1699011337,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 418639,
       "num": 295799,
       "word": "流浪地球3前进三发布会",
@@ -825,6 +857,14 @@
       "onboard_time": 1698971915,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 409381,
+      "num": 810058,
+      "word": "六问河南23岁女教师留遗书去世",
+      "onboard_time": 1699009475,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405552,
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390627,
+      "num": 257016,
+      "word": "时代少年团走红毯像军训",
+      "onboard_time": 1699014455,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390017,
       "num": 244997,
       "word": "萧亚轩二次手术",
@@ -881,6 +929,14 @@
       "onboard_time": 1699006955,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381057,
+      "num": 256591,
+      "word": "赵丽颖美人肩",
+      "onboard_time": 1699013856,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 380772,
@@ -921,6 +977,22 @@
       "onboard_time": 1698977012,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 371355,
+      "num": 203246,
+      "word": "by2高铁无座赶音乐节",
+      "onboard_time": 1699012836,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 358776,
+      "num": 358776,
+      "word": "牙膏醒醒",
+      "onboard_time": 1699012957,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 358643,
@@ -979,6 +1051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 344418,
+      "num": 201957,
+      "word": "谁给赵昭仪封的",
+      "onboard_time": 1699012476,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344195,
       "num": 277042,
       "word": "黄景瑜终于不是素颜了",
@@ -1001,14 +1081,6 @@
       "onboard_time": 1698968308,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 326647,
-      "num": 326647,
-      "word": "六问河南23岁女教师留遗书去世",
-      "onboard_time": 1699009475,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326373,
@@ -1219,6 +1291,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 275719,
+      "num": 256314,
+      "word": "我的工位成了公司的网红打卡点",
+      "onboard_time": 1699011581,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274326,
       "num": 274326,
       "word": "爱吃面的公主请试青椒鸡蛋拌面",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1698967285,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258300,
+      "num": 258300,
+      "word": "多方回应网传合肥一小学生校内死亡",
+      "onboard_time": 1699014095,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258217,
@@ -1643,6 +1731,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 218832,
+      "num": 197727,
+      "word": "ELLE内场",
+      "onboard_time": 1699014634,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 217200,
       "num": 200324,
       "word": "流浪地球3有赵今麦",
@@ -1731,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209845,
+      "num": 196371,
+      "word": "龚俊香芋色长西装",
+      "onboard_time": 1699014272,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209506,
       "num": 209506,
       "word": "金鸡奖",
@@ -1771,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203858,
+      "num": 194026,
+      "word": "张小斐 黑夜里闪耀的钻石",
+      "onboard_time": 1699014155,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203572,
       "num": 203572,
       "word": "我要逆风去 老国货",
@@ -1785,6 +1897,14 @@
       "onboard_time": 1698991593,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203283,
+      "num": 203283,
+      "word": "水瓶座结束一段关系的原因",
+      "onboard_time": 1699008696,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 202441,
@@ -1803,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201380,
+      "num": 192331,
+      "word": "黄曦彦 我的家人也在猪圈长大",
+      "onboard_time": 1699013674,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "斗罗大鹿各自为营",
@@ -1819,14 +1947,6 @@
       "category": "互联网,演出"
     },
     {
-      "raw_hot": 200404,
-      "num": 200404,
-      "word": "水瓶座结束一段关系的原因",
-      "onboard_time": 1699008696,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199681,
       "num": 199681,
       "word": "美颜滤镜下的张钧甯",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1698999093,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198684,
+      "num": 195017,
+      "word": "小鬼参考粉丝意见妆发",
+      "onboard_time": 1699014213,
+      "rank": 35,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 198149,
@@ -2169,6 +2297,14 @@
       "onboard_time": 1698989314,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154483,
+      "num": 191281,
+      "word": "张万森满脑子都是林北星",
+      "onboard_time": 1699012235,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 153880,
@@ -2611,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91475,
+      "num": 462009,
+      "word": "原神4.2版本直播",
+      "onboard_time": 1699012836,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 89908,
       "num": 84136,
       "word": "缅北居民称当地物价暴涨三倍仍被疯抢",
@@ -2827,6 +2971,14 @@
       "category": "作品衍生,教育"
     },
     {
+      "raw_hot": 13983,
+      "num": 193266,
+      "word": "快手电商晚6点的好生活",
+      "onboard_time": 1699007374,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13148,
       "num": 14377,
       "word": "明日方舟 橘里橘气",
@@ -2841,14 +2993,6 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7839,
-      "num": 175631,
-      "word": "快手电商晚6点的好生活",
-      "onboard_time": 1699007374,
-      "rank": 39,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
