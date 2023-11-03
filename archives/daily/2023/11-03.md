@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/03 00:23:29 ~ 2023/11/03 20:33:26
+本榜单时间：2023/11/03 00:23:29 ~ 2023/11/03 20:49:32
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23" target="weibo">
+BLG战胜GEN（热度：4273103）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23" target="weibo">
@@ -27,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23" target="weibo">
+BLG晋级S13四强（热度：2894266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B%23" target="weibo">
 杨紫 两套造型（热度：2716617）
 </a>
@@ -35,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B7%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A%23" target="weibo">
 娜扎请和我结婚（热度：2670540）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23" target="weibo">
+GEN对战BLG（热度：2392638）
 </a>
 </li>
 
@@ -111,6 +129,12 @@ ELLE红毯（热度：2062330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81%23" target="weibo">
+李思思开口 分不清谁在主持（热度：1490189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%A2%86%E5%AF%BC%E7%9F%A5%E9%81%93%E4%BD%A0%E5%B9%B2%E4%BA%86%E5%BE%88%E5%A4%9A%E6%B4%BB%E7%9A%84%E7%A7%98%E8%AF%80%23" target="weibo">
 让领导知道你干了很多活的秘诀（热度：1486374）
 </a>
@@ -119,6 +143,12 @@ ELLE红毯（热度：2062330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E6%B0%91%E6%94%BF%E5%B1%80%20%E6%88%91%E8%87%AA%E5%B7%B1%E8%BF%87%E6%9D%A5%E4%BA%86%23" target="weibo">
 我是民政局 我自己过来了（热度：1479482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23" target="weibo">
+以爱为营开播（热度：1473530）
 </a>
 </li>
 
@@ -147,14 +177,20 @@ ELLE红毯（热度：2062330）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%80%9D%E5%BC%80%E5%8F%A3%20%E5%88%86%E4%B8%8D%E6%B8%85%E8%B0%81%E5%9C%A8%E4%B8%BB%E6%8C%81%23" target="weibo">
-李思思开口 分不清谁在主持（热度：1286540）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E8%BF%98%E6%B2%A1%E5%87%BA%E5%9B%BE%23" target="weibo">
+杨紫 还没出图（热度：1274245）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E8%BF%98%E6%B2%A1%E5%87%BA%E5%9B%BE%23" target="weibo">
-杨紫 还没出图（热度：1274245）
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E5%86%85%E5%9C%BA%23" target="weibo">
+ELLE内场（热度：1236482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1%23" target="weibo">
+GEN难道只研究了T1（热度：1221313）
 </a>
 </li>
 
@@ -225,12 +261,6 @@ ELLE风尚大典（热度：1088644）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23" target="weibo">
-GEN对战BLG（热度：952372）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%89%E5%8D%81%E5%87%A0%E6%88%91%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A4%A7%E4%BA%BA%23" target="weibo">
 我三十几我也不是大人（热度：893784）
 </a>
@@ -273,6 +303,12 @@ GEN对战BLG（热度：952372）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E9%BB%91%E5%A4%9C%E9%87%8C%E9%97%AA%E8%80%80%E7%9A%84%E9%92%BB%E7%9F%B3%23" target="weibo">
+张小斐 黑夜里闪耀的钻石（热度：808300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E6%96%B0%E7%BB%BC%E8%89%BA%E5%92%8C%E7%94%B7%E5%8F%8B%E6%8E%A5%E5%90%BB%E9%95%9C%E5%A4%B4%23" target="weibo">
 金莎新综艺和男友接吻镜头（热度：796109）
 </a>
@@ -287,6 +323,12 @@ GEN对战BLG（热度：952372）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9D%97%E4%B9%9D%E7%B2%89%E5%BA%95%E6%B6%B2%E6%88%90%E5%88%86%20%E4%BD%9C%E5%BC%8A%E7%97%95%E8%BF%B9%23" target="weibo">
 五块九粉底液成分 作弊痕迹（热度：792412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E5%85%B0%E5%8D%9A%23" target="weibo">
+Bin兰博（热度：787081）
 </a>
 </li>
 
@@ -351,6 +393,12 @@ GEN对战BLG（热度：952372）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%20%E4%B8%BB%E5%8A%A8%E9%80%89%E7%BA%A2%23" target="weibo">
+GEN 主动选红（热度：715822）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%BC%A5%E7%95%99%E4%B9%8B%E9%99%85%E8%80%81%E5%85%AC%E6%89%8D%E5%87%BA%E7%8E%B0%23" target="weibo">
 李玟弥留之际老公才出现（热度：706985）
 </a>
@@ -371,12 +419,6 @@ GEN对战BLG（热度：952372）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%9A%84%E8%85%B0%E5%8A%9B%23" target="weibo">
 时宴的腰力（热度：674361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GEN%E9%9A%BE%E9%81%93%E5%8F%AA%E7%A0%94%E7%A9%B6%E4%BA%86T1%23" target="weibo">
-GEN难道只研究了T1（热度：668825）
 </a>
 </li>
 
@@ -501,6 +543,12 @@ BLG和GEN决胜局（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23" target="weibo">
+多方回应网传合肥一小学生校内死亡（热度：510120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%20%E7%BA%A2%E5%8F%91%E7%BE%8E%E4%BA%BA%E9%B1%BC%23" target="weibo">
 喻言 红发美人鱼（热度：504671）
 </a>
@@ -533,6 +581,12 @@ BLG和GEN决胜局（热度：521478）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%89%A7%E5%86%AC%E8%87%B3%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 网剧冬至阵容官宣（热度：470675）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E8%86%8F%E9%86%92%E9%86%92%23" target="weibo">
+牙膏醒醒（热度：468892）
 </a>
 </li>
 
@@ -711,6 +765,12 @@ BLG和GEN决胜局（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%A5%BD%E9%AB%98%23" target="weibo">
+李宇春好高（热度：383294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BE%8E%E4%BA%BA%E8%82%A9%23" target="weibo">
 赵丽颖美人肩（热度：381057）
 </a>
@@ -749,12 +809,6 @@ BLG和GEN决胜局（热度：521478）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23by2%E9%AB%98%E9%93%81%E6%97%A0%E5%BA%A7%E8%B5%B6%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 by2高铁无座赶音乐节（热度：371355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E8%86%8F%E9%86%92%E9%86%92%23" target="weibo">
-牙膏醒醒（热度：358776）
 </a>
 </li>
 
@@ -849,6 +903,12 @@ by2高铁无座赶音乐节（热度：371355）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LPL%E6%8F%90%E5%89%8D%E9%94%81%E5%AE%9A%E5%86%B3%E8%B5%9B%E5%B8%AD%E4%BD%8D%23" target="weibo">
+LPL提前锁定决赛席位（热度：318500）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%92%8C%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%9A%84%E5%94%AE%E5%90%8E%E5%AD%A6%23" target="weibo">
 长相思和莲花楼的售后学（热度：317652）
 </a>
@@ -869,6 +929,12 @@ by2高铁无座赶音乐节（热度：371355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ELLE%E7%BA%A2%E6%AF%AF%E5%86%85%E5%9C%BA%23" target="weibo">
 ELLE红毯内场（热度：311196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E6%88%91%E6%BC%94%E4%B8%A4%E9%9B%86%23" target="weibo">
+以爱为营能不能让我演两集（热度：310133）
 </a>
 </li>
 
@@ -1011,14 +1077,14 @@ ELLE红毯内场（热度：311196）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E5%85%B0%E5%8D%9A%23" target="weibo">
-Bin兰博（热度：272070）
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%9B%9B%E5%85%B8%E5%86%85%E5%9C%BA%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23" target="weibo">
+ELLE盛典内场嘉宾名单（热度：270511）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%9B%9B%E5%85%B8%E5%86%85%E5%9C%BA%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23" target="weibo">
-ELLE盛典内场嘉宾名单（热度：270511）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%A5%E6%97%B6%E5%AE%B4%E5%87%BA%E5%9C%BA%E4%BA%86%23" target="weibo">
+该时宴出场了（热度：269987）
 </a>
 </li>
 
@@ -1077,12 +1143,6 @@ ELLE盛典内场嘉宾名单（热度：270511）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23" target="weibo">
-多方回应网传合肥一小学生校内死亡（热度：258300）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%85%AB%E5%BC%BA%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
 BLG八强赛先下一城（热度：258217）
 </a>
@@ -1107,14 +1167,14 @@ BLG八强赛先下一城（热度：258217）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23GEN%20%E4%B8%BB%E5%8A%A8%E9%80%89%E7%BA%A2%23" target="weibo">
-GEN 主动选红（热度：252777）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B9%E5%8F%B0%E7%83%AC%E5%BB%BF%E7%99%BD%E7%BE%BD%E9%87%8D%E7%94%9F%E8%BF%98%E6%98%AF%E4%B8%8A%E4%B8%8B%E7%BA%A7%23" target="weibo">
+澹台烬廿白羽重生还是上下级（热度：252697）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B9%E5%8F%B0%E7%83%AC%E5%BB%BF%E7%99%BD%E7%BE%BD%E9%87%8D%E7%94%9F%E8%BF%98%E6%98%AF%E4%B8%8A%E4%B8%8B%E7%BA%A7%23" target="weibo">
-澹台烬廿白羽重生还是上下级（热度：252697）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%A6%99%E8%8A%8B%E8%89%B2%E9%95%BF%E8%A5%BF%E8%A3%85%23" target="weibo">
+龚俊香芋色长西装（热度：250042）
 </a>
 </li>
 
@@ -1311,12 +1371,6 @@ GEN 主动选红（热度：252777）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E5%86%85%E5%9C%BA%23" target="weibo">
-ELLE内场（热度：218832）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E6%9C%89%E8%B5%B5%E4%BB%8A%E9%BA%A6%23" target="weibo">
 流浪地球3有赵今麦（热度：217200）
 </a>
@@ -1383,12 +1437,6 @@ ELLE内场（热度：218832）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%A6%99%E8%8A%8B%E8%89%B2%E9%95%BF%E8%A5%BF%E8%A3%85%23" target="weibo">
-龚俊香芋色长西装（热度：209845）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
 金鸡奖（热度：209506）
 </a>
@@ -1397,6 +1445,12 @@ ELLE内场（热度：218832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%BB%E7%96%97%E8%B4%AB%E8%A1%80%E7%9A%84%E5%B0%8F%E6%96%B9%E5%AD%90%23" target="weibo">
 治疗贫血的小方子（热度：208879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A5%87%E5%A2%A8%20%E8%84%B1%E5%8F%A3%E7%A7%80%E7%9A%84%E6%A0%B9%E8%BF%98%E6%98%AF%E5%9C%A8%E7%BA%BF%E4%B8%8B%23" target="weibo">
+周奇墨 脱口秀的根还是在线下（热度：208023）
 </a>
 </li>
 
@@ -1415,12 +1469,6 @@ ELLE内场（热度：218832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%A4%9A%E4%BA%86%E5%85%A8%E6%98%AF%E9%97%AE%E9%A2%98%20%E5%81%9A%E5%A4%9A%E4%BA%86%E5%85%A8%E6%98%AF%E7%AD%94%E6%A1%88%23" target="weibo">
 想多了全是问题 做多了全是答案（热度：204987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E9%BB%91%E5%A4%9C%E9%87%8C%E9%97%AA%E8%80%80%E7%9A%84%E9%92%BB%E7%9F%B3%23" target="weibo">
-张小斐 黑夜里闪耀的钻石（热度：203858）
 </a>
 </li>
 
@@ -1887,6 +1935,12 @@ iG夺冠五周年（热度：141030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.2%E7%89%88%E6%9C%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
+原神4.2版本直播（热度：132674）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E8%81%8C%E5%9C%BA%E6%88%8F%23" target="weibo">
 吴宣仪职场戏（热度：132669）
 </a>
@@ -1983,6 +2037,12 @@ iG夺冠五周年（热度：141030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%B9%AE%E6%95%B0%E9%87%8F%E8%AE%A9%E6%9C%B1%E9%B9%AE%E5%8F%91%E7%8E%B0%E7%AC%AC%E4%B8%80%E4%BA%BA%E5%A7%8B%E6%96%99%E6%9C%AA%E5%8F%8A%23" target="weibo">
+朱鹮数量让朱鹮发现第一人始料未及（热度：116146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E5%8F%B8%E7%A4%BC%20%E6%98%AF%E4%BD%A0%E5%90%97%23" target="weibo">
 齐司礼 是你吗（热度：115978）
 </a>
@@ -2069,12 +2129,6 @@ iG夺冠五周年（热度：141030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%84%88%E7%B3%BB%E6%81%8B%E4%BA%BA%23" target="weibo">
 治愈系恋人（热度：91511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.2%E7%89%88%E6%9C%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
-原神4.2版本直播（热度：91475）
 </a>
 </li>
 
@@ -2235,14 +2289,14 @@ iG夺冠五周年（热度：141030）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E8%B0%88%E5%A6%82%E4%BD%95%E8%B7%9F%E5%A6%88%E5%A6%88%E7%9B%B8%E5%A4%84%23" target="weibo">
-希林娜依高谈如何跟妈妈相处（热度：14343）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E7%94%B5%E5%95%86%E6%99%9A6%E7%82%B9%E7%9A%84%E5%A5%BD%E7%94%9F%E6%B4%BB%23" target="weibo">
+快手电商晚6点的好生活（热度：14759）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E7%94%B5%E5%95%86%E6%99%9A6%E7%82%B9%E7%9A%84%E5%A5%BD%E7%94%9F%E6%B4%BB%23" target="weibo">
-快手电商晚6点的好生活（热度：13983）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E8%B0%88%E5%A6%82%E4%BD%95%E8%B7%9F%E5%A6%88%E5%A6%88%E7%9B%B8%E5%A4%84%23" target="weibo">
+希林娜依高谈如何跟妈妈相处（热度：14343）
 </a>
 </li>
 

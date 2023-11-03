@@ -1,7 +1,15 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1699014806232,
+  "endTime": 1699015772743,
   "band_list": [
+    {
+      "raw_hot": 4273103,
+      "num": 4273103,
+      "word": "BLG战胜GEN",
+      "onboard_time": 1699015058,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 3533666,
       "num": 3533666,
@@ -19,6 +27,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2894266,
+      "num": 2894266,
+      "word": "BLG晋级S13四强",
+      "onboard_time": 1699015180,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2716617,
       "num": 2716617,
       "word": "杨紫 两套造型",
@@ -28,11 +44,19 @@
     },
     {
       "raw_hot": 2670540,
-      "num": 809907,
+      "num": 990388,
       "word": "娜扎请和我结婚",
       "onboard_time": 1699006713,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2392638,
+      "num": 2392638,
+      "word": "GEN对战BLG",
+      "onboard_time": 1698999093,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 2202840,
@@ -131,6 +155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1490189,
+      "num": 1490189,
+      "word": "李思思开口 分不清谁在主持",
+      "onboard_time": 1699011398,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1486374,
       "num": 1486374,
       "word": "让领导知道你干了很多活的秘诀",
@@ -145,6 +177,14 @@
       "onboard_time": 1698975269,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1473530,
+      "num": 1473530,
+      "word": "以爱为营开播",
+      "onboard_time": 1699014881,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1466295,
@@ -179,20 +219,28 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1286540,
-      "num": 1286540,
-      "word": "李思思开口 分不清谁在主持",
-      "onboard_time": 1699011398,
-      "rank": 1,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1274245,
       "num": 430093,
       "word": "杨紫 还没出图",
       "onboard_time": 1698998913,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1236482,
+      "num": 1236482,
+      "word": "ELLE内场",
+      "onboard_time": 1699014634,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1221313,
+      "num": 1221313,
+      "word": "GEN难道只研究了T1",
+      "onboard_time": 1699004433,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1187378,
@@ -283,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 952372,
-      "num": 952372,
-      "word": "GEN对战BLG",
-      "onboard_time": 1698999093,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 893784,
       "num": 368415,
       "word": "我三十几我也不是大人",
@@ -347,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 808300,
+      "num": 808300,
+      "word": "张小斐 黑夜里闪耀的钻石",
+      "onboard_time": 1699014155,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 796109,
       "num": 372037,
       "word": "金莎新综艺和男友接吻镜头",
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 793384,
-      "num": 829602,
+      "num": 1037347,
       "word": "教育部要求中小学校确保学生课间正常活动",
       "onboard_time": 1699007079,
       "rank": 29,
@@ -369,6 +417,14 @@
       "onboard_time": 1698992372,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 787081,
+      "num": 787081,
+      "word": "Bin兰博",
+      "onboard_time": 1699002753,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 785854,
@@ -451,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 715822,
+      "num": 715822,
+      "word": "GEN 主动选红",
+      "onboard_time": 1699002513,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 706985,
       "num": 402900,
       "word": "李玟弥留之际老公才出现",
@@ -481,14 +545,6 @@
       "onboard_time": 1698990454,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 668825,
-      "num": 668825,
-      "word": "GEN难道只研究了T1",
-      "onboard_time": 1699004433,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 660096,
@@ -651,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510120,
+      "num": 1076583,
+      "word": "多方回应网传合肥一小学生校内死亡",
+      "onboard_time": 1699014095,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 504671,
       "num": 504671,
       "word": "喻言 红发美人鱼",
@@ -697,6 +761,14 @@
       "onboard_time": 1698979533,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 468892,
+      "num": 468892,
+      "word": "牙膏醒醒",
+      "onboard_time": 1699012957,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 465600,
@@ -931,8 +1003,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383294,
+      "num": 383294,
+      "word": "李宇春好高",
+      "onboard_time": 1699014881,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 381057,
-      "num": 256591,
+      "num": 380269,
       "word": "赵丽颖美人肩",
       "onboard_time": 1699013856,
       "rank": 21,
@@ -980,19 +1060,11 @@
     },
     {
       "raw_hot": 371355,
-      "num": 203246,
+      "num": 324548,
       "word": "by2高铁无座赶音乐节",
       "onboard_time": 1699012836,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 358776,
-      "num": 358776,
-      "word": "牙膏醒醒",
-      "onboard_time": 1699012957,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 358643,
@@ -1052,7 +1124,7 @@
     },
     {
       "raw_hot": 344418,
-      "num": 201957,
+      "num": 304924,
       "word": "谁给赵昭仪封的",
       "onboard_time": 1699012476,
       "rank": 26,
@@ -1115,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318500,
+      "num": 318500,
+      "word": "LPL提前锁定决赛席位",
+      "onboard_time": 1699015417,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317652,
       "num": 317652,
       "word": "长相思和莲花楼的售后学",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1698936758,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 310133,
+      "num": 310133,
+      "word": "以爱为营能不能让我演两集",
+      "onboard_time": 1699014881,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 307570,
@@ -1196,7 +1284,7 @@
     },
     {
       "raw_hot": 290557,
-      "num": 200349,
+      "num": 249909,
       "word": "赵昭仪喜欢上热巴的酸奶疙瘩了",
       "onboard_time": 1699009773,
       "rank": 35,
@@ -1331,20 +1419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272070,
-      "num": 272070,
-      "word": "Bin兰博",
-      "onboard_time": 1699002753,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 270511,
       "num": 270511,
       "word": "ELLE盛典内场嘉宾名单",
       "onboard_time": 1698979593,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 269987,
+      "num": 269987,
+      "word": "该时宴出场了",
+      "onboard_time": 1699015180,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 268579,
@@ -1419,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258300,
-      "num": 258300,
-      "word": "多方回应网传合肥一小学生校内死亡",
-      "onboard_time": 1699014095,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 258217,
       "num": 258217,
       "word": "BLG八强赛先下一城",
@@ -1459,20 +1539,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 252777,
-      "num": 252777,
-      "word": "GEN 主动选红",
-      "onboard_time": 1699002513,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 252697,
       "num": 252697,
       "word": "澹台烬廿白羽重生还是上下级",
       "onboard_time": 1698978093,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250042,
+      "num": 250042,
+      "word": "龚俊香芋色长西装",
+      "onboard_time": 1699014272,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249320,
@@ -1508,7 +1588,7 @@
     },
     {
       "raw_hot": 244653,
-      "num": 252452,
+      "num": 380325,
       "word": "奶奶为刚出生孙子送10万见面礼",
       "onboard_time": 1699006713,
       "rank": 29,
@@ -1731,14 +1811,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 218832,
-      "num": 197727,
-      "word": "ELLE内场",
-      "onboard_time": 1699014634,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 217200,
       "num": 200324,
       "word": "流浪地球3有赵今麦",
@@ -1827,14 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209845,
-      "num": 196371,
-      "word": "龚俊香芋色长西装",
-      "onboard_time": 1699014272,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 209506,
       "num": 209506,
       "word": "金鸡奖",
@@ -1849,6 +1913,14 @@
       "onboard_time": 1698980015,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208023,
+      "num": 250026,
+      "word": "周奇墨 脱口秀的根还是在线下",
+      "onboard_time": 1699015539,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 207066,
@@ -1875,14 +1947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203858,
-      "num": 194026,
-      "word": "张小斐 黑夜里闪耀的钻石",
-      "onboard_time": 1699014155,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 203572,
       "num": 203572,
       "word": "我要逆风去 老国货",
@@ -1900,7 +1964,7 @@
     },
     {
       "raw_hot": 203283,
-      "num": 203283,
+      "num": 249942,
       "word": "水瓶座结束一段关系的原因",
       "onboard_time": 1699008696,
       "rank": 37,
@@ -1924,7 +1988,7 @@
     },
     {
       "raw_hot": 201380,
-      "num": 192331,
+      "num": 249958,
       "word": "黄曦彦 我的家人也在猪圈长大",
       "onboard_time": 1699013674,
       "rank": 41,
@@ -2499,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132674,
+      "num": 811208,
+      "word": "原神4.2版本直播",
+      "onboard_time": 1699012836,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132669,
       "num": 132669,
       "word": "吴宣仪职场戏",
@@ -2627,6 +2699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 116146,
+      "num": 258794,
+      "word": "朱鹮数量让朱鹮发现第一人始料未及",
+      "onboard_time": 1699015658,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115978,
       "num": 131225,
       "word": "齐司礼 是你吗",
@@ -2745,14 +2825,6 @@
       "onboard_time": 1698935918,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91475,
-      "num": 462009,
-      "word": "原神4.2版本直播",
-      "onboard_time": 1699012836,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 89908,
@@ -2908,7 +2980,7 @@
     },
     {
       "raw_hot": 42050,
-      "num": 1714671,
+      "num": 2599413,
       "word": "一图剧透2023进博会",
       "onboard_time": 1698999452,
       "rank": 2,
@@ -2963,20 +3035,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14759,
+      "num": 252208,
+      "word": "快手电商晚6点的好生活",
+      "onboard_time": 1699007374,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 14343,
       "num": 16122,
       "word": "希林娜依高谈如何跟妈妈相处",
       "onboard_time": 1698949097,
       "rank": 49,
       "category": "作品衍生,教育"
-    },
-    {
-      "raw_hot": 13983,
-      "num": 193266,
-      "word": "快手电商晚6点的好生活",
-      "onboard_time": 1699007374,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 13148,
