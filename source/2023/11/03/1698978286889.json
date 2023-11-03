@@ -1,0 +1,408 @@
+{
+  "runTime": 1698978286889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277464,
+        "num": 572408,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 139763,
+        "num": 571252,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 84489,
+        "num": 559642,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1198217,
+        "num": 556054,
+        "word": "助学金事件当事人称已搬离宿舍",
+        "onboard_time": 1698970114,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973696,
+        "num": 542327,
+        "word": "我爸用20年证明辣条不是垃圾食品",
+        "onboard_time": 1698975331,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542031,
+        "num": 542031,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537819,
+        "num": 537819,
+        "word": "举报助学金被挤男生让网友别转钱了",
+        "onboard_time": 1698973055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479392,
+        "num": 479392,
+        "word": "男子回应退婚用16.8万彩礼辞职旅行",
+        "onboard_time": 1698976354,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270312,
+        "num": 270312,
+        "word": "产妇大出血近8000毫升医护抢救7小时",
+        "onboard_time": 1698939873,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266885,
+        "num": 266885,
+        "word": "快递小哥迟到可能是遇上了沙尘暴",
+        "onboard_time": 1698974671,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1836183,
+        "num": 266390,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1479482,
+        "num": 265996,
+        "word": "我是民政局 我自己过来了",
+        "onboard_time": 1698975269,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1066618,
+        "num": 265334,
+        "word": "李登辉之女不满父亲被归为中国人",
+        "onboard_time": 1698976652,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 919527,
+        "num": 265058,
+        "word": "体育课短跑猝死女童家长发声",
+        "onboard_time": 1698970053,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679963,
+        "num": 264393,
+        "word": "白百何受伤",
+        "onboard_time": 1698977733,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653990,
+        "num": 263785,
+        "word": "秦岚 我不太有综艺感",
+        "onboard_time": 1698972093,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579321,
+        "num": 263498,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449883,
+        "num": 262800,
+        "word": "报道巴以冲突的中国战地女记者陈慧慧",
+        "onboard_time": 1698974969,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 313473,
+        "num": 262158,
+        "word": "王一博香奈儿大秀内场",
+        "onboard_time": 1698977012,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 294716,
+        "num": 261780,
+        "word": "我恋5女嘉宾因为男嘉宾三天哭5次",
+        "onboard_time": 1698975210,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 261287,
+        "word": "巴以冲突升级",
+        "onboard_time": 1698939396,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 282460,
+        "num": 260846,
+        "word": "当婚姻被彩礼变成一场交易",
+        "onboard_time": 1698969690,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271134,
+        "num": 259852,
+        "word": "戴比尔斯 檀健次",
+        "onboard_time": 1698977973,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 259798,
+        "num": 259798,
+        "word": "赵寅成喂韩孝周吃饭",
+        "onboard_time": 1698970713,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255719,
+        "num": 255719,
+        "word": "金鸡奖给周冬雨于适P了衣服",
+        "onboard_time": 1698926435,
+        "rank": 24,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 247099,
+        "num": 247099,
+        "word": "故宫银杏壁纸",
+        "onboard_time": 1698975151,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 226515,
+        "num": 226515,
+        "word": "没想到甄嬛传还能出试卷",
+        "onboard_time": 1698974310,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224305,
+        "num": 224305,
+        "word": "陈奕迅唱了好多年没唱的歌",
+        "onboard_time": 1698971915,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217663,
+        "num": 217663,
+        "word": "以爱为营全员营了个大动作",
+        "onboard_time": 1698977793,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216389,
+        "num": 216389,
+        "word": "库克称iPhone15在中国表现良好",
+        "onboard_time": 1698971432,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231002,
+        "num": 215454,
+        "word": "如何把身体里的病气排出去",
+        "onboard_time": 1698977554,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213519,
+        "num": 213519,
+        "word": "女生毕业实习父母每天趴窗等下班",
+        "onboard_time": 1698966264,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213662,
+        "num": 207914,
+        "word": "火星情报局开播",
+        "onboard_time": 1698976951,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199165,
+        "num": 199165,
+        "word": "7岁女童体育课猝死9分钟后才做CPR",
+        "onboard_time": 1698974912,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198277,
+        "num": 198277,
+        "word": "周冬雨张艺兴同框生图",
+        "onboard_time": 1698973770,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192430,
+        "num": 192430,
+        "word": "24个美院人画猫",
+        "onboard_time": 1698976291,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 183269,
+        "num": 183269,
+        "word": "澹台烬廿白羽重生还是上下级",
+        "onboard_time": 1698978093,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182279,
+        "num": 182279,
+        "word": "长相思和莲花楼的售后学",
+        "onboard_time": 1698966984,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178370,
+        "num": 178370,
+        "word": "流感和支原体肺炎有哪些区别",
+        "onboard_time": 1698976593,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177247,
+        "num": 177247,
+        "word": "金鸡奖 天气凉了请穿衣服",
+        "onboard_time": 1698977494,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176820,
+        "num": 176820,
+        "word": "支原体肺炎的中医治疗思路",
+        "onboard_time": 1698976354,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160313,
+        "num": 160313,
+        "word": "小学生劳动课做饭出锅就被抢光了",
+        "onboard_time": 1698939272,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153258,
+        "num": 153258,
+        "word": "很享受女朋友教我参与她的生理期",
+        "onboard_time": 1698973770,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "以爱为营今日开播",
+        "onboard_time": 1698976652,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148454,
+        "num": 148454,
+        "word": "福建一男子被闸杆砸中头7日后去世",
+        "onboard_time": 1698969509,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137579,
+        "num": 137579,
+        "word": "孩子手指夹断警车开道送医顺利手术",
+        "onboard_time": 1698974432,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136693,
+        "num": 136693,
+        "word": "民警上门抢手机怒吼骗子拦截30万",
+        "onboard_time": 1698978212,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134546,
+        "num": 134546,
+        "word": "卧龙凤雏果然是同时出现的",
+        "onboard_time": 1698975752,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134034,
+        "num": 134034,
+        "word": "焦虑的老纪 被指责的王诗晴",
+        "onboard_time": 1698976111,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129984,
+        "num": 129984,
+        "word": "张小斐 反转大女主电影",
+        "onboard_time": 1698975089,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": null
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698975200850,
+  "endTime": 1698978286889,
   "band_list": [
     {
       "raw_hot": 2202840,
@@ -19,6 +19,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1836183,
+      "num": 266390,
+      "word": "六公主公开处刑侯雯元",
+      "onboard_time": 1698975689,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1479482,
+      "num": 265996,
+      "word": "我是民政局 我自己过来了",
+      "onboard_time": 1698975269,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1367853,
       "num": 340642,
       "word": "巴以冲突升级",
@@ -35,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066618,
+      "num": 265334,
+      "word": "李登辉之女不满父亲被归为中国人",
+      "onboard_time": 1698976652,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1061192,
       "num": 345420,
       "word": "秦岚 我不太有综艺感",
@@ -47,6 +71,14 @@
       "num": 592013,
       "word": "举报助学金被挤男生让网友别转钱了",
       "onboard_time": 1698973055,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973696,
+      "num": 542327,
+      "word": "我爸用20年证明辣条不是垃圾食品",
+      "onboard_time": 1698975331,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -83,12 +115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 679963,
+      "num": 264393,
+      "word": "白百何受伤",
+      "onboard_time": 1698977733,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677277,
       "num": 677277,
       "word": "一碗拌面里有199只手剥龙虾",
       "onboard_time": 1698935678,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 579321,
+      "num": 263498,
+      "word": "李连杰",
+      "onboard_time": 1698977494,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 564700,
@@ -107,11 +155,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 542031,
+      "num": 542031,
+      "word": "李佳琦直播间疑为冲销量未付先送",
+      "onboard_time": 1698977675,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501795,
       "num": 501795,
       "word": "女生毕业实习父母每天趴窗等下班",
       "onboard_time": 1698966264,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479392,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -144,6 +208,14 @@
       "word": "新闻联播",
       "onboard_time": 1698929253,
       "rank": 11,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 449883,
+      "num": 262800,
+      "word": "报道巴以冲突的中国战地女记者陈慧慧",
+      "onboard_time": 1698974969,
+      "rank": 46,
       "category": "国内要闻"
     },
     {
@@ -235,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313473,
+      "num": 262158,
+      "word": "王一博香奈儿大秀内场",
+      "onboard_time": 1698977012,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 311196,
       "num": 233964,
       "word": "ELLE红毯内场",
@@ -265,6 +345,14 @@
       "onboard_time": 1698968968,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 294716,
+      "num": 261780,
+      "word": "我恋5女嘉宾因为男嘉宾三天哭5次",
+      "onboard_time": 1698975210,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 291751,
@@ -339,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271134,
+      "num": 259852,
+      "word": "戴比尔斯 檀健次",
+      "onboard_time": 1698977973,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 268579,
       "num": 683709,
       "word": "李克强同志生平照片",
@@ -347,8 +443,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 266399,
-      "num": 266399,
+      "raw_hot": 266885,
+      "num": 266885,
       "word": "快递小哥迟到可能是遇上了沙尘暴",
       "onboard_time": 1698974671,
       "rank": 19,
@@ -387,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247099,
+      "num": 247099,
+      "word": "故宫银杏壁纸",
+      "onboard_time": 1698975151,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 239942,
       "num": 239942,
       "word": "飞了36年空姐最后一班飞行哭着告别",
@@ -401,6 +505,14 @@
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 231002,
+      "num": 215454,
+      "word": "如何把身体里的病气排出去",
+      "onboard_time": 1698977554,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 228604,
@@ -435,12 +547,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 217663,
+      "num": 217663,
+      "word": "以爱为营全员营了个大动作",
+      "onboard_time": 1698977793,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213837,
       "num": 213837,
       "word": "太上老君遇到他炼丹炉都省了",
       "onboard_time": 1698938136,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213662,
+      "num": 207914,
+      "word": "火星情报局开播",
+      "onboard_time": 1698976951,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 211673,
@@ -483,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199165,
+      "num": 199165,
+      "word": "7岁女童体育课猝死9分钟后才做CPR",
+      "onboard_time": 1698974912,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194439,
       "num": 194439,
       "word": "水管工捡到300克黄金上交意外破获盗窃案",
@@ -491,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192472,
-      "num": 192472,
-      "word": "7岁女童体育课猝死9分钟后才做CPR",
-      "onboard_time": 1698974912,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 192430,
+      "num": 192430,
+      "word": "24个美院人画猫",
+      "onboard_time": 1698976291,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 190901,
@@ -513,6 +649,38 @@
       "onboard_time": 1698937958,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183269,
+      "num": 183269,
+      "word": "澹台烬廿白羽重生还是上下级",
+      "onboard_time": 1698978093,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178370,
+      "num": 178370,
+      "word": "流感和支原体肺炎有哪些区别",
+      "onboard_time": 1698976593,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 177247,
+      "num": 177247,
+      "word": "金鸡奖 天气凉了请穿衣服",
+      "onboard_time": 1698977494,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 176820,
+      "num": 176820,
+      "word": "支原体肺炎的中医治疗思路",
+      "onboard_time": 1698976354,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175143,
@@ -563,6 +731,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "以爱为营今日开播",
+      "onboard_time": 1698976652,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145179,
       "num": 128592,
       "word": "星辰大海的艺人人手一本从艺先从法",
@@ -611,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136693,
+      "num": 136693,
+      "word": "民警上门抢手机怒吼骗子拦截30万",
+      "onboard_time": 1698978212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135903,
       "num": 135903,
       "word": "萧亚轩新歌MV",
@@ -625,6 +809,22 @@
       "onboard_time": 1698973234,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134546,
+      "num": 134546,
+      "word": "卧龙凤雏果然是同时出现的",
+      "onboard_time": 1698975752,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134034,
+      "num": 134034,
+      "word": "焦虑的老纪 被指责的王诗晴",
+      "onboard_time": 1698976111,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 132669,
@@ -643,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129984,
+      "num": 129984,
+      "word": "张小斐 反转大女主电影",
+      "onboard_time": 1698975089,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127688,
       "num": 127688,
       "word": "刘律 温柔而强大的女性力量",
@@ -659,28 +867,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124488,
-      "num": 124488,
-      "word": "故宫银杏壁纸",
-      "onboard_time": 1698975151,
-      "rank": 45,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 122859,
       "num": 122859,
       "word": "肖战中美电视节获奖",
       "onboard_time": 1698930094,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122731,
-      "num": 122731,
-      "word": "报道巴以冲突的中国战地女记者陈慧慧",
-      "onboard_time": 1698974969,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 119270,
@@ -705,14 +897,6 @@
       "onboard_time": 1698938974,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 115116,
-      "num": 115116,
-      "word": "张小斐 反转大女主电影",
-      "onboard_time": 1698975089,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 113517,
