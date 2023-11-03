@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699050841075,
+  "endTime": 1699053413774,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -59,12 +59,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 621396,
+      "num": 621396,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565217,
       "num": 565217,
       "word": "杨紫 两套造型",
       "onboard_time": 1699006292,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 555804,
+      "num": 169013,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 489518,
@@ -163,6 +179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 360146,
+      "num": 134329,
+      "word": "一副市长被前妻实名举报",
+      "onboard_time": 1699049596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356858,
       "num": 356858,
       "word": "以爱为营开播",
@@ -187,12 +211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287132,
-      "num": 287132,
-      "word": "原来你妈妈是冠军啊",
-      "onboard_time": 1699031185,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 302346,
+      "num": 302346,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 298871,
+      "num": 168536,
+      "word": "蔡文静身材",
+      "onboard_time": 1699052120,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283804,
@@ -209,14 +241,6 @@
       "onboard_time": 1699027594,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251351,
-      "num": 85727,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 250161,
@@ -249,6 +273,22 @@
       "onboard_time": 1699027476,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 218221,
+      "num": 218221,
+      "word": "一年级老师在班级群用拼音夸学生",
+      "onboard_time": 1699052600,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 216765,
+      "num": 216765,
+      "word": "16个月大女童把自己反锁车内消防员砸窗救出",
+      "onboard_time": 1699047316,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213309,
@@ -323,6 +363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 148878,
+      "num": 148878,
+      "word": "ELLE红毯主持人没词了",
+      "onboard_time": 1699039096,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 148357,
       "num": 148357,
       "word": "压力给到JDG",
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139888,
+      "num": 139888,
+      "word": "故宫的柿子红了",
+      "onboard_time": 1699046173,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132181,
       "num": 132181,
       "word": "助学金争议当事人要求处罚相关人员",
@@ -393,14 +449,6 @@
       "onboard_time": 1699013856,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 123403,
-      "num": 123403,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 122652,
@@ -435,28 +483,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 112633,
-      "num": 112633,
-      "word": "16个月大女童把自己反锁车内消防员砸窗救出",
-      "onboard_time": 1699047316,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102467,
-      "num": 38534,
-      "word": "一副市长被前妻实名举报",
-      "onboard_time": 1699049596,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101039,
       "num": 101039,
       "word": "BLG晋级S13四强",
       "onboard_time": 1699015180,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98523,
+      "num": 98523,
+      "word": "当红流量今年剧中的原声台词",
+      "onboard_time": 1699036277,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 87655,
@@ -475,28 +515,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 71604,
-      "num": 71604,
-      "word": "故宫的柿子红了",
-      "onboard_time": 1699046173,
-      "rank": 26,
-      "category": "旅游"
+      "raw_hot": 75959,
+      "num": 75959,
+      "word": "山东一县养20万亩大闸蟹产值或超20亿元",
+      "onboard_time": 1699052661,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 71443,
-      "num": 65704,
-      "word": "ELLE红毯主持人没词了",
-      "onboard_time": 1699039096,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "raw_hot": 74349,
+      "num": 74349,
+      "word": "秦海璐 我真想重新读一下小学",
+      "onboard_time": 1699052902,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 60786,
-      "num": 60786,
-      "word": "当红流量今年剧中的原声台词",
-      "onboard_time": 1699036277,
+      "raw_hot": 65634,
+      "num": 65634,
+      "word": "小学生捡手机后报警找失主被当众表扬",
+      "onboard_time": 1699052600,
       "rank": 37,
-      "category": "作品衍生"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 52037,
@@ -505,6 +545,22 @@
       "onboard_time": 1699033878,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 46407,
+      "num": 46407,
+      "word": "王曼昱3比2朱芊曦",
+      "onboard_time": 1699053383,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46039,
+      "num": 46039,
+      "word": "吴尊友母校设立吴尊友奖学金",
+      "onboard_time": 1699053326,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36606,
