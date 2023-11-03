@@ -1,0 +1,408 @@
+{
+  "runTime": 1698986059200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 82741,
+        "num": 579178,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 51503,
+        "num": 577671,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 50807,
+        "num": 572002,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1622026,
+        "num": 569448,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785854,
+        "num": 566067,
+        "word": "比利时王妃回广东娘家省亲",
+        "onboard_time": 1698984036,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564309,
+        "num": 564309,
+        "word": "重庆女生上下班坐14次扶梯获公司补贴",
+        "onboard_time": 1698984878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562794,
+        "num": 562794,
+        "word": "老人深夜将女婴遗弃在小卖部门口",
+        "onboard_time": 1698983434,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383969,
+        "num": 383969,
+        "word": "助学金事件当事人称已搬离宿舍",
+        "onboard_time": 1698970114,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363786,
+        "num": 363786,
+        "word": "含有肽字的护肤品 智商税",
+        "onboard_time": 1698979954,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 358692,
+        "num": 358692,
+        "word": "男子100万投资电影亏了96万",
+        "onboard_time": 1698983977,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1602205,
+        "num": 358551,
+        "word": "曝多名篮网球员与啦啦队成员发生关系",
+        "onboard_time": 1698982774,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1260089,
+        "num": 356855,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1104008,
+        "num": 354890,
+        "word": "男子回应退婚用16.8万彩礼辞职旅行",
+        "onboard_time": 1698976354,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997642,
+        "num": 352657,
+        "word": "杨幂已退出嘉行股东",
+        "onboard_time": 1698982653,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814247,
+        "num": 350591,
+        "word": "五月天 属于江浙沪的厮杀",
+        "onboard_time": 1698981093,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 690153,
+        "num": 348553,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 682495,
+        "num": 346695,
+        "word": "金莎新综艺和男友接吻镜头",
+        "onboard_time": 1698982233,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668560,
+        "num": 344804,
+        "word": "以爱为营 滤镜",
+        "onboard_time": 1698981276,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74005,
+        "num": 344646,
+        "word": "蛋仔派对喜羊羊返场",
+        "onboard_time": 1698984878,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 546715,
+        "num": 342117,
+        "word": "我是民政局 我自己过来了",
+        "onboard_time": 1698975269,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537218,
+        "num": 339592,
+        "word": "深圳黑老大百达翡丽直降888万拍卖",
+        "onboard_time": 1698981876,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519553,
+        "num": 338035,
+        "word": "赵露思痛失本名",
+        "onboard_time": 1698984515,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405552,
+        "num": 336751,
+        "word": "田柾国新歌",
+        "onboard_time": 1698984878,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335956,
+        "num": 335956,
+        "word": "杨紫说张小斐可以当歌手",
+        "onboard_time": 1698981934,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322375,
+        "num": 322375,
+        "word": "章若楠新剧用茅台消毒",
+        "onboard_time": 1698982832,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279256,
+        "num": 279256,
+        "word": "7岁女童体育课猝死9分钟后才做CPR",
+        "onboard_time": 1698974912,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274295,
+        "num": 274295,
+        "word": "杨幂黑天鹅红唇妆",
+        "onboard_time": 1698982534,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273540,
+        "num": 273540,
+        "word": "浙江省考",
+        "onboard_time": 1698983558,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262179,
+        "num": 262179,
+        "word": "工藤新一和白马探的初次见面",
+        "onboard_time": 1698984156,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 256041,
+        "num": 256041,
+        "word": "ELLE风尚大典开始官宣了",
+        "onboard_time": 1698978991,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251843,
+        "num": 251843,
+        "word": "薛之谦给刘维写歌漏了戚薇",
+        "onboard_time": 1698979593,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246425,
+        "num": 246425,
+        "word": "秦岚 我不太有综艺感",
+        "onboard_time": 1698972093,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244914,
+        "num": 244914,
+        "word": "被弟弟抢走竹子花花一脸懵",
+        "onboard_time": 1698980313,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239119,
+        "num": 239119,
+        "word": "送外卖的考研人",
+        "onboard_time": 1698985597,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 237627,
+        "num": 237627,
+        "word": "海王2确认引进",
+        "onboard_time": 1698985480,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219933,
+        "num": 219933,
+        "word": "马龙回应争议球",
+        "onboard_time": 1698984214,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219117,
+        "num": 219117,
+        "word": "网剧冬至阵容官宣",
+        "onboard_time": 1698979533,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211185,
+        "num": 211185,
+        "word": "辅警连喊6遍一定要去救回受伤司机",
+        "onboard_time": 1698981876,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198100,
+        "num": 198100,
+        "word": "贾乃亮谅解患病造谣者",
+        "onboard_time": 1698979232,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179804,
+        "num": 179804,
+        "word": "报道巴以冲突的中国战地女记者陈慧慧",
+        "onboard_time": 1698974969,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174035,
+        "num": 174035,
+        "word": "ELLE盛典内场嘉宾名单",
+        "onboard_time": 1698979593,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168583,
+        "num": 168583,
+        "word": "以爱为营",
+        "onboard_time": 1698981634,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160667,
+        "num": 160667,
+        "word": "A股",
+        "onboard_time": 1698982593,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156894,
+        "num": 156894,
+        "word": "完美世界",
+        "onboard_time": 1698983737,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 149155,
+        "num": 149155,
+        "word": "斗罗大鹿各自为营",
+        "onboard_time": 1698982352,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146812,
+        "num": 146812,
+        "word": "戴比尔斯 檀健次",
+        "onboard_time": 1698977973,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142447,
+        "num": 142447,
+        "word": "白鹿说公主请看剧",
+        "onboard_time": 1698983195,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142178,
+        "num": 142178,
+        "word": "胎儿脐带绕颈能顺产吗",
+        "onboard_time": 1698985358,
+        "rank": 47,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 136645,
+        "num": 136645,
+        "word": "贾玲又来支持张小斐了",
+        "onboard_time": 1698986020,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126805,
+        "num": 136643,
+        "word": "秋季必吃的6种长寿果",
+        "onboard_time": 1698986020,
+        "rank": 49,
+        "category": "美食,健康医疗"
+      }
+    ],
+    "hotgov": null
+  }
+}
