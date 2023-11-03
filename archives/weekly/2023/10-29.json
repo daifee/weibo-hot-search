@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699029490763,
+  "endTime": 1699031741466,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -4403,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483104,
+      "num": 483104,
+      "word": "周杰伦 你最好说话算话",
+      "onboard_time": 1699027535,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 482845,
       "num": 305839,
       "word": "火鬼王cos",
@@ -5025,14 +5033,6 @@
       "onboard_time": 1698838713,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422367,
-      "num": 422367,
-      "word": "周杰伦 你最好说话算话",
-      "onboard_time": 1699027535,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 420996,
@@ -7564,7 +7564,7 @@
     },
     {
       "raw_hot": 280638,
-      "num": 220820,
+      "num": 271392,
       "word": "孙颖莎成功晋级半决赛",
       "onboard_time": 1699027594,
       "rank": 24,
@@ -8867,6 +8867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241116,
+      "num": 241116,
+      "word": "穿越火线 开挂",
+      "onboard_time": 1699027712,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240904,
       "num": 211624,
       "word": "苑琼丹否认直播带货是自降身价",
@@ -9041,14 +9049,6 @@
       "onboard_time": 1698571593,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237137,
-      "num": 237137,
-      "word": "穿越火线 开挂",
-      "onboard_time": 1699027712,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 237102,
@@ -17345,6 +17345,14 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67739,
+      "num": 67739,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67548,

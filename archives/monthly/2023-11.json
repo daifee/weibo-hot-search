@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699029490763,
+  "endTime": 1699031741466,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -2387,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483104,
+      "num": 483104,
+      "word": "周杰伦 你最好说话算话",
+      "onboard_time": 1699027535,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 478563,
       "num": 478563,
       "word": "我使馆回应日本第三批核污染水排海",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1698838713,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422367,
-      "num": 422367,
-      "word": "周杰伦 你最好说话算话",
-      "onboard_time": 1699027535,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 420996,
@@ -4164,7 +4164,7 @@
     },
     {
       "raw_hot": 280638,
-      "num": 220820,
+      "num": 271392,
       "word": "孙颖莎成功晋级半决赛",
       "onboard_time": 1699027594,
       "rank": 24,
@@ -4915,6 +4915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241116,
+      "num": 241116,
+      "word": "穿越火线 开挂",
+      "onboard_time": 1699027712,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239982,
       "num": 239982,
       "word": "被张小斐身上的姐感蛊到",
@@ -4993,14 +5001,6 @@
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 237137,
-      "num": 237137,
-      "word": "穿越火线 开挂",
-      "onboard_time": 1699027712,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 236688,
@@ -8761,6 +8761,14 @@
       "onboard_time": 1698825632,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67739,
+      "num": 67739,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67022,
