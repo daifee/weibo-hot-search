@@ -1,0 +1,408 @@
+{
+  "runTime": 1698982468073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 80711,
+        "num": 533953,
+        "word": "李克强同志遗体在京火化",
+        "onboard_time": 1698908674,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46537,
+        "num": 527384,
+        "word": "李克强同志生平",
+        "onboard_time": 1698908974,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 41600,
+        "num": 493877,
+        "word": "李克强同志生平照片",
+        "onboard_time": 1698910000,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2056406,
+        "num": 442000,
+        "word": "李佳琦直播间疑为冲销量未付先送",
+        "onboard_time": 1698977675,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534957,
+        "num": 397783,
+        "word": "助学金事件当事人称已搬离宿舍",
+        "onboard_time": 1698970114,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395922,
+        "num": 395922,
+        "word": "含有肽字的护肤品 智商税",
+        "onboard_time": 1698979954,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 380772,
+        "num": 380772,
+        "word": "被弟弟抢走竹子花花一脸懵",
+        "onboard_time": 1698980313,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362073,
+        "num": 362073,
+        "word": "报道巴以冲突的中国战地女记者陈慧慧",
+        "onboard_time": 1698974969,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 296013,
+        "num": 296013,
+        "word": "深圳黑老大百达翡丽直降888万拍卖",
+        "onboard_time": 1698981876,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254619,
+        "num": 254619,
+        "word": "举报助学金被挤男生让网友别转钱了",
+        "onboard_time": 1698973055,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450853,
+        "num": 254581,
+        "word": "六公主公开处刑侯雯元",
+        "onboard_time": 1698975689,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1283510,
+        "num": 254564,
+        "word": "李连杰",
+        "onboard_time": 1698977494,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1110382,
+        "num": 254491,
+        "word": "五月天 属于江浙沪的厮杀",
+        "onboard_time": 1698981093,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1015642,
+        "num": 254453,
+        "word": "男子回应退婚用16.8万彩礼辞职旅行",
+        "onboard_time": 1698976354,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865018,
+        "num": 254400,
+        "word": "以爱为营 滤镜",
+        "onboard_time": 1698981276,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 852316,
+        "num": 254340,
+        "word": "我是民政局 我自己过来了",
+        "onboard_time": 1698975269,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496467,
+        "num": 254302,
+        "word": "贾乃亮谅解患病造谣者",
+        "onboard_time": 1698979232,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439402,
+        "num": 254272,
+        "word": "薛之谦给刘维写歌漏了戚薇",
+        "onboard_time": 1698979593,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412277,
+        "num": 254204,
+        "word": "ELLE风尚大典开始官宣了",
+        "onboard_time": 1698978991,
+        "rank": 18,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 402560,
+        "num": 254196,
+        "word": "网剧冬至阵容官宣",
+        "onboard_time": 1698979533,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396930,
+        "num": 254133,
+        "word": "杨紫说张小斐可以当歌手",
+        "onboard_time": 1698981934,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369809,
+        "num": 254077,
+        "word": "秦岚 我不太有综艺感",
+        "onboard_time": 1698972093,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337155,
+        "num": 254030,
+        "word": "7岁女童体育课猝死9分钟后才做CPR",
+        "onboard_time": 1698974912,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297001,
+        "num": 253975,
+        "word": "白百何受伤",
+        "onboard_time": 1698977733,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253967,
+        "num": 253967,
+        "word": "ELLE盛典内场嘉宾名单",
+        "onboard_time": 1698979593,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 239220,
+        "num": 239220,
+        "word": "黄景瑜孙千冬至海报",
+        "onboard_time": 1698981033,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238306,
+        "num": 238306,
+        "word": "体育课短跑猝死女童家长发声",
+        "onboard_time": 1698970053,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229076,
+        "num": 229076,
+        "word": "戴比尔斯 檀健次",
+        "onboard_time": 1698977973,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 220139,
+        "num": 220139,
+        "word": "以爱为营",
+        "onboard_time": 1698981634,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115665,
+        "num": 217890,
+        "word": "当代职场人的顶配工位",
+        "onboard_time": 1698981453,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 737653,
+        "num": 217750,
+        "word": "李登辉之女不满父亲被归为中国人",
+        "onboard_time": 1698976652,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 217039,
+        "num": 217039,
+        "word": "以爱为营全员营了个大动作",
+        "onboard_time": 1698977793,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207627,
+        "num": 207627,
+        "word": "辅警连喊6遍一定要去救回受伤司机",
+        "onboard_time": 1698981876,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203572,
+        "num": 203572,
+        "word": "我要逆风去 老国货",
+        "onboard_time": 1698982173,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201026,
+        "num": 201026,
+        "word": "天猫双11惊喜夜定档官宣",
+        "onboard_time": 1698982053,
+        "rank": 34,
+        "category": "互联网,演出"
+      },
+      {
+        "raw_hot": 193764,
+        "num": 193764,
+        "word": "王一博香奈儿大秀内场",
+        "onboard_time": 1698977012,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 188786,
+        "num": 188786,
+        "word": "白鹿王鹤棣吻戏镜头",
+        "onboard_time": 1698981693,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187303,
+        "num": 187303,
+        "word": "金莎新综艺和男友接吻镜头",
+        "onboard_time": 1698982233,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183827,
+        "num": 183827,
+        "word": "治疗贫血的小方子",
+        "onboard_time": 1698980015,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165198,
+        "num": 182259,
+        "word": "故宫银杏壁纸",
+        "onboard_time": 1698975151,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 181192,
+        "num": 181192,
+        "word": "澹台烬廿白羽重生还是上下级",
+        "onboard_time": 1698978093,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179094,
+        "num": 179094,
+        "word": "她不是法律界的杨天真她是刘律",
+        "onboard_time": 1698979473,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157212,
+        "num": 157212,
+        "word": "支原体肺炎的中医治疗思路",
+        "onboard_time": 1698976354,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155621,
+        "num": 155621,
+        "word": "姜昆被火星6返聘回来开会了",
+        "onboard_time": 1698981394,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151518,
+        "num": 151518,
+        "word": "快递小哥迟到可能是遇上了沙尘暴",
+        "onboard_time": 1698974671,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144684,
+        "num": 144684,
+        "word": "陈奕迅唱了好多年没唱的歌",
+        "onboard_time": 1698971915,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142617,
+        "num": 142617,
+        "word": "斗罗大鹿各自为营",
+        "onboard_time": 1698982352,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142342,
+        "num": 142342,
+        "word": "巴以冲突升级",
+        "onboard_time": 1698939396,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 140964,
+        "num": 140964,
+        "word": "网易成立3A游戏工作室",
+        "onboard_time": 1698981814,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136885,
+        "num": 136885,
+        "word": "窃贼银行取钱出门发现全是警察",
+        "onboard_time": 1698979172,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": null
+  }
+}

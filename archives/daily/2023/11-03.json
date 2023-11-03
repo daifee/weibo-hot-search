@@ -1,6 +1,6 @@
 {
   "startTime": 1698942209843,
-  "endTime": 1698981473831,
+  "endTime": 1698982468073,
   "band_list": [
     {
       "raw_hot": 2202840,
@@ -51,7 +51,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1193463,
+      "raw_hot": 1283510,
       "num": 278796,
       "word": "李连杰",
       "onboard_time": 1698977494,
@@ -75,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110382,
+      "num": 272311,
+      "word": "五月天 属于江浙沪的厮杀",
+      "onboard_time": 1698981093,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1061192,
       "num": 345420,
       "word": "秦岚 我不太有综艺感",
       "onboard_time": 1698972093,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1015642,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 997239,
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 897320,
-      "num": 479392,
-      "word": "男子回应退婚用16.8万彩礼辞职旅行",
-      "onboard_time": 1698976354,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 865018,
+      "num": 254400,
+      "word": "以爱为营 滤镜",
+      "onboard_time": 1698981276,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 820183,
@@ -299,6 +315,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 396930,
+      "num": 254133,
+      "word": "杨紫说张小斐可以当歌手",
+      "onboard_time": 1698981934,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 395922,
+      "num": 395922,
+      "word": "含有肽字的护肤品 智商税",
+      "onboard_time": 1698979954,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 380772,
+      "num": 380772,
+      "word": "被弟弟抢走竹子花花一脸懵",
+      "onboard_time": 1698980313,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371465,
       "num": 262158,
       "word": "王一博香奈儿大秀内场",
@@ -321,22 +361,6 @@
       "onboard_time": 1698969509,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343802,
-      "num": 343802,
-      "word": "含有肽字的护肤品 智商税",
-      "onboard_time": 1698979954,
-      "rank": 6,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 342864,
-      "num": 272311,
-      "word": "五月天 属于江浙沪的厮杀",
-      "onboard_time": 1698981093,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 331454,
@@ -411,6 +435,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 296013,
+      "num": 296013,
+      "word": "深圳黑老大百达翡丽直降888万拍卖",
+      "onboard_time": 1698981876,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294716,
       "num": 261780,
       "word": "我恋5女嘉宾因为男嘉宾三天哭5次",
@@ -457,14 +489,6 @@
       "onboard_time": 1698977793,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280243,
-      "num": 280243,
-      "word": "被弟弟抢走竹子花花一脸懵",
-      "onboard_time": 1698980313,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278922,
@@ -595,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239220,
+      "num": 239220,
+      "word": "黄景瑜孙千冬至海报",
+      "onboard_time": 1698981033,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237414,
       "num": 231035,
       "word": "出席香奈儿大秀的明星们",
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 233927,
-      "num": 233927,
-      "word": "黄景瑜孙千冬至海报",
-      "onboard_time": 1698981033,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 228604,
@@ -643,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220139,
+      "num": 220139,
+      "word": "以爱为营",
+      "onboard_time": 1698981634,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219741,
       "num": 219741,
       "word": "香港房价暴跌给内地楼市敲响警钟",
       "onboard_time": 1698906452,
       "rank": 27,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 214268,
-      "num": 214268,
-      "word": "以爱为营 滤镜",
-      "onboard_time": 1698981276,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 213837,
@@ -707,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207627,
+      "num": 207627,
+      "word": "辅警连喊6遍一定要去救回受伤司机",
+      "onboard_time": 1698981876,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204987,
       "num": 204987,
       "word": "想多了全是问题 做多了全是答案",
@@ -715,12 +747,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203572,
+      "num": 203572,
+      "word": "我要逆风去 老国货",
+      "onboard_time": 1698982173,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201970,
       "num": 201970,
       "word": "4天婴儿被护士烫伤致后脑勺大片水肿",
       "onboard_time": 1698937899,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201026,
+      "num": 201026,
+      "word": "天猫双11惊喜夜定档官宣",
+      "onboard_time": 1698982053,
+      "rank": 34,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 199681,
@@ -763,12 +811,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188786,
+      "num": 188786,
+      "word": "白鹿王鹤棣吻戏镜头",
+      "onboard_time": 1698981693,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188759,
       "num": 188759,
       "word": "真爱至上有望内地上映",
       "onboard_time": 1698937958,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187303,
+      "num": 187303,
+      "word": "金莎新综艺和男友接吻镜头",
+      "onboard_time": 1698982233,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 178944,
@@ -899,12 +963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142617,
+      "num": 142617,
+      "word": "斗罗大鹿各自为营",
+      "onboard_time": 1698982352,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141030,
       "num": 141030,
       "word": "iG夺冠五周年",
       "onboard_time": 1698974611,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140964,
+      "num": 140964,
+      "word": "网易成立3A游戏工作室",
+      "onboard_time": 1698981814,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 136693,
@@ -1027,6 +1107,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 115665,
+      "num": 217890,
+      "word": "当代职场人的顶配工位",
+      "onboard_time": 1698981453,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113517,
       "num": 113517,
       "word": "长期不社交的结果",
@@ -1105,14 +1193,6 @@
       "onboard_time": 1698937597,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92806,
-      "num": 131173,
-      "word": "当代职场人的顶配工位",
-      "onboard_time": 1698981453,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 92170,

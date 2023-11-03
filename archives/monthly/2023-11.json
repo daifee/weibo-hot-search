@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698981473831,
+  "endTime": 1698982468073,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1283510,
+      "num": 278796,
+      "word": "李连杰",
+      "onboard_time": 1698977494,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1258089,
       "num": 1143623,
       "word": "向佐 我把假向太抓来直播间啦",
@@ -496,14 +504,6 @@
       "word": "向太coser晒装扮价格",
       "onboard_time": 1698816993,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1193463,
-      "num": 278796,
-      "word": "李连杰",
-      "onboard_time": 1698977494,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -577,6 +577,14 @@
       "onboard_time": 1698905674,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110382,
+      "num": 272311,
+      "word": "五月天 属于江浙沪的厮杀",
+      "onboard_time": 1698981093,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 1098978,
@@ -667,6 +675,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1015642,
+      "num": 479392,
+      "word": "男子回应退婚用16.8万彩礼辞职旅行",
+      "onboard_time": 1698976354,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997239,
       "num": 592013,
       "word": "举报助学金被挤男生让网友别转钱了",
@@ -755,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 897320,
-      "num": 479392,
-      "word": "男子回应退婚用16.8万彩礼辞职旅行",
-      "onboard_time": 1698976354,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 897081,
       "num": 897081,
       "word": "7款APP全网下架",
@@ -801,6 +809,14 @@
       "onboard_time": 1698836557,
       "rank": 18,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 865018,
+      "num": 254400,
+      "word": "以爱为营 滤镜",
+      "onboard_time": 1698981276,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 861361,
@@ -2147,12 +2163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 396930,
+      "num": 254133,
+      "word": "杨紫说张小斐可以当歌手",
+      "onboard_time": 1698981934,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396205,
       "num": 387864,
       "word": "NRG对战WBG",
       "onboard_time": 1698909158,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 395922,
+      "num": 395922,
+      "word": "含有肽字的护肤品 智商税",
+      "onboard_time": 1698979954,
+      "rank": 6,
+      "category": "美妆"
     },
     {
       "raw_hot": 393829,
@@ -2257,6 +2289,14 @@
       "onboard_time": 1698841715,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 380772,
+      "num": 380772,
+      "word": "被弟弟抢走竹子花花一脸懵",
+      "onboard_time": 1698980313,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380552,
@@ -2475,28 +2515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343802,
-      "num": 343802,
-      "word": "含有肽字的护肤品 智商税",
-      "onboard_time": 1698979954,
-      "rank": 6,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 343572,
       "num": 343572,
       "word": "大吉岭茶与无人区玫瑰",
       "onboard_time": 1698763177,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342864,
-      "num": 272311,
-      "word": "五月天 属于江浙沪的厮杀",
-      "onboard_time": 1698981093,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 342264,
@@ -2843,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296013,
+      "num": 296013,
+      "word": "深圳黑老大百达翡丽直降888万拍卖",
+      "onboard_time": 1698981876,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295944,
       "num": 295944,
       "word": "腾讯视频11月大剧片单",
@@ -2993,14 +3025,6 @@
       "onboard_time": 1698977793,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280243,
-      "num": 280243,
-      "word": "被弟弟抢走竹子花花一脸懵",
-      "onboard_time": 1698980313,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280202,
@@ -3547,6 +3571,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 239220,
+      "num": 239220,
+      "word": "黄景瑜孙千冬至海报",
+      "onboard_time": 1698981033,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239028,
       "num": 239028,
       "word": "费启鸣入选2023星辰大海",
@@ -3625,14 +3657,6 @@
       "onboard_time": 1698825992,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233927,
-      "num": 233927,
-      "word": "黄景瑜孙千冬至海报",
-      "onboard_time": 1698981033,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 231937,
@@ -3867,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220139,
+      "num": 220139,
+      "word": "以爱为营",
+      "onboard_time": 1698749971,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219870,
       "num": 219870,
       "word": "S13",
@@ -3929,14 +3961,6 @@
       "onboard_time": 1698801694,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214268,
-      "num": 214268,
-      "word": "以爱为营 滤镜",
-      "onboard_time": 1698981276,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 213662,
@@ -4083,6 +4107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207627,
+      "num": 207627,
+      "word": "辅警连喊6遍一定要去救回受伤司机",
+      "onboard_time": 1698981876,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207538,
       "num": 207538,
       "word": "中国女足半场0比0韩国女足",
@@ -4163,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203572,
+      "num": 203572,
+      "word": "我要逆风去 老国货",
+      "onboard_time": 1698982173,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203495,
       "num": 203495,
       "word": "法院双十一最高直降4300万",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1698804212,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201026,
+      "num": 201026,
+      "word": "天猫双11惊喜夜定档官宣",
+      "onboard_time": 1698982053,
+      "rank": 34,
+      "category": "互联网,演出"
     },
     {
       "raw_hot": 199726,
@@ -4353,14 +4401,6 @@
       "onboard_time": 1698841416,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194200,
-      "num": 194200,
-      "word": "以爱为营",
-      "onboard_time": 1698749971,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 194087,
@@ -4523,12 +4563,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188786,
+      "num": 188786,
+      "word": "白鹿王鹤棣吻戏镜头",
+      "onboard_time": 1698981693,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188679,
       "num": 188679,
       "word": "恩比德因猥亵手势被罚款",
       "onboard_time": 1698811594,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187303,
+      "num": 187303,
+      "word": "金莎新综艺和男友接吻镜头",
+      "onboard_time": 1698982233,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 187093,
@@ -5635,6 +5691,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 142617,
+      "num": 142617,
+      "word": "斗罗大鹿各自为营",
+      "onboard_time": 1698982352,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141846,
       "num": 141846,
       "word": "这种玉米怎么榴里榴气的",
@@ -5657,6 +5721,14 @@
       "onboard_time": 1698974611,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140964,
+      "num": 140964,
+      "word": "网易成立3A游戏工作室",
+      "onboard_time": 1698981814,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139969,
@@ -6179,6 +6251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115665,
+      "num": 217890,
+      "word": "当代职场人的顶配工位",
+      "onboard_time": 1698981453,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114409,
       "num": 114409,
       "word": "少年离家流浪走投无路求民警帮找工作",
@@ -6425,14 +6505,6 @@
       "onboard_time": 1698821912,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 92806,
-      "num": 131173,
-      "word": "当代职场人的顶配工位",
-      "onboard_time": 1698981453,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 92668,
