@@ -1,0 +1,410 @@
+{
+  "runTime": 1699054455992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725750,
+        "num": 725750,
+        "word": "原来你妈妈是冠军啊",
+        "onboard_time": 1699031185,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470599,
+        "num": 470599,
+        "word": "你敢信这是宋茜生图",
+        "onboard_time": 1699023940,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2968,
+        "num": 419527,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371905,
+        "num": 371905,
+        "word": "一年级老师在班级群用拼音夸学生",
+        "onboard_time": 1699052600,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 357245,
+        "num": 357245,
+        "word": "同事说我的工位像三室一厅",
+        "onboard_time": 1699035319,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356887,
+        "num": 356887,
+        "word": "中国大陆合法销售的iPhone15均为中国组装",
+        "onboard_time": 1699023159,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333514,
+        "num": 333514,
+        "word": "王俊凯问学校门口的大哥还认不认得他",
+        "onboard_time": 1699021600,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315698,
+        "num": 315698,
+        "word": "6名中国公民在菲被绑架下落不明",
+        "onboard_time": 1699025737,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 228846,
+        "num": 228846,
+        "word": "16个月大女童把自己反锁车内消防员砸窗救出",
+        "onboard_time": 1699047316,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200181,
+        "num": 200181,
+        "word": "主持人还没念完李现就走完了",
+        "onboard_time": 1699018117,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 682646,
+        "num": 198939,
+        "word": "造型师刘璐回应迪丽热巴造型",
+        "onboard_time": 1699042334,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 417955,
+        "num": 198342,
+        "word": "蔡文静身材",
+        "onboard_time": 1699052120,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287526,
+        "num": 198243,
+        "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+        "onboard_time": 1699021418,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184230,
+        "num": 184230,
+        "word": "山东一县养20万亩大闸蟹产值或超20亿元",
+        "onboard_time": 1699052661,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175038,
+        "num": 175038,
+        "word": "杨紫 两套造型",
+        "onboard_time": 1699006292,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172693,
+        "num": 172693,
+        "word": "旧的羽绒服不要再扔了",
+        "onboard_time": 1699024957,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196382,
+        "num": 170374,
+        "word": "红毯没有王法 只有迪丽热巴的想法",
+        "onboard_time": 1699010675,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164313,
+        "num": 164313,
+        "word": "ELLE红毯主持人没词了",
+        "onboard_time": 1699039096,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167507,
+        "num": 161569,
+        "word": "魏大勋刘昊然李现坐一桌",
+        "onboard_time": 1699028311,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157511,
+        "num": 157511,
+        "word": "故宫的柿子红了",
+        "onboard_time": 1699046173,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157179,
+        "num": 157179,
+        "word": "吴尊友母校设立吴尊友奖学金",
+        "onboard_time": 1699053326,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148935,
+        "num": 148935,
+        "word": "周铁农同志逝世",
+        "onboard_time": 1699019494,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 140195,
+        "word": "秦海璐 我真想重新读一下小学",
+        "onboard_time": 1699052902,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137127,
+        "num": 137127,
+        "word": "李思思开口 分不清谁在主持",
+        "onboard_time": 1699011398,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132884,
+        "num": 132884,
+        "word": "有效减脂且降低食欲的运动",
+        "onboard_time": 1699021779,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128321,
+        "num": 128321,
+        "word": "当地通报合肥一小学生校内死亡",
+        "onboard_time": 1699018834,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116568,
+        "num": 116568,
+        "word": "刘昊然把你的眼镜借给魏大勋吧",
+        "onboard_time": 1699021418,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 112542,
+        "num": 112542,
+        "word": "以爱为营开播",
+        "onboard_time": 1699014881,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112127,
+        "num": 112127,
+        "word": "当红流量今年剧中的原声台词",
+        "onboard_time": 1699036277,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108767,
+        "num": 108767,
+        "word": "舒舒服服起床的睡眠时间",
+        "onboard_time": 1699021118,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106237,
+        "num": 106237,
+        "word": "又是谁家的少爷逐梦演艺圈了",
+        "onboard_time": 1699001014,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102001,
+        "num": 102001,
+        "word": "孙颖莎vs申裕斌",
+        "onboard_time": 1699023397,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95598,
+        "num": 95598,
+        "word": "通信技术试验卫星十号发射成功",
+        "onboard_time": 1699053864,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 94940,
+        "num": 94940,
+        "word": "这些护肤的钱别花都是智商税",
+        "onboard_time": 1699024537,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91561,
+        "num": 91561,
+        "word": "以爱为营 广告好多",
+        "onboard_time": 1699019016,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383362,
+        "num": 89723,
+        "word": "一副市长被前妻实名举报",
+        "onboard_time": 1699049596,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87283,
+        "num": 87283,
+        "word": "娜扎请和我结婚",
+        "onboard_time": 1699006713,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85863,
+        "num": 85863,
+        "word": "王曼昱3比2朱芊曦",
+        "onboard_time": 1699053383,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81098,
+        "num": 81098,
+        "word": "张元英 皮衣",
+        "onboard_time": 1699026636,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79807,
+        "num": 79807,
+        "word": "GEN发文告别S13",
+        "onboard_time": 1699054104,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78531,
+        "num": 78531,
+        "word": "Bin说到做到",
+        "onboard_time": 1699024659,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75805,
+        "num": 75805,
+        "word": "WTT法兰克福冠军赛2023",
+        "onboard_time": 1699023940,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75428,
+        "num": 75428,
+        "word": "想看韩网热评",
+        "onboard_time": 1699020877,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70196,
+        "num": 70196,
+        "word": "赵昭仪回应谁封的",
+        "onboard_time": 1699024236,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69768,
+        "num": 69768,
+        "word": "天秤座总是错把好感当动心",
+        "onboard_time": 1699023459,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63023,
+        "num": 63023,
+        "word": "EDG 出列",
+        "onboard_time": 1699018473,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62494,
+        "num": 62494,
+        "word": "周杰伦 你最好说话算话",
+        "onboard_time": 1699027535,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61630,
+        "num": 61630,
+        "word": "小学生捡手机后报警找失主被当众表扬",
+        "onboard_time": 1699052600,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 59510,
+        "num": 59510,
+        "word": "萌娃参观消防站气质拿捏了",
+        "onboard_time": 1699054167,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59447,
+        "num": 59447,
+        "word": "毛晓彤阿伦黛尔风",
+        "onboard_time": 1699028671,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见希腊总理#"
+    }
+  }
+}
