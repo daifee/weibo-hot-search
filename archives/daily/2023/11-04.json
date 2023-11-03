@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699043659715,
+  "endTime": 1699046028218,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -419,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 105361,
+      "num": 36131,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 101039,
       "num": 101039,
       "word": "BLG晋级S13四强",
@@ -465,14 +473,6 @@
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 58903,
-      "num": 36131,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 52037,

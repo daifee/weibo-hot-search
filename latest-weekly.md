@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/11/04 04:34:19
+本榜单时间：2023/10/29 00:19:54 ~ 2023/11/04 05:13:48
 </p>
 </blockquote>
 <p>
@@ -12507,6 +12507,12 @@ OPPO小折叠中国市场第一（热度：106775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：105361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%96%B0%E6%B5%AA%E6%89%AB%E6%A5%BC%23" target="weibo">
 张小斐惠英红新浪扫楼（热度：105352）
 </a>
@@ -13151,12 +13157,6 @@ SEVENTEEN新专初动销量突破500万张（热度：65913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%BF%98%E8%AF%8D%E8%BF%98%E6%92%92%E5%A8%87%23" target="weibo">
 陈哲远忘词还撒娇（热度：59855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-造型师刘璐回应迪丽热巴造型（热度：58903）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 04:34:19
+本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 05:13:48
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ Tabe哭了（热度：113404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：105361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23" target="weibo">
 BLG晋级S13四强（热度：101039）
 </a>
@@ -359,12 +365,6 @@ ELLE红毯主持人没词了（热度：71443）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%BA%A2%E6%B5%81%E9%87%8F%E4%BB%8A%E5%B9%B4%E5%89%A7%E4%B8%AD%E7%9A%84%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%23" target="weibo">
 当红流量今年剧中的原声台词（热度：60786）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-造型师刘璐回应迪丽热巴造型（热度：58903）
 </a>
 </li>
 
