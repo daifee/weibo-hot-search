@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699025692699,
+  "endTime": 1699028571543,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1419,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074046,
+      "num": 1074046,
+      "word": "中国大陆合法销售的iPhone15均为中国组装",
+      "onboard_time": 1699023159,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1072733,
       "num": 1072733,
       "word": "对不起那英我喜欢这英",
@@ -1883,14 +1891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 889650,
-      "num": 889650,
-      "word": "中国大陆合法销售的iPhone15均为中国组装",
-      "onboard_time": 1699023159,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 889105,
       "num": 608014,
       "word": "巴以冲突已超9200人死亡",
@@ -2065,6 +2065,14 @@
       "onboard_time": 1698572850,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 830993,
+      "num": 830993,
+      "word": "你敢信这是宋茜生图",
+      "onboard_time": 1699023940,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 826463,
@@ -2587,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 722000,
+      "num": 369820,
+      "word": "张元英 皮衣",
+      "onboard_time": 1699026636,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 721891,
       "num": 453652,
       "word": "相夷太剑",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1698666812,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663003,
+      "num": 663003,
+      "word": "6名中国公民在菲被绑架下落不明",
+      "onboard_time": 1699025737,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 661507,
@@ -5347,14 +5371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 400264,
-      "num": 400264,
-      "word": "你敢信这是宋茜生图",
-      "onboard_time": 1699023940,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 399574,
       "num": 334369,
       "word": "韩庚希望能给女儿安全感",
@@ -5857,6 +5873,14 @@
       "onboard_time": 1698720454,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369552,
+      "num": 369552,
+      "word": "旧的羽绒服不要再扔了",
+      "onboard_time": 1699024957,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 367375,
@@ -6691,6 +6715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317195,
+      "num": 218172,
+      "word": "魏大勋刘昊然李现坐一桌",
+      "onboard_time": 1699028311,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 317193,
       "num": 250560,
       "word": "4天婴儿被护士烫伤致后脑勺大片水肿",
@@ -7523,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280638,
+      "num": 218855,
+      "word": "孙颖莎成功晋级半决赛",
+      "onboard_time": 1699027594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280202,
       "num": 280202,
       "word": "为有暗香来 OE",
@@ -7585,6 +7625,14 @@
       "onboard_time": 1698992731,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277766,
+      "num": 214935,
+      "word": "周杰伦 你最好说话算话",
+      "onboard_time": 1699027535,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 277410,
@@ -7905,14 +7953,6 @@
       "onboard_time": 1698997294,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 267976,
-      "num": 233582,
-      "word": "旧的羽绒服不要再扔了",
-      "onboard_time": 1699024957,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 266885,
@@ -9707,6 +9747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220247,
+      "num": 220247,
+      "word": "中国驻菲使馆回应6中国公民马尼拉被绑",
+      "onboard_time": 1699027476,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 220128,
       "num": 220128,
       "word": "星穹铁道雪衣",
@@ -11219,6 +11267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194045,
+      "num": 190750,
+      "word": "十个勤天全员押韵鬼才",
+      "onboard_time": 1699026993,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194015,
       "num": 194015,
       "word": "阴阳师天野喜孝联动",
@@ -11929,6 +11985,14 @@
       "onboard_time": 1698812614,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185335,
+      "num": 185335,
+      "word": "穿越火线 开挂",
+      "onboard_time": 1699027712,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 185145,
