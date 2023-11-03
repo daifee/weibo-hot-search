@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699049781357,
+  "endTime": 1699050841075,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -4083,6 +4083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287132,
+      "num": 287132,
+      "word": "原来你妈妈是冠军啊",
+      "onboard_time": 1699031185,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286731,
       "num": 286731,
       "word": "加沙婴儿脱水成为日益严重的威胁",
@@ -4713,6 +4721,14 @@
       "onboard_time": 1698900159,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251351,
+      "num": 85727,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 250634,
@@ -5827,14 +5843,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 203457,
-      "num": 203457,
-      "word": "原来你妈妈是冠军啊",
-      "onboard_time": 1699031185,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203452,
       "num": 203452,
       "word": "第五人格开门了",
@@ -6369,14 +6377,6 @@
       "onboard_time": 1699007556,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 187407,
-      "num": 65989,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 187325,
@@ -8147,6 +8147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123403,
+      "num": 123403,
+      "word": "同事说我的工位像三室一厅",
+      "onboard_time": 1699035319,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123375,
       "num": 123375,
       "word": "中国三人女篮世界第一",
@@ -8387,6 +8395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 112633,
+      "num": 112633,
+      "word": "16个月大女童把自己反锁车内消防员砸窗救出",
+      "onboard_time": 1699047316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112495,
       "num": 112495,
       "word": "当妈妈第一次尝试暗黑妆",
@@ -8512,6 +8528,14 @@
       "word": "男子为给妻子庆生副驾铺满鲜花",
       "onboard_time": 1698925474,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102467,
+      "num": 38534,
+      "word": "一副市长被前妻实名举报",
+      "onboard_time": 1699049596,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8683,14 +8707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83532,
-      "num": 83532,
-      "word": "同事说我的工位像三室一厅",
-      "onboard_time": 1699035319,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82903,
       "num": 82903,
       "word": "被烫伤小朋友一个敬礼暖化护送民警",
@@ -8795,20 +8811,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71604,
+      "num": 71604,
+      "word": "故宫的柿子红了",
+      "onboard_time": 1699046173,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 71443,
-      "num": 50142,
+      "num": 65704,
       "word": "ELLE红毯主持人没词了",
       "onboard_time": 1699039096,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 68188,
-      "num": 68188,
-      "word": "16个月大女童把自己反锁车内消防员砸窗救出",
-      "onboard_time": 1699047316,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67022,
@@ -8873,14 +8889,6 @@
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60756,
-      "num": 60756,
-      "word": "故宫的柿子红了",
-      "onboard_time": 1699046173,
-      "rank": 26,
-      "category": "旅游"
     },
     {
       "raw_hot": 59904,
@@ -9131,20 +9139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28426,
+      "num": 33018,
+      "word": "宋雨琦新加坡演唱会大屏",
+      "onboard_time": 1699042633,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26279,
       "num": 26279,
       "word": "胡彦斌点出了纪焕博王诗晴在争什么",
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24415,
-      "num": 24415,
-      "word": "宋雨琦新加坡演唱会大屏",
-      "onboard_time": 1699042633,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 22179,
@@ -9169,14 +9177,6 @@
       "onboard_time": 1698791478,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 17301,
-      "num": 23755,
-      "word": "一副市长被前妻实名举报",
-      "onboard_time": 1699049596,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15116,
