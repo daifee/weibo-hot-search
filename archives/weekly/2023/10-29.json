@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699024657189,
+  "endTime": 1699025692699,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1883,6 +1883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 889650,
+      "num": 889650,
+      "word": "中国大陆合法销售的iPhone15均为中国组装",
+      "onboard_time": 1699023159,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 889105,
       "num": 608014,
       "word": "巴以冲突已超9200人死亡",
@@ -2147,6 +2155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 809736,
+      "num": 809736,
+      "word": "孙颖莎vs申裕斌",
+      "onboard_time": 1699023397,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 809314,
       "num": 366701,
       "word": "给安陵容打伞的是晴川",
@@ -2161,14 +2177,6 @@
       "onboard_time": 1699002753,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 805012,
-      "num": 805012,
-      "word": "孙颖莎vs申裕斌",
-      "onboard_time": 1699023397,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 800028,
@@ -2467,6 +2475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 742612,
+      "num": 723114,
+      "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+      "onboard_time": 1699021418,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741135,
       "num": 741135,
       "word": "深圳欢乐谷过山车事故共接诊28人",
@@ -2560,14 +2576,6 @@
       "word": "余姚北站进入铁路轨道女子暂无生命危险",
       "onboard_time": 1698653431,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723114,
-      "num": 723114,
-      "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
-      "onboard_time": 1699021418,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3667,14 +3675,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 568721,
-      "num": 568721,
-      "word": "中国大陆合法销售的iPhone15均为中国组装",
-      "onboard_time": 1699023159,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 567745,
       "num": 567745,
       "word": "张小斐 让红姐少亲点吧",
@@ -4289,6 +4289,14 @@
       "onboard_time": 1698917371,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 493876,
+      "num": 493876,
+      "word": "Bin说到做到",
+      "onboard_time": 1699024659,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 492115,
@@ -5337,6 +5345,14 @@
       "onboard_time": 1698884075,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400264,
+      "num": 400264,
+      "word": "你敢信这是宋茜生图",
+      "onboard_time": 1699023940,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 399574,
@@ -6995,14 +7011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301462,
-      "num": 253891,
-      "word": "你敢信这是宋茜生图",
-      "onboard_time": 1699023940,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 300563,
       "num": 291720,
       "word": "原来拿铁是牛奶不是咖啡",
@@ -7169,6 +7177,14 @@
       "onboard_time": 1698991054,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 292927,
+      "num": 292927,
+      "word": "天秤座总是错把好感当动心",
+      "onboard_time": 1699023459,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 292770,
@@ -7372,7 +7388,7 @@
     },
     {
       "raw_hot": 286240,
-      "num": 251856,
+      "num": 268661,
       "word": "赵昭仪回应谁封的",
       "onboard_time": 1699024236,
       "rank": 26,
@@ -7889,6 +7905,14 @@
       "onboard_time": 1698997294,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267976,
+      "num": 233582,
+      "word": "旧的羽绒服不要再扔了",
+      "onboard_time": 1699024957,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 266885,
@@ -8803,14 +8827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241050,
-      "num": 241050,
-      "word": "天秤座总是错把好感当动心",
-      "onboard_time": 1699023459,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240904,
       "num": 211624,
       "word": "苑琼丹否认直播带货是自降身价",
@@ -9139,6 +9155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233173,
+      "num": 233173,
+      "word": "这些护肤的钱别花都是智商税",
+      "onboard_time": 1699024537,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 232694,
       "num": 232694,
       "word": "keshi抢票",
@@ -9225,6 +9249,14 @@
       "onboard_time": 1698512905,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231006,
+      "num": 231006,
+      "word": "王牌对王牌",
+      "onboard_time": 1699022617,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 230956,
@@ -9619,14 +9651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222412,
-      "num": 222412,
-      "word": "王牌对王牌",
-      "onboard_time": 1699022617,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222291,
       "num": 371940,
       "word": "残疾妻子坚持每天给摆摊丈夫送饭",
@@ -9945,6 +9969,14 @@
       "onboard_time": 1698822872,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212978,
+      "num": 212978,
+      "word": "助学金争议当事人要求处罚相关人员",
+      "onboard_time": 1699020939,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 212923,
@@ -10553,14 +10585,6 @@
       "onboard_time": 1698660813,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203046,
-      "num": 203046,
-      "word": "助学金争议当事人要求处罚相关人员",
-      "onboard_time": 1699020939,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 202834,
@@ -13721,14 +13745,6 @@
       "onboard_time": 1698670596,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155102,
-      "num": 155102,
-      "word": "这些护肤的钱别花都是智商税",
-      "onboard_time": 1699024537,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 155060,
