@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1698973980781,
+  "endTime": 1698975200850,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -155,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2185797,
+      "num": 593532,
+      "word": "助学金事件当事人称已搬离宿舍",
+      "onboard_time": 1698970114,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2123546,
       "num": 1071154,
       "word": "缅甸",
@@ -201,14 +209,6 @@
       "onboard_time": 1698850598,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2018132,
-      "num": 593532,
-      "word": "助学金事件当事人称已搬离宿舍",
-      "onboard_time": 1698970114,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2003173,
@@ -563,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1061192,
+      "num": 345420,
+      "word": "秦岚 我不太有综艺感",
+      "onboard_time": 1698972093,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1060973,
       "num": 396317,
       "word": "港星林皓霆去世",
@@ -603,14 +611,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1035292,
-      "num": 345420,
-      "word": "秦岚 我不太有综艺感",
-      "onboard_time": 1698972093,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1030560,
       "num": 1030560,
       "word": "赴美失踪3个月中国女子遗骸疑似被找到",
@@ -625,6 +625,14 @@
       "onboard_time": 1698781874,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 997239,
+      "num": 592013,
+      "word": "举报助学金被挤男生让网友别转钱了",
+      "onboard_time": 1698973055,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 992265,
@@ -1225,14 +1233,6 @@
       "onboard_time": 1698805894,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592013,
-      "num": 592013,
-      "word": "举报助学金被挤男生让网友别转钱了",
-      "onboard_time": 1698973055,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590455,
@@ -2555,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313943,
+      "num": 266280,
+      "word": "很享受女朋友教我参与她的生理期",
+      "onboard_time": 1698973770,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313838,
       "num": 267347,
       "word": "给初次怀孕的姐妹的小建议",
@@ -2859,6 +2867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276865,
+      "num": 265567,
+      "word": "周冬雨张艺兴同框生图",
+      "onboard_time": 1698973770,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "林俊杰告黑获赔2万",
@@ -3019,12 +3035,28 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 266399,
+      "num": 266399,
+      "word": "快递小哥迟到可能是遇上了沙尘暴",
+      "onboard_time": 1698974671,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266379,
       "num": 266379,
       "word": "茅台涨价影响有多大",
       "onboard_time": 1698801875,
       "rank": 24,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 265422,
+      "num": 265422,
+      "word": "彭清林拿到户口后就去送外卖了",
+      "onboard_time": 1698974790,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265380,
@@ -3049,14 +3081,6 @@
       "onboard_time": 1698864795,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 262790,
-      "num": 262790,
-      "word": "周冬雨张艺兴同框生图",
-      "onboard_time": 1698973770,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 261306,
@@ -3483,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228604,
+      "num": 228604,
+      "word": "没想到甄嬛传还能出试卷",
+      "onboard_time": 1698974310,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227876,
       "num": 227876,
       "word": "胰腺癌的早期信号是什么",
@@ -3721,14 +3753,6 @@
       "onboard_time": 1698884862,
       "rank": 33,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 211549,
-      "num": 211549,
-      "word": "很享受女朋友教我参与她的生理期",
-      "onboard_time": 1698973770,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 211444,
@@ -4155,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192472,
+      "num": 192472,
+      "word": "7岁女童体育课猝死9分钟后才做CPR",
+      "onboard_time": 1698974912,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191651,
       "num": 191651,
       "word": "公司周年庆给老员工发30g金子",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1698830613,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190901,
+      "num": 190901,
+      "word": "不同姿势对脊柱的压力",
+      "onboard_time": 1698973354,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190650,
@@ -4497,6 +4537,14 @@
       "onboard_time": 1698920852,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 175143,
+      "num": 175143,
+      "word": "孩子手指夹断警车开道送医顺利手术",
+      "onboard_time": 1698974432,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174361,
@@ -5011,14 +5059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151997,
-      "num": 151997,
-      "word": "不同姿势对脊柱的压力",
-      "onboard_time": 1698973354,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 151975,
       "num": 151975,
       "word": "明日方舟感恩庆典",
@@ -5251,6 +5291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143639,
+      "num": 143639,
+      "word": "2024考研倒计时50天",
+      "onboard_time": 1698974012,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143194,
       "num": 143194,
       "word": "交警找回手机后婉拒大姐酬谢",
@@ -5305,6 +5353,14 @@
       "onboard_time": 1698920673,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141030,
+      "num": 141030,
+      "word": "iG夺冠五周年",
+      "onboard_time": 1698974611,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 139969,
@@ -5595,6 +5651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124488,
+      "num": 124488,
+      "word": "故宫银杏壁纸",
+      "onboard_time": 1698975151,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 123667,
       "num": 256966,
       "word": "麻辣王子团叫粉丝麻辣公主",
@@ -5617,6 +5681,14 @@
       "onboard_time": 1698880106,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122731,
+      "num": 122731,
+      "word": "报道巴以冲突的中国战地女记者陈慧慧",
+      "onboard_time": 1698974969,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 122422,
@@ -5785,6 +5857,14 @@
       "onboard_time": 1698760536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115116,
+      "num": 115116,
+      "word": "张小斐 反转大女主电影",
+      "onboard_time": 1698975089,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 114409,
