@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 05:13:48
+本榜单时间：2023/11/04 00:22:51 ~ 2023/11/04 05:34:08
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@ ELLE风尚大典（热度：127843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：127491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BE%8E%E4%BA%BA%E8%82%A9%23" target="weibo">
 赵丽颖美人肩（热度：122652）
 </a>
@@ -323,12 +329,6 @@ Tabe哭了（热度：113404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E9%BB%91%E5%A4%9C%E9%87%8C%E9%97%AA%E8%80%80%E7%9A%84%E9%92%BB%E7%9F%B3%23" target="weibo">
 张小斐 黑夜里闪耀的钻石（热度：112948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-造型师刘璐回应迪丽热巴造型（热度：105361）
 </a>
 </li>
 
@@ -381,8 +381,14 @@ ELLE红毯主持人没词了（热度：71443）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E7%9A%84%E6%9F%BF%E5%AD%90%E7%BA%A2%E4%BA%86%23" target="weibo">
+故宫的柿子红了（热度：24798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%23" target="weibo">
-宋雨琦新加坡演唱会大屏（热度：18855）
+宋雨琦新加坡演唱会大屏（热度：19048）
 </a>
 </li>
 

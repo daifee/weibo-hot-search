@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/29 00:19:54 ~ 2023/11/04 05:13:48
+本榜单时间：2023/10/29 00:19:54 ~ 2023/11/04 05:34:08
 </p>
 </blockquote>
 <p>
@@ -11721,6 +11721,12 @@ Fy（热度：129332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+造型师刘璐回应迪丽热巴造型（热度：127491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%23" target="weibo">
 国考（热度：127073）
 </a>
@@ -12503,12 +12509,6 @@ OPPO小折叠中国市场第一（热度：106775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B2%BE%E7%81%B5%E4%B8%87%E5%9C%A3%E8%8A%82%E9%A5%BA%E5%AD%90%E5%A6%86%23" target="weibo">
 小精灵万圣节饺子妆（热度：105417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E5%9E%8B%E5%B8%88%E5%88%98%E7%92%90%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
-造型师刘璐回应迪丽热巴造型（热度：105361）
 </a>
 </li>
 
@@ -13551,6 +13551,12 @@ DOTA2（热度：50427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E7%9A%84%E6%9F%BF%E5%AD%90%E7%BA%A2%E4%BA%86%23" target="weibo">
+故宫的柿子红了（热度：24798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%90%88%E6%88%90%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%BA%8E%E8%B0%A6%E7%94%A8%E5%A4%96%E8%AF%AD%E8%AF%B4%E7%9B%B8%E5%A3%B0%23" target="weibo">
 AI合成郭德纲于谦用外语说相声（热度：23997）
 </a>
@@ -13582,7 +13588,7 @@ AI合成郭德纲于谦用外语说相声（热度：23997）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%23" target="weibo">
-宋雨琦新加坡演唱会大屏（热度：18855）
+宋雨琦新加坡演唱会大屏（热度：19048）
 </a>
 </li>
 

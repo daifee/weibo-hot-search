@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699046028218,
+  "endTime": 1699047248523,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -8083,6 +8083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127491,
+      "num": 36863,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 127073,
       "num": 127073,
       "word": "国考",
@@ -8481,14 +8489,6 @@
       "onboard_time": 1698856110,
       "rank": 48,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 105361,
-      "num": 36131,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 104800,
@@ -9123,6 +9123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24798,
+      "num": 24798,
+      "word": "故宫的柿子红了",
+      "onboard_time": 1699046173,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 22179,
       "num": 33875,
       "word": "孙怡从e人变i人了",
@@ -9139,8 +9147,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18855,
-      "num": 18855,
+      "raw_hot": 19048,
+      "num": 19048,
       "word": "宋雨琦新加坡演唱会大屏",
       "onboard_time": 1699042633,
       "rank": 38,

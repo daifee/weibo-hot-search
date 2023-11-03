@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699046028218,
+  "endTime": 1699047248523,
   "band_list": [
     {
       "raw_hot": 1123191,
@@ -387,6 +387,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 127491,
+      "num": 36863,
+      "word": "造型师刘璐回应迪丽热巴造型",
+      "onboard_time": 1699042334,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 122652,
       "num": 122652,
       "word": "赵丽颖美人肩",
@@ -417,14 +425,6 @@
       "onboard_time": 1699014155,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 105361,
-      "num": 36131,
-      "word": "造型师刘璐回应迪丽热巴造型",
-      "onboard_time": 1699042334,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 101039,
@@ -491,8 +491,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18855,
-      "num": 18855,
+      "raw_hot": 24798,
+      "num": 24798,
+      "word": "故宫的柿子红了",
+      "onboard_time": 1699046173,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 19048,
+      "num": 19048,
       "word": "宋雨琦新加坡演唱会大屏",
       "onboard_time": 1699042633,
       "rank": 38,
