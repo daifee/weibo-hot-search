@@ -1,9 +1,9 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699068867580,
+  "endTime": 1699071601806,
   "band_list": [
     {
-      "raw_hot": 2099456,
+      "raw_hot": 2698711,
       "num": 640945,
       "word": "难看",
       "onboard_time": 1699066771,
@@ -17,6 +17,14 @@
       "onboard_time": 1699057773,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1289271,
+      "num": 1289271,
+      "word": "原来时宴是雪姨和陆振华生的",
+      "onboard_time": 1699069231,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1125296,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769400,
+      "num": 394486,
+      "word": "网友们给迪丽热巴造型换了色",
+      "onboard_time": 1699068751,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 725750,
       "num": 725750,
       "word": "原来你妈妈是冠军啊",
@@ -171,19 +187,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 625484,
+      "num": 625484,
+      "word": "盘点河南多地哄抢事件通报",
+      "onboard_time": 1699065511,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620695,
       "num": 620695,
       "word": "迪丽热巴孔雀半开屏",
       "onboard_time": 1699065511,
       "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 591731,
-      "num": 387183,
-      "word": "网友们给迪丽热巴造型换了色",
-      "onboard_time": 1699068751,
-      "rank": 11,
       "category": "作品衍生,时尚"
     },
     {
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573146,
+      "num": 232127,
+      "word": "女子连续掐点怀孕逃避刑罚",
+      "onboard_time": 1699070136,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565217,
       "num": 565217,
       "word": "杨紫 两套造型",
@@ -203,12 +227,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 562099,
+      "num": 562099,
+      "word": "黄晓明用AI换杨迪脸给黄明昊打电话",
+      "onboard_time": 1699069293,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 553052,
+      "num": 553052,
+      "word": "官方回应昆明2名环卫工在垃圾站身亡",
+      "onboard_time": 1699069892,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499403,
       "num": 346164,
       "word": "买了最白香奈儿回家发现更白的",
       "onboard_time": 1699059092,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 496439,
+      "num": 496439,
+      "word": "桐华两任女主若曦小夭同框",
+      "onboard_time": 1699069892,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 489518,
@@ -233,6 +281,14 @@
       "onboard_time": 1699027535,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 478989,
+      "num": 478989,
+      "word": "杜锋故意损坏辽篮主场LED屏幕",
+      "onboard_time": 1699070431,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 458037,
@@ -355,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359285,
+      "num": 228150,
+      "word": "小朋友撤回了一包辣条",
+      "onboard_time": 1699068031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357245,
       "num": 357245,
       "word": "同事说我的工位像三室一厅",
@@ -411,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332958,
+      "num": 332958,
+      "word": "以爱为营",
+      "onboard_time": 1699070732,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313659,
       "num": 313659,
       "word": "库里绝杀雷霆",
       "onboard_time": 1699067431,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303390,
-      "num": 303390,
-      "word": "盘点河南多地哄抢事件通报",
-      "onboard_time": 1699065511,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289178,
@@ -443,6 +507,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 286164,
+      "num": 286164,
+      "word": "柳鑫宇退出花滑中国杯",
+      "onboard_time": 1699068031,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283804,
       "num": 215131,
       "word": "刘诗诗 神女逆光而来",
@@ -457,6 +529,14 @@
       "onboard_time": 1699027594,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279941,
+      "num": 279941,
+      "word": "岁岁青莲对我的乳腺很友好",
+      "onboard_time": 1699070013,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 277049,
@@ -497,14 +577,6 @@
       "onboard_time": 1699027712,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 245766,
-      "num": 245766,
-      "word": "柳鑫宇退出花滑中国杯",
-      "onboard_time": 1699068031,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 237522,
@@ -563,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223668,
+      "num": 223668,
+      "word": "他不爱我 四个人唱出四种体验",
+      "onboard_time": 1699070614,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221177,
       "num": 221177,
       "word": "当事人回应获评助学金后坚持再举报",
@@ -619,6 +699,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 203553,
+      "num": 203553,
+      "word": "敦煌英雄定档预告",
+      "onboard_time": 1699070614,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203391,
       "num": 203391,
       "word": "赵昭仪回应谁封的",
@@ -641,6 +729,14 @@
       "onboard_time": 1699058431,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198512,
+      "num": 150514,
+      "word": "新式神本真三尾狐",
+      "onboard_time": 1699070732,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 197042,
@@ -715,6 +811,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 189427,
+      "num": 149956,
+      "word": "刘端端新剧好适合西域风",
+      "onboard_time": 1699070791,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188802,
       "num": 188802,
       "word": "秦岚把秦海璐整害羞了",
@@ -752,14 +856,6 @@
       "word": "尼泊尔地震80人遇难140余人受伤",
       "onboard_time": 1699064851,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171830,
-      "num": 171830,
-      "word": "小朋友撤回了一包辣条",
-      "onboard_time": 1699068031,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -859,12 +955,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 152172,
+      "num": 152172,
+      "word": "阿母的巴掌从星汉扇到了乐游原",
+      "onboard_time": 1699068451,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151639,
       "num": 146064,
       "word": "国产电影原著作者票房榜吴承恩第二",
       "onboard_time": 1699067972,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149268,
+      "num": 149268,
+      "word": "薛之谦他什么都知道",
+      "onboard_time": 1699071152,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 149263,
@@ -915,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142203,
+      "num": 142203,
+      "word": "傅首尔和张踩铃对待婚姻好清醒",
+      "onboard_time": 1699071391,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "王牌对王牌",
@@ -953,6 +1073,14 @@
       "onboard_time": 1699061070,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136762,
+      "num": 136762,
+      "word": "油泼辣子汉堡测评",
+      "onboard_time": 1699069352,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 136496,
@@ -1003,14 +1131,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 132283,
-      "num": 132283,
-      "word": "阿母的巴掌从星汉扇到了乐游原",
-      "onboard_time": 1699068451,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132181,
       "num": 132181,
       "word": "助学金争议当事人要求处罚相关人员",
@@ -1057,6 +1177,14 @@
       "onboard_time": 1699068692,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 125843,
+      "num": 125843,
+      "word": "为避免致癌使用不粘锅注意这8点",
+      "onboard_time": 1699071334,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123991,
@@ -1147,6 +1275,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111852,
+      "num": 111852,
+      "word": "金珉奎崔胜澈 God Of Music",
+      "onboard_time": 1699069952,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107378,
+      "num": 111828,
+      "word": "Gisele秋冬造型",
+      "onboard_time": 1699070552,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 105180,
       "num": 105180,
       "word": "才发现浪漫满屋这么好笑",
@@ -1169,6 +1313,14 @@
       "onboard_time": 1699015180,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96685,
+      "num": 111805,
+      "word": "香港女生涉网上发布港独言论被判入狱2个月",
+      "onboard_time": 1699071512,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95598,
@@ -1257,6 +1409,14 @@
       "onboard_time": 1699008759,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35971,
+      "num": 584324,
+      "word": "深秋时节的诗情画意",
+      "onboard_time": 1699070252,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28426,

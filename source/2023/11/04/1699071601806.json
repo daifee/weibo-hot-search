@@ -1,0 +1,410 @@
+{
+  "runTime": 1699071601806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289271,
+        "num": 1289271,
+        "word": "原来时宴是雪姨和陆振华生的",
+        "onboard_time": 1699069231,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 625484,
+        "num": 625484,
+        "word": "盘点河南多地哄抢事件通报",
+        "onboard_time": 1699065511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35971,
+        "num": 584324,
+        "word": "深秋时节的诗情画意",
+        "onboard_time": 1699070252,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2698711,
+        "num": 579217,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712064,
+        "num": 573787,
+        "word": "谢娜说杨紫瘦得脱相了",
+        "onboard_time": 1699057773,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562099,
+        "num": 562099,
+        "word": "黄晓明用AI换杨迪脸给黄明昊打电话",
+        "onboard_time": 1699069293,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553052,
+        "num": 553052,
+        "word": "官方回应昆明2名环卫工在垃圾站身亡",
+        "onboard_time": 1699069892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496439,
+        "num": 496439,
+        "word": "桐华两任女主若曦小夭同框",
+        "onboard_time": 1699069892,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478989,
+        "num": 478989,
+        "word": "杜锋故意损坏辽篮主场LED屏幕",
+        "onboard_time": 1699070431,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425042,
+        "num": 425042,
+        "word": "猪肉直接放酱油中泡2天",
+        "onboard_time": 1699061250,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 769400,
+        "num": 394486,
+        "word": "网友们给迪丽热巴造型换了色",
+        "onboard_time": 1699068751,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 359777,
+        "num": 359777,
+        "word": "韩网评宋茜近况",
+        "onboard_time": 1699057891,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332958,
+        "num": 332958,
+        "word": "以爱为营",
+        "onboard_time": 1699070732,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324613,
+        "num": 324613,
+        "word": "丫丫最近一直都在笑",
+        "onboard_time": 1699062031,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301368,
+        "num": 301368,
+        "word": "外卖深夜1400元牛杂汤疑为非法服务",
+        "onboard_time": 1699056690,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309183,
+        "num": 301127,
+        "word": "时宴的车不载有男朋友的女人",
+        "onboard_time": 1699054647,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286164,
+        "num": 286164,
+        "word": "柳鑫宇退出花滑中国杯",
+        "onboard_time": 1699068031,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279941,
+        "num": 279941,
+        "word": "岁岁青莲对我的乳腺很友好",
+        "onboard_time": 1699070013,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248052,
+        "num": 248052,
+        "word": "法国驻加沙机构遭以色列空袭",
+        "onboard_time": 1699063890,
+        "rank": 18,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 234587,
+        "num": 234587,
+        "word": "库里绝杀雷霆",
+        "onboard_time": 1699067431,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573146,
+        "num": 232127,
+        "word": "女子连续掐点怀孕逃避刑罚",
+        "onboard_time": 1699070136,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359285,
+        "num": 228150,
+        "word": "小朋友撤回了一包辣条",
+        "onboard_time": 1699068031,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239436,
+        "num": 226264,
+        "word": "老友记主演出席马修葬礼",
+        "onboard_time": 1699067371,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223668,
+        "num": 223668,
+        "word": "他不爱我 四个人唱出四种体验",
+        "onboard_time": 1699070614,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203749,
+        "num": 203749,
+        "word": "银行回应取600存款要花800开证明",
+        "onboard_time": 1699058612,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203553,
+        "num": 203553,
+        "word": "敦煌英雄定档预告",
+        "onboard_time": 1699070614,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188402,
+        "num": 188402,
+        "word": "黄晓明被说油的那阵赶上沈腾上网了",
+        "onboard_time": 1699058671,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183620,
+        "num": 183620,
+        "word": "买了最白香奈儿回家发现更白的",
+        "onboard_time": 1699059092,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160383,
+        "num": 160383,
+        "word": "小伙在自家厕所里建海洋馆隐居6年",
+        "onboard_time": 1699060412,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152172,
+        "num": 152172,
+        "word": "阿母的巴掌从星汉扇到了乐游原",
+        "onboard_time": 1699068451,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265580,
+        "num": 151384,
+        "word": "迪丽热巴孔雀半开屏",
+        "onboard_time": 1699065511,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198512,
+        "num": 150514,
+        "word": "新式神本真三尾狐",
+        "onboard_time": 1699070732,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189427,
+        "num": 149956,
+        "word": "刘端端新剧好适合西域风",
+        "onboard_time": 1699070791,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149268,
+        "num": 149268,
+        "word": "薛之谦他什么都知道",
+        "onboard_time": 1699071152,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148345,
+        "num": 148345,
+        "word": "被举报与女同事暧昧副市长被免职",
+        "onboard_time": 1699054948,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143618,
+        "num": 143618,
+        "word": "加沙地带已有3760名儿童死亡",
+        "onboard_time": 1699065089,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 142203,
+        "num": 142203,
+        "word": "傅首尔和张踩铃对待婚姻好清醒",
+        "onboard_time": 1699071391,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136762,
+        "num": 136762,
+        "word": "油泼辣子汉堡测评",
+        "onboard_time": 1699069352,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134024,
+        "num": 134024,
+        "word": "王安宇胡先煦一个比一个有安全感",
+        "onboard_time": 1699063171,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125843,
+        "num": 125843,
+        "word": "为避免致癌使用不粘锅注意这8点",
+        "onboard_time": 1699071334,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120740,
+        "num": 120740,
+        "word": "孙颖莎 勇往直前Go混剪",
+        "onboard_time": 1699066650,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120120,
+        "num": 120120,
+        "word": "辛芷蕾 我可是气质型的",
+        "onboard_time": 1699066592,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 114416,
+        "word": "西游记版泰国广告",
+        "onboard_time": 1699068512,
+        "rank": 42,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 112492,
+        "num": 112492,
+        "word": "穿越火线再发声明",
+        "onboard_time": 1699065029,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111852,
+        "num": 111852,
+        "word": "金珉奎崔胜澈 God Of Music",
+        "onboard_time": 1699069952,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108544,
+        "num": 111849,
+        "word": "于和伟演得了枭雄发得了疯",
+        "onboard_time": 1699067012,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107378,
+        "num": 111828,
+        "word": "Gisele秋冬造型",
+        "onboard_time": 1699070552,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102623,
+        "num": 111822,
+        "word": "谁来管管管泽元的嘴",
+        "onboard_time": 1699063952,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96685,
+        "num": 111805,
+        "word": "香港女生涉网上发布港独言论被判入狱2个月",
+        "onboard_time": 1699071512,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91618,
+        "num": 111792,
+        "word": "国产电影原著作者票房榜吴承恩第二",
+        "onboard_time": 1699067972,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}
