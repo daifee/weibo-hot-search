@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699130030103,
+  "endTime": 1699132461467,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -11915,8 +11915,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26071,
-      "num": 41324,
+      "raw_hot": 26130,
+      "num": 46608,
       "word": "广东世仇村和解开始通婚",
       "onboard_time": 1699127115,
       "rank": 29,
@@ -11953,6 +11953,14 @@
       "onboard_time": 1699125855,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 15706,
+      "num": 37347,
+      "word": "琉璃裴行俭婚后生活",
+      "onboard_time": 1699131855,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 15116,
