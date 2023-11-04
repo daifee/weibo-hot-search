@@ -1,0 +1,410 @@
+{
+  "runTime": 1699103902775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800282,
+        "num": 1800282,
+        "word": "压力给到LNG",
+        "onboard_time": 1699091370,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 883193,
+        "num": 883193,
+        "word": "广东恩平地震",
+        "onboard_time": 1699097978,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591286,
+        "num": 883191,
+        "word": "联合国称缅北数百人越境逃入中国",
+        "onboard_time": 1699089751,
+        "rank": 2,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 601417,
+        "num": 883186,
+        "word": "沈腾扶杨幂下楼梯",
+        "onboard_time": 1699101633,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578509,
+        "num": 883173,
+        "word": "加沙一母亲失去孩子不愿洗其血迹",
+        "onboard_time": 1699099599,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 558880,
+        "num": 883167,
+        "word": "T1 压力",
+        "onboard_time": 1699097261,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 535713,
+        "num": 883161,
+        "word": "外卖1400元牛杂汤提供非法服务系不实信息",
+        "onboard_time": 1699102416,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398506,
+        "num": 883154,
+        "word": "北大宿舍聊天 婚姻残酷真相",
+        "onboard_time": 1699083391,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379638,
+        "num": 883151,
+        "word": "你好星期六",
+        "onboard_time": 1699099361,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298906,
+        "num": 883142,
+        "word": "炮车立功",
+        "onboard_time": 1699097073,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 915320,
+        "num": 883134,
+        "word": "ELLE回应红毯耍大牌",
+        "onboard_time": 1699100976,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443319,
+        "num": 883131,
+        "word": "杨紫白色小吊带",
+        "onboard_time": 1699099478,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81326,
+        "num": 883120,
+        "word": "专属秋天的多巴胺配色",
+        "onboard_time": 1699090170,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 402612,
+        "num": 883114,
+        "word": "Ruler全球总决赛登场排名第三",
+        "onboard_time": 1699097261,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357168,
+        "num": 883111,
+        "word": "周也穿的是姐姐设计的衣服",
+        "onboard_time": 1699099059,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348770,
+        "num": 883099,
+        "word": "吴楚一微博加了认证",
+        "onboard_time": 1699099001,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346638,
+        "num": 883094,
+        "word": "迪丽热巴换手机壳庆祝入住大床房",
+        "onboard_time": 1699079373,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274721,
+        "num": 883087,
+        "word": "谷江山 西安",
+        "onboard_time": 1699101397,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210022,
+        "num": 883083,
+        "word": "尺帝太c了",
+        "onboard_time": 1699096895,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129129,
+        "num": 883072,
+        "word": "国防部回应加拿大舰载直升机挑衅",
+        "onboard_time": 1699096358,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 286988,
+        "num": 883064,
+        "word": "原来梳头是真的有用",
+        "onboard_time": 1699094612,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207020,
+        "num": 883059,
+        "word": "李佳航来解说决赛吧",
+        "onboard_time": 1699102656,
+        "rank": 21,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 205514,
+        "num": 883051,
+        "word": "李健演唱会",
+        "onboard_time": 1699102416,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201275,
+        "num": 883047,
+        "word": "张靓颖南京",
+        "onboard_time": 1699103498,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166044,
+        "num": 883040,
+        "word": "孙颖莎 淋雨一直走",
+        "onboard_time": 1699082430,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165662,
+        "num": 883030,
+        "word": "深圳震感",
+        "onboard_time": 1699098703,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177170,
+        "num": 883026,
+        "word": "相信gala",
+        "onboard_time": 1699101038,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165098,
+        "num": 883018,
+        "word": "余承恩去年奶今年A",
+        "onboard_time": 1699098462,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164862,
+        "num": 883015,
+        "word": "广州震感",
+        "onboard_time": 1699098582,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115885,
+        "num": 883009,
+        "word": "尼泊尔6.4级地震",
+        "onboard_time": 1699098342,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157437,
+        "num": 882997,
+        "word": "张小斐 黑夜里闪耀的钻石",
+        "onboard_time": 1699014155,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 882992,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136560,
+        "num": 882982,
+        "word": "Knight和369亮标TES",
+        "onboard_time": 1699098462,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127638,
+        "num": 882976,
+        "word": "LCK最后的希望",
+        "onboard_time": 1699099001,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120063,
+        "num": 882970,
+        "word": "闲置太久的鞋子就不要穿了",
+        "onboard_time": 1699082430,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115721,
+        "num": 882962,
+        "word": "第一次看到这么灵活的女主",
+        "onboard_time": 1699100560,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109253,
+        "num": 882955,
+        "word": "赞多靠腿拉动400斤棋子",
+        "onboard_time": 1699100197,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98359,
+        "num": 882955,
+        "word": "西湖里来了50多只小鷿鷈",
+        "onboard_time": 1699092210,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102268,
+        "num": 882942,
+        "word": "我可以47",
+        "onboard_time": 1699097196,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97990,
+        "num": 882938,
+        "word": "加拿大舰载直升机逼近中国西沙领空挑衅",
+        "onboard_time": 1699096657,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95128,
+        "num": 882934,
+        "word": "彩带下的杨幂",
+        "onboard_time": 1699094489,
+        "rank": 40,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 93074,
+        "num": 882922,
+        "word": "中超大结局",
+        "onboard_time": 1699100619,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91886,
+        "num": 882915,
+        "word": "邱贻可祝孙颖莎生日快乐",
+        "onboard_time": 1699100736,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90873,
+        "num": 882909,
+        "word": "宋亚轩买游戏账号被骗钱",
+        "onboard_time": 1699085371,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89022,
+        "num": 882906,
+        "word": "孙颖莎 心无旁骛继续涨球",
+        "onboard_time": 1699082430,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81492,
+        "num": 882901,
+        "word": "JDG醒了",
+        "onboard_time": 1699091731,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79517,
+        "num": 882888,
+        "word": "JDG晋级S13四强",
+        "onboard_time": 1699096596,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75007,
+        "num": 882883,
+        "word": "女生2年间悉心照顾嫂子生产帮带娃",
+        "onboard_time": 1699100141,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74238,
+        "num": 882875,
+        "word": "晨雾融进水墨画有多好看",
+        "onboard_time": 1699103857,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73498,
+        "num": 882873,
+        "word": "2023挑战者杯总决赛",
+        "onboard_time": 1699103436,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对外开放的大门不会关闭只会越开越大#"
+    }
+  }
+}
