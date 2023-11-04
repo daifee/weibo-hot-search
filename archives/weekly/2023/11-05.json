@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699126435098,
+  "endTime": 1699128989657,
   "band_list": [
     {
       "raw_hot": 1619275,
@@ -457,6 +457,14 @@
       "onboard_time": 1699121719,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23569,
+      "num": 41324,
+      "word": "广东世仇村和解开始通婚",
+      "onboard_time": 1699127115,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17862,
