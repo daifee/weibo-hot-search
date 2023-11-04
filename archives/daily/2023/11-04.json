@@ -1,10 +1,10 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699064581586,
+  "endTime": 1699065254780,
   "band_list": [
     {
       "raw_hot": 1503634,
-      "num": 785221,
+      "num": 802773,
       "word": "谢娜说杨紫瘦得脱相了",
       "onboard_time": 1699057773,
       "rank": 3,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 888707,
+      "num": 888707,
+      "word": "猪肉直接放酱油中泡2天",
+      "onboard_time": 1699061250,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 888298,
       "num": 385719,
       "word": "红毯没有王法 只有迪丽热巴的想法",
@@ -123,16 +131,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 709418,
-      "num": 709418,
-      "word": "猪肉直接放酱油中泡2天",
-      "onboard_time": 1699061250,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 687652,
-      "num": 687652,
+      "raw_hot": 699848,
+      "num": 699848,
       "word": "黄晓明被说油的那阵赶上沈腾上网了",
       "onboard_time": 1699058671,
       "rank": 7,
@@ -195,20 +195,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 486203,
+      "num": 486203,
+      "word": "煤矿隐瞒事故违法转运火化遗体问责36人",
+      "onboard_time": 1699063051,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483104,
       "num": 483104,
       "word": "周杰伦 你最好说话算话",
       "onboard_time": 1699027535,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 474489,
-      "num": 474489,
-      "word": "煤矿隐瞒事故违法转运火化遗体问责36人",
-      "onboard_time": 1699063051,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458037,
@@ -371,8 +371,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301129,
+      "num": 301129,
+      "word": "法国驻加沙机构遭以色列空袭",
+      "onboard_time": 1699063890,
+      "rank": 23,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 289178,
-      "num": 232213,
+      "num": 246894,
       "word": "迪丽热巴辛芷蕾ie分明",
       "onboard_time": 1699062571,
       "rank": 15,
@@ -411,6 +419,22 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 275655,
+      "num": 275655,
+      "word": "王安宇胡先煦一个比一个有安全感",
+      "onboard_time": 1699063171,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274758,
+      "num": 274758,
+      "word": "丫丫再现经典姿势",
+      "onboard_time": 1699063588,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258702,
       "num": 258702,
       "word": "丫丫吃饭嘎嘣脆",
@@ -425,14 +449,6 @@
       "onboard_time": 1699027712,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 238331,
-      "num": 238331,
-      "word": "丫丫再现经典姿势",
-      "onboard_time": 1699063588,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237522,
@@ -451,12 +467,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233178,
-      "num": 222955,
-      "word": "王安宇胡先煦一个比一个有安全感",
-      "onboard_time": 1699063171,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 232848,
+      "num": 232848,
+      "word": "谁来管管管泽元的嘴",
+      "onboard_time": 1699063952,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 228846,
@@ -515,8 +531,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 209183,
-      "num": 209183,
+      "raw_hot": 209782,
+      "num": 209782,
       "word": "艺术家韦伟逝世",
       "onboard_time": 1699062389,
       "rank": 18,
@@ -555,12 +571,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197582,
-      "num": 197582,
-      "word": "谁来管管管泽元的嘴",
-      "onboard_time": 1699063952,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 196943,
+      "num": 196943,
+      "word": "娜扎许魏洲新剧今日开播",
+      "onboard_time": 1699064369,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 195168,
@@ -633,14 +649,6 @@
       "onboard_time": 1699052661,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182212,
-      "num": 182212,
-      "word": "法国驻加沙机构遭以色列空袭",
-      "onboard_time": 1699063890,
-      "rank": 23,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 169024,
@@ -755,20 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141756,
-      "num": 141756,
-      "word": "娜扎许魏洲新剧今日开播",
-      "onboard_time": 1699064369,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "王牌对王牌",
       "onboard_time": 1699022617,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141449,
+      "num": 141449,
+      "word": "穿越火线再发声明",
+      "onboard_time": 1699065029,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 140195,
@@ -793,6 +801,22 @@
       "onboard_time": 1699060050,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135877,
+      "num": 135877,
+      "word": "我和彭于晏的共同点是偶像一样",
+      "onboard_time": 1699064909,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 135462,
+      "num": 135462,
+      "word": "我的小舅舅在哪儿呢",
+      "onboard_time": 1699064250,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 134843,
@@ -875,12 +899,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 126666,
-      "num": 126666,
-      "word": "我的小舅舅在哪儿呢",
-      "onboard_time": 1699064250,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 124414,
+      "num": 124414,
+      "word": "尼泊尔地震80人遇难140余人受伤",
+      "onboard_time": 1699064851,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122652,
@@ -971,12 +995,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97062,
+      "num": 97062,
+      "word": "文咏珊初秋美拉德妆容",
+      "onboard_time": 1699065150,
+      "rank": 48,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 95598,
       "num": 95598,
       "word": "通信技术试验卫星十号发射成功",
       "onboard_time": 1699053864,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 92931,
+      "num": 92931,
+      "word": "加沙地带已有3760名儿童死亡",
+      "onboard_time": 1699065089,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 87655,
