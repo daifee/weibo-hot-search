@@ -1,14 +1,22 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699097627296,
+  "endTime": 1699100996120,
   "band_list": [
     {
-      "raw_hot": 5033538,
-      "num": 5033538,
+      "raw_hot": 5730211,
+      "num": 5730211,
       "word": "压力给到LNG",
       "onboard_time": 1699091370,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5701464,
+      "num": 5701464,
+      "word": "广东恩平地震",
+      "onboard_time": 1699097978,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2698711,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 468176,
-      "num": 204030,
+      "num": 402626,
       "word": "Ruler全球总决赛登场排名第三",
       "onboard_time": 1699097261,
       "rank": 30,
@@ -593,6 +601,14 @@
       "onboard_time": 1699094612,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 456918,
+      "num": 456918,
+      "word": "杨紫白色小吊带",
+      "onboard_time": 1699099478,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 452799,
@@ -739,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384029,
+      "num": 384029,
+      "word": "周也穿的是姐姐设计的衣服",
+      "onboard_time": 1699099059,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383362,
       "num": 134329,
       "word": "一副市长被前妻实名举报",
@@ -859,6 +883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348721,
+      "num": 525139,
+      "word": "尼泊尔6.4级地震",
+      "onboard_time": 1699098342,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347242,
+      "num": 347242,
+      "word": "吴楚一微博加了认证",
+      "onboard_time": 1699099001,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343581,
       "num": 343581,
       "word": "8名学生遇陌生男童庆生唱了1首生日歌",
@@ -873,6 +913,14 @@
       "onboard_time": 1699054647,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342827,
+      "num": 503984,
+      "word": "你好星期六",
+      "onboard_time": 1699099361,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 336653,
@@ -908,7 +956,7 @@
     },
     {
       "raw_hot": 334278,
-      "num": 334278,
+      "num": 346977,
       "word": "龚俊痛失本名",
       "onboard_time": 1699084531,
       "rank": 15,
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 264507,
-      "num": 264507,
+      "num": 347071,
       "word": "加拿大舰载直升机逼近中国西沙领空挑衅",
       "onboard_time": 1699096657,
       "rank": 25,
@@ -1036,7 +1084,7 @@
     },
     {
       "raw_hot": 264389,
-      "num": 258015,
+      "num": 347007,
       "word": "闲置太久的鞋子就不要穿了",
       "onboard_time": 1699082430,
       "rank": 26,
@@ -1071,6 +1119,14 @@
       "num": 243490,
       "word": "罗云熙泰媒生图",
       "onboard_time": 1699076252,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244551,
+      "num": 347184,
+      "word": "余承恩去年奶今年A",
+      "onboard_time": 1699098462,
       "rank": 21,
       "category": "作品衍生"
     },
@@ -1196,7 +1252,7 @@
     },
     {
       "raw_hot": 217211,
-      "num": 217211,
+      "num": 347086,
       "word": "我可以47",
       "onboard_time": 1699097196,
       "rank": 27,
@@ -1283,12 +1339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204975,
+      "num": 347200,
+      "word": "Knight和369亮标TES",
+      "onboard_time": 1699098462,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204958,
       "num": 198767,
       "word": "秦岚一句话让辛芷蕾变脸",
       "onboard_time": 1699081352,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204740,
+      "num": 347175,
+      "word": "加沙一母亲失去孩子不愿洗其血迹",
+      "onboard_time": 1699099599,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 204594,
@@ -1499,12 +1571,28 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 189727,
+      "num": 347153,
+      "word": "LCK最后的希望",
+      "onboard_time": 1699099001,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189427,
       "num": 149956,
       "word": "刘端端新剧好适合西域风",
       "onboard_time": 1699070791,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189283,
+      "num": 347144,
+      "word": "中超大结局",
+      "onboard_time": 1699100619,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 188850,
@@ -1579,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180618,
+      "num": 347143,
+      "word": "ELLE回应红毯耍大牌",
+      "onboard_time": 1699100976,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179958,
       "num": 179958,
       "word": "这就是街舞",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1699086329,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177365,
+      "num": 347128,
+      "word": "深圳震感",
+      "onboard_time": 1699098703,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176972,
@@ -1731,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158226,
+      "num": 347109,
+      "word": "赞多靠腿拉动400斤棋子",
+      "onboard_time": 1699100197,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157511,
       "num": 157511,
       "word": "故宫的柿子红了",
@@ -1785,6 +1897,14 @@
       "onboard_time": 1699076551,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 152386,
+      "num": 347090,
+      "word": "广州震感",
+      "onboard_time": 1699098582,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152172,
@@ -1972,7 +2092,7 @@
     },
     {
       "raw_hot": 135488,
-      "num": 135488,
+      "num": 346965,
       "word": "张钧甯把星河穿身上了",
       "onboard_time": 1699095271,
       "rank": 37,
@@ -2057,6 +2177,14 @@
       "onboard_time": 1699092870,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131340,
+      "num": 347057,
+      "word": "女生2年间悉心照顾嫂子生产帮带娃",
+      "onboard_time": 1699100141,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131256,
@@ -2193,6 +2321,14 @@
       "onboard_time": 1699089091,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124550,
+      "num": 2244020,
+      "word": "专属秋天的多巴胺配色",
+      "onboard_time": 1699090170,
+      "rank": 2,
+      "category": "自然"
     },
     {
       "raw_hot": 123991,
@@ -2379,12 +2515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110821,
-      "num": 2244020,
-      "word": "专属秋天的多巴胺配色",
-      "onboard_time": 1699090170,
-      "rank": 2,
-      "category": "自然"
+      "raw_hot": 111337,
+      "num": 346990,
+      "word": "第一次看到这么灵活的女主",
+      "onboard_time": 1699100560,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 109833,
@@ -2401,6 +2537,14 @@
       "onboard_time": 1699095811,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107093,
+      "num": 346987,
+      "word": "邱贻可祝孙颖莎生日快乐",
+      "onboard_time": 1699100736,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105649,
@@ -2497,6 +2641,14 @@
       "onboard_time": 1699053864,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 92264,
+      "num": 346960,
+      "word": "富勒姆vs曼联",
+      "onboard_time": 1699099779,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 91665,
@@ -2649,6 +2801,14 @@
       "onboard_time": 1699068572,
       "rank": 45,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 44277,
+      "num": 347233,
+      "word": "火星6又好哭又好笑",
+      "onboard_time": 1699099235,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 42530,
