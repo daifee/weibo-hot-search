@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699139779896,
+  "endTime": 1699140847005,
   "band_list": [
     {
       "raw_hot": 1619275,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 889967,
-      "num": 889967,
+      "raw_hot": 1014915,
+      "num": 1014915,
       "word": "东北这次强降雪下到发紫",
       "onboard_time": 1699114111,
       "rank": 35,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 585008,
-      "num": 459374,
+      "num": 492616,
       "word": "ELLE回应红毯耍大牌",
       "onboard_time": 1699100976,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 436278,
-      "num": 461606,
+      "num": 508061,
       "word": "世界冠军不可怕 谁不四强谁尴尬",
       "onboard_time": 1699106739,
       "rank": 6,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 418573,
-      "num": 462759,
+      "num": 536985,
       "word": "王曼昱 医疗暂停",
       "onboard_time": 1699105176,
       "rank": 7,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 237363,
-      "num": 459226,
+      "num": 477854,
       "word": "秦岚偷听八卦演我本人",
       "onboard_time": 1699116267,
       "rank": 12,
@@ -251,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164396,
+      "num": 567180,
+      "word": "所有刷单都是诈骗还有人不知道",
+      "onboard_time": 1699105959,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164186,
+      "num": 549788,
+      "word": "马龙4比1F勒布伦",
+      "onboard_time": 1699139539,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160601,
       "num": 452013,
       "word": "周也穿的是姐姐设计的衣服",
@@ -267,6 +283,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 154677,
+      "num": 365166,
+      "word": "马龙说用最好的状态面对决赛",
+      "onboard_time": 1699140682,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146314,
       "num": 444019,
       "word": "狗狗耳朵都放下来了你倒是摸啊",
@@ -281,14 +305,6 @@
       "onboard_time": 1699115489,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138122,
-      "num": 465202,
-      "word": "所有刷单都是诈骗还有人不知道",
-      "onboard_time": 1699105959,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135457,
@@ -315,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124594,
-      "num": 464983,
-      "word": "马龙4比1F勒布伦",
-      "onboard_time": 1699139539,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124017,
       "num": 426103,
       "word": "曼城vs伯恩茅斯",
@@ -331,11 +339,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123258,
+      "num": 364978,
+      "word": "陈梦祝孙颖莎生日快乐",
+      "onboard_time": 1699139962,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115494,
       "num": 426566,
       "word": "广东恩平地震",
       "onboard_time": 1699097978,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112386,
+      "num": 446708,
+      "word": "外公干农活两外孙女一左一右帮倒忙",
+      "onboard_time": 1699109675,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -355,20 +379,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 108664,
+      "num": 462827,
+      "word": "让吴京变成夹子音只需要一个女儿",
+      "onboard_time": 1699137677,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105257,
       "num": 376244,
       "word": "申有娜阿尼亚cos",
       "onboard_time": 1699110760,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102782,
-      "num": 446708,
-      "word": "外公干农活两外孙女一左一右帮倒忙",
-      "onboard_time": 1699109675,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100805,
@@ -411,12 +435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83927,
-      "num": 440136,
-      "word": "让吴京变成夹子音只需要一个女儿",
-      "onboard_time": 1699137677,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 80454,
+      "num": 400237,
+      "word": "2023守望先锋世界杯",
+      "onboard_time": 1699140383,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 79871,
+      "num": 364756,
+      "word": "超市老板猥亵14岁小女孩被行拘9日",
+      "onboard_time": 1699140440,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74441,
@@ -435,6 +467,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70354,
+      "num": 439827,
+      "word": "你们健身的人都没有味觉是吧",
+      "onboard_time": 1699137018,
+      "rank": 48,
+      "category": "运动健身,美食"
+    },
+    {
+      "raw_hot": 69337,
+      "num": 445402,
+      "word": "精神分裂患者的世界太痛苦了",
+      "onboard_time": 1699132574,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67994,
       "num": 376228,
       "word": "张小斐 黑夜里闪耀的钻石",
@@ -451,12 +499,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 65501,
-      "num": 445402,
-      "word": "精神分裂患者的世界太痛苦了",
-      "onboard_time": 1699132574,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 65677,
+      "num": 437542,
+      "word": "广东世仇村和解开始通婚",
+      "onboard_time": 1699127115,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64020,
@@ -467,23 +515,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57750,
-      "num": 439827,
-      "word": "你们健身的人都没有味觉是吧",
-      "onboard_time": 1699137018,
-      "rank": 48,
-      "category": "运动健身,美食"
+      "raw_hot": 51004,
+      "num": 434611,
+      "word": "古不惯甄嬛传四爷 今不惯领导",
+      "onboard_time": 1699134973,
+      "rank": 38,
+      "category": "剧集"
     },
     {
-      "raw_hot": 50808,
-      "num": 437542,
-      "word": "广东世仇村和解开始通婚",
-      "onboard_time": 1699127115,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42187,
+      "raw_hot": 42415,
       "num": 436161,
       "word": "琉璃裴行俭婚后生活",
       "onboard_time": 1699131855,
@@ -491,12 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39067,
-      "num": 434611,
-      "word": "古不惯甄嬛传四爷 今不惯领导",
-      "onboard_time": 1699134973,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 37128,
+      "num": 361452,
+      "word": "纽卡斯尔联1比0阿森纳",
+      "onboard_time": 1699140020,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36006,
+      "num": 360927,
+      "word": "曼城6比1伯恩茅斯",
+      "onboard_time": 1699140260,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 31821,
@@ -523,8 +571,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 8644,
-      "num": 467616,
+      "raw_hot": 10980,
+      "num": 589677,
       "word": "让看电视更简单消费不套娃",
       "onboard_time": 1699077631,
       "rank": 2,
