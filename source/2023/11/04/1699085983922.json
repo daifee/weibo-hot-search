@@ -1,0 +1,410 @@
+{
+  "runTime": 1699085983922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599014,
+        "num": 1599014,
+        "word": "北大宿舍聊天 婚姻残酷真相",
+        "onboard_time": 1699083391,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 915922,
+        "num": 915922,
+        "word": "迪丽热巴换手机壳庆祝入住大床房",
+        "onboard_time": 1699079373,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2594,
+        "num": 804417,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036512,
+        "num": 796449,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 785071,
+        "num": 785071,
+        "word": "缅北流弹击中瑞丽居民楼",
+        "onboard_time": 1699080631,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612051,
+        "num": 612051,
+        "word": "女童上幼儿园19天8天没有早饭",
+        "onboard_time": 1699080988,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586067,
+        "num": 586067,
+        "word": "张杰曾想签约魏大勋",
+        "onboard_time": 1699081471,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544848,
+        "num": 544848,
+        "word": "怀化一校车侧翻坠下山坡",
+        "onboard_time": 1699079131,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480438,
+        "num": 480438,
+        "word": "宋亚轩买游戏账号被骗钱",
+        "onboard_time": 1699085371,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384566,
+        "num": 384566,
+        "word": "加沙孩子被迫喝平时驴都不喝的水",
+        "onboard_time": 1699073613,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 732232,
+        "num": 384398,
+        "word": "向太解释李连杰向她请安",
+        "onboard_time": 1699083933,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392138,
+        "num": 379007,
+        "word": "孙颖莎 淋雨一直走",
+        "onboard_time": 1699082430,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369822,
+        "num": 369822,
+        "word": "孙颖莎 心无旁骛继续涨球",
+        "onboard_time": 1699082430,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350925,
+        "num": 350925,
+        "word": "魏大勋 孟总下车扣西服",
+        "onboard_time": 1699081471,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336396,
+        "num": 336396,
+        "word": "当地回应一校车侧翻坠下山坡",
+        "onboard_time": 1699082789,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334278,
+        "num": 334278,
+        "word": "龚俊痛失本名",
+        "onboard_time": 1699084531,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 330570,
+        "num": 330570,
+        "word": "樊胜美妈妈变本加厉",
+        "onboard_time": 1699083090,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326987,
+        "num": 326987,
+        "word": "司藤小姐在古代的战斗力",
+        "onboard_time": 1699085015,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308880,
+        "num": 308880,
+        "word": "刘令姿清冷仙子妆容",
+        "onboard_time": 1699082310,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 278531,
+        "num": 278531,
+        "word": "香港女生涉网上发布港独言论被判入狱2个月",
+        "onboard_time": 1699071512,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275463,
+        "num": 275463,
+        "word": "马立奥 陪妈妈出差的小可爱",
+        "onboard_time": 1699080390,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247746,
+        "num": 247746,
+        "word": "闲置太久的鞋子就不要穿了",
+        "onboard_time": 1699082430,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219293,
+        "num": 219293,
+        "word": "谢娜说杨紫瘦得脱相了",
+        "onboard_time": 1699057773,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215259,
+        "num": 215259,
+        "word": "工行原副行长张红力被查",
+        "onboard_time": 1699082310,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 210031,
+        "num": 210031,
+        "word": "JDG对战KT",
+        "onboard_time": 1699083331,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208300,
+        "num": 208300,
+        "word": "杨幂优雅盘发妆",
+        "onboard_time": 1699082670,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 202496,
+        "num": 202496,
+        "word": "宋轶阳光鲜花plog",
+        "onboard_time": 1699085850,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199737,
+        "num": 199737,
+        "word": "首艘国产大型邮轮正式交付",
+        "onboard_time": 1699085069,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 196218,
+        "num": 196218,
+        "word": "上市公司5995万存款不见了",
+        "onboard_time": 1699084893,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190092,
+        "num": 190092,
+        "word": "内娱翻拍韩剧春夜释出全新预告",
+        "onboard_time": 1699082789,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208050,
+        "num": 189730,
+        "word": "郑书意目睹男友出轨",
+        "onboard_time": 1699085371,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183592,
+        "num": 183592,
+        "word": "国产剧转场",
+        "onboard_time": 1699085015,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176012,
+        "num": 176012,
+        "word": "EDG被重庆粉丝包围",
+        "onboard_time": 1699081112,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172540,
+        "num": 172540,
+        "word": "原来时宴是雪姨和陆振华生的",
+        "onboard_time": 1699069231,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157644,
+        "num": 157644,
+        "word": "李彩领申有娜中文battle",
+        "onboard_time": 1699084111,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146077,
+        "num": 146077,
+        "word": "口臭腹胀恶心警惕幽门螺杆菌感染",
+        "onboard_time": 1699078112,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139043,
+        "num": 139043,
+        "word": "吴彤是抓住了闫妮的什么把柄吗",
+        "onboard_time": 1699074812,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137588,
+        "num": 137588,
+        "word": "我的女朋友不会要有女朋友了吧",
+        "onboard_time": 1699082611,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136878,
+        "num": 136878,
+        "word": "11个月大婴儿吃柚子窒息医护3分钟赶到急救",
+        "onboard_time": 1699075174,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133744,
+        "num": 133744,
+        "word": "女子连续掐点怀孕逃避刑罚",
+        "onboard_time": 1699070136,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134662,
+        "num": 131620,
+        "word": "林俊杰演唱会后台包凉皮",
+        "onboard_time": 1699077510,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129288,
+        "num": 129288,
+        "word": "辛芷蕾吃酸奶疙瘩像被人打了一样",
+        "onboard_time": 1699076371,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121746,
+        "num": 121746,
+        "word": "以爱为营",
+        "onboard_time": 1699070732,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107711,
+        "num": 107711,
+        "word": "罗云熙泰媒生图",
+        "onboard_time": 1699076252,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102230,
+        "num": 102230,
+        "word": "刘诗诗古力娜扎合照梦回轩辕剑",
+        "onboard_time": 1699080811,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95196,
+        "num": 95196,
+        "word": "第一次见脑袋这么大的猫",
+        "onboard_time": 1699076371,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93305,
+        "num": 93305,
+        "word": "4女子用甘蔗抬大鱼大肉探望产后闺蜜",
+        "onboard_time": 1699080570,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93082,
+        "num": 93082,
+        "word": "健康式喝咖啡需要注意什么细节",
+        "onboard_time": 1699083032,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88039,
+        "num": 88039,
+        "word": "对外工作被渗透策反和拉拢腐蚀风险较高",
+        "onboard_time": 1699085251,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85736,
+        "num": 85736,
+        "word": "淄博36条道路落叶缓扫留住秋天",
+        "onboard_time": 1699084708,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同德方努力捍卫国际秩序和多边主义#"
+    }
+  }
+}

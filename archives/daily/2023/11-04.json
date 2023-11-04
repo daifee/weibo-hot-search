@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699083251387,
+  "endTime": 1699085983922,
   "band_list": [
     {
       "raw_hot": 2698711,
@@ -9,6 +9,14 @@
       "onboard_time": 1699066771,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1599014,
+      "num": 1599014,
+      "word": "北大宿舍聊天 婚姻残酷真相",
+      "onboard_time": 1699083391,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1503634,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785071,
+      "num": 785071,
+      "word": "缅北流弹击中瑞丽居民楼",
+      "onboard_time": 1699080631,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776972,
       "num": 776972,
       "word": "韩网评宋茜近况",
@@ -179,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 748480,
-      "num": 748480,
-      "word": "缅北流弹击中瑞丽居民楼",
-      "onboard_time": 1699080631,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 732232,
+      "num": 384398,
+      "word": "向太解释李连杰向她请安",
+      "onboard_time": 1699083933,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 725750,
@@ -267,6 +283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 612051,
+      "num": 612051,
+      "word": "女童上幼儿园19天8天没有早饭",
+      "onboard_time": 1699080988,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588645,
       "num": 588645,
       "word": "小伙在自家厕所里建海洋馆隐居6年",
@@ -305,6 +329,14 @@
       "onboard_time": 1699069293,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544848,
+      "num": 544848,
+      "word": "怀化一校车侧翻坠下山坡",
+      "onboard_time": 1699079131,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538474,
@@ -379,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 480438,
+      "num": 480438,
+      "word": "宋亚轩买游戏账号被骗钱",
+      "onboard_time": 1699085371,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476099,
       "num": 394733,
       "word": "口臭腹胀恶心警惕幽门螺杆菌感染",
@@ -428,7 +468,7 @@
     },
     {
       "raw_hot": 446466,
-      "num": 183208,
+      "num": 379007,
       "word": "孙颖莎 淋雨一直走",
       "onboard_time": 1699082430,
       "rank": 30,
@@ -457,14 +497,6 @@
       "onboard_time": 1699081471,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 428842,
-      "num": 428842,
-      "word": "怀化一校车侧翻坠下山坡",
-      "onboard_time": 1699079131,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424533,
@@ -627,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352359,
-      "num": 352359,
-      "word": "女童上幼儿园19天8天没有早饭",
-      "onboard_time": 1699080988,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343581,
       "num": 343581,
       "word": "8名学生遇陌生男童庆生唱了1首生日歌",
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336396,
+      "num": 336396,
+      "word": "当地回应一校车侧翻坠下山坡",
+      "onboard_time": 1699082789,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336017,
       "num": 336017,
       "word": "迪丽热巴花团锦簇复古造型",
@@ -675,12 +707,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334278,
+      "num": 334278,
+      "word": "龚俊痛失本名",
+      "onboard_time": 1699084531,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 332630,
       "num": 332630,
       "word": "缅甸内战最新情况",
       "onboard_time": 1699078049,
       "rank": 19,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 330570,
+      "num": 330570,
+      "word": "樊胜美妈妈变本加厉",
+      "onboard_time": 1699083090,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326987,
+      "num": 326987,
+      "word": "司藤小姐在古代的战斗力",
+      "onboard_time": 1699085015,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 313659,
@@ -779,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256457,
-      "num": 256457,
-      "word": "樊胜美妈妈变本加厉",
-      "onboard_time": 1699083090,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253904,
       "num": 253904,
       "word": "消防员下井把头盔给了坠井8旬老人",
@@ -809,6 +857,14 @@
       "onboard_time": 1699076252,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247746,
+      "num": 247746,
+      "word": "闲置太久的鞋子就不要穿了",
+      "onboard_time": 1699082430,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 244135,
@@ -947,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210031,
+      "num": 210031,
+      "word": "JDG对战KT",
+      "onboard_time": 1699074034,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209782,
       "num": 209782,
       "word": "艺术家韦伟逝世",
@@ -955,12 +1019,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209490,
-      "num": 209490,
-      "word": "闲置太久的鞋子就不要穿了",
-      "onboard_time": 1699082430,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 208300,
+      "num": 208300,
+      "word": "杨幂优雅盘发妆",
+      "onboard_time": 1699082670,
+      "rank": 31,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 208050,
+      "num": 189730,
+      "word": "郑书意目睹男友出轨",
+      "onboard_time": 1699085371,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 207698,
@@ -1035,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202496,
+      "num": 202496,
+      "word": "宋轶阳光鲜花plog",
+      "onboard_time": 1699085850,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202483,
       "num": 202483,
       "word": "内娱翻拍韩剧春夜释出全新预告",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1699081229,
       "rank": 24,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 199737,
+      "num": 199737,
+      "word": "首艘国产大型邮轮正式交付",
+      "onboard_time": 1699085069,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 199344,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1699064369,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196218,
+      "num": 196218,
+      "word": "上市公司5995万存款不见了",
+      "onboard_time": 1699084893,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 195168,
@@ -1179,14 +1275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186224,
-      "num": 186224,
-      "word": "当地回应一校车侧翻坠下山坡",
-      "onboard_time": 1699082789,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184614,
       "num": 184614,
       "word": "余承东炮轰车企一把手不懂AEB",
@@ -1211,12 +1299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180166,
-      "num": 180166,
-      "word": "杨幂优雅盘发妆",
-      "onboard_time": 1699082670,
+      "raw_hot": 183592,
+      "num": 183592,
+      "word": "国产剧转场",
+      "onboard_time": 1699085015,
       "rank": 31,
-      "category": "作品衍生,美妆"
+      "category": "剧集"
     },
     {
       "raw_hot": 179958,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1699057051,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157644,
+      "num": 157644,
+      "word": "李彩领申有娜中文battle",
+      "onboard_time": 1699084111,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 157511,
@@ -1497,6 +1593,14 @@
       "onboard_time": 1699061070,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137588,
+      "num": 137588,
+      "word": "我的女朋友不会要有女朋友了吧",
+      "onboard_time": 1699082611,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 136762,
@@ -1723,14 +1827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117153,
-      "num": 117153,
-      "word": "JDG对战KT",
-      "onboard_time": 1699074034,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116932,
       "num": 116932,
       "word": "文咏珊初秋美拉德妆容",
@@ -1745,14 +1841,6 @@
       "onboard_time": 1699062272,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115855,
-      "num": 115855,
-      "word": "我的女朋友不会要有女朋友了吧",
-      "onboard_time": 1699082611,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 115277,
@@ -1883,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88039,
+      "num": 88039,
+      "word": "对外工作被渗透策反和拉拢腐蚀风险较高",
+      "onboard_time": 1699085251,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87655,
       "num": 87655,
       "word": "以爱为营能不能让我演两集",
@@ -1897,6 +1993,14 @@
       "onboard_time": 1699053383,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85736,
+      "num": 85736,
+      "word": "淄博36条道路落叶缓扫留住秋天",
+      "onboard_time": 1699084708,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 82555,
