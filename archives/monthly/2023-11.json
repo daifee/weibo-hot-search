@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699054455992,
+  "endTime": 1699060327803,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -507,6 +507,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1483209,
+      "num": 777604,
+      "word": "谢娜说杨紫瘦得脱相了",
+      "onboard_time": 1699057773,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1482421,
       "num": 475049,
       "word": "温碧霞P图从不P老公",
@@ -771,6 +779,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1125296,
+      "num": 408090,
+      "word": "迪丽热巴异瞳",
+      "onboard_time": 1699055186,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1122133,
       "num": 386139,
       "word": "孙俪背沟",
@@ -939,6 +955,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1023367,
+      "num": 777331,
+      "word": "被举报与女同事暧昧副市长被免职",
+      "onboard_time": 1699054948,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997239,
       "num": 592013,
       "word": "举报助学金被挤男生让网友别转钱了",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1698917433,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928743,
+      "num": 928743,
+      "word": "时宴的车不载有男朋友的女人",
+      "onboard_time": 1699054647,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 927195,
@@ -1307,6 +1339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 784110,
+      "num": 784110,
+      "word": "外卖深夜1400元牛杂汤疑为非法服务",
+      "onboard_time": 1699056690,
+      "rank": 1,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 783524,
       "num": 405552,
       "word": "赵丽颖黑发公主切",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1699008338,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 776972,
+      "num": 776972,
+      "word": "韩网评宋茜近况",
+      "onboard_time": 1699057891,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 768063,
@@ -1635,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665341,
+      "num": 665341,
+      "word": "军队文职 网站崩了",
+      "onboard_time": 1699057471,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 663003,
       "num": 663003,
       "word": "6名中国公民在菲被绑架下落不明",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1699004495,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 650947,
+      "num": 650947,
+      "word": "黄晓明被说油的那阵赶上沈腾上网了",
+      "onboard_time": 1699058671,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 646054,
@@ -1995,6 +2059,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 572733,
+      "num": 572733,
+      "word": "银行回应取600存款要花800开证明",
+      "onboard_time": 1699058612,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 572242,
       "num": 572242,
       "word": "白鹿一部剧开机一部剧定档",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1698841894,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 499403,
+      "num": 161577,
+      "word": "买了最白香奈儿回家发现更白的",
+      "onboard_time": 1699059092,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 498114,
@@ -3459,6 +3539,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 353877,
+      "num": 353877,
+      "word": "范丞丞 王牌现在都这么疯吗",
+      "onboard_time": 1699055247,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352908,
       "num": 294759,
       "word": "库克称iPhone15在中国表现良好",
@@ -3587,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343535,
+      "num": 343535,
+      "word": "西游记毗蓝婆菩萨扮演者去世",
+      "onboard_time": 1699054647,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342264,
       "num": 342264,
       "word": "约旦召回驻以色列大使",
@@ -3616,6 +3712,14 @@
       "word": "Ricky直播被工作人员训斥",
       "onboard_time": 1698811234,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336653,
+      "num": 336653,
+      "word": "李善均毛发检测阴性",
+      "onboard_time": 1699055307,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4515,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266852,
+      "num": 266852,
+      "word": "终于等到这英出那英的妆教",
+      "onboard_time": 1699058792,
+      "rank": 17,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 266379,
       "num": 266379,
       "word": "茅台涨价影响有多大",
@@ -4569,6 +4681,14 @@
       "onboard_time": 1698991655,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262976,
+      "num": 262976,
+      "word": "杨紫画腮红画成年画娃娃",
+      "onboard_time": 1699059991,
+      "rank": 18,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 262179,
@@ -5115,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233731,
+      "num": 233731,
+      "word": "祝绪丹银色美人鱼",
+      "onboard_time": 1699055307,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 233173,
       "num": 233173,
       "word": "这些护肤的钱别花都是智商税",
@@ -5451,6 +5579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 221177,
+      "num": 221177,
+      "word": "当事人回应获评助学金后坚持再举报",
+      "onboard_time": 1699058552,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 220883,
       "num": 220883,
       "word": "真正的赌徒 不定闹钟我也能睡醒",
@@ -5513,6 +5649,14 @@
       "onboard_time": 1698810096,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217837,
+      "num": 217837,
+      "word": "十次化妆九次都会用到的宝藏产品",
+      "onboard_time": 1699059092,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 217691,
@@ -5979,6 +6123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199344,
+      "num": 199344,
+      "word": "谁给周也配的鞋子",
+      "onboard_time": 1699058431,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199324,
       "num": 181461,
       "word": "郭帆二维码",
@@ -6339,6 +6491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189991,
+      "num": 189991,
+      "word": "狗狗醒来发现家里没人委屈大哭",
+      "onboard_time": 1699054465,
+      "rank": 26,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 189784,
       "num": 189784,
       "word": "双十一互助",
@@ -6459,6 +6619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 186411,
+      "num": 186411,
+      "word": "用大数据确定助学金比民主评选靠谱",
+      "onboard_time": 1699059811,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 186055,
       "num": 186055,
       "word": "大可不必指责过洋节的年轻人崇洋媚外",
@@ -6497,6 +6665,14 @@
       "onboard_time": 1698799056,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184614,
+      "num": 184614,
+      "word": "余承东炮轰车企一把手不懂AEB",
+      "onboard_time": 1699057051,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 184572,
@@ -7155,12 +7331,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161671,
+      "num": 161671,
+      "word": "敖子逸帮孙晨竣越帮越忙",
+      "onboard_time": 1699058973,
+      "rank": 29,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 161623,
       "num": 200276,
       "word": "宋茜演绎Zuhair Murad高定",
       "onboard_time": 1699010856,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161262,
+      "num": 161262,
+      "word": "在以前女性是如何解决月经问题的",
+      "onboard_time": 1699058852,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161223,
@@ -7217,6 +7409,14 @@
       "onboard_time": 1698818853,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158967,
+      "num": 158967,
+      "word": "辛芷蕾不笑的时候还是挺辛芷蕾的",
+      "onboard_time": 1699057051,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158805,
@@ -7313,6 +7513,14 @@
       "onboard_time": 1698832475,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156296,
+      "num": 156296,
+      "word": "丫丫吃饭嘎嘣脆",
+      "onboard_time": 1699060112,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155783,
@@ -7907,6 +8115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136496,
+      "num": 136496,
+      "word": "NBA季中锦标赛",
+      "onboard_time": 1699060050,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136428,
       "num": 136428,
       "word": "UFC上海站官宣",
@@ -7995,6 +8211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133942,
+      "num": 133942,
+      "word": "金晨一天三套高定",
+      "onboard_time": 1699057471,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133755,
       "num": 133755,
       "word": "马特乌斯说梅西不配金球奖",
@@ -8009,6 +8233,14 @@
       "onboard_time": 1698821369,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133557,
+      "num": 133557,
+      "word": "GEN发文告别S13",
+      "onboard_time": 1699054104,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 133522,
@@ -8139,6 +8371,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129900,
+      "num": 129900,
+      "word": "马龙对奥恰20连胜",
+      "onboard_time": 1699056631,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129796,
+      "num": 129796,
+      "word": "华为鸿蒙生态科技在桂林首次亮相",
+      "onboard_time": 1699055307,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
@@ -8217,6 +8465,14 @@
       "onboard_time": 1698769588,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125280,
+      "num": 125280,
+      "word": "秦岚把秦海璐整害羞了",
+      "onboard_time": 1699060050,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 123667,
@@ -8451,6 +8707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114422,
+      "num": 114422,
+      "word": "小熊弄丢了气球妈妈安慰小熊",
+      "onboard_time": 1699059936,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114409,
       "num": 114409,
       "word": "少年离家流浪走投无路求民警帮找工作",
@@ -8481,6 +8745,14 @@
       "onboard_time": 1699036277,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111879,
+      "num": 111879,
+      "word": "英雄联盟S13",
+      "onboard_time": 1699058012,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 111831,
@@ -8529,6 +8801,14 @@
       "onboard_time": 1698853476,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109938,
+      "num": 109938,
+      "word": "陶昕然的白裙在黑色礁石下更美了",
+      "onboard_time": 1699060173,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109670,
@@ -8833,14 +9113,6 @@
       "onboard_time": 1698765278,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 79807,
-      "num": 79807,
-      "word": "GEN发文告别S13",
-      "onboard_time": 1699054104,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 79063,
