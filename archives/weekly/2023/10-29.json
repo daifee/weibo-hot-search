@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699108469309,
+  "endTime": 1699110960246,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -5315,6 +5315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 455089,
+      "num": 965324,
+      "word": "福建男篮浙江男篮赛后冲突",
+      "onboard_time": 1699109380,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453942,
       "num": 453942,
       "word": "厦门居然有不少人住在湖里",
@@ -5513,6 +5521,14 @@
       "onboard_time": 1699081471,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 436187,
+      "num": 1396197,
+      "word": "进击的巨人",
+      "onboard_time": 1699104638,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 435248,
@@ -6579,6 +6595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372724,
+      "num": 919617,
+      "word": "胃胀气就是要舍得饿自己",
+      "onboard_time": 1699109858,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 371905,
       "num": 371905,
       "word": "一年级老师在班级群用拼音夸学生",
@@ -6865,6 +6889,14 @@
       "onboard_time": 1698923434,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 355974,
+      "num": 1189353,
+      "word": "这期的梦想改造家给我看气了",
+      "onboard_time": 1699108238,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 354624,
@@ -7395,6 +7427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328604,
+      "num": 1396676,
+      "word": "她的十八岁和我一样安静和痛苦吗",
+      "onboard_time": 1699105599,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327815,
       "num": 327815,
       "word": "肯豆cos玛丽莲梦露",
@@ -7473,14 +7513,6 @@
       "onboard_time": 1698917911,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323774,
-      "num": 1396676,
-      "word": "她的十八岁和我一样安静和痛苦吗",
-      "onboard_time": 1699105599,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 323664,
@@ -8217,14 +8249,6 @@
       "onboard_time": 1698938136,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289799,
-      "num": 1396197,
-      "word": "进击的巨人",
-      "onboard_time": 1699104638,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 289454,
@@ -10667,6 +10691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225269,
+      "num": 919582,
+      "word": "深夜的海洋到底有多可怕",
+      "onboard_time": 1699109439,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 225075,
       "num": 225075,
       "word": "空腹有氧谁跳谁瘦",
@@ -11081,6 +11113,14 @@
       "onboard_time": 1698851318,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215513,
+      "num": 1185593,
+      "word": "狗狗耳朵都放下来了你倒是摸啊",
+      "onboard_time": 1699108417,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 215499,
@@ -11539,6 +11579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207120,
+      "num": 1395080,
+      "word": "世界冠军不可怕 谁不四强谁尴尬",
+      "onboard_time": 1699106739,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207085,
       "num": 207085,
       "word": "伯恩山犬的脚为什么这么大啊",
@@ -11577,14 +11625,6 @@
       "onboard_time": 1698748534,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206630,
-      "num": 1395080,
-      "word": "世界冠军不可怕 谁不四强谁尴尬",
-      "onboard_time": 1699106739,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 206568,
@@ -11979,6 +12019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202059,
+      "num": 919631,
+      "word": "王曼昱4比1早田希娜",
+      "onboard_time": 1699109076,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201739,
       "num": 201739,
       "word": "张译又演警察了",
@@ -12033,6 +12081,14 @@
       "onboard_time": 1699103498,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201256,
+      "num": 1195512,
+      "word": "丁程鑫队长大秀故事感",
+      "onboard_time": 1699108359,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 201209,
@@ -12555,6 +12611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195294,
+      "num": 919577,
+      "word": "减肥操再也不枯燥了",
+      "onboard_time": 1699109200,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 195283,
       "num": 195283,
       "word": "北京国安官方通报王刚肋骨骨折",
@@ -12601,14 +12665,6 @@
       "onboard_time": 1698719254,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194672,
-      "num": 1195512,
-      "word": "丁程鑫队长大秀故事感",
-      "onboard_time": 1699108359,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 194536,
@@ -16547,6 +16603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141247,
+      "num": 919565,
+      "word": "第一视角看注意力缺陷症",
+      "onboard_time": 1699109802,
+      "rank": 33,
+      "category": "其它"
+    },
+    {
       "raw_hot": 141030,
       "num": 141030,
       "word": "iG夺冠五周年",
@@ -17561,6 +17625,14 @@
       "onboard_time": 1698558391,
       "rank": 39,
       "category": "演出,幽默"
+    },
+    {
+      "raw_hot": 129187,
+      "num": 919539,
+      "word": "莎头",
+      "onboard_time": 1699110698,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 129126,
@@ -18635,6 +18707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112349,
+      "num": 919565,
+      "word": "外公干农活两外孙女一左一右帮倒忙",
+      "onboard_time": 1699109675,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112127,
       "num": 112127,
       "word": "当红流量今年剧中的原声台词",
@@ -18987,14 +19067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104331,
-      "num": 1189353,
-      "word": "这期的梦想改造家给我看气了",
-      "onboard_time": 1699108238,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104260,
       "num": 296557,
       "word": "黄龄教你怎么买低价iPhone",
@@ -19107,12 +19179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102523,
+      "num": 919506,
+      "word": "申有娜阿尼亚cos",
+      "onboard_time": 1699110760,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102403,
       "num": 102403,
       "word": "爸爸给住校儿子送饭叮嘱要分享",
       "onboard_time": 1698939817,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102102,
+      "num": 919503,
+      "word": "富勒姆0比1曼联",
+      "onboard_time": 1699109076,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101923,
@@ -19833,14 +19921,6 @@
       "onboard_time": 1698652831,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 70456,
-      "num": 1185593,
-      "word": "狗狗耳朵都放下来了你倒是摸啊",
-      "onboard_time": 1699108417,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 67548,
