@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699076059864,
+  "endTime": 1699078876774,
   "band_list": [
     {
       "raw_hot": 2698711,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1045628,
+      "num": 1045628,
+      "word": "加沙孩子被迫喝平时驴都不喝的水",
+      "onboard_time": 1699073613,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1023367,
       "num": 777331,
       "word": "被举报与女同事暧昧副市长被免职",
@@ -115,12 +123,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 857590,
-      "num": 857590,
-      "word": "加沙孩子被迫喝平时驴都不喝的水",
-      "onboard_time": 1699073613,
-      "rank": 7,
-      "category": "国外要闻"
+      "raw_hot": 828856,
+      "num": 828856,
+      "word": "吴彤是抓住了闫妮的什么把柄吗",
+      "onboard_time": 1699074812,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 805201,
@@ -243,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571271,
+      "num": 571271,
+      "word": "11个月大婴儿吃柚子窒息医护3分钟赶到急救",
+      "onboard_time": 1699075174,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565217,
       "num": 565217,
       "word": "杨紫 两套造型",
       "onboard_time": 1699006292,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 563149,
+      "num": 563149,
+      "word": "辛芷蕾吃酸奶疙瘩像被人打了一样",
+      "onboard_time": 1699076371,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 562099,
@@ -273,14 +297,6 @@
       "onboard_time": 1699070431,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 527528,
-      "num": 527528,
-      "word": "吴彤是抓住了闫妮的什么把柄吗",
-      "onboard_time": 1699074812,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 499403,
@@ -387,6 +403,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 423991,
+      "num": 407622,
+      "word": "林俊杰演唱会后台包凉皮",
+      "onboard_time": 1699077510,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 421989,
       "num": 368573,
       "word": "以爱为营 广告好多",
@@ -417,6 +441,14 @@
       "onboard_time": 1699072653,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 394733,
+      "num": 394733,
+      "word": "口臭腹胀恶心警惕幽门螺杆菌感染",
+      "onboard_time": 1699078112,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 386764,
@@ -547,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319584,
-      "num": 319584,
-      "word": "11个月大婴儿吃柚子窒息医护3分钟赶到急救",
-      "onboard_time": 1699075174,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313659,
       "num": 313659,
       "word": "库里绝杀雷霆",
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261475,
+      "num": 261475,
+      "word": "8名学生遇陌生男童庆生唱了1首生日歌",
+      "onboard_time": 1699075352,
+      "rank": 31,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 258702,
       "num": 258702,
       "word": "丫丫吃饭嘎嘣脆",
@@ -665,6 +697,22 @@
       "onboard_time": 1699027712,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249476,
+      "num": 195462,
+      "word": "罗云熙泰媒生图",
+      "onboard_time": 1699076252,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244135,
+      "num": 189612,
+      "word": "张新成看到三个唐嫣瞬间清醒",
+      "onboard_time": 1699078289,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 243108,
@@ -739,6 +787,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220422,
+      "num": 220422,
+      "word": "时宴能不能搬出去让我住两天",
+      "onboard_time": 1699075473,
+      "rank": 23,
+      "category": "剧集,幽默"
+    },
+    {
       "raw_hot": 220247,
       "num": 230535,
       "word": "中国驻菲使馆回应6中国公民马尼拉被绑",
@@ -755,12 +811,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 215220,
-      "num": 215220,
-      "word": "时宴能不能搬出去让我住两天",
-      "onboard_time": 1699075473,
+      "raw_hot": 217098,
+      "num": 186017,
+      "word": "第一次见脑袋这么大的猫",
+      "onboard_time": 1699076371,
       "rank": 23,
-      "category": "剧集,幽默"
+      "category": "幽默"
     },
     {
       "raw_hot": 213309,
@@ -833,6 +889,14 @@
       "onboard_time": 1699001014,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "缅甸内战最新情况",
+      "onboard_time": 1699078049,
+      "rank": 19,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 199344,
@@ -995,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178565,
-      "num": 178565,
-      "word": "8名学生遇陌生男童庆生唱了1首生日歌",
-      "onboard_time": 1699075352,
-      "rank": 31,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 170568,
       "num": 170568,
       "word": "孙颖莎 勇往直前Go混剪",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1699024537,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 153230,
+      "num": 153230,
+      "word": "田协通报批评大连马拉松组委会",
+      "onboard_time": 1699076551,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 152172,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1699020939,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 129956,
+      "num": 129956,
+      "word": "顾云峥 嘴硬的人没老婆",
+      "onboard_time": 1699077573,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 129900,
@@ -1491,6 +1563,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 103064,
+      "num": 100860,
+      "word": "祝绪丹镶钻发链",
+      "onboard_time": 1699077152,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101039,
       "num": 101039,
       "word": "BLG晋级S13四强",
@@ -1513,6 +1593,22 @@
       "onboard_time": 1699066469,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91232,
+      "num": 829736,
+      "word": "让看电视更简单消费不套娃",
+      "onboard_time": 1699077631,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88117,
+      "num": 100845,
+      "word": "男孩一进教室先递给老师俩肉串",
+      "onboard_time": 1699078112,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87655,
@@ -1545,6 +1641,22 @@
       "onboard_time": 1699074632,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76349,
+      "num": 100839,
+      "word": "芥末虾球",
+      "onboard_time": 1699078591,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 68154,
+      "num": 100831,
+      "word": "发带还可以这样用",
+      "onboard_time": 1699078830,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 65634,
