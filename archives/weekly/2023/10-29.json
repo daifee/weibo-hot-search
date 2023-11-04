@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699079641500,
+  "endTime": 1699082164917,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1698911318,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1295396,
+      "num": 1295396,
+      "word": "迪丽热巴换手机壳庆祝入住大床房",
+      "onboard_time": 1699079373,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1293717,
@@ -4163,14 +4171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 543581,
-      "num": 343425,
-      "word": "迪丽热巴换手机壳庆祝入住大床房",
-      "onboard_time": 1699079373,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542878,
       "num": 1076583,
       "word": "多方回应网传合肥一小学生校内死亡",
@@ -5099,6 +5099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445922,
+      "num": 445922,
+      "word": "EDG被重庆粉丝包围",
+      "onboard_time": 1699081112,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 445338,
       "num": 445338,
       "word": "被解聘医院员工发声",
@@ -5475,6 +5483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 414565,
+      "num": 328970,
+      "word": "缅北流弹击中瑞丽居民楼",
+      "onboard_time": 1699080631,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414508,
       "num": 414508,
       "word": "幼童卡喉脸已发紫护士45秒极速营救",
@@ -5505,6 +5521,14 @@
       "onboard_time": 1698896792,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 412715,
+      "num": 327837,
+      "word": "张杰曾想签约魏大勋",
+      "onboard_time": 1699081471,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 411898,
@@ -5915,6 +5939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 388002,
+      "num": 388002,
+      "word": "怀化一校车侧翻坠下山坡",
+      "onboard_time": 1699079131,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387785,
       "num": 1547500,
       "word": "1500岁万椹之母被雷劈数次仍结千斤果",
@@ -6177,6 +6209,14 @@
       "onboard_time": 1699006775,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 373827,
+      "num": 327370,
+      "word": "马立奥 陪妈妈出差的小可爱",
+      "onboard_time": 1699080390,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 373303,
@@ -7153,6 +7193,14 @@
       "onboard_time": 1698723632,
       "rank": 14,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 316077,
+      "num": 307947,
+      "word": "魏大勋 孟总下车扣西服",
+      "onboard_time": 1699081471,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315947,
@@ -9012,7 +9060,7 @@
     },
     {
       "raw_hot": 249476,
-      "num": 195462,
+      "num": 243490,
       "word": "罗云熙泰媒生图",
       "onboard_time": 1699076252,
       "rank": 21,
@@ -10323,6 +10371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220665,
+      "num": 160022,
+      "word": "女童上幼儿园19天8天没有早饭",
+      "onboard_time": 1699080988,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220566,
       "num": 220566,
       "word": "她不是法律界的杨天真她是刘律",
@@ -11139,6 +11195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204958,
+      "num": 198767,
+      "word": "秦岚一句话让辛芷蕾变脸",
+      "onboard_time": 1699081352,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204933,
       "num": 204933,
       "word": "马里奥世界闹鬼了",
@@ -11185,6 +11249,14 @@
       "onboard_time": 1698656971,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204594,
+      "num": 204594,
+      "word": "4女子用甘蔗抬大鱼大肉探望产后闺蜜",
+      "onboard_time": 1699080570,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204394,
@@ -11473,6 +11545,14 @@
       "onboard_time": 1698560550,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 199965,
+      "num": 199965,
+      "word": "灵笼第二季",
+      "onboard_time": 1699081229,
+      "rank": 24,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 199873,
@@ -12819,6 +12899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184178,
+      "num": 157478,
+      "word": "秦岚吸引力大法",
+      "onboard_time": 1699081051,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184140,
       "num": 184140,
       "word": "阳光下的赵露思",
@@ -13635,14 +13723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170781,
-      "num": 170781,
-      "word": "怀化一校车侧翻坠下山坡",
-      "onboard_time": 1699079131,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170747,
       "num": 170747,
       "word": "以色列大使说诚实国家都该断供联合国",
@@ -13921,6 +14001,14 @@
       "onboard_time": 1698729272,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166911,
+      "num": 166911,
+      "word": "帮林俊杰救过场的人生简历",
+      "onboard_time": 1699079673,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 166740,
@@ -14761,6 +14849,14 @@
       "onboard_time": 1698989314,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154622,
+      "num": 154622,
+      "word": "法国主厨油泼biangbiang面",
+      "onboard_time": 1699080811,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 154484,
@@ -16475,6 +16571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130064,
+      "num": 829736,
+      "word": "让看电视更简单消费不套娃",
+      "onboard_time": 1699077631,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130033,
       "num": 130033,
       "word": "成都把秋天搬进地铁里",
@@ -16515,12 +16619,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129795,
+      "num": 129795,
+      "word": "刘诗诗古力娜扎合照梦回轩辕剑",
+      "onboard_time": 1699080811,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 129695,
       "num": 129695,
       "word": "小姐姐抓夹这样用被卡捂脸求助消防",
       "onboard_time": 1698652953,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129679,
+      "num": 129679,
+      "word": "常规剖宫产vs腹膜外剖宫产",
+      "onboard_time": 1699081951,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129487,
@@ -16777,14 +16897,6 @@
       "onboard_time": 1698769588,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124840,
-      "num": 829736,
-      "word": "让看电视更简单消费不套娃",
-      "onboard_time": 1699077631,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124787,
@@ -18139,6 +18251,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96428,
+      "num": 96428,
+      "word": "徐州特色把子肉",
+      "onboard_time": 1699081652,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 95797,
+      "num": 96445,
+      "word": "拯救嫌疑人 不如先拯救观众吧",
+      "onboard_time": 1699080028,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95598,
       "num": 95598,
       "word": "通信技术试验卫星十号发射成功",
@@ -18233,6 +18361,14 @@
       "onboard_time": 1698535163,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91665,
+      "num": 91665,
+      "word": "权顺荣God Of Music直拍",
+      "onboard_time": 1699082130,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 91269,
@@ -18697,6 +18833,14 @@
       "onboard_time": 1698860238,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63460,
+      "num": 326105,
+      "word": "甄嬛传又联名了",
+      "onboard_time": 1699081590,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 62647,
