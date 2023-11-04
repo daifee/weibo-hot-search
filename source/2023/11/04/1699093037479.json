@@ -1,0 +1,410 @@
+{
+  "runTime": 1699093037479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450081,
+        "num": 1450081,
+        "word": "联合国称缅北数百人越境逃入中国",
+        "onboard_time": 1699089751,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 370988,
+        "num": 1171656,
+        "word": "宁波一小区物业自治3年分红200万",
+        "onboard_time": 1699090832,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90542,
+        "num": 1124496,
+        "word": "专属秋天的多巴胺配色",
+        "onboard_time": 1699090170,
+        "rank": 2,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1089373,
+        "num": 1089373,
+        "word": "北大宿舍聊天 婚姻残酷真相",
+        "onboard_time": 1699083391,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272393,
+        "num": 780375,
+        "word": "西湖里来了50多只小鷿鷈",
+        "onboard_time": 1699092210,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616181,
+        "num": 616181,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146749,
+        "num": 600502,
+        "word": "快递车侧翻公交司机乘客掀车救人",
+        "onboard_time": 1699089691,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599875,
+        "num": 599875,
+        "word": "宋亚轩买游戏账号被骗钱",
+        "onboard_time": 1699085371,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486218,
+        "num": 486218,
+        "word": "大连人降级",
+        "onboard_time": 1699090532,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424957,
+        "num": 424957,
+        "word": "郑书意目睹男友出轨",
+        "onboard_time": 1699085371,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469971,
+        "num": 415085,
+        "word": "迪丽热巴换手机壳庆祝入住大床房",
+        "onboard_time": 1699079373,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395329,
+        "num": 395329,
+        "word": "向太解释李连杰向她请安",
+        "onboard_time": 1699083933,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357953,
+        "num": 357953,
+        "word": "JDG醒了",
+        "onboard_time": 1699091731,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 356637,
+        "num": 356637,
+        "word": "劝人不要坠入爱河自己先坠了",
+        "onboard_time": 1699086988,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351895,
+        "num": 351895,
+        "word": "上市公司5995万存款不见了",
+        "onboard_time": 1699084893,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 321071,
+        "num": 321071,
+        "word": "孙颖莎 淋雨一直走",
+        "onboard_time": 1699082430,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290985,
+        "num": 290985,
+        "word": "女童上幼儿园19天8天没有早饭",
+        "onboard_time": 1699080988,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261036,
+        "num": 261036,
+        "word": "JDG对战KT",
+        "onboard_time": 1699083331,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258724,
+        "num": 258724,
+        "word": "杨紫 导演都是这么骗人的",
+        "onboard_time": 1699088191,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220916,
+        "num": 220916,
+        "word": "张杰曾想签约魏大勋",
+        "onboard_time": 1699081471,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264389,
+        "num": 218528,
+        "word": "闲置太久的鞋子就不要穿了",
+        "onboard_time": 1699082430,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215229,
+        "num": 215229,
+        "word": "大连人",
+        "onboard_time": 1699086329,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193000,
+        "num": 193000,
+        "word": "阎相闯含泪道歉",
+        "onboard_time": 1699092210,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175280,
+        "num": 175280,
+        "word": "孙颖莎 心无旁骛继续涨球",
+        "onboard_time": 1699082430,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170500,
+        "num": 170500,
+        "word": "梅西领先哈兰德105分",
+        "onboard_time": 1699090952,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156077,
+        "num": 156077,
+        "word": "龚俊痛失本名",
+        "onboard_time": 1699084531,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153095,
+        "num": 153095,
+        "word": "司藤小姐在古代的战斗力",
+        "onboard_time": 1699085015,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148118,
+        "num": 148118,
+        "word": "缅北流弹击中瑞丽居民楼",
+        "onboard_time": 1699080631,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146553,
+        "num": 146553,
+        "word": "压力给到LNG",
+        "onboard_time": 1699091370,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107390,
+        "num": 145897,
+        "word": "香港女生涉网上发布港独言论被判入狱2个月",
+        "onboard_time": 1699071512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30484,
+        "num": 145819,
+        "word": "刘德华为什么拿手指我",
+        "onboard_time": 1699090651,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200815,
+        "num": 145819,
+        "word": "阎相闯点球破门",
+        "onboard_time": 1699091851,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145801,
+        "num": 145801,
+        "word": "KT先下一城",
+        "onboard_time": 1699088251,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135708,
+        "num": 135708,
+        "word": "魏大勋模仿张杰",
+        "onboard_time": 1699088851,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132643,
+        "num": 132643,
+        "word": "毛不易一荤一素叙事感",
+        "onboard_time": 1699090412,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126285,
+        "num": 126285,
+        "word": "杨幂优雅盘发妆",
+        "onboard_time": 1699082670,
+        "rank": 35,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 118808,
+        "num": 118808,
+        "word": "凌晨两点的于适vs凌晨两点的侯雯元",
+        "onboard_time": 1699092749,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118503,
+        "num": 118503,
+        "word": "惠英红张小斐双影后大片",
+        "onboard_time": 1699090470,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115449,
+        "num": 115449,
+        "word": "河边的错误 是疯子吗",
+        "onboard_time": 1699088433,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106279,
+        "num": 106279,
+        "word": "刘令姿清冷仙子妆容",
+        "onboard_time": 1699082310,
+        "rank": 39,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 105033,
+        "num": 105033,
+        "word": "女子连续掐点怀孕逃避刑罚",
+        "onboard_time": 1699070136,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102926,
+        "num": 102926,
+        "word": "许凯景甜都不信匪我思存",
+        "onboard_time": 1699086329,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100023,
+        "num": 100023,
+        "word": "南通支云保级成功",
+        "onboard_time": 1699090651,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99061,
+        "num": 99061,
+        "word": "宋轶阳光鲜花plog",
+        "onboard_time": 1699085850,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98314,
+        "num": 98314,
+        "word": "以爱为营",
+        "onboard_time": 1699070732,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97418,
+        "num": 97418,
+        "word": "MISSING的洛",
+        "onboard_time": 1699092331,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51637,
+        "num": 96296,
+        "word": "徐斯 纯爱赚神",
+        "onboard_time": 1699087352,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95776,
+        "num": 95776,
+        "word": "秦岚辛芷蕾随地大小吵",
+        "onboard_time": 1699092931,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91517,
+        "num": 91517,
+        "word": "体检报告解读",
+        "onboard_time": 1699092870,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91107,
+        "num": 91107,
+        "word": "白粥和什么是绝配",
+        "onboard_time": 1699092810,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同德方努力捍卫国际秩序和多边主义#"
+    }
+  }
+}
