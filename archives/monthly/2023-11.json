@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699094030975,
+  "endTime": 1699096480840,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1043,6 +1043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1004535,
+      "num": 1004535,
+      "word": "JDG醒了",
+      "onboard_time": 1699091731,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 997239,
       "num": 592013,
       "word": "举报助学金被挤男生让网友别转钱了",
@@ -1531,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753679,
+      "num": 753679,
+      "word": "JDG拿到赛点",
+      "onboard_time": 1699094192,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 748815,
       "num": 748815,
       "word": "长沙鸣响防空警报",
@@ -1649,14 +1665,6 @@
       "onboard_time": 1699020759,
       "rank": 36,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 726995,
-      "num": 726995,
-      "word": "JDG醒了",
-      "onboard_time": 1699091731,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 725750,
@@ -1851,6 +1859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 663702,
+      "num": 1065894,
+      "word": "西湖里来了50多只小鷿鷈",
+      "onboard_time": 1699092210,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663003,
       "num": 663003,
       "word": "6名中国公民在菲被绑架下落不明",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1698979232,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615278,
+      "num": 615278,
+      "word": "JDG对战KT",
+      "onboard_time": 1699074034,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 615177,
@@ -2427,14 +2451,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 542595,
-      "num": 542595,
-      "word": "JDG对战KT",
-      "onboard_time": 1699074034,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 542156,
       "num": 289663,
       "word": "因男朋友妈妈一句话分手了",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1699073552,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 538334,
-      "num": 1042675,
-      "word": "西湖里来了50多只小鷿鷈",
-      "onboard_time": 1699092210,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536423,
@@ -2497,6 +2505,14 @@
       "onboard_time": 1699001076,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529446,
+      "num": 529446,
+      "word": "压力给到LNG",
+      "onboard_time": 1699091370,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 526282,
@@ -2731,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489247,
+      "num": 489247,
+      "word": "彩带下的杨幂",
+      "onboard_time": 1699094489,
+      "rank": 11,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 488734,
       "num": 368748,
       "word": "被papi酱的表情笑死",
@@ -2963,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457138,
+      "num": 242618,
+      "word": "原来梳头是真的有用",
+      "onboard_time": 1699094612,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 456764,
       "num": 389672,
       "word": "林俊杰回复林志颖",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1698979954,
       "rank": 6,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 431755,
+      "num": 431755,
+      "word": "秦岚辛芷蕾随地大小吵",
+      "onboard_time": 1699092931,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 431401,
@@ -4051,14 +4091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350173,
-      "num": 350173,
-      "word": "压力给到LNG",
-      "onboard_time": 1699091370,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 350008,
       "num": 350008,
       "word": "小朋友不想上幼儿园老师带全班来接",
@@ -4169,14 +4201,6 @@
       "onboard_time": 1698820413,
       "rank": 32,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 339931,
-      "num": 339931,
-      "word": "秦岚辛芷蕾随地大小吵",
-      "onboard_time": 1699092931,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 337410,
@@ -6932,7 +6956,7 @@
     },
     {
       "raw_hot": 199220,
-      "num": 665261,
+      "num": 765581,
       "word": "快递车侧翻公交司机乘客掀车救人",
       "onboard_time": 1699089691,
       "rank": 6,
@@ -7137,6 +7161,14 @@
       "onboard_time": 1699021779,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 194787,
+      "num": 194787,
+      "word": "他笑时风华正茂 预售",
+      "onboard_time": 1699095392,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 194239,
@@ -7947,6 +7979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172878,
+      "num": 166792,
+      "word": "莱昂纳多获中超金靴",
+      "onboard_time": 1699094911,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172615,
       "num": 172615,
       "word": "外卖小哥不顾订单超时照顾迷路小孩",
@@ -8121,6 +8161,14 @@
       "onboard_time": 1698838291,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167736,
+      "num": 167736,
+      "word": "NCTdream直播",
+      "onboard_time": 1699094309,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 167529,
@@ -9555,6 +9603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131256,
+      "num": 131256,
+      "word": "化妆品铁皮后还能继续用吗",
+      "onboard_time": 1699093472,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131246,
       "num": 131246,
       "word": "昆明取消商品房限售限购",
@@ -9571,6 +9627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130647,
+      "num": 130647,
+      "word": "张钧甯把星河穿身上了",
+      "onboard_time": 1699095271,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 130615,
       "num": 200304,
       "word": "义乌大爷又出手了",
@@ -9585,6 +9649,14 @@
       "onboard_time": 1698800732,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130276,
+      "num": 166821,
+      "word": "好喜欢这种多管闲事的阿姨",
+      "onboard_time": 1699095453,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130064,
@@ -9729,6 +9801,14 @@
       "onboard_time": 1699073552,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125418,
+      "num": 125418,
+      "word": "彭于晏和偶像刘德华互相敬礼",
+      "onboard_time": 1699096174,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 125390,
@@ -9939,6 +10019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119144,
+      "num": 119144,
+      "word": "上海海港夺得中超冠军",
+      "onboard_time": 1699094850,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "健康式喝咖啡需要注意什么细节",
@@ -10107,14 +10195,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 112742,
-      "num": 112742,
-      "word": "化妆品铁皮后还能继续用吗",
-      "onboard_time": 1699093472,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 112495,
       "num": 112495,
       "word": "当妈妈第一次尝试暗黑妆",
@@ -10169,6 +10249,14 @@
       "onboard_time": 1698765040,
       "rank": 38,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 111651,
+      "num": 111651,
+      "word": "成都蓉城 亚冠",
+      "onboard_time": 1699093893,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 111076,
@@ -10233,6 +10321,14 @@
       "onboard_time": 1698752011,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108264,
+      "num": 108264,
+      "word": "爱笑爱美的女科学家一生为国三转方向",
+      "onboard_time": 1699095811,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107925,
@@ -10347,14 +10443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101813,
-      "num": 101813,
-      "word": "成都蓉城 亚冠",
-      "onboard_time": 1699093893,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101724,
       "num": 101724,
       "word": "徐娇露背丝绸裙",
@@ -10377,6 +10465,14 @@
       "onboard_time": 1698811655,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100217,
+      "num": 100217,
+      "word": "国防部回应加拿大舰载直升机挑衅",
+      "onboard_time": 1699096358,
+      "rank": 45,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 100023,
@@ -11115,6 +11211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23301,
+      "num": 415420,
+      "word": "想要蔡国庆帮我算满减",
+      "onboard_time": 1699095633,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22179,
       "num": 33875,
       "word": "孙怡从e人变i人了",
@@ -11214,6 +11318,9 @@
     },
     {
       "word": "#中方愿同德方努力捍卫国际秩序和多边主义#"
+    },
+    {
+      "word": "#重温习近平主席历届进博会讲话金句#"
     }
   ]
 }
