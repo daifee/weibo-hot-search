@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699132461467,
+  "endTime": 1699133651795,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -11916,11 +11916,19 @@
     },
     {
       "raw_hot": 26130,
-      "num": 46608,
+      "num": 117300,
       "word": "广东世仇村和解开始通婚",
       "onboard_time": 1699127115,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22881,
+      "num": 117802,
+      "word": "琉璃裴行俭婚后生活",
+      "onboard_time": 1699131855,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 22179,
@@ -11929,6 +11937,14 @@
       "onboard_time": 1698783313,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21205,
+      "num": 117052,
+      "word": "精神分裂患者的世界太痛苦了",
+      "onboard_time": 1699132574,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 20675,
@@ -11953,14 +11969,6 @@
       "onboard_time": 1699125855,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 15706,
-      "num": 37347,
-      "word": "琉璃裴行俭婚后生活",
-      "onboard_time": 1699131855,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 15116,
