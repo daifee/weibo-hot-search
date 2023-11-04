@@ -1,7 +1,15 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699096480840,
+  "endTime": 1699097627296,
   "band_list": [
+    {
+      "raw_hot": 5033538,
+      "num": 5033538,
+      "word": "压力给到LNG",
+      "onboard_time": 1699091370,
+      "rank": 28,
+      "category": "电竞"
+    },
     {
       "raw_hot": 2698711,
       "num": 879926,
@@ -9,6 +17,14 @@
       "onboard_time": 1699066771,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2122229,
+      "num": 2122229,
+      "word": "炮车立功",
+      "onboard_time": 1699097073,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1749239,
@@ -43,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1387784,
+      "num": 1387784,
+      "word": "尺帝太c了",
+      "onboard_time": 1699096895,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1376437,
+      "num": 1376437,
+      "word": "T1 压力",
+      "onboard_time": 1699097261,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1295396,
       "num": 1295396,
       "word": "迪丽热巴换手机壳庆祝入住大床房",
@@ -57,6 +89,22 @@
       "onboard_time": 1699069231,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1258946,
+      "num": 1258946,
+      "word": "JDG醒了",
+      "onboard_time": 1699091731,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1251728,
+      "num": 1251728,
+      "word": "JDG晋级S13四强",
+      "onboard_time": 1699096596,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1168876,
@@ -139,14 +187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1004535,
-      "num": 1004535,
-      "word": "JDG醒了",
-      "onboard_time": 1699091731,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 888298,
       "num": 385719,
       "word": "红毯没有王法 只有迪丽热巴的想法",
@@ -161,6 +201,14 @@
       "onboard_time": 1699056690,
       "rank": 1,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 837933,
+      "num": 837933,
+      "word": "S13四强已有三支LPL战队",
+      "onboard_time": 1699096657,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 828856,
@@ -275,6 +323,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 679908,
+      "num": 679908,
+      "word": "MISSING的洛",
+      "onboard_time": 1699092331,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 679431,
       "num": 679431,
       "word": "官方回应昆明2名环卫工在垃圾站身亡",
@@ -292,7 +348,7 @@
     },
     {
       "raw_hot": 663702,
-      "num": 1065894,
+      "num": 2998310,
       "word": "西湖里来了50多只小鷿鷈",
       "onboard_time": 1699092210,
       "rank": 4,
@@ -305,6 +361,14 @@
       "onboard_time": 1699025737,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 662686,
+      "num": 662686,
+      "word": "JDG对战KT",
+      "onboard_time": 1699074034,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 625484,
@@ -321,14 +385,6 @@
       "onboard_time": 1699065511,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 615278,
-      "num": 615278,
-      "word": "JDG对战KT",
-      "onboard_time": 1699074034,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 612051,
@@ -419,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529446,
-      "num": 529446,
-      "word": "压力给到LNG",
-      "onboard_time": 1699091370,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 516550,
       "num": 516550,
       "word": "刘令姿清冷仙子妆容",
@@ -515,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 468176,
+      "num": 204030,
+      "word": "Ruler全球总决赛登场排名第三",
+      "onboard_time": 1699097261,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 460132,
       "num": 460132,
       "word": "为避免致癌使用不粘锅注意这8点",
@@ -532,7 +588,7 @@
     },
     {
       "raw_hot": 457138,
-      "num": 242618,
+      "num": 370092,
       "word": "原来梳头是真的有用",
       "onboard_time": 1699094612,
       "rank": 20,
@@ -587,14 +643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 445295,
-      "num": 445295,
-      "word": "MISSING的洛",
-      "onboard_time": 1699092331,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 440158,
       "num": 440158,
       "word": "法国驻加沙机构遭以色列空袭",
@@ -617,6 +665,14 @@
       "onboard_time": 1699092931,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426502,
+      "num": 426502,
+      "word": "国防部回应加拿大舰载直升机挑衅",
+      "onboard_time": 1699096358,
+      "rank": 45,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 424533,
@@ -732,7 +788,7 @@
     },
     {
       "raw_hot": 370988,
-      "num": 1171656,
+      "num": 1688417,
       "word": "宁波一小区物业自治3年分红200万",
       "onboard_time": 1699090832,
       "rank": 1,
@@ -883,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295998,
+      "num": 295998,
+      "word": "Ruler的卡莎",
+      "onboard_time": 1699097261,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293831,
       "num": 284430,
       "word": "岁岁青莲对我的乳腺很友好",
@@ -961,6 +1025,14 @@
       "onboard_time": 1699063588,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264507,
+      "num": 264507,
+      "word": "加拿大舰载直升机逼近中国西沙领空挑衅",
+      "onboard_time": 1699096657,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 264389,
@@ -1121,6 +1193,14 @@
       "onboard_time": 1699059092,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217211,
+      "num": 217211,
+      "word": "我可以47",
+      "onboard_time": 1699097196,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 217098,
@@ -1300,7 +1380,7 @@
     },
     {
       "raw_hot": 199220,
-      "num": 765581,
+      "num": 1380571,
       "word": "快递车侧翻公交司机乘客掀车救人",
       "onboard_time": 1699089691,
       "rank": 6,
@@ -1891,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135488,
+      "num": 135488,
+      "word": "张钧甯把星河穿身上了",
+      "onboard_time": 1699095271,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "小熊弄丢了气球妈妈安慰小熊",
@@ -1979,14 +2067,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 130647,
-      "num": 130647,
-      "word": "张钧甯把星河穿身上了",
-      "onboard_time": 1699095271,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 130276,
       "num": 166821,
       "word": "好喜欢这种多管闲事的阿姨",
@@ -2025,6 +2105,14 @@
       "onboard_time": 1699055307,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 129549,
+      "num": 129549,
+      "word": "英伟达",
+      "onboard_time": 1699096957,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 128941,
@@ -2211,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115418,
+      "num": 127039,
+      "word": "为什么不Ban洛",
+      "onboard_time": 1699097499,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115277,
       "num": 115277,
       "word": "奶奶摔倒瞬间以身为垫护住孙子",
@@ -2284,7 +2380,7 @@
     },
     {
       "raw_hot": 110821,
-      "num": 1124496,
+      "num": 2244020,
       "word": "专属秋天的多巴胺配色",
       "onboard_time": 1699090170,
       "rank": 2,
@@ -2292,7 +2388,7 @@
     },
     {
       "raw_hot": 109833,
-      "num": 109833,
+      "num": 127011,
       "word": "被四川的下饭菜香到了",
       "onboard_time": 1699093952,
       "rank": 43,
@@ -2361,14 +2457,6 @@
       "onboard_time": 1699015180,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100217,
-      "num": 100217,
-      "word": "国防部回应加拿大舰载直升机挑衅",
-      "onboard_time": 1699096358,
-      "rank": 45,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 100023,
@@ -2491,6 +2579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65808,
+      "num": 629402,
+      "word": "想要蔡国庆帮我算满减",
+      "onboard_time": 1699095633,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65634,
       "num": 65634,
       "word": "小学生捡手机后报警找失主被当众表扬",
@@ -2585,14 +2681,6 @@
       "onboard_time": 1699042633,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23301,
-      "num": 415420,
-      "word": "想要蔡国庆帮我算满减",
-      "onboard_time": 1699095633,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 20300,
