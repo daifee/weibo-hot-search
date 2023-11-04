@@ -1,0 +1,410 @@
+{
+  "runTime": 1699076059864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1495781,
+        "num": 1495781,
+        "word": "香港女生涉网上发布港独言论被判入狱2个月",
+        "onboard_time": 1699071512,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951968,
+        "num": 951968,
+        "word": "原来时宴是雪姨和陆振华生的",
+        "onboard_time": 1699069231,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46754,
+        "num": 901385,
+        "word": "深秋时节的诗情画意",
+        "onboard_time": 1699070252,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1622033,
+        "num": 879926,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 857590,
+        "num": 857590,
+        "word": "加沙孩子被迫喝平时驴都不喝的水",
+        "onboard_time": 1699073613,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 538474,
+        "num": 538474,
+        "word": "网红铁头向东方甄选道歉",
+        "onboard_time": 1699073552,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 527528,
+        "num": 527528,
+        "word": "吴彤是抓住了闫妮的什么把柄吗",
+        "onboard_time": 1699074812,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520893,
+        "num": 520893,
+        "word": "谢娜说杨紫瘦得脱相了",
+        "onboard_time": 1699057773,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460132,
+        "num": 460132,
+        "word": "为避免致癌使用不粘锅注意这8点",
+        "onboard_time": 1699071334,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409339,
+        "num": 409339,
+        "word": "官方回应昆明2名环卫工在垃圾站身亡",
+        "onboard_time": 1699069892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45542,
+        "num": 348105,
+        "word": "绝区零你这么做角色是吧",
+        "onboard_time": 1699074212,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 596212,
+        "num": 347883,
+        "word": "网友们给迪丽热巴造型换了色",
+        "onboard_time": 1699068751,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 347595,
+        "num": 347595,
+        "word": "傅首尔和张踩铃对待婚姻好清醒",
+        "onboard_time": 1699071391,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344715,
+        "num": 344715,
+        "word": "何炅问丁程鑫弟弟能不在地上吗",
+        "onboard_time": 1699072173,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157240,
+        "num": 328807,
+        "word": "绝区零降噪测试",
+        "onboard_time": 1699074034,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 324667,
+        "num": 324667,
+        "word": "黄晓明用AI换杨迪脸给黄明昊打电话",
+        "onboard_time": 1699069293,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319584,
+        "num": 319584,
+        "word": "11个月大婴儿吃柚子窒息医护3分钟赶到急救",
+        "onboard_time": 1699075174,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318672,
+        "num": 318672,
+        "word": "杜锋故意损坏辽篮主场LED屏幕",
+        "onboard_time": 1699070431,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301925,
+        "num": 301925,
+        "word": "桐华两任女主若曦小夭同框",
+        "onboard_time": 1699069892,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298958,
+        "num": 298958,
+        "word": "绝区零",
+        "onboard_time": 1699072653,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 671616,
+        "num": 297241,
+        "word": "女子连续掐点怀孕逃避刑罚",
+        "onboard_time": 1699070136,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292435,
+        "num": 292435,
+        "word": "迪丽热巴异瞳",
+        "onboard_time": 1699055186,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231209,
+        "num": 231209,
+        "word": "他不爱我 四个人唱出四种体验",
+        "onboard_time": 1699070614,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215220,
+        "num": 215220,
+        "word": "时宴能不能搬出去让我住两天",
+        "onboard_time": 1699075473,
+        "rank": 23,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 188949,
+        "num": 188949,
+        "word": "丫丫最近一直都在笑",
+        "onboard_time": 1699062031,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195656,
+        "num": 188612,
+        "word": "以爱为营",
+        "onboard_time": 1699070732,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187793,
+        "num": 187793,
+        "word": "韩网评宋茜近况",
+        "onboard_time": 1699057891,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187693,
+        "num": 187693,
+        "word": "岁岁青莲对我的乳腺很友好",
+        "onboard_time": 1699070013,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179879,
+        "num": 179879,
+        "word": "英伟达 穿越火线",
+        "onboard_time": 1699071693,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81259,
+        "num": 179182,
+        "word": "老板为稳定打工人情绪在淘宝买猫",
+        "onboard_time": 1699074632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178699,
+        "num": 178699,
+        "word": "薛之谦他什么都知道",
+        "onboard_time": 1699071152,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178565,
+        "num": 178565,
+        "word": "8名学生遇陌生男童庆生唱了1首生日歌",
+        "onboard_time": 1699075352,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 160426,
+        "num": 160426,
+        "word": "买了最白香奈儿回家发现更白的",
+        "onboard_time": 1699059092,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156424,
+        "num": 156424,
+        "word": "盘点河南多地哄抢事件通报",
+        "onboard_time": 1699065511,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151197,
+        "num": 151197,
+        "word": "谢娜杨紫林心如集体躺平",
+        "onboard_time": 1699074752,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142816,
+        "num": 142816,
+        "word": "外卖深夜1400元牛杂汤疑为非法服务",
+        "onboard_time": 1699056690,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140633,
+        "num": 140633,
+        "word": "器官的一天都在做什么",
+        "onboard_time": 1699073552,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138748,
+        "num": 138748,
+        "word": "西游记版泰国广告",
+        "onboard_time": 1699068512,
+        "rank": 37,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 136828,
+        "num": 136828,
+        "word": "老友记主演出席马修葬礼",
+        "onboard_time": 1699067371,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129720,
+        "num": 129720,
+        "word": "猪肉直接放酱油中泡2天",
+        "onboard_time": 1699061250,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129628,
+        "num": 129628,
+        "word": "刘端端新剧好适合西域风",
+        "onboard_time": 1699070791,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128135,
+        "num": 128135,
+        "word": "柳鑫宇退出花滑中国杯",
+        "onboard_time": 1699068031,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 127975,
+        "word": "银行回应取600存款要花800开证明",
+        "onboard_time": 1699058612,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 121639,
+        "num": 121639,
+        "word": "这就是街舞",
+        "onboard_time": 1699072173,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118130,
+        "num": 118130,
+        "word": "西北二人组 双生向日葵",
+        "onboard_time": 1699074452,
+        "rank": 44,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 42530,
+        "num": 118127,
+        "word": "这届哥哥主打靠得住",
+        "onboard_time": 1699074871,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118126,
+        "num": 118126,
+        "word": "杨玏四个场景一个姿势是抠图吧",
+        "onboard_time": 1699072411,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110538,
+        "num": 110538,
+        "word": "张小斐 走一点弯路没有关系",
+        "onboard_time": 1699071752,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110281,
+        "num": 110281,
+        "word": "阴阳师",
+        "onboard_time": 1699074091,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107809,
+        "num": 107809,
+        "word": "法国驻加沙机构遭以色列空袭",
+        "onboard_time": 1699063890,
+        "rank": 49,
+        "category": "国外要闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}
