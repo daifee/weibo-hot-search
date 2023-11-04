@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699072450389,
+  "endTime": 1699074943631,
   "band_list": [
     {
       "raw_hot": 2698711,
@@ -17,6 +17,14 @@
       "onboard_time": 1699057773,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1330546,
+      "num": 1330546,
+      "word": "香港女生涉网上发布港独言论被判入狱2个月",
+      "onboard_time": 1699071512,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1289271,
@@ -131,6 +139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 769323,
+      "num": 247230,
+      "word": "女子连续掐点怀孕逃避刑罚",
+      "onboard_time": 1699070136,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725750,
       "num": 725750,
       "word": "原来你妈妈是冠军啊",
@@ -176,14 +192,6 @@
       "word": "官方回应昆明2名环卫工在垃圾站身亡",
       "onboard_time": 1699069892,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678746,
-      "num": 247230,
-      "word": "女子连续掐点怀孕逃避刑罚",
-      "onboard_time": 1699070136,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 451663,
+      "num": 451663,
+      "word": "加沙孩子被迫喝平时驴都不喝的水",
+      "onboard_time": 1699073613,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 451056,
       "num": 369111,
       "word": "ELLE内场",
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421517,
+      "num": 421517,
+      "word": "为避免致癌使用不粘锅注意这8点",
+      "onboard_time": 1699071334,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417955,
       "num": 198342,
       "word": "蔡文静身材",
@@ -369,6 +393,14 @@
       "onboard_time": 1699024957,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 409201,
+      "num": 409201,
+      "word": "绝区零",
+      "onboard_time": 1699072653,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 386764,
@@ -393,6 +425,14 @@
       "onboard_time": 1699067371,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372527,
+      "num": 372527,
+      "word": "网红铁头向东方甄选道歉",
+      "onboard_time": 1699073552,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 371905,
@@ -456,6 +496,14 @@
       "word": "范丞丞 王牌现在都这么疯吗",
       "onboard_time": 1699055247,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 352559,
+      "num": 352559,
+      "word": "傅首尔和张踩铃对待婚姻好清醒",
+      "onboard_time": 1699071391,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -531,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285347,
-      "num": 285347,
-      "word": "香港女生涉网上发布港独言论被判入狱2个月",
-      "onboard_time": 1699071512,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283804,
       "num": 215131,
       "word": "刘诗诗 神女逆光而来",
@@ -585,14 +625,6 @@
       "onboard_time": 1699063588,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271589,
-      "num": 213023,
-      "word": "傅首尔和张踩铃对待婚姻好清醒",
-      "onboard_time": 1699071391,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 258702,
@@ -731,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208010,
-      "num": 208010,
-      "word": "为避免致癌使用不粘锅注意这8点",
-      "onboard_time": 1699071334,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207698,
       "num": 207698,
       "word": "薛之谦他什么都知道",
@@ -753,6 +777,14 @@
       "onboard_time": 1699020759,
       "rank": 29,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 205729,
+      "num": 205729,
+      "word": "器官的一天都在做什么",
+      "onboard_time": 1699073552,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203553,
@@ -899,6 +931,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 186281,
+      "num": 186281,
+      "word": "阴阳师",
+      "onboard_time": 1699074091,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184614,
       "num": 184614,
       "word": "余承东炮轰车企一把手不懂AEB",
@@ -971,6 +1011,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 163241,
+      "num": 163241,
+      "word": "吴彤是抓住了闫妮的什么把柄吗",
+      "onboard_time": 1699074812,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162765,
+      "num": 162765,
+      "word": "杨玏四个场景一个姿势是抠图吧",
+      "onboard_time": 1699072411,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "敖子逸帮孙晨竣越帮越忙",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1699053326,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156497,
+      "num": 156497,
+      "word": "西北二人组 双生向日葵",
+      "onboard_time": 1699074452,
+      "rank": 35,
+      "category": "电影,幽默"
     },
     {
       "raw_hot": 155663,
@@ -1067,8 +1131,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 145950,
-      "num": 145950,
+      "raw_hot": 146539,
+      "num": 146539,
       "word": "西游记版泰国广告",
       "onboard_time": 1699068512,
       "rank": 31,
@@ -1235,12 +1299,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 125494,
+      "num": 125494,
+      "word": "保罗13助攻0失误",
+      "onboard_time": 1699073552,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123991,
       "num": 123991,
       "word": "于和伟演得了枭雄发得了疯",
       "onboard_time": 1699067012,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123404,
+      "num": 123404,
+      "word": "谢娜杨紫林心如集体躺平",
+      "onboard_time": 1699074752,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122652,
@@ -1259,19 +1339,19 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 121699,
-      "num": 121699,
-      "word": "杨玏四个场景一个姿势是抠图吧",
-      "onboard_time": 1699072411,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 117673,
       "num": 117673,
       "word": "张雨绮黑纱新娘造型",
       "onboard_time": 1699066711,
       "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 117637,
+      "num": 117637,
+      "word": "Gisele秋冬造型",
+      "onboard_time": 1699070552,
+      "rank": 46,
       "category": "作品衍生,时尚"
     },
     {
@@ -1281,6 +1361,14 @@
       "onboard_time": 1699002753,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117153,
+      "num": 117153,
+      "word": "JDG对战KT",
+      "onboard_time": 1699074034,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 116932,
@@ -1355,14 +1443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 107378,
-      "num": 111828,
-      "word": "Gisele秋冬造型",
-      "onboard_time": 1699070552,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 105180,
       "num": 105180,
       "word": "才发现浪漫满屋这么好笑",
@@ -1419,12 +1499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83208,
+      "num": 368071,
+      "word": "绝区零降噪测试",
+      "onboard_time": 1699074034,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 82555,
       "num": 82555,
       "word": "关晓彤 es高定",
       "onboard_time": 1699008338,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 76991,
+      "num": 148611,
+      "word": "老板为稳定打工人情绪在淘宝买猫",
+      "onboard_time": 1699074632,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65634,
@@ -1435,11 +1531,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 65534,
+      "num": 181700,
+      "word": "绝区零你这么做角色是吧",
+      "onboard_time": 1699074212,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59510,
       "num": 59510,
       "word": "萌娃参观消防站气质拿捏了",
       "onboard_time": 1699054167,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53094,
+      "num": 673036,
+      "word": "深秋时节的诗情画意",
+      "onboard_time": 1699070252,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1467,14 +1579,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 45315,
-      "num": 673036,
-      "word": "深秋时节的诗情画意",
-      "onboard_time": 1699070252,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36606,
       "num": 37195,
       "word": "黄景瑜终于不是素颜了",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1699014455,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19972,
+      "num": 117004,
+      "word": "这届哥哥主打靠得住",
+      "onboard_time": 1699074871,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 5641,
