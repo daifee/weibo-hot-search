@@ -1,6 +1,6 @@
 {
   "startTime": 1698509994848,
-  "endTime": 1699067853901,
+  "endTime": 1699068867580,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -369,6 +369,14 @@
       "onboard_time": 1698828391,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2099456,
+      "num": 640945,
+      "word": "难看",
+      "onboard_time": 1699066771,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 2070343,
@@ -1649,14 +1657,6 @@
       "onboard_time": 1698973055,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996447,
-      "num": 640945,
-      "word": "难看",
-      "onboard_time": 1699066771,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 994562,
@@ -3627,6 +3627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 591731,
+      "num": 387183,
+      "word": "网友们给迪丽热巴造型换了色",
+      "onboard_time": 1699068751,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 590455,
       "num": 391298,
       "word": "知情人士称辛巴屡次在抖音发布不实信息",
@@ -5011,6 +5019,14 @@
       "category": "时尚,情感"
     },
     {
+      "raw_hot": 440158,
+      "num": 440158,
+      "word": "法国驻加沙机构遭以色列空袭",
+      "onboard_time": 1699063890,
+      "rank": 23,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 439733,
       "num": 367548,
       "word": "SEVENTEEN迪士尼版漫画",
@@ -5497,14 +5513,6 @@
       "onboard_time": 1698584434,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 403978,
-      "num": 403978,
-      "word": "法国驻加沙机构遭以色列空袭",
-      "onboard_time": 1699063890,
-      "rank": 23,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 403479,
@@ -6001,6 +6009,14 @@
       "onboard_time": 1698653673,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374102,
+      "num": 374102,
+      "word": "老友记主演出席马修葬礼",
+      "onboard_time": 1699067371,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 373879,
@@ -6995,6 +7011,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 313659,
+      "num": 313659,
+      "word": "库里绝杀雷霆",
+      "onboard_time": 1699067431,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312846,
       "num": 277750,
       "word": "孙怡张晚意吻戏",
@@ -7217,6 +7241,14 @@
       "onboard_time": 1698555811,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303390,
+      "num": 303390,
+      "word": "盘点河南多地哄抢事件通报",
+      "onboard_time": 1699065511,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303176,
@@ -8947,6 +8979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245766,
+      "num": 245766,
+      "word": "柳鑫宇退出花滑中国杯",
+      "onboard_time": 1699068031,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245470,
       "num": 245470,
       "word": "巨蟹座绝对不会主动第二次",
@@ -9233,14 +9273,6 @@
       "onboard_time": 1698508653,
       "rank": 27,
       "category": "游戏,演出"
-    },
-    {
-      "raw_hot": 238240,
-      "num": 238240,
-      "word": "老友记主演出席马修葬礼",
-      "onboard_time": 1699067371,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 238143,
@@ -10987,14 +11019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203146,
-      "num": 203146,
-      "word": "库里绝杀雷霆",
-      "onboard_time": 1699067431,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202834,
       "num": 202834,
       "word": "这是罗文姬奶奶仿妆吧",
@@ -11073,14 +11097,6 @@
       "onboard_time": 1698729812,
       "rank": 23,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 201697,
-      "num": 201697,
-      "word": "盘点河南多地哄抢事件通报",
-      "onboard_time": 1699065511,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201569,
@@ -11857,6 +11873,14 @@
       "onboard_time": 1698502477,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191773,
+      "num": 191773,
+      "word": "加沙地带已有3760名儿童死亡",
+      "onboard_time": 1699065089,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 191651,
@@ -13195,6 +13219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171830,
+      "num": 171830,
+      "word": "小朋友撤回了一包辣条",
+      "onboard_time": 1699068031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171734,
       "num": 171734,
       "word": "村民拔河式拉回被困轿车",
@@ -13297,6 +13329,14 @@
       "onboard_time": 1698752851,
       "rank": 40,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 170568,
+      "num": 170568,
+      "word": "孙颖莎 勇往直前Go混剪",
+      "onboard_time": 1699066650,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 170533,
@@ -14379,14 +14419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154532,
-      "num": 154532,
-      "word": "孙颖莎 勇往直前Go混剪",
-      "onboard_time": 1699066650,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154484,
       "num": 154484,
       "word": "斗破苍穹",
@@ -14553,6 +14585,14 @@
       "onboard_time": 1698803372,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151639,
+      "num": 146064,
+      "word": "国产电影原著作者票房榜吴承恩第二",
+      "onboard_time": 1699067972,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 151531,
@@ -14803,14 +14843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147826,
-      "num": 147826,
-      "word": "加沙地带已有3760名儿童死亡",
-      "onboard_time": 1699065089,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 147773,
       "num": 147773,
       "word": "为什么不ban剑魔",
@@ -14969,6 +15001,14 @@
       "onboard_time": 1698503078,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 145950,
+      "num": 145950,
+      "word": "西游记版泰国广告",
+      "onboard_time": 1699068512,
+      "rank": 31,
+      "category": "幽默,剧集"
     },
     {
       "raw_hot": 145921,
@@ -15291,6 +15331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140568,
+      "num": 140568,
+      "word": "丫丫变成安逸丫了",
+      "onboard_time": 1699066830,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140555,
       "num": 140555,
       "word": "骑电瓶的大爷头盔没摘就跳水救人",
@@ -15480,14 +15528,6 @@
       "word": "民警上门抢手机怒吼骗子拦截30万",
       "onboard_time": 1698978212,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136670,
-      "num": 136670,
-      "word": "丫丫变成安逸丫了",
-      "onboard_time": 1699066830,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -15907,6 +15947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132283,
+      "num": 132283,
+      "word": "阿母的巴掌从星汉扇到了乐游原",
+      "onboard_time": 1699068451,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132179,
       "num": 132179,
       "word": "aespa迷你4辑双人预告照",
@@ -16241,6 +16289,14 @@
       "onboard_time": 1698760838,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 126852,
+      "num": 126852,
+      "word": "龚俊ELLE红毯G社生图",
+      "onboard_time": 1699068692,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126805,
@@ -18371,6 +18427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51290,
+      "num": 104750,
+      "word": "古人为何擅长酒后作诗",
+      "onboard_time": 1699068811,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 50522,
       "num": 89698,
       "word": "钢筋扎穿工人消防边救边喊我们在呢",
@@ -18433,6 +18497,14 @@
       "onboard_time": 1698535100,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46631,
+      "num": 109740,
+      "word": "双十一的商战就是相互入侵",
+      "onboard_time": 1699068572,
+      "rank": 45,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 46235,

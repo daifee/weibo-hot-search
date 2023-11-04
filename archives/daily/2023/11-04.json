@@ -1,7 +1,15 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699067853901,
+  "endTime": 1699068867580,
   "band_list": [
+    {
+      "raw_hot": 2099456,
+      "num": 640945,
+      "word": "难看",
+      "onboard_time": 1699066771,
+      "rank": 4,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1503634,
       "num": 802773,
@@ -73,14 +81,6 @@
       "onboard_time": 1699061250,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 996447,
-      "num": 640945,
-      "word": "难看",
-      "onboard_time": 1699066771,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 888298,
@@ -179,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 591731,
+      "num": 387183,
+      "word": "网友们给迪丽热巴造型换了色",
+      "onboard_time": 1699068751,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 588645,
       "num": 588645,
       "word": "小伙在自家厕所里建海洋馆隐居6年",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440158,
+      "num": 440158,
+      "word": "法国驻加沙机构遭以色列空袭",
+      "onboard_time": 1699063890,
+      "rank": 23,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 424533,
       "num": 424533,
       "word": "周铁农同志逝世",
@@ -291,20 +307,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 403978,
-      "num": 403978,
-      "word": "法国驻加沙机构遭以色列空袭",
-      "onboard_time": 1699063890,
-      "rank": 23,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 383362,
       "num": 134329,
       "word": "一副市长被前妻实名举报",
       "onboard_time": 1699049596,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374102,
+      "num": 374102,
+      "word": "老友记主演出席马修葬礼",
+      "onboard_time": 1699067371,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 371905,
@@ -395,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313659,
+      "num": 313659,
+      "word": "库里绝杀雷霆",
+      "onboard_time": 1699067431,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303390,
+      "num": 303390,
+      "word": "盘点河南多地哄抢事件通报",
+      "onboard_time": 1699065511,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289178,
       "num": 246894,
       "word": "迪丽热巴辛芷蕾ie分明",
@@ -467,12 +499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 238240,
-      "num": 238240,
-      "word": "老友记主演出席马修葬礼",
-      "onboard_time": 1699067371,
+      "raw_hot": 245766,
+      "num": 245766,
+      "word": "柳鑫宇退出花滑中国杯",
+      "onboard_time": 1699068031,
       "rank": 18,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 237522,
@@ -603,22 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203146,
-      "num": 203146,
-      "word": "库里绝杀雷霆",
-      "onboard_time": 1699067431,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 201697,
-      "num": 201697,
-      "word": "盘点河南多地哄抢事件通报",
-      "onboard_time": 1699065511,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199344,
       "num": 199344,
       "word": "谁给周也配的鞋子",
@@ -665,6 +681,14 @@
       "onboard_time": 1699018834,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 191773,
+      "num": 191773,
+      "word": "加沙地带已有3760名儿童死亡",
+      "onboard_time": 1699065089,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 191246,
@@ -729,6 +753,22 @@
       "onboard_time": 1699064851,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171830,
+      "num": 171830,
+      "word": "小朋友撤回了一包辣条",
+      "onboard_time": 1699068031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170568,
+      "num": 170568,
+      "word": "孙颖莎 勇往直前Go混剪",
+      "onboard_time": 1699066650,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 169024,
@@ -819,12 +859,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 154532,
-      "num": 154532,
-      "word": "孙颖莎 勇往直前Go混剪",
-      "onboard_time": 1699066650,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 151639,
+      "num": 146064,
+      "word": "国产电影原著作者票房榜吴承恩第二",
+      "onboard_time": 1699067972,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 149263,
@@ -851,12 +891,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 147826,
-      "num": 147826,
-      "word": "加沙地带已有3760名儿童死亡",
-      "onboard_time": 1699065089,
-      "rank": 49,
-      "category": "国外要闻"
+      "raw_hot": 145950,
+      "num": 145950,
+      "word": "西游记版泰国广告",
+      "onboard_time": 1699068512,
+      "rank": 31,
+      "category": "幽默,剧集"
     },
     {
       "raw_hot": 143178,
@@ -883,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140568,
+      "num": 140568,
+      "word": "丫丫变成安逸丫了",
+      "onboard_time": 1699066830,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140274,
       "num": 140274,
       "word": "我和彭于晏的共同点是偶像一样",
@@ -905,14 +953,6 @@
       "onboard_time": 1699061070,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136670,
-      "num": 136670,
-      "word": "丫丫变成安逸丫了",
-      "onboard_time": 1699066830,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136496,
@@ -963,6 +1003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 132283,
+      "num": 132283,
+      "word": "阿母的巴掌从星汉扇到了乐游原",
+      "onboard_time": 1699068451,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132181,
       "num": 132181,
       "word": "助学金争议当事人要求处罚相关人员",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1699013856,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126852,
+      "num": 126852,
+      "word": "龚俊ELLE红毯G社生图",
+      "onboard_time": 1699068692,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123991,
@@ -1179,6 +1235,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51290,
+      "num": 104750,
+      "word": "古人为何擅长酒后作诗",
+      "onboard_time": 1699068811,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 46631,
+      "num": 109740,
+      "word": "双十一的商战就是相互入侵",
+      "onboard_time": 1699068572,
+      "rank": 45,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 36606,
       "num": 37195,
       "word": "黄景瑜终于不是素颜了",
@@ -1203,7 +1275,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 5116,
+      "raw_hot": 5641,
       "num": 1063812,
       "word": "第六届进博会亮点抢先看",
       "onboard_time": 1698993031,

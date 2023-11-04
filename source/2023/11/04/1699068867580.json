@@ -1,0 +1,410 @@
+{
+  "runTime": 1699068867580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 632897,
+        "num": 854947,
+        "word": "时宴的车不载有男朋友的女人",
+        "onboard_time": 1699054647,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605932,
+        "num": 605932,
+        "word": "丫丫最近一直都在笑",
+        "onboard_time": 1699062031,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5641,
+        "num": 605289,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2099456,
+        "num": 602751,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 958880,
+        "num": 599606,
+        "word": "谢娜说杨紫瘦得脱相了",
+        "onboard_time": 1699057773,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866516,
+        "num": 596836,
+        "word": "猪肉直接放酱油中泡2天",
+        "onboard_time": 1699061250,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 596638,
+        "num": 596638,
+        "word": "迪丽热巴孔雀半开屏",
+        "onboard_time": 1699065511,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 520367,
+        "num": 520367,
+        "word": "韩网评宋茜近况",
+        "onboard_time": 1699057891,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440158,
+        "num": 440158,
+        "word": "法国驻加沙机构遭以色列空袭",
+        "onboard_time": 1699063890,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 398075,
+        "num": 398075,
+        "word": "外卖深夜1400元牛杂汤疑为非法服务",
+        "onboard_time": 1699056690,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451546,
+        "num": 397392,
+        "word": "黄晓明被说油的那阵赶上沈腾上网了",
+        "onboard_time": 1699058671,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591731,
+        "num": 387183,
+        "word": "网友们给迪丽热巴造型换了色",
+        "onboard_time": 1699068751,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 374102,
+        "num": 374102,
+        "word": "老友记主演出席马修葬礼",
+        "onboard_time": 1699067371,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313659,
+        "num": 313659,
+        "word": "库里绝杀雷霆",
+        "onboard_time": 1699067431,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304749,
+        "num": 304749,
+        "word": "银行回应取600存款要花800开证明",
+        "onboard_time": 1699058612,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 303390,
+        "num": 303390,
+        "word": "盘点河南多地哄抢事件通报",
+        "onboard_time": 1699065511,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273065,
+        "num": 273065,
+        "word": "小伙在自家厕所里建海洋馆隐居6年",
+        "onboard_time": 1699060412,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246909,
+        "num": 246909,
+        "word": "王安宇胡先煦一个比一个有安全感",
+        "onboard_time": 1699063171,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245766,
+        "num": 245766,
+        "word": "柳鑫宇退出花滑中国杯",
+        "onboard_time": 1699068031,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233641,
+        "num": 233641,
+        "word": "买了最白香奈儿回家发现更白的",
+        "onboard_time": 1699059092,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218046,
+        "num": 218046,
+        "word": "穿越火线再发声明",
+        "onboard_time": 1699065029,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191773,
+        "num": 191773,
+        "word": "加沙地带已有3760名儿童死亡",
+        "onboard_time": 1699065089,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 183039,
+        "num": 183039,
+        "word": "煤矿隐瞒事故违法转运火化遗体问责36人",
+        "onboard_time": 1699063051,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179435,
+        "num": 179435,
+        "word": "谁来管管管泽元的嘴",
+        "onboard_time": 1699063952,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171830,
+        "num": 171830,
+        "word": "小朋友撤回了一包辣条",
+        "onboard_time": 1699068031,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170568,
+        "num": 170568,
+        "word": "孙颖莎 勇往直前Go混剪",
+        "onboard_time": 1699066650,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288841,
+        "num": 165266,
+        "word": "被举报与女同事暧昧副市长被免职",
+        "onboard_time": 1699054948,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150937,
+        "num": 150937,
+        "word": "我的小舅舅在哪儿呢",
+        "onboard_time": 1699064250,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149788,
+        "num": 149788,
+        "word": "尼泊尔地震80人遇难140余人受伤",
+        "onboard_time": 1699064851,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146118,
+        "num": 146118,
+        "word": "勇士连续两场绝杀",
+        "onboard_time": 1699067431,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151639,
+        "num": 146064,
+        "word": "国产电影原著作者票房榜吴承恩第二",
+        "onboard_time": 1699067972,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145950,
+        "num": 145950,
+        "word": "西游记版泰国广告",
+        "onboard_time": 1699068512,
+        "rank": 31,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 143974,
+        "num": 143974,
+        "word": "娜扎许魏洲新剧今日开播",
+        "onboard_time": 1699064369,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140568,
+        "num": 140568,
+        "word": "丫丫变成安逸丫了",
+        "onboard_time": 1699066830,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138860,
+        "num": 138860,
+        "word": "辛芷蕾 我可是气质型的",
+        "onboard_time": 1699066592,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133342,
+        "num": 133342,
+        "word": "当代年轻人炫耀式捡漏消费",
+        "onboard_time": 1699067070,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 132283,
+        "num": 132283,
+        "word": "阿母的巴掌从星汉扇到了乐游原",
+        "onboard_time": 1699068451,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128665,
+        "num": 128665,
+        "word": "中国大陆合法销售的iPhone15均为中国组装",
+        "onboard_time": 1699023159,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128516,
+        "num": 128516,
+        "word": "ELLE红毯主持人没词了",
+        "onboard_time": 1699039096,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126852,
+        "num": 126852,
+        "word": "龚俊ELLE红毯G社生图",
+        "onboard_time": 1699068692,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121135,
+        "num": 121135,
+        "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+        "onboard_time": 1699021418,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119243,
+        "num": 119243,
+        "word": "戚砚笛撒野造型破碎感",
+        "onboard_time": 1699062990,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115946,
+        "num": 115946,
+        "word": "张雨绮黑纱新娘造型",
+        "onboard_time": 1699066711,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113550,
+        "num": 113550,
+        "word": "范丞丞 王牌现在都这么疯吗",
+        "onboard_time": 1699055247,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110497,
+        "num": 110497,
+        "word": "进击的巨人终篇",
+        "onboard_time": 1699061070,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46631,
+        "num": 109740,
+        "word": "双十一的商战就是相互入侵",
+        "onboard_time": 1699068572,
+        "rank": 45,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 109687,
+        "num": 109687,
+        "word": "李善均毛发检测阴性",
+        "onboard_time": 1699055307,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107442,
+        "num": 107442,
+        "word": "艺术家韦伟逝世",
+        "onboard_time": 1699062389,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106225,
+        "num": 106225,
+        "word": "杨紫画腮红画成年画娃娃",
+        "onboard_time": 1699059991,
+        "rank": 48,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 51290,
+        "num": 104750,
+        "word": "古人为何擅长酒后作诗",
+        "onboard_time": 1699068811,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见希腊总理#"
+    }
+  }
+}
