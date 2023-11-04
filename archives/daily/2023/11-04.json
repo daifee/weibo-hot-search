@@ -1,10 +1,10 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699071601806,
+  "endTime": 1699072450389,
   "band_list": [
     {
       "raw_hot": 2698711,
-      "num": 640945,
+      "num": 670828,
       "word": "难看",
       "onboard_time": 1699066771,
       "rank": 4,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 769400,
-      "num": 394486,
+      "num": 473049,
       "word": "网友们给迪丽热巴造型换了色",
       "onboard_time": 1699068751,
       "rank": 11,
@@ -171,6 +171,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 679431,
+      "num": 679431,
+      "word": "官方回应昆明2名环卫工在垃圾站身亡",
+      "onboard_time": 1699069892,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678746,
+      "num": 247230,
+      "word": "女子连续掐点怀孕逃避刑罚",
+      "onboard_time": 1699070136,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665341,
       "num": 665341,
       "word": "军队文职 网站崩了",
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 573146,
-      "num": 232127,
-      "word": "女子连续掐点怀孕逃避刑罚",
-      "onboard_time": 1699070136,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565217,
       "num": 565217,
       "word": "杨紫 两套造型",
@@ -235,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553052,
-      "num": 553052,
-      "word": "官方回应昆明2名环卫工在垃圾站身亡",
-      "onboard_time": 1699069892,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 532565,
+      "num": 532565,
+      "word": "杜锋故意损坏辽篮主场LED屏幕",
+      "onboard_time": 1699070431,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 499403,
@@ -249,6 +257,14 @@
       "onboard_time": 1699059092,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 498915,
+      "num": 498915,
+      "word": "何炅问丁程鑫弟弟能不在地上吗",
+      "onboard_time": 1699072173,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 496439,
@@ -281,14 +297,6 @@
       "onboard_time": 1699027535,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 478989,
-      "num": 478989,
-      "word": "杜锋故意损坏辽篮主场LED屏幕",
-      "onboard_time": 1699070431,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 458037,
@@ -363,6 +371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 386764,
+      "num": 386764,
+      "word": "以爱为营",
+      "onboard_time": 1699070732,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383362,
       "num": 134329,
       "word": "一副市长被前妻实名举报",
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 359285,
-      "num": 228150,
+      "num": 233941,
       "word": "小朋友撤回了一包辣条",
       "onboard_time": 1699068031,
       "rank": 24,
@@ -475,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332958,
-      "num": 332958,
-      "word": "以爱为营",
-      "onboard_time": 1699070732,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313659,
       "num": 313659,
       "word": "库里绝杀雷霆",
       "onboard_time": 1699067431,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293831,
+      "num": 284430,
+      "word": "岁岁青莲对我的乳腺很友好",
+      "onboard_time": 1699070013,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 289178,
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285347,
+      "num": 285347,
+      "word": "香港女生涉网上发布港独言论被判入狱2个月",
+      "onboard_time": 1699071512,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283804,
       "num": 215131,
       "word": "刘诗诗 神女逆光而来",
@@ -523,20 +547,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283476,
+      "num": 283476,
+      "word": "张小斐 走一点弯路没有关系",
+      "onboard_time": 1699071752,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280638,
       "num": 271392,
       "word": "孙颖莎成功晋级半决赛",
       "onboard_time": 1699027594,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279941,
-      "num": 279941,
-      "word": "岁岁青莲对我的乳腺很友好",
-      "onboard_time": 1699070013,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 277049,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271589,
+      "num": 213023,
+      "word": "傅首尔和张踩铃对待婚姻好清醒",
+      "onboard_time": 1699071391,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258702,
       "num": 258702,
       "word": "丫丫吃饭嘎嘣脆",
@@ -571,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253904,
+      "num": 253904,
+      "word": "消防员下井把头盔给了坠井8旬老人",
+      "onboard_time": 1699072173,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 250161,
       "num": 250161,
       "word": "穿越火线 开挂",
       "onboard_time": 1699027712,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243108,
+      "num": 223668,
+      "word": "他不爱我 四个人唱出四种体验",
+      "onboard_time": 1699070614,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 237522,
@@ -635,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223668,
-      "num": 223668,
-      "word": "他不爱我 四个人唱出四种体验",
-      "onboard_time": 1699070614,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 221177,
       "num": 221177,
       "word": "当事人回应获评助学金后坚持再举报",
@@ -689,6 +729,22 @@
       "onboard_time": 1699062389,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208010,
+      "num": 208010,
+      "word": "为避免致癌使用不粘锅注意这8点",
+      "onboard_time": 1699071334,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207698,
+      "num": 207698,
+      "word": "薛之谦他什么都知道",
+      "onboard_time": 1699071152,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 206225,
@@ -803,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190046,
+      "num": 190046,
+      "word": "英伟达 穿越火线",
+      "onboard_time": 1699071693,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189991,
       "num": 189991,
       "word": "狗狗醒来发现家里没人委屈大哭",
@@ -849,6 +913,14 @@
       "onboard_time": 1699052661,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179958,
+      "num": 179958,
+      "word": "这就是街舞",
+      "onboard_time": 1699072173,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 179717,
@@ -971,14 +1043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149268,
-      "num": 149268,
-      "word": "薛之谦他什么都知道",
-      "onboard_time": 1699071152,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 149263,
       "num": 149263,
       "word": "辛芷蕾 我可是气质型的",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1699022080,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142203,
-      "num": 142203,
-      "word": "傅首尔和张踩铃对待婚姻好清醒",
-      "onboard_time": 1699071391,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 141468,
@@ -1179,14 +1235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 125843,
-      "num": 125843,
-      "word": "为避免致癌使用不粘锅注意这8点",
-      "onboard_time": 1699071334,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123991,
       "num": 123991,
       "word": "于和伟演得了枭雄发得了疯",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1699061733,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 121699,
+      "num": 121699,
+      "word": "杨玏四个场景一个姿势是抠图吧",
+      "onboard_time": 1699072411,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117673,
@@ -1241,6 +1297,22 @@
       "onboard_time": 1699062272,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115277,
+      "num": 115277,
+      "word": "奶奶摔倒瞬间以身为垫护住孙子",
+      "onboard_time": 1699071814,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113455,
+      "num": 113455,
+      "word": "黄黑皮找到了本命腮红",
+      "onboard_time": 1699072292,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 113404,
@@ -1313,14 +1385,6 @@
       "onboard_time": 1699015180,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96685,
-      "num": 111805,
-      "word": "香港女生涉网上发布港独言论被判入狱2个月",
-      "onboard_time": 1699071512,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95598,
@@ -1403,20 +1467,20 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 45315,
+      "num": 673036,
+      "word": "深秋时节的诗情画意",
+      "onboard_time": 1699070252,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36606,
       "num": 37195,
       "word": "黄景瑜终于不是素颜了",
       "onboard_time": 1699008759,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35971,
-      "num": 584324,
-      "word": "深秋时节的诗情画意",
-      "onboard_time": 1699070252,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28426,
@@ -1449,6 +1513,9 @@
     },
     {
       "word": "#解读中央金融工作会议#"
+    },
+    {
+      "word": "#中方愿同德方努力捍卫国际秩序和多边主义#"
     }
   ]
 }
