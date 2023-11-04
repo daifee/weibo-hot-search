@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699086848677,
+  "endTime": 1699089320642,
   "band_list": [
     {
       "raw_hot": 2698711,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1669506,
-      "num": 1669506,
+      "raw_hot": 1697695,
+      "num": 1697695,
       "word": "北大宿舍聊天 婚姻残酷真相",
       "onboard_time": 1699083391,
       "rank": 0,
@@ -73,6 +73,14 @@
       "onboard_time": 1699021600,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1092286,
+      "num": 1092286,
+      "word": "宋亚轩买游戏账号被骗钱",
+      "onboard_time": 1699085371,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1091606,
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 728409,
-      "num": 728409,
-      "word": "宋亚轩买游戏账号被骗钱",
-      "onboard_time": 1699085371,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 725750,
       "num": 725750,
       "word": "原来你妈妈是冠军啊",
@@ -307,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580736,
+      "num": 580736,
+      "word": "郑书意目睹男友出轨",
+      "onboard_time": 1699085371,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 579892,
+      "num": 579892,
+      "word": "上市公司5995万存款不见了",
+      "onboard_time": 1699084893,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 571271,
       "num": 571271,
       "word": "11个月大婴儿吃柚子窒息医护3分钟赶到急救",
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542595,
+      "num": 542595,
+      "word": "JDG对战KT",
+      "onboard_time": 1699074034,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 538474,
       "num": 538474,
       "word": "网红铁头向东方甄选道歉",
@@ -369,6 +393,14 @@
       "onboard_time": 1699082310,
       "rank": 6,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 510150,
+      "num": 510150,
+      "word": "KT先下一城",
+      "onboard_time": 1699088251,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 499403,
@@ -555,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395505,
+      "num": 395505,
+      "word": "劝人不要坠入爱河自己先坠了",
+      "onboard_time": 1699086988,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386764,
       "num": 386764,
       "word": "以爱为营",
@@ -569,6 +609,14 @@
       "onboard_time": 1699049596,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378413,
+      "num": 378413,
+      "word": "杨紫 导演都是这么骗人的",
+      "onboard_time": 1699088191,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 374102,
@@ -747,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295548,
-      "num": 295548,
-      "word": "郑书意目睹男友出轨",
-      "onboard_time": 1699085371,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293831,
       "num": 284430,
       "word": "岁岁青莲对我的乳腺很友好",
@@ -835,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273977,
-      "num": 273977,
-      "word": "上市公司5995万存款不见了",
-      "onboard_time": 1699084893,
-      "rank": 28,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 260908,
       "num": 258015,
       "word": "闲置太久的鞋子就不要穿了",
@@ -915,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235474,
+      "num": 235474,
+      "word": "怀化校车侧翻事故致6人受伤",
+      "onboard_time": 1699087290,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 233731,
       "num": 233731,
       "word": "祝绪丹银色美人鱼",
@@ -979,14 +1019,6 @@
       "category": "剧集,幽默"
     },
     {
-      "raw_hot": 220318,
-      "num": 220318,
-      "word": "JDG对战KT",
-      "onboard_time": 1699074034,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 220247,
       "num": 230535,
       "word": "中国驻菲使馆回应6中国公民马尼拉被绑",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1699076371,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214940,
+      "num": 214940,
+      "word": "大连人",
+      "onboard_time": 1699086329,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 213309,
@@ -1089,14 +1129,6 @@
       "onboard_time": 1699080570,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204040,
-      "num": 204040,
-      "word": "大连人",
-      "onboard_time": 1699086329,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 203553,
@@ -1187,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195996,
+      "num": 195996,
+      "word": "魏大勋模仿张杰",
+      "onboard_time": 1699088851,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195168,
       "num": 195168,
       "word": "五月天 八场总得有张我的票吧",
@@ -1275,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188385,
+      "num": 188385,
+      "word": "徐梦洁秋日油画少女妆",
+      "onboard_time": 1699088191,
+      "rank": 25,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 186411,
       "num": 186411,
       "word": "用大数据确定助学金比民主评选靠谱",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1699086329,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176972,
+      "num": 176972,
+      "word": "南通支云",
+      "onboard_time": 1699088851,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 170975,
@@ -1531,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150604,
+      "num": 192044,
+      "word": "徐斯 纯爱赚神",
+      "onboard_time": 1699087352,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149263,
       "num": 149263,
       "word": "辛芷蕾 我可是气质型的",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1699068512,
       "rank": 31,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 144933,
+      "num": 144933,
+      "word": "腹膜外剖腹产",
+      "onboard_time": 1699087172,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143178,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1699060050,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136443,
+      "num": 136443,
+      "word": "河边的错误 是疯子吗",
+      "onboard_time": 1699088433,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 134843,
@@ -1739,6 +1819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128941,
+      "num": 128941,
+      "word": "大连人vs上海海港",
+      "onboard_time": 1699086630,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128695,
       "num": 128695,
       "word": "WTT法兰克福冠军赛2023",
@@ -1784,6 +1872,14 @@
       "word": "保罗13助攻0失误",
       "onboard_time": 1699073552,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124868,
+      "num": 124868,
+      "word": "梅西加冕八金后首次专访",
+      "onboard_time": 1699089091,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1865,6 +1961,14 @@
       "onboard_time": 1699062272,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115877,
+      "num": 115877,
+      "word": "曼佐基破门",
+      "onboard_time": 1699087711,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 115277,
@@ -1971,12 +2075,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 101923,
+      "num": 101923,
+      "word": "中超",
+      "onboard_time": 1699086871,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101039,
       "num": 101039,
       "word": "BLG晋级S13四强",
       "onboard_time": 1699015180,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98901,
+      "num": 98901,
+      "word": "南通支云vs天津津门虎",
+      "onboard_time": 1699087533,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96428,
@@ -2001,14 +2121,6 @@
       "onboard_time": 1699053864,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 94717,
-      "num": 94717,
-      "word": "大连人vs上海海港",
-      "onboard_time": 1699086630,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 91665,
