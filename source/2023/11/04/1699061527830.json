@@ -1,0 +1,410 @@
+{
+  "runTime": 1699061527830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1022426,
+        "num": 1022426,
+        "word": "时宴的车不载有男朋友的女人",
+        "onboard_time": 1699054647,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 884830,
+        "num": 884830,
+        "word": "外卖深夜1400元牛杂汤疑为非法服务",
+        "onboard_time": 1699056690,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4544,
+        "num": 793173,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503634,
+        "num": 773086,
+        "word": "谢娜说杨紫瘦得脱相了",
+        "onboard_time": 1699057773,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752435,
+        "num": 752435,
+        "word": "韩网评宋茜近况",
+        "onboard_time": 1699057891,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723841,
+        "num": 723841,
+        "word": "银行回应取600存款要花800开证明",
+        "onboard_time": 1699058612,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 611562,
+        "num": 611562,
+        "word": "黄晓明被说油的那阵赶上沈腾上网了",
+        "onboard_time": 1699058671,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532802,
+        "num": 532802,
+        "word": "军队文职 网站崩了",
+        "onboard_time": 1699057471,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 836012,
+        "num": 530988,
+        "word": "被举报与女同事暧昧副市长被免职",
+        "onboard_time": 1699054948,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322973,
+        "num": 322973,
+        "word": "王俊凯问学校门口的大哥还认不认得他",
+        "onboard_time": 1699021600,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 910846,
+        "num": 319040,
+        "word": "迪丽热巴异瞳",
+        "onboard_time": 1699055186,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 410667,
+        "num": 312334,
+        "word": "买了最白香奈儿回家发现更白的",
+        "onboard_time": 1699059092,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 376076,
+        "num": 311460,
+        "word": "小伙在自家厕所里建海洋馆隐居6年",
+        "onboard_time": 1699060412,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303755,
+        "num": 303755,
+        "word": "范丞丞 王牌现在都这么疯吗",
+        "onboard_time": 1699055247,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293335,
+        "num": 293335,
+        "word": "中国大陆合法销售的iPhone15均为中国组装",
+        "onboard_time": 1699023159,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287726,
+        "num": 287726,
+        "word": "原来你妈妈是冠军啊",
+        "onboard_time": 1699031185,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287582,
+        "num": 287582,
+        "word": "终于等到这英出那英的妆教",
+        "onboard_time": 1699058792,
+        "rank": 16,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 277049,
+        "num": 277049,
+        "word": "杨紫画腮红画成年画娃娃",
+        "onboard_time": 1699059991,
+        "rank": 17,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 273068,
+        "num": 273068,
+        "word": "西游记毗蓝婆菩萨扮演者去世",
+        "onboard_time": 1699054647,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262307,
+        "num": 262307,
+        "word": "李善均毛发检测阴性",
+        "onboard_time": 1699055307,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258702,
+        "num": 258702,
+        "word": "丫丫吃饭嘎嘣脆",
+        "onboard_time": 1699060112,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244712,
+        "num": 244712,
+        "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+        "onboard_time": 1699021418,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225571,
+        "num": 225571,
+        "word": "你敢信这是宋茜生图",
+        "onboard_time": 1699023940,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204911,
+        "num": 204911,
+        "word": "十次化妆九次都会用到的宝藏产品",
+        "onboard_time": 1699059092,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 203245,
+        "num": 203245,
+        "word": "当事人回应获评助学金后坚持再举报",
+        "onboard_time": 1699058552,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194435,
+        "num": 194435,
+        "word": "同事说我的工位像三室一厅",
+        "onboard_time": 1699035319,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192582,
+        "num": 192582,
+        "word": "谁给周也配的鞋子",
+        "onboard_time": 1699058431,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190564,
+        "num": 190564,
+        "word": "祝绪丹银色美人鱼",
+        "onboard_time": 1699055307,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188802,
+        "num": 188802,
+        "word": "秦岚把秦海璐整害羞了",
+        "onboard_time": 1699060050,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181702,
+        "num": 181702,
+        "word": "余承东炮轰车企一把手不懂AEB",
+        "onboard_time": 1699057051,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169024,
+        "num": 169024,
+        "word": "苏有朋被叫朋友哥",
+        "onboard_time": 1699060470,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154219,
+        "num": 154219,
+        "word": "造型师刘璐回应迪丽热巴造型",
+        "onboard_time": 1699042334,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149491,
+        "num": 149491,
+        "word": "猪肉直接放酱油中泡2天",
+        "onboard_time": 1699061250,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146684,
+        "num": 146684,
+        "word": "故宫的柿子红了",
+        "onboard_time": 1699046173,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "狗狗醒来发现家里没人委屈大哭",
+        "onboard_time": 1699054465,
+        "rank": 34,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 137897,
+        "num": 137897,
+        "word": "进击的巨人终篇",
+        "onboard_time": 1699061070,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137352,
+        "num": 137352,
+        "word": "在以前女性是如何解决月经问题的",
+        "onboard_time": 1699058852,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134843,
+        "num": 134843,
+        "word": "小熊弄丢了气球妈妈安慰小熊",
+        "onboard_time": 1699059936,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 133460,
+        "word": "陶昕然的白裙在黑色礁石下更美了",
+        "onboard_time": 1699060173,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132050,
+        "num": 132050,
+        "word": "NBA季中锦标赛",
+        "onboard_time": 1699060050,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131940,
+        "num": 131940,
+        "word": "GEN发文告别S13",
+        "onboard_time": 1699054104,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131783,
+        "num": 131783,
+        "word": "敖子逸帮孙晨竣越帮越忙",
+        "onboard_time": 1699058973,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 128432,
+        "num": 128432,
+        "word": "用大数据确定助学金比民主评选靠谱",
+        "onboard_time": 1699059811,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 123600,
+        "num": 123600,
+        "word": "以爱为营开播",
+        "onboard_time": 1699014881,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122825,
+        "num": 122825,
+        "word": "金晨一天三套高定",
+        "onboard_time": 1699057471,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113404,
+        "num": 113404,
+        "word": "一年级老师在班级群用拼音夸学生",
+        "onboard_time": 1699052600,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110706,
+        "num": 110706,
+        "word": "以爱为营 广告好多",
+        "onboard_time": 1699019016,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105597,
+        "num": 105597,
+        "word": "魏大勋刘昊然李现坐一桌",
+        "onboard_time": 1699028311,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105121,
+        "num": 105121,
+        "word": "英雄联盟S13",
+        "onboard_time": 1699058012,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103375,
+        "num": 103375,
+        "word": "山东一县养20万亩大闸蟹产值或超20亿元",
+        "onboard_time": 1699052661,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}
