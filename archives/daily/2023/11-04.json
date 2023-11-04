@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699093037479,
+  "endTime": 1699094030975,
   "band_list": [
     {
       "raw_hot": 2698711,
@@ -9,6 +9,14 @@
       "onboard_time": 1699066771,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1749239,
+      "num": 1749239,
+      "word": "联合国称缅北数百人越境逃入中国",
+      "onboard_time": 1699089751,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1697695,
@@ -33,14 +41,6 @@
       "onboard_time": 1699071512,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1450081,
-      "num": 1450081,
-      "word": "联合国称缅北数百人越境逃入中国",
-      "onboard_time": 1699089751,
-      "rank": 0,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1295396,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726995,
+      "num": 726995,
+      "word": "JDG醒了",
+      "onboard_time": 1699091731,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 725750,
       "num": 725750,
       "word": "原来你妈妈是冠军啊",
@@ -387,6 +395,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 538334,
+      "num": 1042675,
+      "word": "西湖里来了50多只小鷿鷈",
+      "onboard_time": 1699092210,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532565,
       "num": 532565,
       "word": "杜锋故意损坏辽篮主场LED屏幕",
@@ -536,6 +552,14 @@
       "word": "EDG被重庆粉丝包围",
       "onboard_time": 1699081112,
       "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 445295,
+      "num": 445295,
+      "word": "MISSING的洛",
+      "onboard_time": 1699092331,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -707,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357953,
-      "num": 357953,
-      "word": "JDG醒了",
-      "onboard_time": 1699091731,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 357245,
       "num": 357245,
       "word": "同事说我的工位像三室一厅",
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350173,
+      "num": 350173,
+      "word": "压力给到LNG",
+      "onboard_time": 1699091370,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 343581,
       "num": 343581,
       "word": "8名学生遇陌生男童庆生唱了1首生日歌",
@@ -761,6 +785,14 @@
       "onboard_time": 1699054647,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339931,
+      "num": 339931,
+      "word": "秦岚辛芷蕾随地大小吵",
+      "onboard_time": 1699092931,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 336653,
@@ -904,14 +936,6 @@
       "word": "丫丫再现经典姿势",
       "onboard_time": 1699063588,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272393,
-      "num": 780375,
-      "word": "西湖里来了50多只小鷿鷈",
-      "onboard_time": 1699092210,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203034,
+      "num": 203034,
+      "word": "梅西领先哈兰德105分",
+      "onboard_time": 1699090952,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202496,
       "num": 202496,
       "word": "宋轶阳光鲜花plog",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1699058431,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199220,
+      "num": 665261,
+      "word": "快递车侧翻公交司机乘客掀车救人",
+      "onboard_time": 1699089691,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198512,
@@ -1475,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170500,
-      "num": 170500,
-      "word": "梅西领先哈兰德105分",
-      "onboard_time": 1699090952,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169024,
       "num": 169024,
       "word": "苏有朋被叫朋友哥",
@@ -1651,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150729,
+      "num": 150729,
+      "word": "豌豆尖在四川的地位无法撼动",
+      "onboard_time": 1699093231,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150604,
       "num": 192044,
       "word": "徐斯 纯爱赚神",
@@ -1681,22 +1721,6 @@
       "onboard_time": 1699028671,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 146749,
-      "num": 600502,
-      "word": "快递车侧翻公交司机乘客掀车救人",
-      "onboard_time": 1699089691,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146553,
-      "num": 146553,
-      "word": "压力给到LNG",
-      "onboard_time": 1699091370,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 146539,
@@ -1771,12 +1795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138854,
+      "num": 138854,
+      "word": "西藏阿里官兵献血救藏族阿妈",
+      "onboard_time": 1699093652,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137588,
       "num": 137588,
       "word": "我的女朋友不会要有女朋友了吧",
       "onboard_time": 1699082611,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137309,
+      "num": 137309,
+      "word": "凌晨两点的于适vs凌晨两点的侯雯元",
+      "onboard_time": 1699092749,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 136762,
@@ -1875,6 +1915,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 131987,
+      "num": 131987,
+      "word": "体检报告解读",
+      "onboard_time": 1699092870,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130064,
       "num": 829736,
       "word": "让看电视更简单消费不套娃",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1699013856,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 127444,
+      "num": 127444,
+      "word": "李雪琴 把他乡变成故乡",
+      "onboard_time": 1699093773,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 126852,
@@ -2009,14 +2065,6 @@
       "onboard_time": 1699083032,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 118808,
-      "num": 118808,
-      "word": "凌晨两点的于适vs凌晨两点的侯雯元",
-      "onboard_time": 1699092749,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 118503,
@@ -2107,6 +2155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112742,
+      "num": 112742,
+      "word": "化妆品铁皮后还能继续用吗",
+      "onboard_time": 1699093472,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 112417,
       "num": 112417,
       "word": "张译尝试可爱但失败",
@@ -2137,6 +2193,22 @@
       "onboard_time": 1699069952,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110821,
+      "num": 1124496,
+      "word": "专属秋天的多巴胺配色",
+      "onboard_time": 1699090170,
+      "rank": 2,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 109833,
+      "num": 109833,
+      "word": "被四川的下饭菜香到了",
+      "onboard_time": 1699093952,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 105649,
@@ -2187,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101813,
+      "num": 101813,
+      "word": "成都蓉城 亚冠",
+      "onboard_time": 1699093893,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101039,
       "num": 101039,
       "word": "BLG晋级S13四强",
@@ -2211,14 +2291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97418,
-      "num": 97418,
-      "word": "MISSING的洛",
-      "onboard_time": 1699092331,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 96428,
       "num": 96428,
       "word": "徐州特色把子肉",
@@ -2233,14 +2305,6 @@
       "onboard_time": 1699080028,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 95776,
-      "num": 95776,
-      "word": "秦岚辛芷蕾随地大小吵",
-      "onboard_time": 1699092931,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 95598,
@@ -2259,14 +2323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 91517,
-      "num": 91517,
-      "word": "体检报告解读",
-      "onboard_time": 1699092870,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 91269,
       "num": 112208,
       "word": "孟鹤堂说天天在家给媳妇做饭",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1699092810,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 90542,
-      "num": 1124496,
-      "word": "专属秋天的多巴胺配色",
-      "onboard_time": 1699090170,
-      "rank": 2,
-      "category": "自然"
     },
     {
       "raw_hot": 88039,
@@ -2427,7 +2475,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30484,
+      "raw_hot": 35739,
       "num": 145819,
       "word": "刘德华为什么拿手指我",
       "onboard_time": 1699090651,
