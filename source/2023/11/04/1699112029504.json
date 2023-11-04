@@ -1,0 +1,410 @@
+{
+  "runTime": 1699112029504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1113964,
+        "num": 1113964,
+        "word": "王曼昱 医疗暂停",
+        "onboard_time": 1699105176,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871524,
+        "num": 871524,
+        "word": "李佳琦公司招商专员收好处费超百万",
+        "onboard_time": 1699105118,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 12625,
+        "num": 869051,
+        "word": "深秋时节的诗情画意",
+        "onboard_time": 1699070252,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512023,
+        "num": 858868,
+        "word": "这期的梦想改造家给我看气了",
+        "onboard_time": 1699108238,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488538,
+        "num": 854025,
+        "word": "压力给到LNG",
+        "onboard_time": 1699091370,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 460702,
+        "num": 842764,
+        "word": "福建男篮浙江男篮赛后冲突",
+        "onboard_time": 1699109380,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422787,
+        "num": 836999,
+        "word": "进击的巨人",
+        "onboard_time": 1699104638,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 366845,
+        "num": 824961,
+        "word": "莎头",
+        "onboard_time": 1699110698,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364593,
+        "num": 819879,
+        "word": "T1 压力",
+        "onboard_time": 1699097261,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308696,
+        "num": 813862,
+        "word": "王楚钦2比4林昀儒",
+        "onboard_time": 1699111959,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 806430,
+        "num": 798691,
+        "word": "ELLE回应红毯耍大牌",
+        "onboard_time": 1699100976,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305154,
+        "num": 789448,
+        "word": "她的十八岁和我一样安静和痛苦吗",
+        "onboard_time": 1699105599,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276692,
+        "num": 783452,
+        "word": "世界冠军不可怕 谁不四强谁尴尬",
+        "onboard_time": 1699106739,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274554,
+        "num": 773521,
+        "word": "孙颖莎 淋雨一直走",
+        "onboard_time": 1699082430,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267921,
+        "num": 768490,
+        "word": "迪丽热巴换手机壳庆祝入住大床房",
+        "onboard_time": 1699079373,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255774,
+        "num": 762273,
+        "word": "沈腾扶杨幂下楼梯",
+        "onboard_time": 1699101633,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249414,
+        "num": 749406,
+        "word": "杨紫白色小吊带",
+        "onboard_time": 1699099478,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237757,
+        "num": 741185,
+        "word": "李佳航来解说决赛吧",
+        "onboard_time": 1699102656,
+        "rank": 17,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 223314,
+        "num": 737720,
+        "word": "周也穿的是姐姐设计的衣服",
+        "onboard_time": 1699099059,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192638,
+        "num": 727759,
+        "word": "孙颖莎 心无旁骛继续涨球",
+        "onboard_time": 1699082430,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533538,
+        "num": 716279,
+        "word": "腹部长赘肉的人都要反思这5个习惯",
+        "onboard_time": 1699105296,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 414730,
+        "num": 713808,
+        "word": "胃胀气就是要舍得饿自己",
+        "onboard_time": 1699109858,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277893,
+        "num": 700813,
+        "word": "白鹿第一次见比她还吵吵的男演员",
+        "onboard_time": 1699105778,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224225,
+        "num": 694920,
+        "word": "原来梳头是真的有用",
+        "onboard_time": 1699094612,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217650,
+        "num": 682683,
+        "word": "深夜的海洋到底有多可怕",
+        "onboard_time": 1699109439,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 214005,
+        "num": 681921,
+        "word": "狗狗耳朵都放下来了你倒是摸啊",
+        "onboard_time": 1699108417,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361350,
+        "num": 669307,
+        "word": "北大宿舍聊天 婚姻残酷真相",
+        "onboard_time": 1699083391,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 663374,
+        "word": "Ruler全球总决赛登场排名第三",
+        "onboard_time": 1699097261,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157014,
+        "num": 654148,
+        "word": "广东恩平地震",
+        "onboard_time": 1699097978,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 647419,
+        "word": "外公干农活两外孙女一左一右帮倒忙",
+        "onboard_time": 1699109675,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156117,
+        "num": 635195,
+        "word": "减肥操再也不枯燥了",
+        "onboard_time": 1699109200,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150445,
+        "num": 632899,
+        "word": "丁程鑫队长大秀故事感",
+        "onboard_time": 1699108359,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147949,
+        "num": 619841,
+        "word": "申有娜阿尼亚cos",
+        "onboard_time": 1699110760,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145778,
+        "num": 613669,
+        "word": "张杰深圳",
+        "onboard_time": 1699105176,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140194,
+        "num": 605060,
+        "word": "联合国称缅北数百人越境逃入中国",
+        "onboard_time": 1699089751,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 130890,
+        "num": 597963,
+        "word": "炮车立功",
+        "onboard_time": 1699097073,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124141,
+        "num": 591731,
+        "word": "所有刷单都是诈骗还有人不知道",
+        "onboard_time": 1699105959,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120300,
+        "num": 579097,
+        "word": "王曼昱4比1早田希娜",
+        "onboard_time": 1699109076,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114585,
+        "num": 570995,
+        "word": "张小斐 黑夜里闪耀的钻石",
+        "onboard_time": 1699014155,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107485,
+        "num": 562421,
+        "word": "曼联 VAR",
+        "onboard_time": 1699107579,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104761,
+        "num": 551199,
+        "word": "吴楚一微博加了认证",
+        "onboard_time": 1699099001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101062,
+        "num": 550005,
+        "word": "谷江山 西安",
+        "onboard_time": 1699101397,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100319,
+        "num": 542176,
+        "word": "外卖1400元牛杂汤提供非法服务系不实信息",
+        "onboard_time": 1699102416,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99639,
+        "num": 527967,
+        "word": "当我把甄嬛传里三个男主角介绍给我妈",
+        "onboard_time": 1699107278,
+        "rank": 43,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 99466,
+        "num": 520755,
+        "word": "李健演唱会",
+        "onboard_time": 1699102416,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98764,
+        "num": 514968,
+        "word": "相信gala",
+        "onboard_time": 1699101038,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92132,
+        "num": 502881,
+        "word": "国防部回应加拿大舰载直升机挑衅",
+        "onboard_time": 1699096358,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 91579,
+        "num": 500093,
+        "word": "尺帝太c了",
+        "onboard_time": 1699096895,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83208,
+        "num": 493007,
+        "word": "漫画服装设计合集",
+        "onboard_time": 1699111633,
+        "rank": 48,
+        "category": "动漫,时尚"
+      },
+      {
+        "raw_hot": 79703,
+        "num": 482761,
+        "word": "第一视角看注意力缺陷症",
+        "onboard_time": 1699109802,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席历届进博会讲话金句#"
+    }
+  }
+}
