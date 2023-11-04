@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699133651795,
+  "endTime": 1699136190018,
   "band_list": [
     {
       "raw_hot": 1619275,
@@ -443,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47598,
+      "num": 167198,
+      "word": "精神分裂患者的世界太痛苦了",
+      "onboard_time": 1699132574,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31821,
       "num": 325376,
       "word": "无所畏惧",
@@ -459,28 +467,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26130,
-      "num": 117300,
-      "word": "广东世仇村和解开始通婚",
-      "onboard_time": 1699127115,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22881,
-      "num": 117802,
+      "raw_hot": 26999,
+      "num": 171037,
       "word": "琉璃裴行俭婚后生活",
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
     },
     {
-      "raw_hot": 21205,
-      "num": 117052,
-      "word": "精神分裂患者的世界太痛苦了",
-      "onboard_time": 1699132574,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 26130,
+      "num": 165737,
+      "word": "广东世仇村和解开始通婚",
+      "onboard_time": 1699127115,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20383,
+      "num": 164967,
+      "word": "古不惯甄嬛传四爷 今不惯领导",
+      "onboard_time": 1699134973,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 17862,
