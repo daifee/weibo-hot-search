@@ -1,0 +1,410 @@
+{
+  "runTime": 1699067853901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742150,
+        "num": 742150,
+        "word": "时宴的车不载有男朋友的女人",
+        "onboard_time": 1699054647,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684888,
+        "num": 684888,
+        "word": "丫丫最近一直都在笑",
+        "onboard_time": 1699062031,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4949,
+        "num": 673123,
+        "word": "第六届进博会亮点抢先看",
+        "onboard_time": 1698993031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018913,
+        "num": 666771,
+        "word": "猪肉直接放酱油中泡2天",
+        "onboard_time": 1699061250,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 996447,
+        "num": 640945,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 968433,
+        "num": 623488,
+        "word": "谢娜说杨紫瘦得脱相了",
+        "onboard_time": 1699057773,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620695,
+        "num": 620695,
+        "word": "迪丽热巴孔雀半开屏",
+        "onboard_time": 1699065511,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 603280,
+        "num": 603280,
+        "word": "韩网评宋茜近况",
+        "onboard_time": 1699057891,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437614,
+        "num": 437614,
+        "word": "外卖深夜1400元牛杂汤疑为非法服务",
+        "onboard_time": 1699056690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403978,
+        "num": 403978,
+        "word": "法国驻加沙机构遭以色列空袭",
+        "onboard_time": 1699063890,
+        "rank": 9,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 575366,
+        "num": 401597,
+        "word": "黄晓明被说油的那阵赶上沈腾上网了",
+        "onboard_time": 1699058671,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552895,
+        "num": 378818,
+        "word": "迪丽热巴异瞳",
+        "onboard_time": 1699055186,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 341306,
+        "num": 341306,
+        "word": "煤矿隐瞒事故违法转运火化遗体问责36人",
+        "onboard_time": 1699063051,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321747,
+        "num": 321747,
+        "word": "银行回应取600存款要花800开证明",
+        "onboard_time": 1699058612,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 311332,
+        "num": 311332,
+        "word": "小伙在自家厕所里建海洋馆隐居6年",
+        "onboard_time": 1699060412,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305598,
+        "num": 305598,
+        "word": "被举报与女同事暧昧副市长被免职",
+        "onboard_time": 1699054948,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244113,
+        "num": 244113,
+        "word": "王安宇胡先煦一个比一个有安全感",
+        "onboard_time": 1699063171,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242248,
+        "num": 242248,
+        "word": "买了最白香奈儿回家发现更白的",
+        "onboard_time": 1699059092,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 238240,
+        "num": 238240,
+        "word": "老友记主演出席马修葬礼",
+        "onboard_time": 1699067371,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230739,
+        "num": 230739,
+        "word": "穿越火线再发声明",
+        "onboard_time": 1699065029,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210248,
+        "num": 210248,
+        "word": "勇士连续两场绝杀",
+        "onboard_time": 1699067431,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203146,
+        "num": 203146,
+        "word": "库里绝杀雷霆",
+        "onboard_time": 1699067431,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201697,
+        "num": 201697,
+        "word": "盘点河南多地哄抢事件通报",
+        "onboard_time": 1699065511,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197042,
+        "num": 197042,
+        "word": "当代年轻人炫耀式捡漏消费",
+        "onboard_time": 1699067070,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 196938,
+        "num": 196938,
+        "word": "谁来管管管泽元的嘴",
+        "onboard_time": 1699063952,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190755,
+        "num": 190755,
+        "word": "勇士vs雷霆",
+        "onboard_time": 1699066771,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179717,
+        "num": 179717,
+        "word": "尼泊尔地震80人遇难140余人受伤",
+        "onboard_time": 1699064851,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160770,
+        "num": 160770,
+        "word": "我的小舅舅在哪儿呢",
+        "onboard_time": 1699064250,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154532,
+        "num": 154532,
+        "word": "孙颖莎 勇往直前Go混剪",
+        "onboard_time": 1699066650,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151300,
+        "num": 151300,
+        "word": "中国大陆合法销售的iPhone15均为中国组装",
+        "onboard_time": 1699023159,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149263,
+        "num": 149263,
+        "word": "辛芷蕾 我可是气质型的",
+        "onboard_time": 1699066592,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147826,
+        "num": 147826,
+        "word": "加沙地带已有3760名儿童死亡",
+        "onboard_time": 1699065089,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141928,
+        "num": 141928,
+        "word": "ELLE红毯主持人没词了",
+        "onboard_time": 1699039096,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140274,
+        "num": 140274,
+        "word": "我和彭于晏的共同点是偶像一样",
+        "onboard_time": 1699064909,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139180,
+        "num": 139180,
+        "word": "艺术家韦伟逝世",
+        "onboard_time": 1699062389,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136670,
+        "num": 136670,
+        "word": "丫丫变成安逸丫了",
+        "onboard_time": 1699066830,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129386,
+        "num": 129386,
+        "word": "娜扎许魏洲新剧今日开播",
+        "onboard_time": 1699064369,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124093,
+        "num": 124093,
+        "word": "戚砚笛撒野造型破碎感",
+        "onboard_time": 1699062990,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123991,
+        "num": 123991,
+        "word": "于和伟演得了枭雄发得了疯",
+        "onboard_time": 1699067012,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117673,
+        "num": 117673,
+        "word": "张雨绮黑纱新娘造型",
+        "onboard_time": 1699066711,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117275,
+        "num": 117275,
+        "word": "范丞丞 王牌现在都这么疯吗",
+        "onboard_time": 1699055247,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116932,
+        "num": 116932,
+        "word": "文咏珊初秋美拉德妆容",
+        "onboard_time": 1699065150,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 114672,
+        "num": 114672,
+        "word": "李善均毛发检测阴性",
+        "onboard_time": 1699055307,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113854,
+        "num": 113854,
+        "word": "进击的巨人终篇",
+        "onboard_time": 1699061070,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112252,
+        "num": 112252,
+        "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
+        "onboard_time": 1699021418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112214,
+        "num": 112214,
+        "word": "杨紫画腮红画成年画娃娃",
+        "onboard_time": 1699059991,
+        "rank": 45,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 104090,
+        "num": 112210,
+        "word": "杭州演唱会撞车式官宣",
+        "onboard_time": 1699062936,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91269,
+        "num": 112208,
+        "word": "孟鹤堂说天天在家给媳妇做饭",
+        "onboard_time": 1699066469,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164393,
+        "num": 112199,
+        "word": "军队文职 网站崩了",
+        "onboard_time": 1699057471,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81194,
+        "num": 112194,
+        "word": "终于等到这英出那英的妆教",
+        "onboard_time": 1699058792,
+        "rank": 49,
+        "category": "美妆,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央金融工作会议#"
+    }
+  }
+}

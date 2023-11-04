@@ -1,6 +1,6 @@
 {
   "startTime": 1699028571543,
-  "endTime": 1699065254780,
+  "endTime": 1699067853901,
   "band_list": [
     {
       "raw_hot": 1503634,
@@ -67,12 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 888707,
+      "raw_hot": 1018913,
       "num": 888707,
       "word": "猪肉直接放酱油中泡2天",
       "onboard_time": 1699061250,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 996447,
+      "num": 640945,
+      "word": "难看",
+      "onboard_time": 1699066771,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 888298,
@@ -161,6 +169,14 @@
       "onboard_time": 1699025737,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 620695,
+      "num": 620695,
+      "word": "迪丽热巴孔雀半开屏",
+      "onboard_time": 1699065511,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 588645,
@@ -275,6 +291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 403978,
+      "num": 403978,
+      "word": "法国驻加沙机构遭以色列空袭",
+      "onboard_time": 1699063890,
+      "rank": 23,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 383362,
       "num": 134329,
       "word": "一副市长被前妻实名举报",
@@ -371,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301129,
-      "num": 301129,
-      "word": "法国驻加沙机构遭以色列空袭",
-      "onboard_time": 1699063890,
-      "rank": 23,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 289178,
       "num": 246894,
       "word": "迪丽热巴辛芷蕾ie分明",
@@ -451,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238240,
+      "num": 238240,
+      "word": "老友记主演出席马修葬礼",
+      "onboard_time": 1699067371,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237522,
       "num": 237522,
       "word": "天秤座总是错把好感当动心",
@@ -473,6 +497,14 @@
       "onboard_time": 1699063952,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 230739,
+      "num": 230739,
+      "word": "穿越火线再发声明",
+      "onboard_time": 1699065029,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 228846,
@@ -531,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210248,
+      "num": 210248,
+      "word": "勇士连续两场绝杀",
+      "onboard_time": 1699067431,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209782,
       "num": 209782,
       "word": "艺术家韦伟逝世",
@@ -563,12 +603,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203146,
+      "num": 203146,
+      "word": "库里绝杀雷霆",
+      "onboard_time": 1699067431,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201697,
+      "num": 201697,
+      "word": "盘点河南多地哄抢事件通报",
+      "onboard_time": 1699065511,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199344,
       "num": 199344,
       "word": "谁给周也配的鞋子",
       "onboard_time": 1699058431,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197042,
+      "num": 197042,
+      "word": "当代年轻人炫耀式捡漏消费",
+      "onboard_time": 1699067070,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 196943,
@@ -611,6 +675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190755,
+      "num": 190755,
+      "word": "勇士vs雷霆",
+      "onboard_time": 1699066771,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189991,
       "num": 189991,
       "word": "狗狗醒来发现家里没人委屈大哭",
@@ -648,6 +720,14 @@
       "word": "山东一县养20万亩大闸蟹产值或超20亿元",
       "onboard_time": 1699052661,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179717,
+      "num": 179717,
+      "word": "尼泊尔地震80人遇难140余人受伤",
+      "onboard_time": 1699064851,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -699,6 +779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160770,
+      "num": 160770,
+      "word": "我的小舅舅在哪儿呢",
+      "onboard_time": 1699064250,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158967,
       "num": 158967,
       "word": "辛芷蕾不笑的时候还是挺辛芷蕾的",
@@ -731,6 +819,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 154532,
+      "num": 154532,
+      "word": "孙颖莎 勇往直前Go混剪",
+      "onboard_time": 1699066650,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149263,
+      "num": 149263,
+      "word": "辛芷蕾 我可是气质型的",
+      "onboard_time": 1699066592,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148357,
       "num": 148357,
       "word": "压力给到JDG",
@@ -745,6 +849,14 @@
       "onboard_time": 1699028671,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147826,
+      "num": 147826,
+      "word": "加沙地带已有3760名儿童死亡",
+      "onboard_time": 1699065089,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 143178,
@@ -771,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141449,
-      "num": 141449,
-      "word": "穿越火线再发声明",
-      "onboard_time": 1699065029,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 140274,
+      "num": 140274,
+      "word": "我和彭于晏的共同点是偶像一样",
+      "onboard_time": 1699064909,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 140195,
@@ -795,28 +907,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136670,
+      "num": 136670,
+      "word": "丫丫变成安逸丫了",
+      "onboard_time": 1699066830,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136496,
       "num": 136496,
       "word": "NBA季中锦标赛",
       "onboard_time": 1699060050,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135877,
-      "num": 135877,
-      "word": "我和彭于晏的共同点是偶像一样",
-      "onboard_time": 1699064909,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 135462,
-      "num": 135462,
-      "word": "我的小舅舅在哪儿呢",
-      "onboard_time": 1699064250,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 134843,
@@ -899,12 +1003,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 124414,
-      "num": 124414,
-      "word": "尼泊尔地震80人遇难140余人受伤",
-      "onboard_time": 1699064851,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 123991,
+      "num": 123991,
+      "word": "于和伟演得了枭雄发得了疯",
+      "onboard_time": 1699067012,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 122652,
@@ -923,12 +1027,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 117673,
+      "num": 117673,
+      "word": "张雨绮黑纱新娘造型",
+      "onboard_time": 1699066711,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117344,
       "num": 117344,
       "word": "Bin兰博",
       "onboard_time": 1699002753,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116932,
+      "num": 116932,
+      "word": "文咏珊初秋美拉德妆容",
+      "onboard_time": 1699065150,
+      "rank": 48,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 116201,
@@ -995,14 +1115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97062,
-      "num": 97062,
-      "word": "文咏珊初秋美拉德妆容",
-      "onboard_time": 1699065150,
-      "rank": 48,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 95598,
       "num": 95598,
       "word": "通信技术试验卫星十号发射成功",
@@ -1011,12 +1123,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 92931,
-      "num": 92931,
-      "word": "加沙地带已有3760名儿童死亡",
-      "onboard_time": 1699065089,
-      "rank": 49,
-      "category": "国外要闻"
+      "raw_hot": 91269,
+      "num": 112208,
+      "word": "孟鹤堂说天天在家给媳妇做饭",
+      "onboard_time": 1699066469,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 87655,
