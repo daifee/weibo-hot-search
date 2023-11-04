@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699107278659,
+  "endTime": 1699108469309,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1339,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 832996,
+      "num": 1396182,
+      "word": "腹部长赘肉的人都要反思这5个习惯",
+      "onboard_time": 1699105296,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 828856,
       "num": 828856,
       "word": "吴彤是抓住了闫妮的什么把柄吗",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1698933578,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810561,
-      "num": 1396182,
-      "word": "腹部长赘肉的人都要反思这5个习惯",
-      "onboard_time": 1699105296,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 809747,
@@ -4539,6 +4539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323774,
+      "num": 1396676,
+      "word": "她的十八岁和我一样安静和痛苦吗",
+      "onboard_time": 1699105599,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323664,
       "num": 278814,
       "word": "向佐 我只是长的凶",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311318,
-      "num": 1396676,
-      "word": "她的十八岁和我一样安静和痛苦吗",
-      "onboard_time": 1699105599,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 310772,
@@ -4953,6 +4953,14 @@
       "onboard_time": 1698938136,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289799,
+      "num": 1396197,
+      "word": "进击的巨人",
+      "onboard_time": 1699104638,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 289178,
@@ -5521,6 +5529,14 @@
       "onboard_time": 1698884316,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260922,
+      "num": 1199344,
+      "word": "曼联 VAR",
+      "onboard_time": 1699107579,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 260592,
@@ -6739,14 +6755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 211404,
-      "num": 1396197,
-      "word": "进击的巨人",
-      "onboard_time": 1699104638,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 211150,
       "num": 211150,
       "word": "洗漱后护肤黄金3分钟别错过",
@@ -6929,6 +6937,14 @@
       "onboard_time": 1698815736,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206630,
+      "num": 1395080,
+      "word": "世界冠军不可怕 谁不四强谁尴尬",
+      "onboard_time": 1699106739,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 206568,
@@ -7433,6 +7449,14 @@
       "onboard_time": 1699095392,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 194672,
+      "num": 1195512,
+      "word": "丁程鑫队长大秀故事感",
+      "onboard_time": 1699108359,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 194239,
@@ -9395,6 +9419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 145981,
+      "num": 1193481,
+      "word": "当我把甄嬛传里三个男主角介绍给我妈",
+      "onboard_time": 1699107278,
+      "rank": 30,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 145921,
       "num": 145921,
       "word": "郭晓婷正剧适配度",
@@ -10219,14 +10251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123716,
-      "num": 1395080,
-      "word": "世界冠军不可怕 谁不四强谁尴尬",
-      "onboard_time": 1699106739,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123667,
       "num": 256966,
       "word": "麻辣王子团叫粉丝麻辣公主",
@@ -10409,6 +10433,14 @@
       "onboard_time": 1699083032,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118911,
+      "num": 1394376,
+      "word": "富勒姆vs曼联",
+      "onboard_time": 1699099779,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118849,
@@ -10771,6 +10803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104331,
+      "num": 1189353,
+      "word": "这期的梦想改造家给我看气了",
+      "onboard_time": 1699108238,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103976,
       "num": 103976,
       "word": "秋日故宫壁纸上新了",
@@ -10985,14 +11025,6 @@
       "onboard_time": 1698842616,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 92264,
-      "num": 1394376,
-      "word": "富勒姆vs曼联",
-      "onboard_time": 1699099779,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 91665,
@@ -11233,6 +11265,14 @@
       "onboard_time": 1699105058,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 70456,
+      "num": 1185593,
+      "word": "狗狗耳朵都放下来了你倒是摸啊",
+      "onboard_time": 1699108417,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 67022,

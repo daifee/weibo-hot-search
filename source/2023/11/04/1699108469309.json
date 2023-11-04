@@ -1,0 +1,410 @@
+{
+  "runTime": 1699108469309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2872167,
+        "num": 2872167,
+        "word": "王曼昱 医疗暂停",
+        "onboard_time": 1699105176,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1205441,
+        "num": 1205441,
+        "word": "李佳琦公司招商专员收好处费超百万",
+        "onboard_time": 1699105118,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 16880,
+        "num": 1205283,
+        "word": "深秋时节的诗情画意",
+        "onboard_time": 1699070252,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695814,
+        "num": 1204915,
+        "word": "压力给到LNG",
+        "onboard_time": 1699091370,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 501306,
+        "num": 1204555,
+        "word": "外卖1400元牛杂汤提供非法服务系不实信息",
+        "onboard_time": 1699102416,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416704,
+        "num": 1203877,
+        "word": "沈腾扶杨幂下楼梯",
+        "onboard_time": 1699101633,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410230,
+        "num": 1203526,
+        "word": "T1 压力",
+        "onboard_time": 1699097261,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 362014,
+        "num": 1203131,
+        "word": "李佳航来解说决赛吧",
+        "onboard_time": 1699102656,
+        "rank": 7,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 392795,
+        "num": 1202595,
+        "word": "北大宿舍聊天 婚姻残酷真相",
+        "onboard_time": 1699083391,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323774,
+        "num": 1202118,
+        "word": "她的十八岁和我一样安静和痛苦吗",
+        "onboard_time": 1699105599,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1420758,
+        "num": 1201897,
+        "word": "ELLE回应红毯耍大牌",
+        "onboard_time": 1699100976,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307108,
+        "num": 1201508,
+        "word": "迪丽热巴换手机壳庆祝入住大床房",
+        "onboard_time": 1699079373,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294274,
+        "num": 1201116,
+        "word": "张杰深圳",
+        "onboard_time": 1699105176,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289799,
+        "num": 1200419,
+        "word": "进击的巨人",
+        "onboard_time": 1699104638,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 284243,
+        "num": 1200193,
+        "word": "杨紫白色小吊带",
+        "onboard_time": 1699099478,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263096,
+        "num": 1199859,
+        "word": "Ruler全球总决赛登场排名第三",
+        "onboard_time": 1699097261,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260922,
+        "num": 1199344,
+        "word": "曼联 VAR",
+        "onboard_time": 1699107579,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248321,
+        "num": 1198876,
+        "word": "周也穿的是姐姐设计的衣服",
+        "onboard_time": 1699099059,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222882,
+        "num": 1198410,
+        "word": "广东恩平地震",
+        "onboard_time": 1699097978,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206630,
+        "num": 1198217,
+        "word": "世界冠军不可怕 谁不四强谁尴尬",
+        "onboard_time": 1699106739,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 832996,
+        "num": 1197785,
+        "word": "腹部长赘肉的人都要反思这5个习惯",
+        "onboard_time": 1699105296,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 355610,
+        "num": 1197255,
+        "word": "白鹿第一次见比她还吵吵的男演员",
+        "onboard_time": 1699105778,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239459,
+        "num": 1196850,
+        "word": "原来梳头是真的有用",
+        "onboard_time": 1699094612,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218710,
+        "num": 1196580,
+        "word": "联合国称缅北数百人越境逃入中国",
+        "onboard_time": 1699089751,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 199805,
+        "num": 1195802,
+        "word": "李健演唱会",
+        "onboard_time": 1699102416,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194672,
+        "num": 1195512,
+        "word": "丁程鑫队长大秀故事感",
+        "onboard_time": 1699108359,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181418,
+        "num": 1195004,
+        "word": "炮车立功",
+        "onboard_time": 1699097073,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166719,
+        "num": 1194885,
+        "word": "张小斐 黑夜里闪耀的钻石",
+        "onboard_time": 1699014155,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149072,
+        "num": 1194157,
+        "word": "孙颖莎 淋雨一直走",
+        "onboard_time": 1699082430,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93509,
+        "num": 1193708,
+        "word": "国防部回应加拿大舰载直升机挑衅",
+        "onboard_time": 1699096358,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 145981,
+        "num": 1193481,
+        "word": "当我把甄嬛传里三个男主角介绍给我妈",
+        "onboard_time": 1699107278,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 145106,
+        "num": 1192865,
+        "word": "LCK最后的希望",
+        "onboard_time": 1699099001,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144684,
+        "num": 1192663,
+        "word": "谷江山 西安",
+        "onboard_time": 1699101397,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 1192252,
+        "word": "所有刷单都是诈骗还有人不知道",
+        "onboard_time": 1699105959,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143934,
+        "num": 1191608,
+        "word": "吴楚一微博加了认证",
+        "onboard_time": 1699099001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136808,
+        "num": 1191220,
+        "word": "你好星期六",
+        "onboard_time": 1699099361,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134169,
+        "num": 1190921,
+        "word": "尺帝太c了",
+        "onboard_time": 1699096895,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127683,
+        "num": 1190468,
+        "word": "你有算过每个月在咖啡上花了多少钱吗",
+        "onboard_time": 1699104035,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123125,
+        "num": 1190038,
+        "word": "难看",
+        "onboard_time": 1699066771,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118911,
+        "num": 1189764,
+        "word": "富勒姆vs曼联",
+        "onboard_time": 1699099779,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104331,
+        "num": 1189353,
+        "word": "这期的梦想改造家给我看气了",
+        "onboard_time": 1699108238,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103346,
+        "num": 1188943,
+        "word": "相信gala",
+        "onboard_time": 1699101038,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103111,
+        "num": 1188625,
+        "word": "张靓颖南京",
+        "onboard_time": 1699103498,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98089,
+        "num": 1187940,
+        "word": "孙颖莎 心无旁骛继续涨球",
+        "onboard_time": 1699082430,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92180,
+        "num": 1187586,
+        "word": "无所畏惧",
+        "onboard_time": 1699105959,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90764,
+        "num": 1187006,
+        "word": "第一次看到这么灵活的女主",
+        "onboard_time": 1699100560,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86982,
+        "num": 1186801,
+        "word": "西湖里来了50多只小鷿鷈",
+        "onboard_time": 1699092210,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79935,
+        "num": 1186144,
+        "word": "广州震感",
+        "onboard_time": 1699098582,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71962,
+        "num": 1186034,
+        "word": "宋亚轩买游戏账号被骗钱",
+        "onboard_time": 1699085371,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70456,
+        "num": 1185593,
+        "word": "狗狗耳朵都放下来了你倒是摸啊",
+        "onboard_time": 1699108417,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对外开放的大门不会关闭只会越开越大#"
+    }
+  }
+}
