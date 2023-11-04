@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699085983922,
+  "endTime": 1699086848677,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -427,6 +427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1669506,
+      "num": 1669506,
+      "word": "北大宿舍聊天 婚姻残酷真相",
+      "onboard_time": 1699083391,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1627789,
       "num": 1627789,
       "word": "李思思开口 分不清谁在主持",
@@ -441,14 +449,6 @@
       "onboard_time": 1698982774,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1599014,
-      "num": 1599014,
-      "word": "北大宿舍聊天 婚姻残酷真相",
-      "onboard_time": 1699083391,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1594962,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739633,
+      "num": 439763,
+      "word": "向太解释李连杰向她请安",
+      "onboard_time": 1699083933,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739020,
       "num": 302450,
       "word": "月薪两万一年的护肤花费58.3元",
@@ -1611,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 732232,
-      "num": 384398,
-      "word": "向太解释李连杰向她请安",
-      "onboard_time": 1699083933,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 729791,
       "num": 729791,
       "word": "王一博于适 星辰大海双C位",
@@ -1633,6 +1633,14 @@
       "onboard_time": 1699020759,
       "rank": 36,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 728409,
+      "num": 728409,
+      "word": "宋亚轩买游戏账号被骗钱",
+      "onboard_time": 1699085371,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 725750,
@@ -2723,14 +2731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 480438,
-      "num": 480438,
-      "word": "宋亚轩买游戏账号被骗钱",
-      "onboard_time": 1699085371,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 478563,
       "num": 478563,
       "word": "我使馆回应日本第三批核污染水排海",
@@ -2940,11 +2940,19 @@
     },
     {
       "raw_hot": 446466,
-      "num": 379007,
+      "num": 437833,
       "word": "孙颖莎 淋雨一直走",
       "onboard_time": 1699082430,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446340,
+      "num": 446340,
+      "word": "司藤小姐在古代的战斗力",
+      "onboard_time": 1699085015,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 446078,
@@ -4195,14 +4203,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 326987,
-      "num": 326987,
-      "word": "司藤小姐在古代的战斗力",
-      "onboard_time": 1699085015,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 326373,
       "num": 326373,
       "word": "爱奇艺11月片单",
@@ -4536,6 +4536,14 @@
       "word": "腾讯视频11月大剧片单",
       "onboard_time": 1698815137,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295548,
+      "num": 295548,
+      "word": "郑书意目睹男友出轨",
+      "onboard_time": 1699085371,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -4899,6 +4907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273977,
+      "num": 273977,
+      "word": "上市公司5995万存款不见了",
+      "onboard_time": 1699084893,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 273955,
       "num": 273955,
       "word": "羊 就你叫牧羊犬啊",
@@ -5161,6 +5177,14 @@
       "onboard_time": 1698884316,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260908,
+      "num": 258015,
+      "word": "闲置太久的鞋子就不要穿了",
+      "onboard_time": 1699082430,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 260592,
@@ -5433,14 +5457,6 @@
       "onboard_time": 1698815794,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247746,
-      "num": 247746,
-      "word": "闲置太久的鞋子就不要穿了",
-      "onboard_time": 1699082430,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 247372,
@@ -6147,6 +6163,14 @@
       "category": "剧集,幽默"
     },
     {
+      "raw_hot": 220318,
+      "num": 220318,
+      "word": "JDG对战KT",
+      "onboard_time": 1699074034,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220247,
       "num": 230535,
       "word": "中国驻菲使馆回应6中国公民马尼拉被绑",
@@ -6427,14 +6451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210031,
-      "num": 210031,
-      "word": "JDG对战KT",
-      "onboard_time": 1699074034,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209782,
       "num": 209782,
       "word": "艺术家韦伟逝世",
@@ -6475,7 +6491,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208300,
+      "raw_hot": 208399,
       "num": 208300,
       "word": "杨幂优雅盘发妆",
       "onboard_time": 1699082670,
@@ -6489,14 +6505,6 @@
       "onboard_time": 1698819452,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208050,
-      "num": 189730,
-      "word": "郑书意目睹男友出轨",
-      "onboard_time": 1699085371,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 207698,
@@ -6633,6 +6641,14 @@
       "onboard_time": 1698837394,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204040,
+      "num": 204040,
+      "word": "大连人",
+      "onboard_time": 1699086329,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 203572,
@@ -6971,14 +6987,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 196218,
-      "num": 196218,
-      "word": "上市公司5995万存款不见了",
-      "onboard_time": 1699084893,
-      "rank": 28,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 195493,
       "num": 195493,
       "word": "秦海璐清花少旅行库存",
@@ -7257,6 +7265,14 @@
       "onboard_time": 1698818792,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188850,
+      "num": 188850,
+      "word": "旅客硬卧车厢吃席排场赶超满汉全席",
+      "onboard_time": 1699086151,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188802,
@@ -7625,6 +7641,14 @@
       "onboard_time": 1698976593,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178267,
+      "num": 178267,
+      "word": "许凯景甜都不信匪我思存",
+      "onboard_time": 1699086329,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 178073,
@@ -8291,20 +8315,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158243,
+      "num": 158243,
+      "word": "李彩领申有娜中文battle",
+      "onboard_time": 1699084111,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158055,
       "num": 158055,
       "word": "巨人 艾伦三笠共用围巾",
       "onboard_time": 1698807331,
       "rank": 44,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 157644,
-      "num": 157644,
-      "word": "李彩领申有娜中文battle",
-      "onboard_time": 1699084111,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 157511,
@@ -9835,6 +9859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 112417,
+      "num": 112417,
+      "word": "张译尝试可爱但失败",
+      "onboard_time": 1699085911,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112127,
       "num": 112127,
       "word": "当红流量今年剧中的原声台词",
@@ -9947,6 +9979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105649,
+      "num": 105649,
+      "word": "薛之谦没读大屏词",
+      "onboard_time": 1699086751,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105417,
       "num": 105417,
       "word": "小精灵万圣节饺子妆",
@@ -9969,6 +10009,14 @@
       "onboard_time": 1698940533,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103976,
+      "num": 103976,
+      "word": "秋日故宫壁纸上新了",
+      "onboard_time": 1699086751,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 103287,
@@ -10121,6 +10169,14 @@
       "onboard_time": 1698828633,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94717,
+      "num": 94717,
+      "word": "大连人vs上海海港",
+      "onboard_time": 1699086630,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93290,
