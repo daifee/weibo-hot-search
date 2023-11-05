@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699176850268,
+  "endTime": 1699179426197,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -65,6 +65,14 @@
       "onboard_time": 1699009233,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 3417051,
+      "num": 3417051,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 3407261,
@@ -227,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2252617,
+      "num": 2252617,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2230925,
       "num": 2230925,
       "word": "湖大冲突事件双方达成谅解",
@@ -265,6 +281,14 @@
       "onboard_time": 1698970114,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2149334,
+      "num": 2149334,
+      "word": "Scout 精忠报国",
+      "onboard_time": 1699174115,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 2123546,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1793996,
+      "num": 1793996,
+      "word": "LNG醒醒",
+      "onboard_time": 1699178913,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1768917,
       "num": 456039,
       "word": "辛巴抖音账号被封禁",
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 1750552,
-      "num": 656957,
+      "num": 1135002,
       "word": "吴建豪戴玉手镯",
       "onboard_time": 1699174175,
       "rank": 10,
@@ -473,14 +505,6 @@
       "onboard_time": 1699001014,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1706565,
-      "num": 1706565,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 1699871,
@@ -593,14 +617,6 @@
       "onboard_time": 1698930217,
       "rank": 7,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 1566596,
-      "num": 1256757,
-      "word": "Scout 精忠报国",
-      "onboard_time": 1699174115,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 1560529,
@@ -809,6 +825,14 @@
       "onboard_time": 1698939396,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1361372,
+      "num": 1422267,
+      "word": "Tarzan 皇子",
+      "onboard_time": 1699174532,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 1359273,
@@ -1059,11 +1083,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1156745,
-      "num": 1156745,
-      "word": "救救gala",
-      "onboard_time": 1699175250,
-      "rank": 9,
+      "raw_hot": 1157573,
+      "num": 1157573,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -1451,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 893732,
+      "num": 893732,
+      "word": "辅助机器人",
+      "onboard_time": 1699175070,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 892251,
       "num": 892251,
       "word": "海归博士985硕士求职因本科双非被刷",
@@ -1683,14 +1715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 807022,
-      "num": 877637,
-      "word": "Tarzan 皇子",
-      "onboard_time": 1699174532,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 805935,
       "num": 805935,
       "word": "林昀儒没想到自己能赢",
@@ -1700,7 +1724,7 @@
     },
     {
       "raw_hot": 805683,
-      "num": 305371,
+      "num": 372587,
       "word": "我的公积金比老家工资还高",
       "onboard_time": 1699172609,
       "rank": 20,
@@ -2059,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 722375,
-      "num": 722375,
-      "word": "辅助机器人",
-      "onboard_time": 1699175070,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 722000,
       "num": 369820,
       "word": "张元英 皮衣",
@@ -2361,14 +2377,6 @@
       "onboard_time": 1698892535,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634720,
-      "num": 619673,
-      "word": "管泽元预测",
-      "onboard_time": 1699172609,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 634682,
@@ -3108,7 +3116,7 @@
     },
     {
       "raw_hot": 513769,
-      "num": 513769,
+      "num": 2647204,
       "word": "浙江一中学校长办公室变肠胃外科",
       "onboard_time": 1699165171,
       "rank": 45,
@@ -3299,6 +3307,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 489230,
+      "num": 489230,
+      "word": "关于THE9赵小棠的回忆",
+      "onboard_time": 1699176510,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488734,
       "num": 368748,
       "word": "被papi酱的表情笑死",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1699104638,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 478946,
+      "num": 371721,
+      "word": "月薪五千借钱给儿子买万元电脑",
+      "onboard_time": 1699175970,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478563,
@@ -3523,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461114,
+      "num": 461114,
+      "word": "杨幂式保暖穿搭",
+      "onboard_time": 1699176570,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460702,
       "num": 965324,
       "word": "福建男篮浙江男篮赛后冲突",
@@ -3577,6 +3609,14 @@
       "onboard_time": 1698833372,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458197,
+      "num": 458197,
+      "word": "JDG与BLG选手观赛LNG",
+      "onboard_time": 1699176875,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 457138,
@@ -4139,6 +4179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407343,
+      "num": 407343,
+      "word": "LNG对战T1 比分预测",
+      "onboard_time": 1699148011,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 405929,
       "num": 405929,
       "word": "樊振东1比3李尚洙",
@@ -4201,14 +4249,6 @@
       "onboard_time": 1698884075,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399482,
-      "num": 399482,
-      "word": "LNG对战T1 比分预测",
-      "onboard_time": 1699148011,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 399211,
@@ -5227,6 +5267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326996,
+      "num": 326996,
+      "word": "T1手握三个赛点",
+      "onboard_time": 1699177891,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326373,
       "num": 326373,
       "word": "爱奇艺11月片单",
@@ -5699,14 +5747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289534,
-      "num": 226953,
-      "word": "月薪五千借钱给儿子买万元电脑",
-      "onboard_time": 1699175970,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289484,
       "num": 430671,
       "word": "谷爱凌官宣参赛世界杯崇礼站",
@@ -5809,6 +5849,14 @@
       "onboard_time": 1698816155,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 283923,
+      "num": 2160783,
+      "word": "孕妇坐夜车清晨地铁晕倒警民合力施救",
+      "onboard_time": 1699177833,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283612,
@@ -6065,6 +6113,14 @@
       "onboard_time": 1698968007,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271959,
+      "num": 271959,
+      "word": "娜扎谈琉璃",
+      "onboard_time": 1699178913,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 271781,
@@ -6507,6 +6563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 252879,
+      "num": 252879,
+      "word": "狼队对战AG",
+      "onboard_time": 1699177592,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252697,
       "num": 252697,
       "word": "澹台烬廿白羽重生还是上下级",
@@ -6667,6 +6731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246546,
+      "num": 246546,
+      "word": "张钧甯说阮经天超时从不收钱",
+      "onboard_time": 1699176149,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246222,
       "num": 246222,
       "word": "苹果或在印度启动iPhone17研发",
@@ -6737,6 +6809,14 @@
       "onboard_time": 1699082310,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 243534,
+      "num": 243534,
+      "word": "北京晚霞",
+      "onboard_time": 1699178610,
+      "rank": 33,
+      "category": "自然"
     },
     {
       "raw_hot": 243510,
@@ -7155,6 +7235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228331,
+      "num": 228331,
+      "word": "offer5全员爆料走心局",
+      "onboard_time": 1699177115,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227876,
       "num": 227876,
       "word": "胰腺癌的早期信号是什么",
@@ -7339,14 +7427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223670,
-      "num": 223670,
-      "word": "张钧甯说阮经天超时从不收钱",
-      "onboard_time": 1699176149,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223574,
       "num": 223574,
       "word": "只逛不买",
@@ -7515,6 +7595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217135,
+      "num": 217135,
+      "word": "WBG获胜",
+      "onboard_time": 1699178856,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217098,
       "num": 186017,
       "word": "第一次见脑袋这么大的猫",
@@ -7665,14 +7753,6 @@
       "onboard_time": 1698884862,
       "rank": 33,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 211527,
-      "num": 211527,
-      "word": "杨幂式保暖穿搭",
-      "onboard_time": 1699176570,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 211444,
@@ -8323,6 +8403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197495,
+      "num": 197495,
+      "word": "好有饭缩力",
+      "onboard_time": 1699178310,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197455,
       "num": 197455,
       "word": "李健 不要人云亦云",
@@ -8681,14 +8769,6 @@
       "onboard_time": 1698927274,
       "rank": 37,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 190283,
-      "num": 190283,
-      "word": "关于THE9赵小棠的回忆",
-      "onboard_time": 1699176510,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 190147,
@@ -9059,6 +9139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182266,
+      "num": 182266,
+      "word": "怜爱GR",
+      "onboard_time": 1699179273,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "2023vivo开发者大会",
@@ -9323,6 +9411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175626,
+      "num": 175626,
+      "word": "刺痛为狼队扛大旗",
+      "onboard_time": 1699179215,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175143,
       "num": 175143,
       "word": "孩子手指夹断警车开道送医顺利手术",
@@ -9353,6 +9449,14 @@
       "onboard_time": 1699146691,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173621,
+      "num": 1964535,
+      "word": "女孩提蛋糕找消防员一起过18岁生日",
+      "onboard_time": 1699177833,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173361,
@@ -10844,7 +10948,7 @@
     },
     {
       "raw_hot": 142178,
-      "num": 1370351,
+      "num": 2384790,
       "word": "一个进口产品浓度超高的地方在中国",
       "onboard_time": 1699154190,
       "rank": 2,
@@ -13233,6 +13337,14 @@
       "onboard_time": 1698944841,
       "rank": 47,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 43105,
+      "num": 372814,
+      "word": "杨紫活动花絮高清图",
+      "onboard_time": 1699178670,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 42654,
