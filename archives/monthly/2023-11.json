@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699215429541,
+  "endTime": 1699216440397,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -14451,20 +14451,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27268,
+      "num": 48727,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26279,
       "num": 26279,
       "word": "胡彦斌点出了纪焕博王诗晴在争什么",
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24176,
-      "num": 48727,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 23899,
@@ -14499,7 +14499,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18854,
+      "raw_hot": 19717,
       "num": 48679,
       "word": "哪个大聪明在车顶晒虾",
       "onboard_time": 1699213215,

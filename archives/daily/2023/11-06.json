@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699215429541,
+  "endTime": 1699216440397,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -483,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24176,
+      "raw_hot": 27268,
       "num": 48727,
       "word": "台媒报道以爱为营",
       "onboard_time": 1699215193,
@@ -507,7 +507,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18854,
+      "raw_hot": 19717,
       "num": 48679,
       "word": "哪个大聪明在车顶晒虾",
       "onboard_time": 1699213215,
