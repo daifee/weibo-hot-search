@@ -1,0 +1,410 @@
+{
+  "runTime": 1699188348048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5955174,
+        "num": 5955174,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1780534,
+        "num": 1780534,
+        "word": "gala哭了",
+        "onboard_time": 1699182515,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34351,
+        "num": 1428781,
+        "word": "进博会创意产品抢先看",
+        "onboard_time": 1699183536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373837,
+        "num": 1373837,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 901147,
+        "num": 901147,
+        "word": "T1晋级S13四强",
+        "onboard_time": 1699179827,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 713409,
+        "num": 713409,
+        "word": "RNG能不能把gala卡回来",
+        "onboard_time": 1699181974,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 638172,
+        "num": 638172,
+        "word": "宁王",
+        "onboard_time": 1699181020,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 613178,
+        "num": 613178,
+        "word": "Tarzan 皇子",
+        "onboard_time": 1699174532,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 604819,
+        "num": 604819,
+        "word": "皇马替樊振东发了Vlog",
+        "onboard_time": 1699184016,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409982,
+        "num": 596134,
+        "word": "韩国将禁止股票卖空直到明年6月",
+        "onboard_time": 1699186661,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1939043,
+        "num": 595666,
+        "word": "杨紫工作室把地砖P弯了",
+        "onboard_time": 1699183715,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728162,
+        "num": 594738,
+        "word": "Scout 精忠报国",
+        "onboard_time": 1699174115,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 593633,
+        "num": 593633,
+        "word": "刘昊然回应一部手机用五六年",
+        "onboard_time": 1699185399,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518017,
+        "num": 518017,
+        "word": "以爱为营正片vs路透",
+        "onboard_time": 1699186235,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449344,
+        "num": 449344,
+        "word": "管泽元预测",
+        "onboard_time": 1699172609,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 439426,
+        "num": 439426,
+        "word": "龚俊爆改营销号",
+        "onboard_time": 1699185876,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415730,
+        "num": 415730,
+        "word": "兄弟们都昏啦",
+        "onboard_time": 1699181378,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 395899,
+        "num": 395899,
+        "word": "男孩问普京您不会是普京吧",
+        "onboard_time": 1699181078,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 394521,
+        "num": 394521,
+        "word": "人机局",
+        "onboard_time": 1699180542,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296044,
+        "num": 392018,
+        "word": "二孩妈妈用纸箱装着熟睡的老二接老大",
+        "onboard_time": 1699185335,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390497,
+        "num": 390497,
+        "word": "我的公积金比老家工资还高",
+        "onboard_time": 1699172609,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387694,
+        "num": 387694,
+        "word": "吴建豪戴玉手镯",
+        "onboard_time": 1699174175,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383856,
+        "num": 383856,
+        "word": "LNG醒醒",
+        "onboard_time": 1699178913,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 348654,
+        "num": 348654,
+        "word": "辅助机器人",
+        "onboard_time": 1699175070,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345661,
+        "num": 345661,
+        "word": "LNG 不敢打",
+        "onboard_time": 1699179947,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 335531,
+        "num": 335531,
+        "word": "披荆斩棘",
+        "onboard_time": 1699185635,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331096,
+        "num": 331096,
+        "word": "米勒 全面碾压恭喜T1",
+        "onboard_time": 1699183418,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274445,
+        "num": 274445,
+        "word": "福原爱或面临2年以上有期徒刑",
+        "onboard_time": 1699157973,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260781,
+        "num": 273287,
+        "word": "东北大暴雪又来了",
+        "onboard_time": 1699185159,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145182,
+        "num": 273088,
+        "word": "黑龙江已发布暴雪红色预警",
+        "onboard_time": 1699181199,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272930,
+        "num": 272930,
+        "word": "薛之谦 轻舟已过万重山",
+        "onboard_time": 1699185275,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267704,
+        "num": 267704,
+        "word": "以爱为营 视角",
+        "onboard_time": 1699179766,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261017,
+        "num": 261017,
+        "word": "甄嬛传时隔13年再团建",
+        "onboard_time": 1699183715,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251861,
+        "num": 251861,
+        "word": "漫画公司原来长这样",
+        "onboard_time": 1699184075,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 240363,
+        "num": 240363,
+        "word": "魏哲鸣 得不到的白月光",
+        "onboard_time": 1699188095,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215385,
+        "num": 215385,
+        "word": "导演答应白鹿不用大灯",
+        "onboard_time": 1699174532,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214861,
+        "num": 214861,
+        "word": "南京网友偶遇张艺兴吃火锅",
+        "onboard_time": 1699183237,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205196,
+        "num": 205196,
+        "word": "李莲花 起风了",
+        "onboard_time": 1699181140,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202144,
+        "num": 202144,
+        "word": "WBG 我们今天都是LNG粉丝",
+        "onboard_time": 1699172130,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201802,
+        "num": 201802,
+        "word": "薛之谦梅州",
+        "onboard_time": 1699185579,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192815,
+        "num": 192815,
+        "word": "刘诗诗甜感微醺妆",
+        "onboard_time": 1699187976,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 189352,
+        "num": 189352,
+        "word": "于正何瑞贤合照",
+        "onboard_time": 1699186777,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184065,
+        "num": 184065,
+        "word": "横店影视城侵权武林外传",
+        "onboard_time": 1699184558,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184010,
+        "num": 184010,
+        "word": "杨幂式保暖穿搭",
+        "onboard_time": 1699176570,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 181736,
+        "word": "月薪五千借钱给儿子买万元电脑",
+        "onboard_time": 1699175970,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180741,
+        "num": 180741,
+        "word": "张钧甯阮经天她在闹他在冷笑",
+        "onboard_time": 1699182275,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166739,
+        "num": 166739,
+        "word": "全国学青会",
+        "onboard_time": 1699187675,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159454,
+        "num": 159454,
+        "word": "狼队对战AG",
+        "onboard_time": 1699177592,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 144961,
+        "word": "张颂文 我的演唱会你不来吗",
+        "onboard_time": 1699180241,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141113,
+        "num": 141113,
+        "word": "三把零龙",
+        "onboard_time": 1699181738,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受中国的开放与自信#"
+    }
+  }
+}
