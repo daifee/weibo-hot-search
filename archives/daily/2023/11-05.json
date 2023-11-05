@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699193651203,
+  "endTime": 1699194853627,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -75,20 +75,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2862027,
+      "num": 2862027,
+      "word": "内娱可以吃一辈子的剧",
+      "onboard_time": 1699185216,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2771692,
       "num": 2771692,
       "word": "福原爱或面临2年以上有期徒刑",
       "onboard_time": 1699157973,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2620347,
-      "num": 2620347,
-      "word": "内娱可以吃一辈子的剧",
-      "onboard_time": 1699185216,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2109443,
@@ -355,6 +355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 844357,
+      "num": 700265,
+      "word": "孙燕姿前经纪人发长文应援",
+      "onboard_time": 1699191696,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 843633,
       "num": 843633,
       "word": "Cat 顶级辅助",
@@ -419,20 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 756014,
-      "num": 700265,
-      "word": "孙燕姿前经纪人发长文应援",
-      "onboard_time": 1699191696,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 745242,
       "num": 745242,
       "word": "JDG与BLG选手观赛LNG",
       "onboard_time": 1699176875,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 741917,
+      "num": 695029,
+      "word": "女子骑车到桥上将孩子推下河",
+      "onboard_time": 1699190316,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739488,
@@ -467,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 695029,
-      "num": 695029,
-      "word": "女子骑车到桥上将孩子推下河",
-      "onboard_time": 1699190316,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 695385,
+      "num": 596903,
+      "word": "崔始源 鲁宾逊漂流记",
+      "onboard_time": 1699193195,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 676801,
@@ -675,6 +683,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 492225,
+      "num": 492225,
+      "word": "马龙林昀儒争冠",
+      "onboard_time": 1699194338,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489230,
       "num": 489230,
       "word": "关于THE9赵小棠的回忆",
@@ -793,6 +809,14 @@
       "onboard_time": 1699188095,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444349,
+      "num": 444349,
+      "word": "WB回应争议",
+      "onboard_time": 1699193977,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 442572,
@@ -1019,14 +1043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 350867,
-      "num": 350867,
-      "word": "崔始源 鲁宾逊漂流记",
-      "onboard_time": 1699193195,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350239,
       "num": 350239,
       "word": "披荆斩棘",
@@ -1219,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308421,
+      "num": 308421,
+      "word": "Alin马嘉祺唱天若有情",
+      "onboard_time": 1699194278,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308373,
       "num": 308373,
       "word": "许凯景甜我要躺你们中间",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1699181320,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276375,
+      "num": 276375,
+      "word": "东方甄选公布所售五常大米信息",
+      "onboard_time": 1699193977,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275501,
@@ -1779,6 +1811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196142,
+      "num": 196142,
+      "word": "主持人大赛",
+      "onboard_time": 1699193496,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194489,
       "num": 216833,
       "word": "张杰cue魏大勋孟宴臣名场面",
@@ -1867,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185671,
+      "num": 185671,
+      "word": "韩系根根分明的睫毛",
+      "onboard_time": 1699194817,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184302,
       "num": 207989,
       "word": "时空中的绘旅人",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1699179215,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174928,
+      "num": 181861,
+      "word": "日本网民称福原爱被宠坏了",
+      "onboard_time": 1699194757,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 173773,
@@ -2379,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114646,
+      "num": 1981852,
+      "word": "揭秘进博会网红巴基斯坦盐灯",
+      "onboard_time": 1699189355,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112468,
       "num": 220623,
       "word": "孙颖莎2比4王艺迪",
@@ -2547,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92149,
-      "num": 1981852,
-      "word": "揭秘进博会网红巴基斯坦盐灯",
-      "onboard_time": 1699189355,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91843,
       "num": 217100,
       "word": "挖机师傅遇老人填土20分钟帮填平",
@@ -2580,7 +2636,7 @@
     },
     {
       "raw_hot": 87364,
-      "num": 323852,
+      "num": 610686,
       "word": "iQOO12亮相KPL",
       "onboard_time": 1699192658,
       "rank": 26,
@@ -2821,6 +2877,9 @@
     },
     {
       "word": "#感受中国的开放与自信#"
+    },
+    {
+      "word": "#扩大面向全球的高标准自由贸易区网络#"
     }
   ]
 }
