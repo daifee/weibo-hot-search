@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699211610786,
+  "endTime": 1699212843360,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -243,7 +243,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194882,
+      "raw_hot": 197290,
       "num": 64856,
       "word": "奥巴马称没有谁的手是干净的",
       "onboard_time": 1699208777,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39459,
+      "num": 48921,
+      "word": "五块九粉底液 你还敢用吗",
+      "onboard_time": 1699209618,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 35348,
       "num": 56309,
       "word": "周也吹金粉",
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34168,
-      "num": 48921,
-      "word": "五块九粉底液 你还敢用吗",
-      "onboard_time": 1699209618,
-      "rank": 25,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 23899,
       "num": 56520,
       "word": "进击的巨人 泪如雨下",
@@ -491,7 +491,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 20907,
+      "raw_hot": 22072,
       "num": 48837,
       "word": "这下PPT台风稳了",
       "onboard_time": 1699210336,

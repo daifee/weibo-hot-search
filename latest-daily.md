@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/06 00:20:41 ~ 2023/11/06 03:13:30
+本榜单时间：2023/11/06 00:20:41 ~ 2023/11/06 03:34:03
 </p>
 </blockquote>
 <p>
@@ -196,7 +196,7 @@ Cat 顶级辅助（热度：227204）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
-奥巴马称没有谁的手是干净的（热度：194882）
+奥巴马称没有谁的手是干净的（热度：197290）
 </a>
 </li>
 
@@ -357,6 +357,12 @@ TF家族2024台历（热度：88787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9D%97%E4%B9%9D%E7%B2%89%E5%BA%95%E6%B6%B2%20%E4%BD%A0%E8%BF%98%E6%95%A2%E7%94%A8%E5%90%97%23" target="weibo">
+五块九粉底液 你还敢用吗（热度：39459）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%90%B9%E9%87%91%E7%B2%89%23" target="weibo">
 周也吹金粉（热度：35348）
 </a>
@@ -369,12 +375,6 @@ TF家族2024台历（热度：88787）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9D%97%E4%B9%9D%E7%B2%89%E5%BA%95%E6%B6%B2%20%E4%BD%A0%E8%BF%98%E6%95%A2%E7%94%A8%E5%90%97%23" target="weibo">
-五块九粉底液 你还敢用吗（热度：34168）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA%20%E6%B3%AA%E5%A6%82%E9%9B%A8%E4%B8%8B%23" target="weibo">
 进击的巨人 泪如雨下（热度：23899）
 </a>
@@ -382,7 +382,7 @@ TF家族2024台历（热度：88787）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8BPPT%E5%8F%B0%E9%A3%8E%E7%A8%B3%E4%BA%86%23" target="weibo">
-这下PPT台风稳了（热度：20907）
+这下PPT台风稳了（热度：22072）
 </a>
 </li>
 

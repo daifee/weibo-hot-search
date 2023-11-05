@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699211610786,
+  "endTime": 1699212843360,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -1923,6 +1923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 197290,
+      "num": 64856,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "主持人大赛",
@@ -1937,14 +1945,6 @@
       "onboard_time": 1699197280,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194882,
-      "num": 64856,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 194489,
@@ -2971,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39459,
+      "num": 48921,
+      "word": "五块九粉底液 你还敢用吗",
+      "onboard_time": 1699209618,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 38495,
       "num": 210745,
       "word": "三星堆文物里藏着的中国酒文化",
@@ -3011,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34168,
-      "num": 48921,
-      "word": "五块九粉底液 你还敢用吗",
-      "onboard_time": 1699209618,
-      "rank": 25,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 31821,
       "num": 325376,
       "word": "无所畏惧",
@@ -3043,20 +3043,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 22072,
+      "num": 48837,
+      "word": "这下PPT台风稳了",
+      "onboard_time": 1699210336,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21309,
       "num": 915057,
       "word": "让看电视更简单消费不套娃",
       "onboard_time": 1699077631,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20907,
-      "num": 48837,
-      "word": "这下PPT台风稳了",
-      "onboard_time": 1699210336,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 17862,
