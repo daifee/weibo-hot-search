@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/06 00:20:41 ~ 2023/11/06 05:34:12
+本榜单时间：2023/11/06 00:20:41 ~ 2023/11/06 06:15:54
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@ Tarzan 皇子（热度：297510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
+奥巴马称没有谁的手是干净的（热度：250704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E5%88%B0%E6%A1%A5%E4%B8%8A%E5%B0%86%E5%AD%A9%E5%AD%90%E6%8E%A8%E4%B8%8B%E6%B2%B3%23" target="weibo">
 女子骑车到桥上将孩子推下河（热度：234562）
 </a>
@@ -191,12 +197,6 @@ Cat 顶级辅助（热度：227204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E6%B0%B4%E5%B9%B3%23" target="weibo">
 时宴英语口语水平（热度：199297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
-奥巴马称没有谁的手是干净的（热度：197290）
 </a>
 </li>
 
@@ -363,6 +363,24 @@ TF家族2024台历（热度：88787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E7%89%99%E7%A7%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%B2%BB%E7%96%97%E7%8A%AC%23" target="weibo">
+在儿童医院牙科工作的治疗犬（热度：45829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23" target="weibo">
+台媒报道以爱为营（热度：44068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%91%E4%B8%8D%E6%95%A2%E5%8A%A8%E7%9A%84%E9%93%81%E6%86%A8%E6%86%A8%E4%BB%AC%E8%A1%A5%E4%BA%86%E5%8F%A5%E6%84%9F%E8%B0%A2%23" target="weibo">
+交警向不敢动的铁憨憨们补了句感谢（热度：40906）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%90%B9%E9%87%91%E7%B2%89%23" target="weibo">
 周也吹金粉（热度：35348）
 </a>
@@ -375,20 +393,8 @@ TF家族2024台历（热度：88787）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23" target="weibo">
-台媒报道以爱为营（热度：32583）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA%20%E6%B3%AA%E5%A6%82%E9%9B%A8%E4%B8%8B%23" target="weibo">
 进击的巨人 泪如雨下（热度：23899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E7%89%99%E7%A7%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%B2%BB%E7%96%97%E7%8A%AC%23" target="weibo">
-在儿童医院牙科工作的治疗犬（热度：23275）
 </a>
 </li>
 
@@ -405,6 +411,12 @@ TF家族2024台历（热度：88787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A3%89%E7%89%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%94%A8%E5%98%9B%23" target="weibo">
+棉片真的好用嘛（热度：20699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%AD%A6%E9%9D%92%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
 第一届全国学青会开幕式（热度：17096）
 </a>
@@ -413,18 +425,6 @@ TF家族2024台历（热度：88787）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%BA%94%E6%BF%80%E6%80%A7%E7%9A%84%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9%23" target="weibo">
 一种应激性的当仁不让（热度：16048）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A3%89%E7%89%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%94%A8%E5%98%9B%23" target="weibo">
-棉片真的好用嘛（热度：15113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%91%E4%B8%8D%E6%95%A2%E5%8A%A8%E7%9A%84%E9%93%81%E6%86%A8%E6%86%A8%E4%BB%AC%E8%A1%A5%E4%BA%86%E5%8F%A5%E6%84%9F%E8%B0%A2%23" target="weibo">
-交警向不敢动的铁憨憨们补了句感谢（热度：15013）
 </a>
 </li>
 

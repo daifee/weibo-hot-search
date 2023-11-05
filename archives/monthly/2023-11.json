@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699220052639,
+  "endTime": 1699222554783,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -7179,6 +7179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250704,
+      "num": 64856,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 250634,
       "num": 250634,
       "word": "六公主人还怪好的嘞",
@@ -9137,14 +9145,6 @@
       "onboard_time": 1698907533,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197290,
-      "num": 64856,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 197186,
@@ -14235,6 +14235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45829,
+      "num": 45829,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44068,
+      "num": 48727,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44059,
       "num": 235201,
       "word": "还是中国AI更懂中国人",
@@ -14296,6 +14312,14 @@
       "word": "五谷磨房想和蜂花组洗头CP",
       "onboard_time": 1698824193,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40906,
+      "num": 37141,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -14395,14 +14419,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 32583,
-      "num": 48727,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31649,
       "num": 423301,
       "word": "2023暴雪嘉年华",
@@ -14475,14 +14491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 23275,
-      "num": 32393,
-      "word": "在儿童医院牙科工作的治疗犬",
-      "onboard_time": 1699216813,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22746,
       "num": 48679,
       "word": "哪个大聪明在车顶晒虾",
@@ -14505,6 +14513,14 @@
       "onboard_time": 1699210336,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20699,
+      "num": 36958,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 20675,
@@ -14553,22 +14569,6 @@
       "onboard_time": 1698778753,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15113,
-      "num": 32300,
-      "word": "棉片真的好用嘛",
-      "onboard_time": 1699217833,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 15013,
-      "num": 32289,
-      "word": "交警向不敢动的铁憨憨们补了句感谢",
-      "onboard_time": 1699219753,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14899,

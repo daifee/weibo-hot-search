@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699220052639,
+  "endTime": 1699222554783,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250704,
+      "num": 64856,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 249232,
       "num": 249232,
       "word": "薛之谦梅州",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1699178310,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 197290,
-      "num": 64856,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 196142,
@@ -2971,12 +2971,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45829,
+      "num": 45829,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44068,
+      "num": 48727,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42415,
       "num": 436161,
       "word": "琉璃裴行俭婚后生活",
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40906,
+      "num": 37141,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38495,
@@ -3019,14 +3043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32583,
-      "num": 48727,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31821,
       "num": 325376,
       "word": "无所畏惧",
@@ -3049,14 +3065,6 @@
       "onboard_time": 1699208716,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 23275,
-      "num": 32393,
-      "word": "在儿童医院牙科工作的治疗犬",
-      "onboard_time": 1699216813,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22746,
@@ -3083,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20699,
+      "num": 36958,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 17862,
       "num": 102900,
       "word": "丞磊黑白双鲨",
@@ -3105,22 +3121,6 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15113,
-      "num": 32300,
-      "word": "棉片真的好用嘛",
-      "onboard_time": 1699217833,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 15013,
-      "num": 32289,
-      "word": "交警向不敢动的铁憨憨们补了句感谢",
-      "onboard_time": 1699219753,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8351,

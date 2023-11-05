@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/06 05:34:12
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/06 06:15:54
 </p>
 </blockquote>
 <p>
@@ -5397,6 +5397,12 @@ WTT（热度：255451）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
+奥巴马称没有谁的手是干净的（热度：250704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E4%BA%BA%E8%BF%98%E6%80%AA%E5%A5%BD%E7%9A%84%E5%98%9E%23" target="weibo">
 六公主人还怪好的嘞（热度：250634）
 </a>
@@ -6005,12 +6011,6 @@ offer5全员爆料走心局（热度：228331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%87%8C%E6%99%A8%E6%89%9B2%E7%B1%B3%E5%A4%A7%E7%86%8A%E7%9A%84%E7%88%B8%E7%88%B8%E6%9A%96%E5%93%AD%E4%BA%86%23" target="weibo">
 被凌晨扛2米大熊的爸爸暖哭了（热度：225896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%9B%9E%E5%AD%A9%E5%AD%90%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E9%87%8D%E5%AD%A6%E8%AF%B4%E8%AF%9D%E8%B5%B0%E8%B7%AF%23" target="weibo">
-变回孩子的消防员重学说话走路（热度：225828）
 </a>
 </li>
 
