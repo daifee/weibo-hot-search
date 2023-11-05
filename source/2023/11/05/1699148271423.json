@@ -1,0 +1,410 @@
+{
+  "runTime": 1699148271423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259686,
+        "num": 1259686,
+        "word": "东北这次强降雪下到发紫",
+        "onboard_time": 1699114111,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026082,
+        "num": 1026082,
+        "word": "关晓彤生日被整蛊",
+        "onboard_time": 1699142065,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 810000,
+        "word": "让看电视更简单消费不套娃",
+        "onboard_time": 1699077631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783149,
+        "num": 783149,
+        "word": "刘涛解释妈祖为什么会说英语",
+        "onboard_time": 1699146330,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605921,
+        "num": 605921,
+        "word": "毛毛姐称直播间手机被调包成模型机",
+        "onboard_time": 1699142548,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 542298,
+        "num": 542298,
+        "word": "李佳琦公司回应员工收百万好处费",
+        "onboard_time": 1699142125,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 486280,
+        "num": 486280,
+        "word": "作家周涛突发心梗去世",
+        "onboard_time": 1699141164,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 390191,
+        "num": 390191,
+        "word": "艾伦三笠 最后一吻",
+        "onboard_time": 1699142969,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 352753,
+        "num": 352753,
+        "word": "尼泊尔地震已致157人死亡",
+        "onboard_time": 1699145250,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350534,
+        "num": 350534,
+        "word": "女子全麻术后被好友轮流拿喇叭叫醒",
+        "onboard_time": 1699141164,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270001,
+        "num": 350426,
+        "word": "超市老板猥亵14岁小女孩被行拘9日",
+        "onboard_time": 1699140440,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349415,
+        "num": 349415,
+        "word": "李荣浩看见这个灯牌差点唱笑场",
+        "onboard_time": 1699146633,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306668,
+        "num": 306668,
+        "word": "大妈为自拍不慎踩空掉进芦苇荡",
+        "onboard_time": 1699143149,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289365,
+        "num": 289365,
+        "word": "中央气象台连发4个预警",
+        "onboard_time": 1699147591,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260427,
+        "num": 260427,
+        "word": "周饼伦 一边灌饼一边还要接梗",
+        "onboard_time": 1699144530,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235820,
+        "num": 235820,
+        "word": "这是咖啡粥吗",
+        "onboard_time": 1699146571,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203509,
+        "num": 234670,
+        "word": "秦岚偷听八卦演我本人",
+        "onboard_time": 1699116267,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188979,
+        "num": 231525,
+        "word": "以爱为营土营十级怼人文学",
+        "onboard_time": 1699142485,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160233,
+        "num": 227211,
+        "word": "转弯后被日照金山震撼到热泪盈眶",
+        "onboard_time": 1699147591,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 165588,
+        "num": 223708,
+        "word": "郑书意时宴的朋友圈",
+        "onboard_time": 1699143628,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273581,
+        "num": 222017,
+        "word": "腹部长赘肉的人都要反思这5个习惯",
+        "onboard_time": 1699105296,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220644,
+        "num": 220644,
+        "word": "这期的梦想改造家给我看气了",
+        "onboard_time": 1699108238,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181925,
+        "num": 220643,
+        "word": "秦岚有点大方但不多",
+        "onboard_time": 1699147712,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180189,
+        "num": 220642,
+        "word": "原来医院中条纹越多的越厉害",
+        "onboard_time": 1699113454,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158194,
+        "num": 220641,
+        "word": "谏山创 通通创飞",
+        "onboard_time": 1699146691,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152895,
+        "num": 220641,
+        "word": "孙颖莎",
+        "onboard_time": 1699113333,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143521,
+        "num": 220641,
+        "word": "同层四家人大门全开供孩子串门玩耍",
+        "onboard_time": 1699147774,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 220639,
+        "word": "林心如说紫薇演得好浮夸",
+        "onboard_time": 1699113094,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133058,
+        "num": 220639,
+        "word": "ELLE回应红毯耍大牌",
+        "onboard_time": 1699100976,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131378,
+        "num": 220637,
+        "word": "守望先锋 韩国队",
+        "onboard_time": 1699141164,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363009,
+        "num": 220637,
+        "word": "LNG对战T1 比分预测",
+        "onboard_time": 1699148011,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125960,
+        "num": 220635,
+        "word": "胃胀气就是要舍得饿自己",
+        "onboard_time": 1699109858,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120420,
+        "num": 220634,
+        "word": "马龙说用最好的状态面对决赛",
+        "onboard_time": 1699140682,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118507,
+        "num": 220634,
+        "word": "狗狗耳朵都放下来了你倒是摸啊",
+        "onboard_time": 1699108417,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114942,
+        "num": 220632,
+        "word": "王曼昱 医疗暂停",
+        "onboard_time": 1699105176,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111841,
+        "num": 220631,
+        "word": "外公干农活两外孙女一左一右帮倒忙",
+        "onboard_time": 1699109675,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107655,
+        "num": 220630,
+        "word": "保安大叔捧起秋天撒向童年",
+        "onboard_time": 1699148011,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104081,
+        "num": 220629,
+        "word": "深夜的海洋到底有多可怕",
+        "onboard_time": 1699109439,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 103935,
+        "num": 220628,
+        "word": "熬夜可能让你不知不觉比别人更胖",
+        "onboard_time": 1699117106,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101786,
+        "num": 220628,
+        "word": "白鹿第一次见比她还吵吵的男演员",
+        "onboard_time": 1699105778,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100514,
+        "num": 220627,
+        "word": "奶奶自发扫落叶2岁孙子跟着学",
+        "onboard_time": 1699148011,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99710,
+        "num": 220626,
+        "word": "第一个勇敢说不的选美冠军",
+        "onboard_time": 1699147712,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96820,
+        "num": 220625,
+        "word": "B席提醒阿尔瓦雷斯丢了一颗牙齿",
+        "onboard_time": 1699145552,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96543,
+        "num": 220624,
+        "word": "陈梦祝孙颖莎生日快乐",
+        "onboard_time": 1699139962,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96119,
+        "num": 220623,
+        "word": "孙颖莎2比4王艺迪",
+        "onboard_time": 1699141587,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95993,
+        "num": 220622,
+        "word": "广东世仇村和解开始通婚",
+        "onboard_time": 1699127115,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88375,
+        "num": 220620,
+        "word": "王楚钦2比4林昀儒",
+        "onboard_time": 1699111959,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86578,
+        "num": 220620,
+        "word": "T1 压力",
+        "onboard_time": 1699097261,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83223,
+        "num": 220619,
+        "word": "进击的巨人",
+        "onboard_time": 1699104638,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77572,
+        "num": 220619,
+        "word": "牛牛深夜外出吃自助110找消防帮送客",
+        "onboard_time": 1699148252,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席历届进博会讲话金句#"
+    }
+  }
+}

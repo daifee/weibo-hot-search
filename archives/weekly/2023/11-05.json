@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699147060684,
+  "endTime": 1699148271423,
   "band_list": [
     {
       "raw_hot": 1754968,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1210258,
-      "num": 1210258,
+      "raw_hot": 1259686,
+      "num": 1259686,
       "word": "东北这次强降雪下到发紫",
       "onboard_time": 1699114111,
       "rank": 35,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 923214,
-      "num": 923214,
+      "raw_hot": 1026082,
+      "num": 1026082,
       "word": "关晓彤生日被整蛊",
       "onboard_time": 1699142065,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1699112616,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 783149,
+      "num": 783149,
+      "word": "刘涛解释妈祖为什么会说英语",
+      "onboard_time": 1699146330,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 716553,
@@ -171,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383468,
-      "num": 383468,
-      "word": "刘涛解释妈祖为什么会说英语",
-      "onboard_time": 1699146330,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382605,
       "num": 449618,
       "word": "腹部长赘肉的人都要反思这5个习惯",
@@ -193,6 +193,22 @@
       "onboard_time": 1699108238,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363009,
+      "num": 220637,
+      "word": "LNG对战T1 比分预测",
+      "onboard_time": 1699148011,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 349415,
+      "num": 349415,
+      "word": "李荣浩看见这个灯牌差点唱笑场",
+      "onboard_time": 1699146633,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 345958,
@@ -243,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289365,
+      "num": 289365,
+      "word": "中央气象台连发4个预警",
+      "onboard_time": 1699147591,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270943,
       "num": 447991,
       "word": "原来医院中条纹越多的越厉害",
@@ -251,20 +275,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260427,
+      "num": 260427,
+      "word": "周饼伦 一边灌饼一边还要接梗",
+      "onboard_time": 1699144530,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 256131,
       "num": 455733,
       "word": "福建男篮浙江男篮赛后冲突",
       "onboard_time": 1699109380,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248426,
-      "num": 203366,
-      "word": "周饼伦 一边灌饼一边还要接梗",
-      "onboard_time": 1699144530,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 243195,
@@ -283,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227891,
-      "num": 227891,
-      "word": "李荣浩看见这个灯牌差点唱笑场",
-      "onboard_time": 1699146633,
-      "rank": 12,
-      "category": "演出"
+      "raw_hot": 235820,
+      "num": 235820,
+      "word": "这是咖啡粥吗",
+      "onboard_time": 1699146571,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 226469,
@@ -315,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201120,
-      "num": 203359,
-      "word": "这是咖啡粥吗",
-      "onboard_time": 1699146571,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 200127,
       "num": 443078,
       "word": "原来梳头是真的有用",
@@ -347,19 +363,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172382,
-      "num": 203494,
-      "word": "郑书意时宴的朋友圈",
-      "onboard_time": 1699143628,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171417,
-      "num": 203478,
+      "raw_hot": 188979,
+      "num": 231525,
       "word": "以爱为营土营十级怼人文学",
       "onboard_time": 1699142485,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181925,
+      "num": 220643,
+      "word": "秦岚有点大方但不多",
+      "onboard_time": 1699147712,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172382,
+      "num": 223708,
+      "word": "郑书意时宴的朋友圈",
+      "onboard_time": 1699143628,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -403,6 +427,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160233,
+      "num": 227211,
+      "word": "转弯后被日照金山震撼到热泪盈眶",
+      "onboard_time": 1699147591,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 158194,
+      "num": 220641,
+      "word": "谏山创 通通创飞",
+      "onboard_time": 1699146691,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 157049,
       "num": 441870,
       "word": "深夜的海洋到底有多可怕",
@@ -412,7 +452,7 @@
     },
     {
       "raw_hot": 157043,
-      "num": 203459,
+      "num": 220637,
       "word": "守望先锋 韩国队",
       "onboard_time": 1699141164,
       "rank": 19,
@@ -425,6 +465,14 @@
       "onboard_time": 1699108417,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143521,
+      "num": 220641,
+      "word": "同层四家人大门全开供孩子串门玩耍",
+      "onboard_time": 1699147774,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138597,
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 112468,
-      "num": 203356,
+      "num": 220623,
       "word": "孙颖莎2比4王艺迪",
       "onboard_time": 1699141587,
       "rank": 32,
@@ -523,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107655,
+      "num": 220630,
+      "word": "保安大叔捧起秋天撒向童年",
+      "onboard_time": 1699148011,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105257,
       "num": 376244,
       "word": "申有娜阿尼亚cos",
@@ -532,7 +588,7 @@
     },
     {
       "raw_hot": 105208,
-      "num": 203337,
+      "num": 220625,
       "word": "B席提醒阿尔瓦雷斯丢了一颗牙齿",
       "onboard_time": 1699145552,
       "rank": 34,
@@ -553,6 +609,22 @@
       "onboard_time": 1699097073,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100514,
+      "num": 220627,
+      "word": "奶奶自发扫落叶2岁孙子跟着学",
+      "onboard_time": 1699148011,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99710,
+      "num": 220626,
+      "word": "第一个勇敢说不的选美冠军",
+      "onboard_time": 1699147712,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 96797,
@@ -579,14 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 90364,
-      "num": 203289,
-      "word": "谏山创 通通创飞",
-      "onboard_time": 1699146691,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 89260,
       "num": 431385,
       "word": "e人和i人的拍照区别",
@@ -601,6 +665,14 @@
       "onboard_time": 1699140383,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77572,
+      "num": 220619,
+      "word": "牛牛深夜外出吃自助110找消防帮送客",
+      "onboard_time": 1699148252,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74441,
@@ -715,8 +787,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20523,
-      "num": 797803,
+      "raw_hot": 20617,
+      "num": 810000,
       "word": "让看电视更简单消费不套娃",
       "onboard_time": 1699077631,
       "rank": 2,
