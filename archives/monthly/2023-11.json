@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699175734656,
+  "endTime": 1699176850268,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1706565,
+      "num": 1706565,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1699871,
       "num": 716540,
       "word": "工作人员让杨紫不要戳别人的鼻孔",
@@ -585,6 +593,14 @@
       "onboard_time": 1698930217,
       "rank": 7,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 1566596,
+      "num": 1256757,
+      "word": "Scout 精忠报国",
+      "onboard_time": 1699174115,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1560529,
@@ -851,14 +867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1292409,
-      "num": 958018,
-      "word": "Scout 精忠报国",
-      "onboard_time": 1699174115,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1289271,
       "num": 1289271,
       "word": "原来时宴是雪姨和陆振华生的",
@@ -963,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1230353,
+      "num": 1230353,
+      "word": "导演答应白鹿不用大灯",
+      "onboard_time": 1699174532,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1221560,
       "num": 1221560,
       "word": "王俊凯问学校门口的大哥还认不认得他",
@@ -1035,20 +1051,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1164191,
-      "num": 1164191,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1157889,
       "num": 1157889,
       "word": "中方回应加拿大政府手机禁用微信",
       "onboard_time": 1698797794,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156745,
+      "num": 1156745,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 1155213,
@@ -1403,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 922516,
-      "num": 922516,
-      "word": "导演答应白鹿不用大灯",
-      "onboard_time": 1699174532,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 903092,
       "num": 903092,
       "word": "中央气象台连发4个预警",
@@ -1675,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 807022,
+      "num": 877637,
+      "word": "Tarzan 皇子",
+      "onboard_time": 1699174532,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 805935,
       "num": 805935,
       "word": "林昀儒没想到自己能赢",
@@ -1923,14 +1939,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 743915,
-      "num": 820597,
-      "word": "Tarzan 皇子",
-      "onboard_time": 1699174532,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 742612,
       "num": 723114,
       "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
@@ -2051,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 722375,
+      "num": 722375,
+      "word": "辅助机器人",
+      "onboard_time": 1699175070,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 722000,
       "num": 369820,
       "word": "张元英 皮衣",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1698842495,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 711864,
-      "num": 711864,
-      "word": "辅助机器人",
-      "onboard_time": 1699175070,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 709221,
@@ -2259,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 663276,
-      "num": 663276,
-      "word": "救救gala",
-      "onboard_time": 1699175250,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 663003,
       "num": 663003,
       "word": "6名中国公民在菲被绑架下落不明",
@@ -2363,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634720,
+      "num": 619673,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 634682,
       "num": 498019,
       "word": "EDG 出列",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1699065511,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 619673,
-      "num": 619673,
-      "word": "管泽元预测",
-      "onboard_time": 1699172609,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 619238,
@@ -3027,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526059,
+      "num": 526059,
+      "word": "王力宏喝北京豆汁儿",
+      "onboard_time": 1699172252,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524289,
       "num": 524289,
       "word": "为有暗香来结局",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1698843154,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 521567,
-      "num": 521567,
-      "word": "王力宏喝北京豆汁儿",
-      "onboard_time": 1699172252,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 521478,
@@ -3697,6 +3697,14 @@
       "onboard_time": 1698852875,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440162,
+      "num": 440162,
+      "word": "张婧仪长眼线",
+      "onboard_time": 1699174232,
+      "rank": 16,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 440158,
@@ -4521,14 +4529,6 @@
       "onboard_time": 1698889173,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 379014,
-      "num": 379014,
-      "word": "张婧仪长眼线",
-      "onboard_time": 1699174232,
-      "rank": 16,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 378413,
@@ -5697,6 +5697,14 @@
       "onboard_time": 1698938136,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289534,
+      "num": 226953,
+      "word": "月薪五千借钱给儿子买万元电脑",
+      "onboard_time": 1699175970,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289484,
@@ -7331,6 +7339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223670,
+      "num": 223670,
+      "word": "张钧甯说阮经天超时从不收钱",
+      "onboard_time": 1699176149,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223574,
       "num": 223574,
       "word": "只逛不买",
@@ -7635,12 +7651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212208,
+      "num": 231363,
+      "word": "CATTI 二笔",
+      "onboard_time": 1699175790,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 212191,
       "num": 212191,
       "word": "追星女的cos",
       "onboard_time": 1698884862,
       "rank": 33,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 211527,
+      "num": 211527,
+      "word": "杨幂式保暖穿搭",
+      "onboard_time": 1699176570,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 211444,
@@ -7785,6 +7817,14 @@
       "onboard_time": 1699082670,
       "rank": 31,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 208255,
+      "num": 208255,
+      "word": "2023年王者荣耀挑战者杯",
+      "onboard_time": 1699176689,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 208221,
@@ -8641,6 +8681,14 @@
       "onboard_time": 1698927274,
       "rank": 37,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 190283,
+      "num": 190283,
+      "word": "关于THE9赵小棠的回忆",
+      "onboard_time": 1699176510,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 190147,
@@ -10603,6 +10651,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 146505,
+      "num": 146505,
+      "word": "女孩身上6个伤疤同寻人启事一致",
+      "onboard_time": 1699175489,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146077,
       "num": 146077,
       "word": "知情人士回应辛巴被封",
@@ -10649,6 +10705,14 @@
       "onboard_time": 1698944006,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145018,
+      "num": 145018,
+      "word": "独臂姑娘12年传承湘绣还成体育冠军",
+      "onboard_time": 1699176389,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144933,
@@ -10777,14 +10841,6 @@
       "onboard_time": 1698916891,
       "rank": 41,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 142270,
-      "num": 143660,
-      "word": "女孩身上6个伤疤同寻人启事一致",
-      "onboard_time": 1699175489,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142178,

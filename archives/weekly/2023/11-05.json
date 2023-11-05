@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699175734656,
+  "endTime": 1699176850268,
   "band_list": [
     {
       "raw_hot": 2771692,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1706565,
+      "num": 1706565,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1699357,
       "num": 1699357,
       "word": "李善均承认吸毒",
@@ -73,6 +81,14 @@
       "onboard_time": 1699112616,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1566596,
+      "num": 1256757,
+      "word": "Scout 精忠报国",
+      "onboard_time": 1699174115,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1553287,
@@ -107,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1292409,
-      "num": 958018,
-      "word": "Scout 精忠报国",
-      "onboard_time": 1699174115,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1284650,
       "num": 1284650,
       "word": "李佳航 LPL热血难凉",
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1230353,
+      "num": 1230353,
+      "word": "导演答应白鹿不用大灯",
+      "onboard_time": 1699174532,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1178201,
       "num": 1178201,
       "word": "关晓彤生日被整蛊",
@@ -147,11 +163,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1164191,
-      "num": 1164191,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
+      "raw_hot": 1156745,
+      "num": 1156745,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
       "category": "电竞"
     },
     {
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 922516,
-      "num": 922516,
-      "word": "导演答应白鹿不用大灯",
-      "onboard_time": 1699174532,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 904045,
       "num": 883316,
       "word": "以色列",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 807022,
+      "num": 877637,
+      "word": "Tarzan 皇子",
+      "onboard_time": 1699174532,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 805935,
       "num": 805935,
       "word": "林昀儒没想到自己能赢",
@@ -251,14 +267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 743915,
-      "num": 820597,
-      "word": "Tarzan 皇子",
-      "onboard_time": 1699174532,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 739488,
       "num": 739488,
       "word": "江歌妈妈一句话概括拯救嫌疑人",
@@ -267,20 +275,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 722375,
+      "num": 722375,
+      "word": "辅助机器人",
+      "onboard_time": 1699175070,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 716553,
       "num": 716553,
       "word": "毛毛姐称直播间手机被调包成模型机",
       "onboard_time": 1699142548,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 711864,
-      "num": 711864,
-      "word": "辅助机器人",
-      "onboard_time": 1699175070,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 700121,
@@ -299,14 +307,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 663276,
-      "num": 663276,
-      "word": "救救gala",
-      "onboard_time": 1699175250,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 638693,
       "num": 638693,
       "word": "要久久爱",
@@ -315,20 +315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634720,
+      "num": 619673,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 632360,
       "num": 632360,
       "word": "李佳琦公司回应员工收百万好处费",
       "onboard_time": 1699142125,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 619673,
-      "num": 619673,
-      "word": "管泽元预测",
-      "onboard_time": 1699172609,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 619238,
@@ -419,8 +419,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 521567,
-      "num": 521567,
+      "raw_hot": 526059,
+      "num": 526059,
       "word": "王力宏喝北京豆汁儿",
       "onboard_time": 1699172252,
       "rank": 38,
@@ -481,6 +481,14 @@
       "onboard_time": 1699141164,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440162,
+      "num": 440162,
+      "word": "张婧仪长眼线",
+      "onboard_time": 1699174232,
+      "rank": 16,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 436525,
@@ -601,14 +609,6 @@
       "onboard_time": 1699105296,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 379014,
-      "num": 379014,
-      "word": "张婧仪长眼线",
-      "onboard_time": 1699174232,
-      "rank": 16,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 376284,
@@ -795,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289534,
+      "num": 226953,
+      "word": "月薪五千借钱给儿子买万元电脑",
+      "onboard_time": 1699175970,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289484,
       "num": 430671,
       "word": "谷爱凌官宣参赛世界杯崇礼站",
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223670,
+      "num": 223670,
+      "word": "张钧甯说阮经天超时从不收钱",
+      "onboard_time": 1699176149,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "白鹿敖瑞鹏白月梵星开机",
@@ -979,12 +995,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212208,
+      "num": 231363,
+      "word": "CATTI 二笔",
+      "onboard_time": 1699175790,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 211527,
+      "num": 211527,
+      "word": "杨幂式保暖穿搭",
+      "onboard_time": 1699176570,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209819,
       "num": 216728,
       "word": "皮肤保湿保的是油而不是水",
       "onboard_time": 1699163012,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 208255,
+      "num": 208255,
+      "word": "2023年王者荣耀挑战者杯",
+      "onboard_time": 1699176689,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 208025,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1699169132,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190283,
+      "num": 190283,
+      "word": "关于THE9赵小棠的回忆",
+      "onboard_time": 1699176510,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 188979,
@@ -1315,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146505,
+      "num": 146505,
+      "word": "女孩身上6个伤疤同寻人启事一致",
+      "onboard_time": 1699175489,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146314,
       "num": 444019,
       "word": "狗狗耳朵都放下来了你倒是摸啊",
@@ -1328,6 +1384,14 @@
       "word": "南方艳阳北方大雪",
       "onboard_time": 1699166190,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145018,
+      "num": 145018,
+      "word": "独臂姑娘12年传承湘绣还成体育冠军",
+      "onboard_time": 1699176389,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1361,14 +1425,6 @@
       "onboard_time": 1699149811,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142270,
-      "num": 143660,
-      "word": "女孩身上6个伤疤同寻人启事一致",
-      "onboard_time": 1699175489,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142178,
