@@ -1,0 +1,410 @@
+{
+  "runTime": 1699165268842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2132897,
+        "num": 2132897,
+        "word": "福原爱或面临2年以上有期徒刑",
+        "onboard_time": 1699157973,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1067138,
+        "num": 1067138,
+        "word": "俞灏明被说丑悲伤离场",
+        "onboard_time": 1699156831,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63087,
+        "num": 993062,
+        "word": "63年前的今天中国人有了自己的导弹",
+        "onboard_time": 1699156052,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992545,
+        "num": 992545,
+        "word": "李佳航 LPL热血难凉",
+        "onboard_time": 1699164754,
+        "rank": 3,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 964685,
+        "num": 964685,
+        "word": "网红一笑倾城停更76天后更新",
+        "onboard_time": 1699157612,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 925384,
+        "num": 925384,
+        "word": "谁家接吻戴墨镜啊",
+        "onboard_time": 1699158995,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 902084,
+        "num": 902084,
+        "word": "肺部CT报告中有些字眼可能是癌",
+        "onboard_time": 1699154070,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416650,
+        "num": 416650,
+        "word": "爸妈看电视才知道女儿是战地记者",
+        "onboard_time": 1699157311,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401603,
+        "num": 401603,
+        "word": "李佳航 意难平",
+        "onboard_time": 1699152993,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390200,
+        "num": 390200,
+        "word": "魏大勋回应今年暑假爆红",
+        "onboard_time": 1699160492,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369539,
+        "num": 369539,
+        "word": "李善均承认吸毒",
+        "onboard_time": 1699151790,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360414,
+        "num": 360414,
+        "word": "王鹤棣时宴摘眼镜吻",
+        "onboard_time": 1699156230,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348934,
+        "num": 348934,
+        "word": "英国人真的有在用心地改良英食",
+        "onboard_time": 1699158392,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323128,
+        "num": 323128,
+        "word": "张靓颖演唱会万人一起喝水",
+        "onboard_time": 1699163493,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320730,
+        "num": 320730,
+        "word": "还我毛利兰",
+        "onboard_time": 1699156351,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 318575,
+        "num": 318575,
+        "word": "以色列",
+        "onboard_time": 1699163791,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 307299,
+        "num": 307299,
+        "word": "关晓彤生日被整蛊",
+        "onboard_time": 1699142065,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269990,
+        "num": 269990,
+        "word": "进击的巨人结局 献出心脏",
+        "onboard_time": 1699157251,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 257685,
+        "num": 257685,
+        "word": "杨紫范丞丞你说公主请看剧",
+        "onboard_time": 1699158573,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233286,
+        "num": 233286,
+        "word": "五月天上海 是谁命里有票",
+        "onboard_time": 1699154253,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434122,
+        "num": 231855,
+        "word": "男子跑步成瘾留5岁女儿在车内数小时",
+        "onboard_time": 1699162713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374922,
+        "num": 228067,
+        "word": "麻辣烫贵到40块都吃不饱",
+        "onboard_time": 1699163073,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291366,
+        "num": 225222,
+        "word": "五种对身体很不好的食物",
+        "onboard_time": 1699163316,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222054,
+        "num": 222054,
+        "word": "林志颖给Kimi打电话的声音",
+        "onboard_time": 1699164393,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137480,
+        "num": 214165,
+        "word": "孙颖莎王楚钦无缘单打决赛",
+        "onboard_time": 1699155572,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209819,
+        "num": 209819,
+        "word": "皮肤保湿保的是油而不是水",
+        "onboard_time": 1699163012,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194489,
+        "num": 209794,
+        "word": "张杰cue魏大勋孟宴臣名场面",
+        "onboard_time": 1699164572,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176028,
+        "num": 209783,
+        "word": "以爱为营",
+        "onboard_time": 1699160793,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173984,
+        "num": 209768,
+        "word": "王嘉尔演唱会 抢票",
+        "onboard_time": 1699160673,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167093,
+        "num": 209733,
+        "word": "刘涛解释妈祖为什么会说英语",
+        "onboard_time": 1699146330,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 209700,
+        "word": "五月天 抢票",
+        "onboard_time": 1699151128,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153274,
+        "num": 209666,
+        "word": "LNG对战T1 比分预测",
+        "onboard_time": 1699148011,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151920,
+        "num": 209665,
+        "word": "买8只大闸蟹老板给我寄了个蒸笼",
+        "onboard_time": 1699148854,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138695,
+        "num": 209635,
+        "word": "演唱会碎钻妆",
+        "onboard_time": 1699161333,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 135102,
+        "num": 209600,
+        "word": "朴宰范你踩我脸上了",
+        "onboard_time": 1699160853,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135088,
+        "num": 209573,
+        "word": "我安慰人也是温太医这样的",
+        "onboard_time": 1699164452,
+        "rank": 35,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 135007,
+        "num": 209555,
+        "word": "肖战给李健演唱会送花篮",
+        "onboard_time": 1699156471,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129188,
+        "num": 209525,
+        "word": "超市老板猥亵14岁小女孩被行拘9日",
+        "onboard_time": 1699140440,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121085,
+        "num": 209492,
+        "word": "代入一下关晓彤",
+        "onboard_time": 1699150051,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113151,
+        "num": 209461,
+        "word": "泫雅回归预告视频",
+        "onboard_time": 1699159473,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112324,
+        "num": 209461,
+        "word": "吉克隽逸茉莉公主造型",
+        "onboard_time": 1699163913,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107481,
+        "num": 209416,
+        "word": "为什么朋友圈点赞越来越少",
+        "onboard_time": 1699148854,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105191,
+        "num": 209387,
+        "word": "睡眠不好等于在身体内养毒",
+        "onboard_time": 1699151850,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94211,
+        "num": 209361,
+        "word": "核磁共振仪的威力有多大",
+        "onboard_time": 1699155393,
+        "rank": 43,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 93190,
+        "num": 209340,
+        "word": "秋冬必学的慵懒低丸子头",
+        "onboard_time": 1699151310,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 84973,
+        "num": 209312,
+        "word": "浙江一中学校长办公室变肠胃外科",
+        "onboard_time": 1699165171,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83223,
+        "num": 209294,
+        "word": "非遗传承人复原黄河淹没的千年古城",
+        "onboard_time": 1699165111,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78452,
+        "num": 209266,
+        "word": "台媒报道柯佳嬿新剧",
+        "onboard_time": 1699160253,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73094,
+        "num": 209248,
+        "word": "见过最离谱的奶茶小料",
+        "onboard_time": 1699157311,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71232,
+        "num": 209220,
+        "word": "杨紫粉色冲锋衣",
+        "onboard_time": 1699156592,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对外开放的大门不会关闭只会越开越大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699162452492,
+  "endTime": 1699165268842,
   "band_list": [
     {
       "raw_hot": 2771692,
@@ -131,12 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 982260,
-      "num": 982260,
+      "raw_hot": 1067138,
+      "num": 1067138,
       "word": "俞灏明被说丑悲伤离场",
       "onboard_time": 1699156831,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 992545,
+      "num": 992545,
+      "word": "李佳航 LPL热血难凉",
+      "onboard_time": 1699164754,
+      "rank": 3,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 903092,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434122,
+      "num": 231855,
+      "word": "男子跑步成瘾留5岁女儿在车内数小时",
+      "onboard_time": 1699162713,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432266,
       "num": 432266,
       "word": "杨紫范丞丞你说公主请看剧",
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374922,
+      "num": 228067,
+      "word": "麻辣烫贵到40块都吃不饱",
+      "onboard_time": 1699163073,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 361571,
       "num": 361571,
       "word": "王嘉尔演唱会 抢票",
@@ -441,6 +465,14 @@
       "onboard_time": 1699146633,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 348934,
+      "num": 348934,
+      "word": "英国人真的有在用心地改良英食",
+      "onboard_time": 1699158392,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 345958,
@@ -499,20 +531,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323128,
+      "num": 323128,
+      "word": "张靓颖演唱会万人一起喝水",
+      "onboard_time": 1699163493,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 318575,
+      "num": 318575,
+      "word": "以色列",
+      "onboard_time": 1699163791,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 316151,
       "num": 446637,
       "word": "胃胀气就是要舍得饿自己",
       "onboard_time": 1699109858,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 308889,
-      "num": 308889,
-      "word": "英国人真的有在用心地改良英食",
-      "onboard_time": 1699158392,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 301964,
@@ -529,6 +569,14 @@
       "onboard_time": 1699097261,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 291366,
+      "num": 225222,
+      "word": "五种对身体很不好的食物",
+      "onboard_time": 1699163316,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 289484,
@@ -596,7 +644,7 @@
     },
     {
       "raw_hot": 232393,
-      "num": 207733,
+      "num": 209600,
       "word": "朴宰范你踩我脸上了",
       "onboard_time": 1699160853,
       "rank": 33,
@@ -620,11 +668,19 @@
     },
     {
       "raw_hot": 225259,
-      "num": 209143,
+      "num": 209783,
       "word": "以爱为营",
       "onboard_time": 1699160793,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222054,
+      "num": 222054,
+      "word": "林志颖给Kimi打电话的声音",
+      "onboard_time": 1699164393,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 219343,
@@ -643,8 +699,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209819,
+      "num": 209819,
+      "word": "皮肤保湿保的是油而不是水",
+      "onboard_time": 1699163012,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 208025,
-      "num": 208025,
+      "num": 209461,
       "word": "泫雅回归预告视频",
       "onboard_time": 1699159473,
       "rank": 27,
@@ -684,11 +748,19 @@
     },
     {
       "raw_hot": 199370,
-      "num": 207831,
+      "num": 209266,
       "word": "台媒报道柯佳嬿新剧",
       "onboard_time": 1699160253,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194489,
+      "num": 209794,
+      "word": "张杰cue魏大勋孟宴臣名场面",
+      "onboard_time": 1699164572,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 193673,
@@ -756,7 +828,7 @@
     },
     {
       "raw_hot": 166125,
-      "num": 207635,
+      "num": 209635,
       "word": "演唱会碎钻妆",
       "onboard_time": 1699161333,
       "rank": 34,
@@ -915,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135088,
+      "num": 209573,
+      "word": "我安慰人也是温太医这样的",
+      "onboard_time": 1699164452,
+      "rank": 35,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 131799,
       "num": 435367,
       "word": "Ruler全球总决赛登场排名第三",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1699141587,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112324,
+      "num": 209461,
+      "word": "吉克隽逸茉莉公主造型",
+      "onboard_time": 1699163913,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111293,
@@ -1179,11 +1267,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84973,
+      "num": 209312,
+      "word": "浙江一中学校长办公室变肠胃外科",
+      "onboard_time": 1699165171,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84954,
       "num": 207292,
       "word": "为节省运输成本货车司机偷盗他人柴油",
       "onboard_time": 1699151433,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83223,
+      "num": 209294,
+      "word": "非遗传承人复原黄河淹没的千年古城",
+      "onboard_time": 1699165111,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
