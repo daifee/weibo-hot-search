@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699155256787,
+  "endTime": 1699157980245,
   "band_list": [
     {
       "raw_hot": 2004579,
@@ -9,6 +9,14 @@
       "onboard_time": 1699151128,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1901807,
+      "num": 1901807,
+      "word": "肺部CT报告中有些字眼可能是癌",
+      "onboard_time": 1699154070,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1754968,
@@ -51,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1385083,
+      "num": 1385083,
+      "word": "李佳航 意难平",
+      "onboard_time": 1699152993,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1311331,
       "num": 1311331,
       "word": "刘涛解释妈祖为什么会说英语",
@@ -65,14 +81,6 @@
       "onboard_time": 1699114111,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1181091,
-      "num": 1181091,
-      "word": "李佳航 意难平",
-      "onboard_time": 1699152993,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 1178201,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 771403,
+      "num": 771403,
+      "word": "还我毛利兰",
+      "onboard_time": 1699156351,
+      "rank": 5,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 759210,
       "num": 759210,
       "word": "买8只大闸蟹老板给我寄了个蒸笼",
@@ -129,6 +145,22 @@
       "onboard_time": 1699142548,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 706766,
+      "num": 539189,
+      "word": "俞灏明被说丑悲伤离场",
+      "onboard_time": 1699156831,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 700121,
+      "num": 700121,
+      "word": "肖战给李健演唱会送花篮",
+      "onboard_time": 1699156471,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 676801,
@@ -163,6 +195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 603608,
+      "num": 603608,
+      "word": "因为魏大勋买了大勋花",
+      "onboard_time": 1699154551,
+      "rank": 21,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 595678,
       "num": 595678,
       "word": "作家周涛突发心梗去世",
@@ -185,14 +225,6 @@
       "onboard_time": 1699117106,
       "rank": 16,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 566533,
-      "num": 547603,
-      "word": "肺部CT报告中有些字眼可能是癌",
-      "onboard_time": 1699154070,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534404,
@@ -267,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402713,
+      "num": 402713,
+      "word": "王鹤棣时宴摘眼镜吻",
+      "onboard_time": 1699156230,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399482,
       "num": 399482,
       "word": "LNG对战T1 比分预测",
@@ -283,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393236,
+      "num": 603070,
+      "word": "孙颖莎王楚钦无缘单打决赛",
+      "onboard_time": 1699155572,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383847,
       "num": 383847,
       "word": "没想到娜扎把辣椒当零食",
@@ -297,6 +345,14 @@
       "onboard_time": 1699105296,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 378940,
+      "num": 378940,
+      "word": "进击的巨人结局 献出心脏",
+      "onboard_time": 1699157251,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 376284,
@@ -411,20 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272841,
-      "num": 272841,
-      "word": "因为魏大勋买了大勋花",
-      "onboard_time": 1699154551,
-      "rank": 21,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 270943,
       "num": 447991,
       "word": "原来医院中条纹越多的越厉害",
       "onboard_time": 1699113454,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269715,
+      "num": 269715,
+      "word": "网红一笑倾城停更76天后更新",
+      "onboard_time": 1699157612,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 260427,
@@ -473,6 +529,14 @@
       "onboard_time": 1699146571,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232888,
+      "num": 232888,
+      "word": "爸妈看电视才知道女儿是战地记者",
+      "onboard_time": 1699157311,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231384,
@@ -555,12 +619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181394,
+      "num": 211365,
+      "word": "CATTI",
+      "onboard_time": 1699156471,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173773,
       "num": 220641,
       "word": "谏山创 通通创飞",
       "onboard_time": 1699146691,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 172677,
+      "num": 212847,
+      "word": "妹妹一开口就是顶级嘲讽",
+      "onboard_time": 1699155092,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 172382,
@@ -603,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162674,
+      "num": 211131,
+      "word": "核磁共振仪的威力有多大",
+      "onboard_time": 1699155393,
+      "rank": 33,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 160601,
       "num": 452013,
       "word": "周也穿的是姐姐设计的衣服",
@@ -633,6 +721,14 @@
       "onboard_time": 1699141164,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148275,
+      "num": 211004,
+      "word": "见过最离谱的奶茶小料",
+      "onboard_time": 1699157311,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 146314,
@@ -675,6 +771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138357,
+      "num": 210871,
+      "word": "封神第一部动画形象",
+      "onboard_time": 1699155752,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135457,
       "num": 376262,
       "word": "孙颖莎 心无旁骛继续涨球",
@@ -713,6 +817,14 @@
       "onboard_time": 1699109675,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124669,
+      "num": 210851,
+      "word": "赵昭仪化身人型体重秤",
+      "onboard_time": 1699157491,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 124017,
@@ -851,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98895,
+      "num": 1350032,
+      "word": "63年前的今天中国人有了自己的导弹",
+      "onboard_time": 1699156052,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96797,
       "num": 437542,
       "word": "广东世仇村和解开始通婚",
@@ -899,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88743,
+      "num": 217078,
+      "word": "薛之谦红色挑染",
+      "onboard_time": 1699154190,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84954,
       "num": 207292,
       "word": "为节省运输成本货车司机偷盗他人柴油",
@@ -931,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80078,
-      "num": 212847,
-      "word": "妹妹一开口就是顶级嘲讽",
-      "onboard_time": 1699155092,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77392,
       "num": 212842,
       "word": "凯恩帽子戏法",
@@ -963,12 +1083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71742,
-      "num": 217078,
-      "word": "薛之谦红色挑染",
-      "onboard_time": 1699154190,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 71874,
+      "num": 556855,
+      "word": "杨紫粉色冲锋衣",
+      "onboard_time": 1699156592,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 70354,
@@ -1033,6 +1153,14 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38495,
+      "num": 210745,
+      "word": "三星堆文物里藏着的中国酒文化",
+      "onboard_time": 1699155451,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 37128,
@@ -1103,6 +1231,9 @@
     },
     {
       "word": "#中方愿同德方努力捍卫国际秩序和多边主义#"
+    },
+    {
+      "word": "#习近平向第六届进博会致信#"
     }
   ]
 }
