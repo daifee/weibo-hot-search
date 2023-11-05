@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699208419213,
+  "endTime": 1699209268389,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -13507,6 +13507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96236,
+      "num": 96236,
+      "word": "真的有人在拍芭比海默了",
+      "onboard_time": 1699206557,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95797,
       "num": 96445,
       "word": "拯救嫌疑人 不如先拯救观众吧",
@@ -13601,14 +13609,6 @@
       "onboard_time": 1699092810,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 91023,
-      "num": 91023,
-      "word": "真的有人在拍芭比海默了",
-      "onboard_time": 1699206557,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 89908,
@@ -13899,6 +13899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73123,
+      "num": 73123,
+      "word": "魏大勋 霸总顺风局",
+      "onboard_time": 1699206679,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 72598,
       "num": 260093,
       "word": "京东采销直播间送酱香国酒",
@@ -14001,14 +14009,6 @@
       "onboard_time": 1698771982,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64973,
-      "num": 64973,
-      "word": "魏大勋 霸总顺风局",
-      "onboard_time": 1699206679,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 63919,
@@ -14348,7 +14348,7 @@
     },
     {
       "raw_hot": 34404,
-      "num": 49437,
+      "num": 56791,
       "word": "女子在马拉松场外当众脚踢警察",
       "onboard_time": 1699204701,
       "rank": 49,
@@ -14377,6 +14377,14 @@
       "onboard_time": 1698784273,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 32174,
+      "num": 56884,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 31649,
@@ -14441,6 +14449,14 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23899,
+      "num": 56520,
+      "word": "进击的巨人 泪如雨下",
+      "onboard_time": 1699208716,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 22179,

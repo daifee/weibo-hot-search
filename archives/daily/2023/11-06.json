@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699208419213,
+  "endTime": 1699209268389,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -379,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91023,
-      "num": 91023,
+      "raw_hot": 96236,
+      "num": 96236,
       "word": "真的有人在拍芭比海默了",
       "onboard_time": 1699206557,
       "rank": 15,
@@ -419,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73123,
+      "num": 73123,
+      "word": "魏大勋 霸总顺风局",
+      "onboard_time": 1699206679,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66562,
       "num": 66562,
       "word": "朝阳打歌中心有自己的妲己",
       "onboard_time": 1699202485,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64973,
-      "num": 64973,
-      "word": "魏大勋 霸总顺风局",
-      "onboard_time": 1699206679,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 58664,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 35348,
-      "num": 49531,
+      "num": 56309,
       "word": "周也吹金粉",
       "onboard_time": 1699191635,
       "rank": 47,
@@ -460,11 +460,27 @@
     },
     {
       "raw_hot": 34404,
-      "num": 49437,
+      "num": 56791,
       "word": "女子在马拉松场外当众脚踢警察",
       "onboard_time": 1699204701,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32174,
+      "num": 56884,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 23899,
+      "num": 56520,
+      "word": "进击的巨人 泪如雨下",
+      "onboard_time": 1699208716,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 17096,
