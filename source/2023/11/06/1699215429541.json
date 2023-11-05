@@ -1,0 +1,410 @@
+{
+  "runTime": 1699215429541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139883,
+        "num": 139883,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82810,
+        "num": 82810,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8886,
+        "num": 68852,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 65233,
+        "num": 65233,
+        "word": "五块九粉底液 你还敢用吗",
+        "onboard_time": 1699209618,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57813,
+        "num": 57813,
+        "word": "T1晋级S13四强",
+        "onboard_time": 1699179827,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54419,
+        "num": 54419,
+        "word": "日本网民称福原爱被宠坏了",
+        "onboard_time": 1699194757,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48782,
+        "num": 48782,
+        "word": "gala哭了",
+        "onboard_time": 1699182515,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46280,
+        "num": 48779,
+        "word": "以色列部长声称可对加沙投核弹",
+        "onboard_time": 1699190796,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 45239,
+        "num": 48777,
+        "word": "Tarzan 皇子",
+        "onboard_time": 1699174532,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40721,
+        "num": 48772,
+        "word": "RNG能不能把gala卡回来",
+        "onboard_time": 1699181974,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140262,
+        "num": 48771,
+        "word": "奥巴马称没有谁的手是干净的",
+        "onboard_time": 1699208777,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 99614,
+        "num": 48765,
+        "word": "女子足疗店按摩被男技师猥亵",
+        "onboard_time": 1699204280,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64171,
+        "num": 48761,
+        "word": "杨紫工作室把地砖P弯了",
+        "onboard_time": 1699183715,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44398,
+        "num": 48760,
+        "word": "Scout 精忠报国",
+        "onboard_time": 1699174115,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38911,
+        "num": 48754,
+        "word": "披荆斩棘",
+        "onboard_time": 1699185635,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37262,
+        "num": 48754,
+        "word": "兄弟们都昏啦",
+        "onboard_time": 1699181378,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33853,
+        "num": 48748,
+        "word": "LNG 不敢打",
+        "onboard_time": 1699179947,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32950,
+        "num": 48748,
+        "word": "人机局",
+        "onboard_time": 1699180542,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32252,
+        "num": 48741,
+        "word": "LNG醒醒",
+        "onboard_time": 1699178913,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31804,
+        "num": 48740,
+        "word": "马龙1比4林昀儒",
+        "onboard_time": 1699197516,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29459,
+        "num": 48735,
+        "word": "女子骑车到桥上将孩子推下河",
+        "onboard_time": 1699190316,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29458,
+        "num": 48732,
+        "word": "以爱为营正片vs路透",
+        "onboard_time": 1699186235,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 48729,
+        "word": "管泽元预测",
+        "onboard_time": 1699172609,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24176,
+        "num": 48727,
+        "word": "台媒报道以爱为营",
+        "onboard_time": 1699215193,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23460,
+        "num": 48720,
+        "word": "刘昊然回应一部手机用五六年",
+        "onboard_time": 1699185399,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22623,
+        "num": 48718,
+        "word": "WB回应争议",
+        "onboard_time": 1699193977,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22530,
+        "num": 48715,
+        "word": "以爱为营 视角",
+        "onboard_time": 1699179766,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22501,
+        "num": 48710,
+        "word": "辅助机器人",
+        "onboard_time": 1699175070,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21363,
+        "num": 48708,
+        "word": "林昀儒WTT男单夺冠",
+        "onboard_time": 1699197578,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21297,
+        "num": 48705,
+        "word": "皇马替樊振东发了Vlog",
+        "onboard_time": 1699184016,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22312,
+        "num": 48701,
+        "word": "魏大勋 霸总顺风局",
+        "onboard_time": 1699206679,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 48697,
+        "word": "小胖激动到流鼻血",
+        "onboard_time": 1699191396,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19984,
+        "num": 48692,
+        "word": "这下PPT台风稳了",
+        "onboard_time": 1699210336,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19912,
+        "num": 48690,
+        "word": "孙燕姿前经纪人发长文应援",
+        "onboard_time": 1699191696,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19842,
+        "num": 48686,
+        "word": "狼队被开罚单",
+        "onboard_time": 1699191334,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19732,
+        "num": 48683,
+        "word": "真的有人在拍芭比海默了",
+        "onboard_time": 1699206557,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18854,
+        "num": 48679,
+        "word": "哪个大聪明在车顶晒虾",
+        "onboard_time": 1699213215,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18736,
+        "num": 48678,
+        "word": "胡兵张栋梁这俩人泼水还这么有礼貌",
+        "onboard_time": 1699198953,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18454,
+        "num": 48672,
+        "word": "北京11月6日零时点火试运行启动供暖",
+        "onboard_time": 1699199014,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17164,
+        "num": 48670,
+        "word": "崔始源 鲁宾逊漂流记",
+        "onboard_time": 1699193195,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16984,
+        "num": 48668,
+        "word": "过期化妆品还能巧利用",
+        "onboard_time": 1699190736,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 16896,
+        "num": 48663,
+        "word": "时宴英语口语水平",
+        "onboard_time": 1699197756,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16695,
+        "num": 48658,
+        "word": "张钧甯阮经天她在闹他在冷笑",
+        "onboard_time": 1699182275,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15668,
+        "num": 48656,
+        "word": "马龙飞身救球",
+        "onboard_time": 1699197398,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15629,
+        "num": 48651,
+        "word": "魏哲鸣 得不到的白月光",
+        "onboard_time": 1699188095,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15607,
+        "num": 48647,
+        "word": "北京供暖",
+        "onboard_time": 1699194999,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15593,
+        "num": 48644,
+        "word": "Cat 顶级辅助",
+        "onboard_time": 1699191936,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14463,
+        "num": 48641,
+        "word": "小胖FMVP",
+        "onboard_time": 1699192716,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14404,
+        "num": 48639,
+        "word": "热依扎扎她",
+        "onboard_time": 1699188935,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14300,
+        "num": 48634,
+        "word": "女子在马拉松场外当众脚踢警察",
+        "onboard_time": 1699204701,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扩大面向全球的高标准自由贸易区网络#"
+    }
+  }
+}
