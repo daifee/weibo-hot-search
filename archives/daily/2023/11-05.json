@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699191259642,
+  "endTime": 1699193651203,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2620347,
+      "num": 2620347,
+      "word": "内娱可以吃一辈子的剧",
+      "onboard_time": 1699185216,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2109443,
       "num": 2109443,
       "word": "辅助机器人",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 2090660,
-      "num": 595666,
+      "num": 703359,
       "word": "杨紫工作室把地砖P弯了",
       "onboard_time": 1699183715,
       "rank": 21,
@@ -137,14 +145,6 @@
       "onboard_time": 1699166730,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1705453,
-      "num": 1705453,
-      "word": "内娱可以吃一辈子的剧",
-      "onboard_time": 1699185216,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1699357,
@@ -193,6 +193,14 @@
       "onboard_time": 1699157612,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1544723,
+      "num": 1544723,
+      "word": "小胖激动到流鼻血",
+      "onboard_time": 1699191396,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1476315,
@@ -315,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 924863,
+      "num": 805861,
+      "word": "以色列部长声称可对加沙投核弹",
+      "onboard_time": 1699190796,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 904045,
       "num": 883316,
       "word": "以色列",
@@ -337,6 +353,14 @@
       "onboard_time": 1699156351,
       "rank": 5,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 843633,
+      "num": 843633,
+      "word": "Cat 顶级辅助",
+      "onboard_time": 1699191936,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 842410,
@@ -379,12 +403,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 763870,
+      "num": 763870,
+      "word": "王艺迪4比0王曼昱",
+      "onboard_time": 1699192716,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759210,
       "num": 759210,
       "word": "买8只大闸蟹老板给我寄了个蒸笼",
       "onboard_time": 1699148854,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 756014,
+      "num": 700265,
+      "word": "孙燕姿前经纪人发长文应援",
+      "onboard_time": 1699191696,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 745242,
@@ -403,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 731322,
+      "num": 731322,
+      "word": "狼队被开罚单",
+      "onboard_time": 1699191334,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 716553,
       "num": 716553,
       "word": "毛毛姐称直播间手机被调包成模型机",
@@ -417,6 +465,14 @@
       "onboard_time": 1699156471,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 695029,
+      "num": 695029,
+      "word": "女子骑车到桥上将孩子推下河",
+      "onboard_time": 1699190316,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 676801,
@@ -531,6 +587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 558455,
+      "num": 558455,
+      "word": "中国战地女记者陈慧慧已成功撤离",
+      "onboard_time": 1699189894,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555634,
       "num": 555634,
       "word": "魏大勋回应今年暑假爆红",
@@ -568,6 +632,14 @@
       "word": "王力宏喝北京豆汁儿",
       "onboard_time": 1699172252,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 517463,
+      "num": 517463,
+      "word": "周也吹金粉",
+      "onboard_time": 1699191635,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -657,14 +729,6 @@
       "onboard_time": 1699181498,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 474145,
-      "num": 540401,
-      "word": "中国战地女记者陈慧慧已成功撤离",
-      "onboard_time": 1699189894,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469138,
@@ -827,12 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415367,
-      "num": 415367,
-      "word": "女子骑车到桥上将孩子推下河",
-      "onboard_time": 1699190316,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 407273,
+      "num": 423953,
+      "word": "王艺迪WTT女单夺冠",
+      "onboard_time": 1699192775,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 403780,
@@ -947,6 +1011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352581,
+      "num": 352581,
+      "word": "Fly 爱信等",
+      "onboard_time": 1699192118,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 350867,
+      "num": 350867,
+      "word": "崔始源 鲁宾逊漂流记",
+      "onboard_time": 1699193195,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350239,
       "num": 350239,
       "word": "披荆斩棘",
@@ -987,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347613,
+      "num": 347613,
+      "word": "韩国牙医对糖葫芦的评价",
+      "onboard_time": 1699191936,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 345958,
       "num": 384556,
       "word": "莎头",
@@ -1009,6 +1097,14 @@
       "onboard_time": 1699143149,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339239,
+      "num": 339239,
+      "word": "过期化妆品还能巧利用",
+      "onboard_time": 1699190736,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 338988,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 321488,
+      "num": 321488,
+      "word": "小胖FMVP",
+      "onboard_time": 1699192716,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 318559,
@@ -1235,14 +1339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270751,
-      "num": 319638,
-      "word": "以色列部长声称可对加沙投核弹",
-      "onboard_time": 1699190796,
-      "rank": 27,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 268310,
       "num": 268310,
       "word": "漫画公司原来长这样",
@@ -1299,14 +1395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 251528,
-      "num": 251528,
-      "word": "过期化妆品还能巧利用",
-      "onboard_time": 1699190736,
-      "rank": 38,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 250707,
       "num": 250707,
       "word": "魏大勋送张杰大勋花",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1699079373,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243110,
+      "num": 281958,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1699192897,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 242573,
@@ -1443,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229426,
+      "num": 229426,
+      "word": "一诺伽罗输出拉满了",
+      "onboard_time": 1699191577,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228331,
       "num": 228331,
       "word": "offer5全员爆料走心局",
@@ -1499,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222070,
+      "num": 222070,
+      "word": "于适说王影璐挺愿意演猪八戒的",
+      "onboard_time": 1699192597,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "白鹿敖瑞鹏白月梵星开机",
@@ -1513,6 +1625,14 @@
       "onboard_time": 1699151310,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217706,
+      "num": 307130,
+      "word": "广东男篮vs青岛男篮",
+      "onboard_time": 1699192597,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 216845,
@@ -2427,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92149,
+      "num": 1981852,
+      "word": "揭秘进博会网红巴基斯坦盐灯",
+      "onboard_time": 1699189355,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91843,
       "num": 217100,
       "word": "挖机师傅遇老人填土20分钟帮填平",
@@ -2449,6 +2577,14 @@
       "onboard_time": 1699154190,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87364,
+      "num": 323852,
+      "word": "iQOO12亮相KPL",
+      "onboard_time": 1699192658,
+      "rank": 26,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 84954,
@@ -2545,14 +2681,6 @@
       "onboard_time": 1699014155,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 67884,
-      "num": 1379330,
-      "word": "揭秘进博会网红巴基斯坦盐灯",
-      "onboard_time": 1699189355,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66162,
