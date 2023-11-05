@@ -1,7 +1,15 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699140847005,
+  "endTime": 1699147060684,
   "band_list": [
+    {
+      "raw_hot": 1754968,
+      "num": 412554,
+      "word": "超市老板猥亵14岁小女孩被行拘9日",
+      "onboard_time": 1699140440,
+      "rank": 32,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1619275,
       "num": 1619275,
@@ -19,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1210258,
+      "num": 1210258,
+      "word": "东北这次强降雪下到发紫",
+      "onboard_time": 1699114111,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1068182,
       "num": 1068182,
       "word": "孙颖莎",
@@ -27,12 +43,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1014915,
-      "num": 1014915,
-      "word": "东北这次强降雪下到发紫",
-      "onboard_time": 1699114111,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 923214,
+      "num": 923214,
+      "word": "关晓彤生日被整蛊",
+      "onboard_time": 1699142065,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 805935,
@@ -43,12 +59,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716553,
+      "num": 716553,
+      "word": "毛毛姐称直播间手机被调包成模型机",
+      "onboard_time": 1699142548,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 676801,
       "num": 676801,
       "word": "李佳琦公司招商专员收好处费超百万",
       "onboard_time": 1699105118,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 632360,
+      "num": 632360,
+      "word": "李佳琦公司回应员工收百万好处费",
+      "onboard_time": 1699142125,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 595678,
+      "num": 595678,
+      "word": "作家周涛突发心梗去世",
+      "onboard_time": 1699141164,
+      "rank": 5,
+      "category": "读书作家"
     },
     {
       "raw_hot": 585008,
@@ -91,6 +131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 442572,
+      "num": 442572,
+      "word": "女子全麻术后被好友轮流拿喇叭叫醒",
+      "onboard_time": 1699141164,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436278,
       "num": 508061,
       "word": "世界冠军不可怕 谁不四强谁尴尬",
@@ -99,12 +147,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 436125,
+      "num": 436125,
+      "word": "尼泊尔地震已致157人死亡",
+      "onboard_time": 1699145250,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422813,
+      "num": 422813,
+      "word": "艾伦三笠 最后一吻",
+      "onboard_time": 1699142969,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 418573,
       "num": 536985,
       "word": "王曼昱 医疗暂停",
       "onboard_time": 1699105176,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383468,
+      "num": 383468,
+      "word": "刘涛解释妈祖为什么会说英语",
+      "onboard_time": 1699146330,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 382605,
@@ -137,6 +209,14 @@
       "onboard_time": 1699091370,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 339548,
+      "num": 339548,
+      "word": "大妈为自拍不慎踩空掉进芦苇荡",
+      "onboard_time": 1699143149,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316151,
@@ -179,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248426,
+      "num": 203366,
+      "word": "周饼伦 一边灌饼一边还要接梗",
+      "onboard_time": 1699144530,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 243195,
       "num": 393851,
       "word": "迪丽热巴换手机壳庆祝入住大床房",
@@ -193,6 +281,14 @@
       "onboard_time": 1699116267,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227891,
+      "num": 227891,
+      "word": "李荣浩看见这个灯牌差点唱笑场",
+      "onboard_time": 1699146633,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 226469,
@@ -219,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201120,
+      "num": 203359,
+      "word": "这是咖啡粥吗",
+      "onboard_time": 1699146571,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200127,
       "num": 443078,
       "word": "原来梳头是真的有用",
@@ -240,6 +344,30 @@
       "word": "孙颖莎 淋雨一直走",
       "onboard_time": 1699082430,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172382,
+      "num": 203494,
+      "word": "郑书意时宴的朋友圈",
+      "onboard_time": 1699143628,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171417,
+      "num": 203478,
+      "word": "以爱为营土营十级怼人文学",
+      "onboard_time": 1699142485,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165199,
+      "num": 365166,
+      "word": "马龙说用最好的状态面对决赛",
+      "onboard_time": 1699140682,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -283,12 +411,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 154677,
-      "num": 365166,
-      "word": "马龙说用最好的状态面对决赛",
-      "onboard_time": 1699140682,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 157043,
+      "num": 203459,
+      "word": "守望先锋 韩国队",
+      "onboard_time": 1699141164,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 146314,
@@ -331,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127110,
+      "num": 446708,
+      "word": "外公干农活两外孙女一左一右帮倒忙",
+      "onboard_time": 1699109675,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124017,
       "num": 426103,
       "word": "曼城vs伯恩茅斯",
@@ -355,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112386,
-      "num": 446708,
-      "word": "外公干农活两外孙女一左一右帮倒忙",
-      "onboard_time": 1699109675,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 112468,
+      "num": 203356,
+      "word": "孙颖莎2比4王艺迪",
+      "onboard_time": 1699141587,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 111293,
@@ -395,6 +531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 105208,
+      "num": 203337,
+      "word": "B席提醒阿尔瓦雷斯丢了一颗牙齿",
+      "onboard_time": 1699145552,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100805,
       "num": 440948,
       "word": "联合国称缅北数百人越境逃入中国",
@@ -409,6 +553,14 @@
       "onboard_time": 1699097073,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96797,
+      "num": 437542,
+      "word": "广东世仇村和解开始通婚",
+      "onboard_time": 1699127115,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94588,
@@ -427,7 +579,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86905,
+      "raw_hot": 90364,
+      "num": 203289,
+      "word": "谏山创 通通创飞",
+      "onboard_time": 1699146691,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 89260,
       "num": 431385,
       "word": "e人和i人的拍照区别",
       "onboard_time": 1699118304,
@@ -441,14 +601,6 @@
       "onboard_time": 1699140383,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 79871,
-      "num": 364756,
-      "word": "超市老板猥亵14岁小女孩被行拘9日",
-      "onboard_time": 1699140440,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74441,
@@ -483,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68891,
+      "num": 203213,
+      "word": "卖爆米花的脑瘫少年再次婉拒一切捐赠",
+      "onboard_time": 1699142667,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67994,
       "num": 376228,
       "word": "张小斐 黑夜里闪耀的钻石",
@@ -497,14 +657,6 @@
       "onboard_time": 1699114830,
       "rank": 49,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 65677,
-      "num": 437542,
-      "word": "广东世仇村和解开始通婚",
-      "onboard_time": 1699127115,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64020,
@@ -563,20 +715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20523,
+      "num": 797803,
+      "word": "让看电视更简单消费不套娃",
+      "onboard_time": 1699077631,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17862,
       "num": 102900,
       "word": "丞磊黑白双鲨",
       "onboard_time": 1699125855,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 10980,
-      "num": 589677,
-      "word": "让看电视更简单消费不套娃",
-      "onboard_time": 1699077631,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8351,
