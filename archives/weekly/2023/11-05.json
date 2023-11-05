@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699197361362,
+  "endTime": 1699198431704,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1721805,
+      "num": 1721805,
+      "word": "林昀儒WTT男单夺冠",
+      "onboard_time": 1699197578,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1699357,
       "num": 1699357,
       "word": "李善均承认吸毒",
@@ -251,6 +259,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 1272970,
+      "num": 1272970,
+      "word": "马龙1比4林昀儒",
+      "onboard_time": 1699197516,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1264772,
       "num": 1264772,
       "word": "南京暴雨 萧敬腾从不失手",
@@ -267,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1253094,
+      "num": 1253094,
+      "word": "日本网民称福原爱被宠坏了",
+      "onboard_time": 1699194757,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1230353,
       "num": 1230353,
       "word": "导演答应白鹿不用大灯",
       "onboard_time": 1699174532,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1207582,
-      "num": 1207582,
-      "word": "日本网民称福原爱被宠坏了",
-      "onboard_time": 1699194757,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 1178201,
@@ -331,8 +347,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 982439,
-      "num": 982439,
+      "raw_hot": 997549,
+      "num": 997549,
       "word": "北京供暖",
       "onboard_time": 1699194999,
       "rank": 5,
@@ -409,6 +425,14 @@
       "onboard_time": 1699150051,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 813040,
+      "num": 813040,
+      "word": "马龙飞身救球",
+      "onboard_time": 1699197398,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 805935,
@@ -1027,8 +1051,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365110,
-      "num": 365110,
+      "raw_hot": 372951,
+      "num": 372951,
       "word": "披荆斩棘",
       "onboard_time": 1699185635,
       "rank": 26,
@@ -1283,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298667,
+      "num": 298667,
+      "word": "李健 贝加尔湖畔",
+      "onboard_time": 1699197338,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296006,
       "num": 380295,
       "word": "东北大暴雪又来了",
@@ -1403,6 +1435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 258436,
+      "num": 258436,
+      "word": "两块钱的内衣皂",
+      "onboard_time": 1699196797,
+      "rank": 33,
+      "category": "其它"
+    },
+    {
       "raw_hot": 258054,
       "num": 229189,
       "word": "秦岚有点大方但不多",
@@ -1497,14 +1537,6 @@
       "onboard_time": 1699180364,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241956,
-      "num": 241956,
-      "word": "两块钱的内衣皂",
-      "onboard_time": 1699196797,
-      "rank": 33,
-      "category": "其它"
     },
     {
       "raw_hot": 241107,
@@ -1667,6 +1699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223029,
+      "num": 223029,
+      "word": "时宴英语口语水平",
+      "onboard_time": 1699197756,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222070,
       "num": 222070,
       "word": "于适说王影璐挺愿意演猪八戒的",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1699151310,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217757,
+      "num": 217757,
+      "word": "顾云峥继承了澹台烬的情丝",
+      "onboard_time": 1699197035,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 217706,
@@ -1723,6 +1771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 210650,
+      "num": 210650,
+      "word": "马嘉祺天若有情唱到我心里",
+      "onboard_time": 1699198115,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210584,
       "num": 210584,
       "word": "张小斐白衬衣",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1699163012,
       "rank": 25,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 208601,
-      "num": 208601,
-      "word": "顾云峥继承了澹台烬的情丝",
-      "onboard_time": 1699197035,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 208255,
@@ -2107,14 +2155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163438,
-      "num": 163438,
-      "word": "李健 贝加尔湖畔",
-      "onboard_time": 1699197338,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 162960,
       "num": 206901,
       "word": "木子洋对张亮说我是天天森碟的cp粉",
@@ -2297,6 +2337,14 @@
       "onboard_time": 1699175429,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142804,
+      "num": 142804,
+      "word": "手部祛湿操",
+      "onboard_time": 1699198054,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142794,
@@ -2952,6 +3000,9 @@
     },
     {
       "word": "#扩大面向全球的高标准自由贸易区网络#"
+    },
+    {
+      "word": "#第六届进口博览会#"
     }
   ]
 }
