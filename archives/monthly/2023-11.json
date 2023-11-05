@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699161348493,
+  "endTime": 1699162452492,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1699013856,
       "rank": 3,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1083594,
+      "num": 1083594,
+      "word": "谁家接吻戴墨镜啊",
+      "onboard_time": 1699158995,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1074046,
@@ -2755,6 +2763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 555634,
+      "num": 555634,
+      "word": "魏大勋回应今年暑假爆红",
+      "onboard_time": 1699160492,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 554888,
       "num": 413593,
       "word": "梁朝伟 他的双眼是整个世代的眷恋",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1698831213,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547931,
-      "num": 547931,
-      "word": "魏大勋回应今年暑假爆红",
-      "onboard_time": 1699160492,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 544848,
@@ -2945,6 +2953,14 @@
       "onboard_time": 1698800136,
       "rank": 14,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 514060,
+      "num": 514060,
+      "word": "爸妈看电视才知道女儿是战地记者",
+      "onboard_time": 1699157311,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513555,
@@ -3457,14 +3473,6 @@
       "onboard_time": 1698974969,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 448553,
-      "num": 448553,
-      "word": "爸妈看电视才知道女儿是战地记者",
-      "onboard_time": 1699157311,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448329,
@@ -4483,6 +4491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 361571,
+      "num": 361571,
+      "word": "王嘉尔演唱会 抢票",
+      "onboard_time": 1699160673,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 361132,
       "num": 361132,
       "word": "河南淮阳官方回应抢中药事件",
@@ -4809,14 +4825,6 @@
       "onboard_time": 1699143149,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339385,
-      "num": 339385,
-      "word": "王嘉尔演唱会 抢票",
-      "onboard_time": 1699160673,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 338988,
@@ -5227,6 +5235,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 308889,
+      "num": 308889,
+      "word": "英国人真的有在用心地改良英食",
+      "onboard_time": 1699158392,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 306258,
       "num": 260020,
       "word": "田嘉瑞cos小丑",
@@ -5513,14 +5529,6 @@
       "onboard_time": 1698982534,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 284664,
-      "num": 213746,
-      "word": "英国人真的有在用心地改良英食",
-      "onboard_time": 1699158392,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 284594,
@@ -6689,6 +6697,14 @@
       "onboard_time": 1698984214,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232393,
+      "num": 207733,
+      "word": "朴宰范你踩我脸上了",
+      "onboard_time": 1699160853,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 231937,
@@ -8667,14 +8683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179934,
-      "num": 207733,
-      "word": "朴宰范你踩我脸上了",
-      "onboard_time": 1699160853,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179793,
       "num": 170040,
       "word": "陈牧驰ELLE风尚大典路透",
@@ -8689,6 +8697,14 @@
       "onboard_time": 1699064851,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179293,
+      "num": 205126,
+      "word": "以闪亮之名绮遇之履",
+      "onboard_time": 1699162114,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 179206,
@@ -9195,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166125,
+      "num": 207635,
+      "word": "演唱会碎钻妆",
+      "onboard_time": 1699161333,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166069,
       "num": 166069,
       "word": "王鹤棣手牵白马",
@@ -9609,14 +9633,6 @@
       "onboard_time": 1698830793,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156800,
-      "num": 207635,
-      "word": "演唱会碎钻妆",
-      "onboard_time": 1699161333,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 156794,
