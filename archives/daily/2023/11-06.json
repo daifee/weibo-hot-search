@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699205646653,
+  "endTime": 1699208419213,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -105,6 +105,14 @@
       "onboard_time": 1699185399,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358637,
+      "num": 202137,
+      "word": "女子足疗店按摩被男技师猥亵",
+      "onboard_time": 1699204280,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357397,
@@ -225,14 +233,6 @@
       "onboard_time": 1699188095,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207092,
-      "num": 202137,
-      "word": "女子足疗店按摩被男技师猥亵",
-      "onboard_time": 1699204280,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199297,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91023,
+      "num": 91023,
+      "word": "真的有人在拍芭比海默了",
+      "onboard_time": 1699206557,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89753,
       "num": 107631,
       "word": "王艺迪4比0王曼昱",
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64973,
+      "num": 64973,
+      "word": "魏大勋 霸总顺风局",
+      "onboard_time": 1699206679,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 58664,
       "num": 66199,
       "word": "皇马替樊振东发了Vlog",
@@ -444,11 +460,19 @@
     },
     {
       "raw_hot": 34404,
-      "num": 49246,
+      "num": 49437,
       "word": "女子在马拉松场外当众脚踢警察",
       "onboard_time": 1699204701,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17096,
+      "num": 218338,
+      "word": "第一届全国学青会开幕式",
+      "onboard_time": 1699191097,
+      "rank": 2,
+      "category": "教育,体育"
     }
   ],
   "hotgov_list": [
