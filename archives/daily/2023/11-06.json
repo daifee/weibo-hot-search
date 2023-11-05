@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699201241976,
+  "endTime": 1699202213983,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357397,
+      "num": 348581,
+      "word": "孙燕姿前经纪人发长文应援",
+      "onboard_time": 1699191696,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357286,
       "num": 357286,
       "word": "Scout 精忠报国",
@@ -121,14 +129,6 @@
       "onboard_time": 1699185635,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339352,
-      "num": 339352,
-      "word": "孙燕姿前经纪人发长文应援",
-      "onboard_time": 1699191696,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 311126,
@@ -147,28 +147,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 277657,
-      "num": 277657,
-      "word": "李健 贝加尔湖畔",
-      "onboard_time": 1699197338,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 262032,
-      "num": 262032,
+      "raw_hot": 295249,
+      "num": 295249,
       "word": "胡兵张栋梁这俩人泼水还这么有礼貌",
       "onboard_time": 1699198953,
       "rank": 20,
       "category": "综艺"
     },
     {
-      "raw_hot": 248831,
+      "raw_hot": 287116,
       "num": 248831,
       "word": "北京11月6日零时点火试运行启动供暖",
       "onboard_time": 1699199014,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277657,
+      "num": 277657,
+      "word": "李健 贝加尔湖畔",
+      "onboard_time": 1699197338,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 234562,
@@ -227,8 +227,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198986,
-      "num": 198986,
+      "raw_hot": 199297,
+      "num": 199297,
       "word": "时宴英语口语水平",
       "onboard_time": 1699197756,
       "rank": 29,
@@ -355,20 +355,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99489,
+      "num": 107643,
+      "word": "狼队被开罚单",
+      "onboard_time": 1699191334,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96846,
       "num": 107656,
       "word": "章昊福建人的DNA动了",
       "onboard_time": 1699197280,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93921,
-      "num": 107643,
-      "word": "狼队被开罚单",
-      "onboard_time": 1699191334,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 89753,
@@ -393,6 +393,14 @@
       "onboard_time": 1699193977,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70900,
+      "num": 86672,
+      "word": "过期化妆品还能巧利用",
+      "onboard_time": 1699190736,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 49665,
