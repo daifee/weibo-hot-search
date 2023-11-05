@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699188348048,
+  "endTime": 1699190300079,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1705453,
+      "num": 1705453,
+      "word": "内娱可以吃一辈子的剧",
+      "onboard_time": 1699185216,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1699357,
       "num": 1699357,
       "word": "李善均承认吸毒",
@@ -209,14 +217,6 @@
       "onboard_time": 1699152993,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1373837,
-      "num": 1373837,
-      "word": "内娱可以吃一辈子的剧",
-      "onboard_time": 1699185216,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1311331,
@@ -337,6 +337,14 @@
       "onboard_time": 1699156351,
       "rank": 5,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 842410,
+      "num": 842410,
+      "word": "刘昊然回应一部手机用五六年",
+      "onboard_time": 1699185399,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 823473,
@@ -483,14 +491,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 593633,
-      "num": 593633,
-      "word": "刘昊然回应一部手机用五六年",
-      "onboard_time": 1699185399,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 587200,
       "num": 587200,
       "word": "龚俊爆改营销号",
@@ -619,6 +619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 485312,
+      "num": 596134,
+      "word": "韩国将禁止股票卖空直到明年6月",
+      "onboard_time": 1699186661,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 484420,
       "num": 484420,
       "word": "王鹤棣时宴摘眼镜吻",
@@ -667,6 +675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 462672,
+      "num": 462672,
+      "word": "狼队对战AG",
+      "onboard_time": 1699177592,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 461758,
       "num": 461758,
       "word": "WBG获胜",
@@ -697,6 +713,14 @@
       "onboard_time": 1699172130,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 446305,
+      "num": 446305,
+      "word": "魏哲鸣 得不到的白月光",
+      "onboard_time": 1699188095,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 442572,
@@ -793,14 +817,6 @@
       "onboard_time": 1699105176,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 409982,
-      "num": 596134,
-      "word": "韩国将禁止股票卖空直到明年6月",
-      "onboard_time": 1699186661,
-      "rank": 27,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 396277,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309787,
+      "num": 309787,
+      "word": "热依扎扎她",
+      "onboard_time": 1699188935,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309379,
       "num": 309379,
       "word": "肖战李健怎么认识的",
@@ -1073,6 +1097,22 @@
       "onboard_time": 1699169009,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296006,
+      "num": 380295,
+      "word": "东北大暴雪又来了",
+      "onboard_time": 1699185159,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292704,
+      "num": 292704,
+      "word": "许凯景甜我要躺你们中间",
+      "onboard_time": 1699189355,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 292389,
@@ -1099,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285885,
+      "num": 285885,
+      "word": "在高铁上碰到有人吃榴莲",
+      "onboard_time": 1699188456,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 283923,
       "num": 2381392,
       "word": "孕妇坐夜车清晨地铁晕倒警民合力施救",
       "onboard_time": 1699177833,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283278,
+      "num": 283278,
+      "word": "LNG纯菜",
+      "onboard_time": 1699188456,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 278198,
@@ -1155,14 +1211,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 260781,
-      "num": 331611,
-      "word": "东北大暴雪又来了",
-      "onboard_time": 1699185159,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260427,
       "num": 260427,
       "word": "周饼伦 一边灌饼一边还要接梗",
@@ -1209,14 +1257,6 @@
       "onboard_time": 1699174293,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 252879,
-      "num": 252879,
-      "word": "狼队对战AG",
-      "onboard_time": 1699177592,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 250707,
@@ -1267,12 +1307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240363,
-      "num": 240363,
-      "word": "魏哲鸣 得不到的白月光",
-      "onboard_time": 1699188095,
+      "raw_hot": 241830,
+      "num": 266952,
+      "word": "中国战地女记者陈慧慧已成功撤离",
+      "onboard_time": 1699189894,
       "rank": 34,
-      "category": "剧集"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241107,
+      "num": 293600,
+      "word": "00后问张朝阳考研三战有必要吗",
+      "onboard_time": 1699188395,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 237496,
@@ -1361,6 +1409,14 @@
       "onboard_time": 1699177115,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227581,
+      "num": 227581,
+      "word": "刘诗诗甜感微醺妆",
+      "onboard_time": 1699187976,
+      "rank": 40,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 226469,
@@ -1499,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200988,
+      "num": 200988,
+      "word": "孙千高妹的优雅",
+      "onboard_time": 1699190076,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200338,
       "num": 200338,
       "word": "张艺兴演唱会现编现唱",
@@ -1587,12 +1651,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192815,
-      "num": 192815,
-      "word": "刘诗诗甜感微醺妆",
-      "onboard_time": 1699187976,
-      "rank": 40,
-      "category": "作品衍生,美妆"
+      "raw_hot": 191086,
+      "num": 191086,
+      "word": "又能看到爱豆宋茜了",
+      "onboard_time": 1699190195,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 190697,
@@ -1649,6 +1713,14 @@
       "onboard_time": 1699160433,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183300,
+      "num": 185127,
+      "word": "赛博围棋最抽象的一局",
+      "onboard_time": 1699189956,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 181394,
@@ -1777,6 +1849,14 @@
       "onboard_time": 1699155393,
       "rank": 33,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 162272,
+      "num": 162272,
+      "word": "我们的歌",
+      "onboard_time": 1699190262,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 161411,
@@ -2457,6 +2537,14 @@
       "onboard_time": 1699178670,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54727,
+      "num": 1379330,
+      "word": "揭秘进博会网红巴基斯坦盐灯",
+      "onboard_time": 1699189355,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51004,
