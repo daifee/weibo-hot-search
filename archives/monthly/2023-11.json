@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699184033385,
+  "endTime": 1699187420444,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -369,6 +369,14 @@
       "onboard_time": 1698828391,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2090660,
+      "num": 588748,
+      "word": "杨紫工作室把地砖P弯了",
+      "onboard_time": 1699183715,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2070343,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1698976652,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1179157,
+      "num": 1179157,
+      "word": "内娱可以吃一辈子的剧",
+      "onboard_time": 1699185216,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1178201,
@@ -2427,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643654,
+      "num": 643654,
+      "word": "皇马替樊振东发了Vlog",
+      "onboard_time": 1699184016,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641988,
       "num": 641988,
       "word": "吉林一民警早市卖菜被人偷走手枪",
@@ -2771,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587200,
+      "num": 587200,
+      "word": "龚俊爆改营销号",
+      "onboard_time": 1699185876,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 586529,
       "num": 586529,
       "word": "T1粉丝在场馆外撒盐给T1祈祷",
@@ -2833,6 +2865,22 @@
       "onboard_time": 1698882573,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577886,
+      "num": 577886,
+      "word": "以爱为营正片vs路透",
+      "onboard_time": 1699186235,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 574840,
+      "num": 574840,
+      "word": "刘昊然回应一部手机用五六年",
+      "onboard_time": 1699185399,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 574578,
@@ -3089,14 +3137,6 @@
       "onboard_time": 1699070431,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 531868,
-      "num": 531868,
-      "word": "杨紫工作室把地砖P弯了",
-      "onboard_time": 1699183715,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 530575,
@@ -4947,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356367,
+      "num": 356367,
+      "word": "薛之谦 轻舟已过万重山",
+      "onboard_time": 1699185275,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356266,
       "num": 356266,
       "word": "我在四强很想你",
@@ -5049,6 +5097,14 @@
       "onboard_time": 1698969509,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350239,
+      "num": 350239,
+      "word": "披荆斩棘",
+      "onboard_time": 1698987580,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 350008,
@@ -5387,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329234,
+      "num": 329234,
+      "word": "米勒 全面碾压恭喜T1",
+      "onboard_time": 1699183418,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 328604,
       "num": 1396676,
       "word": "她的十八岁和我一样安静和痛苦吗",
@@ -5617,6 +5681,14 @@
       "onboard_time": 1698909641,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312570,
+      "num": 427823,
+      "word": "二孩妈妈用纸箱装着熟睡的老二接老大",
+      "onboard_time": 1699185335,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312168,
@@ -5857,6 +5929,14 @@
       "onboard_time": 1699023459,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292389,
+      "num": 292389,
+      "word": "甄嬛传时隔13年再团建",
+      "onboard_time": 1699183715,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292005,
@@ -6267,14 +6347,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 272476,
-      "num": 272476,
-      "word": "米勒 全面碾压恭喜T1",
-      "onboard_time": 1699183418,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 272246,
       "num": 272246,
       "word": "梁靖崑1比3林钟勋",
@@ -6425,6 +6497,14 @@
       "onboard_time": 1699019198,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268310,
+      "num": 268310,
+      "word": "漫画公司原来长这样",
+      "onboard_time": 1699184075,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 267996,
@@ -6859,6 +6939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249232,
+      "num": 249232,
+      "word": "薛之谦梅州",
+      "onboard_time": 1699185579,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 249187,
       "num": 249187,
       "word": "也门胡塞武装称向以色列发起打击",
@@ -6873,6 +6961,14 @@
       "onboard_time": 1698815794,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247443,
+      "num": 338026,
+      "word": "韩国将禁止股票卖空直到明年6月",
+      "onboard_time": 1699186661,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 247372,
@@ -7001,6 +7097,14 @@
       "onboard_time": 1699003293,
       "rank": 32,
       "category": "其它"
+    },
+    {
+      "raw_hot": 243403,
+      "num": 331611,
+      "word": "东北大暴雪又来了",
+      "onboard_time": 1699185159,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243161,
@@ -7145,14 +7249,6 @@
       "onboard_time": 1699170629,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237460,
-      "num": 237460,
-      "word": "甄嬛传时隔13年再团建",
-      "onboard_time": 1699183715,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 237414,
@@ -8027,6 +8123,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 210584,
+      "num": 210584,
+      "word": "张小斐白衬衣",
+      "onboard_time": 1699186595,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210519,
       "num": 210519,
       "word": "百胜中国股价大跌15%",
@@ -8243,6 +8347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205764,
+      "num": 205764,
+      "word": "于正何瑞贤合照",
+      "onboard_time": 1699186777,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205729,
       "num": 205729,
       "word": "器官的一天都在做什么",
@@ -8401,14 +8513,6 @@
       "onboard_time": 1699082789,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202441,
-      "num": 202441,
-      "word": "披荆斩棘",
-      "onboard_time": 1698987580,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 202381,
@@ -9099,6 +9203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189319,
+      "num": 189319,
+      "word": "横店影视城侵权武林外传",
+      "onboard_time": 1699184558,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189283,
       "num": 882922,
       "word": "中超大结局",
@@ -9577,14 +9689,6 @@
       "onboard_time": 1698805231,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177773,
-      "num": 177773,
-      "word": "皇马替樊振东发了Vlog",
-      "onboard_time": 1699184016,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 177365,
@@ -10832,6 +10936,14 @@
       "word": "王安宇肉眼可见的憔悴了",
       "onboard_time": 1698880586,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149114,
+      "num": 149114,
+      "word": "朴宰范变膏宰范了",
+      "onboard_time": 1699184258,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -13731,6 +13843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33916,
+      "num": 3061270,
+      "word": "进博会创意产品抢先看",
+      "onboard_time": 1699183536,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33615,
       "num": 33986,
       "word": "三岁宝宝会滚床",
@@ -13881,14 +14001,6 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11156,
-      "num": 3061270,
-      "word": "进博会创意产品抢先看",
-      "onboard_time": 1699183536,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -13930,6 +14042,9 @@
     },
     {
       "word": "#习近平向第六届进博会致信#"
+    },
+    {
+      "word": "#感受中国的开放与自信#"
     }
   ]
 }
