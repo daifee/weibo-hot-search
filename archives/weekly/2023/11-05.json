@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699182805476,
+  "endTime": 1699184033385,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -56,6 +56,14 @@
       "word": "Tarzan 皇子",
       "onboard_time": 1699174532,
       "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 3005329,
+      "num": 3005329,
+      "word": "gala哭了",
+      "onboard_time": 1699182515,
+      "rank": 15,
       "category": "电竞"
     },
     {
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1650872,
+      "num": 1650872,
+      "word": "RNG能不能把gala卡回来",
+      "onboard_time": 1699181974,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1647111,
       "num": 1647111,
       "word": "人机局",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 1464199,
-      "num": 308055,
+      "num": 958396,
       "word": "兄弟们都昏啦",
       "onboard_time": 1699181378,
       "rank": 30,
@@ -233,14 +249,6 @@
       "onboard_time": 1699142065,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1157371,
-      "num": 1157371,
-      "word": "RNG能不能把gala卡回来",
-      "onboard_time": 1699181974,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 1155213,
@@ -355,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 749172,
-      "num": 749172,
-      "word": "gala哭了",
-      "onboard_time": 1699182515,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 745242,
       "num": 745242,
       "word": "JDG与BLG选手观赛LNG",
@@ -401,6 +401,14 @@
       "onboard_time": 1699105118,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 658504,
+      "num": 1079269,
+      "word": "男孩问普京您不会是普京吧",
+      "onboard_time": 1699181078,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 638693,
@@ -475,14 +483,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 555638,
-      "num": 555638,
-      "word": "男孩问普京您不会是普京吧",
-      "onboard_time": 1699181078,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 555634,
       "num": 555634,
       "word": "魏大勋回应今年暑假爆红",
@@ -505,6 +505,14 @@
       "onboard_time": 1699112737,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 531868,
+      "num": 531868,
+      "word": "杨紫工作室把地砖P弯了",
+      "onboard_time": 1699183715,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 528436,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440795,
+      "num": 440795,
+      "word": "Gemini是真的毒啊",
+      "onboard_time": 1699182817,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 440162,
       "num": 440162,
       "word": "张婧仪长眼线",
@@ -763,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389881,
+      "num": 389881,
+      "word": "张钧甯阮经天她在闹他在冷笑",
+      "onboard_time": 1699182275,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 383847,
       "num": 383847,
       "word": "没想到娜扎把辣椒当零食",
@@ -835,6 +859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 348835,
+      "num": 637234,
+      "word": "黑龙江已发布暴雪红色预警",
+      "onboard_time": 1699181199,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345958,
       "num": 384556,
       "word": "莎头",
@@ -883,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 331642,
+      "num": 331642,
+      "word": "李莲花 起风了",
+      "onboard_time": 1699181140,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327211,
       "num": 327211,
       "word": "三把零龙",
@@ -907,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 318559,
+      "num": 318559,
+      "word": "南京网友偶遇张艺兴吃火锅",
+      "onboard_time": 1699183237,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316151,
       "num": 446637,
       "word": "胃胀气就是要舍得饿自己",
@@ -921,22 +969,6 @@
       "onboard_time": 1699166911,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 312562,
-      "num": 308048,
-      "word": "张钧甯阮经天她在闹他在冷笑",
-      "onboard_time": 1699182275,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 311992,
-      "num": 311992,
-      "word": "李莲花 起风了",
-      "onboard_time": 1699181140,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 309379,
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278198,
+      "num": 1972255,
+      "word": "祖孙四代做呱嗒200多年口味不变",
+      "onboard_time": 1699182574,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 276872,
       "num": 276872,
       "word": "虎扑赛后评分",
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272476,
+      "num": 272476,
+      "word": "米勒 全面碾压恭喜T1",
+      "onboard_time": 1699183418,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 271959,
       "num": 271959,
       "word": "娜扎谈琉璃",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1699113454,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263298,
-      "num": 308064,
-      "word": "黑龙江已发布暴雪红色预警",
-      "onboard_time": 1699181199,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260427,
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237460,
+      "num": 237460,
+      "word": "甄嬛传时隔13年再团建",
+      "onboard_time": 1699183715,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237363,
       "num": 477854,
       "word": "秦岚偷听八卦演我本人",
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 231763,
-      "num": 231763,
+      "num": 236433,
       "word": "以军称将提供4小时供加沙平民按指定路线撤离",
       "onboard_time": 1699179947,
       "rank": 48,
@@ -1235,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224268,
+      "num": 224268,
+      "word": "gala说我会回来的",
+      "onboard_time": 1699183661,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "白鹿敖瑞鹏白月梵星开机",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1699105778,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212714,
+      "num": 212714,
+      "word": "一笙在干嘛",
+      "onboard_time": 1699183837,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 212208,
@@ -1371,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194338,
+      "num": 194338,
+      "word": "小米网吧",
+      "onboard_time": 1699183298,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194313,
       "num": 206954,
       "word": "张杰曾经提出给魏大勋制作歌",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1699179273,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190697,
+      "num": 190697,
+      "word": "拯救嫌疑人",
+      "onboard_time": 1699182938,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 190695,
@@ -1435,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182454,
-      "num": 182454,
-      "word": "祖孙四代做呱嗒200多年口味不变",
-      "onboard_time": 1699182574,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 181394,
       "num": 213277,
       "word": "CATTI",
@@ -1457,6 +1529,14 @@
       "onboard_time": 1699162114,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177773,
+      "num": 177773,
+      "word": "皇马替樊振东发了Vlog",
+      "onboard_time": 1699184016,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 175626,
@@ -2305,6 +2385,14 @@
       "onboard_time": 1699125855,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 11156,
+      "num": 3061270,
+      "word": "进博会创意产品抢先看",
+      "onboard_time": 1699183536,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8351,
