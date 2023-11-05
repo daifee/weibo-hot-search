@@ -1,7 +1,23 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699179426197,
+  "endTime": 1699180450993,
   "band_list": [
+    {
+      "raw_hot": 14555476,
+      "num": 14555476,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 9440198,
+      "num": 9440198,
+      "word": "T1晋级S13四强",
+      "onboard_time": 1699179827,
+      "rank": 1,
+      "category": "电竞"
+    },
     {
       "raw_hot": 8084316,
       "num": 9334316,
@@ -43,11 +59,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4591644,
+      "num": 2297416,
+      "word": "Scout 精忠报国",
+      "onboard_time": 1699174115,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 4273103,
       "num": 4273103,
       "word": "BLG战胜GEN",
       "onboard_time": 1699015058,
       "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 3706770,
+      "num": 2252617,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
       "category": "电竞"
     },
     {
@@ -67,11 +99,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 3417051,
-      "num": 3417051,
-      "word": "救救gala",
-      "onboard_time": 1699175250,
-      "rank": 9,
+      "raw_hot": 3513387,
+      "num": 3513387,
+      "word": "LNG 不敢打",
+      "onboard_time": 1699179947,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 3508473,
+      "num": 3508473,
+      "word": "LNG醒醒",
+      "onboard_time": 1699178913,
+      "rank": 7,
       "category": "电竞"
     },
     {
@@ -81,6 +121,14 @@
       "onboard_time": 1699105176,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3282577,
+      "num": 3378459,
+      "word": "Tarzan 皇子",
+      "onboard_time": 1699174532,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 3267930,
@@ -105,6 +153,14 @@
       "onboard_time": 1698813575,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2969153,
+      "num": 2969153,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 2894266,
@@ -235,14 +291,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2252617,
-      "num": 2252617,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 2230925,
       "num": 2230925,
       "word": "湖大冲突事件双方达成谅解",
@@ -283,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2149334,
-      "num": 2149334,
-      "word": "Scout 精忠报国",
-      "onboard_time": 1699174115,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 2123546,
       "num": 1071154,
       "word": "缅甸",
@@ -304,6 +344,14 @@
       "word": "炮车立功",
       "onboard_time": 1699097073,
       "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 2109443,
+      "num": 2109443,
+      "word": "辅助机器人",
+      "onboard_time": 1699175070,
+      "rank": 8,
       "category": "电竞"
     },
     {
@@ -443,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1793996,
-      "num": 1793996,
-      "word": "LNG醒醒",
-      "onboard_time": 1699178913,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1768917,
       "num": 456039,
       "word": "辛巴抖音账号被封禁",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 1725497,
-      "num": 1725497,
+      "num": 2975265,
       "word": "骗子准确说出信息大学生被骗350万",
       "onboard_time": 1699166730,
       "rank": 16,
@@ -827,14 +867,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1361372,
-      "num": 1422267,
-      "word": "Tarzan 皇子",
-      "onboard_time": 1699174532,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1359273,
       "num": 468537,
       "word": "拥有教师编制的他们后悔了",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1698797794,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1157573,
-      "num": 1157573,
-      "word": "管泽元预测",
-      "onboard_time": 1699172609,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 1155213,
@@ -1411,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958227,
+      "num": 958227,
+      "word": "LNG对战T1 比分预测",
+      "onboard_time": 1699148011,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 954845,
       "num": 366049,
       "word": "月经周期短会有什么影响吗",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1698994172,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 893732,
-      "num": 893732,
-      "word": "辅助机器人",
-      "onboard_time": 1699175070,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 892251,
@@ -1724,7 +1748,7 @@
     },
     {
       "raw_hot": 805683,
-      "num": 372587,
+      "num": 462863,
       "word": "我的公积金比老家工资还高",
       "onboard_time": 1699172609,
       "rank": 20,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1698812073,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 745242,
+      "num": 745242,
+      "word": "JDG与BLG选手观赛LNG",
+      "onboard_time": 1699176875,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 742612,
@@ -3116,7 +3148,7 @@
     },
     {
       "raw_hot": 513769,
-      "num": 2647204,
+      "num": 2994603,
       "word": "浙江一中学校长办公室变肠胃外科",
       "onboard_time": 1699165171,
       "rank": 45,
@@ -3404,7 +3436,7 @@
     },
     {
       "raw_hot": 478946,
-      "num": 371721,
+      "num": 447731,
       "word": "月薪五千借钱给儿子买万元电脑",
       "onboard_time": 1699175970,
       "rank": 21,
@@ -3547,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461758,
+      "num": 461758,
+      "word": "WBG获胜",
+      "onboard_time": 1699178856,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 461114,
       "num": 461114,
       "word": "杨幂式保暖穿搭",
@@ -3611,14 +3651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458197,
-      "num": 458197,
-      "word": "JDG与BLG选手观赛LNG",
-      "onboard_time": 1699176875,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 457138,
       "num": 1395935,
       "word": "原来梳头是真的有用",
@@ -3673,6 +3705,14 @@
       "onboard_time": 1698935840,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447627,
+      "num": 447627,
+      "word": "WBG 我们今天都是LNG粉丝",
+      "onboard_time": 1699172130,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 446466,
@@ -4177,14 +4217,6 @@
       "onboard_time": 1698809071,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 407343,
-      "num": 407343,
-      "word": "LNG对战T1 比分预测",
-      "onboard_time": 1699148011,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 405929,
@@ -4811,14 +4843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 357084,
-      "num": 357084,
-      "word": "WBG 我们今天都是LNG粉丝",
-      "onboard_time": 1699172130,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 356541,
       "num": 321040,
       "word": "金莎与男友首个合体综艺",
@@ -5379,6 +5403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318437,
+      "num": 318437,
+      "word": "以爱为营 视角",
+      "onboard_time": 1699179766,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317652,
       "num": 317652,
       "word": "长相思和莲花楼的售后学",
@@ -5852,7 +5884,7 @@
     },
     {
       "raw_hot": 283923,
-      "num": 2160783,
+      "num": 2381392,
       "word": "孕妇坐夜车清晨地铁晕倒警民合力施救",
       "onboard_time": 1699177833,
       "rank": 4,
@@ -6515,6 +6547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254663,
+      "num": 254663,
+      "word": "张颂文 我的演唱会你不来吗",
+      "onboard_time": 1699180241,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254426,
       "num": 254426,
       "word": "以色列巴勒斯坦冲突",
@@ -6849,6 +6889,14 @@
       "onboard_time": 1698818557,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 242573,
+      "num": 242573,
+      "word": "张芷溪说献鱼刚更完就买了版权",
+      "onboard_time": 1699180364,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 242291,
@@ -7593,14 +7641,6 @@
       "onboard_time": 1699009773,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217135,
-      "num": 217135,
-      "word": "WBG获胜",
-      "onboard_time": 1699178856,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 217098,
@@ -8627,6 +8667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193483,
+      "num": 193483,
+      "word": "怜爱GR",
+      "onboard_time": 1699179273,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "被花少这一段真诚打动",
@@ -8955,6 +9003,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 187050,
+      "num": 187050,
+      "word": "归期的狂铁",
+      "onboard_time": 1699179455,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186842,
       "num": 186842,
       "word": "秦岚 我是百灵鸟",
@@ -9137,14 +9193,6 @@
       "onboard_time": 1698992014,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182266,
-      "num": 182266,
-      "word": "怜爱GR",
-      "onboard_time": 1699179273,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 182131,
@@ -9457,6 +9505,14 @@
       "onboard_time": 1699177833,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173374,
+      "num": 173374,
+      "word": "以军称将提供4小时供加沙平民按指定路线撤离",
+      "onboard_time": 1699179947,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 173361,
@@ -10948,7 +11004,7 @@
     },
     {
       "raw_hot": 142178,
-      "num": 2384790,
+      "num": 4513477,
       "word": "一个进口产品浓度超高的地方在中国",
       "onboard_time": 1699154190,
       "rank": 2,
@@ -13163,6 +13219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60068,
+      "num": 463929,
+      "word": "杨紫活动花絮高清图",
+      "onboard_time": 1699178670,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59904,
       "num": 59904,
       "word": "孕妇大出血民警晚高峰13分钟送医",
@@ -13337,14 +13401,6 @@
       "onboard_time": 1698944841,
       "rank": 47,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 43105,
-      "num": 372814,
-      "word": "杨紫活动花絮高清图",
-      "onboard_time": 1699178670,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 42654,

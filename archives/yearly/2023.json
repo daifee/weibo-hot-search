@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1699179426197,
+  "endTime": 1699180450993,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -281,6 +281,14 @@
       "onboard_time": 1691319525,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14555476,
+      "num": 14555476,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 14552118,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1679042309,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 9440198,
+      "num": 9440198,
+      "word": "T1晋级S13四强",
+      "onboard_time": 1699179827,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 9398814,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1696148618,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5962374,
-      "num": 194189,
-      "word": "王思聪与上海打人的34岁王某某年龄不符",
-      "onboard_time": 1673498973,
-      "rank": 43,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 5917785,
-      "num": 510117,
-      "word": "花西子回应发疯",
-      "onboard_time": 1695726278,
-      "rank": 3,
-      "category": "美妆,社会新闻"
     }
   ],
   "hotgov_list": [

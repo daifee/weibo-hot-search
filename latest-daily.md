@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/05 00:20:44 ~ 2023/11/05 18:17:06
+本榜单时间：2023/11/05 00:20:44 ~ 2023/11/05 18:34:10
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,49 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%95%91gala%23" target="weibo">
-救救gala（热度：3417051）
+救救gala（热度：14555476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23" target="weibo">
+T1晋级S13四强（热度：9440198）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD%23" target="weibo">
+Scout 精忠报国（热度：4591644）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+LNG对战T1（热度：3706770）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%20%E4%B8%8D%E6%95%A2%E6%89%93%23" target="weibo">
+LNG 不敢打（热度：3513387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E9%86%92%E9%86%92%23" target="weibo">
+LNG醒醒（热度：3508473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Tarzan%20%E7%9A%87%E5%AD%90%23" target="weibo">
+Tarzan 皇子（热度：3282577）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B%23" target="weibo">
+管泽元预测（热度：2969153）
 </a>
 </li>
 
@@ -27,14 +69,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-LNG对战T1（热度：2252617）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD%23" target="weibo">
-Scout 精忠报国（热度：2149334）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%8A%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%23" target="weibo">
+辅助机器人（热度：2109443）
 </a>
 </li>
 
@@ -47,12 +83,6 @@ Scout 精忠报国（热度：2149334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%83%A8CT%E6%8A%A5%E5%91%8A%E4%B8%AD%E6%9C%89%E4%BA%9B%E5%AD%97%E7%9C%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E7%99%8C%23" target="weibo">
 肺部CT报告中有些字眼可能是癌（热度：1957141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LNG%E9%86%92%E9%86%92%23" target="weibo">
-LNG醒醒（热度：1793996）
 </a>
 </li>
 
@@ -111,12 +141,6 @@ LNG醒醒（热度：1793996）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Tarzan%20%E7%9A%87%E5%AD%90%23" target="weibo">
-Tarzan 皇子（热度：1361372）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E8%A7%A3%E9%87%8A%E5%A6%88%E7%A5%96%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%AF%B4%E8%8B%B1%E8%AF%AD%23" target="weibo">
 刘涛解释妈祖为什么会说英语（热度：1311331）
 </a>
@@ -153,12 +177,6 @@ Tarzan 皇子（热度：1361372）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B%23" target="weibo">
-管泽元预测（热度：1157573）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E5%B8%A6%E5%A2%A8%E9%95%9C%E5%95%8A%23" target="weibo">
 谁家接吻带墨镜啊（热度：1155213）
 </a>
@@ -183,6 +201,12 @@ Tarzan 皇子（热度：1361372）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B%23" target="weibo">
+LNG对战T1 比分预测（热度：958227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 以色列（热度：904045）
 </a>
@@ -191,12 +215,6 @@ Tarzan 皇子（热度：1361372）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23" target="weibo">
 中央气象台连发4个预警（热度：903092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%8A%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%23" target="weibo">
-辅助机器人（热度：893732）
 </a>
 </li>
 
@@ -225,8 +243,20 @@ Tarzan 皇子（热度：1361372）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0LNG%23" target="weibo">
+压力给到LNG（热度：794871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B08%E5%8F%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%80%81%E6%9D%BF%E7%BB%99%E6%88%91%E5%AF%84%E4%BA%86%E4%B8%AA%E8%92%B8%E7%AC%BC%23" target="weibo">
 买8只大闸蟹老板给我寄了个蒸笼（热度：759210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E4%B8%8EBLG%E9%80%89%E6%89%8B%E8%A7%82%E8%B5%9BLNG%23" target="weibo">
+JDG与BLG选手观赛LNG（热度：745242）
 </a>
 </li>
 
@@ -369,6 +399,12 @@ ELLE回应红毯耍大牌（热度：585008）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%20%E5%8E%8B%E5%8A%9B%23" target="weibo">
+T1 压力（热度：488243）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%97%B6%E5%AE%B4%E6%91%98%E7%9C%BC%E9%95%9C%E5%90%BB%23" target="weibo">
 王鹤棣时宴摘眼镜吻（热度：484420）
 </a>
@@ -393,14 +429,20 @@ ELLE回应红毯耍大牌（热度：585008）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E8%8E%B7%E8%83%9C%23" target="weibo">
+WBG获胜（热度：461758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%8F%E4%BF%9D%E6%9A%96%E7%A9%BF%E6%90%AD%23" target="weibo">
 杨幂式保暖穿搭（热度：461114）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23JDG%E4%B8%8EBLG%E9%80%89%E6%89%8B%E8%A7%82%E8%B5%9BLNG%23" target="weibo">
-JDG与BLG选手观赛LNG（热度：458197）
+<a href="https://s.weibo.com/weibo?q=%23WBG%20%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E9%83%BD%E6%98%AFLNG%E7%B2%89%E4%B8%9D%23" target="weibo">
+WBG 我们今天都是LNG粉丝（热度：447627）
 </a>
 </li>
 
@@ -471,12 +513,6 @@ JDG与BLG选手观赛LNG（热度：458197）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B%23" target="weibo">
-LNG对战T1 比分预测（热度：407343）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%96%E5%93%B2%E6%8B%BF%E4%B8%8B%E9%94%80%E5%86%A0%E9%9A%94%E5%91%A8%E7%BB%84%E5%90%88%E8%A7%A3%E6%95%A3%23" target="weibo">
 李玖哲拿下销冠隔周组合解散（热度：396277）
 </a>
@@ -531,12 +567,6 @@ LNG对战T1 比分预测（热度：407343）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%20%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E9%83%BD%E6%98%AFLNG%E7%B2%89%E4%B8%9D%23" target="weibo">
-WBG 我们今天都是LNG粉丝（热度：357084）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8E%E6%B3%A2%E5%B0%94%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E5%A4%9A%E7%89%B9%23" target="weibo">
 樊振东与波尔现场观战多特（热度：353925）
 </a>
@@ -557,12 +587,6 @@ WBG 我们今天都是LNG粉丝（热度：357084）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%23" target="weibo">
 莎头（热度：345958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0LNG%23" target="weibo">
-压力给到LNG（热度：343868）
 </a>
 </li>
 
@@ -609,6 +633,12 @@ T1手握三个赛点（热度：326996）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E8%A7%86%E8%A7%92%23" target="weibo">
+以爱为营 视角（热度：318437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E8%83%80%E6%B0%94%E5%B0%B1%E6%98%AF%E8%A6%81%E8%88%8D%E5%BE%97%E9%A5%BF%E8%87%AA%E5%B7%B1%23" target="weibo">
 胃胀气就是要舍得饿自己（热度：316151）
 </a>
@@ -635,12 +665,6 @@ T1手握三个赛点（热度：326996）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E6%9D%A8%E7%83%81%E5%90%83%E8%98%91%E8%8F%87%23" target="weibo">
 张翰杨烁吃蘑菇（热度：299042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%20%E5%8E%8B%E5%8A%9B%23" target="weibo">
-T1 压力（热度：294562）
 </a>
 </li>
 
@@ -711,6 +735,12 @@ Somi心中最美女爱豆TOP3（热度：256398）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%20%E6%88%91%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BD%A0%E4%B8%8D%E6%9D%A5%E5%90%97%23" target="weibo">
+张颂文 我的演唱会你不来吗（热度：254663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%8D%A4%E7%B4%A0%E5%9D%87%E4%BB%B7%E6%8C%89%E6%96%A4%E5%8D%96%E5%90%88%E7%90%86%E5%90%97%23" target="weibo">
 麻辣烫荤素均价按斤卖合理吗（热度：253591）
 </a>
@@ -743,6 +773,12 @@ Somi心中最美女爱豆TOP3（热度：256398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23" target="weibo">
 迪丽热巴换手机壳庆祝入住大床房（热度：243195）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8A%B7%E6%BA%AA%E8%AF%B4%E7%8C%AE%E9%B1%BC%E5%88%9A%E6%9B%B4%E5%AE%8C%E5%B0%B1%E4%B9%B0%E4%BA%86%E7%89%88%E6%9D%83%23" target="weibo">
+张芷溪说献鱼刚更完就买了版权（热度：242573）
 </a>
 </li>
 
@@ -815,12 +851,6 @@ offer5全员爆料走心局（热度：228331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E5%BF%85%E5%AD%A6%E7%9A%84%E6%85%B5%E6%87%92%E4%BD%8E%E4%B8%B8%E5%AD%90%E5%A4%B4%23" target="weibo">
 秋冬必学的慵懒低丸子头（热度：219343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E8%8E%B7%E8%83%9C%23" target="weibo">
-WBG获胜（热度：217135）
 </a>
 </li>
 
@@ -927,6 +957,12 @@ LPL（热度：199649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%9C%E7%88%B1GR%23" target="weibo">
+怜爱GR（热度：193483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E8%84%B8%E5%92%8C%E8%BA%AB%E6%9D%90%E5%90%84%E8%87%AA%E7%B2%BE%E5%BD%A9%23" target="weibo">
 侯明昊脸和身材各自精彩（热度：190695）
 </a>
@@ -939,14 +975,14 @@ LPL（热度：199649）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%23" target="weibo">
-时空中的绘旅人（热度：184302）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E6%9C%9F%E7%9A%84%E7%8B%82%E9%93%81%23" target="weibo">
+归期的狂铁（热度：187050）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%9C%E7%88%B1GR%23" target="weibo">
-怜爱GR（热度：182266）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%23" target="weibo">
+时空中的绘旅人（热度：184302）
 </a>
 </li>
 
@@ -977,6 +1013,12 @@ CATTI（热度：181394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8F%90%E8%9B%8B%E7%B3%95%E6%89%BE%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%80%E8%B5%B7%E8%BF%8718%E5%B2%81%E7%94%9F%E6%97%A5%23" target="weibo">
 女孩提蛋糕找消防员一起过18岁生日（热度：173621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%B0%86%E6%8F%90%E4%BE%9B4%E5%B0%8F%E6%97%B6%E4%BE%9B%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91%E6%8C%89%E6%8C%87%E5%AE%9A%E8%B7%AF%E7%BA%BF%E6%92%A4%E7%A6%BB%23" target="weibo">
+以军称将提供4小时供加沙平民按指定路线撤离（热度：173374）
 </a>
 </li>
 
@@ -1539,14 +1581,14 @@ e人和i人的拍照区别（热度：89260）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%B8%8D%E6%83%AF%E7%94%84%E5%AC%9B%E4%BC%A0%E5%9B%9B%E7%88%B7%20%E4%BB%8A%E4%B8%8D%E6%83%AF%E9%A2%86%E5%AF%BC%23" target="weibo">
-古不惯甄嬛传四爷 今不惯领导（热度：51004）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B4%BB%E5%8A%A8%E8%8A%B1%E7%B5%AE%E9%AB%98%E6%B8%85%E5%9B%BE%23" target="weibo">
+杨紫活动花絮高清图（热度：60068）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B4%BB%E5%8A%A8%E8%8A%B1%E7%B5%AE%E9%AB%98%E6%B8%85%E5%9B%BE%23" target="weibo">
-杨紫活动花絮高清图（热度：43105）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%B8%8D%E6%83%AF%E7%94%84%E5%AC%9B%E4%BC%A0%E5%9B%9B%E7%88%B7%20%E4%BB%8A%E4%B8%8D%E6%83%AF%E9%A2%86%E5%AF%BC%23" target="weibo">
+古不惯甄嬛传四爷 今不惯领导（热度：51004）
 </a>
 </li>
 
