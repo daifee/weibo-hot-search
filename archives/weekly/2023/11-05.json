@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699148271423,
+  "endTime": 1699151233541,
   "band_list": [
     {
       "raw_hot": 1754968,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1281771,
+      "num": 1281771,
+      "word": "刘涛解释妈祖为什么会说英语",
+      "onboard_time": 1699146330,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1259686,
       "num": 1259686,
       "word": "东北这次强降雪下到发紫",
@@ -43,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1026082,
-      "num": 1026082,
+      "raw_hot": 1041986,
+      "num": 1041986,
       "word": "关晓彤生日被整蛊",
       "onboard_time": 1699142065,
       "rank": 1,
@@ -59,12 +67,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 783149,
-      "num": 783149,
-      "word": "刘涛解释妈祖为什么会说英语",
-      "onboard_time": 1699146330,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 801603,
+      "num": 801603,
+      "word": "中央气象台连发4个预警",
+      "onboard_time": 1699147591,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759210,
+      "num": 759210,
+      "word": "买8只大闸蟹老板给我寄了个蒸笼",
+      "onboard_time": 1699148854,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 716553,
@@ -113,6 +129,14 @@
       "onboard_time": 1699117106,
       "rank": 16,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 539697,
+      "num": 305764,
+      "word": "代入一下关晓彤",
+      "onboard_time": 1699150051,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 534404,
@@ -179,6 +203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396277,
+      "num": 297311,
+      "word": "李玖哲拿下销冠隔周组合解散",
+      "onboard_time": 1699150773,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393634,
+      "num": 393634,
+      "word": "LNG对战T1 比分预测",
+      "onboard_time": 1699148011,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 382605,
       "num": 449618,
       "word": "腹部长赘肉的人都要反思这5个习惯",
@@ -193,14 +233,6 @@
       "onboard_time": 1699108238,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363009,
-      "num": 220637,
-      "word": "LNG对战T1 比分预测",
-      "onboard_time": 1699148011,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 349415,
@@ -227,6 +259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 339734,
+      "num": 339734,
+      "word": "要久久爱首支预告",
+      "onboard_time": 1699150773,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339548,
       "num": 339548,
       "word": "大妈为自拍不慎踩空掉进芦苇荡",
@@ -235,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327167,
+      "num": 284506,
+      "word": "要久久爱",
+      "onboard_time": 1699150710,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316151,
       "num": 446637,
       "word": "胃胀气就是要舍得饿自己",
       "onboard_time": 1699109858,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 316019,
+      "num": 231359,
+      "word": "为什么朋友圈点赞越来越少",
+      "onboard_time": 1699148854,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 294562,
@@ -259,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289365,
-      "num": 289365,
-      "word": "中央气象台连发4个预警",
-      "onboard_time": 1699147591,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270943,
       "num": 447991,
       "word": "原来医院中条纹越多的越厉害",
@@ -281,6 +329,14 @@
       "onboard_time": 1699144530,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 258054,
+      "num": 226821,
+      "word": "秦岚有点大方但不多",
+      "onboard_time": 1699147712,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 256131,
@@ -299,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239308,
+      "num": 239308,
+      "word": "樊振东与波尔现场观战多特",
+      "onboard_time": 1699150773,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237363,
       "num": 477854,
       "word": "秦岚偷听八卦演我本人",
@@ -315,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231384,
+      "num": 231384,
+      "word": "发泡实验 医生口中的不吓人",
+      "onboard_time": 1699148854,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 226469,
       "num": 392121,
       "word": "杨紫白色小吊带",
@@ -329,6 +401,14 @@
       "onboard_time": 1699105778,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206628,
+      "num": 206628,
+      "word": "梦想改造家",
+      "onboard_time": 1699148854,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 202556,
@@ -371,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181925,
-      "num": 220643,
-      "word": "秦岚有点大方但不多",
-      "onboard_time": 1699147712,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 173773,
+      "num": 220641,
+      "word": "谏山创 通通创飞",
+      "onboard_time": 1699146691,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 172382,
@@ -435,14 +515,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 158194,
-      "num": 220641,
-      "word": "谏山创 通通创飞",
-      "onboard_time": 1699146691,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 157049,
       "num": 441870,
       "word": "深夜的海洋到底有多可怕",
@@ -475,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142709,
+      "num": 206588,
+      "word": "香菜藕粉",
+      "onboard_time": 1699149811,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138597,
       "num": 429018,
       "word": "进击的巨人完结篇开播",
       "onboard_time": 1699115489,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137273,
+      "num": 206575,
+      "word": "五月天 抢票",
+      "onboard_time": 1699151128,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 135457,
@@ -651,12 +739,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93212,
+      "num": 220619,
+      "word": "牛牛深夜外出吃自助110找消防帮送客",
+      "onboard_time": 1699148252,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89260,
       "num": 431385,
       "word": "e人和i人的拍照区别",
       "onboard_time": 1699118304,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83100,
+      "num": 206479,
+      "word": "第六届进口博览会",
+      "onboard_time": 1699151071,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80454,
@@ -667,11 +771,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 77572,
-      "num": 220619,
-      "word": "牛牛深夜外出吃自助110找消防帮送客",
-      "onboard_time": 1699148252,
-      "rank": 49,
+      "raw_hot": 80141,
+      "num": 206435,
+      "word": "天冷加衣",
+      "onboard_time": 1699149513,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -788,7 +892,7 @@
     },
     {
       "raw_hot": 20617,
-      "num": 810000,
+      "num": 850483,
       "word": "让看电视更简单消费不套娃",
       "onboard_time": 1699077631,
       "rank": 2,
