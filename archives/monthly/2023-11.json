@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699190300079,
+  "endTime": 1699191259642,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -3603,6 +3603,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 474145,
+      "num": 540401,
+      "word": "中国战地女记者陈慧慧已成功撤离",
+      "onboard_time": 1699189894,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473148,
       "num": 473148,
       "word": "演员一定要用原声吗",
@@ -4235,6 +4243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 415367,
+      "num": 415367,
+      "word": "女子骑车到桥上将孩子推下河",
+      "onboard_time": 1699190316,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414730,
       "num": 919617,
       "word": "胃胀气就是要舍得饿自己",
@@ -4385,6 +4401,14 @@
       "onboard_time": 1698984878,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403780,
+      "num": 403780,
+      "word": "重庆狼队九冠王",
+      "onboard_time": 1699190676,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 403479,
@@ -4843,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373102,
+      "num": 373102,
+      "word": "热依扎扎她",
+      "onboard_time": 1699188935,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372862,
       "num": 245163,
       "word": "我比王鸥本人还关心她的事业",
@@ -5185,6 +5217,14 @@
       "onboard_time": 1699098342,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348663,
+      "num": 348663,
+      "word": "又能看到爱豆宋茜了",
+      "onboard_time": 1699190195,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 348647,
@@ -5755,14 +5795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309787,
-      "num": 309787,
-      "word": "热依扎扎她",
-      "onboard_time": 1699188935,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 309712,
       "num": 309712,
       "word": "周迅王一博学网球",
@@ -5785,6 +5817,14 @@
       "onboard_time": 1698904234,
       "rank": 21,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 308373,
+      "num": 308373,
+      "word": "许凯景甜我要躺你们中间",
+      "onboard_time": 1699189355,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 306258,
@@ -5969,14 +6009,6 @@
       "onboard_time": 1699023459,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 292704,
-      "num": 292704,
-      "word": "许凯景甜我要躺你们中间",
-      "onboard_time": 1699189355,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 292389,
@@ -6499,6 +6531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270751,
+      "num": 319638,
+      "word": "以色列部长声称可对加沙投核弹",
+      "onboard_time": 1699190796,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 270511,
       "num": 270511,
       "word": "ELLE盛典内场嘉宾名单",
@@ -6907,6 +6947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251528,
+      "num": 251528,
+      "word": "过期化妆品还能巧利用",
+      "onboard_time": 1699190736,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 251487,
       "num": 251487,
       "word": "洗发水",
@@ -7193,14 +7241,6 @@
       "onboard_time": 1699004133,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241830,
-      "num": 266952,
-      "word": "中国战地女记者陈慧慧已成功撤离",
-      "onboard_time": 1699189894,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241603,
@@ -7851,6 +7891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223115,
+      "num": 223115,
+      "word": "孙千高妹的优雅",
+      "onboard_time": 1699190076,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222792,
       "num": 222792,
       "word": "贾玲又来支持张小斐了",
@@ -8491,6 +8539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204306,
+      "num": 204306,
+      "word": "我们的歌",
+      "onboard_time": 1699190262,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203572,
       "num": 203572,
       "word": "我要逆风去 老国货",
@@ -8641,14 +8697,6 @@
       "onboard_time": 1698982053,
       "rank": 34,
       "category": "互联网,演出"
-    },
-    {
-      "raw_hot": 200988,
-      "num": 200988,
-      "word": "孙千高妹的优雅",
-      "onboard_time": 1699190076,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200815,
@@ -9129,14 +9177,6 @@
       "onboard_time": 1698830613,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191086,
-      "num": 191086,
-      "word": "又能看到爱豆宋茜了",
-      "onboard_time": 1699190195,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 191062,
@@ -10433,14 +10473,6 @@
       "onboard_time": 1698806609,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162272,
-      "num": 162272,
-      "word": "我们的歌",
-      "onboard_time": 1699190262,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 161898,
@@ -13547,6 +13579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67884,
+      "num": 1379330,
+      "word": "揭秘进博会网红巴基斯坦盐灯",
+      "onboard_time": 1699189355,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67022,
       "num": 243605,
       "word": "端牢中国饭碗的自信与骄傲",
@@ -13713,14 +13753,6 @@
       "onboard_time": 1698987879,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 54727,
-      "num": 1379330,
-      "word": "揭秘进博会网红巴基斯坦盐灯",
-      "onboard_time": 1699189355,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54275,
@@ -14113,6 +14145,14 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9423,
+      "num": 1070154,
+      "word": "第一届全国学青会开幕式",
+      "onboard_time": 1699191097,
+      "rank": 2,
+      "category": "教育,体育"
     }
   ],
   "hotgov_list": [

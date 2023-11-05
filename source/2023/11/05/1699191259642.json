@@ -1,0 +1,410 @@
+{
+  "runTime": 1699191259642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5063737,
+        "num": 5063737,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1642791,
+        "num": 1642791,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9423,
+        "num": 1070154,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1031271,
+        "num": 1031271,
+        "word": "gala哭了",
+        "onboard_time": 1699182515,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 809853,
+        "num": 809853,
+        "word": "T1晋级S13四强",
+        "onboard_time": 1699179827,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 786014,
+        "num": 786014,
+        "word": "刘昊然回应一部手机用五六年",
+        "onboard_time": 1699185399,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544561,
+        "num": 544561,
+        "word": "以爱为营正片vs路透",
+        "onboard_time": 1699186235,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542810,
+        "num": 542810,
+        "word": "Tarzan 皇子",
+        "onboard_time": 1699174532,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 474145,
+        "num": 540401,
+        "word": "中国战地女记者陈慧慧已成功撤离",
+        "onboard_time": 1699189894,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398350,
+        "num": 525596,
+        "word": "韩国将禁止股票卖空直到明年6月",
+        "onboard_time": 1699186661,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1588794,
+        "num": 515384,
+        "word": "杨紫工作室把地砖P弯了",
+        "onboard_time": 1699183715,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575612,
+        "num": 498832,
+        "word": "Scout 精忠报国",
+        "onboard_time": 1699174115,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 496762,
+        "num": 496762,
+        "word": "RNG能不能把gala卡回来",
+        "onboard_time": 1699181974,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 455308,
+        "num": 455308,
+        "word": "宁王",
+        "onboard_time": 1699181020,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 430812,
+        "num": 430812,
+        "word": "狼队对战AG",
+        "onboard_time": 1699177592,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 415367,
+        "num": 415367,
+        "word": "女子骑车到桥上将孩子推下河",
+        "onboard_time": 1699190316,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407889,
+        "num": 407889,
+        "word": "魏哲鸣 得不到的白月光",
+        "onboard_time": 1699188095,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403780,
+        "num": 403780,
+        "word": "重庆狼队九冠王",
+        "onboard_time": 1699190676,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 373102,
+        "num": 373102,
+        "word": "热依扎扎她",
+        "onboard_time": 1699188935,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289385,
+        "num": 364363,
+        "word": "皇马替樊振东发了Vlog",
+        "onboard_time": 1699184016,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364158,
+        "num": 364158,
+        "word": "人机局",
+        "onboard_time": 1699180542,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363690,
+        "num": 363690,
+        "word": "LNG醒醒",
+        "onboard_time": 1699178913,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360294,
+        "num": 360294,
+        "word": "吴建豪戴玉手镯",
+        "onboard_time": 1699174175,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359401,
+        "num": 359401,
+        "word": "管泽元预测",
+        "onboard_time": 1699172609,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 348663,
+        "num": 348663,
+        "word": "又能看到爱豆宋茜了",
+        "onboard_time": 1699190195,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346720,
+        "num": 346720,
+        "word": "兄弟们都昏啦",
+        "onboard_time": 1699181378,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321064,
+        "num": 321064,
+        "word": "我的公积金比老家工资还高",
+        "onboard_time": 1699172609,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270751,
+        "num": 319638,
+        "word": "以色列部长声称可对加沙投核弹",
+        "onboard_time": 1699190796,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 224927,
+        "num": 316604,
+        "word": "男孩问普京您不会是普京吧",
+        "onboard_time": 1699181078,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 223165,
+        "num": 315806,
+        "word": "东北大暴雪又来了",
+        "onboard_time": 1699185159,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67884,
+        "num": 313093,
+        "word": "揭秘进博会网红巴基斯坦盐灯",
+        "onboard_time": 1699189355,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311897,
+        "num": 311897,
+        "word": "辅助机器人",
+        "onboard_time": 1699175070,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308373,
+        "num": 308373,
+        "word": "许凯景甜我要躺你们中间",
+        "onboard_time": 1699189355,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83565,
+        "num": 307684,
+        "word": "黑龙江已发布暴雪红色预警",
+        "onboard_time": 1699181199,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307538,
+        "num": 307538,
+        "word": "LNG 不敢打",
+        "onboard_time": 1699179947,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279669,
+        "num": 279669,
+        "word": "LNG纯菜",
+        "onboard_time": 1699188456,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270849,
+        "num": 270849,
+        "word": "以爱为营 视角",
+        "onboard_time": 1699179766,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215927,
+        "num": 253937,
+        "word": "二孩妈妈用纸箱装着熟睡的老二接老大",
+        "onboard_time": 1699185335,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251528,
+        "num": 251528,
+        "word": "过期化妆品还能巧利用",
+        "onboard_time": 1699190736,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 239076,
+        "num": 239076,
+        "word": "龚俊爆改营销号",
+        "onboard_time": 1699185876,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223115,
+        "num": 223115,
+        "word": "孙千高妹的优雅",
+        "onboard_time": 1699190076,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222718,
+        "num": 222718,
+        "word": "披荆斩棘",
+        "onboard_time": 1699185635,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220457,
+        "num": 220457,
+        "word": "在高铁上碰到有人吃榴莲",
+        "onboard_time": 1699188456,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208455,
+        "num": 208455,
+        "word": "甄嬛传时隔13年再团建",
+        "onboard_time": 1699183715,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204306,
+        "num": 204306,
+        "word": "我们的歌",
+        "onboard_time": 1699190262,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182820,
+        "num": 182820,
+        "word": "张钧甯阮经天她在闹他在冷笑",
+        "onboard_time": 1699182275,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181453,
+        "num": 181453,
+        "word": "米勒 全面碾压恭喜T1",
+        "onboard_time": 1699183418,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178564,
+        "num": 178564,
+        "word": "刘诗诗甜感微醺妆",
+        "onboard_time": 1699187976,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 175097,
+        "num": 175097,
+        "word": "00后问张朝阳考研三战有必要吗",
+        "onboard_time": 1699188395,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170492,
+        "num": 170492,
+        "word": "福原爱或面临2年以上有期徒刑",
+        "onboard_time": 1699157973,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受中国的开放与自信#"
+    }
+  }
+}
