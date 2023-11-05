@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699222554783,
+  "endTime": 1699223641496,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -99,6 +99,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 378252,
+      "num": 64856,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 362890,
       "num": 362890,
       "word": "刘昊然回应一部手机用五六年",
@@ -177,14 +185,6 @@
       "onboard_time": 1699197338,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250704,
-      "num": 64856,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 234562,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129244,
+      "num": 129244,
+      "word": "张钧甯阮经天她在闹他在冷笑",
+      "onboard_time": 1699182275,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123209,
       "num": 123209,
       "word": "顾云峥继承了澹台烬的情丝",
@@ -353,14 +361,6 @@
       "onboard_time": 1699172609,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107682,
-      "num": 107682,
-      "word": "张钧甯阮经天她在闹他在冷笑",
-      "onboard_time": 1699182275,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 101276,
@@ -451,6 +451,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 60873,
+      "num": 46287,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59609,
+      "num": 59609,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58664,
       "num": 66199,
       "word": "皇马替樊振东发了Vlog",
@@ -467,15 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45829,
-      "num": 45829,
-      "word": "在儿童医院牙科工作的治疗犬",
-      "onboard_time": 1699216813,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 44068,
+      "raw_hot": 46509,
       "num": 48727,
       "word": "台媒报道以爱为营",
       "onboard_time": 1699215193,
@@ -483,19 +491,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40906,
-      "num": 37141,
-      "word": "交警向不敢动的铁憨憨们补了句感谢",
-      "onboard_time": 1699219753,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35348,
       "num": 56309,
       "word": "周也吹金粉",
       "onboard_time": 1699191635,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34811,
+      "num": 34811,
+      "word": "潘玮柏想瘦下去太难了",
+      "onboard_time": 1699223117,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -507,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28919,
+      "num": 48679,
+      "word": "哪个大聪明在车顶晒虾",
+      "onboard_time": 1699213215,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25830,
+      "num": 36958,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 23899,
       "num": 56520,
       "word": "进击的巨人 泪如雨下",
@@ -515,28 +539,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 22746,
-      "num": 48679,
-      "word": "哪个大聪明在车顶晒虾",
-      "onboard_time": 1699213215,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22072,
       "num": 48837,
       "word": "这下PPT台风稳了",
       "onboard_time": 1699210336,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20699,
-      "num": 36958,
-      "word": "棉片真的好用嘛",
-      "onboard_time": 1699217833,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 17096,

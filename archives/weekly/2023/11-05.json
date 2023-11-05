@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699222554783,
+  "endTime": 1699223641496,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -1019,6 +1019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 378252,
+      "num": 64856,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 376284,
       "num": 449554,
       "word": "这期的梦想改造家给我看气了",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1699173993,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250704,
-      "num": 64856,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 249232,
@@ -2955,12 +2955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60873,
+      "num": 46287,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60068,
       "num": 463929,
       "word": "杨紫活动花絮高清图",
       "onboard_time": 1699178670,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59609,
+      "num": 59609,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51004,
@@ -2971,15 +2987,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45829,
-      "num": 45829,
-      "word": "在儿童医院牙科工作的治疗犬",
-      "onboard_time": 1699216813,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 44068,
+      "raw_hot": 46509,
       "num": 48727,
       "word": "台媒报道以爱为营",
       "onboard_time": 1699215193,
@@ -2993,14 +3001,6 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40906,
-      "num": 37141,
-      "word": "交警向不敢动的铁憨憨们补了句感谢",
-      "onboard_time": 1699219753,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38495,
@@ -3025,6 +3025,14 @@
       "onboard_time": 1699140260,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34811,
+      "num": 34811,
+      "word": "潘玮柏想瘦下去太难了",
+      "onboard_time": 1699223117,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 34404,
@@ -3059,20 +3067,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28919,
+      "num": 48679,
+      "word": "哪个大聪明在车顶晒虾",
+      "onboard_time": 1699213215,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25830,
+      "num": 36958,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 23899,
       "num": 56520,
       "word": "进击的巨人 泪如雨下",
       "onboard_time": 1699208716,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 22746,
-      "num": 48679,
-      "word": "哪个大聪明在车顶晒虾",
-      "onboard_time": 1699213215,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 22072,
@@ -3089,14 +3105,6 @@
       "onboard_time": 1699077631,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20699,
-      "num": 36958,
-      "word": "棉片真的好用嘛",
-      "onboard_time": 1699217833,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 17862,

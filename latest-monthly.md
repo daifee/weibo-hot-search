@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/06 06:15:54
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/06 06:34:01
 </p>
 </blockquote>
 <p>
@@ -3705,6 +3705,12 @@ TheShy剑魔（热度：379862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
+奥巴马称没有谁的手是干净的（热度：378252）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%94%B7%E7%AB%A5%E9%81%AD%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
 10岁男童遭阿拉斯加犬咬伤（热度：377726）
 </a>
@@ -5393,12 +5399,6 @@ WTT（热度：255451）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E9%80%81%E5%BC%A0%E6%9D%B0%E5%A4%A7%E5%8B%8B%E8%8A%B1%23" target="weibo">
 魏大勋送张杰大勋花（热度：250707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
-奥巴马称没有谁的手是干净的（热度：250704）
 </a>
 </li>
 
