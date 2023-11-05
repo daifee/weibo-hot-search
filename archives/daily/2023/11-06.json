@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699216440397,
+  "endTime": 1699218867384,
   "band_list": [
     {
       "raw_hot": 1704353,
@@ -483,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27268,
+      "raw_hot": 31083,
       "num": 48727,
       "word": "台媒报道以爱为营",
       "onboard_time": 1699215193,
@@ -499,6 +499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 22262,
+      "num": 19701,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22072,
       "num": 48837,
       "word": "这下PPT台风稳了",
@@ -507,7 +515,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19717,
+      "raw_hot": 21898,
       "num": 48679,
       "word": "哪个大聪明在车顶晒虾",
       "onboard_time": 1699213215,
@@ -529,6 +537,14 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13665,
+      "num": 19094,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [

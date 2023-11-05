@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699216440397,
+  "endTime": 1699218867384,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -14403,6 +14403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31083,
+      "num": 48727,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31045,
       "num": 31045,
       "word": "在纽约叫路人男给我买个包",
@@ -14451,14 +14459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27268,
-      "num": 48727,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26279,
       "num": 26279,
       "word": "胡彦斌点出了纪焕博王诗晴在争什么",
@@ -14473,6 +14473,14 @@
       "onboard_time": 1699208716,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22262,
+      "num": 19701,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22179,
@@ -14491,19 +14499,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21898,
+      "num": 48679,
+      "word": "哪个大聪明在车顶晒虾",
+      "onboard_time": 1699213215,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20675,
       "num": 23844,
       "word": "狗狗邀请主人一起玩时的小碎步",
       "onboard_time": 1698955272,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 19717,
-      "num": 48679,
-      "word": "哪个大聪明在车顶晒虾",
-      "onboard_time": 1699213215,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -14569,6 +14577,14 @@
       "onboard_time": 1698949097,
       "rank": 49,
       "category": "作品衍生,教育"
+    },
+    {
+      "raw_hot": 13665,
+      "num": 19094,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 13148,
