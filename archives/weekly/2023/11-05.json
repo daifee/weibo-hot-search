@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699173265032,
+  "endTime": 1699175734656,
   "band_list": [
     {
       "raw_hot": 2771692,
@@ -35,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1750552,
+      "num": 656957,
+      "word": "吴建豪戴玉手镯",
+      "onboard_time": 1699174175,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1725497,
+      "num": 1725497,
+      "word": "骗子准确说出信息大学生被骗350万",
+      "onboard_time": 1699166730,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1699357,
       "num": 1699357,
       "word": "李善均承认吸毒",
       "onboard_time": 1699151790,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1693954,
-      "num": 1693954,
-      "word": "骗子准确说出信息大学生被骗350万",
-      "onboard_time": 1699166730,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1620546,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1292409,
+      "num": 958018,
+      "word": "Scout 精忠报国",
+      "onboard_time": 1699174115,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1284650,
       "num": 1284650,
       "word": "李佳航 LPL热血难凉",
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1164191,
+      "num": 1164191,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1155213,
       "num": 1155213,
       "word": "谁家接吻带墨镜啊",
@@ -161,6 +185,14 @@
       "onboard_time": 1699156831,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922516,
+      "num": 922516,
+      "word": "导演答应白鹿不用大灯",
+      "onboard_time": 1699174532,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 904045,
@@ -203,12 +235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 805683,
+      "num": 305371,
+      "word": "我的公积金比老家工资还高",
+      "onboard_time": 1699172609,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 759210,
       "num": 759210,
       "word": "买8只大闸蟹老板给我寄了个蒸笼",
       "onboard_time": 1699148854,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 743915,
+      "num": 820597,
+      "word": "Tarzan 皇子",
+      "onboard_time": 1699174532,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 739488,
@@ -227,6 +275,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 711864,
+      "num": 711864,
+      "word": "辅助机器人",
+      "onboard_time": 1699175070,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 700121,
       "num": 700121,
       "word": "肖战给李健演唱会送花篮",
@@ -235,20 +291,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 694875,
-      "num": 280347,
-      "word": "我的公积金比老家工资还高",
-      "onboard_time": 1699172609,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 676801,
       "num": 676801,
       "word": "李佳琦公司招商专员收好处费超百万",
       "onboard_time": 1699105118,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 663276,
+      "num": 663276,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 638693,
@@ -265,6 +321,14 @@
       "onboard_time": 1699142125,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 619673,
+      "num": 619673,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 619238,
@@ -355,12 +419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 525836,
-      "num": 213455,
-      "word": "管泽元预测",
-      "onboard_time": 1699172609,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 521567,
+      "num": 521567,
+      "word": "王力宏喝北京豆汁儿",
+      "onboard_time": 1699172252,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 514060,
@@ -409,14 +473,6 @@
       "onboard_time": 1699157251,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 464995,
-      "num": 464995,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 442572,
@@ -547,6 +603,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 379014,
+      "num": 379014,
+      "word": "张婧仪长眼线",
+      "onboard_time": 1699174232,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 376284,
       "num": 449554,
       "word": "这期的梦想改造家给我看气了",
@@ -577,6 +641,14 @@
       "onboard_time": 1699160673,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 357084,
+      "num": 357084,
+      "word": "WBG 我们今天都是LNG粉丝",
+      "onboard_time": 1699172130,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 353925,
@@ -665,14 +737,6 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 322877,
-      "num": 322877,
-      "word": "王力宏喝北京豆汁儿",
-      "onboard_time": 1699172252,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 316151,
@@ -795,20 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253591,
+      "num": 253591,
+      "word": "麻辣烫荤素均价按斤卖合理吗",
+      "onboard_time": 1699174293,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 250707,
+      "num": 250707,
+      "word": "魏大勋送张杰大勋花",
+      "onboard_time": 1699173993,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243195,
       "num": 393851,
       "word": "迪丽热巴换手机壳庆祝入住大床房",
       "onboard_time": 1699079373,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242519,
-      "num": 242519,
-      "word": "WBG 我们今天都是LNG粉丝",
-      "onboard_time": 1699172130,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 237496,
@@ -1139,6 +1211,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 161411,
+      "num": 161411,
+      "word": "文俊辉直播",
+      "onboard_time": 1699174056,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160601,
       "num": 452013,
       "word": "周也穿的是姐姐设计的衣服",
@@ -1259,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143360,
+      "num": 143360,
+      "word": "Scout对战Faker",
+      "onboard_time": 1699175429,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142794,
       "num": 214828,
       "word": "我要是住这房子不敢想有多快乐",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1699149811,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142270,
+      "num": 143660,
+      "word": "女孩身上6个伤疤同寻人启事一致",
+      "onboard_time": 1699175489,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142178,
@@ -1323,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132763,
+      "num": 132763,
+      "word": "90秒顾云峥骗人大赏",
+      "onboard_time": 1699175010,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131799,
       "num": 435367,
       "word": "Ruler全球总决赛登场排名第三",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1699167868,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127716,
+      "num": 127716,
+      "word": "学青会舞台任青春绽放",
+      "onboard_time": 1699174830,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 127110,

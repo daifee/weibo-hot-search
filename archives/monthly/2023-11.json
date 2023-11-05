@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699173265032,
+  "endTime": 1699175734656,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -443,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1750552,
+      "num": 656957,
+      "word": "吴建豪戴玉手镯",
+      "onboard_time": 1699174175,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1749239,
       "num": 1749239,
       "word": "联合国称缅北数百人越境逃入中国",
       "onboard_time": 1699089751,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1725497,
+      "num": 1725497,
+      "word": "骗子准确说出信息大学生被骗350万",
+      "onboard_time": 1699166730,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1713385,
@@ -489,14 +505,6 @@
       "onboard_time": 1698911915,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1693954,
-      "num": 1693954,
-      "word": "骗子准确说出信息大学生被骗350万",
-      "onboard_time": 1699166730,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1691802,
@@ -843,6 +851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1292409,
+      "num": 958018,
+      "word": "Scout 精忠报国",
+      "onboard_time": 1699174115,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1289271,
       "num": 1289271,
       "word": "原来时宴是雪姨和陆振华生的",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1699073613,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1164191,
+      "num": 1164191,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 1157889,
@@ -1379,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 922516,
+      "num": 922516,
+      "word": "导演答应白鹿不用大灯",
+      "onboard_time": 1699174532,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 903092,
       "num": 903092,
       "word": "中央气象台连发4个预警",
@@ -1651,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 805683,
+      "num": 305371,
+      "word": "我的公积金比老家工资还高",
+      "onboard_time": 1699172609,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 805201,
       "num": 805201,
       "word": "丫丫最近一直都在笑",
@@ -1883,6 +1923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 743915,
+      "num": 820597,
+      "word": "Tarzan 皇子",
+      "onboard_time": 1699174532,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 742612,
       "num": 723114,
       "word": "女婴被投喂3颗阳光玫瑰致肠梗阻",
@@ -2067,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711864,
+      "num": 711864,
+      "word": "辅助机器人",
+      "onboard_time": 1699175070,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 709221,
       "num": 1078707,
       "word": "4家邻居8年几乎处成1家人",
@@ -2121,14 +2177,6 @@
       "onboard_time": 1698816515,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 694875,
-      "num": 280347,
-      "word": "我的公积金比老家工资还高",
-      "onboard_time": 1699172609,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 689967,
@@ -2209,6 +2257,14 @@
       "onboard_time": 1699092210,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663276,
+      "num": 663276,
+      "word": "救救gala",
+      "onboard_time": 1699175250,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 663003,
@@ -2377,6 +2433,14 @@
       "onboard_time": 1699065511,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 619673,
+      "num": 619673,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 619238,
@@ -2963,14 +3027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 525836,
-      "num": 213455,
-      "word": "管泽元预测",
-      "onboard_time": 1699172609,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 524289,
       "num": 524289,
       "word": "为有暗香来结局",
@@ -2985,6 +3041,14 @@
       "onboard_time": 1698843154,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 521567,
+      "num": 521567,
+      "word": "王力宏喝北京豆汁儿",
+      "onboard_time": 1699172252,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 521478,
@@ -3433,14 +3497,6 @@
       "onboard_time": 1698969149,
       "rank": 6,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 464995,
-      "num": 464995,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 463097,
@@ -4467,6 +4523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 379014,
+      "num": 379014,
+      "word": "张婧仪长眼线",
+      "onboard_time": 1699174232,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 378413,
       "num": 378413,
       "word": "杨紫 导演都是这么骗人的",
@@ -4705,6 +4769,14 @@
       "onboard_time": 1699035319,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 357084,
+      "num": 357084,
+      "word": "WBG 我们今天都是LNG粉丝",
+      "onboard_time": 1699172130,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 356541,
@@ -5193,14 +5265,6 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 322877,
-      "num": 322877,
-      "word": "王力宏喝北京豆汁儿",
-      "onboard_time": 1699172252,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 322435,
@@ -6427,6 +6491,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 253591,
+      "num": 253591,
+      "word": "麻辣烫荤素均价按斤卖合理吗",
+      "onboard_time": 1699174293,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 252697,
       "num": 252697,
       "word": "澹台烬廿白羽重生还是上下级",
@@ -6465,6 +6537,14 @@
       "onboard_time": 1698900159,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250707,
+      "num": 250707,
+      "word": "魏大勋送张杰大勋花",
+      "onboard_time": 1699173993,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 250634,
@@ -6681,14 +6761,6 @@
       "onboard_time": 1698818557,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 242519,
-      "num": 242519,
-      "word": "WBG 我们今天都是LNG粉丝",
-      "onboard_time": 1699172130,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 242291,
@@ -9763,6 +9835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161411,
+      "num": 161411,
+      "word": "文俊辉直播",
+      "onboard_time": 1699174056,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161262,
       "num": 161262,
       "word": "在以前女性是如何解决月经问题的",
@@ -10635,6 +10715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143360,
+      "num": 143360,
+      "word": "Scout对战Faker",
+      "onboard_time": 1699175429,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143194,
       "num": 143194,
       "word": "交警找回手机后婉拒大姐酬谢",
@@ -10689,6 +10777,14 @@
       "onboard_time": 1698916891,
       "rank": 41,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 142270,
+      "num": 143660,
+      "word": "女孩身上6个伤疤同寻人启事一致",
+      "onboard_time": 1699175489,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142178,
@@ -11115,6 +11211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132763,
+      "num": 132763,
+      "word": "90秒顾云峥骗人大赏",
+      "onboard_time": 1699175010,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132674,
       "num": 811208,
       "word": "原神4.2版本直播",
@@ -11345,6 +11449,14 @@
       "onboard_time": 1698799594,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127716,
+      "num": 127716,
+      "word": "学青会舞台任青春绽放",
+      "onboard_time": 1699174830,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 127688,

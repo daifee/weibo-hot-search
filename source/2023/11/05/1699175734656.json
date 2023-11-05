@@ -1,0 +1,410 @@
+{
+  "runTime": 1699175734656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1725497,
+        "num": 1725497,
+        "word": "骗子准确说出信息大学生被骗350万",
+        "onboard_time": 1699166730,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164191,
+        "num": 1164191,
+        "word": "LNG对战T1",
+        "onboard_time": 1699169132,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56808,
+        "num": 987533,
+        "word": "一个进口产品浓度超高的地方在中国",
+        "onboard_time": 1699154190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292409,
+        "num": 958018,
+        "word": "Scout 精忠报国",
+        "onboard_time": 1699174115,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 922516,
+        "num": 922516,
+        "word": "导演答应白鹿不用大灯",
+        "onboard_time": 1699174532,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 894699,
+        "num": 894699,
+        "word": "福原爱或面临2年以上有期徒刑",
+        "onboard_time": 1699157973,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 743915,
+        "num": 820597,
+        "word": "Tarzan 皇子",
+        "onboard_time": 1699174532,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 717163,
+        "num": 717163,
+        "word": "江歌妈妈一句话概括拯救嫌疑人",
+        "onboard_time": 1699168652,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 711864,
+        "num": 711864,
+        "word": "辅助机器人",
+        "onboard_time": 1699175070,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 663276,
+        "num": 663276,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1750552,
+        "num": 656957,
+        "word": "吴建豪戴玉手镯",
+        "onboard_time": 1699174175,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628194,
+        "num": 628194,
+        "word": "谁家接吻戴墨镜啊",
+        "onboard_time": 1699158995,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619673,
+        "num": 619673,
+        "word": "管泽元预测",
+        "onboard_time": 1699172609,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 538603,
+        "num": 538603,
+        "word": "官方通报公职人员猥亵女孩行拘9天",
+        "onboard_time": 1699171533,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521567,
+        "num": 521567,
+        "word": "王力宏喝北京豆汁儿",
+        "onboard_time": 1699172252,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476283,
+        "num": 476283,
+        "word": "南京暴雨 萧敬腾从不失手",
+        "onboard_time": 1699166610,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379014,
+        "num": 379014,
+        "word": "张婧仪长眼线",
+        "onboard_time": 1699174232,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 360386,
+        "num": 360386,
+        "word": "T1粉丝在场馆外撒盐给T1祈祷",
+        "onboard_time": 1699170029,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357084,
+        "num": 357084,
+        "word": "WBG 我们今天都是LNG粉丝",
+        "onboard_time": 1699172130,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184769,
+        "num": 316937,
+        "word": "浙江一中学校长办公室变肠胃外科",
+        "onboard_time": 1699165171,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805683,
+        "num": 305371,
+        "word": "我的公积金比老家工资还高",
+        "onboard_time": 1699172609,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288955,
+        "num": 288955,
+        "word": "李佳航 LPL热血难凉",
+        "onboard_time": 1699164754,
+        "rank": 21,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 270312,
+        "num": 270312,
+        "word": "裴行俭居然有亡妻",
+        "onboard_time": 1699168292,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255744,
+        "num": 255744,
+        "word": "张艺兴瑶一瑶一起吃宵夜",
+        "onboard_time": 1699170755,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253591,
+        "num": 253591,
+        "word": "麻辣烫荤素均价按斤卖合理吗",
+        "onboard_time": 1699174293,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250707,
+        "num": 250707,
+        "word": "魏大勋送张杰大勋花",
+        "onboard_time": 1699173993,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247557,
+        "num": 247557,
+        "word": "俞灏明被说丑悲伤离场",
+        "onboard_time": 1699156831,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231763,
+        "num": 231763,
+        "word": "LNG对战T1 比分预测",
+        "onboard_time": 1699148011,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229050,
+        "num": 229050,
+        "word": "马立奥 像大明星一样",
+        "onboard_time": 1699169252,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50844,
+        "num": 203458,
+        "word": "孙颖莎王楚钦无缘单打决赛",
+        "onboard_time": 1699155572,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194197,
+        "num": 194197,
+        "word": "以色列",
+        "onboard_time": 1699163791,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182381,
+        "num": 182381,
+        "word": "成毅带着莲花楼组双11合体",
+        "onboard_time": 1699172969,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182287,
+        "num": 182287,
+        "word": "肺部CT报告中有些字眼可能是癌",
+        "onboard_time": 1699154070,
+        "rank": 32,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 181237,
+        "num": 181237,
+        "word": "韩国的婴儿车里都是小狗",
+        "onboard_time": 1699168230,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139286,
+        "num": 167550,
+        "word": "男子跑步成瘾留5岁女儿在车内数小时",
+        "onboard_time": 1699162713,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138300,
+        "num": 162391,
+        "word": "男子突发心梗父亲接医院电话以为是诈骗",
+        "onboard_time": 1699169430,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161411,
+        "num": 161411,
+        "word": "文俊辉直播",
+        "onboard_time": 1699174056,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154062,
+        "num": 154062,
+        "word": "张翰杨烁吃蘑菇",
+        "onboard_time": 1699169009,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144134,
+        "num": 144134,
+        "word": "易烊千玺加盟双11惊喜夜",
+        "onboard_time": 1699169792,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142270,
+        "num": 143660,
+        "word": "女孩身上6个伤疤同寻人启事一致",
+        "onboard_time": 1699175489,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143626,
+        "num": 143626,
+        "word": "Somi心中最美女爱豆TOP3",
+        "onboard_time": 1699169853,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143360,
+        "num": 143360,
+        "word": "Scout对战Faker",
+        "onboard_time": 1699175429,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137424,
+        "num": 137424,
+        "word": "肖战李健怎么认识的",
+        "onboard_time": 1699166073,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135492,
+        "num": 135492,
+        "word": "压力给到LNG",
+        "onboard_time": 1699091370,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134274,
+        "num": 134274,
+        "word": "代入一下关晓彤",
+        "onboard_time": 1699150051,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132763,
+        "num": 132763,
+        "word": "90秒顾云峥骗人大赏",
+        "onboard_time": 1699175010,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129635,
+        "num": 129635,
+        "word": "皮肤科医生的护肤品购买指南",
+        "onboard_time": 1699171890,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127716,
+        "num": 127716,
+        "word": "学青会舞台任青春绽放",
+        "onboard_time": 1699174830,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 126161,
+        "num": 126161,
+        "word": "章昊RICKY直播",
+        "onboard_time": 1699170629,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123616,
+        "num": 123616,
+        "word": "T1 压力",
+        "onboard_time": 1699097261,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席历届进博会讲话金句#"
+    }
+  }
+}
