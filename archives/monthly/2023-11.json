@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699218867384,
+  "endTime": 1699220052639,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -14395,20 +14395,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 32583,
+      "num": 48727,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31649,
       "num": 423301,
       "word": "2023暴雪嘉年华",
       "onboard_time": 1699121719,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31083,
-      "num": 48727,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 31045,
@@ -14475,12 +14475,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 22262,
-      "num": 19701,
+      "raw_hot": 23275,
+      "num": 32393,
       "word": "在儿童医院牙科工作的治疗犬",
       "onboard_time": 1699216813,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 22746,
+      "num": 48679,
+      "word": "哪个大聪明在车顶晒虾",
+      "onboard_time": 1699213215,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 22179,
@@ -14496,14 +14504,6 @@
       "word": "这下PPT台风稳了",
       "onboard_time": 1699210336,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 21898,
-      "num": 48679,
-      "word": "哪个大聪明在车顶晒虾",
-      "onboard_time": 1699213215,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -14555,6 +14555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15113,
+      "num": 32300,
+      "word": "棉片真的好用嘛",
+      "onboard_time": 1699217833,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 15013,
+      "num": 32289,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14899,
       "num": 22833,
       "word": "人活的是几个瞬间",
@@ -14577,14 +14593,6 @@
       "onboard_time": 1698949097,
       "rank": 49,
       "category": "作品衍生,教育"
-    },
-    {
-      "raw_hot": 13665,
-      "num": 19094,
-      "word": "棉片真的好用嘛",
-      "onboard_time": 1699217833,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 13148,
