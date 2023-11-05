@@ -1,0 +1,410 @@
+{
+  "runTime": 1699155256787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1866883,
+        "num": 1866883,
+        "word": "五月天 抢票",
+        "onboard_time": 1699151128,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1691523,
+        "num": 1691523,
+        "word": "李善均承认吸毒",
+        "onboard_time": 1699151790,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142178,
+        "num": 1263335,
+        "word": "一个进口产品浓度超高的地方在中国",
+        "onboard_time": 1699154190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181091,
+        "num": 1181091,
+        "word": "李佳航 意难平",
+        "onboard_time": 1699152993,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1024397,
+        "num": 1024397,
+        "word": "关晓彤生日被整蛊",
+        "onboard_time": 1699142065,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 914454,
+        "num": 914454,
+        "word": "刘涛解释妈祖为什么会说英语",
+        "onboard_time": 1699146330,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619238,
+        "num": 619238,
+        "word": "睡眠不好等于在身体内养毒",
+        "onboard_time": 1699151850,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 569436,
+        "num": 569436,
+        "word": "中央气象台连发4个预警",
+        "onboard_time": 1699147591,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555197,
+        "num": 555197,
+        "word": "要久久爱",
+        "onboard_time": 1699150710,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422799,
+        "num": 555045,
+        "word": "美媒曝布林肯将敦促以色列暂停袭击",
+        "onboard_time": 1699151489,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1620546,
+        "num": 551689,
+        "word": "五月天上海 是谁命里有票",
+        "onboard_time": 1699154253,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 623502,
+        "num": 550197,
+        "word": "代入一下关晓彤",
+        "onboard_time": 1699150051,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566533,
+        "num": 547603,
+        "word": "肺部CT报告中有些字眼可能是癌",
+        "onboard_time": 1699154070,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547420,
+        "num": 547420,
+        "word": "买8只大闸蟹老板给我寄了个蒸笼",
+        "onboard_time": 1699148854,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423909,
+        "num": 423909,
+        "word": "超市老板猥亵14岁小女孩被行拘9日",
+        "onboard_time": 1699140440,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338988,
+        "num": 338988,
+        "word": "以爱为营 PPT转场",
+        "onboard_time": 1699152210,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331878,
+        "num": 331878,
+        "word": "粉笔模考",
+        "onboard_time": 1699154431,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308724,
+        "num": 308724,
+        "word": "没想到娜扎把辣椒当零食",
+        "onboard_time": 1699151850,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296443,
+        "num": 296443,
+        "word": "周也卢昱晓胡连馨合照",
+        "onboard_time": 1699154012,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276264,
+        "num": 276264,
+        "word": "LNG对战T1 比分预测",
+        "onboard_time": 1699148011,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278212,
+        "num": 276256,
+        "word": "李玖哲拿下销冠隔周组合解散",
+        "onboard_time": 1699150773,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272841,
+        "num": 272841,
+        "word": "因为魏大勋买了大勋花",
+        "onboard_time": 1699154551,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 258599,
+        "num": 258599,
+        "word": "东北这次强降雪下到发紫",
+        "onboard_time": 1699114111,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257945,
+        "num": 257945,
+        "word": "为什么朋友圈点赞越来越少",
+        "onboard_time": 1699148854,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213182,
+        "num": 213182,
+        "word": "李佳琦公司回应员工收百万好处费",
+        "onboard_time": 1699142125,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212874,
+        "num": 212874,
+        "word": "樊振东与波尔现场观战多特",
+        "onboard_time": 1699150773,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180232,
+        "num": 212872,
+        "word": "秦岚有点大方但不多",
+        "onboard_time": 1699147712,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179031,
+        "num": 212872,
+        "word": "秋冬必学的慵懒低丸子头",
+        "onboard_time": 1699151310,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178790,
+        "num": 212869,
+        "word": "作家周涛突发心梗去世",
+        "onboard_time": 1699141164,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 163607,
+        "num": 212868,
+        "word": "艾伦三笠 最后一吻",
+        "onboard_time": 1699142969,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142436,
+        "num": 212866,
+        "word": "女子全麻术后被好友轮流拿喇叭叫醒",
+        "onboard_time": 1699141164,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131588,
+        "num": 212865,
+        "word": "发泡实验 医生口中的不吓人",
+        "onboard_time": 1699148854,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131469,
+        "num": 212862,
+        "word": "张靓颖半透明蓝色纱裙",
+        "onboard_time": 1699153772,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123050,
+        "num": 212862,
+        "word": "香菜藕粉",
+        "onboard_time": 1699149811,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113733,
+        "num": 212859,
+        "word": "谏山创 通通创飞",
+        "onboard_time": 1699146691,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104734,
+        "num": 212856,
+        "word": "派出所举办被盗财物返还仪式村民笑得合不拢嘴",
+        "onboard_time": 1699152750,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104490,
+        "num": 212856,
+        "word": "毛毛姐称直播间手机被调包成模型机",
+        "onboard_time": 1699142548,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 89993,
+        "num": 212854,
+        "word": "郑书意时宴的朋友圈",
+        "onboard_time": 1699143628,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89829,
+        "num": 212853,
+        "word": "腹部长赘肉的人都要反思这5个习惯",
+        "onboard_time": 1699105296,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 81468,
+        "num": 212849,
+        "word": "原来医院中条纹越多的越厉害",
+        "onboard_time": 1699113454,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80540,
+        "num": 212849,
+        "word": "李荣浩看见这个灯牌差点唱笑场",
+        "onboard_time": 1699146633,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80078,
+        "num": 212847,
+        "word": "妹妹一开口就是顶级嘲讽",
+        "onboard_time": 1699155092,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79956,
+        "num": 212844,
+        "word": "尼泊尔地震已致157人死亡",
+        "onboard_time": 1699145250,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78898,
+        "num": 212842,
+        "word": "挖机师傅遇老人填土20分钟帮填平",
+        "onboard_time": 1699153110,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77392,
+        "num": 212842,
+        "word": "凯恩帽子戏法",
+        "onboard_time": 1699154673,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76899,
+        "num": 212841,
+        "word": "梦想改造家",
+        "onboard_time": 1699148854,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75297,
+        "num": 212838,
+        "word": "周饼伦 一边灌饼一边还要接梗",
+        "onboard_time": 1699144530,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71661,
+        "num": 212837,
+        "word": "要久久爱首支预告",
+        "onboard_time": 1699150773,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65770,
+        "num": 212835,
+        "word": "薛之谦红色挑染",
+        "onboard_time": 1699154190,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65618,
+        "num": 212833,
+        "word": "可能触发深海恐惧症的照片",
+        "onboard_time": 1699151489,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对外开放的大门不会关闭只会越开越大#"
+    }
+  }
+}
