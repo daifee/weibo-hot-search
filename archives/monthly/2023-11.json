@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699172406044,
+  "endTime": 1699173265032,
   "band_list": [
     {
       "raw_hot": 8084316,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1693954,
+      "num": 1693954,
+      "word": "骗子准确说出信息大学生被骗350万",
+      "onboard_time": 1699166730,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1691802,
       "num": 1607856,
       "word": "康师傅涨价",
@@ -761,14 +769,6 @@
       "onboard_time": 1699097261,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1372407,
-      "num": 1372407,
-      "word": "骗子准确说出信息大学生被骗350万",
-      "onboard_time": 1699166730,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1367889,
@@ -1899,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739488,
+      "num": 739488,
+      "word": "江歌妈妈一句话概括拯救嫌疑人",
+      "onboard_time": 1699168652,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 739020,
       "num": 302450,
       "word": "月薪两万一年的护肤花费58.3元",
@@ -2115,6 +2123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 694875,
+      "num": 280347,
+      "word": "我的公积金比老家工资还高",
+      "onboard_time": 1699172609,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 689967,
       "num": 689967,
       "word": "女教师辞职拍飞机6年拍几十万张",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1699142125,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 630225,
-      "num": 630225,
-      "word": "江歌妈妈一句话概括拯救嫌疑人",
-      "onboard_time": 1699168652,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 627613,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1698829896,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602599,
+      "num": 602599,
+      "word": "官方通报公职人员猥亵女孩行拘9天",
+      "onboard_time": 1699171533,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601417,
@@ -2945,6 +2961,14 @@
       "onboard_time": 1698829413,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525836,
+      "num": 213455,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 524289,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1698969149,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 464995,
+      "num": 464995,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 463097,
@@ -4947,14 +4979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338991,
-      "num": 338991,
-      "word": "官方通报公职人员猥亵女孩行拘9天",
-      "onboard_time": 1699171533,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338988,
       "num": 338988,
       "word": "以爱为营 PPT转场",
@@ -5049,14 +5073,6 @@
       "onboard_time": 1698790035,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333931,
-      "num": 333931,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 333427,
@@ -5177,6 +5193,14 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322877,
+      "num": 322877,
+      "word": "王力宏喝北京豆汁儿",
+      "onboard_time": 1699172252,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 322435,
@@ -5467,6 +5491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 299042,
+      "num": 299042,
+      "word": "张翰杨烁吃蘑菇",
+      "onboard_time": 1699169009,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298784,
       "num": 298784,
       "word": "周奇墨 脱口秀的根还是在线下",
@@ -5481,14 +5513,6 @@
       "onboard_time": 1698800015,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297480,
-      "num": 297480,
-      "word": "张翰杨烁吃蘑菇",
-      "onboard_time": 1699169009,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 296915,
@@ -5872,6 +5896,14 @@
       "word": "王安宇胡先煦一个比一个有安全感",
       "onboard_time": 1699063171,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 275501,
+      "num": 275501,
+      "word": "成毅带着莲花楼组双11合体",
+      "onboard_time": 1699172969,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -6651,6 +6683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 242519,
+      "num": 242519,
+      "word": "WBG 我们今天都是LNG粉丝",
+      "onboard_time": 1699172130,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242291,
       "num": 242291,
       "word": "张译第一次看无价之宝剧本就哭了",
@@ -7148,7 +7188,7 @@
     },
     {
       "raw_hot": 225706,
-      "num": 160979,
+      "num": 218666,
       "word": "皮肤科医生的护肤品购买指南",
       "onboard_time": 1699171890,
       "rank": 30,
@@ -10323,14 +10363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148590,
-      "num": 148590,
-      "word": "WBG 我们今天都是LNG粉丝",
-      "onboard_time": 1699172130,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148558,
       "num": 200240,
       "word": "BLG手握三个赛点",
@@ -10489,14 +10521,6 @@
       "onboard_time": 1699068512,
       "rank": 31,
       "category": "幽默,剧集"
-    },
-    {
-      "raw_hot": 146228,
-      "num": 146228,
-      "word": "王力宏喝北京豆汁儿",
-      "onboard_time": 1699172252,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 146077,
@@ -10769,6 +10793,14 @@
       "onboard_time": 1699061070,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138855,
+      "num": 138855,
+      "word": "揭秘个人信息贩卖的黑产链条",
+      "onboard_time": 1699172430,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138854,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699173265032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1693954,
+        "num": 1693954,
+        "word": "骗子准确说出信息大学生被骗350万",
+        "onboard_time": 1699166730,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1353110,
+        "num": 1353110,
+        "word": "福原爱或面临2年以上有期徒刑",
+        "onboard_time": 1699157973,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71371,
+        "num": 1001513,
+        "word": "一个进口产品浓度超高的地方在中国",
+        "onboard_time": 1699154190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923802,
+        "num": 923802,
+        "word": "南京暴雨 萧敬腾从不失手",
+        "onboard_time": 1699166610,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 789287,
+        "num": 789287,
+        "word": "谁家接吻戴墨镜啊",
+        "onboard_time": 1699158995,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739488,
+        "num": 739488,
+        "word": "江歌妈妈一句话概括拯救嫌疑人",
+        "onboard_time": 1699168652,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 602599,
+        "num": 602599,
+        "word": "官方通报公职人员猥亵女孩行拘9天",
+        "onboard_time": 1699171533,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533972,
+        "num": 533972,
+        "word": "李佳航 LPL热血难凉",
+        "onboard_time": 1699164754,
+        "rank": 7,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 505211,
+        "num": 505211,
+        "word": "T1粉丝在场馆外撒盐给T1祈祷",
+        "onboard_time": 1699170029,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 471359,
+        "num": 471359,
+        "word": "裴行俭居然有亡妻",
+        "onboard_time": 1699168292,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464995,
+        "num": 464995,
+        "word": "LNG对战T1",
+        "onboard_time": 1699169132,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 433105,
+        "num": 433105,
+        "word": "肺部CT报告中有些字眼可能是癌",
+        "onboard_time": 1699154070,
+        "rank": 11,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 410515,
+        "num": 410515,
+        "word": "韩国的婴儿车里都是小狗",
+        "onboard_time": 1699168230,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498187,
+        "num": 410104,
+        "word": "以色列",
+        "onboard_time": 1699163791,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 392797,
+        "num": 392797,
+        "word": "马立奥 像大明星一样",
+        "onboard_time": 1699169252,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 390299,
+        "num": 390299,
+        "word": "张艺兴瑶一瑶一起吃宵夜",
+        "onboard_time": 1699170755,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329353,
+        "num": 329353,
+        "word": "俞灏明被说丑悲伤离场",
+        "onboard_time": 1699156831,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322877,
+        "num": 322877,
+        "word": "王力宏喝北京豆汁儿",
+        "onboard_time": 1699172252,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299042,
+        "num": 299042,
+        "word": "张翰杨烁吃蘑菇",
+        "onboard_time": 1699169009,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189008,
+        "num": 280782,
+        "word": "浙江一中学校长办公室变肠胃外科",
+        "onboard_time": 1699165171,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694875,
+        "num": 280347,
+        "word": "我的公积金比老家工资还高",
+        "onboard_time": 1699172609,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275501,
+        "num": 275501,
+        "word": "成毅带着莲花楼组双11合体",
+        "onboard_time": 1699172969,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270575,
+        "num": 270575,
+        "word": "你爱上的男性角色 实质是女作家的灵魂",
+        "onboard_time": 1699166911,
+        "rank": 22,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 244328,
+        "num": 244328,
+        "word": "男子突发心梗父亲接医院电话以为是诈骗",
+        "onboard_time": 1699169430,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242519,
+        "num": 242519,
+        "word": "WBG 我们今天都是LNG粉丝",
+        "onboard_time": 1699172130,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241649,
+        "num": 241649,
+        "word": "Somi心中最美女爱豆TOP3",
+        "onboard_time": 1699169853,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219252,
+        "num": 219252,
+        "word": "易烊千玺加盟双11惊喜夜",
+        "onboard_time": 1699169792,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218666,
+        "num": 218666,
+        "word": "皮肤科医生的护肤品购买指南",
+        "onboard_time": 1699171890,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183736,
+        "num": 214765,
+        "word": "男子跑步成瘾留5岁女儿在车内数小时",
+        "onboard_time": 1699162713,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66988,
+        "num": 213478,
+        "word": "孙颖莎王楚钦无缘单打决赛",
+        "onboard_time": 1699155572,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525836,
+        "num": 213455,
+        "word": "管泽元预测",
+        "onboard_time": 1699172609,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213308,
+        "num": 213308,
+        "word": "白鹿敖瑞鹏白月梵星开机",
+        "onboard_time": 1699169252,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "章昊RICKY直播",
+        "onboard_time": 1699170629,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 194590,
+        "word": "肖战李健怎么认识的",
+        "onboard_time": 1699166073,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193713,
+        "num": 193713,
+        "word": "网红一笑倾城停更76天后更新",
+        "onboard_time": 1699157612,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172168,
+        "num": 172168,
+        "word": "LNG对战T1 比分预测",
+        "onboard_time": 1699148011,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170854,
+        "num": 170854,
+        "word": "王鹤棣时宴摘眼镜吻",
+        "onboard_time": 1699156230,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157769,
+        "num": 157769,
+        "word": "进击的巨人结局 献出心脏",
+        "onboard_time": 1699157251,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156228,
+        "num": 156228,
+        "word": "代入一下关晓彤",
+        "onboard_time": 1699150051,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138855,
+        "num": 138855,
+        "word": "揭秘个人信息贩卖的黑产链条",
+        "onboard_time": 1699172430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129483,
+        "num": 129483,
+        "word": "刘德华一直想让林家栋成为男主角",
+        "onboard_time": 1699167689,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "老人误入隧道出租车跟在身后默默守护",
+        "onboard_time": 1699171652,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128476,
+        "num": 128476,
+        "word": "KPL",
+        "onboard_time": 1699171652,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128070,
+        "num": 128070,
+        "word": "屈楚萧真的好懂张万森",
+        "onboard_time": 1699168110,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127818,
+        "num": 127818,
+        "word": "进击的巨人群像图",
+        "onboard_time": 1699170991,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125539,
+        "num": 125539,
+        "word": "李佳航 意难平",
+        "onboard_time": 1699152993,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125234,
+        "num": 125234,
+        "word": "关晓彤生日被整蛊",
+        "onboard_time": 1699142065,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124050,
+        "num": 124050,
+        "word": "五月天上海 是谁命里有票",
+        "onboard_time": 1699154253,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123852,
+        "num": 123852,
+        "word": "李善均承认吸毒",
+        "onboard_time": 1699151790,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115018,
+        "num": 115018,
+        "word": "还我毛利兰",
+        "onboard_time": 1699156351,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对外开放的大门不会关闭只会越开越大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699172406044,
+  "endTime": 1699173265032,
   "band_list": [
     {
       "raw_hot": 2771692,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1693954,
+      "num": 1693954,
+      "word": "骗子准确说出信息大学生被骗350万",
+      "onboard_time": 1699166730,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1620546,
       "num": 551689,
       "word": "五月天上海 是谁命里有票",
@@ -81,14 +89,6 @@
       "onboard_time": 1699152993,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1372407,
-      "num": 1372407,
-      "word": "骗子准确说出信息大学生被骗350万",
-      "onboard_time": 1699166730,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1311331,
@@ -211,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 739488,
+      "num": 739488,
+      "word": "江歌妈妈一句话概括拯救嫌疑人",
+      "onboard_time": 1699168652,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 716553,
       "num": 716553,
       "word": "毛毛姐称直播间手机被调包成模型机",
@@ -225,6 +233,14 @@
       "onboard_time": 1699156471,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 694875,
+      "num": 280347,
+      "word": "我的公积金比老家工资还高",
+      "onboard_time": 1699172609,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 676801,
@@ -251,14 +267,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 630225,
-      "num": 630225,
-      "word": "江歌妈妈一句话概括拯救嫌疑人",
-      "onboard_time": 1699168652,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 619238,
       "num": 619238,
       "word": "睡眠不好等于在身体内养毒",
@@ -273,6 +281,14 @@
       "onboard_time": 1699154551,
       "rank": 21,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 602599,
+      "num": 602599,
+      "word": "官方通报公职人员猥亵女孩行拘9天",
+      "onboard_time": 1699171533,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595678,
@@ -339,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 525836,
+      "num": 213455,
+      "word": "管泽元预测",
+      "onboard_time": 1699172609,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 514060,
       "num": 514060,
       "word": "爸妈看电视才知道女儿是战地记者",
@@ -385,6 +409,14 @@
       "onboard_time": 1699157251,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 464995,
+      "num": 464995,
+      "word": "LNG对战T1",
+      "onboard_time": 1699169132,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 442572,
@@ -603,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338991,
-      "num": 338991,
-      "word": "官方通报公职人员猥亵女孩行拘9天",
-      "onboard_time": 1699171533,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338988,
       "num": 338988,
       "word": "以爱为营 PPT转场",
@@ -627,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333931,
-      "num": 333931,
-      "word": "LNG对战T1",
-      "onboard_time": 1699169132,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 331878,
       "num": 331878,
       "word": "粉笔模考",
@@ -649,6 +665,14 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322877,
+      "num": 322877,
+      "word": "王力宏喝北京豆汁儿",
+      "onboard_time": 1699172252,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 316151,
@@ -683,8 +707,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297480,
-      "num": 297480,
+      "raw_hot": 299042,
+      "num": 299042,
       "word": "张翰杨烁吃蘑菇",
       "onboard_time": 1699169009,
       "rank": 17,
@@ -713,6 +737,14 @@
       "onboard_time": 1699116030,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275501,
+      "num": 275501,
+      "word": "成毅带着莲花楼组双11合体",
+      "onboard_time": 1699172969,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 270943,
@@ -769,6 +801,14 @@
       "onboard_time": 1699079373,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242519,
+      "num": 242519,
+      "word": "WBG 我们今天都是LNG粉丝",
+      "onboard_time": 1699172130,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 237496,
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 225706,
-      "num": 160979,
+      "num": 218666,
       "word": "皮肤科医生的护肤品购买指南",
       "onboard_time": 1699171890,
       "rank": 30,
@@ -1179,14 +1219,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 148590,
-      "num": 148590,
-      "word": "WBG 我们今天都是LNG粉丝",
-      "onboard_time": 1699172130,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148279,
       "num": 148279,
       "word": "KPL",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1699108417,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146228,
-      "num": 146228,
-      "word": "王力宏喝北京豆汁儿",
-      "onboard_time": 1699172252,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 145290,
@@ -1256,6 +1280,14 @@
       "word": "一个进口产品浓度超高的地方在中国",
       "onboard_time": 1699154190,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138855,
+      "num": 138855,
+      "word": "揭秘个人信息贩卖的黑产链条",
+      "onboard_time": 1699172430,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
