@@ -1,7 +1,15 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699226189137,
+  "endTime": 1699227257548,
   "band_list": [
+    {
+      "raw_hot": 1709827,
+      "num": 1709827,
+      "word": "陈楚生 披荆斩棘总冠军",
+      "onboard_time": 1699225944,
+      "rank": 9,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1704353,
       "num": 1704353,
@@ -11,20 +19,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1151301,
+      "num": 404876,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1090911,
       "num": 1090911,
       "word": "内娱可以吃一辈子的剧",
       "onboard_time": 1699185216,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 967157,
-      "num": 358441,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 914811,
@@ -57,6 +65,14 @@
       "onboard_time": 1699197578,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 544167,
+      "num": 544167,
+      "word": "张钧甯阮经天她在闹他在冷笑",
+      "onboard_time": 1699182275,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 535829,
@@ -107,12 +123,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 423055,
-      "num": 423055,
-      "word": "张钧甯阮经天她在闹他在冷笑",
-      "onboard_time": 1699182275,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 408797,
+      "num": 408797,
+      "word": "哈尔滨初雪",
+      "onboard_time": 1699226245,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388297,
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316645,
+      "num": 316645,
+      "word": "哈尔滨主城区停课1天",
+      "onboard_time": 1699226545,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 311126,
       "num": 311126,
       "word": "以爱为营正片vs路透",
@@ -195,8 +219,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 234562,
-      "num": 234562,
+      "raw_hot": 255477,
+      "num": 255477,
       "word": "女子骑车到桥上将孩子推下河",
       "onboard_time": 1699190316,
       "rank": 22,
@@ -291,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182512,
+      "num": 182512,
+      "word": "东北今冬首场强降雪极端性强",
+      "onboard_time": 1699226186,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178822,
       "num": 178822,
       "word": "马龙飞身救球",
@@ -299,12 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178428,
-      "num": 178428,
-      "word": "陈楚生 披荆斩棘总冠军",
-      "onboard_time": 1699225944,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 174179,
+      "num": 174179,
+      "word": "周也说檀健次是剧组最辛苦担当",
+      "onboard_time": 1699225342,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 164288,
@@ -313,6 +353,14 @@
       "onboard_time": 1699175070,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161065,
+      "num": 161065,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 155177,
@@ -331,12 +379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138951,
-      "num": 138951,
-      "word": "在儿童医院牙科工作的治疗犬",
-      "onboard_time": 1699216813,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 135963,
+      "num": 135963,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133667,
@@ -347,36 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129604,
-      "num": 120402,
-      "word": "交警向不敢动的铁憨憨们补了句感谢",
-      "onboard_time": 1699219753,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128667,
-      "num": 128667,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 123890,
-      "num": 123890,
-      "word": "周也说檀健次是剧组最辛苦担当",
-      "onboard_time": 1699225342,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123209,
       "num": 123209,
       "word": "顾云峥继承了澹台烬的情丝",
       "onboard_time": 1699197035,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118991,
+      "num": 118991,
+      "word": "灵笼2前瞻PV内容解析",
+      "onboard_time": 1699226545,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 112193,
@@ -403,12 +435,44 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 109651,
+      "num": 109651,
+      "word": "33岁民警因公牺牲捐器官救人",
+      "onboard_time": 1699226606,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109301,
+      "num": 109301,
+      "word": "有种钢铁侠友情出演西游记的美感",
+      "onboard_time": 1699225342,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108535,
       "num": 108535,
       "word": "我的公积金比老家工资还高",
       "onboard_time": 1699172609,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107487,
+      "num": 107487,
+      "word": "过期化妆品还能巧利用",
+      "onboard_time": 1699190736,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 101426,
+      "num": 101426,
+      "word": "周也想拉彭昱畅一起去环球影城",
+      "onboard_time": 1699224440,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101276,
@@ -435,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96558,
+      "num": 96558,
+      "word": "天津供暖",
+      "onboard_time": 1699226667,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96236,
       "num": 96236,
       "word": "真的有人在拍芭比海默了",
       "onboard_time": 1699206557,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96231,
-      "num": 78281,
-      "word": "周也想拉彭昱畅一起去环球影城",
-      "onboard_time": 1699224440,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 89753,
@@ -475,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83344,
-      "num": 86672,
-      "word": "过期化妆品还能巧利用",
-      "onboard_time": 1699190736,
-      "rank": 48,
-      "category": "美妆"
+      "raw_hot": 82888,
+      "num": 82888,
+      "word": "魏大勋 霸总顺风局",
+      "onboard_time": 1699206679,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 80044,
@@ -499,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73123,
-      "num": 73123,
-      "word": "魏大勋 霸总顺风局",
-      "onboard_time": 1699206679,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 73732,
+      "num": 73732,
+      "word": "哪个大聪明在车顶晒虾",
+      "onboard_time": 1699213215,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 66562,
@@ -515,27 +579,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64246,
-      "num": 64246,
-      "word": "有种钢铁侠友情出演西游记的美感",
-      "onboard_time": 1699225342,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 60640,
-      "num": 60640,
-      "word": "哪个大聪明在车顶晒虾",
-      "onboard_time": 1699213215,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 53548,
-      "num": 56791,
+      "raw_hot": 64819,
+      "num": 64819,
       "word": "女子在马拉松场外当众脚踢警察",
       "onboard_time": 1699204701,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62517,
+      "num": 62517,
+      "word": "台湾黑老大向好友炫枪将自己打死",
+      "onboard_time": 1699227148,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -547,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39042,
+      "num": 614419,
+      "word": "第一届全国学青会开幕式",
+      "onboard_time": 1699191097,
+      "rank": 2,
+      "category": "教育,体育"
+    },
+    {
       "raw_hot": 35348,
       "num": 56309,
       "word": "周也吹金粉",
       "onboard_time": 1699191635,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27084,
-      "num": 377316,
-      "word": "第一届全国学青会开幕式",
-      "onboard_time": 1699191097,
-      "rank": 2,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 25830,

@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699226189137,
+  "endTime": 1699227257548,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -153,6 +153,14 @@
       "onboard_time": 1699197578,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1709827,
+      "num": 1709827,
+      "word": "陈楚生 披荆斩棘总冠军",
+      "onboard_time": 1699225944,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1699357,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1151301,
+      "num": 404876,
+      "word": "奥巴马称没有谁的手是干净的",
+      "onboard_time": 1699208777,
+      "rank": 36,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1083594,
       "num": 1083594,
       "word": "谁家接吻戴墨镜啊",
@@ -353,14 +369,6 @@
       "onboard_time": 1699194999,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 967157,
-      "num": 358441,
-      "word": "奥巴马称没有谁的手是干净的",
-      "onboard_time": 1699208777,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 958227,
@@ -675,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 544167,
+      "num": 544167,
+      "word": "张钧甯阮经天她在闹他在冷笑",
+      "onboard_time": 1699182275,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 534404,
       "num": 534404,
       "word": "林心如说紫薇演得好浮夸",
@@ -955,14 +971,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 423055,
-      "num": 423055,
-      "word": "张钧甯阮经天她在闹他在冷笑",
-      "onboard_time": 1699182275,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 422813,
       "num": 422813,
       "word": "艾伦三笠 最后一吻",
@@ -977,6 +985,14 @@
       "onboard_time": 1699105176,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408797,
+      "num": 408797,
+      "word": "哈尔滨初雪",
+      "onboard_time": 1699226245,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407273,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1699183237,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316645,
+      "num": 316645,
+      "word": "哈尔滨主城区停课1天",
+      "onboard_time": 1699226545,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 316151,
@@ -2067,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182512,
+      "num": 182512,
+      "word": "东北今冬首场强降雪极端性强",
+      "onboard_time": 1699226186,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181394,
       "num": 213277,
       "word": "CATTI",
@@ -2083,20 +2115,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178428,
-      "num": 178428,
-      "word": "陈楚生 披荆斩棘总冠军",
-      "onboard_time": 1699225944,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175626,
       "num": 175626,
       "word": "刺痛为狼队扛大旗",
       "onboard_time": 1699179215,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174179,
+      "num": 174179,
+      "word": "周也说檀健次是剧组最辛苦担当",
+      "onboard_time": 1699225342,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173773,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1699170991,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "在儿童医院牙科工作的治疗犬",
+      "onboard_time": 1699216813,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166739,
@@ -2217,6 +2257,14 @@
       "onboard_time": 1699174056,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161065,
+      "num": 161065,
+      "word": "台媒报道以爱为营",
+      "onboard_time": 1699215193,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 160601,
@@ -2411,14 +2459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138951,
-      "num": 138951,
-      "word": "在儿童医院牙科工作的治疗犬",
-      "onboard_time": 1699216813,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138855,
       "num": 138855,
       "word": "揭秘个人信息贩卖的黑产链条",
@@ -2449,6 +2489,14 @@
       "onboard_time": 1699156592,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135963,
+      "num": 135963,
+      "word": "交警向不敢动的铁憨憨们补了句感谢",
+      "onboard_time": 1699219753,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135457,
@@ -2499,14 +2547,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 129604,
-      "num": 120402,
-      "word": "交警向不敢动的铁憨憨们补了句感谢",
-      "onboard_time": 1699219753,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129106,
       "num": 376258,
       "word": "她的十八岁和我一样安静和痛苦吗",
@@ -2521,14 +2561,6 @@
       "onboard_time": 1699167868,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128667,
-      "num": 128667,
-      "word": "台媒报道以爱为营",
-      "onboard_time": 1699215193,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 127716,
@@ -2563,14 +2595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123890,
-      "num": 123890,
-      "word": "周也说檀健次是剧组最辛苦担当",
-      "onboard_time": 1699225342,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123261,
       "num": 123261,
       "word": "巴菲特第三季度巨亏近1000亿",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1699168890,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118991,
+      "num": 118991,
+      "word": "灵笼2前瞻PV内容解析",
+      "onboard_time": 1699226545,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 118706,
@@ -2667,12 +2699,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 109651,
+      "num": 109651,
+      "word": "33岁民警因公牺牲捐器官救人",
+      "onboard_time": 1699226606,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109552,
       "num": 438104,
       "word": "减肥操再也不枯燥了",
       "onboard_time": 1699109200,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109301,
+      "num": 109301,
+      "word": "有种钢铁侠友情出演西游记的美感",
+      "onboard_time": 1699225342,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 108664,
@@ -2721,6 +2769,14 @@
       "onboard_time": 1699145552,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101426,
+      "num": 101426,
+      "word": "周也想拉彭昱畅一起去环球影城",
+      "onboard_time": 1699224440,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101276,
@@ -2795,20 +2851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96558,
+      "num": 96558,
+      "word": "天津供暖",
+      "onboard_time": 1699226667,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96236,
       "num": 96236,
       "word": "真的有人在拍芭比海默了",
       "onboard_time": 1699206557,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96231,
-      "num": 78281,
-      "word": "周也想拉彭昱畅一起去环球影城",
-      "onboard_time": 1699224440,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 94588,
@@ -2891,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82888,
+      "num": 82888,
+      "word": "魏大勋 霸总顺风局",
+      "onboard_time": 1699206679,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82295,
       "num": 207264,
       "word": "8旬老人进错小区民警护送回家并一路叮嘱",
@@ -2939,20 +3003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73732,
+      "num": 73732,
+      "word": "哪个大聪明在车顶晒虾",
+      "onboard_time": 1699213215,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73719,
       "num": 376230,
       "word": "李健演唱会",
       "onboard_time": 1699102416,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 73123,
-      "num": 73123,
-      "word": "魏大勋 霸总顺风局",
-      "onboard_time": 1699206679,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 70354,
@@ -3003,12 +3067,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 64246,
-      "num": 64246,
-      "word": "有种钢铁侠友情出演西游记的美感",
-      "onboard_time": 1699225342,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 64819,
+      "num": 64819,
+      "word": "女子在马拉松场外当众脚踢警察",
+      "onboard_time": 1699204701,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64020,
@@ -3019,12 +3083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60640,
-      "num": 60640,
-      "word": "哪个大聪明在车顶晒虾",
-      "onboard_time": 1699213215,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 62517,
+      "num": 62517,
+      "word": "台湾黑老大向好友炫枪将自己打死",
+      "onboard_time": 1699227148,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60068,
@@ -3033,14 +3097,6 @@
       "onboard_time": 1699178670,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53548,
-      "num": 56791,
-      "word": "女子在马拉松场外当众脚踢警察",
-      "onboard_time": 1699204701,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51004,
@@ -3057,6 +3113,14 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39042,
+      "num": 1070154,
+      "word": "第一届全国学青会开幕式",
+      "onboard_time": 1699191097,
+      "rank": 2,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 38495,
@@ -3105,14 +3169,6 @@
       "onboard_time": 1699121719,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27084,
-      "num": 1070154,
-      "word": "第一届全国学青会开幕式",
-      "onboard_time": 1699191097,
-      "rank": 2,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 25830,
