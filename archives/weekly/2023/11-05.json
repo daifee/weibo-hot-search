@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699166055339,
+  "endTime": 1699168496670,
   "band_list": [
     {
       "raw_hot": 2771692,
@@ -147,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 904045,
+      "num": 883316,
+      "word": "以色列",
+      "onboard_time": 1699163791,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 903092,
       "num": 903092,
       "word": "中央气象台连发4个预警",
       "onboard_time": 1699147591,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885805,
+      "num": 885805,
+      "word": "南京暴雨 萧敬腾从不失手",
+      "onboard_time": 1699166610,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 848582,
@@ -217,14 +233,6 @@
       "onboard_time": 1699150710,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 633628,
-      "num": 633628,
-      "word": "以色列",
-      "onboard_time": 1699163791,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 632360,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513769,
+      "num": 513769,
+      "word": "浙江一中学校长办公室变肠胃外科",
+      "onboard_time": 1699165171,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484420,
       "num": 484420,
       "word": "王鹤棣时宴摘眼镜吻",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 434122,
-      "num": 244608,
+      "num": 257806,
       "word": "男子跑步成瘾留5岁女儿在车内数小时",
       "onboard_time": 1699162713,
       "rank": 20,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395532,
+      "num": 395532,
+      "word": "你爱上的男性角色 实质是女作家的灵魂",
+      "onboard_time": 1699166911,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 393236,
       "num": 603070,
       "word": "孙颖莎王楚钦无缘单打决赛",
@@ -444,11 +468,19 @@
     },
     {
       "raw_hot": 374922,
-      "num": 238636,
+      "num": 256740,
       "word": "麻辣烫贵到40块都吃不饱",
       "onboard_time": 1699163073,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 373404,
+      "num": 373404,
+      "word": "林志颖给Kimi打电话的声音",
+      "onboard_time": 1699164393,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 361571,
@@ -547,20 +579,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 320739,
-      "num": 320739,
-      "word": "林志颖给Kimi打电话的声音",
-      "onboard_time": 1699164393,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316151,
       "num": 446637,
       "word": "胃胀气就是要舍得饿自己",
       "onboard_time": 1699109858,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 309379,
+      "num": 309379,
+      "word": "肖战李健怎么认识的",
+      "onboard_time": 1699166073,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 301964,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 291366,
-      "num": 237105,
+      "num": 239185,
       "word": "五种对身体很不好的食物",
       "onboard_time": 1699163316,
       "rank": 22,
@@ -595,11 +627,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274349,
+      "num": 274349,
+      "word": "骗子准确说出信息大学生被骗350万",
+      "onboard_time": 1699166730,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272226,
+      "num": 272226,
+      "word": "你说你惹张小斐惠英红干嘛",
+      "onboard_time": 1699166911,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 270943,
       "num": 447991,
       "word": "原来医院中条纹越多的越厉害",
       "onboard_time": 1699113454,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 261831,
+      "num": 261831,
+      "word": "韩国的婴儿车里都是小狗",
+      "onboard_time": 1699168230,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -667,14 +723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 226577,
-      "num": 226577,
-      "word": "浙江一中学校长办公室变肠胃外科",
-      "onboard_time": 1699165171,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226469,
       "num": 392121,
       "word": "杨紫白色小吊带",
@@ -731,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205930,
+      "num": 205930,
+      "word": "刘德华一直想让林家栋成为男主角",
+      "onboard_time": 1699167689,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202556,
       "num": 424019,
       "word": "王楚钦加油",
@@ -739,12 +795,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200338,
+      "num": 200338,
+      "word": "张艺兴演唱会现编现唱",
+      "onboard_time": 1699167570,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200127,
       "num": 443078,
       "word": "原来梳头是真的有用",
       "onboard_time": 1699094612,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199649,
+      "num": 199649,
+      "word": "LPL",
+      "onboard_time": 1699167151,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 199468,
@@ -768,6 +840,14 @@
       "word": "张杰cue魏大勋孟宴臣名场面",
       "onboard_time": 1699164572,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194313,
+      "num": 194313,
+      "word": "张杰曾经提出给魏大勋制作歌",
+      "onboard_time": 1699166552,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -875,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162960,
+      "num": 194284,
+      "word": "木子洋对张亮说我是天天森碟的cp粉",
+      "onboard_time": 1699167031,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162674,
       "num": 214086,
       "word": "核磁共振仪的威力有多大",
@@ -897,6 +985,14 @@
       "onboard_time": 1699147591,
       "rank": 18,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 158246,
+      "num": 194277,
+      "word": "裴行俭居然有亡妻",
+      "onboard_time": 1699168292,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 157049,
@@ -923,6 +1019,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156122,
+      "num": 194255,
+      "word": "罗云熙新剧黛里黛气的",
+      "onboard_time": 1699167209,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155840,
+      "num": 194243,
+      "word": "热依扎王阳新剧收视率",
+      "onboard_time": 1699167330,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150921,
       "num": 216246,
       "word": "我安慰人也是温太医这样的",
@@ -947,12 +1059,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145290,
+      "num": 194239,
+      "word": "南方艳阳北方大雪",
+      "onboard_time": 1699166190,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143521,
       "num": 220641,
       "word": "同层四家人大门全开供孩子串门玩耍",
       "onboard_time": 1699147774,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142794,
+      "num": 214828,
+      "word": "我要是住这房子不敢想有多快乐",
+      "onboard_time": 1699165530,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 142709,
@@ -969,6 +1097,14 @@
       "onboard_time": 1699154190,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141901,
+      "num": 194200,
+      "word": "屈楚萧真的好懂张万森",
+      "onboard_time": 1699168110,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 138597,
@@ -1027,12 +1163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131021,
+      "num": 194180,
+      "word": "虞书欣复古莓果妆",
+      "onboard_time": 1699166130,
+      "rank": 44,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 129106,
       "num": 376258,
       "word": "她的十八岁和我一样安静和痛苦吗",
       "onboard_time": 1699105599,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129004,
+      "num": 194155,
+      "word": "母亲对家庭的奉献不是理所当然",
+      "onboard_time": 1699167868,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127110,
@@ -1115,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110436,
+      "num": 214967,
+      "word": "巨人ED 给艾伦三笠的情书",
+      "onboard_time": 1699165470,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109552,
       "num": 438104,
       "word": "减肥操再也不枯燥了",
@@ -1139,12 +1299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108406,
-      "num": 214967,
-      "word": "巨人ED 给艾伦三笠的情书",
-      "onboard_time": 1699165470,
-      "rank": 40,
-      "category": "动漫"
+      "raw_hot": 108374,
+      "num": 214151,
+      "word": "非遗传承人复原黄河淹没的千年古城",
+      "onboard_time": 1699165111,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107655,
@@ -1219,14 +1379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99487,
-      "num": 214828,
-      "word": "我要是住这房子不敢想有多快乐",
-      "onboard_time": 1699165530,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98895,
       "num": 1350032,
       "word": "63年前的今天中国人有了自己的导弹",
@@ -1289,14 +1441,6 @@
       "onboard_time": 1699154190,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86262,
-      "num": 214151,
-      "word": "非遗传承人复原黄河淹没的千年古城",
-      "onboard_time": 1699165111,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84954,

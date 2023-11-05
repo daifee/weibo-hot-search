@@ -1,0 +1,410 @@
+{
+  "runTime": 1699168496670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733761,
+        "num": 1733761,
+        "word": "福原爱或面临2年以上有期徒刑",
+        "onboard_time": 1699157973,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1165152,
+        "num": 1165152,
+        "word": "李佳航 LPL热血难凉",
+        "onboard_time": 1699164754,
+        "rank": 1,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 15113,
+        "num": 1057031,
+        "word": "一个进口产品浓度超高的地方在中国",
+        "onboard_time": 1699154190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995365,
+        "num": 995365,
+        "word": "谁家接吻戴墨镜啊",
+        "onboard_time": 1699158995,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 885805,
+        "num": 885805,
+        "word": "南京暴雨 萧敬腾从不失手",
+        "onboard_time": 1699166610,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 904045,
+        "num": 883316,
+        "word": "以色列",
+        "onboard_time": 1699163791,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 857880,
+        "num": 857880,
+        "word": "肺部CT报告中有些字眼可能是癌",
+        "onboard_time": 1699154070,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 832831,
+        "num": 832831,
+        "word": "俞灏明被说丑悲伤离场",
+        "onboard_time": 1699156831,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513769,
+        "num": 513769,
+        "word": "浙江一中学校长办公室变肠胃外科",
+        "onboard_time": 1699165171,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456852,
+        "num": 456852,
+        "word": "网红一笑倾城停更76天后更新",
+        "onboard_time": 1699157612,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 395532,
+        "num": 395532,
+        "word": "你爱上的男性角色 实质是女作家的灵魂",
+        "onboard_time": 1699166911,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 373404,
+        "num": 373404,
+        "word": "林志颖给Kimi打电话的声音",
+        "onboard_time": 1699164393,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309379,
+        "num": 309379,
+        "word": "肖战李健怎么认识的",
+        "onboard_time": 1699166073,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300762,
+        "num": 300762,
+        "word": "关晓彤生日被整蛊",
+        "onboard_time": 1699142065,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291060,
+        "num": 291060,
+        "word": "爸妈看电视才知道女儿是战地记者",
+        "onboard_time": 1699157311,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274763,
+        "num": 274763,
+        "word": "王鹤棣时宴摘眼镜吻",
+        "onboard_time": 1699156230,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274349,
+        "num": 274349,
+        "word": "骗子准确说出信息大学生被骗350万",
+        "onboard_time": 1699166730,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272226,
+        "num": 272226,
+        "word": "你说你惹张小斐惠英红干嘛",
+        "onboard_time": 1699166911,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61178,
+        "num": 262283,
+        "word": "63年前的今天中国人有了自己的导弹",
+        "onboard_time": 1699156052,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261831,
+        "num": 261831,
+        "word": "韩国的婴儿车里都是小狗",
+        "onboard_time": 1699168230,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326106,
+        "num": 257806,
+        "word": "男子跑步成瘾留5岁女儿在车内数小时",
+        "onboard_time": 1699162713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307140,
+        "num": 256740,
+        "word": "麻辣烫贵到40块都吃不饱",
+        "onboard_time": 1699163073,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250226,
+        "num": 250226,
+        "word": "李善均承认吸毒",
+        "onboard_time": 1699151790,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240387,
+        "num": 240387,
+        "word": "李佳航 意难平",
+        "onboard_time": 1699152993,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239185,
+        "num": 239185,
+        "word": "五种对身体很不好的食物",
+        "onboard_time": 1699163316,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216221,
+        "num": 216221,
+        "word": "还我毛利兰",
+        "onboard_time": 1699156351,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205930,
+        "num": 205930,
+        "word": "刘德华一直想让林家栋成为男主角",
+        "onboard_time": 1699167689,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203569,
+        "num": 203569,
+        "word": "进击的巨人结局 献出心脏",
+        "onboard_time": 1699157251,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200338,
+        "num": 200338,
+        "word": "张艺兴演唱会现编现唱",
+        "onboard_time": 1699167570,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95606,
+        "num": 199803,
+        "word": "孙颖莎王楚钦无缘单打决赛",
+        "onboard_time": 1699155572,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199649,
+        "num": 199649,
+        "word": "LPL",
+        "onboard_time": 1699167151,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196337,
+        "num": 196337,
+        "word": "张靓颖演唱会万人一起喝水",
+        "onboard_time": 1699163493,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194313,
+        "num": 194313,
+        "word": "张杰曾经提出给魏大勋制作歌",
+        "onboard_time": 1699166552,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180157,
+        "num": 194303,
+        "word": "五月天上海 是谁命里有票",
+        "onboard_time": 1699154253,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177064,
+        "num": 194297,
+        "word": "杨紫范丞丞你说公主请看剧",
+        "onboard_time": 1699158573,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162960,
+        "num": 194284,
+        "word": "木子洋对张亮说我是天天森碟的cp粉",
+        "onboard_time": 1699167031,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158246,
+        "num": 194277,
+        "word": "裴行俭居然有亡妻",
+        "onboard_time": 1699168292,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156122,
+        "num": 194255,
+        "word": "罗云熙新剧黛里黛气的",
+        "onboard_time": 1699167209,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155840,
+        "num": 194243,
+        "word": "热依扎王阳新剧收视率",
+        "onboard_time": 1699167330,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145290,
+        "num": 194239,
+        "word": "南方艳阳北方大雪",
+        "onboard_time": 1699166190,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 194220,
+        "word": "魏大勋回应今年暑假爆红",
+        "onboard_time": 1699160492,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142794,
+        "num": 194219,
+        "word": "我要是住这房子不敢想有多快乐",
+        "onboard_time": 1699165530,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141901,
+        "num": 194200,
+        "word": "屈楚萧真的好懂张万森",
+        "onboard_time": 1699168110,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132025,
+        "num": 194192,
+        "word": "LNG对战T1 比分预测",
+        "onboard_time": 1699148011,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131021,
+        "num": 194180,
+        "word": "虞书欣复古莓果妆",
+        "onboard_time": 1699166130,
+        "rank": 44,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 129283,
+        "num": 194165,
+        "word": "以爱为营",
+        "onboard_time": 1699160793,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129004,
+        "num": 194155,
+        "word": "母亲对家庭的奉献不是理所当然",
+        "onboard_time": 1699167868,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110574,
+        "num": 194141,
+        "word": "皮肤保湿保的是油而不是水",
+        "onboard_time": 1699163012,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110436,
+        "num": 194129,
+        "word": "巨人ED 给艾伦三笠的情书",
+        "onboard_time": 1699165470,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108374,
+        "num": 194122,
+        "word": "非遗传承人复原黄河淹没的千年古城",
+        "onboard_time": 1699165111,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席历届进博会讲话金句#"
+    }
+  }
+}
