@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699157980245,
+  "endTime": 1699158838669,
   "band_list": [
     {
       "raw_hot": 2004579,
@@ -11,8 +11,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1901807,
-      "num": 1901807,
+      "raw_hot": 1957141,
+      "num": 1957141,
       "word": "肺部CT报告中有些字眼可能是癌",
       "onboard_time": 1699154070,
       "rank": 28,
@@ -48,6 +48,14 @@
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1699112616,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1490344,
+      "num": 1490344,
+      "word": "福原爱或面临2年以上有期徒刑",
+      "onboard_time": 1699157973,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -107,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 848582,
+      "num": 848582,
+      "word": "还我毛利兰",
+      "onboard_time": 1699156351,
+      "rank": 5,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 846463,
+      "num": 846463,
+      "word": "俞灏明被说丑悲伤离场",
+      "onboard_time": 1699156831,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 823473,
       "num": 550197,
       "word": "代入一下关晓彤",
@@ -121,14 +145,6 @@
       "onboard_time": 1699112616,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 771403,
-      "num": 771403,
-      "word": "还我毛利兰",
-      "onboard_time": 1699156351,
-      "rank": 5,
-      "category": "动漫"
     },
     {
       "raw_hot": 759210,
@@ -147,14 +163,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 706766,
-      "num": 539189,
-      "word": "俞灏明被说丑悲伤离场",
-      "onboard_time": 1699156831,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 700121,
       "num": 700121,
       "word": "肖战给李健演唱会送花篮",
@@ -169,6 +177,14 @@
       "onboard_time": 1699105118,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 661310,
+      "num": 552512,
+      "word": "网红一笑倾城停更76天后更新",
+      "onboard_time": 1699157612,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 638693,
@@ -251,6 +267,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 473373,
+      "num": 473373,
+      "word": "王鹤棣时宴摘眼镜吻",
+      "onboard_time": 1699156230,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 467760,
+      "num": 467760,
+      "word": "进击的巨人结局 献出心脏",
+      "onboard_time": 1699157251,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 442572,
       "num": 442572,
       "word": "女子全麻术后被好友轮流拿喇叭叫醒",
@@ -299,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 402713,
-      "num": 402713,
-      "word": "王鹤棣时宴摘眼镜吻",
-      "onboard_time": 1699156230,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 399482,
       "num": 399482,
       "word": "LNG对战T1 比分预测",
@@ -345,14 +369,6 @@
       "onboard_time": 1699105296,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 378940,
-      "num": 378940,
-      "word": "进击的巨人结局 献出心脏",
-      "onboard_time": 1699157251,
-      "rank": 16,
-      "category": "动漫"
     },
     {
       "raw_hot": 376284,
@@ -451,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295590,
+      "num": 295590,
+      "word": "爸妈看电视才知道女儿是战地记者",
+      "onboard_time": 1699157311,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294562,
       "num": 452709,
       "word": "T1 压力",
@@ -473,14 +497,6 @@
       "onboard_time": 1699113454,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269715,
-      "num": 269715,
-      "word": "网红一笑倾城停更76天后更新",
-      "onboard_time": 1699157612,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 260427,
@@ -529,14 +545,6 @@
       "onboard_time": 1699146571,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 232888,
-      "num": 232888,
-      "word": "爸妈看电视才知道女儿是战地记者",
-      "onboard_time": 1699157311,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231384,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 181394,
-      "num": 211365,
+      "num": 213277,
       "word": "CATTI",
       "onboard_time": 1699156471,
       "rank": 29,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 172677,
-      "num": 212847,
+      "num": 213325,
       "word": "妹妹一开口就是顶级嘲讽",
       "onboard_time": 1699155092,
       "rank": 41,
@@ -649,6 +657,14 @@
       "onboard_time": 1699143628,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168821,
+      "num": 213746,
+      "word": "英国人真的有在用心地改良英食",
+      "onboard_time": 1699158392,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 165199,
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 162674,
-      "num": 211131,
+      "num": 213466,
       "word": "核磁共振仪的威力有多大",
       "onboard_time": 1699155393,
       "rank": 33,
@@ -723,8 +739,24 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156549,
+      "num": 213695,
+      "word": "杨紫范丞丞你说公主请看剧",
+      "onboard_time": 1699158573,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156217,
+      "num": 213624,
+      "word": "光与夜之恋",
+      "onboard_time": 1699158692,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148275,
-      "num": 211004,
+      "num": 213381,
       "word": "见过最离谱的奶茶小料",
       "onboard_time": 1699157311,
       "rank": 35,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 138357,
-      "num": 210871,
+      "num": 213103,
       "word": "封神第一部动画形象",
       "onboard_time": 1699155752,
       "rank": 37,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131189,
+      "num": 213183,
+      "word": "赵昭仪化身人型体重秤",
+      "onboard_time": 1699157491,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129106,
       "num": 376258,
       "word": "她的十八岁和我一样安静和痛苦吗",
@@ -817,14 +857,6 @@
       "onboard_time": 1699109675,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124669,
-      "num": 210851,
-      "word": "赵昭仪化身人型体重秤",
-      "onboard_time": 1699157491,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 124017,
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92133,
+      "num": 556855,
+      "word": "杨紫粉色冲锋衣",
+      "onboard_time": 1699156592,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91843,
       "num": 217100,
       "word": "挖机师傅遇老人填土20分钟帮填平",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1699102416,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71874,
-      "num": 556855,
-      "word": "杨紫粉色冲锋衣",
-      "onboard_time": 1699156592,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 70354,
