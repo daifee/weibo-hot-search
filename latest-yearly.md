@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/06 22:17:36
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/06 22:36:10
 </p>
 </blockquote>
 <p>
@@ -1377,6 +1377,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23" target="weibo">
+佳木斯一体育馆发生坍塌（热度：7742178）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23" target="weibo">
 韩红首次公开回应被举报（热度：7706331）
 </a>
@@ -1715,12 +1721,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23" target="weibo">
 中国男篮vs菲律宾男篮（热度：6580937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23" target="weibo">
-佳木斯一体育馆发生坍塌（热度：6564414）
 </a>
 </li>
 
