@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699305313921,
+  "endTime": 1699306452905,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -291,20 +291,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "医院院长倒卖出生证明每张赚6万",
+      "onboard_time": 1699272454,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122809,
       "num": 122809,
       "word": "为什么iPhone只有P大写",
       "onboard_time": 1699271252,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 121156,
-      "num": 121156,
-      "word": "医院院长倒卖出生证明每张赚6万",
-      "onboard_time": 1699272454,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112217,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 42327,
-      "num": 17594,
+      "num": 28909,
       "word": "咱们三个把日子过好比什么都强",
       "onboard_time": 1699300394,
       "rank": 31,
