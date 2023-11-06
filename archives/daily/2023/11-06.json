@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699281370061,
+  "endTime": 1699283972317,
   "band_list": [
     {
       "raw_hot": 7742178,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951534,
+      "num": 874089,
+      "word": "佳木斯一体育馆坍塌初步确认3人被困",
+      "onboard_time": 1699279660,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929303,
       "num": 929303,
       "word": "杨紫李现 国色芳华",
@@ -361,14 +369,6 @@
       "onboard_time": 1699271252,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 874089,
-      "num": 874089,
-      "word": "佳木斯一体育馆坍塌初步确认3人被困",
-      "onboard_time": 1699279660,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865948,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748550,
+      "num": 522812,
+      "word": "每天1点睡觉的好处",
+      "onboard_time": 1699280863,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 742630,
       "num": 742630,
       "word": "东北暴雪",
@@ -497,6 +505,14 @@
       "onboard_time": 1699256074,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694148,
+      "num": 345100,
+      "word": "佳木斯一体育馆坍塌2人送医",
+      "onboard_time": 1699281522,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689124,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597897,
+      "num": 597897,
+      "word": "秦岚录完花少好像失忆了",
+      "onboard_time": 1699281403,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597217,
       "num": 597217,
       "word": "芒果的纯元回来了",
@@ -729,14 +753,6 @@
       "onboard_time": 1699252889,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 522812,
-      "num": 522812,
-      "word": "每天1点睡觉的好处",
-      "onboard_time": 1699280863,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 518868,
@@ -859,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465809,
+      "num": 313612,
+      "word": "普通人和有钱人取名字区别有多大",
+      "onboard_time": 1699281765,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462706,
       "num": 462706,
       "word": "警方通报女子将孩子推下池塘",
@@ -897,6 +921,14 @@
       "onboard_time": 1699179827,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 437208,
+      "num": 302563,
+      "word": "女娲毕设 古力娜扎",
+      "onboard_time": 1699281945,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 435335,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1699244014,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376901,
+      "num": 296945,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371491,
@@ -1355,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269828,
+      "num": 269828,
+      "word": "权志龙ins事必归正",
+      "onboard_time": 1699281282,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266426,
       "num": 243753,
       "word": "金莎孙丞潇是奔着结婚谈恋爱的",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1699259431,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256136,
-      "num": 224152,
-      "word": "大三女生跳松花江自杀",
-      "onboard_time": 1699274315,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255477,
@@ -1435,6 +1475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250929,
+      "num": 238632,
+      "word": "桦南体育馆房顶坍塌与降雪有关",
+      "onboard_time": 1699283435,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250672,
       "num": 250672,
       "word": "吴承恩精神状态真的领先一百年",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1699255532,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248311,
+      "num": 235763,
+      "word": "金莎一个问题暴露了对婚姻的不自信",
+      "onboard_time": 1699282360,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247469,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1699261956,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246723,
+      "num": 246723,
+      "word": "空调房里的广东人沉默了",
+      "onboard_time": 1699282660,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244520,
@@ -1883,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196189,
+      "num": 196189,
+      "word": "时宴单手解扣",
+      "onboard_time": 1699283318,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "裴行俭前妻被大长公主逼死",
@@ -2107,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178184,
+      "num": 178184,
+      "word": "东北早市什么时候全国推广",
+      "onboard_time": 1699283560,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178126,
       "num": 178126,
       "word": "钟楚曦芳华6年后再演舞者",
@@ -2323,20 +2403,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154343,
-      "num": 154343,
-      "word": "权志龙ins事必归正",
-      "onboard_time": 1699281282,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "以军全面包围加沙城",
       "onboard_time": 1699233033,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 153725,
+      "num": 153725,
+      "word": "柚子烤五花肉",
+      "onboard_time": 1699282480,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 153099,
@@ -2377,6 +2457,14 @@
       "onboard_time": 1699228771,
       "rank": 32,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 150863,
+      "num": 150863,
+      "word": "朴宰范嘴角比AK还难压",
+      "onboard_time": 1699283677,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 150752,
@@ -2857,6 +2945,14 @@
       "onboard_time": 1699248755,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105033,
+      "num": 105033,
+      "word": "西安震撼夜景飞机俯瞰图",
+      "onboard_time": 1699281945,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103794,

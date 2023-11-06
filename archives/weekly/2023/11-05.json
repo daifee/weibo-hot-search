@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699281370061,
+  "endTime": 1699283972317,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -667,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 951534,
+      "num": 874089,
+      "word": "佳木斯一体育馆坍塌初步确认3人被困",
+      "onboard_time": 1699279660,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929303,
       "num": 929303,
       "word": "杨紫李现 国色芳华",
@@ -721,14 +729,6 @@
       "onboard_time": 1699271252,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 874089,
-      "num": 874089,
-      "word": "佳木斯一体育馆坍塌初步确认3人被困",
-      "onboard_time": 1699279660,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865948,
@@ -915,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 748550,
+      "num": 522812,
+      "word": "每天1点睡觉的好处",
+      "onboard_time": 1699280863,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 745242,
       "num": 745242,
       "word": "JDG与BLG选手观赛LNG",
@@ -993,6 +1001,14 @@
       "onboard_time": 1699193195,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694148,
+      "num": 345100,
+      "word": "佳木斯一体育馆坍塌2人送医",
+      "onboard_time": 1699281522,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689124,
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597897,
+      "num": 597897,
+      "word": "秦岚录完花少好像失忆了",
+      "onboard_time": 1699281403,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597217,
       "num": 597217,
       "word": "芒果的纯元回来了",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1699252889,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 522812,
-      "num": 522812,
-      "word": "每天1点睡觉的好处",
-      "onboard_time": 1699280863,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 517463,
@@ -1587,6 +1603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 465809,
+      "num": 313612,
+      "word": "普通人和有钱人取名字区别有多大",
+      "onboard_time": 1699281765,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465078,
       "num": 465078,
       "word": "WB回应争议",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1699174232,
       "rank": 16,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 437208,
+      "num": 302563,
+      "word": "女娲毕设 古力娜扎",
+      "onboard_time": 1699281945,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436525,
@@ -2001,6 +2033,14 @@
       "onboard_time": 1699244014,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376901,
+      "num": 296945,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376284,
@@ -2611,6 +2651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269828,
+      "num": 269828,
+      "word": "权志龙ins事必归正",
+      "onboard_time": 1699281282,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268310,
       "num": 268310,
       "word": "漫画公司原来长这样",
@@ -2683,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256136,
-      "num": 224152,
-      "word": "大三女生跳松花江自杀",
-      "onboard_time": 1699274315,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256131,
       "num": 455733,
       "word": "福建男篮浙江男篮赛后冲突",
@@ -2747,6 +2787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250929,
+      "num": 238632,
+      "word": "桦南体育馆房顶坍塌与降雪有关",
+      "onboard_time": 1699283435,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250707,
       "num": 250707,
       "word": "魏大勋送张杰大勋花",
@@ -2779,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248311,
+      "num": 235763,
+      "word": "金莎一个问题暴露了对婚姻的不自信",
+      "onboard_time": 1699282360,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247469,
       "num": 247469,
       "word": "菜还没上筷子先花了两元",
@@ -2801,6 +2857,14 @@
       "onboard_time": 1699261956,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246723,
+      "num": 246723,
+      "word": "空调房里的广东人沉默了",
+      "onboard_time": 1699282660,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246546,
@@ -3555,6 +3619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196189,
+      "num": 196189,
+      "word": "时宴单手解扣",
+      "onboard_time": 1699283318,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "主持人大赛",
@@ -3889,6 +3961,14 @@
       "onboard_time": 1699254212,
       "rank": 36,
       "category": "知识科普,健康医疗"
+    },
+    {
+      "raw_hot": 178184,
+      "num": 178184,
+      "word": "东北早市什么时候全国推广",
+      "onboard_time": 1699283560,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 178126,
@@ -4299,20 +4379,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154343,
-      "num": 154343,
-      "word": "权志龙ins事必归正",
-      "onboard_time": 1699281282,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "以军全面包围加沙城",
       "onboard_time": 1699233033,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 153725,
+      "num": 153725,
+      "word": "柚子烤五花肉",
+      "onboard_time": 1699282480,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 153099,
@@ -4361,6 +4441,14 @@
       "onboard_time": 1699228771,
       "rank": 32,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 150863,
+      "num": 150863,
+      "word": "朴宰范嘴角比AK还难压",
+      "onboard_time": 1699283677,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 150752,
@@ -5161,6 +5249,14 @@
       "onboard_time": 1699145552,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105033,
+      "num": 105033,
+      "word": "西安震撼夜景飞机俯瞰图",
+      "onboard_time": 1699281945,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103794,
