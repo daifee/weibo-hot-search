@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699294953800,
+  "endTime": 1699295722925,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -435,20 +435,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58141,
+      "num": 35059,
+      "word": "中南两国关系已经步入黄金时代",
+      "onboard_time": 1699293863,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 54653,
       "num": 54653,
       "word": "张亮舞台尿裤子险进剧院黑名单",
       "onboard_time": 1699280021,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47056,
-      "num": 35059,
-      "word": "中南两国关系已经步入黄金时代",
-      "onboard_time": 1699293863,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 37823,
