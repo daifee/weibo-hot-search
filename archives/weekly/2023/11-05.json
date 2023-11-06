@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699251801917,
+  "endTime": 1699252605949,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1629958,
+      "num": 1629958,
+      "word": "父子俩5.2元购入95号汽油6.7元售出",
+      "onboard_time": 1699247556,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1621162,
       "num": 1621162,
       "word": "马龙林昀儒争冠",
@@ -249,14 +257,6 @@
       "onboard_time": 1699233753,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1557314,
-      "num": 1557314,
-      "word": "父子俩5.2元购入95号汽油6.7元售出",
-      "onboard_time": 1699247556,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1553287,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1163767,
+      "num": 523813,
+      "word": "宝诗龙 肖战",
+      "onboard_time": 1699250552,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1155213,
       "num": 1155213,
       "word": "谁家接吻带墨镜啊",
@@ -401,6 +409,14 @@
       "onboard_time": 1699208777,
       "rank": 36,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1138581,
+      "num": 1138581,
+      "word": "斗鱼证实CEO陈少杰失联",
+      "onboard_time": 1699251091,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1097810,
@@ -451,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1015955,
-      "num": 515801,
-      "word": "宝诗龙 肖战",
-      "onboard_time": 1699250552,
-      "rank": 10,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 997549,
       "num": 997549,
       "word": "北京供暖",
@@ -497,6 +505,14 @@
       "onboard_time": 1699190796,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 918536,
+      "num": 918536,
+      "word": "替同学挡8刀的她成了人民警察",
+      "onboard_time": 1699249769,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 904045,
@@ -843,28 +859,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 631675,
-      "num": 631675,
-      "word": "替同学挡8刀的她成了人民警察",
-      "onboard_time": 1699249769,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623055,
-      "num": 623055,
-      "word": "斗鱼证实CEO陈少杰失联",
-      "onboard_time": 1699251091,
-      "rank": 8,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 619238,
       "num": 619238,
       "word": "睡眠不好等于在身体内养毒",
       "onboard_time": 1699151850,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 616596,
+      "num": 616596,
+      "word": "五代女团首次合作",
+      "onboard_time": 1699251752,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 610986,
@@ -1083,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 492260,
+      "num": 492260,
+      "word": "白鹿王鹤棣新剧收视率",
+      "onboard_time": 1699248813,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492068,
       "num": 492068,
       "word": "披荆斩棘排名",
@@ -1235,20 +1251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460977,
-      "num": 460977,
-      "word": "白鹿王鹤棣新剧收视率",
-      "onboard_time": 1699248813,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 454426,
-      "num": 454426,
-      "word": "五代女团首次合作",
-      "onboard_time": 1699251752,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 450143,
+      "num": 450143,
+      "word": "天津助学金当事人不认可调查结果",
+      "onboard_time": 1699251813,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449878,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1699162713,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434066,
+      "num": 434066,
+      "word": "李枫 郭敬明",
+      "onboard_time": 1699251873,
+      "rank": 14,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 432266,
@@ -1979,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275342,
+      "num": 275342,
+      "word": "何炅 自卑的人该怎么治愈自己",
+      "onboard_time": 1699252115,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274038,
       "num": 231639,
       "word": "宋雨琦奔跑吧回归路透",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1699247076,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243753,
+      "num": 243753,
+      "word": "金莎孙丞潇是奔着结婚谈恋爱的",
+      "onboard_time": 1699251691,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 243534,
@@ -3251,8 +3283,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146871,
-      "num": 136789,
+      "raw_hot": 147433,
+      "num": 147433,
       "word": "ELLE红毯造型点评",
       "onboard_time": 1699250972,
       "rank": 35,
@@ -3427,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134887,
+      "num": 101454,
+      "word": "刘诗诗 优雅黑天鹅",
+      "onboard_time": 1699252531,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 133797,
       "num": 133797,
       "word": "杜兰特41分",
@@ -3512,14 +3552,6 @@
       "word": "母亲对家庭的奉献不是理所当然",
       "onboard_time": 1699167868,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 128323,
-      "num": 103493,
-      "word": "金莎孙丞潇是奔着结婚谈恋爱的",
-      "onboard_time": 1699251691,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -3835,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103773,
+      "num": 103773,
+      "word": "乐观大姐山中误踩捕兽夹拍视频纪念",
+      "onboard_time": 1699250852,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101426,
       "num": 101426,
       "word": "周也想拉彭昱畅一起去环球影城",
@@ -3960,14 +4000,6 @@
       "word": "挖机师傅遇老人填土20分钟帮填平",
       "onboard_time": 1699153110,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90908,
-      "num": 90908,
-      "word": "乐观大姐山中误踩捕兽夹拍视频纪念",
-      "onboard_time": 1699250852,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4131,6 +4163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68415,
+      "num": 96348,
+      "word": "92岁志愿军老战士精准破译摩斯密码",
+      "onboard_time": 1699252353,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67994,
       "num": 376228,
       "word": "张小斐 黑夜里闪耀的钻石",
@@ -4145,6 +4185,14 @@
       "onboard_time": 1699202485,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66238,
+      "num": 95986,
+      "word": "渝爱被渝可抢盆盆奶反应太可爱",
+      "onboard_time": 1699252591,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66162,
@@ -4203,7 +4251,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47748,
+      "raw_hot": 49671,
       "num": 1228004,
       "word": "2023世界互联网大会乌镇峰会",
       "onboard_time": 1699249114,
