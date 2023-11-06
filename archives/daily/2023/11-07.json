@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699298045924,
+  "endTime": 1699299239747,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35088,
+      "num": 21160,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 27796,
       "num": 27796,
       "word": "Mark泰容泰民跳了Guilty",
@@ -467,8 +475,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18492,
-      "num": 18492,
+      "raw_hot": 24586,
+      "num": 21143,
       "word": "纽约地铁从不养闲人",
       "onboard_time": 1699297934,
       "rank": 42,
@@ -489,14 +497,6 @@
       "onboard_time": 1699260152,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16327,
-      "num": 16327,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [

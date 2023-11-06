@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699298045924,
+  "endTime": 1699299239747,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -17315,6 +17315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35088,
+      "num": 21160,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 34400,
       "num": 1310485,
       "word": "90秒数说今年进博会亮点",
@@ -17419,6 +17427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 24586,
+      "num": 21143,
+      "word": "纽约地铁从不养闲人",
+      "onboard_time": 1699297934,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24525,
       "num": 416640,
       "word": "骤降10度天猫补贴千万寒潮红包",
@@ -17459,14 +17475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18492,
-      "num": 18492,
-      "word": "纽约地铁从不养闲人",
-      "onboard_time": 1699297934,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 18233,
       "num": 33839,
       "word": "2个动作锻炼腰背肌",
@@ -17497,14 +17505,6 @@
       "onboard_time": 1699259733,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 16327,
-      "num": 16327,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 16048,
