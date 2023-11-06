@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699263267057,
+  "endTime": 1699266001457,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -145,6 +145,14 @@
       "onboard_time": 1699183715,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2047953,
+      "num": 2047953,
+      "word": "宁安如梦 空降",
+      "onboard_time": 1699263756,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2004579,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035259,
+      "num": 1035259,
+      "word": "权志龙馒化",
+      "onboard_time": 1699262553,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1004331,
       "num": 1004331,
       "word": "何炅 自卑的人该怎么治愈自己",
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 845093,
-      "num": 518185,
-      "word": "权志龙馒化",
-      "onboard_time": 1699262553,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 844357,
       "num": 700265,
       "word": "孙燕姿前经纪人发长文应援",
@@ -696,6 +704,14 @@
       "word": "29岁女教练因一张娃娃脸火出圈",
       "onboard_time": 1699236091,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807518,
+      "num": 807518,
+      "word": "南京鼓楼医院一处吊顶坍塌1人轻伤",
+      "onboard_time": 1699263513,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -891,12 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659903,
+      "num": 391320,
+      "word": "张亮为了天天24小时不关机",
+      "onboard_time": 1699264718,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658504,
       "num": 1079269,
       "word": "男孩问普京您不会是普京吧",
       "onboard_time": 1699181078,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 656181,
+      "num": 656181,
+      "word": "张艺谋说张小斐转型很成功",
+      "onboard_time": 1699264113,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 643654,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1699182275,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 544123,
+      "num": 544123,
+      "word": "齐刘海的赵丽颖",
+      "onboard_time": 1699264058,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 534404,
@@ -1579,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407550,
+      "num": 870993,
+      "word": "小猫假装有主人老板假装有客人",
+      "onboard_time": 1699263935,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407273,
       "num": 423953,
       "word": "王艺迪WTT女单夺冠",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1699259852,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 396872,
+      "num": 384231,
+      "word": "杨笠看长相思除了官配都站了",
+      "onboard_time": 1699263392,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 396277,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1699192118,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 350365,
+      "num": 350365,
+      "word": "芒果的纯元回来了",
+      "onboard_time": 1699265254,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 349415,
@@ -2507,6 +2571,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 238090,
+      "num": 262352,
+      "word": "东北朋友送给全国的第一场雪",
+      "onboard_time": 1699264897,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237496,
       "num": 237496,
       "word": "章昊RICKY直播",
@@ -2521,6 +2593,14 @@
       "onboard_time": 1699116267,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237042,
+      "num": 261356,
+      "word": "消防员忍臭到干呕将黄鼠狼抓捕放生",
+      "onboard_time": 1699264235,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236816,
@@ -2859,6 +2939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207492,
+      "num": 200951,
+      "word": "章昊part好少",
+      "onboard_time": 1699264718,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "极氪007",
@@ -2905,6 +2993,14 @@
       "onboard_time": 1699190262,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202737,
+      "num": 202737,
+      "word": "郑州鸵鸟已被动物园带走",
+      "onboard_time": 1699262434,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202556,
@@ -2979,6 +3075,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198125,
+      "num": 198125,
+      "word": "薛之谦演唱会抢票",
+      "onboard_time": 1699265016,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197765,
+      "num": 197765,
+      "word": "卡琳娜cos库洛洛",
+      "onboard_time": 1699262673,
+      "rank": 24,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 197495,
       "num": 197495,
       "word": "好有饭缩力",
@@ -2993,14 +3105,6 @@
       "onboard_time": 1699233333,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196789,
-      "num": 196789,
-      "word": "卡琳娜cos库洛洛",
-      "onboard_time": 1699262673,
-      "rank": 24,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 196142,
@@ -3091,6 +3195,14 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 192423,
+      "num": 192423,
+      "word": "乐游原",
+      "onboard_time": 1699265077,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192247,
       "num": 192247,
       "word": "油价或现三连降",
@@ -3129,6 +3241,14 @@
       "onboard_time": 1699262314,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190190,
+      "num": 156201,
+      "word": "虞书欣THE9合照库存",
+      "onboard_time": 1699263035,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 189828,
@@ -3387,6 +3507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172184,
+      "num": 153522,
+      "word": "地狱开局老公带着闺蜜跑了",
+      "onboard_time": 1699263454,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168838,
       "num": 160953,
       "word": "进击的巨人群像图",
@@ -3547,6 +3675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157964,
+      "num": 157964,
+      "word": "美容仪已经会自动画眉了",
+      "onboard_time": 1699265317,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 157195,
       "num": 341027,
       "word": "极氪007来了",
@@ -3673,14 +3809,6 @@
       "onboard_time": 1699236030,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 150215,
-      "num": 150215,
-      "word": "虞书欣THE9合照库存",
-      "onboard_time": 1699263035,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 149987,
@@ -3907,14 +4035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134737,
-      "num": 134737,
-      "word": "郑州鸵鸟已被动物园带走",
-      "onboard_time": 1699262434,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134224,
       "num": 134224,
       "word": "丁程鑫说来到街舞很快乐",
@@ -4009,6 +4129,14 @@
       "onboard_time": 1699105599,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129077,
+      "num": 129077,
+      "word": "薛之谦 我卖货就这脾气",
+      "onboard_time": 1699265976,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 129004,
@@ -4408,6 +4536,14 @@
       "word": "奶奶自发扫落叶2岁孙子跟着学",
       "onboard_time": 1699148011,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100364,
+      "num": 122045,
+      "word": "冠军搜救犬在消防员怀里秒变嘤嘤怪",
+      "onboard_time": 1699265917,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4827,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36444,
+      "num": 1241780,
+      "word": "相约乌镇峰会",
+      "onboard_time": 1699261895,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36006,
       "num": 360927,
       "word": "曼城6比1伯恩茅斯",
@@ -4857,14 +5001,6 @@
       "onboard_time": 1699121719,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31138,
-      "num": 1241780,
-      "word": "相约乌镇峰会",
-      "onboard_time": 1699261895,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25830,
