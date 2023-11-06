@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/07 06:33:49
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/07 07:17:09
 </p>
 </blockquote>
 <p>
@@ -1623,6 +1623,12 @@ S13四强已有三支LPL战队（热度：837933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%863%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+佳木斯坍塌体育馆3人遇难（热度：823594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%85%A5%E4%B8%80%E4%B8%8B%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
 代入一下关晓彤（热度：823473）
 </a>
@@ -3189,6 +3195,12 @@ LNG止步八强李宁直播间遭网友吐槽（热度：509866）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23" target="weibo">
+新疆多地出现罕见红色极光（热度：501144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E8%87%AA%E7%A0%94AI%E8%93%9D%E5%BF%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%23" target="weibo">
 vivo发布自研AI蓝心大模型（热度：500651）
 </a>
@@ -4031,6 +4043,12 @@ SEVENTEEN迪士尼版漫画（热度：439733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A7%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E8%A6%81%E5%86%8D%E6%89%94%E4%BA%86%23" target="weibo">
 旧的羽绒服不要再扔了（热度：411742）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97%23" target="weibo">
+主持人大赛治好了我的精神内耗（热度：411669）
 </a>
 </li>
 
@@ -5487,12 +5505,6 @@ BLG（热度：301803）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E6%9E%81%E5%85%89%23" target="weibo">
-新疆多地出现罕见红色极光（热度：297125）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%95%BF%E5%B0%BE%E6%95%88%E5%BA%94%E5%A5%BD%E5%BC%BA%23" target="weibo">
 莲花楼长尾效应好强（热度：296915）
 </a>
@@ -5999,18 +6011,6 @@ LNG纯菜（热度：283278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93cos%E5%B0%8F%E7%8C%AB%E5%92%AA%23" target="weibo">
 卢昱晓cos小猫咪（热度：270861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%87%B4%E6%AD%89%23" target="weibo">
-梅西中国行主办方致歉（热度：270808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%9B%9B%E5%85%B8%E5%86%85%E5%9C%BA%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23" target="weibo">
-ELLE盛典内场嘉宾名单（热度：270511）
 </a>
 </li>
 

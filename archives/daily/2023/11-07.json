@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699310029404,
+  "endTime": 1699312629268,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823594,
+      "num": 823594,
+      "word": "佳木斯坍塌体育馆3人遇难",
+      "onboard_time": 1699311985,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 660221,
       "num": 253976,
       "word": "大三女生跳松花江自杀",
       "onboard_time": 1699274315,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660154,
+      "num": 660154,
+      "word": "医院院长倒卖出生证明每张赚6万",
+      "onboard_time": 1699272454,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -43,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501144,
+      "num": 501144,
+      "word": "新疆多地出现罕见红色极光",
+      "onboard_time": 1699276534,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480972,
       "num": 253073,
       "word": "每天1点睡觉的好处",
@@ -65,6 +89,14 @@
       "onboard_time": 1699274196,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411669,
+      "num": 183986,
+      "word": "主持人大赛治好了我的精神内耗",
+      "onboard_time": 1699310418,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 395421,
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 315271,
-      "num": 151665,
+      "num": 205073,
       "word": "苹果这台3w块的电脑怎么样",
       "onboard_time": 1699286852,
       "rank": 30,
@@ -121,14 +153,6 @@
       "onboard_time": 1699263756,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270261,
-      "num": 270261,
-      "word": "医院院长倒卖出生证明每张赚6万",
-      "onboard_time": 1699272454,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262033,
@@ -153,14 +177,6 @@
       "onboard_time": 1699281945,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 244401,
-      "num": 244401,
-      "word": "新疆多地出现罕见红色极光",
-      "onboard_time": 1699276534,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241304,
@@ -217,6 +233,14 @@
       "onboard_time": 1699286611,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197164,
+      "num": 197164,
+      "word": "热刺1比4切尔西",
+      "onboard_time": 1699312164,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 193904,
@@ -299,12 +323,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130719,
+      "num": 86140,
+      "word": "热刺赛季首败",
+      "onboard_time": 1699312467,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124149,
+      "num": 105346,
+      "word": "小朋友跳绳方圆十里不能站人",
+      "onboard_time": 1699310721,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122809,
       "num": 122809,
       "word": "为什么iPhone只有P大写",
       "onboard_time": 1699271252,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121978,
+      "num": 121978,
+      "word": "咱们三个把日子过好比什么都强",
+      "onboard_time": 1699300394,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 112217,
@@ -331,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110294,
+      "num": 110294,
+      "word": "金莎一个问题暴露了对婚姻的不自信",
+      "onboard_time": 1699282360,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103514,
       "num": 103514,
       "word": "谁能拒绝一个会颠勺的总裁呢",
@@ -347,19 +403,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96109,
-      "num": 96109,
-      "word": "金莎一个问题暴露了对婚姻的不自信",
-      "onboard_time": 1699282360,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 94395,
       "num": 94395,
       "word": "哈尔滨的哈是哈利波特的哈",
       "onboard_time": 1699280863,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92853,
+      "num": 85804,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 89358,
+      "num": 89358,
+      "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
+      "onboard_time": 1699312586,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -371,20 +435,20 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 86918,
+      "num": 86918,
+      "word": "被猫猫发现去了撸猫馆",
+      "onboard_time": 1699290320,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85690,
       "num": 85690,
       "word": "苏醒教你辨认苏醒的热搜",
       "onboard_time": 1699283978,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84008,
-      "num": 84008,
-      "word": "被猫猫发现去了撸猫馆",
-      "onboard_time": 1699290320,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 83193,
@@ -435,14 +499,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 68620,
-      "num": 52025,
-      "word": "咱们三个把日子过好比什么都强",
-      "onboard_time": 1699300394,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60555,
       "num": 153300,
       "word": "佳木斯一体育馆坍塌初步确认3人被困",
@@ -459,16 +515,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43322,
-      "num": 35848,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
+      "raw_hot": 43030,
+      "num": 43030,
+      "word": "雪鸢真的意难平",
+      "onboard_time": 1699312404,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 37823,
-      "num": 427131,
+      "num": 599954,
       "word": "进博会到底有多好逛",
       "onboard_time": 1699276296,
       "rank": 2,
