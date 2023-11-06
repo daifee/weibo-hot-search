@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699267048309,
+  "endTime": 1699269323938,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -497,6 +497,14 @@
       "onboard_time": 1699018117,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1963838,
+      "num": 1264232,
+      "word": "薛之谦 我卖货就这脾气",
+      "onboard_time": 1699265976,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 1958869,
@@ -1217,14 +1225,6 @@
       "onboard_time": 1699096596,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1244045,
-      "num": 541163,
-      "word": "薛之谦 我卖货就这脾气",
-      "onboard_time": 1699265976,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 1240365,
@@ -2403,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 760312,
+      "num": 1390546,
+      "word": "女大学生肚子大被搓澡阿姨救了一命",
+      "onboard_time": 1699268494,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759210,
       "num": 759210,
       "word": "买8只大闸蟹老板给我寄了个蒸笼",
@@ -2825,6 +2833,14 @@
       "onboard_time": 1698990454,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 672674,
+      "num": 388327,
+      "word": "刘诗诗下车那段百看不厌",
+      "onboard_time": 1699268134,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 668611,
@@ -4147,6 +4163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486560,
+      "num": 381707,
+      "word": "陈都灵的冷笑",
+      "onboard_time": 1699266693,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486218,
       "num": 486218,
       "word": "大连人降级",
@@ -4787,6 +4811,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 433184,
+      "num": 1201595,
+      "word": "东北朋友送给全国的第一场雪",
+      "onboard_time": 1699264897,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432398,
       "num": 297245,
       "word": "以爱为营群像海报",
@@ -5305,6 +5337,14 @@
       "onboard_time": 1699259852,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 400288,
+      "num": 400288,
+      "word": "孙颖莎退出WTT太原站单打",
+      "onboard_time": 1699269032,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 399211,
@@ -5857,14 +5897,6 @@
       "onboard_time": 1698931894,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 361645,
-      "num": 283954,
-      "word": "陈都灵的冷笑",
-      "onboard_time": 1699266693,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 361571,
@@ -6603,14 +6635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319936,
-      "num": 783272,
-      "word": "东北朋友送给全国的第一场雪",
-      "onboard_time": 1699264897,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319457,
       "num": 319457,
       "word": "哈登放弃交易补偿金",
@@ -6657,6 +6681,14 @@
       "onboard_time": 1698937899,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316216,
+      "num": 316216,
+      "word": "陈梦因伤退出WTT太原站",
+      "onboard_time": 1699268916,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 315947,
@@ -8459,6 +8491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241580,
+      "num": 241580,
+      "word": "马立奥 下次还陪妈妈出差",
+      "onboard_time": 1699268254,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241197,
       "num": 241197,
       "word": "大熊猫飞云搂着小象呼呼呼呼呼",
@@ -8497,6 +8537,22 @@
       "onboard_time": 1698757531,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239549,
+      "num": 239549,
+      "word": "俄罗斯人组团到黑龙江取快递",
+      "onboard_time": 1699268554,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239404,
+      "num": 239404,
+      "word": "谁家男主一脚把女主踹河里啊",
+      "onboard_time": 1699268673,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 239304,
@@ -9217,6 +9273,14 @@
       "onboard_time": 1698986020,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222347,
+      "num": 222347,
+      "word": "东北暴雪",
+      "onboard_time": 1699268855,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222291,
@@ -10107,6 +10171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201245,
+      "num": 201245,
+      "word": "ENHYPEN直播",
+      "onboard_time": 1699268494,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "斗罗大鹿各自为营",
@@ -10337,6 +10409,14 @@
       "onboard_time": 1698809373,
       "rank": 34,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 197126,
+      "num": 191892,
+      "word": "唐僧蹦迪 从拒绝到加入",
+      "onboard_time": 1699268074,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 197065,
@@ -11483,6 +11563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177251,
+      "num": 177251,
+      "word": "原神娜维娅",
+      "onboard_time": 1699267414,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177170,
       "num": 1395126,
       "word": "相信gala",
@@ -12315,12 +12403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160706,
+      "num": 160706,
+      "word": "何立峰将访问美国",
+      "onboard_time": 1699266455,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 160233,
       "num": 227211,
       "word": "转弯后被日照金山震撼到热泪盈眶",
       "onboard_time": 1699147591,
       "rank": 18,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 159613,
+      "num": 159613,
+      "word": "魏大勋演我上学状态",
+      "onboard_time": 1699267773,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 159428,
@@ -12561,6 +12665,14 @@
       "onboard_time": 1698794304,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155594,
+      "num": 155594,
+      "word": "正经恋爱许光汉是一点不演",
+      "onboard_time": 1699267296,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 155477,
@@ -12817,6 +12929,14 @@
       "onboard_time": 1699228771,
       "rank": 32,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 150752,
+      "num": 150752,
+      "word": "南京消防回应鼓楼医院天花板掉落",
+      "onboard_time": 1699266996,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150733,
@@ -13227,14 +13347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144658,
-      "num": 144658,
-      "word": "何立峰将访问美国",
-      "onboard_time": 1699266455,
-      "rank": 33,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 144500,
       "num": 144500,
       "word": "塞尔达 命运还没降临",
@@ -13377,6 +13489,14 @@
       "onboard_time": 1698916891,
       "rank": 41,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 142204,
+      "num": 142204,
+      "word": "气血不足的7个天敌",
+      "onboard_time": 1699266815,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142178,
@@ -13931,14 +14051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131537,
-      "num": 131537,
-      "word": "南京消防回应鼓楼医院天花板掉落",
-      "onboard_time": 1699266996,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131469,
       "num": 217120,
       "word": "张靓颖半透明蓝色纱裙",
@@ -14001,6 +14113,14 @@
       "onboard_time": 1698996456,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130798,
+      "num": 130798,
+      "word": "原神夏沃蕾",
+      "onboard_time": 1699267773,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 130615,
@@ -14227,6 +14347,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 126668,
+      "num": 126668,
+      "word": "赵露思单肩公主裙",
+      "onboard_time": 1699268013,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 126462,
       "num": 126462,
       "word": "流浪地球3开启上映倒计时",
@@ -14297,6 +14425,14 @@
       "onboard_time": 1698769588,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125139,
+      "num": 125139,
+      "word": "顾云峥 你对象是不是杀过鱼",
+      "onboard_time": 1699267651,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 124868,
@@ -14433,14 +14569,6 @@
       "onboard_time": 1699238251,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121694,
-      "num": 121694,
-      "word": "气血不足的7个天敌",
-      "onboard_time": 1699266815,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121598,
@@ -16348,7 +16476,7 @@
     },
     {
       "raw_hot": 36444,
-      "num": 1324672,
+      "num": 1361584,
       "word": "相约乌镇峰会",
       "onboard_time": 1699261895,
       "rank": 2,
@@ -16529,6 +16657,14 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 15122,
+      "num": 337660,
+      "word": "骤降10度天猫补贴千万寒潮红包",
+      "onboard_time": 1699268436,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 15116,
