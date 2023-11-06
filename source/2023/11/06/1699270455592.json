@@ -1,0 +1,410 @@
+{
+  "runTime": 1699270455592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1435162,
+        "num": 1435162,
+        "word": "女大学生肚子大被搓澡阿姨救了一命",
+        "onboard_time": 1699268494,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159426,
+        "num": 1159426,
+        "word": "宁安如梦 空降",
+        "onboard_time": 1699263756,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29514,
+        "num": 1158832,
+        "word": "相约乌镇峰会",
+        "onboard_time": 1699261895,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2053783,
+        "num": 1158803,
+        "word": "薛之谦 我卖货就这脾气",
+        "onboard_time": 1699265976,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387275,
+        "num": 1158787,
+        "word": "东北朋友送给全国的第一场雪",
+        "onboard_time": 1699264897,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158773,
+        "num": 1158773,
+        "word": "孙颖莎退出WTT太原站单打",
+        "onboard_time": 1699269032,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353659,
+        "num": 959369,
+        "word": "替同学挡8刀的她成了人民警察",
+        "onboard_time": 1699249769,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 943938,
+        "num": 943938,
+        "word": "张亮为了天天24小时不关机",
+        "onboard_time": 1699264718,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643357,
+        "num": 643357,
+        "word": "东北暴雪",
+        "onboard_time": 1699268855,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628001,
+        "num": 628001,
+        "word": "权志龙馒化",
+        "onboard_time": 1699262553,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1131481,
+        "num": 576907,
+        "word": "刘诗诗下车那段百看不厌",
+        "onboard_time": 1699268134,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491822,
+        "num": 491822,
+        "word": "芒果的纯元回来了",
+        "onboard_time": 1699265254,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424370,
+        "num": 424370,
+        "word": "迪丽热巴张馨予 美女的旁边还是美女",
+        "onboard_time": 1699260152,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424230,
+        "num": 424230,
+        "word": "陈梦因伤退出WTT太原站",
+        "onboard_time": 1699268916,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24525,
+        "num": 416640,
+        "word": "骤降10度天猫补贴千万寒潮红包",
+        "onboard_time": 1699268436,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 409996,
+        "num": 409996,
+        "word": "陈都灵的冷笑",
+        "onboard_time": 1699266693,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329671,
+        "num": 329671,
+        "word": "谁家男主一脚把女主踹河里啊",
+        "onboard_time": 1699268673,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328917,
+        "num": 328917,
+        "word": "泉州小区发生爆燃致1死3伤",
+        "onboard_time": 1699260152,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302089,
+        "num": 302089,
+        "word": "杨笠看长相思除了官配都站了",
+        "onboard_time": 1699263392,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330084,
+        "num": 282650,
+        "word": "俄罗斯人组团到黑龙江取快递",
+        "onboard_time": 1699268554,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257159,
+        "num": 257159,
+        "word": "齐刘海的赵丽颖",
+        "onboard_time": 1699264058,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242542,
+        "num": 242542,
+        "word": "斗鱼证实CEO陈少杰失联",
+        "onboard_time": 1699251091,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235634,
+        "num": 235634,
+        "word": "新龙门客栈",
+        "onboard_time": 1699269395,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205747,
+        "num": 205747,
+        "word": "不抗寒",
+        "onboard_time": 1699254632,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200318,
+        "num": 200318,
+        "word": "小猫假装有主人老板假装有客人",
+        "onboard_time": 1699263935,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224593,
+        "num": 198553,
+        "word": "马立奥 下次还陪妈妈出差",
+        "onboard_time": 1699268254,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193962,
+        "num": 193962,
+        "word": "老公是一种感觉",
+        "onboard_time": 1699269333,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177072,
+        "num": 177072,
+        "word": "父子俩5.2元购入95号汽油6.7元售出",
+        "onboard_time": 1699247556,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163324,
+        "num": 163324,
+        "word": "ENHYPEN直播",
+        "onboard_time": 1699268494,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160554,
+        "num": 160554,
+        "word": "南京鼓楼医院一处吊顶坍塌1人轻伤",
+        "onboard_time": 1699263513,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198714,
+        "num": 159765,
+        "word": "孙颖莎太原站继续出战混双",
+        "onboard_time": 1699270115,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158814,
+        "num": 158814,
+        "word": "原神娜维娅",
+        "onboard_time": 1699267414,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157338,
+        "num": 157338,
+        "word": "女将星",
+        "onboard_time": 1699254693,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154302,
+        "num": 154302,
+        "word": "奔跑吧生态篇杭州录制阵容",
+        "onboard_time": 1699262733,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153505,
+        "num": 153505,
+        "word": "张艺谋说张小斐转型很成功",
+        "onboard_time": 1699264113,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144481,
+        "num": 144481,
+        "word": "唐僧蹦迪 从拒绝到加入",
+        "onboard_time": 1699268074,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143747,
+        "num": 143747,
+        "word": "卡琳娜cos库洛洛",
+        "onboard_time": 1699262673,
+        "rank": 36,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 132596,
+        "num": 132596,
+        "word": "何炅 自卑的人该怎么治愈自己",
+        "onboard_time": 1699252115,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132146,
+        "num": 132146,
+        "word": "谁的下饭综艺回来了",
+        "onboard_time": 1699262372,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130082,
+        "num": 130082,
+        "word": "腿妹的旅行翻包日记",
+        "onboard_time": 1699270175,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 128621,
+        "word": "李现的左右脸是复制粘贴的吧",
+        "onboard_time": 1699257394,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126998,
+        "num": 126998,
+        "word": "刘诗诗 优雅黑天鹅",
+        "onboard_time": 1699252531,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126243,
+        "num": 126243,
+        "word": "气血不足的7个天敌",
+        "onboard_time": 1699266815,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126072,
+        "num": 126072,
+        "word": "以爱为营 编剧小巧思",
+        "onboard_time": 1699270413,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124878,
+        "num": 124878,
+        "word": "杨紫山茶花白裙",
+        "onboard_time": 1699270413,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123182,
+        "num": 123182,
+        "word": "正经恋爱许光汉是一点不演",
+        "onboard_time": 1699267296,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111239,
+        "num": 111239,
+        "word": "南京消防回应鼓楼医院天花板掉落",
+        "onboard_time": 1699266996,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107885,
+        "num": 107885,
+        "word": "何立峰将访问美国",
+        "onboard_time": 1699266455,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 106552,
+        "num": 106552,
+        "word": "郑州鸵鸟已被动物园带走",
+        "onboard_time": 1699262434,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102815,
+        "num": 102815,
+        "word": "为什么觉得护肤品小样比正装好用",
+        "onboard_time": 1699269574,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国市场成为世界的市场共享的市场大家的市场#"
+    }
+  }
+}

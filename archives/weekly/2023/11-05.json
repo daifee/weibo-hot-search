@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699269323938,
+  "endTime": 1699270455592,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2053783,
+      "num": 1264232,
+      "word": "薛之谦 我卖货就这脾气",
+      "onboard_time": 1699265976,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2047953,
       "num": 2047953,
       "word": "宁安如梦 空降",
@@ -161,14 +169,6 @@
       "onboard_time": 1699151128,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1963838,
-      "num": 1264232,
-      "word": "薛之谦 我卖货就这脾气",
-      "onboard_time": 1699265976,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 1957141,
@@ -339,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1435162,
+      "num": 1435162,
+      "word": "女大学生肚子大被搓澡阿姨救了一命",
+      "onboard_time": 1699268494,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1400184,
       "num": 1400184,
       "word": "斗鱼证实CEO陈少杰失联",
@@ -475,6 +483,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1158773,
+      "num": 1158773,
+      "word": "孙颖莎退出WTT太原站单打",
+      "onboard_time": 1699269032,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1155213,
       "num": 1155213,
       "word": "谁家接吻带墨镜啊",
@@ -497,6 +513,14 @@
       "onboard_time": 1699254693,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1131481,
+      "num": 576907,
+      "word": "刘诗诗下车那段百看不厌",
+      "onboard_time": 1699268134,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1097810,
@@ -803,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 760312,
-      "num": 1390546,
-      "word": "女大学生肚子大被搓澡阿姨救了一命",
-      "onboard_time": 1699268494,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 759210,
       "num": 759210,
       "word": "买8只大闸蟹老板给我寄了个蒸笼",
@@ -907,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 672674,
-      "num": 388327,
-      "word": "刘诗诗下车那段百看不厌",
-      "onboard_time": 1699268134,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 668611,
       "num": 668611,
       "word": "哈尔滨主城区停课1天",
@@ -961,6 +969,14 @@
       "onboard_time": 1699184016,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 643357,
+      "num": 643357,
+      "word": "东北暴雪",
+      "onboard_time": 1699268855,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638693,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 486560,
-      "num": 381707,
+      "num": 409996,
       "word": "陈都灵的冷笑",
       "onboard_time": 1699266693,
       "rank": 20,
@@ -1619,6 +1635,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 424230,
+      "num": 424230,
+      "word": "陈梦因伤退出WTT太原站",
+      "onboard_time": 1699268916,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422813,
       "num": 422813,
       "word": "艾伦三笠 最后一吻",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1699259852,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 400288,
-      "num": 400288,
-      "word": "孙颖莎退出WTT太原站单打",
-      "onboard_time": 1699269032,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 396277,
@@ -2043,6 +2059,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330084,
+      "num": 282650,
+      "word": "俄罗斯人组团到黑龙江取快递",
+      "onboard_time": 1699268554,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329671,
+      "num": 329671,
+      "word": "谁家男主一脚把女主踹河里啊",
+      "onboard_time": 1699268673,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327211,
       "num": 327211,
       "word": "三把零龙",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1699262733,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316216,
-      "num": 316216,
-      "word": "陈梦因伤退出WTT太原站",
-      "onboard_time": 1699268916,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 316151,
@@ -2627,22 +2651,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 239549,
-      "num": 239549,
-      "word": "俄罗斯人组团到黑龙江取快递",
-      "onboard_time": 1699268554,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239404,
-      "num": 239404,
-      "word": "谁家男主一脚把女主踹河里啊",
-      "onboard_time": 1699268673,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238469,
       "num": 203881,
       "word": "没想到张云龙过后这么快就轮到你了",
@@ -2705,6 +2713,14 @@
       "onboard_time": 1699146571,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 235634,
+      "num": 235634,
+      "word": "新龙门客栈",
+      "onboard_time": 1699269395,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 235462,
@@ -2873,14 +2889,6 @@
       "onboard_time": 1699197756,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222347,
-      "num": 222347,
-      "word": "东北暴雪",
-      "onboard_time": 1699268855,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222070,
@@ -3163,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198714,
+      "num": 159765,
+      "word": "孙颖莎太原站继续出战混双",
+      "onboard_time": 1699270115,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198229,
       "num": 198229,
       "word": "寒潮已渡江将歼灭南方30度",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1699258772,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 193962,
+      "num": 193962,
+      "word": "老公是一种感觉",
+      "onboard_time": 1699269333,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 193673,
@@ -4275,6 +4299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130082,
+      "num": 130082,
+      "word": "腿妹的旅行翻包日记",
+      "onboard_time": 1699270175,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 129410,
       "num": 129410,
       "word": "佳木斯贺晶",
@@ -4371,6 +4403,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 126072,
+      "num": 126072,
+      "word": "以爱为营 编剧小巧思",
+      "onboard_time": 1699270413,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125649,
       "num": 125649,
       "word": "男子酒驾送妻就医交警拦下后化身代驾",
@@ -4385,6 +4425,14 @@
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124878,
+      "num": 124878,
+      "word": "杨紫山茶花白裙",
+      "onboard_time": 1699270413,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124083,
@@ -4657,6 +4705,14 @@
       "onboard_time": 1699250852,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102815,
+      "num": 102815,
+      "word": "为什么觉得护肤品小样比正装好用",
+      "onboard_time": 1699269574,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 102520,
@@ -5187,6 +5243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 24525,
+      "num": 416640,
+      "word": "骤降10度天猫补贴千万寒潮红包",
+      "onboard_time": 1699268436,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 23899,
       "num": 56520,
       "word": "进击的巨人 泪如雨下",
@@ -5233,14 +5297,6 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15122,
-      "num": 337660,
-      "word": "骤降10度天猫补贴千万寒潮红包",
-      "onboard_time": 1699268436,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 8351,
