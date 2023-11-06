@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699238336552,
+  "endTime": 1699240685293,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -361,6 +361,14 @@
       "onboard_time": 1698970114,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2150252,
+      "num": 2150252,
+      "word": "科学家发现地球正在漏气",
+      "onboard_time": 1699235554,
+      "rank": 5,
+      "category": "社会新闻,知识科普"
     },
     {
       "raw_hot": 2123546,
@@ -1547,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 994970,
-      "num": 994970,
-      "word": "科学家发现地球正在漏气",
-      "onboard_time": 1699235554,
-      "rank": 5,
-      "category": "社会新闻,知识科普"
-    },
-    {
       "raw_hot": 992265,
       "num": 992265,
       "word": "年轻人逛商场只去B1B2",
@@ -1979,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809184,
+      "num": 809184,
+      "word": "29岁女教练因一张娃娃脸火出圈",
+      "onboard_time": 1699236091,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808039,
       "num": 808039,
       "word": "Bin兰博",
@@ -2011,12 +2019,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805197,
+      "num": 805197,
+      "word": "钟楚曦侯雯元下腰抱海报",
+      "onboard_time": 1699236812,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 804494,
+      "num": 804494,
+      "word": "杨紫小夭新造型",
+      "onboard_time": 1699237712,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 799100,
       "num": 445575,
       "word": "万圣节宋焰cos",
       "onboard_time": 1698807570,
       "rank": 11,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 798327,
+      "num": 798327,
+      "word": "奔跑吧",
+      "onboard_time": 1699237292,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 797441,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1699057891,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 773950,
-      "num": 773950,
-      "word": "29岁女教练因一张娃娃脸火出圈",
-      "onboard_time": 1699236091,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 769400,
@@ -2571,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675879,
+      "num": 500905,
+      "word": "曝钢铁侠和美队同意回归漫威",
+      "onboard_time": 1699239271,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 675782,
       "num": 360279,
       "word": "ELLE红毯内场",
@@ -2592,14 +2624,6 @@
       "word": "时宴的腰力",
       "onboard_time": 1698990454,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 674209,
-      "num": 674209,
-      "word": "钟楚曦侯雯元下腰抱海报",
-      "onboard_time": 1699236812,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2753,6 +2777,22 @@
       "onboard_time": 1698892535,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634965,
+      "num": 455176,
+      "word": "唐嫣 综艺判官",
+      "onboard_time": 1699237533,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634901,
+      "num": 634901,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634682,
@@ -2955,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608910,
-      "num": 608910,
-      "word": "奔跑吧",
-      "onboard_time": 1699237292,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 608485,
       "num": 608485,
       "word": "东部战区回应美加军舰过航台湾海峡",
@@ -2977,6 +3009,14 @@
       "onboard_time": 1699016855,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 607118,
+      "num": 384522,
+      "word": "何炅谢娜同台主持湖南卫视惊喜夜",
+      "onboard_time": 1699238493,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 603608,
@@ -3387,14 +3427,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 538432,
-      "num": 538432,
-      "word": "杨紫小夭新造型",
-      "onboard_time": 1699237712,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 536423,
       "num": 296626,
       "word": "薛之谦给刘维写歌漏了戚薇",
@@ -3721,6 +3753,14 @@
       "onboard_time": 1698818733,
       "rank": 12,
       "category": "游戏,美妆"
+    },
+    {
+      "raw_hot": 494827,
+      "num": 301604,
+      "word": "离职的女同事继承了四个亿的家产",
+      "onboard_time": 1699239933,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 493949,
@@ -4163,14 +4203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455176,
-      "num": 455176,
-      "word": "唐嫣 综艺判官",
-      "onboard_time": 1699237533,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 452799,
       "num": 342537,
       "word": "魏大勋刘昊然李现坐一桌",
@@ -4609,6 +4641,14 @@
       "onboard_time": 1698912695,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416663,
+      "num": 371827,
+      "word": "权志龙去警察厅接受检查",
+      "onboard_time": 1699239754,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 416090,
@@ -5739,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342783,
+      "num": 342783,
+      "word": "涉小便事件青岛啤酒三厂更换负责人",
+      "onboard_time": 1699238912,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342264,
       "num": 342264,
       "word": "约旦召回驻以色列大使",
@@ -5785,6 +5833,14 @@
       "onboard_time": 1699152210,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337566,
+      "num": 217760,
+      "word": "童瑶这个妆容灵感是孙悟空吗",
+      "onboard_time": 1699240414,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 337410,
@@ -5993,6 +6049,14 @@
       "onboard_time": 1698998434,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324899,
+      "num": 300522,
+      "word": "朱丹周一围合体情感综艺",
+      "onboard_time": 1699239393,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 323982,
@@ -7563,6 +7627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247469,
+      "num": 247469,
+      "word": "菜还没上筷子先花了两元",
+      "onboard_time": 1699234890,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247372,
       "num": 247372,
       "word": "你会买大牌美妆的小样吗",
@@ -7833,6 +7905,14 @@
       "onboard_time": 1698852398,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238027,
+      "num": 238027,
+      "word": "娜扎新片演农村姑娘",
+      "onboard_time": 1699239692,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 237998,
@@ -8987,6 +9067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207074,
+      "num": 207074,
+      "word": "极氪007",
+      "onboard_time": 1699239933,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 207066,
       "num": 207066,
       "word": "第五人格 你号没了涂鸦",
@@ -9193,6 +9281,14 @@
       "onboard_time": 1699090952,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202839,
+      "num": 173177,
+      "word": "张柏芝双开门冰箱",
+      "onboard_time": 1699240533,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202709,
@@ -9473,14 +9569,6 @@
       "onboard_time": 1699178310,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 197474,
-      "num": 197474,
-      "word": "菜还没上筷子先花了两元",
-      "onboard_time": 1699234890,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197455,
@@ -10627,6 +10715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175449,
+      "num": 175449,
+      "word": "天猫互助",
+      "onboard_time": 1699240414,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 175143,
       "num": 175143,
       "word": "孩子手指夹断警车开道送医顺利手术",
@@ -10905,6 +11001,14 @@
       "onboard_time": 1698983195,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167838,
+      "num": 167838,
+      "word": "年轻人为什么开始反内卷购物了",
+      "onboard_time": 1699239871,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167808,
@@ -11217,6 +11321,14 @@
       "onboard_time": 1698971314,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161790,
+      "num": 161790,
+      "word": "东北的雪快扫不过来了",
+      "onboard_time": 1699239692,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161671,
@@ -11728,6 +11840,14 @@
       "word": "国产电影原著作者票房榜吴承恩第二",
       "onboard_time": 1699067972,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 151249,
+      "num": 151249,
+      "word": "电影出入平安杀青",
+      "onboard_time": 1699239332,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -12265,6 +12385,14 @@
       "onboard_time": 1698916891,
       "rank": 41,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 142542,
+      "num": 170044,
+      "word": "极氪007来了",
+      "onboard_time": 1699239871,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 142178,
@@ -12947,14 +13075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129090,
-      "num": 129090,
-      "word": "天津助学金事件调查结果",
-      "onboard_time": 1699238251,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129004,
       "num": 194155,
       "word": "母亲对家庭的奉献不是理所当然",
@@ -13011,12 +13131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127640,
+      "num": 127640,
+      "word": "下睫毛速成法",
+      "onboard_time": 1699240174,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127444,
       "num": 127444,
       "word": "李雪琴 把他乡变成故乡",
       "onboard_time": 1699093773,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127400,
+      "num": 127400,
+      "word": "互联网上的秦海璐诱捕器找到了",
+      "onboard_time": 1699238671,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127110,
@@ -13496,6 +13632,14 @@
       "word": "高中生警务站门口放下礼物转身就跑",
       "onboard_time": 1698907895,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117083,
+      "num": 117083,
+      "word": "男子酒驾送妻就医交警拦下后化身代驾",
+      "onboard_time": 1699239271,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -14873,6 +15017,14 @@
       "onboard_time": 1698840033,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 48891,
+      "num": 112653,
+      "word": "三星堆文物的工艺有多牛",
+      "onboard_time": 1699240471,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46631,

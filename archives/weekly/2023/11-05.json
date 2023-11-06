@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699238336552,
+  "endTime": 1699240685293,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -105,6 +105,14 @@
       "onboard_time": 1699227148,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2150252,
+      "num": 2150252,
+      "word": "科学家发现地球正在漏气",
+      "onboard_time": 1699235554,
+      "rank": 5,
+      "category": "社会新闻,知识科普"
     },
     {
       "raw_hot": 2109443,
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 994970,
-      "num": 994970,
-      "word": "科学家发现地球正在漏气",
-      "onboard_time": 1699235554,
-      "rank": 5,
-      "category": "社会新闻,知识科普"
-    },
-    {
       "raw_hot": 958227,
       "num": 958227,
       "word": "LNG对战T1 比分预测",
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809184,
+      "num": 809184,
+      "word": "29岁女教练因一张娃娃脸火出圈",
+      "onboard_time": 1699236091,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805935,
       "num": 805935,
       "word": "林昀儒没想到自己能赢",
@@ -553,6 +561,30 @@
       "onboard_time": 1699172609,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 805197,
+      "num": 805197,
+      "word": "钟楚曦侯雯元下腰抱海报",
+      "onboard_time": 1699236812,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 804494,
+      "num": 804494,
+      "word": "杨紫小夭新造型",
+      "onboard_time": 1699237712,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 798327,
+      "num": 798327,
+      "word": "奔跑吧",
+      "onboard_time": 1699237292,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 794871,
@@ -577,14 +609,6 @@
       "onboard_time": 1699231537,
       "rank": 9,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 773950,
-      "num": 773950,
-      "word": "29岁女教练因一张娃娃脸火出圈",
-      "onboard_time": 1699236091,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 763870,
@@ -667,12 +691,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 674209,
-      "num": 674209,
-      "word": "钟楚曦侯雯元下腰抱海报",
-      "onboard_time": 1699236812,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 675879,
+      "num": 500905,
+      "word": "曝钢铁侠和美队同意回归漫威",
+      "onboard_time": 1699239271,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 668611,
@@ -715,6 +739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634965,
+      "num": 455176,
+      "word": "唐嫣 综艺判官",
+      "onboard_time": 1699237533,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634901,
+      "num": 634901,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634362,
       "num": 634362,
       "word": "年轻人为什么抢着上夜校",
@@ -739,11 +779,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 608910,
-      "num": 608910,
-      "word": "奔跑吧",
-      "onboard_time": 1699237292,
-      "rank": 31,
+      "raw_hot": 607118,
+      "num": 384522,
+      "word": "何炅谢娜同台主持湖南卫视惊喜夜",
+      "onboard_time": 1699238493,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -835,14 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 538432,
-      "num": 538432,
-      "word": "杨紫小夭新造型",
-      "onboard_time": 1699237712,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 534404,
       "num": 534404,
       "word": "林心如说紫薇演得好浮夸",
@@ -920,6 +952,14 @@
       "word": "刚改造完房东就把房子卖了",
       "onboard_time": 1699229316,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 494827,
+      "num": 301604,
+      "word": "离职的女同事继承了四个亿的家产",
+      "onboard_time": 1699239933,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -1067,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455176,
-      "num": 455176,
-      "word": "唐嫣 综艺判官",
-      "onboard_time": 1699237533,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 449878,
       "num": 449878,
       "word": "张颂文 我的演唱会你不来吗",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1699105176,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416663,
+      "num": 371827,
+      "word": "权志龙去警察厅接受检查",
+      "onboard_time": 1699239754,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 411639,
@@ -1427,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342783,
+      "num": 342783,
+      "word": "涉小便事件青岛啤酒三厂更换负责人",
+      "onboard_time": 1699238912,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339734,
       "num": 339734,
       "word": "要久久爱首支预告",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1699152210,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337566,
+      "num": 217760,
+      "word": "童瑶这个妆容灵感是孙悟空吗",
+      "onboard_time": 1699240414,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 334402,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1699177891,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 324899,
+      "num": 300522,
+      "word": "朱丹周一围合体情感综艺",
+      "onboard_time": 1699239393,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 323128,
@@ -1827,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247469,
+      "num": 247469,
+      "word": "菜还没上筷子先花了两元",
+      "onboard_time": 1699234890,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246546,
       "num": 246546,
       "word": "张钧甯说阮经天超时从不收钱",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1699188395,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 238027,
+      "num": 238027,
+      "word": "娜扎新片演农村姑娘",
+      "onboard_time": 1699239692,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 237496,
@@ -2171,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207074,
+      "num": 207074,
+      "word": "极氪007",
+      "onboard_time": 1699239933,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206628,
       "num": 217111,
       "word": "梦想改造家",
@@ -2201,6 +2289,14 @@
       "onboard_time": 1699190262,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202839,
+      "num": 173177,
+      "word": "张柏芝双开门冰箱",
+      "onboard_time": 1699240533,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202556,
@@ -2273,14 +2369,6 @@
       "onboard_time": 1699178310,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 197474,
-      "num": 197474,
-      "word": "菜还没上筷子先花了两元",
-      "onboard_time": 1699234890,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196889,
@@ -2499,6 +2587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175449,
+      "num": 175449,
+      "word": "天猫互助",
+      "onboard_time": 1699240414,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "周也说檀健次是剧组最辛苦担当",
@@ -2553,6 +2649,14 @@
       "onboard_time": 1699216813,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167838,
+      "num": 167838,
+      "word": "年轻人为什么开始反内卷购物了",
+      "onboard_time": 1699239871,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166825,
@@ -2633,6 +2737,14 @@
       "onboard_time": 1699155393,
       "rank": 33,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 161790,
+      "num": 161790,
+      "word": "东北的雪快扫不过来了",
+      "onboard_time": 1699239692,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161411,
@@ -2745,6 +2857,14 @@
       "onboard_time": 1699233033,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 151249,
+      "num": 151249,
+      "word": "电影出入平安杀青",
+      "onboard_time": 1699239332,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 150921,
@@ -2873,6 +2993,14 @@
       "onboard_time": 1699149811,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142542,
+      "num": 170044,
+      "word": "极氪007来了",
+      "onboard_time": 1699239871,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 142178,
@@ -3027,14 +3155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129090,
-      "num": 129090,
-      "word": "天津助学金事件调查结果",
-      "onboard_time": 1699238251,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129004,
       "num": 194155,
       "word": "母亲对家庭的奉献不是理所当然",
@@ -3049,6 +3169,22 @@
       "onboard_time": 1699174830,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 127640,
+      "num": 127640,
+      "word": "下睫毛速成法",
+      "onboard_time": 1699240174,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 127400,
+      "num": 127400,
+      "word": "互联网上的秦海璐诱捕器找到了",
+      "onboard_time": 1699238671,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127110,
@@ -3153,6 +3289,14 @@
       "onboard_time": 1699163913,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117083,
+      "num": 117083,
+      "word": "男子酒驾送妻就医交警拦下后化身代驾",
+      "onboard_time": 1699239271,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116708,
@@ -3641,6 +3785,14 @@
       "onboard_time": 1699134973,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48891,
+      "num": 112653,
+      "word": "三星堆文物的工艺有多牛",
+      "onboard_time": 1699240471,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42415,

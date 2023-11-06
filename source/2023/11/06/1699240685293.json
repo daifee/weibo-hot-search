@@ -1,0 +1,410 @@
+{
+  "runTime": 1699240685293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2150252,
+        "num": 2150252,
+        "word": "科学家发现地球正在漏气",
+        "onboard_time": 1699235554,
+        "rank": 0,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 1128228,
+        "num": 1128228,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32960,
+        "num": 1110295,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1104708,
+        "num": 1104708,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809184,
+        "num": 809184,
+        "word": "29岁女教练因一张娃娃脸火出圈",
+        "onboard_time": 1699236091,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805197,
+        "num": 805197,
+        "word": "钟楚曦侯雯元下腰抱海报",
+        "onboard_time": 1699236812,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804494,
+        "num": 804494,
+        "word": "杨紫小夭新造型",
+        "onboard_time": 1699237712,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 798327,
+        "num": 798327,
+        "word": "奔跑吧",
+        "onboard_time": 1699237292,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634901,
+        "num": 634901,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545940,
+        "num": 545940,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834591,
+        "num": 527838,
+        "word": "当事人称学校已告知助学金事件调查结果",
+        "onboard_time": 1699237050,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675879,
+        "num": 500905,
+        "word": "曝钢铁侠和美队同意回归漫威",
+        "onboard_time": 1699239271,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 634965,
+        "num": 444003,
+        "word": "唐嫣 综艺判官",
+        "onboard_time": 1699237533,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615713,
+        "num": 438563,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699235314,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406168,
+        "num": 406168,
+        "word": "福原爱回应再被前夫告发",
+        "onboard_time": 1699236515,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 607118,
+        "num": 384522,
+        "word": "何炅谢娜同台主持湖南卫视惊喜夜",
+        "onboard_time": 1699238493,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416663,
+        "num": 371827,
+        "word": "权志龙去警察厅接受检查",
+        "onboard_time": 1699239754,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342783,
+        "num": 342783,
+        "word": "涉小便事件青岛啤酒三厂更换负责人",
+        "onboard_time": 1699238912,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314028,
+        "num": 314028,
+        "word": "年轻人为什么抢着上夜校",
+        "onboard_time": 1699233573,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311091,
+        "num": 311091,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1059602,
+        "num": 307230,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494827,
+        "num": 301604,
+        "word": "离职的女同事继承了四个亿的家产",
+        "onboard_time": 1699239933,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324899,
+        "num": 300522,
+        "word": "朱丹周一围合体情感综艺",
+        "onboard_time": 1699239393,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293445,
+        "num": 293445,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247469,
+        "num": 247469,
+        "word": "菜还没上筷子先花了两元",
+        "onboard_time": 1699234890,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316243,
+        "num": 247400,
+        "word": "杨紫李现 国色芳华",
+        "onboard_time": 1699231717,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238027,
+        "num": 238027,
+        "word": "娜扎新片演农村姑娘",
+        "onboard_time": 1699239692,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227855,
+        "num": 227855,
+        "word": "苏醒悍跳预言家",
+        "onboard_time": 1699235613,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225542,
+        "num": 225542,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699231537,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 217867,
+        "num": 217867,
+        "word": "杨超越新剧演女大",
+        "onboard_time": 1699236153,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337566,
+        "num": 217760,
+        "word": "童瑶这个妆容灵感是孙悟空吗",
+        "onboard_time": 1699240414,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 217256,
+        "num": 217256,
+        "word": "现在看何以琛太搞笑了",
+        "onboard_time": 1699230456,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207074,
+        "num": 207074,
+        "word": "极氪007",
+        "onboard_time": 1699239933,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175449,
+        "num": 175449,
+        "word": "天猫互助",
+        "onboard_time": 1699240414,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175448,
+        "num": 175448,
+        "word": "吴承恩精神状态真的领先一百年",
+        "onboard_time": 1699234712,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 202839,
+        "num": 173177,
+        "word": "张柏芝双开门冰箱",
+        "onboard_time": 1699240533,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142542,
+        "num": 170044,
+        "word": "极氪007来了",
+        "onboard_time": 1699239871,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167838,
+        "num": 167838,
+        "word": "年轻人为什么开始反内卷购物了",
+        "onboard_time": 1699239871,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161790,
+        "num": 161790,
+        "word": "东北的雪快扫不过来了",
+        "onboard_time": 1699239692,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161402,
+        "num": 161402,
+        "word": "能被四爷看上 是那个人的荣幸",
+        "onboard_time": 1699235371,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156671,
+        "num": 156671,
+        "word": "刚改造完房东就把房子卖了",
+        "onboard_time": 1699229316,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151249,
+        "num": 151249,
+        "word": "电影出入平安杀青",
+        "onboard_time": 1699239332,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140860,
+        "num": 140860,
+        "word": "郑书意一集八十个情绪变化",
+        "onboard_time": 1699237231,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136215,
+        "num": 136215,
+        "word": "近视眼正确化妆思路",
+        "onboard_time": 1699233573,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129420,
+        "num": 129420,
+        "word": "奥巴马称没有谁的手是干净的",
+        "onboard_time": 1699208777,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 127640,
+        "num": 127640,
+        "word": "下睫毛速成法",
+        "onboard_time": 1699240174,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127400,
+        "num": 127400,
+        "word": "互联网上的秦海璐诱捕器找到了",
+        "onboard_time": 1699238671,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126968,
+        "num": 126968,
+        "word": "俞灏明 没成团",
+        "onboard_time": 1699230699,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117083,
+        "num": 117083,
+        "word": "男子酒驾送妻就医交警拦下后化身代驾",
+        "onboard_time": 1699239271,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48891,
+        "num": 112653,
+        "word": "三星堆文物的工艺有多牛",
+        "onboard_time": 1699240471,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受中国的开放与自信#"
+    }
+  }
+}
