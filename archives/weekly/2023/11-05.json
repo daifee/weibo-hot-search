@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699274094848,
+  "endTime": 1699275073138,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1927412,
+      "num": 416733,
+      "word": "老公姐",
+      "onboard_time": 1699270654,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1775198,
       "num": 930752,
       "word": "黄海波放下了吗",
@@ -233,14 +241,6 @@
       "onboard_time": 1699151790,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1663640,
-      "num": 312797,
-      "word": "老公姐",
-      "onboard_time": 1699270654,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1650872,
@@ -305,6 +305,14 @@
       "onboard_time": 1699233753,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1578738,
+      "num": 1578738,
+      "word": "权志龙笑着笑着就结束调查了",
+      "onboard_time": 1699274196,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1553287,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1168718,
+      "num": 1168718,
+      "word": "医院院长倒卖出生证明每张赚6万",
+      "onboard_time": 1699272454,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1163767,
       "num": 552683,
       "word": "宝诗龙 肖战",
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014186,
+      "num": 707109,
+      "word": "住持称与女主播发生关系后被敲诈",
+      "onboard_time": 1699270533,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004331,
       "num": 1004331,
       "word": "何炅 自卑的人该怎么治愈自己",
@@ -608,14 +632,6 @@
       "word": "鼓楼医院",
       "onboard_time": 1699261595,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964966,
-      "num": 707109,
-      "word": "住持称与女主播发生关系后被敲诈",
-      "onboard_time": 1699270533,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -891,14 +907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 723835,
-      "num": 723835,
-      "word": "医院院长倒卖出生证明每张赚6万",
-      "onboard_time": 1699272454,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 717935,
       "num": 717935,
       "word": "泫雅签约金晓钟经纪公司",
@@ -1011,12 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639413,
+      "num": 639413,
+      "word": "陈楚生直播",
+      "onboard_time": 1699273473,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638693,
       "num": 638693,
       "word": "要久久爱",
       "onboard_time": 1699150710,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637893,
+      "num": 637893,
+      "word": "终于知道秦岚为什么叫朵拉",
+      "onboard_time": 1699272512,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 636338,
@@ -1192,6 +1216,14 @@
       "word": "杨紫山茶花白裙",
       "onboard_time": 1699270413,
       "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 564458,
+      "num": 323573,
+      "word": "易烊千玺到达慕尼黑",
+      "onboard_time": 1699274915,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -1467,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471792,
-      "num": 308912,
-      "word": "终于知道秦岚为什么叫朵拉",
-      "onboard_time": 1699272512,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 469138,
       "num": 469138,
       "word": "以爱为营 视角",
@@ -1713,14 +1737,6 @@
       "onboard_time": 1699272454,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 419976,
-      "num": 419976,
-      "word": "陈楚生直播",
-      "onboard_time": 1699273473,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 419746,
@@ -2299,6 +2315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291490,
+      "num": 291490,
+      "word": "许凯 你们就是这么宣传我的",
+      "onboard_time": 1699272757,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291366,
       "num": 239185,
       "word": "五种对身体很不好的食物",
@@ -2715,14 +2739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 240435,
-      "num": 188755,
-      "word": "许凯 你们就是这么宣传我的",
-      "onboard_time": 1699272757,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239734,
       "num": 239734,
       "word": "华为将在本月发布首款轿车智界S7",
@@ -2963,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224130,
+      "num": 170193,
+      "word": "陈丽君好帅",
+      "onboard_time": 1699274196,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223115,
       "num": 223115,
       "word": "孙千高妹的优雅",
@@ -3009,6 +3033,14 @@
       "onboard_time": 1699151310,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 218712,
+      "num": 126038,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217757,
@@ -3435,6 +3467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192274,
+      "num": 156758,
+      "word": "突然理解为什么姜涛是顶流了",
+      "onboard_time": 1699274615,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192247,
       "num": 192247,
       "word": "油价或现三连降",
@@ -3473,6 +3513,14 @@
       "onboard_time": 1699262314,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190489,
+      "num": 190489,
+      "word": "难怪甄嬛说宁古塔苦寒无比",
+      "onboard_time": 1699271791,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 190190,
@@ -3651,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177779,
+      "num": 125584,
+      "word": "汪苏泷直播",
+      "onboard_time": 1699274915,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177251,
       "num": 177251,
       "word": "原神娜维娅",
@@ -3697,6 +3753,14 @@
       "onboard_time": 1699257694,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174710,
+      "num": 151093,
+      "word": "广东的早茶菜单没有价格只有字",
+      "onboard_time": 1699272757,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 174179,
@@ -3752,6 +3816,14 @@
       "word": "地狱开局老公带着闺蜜跑了",
       "onboard_time": 1699263454,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169862,
+      "num": 158031,
+      "word": "以爱为营 编剧小巧思",
+      "onboard_time": 1699270413,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -3843,14 +3915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164074,
-      "num": 164074,
-      "word": "难怪甄嬛说宁古塔苦寒无比",
-      "onboard_time": 1699271791,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164049,
       "num": 164049,
       "word": "马嘉祺分享专辑创作故事",
@@ -3937,14 +4001,6 @@
       "onboard_time": 1699196558,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 158031,
-      "num": 158031,
-      "word": "以爱为营 编剧小巧思",
-      "onboard_time": 1699270413,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 157964,
@@ -4065,14 +4121,6 @@
       "onboard_time": 1699252771,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151093,
-      "num": 151093,
-      "word": "广东的早茶菜单没有价格只有字",
-      "onboard_time": 1699272757,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 150921,
@@ -4299,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138645,
+      "num": 123968,
+      "word": "二次元的三行遗书",
+      "onboard_time": 1699274315,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138597,
       "num": 429018,
       "word": "进击的巨人完结篇开播",
@@ -4348,7 +4404,7 @@
     },
     {
       "raw_hot": 134260,
-      "num": 116974,
+      "num": 117233,
       "word": "一句好久不见我直接破防",
       "onboard_time": 1699272333,
       "rank": 41,
@@ -4513,6 +4569,14 @@
       "onboard_time": 1699238671,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127315,
+      "num": 127315,
+      "word": "3名男子闯进快递站拿走300多件快递",
+      "onboard_time": 1699273595,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127155,
@@ -4688,14 +4752,6 @@
       "word": "广东恩平地震",
       "onboard_time": 1699097978,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114830,
-      "num": 114830,
-      "word": "3名男子闯进快递站拿走300多件快递",
-      "onboard_time": 1699273595,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4881,6 +4937,14 @@
       "onboard_time": 1699258533,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 101809,
+      "num": 116997,
+      "word": "孙燕姿杨紫YZYZ组合新歌抢先听",
+      "onboard_time": 1699270715,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 101426,
@@ -5291,6 +5355,14 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 61478,
+      "num": 335021,
+      "word": "健身打工两不误穿搭",
+      "onboard_time": 1699273113,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 60068,
       "num": 463929,
       "word": "杨紫活动花絮高清图",
@@ -5353,14 +5425,6 @@
       "onboard_time": 1699155451,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 37313,
-      "num": 308236,
-      "word": "健身打工两不误穿搭",
-      "onboard_time": 1699273113,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 37128,
