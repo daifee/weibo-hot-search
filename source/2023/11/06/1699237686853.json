@@ -1,0 +1,410 @@
+{
+  "runTime": 1699237686853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498443,
+        "num": 1498443,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1393280,
+        "num": 1393280,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43021,
+        "num": 1257119,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1242926,
+        "num": 1242926,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046591,
+        "num": 1046591,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699235314,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802716,
+        "num": 802716,
+        "word": "科学家发现地球正在漏气",
+        "onboard_time": 1699235554,
+        "rank": 5,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 634362,
+        "num": 634362,
+        "word": "年轻人为什么抢着上夜校",
+        "onboard_time": 1699233573,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594326,
+        "num": 594326,
+        "word": "29岁女教练因一张娃娃脸火出圈",
+        "onboard_time": 1699236091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501617,
+        "num": 501617,
+        "word": "杨紫李现 国色芳华",
+        "onboard_time": 1699231717,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477340,
+        "num": 477340,
+        "word": "奥巴马称没有谁的手是干净的",
+        "onboard_time": 1699208777,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 460297,
+        "num": 460297,
+        "word": "现在看何以琛太搞笑了",
+        "onboard_time": 1699230456,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448717,
+        "num": 448717,
+        "word": "当事人称学校已告知助学金事件调查结果",
+        "onboard_time": 1699237050,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431553,
+        "num": 431553,
+        "word": "苏醒悍跳预言家",
+        "onboard_time": 1699235613,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416904,
+        "num": 416904,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699231537,
+        "rank": 13,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 411639,
+        "num": 411639,
+        "word": "多地降温男子偷穿女友打底裤取暖",
+        "onboard_time": 1699235011,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366799,
+        "num": 366799,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 340352,
+        "num": 340352,
+        "word": "福原爱回应再被前夫告发",
+        "onboard_time": 1699236515,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 322229,
+        "num": 322229,
+        "word": "钟楚曦侯雯元下腰抱海报",
+        "onboard_time": 1699236812,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321218,
+        "num": 321218,
+        "word": "俞灏明 没成团",
+        "onboard_time": 1699230699,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309801,
+        "num": 309801,
+        "word": "请回答1988开播八周年",
+        "onboard_time": 1699230813,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1470979,
+        "num": 309607,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395198,
+        "num": 309355,
+        "word": "能被四爷看上 是那个人的荣幸",
+        "onboard_time": 1699235371,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308472,
+        "num": 308472,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1699233514,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306948,
+        "num": 306948,
+        "word": "东北局地特大暴雪",
+        "onboard_time": 1699231057,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301830,
+        "num": 301830,
+        "word": "南京地铁",
+        "onboard_time": 1699231233,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303064,
+        "num": 294751,
+        "word": "杨超越新剧演女大",
+        "onboard_time": 1699236153,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "取快递的重任到了15后身上",
+        "onboard_time": 1699235554,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257385,
+        "num": 257385,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250672,
+        "num": 250672,
+        "word": "吴承恩精神状态真的领先一百年",
+        "onboard_time": 1699234712,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 241794,
+        "num": 241794,
+        "word": "受伤的只有关晓彤和光盘",
+        "onboard_time": 1699229974,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234123,
+        "num": 234123,
+        "word": "王阳怎么不说王子请看剧",
+        "onboard_time": 1699236932,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231505,
+        "num": 231505,
+        "word": "奔跑吧",
+        "onboard_time": 1699237292,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225987,
+        "num": 225987,
+        "word": "刚改造完房东就把房子卖了",
+        "onboard_time": 1699229316,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203385,
+        "num": 203385,
+        "word": "秦岚 人间卡皮巴拉",
+        "onboard_time": 1699232374,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197474,
+        "num": 197474,
+        "word": "菜还没上筷子先花了两元",
+        "onboard_time": 1699234890,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192174,
+        "num": 192174,
+        "word": "唐嫣 综艺判官",
+        "onboard_time": 1699237533,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187287,
+        "num": 187287,
+        "word": "研究发现血型与疾病的发生有相关性",
+        "onboard_time": 1699227751,
+        "rank": 36,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 176926,
+        "num": 176926,
+        "word": "近视眼正确化妆思路",
+        "onboard_time": 1699233573,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175999,
+        "num": 175999,
+        "word": "哈尔滨主城区停课1天",
+        "onboard_time": 1699226545,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 166337,
+        "num": 166337,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164908,
+        "num": 164908,
+        "word": "钟楚曦芳华6年后再演舞者",
+        "onboard_time": 1699234473,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157901,
+        "num": 157901,
+        "word": "郑书意一集八十个情绪变化",
+        "onboard_time": 1699237231,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 154835,
+        "word": "吃宵夜遇到狗妈妈难产了",
+        "onboard_time": 1699235671,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150733,
+        "num": 150733,
+        "word": "器官最喜欢的十个动作",
+        "onboard_time": 1699236030,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147127,
+        "num": 147127,
+        "word": "警方通报女子将孩子推下池塘",
+        "onboard_time": 1699227268,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145845,
+        "num": 145845,
+        "word": "美团骑手年龄上限45岁系谣言",
+        "onboard_time": 1699234594,
+        "rank": 45,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 141683,
+        "num": 141683,
+        "word": "以军全面包围加沙城",
+        "onboard_time": 1699233033,
+        "rank": 46,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 132695,
+        "num": 132695,
+        "word": "你知道什么血型占比最少吗",
+        "onboard_time": 1699234594,
+        "rank": 47,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 132362,
+        "num": 132362,
+        "word": "马天宇分享泰国旅游惊险经历",
+        "onboard_time": 1699232015,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114307,
+        "num": 114307,
+        "word": "裴行俭前妻被大长公主逼死",
+        "onboard_time": 1699233694,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#扩大面向全球的高标准自由贸易区网络#"
+    }
+  }
+}
