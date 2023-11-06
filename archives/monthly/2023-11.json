@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699227257548,
+  "endTime": 1699233329643,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -251,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2555508,
+      "num": 2555508,
+      "word": "陈楚生 披荆斩棘总冠军",
+      "onboard_time": 1699225944,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2497528,
       "num": 422101,
       "word": "刘亚仁注射9.6升异丙酚",
@@ -305,6 +313,14 @@
       "onboard_time": 1698824971,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2314124,
+      "num": 2314124,
+      "word": "台湾黑老大向好友炫枪将自己打死",
+      "onboard_time": 1699227148,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2230925,
@@ -579,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1709827,
-      "num": 1709827,
-      "word": "陈楚生 披荆斩棘总冠军",
-      "onboard_time": 1699225944,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1699871,
       "num": 716540,
       "word": "工作人员让杨紫不要戳别人的鼻孔",
@@ -697,6 +705,14 @@
       "onboard_time": 1698982774,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1601108,
+      "num": 686606,
+      "word": "李枫说郭敬明事件是性骚扰",
+      "onboard_time": 1699229854,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1594962,
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1268811,
+      "num": 1268811,
+      "word": "东北局地特大暴雪",
+      "onboard_time": 1699231057,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264772,
       "num": 1264772,
       "word": "南京暴雨 萧敬腾从不失手",
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 1151301,
-      "num": 404876,
+      "num": 761709,
       "word": "奥巴马称没有谁的手是干净的",
       "onboard_time": 1699208777,
       "rank": 36,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1698884862,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1097810,
+      "num": 1097810,
+      "word": "俞灏明 没成团",
+      "onboard_time": 1699230699,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1092286,
@@ -1579,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929303,
+      "num": 929303,
+      "word": "杨紫李现 国色芳华",
+      "onboard_time": 1699231717,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 927195,
       "num": 416832,
       "word": "秦海璐和秦岚原来只差一岁",
@@ -1675,6 +1715,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 865948,
+      "num": 865948,
+      "word": "研究发现血型与疾病的发生有相关性",
+      "onboard_time": 1699227751,
+      "rank": 6,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 865018,
       "num": 400619,
       "word": "以爱为营 滤镜",
@@ -1732,7 +1780,7 @@
     },
     {
       "raw_hot": 845135,
-      "num": 202137,
+      "num": 242425,
       "word": "女子足疗店按摩被男技师猥亵",
       "onboard_time": 1699204280,
       "rank": 47,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1698840215,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 786830,
+      "num": 786830,
+      "word": "请回答1988开播八周年",
+      "onboard_time": 1699230813,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 785854,
@@ -2443,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687905,
+      "num": 687905,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699231537,
+      "rank": 9,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 682646,
       "num": 198939,
       "word": "造型师刘璐回应迪丽热巴造型",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1698990454,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 668611,
+      "num": 668611,
+      "word": "哈尔滨主城区停课1天",
+      "onboard_time": 1699226545,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 666744,
@@ -2785,6 +2857,14 @@
       "onboard_time": 1698898417,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 611770,
+      "num": 611770,
+      "word": "南京地铁",
+      "onboard_time": 1699231233,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611590,
@@ -3459,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508801,
+      "num": 284854,
+      "word": "刚改造完房东就把房子卖了",
+      "onboard_time": 1699229316,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 504671,
       "num": 504671,
       "word": "喻言 红发美人鱼",
@@ -3585,6 +3673,14 @@
       "onboard_time": 1698854554,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490184,
+      "num": 490184,
+      "word": "LNG",
+      "onboard_time": 1698923555,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 489247,
@@ -3771,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472696,
+      "num": 472696,
+      "word": "受伤的只有关晓彤和光盘",
+      "onboard_time": 1699229974,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470781,
       "num": 351054,
       "word": "林丹丹否认曾担任恒大歌舞团团长",
@@ -3867,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462706,
+      "num": 462706,
+      "word": "警方通报女子将孩子推下池塘",
+      "onboard_time": 1699227268,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462672,
       "num": 462672,
       "word": "狼队对战AG",
@@ -3889,6 +4001,14 @@
       "onboard_time": 1699176570,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460729,
+      "num": 460729,
+      "word": "现在看何以琛太搞笑了",
+      "onboard_time": 1699230456,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 460702,
@@ -5875,14 +5995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316645,
-      "num": 316645,
-      "word": "哈尔滨主城区停课1天",
-      "onboard_time": 1699226545,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 315947,
       "num": 315947,
       "word": "花西子双11为什么卖不动了",
@@ -6219,6 +6331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294391,
+      "num": 181534,
+      "word": "秦岚 人间卡皮巴拉",
+      "onboard_time": 1699232374,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293831,
       "num": 284430,
       "word": "岁岁青莲对我的乳腺很友好",
@@ -6305,14 +6425,6 @@
       "onboard_time": 1699062571,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288729,
-      "num": 288729,
-      "word": "LNG",
-      "onboard_time": 1698923555,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 288145,
@@ -6537,6 +6649,14 @@
       "onboard_time": 1698914613,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 277197,
+      "num": 277197,
+      "word": "马天宇分享泰国旅游惊险经历",
+      "onboard_time": 1699232015,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 277071,
@@ -7451,6 +7571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242970,
+      "num": 242970,
+      "word": "娜扎许魏洲新剧收视率",
+      "onboard_time": 1699229974,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242762,
       "num": 242762,
       "word": "眠狼离职",
@@ -7601,6 +7729,14 @@
       "onboard_time": 1699116267,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236816,
+      "num": 236816,
+      "word": "他衣服都没晾干就坐着睡着了",
+      "onboard_time": 1699229075,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236688,
@@ -8947,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201678,
+      "num": 201678,
+      "word": "十个勤天",
+      "onboard_time": 1699229496,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201500,
       "num": 201500,
       "word": "快船老板亲自迎接哈登",
@@ -9121,6 +9265,14 @@
       "onboard_time": 1698827310,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198229,
+      "num": 198229,
+      "word": "寒潮已渡江将歼灭南方30度",
+      "onboard_time": 1699228471,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198149,
@@ -9651,6 +9803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189050,
+      "num": 180269,
+      "word": "献殷勤的李光洙 被喜爱的都暻秀",
+      "onboard_time": 1699232434,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188979,
       "num": 231525,
       "word": "以爱为营土营十级怼人文学",
@@ -9761,6 +9921,14 @@
       "onboard_time": 1699179455,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186966,
+      "num": 186966,
+      "word": "谁吃了张远应援墙的苹果",
+      "onboard_time": 1699228894,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 186842,
@@ -11363,6 +11531,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 150883,
+      "num": 150883,
+      "word": "白桃星座",
+      "onboard_time": 1699228771,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 150729,
       "num": 150729,
       "word": "豌豆尖在四川的地位无法撼动",
@@ -11947,6 +12123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139600,
+      "num": 139600,
+      "word": "崩坏 葬送的芙莉莲",
+      "onboard_time": 1699231477,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139349,
       "num": 139349,
       "word": "进击的巨人终篇",
@@ -12017,6 +12201,14 @@
       "onboard_time": 1699082611,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137529,
+      "num": 137529,
+      "word": "女住客在酒店全裸泡澡竹帘形同虚设",
+      "onboard_time": 1699233272,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137309,
@@ -12203,6 +12395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133797,
+      "num": 133797,
+      "word": "杜兰特41分",
+      "onboard_time": 1699230755,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133755,
       "num": 133755,
       "word": "马特乌斯说梅西不配金球奖",
@@ -12329,6 +12529,14 @@
       "onboard_time": 1698823232,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132323,
+      "num": 132323,
+      "word": "暴雪寒潮大风3预警齐发",
+      "onboard_time": 1699231415,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131999,
@@ -12483,6 +12691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129410,
+      "num": 129410,
+      "word": "佳木斯贺晶",
+      "onboard_time": 1699228229,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129004,
       "num": 194155,
       "word": "母亲对家庭的奉献不是理所当然",
@@ -12569,6 +12785,14 @@
       "onboard_time": 1699068692,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126819,
+      "num": 131987,
+      "word": "王霏霏唱跳全开麦live现场",
+      "onboard_time": 1699232499,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 126805,
@@ -12665,6 +12889,14 @@
       "onboard_time": 1699090170,
       "rank": 2,
       "category": "自然"
+    },
+    {
+      "raw_hot": 124083,
+      "num": 124083,
+      "word": "小胖裴擒虎FMVP皮肤",
+      "onboard_time": 1699230877,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 124017,
@@ -13027,6 +13259,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116247,
+      "num": 116247,
+      "word": "罗云熙长了张爱说川普的嘴",
+      "onboard_time": 1699233155,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116201,
       "num": 116201,
       "word": "任嘉伦美拉德造型",
@@ -13057,6 +13297,14 @@
       "onboard_time": 1698981453,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115588,
+      "num": 115588,
+      "word": "易筋经十二式",
+      "onboard_time": 1699232556,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115418,
@@ -13091,12 +13339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114496,
+      "num": 114496,
+      "word": "Cat 有遗憾才是青春",
+      "onboard_time": 1699230276,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114409,
       "num": 114409,
       "word": "少年离家流浪走投无路求民警帮找工作",
       "onboard_time": 1698890914,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114117,
+      "num": 114117,
+      "word": "以军全面包围加沙城",
+      "onboard_time": 1699233033,
+      "rank": 48,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 113832,
@@ -13113,6 +13377,14 @@
       "onboard_time": 1699072292,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 113445,
+      "num": 113445,
+      "word": "金泰妍11月27日回归",
+      "onboard_time": 1699228352,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112495,
@@ -14179,12 +14451,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 62517,
-      "num": 62517,
-      "word": "台湾黑老大向好友炫枪将自己打死",
-      "onboard_time": 1699227148,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 61740,
+      "num": 1577787,
+      "word": "第一届全国学青会开幕式",
+      "onboard_time": 1699191097,
+      "rank": 2,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 61294,
@@ -14457,14 +14729,6 @@
       "onboard_time": 1698995972,
       "rank": 2,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 39042,
-      "num": 1070154,
-      "word": "第一届全国学青会开幕式",
-      "onboard_time": 1699191097,
-      "rank": 2,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 38495,

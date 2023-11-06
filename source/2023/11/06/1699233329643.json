@@ -1,0 +1,410 @@
+{
+  "runTime": 1699233329643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2555508,
+        "num": 2555508,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2314124,
+        "num": 2314124,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61740,
+        "num": 1577787,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1268811,
+        "num": 1268811,
+        "word": "东北局地特大暴雪",
+        "onboard_time": 1699231057,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097810,
+        "num": 1097810,
+        "word": "俞灏明 没成团",
+        "onboard_time": 1699230699,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 929303,
+        "num": 929303,
+        "word": "杨紫李现 国色芳华",
+        "onboard_time": 1699231717,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 865948,
+        "num": 865948,
+        "word": "研究发现血型与疾病的发生有相关性",
+        "onboard_time": 1699227751,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 786830,
+        "num": 786830,
+        "word": "请回答1988开播八周年",
+        "onboard_time": 1699230813,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 761709,
+        "num": 761709,
+        "word": "奥巴马称没有谁的手是干净的",
+        "onboard_time": 1699208777,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 687905,
+        "num": 687905,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699231537,
+        "rank": 9,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1601108,
+        "num": 686606,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668611,
+        "num": 668611,
+        "word": "哈尔滨主城区停课1天",
+        "onboard_time": 1699226545,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 611770,
+        "num": 611770,
+        "word": "南京地铁",
+        "onboard_time": 1699231233,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577926,
+        "num": 577926,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 490184,
+        "num": 490184,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 472696,
+        "num": 472696,
+        "word": "受伤的只有关晓彤和光盘",
+        "onboard_time": 1699229974,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462706,
+        "num": 462706,
+        "word": "警方通报女子将孩子推下池塘",
+        "onboard_time": 1699227268,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460729,
+        "num": 460729,
+        "word": "现在看何以琛太搞笑了",
+        "onboard_time": 1699230456,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367035,
+        "num": 367035,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 289007,
+        "num": 289007,
+        "word": "杨紫工作室把地砖P弯了",
+        "onboard_time": 1699183715,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508801,
+        "num": 284854,
+        "word": "刚改造完房东就把房子卖了",
+        "onboard_time": 1699229316,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277197,
+        "num": 277197,
+        "word": "马天宇分享泰国旅游惊险经历",
+        "onboard_time": 1699232015,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248766,
+        "num": 248766,
+        "word": "日本网民称福原爱被宠坏了",
+        "onboard_time": 1699194757,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242970,
+        "num": 242970,
+        "word": "娜扎许魏洲新剧收视率",
+        "onboard_time": 1699229974,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242425,
+        "num": 242425,
+        "word": "女子足疗店按摩被男技师猥亵",
+        "onboard_time": 1699204280,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236816,
+        "num": 236816,
+        "word": "他衣服都没晾干就坐着睡着了",
+        "onboard_time": 1699229075,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203311,
+        "num": 203311,
+        "word": "披荆斩棘",
+        "onboard_time": 1699185635,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201678,
+        "num": 201678,
+        "word": "十个勤天",
+        "onboard_time": 1699229496,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198229,
+        "num": 198229,
+        "word": "寒潮已渡江将歼灭南方30度",
+        "onboard_time": 1699228471,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186966,
+        "num": 186966,
+        "word": "谁吃了张远应援墙的苹果",
+        "onboard_time": 1699228894,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294391,
+        "num": 181534,
+        "word": "秦岚 人间卡皮巴拉",
+        "onboard_time": 1699232374,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189050,
+        "num": 180269,
+        "word": "献殷勤的李光洙 被喜爱的都暻秀",
+        "onboard_time": 1699232434,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150883,
+        "num": 150883,
+        "word": "白桃星座",
+        "onboard_time": 1699228771,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 141826,
+        "num": 141826,
+        "word": "以色列部长声称可对加沙投核弹",
+        "onboard_time": 1699190796,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139600,
+        "num": 139600,
+        "word": "崩坏 葬送的芙莉莲",
+        "onboard_time": 1699231477,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137529,
+        "num": 137529,
+        "word": "女住客在酒店全裸泡澡竹帘形同虚设",
+        "onboard_time": 1699233272,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134206,
+        "num": 134206,
+        "word": "北京供暖",
+        "onboard_time": 1699194999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133797,
+        "num": 133797,
+        "word": "杜兰特41分",
+        "onboard_time": 1699230755,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133307,
+        "num": 133307,
+        "word": "T1晋级S13四强",
+        "onboard_time": 1699179827,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132323,
+        "num": 132323,
+        "word": "暴雪寒潮大风3预警齐发",
+        "onboard_time": 1699231415,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126819,
+        "num": 131987,
+        "word": "王霏霏唱跳全开麦live现场",
+        "onboard_time": 1699232499,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131715,
+        "num": 131715,
+        "word": "RNG能不能把gala卡回来",
+        "onboard_time": 1699181974,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129410,
+        "num": 129410,
+        "word": "佳木斯贺晶",
+        "onboard_time": 1699228229,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127418,
+        "num": 127418,
+        "word": "张钧甯阮经天她在闹他在冷笑",
+        "onboard_time": 1699182275,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124083,
+        "num": 124083,
+        "word": "小胖裴擒虎FMVP皮肤",
+        "onboard_time": 1699230877,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116247,
+        "num": 116247,
+        "word": "罗云熙长了张爱说川普的嘴",
+        "onboard_time": 1699233155,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115588,
+        "num": 115588,
+        "word": "易筋经十二式",
+        "onboard_time": 1699232556,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114496,
+        "num": 114496,
+        "word": "Cat 有遗憾才是青春",
+        "onboard_time": 1699230276,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114117,
+        "num": 114117,
+        "word": "以军全面包围加沙城",
+        "onboard_time": 1699233033,
+        "rank": 48,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 113445,
+        "num": 113445,
+        "word": "金泰妍11月27日回归",
+        "onboard_time": 1699228352,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受中国的开放与自信#"
+    }
+  }
+}
