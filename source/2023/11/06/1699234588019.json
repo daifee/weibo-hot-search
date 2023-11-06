@@ -1,0 +1,410 @@
+{
+  "runTime": 1699234588019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2201721,
+        "num": 2201721,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1958081,
+        "num": 1958081,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53854,
+        "num": 1472269,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1291906,
+        "num": 1291906,
+        "word": "东北局地特大暴雪",
+        "onboard_time": 1699231057,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930110,
+        "num": 930110,
+        "word": "俞灏明 没成团",
+        "onboard_time": 1699230699,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820584,
+        "num": 820584,
+        "word": "杨紫李现 国色芳华",
+        "onboard_time": 1699231717,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 785919,
+        "num": 785919,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699231537,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 688859,
+        "num": 688859,
+        "word": "奥巴马称没有谁的手是干净的",
+        "onboard_time": 1699208777,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 636338,
+        "num": 636338,
+        "word": "南京地铁",
+        "onboard_time": 1699231233,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624202,
+        "num": 624202,
+        "word": "请回答1988开播八周年",
+        "onboard_time": 1699230813,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1614500,
+        "num": 602153,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546950,
+        "num": 546950,
+        "word": "研究发现血型与疾病的发生有相关性",
+        "onboard_time": 1699227751,
+        "rank": 11,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 492068,
+        "num": 492068,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1699233514,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473440,
+        "num": 473440,
+        "word": "现在看何以琛太搞笑了",
+        "onboard_time": 1699230456,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447916,
+        "num": 447916,
+        "word": "受伤的只有关晓彤和光盘",
+        "onboard_time": 1699229974,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436532,
+        "num": 436532,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 434103,
+        "num": 434103,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427836,
+        "num": 427836,
+        "word": "哈尔滨主城区停课1天",
+        "onboard_time": 1699226545,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 349710,
+        "num": 349710,
+        "word": "警方通报女子将孩子推下池塘",
+        "onboard_time": 1699227268,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346587,
+        "num": 346587,
+        "word": "秦岚 人间卡皮巴拉",
+        "onboard_time": 1699232374,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480086,
+        "num": 331710,
+        "word": "刚改造完房东就把房子卖了",
+        "onboard_time": 1699229316,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312910,
+        "num": 312910,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242963,
+        "num": 242963,
+        "word": "马天宇分享泰国旅游惊险经历",
+        "onboard_time": 1699232015,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214501,
+        "num": 214501,
+        "word": "女子足疗店按摩被男技师猥亵",
+        "onboard_time": 1699204280,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211681,
+        "num": 211681,
+        "word": "杨紫工作室把地砖P弯了",
+        "onboard_time": 1699183715,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210946,
+        "num": 210946,
+        "word": "他衣服都没晾干就坐着睡着了",
+        "onboard_time": 1699229075,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208073,
+        "num": 208073,
+        "word": "娜扎许魏洲新剧收视率",
+        "onboard_time": 1699229974,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205058,
+        "num": 205058,
+        "word": "年轻人为什么抢着上夜校",
+        "onboard_time": 1699233573,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196889,
+        "num": 196889,
+        "word": "90后货车司机资助山区儿童上学10年",
+        "onboard_time": 1699233333,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195912,
+        "num": 195912,
+        "word": "日本网民称福原爱被宠坏了",
+        "onboard_time": 1699194757,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 595051,
+        "num": 195519,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214554,
+        "num": 195366,
+        "word": "近视眼正确化妆思路",
+        "onboard_time": 1699233573,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195068,
+        "num": 195068,
+        "word": "裴行俭前妻被大长公主逼死",
+        "onboard_time": 1699233694,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178126,
+        "num": 178126,
+        "word": "钟楚曦芳华6年后再演舞者",
+        "onboard_time": 1699234473,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159270,
+        "num": 159270,
+        "word": "献殷勤的李光洙 被喜爱的都暻秀",
+        "onboard_time": 1699232434,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154154,
+        "num": 154154,
+        "word": "以军全面包围加沙城",
+        "onboard_time": 1699233033,
+        "rank": 35,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 153445,
+        "num": 153445,
+        "word": "十个勤天",
+        "onboard_time": 1699229496,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138818,
+        "num": 138818,
+        "word": "寒潮已渡江将歼灭南方30度",
+        "onboard_time": 1699228471,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131400,
+        "num": 131400,
+        "word": "谁吃了张远应援墙的苹果",
+        "onboard_time": 1699228894,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120718,
+        "num": 120718,
+        "word": "白桃星座",
+        "onboard_time": 1699228771,
+        "rank": 39,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 120072,
+        "num": 120072,
+        "word": "罗云熙长了张爱说川普的嘴",
+        "onboard_time": 1699233155,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119946,
+        "num": 119946,
+        "word": "披荆斩棘",
+        "onboard_time": 1699185635,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118626,
+        "num": 118626,
+        "word": "RNG能不能把gala卡回来",
+        "onboard_time": 1699181974,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118223,
+        "num": 118223,
+        "word": "崩坏 葬送的芙莉莲",
+        "onboard_time": 1699231477,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116062,
+        "num": 116062,
+        "word": "王霏霏唱跳全开麦live现场",
+        "onboard_time": 1699232499,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112873,
+        "num": 112873,
+        "word": "孙燕姿前经纪人发长文应援",
+        "onboard_time": 1699191696,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112872,
+        "num": 112872,
+        "word": "北京供暖",
+        "onboard_time": 1699194999,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "T1晋级S13四强",
+        "onboard_time": 1699179827,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104165,
+        "num": 104165,
+        "word": "杜兰特41分",
+        "onboard_time": 1699230755,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98537,
+        "num": 98537,
+        "word": "以色列部长声称可对加沙投核弹",
+        "onboard_time": 1699190796,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第六届进博会致信#"
+    }
+  }
+}

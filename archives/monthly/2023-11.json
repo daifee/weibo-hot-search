@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699233329643,
+  "endTime": 1699234588019,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -699,20 +699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1614500,
+      "num": 686606,
+      "word": "李枫说郭敬明事件是性骚扰",
+      "onboard_time": 1699229854,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1602205,
       "num": 407977,
       "word": "曝多名篮网球员与啦啦队成员发生关系",
       "onboard_time": 1698982774,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1601108,
-      "num": 686606,
-      "word": "李枫说郭敬明事件是性骚扰",
-      "onboard_time": 1699229854,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1594962,
@@ -1019,6 +1019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1291906,
+      "num": 1291906,
+      "word": "东北局地特大暴雪",
+      "onboard_time": 1699231057,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1289271,
       "num": 1289271,
       "word": "原来时宴是雪姨和陆振华生的",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1699197516,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1268811,
-      "num": 1268811,
-      "word": "东北局地特大暴雪",
-      "onboard_time": 1699231057,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1264772,
@@ -2035,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 785919,
+      "num": 785919,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699231537,
+      "rank": 9,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 785854,
       "num": 566067,
       "word": "比利时王妃回广东娘家省亲",
@@ -2499,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 687905,
-      "num": 687905,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1699231537,
-      "rank": 9,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 682646,
       "num": 198939,
       "word": "造型师刘璐回应迪丽热巴造型",
@@ -2681,6 +2681,14 @@
       "onboard_time": 1699150710,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 636338,
+      "num": 636338,
+      "word": "南京地铁",
+      "onboard_time": 1699231233,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635945,
@@ -2859,14 +2867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 611770,
-      "num": 611770,
-      "word": "南京地铁",
-      "onboard_time": 1699231233,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611590,
       "num": 611590,
       "word": "ELLE直播",
@@ -2977,6 +2977,14 @@
       "onboard_time": 1698805894,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595051,
+      "num": 195519,
+      "word": "张钧甯谈断崖式分手",
+      "onboard_time": 1699233753,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 594235,
@@ -3540,7 +3548,7 @@
     },
     {
       "raw_hot": 508801,
-      "num": 284854,
+      "num": 331710,
       "word": "刚改造完房东就把房子卖了",
       "onboard_time": 1699229316,
       "rank": 20,
@@ -3673,6 +3681,14 @@
       "onboard_time": 1698854554,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492068,
+      "num": 492068,
+      "word": "披荆斩棘排名",
+      "onboard_time": 1699233514,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 490184,
@@ -3859,6 +3875,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 473440,
+      "num": 473440,
+      "word": "现在看何以琛太搞笑了",
+      "onboard_time": 1699230456,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473148,
       "num": 473148,
       "word": "演员一定要用原声吗",
@@ -4001,14 +4025,6 @@
       "onboard_time": 1699176570,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 460729,
-      "num": 460729,
-      "word": "现在看何以琛太搞笑了",
-      "onboard_time": 1699230456,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 460702,
@@ -5563,6 +5579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 346587,
+      "num": 346587,
+      "word": "秦岚 人间卡皮巴拉",
+      "onboard_time": 1699232374,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345570,
       "num": 345570,
       "word": "秦岚迪丽热巴对彼此有误解",
@@ -6329,14 +6353,6 @@
       "onboard_time": 1698850119,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294391,
-      "num": 181534,
-      "word": "秦岚 人间卡皮巴拉",
-      "onboard_time": 1699232374,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 293831,
@@ -8515,6 +8531,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 214554,
+      "num": 195366,
+      "word": "近视眼正确化妆思路",
+      "onboard_time": 1699233573,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 214478,
       "num": 214478,
       "word": "于适好像在花样游泳",
@@ -8921,6 +8945,14 @@
       "onboard_time": 1698814901,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 205058,
+      "num": 205058,
+      "word": "年轻人为什么抢着上夜校",
+      "onboard_time": 1699233573,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205032,
@@ -9371,6 +9403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196889,
+      "num": 196889,
+      "word": "90后货车司机资助山区儿童上学10年",
+      "onboard_time": 1699233333,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196879,
       "num": 196879,
       "word": "颖儿吻戏天鹅臂起飞",
@@ -9457,6 +9497,14 @@
       "onboard_time": 1699109200,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 195068,
+      "num": 195068,
+      "word": "裴行俭前妻被大长公主逼死",
+      "onboard_time": 1699233694,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194987,
@@ -10296,6 +10344,14 @@
       "word": "许凯景甜都不信匪我思存",
       "onboard_time": 1699086329,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178126,
+      "num": 178126,
+      "word": "钟楚曦芳华6年后再演舞者",
+      "onboard_time": 1699234473,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -11377,6 +11433,14 @@
       "onboard_time": 1699012235,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154154,
+      "num": 154154,
+      "word": "以军全面包围加沙城",
+      "onboard_time": 1699233033,
+      "rank": 48,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 154134,
@@ -13067,6 +13131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120072,
+      "num": 120072,
+      "word": "罗云熙长了张爱说川普的嘴",
+      "onboard_time": 1699233155,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119642,
       "num": 119642,
       "word": "重庆盖碗火锅",
@@ -13259,14 +13331,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 116247,
-      "num": 116247,
-      "word": "罗云熙长了张爱说川普的嘴",
-      "onboard_time": 1699233155,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116201,
       "num": 116201,
       "word": "任嘉伦美拉德造型",
@@ -13353,14 +13417,6 @@
       "onboard_time": 1698890914,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114117,
-      "num": 114117,
-      "word": "以军全面包围加沙城",
-      "onboard_time": 1699233033,
-      "rank": 48,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 113832,

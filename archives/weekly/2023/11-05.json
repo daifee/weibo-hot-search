@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699233329643,
+  "endTime": 1699234588019,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -219,7 +219,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1601108,
+      "raw_hot": 1614500,
       "num": 686606,
       "word": "李枫说郭敬明事件是性骚扰",
       "onboard_time": 1699229854,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1291906,
+      "num": 1291906,
+      "word": "东北局地特大暴雪",
+      "onboard_time": 1699231057,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284650,
       "num": 1284650,
       "word": "李佳航 LPL热血难凉",
@@ -289,14 +297,6 @@
       "onboard_time": 1699197516,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1268811,
-      "num": 1268811,
-      "word": "东北局地特大暴雪",
-      "onboard_time": 1699231057,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1264772,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 785919,
+      "num": 785919,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699231537,
+      "rank": 9,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 763870,
       "num": 763870,
       "word": "王艺迪4比0王曼昱",
@@ -611,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 687905,
-      "num": 687905,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1699231537,
-      "rank": 9,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 676801,
       "num": 676801,
       "word": "李佳琦公司招商专员收好处费超百万",
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 636338,
+      "num": 636338,
+      "word": "南京地铁",
+      "onboard_time": 1699231233,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632360,
       "num": 632360,
       "word": "李佳琦公司回应员工收百万好处费",
@@ -673,14 +681,6 @@
       "onboard_time": 1699151850,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 611770,
-      "num": 611770,
-      "word": "南京地铁",
-      "onboard_time": 1699231233,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603608,
@@ -705,6 +705,14 @@
       "onboard_time": 1699141164,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 595051,
+      "num": 195519,
+      "word": "张钧甯谈断崖式分手",
+      "onboard_time": 1699233753,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 587200,
@@ -844,11 +852,19 @@
     },
     {
       "raw_hot": 508801,
-      "num": 284854,
+      "num": 331710,
       "word": "刚改造完房东就把房子卖了",
       "onboard_time": 1699229316,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492068,
+      "num": 492068,
+      "word": "披荆斩棘排名",
+      "onboard_time": 1699233514,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 490184,
@@ -915,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 473440,
+      "num": 473440,
+      "word": "现在看何以琛太搞笑了",
+      "onboard_time": 1699230456,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472696,
       "num": 472696,
       "word": "受伤的只有关晓彤和光盘",
@@ -977,14 +1001,6 @@
       "onboard_time": 1699176570,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 460729,
-      "num": 460729,
-      "word": "现在看何以琛太搞笑了",
-      "onboard_time": 1699230456,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 449878,
@@ -1291,6 +1307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 346587,
+      "num": 346587,
+      "word": "秦岚 人间卡皮巴拉",
+      "onboard_time": 1699232374,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345958,
       "num": 384556,
       "word": "莎头",
@@ -1488,14 +1512,6 @@
       "word": "胡兵张栋梁这俩人泼水还这么有礼貌",
       "onboard_time": 1699198953,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 294391,
-      "num": 181534,
-      "word": "秦岚 人间卡皮巴拉",
-      "onboard_time": 1699232374,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1955,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214554,
+      "num": 195366,
+      "word": "近视眼正确化妆思路",
+      "onboard_time": 1699233573,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 212714,
       "num": 212714,
       "word": "一笙在干嘛",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1699186777,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205058,
+      "num": 205058,
+      "word": "年轻人为什么抢着上夜校",
+      "onboard_time": 1699233573,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204306,
@@ -2115,6 +2147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196889,
+      "num": 196889,
+      "word": "90后货车司机资助山区儿童上学10年",
+      "onboard_time": 1699233333,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "主持人大赛",
@@ -2129,6 +2169,14 @@
       "onboard_time": 1699197280,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195068,
+      "num": 195068,
+      "word": "裴行俭前妻被大长公主逼死",
+      "onboard_time": 1699233694,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194489,
@@ -2289,6 +2337,14 @@
       "onboard_time": 1699162114,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178126,
+      "num": 178126,
+      "word": "钟楚曦芳华6年后再演舞者",
+      "onboard_time": 1699234473,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 175626,
@@ -2521,6 +2577,14 @@
       "onboard_time": 1699168110,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154154,
+      "num": 154154,
+      "word": "以军全面包围加沙城",
+      "onboard_time": 1699233033,
+      "rank": 48,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 150921,
@@ -2859,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120072,
+      "num": 120072,
+      "word": "罗云熙长了张爱说川普的嘴",
+      "onboard_time": 1699233155,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119187,
       "num": 207031,
       "word": "患者命悬一线休班医生飞奔到医院做手术",
@@ -2891,14 +2963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 116247,
-      "num": 116247,
-      "word": "罗云熙长了张爱说川普的嘴",
-      "onboard_time": 1699233155,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115588,
       "num": 115588,
       "word": "易筋经十二式",
@@ -2929,14 +2993,6 @@
       "onboard_time": 1699230276,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114117,
-      "num": 114117,
-      "word": "以军全面包围加沙城",
-      "onboard_time": 1699233033,
-      "rank": 48,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 113445,
