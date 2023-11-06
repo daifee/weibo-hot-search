@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699252605949,
+  "endTime": 1699255007799,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1712557,
+      "num": 1712557,
+      "word": "替同学挡8刀的她成了人民警察",
+      "onboard_time": 1699249769,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1699357,
       "num": 1699357,
       "word": "李善均承认吸毒",
@@ -289,6 +297,14 @@
       "onboard_time": 1699181378,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1400184,
+      "num": 1400184,
+      "word": "斗鱼证实CEO陈少杰失联",
+      "onboard_time": 1699251091,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1396260,
@@ -411,14 +427,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1138581,
-      "num": 1138581,
-      "word": "斗鱼证实CEO陈少杰失联",
-      "onboard_time": 1699251091,
-      "rank": 8,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1097810,
       "num": 1097810,
       "word": "俞灏明 没成团",
@@ -505,14 +513,6 @@
       "onboard_time": 1699190796,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 918536,
-      "num": 918536,
-      "word": "替同学挡8刀的她成了人民警察",
-      "onboard_time": 1699249769,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904045,
@@ -611,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809796,
+      "num": 809796,
+      "word": "天津助学金当事人不认可调查结果",
+      "onboard_time": 1699251813,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809184,
       "num": 809184,
       "word": "29岁女教练因一张娃娃脸火出圈",
@@ -665,6 +673,14 @@
       "onboard_time": 1699091370,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 794090,
+      "num": 794090,
+      "word": "何炅 自卑的人该怎么治愈自己",
+      "onboard_time": 1699252115,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 786830,
@@ -752,6 +768,14 @@
       "word": "崔始源 鲁宾逊漂流记",
       "onboard_time": 1699193195,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 681506,
+      "num": 681506,
+      "word": "泫雅签约金晓钟经纪公司",
+      "onboard_time": 1699254031,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -1203,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468833,
+      "num": 420770,
+      "word": "人均1700只给你吃鸡",
+      "onboard_time": 1699252889,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 467760,
       "num": 467760,
       "word": "进击的巨人结局 献出心脏",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1699176570,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450143,
-      "num": 450143,
-      "word": "天津助学金当事人不认可调查结果",
-      "onboard_time": 1699251813,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449878,
@@ -1387,6 +1411,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 427973,
+      "num": 427973,
+      "word": "明星大侦探",
+      "onboard_time": 1699252713,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422813,
       "num": 422813,
       "word": "艾伦三笠 最后一吻",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1699192775,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404697,
+      "num": 404697,
+      "word": "刘诗诗 优雅黑天鹅",
+      "onboard_time": 1699252531,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403780,
@@ -1771,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325363,
+      "num": 325363,
+      "word": "不抗寒",
+      "onboard_time": 1699254632,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 323128,
       "num": 323128,
       "word": "张靓颖演唱会万人一起喝水",
@@ -1995,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275342,
-      "num": 275342,
-      "word": "何炅 自卑的人该怎么治愈自己",
-      "onboard_time": 1699252115,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274038,
       "num": 231639,
       "word": "宋雨琦奔跑吧回归路透",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1699235554,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272989,
+      "num": 272989,
+      "word": "许佳琪 最后记录一次THE9的日常",
+      "onboard_time": 1699252952,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 271959,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1699184075,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 266426,
+      "num": 243753,
+      "word": "金莎孙丞潇是奔着结婚谈恋爱的",
+      "onboard_time": 1699251691,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 260427,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1699241853,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254118,
+      "num": 211648,
+      "word": "女将星",
+      "onboard_time": 1699254693,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 253591,
@@ -2171,20 +2235,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244298,
+      "num": 192719,
+      "word": "BTOB全员不续约",
+      "onboard_time": 1699253913,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243990,
       "num": 206786,
       "word": "6岁美国华裔小女孩用中文请假",
       "onboard_time": 1699247076,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243753,
-      "num": 243753,
-      "word": "金莎孙丞潇是奔着结婚谈恋爱的",
-      "onboard_time": 1699251691,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 243534,
@@ -2531,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210643,
+      "num": 192504,
+      "word": "让许光汉害羞只需要一个张钧甯",
+      "onboard_time": 1699254514,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210584,
       "num": 210584,
       "word": "张小斐白衬衣",
@@ -2571,6 +2643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207340,
+      "num": 192327,
+      "word": "这闺蜜照郑恺有点多余了",
+      "onboard_time": 1699253913,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "极氪007",
@@ -2593,6 +2673,14 @@
       "onboard_time": 1699243533,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206274,
+      "num": 206274,
+      "word": "女生称生病拒绝周末无偿加班被辞退",
+      "onboard_time": 1699253792,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205930,
@@ -2769,6 +2857,22 @@
       "onboard_time": 1699244796,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192872,
+      "num": 192872,
+      "word": "辣条的诞生居然跟四川火锅有关",
+      "onboard_time": 1699254153,
+      "rank": 29,
+      "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 192247,
+      "num": 192247,
+      "word": "油价或现三连降",
+      "onboard_time": 1699253852,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 191014,
@@ -3227,12 +3331,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 152091,
+      "num": 152091,
+      "word": "研究称果糖是肥胖的根源",
+      "onboard_time": 1699254212,
+      "rank": 36,
+      "category": "知识科普,健康医疗"
+    },
+    {
       "raw_hot": 151249,
       "num": 151249,
       "word": "电影出入平安杀青",
       "onboard_time": 1699239332,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151236,
+      "num": 151236,
+      "word": "羞耻症 出洋相",
+      "onboard_time": 1699252771,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 150921,
@@ -3329,6 +3449,14 @@
       "onboard_time": 1699176389,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143597,
+      "num": 143597,
+      "word": "S13浪出星艺",
+      "onboard_time": 1699253672,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 143521,
@@ -3459,14 +3587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134887,
-      "num": 101454,
-      "word": "刘诗诗 优雅黑天鹅",
-      "onboard_time": 1699252531,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 133797,
       "num": 133797,
       "word": "杜兰特41分",
@@ -3553,6 +3673,14 @@
       "onboard_time": 1699167868,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128215,
+      "num": 128215,
+      "word": "传下去许光汉明码标价了",
+      "onboard_time": 1699252713,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 127716,
@@ -3868,7 +3996,7 @@
     },
     {
       "raw_hot": 103773,
-      "num": 103773,
+      "num": 125427,
       "word": "乐观大姐山中误踩捕兽夹拍视频纪念",
       "onboard_time": 1699250852,
       "rank": 47,
@@ -3969,6 +4097,14 @@
       "onboard_time": 1699206557,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94594,
+      "num": 127898,
+      "word": "胸痛的12种原因",
+      "onboard_time": 1699254572,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94588,
@@ -4083,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78280,
+      "num": 116951,
+      "word": "渝爱被渝可抢盆盆奶反应太可爱",
+      "onboard_time": 1699252591,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77392,
       "num": 212842,
       "word": "凯恩帽子戏法",
@@ -4187,14 +4331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66238,
-      "num": 95986,
-      "word": "渝爱被渝可抢盆盆奶反应太可爱",
-      "onboard_time": 1699252591,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66162,
       "num": 376227,
       "word": "电诈新套路送螃蟹专坑吃货",
@@ -4251,7 +4387,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49671,
+      "raw_hot": 50392,
       "num": 1228004,
       "word": "2023世界互联网大会乌镇峰会",
       "onboard_time": 1699249114,
