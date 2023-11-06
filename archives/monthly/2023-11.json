@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699244471768,
+  "endTime": 1699245308188,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3308821,
+      "num": 3308821,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3282577,
       "num": 3378459,
       "word": "Tarzan 皇子",
@@ -153,14 +161,6 @@
       "onboard_time": 1698813575,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 3084337,
-      "num": 3084337,
-      "word": "天津助学金事件调查结果",
-      "onboard_time": 1699238251,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3005329,
@@ -3483,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534030,
+      "num": 534030,
+      "word": "魏大勋明侦合照被截半个身子",
+      "onboard_time": 1699244858,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533550,
       "num": 339920,
       "word": "ELLE风尚大典开始官宣了",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1699233514,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490519,
+      "num": 490519,
+      "word": "小学生被请家长妈妈一来全校激动",
+      "onboard_time": 1699243475,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 490184,
@@ -4331,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446024,
+      "num": 446024,
+      "word": "芒果招商会拟邀阵容",
+      "onboard_time": 1699244497,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445922,
       "num": 445922,
       "word": "EDG被重庆粉丝包围",
@@ -4628,7 +4652,7 @@
     },
     {
       "raw_hot": 419746,
-      "num": 288129,
+      "num": 338369,
       "word": "杨紫蜜桃闪光妆",
       "onboard_time": 1699243655,
       "rank": 15,
@@ -5299,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377051,
+      "num": 334141,
+      "word": "给闫妮姐吓得都不微醺了",
+      "onboard_time": 1699244014,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376025,
       "num": 376025,
       "word": "谢娜不知道杨紫比张一山小",
@@ -5777,6 +5809,14 @@
       "onboard_time": 1699191936,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346709,
+      "num": 346709,
+      "word": "郑州鸵鸟",
+      "onboard_time": 1699242936,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346587,
@@ -6643,14 +6683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 291366,
-      "num": 291366,
-      "word": "小学生被请家长妈妈一来全校激动",
-      "onboard_time": 1699243475,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 290557,
       "num": 249909,
       "word": "赵昭仪喜欢上热巴的酸奶疙瘩了",
@@ -6875,14 +6907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279473,
-      "num": 279473,
-      "word": "郑州鸵鸟",
-      "onboard_time": 1699242936,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279198,
       "num": 279198,
       "word": "章昊唱了诀爱",
@@ -7035,6 +7059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 274038,
+      "num": 231639,
+      "word": "宋雨琦奔跑吧回归路透",
+      "onboard_time": 1699243118,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273955,
       "num": 273955,
       "word": "羊 就你叫牧羊犬啊",
@@ -7137,14 +7169,6 @@
       "onboard_time": 1698841957,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271387,
-      "num": 220283,
-      "word": "宋雨琦奔跑吧回归路透",
-      "onboard_time": 1699243118,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 271334,
@@ -7259,6 +7283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267033,
+      "num": 267033,
+      "word": "LNG止步八强李宁直播间遭网友吐槽",
+      "onboard_time": 1699244978,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266885,
       "num": 280227,
       "word": "快递小哥迟到可能是遇上了沙尘暴",
@@ -7305,6 +7337,14 @@
       "onboard_time": 1698837514,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264707,
+      "num": 239419,
+      "word": "蜂花护发素 洗衣服",
+      "onboard_time": 1699244858,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 264529,
@@ -7907,6 +7947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242869,
+      "num": 242869,
+      "word": "东北的雪快扫不过来了",
+      "onboard_time": 1699239692,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242762,
       "num": 242762,
       "word": "眠狼离职",
@@ -8033,14 +8081,6 @@
       "onboard_time": 1698987282,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237737,
-      "num": 237737,
-      "word": "东北的雪快扫不过来了",
-      "onboard_time": 1699239692,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237627,
@@ -8225,6 +8265,14 @@
       "onboard_time": 1699160853,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232315,
+      "num": 232315,
+      "word": "我被美女包围了续作",
+      "onboard_time": 1699243414,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 232120,
@@ -8417,14 +8465,6 @@
       "onboard_time": 1698995313,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 227851,
-      "num": 190932,
-      "word": "给闫妮姐吓得都不微醺了",
-      "onboard_time": 1699244014,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 227715,
@@ -8923,14 +8963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213121,
-      "num": 213121,
-      "word": "我被美女包围了续作",
-      "onboard_time": 1699243414,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 213078,
       "num": 294493,
       "word": "第36届中国电影金鸡奖",
@@ -9377,6 +9409,14 @@
       "onboard_time": 1699190262,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203881,
+      "num": 203881,
+      "word": "没想到张云龙过后这么快就轮到你了",
+      "onboard_time": 1699244858,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 203572,
@@ -9979,6 +10019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193204,
+      "num": 193204,
+      "word": "朱一龙 为别人撑伞",
+      "onboard_time": 1699244796,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "被花少这一段真诚打动",
@@ -10068,7 +10116,7 @@
     },
     {
       "raw_hot": 191014,
-      "num": 191014,
+      "num": 223470,
       "word": "A股",
       "onboard_time": 1698844656,
       "rank": 46,
@@ -14851,6 +14899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74636,
+      "num": 327605,
+      "word": "华为首款轿车颜值爆表",
+      "onboard_time": 1699243053,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73732,
       "num": 73732,
       "word": "哪个大聪明在车顶晒虾",
@@ -14947,14 +15003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65672,
-      "num": 255037,
-      "word": "华为首款轿车颜值爆表",
-      "onboard_time": 1699243053,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 65634,
       "num": 65634,
       "word": "小学生捡手机后报警找失主被当众表扬",
@@ -14969,6 +15017,14 @@
       "onboard_time": 1699074212,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65434,
+      "num": 269999,
+      "word": "一周内全国多地迎来寒潮降温",
+      "onboard_time": 1699243895,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65267,
@@ -15017,14 +15073,6 @@
       "onboard_time": 1699191097,
       "rank": 2,
       "category": "教育,体育"
-    },
-    {
-      "raw_hot": 61663,
-      "num": 211764,
-      "word": "一周内全国多地迎来寒潮降温",
-      "onboard_time": 1699243895,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61294,

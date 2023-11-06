@@ -1,0 +1,410 @@
+{
+  "runTime": 1699245308188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3308821,
+        "num": 3308821,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122345,
+        "num": 1122345,
+        "word": "科学家发现地球正在漏气",
+        "onboard_time": 1699235554,
+        "rank": 1,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 16659,
+        "num": 1015192,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 944705,
+        "num": 944705,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 853501,
+        "num": 853501,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616236,
+        "num": 616236,
+        "word": "柯南动画 离谱",
+        "onboard_time": 1699241734,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 534030,
+        "num": 534030,
+        "word": "魏大勋明侦合照被截半个身子",
+        "onboard_time": 1699244858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511761,
+        "num": 511761,
+        "word": "杨紫小夭新造型",
+        "onboard_time": 1699237712,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490519,
+        "num": 490519,
+        "word": "小学生被请家长妈妈一来全校激动",
+        "onboard_time": 1699243475,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 475506,
+        "num": 475506,
+        "word": "唐嫣 综艺判官",
+        "onboard_time": 1699237533,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473092,
+        "num": 473092,
+        "word": "童瑶这个妆容灵感是孙悟空吗",
+        "onboard_time": 1699240414,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 450217,
+        "num": 450217,
+        "word": "曝钢铁侠和美队同意回归漫威",
+        "onboard_time": 1699239271,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446024,
+        "num": 446024,
+        "word": "芒果招商会拟邀阵容",
+        "onboard_time": 1699244497,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346709,
+        "num": 346709,
+        "word": "郑州鸵鸟",
+        "onboard_time": 1699242936,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340100,
+        "num": 340100,
+        "word": "涉事高校称不存在助学金名额挤占",
+        "onboard_time": 1699241494,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383235,
+        "num": 338369,
+        "word": "杨紫蜜桃闪光妆",
+        "onboard_time": 1699243655,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 377051,
+        "num": 334141,
+        "word": "给闫妮姐吓得都不微醺了",
+        "onboard_time": 1699244014,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376208,
+        "num": 329339,
+        "word": "钟楚曦侯雯元下腰抱海报",
+        "onboard_time": 1699236812,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74636,
+        "num": 327605,
+        "word": "华为首款轿车颜值爆表",
+        "onboard_time": 1699243053,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 323670,
+        "num": 323670,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65434,
+        "num": 269999,
+        "word": "一周内全国多地迎来寒潮降温",
+        "onboard_time": 1699243895,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811853,
+        "num": 269517,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599065,
+        "num": 268294,
+        "word": "离职的女同事继承了四个亿的家产",
+        "onboard_time": 1699239933,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267033,
+        "num": 267033,
+        "word": "LNG止步八强李宁直播间遭网友吐槽",
+        "onboard_time": 1699244978,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253245,
+        "num": 253245,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 375774,
+        "num": 251431,
+        "word": "披荆斩棘比seventeen还seventeen",
+        "onboard_time": 1699244320,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336205,
+        "num": 248415,
+        "word": "三个少年2官宣",
+        "onboard_time": 1699241555,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301439,
+        "num": 247952,
+        "word": "权志龙去警察厅接受检查",
+        "onboard_time": 1699239754,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295833,
+        "num": 242892,
+        "word": "奔跑吧",
+        "onboard_time": 1699237292,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242869,
+        "num": 242869,
+        "word": "东北的雪快扫不过来了",
+        "onboard_time": 1699239692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294468,
+        "num": 240933,
+        "word": "没有贾玲的王牌",
+        "onboard_time": 1699242032,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284052,
+        "num": 239892,
+        "word": "长相思回春堂番外小剧场",
+        "onboard_time": 1699242392,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264707,
+        "num": 239419,
+        "word": "蜂花护发素 洗衣服",
+        "onboard_time": 1699244858,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 238164,
+        "num": 238164,
+        "word": "原神芙宁娜 神之心",
+        "onboard_time": 1699241853,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232315,
+        "num": 232315,
+        "word": "我被美女包围了续作",
+        "onboard_time": 1699243414,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274038,
+        "num": 231639,
+        "word": "宋雨琦奔跑吧回归路透",
+        "onboard_time": 1699243118,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260568,
+        "num": 229095,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699235314,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224910,
+        "num": 224910,
+        "word": "29岁女教练因一张娃娃脸火出圈",
+        "onboard_time": 1699236091,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224462,
+        "num": 224462,
+        "word": "华为将在本月发布首款轿车智界S7",
+        "onboard_time": 1699241134,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187473,
+        "num": 223470,
+        "word": "A股",
+        "onboard_time": 1699242692,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251019,
+        "num": 214658,
+        "word": "张柏芝双开门冰箱",
+        "onboard_time": 1699240533,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245538,
+        "num": 213224,
+        "word": "何炅谢娜同台主持湖南卫视惊喜夜",
+        "onboard_time": 1699238493,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237362,
+        "num": 205547,
+        "word": "MINNIE朴宝剑Hanni合唱",
+        "onboard_time": 1699242815,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "没想到张云龙过后这么快就轮到你了",
+        "onboard_time": 1699244858,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193204,
+        "num": 193204,
+        "word": "朱一龙 为别人撑伞",
+        "onboard_time": 1699244796,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181163,
+        "num": 181163,
+        "word": "涉小便事件青岛啤酒三厂更换负责人",
+        "onboard_time": 1699238912,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179616,
+        "num": 179616,
+        "word": "娜扎新片演农村姑娘",
+        "onboard_time": 1699239692,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166607,
+        "num": 166607,
+        "word": "福原爱回应再被前夫告发",
+        "onboard_time": 1699236515,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 165851,
+        "num": 165851,
+        "word": "菜还没上筷子先花了两元",
+        "onboard_time": 1699234890,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153580,
+        "num": 153580,
+        "word": "东北大雪中太平鸟美成国画",
+        "onboard_time": 1699241134,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受中国的开放与自信#"
+    }
+  }
+}
