@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699237686853,
+  "endTime": 1699238336552,
   "band_list": [
     {
       "raw_hot": 2555508,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1498443,
-      "num": 1498443,
+      "raw_hot": 1584171,
+      "num": 1584171,
       "word": "张钧甯谈断崖式分手",
       "onboard_time": 1699233753,
       "rank": 30,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 994970,
+      "num": 994970,
+      "word": "科学家发现地球正在漏气",
+      "onboard_time": 1699235554,
+      "rank": 5,
+      "category": "社会新闻,知识科普"
+    },
+    {
       "raw_hot": 929303,
       "num": 929303,
       "word": "杨紫李现 国色芳华",
@@ -97,6 +105,14 @@
       "onboard_time": 1699194757,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 878181,
+      "num": 878181,
+      "word": "当事人称学校已告知助学金事件调查结果",
+      "onboard_time": 1699237050,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865948,
@@ -115,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 802716,
-      "num": 802716,
-      "word": "科学家发现地球正在漏气",
-      "onboard_time": 1699235554,
-      "rank": 5,
-      "category": "社会新闻,知识科普"
-    },
-    {
       "raw_hot": 786830,
       "num": 786830,
       "word": "请回答1988开播八周年",
@@ -139,12 +147,28 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 773950,
+      "num": 773950,
+      "word": "29岁女教练因一张娃娃脸火出圈",
+      "onboard_time": 1699236091,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753800,
       "num": 444761,
       "word": "杨紫工作室把地砖P弯了",
       "onboard_time": 1699183715,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674209,
+      "num": 674209,
+      "word": "钟楚曦侯雯元下腰抱海报",
+      "onboard_time": 1699236812,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 668611,
@@ -179,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594326,
-      "num": 594326,
-      "word": "29岁女教练因一张娃娃脸火出圈",
-      "onboard_time": 1699236091,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 608910,
+      "num": 608910,
+      "word": "奔跑吧",
+      "onboard_time": 1699237292,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 544167,
@@ -193,6 +217,14 @@
       "onboard_time": 1699182275,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 538432,
+      "num": 538432,
+      "word": "杨紫小夭新造型",
+      "onboard_time": 1699237712,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 535829,
@@ -275,12 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448717,
-      "num": 448717,
-      "word": "当事人称学校已告知助学金事件调查结果",
-      "onboard_time": 1699237050,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 455176,
+      "num": 455176,
+      "word": "唐嫣 综艺判官",
+      "onboard_time": 1699237533,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 446250,
+      "num": 446250,
+      "word": "福原爱回应再被前夫告发",
+      "onboard_time": 1699236515,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 445148,
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 395198,
-      "num": 309355,
+      "num": 330899,
       "word": "能被四爷看上 是那个人的荣幸",
       "onboard_time": 1699235371,
       "rank": 21,
@@ -385,22 +425,6 @@
       "onboard_time": 1699232374,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340352,
-      "num": 340352,
-      "word": "福原爱回应再被前夫告发",
-      "onboard_time": 1699236515,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 322229,
-      "num": 322229,
-      "word": "钟楚曦侯雯元下腰抱海报",
-      "onboard_time": 1699236812,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 311126,
@@ -497,14 +521,6 @@
       "onboard_time": 1699236932,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231505,
-      "num": 231505,
-      "word": "奔跑吧",
-      "onboard_time": 1699237292,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 227204,
@@ -619,14 +635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192174,
-      "num": 192174,
-      "word": "唐嫣 综艺判官",
-      "onboard_time": 1699237533,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189050,
       "num": 180269,
       "word": "献殷勤的李光洙 被喜爱的都暻秀",
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175928,
+      "num": 175928,
+      "word": "郑书意一集八十个情绪变化",
+      "onboard_time": 1699237231,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "周也说檀健次是剧组最辛苦担当",
@@ -707,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 166825,
+      "num": 166825,
+      "word": "天气温度断崖式下跌",
+      "onboard_time": 1699238191,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164288,
       "num": 164288,
       "word": "辅助机器人",
@@ -720,14 +744,6 @@
       "word": "台媒报道以爱为营",
       "onboard_time": 1699215193,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157901,
-      "num": 157901,
-      "word": "郑书意一集八十个情绪变化",
-      "onboard_time": 1699237231,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129090,
+      "num": 129090,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126819,
       "num": 131987,
       "word": "王霏霏唱跳全开麦live现场",
@@ -873,6 +897,14 @@
       "onboard_time": 1699197035,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122065,
+      "num": 122065,
+      "word": "涉过愤怒的海恶童版预告",
+      "onboard_time": 1699238251,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 120072,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699238336552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1584171,
+        "num": 1584171,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1267258,
+        "num": 1267258,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40690,
+        "num": 1134055,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1115732,
+        "num": 1115732,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994970,
+        "num": 994970,
+        "word": "科学家发现地球正在漏气",
+        "onboard_time": 1699235554,
+        "rank": 4,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 985439,
+        "num": 985439,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699235314,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 878181,
+        "num": 878181,
+        "word": "当事人称学校已告知助学金事件调查结果",
+        "onboard_time": 1699237050,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773950,
+        "num": 773950,
+        "word": "29岁女教练因一张娃娃脸火出圈",
+        "onboard_time": 1699236091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674209,
+        "num": 674209,
+        "word": "钟楚曦侯雯元下腰抱海报",
+        "onboard_time": 1699236812,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622126,
+        "num": 622126,
+        "word": "年轻人为什么抢着上夜校",
+        "onboard_time": 1699233573,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608910,
+        "num": 608910,
+        "word": "奔跑吧",
+        "onboard_time": 1699237292,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538432,
+        "num": 538432,
+        "word": "杨紫小夭新造型",
+        "onboard_time": 1699237712,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455176,
+        "num": 455176,
+        "word": "唐嫣 综艺判官",
+        "onboard_time": 1699237533,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446250,
+        "num": 446250,
+        "word": "福原爱回应再被前夫告发",
+        "onboard_time": 1699236515,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 379368,
+        "num": 379368,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699231537,
+        "rank": 14,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 423572,
+        "num": 375329,
+        "word": "现在看何以琛太搞笑了",
+        "onboard_time": 1699230456,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448461,
+        "num": 369583,
+        "word": "杨紫李现 国色芳华",
+        "onboard_time": 1699231717,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386643,
+        "num": 367862,
+        "word": "苏醒悍跳预言家",
+        "onboard_time": 1699235613,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362199,
+        "num": 362199,
+        "word": "奥巴马称没有谁的手是干净的",
+        "onboard_time": 1699208777,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 332833,
+        "num": 332833,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1381598,
+        "num": 332703,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330899,
+        "num": 330899,
+        "word": "能被四爷看上 是那个人的荣幸",
+        "onboard_time": 1699235371,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262191,
+        "num": 262191,
+        "word": "救救gala",
+        "onboard_time": 1699175250,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239208,
+        "num": 239208,
+        "word": "吴承恩精神状态真的领先一百年",
+        "onboard_time": 1699234712,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 234659,
+        "num": 234659,
+        "word": "取快递的重任到了15后身上",
+        "onboard_time": 1699235554,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279012,
+        "num": 233850,
+        "word": "杨超越新剧演女大",
+        "onboard_time": 1699236153,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257415,
+        "num": 224802,
+        "word": "俞灏明 没成团",
+        "onboard_time": 1699230699,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238006,
+        "num": 224329,
+        "word": "披荆斩棘排名",
+        "onboard_time": 1699233514,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213763,
+        "num": 213763,
+        "word": "东北局地特大暴雪",
+        "onboard_time": 1699231057,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203900,
+        "num": 203900,
+        "word": "南京地铁",
+        "onboard_time": 1699231233,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227599,
+        "num": 200874,
+        "word": "请回答1988开播八周年",
+        "onboard_time": 1699230813,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204813,
+        "num": 199122,
+        "word": "王阳怎么不说王子请看剧",
+        "onboard_time": 1699236932,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195889,
+        "num": 195889,
+        "word": "菜还没上筷子先花了两元",
+        "onboard_time": 1699234890,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195213,
+        "num": 195213,
+        "word": "刚改造完房东就把房子卖了",
+        "onboard_time": 1699229316,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185030,
+        "num": 185030,
+        "word": "受伤的只有关晓彤和光盘",
+        "onboard_time": 1699229974,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175928,
+        "num": 175928,
+        "word": "郑书意一集八十个情绪变化",
+        "onboard_time": 1699237231,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171889,
+        "num": 171889,
+        "word": "秦岚 人间卡皮巴拉",
+        "onboard_time": 1699232374,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167402,
+        "num": 167402,
+        "word": "近视眼正确化妆思路",
+        "onboard_time": 1699233573,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 166825,
+        "num": 166825,
+        "word": "天气温度断崖式下跌",
+        "onboard_time": 1699238191,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143771,
+        "num": 143771,
+        "word": "哈尔滨主城区停课1天",
+        "onboard_time": 1699226545,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 142392,
+        "num": 142392,
+        "word": "研究发现血型与疾病的发生有相关性",
+        "onboard_time": 1699227751,
+        "rank": 40,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 137333,
+        "num": 137333,
+        "word": "美团骑手年龄上限45岁系谣言",
+        "onboard_time": 1699234594,
+        "rank": 41,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 135622,
+        "num": 135622,
+        "word": "吃宵夜遇到狗妈妈难产了",
+        "onboard_time": 1699235671,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "以军全面包围加沙城",
+        "onboard_time": 1699233033,
+        "rank": 43,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 133695,
+        "num": 133695,
+        "word": "钟楚曦芳华6年后再演舞者",
+        "onboard_time": 1699234473,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130948,
+        "num": 130948,
+        "word": "警方通报女子将孩子推下池塘",
+        "onboard_time": 1699227268,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129090,
+        "num": 129090,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126425,
+        "num": 126425,
+        "word": "内娱可以吃一辈子的剧",
+        "onboard_time": 1699185216,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122065,
+        "num": 122065,
+        "word": "涉过愤怒的海恶童版预告",
+        "onboard_time": 1699238251,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119781,
+        "num": 119781,
+        "word": "器官最喜欢的十个动作",
+        "onboard_time": 1699236030,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#扩大面向全球的高标准自由贸易区网络#"
+    }
+  }
+}

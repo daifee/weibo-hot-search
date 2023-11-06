@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699237686853,
+  "endTime": 1699238336552,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1584171,
+      "num": 1584171,
+      "word": "张钧甯谈断崖式分手",
+      "onboard_time": 1699233753,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1553287,
       "num": 1553287,
       "word": "网红一笑倾城停更76天后更新",
@@ -241,14 +249,6 @@
       "onboard_time": 1699191396,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1498443,
-      "num": 1498443,
-      "word": "张钧甯谈断崖式分手",
-      "onboard_time": 1699233753,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 1476315,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994970,
+      "num": 994970,
+      "word": "科学家发现地球正在漏气",
+      "onboard_time": 1699235554,
+      "rank": 5,
+      "category": "社会新闻,知识科普"
+    },
+    {
       "raw_hot": 958227,
       "num": 958227,
       "word": "LNG对战T1 比分预测",
@@ -456,6 +464,14 @@
       "word": "中央气象台连发4个预警",
       "onboard_time": 1699147591,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 878181,
+      "num": 878181,
+      "word": "当事人称学校已告知助学金事件调查结果",
+      "onboard_time": 1699237050,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -539,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 802716,
-      "num": 802716,
-      "word": "科学家发现地球正在漏气",
-      "onboard_time": 1699235554,
-      "rank": 5,
-      "category": "社会新闻,知识科普"
-    },
-    {
       "raw_hot": 794871,
       "num": 794871,
       "word": "压力给到LNG",
@@ -569,6 +577,14 @@
       "onboard_time": 1699231537,
       "rank": 9,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 773950,
+      "num": 773950,
+      "word": "29岁女教练因一张娃娃脸火出圈",
+      "onboard_time": 1699236091,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 763870,
@@ -651,6 +667,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 674209,
+      "num": 674209,
+      "word": "钟楚曦侯雯元下腰抱海报",
+      "onboard_time": 1699236812,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 668611,
       "num": 668611,
       "word": "哈尔滨主城区停课1天",
@@ -715,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 608910,
+      "num": 608910,
+      "word": "奔跑吧",
+      "onboard_time": 1699237292,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603608,
       "num": 603608,
       "word": "因为魏大勋买了大勋花",
@@ -737,14 +769,6 @@
       "onboard_time": 1699141164,
       "rank": 5,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 594326,
-      "num": 594326,
-      "word": "29岁女教练因一张娃娃脸火出圈",
-      "onboard_time": 1699236091,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587200,
@@ -809,6 +833,14 @@
       "onboard_time": 1699182275,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 538432,
+      "num": 538432,
+      "word": "杨紫小夭新造型",
+      "onboard_time": 1699237712,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 534404,
@@ -1035,20 +1067,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455176,
+      "num": 455176,
+      "word": "唐嫣 综艺判官",
+      "onboard_time": 1699237533,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449878,
       "num": 449878,
       "word": "张颂文 我的演唱会你不来吗",
       "onboard_time": 1699180241,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448717,
-      "num": 448717,
-      "word": "当事人称学校已告知助学金事件调查结果",
-      "onboard_time": 1699237050,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447627,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1699188095,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446250,
+      "num": 446250,
+      "word": "福原爱回应再被前夫告发",
+      "onboard_time": 1699236515,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 442572,
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 395198,
-      "num": 309355,
+      "num": 330899,
       "word": "能被四爷看上 是那个人的荣幸",
       "onboard_time": 1699235371,
       "rank": 21,
@@ -1387,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340352,
-      "num": 340352,
-      "word": "福原爱回应再被前夫告发",
-      "onboard_time": 1699236515,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 339734,
       "num": 339734,
       "word": "要久久爱首支预告",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 322229,
-      "num": 322229,
-      "word": "钟楚曦侯雯元下腰抱海报",
-      "onboard_time": 1699236812,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 321488,
@@ -1939,14 +1963,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 231505,
-      "num": 231505,
-      "word": "奔跑吧",
-      "onboard_time": 1699237292,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231384,
       "num": 231384,
       "word": "发泡实验 医生口中的不吓人",
@@ -2339,14 +2355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192174,
-      "num": 192174,
-      "word": "唐嫣 综艺判官",
-      "onboard_time": 1699237533,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190697,
       "num": 190697,
       "word": "拯救嫌疑人",
@@ -2475,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175928,
+      "num": 175928,
+      "word": "郑书意一集八十个情绪变化",
+      "onboard_time": 1699237231,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175626,
       "num": 175626,
       "word": "刺痛为狼队扛大旗",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1699216813,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166825,
+      "num": 166825,
+      "word": "天气温度断崖式下跌",
+      "onboard_time": 1699238191,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166739,
@@ -2649,14 +2673,6 @@
       "onboard_time": 1699196558,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 157901,
-      "num": 157901,
-      "word": "郑书意一集八十个情绪变化",
-      "onboard_time": 1699237231,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 157049,
@@ -3011,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129090,
+      "num": 129090,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129004,
       "num": 194155,
       "word": "母亲对家庭的奉献不是理所当然",
@@ -3081,6 +3105,14 @@
       "onboard_time": 1699139962,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122065,
+      "num": 122065,
+      "word": "涉过愤怒的海恶童版预告",
+      "onboard_time": 1699238251,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 120837,
