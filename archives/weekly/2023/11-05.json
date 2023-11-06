@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699283972317,
+  "endTime": 1699284885812,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -731,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 867959,
+      "num": 605428,
+      "word": "桦南体育馆房顶坍塌与降雪有关",
+      "onboard_time": 1699283435,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865948,
       "num": 865948,
       "word": "研究发现血型与疾病的发生有相关性",
@@ -1219,20 +1227,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 603420,
+      "num": 603420,
+      "word": "秦岚录完花少好像失忆了",
+      "onboard_time": 1699281403,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 602599,
       "num": 602599,
       "word": "官方通报公职人员猥亵女孩行拘9天",
       "onboard_time": 1699171533,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597897,
-      "num": 597897,
-      "word": "秦岚录完花少好像失忆了",
-      "onboard_time": 1699281403,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 597217,
@@ -1347,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 535093,
+      "num": 313612,
+      "word": "普通人和有钱人取名字区别有多大",
+      "onboard_time": 1699281765,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534404,
       "num": 534404,
       "word": "林心如说紫薇演得好浮夸",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1699176937,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 510314,
+      "num": 296945,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509866,
@@ -1603,14 +1627,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 465809,
-      "num": 313612,
-      "word": "普通人和有钱人取名字区别有多大",
-      "onboard_time": 1699281765,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465078,
       "num": 465078,
       "word": "WB回应争议",
@@ -1724,7 +1740,7 @@
     },
     {
       "raw_hot": 437208,
-      "num": 302563,
+      "num": 423579,
       "word": "女娲毕设 古力娜扎",
       "onboard_time": 1699281945,
       "rank": 16,
@@ -2033,14 +2049,6 @@
       "onboard_time": 1699244014,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376901,
-      "num": 296945,
-      "word": "大三女生跳松花江自杀",
-      "onboard_time": 1699274315,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376284,
@@ -2779,20 +2787,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251861,
+      "num": 251861,
+      "word": "金莎一个问题暴露了对婚姻的不自信",
+      "onboard_time": 1699282360,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250963,
       "num": 211666,
       "word": "MINNIE朴宝剑Hanni合唱",
       "onboard_time": 1699242815,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250929,
-      "num": 238632,
-      "word": "桦南体育馆房顶坍塌与降雪有关",
-      "onboard_time": 1699283435,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250707,
@@ -2825,14 +2833,6 @@
       "onboard_time": 1699255532,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248311,
-      "num": 235763,
-      "word": "金莎一个问题暴露了对婚姻的不自信",
-      "onboard_time": 1699282360,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247469,
@@ -2953,6 +2953,14 @@
       "onboard_time": 1699188395,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 240991,
+      "num": 199422,
+      "word": "时宴单手解扣",
+      "onboard_time": 1699283318,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 239734,
@@ -3080,6 +3088,14 @@
       "word": "时宴 手控狂喜",
       "onboard_time": 1699181078,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232041,
+      "num": 198914,
+      "word": "景甜 脸在江山在",
+      "onboard_time": 1699284455,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3363,6 +3379,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 209706,
+      "num": 187517,
+      "word": "东北早市什么时候全国推广",
+      "onboard_time": 1699283560,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208255,
       "num": 208255,
       "word": "2023年王者荣耀挑战者杯",
@@ -3617,14 +3641,6 @@
       "onboard_time": 1699275156,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196189,
-      "num": 196189,
-      "word": "时宴单手解扣",
-      "onboard_time": 1699283318,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 196142,
@@ -3947,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179754,
+      "num": 190127,
+      "word": "杭州已接洽迪士尼环球影城",
+      "onboard_time": 1699284033,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179293,
       "num": 205126,
       "word": "以闪亮之名绮遇之履",
@@ -3961,14 +3985,6 @@
       "onboard_time": 1699254212,
       "rank": 36,
       "category": "知识科普,健康医疗"
-    },
-    {
-      "raw_hot": 178184,
-      "num": 178184,
-      "word": "东北早市什么时候全国推广",
-      "onboard_time": 1699283560,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 178126,
@@ -4129,6 +4145,14 @@
       "onboard_time": 1699239871,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167635,
+      "num": 167635,
+      "word": "朴宰范嘴角比AK还难压",
+      "onboard_time": 1699283677,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 166825,
@@ -4443,14 +4467,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 150863,
-      "num": 150863,
-      "word": "朴宰范嘴角比AK还难压",
-      "onboard_time": 1699283677,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150752,
       "num": 150752,
       "word": "南京消防回应鼓楼医院天花板掉落",
@@ -4489,6 +4505,14 @@
       "onboard_time": 1699184258,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149017,
+      "num": 127338,
+      "word": "苏醒教你辨认苏醒的热搜",
+      "onboard_time": 1699283978,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 148279,
@@ -4545,6 +4569,14 @@
       "onboard_time": 1699166190,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145215,
+      "num": 125474,
+      "word": "友宝女看不了一点的剧",
+      "onboard_time": 1699284576,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 145018,
@@ -4897,6 +4929,14 @@
       "onboard_time": 1699240174,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 127493,
+      "num": 127493,
+      "word": "林高远太原",
+      "onboard_time": 1699284576,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 127400,
