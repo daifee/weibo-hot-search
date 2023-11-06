@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699270455592,
+  "endTime": 1699274094848,
   "band_list": [
     {
       "raw_hot": 4296283,
@@ -81,6 +81,14 @@
       "onboard_time": 1699175250,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1663640,
+      "num": 312797,
+      "word": "老公姐",
+      "onboard_time": 1699270654,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1629958,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1185721,
+      "num": 576907,
+      "word": "刘诗诗下车那段百看不厌",
+      "onboard_time": 1699268134,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1163767,
       "num": 552683,
       "word": "宝诗龙 肖战",
@@ -209,14 +225,6 @@
       "onboard_time": 1699254693,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1131481,
-      "num": 576907,
-      "word": "刘诗诗下车那段百看不厌",
-      "onboard_time": 1699268134,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1097810,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964966,
+      "num": 707109,
+      "word": "住持称与女主播发生关系后被敲诈",
+      "onboard_time": 1699270533,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929303,
       "num": 929303,
       "word": "杨紫李现 国色芳华",
@@ -297,6 +313,14 @@
       "onboard_time": 1699237050,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877683,
+      "num": 877683,
+      "word": "为什么iPhone只有P大写",
+      "onboard_time": 1699271252,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 865948,
@@ -393,6 +417,14 @@
       "onboard_time": 1699183715,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723835,
+      "num": 723835,
+      "word": "医院院长倒卖出生证明每张赚6万",
+      "onboard_time": 1699272454,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717935,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566993,
+      "num": 306279,
+      "word": "杨紫山茶花白裙",
+      "onboard_time": 1699270413,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 544167,
       "num": 544167,
       "word": "张钧甯阮经天她在闹他在冷笑",
@@ -715,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471792,
+      "num": 308912,
+      "word": "终于知道秦岚为什么叫朵拉",
+      "onboard_time": 1699272512,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462706,
       "num": 462706,
       "word": "警方通报女子将孩子推下池塘",
@@ -737,6 +785,14 @@
       "onboard_time": 1699236515,
       "rank": 16,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 446110,
+      "num": 295618,
+      "word": "吉娜 玲娜贝儿真人版",
+      "onboard_time": 1699271916,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 445148,
@@ -793,6 +849,22 @@
       "onboard_time": 1699268916,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421551,
+      "num": 304911,
+      "word": "是橙子出了轨还是柚子出了轨",
+      "onboard_time": 1699272454,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 419976,
+      "num": 419976,
+      "word": "陈楚生直播",
+      "onboard_time": 1699273473,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 419746,
@@ -1267,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240435,
+      "num": 188755,
+      "word": "许凯 你们就是这么宣传我的",
+      "onboard_time": 1699272757,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239734,
       "num": 239734,
       "word": "华为将在本月发布首款轿车智界S7",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1699229075,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236520,
+      "num": 187908,
+      "word": "陈哲远剧抛脸瞒不住啦",
+      "onboard_time": 1699272034,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 235634,
@@ -1433,6 +1521,14 @@
       "onboard_time": 1699254514,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210031,
+      "num": 116581,
+      "word": "权志龙撞脸余欢水",
+      "onboard_time": 1699270776,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 207921,
@@ -1593,6 +1689,14 @@
       "onboard_time": 1699244796,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193052,
+      "num": 193052,
+      "word": "原来名字的由来也大有讲究",
+      "onboard_time": 1699272993,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192872,
@@ -1867,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164074,
+      "num": 164074,
+      "word": "难怪甄嬛说宁古塔苦寒无比",
+      "onboard_time": 1699271791,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161964,
       "num": 161964,
       "word": "王嘉尔杭州 抢票",
@@ -1897,6 +2009,14 @@
       "onboard_time": 1699267773,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158031,
+      "num": 158031,
+      "word": "以爱为营 编剧小巧思",
+      "onboard_time": 1699270413,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 157964,
@@ -1969,6 +2089,14 @@
       "onboard_time": 1699252771,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151093,
+      "num": 151093,
+      "word": "广东的早茶菜单没有价格只有字",
+      "onboard_time": 1699272757,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 150883,
@@ -2067,6 +2195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141075,
+      "num": 141075,
+      "word": "这场面南方人表示震惊",
+      "onboard_time": 1699273413,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139600,
       "num": 139600,
       "word": "崩坏 葬送的芙莉莲",
@@ -2089,6 +2225,14 @@
       "onboard_time": 1699219753,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134260,
+      "num": 116974,
+      "word": "一句好久不见我直接破防",
+      "onboard_time": 1699272333,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134224,
@@ -2195,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127155,
+      "num": 115114,
+      "word": "江映蓉2700km骑行挑战",
+      "onboard_time": 1699270954,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126819,
       "num": 131987,
       "word": "王霏霏唱跳全开麦live现场",
@@ -2211,14 +2363,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 126072,
-      "num": 126072,
-      "word": "以爱为营 编剧小巧思",
-      "onboard_time": 1699270413,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125649,
       "num": 125649,
       "word": "男子酒驾送妻就医交警拦下后化身代驾",
@@ -2233,14 +2377,6 @@
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124878,
-      "num": 124878,
-      "word": "杨紫山茶花白裙",
-      "onboard_time": 1699270413,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124083,
@@ -2291,12 +2427,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118702,
+      "num": 118702,
+      "word": "小时候你晚八点在干什么",
+      "onboard_time": 1699270594,
+      "rank": 39,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 115588,
       "num": 115588,
       "word": "易筋经十二式",
       "onboard_time": 1699232556,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114830,
+      "num": 114830,
+      "word": "3名男子闯进快递站拿走300多件快递",
+      "onboard_time": 1699273595,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114496,
@@ -2337,6 +2489,14 @@
       "onboard_time": 1699174532,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109935,
+      "num": 109935,
+      "word": "原来俄语是这样学的",
+      "onboard_time": 1699272454,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 109752,
@@ -2488,6 +2648,14 @@
       "word": "胸痛的12种原因",
       "onboard_time": 1699254572,
       "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90289,
+      "num": 106359,
+      "word": "第9批国家集采药品平均降价58%",
+      "onboard_time": 1699271192,
+      "rank": 49,
       "category": "健康医疗"
     },
     {
@@ -2665,6 +2833,14 @@
       "onboard_time": 1699247076,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37313,
+      "num": 308236,
+      "word": "健身打工两不误穿搭",
+      "onboard_time": 1699273113,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 36444,

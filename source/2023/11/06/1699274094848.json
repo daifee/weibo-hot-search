@@ -1,0 +1,410 @@
+{
+  "runTime": 1699274094848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877683,
+        "num": 877683,
+        "word": "为什么iPhone只有P大写",
+        "onboard_time": 1699271252,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 804738,
+        "num": 804738,
+        "word": "宁安如梦 空降",
+        "onboard_time": 1699263756,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28206,
+        "num": 756661,
+        "word": "相约乌镇峰会",
+        "onboard_time": 1699261895,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315926,
+        "num": 750503,
+        "word": "薛之谦 我卖货就这脾气",
+        "onboard_time": 1699265976,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723835,
+        "num": 723835,
+        "word": "医院院长倒卖出生证明每张赚6万",
+        "onboard_time": 1699272454,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964966,
+        "num": 707109,
+        "word": "住持称与女主播发生关系后被敲诈",
+        "onboard_time": 1699270533,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584523,
+        "num": 584523,
+        "word": "孙颖莎退出WTT太原站单打",
+        "onboard_time": 1699269032,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419976,
+        "num": 419976,
+        "word": "陈楚生直播",
+        "onboard_time": 1699273473,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374479,
+        "num": 374479,
+        "word": "东北暴雪",
+        "onboard_time": 1699268855,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313352,
+        "num": 313352,
+        "word": "谁家男主一脚把女主踹河里啊",
+        "onboard_time": 1699268673,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1663640,
+        "num": 312797,
+        "word": "老公姐",
+        "onboard_time": 1699270654,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1185721,
+        "num": 310967,
+        "word": "刘诗诗下车那段百看不厌",
+        "onboard_time": 1699268134,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1004917,
+        "num": 310017,
+        "word": "女大学生肚子大被搓澡阿姨救了一命",
+        "onboard_time": 1699268494,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471792,
+        "num": 308912,
+        "word": "终于知道秦岚为什么叫朵拉",
+        "onboard_time": 1699272512,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37313,
+        "num": 308236,
+        "word": "健身打工两不误穿搭",
+        "onboard_time": 1699273113,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 566993,
+        "num": 306279,
+        "word": "杨紫山茶花白裙",
+        "onboard_time": 1699270413,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421551,
+        "num": 304911,
+        "word": "是橙子出了轨还是柚子出了轨",
+        "onboard_time": 1699272454,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304647,
+        "num": 304647,
+        "word": "迪丽热巴张馨予 美女的旁边还是美女",
+        "onboard_time": 1699260152,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446110,
+        "num": 295618,
+        "word": "吉娜 玲娜贝儿真人版",
+        "onboard_time": 1699271916,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274082,
+        "num": 274082,
+        "word": "权志龙馒化",
+        "onboard_time": 1699262553,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292337,
+        "num": 262516,
+        "word": "张亮为了天天24小时不关机",
+        "onboard_time": 1699264718,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233052,
+        "num": 233052,
+        "word": "泉州小区发生爆燃致1死3伤",
+        "onboard_time": 1699260152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206061,
+        "num": 206061,
+        "word": "东北朋友送给全国的第一场雪",
+        "onboard_time": 1699264897,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193052,
+        "num": 193052,
+        "word": "原来名字的由来也大有讲究",
+        "onboard_time": 1699272993,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188806,
+        "num": 188806,
+        "word": "替同学挡8刀的她成了人民警察",
+        "onboard_time": 1699249769,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 240435,
+        "num": 188755,
+        "word": "许凯 你们就是这么宣传我的",
+        "onboard_time": 1699272757,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236520,
+        "num": 187908,
+        "word": "陈哲远剧抛脸瞒不住啦",
+        "onboard_time": 1699272034,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226279,
+        "num": 187226,
+        "word": "芒果的纯元回来了",
+        "onboard_time": 1699265254,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179568,
+        "num": 179568,
+        "word": "不抗寒",
+        "onboard_time": 1699254632,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164074,
+        "num": 164074,
+        "word": "难怪甄嬛说宁古塔苦寒无比",
+        "onboard_time": 1699271791,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214097,
+        "num": 162682,
+        "word": "陈都灵的冷笑",
+        "onboard_time": 1699266693,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190968,
+        "num": 161715,
+        "word": "老公是一种感觉",
+        "onboard_time": 1699269333,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158031,
+        "num": 158031,
+        "word": "以爱为营 编剧小巧思",
+        "onboard_time": 1699270413,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151093,
+        "num": 151093,
+        "word": "广东的早茶菜单没有价格只有字",
+        "onboard_time": 1699272757,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141075,
+        "num": 141075,
+        "word": "这场面南方人表示震惊",
+        "onboard_time": 1699273413,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157265,
+        "num": 140101,
+        "word": "杨笠看长相思除了官配都站了",
+        "onboard_time": 1699263392,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141729,
+        "num": 138062,
+        "word": "齐刘海的赵丽颖",
+        "onboard_time": 1699264058,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135999,
+        "num": 135999,
+        "word": "斗鱼证实CEO陈少杰失联",
+        "onboard_time": 1699251091,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 133233,
+        "num": 133233,
+        "word": "陈梦因伤退出WTT太原站",
+        "onboard_time": 1699268916,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118702,
+        "num": 118702,
+        "word": "小时候你晚八点在干什么",
+        "onboard_time": 1699270594,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 136135,
+        "num": 118463,
+        "word": "马立奥 下次还陪妈妈出差",
+        "onboard_time": 1699268254,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134260,
+        "num": 116974,
+        "word": "一句好久不见我直接破防",
+        "onboard_time": 1699272333,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210031,
+        "num": 116581,
+        "word": "权志龙撞脸余欢水",
+        "onboard_time": 1699270776,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127155,
+        "num": 115114,
+        "word": "江映蓉2700km骑行挑战",
+        "onboard_time": 1699270954,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114830,
+        "num": 114830,
+        "word": "3名男子闯进快递站拿走300多件快递",
+        "onboard_time": 1699273595,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109935,
+        "num": 109935,
+        "word": "原来俄语是这样学的",
+        "onboard_time": 1699272454,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 109667,
+        "word": "刘诗诗 优雅黑天鹅",
+        "onboard_time": 1699252531,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107110,
+        "num": 107110,
+        "word": "孙颖莎太原站继续出战混双",
+        "onboard_time": 1699270115,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92587,
+        "num": 106546,
+        "word": "卡琳娜cos库洛洛",
+        "onboard_time": 1699262673,
+        "rank": 48,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 90289,
+        "num": 106359,
+        "word": "第9批国家集采药品平均降价58%",
+        "onboard_time": 1699271192,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国市场成为世界的市场共享的市场大家的市场#"
+    }
+  }
+}
