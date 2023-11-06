@@ -1,0 +1,410 @@
+{
+  "runTime": 1699251801917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557314,
+        "num": 1557314,
+        "word": "父子俩5.2元购入95号汽油6.7元售出",
+        "onboard_time": 1699247556,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392664,
+        "num": 1392664,
+        "word": "金莎说好男人是不在市场上流通的",
+        "onboard_time": 1699247076,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47748,
+        "num": 1228004,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699249114,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089507,
+        "num": 1089507,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887379,
+        "num": 887379,
+        "word": "蜂花护发素 洗衣服",
+        "onboard_time": 1699244858,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 660622,
+        "num": 660622,
+        "word": "暴雪下的哈尔滨",
+        "onboard_time": 1699249114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635576,
+        "num": 635576,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631675,
+        "num": 631675,
+        "word": "替同学挡8刀的她成了人民警察",
+        "onboard_time": 1699249769,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623055,
+        "num": 623055,
+        "word": "斗鱼证实CEO陈少杰失联",
+        "onboard_time": 1699251091,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 532978,
+        "num": 532978,
+        "word": "魏大勋明侦合照被截半个身子",
+        "onboard_time": 1699244858,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1015955,
+        "num": 515801,
+        "word": "宝诗龙 肖战",
+        "onboard_time": 1699250552,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 497938,
+        "num": 497938,
+        "word": "花少5王安宇胡先煦 心眼子",
+        "onboard_time": 1699246121,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460977,
+        "num": 460977,
+        "word": "白鹿王鹤棣新剧收视率",
+        "onboard_time": 1699248813,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454426,
+        "num": 454426,
+        "word": "五代女团首次合作",
+        "onboard_time": 1699251752,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313334,
+        "num": 313334,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305957,
+        "num": 305957,
+        "word": "小学生被请家长妈妈一来全校激动",
+        "onboard_time": 1699243475,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302018,
+        "num": 302018,
+        "word": "LNG止步八强李宁直播间遭网友吐槽",
+        "onboard_time": 1699244978,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251977,
+        "num": 251977,
+        "word": "东北大雪中太平鸟美成国画",
+        "onboard_time": 1699241134,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 238409,
+        "num": 238409,
+        "word": "曝钢铁侠和美队同意回归漫威",
+        "onboard_time": 1699239271,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232624,
+        "num": 232624,
+        "word": "杨紫小夭新造型",
+        "onboard_time": 1699237712,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474010,
+        "num": 231446,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301091,
+        "num": 226880,
+        "word": "离职的女同事继承了四个亿的家产",
+        "onboard_time": 1699239933,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217761,
+        "num": 217761,
+        "word": "唐嫣 综艺判官",
+        "onboard_time": 1699237533,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211213,
+        "num": 211213,
+        "word": "权志龙去警察厅接受检查",
+        "onboard_time": 1699239754,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209121,
+        "num": 209121,
+        "word": "科学家发现地球正在漏气",
+        "onboard_time": 1699235554,
+        "rank": 24,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 207921,
+        "num": 207921,
+        "word": "代号鸢 保底",
+        "onboard_time": 1699250914,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198107,
+        "num": 198107,
+        "word": "给闫妮姐吓得都不微醺了",
+        "onboard_time": 1699244014,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168183,
+        "num": 168183,
+        "word": "年轻人从精致穷变成机智省",
+        "onboard_time": 1699247076,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 166090,
+        "num": 166090,
+        "word": "钟楚曦侯雯元下腰抱海报",
+        "onboard_time": 1699236812,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165173,
+        "num": 165173,
+        "word": "6岁美国华裔小女孩用中文请假",
+        "onboard_time": 1699247076,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161964,
+        "num": 161964,
+        "word": "王嘉尔杭州 抢票",
+        "onboard_time": 1699249831,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159363,
+        "num": 159363,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699235314,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152998,
+        "num": 152998,
+        "word": "童瑶这个妆容灵感是孙悟空吗",
+        "onboard_time": 1699240414,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 148613,
+        "num": 148613,
+        "word": "卢昱晓红衣女将军造型",
+        "onboard_time": 1699245997,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143352,
+        "num": 143352,
+        "word": "赵露思仿妆",
+        "onboard_time": 1699249529,
+        "rank": 34,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 146871,
+        "num": 136789,
+        "word": "ELLE红毯造型点评",
+        "onboard_time": 1699250972,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128891,
+        "num": 128891,
+        "word": "何炅谢娜同台主持湖南卫视惊喜夜",
+        "onboard_time": 1699238493,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110014,
+        "num": 110014,
+        "word": "原神芙宁娜 神之心",
+        "onboard_time": 1699241853,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104151,
+        "num": 104151,
+        "word": "郑州鸵鸟",
+        "onboard_time": 1699242936,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103794,
+        "num": 103794,
+        "word": "8岁女孩摸黑独自上学走1小时山路",
+        "onboard_time": 1699249231,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128323,
+        "num": 103493,
+        "word": "金莎孙丞潇是奔着结婚谈恋爱的",
+        "onboard_time": 1699251691,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121362,
+        "num": 103387,
+        "word": "芒果招商会拟邀阵容",
+        "onboard_time": 1699244497,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110709,
+        "num": 102996,
+        "word": "没想到张云龙过后这么快就轮到你了",
+        "onboard_time": 1699244858,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107043,
+        "num": 102595,
+        "word": "泫雅新歌上线",
+        "onboard_time": 1699248755,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102412,
+        "num": 102412,
+        "word": "柯南动画 离谱",
+        "onboard_time": 1699241734,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100344,
+        "num": 100344,
+        "word": "苏醒悍跳预言家",
+        "onboard_time": 1699235613,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97516,
+        "num": 97516,
+        "word": "闪耀暖暖 后悔抽独角兽",
+        "onboard_time": 1699246058,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90908,
+        "num": 90908,
+        "word": "乐观大姐山中误踩捕兽夹拍视频纪念",
+        "onboard_time": 1699250852,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88987,
+        "num": 88987,
+        "word": "东北的雪快扫不过来了",
+        "onboard_time": 1699239692,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82424,
+        "num": 82424,
+        "word": "福原爱回应再被前夫告发",
+        "onboard_time": 1699236515,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届进口博览会#"
+    }
+  }
+}
