@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/06 21:34:06
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/06 22:17:36
 </p>
 </blockquote>
 <p>
@@ -1719,6 +1719,12 @@ DOTA2中国队夺冠（热度：6586145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23" target="weibo">
+佳木斯一体育馆发生坍塌（热度：6564414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%87%87%E6%BA%90%E6%81%8B%E6%83%85%23" target="weibo">
 金采源恋情（热度：6535493）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%90%BC%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%90%8E%23" target="weibo">
 杨紫琼奥斯卡影后（热度：6010597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA%E6%AD%A2%E6%AD%A5%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%23" target="weibo">
-王艺迪止步女单四强（热度：6008481）
 </a>
 </li>
 

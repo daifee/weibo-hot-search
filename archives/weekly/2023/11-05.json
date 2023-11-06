@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699277646236,
+  "endTime": 1699280256492,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -17,6 +17,14 @@
       "onboard_time": 1699179827,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 6564414,
+      "num": 6564414,
+      "word": "佳木斯一体育馆发生坍塌",
+      "onboard_time": 1699277677,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4591644,
@@ -115,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2503695,
+      "num": 2503695,
+      "word": "知情人爆料体育馆坍塌时有孩子在内",
+      "onboard_time": 1699278879,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2314124,
       "num": 2314124,
       "word": "台湾黑老大向好友炫枪将自己打死",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 1927412,
-      "num": 447964,
+      "num": 577335,
       "word": "老公姐",
       "onboard_time": 1699270654,
       "rank": 10,
@@ -763,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 824837,
+      "num": 824837,
+      "word": "卫健委通报医院贩卖出生证及婴儿",
+      "onboard_time": 1699277919,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823473,
       "num": 550197,
       "word": "代入一下关晓彤",
@@ -891,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 742630,
+      "num": 742630,
+      "word": "东北暴雪",
+      "onboard_time": 1699268855,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741917,
       "num": 695029,
       "word": "女子骑车到桥上将孩子推下河",
@@ -987,19 +1019,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661058,
+      "num": 661058,
+      "word": "女生为考研戴电击闹钟电破皮都没醒",
+      "onboard_time": 1699276656,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660622,
       "num": 660622,
       "word": "暴雪下的哈尔滨",
       "onboard_time": 1699249114,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659041,
-      "num": 659041,
-      "word": "东北暴雪",
-      "onboard_time": 1699268855,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1171,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 607609,
+      "num": 607609,
+      "word": "官方回应佳木斯一体育馆发生坍塌",
+      "onboard_time": 1699278818,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607118,
       "num": 384522,
       "word": "何炅谢娜同台主持湖南卫视惊喜夜",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1699241555,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568218,
+      "num": 568218,
+      "word": "佳木斯一体育馆坍塌初步确认3人被困",
+      "onboard_time": 1699279660,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567367,
@@ -1851,6 +1899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 397296,
+      "num": 397296,
+      "word": "张万森 下雪了",
+      "onboard_time": 1699278277,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396277,
       "num": 349631,
       "word": "李玖哲拿下销冠隔周组合解散",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1699244320,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384204,
+      "num": 299171,
+      "word": "王鹤棣用晚餐摆了个六",
+      "onboard_time": 1699278035,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 383847,
@@ -1980,7 +2044,7 @@
     },
     {
       "raw_hot": 364145,
-      "num": 242663,
+      "num": 314095,
       "word": "刘诗诗穿上高领毛衣还有脖子",
       "onboard_time": 1699276235,
       "rank": 21,
@@ -2235,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 318945,
+      "num": 318945,
+      "word": "他在准备告白她在准备离开",
+      "onboard_time": 1699277434,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318559,
       "num": 318559,
       "word": "南京网友偶遇张艺兴吃火锅",
@@ -2329,6 +2401,14 @@
       "onboard_time": 1699197338,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297125,
+      "num": 297125,
+      "word": "新疆多地出现罕见红色极光",
+      "onboard_time": 1699276534,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296006,
@@ -2596,7 +2676,7 @@
     },
     {
       "raw_hot": 255629,
-      "num": 171783,
+      "num": 183099,
       "word": "大三女生跳松花江自杀",
       "onboard_time": 1699274315,
       "rank": 33,
@@ -3049,6 +3129,14 @@
       "onboard_time": 1699197756,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222748,
+      "num": 222748,
+      "word": "檀健次还没拍完就开始宣传",
+      "onboard_time": 1699279421,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 222070,
@@ -3539,6 +3627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190698,
+      "num": 325376,
+      "word": "无所畏惧",
+      "onboard_time": 1699105959,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190697,
       "num": 190697,
       "word": "拯救嫌疑人",
@@ -3585,14 +3681,6 @@
       "onboard_time": 1699184558,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189298,
-      "num": 189298,
-      "word": "女生为考研戴电击闹钟电破皮都没醒",
-      "onboard_time": 1699276656,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189050,
@@ -3873,14 +3961,6 @@
       "onboard_time": 1699263454,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169994,
-      "num": 169994,
-      "word": "新疆多地出现罕见红色极光",
-      "onboard_time": 1699276534,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169862,
@@ -4169,6 +4249,22 @@
       "onboard_time": 1699233033,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 153099,
+      "num": 153099,
+      "word": "丁程鑫端水式邀请兄弟来街舞",
+      "onboard_time": 1699277980,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152069,
+      "num": 152069,
+      "word": "天玑9300旗舰芯",
+      "onboard_time": 1699278339,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 151249,
@@ -4715,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123928,
+      "num": 140958,
+      "word": "成都混合团体世界杯引入个人世界排名积分",
+      "onboard_time": 1699279721,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123261,
       "num": 123261,
       "word": "巴菲特第三季度巨亏近1000亿",
@@ -4729,6 +4833,14 @@
       "onboard_time": 1699139962,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123071,
+      "num": 123071,
+      "word": "想要很久的衣服真的难看吗",
+      "onboard_time": 1699279902,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 122612,
@@ -4747,6 +4859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122041,
+      "num": 122041,
+      "word": "唐僧本人来了都得说像",
+      "onboard_time": 1699277074,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120837,
       "num": 207339,
       "word": "第六届进口博览会",
@@ -4760,22 +4880,6 @@
       "word": "罗云熙长了张爱说川普的嘴",
       "onboard_time": 1699233155,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120058,
-      "num": 120058,
-      "word": "唐僧本人来了都得说像",
-      "onboard_time": 1699277074,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 119972,
-      "num": 119972,
-      "word": "他在准备告白她在准备离开",
-      "onboard_time": 1699277434,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -5057,6 +5161,14 @@
       "onboard_time": 1699097073,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100559,
+      "num": 100559,
+      "word": "张亮舞台尿裤子险进剧院黑名单",
+      "onboard_time": 1699280021,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100514,
@@ -5467,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60021,
+      "num": 1389208,
+      "word": "进博会到底有多好逛",
+      "onboard_time": 1699276296,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57705,
       "num": 242452,
       "word": "相册里的宝藏故乡",
@@ -5547,28 +5667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35184,
-      "num": 1290770,
-      "word": "进博会到底有多好逛",
-      "onboard_time": 1699276296,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34351,
       "num": 3061270,
       "word": "进博会创意产品抢先看",
       "onboard_time": 1699183536,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31821,
-      "num": 325376,
-      "word": "无所畏惧",
-      "onboard_time": 1699105959,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 31649,
