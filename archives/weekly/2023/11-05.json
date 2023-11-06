@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699284885812,
+  "endTime": 1699287815004,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -1083,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 655542,
+      "num": 296945,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643654,
       "num": 643654,
       "word": "皇马替樊振东发了Vlog",
@@ -1339,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 547539,
+      "num": 425146,
+      "word": "景甜 脸在江山在",
+      "onboard_time": 1699284455,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544167,
       "num": 544167,
       "word": "张钧甯阮经天她在闹他在冷笑",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1699176937,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 510314,
-      "num": 296945,
-      "word": "大三女生跳松花江自杀",
-      "onboard_time": 1699274315,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509866,
@@ -1971,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395421,
+      "num": 395421,
+      "word": "事故前2天桦南曾召开应对极端天气会议",
+      "onboard_time": 1699285174,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395198,
       "num": 330899,
       "word": "能被四爷看上 是那个人的荣幸",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1699160673,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 357347,
+      "num": 252556,
+      "word": "不一定斩男 百分百斩女",
+      "onboard_time": 1699285411,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 356367,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1699181140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331559,
+      "num": 251845,
+      "word": "今天的巩俐 我老公",
+      "onboard_time": 1699285772,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331096,
@@ -2763,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254247,
+      "num": 254247,
+      "word": "马龙WTT外网的评论",
+      "onboard_time": 1699285232,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253591,
       "num": 253591,
       "word": "麻辣烫荤素均价按斤卖合理吗",
@@ -3091,14 +3131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232041,
-      "num": 198914,
-      "word": "景甜 脸在江山在",
-      "onboard_time": 1699284455,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231763,
       "num": 236433,
       "word": "以军称将提供4小时供加沙平民按指定路线撤离",
@@ -3155,12 +3187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228019,
+      "num": 151665,
+      "word": "苹果这台3w块的电脑怎么样",
+      "onboard_time": 1699286852,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227581,
       "num": 227581,
       "word": "刘诗诗甜感微醺妆",
       "onboard_time": 1699187976,
       "rank": 40,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 227010,
+      "num": 227010,
+      "word": "杭州已接洽迪士尼环球影城",
+      "onboard_time": 1699284033,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226660,
@@ -3467,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205554,
+      "num": 148337,
+      "word": "北上广很难有花束般的恋爱",
+      "onboard_time": 1699286909,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204306,
       "num": 204306,
       "word": "我们的歌",
@@ -3569,6 +3625,14 @@
       "onboard_time": 1699270115,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198491,
+      "num": 144535,
+      "word": "M3 Max MacBook Pro开箱",
+      "onboard_time": 1699286611,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 198430,
@@ -3705,6 +3769,14 @@
       "onboard_time": 1699269333,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193904,
+      "num": 193904,
+      "word": "匪我思存不愧是亲妈",
+      "onboard_time": 1699285893,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 193673,
@@ -3963,14 +4035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179754,
-      "num": 190127,
-      "word": "杭州已接洽迪士尼环球影城",
-      "onboard_time": 1699284033,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179293,
       "num": 205126,
       "word": "以闪亮之名绮遇之履",
@@ -4081,6 +4145,14 @@
       "onboard_time": 1699177833,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173557,
+      "num": 155797,
+      "word": "江映蓉的圈内人缘",
+      "onboard_time": 1699285354,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 172677,
@@ -4401,6 +4473,14 @@
       "onboard_time": 1699235671,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154293,
+      "num": 154293,
+      "word": "林高远太原",
+      "onboard_time": 1699284576,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 154154,
@@ -4931,14 +5011,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 127493,
-      "num": 127493,
-      "word": "林高远太原",
-      "onboard_time": 1699284576,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127400,
       "num": 127400,
       "word": "互联网上的秦海璐诱捕器找到了",
@@ -5169,6 +5241,14 @@
       "onboard_time": 1699280505,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111474,
+      "num": 111474,
+      "word": "张杰车内看信",
+      "onboard_time": 1699285472,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 111293,
