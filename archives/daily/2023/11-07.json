@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699288771230,
+  "endTime": 1699290945918,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -107,7 +107,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 289720,
+      "raw_hot": 302671,
       "num": 196151,
       "word": "北上广很难有花束般的恋爱",
       "onboard_time": 1699286909,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177693,
+      "num": 177693,
+      "word": "新疆多地出现罕见红色极光",
+      "onboard_time": 1699276534,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173557,
       "num": 155797,
       "word": "江映蓉的圈内人缘",
@@ -241,14 +249,6 @@
       "onboard_time": 1699281282,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156310,
-      "num": 156310,
-      "word": "新疆多地出现罕见红色极光",
-      "onboard_time": 1699276534,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154293,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103514,
+      "num": 103514,
+      "word": "谁能拒绝一个会颠勺的总裁呢",
+      "onboard_time": 1699288645,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100719,
       "num": 100719,
       "word": "杨紫想扩大舒适圈",
@@ -379,14 +387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 80855,
-      "num": 80855,
-      "word": "谁能拒绝一个会颠勺的总裁呢",
-      "onboard_time": 1699288645,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77921,
       "num": 77921,
       "word": "好像泰妍泰民泫雅街头打架照片",
@@ -417,6 +417,22 @@
       "onboard_time": 1699279660,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60002,
+      "num": 60002,
+      "word": "被猫猫发现去了撸猫馆",
+      "onboard_time": 1699290320,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58449,
+      "num": 58449,
+      "word": "陈都灵的冷笑",
+      "onboard_time": 1699266693,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 37823,
