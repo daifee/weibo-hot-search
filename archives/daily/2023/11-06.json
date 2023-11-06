@@ -1,7 +1,15 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699241672102,
+  "endTime": 1699244471768,
   "band_list": [
+    {
+      "raw_hot": 3084337,
+      "num": 3084337,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2555508,
       "num": 2555508,
@@ -89,14 +97,6 @@
       "onboard_time": 1699235314,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1033193,
-      "num": 1033193,
-      "word": "天津助学金事件调查结果",
-      "onboard_time": 1699238251,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 929303,
@@ -211,6 +211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 666431,
+      "num": 301604,
+      "word": "离职的女同事继承了四个亿的家产",
+      "onboard_time": 1699239933,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 657137,
       "num": 657137,
       "word": "林昀儒WTT男单夺冠",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 634965,
-      "num": 455176,
+      "num": 536542,
       "word": "唐嫣 综艺判官",
       "onboard_time": 1699237533,
       "rank": 35,
@@ -241,6 +249,22 @@
       "onboard_time": 1699233573,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632760,
+      "num": 632760,
+      "word": "柯南动画 离谱",
+      "onboard_time": 1699241734,
+      "rank": 5,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 610986,
+      "num": 610986,
+      "word": "童瑶这个妆容灵感是孙悟空吗",
+      "onboard_time": 1699240414,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 607118,
@@ -273,14 +297,6 @@
       "onboard_time": 1699197516,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 522619,
-      "num": 301604,
-      "word": "离职的女同事继承了四个亿的家产",
-      "onboard_time": 1699239933,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 518868,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449207,
-      "num": 273415,
-      "word": "童瑶这个妆容灵感是孙悟空吗",
-      "onboard_time": 1699240414,
-      "rank": 30,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 446250,
       "num": 446250,
       "word": "福原爱回应再被前夫告发",
@@ -403,6 +411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419746,
+      "num": 288129,
+      "word": "杨紫蜜桃闪光妆",
+      "onboard_time": 1699243655,
+      "rank": 15,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 417627,
+      "num": 417627,
+      "word": "涉事高校称不存在助学金名额挤占",
+      "onboard_time": 1699241494,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411639,
       "num": 411639,
       "word": "多地降温男子偷穿女友打底裤取暖",
@@ -433,6 +457,22 @@
       "onboard_time": 1699190796,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 386150,
+      "num": 285824,
+      "word": "披荆斩棘比seventeen还seventeen",
+      "onboard_time": 1699244320,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379134,
+      "num": 283527,
+      "word": "没有贾玲的王牌",
+      "onboard_time": 1699242032,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 371491,
@@ -483,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343221,
+      "num": 248677,
+      "word": "长相思回春堂番外小剧场",
+      "onboard_time": 1699242392,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342783,
       "num": 342783,
       "word": "涉小便事件青岛啤酒三厂更换负责人",
@@ -531,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291366,
+      "num": 291366,
+      "word": "小学生被请家长妈妈一来全校激动",
+      "onboard_time": 1699243475,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 290173,
       "num": 253080,
       "word": "张柏芝双开门冰箱",
       "onboard_time": 1699240533,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 279473,
+      "num": 279473,
+      "word": "郑州鸵鸟",
+      "onboard_time": 1699242936,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277657,
@@ -563,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271387,
+      "num": 220283,
+      "word": "宋雨琦奔跑吧回归路透",
+      "onboard_time": 1699243118,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255477,
       "num": 255477,
       "word": "女子骑车到桥上将孩子推下河",
@@ -571,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255459,
+      "num": 255459,
+      "word": "原神芙宁娜 神之心",
+      "onboard_time": 1699241853,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251928,
       "num": 238027,
       "word": "娜扎新片演农村姑娘",
       "onboard_time": 1699239692,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250963,
+      "num": 211666,
+      "word": "MINNIE朴宝剑Hanni合唱",
+      "onboard_time": 1699242815,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 250672,
@@ -611,6 +699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 237737,
+      "num": 237737,
+      "word": "东北的雪快扫不过来了",
+      "onboard_time": 1699239692,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236816,
       "num": 236816,
       "word": "他衣服都没晾干就坐着睡着了",
@@ -627,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230926,
-      "num": 230926,
-      "word": "东北的雪快扫不过来了",
-      "onboard_time": 1699239692,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 227851,
+      "num": 190932,
+      "word": "给闫妮姐吓得都不微醺了",
+      "onboard_time": 1699244014,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 227204,
@@ -699,12 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213121,
+      "num": 213121,
+      "word": "我被美女包围了续作",
+      "onboard_time": 1699243414,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "极氪007",
       "onboard_time": 1699239933,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 206559,
+      "num": 189391,
+      "word": "无所畏惧 知否现代版",
+      "onboard_time": 1699243533,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 201678,
@@ -753,6 +865,14 @@
       "onboard_time": 1699178913,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191014,
+      "num": 191014,
+      "word": "A股",
+      "onboard_time": 1699242692,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 189050,
@@ -849,14 +969,6 @@
       "onboard_time": 1699225342,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172271,
-      "num": 172271,
-      "word": "涉事高校称不存在助学金名额挤占",
-      "onboard_time": 1699241494,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168508,
@@ -1307,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65672,
+      "num": 255037,
+      "word": "华为首款轿车颜值爆表",
+      "onboard_time": 1699243053,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64819,
       "num": 64819,
       "word": "女子在马拉松场外当众脚踢警察",
@@ -1321,6 +1441,14 @@
       "onboard_time": 1699191097,
       "rank": 2,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 61663,
+      "num": 211764,
+      "word": "一周内全国多地迎来寒潮降温",
+      "onboard_time": 1699243895,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49665,
