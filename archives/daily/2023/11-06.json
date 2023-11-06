@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699245308188,
+  "endTime": 1699247821644,
   "band_list": [
     {
       "raw_hot": 3308821,
@@ -99,12 +99,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 997053,
+      "num": 997053,
+      "word": "蜂花护发素 洗衣服",
+      "onboard_time": 1699244858,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 929303,
       "num": 929303,
       "word": "杨紫李现 国色芳华",
       "onboard_time": 1699231717,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 929160,
+      "num": 929160,
+      "word": "魏大勋明侦合照被截半个身子",
+      "onboard_time": 1699244858,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 914811,
@@ -129,6 +145,14 @@
       "onboard_time": 1699227751,
       "rank": 6,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 865358,
+      "num": 865358,
+      "word": "花少5王安宇胡先煦 心眼子",
+      "onboard_time": 1699246121,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 845135,
@@ -193,6 +217,14 @@
       "onboard_time": 1699183715,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684829,
+      "num": 684829,
+      "word": "金莎说好男人是不在市场上流通的",
+      "onboard_time": 1699247076,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 675879,
@@ -299,11 +331,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 534030,
-      "num": 534030,
-      "word": "魏大勋明侦合照被截半个身子",
-      "onboard_time": 1699244858,
-      "rank": 6,
+      "raw_hot": 531178,
+      "num": 515086,
+      "word": "芒果招商会拟邀阵容",
+      "onboard_time": 1699244497,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -313,6 +345,22 @@
       "onboard_time": 1699194999,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515548,
+      "num": 515548,
+      "word": "小学生被请家长妈妈一来全校激动",
+      "onboard_time": 1699243475,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 509866,
+      "num": 509866,
+      "word": "LNG止步八强李宁直播间遭网友吐槽",
+      "onboard_time": 1699244978,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 508801,
@@ -337,14 +385,6 @@
       "onboard_time": 1699233514,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490519,
-      "num": 490519,
-      "word": "小学生被请家长妈妈一来全校激动",
-      "onboard_time": 1699243475,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 490184,
@@ -401,14 +441,6 @@
       "onboard_time": 1699236515,
       "rank": 16,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 446024,
-      "num": 446024,
-      "word": "芒果招商会拟邀阵容",
-      "onboard_time": 1699244497,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 445148,
@@ -547,8 +579,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346709,
-      "num": 346709,
+      "raw_hot": 349116,
+      "num": 349116,
       "word": "郑州鸵鸟",
       "onboard_time": 1699242936,
       "rank": 18,
@@ -643,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276015,
+      "num": 198981,
+      "word": "卢昱晓红衣女将军造型",
+      "onboard_time": 1699245997,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274038,
       "num": 231639,
       "word": "宋雨琦奔跑吧回归路透",
@@ -657,22 +697,6 @@
       "onboard_time": 1699235554,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267033,
-      "num": 267033,
-      "word": "LNG止步八强李宁直播间遭网友吐槽",
-      "onboard_time": 1699244978,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 264707,
-      "num": 239419,
-      "word": "蜂花护发素 洗衣服",
-      "onboard_time": 1699244858,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 255477,
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243990,
+      "num": 205370,
+      "word": "6岁美国华裔小女孩用中文请假",
+      "onboard_time": 1699247076,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242970,
       "num": 242970,
       "word": "娜扎许魏洲新剧收视率",
@@ -745,6 +777,14 @@
       "onboard_time": 1699241134,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 238469,
+      "num": 203881,
+      "word": "没想到张云龙过后这么快就轮到你了",
+      "onboard_time": 1699244858,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 236816,
@@ -803,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220183,
+      "num": 220183,
+      "word": "东北大雪中太平鸟美成国画",
+      "onboard_time": 1699241134,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "兄弟们都昏啦",
@@ -851,20 +899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203881,
-      "num": 203881,
-      "word": "没想到张云龙过后这么快就轮到你了",
-      "onboard_time": 1699244858,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201678,
       "num": 201678,
       "word": "十个勤天",
       "onboard_time": 1699229496,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200803,
+      "num": 200803,
+      "word": "父子俩5.2元购入95号汽油6.7元售出",
+      "onboard_time": 1699247556,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199297,
@@ -939,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188178,
+      "num": 148680,
+      "word": "种地种到最后应有尽有",
+      "onboard_time": 1699247556,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187052,
       "num": 187052,
       "word": "管泽元预测",
@@ -971,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182119,
+      "num": 182119,
+      "word": "闪耀暖暖 后悔抽独角兽",
+      "onboard_time": 1699246058,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178822,
       "num": 178822,
       "word": "马龙飞身救球",
       "onboard_time": 1699197398,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178333,
-      "num": 178333,
-      "word": "东北大雪中太平鸟美成国画",
-      "onboard_time": 1699241134,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 178126,
@@ -1129,6 +1185,22 @@
       "onboard_time": 1699234594,
       "rank": 45,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 143264,
+      "num": 143264,
+      "word": "年轻人从精致穷变成机智省",
+      "onboard_time": 1699247076,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 142632,
+      "num": 142632,
+      "word": "哈尔滨扫雪车火力全开清雪",
+      "onboard_time": 1699247494,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139600,
@@ -1505,6 +1577,14 @@
       "onboard_time": 1699189355,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42712,
+      "num": 182781,
+      "word": "vivo即将发布X100",
+      "onboard_time": 1699247076,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 35348,

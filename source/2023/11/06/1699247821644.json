@@ -1,0 +1,410 @@
+{
+  "runTime": 1699247821644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2627537,
+        "num": 2627537,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997053,
+        "num": 997053,
+        "word": "蜂花护发素 洗衣服",
+        "onboard_time": 1699244858,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 11106,
+        "num": 961188,
+        "word": "第一届全国学青会开幕式",
+        "onboard_time": 1699191097,
+        "rank": 2,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 959294,
+        "num": 959294,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 929160,
+        "num": 929160,
+        "word": "魏大勋明侦合照被截半个身子",
+        "onboard_time": 1699244858,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865358,
+        "num": 865358,
+        "word": "花少5王安宇胡先煦 心眼子",
+        "onboard_time": 1699246121,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684829,
+        "num": 684829,
+        "word": "金莎说好男人是不在市场上流通的",
+        "onboard_time": 1699247076,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668908,
+        "num": 668908,
+        "word": "张钧甯谈断崖式分手",
+        "onboard_time": 1699233753,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 638785,
+        "num": 638785,
+        "word": "科学家发现地球正在漏气",
+        "onboard_time": 1699235554,
+        "rank": 8,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 515548,
+        "num": 515548,
+        "word": "小学生被请家长妈妈一来全校激动",
+        "onboard_time": 1699243475,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 531178,
+        "num": 515086,
+        "word": "芒果招商会拟邀阵容",
+        "onboard_time": 1699244497,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509866,
+        "num": 509866,
+        "word": "LNG止步八强李宁直播间遭网友吐槽",
+        "onboard_time": 1699244978,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 419103,
+        "num": 419103,
+        "word": "杨紫小夭新造型",
+        "onboard_time": 1699237712,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413971,
+        "num": 413971,
+        "word": "唐嫣 综艺判官",
+        "onboard_time": 1699237533,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349116,
+        "num": 349116,
+        "word": "郑州鸵鸟",
+        "onboard_time": 1699242936,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372582,
+        "num": 347266,
+        "word": "曝钢铁侠和美队同意回归漫威",
+        "onboard_time": 1699239271,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350762,
+        "num": 333867,
+        "word": "童瑶这个妆容灵感是孙悟空吗",
+        "onboard_time": 1699240414,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 280660,
+        "num": 280660,
+        "word": "柯南动画 离谱",
+        "onboard_time": 1699241734,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 232188,
+        "num": 232188,
+        "word": "台湾黑老大向好友炫枪将自己打死",
+        "onboard_time": 1699227148,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220183,
+        "num": 220183,
+        "word": "东北大雪中太平鸟美成国画",
+        "onboard_time": 1699241134,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 718233,
+        "num": 219894,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509983,
+        "num": 215249,
+        "word": "离职的女同事继承了四个亿的家产",
+        "onboard_time": 1699239933,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336073,
+        "num": 210343,
+        "word": "给闫妮姐吓得都不微醺了",
+        "onboard_time": 1699244014,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243990,
+        "num": 205370,
+        "word": "6岁美国华裔小女孩用中文请假",
+        "onboard_time": 1699247076,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200803,
+        "num": 200803,
+        "word": "父子俩5.2元购入95号汽油6.7元售出",
+        "onboard_time": 1699247556,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276015,
+        "num": 198981,
+        "word": "卢昱晓红衣女将军造型",
+        "onboard_time": 1699245997,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275343,
+        "num": 195152,
+        "word": "钟楚曦侯雯元下腰抱海报",
+        "onboard_time": 1699236812,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247494,
+        "num": 192682,
+        "word": "权志龙去警察厅接受检查",
+        "onboard_time": 1699239754,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238469,
+        "num": 189625,
+        "word": "没想到张云龙过后这么快就轮到你了",
+        "onboard_time": 1699244858,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186039,
+        "num": 186039,
+        "word": "东北的雪快扫不过来了",
+        "onboard_time": 1699239692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42712,
+        "num": 182781,
+        "word": "vivo即将发布X100",
+        "onboard_time": 1699247076,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224615,
+        "num": 182638,
+        "word": "披荆斩棘比seventeen还seventeen",
+        "onboard_time": 1699244320,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217983,
+        "num": 182530,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699235314,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182119,
+        "num": 182119,
+        "word": "闪耀暖暖 后悔抽独角兽",
+        "onboard_time": 1699246058,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174972,
+        "num": 174972,
+        "word": "我被美女包围了续作",
+        "onboard_time": 1699243414,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210508,
+        "num": 173617,
+        "word": "宋雨琦奔跑吧回归路透",
+        "onboard_time": 1699243118,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198613,
+        "num": 173329,
+        "word": "长相思回春堂番外小剧场",
+        "onboard_time": 1699242392,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171967,
+        "num": 171967,
+        "word": "涉事高校称不存在助学金名额挤占",
+        "onboard_time": 1699241494,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167774,
+        "num": 167774,
+        "word": "华为将在本月发布首款轿车智界S7",
+        "onboard_time": 1699241134,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148885,
+        "num": 148885,
+        "word": "29岁女教练因一张娃娃脸火出圈",
+        "onboard_time": 1699236091,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188722,
+        "num": 148693,
+        "word": "何炅谢娜同台主持湖南卫视惊喜夜",
+        "onboard_time": 1699238493,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188178,
+        "num": 148680,
+        "word": "种地种到最后应有尽有",
+        "onboard_time": 1699247556,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187788,
+        "num": 148667,
+        "word": "杨紫蜜桃闪光妆",
+        "onboard_time": 1699243655,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 148482,
+        "num": 148482,
+        "word": "原神芙宁娜 神之心",
+        "onboard_time": 1699241853,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182179,
+        "num": 147876,
+        "word": "三个少年2官宣",
+        "onboard_time": 1699241555,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181173,
+        "num": 146699,
+        "word": "MINNIE朴宝剑Hanni合唱",
+        "onboard_time": 1699242815,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144472,
+        "num": 144472,
+        "word": "LNG",
+        "onboard_time": 1699231537,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143264,
+        "num": 143264,
+        "word": "年轻人从精致穷变成机智省",
+        "onboard_time": 1699247076,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 142632,
+        "num": 142632,
+        "word": "哈尔滨扫雪车火力全开清雪",
+        "onboard_time": 1699247494,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136037,
+        "num": 136037,
+        "word": "A股",
+        "onboard_time": 1699242692,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博之约#"
+    }
+  }
+}
