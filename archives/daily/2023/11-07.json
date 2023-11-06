@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699299239747,
+  "endTime": 1699301892314,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43322,
+      "num": 21160,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 37823,
       "num": 427131,
       "word": "进博会到底有多好逛",
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35088,
-      "num": 21160,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
+      "raw_hot": 30195,
+      "num": 17007,
+      "word": "咱们三个把日子过好比什么都强",
+      "onboard_time": 1699300394,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 27796,

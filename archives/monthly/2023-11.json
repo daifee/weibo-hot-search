@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699299239747,
+  "endTime": 1699301892314,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -17195,6 +17195,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 43322,
+      "num": 21160,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 42712,
       "num": 304753,
       "word": "vivo即将发布X100",
@@ -17315,14 +17323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35088,
-      "num": 21160,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 34400,
       "num": 1310485,
       "word": "90秒数说今年进博会亮点",
@@ -17369,6 +17369,14 @@
       "onboard_time": 1698944720,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 30195,
+      "num": 17007,
+      "word": "咱们三个把日子过好比什么都强",
+      "onboard_time": 1699300394,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 29219,
