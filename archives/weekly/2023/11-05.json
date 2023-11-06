@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699240685293,
+  "endTime": 1699241672102,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033193,
+      "num": 1033193,
+      "word": "天津助学金事件调查结果",
+      "onboard_time": 1699238251,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997549,
       "num": 997549,
       "word": "北京供暖",
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 675879,
-      "num": 500905,
+      "num": 653252,
       "word": "曝钢铁侠和美队同意回归漫威",
       "onboard_time": 1699239271,
       "rank": 11,
@@ -745,14 +753,6 @@
       "onboard_time": 1699237533,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634901,
-      "num": 634901,
-      "word": "天津助学金事件调查结果",
-      "onboard_time": 1699238251,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634362,
@@ -843,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571985,
+      "num": 345252,
+      "word": "三个少年2官宣",
+      "onboard_time": 1699241555,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567367,
       "num": 567367,
       "word": "熬夜可能让你不知不觉比别人更胖",
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522619,
+      "num": 301604,
+      "word": "离职的女同事继承了四个亿的家产",
+      "onboard_time": 1699239933,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517463,
       "num": 517463,
       "word": "周也吹金粉",
@@ -952,14 +968,6 @@
       "word": "刚改造完房东就把房子卖了",
       "onboard_time": 1699229316,
       "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 494827,
-      "num": 301604,
-      "word": "离职的女同事继承了四个亿的家产",
-      "onboard_time": 1699239933,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -1033,6 +1041,14 @@
       "onboard_time": 1699181498,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 474718,
+      "num": 371827,
+      "word": "权志龙去警察厅接受检查",
+      "onboard_time": 1699239754,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 473440,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1699180241,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449207,
+      "num": 273415,
+      "word": "童瑶这个妆容灵感是孙悟空吗",
+      "onboard_time": 1699240414,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 447627,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1699105176,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 416663,
-      "num": 371827,
-      "word": "权志龙去警察厅接受检查",
-      "onboard_time": 1699239754,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 411639,
@@ -1507,20 +1523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337566,
-      "num": 217760,
-      "word": "童瑶这个妆容灵感是孙悟空吗",
-      "onboard_time": 1699240414,
-      "rank": 30,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 334402,
       "num": 282949,
       "word": "为什么朋友圈点赞越来越少",
       "onboard_time": 1699148854,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334080,
+      "num": 300522,
+      "word": "朱丹周一围合体情感综艺",
+      "onboard_time": 1699239393,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 331878,
@@ -1561,14 +1577,6 @@
       "onboard_time": 1699177891,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 324899,
-      "num": 300522,
-      "word": "朱丹周一围合体情感综艺",
-      "onboard_time": 1699239393,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 323128,
@@ -1705,6 +1713,14 @@
       "onboard_time": 1699163316,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290173,
+      "num": 253080,
+      "word": "张柏芝双开门冰箱",
+      "onboard_time": 1699240533,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 289484,
@@ -1867,6 +1883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 251928,
+      "num": 238027,
+      "word": "娜扎新片演农村姑娘",
+      "onboard_time": 1699239692,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250707,
       "num": 250707,
       "word": "魏大勋送张杰大勋花",
@@ -1955,12 +1979,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 238027,
-      "num": 238027,
-      "word": "娜扎新片演农村姑娘",
-      "onboard_time": 1699239692,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 239734,
+      "num": 239734,
+      "word": "华为将在本月发布首款轿车智界S7",
+      "onboard_time": 1699241134,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 237496,
@@ -2049,6 +2073,14 @@
       "onboard_time": 1699148854,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230926,
+      "num": 230926,
+      "word": "东北的雪快扫不过来了",
+      "onboard_time": 1699239692,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230533,
@@ -2195,6 +2227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 213499,
+      "num": 213499,
+      "word": "一路前行定档",
+      "onboard_time": 1699241433,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212714,
       "num": 212714,
       "word": "一笙在干嘛",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1699190262,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202839,
-      "num": 173177,
-      "word": "张柏芝双开门冰箱",
-      "onboard_time": 1699240533,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202556,
@@ -2563,12 +2595,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178333,
+      "num": 178333,
+      "word": "东北大雪中太平鸟美成国画",
+      "onboard_time": 1699241134,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 178126,
       "num": 178126,
       "word": "钟楚曦芳华6年后再演舞者",
       "onboard_time": 1699234473,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175929,
+      "num": 175449,
+      "word": "天猫互助",
+      "onboard_time": 1699240414,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 175928,
@@ -2585,14 +2633,6 @@
       "onboard_time": 1699179215,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175449,
-      "num": 175449,
-      "word": "天猫互助",
-      "onboard_time": 1699240414,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 174179,
@@ -2633,6 +2673,14 @@
       "onboard_time": 1699143628,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172271,
+      "num": 172271,
+      "word": "涉事高校称不存在助学金名额挤占",
+      "onboard_time": 1699241494,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168838,
@@ -2739,14 +2787,6 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 161790,
-      "num": 161790,
-      "word": "东北的雪快扫不过来了",
-      "onboard_time": 1699239692,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161411,
       "num": 161411,
       "word": "文俊辉直播",
@@ -2785,6 +2825,14 @@
       "onboard_time": 1699196558,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157195,
+      "num": 341027,
+      "word": "极氪007来了",
+      "onboard_time": 1699239871,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 157049,
@@ -2995,14 +3043,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142542,
-      "num": 170044,
-      "word": "极氪007来了",
-      "onboard_time": 1699239871,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 142178,
       "num": 4513477,
       "word": "一个进口产品浓度超高的地方在中国",
@@ -3211,6 +3251,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 125649,
+      "num": 125649,
+      "word": "男子酒驾送妻就医交警拦下后化身代驾",
+      "onboard_time": 1699239271,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124083,
       "num": 124083,
       "word": "小胖裴擒虎FMVP皮肤",
@@ -3289,14 +3337,6 @@
       "onboard_time": 1699163913,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117083,
-      "num": 117083,
-      "word": "男子酒驾送妻就医交警拦下后化身代驾",
-      "onboard_time": 1699239271,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116708,
@@ -3699,6 +3739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72941,
+      "num": 117630,
+      "word": "三星堆文物的工艺有多牛",
+      "onboard_time": 1699240471,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70354,
       "num": 439827,
       "word": "你们健身的人都没有味觉是吧",
@@ -3785,14 +3833,6 @@
       "onboard_time": 1699134973,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48891,
-      "num": 112653,
-      "word": "三星堆文物的工艺有多牛",
-      "onboard_time": 1699240471,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42415,
