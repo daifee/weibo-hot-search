@@ -1,0 +1,410 @@
+{
+  "runTime": 1699298045924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 135259,
+        "num": 135259,
+        "word": "北上广很难有花束般的恋爱",
+        "onboard_time": 1699286909,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75295,
+        "num": 75295,
+        "word": "新疆多地出现罕见红色极光",
+        "onboard_time": 1699276534,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7893,
+        "num": 72425,
+        "word": "进博会到底有多好逛",
+        "onboard_time": 1699276296,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77962,
+        "num": 72281,
+        "word": "突然理解为什么姜涛是顶流了",
+        "onboard_time": 1699274615,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70444,
+        "num": 70444,
+        "word": "佳木斯一体育馆发生坍塌",
+        "onboard_time": 1699277677,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65727,
+        "num": 65727,
+        "word": "权志龙笑着笑着就结束调查了",
+        "onboard_time": 1699274196,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53127,
+        "num": 53127,
+        "word": "不一定斩男 百分百斩女",
+        "onboard_time": 1699285411,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48391,
+        "num": 48391,
+        "word": "景甜 脸在江山在",
+        "onboard_time": 1699284455,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41406,
+        "num": 41406,
+        "word": "卫健委通报医院贩卖出生证及婴儿",
+        "onboard_time": 1699277919,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38015,
+        "num": 38015,
+        "word": "医院院长倒卖出生证明每张赚6万",
+        "onboard_time": 1699272454,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111139,
+        "num": 38003,
+        "word": "大三女生跳松花江自杀",
+        "onboard_time": 1699274315,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72020,
+        "num": 37936,
+        "word": "女大学生肚子大被搓澡阿姨救了一命",
+        "onboard_time": 1699268494,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64201,
+        "num": 37867,
+        "word": "每天1点睡觉的好处",
+        "onboard_time": 1699280863,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46294,
+        "num": 37858,
+        "word": "苹果这台3w块的电脑怎么样",
+        "onboard_time": 1699286852,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38160,
+        "num": 37816,
+        "word": "江映蓉的圈内人缘",
+        "onboard_time": 1699285354,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37767,
+        "num": 37767,
+        "word": "今天的巩俐 我老公",
+        "onboard_time": 1699285772,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35418,
+        "num": 35418,
+        "word": "女生为考研戴电击闹钟电破皮都没醒",
+        "onboard_time": 1699276656,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34630,
+        "num": 34630,
+        "word": "秦岚录完花少好像失忆了",
+        "onboard_time": 1699281403,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31205,
+        "num": 31205,
+        "word": "为什么iPhone只有P大写",
+        "onboard_time": 1699271252,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29695,
+        "num": 29695,
+        "word": "薛之谦 我卖货就这脾气",
+        "onboard_time": 1699265976,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31544,
+        "num": 29683,
+        "word": "被猫猫发现去了撸猫馆",
+        "onboard_time": 1699290320,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30048,
+        "num": 29673,
+        "word": "张亮舞台尿裤子险进剧院黑名单",
+        "onboard_time": 1699280021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29484,
+        "num": 29484,
+        "word": "金莎一个问题暴露了对婚姻的不自信",
+        "onboard_time": 1699282360,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29102,
+        "num": 29102,
+        "word": "宁安如梦 空降",
+        "onboard_time": 1699263756,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25439,
+        "num": 25439,
+        "word": "杭州已接洽迪士尼环球影城",
+        "onboard_time": 1699284033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26156,
+        "num": 25283,
+        "word": "谁能拒绝一个会颠勺的总裁呢",
+        "onboard_time": 1699288645,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24737,
+        "num": 24737,
+        "word": "空调房里的广东人沉默了",
+        "onboard_time": 1699282660,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24234,
+        "num": 24234,
+        "word": "匪我思存不愧是亲妈",
+        "onboard_time": 1699285893,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22804,
+        "num": 22804,
+        "word": "赵露思韩系妆容",
+        "onboard_time": 1699280863,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 19554,
+        "num": 22552,
+        "word": "佳木斯一体育馆坍塌初步确认3人被困",
+        "onboard_time": 1699279660,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53153,
+        "num": 22545,
+        "word": "中南两国关系已经步入黄金时代",
+        "onboard_time": 1699293863,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 22535,
+        "word": "M3 Max MacBook Pro开箱",
+        "onboard_time": 1699286611,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22513,
+        "num": 22513,
+        "word": "刘诗诗下车那段百看不厌",
+        "onboard_time": 1699268134,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21542,
+        "num": 21542,
+        "word": "权志龙ins事必归正",
+        "onboard_time": 1699281282,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21399,
+        "num": 21399,
+        "word": "女娲毕设 古力娜扎",
+        "onboard_time": 1699281945,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21395,
+        "num": 21395,
+        "word": "普通人和有钱人取名字区别有多大",
+        "onboard_time": 1699281765,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21172,
+        "num": 21172,
+        "word": "马龙WTT外网的评论",
+        "onboard_time": 1699285232,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20907,
+        "num": 20907,
+        "word": "王鹤棣用晚餐摆了个六",
+        "onboard_time": 1699278035,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20024,
+        "num": 20024,
+        "word": "孙颖莎退出WTT太原站单打",
+        "onboard_time": 1699269032,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19818,
+        "num": 19818,
+        "word": "老公姐",
+        "onboard_time": 1699270654,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18973,
+        "num": 18973,
+        "word": "是橙子出了轨还是柚子出了轨",
+        "onboard_time": 1699272454,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18876,
+        "num": 18876,
+        "word": "他在准备告白她在准备离开",
+        "onboard_time": 1699277434,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18492,
+        "num": 18492,
+        "word": "纽约地铁从不养闲人",
+        "onboard_time": 1699297934,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18451,
+        "num": 18451,
+        "word": "陈都灵的冷笑",
+        "onboard_time": 1699266693,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17566,
+        "num": 17566,
+        "word": "桦南体育馆房顶坍塌与降雪有关",
+        "onboard_time": 1699283435,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17466,
+        "num": 17466,
+        "word": "RENA和崔然竣舞蹈挑战",
+        "onboard_time": 1699296194,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17186,
+        "num": 17186,
+        "word": "哈尔滨的哈是哈利波特的哈",
+        "onboard_time": 1699280863,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17047,
+        "num": 17047,
+        "word": "迪丽热巴张馨予 美女的旁边还是美女",
+        "onboard_time": 1699260152,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16327,
+        "num": 16327,
+        "word": "早衰症的Tiffany迎来一顶美丽假发",
+        "onboard_time": 1699297574,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 15502,
+        "num": 15502,
+        "word": "佳木斯一体育馆坍塌2人送医",
+        "onboard_time": 1699281522,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见全国枫桥式工作法入选单位代表#"
+    }
+  }
+}
