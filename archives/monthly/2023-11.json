@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699287815004,
+  "endTime": 1699288771230,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -3035,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660221,
+      "num": 296945,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660096,
       "num": 507915,
       "word": "YG只发了朴彩英台历",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1699264113,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 655542,
-      "num": 296945,
-      "word": "大三女生跳松花江自杀",
-      "onboard_time": 1699274315,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 651853,
@@ -3868,7 +3868,7 @@
     },
     {
       "raw_hot": 547539,
-      "num": 425146,
+      "num": 427085,
       "word": "景甜 脸在江山在",
       "onboard_time": 1699284455,
       "rank": 27,
@@ -4057,6 +4057,14 @@
       "onboard_time": 1698830192,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 519003,
+      "num": 519003,
+      "word": "不一定斩男 百分百斩女",
+      "onboard_time": 1699285411,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 517463,
@@ -6219,20 +6227,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 358403,
+      "num": 358403,
+      "word": "今天的巩俐 我老公",
+      "onboard_time": 1699285772,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358007,
       "num": 358007,
       "word": "林俊杰要和阿信合作了吗",
       "onboard_time": 1699017876,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 357347,
-      "num": 252556,
-      "word": "不一定斩男 百分百斩女",
-      "onboard_time": 1699285411,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357245,
@@ -6763,14 +6771,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 331559,
-      "num": 251845,
-      "word": "今天的巩俐 我老公",
-      "onboard_time": 1699285772,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 331096,
       "num": 331096,
       "word": "米勒 全面碾压恭喜T1",
@@ -7017,6 +7017,14 @@
       "onboard_time": 1698801754,
       "rank": 19,
       "category": "美妆,互联网"
+    },
+    {
+      "raw_hot": 315271,
+      "num": 151665,
+      "word": "苹果这台3w块的电脑怎么样",
+      "onboard_time": 1699286852,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 315221,
@@ -7449,6 +7457,14 @@
       "onboard_time": 1699240533,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 289720,
+      "num": 196151,
+      "word": "北上广很难有花束般的恋爱",
+      "onboard_time": 1699286909,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 289484,
@@ -9387,14 +9403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228019,
-      "num": 151665,
-      "word": "苹果这台3w块的电脑怎么样",
-      "onboard_time": 1699286852,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227876,
       "num": 227876,
       "word": "胰腺癌的早期信号是什么",
@@ -10385,14 +10393,6 @@
       "onboard_time": 1699073552,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 205554,
-      "num": 148337,
-      "word": "北上广很难有花束般的恋爱",
-      "onboard_time": 1699286909,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 205362,
@@ -16419,6 +16419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89157,
+      "num": 89157,
+      "word": "尤长靖都爱的斑斓芋泥卷",
+      "onboard_time": 1699287808,
+      "rank": 43,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 88787,
       "num": 107621,
       "word": "TF家族2024台历",
@@ -16593,6 +16601,14 @@
       "onboard_time": 1699074632,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80855,
+      "num": 80855,
+      "word": "谁能拒绝一个会颠勺的总裁呢",
+      "onboard_time": 1699288645,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 80454,

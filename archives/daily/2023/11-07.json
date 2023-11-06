@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699287815004,
+  "endTime": 1699288771230,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655542,
+      "raw_hot": 660221,
       "num": 253976,
       "word": "大三女生跳松花江自杀",
       "onboard_time": 1699274315,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 547539,
-      "num": 425146,
+      "num": 427085,
       "word": "景甜 脸在江山在",
       "onboard_time": 1699284455,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519003,
+      "num": 519003,
+      "word": "不一定斩男 百分百斩女",
+      "onboard_time": 1699285411,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 502847,
@@ -75,11 +83,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357347,
-      "num": 252556,
-      "word": "不一定斩男 百分百斩女",
-      "onboard_time": 1699285411,
-      "rank": 13,
+      "raw_hot": 358403,
+      "num": 358403,
+      "word": "今天的巩俐 我老公",
+      "onboard_time": 1699285772,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -91,12 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331559,
-      "num": 251845,
-      "word": "今天的巩俐 我老公",
-      "onboard_time": 1699285772,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 315271,
+      "num": 151665,
+      "word": "苹果这台3w块的电脑怎么样",
+      "onboard_time": 1699286852,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 289720,
+      "num": 196151,
+      "word": "北上广很难有花束般的恋爱",
+      "onboard_time": 1699286909,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 272497,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228019,
-      "num": 151665,
-      "word": "苹果这台3w块的电脑怎么样",
-      "onboard_time": 1699286852,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227010,
       "num": 227010,
       "word": "杭州已接洽迪士尼环球影城",
@@ -185,14 +193,6 @@
       "onboard_time": 1699280863,
       "rank": 22,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 205554,
-      "num": 148337,
-      "word": "北上广很难有花束般的恋爱",
-      "onboard_time": 1699286909,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 198491,
@@ -339,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96109,
+      "num": 96109,
+      "word": "金莎一个问题暴露了对婚姻的不自信",
+      "onboard_time": 1699282360,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94395,
       "num": 94395,
       "word": "哈尔滨的哈是哈利波特的哈",
       "onboard_time": 1699280863,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89157,
+      "num": 89157,
+      "word": "尤长靖都爱的斑斓芋泥卷",
+      "onboard_time": 1699287808,
+      "rank": 43,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 85690,
@@ -361,6 +377,14 @@
       "onboard_time": 1699278277,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80855,
+      "num": 80855,
+      "word": "谁能拒绝一个会颠勺的总裁呢",
+      "onboard_time": 1699288645,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 77921,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 37823,
-      "num": 425370,
+      "num": 427131,
       "word": "进博会到底有多好逛",
       "onboard_time": 1699276296,
       "rank": 2,
