@@ -1,7 +1,15 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699312629268,
+  "endTime": 1699313649109,
   "band_list": [
+    {
+      "raw_hot": 2356960,
+      "num": 2356960,
+      "word": "佳木斯坍塌体育馆3人遇难",
+      "onboard_time": 1699311985,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 913011,
       "num": 913011,
@@ -11,27 +19,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 823594,
-      "num": 823594,
-      "word": "佳木斯坍塌体育馆3人遇难",
-      "onboard_time": 1699311985,
-      "rank": 0,
-      "category": "国内要闻"
+      "raw_hot": 792973,
+      "num": 792973,
+      "word": "医院院长倒卖出生证明每张赚6万",
+      "onboard_time": 1699272454,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 660221,
+      "raw_hot": 722692,
       "num": 253976,
       "word": "大三女生跳松花江自杀",
       "onboard_time": 1699274315,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660154,
-      "num": 660154,
-      "word": "医院院长倒卖出生证明每张赚6万",
-      "onboard_time": 1699272454,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530763,
+      "num": 530763,
+      "word": "主持人大赛治好了我的精神内耗",
+      "onboard_time": 1699310418,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519003,
       "num": 519003,
       "word": "不一定斩男 百分百斩女",
@@ -51,19 +59,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 506561,
+      "num": 506561,
+      "word": "新疆多地出现罕见红色极光",
+      "onboard_time": 1699276534,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502847,
       "num": 253443,
       "word": "女大学生肚子大被搓澡阿姨救了一命",
       "onboard_time": 1699268494,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501144,
-      "num": 501144,
-      "word": "新疆多地出现罕见红色极光",
-      "onboard_time": 1699276534,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1699274196,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411669,
-      "num": 183986,
-      "word": "主持人大赛治好了我的精神内耗",
-      "onboard_time": 1699310418,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 395421,
@@ -132,19 +132,27 @@
     },
     {
       "raw_hot": 315271,
-      "num": 205073,
+      "num": 213581,
       "word": "苹果这台3w块的电脑怎么样",
       "onboard_time": 1699286852,
       "rank": 30,
       "category": "数码"
     },
     {
-      "raw_hot": 302671,
-      "num": 267312,
+      "raw_hot": 306177,
+      "num": 306177,
       "word": "北上广很难有花束般的恋爱",
       "onboard_time": 1699286909,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284342,
+      "num": 213879,
+      "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
+      "onboard_time": 1699312586,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272497,
@@ -227,6 +235,22 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 205902,
+      "num": 205902,
+      "word": "佳木斯体育馆坍塌救援在大雪中进行",
+      "onboard_time": 1699312705,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200172,
+      "num": 200172,
+      "word": "罗梅罗踢倒恩佐后被罚下",
+      "onboard_time": 1699312825,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198491,
       "num": 144535,
       "word": "M3 Max MacBook Pro开箱",
@@ -249,6 +273,22 @@
       "onboard_time": 1699285893,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191051,
+      "num": 108657,
+      "word": "热刺单场两红",
+      "onboard_time": 1699313007,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189373,
+      "num": 189373,
+      "word": "热刺赛季首败",
+      "onboard_time": 1699312467,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188408,
@@ -283,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156183,
+      "num": 156183,
+      "word": "金莎一个问题暴露了对婚姻的不自信",
+      "onboard_time": 1699282360,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154293,
       "num": 154293,
       "word": "林高远太原",
       "onboard_time": 1699284576,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142962,
+      "num": 108559,
+      "word": "原来淋巴肉是不能吃的",
+      "onboard_time": 1699313248,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 142636,
@@ -315,6 +371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139718,
+      "num": 139718,
+      "word": "小朋友跳绳方圆十里不能站人",
+      "onboard_time": 1699310721,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133282,
       "num": 133282,
       "word": "易烊千玺到达慕尼黑",
@@ -323,20 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130719,
-      "num": 86140,
-      "word": "热刺赛季首败",
-      "onboard_time": 1699312467,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124149,
-      "num": 105346,
-      "word": "小朋友跳绳方圆十里不能站人",
-      "onboard_time": 1699310721,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "咱们三个把日子过好比什么都强",
+      "onboard_time": 1699300394,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 122809,
@@ -347,12 +403,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 121978,
-      "num": 121978,
-      "word": "咱们三个把日子过好比什么都强",
-      "onboard_time": 1699300394,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 115211,
+      "num": 115211,
+      "word": "被猫猫发现去了撸猫馆",
+      "onboard_time": 1699290320,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 112217,
@@ -379,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110294,
-      "num": 110294,
-      "word": "金莎一个问题暴露了对婚姻的不自信",
-      "onboard_time": 1699282360,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 103514,
       "num": 103514,
       "word": "谁能拒绝一个会颠勺的总裁呢",
       "onboard_time": 1699288645,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103321,
+      "num": 103321,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 100719,
@@ -411,22 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92853,
-      "num": 85804,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 89358,
-      "num": 89358,
-      "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
-      "onboard_time": 1699312586,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89157,
       "num": 89157,
       "word": "尤长靖都爱的斑斓芋泥卷",
@@ -435,12 +475,12 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 86918,
-      "num": 86918,
-      "word": "被猫猫发现去了撸猫馆",
-      "onboard_time": 1699290320,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 87610,
+      "num": 87610,
+      "word": "雪鸢真的意难平",
+      "onboard_time": 1699312404,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85690,
@@ -499,6 +539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62164,
+      "num": 62164,
+      "word": "江湖你撒手 徐斯你撒口",
+      "onboard_time": 1699313609,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60555,
       "num": 153300,
       "word": "佳木斯一体育馆坍塌初步确认3人被困",
@@ -513,14 +561,6 @@
       "onboard_time": 1699266693,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43030,
-      "num": 43030,
-      "word": "雪鸢真的意难平",
-      "onboard_time": 1699312404,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 37823,

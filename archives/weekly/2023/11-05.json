@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699312629268,
+  "endTime": 1699313649109,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -129,6 +129,14 @@
       "onboard_time": 1699278879,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2356960,
+      "num": 2356960,
+      "word": "佳木斯坍塌体育馆3人遇难",
+      "onboard_time": 1699311985,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2314124,
@@ -803,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 823594,
-      "num": 823594,
-      "word": "佳木斯坍塌体育馆3人遇难",
-      "onboard_time": 1699311985,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 823473,
       "num": 550197,
       "word": "代入一下关晓彤",
@@ -979,6 +979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 722692,
+      "num": 296945,
+      "word": "大三女生跳松花江自杀",
+      "onboard_time": 1699274315,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717935,
       "num": 717935,
       "word": "泫雅签约金晓钟经纪公司",
@@ -1072,14 +1080,6 @@
       "word": "暴雪下的哈尔滨",
       "onboard_time": 1699249114,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660221,
-      "num": 296945,
-      "word": "大三女生跳松花江自杀",
-      "onboard_time": 1699274315,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1411,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530763,
+      "num": 530763,
+      "word": "主持人大赛治好了我的精神内耗",
+      "onboard_time": 1699310418,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528436,
       "num": 528436,
       "word": "韩国的婴儿车里都是小狗",
@@ -1507,8 +1515,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 501144,
-      "num": 501144,
+      "raw_hot": 506561,
+      "num": 506561,
       "word": "新疆多地出现罕见红色极光",
       "onboard_time": 1699276534,
       "rank": 44,
@@ -1913,14 +1921,6 @@
       "onboard_time": 1699241494,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411669,
-      "num": 183986,
-      "word": "主持人大赛治好了我的精神内耗",
-      "onboard_time": 1699310418,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 411639,
@@ -2452,7 +2452,7 @@
     },
     {
       "raw_hot": 315271,
-      "num": 205073,
+      "num": 213581,
       "word": "苹果这台3w块的电脑怎么样",
       "onboard_time": 1699286852,
       "rank": 30,
@@ -2499,20 +2499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306177,
+      "num": 306177,
+      "word": "北上广很难有花束般的恋爱",
+      "onboard_time": 1699286909,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 303064,
       "num": 294751,
       "word": "杨超越新剧演女大",
       "onboard_time": 1699236153,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302671,
-      "num": 267312,
-      "word": "北上广很难有花束般的恋爱",
-      "onboard_time": 1699286909,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 301964,
@@ -2601,6 +2601,14 @@
       "onboard_time": 1699188456,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 284342,
+      "num": 213879,
+      "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
+      "onboard_time": 1699312586,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283923,
@@ -3531,6 +3539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205902,
+      "num": 205902,
+      "word": "佳木斯体育馆坍塌救援在大雪中进行",
+      "onboard_time": 1699312705,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205764,
       "num": 205764,
       "word": "于正何瑞贤合照",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1699167570,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200172,
+      "num": 200172,
+      "word": "罗梅罗踢倒恩佐后被罚下",
+      "onboard_time": 1699312825,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 200127,
@@ -3859,6 +3883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191051,
+      "num": 108657,
+      "word": "热刺单场两红",
+      "onboard_time": 1699313007,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191014,
       "num": 223470,
       "word": "A股",
@@ -3913,6 +3945,14 @@
       "onboard_time": 1699247076,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 189373,
+      "num": 189373,
+      "word": "热刺赛季首败",
+      "onboard_time": 1699312467,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 189319,
@@ -4723,6 +4763,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 142962,
+      "num": 108559,
+      "word": "原来淋巴肉是不能吃的",
+      "onboard_time": 1699313248,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142804,
       "num": 142804,
       "word": "手部祛湿操",
@@ -4777,6 +4825,14 @@
       "onboard_time": 1699273413,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139718,
+      "num": 139718,
+      "word": "小朋友跳绳方圆十里不能站人",
+      "onboard_time": 1699310721,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 139600,
@@ -4963,14 +5019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130719,
-      "num": 86140,
-      "word": "热刺赛季首败",
-      "onboard_time": 1699312467,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130082,
       "num": 130082,
       "word": "腿妹的旅行翻包日记",
@@ -5067,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "咱们三个把日子过好比什么都强",
+      "onboard_time": 1699300394,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126819,
       "num": 131987,
       "word": "王霏霏唱跳全开麦live现场",
@@ -5105,14 +5161,6 @@
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124149,
-      "num": 105346,
-      "word": "小朋友跳绳方圆十里不能站人",
-      "onboard_time": 1699310721,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 124083,
@@ -5169,14 +5217,6 @@
       "onboard_time": 1699238251,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121978,
-      "num": 121978,
-      "word": "咱们三个把日子过好比什么都强",
-      "onboard_time": 1699300394,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 120837,
@@ -5249,6 +5289,14 @@
       "onboard_time": 1699097978,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115211,
+      "num": 115211,
+      "word": "被猫猫发现去了撸猫馆",
+      "onboard_time": 1699290320,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 114646,
@@ -5451,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103321,
+      "num": 103321,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 102815,
       "num": 102815,
       "word": "为什么觉得护肤品小样比正装好用",
@@ -5619,14 +5675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92853,
-      "num": 85804,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 91843,
       "num": 217100,
       "word": "挖机师傅遇老人填土20分钟帮填平",
@@ -5641,14 +5689,6 @@
       "onboard_time": 1699271192,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 89358,
-      "num": 89358,
-      "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
-      "onboard_time": 1699312586,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89260,
@@ -5683,20 +5723,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87610,
+      "num": 87610,
+      "word": "雪鸢真的意难平",
+      "onboard_time": 1699312404,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87364,
       "num": 610686,
       "word": "iQOO12亮相KPL",
       "onboard_time": 1699192658,
       "rank": 26,
       "category": "电竞,数码"
-    },
-    {
-      "raw_hot": 86918,
-      "num": 86918,
-      "word": "被猫猫发现去了撸猫馆",
-      "onboard_time": 1699290320,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 84954,
@@ -5931,6 +5971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62164,
+      "num": 62164,
+      "word": "江湖你撒手 徐斯你撒口",
+      "onboard_time": 1699313609,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61740,
       "num": 1577787,
       "word": "第一届全国学青会开幕式",
@@ -5993,14 +6041,6 @@
       "onboard_time": 1699261293,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 43030,
-      "num": 43030,
-      "word": "雪鸢真的意难平",
-      "onboard_time": 1699312404,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 42712,
