@@ -1,0 +1,410 @@
+{
+  "runTime": 1699263267057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288502,
+        "num": 1288502,
+        "word": "泉州小区发生爆燃致1死3伤",
+        "onboard_time": 1699260152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563614,
+        "num": 563614,
+        "word": "何炅 自卑的人该怎么治愈自己",
+        "onboard_time": 1699252115,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31138,
+        "num": 519206,
+        "word": "相约乌镇峰会",
+        "onboard_time": 1699261895,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313357,
+        "num": 518641,
+        "word": "迪丽热巴张馨予 美女的旁边还是美女",
+        "onboard_time": 1699260152,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845093,
+        "num": 518185,
+        "word": "权志龙馒化",
+        "onboard_time": 1699262553,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517247,
+        "num": 517247,
+        "word": "替同学挡8刀的她成了人民警察",
+        "onboard_time": 1699249769,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 482879,
+        "num": 482879,
+        "word": "上海5元一根的辣条",
+        "onboard_time": 1699259073,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 481756,
+        "num": 481756,
+        "word": "李现的左右脸是复制粘贴的吧",
+        "onboard_time": 1699257394,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 453279,
+        "num": 453279,
+        "word": "女将星",
+        "onboard_time": 1699254693,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425503,
+        "num": 425503,
+        "word": "斗鱼证实CEO陈少杰失联",
+        "onboard_time": 1699251091,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 970406,
+        "num": 414221,
+        "word": "鼓楼医院",
+        "onboard_time": 1699261595,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383594,
+        "num": 383594,
+        "word": "奔跑吧生态篇官宣阵容",
+        "onboard_time": 1699262733,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383530,
+        "num": 383530,
+        "word": "张踩铃 大胖媳妇整顿职场",
+        "onboard_time": 1699259852,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1199332,
+        "num": 370338,
+        "word": "万科",
+        "onboard_time": 1699258353,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4296283,
+        "num": 365222,
+        "word": "权志龙药检呈阴性",
+        "onboard_time": 1699260993,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341957,
+        "num": 341957,
+        "word": "金莎说好男人是不在市场上流通的",
+        "onboard_time": 1699247076,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308873,
+        "num": 308873,
+        "word": "父子俩5.2元购入95号汽油6.7元售出",
+        "onboard_time": 1699247556,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257945,
+        "num": 257945,
+        "word": "迪丽热巴随手一扎就是氛围感",
+        "onboard_time": 1699259431,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253292,
+        "num": 253292,
+        "word": "雪休",
+        "onboard_time": 1699256554,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49860,
+        "num": 249237,
+        "word": "为什么要大力发展混合动力",
+        "onboard_time": 1699261293,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246963,
+        "num": 246963,
+        "word": "周冬雨现在的气质",
+        "onboard_time": 1699261956,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240122,
+        "num": 240122,
+        "word": "不抗寒",
+        "onboard_time": 1699254632,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238283,
+        "num": 238283,
+        "word": "不洗脸真的会让皮肤变好吗",
+        "onboard_time": 1699260152,
+        "rank": 22,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 224197,
+        "num": 224197,
+        "word": "谁的下饭综艺回来了",
+        "onboard_time": 1699262372,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196789,
+        "num": 196789,
+        "word": "卡琳娜cos库洛洛",
+        "onboard_time": 1699262673,
+        "rank": 24,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 199420,
+        "num": 196321,
+        "word": "泫雅签约金晓钟经纪公司",
+        "onboard_time": 1699254031,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190561,
+        "num": 190561,
+        "word": "揭露骗子在机场冒充工作人员揽客住宿",
+        "onboard_time": 1699262314,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181786,
+        "num": 181786,
+        "word": "古人吃螺蛳堆出了螺蛳山",
+        "onboard_time": 1699261533,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172733,
+        "num": 172733,
+        "word": "田曦薇钻石深V露背裙",
+        "onboard_time": 1699257452,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482268,
+        "num": 171340,
+        "word": "宝诗龙 肖战",
+        "onboard_time": 1699250552,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 226660,
+        "num": 170358,
+        "word": "美甲价格",
+        "onboard_time": 1699263154,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169352,
+        "num": 169352,
+        "word": "胡彦斌不是xleader 甄嬛传没有甄嬛",
+        "onboard_time": 1699259313,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167926,
+        "num": 167926,
+        "word": "女生称生病拒绝周末无偿加班被辞退",
+        "onboard_time": 1699253792,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164650,
+        "num": 164650,
+        "word": "古有替父从军 今有替女恋爱",
+        "onboard_time": 1699259313,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159127,
+        "num": 159127,
+        "word": "泰国女团妆造",
+        "onboard_time": 1699259192,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158400,
+        "num": 158400,
+        "word": "明星大侦探",
+        "onboard_time": 1699252713,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153512,
+        "num": 153512,
+        "word": "LNG止步八强李宁直播间遭网友吐槽",
+        "onboard_time": 1699244978,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151366,
+        "num": 151366,
+        "word": "刘诗诗 时光花园美人",
+        "onboard_time": 1699260392,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196815,
+        "num": 151288,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150996,
+        "num": 150996,
+        "word": "东北男大爆改羽生结弦",
+        "onboard_time": 1699255592,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150215,
+        "num": 150215,
+        "word": "虞书欣THE9合照库存",
+        "onboard_time": 1699263035,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149987,
+        "num": 149987,
+        "word": "生活毒用品无处不在",
+        "onboard_time": 1699262194,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147258,
+        "num": 147258,
+        "word": "时宴把郑书意备注女演员的原因",
+        "onboard_time": 1699259914,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145886,
+        "num": 145886,
+        "word": "顾青裴九尾狐",
+        "onboard_time": 1699255892,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143255,
+        "num": 143255,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134737,
+        "num": 134737,
+        "word": "郑州鸵鸟已被动物园带走",
+        "onboard_time": 1699262434,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128133,
+        "num": 128133,
+        "word": "塞棉花治疗甲沟炎",
+        "onboard_time": 1699262975,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124139,
+        "num": 124139,
+        "word": "刘诗诗 优雅黑天鹅",
+        "onboard_time": 1699252531,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120021,
+        "num": 120021,
+        "word": "人均1700只给你吃鸡",
+        "onboard_time": 1699252889,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88419,
+        "num": 118548,
+        "word": "暴雪下的哈尔滨",
+        "onboard_time": 1699249114,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届进口博览会#"
+    }
+  }
+}

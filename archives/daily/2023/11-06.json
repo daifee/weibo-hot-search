@@ -1,9 +1,9 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699262348703,
+  "endTime": 1699263267057,
   "band_list": [
     {
-      "raw_hot": 4172714,
+      "raw_hot": 4296283,
       "num": 1273838,
       "word": "权志龙药检呈阴性",
       "onboard_time": 1699260993,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1288502,
+      "num": 1288502,
+      "word": "泉州小区发生爆燃致1死3伤",
+      "onboard_time": 1699260152,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1240365,
       "num": 1240365,
       "word": "万科",
@@ -187,20 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1046156,
-      "num": 1279653,
-      "word": "泉州小区发生爆燃致1死3伤",
-      "onboard_time": 1699260152,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1004331,
       "num": 1004331,
       "word": "何炅 自卑的人该怎么治愈自己",
       "onboard_time": 1699252115,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 970406,
+      "num": 414221,
+      "word": "鼓楼医院",
+      "onboard_time": 1699261595,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929303,
@@ -257,6 +265,14 @@
       "onboard_time": 1699204280,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845093,
+      "num": 518185,
+      "word": "权志龙馒化",
+      "onboard_time": 1699262553,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 809796,
@@ -563,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 482879,
+      "num": 482879,
+      "word": "上海5元一根的辣条",
+      "onboard_time": 1699259073,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 481490,
       "num": 481490,
       "word": "RNG能不能把gala卡回来",
@@ -667,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414868,
-      "num": 414868,
-      "word": "上海5元一根的辣条",
-      "onboard_time": 1699259073,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 411639,
       "num": 411639,
       "word": "多地降温男子偷穿女友打底裤取暖",
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383594,
+      "num": 383594,
+      "word": "奔跑吧生态篇官宣阵容",
+      "onboard_time": 1699262733,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379134,
       "num": 283527,
       "word": "没有贾玲的王牌",
@@ -793,14 +817,6 @@
       "onboard_time": 1699174115,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 357227,
-      "num": 357227,
-      "word": "鼓楼医院",
-      "onboard_time": 1699261595,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352707,
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257945,
+      "num": 257945,
+      "word": "迪丽热巴随手一扎就是氛围感",
+      "onboard_time": 1699259431,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255477,
       "num": 255477,
       "word": "女子骑车到桥上将孩子推下河",
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246963,
+      "num": 246963,
+      "word": "周冬雨现在的气质",
+      "onboard_time": 1699261956,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244520,
       "num": 244520,
       "word": "大麦候补",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1699247076,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243155,
-      "num": 243155,
-      "word": "迪丽热巴随手一扎就是氛围感",
-      "onboard_time": 1699259431,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 242970,
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238283,
+      "num": 238283,
+      "word": "不洗脸真的会让皮肤变好吗",
+      "onboard_time": 1699260152,
+      "rank": 22,
+      "category": "美妆,知识科普"
+    },
+    {
       "raw_hot": 236816,
       "num": 236816,
       "word": "他衣服都没晾干就坐着睡着了",
@@ -1123,14 +1155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230136,
-      "num": 230136,
-      "word": "不洗脸真的会让皮肤变好吗",
-      "onboard_time": 1699260152,
-      "rank": 22,
-      "category": "美妆,知识科普"
-    },
-    {
       "raw_hot": 229293,
       "num": 229293,
       "word": "泰国女团妆造",
@@ -1145,6 +1169,22 @@
       "onboard_time": 1699191936,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226660,
+      "num": 170358,
+      "word": "美甲价格",
+      "onboard_time": 1699263154,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 224197,
+      "num": 224197,
+      "word": "谁的下饭综艺回来了",
+      "onboard_time": 1699262372,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 223306,
@@ -1283,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196789,
+      "num": 196789,
+      "word": "卡琳娜cos库洛洛",
+      "onboard_time": 1699262673,
+      "rank": 24,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "裴行俭前妻被大长公主逼死",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1699258772,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 193886,
-      "num": 193886,
-      "word": "周冬雨现在的气质",
-      "onboard_time": 1699261956,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 193204,
@@ -1345,6 +1385,14 @@
       "onboard_time": 1699242692,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190561,
+      "num": 190561,
+      "word": "揭露骗子在机场冒充工作人员揽客住宿",
+      "onboard_time": 1699262314,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189828,
@@ -1435,8 +1483,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181599,
-      "num": 181599,
+      "raw_hot": 181786,
+      "num": 181786,
       "word": "古人吃螺蛳堆出了螺蛳山",
       "onboard_time": 1699261533,
       "rank": 33,
@@ -1643,6 +1691,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150215,
+      "num": 150215,
+      "word": "虞书欣THE9合照库存",
+      "onboard_time": 1699263035,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 149987,
+      "num": 149987,
+      "word": "生活毒用品无处不在",
+      "onboard_time": 1699262194,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149928,
       "num": 136370,
       "word": "大张伟治好了我的精神内耗",
@@ -1723,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134737,
+      "num": 134737,
+      "word": "郑州鸵鸟已被动物园带走",
+      "onboard_time": 1699262434,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134224,
       "num": 134224,
       "word": "丁程鑫说来到街舞很快乐",
@@ -1787,12 +1859,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127786,
-      "num": 127786,
-      "word": "揭露骗子在机场冒充工作人员揽客住宿",
-      "onboard_time": 1699262314,
+      "raw_hot": 128133,
+      "num": 128133,
+      "word": "塞棉花治疗甲沟炎",
+      "onboard_time": 1699262975,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127640,
@@ -1849,14 +1921,6 @@
       "onboard_time": 1699248691,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122400,
-      "num": 122400,
-      "word": "生活毒用品无处不在",
-      "onboard_time": 1699262194,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122065,
@@ -2211,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49860,
+      "num": 249237,
+      "word": "为什么要大力发展混合动力",
+      "onboard_time": 1699261293,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49665,
       "num": 1001112,
       "word": "揭秘进博会网红巴基斯坦盐灯",
@@ -2227,20 +2299,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 40496,
-      "num": 237009,
-      "word": "为什么要大力发展混合动力",
-      "onboard_time": 1699261293,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 35348,
       "num": 56309,
       "word": "周也吹金粉",
       "onboard_time": 1699191635,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31138,
+      "num": 1241780,
+      "word": "相约乌镇峰会",
+      "onboard_time": 1699261895,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25830,
@@ -2257,14 +2329,6 @@
       "onboard_time": 1699208716,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 22509,
-      "num": 1241780,
-      "word": "相约乌镇峰会",
-      "onboard_time": 1699261895,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22072,

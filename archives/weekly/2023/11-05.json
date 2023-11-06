@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699262348703,
+  "endTime": 1699263267057,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -27,7 +27,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 4172714,
+      "raw_hot": 4296283,
       "num": 1273838,
       "word": "权志龙药检呈阴性",
       "onboard_time": 1699260993,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1288502,
+      "num": 1288502,
+      "word": "泉州小区发生爆燃致1死3伤",
+      "onboard_time": 1699260152,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284650,
       "num": 1284650,
       "word": "李佳航 LPL热血难凉",
@@ -515,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1046156,
-      "num": 1279653,
-      "word": "泉州小区发生爆燃致1死3伤",
-      "onboard_time": 1699260152,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1004331,
       "num": 1004331,
       "word": "何炅 自卑的人该怎么治愈自己",
@@ -536,6 +536,14 @@
       "word": "北京供暖",
       "onboard_time": 1699194999,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 970406,
+      "num": 414221,
+      "word": "鼓楼医院",
+      "onboard_time": 1699261595,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -625,6 +633,14 @@
       "onboard_time": 1699204280,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845093,
+      "num": 518185,
+      "word": "权志龙馒化",
+      "onboard_time": 1699262553,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 844357,
@@ -1259,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482879,
+      "num": 482879,
+      "word": "上海5元一根的辣条",
+      "onboard_time": 1699259073,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 481738,
       "num": 481738,
       "word": "进击的巨人",
@@ -1531,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414868,
-      "num": 414868,
-      "word": "上海5元一根的辣条",
-      "onboard_time": 1699259073,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 411639,
       "num": 411639,
       "word": "多地降温男子偷穿女友打底裤取暖",
@@ -1651,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383594,
+      "num": 383594,
+      "word": "奔跑吧生态篇官宣阵容",
+      "onboard_time": 1699262733,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382605,
       "num": 449618,
       "word": "腹部长赘肉的人都要反思这5个习惯",
@@ -1729,14 +1753,6 @@
       "onboard_time": 1699160673,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 357227,
-      "num": 357227,
-      "word": "鼓楼医院",
-      "onboard_time": 1699261595,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356367,
@@ -2259,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257945,
+      "num": 257945,
+      "word": "迪丽热巴随手一扎就是氛围感",
+      "onboard_time": 1699259431,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256398,
       "num": 256398,
       "word": "Somi心中最美女爱豆TOP3",
@@ -2371,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246963,
+      "num": 246963,
+      "word": "周冬雨现在的气质",
+      "onboard_time": 1699261956,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246546,
       "num": 246546,
       "word": "张钧甯说阮经天超时从不收钱",
@@ -2408,14 +2440,6 @@
       "word": "迪丽热巴换手机壳庆祝入住大床房",
       "onboard_time": 1699079373,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 243155,
-      "num": 243155,
-      "word": "迪丽热巴随手一扎就是氛围感",
-      "onboard_time": 1699259431,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2473,6 +2497,14 @@
       "onboard_time": 1699244858,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238283,
+      "num": 238283,
+      "word": "不洗脸真的会让皮肤变好吗",
+      "onboard_time": 1699260152,
+      "rank": 22,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 237496,
@@ -2579,14 +2611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230136,
-      "num": 230136,
-      "word": "不洗脸真的会让皮肤变好吗",
-      "onboard_time": 1699260152,
-      "rank": 22,
-      "category": "美妆,知识科普"
-    },
-    {
       "raw_hot": 229426,
       "num": 229426,
       "word": "一诺伽罗输出拉满了",
@@ -2627,6 +2651,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 226660,
+      "num": 170358,
+      "word": "美甲价格",
+      "onboard_time": 1699263154,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 226469,
       "num": 392121,
       "word": "杨紫白色小吊带",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1699183661,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224197,
+      "num": 224197,
+      "word": "谁的下饭综艺回来了",
+      "onboard_time": 1699262372,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 223115,
@@ -2955,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196789,
+      "num": 196789,
+      "word": "卡琳娜cos库洛洛",
+      "onboard_time": 1699262673,
+      "rank": 24,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "主持人大赛",
@@ -3009,14 +3057,6 @@
       "onboard_time": 1699258772,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 193886,
-      "num": 193886,
-      "word": "周冬雨现在的气质",
-      "onboard_time": 1699261956,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 193673,
@@ -3081,6 +3121,14 @@
       "onboard_time": 1699169132,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190561,
+      "num": 190561,
+      "word": "揭露骗子在机场冒充工作人员揽客住宿",
+      "onboard_time": 1699262314,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189828,
@@ -3211,8 +3259,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181599,
-      "num": 181599,
+      "raw_hot": 181786,
+      "num": 181786,
       "word": "古人吃螺蛳堆出了螺蛳山",
       "onboard_time": 1699261533,
       "rank": 33,
@@ -3627,6 +3675,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150215,
+      "num": 150215,
+      "word": "虞书欣THE9合照库存",
+      "onboard_time": 1699263035,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 149987,
+      "num": 149987,
+      "word": "生活毒用品无处不在",
+      "onboard_time": 1699262194,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149928,
       "num": 136370,
       "word": "大张伟治好了我的精神内耗",
@@ -3843,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134737,
+      "num": 134737,
+      "word": "郑州鸵鸟已被动物园带走",
+      "onboard_time": 1699262434,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134224,
       "num": 134224,
       "word": "丁程鑫说来到街舞很快乐",
@@ -3955,12 +4027,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127786,
-      "num": 127786,
-      "word": "揭露骗子在机场冒充工作人员揽客住宿",
-      "onboard_time": 1699262314,
+      "raw_hot": 128133,
+      "num": 128133,
+      "word": "塞棉花治疗甲沟炎",
+      "onboard_time": 1699262975,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127716,
@@ -4057,14 +4129,6 @@
       "onboard_time": 1699248691,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122400,
-      "num": 122400,
-      "word": "生活毒用品无处不在",
-      "onboard_time": 1699262194,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122065,
@@ -4723,6 +4787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49860,
+      "num": 249237,
+      "word": "为什么要大力发展混合动力",
+      "onboard_time": 1699261293,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42712,
       "num": 304753,
       "word": "vivo即将发布X100",
@@ -4737,14 +4809,6 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40496,
-      "num": 237009,
-      "word": "为什么要大力发展混合动力",
-      "onboard_time": 1699261293,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 38495,
@@ -4795,6 +4859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31138,
+      "num": 1241780,
+      "word": "相约乌镇峰会",
+      "onboard_time": 1699261895,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25830,
       "num": 36958,
       "word": "棉片真的好用嘛",
@@ -4809,14 +4881,6 @@
       "onboard_time": 1699208716,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 22509,
-      "num": 1241780,
-      "word": "相约乌镇峰会",
-      "onboard_time": 1699261895,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22072,
