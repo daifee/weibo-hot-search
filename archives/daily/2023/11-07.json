@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699306452905,
+  "endTime": 1699308981438,
   "band_list": [
     {
       "raw_hot": 913011,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182945,
+      "num": 182945,
+      "word": "医院院长倒卖出生证明每张赚6万",
+      "onboard_time": 1699272454,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173557,
       "num": 155797,
       "word": "江映蓉的圈内人缘",
@@ -289,14 +297,6 @@
       "onboard_time": 1699274915,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 125234,
-      "num": 125234,
-      "word": "医院院长倒卖出生证明每张赚6万",
-      "onboard_time": 1699272454,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122809,
@@ -451,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43322,
-      "num": 21160,
-      "word": "早衰症的Tiffany迎来一顶美丽假发",
-      "onboard_time": 1699297574,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 42327,
-      "num": 28909,
+      "raw_hot": 45409,
+      "num": 36335,
       "word": "咱们三个把日子过好比什么都强",
       "onboard_time": 1699300394,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43322,
+      "num": 26470,
+      "word": "早衰症的Tiffany迎来一顶美丽假发",
+      "onboard_time": 1699297574,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 37823,

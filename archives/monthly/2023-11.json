@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699306452905,
+  "endTime": 1699308981438,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -17171,6 +17171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45409,
+      "num": 36335,
+      "word": "咱们三个把日子过好比什么都强",
+      "onboard_time": 1699300394,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44059,
       "num": 235201,
       "word": "还是中国AI更懂中国人",
@@ -17196,7 +17204,7 @@
     },
     {
       "raw_hot": 43322,
-      "num": 21160,
+      "num": 26470,
       "word": "早衰症的Tiffany迎来一顶美丽假发",
       "onboard_time": 1699297574,
       "rank": 48,
@@ -17233,14 +17241,6 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42327,
-      "num": 28909,
-      "word": "咱们三个把日子过好比什么都强",
-      "onboard_time": 1699300394,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 42050,
