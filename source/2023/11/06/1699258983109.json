@@ -1,0 +1,410 @@
+{
+  "runTime": 1699258983109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234933,
+        "num": 1234933,
+        "word": "替同学挡8刀的她成了人民警察",
+        "onboard_time": 1699249769,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1131525,
+        "num": 1131525,
+        "word": "女将星",
+        "onboard_time": 1699254693,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47602,
+        "num": 1013132,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699249114,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1004331,
+        "num": 1004331,
+        "word": "何炅 自卑的人该怎么治愈自己",
+        "onboard_time": 1699252115,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820809,
+        "num": 820809,
+        "word": "黄海波放下了吗",
+        "onboard_time": 1699257332,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 732540,
+        "num": 732540,
+        "word": "斗鱼证实CEO陈少杰失联",
+        "onboard_time": 1699251091,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 713413,
+        "num": 713413,
+        "word": "权志龙调查现场说走着瞧吧",
+        "onboard_time": 1699256074,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628284,
+        "num": 628284,
+        "word": "李现的左右脸是复制粘贴的吧",
+        "onboard_time": 1699257394,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 620008,
+        "num": 620008,
+        "word": "女生称生病拒绝周末无偿加班被辞退",
+        "onboard_time": 1699253792,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480920,
+        "num": 480920,
+        "word": "父子俩5.2元购入95号汽油6.7元售出",
+        "onboard_time": 1699247556,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639181,
+        "num": 478879,
+        "word": "宝诗龙 肖战",
+        "onboard_time": 1699250552,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 474282,
+        "num": 474282,
+        "word": "雪休",
+        "onboard_time": 1699256554,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445114,
+        "num": 445114,
+        "word": "人均1700只给你吃鸡",
+        "onboard_time": 1699252889,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 416447,
+        "num": 416447,
+        "word": "金莎说好男人是不在市场上流通的",
+        "onboard_time": 1699247076,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408594,
+        "num": 408594,
+        "word": "泫雅签约金晓钟经纪公司",
+        "onboard_time": 1699254031,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402661,
+        "num": 402661,
+        "word": "东北男大爆改羽生结弦",
+        "onboard_time": 1699255592,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352794,
+        "num": 352794,
+        "word": "明星大侦探",
+        "onboard_time": 1699252713,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318135,
+        "num": 318135,
+        "word": "不抗寒",
+        "onboard_time": 1699254632,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281088,
+        "num": 281088,
+        "word": "顾青裴九尾狐",
+        "onboard_time": 1699255892,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267687,
+        "num": 267687,
+        "word": "万科",
+        "onboard_time": 1699258353,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306057,
+        "num": 255971,
+        "word": "天津助学金事件调查结果",
+        "onboard_time": 1699238251,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235760,
+        "num": 235760,
+        "word": "刘诗诗 优雅黑天鹅",
+        "onboard_time": 1699252531,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225805,
+        "num": 225805,
+        "word": "田曦薇钻石深V露背裙",
+        "onboard_time": 1699257452,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202354,
+        "num": 202354,
+        "word": "大麦候补",
+        "onboard_time": 1699257934,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199872,
+        "num": 199872,
+        "word": "LNG止步八强李宁直播间遭网友吐槽",
+        "onboard_time": 1699244978,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242888,
+        "num": 199871,
+        "word": "天津助学金当事人不认可调查结果",
+        "onboard_time": 1699251813,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221961,
+        "num": 199691,
+        "word": "谢娜乘风后第一个唱跳舞台",
+        "onboard_time": 1699256074,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212751,
+        "num": 199585,
+        "word": "陈楚生 披荆斩棘总冠军",
+        "onboard_time": 1699225944,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169041,
+        "num": 199467,
+        "word": "暴雪下的哈尔滨",
+        "onboard_time": 1699249114,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132826,
+        "num": 199283,
+        "word": "小学生被请家长妈妈一来全校激动",
+        "onboard_time": 1699243475,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208200,
+        "num": 199169,
+        "word": "白鹿王鹤棣新剧收视率",
+        "onboard_time": 1699248813,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208002,
+        "num": 199092,
+        "word": "匪我思存重新定义什么是he",
+        "onboard_time": 1699255532,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204999,
+        "num": 198990,
+        "word": "这闺蜜照郑恺有点多余了",
+        "onboard_time": 1699253913,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198916,
+        "num": 198916,
+        "word": "李枫说郭敬明事件是性骚扰",
+        "onboard_time": 1699229854,
+        "rank": 33,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 174730,
+        "num": 174730,
+        "word": "离职的女同事继承了四个亿的家产",
+        "onboard_time": 1699239933,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196578,
+        "num": 173472,
+        "word": "许佳琪 最后记录一次THE9的日常",
+        "onboard_time": 1699252952,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166303,
+        "num": 166303,
+        "word": "苏醒回应悍跳预言家",
+        "onboard_time": 1699258413,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162982,
+        "num": 162982,
+        "word": "一代人有一代人的破烂",
+        "onboard_time": 1699257694,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45923,
+        "num": 160705,
+        "word": "相册里的宝藏故乡",
+        "onboard_time": 1699258533,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158754,
+        "num": 158754,
+        "word": "马嘉祺过年要给所有亲戚唱父亲",
+        "onboard_time": 1699254932,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145538,
+        "num": 145538,
+        "word": "研究称果糖是肥胖的根源",
+        "onboard_time": 1699254212,
+        "rank": 40,
+        "category": "知识科普,健康医疗"
+      },
+      {
+        "raw_hot": 144683,
+        "num": 144683,
+        "word": "蜂花护发素 洗衣服",
+        "onboard_time": 1699244858,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 143840,
+        "num": 143840,
+        "word": "李枫 郭敬明",
+        "onboard_time": 1699251873,
+        "rank": 42,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 140268,
+        "num": 140268,
+        "word": "BTOB全员不续约",
+        "onboard_time": 1699253913,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132745,
+        "num": 132745,
+        "word": "周深骑自行车内八的原因",
+        "onboard_time": 1699256972,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126788,
+        "num": 126788,
+        "word": "魏大勋明侦合照被截半个身子",
+        "onboard_time": 1699244858,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113554,
+        "num": 113554,
+        "word": "现在化妆品包装别太荒谬",
+        "onboard_time": 1699258772,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111031,
+        "num": 111031,
+        "word": "有一种冷叫社区阿姨嫌你冷",
+        "onboard_time": 1699256132,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105494,
+        "num": 105494,
+        "word": "油价或现三连降",
+        "onboard_time": 1699253852,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102520,
+        "num": 102520,
+        "word": "爱用妆前乳大PK",
+        "onboard_time": 1699258533,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#扩大面向全球的高标准自由贸易区网络#"
+    }
+  }
+}

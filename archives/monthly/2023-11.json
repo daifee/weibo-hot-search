@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699256045658,
+  "endTime": 1699258983109,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -1331,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131525,
+      "num": 1131525,
+      "word": "女将星",
+      "onboard_time": 1699254693,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1126098,
       "num": 535164,
       "word": "顾客举报喜茶一门店浪费水",
@@ -1595,6 +1603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1004331,
+      "num": 1004331,
+      "word": "何炅 自卑的人该怎么治愈自己",
+      "onboard_time": 1699252115,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 997549,
       "num": 997549,
       "word": "北京供暖",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1698917433,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931863,
-      "num": 931863,
-      "word": "何炅 自卑的人该怎么治愈自己",
-      "onboard_time": 1699252115,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 929303,
@@ -1955,20 +1963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 822542,
-      "num": 822542,
-      "word": "女将星",
-      "onboard_time": 1699254693,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 821493,
       "num": 821493,
       "word": "微信新增独立发送按钮",
       "onboard_time": 1698752369,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 820809,
+      "num": 820809,
+      "word": "黄海波放下了吗",
+      "onboard_time": 1699257332,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 820183,
@@ -2603,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713413,
+      "num": 713413,
+      "word": "权志龙调查现场说走着瞧吧",
+      "onboard_time": 1699256074,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709221,
       "num": 1078707,
       "word": "4家邻居8年几乎处成1家人",
@@ -2939,6 +2955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 628284,
+      "num": 628284,
+      "word": "李现的左右脸是复制粘贴的吧",
+      "onboard_time": 1699257394,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 627613,
       "num": 376891,
       "word": "柚子皮高颅顶真的生产了",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1699065511,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 620008,
+      "num": 620008,
+      "word": "女生称生病拒绝周末无偿加班被辞退",
+      "onboard_time": 1699253792,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619238,
@@ -4163,6 +4195,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 474282,
+      "num": 474282,
+      "word": "雪休",
+      "onboard_time": 1699256554,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473440,
       "num": 473440,
       "word": "现在看何以琛太搞笑了",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1698930094,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402661,
+      "num": 402661,
+      "word": "东北男大爆改羽生结弦",
+      "onboard_time": 1699255592,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 402248,
@@ -7035,6 +7083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281088,
+      "num": 281088,
+      "word": "顾青裴九尾狐",
+      "onboard_time": 1699255892,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280638,
       "num": 271392,
       "word": "孙颖莎成功晋级半决赛",
@@ -7457,6 +7513,14 @@
       "onboard_time": 1698997294,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267687,
+      "num": 267687,
+      "word": "万科",
+      "onboard_time": 1699258353,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266885,
@@ -7905,14 +7969,6 @@
       "onboard_time": 1699016915,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 249568,
-      "num": 249568,
-      "word": "女生称生病拒绝周末无偿加班被辞退",
-      "onboard_time": 1699253792,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249545,
@@ -8795,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225805,
+      "num": 225805,
+      "word": "田曦薇钻石深V露背裙",
+      "onboard_time": 1699257452,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 225706,
       "num": 218666,
       "word": "皮肤科医生的护肤品购买指南",
@@ -8945,6 +9009,14 @@
       "onboard_time": 1699192597,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221961,
+      "num": 199691,
+      "word": "谢娜乘风后第一个唱跳舞台",
+      "onboard_time": 1699256074,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 221177,
@@ -9744,6 +9816,14 @@
       "word": "互金币",
       "onboard_time": 1698805531,
       "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 202354,
+      "num": 202354,
+      "word": "大麦候补",
+      "onboard_time": 1699257934,
+      "rank": 23,
       "category": "互联网"
     },
     {
@@ -11579,6 +11659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166303,
+      "num": 166303,
+      "word": "苏醒回应悍跳预言家",
+      "onboard_time": 1699258413,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166156,
       "num": 166156,
       "word": "疾控中心回应小区自来水变成蓝色",
@@ -11753,6 +11841,14 @@
       "onboard_time": 1698906393,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162982,
+      "num": 162982,
+      "word": "一代人有一代人的破烂",
+      "onboard_time": 1699257694,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 162960,
@@ -12939,14 +13035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141384,
-      "num": 175478,
-      "word": "顾青裴九尾狐",
-      "onboard_time": 1699255892,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141247,
       "num": 919565,
       "word": "第一视角看注意力缺陷症",
@@ -13299,14 +13387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133779,
-      "num": 185768,
-      "word": "东北男大爆改羽生结弦",
-      "onboard_time": 1699255592,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133755,
       "num": 133755,
       "word": "马特乌斯说梅西不配金球奖",
@@ -13393,6 +13473,14 @@
       "onboard_time": 1699175010,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132745,
+      "num": 132745,
+      "word": "周深骑自行车内八的原因",
+      "onboard_time": 1699256972,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 132695,
@@ -14323,6 +14411,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 113554,
+      "num": 113554,
+      "word": "现在化妆品包装别太荒谬",
+      "onboard_time": 1699258772,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 113455,
       "num": 113455,
       "word": "黄黑皮找到了本命腮红",
@@ -14424,6 +14520,14 @@
       "word": "致敬折多山交警",
       "onboard_time": 1698908312,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111031,
+      "num": 111031,
+      "word": "有一种冷叫社区阿姨嫌你冷",
+      "onboard_time": 1699256132,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -14681,6 +14785,14 @@
       "onboard_time": 1698925474,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102520,
+      "num": 102520,
+      "word": "爱用妆前乳大PK",
+      "onboard_time": 1699258533,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 102403,
@@ -15688,6 +15800,14 @@
       "word": "云南边境居民讲述缅甸军事冲突",
       "onboard_time": 1698772222,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45923,
+      "num": 160705,
+      "word": "相册里的宝藏故乡",
+      "onboard_time": 1699258533,
+      "rank": 38,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1699201241976,
-  "endTime": 1699256045658,
+  "endTime": 1699258983109,
   "band_list": [
     {
       "raw_hot": 3308821,
@@ -123,6 +123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1131525,
+      "num": 1131525,
+      "word": "女将星",
+      "onboard_time": 1699254693,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1097810,
       "num": 1097810,
       "word": "俞灏明 没成团",
@@ -147,8 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 931863,
-      "num": 931863,
+      "raw_hot": 1004331,
+      "num": 1004331,
       "word": "何炅 自卑的人该怎么治愈自己",
       "onboard_time": 1699252115,
       "rank": 17,
@@ -211,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 822542,
-      "num": 822542,
-      "word": "女将星",
-      "onboard_time": 1699254693,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 820809,
+      "num": 820809,
+      "word": "黄海波放下了吗",
+      "onboard_time": 1699257332,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 809796,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713413,
+      "num": 713413,
+      "word": "权志龙调查现场说走着瞧吧",
+      "onboard_time": 1699256074,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675879,
       "num": 653252,
       "word": "曝钢铁侠和美队同意回归漫威",
@@ -361,6 +377,22 @@
       "onboard_time": 1699241734,
       "rank": 5,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 628284,
+      "num": 628284,
+      "word": "李现的左右脸是复制粘贴的吧",
+      "onboard_time": 1699257394,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 620008,
+      "num": 620008,
+      "word": "女生称生病拒绝周末无偿加班被辞退",
+      "onboard_time": 1699253792,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616596,
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474282,
+      "num": 474282,
+      "word": "雪休",
+      "onboard_time": 1699256554,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473440,
       "num": 473440,
       "word": "现在看何以琛太搞笑了",
@@ -625,6 +665,14 @@
       "onboard_time": 1699252531,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 402661,
+      "num": 402661,
+      "word": "东北男大爆改羽生结弦",
+      "onboard_time": 1699255592,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 395198,
@@ -787,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 281088,
+      "num": 281088,
+      "word": "顾青裴九尾狐",
+      "onboard_time": 1699255892,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277657,
       "num": 277657,
       "word": "李健 贝加尔湖畔",
@@ -833,6 +889,14 @@
       "onboard_time": 1699252952,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267687,
+      "num": 267687,
+      "word": "万科",
+      "onboard_time": 1699258353,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266426,
@@ -897,14 +961,6 @@
       "onboard_time": 1699234712,
       "rank": 28,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 249568,
-      "num": 249568,
-      "word": "女生称生病拒绝周末无偿加班被辞退",
-      "onboard_time": 1699253792,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248487,
@@ -1003,6 +1059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225805,
+      "num": 225805,
+      "word": "田曦薇钻石深V露背裙",
+      "onboard_time": 1699257452,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223306,
       "num": 223306,
       "word": "人机局",
@@ -1017,6 +1081,14 @@
       "onboard_time": 1699193195,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221961,
+      "num": 199691,
+      "word": "谢娜乘风后第一个唱跳舞台",
+      "onboard_time": 1699256074,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 221766,
@@ -1089,6 +1161,14 @@
       "onboard_time": 1699243533,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202354,
+      "num": 202354,
+      "word": "大麦候补",
+      "onboard_time": 1699257934,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 201678,
@@ -1323,12 +1403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166303,
+      "num": 166303,
+      "word": "苏醒回应悍跳预言家",
+      "onboard_time": 1699258413,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164288,
       "num": 164288,
       "word": "辅助机器人",
       "onboard_time": 1699175070,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162982,
+      "num": 162982,
+      "word": "一代人有一代人的破烂",
+      "onboard_time": 1699257694,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 161964,
@@ -1459,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141384,
-      "num": 175478,
-      "word": "顾青裴九尾狐",
-      "onboard_time": 1699255892,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139600,
       "num": 139600,
       "word": "崩坏 葬送的芙莉莲",
@@ -1499,19 +1587,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133779,
-      "num": 185768,
-      "word": "东北男大爆改羽生结弦",
-      "onboard_time": 1699255592,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133667,
       "num": 133667,
       "word": "马嘉祺天若有情唱到我心里",
       "onboard_time": 1699198115,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132745,
+      "num": 132745,
+      "word": "周深骑自行车内八的原因",
+      "onboard_time": 1699256972,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1643,6 +1731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113554,
+      "num": 113554,
+      "word": "现在化妆品包装别太荒谬",
+      "onboard_time": 1699258772,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 113445,
       "num": 113445,
       "word": "金泰妍11月27日回归",
@@ -1657,6 +1753,14 @@
       "onboard_time": 1699192716,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111031,
+      "num": 111031,
+      "word": "有一种冷叫社区阿姨嫌你冷",
+      "onboard_time": 1699256132,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110159,
@@ -1729,6 +1833,14 @@
       "onboard_time": 1699250852,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102520,
+      "num": 102520,
+      "word": "爱用妆前乳大PK",
+      "onboard_time": 1699258533,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 101426,
@@ -1936,6 +2048,14 @@
       "word": "揭秘进博会网红巴基斯坦盐灯",
       "onboard_time": 1699189355,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45923,
+      "num": 160705,
+      "word": "相册里的宝藏故乡",
+      "onboard_time": 1699258533,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
