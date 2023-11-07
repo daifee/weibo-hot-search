@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699341341607,
+  "endTime": 1699342449830,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2069045,
+      "num": 2069045,
+      "word": "比砒霜还毒900倍的致癌物",
+      "onboard_time": 1699338033,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2053783,
       "num": 1264232,
       "word": "薛之谦 我卖货就这脾气",
@@ -219,8 +227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1960471,
-      "num": 1960471,
+      "raw_hot": 1973587,
+      "num": 1973587,
       "word": "黑龙江一男子冻死街头",
       "onboard_time": 1699337910,
       "rank": 42,
@@ -345,14 +353,6 @@
       "onboard_time": 1699151790,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1684182,
-      "num": 1684182,
-      "word": "比砒霜还毒900倍的致癌物",
-      "onboard_time": 1699338033,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1650872,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1033812,
+      "num": 1033812,
+      "word": "朱丹说叫错人名是心魔",
+      "onboard_time": 1699341153,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1029487,
       "num": 629711,
       "word": "曾黎终于正确使用美貌了",
@@ -945,6 +953,14 @@
       "onboard_time": 1699246121,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 855975,
+      "num": 286259,
+      "word": "新的TFBOYS出现了 TFBOY适",
+      "onboard_time": 1699339591,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 848582,
@@ -1163,6 +1179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 744096,
+      "num": 744096,
+      "word": "半滴血检2小时内可查出早期癌症",
+      "onboard_time": 1699339834,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 742630,
       "num": 742630,
       "word": "东北暴雪",
@@ -1315,14 +1339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 662784,
-      "num": 662784,
-      "word": "朱丹说叫错人名是心魔",
-      "onboard_time": 1699341153,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 660622,
       "num": 660622,
       "word": "暴雪下的哈尔滨",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1699264113,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 654377,
-      "num": 286259,
-      "word": "新的TFBOYS出现了 TFBOY适",
-      "onboard_time": 1699339591,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 650457,
@@ -1443,20 +1451,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 630606,
-      "num": 630606,
-      "word": "半滴血检2小时内可查出早期癌症",
-      "onboard_time": 1699339834,
-      "rank": 6,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 628284,
       "num": 628284,
       "word": "李现的左右脸是复制粘贴的吧",
       "onboard_time": 1699257394,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 625594,
+      "num": 625594,
+      "word": "警方回应男子冻死街头",
+      "onboard_time": 1699340735,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621037,
@@ -2635,14 +2643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365050,
-      "num": 365050,
-      "word": "警方回应男子冻死街头",
-      "onboard_time": 1699340735,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364145,
       "num": 317054,
       "word": "刘诗诗穿上高领毛衣还有脖子",
@@ -2713,6 +2713,14 @@
       "onboard_time": 1699277434,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349727,
+      "num": 349727,
+      "word": "匪我思存 说灭男主全族就灭男主全族",
+      "onboard_time": 1699337433,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 349415,
@@ -3027,14 +3035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309860,
-      "num": 309860,
-      "word": "匪我思存 说灭男主全族就灭男主全族",
-      "onboard_time": 1699337433,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 309784,
       "num": 309784,
       "word": "你这样碧婷知道吗",
@@ -3241,6 +3241,14 @@
       "onboard_time": 1699182574,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 277924,
+      "num": 277924,
+      "word": "李承鄞欠的债李嶷还",
+      "onboard_time": 1699340973,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 277386,
@@ -3715,6 +3723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 239252,
+      "num": 239252,
+      "word": "MAMA第一轮投票结果",
+      "onboard_time": 1699341334,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239209,
       "num": 239209,
       "word": "我国向尼泊尔提供紧急人道主义援助",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1699148854,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231232,
+      "num": 231232,
+      "word": "杨超越自己做的妆造",
+      "onboard_time": 1699342414,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 230533,
@@ -4241,6 +4265,14 @@
       "onboard_time": 1699327351,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209021,
+      "num": 209021,
+      "word": "医生建议学会给皮肤做减法",
+      "onboard_time": 1699340915,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 208823,
@@ -4923,14 +4955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 186490,
-      "num": 186490,
-      "word": "李承鄞欠的债李嶷还",
-      "onboard_time": 1699340973,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186226,
       "num": 186226,
       "word": "张杰新歌任我",
@@ -5593,14 +5617,6 @@
       "onboard_time": 1699167330,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155775,
-      "num": 155775,
-      "word": "医生建议学会给皮肤做减法",
-      "onboard_time": 1699340915,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 155770,
@@ -6571,6 +6587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119576,
+      "num": 119576,
+      "word": "大熊猫躲雨主打一个顾头不顾腚",
+      "onboard_time": 1699342174,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119187,
       "num": 207031,
       "word": "患者命悬一线休班医生飞奔到医院做手术",
@@ -7284,7 +7308,7 @@
     },
     {
       "raw_hot": 70890,
-      "num": 1333398,
+      "num": 1408731,
       "word": "2023年世界互联网大会乌镇峰会",
       "onboard_time": 1699326451,
       "rank": 2,
@@ -7428,7 +7452,7 @@
     },
     {
       "raw_hot": 55770,
-      "num": 123761,
+      "num": 231233,
       "word": "iQOO12万里舷窗设计",
       "onboard_time": 1699341273,
       "rank": 47,

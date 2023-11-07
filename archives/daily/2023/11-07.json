@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699341341607,
+  "endTime": 1699342449830,
   "band_list": [
     {
       "raw_hot": 3083262,
@@ -27,8 +27,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1960471,
-      "num": 1960471,
+      "raw_hot": 2069045,
+      "num": 2069045,
+      "word": "比砒霜还毒900倍的致癌物",
+      "onboard_time": 1699338033,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1973587,
+      "num": 1973587,
       "word": "黑龙江一男子冻死街头",
       "onboard_time": 1699337910,
       "rank": 42,
@@ -81,14 +89,6 @@
       "onboard_time": 1699330960,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1684182,
-      "num": 1684182,
-      "word": "比砒霜还毒900倍的致癌物",
-      "onboard_time": 1699338033,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1497508,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1033812,
+      "num": 1033812,
+      "word": "朱丹说叫错人名是心魔",
+      "onboard_time": 1699341153,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1029487,
       "num": 629711,
       "word": "曾黎终于正确使用美貌了",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855975,
+      "num": 286259,
+      "word": "新的TFBOYS出现了 TFBOY适",
+      "onboard_time": 1699339591,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833914,
       "num": 614365,
       "word": "张小斐 大衣的神",
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 744096,
+      "num": 744096,
+      "word": "半滴血检2小时内可查出早期癌症",
+      "onboard_time": 1699339834,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 729571,
       "num": 729571,
       "word": "生了五个孩子的妈妈的故事",
@@ -275,22 +299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 662784,
-      "num": 662784,
-      "word": "朱丹说叫错人名是心魔",
-      "onboard_time": 1699341153,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 654377,
-      "num": 286259,
-      "word": "新的TFBOYS出现了 TFBOY适",
-      "onboard_time": 1699339591,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 650457,
       "num": 650457,
       "word": "节奏大师",
@@ -307,12 +315,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 630606,
-      "num": 630606,
-      "word": "半滴血检2小时内可查出早期癌症",
-      "onboard_time": 1699339834,
-      "rank": 6,
-      "category": "健康医疗"
+      "raw_hot": 625594,
+      "num": 625594,
+      "word": "警方回应男子冻死街头",
+      "onboard_time": 1699340735,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617337,
@@ -603,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365050,
-      "num": 365050,
-      "word": "警方回应男子冻死街头",
-      "onboard_time": 1699340735,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363730,
       "num": 363730,
       "word": "白鹿王鹤棣爱意绽放芭莎大片",
@@ -633,6 +633,14 @@
       "onboard_time": 1699285772,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349727,
+      "num": 349727,
+      "word": "匪我思存 说灭男主全族就灭男主全族",
+      "onboard_time": 1699337433,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 335324,
@@ -691,14 +699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 309860,
-      "num": 309860,
-      "word": "匪我思存 说灭男主全族就灭男主全族",
-      "onboard_time": 1699337433,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 309784,
       "num": 309784,
       "word": "你这样碧婷知道吗",
@@ -752,6 +752,14 @@
       "word": "第一次嗑到女主和男N的cp",
       "onboard_time": 1699321291,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277924,
+      "num": 277924,
+      "word": "李承鄞欠的债李嶷还",
+      "onboard_time": 1699340973,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -867,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239252,
+      "num": 239252,
+      "word": "MAMA第一轮投票结果",
+      "onboard_time": 1699341334,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239209,
       "num": 239209,
       "word": "我国向尼泊尔提供紧急人道主义援助",
@@ -929,6 +945,14 @@
       "onboard_time": 1699277919,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231232,
+      "num": 231232,
+      "word": "杨超越自己做的妆造",
+      "onboard_time": 1699342414,
+      "rank": 30,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 228163,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1699327351,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209021,
+      "num": 209021,
+      "word": "医生建议学会给皮肤做减法",
+      "onboard_time": 1699340915,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 208823,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1699325971,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186490,
-      "num": 186490,
-      "word": "李承鄞欠的债李嶷还",
-      "onboard_time": 1699340973,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 186223,
@@ -1409,14 +1433,6 @@
       "onboard_time": 1699282360,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155775,
-      "num": 155775,
-      "word": "医生建议学会给皮肤做减法",
-      "onboard_time": 1699340915,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 155770,
@@ -1747,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119576,
+      "num": 119576,
+      "word": "大熊猫躲雨主打一个顾头不顾腚",
+      "onboard_time": 1699342174,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117062,
       "num": 117062,
       "word": "92岁老兵仍能精准破译摩斯电码",
@@ -1940,7 +1964,7 @@
     },
     {
       "raw_hot": 70890,
-      "num": 1333398,
+      "num": 1408731,
       "word": "2023年世界互联网大会乌镇峰会",
       "onboard_time": 1699326451,
       "rank": 2,
@@ -1988,7 +2012,7 @@
     },
     {
       "raw_hot": 55770,
-      "num": 123761,
+      "num": 231233,
       "word": "iQOO12万里舷窗设计",
       "onboard_time": 1699341273,
       "rank": 47,

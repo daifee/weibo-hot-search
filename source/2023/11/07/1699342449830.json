@@ -1,0 +1,410 @@
+{
+  "runTime": 1699342449830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2069045,
+        "num": 2069045,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1973587,
+        "num": 1973587,
+        "word": "黑龙江一男子冻死街头",
+        "onboard_time": 1699337910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41836,
+        "num": 1408731,
+        "word": "2023年世界互联网大会乌镇峰会",
+        "onboard_time": 1699326451,
+        "rank": 2,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1033812,
+        "num": 1033812,
+        "word": "朱丹说叫错人名是心魔",
+        "onboard_time": 1699341153,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744096,
+        "num": 744096,
+        "word": "半滴血检2小时内可查出早期癌症",
+        "onboard_time": 1699339834,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 833057,
+        "num": 736863,
+        "word": "金莎男友为追她给她做了100多道菜",
+        "onboard_time": 1699333835,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702958,
+        "num": 702958,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 6,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 625594,
+        "num": 625594,
+        "word": "警方回应男子冻死街头",
+        "onboard_time": 1699340735,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439435,
+        "num": 439435,
+        "word": "甄嬛出轨是我听到最荒谬的笑话",
+        "onboard_time": 1699330960,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157360,
+        "num": 422831,
+        "word": "佳木斯一体育馆坍塌事故最新情况",
+        "onboard_time": 1699333596,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411184,
+        "num": 411184,
+        "word": "以爱为营抓手吻",
+        "onboard_time": 1699336833,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401790,
+        "num": 401790,
+        "word": "35岁女子在香港做泥瓦工月入10万",
+        "onboard_time": 1699334076,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351252,
+        "num": 351252,
+        "word": "东北人不追星 因为东北全明星",
+        "onboard_time": 1699337193,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350559,
+        "num": 350559,
+        "word": "轨是昨天出的 人是今天没的",
+        "onboard_time": 1699327411,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349727,
+        "num": 349727,
+        "word": "匪我思存 说灭男主全族就灭男主全族",
+        "onboard_time": 1699337433,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346565,
+        "num": 346565,
+        "word": "金莎和男友的第一张合影",
+        "onboard_time": 1699334972,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334777,
+        "num": 334777,
+        "word": "曾黎终于正确使用美貌了",
+        "onboard_time": 1699329213,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313890,
+        "num": 313890,
+        "word": "淄博烧烤从业者现在都怎么样了",
+        "onboard_time": 1699328253,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 277924,
+        "num": 277924,
+        "word": "李承鄞欠的债李嶷还",
+        "onboard_time": 1699340973,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277916,
+        "num": 277916,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2499200,
+        "num": 273480,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283836,
+        "num": 261660,
+        "word": "苏士成",
+        "onboard_time": 1699335752,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855975,
+        "num": 252274,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329152,
+        "num": 240575,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 239252,
+        "num": 239252,
+        "word": "MAMA第一轮投票结果",
+        "onboard_time": 1699341334,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237689,
+        "num": 237689,
+        "word": "郑秀妍将回归",
+        "onboard_time": 1699336772,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232409,
+        "num": 232409,
+        "word": "张小斐 大衣的神",
+        "onboard_time": 1699332038,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201923,
+        "num": 231373,
+        "word": "志愿者讲述卧底襄阳健桥医院经历",
+        "onboard_time": 1699338571,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139652,
+        "num": 231294,
+        "word": "哈工大学生去上课像登机",
+        "onboard_time": 1699331797,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30900,
+        "num": 231233,
+        "word": "iQOO12万里舷窗设计",
+        "onboard_time": 1699341273,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231232,
+        "num": 231232,
+        "word": "杨超越自己做的妆造",
+        "onboard_time": 1699342414,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 226073,
+        "num": 226073,
+        "word": "生了五个孩子的妈妈的故事",
+        "onboard_time": 1699332105,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209021,
+        "num": 209021,
+        "word": "医生建议学会给皮肤做减法",
+        "onboard_time": 1699340915,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 208776,
+        "num": 208776,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121245,
+        "num": 196092,
+        "word": "无线耳机的破防时刻",
+        "onboard_time": 1699338571,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191345,
+        "num": 191345,
+        "word": "谭松韵 我是被童年治愈一生的人",
+        "onboard_time": 1699333238,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175612,
+        "num": 175612,
+        "word": "刘诗诗竹枝妆",
+        "onboard_time": 1699335156,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 175334,
+        "num": 175334,
+        "word": "Tarzan向队友道歉",
+        "onboard_time": 1699328132,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174577,
+        "num": 174577,
+        "word": "肖战 宝诗龙",
+        "onboard_time": 1699323810,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173461,
+        "num": 173461,
+        "word": "成毅粉丝cos李莲花跳昆卡",
+        "onboard_time": 1699338392,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168837,
+        "num": 168837,
+        "word": "节奏大师回归",
+        "onboard_time": 1699313908,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151105,
+        "num": 151105,
+        "word": "霉霉 就算搞砸了也没什么大不了",
+        "onboard_time": 1699334612,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134978,
+        "num": 134978,
+        "word": "戚薇黑天鹅造型妆发解析",
+        "onboard_time": 1699340556,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 128832,
+        "num": 128832,
+        "word": "东北大学生暴雪后滑雪去上课",
+        "onboard_time": 1699340493,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127465,
+        "num": 127465,
+        "word": "与凤行 江苏卫视",
+        "onboard_time": 1699330656,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126873,
+        "num": 126873,
+        "word": "雷军证实小米14销量已超百万台",
+        "onboard_time": 1699333238,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123439,
+        "num": 123439,
+        "word": "华晨宇申请强制黑粉道歉",
+        "onboard_time": 1699328312,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122986,
+        "num": 122986,
+        "word": "刘亦菲家人照片 基因的稳定发挥",
+        "onboard_time": 1699323692,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 119576,
+        "word": "大熊猫躲雨主打一个顾头不顾腚",
+        "onboard_time": 1699342174,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117543,
+        "num": 117543,
+        "word": "詹姆斯太想赢了",
+        "onboard_time": 1699337493,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见全国枫桥式工作法入选单位代表#"
+    }
+  }
+}
