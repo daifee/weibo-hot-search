@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699389265080,
+  "endTime": 1699391722181,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -8945,6 +8945,14 @@
       "onboard_time": 1699077631,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18411,
+      "num": 48383,
+      "word": "怎么才能教育出一个自信的孩子",
+      "onboard_time": 1699389792,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 18118,

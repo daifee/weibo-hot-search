@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699389265080,
+  "endTime": 1699391722181,
   "band_list": [
     {
       "raw_hot": 1945263,
@@ -475,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18411,
+      "num": 48383,
+      "word": "怎么才能教育出一个自信的孩子",
+      "onboard_time": 1699389792,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 17900,
       "num": 49733,
       "word": "谏山创新绘 巨人完结贺图",
@@ -483,16 +491,16 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 13070,
-      "num": 43272,
+      "raw_hot": 15090,
+      "num": 48316,
       "word": "奔跑吧",
       "onboard_time": 1699359755,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 12521,
-      "num": 43258,
+      "raw_hot": 12974,
+      "num": 48237,
       "word": "中山二院乳腺外科",
       "onboard_time": 1699333118,
       "rank": 48,
