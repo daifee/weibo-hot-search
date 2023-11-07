@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699396445839,
+  "endTime": 1699399057441,
   "band_list": [
     {
       "raw_hot": 1945263,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829922,
+      "num": 829922,
+      "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
+      "onboard_time": 1699371754,
+      "rank": 11,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 766176,
       "num": 766176,
       "word": "当以爱为营女主换成张元英",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631554,
-      "num": 631554,
-      "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
-      "onboard_time": 1699371754,
-      "rank": 11,
-      "category": "母婴育儿"
+      "raw_hot": 548532,
+      "num": 548532,
+      "word": "今日立冬",
+      "onboard_time": 1699398505,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487313,
@@ -73,6 +81,22 @@
       "onboard_time": 1699348057,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473420,
+      "num": 473420,
+      "word": "广西沙滩走失6岁女童家长发声",
+      "onboard_time": 1699379179,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443206,
+      "num": 443206,
+      "word": "张踩铃 别让孩子成为情绪的宣泄口",
+      "onboard_time": 1699393333,
+      "rank": 13,
+      "category": "综艺,母婴育儿"
     },
     {
       "raw_hot": 337065,
@@ -97,6 +121,14 @@
       "onboard_time": 1699372234,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313373,
+      "num": 313373,
+      "word": "3胞胎一起上学弟弟1人背负了所有",
+      "onboard_time": 1699372114,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291588,
@@ -139,12 +171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255056,
+      "num": 255056,
+      "word": "东北大学生正式确诊为华妃",
+      "onboard_time": 1699362997,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234709,
       "num": 234709,
       "word": "潘斌龙赞王俊凯为电影拼了",
       "onboard_time": 1699370255,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234406,
+      "num": 166214,
+      "word": "别高估一年别低估十年",
+      "onboard_time": 1699395977,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 229668,
@@ -171,22 +219,6 @@
       "category": "读书作家,艺人"
     },
     {
-      "raw_hot": 208799,
-      "num": 226832,
-      "word": "东北大学生正式确诊为华妃",
-      "onboard_time": 1699362997,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198899,
-      "num": 198899,
-      "word": "广西沙滩走失6岁女童家长发声",
-      "onboard_time": 1699379179,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195459,
       "num": 195459,
       "word": "莲花楼豆瓣评分涨至8点5",
@@ -211,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184049,
+      "num": 184049,
+      "word": "产妇羊水栓塞抢救15分钟后成功分娩",
+      "onboard_time": 1699398144,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "魏大勋冷脸甩伞",
@@ -227,12 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167181,
-      "num": 60498,
-      "word": "张踩铃 别让孩子成为情绪的宣泄口",
-      "onboard_time": 1699393333,
-      "rank": 13,
-      "category": "综艺,母婴育儿"
+      "raw_hot": 165568,
+      "num": 165568,
+      "word": "浙江一中学学生有了校内家长",
+      "onboard_time": 1699398144,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 163950,
+      "num": 163950,
+      "word": "刘宇宁直播 至少可以看星星",
+      "onboard_time": 1699378220,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 152507,
@@ -251,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146822,
-      "num": 178404,
-      "word": "3胞胎一起上学弟弟1人背负了所有",
-      "onboard_time": 1699372114,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 145511,
+      "num": 145511,
+      "word": "京东采销回应刘强东老家水龙头漏水",
+      "onboard_time": 1699398924,
+      "rank": 17,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 138693,
@@ -347,20 +395,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 110581,
+      "num": 110581,
+      "word": "张雨绮红毯状态",
+      "onboard_time": 1699396579,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109204,
       "num": 109204,
       "word": "中山二院辟谣乳腺外科团队学生患癌",
       "onboard_time": 1699345597,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107298,
-      "num": 58393,
-      "word": "刘宇宁直播 至少可以看星星",
-      "onboard_time": 1699378220,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 106876,
@@ -411,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101548,
+      "num": 101548,
+      "word": "新疆地震",
+      "onboard_time": 1699398684,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100817,
       "num": 100817,
       "word": "最擅长说狠话的星座",
@@ -427,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97442,
+      "num": 97442,
+      "word": "伊朗总统将前往沙特",
+      "onboard_time": 1699383674,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 95471,
       "num": 177663,
       "word": "19个月大宝宝去世捐器官救6人",
       "onboard_time": 1699370076,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94145,
+      "num": 94145,
+      "word": "怎么才能教育出一个自信的孩子",
+      "onboard_time": 1699389792,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 86831,
@@ -451,12 +523,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77782,
+      "num": 77782,
+      "word": "他就拿刀子戳了几下 朱丹就这么仰望",
+      "onboard_time": 1699356573,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75550,
       "num": 697185,
       "word": "乌镇网事",
       "onboard_time": 1699361194,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 74126,
+      "num": 85849,
+      "word": "女儿上网喊爸交学费乘警叫停及时止损",
+      "onboard_time": 1699398201,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72386,
+      "num": 72386,
+      "word": "医生提醒不要皮肤一干就敷面膜",
+      "onboard_time": 1699398864,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55592,
+      "num": 55592,
+      "word": "我的秘密被朋友拿去开店了",
+      "onboard_time": 1699393034,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 51962,
@@ -467,39 +571,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51342,
-      "num": 51342,
-      "word": "怎么才能教育出一个自信的孩子",
-      "onboard_time": 1699389792,
-      "rank": 30,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 46078,
-      "num": 50038,
-      "word": "伊朗总统将前往沙特",
-      "onboard_time": 1699383674,
-      "rank": 33,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 37408,
-      "num": 48949,
+      "raw_hot": 49330,
+      "num": 49330,
       "word": "任素汐每句话都砍在了大姨的动脉上",
       "onboard_time": 1699394956,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 28166,
-      "num": 48889,
-      "word": "别高估一年别低估十年",
-      "onboard_time": 1699395977,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 47512,
+      "num": 48813,
+      "word": "中山二院乳腺外科",
+      "onboard_time": 1699333118,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 25550,
+      "raw_hot": 44715,
       "num": 48867,
       "word": "奔跑吧",
       "onboard_time": 1699359755,
@@ -515,28 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24125,
-      "num": 48840,
-      "word": "我的秘密被朋友拿去开店了",
-      "onboard_time": 1699393034,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17900,
       "num": 49733,
       "word": "谏山创新绘 巨人完结贺图",
       "onboard_time": 1699383195,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 17688,
-      "num": 48813,
-      "word": "中山二院乳腺外科",
-      "onboard_time": 1699333118,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
