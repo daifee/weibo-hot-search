@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699395383986,
+  "endTime": 1699396445839,
   "band_list": [
     {
       "raw_hot": 1945263,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198899,
+      "num": 198899,
+      "word": "广西沙滩走失6岁女童家长发声",
+      "onboard_time": 1699379179,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195459,
       "num": 195459,
       "word": "莲花楼豆瓣评分涨至8点5",
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167181,
+      "num": 60498,
+      "word": "张踩铃 别让孩子成为情绪的宣泄口",
+      "onboard_time": 1699393333,
+      "rank": 13,
+      "category": "综艺,母婴育儿"
+    },
+    {
       "raw_hot": 152507,
       "num": 224447,
       "word": "网友提醒刘强东老家水龙头忘关了",
@@ -232,6 +248,14 @@
       "word": "中山二院",
       "onboard_time": 1699357535,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146822,
+      "num": 178404,
+      "word": "3胞胎一起上学弟弟1人背负了所有",
+      "onboard_time": 1699372114,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -249,14 +273,6 @@
       "onboard_time": 1699363536,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 135981,
-      "num": 178404,
-      "word": "3胞胎一起上学弟弟1人背负了所有",
-      "onboard_time": 1699372114,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134429,
@@ -283,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128061,
-      "num": 128061,
-      "word": "广西沙滩走失6岁女童家长发声",
-      "onboard_time": 1699379179,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125056,
       "num": 125056,
       "word": "黄凯哭了",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 121781,
-      "num": 58397,
+      "num": 78213,
       "word": "晓明哥已经对闹太套脱敏了",
       "onboard_time": 1699377382,
       "rank": 30,
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96735,
-      "num": 48884,
-      "word": "张踩铃 别让孩子成为情绪的宣泄口",
-      "onboard_time": 1699393333,
-      "rank": 13,
-      "category": "综艺,母婴育儿"
-    },
-    {
       "raw_hot": 95471,
       "num": 177663,
       "word": "19个月大宝宝去世捐器官救6人",
@@ -467,20 +467,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40882,
-      "num": 48857,
+      "raw_hot": 51342,
+      "num": 51342,
       "word": "怎么才能教育出一个自信的孩子",
       "onboard_time": 1699389792,
       "rank": 30,
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 32817,
+      "raw_hot": 46078,
       "num": 50038,
       "word": "伊朗总统将前往沙特",
       "onboard_time": 1699383674,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 37408,
+      "num": 48949,
+      "word": "任素汐每句话都砍在了大姨的动脉上",
+      "onboard_time": 1699394956,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28166,
+      "num": 48889,
+      "word": "别高估一年别低估十年",
+      "onboard_time": 1699395977,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25550,
+      "num": 48867,
+      "word": "奔跑吧",
+      "onboard_time": 1699359755,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 25239,
@@ -491,20 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21466,
-      "num": 48554,
-      "word": "奔跑吧",
-      "onboard_time": 1699359755,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18167,
-      "num": 48469,
-      "word": "任素汐每句话都砍在了大姨的动脉上",
-      "onboard_time": 1699394956,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 24125,
+      "num": 48840,
+      "word": "我的秘密被朋友拿去开店了",
+      "onboard_time": 1699393034,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 17900,
@@ -515,16 +531,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 17779,
-      "num": 48460,
-      "word": "我的秘密被朋友拿去开店了",
-      "onboard_time": 1699393034,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 14552,
-      "num": 48344,
+      "raw_hot": 17688,
+      "num": 48813,
       "word": "中山二院乳腺外科",
       "onboard_time": 1699333118,
       "rank": 48,
