@@ -1,7 +1,15 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699367660131,
+  "endTime": 1699370288784,
   "band_list": [
+    {
+      "raw_hot": 3860827,
+      "num": 3860827,
+      "word": "导师回应网传乳腺外科团队多人患癌",
+      "onboard_time": 1699366535,
+      "rank": 43,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3794345,
       "num": 3794345,
@@ -16,14 +24,6 @@
       "word": "中山二院乳腺外科",
       "onboard_time": 1699333118,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3055537,
-      "num": 3055537,
-      "word": "导师回应网传乳腺外科团队多人患癌",
-      "onboard_time": 1699366535,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1606198,
+      "num": 1606198,
+      "word": "王彦霖艾佳妮分手五年后结婚",
+      "onboard_time": 1699367619,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1525174,
       "num": 1525174,
       "word": "宁安如梦",
@@ -217,6 +225,14 @@
       "onboard_time": 1699335512,
       "rank": 4,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 1188960,
+      "num": 1188960,
+      "word": "与主播发生关系住持被停职",
+      "onboard_time": 1699368220,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128472,
@@ -425,6 +441,14 @@
       "onboard_time": 1699351594,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675263,
+      "num": 289165,
+      "word": "从月入5K到15K后的生活变化",
+      "onboard_time": 1699368276,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 666166,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552431,
+      "num": 552431,
+      "word": "打工罢了 不必太上头",
+      "onboard_time": 1699366476,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 551158,
       "num": 446859,
       "word": "金莎和男友的第一张合影",
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 470796,
-      "num": 288190,
+      "num": 351305,
       "word": "孤注一掷最终票房38.48亿",
       "onboard_time": 1699366177,
       "rank": 21,
@@ -849,6 +881,14 @@
       "onboard_time": 1699318177,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 428815,
+      "num": 428815,
+      "word": "以爱为营微博开分8.7",
+      "onboard_time": 1699369057,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 425996,
@@ -947,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377859,
+      "num": 377859,
+      "word": "Meiko回应Viper",
+      "onboard_time": 1699369656,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373400,
       "num": 1724769,
       "word": "樊振东孙颖莎顶峰相见",
       "onboard_time": 1699349254,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370232,
+      "num": 370232,
+      "word": "苏醒没有陈楚生的比赛不愿意留到最后",
+      "onboard_time": 1699366777,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 367754,
@@ -1043,6 +1099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337570,
+      "num": 337570,
+      "word": "kpop大战一触即发",
+      "onboard_time": 1699368759,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 336104,
+      "num": 336104,
+      "word": "站立瘦腹",
+      "onboard_time": 1699368400,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 335324,
       "num": 335324,
       "word": "方圆脸高级感妆容",
@@ -1089,14 +1161,6 @@
       "onboard_time": 1699318416,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317932,
-      "num": 317932,
-      "word": "打工罢了 不必太上头",
-      "onboard_time": 1699366476,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 317071,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1699359037,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291249,
+      "num": 291249,
+      "word": "七英俊",
+      "onboard_time": 1699369358,
+      "rank": 19,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 289927,
@@ -1289,14 +1361,6 @@
       "onboard_time": 1699338571,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265005,
-      "num": 265005,
-      "word": "苏醒没有陈楚生的比赛不愿意留到最后",
-      "onboard_time": 1699366777,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 263898,
@@ -1739,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203175,
+      "num": 203175,
+      "word": "莲花楼豆瓣评分涨至8点5",
+      "onboard_time": 1699369597,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201833,
       "num": 201833,
       "word": "单亲爸爸回应女儿捐器官救5人",
@@ -1859,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195247,
+      "num": 195247,
+      "word": "喜欢看两个聪明人恋爱",
+      "onboard_time": 1699367257,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193904,
       "num": 193904,
       "word": "匪我思存不愧是亲妈",
@@ -1977,6 +2057,14 @@
       "onboard_time": 1699327469,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187326,
+      "num": 187326,
+      "word": "彭于晏桂纶镁益达广告完整版",
+      "onboard_time": 1699368520,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187069,
@@ -2139,6 +2227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168614,
+      "num": 168614,
+      "word": "最擅长说狠话的星座",
+      "onboard_time": 1699367137,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 168425,
       "num": 168425,
       "word": "OpenAI推出自定义版本ChatGPT",
@@ -2155,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167258,
-      "num": 167258,
-      "word": "王彦霖艾佳妮分手五年后结婚",
-      "onboard_time": 1699367619,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165756,
       "num": 165756,
       "word": "小小年龄就掌握了供求关系",
@@ -2177,6 +2265,14 @@
       "onboard_time": 1699329814,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163636,
+      "num": 163636,
+      "word": "潘斌龙赞王俊凯为电影拼了",
+      "onboard_time": 1699370255,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 163150,
@@ -2225,14 +2321,6 @@
       "onboard_time": 1699314754,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 160931,
-      "num": 160931,
-      "word": "喜欢看两个聪明人恋爱",
-      "onboard_time": 1699367257,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 160574,
@@ -2411,6 +2499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149338,
+      "num": 149338,
+      "word": "OST用周深打周深",
+      "onboard_time": 1699370076,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149321,
       "num": 254493,
       "word": "iQOO12发布会",
@@ -2436,7 +2532,7 @@
     },
     {
       "raw_hot": 146812,
-      "num": 200037,
+      "num": 208113,
       "word": "从不能行走到跑完41个全马",
       "onboard_time": 1699366117,
       "rank": 29,
@@ -2473,6 +2569,14 @@
       "onboard_time": 1699327109,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143944,
+      "num": 143944,
+      "word": "仿佛一对中年怨偶毫无感情的背课文",
+      "onboard_time": 1699369897,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143535,
@@ -2569,14 +2673,6 @@
       "onboard_time": 1699333537,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133827,
-      "num": 133827,
-      "word": "最擅长说狠话的星座",
-      "onboard_time": 1699367137,
-      "rank": 46,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 133671,
@@ -2804,7 +2900,7 @@
     },
     {
       "raw_hot": 109459,
-      "num": 1125366,
+      "num": 1375327,
       "word": "乌镇网事",
       "onboard_time": 1699361194,
       "rank": 10,
@@ -2841,6 +2937,14 @@
       "onboard_time": 1699361613,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101495,
+      "num": 107037,
+      "word": "肚子瘦不了可能是骨盆在作妖",
+      "onboard_time": 1699370255,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 100719,
@@ -3009,6 +3113,14 @@
       "onboard_time": 1699365697,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 66169,
+      "num": 106331,
+      "word": "19个月大宝宝去世捐器官救6人",
+      "onboard_time": 1699370076,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62164,

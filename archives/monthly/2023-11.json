@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699367660131,
+  "endTime": 1699370288784,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -89,6 +89,14 @@
       "onboard_time": 1699015058,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3860827,
+      "num": 3860827,
+      "word": "导师回应网传乳腺外科团队多人患癌",
+      "onboard_time": 1699366535,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3794345,
@@ -192,14 +200,6 @@
       "word": "中山二院乳腺外科",
       "onboard_time": 1699333118,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3055537,
-      "num": 3055537,
-      "word": "导师回应网传乳腺外科团队多人患癌",
-      "onboard_time": 1699366535,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -955,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1606198,
+      "num": 1606198,
+      "word": "王彦霖艾佳妮分手五年后结婚",
+      "onboard_time": 1699367619,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1602205,
       "num": 407977,
       "word": "曝多名篮网球员与啦啦队成员发生关系",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1698891633,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1188960,
+      "num": 1188960,
+      "word": "与主播发生关系住持被停职",
+      "onboard_time": 1699368220,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1187378,
@@ -3371,6 +3387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 675263,
+      "num": 289165,
+      "word": "从月入5K到15K后的生活变化",
+      "onboard_time": 1699368276,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 674361,
       "num": 299233,
       "word": "时宴的腰力",
@@ -4467,6 +4491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552431,
+      "num": 552431,
+      "word": "打工罢了 不必太上头",
+      "onboard_time": 1699366476,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 551158,
       "num": 446859,
       "word": "金莎和男友的第一张合影",
@@ -5292,7 +5324,7 @@
     },
     {
       "raw_hot": 470796,
-      "num": 288190,
+      "num": 351305,
       "word": "孤注一掷最终票房38.48亿",
       "onboard_time": 1699366177,
       "rank": 21,
@@ -5913,6 +5945,14 @@
       "onboard_time": 1699010076,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 428815,
+      "num": 428815,
+      "word": "以爱为营微博开分8.7",
+      "onboard_time": 1699369057,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 428387,
@@ -6819,6 +6859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377859,
+      "num": 377859,
+      "word": "Meiko回应Viper",
+      "onboard_time": 1699369656,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 377726,
       "num": 294337,
       "word": "10岁男童遭阿拉斯加犬咬伤",
@@ -6977,6 +7025,14 @@
       "onboard_time": 1699090832,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370232,
+      "num": 370232,
+      "word": "苏醒没有陈楚生的比赛不愿意留到最后",
+      "onboard_time": 1699366777,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 367754,
@@ -7555,6 +7611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337570,
+      "num": 337570,
+      "word": "kpop大战一触即发",
+      "onboard_time": 1699368759,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 337410,
       "num": 337410,
       "word": "辛芷蕾说我想结婚",
@@ -7609,6 +7673,14 @@
       "onboard_time": 1699105176,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 336104,
+      "num": 336104,
+      "word": "站立瘦腹",
+      "onboard_time": 1699368400,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 335369,
@@ -7961,14 +8033,6 @@
       "onboard_time": 1699183237,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317932,
-      "num": 317932,
-      "word": "打工罢了 不必太上头",
-      "onboard_time": 1699366476,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 317807,
@@ -8481,6 +8545,14 @@
       "onboard_time": 1699359037,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291249,
+      "num": 291249,
+      "word": "七英俊",
+      "onboard_time": 1699369358,
+      "rank": 19,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 290557,
@@ -9281,14 +9353,6 @@
       "onboard_time": 1698837514,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265005,
-      "num": 265005,
-      "word": "苏醒没有陈楚生的比赛不愿意留到最后",
-      "onboard_time": 1699366777,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 264529,
@@ -12027,6 +12091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203175,
+      "num": 203175,
+      "word": "莲花楼豆瓣评分涨至8点5",
+      "onboard_time": 1699369597,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203034,
       "num": 203034,
       "word": "梅西领先哈兰德105分",
@@ -12673,6 +12745,14 @@
       "onboard_time": 1699109200,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 195247,
+      "num": 195247,
+      "word": "喜欢看两个聪明人恋爱",
+      "onboard_time": 1699367257,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 195068,
@@ -13345,6 +13425,14 @@
       "onboard_time": 1699327469,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187326,
+      "num": 187326,
+      "word": "彭于晏桂纶镁益达广告完整版",
+      "onboard_time": 1699368520,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187325,
@@ -14395,6 +14483,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 168614,
+      "num": 168614,
+      "word": "最擅长说狠话的星座",
+      "onboard_time": 1699367137,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "在儿童医院牙科工作的治疗犬",
@@ -14521,14 +14617,6 @@
       "onboard_time": 1698851797,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167258,
-      "num": 167258,
-      "word": "王彦霖艾佳妮分手五年后结婚",
-      "onboard_time": 1699367619,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 166911,
@@ -14731,6 +14819,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 163636,
+      "num": 163636,
+      "word": "潘斌龙赞王俊凯为电影拼了",
+      "onboard_time": 1699370255,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163364,
       "num": 163364,
       "word": "周翊然去ELLE盛典是走进动物世界",
@@ -14904,14 +15000,6 @@
       "word": "台媒报道以爱为营",
       "onboard_time": 1699215193,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 160931,
-      "num": 160931,
-      "word": "喜欢看两个聪明人恋爱",
-      "onboard_time": 1699367257,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -15739,6 +15827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149338,
+      "num": 149338,
+      "word": "OST用周深打周深",
+      "onboard_time": 1699370076,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149321,
       "num": 254493,
       "word": "iQOO12发布会",
@@ -15988,7 +16084,7 @@
     },
     {
       "raw_hot": 146812,
-      "num": 200037,
+      "num": 208113,
       "word": "从不能行走到跑完41个全马",
       "onboard_time": 1699366117,
       "rank": 29,
@@ -16161,6 +16257,14 @@
       "onboard_time": 1698759755,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143944,
+      "num": 143944,
+      "word": "仿佛一对中年怨偶毫无感情的背课文",
+      "onboard_time": 1699369897,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143643,
@@ -16785,14 +16889,6 @@
       "onboard_time": 1699057471,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 133827,
-      "num": 133827,
-      "word": "最擅长说狠话的星座",
-      "onboard_time": 1699367137,
-      "rank": 46,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 133797,
@@ -18276,7 +18372,7 @@
     },
     {
       "raw_hot": 109459,
-      "num": 1125366,
+      "num": 1375327,
       "word": "乌镇网事",
       "onboard_time": 1699361194,
       "rank": 10,
@@ -18577,6 +18673,14 @@
       "onboard_time": 1698755131,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 101495,
+      "num": 107037,
+      "word": "肚子瘦不了可能是骨盆在作妖",
+      "onboard_time": 1699370255,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 101426,
@@ -19401,6 +19505,14 @@
       "onboard_time": 1699202485,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66169,
+      "num": 106331,
+      "word": "19个月大宝宝去世捐器官救6人",
+      "onboard_time": 1699370076,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66162,
