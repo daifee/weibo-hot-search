@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699330819931,
+  "endTime": 1699331639754,
   "band_list": [
     {
       "raw_hot": 2798298,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2599452,
-      "num": 1031219,
+      "num": 1116986,
       "word": "轨是昨天出的 人是今天没的",
       "onboard_time": 1699327411,
       "rank": 33,
@@ -27,20 +27,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1844059,
+      "num": 1844059,
+      "word": "果郡王口碑一夜逆转",
+      "onboard_time": 1699323990,
+      "rank": 7,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1803257,
       "num": 1232400,
       "word": "肖战 宝诗龙",
       "onboard_time": 1699323810,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1689959,
-      "num": 1689959,
-      "word": "果郡王口碑一夜逆转",
-      "onboard_time": 1699323990,
-      "rank": 7,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1497508,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1355423,
-      "num": 597597,
+      "num": 615030,
       "word": "刘亦菲家人照片 基因的稳定发挥",
       "onboard_time": 1699323692,
       "rank": 30,
@@ -65,6 +65,30 @@
       "onboard_time": 1699313908,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1093529,
+      "num": 1093529,
+      "word": "华晨宇申请强制黑粉道歉",
+      "onboard_time": 1699328312,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1034073,
+      "num": 1034073,
+      "word": "淄博烧烤从业者现在都怎么样了",
+      "onboard_time": 1699328253,
+      "rank": 8,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1029487,
+      "num": 621104,
+      "word": "曾黎终于正确使用美貌了",
+      "onboard_time": 1699329213,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1024864,
@@ -80,14 +104,6 @@
       "word": "向佐记得郭碧婷小时代每个细节",
       "onboard_time": 1699316856,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 956887,
-      "num": 956887,
-      "word": "华晨宇申请强制黑粉道歉",
-      "onboard_time": 1699328312,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 839986,
-      "num": 596180,
-      "word": "曾黎终于正确使用美貌了",
-      "onboard_time": 1699329213,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 809411,
       "num": 595311,
       "word": "肖战好矜贵",
@@ -147,11 +155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 767466,
+      "num": 767466,
+      "word": "与凤行 江苏卫视",
+      "onboard_time": 1699330656,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 722692,
       "num": 253976,
       "word": "大三女生跳松花江自杀",
       "onboard_time": 1699274315,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666166,
+      "num": 666166,
+      "word": "湖北4岁半女童遭杀害家属发声",
+      "onboard_time": 1699329996,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -177,14 +201,6 @@
       "onboard_time": 1699326331,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 610321,
-      "num": 610321,
-      "word": "淄博烧烤从业者现在都怎么样了",
-      "onboard_time": 1699328253,
-      "rank": 8,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 606665,
@@ -315,11 +331,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 443478,
-      "num": 443478,
-      "word": "与凤行 江苏卫视",
-      "onboard_time": 1699330656,
-      "rank": 17,
+      "raw_hot": 454522,
+      "num": 275994,
+      "word": "权志龙好拽",
+      "onboard_time": 1699330418,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 441332,
+      "num": 267338,
+      "word": "甄嬛出轨是我听到最荒谬的笑话",
+      "onboard_time": 1699330960,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -369,14 +393,6 @@
       "onboard_time": 1699323570,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388865,
-      "num": 388865,
-      "word": "湖北4岁半女童遭杀害家属发声",
-      "onboard_time": 1699329996,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363730,
@@ -563,6 +579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245896,
+      "num": 245896,
+      "word": "以爱为营 猎人常以猎物形式出现",
+      "onboard_time": 1699330597,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242427,
+      "num": 242427,
+      "word": "人民网评院长贩卖婴儿出生证明",
+      "onboard_time": 1699331260,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241601,
       "num": 201094,
       "word": "没有一个许凯能笑着走出来",
@@ -585,6 +617,14 @@
       "onboard_time": 1699270654,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238973,
+      "num": 238973,
+      "word": "黄黑皮秋冬平价本命口红",
+      "onboard_time": 1699330176,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 238225,
@@ -683,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209489,
+      "num": 209489,
+      "word": "小王子终于找到了他的玫瑰",
+      "onboard_time": 1699331134,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209322,
       "num": 196475,
       "word": "徐璐时隔6年拍电影",
@@ -779,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196460,
-      "num": 196460,
-      "word": "权志龙好拽",
-      "onboard_time": 1699330418,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195342,
       "num": 195342,
       "word": "杨超越黄明昊手势舞",
@@ -827,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190146,
+      "num": 190146,
+      "word": "仙人抚我顶 结发受长生",
+      "onboard_time": 1699330776,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189373,
       "num": 189373,
       "word": "热刺赛季首败",
@@ -857,14 +905,6 @@
       "onboard_time": 1699325971,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186849,
-      "num": 186849,
-      "word": "以爱为营 猎人常以猎物形式出现",
-      "onboard_time": 1699330597,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 177557,
@@ -905,14 +945,6 @@
       "onboard_time": 1699321468,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169418,
-      "num": 169418,
-      "word": "黄黑皮秋冬平价本命口红",
-      "onboard_time": 1699330176,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 168425,
@@ -1123,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141811,
+      "num": 141811,
+      "word": "张婧仪焦糖色穿搭",
+      "onboard_time": 1699331077,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 140499,
       "num": 140499,
       "word": "是橙子出了轨还是柚子出了轨",
@@ -1171,12 +1211,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130062,
+      "num": 130062,
+      "word": "乘客打瞌睡小男孩用手护住座椅角",
+      "onboard_time": 1699331437,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129351,
       "num": 129351,
       "word": "黄仁俊喜欢吃火锅的原因",
       "onboard_time": 1699327953,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128450,
+      "num": 128450,
+      "word": "我国向尼泊尔提供紧急人道主义援助",
+      "onboard_time": 1699331500,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 127455,
@@ -1217,6 +1273,14 @@
       "onboard_time": 1699321650,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119672,
+      "num": 126188,
+      "word": "女子与植物人丈夫试管婴儿生下儿女",
+      "onboard_time": 1699331437,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117062,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1699297574,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 103063,
-      "num": 113790,
-      "word": "仙人抚我顶 结发受长生",
-      "onboard_time": 1699330776,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 100719,

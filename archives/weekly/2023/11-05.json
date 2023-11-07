@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699330819931,
+  "endTime": 1699331639754,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2599452,
-      "num": 1031219,
+      "num": 1116986,
       "word": "轨是昨天出的 人是今天没的",
       "onboard_time": 1699327411,
       "rank": 33,
@@ -235,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1844059,
+      "num": 1844059,
+      "word": "果郡王口碑一夜逆转",
+      "onboard_time": 1699323990,
+      "rank": 7,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1803257,
       "num": 1232400,
       "word": "肖战 宝诗龙",
@@ -297,14 +305,6 @@
       "onboard_time": 1699151790,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1689959,
-      "num": 1689959,
-      "word": "果郡王口碑一夜逆转",
-      "onboard_time": 1699323990,
-      "rank": 7,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1650872,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 1355423,
-      "num": 597597,
+      "num": 615030,
       "word": "刘亦菲家人照片 基因的稳定发挥",
       "onboard_time": 1699323692,
       "rank": 30,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1093529,
+      "num": 1093529,
+      "word": "华晨宇申请强制黑粉道歉",
+      "onboard_time": 1699328312,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083594,
       "num": 1083594,
       "word": "谁家接吻戴墨镜啊",
@@ -688,6 +696,22 @@
       "word": "权志龙馒化",
       "onboard_time": 1699262553,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1034073,
+      "num": 1034073,
+      "word": "淄博烧烤从业者现在都怎么样了",
+      "onboard_time": 1699328253,
+      "rank": 8,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1029487,
+      "num": 621104,
+      "word": "曾黎终于正确使用美貌了",
+      "onboard_time": 1699329213,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -745,14 +769,6 @@
       "onboard_time": 1699148011,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 956887,
-      "num": 956887,
-      "word": "华晨宇申请强制黑粉道歉",
-      "onboard_time": 1699328312,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 952059,
@@ -907,14 +923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 839986,
-      "num": 596180,
-      "word": "曾黎终于正确使用美貌了",
-      "onboard_time": 1699329213,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 824837,
       "num": 824837,
       "word": "卫健委通报医院贩卖出生证及婴儿",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1699231537,
       "rank": 9,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 767466,
+      "num": 767466,
+      "word": "与凤行 江苏卫视",
+      "onboard_time": 1699330656,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 763870,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1699239933,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 666166,
+      "num": 666166,
+      "word": "湖北4岁半女童遭杀害家属发声",
+      "onboard_time": 1699329996,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665891,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1699240414,
       "rank": 30,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 610321,
-      "num": 610321,
-      "word": "淄博烧烤从业者现在都怎么样了",
-      "onboard_time": 1699328253,
-      "rank": 8,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 607609,
@@ -1939,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454522,
+      "num": 275994,
+      "word": "权志龙好拽",
+      "onboard_time": 1699330418,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449878,
       "num": 449878,
       "word": "张颂文 我的演唱会你不来吗",
@@ -1979,20 +2003,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 443478,
-      "num": 443478,
-      "word": "与凤行 江苏卫视",
-      "onboard_time": 1699330656,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 442572,
       "num": 442572,
       "word": "女子全麻术后被好友轮流拿喇叭叫醒",
       "onboard_time": 1699141164,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441332,
+      "num": 267338,
+      "word": "甄嬛出轨是我听到最荒谬的笑话",
+      "onboard_time": 1699330960,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 440795,
@@ -2297,14 +2321,6 @@
       "onboard_time": 1699323570,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388865,
-      "num": 388865,
-      "word": "湖北4岁半女童遭杀害家属发声",
-      "onboard_time": 1699329996,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386150,
@@ -3331,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245896,
+      "num": 245896,
+      "word": "以爱为营 猎人常以猎物形式出现",
+      "onboard_time": 1699330597,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244520,
       "num": 244520,
       "word": "大麦候补",
@@ -3395,6 +3419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242427,
+      "num": 242427,
+      "word": "人民网评院长贩卖婴儿出生证明",
+      "onboard_time": 1699331260,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241601,
       "num": 201094,
       "word": "没有一个许凯能笑着走出来",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1699241134,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 238973,
+      "num": 238973,
+      "word": "黄黑皮秋冬平价本命口红",
+      "onboard_time": 1699330176,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 238469,
@@ -3915,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209489,
+      "num": 209489,
+      "word": "小王子终于找到了他的玫瑰",
+      "onboard_time": 1699331134,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209322,
       "num": 196475,
       "word": "徐璐时隔6年拍电影",
@@ -4267,14 +4315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196460,
-      "num": 196460,
-      "word": "权志龙好拽",
-      "onboard_time": 1699330418,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "主持人大赛",
@@ -4483,6 +4523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190146,
+      "num": 190146,
+      "word": "仙人抚我顶 结发受长生",
+      "onboard_time": 1699330776,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189828,
       "num": 189828,
       "word": "年轻人从精致穷变成机智省",
@@ -4569,14 +4617,6 @@
       "onboard_time": 1699228894,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186849,
-      "num": 186849,
-      "word": "以爱为营 猎人常以猎物形式出现",
-      "onboard_time": 1699330597,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 186834,
@@ -4857,14 +4897,6 @@
       "onboard_time": 1699270413,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169418,
-      "num": 169418,
-      "word": "黄黑皮秋冬平价本命口红",
-      "onboard_time": 1699330176,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 168838,
@@ -5579,6 +5611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141811,
+      "num": 141811,
+      "word": "张婧仪焦糖色穿搭",
+      "onboard_time": 1699331077,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 141075,
       "num": 141075,
       "word": "这场面南方人表示震惊",
@@ -5811,6 +5851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 130062,
+      "num": 130062,
+      "word": "乘客打瞌睡小男孩用手护住座椅角",
+      "onboard_time": 1699331437,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129410,
       "num": 129410,
       "word": "佳木斯贺晶",
@@ -5841,6 +5889,14 @@
       "onboard_time": 1699167868,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128450,
+      "num": 128450,
+      "word": "我国向尼泊尔提供紧急人道主义援助",
+      "onboard_time": 1699331500,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 128215,
@@ -6049,6 +6105,14 @@
       "onboard_time": 1699233155,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119672,
+      "num": 126188,
+      "word": "女子与植物人丈夫试管婴儿生下儿女",
+      "onboard_time": 1699331437,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119187,
@@ -6353,14 +6417,6 @@
       "onboard_time": 1699297574,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 103063,
-      "num": 113790,
-      "word": "仙人抚我顶 结发受长生",
-      "onboard_time": 1699330776,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 102815,
