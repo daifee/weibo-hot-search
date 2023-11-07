@@ -1,0 +1,410 @@
+{
+  "runTime": 1699346073939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618755,
+        "num": 1618755,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1270696,
+        "num": 1270696,
+        "word": "朱丹说叫错人名是心魔",
+        "onboard_time": 1699341153,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78627,
+        "num": 1149605,
+        "word": "AI眼中的中国",
+        "onboard_time": 1699343492,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1044104,
+        "num": 1044104,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577879,
+        "num": 577879,
+        "word": "金莎男友为追她给她做了100多道菜",
+        "onboard_time": 1699333835,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456925,
+        "num": 456925,
+        "word": "轨是昨天出的 人是今天没的",
+        "onboard_time": 1699327411,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376544,
+        "num": 376544,
+        "word": "35岁女子在香港做泥瓦工月入10万",
+        "onboard_time": 1699334076,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358587,
+        "num": 358587,
+        "word": "甄嬛出轨是我听到最荒谬的笑话",
+        "onboard_time": 1699330960,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305409,
+        "num": 305409,
+        "word": "淄博烧烤从业者现在都怎么样了",
+        "onboard_time": 1699328253,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 276304,
+        "num": 305382,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 9,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 1629377,
+        "num": 304840,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561174,
+        "num": 304759,
+        "word": "黑龙江一男子冻死街头",
+        "onboard_time": 1699337910,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558169,
+        "num": 304430,
+        "word": "张馨予 我可以帮你实现一个愿望",
+        "onboard_time": 1699344334,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370914,
+        "num": 303906,
+        "word": "警方回应男子冻死街头",
+        "onboard_time": 1699340735,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342892,
+        "num": 303518,
+        "word": "金莎和男友的第一张合影",
+        "onboard_time": 1699334972,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303462,
+        "num": 303462,
+        "word": "曾黎终于正确使用美貌了",
+        "onboard_time": 1699329213,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301853,
+        "num": 301853,
+        "word": "以爱为营抓手吻",
+        "onboard_time": 1699336833,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254449,
+        "num": 254449,
+        "word": "温太医恨不得犁两亩地再走",
+        "onboard_time": 1699345174,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234317,
+        "num": 234317,
+        "word": "广西6岁女孩沙滩走失遗体被发现",
+        "onboard_time": 1699344933,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228832,
+        "num": 228832,
+        "word": "哈工大学生去上课像登机",
+        "onboard_time": 1699331797,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1990701,
+        "num": 228631,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882596,
+        "num": 227043,
+        "word": "苏士成",
+        "onboard_time": 1699335752,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660083,
+        "num": 225731,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316608,
+        "num": 223570,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 222914,
+        "num": 222914,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250644,
+        "num": 214191,
+        "word": "半滴血检2小时内可查出早期癌症",
+        "onboard_time": 1699339834,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202570,
+        "num": 202570,
+        "word": "MAMA第一轮投票结果",
+        "onboard_time": 1699341334,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196587,
+        "num": 196587,
+        "word": "你买过Switch吗",
+        "onboard_time": 1699345414,
+        "rank": 27,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 195809,
+        "num": 195809,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192155,
+        "num": 192155,
+        "word": "摩羯座真的很讨厌计划被打乱",
+        "onboard_time": 1699345597,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187438,
+        "num": 187438,
+        "word": "王曼昱世界排名第二",
+        "onboard_time": 1699344997,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182238,
+        "num": 182238,
+        "word": "实测上海外卖买药医保支付",
+        "onboard_time": 1699346015,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181404,
+        "num": 181404,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178309,
+        "num": 178309,
+        "word": "医生建议学会给皮肤做减法",
+        "onboard_time": 1699340915,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178104,
+        "num": 178104,
+        "word": "东北人不追星 因为东北全明星",
+        "onboard_time": 1699337193,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173134,
+        "num": 173134,
+        "word": "李承鄞欠的债李嶷还",
+        "onboard_time": 1699340973,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170952,
+        "num": 170952,
+        "word": "单亲爸爸回应女儿捐器官救5人",
+        "onboard_time": 1699343135,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169126,
+        "num": 169126,
+        "word": "杨超越自己做的妆造",
+        "onboard_time": 1699342414,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 164202,
+        "num": 164202,
+        "word": "生了五个孩子的妈妈的故事",
+        "onboard_time": 1699332105,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158724,
+        "num": 158724,
+        "word": "秀智天真兔子感仿妆",
+        "onboard_time": 1699344094,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 156517,
+        "num": 156517,
+        "word": "陈伟霆张家辉 悬溺",
+        "onboard_time": 1699345776,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152138,
+        "num": 152138,
+        "word": "刘诗诗竹枝妆",
+        "onboard_time": 1699335156,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 147770,
+        "num": 147770,
+        "word": "张小斐 大衣的神",
+        "onboard_time": 1699332038,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143813,
+        "num": 143813,
+        "word": "曝桑乔已被移出曼联群聊",
+        "onboard_time": 1699342831,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142187,
+        "num": 142187,
+        "word": "匪我思存 说灭男主全族就灭男主全族",
+        "onboard_time": 1699337433,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129166,
+        "num": 129166,
+        "word": "大熊猫躲雨主打一个顾头不顾腚",
+        "onboard_time": 1699342174,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128484,
+        "num": 128484,
+        "word": "Tarzan向队友道歉",
+        "onboard_time": 1699328132,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121597,
+        "num": 121597,
+        "word": "郑秀妍将回归",
+        "onboard_time": 1699336772,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121522,
+        "num": 121522,
+        "word": "华晨宇申请强制黑粉道歉",
+        "onboard_time": 1699328312,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118763,
+        "num": 118763,
+        "word": "谭松韵 我是被童年治愈一生的人",
+        "onboard_time": 1699333238,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见澳大利亚总理#"
+    }
+  }
+}
