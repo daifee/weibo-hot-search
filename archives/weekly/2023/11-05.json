@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699323989456,
+  "endTime": 1699324646673,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -225,6 +225,14 @@
       "onboard_time": 1699313248,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1803257,
+      "num": 1232400,
+      "word": "肖战 宝诗龙",
+      "onboard_time": 1699323810,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1775198,
@@ -652,19 +660,11 @@
     },
     {
       "raw_hot": 1024864,
-      "num": 201830,
+      "num": 230505,
       "word": "揉腹多了才发现身体堆了垃圾",
       "onboard_time": 1699319613,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1014837,
-      "num": 1014837,
-      "word": "肖战 宝诗龙",
-      "onboard_time": 1699323810,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1014186,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 999521,
-      "num": 341462,
+      "num": 364601,
       "word": "向佐记得郭碧婷小时代每个细节",
       "onboard_time": 1699316856,
       "rank": 10,
@@ -753,6 +753,14 @@
       "onboard_time": 1699163791,
       "rank": 15,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 903242,
+      "num": 903242,
+      "word": "女子转售父母生前处方药被判贩毒罪",
+      "onboard_time": 1699321291,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 903092,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1699256074,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703722,
-      "num": 703722,
-      "word": "女子转售父母生前处方药被判贩毒罪",
-      "onboard_time": 1699321291,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700121,
@@ -1419,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553110,
+      "num": 553110,
+      "word": "早期的内娱遍地都是喜剧人",
+      "onboard_time": 1699319974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1699317033,
       "rank": 6,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 536708,
-      "num": 536708,
-      "word": "早期的内娱遍地都是喜剧人",
-      "onboard_time": 1699319974,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 535093,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1699165171,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513178,
+      "num": 363221,
+      "word": "刘亦菲家人照片 基因的稳定发挥",
+      "onboard_time": 1699323692,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 511260,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1699141164,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441617,
+      "num": 441617,
+      "word": "果郡王口碑一夜逆转",
+      "onboard_time": 1699323990,
+      "rank": 7,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 440795,
@@ -2139,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389081,
+      "num": 363123,
+      "word": "李现对接回应出演国色芳华",
+      "onboard_time": 1699323570,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386150,
       "num": 285824,
       "word": "披荆斩棘比seventeen还seventeen",
@@ -2243,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367046,
-      "num": 327308,
-      "word": "李现对接回应出演国色芳华",
-      "onboard_time": 1699323570,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 364145,
       "num": 317054,
       "word": "刘诗诗穿上高领毛衣还有脖子",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1699160673,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 359039,
+      "num": 359039,
+      "word": "王嘉尔的童年女神是杨紫",
+      "onboard_time": 1699323512,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 358403,
@@ -2748,7 +2772,7 @@
     },
     {
       "raw_hot": 281325,
-      "num": 201216,
+      "num": 216905,
       "word": "第一次嗑到女主和男N的cp",
       "onboard_time": 1699321291,
       "rank": 21,
@@ -3067,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247437,
+      "num": 247437,
+      "word": "许凯啄米啄了一分钟",
+      "onboard_time": 1699322609,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247373,
       "num": 204611,
       "word": "BTOB全员不续约",
@@ -3169,14 +3201,6 @@
       "onboard_time": 1699268254,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241175,
-      "num": 241175,
-      "word": "许凯啄米啄了一分钟",
-      "onboard_time": 1699322609,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 241107,
@@ -3859,14 +3883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199186,
-      "num": 161410,
-      "word": "刘亦菲家人照片 基因的稳定发挥",
-      "onboard_time": 1699323692,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198714,
       "num": 159765,
       "word": "孙颖莎太原站继续出战混双",
@@ -3987,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195342,
+      "num": 195342,
+      "word": "杨超越黄明昊手势舞",
+      "onboard_time": 1699323870,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "裴行俭前妻被大长公主逼死",
@@ -4049,14 +4073,6 @@
       "onboard_time": 1699082430,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193486,
-      "num": 193486,
-      "word": "王嘉尔的童年女神是杨紫",
-      "onboard_time": 1699323512,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 193483,
@@ -4641,14 +4657,6 @@
       "onboard_time": 1699155393,
       "rank": 33,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 162571,
-      "num": 162571,
-      "word": "杨超越黄明昊手势舞",
-      "onboard_time": 1699323870,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161964,
@@ -5403,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "牺牲民警蒋久华被追授一级英模",
+      "onboard_time": 1699323870,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128215,
       "num": 128215,
       "word": "传下去许光汉明码标价了",
@@ -5587,6 +5603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "还得看水花兄弟",
+      "onboard_time": 1699321650,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120837,
       "num": 207339,
       "word": "第六届进口博览会",
@@ -5633,6 +5657,14 @@
       "onboard_time": 1699270594,
       "rank": 39,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 117062,
+      "num": 117062,
+      "word": "92岁老兵仍能精准破译摩斯电码",
+      "onboard_time": 1699324109,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116708,
@@ -5713,14 +5745,6 @@
       "onboard_time": 1699280505,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111823,
-      "num": 111823,
-      "word": "还得看水花兄弟",
-      "onboard_time": 1699321650,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 111474,
@@ -6091,20 +6115,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89841,
+      "num": 89841,
+      "word": "江苏省考",
+      "onboard_time": 1699324531,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 89260,
       "num": 431385,
       "word": "e人和i人的拍照区别",
       "onboard_time": 1699118304,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89184,
-      "num": 89184,
-      "word": "牺牲民警蒋久华被追授一级英模",
-      "onboard_time": 1699323870,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89157,

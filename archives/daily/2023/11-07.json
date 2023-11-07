@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699323989456,
+  "endTime": 1699324646673,
   "band_list": [
     {
       "raw_hot": 2798298,
@@ -19,6 +19,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1803257,
+      "num": 1232400,
+      "word": "肖战 宝诗龙",
+      "onboard_time": 1699323810,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1221994,
       "num": 1221994,
       "word": "节奏大师回归",
@@ -28,23 +36,15 @@
     },
     {
       "raw_hot": 1024864,
-      "num": 201830,
+      "num": 230505,
       "word": "揉腹多了才发现身体堆了垃圾",
       "onboard_time": 1699319613,
       "rank": 30,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1014837,
-      "num": 1014837,
-      "word": "肖战 宝诗龙",
-      "onboard_time": 1699323810,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 999521,
-      "num": 341462,
+      "num": 364601,
       "word": "向佐记得郭碧婷小时代每个细节",
       "onboard_time": 1699316856,
       "rank": 10,
@@ -56,6 +56,14 @@
       "word": "佳木斯一体育馆发生坍塌",
       "onboard_time": 1699277677,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903242,
+      "num": 903242,
+      "word": "女子转售父母生前处方药被判贩毒罪",
+      "onboard_time": 1699321291,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -72,14 +80,6 @@
       "word": "大三女生跳松花江自杀",
       "onboard_time": 1699274315,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703722,
-      "num": 703722,
-      "word": "女子转售父母生前处方药被判贩毒罪",
-      "onboard_time": 1699321291,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553110,
+      "num": 553110,
+      "word": "早期的内娱遍地都是喜剧人",
+      "onboard_time": 1699319974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -123,14 +131,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 536708,
-      "num": 536708,
-      "word": "早期的内娱遍地都是喜剧人",
-      "onboard_time": 1699319974,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 530763,
       "num": 530763,
       "word": "主持人大赛治好了我的精神内耗",
@@ -145,6 +145,14 @@
       "onboard_time": 1699285411,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 513178,
+      "num": 363221,
+      "word": "刘亦菲家人照片 基因的稳定发挥",
+      "onboard_time": 1699323692,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 506561,
@@ -179,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 441617,
+      "num": 441617,
+      "word": "果郡王口碑一夜逆转",
+      "onboard_time": 1699323990,
+      "rank": 7,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 441125,
       "num": 441125,
       "word": "女生为考研戴电击闹钟电破皮都没醒",
@@ -211,12 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367046,
-      "num": 327308,
+      "raw_hot": 389081,
+      "num": 363123,
       "word": "李现对接回应出演国色芳华",
       "onboard_time": 1699323570,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359039,
+      "num": 359039,
+      "word": "王嘉尔的童年女神是杨紫",
+      "onboard_time": 1699323512,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 358403,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 281325,
-      "num": 201216,
+      "num": 216905,
       "word": "第一次嗑到女主和男N的cp",
       "onboard_time": 1699321291,
       "rank": 21,
@@ -331,20 +355,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247437,
+      "num": 247437,
+      "word": "许凯啄米啄了一分钟",
+      "onboard_time": 1699322609,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241304,
       "num": 229229,
       "word": "普通人和有钱人取名字区别有多大",
       "onboard_time": 1699281765,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241175,
-      "num": 241175,
-      "word": "许凯啄米啄了一分钟",
-      "onboard_time": 1699322609,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 239943,
@@ -451,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199186,
-      "num": 161410,
-      "word": "刘亦菲家人照片 基因的稳定发挥",
-      "onboard_time": 1699323692,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198491,
       "num": 144535,
       "word": "M3 Max MacBook Pro开箱",
@@ -483,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195342,
+      "num": 195342,
+      "word": "杨超越黄明昊手势舞",
+      "onboard_time": 1699323870,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193904,
       "num": 193904,
       "word": "匪我思存不愧是亲妈",
       "onboard_time": 1699285893,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193486,
-      "num": 193486,
-      "word": "王嘉尔的童年女神是杨紫",
-      "onboard_time": 1699323512,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 191051,
@@ -569,14 +585,6 @@
       "onboard_time": 1699318533,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162571,
-      "num": 162571,
-      "word": "杨超越黄明昊手势舞",
-      "onboard_time": 1699323870,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161924,
@@ -739,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "牺牲民警蒋久华被追授一级英模",
+      "onboard_time": 1699323870,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127455,
       "num": 127455,
       "word": "杰克逊模仿C罗",
@@ -771,6 +787,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "还得看水花兄弟",
+      "onboard_time": 1699321650,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117062,
+      "num": 117062,
+      "word": "92岁老兵仍能精准破译摩斯电码",
+      "onboard_time": 1699324109,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113071,
       "num": 113071,
       "word": "秦昊长发造型",
@@ -793,14 +825,6 @@
       "onboard_time": 1699277434,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111823,
-      "num": 111823,
-      "word": "还得看水花兄弟",
-      "onboard_time": 1699321650,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 111474,
@@ -867,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89184,
-      "num": 89184,
-      "word": "牺牲民警蒋久华被追授一级英模",
-      "onboard_time": 1699323870,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 89841,
+      "num": 89841,
+      "word": "江苏省考",
+      "onboard_time": 1699324531,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 89157,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 60435,
-      "num": 1249518,
+      "num": 1254976,
       "word": "进博会到底有多好逛",
       "onboard_time": 1699276296,
       "rank": 2,

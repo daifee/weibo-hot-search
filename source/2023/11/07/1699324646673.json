@@ -1,0 +1,410 @@
+{
+  "runTime": 1699324646673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1423568,
+        "num": 1423568,
+        "word": "原来淋巴肉是不能吃的",
+        "onboard_time": 1699313248,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1349662,
+        "num": 1349662,
+        "word": "佳木斯坍塌体育馆3人遇难",
+        "onboard_time": 1699311985,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 35765,
+        "num": 1254976,
+        "word": "进博会到底有多好逛",
+        "onboard_time": 1699276296,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803257,
+        "num": 1232400,
+        "word": "肖战 宝诗龙",
+        "onboard_time": 1699323810,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1166208,
+        "num": 1166208,
+        "word": "节奏大师回归",
+        "onboard_time": 1699313908,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 903242,
+        "num": 903242,
+        "word": "女子转售父母生前处方药被判贩毒罪",
+        "onboard_time": 1699321291,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553110,
+        "num": 553110,
+        "word": "早期的内娱遍地都是喜剧人",
+        "onboard_time": 1699319974,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441617,
+        "num": 441617,
+        "word": "果郡王口碑一夜逆转",
+        "onboard_time": 1699323990,
+        "rank": 7,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 418112,
+        "num": 418112,
+        "word": "山东省考",
+        "onboard_time": 1699320928,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 368366,
+        "num": 368366,
+        "word": "这是考研人的生命线啊",
+        "onboard_time": 1699318177,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 656329,
+        "num": 364601,
+        "word": "向佐记得郭碧婷小时代每个细节",
+        "onboard_time": 1699316856,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513178,
+        "num": 363221,
+        "word": "刘亦菲家人照片 基因的稳定发挥",
+        "onboard_time": 1699323692,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389081,
+        "num": 363123,
+        "word": "李现对接回应出演国色芳华",
+        "onboard_time": 1699323570,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359039,
+        "num": 359039,
+        "word": "王嘉尔的童年女神是杨紫",
+        "onboard_time": 1699323512,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313057,
+        "num": 313057,
+        "word": "为研究他喝下幽门螺杆菌培育汤",
+        "onboard_time": 1699316979,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279513,
+        "num": 279513,
+        "word": "北上广很难有花束般的恋爱",
+        "onboard_time": 1699286909,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247437,
+        "num": 247437,
+        "word": "许凯啄米啄了一分钟",
+        "onboard_time": 1699322609,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244395,
+        "num": 244395,
+        "word": "女大学生肚子大被搓澡阿姨救了一命",
+        "onboard_time": 1699268494,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241780,
+        "num": 241780,
+        "word": "景甜脏脏包妆造",
+        "onboard_time": 1699317033,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 234005,
+        "num": 234005,
+        "word": "每天1点睡觉的好处",
+        "onboard_time": 1699280863,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 784886,
+        "num": 230505,
+        "word": "揉腹多了才发现身体堆了垃圾",
+        "onboard_time": 1699319613,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216905,
+        "num": 216905,
+        "word": "第一次嗑到女主和男N的cp",
+        "onboard_time": 1699321291,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195769,
+        "num": 195769,
+        "word": "1岁宝宝离世捐器官救6人",
+        "onboard_time": 1699318416,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195342,
+        "num": 195342,
+        "word": "杨超越黄明昊手势舞",
+        "onboard_time": 1699323870,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181992,
+        "num": 181992,
+        "word": "林昀儒世界排名升至第6",
+        "onboard_time": 1699321230,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170640,
+        "num": 170640,
+        "word": "巴以冲突满一个月",
+        "onboard_time": 1699321409,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 165678,
+        "num": 165678,
+        "word": "突然理解为什么姜涛是顶流了",
+        "onboard_time": 1699274615,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161721,
+        "num": 161721,
+        "word": "幼儿园厨师做菜的一天",
+        "onboard_time": 1699318416,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157826,
+        "num": 157826,
+        "word": "景甜 脸在江山在",
+        "onboard_time": 1699284455,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155199,
+        "num": 155199,
+        "word": "业内人士回应68元火锅锅底贵不贵",
+        "onboard_time": 1699322972,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151882,
+        "num": 151882,
+        "word": "陌生男孩公交上用手护住熟睡乘客",
+        "onboard_time": 1699318476,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149092,
+        "num": 149092,
+        "word": "120救人返程遇车祸再救5人",
+        "onboard_time": 1699321468,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143512,
+        "num": 143512,
+        "word": "郑合惠子医师造型",
+        "onboard_time": 1699318953,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128925,
+        "num": 128925,
+        "word": "牺牲民警蒋久华被追授一级英模",
+        "onboard_time": 1699323870,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124117,
+        "num": 124117,
+        "word": "财政部通报8起地方政府隐性债务问责典型案例",
+        "onboard_time": 1699320332,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122470,
+        "num": 122470,
+        "word": "方圆脸高级感妆容",
+        "onboard_time": 1699315352,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121570,
+        "num": 121570,
+        "word": "还得看水花兄弟",
+        "onboard_time": 1699321650,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120409,
+        "num": 120409,
+        "word": "张钧甯拍追缉瘦了14斤",
+        "onboard_time": 1699318234,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119837,
+        "num": 119837,
+        "word": "权志龙笑着笑着就结束调查了",
+        "onboard_time": 1699274196,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117062,
+        "num": 117062,
+        "word": "92岁老兵仍能精准破译摩斯电码",
+        "onboard_time": 1699324109,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115171,
+        "num": 115171,
+        "word": "张小斐说上网会忽略恶评",
+        "onboard_time": 1699321172,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113118,
+        "num": 113118,
+        "word": "哈登快船首秀",
+        "onboard_time": 1699317455,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100760,
+        "num": 100760,
+        "word": "秦昊长发造型",
+        "onboard_time": 1699320690,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98446,
+        "num": 98446,
+        "word": "湖人vs热火",
+        "onboard_time": 1699323270,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98400,
+        "num": 98400,
+        "word": "余华真的太会写了",
+        "onboard_time": 1699315052,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 97709,
+        "num": 97709,
+        "word": "杭州已接洽迪士尼环球影城",
+        "onboard_time": 1699284033,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89841,
+        "num": 89841,
+        "word": "江苏省考",
+        "onboard_time": 1699324531,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86479,
+        "num": 86479,
+        "word": "家里猫猫竟突然复活",
+        "onboard_time": 1699314270,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83596,
+        "num": 83596,
+        "word": "香香软软超拉丝的吐司",
+        "onboard_time": 1699323932,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83111,
+        "num": 83111,
+        "word": "魏哲鸣是懂端水的",
+        "onboard_time": 1699318776,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博之约#"
+    }
+  }
+}
