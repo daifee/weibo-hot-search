@@ -1,0 +1,410 @@
+{
+  "runTime": 1699361320598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835984,
+        "num": 1835984,
+        "word": "中山二院",
+        "onboard_time": 1699357535,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1199397,
+        "num": 1199397,
+        "word": "宁安如梦空降",
+        "onboard_time": 1699348057,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1057030,
+        "num": 1057030,
+        "word": "第一次见放了6集男主叫不出女主名字的",
+        "onboard_time": 1699359334,
+        "rank": 2,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635381,
+        "num": 635381,
+        "word": "蒋勤勤 认定吴磊是我儿子了",
+        "onboard_time": 1699357593,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 622154,
+        "num": 622154,
+        "word": "为了省一块钱花了两千多",
+        "onboard_time": 1699357112,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 588922,
+        "num": 588922,
+        "word": "四川雅安一油罐车爆燃引燃两货车",
+        "onboard_time": 1699358975,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568561,
+        "num": 568561,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 479251,
+        "num": 479251,
+        "word": "奔跑吧",
+        "onboard_time": 1699359755,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443556,
+        "num": 443556,
+        "word": "老人捡到4只丹顶鹤以为是山羊",
+        "onboard_time": 1699356274,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435644,
+        "num": 435644,
+        "word": "爱奇艺用白鹿对打白鹿",
+        "onboard_time": 1699349734,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56020,
+        "num": 435061,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1162191,
+        "num": 434131,
+        "word": "网友提醒刘强东老家水龙头忘关了",
+        "onboard_time": 1699355195,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701776,
+        "num": 431956,
+        "word": "魏大勋冷脸甩伞",
+        "onboard_time": 1699351056,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672160,
+        "num": 431238,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26090,
+        "num": 429998,
+        "word": "卡卡巴乔领衔超级球星足球赛",
+        "onboard_time": 1699358433,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428996,
+        "num": 428996,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413919,
+        "num": 413919,
+        "word": "他就拿刀子戳了几下 朱丹就这么仰望",
+        "onboard_time": 1699356573,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409580,
+        "num": 409580,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400092,
+        "num": 400092,
+        "word": "白鹿换Q版姜雪宁郑书意头像",
+        "onboard_time": 1699359514,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54845,
+        "num": 367573,
+        "word": "iQOO发布首款自研电竞芯片",
+        "onboard_time": 1699360355,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59607,
+        "num": 366794,
+        "word": "AI眼中的中国",
+        "onboard_time": 1699343492,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 366050,
+        "num": 366050,
+        "word": "金莎男友是山东蓝翔出来的吗",
+        "onboard_time": 1699350455,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357579,
+        "num": 357579,
+        "word": "四川高速油罐车燃爆致2死2伤",
+        "onboard_time": 1699359933,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314181,
+        "num": 314181,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273205,
+        "num": 273205,
+        "word": "奔跑吧官微运营的手机被抢走了",
+        "onboard_time": 1699352616,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258553,
+        "num": 258553,
+        "word": "热依扎一巴掌梦回甄嬛传",
+        "onboard_time": 1699359037,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253234,
+        "num": 253234,
+        "word": "宁安如梦共赴宁安预告",
+        "onboard_time": 1699357054,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235000,
+        "num": 235000,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216707,
+        "num": 216707,
+        "word": "双子座真正的e人其实很少",
+        "onboard_time": 1699355734,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 188447,
+        "num": 215018,
+        "word": "体育馆坍塌幸存男孩亲述逃生经历",
+        "onboard_time": 1699360715,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213770,
+        "num": 213770,
+        "word": "宋亚轩被杨丽萍当成时尚单品了",
+        "onboard_time": 1699355014,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197660,
+        "num": 197660,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 31,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 196171,
+        "num": 196171,
+        "word": "米其林大厨用19万罗曼尼康帝做醉蟹",
+        "onboard_time": 1699359095,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191302,
+        "num": 191302,
+        "word": "杨幂谈原生家庭的缺失",
+        "onboard_time": 1699348895,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153148,
+        "num": 187009,
+        "word": "樊振东孙颖莎顶峰相见",
+        "onboard_time": 1699349254,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186838,
+        "num": 186838,
+        "word": "亚冠",
+        "onboard_time": 1699360173,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178513,
+        "num": 178513,
+        "word": "XJAPAN贝斯手HEATH去世",
+        "onboard_time": 1699360235,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170990,
+        "num": 170990,
+        "word": "上海地铁",
+        "onboard_time": 1699358254,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162309,
+        "num": 162309,
+        "word": "JDG半决赛对战T1",
+        "onboard_time": 1699356872,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151070,
+        "num": 151070,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 39,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 142250,
+        "num": 142250,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141442,
+        "num": 141442,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140529,
+        "num": 140529,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136960,
+        "num": 136960,
+        "word": "田小娟柳智敏张元英合作新歌",
+        "onboard_time": 1699349134,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 136308,
+        "word": "小区保安要辞职业主群刷屏挽留",
+        "onboard_time": 1699350695,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133625,
+        "num": 133625,
+        "word": "柯南一天官宣两家联名",
+        "onboard_time": 1699354656,
+        "rank": 45,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 132501,
+        "num": 132501,
+        "word": "官方通报医院被举报贩卖出生证及婴儿",
+        "onboard_time": 1699348776,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119474,
+        "num": 119474,
+        "word": "马立奥 卡丁车初体验",
+        "onboard_time": 1699360056,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118664,
+        "num": 118664,
+        "word": "关晓彤卢昱晓小巷人家试妆照",
+        "onboard_time": 1699353759,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117020,
+        "num": 117020,
+        "word": "小鬼说掌握不好分寸就油腻了",
+        "onboard_time": 1699358015,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}
