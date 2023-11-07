@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699319668701,
+  "endTime": 1699320905391,
   "band_list": [
     {
       "raw_hot": 2798298,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 999521,
-      "num": 308971,
+      "num": 341462,
       "word": "向佐记得郭碧婷小时代每个细节",
       "onboard_time": 1699316856,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1699277677,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867310,
+      "num": 194447,
+      "word": "揉腹多了才发现身体堆了垃圾",
+      "onboard_time": 1699319613,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 792973,
@@ -51,16 +59,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619518,
-      "num": 619518,
+      "raw_hot": 673863,
+      "num": 673863,
       "word": "节奏大师回归",
       "onboard_time": 1699313908,
       "rank": 3,
       "category": "游戏"
     },
     {
-      "raw_hot": 610542,
-      "num": 610542,
+      "raw_hot": 642400,
+      "num": 642400,
       "word": "为研究他喝下幽门螺杆菌培育汤",
       "onboard_time": 1699316979,
       "rank": 4,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 561665,
-      "num": 302844,
+      "num": 338565,
       "word": "女大学生肚子大被搓澡阿姨救了一命",
       "onboard_time": 1699268494,
       "rank": 11,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 480972,
-      "num": 295884,
+      "num": 330932,
       "word": "每天1点睡觉的好处",
       "onboard_time": 1699280863,
       "rank": 12,
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432710,
+      "num": 432710,
+      "word": "这是考研人的生命线啊",
+      "onboard_time": 1699318177,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 424110,
       "num": 424110,
       "word": "权志龙笑着笑着就结束调查了",
       "onboard_time": 1699274196,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 400192,
-      "num": 285625,
-      "word": "这是考研人的生命线啊",
-      "onboard_time": 1699318177,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 395421,
@@ -179,12 +187,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342267,
-      "num": 168143,
-      "word": "揉腹多了才发现身体堆了垃圾",
-      "onboard_time": 1699319613,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 346435,
+      "num": 346435,
+      "word": "早期的内娱遍地都是喜剧人",
+      "onboard_time": 1699319974,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 335324,
@@ -200,6 +208,14 @@
       "word": "桦南体育馆房顶坍塌与降雪有关",
       "onboard_time": 1699283435,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322065,
+      "num": 322065,
+      "word": "1岁宝宝离世捐器官救6人",
+      "onboard_time": 1699318416,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -267,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252418,
-      "num": 252418,
-      "word": "1岁宝宝离世捐器官救6人",
-      "onboard_time": 1699318416,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251711,
       "num": 251711,
       "word": "女娲毕设 古力娜扎",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228163,
+      "num": 228163,
+      "word": "陌生男孩公交上用手护住熟睡乘客",
+      "onboard_time": 1699318476,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227010,
       "num": 227010,
       "word": "杭州已接洽迪士尼环球影城",
@@ -337,14 +353,6 @@
       "onboard_time": 1699315052,
       "rank": 23,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 219599,
-      "num": 219599,
-      "word": "陌生男孩公交上用手护住熟睡乘客",
-      "onboard_time": 1699318476,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218006,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190113,
+      "num": 190113,
+      "word": "郑合惠子医师造型",
+      "onboard_time": 1699318953,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189373,
       "num": 189373,
       "word": "热刺赛季首败",
@@ -459,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166315,
-      "num": 166315,
-      "word": "郑合惠子医师造型",
-      "onboard_time": 1699318953,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165756,
       "num": 165756,
       "word": "小小年龄就掌握了供求关系",
@@ -497,6 +505,14 @@
       "onboard_time": 1699315714,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157596,
+      "num": 157596,
+      "word": "财政部通报8起地方政府隐性债务问责典型案例",
+      "onboard_time": 1699320332,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 157236,
@@ -643,6 +659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112433,
+      "num": 112433,
+      "word": "好耀眼的SANA酱",
+      "onboard_time": 1699319974,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112217,
       "num": 112217,
       "word": "他在准备告白她在准备离开",
@@ -665,6 +689,22 @@
       "onboard_time": 1699281522,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109407,
+      "num": 109407,
+      "word": "秦昊长发造型",
+      "onboard_time": 1699320690,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109210,
+      "num": 109210,
+      "word": "杰克逊帽子戏法",
+      "onboard_time": 1699320870,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 103514,
