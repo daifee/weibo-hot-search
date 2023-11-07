@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699328070871,
+  "endTime": 1699330819931,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -121,6 +121,14 @@
       "onboard_time": 1699157973,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2599452,
+      "num": 1031219,
+      "word": "轨是昨天出的 人是今天没的",
+      "onboard_time": 1699327411,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 2555508,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1689959,
+      "num": 1689959,
+      "word": "果郡王口碑一夜逆转",
+      "onboard_time": 1699323990,
+      "rank": 7,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 1650872,
       "num": 1650872,
       "word": "RNG能不能把gala卡回来",
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1497508,
+      "num": 1497508,
+      "word": "警方检方回应网传4岁半女童遭杀害",
+      "onboard_time": 1699327892,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483784,
       "num": 1483784,
       "word": "医院院长倒卖出生证明每张赚6万",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 1355423,
-      "num": 363221,
+      "num": 597597,
       "word": "刘亦菲家人照片 基因的稳定发挥",
       "onboard_time": 1699323692,
       "rank": 30,
@@ -619,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1085365,
-      "num": 1085365,
-      "word": "果郡王口碑一夜逆转",
-      "onboard_time": 1699323990,
-      "rank": 7,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 1083594,
       "num": 1083594,
       "word": "谁家接吻戴墨镜啊",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 1024864,
-      "num": 295867,
+      "num": 352981,
       "word": "揉腹多了才发现身体堆了垃圾",
       "onboard_time": 1699319613,
       "rank": 30,
@@ -731,8 +747,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 956887,
+      "num": 956887,
+      "word": "华晨宇申请强制黑粉道歉",
+      "onboard_time": 1699328312,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952059,
-      "num": 337791,
+      "num": 366171,
       "word": "黑龙江百余天内连发两起体育馆坍塌事故",
       "onboard_time": 1699325609,
       "rank": 11,
@@ -883,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 839986,
+      "num": 596180,
+      "word": "曾黎终于正确使用美貌了",
+      "onboard_time": 1699329213,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824837,
       "num": 824837,
       "word": "卫健委通报医院贩卖出生证及婴儿",
@@ -913,6 +945,14 @@
       "onboard_time": 1699251813,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809411,
+      "num": 595311,
+      "word": "肖战好矜贵",
+      "onboard_time": 1699330418,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 809184,
@@ -1155,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 665891,
+      "num": 665891,
+      "word": "Tarzan向队友道歉",
+      "onboard_time": 1699328132,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 660622,
       "num": 660622,
       "word": "暴雪下的哈尔滨",
@@ -1315,6 +1363,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 610321,
+      "num": 610321,
+      "word": "淄博烧烤从业者现在都怎么样了",
+      "onboard_time": 1699328253,
+      "rank": 8,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 607609,
       "num": 607609,
       "word": "官方回应佳木斯一体育馆发生坍塌",
@@ -1363,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599030,
+      "num": 599030,
+      "word": "ZZxinqing",
+      "onboard_time": 1699327709,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597217,
       "num": 597217,
       "word": "芒果的纯元回来了",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1699141164,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 594419,
+      "num": 594419,
+      "word": "张新成姓张也性张",
+      "onboard_time": 1699328491,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 587200,
@@ -1457,6 +1529,14 @@
       "onboard_time": 1699189894,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557439,
+      "num": 557439,
+      "word": "LNG输比赛多品牌直播间抗寒梗爆了",
+      "onboard_time": 1699328791,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 555634,
@@ -1899,6 +1979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443478,
+      "num": 443478,
+      "word": "与凤行 江苏卫视",
+      "onboard_time": 1699330656,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442572,
       "num": 442572,
       "word": "女子全麻术后被好友轮流拿喇叭叫醒",
@@ -2209,6 +2297,14 @@
       "onboard_time": 1699323570,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388865,
+      "num": 388865,
+      "word": "湖北4岁半女童遭杀害家属发声",
+      "onboard_time": 1699329996,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386150,
@@ -2587,6 +2683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327799,
+      "num": 327799,
+      "word": "邓紫棋巡演官宣四站",
+      "onboard_time": 1699328791,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327211,
       "num": 327211,
       "word": "三把零龙",
@@ -2715,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305414,
+      "num": 305414,
+      "word": "离职前可以这样退群",
+      "onboard_time": 1699326868,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303064,
       "num": 294751,
       "word": "杨超越新剧演女大",
@@ -2763,12 +2875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294999,
-      "num": 294999,
-      "word": "离职前可以这样退群",
-      "onboard_time": 1699326868,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 294393,
+      "num": 294393,
+      "word": "GPTs",
+      "onboard_time": 1699329636,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 292389,
@@ -2987,11 +3099,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265588,
-      "num": 304686,
-      "word": "ZZxinqing",
-      "onboard_time": 1699327709,
-      "rank": 16,
+      "raw_hot": 266261,
+      "num": 266261,
+      "word": "佳木斯坍塌体育馆二楼商家事发当日正好休息",
+      "onboard_time": 1699329454,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3001,6 +3113,14 @@
       "onboard_time": 1699314270,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263101,
+      "num": 263101,
+      "word": "白鹿温柔盘发妆",
+      "onboard_time": 1699329213,
+      "rank": 28,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 262945,
@@ -3803,6 +3923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208823,
+      "num": 208823,
+      "word": "吴磊在线找游戏搭子",
+      "onboard_time": 1699329814,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208302,
       "num": 208302,
       "word": "哈登快船首秀",
@@ -3833,14 +3961,6 @@
       "onboard_time": 1699250914,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207879,
-      "num": 195640,
-      "word": "轨是昨天出的 人是今天没的",
-      "onboard_time": 1699327411,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 207492,
@@ -4147,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196460,
+      "num": 196460,
+      "word": "权志龙好拽",
+      "onboard_time": 1699330418,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196142,
       "num": 196142,
       "word": "主持人大赛",
@@ -4169,14 +4297,6 @@
       "onboard_time": 1699323870,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195286,
-      "num": 195286,
-      "word": "警方检方回应网传4岁半女童遭杀害",
-      "onboard_time": 1699327892,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195068,
@@ -4292,7 +4412,7 @@
     },
     {
       "raw_hot": 192211,
-      "num": 198113,
+      "num": 229975,
       "word": "父亲牺牲10年后女儿继承警号",
       "onboard_time": 1699326630,
       "rank": 32,
@@ -4449,6 +4569,14 @@
       "onboard_time": 1699228894,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186849,
+      "num": 186849,
+      "word": "以爱为营 猎人常以猎物形式出现",
+      "onboard_time": 1699330597,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 186834,
@@ -4731,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169418,
+      "num": 169418,
+      "word": "黄黑皮秋冬平价本命口红",
+      "onboard_time": 1699330176,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 168838,
       "num": 160953,
       "word": "进击的巨人群像图",
@@ -4745,6 +4881,14 @@
       "onboard_time": 1699216813,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168425,
+      "num": 168425,
+      "word": "OpenAI推出自定义版本ChatGPT",
+      "onboard_time": 1699329696,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 167838,
@@ -4811,6 +4955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165688,
+      "num": 165688,
+      "word": "左梓轩PCL夏季赛MVP",
+      "onboard_time": 1699329814,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165199,
       "num": 365166,
       "word": "马龙说用最好的状态面对决赛",
@@ -4849,6 +5001,14 @@
       "onboard_time": 1699195656,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163150,
+      "num": 163150,
+      "word": "每月几百块电费都花哪了",
+      "onboard_time": 1699328552,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 162960,
@@ -5097,6 +5257,14 @@
       "onboard_time": 1699233033,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 154003,
+      "num": 154003,
+      "word": "华晨宇演唱会圆梦特教老师",
+      "onboard_time": 1699329454,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 153725,
@@ -6187,6 +6355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 103063,
+      "num": 113790,
+      "word": "仙人抚我顶 结发受长生",
+      "onboard_time": 1699330776,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102815,
       "num": 102815,
       "word": "为什么觉得护肤品小样比正装好用",
@@ -6587,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70890,
+      "num": 1145480,
+      "word": "2023年世界互联网大会乌镇峰会",
+      "onboard_time": 1699326451,
+      "rank": 2,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 70354,
       "num": 439827,
       "word": "你们健身的人都没有味觉是吧",
@@ -6745,14 +6929,6 @@
       "onboard_time": 1699261293,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 44469,
-      "num": 1145480,
-      "word": "2023年世界互联网大会乌镇峰会",
-      "onboard_time": 1699326451,
-      "rank": 2,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 42712,
@@ -6948,6 +7124,9 @@
     },
     {
       "word": "#习近平会见古巴总理#"
+    },
+    {
+      "word": "#习近平会见澳大利亚总理#"
     }
   ]
 }
