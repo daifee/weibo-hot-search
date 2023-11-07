@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699399057441,
+  "endTime": 1699400054347,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -329,6 +329,14 @@
       "onboard_time": 1699257332,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1764859,
+      "num": 1764859,
+      "word": "中山二院通报",
+      "onboard_time": 1699399346,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1754968,
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 1107179,
-      "num": 279100,
+      "num": 347981,
       "word": "曾黎停止这场闹剧吧",
       "onboard_time": 1699372351,
       "rank": 10,
@@ -1715,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 620946,
+      "num": 620946,
+      "word": "今日立冬",
+      "onboard_time": 1699398505,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620008,
       "num": 620008,
       "word": "女生称生病拒绝周末无偿加班被辞退",
@@ -2019,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548532,
-      "num": 548532,
-      "word": "今日立冬",
-      "onboard_time": 1699398505,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -2225,6 +2233,14 @@
       "onboard_time": 1699276534,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505960,
+      "num": 505960,
+      "word": "宁安如梦 歹毒运镜",
+      "onboard_time": 1699399407,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 504547,
@@ -2435,6 +2451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 465632,
+      "num": 465632,
+      "word": "张踩铃 别让孩子成为情绪的宣泄口",
+      "onboard_time": 1699393333,
+      "rank": 13,
+      "category": "综艺,母婴育儿"
+    },
+    {
       "raw_hot": 465078,
       "num": 465078,
       "word": "WB回应争议",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1699360715,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443206,
-      "num": 443206,
-      "word": "张踩铃 别让孩子成为情绪的宣泄口",
-      "onboard_time": 1699393333,
-      "rank": 13,
-      "category": "综艺,母婴育儿"
     },
     {
       "raw_hot": 442572,
@@ -3147,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359212,
+      "num": 359212,
+      "word": "新疆地震",
+      "onboard_time": 1699398684,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358403,
       "num": 358403,
       "word": "今天的巩俐 我老公",
@@ -3483,6 +3507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325497,
+      "num": 325497,
+      "word": "京东采销回应刘强东老家水龙头漏水",
+      "onboard_time": 1699398924,
+      "rank": 17,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 324062,
       "num": 324062,
       "word": "豆瓣崩了",
@@ -3713,6 +3745,14 @@
       "onboard_time": 1699329636,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 293271,
+      "num": 293271,
+      "word": "别高估一年别低估十年",
+      "onboard_time": 1699395977,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 292389,
@@ -4163,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253807,
+      "num": 253807,
+      "word": "立冬吃饺子",
+      "onboard_time": 1699399766,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253591,
       "num": 253591,
       "word": "麻辣烫荤素均价按斤卖合理吗",
@@ -4563,14 +4611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 234406,
-      "num": 166214,
-      "word": "别高估一年别低估十年",
-      "onboard_time": 1699395977,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234123,
       "num": 234123,
       "word": "王阳怎么不说王子请看剧",
@@ -4753,6 +4793,14 @@
       "onboard_time": 1699099478,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226129,
+      "num": 226129,
+      "word": "产妇羊水栓塞抢救15分钟后成功分娩",
+      "onboard_time": 1699398144,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225706,
@@ -4961,6 +5009,14 @@
       "onboard_time": 1699233573,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 213713,
+      "num": 213713,
+      "word": "欧冠",
+      "onboard_time": 1699399287,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 213499,
@@ -5209,6 +5265,14 @@
       "onboard_time": 1699190262,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203896,
+      "num": 203896,
+      "word": "东方沙包",
+      "onboard_time": 1699399886,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203482,
@@ -5979,14 +6043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184049,
-      "num": 184049,
-      "word": "产妇羊水栓塞抢救15分钟后成功分娩",
-      "onboard_time": 1699398144,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183300,
       "num": 185127,
       "word": "赛博围棋最抽象的一局",
@@ -6001,6 +6057,14 @@
       "onboard_time": 1699226186,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182426,
+      "num": 182426,
+      "word": "浙江一中学学生有了校内家长",
+      "onboard_time": 1699398144,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 182238,
@@ -6355,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167118,
+      "num": 167118,
+      "word": "医生提醒不要皮肤一干就敷面膜",
+      "onboard_time": 1699398864,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166825,
       "num": 166825,
       "word": "天气温度断崖式下跌",
@@ -6401,14 +6473,6 @@
       "onboard_time": 1699329814,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165568,
-      "num": 165568,
-      "word": "浙江一中学学生有了校内家长",
-      "onboard_time": 1699398144,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 165199,
@@ -7041,14 +7105,6 @@
       "onboard_time": 1699321172,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145511,
-      "num": 145511,
-      "word": "京东采销回应刘强东老家水龙头漏水",
-      "onboard_time": 1699398924,
-      "rank": 17,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 145290,
@@ -8171,6 +8227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102507,
+      "num": 110323,
+      "word": "女儿上网喊爸交学费乘警叫停及时止损",
+      "onboard_time": 1699398201,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101815,
       "num": 116436,
       "word": "朴志效好有生命力的美",
@@ -8185,14 +8249,6 @@
       "onboard_time": 1699270715,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 101548,
-      "num": 101548,
-      "word": "新疆地震",
-      "onboard_time": 1699398684,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101426,
@@ -8419,6 +8475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88640,
+      "num": 88640,
+      "word": "我的秘密被朋友拿去开店了",
+      "onboard_time": 1699393034,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87610,
       "num": 87610,
       "word": "雪鸢真的意难平",
@@ -8513,6 +8577,14 @@
       "onboard_time": 1699293863,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 81395,
+      "num": 81395,
+      "word": "曼城vs年轻人",
+      "onboard_time": 1699399107,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 80454,
@@ -8611,14 +8683,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 74126,
-      "num": 85849,
-      "word": "女儿上网喊爸交学费乘警叫停及时止损",
-      "onboard_time": 1699398201,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74107,
       "num": 367573,
       "word": "iQOO发布首款自研电竞芯片",
@@ -8657,14 +8721,6 @@
       "onboard_time": 1699332338,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 72386,
-      "num": 72386,
-      "word": "医生提醒不要皮肤一干就敷面膜",
-      "onboard_time": 1699398864,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 70890,
@@ -8755,6 +8811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65379,
+      "num": 65379,
+      "word": "喀什震感",
+      "onboard_time": 1699400009,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64819,
       "num": 64819,
       "word": "女子在马拉松场外当众脚踢警察",
@@ -8841,14 +8905,6 @@
       "onboard_time": 1699341273,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 55592,
-      "num": 55592,
-      "word": "我的秘密被朋友拿去开店了",
-      "onboard_time": 1699393034,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 51962,

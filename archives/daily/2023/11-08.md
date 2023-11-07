@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/08 00:23:01 ~ 2023/11/08 07:17:37
+本榜单时间：2023/11/08 00:23:01 ~ 2023/11/08 07:34:14
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%23" target="weibo">
 导师回应网传乳腺外科团队多人患癌（热度：1945263）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23" target="weibo">
+中山二院通报（热度：1764859）
 </a>
 </li>
 
@@ -58,7 +64,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC%23" target="weibo">
-今日立冬（热度：548532）
+今日立冬（热度：620946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C%23" target="weibo">
+宁安如梦 歹毒运镜（热度：505960）
 </a>
 </li>
 
@@ -82,7 +94,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%20%E5%88%AB%E8%AE%A9%E5%AD%A9%E5%AD%90%E6%88%90%E4%B8%BA%E6%83%85%E7%BB%AA%E7%9A%84%E5%AE%A3%E6%B3%84%E5%8F%A3%23" target="weibo">
-张踩铃 别让孩子成为情绪的宣泄口（热度：443206）
+张踩铃 别让孩子成为情绪的宣泄口（热度：465632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23" target="weibo">
+新疆地震（热度：359212）
 </a>
 </li>
 
@@ -99,6 +117,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E5%9B%9E%E5%BA%94%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E6%BC%8F%E6%B0%B4%23" target="weibo">
+京东采销回应刘强东老家水龙头漏水（热度：325497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%9C%89%E4%B8%8D%E5%AE%81%E8%85%BF%E7%BB%BC%E5%90%88%E7%97%87%23" target="weibo">
 你可能有不宁腿综合症（热度：319277）
 </a>
@@ -107,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E8%83%9E%E8%83%8E%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%AD%A6%E5%BC%9F%E5%BC%9F1%E4%BA%BA%E8%83%8C%E8%B4%9F%E4%BA%86%E6%89%80%E6%9C%89%23" target="weibo">
 3胞胎一起上学弟弟1人背负了所有（热度：313373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E9%AB%98%E4%BC%B0%E4%B8%80%E5%B9%B4%E5%88%AB%E4%BD%8E%E4%BC%B0%E5%8D%81%E5%B9%B4%23" target="weibo">
+别高估一年别低估十年（热度：293271）
 </a>
 </li>
 
@@ -135,14 +165,20 @@ Meiko回应Viper（热度：268873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83%23" target="weibo">
+东北大学生正式确诊为华妃（热度：260849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%88%868.7%23" target="weibo">
 以爱为营微博开分8.7（热度：255565）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%8D%8E%E5%A6%83%23" target="weibo">
-东北大学生正式确诊为华妃（热度：255056）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%23" target="weibo">
+立冬吃饺子（热度：253807）
 </a>
 </li>
 
@@ -153,14 +189,14 @@ Meiko回应Viper（热度：268873）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E9%AB%98%E4%BC%B0%E4%B8%80%E5%B9%B4%E5%88%AB%E4%BD%8E%E4%BC%B0%E5%8D%81%E5%B9%B4%23" target="weibo">
-别高估一年别低估十年（热度：234406）
+<a href="https://s.weibo.com/weibo?q=%23kpop%E5%A4%A7%E6%88%98%E4%B8%80%E8%A7%A6%E5%8D%B3%E5%8F%91%23" target="weibo">
+kpop大战一触即发（热度：229668）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23kpop%E5%A4%A7%E6%88%98%E4%B8%80%E8%A7%A6%E5%8D%B3%E5%8F%91%23" target="weibo">
-kpop大战一触即发（热度：229668）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E6%8A%A2%E6%95%9115%E5%88%86%E9%92%9F%E5%90%8E%E6%88%90%E5%8A%9F%E5%88%86%E5%A8%A9%23" target="weibo">
+产妇羊水栓塞抢救15分钟后成功分娩（热度：226129）
 </a>
 </li>
 
@@ -171,8 +207,20 @@ kpop大战一触即发（热度：229668）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%23" target="weibo">
+欧冠（热度：213713）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E8%8B%B1%E4%BF%8A%23" target="weibo">
 七英俊（热度：210190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E6%B2%99%E5%8C%85%23" target="weibo">
+东方沙包（热度：203896）
 </a>
 </li>
 
@@ -195,8 +243,8 @@ kpop大战一触即发（热度：229668）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E6%8A%A2%E6%95%9115%E5%88%86%E9%92%9F%E5%90%8E%E6%88%90%E5%8A%9F%E5%88%86%E5%A8%A9%23" target="weibo">
-产妇羊水栓塞抢救15分钟后成功分娩（热度：184049）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%9C%89%E4%BA%86%E6%A0%A1%E5%86%85%E5%AE%B6%E9%95%BF%23" target="weibo">
+浙江一中学学生有了校内家长（热度：182426）
 </a>
 </li>
 
@@ -213,8 +261,8 @@ kpop大战一触即发（热度：229668）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%9C%89%E4%BA%86%E6%A0%A1%E5%86%85%E5%AE%B6%E9%95%BF%23" target="weibo">
-浙江一中学学生有了校内家长（热度：165568）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E7%9A%AE%E8%82%A4%E4%B8%80%E5%B9%B2%E5%B0%B1%E6%95%B7%E9%9D%A2%E8%86%9C%23" target="weibo">
+医生提醒不要皮肤一干就敷面膜（热度：167118）
 </a>
 </li>
 
@@ -233,12 +281,6 @@ kpop大战一触即发（热度：229668）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%23" target="weibo">
 中山二院（热度：151214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%87%87%E9%94%80%E5%9B%9E%E5%BA%94%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%B0%B4%E9%BE%99%E5%A4%B4%E6%BC%8F%E6%B0%B4%23" target="weibo">
-京东采销回应刘强东老家水龙头漏水（热度：145511）
 </a>
 </li>
 
@@ -269,6 +311,12 @@ kpop大战一触即发（热度：229668）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A4%E8%88%9F%23" target="weibo">
 孤舟（热度：129162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%23" target="weibo">
+中山二院乳腺外科（热度：126490）
 </a>
 </li>
 
@@ -321,6 +369,12 @@ kpop大战一触即发（热度：229668）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%B0%B1%E6%8B%BF%E5%88%80%E5%AD%90%E6%88%B3%E4%BA%86%E5%87%A0%E4%B8%8B%20%E6%9C%B1%E4%B8%B9%E5%B0%B1%E8%BF%99%E4%B9%88%E4%BB%B0%E6%9C%9B%23" target="weibo">
+他就拿刀子戳了几下 朱丹就这么仰望（热度：108590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%AD%90%E5%BA%A7%E7%9C%9F%E6%AD%A3%E7%9A%84e%E4%BA%BA%E5%85%B6%E5%AE%9E%E5%BE%88%E5%B0%91%23" target="weibo">
 双子座真正的e人其实很少（热度：106876）
 </a>
@@ -345,6 +399,12 @@ kpop大战一触即发（热度：229668）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8A%E7%BD%91%E5%96%8A%E7%88%B8%E4%BA%A4%E5%AD%A6%E8%B4%B9%E4%B9%98%E8%AD%A6%E5%8F%AB%E5%81%9C%E5%8F%8A%E6%97%B6%E6%AD%A2%E6%8D%9F%23" target="weibo">
+女儿上网喊爸交学费乘警叫停及时止损（热度：102507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23OST%E7%94%A8%E5%91%A8%E6%B7%B1%E6%89%93%E5%91%A8%E6%B7%B1%23" target="weibo">
 OST用周深打周深（热度：102127）
 </a>
@@ -353,12 +413,6 @@ OST用周深打周深（热度：102127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23" target="weibo">
 林俊杰演唱会门票（热度：101920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87%23" target="weibo">
-新疆地震（热度：101548）
 </a>
 </li>
 
@@ -393,6 +447,12 @@ OST用周深打周深（热度：102127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86%E8%A2%AB%E6%9C%8B%E5%8F%8B%E6%8B%BF%E5%8E%BB%E5%BC%80%E5%BA%97%E4%BA%86%23" target="weibo">
+我的秘密被朋友拿去开店了（热度：88640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E4%BA%8E%E6%99%8F%E6%A1%82%E7%BA%B6%E9%95%81%E7%9B%8A%E8%BE%BE%E5%B9%BF%E5%91%8A%E5%AE%8C%E6%95%B4%E7%89%88%23" target="weibo">
 彭于晏桂纶镁益达广告完整版（热度：86831）
 </a>
@@ -405,8 +465,8 @@ OST用周深打周深（热度：102127）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%B0%B1%E6%8B%BF%E5%88%80%E5%AD%90%E6%88%B3%E4%BA%86%E5%87%A0%E4%B8%8B%20%E6%9C%B1%E4%B8%B9%E5%B0%B1%E8%BF%99%E4%B9%88%E4%BB%B0%E6%9C%9B%23" target="weibo">
-他就拿刀子戳了几下 朱丹就这么仰望（热度：77782）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
+曼城vs年轻人（热度：81395）
 </a>
 </li>
 
@@ -417,20 +477,14 @@ OST用周深打周深（热度：102127）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8A%E7%BD%91%E5%96%8A%E7%88%B8%E4%BA%A4%E5%AD%A6%E8%B4%B9%E4%B9%98%E8%AD%A6%E5%8F%AB%E5%81%9C%E5%8F%8A%E6%97%B6%E6%AD%A2%E6%8D%9F%23" target="weibo">
-女儿上网喊爸交学费乘警叫停及时止损（热度：74126）
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%80%E4%BB%80%E9%9C%87%E6%84%9F%23" target="weibo">
+喀什震感（热度：65379）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E7%9A%AE%E8%82%A4%E4%B8%80%E5%B9%B2%E5%B0%B1%E6%95%B7%E9%9D%A2%E8%86%9C%23" target="weibo">
-医生提醒不要皮肤一干就敷面膜（热度：72386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86%E8%A2%AB%E6%9C%8B%E5%8F%8B%E6%8B%BF%E5%8E%BB%E5%BC%80%E5%BA%97%E4%BA%86%23" target="weibo">
-我的秘密被朋友拿去开店了（热度：55592）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%98%E5%BE%AE%E8%BF%90%E8%90%A5%E7%9A%84%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%A2%E8%B5%B0%E4%BA%86%23" target="weibo">
+奔跑吧官微运营的手机被抢走了（热度：63935）
 </a>
 </li>
 
@@ -443,12 +497,6 @@ OST用周深打周深（热度：102127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E7%B4%A0%E6%B1%90%E6%AF%8F%E5%8F%A5%E8%AF%9D%E9%83%BD%E7%A0%8D%E5%9C%A8%E4%BA%86%E5%A4%A7%E5%A7%A8%E7%9A%84%E5%8A%A8%E8%84%89%E4%B8%8A%23" target="weibo">
 任素汐每句话都砍在了大姨的动脉上（热度：49330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%23" target="weibo">
-中山二院乳腺外科（热度：47512）
 </a>
 </li>
 
