@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699320905391,
+  "endTime": 1699323989456,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -1355,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1221994,
+      "num": 1221994,
+      "word": "节奏大师回归",
+      "onboard_time": 1699313908,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1221560,
       "num": 1221560,
       "word": "王俊凯问学校门口的大哥还认不认得他",
@@ -1739,6 +1747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1024864,
+      "num": 201830,
+      "word": "揉腹多了才发现身体堆了垃圾",
+      "onboard_time": 1699319613,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1023367,
       "num": 777331,
       "word": "被举报与女同事暧昧副市长被免职",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1699061250,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1014837,
+      "num": 1014837,
+      "word": "肖战 宝诗龙",
+      "onboard_time": 1699323810,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014186,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1699283435,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867310,
-      "num": 194447,
-      "word": "揉腹多了才发现身体堆了垃圾",
-      "onboard_time": 1699319613,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 865948,
@@ -2883,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703722,
+      "num": 703722,
+      "word": "女子转售父母生前处方药被判贩毒罪",
+      "onboard_time": 1699321291,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703635,
       "num": 1273507,
       "word": "95后男子被裁员抗争17个月获赔16万9",
@@ -3009,14 +3033,6 @@
       "onboard_time": 1698990454,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 673863,
-      "num": 673863,
-      "word": "节奏大师回归",
-      "onboard_time": 1699313908,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 668611,
@@ -3987,6 +4003,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 536708,
+      "num": 536708,
+      "word": "早期的内娱遍地都是喜剧人",
+      "onboard_time": 1699319974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536423,
       "num": 296626,
       "word": "薛之谦给刘维写歌漏了戚薇",
@@ -4745,6 +4769,14 @@
       "onboard_time": 1698994891,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 462993,
+      "num": 462993,
+      "word": "山东省考",
+      "onboard_time": 1699320928,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 462851,
@@ -6211,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367046,
+      "num": 327308,
+      "word": "李现对接回应出演国色芳华",
+      "onboard_time": 1699323570,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366959,
       "num": 1396104,
       "word": "白鹿第一次见比她还吵吵的男演员",
@@ -6593,14 +6633,6 @@
       "onboard_time": 1699232374,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346435,
-      "num": 346435,
-      "word": "早期的内娱遍地都是喜剧人",
-      "onboard_time": 1699319974,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 345570,
@@ -7737,6 +7769,14 @@
       "onboard_time": 1698906511,
       "rank": 22,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 281325,
+      "num": 201216,
+      "word": "第一次嗑到女主和男N的cp",
+      "onboard_time": 1699321291,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 281124,
@@ -9025,6 +9065,14 @@
       "onboard_time": 1698855091,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241175,
+      "num": 241175,
+      "word": "许凯啄米啄了一分钟",
+      "onboard_time": 1699322609,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 241107,
@@ -10515,6 +10563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206371,
+      "num": 206371,
+      "word": "林昀儒世界排名升至第6",
+      "onboard_time": 1699321230,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206044,
       "num": 206044,
       "word": "其实没有什么隔辈亲",
@@ -10931,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199186,
+      "num": 161410,
+      "word": "刘亦菲家人照片 基因的稳定发挥",
+      "onboard_time": 1699323692,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198867,
       "num": 198867,
       "word": "LOL",
@@ -11187,6 +11251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "郑合惠子医师造型",
+      "onboard_time": 1699318953,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196552,
       "num": 196552,
       "word": "ENHYPEN以为礼物不要钱",
@@ -11369,6 +11441,14 @@
       "onboard_time": 1699005813,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193486,
+      "num": 193486,
+      "word": "王嘉尔的童年女神是杨紫",
+      "onboard_time": 1699323512,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 193483,
@@ -11617,14 +11697,6 @@
       "onboard_time": 1699008996,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190113,
-      "num": 190113,
-      "word": "郑合惠子医师造型",
-      "onboard_time": 1699318953,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 190046,
@@ -12475,6 +12547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174758,
+      "num": 174758,
+      "word": "幼儿园厨师做菜的一天",
+      "onboard_time": 1699318416,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174710,
       "num": 151093,
       "word": "广东的早茶菜单没有价格只有字",
@@ -12505,14 +12585,6 @@
       "onboard_time": 1699225342,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173830,
-      "num": 168137,
-      "word": "幼儿园厨师做菜的一天",
-      "onboard_time": 1699318416,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 173773,
@@ -12619,6 +12691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171521,
+      "num": 171521,
+      "word": "巴以冲突满一个月",
+      "onboard_time": 1699321409,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 171400,
       "num": 171400,
       "word": "被同事直接叫了微信名",
@@ -12705,6 +12785,14 @@
       "onboard_time": 1698834755,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170027,
+      "num": 170027,
+      "word": "120救人返程遇车祸再救5人",
+      "onboard_time": 1699321468,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169862,
@@ -13115,6 +13203,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 162571,
+      "num": 162571,
+      "word": "杨超越黄明昊手势舞",
+      "onboard_time": 1699323870,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162535,
       "num": 162535,
       "word": "尹子维 大叔也是花美男",
@@ -13243,6 +13339,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 160036,
+      "num": 160036,
+      "word": "业内人士回应68元火锅锅底贵不贵",
+      "onboard_time": 1699322972,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159613,
       "num": 159613,
       "word": "魏大勋演我上学状态",
@@ -13289,6 +13393,14 @@
       "onboard_time": 1698820296,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158668,
+      "num": 158668,
+      "word": "财政部通报8起地方政府隐性债务问责典型案例",
+      "onboard_time": 1699320332,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158644,
@@ -13361,14 +13473,6 @@
       "onboard_time": 1699265317,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 157596,
-      "num": 157596,
-      "word": "财政部通报8起地方政府隐性债务问责典型案例",
-      "onboard_time": 1699320332,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 157511,
@@ -14193,6 +14297,14 @@
       "onboard_time": 1699234594,
       "rank": 45,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 145764,
+      "num": 145764,
+      "word": "张小斐说上网会忽略恶评",
+      "onboard_time": 1699321172,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 145757,
@@ -15995,6 +16107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "秦昊长发造型",
+      "onboard_time": 1699320690,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112495,
       "num": 112495,
       "word": "当妈妈第一次尝试暗黑妆",
@@ -16065,6 +16185,14 @@
       "onboard_time": 1698834874,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111823,
+      "num": 111823,
+      "word": "还得看水花兄弟",
+      "onboard_time": 1699321650,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 111773,
@@ -16185,14 +16313,6 @@
       "onboard_time": 1699226606,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109407,
-      "num": 109407,
-      "word": "秦昊长发造型",
-      "onboard_time": 1699320690,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109301,
@@ -16539,6 +16659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99865,
+      "num": 99865,
+      "word": "湖人vs热火",
+      "onboard_time": 1699323270,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99862,
       "num": 206833,
       "word": "东风家族始于1960",
@@ -16803,6 +16931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89184,
+      "num": 89184,
+      "word": "牺牲民警蒋久华被追授一级英模",
+      "onboard_time": 1699323870,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89157,
       "num": 89157,
       "word": "尤长靖都爱的斑斓芋泥卷",
@@ -16865,6 +17001,14 @@
       "onboard_time": 1699192658,
       "rank": 26,
       "category": "电竞,数码"
+    },
+    {
+      "raw_hot": 87261,
+      "num": 87261,
+      "word": "香香软软超拉丝的吐司",
+      "onboard_time": 1699323932,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 85863,

@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699320905391,
+  "endTime": 1699323989456,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1221994,
+      "num": 1221994,
+      "word": "节奏大师回归",
+      "onboard_time": 1699313908,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1185721,
       "num": 576907,
       "word": "刘诗诗下车那段百看不厌",
@@ -639,6 +647,22 @@
       "num": 1035259,
       "word": "权志龙馒化",
       "onboard_time": 1699262553,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1024864,
+      "num": 201830,
+      "word": "揉腹多了才发现身体堆了垃圾",
+      "onboard_time": 1699319613,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1014837,
+      "num": 1014837,
+      "word": "肖战 宝诗龙",
+      "onboard_time": 1699323810,
       "rank": 4,
       "category": "艺人"
     },
@@ -761,14 +785,6 @@
       "onboard_time": 1699283435,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867310,
-      "num": 194447,
-      "word": "揉腹多了才发现身体堆了垃圾",
-      "onboard_time": 1699319613,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 865948,
@@ -1035,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703722,
+      "num": 703722,
+      "word": "女子转售父母生前处方药被判贩毒罪",
+      "onboard_time": 1699321291,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700121,
       "num": 700121,
       "word": "肖战给李健演唱会送花篮",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1699239271,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 673863,
-      "num": 673863,
-      "word": "节奏大师回归",
-      "onboard_time": 1699313908,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 668611,
@@ -1435,6 +1451,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 536708,
+      "num": 536708,
+      "word": "早期的内娱遍地都是喜剧人",
+      "onboard_time": 1699319974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535093,
       "num": 313612,
       "word": "普通人和有钱人取名字区别有多大",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1699193977,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 462993,
+      "num": 462993,
+      "word": "山东省考",
+      "onboard_time": 1699320928,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 462706,
@@ -2211,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367046,
+      "num": 327308,
+      "word": "李现对接回应出演国色芳华",
+      "onboard_time": 1699323570,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364145,
       "num": 317054,
       "word": "刘诗诗穿上高领毛衣还有脖子",
@@ -2321,14 +2361,6 @@
       "onboard_time": 1699232374,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346435,
-      "num": 346435,
-      "word": "早期的内娱遍地都是喜剧人",
-      "onboard_time": 1699319974,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 345958,
@@ -2713,6 +2745,14 @@
       "onboard_time": 1699188456,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281325,
+      "num": 201216,
+      "word": "第一次嗑到女主和男N的cp",
+      "onboard_time": 1699321291,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 281088,
@@ -3129,6 +3169,14 @@
       "onboard_time": 1699268254,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241175,
+      "num": 241175,
+      "word": "许凯啄米啄了一分钟",
+      "onboard_time": 1699322609,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 241107,
@@ -3667,6 +3715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206371,
+      "num": 206371,
+      "word": "林昀儒世界排名升至第6",
+      "onboard_time": 1699321230,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206038,
       "num": 224586,
       "word": "张亮舞台尿裤子险进剧院黑名单",
@@ -3803,6 +3859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199186,
+      "num": 161410,
+      "word": "刘亦菲家人照片 基因的稳定发挥",
+      "onboard_time": 1699323692,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198714,
       "num": 159765,
       "word": "孙颖莎太原站继续出战混双",
@@ -3891,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "郑合惠子医师造型",
+      "onboard_time": 1699318953,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196552,
       "num": 196552,
       "word": "ENHYPEN以为礼物不要钱",
@@ -3977,6 +4049,14 @@
       "onboard_time": 1699082430,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193486,
+      "num": 193486,
+      "word": "王嘉尔的童年女神是杨紫",
+      "onboard_time": 1699323512,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 193483,
@@ -4081,14 +4161,6 @@
       "onboard_time": 1699263035,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190113,
-      "num": 190113,
-      "word": "郑合惠子医师造型",
-      "onboard_time": 1699318953,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 189828,
@@ -4339,6 +4411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174758,
+      "num": 174758,
+      "word": "幼儿园厨师做菜的一天",
+      "onboard_time": 1699318416,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174710,
       "num": 151093,
       "word": "广东的早茶菜单没有价格只有字",
@@ -4353,14 +4433,6 @@
       "onboard_time": 1699225342,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173830,
-      "num": 168137,
-      "word": "幼儿园厨师做菜的一天",
-      "onboard_time": 1699318416,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 173773,
@@ -4417,6 +4489,22 @@
       "onboard_time": 1699263454,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171521,
+      "num": 171521,
+      "word": "巴以冲突满一个月",
+      "onboard_time": 1699321409,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 170027,
+      "num": 170027,
+      "word": "120救人返程遇车祸再救5人",
+      "onboard_time": 1699321468,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169862,
@@ -4555,6 +4643,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 162571,
+      "num": 162571,
+      "word": "杨超越黄明昊手势舞",
+      "onboard_time": 1699323870,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161964,
       "num": 161964,
       "word": "王嘉尔杭州 抢票",
@@ -4611,12 +4707,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 160036,
+      "num": 160036,
+      "word": "业内人士回应68元火锅锅底贵不贵",
+      "onboard_time": 1699322972,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159613,
       "num": 159613,
       "word": "魏大勋演我上学状态",
       "onboard_time": 1699267773,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158668,
+      "num": 158668,
+      "word": "财政部通报8起地方政府隐性债务问责典型案例",
+      "onboard_time": 1699320332,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158635,
@@ -4641,14 +4753,6 @@
       "onboard_time": 1699265317,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 157596,
-      "num": 157596,
-      "word": "财政部通报8起地方政府隐性债务问责典型案例",
-      "onboard_time": 1699320332,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 157195,
@@ -4929,6 +5033,14 @@
       "onboard_time": 1699234594,
       "rank": 45,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 145764,
+      "num": 145764,
+      "word": "张小斐说上网会忽略恶评",
+      "onboard_time": 1699321172,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 145290,
@@ -5571,6 +5683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "秦昊长发造型",
+      "onboard_time": 1699320690,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112468,
       "num": 220623,
       "word": "孙颖莎2比4王艺迪",
@@ -5593,6 +5713,14 @@
       "onboard_time": 1699280505,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111823,
+      "num": 111823,
+      "word": "还得看水花兄弟",
+      "onboard_time": 1699321650,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 111474,
@@ -5657,14 +5785,6 @@
       "onboard_time": 1699109200,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 109407,
-      "num": 109407,
-      "word": "秦昊长发造型",
-      "onboard_time": 1699320690,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109301,
@@ -5851,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99865,
+      "num": 99865,
+      "word": "湖人vs热火",
+      "onboard_time": 1699323270,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99862,
       "num": 206833,
       "word": "东风家族始于1960",
@@ -5971,6 +6099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89184,
+      "num": 89184,
+      "word": "牺牲民警蒋久华被追授一级英模",
+      "onboard_time": 1699323870,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89157,
       "num": 89157,
       "word": "尤长靖都爱的斑斓芋泥卷",
@@ -6009,6 +6145,14 @@
       "onboard_time": 1699192658,
       "rank": 26,
       "category": "电竞,数码"
+    },
+    {
+      "raw_hot": 87261,
+      "num": 87261,
+      "word": "香香软软超拉丝的吐司",
+      "onboard_time": 1699323932,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 84954,

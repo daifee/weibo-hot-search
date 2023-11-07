@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699320905391,
+  "endTime": 1699323989456,
   "band_list": [
     {
       "raw_hot": 2798298,
@@ -19,6 +19,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1221994,
+      "num": 1221994,
+      "word": "节奏大师回归",
+      "onboard_time": 1699313908,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1024864,
+      "num": 201830,
+      "word": "揉腹多了才发现身体堆了垃圾",
+      "onboard_time": 1699319613,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1014837,
+      "num": 1014837,
+      "word": "肖战 宝诗龙",
+      "onboard_time": 1699323810,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 999521,
       "num": 341462,
       "word": "向佐记得郭碧婷小时代每个细节",
@@ -33,14 +57,6 @@
       "onboard_time": 1699277677,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867310,
-      "num": 194447,
-      "word": "揉腹多了才发现身体堆了垃圾",
-      "onboard_time": 1699319613,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 792973,
@@ -59,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673863,
-      "num": 673863,
-      "word": "节奏大师回归",
-      "onboard_time": 1699313908,
-      "rank": 3,
-      "category": "游戏"
+      "raw_hot": 703722,
+      "num": 703722,
+      "word": "女子转售父母生前处方药被判贩毒罪",
+      "onboard_time": 1699321291,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642400,
@@ -107,6 +123,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 536708,
+      "num": 536708,
+      "word": "早期的内娱遍地都是喜剧人",
+      "onboard_time": 1699319974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530763,
       "num": 530763,
       "word": "主持人大赛治好了我的精神内耗",
@@ -147,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462993,
+      "num": 462993,
+      "word": "山东省考",
+      "onboard_time": 1699320928,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 441125,
       "num": 441125,
       "word": "女生为考研戴电击闹钟电破皮都没醒",
@@ -179,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367046,
+      "num": 327308,
+      "word": "李现对接回应出演国色芳华",
+      "onboard_time": 1699323570,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358403,
       "num": 358403,
       "word": "今天的巩俐 我老公",
       "onboard_time": 1699285772,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 346435,
-      "num": 346435,
-      "word": "早期的内娱遍地都是喜剧人",
-      "onboard_time": 1699319974,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 335324,
@@ -241,6 +273,14 @@
       "onboard_time": 1699312586,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281325,
+      "num": 201216,
+      "word": "第一次嗑到女主和男N的cp",
+      "onboard_time": 1699321291,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 272497,
@@ -297,6 +337,14 @@
       "onboard_time": 1699281765,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241175,
+      "num": 241175,
+      "word": "许凯啄米啄了一分钟",
+      "onboard_time": 1699322609,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 239943,
@@ -379,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206371,
+      "num": 206371,
+      "word": "林昀儒世界排名升至第6",
+      "onboard_time": 1699321230,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205902,
       "num": 205902,
       "word": "佳木斯体育馆坍塌救援在大雪中进行",
@@ -393,6 +449,14 @@
       "onboard_time": 1699312825,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199186,
+      "num": 161410,
+      "word": "刘亦菲家人照片 基因的稳定发挥",
+      "onboard_time": 1699323692,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198491,
@@ -411,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "郑合惠子医师造型",
+      "onboard_time": 1699318953,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193904,
       "num": 193904,
       "word": "匪我思存不愧是亲妈",
@@ -419,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193486,
+      "num": 193486,
+      "word": "王嘉尔的童年女神是杨紫",
+      "onboard_time": 1699323512,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191051,
       "num": 108657,
       "word": "热刺单场两红",
       "onboard_time": 1699313007,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190113,
-      "num": 190113,
-      "word": "郑合惠子医师造型",
-      "onboard_time": 1699318953,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 189373,
@@ -459,8 +531,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173830,
-      "num": 168137,
+      "raw_hot": 174758,
+      "num": 174758,
       "word": "幼儿园厨师做菜的一天",
       "onboard_time": 1699318416,
       "rank": 31,
@@ -475,12 +547,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171521,
+      "num": 171521,
+      "word": "巴以冲突满一个月",
+      "onboard_time": 1699321409,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 170027,
+      "num": 170027,
+      "word": "120救人返程遇车祸再救5人",
+      "onboard_time": 1699321468,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165756,
       "num": 165756,
       "word": "小小年龄就掌握了供求关系",
       "onboard_time": 1699318533,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162571,
+      "num": 162571,
+      "word": "杨超越黄明昊手势舞",
+      "onboard_time": 1699323870,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161924,
@@ -499,20 +595,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160036,
+      "num": 160036,
+      "word": "业内人士回应68元火锅锅底贵不贵",
+      "onboard_time": 1699322972,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 158668,
+      "num": 158668,
+      "word": "财政部通报8起地方政府隐性债务问责典型案例",
+      "onboard_time": 1699320332,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 158533,
       "num": 158533,
       "word": "奔跑吧打卡西泠印社",
       "onboard_time": 1699315714,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157596,
-      "num": 157596,
-      "word": "财政部通报8起地方政府隐性债务问责典型案例",
-      "onboard_time": 1699320332,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 157236,
@@ -569,6 +673,14 @@
       "onboard_time": 1699315114,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145764,
+      "num": 145764,
+      "word": "张小斐说上网会忽略恶评",
+      "onboard_time": 1699321172,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 142880,
@@ -659,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "秦昊长发造型",
+      "onboard_time": 1699320690,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112433,
       "num": 112433,
       "word": "好耀眼的SANA酱",
@@ -675,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111823,
+      "num": 111823,
+      "word": "还得看水花兄弟",
+      "onboard_time": 1699321650,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111474,
       "num": 111474,
       "word": "张杰车内看信",
@@ -689,14 +817,6 @@
       "onboard_time": 1699281522,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109407,
-      "num": 109407,
-      "word": "秦昊长发造型",
-      "onboard_time": 1699320690,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109210,
@@ -731,11 +851,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99865,
+      "num": 99865,
+      "word": "湖人vs热火",
+      "onboard_time": 1699323270,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94395,
       "num": 94395,
       "word": "哈尔滨的哈是哈利波特的哈",
       "onboard_time": 1699280863,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89184,
+      "num": 89184,
+      "word": "牺牲民警蒋久华被追授一级英模",
+      "onboard_time": 1699323870,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -753,6 +889,14 @@
       "onboard_time": 1699312404,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87261,
+      "num": 87261,
+      "word": "香香软软超拉丝的吐司",
+      "onboard_time": 1699323932,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 85690,
@@ -828,7 +972,7 @@
     },
     {
       "raw_hot": 60435,
-      "num": 1057717,
+      "num": 1249518,
       "word": "进博会到底有多好逛",
       "onboard_time": 1699276296,
       "rank": 2,
