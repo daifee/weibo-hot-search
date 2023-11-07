@@ -1,0 +1,410 @@
+{
+  "runTime": 1699367660131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3055537,
+        "num": 3055537,
+        "word": "导师回应网传乳腺外科团队多人患癌",
+        "onboard_time": 1699366535,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232081,
+        "num": 1232081,
+        "word": "第一次见放了6集男主叫不出女主名字的",
+        "onboard_time": 1699359334,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109459,
+        "num": 1125366,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1111056,
+        "num": 1111056,
+        "word": "东北大学生正式确诊为华妃",
+        "onboard_time": 1699362997,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943593,
+        "num": 943593,
+        "word": "白鹿张凌赫好会亲",
+        "onboard_time": 1699361914,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 831682,
+        "num": 831682,
+        "word": "卫健委回应网传中山二附院多名学生患癌",
+        "onboard_time": 1699366476,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860372,
+        "num": 824768,
+        "word": "姜雪宁和嫋嫋境遇好像",
+        "onboard_time": 1699364380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746836,
+        "num": 746836,
+        "word": "网友提醒刘强东老家水龙头忘关了",
+        "onboard_time": 1699355195,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612349,
+        "num": 612349,
+        "word": "宁安如梦空降",
+        "onboard_time": 1699348057,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483333,
+        "num": 483333,
+        "word": "小鹏",
+        "onboard_time": 1699363536,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1331483,
+        "num": 479613,
+        "word": "中山二院",
+        "onboard_time": 1699357535,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652441,
+        "num": 474442,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447109,
+        "num": 447109,
+        "word": "爱奇艺用白鹿对打白鹿",
+        "onboard_time": 1699349734,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444817,
+        "num": 444817,
+        "word": "金莎男友是山东蓝翔出来的吗",
+        "onboard_time": 1699350455,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367754,
+        "num": 367754,
+        "word": "黄凯哭了",
+        "onboard_time": 1699365995,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50271,
+        "num": 347764,
+        "word": "iQOO12手机性能有多顶",
+        "onboard_time": 1699365577,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 346808,
+        "num": 346808,
+        "word": "魏大勋冷脸甩伞",
+        "onboard_time": 1699351056,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338089,
+        "num": 338089,
+        "word": "为了省一块钱花了两千多",
+        "onboard_time": 1699357112,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317932,
+        "num": 317932,
+        "word": "打工罢了 不必太上头",
+        "onboard_time": 1699366476,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293687,
+        "num": 293687,
+        "word": "奔跑吧",
+        "onboard_time": 1699359755,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68123,
+        "num": 288510,
+        "word": "iQOO12价格",
+        "onboard_time": 1699365697,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 417443,
+        "num": 288190,
+        "word": "孤注一掷最终票房38.48亿",
+        "onboard_time": 1699366177,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287614,
+        "num": 287614,
+        "word": "林俊杰演唱会门票",
+        "onboard_time": 1699361736,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284505,
+        "num": 284505,
+        "word": "张颂文再演反派",
+        "onboard_time": 1699367198,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274690,
+        "num": 274690,
+        "word": "为什么全身上下脸部皮肤最差",
+        "onboard_time": 1699364734,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265005,
+        "num": 265005,
+        "word": "苏醒没有陈楚生的比赛不愿意留到最后",
+        "onboard_time": 1699366777,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260736,
+        "num": 260736,
+        "word": "医院贩卖出生证及婴儿三大疑问待解",
+        "onboard_time": 1699365157,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239183,
+        "num": 239183,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193970,
+        "num": 193970,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113572,
+        "num": 192519,
+        "word": "从不能行走到跑完41个全马",
+        "onboard_time": 1699366117,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 237885,
+        "num": 192513,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192497,
+        "num": 192497,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1699366597,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182803,
+        "num": 182803,
+        "word": "蒋勤勤 认定吴磊是我儿子了",
+        "onboard_time": 1699357593,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178389,
+        "num": 178389,
+        "word": "秦岚一说话我就想给她换电池",
+        "onboard_time": 1699363176,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176415,
+        "num": 176415,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167581,
+        "num": 167581,
+        "word": "懂车帝实测",
+        "onboard_time": 1699362212,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167258,
+        "num": 167258,
+        "word": "王彦霖艾佳妮分手五年后结婚",
+        "onboard_time": 1699367619,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166057,
+        "num": 166057,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261770,
+        "num": 165436,
+        "word": "体育馆坍塌幸存男孩亲述逃生经历",
+        "onboard_time": 1699360715,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153648,
+        "num": 163615,
+        "word": "老人捡到4只丹顶鹤以为是山羊",
+        "onboard_time": 1699356274,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162694,
+        "num": 162694,
+        "word": "热依扎一巴掌梦回甄嬛传",
+        "onboard_time": 1699359037,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 160931,
+        "word": "喜欢看两个聪明人恋爱",
+        "onboard_time": 1699367257,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155835,
+        "num": 155835,
+        "word": "徐明浩费加罗男士十二月刊封面预告",
+        "onboard_time": 1699365995,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150630,
+        "num": 150630,
+        "word": "双子座真正的e人其实很少",
+        "onboard_time": 1699355734,
+        "rank": 43,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 140380,
+        "num": 140380,
+        "word": "王曼昱进国家队十周年",
+        "onboard_time": 1699362577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134775,
+        "num": 134775,
+        "word": "杨幂谈原生家庭的缺失",
+        "onboard_time": 1699348895,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133827,
+        "num": 133827,
+        "word": "最擅长说狠话的星座",
+        "onboard_time": 1699367137,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 95795,
+        "num": 130511,
+        "word": "樊振东孙颖莎顶峰相见",
+        "onboard_time": 1699349254,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129894,
+        "num": 129894,
+        "word": "茄子焖饭",
+        "onboard_time": 1699361793,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128965,
+        "num": 128965,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 49,
+        "category": "游戏,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}
