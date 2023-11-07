@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699374181385,
+  "endTime": 1699375150594,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107179,
+      "num": 279100,
+      "word": "曾黎停止这场闹剧吧",
+      "onboard_time": 1699372351,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1097810,
       "num": 1097810,
       "word": "俞灏明 没成团",
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 766176,
+      "num": 766176,
+      "word": "当以爱为营女主换成张元英",
+      "onboard_time": 1699371695,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 763870,
       "num": 763870,
       "word": "王艺迪4比0王曼昱",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1699148854,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 749769,
-      "num": 279100,
-      "word": "曾黎停止这场闹剧吧",
-      "onboard_time": 1699372351,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 748550,
@@ -1353,14 +1361,6 @@
       "onboard_time": 1699339834,
       "rank": 6,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 744052,
-      "num": 744052,
-      "word": "当以爱为营女主换成张元英",
-      "onboard_time": 1699371695,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 742630,
@@ -1745,6 +1745,14 @@
       "onboard_time": 1699240414,
       "rank": 30,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 608084,
+      "num": 276474,
+      "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
+      "onboard_time": 1699371754,
+      "rank": 11,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 607609,
@@ -2225,14 +2233,6 @@
       "onboard_time": 1699256554,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 497482,
-      "num": 276474,
-      "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
-      "onboard_time": 1699371754,
-      "rank": 11,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 497348,
@@ -3675,6 +3675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 294124,
+      "num": 294124,
+      "word": "你可能有不宁腿综合症",
+      "onboard_time": 1699372234,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 292389,
       "num": 292389,
       "word": "甄嬛传时隔13年再团建",
@@ -4649,14 +4657,6 @@
       "onboard_time": 1699194875,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228548,
-      "num": 228548,
-      "word": "你可能有不宁腿综合症",
-      "onboard_time": 1699372234,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 228331,
@@ -5723,6 +5723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189602,
+      "num": 189602,
+      "word": "邓紫棋很久以后唱尽酸涩与遗憾",
+      "onboard_time": 1699373072,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189460,
       "num": 189460,
       "word": "詹姆斯选择传球被群嘲",
@@ -5921,14 +5929,6 @@
       "onboard_time": 1699160433,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184138,
-      "num": 184138,
-      "word": "邓紫棋很久以后唱尽酸涩与遗憾",
-      "onboard_time": 1699373072,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 183300,
@@ -6520,6 +6520,14 @@
       "word": "魏大勋演我上学状态",
       "onboard_time": 1699267773,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158857,
+      "num": 158857,
+      "word": "陆虎卑微拒绝披荆斩棘",
+      "onboard_time": 1699374269,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -8003,6 +8011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "冷空气到广东变冷气",
+      "onboard_time": 1699373369,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105257,
       "num": 376244,
       "word": "申有娜阿尼亚cos",
@@ -8323,14 +8339,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 86432,
-      "num": 97319,
-      "word": "冷空气到广东变冷气",
-      "onboard_time": 1699373369,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85844,
       "num": 194933,
       "word": "iQOO12面面俱到",
@@ -8345,6 +8353,14 @@
       "onboard_time": 1699151433,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84922,
+      "num": 84922,
+      "word": "张硕听王诗晴说话的表情",
+      "onboard_time": 1699371453,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 83708,
@@ -8705,6 +8721,14 @@
       "onboard_time": 1699341273,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51962,
+      "num": 78670,
+      "word": "6岁男孩与妈妈一起捐出留3年长发",
+      "onboard_time": 1699374927,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51004,
