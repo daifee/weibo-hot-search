@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699364049965,
+  "endTime": 1699366585795,
   "band_list": [
     {
       "raw_hot": 3794345,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1321980,
-      "num": 995196,
+      "num": 1009812,
       "word": "网友提醒刘强东老家水龙头忘关了",
       "onboard_time": 1699355195,
       "rank": 44,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990109,
+      "num": 990109,
+      "word": "东北大学生正式确诊为华妃",
+      "onboard_time": 1699362997,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983324,
       "num": 983324,
       "word": "白鹿张凌赫好会亲",
@@ -305,6 +313,14 @@
       "onboard_time": 1699321291,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893600,
+      "num": 893600,
+      "word": "姜雪宁和嫋嫋境遇好像",
+      "onboard_time": 1699364380,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 855975,
@@ -739,12 +755,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 470796,
+      "num": 262305,
+      "word": "孤注一掷最终票房38.48亿",
+      "onboard_time": 1699366177,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 467599,
       "num": 467599,
       "word": "突然理解为什么姜涛是顶流了",
       "onboard_time": 1699274615,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466911,
+      "num": 466911,
+      "word": "小鹏",
+      "onboard_time": 1699363536,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 462993,
@@ -769,6 +801,14 @@
       "onboard_time": 1699330418,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445589,
+      "num": 393097,
+      "word": "体育馆坍塌幸存男孩亲述逃生经历",
+      "onboard_time": 1699360715,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441125,
@@ -875,20 +915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393097,
-      "num": 393097,
-      "word": "体育馆坍塌幸存男孩亲述逃生经历",
-      "onboard_time": 1699360715,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389081,
       "num": 363123,
       "word": "李现对接回应出演国色芳华",
       "onboard_time": 1699323570,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379939,
+      "num": 379939,
+      "word": "医院贩卖出生证及婴儿三大疑问待解",
+      "onboard_time": 1699365157,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373400,
@@ -1083,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294959,
+      "num": 252554,
+      "word": "为什么全身上下脸部皮肤最差",
+      "onboard_time": 1699364734,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 294393,
       "num": 294393,
       "word": "GPTs",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1699321291,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279479,
-      "num": 279479,
-      "word": "东北大学生正式确诊为华妃",
-      "onboard_time": 1699362997,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277924,
@@ -1275,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252268,
+      "num": 252268,
+      "word": "秦岚一说话我就想给她换电池",
+      "onboard_time": 1699363176,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251711,
       "num": 251711,
       "word": "女娲毕设 古力娜扎",
@@ -1371,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237946,
+      "num": 198589,
+      "word": "黄凯哭了",
+      "onboard_time": 1699365995,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236643,
       "num": 344772,
       "word": "ELLE登封造极",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1699318476,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227388,
+      "num": 227388,
+      "word": "姜雪宁好拽",
+      "onboard_time": 1699366117,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 227010,
@@ -1899,20 +1963,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185437,
+      "num": 185437,
+      "word": "懂车帝实测",
+      "onboard_time": 1699362212,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 185150,
       "num": 185150,
       "word": "上海地铁",
       "onboard_time": 1699358254,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184271,
-      "num": 184271,
-      "word": "懂车帝实测",
-      "onboard_time": 1699362212,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 182238,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1699331675,
       "rank": 39,
       "category": "剧集,幽默"
+    },
+    {
+      "raw_hot": 179076,
+      "num": 179076,
+      "word": "徐明浩费加罗男士十二月刊封面预告",
+      "onboard_time": 1699365995,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178513,
@@ -2025,14 +2097,6 @@
       "onboard_time": 1699329696,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 167846,
-      "num": 167846,
-      "word": "小鹏",
-      "onboard_time": 1699363536,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 167410,
@@ -2307,6 +2371,14 @@
       "category": "电影,情感"
     },
     {
+      "raw_hot": 146812,
+      "num": 200037,
+      "word": "从不能行走到跑完41个全马",
+      "onboard_time": 1699366117,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 145955,
       "num": 145955,
       "word": "原神芙宁娜",
@@ -2531,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123203,
+      "num": 123203,
+      "word": "导师回应网传乳腺外科团队多人患癌",
+      "onboard_time": 1699366535,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122947,
       "num": 122947,
       "word": "陆虎清唱为有暗香来片尾曲",
@@ -2545,6 +2625,14 @@
       "onboard_time": 1699271252,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122773,
+      "num": 122773,
+      "word": "打工罢了 不必太上头",
+      "onboard_time": 1699366476,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121570,
@@ -2563,12 +2651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121080,
-      "num": 121080,
-      "word": "秦岚一说话我就想给她换电池",
-      "onboard_time": 1699363176,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 120023,
+      "num": 120023,
+      "word": "苹果热橙茶",
+      "onboard_time": 1699365936,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 119943,
@@ -2595,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115298,
+      "num": 115298,
+      "word": "好吧 原来是我不会玩",
+      "onboard_time": 1699366416,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113280,
       "num": 764532,
       "word": "医保新平台帮企业节约人工6000小时",
@@ -2609,6 +2705,14 @@
       "onboard_time": 1699320690,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112897,
+      "num": 121301,
+      "word": "卫健委回应网传中山二附院多名学生患癌",
+      "onboard_time": 1699366476,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112596,
@@ -2787,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77671,
+      "num": 996584,
+      "word": "乌镇网事",
+      "onboard_time": 1699361194,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76975,
       "num": 501259,
       "word": "天猫观爱行动送老年人陪伴摄像头",
@@ -2843,6 +2955,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 68521,
+      "num": 266931,
+      "word": "iQOO12价格",
+      "onboard_time": 1699365697,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 62164,
       "num": 62164,
       "word": "江湖你撒手 徐斯你撒口",
@@ -2891,14 +3011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56020,
-      "num": 435061,
-      "word": "乌镇网事",
-      "onboard_time": 1699361194,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 55770,
       "num": 231233,
       "word": "iQOO12万里舷窗设计",
@@ -2921,6 +3033,14 @@
       "onboard_time": 1699356455,
       "rank": 39,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 31461,
+      "num": 390630,
+      "word": "iQOO12手机性能有多顶",
+      "onboard_time": 1699365577,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 27796,
