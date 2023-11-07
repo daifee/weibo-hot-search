@@ -1,0 +1,410 @@
+{
+  "runTime": 1699352320302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751937,
+        "num": 1751937,
+        "word": "宁安如梦空降",
+        "onboard_time": 1699348057,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477723,
+        "num": 1748555,
+        "word": "小区保安要辞职业主群刷屏挽留",
+        "onboard_time": 1699350695,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61375,
+        "num": 1739027,
+        "word": "AI眼中的中国",
+        "onboard_time": 1699343492,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 2213642,
+        "num": 1736465,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338156,
+        "num": 1724769,
+        "word": "樊振东孙颖莎顶峰相见",
+        "onboard_time": 1699349254,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1722066,
+        "num": 1722066,
+        "word": "官方通报医院被举报贩卖出生证及婴儿",
+        "onboard_time": 1699348776,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918164,
+        "num": 918164,
+        "word": "爱奇艺用白鹿对打白鹿",
+        "onboard_time": 1699349734,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787949,
+        "num": 787949,
+        "word": "金莎男友是山东蓝翔出来的吗",
+        "onboard_time": 1699350455,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605802,
+        "num": 605802,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 595899,
+        "num": 595899,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1180012,
+        "num": 579689,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561787,
+        "num": 561787,
+        "word": "杨幂谈原生家庭的缺失",
+        "onboard_time": 1699348895,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479290,
+        "num": 479290,
+        "word": "田小娟柳智敏张元英合作新歌",
+        "onboard_time": 1699349134,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432538,
+        "num": 432538,
+        "word": "宁安如梦6天连更16集",
+        "onboard_time": 1699348175,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70990,
+        "num": 430690,
+        "word": "天猫观爱行动送老年人陪伴摄像头",
+        "onboard_time": 1699351234,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 430463,
+        "num": 430463,
+        "word": "魏大勋冷脸甩伞",
+        "onboard_time": 1699351056,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423596,
+        "num": 423596,
+        "word": "张艺谋儿子甄子丹女儿 巴黎名媛舞会",
+        "onboard_time": 1699346978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113280,
+        "num": 420783,
+        "word": "医保新平台帮企业节约人工6000小时",
+        "onboard_time": 1699351836,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418930,
+        "num": 418930,
+        "word": "薛之谦郑州演唱会举办方被罚8万",
+        "onboard_time": 1699349973,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390037,
+        "num": 390037,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 452582,
+        "num": 389852,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376228,
+        "num": 376228,
+        "word": "何猷君曾担心奚梦瑶嫌弃他",
+        "onboard_time": 1699351594,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366260,
+        "num": 366260,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351441,
+        "num": 351441,
+        "word": "地瓜拿铁",
+        "onboard_time": 1699350756,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 324062,
+        "num": 324062,
+        "word": "豆瓣崩了",
+        "onboard_time": 1699351056,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338594,
+        "num": 319320,
+        "word": "东方青苍长珩仙君生生世世的仇敌对手",
+        "onboard_time": 1699351478,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129704,
+        "num": 314681,
+        "word": "体育馆坍塌后逃出男生又返回救同学",
+        "onboard_time": 1699352198,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312884,
+        "num": 312884,
+        "word": "快乐老友记定档",
+        "onboard_time": 1699348776,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300975,
+        "num": 300975,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 271995,
+        "num": 271995,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315135,
+        "num": 271985,
+        "word": "广西6岁女孩沙滩走失遗体被发现",
+        "onboard_time": 1699344933,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297515,
+        "num": 271938,
+        "word": "金莎男友为追她给她做了100多道菜",
+        "onboard_time": 1699333835,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280088,
+        "num": 271927,
+        "word": "张凌赫连播三部古装剧",
+        "onboard_time": 1699351894,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271889,
+        "num": 271889,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 33,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 249938,
+        "num": 249938,
+        "word": "轨是昨天出的 人是今天没的",
+        "onboard_time": 1699327411,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248556,
+        "num": 248556,
+        "word": "张译正式加入摇滚圈",
+        "onboard_time": 1699350635,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238089,
+        "num": 238089,
+        "word": "体育馆坍塌一遇难学生是当地小球王",
+        "onboard_time": 1699347577,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235268,
+        "num": 235268,
+        "word": "朱丹说叫错人名是心魔",
+        "onboard_time": 1699341153,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195589,
+        "num": 195589,
+        "word": "ELLE登封造极",
+        "onboard_time": 1699352258,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 190842,
+        "num": 190842,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219884,
+        "num": 190333,
+        "word": "奔跑吧生态篇探班直播",
+        "onboard_time": 1699351716,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206014,
+        "num": 188779,
+        "word": "要久久爱上星播出",
+        "onboard_time": 1699346256,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186856,
+        "num": 186856,
+        "word": "黑龙江一男子冻死街头",
+        "onboard_time": 1699337910,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180227,
+        "num": 180227,
+        "word": "鸭子为什么很少以油炸的形式出现",
+        "onboard_time": 1699346135,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274475,
+        "num": 179922,
+        "word": "姜雪宁皇后造型",
+        "onboard_time": 1699350994,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178798,
+        "num": 178798,
+        "word": "以爱为营抓手吻",
+        "onboard_time": 1699336833,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172180,
+        "num": 172180,
+        "word": "摩羯座真的很讨厌计划被打乱",
+        "onboard_time": 1699345597,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168882,
+        "num": 168882,
+        "word": "苏士成",
+        "onboard_time": 1699335752,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76737,
+        "num": 164397,
+        "word": "2人跳入冰冷湖水合救落水者",
+        "onboard_time": 1699350635,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163232,
+        "num": 163232,
+        "word": "两只猫亲了一口做了三天噩梦",
+        "onboard_time": 1699346135,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见澳大利亚总理#"
+    }
+  }
+}
