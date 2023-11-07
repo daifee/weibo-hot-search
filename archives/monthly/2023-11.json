@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699313649109,
+  "endTime": 1699319668701,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2798298,
+      "num": 2798298,
+      "word": "佳木斯坍塌体育馆3人遇难",
+      "onboard_time": 1699311985,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2776866,
       "num": 2776866,
       "word": "李克强同志生平照片",
@@ -337,14 +345,6 @@
       "onboard_time": 1698999093,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2356960,
-      "num": 2356960,
-      "word": "佳木斯坍塌体育馆3人遇难",
-      "onboard_time": 1699311985,
-      "rank": 0,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2324942,
@@ -577,6 +577,14 @@
       "onboard_time": 1699270654,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1909088,
+      "num": 1909088,
+      "word": "原来淋巴肉是不能吃的",
+      "onboard_time": 1699313248,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 1836183,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1699252115,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 999521,
+      "num": 308971,
+      "word": "向佐记得郭碧婷小时代每个细节",
+      "onboard_time": 1699316856,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 997549,
@@ -3299,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619518,
+      "num": 619518,
+      "word": "节奏大师回归",
+      "onboard_time": 1699313908,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 619238,
       "num": 619238,
       "word": "睡眠不好等于在身体内养毒",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1699240414,
       "rank": 30,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 610542,
+      "num": 610542,
+      "word": "为研究他喝下幽门螺杆菌培育汤",
+      "onboard_time": 1699316979,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 609734,
@@ -3593,6 +3625,14 @@
       "onboard_time": 1699185876,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 586567,
+      "num": 586567,
+      "word": "北上广很难有花束般的恋爱",
+      "onboard_time": 1699286909,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 586529,
@@ -3913,6 +3953,14 @@
       "onboard_time": 1699014095,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 542664,
+      "num": 542664,
+      "word": "景甜脏脏包妆造",
+      "onboard_time": 1699317033,
+      "rank": 6,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 542156,
@@ -5611,6 +5659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 400192,
+      "num": 285625,
+      "word": "这是考研人的生命线啊",
+      "onboard_time": 1699318177,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 399211,
       "num": 297620,
       "word": "奥恰洛夫晋级冠军赛8强",
@@ -6595,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342267,
+      "num": 168143,
+      "word": "揉腹多了才发现身体堆了垃圾",
+      "onboard_time": 1699319613,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342264,
       "num": 342264,
       "word": "约旦召回驻以色列大使",
@@ -6705,6 +6769,14 @@
       "onboard_time": 1699280863,
       "rank": 21,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 335324,
+      "num": 335324,
+      "word": "方圆脸高级感妆容",
+      "onboard_time": 1699315352,
+      "rank": 8,
+      "category": "美妆"
     },
     {
       "raw_hot": 334669,
@@ -7043,6 +7115,14 @@
       "category": "美妆,互联网"
     },
     {
+      "raw_hot": 315925,
+      "num": 315925,
+      "word": "恒大地产再被强制执行4亿",
+      "onboard_time": 1699314871,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 315271,
       "num": 213581,
       "word": "苹果这台3w块的电脑怎么样",
@@ -7209,14 +7289,6 @@
       "onboard_time": 1698808711,
       "rank": 28,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 306177,
-      "num": 306177,
-      "word": "北上广很难有花束般的恋爱",
-      "onboard_time": 1699286909,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 306110,
@@ -7588,7 +7660,7 @@
     },
     {
       "raw_hot": 284342,
-      "num": 213879,
+      "num": 232809,
       "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
       "onboard_time": 1699312586,
       "rank": 24,
@@ -7987,6 +8059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271354,
+      "num": 271354,
+      "word": "胡彦斌意难平",
+      "onboard_time": 1699314330,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271334,
       "num": 273310,
       "word": "陆沉新卡",
@@ -8184,6 +8264,14 @@
       "word": "闲置太久的鞋子就不要穿了",
       "onboard_time": 1699082430,
       "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263898,
+      "num": 236777,
+      "word": "家里猫猫竟突然复活",
+      "onboard_time": 1699314270,
+      "rank": 20,
       "category": "幽默"
     },
     {
@@ -8481,6 +8569,14 @@
       "onboard_time": 1698829174,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252418,
+      "num": 252418,
+      "word": "1岁宝宝离世捐器官救6人",
+      "onboard_time": 1699318416,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252045,
@@ -9243,6 +9339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232196,
+      "num": 232196,
+      "word": "张钧甯拍追缉瘦了14斤",
+      "onboard_time": 1699318234,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232120,
       "num": 232120,
       "word": "时宴 手控狂喜",
@@ -9723,6 +9827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222373,
+      "num": 222373,
+      "word": "余华真的太会写了",
+      "onboard_time": 1699315052,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 222291,
       "num": 371940,
       "word": "残疾妻子坚持每天给摆摊丈夫送饭",
@@ -9809,6 +9921,14 @@
       "onboard_time": 1699169252,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219599,
+      "num": 219599,
+      "word": "陌生男孩公交上用手护住熟睡乘客",
+      "onboard_time": 1699318476,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219343,
@@ -10075,6 +10195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 211219,
+      "num": 211219,
+      "word": "友情最可怕的不是绝交",
+      "onboard_time": 1699314689,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211150,
       "num": 211150,
       "word": "洗漱后护肤黄金3分钟别错过",
@@ -10249,6 +10377,14 @@
       "onboard_time": 1699082670,
       "rank": 31,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 208302,
+      "num": 208302,
+      "word": "哈登快船首秀",
+      "onboard_time": 1699317455,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 208255,
@@ -12163,6 +12299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177557,
+      "num": 177557,
+      "word": "适合高敏感人的休息方式",
+      "onboard_time": 1699315653,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177365,
       "num": 1394525,
       "word": "深圳震感",
@@ -12345,6 +12489,14 @@
       "onboard_time": 1699225342,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173830,
+      "num": 168137,
+      "word": "幼儿园厨师做菜的一天",
+      "onboard_time": 1699318416,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 173773,
@@ -12723,6 +12875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166315,
+      "num": 166315,
+      "word": "郑合惠子医师造型",
+      "onboard_time": 1699318953,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166303,
       "num": 166303,
       "word": "苏醒回应悍跳预言家",
@@ -12777,6 +12937,14 @@
       "onboard_time": 1698917552,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165756,
+      "num": 165756,
+      "word": "小小年龄就掌握了供求关系",
+      "onboard_time": 1699318533,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 165700,
@@ -12979,6 +13147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161469,
+      "num": 161469,
+      "word": "降低存量房贷利率工作已基本完成",
+      "onboard_time": 1699314754,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161411,
       "num": 161411,
       "word": "文俊辉直播",
@@ -13121,6 +13297,14 @@
       "onboard_time": 1699196558,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158533,
+      "num": 158533,
+      "word": "奔跑吧打卡西泠印社",
+      "onboard_time": 1699315714,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 158299,
@@ -13387,6 +13571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154331,
+      "num": 154331,
+      "word": "魏哲鸣是懂端水的",
+      "onboard_time": 1699318776,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154293,
       "num": 154293,
       "word": "林高远太原",
@@ -13433,6 +13625,14 @@
       "onboard_time": 1699282480,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153633,
+      "num": 153633,
+      "word": "马立奥一路挥手营业",
+      "onboard_time": 1699317580,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 153322,
@@ -13745,6 +13945,14 @@
       "onboard_time": 1698891931,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148856,
+      "num": 148856,
+      "word": "顾云峥男狐狸",
+      "onboard_time": 1699315114,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 148717,
@@ -14131,12 +14339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142962,
-      "num": 108559,
-      "word": "原来淋巴肉是不能吃的",
-      "onboard_time": 1699313248,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 142880,
+      "num": 142880,
+      "word": "热血陈宇不是在被骂就是在被训的路上",
+      "onboard_time": 1699318653,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 142804,
@@ -14433,6 +14641,14 @@
       "onboard_time": 1699069352,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136695,
+      "num": 136695,
+      "word": "早年SHE唱跳现场",
+      "onboard_time": 1699318177,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 136693,
@@ -14787,6 +15003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131547,
+      "num": 131547,
+      "word": "被猫猫发现去了撸猫馆",
+      "onboard_time": 1699290320,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131469,
       "num": 217120,
       "word": "张靓颖半透明蓝色纱裙",
@@ -15033,6 +15257,14 @@
       "onboard_time": 1699240174,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 127455,
+      "num": 127455,
+      "word": "杰克逊模仿C罗",
+      "onboard_time": 1699317634,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127444,
@@ -15289,6 +15521,14 @@
       "onboard_time": 1698880106,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122947,
+      "num": 122947,
+      "word": "陆虎清唱为有暗香来片尾曲",
+      "onboard_time": 1699319376,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122612,
@@ -15681,14 +15921,6 @@
       "onboard_time": 1699071814,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115211,
-      "num": 115211,
-      "word": "被猫猫发现去了撸猫馆",
-      "onboard_time": 1699290320,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 115196,
@@ -17091,20 +17323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60435,
+      "num": 1389208,
+      "word": "进博会到底有多好逛",
+      "onboard_time": 1699276296,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60068,
       "num": 463929,
       "word": "杨紫活动花絮高清图",
       "onboard_time": 1699178670,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60021,
-      "num": 1389208,
-      "word": "进博会到底有多好逛",
-      "onboard_time": 1699276296,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59904,

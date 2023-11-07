@@ -1,0 +1,410 @@
+{
+  "runTime": 1699319668701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2798298,
+        "num": 2798298,
+        "word": "佳木斯坍塌体育馆3人遇难",
+        "onboard_time": 1699311985,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1909088,
+        "num": 1909088,
+        "word": "原来淋巴肉是不能吃的",
+        "onboard_time": 1699313248,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60435,
+        "num": 1057717,
+        "word": "进博会到底有多好逛",
+        "onboard_time": 1699276296,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619518,
+        "num": 619518,
+        "word": "节奏大师回归",
+        "onboard_time": 1699313908,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 610542,
+        "num": 610542,
+        "word": "为研究他喝下幽门螺杆菌培育汤",
+        "onboard_time": 1699316979,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 586567,
+        "num": 586567,
+        "word": "北上广很难有花束般的恋爱",
+        "onboard_time": 1699286909,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 542664,
+        "num": 542664,
+        "word": "景甜脏脏包妆造",
+        "onboard_time": 1699317033,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 467599,
+        "num": 467599,
+        "word": "突然理解为什么姜涛是顶流了",
+        "onboard_time": 1699274615,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335324,
+        "num": 335324,
+        "word": "方圆脸高级感妆容",
+        "onboard_time": 1699315352,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 315925,
+        "num": 315925,
+        "word": "恒大地产再被强制执行4亿",
+        "onboard_time": 1699314871,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 999521,
+        "num": 308971,
+        "word": "向佐记得郭碧婷小时代每个细节",
+        "onboard_time": 1699316856,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561665,
+        "num": 302844,
+        "word": "女大学生肚子大被搓澡阿姨救了一命",
+        "onboard_time": 1699268494,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467144,
+        "num": 295884,
+        "word": "每天1点睡觉的好处",
+        "onboard_time": 1699280863,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400192,
+        "num": 285625,
+        "word": "这是考研人的生命线啊",
+        "onboard_time": 1699318177,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 349224,
+        "num": 273047,
+        "word": "景甜 脸在江山在",
+        "onboard_time": 1699284455,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271354,
+        "num": 271354,
+        "word": "胡彦斌意难平",
+        "onboard_time": 1699314330,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267580,
+        "num": 267580,
+        "word": "主持人大赛治好了我的精神内耗",
+        "onboard_time": 1699310418,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252418,
+        "num": 252418,
+        "word": "1岁宝宝离世捐器官救6人",
+        "onboard_time": 1699318416,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241485,
+        "num": 241485,
+        "word": "权志龙笑着笑着就结束调查了",
+        "onboard_time": 1699274196,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240395,
+        "num": 240395,
+        "word": "女生为考研戴电击闹钟电破皮都没醒",
+        "onboard_time": 1699276656,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263898,
+        "num": 236777,
+        "word": "家里猫猫竟突然复活",
+        "onboard_time": 1699314270,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232809,
+        "num": 232809,
+        "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
+        "onboard_time": 1699312586,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232196,
+        "num": 232196,
+        "word": "张钧甯拍追缉瘦了14斤",
+        "onboard_time": 1699318234,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222373,
+        "num": 222373,
+        "word": "余华真的太会写了",
+        "onboard_time": 1699315052,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 219599,
+        "num": 219599,
+        "word": "陌生男孩公交上用手护住熟睡乘客",
+        "onboard_time": 1699318476,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211219,
+        "num": 211219,
+        "word": "友情最可怕的不是绝交",
+        "onboard_time": 1699314689,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208302,
+        "num": 208302,
+        "word": "哈登快船首秀",
+        "onboard_time": 1699317455,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191570,
+        "num": 191570,
+        "word": "杭州已接洽迪士尼环球影城",
+        "onboard_time": 1699284033,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177557,
+        "num": 177557,
+        "word": "适合高敏感人的休息方式",
+        "onboard_time": 1699315653,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169134,
+        "num": 169134,
+        "word": "苹果这台3w块的电脑怎么样",
+        "onboard_time": 1699286852,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 342267,
+        "num": 168143,
+        "word": "揉腹多了才发现身体堆了垃圾",
+        "onboard_time": 1699319613,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173830,
+        "num": 168137,
+        "word": "幼儿园厨师做菜的一天",
+        "onboard_time": 1699318416,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166315,
+        "num": 166315,
+        "word": "郑合惠子医师造型",
+        "onboard_time": 1699318953,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165756,
+        "num": 165756,
+        "word": "小小年龄就掌握了供求关系",
+        "onboard_time": 1699318533,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161469,
+        "num": 161469,
+        "word": "降低存量房贷利率工作已基本完成",
+        "onboard_time": 1699314754,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158533,
+        "num": 158533,
+        "word": "奔跑吧打卡西泠印社",
+        "onboard_time": 1699315714,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 154331,
+        "word": "魏哲鸣是懂端水的",
+        "onboard_time": 1699318776,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154263,
+        "num": 154263,
+        "word": "空调房里的广东人沉默了",
+        "onboard_time": 1699282660,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153633,
+        "num": 153633,
+        "word": "马立奥一路挥手营业",
+        "onboard_time": 1699317580,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148856,
+        "num": 148856,
+        "word": "顾云峥男狐狸",
+        "onboard_time": 1699315114,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142880,
+        "num": 142880,
+        "word": "热血陈宇不是在被骂就是在被训的路上",
+        "onboard_time": 1699318653,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136695,
+        "num": 136695,
+        "word": "早年SHE唱跳现场",
+        "onboard_time": 1699318177,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134347,
+        "num": 134347,
+        "word": "新疆多地出现罕见红色极光",
+        "onboard_time": 1699276534,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131547,
+        "num": 131547,
+        "word": "被猫猫发现去了撸猫馆",
+        "onboard_time": 1699290320,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128468,
+        "num": 128468,
+        "word": "金莎一个问题暴露了对婚姻的不自信",
+        "onboard_time": 1699282360,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127455,
+        "num": 127455,
+        "word": "杰克逊模仿C罗",
+        "onboard_time": 1699317634,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122947,
+        "num": 122947,
+        "word": "陆虎清唱为有暗香来片尾曲",
+        "onboard_time": 1699319376,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114701,
+        "num": 114701,
+        "word": "权志龙ins事必归正",
+        "onboard_time": 1699281282,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113456,
+        "num": 113456,
+        "word": "是橙子出了轨还是柚子出了轨",
+        "onboard_time": 1699272454,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112014,
+        "num": 112014,
+        "word": "宁安如梦 空降",
+        "onboard_time": 1699263756,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#进博之约#"
+    }
+  }
+}
