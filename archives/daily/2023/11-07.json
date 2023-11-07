@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699370288784,
+  "endTime": 1699371270030,
   "band_list": [
     {
       "raw_hot": 3860827,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895967,
+      "num": 895967,
+      "word": "卫健委回应网传中山二附院多名学生患癌",
+      "onboard_time": 1699366476,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 893600,
       "num": 893600,
       "word": "姜雪宁和嫋嫋境遇好像",
@@ -361,14 +369,6 @@
       "onboard_time": 1699332038,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 831682,
-      "num": 831682,
-      "word": "卫健委回应网传中山二附院多名学生患癌",
-      "onboard_time": 1699366476,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 809802,
@@ -401,6 +401,14 @@
       "onboard_time": 1699330656,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 760539,
+      "num": 760539,
+      "word": "打工罢了 不必太上头",
+      "onboard_time": 1699366476,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 744387,
@@ -675,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 552431,
-      "num": 552431,
-      "word": "打工罢了 不必太上头",
-      "onboard_time": 1699366476,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 551158,
       "num": 446859,
       "word": "金莎和男友的第一张合影",
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 470796,
-      "num": 351305,
+      "num": 458616,
       "word": "孤注一掷最终票房38.48亿",
       "onboard_time": 1699366177,
       "rank": 21,
@@ -875,20 +875,20 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 437739,
+      "num": 437739,
+      "word": "以爱为营微博开分8.7",
+      "onboard_time": 1699369057,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432710,
       "num": 432710,
       "word": "这是考研人的生命线啊",
       "onboard_time": 1699318177,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 428815,
-      "num": 428815,
-      "word": "以爱为营微博开分8.7",
-      "onboard_time": 1699369057,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 425996,
@@ -977,6 +977,14 @@
       "onboard_time": 1699323570,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387540,
+      "num": 387540,
+      "word": "七英俊",
+      "onboard_time": 1699369358,
+      "rank": 19,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 379939,
@@ -1075,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352196,
+      "num": 352196,
+      "word": "kpop大战一触即发",
+      "onboard_time": 1699368759,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349727,
       "num": 349727,
       "word": "匪我思存 说灭男主全族就灭男主全族",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1699363475,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337570,
-      "num": 337570,
-      "word": "kpop大战一触即发",
-      "onboard_time": 1699368759,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 336104,
@@ -1243,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291249,
-      "num": 291249,
-      "word": "七英俊",
-      "onboard_time": 1699369358,
-      "rank": 19,
-      "category": "读书作家,艺人"
-    },
-    {
       "raw_hot": 289927,
       "num": 289927,
       "word": "央视网文娱评最美表演",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1699346135,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268118,
+      "num": 268118,
+      "word": "莲花楼豆瓣评分涨至8点5",
+      "onboard_time": 1699369597,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 266261,
@@ -1537,6 +1545,14 @@
       "onboard_time": 1699352258,
       "rank": 38,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 235542,
+      "num": 203615,
+      "word": "随机抓一名女大学生改造成爱豆",
+      "onboard_time": 1699370495,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 235243,
@@ -1795,20 +1811,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204941,
+      "num": 204941,
+      "word": "潘斌龙赞王俊凯为电影拼了",
+      "onboard_time": 1699370255,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203482,
       "num": 203482,
       "word": "鞠婧祎彩虹光圈",
       "onboard_time": 1699334432,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203175,
-      "num": 203175,
-      "word": "莲花楼豆瓣评分涨至8点5",
-      "onboard_time": 1699369597,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 201833,
@@ -2051,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187484,
+      "num": 187484,
+      "word": "OST用周深打周深",
+      "onboard_time": 1699370076,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187330,
       "num": 187330,
       "word": "吴建豪跳舞时丁程鑫才出生吗",
@@ -2267,14 +2291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163636,
-      "num": 163636,
-      "word": "潘斌龙赞王俊凯为电影拼了",
-      "onboard_time": 1699370255,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163150,
       "num": 163150,
       "word": "每月几百块电费都花哪了",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1699347036,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162077,
+      "num": 159867,
+      "word": "许凯开灯帅飞关灯乱飞",
+      "onboard_time": 1699370613,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161924,
@@ -2403,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155897,
+      "num": 155897,
+      "word": "肚子瘦不了可能是骨盆在作妖",
+      "onboard_time": 1699370255,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 155770,
       "num": 155770,
       "word": "佳木斯体育馆坍塌位置为篮球区域",
@@ -2497,14 +2529,6 @@
       "onboard_time": 1699340794,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 149338,
-      "num": 149338,
-      "word": "OST用周深打周深",
-      "onboard_time": 1699370076,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 149321,
@@ -2939,14 +2963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101495,
-      "num": 107037,
-      "word": "肚子瘦不了可能是骨盆在作妖",
-      "onboard_time": 1699370255,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 100719,
       "num": 100719,
       "word": "杨紫想扩大舒适圈",
@@ -3067,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76424,
+      "num": 238861,
+      "word": "19个月大宝宝去世捐器官救6人",
+      "onboard_time": 1699370076,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74949,
       "num": 74949,
       "word": "孙颖莎退出WTT太原站单打",
@@ -3107,20 +3131,20 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 70486,
+      "num": 159867,
+      "word": "80后90后的童年课间10分钟长啥样",
+      "onboard_time": 1699370914,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68521,
       "num": 288510,
       "word": "iQOO12价格",
       "onboard_time": 1699365697,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 66169,
-      "num": 106331,
-      "word": "19个月大宝宝去世捐器官救6人",
-      "onboard_time": 1699370076,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62164,
