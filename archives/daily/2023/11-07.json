@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699327062555,
+  "endTime": 1699328070871,
   "band_list": [
     {
       "raw_hot": 2798298,
@@ -43,8 +43,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1049106,
-      "num": 1049106,
+      "raw_hot": 1085365,
+      "num": 1085365,
       "word": "果郡王口碑一夜逆转",
       "onboard_time": 1699323990,
       "rank": 7,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1024864,
-      "num": 230505,
+      "num": 295867,
       "word": "揉腹多了才发现身体堆了垃圾",
       "onboard_time": 1699319613,
       "rank": 30,
@@ -67,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 928351,
+      "raw_hot": 952059,
       "num": 337791,
       "word": "黑龙江百余天内连发两起体育馆坍塌事故",
       "onboard_time": 1699325609,
@@ -81,6 +81,14 @@
       "onboard_time": 1699277677,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903718,
+      "num": 324756,
+      "word": "杨紫苍蝇腿睫毛",
+      "onboard_time": 1699327109,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 903242,
@@ -113,6 +121,14 @@
       "onboard_time": 1699316979,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 617337,
+      "num": 617337,
+      "word": "景甜找对了审美 许凯回到了正轨",
+      "onboard_time": 1699326331,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 606665,
@@ -185,6 +201,14 @@
       "onboard_time": 1699276534,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497348,
+      "num": 497348,
+      "word": "江苏卫视2024跨年阵容剪影线索",
+      "onboard_time": 1699327411,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 480972,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330292,
+      "num": 309693,
+      "word": "县长3个月前曾到坍塌体育馆安全检查",
+      "onboard_time": 1699326868,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322065,
       "num": 322065,
       "word": "1岁宝宝离世捐器官救6人",
@@ -313,6 +345,22 @@
       "onboard_time": 1699286852,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 309784,
+      "num": 309784,
+      "word": "你这样碧婷知道吗",
+      "onboard_time": 1699327109,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294999,
+      "num": 294999,
+      "word": "离职前可以这样退群",
+      "onboard_time": 1699326868,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 284342,
@@ -347,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265192,
-      "num": 198434,
-      "word": "离职前可以这样退群",
-      "onboard_time": 1699326868,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 265588,
+      "num": 304686,
+      "word": "ZZxinqing",
+      "onboard_time": 1699327709,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263898,
@@ -395,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241601,
+      "num": 201094,
+      "word": "没有一个许凯能笑着走出来",
+      "onboard_time": 1699327289,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241304,
       "num": 229229,
       "word": "普通人和有钱人取名字区别有多大",
@@ -419,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232349,
+      "num": 295876,
+      "word": "浓眉受伤",
+      "onboard_time": 1699327469,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232196,
       "num": 232196,
       "word": "张钧甯拍追缉瘦了14斤",
       "onboard_time": 1699318234,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231902,
+      "num": 200744,
+      "word": "白鹿白月梵星抱娃路透",
+      "onboard_time": 1699326991,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 231335,
@@ -475,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215122,
+      "num": 210679,
+      "word": "阿云嘎虞书欣新歌尝试一切",
+      "onboard_time": 1699326991,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211219,
       "num": 211219,
       "word": "友情最可怕的不是绝交",
@@ -483,12 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210679,
-      "num": 210679,
-      "word": "阿云嘎虞书欣新歌尝试一切",
-      "onboard_time": 1699326991,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 209322,
+      "num": 196475,
+      "word": "徐璐时隔6年拍电影",
+      "onboard_time": 1699327351,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 208302,
@@ -497,6 +577,14 @@
       "onboard_time": 1699317455,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207879,
+      "num": 195640,
+      "word": "轨是昨天出的 人是今天没的",
+      "onboard_time": 1699327411,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 206371,
@@ -515,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201269,
+      "num": 201269,
+      "word": "阴阳师 超鬼王",
+      "onboard_time": 1699327529,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200172,
       "num": 200172,
       "word": "罗梅罗踢倒恩佐后被罚下",
@@ -529,6 +625,14 @@
       "onboard_time": 1699286611,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198439,
+      "num": 198439,
+      "word": "佳木斯体育馆坍塌后官方发布紧急提醒",
+      "onboard_time": 1699327049,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197741,
@@ -563,12 +667,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195286,
+      "num": 195286,
+      "word": "警方检方回应网传4岁半女童遭杀害",
+      "onboard_time": 1699327892,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193904,
       "num": 193904,
       "word": "匪我思存不愧是亲妈",
       "onboard_time": 1699285893,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192211,
+      "num": 198113,
+      "word": "父亲牺牲10年后女儿继承警号",
+      "onboard_time": 1699326630,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191968,
+      "num": 191968,
+      "word": "第五人格记忆余烬",
+      "onboard_time": 1699326931,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 191051,
@@ -593,6 +721,14 @@
       "onboard_time": 1699268134,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187330,
+      "num": 187330,
+      "word": "吴建豪跳舞时丁程鑫才出生吗",
+      "onboard_time": 1699327469,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 187069,
@@ -641,14 +777,6 @@
       "onboard_time": 1699321468,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167947,
-      "num": 167947,
-      "word": "景甜找对了审美 许凯回到了正轨",
-      "onboard_time": 1699326331,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 167410,
@@ -787,20 +915,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145395,
-      "num": 145395,
-      "word": "父亲牺牲10年后女儿继承警号",
-      "onboard_time": 1699326630,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145073,
       "num": 145073,
       "word": "牺牲民警蒋久华被追授一级英模",
       "onboard_time": 1699323870,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144443,
+      "num": 144443,
+      "word": "EDG夺冠两周年",
+      "onboard_time": 1699327109,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 143535,
@@ -867,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 132830,
-      "num": 132830,
-      "word": "白鹿白月梵星抱娃路透",
-      "onboard_time": 1699326991,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131547,
       "num": 131547,
       "word": "被猫猫发现去了撸猫馆",
@@ -883,12 +1003,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128628,
-      "num": 128628,
-      "word": "县长3个月前曾到坍塌体育馆安全检查",
-      "onboard_time": 1699326868,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 129351,
+      "num": 129351,
+      "word": "黄仁俊喜欢吃火锅的原因",
+      "onboard_time": 1699327953,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 127455,
@@ -929,14 +1049,6 @@
       "onboard_time": 1699321650,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118945,
-      "num": 118945,
-      "word": "第五人格记忆余烬",
-      "onboard_time": 1699326931,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 117062,
@@ -1025,14 +1137,6 @@
       "onboard_time": 1699280863,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99799,
-      "num": 99799,
-      "word": "佳木斯体育馆坍塌后官方发布紧急提醒",
-      "onboard_time": 1699327049,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94395,
@@ -1163,8 +1267,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32960,
-      "num": 1092291,
+      "raw_hot": 58126,
+      "num": 197775,
+      "word": "李思思被孩子的想象力惊艳到",
+      "onboard_time": 1699327289,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44469,
+      "num": 1145480,
       "word": "2023年世界互联网大会乌镇峰会",
       "onboard_time": 1699326451,
       "rank": 2,
@@ -1212,6 +1324,9 @@
     },
     {
       "word": "#进博之约#"
+    },
+    {
+      "word": "#习近平会见古巴总理#"
     }
   ]
 }
