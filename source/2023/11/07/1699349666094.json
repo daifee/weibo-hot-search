@@ -1,0 +1,410 @@
+{
+  "runTime": 1699349666094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3794345,
+        "num": 3794345,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2289523,
+        "num": 2289523,
+        "word": "宁安如梦空降",
+        "onboard_time": 1699348057,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67597,
+        "num": 1671154,
+        "word": "AI眼中的中国",
+        "onboard_time": 1699343492,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1403409,
+        "num": 1403409,
+        "word": "官方通报医院被举报贩卖出生证及婴儿",
+        "onboard_time": 1699348776,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991647,
+        "num": 991647,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1440444,
+        "num": 878123,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699244,
+        "num": 699244,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 628311,
+        "num": 628311,
+        "word": "宁安如梦6天连更16集",
+        "onboard_time": 1699348175,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572810,
+        "num": 572810,
+        "word": "张艺谋儿子甄子丹女儿 巴黎名媛舞会",
+        "onboard_time": 1699346978,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541251,
+        "num": 541251,
+        "word": "广西6岁女孩沙滩走失遗体被发现",
+        "onboard_time": 1699344933,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153833,
+        "num": 490962,
+        "word": "华为手机信号好的秘密找到了",
+        "onboard_time": 1699346135,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 482643,
+        "num": 482643,
+        "word": "朱丹说叫错人名是心魔",
+        "onboard_time": 1699341153,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451426,
+        "num": 451426,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 461066,
+        "num": 446542,
+        "word": "金莎男友为追她给她做了100多道菜",
+        "onboard_time": 1699333835,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425940,
+        "num": 425940,
+        "word": "涉嫌卖出生证及婴儿院长被警方控制",
+        "onboard_time": 1699348117,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425854,
+        "num": 425854,
+        "word": "杨幂谈原生家庭的缺失",
+        "onboard_time": 1699348895,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399727,
+        "num": 399727,
+        "word": "轨是昨天出的 人是今天没的",
+        "onboard_time": 1699327411,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364001,
+        "num": 364001,
+        "word": "要久久爱上星播出",
+        "onboard_time": 1699346256,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342009,
+        "num": 342009,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 18,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 332145,
+        "num": 332145,
+        "word": "金莎和男友的第一张合影",
+        "onboard_time": 1699334972,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 929309,
+        "num": 331603,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368288,
+        "num": 330430,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333506,
+        "num": 329715,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 22,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 328811,
+        "num": 328811,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288470,
+        "num": 288470,
+        "word": "黑龙江一男子冻死街头",
+        "onboard_time": 1699337910,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322912,
+        "num": 286924,
+        "word": "田小娟柳智敏张元英合作新歌",
+        "onboard_time": 1699349134,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277749,
+        "num": 277749,
+        "word": "张馨予 我可以帮你实现一个愿望",
+        "onboard_time": 1699344334,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270385,
+        "num": 270385,
+        "word": "两只猫亲了一口做了三天噩梦",
+        "onboard_time": 1699346135,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258957,
+        "num": 258957,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207325,
+        "num": 248322,
+        "word": "樊振东孙颖莎顶峰相见",
+        "onboard_time": 1699349254,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246955,
+        "num": 246955,
+        "word": "体育馆坍塌一遇难学生是当地小球王",
+        "onboard_time": 1699347577,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242992,
+        "num": 242992,
+        "word": "快乐老友记定档",
+        "onboard_time": 1699348776,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240490,
+        "num": 240490,
+        "word": "苏士成",
+        "onboard_time": 1699335752,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232509,
+        "num": 232509,
+        "word": "以爱为营抓手吻",
+        "onboard_time": 1699336833,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221176,
+        "num": 221176,
+        "word": "你买过Switch吗",
+        "onboard_time": 1699345414,
+        "rank": 34,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 220410,
+        "num": 220410,
+        "word": "鸭子为什么很少以油炸的形式出现",
+        "onboard_time": 1699346135,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217985,
+        "num": 217985,
+        "word": "曾黎终于正确使用美貌了",
+        "onboard_time": 1699329213,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212541,
+        "num": 212541,
+        "word": "摩羯座真的很讨厌计划被打乱",
+        "onboard_time": 1699345597,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210985,
+        "num": 210985,
+        "word": "声生不息",
+        "onboard_time": 1699347695,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200681,
+        "num": 200681,
+        "word": "涉贩卖出生证医院妇产科已停业整顿",
+        "onboard_time": 1699348955,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198654,
+        "num": 198654,
+        "word": "快乐老友记",
+        "onboard_time": 1699348594,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197737,
+        "num": 197737,
+        "word": "温太医恨不得犁两亩地再走",
+        "onboard_time": 1699345174,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189460,
+        "num": 189460,
+        "word": "詹姆斯选择传球被群嘲",
+        "onboard_time": 1699348717,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188167,
+        "num": 188167,
+        "word": "甄嬛出轨是我听到最荒谬的笑话",
+        "onboard_time": 1699330960,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174378,
+        "num": 174378,
+        "word": "董明珠王自如回应绯闻",
+        "onboard_time": 1699346856,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172254,
+        "num": 172254,
+        "word": "王曼昱世界排名第二",
+        "onboard_time": 1699344997,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169991,
+        "num": 169991,
+        "word": "心脏茶包",
+        "onboard_time": 1699347515,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169541,
+        "num": 169541,
+        "word": "35岁女子在香港做泥瓦工月入10万",
+        "onboard_time": 1699334076,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138538,
+        "num": 138538,
+        "word": "马伯骞真的有在好好披荆斩棘",
+        "onboard_time": 1699347036,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117423,
+        "num": 117423,
+        "word": "节奏大师回归",
+        "onboard_time": 1699313908,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#从头回客与回头客中见证进博魅力#"
+    }
+  }
+}

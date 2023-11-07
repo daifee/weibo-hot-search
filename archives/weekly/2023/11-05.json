@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699348640138,
+  "endTime": 1699349666094,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -41,6 +41,14 @@
       "onboard_time": 1699260993,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3794345,
+      "num": 3794345,
+      "word": "中山二院辟谣乳腺外科团队学生患癌",
+      "onboard_time": 1699345597,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3706770,
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2255957,
-      "num": 2255957,
-      "word": "中山二院辟谣乳腺外科团队学生患癌",
-      "onboard_time": 1699345597,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 2289523,
+      "num": 2289523,
+      "word": "宁安如梦空降",
+      "onboard_time": 1699348057,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2150252,
@@ -177,14 +185,6 @@
       "onboard_time": 1699235554,
       "rank": 5,
       "category": "社会新闻,知识科普"
-    },
-    {
-      "raw_hot": 2119309,
-      "num": 2119309,
-      "word": "宁安如梦空降",
-      "onboard_time": 1699348057,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 2109443,
@@ -536,6 +536,14 @@
       "word": "女大学生肚子大被搓澡阿姨救了一命",
       "onboard_time": 1699268494,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1403409,
+      "num": 1403409,
+      "word": "官方通报医院被举报贩卖出生证及婴儿",
+      "onboard_time": 1699348776,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 855975,
-      "num": 286259,
+      "num": 330430,
       "word": "新的TFBOYS出现了 TFBOY适",
       "onboard_time": 1699339591,
       "rank": 23,
@@ -1483,6 +1491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 628311,
+      "num": 628311,
+      "word": "宁安如梦6天连更16集",
+      "onboard_time": 1699348175,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628284,
       "num": 628284,
       "word": "李现的左右脸是复制粘贴的吧",
@@ -1683,6 +1699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 572810,
+      "num": 572810,
+      "word": "张艺谋儿子甄子丹女儿 巴黎名媛舞会",
+      "onboard_time": 1699346978,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571985,
       "num": 345252,
       "word": "三个少年2官宣",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1699334972,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 547779,
-      "num": 455646,
-      "word": "张艺谋儿子甄子丹女儿 巴黎名媛舞会",
-      "onboard_time": 1699346978,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 547539,
@@ -2395,6 +2411,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425940,
+      "num": 425940,
+      "word": "涉嫌卖出生证及婴儿院长被警方控制",
+      "onboard_time": 1699348117,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425854,
+      "num": 425854,
+      "word": "杨幂谈原生家庭的缺失",
+      "onboard_time": 1699348895,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424424,
       "num": 424424,
       "word": "郑秀妍将回归",
@@ -2723,14 +2755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 364038,
-      "num": 364038,
-      "word": "涉嫌卖出生证及婴儿院长被警方控制",
-      "onboard_time": 1699348117,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363730,
       "num": 363730,
       "word": "白鹿王鹤棣爱意绽放芭莎大片",
@@ -3041,6 +3065,14 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322912,
+      "num": 286924,
+      "word": "田小娟柳智敏张元英合作新歌",
+      "onboard_time": 1699349134,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 322065,
@@ -3427,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270385,
+      "num": 270385,
+      "word": "两只猫亲了一口做了三天噩梦",
+      "onboard_time": 1699346135,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269828,
       "num": 269828,
       "word": "权志龙ins事必归正",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1699338571,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265004,
-      "num": 265004,
-      "word": "两只猫亲了一口做了三天噩梦",
-      "onboard_time": 1699346135,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 263898,
@@ -3561,14 +3593,6 @@
       "onboard_time": 1699169430,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255520,
-      "num": 255520,
-      "word": "宁安如梦6天连更16集",
-      "onboard_time": 1699348175,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 255459,
@@ -3699,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246955,
+      "num": 246955,
+      "word": "体育馆坍塌一遇难学生是当地小球王",
+      "onboard_time": 1699347577,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246723,
       "num": 246723,
       "word": "空调房里的广东人沉默了",
@@ -3761,6 +3793,14 @@
       "onboard_time": 1699192897,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242992,
+      "num": 242992,
+      "word": "快乐老友记定档",
+      "onboard_time": 1699348776,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 242970,
@@ -4219,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220410,
+      "num": 220410,
+      "word": "鸭子为什么很少以油炸的形式出现",
+      "onboard_time": 1699346135,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "白鹿敖瑞鹏白月梵星开机",
@@ -4299,6 +4347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212541,
+      "num": 212541,
+      "word": "摩羯座真的很讨厌计划被打乱",
+      "onboard_time": 1699345597,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212208,
       "num": 231363,
       "word": "CATTI 二笔",
@@ -4321,6 +4377,14 @@
       "onboard_time": 1699314689,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210985,
+      "num": 210985,
+      "word": "声生不息",
+      "onboard_time": 1699347695,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 210650,
@@ -4435,6 +4499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207325,
+      "num": 248322,
+      "word": "樊振东孙颖莎顶峰相见",
+      "onboard_time": 1699349254,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "极氪007",
@@ -4465,14 +4537,6 @@
       "onboard_time": 1699321230,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206295,
-      "num": 206295,
-      "word": "摩羯座真的很讨厌计划被打乱",
-      "onboard_time": 1699345597,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 206038,
@@ -4603,6 +4667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200681,
+      "num": 200681,
+      "word": "涉贩卖出生证医院妇产科已停业整顿",
+      "onboard_time": 1699348955,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200634,
       "num": 195542,
       "word": "佳木斯成立体育馆坍塌事故调查组",
@@ -4617,14 +4689,6 @@
       "onboard_time": 1699167570,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200330,
-      "num": 200330,
-      "word": "声生不息",
-      "onboard_time": 1699347695,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 200172,
@@ -4673,6 +4737,14 @@
       "onboard_time": 1699270115,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198654,
+      "num": 198654,
+      "word": "快乐老友记",
+      "onboard_time": 1699348594,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 198491,
@@ -4891,14 +4963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193247,
-      "num": 193247,
-      "word": "鸭子为什么很少以油炸的形式出现",
-      "onboard_time": 1699346135,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 193204,
       "num": 193204,
       "word": "朱一龙 为别人撑伞",
@@ -5025,6 +5089,14 @@
       "onboard_time": 1699247076,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 189460,
+      "num": 189460,
+      "word": "詹姆斯选择传球被群嘲",
+      "onboard_time": 1699348717,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 189373,
@@ -5433,6 +5505,14 @@
       "onboard_time": 1699321468,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169991,
+      "num": 169991,
+      "word": "心脏茶包",
+      "onboard_time": 1699347515,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 169862,
@@ -5907,6 +5987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153833,
+      "num": 490962,
+      "word": "华为手机信号好的秘密找到了",
+      "onboard_time": 1699346135,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153725,
       "num": 153725,
       "word": "柚子烤五花肉",
@@ -6291,14 +6379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139315,
-      "num": 139315,
-      "word": "快乐老友记",
-      "onboard_time": 1699348594,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139035,
       "num": 139035,
       "word": "BOYNEXTDOOR的中国零食pick",
@@ -6489,14 +6569,6 @@
       "onboard_time": 1699290320,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131538,
-      "num": 131538,
-      "word": "体育馆坍塌一遇难学生是当地小球王",
-      "onboard_time": 1699347577,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131469,
@@ -6857,14 +6929,6 @@
       "onboard_time": 1699270594,
       "rank": 39,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 117649,
-      "num": 117649,
-      "word": "心脏茶包",
-      "onboard_time": 1699347515,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 117062,
@@ -7241,14 +7305,6 @@
       "onboard_time": 1699156052,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97690,
-      "num": 450256,
-      "word": "华为手机信号好的秘密找到了",
-      "onboard_time": 1699346135,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 97430,
