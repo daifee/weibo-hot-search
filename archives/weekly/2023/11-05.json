@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699356836861,
+  "endTime": 1699360381072,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -297,6 +297,14 @@
       "onboard_time": 1699323990,
       "rank": 7,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 1819328,
+      "num": 1819328,
+      "word": "中山二院",
+      "onboard_time": 1699357535,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1803257,
@@ -601,6 +609,14 @@
       "onboard_time": 1699313908,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1321980,
+      "num": 540982,
+      "word": "网友提醒刘强东老家水龙头忘关了",
+      "onboard_time": 1699355195,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1311331,
@@ -1427,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662883,
+      "num": 662883,
+      "word": "蒋勤勤 认定吴磊是我儿子了",
+      "onboard_time": 1699357593,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 660622,
       "num": 660622,
       "word": "暴雪下的哈尔滨",
@@ -1619,6 +1643,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 610324,
+      "num": 610324,
+      "word": "为了省一块钱花了两千多",
+      "onboard_time": 1699357112,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607609,
       "num": 607609,
       "word": "官方回应佳木斯一体育馆发生坍塌",
@@ -1715,11 +1747,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591372,
+      "num": 438891,
+      "word": "他就拿刀子戳了几下 朱丹就这么仰望",
+      "onboard_time": 1699356573,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587200,
       "num": 587200,
       "word": "龚俊爆改营销号",
       "onboard_time": 1699185876,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 586924,
+      "num": 586924,
+      "word": "第一次见放了6集男主叫不出女主名字的",
+      "onboard_time": 1699359334,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1899,20 +1947,20 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 540982,
-      "num": 540982,
-      "word": "网友提醒刘强东老家水龙头忘关了",
-      "onboard_time": 1699355195,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540549,
       "num": 540549,
       "word": "东方青苍长珩仙君生生世世的仇敌对手",
       "onboard_time": 1699351478,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540047,
+      "num": 718365,
+      "word": "老人捡到4只丹顶鹤以为是山羊",
+      "onboard_time": 1699356274,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535093,
@@ -1985,6 +2033,14 @@
       "onboard_time": 1699332338,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 521436,
+      "num": 521436,
+      "word": "四川雅安一油罐车爆燃引燃两货车",
+      "onboard_time": 1699358975,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519003,
@@ -3019,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342114,
+      "num": 233234,
+      "word": "白鹿换Q版姜雪宁郑书意头像",
+      "onboard_time": 1699359514,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340319,
       "num": 340319,
       "word": "秦岚用的什么洗发水",
@@ -3411,6 +3475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 291296,
+      "num": 232386,
+      "word": "热依扎一巴掌梦回甄嬛传",
+      "onboard_time": 1699359037,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290173,
       "num": 253080,
       "word": "张柏芝双开门冰箱",
@@ -3657,6 +3729,14 @@
       "onboard_time": 1699329454,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266247,
+      "num": 227675,
+      "word": "宁安如梦共赴宁安预告",
+      "onboard_time": 1699357054,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 265439,
@@ -4187,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233962,
+      "num": 233962,
+      "word": "米其林大厨用19万罗曼尼康帝做醉蟹",
+      "onboard_time": 1699359095,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 232393,
       "num": 215057,
       "word": "朴宰范你踩我脸上了",
@@ -4225,6 +4313,14 @@
       "onboard_time": 1699181078,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231948,
+      "num": 231948,
+      "word": "双子座真正的e人其实很少",
+      "onboard_time": 1699355734,
+      "rank": 31,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 231902,
@@ -4305,14 +4401,6 @@
       "onboard_time": 1699318476,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227985,
-      "num": 227985,
-      "word": "双子座真正的e人其实很少",
-      "onboard_time": 1699355734,
-      "rank": 31,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 227581,
@@ -4499,6 +4587,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 218383,
+      "num": 218383,
+      "word": "四川高速油罐车燃爆致2死2伤",
+      "onboard_time": 1699359933,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217757,
       "num": 217757,
       "word": "顾云峥继承了澹台烬的情丝",
@@ -4633,14 +4729,6 @@
       "onboard_time": 1699186595,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210499,
-      "num": 210499,
-      "word": "他就拿刀子戳了几下 朱丹就这么仰望",
-      "onboard_time": 1699356573,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 210031,
@@ -5379,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188553,
+      "num": 188553,
+      "word": "JDG半决赛对战T1",
+      "onboard_time": 1699356872,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188178,
       "num": 151431,
       "word": "种地种到最后应有尽有",
@@ -5457,6 +5553,14 @@
       "onboard_time": 1699194817,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 185150,
+      "num": 185150,
+      "word": "上海地铁",
+      "onboard_time": 1699358254,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184996,
@@ -5899,6 +6003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163905,
+      "num": 163905,
+      "word": "亚冠",
+      "onboard_time": 1699360173,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163150,
       "num": 163150,
       "word": "每月几百块电费都花哪了",
@@ -6025,14 +6137,6 @@
       "onboard_time": 1699267773,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159599,
-      "num": 718365,
-      "word": "老人捡到4只丹顶鹤以为是山羊",
-      "onboard_time": 1699356274,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158850,
@@ -6211,6 +6315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154333,
+      "num": 154333,
+      "word": "小鬼说掌握不好分寸就油腻了",
+      "onboard_time": 1699358015,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 154331,
       "num": 154331,
       "word": "魏哲鸣是懂端水的",
@@ -6369,6 +6481,14 @@
       "onboard_time": 1699356094,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149184,
+      "num": 149184,
+      "word": "XJAPAN贝斯手HEATH去世",
+      "onboard_time": 1699360235,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149114,
@@ -6609,6 +6729,14 @@
       "onboard_time": 1699331077,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 141320,
+      "num": 141320,
+      "word": "马立奥 卡丁车初体验",
+      "onboard_time": 1699360056,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 141075,
@@ -8235,6 +8363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18187,
+      "num": 437175,
+      "word": "卡卡巴乔领衔超级球星足球赛",
+      "onboard_time": 1699358433,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18118,
       "num": 305097,
       "word": "你的安全感从何而来",
@@ -8281,6 +8417,14 @@
       "onboard_time": 1699070252,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6357,
+      "num": 127252,
+      "word": "iQOO发布首款自研电竞芯片",
+      "onboard_time": 1699360355,
+      "rank": 49,
+      "category": "数码"
     }
   ],
   "hotgov_list": [
