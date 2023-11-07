@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699355687556,
+  "endTime": 1699356836861,
   "band_list": [
     {
       "raw_hot": 3794345,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1359793,
+      "num": 649823,
+      "word": "魏大勋冷脸甩伞",
+      "onboard_time": 1699351056,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1355423,
       "num": 615030,
       "word": "刘亦菲家人照片 基因的稳定发挥",
@@ -169,14 +177,6 @@
       "onboard_time": 1699313908,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1282888,
-      "num": 649823,
-      "word": "魏大勋冷脸甩伞",
-      "onboard_time": 1699351056,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1206159,
@@ -443,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 603836,
+      "num": 603836,
+      "word": "奔跑吧官微运营的手机被抢走了",
+      "onboard_time": 1699352616,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599919,
       "num": 599919,
       "word": "广西6岁女孩沙滩走失遗体被发现",
@@ -547,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548376,
-      "num": 548376,
-      "word": "奔跑吧官微运营的手机被抢走了",
-      "onboard_time": 1699352616,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -569,6 +569,14 @@
       "onboard_time": 1699317033,
       "rank": 6,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 540982,
+      "num": 540982,
+      "word": "网友提醒刘强东老家水龙头忘关了",
+      "onboard_time": 1699355195,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540549,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317071,
+      "num": 317071,
+      "word": "宋亚轩被杨丽萍当成时尚单品了",
+      "onboard_time": 1699355014,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315925,
       "num": 315925,
       "word": "恒大地产再被强制执行4亿",
@@ -953,14 +969,6 @@
       "onboard_time": 1699333359,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300236,
-      "num": 300236,
-      "word": "宋亚轩被杨丽萍当成时尚单品了",
-      "onboard_time": 1699355014,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 294393,
@@ -1091,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254790,
+      "num": 254790,
+      "word": "妈妈们好像上过统一的培训班",
+      "onboard_time": 1699354774,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254449,
       "num": 254449,
       "word": "温太医恨不得犁两亩地再走",
       "onboard_time": 1699345174,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254248,
+      "num": 254248,
+      "word": "柯南一天官宣两家联名",
+      "onboard_time": 1699354656,
+      "rank": 27,
+      "category": "动漫,美食"
     },
     {
       "raw_hot": 254247,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1699281945,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249388,
-      "num": 249388,
-      "word": "柯南一天官宣两家联名",
-      "onboard_time": 1699354656,
-      "rank": 27,
-      "category": "动漫,美食"
     },
     {
       "raw_hot": 247437,
@@ -1283,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227985,
+      "num": 227985,
+      "word": "双子座真正的e人其实很少",
+      "onboard_time": 1699355734,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 227010,
       "num": 227010,
       "word": "杭州已接洽迪士尼环球影城",
@@ -1403,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210499,
+      "num": 210499,
+      "word": "他就拿刀子戳了几下 朱丹就这么仰望",
+      "onboard_time": 1699356573,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209322,
       "num": 196475,
       "word": "徐璐时隔6年拍电影",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1699329814,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208361,
-      "num": 181865,
-      "word": "妈妈们好像上过统一的培训班",
-      "onboard_time": 1699354774,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 208302,
@@ -1883,6 +1907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159599,
+      "num": 718365,
+      "word": "老人捡到4只丹顶鹤以为是山羊",
+      "onboard_time": 1699356274,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158850,
       "num": 158850,
       "word": "曝桑乔已被移出曼联群聊",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1699315714,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157994,
-      "num": 157994,
-      "word": "网友提醒刘强东老家水龙头忘关了",
-      "onboard_time": 1699355195,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157833,
@@ -2041,6 +2065,14 @@
       "onboard_time": 1699340794,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149321,
+      "num": 254493,
+      "word": "iQOO12发布会",
+      "onboard_time": 1699356094,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 148856,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1699290320,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130539,
+      "num": 130539,
+      "word": "KSG和DRG在玩什么",
+      "onboard_time": 1699356756,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130062,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1699341273,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 45977,
+      "num": 193256,
+      "word": "寒潮加剧天猫急增2亿保暖补贴",
+      "onboard_time": 1699356455,
+      "rank": 39,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 27796,
