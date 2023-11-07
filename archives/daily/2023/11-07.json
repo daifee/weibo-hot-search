@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699324646673,
+  "endTime": 1699327062555,
   "band_list": [
     {
       "raw_hot": 2798298,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1221994,
-      "num": 1221994,
+      "raw_hot": 1355423,
+      "num": 363221,
+      "word": "刘亦菲家人照片 基因的稳定发挥",
+      "onboard_time": 1699323692,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1340266,
+      "num": 1340266,
       "word": "节奏大师回归",
       "onboard_time": 1699313908,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1049106,
+      "num": 1049106,
+      "word": "果郡王口碑一夜逆转",
+      "onboard_time": 1699323990,
+      "rank": 7,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 1024864,
@@ -49,6 +65,14 @@
       "onboard_time": 1699316856,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928351,
+      "num": 337791,
+      "word": "黑龙江百余天内连发两起体育馆坍塌事故",
+      "onboard_time": 1699325609,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 913011,
@@ -89,6 +113,14 @@
       "onboard_time": 1699316979,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 606665,
+      "num": 606665,
+      "word": "中戏教授点评张小斐演技",
+      "onboard_time": 1699324711,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 586567,
@@ -147,14 +179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 513178,
-      "num": 363221,
-      "word": "刘亦菲家人照片 基因的稳定发挥",
-      "onboard_time": 1699323692,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 506561,
       "num": 506561,
       "word": "新疆多地出现罕见红色极光",
@@ -187,14 +211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 441617,
-      "num": 441617,
-      "word": "果郡王口碑一夜逆转",
-      "onboard_time": 1699323990,
-      "rank": 7,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 441125,
       "num": 441125,
       "word": "女生为考研戴电击闹钟电破皮都没醒",
@@ -209,6 +225,14 @@
       "onboard_time": 1699318177,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 425996,
+      "num": 425996,
+      "word": "王嘉尔的童年女神是杨紫",
+      "onboard_time": 1699323512,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 424110,
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359039,
-      "num": 359039,
-      "word": "王嘉尔的童年女神是杨紫",
-      "onboard_time": 1699323512,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 363730,
+      "num": 363730,
+      "word": "白鹿王鹤棣爱意绽放芭莎大片",
+      "onboard_time": 1699324771,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 358403,
@@ -321,6 +345,14 @@
       "onboard_time": 1699314330,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265192,
+      "num": 198434,
+      "word": "离职前可以这样退群",
+      "onboard_time": 1699326868,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 263898,
@@ -435,12 +467,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 215919,
+      "num": 215919,
+      "word": "体育馆坍塌前2天曾开防暴雪安全会议",
+      "onboard_time": 1699325851,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211219,
       "num": 211219,
       "word": "友情最可怕的不是绝交",
       "onboard_time": 1699314689,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210679,
+      "num": 210679,
+      "word": "阿云嘎虞书欣新歌尝试一切",
+      "onboard_time": 1699326991,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 208302,
@@ -481,6 +529,14 @@
       "onboard_time": 1699286611,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197741,
+      "num": 197741,
+      "word": "涉贩卖出生证医院官网显示维护中",
+      "onboard_time": 1699325731,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197164,
@@ -539,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187069,
+      "num": 187069,
+      "word": "3只流浪狗排排坐烤鸭店门口等投喂",
+      "onboard_time": 1699325971,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177557,
       "num": 177557,
       "word": "适合高敏感人的休息方式",
@@ -577,6 +641,22 @@
       "onboard_time": 1699321468,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167947,
+      "num": 167947,
+      "word": "景甜找对了审美 许凯回到了正轨",
+      "onboard_time": 1699326331,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167410,
+      "num": 167410,
+      "word": "勇士战胜活塞",
+      "onboard_time": 1699326451,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 165756,
@@ -643,6 +723,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155770,
+      "num": 155770,
+      "word": "佳木斯体育馆坍塌位置为篮球区域",
+      "onboard_time": 1699325731,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154815,
+      "num": 145361,
+      "word": "专家分析佳木斯体育馆坍塌事故",
+      "onboard_time": 1699325669,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154331,
       "num": 154331,
       "word": "魏哲鸣是懂端水的",
@@ -691,6 +787,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145395,
+      "num": 145395,
+      "word": "父亲牺牲10年后女儿继承警号",
+      "onboard_time": 1699326630,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145073,
+      "num": 145073,
+      "word": "牺牲民警蒋久华被追授一级英模",
+      "onboard_time": 1699323870,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143535,
+      "num": 143535,
+      "word": "GLASS十一月刊封面",
+      "onboard_time": 1699326331,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 142880,
       "num": 142880,
       "word": "热血陈宇不是在被骂就是在被训的路上",
@@ -713,6 +833,14 @@
       "onboard_time": 1699272454,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140038,
+      "num": 140038,
+      "word": "宋亚轩演唱路过人间背后的精彩瞬间",
+      "onboard_time": 1699325069,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 139718,
@@ -739,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132830,
+      "num": 132830,
+      "word": "白鹿白月梵星抱娃路透",
+      "onboard_time": 1699326991,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131547,
       "num": 131547,
       "word": "被猫猫发现去了撸猫馆",
@@ -747,11 +883,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128925,
-      "num": 128925,
-      "word": "牺牲民警蒋久华被追授一级英模",
-      "onboard_time": 1699323870,
-      "rank": 47,
+      "raw_hot": 128628,
+      "num": 128628,
+      "word": "县长3个月前曾到坍塌体育馆安全检查",
+      "onboard_time": 1699326868,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -795,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118945,
+      "num": 118945,
+      "word": "第五人格记忆余烬",
+      "onboard_time": 1699326931,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117062,
       "num": 117062,
       "word": "92岁老兵仍能精准破译摩斯电码",
@@ -809,6 +953,14 @@
       "onboard_time": 1699320690,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112596,
+      "num": 112596,
+      "word": "湖人vs热火",
+      "onboard_time": 1699323270,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 112433,
@@ -875,12 +1027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99865,
-      "num": 99865,
-      "word": "湖人vs热火",
-      "onboard_time": 1699323270,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 99799,
+      "num": 99799,
+      "word": "佳木斯体育馆坍塌后官方发布紧急提醒",
+      "onboard_time": 1699327049,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94395,
@@ -1009,6 +1161,14 @@
       "onboard_time": 1699266693,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32960,
+      "num": 1092291,
+      "word": "2023年世界互联网大会乌镇峰会",
+      "onboard_time": 1699326451,
+      "rank": 2,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 27796,

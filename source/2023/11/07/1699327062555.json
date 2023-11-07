@@ -1,0 +1,410 @@
+{
+  "runTime": 1699327062555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1922722,
+        "num": 1922722,
+        "word": "佳木斯坍塌体育馆3人遇难",
+        "onboard_time": 1699311985,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1340266,
+        "num": 1340266,
+        "word": "节奏大师回归",
+        "onboard_time": 1699313908,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32960,
+        "num": 1092291,
+        "word": "2023年世界互联网大会乌镇峰会",
+        "onboard_time": 1699326451,
+        "rank": 2,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1049106,
+        "num": 1049106,
+        "word": "果郡王口碑一夜逆转",
+        "onboard_time": 1699323990,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 853669,
+        "num": 853669,
+        "word": "肖战 宝诗龙",
+        "onboard_time": 1699323810,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767890,
+        "num": 767890,
+        "word": "原来淋巴肉是不能吃的",
+        "onboard_time": 1699313248,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 606665,
+        "num": 606665,
+        "word": "中戏教授点评张小斐演技",
+        "onboard_time": 1699324711,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 522884,
+        "num": 522884,
+        "word": "女子转售父母生前处方药被判贩毒罪",
+        "onboard_time": 1699321291,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425996,
+        "num": 425996,
+        "word": "王嘉尔的童年女神是杨紫",
+        "onboard_time": 1699323512,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363730,
+        "num": 363730,
+        "word": "白鹿王鹤棣爱意绽放芭莎大片",
+        "onboard_time": 1699324771,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1355423,
+        "num": 339901,
+        "word": "刘亦菲家人照片 基因的稳定发挥",
+        "onboard_time": 1699323692,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928351,
+        "num": 337791,
+        "word": "黑龙江百余天内连发两起体育馆坍塌事故",
+        "onboard_time": 1699325609,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363730,
+        "num": 332701,
+        "word": "向佐记得郭碧婷小时代每个细节",
+        "onboard_time": 1699316856,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301259,
+        "num": 301259,
+        "word": "李现对接回应出演国色芳华",
+        "onboard_time": 1699323570,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251593,
+        "num": 251593,
+        "word": "山东省考",
+        "onboard_time": 1699320928,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279201,
+        "num": 236945,
+        "word": "早期的内娱遍地都是喜剧人",
+        "onboard_time": 1699319974,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215919,
+        "num": 215919,
+        "word": "体育馆坍塌前2天曾开防暴雪安全会议",
+        "onboard_time": 1699325851,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210679,
+        "num": 210679,
+        "word": "阿云嘎虞书欣新歌尝试一切",
+        "onboard_time": 1699326991,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203824,
+        "num": 203824,
+        "word": "这是考研人的生命线啊",
+        "onboard_time": 1699318177,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199281,
+        "num": 199281,
+        "word": "女大学生肚子大被搓澡阿姨救了一命",
+        "onboard_time": 1699268494,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591138,
+        "num": 198513,
+        "word": "揉腹多了才发现身体堆了垃圾",
+        "onboard_time": 1699319613,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265192,
+        "num": 198434,
+        "word": "离职前可以这样退群",
+        "onboard_time": 1699326868,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197741,
+        "num": 197741,
+        "word": "涉贩卖出生证医院官网显示维护中",
+        "onboard_time": 1699325731,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187069,
+        "num": 187069,
+        "word": "3只流浪狗排排坐烤鸭店门口等投喂",
+        "onboard_time": 1699325971,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174582,
+        "num": 174582,
+        "word": "第一次嗑到女主和男N的cp",
+        "onboard_time": 1699321291,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173904,
+        "num": 173904,
+        "word": "北上广很难有花束般的恋爱",
+        "onboard_time": 1699286909,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167947,
+        "num": 167947,
+        "word": "景甜找对了审美 许凯回到了正轨",
+        "onboard_time": 1699326331,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167410,
+        "num": 167410,
+        "word": "勇士战胜活塞",
+        "onboard_time": 1699326451,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166323,
+        "num": 166323,
+        "word": "为研究他喝下幽门螺杆菌培育汤",
+        "onboard_time": 1699316979,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161043,
+        "num": 161043,
+        "word": "每天1点睡觉的好处",
+        "onboard_time": 1699280863,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155770,
+        "num": 155770,
+        "word": "佳木斯体育馆坍塌位置为篮球区域",
+        "onboard_time": 1699325731,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157296,
+        "num": 150968,
+        "word": "许凯啄米啄了一分钟",
+        "onboard_time": 1699322609,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145395,
+        "num": 145395,
+        "word": "父亲牺牲10年后女儿继承警号",
+        "onboard_time": 1699326630,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154815,
+        "num": 145361,
+        "word": "专家分析佳木斯体育馆坍塌事故",
+        "onboard_time": 1699325669,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146311,
+        "num": 145336,
+        "word": "景甜脏脏包妆造",
+        "onboard_time": 1699317033,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 145073,
+        "num": 145073,
+        "word": "牺牲民警蒋久华被追授一级英模",
+        "onboard_time": 1699323870,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 143535,
+        "word": "GLASS十一月刊封面",
+        "onboard_time": 1699326331,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140038,
+        "num": 140038,
+        "word": "宋亚轩演唱路过人间背后的精彩瞬间",
+        "onboard_time": 1699325069,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138744,
+        "num": 138744,
+        "word": "哈登快船首秀",
+        "onboard_time": 1699317455,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132830,
+        "num": 132830,
+        "word": "白鹿白月梵星抱娃路透",
+        "onboard_time": 1699326991,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128628,
+        "num": 128628,
+        "word": "县长3个月前曾到坍塌体育馆安全检查",
+        "onboard_time": 1699326868,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125098,
+        "num": 125098,
+        "word": "巴以冲突满一个月",
+        "onboard_time": 1699321409,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121219,
+        "num": 121219,
+        "word": "业内人士回应68元火锅锅底贵不贵",
+        "onboard_time": 1699322972,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118945,
+        "num": 118945,
+        "word": "第五人格记忆余烬",
+        "onboard_time": 1699326931,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113841,
+        "num": 113841,
+        "word": "张钧甯拍追缉瘦了14斤",
+        "onboard_time": 1699318234,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112596,
+        "num": 112596,
+        "word": "湖人vs热火",
+        "onboard_time": 1699323270,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100607,
+        "num": 100607,
+        "word": "陌生男孩公交上用手护住熟睡乘客",
+        "onboard_time": 1699318476,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100249,
+        "num": 100249,
+        "word": "景甜 脸在江山在",
+        "onboard_time": 1699284455,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99960,
+        "num": 99960,
+        "word": "120救人返程遇车祸再救5人",
+        "onboard_time": 1699321468,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99799,
+        "num": 99799,
+        "word": "佳木斯体育馆坍塌后官方发布紧急提醒",
+        "onboard_time": 1699327049,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见全国枫桥式工作法入选单位代表#"
+    }
+  }
+}
