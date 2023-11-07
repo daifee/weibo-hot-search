@@ -1,0 +1,410 @@
+{
+  "runTime": 1699364049965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618948,
+        "num": 1618948,
+        "word": "第一次见放了6集男主叫不出女主名字的",
+        "onboard_time": 1699359334,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 983324,
+        "num": 983324,
+        "word": "白鹿张凌赫好会亲",
+        "onboard_time": 1699361914,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58398,
+        "num": 959495,
+        "word": "一场中国与世界的双向奔赴",
+        "onboard_time": 1699361374,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 949401,
+        "num": 949401,
+        "word": "网友提醒刘强东老家水龙头忘关了",
+        "onboard_time": 1699355195,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939956,
+        "num": 939956,
+        "word": "宁安如梦空降",
+        "onboard_time": 1699348057,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619084,
+        "num": 619084,
+        "word": "奔跑吧",
+        "onboard_time": 1699359755,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548188,
+        "num": 548188,
+        "word": "为了省一块钱花了两千多",
+        "onboard_time": 1699357112,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504547,
+        "num": 504547,
+        "word": "林俊杰演唱会门票",
+        "onboard_time": 1699361736,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400328,
+        "num": 400328,
+        "word": "老人捡到4只丹顶鹤以为是山羊",
+        "onboard_time": 1699356274,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1972299,
+        "num": 399535,
+        "word": "中山二院",
+        "onboard_time": 1699357535,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501138,
+        "num": 398674,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447333,
+        "num": 397023,
+        "word": "蒋勤勤 认定吴磊是我儿子了",
+        "onboard_time": 1699357593,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422112,
+        "num": 395734,
+        "word": "爱奇艺用白鹿对打白鹿",
+        "onboard_time": 1699349734,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405952,
+        "num": 394608,
+        "word": "魏大勋冷脸甩伞",
+        "onboard_time": 1699351056,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46302,
+        "num": 393357,
+        "word": "被秦霄贤孟鹤堂直播笑发财",
+        "onboard_time": 1699362037,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393097,
+        "num": 393097,
+        "word": "体育馆坍塌幸存男孩亲述逃生经历",
+        "onboard_time": 1699360715,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363398,
+        "num": 363398,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354851,
+        "num": 354851,
+        "word": "金莎男友是山东蓝翔出来的吗",
+        "onboard_time": 1699350455,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327614,
+        "num": 327614,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279479,
+        "num": 279479,
+        "word": "东北大学生正式确诊为华妃",
+        "onboard_time": 1699362997,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339603,
+        "num": 279110,
+        "word": "徐明浩直播",
+        "onboard_time": 1699363475,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318679,
+        "num": 271528,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254370,
+        "num": 254370,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249563,
+        "num": 249563,
+        "word": "四川雅安一油罐车爆燃引燃两货车",
+        "onboard_time": 1699358975,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239456,
+        "num": 239456,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273772,
+        "num": 239127,
+        "word": "热依扎一巴掌梦回甄嬛传",
+        "onboard_time": 1699359037,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221765,
+        "num": 221765,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 26,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 201504,
+        "num": 201504,
+        "word": "张遮好惨一男的",
+        "onboard_time": 1699363715,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67649,
+        "num": 194933,
+        "word": "iQOO12面面俱到",
+        "onboard_time": 1699362641,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192932,
+        "num": 192932,
+        "word": "快乐老友记人均制片人",
+        "onboard_time": 1699363239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "王曼昱进国家队十周年",
+        "onboard_time": 1699362577,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186394,
+        "num": 186394,
+        "word": "双子座真正的e人其实很少",
+        "onboard_time": 1699355734,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 184271,
+        "num": 184271,
+        "word": "懂车帝实测",
+        "onboard_time": 1699362212,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182589,
+        "num": 182589,
+        "word": "杨幂谈原生家庭的缺失",
+        "onboard_time": 1699348895,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170435,
+        "num": 170435,
+        "word": "他就拿刀子戳了几下 朱丹就这么仰望",
+        "onboard_time": 1699356573,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167846,
+        "num": 167846,
+        "word": "小鹏",
+        "onboard_time": 1699363536,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166637,
+        "num": 166637,
+        "word": "茄子焖饭",
+        "onboard_time": 1699361793,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152049,
+        "num": 152049,
+        "word": "奔跑吧官微运营的手机被抢走了",
+        "onboard_time": 1699352616,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148458,
+        "num": 148458,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144276,
+        "num": 144276,
+        "word": "米其林大厨用19万罗曼尼康帝做醉蟹",
+        "onboard_time": 1699359095,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140176,
+        "num": 140176,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 40,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 136106,
+        "num": 136106,
+        "word": "秦岚用的什么洗发水",
+        "onboard_time": 1699352494,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122929,
+        "num": 122929,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120279,
+        "num": 120279,
+        "word": "樊振东孙颖莎顶峰相见",
+        "onboard_time": 1699349254,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117188,
+        "num": 117188,
+        "word": "JDG半决赛对战T1",
+        "onboard_time": 1699356872,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116450,
+        "num": 116450,
+        "word": "四川高速油罐车燃爆致2死2伤",
+        "onboard_time": 1699359933,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115715,
+        "num": 116445,
+        "word": "田小娟柳智敏张元英合作新歌",
+        "onboard_time": 1699349134,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112625,
+        "num": 116439,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101815,
+        "num": 116436,
+        "word": "朴志效好有生命力的美",
+        "onboard_time": 1699361613,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64965,
+        "num": 116425,
+        "word": "iQOO发布首款自研电竞芯片",
+        "onboard_time": 1699360355,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#从头回客与回头客中见证进博魅力#"
+    }
+  }
+}

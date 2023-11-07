@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699363242099,
+  "endTime": 1699364049965,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1972299,
+      "num": 1835984,
+      "word": "中山二院",
+      "onboard_time": 1699357535,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1957141,
       "num": 1957141,
       "word": "肺部CT报告中有些字眼可能是癌",
@@ -297,14 +305,6 @@
       "onboard_time": 1699323990,
       "rank": 7,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 1835984,
-      "num": 1835984,
-      "word": "中山二院",
-      "onboard_time": 1699357535,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1803257,
@@ -449,6 +449,14 @@
       "onboard_time": 1699112616,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1618948,
+      "num": 1618948,
+      "word": "第一次见放了6集男主叫不出女主名字的",
+      "onboard_time": 1699359334,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1614500,
@@ -633,14 +641,6 @@
       "onboard_time": 1699264718,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1301035,
-      "num": 1301035,
-      "word": "第一次见放了6集男主叫不出女主名字的",
-      "onboard_time": 1699359334,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1291906,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 983324,
+      "num": 983324,
+      "word": "白鹿张凌赫好会亲",
+      "onboard_time": 1699361914,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 970406,
       "num": 414221,
       "word": "鼓楼医院",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1699246121,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 862436,
-      "num": 862436,
-      "word": "白鹿张凌赫好会亲",
-      "onboard_time": 1699361914,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 855975,
@@ -2131,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504547,
+      "num": 504547,
+      "word": "林俊杰演唱会门票",
+      "onboard_time": 1699361736,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 498643,
       "num": 498643,
       "word": "雪休",
@@ -2515,14 +2523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 432423,
-      "num": 432423,
-      "word": "林俊杰演唱会门票",
-      "onboard_time": 1699361736,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 432266,
       "num": 432266,
       "word": "杨紫范丞丞你说公主请看剧",
@@ -2793,6 +2793,14 @@
       "onboard_time": 1699155572,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 393097,
+      "num": 393097,
+      "word": "体育馆坍塌幸存男孩亲述逃生经历",
+      "onboard_time": 1699360715,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389081,
@@ -3123,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339603,
+      "num": 279110,
+      "word": "徐明浩直播",
+      "onboard_time": 1699363475,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339548,
       "num": 339548,
       "word": "大妈为自拍不慎踩空掉进芦苇荡",
@@ -3321,14 +3337,6 @@
       "onboard_time": 1699355014,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316606,
-      "num": 316606,
-      "word": "体育馆坍塌幸存男孩亲述逃生经历",
-      "onboard_time": 1699360715,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316151,
@@ -3593,6 +3601,14 @@
       "onboard_time": 1699255892,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279479,
+      "num": 279479,
+      "word": "东北大学生正式确诊为华妃",
+      "onboard_time": 1699362997,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278198,
@@ -4971,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201504,
+      "num": 201504,
+      "word": "张遮好惨一男的",
+      "onboard_time": 1699363715,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201434,
       "num": 201434,
       "word": "襄阳通报健桥医院贩卖出生证问题",
@@ -5323,6 +5347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192932,
+      "num": 192932,
+      "word": "快乐老友记人均制片人",
+      "onboard_time": 1699363239,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192872,
       "num": 192872,
       "word": "辣条的诞生居然跟四川火锅有关",
@@ -5617,6 +5649,14 @@
       "onboard_time": 1699160433,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184271,
+      "num": 184271,
+      "word": "懂车帝实测",
+      "onboard_time": 1699362212,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 183300,
@@ -5947,10 +5987,10 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 168272,
-      "num": 168272,
-      "word": "懂车帝实测",
-      "onboard_time": 1699362212,
+      "raw_hot": 167846,
+      "num": 167846,
+      "word": "小鹏",
+      "onboard_time": 1699363536,
       "rank": 35,
       "category": "汽车"
     },
@@ -6041,14 +6081,6 @@
       "onboard_time": 1699101633,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164698,
-      "num": 164698,
-      "word": "东北大学生正式确诊为华妃",
-      "onboard_time": 1699362997,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164396,
@@ -7699,6 +7731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 101815,
+      "num": 116436,
+      "word": "朴志效好有生命力的美",
+      "onboard_time": 1699361613,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101809,
       "num": 116997,
       "word": "孙燕姿杨紫YZYZ组合新歌抢先听",
@@ -7932,7 +7972,7 @@
     },
     {
       "raw_hot": 85844,
-      "num": 189183,
+      "num": 194933,
       "word": "iQOO12面面俱到",
       "onboard_time": 1699362641,
       "rank": 29,
@@ -8323,6 +8363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 46302,
+      "num": 393357,
+      "word": "被秦霄贤孟鹤堂直播笑发财",
+      "onboard_time": 1699362037,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45977,
       "num": 193256,
       "word": "寒潮加剧天猫急增2亿保暖补贴",
@@ -8401,14 +8449,6 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27792,
-      "num": 378385,
-      "word": "被秦霄贤孟鹤堂直播笑发财",
-      "onboard_time": 1699362037,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 26090,
