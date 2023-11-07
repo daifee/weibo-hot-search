@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699361320598,
+  "endTime": 1699363242099,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 1321980,
-      "num": 540982,
+      "num": 995196,
       "word": "网友提醒刘强东老家水龙头忘关了",
       "onboard_time": 1699355195,
       "rank": 44,
@@ -633,6 +633,14 @@
       "onboard_time": 1699264718,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1301035,
+      "num": 1301035,
+      "word": "第一次见放了6集男主叫不出女主名字的",
+      "onboard_time": 1699359334,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1291906,
@@ -825,14 +833,6 @@
       "onboard_time": 1699156831,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1057030,
-      "num": 1057030,
-      "word": "第一次见放了6集男主叫不出女主名字的",
-      "onboard_time": 1699359334,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1046886,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1699246121,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 862436,
+      "num": 862436,
+      "word": "白鹿张凌赫好会亲",
+      "onboard_time": 1699361914,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 855975,
@@ -2507,6 +2515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 432423,
+      "num": 432423,
+      "word": "林俊杰演唱会门票",
+      "onboard_time": 1699361736,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 432266,
       "num": 432266,
       "word": "杨紫范丞丞你说公主请看剧",
@@ -3307,6 +3323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316606,
+      "num": 316606,
+      "word": "体育馆坍塌幸存男孩亲述逃生经历",
+      "onboard_time": 1699360715,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316151,
       "num": 446637,
       "word": "胃胀气就是要舍得饿自己",
@@ -3484,7 +3508,7 @@
     },
     {
       "raw_hot": 291296,
-      "num": 258553,
+      "num": 274171,
       "word": "热依扎一巴掌梦回甄嬛传",
       "onboard_time": 1699359037,
       "rank": 23,
@@ -5411,6 +5435,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 189636,
+      "num": 189636,
+      "word": "王曼昱进国家队十周年",
+      "onboard_time": 1699362577,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189460,
       "num": 189460,
       "word": "詹姆斯选择传球被群嘲",
@@ -5473,14 +5505,6 @@
       "onboard_time": 1699356872,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188447,
-      "num": 215018,
-      "word": "体育馆坍塌幸存男孩亲述逃生经历",
-      "onboard_time": 1699360715,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188178,
@@ -5723,6 +5747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177450,
+      "num": 177450,
+      "word": "茄子焖饭",
+      "onboard_time": 1699361793,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177251,
       "num": 177251,
       "word": "原神娜维娅",
@@ -5915,6 +5947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 168272,
+      "num": 168272,
+      "word": "懂车帝实测",
+      "onboard_time": 1699362212,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167838,
       "num": 167838,
       "word": "年轻人为什么开始反内卷购物了",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1699101633,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164698,
+      "num": 164698,
+      "word": "东北大学生正式确诊为华妃",
+      "onboard_time": 1699362997,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164396,
@@ -7283,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121080,
+      "num": 121080,
+      "word": "秦岚一说话我就想给她换电池",
+      "onboard_time": 1699363176,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120837,
       "num": 207339,
       "word": "第六届进口博览会",
@@ -7875,6 +7931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85844,
+      "num": 189183,
+      "word": "iQOO12面面俱到",
+      "onboard_time": 1699362641,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84954,
       "num": 207292,
       "word": "为节省运输成本货车司机偷盗他人柴油",
@@ -8025,6 +8089,14 @@
       "onboard_time": 1699277556,
       "rank": 49,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 74107,
+      "num": 367573,
+      "word": "iQOO发布首款自研电竞芯片",
+      "onboard_time": 1699360355,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 73732,
@@ -8179,6 +8251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60192,
+      "num": 994994,
+      "word": "一场中国与世界的双向奔赴",
+      "onboard_time": 1699361374,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 60068,
       "num": 463929,
       "word": "杨紫活动花絮高清图",
@@ -8216,14 +8296,6 @@
       "word": "iQOO12万里舷窗设计",
       "onboard_time": 1699341273,
       "rank": 47,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 54845,
-      "num": 367573,
-      "word": "iQOO发布首款自研电竞芯片",
-      "onboard_time": 1699360355,
-      "rank": 49,
       "category": "数码"
     },
     {
@@ -8329,6 +8401,14 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27792,
+      "num": 378385,
+      "word": "被秦霄贤孟鹤堂直播笑发财",
+      "onboard_time": 1699362037,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 26090,

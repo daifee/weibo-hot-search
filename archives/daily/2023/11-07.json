@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699361320598,
+  "endTime": 1699363242099,
   "band_list": [
     {
       "raw_hot": 3794345,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 1321980,
-      "num": 540982,
+      "num": 995196,
       "word": "网友提醒刘强东老家水龙头忘关了",
       "onboard_time": 1699355195,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1301035,
+      "num": 1301035,
+      "word": "第一次见放了6集男主叫不出女主名字的",
+      "onboard_time": 1699359334,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1206159,
@@ -225,14 +233,6 @@
       "onboard_time": 1699328312,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1057030,
-      "num": 1057030,
-      "word": "第一次见放了6集男主叫不出女主名字的",
-      "onboard_time": 1699359334,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1029487,
@@ -297,6 +297,14 @@
       "onboard_time": 1699321291,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862436,
+      "num": 862436,
+      "word": "白鹿张凌赫好会亲",
+      "onboard_time": 1699361914,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 855975,
@@ -441,6 +449,14 @@
       "onboard_time": 1699316979,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 633841,
+      "num": 633841,
+      "word": "奔跑吧",
+      "onboard_time": 1699359755,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 628311,
@@ -699,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 479251,
-      "num": 479251,
-      "word": "奔跑吧",
-      "onboard_time": 1699359755,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477184,
       "num": 477184,
       "word": "人民网评院长贩卖婴儿出生证明",
@@ -777,6 +785,14 @@
       "onboard_time": 1699318177,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 432423,
+      "num": 432423,
+      "word": "林俊杰演唱会门票",
+      "onboard_time": 1699361736,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 425996,
@@ -1003,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316606,
+      "num": 316606,
+      "word": "体育馆坍塌幸存男孩亲述逃生经历",
+      "onboard_time": 1699360715,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315925,
       "num": 315925,
       "word": "恒大地产再被强制执行4亿",
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 291296,
-      "num": 258553,
+      "num": 274171,
       "word": "热依扎一巴掌梦回甄嬛传",
       "onboard_time": 1699359037,
       "rank": 23,
@@ -1755,6 +1779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189636,
+      "num": 189636,
+      "word": "王曼昱进国家队十周年",
+      "onboard_time": 1699362577,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189460,
       "num": 189460,
       "word": "詹姆斯选择传球被群嘲",
@@ -1785,14 +1817,6 @@
       "onboard_time": 1699356872,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188447,
-      "num": 215018,
-      "word": "体育馆坍塌幸存男孩亲述逃生经历",
-      "onboard_time": 1699360715,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188408,
@@ -1899,6 +1923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177450,
+      "num": 177450,
+      "word": "茄子焖饭",
+      "onboard_time": 1699361793,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174758,
       "num": 174758,
       "word": "幼儿园厨师做菜的一天",
@@ -1955,6 +1987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 168272,
+      "num": 168272,
+      "word": "懂车帝实测",
+      "onboard_time": 1699362212,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167410,
       "num": 167410,
       "word": "勇士战胜活塞",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1699329814,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164698,
+      "num": 164698,
+      "word": "东北大学生正式确诊为华妃",
+      "onboard_time": 1699362997,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163150,
@@ -2483,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121080,
+      "num": 121080,
+      "word": "秦岚一说话我就想给她换电池",
+      "onboard_time": 1699363176,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119943,
       "num": 119943,
       "word": "高校运动会团体赛失误全员惊现一字马",
@@ -2635,6 +2691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85844,
+      "num": 189183,
+      "word": "iQOO12面面俱到",
+      "onboard_time": 1699362641,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85690,
       "num": 85690,
       "word": "苏醒教你辨认苏醒的热搜",
@@ -2707,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74107,
+      "num": 367573,
+      "word": "iQOO发布首款自研电竞芯片",
+      "onboard_time": 1699360355,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73712,
       "num": 73712,
       "word": "柚子烤五花肉",
@@ -2755,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60192,
+      "num": 994994,
+      "word": "一场中国与世界的双向奔赴",
+      "onboard_time": 1699361374,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 58449,
       "num": 58449,
       "word": "陈都灵的冷笑",
@@ -2787,14 +2867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 54845,
-      "num": 367573,
-      "word": "iQOO发布首款自研电竞芯片",
-      "onboard_time": 1699360355,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 45977,
       "num": 193256,
       "word": "寒潮加剧天猫急增2亿保暖补贴",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27792,
+      "num": 378385,
+      "word": "被秦霄贤孟鹤堂直播笑发财",
+      "onboard_time": 1699362037,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 26090,
