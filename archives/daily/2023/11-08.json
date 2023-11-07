@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699392846715,
+  "endTime": 1699395383986,
   "band_list": [
     {
       "raw_hot": 1945263,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96735,
+      "num": 48884,
+      "word": "张踩铃 别让孩子成为情绪的宣泄口",
+      "onboard_time": 1699393333,
+      "rank": 13,
+      "category": "综艺,母婴育儿"
+    },
+    {
       "raw_hot": 95471,
       "num": 177663,
       "word": "19个月大宝宝去世捐器官救6人",
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40882,
+      "num": 48857,
+      "word": "怎么才能教育出一个自信的孩子",
+      "onboard_time": 1699389792,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 32817,
       "num": 50038,
       "word": "伊朗总统将前往沙特",
@@ -475,12 +491,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23908,
-      "num": 48383,
-      "word": "怎么才能教育出一个自信的孩子",
-      "onboard_time": 1699389792,
-      "rank": 30,
-      "category": "母婴育儿"
+      "raw_hot": 21466,
+      "num": 48554,
+      "word": "奔跑吧",
+      "onboard_time": 1699359755,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18167,
+      "num": 48469,
+      "word": "任素汐每句话都砍在了大姨的动脉上",
+      "onboard_time": 1699394956,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 17900,
@@ -491,16 +515,16 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16436,
-      "num": 48316,
-      "word": "奔跑吧",
-      "onboard_time": 1699359755,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 17779,
+      "num": 48460,
+      "word": "我的秘密被朋友拿去开店了",
+      "onboard_time": 1699393034,
+      "rank": 41,
+      "category": "情感"
     },
     {
-      "raw_hot": 12974,
-      "num": 48237,
+      "raw_hot": 14552,
+      "num": 48344,
       "word": "中山二院乳腺外科",
       "onboard_time": 1699333118,
       "rank": 48,
