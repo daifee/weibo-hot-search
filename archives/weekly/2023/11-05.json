@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699353331448,
+  "endTime": 1699355687556,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -635,6 +635,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 1282888,
+      "num": 649823,
+      "word": "魏大勋冷脸甩伞",
+      "onboard_time": 1699351056,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1272970,
       "num": 1272970,
       "word": "马龙1比4林昀儒",
@@ -1163,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 801932,
-      "num": 523148,
-      "word": "魏大勋冷脸甩伞",
-      "onboard_time": 1699351056,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 798327,
       "num": 798327,
       "word": "奔跑吧",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1699176875,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 744387,
+      "num": 744387,
+      "word": "教资",
+      "onboard_time": 1699346075,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 744096,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 696977,
-      "num": 540330,
+      "num": 541361,
       "word": "何猷君曾担心奚梦瑶嫌弃他",
       "onboard_time": 1699351594,
       "rank": 21,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1699264113,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 654209,
+      "num": 654209,
+      "word": "地瓜拿铁",
+      "onboard_time": 1699350756,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 650457,
@@ -1843,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548376,
+      "num": 548376,
+      "word": "奔跑吧官微运营的手机被抢走了",
+      "onboard_time": 1699352616,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -1955,14 +1979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 523765,
-      "num": 523765,
-      "word": "教资",
-      "onboard_time": 1699346075,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 519003,
       "num": 519003,
       "word": "不一定斩男 百分百斩女",
@@ -2057,14 +2073,6 @@
       "onboard_time": 1699327411,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494372,
-      "num": 494372,
-      "word": "地瓜拿铁",
-      "onboard_time": 1699350756,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 492260,
@@ -3043,14 +3051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336305,
-      "num": 299064,
-      "word": "奔跑吧官微运营的手机被抢走了",
-      "onboard_time": 1699352616,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335369,
       "num": 305661,
       "word": "赵露思韩系妆容",
@@ -3331,6 +3331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 300236,
+      "num": 300236,
+      "word": "宋亚轩被杨丽萍当成时尚单品了",
+      "onboard_time": 1699355014,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299042,
       "num": 299042,
       "word": "张翰杨烁吃蘑菇",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1699188456,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 285276,
+      "num": 285276,
+      "word": "果郡王为甄嬛做了很多事但都轻描淡写",
+      "onboard_time": 1699353877,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 284342,
@@ -3545,6 +3561,14 @@
       "onboard_time": 1699243118,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273893,
+      "num": 273893,
+      "word": "关晓彤卢昱晓小巷人家试妆照",
+      "onboard_time": 1699353759,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 273108,
@@ -3811,6 +3835,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 249388,
+      "num": 249388,
+      "word": "柯南一天官宣两家联名",
+      "onboard_time": 1699354656,
+      "rank": 27,
+      "category": "动漫,美食"
+    },
+    {
       "raw_hot": 249232,
       "num": 249232,
       "word": "薛之谦梅州",
@@ -3889,6 +3921,14 @@
       "onboard_time": 1699330597,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244571,
+      "num": 244571,
+      "word": "黄渤王一博凤凰奖优秀男主角",
+      "onboard_time": 1699355256,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 244520,
@@ -4387,6 +4427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221327,
+      "num": 216933,
+      "word": "时代少年团半秒三连拍",
+      "onboard_time": 1699354956,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220967,
       "num": 220967,
       "word": "成毅粉丝cos李莲花跳昆卡",
@@ -4441,6 +4489,14 @@
       "onboard_time": 1699192597,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217089,
+      "num": 217089,
+      "word": "波比跳 公认的燃脂运动",
+      "onboard_time": 1699354117,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 216845,
@@ -4601,6 +4657,14 @@
       "onboard_time": 1699329814,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208361,
+      "num": 181865,
+      "word": "妈妈们好像上过统一的培训班",
+      "onboard_time": 1699354774,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 208302,
@@ -4769,6 +4833,14 @@
       "onboard_time": 1699229496,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201434,
+      "num": 201434,
+      "word": "襄阳通报健桥医院贩卖出生证问题",
+      "onboard_time": 1699355014,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201361,
@@ -5273,6 +5345,14 @@
       "onboard_time": 1699259313,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188686,
+      "num": 309771,
+      "word": "暴雪后东北人在雪地里洗貂皮大衣",
+      "onboard_time": 1699353276,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188178,
@@ -5953,6 +6033,14 @@
       "onboard_time": 1699315714,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157994,
+      "num": 157994,
+      "word": "网友提醒刘强东老家水龙头忘关了",
+      "onboard_time": 1699355195,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157964,
@@ -6763,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129749,
+      "num": 150678,
+      "word": "原神 全员开朗",
+      "onboard_time": 1699353816,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129410,
       "num": 129410,
       "word": "佳木斯贺晶",
@@ -7132,7 +7228,7 @@
     },
     {
       "raw_hot": 113280,
-      "num": 517629,
+      "num": 764532,
       "word": "医保新平台帮企业节约人工6000小时",
       "onboard_time": 1699351836,
       "rank": 17,
@@ -7353,14 +7449,6 @@
       "onboard_time": 1699297574,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 103084,
-      "num": 309771,
-      "word": "暴雪后东北人在雪地里洗貂皮大衣",
-      "onboard_time": 1699353276,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102815,

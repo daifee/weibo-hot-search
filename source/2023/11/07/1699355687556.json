@@ -1,0 +1,410 @@
+{
+  "runTime": 1699355687556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1679894,
+        "num": 1679894,
+        "word": "宁安如梦空降",
+        "onboard_time": 1699348057,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580180,
+        "num": 1422212,
+        "word": "小区保安要辞职业主群刷屏挽留",
+        "onboard_time": 1699350695,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60547,
+        "num": 1300405,
+        "word": "AI眼中的中国",
+        "onboard_time": 1699343492,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1219076,
+        "num": 1219076,
+        "word": "中山二院辟谣乳腺外科团队学生患癌",
+        "onboard_time": 1699345597,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292263,
+        "num": 940575,
+        "word": "樊振东孙颖莎顶峰相见",
+        "onboard_time": 1699349254,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827338,
+        "num": 827338,
+        "word": "爱奇艺用白鹿对打白鹿",
+        "onboard_time": 1699349734,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70829,
+        "num": 764532,
+        "word": "医保新平台帮企业节约人工6000小时",
+        "onboard_time": 1699351836,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744387,
+        "num": 744387,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 687206,
+        "num": 687206,
+        "word": "金莎男友是山东蓝翔出来的吗",
+        "onboard_time": 1699350455,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654209,
+        "num": 654209,
+        "word": "地瓜拿铁",
+        "onboard_time": 1699350756,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1282888,
+        "num": 649823,
+        "word": "魏大勋冷脸甩伞",
+        "onboard_time": 1699351056,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 970645,
+        "num": 644615,
+        "word": "与女主播发生关系住持当选省政协委员",
+        "onboard_time": 1699344754,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637978,
+        "num": 637978,
+        "word": "宁安如梦",
+        "onboard_time": 1699343012,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548376,
+        "num": 548376,
+        "word": "奔跑吧官微运营的手机被抢走了",
+        "onboard_time": 1699352616,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541361,
+        "num": 541361,
+        "word": "何猷君曾担心奚梦瑶嫌弃他",
+        "onboard_time": 1699351594,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515104,
+        "num": 515104,
+        "word": "官方通报医院被举报贩卖出生证及婴儿",
+        "onboard_time": 1699348776,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427441,
+        "num": 427441,
+        "word": "东方青苍长珩仙君生生世世的仇敌对手",
+        "onboard_time": 1699351478,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388935,
+        "num": 388935,
+        "word": "比砒霜还毒900倍的致癌物",
+        "onboard_time": 1699338033,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327565,
+        "num": 327565,
+        "word": "杨幂谈原生家庭的缺失",
+        "onboard_time": 1699348895,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326237,
+        "num": 326237,
+        "word": "节奏大师",
+        "onboard_time": 1699335630,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 445678,
+        "num": 324772,
+        "word": "中山二院乳腺外科",
+        "onboard_time": 1699333118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312786,
+        "num": 312786,
+        "word": "赵丽颖也玩节奏大师",
+        "onboard_time": 1699333657,
+        "rank": 21,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 312576,
+        "num": 312576,
+        "word": "腾讯已成功注册节奏大师商标",
+        "onboard_time": 1699335512,
+        "rank": 22,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 300236,
+        "num": 300236,
+        "word": "宋亚轩被杨丽萍当成时尚单品了",
+        "onboard_time": 1699355014,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286484,
+        "num": 286484,
+        "word": "秦岚用的什么洗发水",
+        "onboard_time": 1699352494,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285276,
+        "num": 285276,
+        "word": "果郡王为甄嬛做了很多事但都轻描淡写",
+        "onboard_time": 1699353877,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273893,
+        "num": 273893,
+        "word": "关晓彤卢昱晓小巷人家试妆照",
+        "onboard_time": 1699353759,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249388,
+        "num": 249388,
+        "word": "柯南一天官宣两家联名",
+        "onboard_time": 1699354656,
+        "rank": 27,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 244571,
+        "num": 244571,
+        "word": "黄渤王一博凤凰奖优秀男主角",
+        "onboard_time": 1699355256,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219177,
+        "num": 219177,
+        "word": "节奏大师回应部分玩家无法进入游戏",
+        "onboard_time": 1699332338,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235989,
+        "num": 218872,
+        "word": "新的TFBOYS出现了 TFBOY适",
+        "onboard_time": 1699339591,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233871,
+        "num": 218603,
+        "word": "张凌赫连播三部古装剧",
+        "onboard_time": 1699351894,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233311,
+        "num": 217832,
+        "word": "白鹿宁安如梦1女3男",
+        "onboard_time": 1699351356,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227536,
+        "num": 217162,
+        "word": "薛之谦郑州演唱会举办方被罚8万",
+        "onboard_time": 1699349973,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217089,
+        "num": 217089,
+        "word": "波比跳 公认的燃脂运动",
+        "onboard_time": 1699354117,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 221327,
+        "num": 216933,
+        "word": "时代少年团半秒三连拍",
+        "onboard_time": 1699354956,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218214,
+        "num": 215385,
+        "word": "田小娟柳智敏张元英合作新歌",
+        "onboard_time": 1699349134,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207199,
+        "num": 207199,
+        "word": "黑龙江一男子冻死街头",
+        "onboard_time": 1699337910,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201434,
+        "num": 201434,
+        "word": "襄阳通报健桥医院贩卖出生证问题",
+        "onboard_time": 1699355014,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188686,
+        "num": 188686,
+        "word": "暴雪后东北人在雪地里洗貂皮大衣",
+        "onboard_time": 1699353276,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208361,
+        "num": 181865,
+        "word": "妈妈们好像上过统一的培训班",
+        "onboard_time": 1699354774,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204431,
+        "num": 181188,
+        "word": "快乐老友记定档",
+        "onboard_time": 1699348776,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172554,
+        "num": 172554,
+        "word": "金莎和男友的第一张合影",
+        "onboard_time": 1699334972,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159538,
+        "num": 159538,
+        "word": "轨是昨天出的 人是今天没的",
+        "onboard_time": 1699327411,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157994,
+        "num": 157994,
+        "word": "网友提醒刘强东老家水龙头忘关了",
+        "onboard_time": 1699355195,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152826,
+        "num": 152826,
+        "word": "体育馆坍塌一遇难学生是当地小球王",
+        "onboard_time": 1699347577,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138769,
+        "num": 151540,
+        "word": "体育馆坍塌后逃出男生又返回救同学",
+        "onboard_time": 1699352198,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129749,
+        "num": 150678,
+        "word": "原神 全员开朗",
+        "onboard_time": 1699353816,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124867,
+        "num": 148341,
+        "word": "ELLE登封造极",
+        "onboard_time": 1699352258,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 121133,
+        "num": 147491,
+        "word": "苏士成",
+        "onboard_time": 1699335752,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从头回客与回头客中见证进博魅力#"
+    }
+  }
+}
