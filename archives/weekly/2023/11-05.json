@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699346073939,
+  "endTime": 1699348640138,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -163,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2255957,
+      "num": 2255957,
+      "word": "中山二院辟谣乳腺外科团队学生患癌",
+      "onboard_time": 1699345597,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2150252,
       "num": 2150252,
       "word": "科学家发现地球正在漏气",
       "onboard_time": 1699235554,
       "rank": 5,
       "category": "社会新闻,知识科普"
+    },
+    {
+      "raw_hot": 2119309,
+      "num": 2119309,
+      "word": "宁安如梦空降",
+      "onboard_time": 1699348057,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2109443,
@@ -240,6 +256,14 @@
       "word": "肺部CT报告中有些字眼可能是癌",
       "onboard_time": 1699154070,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1945160,
+      "num": 1945160,
+      "word": "与女主播发生关系住持当选省政协委员",
+      "onboard_time": 1699344754,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1629377,
-      "num": 305399,
-      "word": "与女主播发生关系住持当选省政协委员",
-      "onboard_time": 1699344754,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1621162,
       "num": 1621162,
       "word": "马龙林昀儒争冠",
@@ -449,6 +465,14 @@
       "onboard_time": 1699191396,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1525174,
+      "num": 1525174,
+      "word": "宁安如梦",
+      "onboard_time": 1699343012,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1516493,
@@ -705,14 +729,6 @@
       "onboard_time": 1699208777,
       "rank": 36,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1136460,
-      "num": 1136460,
-      "word": "宁安如梦",
-      "onboard_time": 1699343012,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1131525,
@@ -1579,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599919,
+      "num": 599919,
+      "word": "广西6岁女孩沙滩走失遗体被发现",
+      "onboard_time": 1699344933,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599030,
       "num": 599030,
       "word": "ZZxinqing",
@@ -1700,7 +1724,7 @@
     },
     {
       "raw_hot": 558169,
-      "num": 304430,
+      "num": 330164,
       "word": "张馨予 我可以帮你实现一个愿望",
       "onboard_time": 1699344334,
       "rank": 12,
@@ -1745,6 +1769,14 @@
       "onboard_time": 1699334972,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547779,
+      "num": 455646,
+      "word": "张艺谋儿子甄子丹女儿 巴黎名媛舞会",
+      "onboard_time": 1699346978,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 547539,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1699332338,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 523765,
+      "num": 523765,
+      "word": "教资",
+      "onboard_time": 1699346075,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 519003,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1699263392,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456385,
+      "num": 456385,
+      "word": "要久久爱上星播出",
+      "onboard_time": 1699346256,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 454522,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1699276235,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364038,
+      "num": 364038,
+      "word": "涉嫌卖出生证及婴儿院长被警方控制",
+      "onboard_time": 1699348117,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363730,
@@ -3411,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265004,
+      "num": 265004,
+      "word": "两只猫亲了一口做了三天噩梦",
+      "onboard_time": 1699346135,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263898,
       "num": 236777,
       "word": "家里猫猫竟突然复活",
@@ -3497,6 +3561,14 @@
       "onboard_time": 1699169430,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255520,
+      "num": 255520,
+      "word": "宁安如梦6天连更16集",
+      "onboard_time": 1699348175,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 255459,
@@ -3875,14 +3947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234317,
-      "num": 234317,
-      "word": "广西6岁女孩沙滩走失遗体被发现",
-      "onboard_time": 1699344933,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234123,
       "num": 234123,
       "word": "王阳怎么不说王子请看剧",
@@ -4057,6 +4121,14 @@
       "onboard_time": 1699160793,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224868,
+      "num": 224868,
+      "word": "你买过Switch吗",
+      "onboard_time": 1699345414,
+      "rank": 27,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 224268,
@@ -4395,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206295,
+      "num": 206295,
+      "word": "摩羯座真的很讨厌计划被打乱",
+      "onboard_time": 1699345597,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206038,
       "num": 224586,
       "word": "张亮舞台尿裤子险进剧院黑名单",
@@ -4491,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201361,
+      "num": 201361,
+      "word": "董明珠王自如回应绯闻",
+      "onboard_time": 1699346856,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201269,
       "num": 201269,
       "word": "阴阳师 超鬼王",
@@ -4529,6 +4617,14 @@
       "onboard_time": 1699167570,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200330,
+      "num": 200330,
+      "word": "声生不息",
+      "onboard_time": 1699347695,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 200172,
@@ -4675,14 +4771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196587,
-      "num": 196587,
-      "word": "你买过Switch吗",
-      "onboard_time": 1699345414,
-      "rank": 27,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 196586,
       "num": 196586,
       "word": "郑合惠子医师造型",
@@ -4705,14 +4793,6 @@
       "onboard_time": 1699193496,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195809,
-      "num": 195809,
-      "word": "中山二院辟谣乳腺外科团队学生患癌",
-      "onboard_time": 1699345597,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195438,
@@ -4795,12 +4875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193498,
+      "num": 193498,
+      "word": "王曼昱世界排名第二",
+      "onboard_time": 1699344997,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193483,
       "num": 193483,
       "word": "怜爱GR",
       "onboard_time": 1699179273,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193247,
+      "num": 193247,
+      "word": "鸭子为什么很少以油炸的形式出现",
+      "onboard_time": 1699346135,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 193204,
@@ -4849,14 +4945,6 @@
       "onboard_time": 1699326630,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192155,
-      "num": 192155,
-      "word": "摩羯座真的很讨厌计划被打乱",
-      "onboard_time": 1699345597,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 191968,
@@ -4985,14 +5073,6 @@
       "onboard_time": 1699247556,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187438,
-      "num": 187438,
-      "word": "王曼昱世界排名第二",
-      "onboard_time": 1699344997,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 187330,
@@ -5505,6 +5585,14 @@
       "onboard_time": 1699328552,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163016,
+      "num": 163016,
+      "word": "马伯骞真的有在好好披荆斩棘",
+      "onboard_time": 1699347036,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162960,
@@ -6203,6 +6291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139315,
+      "num": 139315,
+      "word": "快乐老友记",
+      "onboard_time": 1699348594,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139035,
       "num": 139035,
       "word": "BOYNEXTDOOR的中国零食pick",
@@ -6393,6 +6489,14 @@
       "onboard_time": 1699290320,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131538,
+      "num": 131538,
+      "word": "体育馆坍塌一遇难学生是当地小球王",
+      "onboard_time": 1699347577,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131469,
@@ -6753,6 +6857,14 @@
       "onboard_time": 1699270594,
       "rank": 39,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 117649,
+      "num": 117649,
+      "word": "心脏茶包",
+      "onboard_time": 1699347515,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 117062,
@@ -7131,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97690,
+      "num": 450256,
+      "word": "华为手机信号好的秘密找到了",
+      "onboard_time": 1699346135,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 97430,
       "num": 113143,
       "word": "演唱会化什么妆",
@@ -7339,20 +7459,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80149,
+      "num": 2023650,
+      "word": "AI眼中的中国",
+      "onboard_time": 1699343492,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 80141,
       "num": 206435,
       "word": "天冷加衣",
       "onboard_time": 1699149513,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78627,
-      "num": 1197750,
-      "word": "AI眼中的中国",
-      "onboard_time": 1699343492,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 78541,
@@ -7826,6 +7946,9 @@
     },
     {
       "word": "#习近平会见塞尔维亚总理#"
+    },
+    {
+      "word": "#从头回客与回头客中见证进博魅力#"
     }
   ]
 }

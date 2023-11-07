@@ -1,6 +1,6 @@
 {
   "startTime": 1699287815004,
-  "endTime": 1699346073939,
+  "endTime": 1699348640138,
   "band_list": [
     {
       "raw_hot": 3083262,
@@ -27,6 +27,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2255957,
+      "num": 2255957,
+      "word": "中山二院辟谣乳腺外科团队学生患癌",
+      "onboard_time": 1699345597,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2119309,
+      "num": 2119309,
+      "word": "宁安如梦空降",
+      "onboard_time": 1699348057,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2069045,
       "num": 2069045,
       "word": "比砒霜还毒900倍的致癌物",
@@ -40,6 +56,14 @@
       "word": "黑龙江一男子冻死街头",
       "onboard_time": 1699337910,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1945160,
+      "num": 1945160,
+      "word": "与女主播发生关系住持当选省政协委员",
+      "onboard_time": 1699344754,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -91,12 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1629377,
-      "num": 305399,
-      "word": "与女主播发生关系住持当选省政协委员",
-      "onboard_time": 1699344754,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1525174,
+      "num": 1525174,
+      "word": "宁安如梦",
+      "onboard_time": 1699343012,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1497508,
@@ -145,14 +169,6 @@
       "onboard_time": 1699335512,
       "rank": 4,
       "category": "游戏,互联网"
-    },
-    {
-      "raw_hot": 1136460,
-      "num": 1136460,
-      "word": "宁安如梦",
-      "onboard_time": 1699343012,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1126481,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 599919,
+      "num": 599919,
+      "word": "广西6岁女孩沙滩走失遗体被发现",
+      "onboard_time": 1699344933,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599030,
       "num": 599030,
       "word": "ZZxinqing",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 558169,
-      "num": 304430,
+      "num": 330164,
       "word": "张馨予 我可以帮你实现一个愿望",
       "onboard_time": 1699344334,
       "rank": 12,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547779,
+      "num": 455646,
+      "word": "张艺谋儿子甄子丹女儿 巴黎名媛舞会",
+      "onboard_time": 1699346978,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -465,6 +497,14 @@
       "onboard_time": 1699332338,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 523765,
+      "num": 523765,
+      "word": "教资",
+      "onboard_time": 1699346075,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 519003,
@@ -529,6 +569,14 @@
       "onboard_time": 1699320928,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 456385,
+      "num": 456385,
+      "word": "要久久爱上星播出",
+      "onboard_time": 1699346256,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 454522,
@@ -632,6 +680,14 @@
       "word": "佳木斯体育馆坍塌事故遇难者为初中生",
       "onboard_time": 1699334851,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364038,
+      "num": 364038,
+      "word": "涉嫌卖出生证及婴儿院长被警方控制",
+      "onboard_time": 1699348117,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -819,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265004,
+      "num": 265004,
+      "word": "两只猫亲了一口做了三天噩梦",
+      "onboard_time": 1699346135,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263898,
       "num": 236777,
       "word": "家里猫猫竟突然复活",
@@ -841,6 +905,14 @@
       "onboard_time": 1699281403,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255520,
+      "num": 255520,
+      "word": "宁安如梦6天连更16集",
+      "onboard_time": 1699348175,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 254449,
@@ -947,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234317,
-      "num": 234317,
-      "word": "广西6岁女孩沙滩走失遗体被发现",
-      "onboard_time": 1699344933,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232349,
       "num": 295876,
       "word": "浓眉受伤",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1699284033,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224868,
+      "num": 224868,
+      "word": "你买过Switch吗",
+      "onboard_time": 1699345414,
+      "rank": 27,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 224047,
@@ -1107,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206295,
+      "num": 206295,
+      "word": "摩羯座真的很讨厌计划被打乱",
+      "onboard_time": 1699345597,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205902,
       "num": 205902,
       "word": "佳木斯体育馆坍塌救援在大雪中进行",
@@ -1139,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201361,
+      "num": 201361,
+      "word": "董明珠王自如回应绯闻",
+      "onboard_time": 1699346856,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201269,
       "num": 201269,
       "word": "阴阳师 超鬼王",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1699336954,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200330,
+      "num": 200330,
+      "word": "声生不息",
+      "onboard_time": 1699347695,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 200172,
@@ -1195,28 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196587,
-      "num": 196587,
-      "word": "你买过Switch吗",
-      "onboard_time": 1699345414,
-      "rank": 27,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 196586,
       "num": 196586,
       "word": "郑合惠子医师造型",
       "onboard_time": 1699318953,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195809,
-      "num": 195809,
-      "word": "中山二院辟谣乳腺外科团队学生患癌",
-      "onboard_time": 1699345597,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195342,
@@ -1235,20 +1315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193498,
+      "num": 193498,
+      "word": "王曼昱世界排名第二",
+      "onboard_time": 1699344997,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193247,
+      "num": 193247,
+      "word": "鸭子为什么很少以油炸的形式出现",
+      "onboard_time": 1699346135,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192211,
       "num": 229975,
       "word": "父亲牺牲10年后女儿继承警号",
       "onboard_time": 1699326630,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192155,
-      "num": 192155,
-      "word": "摩羯座真的很讨厌计划被打乱",
-      "onboard_time": 1699345597,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 191968,
@@ -1289,14 +1377,6 @@
       "onboard_time": 1699268134,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187438,
-      "num": 187438,
-      "word": "王曼昱世界排名第二",
-      "onboard_time": 1699344997,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 187330,
@@ -1449,6 +1529,14 @@
       "onboard_time": 1699328552,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163016,
+      "num": 163016,
+      "word": "马伯骞真的有在好好披荆斩棘",
+      "onboard_time": 1699347036,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 161924,
@@ -1739,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139315,
+      "num": 139315,
+      "word": "快乐老友记",
+      "onboard_time": 1699348594,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138549,
       "num": 291534,
       "word": "无线耳机的破防时刻",
@@ -1793,6 +1889,14 @@
       "onboard_time": 1699290320,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131538,
+      "num": 131538,
+      "word": "体育馆坍塌一遇难学生是当地小球王",
+      "onboard_time": 1699347577,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130062,
@@ -1899,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117649,
+      "num": 117649,
+      "word": "心脏茶包",
+      "onboard_time": 1699347515,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117062,
       "num": 117062,
       "word": "92岁老兵仍能精准破译摩斯电码",
@@ -1987,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97690,
+      "num": 450256,
+      "word": "华为手机信号好的秘密找到了",
+      "onboard_time": 1699346135,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94395,
       "num": 94395,
       "word": "哈尔滨的哈是哈利波特的哈",
@@ -2059,8 +2179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78627,
-      "num": 1197750,
+      "raw_hot": 80149,
+      "num": 2023650,
       "word": "AI眼中的中国",
       "onboard_time": 1699343492,
       "rank": 2,
@@ -2213,6 +2333,9 @@
     },
     {
       "word": "#习近平会见塞尔维亚总理#"
+    },
+    {
+      "word": "#从头回客与回头客中见证进博魅力#"
     }
   ]
 }
