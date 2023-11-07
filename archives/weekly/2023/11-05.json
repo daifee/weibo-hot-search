@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699335250962,
+  "endTime": 1699338148920,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -81,6 +81,14 @@
       "onboard_time": 1699174532,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3083262,
+      "num": 638327,
+      "word": "中山二院乳腺外科",
+      "onboard_time": 1699333118,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3005329,
@@ -267,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1758863,
-      "num": 638327,
-      "word": "中山二院乳腺外科",
-      "onboard_time": 1699333118,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1754968,
       "num": 477543,
       "word": "超市老板猥亵14岁小女孩被行拘9日",
@@ -305,6 +305,14 @@
       "onboard_time": 1699197578,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1717926,
+      "num": 447131,
+      "word": "苏士成",
+      "onboard_time": 1699335752,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1712557,
@@ -449,6 +457,14 @@
       "onboard_time": 1699111959,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1471749,
+      "num": 1471749,
+      "word": "佳木斯一体育馆坍塌事故最新情况",
+      "onboard_time": 1699333596,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1464199,
@@ -659,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1126481,
+      "num": 1000928,
+      "word": "金莎男友为追她给她做了100多道菜",
+      "onboard_time": 1699333835,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1097810,
       "num": 1097810,
       "word": "俞灏明 没成团",
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992383,
+      "num": 992383,
+      "word": "腾讯已成功注册节奏大师商标",
+      "onboard_time": 1699335512,
+      "rank": 4,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 970406,
       "num": 414221,
       "word": "鼓楼医院",
@@ -857,14 +889,6 @@
       "onboard_time": 1699147591,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883611,
-      "num": 883611,
-      "word": "金莎男友为追她给她做了100多道菜",
-      "onboard_time": 1699333835,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 878181,
@@ -1299,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 650457,
+      "num": 650457,
+      "word": "节奏大师",
+      "onboard_time": 1699335630,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 643654,
       "num": 643654,
       "word": "皇马替樊振东发了Vlog",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1699316979,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 641903,
-      "num": 641903,
-      "word": "佳木斯一体育馆坍塌事故最新情况",
-      "onboard_time": 1699333596,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 639413,
@@ -1635,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551158,
+      "num": 446859,
+      "word": "金莎和男友的第一张合影",
+      "onboard_time": 1699334972,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1699266693,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485653,
+      "num": 485653,
+      "word": "35岁女子在香港做泥瓦工月入10万",
+      "onboard_time": 1699334076,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485312,
@@ -2411,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392621,
+      "num": 392621,
+      "word": "郑秀妍将回归",
+      "onboard_time": 1699336772,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389081,
       "num": 363123,
       "word": "李现对接回应出演国色芳华",
@@ -2523,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367159,
+      "num": 367159,
+      "word": "佳木斯体育馆坍塌事故遇难者为初中生",
+      "onboard_time": 1699334851,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364145,
       "num": 317054,
       "word": "刘诗诗穿上高领毛衣还有脖子",
@@ -2537,6 +2593,14 @@
       "onboard_time": 1699324771,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 362005,
+      "num": 362005,
+      "word": "霉霉 就算搞砸了也没什么大不了",
+      "onboard_time": 1699334612,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 361571,
@@ -2819,6 +2883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 324934,
+      "num": 324934,
+      "word": "以爱为营抓手吻",
+      "onboard_time": 1699336833,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323128,
       "num": 323128,
       "word": "张靓颖演唱会万人一起喝水",
@@ -3051,14 +3123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287593,
-      "num": 287593,
-      "word": "佳木斯体育馆坍塌事故遇难者为初中生",
-      "onboard_time": 1699334851,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285885,
       "num": 285885,
       "word": "在高铁上碰到有人吃榴莲",
@@ -3089,14 +3153,6 @@
       "onboard_time": 1699188456,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 282262,
-      "num": 282262,
-      "word": "霉霉 就算搞砸了也没什么大不了",
-      "onboard_time": 1699334612,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 281325,
@@ -3259,6 +3315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263772,
+      "num": 263772,
+      "word": "东北人不追星 因为东北全明星",
+      "onboard_time": 1699337193,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263101,
       "num": 263101,
       "word": "白鹿温柔盘发妆",
@@ -3273,14 +3337,6 @@
       "onboard_time": 1699257452,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 261393,
-      "num": 261393,
-      "word": "金莎和男友的第一张合影",
-      "onboard_time": 1699334972,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 260427,
@@ -3321,14 +3377,6 @@
       "onboard_time": 1699259431,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256907,
-      "num": 282403,
-      "word": "35岁女子在香港做泥瓦工月入10万",
-      "onboard_time": 1699334076,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256398,
@@ -3705,6 +3753,14 @@
       "onboard_time": 1699181796,
       "rank": 36,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 235243,
+      "num": 235243,
+      "word": "詹姆斯太想赢了",
+      "onboard_time": 1699337493,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 234123,
@@ -4305,6 +4361,14 @@
       "onboard_time": 1699254932,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200634,
+      "num": 195542,
+      "word": "佳木斯成立体育馆坍塌事故调查组",
+      "onboard_time": 1699336954,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200338,
@@ -5323,6 +5387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159183,
+      "num": 159183,
+      "word": "匪我思存 说灭男主全族就灭男主全族",
+      "onboard_time": 1699337433,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 158668,
       "num": 158668,
       "word": "财政部通报8起地方政府隐性债务问责典型案例",
@@ -5353,6 +5425,14 @@
       "onboard_time": 1699265317,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 157833,
+      "num": 157833,
+      "word": "秦岚辛芷蕾东北人相处日常",
+      "onboard_time": 1699337133,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157195,
@@ -5465,6 +5545,14 @@
       "onboard_time": 1699325669,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154401,
+      "num": 154401,
+      "word": "韩女做白人早饭",
+      "onboard_time": 1699335033,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 154331,
@@ -5715,6 +5803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144844,
+      "num": 144844,
+      "word": "比砒霜还毒900倍的致癌物",
+      "onboard_time": 1699338033,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144443,
       "num": 144443,
       "word": "EDG夺冠两周年",
@@ -5827,6 +5923,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 141675,
+      "num": 141675,
+      "word": "黑龙江一男子冻死街头",
+      "onboard_time": 1699337910,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141075,
       "num": 141075,
       "word": "这场面南方人表示震惊",
@@ -5923,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136878,
+      "num": 136878,
+      "word": "大江大河3 江苏卫视",
+      "onboard_time": 1699336111,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136695,
       "num": 136695,
       "word": "早年SHE唱跳现场",
@@ -5977,6 +6089,14 @@
       "onboard_time": 1699230755,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133671,
+      "num": 133671,
+      "word": "他甚至连拍照都是唐僧那死出",
+      "onboard_time": 1699336292,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 132763,
@@ -6225,14 +6345,6 @@
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124648,
-      "num": 124648,
-      "word": "韩女做白人早饭",
-      "onboard_time": 1699335033,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 124083,
@@ -7345,6 +7457,14 @@
       "onboard_time": 1699296194,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17063,
+      "num": 155408,
+      "word": "APP们在双十一都卷起来了",
+      "onboard_time": 1699328974,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 16886,
