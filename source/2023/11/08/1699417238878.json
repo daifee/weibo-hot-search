@@ -1,0 +1,410 @@
+{
+  "runTime": 1699417238878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2530109,
+        "num": 2530109,
+        "word": "90后公务员泄密获刑",
+        "onboard_time": 1699413153,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1889291,
+        "num": 1889291,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25842,
+        "num": 1575087,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1534402,
+        "num": 1534402,
+        "word": "关晓彤被整蛊 眼泪当下酒菜",
+        "onboard_time": 1699414832,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1559724,
+        "num": 1223531,
+        "word": "溺亡女医生遗书称被丈夫长期注射麻醉剂",
+        "onboard_time": 1699413692,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772481,
+        "num": 772481,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745196,
+        "num": 745196,
+        "word": "中山二院称欢迎第三方机构评估调查",
+        "onboard_time": 1699414714,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686589,
+        "num": 686589,
+        "word": "董明珠称孟羽童兼职接广告不合规",
+        "onboard_time": 1699413153,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 669200,
+        "num": 669200,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563035,
+        "num": 563035,
+        "word": "姜珮瑶 明媚的美",
+        "onboard_time": 1699409550,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1066881,
+        "num": 551270,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862889,
+        "num": 547449,
+        "word": "14岁女儿被打父亲悬赏1万找打人者",
+        "onboard_time": 1699410094,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533049,
+        "num": 533049,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517923,
+        "num": 517923,
+        "word": "何猷君 听老婆话会发达",
+        "onboard_time": 1699415073,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38392,
+        "num": 504904,
+        "word": "原神4.2版本更新 芙宁娜",
+        "onboard_time": 1699416034,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 502369,
+        "num": 502369,
+        "word": "90后男子在间谍指导下考上公务员",
+        "onboard_time": 1699415613,
+        "rank": 15,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 464370,
+        "num": 464370,
+        "word": "杨幂俏皮丸子头",
+        "onboard_time": 1699413334,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 452913,
+        "num": 452913,
+        "word": "立冬吃饺子",
+        "onboard_time": 1699399766,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 404949,
+        "num": 404949,
+        "word": "WBG获得选边权",
+        "onboard_time": 1699415134,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 364995,
+        "num": 364995,
+        "word": "将睡眠时间延长至8小时对身心的变化",
+        "onboard_time": 1699400970,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359262,
+        "num": 359262,
+        "word": "姜珮瑶 闺蜜专业户",
+        "onboard_time": 1699414532,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331160,
+        "num": 331160,
+        "word": "于适想要 于是得到",
+        "onboard_time": 1699413453,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322257,
+        "num": 322257,
+        "word": "百色学院通报一学生身亡",
+        "onboard_time": 1699415016,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298330,
+        "num": 298330,
+        "word": "刘亦菲于适配音迪士尼新片星愿",
+        "onboard_time": 1699411409,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291900,
+        "num": 291900,
+        "word": "张凌赫痛失本名",
+        "onboard_time": 1699413931,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246417,
+        "num": 246417,
+        "word": "上一秒与女主共浴 下一秒被关进大牢",
+        "onboard_time": 1699415016,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259329,
+        "num": 246407,
+        "word": "宁安如梦人物关系图",
+        "onboard_time": 1699408292,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245362,
+        "num": 245362,
+        "word": "金莎孙丞潇相差19岁",
+        "onboard_time": 1699414591,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272267,
+        "num": 241916,
+        "word": "刘亦菲玫瑰故事新造型路透",
+        "onboard_time": 1699413571,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231597,
+        "num": 231597,
+        "word": "闪耀之夜emoji剧透",
+        "onboard_time": 1699415556,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229045,
+        "num": 229045,
+        "word": "HM先森家的HM",
+        "onboard_time": 1699401753,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214734,
+        "num": 214734,
+        "word": "今日立冬",
+        "onboard_time": 1699398505,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208760,
+        "num": 208760,
+        "word": "低欲望生活让我26岁财务自由",
+        "onboard_time": 1699409252,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205642,
+        "num": 205642,
+        "word": "乐游原 女强男强",
+        "onboard_time": 1699416813,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204465,
+        "num": 204465,
+        "word": "李健南京抢票",
+        "onboard_time": 1699416096,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199741,
+        "num": 199741,
+        "word": "芙宁娜",
+        "onboard_time": 1699415735,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199116,
+        "num": 199116,
+        "word": "教资成绩",
+        "onboard_time": 1699409491,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196397,
+        "num": 196397,
+        "word": "乐游原 夹缝中生存",
+        "onboard_time": 1699416876,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190155,
+        "num": 190155,
+        "word": "王星越宁安如梦人设",
+        "onboard_time": 1699400369,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176661,
+        "num": 176661,
+        "word": "辛芷蕾 一款梦中情姐",
+        "onboard_time": 1699416936,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184272,
+        "num": 174004,
+        "word": "宁安如梦预告",
+        "onboard_time": 1699401152,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167219,
+        "num": 167219,
+        "word": "龚俊的上身身材",
+        "onboard_time": 1699413272,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165981,
+        "num": 165981,
+        "word": "原神 还不开门",
+        "onboard_time": 1699412129,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165609,
+        "num": 165609,
+        "word": "导师回应网传乳腺外科团队多人患癌",
+        "onboard_time": 1699366535,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159722,
+        "num": 159722,
+        "word": "内蒙男子开奥迪拽出被困雪地救护车",
+        "onboard_time": 1699412552,
+        "rank": 44,
+        "category": "社会正能量,汽车"
+      },
+      {
+        "raw_hot": 148021,
+        "num": 148021,
+        "word": "秦海璐在大象岩给花少每个人拍了照片",
+        "onboard_time": 1699410270,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "我为什么放弃所谓的贵妇护肤品",
+        "onboard_time": 1699410094,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145118,
+        "num": 145118,
+        "word": "真正的勇士是中国军人",
+        "onboard_time": 1699412973,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133284,
+        "num": 133284,
+        "word": "教资面试",
+        "onboard_time": 1699410094,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125694,
+        "num": 132823,
+        "word": "海清演的张桂梅校长台词句句扎心",
+        "onboard_time": 1699417176,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从头回客与回头客中见证进博魅力#"
+    }
+  }
+}

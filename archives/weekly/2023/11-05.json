@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699414458941,
+  "endTime": 1699417238878,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -169,6 +169,14 @@
       "onboard_time": 1699225944,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2530109,
+      "num": 2530109,
+      "word": "90后公务员泄密获刑",
+      "onboard_time": 1699413153,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2503695,
@@ -523,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1559724,
+      "num": 1223531,
+      "word": "溺亡女医生遗书称被丈夫长期注射麻醉剂",
+      "onboard_time": 1699413692,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1553287,
       "num": 1553287,
       "word": "网红一笑倾城停更76天后更新",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 1549077,
-      "num": 528889,
+      "num": 547449,
       "word": "14岁女儿被打父亲悬赏1万找打人者",
       "onboard_time": 1699410094,
       "rank": 42,
@@ -545,6 +561,14 @@
       "onboard_time": 1699191396,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1534402,
+      "num": 1534402,
+      "word": "关晓彤被整蛊 眼泪当下酒菜",
+      "onboard_time": 1699414832,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1525174,
@@ -889,14 +913,6 @@
       "onboard_time": 1699328312,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1091919,
-      "num": 1091919,
-      "word": "90后公务员泄密获刑",
-      "onboard_time": 1699413153,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1083594,
@@ -1451,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 745196,
+      "num": 745196,
+      "word": "中山二院称欢迎第三方机构评估调查",
+      "onboard_time": 1699414714,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744387,
       "num": 744387,
       "word": "教资",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1699276656,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686589,
+      "num": 686589,
+      "word": "董明珠称孟羽童兼职接广告不合规",
+      "onboard_time": 1699413153,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 676801,
@@ -1857,14 +1889,6 @@
       "onboard_time": 1699251752,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 614001,
-      "num": 614001,
-      "word": "董明珠称孟羽童兼职接广告不合规",
-      "onboard_time": 1699413153,
-      "rank": 44,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 610986,
@@ -2299,6 +2323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 517923,
+      "num": 517923,
+      "word": "何猷君 听老婆话会发达",
+      "onboard_time": 1699415073,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517463,
       "num": 517463,
       "word": "周也吹金粉",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1699361736,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 502369,
+      "num": 502369,
+      "word": "90后男子在间谍指导下考上公务员",
+      "onboard_time": 1699415613,
+      "rank": 15,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 498643,
@@ -2595,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 464370,
+      "num": 464370,
+      "word": "杨幂俏皮丸子头",
+      "onboard_time": 1699413334,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 462993,
       "num": 462993,
       "word": "山东省考",
@@ -2776,22 +2824,6 @@
       "word": "尼泊尔地震已致157人死亡",
       "onboard_time": 1699145250,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436125,
-      "num": 436125,
-      "word": "杨幂俏皮丸子头",
-      "onboard_time": 1699413334,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 435105,
-      "num": 435105,
-      "word": "溺亡女医生遗书称被丈夫长期注射麻醉剂",
-      "onboard_time": 1699413692,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3025,6 +3057,14 @@
       "onboard_time": 1699192775,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404949,
+      "num": 404949,
+      "word": "WBG获得选边权",
+      "onboard_time": 1699415134,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 404697,
@@ -3355,6 +3395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359262,
+      "num": 359262,
+      "word": "姜珮瑶 闺蜜专业户",
+      "onboard_time": 1699414532,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359212,
       "num": 359212,
       "word": "新疆地震",
@@ -3667,6 +3715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331160,
+      "num": 331160,
+      "word": "于适想要 于是得到",
+      "onboard_time": 1699413453,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331096,
       "num": 331096,
       "word": "米勒 全面碾压恭喜T1",
@@ -3761,6 +3817,14 @@
       "onboard_time": 1699163493,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322257,
+      "num": 322257,
+      "word": "百色学院通报一学生身亡",
+      "onboard_time": 1699415016,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322065,
@@ -3891,14 +3955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 308579,
-      "num": 308579,
-      "word": "于适想要 于是得到",
-      "onboard_time": 1699413453,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 308421,
       "num": 308421,
       "word": "Alin马嘉祺唱天若有情",
@@ -4017,6 +4073,14 @@
       "onboard_time": 1699183715,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291900,
+      "num": 291900,
+      "word": "张凌赫痛失本名",
+      "onboard_time": 1699413931,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 291490,
@@ -4363,14 +4427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265744,
-      "num": 265744,
-      "word": "张凌赫痛失本名",
-      "onboard_time": 1699413931,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265481,
       "num": 265481,
       "word": "魏大勋三碗水也能端平",
@@ -4433,6 +4489,14 @@
       "onboard_time": 1699253913,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259329,
+      "num": 246407,
+      "word": "宁安如梦人物关系图",
+      "onboard_time": 1699408292,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 258436,
@@ -4675,12 +4739,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246417,
+      "num": 246417,
+      "word": "上一秒与女主共浴 下一秒被关进大牢",
+      "onboard_time": 1699415016,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245896,
       "num": 245896,
       "word": "以爱为营 猎人常以猎物形式出现",
       "onboard_time": 1699330597,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245362,
+      "num": 245362,
+      "word": "金莎孙丞潇相差19岁",
+      "onboard_time": 1699414591,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 244866,
@@ -5033,6 +5113,14 @@
       "onboard_time": 1699179947,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 231597,
+      "num": 231597,
+      "word": "闪耀之夜emoji剧透",
+      "onboard_time": 1699415556,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 231384,
@@ -5667,12 +5755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205642,
+      "num": 205642,
+      "word": "乐游原 女强男强",
+      "onboard_time": 1699416813,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204992,
       "num": 204992,
       "word": "哈工大暖廊",
       "onboard_time": 1699332875,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204465,
+      "num": 204465,
+      "word": "李健南京抢票",
+      "onboard_time": 1699416096,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 204306,
@@ -5849,6 +5953,14 @@
       "onboard_time": 1699094612,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199741,
+      "num": 199741,
+      "word": "芙宁娜",
+      "onboard_time": 1699415735,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 199649,
@@ -6033,6 +6145,14 @@
       "onboard_time": 1699405833,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196397,
+      "num": 196397,
+      "word": "乐游原 夹缝中生存",
+      "onboard_time": 1699416876,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 196142,
@@ -6721,6 +6841,14 @@
       "onboard_time": 1699267414,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176661,
+      "num": 176661,
+      "word": "辛芷蕾 一款梦中情姐",
+      "onboard_time": 1699416936,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 175929,
@@ -8331,20 +8459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125694,
+      "num": 132823,
+      "word": "海清演的张桂梅校长台词句句扎心",
+      "onboard_time": 1699417176,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125649,
       "num": 125649,
       "word": "男子酒驾送妻就医交警拦下后化身代驾",
       "onboard_time": 1699239271,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125352,
-      "num": 125352,
-      "word": "宁安如梦人物关系图",
-      "onboard_time": 1699408292,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 125139,
@@ -9617,6 +9745,14 @@
       "onboard_time": 1699155451,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 38392,
+      "num": 504904,
+      "word": "原神4.2版本更新 芙宁娜",
+      "onboard_time": 1699416034,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 37128,
