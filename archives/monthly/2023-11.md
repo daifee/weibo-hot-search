@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/08 22:34:17
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/08 23:18:05
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D34%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23" target="weibo">
 一名34岁中国男性在巴厘岛遇难（热度：13364135）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23" target="weibo">
+仲尼在巴厘岛遇难（热度：11079803）
 </a>
 </li>
 
@@ -83,6 +89,12 @@ T1晋级S13四强（热度：9440198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%80%9A%E6%8A%A5%23" target="weibo">
 中山二院通报（热度：5684556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%A7%B0%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E4%BB%96%23" target="weibo">
+仲尼公司员工称联系不上他（热度：5214473）
 </a>
 </li>
 
@@ -1797,6 +1809,12 @@ WBG晋级S13四强（热度：1045519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B5%E8%BE%BE%23" target="weibo">
+韵达（热度：972492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E4%B8%96%E5%A5%B3%E6%95%99%E5%B8%88%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
 离世女教师加班数石榴系谣言（热度：970738）
 </a>
@@ -2757,6 +2775,12 @@ GEN 主动选红（热度：715822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E8%AE%B2%E8%BF%B0%E4%BB%B2%E5%B0%BC%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%E7%BB%86%E8%8A%82%23" target="weibo">
+酒店讲述仲尼巴厘岛遇难细节（热度：712516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%AE%B6%E9%82%BB%E5%B1%858%E5%B9%B4%E5%87%A0%E4%B9%8E%E5%A4%84%E6%88%901%E5%AE%B6%E4%BA%BA%23" target="weibo">
 4家邻居8年几乎处成1家人（热度：709221）
 </a>
@@ -3617,12 +3641,6 @@ T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E5%90%83%E6%9F%9A%E5%AD%90%E7%AA%92%E6%81%AF%E5%8C%BB%E6%8A%A43%E5%88%86%E9%92%9F%E8%B5%B6%E5%88%B0%E6%80%A5%E6%95%91%23" target="weibo">
 11个月大婴儿吃柚子窒息医护3分钟赶到急救（热度：571271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B5%E8%BE%BE%23" target="weibo">
-韵达（热度：570615）
 </a>
 </li>
 
@@ -5595,6 +5613,12 @@ WTT法兰克福冠军赛2023（热度：390058）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BC%9A%E9%A5%BF%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+原来真的有人会饿成这样（热度：386927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23" target="weibo">
 以爱为营（热度：386764）
 </a>
@@ -5943,6 +5967,12 @@ by2高铁无座赶音乐节（热度：371355）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GTA6%23" target="weibo">
+GTA6（热度：365379）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E6%8D%A1%E8%B5%B7%E6%9D%A5%E7%9A%84%E4%BB%8E%E6%9D%A5%E9%83%BD%E4%B8%8D%E6%98%AF%E6%B5%AA%E6%BC%AB%23" target="weibo">
 涂山璟捡起来的从来都不是浪漫（热度：365179）
 </a>
@@ -5981,36 +6011,6 @@ Clash 删库跑路（热度：363378）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%20%E5%B0%B1%E7%AE%97%E6%90%9E%E7%A0%B8%E4%BA%86%E4%B9%9F%E6%B2%A1%E4%BB%80%E4%B9%88%E5%A4%A7%E4%B8%8D%E4%BA%86%23" target="weibo">
 霉霉 就算搞砸了也没什么大不了（热度：362005）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
-王嘉尔演唱会 抢票（热度：361571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%B7%AE%E9%98%B3%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%8A%A2%E4%B8%AD%E8%8D%AF%E4%BA%8B%E4%BB%B6%23" target="weibo">
-河南淮阳官方回应抢中药事件（热度：361132）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%BE%E5%BC%9B%E6%84%9F%E5%8D%8A%E6%89%8E%E5%8F%91%23" target="weibo">
-松弛感半扎发（热度：361124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%23" target="weibo">
-为有暗香来（热度：360670）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E7%A7%A6%E5%B2%9A%E4%BD%A0%E6%98%AF%E7%94%B5%E9%9F%B3%E7%99%BE%E7%81%B5%E9%B8%9F%23" target="weibo">
-辛芷蕾 秦岚你是电音百灵鸟（热度：360580）
 </a>
 </li>
 

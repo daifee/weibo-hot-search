@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1699454057747,
+  "endTime": 1699456685892,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -633,6 +633,14 @@
       "onboard_time": 1672501434,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 11079803,
+      "num": 11079803,
+      "word": "仲尼在巴厘岛遇难",
+      "onboard_time": 1699455235,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 11063759,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1674213510,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6178071,
-      "num": 6747296,
-      "word": "杨幂旗袍 古韵美人",
-      "onboard_time": 1695994002,
-      "rank": 10,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

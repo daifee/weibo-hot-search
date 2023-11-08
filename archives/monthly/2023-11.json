@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699454057747,
+  "endTime": 1699456685892,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -25,6 +25,14 @@
       "onboard_time": 1699447910,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11079803,
+      "num": 11079803,
+      "word": "仲尼在巴厘岛遇难",
+      "onboard_time": 1699455235,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 9440198,
@@ -97,6 +105,14 @@
       "onboard_time": 1699399346,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5214473,
+      "num": 5214473,
+      "word": "仲尼公司员工称联系不上他",
+      "onboard_time": 1699454579,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 4591644,
@@ -2379,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972492,
+      "num": 570615,
+      "word": "韵达",
+      "onboard_time": 1699453379,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 970738,
       "num": 970738,
       "word": "离世女教师加班数石榴系谣言",
@@ -3659,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712516,
+      "num": 712516,
+      "word": "酒店讲述仲尼巴厘岛遇难细节",
+      "onboard_time": 1699456610,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 709221,
       "num": 1078707,
       "word": "4家邻居8年几乎处成1家人",
@@ -4811,14 +4843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570615,
-      "num": 570615,
-      "word": "韵达",
-      "onboard_time": 1699453379,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567571,
       "num": 567571,
       "word": "MAMA阵容",
@@ -5236,7 +5260,7 @@
     },
     {
       "raw_hot": 527843,
-      "num": 353702,
+      "num": 417187,
       "word": "刘亦菲张靓颖合照",
       "onboard_time": 1699450854,
       "rank": 20,
@@ -7443,6 +7467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386927,
+      "num": 386927,
+      "word": "原来真的有人会饿成这样",
+      "onboard_time": 1699454579,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386764,
       "num": 386764,
       "word": "以爱为营",
@@ -7907,8 +7939,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 365379,
+      "num": 365379,
+      "word": "GTA6",
+      "onboard_time": 1699453492,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 365179,
-      "num": 309583,
+      "num": 313023,
       "word": "涂山璟捡起来的从来都不是浪漫",
       "onboard_time": 1699451693,
       "rank": 25,
@@ -8379,6 +8419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345813,
+      "num": 345813,
+      "word": "花少后期多剪一秒就露馅了",
+      "onboard_time": 1699455115,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345663,
       "num": 345663,
       "word": "外交部回应中美元首将在旧金山双边会谈",
@@ -8761,6 +8809,14 @@
       "onboard_time": 1698897754,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330175,
+      "num": 330175,
+      "word": "罗云熙官宣水龙吟",
+      "onboard_time": 1699454753,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 330101,
@@ -9211,6 +9267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310650,
+      "num": 310650,
+      "word": "颖儿 学会了新词癫婆",
+      "onboard_time": 1699454634,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310638,
       "num": 310638,
       "word": "原神兑换码",
@@ -9537,6 +9601,14 @@
       "onboard_time": 1699329636,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 294304,
+      "num": 294304,
+      "word": "苏醒说欢迎卢昱晓加入娱乐圈",
+      "onboard_time": 1699456014,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 293831,
@@ -10635,20 +10707,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 261542,
-      "num": 261542,
-      "word": "GTA6",
-      "onboard_time": 1699453492,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 260922,
       "num": 1199344,
       "word": "曼联 VAR",
       "onboard_time": 1699107579,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260847,
+      "num": 260847,
+      "word": "田曦薇星河公主裙",
+      "onboard_time": 1699455472,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 260592,
@@ -10936,6 +11008,14 @@
       "word": "朱锐斌学派",
       "onboard_time": 1699427138,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253387,
+      "num": 253387,
+      "word": "青簪行彭冠英补拍",
+      "onboard_time": 1699456312,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -11651,6 +11731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237787,
+      "num": 237787,
+      "word": "aespa主打曲Drama预听",
+      "onboard_time": 1699455588,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237662,
       "num": 237662,
       "word": "集团回应领导与女下属疑有不正当关系",
@@ -11889,6 +11977,14 @@
       "onboard_time": 1699055307,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233703,
+      "num": 233703,
+      "word": "宁安如梦爱奇艺热度值破9000",
+      "onboard_time": 1699455054,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 233316,
@@ -12193,6 +12289,14 @@
       "onboard_time": 1698974310,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228485,
+      "num": 317624,
+      "word": "河南新乡警方通报两女子浑身是血倒在街头",
+      "onboard_time": 1699456014,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228331,
@@ -12953,6 +13057,14 @@
       "onboard_time": 1699447070,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213554,
+      "num": 234014,
+      "word": "网传扬州一女子捂死女儿后跳楼",
+      "onboard_time": 1699456014,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213499,
@@ -15097,6 +15209,14 @@
       "onboard_time": 1699142485,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188870,
+      "num": 188870,
+      "word": "你以为直腿的动作vs实际直腿的动作",
+      "onboard_time": 1699455712,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 188864,
@@ -18867,6 +18987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138118,
+      "num": 237900,
+      "word": "幼童突发抽搐老师一分钟紧急送医",
+      "onboard_time": 1699453435,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137916,
       "num": 137916,
       "word": "王安宇听到辛芷蕾丢1500的反应",
@@ -19009,6 +19137,14 @@
       "onboard_time": 1699431454,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135722,
+      "num": 135722,
+      "word": "时宴发朋友圈表白",
+      "onboard_time": 1699456671,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 135699,
@@ -20499,6 +20635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115485,
+      "num": 134629,
+      "word": "沙约克31分",
+      "onboard_time": 1699456549,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115418,
       "num": 127039,
       "word": "为什么不Ban洛",
@@ -20936,14 +21080,6 @@
       "word": "冷空气到广东变冷气",
       "onboard_time": 1699373369,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105784,
-      "num": 237900,
-      "word": "幼童突发抽搐老师一分钟紧急送医",
-      "onboard_time": 1699453435,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
