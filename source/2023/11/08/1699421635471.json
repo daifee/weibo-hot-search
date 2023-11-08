@@ -1,0 +1,410 @@
+{
+  "runTime": 1699421635471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4419320,
+        "num": 4419320,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058140,
+        "num": 1058140,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34343,
+        "num": 1031097,
+        "word": "进博会场馆四叶草背后的奥秘",
+        "onboard_time": 1699420234,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1758393,
+        "num": 1029335,
+        "word": "成都地铁三号线打人",
+        "onboard_time": 1699419456,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018037,
+        "num": 1018037,
+        "word": "成都地铁3号线打人男子被行拘",
+        "onboard_time": 1699420653,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126324,
+        "num": 959690,
+        "word": "90后公务员泄密获刑",
+        "onboard_time": 1699413153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805135,
+        "num": 805135,
+        "word": "炎亚纶被公诉",
+        "onboard_time": 1699418197,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697591,
+        "num": 697591,
+        "word": "董明珠称孟羽童兼职接广告不合规",
+        "onboard_time": 1699413153,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 626294,
+        "num": 626294,
+        "word": "秦海璐拍的迪丽热巴",
+        "onboard_time": 1699417776,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490287,
+        "num": 490287,
+        "word": "MAMA阵容",
+        "onboard_time": 1699418560,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448494,
+        "num": 448494,
+        "word": "警惕让你悄悄变丑的坏习惯",
+        "onboard_time": 1699417359,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 444532,
+        "num": 444532,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440486,
+        "num": 440486,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393773,
+        "num": 393773,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375742,
+        "num": 375742,
+        "word": "秦海璐迪丽热巴救护车友谊",
+        "onboard_time": 1699419577,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106312,
+        "num": 339242,
+        "word": "第一眼有多重要",
+        "onboard_time": 1699419936,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336305,
+        "num": 336305,
+        "word": "姜珮瑶 明媚的美",
+        "onboard_time": 1699409550,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325346,
+        "num": 325346,
+        "word": "中山二院称欢迎第三方机构评估调查",
+        "onboard_time": 1699414714,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305973,
+        "num": 305973,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296284,
+        "num": 296284,
+        "word": "庄时利和谈胰腺癌",
+        "onboard_time": 1699417658,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 783085,
+        "num": 293874,
+        "word": "王鹤棣曝光艺人聊天模板",
+        "onboard_time": 1699420893,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290063,
+        "num": 290063,
+        "word": "百色学院通报一学生身亡",
+        "onboard_time": 1699415016,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283526,
+        "num": 283526,
+        "word": "杨幂俏皮丸子头",
+        "onboard_time": 1699413334,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261719,
+        "num": 261719,
+        "word": "宁安如梦人物关系图",
+        "onboard_time": 1699408292,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260500,
+        "num": 260500,
+        "word": "何猷君 听老婆话会发达",
+        "onboard_time": 1699415073,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241193,
+        "num": 241193,
+        "word": "刘亦菲迪士尼公主造型",
+        "onboard_time": 1699421431,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216964,
+        "num": 216964,
+        "word": "旺卡内地定档",
+        "onboard_time": 1699419034,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207209,
+        "num": 207209,
+        "word": "李玉刚首部电影过审",
+        "onboard_time": 1699420473,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202571,
+        "num": 202571,
+        "word": "宁安如梦",
+        "onboard_time": 1699421314,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198629,
+        "num": 198629,
+        "word": "WBG获得选边权",
+        "onboard_time": 1699415134,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274039,
+        "num": 198203,
+        "word": "14岁女儿被打父亲悬赏1万找打人者",
+        "onboard_time": 1699410094,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195711,
+        "num": 195711,
+        "word": "张凌赫痛失本名",
+        "onboard_time": 1699413931,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191395,
+        "num": 191395,
+        "word": "刘亦菲于适配音迪士尼新片星愿",
+        "onboard_time": 1699411409,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187821,
+        "num": 187821,
+        "word": "立冬吃饺子",
+        "onboard_time": 1699399766,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189214,
+        "num": 187769,
+        "word": "于适想要 于是得到",
+        "onboard_time": 1699413453,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185003,
+        "num": 185003,
+        "word": "低欲望生活让我26岁财务自由",
+        "onboard_time": 1699409252,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180039,
+        "num": 180039,
+        "word": "金莎讲述与男友第一次见面的情景",
+        "onboard_time": 1699407993,
+        "rank": 36,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 177166,
+        "num": 177166,
+        "word": "奥恰洛夫 马龙是我一生朋友与对手",
+        "onboard_time": 1699418078,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430120,
+        "num": 176550,
+        "word": "他的一句玩命 我竟红了眼眶",
+        "onboard_time": 1699419814,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172445,
+        "num": 172445,
+        "word": "90后男子在间谍指导下考上公务员",
+        "onboard_time": 1699415613,
+        "rank": 39,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 166650,
+        "num": 166650,
+        "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
+        "onboard_time": 1699421496,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164611,
+        "num": 164611,
+        "word": "将睡眠时间延长至8小时对身心的变化",
+        "onboard_time": 1699400970,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 163860,
+        "word": "姜珮瑶 闺蜜专业户",
+        "onboard_time": 1699414532,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155536,
+        "num": 155536,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1699418317,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153106,
+        "num": 153106,
+        "word": "罗云熙小王子造型",
+        "onboard_time": 1699418977,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150709,
+        "num": 150709,
+        "word": "乐游原 夹缝中生存",
+        "onboard_time": 1699416876,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140708,
+        "num": 140708,
+        "word": "宁安如梦预告",
+        "onboard_time": 1699401152,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 135996,
+        "word": "HM先森家的HM",
+        "onboard_time": 1699401753,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133000,
+        "num": 133000,
+        "word": "教资成绩",
+        "onboard_time": 1699409491,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120210,
+        "num": 120210,
+        "word": "摄像头下的爸爸句句有回应",
+        "onboard_time": 1699420954,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}

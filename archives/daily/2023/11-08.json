@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699420573944,
+  "endTime": 1699421635471,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -8,6 +8,14 @@
       "word": "中山二院通报",
       "onboard_time": 1699399346,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4419320,
+      "num": 4419320,
+      "word": "中山二院癌症患者黄某家属发声",
+      "onboard_time": 1699419876,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1018037,
+      "num": 1018037,
+      "word": "成都地铁3号线打人男子被行拘",
+      "onboard_time": 1699420653,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986859,
       "num": 986859,
       "word": "金莎男友 大学生勇闯娱乐圈",
@@ -171,12 +187,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 777443,
-      "num": 777443,
-      "word": "中山二院癌症患者黄某家属发声",
-      "onboard_time": 1699419876,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 783085,
+      "num": 293874,
+      "word": "王鹤棣曝光艺人聊天模板",
+      "onboard_time": 1699420893,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 766176,
@@ -339,6 +355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 430120,
+      "num": 220543,
+      "word": "他的一句玩命 我竟红了眼眶",
+      "onboard_time": 1699419814,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420774,
       "num": 420774,
       "word": "庄时利和谈胰腺癌",
@@ -403,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375742,
+      "num": 375742,
+      "word": "秦海璐迪丽热巴救护车友谊",
+      "onboard_time": 1699419577,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370110,
       "num": 370110,
       "word": "王星越宁安如梦人设",
       "onboard_time": 1699400369,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366023,
-      "num": 220543,
-      "word": "他的一句玩命 我竟红了眼眶",
-      "onboard_time": 1699419814,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 365786,
@@ -545,14 +569,6 @@
       "onboard_time": 1699413931,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304088,
-      "num": 304088,
-      "word": "秦海璐迪丽热巴救护车友谊",
-      "onboard_time": 1699419577,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 299964,
@@ -739,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241193,
+      "num": 241193,
+      "word": "刘亦菲迪士尼公主造型",
+      "onboard_time": 1699421431,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234709,
       "num": 234709,
       "word": "潘斌龙赞王俊凯为电影拼了",
@@ -835,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216964,
+      "num": 216964,
+      "word": "旺卡内地定档",
+      "onboard_time": 1699419034,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216193,
       "num": 216193,
       "word": "腾讯视频9号开放日",
@@ -873,6 +905,14 @@
       "onboard_time": 1699369358,
       "rank": 23,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 207209,
+      "num": 207209,
+      "word": "李玉刚首部电影过审",
+      "onboard_time": 1699420473,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 206950,
@@ -929,6 +969,14 @@
       "onboard_time": 1699418977,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202571,
+      "num": 202571,
+      "word": "宁安如梦",
+      "onboard_time": 1699343012,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 202287,
@@ -1043,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186663,
-      "num": 186663,
-      "word": "旺卡内地定档",
-      "onboard_time": 1699419034,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185013,
       "num": 185013,
       "word": "内蒙男子开奥迪拽出被困雪地救护车",
@@ -1099,8 +1139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177096,
-      "num": 177096,
+      "raw_hot": 177166,
+      "num": 177166,
       "word": "奥恰洛夫 马龙是我一生朋友与对手",
       "onboard_time": 1699418078,
       "rank": 42,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1699406672,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166650,
+      "num": 166650,
+      "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
+      "onboard_time": 1699421496,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164884,
@@ -1153,14 +1201,6 @@
       "onboard_time": 1699414113,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162664,
-      "num": 162664,
-      "word": "李玉刚首部电影过审",
-      "onboard_time": 1699420473,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 155770,
@@ -1339,12 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121663,
-      "num": 121663,
-      "word": "宁安如梦",
-      "onboard_time": 1699343012,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 120210,
+      "num": 120210,
+      "word": "摄像头下的爸爸句句有回应",
+      "onboard_time": 1699420954,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114299,
@@ -1387,8 +1427,8 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 105982,
-      "num": 337725,
+      "raw_hot": 106312,
+      "num": 339242,
       "word": "第一眼有多重要",
       "onboard_time": 1699419936,
       "rank": 19,
@@ -1563,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34343,
+      "num": 1459778,
+      "word": "进博会场馆四叶草背后的奥秘",
+      "onboard_time": 1699420234,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 25239,
       "num": 52151,
       "word": "张艺兴演唱会",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1699383195,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 13404,
-      "num": 1459778,
-      "word": "进博会场馆四叶草背后的奥秘",
-      "onboard_time": 1699420234,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
@@ -1593,6 +1633,9 @@
     },
     {
       "word": "#从头回客与回头客中见证进博魅力#"
+    },
+    {
+      "word": "#让互联网更好造福世界各国人民#"
     }
   ]
 }
