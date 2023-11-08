@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699424556314,
+  "endTime": 1699425346693,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1573841,
-      "num": 1573841,
+      "raw_hot": 1616473,
+      "num": 1616473,
       "word": "孟羽童一年半广告收入或达400万",
       "onboard_time": 1699421672,
       "rank": 1,
@@ -99,12 +99,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1496268,
+      "raw_hot": 1519288,
       "num": 507872,
       "word": "炎亚纶改名吴秉孺",
       "onboard_time": 1699422813,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1423443,
+      "num": 1423443,
+      "word": "孟羽童在职曾发65篇非格力产品内容",
+      "onboard_time": 1699423897,
+      "rank": 8,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1230523,
+      "num": 1230523,
+      "word": "秦海璐肠绞痛痛到脸都白了",
+      "onboard_time": 1699423297,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1107179,
@@ -129,14 +145,6 @@
       "onboard_time": 1699420653,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1016910,
-      "num": 1016910,
-      "word": "秦海璐肠绞痛痛到脸都白了",
-      "onboard_time": 1699423297,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 986859,
@@ -291,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619539,
-      "num": 619539,
-      "word": "孟羽童在职曾发65篇非格力产品内容",
-      "onboard_time": 1699423897,
-      "rank": 8,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 614625,
       "num": 614625,
       "word": "何猷君 听老婆话会发达",
@@ -347,8 +347,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508324,
-      "num": 508324,
+      "raw_hot": 551402,
+      "num": 551402,
       "word": "胰腺癌发病率",
       "onboard_time": 1699423537,
       "rank": 9,
@@ -449,6 +449,14 @@
       "onboard_time": 1699415134,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 396912,
+      "num": 396912,
+      "word": "中山二院癌症患者家属称确实被踢出群聊",
+      "onboard_time": 1699424257,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386377,
@@ -635,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308005,
+      "num": 308005,
+      "word": "胰腺癌为什么被称为癌中之王",
+      "onboard_time": 1699424799,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 299964,
       "num": 299964,
       "word": "原神 还不开门",
@@ -705,6 +721,14 @@
       "onboard_time": 1699366177,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272362,
+      "num": 272362,
+      "word": "A股",
+      "onboard_time": 1699424139,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 272054,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250919,
+      "num": 250919,
+      "word": "景甜 情绪稳定的人简直就是人间宝藏",
+      "onboard_time": 1699424742,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246417,
       "num": 246417,
       "word": "上一秒与女主共浴 下一秒被关进大牢",
@@ -801,6 +833,14 @@
       "onboard_time": 1699398864,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242502,
+      "num": 242502,
+      "word": "迪丽热巴被e人包围了",
+      "onboard_time": 1699425219,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 242455,
@@ -1019,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205106,
-      "num": 205106,
-      "word": "中山二院癌症患者家属称确实被踢出群聊",
-      "onboard_time": 1699424257,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204465,
       "num": 204465,
       "word": "李健南京抢票",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1699405474,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203959,
+      "num": 203959,
+      "word": "花儿与少年",
+      "onboard_time": 1699424503,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 203896,
@@ -1123,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196975,
+      "num": 196975,
+      "word": "成都警方通报地铁3号线打人事件",
+      "onboard_time": 1699424198,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196427,
       "num": 196427,
       "word": "李晨郑恺直播跳queencard",
@@ -1147,14 +1195,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "A股",
-      "onboard_time": 1699424139,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 192894,
       "num": 180255,
       "word": "陆虎卑微拒绝披荆斩棘",
@@ -1171,12 +1211,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190149,
-      "num": 190149,
-      "word": "成都警方通报地铁3号线打人事件",
-      "onboard_time": 1699424198,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 190084,
+      "num": 190084,
+      "word": "王安宇胡先煦意见分歧",
+      "onboard_time": 1699425039,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 188032,
@@ -1467,12 +1507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132140,
-      "num": 132140,
-      "word": "花儿与少年",
-      "onboard_time": 1699424503,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 131656,
+      "num": 124538,
+      "word": "娜扎琉璃哭戏",
+      "onboard_time": 1699425159,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 131116,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1699333118,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125848,
+      "num": 125848,
+      "word": "电影热搜谁在编辑井号里的人生",
+      "onboard_time": 1699424858,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 125056,
@@ -1716,7 +1764,7 @@
     },
     {
       "raw_hot": 70021,
-      "num": 1459778,
+      "num": 1482548,
       "word": "进博会场馆四叶草背后的奥秘",
       "onboard_time": 1699420234,
       "rank": 2,
