@@ -1,10 +1,10 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699406015566,
+  "endTime": 1699407245322,
   "band_list": [
     {
-      "raw_hot": 5227927,
-      "num": 5227927,
+      "raw_hot": 5684556,
+      "num": 5684556,
       "word": "中山二院通报",
       "onboard_time": 1699399346,
       "rank": 0,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 926901,
-      "num": 926901,
+      "raw_hot": 946935,
+      "num": 946935,
       "word": "金莎男友 大学生勇闯娱乐圈",
       "onboard_time": 1699403559,
       "rank": 4,
@@ -123,11 +123,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 523107,
+      "raw_hot": 590881,
       "num": 412760,
       "word": "HM先森家的HM",
       "onboard_time": 1699401753,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559435,
+      "num": 559435,
+      "word": "女生研究方向太冷门花了2年造仪器",
+      "onboard_time": 1699405298,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -200,6 +208,14 @@
       "word": "牛牛变疯牛了",
       "onboard_time": 1699404515,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342088,
+      "num": 342088,
+      "word": "何泓姗8字发财刘海",
+      "onboard_time": 1699407152,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -291,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265481,
+      "num": 265481,
+      "word": "魏大勋三碗水也能端平",
+      "onboard_time": 1699405236,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263684,
       "num": 220504,
       "word": "肚子瘦不了可能是骨盆在作妖",
@@ -304,14 +328,6 @@
       "word": "东北大学生正式确诊为华妃",
       "onboard_time": 1699362997,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259973,
-      "num": 259973,
-      "word": "女生研究方向太冷门花了2年造仪器",
-      "onboard_time": 1699405298,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -329,14 +345,6 @@
       "onboard_time": 1699369057,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246986,
-      "num": 214364,
-      "word": "魏大勋三碗水也能端平",
-      "onboard_time": 1699405236,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 244866,
@@ -377,6 +385,30 @@
       "onboard_time": 1699398144,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224178,
+      "num": 224178,
+      "word": "看点成年人的纯爱",
+      "onboard_time": 1699405535,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223851,
+      "num": 223851,
+      "word": "王鹤棣AllBlack",
+      "onboard_time": 1699405833,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222924,
+      "num": 222924,
+      "word": "刘宇宁回应被说不配当演员",
+      "onboard_time": 1699406733,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 218299,
@@ -443,19 +475,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198663,
+      "num": 198663,
+      "word": "女儿上网喊爸交学费乘警叫停及时止损",
+      "onboard_time": 1699398201,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196427,
+      "num": 196427,
+      "word": "李晨郑恺直播跳queencard",
+      "onboard_time": 1699405833,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195459,
       "num": 195459,
       "word": "莲花楼豆瓣评分涨至8点5",
       "onboard_time": 1699369597,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195183,
-      "num": 195183,
-      "word": "看点成年人的纯爱",
-      "onboard_time": 1699405535,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -475,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189470,
-      "num": 189470,
-      "word": "女儿上网喊爸交学费乘警叫停及时止损",
-      "onboard_time": 1699398201,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 184241,
+      "num": 184241,
+      "word": "年度悬疑巨作你在说谎",
+      "onboard_time": 1699406494,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182426,
@@ -507,12 +547,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167758,
+      "num": 167758,
+      "word": "周深清唱以爱为营宁安如梦OST",
+      "onboard_time": 1699406672,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164587,
+      "num": 164587,
+      "word": "王彦霖和艾佳妮的破镜重圆",
+      "onboard_time": 1699406914,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163950,
       "num": 163950,
       "word": "刘宇宁直播 至少可以看星星",
       "onboard_time": 1699378220,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155770,
+      "num": 155770,
+      "word": "男子在雪人里放糖果供路人免费取用",
+      "onboard_time": 1699406672,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 152507,
@@ -531,20 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148123,
-      "num": 148123,
-      "word": "李晨郑恺直播跳queencard",
-      "onboard_time": 1699405833,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 146482,
-      "num": 146482,
-      "word": "王鹤棣AllBlack",
-      "onboard_time": 1699405833,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 146282,
+      "num": 146282,
+      "word": "徐志胜真的太会说了",
+      "onboard_time": 1699406195,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144498,
@@ -571,6 +627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137117,
+      "num": 137117,
+      "word": "最后沦为小人类的擦手巾",
+      "onboard_time": 1699407033,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135357,
       "num": 135357,
       "word": "塞尔达传说真人电影官宣",
@@ -595,7 +659,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129217,
+      "raw_hot": 131741,
       "num": 177691,
       "word": "教资",
       "onboard_time": 1699346075,

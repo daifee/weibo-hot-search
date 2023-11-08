@@ -1,0 +1,410 @@
+{
+  "runTime": 1699407245322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5684556,
+        "num": 5684556,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2158005,
+        "num": 2158005,
+        "word": "将睡眠时间延长至8小时对身心的变化",
+        "onboard_time": 1699400970,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74045,
+        "num": 1269113,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 946935,
+        "num": 946935,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890065,
+        "num": 890065,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776536,
+        "num": 776536,
+        "word": "立冬吃饺子",
+        "onboard_time": 1699399766,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 573820,
+        "num": 573820,
+        "word": "今日立冬",
+        "onboard_time": 1699398505,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559435,
+        "num": 559435,
+        "word": "女生研究方向太冷门花了2年造仪器",
+        "onboard_time": 1699405298,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522831,
+        "num": 522831,
+        "word": "与主播发生关系住持被停职",
+        "onboard_time": 1699368220,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384510,
+        "num": 384510,
+        "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
+        "onboard_time": 1699371754,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 2265911,
+        "num": 382217,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590881,
+        "num": 379213,
+        "word": "HM先森家的HM",
+        "onboard_time": 1699401753,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404569,
+        "num": 378673,
+        "word": "导师回应网传乳腺外科团队多人患癌",
+        "onboard_time": 1699366535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375465,
+        "num": 375465,
+        "word": "曾黎停止这场闹剧吧",
+        "onboard_time": 1699372351,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353544,
+        "num": 353544,
+        "word": "当以爱为营女主换成张元英",
+        "onboard_time": 1699371695,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342088,
+        "num": 342088,
+        "word": "何泓姗8字发财刘海",
+        "onboard_time": 1699407152,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294068,
+        "num": 294068,
+        "word": "牛牛变疯牛了",
+        "onboard_time": 1699404515,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285911,
+        "num": 285911,
+        "word": "陆毅说经常撸铁会长不高",
+        "onboard_time": 1699403616,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289079,
+        "num": 281680,
+        "word": "王星越宁安如梦人设",
+        "onboard_time": 1699400369,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275021,
+        "num": 275021,
+        "word": "中山二院称近年有3人患癌",
+        "onboard_time": 1699401212,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274187,
+        "num": 274187,
+        "word": "从月入5K到15K后的生活变化",
+        "onboard_time": 1699368276,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265481,
+        "num": 265481,
+        "word": "魏大勋三碗水也能端平",
+        "onboard_time": 1699405236,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245853,
+        "num": 245853,
+        "word": "费翔优雅吃饺子",
+        "onboard_time": 1699404815,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244210,
+        "num": 244210,
+        "word": "咱俩关系冬天一起去吃九件套不过分吧",
+        "onboard_time": 1699403134,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "看点成年人的纯爱",
+        "onboard_time": 1699405535,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223851,
+        "num": 223851,
+        "word": "王鹤棣AllBlack",
+        "onboard_time": 1699405833,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222924,
+        "num": 222924,
+        "word": "刘宇宁回应被说不配当演员",
+        "onboard_time": 1699406733,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215774,
+        "num": 215774,
+        "word": "每天3分钟养出年轻肝",
+        "onboard_time": 1699402655,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198663,
+        "num": 198663,
+        "word": "女儿上网喊爸交学费乘警叫停及时止损",
+        "onboard_time": 1699398201,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197924,
+        "num": 197924,
+        "word": "京东采销回应刘强东老家水龙头漏水",
+        "onboard_time": 1699398924,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 196427,
+        "num": 196427,
+        "word": "李晨郑恺直播跳queencard",
+        "onboard_time": 1699405833,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194748,
+        "num": 194748,
+        "word": "肚子瘦不了可能是骨盆在作妖",
+        "onboard_time": 1699370255,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194246,
+        "num": 194246,
+        "word": "医生提醒不要皮肤一干就敷面膜",
+        "onboard_time": 1699398864,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184241,
+        "num": 184241,
+        "word": "年度悬疑巨作你在说谎",
+        "onboard_time": 1699406494,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182782,
+        "num": 182782,
+        "word": "宁安如梦预告",
+        "onboard_time": 1699401152,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176483,
+        "num": 176483,
+        "word": "王彦霖艾佳妮 小说一般的爱情故事",
+        "onboard_time": 1699403497,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174912,
+        "num": 174912,
+        "word": "新疆地震",
+        "onboard_time": 1699398684,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168026,
+        "num": 168026,
+        "word": "广西沙滩走失6岁女童家长发声",
+        "onboard_time": 1699379179,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167758,
+        "num": 167758,
+        "word": "周深清唱以爱为营宁安如梦OST",
+        "onboard_time": 1699406672,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165479,
+        "num": 165479,
+        "word": "已有两地将试管婴儿纳入医保",
+        "onboard_time": 1699400909,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164587,
+        "num": 164587,
+        "word": "王彦霖和艾佳妮的破镜重圆",
+        "onboard_time": 1699406914,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157252,
+        "num": 157252,
+        "word": "哈兰德比心",
+        "onboard_time": 1699405474,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155770,
+        "num": 155770,
+        "word": "男子在雪人里放糖果供路人免费取用",
+        "onboard_time": 1699406672,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151095,
+        "num": 151095,
+        "word": "产妇羊水栓塞抢救15分钟后成功分娩",
+        "onboard_time": 1699398144,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146282,
+        "num": 146282,
+        "word": "徐志胜真的太会说了",
+        "onboard_time": 1699406195,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 137117,
+        "word": "最后沦为小人类的擦手巾",
+        "onboard_time": 1699407033,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132954,
+        "num": 132954,
+        "word": "顿涅茨克矿工1比0巴塞罗那",
+        "onboard_time": 1699405115,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131741,
+        "num": 131741,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127208,
+        "num": 127208,
+        "word": "你几天敷一次面膜",
+        "onboard_time": 1699401934,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126364,
+        "num": 126364,
+        "word": "打工罢了 不必太上头",
+        "onboard_time": 1699366476,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}
