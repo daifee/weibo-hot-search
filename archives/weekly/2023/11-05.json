@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699450447599,
+  "endTime": 1699452977933,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 2727681,
-      "num": 363045,
+      "num": 532269,
       "word": "仲尼昨天生日",
       "onboard_time": 1699449533,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2663793,
+      "num": 540359,
+      "word": "印尼媒体报道仲尼溺亡",
+      "onboard_time": 1699451158,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2599452,
@@ -1395,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853263,
+      "num": 853263,
+      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+      "onboard_time": 1699447550,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848582,
       "num": 848582,
       "word": "还我毛利兰",
@@ -1499,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 810942,
+      "num": 810942,
+      "word": "南航",
+      "onboard_time": 1699451092,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809802,
       "num": 809802,
       "word": "赵丽颖也玩节奏大师",
@@ -1532,7 +1556,7 @@
     },
     {
       "raw_hot": 808585,
-      "num": 363913,
+      "num": 519134,
       "word": "时代峰峻的戒指是你家的吗",
       "onboard_time": 1699447070,
       "rank": 12,
@@ -2235,14 +2259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 601323,
-      "num": 601323,
-      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
-      "onboard_time": 1699447550,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 599919,
       "num": 599919,
       "word": "广西6岁女孩沙滩走失遗体被发现",
@@ -2499,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550562,
+      "num": 550562,
+      "word": "时宴他慌了",
+      "onboard_time": 1699451580,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -2603,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527843,
+      "num": 353702,
+      "word": "刘亦菲张靓颖合照",
+      "onboard_time": 1699450854,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526059,
       "num": 526059,
       "word": "王力宏喝北京豆汁儿",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1699191635,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517306,
+      "num": 517306,
+      "word": "瑞幸 罗翔",
+      "onboard_time": 1699452654,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 515548,
@@ -4283,6 +4323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327491,
+      "num": 550190,
+      "word": "中山二院黄某家属称其病情严重",
+      "onboard_time": 1699450673,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327211,
       "num": 327211,
       "word": "三把零龙",
@@ -4417,6 +4465,14 @@
       "onboard_time": 1699286852,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 314763,
+      "num": 314763,
+      "word": "韦世豪红牌",
+      "onboard_time": 1699452416,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 313373,
@@ -4763,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283674,
+      "num": 283674,
+      "word": "GTA新作12月初公开",
+      "onboard_time": 1699451635,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "LNG纯菜",
@@ -4865,6 +4929,14 @@
       "onboard_time": 1699245997,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275916,
+      "num": 275053,
+      "word": "涂山璟捡起来的从来都不是浪漫",
+      "onboard_time": 1699451693,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 275501,
@@ -5539,6 +5611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241401,
+      "num": 241401,
+      "word": "瘦不下来真的不能怪晚餐",
+      "onboard_time": 1699446770,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 241107,
       "num": 293600,
       "word": "00后问张朝阳考研三战有必要吗",
@@ -5769,14 +5849,6 @@
       "onboard_time": 1699416936,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232658,
-      "num": 232658,
-      "word": "瘦不下来真的不能怪晚餐",
-      "onboard_time": 1699446770,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 232393,
@@ -6707,6 +6779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202564,
+      "num": 202564,
+      "word": "肉装妲己翻身困难被同伴嘲笑",
+      "onboard_time": 1699452051,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 202556,
       "num": 424019,
       "word": "王楚钦加油",
@@ -7507,6 +7587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186883,
+      "num": 186883,
+      "word": "山东男篮vs广东男篮",
+      "onboard_time": 1699451934,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186840,
       "num": 193015,
       "word": "人世间里的酱油厂原型被拍卖",
@@ -7921,6 +8009,14 @@
       "onboard_time": 1699437032,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174300,
+      "num": 174300,
+      "word": "85四大青衣提名",
+      "onboard_time": 1699452595,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174179,
@@ -8825,6 +8921,14 @@
       "onboard_time": 1699429773,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149991,
+      "num": 149991,
+      "word": "SQ 帮忙遛狗",
+      "onboard_time": 1699452780,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 149987,
@@ -10723,6 +10827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81475,
+      "num": 3093482,
+      "word": "2023世界互联网大会乌镇峰会",
+      "onboard_time": 1699249114,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81395,
       "num": 81395,
       "word": "曼城vs年轻人",
@@ -11105,14 +11217,6 @@
       "onboard_time": 1699134973,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50392,
-      "num": 1228004,
-      "word": "2023世界互联网大会乌镇峰会",
-      "onboard_time": 1699249114,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50271,
