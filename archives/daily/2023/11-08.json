@@ -1,14 +1,22 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699447722169,
+  "endTime": 1699449658213,
   "band_list": [
     {
       "raw_hot": 21682297,
-      "num": 367615,
+      "num": 419844,
       "word": "仲尼",
       "onboard_time": 1699444355,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 13364135,
+      "num": 13364135,
+      "word": "一名34岁中国男性在巴厘岛遇难",
+      "onboard_time": 1699447910,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5684556,
@@ -17,6 +25,14 @@
       "onboard_time": 1699399346,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5137946,
+      "num": 382306,
+      "word": "卡琳娜",
+      "onboard_time": 1699449352,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 4419320,
@@ -129,6 +145,14 @@
       "onboard_time": 1699421672,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1588703,
+      "num": 363045,
+      "word": "仲尼昨天生日",
+      "onboard_time": 1699449533,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1549077,
@@ -281,6 +305,14 @@
       "onboard_time": 1699418197,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 840142,
+      "num": 840142,
+      "word": "揭露三鹿毒奶粉的记者现在怎么样了",
+      "onboard_time": 1699447007,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 829922,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583554,
+      "num": 523423,
+      "word": "王安宇 内耗",
+      "onboard_time": 1699447070,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567571,
       "num": 567571,
       "word": "MAMA阵容",
@@ -497,6 +537,14 @@
       "onboard_time": 1699432595,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 535435,
+      "num": 535435,
+      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+      "onboard_time": 1699447550,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521134,
@@ -531,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 494401,
+      "num": 494401,
+      "word": "papi酱又出rap了",
+      "onboard_time": 1699445442,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487313,
       "num": 278407,
       "word": "从月入5K到15K后的生活变化",
@@ -561,14 +617,6 @@
       "onboard_time": 1699438234,
       "rank": 6,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 473721,
-      "num": 473721,
-      "word": "papi酱又出rap了",
-      "onboard_time": 1699445442,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 473420,
@@ -771,14 +819,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 360585,
-      "num": 360585,
-      "word": "揭露三鹿毒奶粉的记者现在怎么样了",
-      "onboard_time": 1699447007,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359262,
       "num": 359262,
       "word": "姜珮瑶 闺蜜专业户",
@@ -915,6 +955,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 318165,
+      "num": 318165,
+      "word": "没有任何不动产但有100双鞋",
+      "onboard_time": 1699448389,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 317756,
       "num": 317756,
       "word": "宁安如梦选角",
@@ -945,6 +993,22 @@
       "onboard_time": 1699413931,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307148,
+      "num": 307148,
+      "word": "天官赐福",
+      "onboard_time": 1699447309,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 305828,
+      "num": 305828,
+      "word": "张踩玲 外国人对中国属相的误解",
+      "onboard_time": 1699445737,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 302372,
@@ -1027,14 +1091,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 281982,
-      "num": 262336,
-      "word": "王安宇 内耗",
-      "onboard_time": 1699447070,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281202,
       "num": 281202,
       "word": "自求多芙",
@@ -1107,20 +1163,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 268741,
-      "num": 268741,
-      "word": "天官赐福",
-      "onboard_time": 1699447309,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 267510,
       "num": 1383677,
       "word": "77岁奶奶10年来每天打篮球2小时",
       "onboard_time": 1699437032,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265566,
+      "num": 201216,
+      "word": "刘些宁宁安如梦定妆vlog",
+      "onboard_time": 1699447969,
+      "rank": 26,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 265481,
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213585,
+      "num": 191077,
+      "word": "花少真是七个浪漫笨蛋",
+      "onboard_time": 1699447070,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212556,
       "num": 212556,
       "word": "时之歌",
@@ -1595,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203582,
+      "num": 203582,
+      "word": "15年后他代父亲续拍敬礼娃娃故事",
+      "onboard_time": 1699448634,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202921,
       "num": 1272593,
       "word": "立冬的第一顿饺子是奶奶包的",
@@ -1633,6 +1705,14 @@
       "onboard_time": 1699438593,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199747,
+      "num": 199747,
+      "word": "瘦不下来真的不能怪晚餐",
+      "onboard_time": 1699446770,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 199741,
@@ -1801,14 +1881,6 @@
       "onboard_time": 1699421672,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185096,
-      "num": 185096,
-      "word": "花少真是七个浪漫笨蛋",
-      "onboard_time": 1699447070,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 185013,
@@ -2203,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140432,
+      "num": 140432,
+      "word": "海南夜市的小吃有多朴实无华",
+      "onboard_time": 1699449470,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140213,
       "num": 358675,
       "word": "立冬",
@@ -2451,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116531,
+      "num": 140428,
+      "word": "立冬的第一件羽绒服你给爸爸买了吗",
+      "onboard_time": 1699449174,
+      "rank": 47,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 115896,
       "num": 380133,
       "word": "你的职业是颈腰椎疼痛重灾区吗",
@@ -2528,22 +2616,6 @@
       "word": "冷空气到广东变冷气",
       "onboard_time": 1699373369,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105553,
-      "num": 185023,
-      "word": "瘦不下来真的不能怪晚餐",
-      "onboard_time": 1699446770,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 104816,
-      "num": 184944,
-      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
-      "onboard_time": 1699447550,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2681,6 +2753,14 @@
       "onboard_time": 1699371453,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81812,
+      "num": 145002,
+      "word": "生命的守护者逆行的火焰蓝",
+      "onboard_time": 1699449174,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81395,

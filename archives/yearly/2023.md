@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/08 20:48:42
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/08 21:20:58
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ TFBOYS快本的信（热度：13782438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%B1%AA%E5%B3%B0%20%E6%88%91%E4%BB%AC%E5%86%B3%E5%AE%9A%E8%A7%A3%E9%99%A4%E5%A9%9A%E5%A7%BB%E5%85%B3%E7%B3%BB%23" target="weibo">
 章子怡汪峰 我们决定解除婚姻关系（热度：13399378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D34%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23" target="weibo">
+一名34岁中国男性在巴厘岛遇难（热度：13364135）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%80%9F%E6%AC%BE%E5%88%A9%E7%8E%87%E6%98%AF%E9%93%B6%E8%A1%8C%E5%95%86%E8%B4%B7%E7%9A%844%E5%80%8D%23" target="weibo">
 张继科借款利率是银行商贷的4倍（热度：6131711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%9C%E7%89%8C%23" target="weibo">
-英雄联盟中国队铜牌（热度：6102606）
 </a>
 </li>
 
