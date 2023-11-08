@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699418047967,
+  "endTime": 1699420573944,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -40,6 +40,14 @@
       "word": "中山二院苏士成正常坐诊",
       "onboard_time": 1699410571,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1945819,
+      "num": 1945819,
+      "word": "成都地铁三号线打人",
+      "onboard_time": 1699419456,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 853713,
+      "num": 853713,
+      "word": "炎亚纶被公诉",
+      "onboard_time": 1699418197,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829922,
       "num": 829922,
       "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
@@ -153,6 +169,14 @@
       "onboard_time": 1699413153,
       "rank": 44,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 777443,
+      "num": 777443,
+      "word": "中山二院癌症患者黄某家属发声",
+      "onboard_time": 1699419876,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766176,
@@ -179,12 +203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668022,
+      "num": 668022,
+      "word": "秦海璐拍的迪丽热巴",
+      "onboard_time": 1699417776,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 659731,
       "num": 659731,
       "word": "与主播发生关系住持被停职",
       "onboard_time": 1699368220,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636892,
+      "num": 636892,
+      "word": "警惕让你悄悄变丑的坏习惯",
+      "onboard_time": 1699417359,
+      "rank": 13,
+      "category": "美妆"
     },
     {
       "raw_hot": 633867,
@@ -208,14 +248,6 @@
       "word": "何猷君 听老婆话会发达",
       "onboard_time": 1699415073,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 603797,
-      "num": 603797,
-      "word": "秦海璐拍的迪丽热巴",
-      "onboard_time": 1699417776,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -243,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579042,
-      "num": 579042,
-      "word": "警惕让你悄悄变丑的坏习惯",
-      "onboard_time": 1699417359,
-      "rank": 13,
-      "category": "美妆"
+      "raw_hot": 567571,
+      "num": 567571,
+      "word": "MAMA阵容",
+      "onboard_time": 1699418560,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 561552,
@@ -307,6 +339,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 420774,
+      "num": 420774,
+      "word": "庄时利和谈胰腺癌",
+      "onboard_time": 1699417658,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413832,
+      "num": 413832,
+      "word": "百色学院通报一学生身亡",
+      "onboard_time": 1699415016,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413626,
       "num": 413626,
       "word": "中山二院称近年有3人患癌",
@@ -363,12 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365953,
-      "num": 365953,
-      "word": "百色学院通报一学生身亡",
-      "onboard_time": 1699415016,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 366023,
+      "num": 220543,
+      "word": "他的一句玩命 我竟红了眼眶",
+      "onboard_time": 1699419814,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 365786,
@@ -499,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304088,
+      "num": 304088,
+      "word": "秦海璐迪丽热巴救护车友谊",
+      "onboard_time": 1699419577,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299964,
       "num": 299964,
       "word": "原神 还不开门",
@@ -553,14 +609,6 @@
       "onboard_time": 1699409550,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280666,
-      "num": 280666,
-      "word": "庄时利和谈胰腺癌",
-      "onboard_time": 1699417658,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 277302,
@@ -787,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216193,
+      "num": 216193,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1699418317,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214915,
       "num": 214915,
       "word": "王彦霖艾佳妮 小说一般的爱情故事",
@@ -865,6 +921,14 @@
       "onboard_time": 1699412910,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202599,
+      "num": 202599,
+      "word": "罗云熙小王子造型",
+      "onboard_time": 1699418977,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202287,
@@ -979,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186663,
+      "num": 186663,
+      "word": "旺卡内地定档",
+      "onboard_time": 1699419034,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185013,
       "num": 185013,
       "word": "内蒙男子开奥迪拽出被困雪地救护车",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1699366777,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177096,
+      "num": 177096,
+      "word": "奥恰洛夫 马龙是我一生朋友与对手",
+      "onboard_time": 1699418078,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 171208,
@@ -1075,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162664,
+      "num": 162664,
+      "word": "李玉刚首部电影过审",
+      "onboard_time": 1699420473,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155770,
       "num": 155770,
       "word": "男子在雪人里放糖果供路人免费取用",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1699357535,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150775,
+      "num": 150775,
+      "word": "林俊杰起风了现场",
+      "onboard_time": 1699419158,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 148010,
@@ -1291,6 +1387,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 105982,
+      "num": 337725,
+      "word": "第一眼有多重要",
+      "onboard_time": 1699419936,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105980,
       "num": 105980,
       "word": "燕临",
@@ -1473,6 +1577,14 @@
       "onboard_time": 1699383195,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 13404,
+      "num": 1459778,
+      "word": "进博会场馆四叶草背后的奥秘",
+      "onboard_time": 1699420234,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
