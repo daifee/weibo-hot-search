@@ -1,0 +1,410 @@
+{
+  "runTime": 1699447722169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300043,
+        "num": 1300043,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105410,
+        "num": 1105410,
+        "word": "花少5第一次真正的矛盾来了",
+        "onboard_time": 1699439614,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19115,
+        "num": 989147,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 983438,
+        "num": 983438,
+        "word": "刘恺威肘击颖儿",
+        "onboard_time": 1699438294,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558658,
+        "num": 558658,
+        "word": "美香 回国",
+        "onboard_time": 1699439194,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499588,
+        "num": 499588,
+        "word": "无期迷途 删角色",
+        "onboard_time": 1699445619,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 473721,
+        "num": 473721,
+        "word": "papi酱又出rap了",
+        "onboard_time": 1699445442,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442358,
+        "num": 442358,
+        "word": "爷爷用私房钱圆了奶奶公主梦",
+        "onboard_time": 1699444474,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 371824,
+        "num": 371824,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 341156,
+        "num": 370389,
+        "word": "癫公癫婆 使不完的牛劲",
+        "onboard_time": 1699435234,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21682297,
+        "num": 367615,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1057200,
+        "num": 366217,
+        "word": "出轨丈夫去世 孩子要不要生",
+        "onboard_time": 1699433614,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 808585,
+        "num": 363913,
+        "word": "时代峰峻的戒指是你家的吗",
+        "onboard_time": 1699447070,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 599140,
+        "num": 363030,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 361200,
+        "num": 361200,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375429,
+        "num": 361113,
+        "word": "张彩玲 外国人对中国属相的误解",
+        "onboard_time": 1699445737,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360585,
+        "num": 360585,
+        "word": "揭露三鹿毒奶粉的记者现在怎么样了",
+        "onboard_time": 1699447007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317756,
+        "num": 317756,
+        "word": "宁安如梦选角",
+        "onboard_time": 1699446344,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275932,
+        "num": 275932,
+        "word": "5元自助糯米饭",
+        "onboard_time": 1699443813,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 268741,
+        "num": 268741,
+        "word": "天官赐福",
+        "onboard_time": 1699447309,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 301585,
+        "num": 263254,
+        "word": "金莎问她是不是长了一张很容易受伤的脸",
+        "onboard_time": 1699440334,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281982,
+        "num": 262336,
+        "word": "王安宇 内耗",
+        "onboard_time": 1699447070,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272253,
+        "num": 261266,
+        "word": "陆家嘴公司买到毒地索赔100亿元",
+        "onboard_time": 1699430495,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248494,
+        "num": 248494,
+        "word": "宁安如梦 逃不掉大灯",
+        "onboard_time": 1699427138,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212732,
+        "num": 212732,
+        "word": "乳腺癌 男性",
+        "onboard_time": 1699425637,
+        "rank": 24,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 201770,
+        "num": 201770,
+        "word": "比嫋嫋阿母还狠的母亲出现了",
+        "onboard_time": 1699440031,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201272,
+        "num": 201272,
+        "word": "小花的年纪 大花的气场",
+        "onboard_time": 1699439614,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166391,
+        "num": 201109,
+        "word": "陆家嘴",
+        "onboard_time": 1699425397,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164010,
+        "num": 201087,
+        "word": "外交部回应中美元首将在旧金山双边会谈",
+        "onboard_time": 1699442012,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150487,
+        "num": 201083,
+        "word": "你的家乡立冬有什么习俗",
+        "onboard_time": 1699443632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201083,
+        "num": 201082,
+        "word": "刘恺威 桌面清理大师",
+        "onboard_time": 1699440698,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185096,
+        "num": 185096,
+        "word": "花少真是七个浪漫笨蛋",
+        "onboard_time": 1699447070,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155991,
+        "num": 185093,
+        "word": "仙剑四变更为36集",
+        "onboard_time": 1699432595,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152704,
+        "num": 185084,
+        "word": "为什么胰腺癌生存率这么低",
+        "onboard_time": 1699446953,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124710,
+        "num": 185068,
+        "word": "孟羽童一年半广告收入或达400万",
+        "onboard_time": 1699421672,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155284,
+        "num": 185063,
+        "word": "白鹿台词 燕临你疯了",
+        "onboard_time": 1699431096,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153843,
+        "num": 185045,
+        "word": "内娱推心置腹的7分37秒",
+        "onboard_time": 1699442313,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119132,
+        "num": 185035,
+        "word": "夫妻变卖房东3.6万元家电只愿赔3000",
+        "onboard_time": 1699433435,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 113155,
+        "num": 185030,
+        "word": "中山二院癌症患者家属称确实被踢出群聊",
+        "onboard_time": 1699424257,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105553,
+        "num": 185023,
+        "word": "瘦不下来真的不能怪晚餐",
+        "onboard_time": 1699446770,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144428,
+        "num": 185003,
+        "word": "时宴的姻缘九十九分靠打拼",
+        "onboard_time": 1699444533,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143102,
+        "num": 184999,
+        "word": "彭小苒美丽冻人妆",
+        "onboard_time": 1699443936,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 133345,
+        "num": 184986,
+        "word": "朱锐斌学派",
+        "onboard_time": 1699427138,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127361,
+        "num": 184972,
+        "word": "节目组是懂给镜头的",
+        "onboard_time": 1699444896,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102863,
+        "num": 184967,
+        "word": "时之歌",
+        "onboard_time": 1699441294,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110490,
+        "num": 184961,
+        "word": "徐穗珍solo新歌",
+        "onboard_time": 1699437098,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104816,
+        "num": 184944,
+        "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+        "onboard_time": 1699447550,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100023,
+        "num": 184941,
+        "word": "通过亲密关系进入另一个人的美学世界",
+        "onboard_time": 1699440153,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97392,
+        "num": 184929,
+        "word": "庄时利和谈实验室安全",
+        "onboard_time": 1699447550,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96898,
+        "num": 184917,
+        "word": "秋日故宫银杏配红墙",
+        "onboard_time": 1699447430,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}
