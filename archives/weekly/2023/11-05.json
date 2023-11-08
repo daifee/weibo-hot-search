@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699425346693,
+  "endTime": 1699427759707,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 1519288,
-      "num": 507872,
+      "num": 508201,
       "word": "炎亚纶改名吴秉孺",
       "onboard_time": 1699422813,
       "rank": 10,
@@ -617,6 +617,14 @@
       "onboard_time": 1699260152,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1498397,
+      "num": 1498397,
+      "word": "乳腺癌 男性",
+      "onboard_time": 1699425637,
+      "rank": 1,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 1497508,
@@ -667,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1439416,
+      "num": 517212,
+      "word": "25岁女子欲离婚被丈夫割喉杀害",
+      "onboard_time": 1699425397,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1435162,
       "num": 1435162,
       "word": "女大学生肚子大被搓澡阿姨救了一命",
       "onboard_time": 1699268494,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1432631,
+      "num": 509425,
+      "word": "迪丽热巴 丑衣服穿出文艺感",
+      "onboard_time": 1699426902,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1423443,
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1302090,
+      "num": 1302090,
+      "word": "秦海璐肠绞痛痛到脸都白了",
+      "onboard_time": 1699423297,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1291906,
       "num": 1291906,
       "word": "东北局地特大暴雪",
@@ -827,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1230523,
-      "num": 1230523,
-      "word": "秦海璐肠绞痛痛到脸都白了",
-      "onboard_time": 1699423297,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1230353,
       "num": 1230353,
       "word": "导演答应白鹿不用大灯",
@@ -849,6 +873,14 @@
       "onboard_time": 1699335512,
       "rank": 4,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 1192580,
+      "num": 1192580,
+      "word": "陆家嘴",
+      "onboard_time": 1699425397,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1188960,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1699279660,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938475,
+      "num": 938475,
+      "word": "唐三葬",
+      "onboard_time": 1699426418,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 929303,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1699168652,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 733201,
+      "num": 733201,
+      "word": "她赢了赌约 他占了便宜",
+      "onboard_time": 1699425701,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 731322,
@@ -2435,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521134,
+      "num": 521134,
+      "word": "中山二院癌症患者家属称确实被踢出群聊",
+      "onboard_time": 1699424257,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519003,
       "num": 519003,
       "word": "不一定斩男 百分百斩女",
@@ -2547,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493823,
+      "num": 493823,
+      "word": "宁安如梦 逃不掉大灯",
+      "onboard_time": 1699427138,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492260,
       "num": 492260,
       "word": "白鹿王鹤棣新剧收视率",
@@ -2649,6 +2713,14 @@
       "onboard_time": 1699175970,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477491,
+      "num": 477491,
+      "word": "胰腺癌为什么被称为癌中之王",
+      "onboard_time": 1699424799,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 477184,
@@ -3091,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 418773,
+      "num": 418773,
+      "word": "王安宇胡先煦意见分歧",
+      "onboard_time": 1699425039,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418573,
       "num": 536985,
       "word": "王曼昱 医疗暂停",
@@ -3249,14 +3329,6 @@
       "onboard_time": 1699278277,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 396912,
-      "num": 396912,
-      "word": "中山二院癌症患者家属称确实被踢出群聊",
-      "onboard_time": 1699424257,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396277,
@@ -4147,14 +4219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308005,
-      "num": 308005,
-      "word": "胰腺癌为什么被称为癌中之王",
-      "onboard_time": 1699424799,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 305414,
       "num": 305414,
       "word": "离职前可以这样退群",
@@ -4313,6 +4377,14 @@
       "onboard_time": 1699116030,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288655,
+      "num": 288655,
+      "word": "迪丽热巴被e人包围了",
+      "onboard_time": 1699425219,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 288433,
@@ -4795,6 +4867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 253577,
+      "num": 253577,
+      "word": "朱锐斌学派",
+      "onboard_time": 1699427138,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252686,
       "num": 252686,
       "word": "张译正式加入摇滚圈",
@@ -5041,14 +5121,6 @@
       "onboard_time": 1699180364,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242502,
-      "num": 242502,
-      "word": "迪丽热巴被e人包围了",
-      "onboard_time": 1699425219,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 242455,
@@ -5729,6 +5801,14 @@
       "onboard_time": 1699325851,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215190,
+      "num": 215190,
+      "word": "杨超越露背紫纱裙",
+      "onboard_time": 1699425997,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215122,
@@ -6707,14 +6787,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 190084,
-      "num": 190084,
-      "word": "王安宇胡先煦意见分歧",
-      "onboard_time": 1699425039,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189828,
       "num": 189828,
       "word": "年轻人从精致穷变成机智省",
@@ -6913,6 +6985,14 @@
       "onboard_time": 1699338331,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185808,
+      "num": 185808,
+      "word": "涉过愤怒的海 尺度",
+      "onboard_time": 1699426780,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 185671,
@@ -7139,6 +7219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 177329,
+      "num": 177329,
+      "word": "袁弘演变态真的有点怕",
+      "onboard_time": 1699426538,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177251,
       "num": 177251,
       "word": "原神娜维娅",
@@ -7152,6 +7240,14 @@
       "word": "奥恰洛夫 马龙是我一生朋友与对手",
       "onboard_time": 1699418078,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176704,
+      "num": 176704,
+      "word": "孙颖莎朱芊曦对练",
+      "onboard_time": 1699426301,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -8019,6 +8115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149299,
+      "num": 149299,
+      "word": "李雪琴简直就是我的互联网嘴替",
+      "onboard_time": 1699426118,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149114,
       "num": 149114,
       "word": "朴宰范变膏宰范了",
@@ -8073,6 +8177,14 @@
       "onboard_time": 1699333417,
       "rank": 43,
       "category": "电影,情感"
+    },
+    {
+      "raw_hot": 147638,
+      "num": 147638,
+      "word": "梅西进军电竞行业",
+      "onboard_time": 1699427502,
+      "rank": 37,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 147433,
@@ -8297,6 +8409,14 @@
       "onboard_time": 1699154190,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142074,
+      "num": 142074,
+      "word": "辛芷蕾 对就这么宣传我",
+      "onboard_time": 1699427677,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141811,
@@ -8747,6 +8867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 127530,
+      "num": 127530,
+      "word": "炎亚纶回应被公诉",
+      "onboard_time": 1699426301,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127455,
       "num": 127455,
       "word": "杰克逊模仿C罗",
@@ -8761,6 +8889,14 @@
       "onboard_time": 1699238671,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127226,
+      "num": 127226,
+      "word": "米兰球迷向多纳鲁马扔假钞",
+      "onboard_time": 1699426780,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 127155,

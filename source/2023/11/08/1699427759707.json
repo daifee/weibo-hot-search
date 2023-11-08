@@ -1,0 +1,410 @@
+{
+  "runTime": 1699427759707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2345385,
+        "num": 2345385,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1498397,
+        "num": 1498397,
+        "word": "乳腺癌 男性",
+        "onboard_time": 1699425637,
+        "rank": 1,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 62264,
+        "num": 1347981,
+        "word": "进博会场馆四叶草背后的奥秘",
+        "onboard_time": 1699420234,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1302090,
+        "num": 1302090,
+        "word": "秦海璐肠绞痛痛到脸都白了",
+        "onboard_time": 1699423297,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1192580,
+        "num": 1192580,
+        "word": "陆家嘴",
+        "onboard_time": 1699425397,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1165049,
+        "num": 1165049,
+        "word": "孟羽童一年半广告收入或达400万",
+        "onboard_time": 1699421672,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013521,
+        "num": 1013521,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 6,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 938475,
+        "num": 938475,
+        "word": "唐三葬",
+        "onboard_time": 1699426418,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 733201,
+        "num": 733201,
+        "word": "她赢了赌约 他占了便宜",
+        "onboard_time": 1699425701,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521134,
+        "num": 521134,
+        "word": "中山二院癌症患者家属称确实被踢出群聊",
+        "onboard_time": 1699424257,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439416,
+        "num": 517212,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432631,
+        "num": 509425,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1171297,
+        "num": 508201,
+        "word": "炎亚纶改名吴秉孺",
+        "onboard_time": 1699422813,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493823,
+        "num": 493823,
+        "word": "宁安如梦 逃不掉大灯",
+        "onboard_time": 1699427138,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477491,
+        "num": 477491,
+        "word": "胰腺癌为什么被称为癌中之王",
+        "onboard_time": 1699424799,
+        "rank": 14,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 450659,
+        "num": 450659,
+        "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
+        "onboard_time": 1699421496,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443950,
+        "num": 443950,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418773,
+        "num": 418773,
+        "word": "王安宇胡先煦意见分歧",
+        "onboard_time": 1699425039,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298238,
+        "num": 298238,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288655,
+        "num": 288655,
+        "word": "迪丽热巴被e人包围了",
+        "onboard_time": 1699425219,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388686,
+        "num": 284788,
+        "word": "王鹤棣曝光艺人聊天模板",
+        "onboard_time": 1699420893,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253577,
+        "num": 253577,
+        "word": "朱锐斌学派",
+        "onboard_time": 1699427138,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242083,
+        "num": 242083,
+        "word": "景甜 情绪稳定的人简直就是人间宝藏",
+        "onboard_time": 1699424742,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220371,
+        "num": 220371,
+        "word": "刘亦菲迪士尼公主造型",
+        "onboard_time": 1699421431,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219433,
+        "num": 219433,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215190,
+        "num": 215190,
+        "word": "杨超越露背紫纱裙",
+        "onboard_time": 1699425997,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212437,
+        "num": 212437,
+        "word": "迪丽热巴同款瀑布高马尾",
+        "onboard_time": 1699422213,
+        "rank": 26,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 195612,
+        "num": 195612,
+        "word": "成都警方通报地铁3号线打人事件",
+        "onboard_time": 1699424198,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191207,
+        "num": 191207,
+        "word": "胰腺癌发病率",
+        "onboard_time": 1699423537,
+        "rank": 28,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 185808,
+        "num": 185808,
+        "word": "涉过愤怒的海 尺度",
+        "onboard_time": 1699426780,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184170,
+        "num": 184170,
+        "word": "成都地铁3号线打人男子被行拘",
+        "onboard_time": 1699420653,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177759,
+        "num": 177759,
+        "word": "A股",
+        "onboard_time": 1699424139,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177329,
+        "num": 177329,
+        "word": "袁弘演变态真的有点怕",
+        "onboard_time": 1699426538,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 176704,
+        "word": "孙颖莎朱芊曦对练",
+        "onboard_time": 1699426301,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173713,
+        "num": 173713,
+        "word": "宁安如梦",
+        "onboard_time": 1699421314,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153102,
+        "num": 153102,
+        "word": "中山二院称欢迎第三方机构评估调查",
+        "onboard_time": 1699414714,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 149299,
+        "word": "李雪琴简直就是我的互联网嘴替",
+        "onboard_time": 1699426118,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147638,
+        "num": 147638,
+        "word": "梅西进军电竞行业",
+        "onboard_time": 1699427502,
+        "rank": 37,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 147367,
+        "num": 147367,
+        "word": "董明珠称孟羽童兼职接广告不合规",
+        "onboard_time": 1699413153,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143768,
+        "num": 143768,
+        "word": "姜珮瑶 明媚的美",
+        "onboard_time": 1699409550,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143498,
+        "num": 143498,
+        "word": "MAMA阵容",
+        "onboard_time": 1699418560,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142074,
+        "num": 142074,
+        "word": "辛芷蕾 对就这么宣传我",
+        "onboard_time": 1699427677,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133639,
+        "num": 133639,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132906,
+        "num": 132906,
+        "word": "WBG获得选边权",
+        "onboard_time": 1699415134,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131316,
+        "num": 131316,
+        "word": "印尼班达海7.1级地震",
+        "onboard_time": 1699422871,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127530,
+        "num": 127530,
+        "word": "炎亚纶回应被公诉",
+        "onboard_time": 1699426301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127226,
+        "num": 127226,
+        "word": "米兰球迷向多纳鲁马扔假钞",
+        "onboard_time": 1699426780,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126861,
+        "num": 126861,
+        "word": "宁安如梦人物关系图",
+        "onboard_time": 1699408292,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107222,
+        "num": 126858,
+        "word": "CTU音乐节",
+        "onboard_time": 1699422331,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122902,
+        "num": 126838,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从头回客与回头客中见证进博魅力#"
+    }
+  }
+}
