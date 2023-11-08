@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699457672182,
+  "endTime": 1699460591616,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -147,6 +147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 4111246,
+      "num": 3247527,
+      "word": "酒店讲述仲尼巴厘岛遇难细节",
+      "onboard_time": 1699456610,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 3860827,
       "num": 3860827,
       "word": "导师回应网传乳腺外科团队多人患癌",
@@ -233,14 +241,6 @@
       "onboard_time": 1699010675,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 3247527,
-      "num": 3247527,
-      "word": "酒店讲述仲尼巴厘岛遇难细节",
-      "onboard_time": 1699456610,
-      "rank": 5,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 3213405,
@@ -4435,6 +4435,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 610176,
+      "num": 610176,
+      "word": "青簪行彭冠英补拍",
+      "onboard_time": 1699456312,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 609902,
       "num": 609902,
       "word": "时宴他慌了",
@@ -4497,14 +4505,6 @@
       "onboard_time": 1699324711,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 604035,
-      "num": 604035,
-      "word": "青簪行彭冠英补拍",
-      "onboard_time": 1699456312,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 603836,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1699445619,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 499580,
+      "num": 349805,
+      "word": "TFBOYS十周年专辑戒指",
+      "onboard_time": 1699456909,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499403,
@@ -7107,6 +7115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406727,
+      "num": 406727,
+      "word": "河南新乡警方通报两女子浑身是血倒在街头",
+      "onboard_time": 1699456014,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405929,
       "num": 405929,
       "word": "樊振东1比3李尚洙",
@@ -8019,6 +8035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 363045,
+      "num": 334371,
+      "word": "网传扬州一女子捂死女儿后跳楼",
+      "onboard_time": 1699456014,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362005,
       "num": 362005,
       "word": "霉霉 就算搞砸了也没什么大不了",
@@ -8033,14 +8057,6 @@
       "onboard_time": 1699160673,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 361299,
-      "num": 361299,
-      "word": "河南新乡警方通报两女子浑身是血倒在街头",
-      "onboard_time": 1699456014,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361132,
@@ -8329,14 +8345,6 @@
       "onboard_time": 1698996279,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349805,
-      "num": 349805,
-      "word": "TFBOYS十周年专辑戒指",
-      "onboard_time": 1699456909,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 349798,
@@ -9177,14 +9185,6 @@
       "onboard_time": 1698897876,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315105,
-      "num": 334192,
-      "word": "网传扬州一女子捂死女儿后跳楼",
-      "onboard_time": 1699456014,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314763,
@@ -11401,6 +11401,14 @@
       "onboard_time": 1698809495,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245466,
+      "num": 245466,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1699459417,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 245428,
@@ -13995,6 +14003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201687,
+      "num": 201687,
+      "word": "傅首尔老刘无声的陪伴",
+      "onboard_time": 1699459056,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201678,
       "num": 201678,
       "word": "十个勤天",
@@ -15747,6 +15763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183188,
+      "num": 183188,
+      "word": "谢危的疯是根本找不到代餐的疯",
+      "onboard_time": 1699459655,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182773,
       "num": 184999,
       "word": "彭小苒美丽冻人妆",
@@ -16025,6 +16049,14 @@
       "onboard_time": 1699086329,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178242,
+      "num": 178242,
+      "word": "宋雨琦挂脖紧身裙",
+      "onboard_time": 1699458699,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178126,
@@ -16435,6 +16467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172063,
+      "num": 172063,
+      "word": "癫剧",
+      "onboard_time": 1699460313,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171924,
       "num": 171924,
       "word": "原神 海洋之心",
@@ -16745,6 +16785,14 @@
       "onboard_time": 1698859040,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 167505,
+      "num": 167505,
+      "word": "五月天5525回到那一天",
+      "onboard_time": 1699458338,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 167410,
@@ -18220,7 +18268,7 @@
     },
     {
       "raw_hot": 148723,
-      "num": 148723,
+      "num": 178952,
       "word": "航班乘客心脏骤停清华长庚医生紧急救援",
       "onboard_time": 1699456970,
       "rank": 39,
@@ -18801,6 +18849,14 @@
       "onboard_time": 1699331077,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 141467,
+      "num": 170984,
+      "word": "和父母的分享欲就是这么消失的",
+      "onboard_time": 1699458403,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 141440,
@@ -20883,6 +20939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111164,
+      "num": 110521,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1699460013,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111076,
       "num": 111076,
       "word": "致敬折多山交警",
@@ -22353,6 +22417,14 @@
       "onboard_time": 1698717808,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 62261,
+      "num": 108162,
+      "word": "入冬第一妆",
+      "onboard_time": 1699459598,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 62164,

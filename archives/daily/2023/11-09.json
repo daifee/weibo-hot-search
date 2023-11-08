@@ -1,0 +1,411 @@
+{
+  "startTime": 1699460591616,
+  "endTime": 1699460591616,
+  "band_list": [
+    {
+      "raw_hot": 7255673,
+      "num": 7255673,
+      "word": "仲尼在巴厘岛遇难",
+      "onboard_time": 1699455235,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 4111246,
+      "num": 532532,
+      "word": "酒店讲述仲尼巴厘岛遇难细节",
+      "onboard_time": 1699456610,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 3172348,
+      "num": 327855,
+      "word": "仲尼",
+      "onboard_time": 1699444355,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1296926,
+      "num": 318470,
+      "word": "卡琳娜",
+      "onboard_time": 1699449352,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 786733,
+      "num": 301910,
+      "word": "仲尼昨天生日",
+      "onboard_time": 1699449533,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 706393,
+      "num": 706393,
+      "word": "瑞幸 罗翔",
+      "onboard_time": 1699452654,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 610176,
+      "num": 610176,
+      "word": "青簪行彭冠英补拍",
+      "onboard_time": 1699456312,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 499580,
+      "num": 290933,
+      "word": "TFBOYS十周年专辑戒指",
+      "onboard_time": 1699456909,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447772,
+      "num": 281464,
+      "word": "韵达",
+      "onboard_time": 1699453379,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445589,
+      "num": 445589,
+      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+      "onboard_time": 1699447550,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406727,
+      "num": 406727,
+      "word": "河南新乡警方通报两女子浑身是血倒在街头",
+      "onboard_time": 1699456014,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398160,
+      "num": 398160,
+      "word": "中山二院癌症患者黄某家属发声",
+      "onboard_time": 1699419876,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363045,
+      "num": 334371,
+      "word": "网传扬州一女子捂死女儿后跳楼",
+      "onboard_time": 1699456014,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341860,
+      "num": 341860,
+      "word": "花少5第一次真正的矛盾来了",
+      "onboard_time": 1699439614,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276593,
+      "num": 276593,
+      "word": "出轨丈夫去世 孩子要不要生",
+      "onboard_time": 1699433614,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266307,
+      "num": 266307,
+      "word": "原来真的有人会饿成这样",
+      "onboard_time": 1699454579,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 245466,
+      "num": 245466,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1699459417,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 241904,
+      "num": 241904,
+      "word": "刘恺威肘击颖儿",
+      "onboard_time": 1699438294,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224730,
+      "num": 224730,
+      "word": "花少后期多剪一秒就露馅了",
+      "onboard_time": 1699455115,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208149,
+      "num": 208149,
+      "word": "权志龙3个百万直拍",
+      "onboard_time": 1699456730,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204891,
+      "num": 204891,
+      "word": "你以为直腿的动作vs实际直腿的动作",
+      "onboard_time": 1699455712,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 201687,
+      "num": 201687,
+      "word": "傅首尔老刘无声的陪伴",
+      "onboard_time": 1699459056,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201146,
+      "num": 201146,
+      "word": "迪丽热巴 丑衣服穿出文艺感",
+      "onboard_time": 1699426902,
+      "rank": 24,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 192911,
+      "num": 192911,
+      "word": "田曦薇星河公主裙",
+      "onboard_time": 1699455472,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186460,
+      "num": 226217,
+      "word": "南航",
+      "onboard_time": 1699451092,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184291,
+      "num": 184291,
+      "word": "GTA6",
+      "onboard_time": 1699453492,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 183188,
+      "num": 183188,
+      "word": "谢危的疯是根本找不到代餐的疯",
+      "onboard_time": 1699459655,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181020,
+      "num": 181020,
+      "word": "刘亦菲张靓颖合照",
+      "onboard_time": 1699450854,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 178242,
+      "num": 178242,
+      "word": "宋雨琦挂脖紧身裙",
+      "onboard_time": 1699458699,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172063,
+      "num": 172063,
+      "word": "癫剧",
+      "onboard_time": 1699460313,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171574,
+      "num": 171574,
+      "word": "时代峰峻的戒指是你家的吗",
+      "onboard_time": 1699447070,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 170924,
+      "num": 170924,
+      "word": "宁安如梦爱奇艺热度值破9000",
+      "onboard_time": 1699455054,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168651,
+      "num": 168651,
+      "word": "时宴他慌了",
+      "onboard_time": 1699451580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167505,
+      "num": 167505,
+      "word": "五月天5525回到那一天",
+      "onboard_time": 1699458338,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "罗云熙官宣水龙吟",
+      "onboard_time": 1699454753,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147501,
+      "num": 147501,
+      "word": "时宴发朋友圈表白",
+      "onboard_time": 1699456671,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143551,
+      "num": 171085,
+      "word": "中山二院黄某家属称其病情严重",
+      "onboard_time": 1699450673,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141467,
+      "num": 170984,
+      "word": "和父母的分享欲就是这么消失的",
+      "onboard_time": 1699458403,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132277,
+      "num": 178952,
+      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+      "onboard_time": 1699456970,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130396,
+      "num": 130396,
+      "word": "aespa主打曲Drama预听",
+      "onboard_time": 1699455588,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 129113,
+      "num": 129113,
+      "word": "涂山璟捡起来的从来都不是浪漫",
+      "onboard_time": 1699451693,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123546,
+      "num": 123546,
+      "word": "25岁女子欲离婚被丈夫割喉杀害",
+      "onboard_time": 1699425397,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111164,
+      "num": 110521,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1699460013,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110946,
+      "num": 110946,
+      "word": "肉装妲己翻身困难被同伴嘲笑",
+      "onboard_time": 1699452051,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 108738,
+      "num": 160249,
+      "word": "三只大熊猫即将回国",
+      "onboard_time": 1699453194,
+      "rank": 38,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 99137,
+      "num": 158466,
+      "word": "中山二院",
+      "onboard_time": 1699450673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86111,
+      "num": 109977,
+      "word": "美香 回国",
+      "onboard_time": 1699439194,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82760,
+      "num": 109059,
+      "word": "无期迷途 删角色",
+      "onboard_time": 1699445619,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 62261,
+      "num": 108162,
+      "word": "入冬第一妆",
+      "onboard_time": 1699459598,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 49076,
+      "num": 654812,
+      "word": "2023世界互联网大会乌镇峰会",
+      "onboard_time": 1699452654,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  ]
+}
