@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699439751533,
+  "endTime": 1699442079064,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1959734,
-      "num": 594330,
+      "num": 625148,
       "word": "迪丽热巴 丑衣服穿出文艺感",
       "onboard_time": 1699426902,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1955073,
+      "num": 1955073,
+      "word": "刘恺威肘击颖儿",
+      "onboard_time": 1699438294,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1945819,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1900509,
-      "num": 424447,
+      "num": 667811,
       "word": "出轨丈夫去世 孩子要不要生",
       "onboard_time": 1699433614,
       "rank": 10,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1726434,
-      "num": 578962,
+      "num": 588703,
       "word": "25岁女子欲离婚被丈夫割喉杀害",
       "onboard_time": 1699425397,
       "rank": 10,
@@ -105,14 +113,6 @@
       "onboard_time": 1699413692,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1660888,
-      "num": 1660888,
-      "word": "刘恺威肘击颖儿",
-      "onboard_time": 1699438294,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1616473,
@@ -177,6 +177,22 @@
       "onboard_time": 1699423297,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1236306,
+      "num": 1236306,
+      "word": "花少5第一次真正的矛盾来了",
+      "onboard_time": 1699439614,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1130249,
+      "num": 1130249,
+      "word": "美香 回国",
+      "onboard_time": 1699439194,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1107179,
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 669473,
+      "num": 669473,
+      "word": "金莎问她是不是长了一张很容易受伤的脸",
+      "onboard_time": 1699440334,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668022,
       "num": 668022,
       "word": "秦海璐拍的迪丽热巴",
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472081,
+      "num": 472081,
+      "word": "吉祥航空回应HO1650航班备降揭阳",
+      "onboard_time": 1699440872,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465632,
       "num": 465632,
       "word": "张踩铃 别让孩子成为情绪的宣泄口",
@@ -537,6 +569,14 @@
       "onboard_time": 1699429534,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455638,
+      "num": 455638,
+      "word": "小花的年纪 大花的气场",
+      "onboard_time": 1699439614,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 430120,
@@ -761,6 +801,14 @@
       "onboard_time": 1699421431,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330278,
+      "num": 330278,
+      "word": "刘恺威 桌面清理大师",
+      "onboard_time": 1699440698,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 327898,
@@ -1004,7 +1052,7 @@
     },
     {
       "raw_hot": 259342,
-      "num": 1066051,
+      "num": 1326438,
       "word": "77岁奶奶10年来每天打篮球2小时",
       "onboard_time": 1699437032,
       "rank": 1,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1699424742,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246754,
+      "num": 246754,
+      "word": "比嫋嫋阿母还狠的母亲出现了",
+      "onboard_time": 1699440031,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 246417,
@@ -1227,28 +1283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222664,
-      "num": 222664,
-      "word": "小花的年纪 大花的气场",
-      "onboard_time": 1699439614,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221667,
       "num": 221667,
       "word": "马竞6比0凯尔特人",
       "onboard_time": 1699410270,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219772,
-      "num": 219772,
-      "word": "美香 回国",
-      "onboard_time": 1699439194,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218580,
@@ -1619,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187923,
+      "num": 187923,
+      "word": "TizzyT来之不易纪录片",
+      "onboard_time": 1699441474,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187228,
       "num": 187228,
       "word": "乐游原 自来水",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1699398144,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 181195,
+      "num": 181195,
+      "word": "时之歌",
+      "onboard_time": 1699441294,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 180961,
@@ -1739,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175590,
+      "num": 1144586,
+      "word": "立冬的第一顿饺子是奶奶包的",
+      "onboard_time": 1699439313,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175287,
       "num": 175287,
       "word": "尚雯婕为原神献唱歌曲",
@@ -1748,7 +1812,7 @@
     },
     {
       "raw_hot": 174689,
-      "num": 659107,
+      "num": 1240454,
       "word": "东北爸爸有多配合女儿玩雪",
       "onboard_time": 1699437032,
       "rank": 5,
@@ -1835,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162995,
+      "num": 162995,
+      "word": "通过亲密关系进入另一个人的美学世界",
+      "onboard_time": 1699440153,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160006,
       "num": 160006,
       "word": "原神4.2达达利亚动画",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1699430734,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155862,
-      "num": 155862,
-      "word": "花少5第一次真正的矛盾来了",
-      "onboard_time": 1699439614,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 155770,
@@ -1899,12 +1963,12 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 151227,
-      "num": 151227,
-      "word": "立冬的第一顿饺子是奶奶包的",
-      "onboard_time": 1699439313,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 151906,
+      "num": 151906,
+      "word": "炸广东肉 来自山东淄博博山的美食",
+      "onboard_time": 1699440452,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 151214,
@@ -2051,6 +2115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133451,
+      "num": 133451,
+      "word": "陈伟霆看张家辉满眼的宠溺",
+      "onboard_time": 1699441773,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132851,
       "num": 132851,
       "word": "爱奇艺用白鹿对打白鹿",
@@ -2177,6 +2249,14 @@
       "onboard_time": 1699429773,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121819,
+      "num": 121819,
+      "word": "闫妮谭松韵吴京同款腮帮子",
+      "onboard_time": 1699441175,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 121781,
@@ -2321,6 +2401,14 @@
       "onboard_time": 1699438115,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 97833,
+      "num": 97833,
+      "word": "外交部回应中美元首将在旧金山双边会谈",
+      "onboard_time": 1699442012,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 97442,
