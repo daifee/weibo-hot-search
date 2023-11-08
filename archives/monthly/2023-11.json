@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699461539537,
+  "endTime": 1699463751062,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -7003,6 +7003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410633,
+      "num": 221662,
+      "word": "癫剧",
+      "onboard_time": 1699460313,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410062,
       "num": 410062,
       "word": "幼童高烧40度公交变救护车3分钟送医",
@@ -8091,6 +8099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360257,
+      "num": 360257,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1699459417,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 359285,
       "num": 233941,
       "word": "小朋友撤回了一包辣条",
@@ -8545,14 +8561,6 @@
       "onboard_time": 1698884198,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 342132,
-      "num": 342132,
-      "word": "ChatGPT崩了",
-      "onboard_time": 1699459417,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 342088,
@@ -10027,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280220,
+      "num": 280220,
+      "word": "龙 你今天吃了20个饺子",
+      "onboard_time": 1699462166,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280202,
       "num": 280202,
       "word": "为有暗香来 OE",
@@ -10795,14 +10811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259670,
-      "num": 209134,
-      "word": "癫剧",
-      "onboard_time": 1699460313,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259463,
       "num": 256238,
       "word": "这闺蜜照郑恺有点多余了",
@@ -11105,6 +11113,14 @@
       "onboard_time": 1698935497,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251983,
+      "num": 189255,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1699460013,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 251977,
@@ -12705,6 +12721,14 @@
       "onboard_time": 1699279421,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222517,
+      "num": 222517,
+      "word": "Somi希望IOI在MAMA合体",
+      "onboard_time": 1699462348,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 222373,
@@ -15257,14 +15281,6 @@
       "onboard_time": 1699100619,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189255,
-      "num": 189255,
-      "word": "小狗认为摸头是世界上最幸福的事",
-      "onboard_time": 1699460013,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 189050,
@@ -20579,6 +20595,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 118558,
+      "num": 118558,
+      "word": "显脸小这么化",
+      "onboard_time": 1699461688,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 118549,
       "num": 118549,
       "word": "山东男子受苏州人帮助开面馆名字加苏",
@@ -22732,7 +22756,7 @@
     },
     {
       "raw_hot": 47646,
-      "num": 175777,
+      "num": 222328,
       "word": "这些炸裂场景只是他们训练日常",
       "onboard_time": 1699461090,
       "rank": 24,

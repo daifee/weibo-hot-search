@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699461539537,
+  "endTime": 1699463751062,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3531,6 +3531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 410633,
+      "num": 221662,
+      "word": "癫剧",
+      "onboard_time": 1699460313,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408797,
       "num": 408797,
       "word": "哈尔滨初雪",
@@ -4019,6 +4027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 360257,
+      "num": 360257,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1699459417,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 359262,
       "num": 359262,
       "word": "姜珮瑶 闺蜜专业户",
@@ -4225,14 +4241,6 @@
       "onboard_time": 1699238912,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342132,
-      "num": 342132,
-      "word": "ChatGPT崩了",
-      "onboard_time": 1699459417,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 342088,
@@ -4995,6 +5003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280220,
+      "num": 280220,
+      "word": "龙 你今天吃了20个饺子",
+      "onboard_time": 1699462166,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279312,
       "num": 279312,
       "word": "海南夜市的小吃有多朴实无华",
@@ -5331,14 +5347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 259670,
-      "num": 209134,
-      "word": "癫剧",
-      "onboard_time": 1699460313,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259463,
       "num": 256238,
       "word": "这闺蜜照郑恺有点多余了",
@@ -5481,6 +5489,14 @@
       "onboard_time": 1699363176,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251983,
+      "num": 189255,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1699460013,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 251977,
@@ -6321,6 +6337,14 @@
       "onboard_time": 1699279421,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222517,
+      "num": 222517,
+      "word": "Somi希望IOI在MAMA合体",
+      "onboard_time": 1699462348,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 222373,
@@ -7673,14 +7697,6 @@
       "onboard_time": 1699184558,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189255,
-      "num": 189255,
-      "word": "小狗认为摸头是世界上最幸福的事",
-      "onboard_time": 1699460013,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 189050,
@@ -10339,6 +10355,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 118558,
+      "num": 118558,
+      "word": "显脸小这么化",
+      "onboard_time": 1699461688,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 117062,
       "num": 117062,
       "word": "92岁老兵仍能精准破译摩斯电码",
@@ -11548,7 +11572,7 @@
     },
     {
       "raw_hot": 47646,
-      "num": 175777,
+      "num": 222328,
       "word": "这些炸裂场景只是他们训练日常",
       "onboard_time": 1699461090,
       "rank": 24,
