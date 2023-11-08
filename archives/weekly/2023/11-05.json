@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699460591616,
+  "endTime": 1699461539537,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -75,6 +75,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 4890272,
+      "num": 3247527,
+      "word": "酒店讲述仲尼巴厘岛遇难细节",
+      "onboard_time": 1699456610,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 4591644,
       "num": 2297416,
       "word": "Scout 精忠报国",
@@ -97,14 +105,6 @@
       "onboard_time": 1699260993,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4111246,
-      "num": 3247527,
-      "word": "酒店讲述仲尼巴厘岛遇难细节",
-      "onboard_time": 1699456610,
-      "rank": 5,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 3860827,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2727681,
-      "num": 590550,
+      "num": 723827,
       "word": "仲尼昨天生日",
       "onboard_time": 1699449533,
       "rank": 12,
@@ -3883,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370798,
+      "num": 334371,
+      "word": "网传扬州一女子捂死女儿后跳楼",
+      "onboard_time": 1699456014,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370232,
       "num": 370232,
       "word": "苏醒没有陈楚生的比赛不愿意留到最后",
@@ -3993,14 +4001,6 @@
       "onboard_time": 1699351356,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363045,
-      "num": 334371,
-      "word": "网传扬州一女子捂死女儿后跳楼",
-      "onboard_time": 1699456014,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362005,
@@ -4225,6 +4225,14 @@
       "onboard_time": 1699238912,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342132,
+      "num": 342132,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1699459417,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 342088,
@@ -5323,6 +5331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 259670,
+      "num": 209134,
+      "word": "癫剧",
+      "onboard_time": 1699460313,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259463,
       "num": 256238,
       "word": "这闺蜜照郑恺有点多余了",
@@ -5625,14 +5641,6 @@
       "onboard_time": 1699330597,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245466,
-      "num": 245466,
-      "word": "ChatGPT崩了",
-      "onboard_time": 1699459417,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 245362,
@@ -6561,6 +6569,14 @@
       "onboard_time": 1699433499,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211791,
+      "num": 211791,
+      "word": "谢危的疯是根本找不到代餐的疯",
+      "onboard_time": 1699459655,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 211768,
@@ -7659,6 +7675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189255,
+      "num": 189255,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1699460013,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189050,
       "num": 180269,
       "word": "献殷勤的李光洙 被喜爱的都暻秀",
@@ -7905,14 +7929,6 @@
       "onboard_time": 1699189956,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183188,
-      "num": 183188,
-      "word": "谢危的疯是根本找不到代餐的疯",
-      "onboard_time": 1699459655,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 182773,
@@ -8288,14 +8304,6 @@
       "word": "地狱开局老公带着闺蜜跑了",
       "onboard_time": 1699263454,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 172063,
-      "num": 172063,
-      "word": "癫剧",
-      "onboard_time": 1699460313,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -10475,14 +10483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111164,
-      "num": 110521,
-      "word": "小狗认为摸头是世界上最幸福的事",
-      "onboard_time": 1699460013,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111031,
       "num": 111031,
       "word": "有一种冷叫社区阿姨嫌你冷",
@@ -11531,11 +11531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48185,
+      "num": 208532,
+      "word": "一下雪东北学生的快乐就是这么简单",
+      "onboard_time": 1699460733,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47764,
       "num": 369145,
       "word": "跟撒贝宁一起开启护肤科技之门",
       "onboard_time": 1699433556,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47646,
+      "num": 175777,
+      "word": "这些炸裂场景只是他们训练日常",
+      "onboard_time": 1699461090,
+      "rank": 24,
       "category": "社会新闻"
     },
     {

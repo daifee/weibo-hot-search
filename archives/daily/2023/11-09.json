@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699460591616,
+  "endTime": 1699461539537,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -11,7 +11,7 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 4111246,
+      "raw_hot": 4890272,
       "num": 532532,
       "word": "酒店讲述仲尼巴厘岛遇难细节",
       "onboard_time": 1699456610,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 786733,
-      "num": 301910,
+      "num": 723827,
       "word": "仲尼昨天生日",
       "onboard_time": 1699449533,
       "rank": 12,
@@ -67,19 +67,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466759,
+      "num": 466759,
+      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+      "onboard_time": 1699447550,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447772,
       "num": 281464,
       "word": "韵达",
       "onboard_time": 1699453379,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445589,
-      "num": 445589,
-      "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
-      "onboard_time": 1699447550,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -99,12 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363045,
+      "raw_hot": 370798,
       "num": 334371,
       "word": "网传扬州一女子捂死女儿后跳楼",
       "onboard_time": 1699456014,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342132,
+      "num": 342132,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1699459417,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 341860,
@@ -131,12 +139,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245466,
-      "num": 245466,
-      "word": "ChatGPT崩了",
-      "onboard_time": 1699459417,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 259670,
+      "num": 209134,
+      "word": "癫剧",
+      "onboard_time": 1699460313,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 241904,
@@ -153,6 +161,14 @@
       "onboard_time": 1699455115,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211791,
+      "num": 211791,
+      "word": "谢危的疯是根本找不到代餐的疯",
+      "onboard_time": 1699459655,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 208149,
@@ -195,6 +211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 189255,
+      "num": 189255,
+      "word": "小狗认为摸头是世界上最幸福的事",
+      "onboard_time": 1699460013,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186460,
       "num": 226217,
       "word": "南航",
@@ -211,14 +235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183188,
-      "num": 183188,
-      "word": "谢危的疯是根本找不到代餐的疯",
-      "onboard_time": 1699459655,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181020,
       "num": 181020,
       "word": "刘亦菲张靓颖合照",
@@ -233,14 +249,6 @@
       "onboard_time": 1699458699,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172063,
-      "num": 172063,
-      "word": "癫剧",
-      "onboard_time": 1699460313,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 171574,
@@ -332,19 +340,11 @@
     },
     {
       "raw_hot": 123546,
-      "num": 123546,
+      "num": 124178,
       "word": "25岁女子欲离婚被丈夫割喉杀害",
       "onboard_time": 1699425397,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111164,
-      "num": 110521,
-      "word": "小狗认为摸头是世界上最幸福的事",
-      "onboard_time": 1699460013,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 110946,
@@ -361,6 +361,14 @@
       "onboard_time": 1699453194,
       "rank": 38,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 106882,
+      "num": 106882,
+      "word": "刘些宁像书里走出来的长公主",
+      "onboard_time": 1699457626,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 99137,
@@ -401,6 +409,22 @@
       "onboard_time": 1699452654,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 208532,
+      "word": "一下雪东北学生的快乐就是这么简单",
+      "onboard_time": 1699460733,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47646,
+      "num": 175777,
+      "word": "这些炸裂场景只是他们训练日常",
+      "onboard_time": 1699461090,
+      "rank": 24,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
