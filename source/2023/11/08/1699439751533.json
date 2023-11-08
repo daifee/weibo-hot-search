@@ -1,0 +1,410 @@
+{
+  "runTime": 1699439751533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1660888,
+        "num": 1660888,
+        "word": "刘恺威肘击颖儿",
+        "onboard_time": 1699438294,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475464,
+        "num": 1642392,
+        "word": "大学生偶遇周鸿祎当场投简历",
+        "onboard_time": 1699438234,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 37505,
+        "num": 1637261,
+        "word": "元宇宙体验2023金融街论坛年会",
+        "onboard_time": 1699431273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633466,
+        "num": 1633466,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224597,
+        "num": 1066051,
+        "word": "77岁奶奶10年来每天打篮球2小时",
+        "onboard_time": 1699437032,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729750,
+        "num": 729750,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 174689,
+        "num": 659107,
+        "word": "东北爸爸有多配合女儿玩雪",
+        "onboard_time": 1699437032,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598495,
+        "num": 598495,
+        "word": "癫公癫婆 使不完的牛劲",
+        "onboard_time": 1699435234,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445463,
+        "num": 445463,
+        "word": "仙剑四变更为36集",
+        "onboard_time": 1699432595,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387682,
+        "num": 387682,
+        "word": "白鹿台词 燕临你疯了",
+        "onboard_time": 1699431096,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1630788,
+        "num": 387438,
+        "word": "出轨丈夫去世 孩子要不要生",
+        "onboard_time": 1699433614,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 959431,
+        "num": 386511,
+        "word": "陆家嘴",
+        "onboard_time": 1699425397,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 931112,
+        "num": 386274,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 874765,
+        "num": 385704,
+        "word": "陆家嘴公司买到毒地索赔100亿元",
+        "onboard_time": 1699430495,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49180,
+        "num": 385317,
+        "word": "随科考船去南极是什么体验",
+        "onboard_time": 1699437634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824588,
+        "num": 384377,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99044,
+        "num": 384016,
+        "word": "认真的国货值得一试",
+        "onboard_time": 1699438115,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 436069,
+        "num": 383404,
+        "word": "乳腺癌 男性",
+        "onboard_time": 1699425637,
+        "rank": 17,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 382971,
+        "num": 382971,
+        "word": "孟羽童一年半广告收入或达400万",
+        "onboard_time": 1699421672,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321079,
+        "num": 321079,
+        "word": "徐穗珍solo新歌",
+        "onboard_time": 1699437098,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320486,
+        "num": 320486,
+        "word": "宁安如梦 逃不掉大灯",
+        "onboard_time": 1699427138,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293258,
+        "num": 293258,
+        "word": "秦时月的扮演者",
+        "onboard_time": 1699438294,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257794,
+        "num": 257794,
+        "word": "夫妻变卖房东3.6万元家电只愿赔3000",
+        "onboard_time": 1699433435,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 224095,
+        "num": 224095,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222664,
+        "num": 222664,
+        "word": "小花的年纪 大花的气场",
+        "onboard_time": 1699439614,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219772,
+        "num": 219772,
+        "word": "美香 回国",
+        "onboard_time": 1699439194,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215884,
+        "num": 215884,
+        "word": "张译 年底三场考试",
+        "onboard_time": 1699432956,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203083,
+        "num": 203083,
+        "word": "周一围说去桃花坞极其痛苦",
+        "onboard_time": 1699435834,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199786,
+        "num": 199786,
+        "word": "麻辣香锅奶茶杯",
+        "onboard_time": 1699438593,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192254,
+        "num": 192254,
+        "word": "匪我思存笔下最冤种的男主",
+        "onboard_time": 1699437755,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184547,
+        "num": 184547,
+        "word": "罗英子离婚后状态",
+        "onboard_time": 1699438234,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180211,
+        "num": 180211,
+        "word": "张颜齐陈卓璇李川手和腿各舞各的",
+        "onboard_time": 1699439433,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179676,
+        "num": 179676,
+        "word": "秦海璐肠绞痛痛到脸都白了",
+        "onboard_time": 1699423297,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176311,
+        "num": 176311,
+        "word": "为什么立冬才最应该吃饺子",
+        "onboard_time": 1699433499,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171924,
+        "num": 171924,
+        "word": "原神 海洋之心",
+        "onboard_time": 1699438115,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170938,
+        "num": 170938,
+        "word": "好喜欢直球而热烈的爱啊",
+        "onboard_time": 1699438593,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170889,
+        "num": 170889,
+        "word": "她赢了赌约 他占了便宜",
+        "onboard_time": 1699425701,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165867,
+        "num": 165867,
+        "word": "熊猫幼崽挺了挺小肚子",
+        "onboard_time": 1699433074,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162240,
+        "num": 162240,
+        "word": "中山二院癌症患者家属称确实被踢出群聊",
+        "onboard_time": 1699424257,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161816,
+        "num": 161816,
+        "word": "王源新歌出版者是时代峰峻",
+        "onboard_time": 1699432835,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159522,
+        "num": 159522,
+        "word": "魏大勋黄明昊宋亚轩贾玲你们听到了吗",
+        "onboard_time": 1699434272,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474976,
+        "num": 159450,
+        "word": "炎亚纶改名吴秉孺",
+        "onboard_time": 1699422813,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159022,
+        "num": 159022,
+        "word": "0713 轻舟已过万重山",
+        "onboard_time": 1699429534,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155862,
+        "num": 155862,
+        "word": "花少5第一次真正的矛盾来了",
+        "onboard_time": 1699439614,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151227,
+        "num": 151227,
+        "word": "立冬的第一顿饺子是奶奶包的",
+        "onboard_time": 1699439313,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143656,
+        "num": 143656,
+        "word": "朱锐斌学派",
+        "onboard_time": 1699427138,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143388,
+        "num": 143388,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138188,
+        "num": 138188,
+        "word": "王鹤棣 时总工作日记",
+        "onboard_time": 1699437634,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123033,
+        "num": 123033,
+        "word": "唐三葬",
+        "onboard_time": 1699426418,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118140,
+        "num": 118140,
+        "word": "原神4.2达达利亚动画",
+        "onboard_time": 1699436313,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}
