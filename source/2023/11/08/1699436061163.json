@@ -1,0 +1,410 @@
+{
+  "runTime": 1699436061163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1879769,
+        "num": 1879769,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624669,
+        "num": 624669,
+        "word": "乳腺癌 男性",
+        "onboard_time": 1699425637,
+        "rank": 1,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 57074,
+        "num": 604633,
+        "word": "元宇宙体验2023金融街论坛年会",
+        "onboard_time": 1699431273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2010015,
+        "num": 600561,
+        "word": "陆家嘴",
+        "onboard_time": 1699425397,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 593234,
+        "num": 593234,
+        "word": "白鹿台词 燕临你疯了",
+        "onboard_time": 1699431096,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545307,
+        "num": 545307,
+        "word": "仙剑四变更为36集",
+        "onboard_time": 1699432595,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486722,
+        "num": 486722,
+        "word": "她赢了赌约 他占了便宜",
+        "onboard_time": 1699425701,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476886,
+        "num": 476886,
+        "word": "孟羽童一年半广告收入或达400万",
+        "onboard_time": 1699421672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468574,
+        "num": 468574,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 397997,
+        "num": 397997,
+        "word": "张译 年底三场考试",
+        "onboard_time": 1699432956,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1900509,
+        "num": 394364,
+        "word": "出轨丈夫去世 孩子要不要生",
+        "onboard_time": 1699433614,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1327861,
+        "num": 389543,
+        "word": "陆家嘴公司买到毒地索赔100亿元",
+        "onboard_time": 1699430495,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1006056,
+        "num": 384437,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802988,
+        "num": 376477,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115896,
+        "num": 372405,
+        "word": "你的职业是颈腰椎疼痛重灾区吗",
+        "onboard_time": 1699430555,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47764,
+        "num": 369145,
+        "word": "跟撒贝宁一起开启护肤科技之门",
+        "onboard_time": 1699433556,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583431,
+        "num": 362129,
+        "word": "炎亚纶改名吴秉孺",
+        "onboard_time": 1699422813,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358192,
+        "num": 358192,
+        "word": "夫妻变卖房东3.6万元家电只愿赔3000",
+        "onboard_time": 1699433435,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 320125,
+        "num": 320125,
+        "word": "宁安如梦 逃不掉大灯",
+        "onboard_time": 1699427138,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310368,
+        "num": 310368,
+        "word": "0713 轻舟已过万重山",
+        "onboard_time": 1699429534,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289545,
+        "num": 289545,
+        "word": "癫公颠婆 使不完的牛劲",
+        "onboard_time": 1699435234,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272375,
+        "num": 272375,
+        "word": "周一围说去桃花坞极其痛苦",
+        "onboard_time": 1699435834,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247364,
+        "num": 247364,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243498,
+        "num": 243498,
+        "word": "秦海璐肠绞痛痛到脸都白了",
+        "onboard_time": 1699423297,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239285,
+        "num": 239285,
+        "word": "唐三葬",
+        "onboard_time": 1699426418,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237507,
+        "num": 237507,
+        "word": "熊猫幼崽挺了挺小肚子",
+        "onboard_time": 1699433074,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233316,
+        "num": 233316,
+        "word": "魏大勋黄明昊宋亚轩贾玲你们听到了吗",
+        "onboard_time": 1699434272,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215493,
+        "num": 215493,
+        "word": "以爱为营 土甜",
+        "onboard_time": 1699431994,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212112,
+        "num": 212112,
+        "word": "为什么立冬才最应该吃饺子",
+        "onboard_time": 1699433499,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212273,
+        "num": 211021,
+        "word": "王鹤棣曝光艺人聊天模板",
+        "onboard_time": 1699420893,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208927,
+        "num": 208927,
+        "word": "杨贤硕被判有期徒刑6个月",
+        "onboard_time": 1699433313,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208786,
+        "num": 208786,
+        "word": "王源新歌出版者是时代峰峻",
+        "onboard_time": 1699432835,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190401,
+        "num": 190401,
+        "word": "秦海璐对迪丽热巴胡先煦还是太宠了",
+        "onboard_time": 1699428762,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189544,
+        "num": 189544,
+        "word": "中国平安发声明否认被要求收购碧桂园",
+        "onboard_time": 1699432355,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187292,
+        "num": 187292,
+        "word": "普通人画宋慧乔妆",
+        "onboard_time": 1699429360,
+        "rank": 34,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 174383,
+        "num": 174383,
+        "word": "王者曹操新皮肤",
+        "onboard_time": 1699432473,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166093,
+        "num": 166093,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164456,
+        "num": 164456,
+        "word": "这都不亲是有什么心事吗",
+        "onboard_time": 1699433074,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156909,
+        "num": 156909,
+        "word": "湖南卫视惊喜夜悬念节目单",
+        "onboard_time": 1699430973,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153645,
+        "num": 153645,
+        "word": "尚雯婕为原神献唱歌曲",
+        "onboard_time": 1699434455,
+        "rank": 39,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 153927,
+        "num": 153594,
+        "word": "乐游原泼天的富贵要来了",
+        "onboard_time": 1699435234,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152170,
+        "num": 152170,
+        "word": "胰腺癌为什么被称为癌中之王",
+        "onboard_time": 1699424799,
+        "rank": 41,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 149662,
+        "num": 149662,
+        "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
+        "onboard_time": 1699421496,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148089,
+        "num": 148089,
+        "word": "辛芷蕾说要爱上秦岚了",
+        "onboard_time": 1699431454,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147931,
+        "num": 147931,
+        "word": "皮肤科教你省钱小妙招",
+        "onboard_time": 1699435596,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137788,
+        "num": 137788,
+        "word": "乐游原 自来水",
+        "onboard_time": 1699434032,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136912,
+        "num": 136912,
+        "word": "中山二院癌症患者家属称确实被踢出群聊",
+        "onboard_time": 1699424257,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128488,
+        "num": 128488,
+        "word": "刘亦菲迪士尼公主造型",
+        "onboard_time": 1699421431,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147028,
+        "num": 127369,
+        "word": "辛芷蕾 对就这么宣传我",
+        "onboard_time": 1699427677,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123056,
+        "num": 123056,
+        "word": "周政接受审查调查",
+        "onboard_time": 1699431753,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}
