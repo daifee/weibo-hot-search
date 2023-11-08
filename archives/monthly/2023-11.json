@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699400054347,
+  "endTime": 1699406015566,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -64,6 +64,14 @@
       "word": "广东恩平地震",
       "onboard_time": 1699097978,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5227927,
+      "num": 5227927,
+      "word": "中山二院通报",
+      "onboard_time": 1699399346,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2441720,
+      "num": 2441720,
+      "word": "将睡眠时间延长至8小时对身心的变化",
+      "onboard_time": 1699400970,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2405653,
       "num": 552594,
       "word": "微信呼叫",
@@ -401,6 +417,14 @@
       "onboard_time": 1699348057,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2267803,
+      "num": 412933,
+      "word": "黄敏",
+      "onboard_time": 1699401332,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2230925,
@@ -729,14 +753,6 @@
       "onboard_time": 1698907171,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1764859,
-      "num": 1764859,
-      "word": "中山二院通报",
-      "onboard_time": 1699399346,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1754968,
@@ -1788,7 +1804,7 @@
     },
     {
       "raw_hot": 1107179,
-      "num": 347981,
+      "num": 412200,
       "word": "曾黎停止这场闹剧吧",
       "onboard_time": 1699372351,
       "rank": 10,
@@ -1864,6 +1880,14 @@
       "word": "谁家接吻戴墨镜啊",
       "onboard_time": 1699158995,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1082068,
+      "num": 1082068,
+      "word": "宁安如梦 歹毒运镜",
+      "onboard_time": 1699399407,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -2227,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 926901,
+      "num": 926901,
+      "word": "金莎男友 大学生勇闯娱乐圈",
+      "onboard_time": 1699403559,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 925164,
       "num": 373326,
       "word": "剧版左耳",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1699339591,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855208,
+      "num": 855208,
+      "word": "立冬吃饺子",
+      "onboard_time": 1699399766,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 849709,
@@ -3715,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633655,
+      "num": 633655,
+      "word": "今日立冬",
+      "onboard_time": 1699398505,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632760,
       "num": 632760,
       "word": "柯南动画 离谱",
@@ -3817,14 +3865,6 @@
       "onboard_time": 1699274615,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 620946,
-      "num": 620946,
-      "word": "今日立冬",
-      "onboard_time": 1699398505,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 620695,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1699327709,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598771,
+      "num": 361576,
+      "word": "巴勒斯坦总统车队遭袭",
+      "onboard_time": 1699401692,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 597217,
@@ -4763,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523107,
+      "num": 412760,
+      "word": "HM先森家的HM",
+      "onboard_time": 1699401753,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522758,
       "num": 522758,
       "word": "赵丽颖说王梓薇表演很有感受力",
@@ -4929,14 +4985,6 @@
       "onboard_time": 1699276534,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 505960,
-      "num": 505960,
-      "word": "宁安如梦 歹毒运镜",
-      "onboard_time": 1699399407,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 504671,
@@ -6259,6 +6307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413626,
+      "num": 413626,
+      "word": "中山二院称近年有3人患癌",
+      "onboard_time": 1699401212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413013,
       "num": 413013,
       "word": "天官赐福花怜名场面",
@@ -7107,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370110,
+      "num": 370110,
+      "word": "王星越宁安如梦人设",
+      "onboard_time": 1699400369,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367754,
       "num": 367754,
       "word": "黄凯哭了",
@@ -7411,6 +7475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351270,
+      "num": 351270,
+      "word": "陆毅说经常撸铁会长不高",
+      "onboard_time": 1699403616,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351122,
       "num": 310852,
       "word": "白鹿白月梵星出妆路透",
@@ -7433,6 +7505,14 @@
       "onboard_time": 1698908013,
       "rank": 25,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 350699,
+      "num": 350699,
+      "word": "牛牛变疯牛了",
+      "onboard_time": 1699404515,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 350265,
@@ -8995,6 +9075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277302,
+      "num": 277302,
+      "word": "咱俩关系冬天一起去吃九件套不过分吧",
+      "onboard_time": 1699403134,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 277197,
       "num": 277197,
       "word": "马天宇分享泰国旅游惊险经历",
@@ -9209,6 +9297,14 @@
       "onboard_time": 1698968007,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272054,
+      "num": 272054,
+      "word": "每天3分钟养出年轻肝",
+      "onboard_time": 1699402655,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 271959,
@@ -9571,6 +9667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 259973,
+      "num": 259973,
+      "word": "女生研究方向太冷门花了2年造仪器",
+      "onboard_time": 1699405298,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259871,
       "num": 259871,
       "word": "凯尔特人155分",
@@ -9673,6 +9777,14 @@
       "onboard_time": 1699006292,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 256400,
+      "num": 256400,
+      "word": "费翔优雅吃饺子",
+      "onboard_time": 1699404815,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 256398,
@@ -9809,14 +9921,6 @@
       "onboard_time": 1699072173,
       "rank": 19,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 253807,
-      "num": 253807,
-      "word": "立冬吃饺子",
-      "onboard_time": 1699399766,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 253591,
@@ -10083,6 +10187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246986,
+      "num": 214364,
+      "word": "魏大勋三碗水也能端平",
+      "onboard_time": 1699405236,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246963,
       "num": 246963,
       "word": "周冬雨现在的气质",
@@ -10153,6 +10265,14 @@
       "onboard_time": 1698994712,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244866,
+      "num": 244866,
+      "word": "医生提醒不要皮肤一干就敷面膜",
+      "onboard_time": 1699398864,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244653,
@@ -10305,6 +10425,14 @@
       "onboard_time": 1699004133,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241647,
+      "num": 241647,
+      "word": "顿涅茨克矿工1比0巴塞罗那",
+      "onboard_time": 1699405115,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 241603,
@@ -11475,6 +11603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217182,
+      "num": 217182,
+      "word": "已有两地将试管婴儿纳入医保",
+      "onboard_time": 1699400909,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217098,
       "num": 186017,
       "word": "第一次见脑袋这么大的猫",
@@ -11553,6 +11689,14 @@
       "onboard_time": 1698995733,
       "rank": 36,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 214915,
+      "num": 214915,
+      "word": "王彦霖艾佳妮 小说一般的爱情故事",
+      "onboard_time": 1699403497,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 214554,
@@ -12027,6 +12171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206914,
+      "num": 206914,
+      "word": "宁安如梦预告",
+      "onboard_time": 1699401152,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206628,
       "num": 217111,
       "word": "梦想改造家",
@@ -12193,6 +12345,14 @@
       "onboard_time": 1699190262,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204128,
+      "num": 204128,
+      "word": "哈兰德比心",
+      "onboard_time": 1699405474,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 203896,
@@ -12915,6 +13075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195183,
+      "num": 195183,
+      "word": "看点成年人的纯爱",
+      "onboard_time": 1699405535,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195068,
       "num": 195068,
       "word": "裴行俭前妻被大长公主逼死",
@@ -13409,6 +13577,14 @@
       "onboard_time": 1699362577,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189470,
+      "num": 189470,
+      "word": "女儿上网喊爸交学费乘警叫停及时止损",
+      "onboard_time": 1699398201,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189460,
@@ -14811,14 +14987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167118,
-      "num": 167118,
-      "word": "医生提醒不要皮肤一干就敷面膜",
-      "onboard_time": 1699398864,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 166911,
       "num": 166911,
       "word": "帮林俊杰救过场的人生简历",
@@ -16179,6 +16347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148123,
+      "num": 148123,
+      "word": "李晨郑恺直播跳queencard",
+      "onboard_time": 1699405833,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148022,
       "num": 148022,
       "word": "金鸡奖出发前讲个故事",
@@ -16315,6 +16491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146482,
+      "num": 146482,
+      "word": "王鹤棣AllBlack",
+      "onboard_time": 1699405833,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146077,
       "num": 146077,
       "word": "知情人士回应辛巴被封",
@@ -16433,6 +16617,14 @@
       "onboard_time": 1698988480,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144498,
+      "num": 144498,
+      "word": "你几天敷一次面膜",
+      "onboard_time": 1699401934,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 144443,
@@ -16985,6 +17177,14 @@
       "onboard_time": 1699095271,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "塞尔达传说真人电影官宣",
+      "onboard_time": 1699401934,
+      "rank": 45,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 135110,
@@ -18596,7 +18796,7 @@
     },
     {
       "raw_hot": 109459,
-      "num": 1375327,
+      "num": 1722676,
       "word": "乌镇网事",
       "onboard_time": 1699361194,
       "rank": 10,
@@ -18857,14 +19057,6 @@
       "onboard_time": 1699258533,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 102507,
-      "num": 110323,
-      "word": "女儿上网喊爸交学费乘警叫停及时止损",
-      "onboard_time": 1699398201,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102403,

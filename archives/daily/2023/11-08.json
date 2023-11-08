@@ -1,30 +1,62 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699400054347,
+  "endTime": 1699406015566,
   "band_list": [
     {
-      "raw_hot": 1945263,
-      "num": 354867,
-      "word": "导师回应网传乳腺外科团队多人患癌",
-      "onboard_time": 1699366535,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1764859,
-      "num": 1764859,
+      "raw_hot": 5227927,
+      "num": 5227927,
       "word": "中山二院通报",
       "onboard_time": 1699399346,
       "rank": 0,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2441720,
+      "num": 2441720,
+      "word": "将睡眠时间延长至8小时对身心的变化",
+      "onboard_time": 1699400970,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2267803,
+      "num": 412933,
+      "word": "黄敏",
+      "onboard_time": 1699401332,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1945263,
+      "num": 399471,
+      "word": "导师回应网传乳腺外科团队多人患癌",
+      "onboard_time": 1699366535,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107179,
-      "num": 347981,
+      "num": 412200,
       "word": "曾黎停止这场闹剧吧",
       "onboard_time": 1699372351,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1082068,
+      "num": 1082068,
+      "word": "宁安如梦 歹毒运镜",
+      "onboard_time": 1699399407,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 926901,
+      "num": 926901,
+      "word": "金莎男友 大学生勇闯娱乐圈",
+      "onboard_time": 1699403559,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 912471,
@@ -33,6 +65,14 @@
       "onboard_time": 1699366476,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855208,
+      "num": 855208,
+      "word": "立冬吃饺子",
+      "onboard_time": 1699399766,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 829922,
@@ -67,24 +107,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620946,
-      "num": 620946,
+      "raw_hot": 633655,
+      "num": 633655,
       "word": "今日立冬",
       "onboard_time": 1699398505,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 505960,
-      "num": 505960,
-      "word": "宁安如梦 歹毒运镜",
-      "onboard_time": 1699399407,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 598771,
+      "num": 361576,
+      "word": "巴勒斯坦总统车队遭袭",
+      "onboard_time": 1699401692,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 523107,
+      "num": 412760,
+      "word": "HM先森家的HM",
+      "onboard_time": 1699401753,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487313,
-      "num": 222700,
+      "num": 278407,
       "word": "从月入5K到15K后的生活变化",
       "onboard_time": 1699368276,
       "rank": 20,
@@ -115,12 +163,44 @@
       "category": "综艺,母婴育儿"
     },
     {
+      "raw_hot": 413626,
+      "num": 413626,
+      "word": "中山二院称近年有3人患癌",
+      "onboard_time": 1699401212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370110,
+      "num": 370110,
+      "word": "王星越宁安如梦人设",
+      "onboard_time": 1699400369,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359212,
       "num": 359212,
       "word": "新疆地震",
       "onboard_time": 1699398684,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351270,
+      "num": 351270,
+      "word": "陆毅说经常撸铁会长不高",
+      "onboard_time": 1699403616,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 350699,
+      "num": 350699,
+      "word": "牛牛变疯牛了",
+      "onboard_time": 1699404515,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 337065,
@@ -179,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277302,
+      "num": 277302,
+      "word": "咱俩关系冬天一起去吃九件套不过分吧",
+      "onboard_time": 1699403134,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 274369,
       "num": 274369,
       "word": "孤注一掷最终票房38.48亿",
       "onboard_time": 1699366177,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272054,
+      "num": 272054,
+      "word": "每天3分钟养出年轻肝",
+      "onboard_time": 1699402655,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 268873,
@@ -211,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259973,
+      "num": 259973,
+      "word": "女生研究方向太冷门花了2年造仪器",
+      "onboard_time": 1699405298,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256400,
+      "num": 256400,
+      "word": "费翔优雅吃饺子",
+      "onboard_time": 1699404815,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255565,
       "num": 255565,
       "word": "以爱为营微博开分8.7",
@@ -219,12 +331,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253807,
-      "num": 253807,
-      "word": "立冬吃饺子",
-      "onboard_time": 1699399766,
-      "rank": 17,
-      "category": "美食"
+      "raw_hot": 246986,
+      "num": 214364,
+      "word": "魏大勋三碗水也能端平",
+      "onboard_time": 1699405236,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244866,
+      "num": 244866,
+      "word": "医生提醒不要皮肤一干就敷面膜",
+      "onboard_time": 1699398864,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 241647,
+      "num": 241647,
+      "word": "顿涅茨克矿工1比0巴塞罗那",
+      "onboard_time": 1699405115,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 234709,
@@ -259,6 +387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217182,
+      "num": 217182,
+      "word": "已有两地将试管婴儿纳入医保",
+      "onboard_time": 1699400909,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214915,
+      "num": 214915,
+      "word": "王彦霖艾佳妮 小说一般的爱情故事",
+      "onboard_time": 1699403497,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213713,
       "num": 213713,
       "word": "欧冠",
@@ -273,6 +417,22 @@
       "onboard_time": 1699369358,
       "rank": 23,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 206914,
+      "num": 206914,
+      "word": "宁安如梦预告",
+      "onboard_time": 1699401152,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204128,
+      "num": 204128,
+      "word": "哈兰德比心",
+      "onboard_time": 1699405474,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 203896,
@@ -291,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195183,
+      "num": 195183,
+      "word": "看点成年人的纯爱",
+      "onboard_time": 1699405535,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192894,
       "num": 180255,
       "word": "陆虎卑微拒绝披荆斩棘",
@@ -305,6 +473,14 @@
       "onboard_time": 1699373072,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189470,
+      "num": 189470,
+      "word": "女儿上网喊爸交学费乘警叫停及时止损",
+      "onboard_time": 1699398201,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182426,
@@ -331,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167118,
-      "num": 167118,
-      "word": "医生提醒不要皮肤一干就敷面膜",
-      "onboard_time": 1699398864,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 163950,
       "num": 163950,
       "word": "刘宇宁直播 至少可以看星星",
@@ -363,6 +531,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148123,
+      "num": 148123,
+      "word": "李晨郑恺直播跳queencard",
+      "onboard_time": 1699405833,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146482,
+      "num": 146482,
+      "word": "王鹤棣AllBlack",
+      "onboard_time": 1699405833,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144498,
+      "num": 144498,
+      "word": "你几天敷一次面膜",
+      "onboard_time": 1699401934,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 138693,
       "num": 138693,
       "word": "金莎男友是山东蓝翔出来的吗",
@@ -379,6 +571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "塞尔达传说真人电影官宣",
+      "onboard_time": 1699401934,
+      "rank": 45,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "蒋勤勤 认定吴磊是我儿子了",
@@ -393,6 +593,14 @@
       "onboard_time": 1699349734,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129217,
+      "num": 177691,
+      "word": "教资",
+      "onboard_time": 1699346075,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 129162,
@@ -441,14 +649,6 @@
       "onboard_time": 1699343012,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120023,
-      "num": 177691,
-      "word": "教资",
-      "onboard_time": 1699346075,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 114299,
@@ -513,14 +713,6 @@
       "onboard_time": 1699367198,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102507,
-      "num": 110323,
-      "word": "女儿上网喊爸交学费乘警叫停及时止损",
-      "onboard_time": 1699398201,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102127,
@@ -595,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85654,
+      "num": 1722676,
+      "word": "乌镇网事",
+      "onboard_time": 1699361194,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 84922,
       "num": 84922,
       "word": "张硕听王诗晴说话的表情",
@@ -609,14 +809,6 @@
       "onboard_time": 1699399107,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75550,
-      "num": 697185,
-      "word": "乌镇网事",
-      "onboard_time": 1699361194,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 65379,
