@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699463751062,
+  "endTime": 1699464855673,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -10339,6 +10339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118908,
+      "num": 118908,
+      "word": "显脸小这么化",
+      "onboard_time": 1699461688,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 118706,
       "num": 215565,
       "word": "吉克隽逸茉莉公主造型",
@@ -10353,14 +10361,6 @@
       "onboard_time": 1699270594,
       "rank": 39,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 118558,
-      "num": 118558,
-      "word": "显脸小这么化",
-      "onboard_time": 1699461688,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 117062,
