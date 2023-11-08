@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699411010167,
+  "endTime": 1699413475147,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -27,11 +27,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2235672,
+      "num": 2235672,
+      "word": "中山二院苏士成正常坐诊",
+      "onboard_time": 1699410571,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1945263,
       "num": 399471,
       "word": "导师回应网传乳腺外科团队多人患癌",
       "onboard_time": 1699366535,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252726,
+      "num": 484301,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602253,
+      "num": 602253,
+      "word": "刘亦菲于适配音迪士尼新片星愿",
+      "onboard_time": 1699411409,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 598771,
       "num": 361576,
       "word": "巴勒斯坦总统车队遭袭",
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378892,
+      "num": 378892,
+      "word": "秦海璐在大象岩给花少每个人拍了照片",
+      "onboard_time": 1699410270,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370110,
       "num": 370110,
       "word": "王星越宁安如梦人设",
@@ -283,11 +315,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 330119,
-      "num": 330119,
-      "word": "14岁女儿被打父亲悬赏1万找打人者",
-      "onboard_time": 1699410094,
-      "rank": 42,
+      "raw_hot": 334371,
+      "num": 334371,
+      "word": "乌镇峰会",
+      "onboard_time": 1699410990,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -355,12 +387,12 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 287803,
-      "num": 287803,
-      "word": "中山二院苏士成正常坐诊",
-      "onboard_time": 1699410571,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 286679,
+      "num": 286679,
+      "word": "王自如 没看过工资条",
+      "onboard_time": 1699410453,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 281202,
@@ -395,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271969,
+      "num": 271969,
+      "word": "原神 罪人舞步旋",
+      "onboard_time": 1699411052,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268873,
       "num": 268873,
       "word": "Meiko回应Viper",
@@ -403,12 +443,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 267818,
+      "num": 267818,
+      "word": "90后公务员泄密获刑",
+      "onboard_time": 1699413153,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265481,
       "num": 265481,
       "word": "魏大勋三碗水也能端平",
       "onboard_time": 1699405236,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265445,
+      "num": 265445,
+      "word": "原神 还不开门",
+      "onboard_time": 1699412129,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 263684,
@@ -539,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217738,
-      "num": 217738,
-      "word": "秦海璐在大象岩给花少每个人拍了照片",
-      "onboard_time": 1699410270,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217182,
       "num": 217182,
       "word": "已有两地将试管婴儿纳入医保",
@@ -587,20 +635,20 @@
       "category": "读书作家,艺人"
     },
     {
-      "raw_hot": 210070,
-      "num": 210070,
-      "word": "王自如 没看过工资条",
-      "onboard_time": 1699410453,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 206914,
       "num": 206914,
       "word": "宁安如梦预告",
       "onboard_time": 1699401152,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205012,
+      "num": 205012,
+      "word": "于适想要 于是得到",
+      "onboard_time": 1699413453,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 204128,
@@ -616,6 +664,14 @@
       "word": "东方沙包",
       "onboard_time": 1699399886,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202667,
+      "num": 202667,
+      "word": "我们为什么自称龙的传人",
+      "onboard_time": 1699412910,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -659,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194706,
+      "num": 194706,
+      "word": "真正的勇士是中国军人",
+      "onboard_time": 1699412973,
+      "rank": 33,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 192894,
       "num": 180255,
       "word": "陆虎卑微拒绝披荆斩棘",
       "onboard_time": 1699374269,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191915,
+      "num": 191915,
+      "word": "龚俊的上身身材",
+      "onboard_time": 1699413272,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190277,
@@ -683,6 +755,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187912,
+      "num": 187912,
+      "word": "杨幂俏皮丸子头",
+      "onboard_time": 1699413334,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186840,
+      "num": 193015,
+      "word": "人世间里的酱油厂原型被拍卖",
+      "onboard_time": 1699412250,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184241,
       "num": 184241,
       "word": "年度悬疑巨作你在说谎",
@@ -699,6 +787,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182187,
+      "num": 182187,
+      "word": "内蒙男子开奥迪拽出被困雪地救护车",
+      "onboard_time": 1699412552,
+      "rank": 39,
+      "category": "社会正能量,汽车"
+    },
+    {
+      "raw_hot": 180961,
+      "num": 180961,
+      "word": "宋雨琦直播跳iwantthat",
+      "onboard_time": 1699411231,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "魏大勋冷脸甩伞",
@@ -713,6 +817,22 @@
       "onboard_time": 1699366777,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175567,
+      "num": 175567,
+      "word": "董明珠称孟羽童兼职接广告不合规",
+      "onboard_time": 1699413153,
+      "rank": 44,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 171208,
+      "num": 171208,
+      "word": "计算机二级",
+      "onboard_time": 1699410872,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 167758,
@@ -787,14 +907,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 138733,
-      "num": 138733,
-      "word": "计算机二级",
-      "onboard_time": 1699410872,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 138693,
       "num": 138693,
       "word": "金莎男友是山东蓝翔出来的吗",
@@ -840,14 +952,6 @@
       "word": "祖孙三人穿军装合照看破防",
       "onboard_time": 1699408532,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131787,
-      "num": 131787,
-      "word": "乌镇峰会",
-      "onboard_time": 1699410990,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94586,
+      "num": 300339,
+      "word": "立冬来了该抗寒了",
+      "onboard_time": 1699411590,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94145,
       "num": 94145,
       "word": "怎么才能教育出一个自信的孩子",
@@ -1065,6 +1177,14 @@
       "onboard_time": 1699371453,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84021,
+      "num": 169090,
+      "word": "杨幂好甜好辣",
+      "onboard_time": 1699413272,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 81395,

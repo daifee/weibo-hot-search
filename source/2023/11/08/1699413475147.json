@@ -1,0 +1,410 @@
+{
+  "runTime": 1699413475147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3100472,
+        "num": 3100472,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2235672,
+        "num": 2235672,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29612,
+        "num": 1286300,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 941932,
+        "num": 941932,
+        "word": "将睡眠时间延长至8小时对身心的变化",
+        "onboard_time": 1699400970,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 854316,
+        "num": 854316,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778840,
+        "num": 778840,
+        "word": "姜珮瑶 明媚的美",
+        "onboard_time": 1699409550,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665276,
+        "num": 665276,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602253,
+        "num": 602253,
+        "word": "刘亦菲于适配音迪士尼新片星愿",
+        "onboard_time": 1699411409,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515040,
+        "num": 515040,
+        "word": "教资成绩",
+        "onboard_time": 1699409491,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 509593,
+        "num": 509593,
+        "word": "立冬吃饺子",
+        "onboard_time": 1699399766,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1841751,
+        "num": 502004,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252726,
+        "num": 484301,
+        "word": "14岁女儿被打父亲悬赏1万找打人者",
+        "onboard_time": 1699410094,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378892,
+        "num": 378892,
+        "word": "秦海璐在大象岩给花少每个人拍了照片",
+        "onboard_time": 1699410270,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354894,
+        "num": 354894,
+        "word": "HM先森家的HM",
+        "onboard_time": 1699401753,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334371,
+        "num": 334371,
+        "word": "乌镇峰会",
+        "onboard_time": 1699410990,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94586,
+        "num": 300339,
+        "word": "立冬来了该抗寒了",
+        "onboard_time": 1699411590,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286679,
+        "num": 286679,
+        "word": "王自如 没看过工资条",
+        "onboard_time": 1699410453,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304162,
+        "num": 285286,
+        "word": "今日立冬",
+        "onboard_time": 1699398505,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271969,
+        "num": 271969,
+        "word": "原神 罪人舞步旋",
+        "onboard_time": 1699411052,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267818,
+        "num": 267818,
+        "word": "90后公务员泄密获刑",
+        "onboard_time": 1699413153,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267066,
+        "num": 267066,
+        "word": "低欲望生活让我26岁财务自由",
+        "onboard_time": 1699409252,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266123,
+        "num": 266123,
+        "word": "教资面试",
+        "onboard_time": 1699410094,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265445,
+        "num": 265445,
+        "word": "原神 还不开门",
+        "onboard_time": 1699412129,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235792,
+        "num": 235792,
+        "word": "原神4.2",
+        "onboard_time": 1699409550,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231655,
+        "num": 231655,
+        "word": "刘宇宁回应被说不配当演员",
+        "onboard_time": 1699406733,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223505,
+        "num": 223505,
+        "word": "金莎讲述与男友第一次见面的情景",
+        "onboard_time": 1699407993,
+        "rank": 25,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 222355,
+        "num": 222355,
+        "word": "王星越宁安如梦人设",
+        "onboard_time": 1699400369,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205012,
+        "num": 205012,
+        "word": "于适想要 于是得到",
+        "onboard_time": 1699413453,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204428,
+        "num": 204428,
+        "word": "我为什么放弃所谓的贵妇护肤品",
+        "onboard_time": 1699410094,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 202667,
+        "num": 202667,
+        "word": "我们为什么自称龙的传人",
+        "onboard_time": 1699412910,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199031,
+        "num": 199031,
+        "word": "导师回应网传乳腺外科团队多人患癌",
+        "onboard_time": 1699366535,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197403,
+        "num": 197403,
+        "word": "女生研究方向太冷门花了2年造仪器",
+        "onboard_time": 1699405298,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195525,
+        "num": 195525,
+        "word": "民警从1200箱火龙果内缴毒3.7公斤",
+        "onboard_time": 1699409252,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194706,
+        "num": 194706,
+        "word": "真正的勇士是中国军人",
+        "onboard_time": 1699412973,
+        "rank": 33,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 186840,
+        "num": 193015,
+        "word": "人世间里的酱油厂原型被拍卖",
+        "onboard_time": 1699412250,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195456,
+        "num": 192618,
+        "word": "牛牛变疯牛了",
+        "onboard_time": 1699404515,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191915,
+        "num": 191915,
+        "word": "龚俊的上身身材",
+        "onboard_time": 1699413272,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187912,
+        "num": 187912,
+        "word": "杨幂俏皮丸子头",
+        "onboard_time": 1699413334,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185808,
+        "num": 185808,
+        "word": "MMA阵容",
+        "onboard_time": 1699410691,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182187,
+        "num": 182187,
+        "word": "内蒙男子开奥迪拽出被困雪地救护车",
+        "onboard_time": 1699412552,
+        "rank": 39,
+        "category": "社会正能量,汽车"
+      },
+      {
+        "raw_hot": 182550,
+        "num": 181889,
+        "word": "宁安如梦预告",
+        "onboard_time": 1699401152,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181582,
+        "num": 181582,
+        "word": "丘索维金娜求购国货称已被征服",
+        "onboard_time": 1699408893,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180961,
+        "num": 180961,
+        "word": "宋雨琦直播跳iwantthat",
+        "onboard_time": 1699411231,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176738,
+        "num": 176738,
+        "word": "自求多芙",
+        "onboard_time": 1699409550,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175567,
+        "num": 175567,
+        "word": "董明珠称孟羽童兼职接广告不合规",
+        "onboard_time": 1699413153,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 171208,
+        "num": 171208,
+        "word": "计算机二级",
+        "onboard_time": 1699410872,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84021,
+        "num": 169090,
+        "word": "杨幂好甜好辣",
+        "onboard_time": 1699413272,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167745,
+        "num": 167745,
+        "word": "张真源是懂代班主持的",
+        "onboard_time": 1699410571,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167718,
+        "num": 167718,
+        "word": "湖人为詹姆斯维权",
+        "onboard_time": 1699410152,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151041,
+        "num": 151041,
+        "word": "与主播发生关系住持被停职",
+        "onboard_time": 1699368220,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}
