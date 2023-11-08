@@ -1,0 +1,410 @@
+{
+  "runTime": 1699411010167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4676388,
+        "num": 4676388,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481653,
+        "num": 1481653,
+        "word": "将睡眠时间延长至8小时对身心的变化",
+        "onboard_time": 1699400970,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45083,
+        "num": 1021037,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 986859,
+        "num": 986859,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857326,
+        "num": 857326,
+        "word": "姜珮瑶 明媚的美",
+        "onboard_time": 1699409550,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 854131,
+        "num": 854131,
+        "word": "教资成绩",
+        "onboard_time": 1699409491,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 728038,
+        "num": 728038,
+        "word": "教资面试",
+        "onboard_time": 1699410094,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 717644,
+        "num": 717644,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633867,
+        "num": 633867,
+        "word": "原神4.2",
+        "onboard_time": 1699409550,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 621216,
+        "num": 621216,
+        "word": "立冬吃饺子",
+        "onboard_time": 1699399766,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1707247,
+        "num": 619681,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535878,
+        "num": 535878,
+        "word": "HM先森家的HM",
+        "onboard_time": 1699401753,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436635,
+        "num": 436635,
+        "word": "女生研究方向太冷门花了2年造仪器",
+        "onboard_time": 1699405298,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387468,
+        "num": 387468,
+        "word": "许愿芙宁娜不歪",
+        "onboard_time": 1699409491,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364592,
+        "num": 364592,
+        "word": "今日立冬",
+        "onboard_time": 1699398505,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357894,
+        "num": 357894,
+        "word": "刘宇宁回应被说不配当演员",
+        "onboard_time": 1699406733,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356918,
+        "num": 356918,
+        "word": "丘索维金娜求购国货称已被征服",
+        "onboard_time": 1699408893,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 335310,
+        "num": 335310,
+        "word": "与主播发生关系住持被停职",
+        "onboard_time": 1699368220,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330119,
+        "num": 330119,
+        "word": "14岁女儿被打父亲悬赏1万找打人者",
+        "onboard_time": 1699410094,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287803,
+        "num": 287803,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308810,
+        "num": 285975,
+        "word": "低欲望生活让我26岁财务自由",
+        "onboard_time": 1699409252,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281202,
+        "num": 281202,
+        "word": "自求多芙",
+        "onboard_time": 1699409550,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275194,
+        "num": 275194,
+        "word": "导师回应网传乳腺外科团队多人患癌",
+        "onboard_time": 1699366535,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262487,
+        "num": 262487,
+        "word": "何泓姗8字发财刘海",
+        "onboard_time": 1699407152,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253791,
+        "num": 253791,
+        "word": "金莎讲述与男友第一次见面的情景",
+        "onboard_time": 1699407993,
+        "rank": 24,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 242165,
+        "num": 242165,
+        "word": "湖人为詹姆斯维权",
+        "onboard_time": 1699410152,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240184,
+        "num": 240184,
+        "word": "牛牛变疯牛了",
+        "onboard_time": 1699404515,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231149,
+        "num": 231149,
+        "word": "5000多名洋景漂逐梦千年瓷都",
+        "onboard_time": 1699410389,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225817,
+        "num": 225817,
+        "word": "我为什么放弃所谓的贵妇护肤品",
+        "onboard_time": 1699410094,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 221667,
+        "num": 221667,
+        "word": "马竞6比0凯尔特人",
+        "onboard_time": 1699410270,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219925,
+        "num": 219925,
+        "word": "王星越宁安如梦人设",
+        "onboard_time": 1699400369,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217738,
+        "num": 217738,
+        "word": "秦海璐在大象岩给花少每个人拍了照片",
+        "onboard_time": 1699410270,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210070,
+        "num": 210070,
+        "word": "王自如 没看过工资条",
+        "onboard_time": 1699410453,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205657,
+        "num": 205657,
+        "word": "民警从1200箱火龙果内缴毒3.7公斤",
+        "onboard_time": 1699409252,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204723,
+        "num": 204723,
+        "word": "当以爱为营女主换成张元英",
+        "onboard_time": 1699371695,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199049,
+        "num": 199049,
+        "word": "张真源是懂代班主持的",
+        "onboard_time": 1699410571,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195159,
+        "num": 195159,
+        "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
+        "onboard_time": 1699371754,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 188032,
+        "num": 188032,
+        "word": "MMA阵容",
+        "onboard_time": 1699410691,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170786,
+        "num": 170786,
+        "word": "宁安如梦预告",
+        "onboard_time": 1699401152,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164661,
+        "num": 164661,
+        "word": "魏大勋三碗水也能端平",
+        "onboard_time": 1699405236,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163516,
+        "num": 163516,
+        "word": "王鹤棣AllBlack",
+        "onboard_time": 1699405833,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159929,
+        "num": 159929,
+        "word": "女儿上网喊爸交学费乘警叫停及时止损",
+        "onboard_time": 1699398201,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155864,
+        "num": 155864,
+        "word": "年度悬疑巨作你在说谎",
+        "onboard_time": 1699406494,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150370,
+        "num": 150370,
+        "word": "陆毅说经常撸铁会长不高",
+        "onboard_time": 1699403616,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138733,
+        "num": 138733,
+        "word": "计算机二级",
+        "onboard_time": 1699410872,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136611,
+        "num": 136611,
+        "word": "最后沦为小人类的擦手巾",
+        "onboard_time": 1699407033,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133889,
+        "num": 133889,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132474,
+        "num": 132474,
+        "word": "祖孙三人穿军装合照看破防",
+        "onboard_time": 1699408532,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 131787,
+        "word": "乌镇峰会",
+        "onboard_time": 1699410990,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130466,
+        "num": 130466,
+        "word": "王彦霖和艾佳妮的破镜重圆",
+        "onboard_time": 1699406914,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}

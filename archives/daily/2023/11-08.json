@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699410344673,
+  "endTime": 1699411010167,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2267803,
-      "num": 549708,
+      "num": 619681,
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 986859,
+      "num": 986859,
+      "word": "金莎男友 大学生勇闯娱乐圈",
+      "onboard_time": 1699403559,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 985792,
       "num": 985792,
       "word": "教资成绩",
@@ -59,20 +67,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 978351,
-      "num": 978351,
-      "word": "金莎男友 大学生勇闯娱乐圈",
-      "onboard_time": 1699403559,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 912471,
       "num": 330719,
       "word": "卫健委回应网传中山二附院多名学生患癌",
       "onboard_time": 1699366476,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857326,
+      "num": 857326,
+      "word": "姜珮瑶 明媚的美",
+      "onboard_time": 1699409550,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 855208,
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633867,
+      "num": 633867,
+      "word": "原神4.2",
+      "onboard_time": 1699409550,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 633655,
       "num": 633655,
       "word": "今日立冬",
       "onboard_time": 1699398505,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629849,
-      "num": 629849,
-      "word": "姜珮瑶 明媚的美",
-      "onboard_time": 1699409550,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 598771,
@@ -161,14 +169,6 @@
       "onboard_time": 1699405298,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531752,
-      "num": 531752,
-      "word": "原神4.2",
-      "onboard_time": 1699409550,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 487313,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356918,
+      "num": 356918,
+      "word": "丘索维金娜求购国货称已被征服",
+      "onboard_time": 1699408893,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 351270,
       "num": 351270,
       "word": "陆毅说经常撸铁会长不高",
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347104,
-      "num": 347104,
-      "word": "丘索维金娜求购国货称已被征服",
-      "onboard_time": 1699408893,
-      "rank": 17,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 342088,
       "num": 342088,
       "word": "何泓姗8字发财刘海",
@@ -281,6 +281,14 @@
       "onboard_time": 1699366476,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330119,
+      "num": 330119,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327898,
@@ -345,6 +353,22 @@
       "onboard_time": 1699407993,
       "rank": 21,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 287803,
+      "num": 287803,
+      "word": "中山二院苏士成正常坐诊",
+      "onboard_time": 1699410571,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281202,
+      "num": 281202,
+      "word": "自求多芙",
+      "onboard_time": 1699409550,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 277302,
@@ -427,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242165,
+      "num": 242165,
+      "word": "湖人为詹姆斯维权",
+      "onboard_time": 1699410152,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241647,
       "num": 241647,
       "word": "顿涅茨克矿工1比0巴塞罗那",
@@ -441,6 +473,14 @@
       "onboard_time": 1699370255,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231149,
+      "num": 231149,
+      "word": "5000多名洋景漂逐梦千年瓷都",
+      "onboard_time": 1699410389,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229668,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225817,
+      "num": 225817,
+      "word": "我为什么放弃所谓的贵妇护肤品",
+      "onboard_time": 1699410094,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 224178,
       "num": 224178,
       "word": "看点成年人的纯爱",
@@ -475,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220406,
-      "num": 220406,
-      "word": "自求多芙",
-      "onboard_time": 1699409550,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 221667,
+      "num": 221667,
+      "word": "马竞6比0凯尔特人",
+      "onboard_time": 1699410270,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 218299,
@@ -489,6 +537,14 @@
       "onboard_time": 1699361914,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217738,
+      "num": 217738,
+      "word": "秦海璐在大象岩给花少每个人拍了照片",
+      "onboard_time": 1699410270,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 217182,
@@ -531,6 +587,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "王自如 没看过工资条",
+      "onboard_time": 1699410453,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206914,
       "num": 206914,
       "word": "宁安如梦预告",
@@ -561,6 +625,14 @@
       "onboard_time": 1699346075,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199049,
+      "num": 199049,
+      "word": "张真源是懂代班主持的",
+      "onboard_time": 1699410571,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 198663,
@@ -603,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188032,
+      "num": 188032,
+      "word": "MMA阵容",
+      "onboard_time": 1699410691,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184241,
       "num": 184241,
       "word": "年度悬疑巨作你在说谎",
@@ -635,28 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175209,
-      "num": 175209,
-      "word": "秦海璐在大象岩给花少每个人拍了照片",
-      "onboard_time": 1699410270,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "周深清唱以爱为营宁安如梦OST",
       "onboard_time": 1699406672,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167410,
-      "num": 167410,
-      "word": "湖人为詹姆斯维权",
-      "onboard_time": 1699410152,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 164884,
@@ -723,20 +787,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 144145,
-      "num": 144145,
-      "word": "14岁女儿被打父亲悬赏1万找打人者",
-      "onboard_time": 1699410094,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141850,
-      "num": 141850,
-      "word": "马竞6比0凯尔特人",
-      "onboard_time": 1699410270,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 138733,
+      "num": 138733,
+      "word": "计算机二级",
+      "onboard_time": 1699410872,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 138693,
@@ -763,14 +819,6 @@
       "category": "游戏,电影"
     },
     {
-      "raw_hot": 135316,
-      "num": 135316,
-      "word": "我为什么放弃所谓的贵妇护肤品",
-      "onboard_time": 1699410094,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "蒋勤勤 认定吴磊是我儿子了",
@@ -787,20 +835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132474,
+      "num": 132474,
+      "word": "祖孙三人穿军装合照看破防",
+      "onboard_time": 1699408532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131787,
+      "num": 131787,
+      "word": "乌镇峰会",
+      "onboard_time": 1699410990,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129162,
       "num": 129162,
       "word": "孤舟",
       "onboard_time": 1699371514,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126923,
-      "num": 126923,
-      "word": "祖孙三人穿军装合照看破防",
-      "onboard_time": 1699408532,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126490,

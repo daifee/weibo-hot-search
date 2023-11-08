@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699410344673,
+  "endTime": 1699411010167,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 2267803,
-      "num": 549708,
+      "num": 619681,
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
@@ -2131,6 +2131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 986859,
+      "num": 986859,
+      "word": "金莎男友 大学生勇闯娱乐圈",
+      "onboard_time": 1699403559,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 985792,
       "num": 985792,
       "word": "教资成绩",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1698975331,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978351,
-      "num": 978351,
-      "word": "金莎男友 大学生勇闯娱乐圈",
-      "onboard_time": 1699403559,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 970738,
@@ -2449,6 +2449,14 @@
       "onboard_time": 1699016257,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 857326,
+      "num": 857326,
+      "word": "姜珮瑶 明媚的美",
+      "onboard_time": 1699409550,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 855975,
@@ -3771,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633867,
+      "num": 633867,
+      "word": "原神4.2",
+      "onboard_time": 1699409550,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 633655,
       "num": 633655,
       "word": "今日立冬",
@@ -3793,14 +3809,6 @@
       "onboard_time": 1699142125,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 629849,
-      "num": 629849,
-      "word": "姜珮瑶 明媚的美",
-      "onboard_time": 1699409550,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 628311,
@@ -4777,14 +4785,6 @@
       "onboard_time": 1699070431,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 531752,
-      "num": 531752,
-      "word": "原神4.2",
-      "onboard_time": 1699409550,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 531178,
@@ -7411,6 +7411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 356918,
+      "num": 356918,
+      "word": "丘索维金娜求购国货称已被征服",
+      "onboard_time": 1699408893,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 356541,
       "num": 321040,
       "word": "金莎与男友首个合体综艺",
@@ -7697,14 +7705,6 @@
       "onboard_time": 1699191936,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 347104,
-      "num": 347104,
-      "word": "丘索维金娜求购国货称已被征服",
-      "onboard_time": 1699408893,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 346587,
@@ -8064,6 +8064,14 @@
       "word": "健身房回应女子欲退款被扣13万手续费",
       "onboard_time": 1698897754,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330119,
+      "num": 330119,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8907,6 +8915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287803,
+      "num": 287803,
+      "word": "中山二院苏士成正常坐诊",
+      "onboard_time": 1699410571,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287582,
       "num": 287582,
       "word": "终于等到这英出那英的妆教",
@@ -9057,6 +9073,14 @@
       "onboard_time": 1699321291,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281202,
+      "num": 281202,
+      "word": "自求多芙",
+      "onboard_time": 1699409550,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 281124,
@@ -10499,6 +10523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242165,
+      "num": 242165,
+      "word": "湖人为詹姆斯维权",
+      "onboard_time": 1699410152,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241987,
       "num": 241987,
       "word": "歌手杨坤在长沙被打系假消息",
@@ -11003,6 +11035,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 231149,
+      "num": 231149,
+      "word": "5000多名洋景漂逐梦千年瓷都",
+      "onboard_time": 1699410389,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231006,
       "num": 231006,
       "word": "王牌对王牌",
@@ -11307,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225817,
+      "num": 225817,
+      "word": "我为什么放弃所谓的贵妇护肤品",
+      "onboard_time": 1699410094,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 225706,
       "num": 218666,
       "word": "皮肤科医生的护肤品购买指南",
@@ -11531,6 +11579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221667,
+      "num": 221667,
+      "word": "马竞6比0凯尔特人",
+      "onboard_time": 1699410270,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221327,
       "num": 216933,
       "word": "时代少年团半秒三连拍",
@@ -11585,14 +11641,6 @@
       "onboard_time": 1699346135,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 220406,
-      "num": 220406,
-      "word": "自求多芙",
-      "onboard_time": 1699409550,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 220247,
@@ -11673,6 +11721,14 @@
       "onboard_time": 1699197035,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217738,
+      "num": 217738,
+      "word": "秦海璐在大象岩给花少每个人拍了照片",
+      "onboard_time": 1699410270,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 217706,
@@ -12073,6 +12129,14 @@
       "onboard_time": 1698999033,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "王自如 没看过工资条",
+      "onboard_time": 1699410453,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 210056,
@@ -12825,6 +12889,14 @@
       "onboard_time": 1699089691,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199049,
+      "num": 199049,
+      "word": "张真源是懂代班主持的",
+      "onboard_time": 1699410571,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 198867,
@@ -13859,6 +13931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188032,
+      "num": 188032,
+      "word": "MMA阵容",
+      "onboard_time": 1699410691,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188029,
       "num": 188029,
       "word": "电影野孩子杀青",
@@ -14659,14 +14739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175209,
-      "num": 175209,
-      "word": "秦海璐在大象岩给花少每个人拍了照片",
-      "onboard_time": 1699410270,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175143,
       "num": 175143,
       "word": "孩子手指夹断警车开道送医顺利手术",
@@ -15104,14 +15176,6 @@
       "word": "勇士战胜活塞",
       "onboard_time": 1699326451,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167410,
-      "num": 167410,
-      "word": "湖人为詹姆斯维权",
-      "onboard_time": 1699410152,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -16803,14 +16867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144145,
-      "num": 144145,
-      "word": "14岁女儿被打父亲悬赏1万找打人者",
-      "onboard_time": 1699410094,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143981,
       "num": 143981,
       "word": "万圣节",
@@ -16979,14 +17035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141850,
-      "num": 141850,
-      "word": "马竞6比0凯尔特人",
-      "onboard_time": 1699410270,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141846,
       "num": 141846,
       "word": "这种玉米怎么榴里榴气的",
@@ -17153,6 +17201,14 @@
       "onboard_time": 1699093652,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138733,
+      "num": 138733,
+      "word": "计算机二级",
+      "onboard_time": 1699410872,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 138645,
@@ -17361,14 +17417,6 @@
       "onboard_time": 1699401934,
       "rank": 45,
       "category": "游戏,电影"
-    },
-    {
-      "raw_hot": 135316,
-      "num": 135316,
-      "word": "我为什么放弃所谓的贵妇护肤品",
-      "onboard_time": 1699410094,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 135110,
@@ -17627,6 +17675,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 132474,
+      "num": 132474,
+      "word": "祖孙三人穿军装合照看破防",
+      "onboard_time": 1699408532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132468,
       "num": 132468,
       "word": "巨石强森cos贝克汉姆",
@@ -17657,6 +17713,14 @@
       "onboard_time": 1699092870,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131787,
+      "num": 131787,
+      "word": "乌镇峰会",
+      "onboard_time": 1699410990,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131547,
@@ -18017,14 +18081,6 @@
       "onboard_time": 1699300394,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126923,
-      "num": 126923,
-      "word": "祖孙三人穿军装合照看破防",
-      "onboard_time": 1699408532,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126852,
