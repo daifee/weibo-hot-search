@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699485431694,
+  "endTime": 1699486476927,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -35,6 +35,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1000440,
+      "num": 275418,
+      "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+      "onboard_time": 1699486288,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 786733,
       "num": 723827,
       "word": "仲尼昨天生日",
@@ -43,20 +51,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 778617,
+      "num": 778617,
+      "word": "家长劝孩子不要学生物的原因",
+      "onboard_time": 1699481056,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 706393,
       "num": 706393,
       "word": "瑞幸 罗翔",
       "onboard_time": 1699452654,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 647399,
-      "num": 647399,
-      "word": "家长劝孩子不要学生物的原因",
-      "onboard_time": 1699481056,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 610176,
@@ -75,8 +83,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 466759,
-      "num": 466759,
+      "raw_hot": 468424,
+      "num": 468424,
       "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
       "onboard_time": 1699447550,
       "rank": 5,
@@ -88,6 +96,22 @@
       "word": "韵达",
       "onboard_time": 1699453379,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430906,
+      "num": 430906,
+      "word": "仲尼生日当天遇难",
+      "onboard_time": 1699449533,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 417914,
+      "num": 417914,
+      "word": "苏州毒地",
+      "onboard_time": 1699485148,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -139,20 +163,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317348,
+      "num": 317348,
+      "word": "花少后期多剪一秒就露馅了",
+      "onboard_time": 1699455115,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 310364,
+      "num": 310364,
+      "word": "UNINE 重组",
+      "onboard_time": 1699485686,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286322,
+      "num": 286322,
+      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+      "onboard_time": 1699456970,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280220,
       "num": 280220,
       "word": "龙 你今天吃了20个饺子",
       "onboard_time": 1699462166,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 278467,
-      "num": 278467,
-      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
-      "onboard_time": 1699456970,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276593,
@@ -179,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244705,
+      "num": 244705,
+      "word": "肺炎支原体短期内会重复感染吗",
+      "onboard_time": 1699484905,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241904,
       "num": 241904,
       "word": "刘恺威肘击颖儿",
@@ -187,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234830,
-      "num": 234830,
-      "word": "花少后期多剪一秒就露馅了",
-      "onboard_time": 1699455115,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 229635,
+      "num": 229635,
+      "word": "凯恩进球停不下来",
+      "onboard_time": 1699486109,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 222517,
@@ -203,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212773,
+      "num": 212773,
+      "word": "哥本哈根4比3曼联",
+      "onboard_time": 1699484905,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211791,
       "num": 211791,
       "word": "谢危的疯是根本找不到代餐的疯",
       "onboard_time": 1699459655,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208354,
+      "num": 208354,
+      "word": "长沙冰雹",
+      "onboard_time": 1699485566,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208149,
@@ -225,14 +289,6 @@
       "onboard_time": 1699455712,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 204439,
-      "num": 204439,
-      "word": "哥本哈根4比3曼联",
-      "onboard_time": 1699484905,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 203844,
@@ -259,12 +315,28 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 199262,
+      "num": 199262,
+      "word": "早田希娜说和孙颖莎成了好朋友",
+      "onboard_time": 1699485386,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192911,
       "num": 192911,
       "word": "田曦薇星河公主裙",
       "onboard_time": 1699455472,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187927,
+      "num": 187927,
+      "word": "时代峰峻的戒指是你家的吗",
+      "onboard_time": 1699447070,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 186460,
@@ -307,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171574,
-      "num": 171574,
-      "word": "时代峰峻的戒指是你家的吗",
-      "onboard_time": 1699447070,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 170924,
       "num": 170924,
       "word": "宁安如梦爱奇艺热度值破9000",
@@ -348,7 +412,7 @@
     },
     {
       "raw_hot": 151950,
-      "num": 82485,
+      "num": 149310,
       "word": "门面店1000多的衣服东大门卖多少",
       "onboard_time": 1699482799,
       "rank": 49,
@@ -379,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131929,
+      "num": 123117,
+      "word": "拜仁2比1加拉塔萨雷",
+      "onboard_time": 1699485927,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "aespa主打曲Drama预听",
@@ -392,6 +464,22 @@
       "word": "涂山璟捡起来的从来都不是浪漫",
       "onboard_time": 1699451693,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126270,
+      "num": 126270,
+      "word": "肉装妲己翻身困难被同伴嘲笑",
+      "onboard_time": 1699452051,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 125661,
+      "num": 125661,
+      "word": "一场大雪温太医成癫公了",
+      "onboard_time": 1699469354,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -409,30 +497,6 @@
       "onboard_time": 1699461688,
       "rank": 19,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 114768,
-      "num": 114768,
-      "word": "一场大雪温太医成癫公了",
-      "onboard_time": 1699469354,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 110946,
-      "num": 110946,
-      "word": "肉装妲己翻身困难被同伴嘲笑",
-      "onboard_time": 1699452051,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 109736,
-      "num": 109736,
-      "word": "肺炎支原体短期内会重复感染吗",
-      "onboard_time": 1699484905,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108738,
@@ -459,12 +523,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102711,
+      "num": 102711,
+      "word": "中国平安已清仓碧桂园",
+      "onboard_time": 1699477214,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99137,
       "num": 158466,
       "word": "中山二院",
       "onboard_time": 1699450673,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96074,
+      "num": 96074,
+      "word": "重庆70岁婆婆的退休生活有多精致",
+      "onboard_time": 1699485204,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 94325,
+      "num": 94325,
+      "word": "心动的offer选手首次回应年入300万",
+      "onboard_time": 1699486228,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 90060,
@@ -475,12 +563,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89071,
+      "num": 89071,
+      "word": "普通人最直接的转运方法",
+      "onboard_time": 1699472653,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86111,
       "num": 109977,
       "word": "美香 回国",
       "onboard_time": 1699439194,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85262,
+      "num": 85262,
+      "word": "包子套娃",
+      "onboard_time": 1699486048,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 84248,
+      "num": 84248,
+      "word": "村民扛长枪进派出所民警却笑了",
+      "onboard_time": 1699484784,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82839,
+      "num": 82839,
+      "word": "荒天帝无敌的一生",
+      "onboard_time": 1699484182,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 82760,
@@ -491,30 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 74306,
-      "num": 74306,
-      "word": "中国平安已清仓碧桂园",
-      "onboard_time": 1699477214,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 66887,
-      "num": 66887,
-      "word": "普通人最直接的转运方法",
-      "onboard_time": 1699472653,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 64010,
-      "num": 64010,
-      "word": "荒天帝无敌的一生",
-      "onboard_time": 1699484182,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 62261,
       "num": 108162,
       "word": "入冬第一妆",
@@ -523,28 +619,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 58621,
-      "num": 58621,
-      "word": "早田希娜说和孙颖莎成了好朋友",
-      "onboard_time": 1699485386,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56775,
-      "num": 56775,
-      "word": "苏州毒地",
-      "onboard_time": 1699485148,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55756,
-      "num": 55756,
-      "word": "重庆70岁婆婆的退休生活有多精致",
-      "onboard_time": 1699485204,
-      "rank": 41,
-      "category": "社会新闻,情感"
+      "raw_hot": 61406,
+      "num": 78481,
+      "word": "孟羽童一年半广告收入或达400万",
+      "onboard_time": 1699421672,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 53555,
@@ -553,14 +633,6 @@
       "onboard_time": 1699472293,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49933,
-      "num": 49933,
-      "word": "村民扛长枪进派出所民警却笑了",
-      "onboard_time": 1699484784,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49076,
@@ -585,14 +657,6 @@
       "onboard_time": 1699461090,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46214,
-      "num": 46214,
-      "word": "孟羽童一年半广告收入或达400万",
-      "onboard_time": 1699421672,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 45453,
@@ -635,8 +699,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 9818,
-      "num": 440735,
+      "raw_hot": 12650,
+      "num": 524544,
       "word": "乌镇网事",
       "onboard_time": 1699361194,
       "rank": 2,

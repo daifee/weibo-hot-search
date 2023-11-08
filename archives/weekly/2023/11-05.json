@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699485431694,
+  "endTime": 1699486476927,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1219,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1000440,
+      "num": 275418,
+      "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+      "onboard_time": 1699486288,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 999521,
       "num": 364601,
       "word": "向佐记得郭碧婷小时代每个细节",
@@ -1691,6 +1699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 778617,
+      "num": 778617,
+      "word": "家长劝孩子不要学生物的原因",
+      "onboard_time": 1699481056,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 767466,
       "num": 767466,
       "word": "与凤行 江苏卫视",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1699335630,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 647399,
-      "num": 647399,
-      "word": "家长劝孩子不要学生物的原因",
-      "onboard_time": 1699481056,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 643654,
@@ -3371,6 +3379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 430906,
+      "num": 430906,
+      "word": "仲尼生日当天遇难",
+      "onboard_time": 1699449533,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 430120,
       "num": 220543,
       "word": "他的一句玩命 我竟红了眼眶",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1699105176,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417914,
+      "num": 417914,
+      "word": "苏州毒地",
+      "onboard_time": 1699485148,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417627,
@@ -4675,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310364,
+      "num": 310364,
+      "word": "UNINE 重组",
+      "onboard_time": 1699485686,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309784,
       "num": 309784,
       "word": "你这样碧婷知道吗",
@@ -4939,6 +4971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 286322,
+      "num": 286322,
+      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+      "onboard_time": 1699456970,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285885,
       "num": 285885,
       "word": "在高铁上碰到有人吃榴莲",
@@ -5025,14 +5065,6 @@
       "onboard_time": 1699449470,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 278467,
-      "num": 278467,
-      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
-      "onboard_time": 1699456970,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278198,
@@ -5691,6 +5723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 244705,
+      "num": 244705,
+      "word": "肺炎支原体短期内会重复感染吗",
+      "onboard_time": 1699484905,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244571,
       "num": 244571,
       "word": "黄渤王一博凤凰奖优秀男主角",
@@ -6163,6 +6203,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 229635,
+      "num": 229635,
+      "word": "凯恩进球停不下来",
+      "onboard_time": 1699486109,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229426,
       "num": 229426,
       "word": "一诺伽罗输出拉满了",
@@ -6571,6 +6619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212773,
+      "num": 212773,
+      "word": "哥本哈根4比3曼联",
+      "onboard_time": 1699484905,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212714,
       "num": 212714,
       "word": "一笙在干嘛",
@@ -6771,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208354,
+      "num": 208354,
+      "word": "长沙冰雹",
+      "onboard_time": 1699485566,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208302,
       "num": 208302,
       "word": "哈登快船首秀",
@@ -6929,14 +6993,6 @@
       "onboard_time": 1699416096,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204439,
-      "num": 204439,
-      "word": "哥本哈根4比3曼联",
-      "onboard_time": 1699484905,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 204306,
@@ -7209,6 +7265,14 @@
       "onboard_time": 1699160253,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199262,
+      "num": 199262,
+      "word": "早田希娜说和孙颖莎成了好朋友",
+      "onboard_time": 1699485386,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 199049,
@@ -9124,7 +9188,7 @@
     },
     {
       "raw_hot": 151950,
-      "num": 82485,
+      "num": 149310,
       "word": "门面店1000多的衣服东大门卖多少",
       "onboard_time": 1699482799,
       "rank": 49,
@@ -9867,6 +9931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131929,
+      "num": 123117,
+      "word": "拜仁2比1加拉塔萨雷",
+      "onboard_time": 1699485927,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131799,
       "num": 435367,
       "word": "Ruler全球总决赛登场排名第三",
@@ -10161,6 +10233,14 @@
       "onboard_time": 1699424858,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125661,
+      "num": 125661,
+      "word": "一场大雪温太医成癫公了",
+      "onboard_time": 1699469354,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 125649,
@@ -10459,14 +10539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114768,
-      "num": 114768,
-      "word": "一场大雪温太医成癫公了",
-      "onboard_time": 1699469354,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114646,
       "num": 1981852,
       "word": "揭秘进博会网红巴基斯坦盐灯",
@@ -10593,14 +10665,6 @@
       "onboard_time": 1699209618,
       "rank": 25,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 109736,
-      "num": 109736,
-      "word": "肺炎支原体短期内会重复感染吗",
-      "onboard_time": 1699484905,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109651,
@@ -10785,6 +10849,14 @@
       "onboard_time": 1699269574,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 102711,
+      "num": 102711,
+      "word": "中国平安已清仓碧桂园",
+      "onboard_time": 1699477214,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 102520,
@@ -10979,6 +11051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96074,
+      "num": 96074,
+      "word": "重庆70岁婆婆的退休生活有多精致",
+      "onboard_time": 1699485204,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 95471,
       "num": 238861,
       "word": "19个月大宝宝去世捐器官救6人",
@@ -11001,6 +11081,14 @@
       "onboard_time": 1699099001,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94325,
+      "num": 94325,
+      "word": "心动的offer选手首次回应年入300万",
+      "onboard_time": 1699486228,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 94145,
@@ -11075,6 +11163,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 89071,
+      "num": 89071,
+      "word": "普通人最直接的转运方法",
+      "onboard_time": 1699472653,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88787,
       "num": 107621,
       "word": "TF家族2024台历",
@@ -11131,6 +11227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85262,
+      "num": 85262,
+      "word": "包子套娃",
+      "onboard_time": 1699486048,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84954,
       "num": 207292,
       "word": "为节省运输成本货车司机偷盗他人柴油",
@@ -11145,6 +11249,14 @@
       "onboard_time": 1699371453,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84248,
+      "num": 84248,
+      "word": "村民扛长枪进派出所民警却笑了",
+      "onboard_time": 1699484784,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83708,
@@ -11169,6 +11281,14 @@
       "onboard_time": 1699206679,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82839,
+      "num": 82839,
+      "word": "荒天帝无敌的一生",
+      "onboard_time": 1699484182,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 82295,
@@ -11307,14 +11427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74306,
-      "num": 74306,
-      "word": "中国平安已清仓碧桂园",
-      "onboard_time": 1699477214,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 74265,
       "num": 115003,
       "word": "一到冬天就浑身静电怎么办",
@@ -11435,14 +11547,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 66887,
-      "num": 66887,
-      "word": "普通人最直接的转运方法",
-      "onboard_time": 1699472653,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 66562,
       "num": 66562,
       "word": "朝阳打歌中心有自己的妲己",
@@ -11489,14 +11593,6 @@
       "onboard_time": 1699101397,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 64010,
-      "num": 64010,
-      "word": "荒天帝无敌的一生",
-      "onboard_time": 1699484182,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 62261,
@@ -11571,14 +11667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58621,
-      "num": 58621,
-      "word": "早田希娜说和孙颖莎成了好朋友",
-      "onboard_time": 1699485386,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58126,
       "num": 197775,
       "word": "李思思被孩子的想象力惊艳到",
@@ -11595,28 +11683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56775,
-      "num": 56775,
-      "word": "苏州毒地",
-      "onboard_time": 1699485148,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55770,
       "num": 231233,
       "word": "iQOO12万里舷窗设计",
       "onboard_time": 1699341273,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 55756,
-      "num": 55756,
-      "word": "重庆70岁婆婆的退休生活有多精致",
-      "onboard_time": 1699485204,
-      "rank": 41,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 53555,
@@ -11657,14 +11729,6 @@
       "onboard_time": 1699365577,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49933,
-      "num": 49933,
-      "word": "村民扛长枪进派出所民警却笑了",
-      "onboard_time": 1699484784,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49860,
