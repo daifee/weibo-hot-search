@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699452977933,
+  "endTime": 1699454057747,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2727681,
-      "num": 532269,
+      "num": 590550,
       "word": "仲尼昨天生日",
       "onboard_time": 1699449533,
       "rank": 12,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2663793,
-      "num": 540359,
+      "num": 2573084,
       "word": "印尼媒体报道仲尼溺亡",
       "onboard_time": 1699451158,
       "rank": 10,
@@ -416,6 +416,14 @@
       "word": "原来淋巴肉是不能吃的",
       "onboard_time": 1699313248,
       "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1904111,
+      "num": 1904111,
+      "word": "瑞幸 罗翔",
+      "onboard_time": 1699452654,
+      "rank": 14,
       "category": "美食"
     },
     {
@@ -1556,7 +1564,7 @@
     },
     {
       "raw_hot": 808585,
-      "num": 519134,
+      "num": 571712,
       "word": "时代峰峻的戒指是你家的吗",
       "onboard_time": 1699447070,
       "rank": 12,
@@ -2195,6 +2203,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 609902,
+      "num": 609902,
+      "word": "时宴他慌了",
+      "onboard_time": 1699451580,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 607609,
       "num": 607609,
       "word": "官方回应佳木斯一体育馆发生坍塌",
@@ -2403,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570615,
+      "num": 570615,
+      "word": "韵达",
+      "onboard_time": 1699453379,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567571,
       "num": 567571,
       "word": "MAMA阵容",
@@ -2513,14 +2537,6 @@
       "onboard_time": 1699334972,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 550562,
-      "num": 550562,
-      "word": "时宴他慌了",
-      "onboard_time": 1699451580,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 547539,
@@ -2689,14 +2705,6 @@
       "onboard_time": 1699191635,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517306,
-      "num": 517306,
-      "word": "瑞幸 罗翔",
-      "onboard_time": 1699452654,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 515548,
@@ -3867,6 +3875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 365179,
+      "num": 309583,
+      "word": "涂山璟捡起来的从来都不是浪漫",
+      "onboard_time": 1699451693,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365144,
       "num": 365144,
       "word": "迪丽热巴同款瀑布高马尾",
@@ -4291,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330101,
+      "num": 603352,
+      "word": "中山二院黄某家属称其病情严重",
+      "onboard_time": 1699450673,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330084,
       "num": 282650,
       "word": "俄罗斯人组团到黑龙江取快递",
@@ -4321,14 +4345,6 @@
       "onboard_time": 1699328791,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 327491,
-      "num": 550190,
-      "word": "中山二院黄某家属称其病情严重",
-      "onboard_time": 1699450673,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327211,
@@ -4393,6 +4409,14 @@
       "onboard_time": 1699192716,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 319925,
+      "num": 319925,
+      "word": "85四大青衣提名",
+      "onboard_time": 1699452595,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319277,
@@ -4569,6 +4593,14 @@
       "onboard_time": 1699445737,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305618,
+      "num": 305618,
+      "word": "GTA新作12月初公开",
+      "onboard_time": 1699451635,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 305414,
@@ -4819,14 +4851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283674,
-      "num": 283674,
-      "word": "GTA新作12月初公开",
-      "onboard_time": 1699451635,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "LNG纯菜",
@@ -4929,14 +4953,6 @@
       "onboard_time": 1699245997,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275916,
-      "num": 275053,
-      "word": "涂山璟捡起来的从来都不是浪漫",
-      "onboard_time": 1699451693,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 275501,
@@ -5177,6 +5193,14 @@
       "onboard_time": 1699422871,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261542,
+      "num": 261542,
+      "word": "GTA6",
+      "onboard_time": 1699453492,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 260427,
@@ -5953,6 +5977,14 @@
       "onboard_time": 1699180600,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229748,
+      "num": 229748,
+      "word": "肉装妲己翻身困难被同伴嘲笑",
+      "onboard_time": 1699452051,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 229426,
@@ -6779,14 +6811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202564,
-      "num": 202564,
-      "word": "肉装妲己翻身困难被同伴嘲笑",
-      "onboard_time": 1699452051,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 202556,
       "num": 424019,
       "word": "王楚钦加油",
@@ -7265,6 +7289,14 @@
       "onboard_time": 1699082430,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "三只大熊猫即将回国",
+      "onboard_time": 1699453194,
+      "rank": 33,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 193498,
@@ -8009,14 +8041,6 @@
       "onboard_time": 1699437032,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174300,
-      "num": 174300,
-      "word": "85四大青衣提名",
-      "onboard_time": 1699452595,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174179,
@@ -9619,6 +9643,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 131016,
+      "num": 131016,
+      "word": "王霏霏韩式小烟熏妆教",
+      "onboard_time": 1699453792,
+      "rank": 46,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 130798,
       "num": 130798,
       "word": "原神夏沃蕾",
@@ -10363,6 +10395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105784,
+      "num": 237900,
+      "word": "幼童突发抽搐老师一分钟紧急送医",
+      "onboard_time": 1699453435,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105257,
       "num": 376244,
       "word": "申有娜阿尼亚cos",
@@ -10465,6 +10505,14 @@
       "onboard_time": 1699200390,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100899,
+      "num": 3093482,
+      "word": "2023世界互联网大会乌镇峰会",
+      "onboard_time": 1699249114,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100805,
@@ -10824,14 +10872,6 @@
       "word": "生命的守护者逆行的火焰蓝",
       "onboard_time": 1699449174,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81475,
-      "num": 3093482,
-      "word": "2023世界互联网大会乌镇峰会",
-      "onboard_time": 1699249114,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
