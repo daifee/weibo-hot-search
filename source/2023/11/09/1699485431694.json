@@ -1,0 +1,410 @@
+{
+  "runTime": 1699485431694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2016692,
+        "num": 2016692,
+        "word": "仲尼在巴厘岛遇难",
+        "onboard_time": 1699455235,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 647399,
+        "num": 647399,
+        "word": "家长劝孩子不要学生物的原因",
+        "onboard_time": 1699481056,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 9818,
+        "num": 440735,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 405610,
+        "num": 405610,
+        "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+        "onboard_time": 1699447550,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281630,
+        "num": 281630,
+        "word": "青簪行彭冠英补拍",
+        "onboard_time": 1699456312,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278467,
+        "num": 278467,
+        "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+        "onboard_time": 1699456970,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267761,
+        "num": 267761,
+        "word": "仲尼昨天生日",
+        "onboard_time": 1699449533,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234830,
+        "num": 234830,
+        "word": "花少后期多剪一秒就露馅了",
+        "onboard_time": 1699455115,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204439,
+        "num": 204439,
+        "word": "哥本哈根4比3曼联",
+        "onboard_time": 1699484905,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181020,
+        "num": 181020,
+        "word": "皇马3比0布拉加",
+        "onboard_time": 1699484905,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1570770,
+        "num": 178627,
+        "word": "酒店讲述仲尼巴厘岛遇难细节",
+        "onboard_time": 1699456610,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 649967,
+        "num": 177008,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310022,
+        "num": 173361,
+        "word": "卡琳娜",
+        "onboard_time": 1699449352,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203844,
+        "num": 168935,
+        "word": "曼联小组垫底",
+        "onboard_time": 1699485086,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186461,
+        "num": 166190,
+        "word": "出轨丈夫去世 孩子要不要生",
+        "onboard_time": 1699433614,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162920,
+        "num": 162920,
+        "word": "龙 你今天吃了20个饺子",
+        "onboard_time": 1699462166,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137382,
+        "num": 137382,
+        "word": "瑞幸 罗翔",
+        "onboard_time": 1699452654,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135622,
+        "num": 135622,
+        "word": "时代峰峻的戒指是你家的吗",
+        "onboard_time": 1699447070,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133335,
+        "num": 133335,
+        "word": "TFBOYS十周年专辑戒指",
+        "onboard_time": 1699456909,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129423,
+        "num": 129423,
+        "word": "ChatGPT崩了",
+        "onboard_time": 1699459417,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125117,
+        "num": 125117,
+        "word": "小狗认为摸头是世界上最幸福的事",
+        "onboard_time": 1699460013,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114768,
+        "num": 114768,
+        "word": "一场大雪温太医成癫公了",
+        "onboard_time": 1699469354,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113946,
+        "num": 113946,
+        "word": "刘亦菲张靓颖合照",
+        "onboard_time": 1699450854,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109736,
+        "num": 109736,
+        "word": "肺炎支原体短期内会重复感染吗",
+        "onboard_time": 1699484905,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109680,
+        "num": 109680,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108199,
+        "num": 108199,
+        "word": "三只大熊猫即将回国",
+        "onboard_time": 1699453194,
+        "rank": 25,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 105001,
+        "num": 105001,
+        "word": "肉装妲己翻身困难被同伴嘲笑",
+        "onboard_time": 1699452051,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104731,
+        "num": 104731,
+        "word": "119全国消防日",
+        "onboard_time": 1699485026,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90060,
+        "num": 90060,
+        "word": "顾医生电梯换人换得贼6",
+        "onboard_time": 1699483399,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84083,
+        "num": 84083,
+        "word": "时宴他慌了",
+        "onboard_time": 1699451580,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151950,
+        "num": 82485,
+        "word": "门面店1000多的衣服东大门卖多少",
+        "onboard_time": 1699482799,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 80484,
+        "num": 80484,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76974,
+        "num": 76974,
+        "word": "美香 回国",
+        "onboard_time": 1699439194,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74306,
+        "num": 74306,
+        "word": "中国平安已清仓碧桂园",
+        "onboard_time": 1699477214,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73054,
+        "num": 73054,
+        "word": "刘恺威肘击颖儿",
+        "onboard_time": 1699438294,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66887,
+        "num": 66887,
+        "word": "普通人最直接的转运方法",
+        "onboard_time": 1699472653,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 64010,
+        "word": "荒天帝无敌的一生",
+        "onboard_time": 1699484182,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 60723,
+        "num": 60723,
+        "word": "Somi希望IOI在MAMA合体",
+        "onboard_time": 1699462348,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58621,
+        "num": 58621,
+        "word": "早田希娜说和孙颖莎成了好朋友",
+        "onboard_time": 1699485386,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56775,
+        "num": 56775,
+        "word": "苏州毒地",
+        "onboard_time": 1699485148,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56724,
+        "num": 56724,
+        "word": "原来真的有人会饿成这样",
+        "onboard_time": 1699454579,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55756,
+        "num": 55756,
+        "word": "重庆70岁婆婆的退休生活有多精致",
+        "onboard_time": 1699485204,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 53555,
+        "num": 53555,
+        "word": "秦岚一句话治好辛芷蕾的容貌焦虑",
+        "onboard_time": 1699472293,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53031,
+        "num": 53031,
+        "word": "你以为直腿的动作vs实际直腿的动作",
+        "onboard_time": 1699455712,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 50924,
+        "num": 50924,
+        "word": "时宴发朋友圈表白",
+        "onboard_time": 1699456671,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49933,
+        "num": 49933,
+        "word": "村民扛长枪进派出所民警却笑了",
+        "onboard_time": 1699484784,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46711,
+        "num": 46711,
+        "word": "中山二院黄某家属称其病情严重",
+        "onboard_time": 1699450673,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46684,
+        "num": 46684,
+        "word": "花少5第一次真正的矛盾来了",
+        "onboard_time": 1699439614,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46214,
+        "num": 46214,
+        "word": "孟羽童一年半广告收入或达400万",
+        "onboard_time": 1699421672,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45453,
+        "num": 45453,
+        "word": "小伙离职后驻岛当起水獭铲屎官",
+        "onboard_time": 1699478895,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}

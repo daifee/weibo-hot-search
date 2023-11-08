@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/09 06:33:58
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/09 07:17:11
 </p>
 </blockquote>
 <p>
@@ -3033,6 +3033,12 @@ YG只发了朴彩英台历（热度：660096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8A%9D%E5%AD%A9%E5%AD%90%E4%B8%8D%E8%A6%81%E5%AD%A6%E7%94%9F%E7%89%A9%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+家长劝孩子不要学生物的原因（热度：647399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E6%BF%80%E6%88%98%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
 缅北激战画面曝光（热度：646054）
 </a>
@@ -6005,12 +6011,6 @@ by2高铁无座赶音乐节（热度：371355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E6%83%B3%E8%A6%81%20%E4%BA%8E%E6%98%AF%E5%BE%97%E5%88%B0%23" target="weibo">
 于适想要 于是得到（热度：365786）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GTA6%23" target="weibo">
-GTA6（热度：365379）
 </a>
 </li>
 
