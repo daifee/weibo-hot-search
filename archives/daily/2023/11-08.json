@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699421635471,
+  "endTime": 1699424556314,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1573841,
+      "num": 1573841,
+      "word": "孟羽童一年半广告收入或达400万",
+      "onboard_time": 1699421672,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1549077,
       "num": 547449,
       "word": "14岁女儿被打父亲悬赏1万找打人者",
@@ -89,6 +97,14 @@
       "onboard_time": 1699414832,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1496268,
+      "num": 507872,
+      "word": "炎亚纶改名吴秉孺",
+      "onboard_time": 1699422813,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1107179,
@@ -113,6 +129,14 @@
       "onboard_time": 1699420653,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016910,
+      "num": 1016910,
+      "word": "秦海璐肠绞痛痛到脸都白了",
+      "onboard_time": 1699423297,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 986859,
@@ -187,8 +211,16 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 802852,
+      "num": 802852,
+      "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
+      "onboard_time": 1699421496,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783085,
-      "num": 293874,
+      "num": 323071,
       "word": "王鹤棣曝光艺人聊天模板",
       "onboard_time": 1699420893,
       "rank": 20,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619539,
+      "num": 619539,
+      "word": "孟羽童在职曾发65篇非格力产品内容",
+      "onboard_time": 1699423897,
+      "rank": 8,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 614625,
       "num": 614625,
       "word": "何猷君 听老婆话会发达",
@@ -305,6 +345,14 @@
       "onboard_time": 1699405298,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508324,
+      "num": 508324,
+      "word": "胰腺癌发病率",
+      "onboard_time": 1699423537,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 502369,
@@ -451,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 365144,
+      "num": 365144,
+      "word": "迪丽热巴同款瀑布高马尾",
+      "onboard_time": 1699422213,
+      "rank": 13,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 359262,
       "num": 359262,
       "word": "姜珮瑶 闺蜜专业户",
@@ -513,6 +569,14 @@
       "onboard_time": 1699410990,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332815,
+      "num": 332815,
+      "word": "刘亦菲迪士尼公主造型",
+      "onboard_time": 1699421431,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 327898,
@@ -683,6 +747,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 262568,
+      "num": 262568,
+      "word": "印尼班达海7.1级地震",
+      "onboard_time": 1699422871,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260849,
       "num": 260849,
       "word": "东北大学生正式确诊为华妃",
@@ -755,20 +827,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241193,
-      "num": 241193,
-      "word": "刘亦菲迪士尼公主造型",
-      "onboard_time": 1699421431,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 234709,
       "num": 234709,
       "word": "潘斌龙赞王俊凯为电影拼了",
       "onboard_time": 1699370255,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233979,
+      "num": 233979,
+      "word": "迪丽热巴大漠落日随拍",
+      "onboard_time": 1699423297,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233274,
+      "num": 233274,
+      "word": "农民发明家成就600亿产值",
+      "onboard_time": 1699422095,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 232685,
@@ -824,6 +904,14 @@
       "word": "看点成年人的纯爱",
       "onboard_time": 1699405535,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224149,
+      "num": 224149,
+      "word": "宁安如梦",
+      "onboard_time": 1699343012,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -931,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205106,
+      "num": 205106,
+      "word": "中山二院癌症患者家属称确实被踢出群聊",
+      "onboard_time": 1699424257,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204465,
       "num": 204465,
       "word": "李健南京抢票",
@@ -969,14 +1065,6 @@
       "onboard_time": 1699418977,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202571,
-      "num": 202571,
-      "word": "宁安如梦",
-      "onboard_time": 1699343012,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 202287,
@@ -1059,6 +1147,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 194689,
+      "num": 194689,
+      "word": "A股",
+      "onboard_time": 1699424139,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192894,
       "num": 180255,
       "word": "陆虎卑微拒绝披荆斩棘",
@@ -1075,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190149,
+      "num": 190149,
+      "word": "成都警方通报地铁3号线打人事件",
+      "onboard_time": 1699424198,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "MMA阵容",
@@ -1089,6 +1193,14 @@
       "onboard_time": 1699412250,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186296,
+      "num": 186296,
+      "word": "王源新歌旁白是文淇",
+      "onboard_time": 1699421672,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 185013,
@@ -1123,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180807,
+      "num": 180807,
+      "word": "CTU音乐节",
+      "onboard_time": 1699422331,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "魏大勋冷脸甩伞",
@@ -1155,20 +1275,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170541,
+      "num": 170541,
+      "word": "娜扎妆容",
+      "onboard_time": 1699423897,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "周深清唱以爱为营宁安如梦OST",
       "onboard_time": 1699406672,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166650,
-      "num": 166650,
-      "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
-      "onboard_time": 1699421496,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164884,
@@ -1267,6 +1387,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "爱的修学旅行",
+      "onboard_time": 1699424257,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140213,
+      "num": 358675,
+      "word": "立冬",
+      "onboard_time": 1699423232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138693,
       "num": 138693,
       "word": "金莎男友是山东蓝翔出来的吗",
@@ -1331,6 +1467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132140,
+      "num": 132140,
+      "word": "花儿与少年",
+      "onboard_time": 1699424503,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131116,
+      "num": 131116,
+      "word": "文淇说请大家按时发疯",
+      "onboard_time": 1699422694,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129162,
       "num": 129162,
       "word": "孤舟",
@@ -1361,6 +1513,14 @@
       "onboard_time": 1699407757,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123476,
+      "num": 123476,
+      "word": "何小鹏 关于AEB的看法",
+      "onboard_time": 1699422331,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 123458,
@@ -1555,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70021,
+      "num": 1459778,
+      "word": "进博会场馆四叶草背后的奥秘",
+      "onboard_time": 1699420234,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 65379,
       "num": 65379,
       "word": "喀什震感",
@@ -1601,14 +1769,6 @@
       "onboard_time": 1699359755,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34343,
-      "num": 1459778,
-      "word": "进博会场馆四叶草背后的奥秘",
-      "onboard_time": 1699420234,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 25239,
