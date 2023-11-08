@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699481780860,
+  "endTime": 1699482838015,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -6731,6 +6731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209184,
+      "num": 209184,
+      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+      "onboard_time": 1699456970,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209179,
       "num": 209179,
       "word": "杨贤硕被判有期徒刑6个月",
@@ -9227,14 +9235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148723,
-      "num": 178952,
-      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
-      "onboard_time": 1699456970,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148279,
       "num": 148279,
       "word": "KPL",
@@ -9537,6 +9537,14 @@
       "onboard_time": 1699273413,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140713,
+      "num": 56603,
+      "word": "家长劝孩子不要学生物的原因",
+      "onboard_time": 1699481056,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 140213,
@@ -11403,6 +11411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63423,
+      "num": 51089,
+      "word": "一场大雪温太医成癫公了",
+      "onboard_time": 1699469354,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62261,
       "num": 108162,
       "word": "入冬第一妆",
@@ -11497,6 +11513,14 @@
       "onboard_time": 1699341273,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53537,
+      "num": 45988,
+      "word": "中国平安已清仓碧桂园",
+      "onboard_time": 1699477214,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 53027,
@@ -11595,6 +11619,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 45011,
+      "num": 45011,
+      "word": "秦岚一句话治好辛芷蕾的容貌焦虑",
+      "onboard_time": 1699472293,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42712,
       "num": 304753,
       "word": "vivo即将发布X100",
@@ -11619,14 +11651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 39881,
-      "num": 39881,
-      "word": "一场大雪温太医成癫公了",
-      "onboard_time": 1699469354,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38495,
       "num": 210745,
       "word": "三星堆文物里藏着的中国酒文化",
@@ -11635,20 +11659,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 37350,
-      "num": 37350,
-      "word": "家长劝孩子不要学生物的原因",
-      "onboard_time": 1699481056,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 37128,
       "num": 361452,
       "word": "纽卡斯尔联1比0阿森纳",
       "onboard_time": 1699140020,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36621,
+      "num": 36621,
+      "word": "普通人最直接的转运方法",
+      "onboard_time": 1699472653,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 36444,
@@ -11675,30 +11699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34289,
-      "num": 34289,
-      "word": "中国平安已清仓碧桂园",
-      "onboard_time": 1699477214,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 33441,
-      "num": 33441,
-      "word": "秦岚一句话治好辛芷蕾的容貌焦虑",
-      "onboard_time": 1699472293,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32632,
-      "num": 32632,
-      "word": "普通人最直接的转运方法",
-      "onboard_time": 1699472653,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 31649,
       "num": 423301,
       "word": "2023暴雪嘉年华",
@@ -11713,6 +11713,14 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26288,
+      "num": 26288,
+      "word": "小伙离职后驻岛当起水獭铲屎官",
+      "onboard_time": 1699478895,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26090,
@@ -11787,14 +11795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22012,
-      "num": 22012,
-      "word": "小伙离职后驻岛当起水獭铲屎官",
-      "onboard_time": 1699478895,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21309,
       "num": 915057,
       "word": "让看电视更简单消费不套娃",
@@ -11803,12 +11803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18258,
+      "num": 23117,
+      "word": "立冬文案",
+      "onboard_time": 1699481596,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18118,
       "num": 305097,
       "word": "你的安全感从何而来",
       "onboard_time": 1699352616,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17999,
+      "num": 23101,
+      "word": "门面店1000多的衣服东大门卖多少",
+      "onboard_time": 1699482799,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 17900,
@@ -11847,14 +11863,6 @@
       "num": 48819,
       "word": "一种应激性的当仁不让",
       "onboard_time": 1699211234,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 15846,
-      "num": 15846,
-      "word": "立冬文案",
-      "onboard_time": 1699481596,
       "rank": 49,
       "category": "情感"
     },
