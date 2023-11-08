@@ -1,0 +1,410 @@
+{
+  "runTime": 1699450447599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16870025,
+        "num": 16870025,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12750989,
+        "num": 12750989,
+        "word": "一名34岁中国男性在巴厘岛遇难",
+        "onboard_time": 1699447910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37706,
+        "num": 5079303,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8622929,
+        "num": 8622929,
+        "word": "卡琳娜",
+        "onboard_time": 1699449352,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1132074,
+        "num": 1132074,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844403,
+        "num": 844403,
+        "word": "揭露三鹿毒奶粉的记者现在怎么样了",
+        "onboard_time": 1699447007,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694251,
+        "num": 694251,
+        "word": "刘恺威肘击颖儿",
+        "onboard_time": 1699438294,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601323,
+        "num": 601323,
+        "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+        "onboard_time": 1699447550,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595069,
+        "num": 595069,
+        "word": "花少5第一次真正的矛盾来了",
+        "onboard_time": 1699439614,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338372,
+        "num": 338372,
+        "word": "美香 回国",
+        "onboard_time": 1699439194,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2727681,
+        "num": 338039,
+        "word": "仲尼昨天生日",
+        "onboard_time": 1699449533,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1015429,
+        "num": 336333,
+        "word": "出轨丈夫去世 孩子要不要生",
+        "onboard_time": 1699433614,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712154,
+        "num": 335296,
+        "word": "时代峰峻的戒指是你家的吗",
+        "onboard_time": 1699447070,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 512072,
+        "num": 334472,
+        "word": "王安宇 内耗",
+        "onboard_time": 1699447070,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368811,
+        "num": 332628,
+        "word": "没有任何不动产但有100双鞋",
+        "onboard_time": 1699448389,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 425542,
+        "num": 331638,
+        "word": "papi酱又出rap了",
+        "onboard_time": 1699445442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331153,
+        "num": 331153,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312148,
+        "num": 312148,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 17,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 279312,
+        "num": 279312,
+        "word": "海南夜市的小吃有多朴实无华",
+        "onboard_time": 1699449470,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261389,
+        "num": 261389,
+        "word": "无期迷途 删角色",
+        "onboard_time": 1699445619,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287601,
+        "num": 257756,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252814,
+        "num": 252814,
+        "word": "天官赐福",
+        "onboard_time": 1699447309,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 241658,
+        "num": 241658,
+        "word": "爷爷用私房钱圆了奶奶公主梦",
+        "onboard_time": 1699444474,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 233328,
+        "num": 233328,
+        "word": "宁安如梦选角",
+        "onboard_time": 1699446344,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232658,
+        "num": 232658,
+        "word": "瘦不下来真的不能怪晚餐",
+        "onboard_time": 1699446770,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 215196,
+        "num": 215196,
+        "word": "癫公癫婆 使不完的牛劲",
+        "onboard_time": 1699435234,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213444,
+        "num": 213444,
+        "word": "陆家嘴公司买到毒地索赔100亿元",
+        "onboard_time": 1699430495,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197699,
+        "num": 197699,
+        "word": "刘些宁宁安如梦定妆vlog",
+        "onboard_time": 1699447969,
+        "rank": 27,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 192983,
+        "num": 192983,
+        "word": "张踩玲 外国人对中国属相的误解",
+        "onboard_time": 1699445737,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22624,
+        "num": 191430,
+        "word": "中高级家轿卷起来了",
+        "onboard_time": 1699449947,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190270,
+        "num": 190270,
+        "word": "宁安如梦 逃不掉大灯",
+        "onboard_time": 1699427138,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180243,
+        "num": 180243,
+        "word": "可可莉克",
+        "onboard_time": 1699450074,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188411,
+        "num": 179626,
+        "word": "比嫋嫋阿母还狠的母亲出现了",
+        "onboard_time": 1699440031,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176409,
+        "num": 176409,
+        "word": "花少真是七个浪漫笨蛋",
+        "onboard_time": 1699447070,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155601,
+        "num": 155601,
+        "word": "你的家乡立冬有什么习俗",
+        "onboard_time": 1699443632,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165327,
+        "num": 154869,
+        "word": "仙剑四变更为36集",
+        "onboard_time": 1699432595,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158701,
+        "num": 153580,
+        "word": "金莎问她是不是长了一张很容易受伤的脸",
+        "onboard_time": 1699440334,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150425,
+        "num": 150425,
+        "word": "15年后他代父亲续拍敬礼娃娃故事",
+        "onboard_time": 1699448634,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142206,
+        "num": 150422,
+        "word": "乳腺癌 男性",
+        "onboard_time": 1699425637,
+        "rank": 38,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 60107,
+        "num": 150418,
+        "word": "大熊猫遇上下雪天满地撒欢儿",
+        "onboard_time": 1699450377,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140635,
+        "num": 150413,
+        "word": "刘恺威 桌面清理大师",
+        "onboard_time": 1699440698,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135699,
+        "num": 150410,
+        "word": "立冬的第一件羽绒服你给爸爸买了吗",
+        "onboard_time": 1699449174,
+        "rank": 41,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 128184,
+        "num": 150405,
+        "word": "陆家嘴",
+        "onboard_time": 1699425397,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127911,
+        "num": 150405,
+        "word": "时宴的姻缘九十九分靠打拼",
+        "onboard_time": 1699444533,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126373,
+        "num": 150400,
+        "word": "朱锐斌学派",
+        "onboard_time": 1699427138,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119482,
+        "num": 150393,
+        "word": "小花的年纪 大花的气场",
+        "onboard_time": 1699439614,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 150391,
+        "word": "5元自助糯米饭",
+        "onboard_time": 1699443813,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117017,
+        "num": 150388,
+        "word": "内娱推心置腹的7分37秒",
+        "onboard_time": 1699442313,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102467,
+        "num": 150384,
+        "word": "为什么胰腺癌生存率这么低",
+        "onboard_time": 1699446953,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90076,
+        "num": 150380,
+        "word": "夫妻变卖房东3.6万元家电只愿赔3000",
+        "onboard_time": 1699433435,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}
