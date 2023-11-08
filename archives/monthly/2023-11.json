@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699464855673,
+  "endTime": 1699467724661,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -23089,6 +23089,14 @@
       "onboard_time": 1699208716,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 23183,
+      "num": 29297,
+      "word": "建议把这些开发成旅游项目卖给南方人",
+      "onboard_time": 1699467377,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 22624,
