@@ -1,0 +1,410 @@
+{
+  "runTime": 1699431682716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2099906,
+        "num": 2099906,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379697,
+        "num": 1379697,
+        "word": "陆家嘴",
+        "onboard_time": 1699425397,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19214,
+        "num": 1100872,
+        "word": "元宇宙体验2023金融街论坛年会",
+        "onboard_time": 1699431273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966141,
+        "num": 966141,
+        "word": "乳腺癌 男性",
+        "onboard_time": 1699425637,
+        "rank": 3,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 750545,
+        "num": 750545,
+        "word": "唐三葬",
+        "onboard_time": 1699426418,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 654127,
+        "num": 654127,
+        "word": "秦海璐肠绞痛痛到脸都白了",
+        "onboard_time": 1699423297,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596575,
+        "num": 596575,
+        "word": "宁安如梦 逃不掉大灯",
+        "onboard_time": 1699427138,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580751,
+        "num": 580751,
+        "word": "孟羽童一年半广告收入或达400万",
+        "onboard_time": 1699421672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533568,
+        "num": 533568,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 462743,
+        "num": 462743,
+        "word": "她赢了赌约 他占了便宜",
+        "onboard_time": 1699425701,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1702966,
+        "num": 461626,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1543064,
+        "num": 459866,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757633,
+        "num": 458627,
+        "word": "炎亚纶改名吴秉孺",
+        "onboard_time": 1699422813,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456843,
+        "num": 456843,
+        "word": "0713 轻舟已过万重山",
+        "onboard_time": 1699429534,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455359,
+        "num": 455359,
+        "word": "陆家嘴公司买到毒地索赔100亿元",
+        "onboard_time": 1699430495,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318932,
+        "num": 318932,
+        "word": "普通人画宋慧乔妆",
+        "onboard_time": 1699429360,
+        "rank": 15,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 366463,
+        "num": 317680,
+        "word": "秦海璐对迪丽热巴胡先煦还是太宠了",
+        "onboard_time": 1699428762,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307694,
+        "num": 307694,
+        "word": "白鹿台词 燕临你疯了",
+        "onboard_time": 1699431096,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298012,
+        "num": 298012,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290092,
+        "num": 290092,
+        "word": "韩国空乘患癌去世被认定宇宙辐射工伤",
+        "onboard_time": 1699421496,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285096,
+        "num": 285096,
+        "word": "辛芷蕾 对就这么宣传我",
+        "onboard_time": 1699427677,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269190,
+        "num": 269190,
+        "word": "胰腺癌为什么被称为癌中之王",
+        "onboard_time": 1699424799,
+        "rank": 21,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 265826,
+        "num": 265826,
+        "word": "王鹤棣曝光艺人聊天模板",
+        "onboard_time": 1699420893,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237662,
+        "num": 237662,
+        "word": "集团回应领导与女下属疑有不正当关系",
+        "onboard_time": 1699429832,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235717,
+        "num": 235717,
+        "word": "湖南卫视惊喜夜悬念节目单",
+        "onboard_time": 1699430973,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228323,
+        "num": 228323,
+        "word": "中山二院苏士成正常坐诊",
+        "onboard_time": 1699410571,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203938,
+        "num": 203938,
+        "word": "中山二院癌症患者家属称确实被踢出群聊",
+        "onboard_time": 1699424257,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191313,
+        "num": 191313,
+        "word": "杨超越露背紫纱裙",
+        "onboard_time": 1699425997,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177664,
+        "num": 177664,
+        "word": "刘亦菲迪士尼公主造型",
+        "onboard_time": 1699421431,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99336,
+        "num": 173230,
+        "word": "你的职业是颈腰椎疼痛重灾区吗",
+        "onboard_time": 1699430555,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168848,
+        "num": 168848,
+        "word": "景甜演飒女没有婴儿肥了",
+        "onboard_time": 1699428038,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168344,
+        "num": 168344,
+        "word": "长公主穿拖鞋",
+        "onboard_time": 1699430734,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156217,
+        "num": 156217,
+        "word": "朱锐斌学派",
+        "onboard_time": 1699427138,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151280,
+        "num": 151280,
+        "word": "为什么燕临不是男主",
+        "onboard_time": 1699430734,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150639,
+        "num": 150639,
+        "word": "张韶涵 杭州",
+        "onboard_time": 1699429773,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148605,
+        "num": 148605,
+        "word": "辛芷蕾说要爱上秦岚了",
+        "onboard_time": 1699431454,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138956,
+        "num": 138956,
+        "word": "中山二院称欢迎第三方机构评估调查",
+        "onboard_time": 1699414714,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134247,
+        "num": 134247,
+        "word": "王安宇胡先煦意见分歧",
+        "onboard_time": 1699425039,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 133974,
+        "word": "梅西进军电竞行业",
+        "onboard_time": 1699427502,
+        "rank": 38,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 125792,
+        "num": 125792,
+        "word": "成都警方通报地铁3号线打人事件",
+        "onboard_time": 1699424198,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132246,
+        "num": 125379,
+        "word": "涉过愤怒的海 尺度",
+        "onboard_time": 1699426780,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126050,
+        "num": 125145,
+        "word": "宁安如梦",
+        "onboard_time": 1699421314,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124509,
+        "num": 124509,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120124,
+        "num": 120124,
+        "word": "李雪琴简直就是我的互联网嘴替",
+        "onboard_time": 1699426118,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16550,
+        "num": 119031,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 118858,
+        "num": 118858,
+        "word": "MAMA阵容",
+        "onboard_time": 1699418560,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113385,
+        "num": 113385,
+        "word": "欧冠死亡之组现状",
+        "onboard_time": 1699428280,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112522,
+        "num": 112522,
+        "word": "88岁老人离世捐遗体成大体老师",
+        "onboard_time": 1699431454,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106426,
+        "num": 106426,
+        "word": "WBG获得选边权",
+        "onboard_time": 1699415134,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97685,
+        "num": 106015,
+        "word": "A股",
+        "onboard_time": 1699424139,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样关心文化根魂#"
+    }
+  }
+}

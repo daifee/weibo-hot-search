@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699428845747,
+  "endTime": 1699431682716,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -139,20 +139,20 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1379697,
+      "num": 1379697,
+      "word": "陆家嘴",
+      "onboard_time": 1699425397,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1302090,
       "num": 1302090,
       "word": "秦海璐肠绞痛痛到脸都白了",
       "onboard_time": 1699423297,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1192580,
-      "num": 1192580,
-      "word": "陆家嘴",
-      "onboard_time": 1699425397,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 1107179,
@@ -475,6 +475,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 456843,
+      "num": 456843,
+      "word": "0713 轻舟已过万重山",
+      "onboard_time": 1699429534,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 455359,
+      "num": 455359,
+      "word": "陆家嘴公司买到毒地索赔100亿元",
+      "onboard_time": 1699430495,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 430120,
       "num": 220543,
       "word": "他的一句玩命 我竟红了眼眶",
@@ -577,6 +593,14 @@
       "onboard_time": 1699400369,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366463,
+      "num": 317680,
+      "word": "秦海璐对迪丽热巴胡先煦还是太宠了",
+      "onboard_time": 1699428762,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 365786,
@@ -699,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 318932,
+      "num": 318932,
+      "word": "普通人画宋慧乔妆",
+      "onboard_time": 1699429360,
+      "rank": 15,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 313373,
       "num": 313373,
       "word": "3胞胎一起上学弟弟1人背负了所有",
@@ -720,6 +752,14 @@
       "word": "张凌赫痛失本名",
       "onboard_time": 1699413931,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 307694,
+      "num": 307694,
+      "word": "白鹿台词 燕临你疯了",
+      "onboard_time": 1699431096,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -883,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255482,
-      "num": 232762,
-      "word": "秦海璐对迪丽热巴胡先煦还是太宠了",
-      "onboard_time": 1699428762,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253577,
       "num": 253577,
       "word": "朱锐斌学派",
@@ -953,6 +985,22 @@
       "onboard_time": 1699405115,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237662,
+      "num": 237662,
+      "word": "集团回应领导与女下属疑有不正当关系",
+      "onboard_time": 1699429832,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235717,
+      "num": 235717,
+      "word": "湖南卫视惊喜夜悬念节目单",
+      "onboard_time": 1699430973,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 234709,
@@ -1459,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168344,
+      "num": 168344,
+      "word": "长公主穿拖鞋",
+      "onboard_time": 1699430734,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "周深清唱以爱为营宁安如梦OST",
@@ -1523,6 +1579,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 151280,
+      "num": 151280,
+      "word": "为什么燕临不是男主",
+      "onboard_time": 1699430734,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151214,
       "num": 151214,
       "word": "中山二院",
@@ -1539,12 +1603,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150639,
+      "num": 150639,
+      "word": "张韶涵 杭州",
+      "onboard_time": 1699429773,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149299,
       "num": 149299,
       "word": "李雪琴简直就是我的互联网嘴替",
       "onboard_time": 1699426118,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148605,
+      "num": 148605,
+      "word": "辛芷蕾说要爱上秦岚了",
+      "onboard_time": 1699431454,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148010,
@@ -1779,6 +1859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112522,
+      "num": 112522,
+      "word": "88岁老人离世捐遗体成大体老师",
+      "onboard_time": 1699431454,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110581,
       "num": 110581,
       "word": "张雨绮红毯状态",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1699359037,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99336,
+      "num": 173230,
+      "word": "你的职业是颈腰椎疼痛重灾区吗",
+      "onboard_time": 1699430555,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97442,
@@ -2001,6 +2097,14 @@
       "onboard_time": 1699366597,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19214,
+      "num": 1100872,
+      "word": "元宇宙体验2023金融街论坛年会",
+      "onboard_time": 1699431273,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17900,
