@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699407245322,
+  "endTime": 1699410344673,
   "band_list": [
     {
       "raw_hot": 5684556,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2267803,
-      "num": 412933,
+      "num": 549708,
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
@@ -51,8 +51,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 946935,
-      "num": 946935,
+      "raw_hot": 985792,
+      "num": 985792,
+      "word": "教资成绩",
+      "onboard_time": 1699409491,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 978351,
+      "num": 978351,
       "word": "金莎男友 大学生勇闯娱乐圈",
       "onboard_time": 1699403559,
       "rank": 4,
@@ -81,6 +89,14 @@
       "onboard_time": 1699371754,
       "rank": 11,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 821674,
+      "num": 821674,
+      "word": "教资面试",
+      "onboard_time": 1699410094,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 766176,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629849,
+      "num": 629849,
+      "word": "姜珮瑶 明媚的美",
+      "onboard_time": 1699409550,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598771,
       "num": 361576,
       "word": "巴勒斯坦总统车队遭袭",
@@ -124,19 +148,27 @@
     },
     {
       "raw_hot": 590881,
-      "num": 412760,
+      "num": 542525,
       "word": "HM先森家的HM",
       "onboard_time": 1699401753,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559435,
-      "num": 559435,
+      "raw_hot": 561552,
+      "num": 561552,
       "word": "女生研究方向太冷门花了2年造仪器",
       "onboard_time": 1699405298,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531752,
+      "num": 531752,
+      "word": "原神4.2",
+      "onboard_time": 1699409550,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 487313,
@@ -179,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411502,
+      "num": 411502,
+      "word": "许愿芙宁娜不歪",
+      "onboard_time": 1699409491,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 386377,
+      "num": 386377,
+      "word": "刘宇宁回应被说不配当演员",
+      "onboard_time": 1699406733,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370110,
       "num": 370110,
       "word": "王星越宁安如梦人设",
@@ -209,6 +257,14 @@
       "onboard_time": 1699404515,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347104,
+      "num": 347104,
+      "word": "丘索维金娜求购国货称已被征服",
+      "onboard_time": 1699408893,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 342088,
@@ -259,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313087,
+      "num": 301406,
+      "word": "低欲望生活让我26岁财务自由",
+      "onboard_time": 1699409252,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293271,
       "num": 293271,
       "word": "别高估一年别低估十年",
@@ -273,6 +337,14 @@
       "onboard_time": 1699364380,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288433,
+      "num": 288433,
+      "word": "金莎讲述与男友第一次见面的情景",
+      "onboard_time": 1699407993,
+      "rank": 21,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 277302,
@@ -403,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222924,
-      "num": 222924,
-      "word": "刘宇宁回应被说不配当演员",
-      "onboard_time": 1699406733,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 220406,
+      "num": 220406,
+      "word": "自求多芙",
+      "onboard_time": 1699409550,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 218299,
@@ -443,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210342,
+      "num": 210342,
+      "word": "民警从1200箱火龙果内缴毒3.7公斤",
+      "onboard_time": 1699409252,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210190,
       "num": 210190,
       "word": "七英俊",
@@ -473,6 +553,14 @@
       "onboard_time": 1699399886,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199346,
+      "num": 199346,
+      "word": "教资",
+      "onboard_time": 1699346075,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 198663,
@@ -547,12 +635,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175209,
+      "num": 175209,
+      "word": "秦海璐在大象岩给花少每个人拍了照片",
+      "onboard_time": 1699410270,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "周深清唱以爱为营宁安如梦OST",
       "onboard_time": 1699406672,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167410,
+      "num": 167410,
+      "word": "湖人为詹姆斯维权",
+      "onboard_time": 1699410152,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "最后沦为小人类的擦手巾",
+      "onboard_time": 1699407033,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 164587,
@@ -611,6 +723,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 144145,
+      "num": 144145,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141850,
+      "num": 141850,
+      "word": "马竞6比0凯尔特人",
+      "onboard_time": 1699410270,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138693,
       "num": 138693,
       "word": "金莎男友是山东蓝翔出来的吗",
@@ -627,20 +755,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 137117,
-      "num": 137117,
-      "word": "最后沦为小人类的擦手巾",
-      "onboard_time": 1699407033,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135357,
       "num": 135357,
       "word": "塞尔达传说真人电影官宣",
       "onboard_time": 1699401934,
       "rank": 45,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 135316,
+      "num": 135316,
+      "word": "我为什么放弃所谓的贵妇护肤品",
+      "onboard_time": 1699410094,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 134429,
@@ -659,20 +787,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131741,
-      "num": 177691,
-      "word": "教资",
-      "onboard_time": 1699346075,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 129162,
       "num": 129162,
       "word": "孤舟",
       "onboard_time": 1699371514,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "祖孙三人穿军装合照看破防",
+      "onboard_time": 1699408532,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126490,
@@ -683,11 +811,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125352,
+      "num": 125352,
+      "word": "宁安如梦人物关系图",
+      "onboard_time": 1699408292,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125056,
       "num": 125056,
       "word": "黄凯哭了",
       "onboard_time": 1699365995,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124923,
+      "num": 124923,
+      "word": "魏大勋跑男直播",
+      "onboard_time": 1699407757,
+      "rank": 49,
       "category": "综艺"
     },
     {

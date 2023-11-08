@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699407245322,
+  "endTime": 1699410344673,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 2267803,
-      "num": 412933,
+      "num": 549708,
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
@@ -2131,6 +2131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 985792,
+      "num": 985792,
+      "word": "教资成绩",
+      "onboard_time": 1699409491,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 983324,
       "num": 983324,
       "word": "白鹿张凌赫好会亲",
@@ -2145,6 +2153,14 @@
       "onboard_time": 1698975331,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978351,
+      "num": 978351,
+      "word": "金莎男友 大学生勇闯娱乐圈",
+      "onboard_time": 1699403559,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 970738,
@@ -2217,14 +2233,6 @@
       "onboard_time": 1699279660,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 946935,
-      "num": 946935,
-      "word": "金莎男友 大学生勇闯娱乐圈",
-      "onboard_time": 1699403559,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 933640,
@@ -2577,6 +2585,14 @@
       "onboard_time": 1699150051,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 821674,
+      "num": 821674,
+      "word": "教资面试",
+      "onboard_time": 1699410094,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 821493,
@@ -3779,6 +3795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 629849,
+      "num": 629849,
+      "word": "姜珮瑶 明媚的美",
+      "onboard_time": 1699409550,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628311,
       "num": 628311,
       "word": "宁安如梦6天连更16集",
@@ -4204,7 +4228,7 @@
     },
     {
       "raw_hot": 590881,
-      "num": 412760,
+      "num": 542525,
       "word": "HM先森家的HM",
       "onboard_time": 1699401753,
       "rank": 11,
@@ -4475,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561552,
+      "num": 561552,
+      "word": "女生研究方向太冷门花了2年造仪器",
+      "onboard_time": 1699405298,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561122,
       "num": 561122,
       "word": "飞了36年空姐最后一班飞行哭着告别",
@@ -4497,14 +4529,6 @@
       "onboard_time": 1698918934,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 559435,
-      "num": 559435,
-      "word": "女生研究方向太冷门花了2年造仪器",
-      "onboard_time": 1699405298,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558829,
@@ -4753,6 +4777,14 @@
       "onboard_time": 1699070431,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 531752,
+      "num": 531752,
+      "word": "原神4.2",
+      "onboard_time": 1699409550,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 531178,
@@ -6355,6 +6387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411502,
+      "num": 411502,
+      "word": "许愿芙宁娜不歪",
+      "onboard_time": 1699409491,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 411227,
       "num": 411227,
       "word": "不抗寒",
@@ -6841,6 +6881,14 @@
       "onboard_time": 1698749971,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386377,
+      "num": 386377,
+      "word": "刘宇宁回应被说不配当演员",
+      "onboard_time": 1699406733,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 386150,
@@ -7651,6 +7699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 347104,
+      "num": 347104,
+      "word": "丘索维金娜求购国货称已被征服",
+      "onboard_time": 1699408893,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 346587,
       "num": 346587,
       "word": "秦岚 人间卡皮巴拉",
@@ -8339,6 +8395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313087,
+      "num": 301406,
+      "word": "低欲望生活让我26岁财务自由",
+      "onboard_time": 1699409252,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312884,
       "num": 312884,
       "word": "快乐老友记定档",
@@ -8809,6 +8873,14 @@
       "onboard_time": 1699062571,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288433,
+      "num": 288433,
+      "word": "金莎讲述与男友第一次见面的情景",
+      "onboard_time": 1699407993,
+      "rank": 21,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 288145,
@@ -11411,14 +11483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222924,
-      "num": 222924,
-      "word": "刘宇宁回应被说不配当演员",
-      "onboard_time": 1699406733,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222792,
       "num": 222792,
       "word": "贾玲又来支持张小斐了",
@@ -11521,6 +11585,14 @@
       "onboard_time": 1699346135,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 220406,
+      "num": 220406,
+      "word": "自求多芙",
+      "onboard_time": 1699409550,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 220247,
@@ -11961,6 +12033,14 @@
       "onboard_time": 1698890734,
       "rank": 30,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 210342,
+      "num": 210342,
+      "word": "民警从1200箱火龙果内缴毒3.7公斤",
+      "onboard_time": 1699409252,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210334,
@@ -14579,6 +14659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175209,
+      "num": 175209,
+      "word": "秦海璐在大象岩给花少每个人拍了照片",
+      "onboard_time": 1699410270,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175143,
       "num": 175143,
       "word": "孩子手指夹断警车开道送医顺利手术",
@@ -15019,6 +15107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167410,
+      "num": 167410,
+      "word": "湖人为詹姆斯维权",
+      "onboard_time": 1699410152,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167401,
       "num": 167401,
       "word": "戚砚笛撒野造型破碎感",
@@ -15169,6 +15265,14 @@
       "onboard_time": 1699140682,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "最后沦为小人类的擦手巾",
+      "onboard_time": 1699407033,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 164862,
@@ -16699,6 +16803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144145,
+      "num": 144145,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143981,
       "num": 143981,
       "word": "万圣节",
@@ -16865,6 +16977,14 @@
       "onboard_time": 1699154190,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141850,
+      "num": 141850,
+      "word": "马竞6比0凯尔特人",
+      "onboard_time": 1699410270,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141846,
@@ -17123,14 +17243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137117,
-      "num": 137117,
-      "word": "最后沦为小人类的擦手巾",
-      "onboard_time": 1699407033,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136955,
       "num": 136955,
       "word": "给狗狗买了一个电话手表后",
@@ -17249,6 +17361,14 @@
       "onboard_time": 1699401934,
       "rank": 45,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 135316,
+      "num": 135316,
+      "word": "我为什么放弃所谓的贵妇护肤品",
+      "onboard_time": 1699410094,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 135110,
@@ -17899,6 +18019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "祖孙三人穿军装合照看破防",
+      "onboard_time": 1699408532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126852,
       "num": 126852,
       "word": "龚俊ELLE红毯G社生图",
@@ -18003,6 +18131,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 125352,
+      "num": 125352,
+      "word": "宁安如梦人物关系图",
+      "onboard_time": 1699408292,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125346,
       "num": 125346,
       "word": "enhypen预告照",
@@ -18025,6 +18161,14 @@
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124923,
+      "num": 124923,
+      "word": "魏大勋跑男直播",
+      "onboard_time": 1699407757,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124868,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699410344673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4816705,
+        "num": 4816705,
+        "word": "中山二院通报",
+        "onboard_time": 1699399346,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1570062,
+        "num": 1570062,
+        "word": "将睡眠时间延长至8小时对身心的变化",
+        "onboard_time": 1699400970,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55458,
+        "num": 1091974,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 985792,
+        "num": 985792,
+        "word": "教资成绩",
+        "onboard_time": 1699409491,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 978351,
+        "num": 978351,
+        "word": "金莎男友 大学生勇闯娱乐圈",
+        "onboard_time": 1699403559,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821674,
+        "num": 821674,
+        "word": "教资面试",
+        "onboard_time": 1699410094,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 696695,
+        "num": 696695,
+        "word": "宁安如梦 歹毒运镜",
+        "onboard_time": 1699399407,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645387,
+        "num": 645387,
+        "word": "立冬吃饺子",
+        "onboard_time": 1699399766,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 629849,
+        "num": 629849,
+        "word": "姜珮瑶 明媚的美",
+        "onboard_time": 1699409550,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561552,
+        "num": 561552,
+        "word": "女生研究方向太冷门花了2年造仪器",
+        "onboard_time": 1699405298,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1767854,
+        "num": 549708,
+        "word": "黄敏",
+        "onboard_time": 1699401332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577011,
+        "num": 542525,
+        "word": "HM先森家的HM",
+        "onboard_time": 1699401753,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531752,
+        "num": 531752,
+        "word": "原神4.2",
+        "onboard_time": 1699409550,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 411502,
+        "num": 411502,
+        "word": "许愿芙宁娜不歪",
+        "onboard_time": 1699409491,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396171,
+        "num": 396171,
+        "word": "今日立冬",
+        "onboard_time": 1699398505,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386377,
+        "num": 386377,
+        "word": "刘宇宁回应被说不配当演员",
+        "onboard_time": 1699406733,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374457,
+        "num": 374457,
+        "word": "与主播发生关系住持被停职",
+        "onboard_time": 1699368220,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347104,
+        "num": 347104,
+        "word": "丘索维金娜求购国货称已被征服",
+        "onboard_time": 1699408893,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 305769,
+        "num": 305769,
+        "word": "何泓姗8字发财刘海",
+        "onboard_time": 1699407152,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301949,
+        "num": 301949,
+        "word": "导师回应网传乳腺外科团队多人患癌",
+        "onboard_time": 1699366535,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313087,
+        "num": 301406,
+        "word": "低欲望生活让我26岁财务自由",
+        "onboard_time": 1699409252,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288433,
+        "num": 288433,
+        "word": "金莎讲述与男友第一次见面的情景",
+        "onboard_time": 1699407993,
+        "rank": 21,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 239544,
+        "num": 239544,
+        "word": "当以爱为营女主换成张元英",
+        "onboard_time": 1699371695,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237896,
+        "num": 237896,
+        "word": "牛牛变疯牛了",
+        "onboard_time": 1699404515,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232506,
+        "num": 232506,
+        "word": "妈妈用生理盐水帮宝宝冲洗鼻腔",
+        "onboard_time": 1699371754,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 220406,
+        "num": 220406,
+        "word": "自求多芙",
+        "onboard_time": 1699409550,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217829,
+        "num": 217829,
+        "word": "王星越宁安如梦人设",
+        "onboard_time": 1699400369,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210342,
+        "num": 210342,
+        "word": "民警从1200箱火龙果内缴毒3.7公斤",
+        "onboard_time": 1699409252,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199346,
+        "num": 199346,
+        "word": "教资",
+        "onboard_time": 1699346075,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197025,
+        "num": 197025,
+        "word": "女儿上网喊爸交学费乘警叫停及时止损",
+        "onboard_time": 1699398201,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184303,
+        "num": 184303,
+        "word": "魏大勋三碗水也能端平",
+        "onboard_time": 1699405236,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180830,
+        "num": 180830,
+        "word": "咱俩关系冬天一起去吃九件套不过分吧",
+        "onboard_time": 1699403134,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176798,
+        "num": 176798,
+        "word": "年度悬疑巨作你在说谎",
+        "onboard_time": 1699406494,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175209,
+        "num": 175209,
+        "word": "秦海璐在大象岩给花少每个人拍了照片",
+        "onboard_time": 1699410270,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167410,
+        "num": 167410,
+        "word": "湖人为詹姆斯维权",
+        "onboard_time": 1699410152,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166842,
+        "num": 166842,
+        "word": "陆毅说经常撸铁会长不高",
+        "onboard_time": 1699403616,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164884,
+        "num": 164884,
+        "word": "最后沦为小人类的擦手巾",
+        "onboard_time": 1699407033,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162571,
+        "num": 162571,
+        "word": "王鹤棣AllBlack",
+        "onboard_time": 1699405833,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161751,
+        "num": 161751,
+        "word": "从月入5K到15K后的生活变化",
+        "onboard_time": 1699368276,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161581,
+        "num": 161581,
+        "word": "宁安如梦预告",
+        "onboard_time": 1699401152,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "男子在雪人里放糖果供路人免费取用",
+        "onboard_time": 1699406672,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149094,
+        "num": 149094,
+        "word": "产妇羊水栓塞抢救15分钟后成功分娩",
+        "onboard_time": 1699398144,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144145,
+        "num": 144145,
+        "word": "14岁女儿被打父亲悬赏1万找打人者",
+        "onboard_time": 1699410094,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141850,
+        "num": 141850,
+        "word": "马竞6比0凯尔特人",
+        "onboard_time": 1699410270,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141136,
+        "num": 141136,
+        "word": "王彦霖和艾佳妮的破镜重圆",
+        "onboard_time": 1699406914,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135316,
+        "num": 135316,
+        "word": "我为什么放弃所谓的贵妇护肤品",
+        "onboard_time": 1699410094,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127908,
+        "num": 127908,
+        "word": "医生提醒不要皮肤一干就敷面膜",
+        "onboard_time": 1699398864,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126923,
+        "num": 126923,
+        "word": "祖孙三人穿军装合照看破防",
+        "onboard_time": 1699408532,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125352,
+        "num": 125352,
+        "word": "宁安如梦人物关系图",
+        "onboard_time": 1699408292,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124923,
+        "num": 124923,
+        "word": "魏大勋跑男直播",
+        "onboard_time": 1699407757,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从头回客与回头客中见证进博魅力#"
+    }
+  }
+}

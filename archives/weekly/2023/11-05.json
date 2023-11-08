@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699407245322,
+  "endTime": 1699410344673,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 2267803,
-      "num": 412933,
+      "num": 549708,
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
@@ -987,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985792,
+      "num": 985792,
+      "word": "教资成绩",
+      "onboard_time": 1699409491,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 983324,
       "num": 983324,
       "word": "白鹿张凌赫好会亲",
       "onboard_time": 1699361914,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 978351,
+      "num": 978351,
+      "word": "金莎男友 大学生勇闯娱乐圈",
+      "onboard_time": 1699403559,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 970406,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1699279660,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 946935,
-      "num": 946935,
-      "word": "金莎男友 大学生勇闯娱乐圈",
-      "onboard_time": 1699403559,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 929303,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1699150051,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 821674,
+      "num": 821674,
+      "word": "教资面试",
+      "onboard_time": 1699410094,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 813040,
@@ -1731,6 +1747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 629849,
+      "num": 629849,
+      "word": "姜珮瑶 明媚的美",
+      "onboard_time": 1699409550,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628311,
       "num": 628311,
       "word": "宁安如梦6天连更16集",
@@ -1924,7 +1948,7 @@
     },
     {
       "raw_hot": 590881,
-      "num": 412760,
+      "num": 542525,
       "word": "HM先森家的HM",
       "onboard_time": 1699401753,
       "rank": 11,
@@ -2035,8 +2059,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 559435,
-      "num": 559435,
+      "raw_hot": 561552,
+      "num": 561552,
       "word": "女生研究方向太冷门花了2年造仪器",
       "onboard_time": 1699405298,
       "rank": 23,
@@ -2169,6 +2193,14 @@
       "onboard_time": 1699112737,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 531752,
+      "num": 531752,
+      "word": "原神4.2",
+      "onboard_time": 1699409550,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 531178,
@@ -2891,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411502,
+      "num": 411502,
+      "word": "许愿芙宁娜不歪",
+      "onboard_time": 1699409491,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 411227,
       "num": 411227,
       "word": "不抗寒",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1699369358,
       "rank": 19,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 386377,
+      "num": 386377,
+      "word": "刘宇宁回应被说不配当演员",
+      "onboard_time": 1699406733,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 386150,
@@ -3379,6 +3427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 347104,
+      "num": 347104,
+      "word": "丘索维金娜求购国货称已被征服",
+      "onboard_time": 1699408893,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 346587,
       "num": 346587,
       "word": "秦岚 人间卡皮巴拉",
@@ -3715,6 +3771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313087,
+      "num": 301406,
+      "word": "低欲望生活让我26岁财务自由",
+      "onboard_time": 1699409252,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312884,
       "num": 312884,
       "word": "快乐老友记定档",
@@ -3905,6 +3969,14 @@
       "onboard_time": 1699116030,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288433,
+      "num": 288433,
+      "word": "金莎讲述与男友第一次见面的情景",
+      "onboard_time": 1699407993,
+      "rank": 21,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 285885,
@@ -5027,14 +5099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222924,
-      "num": 222924,
-      "word": "刘宇宁回应被说不配当演员",
-      "onboard_time": 1699406733,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222748,
       "num": 222748,
       "word": "檀健次还没拍完就开始宣传",
@@ -5089,6 +5153,14 @@
       "onboard_time": 1699346135,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 220406,
+      "num": 220406,
+      "word": "自求多芙",
+      "onboard_time": 1699409550,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 219884,
@@ -5273,6 +5345,14 @@
       "onboard_time": 1699186595,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210342,
+      "num": 210342,
+      "word": "民警从1200箱火龙果内缴毒3.7公斤",
+      "onboard_time": 1699409252,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210031,
@@ -6459,6 +6539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175209,
+      "num": 175209,
+      "word": "秦海璐在大象岩给花少每个人拍了照片",
+      "onboard_time": 1699410270,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174758,
       "num": 174758,
       "word": "幼儿园厨师做菜的一天",
@@ -6643,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167410,
+      "num": 167410,
+      "word": "湖人为詹姆斯维权",
+      "onboard_time": 1699410152,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166825,
       "num": 166825,
       "word": "天气温度断崖式下跌",
@@ -6705,6 +6801,14 @@
       "onboard_time": 1699101633,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "最后沦为小人类的擦手巾",
+      "onboard_time": 1699407033,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 164587,
@@ -7395,6 +7499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144145,
+      "num": 144145,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143944,
       "num": 143944,
       "word": "仿佛一对中年怨偶毫无感情的背课文",
@@ -7497,6 +7609,14 @@
       "onboard_time": 1699154190,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141850,
+      "num": 141850,
+      "word": "马竞6比0凯尔特人",
+      "onboard_time": 1699410270,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141811,
@@ -7619,14 +7739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137117,
-      "num": 137117,
-      "word": "最后沦为小人类的擦手巾",
-      "onboard_time": 1699407033,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136878,
       "num": 136878,
       "word": "大江大河3 江苏卫视",
@@ -7665,6 +7777,14 @@
       "onboard_time": 1699401934,
       "rank": 45,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 135316,
+      "num": 135316,
+      "word": "我为什么放弃所谓的贵妇护肤品",
+      "onboard_time": 1699410094,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 135037,
@@ -7947,6 +8067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "祖孙三人穿军装合照看破防",
+      "onboard_time": 1699408532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126819,
       "num": 131987,
       "word": "王霏霏唱跳全开麦live现场",
@@ -7987,12 +8115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125352,
+      "num": 125352,
+      "word": "宁安如梦人物关系图",
+      "onboard_time": 1699408292,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125139,
       "num": 125139,
       "word": "顾云峥 你对象是不是杀过鱼",
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124923,
+      "num": 124923,
+      "word": "魏大勋跑男直播",
+      "onboard_time": 1699407757,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124083,
