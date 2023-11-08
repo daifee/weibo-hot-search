@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699470855609,
+  "endTime": 1699472059344,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39489,
+      "num": 24752,
+      "word": "一场大雪温太医成癫公了",
+      "onboard_time": 1699469354,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37046,
       "num": 37046,
       "word": "王安宇 内耗",
@@ -459,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33271,
-      "num": 24752,
-      "word": "一场大雪温太医成癫公了",
-      "onboard_time": 1699469354,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 26988,
+      "num": 26988,
+      "word": "艾伦 谢谢你替我围上围巾",
+      "onboard_time": 1699470496,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 23538,
@@ -473,14 +481,6 @@
       "onboard_time": 1699467377,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15953,
-      "num": 18380,
-      "word": "艾伦 谢谢你替我围上围巾",
-      "onboard_time": 1699470496,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 3262,
