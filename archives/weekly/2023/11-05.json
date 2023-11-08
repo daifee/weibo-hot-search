@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699413475147,
+  "endTime": 1699414458941,
   "band_list": [
     {
       "raw_hot": 14555476,
@@ -531,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1549077,
+      "num": 528889,
+      "word": "14岁女儿被打父亲悬赏1万找打人者",
+      "onboard_time": 1699410094,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1544723,
       "num": 1544723,
       "word": "小胖激动到流鼻血",
@@ -747,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1252726,
-      "num": 484301,
-      "word": "14岁女儿被打父亲悬赏1万找打人者",
-      "onboard_time": 1699410094,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1240365,
       "num": 1240365,
       "word": "万科",
@@ -889,6 +889,14 @@
       "onboard_time": 1699328312,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1091919,
+      "num": 1091919,
+      "word": "90后公务员泄密获刑",
+      "onboard_time": 1699413153,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083594,
@@ -1083,6 +1091,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 914262,
+      "num": 914262,
+      "word": "姜珮瑶 明媚的美",
+      "onboard_time": 1699409550,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 912471,
       "num": 895967,
       "word": "卫健委回应网传中山二附院多名学生患癌",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1699246121,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857326,
-      "num": 857326,
-      "word": "姜珮瑶 明媚的美",
-      "onboard_time": 1699409550,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 855975,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1699251752,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 614001,
+      "num": 614001,
+      "word": "董明珠称孟羽童兼职接广告不合规",
+      "onboard_time": 1699413153,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 610986,
@@ -2763,6 +2779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436125,
+      "num": 436125,
+      "word": "杨幂俏皮丸子头",
+      "onboard_time": 1699413334,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 435105,
+      "num": 435105,
+      "word": "溺亡女医生遗书称被丈夫长期注射麻醉剂",
+      "onboard_time": 1699413692,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434122,
       "num": 257806,
       "word": "男子跑步成瘾留5岁女儿在车内数小时",
@@ -3128,6 +3160,14 @@
       "word": "没想到娜扎把辣椒当零食",
       "onboard_time": 1699151850,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 383616,
+      "num": 351571,
+      "word": "刘亦菲玫瑰故事新造型路透",
+      "onboard_time": 1699413571,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -3851,6 +3891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308579,
+      "num": 308579,
+      "word": "于适想要 于是得到",
+      "onboard_time": 1699413453,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308421,
       "num": 308421,
       "word": "Alin马嘉祺唱天若有情",
@@ -3897,6 +3945,14 @@
       "onboard_time": 1699154012,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299964,
+      "num": 299964,
+      "word": "原神 还不开门",
+      "onboard_time": 1699412129,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 299042,
@@ -4283,14 +4339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267818,
-      "num": 267818,
-      "word": "90后公务员泄密获刑",
-      "onboard_time": 1699413153,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266426,
       "num": 243753,
       "word": "金莎孙丞潇是奔着结婚谈恋爱的",
@@ -4315,20 +4363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265744,
+      "num": 265744,
+      "word": "张凌赫痛失本名",
+      "onboard_time": 1699413931,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265481,
       "num": 265481,
       "word": "魏大勋三碗水也能端平",
       "onboard_time": 1699405236,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265445,
-      "num": 265445,
-      "word": "原神 还不开门",
-      "onboard_time": 1699412129,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 265439,
@@ -5619,14 +5667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205012,
-      "num": 205012,
-      "word": "于适想要 于是得到",
-      "onboard_time": 1699413453,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204992,
       "num": 204992,
       "word": "哈工大暖廊",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1699280863,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202287,
+      "num": 202287,
+      "word": "电影红毯先生改档春节上映",
+      "onboard_time": 1699413571,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 201833,
@@ -5889,6 +5937,14 @@
       "onboard_time": 1699228471,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198208,
+      "num": 198208,
+      "word": "龚俊的上身身材",
+      "onboard_time": 1699413272,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 198125,
@@ -6179,14 +6235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191915,
-      "num": 191915,
-      "word": "龚俊的上身身材",
-      "onboard_time": 1699413272,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191051,
       "num": 108657,
       "word": "热刺单场两红",
@@ -6355,14 +6403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187912,
-      "num": 187912,
-      "word": "杨幂俏皮丸子头",
-      "onboard_time": 1699413334,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "OST用周深打周深",
@@ -6483,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185013,
+      "num": 185013,
+      "word": "内蒙男子开奥迪拽出被困雪地救护车",
+      "onboard_time": 1699412552,
+      "rank": 39,
+      "category": "社会正能量,汽车"
+    },
+    {
       "raw_hot": 184996,
       "num": 184996,
       "word": "刘诗诗 时光花园美人",
@@ -6537,14 +6585,6 @@
       "onboard_time": 1699346015,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182187,
-      "num": 182187,
-      "word": "内蒙男子开奥迪拽出被困雪地救护车",
-      "onboard_time": 1699412552,
-      "rank": 39,
-      "category": "社会正能量,汽车"
     },
     {
       "raw_hot": 182119,
@@ -6721,14 +6761,6 @@
       "onboard_time": 1699257694,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175567,
-      "num": 175567,
-      "word": "董明珠称孟羽童兼职接广告不合规",
-      "onboard_time": 1699413153,
-      "rank": 44,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 174758,
@@ -7033,6 +7065,14 @@
       "onboard_time": 1699378220,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163754,
+      "num": 163754,
+      "word": "乐游原 阿针爱上了阿强",
+      "onboard_time": 1699414113,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 163150,
@@ -7425,6 +7465,14 @@
       "onboard_time": 1699277980,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152656,
+      "num": 152656,
+      "word": "宁浩刘德华新片档期按资方说的来",
+      "onboard_time": 1699414293,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 152069,
@@ -7955,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134360,
+      "num": 480382,
+      "word": "立冬来了该抗寒了",
+      "onboard_time": 1699411590,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134260,
       "num": 117233,
       "word": "一句好久不见我直接破防",
@@ -7969,6 +8025,14 @@
       "onboard_time": 1699261411,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133834,
+      "num": 301117,
+      "word": "杨幂好甜好辣",
+      "onboard_time": 1699413272,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 133797,
@@ -8955,14 +9019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94586,
-      "num": 300339,
-      "word": "立冬来了该抗寒了",
-      "onboard_time": 1699411590,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94145,
       "num": 94145,
       "word": "怎么才能教育出一个自信的孩子",
@@ -9097,14 +9153,6 @@
       "onboard_time": 1699371453,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84021,
-      "num": 169090,
-      "word": "杨幂好甜好辣",
-      "onboard_time": 1699413272,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 83708,
