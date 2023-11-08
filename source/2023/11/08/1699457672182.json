@@ -1,0 +1,410 @@
+{
+  "runTime": 1699457672182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10473807,
+        "num": 10473807,
+        "word": "仲尼在巴厘岛遇难",
+        "onboard_time": 1699455235,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 3247527,
+        "num": 3247527,
+        "word": "酒店讲述仲尼巴厘岛遇难细节",
+        "onboard_time": 1699456610,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 85441,
+        "num": 1326679,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699452654,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1243535,
+        "num": 1243535,
+        "word": "瑞幸 罗翔",
+        "onboard_time": 1699452654,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 682999,
+        "num": 682999,
+        "word": "中山二院癌症患者黄某家属发声",
+        "onboard_time": 1699419876,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604035,
+        "num": 604035,
+        "word": "青簪行彭冠英补拍",
+        "onboard_time": 1699456312,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570420,
+        "num": 570420,
+        "word": "苏醒说欢迎卢昱晓加入娱乐圈",
+        "onboard_time": 1699456014,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522973,
+        "num": 522973,
+        "word": "花少5第一次真正的矛盾来了",
+        "onboard_time": 1699439614,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218882,
+        "num": 436792,
+        "word": "中山二院黄某家属称其病情严重",
+        "onboard_time": 1699450673,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390209,
+        "num": 390209,
+        "word": "南航",
+        "onboard_time": 1699451092,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8595661,
+        "num": 390191,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 3179927,
+        "num": 390028,
+        "word": "卡琳娜",
+        "onboard_time": 1699449352,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1318891,
+        "num": 389827,
+        "word": "仲尼昨天生日",
+        "onboard_time": 1699449533,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1057921,
+        "num": 389710,
+        "word": "韵达",
+        "onboard_time": 1699453379,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394772,
+        "num": 389479,
+        "word": "时代峰峻的戒指是你家的吗",
+        "onboard_time": 1699447070,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389420,
+        "num": 389420,
+        "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+        "onboard_time": 1699447550,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385446,
+        "num": 385446,
+        "word": "出轨丈夫去世 孩子要不要生",
+        "onboard_time": 1699433614,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370195,
+        "num": 370195,
+        "word": "时宴他慌了",
+        "onboard_time": 1699451580,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366142,
+        "num": 366142,
+        "word": "花少后期多剪一秒就露馅了",
+        "onboard_time": 1699455115,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361299,
+        "num": 361299,
+        "word": "河南新乡警方通报两女子浑身是血倒在街头",
+        "onboard_time": 1699456014,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098618,
+        "num": 359605,
+        "word": "仲尼公司员工称联系不上他",
+        "onboard_time": 1699454579,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 349805,
+        "num": 349805,
+        "word": "TFBOYS十周年专辑戒指",
+        "onboard_time": 1699456909,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349389,
+        "num": 349389,
+        "word": "刘亦菲张靓颖合照",
+        "onboard_time": 1699450854,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343437,
+        "num": 343437,
+        "word": "原来真的有人会饿成这样",
+        "onboard_time": 1699454579,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315105,
+        "num": 334192,
+        "word": "网传扬州一女子捂死女儿后跳楼",
+        "onboard_time": 1699456014,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334105,
+        "num": 334105,
+        "word": "刘恺威肘击颖儿",
+        "onboard_time": 1699438294,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326446,
+        "num": 326446,
+        "word": "罗云熙官宣水龙吟",
+        "onboard_time": 1699454753,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307348,
+        "num": 307348,
+        "word": "GTA6",
+        "onboard_time": 1699453492,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304406,
+        "num": 304406,
+        "word": "迪丽热巴 丑衣服穿出文艺感",
+        "onboard_time": 1699426902,
+        "rank": 28,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 278097,
+        "num": 278097,
+        "word": "权志龙3个百万直拍",
+        "onboard_time": 1699456730,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264782,
+        "num": 264782,
+        "word": "颖儿 学会了新词癫婆",
+        "onboard_time": 1699454634,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261813,
+        "num": 261813,
+        "word": "涂山璟捡起来的从来都不是浪漫",
+        "onboard_time": 1699451693,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207057,
+        "num": 207057,
+        "word": "你以为直腿的动作vs实际直腿的动作",
+        "onboard_time": 1699455712,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182808,
+        "num": 182808,
+        "word": "25岁女子欲离婚被丈夫割喉杀害",
+        "onboard_time": 1699425397,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162881,
+        "num": 162881,
+        "word": "肉装妲己翻身困难被同伴嘲笑",
+        "onboard_time": 1699452051,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 248579,
+        "num": 162514,
+        "word": "宁安如梦爱奇艺热度值破9000",
+        "onboard_time": 1699455054,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235660,
+        "num": 161582,
+        "word": "田曦薇星河公主裙",
+        "onboard_time": 1699455472,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159417,
+        "num": 159417,
+        "word": "三只大熊猫即将回国",
+        "onboard_time": 1699453194,
+        "rank": 37,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 159151,
+        "num": 159151,
+        "word": "美香 回国",
+        "onboard_time": 1699439194,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148723,
+        "num": 148723,
+        "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+        "onboard_time": 1699456970,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229347,
+        "num": 148654,
+        "word": "aespa主打曲Drama预听",
+        "onboard_time": 1699455588,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202369,
+        "num": 147783,
+        "word": "时宴发朋友圈表白",
+        "onboard_time": 1699456671,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172081,
+        "num": 147360,
+        "word": "85四大青衣提名",
+        "onboard_time": 1699452595,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 146128,
+        "word": "孟羽童在职曾发65篇非格力产品内容",
+        "onboard_time": 1699423897,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145996,
+        "num": 145996,
+        "word": "王安宇 内耗",
+        "onboard_time": 1699447070,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142830,
+        "num": 142830,
+        "word": "中山二院",
+        "onboard_time": 1699450673,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128129,
+        "num": 128129,
+        "word": "刘些宁像书里走出来的长公主",
+        "onboard_time": 1699457626,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127279,
+        "num": 127279,
+        "word": "papi酱又出rap了",
+        "onboard_time": 1699445442,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121041,
+        "num": 121041,
+        "word": "无期迷途 删角色",
+        "onboard_time": 1699445619,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112018,
+        "num": 112018,
+        "word": "幼童突发抽搐老师一分钟紧急送医",
+        "onboard_time": 1699453435,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}

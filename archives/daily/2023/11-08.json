@@ -1,6 +1,6 @@
 {
   "startTime": 1699374181385,
-  "endTime": 1699456685892,
+  "endTime": 1699457672182,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -57,6 +57,14 @@
       "onboard_time": 1699419876,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3247527,
+      "num": 3247527,
+      "word": "酒店讲述仲尼巴厘岛遇难细节",
+      "onboard_time": 1699456610,
+      "rank": 5,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2727681,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1057921,
+      "num": 570615,
+      "word": "韵达",
+      "onboard_time": 1699453379,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018037,
       "num": 1018037,
       "word": "成都地铁3号线打人男子被行拘",
@@ -297,14 +313,6 @@
       "onboard_time": 1699409491,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 972492,
-      "num": 570615,
-      "word": "韵达",
-      "onboard_time": 1699453379,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 941478,
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 712516,
-      "num": 712516,
-      "word": "酒店讲述仲尼巴厘岛遇难细节",
-      "onboard_time": 1699456610,
-      "rank": 5,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 673586,
       "num": 673586,
       "word": "白鹿台词 燕临你疯了",
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 604035,
+      "num": 604035,
+      "word": "青簪行彭冠英补拍",
+      "onboard_time": 1699456312,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 602253,
       "num": 602253,
       "word": "刘亦菲于适配音迪士尼新片星愿",
@@ -576,6 +584,14 @@
       "word": "王安宇 内耗",
       "onboard_time": 1699447070,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 570420,
+      "num": 570420,
+      "word": "苏醒说欢迎卢昱晓加入娱乐圈",
+      "onboard_time": 1699456014,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -891,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366142,
+      "num": 366142,
+      "word": "花少后期多剪一秒就露馅了",
+      "onboard_time": 1699455115,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365786,
       "num": 365786,
       "word": "于适想要 于是得到",
@@ -921,6 +945,14 @@
       "onboard_time": 1699422213,
       "rank": 13,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 361299,
+      "num": 361299,
+      "word": "河南新乡警方通报两女子浑身是血倒在街头",
+      "onboard_time": 1699456014,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359262,
@@ -971,12 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345813,
-      "num": 345813,
-      "word": "花少后期多剪一秒就露馅了",
-      "onboard_time": 1699455115,
+      "raw_hot": 349805,
+      "num": 349805,
+      "word": "TFBOYS十周年专辑戒指",
+      "onboard_time": 1699456909,
       "rank": 21,
-      "category": "综艺"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345663,
@@ -1099,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315105,
+      "num": 334192,
+      "word": "网传扬州一女子捂死女儿后跳楼",
+      "onboard_time": 1699456014,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314763,
       "num": 314763,
       "word": "韦世豪红牌",
@@ -1187,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294304,
-      "num": 294304,
-      "word": "苏醒说欢迎卢昱晓加入娱乐圈",
-      "onboard_time": 1699456014,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293271,
       "num": 293271,
       "word": "别高估一年别低估十年",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1699449470,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 278097,
+      "num": 278097,
+      "word": "权志龙3个百万直拍",
+      "onboard_time": 1699456730,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 277302,
@@ -1427,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253387,
-      "num": 253387,
-      "word": "青簪行彭冠英补拍",
-      "onboard_time": 1699456312,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251148,
       "num": 251148,
       "word": "比嫋嫋阿母还狠的母亲出现了",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1699424742,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248579,
+      "num": 233703,
+      "word": "宁安如梦爱奇艺热度值破9000",
+      "onboard_time": 1699455054,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 246417,
@@ -1555,14 +1595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233703,
-      "num": 233703,
-      "word": "宁安如梦爱奇艺热度值破9000",
-      "onboard_time": 1699455054,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233316,
       "num": 233316,
       "word": "魏大勋黄明昊宋亚轩贾玲你们听到了吗",
@@ -1617,14 +1649,6 @@
       "onboard_time": 1699368759,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228485,
-      "num": 317624,
-      "word": "河南新乡警方通报两女子浑身是血倒在街头",
-      "onboard_time": 1699456014,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226129,
@@ -1747,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213554,
-      "num": 234014,
-      "word": "网传扬州一女子捂死女儿后跳楼",
-      "onboard_time": 1699456014,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212556,
       "num": 212556,
       "word": "时之歌",
@@ -1843,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207057,
+      "num": 207057,
+      "word": "你以为直腿的动作vs实际直腿的动作",
+      "onboard_time": 1699455712,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 206957,
       "num": 206957,
       "word": "成都警方通报地铁3号线打人事件",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1699418977,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202369,
+      "num": 147783,
+      "word": "时宴发朋友圈表白",
+      "onboard_time": 1699456671,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 202287,
@@ -2081,14 +2113,6 @@
       "onboard_time": 1699373072,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188870,
-      "num": 188870,
-      "word": "你以为直腿的动作vs实际直腿的动作",
-      "onboard_time": 1699455712,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 188032,
@@ -2491,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148723,
+      "num": 148723,
+      "word": "航班乘客心脏骤停清华长庚医生紧急救援",
+      "onboard_time": 1699456970,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148010,
       "num": 148010,
       "word": "00后用AI整顿催婚",
@@ -2585,14 +2617,6 @@
       "onboard_time": 1699431454,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135722,
-      "num": 135722,
-      "word": "时宴发朋友圈表白",
-      "onboard_time": 1699456671,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 135699,
@@ -2696,6 +2720,14 @@
       "word": "孤舟",
       "onboard_time": 1699371514,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128129,
+      "num": 128129,
+      "word": "刘些宁像书里走出来的长公主",
+      "onboard_time": 1699457626,
+      "rank": 46,
       "category": "剧集"
     },
     {
