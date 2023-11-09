@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699568188716,
+  "endTime": 1699569242279,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4875,6 +4875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372981,
+      "num": 372981,
+      "word": "央行回应取消跨行提现手续费",
+      "onboard_time": 1699563133,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 372951,
       "num": 372951,
       "word": "披荆斩棘",
@@ -6617,14 +6625,6 @@
       "onboard_time": 1699437032,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266592,
-      "num": 266592,
-      "word": "央行回应取消跨行提现手续费",
-      "onboard_time": 1699563133,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 266426,
@@ -13379,6 +13379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97982,
+      "num": 97982,
+      "word": "高三女孩跳河2男子划桨板1分钟救回",
+      "onboard_time": 1699564334,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97442,
       "num": 97442,
       "word": "伊朗总统将前往沙特",
@@ -13899,14 +13907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73691,
-      "num": 73691,
-      "word": "高三女孩跳河2男子划桨板1分钟救回",
-      "onboard_time": 1699564334,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72941,
       "num": 117630,
       "word": "三星堆文物的工艺有多牛",
@@ -14065,6 +14065,14 @@
       "onboard_time": 1699101397,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63434,
+      "num": 43616,
+      "word": "中山二院一患癌医生去年已发现肿瘤",
+      "onboard_time": 1699553537,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62261,
@@ -14291,14 +14299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43899,
-      "num": 36227,
-      "word": "中山二院一患癌医生去年已发现肿瘤",
-      "onboard_time": 1699553537,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42712,
       "num": 304753,
       "word": "vivo即将发布X100",
@@ -14329,6 +14329,14 @@
       "onboard_time": 1699470496,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 40435,
+      "num": 40435,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 39093,
@@ -14395,28 +14403,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28116,
+      "num": 57434,
+      "word": "流浪汉被民警救助后坦白是命案逃犯",
+      "onboard_time": 1699551138,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27796,
       "num": 27796,
       "word": "Mark泰容泰民跳了Guilty",
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27683,
-      "num": 27683,
-      "word": "宝宝也没想到一出生就危机四伏",
-      "onboard_time": 1699555336,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 26844,
-      "num": 57434,
-      "word": "流浪汉被民警救助后坦白是命案逃犯",
-      "onboard_time": 1699551138,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26090,
@@ -14563,6 +14563,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 16768,
+      "num": 21269,
+      "word": "B太游北方计划",
+      "onboard_time": 1699556893,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 16722,
       "num": 21811,
       "word": "琉璃花瓣浴",
@@ -14585,14 +14593,6 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14696,
-      "num": 19803,
-      "word": "B太游北方计划",
-      "onboard_time": 1699556893,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 14263,
