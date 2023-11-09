@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699557242690,
+  "endTime": 1699558461063,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -14539,6 +14539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 16722,
+      "num": 21811,
+      "word": "琉璃花瓣浴",
+      "onboard_time": 1699556954,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16297,
       "num": 202622,
       "word": "B级车上市只卖A级车价格",
@@ -14563,12 +14571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14167,
-      "num": 21811,
-      "word": "琉璃花瓣浴",
-      "onboard_time": 1699556954,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 13729,
+      "num": 19830,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 12895,
@@ -14577,6 +14585,14 @@
       "onboard_time": 1699534171,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 12395,
+      "num": 19803,
+      "word": "B太游北方计划",
+      "onboard_time": 1699556893,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 8351,
