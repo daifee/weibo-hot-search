@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699554118010,
+  "endTime": 1699554898671,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -275,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103248,
+      "num": 103248,
+      "word": "浙江大学夜跑放的是凤凰传奇的歌",
+      "onboard_time": 1699547966,
+      "rank": 21,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 100511,
       "num": 100511,
       "word": "央视独家披露河南42死火灾现场视频",
       "onboard_time": 1699531350,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95319,
-      "num": 95319,
-      "word": "浙江大学夜跑放的是凤凰传奇的歌",
-      "onboard_time": 1699547966,
-      "rank": 21,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 94685,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40307,
+      "num": 36227,
+      "word": "中山二院一患癌医生去年已发现肿瘤",
+      "onboard_time": 1699553537,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36927,
       "num": 57443,
       "word": "王牌对王牌全员参加村BA运动会",
@@ -441,14 +449,6 @@
       "onboard_time": 1699503877,
       "rank": 49,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 26856,
-      "num": 28349,
-      "word": "中山二院一患癌医生去年已发现肿瘤",
-      "onboard_time": 1699553537,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26844,
