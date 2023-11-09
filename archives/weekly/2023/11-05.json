@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699497393791,
+  "endTime": 1699499865072,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 2082330,
-      "num": 246216,
+      "num": 466931,
       "word": "搜救人士称卡琳娜也曾呛水晕倒",
       "onboard_time": 1699489963,
       "rank": 32,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1955923,
+      "num": 342903,
+      "word": "卡琳娜取消重庆漫展行程",
+      "onboard_time": 1699487070,
+      "rank": 20,
+      "category": "网红,动漫"
+    },
+    {
       "raw_hot": 1955073,
       "num": 1955073,
       "word": "刘恺威肘击颖儿",
@@ -481,14 +489,6 @@
       "onboard_time": 1699313248,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1904301,
-      "num": 224932,
-      "word": "卡琳娜取消重庆漫展行程",
-      "onboard_time": 1699487070,
-      "rank": 20,
-      "category": "网红,动漫"
     },
     {
       "raw_hot": 1904111,
@@ -1595,6 +1595,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 825384,
+      "num": 461383,
+      "word": "邓紫棋发错群消息",
+      "onboard_time": 1699495595,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824837,
       "num": 824837,
       "word": "卫健委通报医院贩卖出生证及婴儿",
@@ -1779,14 +1787,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 775158,
-      "num": 427213,
-      "word": "邓紫棋发错群消息",
-      "onboard_time": 1699495595,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 767466,
       "num": 767466,
       "word": "与凤行 江苏卫视",
@@ -1833,6 +1833,14 @@
       "onboard_time": 1699427138,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 752516,
+      "num": 444716,
+      "word": "金智媛老公姐",
+      "onboard_time": 1699496613,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 749122,
@@ -2347,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613637,
+      "num": 613637,
+      "word": "开国少将文击逝世",
+      "onboard_time": 1699498893,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610986,
       "num": 610986,
       "word": "童瑶这个妆容灵感是孙悟空吗",
@@ -2491,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 593324,
+      "num": 593324,
+      "word": "中山二院内部人士否认网传实验室泄露",
+      "onboard_time": 1699498172,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591372,
       "num": 438891,
       "word": "他就拿刀子戳了几下 朱丹就这么仰望",
@@ -2592,6 +2616,14 @@
       "word": "三个少年2官宣",
       "onboard_time": 1699241555,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 570626,
+      "num": 570626,
+      "word": "装修才是当代年轻人最好的医丑",
+      "onboard_time": 1699497631,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2811,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530320,
+      "num": 435278,
+      "word": "秦霄贤周扬青直球式告白",
+      "onboard_time": 1699498532,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528436,
       "num": 528436,
       "word": "韩国的婴儿车里都是小狗",
@@ -2969,14 +3009,6 @@
       "onboard_time": 1699361736,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 502705,
-      "num": 419722,
-      "word": "金智媛老公姐",
-      "onboard_time": 1699496613,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 502369,
@@ -3483,6 +3515,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 433926,
+      "num": 433926,
+      "word": "皇马放弃姆巴佩",
+      "onboard_time": 1699497571,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433184,
       "num": 1201595,
       "word": "东北朋友送给全国的第一场雪",
@@ -3785,6 +3825,14 @@
       "onboard_time": 1699255592,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401896,
+      "num": 401896,
+      "word": "刘强东老家水龙头已换新",
+      "onboard_time": 1699497693,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400639,
@@ -4451,6 +4499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343275,
+      "num": 343275,
+      "word": "秦海璐一句话误伤迪丽热巴",
+      "onboard_time": 1699499253,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343221,
       "num": 248677,
       "word": "长相思回春堂番外小剧场",
@@ -4977,6 +5033,14 @@
       "onboard_time": 1699326868,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303742,
+      "num": 303742,
+      "word": "以爱为营处处吻",
+      "onboard_time": 1699499193,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 303647,
@@ -5603,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264162,
+      "num": 264162,
+      "word": "谈判桌上互扔水果",
+      "onboard_time": 1699497032,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263898,
       "num": 236777,
       "word": "家里猫猫竟突然复活",
@@ -5705,6 +5777,14 @@
       "onboard_time": 1699259431,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256932,
+      "num": 256932,
+      "word": "JDG获得选边权",
+      "onboard_time": 1699499193,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 256400,
@@ -6875,6 +6955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214877,
+      "num": 214877,
+      "word": "凡人歌开机",
+      "onboard_time": 1699497393,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214554,
       "num": 195366,
       "word": "近视眼正确化妆思路",
@@ -7057,6 +7145,14 @@
       "onboard_time": 1699431753,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 209849,
+      "num": 209849,
+      "word": "快船三连败",
+      "onboard_time": 1699499554,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 209819,
@@ -7923,14 +8019,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 193507,
-      "num": 183375,
-      "word": "谈判桌上互扔水果",
-      "onboard_time": 1699497032,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193498,
       "num": 193498,
       "word": "王曼昱世界排名第二",
@@ -8715,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174491,
+      "num": 174491,
+      "word": "白鹿张凌赫微指破亿",
+      "onboard_time": 1699499374,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "周也说檀健次是剧组最辛苦担当",
@@ -8817,6 +8913,14 @@
       "onboard_time": 1699410872,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171181,
+      "num": 171181,
+      "word": "美国演员埃文埃林森猝逝",
+      "onboard_time": 1699499614,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 171175,
@@ -9563,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152725,
+      "num": 152725,
+      "word": "张云雷新歌琉璃盏MV",
+      "onboard_time": 1699498471,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152704,
       "num": 185084,
       "word": "为什么胰腺癌生存率这么低",
@@ -9665,6 +9777,14 @@
       "onboard_time": 1699228771,
       "rank": 32,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 150843,
+      "num": 150843,
+      "word": "美国演员工会罢工结束",
+      "onboard_time": 1699498235,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150775,
@@ -9945,6 +10065,14 @@
       "onboard_time": 1699327109,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144363,
+      "num": 144363,
+      "word": "张惠妹广州抢票",
+      "onboard_time": 1699499311,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 143944,
@@ -10705,6 +10833,14 @@
       "onboard_time": 1699339591,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125900,
+      "num": 125900,
+      "word": "惊奇队长2开分",
+      "onboard_time": 1699499851,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 125848,
