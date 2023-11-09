@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699534123062,
+  "endTime": 1699536026476,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2088333,
-      "num": 193433,
+      "num": 211599,
       "word": "卡琳娜未要求对仲尼尸检",
       "onboard_time": 1699529733,
       "rank": 30,
@@ -251,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1241127,
+      "num": 862117,
+      "word": "中山二院乳腺肿瘤实验室负责人信息摘除",
+      "onboard_time": 1699532014,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237727,
       "num": 1237727,
       "word": "这萧剑晴儿还能认出吗",
@@ -291,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 882685,
+      "raw_hot": 1017747,
       "num": 478284,
       "word": "原来绝经不是一下子就没了",
       "onboard_time": 1699530212,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 951163,
+      "num": 951163,
+      "word": "金莎说把我的恋爱脑炖了吧",
+      "onboard_time": 1699533814,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 825776,
@@ -360,14 +376,6 @@
       "word": "中国科协就中山二院3人患癌发声",
       "onboard_time": 1699517133,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 788908,
-      "num": 788908,
-      "word": "中山二院乳腺肿瘤实验室负责人信息摘除",
-      "onboard_time": 1699532014,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -571,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599635,
+      "num": 599635,
+      "word": "华为发布首款纯电轿车智界S7",
+      "onboard_time": 1699532912,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 599381,
       "num": 599381,
       "word": "中山二院内部人士否认网传实验室泄露",
@@ -659,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 531032,
-      "num": 531032,
-      "word": "华为发布首款纯电轿车智界S7",
-      "onboard_time": 1699532912,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 530320,
       "num": 484898,
       "word": "秦霄贤周扬青直球式告白",
@@ -739,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473533,
+      "num": 397242,
+      "word": "王安宇在花少打了几份工",
+      "onboard_time": 1699531774,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469604,
       "num": 469604,
       "word": "以爱为营处处吻",
@@ -753,14 +769,6 @@
       "onboard_time": 1699447550,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467256,
-      "num": 397242,
-      "word": "王安宇在花少打了几份工",
-      "onboard_time": 1699531774,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 466924,
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404826,
+      "num": 290795,
+      "word": "宁安如梦爱奇艺热度值破9500",
+      "onboard_time": 1699534833,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400639,
       "num": 400639,
       "word": "刘些宁宁安如梦状态",
@@ -945,6 +961,14 @@
       "onboard_time": 1699512691,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386021,
+      "num": 211527,
+      "word": "玲子参加婚礼",
+      "onboard_time": 1699534294,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 382269,
@@ -1051,6 +1075,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343934,
+      "num": 343934,
+      "word": "央视独家披露河南42死火灾现场视频",
+      "onboard_time": 1699531350,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343443,
+      "num": 277893,
+      "word": "智界S7首发华为途灵智能底盘",
+      "onboard_time": 1699533933,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 343075,
       "num": 343075,
       "word": "胰腺癌的内外因",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1699488457,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328848,
+      "num": 266107,
+      "word": "杨幂暗夜星河长裙",
+      "onboard_time": 1699533633,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326438,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1699500333,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294961,
-      "num": 294961,
-      "word": "央视独家披露河南42死火灾现场视频",
-      "onboard_time": 1699531350,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294182,
@@ -1379,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263816,
+      "num": 263816,
+      "word": "SM将2024年推出新男团",
+      "onboard_time": 1699535493,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263252,
       "num": 263252,
       "word": "莫文蔚公开绝版写真",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1699490139,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255916,
+      "num": 255916,
+      "word": "张家界涉事正新鸡排加盟店已被查封",
+      "onboard_time": 1699535132,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253279,
@@ -1523,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241820,
+      "num": 241820,
+      "word": "王牌对王牌全员参加村BA运动会",
+      "onboard_time": 1699533451,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240227,
       "num": 240227,
       "word": "匪我思存 为什么要写这样两个人物",
@@ -1544,6 +1608,14 @@
       "word": "李承鄞的嘴长李嶷身上了",
       "onboard_time": 1699503457,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234048,
+      "num": 234048,
+      "word": "姜雪宁谢危张遮修罗场要来了",
+      "onboard_time": 1699533570,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1683,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211017,
+      "num": 211017,
+      "word": "Letme 连麦",
+      "onboard_time": 1699533570,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209607,
       "num": 209607,
       "word": "原神4.2版本",
@@ -1721,14 +1801,6 @@
       "onboard_time": 1699496256,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208657,
-      "num": 208657,
-      "word": "杨幂暗夜星河长裙",
-      "onboard_time": 1699533633,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208369,
@@ -1875,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195648,
+      "num": 195648,
+      "word": "差点忘记秦岚原来的声音",
+      "onboard_time": 1699533272,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194934,
       "num": 194934,
       "word": "约9成海边溺水是因为离岸流",
@@ -1929,14 +2009,6 @@
       "onboard_time": 1699510650,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188921,
-      "num": 188921,
-      "word": "差点忘记秦岚原来的声音",
-      "onboard_time": 1699533272,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 187652,
@@ -1995,12 +2067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179171,
-      "num": 179171,
-      "word": "王牌对王牌全员参加村BA运动会",
-      "onboard_time": 1699533451,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 180950,
+      "num": 180950,
+      "word": "智界S7首发评测",
+      "onboard_time": 1699535192,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 179867,
+      "num": 319312,
+      "word": "拼多多治好了我的双11焦虑",
+      "onboard_time": 1699530332,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 178242,
@@ -2033,14 +2113,6 @@
       "onboard_time": 1699522353,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174894,
-      "num": 174894,
-      "word": "Letme 连麦",
-      "onboard_time": 1699533570,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 174792,
@@ -2147,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162638,
+      "num": 162638,
+      "word": "花3000块就吃了一碗粉条",
+      "onboard_time": 1699535555,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161972,
       "num": 161972,
       "word": "鸡蛋的天花板料理",
@@ -2161,6 +2241,14 @@
       "onboard_time": 1699521632,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158646,
+      "num": 158646,
+      "word": "方程豹豹5 价格",
+      "onboard_time": 1699535855,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 158434,
@@ -2193,14 +2281,6 @@
       "onboard_time": 1699488277,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 153856,
-      "num": 153856,
-      "word": "姜雪宁谢危张遮修罗场要来了",
-      "onboard_time": 1699533570,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 153691,
@@ -2267,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150684,
-      "num": 173627,
-      "word": "智界S7首发华为途灵智能底盘",
-      "onboard_time": 1699533933,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 148624,
       "num": 148624,
       "word": "以爱为营 接吻百科",
@@ -2297,14 +2369,6 @@
       "onboard_time": 1699509393,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145908,
-      "num": 274755,
-      "word": "拼多多治好了我的双11焦虑",
-      "onboard_time": 1699530332,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 145890,
@@ -2419,12 +2483,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139024,
-      "num": 139024,
-      "word": "金莎说把我的恋爱脑炖了吧",
-      "onboard_time": 1699533814,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 139756,
+      "num": 139756,
+      "word": "护工心情差将婴儿拍成脑出血",
+      "onboard_time": 1699535794,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138880,
+      "num": 138880,
+      "word": "这就是成年人的恋爱",
+      "onboard_time": 1699534473,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 138180,
@@ -2867,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36896,
+      "num": 211716,
+      "word": "华为凭什么打入高端电动轿车市场",
+      "onboard_time": 1699534712,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30079,
       "num": 1527475,
       "word": "乌镇网事",
@@ -2924,6 +3004,9 @@
     },
     {
       "word": "#推动网络空间互联互通共享共治#"
+    },
+    {
+      "word": "#习近平总书记这样点亮文明之光#"
     }
   ]
 }
