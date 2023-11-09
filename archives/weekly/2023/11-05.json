@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699514157683,
+  "endTime": 1699515242563,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 2279981,
-      "num": 224049,
+      "num": 949502,
       "word": "搜救组称仲尼在危险区域游泳",
       "onboard_time": 1699506637,
       "rank": 34,
@@ -1147,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1220047,
+      "num": 789483,
+      "word": "内娱改造最成功的两位男艺人",
+      "onboard_time": 1699504118,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1206159,
       "num": 1206159,
       "word": "腾讯已成功注册节奏大师商标",
@@ -1571,14 +1579,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 870015,
-      "num": 764186,
-      "word": "内娱改造最成功的两位男艺人",
-      "onboard_time": 1699504118,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 867959,
       "num": 605428,
       "word": "桦南体育馆房顶坍塌与降雪有关",
@@ -1931,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 775401,
+      "num": 775401,
+      "word": "成都下水道 让人失望的中山二院",
+      "onboard_time": 1699511553,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767466,
       "num": 767466,
       "word": "与凤行 江苏卫视",
@@ -2115,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 719620,
+      "num": 530922,
+      "word": "助学金事件当事人回应花3000元租房",
+      "onboard_time": 1699509214,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717935,
       "num": 717935,
       "word": "泫雅签约金晓钟经纪公司",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1699490919,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708074,
+      "num": 708074,
+      "word": "以爱为营 小蛋糕之神",
+      "onboard_time": 1699512751,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 700121,
@@ -2225,6 +2249,14 @@
       "onboard_time": 1699431096,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 673362,
+      "num": 329988,
+      "word": "一中国公民在澳大利亚不幸溺亡",
+      "onboard_time": 1699510589,
+      "rank": 34,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 669753,
@@ -2331,22 +2363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 649948,
-      "num": 329988,
-      "word": "一中国公民在澳大利亚不幸溺亡",
-      "onboard_time": 1699510589,
-      "rank": 34,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 643864,
-      "num": 643864,
-      "word": "以爱为营 小蛋糕之神",
-      "onboard_time": 1699512751,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 643654,
       "num": 643654,
       "word": "皇马替樊振东发了Vlog",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1699316979,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 639505,
+      "num": 371147,
+      "word": "Dior活动出场顺序",
+      "onboard_time": 1699513230,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 639413,
@@ -3041,14 +3065,6 @@
       "onboard_time": 1699244497,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 530922,
-      "num": 530922,
-      "word": "助学金事件当事人回应花3000元租房",
-      "onboard_time": 1699509214,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530763,
@@ -4235,14 +4251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 387822,
-      "num": 329619,
-      "word": "成都下水道 让人失望的中山二院",
-      "onboard_time": 1699511553,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 387540,
       "num": 387540,
       "word": "七英俊",
@@ -4257,6 +4265,14 @@
       "onboard_time": 1699454579,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386574,
+      "num": 386574,
+      "word": "我独自尖叫 海璐姐好会驯",
+      "onboard_time": 1699512691,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 386377,
@@ -4449,14 +4465,6 @@
       "onboard_time": 1699199014,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371147,
-      "num": 371147,
-      "word": "Dior活动出场顺序",
-      "onboard_time": 1699513230,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 370798,
@@ -4859,6 +4867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342080,
+      "num": 342080,
+      "word": "一加12",
+      "onboard_time": 1699513590,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 341283,
       "num": 341283,
       "word": "王冰冰颖儿一个比一个能吃",
@@ -5099,6 +5115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326438,
+      "num": 326438,
+      "word": "美女博主的发型 梦中情发",
+      "onboard_time": 1699512513,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 325746,
       "num": 325746,
       "word": "宁安如梦周生如故梦幻联动",
@@ -5179,11 +5203,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 319237,
-      "num": 319237,
-      "word": "我独自尖叫 海璐姐好会驯",
-      "onboard_time": 1699512691,
-      "rank": 17,
+      "raw_hot": 319057,
+      "num": 319057,
+      "word": "陈楚生 地狱笑话",
+      "onboard_time": 1699513891,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -5321,14 +5345,6 @@
       "onboard_time": 1699348776,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312825,
-      "num": 312825,
-      "word": "美女博主的发型 梦中情发",
-      "onboard_time": 1699512513,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 312570,
@@ -6171,6 +6187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 260796,
+      "num": 260796,
+      "word": "乐游原 正常",
+      "onboard_time": 1699513833,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260427,
       "num": 260427,
       "word": "周饼伦 一边灌饼一边还要接梗",
@@ -6449,6 +6473,14 @@
       "onboard_time": 1699255532,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248347,
+      "num": 248347,
+      "word": "正式被确诊为烤肠",
+      "onboard_time": 1699511914,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 247469,
@@ -7299,14 +7331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 222037,
-      "num": 232749,
-      "word": "正式被确诊为烤肠",
-      "onboard_time": 1699511914,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221961,
       "num": 202548,
       "word": "谢娜乘风后第一个唱跳舞台",
@@ -7707,6 +7731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209607,
+      "num": 209607,
+      "word": "原神4.2版本",
+      "onboard_time": 1699514071,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209404,
       "num": 209404,
       "word": "易烊千玺米兰出发路透",
@@ -7955,14 +7987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204454,
-      "num": 204454,
-      "word": "乐游原 正常",
-      "onboard_time": 1699513833,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204306,
       "num": 204306,
       "word": "我们的歌",
@@ -8089,14 +8113,6 @@
       "onboard_time": 1699413571,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202096,
-      "num": 202096,
-      "word": "一加12",
-      "onboard_time": 1699513590,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 201833,
@@ -9113,14 +9129,6 @@
       "onboard_time": 1699443936,
       "rank": 30,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 182577,
-      "num": 182577,
-      "word": "陈楚生 地狱笑话",
-      "onboard_time": 1699513891,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 182512,
@@ -10339,6 +10347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152220,
+      "num": 152220,
+      "word": "娱乐圈老小区改造",
+      "onboard_time": 1699514312,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152069,
       "num": 152069,
       "word": "天玑9300旗舰芯",
@@ -11083,6 +11099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135729,
+      "num": 135729,
+      "word": "南航这波格局大了",
+      "onboard_time": 1699515211,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135699,
       "num": 150410,
       "word": "立冬的第一件羽绒服你给爸爸买了吗",
@@ -11299,6 +11323,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 130874,
+      "num": 130874,
+      "word": "体育馆遇难者家属称遭人施压签协议",
+      "onboard_time": 1699515153,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130798,
       "num": 130798,
       "word": "原神夏沃蕾",
@@ -11385,6 +11417,14 @@
       "onboard_time": 1699167868,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128300,
+      "num": 128300,
+      "word": "新云中君即将上线体验服",
+      "onboard_time": 1699515091,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 128215,
@@ -11801,14 +11841,6 @@
       "onboard_time": 1699270594,
       "rank": 39,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 117129,
-      "num": 117129,
-      "word": "原神4.2版本",
-      "onboard_time": 1699514071,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 117062,
@@ -13251,6 +13283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32411,
+      "num": 157220,
+      "word": "苏为安越素越美",
+      "onboard_time": 1699514792,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31649,
       "num": 423301,
       "word": "2023暴雪嘉年华",
@@ -13409,6 +13449,14 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14263,
+      "num": 789939,
+      "word": "进博之变",
+      "onboard_time": 1699514671,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8351,

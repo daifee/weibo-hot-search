@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699514157683,
+  "endTime": 1699515242563,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2279981,
-      "num": 224049,
+      "num": 949502,
       "word": "搜救组称仲尼在危险区域游泳",
       "onboard_time": 1699506637,
       "rank": 34,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1220047,
+      "num": 789483,
+      "word": "内娱改造最成功的两位男艺人",
+      "onboard_time": 1699504118,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1182925,
       "num": 1182925,
       "word": "睡前陪孩子聊废话 坚持半年变化惊人",
@@ -209,14 +217,6 @@
       "onboard_time": 1699485148,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870015,
-      "num": 764186,
-      "word": "内娱改造最成功的两位男艺人",
-      "onboard_time": 1699504118,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 825776,
@@ -283,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 775401,
+      "num": 775401,
+      "word": "成都下水道 让人失望的中山二院",
+      "onboard_time": 1699511553,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752516,
       "num": 451197,
       "word": "金智媛老公姐",
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 719620,
+      "num": 530922,
+      "word": "助学金事件当事人回应花3000元租房",
+      "onboard_time": 1699509214,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717186,
       "num": 717186,
       "word": "长月烬明",
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708074,
+      "num": 708074,
+      "word": "以爱为营 小蛋糕之神",
+      "onboard_time": 1699512751,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706393,
       "num": 706393,
       "word": "瑞幸 罗翔",
@@ -347,7 +371,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 649948,
+      "raw_hot": 673362,
       "num": 329988,
       "word": "一中国公民在澳大利亚不幸溺亡",
       "onboard_time": 1699510589,
@@ -355,12 +379,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 643864,
-      "num": 643864,
-      "word": "以爱为营 小蛋糕之神",
-      "onboard_time": 1699512751,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 639505,
+      "num": 371147,
+      "word": "Dior活动出场顺序",
+      "onboard_time": 1699513230,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 610176,
@@ -433,14 +457,6 @@
       "onboard_time": 1699503035,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 530922,
-      "num": 530922,
-      "word": "助学金事件当事人回应花3000元租房",
-      "onboard_time": 1699509214,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530320,
@@ -643,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 387822,
-      "num": 329619,
-      "word": "成都下水道 让人失望的中山二院",
-      "onboard_time": 1699511553,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 386574,
+      "num": 386574,
+      "word": "我独自尖叫 海璐姐好会驯",
+      "onboard_time": 1699512691,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 375593,
@@ -665,14 +681,6 @@
       "onboard_time": 1699488518,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371147,
-      "num": 371147,
-      "word": "Dior活动出场顺序",
-      "onboard_time": 1699513230,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 370798,
@@ -731,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 342080,
+      "num": 342080,
+      "word": "一加12",
+      "onboard_time": 1699513590,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 341860,
       "num": 341860,
       "word": "花少5第一次真正的矛盾来了",
@@ -755,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326438,
+      "num": 326438,
+      "word": "美女博主的发型 梦中情发",
+      "onboard_time": 1699512513,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 325746,
       "num": 325746,
       "word": "宁安如梦周生如故梦幻联动",
@@ -771,11 +795,11 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 319237,
-      "num": 319237,
-      "word": "我独自尖叫 海璐姐好会驯",
-      "onboard_time": 1699512691,
-      "rank": 17,
+      "raw_hot": 319057,
+      "num": 319057,
+      "word": "陈楚生 地狱笑话",
+      "onboard_time": 1699513891,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -809,14 +833,6 @@
       "onboard_time": 1699499851,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 312825,
-      "num": 312825,
-      "word": "美女博主的发型 梦中情发",
-      "onboard_time": 1699512513,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 310894,
@@ -1003,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260796,
+      "num": 260796,
+      "word": "乐游原 正常",
+      "onboard_time": 1699513833,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259314,
       "num": 259314,
       "word": "这片热爱的土地我们共同守护",
@@ -1040,6 +1064,14 @@
       "word": "吗喽表情包",
       "onboard_time": 1699508854,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248347,
+      "num": 248347,
+      "word": "正式被确诊为烤肠",
+      "onboard_time": 1699511914,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -1131,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222037,
-      "num": 232749,
-      "word": "正式被确诊为烤肠",
-      "onboard_time": 1699511914,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219568,
       "num": 219568,
       "word": "杭州姑娘自己卖房省下3万中介费",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1699459655,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209607,
+      "num": 209607,
+      "word": "原神4.2版本",
+      "onboard_time": 1699514071,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 209404,
@@ -1259,14 +1291,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 204454,
-      "num": 204454,
-      "word": "乐游原 正常",
-      "onboard_time": 1699513833,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203844,
       "num": 168935,
       "word": "曼联小组垫底",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1699511191,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202096,
-      "num": 202096,
-      "word": "一加12",
-      "onboard_time": 1699513590,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 201687,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1699453492,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182577,
-      "num": 182577,
-      "word": "陈楚生 地狱笑话",
-      "onboard_time": 1699513891,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 181020,
@@ -1587,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152220,
+      "num": 152220,
+      "word": "娱乐圈老小区改造",
+      "onboard_time": 1699514312,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151950,
       "num": 149310,
       "word": "门面店1000多的衣服东大门卖多少",
@@ -1739,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135729,
+      "num": 135729,
+      "word": "南航这波格局大了",
+      "onboard_time": 1699515211,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132372,
       "num": 132372,
       "word": "拉什福德红牌",
@@ -1755,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130874,
+      "num": 130874,
+      "word": "体育馆遇难者家属称遭人施压签协议",
+      "onboard_time": 1699515153,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "aespa主打曲Drama预听",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1699451693,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128300,
+      "num": 128300,
+      "word": "新云中君即将上线体验服",
+      "onboard_time": 1699515091,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 126270,
@@ -1825,14 +1865,6 @@
       "onboard_time": 1699461688,
       "rank": 19,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 117129,
-      "num": 117129,
-      "word": "原神4.2版本",
-      "onboard_time": 1699514071,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 115218,
@@ -2075,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32411,
+      "num": 157220,
+      "word": "苏为安越素越美",
+      "onboard_time": 1699514792,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30079,
       "num": 1527475,
       "word": "乌镇网事",
@@ -2105,6 +2145,14 @@
       "onboard_time": 1699506936,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14263,
+      "num": 789939,
+      "word": "进博之变",
+      "onboard_time": 1699514671,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
