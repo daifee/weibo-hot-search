@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699518254471,
+  "endTime": 1699518859310,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -771,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1618315,
+      "num": 1618315,
+      "word": "霸王茶姬 三品管",
+      "onboard_time": 1699516832,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1616473,
       "num": 1616473,
       "word": "孟羽童一年半广告收入或达400万",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1699156831,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1064701,
-      "num": 1064701,
-      "word": "霸王茶姬 三品管",
-      "onboard_time": 1699516832,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1057921,
@@ -2363,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 655040,
+      "num": 655040,
+      "word": "圈里人都知道刘宇宁回家过年的场景了",
+      "onboard_time": 1699517431,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654209,
       "num": 654209,
       "word": "地瓜拿铁",
@@ -2627,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 606559,
+      "num": 606559,
+      "word": "迪丽热巴 INFJ",
+      "onboard_time": 1699515632,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603836,
       "num": 603836,
       "word": "奔跑吧官微运营的手机被抢走了",
@@ -2665,6 +2681,14 @@
       "onboard_time": 1699411409,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 601893,
+      "num": 601893,
+      "word": "中国科协就中山二院3人患癌发声",
+      "onboard_time": 1699517133,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599919,
@@ -2953,14 +2977,6 @@
       "onboard_time": 1699319974,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 553053,
-      "num": 553053,
-      "word": "迪丽热巴 INFJ",
-      "onboard_time": 1699515632,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 551402,
@@ -3484,7 +3500,7 @@
     },
     {
       "raw_hot": 473073,
-      "num": 412476,
+      "num": 413578,
       "word": "体育馆遇难者家属称遭人施压签协议",
       "onboard_time": 1699515153,
       "rank": 46,
@@ -3915,14 +3931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425227,
-      "num": 425227,
-      "word": "圈里人都知道刘宇宁回家过年的场景了",
-      "onboard_time": 1699517431,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424424,
       "num": 424424,
       "word": "郑秀妍将回归",
@@ -4011,14 +4019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418175,
-      "num": 418175,
-      "word": "中国科协就中山二院3人患癌发声",
-      "onboard_time": 1699517133,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417627,
       "num": 417627,
       "word": "涉事高校称不存在助学金名额挤占",
@@ -4105,6 +4105,14 @@
       "onboard_time": 1699501895,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408811,
+      "num": 408811,
+      "word": "为何乳腺癌更偏爱职业女性",
+      "onboard_time": 1699515813,
+      "rank": 14,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 408797,
@@ -4393,14 +4401,6 @@
       "onboard_time": 1699365157,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379772,
-      "num": 379772,
-      "word": "为何乳腺癌更偏爱职业女性",
-      "onboard_time": 1699515813,
-      "rank": 14,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 379134,
@@ -5235,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321677,
+      "num": 321677,
+      "word": "今年古装爆剧九选一",
+      "onboard_time": 1699517254,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321488,
       "num": 321488,
       "word": "小胖FMVP",
@@ -5809,6 +5817,14 @@
       "onboard_time": 1699177833,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283580,
+      "num": 223984,
+      "word": "迪丽热巴塑料袋爆改皮筋",
+      "onboard_time": 1699517254,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 283278,
@@ -6843,6 +6859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237669,
+      "num": 237669,
+      "word": "美香一家今晚到家",
+      "onboard_time": 1699516533,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237662,
       "num": 237662,
       "word": "集团回应领导与女下属疑有不正当关系",
@@ -6993,14 +7017,6 @@
       "onboard_time": 1699359095,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 233754,
-      "num": 233754,
-      "word": "美香一家今晚到家",
-      "onboard_time": 1699516533,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233316,
@@ -7339,14 +7355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223444,
-      "num": 223444,
-      "word": "今年古装爆剧九选一",
-      "onboard_time": 1699517254,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223115,
       "num": 223115,
       "word": "孙千高妹的优雅",
@@ -7385,6 +7393,14 @@
       "onboard_time": 1699315052,
       "rank": 23,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 222368,
+      "num": 222368,
+      "word": "外交部回应大熊猫美香一家回国",
+      "onboard_time": 1699516832,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222070,
@@ -7545,14 +7561,6 @@
       "onboard_time": 1699325851,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215291,
-      "num": 215291,
-      "word": "迪丽热巴塑料袋爆改皮筋",
-      "onboard_time": 1699517254,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 215190,
@@ -9075,14 +9083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186867,
-      "num": 186867,
-      "word": "外交部回应大熊猫美香一家回国",
-      "onboard_time": 1699516832,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186840,
       "num": 193015,
       "word": "人世间里的酱油厂原型被拍卖",
@@ -9369,6 +9369,14 @@
       "onboard_time": 1699458699,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178188,
+      "num": 178188,
+      "word": "匪我思存的剧靠演员表确认he",
+      "onboard_time": 1699518330,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 178126,
@@ -11803,6 +11811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121718,
+      "num": 121718,
+      "word": "小狗被撞断脊柱同伴不离不弃",
+      "onboard_time": 1699518633,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121570,
       "num": 121570,
       "word": "还得看水花兄弟",
@@ -13193,6 +13209,14 @@
       "onboard_time": 1699341273,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 55219,
+      "num": 684167,
+      "word": "口岸通老人讲述巴克图口岸",
+      "onboard_time": 1699516832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53555,

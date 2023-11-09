@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699518254471,
+  "endTime": 1699518859310,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1618315,
+      "num": 1618315,
+      "word": "霸王茶姬 三品管",
+      "onboard_time": 1699516832,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1507466,
       "num": 1507466,
       "word": "赵露思范思哲全球品牌代言人",
@@ -225,14 +233,6 @@
       "onboard_time": 1699485148,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1064701,
-      "num": 1064701,
-      "word": "霸王茶姬 三品管",
-      "onboard_time": 1699516832,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 825776,
@@ -395,6 +395,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 655040,
+      "num": 655040,
+      "word": "圈里人都知道刘宇宁回家过年的场景了",
+      "onboard_time": 1699517431,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 631144,
+      "num": 631144,
+      "word": "中山二院",
+      "onboard_time": 1699450673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610176,
       "num": 610176,
       "word": "青簪行彭冠英补拍",
@@ -409,6 +425,22 @@
       "onboard_time": 1699494816,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 606559,
+      "num": 606559,
+      "word": "迪丽热巴 INFJ",
+      "onboard_time": 1699515632,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 601893,
+      "num": 601893,
+      "word": "中国科协就中山二院3人患癌发声",
+      "onboard_time": 1699517133,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 599381,
@@ -451,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553053,
-      "num": 553053,
-      "word": "迪丽热巴 INFJ",
-      "onboard_time": 1699515632,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 543592,
       "num": 443507,
       "word": "僧丫",
@@ -488,14 +512,6 @@
       "word": "医生谈中山二院拆实验室",
       "onboard_time": 1699505621,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525491,
-      "num": 525491,
-      "word": "中山二院",
-      "onboard_time": 1699450673,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 473073,
-      "num": 412476,
+      "num": 413578,
       "word": "体育馆遇难者家属称遭人施压签协议",
       "onboard_time": 1699515153,
       "rank": 46,
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425227,
-      "num": 425227,
-      "word": "圈里人都知道刘宇宁回家过年的场景了",
-      "onboard_time": 1699517431,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423057,
       "num": 380224,
       "word": "太阳三巨头终于要合体了",
@@ -633,14 +641,6 @@
       "onboard_time": 1699502194,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 418175,
-      "num": 418175,
-      "word": "中国科协就中山二院3人患癌发声",
-      "onboard_time": 1699517133,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414345,
@@ -665,6 +665,14 @@
       "onboard_time": 1699501895,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408811,
+      "num": 408811,
+      "word": "为何乳腺癌更偏爱职业女性",
+      "onboard_time": 1699515813,
+      "rank": 14,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 406727,
@@ -721,14 +729,6 @@
       "onboard_time": 1699513891,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379772,
-      "num": 379772,
-      "word": "为何乳腺癌更偏爱职业女性",
-      "onboard_time": 1699515813,
-      "rank": 14,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 375593,
@@ -859,6 +859,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 321677,
+      "num": 321677,
+      "word": "今年古装爆剧九选一",
+      "onboard_time": 1699517254,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317561,
       "num": 317561,
       "word": "JDG获得选边权",
@@ -985,6 +993,14 @@
       "onboard_time": 1699490080,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283580,
+      "num": 223984,
+      "word": "迪丽热巴塑料袋爆改皮筋",
+      "onboard_time": 1699517254,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 281899,
@@ -1171,20 +1187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237669,
+      "num": 237669,
+      "word": "美香一家今晚到家",
+      "onboard_time": 1699516533,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237348,
       "num": 237348,
       "word": "李承鄞的嘴长李嶷身上了",
       "onboard_time": 1699503457,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233754,
-      "num": 233754,
-      "word": "美香一家今晚到家",
-      "onboard_time": 1699516533,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233173,
@@ -1219,20 +1235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223444,
-      "num": 223444,
-      "word": "今年古装爆剧九选一",
-      "onboard_time": 1699517254,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222517,
       "num": 222517,
       "word": "Somi希望IOI在MAMA合体",
       "onboard_time": 1699462348,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222368,
+      "num": 222368,
+      "word": "外交部回应大熊猫美香一家回国",
+      "onboard_time": 1699516832,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219568,
@@ -1249,14 +1265,6 @@
       "onboard_time": 1699505499,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215291,
-      "num": 215291,
-      "word": "迪丽热巴塑料袋爆改皮筋",
-      "onboard_time": 1699517254,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 214877,
@@ -1507,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186867,
-      "num": 186867,
-      "word": "外交部回应大熊猫美香一家回国",
-      "onboard_time": 1699516832,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186460,
       "num": 226217,
       "word": "南航",
@@ -1553,6 +1553,14 @@
       "onboard_time": 1699458699,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178188,
+      "num": 178188,
+      "word": "匪我思存的剧靠演员表确认he",
+      "onboard_time": 1699518330,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176876,
@@ -1947,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121718,
+      "num": 121718,
+      "word": "小狗被撞断脊柱同伴不离不弃",
+      "onboard_time": 1699518633,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120314,
       "num": 120314,
       "word": "郑书意仿妆",
@@ -2137,6 +2153,14 @@
       "onboard_time": 1699505198,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55219,
+      "num": 684167,
+      "word": "口岸通老人讲述巴克图口岸",
+      "onboard_time": 1699516832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53555,
