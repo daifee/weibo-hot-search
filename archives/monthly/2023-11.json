@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699550154427,
+  "endTime": 1699551260511,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -24443,6 +24443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87065,
+      "num": 87065,
+      "word": "浙江大学夜跑放的是凤凰传奇的歌",
+      "onboard_time": 1699547966,
+      "rank": 21,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 85863,
       "num": 85863,
       "word": "王曼昱3比2朱芊曦",
@@ -24465,14 +24473,6 @@
       "onboard_time": 1699084708,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 85735,
-      "num": 85735,
-      "word": "浙江大学夜跑放的是凤凰传奇的歌",
-      "onboard_time": 1699547966,
-      "rank": 21,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 85262,
@@ -25745,6 +25745,14 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26844,
+      "num": 57434,
+      "word": "流浪汉被民警救助后坦白是命案逃犯",
+      "onboard_time": 1699551138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26279,
