@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699562060363,
+  "endTime": 1699564517071,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43774,
+      "num": 43774,
+      "word": "央行回应取消跨行提现手续费",
+      "onboard_time": 1699563133,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 36927,
       "num": 57443,
       "word": "王牌对王牌全员参加村BA运动会",
@@ -467,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17411,
+      "num": 19830,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16722,
       "num": 21811,
       "word": "琉璃花瓣浴",
       "onboard_time": 1699556954,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15900,
-      "num": 19830,
-      "word": "宝宝也没想到一出生就危机四伏",
-      "onboard_time": 1699555336,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 12895,
@@ -497,6 +505,14 @@
       "onboard_time": 1699556893,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10487,
+      "num": 13554,
+      "word": "高三女孩跳河2男子划桨板1分钟救回",
+      "onboard_time": 1699564334,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9438,
