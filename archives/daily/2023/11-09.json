@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699496736416,
+  "endTime": 1699497393791,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -35,11 +35,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2616248,
+      "raw_hot": 2773201,
       "num": 1013390,
       "word": "搜救人士称仲尼或因脚抽筋后溺亡",
       "onboard_time": 1699486589,
       "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2082330,
+      "num": 246216,
+      "word": "搜救人士称卡琳娜也曾呛水晕倒",
+      "onboard_time": 1699489963,
+      "rank": 32,
       "category": "社会新闻,网红"
     },
     {
@@ -67,12 +75,12 @@
       "category": "网红,动漫"
     },
     {
-      "raw_hot": 1850016,
-      "num": 246216,
-      "word": "搜救人士称卡琳娜也曾呛水晕倒",
-      "onboard_time": 1699489963,
-      "rank": 32,
-      "category": "社会新闻,网红"
+      "raw_hot": 1705343,
+      "num": 1705343,
+      "word": "中山二院致癌事件三大疑问",
+      "onboard_time": 1699496133,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1478323,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1075776,
-      "num": 1075776,
-      "word": "中山二院致癌事件三大疑问",
-      "onboard_time": 1699496133,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 786733,
       "num": 723827,
       "word": "仲尼昨天生日",
@@ -131,12 +131,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 775158,
+      "num": 427213,
+      "word": "邓紫棋发错群消息",
+      "onboard_time": 1699495595,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 748550,
       "num": 748550,
       "word": "何猷君像是来打假的",
       "onboard_time": 1699488636,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 722056,
+      "num": 722056,
+      "word": "00后被领导辱骂后起诉获赔100元",
+      "onboard_time": 1699493433,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710526,
@@ -155,14 +171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 704513,
-      "num": 704513,
-      "word": "00后被领导辱骂后起诉获赔100元",
-      "onboard_time": 1699493433,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610176,
       "num": 610176,
       "word": "青簪行彭冠英补拍",
@@ -179,19 +187,19 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 589942,
-      "num": 355154,
-      "word": "邓紫棋发错群消息",
-      "onboard_time": 1699495595,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574046,
       "num": 430906,
       "word": "仲尼生日当天遇难",
       "onboard_time": 1699449533,
       "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 521842,
+      "num": 521842,
+      "word": "刘媛媛曾6小时带货超1亿元",
+      "onboard_time": 1699495958,
+      "rank": 13,
       "category": "网红"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1699488762,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502705,
+      "num": 419722,
+      "word": "金智媛老公姐",
+      "onboard_time": 1699496613,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499580,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434980,
+      "num": 434980,
+      "word": "中山二院称拆实验室是消防检查早已安排",
+      "onboard_time": 1699496014,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414345,
       "num": 414345,
       "word": "特斯拉涨价",
@@ -249,6 +273,14 @@
       "onboard_time": 1699456014,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400639,
+      "num": 400639,
+      "word": "刘些宁宁安如梦状态",
+      "onboard_time": 1699495535,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 398160,
@@ -307,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350839,
-      "num": 350839,
-      "word": "刘媛媛曾6小时带货超1亿元",
-      "onboard_time": 1699495958,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 344899,
       "num": 344899,
       "word": "seventeen确定出演红白歌会",
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335556,
-      "num": 335556,
-      "word": "中山二院称拆实验室是消防检查早已安排",
-      "onboard_time": 1699496014,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329304,
       "num": 329304,
       "word": "真正的狂徒 温实初",
@@ -363,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316074,
-      "num": 316074,
-      "word": "刘些宁宁安如梦状态",
-      "onboard_time": 1699495535,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310364,
       "num": 310364,
       "word": "UNINE 重组",
       "onboard_time": 1699485686,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303113,
+      "num": 303113,
+      "word": "闪耀暖暖 滤镜",
+      "onboard_time": 1699495958,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 300003,
@@ -475,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250695,
-      "num": 250695,
-      "word": "闪耀暖暖 滤镜",
-      "onboard_time": 1699495958,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 246489,
       "num": 246489,
       "word": "为什么越来越多的KTV关店了",
@@ -553,6 +561,14 @@
       "onboard_time": 1699488218,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208983,
+      "num": 208983,
+      "word": "容嬷嬷后继有人",
+      "onboard_time": 1699496256,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208354,
@@ -635,11 +651,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197482,
-      "num": 197482,
-      "word": "容嬷嬷后继有人",
-      "onboard_time": 1699496256,
-      "rank": 31,
+      "raw_hot": 198460,
+      "num": 198460,
+      "word": "气象专家称佳木斯此次降雪为湿雪",
+      "onboard_time": 1699496372,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193507,
+      "num": 183375,
+      "word": "谈判桌上互扔水果",
+      "onboard_time": 1699497032,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -649,14 +673,6 @@
       "onboard_time": 1699455472,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 191369,
-      "num": 191369,
-      "word": "气象专家称佳木斯此次降雪为湿雪",
-      "onboard_time": 1699496372,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190760,
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171175,
+      "num": 171175,
+      "word": "王俊凯值得重温的舞台",
+      "onboard_time": 1699496613,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170924,
       "num": 170924,
       "word": "宁安如梦爱奇艺热度值破9000",
@@ -787,14 +811,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 154159,
-      "num": 154159,
-      "word": "金智媛老公姐",
-      "onboard_time": 1699496613,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153691,
       "num": 153691,
       "word": "美发师用4根头发讲理发干货",
@@ -816,6 +832,14 @@
       "word": "8个有效抗癌方法能防很多癌",
       "onboard_time": 1699495833,
       "rank": 44,
+      "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 151004,
+      "num": 151004,
+      "word": "体检报告阅读指南",
+      "onboard_time": 1699496792,
+      "rank": 41,
       "category": "健康医疗,知识科普"
     },
     {
@@ -867,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140929,
+      "num": 140929,
+      "word": "湖人vs火箭",
+      "onboard_time": 1699497156,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140814,
       "num": 197517,
       "word": "银行职员多问一句帮男子跳出陷阱",
@@ -875,12 +907,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136312,
-      "num": 136312,
-      "word": "王俊凯值得重温的舞台",
-      "onboard_time": 1699496613,
+      "raw_hot": 138180,
+      "num": 138180,
+      "word": "起床受苦",
+      "onboard_time": 1699497273,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132372,
+      "num": 132372,
+      "word": "拉什福德红牌",
+      "onboard_time": 1699496854,
       "rank": 49,
-      "category": "作品衍生"
+      "category": "体育"
     },
     {
       "raw_hot": 131929,
