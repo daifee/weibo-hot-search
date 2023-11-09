@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699539369752,
+  "endTime": 1699540445528,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -315,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 901920,
+      "num": 901920,
+      "word": "张家界涉事正新鸡排加盟店已被查封",
+      "onboard_time": 1699535132,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825776,
       "num": 825776,
       "word": "开国少将文击逝世",
@@ -361,14 +369,6 @@
       "onboard_time": 1699504718,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 798895,
-      "num": 798895,
-      "word": "张家界涉事正新鸡排加盟店已被查封",
-      "onboard_time": 1699535132,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 798690,
@@ -433,6 +433,14 @@
       "onboard_time": 1699513230,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 727939,
+      "num": 727939,
+      "word": "小奇迹一家平安到家",
+      "onboard_time": 1699537356,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722056,
@@ -507,14 +515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 705717,
-      "num": 705717,
-      "word": "小奇迹一家平安到家",
-      "onboard_time": 1699537356,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 678840,
       "num": 678840,
       "word": "李雪琴吻戏",
@@ -529,6 +529,14 @@
       "onboard_time": 1699510589,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 670923,
+      "num": 367148,
+      "word": "宋雨琦回复郑恺",
+      "onboard_time": 1699536694,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 668021,
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559259,
-      "num": 347022,
-      "word": "宋雨琦回复郑恺",
-      "onboard_time": 1699536694,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 552749,
       "num": 552749,
       "word": "苏士成实验室有人在正常工作",
@@ -777,6 +777,14 @@
       "onboard_time": 1699505259,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477757,
+      "num": 477757,
+      "word": "花3000块就吃了一碗粉条",
+      "onboard_time": 1699535555,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 473533,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1699488939,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355767,
-      "num": 355767,
-      "word": "花3000块就吃了一碗粉条",
-      "onboard_time": 1699535555,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 355017,
@@ -1875,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205751,
+      "num": 205751,
+      "word": "薛之谦怕打针也要给儿子做榜样",
+      "onboard_time": 1699536094,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204938,
       "num": 204938,
       "word": "微博视界大会",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1699496372,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197444,
-      "num": 197444,
-      "word": "薛之谦怕打针也要给儿子做榜样",
-      "onboard_time": 1699536094,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 196549,
@@ -2780,7 +2780,7 @@
     },
     {
       "raw_hot": 98884,
-      "num": 110088,
+      "num": 136288,
       "word": "智界S7预售价25.8万起",
       "onboard_time": 1699536996,
       "rank": 47,
@@ -2804,7 +2804,7 @@
     },
     {
       "raw_hot": 95383,
-      "num": 110079,
+      "num": 136281,
       "word": "皇马续约巴尔韦德",
       "onboard_time": 1699539034,
       "rank": 48,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1699467377,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23220,
+      "num": 354683,
+      "word": "智界S7充得快跑得远",
+      "onboard_time": 1699530932,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 22401,
