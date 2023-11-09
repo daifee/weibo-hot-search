@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699504530240,
+  "endTime": 1699506974670,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3064071,
+      "num": 3064071,
+      "word": "离岸流",
+      "onboard_time": 1699503877,
+      "rank": 0,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 3005329,
       "num": 3005329,
       "word": "gala哭了",
@@ -313,14 +321,6 @@
       "onboard_time": 1699348057,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2288978,
-      "num": 2288978,
-      "word": "离岸流",
-      "onboard_time": 1699503877,
-      "rank": 0,
-      "category": "知识科普"
     },
     {
       "raw_hot": 2267803,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1707303,
+      "num": 1707303,
+      "word": "海滩红旗区",
+      "onboard_time": 1699505677,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1705343,
       "num": 1705343,
       "word": "中山二院致癌事件三大疑问",
@@ -915,6 +923,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1418181,
+      "num": 224049,
+      "word": "搜救组称仲尼在危险区域游泳",
+      "onboard_time": 1699506637,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1400184,
       "num": 1400184,
       "word": "斗鱼证实CEO陈少杰失联",
@@ -1099,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1221497,
+      "num": 1221497,
+      "word": "以爱为营 秀才和一笑倾城",
+      "onboard_time": 1699503999,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1206159,
       "num": 1206159,
       "word": "腾讯已成功注册节奏大师商标",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1699333835,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1121182,
+      "num": 1121182,
+      "word": "协和医生 中山二院事件大概率不了了之",
+      "onboard_time": 1699505621,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1111056,
@@ -1547,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 862502,
+      "num": 223058,
+      "word": "幸存者综合症",
+      "onboard_time": 1699506698,
+      "rank": 41,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 855975,
       "num": 366260,
       "word": "新的TFBOYS出现了 TFBOY适",
@@ -1707,6 +1747,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 816300,
+      "num": 816300,
+      "word": "大S回应小S复出演戏",
+      "onboard_time": 1699504718,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 813040,
       "num": 813040,
       "word": "马龙飞身救球",
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 798690,
-      "num": 510134,
+      "num": 570184,
       "word": "福原爱",
       "onboard_time": 1699502615,
       "rank": 11,
@@ -2251,12 +2299,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 652169,
+      "num": 652169,
+      "word": "内娱改造最成功的两位男艺人",
+      "onboard_time": 1699504118,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650457,
       "num": 650457,
       "word": "节奏大师",
       "onboard_time": 1699335630,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 645293,
+      "num": 645293,
+      "word": "长月烬明",
+      "onboard_time": 1699505677,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 643654,
@@ -3091,14 +3155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 508924,
-      "num": 508924,
-      "word": "以爱为营 秀才和一笑倾城",
-      "onboard_time": 1699503999,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 508801,
       "num": 331710,
       "word": "刚改造完房东就把房子卖了",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1699266693,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485456,
+      "num": 485456,
+      "word": "大S说小S拿金钟最佳女主她就去死",
+      "onboard_time": 1699505259,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 485312,
@@ -3635,6 +3699,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 433983,
+      "num": 433983,
+      "word": "王楚钦2比3徐瑛彬",
+      "onboard_time": 1699505560,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433926,
       "num": 433926,
       "word": "皇马放弃姆巴佩",
@@ -3785,14 +3857,6 @@
       "onboard_time": 1699417658,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 420586,
-      "num": 420586,
-      "word": "内娱改造最成功的两位男艺人",
-      "onboard_time": 1699504118,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 419746,
@@ -4339,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366464,
+      "num": 366464,
+      "word": "多数胰腺癌病人确诊后1年内死亡",
+      "onboard_time": 1699504899,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 366463,
       "num": 344340,
       "word": "秦海璐对迪丽热巴胡先煦还是太宠了",
@@ -4416,6 +4488,14 @@
       "word": "霉霉 就算搞砸了也没什么大不了",
       "onboard_time": 1699334612,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 361983,
+      "num": 326333,
+      "word": "王源吐槽还不如买个护肝片呢",
+      "onboard_time": 1699506158,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4553,6 +4633,14 @@
       "onboard_time": 1699277434,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350781,
+      "num": 350781,
+      "word": "襄阳警方已查实叶某芝贩卖出生证",
+      "onboard_time": 1699504838,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350699,
@@ -5027,6 +5115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317505,
+      "num": 317505,
+      "word": "WTT太原 观众",
+      "onboard_time": 1699504540,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317071,
       "num": 317071,
       "word": "宋亚轩被杨丽萍当成时尚单品了",
@@ -5265,6 +5361,14 @@
       "onboard_time": 1699412129,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299785,
+      "num": 299785,
+      "word": "宁安如梦周生如故梦幻联动",
+      "onboard_time": 1699506217,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 299556,
@@ -7067,6 +7171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 219259,
+      "num": 219259,
+      "word": "娜扎 异域风美人",
+      "onboard_time": 1699505499,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218580,
       "num": 217178,
       "word": "在线等一个秦岚演唱会",
@@ -7177,6 +7289,14 @@
       "onboard_time": 1699233573,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 213806,
+      "num": 213806,
+      "word": "伍佰无锡",
+      "onboard_time": 1699506576,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 213713,
@@ -12587,6 +12707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51924,
+      "num": 326690,
+      "word": "晶核格斗家版本上线",
+      "onboard_time": 1699505198,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51004,
       "num": 434611,
       "word": "古不惯甄嬛传四爷 今不惯领导",
@@ -12747,6 +12875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29489,
+      "num": 223303,
+      "word": "男人消费力首次超过宠物狗",
+      "onboard_time": 1699506039,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 27796,
       "num": 27796,
       "word": "Mark泰容泰民跳了Guilty",
@@ -12897,6 +13033,14 @@
       "onboard_time": 1699070252,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5402,
+      "num": 202622,
+      "word": "B级车上市只卖A级车价格",
+      "onboard_time": 1699506936,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
