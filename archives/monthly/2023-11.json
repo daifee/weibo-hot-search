@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699499865072,
+  "endTime": 1699500857696,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2939,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 825776,
+      "num": 825776,
+      "word": "开国少将文击逝世",
+      "onboard_time": 1699498893,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825384,
       "num": 461383,
       "word": "邓紫棋发错群消息",
@@ -3452,7 +3460,7 @@
     },
     {
       "raw_hot": 752516,
-      "num": 444716,
+      "num": 451197,
       "word": "金智媛老公姐",
       "onboard_time": 1699496613,
       "rank": 42,
@@ -3937,6 +3945,14 @@
       "onboard_time": 1699069892,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677917,
+      "num": 677917,
+      "word": "秦海璐一句话误伤迪丽热巴",
+      "onboard_time": 1699499253,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 675879,
@@ -4507,14 +4523,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 613637,
-      "num": 613637,
-      "word": "开国少将文击逝世",
-      "onboard_time": 1699498893,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 613542,
       "num": 362510,
       "word": "漫威考虑复活钢铁侠黑寡妇",
@@ -4715,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599381,
+      "num": 599381,
+      "word": "中山二院内部人士否认网传实验室泄露",
+      "onboard_time": 1699498172,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599030,
       "num": 599030,
       "word": "ZZxinqing",
@@ -4784,14 +4800,6 @@
       "word": "巡视组回应天津助学金事件",
       "onboard_time": 1698988956,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593324,
-      "num": 593324,
-      "word": "中山二院内部人士否认网传实验室泄露",
-      "onboard_time": 1699498172,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -5307,6 +5315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 543592,
+      "num": 443507,
+      "word": "僧丫",
+      "onboard_time": 1699499972,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542878,
       "num": 1076583,
       "word": "多方回应网传合肥一小学生校内死亡",
@@ -5436,7 +5452,7 @@
     },
     {
       "raw_hot": 530320,
-      "num": 435278,
+      "num": 484898,
       "word": "秦霄贤周扬青直球式告白",
       "onboard_time": 1699498532,
       "rank": 13,
@@ -6211,6 +6227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469604,
+      "num": 469604,
+      "word": "以爱为营处处吻",
+      "onboard_time": 1699499193,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469138,
       "num": 469138,
       "word": "以爱为营 视角",
@@ -6761,6 +6785,14 @@
       "onboard_time": 1699497571,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433344,
+      "num": 433344,
+      "word": "刘强东老家水龙头已换新",
+      "onboard_time": 1699497693,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433184,
@@ -7417,14 +7449,6 @@
       "onboard_time": 1698803674,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 401896,
-      "num": 401896,
-      "word": "刘强东老家水龙头已换新",
-      "onboard_time": 1699497693,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401893,
@@ -8811,14 +8835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343275,
-      "num": 343275,
-      "word": "秦海璐一句话误伤迪丽热巴",
-      "onboard_time": 1699499253,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343221,
       "num": 248677,
       "word": "长相思回春堂番外小剧场",
@@ -9451,6 +9467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317561,
+      "num": 317561,
+      "word": "JDG获得选边权",
+      "onboard_time": 1699499193,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317193,
       "num": 250560,
       "word": "4天婴儿被护士烫伤致后脑勺大片水肿",
@@ -9465,6 +9489,14 @@
       "onboard_time": 1699355014,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316769,
+      "num": 316769,
+      "word": "惊奇队长2开分",
+      "onboard_time": 1699499851,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 315947,
@@ -9609,6 +9641,14 @@
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310894,
+      "num": 297394,
+      "word": "美国演员埃文埃林森猝逝",
+      "onboard_time": 1699499614,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 310772,
@@ -9771,14 +9811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303742,
-      "num": 303742,
-      "word": "以爱为营处处吻",
-      "onboard_time": 1699499193,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303647,
       "num": 303647,
       "word": "靠的是自己能力而不是她是女生",
@@ -9891,6 +9923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298060,
+      "num": 298060,
+      "word": "快船三连败",
+      "onboard_time": 1699499554,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297520,
       "num": 297520,
       "word": "如萍亲杜飞粘了一嘴胡子",
@@ -9904,6 +9944,14 @@
       "word": "莲花楼长尾效应好强",
       "onboard_time": 1698930634,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296649,
+      "num": 296649,
+      "word": "业内人士透露大女主会亲自选二番男主",
+      "onboard_time": 1699500333,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -10225,6 +10273,14 @@
       "onboard_time": 1699068031,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285920,
+      "num": 285920,
+      "word": "美甲做出了一种无语的美感",
+      "onboard_time": 1699500212,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 285885,
@@ -11297,14 +11353,6 @@
       "onboard_time": 1698769231,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256932,
-      "num": 256932,
-      "word": "JDG获得选边权",
-      "onboard_time": 1699499193,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 256588,
@@ -12923,6 +12971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226353,
+      "num": 226353,
+      "word": "伊能静别撩了秦霄贤扛不住了",
+      "onboard_time": 1699500212,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226129,
       "num": 226129,
       "word": "产妇羊水栓塞抢救15分钟后成功分娩",
@@ -13699,6 +13755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211516,
+      "num": 211516,
+      "word": "僧丫称已关闭平台充电赞赏功能",
+      "onboard_time": 1699500272,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "9.9四斤洗衣液还能赚一块三",
@@ -13865,14 +13929,6 @@
       "onboard_time": 1699431753,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 209849,
-      "num": 209849,
-      "word": "快船三连败",
-      "onboard_time": 1699499554,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 209819,
@@ -14233,6 +14289,14 @@
       "onboard_time": 1699073552,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205602,
+      "num": 205602,
+      "word": "这萧剑晴儿还能认出吗",
+      "onboard_time": 1699500155,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 205362,
@@ -14753,6 +14817,14 @@
       "onboard_time": 1699167151,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199408,
+      "num": 199408,
+      "word": "微光荣耀入围作品",
+      "onboard_time": 1699500632,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 199370,
@@ -16763,6 +16835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176876,
+      "num": 176876,
+      "word": "白鹿张凌赫微指破亿",
+      "onboard_time": 1699499374,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176820,
       "num": 176820,
       "word": "支原体肺炎的中医治疗思路",
@@ -16913,14 +16993,6 @@
       "onboard_time": 1699437032,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174491,
-      "num": 174491,
-      "word": "白鹿张凌赫微指破亿",
-      "onboard_time": 1699499374,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 174361,
@@ -17107,14 +17179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 171181,
-      "num": 171181,
-      "word": "美国演员埃文埃林森猝逝",
-      "onboard_time": 1699499614,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171175,
       "num": 171175,
       "word": "王俊凯值得重温的舞台",
@@ -17275,6 +17339,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 168610,
+      "num": 168610,
+      "word": "何小鹏 技术的争鸣定能让用户受益",
+      "onboard_time": 1699500033,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "在儿童医院牙科工作的治疗犬",
@@ -17401,6 +17473,14 @@
       "onboard_time": 1699458338,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167447,
+      "num": 167447,
+      "word": "WTT常规挑战赛太原站",
+      "onboard_time": 1699500033,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 167410,
@@ -20803,14 +20883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125900,
-      "num": 125900,
-      "word": "惊奇队长2开分",
-      "onboard_time": 1699499851,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125848,
       "num": 125848,
       "word": "电影热搜谁在编辑井号里的人生",
@@ -21537,6 +21609,14 @@
       "onboard_time": 1699100736,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114686,
+      "num": 177496,
+      "word": "杨幂格斗家本家",
+      "onboard_time": 1699500756,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114646,
@@ -23057,6 +23137,14 @@
       "onboard_time": 1699332338,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72725,
+      "num": 166805,
+      "word": "住对了地方有多少惊喜浪漫",
+      "onboard_time": 1699500574,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 72598,
