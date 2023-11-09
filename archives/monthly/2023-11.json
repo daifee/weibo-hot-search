@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699492458973,
+  "endTime": 1699493678413,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1982836,
+      "num": 377243,
+      "word": "仲尼卡琳娜第一次相遇是在海滩",
+      "onboard_time": 1699492598,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1973587,
       "num": 1973587,
       "word": "黑龙江一男子冻死街头",
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 1520720,
-      "num": 352294,
+      "num": 368281,
       "word": "搜救人士称仲尼或因脚抽筋后溺亡",
       "onboard_time": 1699486589,
       "rank": 11,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1699323692,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1341697,
+      "num": 1341697,
+      "word": "市民曝网红刘媛媛涉虚假宣传",
+      "onboard_time": 1699489477,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1340266,
@@ -2121,14 +2137,6 @@
       "onboard_time": 1699230699,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1095450,
-      "num": 1095450,
-      "word": "市民曝网红刘媛媛涉虚假宣传",
-      "onboard_time": 1699489477,
-      "rank": 4,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1093529,
@@ -4883,6 +4891,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 574046,
+      "num": 430906,
+      "word": "仲尼生日当天遇难",
+      "onboard_time": 1699449533,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 573280,
       "num": 573280,
       "word": "哈工大学生去上课像登机",
@@ -5553,14 +5569,6 @@
       "onboard_time": 1698917792,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510472,
-      "num": 430906,
-      "word": "仲尼生日当天遇难",
-      "onboard_time": 1699449533,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 510150,
@@ -7009,6 +7017,14 @@
       "onboard_time": 1699109858,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 414345,
+      "num": 414345,
+      "word": "特斯拉涨价",
+      "onboard_time": 1699491638,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 414344,
@@ -8627,6 +8643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344899,
+      "num": 344899,
+      "word": "seventeen确定出演红白歌会",
+      "onboard_time": 1699490802,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344418,
       "num": 304924,
       "word": "谁给赵昭仪封的",
@@ -8913,14 +8937,6 @@
       "onboard_time": 1699078049,
       "rank": 19,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 332276,
-      "num": 332276,
-      "word": "特斯拉涨价",
-      "onboard_time": 1699491638,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 331971,
@@ -9257,14 +9273,6 @@
       "onboard_time": 1699372234,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 319207,
-      "num": 319207,
-      "word": "seventeen确定出演红白歌会",
-      "onboard_time": 1699490802,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 318972,
@@ -9835,6 +9843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 294182,
+      "num": 294182,
+      "word": "苏醒到底知道多少兄弟家密码",
+      "onboard_time": 1699491941,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293831,
       "num": 284430,
       "word": "岁岁青莲对我的乳腺很友好",
@@ -10089,6 +10105,14 @@
       "onboard_time": 1699353877,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284737,
+      "num": 284737,
+      "word": "邹市明说结婚后变得更会省钱了",
+      "onboard_time": 1699490080,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 284594,
@@ -11417,14 +11441,6 @@
       "onboard_time": 1698835053,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250452,
-      "num": 250452,
-      "word": "邹市明说结婚后变得更会省钱了",
-      "onboard_time": 1699490080,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 250161,
@@ -13107,6 +13123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219568,
+      "num": 219568,
+      "word": "杭州姑娘自己卖房省下3万中介费",
+      "onboard_time": 1699492298,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219343,
       "num": 219343,
       "word": "秋冬必学的慵懒低丸子头",
@@ -14483,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200071,
+      "num": 251710,
+      "word": "美香一家启程回家",
+      "onboard_time": 1699491638,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199965,
       "num": 199965,
       "word": "灵笼第二季",
@@ -14760,14 +14792,6 @@
       "word": "涉贩卖出生证医院官网显示维护中",
       "onboard_time": 1699325731,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197692,
-      "num": 251710,
-      "word": "美香一家启程回家",
-      "onboard_time": 1699491638,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -15387,6 +15411,14 @@
       "category": "国内要闻,教育"
     },
     {
+      "raw_hot": 190760,
+      "num": 190760,
+      "word": "显脸小眼妆就要这么化",
+      "onboard_time": 1699492959,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190755,
       "num": 190755,
       "word": "勇士vs雷霆",
@@ -15433,6 +15465,14 @@
       "onboard_time": 1699262314,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190454,
+      "num": 190454,
+      "word": "爱渣男是一时的 爱时髦是一世的",
+      "onboard_time": 1699492420,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 190424,
@@ -16089,14 +16129,6 @@
       "onboard_time": 1699085015,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183416,
-      "num": 183416,
-      "word": "苏醒到底知道多少兄弟家密码",
-      "onboard_time": 1699491941,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 183300,
@@ -19275,6 +19307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140814,
+      "num": 140814,
+      "word": "银行职员多问一句帮男子跳出陷阱",
+      "onboard_time": 1699491820,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140568,
       "num": 140568,
       "word": "丫丫变成安逸丫了",
@@ -20219,20 +20259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128918,
-      "num": 128918,
-      "word": "杭州姑娘自己卖房省下3万中介费",
-      "onboard_time": 1699492298,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
       "onboard_time": 1698797852,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128708,
+      "num": 128708,
+      "word": "00后被领导辱骂后起诉获赔100元",
+      "onboard_time": 1699493433,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128215,
@@ -20545,14 +20585,6 @@
       "onboard_time": 1699090170,
       "rank": 2,
       "category": "自然"
-    },
-    {
-      "raw_hot": 124094,
-      "num": 124094,
-      "word": "爱渣男是一时的 爱时髦是一世的",
-      "onboard_time": 1699492420,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 124083,

@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699492458973,
+  "endTime": 1699493678413,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3172348,
-      "num": 347955,
+      "num": 357563,
       "word": "仲尼",
       "onboard_time": 1699444355,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1982836,
+      "num": 377243,
+      "word": "仲尼卡琳娜第一次相遇是在海滩",
+      "onboard_time": 1699492598,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1850016,
       "num": 246216,
       "word": "搜救人士称卡琳娜也曾呛水晕倒",
@@ -52,15 +60,23 @@
     },
     {
       "raw_hot": 1520720,
-      "num": 352294,
+      "num": 368281,
       "word": "搜救人士称仲尼或因脚抽筋后溺亡",
       "onboard_time": 1699486589,
       "rank": 11,
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1341697,
+      "num": 1341697,
+      "word": "市民曝网红刘媛媛涉虚假宣传",
+      "onboard_time": 1699489477,
+      "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1296926,
-      "num": 346273,
+      "num": 353866,
       "word": "卡琳娜",
       "onboard_time": 1699449352,
       "rank": 11,
@@ -81,14 +97,6 @@
       "onboard_time": 1699485148,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095450,
-      "num": 1095450,
-      "word": "市民曝网红刘媛媛涉虚假宣传",
-      "onboard_time": 1699489477,
-      "rank": 4,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 786733,
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 574046,
+      "num": 430906,
+      "word": "仲尼生日当天遇难",
+      "onboard_time": 1699449533,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 515634,
       "num": 515634,
       "word": "坍塌体育馆开发商是当地建设局退休干部",
       "onboard_time": 1699488762,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510472,
-      "num": 430906,
-      "word": "仲尼生日当天遇难",
-      "onboard_time": 1699449533,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 499580,
@@ -177,6 +185,14 @@
       "onboard_time": 1699453379,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414345,
+      "num": 414345,
+      "word": "特斯拉涨价",
+      "onboard_time": 1699491638,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 410633,
@@ -251,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344899,
+      "num": 344899,
+      "word": "seventeen确定出演红白歌会",
+      "onboard_time": 1699490802,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 341860,
       "num": 341860,
       "word": "花少5第一次真正的矛盾来了",
@@ -267,28 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332276,
-      "num": 332276,
-      "word": "特斯拉涨价",
-      "onboard_time": 1699491638,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 329304,
       "num": 329304,
       "word": "真正的狂徒 温实初",
       "onboard_time": 1699488457,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319207,
-      "num": 319207,
-      "word": "seventeen确定出演红白歌会",
-      "onboard_time": 1699490802,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 317348,
@@ -315,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294182,
+      "num": 294182,
+      "word": "苏醒到底知道多少兄弟家密码",
+      "onboard_time": 1699491941,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286322,
       "num": 286322,
       "word": "航班乘客心脏骤停清华长庚医生紧急救援",
       "onboard_time": 1699456970,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284737,
+      "num": 284737,
+      "word": "邹市明说结婚后变得更会省钱了",
+      "onboard_time": 1699490080,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 281899,
@@ -379,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250452,
-      "num": 250452,
-      "word": "邹市明说结婚后变得更会省钱了",
-      "onboard_time": 1699490080,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246489,
       "num": 246489,
       "word": "为什么越来越多的KTV关店了",
@@ -425,6 +441,14 @@
       "onboard_time": 1699462348,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219568,
+      "num": 219568,
+      "word": "杭州姑娘自己卖房省下3万中介费",
+      "onboard_time": 1699492298,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212773,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200071,
+      "num": 251710,
+      "word": "美香一家启程回家",
+      "onboard_time": 1699491638,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199713,
       "num": 199713,
       "word": "时代峰峻的戒指是你家的吗",
@@ -531,20 +563,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197692,
-      "num": 251710,
-      "word": "美香一家启程回家",
-      "onboard_time": 1699491638,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192911,
       "num": 192911,
       "word": "田曦薇星河公主裙",
       "onboard_time": 1699455472,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190760,
+      "num": 190760,
+      "word": "显脸小眼妆就要这么化",
+      "onboard_time": 1699492959,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 190454,
+      "num": 190454,
+      "word": "爱渣男是一时的 爱时髦是一世的",
+      "onboard_time": 1699492420,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 187652,
@@ -569,14 +609,6 @@
       "onboard_time": 1699453492,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183416,
-      "num": 183416,
-      "word": "苏醒到底知道多少兄弟家密码",
-      "onboard_time": 1699491941,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 181020,
@@ -683,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140814,
+      "num": 140814,
+      "word": "银行职员多问一句帮男子跳出陷阱",
+      "onboard_time": 1699491820,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131929,
       "num": 123117,
       "word": "拜仁2比1加拉塔萨雷",
@@ -707,11 +747,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128918,
-      "num": 128918,
-      "word": "杭州姑娘自己卖房省下3万中介费",
-      "onboard_time": 1699492298,
-      "rank": 47,
+      "raw_hot": 128708,
+      "num": 128708,
+      "word": "00后被领导辱骂后起诉获赔100元",
+      "onboard_time": 1699493433,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -728,14 +768,6 @@
       "word": "一场大雪温太医成癫公了",
       "onboard_time": 1699469354,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124094,
-      "num": 124094,
-      "word": "爱渣男是一时的 爱时髦是一世的",
-      "onboard_time": 1699492420,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -940,7 +972,7 @@
     },
     {
       "raw_hot": 30079,
-      "num": 1253892,
+      "num": 1527475,
       "word": "乌镇网事",
       "onboard_time": 1699361194,
       "rank": 2,
