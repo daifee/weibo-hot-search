@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699500857696,
+  "endTime": 1699503648460,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -57,6 +57,14 @@
       "onboard_time": 1699277677,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7224187,
+      "num": 7224187,
+      "word": "卡琳娜讲述仲尼溺水时刻",
+      "onboard_time": 1699502072,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 6667104,
@@ -393,6 +401,14 @@
       "onboard_time": 1699151128,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2003521,
+      "num": 256434,
+      "word": "巴厘岛当地政府称仲尼溺亡系意外事件",
+      "onboard_time": 1699501414,
+      "rank": 31,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1986803,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237727,
+      "num": 1237727,
+      "word": "这萧剑晴儿还能认出吗",
+      "onboard_time": 1699500155,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1230353,
       "num": 1230353,
       "word": "导演答应白鹿不用大灯",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1699235314,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1046222,
+      "num": 1046222,
+      "word": "赵露思范思哲全球品牌代言人",
+      "onboard_time": 1699502854,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1035259,
@@ -1604,7 +1636,7 @@
     },
     {
       "raw_hot": 825384,
-      "num": 461383,
+      "num": 489812,
       "word": "邓紫棋发错群消息",
       "onboard_time": 1699495595,
       "rank": 12,
@@ -1633,6 +1665,22 @@
       "onboard_time": 1699410094,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 819871,
+      "num": 819871,
+      "word": "王楚钦VS徐瑛彬",
+      "onboard_time": 1699501356,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 818857,
+      "num": 818857,
+      "word": "秦海璐一句话误伤迪丽热巴",
+      "onboard_time": 1699499253,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 817082,
@@ -1915,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739646,
+      "num": 492766,
+      "word": "福原爱",
+      "onboard_time": 1699502615,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 739488,
       "num": 739488,
       "word": "江歌妈妈一句话概括拯救嫌疑人",
@@ -1995,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702148,
+      "num": 490892,
+      "word": "佳木斯体育馆遇难学生母亲发声",
+      "onboard_time": 1699501957,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700121,
       "num": 700121,
       "word": "肖战给李健演唱会送花篮",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1699276656,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677917,
-      "num": 677917,
-      "word": "秦海璐一句话误伤迪丽热巴",
-      "onboard_time": 1699499253,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 676801,
@@ -2819,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537918,
+      "num": 503739,
+      "word": "胡先煦 我们太男性视角了",
+      "onboard_time": 1699503035,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535093,
       "num": 313612,
       "word": "普通人和有钱人取名字区别有多大",
@@ -3025,6 +3089,14 @@
       "onboard_time": 1699361736,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 504126,
+      "num": 504126,
+      "word": "时宴沙发吻",
+      "onboard_time": 1699502795,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 502369,
@@ -3651,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423057,
+      "num": 239537,
+      "word": "太阳三巨头终于要合体了",
+      "onboard_time": 1699502194,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422813,
       "num": 422813,
       "word": "艾伦三笠 最后一吻",
@@ -3665,6 +3745,14 @@
       "onboard_time": 1699272454,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 420956,
+      "num": 420956,
+      "word": "时代少年团 快手",
+      "onboard_time": 1699502194,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 420774,
@@ -3857,6 +3945,14 @@
       "onboard_time": 1699255592,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401757,
+      "num": 401757,
+      "word": "领助学金学生看演唱会被要求删朋友圈",
+      "onboard_time": 1699501895,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400639,
@@ -4801,6 +4897,14 @@
       "onboard_time": 1699351056,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 323538,
+      "num": 288886,
+      "word": "刘媛媛直播间回应被指虚假宣传",
+      "onboard_time": 1699500993,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 323128,
@@ -5795,6 +5899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259314,
+      "num": 259314,
+      "word": "这片热爱的土地我们共同守护",
+      "onboard_time": 1699502915,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258754,
       "num": 258754,
       "word": "以爱为营 土甜",
@@ -6361,6 +6473,14 @@
       "onboard_time": 1699116267,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237348,
+      "num": 237348,
+      "word": "李承鄞的嘴长李嶷身上了",
+      "onboard_time": 1699503457,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 237042,
@@ -7043,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213562,
+      "num": 213562,
+      "word": "僧丫称已关闭平台充电赞赏功能",
+      "onboard_time": 1699500272,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213499,
       "num": 213499,
       "word": "一路前行定档",
@@ -7121,14 +7249,6 @@
       "onboard_time": 1699428038,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211516,
-      "num": 211516,
-      "word": "僧丫称已关闭平台充电赞赏功能",
-      "onboard_time": 1699500272,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211219,
@@ -7243,6 +7363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209316,
+      "num": 209316,
+      "word": "原来119是这个意思",
+      "onboard_time": 1699502615,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209275,
       "num": 209275,
       "word": "王源新歌出版者是时代峰峻",
@@ -7281,6 +7409,14 @@
       "onboard_time": 1699329814,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208369,
+      "num": 208369,
+      "word": "非正式会谈开播",
+      "onboard_time": 1699501356,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 208354,
@@ -7433,14 +7569,6 @@
       "onboard_time": 1699186777,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205602,
-      "num": 205602,
-      "word": "这萧剑晴儿还能认出吗",
-      "onboard_time": 1699500155,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 204992,
@@ -10267,6 +10395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141814,
+      "num": 205296,
+      "word": "海空卫士王伟的外甥接棒成飞行学员",
+      "onboard_time": 1699503637,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141811,
       "num": 141811,
       "word": "张婧仪焦糖色穿搭",
@@ -11236,7 +11372,7 @@
     },
     {
       "raw_hot": 114686,
-      "num": 177496,
+      "num": 497795,
       "word": "杨幂格斗家本家",
       "onboard_time": 1699500756,
       "rank": 43,

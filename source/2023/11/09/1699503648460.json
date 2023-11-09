@@ -1,0 +1,410 @@
+{
+  "runTime": 1699503648460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7224187,
+        "num": 7224187,
+        "word": "卡琳娜讲述仲尼溺水时刻",
+        "onboard_time": 1699502072,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1237727,
+        "num": 1237727,
+        "word": "这萧剑晴儿还能认出吗",
+        "onboard_time": 1699500155,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27123,
+        "num": 1105022,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699452654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046222,
+        "num": 1046222,
+        "word": "赵露思范思哲全球品牌代言人",
+        "onboard_time": 1699502854,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819871,
+        "num": 819871,
+        "word": "王楚钦VS徐瑛彬",
+        "onboard_time": 1699501356,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1040976,
+        "num": 819826,
+        "word": "中山二院致癌事件三大疑问",
+        "onboard_time": 1699496133,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818857,
+        "num": 818857,
+        "word": "秦海璐一句话误伤迪丽热巴",
+        "onboard_time": 1699499253,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504126,
+        "num": 504126,
+        "word": "时宴沙发吻",
+        "onboard_time": 1699502795,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537918,
+        "num": 503739,
+        "word": "胡先煦 我们太男性视角了",
+        "onboard_time": 1699503035,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388137,
+        "num": 499902,
+        "word": "开国少将文击逝世",
+        "onboard_time": 1699498893,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86404,
+        "num": 497795,
+        "word": "杨幂格斗家本家",
+        "onboard_time": 1699500756,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739646,
+        "num": 492766,
+        "word": "福原爱",
+        "onboard_time": 1699502615,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702148,
+        "num": 490892,
+        "word": "佳木斯体育馆遇难学生母亲发声",
+        "onboard_time": 1699501957,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489812,
+        "num": 489812,
+        "word": "邓紫棋发错群消息",
+        "onboard_time": 1699495595,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457598,
+        "num": 457598,
+        "word": "装修才是当代年轻人最好的医丑",
+        "onboard_time": 1699497631,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420956,
+        "num": 420956,
+        "word": "时代少年团 快手",
+        "onboard_time": 1699502194,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401757,
+        "num": 401757,
+        "word": "领助学金学生看演唱会被要求删朋友圈",
+        "onboard_time": 1699501895,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392626,
+        "num": 392626,
+        "word": "以爱为营处处吻",
+        "onboard_time": 1699499193,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369473,
+        "num": 369473,
+        "word": "金智媛老公姐",
+        "onboard_time": 1699496613,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364411,
+        "num": 364411,
+        "word": "市民曝网红刘媛媛涉虚假宣传",
+        "onboard_time": 1699489477,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 311033,
+        "num": 311033,
+        "word": "刘强东老家水龙头已换新",
+        "onboard_time": 1699497693,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309340,
+        "num": 309340,
+        "word": "僧丫",
+        "onboard_time": 1699499972,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295364,
+        "num": 295364,
+        "word": "TFBOYS方称十周年戒指事件为造谣",
+        "onboard_time": 1699490919,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289029,
+        "num": 289029,
+        "word": "中山二院内部人士否认网传实验室泄露",
+        "onboard_time": 1699498172,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323538,
+        "num": 288886,
+        "word": "刘媛媛直播间回应被指虚假宣传",
+        "onboard_time": 1699500993,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 287778,
+        "num": 287778,
+        "word": "秦霄贤周扬青直球式告白",
+        "onboard_time": 1699498532,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277242,
+        "num": 277242,
+        "word": "宁安如梦",
+        "onboard_time": 1699501112,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273361,
+        "num": 273361,
+        "word": "美甲做出了一种无语的美感",
+        "onboard_time": 1699500212,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 260581,
+        "num": 260581,
+        "word": "梨形身材才是基因彩票",
+        "onboard_time": 1699486710,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259314,
+        "num": 259314,
+        "word": "这片热爱的土地我们共同守护",
+        "onboard_time": 1699502915,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2786514,
+        "num": 259040,
+        "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+        "onboard_time": 1699486288,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2003521,
+        "num": 256434,
+        "word": "巴厘岛当地政府称仲尼溺亡系意外事件",
+        "onboard_time": 1699501414,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1825464,
+        "num": 254917,
+        "word": "搜救人士称卡琳娜也曾呛水晕倒",
+        "onboard_time": 1699489963,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1501603,
+        "num": 253282,
+        "word": "搜救人士称仲尼或因脚抽筋后溺亡",
+        "onboard_time": 1699486589,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1458354,
+        "num": 251627,
+        "word": "仲尼卡琳娜第一次相遇是在海滩",
+        "onboard_time": 1699492598,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1412326,
+        "num": 249629,
+        "word": "卡琳娜取消重庆漫展行程",
+        "onboard_time": 1699487070,
+        "rank": 35,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 1246447,
+        "num": 247099,
+        "word": "仲尼在巴厘岛遇难",
+        "onboard_time": 1699455235,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1055965,
+        "num": 244811,
+        "word": "酒店讲述仲尼巴厘岛遇难细节",
+        "onboard_time": 1699456610,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 591337,
+        "num": 244025,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124546,
+        "num": 241304,
+        "word": "美香一家启程回家",
+        "onboard_time": 1699491638,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423057,
+        "num": 239537,
+        "word": "太阳三巨头终于要合体了",
+        "onboard_time": 1699502194,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394327,
+        "num": 238402,
+        "word": "卡琳娜",
+        "onboard_time": 1699449352,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237348,
+        "num": 237348,
+        "word": "李承鄞的嘴长李嶷身上了",
+        "onboard_time": 1699503457,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231397,
+        "num": 231397,
+        "word": "00后被领导辱骂后起诉获赔100元",
+        "onboard_time": 1699493433,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218281,
+        "num": 218281,
+        "word": "美国演员埃文埃林森猝逝",
+        "onboard_time": 1699499614,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215545,
+        "num": 215545,
+        "word": "业内人士透露大女主会亲自选二番男主",
+        "onboard_time": 1699500333,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213562,
+        "num": 213562,
+        "word": "僧丫称已关闭平台充电赞赏功能",
+        "onboard_time": 1699500272,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209316,
+        "num": 209316,
+        "word": "原来119是这个意思",
+        "onboard_time": 1699502615,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208369,
+        "num": 208369,
+        "word": "非正式会谈开播",
+        "onboard_time": 1699501356,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141814,
+        "num": 205296,
+        "word": "海空卫士王伟的外甥接棒成飞行学员",
+        "onboard_time": 1699503637,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}
