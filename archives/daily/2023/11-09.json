@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699525103116,
+  "endTime": 1699526140300,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -155,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1710198,
-      "num": 1710198,
+      "raw_hot": 1860818,
+      "num": 1860818,
       "word": "中国公民暂勿前往缅北",
       "onboard_time": 1699521214,
       "rank": 23,
@@ -443,6 +443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 694879,
+      "num": 496234,
+      "word": "吴京自己人 有瓜他真说",
+      "onboard_time": 1699524756,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673362,
       "num": 329988,
       "word": "一中国公民在澳大利亚不幸溺亡",
@@ -456,6 +464,14 @@
       "word": "中山二院",
       "onboard_time": 1699450673,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628575,
+      "num": 1892478,
+      "word": "遗失手机飞了1300多公里被成功找回",
+      "onboard_time": 1699523433,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598792,
+      "num": 598792,
+      "word": "李雪琴吻戏",
+      "onboard_time": 1699524153,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597401,
       "num": 597401,
       "word": "王源吐槽还不如买个护肝片呢",
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561017,
+      "num": 561017,
+      "word": "田惠宇被控受贿2.1亿余元",
+      "onboard_time": 1699524456,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543592,
       "num": 443507,
       "word": "僧丫",
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 539939,
-      "num": 258665,
+      "num": 260256,
       "word": "邓为穿西装气质",
       "onboard_time": 1699523914,
       "rank": 20,
@@ -571,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 520655,
+      "num": 261785,
+      "word": "迪丽热巴火龙果公主裙",
+      "onboard_time": 1699525534,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 515634,
       "num": 515634,
       "word": "坍塌体育馆开发商是当地建设局退休干部",
@@ -587,16 +627,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 499076,
-      "num": 1733216,
-      "word": "遗失手机飞了1300多公里被成功找回",
-      "onboard_time": 1699523433,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491203,
-      "num": 377200,
+      "num": 390358,
       "word": "周也 复古千金妆",
       "onboard_time": 1699522054,
       "rank": 12,
@@ -633,14 +665,6 @@
       "onboard_time": 1699507834,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465294,
-      "num": 465294,
-      "word": "李雪琴吻戏",
-      "onboard_time": 1699524153,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 454137,
@@ -713,6 +737,14 @@
       "onboard_time": 1699491638,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 413029,
+      "num": 413029,
+      "word": "苏士成实验室有人在正常工作",
+      "onboard_time": 1699524395,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410633,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384461,
+      "num": 835309,
+      "word": "00后给父母买大件反赚两千元",
+      "onboard_time": 1699524935,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382269,
       "num": 382269,
       "word": "陈楚生 地狱笑话",
@@ -859,28 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356829,
-      "num": 195185,
-      "word": "吴京自己人 有瓜他真说",
-      "onboard_time": 1699524756,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355017,
       "num": 355017,
       "word": "心动的offer选手首次回应年入300万",
       "onboard_time": 1699486228,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352798,
-      "num": 352798,
-      "word": "田惠宇被控受贿2.1亿余元",
-      "onboard_time": 1699524456,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350781,
@@ -1179,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265355,
+      "num": 265355,
+      "word": "招商银行原行长田惠宇案一审开庭",
+      "onboard_time": 1699524212,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 264162,
       "num": 264162,
       "word": "谈判桌上互扔水果",
@@ -1379,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223830,
-      "num": 223830,
-      "word": "苏士成实验室有人在正常工作",
-      "onboard_time": 1699524395,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222517,
       "num": 222517,
       "word": "Somi希望IOI在MAMA合体",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1699500272,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213402,
+      "num": 213402,
+      "word": "王安宇 讨好型人格",
+      "onboard_time": 1699523732,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 212773,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1699511191,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201914,
-      "num": 201914,
-      "word": "招商银行原行长田惠宇案一审开庭",
-      "onboard_time": 1699524212,
-      "rank": 27,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 201687,
@@ -1689,14 +1713,6 @@
       "onboard_time": 1699510650,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188798,
-      "num": 188798,
-      "word": "王安宇 讨好型人格",
-      "onboard_time": 1699523732,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 187652,
@@ -1867,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161972,
+      "num": 161972,
+      "word": "鸡蛋的天花板料理",
+      "onboard_time": 1699525534,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161912,
       "num": 161912,
       "word": "时宴想要 时宴得到",
@@ -1971,12 +1995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150493,
-      "num": 214264,
-      "word": "00后给父母买大件反赚两千元",
-      "onboard_time": 1699524935,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 148624,
+      "num": 148624,
+      "word": "以爱为营 接吻百科",
+      "onboard_time": 1699525356,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 147501,
@@ -2048,6 +2072,14 @@
       "word": "中山二院黄某家属称其病情严重",
       "onboard_time": 1699450673,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143310,
+      "num": 143310,
+      "word": "湖南一小学食堂疑吃出白毛鼠头",
+      "onboard_time": 1699524273,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2233,14 +2265,6 @@
       "onboard_time": 1699508371,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121062,
-      "num": 121062,
-      "word": "湖南一小学食堂疑吃出白毛鼠头",
-      "onboard_time": 1699524273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120314,
@@ -2452,7 +2476,7 @@
     },
     {
       "raw_hot": 49076,
-      "num": 1669315,
+      "num": 1863283,
       "word": "2023世界互联网大会乌镇峰会",
       "onboard_time": 1699452654,
       "rank": 2,
