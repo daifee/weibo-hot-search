@@ -1,0 +1,410 @@
+{
+  "runTime": 1699508036068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2330907,
+        "num": 2330907,
+        "word": "离岸流",
+        "onboard_time": 1699503877,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1909383,
+        "num": 1909383,
+        "word": "协和医生 中山二院事件大概率不了了之",
+        "onboard_time": 1699505621,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11151,
+        "num": 1669315,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699452654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618072,
+        "num": 1618072,
+        "word": "海滩红旗区",
+        "onboard_time": 1699505677,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 889617,
+        "num": 889617,
+        "word": "以爱为营 秀才和一笑倾城",
+        "onboard_time": 1699503999,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733759,
+        "num": 733759,
+        "word": "大S回应小S复出演戏",
+        "onboard_time": 1699504718,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731977,
+        "num": 731977,
+        "word": "内娱改造最成功的两位男艺人",
+        "onboard_time": 1699504118,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720723,
+        "num": 720723,
+        "word": "赵露思范思哲全球品牌代言人",
+        "onboard_time": 1699502854,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717186,
+        "num": 717186,
+        "word": "长月烬明",
+        "onboard_time": 1699505677,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146729,
+        "num": 682736,
+        "word": "开国少将文击逝世",
+        "onboard_time": 1699498893,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658289,
+        "num": 658289,
+        "word": "福原爱",
+        "onboard_time": 1699502615,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 56132,
+        "num": 617985,
+        "word": "晶核格斗家版本上线",
+        "onboard_time": 1699505198,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 597401,
+        "num": 597401,
+        "word": "王源吐槽还不如买个护肝片呢",
+        "onboard_time": 1699506158,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583582,
+        "num": 583582,
+        "word": "南航称超低机票全部有效",
+        "onboard_time": 1699507057,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551030,
+        "num": 551030,
+        "word": "秦海璐一句话误伤迪丽热巴",
+        "onboard_time": 1699499253,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539327,
+        "num": 539327,
+        "word": "中山二院致癌事件三大疑问",
+        "onboard_time": 1699496133,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477408,
+        "num": 477408,
+        "word": "这萧剑晴儿还能认出吗",
+        "onboard_time": 1699500155,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464163,
+        "num": 464163,
+        "word": "大S说小S拿金钟最佳女主她就去死",
+        "onboard_time": 1699505259,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392446,
+        "num": 392446,
+        "word": "多数胰腺癌病人确诊后1年内死亡",
+        "onboard_time": 1699504899,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358687,
+        "num": 358687,
+        "word": "时宴沙发吻",
+        "onboard_time": 1699502795,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337531,
+        "num": 337531,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1699505560,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325746,
+        "num": 325746,
+        "word": "宁安如梦周生如故梦幻联动",
+        "onboard_time": 1699506217,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286604,
+        "num": 286604,
+        "word": "领助学金学生看演唱会被要求删朋友圈",
+        "onboard_time": 1699501895,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244987,
+        "num": 244987,
+        "word": "襄阳警方已查实叶某芝贩卖出生证",
+        "onboard_time": 1699504838,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240227,
+        "num": 240227,
+        "word": "匪我思存 为什么要写这样两个人物",
+        "onboard_time": 1699507175,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233173,
+        "num": 233173,
+        "word": "曼联 噩梦剧场",
+        "onboard_time": 1699507416,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228357,
+        "num": 228357,
+        "word": "太阳三巨头终于要合体了",
+        "onboard_time": 1699502194,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225293,
+        "num": 225293,
+        "word": "装修才是当代年轻人最好的医丑",
+        "onboard_time": 1699497631,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223898,
+        "num": 223898,
+        "word": "霍启刚晒照庆祝结婚11周年",
+        "onboard_time": 1699507834,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115218,
+        "num": 219539,
+        "word": "中国消防出警名场面",
+        "onboard_time": 1699507775,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3671635,
+        "num": 219269,
+        "word": "卡琳娜讲述仲尼溺水时刻",
+        "onboard_time": 1699502072,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218936,
+        "num": 218936,
+        "word": "WTT太原 观众",
+        "onboard_time": 1699504540,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2279981,
+        "num": 218606,
+        "word": "搜救组称仲尼在危险区域游泳",
+        "onboard_time": 1699506637,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2065979,
+        "num": 217152,
+        "word": "搜救人士称仲尼父母已抵达巴厘岛",
+        "onboard_time": 1699503821,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1397011,
+        "num": 216615,
+        "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+        "onboard_time": 1699486288,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1371021,
+        "num": 215260,
+        "word": "幸存者综合症",
+        "onboard_time": 1699506698,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1002926,
+        "num": 214838,
+        "word": "搜救人士称卡琳娜也曾呛水晕倒",
+        "onboard_time": 1699489963,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1000733,
+        "num": 213689,
+        "word": "仲尼卡琳娜第一次相遇是在海滩",
+        "onboard_time": 1699492598,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219304,
+        "num": 212913,
+        "word": "胡先煦 我们太男性视角了",
+        "onboard_time": 1699503035,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57528,
+        "num": 211134,
+        "word": "男人消费力首次超过宠物狗",
+        "onboard_time": 1699506039,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 966319,
+        "num": 210708,
+        "word": "巴厘岛当地政府称仲尼溺亡系意外事件",
+        "onboard_time": 1699501414,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 939133,
+        "num": 209659,
+        "word": "搜救人士称仲尼或因脚抽筋后溺亡",
+        "onboard_time": 1699486589,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 717492,
+        "num": 208243,
+        "word": "仲尼在巴厘岛遇难",
+        "onboard_time": 1699455235,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 704146,
+        "num": 207395,
+        "word": "卡琳娜取消重庆漫展行程",
+        "onboard_time": 1699487070,
+        "rank": 43,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 582129,
+        "num": 206152,
+        "word": "酒店讲述仲尼巴厘岛遇难细节",
+        "onboard_time": 1699456610,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 320997,
+        "num": 205519,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204938,
+        "num": 204938,
+        "word": "微博视界大会",
+        "onboard_time": 1699507714,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193813,
+        "num": 193813,
+        "word": "佳木斯体育馆遇难学生母亲发声",
+        "onboard_time": 1699501957,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188876,
+        "num": 188876,
+        "word": "何猷君像是来打假的",
+        "onboard_time": 1699488636,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16297,
+        "num": 183765,
+        "word": "B级车上市只卖A级车价格",
+        "onboard_time": 1699506936,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}
