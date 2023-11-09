@@ -1,0 +1,410 @@
+{
+  "runTime": 1699492458973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6667104,
+        "num": 6667104,
+        "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+        "onboard_time": 1699486288,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2072017,
+        "num": 2072017,
+        "word": "梨形身材才是基因彩票",
+        "onboard_time": 1699486710,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30079,
+        "num": 1253892,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1182925,
+        "num": 1182925,
+        "word": "睡前陪孩子聊废话 坚持半年变化惊人",
+        "onboard_time": 1699487250,
+        "rank": 3,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 1095450,
+        "num": 1095450,
+        "word": "市民曝网红刘媛媛涉虚假宣传",
+        "onboard_time": 1699489477,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 748550,
+        "num": 748550,
+        "word": "何猷君像是来打假的",
+        "onboard_time": 1699488636,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710526,
+        "num": 710526,
+        "word": "TFBOYS方称十周年戒指事件为造谣",
+        "onboard_time": 1699490919,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515634,
+        "num": 515634,
+        "word": "坍塌体育馆开发商是当地建设局退休干部",
+        "onboard_time": 1699488762,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392202,
+        "num": 392202,
+        "word": "赵露思王安宇一个抄作业一个查作业",
+        "onboard_time": 1699490859,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355017,
+        "num": 355017,
+        "word": "心动的offer选手首次回应年入300万",
+        "onboard_time": 1699486228,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1801403,
+        "num": 353437,
+        "word": "仲尼在巴厘岛遇难",
+        "onboard_time": 1699455235,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1520720,
+        "num": 352294,
+        "word": "搜救人士称仲尼或因脚抽筋后溺亡",
+        "onboard_time": 1699486589,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1342702,
+        "num": 350756,
+        "word": "酒店讲述仲尼巴厘岛遇难细节",
+        "onboard_time": 1699456610,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1150790,
+        "num": 349037,
+        "word": "苏州毒地",
+        "onboard_time": 1699485148,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953080,
+        "num": 347955,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 633973,
+        "num": 346273,
+        "word": "卡琳娜",
+        "onboard_time": 1699449352,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 510472,
+        "num": 344128,
+        "word": "仲尼生日当天遇难",
+        "onboard_time": 1699449533,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359740,
+        "num": 342813,
+        "word": "时代峰峻",
+        "onboard_time": 1699488939,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341283,
+        "num": 341283,
+        "word": "王冰冰颖儿一个比一个能吃",
+        "onboard_time": 1699489778,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332276,
+        "num": 332276,
+        "word": "特斯拉涨价",
+        "onboard_time": 1699491638,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 372905,
+        "num": 330907,
+        "word": "曝佳木斯体育馆遇难者母亲讨说法",
+        "onboard_time": 1699488518,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329304,
+        "num": 329304,
+        "word": "真正的狂徒 温实初",
+        "onboard_time": 1699488457,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319207,
+        "num": 319207,
+        "word": "seventeen确定出演红白歌会",
+        "onboard_time": 1699490802,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300003,
+        "num": 300003,
+        "word": "靳东再回应假靳东事件",
+        "onboard_time": 1699487856,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281899,
+        "num": 281899,
+        "word": "陈梦 凌晨5点的北京",
+        "onboard_time": 1699489302,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294891,
+        "num": 280570,
+        "word": "UNINE 重组",
+        "onboard_time": 1699485686,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273528,
+        "num": 273528,
+        "word": "相爱的人分手原因只有一个",
+        "onboard_time": 1699487431,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258687,
+        "num": 258687,
+        "word": "王栎鑫评披哥颜值前三",
+        "onboard_time": 1699490139,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255003,
+        "num": 255003,
+        "word": "中山二院人士回应乳腺肿瘤实验室已拆除",
+        "onboard_time": 1699447550,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197692,
+        "num": 251710,
+        "word": "美香一家启程回家",
+        "onboard_time": 1699491638,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250452,
+        "num": 250452,
+        "word": "邹市明说结婚后变得更会省钱了",
+        "onboard_time": 1699490080,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246489,
+        "num": 246489,
+        "word": "为什么越来越多的KTV关店了",
+        "onboard_time": 1699487495,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1850016,
+        "num": 246216,
+        "word": "搜救人士称卡琳娜也曾呛水晕倒",
+        "onboard_time": 1699489963,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 244314,
+        "num": 244314,
+        "word": "瑞幸 罗翔",
+        "onboard_time": 1699452654,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216046,
+        "num": 216046,
+        "word": "龙 你今天吃了20个饺子",
+        "onboard_time": 1699462166,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209404,
+        "num": 209404,
+        "word": "易烊千玺米兰出发路透",
+        "onboard_time": 1699488218,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202247,
+        "num": 202247,
+        "word": "青簪行彭冠英补拍",
+        "onboard_time": 1699456312,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 201265,
+        "word": "姜雪宁被一扶误终生",
+        "onboard_time": 1699489177,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201050,
+        "num": 201050,
+        "word": "张亮近期状态",
+        "onboard_time": 1699490021,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199713,
+        "num": 199713,
+        "word": "时代峰峻的戒指是你家的吗",
+        "onboard_time": 1699447070,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187652,
+        "num": 187652,
+        "word": "王安宇更像现实中的我们",
+        "onboard_time": 1699491220,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183416,
+        "num": 183416,
+        "word": "苏醒到底知道多少兄弟家密码",
+        "onboard_time": 1699491941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164806,
+        "num": 164806,
+        "word": "小狗认为摸头是世界上最幸福的事",
+        "onboard_time": 1699460013,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155434,
+        "num": 155434,
+        "word": "老板给肉切片的时候肉还在动",
+        "onboard_time": 1699488277,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153691,
+        "num": 153691,
+        "word": "美发师用4根头发讲理发干货",
+        "onboard_time": 1699488818,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148189,
+        "num": 148189,
+        "word": "花少后期多剪一秒就露馅了",
+        "onboard_time": 1699455115,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134993,
+        "num": 134993,
+        "word": "肺炎支原体短期内会重复感染吗",
+        "onboard_time": 1699484905,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128918,
+        "num": 128918,
+        "word": "杭州姑娘自己卖房省下3万中介费",
+        "onboard_time": 1699492298,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124094,
+        "num": 124094,
+        "word": "爱渣男是一时的 爱时髦是一世的",
+        "onboard_time": 1699492420,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122229,
+        "num": 122229,
+        "word": "皇马欧冠提前出线",
+        "onboard_time": 1699490919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}

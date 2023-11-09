@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/09 07:34:36
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/09 09:14:18
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ EDG官宣签约Uzi（热度：6842168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3%23" target="weibo">
+仲尼遇难现场妻子卡琳娜掩面而泣（热度：6667104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
 DOTA2中国队夺冠（热度：6586145）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E8%AF%B7%E5%91%98%E5%B7%A5%E5%B0%81%E9%94%81%E9%82%B1%E8%80%80%E4%B9%90%E8%B4%A6%E5%8F%B7%23" target="weibo">
 曝炎亚纶曾请员工封锁邱耀乐账号（热度：6223000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%B2%A1%E6%9C%89%E8%B4%BE%E7%8E%B2%E5%BC%A0%E5%B0%8F%E6%96%90%23" target="weibo">
-春晚没有贾玲张小斐（热度：6207481）
 </a>
 </li>
 

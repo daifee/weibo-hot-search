@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699486476927,
+  "endTime": 1699492458973,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -81,6 +81,14 @@
       "onboard_time": 1698884075,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6667104,
+      "num": 6667104,
+      "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+      "onboard_time": 1699486288,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 5730211,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2072017,
+      "num": 2072017,
+      "word": "梨形身材才是基因彩票",
+      "onboard_time": 1699486710,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2070343,
       "num": 2070343,
       "word": "杨紫发个正常的朋友圈被80个好友担心",
@@ -817,6 +833,14 @@
       "onboard_time": 1699433614,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1850016,
+      "num": 246216,
+      "word": "搜救人士称卡琳娜也曾呛水晕倒",
+      "onboard_time": 1699489963,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1846043,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1699343012,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1520720,
+      "num": 352294,
+      "word": "搜救人士称仲尼或因脚抽筋后溺亡",
+      "onboard_time": 1699486589,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1519824,
@@ -1883,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1182925,
+      "num": 1182925,
+      "word": "睡前陪孩子聊废话 坚持半年变化惊人",
+      "onboard_time": 1699487250,
+      "rank": 3,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 1178201,
       "num": 1178201,
       "word": "关晓彤生日被整蛊",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1699208777,
       "rank": 36,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1150790,
+      "num": 417914,
+      "word": "苏州毒地",
+      "onboard_time": 1699485148,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1137514,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1699230699,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1095450,
+      "num": 1095450,
+      "word": "市民曝网红刘媛媛涉虚假宣传",
+      "onboard_time": 1699489477,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1093529,
@@ -2337,14 +2393,6 @@
       "onboard_time": 1699252115,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1000440,
-      "num": 275418,
-      "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
-      "onboard_time": 1699486288,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 999521,
@@ -3395,6 +3443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 748550,
+      "num": 748550,
+      "word": "何猷君像是来打假的",
+      "onboard_time": 1699488636,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747476,
       "num": 747476,
       "word": "官方再通报青岛啤酒三厂事件",
@@ -3703,6 +3759,14 @@
       "num": 713413,
       "word": "权志龙调查现场说走着瞧吧",
       "onboard_time": 1699256074,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 710526,
+      "num": 710526,
+      "word": "TFBOYS方称十周年戒指事件为造谣",
+      "onboard_time": 1699490919,
       "rank": 6,
       "category": "艺人"
     },
@@ -5411,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515634,
+      "num": 515634,
+      "word": "坍塌体育馆开发商是当地建设局退休干部",
+      "onboard_time": 1699488762,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515548,
       "num": 515548,
       "word": "小学生被请家长妈妈一来全校激动",
@@ -5481,6 +5553,14 @@
       "onboard_time": 1698917792,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510472,
+      "num": 430906,
+      "word": "仲尼生日当天遇难",
+      "onboard_time": 1699449533,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 510150,
@@ -6659,14 +6739,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 430906,
-      "num": 430906,
-      "word": "仲尼生日当天遇难",
-      "onboard_time": 1699449533,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 430738,
       "num": 430738,
       "word": "中国海警依法管控日非法进我钓鱼岛领海船只",
@@ -6881,14 +6953,6 @@
       "onboard_time": 1699052120,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 417914,
-      "num": 417914,
-      "word": "苏州毒地",
-      "onboard_time": 1699485148,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417627,
@@ -7411,6 +7475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392202,
+      "num": 392202,
+      "word": "赵露思王安宇一个抄作业一个查作业",
+      "onboard_time": 1699490859,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392112,
       "num": 392112,
       "word": "智利决定召回驻以色列大使",
@@ -7867,6 +7939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372905,
+      "num": 330907,
+      "word": "曝佳木斯体育馆遇难者母亲讨说法",
+      "onboard_time": 1699488518,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372862,
       "num": 245163,
       "word": "我比王鸥本人还关心她的事业",
@@ -8139,6 +8219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 359740,
+      "num": 342813,
+      "word": "时代峰峻",
+      "onboard_time": 1699488939,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359285,
       "num": 233941,
       "word": "小朋友撤回了一包辣条",
@@ -8249,6 +8337,14 @@
       "onboard_time": 1699351894,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355017,
+      "num": 355017,
+      "word": "心动的offer选手首次回应年入300万",
+      "onboard_time": 1699486228,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 354624,
@@ -8611,6 +8707,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 341283,
+      "num": 341283,
+      "word": "王冰冰颖儿一个比一个能吃",
+      "onboard_time": 1699489778,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340319,
       "num": 340319,
       "word": "秦岚用的什么洗发水",
@@ -8811,6 +8915,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 332276,
+      "num": 332276,
+      "word": "特斯拉涨价",
+      "onboard_time": 1699491638,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 331971,
       "num": 331971,
       "word": "难怪甄嬛说宁古塔苦寒无比",
@@ -8937,6 +9049,14 @@
       "onboard_time": 1698905072,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329304,
+      "num": 329304,
+      "word": "真正的狂徒 温实初",
+      "onboard_time": 1699488457,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 328604,
@@ -9137,6 +9257,14 @@
       "onboard_time": 1699372234,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319207,
+      "num": 319207,
+      "word": "seventeen确定出演红白歌会",
+      "onboard_time": 1699490802,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 318972,
@@ -9561,6 +9689,14 @@
       "onboard_time": 1698803493,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 300003,
+      "num": 300003,
+      "word": "靳东再回应假靳东事件",
+      "onboard_time": 1699487856,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 299964,
@@ -10027,6 +10163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281899,
+      "num": 281899,
+      "word": "陈梦 凌晨5点的北京",
+      "onboard_time": 1699489302,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281662,
       "num": 281662,
       "word": "邓为仙台有树打坐路透",
@@ -10345,6 +10489,14 @@
       "onboard_time": 1699353759,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273528,
+      "num": 273528,
+      "word": "相爱的人分手原因只有一个",
+      "onboard_time": 1699487431,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 273208,
@@ -10899,6 +11051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258687,
+      "num": 258687,
+      "word": "王栎鑫评披哥颜值前三",
+      "onboard_time": 1699490139,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258436,
       "num": 258436,
       "word": "两块钱的内衣皂",
@@ -11259,6 +11419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250452,
+      "num": 250452,
+      "word": "邹市明说结婚后变得更会省钱了",
+      "onboard_time": 1699490080,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250161,
       "num": 250161,
       "word": "穿越火线 开挂",
@@ -11441,6 +11609,14 @@
       "onboard_time": 1699176149,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246489,
+      "num": 246489,
+      "word": "为什么越来越多的KTV关店了",
+      "onboard_time": 1699487495,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246417,
@@ -13523,6 +13699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209404,
+      "num": 209404,
+      "word": "易烊千玺米兰出发路透",
+      "onboard_time": 1699488218,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209322,
       "num": 196475,
       "word": "徐璐时隔6年拍电影",
@@ -14203,6 +14387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201265,
+      "num": 201265,
+      "word": "姜雪宁被一扶误终生",
+      "onboard_time": 1699489177,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201256,
       "num": 1195512,
       "word": "丁程鑫队长大秀故事感",
@@ -14225,6 +14417,14 @@
       "onboard_time": 1698982352,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201050,
+      "num": 201050,
+      "word": "张亮近期状态",
+      "onboard_time": 1699490021,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 201026,
@@ -14560,6 +14760,14 @@
       "word": "涉贩卖出生证医院官网显示维护中",
       "onboard_time": 1699325731,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197692,
+      "num": 251710,
+      "word": "美香一家启程回家",
+      "onboard_time": 1699491638,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -15507,6 +15715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187652,
+      "num": 187652,
+      "word": "王安宇更像现实中的我们",
+      "onboard_time": 1699491220,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187636,
       "num": 187636,
       "word": "林一李兰迪新剧改名",
@@ -15873,6 +16089,14 @@
       "onboard_time": 1699085015,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183416,
+      "num": 183416,
+      "word": "苏醒到底知道多少兄弟家密码",
+      "onboard_time": 1699491941,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183300,
@@ -17811,6 +18035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155434,
+      "num": 155434,
+      "word": "老板给肉切片的时候肉还在动",
+      "onboard_time": 1699488277,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155060,
       "num": 155060,
       "word": "支原体肺炎三件套不宜自行服用",
@@ -17985,6 +18217,14 @@
       "onboard_time": 1699282480,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153691,
+      "num": 153691,
+      "word": "美发师用4根头发讲理发干货",
+      "onboard_time": 1699488818,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 153633,
@@ -19979,6 +20219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128918,
+      "num": 128918,
+      "word": "杭州姑娘自己卖房省下3万中介费",
+      "onboard_time": 1699492298,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
@@ -20299,6 +20547,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 124094,
+      "num": 124094,
+      "word": "爱渣男是一时的 爱时髦是一世的",
+      "onboard_time": 1699492420,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124083,
       "num": 124083,
       "word": "小胖裴擒虎FMVP皮肤",
@@ -20425,6 +20681,14 @@
       "onboard_time": 1699061733,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 122229,
+      "num": 122229,
+      "word": "皇马欧冠提前出线",
+      "onboard_time": 1699490919,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122132,
@@ -21825,14 +22089,6 @@
       "onboard_time": 1699254572,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94325,
-      "num": 94325,
-      "word": "心动的offer选手首次回应年入300万",
-      "onboard_time": 1699486228,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 94145,
