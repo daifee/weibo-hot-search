@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699543077918,
+  "endTime": 1699544071797,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788042,
+      "num": 788042,
+      "word": "把秦岚美到尖叫的图发出来了",
+      "onboard_time": 1699541675,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786733,
       "num": 723827,
       "word": "仲尼昨天生日",
@@ -435,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731757,
+      "num": 731757,
+      "word": "江宏杰与炎亚纶经纪人签约",
+      "onboard_time": 1699541434,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727939,
       "num": 727939,
       "word": "小奇迹一家平安到家",
       "onboard_time": 1699537356,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723675,
-      "num": 723675,
-      "word": "江宏杰与炎亚纶经纪人签约",
-      "onboard_time": 1699541434,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 722056,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515351,
+      "num": 328460,
+      "word": "外交部回应哈马斯代表团或访北京",
+      "onboard_time": 1699541853,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 499580,
       "num": 290933,
       "word": "TFBOYS十周年专辑戒指",
@@ -808,14 +824,6 @@
       "word": "王安宇在花少打了几份工",
       "onboard_time": 1699531774,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 469935,
-      "num": 386177,
-      "word": "把秦岚美到尖叫的图发出来了",
-      "onboard_time": 1699541675,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -921,6 +929,14 @@
       "onboard_time": 1699533933,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 426228,
+      "num": 324470,
+      "word": "陈楚生在尺度和分寸间选择了尺寸",
+      "onboard_time": 1699543114,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 423057,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1699512691,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384113,
+      "num": 320058,
+      "word": "上海四位数的面",
+      "onboard_time": 1699542094,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 382269,
@@ -1211,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328167,
-      "num": 175642,
-      "word": "上海四位数的面",
-      "onboard_time": 1699542094,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 326438,
       "num": 326438,
       "word": "美女博主的发型 梦中情发",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1699499851,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 311053,
-      "num": 311053,
-      "word": "外交部回应哈马斯代表团或访北京",
-      "onboard_time": 1699541853,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 310894,
@@ -1363,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296639,
+      "num": 270366,
+      "word": "韩男子被机器人误当箱子放入传送带压死",
+      "onboard_time": 1699541732,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294182,
       "num": 294182,
       "word": "苏醒到底知道多少兄弟家密码",
@@ -1379,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287836,
+      "num": 287836,
+      "word": "医院贩卖出生证明7人被采取刑事强制措施",
+      "onboard_time": 1699541314,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286777,
       "num": 286777,
       "word": "SM将2024年推出新男团",
@@ -1392,14 +1416,6 @@
       "word": "航班乘客心脏骤停清华长庚医生紧急救援",
       "onboard_time": 1699456970,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286200,
-      "num": 286200,
-      "word": "医院贩卖出生证明7人被采取刑事强制措施",
-      "onboard_time": 1699541314,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1745,14 +1761,6 @@
       "onboard_time": 1699500212,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225569,
-      "num": 225569,
-      "word": "韩男子被机器人误当箱子放入传送带压死",
-      "onboard_time": 1699541732,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222517,
@@ -2841,6 +2849,14 @@
       "onboard_time": 1699457626,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105409,
+      "num": 106876,
+      "word": "赵露思弹唱星河叹",
+      "onboard_time": 1699543893,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104731,

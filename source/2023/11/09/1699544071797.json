@@ -1,0 +1,410 @@
+{
+  "runTime": 1699544071797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907105,
+        "num": 907105,
+        "word": "金莎说把我的恋爱脑炖了吧",
+        "onboard_time": 1699533814,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862478,
+        "num": 862478,
+        "word": "一中国女子在日本街头被杀害",
+        "onboard_time": 1699520973,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11606,
+        "num": 810884,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788042,
+        "num": 788042,
+        "word": "把秦岚美到尖叫的图发出来了",
+        "onboard_time": 1699541675,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731757,
+        "num": 731757,
+        "word": "江宏杰与炎亚纶经纪人签约",
+        "onboard_time": 1699541434,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661139,
+        "num": 661139,
+        "word": "以爱为营提档",
+        "onboard_time": 1699541314,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648275,
+        "num": 648275,
+        "word": "邓为 DIOR",
+        "onboard_time": 1699526852,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 598670,
+        "num": 598670,
+        "word": "小奇迹一家平安到家",
+        "onboard_time": 1699537356,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443577,
+        "num": 443577,
+        "word": "张家界涉事正新鸡排加盟店已被查封",
+        "onboard_time": 1699535132,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333801,
+        "num": 333801,
+        "word": "花3000块就吃了一碗粉条",
+        "onboard_time": 1699535555,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 591051,
+        "num": 330543,
+        "word": "中山二院乳腺肿瘤实验室负责人信息摘除",
+        "onboard_time": 1699532014,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515351,
+        "num": 328460,
+        "word": "外交部回应哈马斯代表团或访北京",
+        "onboard_time": 1699541853,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 426228,
+        "num": 324470,
+        "word": "陈楚生在尺度和分寸间选择了尺寸",
+        "onboard_time": 1699543114,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402977,
+        "num": 321909,
+        "word": "原来绝经不是一下子就没了",
+        "onboard_time": 1699530212,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384113,
+        "num": 320058,
+        "word": "上海四位数的面",
+        "onboard_time": 1699542094,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 383636,
+        "num": 314399,
+        "word": "王安宇在花少打了几份工",
+        "onboard_time": 1699531774,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313969,
+        "num": 313969,
+        "word": "宁安如梦 台词难受",
+        "onboard_time": 1699527334,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311460,
+        "num": 311460,
+        "word": "宋雨琦回复郑恺",
+        "onboard_time": 1699536694,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287836,
+        "num": 287836,
+        "word": "医院贩卖出生证明7人被采取刑事强制措施",
+        "onboard_time": 1699541314,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277243,
+        "num": 277243,
+        "word": "RNG队员为Wei庆生",
+        "onboard_time": 1699541495,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296639,
+        "num": 270366,
+        "word": "韩男子被机器人误当箱子放入传送带压死",
+        "onboard_time": 1699541732,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291901,
+        "num": 253663,
+        "word": "王安宇胡先煦 夫妻相处范本",
+        "onboard_time": 1699530452,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230507,
+        "num": 230507,
+        "word": "美香一家今晚到家",
+        "onboard_time": 1699516533,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208448,
+        "num": 208448,
+        "word": "央视独家披露河南42死火灾现场视频",
+        "onboard_time": 1699531350,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189370,
+        "num": 189370,
+        "word": "吴京自己人 有瓜他真说",
+        "onboard_time": 1699524756,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183605,
+        "num": 183605,
+        "word": "杨幂暗夜星河长裙",
+        "onboard_time": 1699533633,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177357,
+        "num": 177357,
+        "word": "宁安如梦爱奇艺热度值破9500",
+        "onboard_time": 1699534833,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175240,
+        "num": 175240,
+        "word": "成都下水道 让人失望的中山二院",
+        "onboard_time": 1699511553,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164624,
+        "num": 164624,
+        "word": "DIOR活动",
+        "onboard_time": 1699530932,
+        "rank": 28,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "迪丽热巴火龙果公主裙",
+        "onboard_time": 1699525534,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1403470,
+        "num": 157640,
+        "word": "卡琳娜未要求对仲尼尸检",
+        "onboard_time": 1699529733,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 156483,
+        "num": 156483,
+        "word": "赵丽颖两部剧入围微博视界大会",
+        "onboard_time": 1699537114,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156339,
+        "num": 156339,
+        "word": "洗头后到底该吹干还是风干",
+        "onboard_time": 1699526673,
+        "rank": 32,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 962293,
+        "num": 155682,
+        "word": "仲尼死亡原因",
+        "onboard_time": 1699508974,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 152820,
+        "num": 152820,
+        "word": "深夜吃一碗街边炒泡面",
+        "onboard_time": 1699542575,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151041,
+        "num": 151041,
+        "word": "中国公民暂勿前往缅北",
+        "onboard_time": 1699521214,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 143580,
+        "num": 143580,
+        "word": "遗失手机飞了1300多公里被成功找回",
+        "onboard_time": 1699523433,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143522,
+        "num": 143522,
+        "word": "玲子参加婚礼",
+        "onboard_time": 1699534294,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141069,
+        "num": 141069,
+        "word": "李雪琴吻戏",
+        "onboard_time": 1699524153,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134646,
+        "num": 134646,
+        "word": "华为发布首款纯电轿车智界S7",
+        "onboard_time": 1699532912,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133842,
+        "num": 133842,
+        "word": "姜雪宁谢危张遮修罗场要来了",
+        "onboard_time": 1699533570,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131359,
+        "num": 131359,
+        "word": "咸菜腌多久才能躲开亚硝酸盐",
+        "onboard_time": 1699541495,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123053,
+        "num": 123053,
+        "word": "薛之谦怕打针也要给儿子做榜样",
+        "onboard_time": 1699536094,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114521,
+        "num": 114521,
+        "word": "肖战深V内搭",
+        "onboard_time": 1699528533,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106880,
+        "num": 106880,
+        "word": "00后给父母买大件反赚两千元",
+        "onboard_time": 1699524935,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105409,
+        "num": 106876,
+        "word": "赵露思弹唱星河叹",
+        "onboard_time": 1699543893,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96799,
+        "num": 106866,
+        "word": "SM将2024年推出新男团",
+        "onboard_time": 1699535493,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94201,
+        "num": 106864,
+        "word": "这就是成年人的恋爱",
+        "onboard_time": 1699534473,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87243,
+        "num": 106855,
+        "word": "王牌对王牌全员参加村BA运动会",
+        "onboard_time": 1699533451,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77526,
+        "num": 106850,
+        "word": "离岸流",
+        "onboard_time": 1699503877,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网络空间互联互通共享共治#"
+    }
+  }
+}
