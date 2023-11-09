@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699546956586,
+  "endTime": 1699547894757,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -307,6 +307,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 3053487,
+      "num": 3053487,
+      "word": "美国首次发现吸血鬼病毒",
+      "onboard_time": 1699544253,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3005329,
       "num": 3005329,
       "word": "gala哭了",
@@ -369,14 +377,6 @@
       "onboard_time": 1699157973,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2759507,
-      "num": 2759507,
-      "word": "美国首次发现吸血鬼病毒",
-      "onboard_time": 1699544253,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2727681,
@@ -5075,6 +5075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 607501,
+      "num": 607501,
+      "word": "西南政法大学vs华东政法大学",
+      "onboard_time": 1699544912,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 607118,
       "num": 384522,
       "word": "何炅谢娜同台主持湖南卫视惊喜夜",
@@ -5561,14 +5569,6 @@
       "onboard_time": 1699274915,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 564290,
-      "num": 564290,
-      "word": "西南政法大学vs华东政法大学",
-      "onboard_time": 1699544912,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 563149,
