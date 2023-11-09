@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699565652270,
+  "endTime": 1699568188716,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -139,6 +139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 266592,
+      "num": 266592,
+      "word": "央行回应取消跨行提现手续费",
+      "onboard_time": 1699563133,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "邓为 DIOR",
@@ -225,14 +233,6 @@
       "onboard_time": 1699536694,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115500,
-      "num": 115500,
-      "word": "央行回应取消跨行提现手续费",
-      "onboard_time": 1699563133,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 113631,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73691,
+      "num": 73691,
+      "word": "高三女孩跳河2男子划桨板1分钟救回",
+      "onboard_time": 1699564334,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70724,
       "num": 87986,
       "word": "SM将2024年推出新男团",
@@ -459,6 +467,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 27683,
+      "num": 27683,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26844,
       "num": 57434,
       "word": "流浪汉被民警救助后坦白是命案逃犯",
@@ -475,22 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19755,
-      "num": 19755,
-      "word": "高三女孩跳河2男子划桨板1分钟救回",
-      "onboard_time": 1699564334,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19224,
-      "num": 19830,
-      "word": "宝宝也没想到一出生就危机四伏",
-      "onboard_time": 1699555336,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16722,
       "num": 21811,
       "word": "琉璃花瓣浴",
@@ -499,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14696,
+      "num": 19803,
+      "word": "B太游北方计划",
+      "onboard_time": 1699556893,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 12895,
       "num": 452292,
       "word": "在进博会感受东西方文化碰撞之美",
       "onboard_time": 1699534171,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 12395,
-      "num": 19803,
-      "word": "B太游北方计划",
-      "onboard_time": 1699556893,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 9438,
