@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699569242279,
+  "endTime": 1699571865360,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -51,6 +51,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 734548,
+      "num": 734548,
+      "word": "央行回应取消跨行提现手续费",
+      "onboard_time": 1699563133,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 675204,
       "num": 675204,
       "word": "陈楚生在尺度和分寸间选择了尺寸",
@@ -89,14 +97,6 @@
       "onboard_time": 1699533814,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372981,
-      "num": 372981,
-      "word": "央行回应取消跨行提现手续费",
-      "onboard_time": 1699563133,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 369514,
@@ -163,11 +163,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241973,
+      "num": 241973,
+      "word": "男子进账1132万直冲派出所",
+      "onboard_time": 1699571004,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221913,
       "num": 166307,
       "word": "韩男子被机器人误当箱子放入传送带压死",
       "onboard_time": 1699541732,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207111,
+      "num": 207111,
+      "word": "高三女孩跳河2男子划桨板1分钟救回",
+      "onboard_time": 1699564334,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -203,6 +219,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152439,
+      "num": 108996,
+      "word": "中山二院一患癌医生去年已发现肿瘤",
+      "onboard_time": 1699553537,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152222,
+      "num": 152222,
+      "word": "洗头后到底该吹干还是风干",
+      "onboard_time": 1699526673,
+      "rank": 24,
+      "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 149318,
+      "num": 149318,
+      "word": "浙江大学夜跑放的是凤凰传奇的歌",
+      "onboard_time": 1699547966,
+      "rank": 21,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 134897,
       "num": 134897,
       "word": "杨幂暗夜星河长裙",
@@ -217,14 +257,6 @@
       "onboard_time": 1699544912,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127431,
-      "num": 127431,
-      "word": "洗头后到底该吹干还是风干",
-      "onboard_time": 1699526673,
-      "rank": 24,
-      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 121846,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109835,
+      "num": 109835,
+      "word": "印度和巴基斯坦再次交火",
+      "onboard_time": 1699571545,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 107210,
       "num": 107210,
       "word": "迪丽热巴火龙果公主裙",
@@ -283,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103248,
-      "num": 103248,
-      "word": "浙江大学夜跑放的是凤凰传奇的歌",
-      "onboard_time": 1699547966,
-      "rank": 21,
-      "category": "教育,艺人"
+      "raw_hot": 102577,
+      "num": 102577,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 100511,
@@ -299,11 +339,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97982,
-      "num": 97982,
-      "word": "高三女孩跳河2男子划桨板1分钟救回",
-      "onboard_time": 1699564334,
-      "rank": 45,
+      "raw_hot": 97037,
+      "num": 97037,
+      "word": "遗失手机飞了1300多公里被成功找回",
+      "onboard_time": 1699523433,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -353,14 +393,6 @@
       "onboard_time": 1699524756,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88029,
-      "num": 88029,
-      "word": "遗失手机飞了1300多公里被成功找回",
-      "onboard_time": 1699523433,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80929,
@@ -427,14 +459,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 63434,
-      "num": 43616,
-      "word": "中山二院一患癌医生去年已发现肿瘤",
-      "onboard_time": 1699553537,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57829,
       "num": 64534,
       "word": "赵丽颖两部剧入围微博视界大会",
@@ -443,7 +467,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47751,
+      "raw_hot": 48482,
       "num": 57566,
       "word": "这就是成年人的恋爱",
       "onboard_time": 1699534473,
@@ -451,15 +475,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40435,
-      "num": 40435,
-      "word": "宝宝也没想到一出生就危机四伏",
-      "onboard_time": 1699555336,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 44602,
+      "num": 57434,
+      "word": "流浪汉被民警救助后坦白是命案逃犯",
+      "onboard_time": 1699551138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 36927,
+      "raw_hot": 41868,
       "num": 57443,
       "word": "王牌对王牌全员参加村BA运动会",
       "onboard_time": 1699533451,
@@ -475,12 +499,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 28116,
-      "num": 57434,
-      "word": "流浪汉被民警救助后坦白是命案逃犯",
-      "onboard_time": 1699551138,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 21365,
+      "num": 669440,
+      "word": "在进博会感受东西方文化碰撞之美",
+      "onboard_time": 1699534171,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 20556,
@@ -505,14 +529,6 @@
       "onboard_time": 1699556954,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12895,
-      "num": 452292,
-      "word": "在进博会感受东西方文化碰撞之美",
-      "onboard_time": 1699534171,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 9438,
