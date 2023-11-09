@@ -1,0 +1,410 @@
+{
+  "runTime": 1699557242690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 359557,
+        "num": 359557,
+        "word": "美国首次发现吸血鬼病毒",
+        "onboard_time": 1699544253,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159882,
+        "num": 159882,
+        "word": "大连市监局通报B太曝光鬼秤案件",
+        "onboard_time": 1699544073,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 9442,
+        "num": 114886,
+        "word": "在进博会感受东西方文化碰撞之美",
+        "onboard_time": 1699534171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88940,
+        "num": 88940,
+        "word": "美香一家抵达成都",
+        "onboard_time": 1699544253,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76513,
+        "num": 76513,
+        "word": "遗失手机飞了1300多公里被成功找回",
+        "onboard_time": 1699523433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75837,
+        "num": 75837,
+        "word": "把秦岚美到尖叫的图发出来了",
+        "onboard_time": 1699541675,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57015,
+        "num": 57015,
+        "word": "一中国女子在日本街头被杀害",
+        "onboard_time": 1699520973,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52479,
+        "num": 52479,
+        "word": "陈楚生在尺度和分寸间选择了尺寸",
+        "onboard_time": 1699543114,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45016,
+        "num": 45016,
+        "word": "王安宇在花少打了几份工",
+        "onboard_time": 1699531774,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44375,
+        "num": 44375,
+        "word": "外交部回应哈马斯代表团或访北京",
+        "onboard_time": 1699541853,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 47506,
+        "num": 44149,
+        "word": "中山二院乳腺肿瘤实验室负责人信息摘除",
+        "onboard_time": 1699532014,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42691,
+        "num": 42691,
+        "word": "浙江大学夜跑放的是凤凰传奇的歌",
+        "onboard_time": 1699547966,
+        "rank": 11,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 41730,
+        "num": 41730,
+        "word": "金莎说把我的恋爱脑炖了吧",
+        "onboard_time": 1699533814,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39133,
+        "num": 39133,
+        "word": "原来绝经不是一下子就没了",
+        "onboard_time": 1699530212,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33439,
+        "num": 33439,
+        "word": "王安宇相机",
+        "onboard_time": 1699548386,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32779,
+        "num": 32779,
+        "word": "西南政法大学vs华东政法大学",
+        "onboard_time": 1699544912,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31538,
+        "num": 31538,
+        "word": "以爱为营提档",
+        "onboard_time": 1699541314,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29101,
+        "num": 29101,
+        "word": "江宏杰与炎亚纶经纪人签约",
+        "onboard_time": 1699541434,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28174,
+        "num": 28174,
+        "word": "宁安如梦 台词难受",
+        "onboard_time": 1699527334,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27311,
+        "num": 27311,
+        "word": "美香一家专机进入中国领空",
+        "onboard_time": 1699544912,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43899,
+        "num": 26882,
+        "word": "中山二院一患癌医生去年已发现肿瘤",
+        "onboard_time": 1699553537,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36197,
+        "num": 26621,
+        "word": "韩男子被机器人误当箱子放入传送带压死",
+        "onboard_time": 1699541732,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25936,
+        "num": 25936,
+        "word": "邓为 DIOR",
+        "onboard_time": 1699526852,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23523,
+        "num": 23523,
+        "word": "洗头后到底该吹干还是风干",
+        "onboard_time": 1699526673,
+        "rank": 23,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 22583,
+        "num": 22583,
+        "word": "央视独家披露河南42死火灾现场视频",
+        "onboard_time": 1699531350,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22272,
+        "num": 22272,
+        "word": "宋雨琦回复郑恺",
+        "onboard_time": 1699536694,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21884,
+        "num": 21884,
+        "word": "华为发布首款纯电轿车智界S7",
+        "onboard_time": 1699532912,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21839,
+        "num": 21839,
+        "word": "小奇迹一家平安到家",
+        "onboard_time": 1699537356,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20844,
+        "num": 21838,
+        "word": "成都下水道 让人失望的中山二院",
+        "onboard_time": 1699511553,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20577,
+        "num": 21837,
+        "word": "花3000块就吃了一碗粉条",
+        "onboard_time": 1699535555,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179192,
+        "num": 21835,
+        "word": "卡琳娜未要求对仲尼尸检",
+        "onboard_time": 1699529733,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 19034,
+        "num": 21833,
+        "word": "玲子参加婚礼",
+        "onboard_time": 1699534294,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18737,
+        "num": 21831,
+        "word": "上海四位数的面",
+        "onboard_time": 1699542094,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137994,
+        "num": 21831,
+        "word": "仲尼死亡原因",
+        "onboard_time": 1699508974,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 18536,
+        "num": 21829,
+        "word": "杨幂暗夜星河长裙",
+        "onboard_time": 1699533633,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18391,
+        "num": 21826,
+        "word": "宁安如梦爱奇艺热度值破9500",
+        "onboard_time": 1699534833,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17850,
+        "num": 21826,
+        "word": "吴京自己人 有瓜他真说",
+        "onboard_time": 1699524756,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17767,
+        "num": 21823,
+        "word": "流浪汉被民警救助后坦白是命案逃犯",
+        "onboard_time": 1699551138,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16989,
+        "num": 21822,
+        "word": "李雪琴吻戏",
+        "onboard_time": 1699524153,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16969,
+        "num": 21821,
+        "word": "这就是成年人的恋爱",
+        "onboard_time": 1699534473,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15894,
+        "num": 21819,
+        "word": "薛之谦怕打针也要给儿子做榜样",
+        "onboard_time": 1699536094,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15893,
+        "num": 21817,
+        "word": "姜雪宁谢危张遮修罗场要来了",
+        "onboard_time": 1699533570,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15164,
+        "num": 21817,
+        "word": "RNG队员为Wei庆生",
+        "onboard_time": 1699541495,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14613,
+        "num": 21814,
+        "word": "SM将2024年推出新男团",
+        "onboard_time": 1699535493,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14286,
+        "num": 21813,
+        "word": "离岸流",
+        "onboard_time": 1699503877,
+        "rank": 44,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 14167,
+        "num": 21811,
+        "word": "琉璃花瓣浴",
+        "onboard_time": 1699556954,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13933,
+        "num": 21810,
+        "word": "珠江人家大结局好虐心",
+        "onboard_time": 1699546592,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13817,
+        "num": 21808,
+        "word": "迪丽热巴火龙果公主裙",
+        "onboard_time": 1699525534,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13186,
+        "num": 21806,
+        "word": "赵丽颖两部剧入围微博视界大会",
+        "onboard_time": 1699537114,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12920,
+        "num": 21805,
+        "word": "王牌对王牌全员参加村BA运动会",
+        "onboard_time": 1699533451,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展好互联网让美好生活更值得向往#"
+    }
+  }
+}

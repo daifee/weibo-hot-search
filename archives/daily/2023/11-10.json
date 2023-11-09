@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699554898671,
+  "endTime": 1699557242690,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -427,7 +427,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40307,
+      "raw_hot": 43899,
       "num": 36227,
       "word": "中山二院一患癌医生去年已发现肿瘤",
       "onboard_time": 1699553537,
@@ -465,6 +465,14 @@
       "onboard_time": 1699502854,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14167,
+      "num": 21811,
+      "word": "琉璃花瓣浴",
+      "onboard_time": 1699556954,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 12895,
