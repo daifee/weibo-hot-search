@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699511715135,
+  "endTime": 1699514157683,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870015,
+      "num": 764186,
+      "word": "内娱改造最成功的两位男艺人",
+      "onboard_time": 1699504118,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 825776,
       "num": 825776,
       "word": "开国少将文击逝世",
@@ -224,14 +232,6 @@
       "word": "邓紫棋发错群消息",
       "onboard_time": 1699495595,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 823808,
-      "num": 764186,
-      "word": "内娱改造最成功的两位男艺人",
-      "onboard_time": 1699504118,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -347,6 +347,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 649948,
+      "num": 329988,
+      "word": "一中国公民在澳大利亚不幸溺亡",
+      "onboard_time": 1699510589,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 643864,
+      "num": 643864,
+      "word": "以爱为营 小蛋糕之神",
+      "onboard_time": 1699512751,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610176,
       "num": 610176,
       "word": "青簪行彭冠英补拍",
@@ -417,6 +433,14 @@
       "onboard_time": 1699503035,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530922,
+      "num": 530922,
+      "word": "助学金事件当事人回应花3000元租房",
+      "onboard_time": 1699509214,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530320,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 454137,
-      "num": 209790,
+      "num": 330107,
       "word": "库里 小学生也有暴脾气",
       "onboard_time": 1699510831,
       "rank": 32,
@@ -619,12 +643,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387822,
+      "num": 329619,
+      "word": "成都下水道 让人失望的中山二院",
+      "onboard_time": 1699511553,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375593,
+      "num": 375593,
+      "word": "张远一个人编舞 六个人丢脸",
+      "onboard_time": 1699510472,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372905,
       "num": 330907,
       "word": "曝佳木斯体育馆遇难者母亲讨说法",
       "onboard_time": 1699488518,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371147,
+      "num": 371147,
+      "word": "Dior活动出场顺序",
+      "onboard_time": 1699513230,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 370798,
@@ -699,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330778,
-      "num": 330778,
-      "word": "张远一个人编舞 六个人丢脸",
-      "onboard_time": 1699510472,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329304,
       "num": 329304,
       "word": "真正的狂徒 温实初",
@@ -731,12 +771,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 322721,
-      "num": 322721,
-      "word": "助学金事件当事人回应花3000元租房",
-      "onboard_time": 1699509214,
+      "raw_hot": 319237,
+      "num": 319237,
+      "word": "我独自尖叫 海璐姐好会驯",
+      "onboard_time": 1699512691,
       "rank": 17,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 317561,
@@ -771,12 +811,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 315068,
-      "num": 315068,
-      "word": "一中国公民在澳大利亚不幸溺亡",
-      "onboard_time": 1699510589,
-      "rank": 34,
-      "category": "社会新闻,网红"
+      "raw_hot": 312825,
+      "num": 312825,
+      "word": "美女博主的发型 梦中情发",
+      "onboard_time": 1699512513,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 310894,
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272313,
+      "num": 272313,
+      "word": "余烬之上阵容官宣",
+      "onboard_time": 1699513651,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266307,
       "num": 266307,
       "word": "原来真的有人会饿成这样",
@@ -940,11 +988,19 @@
     },
     {
       "raw_hot": 263853,
-      "num": 210385,
+      "num": 230703,
       "word": "易烊千玺连轴转",
       "onboard_time": 1699509691,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263252,
+      "num": 263252,
+      "word": "莫文蔚公开绝版写真",
+      "onboard_time": 1699512209,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259314,
@@ -1075,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222037,
+      "num": 232749,
+      "word": "正式被确诊为烤肠",
+      "onboard_time": 1699511914,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219568,
       "num": 219568,
       "word": "杭州姑娘自己卖房省下3万中介费",
@@ -1195,6 +1259,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 204454,
+      "num": 204454,
+      "word": "乐游原 正常",
+      "onboard_time": 1699513833,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203844,
       "num": 168935,
       "word": "曼联小组垫底",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1699511191,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202096,
+      "num": 202096,
+      "word": "一加12",
+      "onboard_time": 1699513590,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 201687,
@@ -1345,6 +1425,14 @@
       "onboard_time": 1699453492,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182577,
+      "num": 182577,
+      "word": "陈楚生 地狱笑话",
+      "onboard_time": 1699513891,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 181020,
@@ -1603,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141540,
+      "num": 141540,
+      "word": "超市老板娘接到酒配安眠药订单果断报警",
+      "onboard_time": 1699512631,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141467,
       "num": 170984,
       "word": "和父母的分享欲就是这么消失的",
@@ -1675,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127207,
-      "num": 127207,
-      "word": "成都下水道 让人失望的中山二院",
-      "onboard_time": 1699511553,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126270,
       "num": 126270,
       "word": "肉装妲己翻身困难被同伴嘲笑",
@@ -1715,12 +1803,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "鹤妍悦色",
+      "onboard_time": 1699508371,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120314,
+      "num": 120314,
+      "word": "郑书意仿妆",
+      "onboard_time": 1699514010,
+      "rank": 45,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 118908,
       "num": 118908,
       "word": "显脸小这么化",
       "onboard_time": 1699461688,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 117129,
+      "num": 117129,
+      "word": "原神4.2版本",
+      "onboard_time": 1699514071,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 115218,
@@ -1737,6 +1849,14 @@
       "onboard_time": 1699500756,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111199,
+      "num": 111199,
+      "word": "一根筷子搞定中国风盘发",
+      "onboard_time": 1699512151,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 108738,
@@ -1937,6 +2057,14 @@
       "onboard_time": 1699470496,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 37207,
+      "num": 651693,
+      "word": "照片如何秒变海报",
+      "onboard_time": 1699513412,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37046,
