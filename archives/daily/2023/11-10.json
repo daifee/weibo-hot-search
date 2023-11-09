@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699551260511,
+  "endTime": 1699554118010,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95319,
+      "num": 95319,
+      "word": "浙江大学夜跑放的是凤凰传奇的歌",
+      "onboard_time": 1699547966,
+      "rank": 21,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 94685,
       "num": 94685,
       "word": "好喜欢花少5的家庭氛围感",
@@ -337,14 +345,6 @@
       "onboard_time": 1699523433,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87065,
-      "num": 87065,
-      "word": "浙江大学夜跑放的是凤凰传奇的歌",
-      "onboard_time": 1699547966,
-      "rank": 21,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 80929,
@@ -443,12 +443,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 26856,
+      "num": 28349,
+      "word": "中山二院一患癌医生去年已发现肿瘤",
+      "onboard_time": 1699553537,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26844,
       "num": 57434,
       "word": "流浪汉被民警救助后坦白是命案逃犯",
       "onboard_time": 1699551138,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20556,
+      "num": 28244,
+      "word": "赵露思范思哲全球品牌代言人",
+      "onboard_time": 1699502854,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 12895,
