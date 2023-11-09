@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699536026476,
+  "endTime": 1699536855714,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1241127,
-      "num": 862117,
+      "num": 889043,
       "word": "中山二院乳腺肿瘤实验室负责人信息摘除",
       "onboard_time": 1699532014,
       "rank": 4,
@@ -273,6 +273,14 @@
       "onboard_time": 1699503999,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1221102,
+      "num": 1221102,
+      "word": "金莎说把我的恋爱脑炖了吧",
+      "onboard_time": 1699533814,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 1220047,
@@ -305,14 +313,6 @@
       "onboard_time": 1699530212,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 951163,
-      "num": 951163,
-      "word": "金莎说把我的恋爱脑炖了吧",
-      "onboard_time": 1699533814,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 825776,
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 473533,
-      "num": 397242,
+      "num": 436519,
       "word": "王安宇在花少打了几份工",
       "onboard_time": 1699531774,
       "rank": 15,
@@ -777,6 +777,22 @@
       "onboard_time": 1699507834,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455485,
+      "num": 437369,
+      "word": "玲子参加婚礼",
+      "onboard_time": 1699534294,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 455222,
+      "num": 455222,
+      "word": "央视独家披露河南42死火灾现场视频",
+      "onboard_time": 1699531350,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454137,
@@ -833,6 +849,22 @@
       "onboard_time": 1699497693,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429983,
+      "num": 429983,
+      "word": "宁安如梦爱奇艺热度值破9500",
+      "onboard_time": 1699534833,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 426622,
+      "num": 292482,
+      "word": "智界S7首发华为途灵智能底盘",
+      "onboard_time": 1699533933,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 423057,
@@ -899,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404826,
-      "num": 290795,
-      "word": "宁安如梦爱奇艺热度值破9500",
-      "onboard_time": 1699534833,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400639,
       "num": 400639,
       "word": "刘些宁宁安如梦状态",
@@ -961,14 +985,6 @@
       "onboard_time": 1699512691,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386021,
-      "num": 211527,
-      "word": "玲子参加婚礼",
-      "onboard_time": 1699534294,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 382269,
@@ -1067,28 +1083,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345881,
+      "num": 292325,
+      "word": "杨幂暗夜星河长裙",
+      "onboard_time": 1699533633,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344899,
       "num": 344899,
       "word": "seventeen确定出演红白歌会",
       "onboard_time": 1699490802,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 343934,
-      "num": 343934,
-      "word": "央视独家披露河南42死火灾现场视频",
-      "onboard_time": 1699531350,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343443,
-      "num": 277893,
-      "word": "智界S7首发华为途灵智能底盘",
-      "onboard_time": 1699533933,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 343075,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1699488457,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328848,
-      "num": 266107,
-      "word": "杨幂暗夜星河长裙",
-      "onboard_time": 1699533633,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 326438,
@@ -1267,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297825,
+      "num": 297825,
+      "word": "张家界涉事正新鸡排加盟店已被查封",
+      "onboard_time": 1699535132,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296649,
       "num": 296649,
       "word": "业内人士透露大女主会亲自选二番男主",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1699532310,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286777,
+      "num": 286777,
+      "word": "SM将2024年推出新男团",
+      "onboard_time": 1699535493,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 286322,
@@ -1419,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263816,
-      "num": 263816,
-      "word": "SM将2024年推出新男团",
-      "onboard_time": 1699535493,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263252,
       "num": 263252,
       "word": "莫文蔚公开绝版写真",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1699490139,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255916,
-      "num": 255916,
-      "word": "张家界涉事正新鸡排加盟店已被查封",
-      "onboard_time": 1699535132,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253279,
@@ -1651,12 +1651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227107,
+      "num": 227107,
+      "word": "花3000块就吃了一碗粉条",
+      "onboard_time": 1699535555,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 226353,
       "num": 226353,
       "word": "伊能静别撩了秦霄贤扛不住了",
       "onboard_time": 1699500212,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226131,
+      "num": 432193,
+      "word": "拼多多治好了我的双11焦虑",
+      "onboard_time": 1699530332,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 222517,
@@ -1979,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191581,
+      "num": 191581,
+      "word": "方程豹豹5 价格",
+      "onboard_time": 1699535855,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 190760,
       "num": 190760,
       "word": "显脸小眼妆就要这么化",
@@ -2043,6 +2067,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184157,
+      "num": 184157,
+      "word": "宋雨琦回复郑恺",
+      "onboard_time": 1699536694,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 183561,
+      "num": 183561,
+      "word": "薛之谦怕打针也要给儿子做榜样",
+      "onboard_time": 1699536094,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182918,
       "num": 182918,
       "word": "在杭州吃饭被气笑了",
@@ -2073,14 +2113,6 @@
       "onboard_time": 1699535192,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 179867,
-      "num": 319312,
-      "word": "拼多多治好了我的双11焦虑",
-      "onboard_time": 1699530332,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 178242,
@@ -2219,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162638,
-      "num": 162638,
-      "word": "花3000块就吃了一碗粉条",
-      "onboard_time": 1699535555,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 161972,
       "num": 161972,
       "word": "鸡蛋的天花板料理",
@@ -2241,14 +2265,6 @@
       "onboard_time": 1699521632,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158646,
-      "num": 158646,
-      "word": "方程豹豹5 价格",
-      "onboard_time": 1699535855,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 158434,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1699522353,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155967,
+      "num": 155967,
+      "word": "全圆佑的从容感",
+      "onboard_time": 1699536394,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155434,
@@ -2475,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140428,
+      "num": 140428,
+      "word": "在网上为美香一家接机",
+      "onboard_time": 1699536454,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139908,
       "num": 139908,
       "word": "保湿面霜并非越贵越好",
@@ -2513,6 +2545,14 @@
       "onboard_time": 1699515211,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134180,
+      "num": 134180,
+      "word": "吴佳怡给小辣化妆处女作",
+      "onboard_time": 1699536634,
+      "rank": 48,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 132372,
@@ -2907,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41172,
+      "num": 211716,
+      "word": "华为凭什么打入高端电动轿车市场",
+      "onboard_time": 1699534712,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40857,
       "num": 40857,
       "word": "艾伦 谢谢你替我围上围巾",
@@ -2937,14 +2985,6 @@
       "onboard_time": 1699447070,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36896,
-      "num": 211716,
-      "word": "华为凭什么打入高端电动轿车市场",
-      "onboard_time": 1699534712,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 30079,
