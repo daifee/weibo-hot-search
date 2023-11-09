@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699558461063,
+  "endTime": 1699561122384,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -25955,6 +25955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 15900,
+      "num": 19830,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15116,
       "num": 20056,
       "word": "Kulakova Polina画面合集",
@@ -25993,14 +26001,6 @@
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13729,
-      "num": 19830,
-      "word": "宝宝也没想到一出生就危机四伏",
-      "onboard_time": 1699555336,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 13148,
