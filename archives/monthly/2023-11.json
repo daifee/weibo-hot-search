@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699529641872,
+  "endTime": 1699533160908,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -672,6 +672,14 @@
       "word": "搜救人士称卡琳娜也曾呛水晕倒",
       "onboard_time": 1699489963,
       "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2079537,
+      "num": 193433,
+      "word": "卡琳娜未要求对仲尼尸检",
+      "onboard_time": 1699529733,
+      "rank": 30,
       "category": "社会新闻,网红"
     },
     {
@@ -3467,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 787988,
+      "num": 787988,
+      "word": "王安宇胡先煦 夫妻相处范本",
+      "onboard_time": 1699530452,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786830,
       "num": 786830,
       "word": "请回答1988开播八周年",
@@ -4395,6 +4411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 662297,
+      "num": 662297,
+      "word": "佳木斯体育馆坍塌事故正调查取证",
+      "onboard_time": 1699529733,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660622,
       "num": 660622,
       "word": "暴雪下的哈尔滨",
@@ -4587,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633971,
+      "num": 633971,
+      "word": "中山二院乳腺肿瘤实验室门牌标志摘除",
+      "onboard_time": 1699532014,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633867,
       "num": 633867,
       "word": "原神4.2",
@@ -4769,6 +4801,14 @@
       "onboard_time": 1699326331,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 617123,
+      "num": 478284,
+      "word": "原来绝经不是一下子就没了",
+      "onboard_time": 1699530212,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 616596,
@@ -5329,6 +5369,14 @@
       "onboard_time": 1698895049,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 571572,
+      "num": 571572,
+      "word": "完蛋我被美女包围了 直播",
+      "onboard_time": 1699530452,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 571271,
@@ -6227,6 +6275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 496350,
+      "num": 496350,
+      "word": "宁安如梦 台词难受",
+      "onboard_time": 1699527334,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494982,
       "num": 386551,
       "word": "穷奇cos 魔尊重楼",
@@ -7083,6 +7139,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 439436,
+      "num": 439436,
+      "word": "DIOR活动",
+      "onboard_time": 1699530932,
+      "rank": 12,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 439259,
       "num": 439259,
       "word": "周杰伦 过一阵子发个单曲",
@@ -7401,14 +7465,6 @@
       "onboard_time": 1699502194,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422882,
-      "num": 422882,
-      "word": "宁安如梦 台词难受",
-      "onboard_time": 1699527334,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 422813,
@@ -8683,6 +8739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369450,
+      "num": 369450,
+      "word": "郑恺跳了宋雨琦的queencard",
+      "onboard_time": 1699528952,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368811,
       "num": 332628,
       "word": "没有任何不动产但有100双鞋",
@@ -8696,6 +8760,14 @@
       "word": "黄凯哭了",
       "onboard_time": 1698884316,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367443,
+      "num": 367443,
+      "word": "王安宇在花少打了几份工",
+      "onboard_time": 1699531774,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -8828,7 +8900,7 @@
     },
     {
       "raw_hot": 362786,
-      "num": 244476,
+      "num": 249589,
       "word": "肖战深V内搭",
       "onboard_time": 1699528533,
       "rank": 22,
@@ -11563,6 +11635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270208,
+      "num": 270208,
+      "word": "我国成功发射中星6E卫星",
+      "onboard_time": 1699532554,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 269897,
       "num": 269897,
       "word": "威少来劲了",
@@ -12051,6 +12131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 256492,
+      "num": 256492,
+      "word": "央视独家披露河南42死火灾现场视频",
+      "onboard_time": 1699531350,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256400,
       "num": 256400,
       "word": "费翔优雅吃饺子",
@@ -12313,6 +12401,14 @@
       "onboard_time": 1698900159,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251257,
+      "num": 251257,
+      "word": "恋与制作人",
+      "onboard_time": 1699532310,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 251148,
@@ -12593,14 +12689,6 @@
       "onboard_time": 1699415016,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246273,
-      "num": 246273,
-      "word": "郑恺跳了宋雨琦的queencard",
-      "onboard_time": 1699528952,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 246222,
@@ -14555,6 +14643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212331,
+      "num": 212331,
+      "word": "陈伟霆 请问尖沙咀怎么走",
+      "onboard_time": 1699531054,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212294,
       "num": 212294,
       "word": "火锅店鼓励食客去隔壁菜场买菜来涮",
@@ -16363,6 +16459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193619,
+      "num": 193619,
+      "word": "华为发布首款纯电轿车智界S7",
+      "onboard_time": 1699532912,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193571,
       "num": 193571,
       "word": "三只大熊猫即将回国",
@@ -16497,6 +16601,14 @@
       "onboard_time": 1699265077,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192310,
+      "num": 192310,
+      "word": "也许你要恋爱了阵容官宣",
+      "onboard_time": 1699529675,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 192247,
@@ -18097,6 +18209,14 @@
       "onboard_time": 1699263454,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172033,
+      "num": 172033,
+      "word": "P1Harmony 好听",
+      "onboard_time": 1699531954,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 171996,
@@ -20337,6 +20457,14 @@
       "onboard_time": 1698807270,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145908,
+      "num": 274755,
+      "word": "拼多多治好了我的双11焦虑",
+      "onboard_time": 1699530332,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 145890,
@@ -23729,6 +23857,14 @@
       "onboard_time": 1698821912,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 92969,
+      "num": 113541,
+      "word": "Apex进不去",
+      "onboard_time": 1699531954,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92803,
