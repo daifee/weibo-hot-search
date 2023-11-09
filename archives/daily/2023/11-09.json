@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699515242563,
+  "endTime": 1699518254471,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -97,6 +97,14 @@
       "onboard_time": 1699486710,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2027128,
+      "num": 775401,
+      "word": "成都下水道 让人失望的中山二院",
+      "onboard_time": 1699511553,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2003521,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064701,
+      "num": 1064701,
+      "word": "霸王茶姬 三品管",
+      "onboard_time": 1699516832,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 825776,
       "num": 825776,
       "word": "开国少将文击逝世",
@@ -283,14 +299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 775401,
-      "num": 775401,
-      "word": "成都下水道 让人失望的中山二院",
-      "onboard_time": 1699511553,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 752516,
       "num": 451197,
       "word": "金智媛老公姐",
@@ -313,6 +321,14 @@
       "onboard_time": 1699501957,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735966,
+      "num": 371147,
+      "word": "Dior活动出场顺序",
+      "onboard_time": 1699513230,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 722056,
@@ -379,14 +395,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 639505,
-      "num": 371147,
-      "word": "Dior活动出场顺序",
-      "onboard_time": 1699513230,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 610176,
       "num": 610176,
       "word": "青簪行彭冠英补拍",
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553053,
+      "num": 553053,
+      "word": "迪丽热巴 INFJ",
+      "onboard_time": 1699515632,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543592,
       "num": 443507,
       "word": "僧丫",
@@ -472,6 +488,14 @@
       "word": "医生谈中山二院拆实验室",
       "onboard_time": 1699505621,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525491,
+      "num": 525491,
+      "word": "中山二院",
+      "onboard_time": 1699450673,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -505,6 +529,14 @@
       "onboard_time": 1699505259,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473073,
+      "num": 412476,
+      "word": "体育馆遇难者家属称遭人施压签协议",
+      "onboard_time": 1699515153,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469604,
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425227,
+      "num": 425227,
+      "word": "圈里人都知道刘宇宁回家过年的场景了",
+      "onboard_time": 1699517431,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423057,
       "num": 380224,
       "word": "太阳三巨头终于要合体了",
@@ -593,6 +633,14 @@
       "onboard_time": 1699502194,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418175,
+      "num": 418175,
+      "word": "中国科协就中山二院3人患癌发声",
+      "onboard_time": 1699517133,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414345,
@@ -665,6 +713,22 @@
       "onboard_time": 1699512691,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382269,
+      "num": 382269,
+      "word": "陈楚生 地狱笑话",
+      "onboard_time": 1699513891,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379772,
+      "num": 379772,
+      "word": "为何乳腺癌更偏爱职业女性",
+      "onboard_time": 1699515813,
+      "rank": 14,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 375593,
@@ -793,14 +857,6 @@
       "onboard_time": 1699500993,
       "rank": 24,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 319057,
-      "num": 319057,
-      "word": "陈楚生 地狱笑话",
-      "onboard_time": 1699513891,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 317561,
@@ -1123,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233754,
+      "num": 233754,
+      "word": "美香一家今晚到家",
+      "onboard_time": 1699516533,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233173,
       "num": 233173,
       "word": "曼联 噩梦剧场",
@@ -1155,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223444,
+      "num": 223444,
+      "word": "今年古装爆剧九选一",
+      "onboard_time": 1699517254,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222517,
       "num": 222517,
       "word": "Somi希望IOI在MAMA合体",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1699505499,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215291,
+      "num": 215291,
+      "word": "迪丽热巴塑料袋爆改皮筋",
+      "onboard_time": 1699517254,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 214877,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1699491220,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186867,
+      "num": 186867,
+      "word": "外交部回应大熊猫美香一家回国",
+      "onboard_time": 1699516832,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186460,
@@ -1771,20 +1859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132025,
+      "num": 132025,
+      "word": "上镜消肿方法",
+      "onboard_time": 1699516652,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131929,
       "num": 123117,
       "word": "拜仁2比1加拉塔萨雷",
       "onboard_time": 1699485927,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130874,
-      "num": 130874,
-      "word": "体育馆遇难者家属称遭人施压签协议",
-      "onboard_time": 1699515153,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130396,
@@ -1825,6 +1913,14 @@
       "onboard_time": 1699469354,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124132,
+      "num": 124132,
+      "word": "消肿眼影盘",
+      "onboard_time": 1699517372,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 123546,
@@ -1923,14 +2019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 99137,
-      "num": 158466,
-      "word": "中山二院",
-      "onboard_time": 1699450673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96074,
       "num": 96074,
       "word": "重庆70岁婆婆的退休生活有多精致",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1699500574,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 68002,
+      "num": 170405,
+      "word": "119秒视频致敬119",
+      "onboard_time": 1699517431,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62261,
@@ -2091,6 +2187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39093,
+      "num": 165612,
+      "word": "苏为安越素越美",
+      "onboard_time": 1699514792,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37207,
       "num": 651693,
       "word": "照片如何秒变海报",
@@ -2105,14 +2209,6 @@
       "onboard_time": 1699447070,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32411,
-      "num": 157220,
-      "word": "苏为安越素越美",
-      "onboard_time": 1699514792,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 30079,
@@ -2158,6 +2254,9 @@
   "hotgov_list": [
     {
       "word": "#让互联网更好造福世界各国人民#"
+    },
+    {
+      "word": "#发展好互联网让美好生活更值得向往#"
     }
   ]
 }
