@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699544071797,
+  "endTime": 1699546956586,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -369,6 +369,14 @@
       "onboard_time": 1699157973,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2759507,
+      "num": 2759507,
+      "word": "美国首次发现吸血鬼病毒",
+      "onboard_time": 1699544253,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2727681,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1699229854,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1610798,
+      "num": 1610798,
+      "word": "美香一家抵达成都",
+      "onboard_time": 1699544253,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1606198,
@@ -2305,6 +2321,14 @@
       "onboard_time": 1698981093,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1109261,
+      "num": 1109261,
+      "word": "大连市监局通报B太曝光鬼秤案件",
+      "onboard_time": 1699544073,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1107179,
@@ -4339,6 +4363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 675204,
+      "num": 675204,
+      "word": "陈楚生在尺度和分寸间选择了尺寸",
+      "onboard_time": 1699543114,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674361,
       "num": 299233,
       "word": "时宴的腰力",
@@ -5531,6 +5563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 564290,
+      "num": 564290,
+      "word": "西南政法大学vs华东政法大学",
+      "onboard_time": 1699544912,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 563149,
       "num": 563149,
       "word": "辛芷蕾吃酸奶疙瘩像被人打了一样",
@@ -6100,7 +6140,7 @@
     },
     {
       "raw_hot": 515351,
-      "num": 328460,
+      "num": 341731,
       "word": "外交部回应哈马斯代表团或访北京",
       "onboard_time": 1699541853,
       "rank": 17,
@@ -7529,14 +7569,6 @@
       "onboard_time": 1699096358,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 426228,
-      "num": 324470,
-      "word": "陈楚生在尺度和分寸间选择了尺寸",
-      "onboard_time": 1699543114,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 425996,
@@ -21803,6 +21835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132773,
+      "num": 132773,
+      "word": "美香一家专机进入中国领空",
+      "onboard_time": 1699544912,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132763,
       "num": 132763,
       "word": "90秒顾云峥骗人大赏",
@@ -24147,6 +24187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94685,
+      "num": 94685,
+      "word": "好喜欢花少5的家庭氛围感",
+      "onboard_time": 1699545634,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94594,
       "num": 170384,
       "word": "胸痛的12种原因",
@@ -24161,6 +24209,14 @@
       "onboard_time": 1699389792,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 93504,
+      "num": 93504,
+      "word": "GAI再唱张震岳小宇",
+      "onboard_time": 1699544490,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93290,
@@ -24667,6 +24723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 77591,
+      "num": 88015,
+      "word": "珠江人家大结局好虐心",
+      "onboard_time": 1699546592,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77392,
       "num": 212842,
       "word": "凯恩帽子戏法",
@@ -24865,6 +24929,14 @@
       "onboard_time": 1699142667,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68616,
+      "num": 87981,
+      "word": "风起西州捧脸吻",
+      "onboard_time": 1699544373,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 68521,
