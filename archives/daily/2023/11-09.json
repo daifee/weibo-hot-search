@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699508036068,
+  "endTime": 1699510947983,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -32,6 +32,14 @@
       "word": "酒店讲述仲尼巴厘岛遇难细节",
       "onboard_time": 1699456610,
       "rank": 4,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 4359187,
+      "num": 524419,
+      "word": "仲尼死亡原因",
+      "onboard_time": 1699508974,
+      "rank": 5,
       "category": "社会新闻,网红"
     },
     {
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823808,
+      "num": 731977,
+      "word": "内娱改造最成功的两位男艺人",
+      "onboard_time": 1699504118,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 819871,
       "num": 819871,
       "word": "王楚钦VS徐瑛彬",
@@ -289,14 +305,6 @@
       "onboard_time": 1699501957,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 731977,
-      "num": 731977,
-      "word": "内娱改造最成功的两位男艺人",
-      "onboard_time": 1699504118,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 722056,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526605,
+      "num": 526605,
+      "word": "医生谈中山二院拆实验室",
+      "onboard_time": 1699505621,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521842,
       "num": 521842,
       "word": "刘媛媛曾6小时带货超1亿元",
@@ -465,6 +481,14 @@
       "onboard_time": 1699447550,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466924,
+      "num": 466924,
+      "word": "霍启刚晒照庆祝结婚11周年",
+      "onboard_time": 1699507834,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 447772,
@@ -643,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343075,
+      "num": 343075,
+      "word": "胰腺癌的内外因",
+      "onboard_time": 1699508554,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 341860,
       "num": 341860,
       "word": "花少5第一次真正的矛盾来了",
@@ -681,6 +713,14 @@
       "onboard_time": 1699500993,
       "rank": 24,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 319658,
+      "num": 319658,
+      "word": "助学金事件当事人回应花3000元租房",
+      "onboard_time": 1699509214,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317561,
@@ -763,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295347,
+      "num": 295347,
+      "word": "陈楚生冠军的排面",
+      "onboard_time": 1699510172,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294182,
       "num": 294182,
       "word": "苏醒到底知道多少兄弟家密码",
@@ -843,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272353,
+      "num": 272353,
+      "word": "林心如林熙蕾 剧宣",
+      "onboard_time": 1699508432,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266307,
       "num": 266307,
       "word": "原来真的有人会饿成这样",
@@ -883,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248615,
+      "num": 248615,
+      "word": "吗喽表情包",
+      "onboard_time": 1699508854,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246489,
       "num": 246489,
       "word": "为什么越来越多的KTV关店了",
@@ -905,6 +969,14 @@
       "onboard_time": 1699438294,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240869,
+      "num": 231915,
+      "word": "李二牛爆改金希澈",
+      "onboard_time": 1699508432,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 240227,
@@ -939,20 +1011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229060,
+      "num": 229060,
+      "word": "3块钱羽绒服",
+      "onboard_time": 1699509632,
+      "rank": 26,
+      "category": "情感,情感"
+    },
+    {
       "raw_hot": 226353,
       "num": 226353,
       "word": "伊能静别撩了秦霄贤扛不住了",
       "onboard_time": 1699500212,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223898,
-      "num": 223898,
-      "word": "霍启刚晒照庆祝结婚11周年",
-      "onboard_time": 1699507834,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 222517,
@@ -1067,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207121,
+      "num": 207121,
+      "word": "库里 小学生也有暴脾气",
+      "onboard_time": 1699510831,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204938,
       "num": 204938,
       "word": "微博视界大会",
@@ -1096,6 +1176,14 @@
       "word": "傅首尔老刘无声的陪伴",
       "onboard_time": 1699459056,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201425,
+      "num": 201425,
+      "word": "张远一个人编舞 六个人丢脸",
+      "onboard_time": 1699510472,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1155,12 +1243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196549,
+      "num": 222351,
+      "word": "欧冠出线进度",
+      "onboard_time": 1699510589,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192911,
       "num": 192911,
       "word": "田曦薇星河公主裙",
       "onboard_time": 1699455472,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191309,
+      "num": 191309,
+      "word": "一中国公民在澳大利亚不幸溺亡",
+      "onboard_time": 1699510589,
+      "rank": 34,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 190760,
@@ -1177,6 +1281,14 @@
       "onboard_time": 1699492420,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189561,
+      "num": 189561,
+      "word": "掘金战胜勇士",
+      "onboard_time": 1699510650,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 187652,
@@ -1233,6 +1345,22 @@
       "onboard_time": 1699499374,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174995,
+      "num": 174995,
+      "word": "易烊千玺连轴转",
+      "onboard_time": 1699509691,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174792,
+      "num": 174792,
+      "word": "世界在崩塌 我在化妆搞穿搭",
+      "onboard_time": 1699509691,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 171266,
@@ -1307,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158434,
+      "num": 158434,
+      "word": "肖八发货了",
+      "onboard_time": 1699510231,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157774,
       "num": 157774,
       "word": "罗云熙官宣水龙吟",
@@ -1379,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146949,
+      "num": 146949,
+      "word": "快乐老友记开播",
+      "onboard_time": 1699509393,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145890,
       "num": 145890,
       "word": "我国10月CPI同比下降0.2%",
@@ -1409,6 +1553,14 @@
       "onboard_time": 1699499311,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143703,
+      "num": 143703,
+      "word": "何小鹏发文感谢余承东",
+      "onboard_time": 1699508371,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 143551,
@@ -1449,6 +1601,22 @@
       "onboard_time": 1699491820,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139908,
+      "num": 139908,
+      "word": "保湿面霜并非越贵越好",
+      "onboard_time": 1699510532,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 139280,
+      "num": 139280,
+      "word": "尹正你要演变态我可不困了",
+      "onboard_time": 1699510713,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 138180,

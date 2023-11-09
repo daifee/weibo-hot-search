@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699508036068,
+  "endTime": 1699510947983,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -113,6 +113,14 @@
       "onboard_time": 1699419876,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4359187,
+      "num": 524419,
+      "word": "仲尼死亡原因",
+      "onboard_time": 1699508974,
+      "rank": 5,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 4296283,
@@ -1707,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823808,
+      "num": 731977,
+      "word": "内娱改造最成功的两位男艺人",
+      "onboard_time": 1699504118,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823473,
       "num": 550197,
       "word": "代入一下关晓彤",
@@ -2057,14 +2073,6 @@
       "onboard_time": 1699425701,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 731977,
-      "num": 731977,
-      "word": "内娱改造最成功的两位男艺人",
-      "onboard_time": 1699504118,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 731322,
@@ -3051,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526605,
+      "num": 526605,
+      "word": "医生谈中山二院拆实验室",
+      "onboard_time": 1699505621,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526059,
       "num": 526059,
       "word": "王力宏喝北京豆汁儿",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1699157251,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 466924,
+      "num": 466924,
+      "word": "霍启刚晒照庆祝结婚11周年",
+      "onboard_time": 1699507834,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 465632,
@@ -4755,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343075,
+      "num": 343075,
+      "word": "胰腺癌的内外因",
+      "onboard_time": 1699508554,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342783,
       "num": 342783,
       "word": "涉小便事件青岛啤酒三厂更换负责人",
@@ -5081,6 +5113,14 @@
       "onboard_time": 1699452595,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319658,
+      "num": 319658,
+      "word": "助学金事件当事人回应花3000元租房",
+      "onboard_time": 1699509214,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319277,
@@ -5425,6 +5465,14 @@
       "onboard_time": 1699185159,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295347,
+      "num": 295347,
+      "word": "陈楚生冠军的排面",
+      "onboard_time": 1699510172,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 295249,
@@ -5833,6 +5881,14 @@
       "onboard_time": 1699242692,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272353,
+      "num": 272353,
+      "word": "林心如林熙蕾 剧宣",
+      "onboard_time": 1699508432,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 272054,
@@ -6275,6 +6331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 248615,
+      "num": 248615,
+      "word": "吗喽表情包",
+      "onboard_time": 1699508854,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248579,
       "num": 233703,
       "word": "宁安如梦爱奇艺热度值破9000",
@@ -6529,6 +6593,14 @@
       "onboard_time": 1699283318,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240869,
+      "num": 231915,
+      "word": "李二牛爆改金希澈",
+      "onboard_time": 1699508432,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 240227,
@@ -6915,6 +6987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 229060,
+      "num": 229060,
+      "word": "3块钱羽绒服",
+      "onboard_time": 1699509632,
+      "rank": 26,
+      "category": "情感,情感"
+    },
+    {
       "raw_hot": 229020,
       "num": 229020,
       "word": "时宴公主抱郑书意",
@@ -7065,14 +7145,6 @@
       "onboard_time": 1699331134,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223898,
-      "num": 223898,
-      "word": "霍启刚晒照庆祝结婚11周年",
-      "onboard_time": 1699507834,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 223851,
@@ -7659,6 +7731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207121,
+      "num": 207121,
+      "word": "库里 小学生也有暴脾气",
+      "onboard_time": 1699510831,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "极氪007",
@@ -7937,6 +8017,14 @@
       "onboard_time": 1699355014,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201425,
+      "num": 201425,
+      "word": "张远一个人编舞 六个人丢脸",
+      "onboard_time": 1699510472,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 201361,
@@ -8275,6 +8363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196549,
+      "num": 222351,
+      "word": "欧冠出线进度",
+      "onboard_time": 1699510589,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196427,
       "num": 196427,
       "word": "李晨郑恺直播跳queencard",
@@ -8507,6 +8603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191309,
+      "num": 191309,
+      "word": "一中国公民在澳大利亚不幸溺亡",
+      "onboard_time": 1699510589,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 191051,
       "num": 108657,
       "word": "热刺单场两红",
@@ -8600,6 +8704,14 @@
       "word": "王曼昱进国家队十周年",
       "onboard_time": 1699362577,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189561,
+      "num": 189561,
+      "word": "掘金战胜勇士",
+      "onboard_time": 1699510650,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -9177,6 +9289,22 @@
       "onboard_time": 1699434455,
       "rank": 40,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 174995,
+      "num": 174995,
+      "word": "易烊千玺连轴转",
+      "onboard_time": 1699509691,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174792,
+      "num": 174792,
+      "word": "世界在崩塌 我在化妆搞穿搭",
+      "onboard_time": 1699509691,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 174758,
@@ -9795,6 +9923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158434,
+      "num": 158434,
+      "word": "肖八发货了",
+      "onboard_time": 1699510231,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158106,
       "num": 184972,
       "word": "节目组是懂给镜头的",
@@ -10339,6 +10475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 146949,
+      "num": 146949,
+      "word": "快乐老友记开播",
+      "onboard_time": 1699509393,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146812,
       "num": 208113,
       "word": "从不能行走到跑完41个全马",
@@ -10481,6 +10625,14 @@
       "onboard_time": 1699369897,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143703,
+      "num": 143703,
+      "word": "何小鹏发文感谢余承东",
+      "onboard_time": 1699508371,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 143597,
@@ -10659,6 +10811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139908,
+      "num": 139908,
+      "word": "保湿面霜并非越贵越好",
+      "onboard_time": 1699510532,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139718,
       "num": 139718,
       "word": "小朋友跳绳方圆十里不能站人",
@@ -10673,6 +10833,14 @@
       "onboard_time": 1699231477,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139280,
+      "num": 139280,
+      "word": "尹正你要演变态我可不困了",
+      "onboard_time": 1699510713,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 139035,

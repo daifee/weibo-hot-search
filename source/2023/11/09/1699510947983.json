@@ -1,0 +1,410 @@
+{
+  "runTime": 1699510947983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193725,
+        "num": 1193725,
+        "word": "离岸流",
+        "onboard_time": 1699503877,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 728869,
+        "num": 728869,
+        "word": "海滩红旗区",
+        "onboard_time": 1699505677,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 13147,
+        "num": 538816,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699452654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823808,
+        "num": 533438,
+        "word": "内娱改造最成功的两位男艺人",
+        "onboard_time": 1699504118,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526605,
+        "num": 526605,
+        "word": "医生谈中山二院拆实验室",
+        "onboard_time": 1699505621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4359187,
+        "num": 524419,
+        "word": "仲尼死亡原因",
+        "onboard_time": 1699508974,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 518182,
+        "num": 518182,
+        "word": "南航称超低机票全部有效",
+        "onboard_time": 1699507057,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500226,
+        "num": 500226,
+        "word": "长月烬明",
+        "onboard_time": 1699505677,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466924,
+        "num": 466924,
+        "word": "霍启刚晒照庆祝结婚11周年",
+        "onboard_time": 1699507834,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95249,
+        "num": 463889,
+        "word": "开国少将文击逝世",
+        "onboard_time": 1699498893,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623410,
+        "num": 458237,
+        "word": "中山二院致癌事件三大疑问",
+        "onboard_time": 1699496133,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581603,
+        "num": 451081,
+        "word": "王源吐槽还不如买个护肝片呢",
+        "onboard_time": 1699506158,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506018,
+        "num": 443446,
+        "word": "福原爱",
+        "onboard_time": 1699502615,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 439192,
+        "num": 439192,
+        "word": "大S回应小S复出演戏",
+        "onboard_time": 1699504718,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428081,
+        "num": 428081,
+        "word": "以爱为营 秀才和一笑倾城",
+        "onboard_time": 1699503999,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343075,
+        "num": 343075,
+        "word": "胰腺癌的内外因",
+        "onboard_time": 1699508554,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330383,
+        "num": 330383,
+        "word": "赵露思范思哲全球品牌代言人",
+        "onboard_time": 1699502854,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319658,
+        "num": 319658,
+        "word": "助学金事件当事人回应花3000元租房",
+        "onboard_time": 1699509214,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375900,
+        "num": 318514,
+        "word": "大S说小S拿金钟最佳女主她就去死",
+        "onboard_time": 1699505259,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314794,
+        "num": 314794,
+        "word": "秦海璐一句话误伤迪丽热巴",
+        "onboard_time": 1699499253,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295347,
+        "num": 295347,
+        "word": "陈楚生冠军的排面",
+        "onboard_time": 1699510172,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272353,
+        "num": 272353,
+        "word": "林心如林熙蕾 剧宣",
+        "onboard_time": 1699508432,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254780,
+        "num": 254780,
+        "word": "宁安如梦周生如故梦幻联动",
+        "onboard_time": 1699506217,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248615,
+        "num": 248615,
+        "word": "吗喽表情包",
+        "onboard_time": 1699508854,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233203,
+        "num": 233203,
+        "word": "多数胰腺癌病人确诊后1年内死亡",
+        "onboard_time": 1699504899,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240869,
+        "num": 231915,
+        "word": "李二牛爆改金希澈",
+        "onboard_time": 1699508432,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229060,
+        "num": 229060,
+        "word": "3块钱羽绒服",
+        "onboard_time": 1699509632,
+        "rank": 26,
+        "category": "情感,情感"
+      },
+      {
+        "raw_hot": 223728,
+        "num": 223728,
+        "word": "这萧剑晴儿还能认出吗",
+        "onboard_time": 1699500155,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 222351,
+        "word": "欧冠出线进度",
+        "onboard_time": 1699510589,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61436,
+        "num": 215868,
+        "word": "中国消防出警名场面",
+        "onboard_time": 1699507775,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2903462,
+        "num": 213870,
+        "word": "卡琳娜讲述仲尼溺水时刻",
+        "onboard_time": 1699502072,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1331042,
+        "num": 207231,
+        "word": "搜救人士称仲尼父母已抵达巴厘岛",
+        "onboard_time": 1699503821,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 207121,
+        "num": 207121,
+        "word": "库里 小学生也有暴脾气",
+        "onboard_time": 1699510831,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201425,
+        "num": 201425,
+        "word": "张远一个人编舞 六个人丢脸",
+        "onboard_time": 1699510472,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191309,
+        "num": 191309,
+        "word": "一中国公民在澳大利亚不幸溺亡",
+        "onboard_time": 1699510589,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 189561,
+        "num": 189561,
+        "word": "掘金战胜勇士",
+        "onboard_time": 1699510650,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186007,
+        "num": 186007,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1699505560,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174995,
+        "num": 174995,
+        "word": "易烊千玺连轴转",
+        "onboard_time": 1699509691,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174792,
+        "num": 174792,
+        "word": "世界在崩塌 我在化妆搞穿搭",
+        "onboard_time": 1699509691,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173688,
+        "num": 173688,
+        "word": "装修才是当代年轻人最好的医丑",
+        "onboard_time": 1699497631,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162952,
+        "num": 162952,
+        "word": "匪我思存 为什么要写这样两个人物",
+        "onboard_time": 1699507175,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158434,
+        "num": 158434,
+        "word": "肖八发货了",
+        "onboard_time": 1699510231,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146949,
+        "num": 146949,
+        "word": "快乐老友记开播",
+        "onboard_time": 1699509393,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143703,
+        "num": 143703,
+        "word": "何小鹏发文感谢余承东",
+        "onboard_time": 1699508371,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 141682,
+        "word": "襄阳警方已查实叶某芝贩卖出生证",
+        "onboard_time": 1699504838,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139908,
+        "num": 139908,
+        "word": "保湿面霜并非越贵越好",
+        "onboard_time": 1699510532,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 948387,
+        "num": 139856,
+        "word": "搜救组称仲尼在危险区域游泳",
+        "onboard_time": 1699506637,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 139280,
+        "num": 139280,
+        "word": "尹正你要演变态我可不困了",
+        "onboard_time": 1699510713,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138309,
+        "num": 138309,
+        "word": "时宴沙发吻",
+        "onboard_time": 1699502795,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129888,
+        "num": 129888,
+        "word": "领助学金学生看演唱会被要求删朋友圈",
+        "onboard_time": 1699501895,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}
