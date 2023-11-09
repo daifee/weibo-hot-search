@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699528486284,
+  "endTime": 1699529641872,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -219,20 +219,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1361958,
+      "num": 1361958,
+      "word": "吴京自己人 有瓜他真说",
+      "onboard_time": 1699524756,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1315182,
       "num": 1315182,
       "word": "南京胖哥称父亲查出患食道癌",
       "onboard_time": 1699520614,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1309290,
-      "num": 1309290,
-      "word": "吴京自己人 有瓜他真说",
-      "onboard_time": 1699524756,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 1296926,
@@ -475,6 +475,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 668021,
+      "num": 1536397,
+      "word": "00后给父母买大件反赚两千元",
+      "onboard_time": 1699524935,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631144,
       "num": 631144,
       "word": "中山二院",
@@ -536,14 +544,6 @@
       "word": "南航称超低机票全部有效",
       "onboard_time": 1699507057,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580427,
-      "num": 1357120,
-      "word": "00后给父母买大件反赚两千元",
-      "onboard_time": 1699524935,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -747,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422882,
+      "num": 422882,
+      "word": "宁安如梦 台词难受",
+      "onboard_time": 1699527334,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420956,
       "num": 420956,
       "word": "时代少年团 快手",
@@ -889,6 +897,14 @@
       "onboard_time": 1699527514,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362786,
+      "num": 244476,
+      "word": "肖战深V内搭",
+      "onboard_time": 1699528533,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 362071,
@@ -1123,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290311,
-      "num": 290311,
-      "word": "宁安如梦 台词难受",
-      "onboard_time": 1699527334,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286322,
       "num": 286322,
       "word": "航班乘客心脏骤停清华长庚医生紧急救援",
@@ -1267,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262782,
+      "num": 204753,
+      "word": "泉州朋友教的海鲜粥做法",
+      "onboard_time": 1699528713,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260796,
       "num": 260796,
       "word": "乐游原 正常",
@@ -1347,12 +1363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246652,
+      "num": 246652,
+      "word": "ELLE风尚大典群星合影",
+      "onboard_time": 1699529495,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 246489,
       "num": 246489,
       "word": "为什么越来越多的KTV关店了",
       "onboard_time": 1699487495,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246273,
+      "num": 246273,
+      "word": "郑恺跳了宋雨琦的queencard",
+      "onboard_time": 1699528952,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 244705,
@@ -1603,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206521,
+      "num": 206521,
+      "word": "原神芙宁娜",
+      "onboard_time": 1699528835,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204938,
       "num": 204938,
       "word": "微博视界大会",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1699451092,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184368,
+      "num": 175424,
+      "word": "共情王安宇",
+      "onboard_time": 1699520070,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 184291,
@@ -2195,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136620,
-      "num": 136308,
-      "word": "共情王安宇",
-      "onboard_time": 1699520070,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135729,
       "num": 135729,
       "word": "南航这波格局大了",
@@ -2323,20 +2363,20 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 119343,
+      "num": 129154,
+      "word": "佳木斯成立体育馆坍塌事故调查组",
+      "onboard_time": 1699528354,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118908,
       "num": 118908,
       "word": "显脸小这么化",
       "onboard_time": 1699461688,
       "rank": 19,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 116029,
-      "num": 129154,
-      "word": "佳木斯成立体育馆坍塌事故调查组",
-      "onboard_time": 1699528354,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115218,
@@ -2409,6 +2449,14 @@
       "onboard_time": 1699485204,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 92803,
+      "num": 331279,
+      "word": "新能源车已实现边开边充",
+      "onboard_time": 1699527633,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 90060,
@@ -2513,14 +2561,6 @@
       "onboard_time": 1699421672,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 57886,
-      "num": 331279,
-      "word": "新能源车已实现边开边充",
-      "onboard_time": 1699527633,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 57528,
