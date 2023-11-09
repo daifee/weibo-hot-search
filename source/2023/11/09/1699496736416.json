@@ -1,0 +1,410 @@
+{
+  "runTime": 1699496736416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478323,
+        "num": 1478323,
+        "word": "市民曝网红刘媛媛涉虚假宣传",
+        "onboard_time": 1699489477,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1075776,
+        "num": 1075776,
+        "word": "中山二院致癌事件三大疑问",
+        "onboard_time": 1699496133,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26284,
+        "num": 1022999,
+        "word": "2023世界互联网大会乌镇峰会",
+        "onboard_time": 1699452654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2616248,
+        "num": 1013390,
+        "word": "搜救人士称仲尼或因脚抽筋后溺亡",
+        "onboard_time": 1699486589,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 981617,
+        "num": 981617,
+        "word": "梨形身材才是基因彩票",
+        "onboard_time": 1699486710,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 704513,
+        "num": 704513,
+        "word": "00后被领导辱骂后起诉获赔100元",
+        "onboard_time": 1699493433,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607558,
+        "num": 607558,
+        "word": "广州一劳斯莱斯年审时被拉爆缸",
+        "onboard_time": 1699494816,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 486282,
+        "num": 486282,
+        "word": "何猷君像是来打假的",
+        "onboard_time": 1699488636,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473275,
+        "num": 473275,
+        "word": "TFBOYS方称十周年戒指事件为造谣",
+        "onboard_time": 1699490919,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285751,
+        "num": 446264,
+        "word": "美香一家启程回家",
+        "onboard_time": 1699491638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3921383,
+        "num": 440706,
+        "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
+        "onboard_time": 1699486288,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 932589,
+        "num": 397808,
+        "word": "睡前陪孩子聊废话 坚持半年变化惊人",
+        "onboard_time": 1699487250,
+        "rank": 11,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 589942,
+        "num": 355154,
+        "word": "邓紫棋发错群消息",
+        "onboard_time": 1699495595,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350839,
+        "num": 350839,
+        "word": "刘媛媛曾6小时带货超1亿元",
+        "onboard_time": 1699495958,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 335556,
+        "num": 335556,
+        "word": "中山二院称拆实验室是消防检查早已安排",
+        "onboard_time": 1699496014,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325294,
+        "num": 325294,
+        "word": "赵露思王安宇一个抄作业一个查作业",
+        "onboard_time": 1699490859,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316074,
+        "num": 316074,
+        "word": "刘些宁宁安如梦状态",
+        "onboard_time": 1699495535,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250695,
+        "num": 250695,
+        "word": "闪耀暖暖 滤镜",
+        "onboard_time": 1699495958,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227769,
+        "num": 227769,
+        "word": "UNINE 重组",
+        "onboard_time": 1699485686,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225071,
+        "num": 225071,
+        "word": "特斯拉涨价",
+        "onboard_time": 1699491638,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1904301,
+        "num": 224932,
+        "word": "卡琳娜取消重庆漫展行程",
+        "onboard_time": 1699487070,
+        "rank": 20,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 411228,
+        "num": 224337,
+        "word": "苏州毒地",
+        "onboard_time": 1699485148,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218246,
+        "num": 218246,
+        "word": "瑞幸 罗翔",
+        "onboard_time": 1699452654,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1126408,
+        "num": 217993,
+        "word": "仲尼在巴厘岛遇难",
+        "onboard_time": 1699455235,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 216963,
+        "num": 216963,
+        "word": "杭州姑娘自己卖房省下3万中介费",
+        "onboard_time": 1699492298,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201602,
+        "num": 201602,
+        "word": "苏醒到底知道多少兄弟家密码",
+        "onboard_time": 1699491941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 967254,
+        "num": 201208,
+        "word": "酒店讲述仲尼巴厘岛遇难细节",
+        "onboard_time": 1699456610,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 198623,
+        "num": 198623,
+        "word": "王冰冰颖儿一个比一个能吃",
+        "onboard_time": 1699489778,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197748,
+        "num": 197748,
+        "word": "seventeen确定出演红白歌会",
+        "onboard_time": 1699490802,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134721,
+        "num": 197517,
+        "word": "银行职员多问一句帮男子跳出陷阱",
+        "onboard_time": 1699491820,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589600,
+        "num": 197514,
+        "word": "仲尼",
+        "onboard_time": 1699444355,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197482,
+        "num": 197482,
+        "word": "容嬷嬷后继有人",
+        "onboard_time": 1699496256,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191369,
+        "num": 191369,
+        "word": "气象专家称佳木斯此次降雪为湿雪",
+        "onboard_time": 1699496372,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406374,
+        "num": 183484,
+        "word": "卡琳娜",
+        "onboard_time": 1699449352,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171266,
+        "num": 171266,
+        "word": "沈玠从一开始就喜欢上姜雪宁",
+        "onboard_time": 1699494160,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170768,
+        "num": 170768,
+        "word": "时代峰峻",
+        "onboard_time": 1699488939,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325117,
+        "num": 170513,
+        "word": "仲尼生日当天遇难",
+        "onboard_time": 1699449533,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169190,
+        "num": 169190,
+        "word": "坍塌体育馆开发商是当地建设局退休干部",
+        "onboard_time": 1699488762,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168371,
+        "num": 168371,
+        "word": "为什么越来越多的KTV关店了",
+        "onboard_time": 1699487495,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165234,
+        "num": 165234,
+        "word": "凯恩梅开二度",
+        "onboard_time": 1699496613,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164556,
+        "num": 164556,
+        "word": "美香一家旅美23年时间线",
+        "onboard_time": 1699494993,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160786,
+        "num": 160786,
+        "word": "曝佳木斯体育馆遇难者母亲讨说法",
+        "onboard_time": 1699488518,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154159,
+        "num": 154159,
+        "word": "金智媛老公姐",
+        "onboard_time": 1699496613,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153461,
+        "num": 153461,
+        "word": "相爱的人分手原因只有一个",
+        "onboard_time": 1699487431,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151934,
+        "num": 151934,
+        "word": "8个有效抗癌方法能防很多癌",
+        "onboard_time": 1699495833,
+        "rank": 44,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 145890,
+        "num": 145890,
+        "word": "我国10月CPI同比下降0.2%",
+        "onboard_time": 1699494993,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145822,
+        "num": 145822,
+        "word": "罗英子周大哥be了",
+        "onboard_time": 1699495895,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144622,
+        "num": 144622,
+        "word": "TFBOYS十周年专辑戒指差异解决方案",
+        "onboard_time": 1699494634,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143957,
+        "num": 143957,
+        "word": "龙 你今天吃了20个饺子",
+        "onboard_time": 1699462166,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136312,
+        "num": 136312,
+        "word": "王俊凯值得重温的舞台",
+        "onboard_time": 1699496613,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福世界各国人民#"
+    }
+  }
+}

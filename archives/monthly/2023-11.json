@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699493678413,
+  "endTime": 1699496736416,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -393,6 +393,14 @@
       "onboard_time": 1698847479,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2616248,
+      "num": 1013390,
+      "word": "搜救人士称仲尼或因脚抽筋后溺亡",
+      "onboard_time": 1699486589,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2599452,
@@ -825,6 +833,14 @@
       "onboard_time": 1699313248,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1904301,
+      "num": 224932,
+      "word": "卡琳娜取消重庆漫展行程",
+      "onboard_time": 1699487070,
+      "rank": 20,
+      "category": "网红,动漫"
     },
     {
       "raw_hot": 1904111,
@@ -1291,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1520720,
-      "num": 368281,
-      "word": "搜救人士称仲尼或因脚抽筋后溺亡",
-      "onboard_time": 1699486589,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1519824,
       "num": 1519824,
       "word": "陆家嘴公司买到毒地索赔100亿元",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1698975269,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1478323,
+      "num": 1478323,
+      "word": "市民曝网红刘媛媛涉虚假宣传",
+      "onboard_time": 1699489477,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1476315,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1699323692,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1341697,
-      "num": 1341697,
-      "word": "市民曝网红刘媛媛涉虚假宣传",
-      "onboard_time": 1699489477,
-      "rank": 4,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1340266,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1699399407,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1075776,
+      "num": 1075776,
+      "word": "中山二院致癌事件三大疑问",
+      "onboard_time": 1699496133,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074046,
@@ -3795,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704513,
+      "num": 704513,
+      "word": "00后被领导辱骂后起诉获赔100元",
+      "onboard_time": 1699493433,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703635,
       "num": 1273507,
       "word": "95后男子被裁员抗争17个月获赔16万9",
@@ -4579,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607558,
+      "num": 607558,
+      "word": "广州一劳斯莱斯年审时被拉爆缸",
+      "onboard_time": 1699494816,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 607118,
       "num": 384522,
       "word": "何炅谢娜同台主持湖南卫视惊喜夜",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1698908373,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 589942,
+      "num": 355154,
+      "word": "邓紫棋发错群消息",
+      "onboard_time": 1699495595,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 589146,
@@ -8483,6 +8523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 350839,
+      "num": 350839,
+      "word": "刘媛媛曾6小时带货超1亿元",
+      "onboard_time": 1699495958,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 350699,
       "num": 350699,
       "word": "牛牛变疯牛了",
@@ -8849,6 +8897,14 @@
       "onboard_time": 1699368400,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 335556,
+      "num": 335556,
+      "word": "中山二院称拆实验室是消防检查早已安排",
+      "onboard_time": 1699496014,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335369,
@@ -9337,6 +9393,14 @@
       "onboard_time": 1699355014,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316074,
+      "num": 316074,
+      "word": "刘些宁宁安如梦状态",
+      "onboard_time": 1699495535,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 315947,
@@ -10089,6 +10153,14 @@
       "onboard_time": 1699188456,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 285751,
+      "num": 446264,
+      "word": "美香一家启程回家",
+      "onboard_time": 1699491638,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285485,
@@ -11425,6 +11497,14 @@
       "onboard_time": 1699173993,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250695,
+      "num": 250695,
+      "word": "闪耀暖暖 滤镜",
+      "onboard_time": 1699495958,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 250672,
@@ -14507,14 +14587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200071,
-      "num": 251710,
-      "word": "美香一家启程回家",
-      "onboard_time": 1699491638,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199965,
       "num": 199965,
       "word": "灵笼第二季",
@@ -14809,6 +14881,14 @@
       "onboard_time": 1699178310,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197482,
+      "num": 197482,
+      "word": "容嬷嬷后继有人",
+      "onboard_time": 1699496256,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 197455,
@@ -15360,6 +15440,14 @@
       "word": "公司周年庆给老员工发30g金子",
       "onboard_time": 1698812614,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191369,
+      "num": 191369,
+      "word": "气象专家称佳木斯此次降雪为湿雪",
+      "onboard_time": 1699496372,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -16891,6 +16979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171266,
+      "num": 171266,
+      "word": "沈玠从一开始就喜欢上姜雪宁",
+      "onboard_time": 1699494160,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171208,
       "num": 171208,
       "word": "计算机二级",
@@ -17331,6 +17427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165234,
+      "num": 165234,
+      "word": "凯恩梅开二度",
+      "onboard_time": 1699496613,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165199,
       "num": 365166,
       "word": "马龙说用最好的状态面对决赛",
@@ -17377,6 +17481,14 @@
       "onboard_time": 1699406914,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164556,
+      "num": 164556,
+      "word": "美香一家旅美23年时间线",
+      "onboard_time": 1699494993,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164396,
@@ -18179,6 +18291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154159,
+      "num": 154159,
+      "word": "金智媛老公姐",
+      "onboard_time": 1699496613,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "以军全面包围加沙城",
@@ -18401,6 +18521,14 @@
       "onboard_time": 1699482799,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 151934,
+      "num": 151934,
+      "word": "8个有效抗癌方法能防很多癌",
+      "onboard_time": 1699495833,
+      "rank": 44,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 151906,
@@ -18947,12 +19075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145890,
+      "num": 145890,
+      "word": "我国10月CPI同比下降0.2%",
+      "onboard_time": 1699494993,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145845,
       "num": 145845,
       "word": "美团骑手年龄上限45岁系谣言",
       "onboard_time": 1699234594,
       "rank": 45,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 145822,
+      "num": 145822,
+      "word": "罗英子周大哥be了",
+      "onboard_time": 1699495895,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 145764,
@@ -19025,6 +19169,14 @@
       "onboard_time": 1698760595,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144622,
+      "num": 144622,
+      "word": "TFBOYS十周年专辑戒指差异解决方案",
+      "onboard_time": 1699494634,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 144500,
@@ -19308,7 +19460,7 @@
     },
     {
       "raw_hot": 140814,
-      "num": 140814,
+      "num": 197517,
       "word": "银行职员多问一句帮男子跳出陷阱",
       "onboard_time": 1699491820,
       "rank": 46,
@@ -19601,6 +19753,14 @@
       "onboard_time": 1698813097,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136312,
+      "num": 136312,
+      "word": "王俊凯值得重温的舞台",
+      "onboard_time": 1699496613,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136292,
@@ -20265,14 +20425,6 @@
       "onboard_time": 1698797852,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128708,
-      "num": 128708,
-      "word": "00后被领导辱骂后起诉获赔100元",
-      "onboard_time": 1699493433,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128215,
