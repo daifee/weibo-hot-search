@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699571865360,
+  "endTime": 1699572857321,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -35,6 +35,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1022892,
+      "num": 1022892,
+      "word": "男子进账1132万直冲派出所",
+      "onboard_time": 1699571004,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775576,
       "num": 775576,
       "word": "把秦岚美到尖叫的图发出来了",
@@ -51,8 +59,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 734548,
-      "num": 734548,
+      "raw_hot": 745338,
+      "num": 745338,
       "word": "央行回应取消跨行提现手续费",
       "onboard_time": 1699563133,
       "rank": 4,
@@ -81,6 +89,14 @@
       "onboard_time": 1699520973,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473575,
+      "num": 473575,
+      "word": "印度和巴基斯坦再次交火",
+      "onboard_time": 1699571545,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 391166,
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241973,
-      "num": 241973,
-      "word": "男子进账1132万直冲派出所",
-      "onboard_time": 1699571004,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221913,
       "num": 166307,
       "word": "韩男子被机器人误当箱子放入传送带压死",
@@ -179,11 +187,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207111,
-      "num": 207111,
+      "raw_hot": 216122,
+      "num": 216122,
       "word": "高三女孩跳河2男子划桨板1分钟救回",
       "onboard_time": 1699564334,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205776,
+      "num": 205776,
+      "word": "中山二院一患癌医生去年已发现肿瘤",
+      "onboard_time": 1699553537,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -203,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180087,
+      "num": 180087,
+      "word": "洗头后到底该吹干还是风干",
+      "onboard_time": 1699526673,
+      "rank": 24,
+      "category": "美妆,知识科普"
+    },
+    {
       "raw_hot": 169552,
       "num": 169552,
       "word": "小奇迹一家平安到家",
@@ -211,36 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166583,
+      "num": 166583,
+      "word": "浙江大学夜跑放的是凤凰传奇的歌",
+      "onboard_time": 1699547966,
+      "rank": 21,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 154086,
       "num": 154086,
       "word": "RNG队员为Wei庆生",
       "onboard_time": 1699541495,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152439,
-      "num": 108996,
-      "word": "中山二院一患癌医生去年已发现肿瘤",
-      "onboard_time": 1699553537,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152222,
-      "num": 152222,
-      "word": "洗头后到底该吹干还是风干",
-      "onboard_time": 1699526673,
-      "rank": 24,
-      "category": "美妆,知识科普"
-    },
-    {
-      "raw_hot": 149318,
-      "num": 149318,
-      "word": "浙江大学夜跑放的是凤凰传奇的歌",
-      "onboard_time": 1699547966,
-      "rank": 21,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 134897,
@@ -267,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119146,
+      "num": 119146,
+      "word": "宝宝也没想到一出生就危机四伏",
+      "onboard_time": 1699555336,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113631,
       "num": 113631,
       "word": "宁安如梦爱奇艺热度值破9500",
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109835,
-      "num": 109835,
-      "word": "印度和巴基斯坦再次交火",
-      "onboard_time": 1699571545,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 107210,
       "num": 107210,
       "word": "迪丽热巴火龙果公主裙",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104153,
+      "num": 104153,
+      "word": "吴京自己人 有瓜他真说",
+      "onboard_time": 1699524756,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103855,
       "num": 103855,
       "word": "医院贩卖出生证明7人被采取刑事强制措施",
@@ -323,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102577,
-      "num": 102577,
-      "word": "宝宝也没想到一出生就危机四伏",
-      "onboard_time": 1699555336,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 103262,
+      "num": 103262,
+      "word": "深圳龙华警方通报男子在广场附近持刀伤人",
+      "onboard_time": 1699572687,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100511,
@@ -387,12 +403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90060,
-      "num": 90060,
-      "word": "吴京自己人 有瓜他真说",
-      "onboard_time": 1699524756,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 83452,
+      "num": 88012,
+      "word": "玲子参加婚礼",
+      "onboard_time": 1699534294,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 81426,
+      "num": 81426,
+      "word": "我甚至愿意花五块买下它",
+      "onboard_time": 1699572687,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 80929,
@@ -411,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75642,
-      "num": 88012,
-      "word": "玲子参加婚礼",
-      "onboard_time": 1699534294,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 74831,
       "num": 88000,
       "word": "深夜吃一碗街边炒泡面",
@@ -433,6 +449,14 @@
       "onboard_time": 1699536094,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71344,
+      "num": 71344,
+      "word": "美香一家刚回国就被排队投喂",
+      "onboard_time": 1699572687,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70724,
@@ -467,15 +491,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48482,
-      "num": 57566,
-      "word": "这就是成年人的恋爱",
-      "onboard_time": 1699534473,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 44602,
+      "raw_hot": 55096,
       "num": 57434,
       "word": "流浪汉被民警救助后坦白是命案逃犯",
       "onboard_time": 1699551138,
@@ -483,12 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41868,
+      "raw_hot": 53344,
+      "num": 57566,
+      "word": "这就是成年人的恋爱",
+      "onboard_time": 1699534473,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49085,
       "num": 57443,
       "word": "王牌对王牌全员参加村BA运动会",
       "onboard_time": 1699533451,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44123,
+      "num": 49080,
+      "word": "以爱为营直播",
+      "onboard_time": 1699572809,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 34698,
@@ -499,8 +531,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 21365,
-      "num": 669440,
+      "raw_hot": 26307,
+      "num": 793122,
       "word": "在进博会感受东西方文化碰撞之美",
       "onboard_time": 1699534171,
       "rank": 2,
