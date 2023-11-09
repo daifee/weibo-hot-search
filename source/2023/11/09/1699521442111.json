@@ -1,0 +1,410 @@
+{
+  "runTime": 1699521442111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1970472,
+        "num": 1970472,
+        "word": "霸王茶姬 三品管",
+        "onboard_time": 1699516832,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1448152,
+        "num": 1448152,
+        "word": "圈里人都知道刘宇宁回家过年的场景了",
+        "onboard_time": 1699517431,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74379,
+        "num": 980390,
+        "word": "口岸通老人讲述巴克图口岸",
+        "onboard_time": 1699516832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943429,
+        "num": 943429,
+        "word": "南京胖哥称父亲查出患食道癌",
+        "onboard_time": 1699520614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792018,
+        "num": 792018,
+        "word": "中国科协就中山二院3人患癌发声",
+        "onboard_time": 1699517133,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719578,
+        "num": 719578,
+        "word": "中山二院仍有五大疑问需要解答",
+        "onboard_time": 1699520134,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537589,
+        "num": 537589,
+        "word": "一中国女子在日本街头被杀害",
+        "onboard_time": 1699520973,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496868,
+        "num": 496868,
+        "word": "离岸流",
+        "onboard_time": 1699503877,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 494774,
+        "num": 494774,
+        "word": "内娱改造最成功的两位男艺人",
+        "onboard_time": 1699504118,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431365,
+        "num": 431365,
+        "word": "迪丽热巴 INFJ",
+        "onboard_time": 1699515632,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1121261,
+        "num": 428762,
+        "word": "成都下水道 让人失望的中山二院",
+        "onboard_time": 1699511553,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585268,
+        "num": 419298,
+        "word": "体育馆遇难者家属称遭人施压签协议",
+        "onboard_time": 1699515153,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398837,
+        "num": 398837,
+        "word": "小狗被撞断脊柱同伴不离不弃",
+        "onboard_time": 1699518633,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335981,
+        "num": 335981,
+        "word": "海滩红旗区",
+        "onboard_time": 1699505677,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 380560,
+        "num": 328802,
+        "word": "为何乳腺癌更偏爱职业女性",
+        "onboard_time": 1699515813,
+        "rank": 14,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 362071,
+        "num": 319888,
+        "word": "迪丽热巴塑料袋爆改皮筋",
+        "onboard_time": 1699517254,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304396,
+        "num": 304396,
+        "word": "今年古装爆剧九选一",
+        "onboard_time": 1699517254,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298589,
+        "num": 298589,
+        "word": "天呐我被仙剑包围了",
+        "onboard_time": 1699521155,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22401,
+        "num": 293601,
+        "word": "羡慕皮肤水润的人",
+        "onboard_time": 1699518875,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 292246,
+        "num": 292246,
+        "word": "福原爱",
+        "onboard_time": 1699502615,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 293895,
+        "num": 291168,
+        "word": "大S回应小S复出演戏",
+        "onboard_time": 1699504718,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288839,
+        "num": 288839,
+        "word": "助学金事件当事人回应花3000元租房",
+        "onboard_time": 1699509214,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236323,
+        "num": 236323,
+        "word": "医生谈中山二院拆实验室",
+        "onboard_time": 1699505621,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235251,
+        "num": 235251,
+        "word": "中国公民暂勿前往缅北",
+        "onboard_time": 1699521214,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 234352,
+        "num": 234352,
+        "word": "中山二院",
+        "onboard_time": 1699517073,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233658,
+        "num": 233658,
+        "word": "快乐老友记",
+        "onboard_time": 1699520674,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215696,
+        "num": 215696,
+        "word": "女大三分钟耳后双C发型",
+        "onboard_time": 1699519234,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 213511,
+        "num": 213511,
+        "word": "这萧剑晴儿还能认出吗",
+        "onboard_time": 1699500155,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203991,
+        "num": 203991,
+        "word": "以爱为营 小蛋糕之神",
+        "onboard_time": 1699512751,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199812,
+        "num": 199812,
+        "word": "赵露思范思哲全球品牌代言人",
+        "onboard_time": 1699502854,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1557729,
+        "num": 199746,
+        "word": "仲尼死亡原因",
+        "onboard_time": 1699508974,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 199017,
+        "num": 199017,
+        "word": "陈楚生 地狱笑话",
+        "onboard_time": 1699513891,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1255418,
+        "num": 196278,
+        "word": "卡琳娜讲述仲尼溺水时刻",
+        "onboard_time": 1699502072,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 654542,
+        "num": 190543,
+        "word": "搜救人士称仲尼父母已抵达巴厘岛",
+        "onboard_time": 1699503821,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 460542,
+        "num": 187269,
+        "word": "Dior活动出场顺序",
+        "onboard_time": 1699513230,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199106,
+        "num": 181954,
+        "word": "秦海璐 听总裁文当总裁本人",
+        "onboard_time": 1699521155,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181518,
+        "num": 181518,
+        "word": "在杭州吃饭被气笑了",
+        "onboard_time": 1699518875,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163344,
+        "num": 163344,
+        "word": "王源吐槽还不如买个护肝片呢",
+        "onboard_time": 1699506158,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161698,
+        "num": 161698,
+        "word": "以爱为营 秀才和一笑倾城",
+        "onboard_time": 1699503999,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160468,
+        "num": 160468,
+        "word": "氛围感高颅顶卷发",
+        "onboard_time": 1699521032,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153042,
+        "num": 153042,
+        "word": "汪雨橦 逆袭爽文女主剧本",
+        "onboard_time": 1699519113,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144399,
+        "num": 144399,
+        "word": "三个少年2今晚开播",
+        "onboard_time": 1699519113,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142196,
+        "num": 142196,
+        "word": "中山二院致癌事件三大疑问",
+        "onboard_time": 1699496133,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "美香一家今晚到家",
+        "onboard_time": 1699516533,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 136308,
+        "word": "共情王安宇",
+        "onboard_time": 1699520070,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134513,
+        "num": 134513,
+        "word": "一中国公民在澳大利亚不幸溺亡",
+        "onboard_time": 1699510589,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132969,
+        "num": 132969,
+        "word": "外交部回应大熊猫美香一家回国",
+        "onboard_time": 1699516832,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "莫文蔚公开绝版写真",
+        "onboard_time": 1699512209,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129670,
+        "num": 129670,
+        "word": "2岁萌娃凌晨徘徊街头一群人接力照看",
+        "onboard_time": 1699519354,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128435,
+        "num": 128435,
+        "word": "宁安如梦周生如故梦幻联动",
+        "onboard_time": 1699506217,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网络空间互联互通共享共治#"
+    }
+  }
+}
