@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/09 14:22:27
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/09 14:35:15
 </p>
 </blockquote>
 <p>
@@ -5025,6 +5025,12 @@ XUN 我想成为世界第一打野（热度：459156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%20%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B9%9F%E6%9C%89%E6%9A%B4%E8%84%BE%E6%B0%94%23" target="weibo">
+库里 小学生也有暴脾气（热度：454137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%98%E6%98%8A%E7%84%B6%E6%9D%8E%E7%8E%B0%E5%9D%90%E4%B8%80%E6%A1%8C%23" target="weibo">
 魏大勋刘昊然李现坐一桌（热度：452799）
 </a>
@@ -6005,12 +6011,6 @@ WTT法兰克福冠军赛2023（热度：390058）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E8%8B%B1%E4%BF%8A%23" target="weibo">
 七英俊（热度：387540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7%E9%87%8C%E8%97%8F%E7%9D%80%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%A5%BD%E6%B2%B3%E5%B1%B1%23" target="weibo">
-中国护照里藏着祖国大好河山（热度：387331）
 </a>
 </li>
 

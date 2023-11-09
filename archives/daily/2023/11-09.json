@@ -1,6 +1,6 @@
 {
   "startTime": 1699460591616,
-  "endTime": 1699510947983,
+  "endTime": 1699511715135,
   "band_list": [
     {
       "raw_hot": 7255673,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 823808,
-      "num": 731977,
+      "num": 764186,
       "word": "内娱改造最成功的两位男艺人",
       "onboard_time": 1699504118,
       "rank": 16,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454137,
+      "num": 209790,
+      "word": "库里 小学生也有暴脾气",
+      "onboard_time": 1699510831,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447772,
       "num": 281464,
       "word": "韵达",
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330778,
+      "num": 330778,
+      "word": "张远一个人编舞 六个人丢脸",
+      "onboard_time": 1699510472,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329304,
       "num": 329304,
       "word": "真正的狂徒 温实初",
@@ -715,8 +731,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 319658,
-      "num": 319658,
+      "raw_hot": 322721,
+      "num": 322721,
       "word": "助学金事件当事人回应花3000元租房",
       "onboard_time": 1699509214,
       "rank": 17,
@@ -755,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315068,
+      "num": 315068,
+      "word": "一中国公民在澳大利亚不幸溺亡",
+      "onboard_time": 1699510589,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 310894,
       "num": 297394,
       "word": "美国演员埃文埃林森猝逝",
@@ -769,6 +793,14 @@
       "onboard_time": 1699485686,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306702,
+      "num": 306702,
+      "word": "陈楚生冠军的排面",
+      "onboard_time": 1699510172,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 303113,
@@ -801,14 +833,6 @@
       "onboard_time": 1699500333,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295347,
-      "num": 295347,
-      "word": "陈楚生冠军的排面",
-      "onboard_time": 1699510172,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 294182,
@@ -915,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263853,
+      "num": 210385,
+      "word": "易烊千玺连轴转",
+      "onboard_time": 1699509691,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259314,
       "num": 259314,
       "word": "这片热爱的土地我们共同守护",
@@ -929,6 +961,14 @@
       "onboard_time": 1699490139,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253279,
+      "num": 253279,
+      "word": "3块钱羽绒服",
+      "onboard_time": 1699509632,
+      "rank": 26,
+      "category": "情感,情感"
     },
     {
       "raw_hot": 251983,
@@ -963,20 +1003,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 244681,
+      "num": 231915,
+      "word": "李二牛爆改金希澈",
+      "onboard_time": 1699508432,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241904,
       "num": 241904,
       "word": "刘恺威肘击颖儿",
       "onboard_time": 1699438294,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240869,
-      "num": 231915,
-      "word": "李二牛爆改金希澈",
-      "onboard_time": 1699508432,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 240227,
@@ -1003,20 +1043,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232033,
+      "num": 210288,
+      "word": "黄子弘凡广州",
+      "onboard_time": 1699510952,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229635,
       "num": 229635,
       "word": "凯恩进球停不下来",
       "onboard_time": 1699486109,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229060,
-      "num": 229060,
-      "word": "3块钱羽绒服",
-      "onboard_time": 1699509632,
-      "rank": 26,
-      "category": "情感,情感"
     },
     {
       "raw_hot": 226353,
@@ -1139,14 +1179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207121,
-      "num": 207121,
-      "word": "库里 小学生也有暴脾气",
-      "onboard_time": 1699510831,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204938,
       "num": 204938,
       "word": "微博视界大会",
@@ -1171,19 +1203,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202663,
+      "num": 202663,
+      "word": "库里克莱连丢绝平",
+      "onboard_time": 1699511191,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201687,
       "num": 201687,
       "word": "傅首尔老刘无声的陪伴",
       "onboard_time": 1699459056,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 201425,
-      "num": 201425,
-      "word": "张远一个人编舞 六个人丢脸",
-      "onboard_time": 1699510472,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1259,14 +1291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 191309,
-      "num": 191309,
-      "word": "一中国公民在澳大利亚不幸溺亡",
-      "onboard_time": 1699510589,
-      "rank": 34,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 190760,
       "num": 190760,
       "word": "显脸小眼妆就要这么化",
@@ -1283,8 +1307,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190360,
+      "num": 190360,
+      "word": "尹正你要演变态我可不困了",
+      "onboard_time": 1699510713,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189561,
-      "num": 189561,
+      "num": 209855,
       "word": "掘金战胜勇士",
       "onboard_time": 1699510650,
       "rank": 35,
@@ -1345,14 +1377,6 @@
       "onboard_time": 1699499374,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174995,
-      "num": 174995,
-      "word": "易烊千玺连轴转",
-      "onboard_time": 1699509691,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 174792,
@@ -1611,14 +1635,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139280,
-      "num": 139280,
-      "word": "尹正你要演变态我可不困了",
-      "onboard_time": 1699510713,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138180,
       "num": 138180,
       "word": "起床受苦",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1699451693,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127207,
+      "num": 127207,
+      "word": "成都下水道 让人失望的中山二院",
+      "onboard_time": 1699511553,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126270,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1699445619,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82682,
+      "num": 187332,
+      "word": "coser扮演爆款表情包引围观",
+      "onboard_time": 1699511071,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 72725,
