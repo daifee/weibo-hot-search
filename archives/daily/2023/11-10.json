@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699590031377,
+  "endTime": 1699590849413,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1055453,
-      "num": 196987,
+      "num": 216695,
       "word": "卡琳娜未要求对仲尼尸检",
       "onboard_time": 1699529733,
       "rank": 30,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 935953,
+      "num": 872438,
+      "word": "医生提醒不要皮肤一干就敷面膜",
+      "onboard_time": 1699585412,
+      "rank": 27,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 912200,
       "num": 912200,
       "word": "印度和巴基斯坦再次交火",
@@ -107,12 +115,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 872438,
-      "num": 872438,
-      "word": "医生提醒不要皮肤一干就敷面膜",
-      "onboard_time": 1699585412,
-      "rank": 27,
-      "category": "健康医疗,美妆"
+      "raw_hot": 875335,
+      "num": 875335,
+      "word": "披荆斩棘3总决赛",
+      "onboard_time": 1699587211,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 843197,
+      "num": 843197,
+      "word": "微信支付与三大运营商条码支付互联互通",
+      "onboard_time": 1699587932,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 779829,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740454,
+      "num": 740454,
+      "word": "aespa回归",
+      "onboard_time": 1699589616,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 730196,
       "num": 730196,
       "word": "陈楚生在尺度和分寸间选择了尺寸",
@@ -187,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612283,
-      "num": 612283,
-      "word": "微信支付与三大运营商条码支付互联互通",
-      "onboard_time": 1699587932,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 607501,
       "num": 607501,
       "word": "西南政法大学vs华东政法大学",
@@ -203,12 +219,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 570363,
-      "num": 570363,
-      "word": "披荆斩棘3总决赛",
-      "onboard_time": 1699587211,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 592917,
+      "num": 462647,
+      "word": "孙俪陶昕然贴贴",
+      "onboard_time": 1699589672,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 562074,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501786,
-      "num": 501786,
-      "word": "aespa回归",
-      "onboard_time": 1699589616,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 495009,
       "num": 483876,
       "word": "辛芷蕾当赵昭仪面说她坏话",
@@ -281,6 +289,14 @@
       "onboard_time": 1699586553,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 439297,
+      "num": 439297,
+      "word": "以爱为营宁安如梦 歹毒联动",
+      "onboard_time": 1699588833,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 424647,
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377500,
+      "num": 377500,
+      "word": "关于我老婆总是想杀我这件小事",
+      "onboard_time": 1699590156,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376958,
       "num": 376958,
       "word": "那年杏花微雨 你说你是十七郎",
@@ -363,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359355,
+      "num": 359355,
+      "word": "离职过于开心走不出公司门",
+      "onboard_time": 1699589914,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355380,
       "num": 355380,
       "word": "学青会吴艳妮夺金",
       "onboard_time": 1699579954,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 354929,
-      "num": 354929,
-      "word": "以爱为营宁安如梦 歹毒联动",
-      "onboard_time": 1699588833,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 349623,
@@ -411,6 +435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 337131,
+      "num": 337131,
+      "word": "为什么人们不爱喝一点点了",
+      "onboard_time": 1699582893,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 333012,
       "num": 333012,
       "word": "学生状告老师剽窃科研成果案终审胜诉",
@@ -425,14 +457,6 @@
       "onboard_time": 1699585532,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 326160,
-      "num": 326160,
-      "word": "为什么人们不爱喝一点点了",
-      "onboard_time": 1699582893,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 313902,
@@ -491,12 +515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288276,
+      "num": 288276,
+      "word": "林俊杰 南京小奇迹",
+      "onboard_time": 1699588896,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285481,
       "num": 285481,
       "word": "披荆斩棘3总决赛开播海报",
       "onboard_time": 1699584029,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283150,
+      "num": 283150,
+      "word": "洛基结局",
+      "onboard_time": 1699588833,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 278392,
@@ -513,14 +553,6 @@
       "onboard_time": 1699585831,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274204,
-      "num": 274204,
-      "word": "洛基结局",
-      "onboard_time": 1699588833,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 264024,
@@ -579,28 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240003,
-      "num": 240003,
-      "word": "林俊杰 南京小奇迹",
-      "onboard_time": 1699588896,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 239836,
-      "num": 175286,
+      "num": 176938,
       "word": "好担心卡琳娜",
       "onboard_time": 1699579234,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 235991,
-      "num": 235991,
-      "word": "孙俪陶昕然贴贴",
-      "onboard_time": 1699589672,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 231224,
@@ -617,6 +633,14 @@
       "onboard_time": 1699584930,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 222335,
+      "num": 222335,
+      "word": "迪丽热巴撑伞侧颜",
+      "onboard_time": 1699590519,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221913,
@@ -641,6 +665,14 @@
       "onboard_time": 1699564334,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215287,
+      "num": 215287,
+      "word": "周深演唱宁安如梦主题曲借梦",
+      "onboard_time": 1699589974,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 209477,
@@ -787,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171759,
-      "num": 171759,
-      "word": "周深演唱宁安如梦主题曲借梦",
-      "onboard_time": 1699589974,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171748,
       "num": 171748,
       "word": "无价之宝今日上映",
@@ -811,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168563,
-      "num": 168563,
-      "word": "离职过于开心走不出公司门",
-      "onboard_time": 1699589914,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 168427,
+      "num": 168427,
+      "word": "拯救嫌疑人 两种失去女儿的极端",
+      "onboard_time": 1699590334,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 166583,
@@ -963,6 +987,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132134,
+      "num": 132134,
+      "word": "陈奕迅广州跨年演唱会",
+      "onboard_time": 1699590818,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 128794,
+      "num": 128794,
+      "word": "小男孩扶梯上用身体挡住摔倒的奶奶",
+      "onboard_time": 1699590156,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128781,
       "num": 128781,
       "word": "时宴你荷尔蒙快扑我脸上了",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1699511553,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108129,
+      "num": 536649,
+      "word": "王鹤棣给的宠溺",
+      "onboard_time": 1699587333,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 107210,
@@ -1123,20 +1171,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 81959,
-      "num": 536649,
-      "word": "王鹤棣给的宠溺",
-      "onboard_time": 1699587333,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80929,
       "num": 88028,
       "word": "李雪琴吻戏",
       "onboard_time": 1699524153,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79092,
+      "num": 853190,
+      "word": "未成年人网络素养提升片来啦",
+      "onboard_time": 1699589795,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77591,
@@ -1235,7 +1283,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43670,
+      "raw_hot": 43844,
       "num": 487832,
       "word": "竞燃之夜阵容官宣",
       "onboard_time": 1699588833,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1699556954,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15468,
-      "num": 685837,
-      "word": "未成年人网络素养提升片来啦",
-      "onboard_time": 1699589795,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9438,
