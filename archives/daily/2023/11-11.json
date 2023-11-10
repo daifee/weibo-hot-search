@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699647489481,
+  "endTime": 1699648476754,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -451,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35938,
+      "num": 35938,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34150,
       "num": 34150,
       "word": "何炅谢娜同台主持",
@@ -459,11 +467,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32061,
-      "num": 32061,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
+      "raw_hot": 27621,
+      "num": 20997,
+      "word": "成都欢乐谷NPC唐僧非其员工",
+      "onboard_time": 1699645994,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -473,14 +481,6 @@
       "onboard_time": 1699643415,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23465,
-      "num": 20997,
-      "word": "成都欢乐谷NPC唐僧非其员工",
-      "onboard_time": 1699645994,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21776,

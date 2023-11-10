@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699647489481,
+  "endTime": 1699648476754,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -17227,6 +17227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35938,
+      "num": 35938,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35315,
       "num": 156720,
       "word": "当代年轻人的省钱指南",
@@ -17240,14 +17248,6 @@
       "word": "进博会创意产品抢先看",
       "onboard_time": 1699183536,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32061,
-      "num": 32061,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -17273,6 +17273,14 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27621,
+      "num": 20997,
+      "word": "成都欢乐谷NPC唐僧非其员工",
+      "onboard_time": 1699645994,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26090,
@@ -17337,14 +17345,6 @@
       "onboard_time": 1699467377,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23465,
-      "num": 20997,
-      "word": "成都欢乐谷NPC唐僧非其员工",
-      "onboard_time": 1699645994,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23220,
