@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699633351618,
+  "endTime": 1699634286562,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -16,6 +16,14 @@
       "word": "萧亚轩回来了",
       "onboard_time": 1699631735,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1920018,
+      "num": 253310,
+      "word": "易烊千玺压轴舞台",
+      "onboard_time": 1699633828,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1013269,
-      "num": 371054,
+      "num": 885921,
       "word": "9位乳腺癌患者自述早期症状",
       "onboard_time": 1699629756,
       "rank": 10,
@@ -67,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 855159,
+      "num": 357156,
+      "word": "何炅不许任何一个夹子出现在他面前",
+      "onboard_time": 1699633053,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 820464,
       "num": 369075,
       "word": "谢娜 我回家了",
@@ -83,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 724873,
-      "num": 367864,
+      "raw_hot": 745211,
+      "num": 745211,
       "word": "萧亚轩状态",
       "onboard_time": 1699633230,
       "rank": 15,
@@ -171,14 +187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 357156,
-      "num": 357156,
-      "word": "何炅不许任何一个夹子出现在他面前",
-      "onboard_time": 1699633053,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350358,
       "num": 350358,
       "word": "终于等到成毅唱一壶莲花醉",
@@ -227,7 +235,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279572,
+      "raw_hot": 304913,
       "num": 366825,
       "word": "腾讯将在中国大陆代理销售MetaVR头显",
       "onboard_time": 1699631853,
@@ -267,20 +275,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227051,
+      "num": 227051,
+      "word": "于适送外卖被拒之门外",
+      "onboard_time": 1699632992,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 223163,
+      "num": 223163,
+      "word": "王晨艺王子浩跳梦不落雨林",
+      "onboard_time": 1699633770,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221273,
+      "num": 221273,
+      "word": "关晓彤豆浆油条舞台",
+      "onboard_time": 1699632210,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205557,
       "num": 366310,
       "word": "山东下雪",
       "onboard_time": 1699627054,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203899,
-      "num": 203899,
-      "word": "于适送外卖被拒之门外",
-      "onboard_time": 1699632992,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 199176,
@@ -355,20 +379,20 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 73203,
+      "num": 230416,
+      "word": "林孝埈 月亮不会奔你而来",
+      "onboard_time": 1699616190,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72657,
       "num": 322746,
       "word": "一点点",
       "onboard_time": 1699612112,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 72024,
-      "num": 188995,
-      "word": "林孝埈 月亮不会奔你而来",
-      "onboard_time": 1699616190,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 71386,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 68883,
-      "num": 178737,
+      "num": 218095,
       "word": "为什么是买东西不是买南北",
       "onboard_time": 1699625615,
       "rank": 48,
@@ -388,11 +412,27 @@
     },
     {
       "raw_hot": 59743,
-      "num": 178237,
+      "num": 219535,
       "word": "王楚钦呼吁文明观赛",
       "onboard_time": 1699620394,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45463,
+      "num": 217333,
+      "word": "七仔的新邻居是初恋永永",
+      "onboard_time": 1699632934,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43774,
+      "num": 216376,
+      "word": "阿维塔",
+      "onboard_time": 1699618231,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 13275,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#习近平在北京河北考察灾后恢复重建工作#"
+    },
+    {
+      "word": "#习近平将赴美国举行中美元首会晤#"
     }
   ]
 }
