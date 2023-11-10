@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699619553656,
+  "endTime": 1699620530684,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -51,6 +51,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 8529490,
+      "num": 8529490,
+      "word": "谢娜 我回家了",
+      "onboard_time": 1699617449,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7742178,
       "num": 7742178,
       "word": "佳木斯一体育馆发生坍塌",
@@ -73,14 +81,6 @@
       "onboard_time": 1699486288,
       "rank": 11,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 6309436,
-      "num": 6309436,
-      "word": "谢娜 我回家了",
-      "onboard_time": 1699617449,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 5684556,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1699164754,
       "rank": 3,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 1281830,
+      "num": 1281830,
+      "word": "蔡国庆唱易烊千玺的My boo",
+      "onboard_time": 1699619368,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1272970,
@@ -2691,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704468,
+      "num": 292716,
+      "word": "大张伟把我的乳腺唱通了",
+      "onboard_time": 1699618529,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702149,
       "num": 702149,
       "word": "以爱为营提档",
@@ -2785,6 +2801,14 @@
       "onboard_time": 1699368276,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 674823,
+      "num": 256575,
+      "word": "以爱为营 断更",
+      "onboard_time": 1699619614,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 673586,
@@ -3651,14 +3675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 550930,
-      "num": 315363,
-      "word": "蔡国庆唱易烊千玺的My boo",
-      "onboard_time": 1699619368,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1699317033,
       "rank": 6,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 540971,
+      "num": 239569,
+      "word": "蔡国庆薛家燕的叮叮当当",
+      "onboard_time": 1699620215,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 540549,
@@ -5403,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383560,
+      "num": 212337,
+      "word": "王铮亮唱流沙",
+      "onboard_time": 1699620094,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382605,
       "num": 449618,
       "word": "腹部长赘肉的人都要反思这5个习惯",
@@ -5448,14 +5480,6 @@
       "word": "秦海璐在大象岩给花少每个人拍了照片",
       "onboard_time": 1699410270,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 378756,
-      "num": 292716,
-      "word": "大张伟把我的乳腺唱通了",
-      "onboard_time": 1699618529,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -7075,12 +7099,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 291351,
+      "num": 264668,
+      "word": "周华健和三个小伙唱歌好听的一阵一阵",
+      "onboard_time": 1699618650,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291296,
       "num": 274171,
       "word": "热依扎一巴掌梦回甄嬛传",
       "onboard_time": 1699359037,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291293,
+      "num": 272561,
+      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+      "onboard_time": 1699615230,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291090,
@@ -7144,14 +7184,6 @@
       "word": "迪丽热巴被e人包围了",
       "onboard_time": 1699425219,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 288581,
-      "num": 264668,
-      "word": "周华健和三个小伙唱歌好听的一阵一阵",
-      "onboard_time": 1699618650,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -7537,14 +7569,6 @@
       "onboard_time": 1699598252,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272561,
-      "num": 272561,
-      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
-      "onboard_time": 1699615230,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272375,
@@ -9499,6 +9523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214320,
+      "num": 214320,
+      "word": "王楚钦呼吁文明观赛",
+      "onboard_time": 1699620394,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213806,
       "num": 213806,
       "word": "伍佰无锡",
@@ -10659,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195926,
+      "num": 242241,
+      "word": "你喝的星巴克可能是假的",
+      "onboard_time": 1699618891,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195648,
       "num": 195648,
       "word": "差点忘记秦岚原来的声音",
@@ -10841,6 +10881,14 @@
       "onboard_time": 1699179273,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193406,
+      "num": 172863,
+      "word": "唐嫣三次旗袍变装",
+      "onboard_time": 1699617033,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193204,
@@ -11225,6 +11273,14 @@
       "onboard_time": 1699491220,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187637,
+      "num": 167947,
+      "word": "宋亚轩张真源跳姐妹舞",
+      "onboard_time": 1699620452,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 187578,
@@ -11891,14 +11947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172863,
-      "num": 172863,
-      "word": "唐嫣三次旗袍变装",
-      "onboard_time": 1699617033,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172677,
       "num": 213325,
       "word": "妹妹一开口就是顶级嘲讽",
@@ -12145,14 +12193,6 @@
       "onboard_time": 1699430734,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168336,
-      "num": 242241,
-      "word": "你喝的星巴克可能是假的",
-      "onboard_time": 1699618891,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 168105,
@@ -13153,6 +13193,14 @@
       "onboard_time": 1699429773,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150319,
+      "num": 169250,
+      "word": "叠纸新游视频被打码",
+      "onboard_time": 1699620452,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 149991,
@@ -15371,6 +15419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100558,
+      "num": 167118,
+      "word": "恋与深空",
+      "onboard_time": 1699620516,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100514,
       "num": 220627,
       "word": "奶奶自发扫落叶2岁孙子跟着学",
@@ -15612,7 +15668,7 @@
     },
     {
       "raw_hot": 93664,
-      "num": 163063,
+      "num": 165866,
       "word": "冬天和羊肉有多搭",
       "onboard_time": 1699617871,
       "rank": 45,
@@ -15932,7 +15988,7 @@
     },
     {
       "raw_hot": 80180,
-      "num": 161856,
+      "num": 166195,
       "word": "2023CFS抽签仪式",
       "onboard_time": 1699619368,
       "rank": 47,
@@ -16251,6 +16307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63124,
+      "num": 297962,
+      "word": "天猫双11惊喜夜好多明星啊",
+      "onboard_time": 1699617630,
+      "rank": 14,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 62261,
       "num": 108162,
       "word": "入冬第一妆",
@@ -16545,14 +16609,6 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41889,
-      "num": 297962,
-      "word": "天猫双11惊喜夜好多明星啊",
-      "onboard_time": 1699617630,
-      "rank": 14,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 41172,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1699619553656,
+  "endTime": 1699620530684,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1555,6 +1555,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 8529490,
+      "num": 8529490,
+      "word": "谢娜 我回家了",
+      "onboard_time": 1699617449,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8499613,
       "num": 9749613,
       "word": "花西子 得力",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1694332772,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 6309436,
-      "num": 6309436,
-      "word": "谢娜 我回家了",
-      "onboard_time": 1699617449,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 6292850,
