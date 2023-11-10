@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/10 15:15:51
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/10 15:33:58
 </p>
 </blockquote>
 <p>
@@ -783,6 +783,12 @@ ELLE红毯（热度：2062330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B%23" target="weibo">
+林志颖披荆斩棘总成绩冠军（热度：1835794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E8%93%9D%E8%89%B2%E5%A6%96%E5%A7%AC%23" target="weibo">
 杨紫 蓝色妖姬（热度：1831373）
 </a>
@@ -809,12 +815,6 @@ ELLE红毯（热度：2062330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B5%B7%E6%B3%A2%E6%94%BE%E4%B8%8B%E4%BA%86%E5%90%97%23" target="weibo">
 黄海波放下了吗（热度：1775198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E6%88%90%E7%BB%A9%E5%86%A0%E5%86%9B%23" target="weibo">
-林志颖披荆斩棘总成绩冠军（热度：1773173）
 </a>
 </li>
 
@@ -1949,6 +1949,12 @@ ELLE风尚大典（热度：1088644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23" target="weibo">
 披荆斩棘成团名单（热度：1046591）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E9%A6%96%E4%BD%8D%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B%23" target="weibo">
+陈楚生首位双料冠军（热度：1046274）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ DIOR活动（热度：439436）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E6%8B%A5%E6%8A%B1%E7%9A%84%E7%9E%AC%E9%97%B4%E5%A4%AA%E9%98%B3%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 傅首尔老刘拥抱的瞬间太阳出来了（热度：422785）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%A9%99%E5%AD%90%E5%87%BA%E4%BA%86%E8%BD%A8%E8%BF%98%E6%98%AF%E6%9F%9A%E5%AD%90%E5%87%BA%E4%BA%86%E8%BD%A8%23" target="weibo">
-是橙子出了轨还是柚子出了轨（热度：421551）
 </a>
 </li>
 

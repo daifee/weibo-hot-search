@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699600551747,
+  "endTime": 1699601638146,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 2810104,
-      "num": 842781,
+      "num": 1085775,
       "word": "吴艳妮说我真抢跑了又怎么了",
       "onboard_time": 1699593992,
       "rank": 7,
@@ -659,6 +659,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1835794,
+      "num": 1835794,
+      "word": "林志颖披荆斩棘总成绩冠军",
+      "onboard_time": 1699598012,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1803257,
       "num": 1232400,
       "word": "肖战 宝诗龙",
@@ -673,14 +681,6 @@
       "onboard_time": 1699257332,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1773173,
-      "num": 1773173,
-      "word": "林志颖披荆斩棘总成绩冠军",
-      "onboard_time": 1699598012,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1754968,
@@ -1544,6 +1544,14 @@
       "word": "披荆斩棘成团名单",
       "onboard_time": 1699235314,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1046274,
+      "num": 1046274,
+      "word": "陈楚生首位双料冠军",
+      "onboard_time": 1699600472,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -5363,6 +5371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367322,
+      "num": 367322,
+      "word": "戚薇曝李承铉成团往事",
+      "onboard_time": 1699601372,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367159,
       "num": 367159,
       "word": "佳木斯体育馆坍塌事故遇难者为初中生",
@@ -5627,6 +5643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351680,
+      "num": 351680,
+      "word": "白鹿张凌赫亲完导演还不喊咔",
+      "onboard_time": 1699600532,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351270,
       "num": 351270,
       "word": "陆毅说经常撸铁会长不高",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1699490802,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343348,
+      "num": 343348,
+      "word": "今明两年将有多只大熊猫回国",
+      "onboard_time": 1699597955,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343221,
@@ -6201,6 +6233,14 @@
       "onboard_time": 1699183237,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317986,
+      "num": 317986,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1699599632,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 317807,
@@ -7019,6 +7059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 276535,
+      "num": 276535,
+      "word": "奥运冠军水谷隼自称已出现失忆",
+      "onboard_time": 1699600651,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276375,
       "num": 276375,
       "word": "东方甄选公布所售五常大米信息",
@@ -7091,14 +7139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273076,
-      "num": 249361,
-      "word": "陈楚生首位双料冠军",
-      "onboard_time": 1699600472,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272989,
       "num": 272989,
       "word": "许佳琪 最后记录一次THE9的日常",
@@ -7113,6 +7153,14 @@
       "onboard_time": 1699598252,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272685,
+      "num": 255301,
+      "word": "今天朋友圈的两批人",
+      "onboard_time": 1699600291,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 272375,
@@ -7145,14 +7193,6 @@
       "onboard_time": 1699513651,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272124,
-      "num": 272124,
-      "word": "今明两年将有多只大熊猫回国",
-      "onboard_time": 1699597955,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272054,
@@ -7401,6 +7441,14 @@
       "onboard_time": 1699144530,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 259866,
+      "num": 259866,
+      "word": "李健 其实你们都高估了我",
+      "onboard_time": 1699601011,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 259624,
@@ -7689,6 +7737,14 @@
       "onboard_time": 1699523433,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249756,
+      "num": 249756,
+      "word": "赵露思钻石猫眼妆",
+      "onboard_time": 1699601072,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249232,
@@ -8947,6 +9003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213768,
+      "num": 213768,
+      "word": "吴艳妮在饱受争议中披荆斩棘",
+      "onboard_time": 1699601492,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213747,
       "num": 147923,
       "word": "Nobody合作曲成员",
@@ -9089,14 +9153,6 @@
       "onboard_time": 1699432473,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211096,
-      "num": 211096,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1699599632,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 211017,
@@ -10235,6 +10291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192952,
+      "num": 192952,
+      "word": "莎头就是牛",
+      "onboard_time": 1699601492,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192932,
       "num": 192932,
       "word": "快乐老友记人均制片人",
@@ -10448,6 +10512,14 @@
       "word": "王曼昱进国家队十周年",
       "onboard_time": 1699362577,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189611,
+      "num": 189611,
+      "word": "林诗栋蒯曼逆转进四强",
+      "onboard_time": 1699601492,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -10953,14 +11025,6 @@
       "onboard_time": 1699360235,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178478,
-      "num": 139665,
-      "word": "今天朋友圈的两批人",
-      "onboard_time": 1699600291,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 178428,
@@ -12651,6 +12715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144966,
+      "num": 125661,
+      "word": "LIZ预告照公开",
+      "onboard_time": 1699601310,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144622,
       "num": 144622,
       "word": "TFBOYS十周年专辑戒指差异解决方案",
@@ -12873,14 +12945,6 @@
       "onboard_time": 1699458403,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141378,
-      "num": 134721,
-      "word": "白鹿张凌赫亲完导演还不喊咔",
-      "onboard_time": 1699600532,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 141320,
@@ -13372,7 +13436,7 @@
     },
     {
       "raw_hot": 131324,
-      "num": 922880,
+      "num": 1088019,
       "word": "未成年人网络素养提升片来啦",
       "onboard_time": 1699589795,
       "rank": 2,
@@ -14659,6 +14723,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 95505,
+      "num": 119697,
+      "word": "乡村老师鼓励单亲家庭男孩",
+      "onboard_time": 1699600770,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95471,
       "num": 238861,
       "word": "19个月大宝宝去世捐器官救6人",
@@ -15419,6 +15491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53881,
+      "num": 321869,
+      "word": "山东又推介了",
+      "onboard_time": 1699599632,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53555,
       "num": 53555,
       "word": "秦岚一句话治好辛芷蕾的容貌焦虑",
@@ -15640,14 +15720,6 @@
       "word": "进博会创意产品抢先看",
       "onboard_time": 1699183536,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33245,
-      "num": 269045,
-      "word": "山东又推介了",
-      "onboard_time": 1699599632,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
