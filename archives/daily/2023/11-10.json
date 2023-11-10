@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699580056219,
+  "endTime": 1699583152769,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -41,6 +41,14 @@
       "onboard_time": 1699544073,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1092283,
+      "num": 1092283,
+      "word": "想亲就亲啊还要打什么赌",
+      "onboard_time": 1699575335,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1055453,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716070,
+      "num": 716070,
+      "word": "张庭老公直播号召代理做好人传人",
+      "onboard_time": 1699581753,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689631,
       "num": 689631,
       "word": "巨大压力下的小学老师生存现状",
@@ -139,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 551404,
+      "num": 551404,
+      "word": "民警鼓励献血31次的外卖小哥考辅警",
+      "onboard_time": 1699578275,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 546117,
       "num": 546117,
       "word": "美香一家刚回国就被排队投喂",
@@ -147,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 542179,
-      "num": 542179,
-      "word": "想亲就亲啊还要打什么赌",
-      "onboard_time": 1699575335,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 537250,
+      "num": 537250,
+      "word": "丫丫在吃和玩之间选择了吃",
+      "onboard_time": 1699581631,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520233,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 495009,
-      "num": 452891,
+      "num": 483876,
       "word": "辛芷蕾当赵昭仪面说她坏话",
       "onboard_time": 1699578215,
       "rank": 30,
@@ -243,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355380,
+      "num": 355380,
+      "word": "学青会吴艳妮夺金",
+      "onboard_time": 1699579954,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349623,
       "num": 349623,
       "word": "综艺纣王",
@@ -283,20 +315,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 307862,
-      "num": 307862,
-      "word": "民警鼓励献血31次的外卖小哥考辅警",
-      "onboard_time": 1699578275,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 295381,
       "num": 295381,
       "word": "上班第一天同事治好了我的身材焦虑",
       "onboard_time": 1699578752,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291090,
+      "num": 291090,
+      "word": "沙溢为什么没演过李安的戏",
+      "onboard_time": 1699582413,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 282088,
+      "num": 282088,
+      "word": "Keep 光与夜之恋",
+      "onboard_time": 1699582172,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 278392,
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251053,
+      "num": 251053,
+      "word": "宁安如梦 剧本杀",
+      "onboard_time": 1699582292,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "邓为 DIOR",
@@ -345,6 +393,14 @@
       "onboard_time": 1699575875,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227321,
+      "num": 168805,
+      "word": "好担心卡琳娜",
+      "onboard_time": 1699579234,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 221913,
@@ -403,12 +459,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195391,
-      "num": 168805,
-      "word": "好担心卡琳娜",
-      "onboard_time": 1699579234,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 195692,
+      "num": 195692,
+      "word": "为什么人们不爱喝一点点了",
+      "onboard_time": 1699582893,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 194505,
@@ -419,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193940,
+      "num": 193940,
+      "word": "双城之战2明年冬季上线",
+      "onboard_time": 1699580974,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190897,
       "num": 190897,
       "word": "北京多家医院儿科先化验再诊疗",
       "onboard_time": 1699574492,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188434,
+      "num": 188434,
+      "word": "苏州毒地居民称小区房价已暴跌",
+      "onboard_time": 1699582893,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180087,
@@ -440,6 +512,14 @@
       "word": "黄子弘凡洗澡都要用计时器",
       "onboard_time": 1699576236,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176627,
+      "num": 176627,
+      "word": "SEVENTEEN音乐之神现场",
+      "onboard_time": 1699581393,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -459,12 +539,84 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 164807,
+      "num": 164807,
+      "word": "原来牛仔裤拉链是有开关的",
+      "onboard_time": 1699581692,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 161518,
+      "num": 161518,
+      "word": "儿童支原体肺炎病程用药图",
+      "onboard_time": 1699580734,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161373,
+      "num": 161373,
+      "word": "佘诗曼马国明狠话张口就来",
+      "onboard_time": 1699581812,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156886,
+      "num": 156886,
+      "word": "新旧婚姻观夹缝中的傅首尔",
+      "onboard_time": 1699582710,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154086,
       "num": 154086,
       "word": "RNG队员为Wei庆生",
       "onboard_time": 1699541495,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149227,
+      "num": 149227,
+      "word": "美香一家回国后最新视频",
+      "onboard_time": 1699583132,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148702,
+      "num": 148702,
+      "word": "薛之谦你是还没睡觉吗",
+      "onboard_time": 1699579413,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148262,
+      "num": 148262,
+      "word": "王彦霖一点活都不让老婆干",
+      "onboard_time": 1699582953,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147991,
+      "num": 153968,
+      "word": "张颜齐吐槽王子异rap",
+      "onboard_time": 1699581753,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143878,
+      "num": 143878,
+      "word": "姜雪宁自刎花絮",
+      "onboard_time": 1699579114,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 142116,
@@ -475,12 +627,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 136627,
-      "num": 136627,
-      "word": "薛之谦你是还没睡觉吗",
-      "onboard_time": 1699579413,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 141055,
+      "num": 141055,
+      "word": "人民空军成立74周年",
+      "onboard_time": 1699582773,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134897,
@@ -531,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117027,
-      "num": 117027,
-      "word": "学青会吴艳妮夺金",
-      "onboard_time": 1699579954,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113631,
       "num": 113631,
       "word": "宁安如梦爱奇艺热度值破9500",
@@ -561,14 +705,6 @@
       "onboard_time": 1699511553,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110763,
-      "num": 110763,
-      "word": "姜雪宁自刎花絮",
-      "onboard_time": 1699579114,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 107210,
@@ -753,6 +889,14 @@
       "onboard_time": 1699533451,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47533,
+      "num": 325405,
+      "word": "山东的北京时刻",
+      "onboard_time": 1699581631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44123,
