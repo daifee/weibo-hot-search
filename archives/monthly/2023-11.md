@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/10 17:17:01
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/10 17:34:15
 </p>
 </blockquote>
 <p>
@@ -1257,6 +1257,12 @@ nobody原来是nobody cares（热度：1528602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E9%99%A4%E5%A4%B4%E5%8F%91%E5%A4%96%E5%85%A8%E8%BA%AB%E8%84%B1%E6%AF%9B%23" target="weibo">
+权志龙除头发外全身脱毛（热度：1476939）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92%23" target="weibo">
 王楚钦2比4林昀儒（热度：1476315）
 </a>
@@ -2157,6 +2163,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E5%88%B0%E7%A9%BA%E7%93%B6%E5%8C%96%E5%A6%86%E5%93%81%23" target="weibo">
+当事人回应在李佳琦直播间买到空瓶化妆品（热度：971758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E4%B8%96%E5%A5%B3%E6%95%99%E5%B8%88%E5%8A%A0%E7%8F%AD%E6%95%B0%E7%9F%B3%E6%A6%B4%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
 离世女教师加班数石榴系谣言（热度：970738）
 </a>
@@ -2525,12 +2537,6 @@ S13四强已有三支LPL战队（热度：837933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%B9%E9%83%A8%E9%95%BF%E8%B5%98%E8%82%89%E7%9A%84%E4%BA%BA%E9%83%BD%E8%A6%81%E5%8F%8D%E6%80%9D%E8%BF%995%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
 腹部长赘肉的人都要反思这5个习惯（热度：832996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E5%88%B0%E7%A9%BA%E7%93%B6%E5%8C%96%E5%A6%86%E5%93%81%23" target="weibo">
-当事人回应在李佳琦直播间买到空瓶化妆品（热度：830504）
 </a>
 </li>
 
@@ -3669,6 +3675,12 @@ YG只发了朴彩英台历（热度：660096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%85%AC%E7%A4%BA8%E6%89%80%E6%96%B0%E5%A4%A7%E5%AD%A6%23" target="weibo">
+教育部公示8所新大学（热度：643109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%A0%94%E7%A9%B6%E4%BB%96%E5%96%9D%E4%B8%8B%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%9F%B9%E8%82%B2%E6%B1%A4%23" target="weibo">
 为研究他喝下幽门螺杆菌培育汤（热度：642400）
 </a>
@@ -3701,12 +3713,6 @@ YG只发了朴彩英台历（热度：660096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%83%95%E8%AE%A9%E4%BD%A0%E6%82%84%E6%82%84%E5%8F%98%E4%B8%91%E7%9A%84%E5%9D%8F%E4%B9%A0%E6%83%AF%23" target="weibo">
 警惕让你悄悄变丑的坏习惯（热度：636892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%85%AC%E7%A4%BA8%E6%89%80%E6%96%B0%E5%A4%A7%E5%AD%A6%23" target="weibo">
-教育部公示8所新大学（热度：636839）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ DIOR活动（热度：439436）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%B0%E8%BD%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%E6%8C%91%E8%A1%85%23" target="weibo">
 国防部回应加拿大舰载直升机挑衅（热度：426502）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%9A%84%E7%AB%A5%E5%B9%B4%E5%A5%B3%E7%A5%9E%E6%98%AF%E6%9D%A8%E7%B4%AB%23" target="weibo">
-王嘉尔的童年女神是杨紫（热度：425996）
 </a>
 </li>
 

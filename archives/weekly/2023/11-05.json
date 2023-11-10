@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699607821463,
+  "endTime": 1699608855283,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1059,6 +1059,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1476939,
+      "num": 359282,
+      "word": "权志龙除头发外全身脱毛",
+      "onboard_time": 1699607735,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1476315,
       "num": 1476315,
       "word": "王楚钦2比4林昀儒",
@@ -1707,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 971758,
+      "num": 971758,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 970406,
       "num": 414221,
       "word": "鼓楼医院",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1699332038,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 830504,
-      "num": 830504,
-      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
-      "onboard_time": 1699603114,
-      "rank": 5,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 829922,
@@ -2859,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 643109,
+      "num": 643109,
+      "word": "教育部公示8所新大学",
+      "onboard_time": 1699604913,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 642400,
       "num": 642400,
       "word": "为研究他喝下幽门螺杆菌培育汤",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1699417359,
       "rank": 13,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 636839,
-      "num": 636839,
-      "word": "教育部公示8所新大学",
-      "onboard_time": 1699604913,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 636338,
@@ -5083,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395252,
+      "num": 395252,
+      "word": "娜扎 颠婆敲木鱼",
+      "onboard_time": 1699605281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395198,
       "num": 330899,
       "word": "能被四爷看上 是那个人的荣幸",
@@ -5137,14 +5153,6 @@
       "onboard_time": 1699521813,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390315,
-      "num": 390315,
-      "word": "娜扎 颠婆敲木鱼",
-      "onboard_time": 1699605281,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 389081,
@@ -5289,6 +5297,14 @@
       "onboard_time": 1699369656,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 377341,
+      "num": 377341,
+      "word": "医院里的低成本变美项目",
+      "onboard_time": 1699606415,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 377051,
@@ -6251,14 +6267,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 324625,
-      "num": 264248,
-      "word": "医院里的低成本变美项目",
-      "onboard_time": 1699606415,
-      "rank": 11,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 324062,
       "num": 324062,
       "word": "豆瓣崩了",
@@ -6489,6 +6497,14 @@
       "onboard_time": 1699185335,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312372,
+      "num": 169126,
+      "word": "宁安如梦 想嗑什么就剪什么",
+      "onboard_time": 1699608333,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 311822,
@@ -6929,6 +6945,14 @@
       "onboard_time": 1699541314,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287712,
+      "num": 200203,
+      "word": "你今天好多了 你今天没那么好",
+      "onboard_time": 1699607554,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 286777,
@@ -9075,6 +9099,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 215626,
+      "num": 180316,
+      "word": "我要逆风去楼梯吻",
+      "onboard_time": 1699608155,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215467,
       "num": 206498,
       "word": "魏哲鸣总决赛主打一个陪伴",
@@ -9715,6 +9747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204761,
+      "num": 204761,
+      "word": "中信银行原行长孙德顺受贿案一审宣判",
+      "onboard_time": 1699608211,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 204465,
       "num": 204465,
       "word": "李健南京抢票",
@@ -9897,6 +9937,14 @@
       "onboard_time": 1699346856,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201355,
+      "num": 168889,
+      "word": "时代少年团对接否认耍大牌",
+      "onboard_time": 1699608453,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 201269,
@@ -10529,6 +10577,14 @@
       "onboard_time": 1699326630,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192083,
+      "num": 166863,
+      "word": "敷完面膜后该不该洗脸",
+      "onboard_time": 1699608211,
+      "rank": 32,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 191968,
@@ -11211,14 +11267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178615,
-      "num": 178615,
-      "word": "你今天好多了 你今天没那么好",
-      "onboard_time": 1699607554,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178513,
       "num": 178513,
       "word": "XJAPAN贝斯手HEATH去世",
@@ -11385,6 +11433,14 @@
       "onboard_time": 1699257694,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175546,
+      "num": 175546,
+      "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
+      "onboard_time": 1699607854,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175287,
@@ -11593,6 +11649,14 @@
       "onboard_time": 1699423897,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "葬送的芙莉莲",
+      "onboard_time": 1699607616,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 170027,
@@ -12113,14 +12177,6 @@
       "onboard_time": 1699436313,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159715,
-      "num": 152912,
-      "word": "权志龙除头发外全身脱毛",
-      "onboard_time": 1699607735,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 159613,
@@ -13563,6 +13619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133192,
+      "num": 123656,
+      "word": "黄子弘凡美依礼芽合唱未闻花名",
+      "onboard_time": 1699608575,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133144,
       "num": 133144,
       "word": "爱唱歌的大学生官宣",
@@ -13633,14 +13697,6 @@
       "onboard_time": 1699231415,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132157,
-      "num": 132157,
-      "word": "葬送的芙莉莲",
-      "onboard_time": 1699607616,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 132025,
@@ -14033,6 +14089,14 @@
       "onboard_time": 1699407757,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124778,
+      "num": 124778,
+      "word": "王曼昱晋级太原站8强",
+      "onboard_time": 1699607616,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124475,
@@ -14603,14 +14667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108805,
-      "num": 114518,
-      "word": "王曼昱晋级太原站8强",
-      "onboard_time": 1699607616,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108664,
       "num": 462827,
       "word": "让吴京变成夹子音只需要一个女儿",
@@ -15099,6 +15155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91949,
+      "num": 120010,
+      "word": "石家庄下雪",
+      "onboard_time": 1699608813,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91843,
       "num": 217100,
       "word": "挖机师傅遇老人填土20分钟帮填平",
@@ -15300,7 +15364,7 @@
     },
     {
       "raw_hot": 82558,
-      "num": 1312448,
+      "num": 1356782,
       "word": "坚持党中央对金融工作的集中统一领导",
       "onboard_time": 1699602992,
       "rank": 2,
@@ -15827,6 +15891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50382,
+      "num": 255997,
+      "word": "吴艳妮加盟竞燃之夜",
+      "onboard_time": 1699607735,
+      "rank": 14,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 50271,
       "num": 390630,
       "word": "iQOO12手机性能有多顶",
@@ -16241,14 +16313,6 @@
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14063,
-      "num": 255997,
-      "word": "吴艳妮加盟竞燃之夜",
-      "onboard_time": 1699607735,
-      "rank": 14,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 8351,

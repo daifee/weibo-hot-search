@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699607821463,
+  "endTime": 1699608855283,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -99,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1476939,
+      "num": 359282,
+      "word": "权志龙除头发外全身脱毛",
+      "onboard_time": 1699607735,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1246840,
       "num": 1246840,
       "word": "微信支付与三大运营商条码支付互联互通",
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 971758,
+      "num": 971758,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 968757,
       "num": 421010,
       "word": "难听",
@@ -233,14 +249,6 @@
       "onboard_time": 1699595672,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830504,
-      "num": 830504,
-      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
-      "onboard_time": 1699603114,
-      "rank": 5,
-      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 779829,
@@ -323,8 +331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 636839,
-      "num": 636839,
+      "raw_hot": 643109,
+      "num": 643109,
       "word": "教育部公示8所新大学",
       "onboard_time": 1699604913,
       "rank": 34,
@@ -555,6 +563,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 395252,
+      "num": 395252,
+      "word": "娜扎 颠婆敲木鱼",
+      "onboard_time": 1699605281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392263,
       "num": 392263,
       "word": "白鹿张凌赫亲完导演还不喊咔",
@@ -571,20 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390315,
-      "num": 390315,
-      "word": "娜扎 颠婆敲木鱼",
-      "onboard_time": 1699605281,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384179,
       "num": 384179,
       "word": "金莎说把我的恋爱脑炖了吧",
       "onboard_time": 1699533814,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377341,
+      "num": 377341,
+      "word": "医院里的低成本变美项目",
+      "onboard_time": 1699606415,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 376958,
@@ -739,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324625,
-      "num": 264248,
-      "word": "医院里的低成本变美项目",
-      "onboard_time": 1699606415,
-      "rank": 11,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 317986,
       "num": 317986,
       "word": "以色列巴勒斯坦冲突",
@@ -769,6 +777,14 @@
       "onboard_time": 1699582172,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 312372,
+      "num": 169126,
+      "word": "宁安如梦 想嗑什么就剪什么",
+      "onboard_time": 1699608333,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 312128,
@@ -857,6 +873,14 @@
       "onboard_time": 1699588896,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287712,
+      "num": 200203,
+      "word": "你今天好多了 你今天没那么好",
+      "onboard_time": 1699607554,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 285942,
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215626,
+      "num": 180316,
+      "word": "我要逆风去楼梯吻",
+      "onboard_time": 1699608155,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215467,
       "num": 206498,
       "word": "魏哲鸣总决赛主打一个陪伴",
@@ -1203,6 +1235,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204761,
+      "num": 204761,
+      "word": "中信银行原行长孙德顺受贿案一审宣判",
+      "onboard_time": 1699608211,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 201355,
+      "num": 168889,
+      "word": "时代少年团对接否认耍大牌",
+      "onboard_time": 1699608453,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200900,
       "num": 221676,
       "word": "时皓担任北京WB主教练",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1699601492,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192083,
+      "num": 166863,
+      "word": "敷完面膜后该不该洗脸",
+      "onboard_time": 1699608211,
+      "rank": 32,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 190897,
@@ -1387,20 +1443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178615,
-      "num": 178615,
-      "word": "你今天好多了 你今天没那么好",
-      "onboard_time": 1699607554,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176627,
       "num": 176627,
       "word": "SEVENTEEN音乐之神现场",
       "onboard_time": 1699581393,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175546,
+      "num": 175546,
+      "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
+      "onboard_time": 1699607854,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172344,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1699588715,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "葬送的芙莉莲",
+      "onboard_time": 1699607616,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 169949,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1699593034,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159715,
-      "num": 152912,
-      "word": "权志龙除头发外全身脱毛",
-      "onboard_time": 1699607735,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 157763,
@@ -1683,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133192,
+      "num": 123656,
+      "word": "黄子弘凡美依礼芽合唱未闻花名",
+      "onboard_time": 1699608575,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133144,
       "num": 133144,
       "word": "爱唱歌的大学生官宣",
@@ -1697,14 +1761,6 @@
       "onboard_time": 1699544912,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132157,
-      "num": 132157,
-      "word": "葬送的芙莉莲",
-      "onboard_time": 1699607616,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 131324,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1699593275,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124778,
+      "num": 124778,
+      "word": "王曼昱晋级太原站8强",
+      "onboard_time": 1699607616,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124475,
@@ -1825,14 +1889,6 @@
       "onboard_time": 1699511553,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108805,
-      "num": 114518,
-      "word": "王曼昱晋级太原站8强",
-      "onboard_time": 1699607616,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 108129,
@@ -1939,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91949,
+      "num": 120010,
+      "word": "石家庄下雪",
+      "onboard_time": 1699608813,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91914,
       "num": 91914,
       "word": "姜雪宁谢危张遮修罗场要来了",
@@ -1972,7 +2036,7 @@
     },
     {
       "raw_hot": 82558,
-      "num": 1312448,
+      "num": 1356782,
       "word": "坚持党中央对金融工作的集中统一领导",
       "onboard_time": 1699602992,
       "rank": 2,
@@ -2083,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50382,
+      "num": 255997,
+      "word": "吴艳妮加盟竞燃之夜",
+      "onboard_time": 1699607735,
+      "rank": 14,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 49085,
       "num": 57443,
       "word": "王牌对王牌全员参加村BA运动会",
@@ -2169,14 +2241,6 @@
       "onboard_time": 1699556954,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14063,
-      "num": 255997,
-      "word": "吴艳妮加盟竞燃之夜",
-      "onboard_time": 1699607735,
-      "rank": 14,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 9438,
