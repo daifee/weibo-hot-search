@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699658206777,
+  "endTime": 1699659262362,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -139,6 +139,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467985,
+      "num": 467985,
+      "word": "大连涉事小吃街疑因B太打假拉闸关灯",
+      "onboard_time": 1699623511,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439135,
+      "num": 439135,
+      "word": "父母每月寄10斤日用品给00后儿子",
+      "onboard_time": 1699620639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432264,
+      "num": 432264,
+      "word": "西安巨响",
+      "onboard_time": 1699658841,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413831,
       "num": 362339,
       "word": "杨紫李现 二搭",
@@ -187,14 +211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 356367,
-      "num": 426694,
-      "word": "父母每月寄10斤日用品给00后儿子",
-      "onboard_time": 1699620639,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350358,
       "num": 350358,
       "word": "终于等到成毅唱一壶莲花醉",
@@ -241,14 +257,6 @@
       "onboard_time": 1699631853,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 285738,
-      "num": 406488,
-      "word": "大连涉事小吃街疑因B太打假拉闸关灯",
-      "onboard_time": 1699623511,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275588,
@@ -315,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174874,
+      "num": 174874,
+      "word": "西安下雪",
+      "onboard_time": 1699658841,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172171,
       "num": 378289,
       "word": "新兰最新情话",
       "onboard_time": 1699631373,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 162116,
+      "num": 121584,
+      "word": "金刚蹲3分钟胜过跑步5公里",
+      "onboard_time": 1699657280,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 157357,
@@ -339,12 +363,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 136138,
-      "num": 62768,
-      "word": "金刚蹲3分钟胜过跑步5公里",
-      "onboard_time": 1699657280,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 132956,
+      "num": 132956,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132602,
+      "num": 132602,
+      "word": "被中科院院士薛其坤种草了山东",
+      "onboard_time": 1699657339,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131922,
@@ -353,14 +385,6 @@
       "onboard_time": 1699631256,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 125678,
-      "num": 125678,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102588,
@@ -395,6 +419,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81894,
+      "num": 81894,
+      "word": "民警怕吓到2岁女娃脱掉警服再抱",
+      "onboard_time": 1699657459,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80826,
+      "num": 80826,
+      "word": "台湾台东海域发生4.7级地震",
+      "onboard_time": 1699658661,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76653,
+      "num": 76653,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1699617090,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73285,
       "num": 324992,
       "word": "三胞胎妈妈子宫壁仅1.2毫米",
@@ -427,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69105,
-      "num": 54220,
-      "word": "何炅谢娜同台主持",
-      "onboard_time": 1699617090,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68883,
       "num": 218095,
       "word": "为什么是买东西不是买南北",
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61660,
+      "num": 61660,
+      "word": "成都欢乐谷NPC唐僧非其员工",
+      "onboard_time": 1699645994,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59743,
       "num": 219535,
       "word": "王楚钦呼吁文明观赛",
@@ -460,23 +508,15 @@
     },
     {
       "raw_hot": 57378,
-      "num": 50931,
+      "num": 53434,
       "word": "以前的古装和现在的古装",
       "onboard_time": 1699650132,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 54136,
-      "num": 54136,
-      "word": "被中科院院士薛其坤种草了山东",
-      "onboard_time": 1699657339,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51160,
-      "num": 51160,
+      "raw_hot": 52587,
+      "num": 52587,
       "word": "走失萌娃告诉民警自己叫乔治",
       "onboard_time": 1699657280,
       "rank": 34,
@@ -491,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49945,
-      "num": 49945,
-      "word": "成都欢乐谷NPC唐僧非其员工",
-      "onboard_time": 1699645994,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 50467,
+      "num": 50467,
+      "word": "1个动作改善弯腰驼背",
+      "onboard_time": 1699658602,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 43774,
@@ -505,14 +545,6 @@
       "onboard_time": 1699618231,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 43368,
-      "num": 43368,
-      "word": "民警怕吓到2岁女娃脱掉警服再抱",
-      "onboard_time": 1699657459,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29803,
@@ -547,7 +579,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 14149,
+      "raw_hot": 14782,
       "num": 1557689,
       "word": "70秒速览进博会精彩瞬间",
       "onboard_time": 1699622674,

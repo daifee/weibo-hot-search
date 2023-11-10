@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/11 07:16:46
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/11 07:34:22
 </p>
 </blockquote>
 <p>
@@ -5727,6 +5727,12 @@ Ruler全球总决赛登场排名第三（热度：468176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%B6%89%E4%BA%8B%E5%B0%8F%E5%90%83%E8%A1%97%E7%96%91%E5%9B%A0B%E5%A4%AA%E6%89%93%E5%81%87%E6%8B%89%E9%97%B8%E5%85%B3%E7%81%AF%23" target="weibo">
+大连涉事小吃街疑因B太打假拉闸关灯（热度：467985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA%E7%BB%93%E5%B1%80%20%E7%8C%AE%E5%87%BA%E5%BF%83%E8%84%8F%23" target="weibo">
 进击的巨人结局 献出心脏（热度：467760）
 </a>
@@ -6005,12 +6011,6 @@ EDG被重庆粉丝包围（热度：445922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%A7%A3%E8%81%98%E5%8C%BB%E9%99%A2%E5%91%98%E5%B7%A5%E5%8F%91%E5%A3%B0%23" target="weibo">
 被解聘医院员工发声（热度：445338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E5%8C%85%E6%88%B7%E6%94%B6%E5%89%B2%E7%99%BD%E6%9C%AF%E9%81%AD%E4%B8%8A%E7%99%BE%E6%9D%91%E6%B0%91%E5%93%84%E6%8A%A2%23" target="weibo">
-承包户收割白术遭上百村民哄抢（热度：444271）
 </a>
 </li>
 
