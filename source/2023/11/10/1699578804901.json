@@ -1,0 +1,410 @@
+{
+  "runTime": 1699578804901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2491896,
+        "num": 2491896,
+        "word": "女子在李佳琦直播间买到空瓶雅诗兰黛",
+        "onboard_time": 1699575214,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1963229,
+        "num": 1963229,
+        "word": "宋亚轩玩八小时手机都不回沈腾微信",
+        "onboard_time": 1699575274,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40499,
+        "num": 1736443,
+        "word": "在进博会感受东西方文化碰撞之美",
+        "onboard_time": 1699534171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1556524,
+        "num": 1556524,
+        "word": "美国首次发现吸血鬼病毒",
+        "onboard_time": 1699544253,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030322,
+        "num": 1030322,
+        "word": "苏钢集团回应被指卖毒地",
+        "onboard_time": 1699573951,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912200,
+        "num": 912200,
+        "word": "印度和巴基斯坦再次交火",
+        "onboard_time": 1699571545,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 833662,
+        "num": 833662,
+        "word": "我国首次发现23个长新冠标志物",
+        "onboard_time": 1699577316,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 730196,
+        "num": 730196,
+        "word": "陈楚生在尺度和分寸间选择了尺寸",
+        "onboard_time": 1699543114,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721603,
+        "num": 721603,
+        "word": "papi酱孙怡仿佛看的不是同一段素材",
+        "onboard_time": 1699575515,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689631,
+        "num": 689631,
+        "word": "巨大压力下的小学老师生存现状",
+        "onboard_time": 1699573890,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676156,
+        "num": 676156,
+        "word": "男子进账1132万直冲派出所",
+        "onboard_time": 1699571004,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546117,
+        "num": 546117,
+        "word": "美香一家刚回国就被排队投喂",
+        "onboard_time": 1699572687,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520233,
+        "num": 520233,
+        "word": "加沙一儿童医院遭炮击一名儿童断氧死亡",
+        "onboard_time": 1699576534,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 425509,
+        "num": 425509,
+        "word": "想亲就亲啊还要打什么赌",
+        "onboard_time": 1699575335,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403766,
+        "num": 403766,
+        "word": "iPhone15Pro支持录制空间视频",
+        "onboard_time": 1699573951,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 376958,
+        "num": 376958,
+        "word": "那年杏花微雨 你说你是十七郎",
+        "onboard_time": 1699574132,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373733,
+        "num": 373733,
+        "word": "把秦岚美到尖叫的图发出来了",
+        "onboard_time": 1699541675,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371263,
+        "num": 371263,
+        "word": "中山二院一患癌医生去年已发现肿瘤",
+        "onboard_time": 1699553537,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346461,
+        "num": 346461,
+        "word": "综艺纣王",
+        "onboard_time": 1699573951,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281292,
+        "num": 281292,
+        "word": "大连市监局通报B太曝光鬼秤案件",
+        "onboard_time": 1699544073,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278392,
+        "num": 278392,
+        "word": "王诗晴 我们能不能不过了",
+        "onboard_time": 1699574132,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264024,
+        "num": 264024,
+        "word": "深圳龙华警方通报男子在广场附近持刀伤人",
+        "onboard_time": 1699572687,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258469,
+        "num": 258469,
+        "word": "以爱为营提档",
+        "onboard_time": 1699541314,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257405,
+        "num": 257405,
+        "word": "僧丫再回应花3000元租房",
+        "onboard_time": 1699575755,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245190,
+        "num": 245190,
+        "word": "宁安如梦 三人修罗场",
+        "onboard_time": 1699575875,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206843,
+        "num": 206843,
+        "word": "YG新女团将11月27日出道",
+        "onboard_time": 1699573350,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198528,
+        "num": 198528,
+        "word": "我甚至愿意花五块买下它",
+        "onboard_time": 1699572687,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191141,
+        "num": 191141,
+        "word": "花少 情绪价值",
+        "onboard_time": 1699578393,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190897,
+        "num": 190897,
+        "word": "北京多家医院儿科先化验再诊疗",
+        "onboard_time": 1699574492,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185557,
+        "num": 185557,
+        "word": "央行回应取消跨行提现手续费",
+        "onboard_time": 1699563133,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 485037,
+        "num": 185356,
+        "word": "辛芷蕾当赵昭仪面说她坏话",
+        "onboard_time": 1699578215,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481219,
+        "num": 185044,
+        "word": "卡琳娜未要求对仲尼尸检",
+        "onboard_time": 1699529733,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 181430,
+        "num": 181430,
+        "word": "美香一家抵达成都",
+        "onboard_time": 1699544253,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181003,
+        "num": 181003,
+        "word": "韩男子被机器人误当箱子放入传送带压死",
+        "onboard_time": 1699541732,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179103,
+        "num": 179103,
+        "word": "黄子弘凡洗澡都要用计时器",
+        "onboard_time": 1699576236,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165610,
+        "num": 165610,
+        "word": "仲尼死亡原因",
+        "onboard_time": 1699508974,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 161329,
+        "num": 161329,
+        "word": "民警鼓励献血31次的外卖小哥考辅警",
+        "onboard_time": 1699578275,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 158301,
+        "num": 158301,
+        "word": "外交部回应哈马斯代表团或访北京",
+        "onboard_time": 1699541853,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142116,
+        "num": 142116,
+        "word": "感冒五个阶段都如何治疗",
+        "onboard_time": 1699576657,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133671,
+        "num": 133671,
+        "word": "金莎说把我的恋爱脑炖了吧",
+        "onboard_time": 1699533814,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131105,
+        "num": 131105,
+        "word": "上班第一天同事治好了我的身材焦虑",
+        "onboard_time": 1699578752,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124475,
+        "num": 124475,
+        "word": "苏钢集团否认隐瞒土壤污染风险",
+        "onboard_time": 1699575934,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124005,
+        "num": 124005,
+        "word": "YG将推出泰国男团",
+        "onboard_time": 1699573711,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122921,
+        "num": 122921,
+        "word": "洗头后到底该吹干还是风干",
+        "onboard_time": 1699526673,
+        "rank": 43,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 122519,
+        "num": 122519,
+        "word": "西南政法大学vs华东政法大学",
+        "onboard_time": 1699544912,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109244,
+        "num": 109244,
+        "word": "高三女孩跳河2男子划桨板1分钟救回",
+        "onboard_time": 1699564334,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103541,
+        "num": 103541,
+        "word": "浙江大学夜跑放的是凤凰传奇的歌",
+        "onboard_time": 1699547966,
+        "rank": 46,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 98818,
+        "num": 98818,
+        "word": "宝宝也没想到一出生就危机四伏",
+        "onboard_time": 1699555336,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93292,
+        "num": 93292,
+        "word": "王安宇在花少打了几份工",
+        "onboard_time": 1699531774,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91443,
+        "num": 91443,
+        "word": "江宏杰与炎亚纶经纪人签约",
+        "onboard_time": 1699541434,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样点亮文明之光#"
+    }
+  }
+}
