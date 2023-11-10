@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699590849413,
+  "endTime": 1699593377430,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -43,11 +43,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1526015,
+      "num": 514437,
+      "word": "nobody原来是nobody cares",
+      "onboard_time": 1699592017,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1246840,
+      "num": 1246840,
+      "word": "微信支付与三大运营商条码支付互联互通",
+      "onboard_time": 1699587932,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1157792,
       "num": 1157792,
       "word": "想亲就亲啊还要打什么赌",
       "onboard_time": 1699575335,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1134123,
+      "num": 809322,
+      "word": "关于我老婆总是想杀我这件小事",
+      "onboard_time": 1699590156,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -65,6 +89,14 @@
       "onboard_time": 1699529733,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1039919,
+      "num": 1039919,
+      "word": "aespa回归",
+      "onboard_time": 1699589616,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1030322,
@@ -123,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 843197,
-      "num": 843197,
-      "word": "微信支付与三大运营商条码支付互联互通",
-      "onboard_time": 1699587932,
+      "raw_hot": 791471,
+      "num": 791471,
+      "word": "电影二十二片中老人已全部去世",
+      "onboard_time": 1699592496,
       "rank": 5,
-      "category": "互联网"
+      "category": "电影"
     },
     {
       "raw_hot": 779829,
@@ -179,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 740454,
-      "num": 740454,
-      "word": "aespa回归",
-      "onboard_time": 1699589616,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 730196,
       "num": 730196,
       "word": "陈楚生在尺度和分寸间选择了尺寸",
@@ -201,6 +225,14 @@
       "onboard_time": 1699573890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684343,
+      "num": 684343,
+      "word": "披荆斩棘成团名单",
+      "onboard_time": 1699590996,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 677630,
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523473,
+      "num": 523473,
+      "word": "孙怡孙阳王子奇好像一家三口",
+      "onboard_time": 1699591895,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520233,
       "num": 520233,
       "word": "加沙一儿童医院遭炮击一名儿童断氧死亡",
@@ -299,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430176,
+      "num": 430176,
+      "word": "为什么人们不爱喝一点点了",
+      "onboard_time": 1699582893,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 424647,
       "num": 424647,
       "word": "男子结婚6年拒与妻子发生性关系",
@@ -313,6 +361,14 @@
       "onboard_time": 1699586192,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409776,
+      "num": 303003,
+      "word": "迪丽热巴撑伞侧颜",
+      "onboard_time": 1699590519,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403766,
@@ -337,14 +393,6 @@
       "onboard_time": 1699533814,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377500,
-      "num": 377500,
-      "word": "关于我老婆总是想杀我这件小事",
-      "onboard_time": 1699590156,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 376958,
@@ -435,14 +483,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 337131,
-      "num": 337131,
-      "word": "为什么人们不爱喝一点点了",
-      "onboard_time": 1699582893,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 333012,
       "num": 333012,
       "word": "学生状告老师剽窃科研成果案终审胜诉",
@@ -457,6 +497,14 @@
       "onboard_time": 1699585532,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313947,
+      "num": 302848,
+      "word": "萧亚轩身材管理",
+      "onboard_time": 1699592017,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313902,
@@ -489,6 +537,38 @@
       "onboard_time": 1699542094,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 308849,
+      "num": 302834,
+      "word": "这届年轻人喝咖啡的频率有多高",
+      "onboard_time": 1699591176,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303078,
+      "num": 303078,
+      "word": "纸嫁衣6无间梦境",
+      "onboard_time": 1699591537,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 302712,
+      "num": 302712,
+      "word": "4个异性室友合买冬装轮流穿",
+      "onboard_time": 1699592196,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298166,
+      "num": 298166,
+      "word": "Bad Boy",
+      "onboard_time": 1699592916,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 297116,
@@ -635,14 +715,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 222335,
-      "num": 222335,
-      "word": "迪丽热巴撑伞侧颜",
-      "onboard_time": 1699590519,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 221913,
       "num": 181003,
       "word": "韩男子被机器人误当箱子放入传送带压死",
@@ -771,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189918,
+      "num": 189918,
+      "word": "陈奕迅广州跨年演唱会",
+      "onboard_time": 1699590818,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186072,
       "num": 186072,
       "word": "美香一家回国后最新视频",
@@ -891,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160076,
+      "num": 160076,
+      "word": "宁安如梦 细节",
+      "onboard_time": 1699593034,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157763,
       "num": 157763,
       "word": "恶魔法则走进现实是什么体验",
@@ -937,6 +1025,14 @@
       "onboard_time": 1699576657,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141330,
+      "num": 141330,
+      "word": "职业暴露与患癌",
+      "onboard_time": 1699593095,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141055,
@@ -987,12 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132134,
-      "num": 132134,
-      "word": "陈奕迅广州跨年演唱会",
-      "onboard_time": 1699590818,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 131324,
+      "num": 853190,
+      "word": "未成年人网络素养提升片来啦",
+      "onboard_time": 1699589795,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128794,
@@ -1011,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128019,
+      "num": 128019,
+      "word": "主播1年看50本书称可对抗焦虑",
+      "onboard_time": 1699593275,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124475,
       "num": 124475,
       "word": "苏钢集团否认隐瞒土壤污染风险",
@@ -1027,12 +1131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123912,
+      "num": 123912,
+      "word": "东北人挤公交都自带笑点",
+      "onboard_time": 1699591056,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121846,
       "num": 121846,
       "word": "宋雨琦回复郑恺",
       "onboard_time": 1699536694,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121652,
+      "num": 303050,
+      "word": "晶核CoA",
+      "onboard_time": 1699590937,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 119146,
@@ -1177,14 +1297,6 @@
       "onboard_time": 1699524153,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79092,
-      "num": 853190,
-      "word": "未成年人网络素养提升片来啦",
-      "onboard_time": 1699589795,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77591,
