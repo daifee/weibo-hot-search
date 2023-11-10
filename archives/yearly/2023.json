@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1699616047768,
+  "endTime": 1699619553656,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2387,20 +2387,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 6309436,
+      "num": 6309436,
+      "word": "谢娜 我回家了",
+      "onboard_time": 1699617449,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6292850,
       "num": 6292850,
       "word": "张恒远去世",
       "onboard_time": 1686697641,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 6292102,
-      "num": 7542102,
-      "word": "李克强同志遗体11月2日火化",
-      "onboard_time": 1698717808,
-      "rank": 0,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

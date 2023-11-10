@@ -1,0 +1,410 @@
+{
+  "runTime": 1699619553656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6309436,
+        "num": 6309436,
+        "word": "谢娜 我回家了",
+        "onboard_time": 1699617449,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1396447,
+        "num": 1396447,
+        "word": "双11惊喜夜",
+        "onboard_time": 1699614454,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42955,
+        "num": 1262985,
+        "word": "坚持党中央对金融工作的集中统一领导",
+        "onboard_time": 1699602992,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1138924,
+        "num": 1138924,
+        "word": "权志龙除头发外全身脱毛",
+        "onboard_time": 1699607735,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736798,
+        "num": 736798,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619426,
+        "num": 619426,
+        "word": "一点点",
+        "onboard_time": 1699612112,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 565405,
+        "num": 565405,
+        "word": "刀剑如梦 还得是周华健",
+        "onboard_time": 1699618710,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396777,
+        "num": 396777,
+        "word": "王楚钦孙颖莎3比0梁靖崑钱天一",
+        "onboard_time": 1699617330,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359527,
+        "num": 359527,
+        "word": "民警凭1条短信认出30年前命案逃犯",
+        "onboard_time": 1699615829,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324201,
+        "num": 324201,
+        "word": "嗓子哑以为是感冒结果是肺癌",
+        "onboard_time": 1699611811,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 874204,
+        "num": 322094,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1699617090,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550930,
+        "num": 315363,
+        "word": "蔡国庆唱易烊千玺的My boo",
+        "onboard_time": 1699619368,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424986,
+        "num": 310176,
+        "word": "预制蛋",
+        "onboard_time": 1699609172,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 410534,
+        "num": 302648,
+        "word": "对着周华健唱我喜欢你",
+        "onboard_time": 1699617811,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41889,
+        "num": 297962,
+        "word": "天猫双11惊喜夜好多明星啊",
+        "onboard_time": 1699617630,
+        "rank": 14,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 378756,
+        "num": 292716,
+        "word": "大张伟把我的乳腺唱通了",
+        "onboard_time": 1699618529,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95924,
+        "num": 288698,
+        "word": "阿维塔12上市",
+        "onboard_time": 1699617871,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284874,
+        "num": 284874,
+        "word": "阿维塔",
+        "onboard_time": 1699618231,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272561,
+        "num": 272561,
+        "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+        "onboard_time": 1699615230,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226177,
+        "num": 271966,
+        "word": "吴艳妮说我真抢跑了又怎么了",
+        "onboard_time": 1699593992,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 802034,
+        "num": 269879,
+        "word": "三胞胎妈妈子宫壁仅1.2毫米",
+        "onboard_time": 1699613851,
+        "rank": 20,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 616539,
+        "num": 269331,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364923,
+        "num": 267060,
+        "word": "宁安如梦直播",
+        "onboard_time": 1699615051,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319684,
+        "num": 265057,
+        "word": "眉飞色舞开场",
+        "onboard_time": 1699617330,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264901,
+        "num": 264901,
+        "word": "恋与深空尺度",
+        "onboard_time": 1699617989,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288581,
+        "num": 264668,
+        "word": "周华健和三个小伙唱歌好听的一阵一阵",
+        "onboard_time": 1699618650,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284320,
+        "num": 263122,
+        "word": "肖战工作室辟谣团队变更",
+        "onboard_time": 1699609654,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265025,
+        "num": 262409,
+        "word": "笨蛋夫人和她的哑巴佣人",
+        "onboard_time": 1699611572,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260971,
+        "num": 260971,
+        "word": "林志颖披荆斩棘总成绩冠军",
+        "onboard_time": 1699598012,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141485,
+        "num": 256949,
+        "word": "教育部公示8所新大学",
+        "onboard_time": 1699604913,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255087,
+        "num": 255087,
+        "word": "王安宇 水瓶座",
+        "onboard_time": 1699608934,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251691,
+        "num": 251691,
+        "word": "以爱为营",
+        "onboard_time": 1699619013,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197604,
+        "num": 245175,
+        "word": "林孝埈 月亮不会奔你而来",
+        "onboard_time": 1699616190,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171693,
+        "num": 243491,
+        "word": "林高远 一日三赛",
+        "onboard_time": 1699619368,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168336,
+        "num": 242241,
+        "word": "你喝的星巴克可能是假的",
+        "onboard_time": 1699618891,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241896,
+        "num": 241896,
+        "word": "你今天好多了 你今天没那么好",
+        "onboard_time": 1699607554,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209047,
+        "num": 209047,
+        "word": "时代少年团对接否认耍大牌",
+        "onboard_time": 1699608453,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184956,
+        "num": 184956,
+        "word": "陈楚生声音有一种雪山雾凇的冷冽味道",
+        "onboard_time": 1699614591,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132574,
+        "num": 184912,
+        "word": "美香一家到家后好奇地嗅来嗅去",
+        "onboard_time": 1699615531,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127203,
+        "num": 184898,
+        "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+        "onboard_time": 1699603114,
+        "rank": 39,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 184897,
+        "num": 184897,
+        "word": "小S吴慷仁演情侣",
+        "onboard_time": 1699613431,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172863,
+        "num": 172863,
+        "word": "唐嫣三次旗袍变装",
+        "onboard_time": 1699617033,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 171651,
+        "word": "陈楚生首位双料冠军",
+        "onboard_time": 1699600472,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101141,
+        "num": 166723,
+        "word": "石家庄下雪",
+        "onboard_time": 1699608813,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163703,
+        "num": 163703,
+        "word": "karina直拍",
+        "onboard_time": 1699616909,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93664,
+        "num": 163063,
+        "word": "冬天和羊肉有多搭",
+        "onboard_time": 1699617871,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86382,
+        "num": 162151,
+        "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
+        "onboard_time": 1699607854,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80180,
+        "num": 161856,
+        "word": "2023CFS抽签仪式",
+        "onboard_time": 1699619368,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77186,
+        "num": 160809,
+        "word": "京东采销为了最后28小时有多拼",
+        "onboard_time": 1699614029,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68668,
+        "num": 160380,
+        "word": "上吊系列图",
+        "onboard_time": 1699615952,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展好互联网让美好生活更值得向往#"
+    }
+  }
+}

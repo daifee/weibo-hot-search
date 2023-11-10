@@ -1,7 +1,15 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699616047768,
+  "endTime": 1699619553656,
   "band_list": [
+    {
+      "raw_hot": 6309436,
+      "num": 6309436,
+      "word": "谢娜 我回家了",
+      "onboard_time": 1699617449,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 3053487,
       "num": 3053487,
@@ -115,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1396447,
+      "num": 1396447,
+      "word": "双11惊喜夜",
+      "onboard_time": 1699614454,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1246840,
       "num": 1246840,
       "word": "微信支付与三大运营商条码支付互联互通",
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 998003,
-      "num": 998003,
-      "word": "双11惊喜夜",
-      "onboard_time": 1699614454,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 971758,
       "num": 971758,
       "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
@@ -272,6 +280,14 @@
       "word": "披荆斩棘3总决赛",
       "onboard_time": 1699587211,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 874204,
+      "num": 322094,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1699617090,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565405,
+      "num": 565405,
+      "word": "刀剑如梦 还得是周华健",
+      "onboard_time": 1699618710,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562074,
       "num": 562074,
       "word": "丫丫在吃和玩之间选择了吃",
@@ -449,6 +473,14 @@
       "onboard_time": 1699578275,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 550930,
+      "num": 315363,
+      "word": "蔡国庆唱易烊千玺的My boo",
+      "onboard_time": 1699619368,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 546117,
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410534,
+      "num": 302648,
+      "word": "对着周华健唱我喜欢你",
+      "onboard_time": 1699617811,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409776,
       "num": 303003,
       "word": "迪丽热巴撑伞侧颜",
@@ -665,6 +705,14 @@
       "onboard_time": 1699607854,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396777,
+      "num": 396777,
+      "word": "王楚钦孙颖莎3比0梁靖崑钱天一",
+      "onboard_time": 1699617330,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 395252,
@@ -704,6 +752,14 @@
       "word": "金莎说把我的恋爱脑炖了吧",
       "onboard_time": 1699533814,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378756,
+      "num": 292716,
+      "word": "大张伟把我的乳腺唱通了",
+      "onboard_time": 1699618529,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -793,6 +849,14 @@
       "onboard_time": 1699593455,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359527,
+      "num": 359527,
+      "word": "民警凭1条短信认出30年前命案逃犯",
+      "onboard_time": 1699615829,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359355,
@@ -889,6 +953,14 @@
       "onboard_time": 1699613431,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319684,
+      "num": 265057,
+      "word": "眉飞色舞开场",
+      "onboard_time": 1699617330,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 317986,
@@ -1019,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288581,
+      "num": 264668,
+      "word": "周华健和三个小伙唱歌好听的一阵一阵",
+      "onboard_time": 1699618650,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288276,
       "num": 288276,
       "word": "林俊杰 南京小奇迹",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1699584029,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284874,
+      "num": 284874,
+      "word": "阿维塔",
+      "onboard_time": 1699618231,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 283150,
@@ -1099,12 +1187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272561,
+      "num": 272561,
+      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+      "onboard_time": 1699615230,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271948,
       "num": 271948,
       "word": "李承铉 偷偷唱跳然后惊艳所有人",
       "onboard_time": 1699614392,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264901,
+      "num": 264901,
+      "word": "恋与深空尺度",
+      "onboard_time": 1699617989,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 264024,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1699575755,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251691,
+      "num": 251691,
+      "word": "以爱为营",
+      "onboard_time": 1699619013,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 251656,
@@ -1227,14 +1339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 238218,
-      "num": 263178,
-      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
-      "onboard_time": 1699615230,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232873,
       "num": 232873,
       "word": "关智斌 没有成团但不遗憾",
@@ -1300,7 +1404,7 @@
     },
     {
       "raw_hot": 223871,
-      "num": 153675,
+      "num": 184956,
       "word": "陈楚生声音有一种雪山雾凇的冷冽味道",
       "onboard_time": 1699614591,
       "rank": 40,
@@ -1497,6 +1601,14 @@
       "onboard_time": 1699572687,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197604,
+      "num": 245175,
+      "word": "林孝埈 月亮不会奔你而来",
+      "onboard_time": 1699616190,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 197362,
@@ -1723,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172863,
+      "num": 172863,
+      "word": "唐嫣三次旗袍变装",
+      "onboard_time": 1699617033,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172506,
       "num": 131528,
       "word": "蔡文静新妆造",
@@ -1745,6 +1865,14 @@
       "onboard_time": 1699588715,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171693,
+      "num": 243491,
+      "word": "林高远 一日三赛",
+      "onboard_time": 1699619368,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 170220,
@@ -1787,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168336,
+      "num": 242241,
+      "word": "你喝的星巴克可能是假的",
+      "onboard_time": 1699618891,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167505,
       "num": 167505,
       "word": "林高远王曼昱晋级四强",
@@ -1817,6 +1953,14 @@
       "onboard_time": 1699588174,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 163703,
+      "num": 163703,
+      "word": "karina直拍",
+      "onboard_time": 1699616909,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 161518,
@@ -2059,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132574,
+      "num": 184912,
+      "word": "美香一家到家后好奇地嗅来嗅去",
+      "onboard_time": 1699615531,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131324,
       "num": 1088019,
       "word": "未成年人网络素养提升片来啦",
@@ -2084,7 +2236,7 @@
     },
     {
       "raw_hot": 128274,
-      "num": 128274,
+      "num": 160380,
       "word": "上吊系列图",
       "onboard_time": 1699615952,
       "rank": 39,
@@ -2128,14 +2280,6 @@
       "word": "东北人挤公交都自带笑点",
       "onboard_time": 1699591056,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122828,
-      "num": 122828,
-      "word": "美香一家到家后好奇地嗅来嗅去",
-      "onboard_time": 1699615531,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2275,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99678,
-      "num": 99678,
-      "word": "民警凭1条短信认出30年前命案逃犯",
-      "onboard_time": 1699615829,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98942,
       "num": 451809,
       "word": "京东采销为了最后28小时有多拼",
@@ -2315,6 +2451,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 95924,
+      "num": 288698,
+      "word": "阿维塔12上市",
+      "onboard_time": 1699617871,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95505,
       "num": 119697,
       "word": "乡村老师鼓励单亲家庭男孩",
@@ -2329,6 +2473,14 @@
       "onboard_time": 1699545634,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93664,
+      "num": 163063,
+      "word": "冬天和羊肉有多搭",
+      "onboard_time": 1699617871,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 93504,
@@ -2409,6 +2561,14 @@
       "onboard_time": 1699524153,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80180,
+      "num": 161856,
+      "word": "2023CFS抽签仪式",
+      "onboard_time": 1699619368,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 77591,
@@ -2561,6 +2721,14 @@
       "onboard_time": 1699588833,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41889,
+      "num": 297962,
+      "word": "天猫双11惊喜夜好多明星啊",
+      "onboard_time": 1699617630,
+      "rank": 14,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 40499,

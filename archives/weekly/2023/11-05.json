@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699616047768,
+  "endTime": 1699619553656,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -73,6 +73,14 @@
       "onboard_time": 1699486288,
       "rank": 11,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 6309436,
+      "num": 6309436,
+      "word": "谢娜 我回家了",
+      "onboard_time": 1699617449,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 5684556,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1396447,
+      "num": 1396447,
+      "word": "双11惊喜夜",
+      "onboard_time": 1699614454,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1396260,
       "num": 1396260,
       "word": "蜂花护发素 洗衣服",
@@ -1699,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 998003,
-      "num": 998003,
-      "word": "双11惊喜夜",
-      "onboard_time": 1699614454,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 997549,
       "num": 997549,
       "word": "北京供暖",
@@ -1944,6 +1952,14 @@
       "word": "披荆斩棘3总决赛",
       "onboard_time": 1699587211,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 874204,
+      "num": 322094,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1699617090,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -3491,6 +3507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 565405,
+      "num": 565405,
+      "word": "刀剑如梦 还得是周华健",
+      "onboard_time": 1699618710,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564458,
       "num": 356110,
       "word": "易烊千玺到达慕尼黑",
@@ -3624,6 +3648,14 @@
       "word": "金莎和男友的第一张合影",
       "onboard_time": 1699334972,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 550930,
+      "num": 315363,
+      "word": "蔡国庆唱易烊千玺的My boo",
+      "onboard_time": 1699619368,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -5003,6 +5035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410534,
+      "num": 302648,
+      "word": "对着周华健唱我喜欢你",
+      "onboard_time": 1699617811,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409776,
       "num": 303003,
       "word": "迪丽热巴撑伞侧颜",
@@ -5177,6 +5217,14 @@
       "onboard_time": 1699278277,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 396777,
+      "num": 396777,
+      "word": "王楚钦孙颖莎3比0梁靖崑钱天一",
+      "onboard_time": 1699617330,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 396277,
@@ -5400,6 +5448,14 @@
       "word": "秦海璐在大象岩给花少每个人拍了照片",
       "onboard_time": 1699410270,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378756,
+      "num": 292716,
+      "word": "大张伟把我的乳腺唱通了",
+      "onboard_time": 1699618529,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -5769,6 +5825,14 @@
       "onboard_time": 1699488939,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359527,
+      "num": 359527,
+      "word": "民警凭1条短信认出30年前命案逃犯",
+      "onboard_time": 1699615829,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359355,
@@ -6467,6 +6531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319684,
+      "num": 265057,
+      "word": "眉飞色舞开场",
+      "onboard_time": 1699617330,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319277,
       "num": 319277,
       "word": "你可能有不宁腿综合症",
@@ -7075,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288581,
+      "num": 264668,
+      "word": "周华健和三个小伙唱歌好听的一阵一阵",
+      "onboard_time": 1699618650,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288433,
       "num": 288433,
       "word": "金莎讲述与男友第一次见面的情景",
@@ -7169,6 +7249,14 @@
       "onboard_time": 1699353877,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284874,
+      "num": 284874,
+      "word": "阿维塔",
+      "onboard_time": 1699618231,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 284737,
@@ -7451,6 +7539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272561,
+      "num": 272561,
+      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+      "onboard_time": 1699615230,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272375,
       "num": 272375,
       "word": "周一围说去桃花坞极其痛苦",
@@ -7633,6 +7729,14 @@
       "onboard_time": 1699524212,
       "rank": 27,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 264901,
+      "num": 264901,
+      "word": "恋与深空尺度",
+      "onboard_time": 1699617989,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 264162,
@@ -7985,6 +8089,14 @@
       "onboard_time": 1699282360,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251691,
+      "num": 251691,
+      "word": "以爱为营",
+      "onboard_time": 1699160793,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 251656,
@@ -8457,14 +8569,6 @@
       "onboard_time": 1699260152,
       "rank": 22,
       "category": "美妆,知识科普"
-    },
-    {
-      "raw_hot": 238218,
-      "num": 263178,
-      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
-      "onboard_time": 1699615230,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237787,
@@ -8971,14 +9075,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 225259,
-      "num": 216631,
-      "word": "以爱为营",
-      "onboard_time": 1699160793,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224868,
       "num": 224868,
       "word": "你买过Switch吗",
@@ -9044,7 +9140,7 @@
     },
     {
       "raw_hot": 223871,
-      "num": 153675,
+      "num": 184956,
       "word": "陈楚生声音有一种雪山雾凇的冷冽味道",
       "onboard_time": 1699614591,
       "rank": 40,
@@ -10459,6 +10555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197604,
+      "num": 245175,
+      "word": "林孝埈 月亮不会奔你而来",
+      "onboard_time": 1699616190,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197495,
       "num": 197495,
       "word": "好有饭缩力",
@@ -11787,6 +11891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172863,
+      "num": 172863,
+      "word": "唐嫣三次旗袍变装",
+      "onboard_time": 1699617033,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172677,
       "num": 213325,
       "word": "妹妹一开口就是顶级嘲讽",
@@ -11873,6 +11985,14 @@
       "onboard_time": 1699542575,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171693,
+      "num": 243491,
+      "word": "林高远 一日三赛",
+      "onboard_time": 1699619368,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 171521,
@@ -12025,6 +12145,14 @@
       "onboard_time": 1699430734,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168336,
+      "num": 242241,
+      "word": "你喝的星巴克可能是假的",
+      "onboard_time": 1699618891,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 168105,
@@ -12249,6 +12377,14 @@
       "onboard_time": 1699414113,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163703,
+      "num": 163703,
+      "word": "karina直拍",
+      "onboard_time": 1699616909,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 163150,
@@ -13971,6 +14107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132574,
+      "num": 184912,
+      "word": "美香一家到家后好奇地嗅来嗅去",
+      "onboard_time": 1699615531,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132474,
       "num": 132474,
       "word": "祖孙三人穿军装合照看破防",
@@ -14204,7 +14348,7 @@
     },
     {
       "raw_hot": 128274,
-      "num": 128274,
+      "num": 160380,
       "word": "上吊系列图",
       "onboard_time": 1699615952,
       "rank": 39,
@@ -14489,14 +14633,6 @@
       "onboard_time": 1699319376,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122828,
-      "num": 122828,
-      "word": "美香一家到家后好奇地嗅来嗅去",
-      "onboard_time": 1699615531,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122747,
@@ -15267,14 +15403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99678,
-      "num": 99678,
-      "word": "民警凭1条短信认出30年前命案逃犯",
-      "onboard_time": 1699615829,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99547,
       "num": 99547,
       "word": "邱耀乐声明",
@@ -15419,6 +15547,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 95924,
+      "num": 288698,
+      "word": "阿维塔12上市",
+      "onboard_time": 1699617871,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95505,
       "num": 119697,
       "word": "乡村老师鼓励单亲家庭男孩",
@@ -15473,6 +15609,14 @@
       "onboard_time": 1699389792,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 93664,
+      "num": 163063,
+      "word": "冬天和羊肉有多搭",
+      "onboard_time": 1699617871,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 93504,
@@ -15784,6 +15928,14 @@
       "word": "2023守望先锋世界杯",
       "onboard_time": 1699140383,
       "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 80180,
+      "num": 161856,
+      "word": "2023CFS抽签仪式",
+      "onboard_time": 1699619368,
+      "rank": 47,
       "category": "电竞"
     },
     {
@@ -16393,6 +16545,14 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41889,
+      "num": 297962,
+      "word": "天猫双11惊喜夜好多明星啊",
+      "onboard_time": 1699617630,
+      "rank": 14,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 41172,

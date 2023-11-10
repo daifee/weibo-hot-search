@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/10 19:34:07
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/10 20:32:33
 </p>
 </blockquote>
 <p>
@@ -1803,14 +1803,14 @@ DOTA2中国队夺冠（热度：6586145）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
-张恒远去世（热度：6292850）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
+谢娜 我回家了（热度：6309436）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9311%E6%9C%882%E6%97%A5%E7%81%AB%E5%8C%96%23" target="weibo">
-李克强同志遗体11月2日火化（热度：6292102）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
+张恒远去世（热度：6292850）
 </a>
 </li>
 
