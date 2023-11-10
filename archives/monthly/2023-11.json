@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699623247171,
+  "endTime": 1699625769869,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -177,6 +177,14 @@
       "onboard_time": 1699260993,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4284058,
+      "num": 4284058,
+      "word": "宋茜 梦回Victoria",
+      "onboard_time": 1699624294,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 4273103,
@@ -1643,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1488967,
+      "num": 1488967,
+      "word": "还得是凤凰传奇",
+      "onboard_time": 1699624052,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1486374,
       "num": 1486374,
       "word": "让领导知道你干了很多活的秘诀",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1698911318,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312012,
+      "num": 1312012,
+      "word": "中美元首旧金山会晤",
+      "onboard_time": 1699622614,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1311331,
@@ -2804,7 +2828,7 @@
     },
     {
       "raw_hot": 1022124,
-      "num": 302817,
+      "num": 360565,
       "word": "大张伟把我的乳腺唱通了",
       "onboard_time": 1699618529,
       "rank": 15,
@@ -3169,14 +3193,6 @@
       "onboard_time": 1698843513,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 895590,
-      "num": 895590,
-      "word": "中美元首旧金山会晤",
-      "onboard_time": 1699622614,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 893784,
@@ -4571,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708867,
+      "num": 708867,
+      "word": "女生深夜约会9楼爬窗坠下被卡身亡",
+      "onboard_time": 1699623872,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708074,
       "num": 708074,
       "word": "以爱为营 小蛋糕之神",
@@ -4692,7 +4716,7 @@
     },
     {
       "raw_hot": 682313,
-      "num": 287548,
+      "num": 323178,
       "word": "以爱为营 断更",
       "onboard_time": 1699619614,
       "rank": 11,
@@ -6459,6 +6483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 528135,
+      "num": 216429,
+      "word": "姐姐真漂亮",
+      "onboard_time": 1699625377,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527843,
       "num": 417187,
       "word": "刘亦菲张靓颖合照",
@@ -6609,6 +6641,14 @@
       "onboard_time": 1699191635,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516886,
+      "num": 164331,
+      "word": "双11惊喜夜节目单",
+      "onboard_time": 1699622974,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 516550,
@@ -8427,6 +8467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416717,
+      "num": 303286,
+      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+      "onboard_time": 1699615230,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416090,
       "num": 279256,
       "word": "7岁女童体育课猝死9分钟后才做CPR",
@@ -8729,14 +8777,6 @@
       "onboard_time": 1699456014,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406540,
-      "num": 144026,
-      "word": "双11惊喜夜节目单",
-      "onboard_time": 1699622974,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 405929,
@@ -9667,6 +9707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371008,
+      "num": 371008,
+      "word": "河南下雪",
+      "onboard_time": 1699621955,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370988,
       "num": 1688417,
       "word": "宁波一小区物业自治3年分红200万",
@@ -9969,14 +10017,6 @@
       "onboard_time": 1699459417,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 360249,
-      "num": 283615,
-      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
-      "onboard_time": 1699615230,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359740,
@@ -11041,6 +11081,22 @@
       "onboard_time": 1699398924,
       "rank": 17,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 325129,
+      "num": 161199,
+      "word": "汪苏泷把大雨下到了惊喜夜",
+      "onboard_time": 1699622916,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 324920,
+      "num": 160827,
+      "word": "对陈楚生独唱直到世界尽头的执念",
+      "onboard_time": 1699623271,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 324062,
@@ -12403,6 +12459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282790,
+      "num": 158950,
+      "word": "丞磊李昀锐高瀚宇范世錡唱跳舞台",
+      "onboard_time": 1699623633,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282684,
       "num": 282684,
       "word": "五月天 还不开票",
@@ -12555,12 +12619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278477,
-      "num": 278477,
-      "word": "河南下雪",
-      "onboard_time": 1699621955,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 278752,
+      "num": 278752,
+      "word": "可以穿羽绒服了",
+      "onboard_time": 1699623511,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 278392,
@@ -13105,6 +13169,14 @@
       "onboard_time": 1699184075,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 268165,
+      "num": 268165,
+      "word": "大连涉事小吃街疑因B太打假拉闸关灯",
+      "onboard_time": 1699623511,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268118,
@@ -14363,6 +14435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242919,
+      "num": 156472,
+      "word": "双11惊喜夜成毅彩排视频",
+      "onboard_time": 1699614454,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242869,
       "num": 242869,
       "word": "东北的雪快扫不过来了",
@@ -15273,6 +15353,14 @@
       "onboard_time": 1698974310,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228463,
+      "num": 228463,
+      "word": "贵州一公职人员驾车撞死一对中年夫妇",
+      "onboard_time": 1699625316,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228331,
@@ -16427,14 +16515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211163,
-      "num": 135313,
-      "word": "汪苏泷把大雨下到了惊喜夜",
-      "onboard_time": 1699622916,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211150,
       "num": 211150,
       "word": "洗漱后护肤黄金3分钟别错过",
@@ -16889,6 +16969,14 @@
       "onboard_time": 1698846275,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207000,
+      "num": 152497,
+      "word": "关晓彤给沈腾画眉秒变张飞",
+      "onboard_time": 1699623212,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 206976,
@@ -17833,14 +17921,6 @@
       "onboard_time": 1698812614,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197790,
-      "num": 156472,
-      "word": "双11惊喜夜成毅彩排视频",
-      "onboard_time": 1699614454,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 197765,
@@ -19367,14 +19447,6 @@
       "num": 175424,
       "word": "共情王安宇",
       "onboard_time": 1699520070,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184343,
-      "num": 128699,
-      "word": "关晓彤给沈腾画眉秒变张飞",
-      "onboard_time": 1699623212,
       "rank": 44,
       "category": "综艺"
     },
@@ -21793,6 +21865,14 @@
       "onboard_time": 1699235671,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154832,
+      "num": 154832,
+      "word": "为什么是买东西不是买南北",
+      "onboard_time": 1699625615,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154815,
@@ -25275,6 +25355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118081,
+      "num": 153477,
+      "word": "新疆男篮vs辽宁男篮",
+      "onboard_time": 1699624356,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117797,
       "num": 117797,
       "word": "黑白无常别抢贫僧的狼牙土豆",
@@ -25611,6 +25699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111974,
+      "num": 153222,
+      "word": "广东男篮vs宁波男篮",
+      "onboard_time": 1699625316,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111879,
       "num": 111879,
       "word": "英雄联盟S13",
@@ -25801,6 +25897,14 @@
       "onboard_time": 1698752011,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108995,
+      "num": 152276,
+      "word": "民警归还被盗天鹅蛋归来已是黑天鹅",
+      "onboard_time": 1699624835,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108664,
@@ -26099,6 +26203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102063,
+      "num": 152018,
+      "word": "再接再厉抓好灾后恢复重建",
+      "onboard_time": 1699625012,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 101923,
       "num": 101923,
       "word": "中超",
@@ -26273,6 +26385,14 @@
       "onboard_time": 1699438115,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 99007,
+      "num": 151657,
+      "word": "甘蔗烤红茶",
+      "onboard_time": 1699624052,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 98942,
@@ -26487,6 +26607,14 @@
       "num": 137471,
       "word": "民警一波神操作让骗子退回1万元",
       "onboard_time": 1698828633,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95043,
+      "num": 151399,
+      "word": "老人被假外孙骗20万民警2小时追回",
+      "onboard_time": 1699625556,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -27259,6 +27387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70740,
+      "num": 150873,
+      "word": "心血来潮记录一下100w够花多久",
+      "onboard_time": 1699625435,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70486,
       "num": 159867,
       "word": "80后90后的童年课间10分钟长啥样",
@@ -27985,6 +28121,14 @@
       "onboard_time": 1698824193,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41273,
+      "num": 154018,
+      "word": "王耀庆在惊喜夜喝多了",
+      "onboard_time": 1699623331,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 41172,
