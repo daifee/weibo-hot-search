@@ -1,0 +1,410 @@
+{
+  "runTime": 1699583819382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1370294,
+        "num": 1370294,
+        "word": "女子在李佳琦直播间买到空瓶雅诗兰黛",
+        "onboard_time": 1699575214,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1157792,
+        "num": 1157792,
+        "word": "想亲就亲啊还要打什么赌",
+        "onboard_time": 1699575335,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22087,
+        "num": 963738,
+        "word": "在进博会感受东西方文化碰撞之美",
+        "onboard_time": 1699534171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 867880,
+        "num": 867880,
+        "word": "宋亚轩玩八小时手机都不回沈腾微信",
+        "onboard_time": 1699575274,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792685,
+        "num": 792685,
+        "word": "美国首次发现吸血鬼病毒",
+        "onboard_time": 1699544253,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741472,
+        "num": 741472,
+        "word": "张庭老公直播号召代理做好人传人",
+        "onboard_time": 1699581753,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590417,
+        "num": 590417,
+        "word": "我国首次发现23个长新冠标志物",
+        "onboard_time": 1699577316,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 562074,
+        "num": 562074,
+        "word": "丫丫在吃和玩之间选择了吃",
+        "onboard_time": 1699581631,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510931,
+        "num": 510931,
+        "word": "民警鼓励献血31次的外卖小哥考辅警",
+        "onboard_time": 1699578275,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 477506,
+        "num": 477506,
+        "word": "辛芷蕾当赵昭仪面说她坏话",
+        "onboard_time": 1699578215,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403123,
+        "num": 403123,
+        "word": "男子进账1132万直冲派出所",
+        "onboard_time": 1699571004,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356356,
+        "num": 356356,
+        "word": "papi酱孙怡仿佛看的不是同一段素材",
+        "onboard_time": 1699575515,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340335,
+        "num": 340335,
+        "word": "宁安如梦 剧本杀",
+        "onboard_time": 1699582292,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338170,
+        "num": 338170,
+        "word": "苏州毒地居民称小区房价已暴跌",
+        "onboard_time": 1699582893,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56908,
+        "num": 326574,
+        "word": "山东的北京时刻",
+        "onboard_time": 1699581631,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325011,
+        "num": 325011,
+        "word": "学青会吴艳妮夺金",
+        "onboard_time": 1699579954,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312926,
+        "num": 312926,
+        "word": "Keep 光与夜之恋",
+        "onboard_time": 1699582172,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299646,
+        "num": 299646,
+        "word": "美香一家刚回国就被排队投喂",
+        "onboard_time": 1699572687,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281858,
+        "num": 281858,
+        "word": "陈楚生在尺度和分寸间选择了尺寸",
+        "onboard_time": 1699543114,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263844,
+        "num": 263844,
+        "word": "沙溢为什么没演过李安的戏",
+        "onboard_time": 1699582413,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273635,
+        "num": 249956,
+        "word": "为什么人们不爱喝一点点了",
+        "onboard_time": 1699582893,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224339,
+        "num": 224339,
+        "word": "中山二院一患癌医生去年已发现肿瘤",
+        "onboard_time": 1699553537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216266,
+        "num": 216266,
+        "word": "加沙一儿童医院遭炮击一名儿童断氧死亡",
+        "onboard_time": 1699576534,
+        "rank": 22,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 208153,
+        "num": 208153,
+        "word": "上班第一天同事治好了我的身材焦虑",
+        "onboard_time": 1699578752,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194329,
+        "num": 194329,
+        "word": "王彦霖一点活都不让老婆干",
+        "onboard_time": 1699582953,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191676,
+        "num": 191676,
+        "word": "iPhone15Pro支持录制空间视频",
+        "onboard_time": 1699573951,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186072,
+        "num": 186072,
+        "word": "美香一家回国后最新视频",
+        "onboard_time": 1699583132,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172344,
+        "num": 172344,
+        "word": "新旧婚姻观夹缝中的傅首尔",
+        "onboard_time": 1699582710,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168107,
+        "num": 168107,
+        "word": "SEVENTEEN音乐之神现场",
+        "onboard_time": 1699581393,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167668,
+        "num": 167668,
+        "word": "美香一家抵达成都",
+        "onboard_time": 1699544253,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332858,
+        "num": 166250,
+        "word": "卡琳娜未要求对仲尼尸检",
+        "onboard_time": 1699529733,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 164329,
+        "num": 164329,
+        "word": "五月天巡演上海站歌单",
+        "onboard_time": 1699583371,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163483,
+        "num": 163483,
+        "word": "原来牛仔裤拉链是有开关的",
+        "onboard_time": 1699581692,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 239836,
+        "num": 163437,
+        "word": "好担心卡琳娜",
+        "onboard_time": 1699579234,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160533,
+        "num": 160533,
+        "word": "谁说姜雪宁不能有三个男人",
+        "onboard_time": 1699583250,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158712,
+        "num": 158712,
+        "word": "儿童支原体肺炎病程用药图",
+        "onboard_time": 1699580734,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153787,
+        "num": 153787,
+        "word": "苏钢集团回应被指卖毒地",
+        "onboard_time": 1699573951,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151028,
+        "num": 151028,
+        "word": "印度和巴基斯坦再次交火",
+        "onboard_time": 1699571545,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 148207,
+        "num": 148207,
+        "word": "那年杏花微雨 你说你是十七郎",
+        "onboard_time": 1699574132,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144981,
+        "num": 144981,
+        "word": "薛之谦你是还没睡觉吗",
+        "onboard_time": 1699579413,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134552,
+        "num": 134552,
+        "word": "佘诗曼马国明狠话张口就来",
+        "onboard_time": 1699581812,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129261,
+        "num": 129261,
+        "word": "人民空军成立74周年",
+        "onboard_time": 1699582773,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128781,
+        "num": 128781,
+        "word": "时宴你荷尔蒙快扑我脸上了",
+        "onboard_time": 1699583551,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126396,
+        "num": 126396,
+        "word": "大连市监局通报B太曝光鬼秤案件",
+        "onboard_time": 1699544073,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125323,
+        "num": 125323,
+        "word": "进击的巨人这个手办有点越界了",
+        "onboard_time": 1699583311,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121553,
+        "num": 121553,
+        "word": "巨大压力下的小学老师生存现状",
+        "onboard_time": 1699573890,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120408,
+        "num": 120408,
+        "word": "YG新女团将11月27日出道",
+        "onboard_time": 1699573350,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117099,
+        "num": 117099,
+        "word": "姜雪宁自刎花絮",
+        "onboard_time": 1699579114,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111040,
+        "num": 111040,
+        "word": "以爱为营提档",
+        "onboard_time": 1699541314,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104351,
+        "num": 104351,
+        "word": "中国城市居民房地产债务占家庭收入137.9%",
+        "onboard_time": 1699583792,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样点亮文明之光#"
+    }
+  }
+}

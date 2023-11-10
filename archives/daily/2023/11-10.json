@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699583152769,
+  "endTime": 1699583819382,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157792,
+      "num": 1157792,
+      "word": "想亲就亲啊还要打什么赌",
+      "onboard_time": 1699575335,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1109261,
       "num": 1109261,
       "word": "大连市监局通报B太曝光鬼秤案件",
       "onboard_time": 1699544073,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1092283,
-      "num": 1092283,
-      "word": "想亲就亲啊还要打什么赌",
-      "onboard_time": 1699575335,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 1055453,
@@ -123,20 +123,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 741472,
+      "num": 741472,
+      "word": "张庭老公直播号召代理做好人传人",
+      "onboard_time": 1699581753,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730196,
       "num": 730196,
       "word": "陈楚生在尺度和分寸间选择了尺寸",
       "onboard_time": 1699543114,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716070,
-      "num": 716070,
-      "word": "张庭老公直播号召代理做好人传人",
-      "onboard_time": 1699581753,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 689631,
@@ -155,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 562074,
+      "num": 562074,
+      "word": "丫丫在吃和玩之间选择了吃",
+      "onboard_time": 1699581631,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551404,
       "num": 551404,
       "word": "民警鼓励献血31次的外卖小哥考辅警",
@@ -168,14 +176,6 @@
       "word": "美香一家刚回国就被排队投喂",
       "onboard_time": 1699572687,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537250,
-      "num": 537250,
-      "word": "丫丫在吃和玩之间选择了吃",
-      "onboard_time": 1699581631,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -291,12 +291,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 340335,
+      "num": 340335,
+      "word": "宁安如梦 剧本杀",
+      "onboard_time": 1699582292,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338170,
+      "num": 338170,
+      "word": "苏州毒地居民称小区房价已暴跌",
+      "onboard_time": 1699582893,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313902,
       "num": 313902,
       "word": "王安宇在花少打了几份工",
       "onboard_time": 1699531774,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312926,
+      "num": 312926,
+      "word": "Keep 光与夜之恋",
+      "onboard_time": 1699582172,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 312128,
@@ -331,20 +355,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 282088,
-      "num": 282088,
-      "word": "Keep 光与夜之恋",
-      "onboard_time": 1699582172,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 278392,
       "num": 278392,
       "word": "王诗晴 我们能不能不过了",
       "onboard_time": 1699574132,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273635,
+      "num": 249956,
+      "word": "为什么人们不爱喝一点点了",
+      "onboard_time": 1699582893,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 264024,
@@ -361,14 +385,6 @@
       "onboard_time": 1699575755,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251053,
-      "num": 251053,
-      "word": "宁安如梦 剧本杀",
-      "onboard_time": 1699582292,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 249590,
@@ -395,7 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227321,
+      "raw_hot": 239836,
       "num": 168805,
       "word": "好担心卡琳娜",
       "onboard_time": 1699579234,
@@ -459,20 +475,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195692,
-      "num": 195692,
-      "word": "为什么人们不爱喝一点点了",
-      "onboard_time": 1699582893,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 194505,
       "num": 194505,
       "word": "宁安如梦 台词难受",
       "onboard_time": 1699527334,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194329,
+      "num": 194329,
+      "word": "王彦霖一点活都不让老婆干",
+      "onboard_time": 1699582953,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193940,
@@ -491,11 +507,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188434,
-      "num": 188434,
-      "word": "苏州毒地居民称小区房价已暴跌",
-      "onboard_time": 1699582893,
-      "rank": 27,
+      "raw_hot": 186072,
+      "num": 186072,
+      "word": "美香一家回国后最新视频",
+      "onboard_time": 1699583132,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172344,
+      "num": 172344,
+      "word": "新旧婚姻观夹缝中的傅首尔",
+      "onboard_time": 1699582710,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169552,
       "num": 169552,
       "word": "小奇迹一家平安到家",
@@ -547,6 +571,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 164329,
+      "num": 164329,
+      "word": "五月天巡演上海站歌单",
+      "onboard_time": 1699583371,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161518,
       "num": 161518,
       "word": "儿童支原体肺炎病程用药图",
@@ -563,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156886,
-      "num": 156886,
-      "word": "新旧婚姻观夹缝中的傅首尔",
-      "onboard_time": 1699582710,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 160533,
+      "num": 160533,
+      "word": "谁说姜雪宁不能有三个男人",
+      "onboard_time": 1699583250,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154086,
@@ -579,27 +611,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149227,
-      "num": 149227,
-      "word": "美香一家回国后最新视频",
-      "onboard_time": 1699583132,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148702,
       "num": 148702,
       "word": "薛之谦你是还没睡觉吗",
       "onboard_time": 1699579413,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 148262,
-      "num": 148262,
-      "word": "王彦霖一点活都不让老婆干",
-      "onboard_time": 1699582953,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -649,6 +665,22 @@
       "onboard_time": 1699544912,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128781,
+      "num": 128781,
+      "word": "时宴你荷尔蒙快扑我脸上了",
+      "onboard_time": 1699583551,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125323,
+      "num": 125323,
+      "word": "进击的巨人这个手办有点越界了",
+      "onboard_time": 1699583311,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 124475,
@@ -721,6 +753,14 @@
       "onboard_time": 1699535132,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104351,
+      "num": 104351,
+      "word": "中国城市居民房地产债务占家庭收入137.9%",
+      "onboard_time": 1699583792,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 104153,
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56908,
+      "num": 326574,
+      "word": "山东的北京时刻",
+      "onboard_time": 1699581631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55096,
       "num": 57434,
       "word": "流浪汉被民警救助后坦白是命案逃犯",
@@ -889,14 +937,6 @@
       "onboard_time": 1699533451,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47533,
-      "num": 325405,
-      "word": "山东的北京时刻",
-      "onboard_time": 1699581631,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44123,
