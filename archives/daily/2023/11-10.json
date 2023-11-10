@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699622439449,
+  "endTime": 1699623247171,
   "band_list": [
     {
       "raw_hot": 9446326,
@@ -243,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016039,
-      "num": 292716,
+      "raw_hot": 1022124,
+      "num": 302817,
       "word": "大张伟把我的乳腺唱通了",
       "onboard_time": 1699618529,
       "rank": 15,
@@ -297,6 +297,14 @@
       "onboard_time": 1699571545,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 895590,
+      "num": 895590,
+      "word": "中美元首旧金山会晤",
+      "onboard_time": 1699622614,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 879893,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 682313,
-      "num": 256575,
+      "num": 287548,
       "word": "以爱为营 断更",
       "onboard_time": 1699619614,
       "rank": 11,
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429167,
+      "num": 233033,
+      "word": "龚琳娜苏运莹黄龄 娱乐圈神婆来做法",
+      "onboard_time": 1699622192,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424647,
       "num": 424647,
       "word": "男子结婚6年拒与妻子发生性关系",
@@ -737,6 +753,14 @@
       "onboard_time": 1699590519,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 406540,
+      "num": 144026,
+      "word": "双11惊喜夜节目单",
+      "onboard_time": 1699622974,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 403766,
@@ -907,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360249,
+      "num": 283615,
+      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+      "onboard_time": 1699615230,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359527,
       "num": 359527,
       "word": "民警凭1条短信认出30年前命案逃犯",
@@ -936,22 +968,6 @@
       "word": "综艺纣王",
       "onboard_time": 1699573951,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 346592,
-      "num": 272561,
-      "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
-      "onboard_time": 1699615230,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346007,
-      "num": 182869,
-      "word": "龚琳娜苏运莹黄龄 娱乐圈神婆来做法",
-      "onboard_time": 1699622192,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1187,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287578,
+      "num": 146999,
+      "word": "剧本都写不出的综艺名场面",
+      "onboard_time": 1699622436,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285942,
       "num": 250527,
       "word": "陈楚生XLeader",
@@ -1232,6 +1256,14 @@
       "word": "留学生称白菜在韩国曾卖到100块1颗",
       "onboard_time": 1699602092,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278477,
+      "num": 278477,
+      "word": "河南下雪",
+      "onboard_time": 1699621955,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1435,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232351,
+      "num": 242241,
+      "word": "你喝的星巴克可能是假的",
+      "onboard_time": 1699618891,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231910,
       "num": 228902,
       "word": "drama",
@@ -1497,14 +1537,6 @@
       "onboard_time": 1699614591,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223449,
-      "num": 242241,
-      "word": "你喝的星巴克可能是假的",
-      "onboard_time": 1699618891,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 221913,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1699606955,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211163,
+      "num": 135313,
+      "word": "汪苏泷把大雨下到了惊喜夜",
+      "onboard_time": 1699622916,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 209477,
@@ -1907,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184343,
+      "num": 128699,
+      "word": "关晓彤给沈腾画眉秒变张飞",
+      "onboard_time": 1699623212,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182833,
       "num": 155617,
       "word": "金旼炡太会扭了",
@@ -2121,14 +2169,6 @@
       "onboard_time": 1699589616,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 157547,
-      "num": 157547,
-      "word": "河南下雪",
-      "onboard_time": 1699621955,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156038,
@@ -2889,6 +2929,14 @@
       "onboard_time": 1699503877,
       "rank": 49,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 30516,
+      "num": 146466,
+      "word": "70秒速览进博会精彩瞬间",
+      "onboard_time": 1699622674,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 21712,
