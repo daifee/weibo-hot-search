@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699605248124,
+  "endTime": 1699607821463,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -43,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2287864,
+      "num": 2287864,
+      "word": "韩警方怀疑权志龙销毁证据",
+      "onboard_time": 1699604496,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2099371,
+      "num": 2099371,
+      "word": "杨紫李现 二搭",
+      "onboard_time": 1699604612,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1963229,
       "num": 1963229,
       "word": "宋亚轩玩八小时手机都不回沈腾微信",
@@ -57,14 +73,6 @@
       "onboard_time": 1699598012,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1695582,
-      "num": 1695582,
-      "word": "韩警方怀疑权志龙销毁证据",
-      "onboard_time": 1699604496,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1610798,
@@ -112,14 +120,6 @@
       "word": "想亲就亲啊还要打什么赌",
       "onboard_time": 1699575335,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1145493,
-      "num": 1145493,
-      "word": "杨紫李现 二搭",
-      "onboard_time": 1699604612,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 830504,
+      "num": 830504,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 779829,
       "num": 779829,
       "word": "papi酱孙怡仿佛看的不是同一段素材",
@@ -315,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 672212,
-      "num": 672212,
-      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
-      "onboard_time": 1699603114,
-      "rank": 5,
-      "category": "社会新闻,美妆"
+      "raw_hot": 636839,
+      "num": 636839,
+      "word": "教育部公示8所新大学",
+      "onboard_time": 1699604913,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 607501,
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390315,
+      "num": 390315,
+      "word": "娜扎 颠婆敲木鱼",
+      "onboard_time": 1699605281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384179,
       "num": 384179,
       "word": "金莎说把我的恋爱脑炖了吧",
@@ -721,6 +737,14 @@
       "onboard_time": 1699585532,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324625,
+      "num": 264248,
+      "word": "医院里的低成本变美项目",
+      "onboard_time": 1699606415,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 317986,
@@ -1003,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231401,
+      "num": 222415,
+      "word": "街是陪朋友逛的 钱是我花的",
+      "onboard_time": 1699605454,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231224,
       "num": 231224,
       "word": "云南媒体还原迟夙生律师在法院突发疾病全程",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1699604434,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224786,
+      "num": 224786,
+      "word": "WBG对战MRC",
+      "onboard_time": 1699604252,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 224585,
@@ -1040,6 +1080,14 @@
       "word": "花少 情绪价值",
       "onboard_time": 1699578393,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221477,
+      "num": 221477,
+      "word": "Hi6大侦探梦幻联动",
+      "onboard_time": 1699605515,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1107,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213229,
+      "num": 213229,
+      "word": "好的cp几百年后也是有售后的",
+      "onboard_time": 1699606955,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209477,
       "num": 209477,
       "word": "三分之二国土需羽绒服护体",
@@ -1147,11 +1203,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201103,
-      "num": 201103,
-      "word": "WBG对战MRC",
-      "onboard_time": 1699604252,
-      "rank": 33,
+      "raw_hot": 200900,
+      "num": 221676,
+      "word": "时皓担任北京WB主教练",
+      "onboard_time": 1699606594,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -1275,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184983,
+      "num": 184983,
+      "word": "滑雪女教练给男友拍视频时摔出雪道",
+      "onboard_time": 1699604192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182833,
       "num": 155617,
       "word": "金旼炡太会扭了",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1699584751,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178615,
+      "num": 178615,
+      "word": "你今天好多了 你今天没那么好",
+      "onboard_time": 1699607554,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 176627,
@@ -1387,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167423,
-      "num": 167423,
-      "word": "教育部公示8所新大学",
-      "onboard_time": 1699604913,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166583,
       "num": 166583,
       "word": "浙江大学夜跑放的是凤凰传奇的歌",
@@ -1451,12 +1515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159607,
-      "num": 159607,
-      "word": "滑雪女教练给男友拍视频时摔出雪道",
-      "onboard_time": 1699604192,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 159715,
+      "num": 152912,
+      "word": "权志龙除头发外全身脱毛",
+      "onboard_time": 1699607735,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 157763,
@@ -1489,6 +1553,22 @@
       "onboard_time": 1699541495,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153638,
+      "num": 153638,
+      "word": "京考公告",
+      "onboard_time": 1699606772,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 149354,
+      "num": 149354,
+      "word": "快乐老友记再现爆梗路人",
+      "onboard_time": 1699606356,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148702,
@@ -1619,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132157,
+      "num": 132157,
+      "word": "葬送的芙莉莲",
+      "onboard_time": 1699607616,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131324,
       "num": 1088019,
       "word": "未成年人网络素养提升片来啦",
@@ -1691,12 +1779,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120001,
+      "num": 131533,
+      "word": "重庆高校保安大叔在石墩上作画",
+      "onboard_time": 1699606594,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 119146,
       "num": 119146,
       "word": "宝宝也没想到一出生就危机四伏",
       "onboard_time": 1699555336,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114792,
+      "num": 114792,
+      "word": "无价之宝",
+      "onboard_time": 1699606172,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 113631,
@@ -1721,6 +1825,14 @@
       "onboard_time": 1699511553,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108805,
+      "num": 114518,
+      "word": "王曼昱晋级太原站8强",
+      "onboard_time": 1699607616,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108129,
@@ -1859,6 +1971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82558,
+      "num": 1312448,
+      "word": "坚持党中央对金融工作的集中统一领导",
+      "onboard_time": 1699602992,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 80929,
       "num": 88028,
       "word": "李雪琴吻戏",
@@ -1912,14 +2032,6 @@
       "word": "中国公民暂勿前往缅北",
       "onboard_time": 1699521214,
       "rank": 49,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 65440,
-      "num": 1158663,
-      "word": "坚持党中央对金融工作的集中统一领导",
-      "onboard_time": 1699602992,
-      "rank": 2,
       "category": "国内要闻"
     },
     {
@@ -2057,6 +2169,14 @@
       "onboard_time": 1699556954,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14063,
+      "num": 255997,
+      "word": "吴艳妮加盟竞燃之夜",
+      "onboard_time": 1699607735,
+      "rank": 14,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 9438,

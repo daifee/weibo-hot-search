@@ -1,0 +1,410 @@
+{
+  "runTime": 1699607821463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2287864,
+        "num": 2287864,
+        "word": "韩警方怀疑权志龙销毁证据",
+        "onboard_time": 1699604496,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2099371,
+        "num": 2099371,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82558,
+        "num": 1312448,
+        "word": "坚持党中央对金融工作的集中统一领导",
+        "onboard_time": 1699602992,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 836445,
+        "num": 836445,
+        "word": "林志颖披荆斩棘总成绩冠军",
+        "onboard_time": 1699598012,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830504,
+        "num": 830504,
+        "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+        "onboard_time": 1699603114,
+        "rank": 4,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 795661,
+        "num": 795661,
+        "word": "吴艳妮说我真抢跑了又怎么了",
+        "onboard_time": 1699593992,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636839,
+        "num": 636839,
+        "word": "教育部公示8所新大学",
+        "onboard_time": 1699604913,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545380,
+        "num": 545380,
+        "word": "陈楚生首位双料冠军",
+        "onboard_time": 1699600472,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390315,
+        "num": 390315,
+        "word": "娜扎 颠婆敲木鱼",
+        "onboard_time": 1699605281,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267654,
+        "num": 267654,
+        "word": "花楼 卸任",
+        "onboard_time": 1699601730,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400503,
+        "num": 266169,
+        "word": "虞书欣红色小猫咪",
+        "onboard_time": 1699603592,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324625,
+        "num": 264248,
+        "word": "医院里的低成本变美项目",
+        "onboard_time": 1699606415,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 323594,
+        "num": 261364,
+        "word": "aespa空降",
+        "onboard_time": 1699596812,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309382,
+        "num": 258282,
+        "word": "nobody原来是nobody cares",
+        "onboard_time": 1699592017,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14063,
+        "num": 255997,
+        "word": "吴艳妮加盟竞燃之夜",
+        "onboard_time": 1699607735,
+        "rank": 14,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 291689,
+        "num": 253227,
+        "word": "赵露思女团风",
+        "onboard_time": 1699602752,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253049,
+        "num": 253049,
+        "word": "白鹿张凌赫亲完导演还不喊咔",
+        "onboard_time": 1699600532,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232825,
+        "num": 232825,
+        "word": "佳木斯体育馆坍塌11人被采取强制措施",
+        "onboard_time": 1699596812,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224786,
+        "num": 224786,
+        "word": "WBG对战MRC",
+        "onboard_time": 1699604252,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212806,
+        "num": 224447,
+        "word": "留学生称白菜在韩国曾卖到100块1颗",
+        "onboard_time": 1699602092,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1864264,
+        "num": 223858,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258354,
+        "num": 223662,
+        "word": "今天朋友圈的两批人",
+        "onboard_time": 1699600291,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249624,
+        "num": 222823,
+        "word": "国内唯一满级女教练滑雪场身亡",
+        "onboard_time": 1699584633,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231401,
+        "num": 222415,
+        "word": "街是陪朋友逛的 钱是我花的",
+        "onboard_time": 1699605454,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200900,
+        "num": 221676,
+        "word": "时皓担任北京WB主教练",
+        "onboard_time": 1699606594,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221477,
+        "num": 221477,
+        "word": "Hi6大侦探梦幻联动",
+        "onboard_time": 1699605515,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213229,
+        "num": 213229,
+        "word": "好的cp几百年后也是有售后的",
+        "onboard_time": 1699606955,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201769,
+        "num": 201769,
+        "word": "贾乃亮帮员工要谭松韵签名照",
+        "onboard_time": 1699604735,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200872,
+        "num": 200872,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1699599632,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 184983,
+        "num": 184983,
+        "word": "滑雪女教练给男友拍视频时摔出雪道",
+        "onboard_time": 1699604192,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178615,
+        "num": 178615,
+        "word": "你今天好多了 你今天没那么好",
+        "onboard_time": 1699607554,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177832,
+        "num": 177832,
+        "word": "aespa回归",
+        "onboard_time": 1699589616,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172565,
+        "num": 172565,
+        "word": "水谷隼沉迷炒股亏了东京一套房",
+        "onboard_time": 1699597474,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165649,
+        "num": 165649,
+        "word": "李健 其实你们都高估了我",
+        "onboard_time": 1699601011,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153638,
+        "num": 153638,
+        "word": "京考公告",
+        "onboard_time": 1699606772,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159715,
+        "num": 152912,
+        "word": "权志龙除头发外全身脱毛",
+        "onboard_time": 1699607735,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149354,
+        "num": 149354,
+        "word": "快乐老友记再现爆梗路人",
+        "onboard_time": 1699606356,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134764,
+        "num": 134764,
+        "word": "奥运冠军水谷隼自称已出现失忆",
+        "onboard_time": 1699600651,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132157,
+        "num": 132157,
+        "word": "葬送的芙莉莲",
+        "onboard_time": 1699607616,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120001,
+        "num": 131533,
+        "word": "重庆高校保安大叔在石墩上作画",
+        "onboard_time": 1699606594,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140019,
+        "num": 131279,
+        "word": "赵露思钻石猫眼妆",
+        "onboard_time": 1699601072,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132718,
+        "num": 131200,
+        "word": "匪我思存又要开大了",
+        "onboard_time": 1699603234,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131013,
+        "num": 131013,
+        "word": "戚薇曝李承铉成团往事",
+        "onboard_time": 1699601372,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122912,
+        "num": 122912,
+        "word": "电影二十二片中老人已全部去世",
+        "onboard_time": 1699592496,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116248,
+        "num": 116248,
+        "word": "张远说不后悔没选陈楚生部落",
+        "onboard_time": 1699604076,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115897,
+        "num": 115897,
+        "word": "莎头就是牛",
+        "onboard_time": 1699601492,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114792,
+        "num": 114792,
+        "word": "无价之宝",
+        "onboard_time": 1699606172,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109723,
+        "num": 114760,
+        "word": "国乒提前包揽WTT太原站混双冠亚军",
+        "onboard_time": 1699603475,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108805,
+        "num": 114518,
+        "word": "王曼昱晋级太原站8强",
+        "onboard_time": 1699607616,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96865,
+        "num": 114289,
+        "word": "离职过于开心走不出公司门",
+        "onboard_time": 1699589914,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展好互联网让美好生活更值得向往#"
+    }
+  }
+}

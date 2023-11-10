@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699605248124,
+  "endTime": 1699607821463,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2287864,
+      "num": 2287864,
+      "word": "韩警方怀疑权志龙销毁证据",
+      "onboard_time": 1699604496,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2279981,
       "num": 949502,
       "word": "搜救组称仲尼在危险区域游泳",
@@ -697,6 +705,14 @@
       "onboard_time": 1699520973,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2099371,
+      "num": 2099371,
+      "word": "杨紫李现 二搭",
+      "onboard_time": 1699604612,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2090660,
@@ -1249,14 +1265,6 @@
       "onboard_time": 1698911915,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1695582,
-      "num": 1695582,
-      "word": "韩警方怀疑权志龙销毁证据",
-      "onboard_time": 1699604496,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1691802,
@@ -2331,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1145493,
-      "num": 1145493,
-      "word": "杨紫李现 二搭",
-      "onboard_time": 1699604612,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1137514,
       "num": 349364,
       "word": "当婚姻被彩礼变成一场交易",
@@ -3353,6 +3353,14 @@
       "onboard_time": 1699105296,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 830504,
+      "num": 830504,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 829922,
@@ -4643,14 +4651,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 672212,
-      "num": 672212,
-      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
-      "onboard_time": 1699603114,
-      "rank": 5,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 670923,
       "num": 367148,
       "word": "宋雨琦回复郑恺",
@@ -4921,6 +4921,14 @@
       "onboard_time": 1699417359,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 636839,
+      "num": 636839,
+      "word": "教育部公示8所新大学",
+      "onboard_time": 1699604913,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 636338,
@@ -8851,6 +8859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390315,
+      "num": 390315,
+      "word": "娜扎 颠婆敲木鱼",
+      "onboard_time": 1699605281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390058,
       "num": 390058,
       "word": "WTT法兰克福冠军赛2023",
@@ -10721,6 +10737,14 @@
       "onboard_time": 1699398924,
       "rank": 17,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 324625,
+      "num": 264248,
+      "word": "医院里的低成本变美项目",
+      "onboard_time": 1699606415,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 324062,
@@ -14603,6 +14627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231401,
+      "num": 222415,
+      "word": "街是陪朋友逛的 钱是我花的",
+      "onboard_time": 1699605454,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231384,
       "num": 231384,
       "word": "发泡实验 医生口中的不吓人",
@@ -15011,6 +15043,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 224786,
+      "num": 224786,
+      "word": "WBG对战MRC",
+      "onboard_time": 1699604252,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224585,
       "num": 224585,
       "word": "娜扎陈都灵同款不同美",
@@ -15241,6 +15281,14 @@
       "onboard_time": 1699410270,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221477,
+      "num": 221477,
+      "word": "Hi6大侦探梦幻联动",
+      "onboard_time": 1699605515,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221327,
@@ -15729,6 +15777,14 @@
       "onboard_time": 1699523732,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213229,
+      "num": 213229,
+      "word": "好的cp几百年后也是有售后的",
+      "onboard_time": 1699606955,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213078,
@@ -16899,14 +16955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201103,
-      "num": 201103,
-      "word": "WBG对战MRC",
-      "onboard_time": 1699604252,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "斗罗大鹿各自为营",
@@ -16937,6 +16985,14 @@
       "onboard_time": 1699254932,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200900,
+      "num": 221676,
+      "word": "时皓担任北京WB主教练",
+      "onboard_time": 1699606594,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 200815,
@@ -18659,6 +18715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184983,
+      "num": 184983,
+      "word": "滑雪女教练给男友拍视频时摔出雪道",
+      "onboard_time": 1699604192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184663,
       "num": 184663,
       "word": "纪焕博 我也想出去喝杯咖啡",
@@ -19089,6 +19153,14 @@
       "onboard_time": 1699584751,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178615,
+      "num": 178615,
+      "word": "你今天好多了 你今天没那么好",
+      "onboard_time": 1699607554,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 178614,
@@ -20027,14 +20099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167423,
-      "num": 167423,
-      "word": "教育部公示8所新大学",
-      "onboard_time": 1699604913,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 167410,
       "num": 167410,
       "word": "勇士战胜活塞",
@@ -20651,20 +20715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159715,
+      "num": 152912,
+      "word": "权志龙除头发外全身脱毛",
+      "onboard_time": 1699607735,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159613,
       "num": 159613,
       "word": "魏大勋演我上学状态",
       "onboard_time": 1699267773,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159607,
-      "num": 159607,
-      "word": "滑雪女教练给男友拍视频时摔出雪道",
-      "onboard_time": 1699604192,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159428,
@@ -21259,6 +21323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 153638,
+      "num": 153638,
+      "word": "京考公告",
+      "onboard_time": 1699606772,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153633,
       "num": 153633,
       "word": "马立奥一路挥手营业",
@@ -21649,6 +21721,14 @@
       "onboard_time": 1698853476,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149354,
+      "num": 149354,
+      "word": "快乐老友记再现爆梗路人",
+      "onboard_time": 1699606356,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 149321,
@@ -23315,6 +23395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132157,
+      "num": 132157,
+      "word": "葬送的芙莉莲",
+      "onboard_time": 1699607616,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132025,
       "num": 132025,
       "word": "上镜消肿方法",
@@ -24331,6 +24419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120001,
+      "num": 131533,
+      "word": "重庆高校保安大叔在石墩上作画",
+      "onboard_time": 1699606594,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 119943,
       "num": 119943,
       "word": "高校运动会团体赛失误全员惊现一字马",
@@ -24675,6 +24771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114792,
+      "num": 114792,
+      "word": "无价之宝",
+      "onboard_time": 1699606172,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114686,
       "num": 510392,
       "word": "杨幂格斗家本家",
@@ -25001,6 +25105,14 @@
       "onboard_time": 1698752011,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108805,
+      "num": 114518,
+      "word": "王曼昱晋级太原站8强",
+      "onboard_time": 1699607616,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108664,
@@ -26043,6 +26155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82558,
+      "num": 1312448,
+      "word": "坚持党中央对金融工作的集中统一领导",
+      "onboard_time": 1699602992,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 82487,
       "num": 234029,
       "word": "3个动作掌握坐姿瘦肚子",
@@ -26505,14 +26625,6 @@
       "onboard_time": 1699074212,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 65440,
-      "num": 1158663,
-      "word": "坚持党中央对金融工作的集中统一领导",
-      "onboard_time": 1699602992,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 65434,
@@ -27537,6 +27649,14 @@
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14063,
+      "num": 255997,
+      "word": "吴艳妮加盟竞燃之夜",
+      "onboard_time": 1699607735,
+      "rank": 14,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 13148,
