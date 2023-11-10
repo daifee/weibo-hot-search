@@ -1,0 +1,410 @@
+{
+  "runTime": 1699600551747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773173,
+        "num": 1773173,
+        "word": "林志颖披荆斩棘总成绩冠军",
+        "onboard_time": 1699598012,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1410584,
+        "num": 1410584,
+        "word": "佳木斯体育馆坍塌11人被采取强制措施",
+        "onboard_time": 1699596812,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84109,
+        "num": 922880,
+        "word": "未成年人网络素养提升片来啦",
+        "onboard_time": 1699589795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1773077,
+        "num": 842781,
+        "word": "吴艳妮说我真抢跑了又怎么了",
+        "onboard_time": 1699593992,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 595197,
+        "num": 595197,
+        "word": "水谷隼沉迷炒股亏了东京一套房",
+        "onboard_time": 1699597474,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518061,
+        "num": 518061,
+        "word": "aespa空降",
+        "onboard_time": 1699596812,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495065,
+        "num": 495065,
+        "word": "国内唯一满级女教练滑雪场身亡",
+        "onboard_time": 1699584633,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490805,
+        "num": 490805,
+        "word": "电影二十二片中老人已全部去世",
+        "onboard_time": 1699592496,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376476,
+        "num": 376476,
+        "word": "张栋梁披荆斩棘逆天改命",
+        "onboard_time": 1699596693,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345114,
+        "num": 345114,
+        "word": "将进酒 陈楚生作曲",
+        "onboard_time": 1699593455,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597370,
+        "num": 331548,
+        "word": "难听",
+        "onboard_time": 1699593693,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 573428,
+        "num": 314886,
+        "word": "nobody原来是nobody cares",
+        "onboard_time": 1699592017,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292101,
+        "num": 292101,
+        "word": "李雪琴拉架这段不像演的",
+        "onboard_time": 1699598972,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272124,
+        "num": 272124,
+        "word": "今明两年将有多只大熊猫回国",
+        "onboard_time": 1699597955,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33245,
+        "num": 269045,
+        "word": "山东又推介了",
+        "onboard_time": 1699599632,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745849,
+        "num": 264930,
+        "word": "苏州百亿毒地几乎成空城",
+        "onboard_time": 1699595672,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278809,
+        "num": 258803,
+        "word": "白鹿cue了牛奶皮肤白梦妍",
+        "onboard_time": 1699596875,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273076,
+        "num": 249361,
+        "word": "陈楚生首位双料冠军",
+        "onboard_time": 1699600472,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248272,
+        "num": 248272,
+        "word": "微信支付与三大运营商条码支付互联互通",
+        "onboard_time": 1699587932,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232858,
+        "num": 232858,
+        "word": "为什么人们不爱喝一点点了",
+        "onboard_time": 1699582893,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272805,
+        "num": 225825,
+        "word": "蔡国庆 0713不能没有我",
+        "onboard_time": 1699598252,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271859,
+        "num": 224989,
+        "word": "aespa回归",
+        "onboard_time": 1699589616,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261858,
+        "num": 220619,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699590996,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211096,
+        "num": 211096,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1699599632,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 206858,
+        "num": 206858,
+        "word": "4个异性室友合买冬装轮流穿",
+        "onboard_time": 1699592196,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215467,
+        "num": 206498,
+        "word": "魏哲鸣总决赛主打一个陪伴",
+        "onboard_time": 1699598432,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214410,
+        "num": 205968,
+        "word": "宁艺卓rap",
+        "onboard_time": 1699598793,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205168,
+        "num": 205168,
+        "word": "王楚钦孙颖莎横扫进四强",
+        "onboard_time": 1699595312,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168576,
+        "num": 168576,
+        "word": "男子梦中醒来手上多了副手铐",
+        "onboard_time": 1699594655,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148124,
+        "num": 148124,
+        "word": "美国首次发现吸血鬼病毒",
+        "onboard_time": 1699544253,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213747,
+        "num": 147923,
+        "word": "Nobody合作曲成员",
+        "onboard_time": 1699599751,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208632,
+        "num": 147327,
+        "word": "NCT127澳门演唱会",
+        "onboard_time": 1699599391,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186611,
+        "num": 147118,
+        "word": "迪丽热巴撑伞侧颜",
+        "onboard_time": 1699590519,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146404,
+        "num": 146404,
+        "word": "山东章丘2.586米大葱破世界纪录",
+        "onboard_time": 1699598673,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140520,
+        "num": 140520,
+        "word": "离职过于开心走不出公司门",
+        "onboard_time": 1699589914,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178478,
+        "num": 139665,
+        "word": "今天朋友圈的两批人",
+        "onboard_time": 1699600291,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157631,
+        "num": 139588,
+        "word": "萧亚轩身材管理",
+        "onboard_time": 1699592017,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156038,
+        "num": 138127,
+        "word": "你的婚礼跨年重映",
+        "onboard_time": 1699595131,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136078,
+        "num": 136078,
+        "word": "女子在李佳琦直播间买到空瓶雅诗兰黛",
+        "onboard_time": 1699575214,
+        "rank": 38,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 118751,
+        "num": 134942,
+        "word": "男子进账1132万直冲派出所",
+        "onboard_time": 1699571004,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143547,
+        "num": 134937,
+        "word": "drama",
+        "onboard_time": 1699596394,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141378,
+        "num": 134721,
+        "word": "白鹿张凌赫亲完导演还不喊咔",
+        "onboard_time": 1699600532,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134407,
+        "num": 134407,
+        "word": "陈都灵有效出演白月光合集",
+        "onboard_time": 1699594893,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132009,
+        "num": 132009,
+        "word": "披荆斩棘3总决赛",
+        "onboard_time": 1699587211,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107677,
+        "num": 107677,
+        "word": "安徽大哥5000斤红薯被浙江人买光",
+        "onboard_time": 1699587689,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100172,
+        "num": 107671,
+        "word": "医生提醒不要皮肤一干就敷面膜",
+        "onboard_time": 1699585412,
+        "rank": 45,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 99001,
+        "num": 107640,
+        "word": "丫丫在吃和玩之间选择了吃",
+        "onboard_time": 1699581631,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98440,
+        "num": 107613,
+        "word": "医生为患病老人剪指甲获5000元奖金",
+        "onboard_time": 1699598852,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91092,
+        "num": 107605,
+        "word": "艾莎公主背后是最爱她的国王",
+        "onboard_time": 1699598073,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63792,
+        "num": 107562,
+        "word": "三星堆新神兽像只熬夜猫头鹰",
+        "onboard_time": 1699599933,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网络空间互联互通共享共治#"
+    }
+  }
+}
