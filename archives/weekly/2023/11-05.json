@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699593377430,
+  "endTime": 1699594441353,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -915,20 +915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1528602,
+      "num": 514437,
+      "word": "nobody原来是nobody cares",
+      "onboard_time": 1699592017,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1528525,
       "num": 1528525,
       "word": "圈里人都知道刘宇宁回家过年的场景了",
       "onboard_time": 1699517431,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1526015,
-      "num": 514437,
-      "word": "nobody原来是nobody cares",
-      "onboard_time": 1699592017,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 1525174,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1176302,
+      "num": 1176302,
+      "word": "电影二十二片中老人已全部去世",
+      "onboard_time": 1699592496,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1163767,
       "num": 552683,
       "word": "宝诗龙 肖战",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1699279660,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 945067,
+      "num": 415470,
+      "word": "难听",
+      "onboard_time": 1699593693,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 941478,
@@ -2161,14 +2177,6 @@
       "onboard_time": 1699517133,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 791471,
-      "num": 791471,
-      "word": "电影二十二片中老人已全部去世",
-      "onboard_time": 1699592496,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 788042,
@@ -3587,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528562,
+      "num": 528562,
+      "word": "孙怡孙阳王子奇好像一家三口",
+      "onboard_time": 1699591895,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528436,
       "num": 528436,
       "word": "韩国的婴儿车里都是小狗",
@@ -3633,14 +3649,6 @@
       "onboard_time": 1699332338,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 523473,
-      "num": 523473,
-      "word": "孙怡孙阳王子奇好像一家三口",
-      "onboard_time": 1699591895,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 521842,
@@ -3801,6 +3809,14 @@
       "onboard_time": 1699415613,
       "rank": 15,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 501852,
+      "num": 501852,
+      "word": "吴艳妮说我真抢跑了又怎么了",
+      "onboard_time": 1699593992,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 499588,
@@ -4081,6 +4097,14 @@
       "onboard_time": 1699229974,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471002,
+      "num": 471002,
+      "word": "为什么人们不爱喝一点点了",
+      "onboard_time": 1699582893,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 470796,
@@ -4483,14 +4507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 430176,
-      "num": 430176,
-      "word": "为什么人们不爱喝一点点了",
-      "onboard_time": 1699582893,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 430120,
       "num": 220543,
       "word": "他的一句玩命 我竟红了眼眶",
@@ -4699,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412272,
+      "num": 412272,
+      "word": "Bad Boy",
+      "onboard_time": 1699592916,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411639,
       "num": 411639,
       "word": "多地降温男子偷穿女友打底裤取暖",
@@ -4729,6 +4753,14 @@
       "onboard_time": 1699460313,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410549,
+      "num": 302712,
+      "word": "4个异性室友合买冬装轮流穿",
+      "onboard_time": 1699592196,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409776,
@@ -5281,6 +5313,14 @@
       "onboard_time": 1699334851,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366939,
+      "num": 366939,
+      "word": "萧亚轩身材管理",
+      "onboard_time": 1699592017,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366463,
@@ -5995,6 +6035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 326014,
+      "num": 244250,
+      "word": "将进酒 陈楚生作曲",
+      "onboard_time": 1699593455,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325746,
       "num": 325746,
       "word": "宁安如梦周生如故梦幻联动",
@@ -6177,14 +6225,6 @@
       "onboard_time": 1699452416,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313947,
-      "num": 302848,
-      "word": "萧亚轩身材管理",
-      "onboard_time": 1699592017,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313373,
@@ -6387,14 +6427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302712,
-      "num": 302712,
-      "word": "4个异性室友合买冬装轮流穿",
-      "onboard_time": 1699592196,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302372,
       "num": 302372,
       "word": "5元自助糯米饭",
@@ -6457,14 +6489,6 @@
       "onboard_time": 1699521155,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298166,
-      "num": 298166,
-      "word": "Bad Boy",
-      "onboard_time": 1699592916,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 298060,
@@ -8139,6 +8163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232873,
+      "num": 232873,
+      "word": "关智斌 没有成团但不遗憾",
+      "onboard_time": 1699593693,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232685,
       "num": 232685,
       "word": "辛芷蕾 一款梦中情姐",
@@ -8699,6 +8731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215865,
+      "num": 215865,
+      "word": "职业暴露与患癌",
+      "onboard_time": 1699593095,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215696,
       "num": 215696,
       "word": "女大三分钟耳后双C发型",
@@ -8745,6 +8785,14 @@
       "onboard_time": 1699497393,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214782,
+      "num": 214782,
+      "word": "惊喜夜节目单",
+      "onboard_time": 1699593572,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 214554,
@@ -10147,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190644,
+      "num": 190644,
+      "word": "李荣浩杭州",
+      "onboard_time": 1699594233,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190561,
       "num": 190561,
       "word": "揭露骗子在机场冒充工作人员揽客住宿",
@@ -10329,6 +10385,14 @@
       "onboard_time": 1699491220,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187578,
+      "num": 158160,
+      "word": "StrayKids回归新曲",
+      "onboard_time": 1699594355,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 187484,
@@ -11097,6 +11161,14 @@
       "onboard_time": 1699347515,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 169949,
+      "num": 153102,
+      "word": "封神训练营往事之啸天犬",
+      "onboard_time": 1699593933,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 169862,
@@ -12587,14 +12659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141330,
-      "num": 141330,
-      "word": "职业暴露与患癌",
-      "onboard_time": 1699593095,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141320,
       "num": 141320,
       "word": "马立奥 卡丁车初体验",
@@ -13068,7 +13132,7 @@
     },
     {
       "raw_hot": 131324,
-      "num": 853190,
+      "num": 877189,
       "word": "未成年人网络素养提升片来啦",
       "onboard_time": 1699589795,
       "rank": 2,
@@ -14825,6 +14889,14 @@
       "onboard_time": 1699500574,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 71826,
+      "num": 240477,
+      "word": "山东的新主角登场了",
+      "onboard_time": 1699593455,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70890,

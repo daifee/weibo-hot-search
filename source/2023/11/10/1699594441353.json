@@ -1,0 +1,410 @@
+{
+  "runTime": 1699594441353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176302,
+        "num": 1176302,
+        "word": "电影二十二片中老人已全部去世",
+        "onboard_time": 1699592496,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1152977,
+        "num": 1152977,
+        "word": "微信支付与三大运营商条码支付互联互通",
+        "onboard_time": 1699587932,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110114,
+        "num": 877189,
+        "word": "未成年人网络素养提升片来啦",
+        "onboard_time": 1699589795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844691,
+        "num": 844691,
+        "word": "aespa回归",
+        "onboard_time": 1699589616,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 731544,
+        "num": 731544,
+        "word": "披荆斩棘成团名单",
+        "onboard_time": 1699590996,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1331781,
+        "num": 645976,
+        "word": "国内唯一满级女教练滑雪场身亡",
+        "onboard_time": 1699584633,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528562,
+        "num": 528562,
+        "word": "孙怡孙阳王子奇好像一家三口",
+        "onboard_time": 1699591895,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501852,
+        "num": 501852,
+        "word": "吴艳妮说我真抢跑了又怎么了",
+        "onboard_time": 1699593992,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471002,
+        "num": 471002,
+        "word": "为什么人们不爱喝一点点了",
+        "onboard_time": 1699582893,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180739,
+        "num": 421804,
+        "word": "中方就菲律宾非法侵闯仁爱礁发表谈话",
+        "onboard_time": 1699587156,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1528602,
+        "num": 417714,
+        "word": "nobody原来是nobody cares",
+        "onboard_time": 1699592017,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 945067,
+        "num": 415470,
+        "word": "难听",
+        "onboard_time": 1699593693,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412272,
+        "num": 412272,
+        "word": "Bad Boy",
+        "onboard_time": 1699592916,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404971,
+        "num": 404971,
+        "word": "宋亚轩玩八小时手机都不回沈腾微信",
+        "onboard_time": 1699575274,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366313,
+        "num": 384091,
+        "word": "美国首次发现吸血鬼病毒",
+        "onboard_time": 1699544253,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383026,
+        "num": 383026,
+        "word": "苏醒晒0713聊天记录",
+        "onboard_time": 1699587812,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366939,
+        "num": 366939,
+        "word": "萧亚轩身材管理",
+        "onboard_time": 1699592017,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320647,
+        "num": 320647,
+        "word": "女子在李佳琦直播间买到空瓶雅诗兰黛",
+        "onboard_time": 1699575214,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 281391,
+        "num": 281391,
+        "word": "乳腺癌已为全球第一大癌",
+        "onboard_time": 1699586553,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259035,
+        "num": 259035,
+        "word": "医生提醒不要皮肤一干就敷面膜",
+        "onboard_time": 1699585412,
+        "rank": 19,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 410549,
+        "num": 258782,
+        "word": "4个异性室友合买冬装轮流穿",
+        "onboard_time": 1699592196,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351271,
+        "num": 255553,
+        "word": "孙俪陶昕然贴贴",
+        "onboard_time": 1699589672,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336132,
+        "num": 250343,
+        "word": "迪丽热巴撑伞侧颜",
+        "onboard_time": 1699590519,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264892,
+        "num": 248014,
+        "word": "离职过于开心走不出公司门",
+        "onboard_time": 1699589914,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246294,
+        "num": 246294,
+        "word": "这届年轻人喝咖啡的频率有多高",
+        "onboard_time": 1699591176,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326014,
+        "num": 244250,
+        "word": "将进酒 陈楚生作曲",
+        "onboard_time": 1699593455,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71826,
+        "num": 240477,
+        "word": "山东的新主角登场了",
+        "onboard_time": 1699593455,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281693,
+        "num": 239858,
+        "word": "以爱为营宁安如梦 歹毒联动",
+        "onboard_time": 1699588833,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239028,
+        "num": 239028,
+        "word": "洛基结局",
+        "onboard_time": 1699588833,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175074,
+        "num": 233160,
+        "word": "丫丫在吃和玩之间选择了吃",
+        "onboard_time": 1699581631,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232873,
+        "num": 232873,
+        "word": "关智斌 没有成团但不遗憾",
+        "onboard_time": 1699593693,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215865,
+        "num": 215865,
+        "word": "职业暴露与患癌",
+        "onboard_time": 1699593095,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214782,
+        "num": 214782,
+        "word": "惊喜夜节目单",
+        "onboard_time": 1699593572,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199299,
+        "num": 199299,
+        "word": "徐穗珍暂时不会在韩国活动",
+        "onboard_time": 1699589375,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194902,
+        "num": 194902,
+        "word": "卡琳娜未要求对仲尼尸检",
+        "onboard_time": 1699529733,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 191506,
+        "num": 191506,
+        "word": "少爷和我杀青",
+        "onboard_time": 1699586312,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190644,
+        "num": 190644,
+        "word": "李荣浩杭州",
+        "onboard_time": 1699594233,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171358,
+        "num": 171358,
+        "word": "安徽大哥5000斤红薯被浙江人买光",
+        "onboard_time": 1699587689,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163789,
+        "num": 163789,
+        "word": "纸嫁衣6无间梦境",
+        "onboard_time": 1699591537,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159814,
+        "num": 159814,
+        "word": "男子进账1132万直冲派出所",
+        "onboard_time": 1699571004,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187578,
+        "num": 158160,
+        "word": "StrayKids回归新曲",
+        "onboard_time": 1699594355,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174966,
+        "num": 156535,
+        "word": "陈奕迅广州跨年演唱会",
+        "onboard_time": 1699590818,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170253,
+        "num": 155065,
+        "word": "披荆斩棘3总决赛",
+        "onboard_time": 1699587211,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169949,
+        "num": 153102,
+        "word": "封神训练营往事之啸天犬",
+        "onboard_time": 1699593933,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93332,
+        "num": 150064,
+        "word": "晶核CoA",
+        "onboard_time": 1699590937,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168872,
+        "num": 149553,
+        "word": "林俊杰 南京小奇迹",
+        "onboard_time": 1699588896,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 147642,
+        "word": "我国首次发现23个长新冠标志物",
+        "onboard_time": 1699577316,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131841,
+        "num": 131841,
+        "word": "流行病学研究中山二院患癌率",
+        "onboard_time": 1699586192,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120437,
+        "num": 120437,
+        "word": "主播1年看50本书称可对抗焦虑",
+        "onboard_time": 1699593275,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119862,
+        "num": 119862,
+        "word": "美香一家刚回国就被排队投喂",
+        "onboard_time": 1699572687,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动网络空间互联互通共享共治#"
+    }
+  }
+}
