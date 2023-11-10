@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699652053625,
+  "endTime": 1699654568274,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -451,8 +451,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 35938,
-      "num": 35938,
+      "raw_hot": 42525,
+      "num": 42525,
       "word": "熊猫小奇迹回国在新家撒欢跑",
       "onboard_time": 1699644438,
       "rank": 47,
@@ -467,8 +467,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33167,
+      "num": 23107,
+      "word": "以前的古装和现在的古装",
+      "onboard_time": 1699650132,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28873,
-      "num": 21591,
+      "num": 22753,
       "word": "成都欢乐谷NPC唐僧非其员工",
       "onboard_time": 1699645994,
       "rank": 32,
@@ -491,20 +499,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 21413,
-      "num": 21413,
-      "word": "以前的古装和现在的古装",
-      "onboard_time": 1699650132,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18063,
-      "num": 20411,
+      "raw_hot": 19401,
+      "num": 21449,
       "word": "俞灏明不愧是舞动奇迹冠军",
       "onboard_time": 1699649834,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18438,
+      "num": 22048,
+      "word": "7架运20排排站大场面来了",
+      "onboard_time": 1699650554,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 13275,
@@ -513,14 +521,6 @@
       "onboard_time": 1699622674,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 11400,
-      "num": 19869,
-      "word": "7架运20排排站大场面来了",
-      "onboard_time": 1699650554,
-      "rank": 48,
-      "category": "军事"
     }
   ],
   "hotgov_list": [
