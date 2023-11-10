@@ -1,0 +1,410 @@
+{
+  "runTime": 1699644848294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243366,
+        "num": 243366,
+        "word": "易烊千玺 限定玫瑰",
+        "onboard_time": 1699632873,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183503,
+        "num": 183503,
+        "word": "何炅不许任何一个夹子出现在他面前",
+        "onboard_time": 1699633053,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8473,
+        "num": 145667,
+        "word": "70秒速览进博会精彩瞬间",
+        "onboard_time": 1699622674,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 118814,
+        "num": 118814,
+        "word": "秦岚辛芷蕾是官宣的意思吗",
+        "onboard_time": 1699627894,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118010,
+        "num": 118010,
+        "word": "宋茜 梦回Victoria",
+        "onboard_time": 1699624294,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108992,
+        "num": 108992,
+        "word": "父母每月寄10斤日用品给00后儿子",
+        "onboard_time": 1699620639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104760,
+        "num": 104760,
+        "word": "萧亚轩回来了",
+        "onboard_time": 1699631735,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74728,
+        "num": 74728,
+        "word": "9位乳腺癌患者自述早期症状",
+        "onboard_time": 1699629756,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65601,
+        "num": 65601,
+        "word": "大连涉事小吃街疑因B太打假拉闸关灯",
+        "onboard_time": 1699623511,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51359,
+        "num": 51359,
+        "word": "老人烤红薯摊被撞翻一群人涌了上来",
+        "onboard_time": 1699626453,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85082,
+        "num": 48851,
+        "word": "李相夷红绸舞剑",
+        "onboard_time": 1699631072,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82132,
+        "num": 46800,
+        "word": "迪丽热巴凌晨4点未发出的信息",
+        "onboard_time": 1699627054,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81788,
+        "num": 46252,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39920,
+        "num": 39920,
+        "word": "腾讯将在中国大陆代理销售MetaVR头显",
+        "onboard_time": 1699631853,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37067,
+        "num": 37067,
+        "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+        "onboard_time": 1699615230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77242,
+        "num": 35324,
+        "word": "易烊千玺压轴舞台",
+        "onboard_time": 1699633828,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75545,
+        "num": 34101,
+        "word": "谢娜 我回家了",
+        "onboard_time": 1699617449,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32691,
+        "num": 32691,
+        "word": "一点点否认倒闭",
+        "onboard_time": 1699627176,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28721,
+        "num": 28721,
+        "word": "新兰最新情话",
+        "onboard_time": 1699631373,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 25143,
+        "num": 28713,
+        "word": "61岁的腹肌奶奶太强了",
+        "onboard_time": 1699631256,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60602,
+        "num": 28704,
+        "word": "萧亚轩状态",
+        "onboard_time": 1699633230,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60283,
+        "num": 28677,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56235,
+        "num": 28667,
+        "word": "苏有朋林志颖 小鱼儿与花无缺",
+        "onboard_time": 1699627295,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50462,
+        "num": 28640,
+        "word": "王心凌在河南冻成了王心淩",
+        "onboard_time": 1699627356,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27240,
+        "num": 28634,
+        "word": "你喝的星巴克可能是假的",
+        "onboard_time": 1699618891,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48405,
+        "num": 28612,
+        "word": "秦岚嗓子好了吗",
+        "onboard_time": 1699627655,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47955,
+        "num": 28591,
+        "word": "以爱为营 断更",
+        "onboard_time": 1699619614,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23680,
+        "num": 28571,
+        "word": "老人被假外孙骗20万民警2小时追回",
+        "onboard_time": 1699625556,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23079,
+        "num": 28555,
+        "word": "可以穿羽绒服了",
+        "onboard_time": 1699623511,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22695,
+        "num": 28543,
+        "word": "恋与深空尺度",
+        "onboard_time": 1699617989,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35833,
+        "num": 28520,
+        "word": "时代少年团楼外楼首秀",
+        "onboard_time": 1699630895,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35714,
+        "num": 28514,
+        "word": "华晨宇飞行模式歌词",
+        "onboard_time": 1699630895,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31801,
+        "num": 28492,
+        "word": "关晓彤 主持",
+        "onboard_time": 1699620695,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20429,
+        "num": 28471,
+        "word": "七仔的新邻居是初恋永永",
+        "onboard_time": 1699632934,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19677,
+        "num": 28459,
+        "word": "初雪",
+        "onboard_time": 1699629398,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29987,
+        "num": 28434,
+        "word": "华晨宇一个月才回吴彤微信",
+        "onboard_time": 1699627176,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29281,
+        "num": 28429,
+        "word": "丞磊这不挺会唱的",
+        "onboard_time": 1699621174,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19571,
+        "num": 28399,
+        "word": "山东下雪",
+        "onboard_time": 1699627054,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17742,
+        "num": 28386,
+        "word": "王楚钦呼吁文明观赛",
+        "onboard_time": 1699620394,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15936,
+        "num": 28365,
+        "word": "一点点",
+        "onboard_time": 1699612112,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28361,
+        "num": 28361,
+        "word": "刘涛说花少1快十年了",
+        "onboard_time": 1699630655,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27659,
+        "num": 27659,
+        "word": "对着周华健唱我喜欢你",
+        "onboard_time": 1699617811,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27353,
+        "num": 27353,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1699617090,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26766,
+        "num": 26766,
+        "word": "对陈楚生独唱直到世界尽头的执念",
+        "onboard_time": 1699623271,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14567,
+        "num": 26766,
+        "word": "你常喝一点点奶茶吗",
+        "onboard_time": 1699627773,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24946,
+        "num": 26765,
+        "word": "刘涛白色露肩马甲连体裤",
+        "onboard_time": 1699643415,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14509,
+        "num": 26765,
+        "word": "阿维塔",
+        "onboard_time": 1699618231,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13399,
+        "num": 26764,
+        "word": "熊猫小奇迹回国在新家撒欢跑",
+        "onboard_time": 1699644438,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13146,
+        "num": 26764,
+        "word": "三胞胎妈妈子宫壁仅1.2毫米",
+        "onboard_time": 1699613851,
+        "rank": 48,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 12571,
+        "num": 26763,
+        "word": "林孝埈 月亮不会奔你而来",
+        "onboard_time": 1699616190,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京河北考察灾后恢复重建工作#"
+    }
+  }
+}
