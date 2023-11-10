@@ -1,0 +1,410 @@
+{
+  "runTime": 1699655661781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 319806,
+        "num": 319806,
+        "word": "易烊千玺 限定玫瑰",
+        "onboard_time": 1699632873,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261602,
+        "num": 261602,
+        "word": "何炅不许任何一个夹子出现在他面前",
+        "onboard_time": 1699633053,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9113,
+        "num": 211202,
+        "word": "70秒速览进博会精彩瞬间",
+        "onboard_time": 1699622674,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 164378,
+        "num": 164378,
+        "word": "父母每月寄10斤日用品给00后儿子",
+        "onboard_time": 1699620639,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146640,
+        "num": 146640,
+        "word": "9位乳腺癌患者自述早期症状",
+        "onboard_time": 1699629756,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131903,
+        "num": 131903,
+        "word": "秦岚辛芷蕾是官宣的意思吗",
+        "onboard_time": 1699627894,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131464,
+        "num": 131464,
+        "word": "李相夷红绸舞剑",
+        "onboard_time": 1699631072,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109036,
+        "num": 109036,
+        "word": "大连涉事小吃街疑因B太打假拉闸关灯",
+        "onboard_time": 1699623511,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102865,
+        "num": 102865,
+        "word": "迪丽热巴凌晨4点未发出的信息",
+        "onboard_time": 1699627054,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71923,
+        "num": 71923,
+        "word": "老人烤红薯摊被撞翻一群人涌了上来",
+        "onboard_time": 1699626453,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102304,
+        "num": 66037,
+        "word": "萧亚轩回来了",
+        "onboard_time": 1699631735,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97018,
+        "num": 64806,
+        "word": "宋茜 梦回Victoria",
+        "onboard_time": 1699624294,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93850,
+        "num": 62565,
+        "word": "苏有朋林志颖 小鱼儿与花无缺",
+        "onboard_time": 1699627295,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58709,
+        "num": 58709,
+        "word": "熊猫小奇迹回国在新家撒欢跑",
+        "onboard_time": 1699644438,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56539,
+        "num": 56539,
+        "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+        "onboard_time": 1699615230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84504,
+        "num": 53991,
+        "word": "易烊千玺压轴舞台",
+        "onboard_time": 1699633828,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83965,
+        "num": 51077,
+        "word": "王心凌在河南冻成了王心淩",
+        "onboard_time": 1699627356,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42308,
+        "num": 42308,
+        "word": "腾讯将在中国大陆代理销售MetaVR头显",
+        "onboard_time": 1699631853,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41457,
+        "num": 41457,
+        "word": "可以穿羽绒服了",
+        "onboard_time": 1699623511,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35354,
+        "num": 35354,
+        "word": "初雪",
+        "onboard_time": 1699629398,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73731,
+        "num": 35056,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72232,
+        "num": 34138,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67952,
+        "num": 33534,
+        "word": "谢娜 我回家了",
+        "onboard_time": 1699617449,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54616,
+        "num": 32040,
+        "word": "秦岚嗓子好了吗",
+        "onboard_time": 1699627655,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31759,
+        "num": 31759,
+        "word": "七仔的新邻居是初恋永永",
+        "onboard_time": 1699632934,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51039,
+        "num": 31479,
+        "word": "以爱为营 断更",
+        "onboard_time": 1699619614,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45595,
+        "num": 31362,
+        "word": "萧亚轩状态",
+        "onboard_time": 1699633230,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30684,
+        "num": 30684,
+        "word": "老人被假外孙骗20万民警2小时追回",
+        "onboard_time": 1699625556,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30652,
+        "num": 30652,
+        "word": "你喝的星巴克可能是假的",
+        "onboard_time": 1699618891,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30574,
+        "num": 30574,
+        "word": "山东下雪",
+        "onboard_time": 1699627054,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39982,
+        "num": 30477,
+        "word": "以前的古装和现在的古装",
+        "onboard_time": 1699650132,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35807,
+        "num": 30398,
+        "word": "时代少年团楼外楼首秀",
+        "onboard_time": 1699630895,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34476,
+        "num": 30297,
+        "word": "关晓彤 主持",
+        "onboard_time": 1699620695,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25145,
+        "num": 30211,
+        "word": "成都欢乐谷NPC唐僧非其员工",
+        "onboard_time": 1699645994,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24872,
+        "num": 30124,
+        "word": "61岁的腹肌奶奶太强了",
+        "onboard_time": 1699631256,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 34212,
+        "num": 29948,
+        "word": "华晨宇飞行模式歌词",
+        "onboard_time": 1699630895,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31529,
+        "num": 29857,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1699617090,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22210,
+        "num": 29788,
+        "word": "7架运20排排站大场面来了",
+        "onboard_time": 1699650554,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19680,
+        "num": 29629,
+        "word": "王楚钦呼吁文明观赛",
+        "onboard_time": 1699620394,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18948,
+        "num": 29502,
+        "word": "新兰最新情话",
+        "onboard_time": 1699631373,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 29501,
+        "num": 29501,
+        "word": "刘涛说花少1快十年了",
+        "onboard_time": 1699630655,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28724,
+        "num": 29492,
+        "word": "华晨宇一个月才回吴彤微信",
+        "onboard_time": 1699627176,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 29484,
+        "word": "丞磊这不挺会唱的",
+        "onboard_time": 1699621174,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23526,
+        "num": 29478,
+        "word": "双11惊喜夜",
+        "onboard_time": 1699614454,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21792,
+        "num": 29463,
+        "word": "俞灏明不愧是舞动奇迹冠军",
+        "onboard_time": 1699649834,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17843,
+        "num": 29454,
+        "word": "三胞胎妈妈子宫壁仅1.2毫米",
+        "onboard_time": 1699613851,
+        "rank": 45,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 15642,
+        "num": 29436,
+        "word": "阿维塔",
+        "onboard_time": 1699618231,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14662,
+        "num": 29426,
+        "word": "一点点否认倒闭",
+        "onboard_time": 1699627176,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14621,
+        "num": 29421,
+        "word": "河南下雪",
+        "onboard_time": 1699621955,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13540,
+        "num": 29408,
+        "word": "恋与深空尺度",
+        "onboard_time": 1699617989,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京河北考察灾后恢复重建工作#"
+    }
+  }
+}

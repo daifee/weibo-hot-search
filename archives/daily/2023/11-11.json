@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699654568274,
+  "endTime": 1699655661781,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58709,
+      "num": 58709,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50830,
       "num": 50830,
       "word": "对着周华健唱我喜欢你",
@@ -451,12 +459,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 42525,
-      "num": 42525,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 39982,
+      "num": 30477,
+      "word": "以前的古装和现在的古装",
+      "onboard_time": 1699650132,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 34150,
@@ -467,16 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33167,
-      "num": 23107,
-      "word": "以前的古装和现在的古装",
-      "onboard_time": 1699650132,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28873,
-      "num": 22753,
+      "num": 30211,
       "word": "成都欢乐谷NPC唐僧非其员工",
       "onboard_time": 1699645994,
       "rank": 32,
@@ -491,28 +491,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21776,
-      "num": 50717,
-      "word": "你常喝一点点奶茶吗",
-      "onboard_time": 1699627773,
+      "raw_hot": 22210,
+      "num": 29788,
+      "word": "7架运20排排站大场面来了",
+      "onboard_time": 1699650554,
       "rank": 48,
-      "category": "美食"
+      "category": "军事"
     },
     {
-      "raw_hot": 19401,
-      "num": 21449,
+      "raw_hot": 21792,
+      "num": 29463,
       "word": "俞灏明不愧是舞动奇迹冠军",
       "onboard_time": 1699649834,
       "rank": 35,
       "category": "综艺"
     },
     {
-      "raw_hot": 18438,
-      "num": 22048,
-      "word": "7架运20排排站大场面来了",
-      "onboard_time": 1699650554,
+      "raw_hot": 21776,
+      "num": 50717,
+      "word": "你常喝一点点奶茶吗",
+      "onboard_time": 1699627773,
       "rank": 48,
-      "category": "军事"
+      "category": "美食"
     },
     {
       "raw_hot": 13275,

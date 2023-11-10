@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699654568274,
+  "endTime": 1699655661781,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -16923,6 +16923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58709,
+      "num": 58709,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58126,
       "num": 197775,
       "word": "李思思被孩子的想象力惊艳到",
@@ -17139,14 +17147,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 42525,
-      "num": 42525,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42415,
       "num": 436161,
       "word": "琉璃裴行俭婚后生活",
@@ -17185,6 +17185,14 @@
       "onboard_time": 1699534171,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 39982,
+      "num": 30477,
+      "word": "以前的古装和现在的古装",
+      "onboard_time": 1699650132,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 39093,
@@ -17251,14 +17259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33167,
-      "num": 23107,
-      "word": "以前的古装和现在的古装",
-      "onboard_time": 1699650132,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31649,
       "num": 423301,
       "word": "2023暴雪嘉年华",
@@ -17276,7 +17276,7 @@
     },
     {
       "raw_hot": 28873,
-      "num": 22753,
+      "num": 30211,
       "word": "成都欢乐谷NPC唐僧非其员工",
       "onboard_time": 1699645994,
       "rank": 32,
@@ -17379,12 +17379,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 22210,
+      "num": 29788,
+      "word": "7架运20排排站大场面来了",
+      "onboard_time": 1699650554,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 22072,
       "num": 48837,
       "word": "这下PPT台风稳了",
       "onboard_time": 1699210336,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21792,
+      "num": 29463,
+      "word": "俞灏明不愧是舞动奇迹冠军",
+      "onboard_time": 1699649834,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 21712,
@@ -17409,22 +17425,6 @@
       "onboard_time": 1699604678,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19401,
-      "num": 21449,
-      "word": "俞灏明不愧是舞动奇迹冠军",
-      "onboard_time": 1699649834,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18438,
-      "num": 22048,
-      "word": "7架运20排排站大场面来了",
-      "onboard_time": 1699650554,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 18258,
