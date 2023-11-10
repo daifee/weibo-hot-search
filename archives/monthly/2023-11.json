@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699604474698,
+  "endTime": 1699605248124,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3018135,
+      "num": 450668,
+      "word": "男子奸淫多名农村留守女童被判无期",
+      "onboard_time": 1699602152,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3005329,
       "num": 3005329,
       "word": "gala哭了",
@@ -425,14 +433,6 @@
       "onboard_time": 1698815856,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2690657,
-      "num": 364594,
-      "word": "男子奸淫多名农村留守女童被判无期",
-      "onboard_time": 1699602152,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2670540,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1698911915,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1695582,
+      "num": 1695582,
+      "word": "韩警方怀疑权志龙销毁证据",
+      "onboard_time": 1699604496,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1691802,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1699485148,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1145493,
+      "num": 1145493,
+      "word": "杨紫李现 二搭",
+      "onboard_time": 1699604612,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1137514,
@@ -4627,6 +4643,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 672212,
+      "num": 672212,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 670923,
       "num": 367148,
       "word": "宋雨琦回复郑恺",
@@ -5763,14 +5787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569933,
-      "num": 569933,
-      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
-      "onboard_time": 1699603114,
-      "rank": 5,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 567571,
       "num": 567571,
       "word": "MAMA阵容",
@@ -5875,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561186,
+      "num": 449493,
+      "word": "虞书欣红色小猫咪",
+      "onboard_time": 1699603592,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561122,
       "num": 561122,
       "word": "飞了36年空姐最后一班飞行哭着告别",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1698829830,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 556814,
+      "num": 556814,
+      "word": "关晓彤后半夜秒回消息的原因",
+      "onboard_time": 1699604133,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 556256,
@@ -7587,6 +7619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443846,
+      "num": 443846,
+      "word": "贾乃亮帮员工要谭松韵签名照",
+      "onboard_time": 1699604735,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442572,
       "num": 442572,
       "word": "女子全麻术后被好友轮流拿喇叭叫醒",
@@ -9017,14 +9057,6 @@
       "onboard_time": 1699022318,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382549,
-      "num": 362424,
-      "word": "虞书欣红色小猫咪",
-      "onboard_time": 1699603592,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 382269,
@@ -13667,6 +13699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 245924,
+      "num": 244424,
+      "word": "匪我思存又要开大了",
+      "onboard_time": 1699603234,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245919,
       "num": 245919,
       "word": "读研日常无心科研但嫉恶如仇",
@@ -13761,14 +13801,6 @@
       "onboard_time": 1699257934,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 244424,
-      "num": 244424,
-      "word": "匪我思存又要开大了",
-      "onboard_time": 1699603234,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 244135,
@@ -14737,6 +14769,14 @@
       "onboard_time": 1699047316,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228701,
+      "num": 190788,
+      "word": "宋轶珍珠流苏裙",
+      "onboard_time": 1699604434,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228646,
@@ -16451,14 +16491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 205717,
-      "num": 205717,
-      "word": "关晓彤后半夜秒回消息的原因",
-      "onboard_time": 1699604133,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205362,
       "num": 205362,
       "word": "周深连说了七个好好",
@@ -16865,6 +16897,14 @@
       "onboard_time": 1699268494,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201103,
+      "num": 201103,
+      "word": "WBG对战MRC",
+      "onboard_time": 1699604252,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 201052,
@@ -18121,14 +18161,6 @@
       "onboard_time": 1699099001,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189661,
-      "num": 189661,
-      "word": "宋轶珍珠流苏裙",
-      "onboard_time": 1699604434,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189636,
@@ -19579,14 +19611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171997,
-      "num": 171997,
-      "word": "WBG对战MRC",
-      "onboard_time": 1699604252,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171996,
       "num": 171996,
       "word": "湖南一小学食堂疑吃出白毛鼠头",
@@ -20001,6 +20025,14 @@
       "onboard_time": 1699500033,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167423,
+      "num": 167423,
+      "word": "教育部公示8所新大学",
+      "onboard_time": 1699604913,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 167410,
@@ -20627,6 +20659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159607,
+      "num": 159607,
+      "word": "滑雪女教练给男友拍视频时摔出雪道",
+      "onboard_time": 1699604192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159428,
       "num": 128217,
       "word": "赵露思演讲煽情不了一点",
@@ -21097,6 +21137,14 @@
       "onboard_time": 1699012235,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154474,
+      "num": 154474,
+      "word": "此时此刻",
+      "onboard_time": 1699604313,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 154401,
@@ -22147,6 +22195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144199,
+      "num": 144199,
+      "word": "威神V新浪扫楼",
+      "onboard_time": 1699605037,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143981,
       "num": 143981,
       "word": "万圣节",
@@ -22361,14 +22417,6 @@
       "onboard_time": 1699524033,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141959,
-      "num": 141959,
-      "word": "此时此刻",
-      "onboard_time": 1699604313,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 141846,
@@ -25467,14 +25515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97741,
-      "num": 97741,
-      "word": "滑雪女教练给男友拍视频时摔出雪道",
-      "onboard_time": 1699604192,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97442,
       "num": 97442,
       "word": "伊朗总统将前往沙特",
@@ -25873,6 +25913,14 @@
       "onboard_time": 1699323932,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 86549,
+      "num": 205134,
+      "word": "中国油混进入4升时代",
+      "onboard_time": 1699603653,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 85863,
@@ -26355,14 +26403,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 70018,
-      "num": 205134,
-      "word": "中国油混进入4升时代",
-      "onboard_time": 1699603653,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 69337,
       "num": 445402,
       "word": "精神分裂患者的世界太痛苦了",
@@ -26465,6 +26505,14 @@
       "onboard_time": 1699074212,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65440,
+      "num": 1158663,
+      "word": "坚持党中央对金融工作的集中统一领导",
+      "onboard_time": 1699602992,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 65434,
@@ -26689,14 +26737,6 @@
       "onboard_time": 1699506039,
       "rank": 39,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 57472,
-      "num": 1037455,
-      "word": "坚持党中央对金融工作的集中统一领导",
-      "onboard_time": 1699602992,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 57271,
@@ -27361,6 +27401,14 @@
       "onboard_time": 1698955272,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19690,
+      "num": 343034,
+      "word": "电视收看明白卡",
+      "onboard_time": 1699604678,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18258,

@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699604474698,
+  "endTime": 1699605248124,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3018135,
+      "num": 450668,
+      "word": "男子奸淫多名农村留守女童被判无期",
+      "onboard_time": 1699602152,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2810104,
       "num": 1085775,
       "word": "吴艳妮说我真抢跑了又怎么了",
       "onboard_time": 1699593992,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2690657,
-      "num": 364594,
-      "word": "男子奸淫多名农村留守女童被判无期",
-      "onboard_time": 1699602152,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2491896,
@@ -57,6 +57,14 @@
       "onboard_time": 1699598012,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1695582,
+      "num": 1695582,
+      "word": "韩警方怀疑权志龙销毁证据",
+      "onboard_time": 1699604496,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1610798,
@@ -104,6 +112,14 @@
       "word": "想亲就亲啊还要打什么赌",
       "onboard_time": 1699575335,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1145493,
+      "num": 1145493,
+      "word": "杨紫李现 二搭",
+      "onboard_time": 1699604612,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672212,
+      "num": 672212,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 607501,
       "num": 607501,
       "word": "西南政法大学vs华东政法大学",
@@ -323,20 +347,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569933,
-      "num": 569933,
-      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
-      "onboard_time": 1699603114,
-      "rank": 5,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 562074,
       "num": 562074,
       "word": "丫丫在吃和玩之间选择了吃",
       "onboard_time": 1699581631,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561186,
+      "num": 449493,
+      "word": "虞书欣红色小猫咪",
+      "onboard_time": 1699603592,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556814,
+      "num": 556814,
+      "word": "关晓彤后半夜秒回消息的原因",
+      "onboard_time": 1699604133,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 551404,
@@ -443,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443846,
+      "num": 443846,
+      "word": "贾乃亮帮员工要谭松韵签名照",
+      "onboard_time": 1699604735,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439297,
       "num": 439297,
       "word": "以爱为营宁安如梦 歹毒联动",
@@ -529,14 +569,6 @@
       "onboard_time": 1699533814,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382549,
-      "num": 362424,
-      "word": "虞书欣红色小猫咪",
-      "onboard_time": 1699603592,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 376958,
@@ -915,6 +947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 245924,
+      "num": 244424,
+      "word": "匪我思存又要开大了",
+      "onboard_time": 1699603234,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245244,
       "num": 214469,
       "word": "王安宇胡先煦 夫妻相处范本",
@@ -928,14 +968,6 @@
       "word": "宁安如梦 三人修罗场",
       "onboard_time": 1699575875,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 244424,
-      "num": 244424,
-      "word": "匪我思存又要开大了",
-      "onboard_time": 1699603234,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -977,6 +1009,14 @@
       "onboard_time": 1699585711,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228701,
+      "num": 190788,
+      "word": "宋轶珍珠流苏裙",
+      "onboard_time": 1699604434,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 224585,
@@ -1107,12 +1147,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205717,
-      "num": 205717,
-      "word": "关晓彤后半夜秒回消息的原因",
-      "onboard_time": 1699604133,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 201103,
+      "num": 201103,
+      "word": "WBG对战MRC",
+      "onboard_time": 1699604252,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 198528,
@@ -1211,14 +1251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189661,
-      "num": 189661,
-      "word": "宋轶珍珠流苏裙",
-      "onboard_time": 1699604434,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 189611,
       "num": 189611,
       "word": "林诗栋蒯曼逆转进四强",
@@ -1307,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171997,
-      "num": 171997,
-      "word": "WBG对战MRC",
-      "onboard_time": 1699604252,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171748,
       "num": 171748,
       "word": "无价之宝今日上映",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1699595913,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167423,
+      "num": 167423,
+      "word": "教育部公示8所新大学",
+      "onboard_time": 1699604913,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 166583,
@@ -1419,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159607,
+      "num": 159607,
+      "word": "滑雪女教练给男友拍视频时摔出雪道",
+      "onboard_time": 1699604192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157763,
       "num": 157763,
       "word": "恶魔法则走进现实是什么体验",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1699595131,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154474,
+      "num": 154474,
+      "word": "此时此刻",
+      "onboard_time": 1699604313,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 154086,
@@ -1475,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144199,
+      "num": 144199,
+      "word": "威神V新浪扫楼",
+      "onboard_time": 1699605037,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143878,
       "num": 143878,
       "word": "姜雪宁自刎花絮",
@@ -1489,14 +1545,6 @@
       "onboard_time": 1699576657,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 141959,
-      "num": 141959,
-      "word": "此时此刻",
-      "onboard_time": 1699604313,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 141055,
@@ -1731,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97741,
-      "num": 97741,
-      "word": "滑雪女教练给男友拍视频时摔出雪道",
-      "onboard_time": 1699604192,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97037,
       "num": 97037,
       "word": "遗失手机飞了1300多公里被成功找回",
@@ -1803,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86549,
+      "num": 205134,
+      "word": "中国油混进入4升时代",
+      "onboard_time": 1699603653,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83452,
       "num": 88012,
       "word": "玲子参加婚礼",
@@ -1851,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70018,
-      "num": 205134,
-      "word": "中国油混进入4升时代",
-      "onboard_time": 1699603653,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 68616,
       "num": 87981,
       "word": "风起西州捧脸吻",
@@ -1872,6 +1912,14 @@
       "word": "中国公民暂勿前往缅北",
       "onboard_time": 1699521214,
       "rank": 49,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 65440,
+      "num": 1158663,
+      "word": "坚持党中央对金融工作的集中统一领导",
+      "onboard_time": 1699602992,
+      "rank": 2,
       "category": "国内要闻"
     },
     {
@@ -1889,14 +1937,6 @@
       "onboard_time": 1699537114,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57472,
-      "num": 1037455,
-      "word": "坚持党中央对金融工作的集中统一领导",
-      "onboard_time": 1699602992,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 56908,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1699502854,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19690,
+      "num": 343034,
+      "word": "电视收看明白卡",
+      "onboard_time": 1699604678,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16768,
