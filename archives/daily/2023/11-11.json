@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699636548480,
+  "endTime": 1699637650085,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -353,6 +353,14 @@
       "onboard_time": 1699623511,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95531,
+      "num": 95531,
+      "word": "对陈楚生独唱直到世界尽头的执念",
+      "onboard_time": 1699623271,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 91826,
