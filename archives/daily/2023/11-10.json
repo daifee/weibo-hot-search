@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699608855283,
+  "endTime": 1699611503685,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -25,6 +25,14 @@
       "onboard_time": 1699593992,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2603654,
+      "num": 1143776,
+      "word": "权志龙除头发外全身脱毛",
+      "onboard_time": 1699607735,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 2491896,
@@ -97,14 +105,6 @@
       "onboard_time": 1699592017,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1476939,
-      "num": 359282,
-      "word": "权志龙除头发外全身脱毛",
-      "onboard_time": 1699607735,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 1246840,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 936011,
+      "num": 936011,
+      "word": "预制蛋",
+      "onboard_time": 1699609172,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 935953,
       "num": 872438,
       "word": "医生提醒不要皮肤一干就敷面膜",
@@ -249,6 +257,14 @@
       "onboard_time": 1699595672,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833884,
+      "num": 527264,
+      "word": "肖战工作室辟谣团队变更",
+      "onboard_time": 1699609654,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 779829,
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567071,
+      "num": 567071,
+      "word": "你今天好多了 你今天没那么好",
+      "onboard_time": 1699607554,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562074,
       "num": 562074,
       "word": "丫丫在吃和玩之间选择了吃",
@@ -459,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492070,
+      "num": 492070,
+      "word": "2023爱奇艺尖叫之夜",
+      "onboard_time": 1699608993,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488385,
       "num": 488385,
       "word": "花楼 卸任",
@@ -521,6 +553,14 @@
       "onboard_time": 1699579835,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423491,
+      "num": 423491,
+      "word": "宁安如梦特别鸣谢",
+      "onboard_time": 1699609414,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 419620,
@@ -611,12 +651,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 374171,
+      "num": 374171,
+      "word": "中信银行原行长孙德顺受贿案一审宣判",
+      "onboard_time": 1699608211,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 371263,
       "num": 371263,
       "word": "中山二院一患癌医生去年已发现肿瘤",
       "onboard_time": 1699553537,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370577,
+      "num": 1322875,
+      "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
+      "onboard_time": 1699607854,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370318,
+      "num": 370318,
+      "word": "aespa新歌DRAMA初舞台",
+      "onboard_time": 1699610493,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 369962,
@@ -681,6 +745,14 @@
       "onboard_time": 1699589914,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356474,
+      "num": 356474,
+      "word": "王安宇 水瓶座",
+      "onboard_time": 1699608934,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 355380,
@@ -780,7 +852,7 @@
     },
     {
       "raw_hot": 312372,
-      "num": 169126,
+      "num": 185517,
       "word": "宁安如梦 想嗑什么就剪什么",
       "onboard_time": 1699608333,
       "rank": 30,
@@ -867,20 +939,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289360,
+      "num": 289360,
+      "word": "国色芳华",
+      "onboard_time": 1699609292,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288276,
       "num": 288276,
       "word": "林俊杰 南京小奇迹",
       "onboard_time": 1699588896,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287712,
-      "num": 200203,
-      "word": "你今天好多了 你今天没那么好",
-      "onboard_time": 1699607554,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 285942,
@@ -931,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276058,
+      "num": 276058,
+      "word": "迪丽热巴演我嗑cp",
+      "onboard_time": 1699610912,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274801,
       "num": 274801,
       "word": "摇光录钟无相",
@@ -955,11 +1035,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262285,
+      "num": 262285,
+      "word": "时代少年团对接否认耍大牌",
+      "onboard_time": 1699608453,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257405,
       "num": 257405,
       "word": "僧丫再回应花3000元租房",
       "onboard_time": 1699575755,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251656,
+      "num": 965911,
+      "word": "新疆农户给苹果做B超测冰糖心",
+      "onboard_time": 1699609234,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1073,6 +1169,14 @@
       "onboard_time": 1699604434,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 226480,
+      "num": 185400,
+      "word": "宁安如梦贞礼课剧情",
+      "onboard_time": 1699609712,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 224786,
@@ -1235,20 +1339,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204761,
-      "num": 204761,
-      "word": "中信银行原行长孙德顺受贿案一审宣判",
-      "onboard_time": 1699608211,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 201355,
-      "num": 168889,
-      "word": "时代少年团对接否认耍大牌",
-      "onboard_time": 1699608453,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 202426,
+      "num": 202426,
+      "word": "石家庄下雪",
+      "onboard_time": 1699608813,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200900,
@@ -1449,14 +1545,6 @@
       "onboard_time": 1699581393,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175546,
-      "num": 175546,
-      "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
-      "onboard_time": 1699607854,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172344,
@@ -1675,12 +1763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143147,
+      "num": 130398,
+      "word": "惊喜夜彩排",
+      "onboard_time": 1699609952,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142116,
       "num": 142116,
       "word": "感冒五个阶段都如何治疗",
       "onboard_time": 1699576657,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141397,
+      "num": 130332,
+      "word": "惊喜夜红毯直播",
+      "onboard_time": 1699611454,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 141055,
@@ -1771,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130524,
+      "num": 130524,
+      "word": "山东一只8斤重饺子亮相北京",
+      "onboard_time": 1699608934,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128794,
       "num": 128794,
       "word": "小男孩扶梯上用身体挡住摔倒的奶奶",
@@ -1844,7 +1956,7 @@
     },
     {
       "raw_hot": 120001,
-      "num": 131533,
+      "num": 746614,
       "word": "重庆高校保安大叔在石墩上作画",
       "onboard_time": 1699606594,
       "rank": 39,
@@ -1995,14 +2107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91949,
-      "num": 120010,
-      "word": "石家庄下雪",
-      "onboard_time": 1699608813,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91914,
       "num": 91914,
       "word": "姜雪宁谢危张遮修罗场要来了",
@@ -2033,6 +2137,14 @@
       "onboard_time": 1699534294,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 83304,
+      "num": 130258,
+      "word": "2023王者世冠KIC大名单",
+      "onboard_time": 1699609112,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 82558,
@@ -2075,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70841,
+      "num": 354568,
+      "word": "一车看懂中国科技新高度",
+      "onboard_time": 1699609234,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70724,
       "num": 87986,
       "word": "SM将2024年推出新男团",
@@ -2097,6 +2217,14 @@
       "onboard_time": 1699521214,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64391,
+      "num": 130182,
+      "word": "女子怀抱幼儿被困火场众人破窗营救",
+      "onboard_time": 1699611454,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63792,
@@ -2225,6 +2353,14 @@
       "onboard_time": 1699604678,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17906,
+      "num": 394728,
+      "word": "张之臻加盟竞燃之夜",
+      "onboard_time": 1699610431,
+      "rank": 14,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 16768,

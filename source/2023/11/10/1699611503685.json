@@ -1,0 +1,410 @@
+{
+  "runTime": 1699611503685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432888,
+        "num": 1432888,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370577,
+        "num": 1322875,
+        "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
+        "onboard_time": 1699607854,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64385,
+        "num": 1222527,
+        "word": "坚持党中央对金融工作的集中统一领导",
+        "onboard_time": 1699602992,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2603654,
+        "num": 1143776,
+        "word": "权志龙除头发外全身脱毛",
+        "onboard_time": 1699607735,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251656,
+        "num": 965911,
+        "word": "新疆农户给苹果做B超测冰糖心",
+        "onboard_time": 1699609234,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936011,
+        "num": 936011,
+        "word": "预制蛋",
+        "onboard_time": 1699609172,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76133,
+        "num": 746614,
+        "word": "重庆高校保安大叔在石墩上作画",
+        "onboard_time": 1699606594,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 630055,
+        "num": 630055,
+        "word": "林志颖披荆斩棘总成绩冠军",
+        "onboard_time": 1699598012,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595080,
+        "num": 595080,
+        "word": "吴艳妮说我真抢跑了又怎么了",
+        "onboard_time": 1699593992,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567071,
+        "num": 567071,
+        "word": "你今天好多了 你今天没那么好",
+        "onboard_time": 1699607554,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1061247,
+        "num": 555107,
+        "word": "韩警方怀疑权志龙销毁证据",
+        "onboard_time": 1699604496,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833884,
+        "num": 527264,
+        "word": "肖战工作室辟谣团队变更",
+        "onboard_time": 1699609654,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492070,
+        "num": 492070,
+        "word": "2023爱奇艺尖叫之夜",
+        "onboard_time": 1699608993,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423491,
+        "num": 423491,
+        "word": "宁安如梦特别鸣谢",
+        "onboard_time": 1699609414,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17906,
+        "num": 394728,
+        "word": "张之臻加盟竞燃之夜",
+        "onboard_time": 1699610431,
+        "rank": 14,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 374171,
+        "num": 374171,
+        "word": "中信银行原行长孙德顺受贿案一审宣判",
+        "onboard_time": 1699608211,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 370812,
+        "num": 370812,
+        "word": "教育部公示8所新大学",
+        "onboard_time": 1699604913,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 370318,
+        "num": 370318,
+        "word": "aespa新歌DRAMA初舞台",
+        "onboard_time": 1699610493,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356474,
+        "num": 356474,
+        "word": "王安宇 水瓶座",
+        "onboard_time": 1699608934,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70841,
+        "num": 354568,
+        "word": "一车看懂中国科技新高度",
+        "onboard_time": 1699609234,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 915662,
+        "num": 354525,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711687,
+        "num": 354396,
+        "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+        "onboard_time": 1699603114,
+        "rank": 21,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 354025,
+        "num": 354025,
+        "word": "陈楚生首位双料冠军",
+        "onboard_time": 1699600472,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289360,
+        "num": 289360,
+        "word": "国色芳华",
+        "onboard_time": 1699609292,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276058,
+        "num": 276058,
+        "word": "迪丽热巴演我嗑cp",
+        "onboard_time": 1699610912,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270603,
+        "num": 270603,
+        "word": "娜扎 颠婆敲木鱼",
+        "onboard_time": 1699605281,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262285,
+        "num": 262285,
+        "word": "时代少年团对接否认耍大牌",
+        "onboard_time": 1699608453,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225926,
+        "num": 225926,
+        "word": "国内唯一满级女教练滑雪场身亡",
+        "onboard_time": 1699584633,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202426,
+        "num": 202426,
+        "word": "石家庄下雪",
+        "onboard_time": 1699608813,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185689,
+        "num": 185689,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1699599632,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 257684,
+        "num": 185517,
+        "word": "宁安如梦 想嗑什么就剪什么",
+        "onboard_time": 1699608333,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204160,
+        "num": 185447,
+        "word": "aespa空降",
+        "onboard_time": 1699596812,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226480,
+        "num": 185400,
+        "word": "宁安如梦贞礼课剧情",
+        "onboard_time": 1699609712,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185318,
+        "num": 185318,
+        "word": "医院里的低成本变美项目",
+        "onboard_time": 1699606415,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 200378,
+        "num": 184304,
+        "word": "虞书欣红色小猫咪",
+        "onboard_time": 1699603592,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 173763,
+        "word": "nobody原来是nobody cares",
+        "onboard_time": 1699592017,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158636,
+        "num": 158636,
+        "word": "敷完面膜后该不该洗脸",
+        "onboard_time": 1699608211,
+        "rank": 36,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 133519,
+        "num": 133519,
+        "word": "花楼 卸任",
+        "onboard_time": 1699601730,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "山东一只8斤重饺子亮相北京",
+        "onboard_time": 1699608934,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100523,
+        "num": 130491,
+        "word": "WBG对战MRC",
+        "onboard_time": 1699604252,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173166,
+        "num": 130485,
+        "word": "今天朋友圈的两批人",
+        "onboard_time": 1699600291,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168264,
+        "num": 130442,
+        "word": "赵露思女团风",
+        "onboard_time": 1699602752,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 130398,
+        "word": "惊喜夜彩排",
+        "onboard_time": 1699609952,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142581,
+        "num": 130370,
+        "word": "我要逆风去楼梯吻",
+        "onboard_time": 1699608155,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141397,
+        "num": 130332,
+        "word": "惊喜夜红毯直播",
+        "onboard_time": 1699611454,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98383,
+        "num": 130319,
+        "word": "留学生称白菜在韩国曾卖到100块1颗",
+        "onboard_time": 1699602092,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96975,
+        "num": 130267,
+        "word": "佳木斯体育馆坍塌11人被采取强制措施",
+        "onboard_time": 1699596812,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83304,
+        "num": 130258,
+        "word": "2023王者世冠KIC大名单",
+        "onboard_time": 1699609112,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77235,
+        "num": 130199,
+        "word": "滑雪女教练给男友拍视频时摔出雪道",
+        "onboard_time": 1699604192,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64391,
+        "num": 130182,
+        "word": "女子怀抱幼儿被困火场众人破窗营救",
+        "onboard_time": 1699611454,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展好互联网让美好生活更值得向往#"
+    }
+  }
+}
