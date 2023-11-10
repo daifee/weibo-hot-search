@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699650897009,
+  "endTime": 1699652053625,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -28603,6 +28603,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 28873,
+      "num": 21591,
+      "word": "成都欢乐谷NPC唐僧非其员工",
+      "onboard_time": 1699645994,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28730,
       "num": 1428092,
       "word": "2023进博会亮点抢先看",
@@ -28625,14 +28633,6 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27621,
-      "num": 20997,
-      "word": "成都欢乐谷NPC唐僧非其员工",
-      "onboard_time": 1699645994,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26279,
@@ -28755,6 +28755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21413,
+      "num": 21413,
+      "word": "以前的古装和现在的古装",
+      "onboard_time": 1699650132,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20675,
       "num": 23844,
       "word": "狗狗邀请主人一起玩时的小碎步",
@@ -28795,6 +28803,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18063,
+      "num": 20411,
+      "word": "俞灏明不愧是舞动奇迹冠军",
+      "onboard_time": 1699649834,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17906,
       "num": 421319,
       "word": "张之臻加盟竞燃之夜",
@@ -28817,14 +28833,6 @@
       "onboard_time": 1699125855,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 17634,
-      "num": 16891,
-      "word": "俞灏明不愧是舞动奇迹冠军",
-      "onboard_time": 1699649834,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 17466,
@@ -28873,14 +28881,6 @@
       "onboard_time": 1699211234,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15290,
-      "num": 16287,
-      "word": "以前的古装和现在的古装",
-      "onboard_time": 1699650132,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 15116,
@@ -28937,6 +28937,14 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11400,
+      "num": 19869,
+      "word": "7架运20排排站大场面来了",
+      "onboard_time": 1699650554,
+      "rank": 48,
+      "category": "军事"
     }
   ],
   "hotgov_list": [

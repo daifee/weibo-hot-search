@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699650897009,
+  "endTime": 1699652053625,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -17267,20 +17267,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 28873,
+      "num": 21591,
+      "word": "成都欢乐谷NPC唐僧非其员工",
+      "onboard_time": 1699645994,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27796,
       "num": 27796,
       "word": "Mark泰容泰民跳了Guilty",
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27621,
-      "num": 20997,
-      "word": "成都欢乐谷NPC唐僧非其员工",
-      "onboard_time": 1699645994,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26090,
@@ -17387,6 +17387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21413,
+      "num": 21413,
+      "word": "以前的古装和现在的古装",
+      "onboard_time": 1699650132,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21309,
       "num": 915057,
       "word": "让看电视更简单消费不套娃",
@@ -17419,6 +17427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18063,
+      "num": 20411,
+      "word": "俞灏明不愧是舞动奇迹冠军",
+      "onboard_time": 1699649834,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17906,
       "num": 421319,
       "word": "张之臻加盟竞燃之夜",
@@ -17441,14 +17457,6 @@
       "onboard_time": 1699125855,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 17634,
-      "num": 16891,
-      "word": "俞灏明不愧是舞动奇迹冠军",
-      "onboard_time": 1699649834,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 17466,
@@ -17499,20 +17507,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15290,
-      "num": 16287,
-      "word": "以前的古装和现在的古装",
-      "onboard_time": 1699650132,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14263,
       "num": 789939,
       "word": "进博之变",
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11400,
+      "num": 19869,
+      "word": "7架运20排排站大场面来了",
+      "onboard_time": 1699650554,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 8351,
