@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699601638146,
+  "endTime": 1699604474698,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -281,6 +281,14 @@
       "onboard_time": 1699449533,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2690657,
+      "num": 364594,
+      "word": "男子奸淫多名农村留守女童被判无期",
+      "onboard_time": 1699602152,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2663793,
@@ -3363,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569933,
+      "num": 569933,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 567571,
       "num": 567571,
       "word": "MAMA阵容",
@@ -3971,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488385,
+      "num": 488385,
+      "word": "花楼 卸任",
+      "onboard_time": 1699601730,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 488243,
       "num": 488243,
       "word": "T1 压力",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1699496014,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434313,
+      "num": 363072,
+      "word": "赵露思女团风",
+      "onboard_time": 1699602752,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 434122,
@@ -5035,6 +5067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 392263,
+      "num": 392263,
+      "word": "白鹿张凌赫亲完导演还不喊咔",
+      "onboard_time": 1699600532,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392202,
       "num": 392202,
       "word": "赵露思王安宇一个抄作业一个查作业",
@@ -5145,6 +5185,14 @@
       "onboard_time": 1699105296,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 382549,
+      "num": 362424,
+      "word": "虞书欣红色小猫咪",
+      "onboard_time": 1699603592,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 382269,
@@ -5395,6 +5443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366508,
+      "num": 366508,
+      "word": "李健 其实你们都高估了我",
+      "onboard_time": 1699601011,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366463,
       "num": 344340,
       "word": "秦海璐对迪丽热巴胡先煦还是太宠了",
@@ -5643,14 +5699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 351680,
-      "num": 351680,
-      "word": "白鹿张凌赫亲完导演还不喊咔",
-      "onboard_time": 1699600532,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 351270,
       "num": 351270,
       "word": "陆毅说经常撸铁会长不高",
@@ -5793,6 +5841,14 @@
       "onboard_time": 1699490802,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344056,
+      "num": 274764,
+      "word": "今天朋友圈的两批人",
+      "onboard_time": 1699600291,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 343348,
@@ -6979,6 +7035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280518,
+      "num": 280518,
+      "word": "留学生称白菜在韩国曾卖到100块1颗",
+      "onboard_time": 1699602092,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280220,
       "num": 280220,
       "word": "龙 你今天吃了20个饺子",
@@ -7153,14 +7217,6 @@
       "onboard_time": 1699598252,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272685,
-      "num": 255301,
-      "word": "今天朋友圈的两批人",
-      "onboard_time": 1699600291,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 272375,
@@ -7441,14 +7497,6 @@
       "onboard_time": 1699144530,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 259866,
-      "num": 259866,
-      "word": "李健 其实你们都高估了我",
-      "onboard_time": 1699601011,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 259624,
@@ -7923,12 +7971,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 244424,
+      "num": 244424,
+      "word": "匪我思存又要开大了",
+      "onboard_time": 1699603234,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243990,
       "num": 206786,
       "word": "6岁美国华裔小女孩用中文请假",
       "onboard_time": 1699247076,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243877,
+      "num": 243877,
+      "word": "张远说不后悔没选陈楚生部落",
+      "onboard_time": 1699604076,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 243534,
@@ -9539,6 +9603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205717,
+      "num": 205717,
+      "word": "关晓彤后半夜秒回消息的原因",
+      "onboard_time": 1699604133,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204992,
       "num": 204992,
       "word": "哈工大暖廊",
@@ -10507,6 +10579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 189661,
+      "num": 189661,
+      "word": "宋轶珍珠流苏裙",
+      "onboard_time": 1699604434,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189636,
       "num": 189636,
       "word": "王曼昱进国家队十周年",
@@ -10963,6 +11043,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180470,
+      "num": 193889,
+      "word": "国乒提前包揽WTT太原站混双冠亚军",
+      "onboard_time": 1699603475,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180383,
+      "num": 180383,
+      "word": "蛋仔派对光遇联动",
+      "onboard_time": 1699602272,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180243,
       "num": 180243,
       "word": "可可莉克",
@@ -11313,6 +11409,14 @@
       "onboard_time": 1699531954,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171997,
+      "num": 171997,
+      "word": "WBG对战MRC",
+      "onboard_time": 1699604252,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 171996,
@@ -12915,6 +13019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141959,
+      "num": 141959,
+      "word": "此时此刻",
+      "onboard_time": 1699604313,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141814,
       "num": 242706,
       "word": "海空卫士王伟的外甥接棒成飞行学员",
@@ -13297,6 +13409,14 @@
       "onboard_time": 1699230755,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133740,
+      "num": 133740,
+      "word": "无价之宝 路演",
+      "onboard_time": 1699603053,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 133671,
@@ -14659,6 +14779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97741,
+      "num": 97741,
+      "word": "滑雪女教练给男友拍视频时摔出雪道",
+      "onboard_time": 1699604192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97442,
       "num": 97442,
       "word": "伊朗总统将前往沙特",
@@ -15251,6 +15379,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 70018,
+      "num": 205134,
+      "word": "中国油混进入4升时代",
+      "onboard_time": 1699603653,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69337,
       "num": 445402,
       "word": "精神分裂患者的世界太痛苦了",
@@ -15459,6 +15595,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 57472,
+      "num": 1037455,
+      "word": "坚持党中央对金融工作的集中统一领导",
+      "onboard_time": 1699602992,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 56908,
       "num": 326574,
       "word": "山东的北京时刻",
@@ -15561,6 +15705,14 @@
       "onboard_time": 1699437634,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48665,
+      "num": 281677,
+      "word": "大白罐双11拼单",
+      "onboard_time": 1699603653,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 48185,

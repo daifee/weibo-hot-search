@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699601638146,
+  "endTime": 1699604474698,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -17,6 +17,14 @@
       "onboard_time": 1699593992,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2690657,
+      "num": 364594,
+      "word": "男子奸淫多名农村留守女童被判无期",
+      "onboard_time": 1699602152,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2491896,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569933,
+      "num": 569933,
+      "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+      "onboard_time": 1699603114,
+      "rank": 5,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 562074,
       "num": 562074,
       "word": "丫丫在吃和玩之间选择了吃",
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488385,
+      "num": 488385,
+      "word": "花楼 卸任",
+      "onboard_time": 1699601730,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 483657,
       "num": 483657,
       "word": "乳腺癌已为全球第一大癌",
@@ -425,6 +449,14 @@
       "onboard_time": 1699588833,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434313,
+      "num": 363072,
+      "word": "赵露思女团风",
+      "onboard_time": 1699602752,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 424647,
@@ -475,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 392263,
+      "num": 392263,
+      "word": "白鹿张凌赫亲完导演还不喊咔",
+      "onboard_time": 1699600532,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391166,
       "num": 391166,
       "word": "以爱为营提档",
@@ -489,6 +529,14 @@
       "onboard_time": 1699533814,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382549,
+      "num": 362424,
+      "word": "虞书欣红色小猫咪",
+      "onboard_time": 1699603592,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 376958,
@@ -539,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366508,
+      "num": 366508,
+      "word": "李健 其实你们都高估了我",
+      "onboard_time": 1699601011,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365643,
       "num": 365643,
       "word": "江宏杰与炎亚纶经纪人签约",
@@ -571,20 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351680,
-      "num": 351680,
-      "word": "白鹿张凌赫亲完导演还不喊咔",
-      "onboard_time": 1699600532,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349623,
       "num": 349623,
       "word": "综艺纣王",
       "onboard_time": 1699573951,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344056,
+      "num": 274764,
+      "word": "今天朋友圈的两批人",
+      "onboard_time": 1699600291,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 343348,
@@ -771,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280518,
+      "num": 280518,
+      "word": "留学生称白菜在韩国曾卖到100块1颗",
+      "onboard_time": 1699602092,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278392,
       "num": 278392,
       "word": "王诗晴 我们能不能不过了",
@@ -803,28 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272685,
-      "num": 255301,
-      "word": "今天朋友圈的两批人",
-      "onboard_time": 1699600291,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264024,
       "num": 264024,
       "word": "深圳龙华警方通报男子在广场附近持刀伤人",
       "onboard_time": 1699572687,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259866,
-      "num": 259866,
-      "word": "李健 其实你们都高估了我",
-      "onboard_time": 1699601011,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 257405,
@@ -881,6 +929,22 @@
       "onboard_time": 1699575875,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244424,
+      "num": 244424,
+      "word": "匪我思存又要开大了",
+      "onboard_time": 1699603234,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243877,
+      "num": 243877,
+      "word": "张远说不后悔没选陈楚生部落",
+      "onboard_time": 1699604076,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 239836,
@@ -1043,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205717,
+      "num": 205717,
+      "word": "关晓彤后半夜秒回消息的原因",
+      "onboard_time": 1699604133,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "我甚至愿意花五块买下它",
@@ -1139,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189661,
+      "num": 189661,
+      "word": "宋轶珍珠流苏裙",
+      "onboard_time": 1699604434,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189611,
       "num": 189611,
       "word": "林诗栋蒯曼逆转进四强",
@@ -1169,6 +1249,22 @@
       "onboard_time": 1699597355,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180470,
+      "num": 193889,
+      "word": "国乒提前包揽WTT太原站混双冠亚军",
+      "onboard_time": 1699603475,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180383,
+      "num": 180383,
+      "word": "蛋仔派对光遇联动",
+      "onboard_time": 1699602272,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 180087,
@@ -1209,6 +1305,14 @@
       "onboard_time": 1699582710,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171997,
+      "num": 171997,
+      "word": "WBG对战MRC",
+      "onboard_time": 1699604252,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 171748,
@@ -1387,6 +1491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141959,
+      "num": 141959,
+      "word": "此时此刻",
+      "onboard_time": 1699604313,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141055,
       "num": 141055,
       "word": "人民空军成立74周年",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1699596154,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133740,
+      "num": 133740,
+      "word": "无价之宝 路演",
+      "onboard_time": 1699603053,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 133144,
@@ -1611,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97741,
+      "num": 97741,
+      "word": "滑雪女教练给男友拍视频时摔出雪道",
+      "onboard_time": 1699604192,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97037,
       "num": 97037,
       "word": "遗失手机飞了1300多公里被成功找回",
@@ -1723,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70018,
+      "num": 205134,
+      "word": "中国油混进入4升时代",
+      "onboard_time": 1699603653,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68616,
       "num": 87981,
       "word": "风起西州捧脸吻",
@@ -1753,6 +1889,14 @@
       "onboard_time": 1699537114,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57472,
+      "num": 1037455,
+      "word": "坚持党中央对金融工作的集中统一领导",
+      "onboard_time": 1699602992,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 56908,
@@ -1793,6 +1937,14 @@
       "onboard_time": 1699533451,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48665,
+      "num": 281677,
+      "word": "大白罐双11拼单",
+      "onboard_time": 1699603653,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 44123,
