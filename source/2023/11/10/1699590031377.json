@@ -1,0 +1,410 @@
+{
+  "runTime": 1699590031377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2280092,
+        "num": 2280092,
+        "word": "国内唯一满级女教练滑雪场身亡",
+        "onboard_time": 1699584633,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872438,
+        "num": 872438,
+        "word": "医生提醒不要皮肤一干就敷面膜",
+        "onboard_time": 1699585412,
+        "rank": 1,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 15468,
+        "num": 685837,
+        "word": "未成年人网络素养提升片来啦",
+        "onboard_time": 1699589795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677630,
+        "num": 677630,
+        "word": "苏醒晒0713聊天记录",
+        "onboard_time": 1699587812,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652157,
+        "num": 652157,
+        "word": "少爷和我杀青",
+        "onboard_time": 1699586312,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612283,
+        "num": 612283,
+        "word": "微信支付与三大运营商条码支付互联互通",
+        "onboard_time": 1699587932,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 609124,
+        "num": 609124,
+        "word": "宋亚轩玩八小时手机都不回沈腾微信",
+        "onboard_time": 1699575274,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570363,
+        "num": 570363,
+        "word": "披荆斩棘3总决赛",
+        "onboard_time": 1699587211,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424370,
+        "num": 558831,
+        "word": "美国首次发现吸血鬼病毒",
+        "onboard_time": 1699544253,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337191,
+        "num": 547968,
+        "word": "中方就菲律宾非法侵闯仁爱礁发表谈话",
+        "onboard_time": 1699587156,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 81959,
+        "num": 536649,
+        "word": "王鹤棣给的宠溺",
+        "onboard_time": 1699587333,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752042,
+        "num": 521174,
+        "word": "苏州毒地居民称小区房价已暴跌",
+        "onboard_time": 1699582893,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518817,
+        "num": 518817,
+        "word": "徐穗珍暂时不会在韩国活动",
+        "onboard_time": 1699589375,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501786,
+        "num": 501786,
+        "word": "aespa回归",
+        "onboard_time": 1699589616,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 487832,
+        "word": "竞燃之夜阵容官宣",
+        "onboard_time": 1699588833,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483657,
+        "num": 483657,
+        "word": "乳腺癌已为全球第一大癌",
+        "onboard_time": 1699586553,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 465304,
+        "num": 465304,
+        "word": "想亲就亲啊还要打什么赌",
+        "onboard_time": 1699575335,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375458,
+        "num": 375458,
+        "word": "女子在李佳琦直播间买到空瓶雅诗兰黛",
+        "onboard_time": 1699575214,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 354929,
+        "num": 354929,
+        "word": "以爱为营宁安如梦 歹毒联动",
+        "onboard_time": 1699588833,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333012,
+        "num": 333012,
+        "word": "学生状告老师剽窃科研成果案终审胜诉",
+        "onboard_time": 1699585774,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326160,
+        "num": 326160,
+        "word": "为什么人们不爱喝一点点了",
+        "onboard_time": 1699582893,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311115,
+        "num": 311115,
+        "word": "男子进账1132万直冲派出所",
+        "onboard_time": 1699571004,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295412,
+        "num": 295412,
+        "word": "流行病学研究中山二院患癌率",
+        "onboard_time": 1699586192,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293898,
+        "num": 293898,
+        "word": "丫丫在吃和玩之间选择了吃",
+        "onboard_time": 1699581631,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274204,
+        "num": 274204,
+        "word": "洛基结局",
+        "onboard_time": 1699588833,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251006,
+        "num": 251006,
+        "word": "安徽大哥5000斤红薯被浙江人买光",
+        "onboard_time": 1699587689,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240003,
+        "num": 240003,
+        "word": "林俊杰 南京小奇迹",
+        "onboard_time": 1699588896,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235991,
+        "num": 235991,
+        "word": "孙俪陶昕然贴贴",
+        "onboard_time": 1699589672,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203638,
+        "num": 203638,
+        "word": "娜扎陈都灵同款不同美",
+        "onboard_time": 1699584930,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195853,
+        "num": 195853,
+        "word": "拼多多治好了我的双11焦虑",
+        "onboard_time": 1699530332,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215538,
+        "num": 195843,
+        "word": "卡琳娜未要求对仲尼尸检",
+        "onboard_time": 1699529733,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 21712,
+        "num": 195340,
+        "word": "乌镇峰会10年之约",
+        "onboard_time": 1699589434,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194951,
+        "num": 194951,
+        "word": "民警鼓励献血31次的外卖小哥考辅警",
+        "onboard_time": 1699578275,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 182817,
+        "num": 182817,
+        "word": "海王2内地定档",
+        "onboard_time": 1699585532,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180763,
+        "num": 180763,
+        "word": "我国首次发现23个长新冠标志物",
+        "onboard_time": 1699577316,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171759,
+        "num": 171759,
+        "word": "周深演唱宁安如梦主题曲借梦",
+        "onboard_time": 1699589974,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171748,
+        "num": 171748,
+        "word": "无价之宝今日上映",
+        "onboard_time": 1699588715,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168563,
+        "num": 168563,
+        "word": "离职过于开心走不出公司门",
+        "onboard_time": 1699589914,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165748,
+        "num": 165748,
+        "word": "好担心卡琳娜",
+        "onboard_time": 1699579234,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163793,
+        "num": 163793,
+        "word": "宋茜麻花辫双丸子头",
+        "onboard_time": 1699588174,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 163022,
+        "num": 163022,
+        "word": "美香一家刚回国就被排队投喂",
+        "onboard_time": 1699572687,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159945,
+        "num": 159945,
+        "word": "张庭老公直播号召代理做好人传人",
+        "onboard_time": 1699581753,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157763,
+        "num": 157763,
+        "word": "恶魔法则走进现实是什么体验",
+        "onboard_time": 1699589616,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152123,
+        "num": 152123,
+        "word": "宁安如梦 剧本杀",
+        "onboard_time": 1699582292,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148550,
+        "num": 148550,
+        "word": "五月天巡演上海站歌单",
+        "onboard_time": 1699583371,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147030,
+        "num": 147030,
+        "word": "papi酱孙怡仿佛看的不是同一段素材",
+        "onboard_time": 1699575515,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138174,
+        "num": 138174,
+        "word": "中国城市居民房地产债务占家庭收入137.9%",
+        "onboard_time": 1699583792,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132456,
+        "num": 132456,
+        "word": "辛芷蕾当赵昭仪面说她坏话",
+        "onboard_time": 1699578215,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128297,
+        "num": 128297,
+        "word": "三分之二国土需羽绒服护体",
+        "onboard_time": 1699585053,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114028,
+        "num": 126594,
+        "word": "王彦霖一点活都不让老婆干",
+        "onboard_time": 1699582953,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展好互联网让美好生活更值得向往#"
+    }
+  }
+}
