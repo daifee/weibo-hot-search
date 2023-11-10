@@ -1,0 +1,410 @@
+{
+  "runTime": 1699630472409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2602364,
+        "num": 2602364,
+        "word": "宋茜 梦回Victoria",
+        "onboard_time": 1699624294,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1261487,
+        "num": 1261487,
+        "word": "终于等到成毅唱一壶莲花醉",
+        "onboard_time": 1699628498,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9883,
+        "num": 1247562,
+        "word": "乌镇网事",
+        "onboard_time": 1699361194,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1345884,
+        "num": 1246842,
+        "word": "秦岚辛芷蕾是官宣的意思吗",
+        "onboard_time": 1699627894,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1238286,
+        "num": 1238286,
+        "word": "迪丽热巴凌晨4点未发出的信息",
+        "onboard_time": 1699627054,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1283932,
+        "num": 1133937,
+        "word": "谢娜 我回家了",
+        "onboard_time": 1699617449,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582313,
+        "num": 582313,
+        "word": "一点点否认倒闭",
+        "onboard_time": 1699627176,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 560788,
+        "num": 560788,
+        "word": "老人烤红薯摊被撞翻一群人涌了上来",
+        "onboard_time": 1699626453,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447750,
+        "num": 447750,
+        "word": "山东下雪",
+        "onboard_time": 1699627054,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425188,
+        "num": 425188,
+        "word": "父母每月寄10斤日用品给00后儿子",
+        "onboard_time": 1699620639,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130227,
+        "num": 398897,
+        "word": "王心凌在河南冻成了王心淩",
+        "onboard_time": 1699627356,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1089804,
+        "num": 375115,
+        "word": "贵州一公职人员驾车撞死一对中年夫妇",
+        "onboard_time": 1699625316,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014868,
+        "num": 329395,
+        "word": "苏有朋林志颖 小鱼儿与花无缺",
+        "onboard_time": 1699627295,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930329,
+        "num": 311178,
+        "word": "蔡国庆唱易烊千玺的My boo",
+        "onboard_time": 1699619368,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290809,
+        "num": 290809,
+        "word": "初雪",
+        "onboard_time": 1699629398,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772397,
+        "num": 289183,
+        "word": "秦岚嗓子好了吗",
+        "onboard_time": 1699627655,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753544,
+        "num": 287354,
+        "word": "大张伟把我的乳腺唱通了",
+        "onboard_time": 1699618529,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270675,
+        "num": 270675,
+        "word": "大连涉事小吃街疑因B太打假拉闸关灯",
+        "onboard_time": 1699623511,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73738,
+        "num": 241550,
+        "word": "梁朝伟的选择",
+        "onboard_time": 1699627295,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 233654,
+        "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
+        "onboard_time": 1699615230,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513745,
+        "num": 233645,
+        "word": "还得是凤凰传奇",
+        "onboard_time": 1699624052,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376314,
+        "num": 233636,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175767,
+        "num": 233633,
+        "word": "可以穿羽绒服了",
+        "onboard_time": 1699623511,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158531,
+        "num": 233626,
+        "word": "你喝的星巴克可能是假的",
+        "onboard_time": 1699618891,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151488,
+        "num": 233616,
+        "word": "河南下雪",
+        "onboard_time": 1699621955,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509467,
+        "num": 233597,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484421,
+        "num": 233589,
+        "word": "华晨宇一个月才回吴彤微信",
+        "onboard_time": 1699627176,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463592,
+        "num": 233584,
+        "word": "双11惊喜夜",
+        "onboard_time": 1699614454,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123718,
+        "num": 233570,
+        "word": "为什么是买东西不是买南北",
+        "onboard_time": 1699625615,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118352,
+        "num": 233562,
+        "word": "一点点",
+        "onboard_time": 1699612112,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 425965,
+        "num": 233558,
+        "word": "以爱为营 断更",
+        "onboard_time": 1699619614,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380603,
+        "num": 233549,
+        "word": "丞磊这不挺会唱的",
+        "onboard_time": 1699621174,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328388,
+        "num": 233532,
+        "word": "9位乳腺癌患者自述早期症状",
+        "onboard_time": 1699629756,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326689,
+        "num": 233529,
+        "word": "关晓彤 主持",
+        "onboard_time": 1699620695,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112361,
+        "num": 233518,
+        "word": "老人被假外孙骗20万民警2小时追回",
+        "onboard_time": 1699625556,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305533,
+        "num": 233511,
+        "word": "对着周华健唱我喜欢你",
+        "onboard_time": 1699617811,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288788,
+        "num": 233492,
+        "word": "双11惊喜夜节目单",
+        "onboard_time": 1699622974,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348300,
+        "num": 233485,
+        "word": "女生深夜约会9楼爬窗坠下被卡身亡",
+        "onboard_time": 1699623872,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103055,
+        "num": 233481,
+        "word": "王楚钦呼吁文明观赛",
+        "onboard_time": 1699620394,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94154,
+        "num": 233465,
+        "word": "恋与深空尺度",
+        "onboard_time": 1699617989,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282864,
+        "num": 233461,
+        "word": "姐姐真漂亮",
+        "onboard_time": 1699625377,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282577,
+        "num": 233449,
+        "word": "双11惊喜夜成毅彩排视频",
+        "onboard_time": 1699614454,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250210,
+        "num": 233441,
+        "word": "何炅谢娜同台主持",
+        "onboard_time": 1699617090,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233434,
+        "num": 233434,
+        "word": "很难想象沈腾能提供多少情绪价值",
+        "onboard_time": 1699630356,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90314,
+        "num": 233413,
+        "word": "三胞胎妈妈子宫壁仅1.2毫米",
+        "onboard_time": 1699613851,
+        "rank": 44,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 87032,
+        "num": 233363,
+        "word": "你常喝一点点奶茶吗",
+        "onboard_time": 1699627773,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77656,
+        "num": 233326,
+        "word": "一次山东行一生山东情",
+        "onboard_time": 1699630174,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 77475,
+        "num": 233298,
+        "word": "嗓子哑以为是感冒结果是肺癌",
+        "onboard_time": 1699611811,
+        "rank": 47,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 74080,
+        "num": 233259,
+        "word": "阿维塔",
+        "onboard_time": 1699618231,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72914,
+        "num": 233226,
+        "word": "林孝埈 月亮不会奔你而来",
+        "onboard_time": 1699616190,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将赴美国举行中美元首会晤#"
+    }
+  }
+}
