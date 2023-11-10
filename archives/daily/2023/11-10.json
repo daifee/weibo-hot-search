@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699586282141,
+  "endTime": 1699587277976,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -19,8 +19,8 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 2012373,
-      "num": 2012373,
+      "raw_hot": 2361808,
+      "num": 2361808,
       "word": "国内唯一满级女教练滑雪场身亡",
       "onboard_time": 1699584633,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1055453,
-      "num": 185044,
+      "num": 196987,
       "word": "卡琳娜未要求对仲尼尸检",
       "onboard_time": 1699529733,
       "rank": 30,
@@ -89,6 +89,14 @@
       "onboard_time": 1699577316,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 953025,
+      "num": 953025,
+      "word": "少爷和我杀青",
+      "onboard_time": 1699586312,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 912200,
@@ -155,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623734,
+      "raw_hot": 645380,
       "num": 623734,
       "word": "苏州毒地居民称小区房价已暴跌",
       "onboard_time": 1699582893,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419620,
+      "num": 419620,
+      "word": "流行病学研究中山二院患癌率",
+      "onboard_time": 1699586192,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403766,
       "num": 403766,
       "word": "iPhone15Pro支持录制空间视频",
@@ -267,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369962,
+      "num": 369962,
+      "word": "又一位慰安妇制度受害者离世",
+      "onboard_time": 1699584930,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369514,
       "num": 137422,
       "word": "王安宇相机",
       "onboard_time": 1699548386,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368502,
+      "num": 368502,
+      "word": "医生提醒不要皮肤一干就敷面膜",
+      "onboard_time": 1699585412,
+      "rank": 27,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 365643,
@@ -315,16 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331359,
-      "num": 331359,
-      "word": "又一位慰安妇制度受害者离世",
-      "onboard_time": 1699584930,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329853,
-      "num": 329853,
+      "raw_hot": 330915,
+      "num": 330915,
       "word": "海王2内地定档",
       "onboard_time": 1699585532,
       "rank": 11,
@@ -363,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 298782,
+      "num": 298782,
+      "word": "学生状告老师剽窃科研成果案终审胜诉",
+      "onboard_time": 1699585774,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297116,
       "num": 297116,
       "word": "五月天巡演上海站歌单",
@@ -387,6 +419,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289708,
+      "num": 289708,
+      "word": "乳腺癌已为全球第一大癌",
+      "onboard_time": 1699586553,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 286646,
+      "num": 286646,
+      "word": "为什么人们不爱喝一点点了",
+      "onboard_time": 1699582893,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285481,
       "num": 285481,
       "word": "披荆斩棘3总决赛开播海报",
@@ -403,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273635,
-      "num": 249956,
-      "word": "为什么人们不爱喝一点点了",
-      "onboard_time": 1699582893,
+      "raw_hot": 274801,
+      "num": 274801,
+      "word": "摇光录钟无相",
+      "onboard_time": 1699585831,
       "rank": 24,
-      "category": "美食"
+      "category": "游戏"
     },
     {
       "raw_hot": 264024,
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224585,
+      "num": 224585,
+      "word": "娜扎陈都灵同款不同美",
+      "onboard_time": 1699584930,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 221913,
       "num": 181003,
       "word": "韩男子被机器人误当箱子放入传送带压死",
@@ -483,28 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221834,
-      "num": 221834,
-      "word": "摇光录钟无相",
-      "onboard_time": 1699585831,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221710,
       "num": 221710,
       "word": "花少 情绪价值",
       "onboard_time": 1699578393,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220370,
-      "num": 220370,
-      "word": "娜扎陈都灵同款不同美",
-      "onboard_time": 1699584930,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 216122,
@@ -539,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202077,
-      "num": 202077,
-      "word": "医生提醒不要皮肤一干就敷面膜",
-      "onboard_time": 1699585412,
-      "rank": 27,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "我甚至愿意花五块买下它",
@@ -561,6 +593,14 @@
       "onboard_time": 1699530212,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195334,
+      "num": 195334,
+      "word": "照明商店生存指南预告",
+      "onboard_time": 1699586675,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 194505,
@@ -609,6 +649,14 @@
       "onboard_time": 1699583132,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183426,
+      "num": 337197,
+      "word": "拼多多治好了我的双11焦虑",
+      "onboard_time": 1699530332,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 180087,
@@ -699,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159548,
-      "num": 159548,
-      "word": "学生状告老师剽窃科研成果案终审胜诉",
-      "onboard_time": 1699585774,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154086,
       "num": 154086,
       "word": "RNG队员为Wei庆生",
@@ -755,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137403,
+      "num": 137403,
+      "word": "进击的巨人这个手办有点越界了",
+      "onboard_time": 1699583311,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 134897,
       "num": 134897,
       "word": "杨幂暗夜星河长裙",
@@ -795,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125323,
-      "num": 125323,
-      "word": "进击的巨人这个手办有点越界了",
-      "onboard_time": 1699583311,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 124475,
       "num": 124475,
       "word": "苏钢集团否认隐瞒土壤污染风险",
@@ -819,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122837,
-      "num": 122837,
-      "word": "流行病学研究中山二院患癌率",
-      "onboard_time": 1699586192,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121846,
       "num": 121846,
       "word": "宋雨琦回复郑恺",
@@ -841,6 +873,14 @@
       "onboard_time": 1699555336,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118685,
+      "num": 118685,
+      "word": "披荆斩棘3总决赛",
+      "onboard_time": 1699587211,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 113631,
@@ -865,6 +905,14 @@
       "onboard_time": 1699511553,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111594,
+      "num": 111594,
+      "word": "中方就菲律宾非法侵闯仁爱礁发表谈话",
+      "onboard_time": 1699587156,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 107210,
@@ -953,14 +1001,6 @@
       "onboard_time": 1699533570,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91475,
-      "num": 287031,
-      "word": "拼多多治好了我的双11焦虑",
-      "onboard_time": 1699530332,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 83452,
