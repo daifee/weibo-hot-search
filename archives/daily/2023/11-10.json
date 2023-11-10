@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699597349003,
+  "endTime": 1699598119783,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2810104,
+      "num": 805894,
+      "word": "吴艳妮说我真抢跑了又怎么了",
+      "onboard_time": 1699593992,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2491896,
       "num": 2491896,
       "word": "女子在李佳琦直播间买到空瓶雅诗兰黛",
       "onboard_time": 1699575214,
       "rank": 0,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 2462030,
-      "num": 786163,
-      "word": "吴艳妮说我真抢跑了又怎么了",
-      "onboard_time": 1699593992,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 2361808,
@@ -48,6 +48,14 @@
       "word": "美香一家抵达成都",
       "onboard_time": 1699544253,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1580148,
+      "num": 1580148,
+      "word": "佳木斯体育馆坍塌11人被采取强制措施",
+      "onboard_time": 1699596812,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 968757,
-      "num": 415470,
+      "num": 421010,
       "word": "难听",
       "onboard_time": 1699593693,
       "rank": 11,
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 775047,
-      "num": 775047,
-      "word": "佳木斯体育馆坍塌11人被采取强制措施",
-      "onboard_time": 1699596812,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756040,
       "num": 165610,
       "word": "仲尼死亡原因",
@@ -272,6 +272,14 @@
       "word": "苏醒晒0713聊天记录",
       "onboard_time": 1699587812,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 639957,
+      "num": 639957,
+      "word": "林志颖披荆斩棘总成绩冠军",
+      "onboard_time": 1699598012,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -379,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 470132,
+      "num": 470132,
+      "word": "张栋梁披荆斩棘逆天改命",
+      "onboard_time": 1699596693,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439297,
       "num": 439297,
       "word": "以爱为营宁安如梦 歹毒联动",
@@ -401,6 +417,14 @@
       "onboard_time": 1699586192,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414173,
+      "num": 414173,
+      "word": "aespa空降",
+      "onboard_time": 1699596812,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 412272,
@@ -571,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 315512,
-      "num": 315512,
-      "word": "aespa空降",
-      "onboard_time": 1699596812,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 313902,
       "num": 313902,
       "word": "王安宇在花少打了几份工",
@@ -601,6 +617,14 @@
       "onboard_time": 1699532014,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311822,
+      "num": 311822,
+      "word": "白鹿cue了牛奶皮肤白梦妍",
+      "onboard_time": 1699596875,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 311466,
@@ -667,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285942,
+      "num": 250527,
+      "word": "陈楚生XLeader",
+      "onboard_time": 1699596213,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285481,
       "num": 285481,
       "word": "披荆斩棘3总决赛开播海报",
@@ -697,14 +729,6 @@
       "onboard_time": 1699585831,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270007,
-      "num": 270007,
-      "word": "张栋梁披荆斩棘逆天改命",
-      "onboard_time": 1699596693,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 264024,
@@ -739,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250527,
-      "num": 250527,
-      "word": "陈楚生XLeader",
-      "onboard_time": 1699596213,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "邓为 DIOR",
@@ -779,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 238167,
+      "num": 238167,
+      "word": "水谷隼沉迷炒股亏了东京一套房",
+      "onboard_time": 1699597474,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232873,
       "num": 232873,
       "word": "关智斌 没有成团但不遗憾",
@@ -787,15 +811,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231224,
-      "num": 231224,
-      "word": "云南媒体还原迟夙生律师在法院突发疾病全程",
-      "onboard_time": 1699585711,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228902,
+      "raw_hot": 231910,
       "num": 228902,
       "word": "drama",
       "onboard_time": 1699596394,
@@ -803,12 +819,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228690,
-      "num": 228690,
-      "word": "白鹿cue了牛奶皮肤白梦妍",
-      "onboard_time": 1699596875,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 231224,
+      "num": 231224,
+      "word": "云南媒体还原迟夙生律师在法院突发疾病全程",
+      "onboard_time": 1699585711,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224585,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182833,
+      "num": 155617,
+      "word": "金旼炡太会扭了",
+      "onboard_time": 1699597355,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180087,
       "num": 180087,
       "word": "洗头后到底该吹干还是风干",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1699593933,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169736,
+      "num": 169736,
+      "word": "男子梦中醒来手上多了副手铐",
+      "onboard_time": 1699594655,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169552,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1699593034,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159554,
-      "num": 159554,
-      "word": "男子梦中醒来手上多了副手铐",
-      "onboard_time": 1699594655,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157763,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1699533570,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91187,
+      "num": 110443,
+      "word": "艾莎公主背后是最爱她的国王",
+      "onboard_time": 1699598073,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83452,
