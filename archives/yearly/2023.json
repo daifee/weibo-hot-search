@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1699620530684,
+  "endTime": 1699622439449,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 9446326,
+      "num": 9446326,
+      "word": "谢娜 我回家了",
+      "onboard_time": 1699617449,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9440198,
       "num": 9440198,
       "word": "T1晋级S13四强",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1690261661,
       "rank": 10,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 8529490,
-      "num": 8529490,
-      "word": "谢娜 我回家了",
-      "onboard_time": 1699617449,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 8499613,

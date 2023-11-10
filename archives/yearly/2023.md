@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/10 20:48:50
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/10 21:20:39
 </p>
 </blockquote>
 <p>
@@ -879,6 +879,12 @@ SpaceX星舰发射失败（热度：9840962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
+谢娜 我回家了（热度：9446326）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23" target="weibo">
 T1晋级S13四强（热度：9440198）
 </a>
@@ -1175,12 +1181,6 @@ TFBOYS演唱会官宣（热度：9361784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E7%8A%AF%E5%BC%BA%E5%A5%B8%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%23" target="weibo">
 吴亦凡犯强奸聚众淫乱二审开庭（热度：8531257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E6%88%91%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
-谢娜 我回家了（热度：8529490）
 </a>
 </li>
 
