@@ -1,6 +1,6 @@
 {
   "startTime": 1699546956586,
-  "endTime": 1699578804901,
+  "endTime": 1699580056219,
   "band_list": [
     {
       "raw_hot": 3053487,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959541,
+      "num": 959541,
+      "word": "我国首次发现23个长新冠标志物",
+      "onboard_time": 1699577316,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 912200,
       "num": 912200,
       "word": "印度和巴基斯坦再次交火",
@@ -75,12 +83,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 833662,
-      "num": 833662,
-      "word": "我国首次发现23个长新冠标志物",
-      "onboard_time": 1699577316,
-      "rank": 6,
-      "category": "健康医疗"
+      "raw_hot": 779829,
+      "num": 779829,
+      "word": "papi酱孙怡仿佛看的不是同一段素材",
+      "onboard_time": 1699575515,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 775576,
@@ -115,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 721603,
-      "num": 721603,
-      "word": "papi酱孙怡仿佛看的不是同一段素材",
-      "onboard_time": 1699575515,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 689631,
       "num": 689631,
       "word": "巨大压力下的小学老师生存现状",
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542179,
+      "num": 542179,
+      "word": "想亲就亲啊还要打什么赌",
+      "onboard_time": 1699575335,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520233,
       "num": 520233,
       "word": "加沙一儿童医院遭炮击一名儿童断氧死亡",
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485037,
-      "num": 185356,
+      "raw_hot": 495009,
+      "num": 452891,
       "word": "辛芷蕾当赵昭仪面说她坏话",
       "onboard_time": 1699578215,
       "rank": 30,
       "category": "综艺"
     },
     {
-      "raw_hot": 425509,
-      "num": 425509,
-      "word": "想亲就亲啊还要打什么赌",
-      "onboard_time": 1699575335,
+      "raw_hot": 424647,
+      "num": 424647,
+      "word": "男子结婚6年拒与妻子发生性关系",
+      "onboard_time": 1699579835,
       "rank": 13,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403766,
@@ -235,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346461,
-      "num": 346461,
+      "raw_hot": 349623,
+      "num": 349623,
       "word": "综艺纣王",
       "onboard_time": 1699573951,
       "rank": 18,
@@ -273,6 +281,22 @@
       "onboard_time": 1699542094,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 307862,
+      "num": 307862,
+      "word": "民警鼓励献血31次的外卖小哥考辅警",
+      "onboard_time": 1699578275,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 295381,
+      "num": 295381,
+      "word": "上班第一天同事治好了我的身材焦虑",
+      "onboard_time": 1699578752,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278392,
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221710,
+      "num": 221710,
+      "word": "花少 情绪价值",
+      "onboard_time": 1699578393,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216122,
       "num": 216122,
       "word": "高三女孩跳河2男子划桨板1分钟救回",
@@ -345,6 +377,14 @@
       "onboard_time": 1699573350,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205956,
+      "num": 205956,
+      "word": "张钧甯拍追缉手掌骨裂",
+      "onboard_time": 1699578935,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 198528,
@@ -363,20 +403,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195391,
+      "num": 168805,
+      "word": "好担心卡琳娜",
+      "onboard_time": 1699579234,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 194505,
       "num": 194505,
       "word": "宁安如梦 台词难受",
       "onboard_time": 1699527334,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191141,
-      "num": 191141,
-      "word": "花少 情绪价值",
-      "onboard_time": 1699578393,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 190897,
@@ -419,14 +459,6 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 161329,
-      "num": 161329,
-      "word": "民警鼓励献血31次的外卖小哥考辅警",
-      "onboard_time": 1699578275,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 154086,
       "num": 154086,
       "word": "RNG队员为Wei庆生",
@@ -443,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136627,
+      "num": 136627,
+      "word": "薛之谦你是还没睡觉吗",
+      "onboard_time": 1699579413,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134897,
       "num": 134897,
       "word": "杨幂暗夜星河长裙",
@@ -456,14 +496,6 @@
       "word": "美香一家专机进入中国领空",
       "onboard_time": 1699544912,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131105,
-      "num": 131105,
-      "word": "上班第一天同事治好了我的身材焦虑",
-      "onboard_time": 1699578752,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -499,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117027,
+      "num": 117027,
+      "word": "学青会吴艳妮夺金",
+      "onboard_time": 1699579954,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113631,
       "num": 113631,
       "word": "宁安如梦爱奇艺热度值破9500",
@@ -521,6 +561,14 @@
       "onboard_time": 1699511553,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110763,
+      "num": 110763,
+      "word": "姜雪宁自刎花絮",
+      "onboard_time": 1699579114,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107210,
