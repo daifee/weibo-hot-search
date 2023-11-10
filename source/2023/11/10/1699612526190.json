@@ -1,0 +1,410 @@
+{
+  "runTime": 1699612526190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1322008,
+        "num": 1322008,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397475,
+        "num": 1306801,
+        "word": "婚车路过幼儿园萌娃组团祝贺领喜糖",
+        "onboard_time": 1699607854,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60866,
+        "num": 1277263,
+        "word": "坚持党中央对金融工作的集中统一领导",
+        "onboard_time": 1699602992,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2524768,
+        "num": 1256199,
+        "word": "权志龙除头发外全身脱毛",
+        "onboard_time": 1699607735,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237401,
+        "num": 1228867,
+        "word": "新疆农户给苹果做B超测冰糖心",
+        "onboard_time": 1699609234,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218099,
+        "num": 1218099,
+        "word": "预制蛋",
+        "onboard_time": 1699609172,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93053,
+        "num": 894409,
+        "word": "重庆高校保安大叔在石墩上作画",
+        "onboard_time": 1699606594,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 774410,
+        "num": 774410,
+        "word": "你今天好多了 你今天没那么好",
+        "onboard_time": 1699607554,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654724,
+        "num": 654724,
+        "word": "林志颖披荆斩棘总成绩冠军",
+        "onboard_time": 1699598012,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568004,
+        "num": 568004,
+        "word": "吴艳妮说我真抢跑了又怎么了",
+        "onboard_time": 1699593992,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 722335,
+        "num": 563452,
+        "word": "肖战工作室辟谣团队变更",
+        "onboard_time": 1699609654,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673187,
+        "num": 562247,
+        "word": "韩警方怀疑权志龙销毁证据",
+        "onboard_time": 1699604496,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475223,
+        "num": 475223,
+        "word": "2023爱奇艺尖叫之夜",
+        "onboard_time": 1699608993,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473020,
+        "num": 473020,
+        "word": "时代少年团宋茜合作舞台姐姐真漂亮",
+        "onboard_time": 1699611873,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17384,
+        "num": 421319,
+        "word": "张之臻加盟竞燃之夜",
+        "onboard_time": 1699610431,
+        "rank": 14,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 402437,
+        "num": 402437,
+        "word": "宁安如梦特别鸣谢",
+        "onboard_time": 1699609414,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392413,
+        "num": 392413,
+        "word": "王安宇 水瓶座",
+        "onboard_time": 1699608934,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305800,
+        "num": 305800,
+        "word": "中信银行原行长孙德顺受贿案一审宣判",
+        "onboard_time": 1699608211,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 298548,
+        "num": 298548,
+        "word": "教育部公示8所新大学",
+        "onboard_time": 1699604913,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273713,
+        "num": 273713,
+        "word": "嗓子哑以为是感冒结果是肺癌",
+        "onboard_time": 1699611811,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 974111,
+        "num": 268855,
+        "word": "男子奸淫多名农村留守女童被判无期",
+        "onboard_time": 1699602152,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542525,
+        "num": 259858,
+        "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
+        "onboard_time": 1699603114,
+        "rank": 21,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 387054,
+        "num": 250624,
+        "word": "aespa新歌DRAMA初舞台",
+        "onboard_time": 1699610493,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341279,
+        "num": 245787,
+        "word": "迪丽热巴演我嗑cp",
+        "onboard_time": 1699610912,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237264,
+        "num": 237264,
+        "word": "国内唯一满级女教练滑雪场身亡",
+        "onboard_time": 1699584633,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338109,
+        "num": 236358,
+        "word": "陈楚生首位双料冠军",
+        "onboard_time": 1699600472,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249864,
+        "num": 233184,
+        "word": "国色芳华",
+        "onboard_time": 1699609292,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222671,
+        "num": 222671,
+        "word": "时代少年团对接否认耍大牌",
+        "onboard_time": 1699608453,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218410,
+        "num": 218410,
+        "word": "王栎鑫说当大哥的小弟很幸福",
+        "onboard_time": 1699612172,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56054,
+        "num": 210723,
+        "word": "一车看懂中国科技新高度",
+        "onboard_time": 1699609234,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208305,
+        "num": 208305,
+        "word": "宁安如梦 想嗑什么就剪什么",
+        "onboard_time": 1699608333,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196555,
+        "num": 196555,
+        "word": "石家庄下雪",
+        "onboard_time": 1699608813,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196483,
+        "num": 196483,
+        "word": "宁安如梦贞礼课剧情",
+        "onboard_time": 1699609712,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190456,
+        "num": 190456,
+        "word": "官方渠道降价带动iPhone15销量",
+        "onboard_time": 1699611811,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187498,
+        "num": 187498,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1699599632,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 196138,
+        "num": 185299,
+        "word": "娜扎 颠婆敲木鱼",
+        "onboard_time": 1699605281,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193431,
+        "num": 174434,
+        "word": "笨蛋夫人和她的哑巴佣人",
+        "onboard_time": 1699611572,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188800,
+        "num": 171050,
+        "word": "惊喜夜红毯直播",
+        "onboard_time": 1699611454,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145213,
+        "num": 145213,
+        "word": "山东一只8斤重饺子亮相北京",
+        "onboard_time": 1699608934,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132014,
+        "num": 132014,
+        "word": "医院里的低成本变美项目",
+        "onboard_time": 1699606415,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182474,
+        "num": 131806,
+        "word": "aespa空降",
+        "onboard_time": 1699596812,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175880,
+        "num": 131678,
+        "word": "今天朋友圈的两批人",
+        "onboard_time": 1699600291,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172506,
+        "num": 131528,
+        "word": "蔡文静新妆造",
+        "onboard_time": 1699611991,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 170889,
+        "num": 131352,
+        "word": "赵露思女团风",
+        "onboard_time": 1699602752,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167774,
+        "num": 130938,
+        "word": "虞书欣红色小猫咪",
+        "onboard_time": 1699603592,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130938,
+        "num": 130937,
+        "word": "敷完面膜后该不该洗脸",
+        "onboard_time": 1699608211,
+        "rank": 45,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 124408,
+        "num": 124408,
+        "word": "花楼 卸任",
+        "onboard_time": 1699601730,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117222,
+        "num": 117222,
+        "word": "一点点",
+        "onboard_time": 1699612112,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94104,
+        "num": 117095,
+        "word": "佳木斯体育馆坍塌11人被采取强制措施",
+        "onboard_time": 1699596812,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87292,
+        "num": 116651,
+        "word": "留学生称白菜在韩国曾卖到100块1颗",
+        "onboard_time": 1699602092,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样点亮文明之光#"
+    }
+  }
+}
