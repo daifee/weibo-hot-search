@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699655661781,
+  "endTime": 1699658206777,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -7587,6 +7587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285738,
+      "num": 406488,
+      "word": "大连涉事小吃街疑因B太打假拉闸关灯",
+      "onboard_time": 1699623511,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285481,
       "num": 285481,
       "word": "披荆斩棘3总决赛开播海报",
@@ -7849,14 +7857,6 @@
       "onboard_time": 1699585831,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274579,
-      "num": 406488,
-      "word": "大连涉事小吃街疑因B太打假拉闸关灯",
-      "onboard_time": 1699623511,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274475,
@@ -14395,6 +14395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136138,
+      "num": 62768,
+      "word": "金刚蹲3分钟胜过跑步5公里",
+      "onboard_time": 1699657280,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 135963,
       "num": 135963,
       "word": "交警向不敢动的铁憨憨们补了句感谢",
@@ -15001,6 +15009,14 @@
       "onboard_time": 1699424858,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125678,
+      "num": 125678,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125661,
@@ -16923,14 +16939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58709,
-      "num": 58709,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58126,
       "num": 197775,
       "word": "李思思被孩子的想象力惊艳到",
@@ -16953,6 +16961,14 @@
       "onboard_time": 1699506039,
       "rank": 39,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 57378,
+      "num": 50931,
+      "word": "以前的古装和现在的古装",
+      "onboard_time": 1699650132,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 56908,
@@ -16984,6 +17000,14 @@
       "word": "流浪汉被民警救助后坦白是命案逃犯",
       "onboard_time": 1699551138,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54136,
+      "num": 54136,
+      "word": "被中科院院士薛其坤种草了山东",
+      "onboard_time": 1699657339,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -17019,6 +17043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51160,
+      "num": 51160,
+      "word": "走失萌娃告诉民警自己叫乔治",
+      "onboard_time": 1699657280,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51004,
       "num": 434611,
       "word": "古不惯甄嬛传四爷 今不惯领导",
@@ -17041,6 +17073,14 @@
       "onboard_time": 1699365577,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49945,
+      "num": 49945,
+      "word": "成都欢乐谷NPC唐僧非其员工",
+      "onboard_time": 1699645994,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49860,
@@ -17139,6 +17179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43368,
+      "num": 43368,
+      "word": "民警怕吓到2岁女娃脱掉警服再抱",
+      "onboard_time": 1699657459,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42712,
       "num": 304753,
       "word": "vivo即将发布X100",
@@ -17185,14 +17233,6 @@
       "onboard_time": 1699534171,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 39982,
-      "num": 30477,
-      "word": "以前的古装和现在的古装",
-      "onboard_time": 1699650132,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 39093,
@@ -17275,12 +17315,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 28873,
-      "num": 30211,
-      "word": "成都欢乐谷NPC唐僧非其员工",
-      "onboard_time": 1699645994,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 29803,
+      "num": 39614,
+      "word": "7架运20排排站大场面来了",
+      "onboard_time": 1699650554,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 27796,
@@ -17377,14 +17417,6 @@
       "onboard_time": 1699518875,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 22210,
-      "num": 29788,
-      "word": "7架运20排排站大场面来了",
-      "onboard_time": 1699650554,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 22072,
