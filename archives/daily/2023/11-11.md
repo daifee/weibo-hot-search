@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/11 00:22:31 ~ 2023/11/11 02:34:58
+本榜单时间：2023/11/11 00:22:31 ~ 2023/11/11 03:13:57
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%23" target="weibo">
 阿维塔（热度：43774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%90%8C%E5%8F%B0%E4%B8%BB%E6%8C%81%23" target="weibo">
+何炅谢娜同台主持（热度：34150）
 </a>
 </li>
 

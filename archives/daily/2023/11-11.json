@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699641298756,
+  "endTime": 1699643637009,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -449,6 +449,14 @@
       "onboard_time": 1699618231,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34150,
+      "num": 34150,
+      "word": "何炅谢娜同台主持",
+      "onboard_time": 1699617090,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 21776,
