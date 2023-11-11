@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699742032256,
+  "endTime": 1699744583856,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -355,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121959,
+      "num": 105210,
+      "word": "常州一企业主被连续约谈后自杀",
+      "onboard_time": 1699743858,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119256,
       "num": 151645,
       "word": "月入2万活得像月入2千",
@@ -435,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91841,
+      "num": 65431,
+      "word": "原来妈妈三十年前就穿衣自由",
+      "onboard_time": 1699738814,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "燕临冠礼",
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84579,
+      "num": 65360,
+      "word": "男朋友转了5200给我买咖啡",
+      "onboard_time": 1699735693,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71465,
       "num": 96589,
       "word": "曼联vs卢顿",
@@ -459,12 +483,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54660,
-      "num": 33940,
-      "word": "男朋友转了5200给我买咖啡",
-      "onboard_time": 1699735693,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 65436,
+      "num": 65436,
+      "word": "温州永嘉民房坍塌已致3人遇难",
+      "onboard_time": 1699744339,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64835,
+      "num": 64835,
+      "word": "微博喜剧现场",
+      "onboard_time": 1699744098,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "3个洗脸误区正在悄悄毁掉你的脸",
+      "onboard_time": 1699743798,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 53441,
@@ -475,12 +515,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42362,
-      "num": 33580,
-      "word": "原来妈妈三十年前就穿衣自由",
-      "onboard_time": 1699738814,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 48779,
+      "num": 56824,
+      "word": "大熊猫发现被偷拍慢悠悠走向竹林",
+      "onboard_time": 1699724961,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45321,
+      "num": 45321,
+      "word": "莲花楼番外篇之角姐成亲",
+      "onboard_time": 1699735753,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45040,
+      "num": 45040,
+      "word": "父亲开17.5米长货车接女儿拉1个行李箱",
+      "onboard_time": 1699743798,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40959,
@@ -491,23 +547,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40453,
-      "num": 40453,
-      "word": "莲花楼番外篇之角姐成亲",
-      "onboard_time": 1699735753,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 33318,
-      "num": 51456,
-      "word": "大熊猫发现被偷拍慢悠悠走向竹林",
-      "onboard_time": 1699724961,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7881,
+      "raw_hot": 7951,
       "num": 771079,
       "word": "江山如画",
       "onboard_time": 1699689929,
