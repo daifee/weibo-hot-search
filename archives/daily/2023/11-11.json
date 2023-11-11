@@ -1,10 +1,10 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699712070796,
+  "endTime": 1699713241190,
   "band_list": [
     {
       "raw_hot": 4813017,
-      "num": 277558,
+      "num": 483270,
       "word": "淘宝崩了",
       "onboard_time": 1699710394,
       "rank": 10,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 634044,
-      "num": 296012,
+      "num": 582064,
       "word": "刘亦菲 阿布扎比",
       "onboard_time": 1699707396,
       "rank": 22,
@@ -595,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 556254,
+      "num": 556254,
+      "word": "羽绒服",
+      "onboard_time": 1699712014,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 541637,
       "num": 363607,
       "word": "苏有朋林志颖 小鱼儿与花无缺",
@@ -635,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524862,
+      "num": 524862,
+      "word": "你好星期六下周有林俊杰",
+      "onboard_time": 1699711715,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523884,
       "num": 523884,
       "word": "WBG 陌生",
@@ -657,6 +673,14 @@
       "onboard_time": 1699627655,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520920,
+      "num": 520920,
+      "word": "张艺兴说去国外见了吴世勋",
+      "onboard_time": 1699713094,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 516877,
@@ -748,7 +772,7 @@
     },
     {
       "raw_hot": 474286,
-      "num": 276918,
+      "num": 468214,
       "word": "ON群访哭了",
       "onboard_time": 1699711592,
       "rank": 12,
@@ -787,6 +811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 443543,
+      "num": 443543,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699704754,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439135,
       "num": 439135,
       "word": "父母每月寄10斤日用品给00后儿子",
@@ -801,14 +833,6 @@
       "onboard_time": 1699710093,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423756,
-      "num": 423756,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1699704754,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 413831,
@@ -948,7 +972,7 @@
     },
     {
       "raw_hot": 374562,
-      "num": 276461,
+      "num": 351329,
       "word": "孙俪也是追星女",
       "onboard_time": 1699710698,
       "rank": 14,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1699681889,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360931,
+      "num": 256509,
+      "word": "张彬彬说把欠下的三年还回来了",
+      "onboard_time": 1699712613,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360157,
@@ -1131,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318800,
+      "num": 255031,
+      "word": "芒果我可以信你一回吗",
+      "onboard_time": 1699711835,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317555,
       "num": 317555,
       "word": "TheShy和Bin都带过李佳航玩游戏",
@@ -1156,7 +1196,7 @@
     },
     {
       "raw_hot": 310939,
-      "num": 413928,
+      "num": 492029,
       "word": "莎头 健康涨球",
       "onboard_time": 1699708535,
       "rank": 32,
@@ -1403,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259783,
+      "num": 501597,
+      "word": "老师为学生买药摔伤学生到病房读感谢信",
+      "onboard_time": 1699710515,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258385,
       "num": 297147,
       "word": "朱易 女单自由滑",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1699699895,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237960,
+      "num": 237960,
+      "word": "吴楚一开始带货了",
+      "onboard_time": 1699712913,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 234432,
@@ -1667,6 +1723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211428,
+      "num": 180709,
+      "word": "时宴在hi6求婚郑书意",
+      "onboard_time": 1699712913,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211217,
       "num": 127733,
       "word": "宁安如梦",
@@ -1779,14 +1843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200467,
-      "num": 200467,
-      "word": "你好星期六下周有林俊杰",
-      "onboard_time": 1699711715,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198699,
       "num": 185590,
       "word": "周深高估了观众的演唱水平",
@@ -1832,6 +1888,14 @@
       "word": "WBG队史首次晋级S赛决赛",
       "onboard_time": 1699709374,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196548,
+      "num": 196548,
+      "word": "管泽元 毒奶",
+      "onboard_time": 1699711715,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -1913,6 +1977,14 @@
       "onboard_time": 1699680448,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188088,
+      "num": 174254,
+      "word": "周笔畅上海",
+      "onboard_time": 1699712613,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 186876,
@@ -2027,12 +2099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174285,
-      "num": 174285,
-      "word": "芒果我可以信你一回吗",
-      "onboard_time": 1699711835,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 172846,
+      "num": 171413,
+      "word": "薛之谦温州演唱会",
+      "onboard_time": 1699712014,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 172801,
@@ -2065,14 +2137,6 @@
       "onboard_time": 1699670251,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169457,
-      "num": 169457,
-      "word": "羽绒服",
-      "onboard_time": 1699712014,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 169238,
@@ -2275,28 +2339,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 148012,
-      "num": 148012,
-      "word": "薛之谦温州演唱会",
-      "onboard_time": 1699712014,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147661,
       "num": 147661,
       "word": "迈阿密国际vs纽约城",
       "onboard_time": 1699664551,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147356,
-      "num": 275184,
-      "word": "老师为学生买药摔伤学生到病房读感谢信",
-      "onboard_time": 1699710515,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147338,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1699687051,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116924,
+      "num": 175272,
+      "word": "53岁父亲带着脑梗儿子跑网约车",
+      "onboard_time": 1699712254,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115192,
