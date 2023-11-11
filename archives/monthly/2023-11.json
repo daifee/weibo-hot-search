@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699677251405,
+  "endTime": 1699679730227,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -504,6 +504,14 @@
       "word": "90后公务员泄密获刑",
       "onboard_time": 1699413153,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2516145,
+      "num": 2516145,
+      "word": "大学生招嫖被骗1500报警自首",
+      "onboard_time": 1699676071,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3211,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 945588,
-      "num": 945588,
-      "word": "大学生招嫖被骗1500报警自首",
-      "onboard_time": 1699676071,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 941478,
       "num": 941478,
       "word": "唐三葬",
@@ -3713,6 +3713,14 @@
       "onboard_time": 1699277919,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824765,
+      "num": 824765,
+      "word": "网红于文亮直播喊话一起圈钱",
+      "onboard_time": 1699676849,
+      "rank": 17,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 823473,
@@ -5657,6 +5665,14 @@
       "onboard_time": 1698898417,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 611696,
+      "num": 357655,
+      "word": "奚梦瑶硬核提醒何猷君少吃甜食",
+      "onboard_time": 1699677689,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 611590,
@@ -10155,6 +10171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369558,
+      "num": 369558,
+      "word": "男生梦中被室友叫醒先懵后感动",
+      "onboard_time": 1699676913,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369514,
       "num": 137422,
       "word": "王安宇相机",
@@ -11859,14 +11883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313215,
-      "num": 313215,
-      "word": "网红于文亮直播喊话一起圈钱",
-      "onboard_time": 1699676849,
-      "rank": 17,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 313114,
       "num": 313114,
       "word": "你说你惹张小斐惠英红干嘛",
@@ -12929,6 +12945,14 @@
       "onboard_time": 1698889956,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 281990,
+      "num": 274677,
+      "word": "王星越原定演燕临",
+      "onboard_time": 1699677989,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 281899,
@@ -14563,6 +14587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 248936,
+      "num": 134179,
+      "word": "许晴名下工作室等被执行624万",
+      "onboard_time": 1699679370,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248615,
       "num": 248615,
       "word": "吗喽表情包",
@@ -14776,6 +14808,14 @@
       "word": "宁安如梦 三人修罗场",
       "onboard_time": 1699575875,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245122,
+      "num": 172841,
+      "word": "宋茜周渝民新剧的cp感",
+      "onboard_time": 1699677151,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -16609,6 +16649,14 @@
       "onboard_time": 1699668029,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217406,
+      "num": 132801,
+      "word": "突然就不想吃东西了",
+      "onboard_time": 1699677450,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 217211,
@@ -18907,14 +18955,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 194975,
-      "num": 172841,
-      "word": "宋茜周渝民新剧的cp感",
-      "onboard_time": 1699677151,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194934,
       "num": 194934,
       "word": "约9成海边溺水是因为离岸流",
@@ -19097,6 +19137,14 @@
       "onboard_time": 1699179273,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193423,
+      "num": 126580,
+      "word": "时代少年团戴领带不告诉宋亚轩张真源",
+      "onboard_time": 1699677450,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 193406,
@@ -19617,6 +19665,14 @@
       "onboard_time": 1699100619,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189082,
+      "num": 126342,
+      "word": "陈楚生用吉他弹奏出古琴音",
+      "onboard_time": 1699679134,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189050,
@@ -21355,6 +21411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168714,
+      "num": 107203,
+      "word": "白鹿是秦霄贤派来的卧底吧",
+      "onboard_time": 1699677390,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168663,
       "num": 168663,
       "word": "香水品味最好的男明星",
@@ -21457,6 +21521,14 @@
       "onboard_time": 1698983195,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168274,
+      "num": 107116,
+      "word": "于文亮回应圈钱言论",
+      "onboard_time": 1699678052,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 168105,
@@ -21921,6 +21993,14 @@
       "onboard_time": 1699440153,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162991,
+      "num": 107061,
+      "word": "曾明辉 梳化",
+      "onboard_time": 1699679251,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 162986,
@@ -24283,14 +24363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139353,
-      "num": 139353,
-      "word": "男生梦中被室友叫醒先懵后感动",
-      "onboard_time": 1699676913,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139349,
       "num": 139349,
       "word": "进击的巨人终篇",
@@ -25561,6 +25633,14 @@
       "onboard_time": 1699339591,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126134,
+      "num": 126134,
+      "word": "大熊猫也开始晒着太阳吃饭了",
+      "onboard_time": 1699673549,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126028,
@@ -26907,14 +26987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106836,
-      "num": 106836,
-      "word": "大熊猫也开始晒着太阳吃饭了",
-      "onboard_time": 1699673549,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106814,
       "num": 106814,
       "word": "央视纪录片解密癌症",
@@ -28145,6 +28217,14 @@
       "onboard_time": 1698941252,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78794,
+      "num": 106932,
+      "word": "眼影结构画法",
+      "onboard_time": 1699679491,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 78541,
