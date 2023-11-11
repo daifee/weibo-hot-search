@@ -1,0 +1,410 @@
+{
+  "runTime": 1699726815352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 521487,
+        "num": 521487,
+        "word": "小学校长9年强奸猥亵22学生被执行死刑",
+        "onboard_time": 1699718913,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410005,
+        "num": 410005,
+        "word": "郑恺说很对不起苗苗",
+        "onboard_time": 1699715615,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6576,
+        "num": 277517,
+        "word": "江山如画",
+        "onboard_time": 1699689929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270355,
+        "num": 270355,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1699704938,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206872,
+        "num": 206872,
+        "word": "关晓彤王牌控诉华晨宇",
+        "onboard_time": 1699716517,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205644,
+        "num": 205644,
+        "word": "14岁女儿连夜报警称父母被骗卖房",
+        "onboard_time": 1699716995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195469,
+        "num": 195469,
+        "word": "张艺兴说去国外见了吴世勋",
+        "onboard_time": 1699713094,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189239,
+        "num": 189239,
+        "word": "情绪稳定是男人最好的医美",
+        "onboard_time": 1699718073,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168558,
+        "num": 168558,
+        "word": "老伯举报公园砍掉七棵树获奖2000元",
+        "onboard_time": 1699721069,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137605,
+        "num": 137605,
+        "word": "女生皮肤超好的总结",
+        "onboard_time": 1699716517,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 271977,
+        "num": 127710,
+        "word": "淘宝崩了",
+        "onboard_time": 1699710394,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168689,
+        "num": 124648,
+        "word": "fx 重聚",
+        "onboard_time": 1699704392,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107952,
+        "num": 107952,
+        "word": "妈妈顺产有多苦",
+        "onboard_time": 1699718494,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 102996,
+        "num": 102996,
+        "word": "王星越 小孩哥",
+        "onboard_time": 1699715492,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100025,
+        "num": 100025,
+        "word": "迪丽热巴是下一季花少导演",
+        "onboard_time": 1699699595,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96489,
+        "num": 96489,
+        "word": "吴楚一开始带货了",
+        "onboard_time": 1699712913,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96129,
+        "num": 96129,
+        "word": "刘亦菲 阿布扎比",
+        "onboard_time": 1699707396,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89840,
+        "num": 89840,
+        "word": "Bin 感谢所有人的支持",
+        "onboard_time": 1699716214,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83606,
+        "num": 83606,
+        "word": "国色芳华 大女主剧",
+        "onboard_time": 1699710333,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73661,
+        "num": 82048,
+        "word": "老板娘送1箱奶茶感谢民警追回20元",
+        "onboard_time": 1699715975,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81512,
+        "num": 81512,
+        "word": "陈楚生 莫干山音乐节",
+        "onboard_time": 1699716456,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74194,
+        "num": 74194,
+        "word": "Xiaohu首次晋级世界赛决赛",
+        "onboard_time": 1699707453,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72620,
+        "num": 72620,
+        "word": "歌手确认重启",
+        "onboard_time": 1699698451,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63430,
+        "num": 71248,
+        "word": "T1 作业好抄",
+        "onboard_time": 1699696949,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60131,
+        "num": 60131,
+        "word": "WBG晋级S13总决赛",
+        "onboard_time": 1699705420,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66170,
+        "num": 59998,
+        "word": "芒果我可以信你一回吗",
+        "onboard_time": 1699711835,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64062,
+        "num": 59586,
+        "word": "Capper将暂时缺席线下活动",
+        "onboard_time": 1699709554,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61212,
+        "num": 58952,
+        "word": "张杰和三个女儿背影照",
+        "onboard_time": 1699700911,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44830,
+        "num": 58506,
+        "word": "女子用筋膜枪买东西致手指骨折",
+        "onboard_time": 1699699895,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43316,
+        "num": 58072,
+        "word": "月入2万活得像月入2千",
+        "onboard_time": 1699695568,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57938,
+        "num": 57938,
+        "word": "iG官宣新阵容",
+        "onboard_time": 1699699773,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57044,
+        "num": 57044,
+        "word": "张杰用女儿的名字命名麦克风",
+        "onboard_time": 1699699114,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56270,
+        "num": 56270,
+        "word": "G2 宝想要TheShy",
+        "onboard_time": 1699715795,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54708,
+        "num": 54708,
+        "word": "金莎 我是我人生剧本里的大女主",
+        "onboard_time": 1699714416,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52952,
+        "num": 52952,
+        "word": "ON群访哭了",
+        "onboard_time": 1699711592,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52317,
+        "num": 52317,
+        "word": "大侦探下一季众多老玩家回归",
+        "onboard_time": 1699701030,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51742,
+        "num": 51742,
+        "word": "李现要录综艺了",
+        "onboard_time": 1699716338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51429,
+        "num": 51429,
+        "word": "羽绒服",
+        "onboard_time": 1699712014,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 41978,
+        "num": 50451,
+        "word": "长沙一女子洗澡洗出个鸟病",
+        "onboard_time": 1699694550,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49908,
+        "num": 49908,
+        "word": "韩国女歌手Nahee去世",
+        "onboard_time": 1699702891,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49502,
+        "num": 49502,
+        "word": "你好星期六下周有林俊杰",
+        "onboard_time": 1699711715,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48303,
+        "num": 48303,
+        "word": "马立奥回归爸爸当家3",
+        "onboard_time": 1699698753,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43709,
+        "num": 43709,
+        "word": "王鹤棣是在安慰李雪琴吗",
+        "onboard_time": 1699715196,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43396,
+        "num": 43396,
+        "word": "crisp 最后一局完成了救赎",
+        "onboard_time": 1699715134,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42064,
+        "num": 42064,
+        "word": "撒贝宁关晓彤跳广场舞",
+        "onboard_time": 1699720771,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40393,
+        "num": 40393,
+        "word": "燕临冠礼",
+        "onboard_time": 1699721310,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38013,
+        "num": 40389,
+        "word": "密子君 中韩泰融合烤肉自助",
+        "onboard_time": 1699714532,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32950,
+        "num": 40382,
+        "word": "大熊猫发现被偷拍慢悠悠走向竹林",
+        "onboard_time": 1699724961,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32943,
+        "num": 40379,
+        "word": "TheShy生日礼物",
+        "onboard_time": 1699705716,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32810,
+        "num": 40375,
+        "word": "老师为学生买药摔伤学生到病房读感谢信",
+        "onboard_time": 1699710515,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤将沟通哪些重大问题#"
+    }
+  }
+}
