@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699676409757,
+  "endTime": 1699677251405,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1448892,
+      "num": 1448892,
+      "word": "最好在睡前4小时吃完最后一餐",
+      "onboard_time": 1699671751,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1426255,
       "num": 1426255,
       "word": "宋茜 梦回Victoria",
       "onboard_time": 1699624294,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1362803,
-      "num": 1362803,
-      "word": "最好在睡前4小时吃完最后一餐",
-      "onboard_time": 1699671751,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 1207419,
@@ -113,6 +113,14 @@
       "onboard_time": 1699662931,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 945588,
+      "num": 945588,
+      "word": "大学生招嫖被骗1500报警自首",
+      "onboard_time": 1699676071,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 939884,
@@ -177,6 +185,14 @@
       "onboard_time": 1699667369,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 758811,
+      "num": 758811,
+      "word": "沈腾 江苏也不太好混",
+      "onboard_time": 1699675468,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 745211,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474515,
+      "num": 474515,
+      "word": "何德何能居然吃到鸟嬛售后",
+      "onboard_time": 1699671150,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467985,
       "num": 467985,
       "word": "大连涉事小吃街疑因B太打假拉闸关灯",
@@ -289,22 +313,6 @@
       "onboard_time": 1699620639,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432778,
-      "num": 432778,
-      "word": "何德何能居然吃到鸟嬛售后",
-      "onboard_time": 1699671150,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 422207,
-      "num": 171518,
-      "word": "沈腾 江苏也不太好混",
-      "onboard_time": 1699675468,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 413831,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340476,
+      "num": 340476,
+      "word": "水煮蛋的蛋黄外层为什么是绿色的",
+      "onboard_time": 1699672829,
+      "rank": 32,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 339997,
       "num": 339997,
       "word": "大张伟把我的乳腺唱通了",
@@ -465,6 +481,14 @@
       "onboard_time": 1699660465,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313215,
+      "num": 313215,
+      "word": "网红于文亮直播喊话一起圈钱",
+      "onboard_time": 1699676849,
+      "rank": 17,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 304913,
@@ -515,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268247,
-      "num": 201161,
-      "word": "大学生招嫖被骗1500报警自首",
-      "onboard_time": 1699676071,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266766,
       "num": 266766,
       "word": "还得是凤凰传奇",
@@ -531,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258495,
-      "num": 258495,
-      "word": "水煮蛋的蛋黄外层为什么是绿色的",
-      "onboard_time": 1699672829,
-      "rank": 32,
-      "category": "美食,知识科普"
+      "raw_hot": 262893,
+      "num": 262893,
+      "word": "贾静雯曾敬骅办公室吻戏",
+      "onboard_time": 1699674931,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 251295,
@@ -609,14 +625,6 @@
       "onboard_time": 1699664850,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 223466,
-      "num": 200888,
-      "word": "贾静雯曾敬骅办公室吻戏",
-      "onboard_time": 1699674931,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 223163,
@@ -731,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194975,
+      "num": 172841,
+      "word": "宋茜周渝民新剧的cp感",
+      "onboard_time": 1699677151,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186876,
       "num": 186876,
       "word": "最硬核的国货购物车",
@@ -771,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176856,
+      "num": 170343,
+      "word": "网飞版三体定档",
+      "onboard_time": 1699674630,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174874,
       "num": 174874,
       "word": "西安下雪",
@@ -795,20 +819,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 170343,
-      "num": 170343,
-      "word": "网飞版三体定档",
-      "onboard_time": 1699674630,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169904,
       "num": 145848,
       "word": "妹老师拍华晨宇 再拍两张",
       "onboard_time": 1699670251,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168381,
+      "num": 168381,
+      "word": "林高远3比1吴晙诚",
+      "onboard_time": 1699676310,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 165743,
@@ -899,20 +923,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141457,
-      "num": 141457,
-      "word": "林高远3比1吴晙诚",
-      "onboard_time": 1699676310,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140112,
       "num": 150609,
       "word": "为什么秋冬免疫力会出走",
       "onboard_time": 1699672589,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139353,
+      "num": 139353,
+      "word": "男生梦中被室友叫醒先懵后感动",
+      "onboard_time": 1699676913,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132602,
@@ -1131,7 +1155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67874,
+      "raw_hot": 68501,
       "num": 225479,
       "word": "山东不止是好客",
       "onboard_time": 1699673732,
