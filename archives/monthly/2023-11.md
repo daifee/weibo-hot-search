@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 00:35:17
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 01:14:40
 </p>
 </blockquote>
 <p>
@@ -2547,6 +2547,12 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+小学校长9年强奸猥亵22学生被执行死刑（热度：942415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B8%89%E8%91%AC%23" target="weibo">
 唐三葬（热度：941478）
 </a>
@@ -4151,12 +4157,6 @@ YG只发了朴彩英台历（热度：660096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BD%A9%E7%A4%BC%E7%90%86%E5%BF%B5%E4%B8%8D%E6%94%B9%E5%A9%9A%E5%A7%BB%E5%88%B6%E5%BA%A6%E8%A6%81%E5%B4%A9%E6%BA%83%23" target="weibo">
 专家称彩礼理念不改婚姻制度要崩溃（热度：658204）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-小学校长9年强奸猥亵22学生被执行死刑（热度：657875）
 </a>
 </li>
 
