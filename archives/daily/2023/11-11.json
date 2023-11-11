@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699688041128,
+  "endTime": 1699690795929,
   "band_list": [
     {
       "raw_hot": 3220912,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1014978,
+      "num": 1014978,
+      "word": "老人反对装电梯建好又想用被全楼拒绝",
+      "onboard_time": 1699687171,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1013269,
       "num": 885921,
       "word": "9位乳腺癌患者自述早期症状",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725236,
+      "num": 725236,
+      "word": "秦岚什么时候偷偷举得铁",
+      "onboard_time": 1699685668,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691268,
       "num": 691268,
       "word": "水龙吟",
@@ -323,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611259,
-      "num": 611259,
-      "word": "秦岚什么时候偷偷举得铁",
-      "onboard_time": 1699685668,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 596073,
       "num": 359662,
       "word": "贵州一公职人员驾车撞死一对中年夫妇",
@@ -353,6 +361,14 @@
       "onboard_time": 1699627295,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530273,
+      "num": 530273,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 523002,
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305671,
+      "num": 305671,
+      "word": "TheShy与Bin互放狠话",
+      "onboard_time": 1699689150,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304913,
       "num": 379535,
       "word": "腾讯将在中国大陆代理销售MetaVR头显",
@@ -771,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231633,
+      "num": 231633,
+      "word": "女子麦当劳吃出异物被店员备注辱骂",
+      "onboard_time": 1699685490,
+      "rank": 21,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 230713,
       "num": 230713,
       "word": "碳水配羊肉越吃越香",
@@ -827,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225221,
-      "num": 215982,
-      "word": "女子麦当劳吃出异物被店员备注辱骂",
-      "onboard_time": 1699685490,
-      "rank": 21,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 223723,
       "num": 574544,
       "word": "加沙孩子受伤没有麻醉药哭声不断",
@@ -849,14 +873,6 @@
       "onboard_time": 1699633770,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222741,
-      "num": 222741,
-      "word": "老人反对装电梯建好又想用被全楼拒绝",
-      "onboard_time": 1699687171,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221273,
@@ -923,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209118,
+      "num": 209118,
+      "word": "王鹤棣在hi6背着白鹿满场跑",
+      "onboard_time": 1699689628,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205557,
       "num": 366310,
       "word": "山东下雪",
@@ -937,6 +961,14 @@
       "onboard_time": 1699668629,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204268,
+      "num": 204268,
+      "word": "佛山电翰好6团分翰",
+      "onboard_time": 1699688311,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 201728,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1699663471,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195413,
+      "num": 149190,
+      "word": "哈佛硕士应聘事业单位合同工",
+      "onboard_time": 1699689990,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193423,
@@ -1179,12 +1219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164613,
+      "num": 164613,
+      "word": "最舍得给另一半花钱的星座",
+      "onboard_time": 1699687829,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163806,
       "num": 155768,
       "word": "丁程鑫即兴锁舞",
       "onboard_time": 1699682309,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163352,
+      "num": 163352,
+      "word": "TheShy生日 buff",
+      "onboard_time": 1699690530,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 162991,
@@ -1217,6 +1273,14 @@
       "onboard_time": 1699657280,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 159053,
+      "num": 159053,
+      "word": "刘诗雯官宣参加竞燃之夜",
+      "onboard_time": 1699690048,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 157500,
@@ -1275,6 +1339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148272,
+      "num": 148272,
+      "word": "医生解释为何女性更易患甲状腺癌",
+      "onboard_time": 1699690286,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147661,
       "num": 147661,
       "word": "迈阿密国际vs纽约城",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1699665272,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141257,
+      "num": 141257,
+      "word": "关晓彤晒王牌家族合影",
+      "onboard_time": 1699688909,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 140112,
@@ -1355,6 +1435,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 129320,
+      "num": 129320,
+      "word": "奔跑吧西泠印社合唱送别",
+      "onboard_time": 1699688609,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128074,
+      "num": 128074,
+      "word": "WBG对战BLG 比分预测",
+      "onboard_time": 1699689389,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126793,
       "num": 105770,
       "word": "水龙吟官宣概念海报",
@@ -1393,6 +1489,14 @@
       "onboard_time": 1699669383,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122131,
+      "num": 122131,
+      "word": "萧亚轩发vlog回应歌迷",
+      "onboard_time": 1699688190,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 121995,
@@ -1443,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111908,
+      "num": 111908,
+      "word": "男子心脏骤停遇医生5秒火速抢救",
+      "onboard_time": 1699690410,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109612,
       "num": 273063,
       "word": "尚雯婕胡夏唱水神劈观",
@@ -1473,6 +1585,22 @@
       "onboard_time": 1699623511,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100337,
+      "num": 100337,
+      "word": "保安大叔自愿捐献遗体自称废品利用",
+      "onboard_time": 1699690590,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96359,
+      "num": 96359,
+      "word": "王嘉尔南京演唱会",
+      "onboard_time": 1699688070,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 95708,
@@ -1523,14 +1651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86601,
-      "num": 86601,
-      "word": "最舍得给另一半花钱的星座",
-      "onboard_time": 1699687829,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86415,
       "num": 86415,
       "word": "小孩被烫伤大哭民警一路狂飙送医",
@@ -1553,6 +1673,14 @@
       "onboard_time": 1699625556,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82978,
+      "num": 82978,
+      "word": "宋亚轩说旅游想去毛里求斯",
+      "onboard_time": 1699690770,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 81894,
