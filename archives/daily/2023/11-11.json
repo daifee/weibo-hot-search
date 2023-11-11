@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699673658494,
+  "endTime": 1699676409757,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -65,6 +65,14 @@
       "onboard_time": 1699624294,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1362803,
+      "num": 1362803,
+      "word": "最好在睡前4小时吃完最后一餐",
+      "onboard_time": 1699671751,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 1207419,
@@ -139,6 +147,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 821889,
+      "num": 821889,
+      "word": "B太 破解大连海鲜餐厅加工店鬼秤",
+      "onboard_time": 1699671332,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 820464,
       "num": 377197,
       "word": "谢娜 我回家了",
@@ -177,14 +193,6 @@
       "onboard_time": 1699662450,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733300,
-      "num": 733300,
-      "word": "B太 破解大连海鲜餐厅加工店鬼秤",
-      "onboard_time": 1699671332,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 691268,
@@ -235,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523492,
-      "num": 523492,
-      "word": "最好在睡前4小时吃完最后一餐",
-      "onboard_time": 1699671751,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 523002,
       "num": 362687,
       "word": "秦岚嗓子好了吗",
@@ -291,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432778,
+      "num": 432778,
+      "word": "何德何能居然吃到鸟嬛售后",
+      "onboard_time": 1699671150,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 422207,
+      "num": 171518,
+      "word": "沈腾 江苏也不太好混",
+      "onboard_time": 1699675468,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413831,
       "num": 362339,
       "word": "杨紫李现 二搭",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398441,
+      "num": 206976,
+      "word": "野画集",
+      "onboard_time": 1699673007,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 397853,
       "num": 360620,
       "word": "华晨宇飞行模式歌词",
@@ -353,6 +377,14 @@
       "onboard_time": 1699667009,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374730,
+      "num": 374730,
+      "word": "奔跑吧生态篇定档",
+      "onboard_time": 1699675229,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 372590,
@@ -419,14 +451,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 324388,
-      "num": 315772,
-      "word": "何德何能居然吃到鸟嬛售后",
-      "onboard_time": 1699671150,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320096,
       "num": 320096,
       "word": "丞磊这不挺会唱的",
@@ -491,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268247,
+      "num": 201161,
+      "word": "大学生招嫖被骗1500报警自首",
+      "onboard_time": 1699676071,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266766,
       "num": 266766,
       "word": "还得是凤凰传奇",
       "onboard_time": 1699624052,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258495,
+      "num": 258495,
+      "word": "水煮蛋的蛋黄外层为什么是绿色的",
+      "onboard_time": 1699672829,
+      "rank": 32,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 251295,
@@ -571,6 +611,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 223466,
+      "num": 200888,
+      "word": "贾静雯曾敬骅办公室吻戏",
+      "onboard_time": 1699674931,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223163,
       "num": 223163,
       "word": "王晨艺王子浩跳梦不落雨林",
@@ -603,22 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213897,
-      "num": 188599,
-      "word": "水煮蛋的蛋黄外层为什么是绿色的",
-      "onboard_time": 1699672829,
-      "rank": 32,
-      "category": "美食,知识科普"
-    },
-    {
-      "raw_hot": 206976,
-      "num": 206976,
-      "word": "野画集",
-      "onboard_time": 1699673007,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 205557,
       "num": 366310,
       "word": "山东下雪",
@@ -633,6 +665,14 @@
       "onboard_time": 1699668629,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200555,
+      "num": 200555,
+      "word": "陈楚生治愈了王栎鑫",
+      "onboard_time": 1699674031,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 198699,
@@ -657,6 +697,14 @@
       "onboard_time": 1699665511,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196699,
+      "num": 196699,
+      "word": "西安第一场雪有点猛",
+      "onboard_time": 1699670251,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196344,
@@ -699,6 +747,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180230,
+      "num": 180230,
+      "word": "王曼昱让二追三",
+      "onboard_time": 1699673609,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179814,
+      "num": 168767,
+      "word": "宋亚轩的眼力见",
+      "onboard_time": 1699675949,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179344,
       "num": 162095,
       "word": "张远 有没有恋综季",
@@ -723,20 +787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173889,
-      "num": 173889,
-      "word": "西安第一场雪有点猛",
-      "onboard_time": 1699670251,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172171,
       "num": 378289,
       "word": "新兰最新情话",
       "onboard_time": 1699631373,
       "rank": 19,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 170343,
+      "num": 170343,
+      "word": "网飞版三体定档",
+      "onboard_time": 1699674630,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 169904,
@@ -835,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141457,
+      "num": 141457,
+      "word": "林高远3比1吴晙诚",
+      "onboard_time": 1699676310,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140112,
       "num": 150609,
       "word": "为什么秋冬免疫力会出走",
@@ -899,12 +971,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 108577,
-      "num": 108577,
-      "word": "王曼昱让二追三",
-      "onboard_time": 1699673609,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 107260,
+      "num": 107260,
+      "word": "出现这些症状要警惕前列腺增生",
+      "onboard_time": 1699675770,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106836,
+      "num": 106836,
+      "word": "大熊猫也开始晒着太阳吃饭了",
+      "onboard_time": 1699673549,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102588,
@@ -913,14 +993,6 @@
       "onboard_time": 1699623511,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102581,
-      "num": 102581,
-      "word": "大熊猫也开始晒着太阳吃饭了",
-      "onboard_time": 1699673549,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95708,
@@ -1056,6 +1128,14 @@
       "word": "为什么是买东西不是买南北",
       "onboard_time": 1699625615,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67874,
+      "num": 225479,
+      "word": "山东不止是好客",
+      "onboard_time": 1699673732,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
