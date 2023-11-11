@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699702429797,
+  "endTime": 1699705810474,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -120,6 +120,14 @@
       "word": "Scout 精忠报国",
       "onboard_time": 1699174115,
       "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 4503121,
+      "num": 4503121,
+      "word": "WBG战胜BLG",
+      "onboard_time": 1699704938,
+      "rank": 0,
       "category": "电竞"
     },
     {
@@ -273,6 +281,14 @@
       "onboard_time": 1699185216,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2847580,
+      "num": 2847580,
+      "word": "WBG晋级S13总决赛",
+      "onboard_time": 1699705420,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2810104,
@@ -467,6 +483,14 @@
       "category": "社会新闻,知识科普"
     },
     {
+      "raw_hot": 2132235,
+      "num": 618869,
+      "word": "新冠",
+      "onboard_time": 1699702116,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2120929,
       "num": 2120929,
       "word": "预制蛋",
@@ -601,6 +625,14 @@
       "onboard_time": 1699501414,
       "rank": 31,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2001531,
+      "num": 2001531,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 1986803,
@@ -745,6 +777,14 @@
       "onboard_time": 1699433614,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1887486,
+      "num": 605080,
+      "word": "fx 重聚",
+      "onboard_time": 1699704392,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1846043,
@@ -1563,14 +1603,6 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 1190181,
-      "num": 1190181,
-      "word": "WBG对战BLG",
-      "onboard_time": 1699688971,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1188960,
       "num": 1188960,
       "word": "与主播发生关系住持被停职",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1699269032,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1158154,
+      "num": 1158154,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1699699773,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 1157792,
@@ -2835,14 +2875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749682,
-      "num": 749682,
-      "word": "iG官宣新阵容",
-      "onboard_time": 1699699773,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 749122,
       "num": 749122,
       "word": "中山二院称欢迎第三方机构评估调查",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1699537356,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723903,
+      "num": 598665,
+      "word": "bin看家英雄找回手感",
+      "onboard_time": 1699702591,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 722692,
@@ -3211,6 +3251,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 684692,
+      "num": 584028,
+      "word": "恋综 挣钱",
+      "onboard_time": 1699701875,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 682313,
       "num": 323178,
       "word": "以爱为营 断更",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1699524153,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678464,
+      "num": 678464,
+      "word": "韩国女歌手Nahee去世",
+      "onboard_time": 1699702891,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 677630,
@@ -4676,7 +4732,7 @@
     },
     {
       "raw_hot": 504998,
-      "num": 289644,
+      "num": 332530,
       "word": "长沙一女子洗澡洗出个鸟病",
       "onboard_time": 1699694550,
       "rank": 21,
@@ -5891,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407446,
+      "num": 407446,
+      "word": "TheShy生日礼物",
+      "onboard_time": 1699705716,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 407273,
       "num": 423953,
       "word": "王艺迪WTT女单夺冠",
@@ -6360,14 +6424,6 @@
       "word": "那年杏花微雨 你说你是十七郎",
       "onboard_time": 1699574132,
       "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 376826,
-      "num": 376826,
-      "word": "恋综 挣钱",
-      "onboard_time": 1699701875,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -7115,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342147,
+      "num": 342147,
+      "word": "G2盛赞TheShy",
+      "onboard_time": 1699701754,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 342088,
       "num": 342088,
       "word": "何泓姗8字发财刘海",
@@ -7217,6 +7281,14 @@
       "onboard_time": 1699587156,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 337173,
+      "num": 337173,
+      "word": "TheShy 请神请到自己",
+      "onboard_time": 1699699534,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 336104,
@@ -7547,6 +7619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320595,
+      "num": 320595,
+      "word": "TheShy生日 buff",
+      "onboard_time": 1699690530,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319925,
       "num": 319925,
       "word": "85四大青衣提名",
@@ -7856,6 +7936,14 @@
       "word": "陈楚生冠军的排面",
       "onboard_time": 1699510172,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306454,
+      "num": 306454,
+      "word": "芒果招商会 苏醒宣讲会",
+      "onboard_time": 1699703071,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -8219,14 +8307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 290067,
-      "num": 290067,
-      "word": "G2盛赞TheShy",
-      "onboard_time": 1699701754,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 289927,
       "num": 289927,
       "word": "央视网文娱评最美表演",
@@ -8569,14 +8649,6 @@
       "onboard_time": 1699456730,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 278093,
-      "num": 278093,
-      "word": "TheShy 请神请到自己",
-      "onboard_time": 1699699534,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 277924,
@@ -9011,6 +9083,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 263796,
+      "num": 632219,
+      "word": "林高远vs梁靖崑",
+      "onboard_time": 1699704092,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263684,
       "num": 220504,
       "word": "肚子瘦不了可能是骨盆在作妖",
@@ -9379,6 +9459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251996,
+      "num": 251996,
+      "word": "恋爱是朋友谈的 气是我生的",
+      "onboard_time": 1699705420,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251983,
       "num": 189255,
       "word": "小狗认为摸头是世界上最幸福的事",
@@ -9547,6 +9635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247815,
+      "num": 239015,
+      "word": "杨紫国风千金妆",
+      "onboard_time": 1699701209,
+      "rank": 39,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 247469,
       "num": 247469,
       "word": "菜还没上筷子先花了两元",
@@ -9700,7 +9796,7 @@
     },
     {
       "raw_hot": 244034,
-      "num": 302412,
+      "num": 331851,
       "word": "女子用筋膜枪买东西致手指骨折",
       "onboard_time": 1699699895,
       "rank": 28,
@@ -10121,14 +10217,6 @@
       "onboard_time": 1699434272,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233298,
-      "num": 233298,
-      "word": "杨紫国风千金妆",
-      "onboard_time": 1699701209,
-      "rank": 39,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 233274,
@@ -10553,6 +10641,14 @@
       "onboard_time": 1699584930,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 224402,
+      "num": 224402,
+      "word": "计划有变 准备夺冠",
+      "onboard_time": 1699705659,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 224268,
@@ -11489,6 +11585,14 @@
       "onboard_time": 1699623212,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206982,
+      "num": 206982,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699366597,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 206957,
@@ -12475,6 +12579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194209,
+      "num": 237443,
+      "word": "梁靖崑3比1林高远",
+      "onboard_time": 1699705361,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194045,
       "num": 194045,
       "word": "现在化妆品包装别太荒谬",
@@ -12601,14 +12713,6 @@
       "onboard_time": 1699254153,
       "rank": 29,
       "category": "美食,知识科普"
-    },
-    {
-      "raw_hot": 192497,
-      "num": 192497,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1699366597,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 192423,
@@ -12809,14 +12913,6 @@
       "onboard_time": 1699590818,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189847,
-      "num": 189847,
-      "word": "TheShy生日 buff",
-      "onboard_time": 1699690530,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 189828,
@@ -13313,6 +13409,14 @@
       "onboard_time": 1699484905,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181001,
+      "num": 181001,
+      "word": "战歌起",
+      "onboard_time": 1699702950,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 180961,
@@ -14049,14 +14153,6 @@
       "onboard_time": 1699678052,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 168121,
-      "num": 168121,
-      "word": "新冠",
-      "onboard_time": 1699702116,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168105,
@@ -18155,6 +18251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90630,
+      "num": 572505,
+      "word": "天猫双11今晚追加红包雨",
+      "onboard_time": 1699704031,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90289,
       "num": 106359,
       "word": "第9批国家集采药品平均降价58%",
@@ -18345,6 +18449,14 @@
       "onboard_time": 1699609112,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82994,
+      "num": 407618,
+      "word": "双11最后四小时1元买1斤商品",
+      "onboard_time": 1699703791,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 82978,
@@ -19017,6 +19129,14 @@
       "onboard_time": 1699682429,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53198,
+      "num": 2336096,
+      "word": "江山如画",
+      "onboard_time": 1699689929,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53027,

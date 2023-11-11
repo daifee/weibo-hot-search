@@ -1,7 +1,15 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699702429797,
+  "endTime": 1699705810474,
   "band_list": [
+    {
+      "raw_hot": 4503121,
+      "num": 4503121,
+      "word": "WBG战胜BLG",
+      "onboard_time": 1699704938,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 3220912,
       "num": 3220912,
@@ -9,6 +17,14 @@
       "onboard_time": 1699684770,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2847580,
+      "num": 2847580,
+      "word": "WBG晋级S13总决赛",
+      "onboard_time": 1699705420,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2516145,
@@ -35,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2132235,
+      "num": 618869,
+      "word": "新冠",
+      "onboard_time": 1699702116,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2077120,
       "num": 2077120,
       "word": "萧亚轩回来了",
@@ -43,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2001531,
+      "num": 2001531,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1920018,
       "num": 398425,
       "word": "易烊千玺压轴舞台",
       "onboard_time": 1699633828,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1887486,
+      "num": 605080,
+      "word": "fx 重聚",
+      "onboard_time": 1699704392,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1812641,
@@ -115,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1190181,
-      "num": 1190181,
-      "word": "WBG对战BLG",
-      "onboard_time": 1699688971,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1169427,
       "num": 1169427,
       "word": "WBG与BLG决胜局",
@@ -145,6 +177,14 @@
       "onboard_time": 1699687171,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1158154,
+      "num": 1158154,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1699699773,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 1155666,
@@ -315,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 749682,
-      "num": 749682,
-      "word": "iG官宣新阵容",
-      "onboard_time": 1699699773,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 745211,
       "num": 745211,
       "word": "萧亚轩状态",
@@ -345,6 +377,14 @@
       "onboard_time": 1699700853,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 723903,
+      "num": 598665,
+      "word": "bin看家英雄找回手感",
+      "onboard_time": 1699702591,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 721115,
@@ -377,6 +417,22 @@
       "onboard_time": 1699680211,
       "rank": 18,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 684692,
+      "num": 584028,
+      "word": "恋综 挣钱",
+      "onboard_time": 1699701875,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 678464,
+      "num": 678464,
+      "word": "韩国女歌手Nahee去世",
+      "onboard_time": 1699702891,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 670046,
@@ -556,7 +612,7 @@
     },
     {
       "raw_hot": 504998,
-      "num": 289644,
+      "num": 332530,
       "word": "长沙一女子洗澡洗出个鸟病",
       "onboard_time": 1699694550,
       "rank": 21,
@@ -667,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407446,
+      "num": 407446,
+      "word": "TheShy生日礼物",
+      "onboard_time": 1699705716,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 403348,
       "num": 403348,
       "word": "初雪",
@@ -745,14 +809,6 @@
       "onboard_time": 1699676913,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376826,
-      "num": 376826,
-      "word": "恋综 挣钱",
-      "onboard_time": 1699701875,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 375797,
@@ -867,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342147,
+      "num": 342147,
+      "word": "G2盛赞TheShy",
+      "onboard_time": 1699701754,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 340476,
       "num": 340476,
       "word": "水煮蛋的蛋黄外层为什么是绿色的",
@@ -881,6 +945,14 @@
       "onboard_time": 1699618529,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337173,
+      "num": 337173,
+      "word": "TheShy 请神请到自己",
+      "onboard_time": 1699699534,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 336941,
@@ -923,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320595,
+      "num": 320595,
+      "word": "TheShy生日 buff",
+      "onboard_time": 1699690530,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 320096,
       "num": 320096,
       "word": "丞磊这不挺会唱的",
@@ -945,6 +1025,14 @@
       "onboard_time": 1699685490,
       "rank": 21,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 306454,
+      "num": 306454,
+      "word": "芒果招商会 苏醒宣讲会",
+      "onboard_time": 1699703071,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 305671,
@@ -1011,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290067,
-      "num": 290067,
-      "word": "G2盛赞TheShy",
-      "onboard_time": 1699701754,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 288406,
       "num": 956462,
       "word": "男子心脏骤停遇医生5秒火速抢救",
@@ -1041,14 +1121,6 @@
       "onboard_time": 1699670188,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 278093,
-      "num": 278093,
-      "word": "TheShy 请神请到自己",
-      "onboard_time": 1699699534,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 277058,
@@ -1131,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263796,
+      "num": 632219,
+      "word": "林高远vs梁靖崑",
+      "onboard_time": 1699704092,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262893,
       "num": 262893,
       "word": "贾静雯曾敬骅办公室吻戏",
@@ -1195,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251996,
+      "num": 251996,
+      "word": "恋爱是朋友谈的 气是我生的",
+      "onboard_time": 1699705420,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251295,
       "num": 251295,
       "word": "关晓彤 主持",
@@ -1211,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247815,
+      "num": 239015,
+      "word": "杨紫国风千金妆",
+      "onboard_time": 1699701209,
+      "rank": 39,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 245122,
       "num": 172841,
       "word": "宋茜周渝民新剧的cp感",
@@ -1220,7 +1316,7 @@
     },
     {
       "raw_hot": 244034,
-      "num": 302412,
+      "num": 331851,
       "word": "女子用筋膜枪买东西致手指骨折",
       "onboard_time": 1699699895,
       "rank": 28,
@@ -1233,14 +1329,6 @@
       "onboard_time": 1699681349,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233298,
-      "num": 233298,
-      "word": "杨紫国风千金妆",
-      "onboard_time": 1699701209,
-      "rank": 39,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 233095,
@@ -1321,6 +1409,14 @@
       "onboard_time": 1699668509,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224402,
+      "num": 224402,
+      "word": "计划有变 准备夺冠",
+      "onboard_time": 1699705659,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 223723,
@@ -1417,6 +1513,14 @@
       "onboard_time": 1699689628,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206982,
+      "num": 206982,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699704754,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 206051,
@@ -1563,6 +1667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194209,
+      "num": 237443,
+      "word": "梁靖崑3比1林高远",
+      "onboard_time": 1699705361,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193423,
       "num": 143149,
       "word": "时代少年团戴领带不告诉宋亚轩张真源",
@@ -1585,14 +1697,6 @@
       "onboard_time": 1699686330,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189847,
-      "num": 189847,
-      "word": "TheShy生日 buff",
-      "onboard_time": 1699690530,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 189082,
@@ -1649,6 +1753,14 @@
       "onboard_time": 1699690286,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181001,
+      "num": 181001,
+      "word": "战歌起",
+      "onboard_time": 1699702950,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 180630,
@@ -1769,14 +1881,6 @@
       "onboard_time": 1699678052,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 168121,
-      "num": 168121,
-      "word": "新冠",
-      "onboard_time": 1699702116,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167655,
@@ -2323,6 +2427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90630,
+      "num": 572505,
+      "word": "天猫双11今晚追加红包雨",
+      "onboard_time": 1699704031,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86415,
       "num": 86415,
       "word": "小孩被烫伤大哭民警一路狂飙送医",
@@ -2345,6 +2457,14 @@
       "onboard_time": 1699625556,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82994,
+      "num": 407618,
+      "word": "双11最后四小时1元买1斤商品",
+      "onboard_time": 1699703791,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 82978,
@@ -2489,6 +2609,14 @@
       "onboard_time": 1699682429,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53198,
+      "num": 2336096,
+      "word": "江山如画",
+      "onboard_time": 1699689929,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52587,
