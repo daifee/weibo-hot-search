@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699680843063,
+  "endTime": 1699683662934,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1611,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1155666,
+      "num": 1155666,
+      "word": "网红于文亮直播喊话一起圈钱",
+      "onboard_time": 1699676849,
+      "rank": 17,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1155213,
       "num": 1155213,
       "word": "谁家接吻带墨镜啊",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1699573951,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1029730,
-      "num": 1029730,
-      "word": "网红于文亮直播喊话一起圈钱",
-      "onboard_time": 1699676849,
-      "rank": 17,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1029487,
@@ -2233,6 +2233,14 @@
       "onboard_time": 1699246121,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 861889,
+      "num": 861889,
+      "word": "价值70万头发被盗民警48小时追回",
+      "onboard_time": 1699681290,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 857423,
@@ -2707,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 755891,
+      "num": 755891,
+      "word": "许晴名下工作室等被执行624万",
+      "onboard_time": 1699679370,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752516,
       "num": 451197,
       "word": "金智媛老公姐",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1699276656,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687768,
+      "num": 687768,
+      "word": "日本明治牛奶检出兽药残留",
+      "onboard_time": 1699680211,
+      "rank": 18,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 682313,
@@ -3488,6 +3512,14 @@
       "word": "何猷君 听老婆话会发达",
       "onboard_time": 1699415073,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 613060,
+      "num": 613060,
+      "word": "赞多遗憾退赛",
+      "onboard_time": 1699682971,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -4377,14 +4409,6 @@
       "onboard_time": 1699595312,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 511917,
-      "num": 511917,
-      "word": "许晴名下工作室等被执行624万",
-      "onboard_time": 1699679370,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 511260,
@@ -5931,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383565,
+      "num": 383565,
+      "word": "李现任敏对手戏",
+      "onboard_time": 1699683511,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383560,
       "num": 212337,
       "word": "王铮亮唱流沙",
@@ -5972,7 +6004,7 @@
     },
     {
       "raw_hot": 379249,
-      "num": 379249,
+      "num": 387738,
       "word": "男生梦中被室友叫醒先懵后感动",
       "onboard_time": 1699676913,
       "rank": 29,
@@ -6009,6 +6041,14 @@
       "onboard_time": 1699606415,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 377162,
+      "num": 377162,
+      "word": "谁家女主小说还原度这么高",
+      "onboard_time": 1699681768,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 377051,
@@ -6347,6 +6387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362989,
+      "num": 303630,
+      "word": "姜雪宁被强吻的反应",
+      "onboard_time": 1699681889,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362786,
       "num": 249589,
       "word": "肖战深V内搭",
@@ -6465,6 +6513,14 @@
       "onboard_time": 1699623271,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356372,
+      "num": 299279,
+      "word": "田小娟LIZ金玟庭合作新歌",
+      "onboard_time": 1699681649,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 356367,
@@ -8715,6 +8771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253908,
+      "num": 235812,
+      "word": "宋茜出道前素颜参加综艺",
+      "onboard_time": 1699683268,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253591,
       "num": 253591,
       "word": "麻辣烫荤素均价按斤卖合理吗",
@@ -8737,6 +8801,14 @@
       "onboard_time": 1699509632,
       "rank": 26,
       "category": "情感,情感"
+    },
+    {
+      "raw_hot": 253164,
+      "num": 166072,
+      "word": "秦岚迪丽热巴赵昭仪吃的好香",
+      "onboard_time": 1699683389,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 253155,
@@ -9443,6 +9515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234432,
+      "num": 161600,
+      "word": "王鹤棣拍的白鹿跳舞",
+      "onboard_time": 1699681349,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234123,
       "num": 234123,
       "word": "王阳怎么不说王子请看剧",
@@ -9817,6 +9897,14 @@
       "onboard_time": 1699626215,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226802,
+      "num": 226802,
+      "word": "钟南山说有6种新冠病毒疫苗可选择",
+      "onboard_time": 1699682429,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226660,
@@ -10395,14 +10483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213610,
-      "num": 213610,
-      "word": "日本明治牛奶检出兽药残留",
-      "onboard_time": 1699680211,
-      "rank": 18,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 213585,
       "num": 191077,
       "word": "花少真是七个浪漫笨蛋",
@@ -10457,6 +10537,14 @@
       "onboard_time": 1699183837,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212700,
+      "num": 212700,
+      "word": "院长之子中学就参与发表高水平论文",
+      "onboard_time": 1699680033,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 212556,
@@ -12339,6 +12427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186505,
+      "num": 156019,
+      "word": "于正审美一直没变",
+      "onboard_time": 1699680933,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186296,
       "num": 186296,
       "word": "王源新歌旁白是文淇",
@@ -13475,6 +13571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163806,
+      "num": 155768,
+      "word": "丁程鑫即兴锁舞",
+      "onboard_time": 1699682309,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163793,
       "num": 163793,
       "word": "宋茜麻花辫双丸子头",
@@ -13907,12 +14011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156348,
+      "num": 156348,
+      "word": "健身 最好的医美",
+      "onboard_time": 1699680988,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 156217,
       "num": 213624,
       "word": "光与夜之恋",
       "onboard_time": 1699158692,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156139,
+      "num": 145496,
+      "word": "宁安如梦 入我危门",
+      "onboard_time": 1699680868,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 156122,
@@ -13995,6 +14115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154909,
+      "num": 107013,
+      "word": "就业homie团",
+      "onboard_time": 1699682309,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154835,
       "num": 154835,
       "word": "吃宵夜遇到狗妈妈难产了",
@@ -14009,14 +14137,6 @@
       "onboard_time": 1699325669,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154751,
-      "num": 154751,
-      "word": "院长之子中学就参与发表高水平论文",
-      "onboard_time": 1699680033,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154474,
@@ -14331,6 +14451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150244,
+      "num": 150244,
+      "word": "湖人双杀太阳",
+      "onboard_time": 1699683389,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150103,
       "num": 150103,
       "word": "湖人vs太阳",
@@ -14505,6 +14633,14 @@
       "onboard_time": 1699509393,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146825,
+      "num": 146825,
+      "word": "29岁小伙手腕被切断医生通宵缝合",
+      "onboard_time": 1699681410,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146816,
@@ -15707,6 +15843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126793,
+      "num": 104706,
+      "word": "水龙吟官宣概念海报",
+      "onboard_time": 1699681410,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "赵露思单肩公主裙",
@@ -16483,6 +16627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107823,
+      "num": 107823,
+      "word": "吗喽都用上苹果手机了",
+      "onboard_time": 1699683332,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107655,
       "num": 220630,
       "word": "保安大叔捧起秋天撒向童年",
@@ -16673,6 +16825,14 @@
       "onboard_time": 1699200390,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101263,
+      "num": 101263,
+      "word": "双11快递送出外卖速度",
+      "onboard_time": 1699683389,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 101175,
@@ -18121,6 +18281,14 @@
       "onboard_time": 1699140020,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37059,
+      "num": 299492,
+      "word": "饿了么大券包半价买茅台海蓝之谜",
+      "onboard_time": 1699682429,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 36444,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699683662934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155666,
+        "num": 1155666,
+        "word": "网红于文亮直播喊话一起圈钱",
+        "onboard_time": 1699676849,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 861889,
+        "num": 861889,
+        "word": "价值70万头发被盗民警48小时追回",
+        "onboard_time": 1699681290,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14058,
+        "num": 806045,
+        "word": "中国自贸区先锋十年",
+        "onboard_time": 1699668333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660894,
+        "num": 796750,
+        "word": "大学生招嫖被骗1500报警自首",
+        "onboard_time": 1699676071,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755891,
+        "num": 755891,
+        "word": "许晴名下工作室等被执行624万",
+        "onboard_time": 1699679370,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687768,
+        "num": 687768,
+        "word": "日本明治牛奶检出兽药残留",
+        "onboard_time": 1699680211,
+        "rank": 5,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 613060,
+        "num": 613060,
+        "word": "赞多遗憾退赛",
+        "onboard_time": 1699682971,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564087,
+        "num": 564087,
+        "word": "奚梦瑶硬核提醒何猷君少吃甜食",
+        "onboard_time": 1699677689,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501603,
+        "num": 501603,
+        "word": "王鹤棣以爱为营直播忘关麦",
+        "onboard_time": 1699670251,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216150,
+        "num": 387738,
+        "word": "男生梦中被室友叫醒先懵后感动",
+        "onboard_time": 1699676913,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383565,
+        "num": 383565,
+        "word": "李现任敏对手戏",
+        "onboard_time": 1699683511,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377162,
+        "num": 377162,
+        "word": "谁家女主小说还原度这么高",
+        "onboard_time": 1699681768,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307062,
+        "num": 307062,
+        "word": "张踩铃婆婆说法国奶酪大多都长毛",
+        "onboard_time": 1699680033,
+        "rank": 12,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 362989,
+        "num": 303630,
+        "word": "姜雪宁被强吻的反应",
+        "onboard_time": 1699681889,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37059,
+        "num": 299492,
+        "word": "饿了么大券包半价买茅台海蓝之谜",
+        "onboard_time": 1699682429,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356372,
+        "num": 299279,
+        "word": "田小娟LIZ金玟庭合作新歌",
+        "onboard_time": 1699681649,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298961,
+        "num": 298961,
+        "word": "最好在睡前4小时吃完最后一餐",
+        "onboard_time": 1699671751,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297014,
+        "num": 297014,
+        "word": "沈腾 江苏也不太好混",
+        "onboard_time": 1699675468,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264794,
+        "num": 264794,
+        "word": "王心凌在河南冻成了王心淩",
+        "onboard_time": 1699627356,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237985,
+        "num": 237985,
+        "word": "钟南山称近期将有新冠感染小高峰",
+        "onboard_time": 1699666470,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253908,
+        "num": 235812,
+        "word": "宋茜出道前素颜参加综艺",
+        "onboard_time": 1699683268,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226802,
+        "num": 226802,
+        "word": "钟南山说有6种新冠病毒疫苗可选择",
+        "onboard_time": 1699682429,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212700,
+        "num": 212700,
+        "word": "院长之子中学就参与发表高水平论文",
+        "onboard_time": 1699680033,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 181684,
+        "num": 181684,
+        "word": "银行回应信用卡欠3.1万未还变40万",
+        "onboard_time": 1699668333,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 166486,
+        "num": 166486,
+        "word": "B太 破解大连海鲜餐厅加工店鬼秤",
+        "onboard_time": 1699671332,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 253164,
+        "num": 166072,
+        "word": "秦岚迪丽热巴赵昭仪吃的好香",
+        "onboard_time": 1699683389,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234432,
+        "num": 161600,
+        "word": "王鹤棣拍的白鹿跳舞",
+        "onboard_time": 1699681349,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205017,
+        "num": 160612,
+        "word": "易烊千玺 限定玫瑰",
+        "onboard_time": 1699632873,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201030,
+        "num": 158711,
+        "word": "原来张遮知道姜雪宁为他自戕",
+        "onboard_time": 1699667369,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156348,
+        "num": 156348,
+        "word": "健身 最好的医美",
+        "onboard_time": 1699680988,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186505,
+        "num": 156019,
+        "word": "于正审美一直没变",
+        "onboard_time": 1699680933,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163806,
+        "num": 155768,
+        "word": "丁程鑫即兴锁舞",
+        "onboard_time": 1699682309,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160915,
+        "num": 155236,
+        "word": "你好星期六这把高端局",
+        "onboard_time": 1699670969,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150244,
+        "num": 150244,
+        "word": "湖人双杀太阳",
+        "onboard_time": 1699683389,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146825,
+        "num": 146825,
+        "word": "29岁小伙手腕被切断医生通宵缝合",
+        "onboard_time": 1699681410,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156139,
+        "num": 145496,
+        "word": "宁安如梦 入我危门",
+        "onboard_time": 1699680868,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138212,
+        "num": 138212,
+        "word": "湖人vs太阳",
+        "onboard_time": 1699680569,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119829,
+        "num": 119829,
+        "word": "独行侠32比2打懵快船",
+        "onboard_time": 1699672468,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111006,
+        "num": 111006,
+        "word": "水煮蛋的蛋黄外层为什么是绿色的",
+        "onboard_time": 1699672829,
+        "rank": 38,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 107823,
+        "num": 107823,
+        "word": "吗喽都用上苹果手机了",
+        "onboard_time": 1699683332,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154909,
+        "num": 107013,
+        "word": "就业homie团",
+        "onboard_time": 1699682309,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133231,
+        "num": 106535,
+        "word": "以爱为营",
+        "onboard_time": 1699680510,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129486,
+        "num": 105614,
+        "word": "苏醒说陈楚生拿了披哥冠军不想跟他们走一起",
+        "onboard_time": 1699662931,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126793,
+        "num": 104706,
+        "word": "水龙吟官宣概念海报",
+        "onboard_time": 1699681410,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125289,
+        "num": 103323,
+        "word": "宋茜周渝民新剧的cp感",
+        "onboard_time": 1699677151,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122789,
+        "num": 103121,
+        "word": "于文亮回应圈钱言论",
+        "onboard_time": 1699678052,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117633,
+        "num": 101284,
+        "word": "王星越原定演燕临",
+        "onboard_time": 1699677989,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101263,
+        "num": 101263,
+        "word": "双11快递送出外卖速度",
+        "onboard_time": 1699683389,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97144,
+        "num": 97144,
+        "word": "突然就不想吃东西了",
+        "onboard_time": 1699677450,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95651,
+        "num": 95651,
+        "word": "坚持吃核桃6个月会怎样",
+        "onboard_time": 1699670188,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首将在旧金山会晤#"
+    }
+  }
+}

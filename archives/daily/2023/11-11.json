@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699680843063,
+  "endTime": 1699683662934,
   "band_list": [
     {
       "raw_hot": 2516145,
@@ -99,20 +99,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1155666,
+      "num": 1155666,
+      "word": "网红于文亮直播喊话一起圈钱",
+      "onboard_time": 1699676849,
+      "rank": 17,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 1093809,
       "num": 1093809,
       "word": "你好星期六这把高端局",
       "onboard_time": 1699670969,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1029730,
-      "num": 1029730,
-      "word": "网红于文亮直播喊话一起圈钱",
-      "onboard_time": 1699676849,
-      "rank": 17,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1013269,
@@ -153,6 +153,14 @@
       "onboard_time": 1699627054,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 861889,
+      "num": 861889,
+      "word": "价值70万头发被盗民警48小时追回",
+      "onboard_time": 1699681290,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830979,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 755891,
+      "num": 755891,
+      "word": "许晴名下工作室等被执行624万",
+      "onboard_time": 1699679370,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745211,
       "num": 745211,
       "word": "萧亚轩状态",
@@ -227,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 687768,
+      "num": 687768,
+      "word": "日本明治牛奶检出兽药残留",
+      "onboard_time": 1699680211,
+      "rank": 18,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 670046,
       "num": 670046,
       "word": "奚梦瑶硬核提醒何猷君少吃甜食",
@@ -249,6 +273,14 @@
       "onboard_time": 1699667189,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 613060,
+      "num": 613060,
+      "word": "赞多遗憾退赛",
+      "onboard_time": 1699682971,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 596073,
@@ -289,14 +321,6 @@
       "onboard_time": 1699668453,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 511917,
-      "num": 511917,
-      "word": "许晴名下工作室等被执行624万",
-      "onboard_time": 1699679370,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 497025,
@@ -403,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383565,
+      "num": 383565,
+      "word": "李现任敏对手戏",
+      "onboard_time": 1699683511,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379249,
-      "num": 379249,
+      "num": 387738,
       "word": "男生梦中被室友叫醒先懵后感动",
       "onboard_time": 1699676913,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377162,
+      "num": 377162,
+      "word": "谁家女主小说还原度这么高",
+      "onboard_time": 1699681768,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 375797,
@@ -449,6 +489,22 @@
       "onboard_time": 1699660587,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 362989,
+      "num": 303630,
+      "word": "姜雪宁被强吻的反应",
+      "onboard_time": 1699681889,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 356372,
+      "num": 299279,
+      "word": "田小娟LIZ金玟庭合作新歌",
+      "onboard_time": 1699681649,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 350358,
@@ -595,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253908,
+      "num": 235812,
+      "word": "宋茜出道前素颜参加综艺",
+      "onboard_time": 1699683268,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 253164,
+      "num": 166072,
+      "word": "秦岚迪丽热巴赵昭仪吃的好香",
+      "onboard_time": 1699683389,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251295,
       "num": 251295,
       "word": "关晓彤 主持",
@@ -609,6 +681,14 @@
       "onboard_time": 1699677151,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234432,
+      "num": 161600,
+      "word": "王鹤棣拍的白鹿跳舞",
+      "onboard_time": 1699681349,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 233095,
@@ -665,6 +745,14 @@
       "onboard_time": 1699632992,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226802,
+      "num": 226802,
+      "word": "钟南山说有6种新冠病毒疫苗可选择",
+      "onboard_time": 1699682429,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226101,
@@ -731,12 +819,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 213610,
-      "num": 213610,
-      "word": "日本明治牛奶检出兽药残留",
-      "onboard_time": 1699680211,
-      "rank": 18,
-      "category": "美食,社会新闻"
+      "raw_hot": 212700,
+      "num": 212700,
+      "word": "院长之子中学就参与发表高水平论文",
+      "onboard_time": 1699680033,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211217,
@@ -867,6 +955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 186505,
+      "num": 156019,
+      "word": "于正审美一直没变",
+      "onboard_time": 1699680933,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180630,
       "num": 162655,
       "word": "成毅真丝镂空内搭",
@@ -979,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163806,
+      "num": 155768,
+      "word": "丁程鑫即兴锁舞",
+      "onboard_time": 1699682309,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162991,
       "num": 107061,
       "word": "曾明辉 梳化",
@@ -1019,12 +1123,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154751,
-      "num": 154751,
-      "word": "院长之子中学就参与发表高水平论文",
-      "onboard_time": 1699680033,
-      "rank": 23,
-      "category": "教育,社会新闻"
+      "raw_hot": 156348,
+      "num": 156348,
+      "word": "健身 最好的医美",
+      "onboard_time": 1699680988,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 156139,
+      "num": 145496,
+      "word": "宁安如梦 入我危门",
+      "onboard_time": 1699680868,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154909,
+      "num": 107013,
+      "word": "就业homie团",
+      "onboard_time": 1699682309,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153735,
@@ -1033,6 +1153,14 @@
       "onboard_time": 1699664133,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150244,
+      "num": 150244,
+      "word": "湖人双杀太阳",
+      "onboard_time": 1699683389,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 150103,
@@ -1057,6 +1185,14 @@
       "onboard_time": 1699664551,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146825,
+      "num": 146825,
+      "word": "29岁小伙手腕被切断医生通宵缝合",
+      "onboard_time": 1699681410,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146816,
@@ -1097,6 +1233,14 @@
       "onboard_time": 1699631256,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 126793,
+      "num": 104706,
+      "word": "水龙吟官宣概念海报",
+      "onboard_time": 1699681410,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 126134,
@@ -1147,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107823,
+      "num": 107823,
+      "word": "吗喽都用上苹果手机了",
+      "onboard_time": 1699683332,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107260,
       "num": 107260,
       "word": "出现这些症状要警惕前列腺增生",
@@ -1161,6 +1313,14 @@
       "onboard_time": 1699623511,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101263,
+      "num": 101263,
+      "word": "双11快递送出外卖速度",
+      "onboard_time": 1699683389,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 95708,
@@ -1385,6 +1545,14 @@
       "onboard_time": 1699618231,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37059,
+      "num": 299492,
+      "word": "饿了么大券包半价买茅台海蓝之谜",
+      "onboard_time": 1699682429,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 30357,
