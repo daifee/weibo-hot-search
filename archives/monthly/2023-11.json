@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699715757481,
+  "endTime": 1699716854077,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -729,6 +729,14 @@
       "onboard_time": 1698830315,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2191480,
+      "num": 2191480,
+      "word": "郑恺说很对不起苗苗",
+      "onboard_time": 1699715615,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 2186614,
@@ -4971,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718137,
+      "num": 392002,
+      "word": "金莎 我是我人生剧本里的大女主",
+      "onboard_time": 1699714416,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717935,
       "num": 717935,
       "word": "泫雅签约金晓钟经纪公司",
@@ -5009,14 +5025,6 @@
       "onboard_time": 1699002513,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 715740,
-      "num": 392002,
-      "word": "金莎 我是我人生剧本里的大女主",
-      "onboard_time": 1699714416,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 713683,
@@ -6576,14 +6584,6 @@
       "word": "苏醒说欢迎卢昱晓加入娱乐圈",
       "onboard_time": 1699456014,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 568386,
-      "num": 360054,
-      "word": "郑恺说很对不起苗苗",
-      "onboard_time": 1699715615,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -9577,6 +9577,14 @@
       "onboard_time": 1698894573,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409310,
+      "num": 245755,
+      "word": "王星越 小孩哥",
+      "onboard_time": 1699715492,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 409201,
@@ -13627,6 +13635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285606,
+      "num": 236697,
+      "word": "crisp 最后一局完成了救赎",
+      "onboard_time": 1699715134,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285485,
       "num": 285485,
       "word": "杨幂黑天鹅红唇妆",
@@ -14136,6 +14152,14 @@
       "word": "谷江山 西安",
       "onboard_time": 1699101397,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 274572,
+      "num": 164554,
+      "word": "陈楚生 莫干山音乐节",
+      "onboard_time": 1699716456,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -14715,6 +14739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263994,
+      "num": 164433,
+      "word": "关晓彤王牌控诉华晨宇",
+      "onboard_time": 1699716517,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263898,
       "num": 236777,
       "word": "家里猫猫竟突然复活",
@@ -15121,6 +15153,14 @@
       "onboard_time": 1698813874,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 255712,
+      "num": 174133,
+      "word": "张遮 白月光",
+      "onboard_time": 1699715733,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 255459,
@@ -15899,6 +15939,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 243325,
+      "num": 164393,
+      "word": "李现要录综艺了",
+      "onboard_time": 1699716338,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243309,
       "num": 202240,
       "word": "脸色暗沉发黄原因",
@@ -16107,6 +16155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239519,
+      "num": 164369,
+      "word": "李一桐好会演被虐的戏",
+      "onboard_time": 1699715975,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239304,
       "num": 239304,
       "word": "李金铭参加明星到我家错过花少",
@@ -16281,14 +16337,6 @@
       "onboard_time": 1699229075,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236697,
-      "num": 236697,
-      "word": "crisp 最后一局完成了救赎",
-      "onboard_time": 1699715134,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 236688,
@@ -16617,14 +16665,6 @@
       "onboard_time": 1699510952,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 231969,
-      "num": 231969,
-      "word": "王星越 小孩哥",
-      "onboard_time": 1699715492,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231948,
@@ -17227,6 +17267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224351,
+      "num": 400756,
+      "word": "53岁父亲带着脑梗儿子跑网约车",
+      "onboard_time": 1699712254,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224268,
       "num": 224268,
       "word": "詹姆斯35分",
@@ -17435,6 +17483,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 222147,
+      "num": 222147,
+      "word": "Bin 感谢所有人的支持",
+      "onboard_time": 1699716214,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222070,
       "num": 222070,
       "word": "于适说王影璐挺愿意演猪八戒的",
@@ -17553,14 +17609,6 @@
       "onboard_time": 1699027476,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 220075,
-      "num": 400756,
-      "word": "53岁父亲带着脑梗儿子跑网约车",
-      "onboard_time": 1699712254,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219985,
@@ -18163,6 +18211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212033,
+      "num": 164355,
+      "word": "女生皮肤超好的总结",
+      "onboard_time": 1699716517,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 211791,
       "num": 211791,
       "word": "谢危的疯是根本找不到代餐的疯",
@@ -18393,6 +18449,14 @@
       "onboard_time": 1699283560,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209668,
+      "num": 164345,
+      "word": "G2 宝想要TheShy",
+      "onboard_time": 1699715795,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 209607,
@@ -22251,14 +22315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174133,
-      "num": 174133,
-      "word": "张遮 白月光",
-      "onboard_time": 1699715733,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173773,
       "num": 220641,
       "word": "谏山创 通通创飞",
@@ -24089,6 +24145,14 @@
       "onboard_time": 1699001497,
       "rank": 34,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 155031,
+      "num": 226058,
+      "word": "老板娘送1箱奶茶感谢民警追回20元",
+      "onboard_time": 1699715975,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154974,
@@ -28051,6 +28115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115365,
+      "num": 115365,
+      "word": "全场为TheShy唱生日歌",
+      "onboard_time": 1699716338,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115298,
       "num": 115298,
       "word": "好吧 原来是我不会玩",
@@ -30020,7 +30092,7 @@
     },
     {
       "raw_hot": 76257,
-      "num": 931002,
+      "num": 1007212,
       "word": "一声声我是中国空军安全感拉满",
       "onboard_time": 1699707753,
       "rank": 2,
@@ -30795,6 +30867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 48632,
+      "num": 196521,
+      "word": "多个黄金商家线上价格或破底价",
+      "onboard_time": 1699714836,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48185,
       "num": 208532,
       "word": "一下雪东北学生的快乐就是这么简单",
@@ -31145,14 +31225,6 @@
       "onboard_time": 1699650554,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 29593,
-      "num": 196521,
-      "word": "多个黄金商家线上价格或破底价",
-      "onboard_time": 1699714836,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29219,

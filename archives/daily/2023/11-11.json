@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699715757481,
+  "endTime": 1699716854077,
   "band_list": [
     {
       "raw_hot": 4813017,
@@ -64,6 +64,14 @@
       "word": "易烊千玺 限定玫瑰",
       "onboard_time": 1699632873,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2191480,
+      "num": 2191480,
+      "word": "郑恺说很对不起苗苗",
+      "onboard_time": 1699715615,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -443,7 +451,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 715740,
+      "raw_hot": 718137,
       "num": 392002,
       "word": "金莎 我是我人生剧本里的大女主",
       "onboard_time": 1699714416,
@@ -617,14 +625,6 @@
       "onboard_time": 1699664910,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 568386,
-      "num": 360054,
-      "word": "郑恺说很对不起苗苗",
-      "onboard_time": 1699715615,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 559157,
@@ -881,6 +881,14 @@
       "onboard_time": 1699669710,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409310,
+      "num": 245755,
+      "word": "王星越 小孩哥",
+      "onboard_time": 1699715492,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 403348,
@@ -1339,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285606,
+      "num": 236697,
+      "word": "crisp 最后一局完成了救赎",
+      "onboard_time": 1699715134,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 283271,
       "num": 283271,
       "word": "恋爱是朋友谈的 气是我生的",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1699619614,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274572,
+      "num": 164554,
+      "word": "陈楚生 莫干山音乐节",
+      "onboard_time": 1699716456,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 273835,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1699701515,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263994,
+      "num": 164433,
+      "word": "关晓彤王牌控诉华晨宇",
+      "onboard_time": 1699716517,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 263796,
@@ -1523,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255712,
+      "num": 174133,
+      "word": "张遮 白月光",
+      "onboard_time": 1699715733,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254397,
       "num": 254397,
       "word": "王楚钦梁靖崑3比2徐瑛彬曹巍",
@@ -1587,12 +1627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236697,
-      "num": 236697,
-      "word": "crisp 最后一局完成了救赎",
-      "onboard_time": 1699715134,
-      "rank": 32,
-      "category": "电竞"
+      "raw_hot": 243325,
+      "num": 164393,
+      "word": "李现要录综艺了",
+      "onboard_time": 1699716338,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239519,
+      "num": 164369,
+      "word": "李一桐好会演被虐的戏",
+      "onboard_time": 1699715975,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 234432,
@@ -1609,14 +1657,6 @@
       "onboard_time": 1699627176,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231969,
-      "num": 231969,
-      "word": "王星越 小孩哥",
-      "onboard_time": 1699715492,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 230713,
@@ -1707,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224351,
+      "num": 400756,
+      "word": "53岁父亲带着脑梗儿子跑网约车",
+      "onboard_time": 1699712254,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223723,
       "num": 574544,
       "word": "加沙孩子受伤没有麻醉药哭声不断",
@@ -1723,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222147,
+      "num": 222147,
+      "word": "Bin 感谢所有人的支持",
+      "onboard_time": 1699716214,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221273,
       "num": 221273,
       "word": "关晓彤豆浆油条舞台",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1699680510,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220075,
-      "num": 400756,
-      "word": "53岁父亲带着脑梗儿子跑网约车",
-      "onboard_time": 1699712254,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219985,
@@ -1787,6 +1835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212033,
+      "num": 164355,
+      "word": "女生皮肤超好的总结",
+      "onboard_time": 1699716517,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 211217,
       "num": 127733,
       "word": "宁安如梦",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1699680089,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209668,
+      "num": 164345,
+      "word": "G2 宝想要TheShy",
+      "onboard_time": 1699715795,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 209118,
@@ -2155,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174133,
-      "num": 174133,
-      "word": "张遮 白月光",
-      "onboard_time": 1699715733,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172846,
       "num": 171413,
       "word": "薛之谦温州演唱会",
@@ -2377,6 +2433,14 @@
       "onboard_time": 1699689389,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155031,
+      "num": 226058,
+      "word": "老板娘送1箱奶茶感谢民警追回20元",
+      "onboard_time": 1699715975,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154909,
@@ -2659,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115365,
+      "num": 115365,
+      "word": "全场为TheShy唱生日歌",
+      "onboard_time": 1699716338,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115192,
       "num": 107468,
       "word": "轮到我点评单依纯了",
@@ -2916,7 +2988,7 @@
     },
     {
       "raw_hot": 76257,
-      "num": 931002,
+      "num": 1007212,
       "word": "一声声我是中国空军安全感拉满",
       "onboard_time": 1699707753,
       "rank": 2,
@@ -3051,6 +3123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 48632,
+      "num": 196521,
+      "word": "多个黄金商家线上价格或破底价",
+      "onboard_time": 1699714836,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46492,
       "num": 1174309,
       "word": "中国自贸区先锋十年",
@@ -3081,14 +3161,6 @@
       "onboard_time": 1699650554,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 29593,
-      "num": 196521,
-      "word": "多个黄金商家线上价格或破底价",
-      "onboard_time": 1699714836,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24946,
