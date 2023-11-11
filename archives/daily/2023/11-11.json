@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699713241190,
+  "endTime": 1699715757481,
   "band_list": [
     {
       "raw_hot": 4813017,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1460769,
+      "num": 1460769,
+      "word": "张艺兴说去国外见了吴世勋",
+      "onboard_time": 1699713094,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1448892,
       "num": 1448892,
       "word": "最好在睡前4小时吃完最后一餐",
@@ -265,6 +273,14 @@
       "onboard_time": 1699627356,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 927024,
+      "num": 927024,
+      "word": "羽绒服",
+      "onboard_time": 1699712014,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 917952,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 715740,
+      "num": 392002,
+      "word": "金莎 我是我人生剧本里的大女主",
+      "onboard_time": 1699714416,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701094,
       "num": 296319,
       "word": "Xiaohu首次晋级世界赛决赛",
@@ -499,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641957,
+      "num": 361970,
+      "word": "吴楚一开始带货了",
+      "onboard_time": 1699712913,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634044,
       "num": 582064,
       "word": "刘亦菲 阿布扎比",
@@ -528,6 +560,14 @@
       "word": "宋茜出道前素颜参加综艺",
       "onboard_time": 1699683268,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 624911,
+      "num": 624911,
+      "word": "你好星期六下周有林俊杰",
+      "onboard_time": 1699711715,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -579,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 568386,
+      "num": 360054,
+      "word": "郑恺说很对不起苗苗",
+      "onboard_time": 1699715615,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559157,
       "num": 559157,
       "word": "奎因上单 尽兴",
@@ -593,14 +641,6 @@
       "onboard_time": 1699706436,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 556254,
-      "num": 556254,
-      "word": "羽绒服",
-      "onboard_time": 1699712014,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 541637,
@@ -643,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524862,
-      "num": 524862,
-      "word": "你好星期六下周有林俊杰",
-      "onboard_time": 1699711715,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 523884,
       "num": 523884,
       "word": "WBG 陌生",
@@ -673,14 +705,6 @@
       "onboard_time": 1699627655,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 520920,
-      "num": 520920,
-      "word": "张艺兴说去国外见了吴世勋",
-      "onboard_time": 1699713094,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 516877,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402429,
+      "num": 402429,
+      "word": "芒果我可以信你一回吗",
+      "onboard_time": 1699711835,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398441,
       "num": 206976,
       "word": "野画集",
@@ -921,6 +953,14 @@
       "onboard_time": 1699698815,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389124,
+      "num": 255841,
+      "word": "时宴在hi6求婚郑书意",
+      "onboard_time": 1699712913,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 388535,
@@ -1163,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318800,
-      "num": 255031,
-      "word": "芒果我可以信你一回吗",
-      "onboard_time": 1699711835,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317555,
       "num": 317555,
       "word": "TheShy和Bin都带过李佳航玩游戏",
@@ -1259,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300735,
+      "num": 237129,
+      "word": "密子君 中韩泰融合烤肉自助",
+      "onboard_time": 1699714532,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 299016,
       "num": 299016,
       "word": "白鹿王鹤棣魏哲鸣跳舞三人三色",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1699692510,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290992,
+      "num": 501597,
+      "word": "老师为学生买药摔伤学生到病房读感谢信",
+      "onboard_time": 1699710515,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288406,
@@ -1443,12 +1491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259783,
-      "num": 501597,
-      "word": "老师为学生买药摔伤学生到病房读感谢信",
-      "onboard_time": 1699710515,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 260231,
+      "num": 249959,
+      "word": "王鹤棣是在安慰李雪琴吗",
+      "onboard_time": 1699715196,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 258385,
@@ -1539,12 +1587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237960,
-      "num": 237960,
-      "word": "吴楚一开始带货了",
-      "onboard_time": 1699712913,
+      "raw_hot": 236697,
+      "num": 236697,
+      "word": "crisp 最后一局完成了救赎",
+      "onboard_time": 1699715134,
       "rank": 32,
-      "category": "艺人"
+      "category": "电竞"
     },
     {
       "raw_hot": 234432,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1699627176,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231969,
+      "num": 231969,
+      "word": "王星越 小孩哥",
+      "onboard_time": 1699715492,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230713,
@@ -1683,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220075,
+      "num": 400756,
+      "word": "53岁父亲带着脑梗儿子跑网约车",
+      "onboard_time": 1699712254,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219985,
       "num": 197587,
       "word": "严艺丹做了角姐笛飞声的证婚人",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1699677450,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 211428,
-      "num": 180709,
-      "word": "时宴在hi6求婚郑书意",
-      "onboard_time": 1699712913,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 211217,
@@ -2099,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174133,
+      "num": 174133,
+      "word": "张遮 白月光",
+      "onboard_time": 1699715733,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172846,
       "num": 171413,
       "word": "薛之谦温州演唱会",
@@ -2257,6 +2321,14 @@
       "onboard_time": 1699657280,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161528,
+      "num": 256772,
+      "word": "狼队2比1热刺",
+      "onboard_time": 1699714232,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 161278,
@@ -2587,20 +2659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116924,
-      "num": 175272,
-      "word": "53岁父亲带着脑梗儿子跑网约车",
-      "onboard_time": 1699712254,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115192,
       "num": 107468,
       "word": "轮到我点评单依纯了",
       "onboard_time": 1699684109,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112622,
+      "num": 238070,
+      "word": "曼联vs卢顿",
+      "onboard_time": 1699714416,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 112319,
@@ -2844,7 +2916,7 @@
     },
     {
       "raw_hot": 76257,
-      "num": 730793,
+      "num": 931002,
       "word": "一声声我是中国空军安全感拉满",
       "onboard_time": 1699707753,
       "rank": 2,
@@ -3009,6 +3081,14 @@
       "onboard_time": 1699650554,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 29593,
+      "num": 196521,
+      "word": "多个黄金商家线上价格或破底价",
+      "onboard_time": 1699714836,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24946,
