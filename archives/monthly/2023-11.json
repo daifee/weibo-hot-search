@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699706730707,
+  "endTime": 1699708698147,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 4503121,
-      "num": 4503121,
+      "num": 7688641,
       "word": "WBG战胜BLG",
       "onboard_time": 1699704938,
       "rank": 0,
@@ -5051,6 +5051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701094,
+      "num": 296319,
+      "word": "Xiaohu首次晋级世界赛决赛",
+      "onboard_time": 1699707453,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 700546,
       "num": 324384,
       "word": "长痘与身体器官的联系",
@@ -5619,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634044,
+      "num": 296012,
+      "word": "刘亦菲 阿布扎比",
+      "onboard_time": 1699707396,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633971,
       "num": 633971,
       "word": "中山二院乳腺肿瘤实验室门牌标志摘除",
@@ -5641,6 +5657,14 @@
       "onboard_time": 1699398505,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632845,
+      "num": 632845,
+      "word": "全华班",
+      "onboard_time": 1699706135,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 632760,
@@ -6691,6 +6715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 557527,
+      "num": 557527,
+      "word": "ON怎么OFF了",
+      "onboard_time": 1699706436,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 557439,
       "num": 557439,
       "word": "LNG输比赛多品牌直播间抗寒梗爆了",
@@ -7651,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493952,
+      "num": 493952,
+      "word": "林诗栋蒯曼3比1王楚钦孙颖莎",
+      "onboard_time": 1699707335,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493949,
       "num": 493949,
       "word": "中国担任联合国安理会本月轮值主席",
@@ -8488,14 +8528,6 @@
       "word": "WBG 我们今天都是LNG粉丝",
       "onboard_time": 1699172130,
       "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 447369,
-      "num": 447369,
-      "word": "全华班",
-      "onboard_time": 1699706135,
-      "rank": 25,
       "category": "电竞"
     },
     {
@@ -9953,6 +9985,14 @@
       "onboard_time": 1699014455,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 390496,
+      "num": 390496,
+      "word": "灯神 登神",
+      "onboard_time": 1699706856,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 390058,
@@ -13219,14 +13259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 289642,
-      "num": 289642,
-      "word": "ON怎么OFF了",
-      "onboard_time": 1699706436,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 289545,
       "num": 289545,
       "word": "癫公颠婆 使不完的牛劲",
@@ -14649,6 +14681,14 @@
       "onboard_time": 1698984156,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 261644,
+      "num": 261644,
+      "word": "相信JDG",
+      "onboard_time": 1699707996,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 260922,
@@ -18331,6 +18371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207966,
+      "num": 207966,
+      "word": "时宴果然是最有安全感的男人",
+      "onboard_time": 1699708357,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207921,
       "num": 207921,
       "word": "代号鸢 保底",
@@ -19297,6 +19345,14 @@
       "onboard_time": 1699016797,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198773,
+      "num": 228551,
+      "word": "莎头 健康涨球",
+      "onboard_time": 1699708535,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198758,
@@ -24833,6 +24889,14 @@
       "onboard_time": 1698854673,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145725,
+      "num": 145725,
+      "word": "妈祖来祝福这对情侣啦",
+      "onboard_time": 1699708474,
+      "rank": 48,
+      "category": "幽默,综艺"
     },
     {
       "raw_hot": 145290,
@@ -30691,6 +30755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36078,
+      "num": 730793,
+      "word": "一声声我是中国空军安全感拉满",
+      "onboard_time": 1699707753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36006,
       "num": 360927,
       "word": "曼城6比1伯恩茅斯",
@@ -31105,6 +31177,14 @@
       "onboard_time": 1698952635,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12756,
+      "num": 421433,
+      "word": "王濛竞燃之夜见",
+      "onboard_time": 1699707636,
+      "rank": 14,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 12410,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699708698147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4292427,
+        "num": 7688641,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1699704938,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 772452,
+        "num": 772452,
+        "word": "TheShy生日礼物",
+        "onboard_time": 1699705716,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36078,
+        "num": 730793,
+        "word": "一声声我是中国空军安全感拉满",
+        "onboard_time": 1699707753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705434,
+        "num": 705434,
+        "word": "WBG晋级S13总决赛",
+        "onboard_time": 1699705420,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 652901,
+        "num": 652901,
+        "word": "张杰用女儿的名字命名麦克风",
+        "onboard_time": 1699699114,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632845,
+        "num": 632845,
+        "word": "全华班",
+        "onboard_time": 1699706135,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 557527,
+        "num": 557527,
+        "word": "ON怎么OFF了",
+        "onboard_time": 1699706436,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 548253,
+        "num": 548253,
+        "word": "计划有变 准备夺冠",
+        "onboard_time": 1699705659,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 534964,
+        "num": 534964,
+        "word": "迪丽热巴是下一季花少导演",
+        "onboard_time": 1699699595,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493952,
+        "num": 493952,
+        "word": "林诗栋蒯曼3比1王楚钦孙颖莎",
+        "onboard_time": 1699707335,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1775275,
+        "num": 488029,
+        "word": "fx 重聚",
+        "onboard_time": 1699704392,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468770,
+        "num": 468770,
+        "word": "上限冠军下限亚军",
+        "onboard_time": 1699706196,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447721,
+        "num": 447721,
+        "word": "藏海女主",
+        "onboard_time": 1699700853,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188440,
+        "num": 429596,
+        "word": "80后父亲放弃百万年薪做陪读宝爸",
+        "onboard_time": 1699698815,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12756,
+        "num": 421433,
+        "word": "王濛竞燃之夜见",
+        "onboard_time": 1699707636,
+        "rank": 14,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 384550,
+        "num": 421229,
+        "word": "T1 作业好抄",
+        "onboard_time": 1699696949,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 401983,
+        "num": 401983,
+        "word": "iG官宣新阵容",
+        "onboard_time": 1699699773,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390496,
+        "num": 390496,
+        "word": "灯神 登神",
+        "onboard_time": 1699706856,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 365633,
+        "num": 365633,
+        "word": "韩国女歌手Nahee去世",
+        "onboard_time": 1699702891,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296801,
+        "num": 296801,
+        "word": "G2盛赞TheShy",
+        "onboard_time": 1699701754,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 701094,
+        "num": 296319,
+        "word": "Xiaohu首次晋级世界赛决赛",
+        "onboard_time": 1699707453,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 657781,
+        "num": 296262,
+        "word": "小学校长9年强奸猥亵22名学生",
+        "onboard_time": 1699684770,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 634044,
+        "num": 296012,
+        "word": "刘亦菲 阿布扎比",
+        "onboard_time": 1699707396,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295561,
+        "num": 295561,
+        "word": "恋综 挣钱",
+        "onboard_time": 1699701875,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109446,
+        "num": 270690,
+        "word": "男孩用书帮女孩遮阳光不料遇高手",
+        "onboard_time": 1699691969,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263296,
+        "num": 263296,
+        "word": "大侦探下一季众多老玩家回归",
+        "onboard_time": 1699701030,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261644,
+        "num": 261644,
+        "word": "相信JDG",
+        "onboard_time": 1699707996,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260233,
+        "num": 260233,
+        "word": "马立奥回归爸爸当家3",
+        "onboard_time": 1699698753,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247515,
+        "num": 247515,
+        "word": "国色芳华官宣杨紫李现",
+        "onboard_time": 1699687411,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246227,
+        "num": 246227,
+        "word": "长沙一女子洗澡洗出个鸟病",
+        "onboard_time": 1699694550,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235829,
+        "num": 235829,
+        "word": "张杰和三个女儿背影照",
+        "onboard_time": 1699700911,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 230648,
+        "word": "男枪上单 今夕是何年",
+        "onboard_time": 1699698933,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198773,
+        "num": 228551,
+        "word": "莎头 健康涨球",
+        "onboard_time": 1699708535,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169344,
+        "num": 227203,
+        "word": "月入2万活得像月入2千",
+        "onboard_time": 1699695568,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226616,
+        "num": 226616,
+        "word": "TheShy 请神请到自己",
+        "onboard_time": 1699699534,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223215,
+        "num": 223215,
+        "word": "芒果招商会 苏醒宣讲会",
+        "onboard_time": 1699703071,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222342,
+        "num": 222342,
+        "word": "恋爱是朋友谈的 气是我生的",
+        "onboard_time": 1699705420,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218660,
+        "num": 218660,
+        "word": "歌手确认重启",
+        "onboard_time": 1699698451,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207966,
+        "num": 207966,
+        "word": "时宴果然是最有安全感的男人",
+        "onboard_time": 1699708357,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200435,
+        "num": 200435,
+        "word": "杨紫国风千金妆",
+        "onboard_time": 1699701209,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 198673,
+        "num": 198673,
+        "word": "TheShy实力倒退五年",
+        "onboard_time": 1699693170,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197612,
+        "num": 197612,
+        "word": "TheShy和Bin都带过李佳航玩游戏",
+        "onboard_time": 1699691667,
+        "rank": 41,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "谢危逮到姜雪宁给我笑拥了",
+        "onboard_time": 1699705837,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189579,
+        "num": 189579,
+        "word": "魏大勋一眼认出李叔同印章",
+        "onboard_time": 1699693232,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195844,
+        "num": 188163,
+        "word": "白鹿拍的张凌赫",
+        "onboard_time": 1699698088,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178635,
+        "num": 178635,
+        "word": "李现的女主运",
+        "onboard_time": 1699696470,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152373,
+        "num": 152373,
+        "word": "女子用筋膜枪买东西致手指骨折",
+        "onboard_time": 1699699895,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151517,
+        "num": 151517,
+        "word": "TheShy生日 buff",
+        "onboard_time": 1699690530,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145725,
+        "num": 145725,
+        "word": "妈祖来祝福这对情侣啦",
+        "onboard_time": 1699708474,
+        "rank": 48,
+        "category": "幽默,综艺"
+      },
+      {
+        "raw_hot": 133672,
+        "num": 133672,
+        "word": "林俊杰南京演唱会",
+        "onboard_time": 1699701209,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤将沟通哪些重大问题#"
+    }
+  }
+}

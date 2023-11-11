@@ -1,10 +1,10 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699706730707,
+  "endTime": 1699708698147,
   "band_list": [
     {
       "raw_hot": 4503121,
-      "num": 4503121,
+      "num": 7688641,
       "word": "WBG战胜BLG",
       "onboard_time": 1699704938,
       "rank": 0,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701094,
+      "num": 296319,
+      "word": "Xiaohu首次晋级世界赛决赛",
+      "onboard_time": 1699707453,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 697402,
       "num": 518761,
       "word": "李现的女主运",
@@ -473,6 +481,22 @@
       "onboard_time": 1699630895,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634044,
+      "num": 296012,
+      "word": "刘亦菲 阿布扎比",
+      "onboard_time": 1699707396,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 632845,
+      "num": 632845,
+      "word": "全华班",
+      "onboard_time": 1699706135,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 626322,
@@ -544,6 +568,14 @@
       "word": "奎因上单 尽兴",
       "onboard_time": 1699700251,
       "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 557527,
+      "num": 557527,
+      "word": "ON怎么OFF了",
+      "onboard_time": 1699706436,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -659,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493952,
+      "num": 493952,
+      "word": "林诗栋蒯曼3比1王楚钦孙颖莎",
+      "onboard_time": 1699707335,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491668,
       "num": 491668,
       "word": "白鹿拍的张凌赫",
@@ -712,14 +752,6 @@
       "word": "男枪上单 今夕是何年",
       "onboard_time": 1699698933,
       "rank": 18,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 447369,
-      "num": 447369,
-      "word": "全华班",
-      "onboard_time": 1699706135,
-      "rank": 25,
       "category": "电竞"
     },
     {
@@ -809,6 +841,14 @@
       "onboard_time": 1699630655,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390496,
+      "num": 390496,
+      "word": "灯神 登神",
+      "onboard_time": 1699706856,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 389152,
@@ -1123,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289642,
-      "num": 289642,
-      "word": "ON怎么OFF了",
-      "onboard_time": 1699706436,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 288406,
       "num": 956462,
       "word": "男子心脏骤停遇医生5秒火速抢救",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1699680033,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 261644,
+      "num": 261644,
+      "word": "相信JDG",
+      "onboard_time": 1699707996,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 258385,
@@ -1555,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207966,
+      "num": 207966,
+      "word": "时宴果然是最有安全感的男人",
+      "onboard_time": 1699708357,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206051,
       "num": 171137,
       "word": "当底层孩子接触到上层生活",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1699674031,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198773,
+      "num": 228551,
+      "word": "莎头 健康涨球",
+      "onboard_time": 1699708535,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198699,
@@ -2105,6 +2161,14 @@
       "onboard_time": 1699664732,
       "rank": 37,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 145725,
+      "num": 145725,
+      "word": "妈祖来祝福这对情侣啦",
+      "onboard_time": 1699708474,
+      "rank": 48,
+      "category": "幽默,综艺"
     },
     {
       "raw_hot": 145283,
@@ -2699,6 +2763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 36078,
+      "num": 730793,
+      "word": "一声声我是中国空军安全感拉满",
+      "onboard_time": 1699707753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30357,
       "num": 1557689,
       "word": "70秒速览进博会精彩瞬间",
@@ -2737,6 +2809,14 @@
       "onboard_time": 1699627773,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12756,
+      "num": 421433,
+      "word": "王濛竞燃之夜见",
+      "onboard_time": 1699707636,
+      "rank": 14,
+      "category": "体育,电竞"
     }
   ],
   "hotgov_list": [
