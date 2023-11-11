@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699690795929,
+  "endTime": 1699691656612,
   "band_list": [
     {
       "raw_hot": 3220912,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1163424,
+      "num": 1163424,
+      "word": "老人反对装电梯建好又想用被全楼拒绝",
+      "onboard_time": 1699687171,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155666,
       "num": 1155666,
       "word": "网红于文亮直播喊话一起圈钱",
@@ -129,14 +137,6 @@
       "onboard_time": 1699670969,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1014978,
-      "num": 1014978,
-      "word": "老人反对装电梯建好又想用被全楼拒绝",
-      "onboard_time": 1699687171,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1013269,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 782275,
+      "num": 782275,
+      "word": "秦岚什么时候偷偷举得铁",
+      "onboard_time": 1699685668,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780202,
       "num": 780202,
       "word": "原来张遮知道姜雪宁为他自戕",
@@ -265,14 +273,6 @@
       "onboard_time": 1699662450,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 725236,
-      "num": 725236,
-      "word": "秦岚什么时候偷偷举得铁",
-      "onboard_time": 1699685668,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 691268,
@@ -432,6 +432,14 @@
       "word": "父母每月寄10斤日用品给00后儿子",
       "onboard_time": 1699620639,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422043,
+      "num": 308237,
+      "word": "哈佛硕士应聘事业单位合同工",
+      "onboard_time": 1699689990,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313575,
+      "num": 313575,
+      "word": "女子麦当劳吃出异物被店员备注辱骂",
+      "onboard_time": 1699685490,
+      "rank": 21,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 305671,
       "num": 305671,
       "word": "TheShy与Bin互放狠话",
@@ -665,6 +681,14 @@
       "onboard_time": 1699631853,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 299016,
+      "num": 299016,
+      "word": "白鹿王鹤棣魏哲鸣跳舞三人三色",
+      "onboard_time": 1699691069,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 297408,
@@ -793,14 +817,6 @@
       "onboard_time": 1699627176,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231633,
-      "num": 231633,
-      "word": "女子麦当劳吃出异物被店员备注辱骂",
-      "onboard_time": 1699685490,
-      "rank": 21,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 230713,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205887,
+      "num": 205887,
+      "word": "aespa新歌DRAMA音中舞台",
+      "onboard_time": 1699690829,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205557,
       "num": 366310,
       "word": "山东下雪",
@@ -977,6 +1001,14 @@
       "onboard_time": 1699683389,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201297,
+      "num": 201297,
+      "word": "芒果驷马难追大剧片单",
+      "onboard_time": 1699691429,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 200555,
@@ -1043,14 +1075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195413,
-      "num": 149190,
-      "word": "哈佛硕士应聘事业单位合同工",
-      "onboard_time": 1699689990,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193423,
       "num": 143149,
       "word": "时代少年团戴领带不告诉宋亚轩张真源",
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181815,
+      "num": 181815,
+      "word": "医生解释为何女性更易患甲状腺癌",
+      "onboard_time": 1699690286,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180630,
       "num": 162655,
       "word": "成毅真丝镂空内搭",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1699661367,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177722,
+      "num": 177722,
+      "word": "TheShy生日 buff",
+      "onboard_time": 1699690530,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 176856,
@@ -1227,20 +1267,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164162,
+      "num": 164162,
+      "word": "刘诗雯官宣参加竞燃之夜",
+      "onboard_time": 1699690048,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163806,
       "num": 155768,
       "word": "丁程鑫即兴锁舞",
       "onboard_time": 1699682309,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163352,
-      "num": 163352,
-      "word": "TheShy生日 buff",
-      "onboard_time": 1699690530,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 162991,
@@ -1273,14 +1313,6 @@
       "onboard_time": 1699657280,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 159053,
-      "num": 159053,
-      "word": "刘诗雯官宣参加竞燃之夜",
-      "onboard_time": 1699690048,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 157500,
@@ -1339,12 +1371,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 148272,
-      "num": 148272,
-      "word": "医生解释为何女性更易患甲状腺癌",
-      "onboard_time": 1699690286,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 147805,
+      "num": 147805,
+      "word": "男子心脏骤停遇医生5秒火速抢救",
+      "onboard_time": 1699690410,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147661,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1699672589,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136275,
+      "num": 136275,
+      "word": "张颂文拍的木芙蓉花",
+      "onboard_time": 1699691069,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 133200,
@@ -1545,14 +1585,6 @@
       "onboard_time": 1699667429,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111908,
-      "num": 111908,
-      "word": "男子心脏骤停遇医生5秒火速抢救",
-      "onboard_time": 1699690410,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109612,
@@ -1704,6 +1736,14 @@
       "word": "好客山东plus",
       "onboard_time": 1699668029,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76994,
+      "num": 76994,
+      "word": "网红于文亮塌房了么",
+      "onboard_time": 1699691368,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
