@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699738453078,
+  "endTime": 1699740908579,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -467,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51514,
+      "num": 28557,
+      "word": "男朋友转了5200给我买咖啡",
+      "onboard_time": 1699735693,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40959,
       "num": 149672,
       "word": "林诗栋蒯曼夺得混双冠军",
       "onboard_time": 1699711295,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38732,
-      "num": 25263,
-      "word": "男朋友转了5200给我买咖啡",
-      "onboard_time": 1699735693,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 33318,
@@ -491,8 +491,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21231,
-      "num": 21231,
+      "raw_hot": 31200,
+      "num": 28504,
+      "word": "原来妈妈三十年前就穿衣自由",
+      "onboard_time": 1699738814,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28091,
+      "num": 28091,
       "word": "莲花楼番外篇之角姐成亲",
       "onboard_time": 1699735753,
       "rank": 27,
