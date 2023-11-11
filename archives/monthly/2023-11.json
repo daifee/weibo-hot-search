@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699734868048,
+  "endTime": 1699737249630,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -31347,6 +31347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28202,
+      "num": 24318,
+      "word": "男朋友转了5200给我买咖啡",
+      "onboard_time": 1699735693,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27796,
       "num": 27796,
       "word": "Mark泰容泰民跳了Guilty",
@@ -31481,6 +31489,14 @@
       "onboard_time": 1699589434,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21231,
+      "num": 21231,
+      "word": "莲花楼番外篇之角姐成亲",
+      "onboard_time": 1699735753,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 20675,
