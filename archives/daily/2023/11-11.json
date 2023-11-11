@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699672754849,
+  "endTime": 1699673658494,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -75,16 +75,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1091797,
-      "num": 1091797,
+      "raw_hot": 1165812,
+      "num": 1165812,
       "word": "王鹤棣以爱为营直播忘关麦",
       "onboard_time": 1699670251,
       "rank": 7,
       "category": "剧集"
     },
     {
-      "raw_hot": 1082928,
-      "num": 1082928,
+      "raw_hot": 1093809,
+      "num": 1093809,
       "word": "你好星期六这把高端局",
       "onboard_time": 1699670969,
       "rank": 21,
@@ -179,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733300,
+      "num": 733300,
+      "word": "B太 破解大连海鲜餐厅加工店鬼秤",
+      "onboard_time": 1699671332,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 691268,
+      "num": 691268,
+      "word": "水龙吟",
+      "onboard_time": 1699671932,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655963,
       "num": 364361,
       "word": "时代少年团楼外楼首秀",
@@ -211,20 +227,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 561549,
-      "num": 406269,
-      "word": "B太 破解大连海鲜餐厅加工店鬼秤",
-      "onboard_time": 1699671332,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 541637,
       "num": 363607,
       "word": "苏有朋林志颖 小鱼儿与花无缺",
       "onboard_time": 1699627295,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523492,
+      "num": 523492,
+      "word": "最好在睡前4小时吃完最后一餐",
+      "onboard_time": 1699671751,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 523002,
@@ -248,14 +264,6 @@
       "word": "谁家男主在这种地方求婚",
       "onboard_time": 1699664488,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 480233,
-      "num": 401879,
-      "word": "水龙吟",
-      "onboard_time": 1699671932,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372590,
+      "num": 372590,
+      "word": "独行侠32比2打懵快船",
+      "onboard_time": 1699672468,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372152,
       "num": 372152,
       "word": "一点点否认倒闭",
@@ -395,8 +411,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328836,
+      "num": 328836,
+      "word": "马斯克盛赞中国人聪明又勤奋",
+      "onboard_time": 1699670069,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 324388,
-      "num": 282703,
+      "num": 315772,
       "word": "何德何能居然吃到鸟嬛售后",
       "onboard_time": 1699671150,
       "rank": 44,
@@ -435,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282542,
-      "num": 282542,
-      "word": "马斯克盛赞中国人聪明又勤奋",
-      "onboard_time": 1699670069,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 278813,
+      "num": 226963,
+      "word": "坚持吃核桃6个月会怎样",
+      "onboard_time": 1699670188,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 276982,
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270862,
+      "num": 225938,
+      "word": "徐穗珍背影",
+      "onboard_time": 1699672829,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266766,
       "num": 266766,
       "word": "还得是凤凰传奇",
@@ -475,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249604,
-      "num": 222512,
-      "word": "坚持吃核桃6个月会怎样",
-      "onboard_time": 1699670188,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 233095,
       "num": 233095,
       "word": "华晨宇一个月才回吴彤微信",
@@ -491,11 +515,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232986,
-      "num": 232986,
-      "word": "最好在睡前4小时吃完最后一餐",
-      "onboard_time": 1699671751,
-      "rank": 18,
+      "raw_hot": 230713,
+      "num": 230713,
+      "word": "碳水配羊肉越吃越香",
+      "onboard_time": 1699672589,
+      "rank": 33,
       "category": "美食"
     },
     {
@@ -507,8 +531,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229487,
+      "num": 192179,
+      "word": "花儿与少年发疯版",
+      "onboard_time": 1699672108,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227787,
-      "num": 165458,
+      "num": 186208,
       "word": "姜雪宁的母亲疯了吗",
       "onboard_time": 1699672108,
       "rank": 30,
@@ -571,12 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214808,
-      "num": 165103,
-      "word": "花儿与少年发疯版",
-      "onboard_time": 1699672108,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 213897,
+      "num": 188599,
+      "word": "水煮蛋的蛋黄外层为什么是绿色的",
+      "onboard_time": 1699672829,
+      "rank": 32,
+      "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 206976,
+      "num": 206976,
+      "word": "野画集",
+      "onboard_time": 1699673007,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 205557,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 198699,
-      "num": 164874,
+      "num": 185590,
       "word": "周深高估了观众的演唱水平",
       "onboard_time": 1699671689,
       "rank": 32,
@@ -675,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174402,
+      "num": 174402,
+      "word": "快船vs独行侠",
+      "onboard_time": 1699672288,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173889,
+      "num": 173889,
+      "word": "西安第一场雪有点猛",
+      "onboard_time": 1699670251,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172171,
       "num": 378289,
       "word": "新兰最新情话",
@@ -691,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165888,
-      "num": 165888,
-      "word": "西安第一场雪有点猛",
-      "onboard_time": 1699670251,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165743,
       "num": 165743,
       "word": "全球资管巨头先锋领航确认退出中国",
@@ -713,22 +761,6 @@
       "onboard_time": 1699644438,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164789,
-      "num": 164789,
-      "word": "碳水配羊肉越吃越香",
-      "onboard_time": 1699672589,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 164223,
-      "num": 164223,
-      "word": "快船vs独行侠",
-      "onboard_time": 1699672288,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 162986,
@@ -761,14 +793,6 @@
       "onboard_time": 1699615230,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154742,
-      "num": 160054,
-      "word": "独行侠32比2打懵快船",
-      "onboard_time": 1699672468,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 153735,
@@ -811,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 140112,
+      "num": 150609,
+      "word": "为什么秋冬免疫力会出走",
+      "onboard_time": 1699672589,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132602,
       "num": 132602,
       "word": "被中科院院士薛其坤种草了山东",
@@ -827,19 +859,19 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 131057,
-      "num": 150609,
-      "word": "为什么秋冬免疫力会出走",
-      "onboard_time": 1699672589,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126028,
       "num": 150419,
       "word": "89岁老人1天没进食店主暖心送水饺",
       "onboard_time": 1699668811,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124194,
+      "num": 124194,
+      "word": "因一句承诺夫妻照顾邻居30年",
+      "onboard_time": 1699673369,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -867,12 +899,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108577,
+      "num": 108577,
+      "word": "王曼昱让二追三",
+      "onboard_time": 1699673609,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102588,
       "num": 337743,
       "word": "可以穿羽绒服了",
       "onboard_time": 1699623511,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102581,
+      "num": 102581,
+      "word": "大熊猫也开始晒着太阳吃饭了",
+      "onboard_time": 1699673549,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95708,
@@ -1129,6 +1177,9 @@
     },
     {
       "word": "#习近平将赴美国举行中美元首会晤#"
+    },
+    {
+      "word": "#中美元首将在旧金山会晤#"
     }
   ]
 }
