@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699705810474,
+  "endTime": 1699706730707,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2316654,
+      "num": 771032,
+      "word": "fx 重聚",
+      "onboard_time": 1699704392,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2314124,
       "num": 2314124,
       "word": "台湾黑老大向好友炫枪将自己打死",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 2132235,
-      "num": 618869,
+      "num": 732612,
       "word": "新冠",
       "onboard_time": 1699702116,
       "rank": 44,
@@ -777,14 +785,6 @@
       "onboard_time": 1699433614,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1887486,
-      "num": 605080,
-      "word": "fx 重聚",
-      "onboard_time": 1699704392,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1846043,
@@ -2187,6 +2187,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 917952,
+      "num": 917952,
+      "word": "TheShy生日礼物",
+      "onboard_time": 1699705716,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 914262,
       "num": 914262,
       "word": "姜珮瑶 明媚的美",
@@ -2363,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860344,
+      "num": 860344,
+      "word": "计划有变 准备夺冠",
+      "onboard_time": 1699705659,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 857423,
       "num": 857423,
       "word": "苏州百亿毒地几乎成空城",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1699418197,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853360,
+      "num": 853360,
+      "word": "bin看家英雄找回手感",
+      "onboard_time": 1699702591,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 853263,
@@ -3049,14 +3073,6 @@
       "onboard_time": 1699537356,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723903,
-      "num": 598665,
-      "word": "bin看家英雄找回手感",
-      "onboard_time": 1699702591,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 722692,
@@ -4403,6 +4419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537765,
+      "num": 537765,
+      "word": "上限冠军下限亚军",
+      "onboard_time": 1699706196,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 537232,
       "num": 302324,
       "word": "月入2万活得像月入2千",
@@ -4532,7 +4556,7 @@
     },
     {
       "raw_hot": 523311,
-      "num": 523311,
+      "num": 549797,
       "word": "T1 作业好抄",
       "onboard_time": 1699696949,
       "rank": 16,
@@ -4643,6 +4667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 515385,
+      "num": 515385,
+      "word": "小虎 幽默",
+      "onboard_time": 1699695268,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 515351,
       "num": 341731,
       "word": "外交部回应哈马斯代表团或访北京",
@@ -4732,7 +4764,7 @@
     },
     {
       "raw_hot": 504998,
-      "num": 332530,
+      "num": 355948,
       "word": "长沙一女子洗澡洗出个鸟病",
       "onboard_time": 1699694550,
       "rank": 21,
@@ -5147,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468461,
+      "num": 468461,
+      "word": "G2盛赞TheShy",
+      "onboard_time": 1699701754,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 467985,
       "num": 467985,
       "word": "大连涉事小吃街疑因B太打假拉闸关灯",
@@ -5177,14 +5217,6 @@
       "onboard_time": 1699393333,
       "rank": 13,
       "category": "综艺,母婴育儿"
-    },
-    {
-      "raw_hot": 465274,
-      "num": 465274,
-      "word": "小虎 幽默",
-      "onboard_time": 1699695268,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 465078,
@@ -5328,6 +5360,14 @@
       "word": "WBG 我们今天都是LNG粉丝",
       "onboard_time": 1699172130,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 447369,
+      "num": 447369,
+      "word": "全华班",
+      "onboard_time": 1699706135,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -5945,14 +5985,6 @@
       "onboard_time": 1699263935,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407446,
-      "num": 407446,
-      "word": "TheShy生日礼物",
-      "onboard_time": 1699705716,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 407273,
@@ -6723,6 +6755,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 364509,
+      "num": 364509,
+      "word": "TheShy 请神请到自己",
+      "onboard_time": 1699699534,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 364145,
       "num": 317054,
       "word": "刘诗诗穿上高领毛衣还有脖子",
@@ -7171,14 +7211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342147,
-      "num": 342147,
-      "word": "G2盛赞TheShy",
-      "onboard_time": 1699701754,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 342088,
       "num": 342088,
       "word": "何泓姗8字发财刘海",
@@ -7281,14 +7313,6 @@
       "onboard_time": 1699587156,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 337173,
-      "num": 337173,
-      "word": "TheShy 请神请到自己",
-      "onboard_time": 1699699534,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 336104,
@@ -7699,6 +7723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317555,
+      "num": 317555,
+      "word": "TheShy和Bin都带过李佳航玩游戏",
+      "onboard_time": 1699691667,
+      "rank": 15,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 317505,
       "num": 317505,
       "word": "WTT太原 观众",
@@ -7899,6 +7931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308881,
+      "num": 308881,
+      "word": "芒果招商会 苏醒宣讲会",
+      "onboard_time": 1699703071,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308849,
       "num": 302834,
       "word": "这届年轻人喝咖啡的频率有多高",
@@ -7936,14 +7976,6 @@
       "word": "陈楚生冠军的排面",
       "onboard_time": 1699510172,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 306454,
-      "num": 306454,
-      "word": "芒果招商会 苏醒宣讲会",
-      "onboard_time": 1699703071,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -8073,14 +8105,6 @@
       "onboard_time": 1699412129,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299658,
-      "num": 299658,
-      "word": "TheShy和Bin都带过李佳航玩游戏",
-      "onboard_time": 1699691667,
-      "rank": 15,
-      "category": "电竞,艺人"
     },
     {
       "raw_hot": 299556,
@@ -8315,6 +8339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289642,
+      "num": 289642,
+      "word": "ON怎么OFF了",
+      "onboard_time": 1699706436,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289545,
       "num": 289545,
       "word": "癫公颠婆 使不完的牛劲",
@@ -8513,6 +8545,14 @@
       "onboard_time": 1699188456,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 283271,
+      "num": 283271,
+      "word": "恋爱是朋友谈的 气是我生的",
+      "onboard_time": 1699705420,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 283150,
@@ -9084,7 +9124,7 @@
     },
     {
       "raw_hot": 263796,
-      "num": 632219,
+      "num": 801458,
       "word": "林高远vs梁靖崑",
       "onboard_time": 1699704092,
       "rank": 9,
@@ -9105,6 +9145,14 @@
       "onboard_time": 1699512209,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263110,
+      "num": 239015,
+      "word": "杨紫国风千金妆",
+      "onboard_time": 1699701209,
+      "rank": 39,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 263101,
@@ -9459,14 +9507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251996,
-      "num": 251996,
-      "word": "恋爱是朋友谈的 气是我生的",
-      "onboard_time": 1699705420,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251983,
       "num": 189255,
       "word": "小狗认为摸头是世界上最幸福的事",
@@ -9635,14 +9675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247815,
-      "num": 239015,
-      "word": "杨紫国风千金妆",
-      "onboard_time": 1699701209,
-      "rank": 39,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 247469,
       "num": 247469,
       "word": "菜还没上筷子先花了两元",
@@ -9796,7 +9828,7 @@
     },
     {
       "raw_hot": 244034,
-      "num": 331851,
+      "num": 355088,
       "word": "女子用筋膜枪买东西致手指骨折",
       "onboard_time": 1699699895,
       "rank": 28,
@@ -10643,12 +10675,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 224402,
-      "num": 224402,
-      "word": "计划有变 准备夺冠",
-      "onboard_time": 1699705659,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 224538,
+      "num": 220561,
+      "word": "谢危逮到姜雪宁给我笑拥了",
+      "onboard_time": 1699705837,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 224268,
@@ -11395,6 +11427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209576,
+      "num": 209576,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699366597,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209477,
       "num": 209477,
       "word": "三分之二国土需羽绒服护体",
@@ -11585,14 +11625,6 @@
       "onboard_time": 1699623212,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206982,
-      "num": 206982,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1699366597,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 206957,
@@ -12580,7 +12612,7 @@
     },
     {
       "raw_hot": 194209,
-      "num": 237443,
+      "num": 482990,
       "word": "梁靖崑3比1林高远",
       "onboard_time": 1699705361,
       "rank": 39,
@@ -17595,6 +17627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109284,
+      "num": 201349,
+      "word": "奶奶为等孙子报平安在沙发上坐到深夜",
+      "onboard_time": 1699706674,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109210,
       "num": 109210,
       "word": "杰克逊帽子戏法",
@@ -17777,6 +17817,14 @@
       "onboard_time": 1699297574,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 103277,
+      "num": 572505,
+      "word": "天猫双11今晚追加红包雨",
+      "onboard_time": 1699704031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102815,
@@ -18251,14 +18299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90630,
-      "num": 572505,
-      "word": "天猫双11今晚追加红包雨",
-      "onboard_time": 1699704031,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90289,
       "num": 106359,
       "word": "第9批国家集采药品平均降价58%",
@@ -18452,7 +18492,7 @@
     },
     {
       "raw_hot": 82994,
-      "num": 407618,
+      "num": 482338,
       "word": "双11最后四小时1元买1斤商品",
       "onboard_time": 1699703791,
       "rank": 19,
@@ -18963,6 +19003,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 62670,
+      "num": 2336096,
+      "word": "江山如画",
+      "onboard_time": 1699689929,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62261,
       "num": 108162,
       "word": "入冬第一妆",
@@ -19129,14 +19177,6 @@
       "onboard_time": 1699682429,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53198,
-      "num": 2336096,
-      "word": "江山如画",
-      "onboard_time": 1699689929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53027,

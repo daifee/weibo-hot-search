@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699705810474,
+  "endTime": 1699706730707,
   "band_list": [
     {
       "raw_hot": 4503121,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2316654,
+      "num": 771032,
+      "word": "fx 重聚",
+      "onboard_time": 1699704392,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2198821,
       "num": 2198821,
       "word": "易烊千玺 限定玫瑰",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2132235,
-      "num": 618869,
+      "num": 732612,
       "word": "新冠",
       "onboard_time": 1699702116,
       "rank": 44,
@@ -81,14 +89,6 @@
       "onboard_time": 1699633828,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1887486,
-      "num": 605080,
-      "word": "fx 重聚",
-      "onboard_time": 1699704392,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1812641,
@@ -251,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 917952,
+      "num": 917952,
+      "word": "TheShy生日礼物",
+      "onboard_time": 1699705716,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 890121,
       "num": 890121,
       "word": "何炅不许任何一个夹子出现在他面前",
@@ -281,6 +289,22 @@
       "onboard_time": 1699681290,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860344,
+      "num": 860344,
+      "word": "计划有变 准备夺冠",
+      "onboard_time": 1699705659,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 853360,
+      "num": 853360,
+      "word": "bin看家英雄找回手感",
+      "onboard_time": 1699702591,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 832466,
@@ -377,14 +401,6 @@
       "onboard_time": 1699700853,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 723903,
-      "num": 598665,
-      "word": "bin看家英雄找回手感",
-      "onboard_time": 1699702591,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 721115,
@@ -547,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 537765,
+      "num": 537765,
+      "word": "上限冠军下限亚军",
+      "onboard_time": 1699706196,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 537232,
       "num": 302324,
       "word": "月入2万活得像月入2千",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 523311,
-      "num": 523311,
+      "num": 549797,
       "word": "T1 作业好抄",
       "onboard_time": 1699696949,
       "rank": 16,
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515385,
+      "num": 515385,
+      "word": "小虎 幽默",
+      "onboard_time": 1699695268,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 513516,
       "num": 513516,
       "word": "WBG半决赛先下一城",
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 504998,
-      "num": 332530,
+      "num": 355948,
       "word": "长沙一女子洗澡洗出个鸟病",
       "onboard_time": 1699694550,
       "rank": 21,
@@ -659,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468461,
+      "num": 468461,
+      "word": "G2盛赞TheShy",
+      "onboard_time": 1699701754,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 467985,
       "num": 467985,
       "word": "大连涉事小吃街疑因B太打假拉闸关灯",
@@ -667,19 +707,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465274,
-      "num": 465274,
-      "word": "小虎 幽默",
-      "onboard_time": 1699695268,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 458671,
       "num": 458671,
       "word": "男枪上单 今夕是何年",
       "onboard_time": 1699698933,
       "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 447369,
+      "num": 447369,
+      "word": "全华班",
+      "onboard_time": 1699706135,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -721,14 +761,6 @@
       "onboard_time": 1699669710,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407446,
-      "num": 407446,
-      "word": "TheShy生日礼物",
-      "onboard_time": 1699705716,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 403348,
@@ -867,6 +899,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 364509,
+      "num": 364509,
+      "word": "TheShy 请神请到自己",
+      "onboard_time": 1699699534,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 362989,
       "num": 326474,
       "word": "姜雪宁被强吻的反应",
@@ -923,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 342147,
-      "num": 342147,
-      "word": "G2盛赞TheShy",
-      "onboard_time": 1699701754,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 340476,
       "num": 340476,
       "word": "水煮蛋的蛋黄外层为什么是绿色的",
@@ -945,14 +977,6 @@
       "onboard_time": 1699618529,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337173,
-      "num": 337173,
-      "word": "TheShy 请神请到自己",
-      "onboard_time": 1699699534,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 336941,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317555,
+      "num": 317555,
+      "word": "TheShy和Bin都带过李佳航玩游戏",
+      "onboard_time": 1699691667,
+      "rank": 15,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 317168,
       "num": 317168,
       "word": "妈妈为省钱背冰箱坐20小时火车回家",
@@ -1027,8 +1059,8 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 306454,
-      "num": 306454,
+      "raw_hot": 308881,
+      "num": 308881,
       "word": "芒果招商会 苏醒宣讲会",
       "onboard_time": 1699703071,
       "rank": 32,
@@ -1067,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299658,
-      "num": 299658,
-      "word": "TheShy和Bin都带过李佳航玩游戏",
-      "onboard_time": 1699691667,
-      "rank": 15,
-      "category": "电竞,艺人"
-    },
-    {
       "raw_hot": 299016,
       "num": 299016,
       "word": "白鹿王鹤棣魏哲鸣跳舞三人三色",
@@ -1099,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289642,
+      "num": 289642,
+      "word": "ON怎么OFF了",
+      "onboard_time": 1699706436,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288406,
       "num": 956462,
       "word": "男子心脏骤停遇医生5秒火速抢救",
       "onboard_time": 1699690410,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283271,
+      "num": 283271,
+      "word": "恋爱是朋友谈的 气是我生的",
+      "onboard_time": 1699705420,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 281990,
@@ -1204,11 +1244,19 @@
     },
     {
       "raw_hot": 263796,
-      "num": 632219,
+      "num": 801458,
       "word": "林高远vs梁靖崑",
       "onboard_time": 1699704092,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263110,
+      "num": 239015,
+      "word": "杨紫国风千金妆",
+      "onboard_time": 1699701209,
+      "rank": 39,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 262893,
@@ -1275,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251996,
-      "num": 251996,
-      "word": "恋爱是朋友谈的 气是我生的",
-      "onboard_time": 1699705420,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251295,
       "num": 251295,
       "word": "关晓彤 主持",
@@ -1299,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247815,
-      "num": 239015,
-      "word": "杨紫国风千金妆",
-      "onboard_time": 1699701209,
-      "rank": 39,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 245122,
       "num": 172841,
       "word": "宋茜周渝民新剧的cp感",
@@ -1316,7 +1348,7 @@
     },
     {
       "raw_hot": 244034,
-      "num": 331851,
+      "num": 355088,
       "word": "女子用筋膜枪买东西致手指骨折",
       "onboard_time": 1699699895,
       "rank": 28,
@@ -1411,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224402,
-      "num": 224402,
-      "word": "计划有变 准备夺冠",
-      "onboard_time": 1699705659,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 224538,
+      "num": 220561,
+      "word": "谢危逮到姜雪宁给我笑拥了",
+      "onboard_time": 1699705837,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 223723,
@@ -1507,20 +1539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209576,
+      "num": 209576,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699704754,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209118,
       "num": 209118,
       "word": "王鹤棣在hi6背着白鹿满场跑",
       "onboard_time": 1699689628,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206982,
-      "num": 206982,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1699704754,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 206051,
@@ -1668,7 +1700,7 @@
     },
     {
       "raw_hot": 194209,
-      "num": 237443,
+      "num": 482990,
       "word": "梁靖崑3比1林高远",
       "onboard_time": 1699705361,
       "rank": 39,
@@ -2315,6 +2347,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 109284,
+      "num": 201349,
+      "word": "奶奶为等孙子报平安在沙发上坐到深夜",
+      "onboard_time": 1699706674,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107343,
       "num": 107343,
       "word": "孙俪还不够柔软那我算什么",
@@ -2337,6 +2377,14 @@
       "onboard_time": 1699683989,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 103277,
+      "num": 572505,
+      "word": "天猫双11今晚追加红包雨",
+      "onboard_time": 1699704031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102588,
@@ -2427,14 +2475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90630,
-      "num": 572505,
-      "word": "天猫双11今晚追加红包雨",
-      "onboard_time": 1699704031,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86415,
       "num": 86415,
       "word": "小孩被烫伤大哭民警一路狂飙送医",
@@ -2460,7 +2500,7 @@
     },
     {
       "raw_hot": 82994,
-      "num": 407618,
+      "num": 482338,
       "word": "双11最后四小时1元买1斤商品",
       "onboard_time": 1699703791,
       "rank": 19,
@@ -2579,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62670,
+      "num": 2336096,
+      "word": "江山如画",
+      "onboard_time": 1699689929,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61660,
       "num": 61660,
       "word": "成都欢乐谷NPC唐僧非其员工",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1699682429,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53198,
-      "num": 2336096,
-      "word": "江山如画",
-      "onboard_time": 1699689929,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52587,
