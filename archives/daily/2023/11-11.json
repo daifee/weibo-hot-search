@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699691656612,
+  "endTime": 1699694134383,
   "band_list": [
     {
       "raw_hot": 3220912,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 971340,
+      "num": 971340,
+      "word": "哈佛硕士应聘事业单位合同工",
+      "onboard_time": 1699689990,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939884,
       "num": 567655,
       "word": "王心凌在河南冻成了王心淩",
@@ -185,6 +193,14 @@
       "onboard_time": 1699627054,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 882473,
+      "num": 882473,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 866578,
@@ -363,11 +379,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530273,
-      "num": 530273,
-      "word": "WBG对战BLG",
-      "onboard_time": 1699688971,
-      "rank": 5,
+      "raw_hot": 523884,
+      "num": 523884,
+      "word": "WBG 陌生",
+      "onboard_time": 1699693170,
+      "rank": 6,
       "category": "电竞"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1699668453,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513516,
+      "num": 513516,
+      "word": "WBG半决赛先下一城",
+      "onboard_time": 1699692690,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 497025,
@@ -427,19 +451,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 440556,
+      "num": 440556,
+      "word": "魏大勋一眼认出李叔同印章",
+      "onboard_time": 1699693232,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439135,
       "num": 439135,
       "word": "父母每月寄10斤日用品给00后儿子",
       "onboard_time": 1699620639,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422043,
-      "num": 308237,
-      "word": "哈佛硕士应聘事业单位合同工",
-      "onboard_time": 1699689990,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382985,
+      "num": 382985,
+      "word": "TheShy实力倒退五年",
+      "onboard_time": 1699693170,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 379249,
       "num": 496139,
       "word": "男生梦中被室友叫醒先懵后感动",
@@ -577,6 +609,14 @@
       "onboard_time": 1699681889,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359587,
+      "num": 359587,
+      "word": "TheShy兰博单杀Bin",
+      "onboard_time": 1699692629,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 356372,
@@ -683,6 +723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 299658,
+      "num": 299658,
+      "word": "TheShy和Bin都带过李佳航玩游戏",
+      "onboard_time": 1699691667,
+      "rank": 15,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 299016,
       "num": 299016,
       "word": "白鹿王鹤棣魏哲鸣跳舞三人三色",
@@ -699,12 +747,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295821,
+      "num": 295821,
+      "word": "0713回应陈楚生16年后又夺冠",
+      "onboard_time": 1699692510,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290621,
+      "num": 290621,
+      "word": "张小斐2023大女主票房第一",
+      "onboard_time": 1699692690,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281990,
       "num": 274677,
       "word": "王星越原定演燕临",
       "onboard_time": 1699677989,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280483,
+      "num": 280483,
+      "word": "姜涛回怼网友",
+      "onboard_time": 1699693111,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 278813,
@@ -923,6 +995,14 @@
       "category": "艺人,运动健身"
     },
     {
+      "raw_hot": 218438,
+      "num": 218438,
+      "word": "钟楚曦车上化妆",
+      "onboard_time": 1699692510,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 217448,
       "num": 459669,
       "word": "用饿了么大券包买苹果15仅3千多",
@@ -953,6 +1033,14 @@
       "onboard_time": 1699680089,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210187,
+      "num": 210187,
+      "word": "猫 这辈子直了",
+      "onboard_time": 1699692629,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 209118,
@@ -1091,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189847,
+      "num": 189847,
+      "word": "TheShy生日 buff",
+      "onboard_time": 1699690530,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189082,
       "num": 126857,
       "word": "陈楚生用吉他弹奏出古琴音",
@@ -1163,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177722,
-      "num": 177722,
-      "word": "TheShy生日 buff",
-      "onboard_time": 1699690530,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176856,
       "num": 170343,
       "word": "网飞版三体定档",
@@ -1209,6 +1297,14 @@
       "onboard_time": 1699670251,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169238,
+      "num": 169238,
+      "word": "水瓶座工作情绪稳定都是装的",
+      "onboard_time": 1699692933,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 168714,
@@ -1267,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164517,
+      "num": 164517,
+      "word": "BLG BP被玩弄",
+      "onboard_time": 1699694007,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164162,
       "num": 164162,
       "word": "刘诗雯官宣参加竞燃之夜",
@@ -1315,6 +1419,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 161278,
+      "num": 161278,
+      "word": "一路前行今晚开播",
+      "onboard_time": 1699693470,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157500,
       "num": 157500,
       "word": "吗喽都用上苹果手机了",
@@ -1337,6 +1449,14 @@
       "onboard_time": 1699680868,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155492,
+      "num": 155492,
+      "word": "WBG对战BLG 比分预测",
+      "onboard_time": 1699689389,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 154909,
@@ -1419,6 +1539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142437,
+      "num": 180878,
+      "word": "男孩用书帮女孩遮阳光不料遇高手",
+      "onboard_time": 1699691969,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141257,
       "num": 141257,
       "word": "关晓彤晒王牌家族合影",
@@ -1483,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128074,
-      "num": 128074,
-      "word": "WBG对战BLG 比分预测",
-      "onboard_time": 1699689389,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126793,
       "num": 105770,
       "word": "水龙吟官宣概念海报",
@@ -1515,11 +1635,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124744,
+      "num": 124744,
+      "word": "守护解放西",
+      "onboard_time": 1699692389,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124194,
       "num": 124194,
       "word": "因一句承诺夫妻照顾邻居30年",
       "onboard_time": 1699673369,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122913,
+      "num": 122913,
+      "word": "男子栽倒在电梯00后学生转身紧紧拽住他",
+      "onboard_time": 1699693293,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1587,12 +1723,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109663,
+      "num": 109663,
+      "word": "网红于文亮塌房了么",
+      "onboard_time": 1699691368,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109612,
       "num": 273063,
       "word": "尚雯婕胡夏唱水神劈观",
       "onboard_time": 1699684828,
       "rank": 15,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 107343,
+      "num": 107343,
+      "word": "孙俪还不够柔软那我算什么",
+      "onboard_time": 1699692990,
+      "rank": 46,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 107260,
@@ -1736,14 +1888,6 @@
       "word": "好客山东plus",
       "onboard_time": 1699668029,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76994,
-      "num": 76994,
-      "word": "网红于文亮塌房了么",
-      "onboard_time": 1699691368,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1940,6 +2084,9 @@
     },
     {
       "word": "#中美元首将在旧金山会晤#"
+    },
+    {
+      "word": "#中美元首会晤将沟通哪些重大问题#"
     }
   ]
 }
