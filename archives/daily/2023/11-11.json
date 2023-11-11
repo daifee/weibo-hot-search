@@ -1,10 +1,10 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699686895670,
+  "endTime": 1699688041128,
   "band_list": [
     {
-      "raw_hot": 2725569,
-      "num": 2725569,
+      "raw_hot": 3220912,
+      "num": 3220912,
       "word": "小学校长9年强奸猥亵22名学生",
       "onboard_time": 1699684770,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1699676071,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2480673,
+      "num": 2480673,
+      "word": "国色芳华官宣杨紫李现",
+      "onboard_time": 1699687411,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2198821,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611259,
+      "num": 611259,
+      "word": "秦岚什么时候偷偷举得铁",
+      "onboard_time": 1699685668,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596073,
       "num": 359662,
       "word": "贵州一公职人员驾车撞死一对中年夫妇",
@@ -387,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459188,
-      "num": 459188,
-      "word": "秦岚什么时候偷偷举得铁",
-      "onboard_time": 1699685668,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 446168,
+      "num": 446168,
+      "word": "老师因误会学生当全班面鞠躬道歉",
+      "onboard_time": 1699684529,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 439135,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 413798,
-      "num": 327288,
+      "num": 372849,
       "word": "李现新剧一人分饰两角",
       "onboard_time": 1699685608,
       "rank": 11,
@@ -515,6 +531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 367900,
+      "num": 367900,
+      "word": "郑书意时宴初雪吻名场面",
+      "onboard_time": 1699687829,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365754,
       "num": 365754,
       "word": "我国战舰已经这么猛了",
@@ -585,14 +609,6 @@
       "onboard_time": 1699602152,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330413,
-      "num": 330413,
-      "word": "老师因误会学生当全班面鞠躬道歉",
-      "onboard_time": 1699684529,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 328836,
@@ -695,6 +711,14 @@
       "num": 262893,
       "word": "贾静雯曾敬骅办公室吻戏",
       "onboard_time": 1699674931,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 262833,
+      "num": 262833,
+      "word": "姜雪宁这一次推开了张遮",
+      "onboard_time": 1699686090,
       "rank": 22,
       "category": "剧集"
     },
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 225221,
-      "num": 183499,
+      "num": 215982,
       "word": "女子麦当劳吃出异物被店员备注辱骂",
       "onboard_time": 1699685490,
       "rank": 21,
@@ -825,6 +849,14 @@
       "onboard_time": 1699633770,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222741,
+      "num": 222741,
+      "word": "老人反对装电梯建好又想用被全楼拒绝",
+      "onboard_time": 1699687171,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221273,
@@ -849,6 +881,14 @@
       "onboard_time": 1699667429,
       "rank": 26,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 218558,
+      "num": 218558,
+      "word": "孙俪身体线条",
+      "onboard_time": 1699686269,
+      "rank": 25,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 217448,
@@ -881,14 +921,6 @@
       "onboard_time": 1699680089,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207878,
-      "num": 183201,
-      "word": "姜雪宁这一次推开了张遮",
-      "onboard_time": 1699686090,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 205557,
@@ -979,20 +1011,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 195727,
-      "num": 163967,
-      "word": "孙俪身体线条",
-      "onboard_time": 1699686269,
-      "rank": 25,
-      "category": "艺人,运动健身"
-    },
-    {
       "raw_hot": 193423,
       "num": 143149,
       "word": "时代少年团戴领带不告诉宋亚轩张真源",
       "onboard_time": 1699677450,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190157,
+      "num": 190157,
+      "word": "詹姆斯杜兰特王又见王",
+      "onboard_time": 1699686330,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 189082,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1699680933,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182644,
-      "num": 182644,
-      "word": "詹姆斯杜兰特王又见王",
-      "onboard_time": 1699686330,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 180630,
@@ -1195,6 +1219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 157500,
+      "num": 157500,
+      "word": "吗喽都用上苹果手机了",
+      "onboard_time": 1699683332,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157357,
       "num": 360228,
       "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1699680569,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150079,
-      "num": 150079,
-      "word": "吗喽都用上苹果手机了",
-      "onboard_time": 1699683332,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 149848,
@@ -1315,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132046,
+      "num": 132046,
+      "word": "东西方审美差异有多大",
+      "onboard_time": 1699686751,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131922,
       "num": 358238,
       "word": "61岁的腹肌奶奶太强了",
@@ -1379,12 +1411,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 115652,
-      "num": 115652,
+      "raw_hot": 118029,
+      "num": 118029,
       "word": "无价之宝开分9.4",
       "onboard_time": 1699684409,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117952,
+      "num": 117952,
+      "word": "快乐老友记 回答问题环节",
+      "onboard_time": 1699687051,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 115192,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1699667429,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109612,
+      "num": 273063,
+      "word": "尚雯婕胡夏唱水神劈观",
+      "onboard_time": 1699684828,
+      "rank": 15,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 107260,
@@ -1459,22 +1507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92969,
-      "num": 92969,
-      "word": "东西方审美差异有多大",
-      "onboard_time": 1699686751,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 92462,
-      "num": 261348,
-      "word": "尚雯婕胡夏唱水神劈观",
-      "onboard_time": 1699684828,
-      "rank": 15,
-      "category": "音乐,游戏"
-    },
-    {
       "raw_hot": 92141,
       "num": 106932,
       "word": "眼影结构画法",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1699617989,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86601,
+      "num": 86601,
+      "word": "最舍得给另一半花钱的星座",
+      "onboard_time": 1699687829,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 86415,
