@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699701207846,
+  "endTime": 1699702429797,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2491,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1169427,
+      "num": 1169427,
+      "word": "WBG与BLG决胜局",
+      "onboard_time": 1699701933,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1168876,
       "num": 1168876,
       "word": "加沙孩子被迫喝平时驴都不喝的水",
@@ -4443,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749682,
+      "num": 749682,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1699699773,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 749122,
       "num": 749122,
       "word": "中山二院称欢迎第三方机构评估调查",
@@ -4657,6 +4673,14 @@
       "onboard_time": 1699662450,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733422,
+      "num": 733422,
+      "word": "藏海女主",
+      "onboard_time": 1699700853,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 733326,
@@ -5273,6 +5297,14 @@
       "onboard_time": 1699350695,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663785,
+      "num": 663785,
+      "word": "大侦探下一季众多老玩家回归",
+      "onboard_time": 1699701030,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 663702,
@@ -5955,6 +5987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604463,
+      "num": 604463,
+      "word": "歌手确认重启",
+      "onboard_time": 1699698451,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603836,
       "num": 603836,
       "word": "奔跑吧官微运营的手机被抢走了",
@@ -6307,14 +6347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 576492,
-      "num": 576492,
-      "word": "歌手确认重启",
-      "onboard_time": 1699698451,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 574578,
       "num": 574578,
       "word": "网红低价叫卖学习机实际贵1700元",
@@ -6563,12 +6595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 560485,
-      "num": 560485,
-      "word": "大侦探下一季众多老玩家回归",
-      "onboard_time": 1699701030,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 559157,
+      "num": 559157,
+      "word": "奎因上单 尽兴",
+      "onboard_time": 1699700251,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 558829,
@@ -6868,7 +6900,7 @@
     },
     {
       "raw_hot": 537232,
-      "num": 288843,
+      "num": 302324,
       "word": "月入2万活得像月入2千",
       "onboard_time": 1699695568,
       "rank": 21,
@@ -7819,6 +7851,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 477573,
+      "num": 477573,
+      "word": "TheShy实力倒退五年",
+      "onboard_time": 1699693170,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 477491,
       "num": 477491,
       "word": "胰腺癌为什么被称为癌中之王",
@@ -8225,6 +8265,14 @@
       "onboard_time": 1698833372,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458671,
+      "num": 458671,
+      "word": "男枪上单 今夕是何年",
+      "onboard_time": 1699698933,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 457793,
@@ -8707,14 +8755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432196,
-      "num": 432196,
-      "word": "男枪上单 今夕是何年",
-      "onboard_time": 1699698933,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 432119,
       "num": 432119,
       "word": "含有肽字的护肤品 智商税",
@@ -8833,14 +8873,6 @@
       "onboard_time": 1699096358,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 426022,
-      "num": 426022,
-      "word": "TheShy实力倒退五年",
-      "onboard_time": 1699693170,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 425996,
@@ -9315,14 +9347,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 409597,
-      "num": 409597,
-      "word": "奎因上单 尽兴",
-      "onboard_time": 1699700251,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 409409,
       "num": 409409,
       "word": "领助学金学生看演唱会被要求删朋友圈",
@@ -9603,6 +9627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398206,
+      "num": 398206,
+      "word": "刘青松醒醒",
+      "onboard_time": 1699701634,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 398115,
       "num": 962276,
       "word": "水管工捡到300克黄金上交意外破获盗窃案",
@@ -9857,6 +9889,14 @@
       "onboard_time": 1698926253,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 389152,
+      "num": 1270615,
+      "word": "80后父亲放弃百万年薪做陪读宝爸",
+      "onboard_time": 1699698815,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389081,
@@ -10235,6 +10275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 376826,
+      "num": 376826,
+      "word": "恋综 挣钱",
+      "onboard_time": 1699701875,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376025,
       "num": 376025,
       "word": "谢娜不知道杨紫比张一山小",
@@ -10404,7 +10452,7 @@
     },
     {
       "raw_hot": 371721,
-      "num": 931214,
+      "num": 1169619,
       "word": "男孩用书帮女孩遮阳光不料遇高手",
       "onboard_time": 1699691969,
       "rank": 29,
@@ -11003,14 +11051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353605,
-      "num": 1270615,
-      "word": "80后父亲放弃百万年薪做陪读宝爸",
-      "onboard_time": 1699698815,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352908,
       "num": 294759,
       "word": "库克称iPhone15在中国表现良好",
@@ -11321,14 +11361,6 @@
       "onboard_time": 1699008759,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344082,
-      "num": 344082,
-      "word": "iG官宣新阵容",
-      "onboard_time": 1699699773,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 344056,
@@ -12651,12 +12683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302574,
+      "num": 302574,
+      "word": "谢娜何炅的三个举动好抢眼",
+      "onboard_time": 1699701331,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302372,
       "num": 302372,
       "word": "5元自助糯米饭",
       "onboard_time": 1699443813,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 302280,
+      "num": 302280,
+      "word": "张杰和三个女儿背影照",
+      "onboard_time": 1699700911,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 301964,
@@ -13059,6 +13107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290067,
+      "num": 290067,
+      "word": "G2盛赞TheShy",
+      "onboard_time": 1699701754,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289927,
       "num": 289927,
       "word": "央视网文娱评最美表演",
@@ -13124,7 +13180,7 @@
     },
     {
       "raw_hot": 288406,
-      "num": 786829,
+      "num": 956462,
       "word": "男子心脏骤停遇医生5秒火速抢救",
       "onboard_time": 1699690410,
       "rank": 39,
@@ -13585,6 +13641,14 @@
       "onboard_time": 1699456730,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278093,
+      "num": 278093,
+      "word": "TheShy 请神请到自己",
+      "onboard_time": 1699699534,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 278083,
@@ -14107,6 +14171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 269384,
+      "num": 269384,
+      "word": "林俊杰南京演唱会",
+      "onboard_time": 1699701209,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 269328,
       "num": 269328,
       "word": "女孩生日爷爷去世一空乘塞手写信安慰",
@@ -14217,6 +14289,14 @@
       "onboard_time": 1699357054,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265873,
+      "num": 265873,
+      "word": "Rookie解说",
+      "onboard_time": 1699701515,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 265662,
@@ -14489,14 +14569,6 @@
       "onboard_time": 1698981876,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260592,
-      "num": 260592,
-      "word": "张杰和三个女儿背影照",
-      "onboard_time": 1699700911,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 260427,
@@ -15171,6 +15243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248084,
+      "num": 248084,
+      "word": "偶像运动会",
+      "onboard_time": 1699699414,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247469,
       "num": 247469,
       "word": "菜还没上筷子先花了两元",
@@ -15339,14 +15419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245298,
-      "num": 245298,
-      "word": "偶像运动会",
-      "onboard_time": 1699699414,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245190,
       "num": 245190,
       "word": "宁安如梦 三人修罗场",
@@ -15427,6 +15499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244034,
+      "num": 302412,
+      "word": "女子用筋膜枪买东西致手指骨折",
+      "onboard_time": 1699699895,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243990,
       "num": 206786,
       "word": "6岁美国华裔小女孩用中文请假",
@@ -15497,14 +15577,6 @@
       "onboard_time": 1699070614,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 243016,
-      "num": 261012,
-      "word": "女子用筋膜枪买东西致手指骨折",
-      "onboard_time": 1699699895,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242970,
@@ -16073,6 +16145,14 @@
       "onboard_time": 1699434272,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233298,
+      "num": 233298,
+      "word": "杨紫国风千金妆",
+      "onboard_time": 1699701209,
+      "rank": 39,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 233274,
@@ -16664,14 +16744,6 @@
       "word": "宁安如梦贞礼课剧情",
       "onboard_time": 1699609712,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226371,
-      "num": 226371,
-      "word": "藏海女主",
-      "onboard_time": 1699700853,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -21251,6 +21323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179458,
+      "num": 179458,
+      "word": "英雄海",
+      "onboard_time": 1699701451,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179344,
       "num": 162095,
       "word": "张远 有没有恋综季",
@@ -21811,6 +21891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172801,
+      "num": 172801,
+      "word": "上海网红餐厅假冒外卖员传菜躲避检查",
+      "onboard_time": 1699699114,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172677,
       "num": 213325,
       "word": "妹妹一开口就是顶级嘲讽",
@@ -22273,6 +22361,14 @@
       "onboard_time": 1699678052,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 168121,
+      "num": 168121,
+      "word": "新冠",
+      "onboard_time": 1699702116,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168105,
@@ -24235,14 +24331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148875,
-      "num": 148875,
-      "word": "上海网红餐厅假冒外卖员传菜躲避检查",
-      "onboard_time": 1699699114,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148856,
       "num": 148856,
       "word": "顾云峥男狐狸",
@@ -25577,6 +25665,14 @@
       "onboard_time": 1699095271,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135452,
+      "num": 135452,
+      "word": "林诗栋1比3户上隼辅",
+      "onboard_time": 1699701568,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 135357,
@@ -29619,6 +29715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68305,
+      "num": 494009,
+      "word": "王鹤棣冲刺天猫双11",
+      "onboard_time": 1699698088,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68002,
       "num": 170405,
       "word": "119秒视频致敬119",
@@ -30204,7 +30308,7 @@
     },
     {
       "raw_hot": 46492,
-      "num": 1134581,
+      "num": 1174309,
       "word": "中国自贸区先锋十年",
       "onboard_time": 1699668333,
       "rank": 2,
@@ -30321,14 +30425,6 @@
       "onboard_time": 1699131855,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42262,
-      "num": 494009,
-      "word": "王鹤棣冲刺天猫双11",
-      "onboard_time": 1699698088,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 42050,
