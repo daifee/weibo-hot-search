@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699694134383,
+  "endTime": 1699695237123,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1763,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1091878,
+      "num": 1091878,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1083594,
       "num": 1083594,
       "word": "谁家接吻戴墨镜啊",
@@ -2195,14 +2203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 882473,
-      "num": 882473,
-      "word": "WBG对战BLG",
-      "onboard_time": 1699688971,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 879893,
       "num": 491997,
       "word": "三胞胎妈妈子宫壁仅1.2毫米",
@@ -2499,6 +2499,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 817060,
+      "num": 817060,
+      "word": "归国四子演唱会号召力",
+      "onboard_time": 1699694968,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 816300,
       "num": 816300,
       "word": "大S回应小S复出演戏",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1699421496,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799933,
+      "num": 799933,
+      "word": "魏大勋一眼认出李叔同印章",
+      "onboard_time": 1699693232,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 798690,
@@ -5171,14 +5187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 440556,
-      "num": 440556,
-      "word": "魏大勋一眼认出李叔同印章",
-      "onboard_time": 1699693232,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 440162,
       "num": 440162,
       "word": "张婧仪长眼线",
@@ -5779,6 +5787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400642,
+      "num": 400642,
+      "word": "TheShy实力倒退五年",
+      "onboard_time": 1699693170,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 400639,
       "num": 400639,
       "word": "刘些宁宁安如梦状态",
@@ -5995,6 +6011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 386783,
+      "num": 386783,
+      "word": "姜涛回怼网友",
+      "onboard_time": 1699693111,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386574,
       "num": 386574,
       "word": "我独自尖叫 海璐姐好会驯",
@@ -6073,14 +6097,6 @@
       "onboard_time": 1699620094,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382985,
-      "num": 382985,
-      "word": "TheShy实力倒退五年",
-      "onboard_time": 1699693170,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 382605,
@@ -7043,6 +7059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333514,
+      "num": 333514,
+      "word": "张小斐2023大女主票房第一",
+      "onboard_time": 1699692690,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333012,
       "num": 333012,
       "word": "学生状告老师剽窃科研成果案终审胜诉",
@@ -7337,6 +7361,14 @@
       "onboard_time": 1699429360,
       "rank": 15,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 318746,
+      "num": 199576,
+      "word": "长沙一女子洗澡洗出个鸟病",
+      "onboard_time": 1699694550,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318559,
@@ -7955,14 +7987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 290621,
-      "num": 290621,
-      "word": "张小斐2023大女主票房第一",
-      "onboard_time": 1699692690,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 290173,
       "num": 253080,
       "word": "张柏芝双开门冰箱",
@@ -8249,14 +8273,6 @@
       "onboard_time": 1699602092,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280483,
-      "num": 280483,
-      "word": "姜涛回怼网友",
-      "onboard_time": 1699693111,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 280220,
@@ -8553,6 +8569,14 @@
       "onboard_time": 1699672829,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270690,
+      "num": 270690,
+      "word": "BLG BP被玩弄",
+      "onboard_time": 1699694007,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 270385,
@@ -8921,6 +8945,14 @@
       "onboard_time": 1699109380,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256018,
+      "num": 256018,
+      "word": "Bin单杀TheShy",
+      "onboard_time": 1699694308,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 255886,
@@ -10091,6 +10123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226767,
+      "num": 210187,
+      "word": "猫 这辈子直了",
+      "onboard_time": 1699692629,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226660,
       "num": 170358,
       "word": "美甲价格",
@@ -10883,14 +10923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210187,
-      "num": 210187,
-      "word": "猫 这辈子直了",
-      "onboard_time": 1699692629,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210031,
       "num": 116581,
       "word": "权志龙撞脸余欢水",
@@ -11185,6 +11217,14 @@
       "onboard_time": 1699321230,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206051,
+      "num": 171137,
+      "word": "当底层孩子接触到上层生活",
+      "onboard_time": 1699694847,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 206038,
@@ -11889,6 +11929,14 @@
       "onboard_time": 1699670251,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196634,
+      "num": 196634,
+      "word": "隐藏姿态",
+      "onboard_time": 1699694728,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 196586,
@@ -13827,14 +13875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164517,
-      "num": 164517,
-      "word": "BLG BP被玩弄",
-      "onboard_time": 1699694007,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164396,
       "num": 567180,
       "word": "所有刷单都是诈骗还有人不知道",
@@ -14153,6 +14193,14 @@
       "onboard_time": 1699267773,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159532,
+      "num": 159532,
+      "word": "被无价之宝台词治愈了",
+      "onboard_time": 1699694488,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 159019,
@@ -15451,6 +15499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139747,
+      "num": 139747,
+      "word": "无价之宝开分9.4",
+      "onboard_time": 1699684409,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139718,
       "num": 139718,
       "word": "小朋友跳绳方圆十里不能站人",
@@ -16699,14 +16755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118029,
-      "num": 118029,
-      "word": "无价之宝开分9.4",
-      "onboard_time": 1699684409,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117952,
       "num": 117952,
       "word": "快乐老友记 回答问题环节",
@@ -17433,6 +17481,14 @@
       "onboard_time": 1699443212,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97990,
+      "num": 97990,
+      "word": "谢娜猫眼泪痣妆",
+      "onboard_time": 1699695087,
+      "rank": 47,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 97442,

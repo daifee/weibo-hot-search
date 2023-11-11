@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699694134383,
+  "endTime": 1699695237123,
   "band_list": [
     {
       "raw_hot": 3220912,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1091878,
+      "num": 1091878,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1013269,
       "num": 885921,
       "word": "9位乳腺癌患者自述早期症状",
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 882473,
-      "num": 882473,
-      "word": "WBG对战BLG",
-      "onboard_time": 1699688971,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 866578,
       "num": 866578,
       "word": "许晴名下工作室等被执行624万",
@@ -243,11 +243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 817060,
+      "num": 817060,
+      "word": "归国四子演唱会号召力",
+      "onboard_time": 1699694968,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 802757,
       "num": 372249,
       "word": "秦岚辛芷蕾是官宣的意思吗",
       "onboard_time": 1699627894,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 799933,
+      "num": 799933,
+      "word": "魏大勋一眼认出李叔同印章",
+      "onboard_time": 1699693232,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -451,14 +467,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 440556,
-      "num": 440556,
-      "word": "魏大勋一眼认出李叔同印章",
-      "onboard_time": 1699693232,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 439135,
       "num": 439135,
       "word": "父母每月寄10斤日用品给00后儿子",
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400642,
+      "num": 400642,
+      "word": "TheShy实力倒退五年",
+      "onboard_time": 1699693170,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 398441,
       "num": 206976,
       "word": "野画集",
@@ -531,20 +547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386783,
+      "num": 386783,
+      "word": "姜涛回怼网友",
+      "onboard_time": 1699693111,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384689,
       "num": 384689,
       "word": "姐姐被批评弟弟霸气护姐",
       "onboard_time": 1699661187,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382985,
-      "num": 382985,
-      "word": "TheShy实力倒退五年",
-      "onboard_time": 1699693170,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 379249,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333514,
+      "num": 333514,
+      "word": "张小斐2023大女主票房第一",
+      "onboard_time": 1699692690,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328836,
       "num": 328836,
       "word": "马斯克盛赞中国人聪明又勤奋",
@@ -689,6 +713,14 @@
       "onboard_time": 1699621174,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318746,
+      "num": 199576,
+      "word": "长沙一女子洗澡洗出个鸟病",
+      "onboard_time": 1699694550,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317168,
@@ -755,28 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290621,
-      "num": 290621,
-      "word": "张小斐2023大女主票房第一",
-      "onboard_time": 1699692690,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 281990,
       "num": 274677,
       "word": "王星越原定演燕临",
       "onboard_time": 1699677989,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280483,
-      "num": 280483,
-      "word": "姜涛回怼网友",
-      "onboard_time": 1699693111,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 278813,
@@ -819,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270690,
+      "num": 270690,
+      "word": "BLG BP被玩弄",
+      "onboard_time": 1699694007,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266766,
       "num": 266766,
       "word": "还得是凤凰传奇",
@@ -849,6 +873,14 @@
       "onboard_time": 1699680033,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 256018,
+      "num": 256018,
+      "word": "Bin单杀TheShy",
+      "onboard_time": 1699694308,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 253164,
@@ -937,6 +969,14 @@
       "onboard_time": 1699632992,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226767,
+      "num": 210187,
+      "word": "猫 这辈子直了",
+      "onboard_time": 1699692629,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 226101,
@@ -1035,20 +1075,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210187,
-      "num": 210187,
-      "word": "猫 这辈子直了",
-      "onboard_time": 1699692629,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209118,
       "num": 209118,
       "word": "王鹤棣在hi6背着白鹿满场跑",
       "onboard_time": 1699689628,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206051,
+      "num": 171137,
+      "word": "当底层孩子接触到上层生活",
+      "onboard_time": 1699694847,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 205887,
@@ -1139,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196634,
+      "num": 196634,
+      "word": "隐藏姿态",
+      "onboard_time": 1699694728,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196344,
       "num": 190266,
       "word": "宋茜陈星旭新剧双A海报",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1699680933,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184261,
+      "num": 184261,
+      "word": "拯救嫌疑人",
+      "onboard_time": 1699694910,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 181815,
@@ -1363,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164517,
-      "num": 164517,
-      "word": "BLG BP被玩弄",
-      "onboard_time": 1699694007,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164162,
       "num": 164162,
       "word": "刘诗雯官宣参加竞燃之夜",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1699693470,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159532,
+      "num": 159532,
+      "word": "被无价之宝台词治愈了",
+      "onboard_time": 1699694488,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 157500,
@@ -1563,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139747,
+      "num": 139747,
+      "word": "无价之宝开分9.4",
+      "onboard_time": 1699684409,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136275,
       "num": 136275,
       "word": "张颂文拍的木芙蓉花",
@@ -1691,14 +1755,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 118029,
-      "num": 118029,
-      "word": "无价之宝开分9.4",
-      "onboard_time": 1699684409,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117952,
       "num": 117952,
       "word": "快乐老友记 回答问题环节",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1699690590,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97990,
+      "num": 97990,
+      "word": "谢娜猫眼泪痣妆",
+      "onboard_time": 1699695087,
+      "rank": 47,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 96359,

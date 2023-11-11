@@ -1,0 +1,410 @@
+{
+  "runTime": 1699695237123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1279359,
+        "num": 1279359,
+        "word": "国色芳华官宣杨紫李现",
+        "onboard_time": 1699687411,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1091878,
+        "num": 1091878,
+        "word": "WBG对战BLG",
+        "onboard_time": 1699688971,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3956,
+        "num": 964836,
+        "word": "中国自贸区先锋十年",
+        "onboard_time": 1699668333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884713,
+        "num": 884713,
+        "word": "哈佛硕士应聘事业单位合同工",
+        "onboard_time": 1699689990,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817060,
+        "num": 817060,
+        "word": "归国四子演唱会号召力",
+        "onboard_time": 1699694968,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 799933,
+        "num": 799933,
+        "word": "魏大勋一眼认出李叔同印章",
+        "onboard_time": 1699693232,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721899,
+        "num": 721899,
+        "word": "老人反对装电梯建好又想用被全楼拒绝",
+        "onboard_time": 1699687171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585788,
+        "num": 585788,
+        "word": "秦岚什么时候偷偷举得铁",
+        "onboard_time": 1699685668,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400642,
+        "num": 400642,
+        "word": "TheShy实力倒退五年",
+        "onboard_time": 1699693170,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 390189,
+        "word": "男生梦中被室友叫醒先懵后感动",
+        "onboard_time": 1699676913,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386783,
+        "num": 386783,
+        "word": "姜涛回怼网友",
+        "onboard_time": 1699693111,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373889,
+        "num": 373889,
+        "word": "WBG 陌生",
+        "onboard_time": 1699693170,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333514,
+        "num": 333514,
+        "word": "张小斐2023大女主票房第一",
+        "onboard_time": 1699692690,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270690,
+        "num": 270690,
+        "word": "BLG BP被玩弄",
+        "onboard_time": 1699694007,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256018,
+        "num": 256018,
+        "word": "Bin单杀TheShy",
+        "onboard_time": 1699694308,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253578,
+        "num": 253578,
+        "word": "许晴名下工作室等被执行624万",
+        "onboard_time": 1699679370,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239603,
+        "num": 239603,
+        "word": "白鹿王鹤棣魏哲鸣跳舞三人三色",
+        "onboard_time": 1699691069,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219383,
+        "num": 219383,
+        "word": "网红于文亮直播喊话一起圈钱",
+        "onboard_time": 1699676849,
+        "rank": 17,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 211278,
+        "num": 211278,
+        "word": "女子麦当劳吃出异物被店员备注辱骂",
+        "onboard_time": 1699685490,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 202753,
+        "num": 202753,
+        "word": "宋茜出道前素颜参加综艺",
+        "onboard_time": 1699683268,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1711096,
+        "num": 200947,
+        "word": "小学校长9年强奸猥亵22名学生",
+        "onboard_time": 1699684770,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 318746,
+        "num": 199576,
+        "word": "长沙一女子洗澡洗出个鸟病",
+        "onboard_time": 1699694550,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226767,
+        "num": 199019,
+        "word": "猫 这辈子直了",
+        "onboard_time": 1699692629,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196749,
+        "num": 196749,
+        "word": "王鹤棣以爱为营直播忘关麦",
+        "onboard_time": 1699670251,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196634,
+        "num": 196634,
+        "word": "隐藏姿态",
+        "onboard_time": 1699694728,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187478,
+        "num": 187478,
+        "word": "0713回应陈楚生16年后又夺冠",
+        "onboard_time": 1699692510,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184261,
+        "num": 184261,
+        "word": "拯救嫌疑人",
+        "onboard_time": 1699694910,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179775,
+        "num": 179775,
+        "word": "姜雪宁被强吻的反应",
+        "onboard_time": 1699681889,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175734,
+        "num": 175734,
+        "word": "TheShy和Bin都带过李佳航玩游戏",
+        "onboard_time": 1699691667,
+        "rank": 28,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 121673,
+        "num": 171241,
+        "word": "男孩用书帮女孩遮阳光不料遇高手",
+        "onboard_time": 1699691969,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206051,
+        "num": 171137,
+        "word": "当底层孩子接触到上层生活",
+        "onboard_time": 1699694847,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167120,
+        "num": 167120,
+        "word": "钟楚曦车上化妆",
+        "onboard_time": 1699692510,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 160565,
+        "num": 160565,
+        "word": "WBG半决赛先下一城",
+        "onboard_time": 1699692690,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160480,
+        "num": 160480,
+        "word": "aespa新歌DRAMA音中舞台",
+        "onboard_time": 1699690829,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159532,
+        "num": 159532,
+        "word": "被无价之宝台词治愈了",
+        "onboard_time": 1699694488,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153955,
+        "num": 153955,
+        "word": "水瓶座工作情绪稳定都是装的",
+        "onboard_time": 1699692933,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148843,
+        "num": 148843,
+        "word": "李现新剧一人分饰两角",
+        "onboard_time": 1699685608,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147609,
+        "num": 147609,
+        "word": "大学生招嫖被骗1500报警自首",
+        "onboard_time": 1699676071,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144582,
+        "num": 144582,
+        "word": "TheShy兰博单杀Bin",
+        "onboard_time": 1699692629,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139747,
+        "num": 139747,
+        "word": "无价之宝开分9.4",
+        "onboard_time": 1699684409,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138989,
+        "num": 138989,
+        "word": "价值70万头发被盗民警48小时追回",
+        "onboard_time": 1699681290,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137736,
+        "num": 137736,
+        "word": "一路前行今晚开播",
+        "onboard_time": 1699693470,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124487,
+        "num": 124487,
+        "word": "医生解释为何女性更易患甲状腺癌",
+        "onboard_time": 1699690286,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122351,
+        "num": 122351,
+        "word": "男子心脏骤停遇医生5秒火速抢救",
+        "onboard_time": 1699690410,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110588,
+        "num": 110588,
+        "word": "守护解放西",
+        "onboard_time": 1699692389,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105981,
+        "num": 105981,
+        "word": "网红于文亮塌房了么",
+        "onboard_time": 1699691368,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99931,
+        "num": 99931,
+        "word": "老师因误会学生当全班面鞠躬道歉",
+        "onboard_time": 1699684529,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97990,
+        "num": 97990,
+        "word": "谢娜猫眼泪痣妆",
+        "onboard_time": 1699695087,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 84074,
+        "num": 97501,
+        "word": "日本明治牛奶检出兽药残留",
+        "onboard_time": 1699680211,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 79996,
+        "num": 97491,
+        "word": "刘诗雯官宣参加竞燃之夜",
+        "onboard_time": 1699690048,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤将沟通哪些重大问题#"
+    }
+  }
+}
