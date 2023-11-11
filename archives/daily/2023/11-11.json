@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699666342157,
+  "endTime": 1699668798450,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157758,
+      "num": 1157758,
+      "word": "钟南山称近期将有新冠感染小高峰",
+      "onboard_time": 1699666470,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1013269,
       "num": 885921,
       "word": "9位乳腺癌患者自述早期症状",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 939884,
-      "num": 384427,
+      "num": 567655,
       "word": "王心凌在河南冻成了王心淩",
       "onboard_time": 1699627356,
       "rank": 11,
@@ -147,12 +155,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644215,
+      "num": 644215,
+      "word": "原来张遮知道姜雪宁为他自戕",
+      "onboard_time": 1699667369,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 622255,
+      "num": 622255,
+      "word": "KPOP格莱美0提名",
+      "onboard_time": 1699667189,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 596073,
       "num": 359662,
       "word": "贵州一公职人员驾车撞死一对中年夫妇",
       "onboard_time": 1699625316,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591452,
+      "num": 591452,
+      "word": "辛芷蕾快挂到刘涛秦岚身上去了",
+      "onboard_time": 1699664910,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 541637,
@@ -171,20 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516877,
+      "num": 516877,
+      "word": "蔡国庆在问易烊千玺观后感吗",
+      "onboard_time": 1699668453,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 497025,
+      "num": 497025,
+      "word": "谁家男主在这种地方求婚",
+      "onboard_time": 1699664488,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477333,
       "num": 384382,
       "word": "何炅谢娜易烊千玺同台拥抱",
       "onboard_time": 1699665569,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472439,
-      "num": 472439,
-      "word": "谁家男主在这种地方求婚",
-      "onboard_time": 1699664488,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 467985,
@@ -201,14 +241,6 @@
       "onboard_time": 1699620639,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428980,
-      "num": 384094,
-      "word": "辛芷蕾快挂到刘涛秦岚身上去了",
-      "onboard_time": 1699664910,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413831,
@@ -256,6 +288,14 @@
       "word": "姐姐被批评弟弟霸气护姐",
       "onboard_time": 1699661187,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375797,
+      "num": 375797,
+      "word": "广东卫健委主任朱宏被查",
+      "onboard_time": 1699667009,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -331,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 299365,
+      "num": 299365,
+      "word": "银行回应信用卡欠3.1万未还变40万",
+      "onboard_time": 1699668333,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 276982,
       "num": 222632,
       "word": "王嘉尔 空降",
@@ -371,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230023,
+      "num": 197600,
+      "word": "立麦 插兜 花瓣雨",
+      "onboard_time": 1699662931,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227051,
       "num": 227051,
       "word": "于适送外卖被拒之门外",
@@ -380,7 +436,7 @@
     },
     {
       "raw_hot": 223723,
-      "num": 223723,
+      "num": 574544,
       "word": "加沙孩子受伤没有麻醉药哭声不断",
       "onboard_time": 1699664850,
       "rank": 19,
@@ -403,12 +459,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219985,
+      "num": 197587,
+      "word": "严艺丹做了角姐笛飞声的证婚人",
+      "onboard_time": 1699667429,
+      "rank": 26,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 205557,
       "num": 366310,
       "word": "山东下雪",
       "onboard_time": 1699627054,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204854,
+      "num": 197231,
+      "word": "非凡医者",
+      "onboard_time": 1699668629,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204284,
+      "num": 179865,
+      "word": "胡彦斌近期状态",
+      "onboard_time": 1699668509,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197241,
@@ -419,8 +499,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190786,
-      "num": 190786,
+      "raw_hot": 195823,
+      "num": 195823,
       "word": "睡觉鬼压床了怎样快速醒来",
       "onboard_time": 1699663471,
       "rank": 24,
@@ -481,14 +561,6 @@
       "onboard_time": 1699657280,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 159756,
-      "num": 132628,
-      "word": "立麦 插兜 花瓣雨",
-      "onboard_time": 1699662931,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 157357,
@@ -563,12 +635,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 112319,
+      "num": 112319,
+      "word": "孟佳在哪秀场就在哪",
+      "onboard_time": 1699667429,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102588,
       "num": 337743,
       "word": "可以穿羽绒服了",
       "onboard_time": 1699623511,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95708,
+      "num": 95708,
+      "word": "购物车分享",
+      "onboard_time": 1699668629,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 95531,
@@ -699,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58195,
+      "num": 459669,
+      "word": "用饿了么大券包买苹果15仅3千多",
+      "onboard_time": 1699668029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57378,
       "num": 53434,
       "word": "以前的古装和现在的古装",
@@ -731,12 +827,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 46492,
+      "num": 1134581,
+      "word": "中国自贸区先锋十年",
+      "onboard_time": 1699668333,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43774,
       "num": 216376,
       "word": "阿维塔",
       "onboard_time": 1699618231,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30357,
+      "num": 1557689,
+      "word": "70秒速览进博会精彩瞬间",
+      "onboard_time": 1699622674,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 29803,
@@ -755,14 +867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 24419,
-      "num": 1557689,
-      "word": "70秒速览进博会精彩瞬间",
-      "onboard_time": 1699622674,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 21792,
       "num": 29463,
       "word": "俞灏明不愧是舞动奇迹冠军",
@@ -777,6 +881,14 @@
       "onboard_time": 1699627773,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 16562,
+      "num": 114026,
+      "word": "好客山东plus",
+      "onboard_time": 1699668029,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

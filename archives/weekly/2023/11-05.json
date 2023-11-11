@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699666342157,
+  "endTime": 1699668798450,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1579,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1157758,
+      "num": 1157758,
+      "word": "钟南山称近期将有新冠感染小高峰",
+      "onboard_time": 1699666470,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155213,
       "num": 1155213,
       "word": "谁家接吻带墨镜啊",
@@ -1620,7 +1628,7 @@
     },
     {
       "raw_hot": 1130227,
-      "num": 398897,
+      "num": 567655,
       "word": "王心凌在河南冻成了王心淩",
       "onboard_time": 1699627356,
       "rank": 13,
@@ -3171,6 +3179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 644215,
+      "num": 644215,
+      "word": "原来张遮知道姜雪宁为他自戕",
+      "onboard_time": 1699667369,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643654,
       "num": 643654,
       "word": "皇马替樊振东发了Vlog",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1699340735,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622255,
+      "num": 622255,
+      "word": "KPOP格莱美0提名",
+      "onboard_time": 1699667189,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 622154,
@@ -3585,6 +3609,14 @@
       "onboard_time": 1699589672,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591452,
+      "num": 591452,
+      "word": "辛芷蕾快挂到刘涛秦岚身上去了",
+      "onboard_time": 1699664910,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 591372,
@@ -4203,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516877,
+      "num": 516877,
+      "word": "蔡国庆在问易烊千玺观后感吗",
+      "onboard_time": 1699668453,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515634,
       "num": 515634,
       "word": "坍塌体育馆开发商是当地建设局退休干部",
@@ -4345,6 +4385,14 @@
       "onboard_time": 1699327411,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497025,
+      "num": 497025,
+      "word": "谁家男主在这种地方求婚",
+      "onboard_time": 1699664488,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 496350,
@@ -4625,14 +4673,6 @@
       "onboard_time": 1699229974,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472439,
-      "num": 472439,
-      "word": "谁家男主在这种地方求婚",
-      "onboard_time": 1699664488,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 471002,
@@ -5105,14 +5145,6 @@
       "onboard_time": 1699622192,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 428980,
-      "num": 384094,
-      "word": "辛芷蕾快挂到刘涛秦岚身上去了",
-      "onboard_time": 1699664910,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 428387,
@@ -5881,6 +5913,14 @@
       "onboard_time": 1699108238,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375797,
+      "num": 375797,
+      "word": "广东卫健委主任朱宏被查",
+      "onboard_time": 1699667009,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375742,
@@ -7345,6 +7385,14 @@
       "onboard_time": 1699408292,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299365,
+      "num": 299365,
+      "word": "银行回应信用卡欠3.1万未还变40万",
+      "onboard_time": 1699668333,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 299042,
@@ -9427,6 +9475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230023,
+      "num": 197600,
+      "word": "立麦 插兜 花瓣雨",
+      "onboard_time": 1699662931,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229748,
       "num": 229748,
       "word": "肉装妲己翻身困难被同伴嘲笑",
@@ -9668,7 +9724,7 @@
     },
     {
       "raw_hot": 223723,
-      "num": 223723,
+      "num": 574544,
       "word": "加沙孩子受伤没有麻醉药哭声不断",
       "onboard_time": 1699664850,
       "rank": 19,
@@ -9809,6 +9865,14 @@
       "onboard_time": 1699346135,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219985,
+      "num": 197587,
+      "word": "严艺丹做了角姐笛飞声的证婚人",
+      "onboard_time": 1699667429,
+      "rank": 26,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 219884,
@@ -10627,6 +10691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204854,
+      "num": 197231,
+      "word": "非凡医者",
+      "onboard_time": 1699668629,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204465,
       "num": 204465,
       "word": "李健南京抢票",
@@ -10640,6 +10712,14 @@
       "word": "我们的歌",
       "onboard_time": 1699190262,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204284,
+      "num": 179865,
+      "word": "胡彦斌近期状态",
+      "onboard_time": 1699668509,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -11227,6 +11307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195823,
+      "num": 195823,
+      "word": "睡觉鬼压床了怎样快速醒来",
+      "onboard_time": 1699663471,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195648,
       "num": 195648,
       "word": "差点忘记秦岚原来的声音",
@@ -11544,14 +11632,6 @@
       "word": "北京多家医院儿科先化验再诊疗",
       "onboard_time": 1699574492,
       "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 190786,
-      "num": 190786,
-      "word": "睡觉鬼压床了怎样快速醒来",
-      "onboard_time": 1699663471,
-      "rank": 24,
       "category": "健康医疗"
     },
     {
@@ -13217,14 +13297,6 @@
       "onboard_time": 1699436313,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159756,
-      "num": 132628,
-      "word": "立麦 插兜 花瓣雨",
-      "onboard_time": 1699662931,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 159613,
@@ -15747,6 +15819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112319,
+      "num": 112319,
+      "word": "孟佳在哪秀场就在哪",
+      "onboard_time": 1699667429,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112317,
       "num": 112317,
       "word": "高校暖廊让学生实现冬天出行穿单衣",
@@ -16321,6 +16401,14 @@
       "onboard_time": 1699617871,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95708,
+      "num": 95708,
+      "word": "购物车分享",
+      "onboard_time": 1699668629,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 95505,
@@ -17179,6 +17267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58195,
+      "num": 459669,
+      "word": "用饿了么大券包买苹果15仅3千多",
+      "onboard_time": 1699668029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58126,
       "num": 197775,
       "word": "李思思被孩子的想象力惊艳到",
@@ -17368,6 +17464,14 @@
       "word": "这些炸裂场景只是他们训练日常",
       "onboard_time": 1699461090,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46492,
+      "num": 1134581,
+      "word": "中国自贸区先锋十年",
+      "onboard_time": 1699668333,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -17753,6 +17857,14 @@
       "onboard_time": 1699556954,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16562,
+      "num": 114026,
+      "word": "好客山东plus",
+      "onboard_time": 1699668029,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16297,
