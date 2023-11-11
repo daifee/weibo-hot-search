@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699709627077,
+  "endTime": 1699712070796,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -105,6 +105,14 @@
       "onboard_time": 1699456610,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 4813017,
+      "num": 277558,
+      "word": "淘宝崩了",
+      "onboard_time": 1699710394,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 4737065,
@@ -1969,6 +1977,14 @@
       "onboard_time": 1699530212,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1017728,
+      "num": 1017728,
+      "word": "国色芳华 大女主剧",
+      "onboard_time": 1699710333,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1014186,
@@ -5131,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474286,
+      "num": 276918,
+      "word": "ON群访哭了",
+      "onboard_time": 1699711592,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 473533,
       "num": 436519,
       "word": "王安宇在花少打了几份工",
@@ -5675,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429008,
+      "num": 429008,
+      "word": "文俊辉紧急撤回一个徐明浩",
+      "onboard_time": 1699710093,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428387,
       "num": 428387,
       "word": "你爱上的男性角色 实质是女作家的灵魂",
@@ -5729,6 +5761,14 @@
       "onboard_time": 1699268916,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423756,
+      "num": 423756,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699366597,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 423491,
@@ -6299,6 +6339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388535,
+      "num": 276789,
+      "word": "Capper将暂时缺席线下活动",
+      "onboard_time": 1699709554,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387540,
       "num": 387540,
       "word": "七英俊",
@@ -6553,6 +6601,14 @@
       "onboard_time": 1699675229,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374562,
+      "num": 276461,
+      "word": "孙俪也是追星女",
+      "onboard_time": 1699710698,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 374171,
@@ -7995,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308817,
+      "num": 260605,
+      "word": "张艺兴散装粤语",
+      "onboard_time": 1699706917,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308421,
       "num": 308421,
       "word": "Alin马嘉祺唱天若有情",
@@ -8113,6 +8177,14 @@
       "onboard_time": 1699701331,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302493,
+      "num": 275675,
+      "word": "Bin告别S13",
+      "onboard_time": 1699709672,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 302372,
@@ -9387,6 +9459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257305,
+      "num": 257305,
+      "word": "Tabe 我们的旅程结束了",
+      "onboard_time": 1699709312,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256400,
       "num": 256400,
       "word": "费翔优雅吃饺子",
@@ -9769,6 +9849,14 @@
       "onboard_time": 1699282660,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246715,
+      "num": 246715,
+      "word": "陈奕迅上海演唱会",
+      "onboard_time": 1699711295,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 246652,
@@ -10699,14 +10787,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 224971,
-      "num": 224971,
-      "word": "Tabe 我们的旅程结束了",
-      "onboard_time": 1699709312,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 224868,
       "num": 224868,
       "word": "你买过Switch吗",
@@ -10720,6 +10800,14 @@
       "word": "WBG对战MRC",
       "onboard_time": 1699604252,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 224606,
+      "num": 224606,
+      "word": "Elk 可惜",
+      "onboard_time": 1699709195,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -11483,14 +11571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209576,
-      "num": 209576,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1699366597,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 209477,
       "num": 209477,
       "word": "三分之二国土需羽绒服护体",
@@ -12171,6 +12251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "你好星期六下周有林俊杰",
+      "onboard_time": 1699711715,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200338,
       "num": 200338,
       "word": "张艺兴演唱会现编现唱",
@@ -12827,14 +12915,6 @@
       "category": "美食,知识科普"
     },
     {
-      "raw_hot": 192490,
-      "num": 192490,
-      "word": "Elk 可惜",
-      "onboard_time": 1699709195,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 192423,
       "num": 192423,
       "word": "乐游原",
@@ -13025,14 +13105,6 @@
       "onboard_time": 1699330776,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 190043,
-      "num": 190043,
-      "word": "Capper将暂时缺席线下活动",
-      "onboard_time": 1699709554,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 189918,
@@ -13939,6 +14011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174285,
+      "num": 174285,
+      "word": "芒果我可以信你一回吗",
+      "onboard_time": 1699711835,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "周也说檀健次是剧组最辛苦担当",
@@ -14203,6 +14283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169457,
+      "num": 169457,
+      "word": "羽绒服",
+      "onboard_time": 1699712014,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 169238,
       "num": 169238,
       "word": "水瓶座工作情绪稳定都是装的",
@@ -14425,6 +14513,14 @@
       "onboard_time": 1699329814,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165248,
+      "num": 275559,
+      "word": "金博洋 自由滑",
+      "onboard_time": 1699710216,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 165234,
@@ -15555,6 +15651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148012,
+      "num": 148012,
+      "word": "薛之谦温州演唱会",
+      "onboard_time": 1699712014,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148010,
       "num": 148010,
       "word": "00后用AI整顿催婚",
@@ -15609,6 +15713,14 @@
       "onboard_time": 1699250972,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147356,
+      "num": 275184,
+      "word": "老师为学生买药摔伤学生到病房读感谢信",
+      "onboard_time": 1699710515,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147338,
@@ -18403,6 +18515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91603,
+      "num": 144892,
+      "word": "林诗栋蒯曼夺得混双冠军",
+      "onboard_time": 1699711295,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91187,
       "num": 110443,
       "word": "艾莎公主背后是最爱她的国王",
@@ -18827,6 +18947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76257,
+      "num": 730793,
+      "word": "一声声我是中国空军安全感拉满",
+      "onboard_time": 1699707753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74636,
       "num": 327605,
       "word": "华为首款轿车颜值爆表",
@@ -19240,14 +19368,6 @@
       "word": "山东的北京时刻",
       "onboard_time": 1699581631,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56845,
-      "num": 730793,
-      "word": "一声声我是中国空军安全感拉满",
-      "onboard_time": 1699707753,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -19912,6 +20032,9 @@
     },
     {
       "word": "#中美元首会晤将沟通哪些重大问题#"
+    },
+    {
+      "word": "#习近平总书记亲切慰问因公牺牲烈士家属#"
     }
   ]
 }

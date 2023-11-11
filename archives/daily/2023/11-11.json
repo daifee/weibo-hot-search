@@ -1,7 +1,15 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699709627077,
+  "endTime": 1699712070796,
   "band_list": [
+    {
+      "raw_hot": 4813017,
+      "num": 277558,
+      "word": "淘宝崩了",
+      "onboard_time": 1699710394,
+      "rank": 10,
+      "category": "互联网"
+    },
     {
       "raw_hot": 4737065,
       "num": 7768009,
@@ -201,6 +209,14 @@
       "onboard_time": 1699670969,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1017728,
+      "num": 1017728,
+      "word": "国色芳华 大女主剧",
+      "onboard_time": 1699710333,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1013269,
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474286,
+      "num": 276918,
+      "word": "ON群访哭了",
+      "onboard_time": 1699711592,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 468461,
       "num": 468461,
       "word": "G2盛赞TheShy",
@@ -769,6 +793,22 @@
       "onboard_time": 1699620639,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429008,
+      "num": 429008,
+      "word": "文俊辉紧急撤回一个徐明浩",
+      "onboard_time": 1699710093,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423756,
+      "num": 423756,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699704754,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 413831,
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388535,
+      "num": 276789,
+      "word": "Capper将暂时缺席线下活动",
+      "onboard_time": 1699709554,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386783,
       "num": 386783,
       "word": "姜涛回怼网友",
@@ -897,6 +945,14 @@
       "onboard_time": 1699675229,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374562,
+      "num": 276461,
+      "word": "孙俪也是追星女",
+      "onboard_time": 1699710698,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 372590,
@@ -1115,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308817,
+      "num": 260605,
+      "word": "张艺兴散装粤语",
+      "onboard_time": 1699706917,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 305671,
       "num": 305671,
       "word": "TheShy与Bin互放狠话",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1699701331,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302493,
+      "num": 275675,
+      "word": "Bin告别S13",
+      "onboard_time": 1699709672,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 302280,
@@ -1339,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257305,
+      "num": 257305,
+      "word": "Tabe 我们的旅程结束了",
+      "onboard_time": 1699709312,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256018,
       "num": 256018,
       "word": "Bin单杀TheShy",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1699699414,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246715,
+      "num": 246715,
+      "word": "陈奕迅上海演唱会",
+      "onboard_time": 1699711295,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 245122,
@@ -1491,11 +1579,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224971,
-      "num": 224971,
-      "word": "Tabe 我们的旅程结束了",
-      "onboard_time": 1699709312,
-      "rank": 31,
+      "raw_hot": 224606,
+      "num": 224606,
+      "word": "Elk 可惜",
+      "onboard_time": 1699709195,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -1595,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209576,
-      "num": 209576,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1699704754,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 209118,
       "num": 209118,
       "word": "王鹤棣在hi6背着白鹿满场跑",
@@ -1696,6 +1776,14 @@
       "word": "陈楚生治愈了王栎鑫",
       "onboard_time": 1699674031,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "你好星期六下周有林俊杰",
+      "onboard_time": 1699711715,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1795,14 +1883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192490,
-      "num": 192490,
-      "word": "Elk 可惜",
-      "onboard_time": 1699709195,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 190168,
       "num": 190168,
       "word": "易烊千玺舞台直拍",
@@ -1817,14 +1897,6 @@
       "onboard_time": 1699686330,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190043,
-      "num": 190043,
-      "word": "Capper将暂时缺席线下活动",
-      "onboard_time": 1699709554,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 189082,
@@ -1955,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174285,
+      "num": 174285,
+      "word": "芒果我可以信你一回吗",
+      "onboard_time": 1699711835,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172801,
       "num": 172801,
       "word": "上海网红餐厅假冒外卖员传菜躲避检查",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1699670251,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169457,
+      "num": 169457,
+      "word": "羽绒服",
+      "onboard_time": 1699712014,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 169238,
@@ -2033,6 +2121,14 @@
       "onboard_time": 1699660587,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 165248,
+      "num": 275559,
+      "word": "金博洋 自由滑",
+      "onboard_time": 1699710216,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 165155,
@@ -2179,12 +2275,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148012,
+      "num": 148012,
+      "word": "薛之谦温州演唱会",
+      "onboard_time": 1699712014,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147661,
       "num": 147661,
       "word": "迈阿密国际vs纽约城",
       "onboard_time": 1699664551,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147356,
+      "num": 275184,
+      "word": "老师为学生买药摔伤学生到病房读感谢信",
+      "onboard_time": 1699710515,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147338,
@@ -2587,6 +2699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91603,
+      "num": 144892,
+      "word": "林诗栋蒯曼夺得混双冠军",
+      "onboard_time": 1699711295,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86415,
       "num": 86415,
       "word": "小孩被烫伤大哭民警一路狂飙送医",
@@ -2665,6 +2785,14 @@
       "onboard_time": 1699617090,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76257,
+      "num": 730793,
+      "word": "一声声我是中国空军安全感拉满",
+      "onboard_time": 1699707753,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73285,
@@ -2761,14 +2889,6 @@
       "onboard_time": 1699650132,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56845,
-      "num": 730793,
-      "word": "一声声我是中国空军安全感拉满",
-      "onboard_time": 1699707753,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53224,
@@ -2879,6 +2999,9 @@
     },
     {
       "word": "#中美元首会晤将沟通哪些重大问题#"
+    },
+    {
+      "word": "#习近平总书记亲切慰问因公牺牲烈士家属#"
     }
   ]
 }
