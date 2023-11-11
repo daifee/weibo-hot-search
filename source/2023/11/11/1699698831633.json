@@ -1,0 +1,410 @@
+{
+  "runTime": 1699698831633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190181,
+        "num": 1190181,
+        "word": "WBG对战BLG",
+        "onboard_time": 1699688971,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 371721,
+        "num": 931214,
+        "word": "男孩用书帮女孩遮阳光不料遇高手",
+        "onboard_time": 1699691969,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3033,
+        "num": 869219,
+        "word": "中国自贸区先锋十年",
+        "onboard_time": 1699668333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832466,
+        "num": 832466,
+        "word": "魏大勋一眼认出李叔同印章",
+        "onboard_time": 1699693232,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288406,
+        "num": 739702,
+        "word": "男子心脏骤停遇医生5秒火速抢救",
+        "onboard_time": 1699690410,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721115,
+        "num": 721115,
+        "word": "马立奥 芒果招商会",
+        "onboard_time": 1699696171,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139129,
+        "num": 692173,
+        "word": "交警边喊停边冲进死亡盲区10秒救1人",
+        "onboard_time": 1699697009,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677307,
+        "num": 677307,
+        "word": "国色芳华官宣杨紫李现",
+        "onboard_time": 1699687411,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626260,
+        "num": 626260,
+        "word": "归国四子演唱会号召力",
+        "onboard_time": 1699694968,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 600368,
+        "num": 600368,
+        "word": "不是羽绒服买不起是军大衣更有性价比",
+        "onboard_time": 1699696410,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523311,
+        "num": 523311,
+        "word": "T1 作业好抄",
+        "onboard_time": 1699696949,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 509178,
+        "num": 509178,
+        "word": "芒果招商会",
+        "onboard_time": 1699697548,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697402,
+        "num": 483597,
+        "word": "李现的女主运",
+        "onboard_time": 1699696470,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404470,
+        "num": 404470,
+        "word": "秦岚什么时候偷偷举得铁",
+        "onboard_time": 1699685668,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381294,
+        "num": 381294,
+        "word": "哈佛硕士应聘事业单位合同工",
+        "onboard_time": 1699689990,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365714,
+        "num": 365714,
+        "word": "TheShy实力倒退五年",
+        "onboard_time": 1699693170,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 359539,
+        "num": 359539,
+        "word": "白鹿拍的张凌赫",
+        "onboard_time": 1699698088,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335811,
+        "num": 335811,
+        "word": "小虎 幽默",
+        "onboard_time": 1699695268,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297363,
+        "num": 297363,
+        "word": "杨紫何惟芳人设",
+        "onboard_time": 1699696111,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258385,
+        "num": 297147,
+        "word": "朱易 女单自由滑",
+        "onboard_time": 1699697309,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345154,
+        "num": 293147,
+        "word": "白鹿张凌赫NG22次的吻",
+        "onboard_time": 1699695448,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1250472,
+        "num": 291792,
+        "word": "小学校长9年强奸猥亵22名学生",
+        "onboard_time": 1699684770,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 491166,
+        "num": 289644,
+        "word": "长沙一女子洗澡洗出个鸟病",
+        "onboard_time": 1699694550,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457141,
+        "num": 288843,
+        "word": "月入2万活得像月入2千",
+        "onboard_time": 1699695568,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286717,
+        "num": 286717,
+        "word": "马立奥回归爸爸当家3",
+        "onboard_time": 1699698753,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280718,
+        "num": 280718,
+        "word": "歌手确认重启",
+        "onboard_time": 1699698451,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273835,
+        "num": 273835,
+        "word": "危宁 遮宁",
+        "onboard_time": 1699697849,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255098,
+        "num": 255098,
+        "word": "老人反对装电梯建好又想用被全楼拒绝",
+        "onboard_time": 1699687171,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254144,
+        "num": 254144,
+        "word": "伯远练习生期间吃了半年黄焖鸡",
+        "onboard_time": 1699696291,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228507,
+        "num": 228507,
+        "word": "此时此刻 姐狗",
+        "onboard_time": 1699696888,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218762,
+        "num": 218762,
+        "word": "姜涛回怼网友",
+        "onboard_time": 1699693111,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204359,
+        "num": 204359,
+        "word": "成毅 爱奇艺尖叫之夜",
+        "onboard_time": 1699698332,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193968,
+        "num": 193968,
+        "word": "王楚钦梁靖崑3比2徐瑛彬曹巍",
+        "onboard_time": 1699695992,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190168,
+        "num": 190168,
+        "word": "易烊千玺舞台直拍",
+        "onboard_time": 1699698509,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159409,
+        "num": 159409,
+        "word": "霸州双甜",
+        "onboard_time": 1699696829,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159305,
+        "num": 159305,
+        "word": "张小斐2023大女主票房第一",
+        "onboard_time": 1699692690,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158813,
+        "num": 158813,
+        "word": "WTT太原",
+        "onboard_time": 1699697488,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150848,
+        "num": 150848,
+        "word": "猫 这辈子直了",
+        "onboard_time": 1699692629,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149854,
+        "num": 149854,
+        "word": "当底层孩子接触到上层生活",
+        "onboard_time": 1699694847,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143453,
+        "num": 143453,
+        "word": "双射手大战双射手",
+        "onboard_time": 1699697608,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134209,
+        "num": 134209,
+        "word": "谢娜猫眼泪痣妆",
+        "onboard_time": 1699695087,
+        "rank": 40,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 130439,
+        "num": 130439,
+        "word": "水瓶座工作情绪稳定都是装的",
+        "onboard_time": 1699692933,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 117080,
+        "word": "男孩被海浪卷走男子冒死跳海营救",
+        "onboard_time": 1699698631,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116207,
+        "num": 116207,
+        "word": "无价之宝开分9.4",
+        "onboard_time": 1699684409,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110825,
+        "num": 110825,
+        "word": "80后父亲放弃百万年薪做陪读宝爸",
+        "onboard_time": 1699698815,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 110471,
+        "word": "aespa新歌DRAMA音中舞台",
+        "onboard_time": 1699690829,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103296,
+        "num": 103296,
+        "word": "女子麦当劳吃出异物被店员备注辱骂",
+        "onboard_time": 1699685490,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 99970,
+        "num": 99970,
+        "word": "信去雍和宫后连发十个啊",
+        "onboard_time": 1699698753,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98978,
+        "num": 98978,
+        "word": "TheShy和Bin都带过李佳航玩游戏",
+        "onboard_time": 1699691667,
+        "rank": 48,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 96648,
+        "num": 96648,
+        "word": "0713回应陈楚生16年后又夺冠",
+        "onboard_time": 1699692510,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首将在旧金山会晤#"
+    }
+  }
+}

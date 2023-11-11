@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699697824966,
+  "endTime": 1699698831633,
   "band_list": [
     {
       "raw_hot": 3220912,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1190181,
+      "num": 1190181,
+      "word": "WBG对战BLG",
+      "onboard_time": 1699688971,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1165812,
       "num": 1165812,
       "word": "王鹤棣以爱为营直播忘关麦",
@@ -129,14 +137,6 @@
       "onboard_time": 1699676849,
       "rank": 17,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1113860,
-      "num": 1113860,
-      "word": "WBG对战BLG",
-      "onboard_time": 1699688971,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 1093809,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832466,
+      "num": 832466,
+      "word": "魏大勋一眼认出李叔同印章",
+      "onboard_time": 1699693232,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830979,
       "num": 830979,
       "word": "银行回应信用卡欠3.1万未还变40万",
@@ -256,14 +264,6 @@
       "word": "秦岚辛芷蕾是官宣的意思吗",
       "onboard_time": 1699627894,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 799933,
-      "num": 799933,
-      "word": "魏大勋一眼认出李叔同印章",
-      "onboard_time": 1699693232,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -307,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721115,
+      "num": 721115,
+      "word": "马立奥 芒果招商会",
+      "onboard_time": 1699696171,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 697402,
+      "num": 483597,
+      "word": "李现的女主运",
+      "onboard_time": 1699696470,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 691268,
       "num": 691268,
       "word": "水龙吟",
@@ -336,14 +352,6 @@
       "word": "时代少年团楼外楼首秀",
       "onboard_time": 1699630895,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 630434,
-      "num": 630434,
-      "word": "马立奥 芒果招商会",
-      "onboard_time": 1699696171,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600368,
+      "num": 600368,
+      "word": "不是羽绒服买不起是军大衣更有性价比",
+      "onboard_time": 1699696410,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596073,
       "num": 359662,
       "word": "贵州一公职人员驾车撞死一对中年夫妇",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 537232,
-      "num": 245135,
+      "num": 288843,
       "word": "月入2万活得像月入2千",
       "onboard_time": 1699695568,
       "rank": 21,
@@ -419,20 +435,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 523311,
+      "num": 523311,
+      "word": "T1 作业好抄",
+      "onboard_time": 1699696949,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 523002,
       "num": 362687,
       "word": "秦岚嗓子好了吗",
       "onboard_time": 1699627655,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522928,
-      "num": 465151,
-      "word": "李现的女主运",
-      "onboard_time": 1699696470,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 516877,
@@ -451,8 +467,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 509178,
+      "num": 509178,
+      "word": "芒果招商会",
+      "onboard_time": 1699697548,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504998,
-      "num": 243394,
+      "num": 289644,
       "word": "长沙一女子洗澡洗出个鸟病",
       "onboard_time": 1699694550,
       "rank": 21,
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383047,
-      "num": 383047,
-      "word": "不是羽绒服买不起是军大衣更有性价比",
-      "onboard_time": 1699696410,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379249,
       "num": 496139,
       "word": "男生梦中被室友叫醒先懵后感动",
@@ -649,6 +665,14 @@
       "onboard_time": 1699627176,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 371721,
+      "num": 931214,
+      "word": "男孩用书帮女孩遮阳光不料遇高手",
+      "onboard_time": 1699691969,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367900,
@@ -691,6 +715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359539,
+      "num": 359539,
+      "word": "白鹿拍的张凌赫",
+      "onboard_time": 1699698088,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356372,
       "num": 299279,
       "word": "田小娟LIZ金玟庭合作新歌",
@@ -721,14 +753,6 @@
       "onboard_time": 1699696111,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348370,
-      "num": 348370,
-      "word": "T1 作业好抄",
-      "onboard_time": 1699696949,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 340476,
@@ -851,12 +875,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288406,
+      "num": 786829,
+      "word": "男子心脏骤停遇医生5秒火速抢救",
+      "onboard_time": 1699690410,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286717,
+      "num": 286717,
+      "word": "马立奥回归爸爸当家3",
+      "onboard_time": 1699698753,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281990,
       "num": 274677,
       "word": "王星越原定演燕临",
       "onboard_time": 1699677989,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280718,
+      "num": 280718,
+      "word": "歌手确认重启",
+      "onboard_time": 1699698451,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 278813,
@@ -883,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273835,
+      "num": 273835,
+      "word": "危宁 遮宁",
+      "onboard_time": 1699697849,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272798,
       "num": 348384,
       "word": "钟南山说有6种新冠病毒疫苗可选择",
@@ -905,14 +961,6 @@
       "onboard_time": 1699694007,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 268699,
-      "num": 922207,
-      "word": "男孩用书帮女孩遮阳光不料遇高手",
-      "onboard_time": 1699691969,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266766,
@@ -947,6 +995,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 258385,
+      "num": 297147,
+      "word": "朱易 女单自由滑",
+      "onboard_time": 1699697309,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256018,
       "num": 256018,
       "word": "Bin单杀TheShy",
@@ -961,6 +1017,14 @@
       "onboard_time": 1699695992,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254144,
+      "num": 254144,
+      "word": "伯远练习生期间吃了半年黄焖鸡",
+      "onboard_time": 1699696291,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 253164,
@@ -1035,12 +1099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229440,
-      "num": 229440,
-      "word": "伯远练习生期间吃了半年黄焖鸡",
-      "onboard_time": 1699696291,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 228507,
+      "num": 228507,
+      "word": "此时此刻 姐狗",
+      "onboard_time": 1699696888,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 227787,
@@ -1147,30 +1211,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 212860,
-      "num": 786829,
-      "word": "男子心脏骤停遇医生5秒火速抢救",
-      "onboard_time": 1699690410,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212636,
-      "num": 212636,
-      "word": "此时此刻 姐狗",
-      "onboard_time": 1699696888,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211817,
-      "num": 211817,
-      "word": "芒果招商会",
-      "onboard_time": 1699697548,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211217,
       "num": 127733,
       "word": "宁安如梦",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1699668629,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204359,
+      "num": 204359,
+      "word": "成毅 爱奇艺尖叫之夜",
+      "onboard_time": 1699698332,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204268,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1699677450,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190168,
+      "num": 190168,
+      "word": "易烊千玺舞台直拍",
+      "onboard_time": 1699698509,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 190157,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1699631373,
       "rank": 19,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 171057,
-      "num": 171057,
-      "word": "朱易 女单自由滑",
-      "onboard_time": 1699697309,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 169904,
@@ -1747,6 +1795,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 143453,
+      "num": 143453,
+      "word": "双射手大战双射手",
+      "onboard_time": 1699697608,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141257,
       "num": 141257,
       "word": "关晓彤晒王牌家族合影",
@@ -1761,6 +1817,14 @@
       "onboard_time": 1699672589,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139129,
+      "num": 692173,
+      "word": "交警边喊停边冲进死亡盲区10秒救1人",
+      "onboard_time": 1699697009,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136275,
@@ -1811,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128872,
-      "num": 128872,
-      "word": "双射手大战双射手",
-      "onboard_time": 1699697608,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126793,
       "num": 105770,
       "word": "水龙吟官宣概念海报",
@@ -1848,14 +1904,6 @@
       "word": "守护解放西",
       "onboard_time": 1699692389,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124585,
-      "num": 654015,
-      "word": "交警边喊停边冲进死亡盲区10秒救1人",
-      "onboard_time": 1699697009,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1915,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117080,
+      "num": 117080,
+      "word": "男孩被海浪卷走男子冒死跳海营救",
+      "onboard_time": 1699698631,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115192,
       "num": 107468,
       "word": "轮到我点评单依纯了",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1699667429,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110825,
+      "num": 110825,
+      "word": "80后父亲放弃百万年薪做陪读宝爸",
+      "onboard_time": 1699698815,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110738,
@@ -1985,6 +2049,14 @@
       "onboard_time": 1699690590,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99970,
+      "num": 99970,
+      "word": "信去雍和宫后连发十个啊",
+      "onboard_time": 1699698753,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 96359,
