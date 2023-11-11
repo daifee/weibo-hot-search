@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 00:20:41
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 00:35:17
 </p>
 </blockquote>
 <p>
@@ -3519,6 +3519,12 @@ JDG与BLG选手观赛LNG（热度：745242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%9E%E5%A4%9C%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%A2%AB%E9%AA%97%E5%8D%96%E6%88%BF%23" target="weibo">
+14岁女儿连夜报警称父母被骗卖房（热度：742732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%9A%B4%E9%9B%AA%23" target="weibo">
 东北暴雪（热度：742630）
 </a>
@@ -3581,12 +3587,6 @@ WBG零封NRG（热度：737335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%90%91%E6%B3%A1%E8%84%9A%20%E8%B6%8A%E6%B3%A1%E8%B6%8A%E8%99%9A%23" target="weibo">
 反向泡脚 越泡越虚（热度：736840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%84%BF%E8%BF%9E%E5%A4%9C%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%A2%AB%E9%AA%97%E5%8D%96%E6%88%BF%23" target="weibo">
-14岁女儿连夜报警称父母被骗卖房（热度：736335）
 </a>
 </li>
 
@@ -4151,6 +4151,12 @@ YG只发了朴彩英台历（热度：660096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BD%A9%E7%A4%BC%E7%90%86%E5%BF%B5%E4%B8%8D%E6%94%B9%E5%A9%9A%E5%A7%BB%E5%88%B6%E5%BA%A6%E8%A6%81%E5%B4%A9%E6%BA%83%23" target="weibo">
 专家称彩礼理念不改婚姻制度要崩溃（热度：658204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%A0%A1%E9%95%BF9%E5%B9%B4%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+小学校长9年强奸猥亵22学生被执行死刑（热度：657875）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LNG（热度：490184）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E4%BD%A0%E6%9C%80%E5%A5%BD%E8%AF%B4%E8%AF%9D%E7%AE%97%E8%AF%9D%23" target="weibo">
 周杰伦 你最好说话算话（热度：483104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B75%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%BE%A3%E6%9D%A1%23" target="weibo">
-上海5元一根的辣条（热度：482879）
 </a>
 </li>
 

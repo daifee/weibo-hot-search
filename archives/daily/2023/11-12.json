@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699719641460,
+  "endTime": 1699720517736,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1337799,
-      "num": 347021,
+      "num": 381538,
       "word": "淘宝崩了",
       "onboard_time": 1699710394,
       "rank": 10,
@@ -35,8 +35,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 736335,
-      "num": 736335,
+      "raw_hot": 742732,
+      "num": 742732,
       "word": "14岁女儿连夜报警称父母被骗卖房",
       "onboard_time": 1699716995,
       "rank": 4,
@@ -51,8 +51,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 657875,
+      "num": 657875,
+      "word": "小学校长9年强奸猥亵22学生被执行死刑",
+      "onboard_time": 1699718913,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630873,
-      "num": 345815,
+      "num": 374654,
       "word": "fx 重聚",
       "onboard_time": 1699704392,
       "rank": 11,
@@ -67,6 +75,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 476026,
+      "num": 476026,
+      "word": "女生皮肤超好的总结",
+      "onboard_time": 1699716517,
+      "rank": 7,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 464871,
       "num": 344443,
       "word": "金莎 我是我人生剧本里的大女主",
@@ -76,19 +92,19 @@
     },
     {
       "raw_hot": 442589,
-      "num": 343920,
+      "num": 362011,
       "word": "王星越 小孩哥",
       "onboard_time": 1699715492,
       "rank": 13,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 417441,
-      "num": 417441,
-      "word": "女生皮肤超好的总结",
-      "onboard_time": 1699716517,
-      "rank": 7,
-      "category": "美妆"
+      "raw_hot": 425733,
+      "num": 425733,
+      "word": "情绪稳定是男人最好的医美",
+      "onboard_time": 1699718073,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 402849,
@@ -97,14 +113,6 @@
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 348092,
-      "num": 348092,
-      "word": "情绪稳定是男人最好的医美",
-      "onboard_time": 1699718073,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 340340,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 300690,
-      "num": 258230,
+      "num": 264915,
       "word": "李现要录综艺了",
       "onboard_time": 1699716338,
       "rank": 20,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 284401,
-      "num": 210516,
+      "num": 268668,
       "word": "密子君 中韩泰融合烤肉自助",
       "onboard_time": 1699714532,
       "rank": 30,
@@ -153,14 +161,6 @@
       "onboard_time": 1699711835,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258944,
-      "num": 342614,
-      "word": "小学校长9年强奸猥亵22学生被执行死刑",
-      "onboard_time": 1699718913,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253330,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215003,
+      "num": 230397,
+      "word": "妈妈顺产有多苦",
+      "onboard_time": 1699718494,
+      "rank": 23,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "迪丽热巴是下一季花少导演",
@@ -225,14 +233,6 @@
       "onboard_time": 1699715733,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183629,
-      "num": 230397,
-      "word": "妈妈顺产有多苦",
-      "onboard_time": 1699718494,
-      "rank": 23,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 177442,
@@ -264,6 +264,14 @@
       "word": "张杰用女儿的名字命名麦克风",
       "onboard_time": 1699699114,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166703,
+      "num": 166703,
+      "word": "张杰和三个女儿背影照",
+      "onboard_time": 1699700911,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -299,16 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153606,
-      "num": 146443,
-      "word": "张杰和三个女儿背影照",
-      "onboard_time": 1699700911,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150623,
-      "num": 259945,
+      "num": 265314,
       "word": "老师为学生买药摔伤学生到病房读感谢信",
       "onboard_time": 1699710515,
       "rank": 19,
@@ -363,12 +363,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117614,
-      "num": 117614,
+      "raw_hot": 117785,
+      "num": 117785,
       "word": "iG官宣新阵容",
       "onboard_time": 1699699773,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101138,
+      "num": 101138,
+      "word": "TheShy生日礼物",
+      "onboard_time": 1699705716,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100351,
+      "num": 100351,
+      "word": "韩国女歌手Nahee去世",
+      "onboard_time": 1699702891,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 97222,
@@ -379,11 +395,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96117,
+      "num": 96117,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1699704754,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86932,
       "num": 115737,
       "word": "阿森纳vs伯恩利",
       "onboard_time": 1699719512,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71465,
+      "num": 96589,
+      "word": "曼联vs卢顿",
+      "onboard_time": 1699714416,
+      "rank": 48,
       "category": "体育"
     },
     {
