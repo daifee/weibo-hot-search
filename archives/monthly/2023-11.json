@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699659262362,
+  "endTime": 1699666342157,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1363,6 +1363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1676145,
+      "num": 1676145,
+      "word": "西安巨响",
+      "onboard_time": 1699658841,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1650872,
       "num": 1650872,
       "word": "RNG能不能把gala卡回来",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1699414832,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1532282,
+      "num": 1532282,
+      "word": "志愿者曝佛山福爱嘉妇产医院贩卖出生证明",
+      "onboard_time": 1699660465,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1528602,
@@ -3011,6 +3027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 989771,
+      "num": 989771,
+      "word": "苏醒说陈楚生拿了披哥冠军不想跟他们走一起",
+      "onboard_time": 1699662931,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 988909,
       "num": 988909,
       "word": "金鸡奖",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1699513230,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734037,
+      "num": 734037,
+      "word": "女子花10万装修36平烂尾楼独自居住",
+      "onboard_time": 1699662450,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733326,
@@ -7419,6 +7451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 477333,
+      "num": 384382,
+      "word": "何炅谢娜易烊千玺同台拥抱",
+      "onboard_time": 1699665569,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477184,
       "num": 477184,
       "word": "人民网评院长贩卖婴儿出生证明",
@@ -7537,6 +7577,14 @@
       "onboard_time": 1699229974,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472439,
+      "num": 472439,
+      "word": "谁家男主在这种地方求婚",
+      "onboard_time": 1699664488,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 471002,
@@ -8267,14 +8315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432264,
-      "num": 432264,
-      "word": "西安巨响",
-      "onboard_time": 1699658841,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432119,
       "num": 432119,
       "word": "含有肽字的护肤品 智商税",
@@ -8369,6 +8409,14 @@
       "onboard_time": 1699010076,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 428980,
+      "num": 384094,
+      "word": "辛芷蕾快挂到刘涛秦岚身上去了",
+      "onboard_time": 1699664910,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428387,
@@ -9499,6 +9547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384689,
+      "num": 384689,
+      "word": "姐姐被批评弟弟霸气护姐",
+      "onboard_time": 1699661187,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384448,
       "num": 384448,
       "word": "天官赐福",
@@ -10073,6 +10129,14 @@
       "onboard_time": 1699413453,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 365754,
+      "num": 365754,
+      "word": "我国战舰已经这么猛了",
+      "onboard_time": 1699660587,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 365379,
@@ -11539,6 +11603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317168,
+      "num": 317168,
+      "word": "妈妈为省钱背冰箱坐20小时火车回家",
+      "onboard_time": 1699660465,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317071,
       "num": 317071,
       "word": "宋亚轩被杨丽萍当成时尚单品了",
@@ -12921,6 +12993,14 @@
       "onboard_time": 1699059991,
       "rank": 18,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 276982,
+      "num": 222632,
+      "word": "王嘉尔 空降",
+      "onboard_time": 1699660527,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 276872,
@@ -15923,6 +16003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223723,
+      "num": 223723,
+      "word": "加沙孩子受伤没有麻醉药哭声不断",
+      "onboard_time": 1699664850,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 223574,
       "num": 223574,
       "word": "只逛不买",
@@ -18235,6 +18323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197241,
+      "num": 164878,
+      "word": "刘耀文松弛感",
+      "onboard_time": 1699665511,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197199,
       "num": 197199,
       "word": "王鹤棣 时总工作日记",
@@ -18921,6 +19017,14 @@
       "onboard_time": 1699007133,
       "rank": 38,
       "category": "国内要闻,教育"
+    },
+    {
+      "raw_hot": 190786,
+      "num": 190786,
+      "word": "睡觉鬼压床了怎样快速醒来",
+      "onboard_time": 1699663471,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190760,
@@ -19931,6 +20035,14 @@
       "category": "剧集,幽默"
     },
     {
+      "raw_hot": 180630,
+      "num": 162655,
+      "word": "成毅真丝镂空内搭",
+      "onboard_time": 1699664551,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180505,
       "num": 180505,
       "word": "感觉在热恋",
@@ -20001,6 +20113,14 @@
       "onboard_time": 1699064851,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179344,
+      "num": 162095,
+      "word": "张远 有没有恋综季",
+      "onboard_time": 1699661367,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179293,
@@ -21179,6 +21299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165743,
+      "num": 165743,
+      "word": "全球资管巨头先锋领航确认退出中国",
+      "onboard_time": 1699660587,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 165700,
       "num": 165700,
       "word": "TS与勇士梦幻联动",
@@ -21225,6 +21353,14 @@
       "onboard_time": 1699140682,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165155,
+      "num": 165155,
+      "word": "熊猫小奇迹回国在新家撒欢跑",
+      "onboard_time": 1699644438,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164884,
@@ -21452,7 +21588,7 @@
     },
     {
       "raw_hot": 162116,
-      "num": 121584,
+      "num": 138513,
       "word": "金刚蹲3分钟胜过跑步5公里",
       "onboard_time": 1699657280,
       "rank": 23,
@@ -21681,6 +21817,14 @@
       "onboard_time": 1699436313,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159756,
+      "num": 132628,
+      "word": "立麦 插兜 花瓣雨",
+      "onboard_time": 1699662931,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 159613,
@@ -22281,6 +22425,14 @@
       "onboard_time": 1698830913,
       "rank": 37,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 153735,
+      "num": 127367,
+      "word": "下初雪时就是要听初雪",
+      "onboard_time": 1699664133,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 153725,
@@ -22963,6 +23115,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 147661,
+      "num": 147661,
+      "word": "迈阿密国际vs纽约城",
+      "onboard_time": 1699664551,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "独臂教师教出两千余名大学生",
@@ -23025,6 +23185,14 @@
       "onboard_time": 1699509393,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146816,
+      "num": 146816,
+      "word": "想要皮肤好牢记护肤三要素",
+      "onboard_time": 1699664732,
+      "rank": 37,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 146812,
@@ -23265,6 +23433,14 @@
       "onboard_time": 1698821311,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144245,
+      "num": 144245,
+      "word": "如何辨别流感和普通感冒",
+      "onboard_time": 1699665272,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144199,
@@ -24289,14 +24465,6 @@
       "onboard_time": 1698903455,
       "rank": 40,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 132956,
-      "num": 132956,
-      "word": "熊猫小奇迹回国在新家撒欢跑",
-      "onboard_time": 1699644438,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132912,
@@ -25377,6 +25545,14 @@
       "onboard_time": 1698761377,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121290,
+      "num": 121290,
+      "word": "贩卖出生证明于法不容",
+      "onboard_time": 1699663770,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 121148,
@@ -26971,6 +27147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93199,
+      "num": 93199,
+      "word": "2023年还剩最后50天",
+      "onboard_time": 1699663651,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93087,
       "num": 107624,
       "word": "小时候的课间十分钟",
@@ -27185,6 +27369,14 @@
       "onboard_time": 1699603653,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 86213,
+      "num": 88676,
+      "word": "空军战机和名字的适配度有多高",
+      "onboard_time": 1699666290,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 85863,
