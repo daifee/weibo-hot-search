@@ -1,6 +1,6 @@
 {
   "startTime": 1699114844579,
-  "endTime": 1699708698147,
+  "endTime": 1699709627077,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -107,6 +107,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 4737065,
+      "num": 7768009,
+      "word": "WBG战胜BLG",
+      "onboard_time": 1699704938,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 4686833,
       "num": 4686833,
       "word": "宋茜 梦回Victoria",
@@ -120,14 +128,6 @@
       "word": "Scout 精忠报国",
       "onboard_time": 1699174115,
       "rank": 3,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 4503121,
-      "num": 7688641,
-      "word": "WBG战胜BLG",
-      "onboard_time": 1699704938,
-      "rank": 0,
       "category": "电竞"
     },
     {
@@ -7931,6 +7931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310939,
+      "num": 413928,
+      "word": "莎头 健康涨球",
+      "onboard_time": 1699708535,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310894,
       "num": 297394,
       "word": "美国演员埃文埃林森猝逝",
@@ -10691,6 +10699,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 224971,
+      "num": 224971,
+      "word": "Tabe 我们的旅程结束了",
+      "onboard_time": 1699709312,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224868,
       "num": 224868,
       "word": "你买过Switch吗",
@@ -12251,14 +12267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198773,
-      "num": 228551,
-      "word": "莎头 健康涨球",
-      "onboard_time": 1699708535,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198758,
       "num": 198758,
       "word": "罗英子离婚后状态",
@@ -12483,6 +12491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196606,
+      "num": 196606,
+      "word": "WBG队史首次晋级S赛决赛",
+      "onboard_time": 1699709374,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196586,
       "num": 196586,
       "word": "郑合惠子医师造型",
@@ -12609,6 +12625,14 @@
       "onboard_time": 1699522233,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 194801,
+      "num": 274059,
+      "word": "wtt常规挑战赛太原站2023",
+      "onboard_time": 1699708775,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 194718,
@@ -12803,6 +12827,14 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 192490,
+      "num": 192490,
+      "word": "Elk 可惜",
+      "onboard_time": 1699709195,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192423,
       "num": 192423,
       "word": "乐游原",
@@ -12993,6 +13025,14 @@
       "onboard_time": 1699330776,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190043,
+      "num": 190043,
+      "word": "Capper将暂时缺席线下活动",
+      "onboard_time": 1699709554,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 189918,
@@ -14057,6 +14097,14 @@
       "onboard_time": 1699321409,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 171477,
+      "num": 171477,
+      "word": "丁程鑫给杨迪透题歪打正着",
+      "onboard_time": 1699709074,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 171266,
@@ -19195,6 +19243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56845,
+      "num": 730793,
+      "word": "一声声我是中国空军安全感拉满",
+      "onboard_time": 1699707753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56132,
       "num": 617985,
       "word": "晶核格斗家版本上线",
@@ -19491,14 +19547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36078,
-      "num": 730793,
-      "word": "一声声我是中国空军安全感拉满",
-      "onboard_time": 1699707753,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36006,
       "num": 360927,
       "word": "曼城6比1伯恩茅斯",
@@ -19683,6 +19731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18272,
+      "num": 421433,
+      "word": "王濛竞燃之夜见",
+      "onboard_time": 1699707636,
+      "rank": 14,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 18258,
       "num": 23117,
       "word": "立冬文案",
@@ -19777,14 +19833,6 @@
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12756,
-      "num": 421433,
-      "word": "王濛竞燃之夜见",
-      "onboard_time": 1699707636,
-      "rank": 14,
-      "category": "体育,电竞"
     },
     {
       "raw_hot": 8351,

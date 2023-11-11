@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/11 21:18:18
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/11 21:33:47
 </p>
 </blockquote>
 <p>
@@ -123,6 +123,12 @@ T1晋级S13四强（热度：9440198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CBLG%23" target="weibo">
+WBG战胜BLG（热度：4737065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%20%E6%A2%A6%E5%9B%9EVictoria%23" target="weibo">
 宋茜 梦回Victoria（热度：4686833）
 </a>
@@ -131,12 +137,6 @@ T1晋级S13四强（热度：9440198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Scout%20%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD%23" target="weibo">
 Scout 精忠报国（热度：4591644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CBLG%23" target="weibo">
-WBG战胜BLG（热度：4503121）
 </a>
 </li>
 
