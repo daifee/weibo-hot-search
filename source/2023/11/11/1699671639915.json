@@ -1,0 +1,410 @@
+{
+  "runTime": 1699671639915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1670150,
+        "num": 1670150,
+        "word": "钟南山称近期将有新冠感染小高峰",
+        "onboard_time": 1699666470,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877425,
+        "num": 877425,
+        "word": "易烊千玺 限定玫瑰",
+        "onboard_time": 1699632873,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28918,
+        "num": 853352,
+        "word": "中国自贸区先锋十年",
+        "onboard_time": 1699668333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830979,
+        "num": 830979,
+        "word": "银行回应信用卡欠3.1万未还变40万",
+        "onboard_time": 1699668333,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 756127,
+        "num": 756127,
+        "word": "原来张遮知道姜雪宁为他自戕",
+        "onboard_time": 1699667369,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 736005,
+        "num": 736005,
+        "word": "王鹤棣以爱为营直播忘关麦",
+        "onboard_time": 1699670251,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734106,
+        "num": 734106,
+        "word": "苏醒说陈楚生拿了披哥冠军不想跟他们走一起",
+        "onboard_time": 1699662931,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520569,
+        "num": 520569,
+        "word": "志愿者曝佛山福爱嘉妇产医院贩卖出生证明",
+        "onboard_time": 1699660465,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437316,
+        "num": 437316,
+        "word": "宋茜 梦回Victoria",
+        "onboard_time": 1699624294,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169720,
+        "num": 437307,
+        "word": "加沙孩子受伤没有麻醉药哭声不断",
+        "onboard_time": 1699664850,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 600008,
+        "num": 437306,
+        "word": "王心凌在河南冻成了王心淩",
+        "onboard_time": 1699627356,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437306,
+        "num": 437305,
+        "word": "谁家男主在这种地方求婚",
+        "onboard_time": 1699664488,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429125,
+        "num": 429125,
+        "word": "你好星期六这把高端局",
+        "onboard_time": 1699670969,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419896,
+        "num": 419896,
+        "word": "KPOP格莱美0提名",
+        "onboard_time": 1699667189,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217448,
+        "num": 404510,
+        "word": "用饿了么大券包买苹果15仅3千多",
+        "onboard_time": 1699668029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397570,
+        "num": 397570,
+        "word": "00后策划活动导致公司仓库被搬空",
+        "onboard_time": 1699669710,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391119,
+        "num": 391119,
+        "word": "辛芷蕾快挂到刘涛秦岚身上去了",
+        "onboard_time": 1699664910,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317243,
+        "num": 317243,
+        "word": "广东卫健委主任朱宏被查",
+        "onboard_time": 1699667009,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278876,
+        "num": 278876,
+        "word": "女子花10万装修36平烂尾楼独自居住",
+        "onboard_time": 1699662450,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212299,
+        "num": 212299,
+        "word": "西安初雪冬雷",
+        "onboard_time": 1699658841,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364949,
+        "num": 211635,
+        "word": "蔡国庆在问易烊千玺观后感吗",
+        "onboard_time": 1699668453,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347675,
+        "num": 210375,
+        "word": "何炅不许任何一个夹子出现在他面前",
+        "onboard_time": 1699633053,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249604,
+        "num": 208245,
+        "word": "坚持吃核桃6个月会怎样",
+        "onboard_time": 1699670188,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247435,
+        "num": 206419,
+        "word": "B太 破解大连海鲜餐厅加工店鬼秤",
+        "onboard_time": 1699671332,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205378,
+        "num": 205378,
+        "word": "马斯克盛赞中国人聪明又勤奋",
+        "onboard_time": 1699670069,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237920,
+        "num": 200696,
+        "word": "谢娜 我回家了",
+        "onboard_time": 1699617449,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226101,
+        "num": 200676,
+        "word": "胡彦斌近期状态",
+        "onboard_time": 1699668509,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190335,
+        "num": 190335,
+        "word": "姐姐被批评弟弟霸气护姐",
+        "onboard_time": 1699661187,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185880,
+        "num": 185880,
+        "word": "最硬核的国货购物车",
+        "onboard_time": 1699670909,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162176,
+        "num": 184170,
+        "word": "睡觉鬼压床了怎样快速醒来",
+        "onboard_time": 1699663471,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208873,
+        "num": 178917,
+        "word": "何德何能居然吃到鸟嬛售后",
+        "onboard_time": 1699671150,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199036,
+        "num": 176216,
+        "word": "杨紫李现 二搭",
+        "onboard_time": 1699604612,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196941,
+        "num": 170392,
+        "word": "李相夷红绸舞剑",
+        "onboard_time": 1699631072,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168519,
+        "num": 168519,
+        "word": "9位乳腺癌患者自述早期症状",
+        "onboard_time": 1699629756,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "西安第一场雪有点猛",
+        "onboard_time": 1699670251,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190128,
+        "num": 137948,
+        "word": "宋茜陈星旭新剧双A海报",
+        "onboard_time": 1699670488,
+        "rank": 35,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 180232,
+        "num": 137093,
+        "word": "关晓彤冰川女王妆",
+        "onboard_time": 1699669051,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 179228,
+        "num": 135477,
+        "word": "迪丽热巴凌晨4点未发出的信息",
+        "onboard_time": 1699627054,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169904,
+        "num": 134970,
+        "word": "妹老师拍华晨宇 再拍两张",
+        "onboard_time": 1699670251,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77966,
+        "num": 133573,
+        "word": "好客山东plus",
+        "onboard_time": 1699668029,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167835,
+        "num": 132432,
+        "word": "立麦 插兜 花瓣雨",
+        "onboard_time": 1699662931,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162599,
+        "num": 132138,
+        "word": "0713只有张远没结过婚",
+        "onboard_time": 1699671029,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152466,
+        "num": 130333,
+        "word": "王嘉尔 空降",
+        "onboard_time": 1699660527,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130257,
+        "num": 130257,
+        "word": "妈妈为省钱背冰箱坐20小时火车回家",
+        "onboard_time": 1699660465,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124556,
+        "num": 125870,
+        "word": "我国战舰已经这么猛了",
+        "onboard_time": 1699660587,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 125709,
+        "word": "89岁老人1天没进食店主暖心送水饺",
+        "onboard_time": 1699668811,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105534,
+        "num": 105534,
+        "word": "中级经济师",
+        "onboard_time": 1699669383,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94089,
+        "num": 105447,
+        "word": "熊猫小奇迹回国在新家撒欢跑",
+        "onboard_time": 1699644438,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76727,
+        "num": 105398,
+        "word": "青海一棕熊进矿区宿舍淡定吃喝",
+        "onboard_time": 1699671448,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74612,
+        "num": 105280,
+        "word": "老人烤红薯摊被撞翻一群人涌了上来",
+        "onboard_time": 1699626453,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将赴美国举行中美元首会晤#"
+    }
+  }
+}

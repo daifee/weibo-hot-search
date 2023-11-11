@@ -1,6 +1,6 @@
 {
   "startTime": 1699633351618,
-  "endTime": 1699671250455,
+  "endTime": 1699671639915,
   "band_list": [
     {
       "raw_hot": 2198821,
@@ -115,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830979,
+      "num": 830979,
+      "word": "银行回应信用卡欠3.1万未还变40万",
+      "onboard_time": 1699668333,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 820464,
       "num": 377197,
       "word": "谢娜 我回家了",
       "onboard_time": 1699617449,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 818217,
-      "num": 818217,
-      "word": "银行回应信用卡欠3.1万未还变40万",
-      "onboard_time": 1699668333,
-      "rank": 19,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 802757,
@@ -153,6 +153,14 @@
       "onboard_time": 1699633230,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736005,
+      "num": 736005,
+      "word": "王鹤棣以爱为营直播忘关麦",
+      "onboard_time": 1699670251,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 734037,
@@ -235,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475749,
-      "num": 475749,
-      "word": "王鹤棣以爱为营直播忘关麦",
-      "onboard_time": 1699670251,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 467985,
       "num": 467985,
       "word": "大连涉事小吃街疑因B太打假拉闸关灯",
@@ -257,6 +257,14 @@
       "onboard_time": 1699620639,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429125,
+      "num": 429125,
+      "word": "你好星期六这把高端局",
+      "onboard_time": 1699670969,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 413831,
@@ -427,20 +435,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253909,
-      "num": 253909,
-      "word": "你好星期六这把高端局",
-      "onboard_time": 1699670969,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251295,
       "num": 251295,
       "word": "关晓彤 主持",
       "onboard_time": 1699620695,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249604,
+      "num": 222512,
+      "word": "坚持吃核桃6个月会怎样",
+      "onboard_time": 1699670188,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 247435,
+      "num": 206419,
+      "word": "B太 破解大连海鲜餐厅加工店鬼秤",
+      "onboard_time": 1699671332,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 233095,
@@ -467,8 +483,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226078,
-      "num": 193253,
+      "raw_hot": 226101,
+      "num": 200676,
       "word": "胡彦斌近期状态",
       "onboard_time": 1699668509,
       "rank": 30,
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222512,
-      "num": 222512,
-      "word": "坚持吃核桃6个月会怎样",
-      "onboard_time": 1699670188,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 221273,
       "num": 221273,
       "word": "关晓彤豆浆油条舞台",
@@ -515,6 +523,22 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 217448,
+      "num": 459669,
+      "word": "用饿了么大券包买苹果15仅3千多",
+      "onboard_time": 1699668029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208873,
+      "num": 178917,
+      "word": "何德何能居然吃到鸟嬛售后",
+      "onboard_time": 1699671150,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205557,
       "num": 366310,
       "word": "山东下雪",
@@ -523,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205378,
+      "num": 205378,
+      "word": "马斯克盛赞中国人聪明又勤奋",
+      "onboard_time": 1699670069,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204854,
       "num": 197231,
       "word": "非凡医者",
       "onboard_time": 1699668629,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204575,
-      "num": 459669,
-      "word": "用饿了么大券包买苹果15仅3千多",
-      "onboard_time": 1699668029,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197241,
@@ -569,14 +593,6 @@
       "onboard_time": 1699663471,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 193450,
-      "num": 193450,
-      "word": "马斯克盛赞中国人聪明又勤奋",
-      "onboard_time": 1699670069,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 186876,
@@ -619,7 +635,7 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 166511,
+      "raw_hot": 169904,
       "num": 145848,
       "word": "妹老师拍华晨宇 再拍两张",
       "onboard_time": 1699670251,
@@ -648,6 +664,14 @@
       "word": "沈腾要和宋亚轩比五官分布比例",
       "onboard_time": 1699669771,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162599,
+      "num": 132138,
+      "word": "0713只有张远没结过婚",
+      "onboard_time": 1699671029,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -713,14 +737,6 @@
       "onboard_time": 1699670251,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135875,
-      "num": 135875,
-      "word": "何德何能居然吃到鸟嬛售后",
-      "onboard_time": 1699671150,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 132602,
@@ -851,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77966,
+      "num": 140162,
+      "word": "好客山东plus",
+      "onboard_time": 1699668029,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76727,
+      "num": 105398,
+      "word": "青海一棕熊进矿区宿舍淡定吃喝",
+      "onboard_time": 1699671448,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76653,
       "num": 76653,
       "word": "何炅谢娜同台主持",
@@ -896,14 +928,6 @@
       "word": "为什么是买东西不是买南北",
       "onboard_time": 1699625615,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66867,
-      "num": 140162,
-      "word": "好客山东plus",
-      "onboard_time": 1699668029,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
