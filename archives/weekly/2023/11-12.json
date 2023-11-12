@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699774429484,
+  "endTime": 1699777215172,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1845465,
+      "num": 1845465,
+      "word": "今年双十一冷清的原因找到了",
+      "onboard_time": 1699771470,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1816629,
       "num": 894773,
       "word": "裸门",
@@ -41,14 +49,6 @@
       "onboard_time": 1699757190,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1503721,
-      "num": 1503721,
-      "word": "今年双十一冷清的原因找到了",
-      "onboard_time": 1699771470,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1337799,
@@ -87,6 +87,14 @@
       "num": 1166067,
       "word": "关晓彤王牌控诉华晨宇",
       "onboard_time": 1699716517,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1164122,
+      "num": 1164122,
+      "word": "歌手2024 踢馆名单",
+      "onboard_time": 1699775130,
       "rank": 1,
       "category": "综艺"
     },
@@ -147,6 +155,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 852150,
+      "num": 852150,
+      "word": "JDG对战T1",
+      "onboard_time": 1699775673,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 822755,
       "num": 822755,
       "word": "WBG战胜BLG",
@@ -177,6 +193,14 @@
       "onboard_time": 1699716995,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714351,
+      "num": 714351,
+      "word": "日媒批福原爱生活奢侈逃亡中国",
+      "onboard_time": 1699775431,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 713521,
@@ -347,6 +371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 466757,
+      "num": 278720,
+      "word": "何炅用嘴型提示白鹿歌名",
+      "onboard_time": 1699774952,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464871,
       "num": 344443,
       "word": "金莎 我是我人生剧本里的大女主",
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414976,
+      "num": 414976,
+      "word": "爸爸喝醉把儿子落地铁急坏大学生",
+      "onboard_time": 1699773809,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410493,
       "num": 410493,
       "word": "皮肤科专家提醒药膏护肤不靠谱",
@@ -457,6 +497,14 @@
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 395386,
+      "num": 395386,
+      "word": "安卓版本与鸿蒙不再兼容",
+      "onboard_time": 1699776089,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 363934,
@@ -691,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248989,
+      "num": 248989,
+      "word": "龚俊 被迫做E",
+      "onboard_time": 1699776509,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248494,
       "num": 340955,
       "word": "老板娘送1箱奶茶感谢民警追回20元",
@@ -705,6 +761,14 @@
       "onboard_time": 1699757369,
       "rank": 21,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 244772,
+      "num": 214753,
+      "word": "天蝎座的慕强是有双标含义的",
+      "onboard_time": 1699773869,
+      "rank": 22,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 240792,
@@ -739,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219299,
+      "num": 219299,
+      "word": "白鹿镜头下的王鹤棣",
+      "onboard_time": 1699777050,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216091,
       "num": 216091,
       "word": "王鹤棣是在安慰李雪琴吗",
@@ -755,12 +827,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 214851,
+      "num": 214851,
+      "word": "浓茶和咖啡会悄悄偷走身体里的钙",
+      "onboard_time": 1699773331,
+      "rank": 43,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 214217,
       "num": 214217,
       "word": "花少为什么这段只放在花絮",
       "onboard_time": 1699773331,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213908,
+      "num": 213908,
+      "word": "广西一医院涉嫌贩卖出生证责任人被控制",
+      "onboard_time": 1699774231,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212868,
@@ -795,14 +883,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205487,
-      "num": 205487,
-      "word": "天蝎座的慕强是有双标含义的",
-      "onboard_time": 1699773869,
-      "rank": 22,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 204195,
       "num": 204195,
       "word": "我要逆风去",
@@ -817,6 +897,14 @@
       "onboard_time": 1699769549,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201239,
+      "num": 196278,
+      "word": "花儿与少年素人版",
+      "onboard_time": 1699774952,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 200897,
@@ -913,6 +1001,14 @@
       "onboard_time": 1699715733,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188901,
+      "num": 188901,
+      "word": "导播在干嘛",
+      "onboard_time": 1699777107,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 188183,
@@ -1059,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167135,
-      "num": 167135,
-      "word": "浓茶和咖啡会悄悄偷走身体里的钙",
-      "onboard_time": 1699773331,
-      "rank": 43,
-      "category": "美食,知识科普"
-    },
-    {
       "raw_hot": 166703,
       "num": 166703,
       "word": "张杰和三个女儿背影照",
@@ -1163,6 +1251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 153985,
+      "num": 153985,
+      "word": "北京一公园女子剥白果臭跑游客",
+      "onboard_time": 1699776389,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153398,
       "num": 153398,
       "word": "幼儿园运动会奖品是白菜大葱萝卜",
@@ -1203,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "婚礼开场放武林外传",
+      "onboard_time": 1699775190,
+      "rank": 33,
+      "category": "幽默,剧集"
+    },
+    {
       "raw_hot": 147733,
       "num": 147733,
       "word": "红薯摊狗狗有小被子和大玩具",
@@ -1227,12 +1331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144380,
-      "num": 191047,
-      "word": "爸爸喝醉把儿子落地铁急坏大学生",
-      "onboard_time": 1699773809,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 143235,
+      "num": 143235,
+      "word": "秦岚说话像刘星分饼",
+      "onboard_time": 1699774771,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 142217,
@@ -1419,6 +1523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 116053,
+      "num": 116053,
+      "word": "库里有帮手吗",
+      "onboard_time": 1699775911,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114621,
       "num": 114621,
       "word": "水神劈观排面",
@@ -1451,11 +1563,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110547,
-      "num": 159602,
-      "word": "广西一医院涉嫌贩卖出生证责任人被控制",
-      "onboard_time": 1699774231,
-      "rank": 39,
+      "raw_hot": 107810,
+      "num": 107810,
+      "word": "军犬伙食真的好好啊",
+      "onboard_time": 1699775250,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1563,12 +1675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98123,
+      "num": 98123,
+      "word": "此时此刻",
+      "onboard_time": 1699775788,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97879,
       "num": 97879,
       "word": "健身真的可以改变颜值吗",
       "onboard_time": 1699771470,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 97581,
+      "num": 97581,
+      "word": "时宴眼镜一摘火力全开",
+      "onboard_time": 1699774468,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 97222,
@@ -1667,20 +1795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66396,
+      "num": 966651,
+      "word": "2023加油壁纸",
+      "onboard_time": 1699759291,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64835,
       "num": 64835,
       "word": "微博喜剧现场",
       "onboard_time": 1699744098,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62204,
-      "num": 966651,
-      "word": "2023加油壁纸",
-      "onboard_time": 1699759291,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61230,
@@ -1735,6 +1863,14 @@
       "num": 894971,
       "word": "江山如画",
       "onboard_time": 1699689929,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9676,
+      "num": 876824,
+      "word": "高铁列车过站自带特效",
+      "onboard_time": 1699777050,
       "rank": 2,
       "category": "社会新闻"
     }
