@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699759045496,
+  "endTime": 1699760054184,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1043374,
-      "num": 1043374,
+      "raw_hot": 1065109,
+      "num": 1065109,
       "word": "黄子韬因身体不适取消广州场演唱会",
       "onboard_time": 1699757129,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 646345,
+      "num": 646345,
+      "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
+      "onboard_time": 1699756890,
+      "rank": 5,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 630873,
       "num": 374654,
       "word": "fx 重聚",
@@ -131,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612266,
-      "num": 612266,
-      "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
-      "onboard_time": 1699756890,
-      "rank": 5,
-      "category": "社会新闻,美食"
+      "raw_hot": 620108,
+      "num": 620108,
+      "word": "奶茶店主故意加违禁药致女子中毒",
+      "onboard_time": 1699757190,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609120,
@@ -243,19 +251,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 441544,
+      "num": 441544,
+      "word": "温州永嘉一民房坍塌4人遇难",
+      "onboard_time": 1699757852,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422773,
       "num": 422773,
       "word": "父亲开17.5米长货车接女儿拉1个行李箱",
       "onboard_time": 1699743798,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417736,
-      "num": 417736,
-      "word": "温州永嘉一民房坍塌4人遇难",
-      "onboard_time": 1699757852,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -283,14 +291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 370793,
-      "num": 370793,
-      "word": "奶茶店主故意加违禁药致女子中毒",
-      "onboard_time": 1699757190,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
@@ -299,12 +299,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 362137,
+      "num": 362137,
+      "word": "公开通缉缅北电诈犯罪集团重要头目",
+      "onboard_time": 1699759111,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340340,
       "num": 340340,
       "word": "吴楚一开始带货了",
       "onboard_time": 1699712913,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340308,
+      "num": 340308,
+      "word": "张远问想看林俊杰撩开刘海吗",
+      "onboard_time": 1699759170,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 333092,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291923,
+      "num": 160553,
+      "word": "姑娘为返款边流血边踩椭圆机",
+      "onboard_time": 1699758931,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290023,
       "num": 290023,
       "word": "刘亦菲 阿布扎比",
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282510,
+      "num": 282510,
+      "word": "以爱为营妆造",
+      "onboard_time": 1699756469,
+      "rank": 32,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 279569,
       "num": 279569,
       "word": "温州永嘉民房坍塌已致3人遇难",
@@ -403,12 +435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278475,
-      "num": 278475,
-      "word": "以爱为营妆造",
-      "onboard_time": 1699756469,
-      "rank": 32,
-      "category": "剧集,美妆"
+      "raw_hot": 278412,
+      "num": 278412,
+      "word": "粉笔模考",
+      "onboard_time": 1699759291,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 275563,
@@ -515,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191882,
+      "num": 160428,
+      "word": "笙笙给明星拍的宝丽来",
+      "onboard_time": 1699759590,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191095,
+      "num": 191095,
+      "word": "陈坤吴磊新片入型入格杀青",
+      "onboard_time": 1699759709,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190864,
       "num": 190864,
       "word": "张钧甯新片口碑",
@@ -561,6 +609,14 @@
       "onboard_time": 1699757911,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175398,
+      "num": 175398,
+      "word": "飞机餐为什么难吃还缩水",
+      "onboard_time": 1699758389,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 175233,
@@ -635,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157977,
-      "num": 157977,
-      "word": "飞机餐为什么难吃还缩水",
-      "onboard_time": 1699758389,
-      "rank": 32,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 157078,
       "num": 148184,
       "word": "Capper将暂时缺席线下活动",
@@ -657,6 +705,14 @@
       "onboard_time": 1699753771,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 153398,
+      "num": 153398,
+      "word": "幼儿园运动会奖品是白菜大葱萝卜",
+      "onboard_time": 1699759470,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152241,
@@ -779,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128162,
-      "num": 128162,
-      "word": "姑娘为返款边流血边踩椭圆机",
-      "onboard_time": 1699758931,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "DRX基地 风水宝地",
@@ -851,20 +899,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117652,
+      "num": 117652,
+      "word": "新手淡妆教程",
+      "onboard_time": 1699759889,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 110578,
+      "num": 110578,
+      "word": "学校送考研生百箱橘子祝一举上岸",
+      "onboard_time": 1699758751,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 106150,
       "num": 105033,
       "word": "撒贝宁关晓彤跳广场舞",
       "onboard_time": 1699720771,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106107,
-      "num": 106107,
-      "word": "学校送考研生百箱橘子祝一举上岸",
-      "onboard_time": 1699758751,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 105329,
@@ -1011,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62204,
+      "num": 181989,
+      "word": "2023加油壁纸",
+      "onboard_time": 1699759291,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61002,
       "num": 61002,
       "word": "大熊猫发现被偷拍慢悠悠走向竹林",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1699689929,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18385,
+      "num": 714905,
+      "word": "神十七乘组的首个天宫Vlog",
+      "onboard_time": 1699759770,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
