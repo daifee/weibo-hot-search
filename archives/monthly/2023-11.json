@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699796043713,
+  "endTime": 1699799116489,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -833,6 +833,14 @@
       "onboard_time": 1699097073,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2122047,
+      "num": 2122047,
+      "word": "多国爆发床虱危机",
+      "onboard_time": 1699793556,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2120929,
@@ -2740,7 +2748,7 @@
     },
     {
       "raw_hot": 1182003,
-      "num": 539038,
+      "num": 642552,
       "word": "杨幂个人ins更新",
       "onboard_time": 1699793259,
       "rank": 10,
@@ -3515,14 +3523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 983817,
-      "num": 983817,
-      "word": "多国爆发床虱危机",
-      "onboard_time": 1699793556,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 983324,
       "num": 983324,
       "word": "白鹿张凌赫好会亲",
@@ -3833,6 +3833,14 @@
       "onboard_time": 1699535132,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898773,
+      "num": 898773,
+      "word": "陈乔恩 和身边的朋友渐行渐远",
+      "onboard_time": 1699796617,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 897081,
@@ -5547,6 +5555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701769,
+      "num": 701769,
+      "word": "儿媳为带公婆吃自助撒谎只要10元",
+      "onboard_time": 1699796676,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701094,
       "num": 296319,
       "word": "Xiaohu首次晋级世界赛决赛",
@@ -6075,6 +6091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 642613,
+      "num": 642613,
+      "word": "张凌赫说下一部一定是现偶",
+      "onboard_time": 1699797877,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 642400,
       "num": 642400,
       "word": "为研究他喝下幽门螺杆菌培育汤",
@@ -6371,6 +6395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 622087,
+      "num": 622087,
+      "word": "官方通报企业家被约谈后坠楼身亡",
+      "onboard_time": 1699794395,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621037,
       "num": 621037,
       "word": "突然理解为什么姜涛是顶流了",
@@ -6505,6 +6537,14 @@
       "onboard_time": 1698920072,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 613163,
+      "num": 613163,
+      "word": "宁安如梦连更",
+      "onboard_time": 1699796617,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 613060,
@@ -7484,7 +7524,7 @@
     },
     {
       "raw_hot": 549531,
-      "num": 277404,
+      "num": 399339,
       "word": "JDG发博告别S13",
       "onboard_time": 1699794635,
       "rank": 30,
@@ -8601,14 +8641,6 @@
       "onboard_time": 1698840934,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 484015,
-      "num": 484015,
-      "word": "官方通报企业家被约谈后坠楼身亡",
-      "onboard_time": 1699794395,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483657,
@@ -11657,6 +11689,14 @@
       "onboard_time": 1699456014,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370449,
+      "num": 242061,
+      "word": "Faker晋级决赛时的表情",
+      "onboard_time": 1699797577,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 370232,
@@ -15803,6 +15843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265990,
+      "num": 265990,
+      "word": "爱奇艺回复白鹿",
+      "onboard_time": 1699798835,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265873,
       "num": 265873,
       "word": "Rookie解说",
@@ -16081,6 +16129,14 @@
       "onboard_time": 1699789478,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260988,
+      "num": 260988,
+      "word": "五月天重返八万人",
+      "onboard_time": 1699798538,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 260922,
@@ -16577,6 +16633,14 @@
       "onboard_time": 1699526673,
       "rank": 23,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 252495,
+      "num": 252495,
+      "word": "结婚的意义是什么",
+      "onboard_time": 1699798358,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 252268,
@@ -18483,6 +18547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226120,
+      "num": 226120,
+      "word": "曾繁日驱逐出场",
+      "onboard_time": 1699798236,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226101,
       "num": 200676,
       "word": "胡彦斌近期状态",
@@ -19001,6 +19073,14 @@
       "onboard_time": 1699169252,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219648,
+      "num": 219648,
+      "word": "为什么奶茶圈都在推三品管",
+      "onboard_time": 1699795716,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 219568,
@@ -19747,6 +19827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210606,
+      "num": 210606,
+      "word": "补气血做好这三点",
+      "onboard_time": 1699798418,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210584,
       "num": 210584,
       "word": "张小斐白衬衣",
@@ -20369,6 +20457,14 @@
       "onboard_time": 1699079071,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205353,
+      "num": 228295,
+      "word": "徐杰三分",
+      "onboard_time": 1699798835,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 205258,
@@ -22017,6 +22113,14 @@
       "onboard_time": 1698807990,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192622,
+      "num": 192622,
+      "word": "CBA",
+      "onboard_time": 1699797095,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 192506,
@@ -24251,6 +24355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171416,
+      "num": 171416,
+      "word": "张镇麟27分",
+      "onboard_time": 1699798538,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171400,
       "num": 171400,
       "word": "被同事直接叫了微信名",
@@ -26243,14 +26355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153023,
-      "num": 153023,
-      "word": "为什么奶茶圈都在推三品管",
-      "onboard_time": 1699795716,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 152973,
       "num": 1395316,
       "word": "你有算过每个月在咖啡上花了多少钱吗",
@@ -26313,6 +26417,14 @@
       "onboard_time": 1698845315,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152385,
+      "num": 152385,
+      "word": "在东北什么都可以冰糖",
+      "onboard_time": 1699798960,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 152374,
@@ -28017,6 +28129,14 @@
       "onboard_time": 1698978212,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136607,
+      "num": 280543,
+      "word": "杨幂现场改ID",
+      "onboard_time": 1699796736,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 136565,
@@ -30388,7 +30508,7 @@
     },
     {
       "raw_hot": 112643,
-      "num": 1230975,
+      "num": 1474381,
       "word": "高铁列车过站自带特效",
       "onboard_time": 1699777050,
       "rank": 2,
@@ -34129,6 +34249,9 @@
     },
     {
       "word": "#中美元首会晤#"
+    },
+    {
+      "word": "#提升基层防灾避险和自救互救能力#"
     }
   ]
 }
