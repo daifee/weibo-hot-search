@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699809264295,
+  "endTime": 1699810451837,
   "band_list": [
     {
       "raw_hot": 1535199,
@@ -371,8 +371,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97135,
-      "num": 97135,
+      "raw_hot": 99302,
+      "num": 99302,
       "word": "切尔西vs曼城",
       "onboard_time": 1699800158,
       "rank": 49,
@@ -395,8 +395,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48278,
-      "num": 48278,
+      "raw_hot": 67291,
+      "num": 67291,
+      "word": "57国联合谴责以色列",
+      "onboard_time": 1699808784,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 57859,
+      "num": 57859,
       "word": "小虎打Faker",
       "onboard_time": 1699791156,
       "rank": 49,

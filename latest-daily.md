@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 01:14:24
+本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 01:34:11
 </p>
 </blockquote>
 <p>
@@ -292,7 +292,7 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
-切尔西vs曼城（热度：97135）
+切尔西vs曼城（热度：99302）
 </a>
 </li>
 
@@ -309,8 +309,14 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2357%E5%9B%BD%E8%81%94%E5%90%88%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
+57国联合谴责以色列（热度：67291）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%99%8E%E6%89%93Faker%23" target="weibo">
-小虎打Faker（热度：48278）
+小虎打Faker（热度：57859）
 </a>
 </li>
 
