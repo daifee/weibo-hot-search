@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699762805777,
+  "endTime": 1699763641899,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -35,6 +35,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1174605,
+      "num": 1174605,
+      "word": "姑娘为返款边流血边踩椭圆机",
+      "onboard_time": 1699758931,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1166067,
       "num": 1166067,
       "word": "关晓彤王牌控诉华晨宇",
@@ -57,14 +65,6 @@
       "onboard_time": 1699746323,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1107492,
-      "num": 1107492,
-      "word": "姑娘为返款边流血边踩椭圆机",
-      "onboard_time": 1699758931,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1065109,
@@ -163,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628047,
+      "num": 628047,
+      "word": "乌布雷车祸",
+      "onboard_time": 1699762290,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 609120,
       "num": 609120,
       "word": "一觉醒来双十一结束了",
       "onboard_time": 1699752331,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 540312,
+      "num": 423575,
+      "word": "赵露思曾黎最新合照",
+      "onboard_time": 1699761450,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 533296,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434732,
+      "num": 434732,
+      "word": "白鹿妆造",
+      "onboard_time": 1699762110,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 422773,
       "num": 422773,
       "word": "父亲开17.5米长货车接女儿拉1个行李箱",
@@ -289,14 +313,6 @@
       "onboard_time": 1699750289,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415176,
-      "num": 415176,
-      "word": "赵露思曾黎最新合照",
-      "onboard_time": 1699761450,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 410493,
@@ -321,14 +337,6 @@
       "onboard_time": 1699751731,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 358919,
-      "num": 358919,
-      "word": "乌布雷车祸",
-      "onboard_time": 1699762290,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 340340,
@@ -395,6 +403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 298092,
+      "num": 298092,
+      "word": "健身杀死了我的自卑",
+      "onboard_time": 1699763369,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 293035,
       "num": 293035,
       "word": "张踩铃和她老公的相处模式",
@@ -441,14 +457,6 @@
       "onboard_time": 1699756469,
       "rank": 32,
       "category": "剧集,美妆"
-    },
-    {
-      "raw_hot": 279622,
-      "num": 279622,
-      "word": "白鹿妆造",
-      "onboard_time": 1699762110,
-      "rank": 16,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 279569,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203234,
+      "num": 203234,
+      "word": "官方通报B太遭遇鬼秤事件",
+      "onboard_time": 1699763369,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197537,
       "num": 197537,
       "word": "秦岚情绪稳定大法 选择记住快乐",
@@ -619,12 +635,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183883,
-      "num": 183883,
+      "raw_hot": 188207,
+      "num": 188207,
+      "word": "缅北",
+      "onboard_time": 1699763428,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188183,
+      "num": 188183,
       "word": "张小斐拯救嫌疑人 法庭高压对质",
       "onboard_time": 1699761989,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185579,
+      "num": 185579,
+      "word": "狗子走丢17天见到主人高兴打鸣",
+      "onboard_time": 1699763369,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177442,
@@ -641,6 +673,14 @@
       "onboard_time": 1699755210,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176958,
+      "num": 174456,
+      "word": "极致伪素颜妆",
+      "onboard_time": 1699763610,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 175410,
@@ -673,6 +713,14 @@
       "onboard_time": 1699715795,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173606,
+      "num": 173606,
+      "word": "秦海璐 花少梗王",
+      "onboard_time": 1699762770,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 173124,
@@ -755,6 +803,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 153491,
+      "num": 153491,
+      "word": "张元英果汁爱心妆",
+      "onboard_time": 1699761751,
+      "rank": 34,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 153398,
       "num": 153398,
       "word": "幼儿园运动会奖品是白菜大葱萝卜",
@@ -779,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150760,
+      "num": 150760,
+      "word": "追梦米切尔冲突",
+      "onboard_time": 1699763129,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150623,
       "num": 265314,
       "word": "老师为学生买药摔伤学生到病房读感谢信",
@@ -793,6 +857,14 @@
       "onboard_time": 1699751130,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146664,
+      "num": 146664,
+      "word": "为什么不能每天敷面膜",
+      "onboard_time": 1699761389,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 146087,
@@ -851,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133661,
-      "num": 133661,
-      "word": "为什么不能每天敷面膜",
-      "onboard_time": 1699761389,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 133227,
       "num": 133227,
       "word": "台剧此时此刻",
@@ -883,19 +947,19 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 130406,
-      "num": 130406,
-      "word": "张元英果汁爱心妆",
-      "onboard_time": 1699761751,
-      "rank": 34,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 128266,
       "num": 128266,
       "word": "第一次知道修正带能改卡祖笛",
       "onboard_time": 1699758212,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127682,
+      "num": 127682,
+      "word": "女友悔婚少退15万彩礼男子持刀行凶",
+      "onboard_time": 1699763308,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -921,6 +985,14 @@
       "onboard_time": 1699705420,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120928,
+      "num": 120928,
+      "word": "邓紫棋你成为了谁的幸福好甜",
+      "onboard_time": 1699762110,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 120724,
@@ -1027,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102123,
-      "num": 102123,
-      "word": "邓紫棋你成为了谁的幸福好甜",
-      "onboard_time": 1699762110,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101429,
       "num": 101429,
       "word": "卖红薯的安徽小伙收到物资和转账很感动",
@@ -1049,14 +1113,6 @@
       "onboard_time": 1699705716,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100988,
-      "num": 102120,
-      "word": "秦海璐 花少梗王",
-      "onboard_time": 1699762770,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 100351,
