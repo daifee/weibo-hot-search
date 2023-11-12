@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 03:34:00
+本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 04:17:01
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
+冰岛24小时内1400次地震（热度：53719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23" target="weibo">
 高铁列车过站自带特效（热度：34868）
 </a>
@@ -335,6 +341,12 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%20%E5%A9%9A%E5%A7%BB%E9%87%8C%E4%BB%98%E5%87%BA%E4%B8%8D%E8%A2%AB%E8%AE%A4%E5%8F%AF%E6%98%AF%E6%82%B2%E5%93%80%E7%9A%84%E4%BA%8B%23" target="weibo">
 孙俪 婚姻里付出不被认可是悲哀的事（热度：23454）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E8%A6%81%E4%B8%8D%E8%A6%81%E8%B7%9F%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%88%86%E4%BA%AB%23" target="weibo">
+负面情绪要不要跟好朋友分享（热度：19399）
 </a>
 </li>
 

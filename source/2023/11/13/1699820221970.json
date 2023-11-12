@@ -1,0 +1,410 @@
+{
+  "runTime": 1699820221970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109710,
+        "num": 109710,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109180,
+        "num": 109180,
+        "word": "1名中国人被越南判处死刑",
+        "onboard_time": 1699800574,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8501,
+        "num": 93733,
+        "word": "雪天8大健康提醒",
+        "onboard_time": 1699797999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85998,
+        "num": 85998,
+        "word": "T1晋级S13总决赛",
+        "onboard_time": 1699788286,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51618,
+        "num": 51618,
+        "word": "多国爆发床虱危机",
+        "onboard_time": 1699793556,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40690,
+        "num": 40690,
+        "word": "2女生捡到3千现金后报警交还",
+        "onboard_time": 1699803096,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 38207,
+        "num": 38207,
+        "word": "WBG赢了血赚输了不亏",
+        "onboard_time": 1699792413,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37334,
+        "num": 37334,
+        "word": "红米发文道歉",
+        "onboard_time": 1699792896,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36540,
+        "num": 36540,
+        "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+        "onboard_time": 1699790495,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 32820,
+        "num": 32820,
+        "word": "爱奇艺回复白鹿",
+        "onboard_time": 1699798835,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53719,
+        "num": 32796,
+        "word": "冰岛24小时内1400次地震",
+        "onboard_time": 1699818615,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32568,
+        "num": 32568,
+        "word": "JDG发博告别S13",
+        "onboard_time": 1699794635,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31426,
+        "num": 31426,
+        "word": "WBG决赛对战T1",
+        "onboard_time": 1699789774,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30237,
+        "num": 30237,
+        "word": "Faker晋级决赛时的表情",
+        "onboard_time": 1699797577,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26993,
+        "num": 26993,
+        "word": "快进到相信TheShy",
+        "onboard_time": 1699788999,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26718,
+        "num": 26718,
+        "word": "杨幂个人ins更新",
+        "onboard_time": 1699793259,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26468,
+        "num": 26468,
+        "word": "压力给到WBG",
+        "onboard_time": 1699788880,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26433,
+        "num": 26433,
+        "word": "陈乔恩 和身边的朋友渐行渐远",
+        "onboard_time": 1699796617,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26329,
+        "num": 26329,
+        "word": "张译马面裙",
+        "onboard_time": 1699784008,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22681,
+        "num": 22681,
+        "word": "官方通报企业家被约谈后坠楼身亡",
+        "onboard_time": 1699794395,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34935,
+        "num": 22604,
+        "word": "阿里全系产品崩了",
+        "onboard_time": 1699789774,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31032,
+        "num": 22595,
+        "word": "369企图冒充TheShy",
+        "onboard_time": 1699779753,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25032,
+        "num": 22587,
+        "word": "第一批用上减肥神药的人怎样了",
+        "onboard_time": 1699800574,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22519,
+        "num": 22519,
+        "word": "毕业才发现跟大学老师不是一个阶层的",
+        "onboard_time": 1699802737,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21344,
+        "num": 22119,
+        "word": "切尔西vs曼城",
+        "onboard_time": 1699800158,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22097,
+        "num": 22097,
+        "word": "宁安如梦连更",
+        "onboard_time": 1699796617,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21687,
+        "num": 21687,
+        "word": "补气血做好这三点",
+        "onboard_time": 1699798418,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21625,
+        "num": 21625,
+        "word": "57国联合谴责以色列",
+        "onboard_time": 1699808784,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 20604,
+        "num": 20604,
+        "word": "Knight 隐身",
+        "onboard_time": 1699791037,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19872,
+        "num": 19872,
+        "word": "徐娇眼镜戒指",
+        "onboard_time": 1699801959,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19399,
+        "num": 19399,
+        "word": "负面情绪要不要跟好朋友分享",
+        "onboard_time": 1699819394,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19396,
+        "num": 19396,
+        "word": "小虎打Faker",
+        "onboard_time": 1699791156,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19266,
+        "num": 19266,
+        "word": "韩国警方否认权志龙销毁证据",
+        "onboard_time": 1699790856,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18725,
+        "num": 18725,
+        "word": "白鹿催宁安如梦加更",
+        "onboard_time": 1699790974,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18713,
+        "num": 18713,
+        "word": "赵露思将进组珠帘玉幕",
+        "onboard_time": 1699785458,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18614,
+        "num": 18614,
+        "word": "薛之谦双层挑染发色",
+        "onboard_time": 1699799859,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 18521,
+        "word": "王子璇也是追星女",
+        "onboard_time": 1699804594,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18039,
+        "num": 18039,
+        "word": "张凌赫说下一部一定是现偶",
+        "onboard_time": 1699797877,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17976,
+        "num": 17976,
+        "word": "Ruler和Faker  一墙之隔胜负之分",
+        "onboard_time": 1699791875,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17950,
+        "num": 17950,
+        "word": "为什么奶茶圈都在推三品管",
+        "onboard_time": 1699795716,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17913,
+        "num": 17913,
+        "word": "米勒预测WBG零封T1",
+        "onboard_time": 1699801358,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17878,
+        "num": 17878,
+        "word": "结婚的意义是什么",
+        "onboard_time": 1699798358,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16969,
+        "num": 16969,
+        "word": "儿媳为带公婆吃自助撒谎只要10元",
+        "onboard_time": 1699796676,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 16528,
+        "word": "周柯宇易扬人设",
+        "onboard_time": 1699804532,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15924,
+        "num": 15924,
+        "word": "缅北",
+        "onboard_time": 1699763428,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15407,
+        "num": 15407,
+        "word": "宁安如梦",
+        "onboard_time": 1699793737,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14137,
+        "num": 14137,
+        "word": "刘畊宏带假肢女孩跳本草纲目",
+        "onboard_time": 1699805313,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14102,
+        "num": 14102,
+        "word": "歌手2024 踢馆名单",
+        "onboard_time": 1699775130,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13515,
+        "num": 14101,
+        "word": "孙俪 婚姻里付出不被认可是悲哀的事",
+        "onboard_time": 1699777587,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13064,
+        "num": 14078,
+        "word": "迪丽热巴红秀十一月刊封面",
+        "onboard_time": 1699795060,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
+    }
+  }
+}
