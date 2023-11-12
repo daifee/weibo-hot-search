@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699823659934,
+  "endTime": 1699824842352,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -28467,6 +28467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134498,
+      "num": 134498,
+      "word": "冰岛24小时内1400次地震",
+      "onboard_time": 1699818615,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134360,
       "num": 480382,
       "word": "立冬来了该抗寒了",
@@ -29449,14 +29457,6 @@
       "onboard_time": 1699268013,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 126521,
-      "num": 126521,
-      "word": "冰岛24小时内1400次地震",
-      "onboard_time": 1699818615,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126495,
@@ -34083,20 +34083,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23354,
+      "num": 21441,
+      "word": "负面情绪要不要跟好朋友分享",
+      "onboard_time": 1699819394,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23220,
       "num": 354683,
       "word": "智界S7充得快跑得远",
       "onboard_time": 1699530932,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22992,
-      "num": 21441,
-      "word": "负面情绪要不要跟好朋友分享",
-      "onboard_time": 1699819394,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 22624,
@@ -34331,7 +34331,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 9516,
+      "raw_hot": 9885,
       "num": 144991,
       "word": "雪天8大健康提醒",
       "onboard_time": 1699797999,
