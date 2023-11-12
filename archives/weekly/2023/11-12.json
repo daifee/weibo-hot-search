@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699785236741,
+  "endTime": 1699787645810,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -8,6 +8,14 @@
       "word": "官方通报B太遭遇鬼秤事件",
       "onboard_time": 1699763369,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2241896,
+      "num": 2241896,
+      "word": "冰岛宣布进入紧急状态",
+      "onboard_time": 1699784970,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1376617,
+      "num": 1376617,
+      "word": "T1拿到两个赛点",
+      "onboard_time": 1699785577,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1347131,
+      "num": 1347131,
+      "word": "张译马面裙",
+      "onboard_time": 1699784008,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1337799,
       "num": 381538,
       "word": "淘宝崩了",
@@ -89,6 +113,22 @@
       "onboard_time": 1699777587,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1235473,
+      "num": 263491,
+      "word": "淘宝又崩了",
+      "onboard_time": 1699784068,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1232280,
+      "num": 681188,
+      "word": "夸克",
+      "onboard_time": 1699786655,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1195166,
@@ -131,14 +171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1146645,
-      "num": 219063,
-      "word": "淘宝又崩了",
-      "onboard_time": 1699784068,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1122453,
       "num": 782662,
       "word": "校长强奸猥亵22名学生事发学校已撤并",
@@ -177,14 +209,6 @@
       "onboard_time": 1699749990,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948168,
-      "num": 948168,
-      "word": "张译马面裙",
-      "onboard_time": 1699784008,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 942415,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 711751,
-      "num": 216459,
+      "num": 261164,
       "word": "闲鱼崩了",
       "onboard_time": 1699784190,
       "rank": 42,
@@ -329,6 +353,14 @@
       "onboard_time": 1699763369,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 655097,
+      "num": 655097,
+      "word": "赵露思将进组珠帘玉幕",
+      "onboard_time": 1699785458,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 646345,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 590143,
-      "num": 215813,
+      "num": 256302,
       "word": "阿里云盘崩了",
       "onboard_time": 1699784252,
       "rank": 32,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 478510,
-      "num": 1236453,
+      "num": 1734473,
       "word": "房东将父亲种的30斤菜分享给百名租客",
       "onboard_time": 1699782812,
       "rank": 1,
@@ -529,6 +561,14 @@
       "onboard_time": 1699714416,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459365,
+      "num": 459365,
+      "word": "陆家嘴集团发布苏州毒地情况说明",
+      "onboard_time": 1699784068,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457268,
@@ -651,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375952,
+      "num": 375952,
+      "word": "梁靖崑vs户上隼辅",
+      "onboard_time": 1699785215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
@@ -673,6 +721,22 @@
       "onboard_time": 1699767990,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349772,
+      "num": 259911,
+      "word": "钉钉崩了",
+      "onboard_time": 1699784669,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 349230,
+      "num": 349230,
+      "word": "不背单词崩了",
+      "onboard_time": 1699785277,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 345032,
@@ -747,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305267,
+      "num": 305267,
+      "word": "任嘉伦田曦薇张凌赫窦骁何超莲合照",
+      "onboard_time": 1699786354,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303861,
       "num": 303861,
       "word": "王鹤棣腰力",
@@ -771,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301676,
-      "num": 301676,
-      "word": "冰岛宣布进入紧急状态",
-      "onboard_time": 1699784970,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300690,
       "num": 264915,
       "word": "李现要录综艺了",
@@ -787,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299551,
+      "num": 299551,
+      "word": "原来洞的数量可以决定莲藕口感",
+      "onboard_time": 1699785876,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 298679,
       "num": 298679,
       "word": "首位歼10女飞行员余旭牺牲7年了",
       "onboard_time": 1699750289,
       "rank": 21,
       "category": "军事"
+    },
+    {
+      "raw_hot": 294998,
+      "num": 294998,
+      "word": "Faker这一推绝了",
+      "onboard_time": 1699786230,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 293035,
@@ -809,14 +889,6 @@
       "onboard_time": 1699707396,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284510,
-      "num": 284510,
-      "word": "陆家嘴集团发布苏州毒地情况说明",
-      "onboard_time": 1699784068,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284401,
@@ -841,6 +913,14 @@
       "onboard_time": 1699746984,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282814,
+      "num": 282814,
+      "word": "张小斐腹肌",
+      "onboard_time": 1699784550,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282510,
@@ -883,20 +963,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275881,
-      "num": 275881,
-      "word": "张小斐腹肌",
-      "onboard_time": 1699784550,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275563,
       "num": 227968,
       "word": "芒果我可以信你一回吗",
       "onboard_time": 1699711835,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273989,
+      "num": 273989,
+      "word": "鳄鱼 版本陷阱",
+      "onboard_time": 1699785876,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 269019,
@@ -923,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261278,
-      "num": 212683,
-      "word": "钉钉崩了",
-      "onboard_time": 1699784669,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 258380,
       "num": 250021,
       "word": "白鹿镜头下的王鹤棣",
@@ -947,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255222,
+      "num": 255222,
+      "word": "千牛崩了",
+      "onboard_time": 1699786591,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 253330,
       "num": 253330,
       "word": "crisp 最后一局完成了救赎",
@@ -960,6 +1040,14 @@
       "word": "Bin 感谢所有人的支持",
       "onboard_time": 1699716214,
       "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 251449,
+      "num": 251449,
+      "word": "S13半决赛",
+      "onboard_time": 1699784490,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -1147,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210997,
-      "num": 210997,
-      "word": "S13半决赛",
-      "onboard_time": 1699784490,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "迪丽热巴是下一季花少导演",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1699773450,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195528,
+      "num": 195528,
+      "word": "鞠婧祎即将进组千香",
+      "onboard_time": 1699786892,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 193684,
@@ -1467,6 +1555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170306,
+      "num": 170306,
+      "word": "原来韩剧里的雪不是骗人的",
+      "onboard_time": 1699787371,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168643,
       "num": 168643,
       "word": "张杰用女儿的名字命名麦克风",
@@ -1579,6 +1675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 157541,
+      "num": 157541,
+      "word": "哈尔滨的移动城堡",
+      "onboard_time": 1699787191,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157078,
       "num": 148184,
       "word": "Capper将暂时缺席线下活动",
@@ -1660,7 +1764,7 @@
     },
     {
       "raw_hot": 148745,
-      "num": 1183315,
+      "num": 1514410,
       "word": "双11当天全国揽收快递6.39亿件",
       "onboard_time": 1699777949,
       "rank": 2,
@@ -1721,14 +1825,6 @@
       "onboard_time": 1699750591,
       "rank": 33,
       "category": "美妆,知识科普"
-    },
-    {
-      "raw_hot": 140735,
-      "num": 140735,
-      "word": "梁靖崑vs户上隼辅",
-      "onboard_time": 1699785215,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 139911,
@@ -1867,6 +1963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122534,
+      "num": 1347216,
+      "word": "受伤小狗获好心人送医取名立冬",
+      "onboard_time": 1699782633,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120928,
       "num": 120928,
       "word": "邓紫棋你成为了谁的幸福好甜",
@@ -1993,14 +2097,6 @@
       "onboard_time": 1699769609,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 110861,
-      "num": 1056317,
-      "word": "受伤小狗获好心人送医取名立冬",
-      "onboard_time": 1699782633,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110578,
@@ -2265,6 +2361,22 @@
       "onboard_time": 1699714416,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69409,
+      "num": 1106732,
+      "word": "7旬学生为百岁乡村老师过生日",
+      "onboard_time": 1699786057,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67877,
+      "num": 352821,
+      "word": "vivo影像大片盘点",
+      "onboard_time": 1699785396,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 66396,

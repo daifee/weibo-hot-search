@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699785236741,
+  "endTime": 1699787645810,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -696,6 +696,14 @@
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2241896,
+      "num": 2241896,
+      "word": "冰岛宣布进入紧急状态",
+      "onboard_time": 1699784970,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2091,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1376617,
+      "num": 1376617,
+      "word": "T1拿到两个赛点",
+      "onboard_time": 1699785577,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1376437,
       "num": 1396960,
       "word": "T1 压力",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1699323692,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1347131,
+      "num": 1347131,
+      "word": "张译马面裙",
+      "onboard_time": 1699784008,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 1340266,
@@ -2467,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1235473,
+      "num": 263491,
+      "word": "淘宝又崩了",
+      "onboard_time": 1699784068,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1235326,
       "num": 277964,
       "word": "华莎演出被判无淫乱嫌疑",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1698801215,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1232280,
+      "num": 681188,
+      "word": "夸克",
+      "onboard_time": 1699786655,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1230353,
@@ -2761,14 +2801,6 @@
       "onboard_time": 1699485148,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1146645,
-      "num": 219063,
-      "word": "淘宝又崩了",
-      "onboard_time": 1699784068,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1137514,
@@ -3529,14 +3561,6 @@
       "onboard_time": 1699749990,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948168,
-      "num": 948168,
-      "word": "张译马面裙",
-      "onboard_time": 1699784008,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 942415,
@@ -5300,7 +5324,7 @@
     },
     {
       "raw_hot": 711751,
-      "num": 216459,
+      "num": 261164,
       "word": "闲鱼崩了",
       "onboard_time": 1699784190,
       "rank": 42,
@@ -5817,6 +5841,14 @@
       "onboard_time": 1699630895,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 655097,
+      "num": 655097,
+      "word": "赵露思将进组珠帘玉幕",
+      "onboard_time": 1699785458,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 654209,
@@ -6700,7 +6732,7 @@
     },
     {
       "raw_hot": 590143,
-      "num": 215813,
+      "num": 256302,
       "word": "阿里云盘崩了",
       "onboard_time": 1699784252,
       "rank": 32,
@@ -8436,7 +8468,7 @@
     },
     {
       "raw_hot": 478510,
-      "num": 1236453,
+      "num": 1734473,
       "word": "房东将父亲种的30斤菜分享给百名租客",
       "onboard_time": 1699782812,
       "rank": 1,
@@ -8913,6 +8945,14 @@
       "onboard_time": 1698796955,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459365,
+      "num": 459365,
+      "word": "陆家嘴集团发布苏州毒地情况说明",
+      "onboard_time": 1699784068,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459156,
@@ -11115,6 +11155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375952,
+      "num": 375952,
+      "word": "梁靖崑vs户上隼辅",
+      "onboard_time": 1699785215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375797,
       "num": 375797,
       "word": "广东卫健委主任朱宏被查",
@@ -12043,6 +12091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349772,
+      "num": 259911,
+      "word": "钉钉崩了",
+      "onboard_time": 1699784669,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 349727,
       "num": 349727,
       "word": "匪我思存 说灭男主全族就灭男主全族",
@@ -12081,6 +12137,14 @@
       "onboard_time": 1699146633,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 349230,
+      "num": 349230,
+      "word": "不背单词崩了",
+      "onboard_time": 1699785277,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 349116,
@@ -13579,6 +13643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305267,
+      "num": 305267,
+      "word": "任嘉伦田曦薇张凌赫窦骁何超莲合照",
+      "onboard_time": 1699786354,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305086,
       "num": 274693,
       "word": "张艺兴被路人当成雕塑",
@@ -13723,14 +13795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 301676,
-      "num": 301676,
-      "word": "冰岛宣布进入紧急状态",
-      "onboard_time": 1699784970,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300735,
       "num": 268668,
       "word": "密子君 中韩泰融合烤肉自助",
@@ -13777,6 +13841,14 @@
       "onboard_time": 1699408292,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299551,
+      "num": 299551,
+      "word": "原来洞的数量可以决定莲藕口感",
+      "onboard_time": 1699785876,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 299042,
@@ -13937,6 +14009,14 @@
       "onboard_time": 1699198953,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294998,
+      "num": 294998,
+      "word": "Faker这一推绝了",
+      "onboard_time": 1699786230,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 294959,
@@ -14419,14 +14499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284510,
-      "num": 284510,
-      "word": "陆家嘴集团发布苏州毒地情况说明",
-      "onboard_time": 1699784068,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284505,
       "num": 284505,
       "word": "张颂文再演反派",
@@ -14505,6 +14577,14 @@
       "onboard_time": 1699746984,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282814,
+      "num": 282814,
+      "word": "张小斐腹肌",
+      "onboard_time": 1699784550,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282790,
@@ -14875,14 +14955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275881,
-      "num": 275881,
-      "word": "张小斐腹肌",
-      "onboard_time": 1699784550,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275719,
       "num": 256314,
       "word": "我的工位成了公司的网红打卡点",
@@ -14961,6 +15033,14 @@
       "onboard_time": 1699243118,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273989,
+      "num": 273989,
+      "word": "鳄鱼 版本陷阱",
+      "onboard_time": 1699785876,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 273955,
@@ -15683,14 +15763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 261278,
-      "num": 212683,
-      "word": "钉钉崩了",
-      "onboard_time": 1699784669,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 260922,
       "num": 1199344,
       "word": "曼联 VAR",
@@ -16011,6 +16083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255222,
+      "num": 255222,
+      "word": "千牛崩了",
+      "onboard_time": 1699786591,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 254967,
       "num": 254967,
       "word": "杜华回关了没",
@@ -16249,6 +16329,14 @@
       "onboard_time": 1698767436,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 251449,
+      "num": 251449,
+      "word": "S13半决赛",
+      "onboard_time": 1699784490,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 251430,
@@ -19259,14 +19347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210997,
-      "num": 210997,
-      "word": "S13半决赛",
-      "onboard_time": 1699784490,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 210985,
       "num": 210985,
       "word": "声生不息",
@@ -21169,6 +21249,14 @@
       "onboard_time": 1699533272,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195528,
+      "num": 195528,
+      "word": "鞠婧祎即将进组千香",
+      "onboard_time": 1699786892,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 195493,
@@ -23899,6 +23987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170306,
+      "num": 170306,
+      "word": "原来韩剧里的雪不是骗人的",
+      "onboard_time": 1699787371,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170220,
       "num": 170220,
       "word": "葬送的芙莉莲",
@@ -25211,6 +25307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 157541,
+      "num": 157541,
+      "word": "哈尔滨的移动城堡",
+      "onboard_time": 1699787191,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157511,
       "num": 157511,
       "word": "故宫的柿子红了",
@@ -26228,7 +26332,7 @@
     },
     {
       "raw_hot": 148745,
-      "num": 1183315,
+      "num": 1514410,
       "word": "双11当天全国揽收快递6.39亿件",
       "onboard_time": 1699777949,
       "rank": 2,
@@ -27177,14 +27281,6 @@
       "onboard_time": 1699491820,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140735,
-      "num": 140735,
-      "word": "梁靖崑vs户上隼辅",
-      "onboard_time": 1699785215,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 140568,
@@ -29043,6 +29139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122534,
+      "num": 1347216,
+      "word": "受伤小狗获好心人送医取名立冬",
+      "onboard_time": 1699782633,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122465,
       "num": 122465,
       "word": "中级经济师",
@@ -30064,14 +30168,6 @@
       "word": "6岁男孩捐献器官给5个孩子带来新生",
       "onboard_time": 1698932496,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110861,
-      "num": 1056317,
-      "word": "受伤小狗获好心人送医取名立冬",
-      "onboard_time": 1699782633,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -32107,6 +32203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 69409,
+      "num": 1106732,
+      "word": "7旬学生为百岁乡村老师过生日",
+      "onboard_time": 1699786057,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69337,
       "num": 445402,
       "word": "精神分裂患者的世界太痛苦了",
@@ -32169,6 +32273,14 @@
       "onboard_time": 1699517431,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67877,
+      "num": 352821,
+      "word": "vivo影像大片盘点",
+      "onboard_time": 1699785396,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 67022,
