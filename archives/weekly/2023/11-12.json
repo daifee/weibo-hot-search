@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699760054184,
+  "endTime": 1699762805777,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -17,6 +17,14 @@
       "onboard_time": 1699751549,
       "rank": 3,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1711628,
+      "num": 1711628,
+      "word": "奶茶店主故意加违禁药致女子中毒",
+      "onboard_time": 1699757190,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337799,
@@ -49,6 +57,14 @@
       "onboard_time": 1699746323,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1107492,
+      "num": 1107492,
+      "word": "姑娘为返款边流血边踩椭圆机",
+      "onboard_time": 1699758931,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1065109,
@@ -115,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 688373,
+      "num": 688373,
+      "word": "公开通缉缅北电诈犯罪集团重要头目",
+      "onboard_time": 1699759111,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685488,
       "num": 685488,
       "word": "张艺兴说去国外见了吴世勋",
@@ -137,14 +161,6 @@
       "onboard_time": 1699704392,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 620108,
-      "num": 620108,
-      "word": "奶茶店主故意加违禁药致女子中毒",
-      "onboard_time": 1699757190,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609120,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415176,
+      "num": 415176,
+      "word": "赵露思曾黎最新合照",
+      "onboard_time": 1699761450,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410493,
       "num": 410493,
       "word": "皮肤科专家提醒药膏护肤不靠谱",
@@ -299,12 +323,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 362137,
-      "num": 362137,
-      "word": "公开通缉缅北电诈犯罪集团重要头目",
-      "onboard_time": 1699759111,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 358919,
+      "num": 358919,
+      "word": "乌布雷车祸",
+      "onboard_time": 1699762290,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 340340,
@@ -339,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307945,
+      "num": 307945,
+      "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
+      "onboard_time": 1699760194,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303861,
       "num": 303861,
       "word": "王鹤棣腰力",
@@ -369,14 +401,6 @@
       "onboard_time": 1699757311,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291923,
-      "num": 160553,
-      "word": "姑娘为返款边流血边踩椭圆机",
-      "onboard_time": 1699758931,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290023,
@@ -417,6 +441,14 @@
       "onboard_time": 1699756469,
       "rank": 32,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 279622,
+      "num": 279622,
+      "word": "白鹿妆造",
+      "onboard_time": 1699762110,
+      "rank": 16,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 279569,
@@ -475,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247859,
+      "num": 247859,
+      "word": "原来吃辣可以使人快乐的原因是这个",
+      "onboard_time": 1699757369,
+      "rank": 21,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 226694,
       "num": 226694,
       "word": "你好星期六下周有林俊杰",
       "onboard_time": 1699711715,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225390,
+      "num": 194776,
+      "word": "邓紫棋广州 抢票",
+      "onboard_time": 1699757732,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 216091,
@@ -513,14 +561,6 @@
       "onboard_time": 1699699595,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201805,
-      "num": 201805,
-      "word": "原来吃辣可以使人快乐的原因是这个",
-      "onboard_time": 1699757369,
-      "rank": 21,
-      "category": "美食,知识科普"
     },
     {
       "raw_hot": 197537,
@@ -579,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185955,
-      "num": 185955,
-      "word": "邓紫棋广州 抢票",
-      "onboard_time": 1699757732,
-      "rank": 23,
-      "category": "演出"
+      "raw_hot": 183883,
+      "num": 183883,
+      "word": "张小斐拯救嫌疑人 法庭高压对质",
+      "onboard_time": 1699761989,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 177442,
@@ -681,6 +721,14 @@
       "onboard_time": 1699701030,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163309,
+      "num": 163309,
+      "word": "想要皮肤好要学会正确养肤",
+      "onboard_time": 1699761152,
+      "rank": 28,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 163195,
@@ -803,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133661,
+      "num": 133661,
+      "word": "为什么不能每天敷面膜",
+      "onboard_time": 1699761389,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133227,
       "num": 133227,
       "word": "台剧此时此刻",
@@ -825,6 +881,14 @@
       "onboard_time": 1699750771,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 130406,
+      "num": 130406,
+      "word": "张元英果汁爱心妆",
+      "onboard_time": 1699761751,
+      "rank": 34,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 128266,
@@ -907,6 +971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 114360,
+      "num": 114360,
+      "word": "我们要经历什么才会变成大人",
+      "onboard_time": 1699760849,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110578,
       "num": 110578,
       "word": "学校送考研生百箱橘子祝一举上岸",
@@ -955,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102123,
+      "num": 102123,
+      "word": "邓紫棋你成为了谁的幸福好甜",
+      "onboard_time": 1699762110,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101429,
       "num": 101429,
       "word": "卖红薯的安徽小伙收到物资和转账很感动",
@@ -969,6 +1049,14 @@
       "onboard_time": 1699705716,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100988,
+      "num": 102120,
+      "word": "秦海璐 花少梗王",
+      "onboard_time": 1699762770,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 100351,
@@ -1075,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61230,
+      "num": 841135,
+      "word": "神十七乘组的首个天宫Vlog",
+      "onboard_time": 1699759770,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 61002,
       "num": 61002,
       "word": "大熊猫发现被偷拍慢悠悠走向竹林",
@@ -1121,14 +1217,6 @@
       "onboard_time": 1699689929,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18385,
-      "num": 714905,
-      "word": "神十七乘组的首个天宫Vlog",
-      "onboard_time": 1699759770,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

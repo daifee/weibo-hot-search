@@ -1,0 +1,410 @@
+{
+  "runTime": 1699762805777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711628,
+        "num": 1711628,
+        "word": "奶茶店主故意加违禁药致女子中毒",
+        "onboard_time": 1699757190,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107492,
+        "num": 1107492,
+        "word": "姑娘为返款边流血边踩椭圆机",
+        "onboard_time": 1699758931,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61230,
+        "num": 841135,
+        "word": "神十七乘组的首个天宫Vlog",
+        "onboard_time": 1699759770,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 688373,
+        "num": 688373,
+        "word": "公开通缉缅北电诈犯罪集团重要头目",
+        "onboard_time": 1699759111,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668261,
+        "num": 668261,
+        "word": "黄子韬因身体不适取消广州场演唱会",
+        "onboard_time": 1699757129,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 647575,
+        "num": 647575,
+        "word": "原来海棠朵朵是辛芷蕾本色出演",
+        "onboard_time": 1699756050,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500520,
+        "num": 500520,
+        "word": "金莎回应恋情争议",
+        "onboard_time": 1699745963,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500331,
+        "num": 500331,
+        "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
+        "onboard_time": 1699756890,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 450534,
+        "num": 450534,
+        "word": "郑恺说很对不起苗苗",
+        "onboard_time": 1699715615,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428158,
+        "num": 428158,
+        "word": "民警怒斥缅北没抓到你是吧",
+        "onboard_time": 1699749990,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988077,
+        "num": 426562,
+        "word": "裸门",
+        "onboard_time": 1699751549,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 415176,
+        "num": 415176,
+        "word": "赵露思曾黎最新合照",
+        "onboard_time": 1699761450,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358919,
+        "num": 358919,
+        "word": "乌布雷车祸",
+        "onboard_time": 1699762290,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343650,
+        "num": 343650,
+        "word": "四个人凑不出半个恋爱脑",
+        "onboard_time": 1699746323,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307945,
+        "num": 307945,
+        "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
+        "onboard_time": 1699760194,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289262,
+        "num": 289262,
+        "word": "张艺兴演唱会伴舞回应背带裤造型",
+        "onboard_time": 1699755811,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279622,
+        "num": 279622,
+        "word": "白鹿妆造",
+        "onboard_time": 1699762110,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 270175,
+        "num": 270175,
+        "word": "Bin 迟早冠军是我的",
+        "onboard_time": 1699750829,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255718,
+        "num": 255718,
+        "word": "肖战vlog 罗马假日",
+        "onboard_time": 1699754611,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247859,
+        "num": 247859,
+        "word": "原来吃辣可以使人快乐的原因是这个",
+        "onboard_time": 1699757369,
+        "rank": 19,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 241500,
+        "num": 241500,
+        "word": "张远问想看林俊杰撩开刘海吗",
+        "onboard_time": 1699759170,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233075,
+        "num": 233075,
+        "word": "张踩铃和她老公的相处模式",
+        "onboard_time": 1699757311,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208061,
+        "num": 208061,
+        "word": "粉笔模考",
+        "onboard_time": 1699759291,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205458,
+        "num": 205458,
+        "word": "温州永嘉一民房坍塌4人遇难",
+        "onboard_time": 1699757852,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202205,
+        "num": 202205,
+        "word": "有些癌症筛查无用甚至有害",
+        "onboard_time": 1699754791,
+        "rank": 24,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 225390,
+        "num": 194776,
+        "word": "邓紫棋广州 抢票",
+        "onboard_time": 1699757732,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183883,
+        "num": 183883,
+        "word": "张小斐拯救嫌疑人 法庭高压对质",
+        "onboard_time": 1699761989,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172812,
+        "num": 172812,
+        "word": "骗子骗29万后良心发现返168元红包",
+        "onboard_time": 1699750289,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163309,
+        "num": 163309,
+        "word": "想要皮肤好要学会正确养肤",
+        "onboard_time": 1699761152,
+        "rank": 28,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 159467,
+        "num": 159467,
+        "word": "飞机餐为什么难吃还缩水",
+        "onboard_time": 1699758389,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 156045,
+        "word": "家属回应企业主被连续约谈后自杀",
+        "onboard_time": 1699758452,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "以爱为营妆造",
+        "onboard_time": 1699756469,
+        "rank": 31,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 139285,
+        "num": 139285,
+        "word": "日本大熊猫粉丝团来川看香香",
+        "onboard_time": 1699755210,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133661,
+        "num": 133661,
+        "word": "为什么不能每天敷面膜",
+        "onboard_time": 1699761389,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130406,
+        "num": 130406,
+        "word": "张元英果汁爱心妆",
+        "onboard_time": 1699761751,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 119028,
+        "num": 119028,
+        "word": "王多多 WBG究竟是怎样的一支队伍",
+        "onboard_time": 1699748728,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118588,
+        "num": 118588,
+        "word": "爸妈开2元店将双胞胎儿子送入大学",
+        "onboard_time": 1699757911,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116695,
+        "num": 116695,
+        "word": "林俊杰南京 达尔文",
+        "onboard_time": 1699751731,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114872,
+        "num": 114872,
+        "word": "首位歼10女飞行员余旭牺牲7年了",
+        "onboard_time": 1699750289,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 114360,
+        "num": 114360,
+        "word": "我们要经历什么才会变成大人",
+        "onboard_time": 1699760849,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113314,
+        "num": 113314,
+        "word": "闲置太久的皮衣就不要穿了",
+        "onboard_time": 1699746624,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109425,
+        "num": 109425,
+        "word": "王鹤棣腰力",
+        "onboard_time": 1699751971,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108900,
+        "num": 108900,
+        "word": "没想到狗的鼻子居然是开口的",
+        "onboard_time": 1699756290,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106340,
+        "num": 106340,
+        "word": "笙笙给明星拍的宝丽来",
+        "onboard_time": 1699759590,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102864,
+        "num": 102864,
+        "word": "杨幂羊羔毛外套",
+        "onboard_time": 1699752331,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102123,
+        "num": 102123,
+        "word": "邓紫棋你成为了谁的幸福好甜",
+        "onboard_time": 1699762110,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100988,
+        "num": 102120,
+        "word": "秦海璐 花少梗王",
+        "onboard_time": 1699762770,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95677,
+        "num": 102107,
+        "word": "陈坤吴磊新片入型入格杀青",
+        "onboard_time": 1699759709,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93790,
+        "num": 102093,
+        "word": "王星越 小孩哥",
+        "onboard_time": 1699715492,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91355,
+        "num": 102077,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1699704938,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记亲切慰问因公牺牲烈士家属#"
+    }
+  }
+}
