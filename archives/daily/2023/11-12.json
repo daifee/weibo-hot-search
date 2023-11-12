@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699777215172,
+  "endTime": 1699778053315,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2005667,
-      "num": 396691,
+      "num": 561263,
       "word": "缅北",
       "onboard_time": 1699763428,
       "rank": 23,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1307002,
-      "num": 327824,
+      "num": 560964,
       "word": "郭涛儿子石头都这么大了",
       "onboard_time": 1699767151,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1195166,
+      "num": 1195166,
+      "word": "歌手2024 踢馆名单",
+      "onboard_time": 1699775130,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1191246,
@@ -91,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1164122,
-      "num": 1164122,
-      "word": "歌手2024 踢馆名单",
-      "onboard_time": 1699775130,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1122453,
       "num": 782662,
       "word": "校长强奸猥亵22名学生事发学校已撤并",
@@ -121,6 +121,14 @@
       "onboard_time": 1699757129,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1013020,
+      "num": 1013020,
+      "word": "JDG对战T1",
+      "onboard_time": 1699775673,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 951432,
@@ -155,14 +163,6 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 852150,
-      "num": 852150,
-      "word": "JDG对战T1",
-      "onboard_time": 1699775673,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 822755,
       "num": 822755,
       "word": "WBG战胜BLG",
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 714351,
-      "num": 714351,
+      "raw_hot": 727202,
+      "num": 727202,
       "word": "日媒批福原爱生活奢侈逃亡中国",
       "onboard_time": 1699775431,
       "rank": 5,
@@ -283,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 585622,
+      "num": 585622,
+      "word": "导播在干嘛",
+      "onboard_time": 1699777107,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 571901,
       "num": 423575,
       "word": "赵露思曾黎最新合照",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476342,
+      "num": 476342,
+      "word": "何炅用嘴型提示白鹿歌名",
+      "onboard_time": 1699774952,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476026,
       "num": 476026,
       "word": "女生皮肤超好的总结",
@@ -371,14 +387,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 466757,
-      "num": 278720,
-      "word": "何炅用嘴型提示白鹿歌名",
-      "onboard_time": 1699774952,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 464871,
       "num": 344443,
       "word": "金莎 我是我人生剧本里的大女主",
@@ -393,6 +401,14 @@
       "onboard_time": 1699769009,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 448895,
+      "num": 583609,
+      "word": "爸爸喝醉把儿子落地铁急坏大学生",
+      "onboard_time": 1699773809,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448800,
@@ -475,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 414976,
-      "num": 414976,
-      "word": "爸爸喝醉把儿子落地铁急坏大学生",
-      "onboard_time": 1699773809,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410493,
       "num": 410493,
       "word": "皮肤科专家提醒药膏护肤不靠谱",
@@ -491,20 +499,20 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 403197,
+      "num": 403197,
+      "word": "安卓版本与鸿蒙不再兼容",
+      "onboard_time": 1699776089,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 402849,
       "num": 402849,
       "word": "陈楚生 莫干山音乐节",
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 395386,
-      "num": 395386,
-      "word": "安卓版本与鸿蒙不再兼容",
-      "onboard_time": 1699776089,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 363934,
@@ -715,12 +723,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269019,
+      "num": 269019,
+      "word": "龚俊 被迫做E",
+      "onboard_time": 1699776509,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
       "onboard_time": 1699767809,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258380,
+      "num": 250021,
+      "word": "白鹿镜头下的王鹤棣",
+      "onboard_time": 1699777050,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255837,
+      "num": 255837,
+      "word": "北京一公园女子剥白果臭跑游客",
+      "onboard_time": 1699776389,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253330,
@@ -737,14 +769,6 @@
       "onboard_time": 1699716214,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248989,
-      "num": 248989,
-      "word": "龚俊 被迫做E",
-      "onboard_time": 1699776509,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 248494,
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 244772,
-      "num": 214753,
+      "num": 224864,
       "word": "天蝎座的慕强是有双标含义的",
       "onboard_time": 1699773869,
       "rank": 22,
@@ -777,6 +801,22 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 240116,
+      "num": 160683,
+      "word": "孙俪 婚姻里付出不被认可是悲哀的事",
+      "onboard_time": 1699777587,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233522,
+      "num": 233522,
+      "word": "网友称应聘蜜雪冰城被嫌26岁太大",
+      "onboard_time": 1699777709,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226694,
@@ -803,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219299,
-      "num": 219299,
-      "word": "白鹿镜头下的王鹤棣",
-      "onboard_time": 1699777050,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 220022,
+      "num": 220022,
+      "word": "浓茶和咖啡会悄悄偷走身体里的钙",
+      "onboard_time": 1699773331,
+      "rank": 43,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 216091,
@@ -827,14 +867,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 214851,
-      "num": 214851,
-      "word": "浓茶和咖啡会悄悄偷走身体里的钙",
-      "onboard_time": 1699773331,
-      "rank": 43,
-      "category": "美食,知识科普"
-    },
-    {
       "raw_hot": 214217,
       "num": 214217,
       "word": "花少为什么这段只放在花絮",
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 213908,
-      "num": 213908,
+      "num": 569476,
       "word": "广西一医院涉嫌贩卖出生证责任人被控制",
       "onboard_time": 1699774231,
       "rank": 39,
@@ -899,12 +931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201239,
-      "num": 196278,
+      "raw_hot": 203651,
+      "num": 203651,
       "word": "花儿与少年素人版",
       "onboard_time": 1699774952,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201977,
+      "num": 201977,
+      "word": "关晓彤初冬穿搭",
+      "onboard_time": 1699777288,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200897,
@@ -1003,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188901,
-      "num": 188901,
-      "word": "导播在干嘛",
-      "onboard_time": 1699777107,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188183,
       "num": 188183,
       "word": "张小斐拯救嫌疑人 法庭高压对质",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1699765411,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187192,
+      "num": 187192,
+      "word": "最真实的男主给女主喂药",
+      "onboard_time": 1699777709,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 185579,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1699753771,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 153985,
-      "num": 153985,
-      "word": "北京一公园女子剥白果臭跑游客",
-      "onboard_time": 1699776389,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153398,
@@ -1523,6 +1555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 117499,
+      "num": 117499,
+      "word": "用餐时发现缺斤少两你会怎么做",
+      "onboard_time": 1699777408,
+      "rank": 40,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 116053,
       "num": 116053,
       "word": "库里有帮手吗",
@@ -1731,6 +1771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95760,
+      "num": 876824,
+      "word": "高铁列车过站自带特效",
+      "onboard_time": 1699777050,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "燕临冠礼",
@@ -1867,12 +1915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9676,
-      "num": 876824,
-      "word": "高铁列车过站自带特效",
-      "onboard_time": 1699777050,
+      "raw_hot": 5523,
+      "num": 1065790,
+      "word": "双11当天全国揽收快递6.39亿件",
+      "onboard_time": 1699777949,
       "rank": 2,
-      "category": "社会新闻"
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
