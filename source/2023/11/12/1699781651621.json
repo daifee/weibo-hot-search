@@ -1,0 +1,410 @@
+{
+  "runTime": 1699781651621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491791,
+        "num": 1491791,
+        "word": "导播在干嘛",
+        "onboard_time": 1699777107,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1118056,
+        "num": 1118056,
+        "word": "JDG对战T1",
+        "onboard_time": 1699775673,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128512,
+        "num": 1054978,
+        "word": "双11当天全国揽收快递6.39亿件",
+        "onboard_time": 1699777949,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1042815,
+        "num": 1042815,
+        "word": "网友称应聘蜜雪冰城被嫌26岁太大",
+        "onboard_time": 1699777709,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880396,
+        "num": 880396,
+        "word": "歌手2024 踢馆名单",
+        "onboard_time": 1699775130,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825125,
+        "num": 825125,
+        "word": "今年双十一冷清的原因找到了",
+        "onboard_time": 1699771470,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 764811,
+        "num": 764811,
+        "word": "真正致癌的是这3种鱼",
+        "onboard_time": 1699773029,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 704152,
+        "num": 704152,
+        "word": "十年前30万买的海景房现在8万卖不掉",
+        "onboard_time": 1699778071,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632380,
+        "num": 632380,
+        "word": "T1半决赛先下一城",
+        "onboard_time": 1699778911,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 516035,
+        "num": 568532,
+        "word": "菲警方正确认6具遗体是否为被绑架中国人",
+        "onboard_time": 1699780410,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293343,
+        "num": 565515,
+        "word": "孙俪 婚姻里付出不被认可是悲哀的事",
+        "onboard_time": 1699777587,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 813517,
+        "num": 563702,
+        "word": "缅北",
+        "onboard_time": 1699763428,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560683,
+        "num": 560683,
+        "word": "369企图冒充TheShy",
+        "onboard_time": 1699779753,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 513074,
+        "num": 558240,
+        "word": "日媒批福原爱生活奢侈逃亡中国",
+        "onboard_time": 1699775431,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557423,
+        "num": 557423,
+        "word": "最真实的男主给女主喂药",
+        "onboard_time": 1699777709,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468725,
+        "num": 468725,
+        "word": "金莎孙丞潇曾救下被家暴女孩",
+        "onboard_time": 1699780889,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274963,
+        "num": 274963,
+        "word": "刘亦菲校园学姐风穿搭",
+        "onboard_time": 1699778911,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273413,
+        "num": 273413,
+        "word": "郭涛儿子石头都这么大了",
+        "onboard_time": 1699767151,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272905,
+        "num": 272905,
+        "word": "369别玩兰博了",
+        "onboard_time": 1699778911,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201485,
+        "num": 256657,
+        "word": "爸爸喝醉把儿子落地铁急坏大学生",
+        "onboard_time": 1699773809,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296397,
+        "num": 255997,
+        "word": "Ruler和Faker第100次对决",
+        "onboard_time": 1699778429,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254805,
+        "num": 254805,
+        "word": "JDG对战T1 比分预测",
+        "onboard_time": 1699772429,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221276,
+        "num": 221276,
+        "word": "白鹿写毛笔字",
+        "onboard_time": 1699781189,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218105,
+        "num": 218105,
+        "word": "安卓版本与鸿蒙不再兼容",
+        "onboard_time": 1699776089,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 189871,
+        "word": "北京一公园女子剥白果臭跑游客",
+        "onboard_time": 1699776389,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179029,
+        "num": 179029,
+        "word": "官方通报B太遭遇鬼秤事件",
+        "onboard_time": 1699763369,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172581,
+        "num": 172581,
+        "word": "苏州毒地有业主120万买的房85万没人要",
+        "onboard_time": 1699778732,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 206542,
+        "num": 172510,
+        "word": "何炅用嘴型提示白鹿歌名",
+        "onboard_time": 1699774952,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172351,
+        "num": 172351,
+        "word": "花儿与少年素人版",
+        "onboard_time": 1699774952,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51410,
+        "num": 169847,
+        "word": "广西一医院涉嫌贩卖出生证责任人被控制",
+        "onboard_time": 1699774231,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169706,
+        "num": 169706,
+        "word": "天蝎座的慕强是有双标含义的",
+        "onboard_time": 1699773869,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 167486,
+        "num": 167486,
+        "word": "管泽元闭嘴",
+        "onboard_time": 1699779753,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166685,
+        "num": 166685,
+        "word": "Faker状态太好了",
+        "onboard_time": 1699779094,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160607,
+        "num": 160607,
+        "word": "龚俊 被迫做E",
+        "onboard_time": 1699776509,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155133,
+        "num": 155133,
+        "word": "关晓彤初冬穿搭",
+        "onboard_time": 1699777288,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154271,
+        "num": 154271,
+        "word": "风月锦囊首支预告",
+        "onboard_time": 1699779929,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135043,
+        "num": 135043,
+        "word": "aespa人歌舞台",
+        "onboard_time": 1699778608,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130783,
+        "num": 130783,
+        "word": "牛头怎么选的",
+        "onboard_time": 1699778671,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121680,
+        "num": 121680,
+        "word": "黄子韬因身体不适取消广州场演唱会",
+        "onboard_time": 1699757129,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118917,
+        "num": 118917,
+        "word": "张艺兴 更强的激光小猫",
+        "onboard_time": 1699781370,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114083,
+        "num": 114083,
+        "word": "无价之宝",
+        "onboard_time": 1699781129,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113989,
+        "num": 113989,
+        "word": "浓茶和咖啡会悄悄偷走身体里的钙",
+        "onboard_time": 1699773331,
+        "rank": 41,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 110357,
+        "num": 110357,
+        "word": "脆皮玉米鸡翅做法",
+        "onboard_time": 1699781489,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107447,
+        "num": 107447,
+        "word": "口腔溃疡吃辣后可以好得更快吗",
+        "onboard_time": 1699781129,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98962,
+        "num": 98962,
+        "word": "女友悔婚少退15万彩礼男子持刀行凶",
+        "onboard_time": 1699763308,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97618,
+        "num": 97618,
+        "word": "丞磊叫卢昱晓晓晓",
+        "onboard_time": 1699769009,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96060,
+        "num": 96060,
+        "word": "官方通报南宁一医院涉嫌贩卖出生证",
+        "onboard_time": 1699778071,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95572,
+        "num": 95572,
+        "word": "赵露思入围亚洲电视大奖最佳女主",
+        "onboard_time": 1699767990,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88900,
+        "num": 88900,
+        "word": "张真源一眼认出了印章上的管领湖山",
+        "onboard_time": 1699770990,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87259,
+        "num": 87259,
+        "word": "小时代素人版",
+        "onboard_time": 1699772308,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤#"
+    }
+  }
+}
