@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699827348920,
+  "endTime": 1699828470122,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -1555,6 +1555,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 240021,
+      "num": 240021,
+      "word": "冰岛24小时内1400次地震",
+      "onboard_time": 1699818615,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232799,
       "num": 232799,
       "word": "水牛奶牦牛奶真的比普通牛奶有营养吗",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1699767093,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171544,
-      "num": 171544,
-      "word": "冰岛24小时内1400次地震",
-      "onboard_time": 1699818615,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171416,
@@ -3187,8 +3187,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23354,
-      "num": 21441,
+      "raw_hot": 31009,
+      "num": 31009,
+      "word": "唯有张遮是陈旧的羁绊",
+      "onboard_time": 1699827618,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23465,
+      "num": 23465,
       "word": "负面情绪要不要跟好朋友分享",
       "onboard_time": 1699819394,
       "rank": 30,
@@ -3203,20 +3211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19237,
+      "num": 154063,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16013,
       "num": 17479,
       "word": "与折耳根的故事",
       "onboard_time": 1699817056,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 14875,
-      "num": 144991,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11107,
