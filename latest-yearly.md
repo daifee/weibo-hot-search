@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/12 19:34:09
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/12 20:30:37
 </p>
 </blockquote>
 <p>
@@ -1629,6 +1629,12 @@ MU5735事故调查最新情况（热度：7256959）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+T1晋级S13总决赛（热度：7233927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%81%E5%A5%96%23" target="weibo">
 白玉兰颁奖（热度：7230883）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B8%A6%E8%B4%A7%E6%80%BC%E7%BD%91%E5%8F%8B%23" target="weibo">
 李佳琦带货怼网友（热度：6316804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
-张恒远去世（热度：6292850）
 </a>
 </li>
 

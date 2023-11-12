@@ -1,21 +1,21 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699788849447,
+  "endTime": 1699792237472,
   "band_list": [
+    {
+      "raw_hot": 7233927,
+      "num": 7862485,
+      "word": "T1晋级S13总决赛",
+      "onboard_time": 1699788286,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 5111821,
       "num": 4179797,
       "word": "JDG BP",
       "onboard_time": 1699787671,
       "rank": 3,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 4633740,
-      "num": 4633740,
-      "word": "T1晋级S13总决赛",
-      "onboard_time": 1699788286,
-      "rank": 0,
       "category": "电竞"
     },
     {
@@ -113,6 +113,22 @@
       "onboard_time": 1699757190,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611700,
+      "num": 1611700,
+      "word": "WBG决赛对战T1",
+      "onboard_time": 1699789774,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1575041,
+      "num": 294206,
+      "word": "崩了都崩了我也崩了",
+      "onboard_time": 1699788218,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 1373278,
@@ -243,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1109650,
-      "num": 291514,
-      "word": "崩了都崩了我也崩了",
-      "onboard_time": 1699788218,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1065109,
       "num": 1065109,
       "word": "黄子韬因身体不适取消广州场演唱会",
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 917328,
+      "num": 603959,
+      "word": "阿里全系产品崩了",
+      "onboard_time": 1699789774,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 915412,
       "num": 892749,
       "word": "金莎回应恋情争议",
@@ -313,6 +329,14 @@
       "onboard_time": 1699704938,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 788831,
+      "num": 576433,
+      "word": "杨幂鎏金羽翼裙",
+      "onboard_time": 1699789717,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 768660,
@@ -353,6 +377,14 @@
       "onboard_time": 1699716995,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734706,
+      "num": 734706,
+      "word": "压力给到WBG",
+      "onboard_time": 1699788880,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 727202,
@@ -403,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687784,
+      "num": 687784,
+      "word": "快进到相信TheShy",
+      "onboard_time": 1699788999,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 685488,
       "num": 685488,
       "word": "张艺兴说去国外见了吴世勋",
       "onboard_time": 1699713094,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 674777,
+      "num": 674777,
+      "word": "Kanavi在干嘛",
+      "onboard_time": 1699788880,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 665951,
@@ -499,11 +547,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555074,
+      "num": 555074,
+      "word": "Knight 隐身",
+      "onboard_time": 1699791037,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 549831,
       "num": 549831,
       "word": "369别玩兰博了",
       "onboard_time": 1699778911,
       "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 548931,
+      "num": 548931,
+      "word": "EDG剧本",
+      "onboard_time": 1699789350,
+      "rank": 13,
       "category": "电竞"
     },
     {
@@ -515,12 +579,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 531999,
+      "num": 531999,
+      "word": "韩国警方否认权志龙销毁证据",
+      "onboard_time": 1699790856,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528914,
       "num": 528914,
       "word": "Faker这一推绝了",
       "onboard_time": 1699786230,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 527862,
+      "num": 527862,
+      "word": "白鹿催宁安如梦加更",
+      "onboard_time": 1699790974,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 526104,
@@ -537,6 +617,14 @@
       "onboard_time": 1699754791,
       "rank": 15,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 500809,
+      "num": 500809,
+      "word": "Doinb评价Faker沙皇",
+      "onboard_time": 1699789774,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 486041,
@@ -707,6 +795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 425147,
+      "num": 425147,
+      "word": "Bin 相信wbg",
+      "onboard_time": 1699791632,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 422773,
       "num": 422773,
       "word": "父亲开17.5米长货车接女儿拉1个行李箱",
@@ -753,6 +849,14 @@
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 381724,
+      "num": 381724,
+      "word": "小虎打Faker",
+      "onboard_time": 1699791156,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 375952,
@@ -828,7 +932,7 @@
     },
     {
       "raw_hot": 333130,
-      "num": 333130,
+      "num": 670800,
       "word": "梁靖崑男单冠军",
       "onboard_time": 1699788529,
       "rank": 28,
@@ -891,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304817,
+      "num": 401765,
+      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+      "onboard_time": 1699790495,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 303861,
       "num": 303861,
       "word": "王鹤棣腰力",
@@ -905,6 +1017,14 @@
       "onboard_time": 1699772129,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302919,
+      "num": 302919,
+      "word": "MISSING哭了",
+      "onboard_time": 1699791934,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 301818,
@@ -1035,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273553,
+      "num": 273553,
+      "word": "精忠报国",
+      "onboard_time": 1699790796,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 269019,
       "num": 269019,
       "word": "龚俊 被迫做E",
@@ -1065,6 +1193,14 @@
       "onboard_time": 1699767809,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261394,
+      "num": 261394,
+      "word": "张译 我是经不起太久消费的",
+      "onboard_time": 1699789478,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258380,
@@ -1163,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241250,
+      "num": 241250,
+      "word": "Ruler和Faker  一墙之隔胜负之分",
+      "onboard_time": 1699791875,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240792,
       "num": 240792,
       "word": "李一桐新中式闺秀妆",
@@ -1195,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228991,
+      "num": 228991,
+      "word": "大雨 低饱和漫感妆",
+      "onboard_time": 1699788939,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 226756,
       "num": 226756,
       "word": "沉浸式香水收纳",
@@ -1217,6 +1369,14 @@
       "onboard_time": 1699757732,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224494,
+      "num": 224494,
+      "word": "韩警方暂无再传唤权志龙计划",
+      "onboard_time": 1699791458,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 222621,
@@ -1931,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133791,
+      "num": 224495,
+      "word": "男童独自地铁睡觉大学生助其回家",
+      "onboard_time": 1699789774,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 133227,
       "num": 133227,
       "word": "台剧此时此刻",
@@ -2399,6 +2567,14 @@
       "num": 93665,
       "word": "戍边战士身边是悬崖脚下是冰面",
       "onboard_time": 1699772370,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80555,
+      "num": 136753,
+      "word": "乘客高铁站用AED成功抢救晕倒男子",
+      "onboard_time": 1699792056,
       "rank": 49,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1699788849447,
+  "endTime": 1699792237472,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2155,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7233927,
+      "num": 7862485,
+      "word": "T1晋级S13总决赛",
+      "onboard_time": 1699788286,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 7230883,
       "num": 7230883,
       "word": "白玉兰颁奖",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1694332772,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 6292850,
-      "num": 6292850,
-      "word": "张恒远去世",
-      "onboard_time": 1686697641,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     }
   ],
   "hotgov_list": [

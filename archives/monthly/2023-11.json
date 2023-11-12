@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699788849447,
+  "endTime": 1699792237472,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -91,6 +91,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 7233927,
+      "num": 7862485,
+      "word": "T1晋级S13总决赛",
+      "onboard_time": 1699788286,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 7224187,
       "num": 7224187,
       "word": "卡琳娜讲述仲尼溺水时刻",
@@ -177,14 +185,6 @@
       "onboard_time": 1699624294,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4633740,
-      "num": 4633740,
-      "word": "T1晋级S13总决赛",
-      "onboard_time": 1699788286,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 4591644,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1611700,
+      "num": 1611700,
+      "word": "WBG决赛对战T1",
+      "onboard_time": 1699789774,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1610798,
       "num": 1610798,
       "word": "美香一家抵达成都",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1699596812,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1575041,
+      "num": 294206,
+      "word": "崩了都崩了我也崩了",
+      "onboard_time": 1699788218,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 1572098,
@@ -2987,14 +3003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1109650,
-      "num": 291514,
-      "word": "崩了都崩了我也崩了",
-      "onboard_time": 1699788218,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1109261,
       "num": 1109261,
       "word": "大连市监局通报B太曝光鬼秤案件",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1699705716,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 917328,
+      "num": 603959,
+      "word": "阿里全系产品崩了",
+      "onboard_time": 1699789774,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 915412,
@@ -4571,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 788831,
+      "num": 576433,
+      "word": "杨幂鎏金羽翼裙",
+      "onboard_time": 1699789717,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 788637,
       "num": 788637,
       "word": "嗓子哑以为是感冒结果是肺癌",
@@ -5091,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734706,
+      "num": 734706,
+      "word": "压力给到WBG",
+      "onboard_time": 1699788880,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 734037,
       "num": 734037,
       "word": "女子花10万装修36平烂尾楼独自居住",
@@ -5579,6 +5611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687784,
+      "num": 687784,
+      "word": "快进到相信TheShy",
+      "onboard_time": 1699788999,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 687768,
       "num": 687768,
       "word": "日本明治牛奶检出兽药残留",
@@ -5681,6 +5721,14 @@
       "onboard_time": 1699368276,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 674777,
+      "num": 674777,
+      "word": "Kanavi在干嘛",
+      "onboard_time": 1699788880,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 674361,
@@ -7283,6 +7331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555074,
+      "num": 555074,
+      "word": "Knight 隐身",
+      "onboard_time": 1699791037,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 554993,
       "num": 554993,
       "word": "35岁女子在香港做泥瓦工月入10万",
@@ -7377,6 +7433,14 @@
       "onboard_time": 1698831213,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548931,
+      "num": 548931,
+      "word": "EDG剧本",
+      "onboard_time": 1699789350,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 547539,
@@ -7603,6 +7667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 531999,
+      "num": 531999,
+      "word": "韩国警方否认权志龙销毁证据",
+      "onboard_time": 1699790856,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531178,
       "num": 515086,
       "word": "芒果招商会拟邀阵容",
@@ -7657,6 +7729,14 @@
       "onboard_time": 1699168230,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527862,
+      "num": 527862,
+      "word": "白鹿催宁安如梦加更",
+      "onboard_time": 1699790974,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 527843,
@@ -8105,6 +8185,14 @@
       "onboard_time": 1698966264,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500809,
+      "num": 500809,
+      "word": "Doinb评价Faker沙皇",
+      "onboard_time": 1699789774,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 500651,
@@ -9747,6 +9835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 425147,
+      "num": 425147,
+      "word": "Bin 相信wbg",
+      "onboard_time": 1699791632,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 424647,
       "num": 424647,
       "word": "男子结婚6年拒与妻子发生性关系",
@@ -11057,6 +11153,14 @@
       "onboard_time": 1699513891,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381724,
+      "num": 381724,
+      "word": "小虎打Faker",
+      "onboard_time": 1699791156,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 381298,
@@ -12708,7 +12812,7 @@
     },
     {
       "raw_hot": 333130,
-      "num": 333130,
+      "num": 670800,
       "word": "梁靖崑男单冠军",
       "onboard_time": 1699788529,
       "rank": 28,
@@ -13747,6 +13851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 304817,
+      "num": 401765,
+      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+      "onboard_time": 1699790495,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 304709,
       "num": 432193,
       "word": "拼多多治好了我的双11焦虑",
@@ -13809,6 +13921,14 @@
       "onboard_time": 1699772129,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302919,
+      "num": 302919,
+      "word": "MISSING哭了",
+      "onboard_time": 1699791934,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 302574,
@@ -15123,6 +15243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273553,
+      "num": 273553,
+      "word": "精忠报国",
+      "onboard_time": 1699790796,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 273528,
       "num": 273528,
       "word": "相爱的人分手原因只有一个",
@@ -15825,6 +15953,14 @@
       "onboard_time": 1699707996,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261394,
+      "num": 261394,
+      "word": "张译 我是经不起太久消费的",
+      "onboard_time": 1699789478,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260922,
@@ -17107,6 +17243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 241250,
+      "num": 241250,
+      "word": "Ruler和Faker  一墙之隔胜负之分",
+      "onboard_time": 1699791875,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241197,
       "num": 241197,
       "word": "大熊猫飞云搂着小象呼呼呼呼呼",
@@ -17971,6 +18115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228991,
+      "num": 228991,
+      "word": "大雨 低饱和漫感妆",
+      "onboard_time": 1699788939,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 228846,
       "num": 228846,
       "word": "16个月大女童把自己反锁车内消防员砸窗救出",
@@ -18329,6 +18481,14 @@
       "onboard_time": 1699705837,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224494,
+      "num": 224494,
+      "word": "韩警方暂无再传唤权志龙计划",
+      "onboard_time": 1699791458,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 224351,
@@ -27971,6 +28131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133791,
+      "num": 224495,
+      "word": "男童独自地铁睡觉大学生助其回家",
+      "onboard_time": 1699789774,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 133755,
       "num": 133755,
       "word": "马特乌斯说梅西不配金球奖",
@@ -31904,6 +32072,14 @@
       "word": "台湾台东海域发生4.7级地震",
       "onboard_time": 1699658661,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80555,
+      "num": 136753,
+      "word": "乘客高铁站用AED成功抢救晕倒男子",
+      "onboard_time": 1699792056,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
