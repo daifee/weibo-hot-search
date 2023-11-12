@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699753129801,
+  "endTime": 1699756104049,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -9,6 +9,14 @@
       "onboard_time": 1699715615,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1816629,
+      "num": 894773,
+      "word": "裸门",
+      "onboard_time": 1699751549,
+      "rank": 3,
+      "category": "美妆"
     },
     {
       "raw_hot": 1337799,
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1122453,
+      "num": 782662,
+      "word": "校长强奸猥亵22名学生事发学校已撤并",
+      "onboard_time": 1699747224,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114249,
       "num": 1114249,
       "word": "四个人凑不出半个恋爱脑",
@@ -35,12 +51,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 969841,
-      "num": 894773,
-      "word": "裸门",
-      "onboard_time": 1699751549,
-      "rank": 3,
-      "category": "美妆"
+      "raw_hot": 951432,
+      "num": 951432,
+      "word": "民警怒斥缅北没抓到你是吧",
+      "onboard_time": 1699749990,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 942415,
@@ -51,20 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 905096,
+      "raw_hot": 915412,
       "num": 892749,
       "word": "金莎回应恋情争议",
       "onboard_time": 1699745963,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 831582,
-      "num": 831582,
-      "word": "民警怒斥缅北没抓到你是吧",
-      "onboard_time": 1699749990,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822755,
@@ -73,14 +81,6 @@
       "onboard_time": 1699704938,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 782662,
-      "num": 782662,
-      "word": "校长强奸猥亵22名学生事发学校已撤并",
-      "onboard_time": 1699747224,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758057,
@@ -113,6 +113,14 @@
       "onboard_time": 1699704392,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609120,
+      "num": 609120,
+      "word": "一觉醒来双十一结束了",
+      "onboard_time": 1699752331,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 533296,
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457310,
+      "num": 457310,
+      "word": "韩女拍照",
+      "onboard_time": 1699753110,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 448800,
       "num": 448800,
       "word": "十多年的网购老炮都沉默了",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 446046,
-      "num": 367691,
+      "num": 429580,
       "word": "Bin 迟早冠军是我的",
       "onboard_time": 1699750829,
       "rank": 11,
@@ -177,6 +193,22 @@
       "onboard_time": 1699715492,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439488,
+      "num": 439488,
+      "word": "张艺兴演唱会伴舞回应背带裤造型",
+      "onboard_time": 1699755811,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 425274,
+      "num": 425274,
+      "word": "肖战vlog 罗马假日",
+      "onboard_time": 1699754611,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 422773,
@@ -201,6 +233,22 @@
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 391661,
+      "num": 431747,
+      "word": "骗子骗29万后良心发现返168元红包",
+      "onboard_time": 1699750289,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363934,
+      "num": 297983,
+      "word": "家长吐槽学校冬季校服拆开全是薄膜",
+      "onboard_time": 1699751731,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 340340,
@@ -243,20 +291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294172,
-      "num": 294172,
+      "raw_hot": 298679,
+      "num": 298679,
       "word": "首位歼10女飞行员余旭牺牲7年了",
       "onboard_time": 1699750289,
       "rank": 21,
       "category": "军事"
     },
     {
-      "raw_hot": 291639,
-      "num": 291639,
-      "word": "骗子骗29万后良心发现返168元红包",
-      "onboard_time": 1699750289,
+      "raw_hot": 294512,
+      "num": 294512,
+      "word": "有些癌症筛查无用甚至有害",
+      "onboard_time": 1699754791,
       "rank": 15,
-      "category": "社会新闻"
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 290023,
@@ -300,7 +348,7 @@
     },
     {
       "raw_hot": 278721,
-      "num": 150097,
+      "num": 172150,
       "word": "王多多 WBG究竟是怎样的一支队伍",
       "onboard_time": 1699748728,
       "rank": 30,
@@ -321,14 +369,6 @@
       "onboard_time": 1699715134,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 252847,
-      "num": 252847,
-      "word": "家长吐槽学校冬季校服拆开全是薄膜",
-      "onboard_time": 1699751731,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 252134,
@@ -377,14 +417,6 @@
       "onboard_time": 1699747285,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210169,
-      "num": 210169,
-      "word": "一觉醒来双十一结束了",
-      "onboard_time": 1699752331,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 209963,
@@ -507,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154059,
+      "num": 154059,
+      "word": "洗发水",
+      "onboard_time": 1699753771,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 152241,
       "num": 152241,
       "word": "秦岚日剧女主即视感",
       "onboard_time": 1699751068,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151464,
+      "num": 151464,
+      "word": "成毅演绎国风设计",
+      "onboard_time": 1699755331,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150623,
@@ -579,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134345,
+      "num": 160347,
+      "word": "日本大熊猫粉丝团来川看香香",
+      "onboard_time": 1699755210,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133227,
+      "num": 133227,
+      "word": "台剧此时此刻",
+      "onboard_time": 1699754013,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132835,
       "num": 132835,
       "word": "干美甲的和干汽修的都沉默了",
@@ -601,6 +665,14 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125627,
+      "num": 125627,
+      "word": "aespa winter音中直拍",
+      "onboard_time": 1699755692,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125226,
@@ -657,6 +729,22 @@
       "onboard_time": 1699720771,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105789,
+      "num": 105789,
+      "word": "原来海棠朵朵是辛芷蕾本色出演",
+      "onboard_time": 1699756050,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105329,
+      "num": 105329,
+      "word": "美拉德配色的交叉潮有多震撼",
+      "onboard_time": 1699754251,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104646,
@@ -739,20 +827,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95513,
-      "num": 95513,
-      "word": "韩女拍照",
-      "onboard_time": 1699753110,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "燕临冠礼",
       "onboard_time": 1699721310,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90184,
+      "num": 100773,
+      "word": "戏曲演员在方寸间表演高难度绝活",
+      "onboard_time": 1699755930,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86932,
@@ -827,7 +915,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18548,
+      "raw_hot": 20768,
       "num": 894971,
       "word": "江山如画",
       "onboard_time": 1699689929,
