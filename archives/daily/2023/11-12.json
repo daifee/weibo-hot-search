@@ -1,7 +1,15 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699763641899,
+  "endTime": 1699766150878,
   "band_list": [
+    {
+      "raw_hot": 2336841,
+      "num": 2336841,
+      "word": "官方通报B太遭遇鬼秤事件",
+      "onboard_time": 1699763369,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1899684,
       "num": 1899684,
@@ -17,6 +25,14 @@
       "onboard_time": 1699751549,
       "rank": 3,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1742747,
+      "num": 358138,
+      "word": "缅北",
+      "onboard_time": 1699763428,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1711628,
@@ -99,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 884117,
+      "num": 353477,
+      "word": "女友悔婚少退15万彩礼男子持刀行凶",
+      "onboard_time": 1699763308,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822755,
       "num": 822755,
       "word": "WBG战胜BLG",
@@ -179,12 +203,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 540312,
+      "raw_hot": 571901,
       "num": 423575,
       "word": "赵露思曾黎最新合照",
       "onboard_time": 1699761450,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570771,
+      "num": 570771,
+      "word": "健身杀死了我的自卑",
+      "onboard_time": 1699763369,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 533296,
@@ -217,6 +249,14 @@
       "onboard_time": 1699712014,
       "rank": 6,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 477764,
+      "num": 477764,
+      "word": "广西一面包车与货车碰撞致6死1伤",
+      "onboard_time": 1699764272,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476026,
@@ -331,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374301,
+      "num": 374301,
+      "word": "宁安如梦白鹿吻戏吻到缺氧",
+      "onboard_time": 1699763791,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
@@ -371,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318583,
+      "num": 318583,
+      "word": "适合冬天的千金发型",
+      "onboard_time": 1699764990,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 307945,
       "num": 307945,
       "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
@@ -401,14 +457,6 @@
       "onboard_time": 1699750289,
       "rank": 21,
       "category": "军事"
-    },
-    {
-      "raw_hot": 298092,
-      "num": 298092,
-      "word": "健身杀死了我的自卑",
-      "onboard_time": 1699763369,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 293035,
@@ -571,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203234,
-      "num": 203234,
-      "word": "官方通报B太遭遇鬼秤事件",
-      "onboard_time": 1699763369,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 198149,
+      "num": 198149,
+      "word": "邓紫棋广州演唱会门票秒售罄",
+      "onboard_time": 1699765893,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 197537,
@@ -635,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188207,
-      "num": 188207,
-      "word": "缅北",
-      "onboard_time": 1699763428,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188183,
       "num": 188183,
       "word": "张小斐拯救嫌疑人 法庭高压对质",
@@ -651,12 +691,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187595,
+      "num": 187595,
+      "word": "骑士双杀勇士",
+      "onboard_time": 1699765411,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185579,
       "num": 185579,
       "word": "狗子走丢17天见到主人高兴打鸣",
       "onboard_time": 1699763369,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185306,
+      "num": 185306,
+      "word": "2023世冠KPL赛区出征照",
+      "onboard_time": 1699765289,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 177442,
@@ -785,6 +841,14 @@
       "onboard_time": 1699715975,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158524,
+      "num": 158524,
+      "word": "浙江选调",
+      "onboard_time": 1699765772,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 157078,
@@ -955,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127682,
-      "num": 127682,
-      "word": "女友悔婚少退15万彩礼男子持刀行凶",
-      "onboard_time": 1699763308,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "DRX基地 风水宝地",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1699743798,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 104410,
+      "num": 109130,
+      "word": "成都今日进入速冻模式",
+      "onboard_time": 1699765590,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103685,
@@ -1220,7 +1284,7 @@
     },
     {
       "raw_hot": 61230,
-      "num": 841135,
+      "num": 859347,
       "word": "神十七乘组的首个天宫Vlog",
       "onboard_time": 1699759770,
       "rank": 2,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1699745060,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40978,
+      "num": 340542,
+      "word": "没有一只羊能走出淘宝直播间",
+      "onboard_time": 1699765231,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 40959,
