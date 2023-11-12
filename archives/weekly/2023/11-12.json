@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699767243558,
+  "endTime": 1699770073672,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -57,6 +57,14 @@
       "onboard_time": 1699763308,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1186777,
+      "num": 327824,
+      "word": "郭涛儿子石头都这么大了",
+      "onboard_time": 1699767151,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1174605,
@@ -129,6 +137,14 @@
       "onboard_time": 1699704938,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 766967,
+      "num": 766967,
+      "word": "湖北一医院贩卖出生证6人被批捕",
+      "onboard_time": 1699766910,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758057,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457268,
+      "num": 457268,
+      "word": "丞磊叫卢昱晓晓晓",
+      "onboard_time": 1699769009,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448800,
       "num": 448800,
       "word": "十多年的网购老炮都沉默了",
@@ -387,12 +411,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394927,
+      "num": 394927,
+      "word": "油性痘痘肌不建议凉水洗脸",
+      "onboard_time": 1699767330,
+      "rank": 7,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
       "onboard_time": 1699751731,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 348160,
+      "num": 348160,
+      "word": "赵露思入围亚洲电视大奖最佳女主",
+      "onboard_time": 1699767990,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 340340,
@@ -448,6 +488,14 @@
       "word": "王鹤棣腰力",
       "onboard_time": 1699751971,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301818,
+      "num": 301818,
+      "word": "王鹤棣白鹿会唱仙剑主题曲但不知道名",
+      "onboard_time": 1699767809,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -547,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253594,
+      "num": 232675,
+      "word": "傅首尔 女明星容貌焦虑",
+      "onboard_time": 1699769190,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253330,
       "num": 253330,
       "word": "crisp 最后一局完成了救赎",
@@ -577,14 +633,6 @@
       "onboard_time": 1699757369,
       "rank": 21,
       "category": "美食,知识科普"
-    },
-    {
-      "raw_hot": 245535,
-      "num": 245535,
-      "word": "湖北一医院贩卖出生证6人被批捕",
-      "onboard_time": 1699766910,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226694,
@@ -619,12 +667,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 212868,
+      "num": 212868,
+      "word": "怀化通报食堂疑似鼠头异物调查情况",
+      "onboard_time": 1699767508,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212817,
       "num": 212817,
       "word": "谁教胡彦斌这么评论的",
       "onboard_time": 1699747285,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211799,
+      "num": 211799,
+      "word": "男生电梯内戴面具举玩具刀吓坏住户",
+      "onboard_time": 1699768471,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209963,
@@ -641,6 +705,30 @@
       "onboard_time": 1699765772,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 176106,
+      "word": "邓紫棋刷新大麦女歌手想看纪录",
+      "onboard_time": 1699769549,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201894,
+      "num": 175446,
+      "word": "沈腾解释回复消息慢的原因",
+      "onboard_time": 1699767809,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200033,
+      "num": 174035,
+      "word": "最不想一起参加面试的艺人",
+      "onboard_time": 1699768109,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 198149,
@@ -697,6 +785,14 @@
       "onboard_time": 1699750708,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190608,
+      "num": 135868,
+      "word": "龚俊是真的听劝",
+      "onboard_time": 1699768471,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190580,
@@ -811,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171798,
+      "num": 133079,
+      "word": "谢娜黑长直齐刘海",
+      "onboard_time": 1699767093,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168643,
       "num": 168643,
       "word": "张杰用女儿的名字命名麦克风",
@@ -881,6 +985,14 @@
       "onboard_time": 1699709554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154793,
+      "num": 128105,
+      "word": "丞磊听张凌赫唱戒烟的反应",
+      "onboard_time": 1699768589,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 154059,
@@ -1035,14 +1147,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 129280,
-      "num": 129280,
-      "word": "谢娜黑长直齐刘海",
-      "onboard_time": 1699767093,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 128266,
       "num": 128266,
       "word": "第一次知道修正带能改卡祖笛",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126227,
+      "num": 97995,
+      "word": "虞书欣红色小猫咪妆",
+      "onboard_time": 1699769489,
+      "rank": 41,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 125226,
@@ -1243,12 +1355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98078,
-      "num": 98078,
-      "word": "郭涛儿子石头都这么大了",
-      "onboard_time": 1699767151,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 98432,
+      "num": 98432,
+      "word": "肿眼泡化妆的正确思路",
+      "onboard_time": 1699769609,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97712,
+      "num": 97712,
+      "word": "kpop周边设计逐渐离谱",
+      "onboard_time": 1699769970,
+      "rank": 43,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 97222,
@@ -1275,7 +1395,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94091,
+      "raw_hot": 95849,
       "num": 344669,
       "word": "没有一只羊能走出淘宝直播间",
       "onboard_time": 1699765231,
@@ -1297,6 +1417,14 @@
       "onboard_time": 1699755930,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89844,
+      "num": 89844,
+      "word": "这个冰淇淋不太对劲",
+      "onboard_time": 1699768351,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 86932,
