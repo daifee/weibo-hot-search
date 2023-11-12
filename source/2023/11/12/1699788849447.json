@@ -1,0 +1,410 @@
+{
+  "runTime": 1699788849447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4633740,
+        "num": 4633740,
+        "word": "T1晋级S13总决赛",
+        "onboard_time": 1699788286,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 476089,
+        "num": 4478472,
+        "word": "房东将父亲种的30斤菜分享给百名租客",
+        "onboard_time": 1699782812,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123320,
+        "num": 4289090,
+        "word": "双11当天全国揽收快递6.39亿件",
+        "onboard_time": 1699777949,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 5111821,
+        "num": 4179797,
+        "word": "JDG BP",
+        "onboard_time": 1699787671,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132825,
+        "num": 3797861,
+        "word": "受伤小狗获好心人送医取名立冬",
+        "onboard_time": 1699782633,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3781551,
+        "num": 3781551,
+        "word": "JDG对战T1",
+        "onboard_time": 1699775673,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76752,
+        "num": 3608582,
+        "word": "7旬学生为百岁乡村老师过生日",
+        "onboard_time": 1699786057,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3568648,
+        "num": 3568648,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2424328,
+        "num": 2424328,
+        "word": "导播在干嘛",
+        "onboard_time": 1699777107,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1839093,
+        "num": 1839093,
+        "word": "369企图冒充TheShy",
+        "onboard_time": 1699779753,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1883286,
+        "num": 1621562,
+        "word": "夸克",
+        "onboard_time": 1699786655,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1341831,
+        "num": 1341831,
+        "word": "张译马面裙",
+        "onboard_time": 1699784008,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1321697,
+        "num": 1321697,
+        "word": "Faker无需向众神祈祷",
+        "onboard_time": 1699788153,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1281675,
+        "num": 1281675,
+        "word": "炮车 真正的AD",
+        "onboard_time": 1699782213,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95044,
+        "num": 1279146,
+        "word": "竞燃之夜全阵容曝光",
+        "onboard_time": 1699787793,
+        "rank": 14,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 1277957,
+        "num": 1277957,
+        "word": "鳄鱼 版本陷阱",
+        "onboard_time": 1699785876,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1114606,
+        "num": 1114606,
+        "word": "S13半决赛",
+        "onboard_time": 1699784490,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 669397,
+        "num": 669397,
+        "word": "缅北",
+        "onboard_time": 1699763428,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649401,
+        "num": 649401,
+        "word": "孙俪 婚姻里付出不被认可是悲哀的事",
+        "onboard_time": 1699777587,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587245,
+        "num": 587245,
+        "word": "菲警方正确认6具遗体是否为被绑架中国人",
+        "onboard_time": 1699780410,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1895187,
+        "num": 565398,
+        "word": "T1拿到两个赛点",
+        "onboard_time": 1699785577,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 528914,
+        "num": 528914,
+        "word": "Faker这一推绝了",
+        "onboard_time": 1699786230,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 522437,
+        "num": 522437,
+        "word": "赵露思将进组珠帘玉幕",
+        "onboard_time": 1699785458,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479824,
+        "num": 479824,
+        "word": "歌手2024 踢馆名单",
+        "onboard_time": 1699775130,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452477,
+        "num": 452477,
+        "word": "金莎孙丞潇曾救下被家暴女孩",
+        "onboard_time": 1699780889,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439601,
+        "num": 439601,
+        "word": "Faker状态太好了",
+        "onboard_time": 1699779094,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 374755,
+        "num": 374755,
+        "word": "真正致癌的是这3种鱼",
+        "onboard_time": 1699773029,
+        "rank": 26,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 336973,
+        "num": 336973,
+        "word": "陆家嘴集团发布苏州毒地情况说明",
+        "onboard_time": 1699784068,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333130,
+        "num": 333130,
+        "word": "梁靖崑男单冠军",
+        "onboard_time": 1699788529,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294191,
+        "num": 294191,
+        "word": "不背单词崩了",
+        "onboard_time": 1699785277,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70697,
+        "num": 293618,
+        "word": "谭维维阿云嘎唱原神",
+        "onboard_time": 1699787793,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1373278,
+        "num": 293103,
+        "word": "淘宝又崩了",
+        "onboard_time": 1699784068,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1109650,
+        "num": 291514,
+        "word": "崩了都崩了我也崩了",
+        "onboard_time": 1699788218,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 440885,
+        "num": 290533,
+        "word": "闲鱼崩了",
+        "onboard_time": 1699784190,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324984,
+        "num": 290193,
+        "word": "阿里云盘崩了",
+        "onboard_time": 1699784252,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320331,
+        "num": 288664,
+        "word": "钉钉崩了",
+        "onboard_time": 1699784669,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 288479,
+        "num": 288479,
+        "word": "梁靖崑vs户上隼辅",
+        "onboard_time": 1699785215,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266109,
+        "num": 266109,
+        "word": "她真的把优雅发挥到了极致",
+        "onboard_time": 1699787732,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259149,
+        "num": 259149,
+        "word": "任嘉伦田曦薇张凌赫窦骁何超莲合照",
+        "onboard_time": 1699786354,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256033,
+        "num": 256033,
+        "word": "最真实的男主给女主喂药",
+        "onboard_time": 1699777709,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46954,
+        "num": 246632,
+        "word": "vivo影像大片盘点",
+        "onboard_time": 1699785396,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242893,
+        "num": 242893,
+        "word": "张小斐腹肌",
+        "onboard_time": 1699784550,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231019,
+        "num": 231019,
+        "word": "谢危望妻石",
+        "onboard_time": 1699787913,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221243,
+        "num": 221243,
+        "word": "鞠婧祎即将进组千香",
+        "onboard_time": 1699786892,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217856,
+        "num": 217856,
+        "word": "十年前30万买的海景房现在8万卖不掉",
+        "onboard_time": 1699778071,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210328,
+        "num": 210328,
+        "word": "五月天上海演唱会",
+        "onboard_time": 1699781730,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207507,
+        "num": 207507,
+        "word": "白鹿写毛笔字",
+        "onboard_time": 1699781189,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205043,
+        "num": 205043,
+        "word": "千牛崩了",
+        "onboard_time": 1699786591,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186797,
+        "num": 186797,
+        "word": "今年双十一冷清的原因找到了",
+        "onboard_time": 1699771470,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181964,
+        "num": 181964,
+        "word": "原来韩剧里的雪不是骗人的",
+        "onboard_time": 1699787371,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
+    }
+  }
+}

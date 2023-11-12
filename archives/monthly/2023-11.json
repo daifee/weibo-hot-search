@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699787645810,
+  "endTime": 1699788849447,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -139,6 +139,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 5111821,
+      "num": 4179797,
+      "word": "JDG BP",
+      "onboard_time": 1699787671,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 4890272,
       "num": 3247527,
       "word": "酒店讲述仲尼巴厘岛遇难细节",
@@ -169,6 +177,14 @@
       "onboard_time": 1699624294,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4633740,
+      "num": 4633740,
+      "word": "T1晋级S13总决赛",
+      "onboard_time": 1699788286,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 4591644,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3781551,
+      "num": 3781551,
+      "word": "JDG对战T1",
+      "onboard_time": 1699775673,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 3706770,
       "num": 2252617,
       "word": "LNG对战T1",
@@ -241,6 +265,14 @@
       "onboard_time": 1698901479,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3568648,
+      "num": 3568648,
+      "word": "冰岛宣布进入紧急状态",
+      "onboard_time": 1699784970,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3533666,
@@ -611,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2424328,
+      "num": 2424328,
+      "word": "导播在干嘛",
+      "onboard_time": 1699777107,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2405653,
       "num": 552594,
       "word": "微信呼叫",
@@ -696,14 +736,6 @@
       "word": "黄敏",
       "onboard_time": 1699401332,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2241896,
-      "num": 2241896,
-      "word": "冰岛宣布进入紧急状态",
-      "onboard_time": 1699784970,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1219,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1895187,
+      "num": 1376617,
+      "word": "T1拿到两个赛点",
+      "onboard_time": 1699785577,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1883286,
+      "num": 1621562,
+      "word": "夸克",
+      "onboard_time": 1699786655,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1846043,
       "num": 1846043,
       "word": "淄博烧烤从业者现在都怎么样了",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1699323990,
       "rank": 7,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 1839093,
+      "num": 1839093,
+      "word": "369企图冒充TheShy",
+      "onboard_time": 1699779753,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 1836183,
@@ -1691,14 +1747,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1551755,
-      "num": 1551755,
-      "word": "导播在干嘛",
-      "onboard_time": 1699777107,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1549077,
       "num": 547449,
       "word": "14岁女儿被打父亲悬赏1万找打人者",
@@ -2003,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1429226,
-      "num": 1429226,
-      "word": "JDG对战T1",
-      "onboard_time": 1699775673,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1423443,
       "num": 1423443,
       "word": "孟羽童在职曾发65篇非格力产品内容",
@@ -2099,20 +2139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1376617,
-      "num": 1376617,
-      "word": "T1拿到两个赛点",
-      "onboard_time": 1699785577,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1376437,
       "num": 1396960,
       "word": "T1 压力",
       "onboard_time": 1699097261,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1373278,
+      "num": 293103,
+      "word": "淘宝又崩了",
+      "onboard_time": 1699784068,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1371021,
@@ -2227,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1321697,
+      "num": 1321697,
+      "word": "Faker无需向众神祈祷",
+      "onboard_time": 1699788153,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1315182,
       "num": 1315182,
       "word": "南京胖哥称父亲查出患食道癌",
@@ -2337,6 +2385,22 @@
       "onboard_time": 1699164754,
       "rank": 3,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 1281675,
+      "num": 1281675,
+      "word": "炮车 真正的AD",
+      "onboard_time": 1699782213,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1277957,
+      "num": 1277957,
+      "word": "鳄鱼 版本陷阱",
+      "onboard_time": 1699785876,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 1274245,
@@ -2491,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1235473,
-      "num": 263491,
-      "word": "淘宝又崩了",
-      "onboard_time": 1699784068,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1235326,
       "num": 277964,
       "word": "华莎演出被判无淫乱嫌疑",
@@ -2513,14 +2569,6 @@
       "onboard_time": 1698801215,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1232280,
-      "num": 681188,
-      "word": "夸克",
-      "onboard_time": 1699786655,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1230353,
@@ -2907,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1114606,
+      "num": 1114606,
+      "word": "S13半决赛",
+      "onboard_time": 1699784490,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1114249,
       "num": 1114249,
       "word": "四个人凑不出半个恋爱脑",
@@ -2929,6 +2985,14 @@
       "onboard_time": 1698981093,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1109650,
+      "num": 291514,
+      "word": "崩了都崩了我也崩了",
+      "onboard_time": 1699788218,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 1109261,
@@ -5324,7 +5388,7 @@
     },
     {
       "raw_hot": 711751,
-      "num": 261164,
+      "num": 290533,
       "word": "闲鱼崩了",
       "onboard_time": 1699784190,
       "rank": 42,
@@ -6331,14 +6395,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 614019,
-      "num": 614019,
-      "word": "369企图冒充TheShy",
-      "onboard_time": 1699779753,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 613542,
       "num": 362510,
       "word": "漫威考虑复活钢铁侠黑寡妇",
@@ -6732,7 +6788,7 @@
     },
     {
       "raw_hot": 590143,
-      "num": 256302,
+      "num": 290193,
       "word": "阿里云盘崩了",
       "onboard_time": 1699784252,
       "rank": 32,
@@ -7577,6 +7633,14 @@
       "onboard_time": 1699498532,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528914,
+      "num": 528914,
+      "word": "Faker这一推绝了",
+      "onboard_time": 1699786230,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 528562,
@@ -8468,7 +8532,7 @@
     },
     {
       "raw_hot": 478510,
-      "num": 1734473,
+      "num": 4478472,
       "word": "房东将父亲种的30斤菜分享给百名租客",
       "onboard_time": 1699782812,
       "rank": 1,
@@ -8505,14 +8569,6 @@
       "onboard_time": 1699424799,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 477351,
-      "num": 477351,
-      "word": "炮车 真正的AD",
-      "onboard_time": 1699782213,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 477333,
@@ -9329,6 +9385,14 @@
       "onboard_time": 1698920134,
       "rank": 18,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 439601,
+      "num": 439601,
+      "word": "Faker状态太好了",
+      "onboard_time": 1699779094,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 439436,
@@ -12092,7 +12156,7 @@
     },
     {
       "raw_hot": 349772,
-      "num": 259911,
+      "num": 288664,
       "word": "钉钉崩了",
       "onboard_time": 1699784669,
       "rank": 33,
@@ -12641,6 +12705,14 @@
       "onboard_time": 1699020160,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 333130,
+      "num": 333130,
+      "word": "梁靖崑男单冠军",
+      "onboard_time": 1699788529,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 333092,
@@ -14011,14 +14083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294998,
-      "num": 294998,
-      "word": "Faker这一推绝了",
-      "onboard_time": 1699786230,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 294959,
       "num": 274690,
       "word": "为什么全身上下脸部皮肤最差",
@@ -15035,14 +15099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273989,
-      "num": 273989,
-      "word": "鳄鱼 版本陷阱",
-      "onboard_time": 1699785876,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 273955,
       "num": 273955,
       "word": "羊 就你叫牧羊犬啊",
@@ -15489,6 +15545,14 @@
       "onboard_time": 1699357054,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266109,
+      "num": 266109,
+      "word": "她真的把优雅发挥到了极致",
+      "onboard_time": 1699787732,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265873,
@@ -16329,14 +16393,6 @@
       "onboard_time": 1698767436,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 251449,
-      "num": 251449,
-      "word": "S13半决赛",
-      "onboard_time": 1699784490,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 251430,
@@ -17747,6 +17803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231019,
+      "num": 231019,
+      "word": "谢危望妻石",
+      "onboard_time": 1699787913,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231006,
       "num": 231006,
       "word": "王牌对王牌",
@@ -18065,14 +18129,6 @@
       "onboard_time": 1698845794,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226937,
-      "num": 226937,
-      "word": "Faker状态太好了",
-      "onboard_time": 1699779094,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 226905,
@@ -18561,6 +18617,14 @@
       "onboard_time": 1699632210,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221243,
+      "num": 221243,
+      "word": "鞠婧祎即将进组千香",
+      "onboard_time": 1699786892,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 221177,
@@ -21251,14 +21315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195528,
-      "num": 195528,
-      "word": "鞠婧祎即将进组千香",
-      "onboard_time": 1699786892,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195493,
       "num": 195493,
       "word": "秦海璐清花少旅行库存",
@@ -22891,6 +22947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181964,
+      "num": 181964,
+      "word": "原来韩剧里的雪不是骗人的",
+      "onboard_time": 1699787371,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181815,
       "num": 181815,
       "word": "医生解释为何女性更易患甲状腺癌",
@@ -23985,14 +24049,6 @@
       "onboard_time": 1698919594,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170306,
-      "num": 170306,
-      "word": "原来韩剧里的雪不是骗人的",
-      "onboard_time": 1699787371,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 170220,
@@ -26332,7 +26388,7 @@
     },
     {
       "raw_hot": 148745,
-      "num": 1514410,
+      "num": 4289090,
       "word": "双11当天全国揽收快递6.39亿件",
       "onboard_time": 1699777949,
       "rank": 2,
@@ -28059,6 +28115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132825,
+      "num": 3797861,
+      "word": "受伤小狗获好心人送医取名立冬",
+      "onboard_time": 1699782633,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132773,
       "num": 132773,
       "word": "美香一家专机进入中国领空",
@@ -29136,14 +29200,6 @@
       "word": "校方通报天津助学金事件调查情况",
       "onboard_time": 1699248691,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122534,
-      "num": 1347216,
-      "word": "受伤小狗获好心人送医取名立冬",
-      "onboard_time": 1699782633,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -31219,6 +31275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95044,
+      "num": 1279146,
+      "word": "竞燃之夜全阵容曝光",
+      "onboard_time": 1699787793,
+      "rank": 14,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 94859,
       "num": 94859,
       "word": "朴宰范battle听取帅声一片",
@@ -32003,6 +32067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 76752,
+      "num": 3608582,
+      "word": "7旬学生为百岁乡村老师过生日",
+      "onboard_time": 1699786057,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76737,
       "num": 164397,
       "word": "2人跳入冰冷湖水合救落水者",
@@ -32179,6 +32251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70697,
+      "num": 293618,
+      "word": "谭维维阿云嘎唱原神",
+      "onboard_time": 1699787793,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70486,
       "num": 159867,
       "word": "80后90后的童年课间10分钟长啥样",
@@ -32201,14 +32281,6 @@
       "onboard_time": 1699420234,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 69409,
-      "num": 1106732,
-      "word": "7旬学生为百岁乡村老师过生日",
-      "onboard_time": 1699786057,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69337,
