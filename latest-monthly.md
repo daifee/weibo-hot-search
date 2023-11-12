@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 06:34:30
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 07:16:44
 </p>
 </blockquote>
 <p>
@@ -4899,6 +4899,12 @@ KPOP格莱美0提名（热度：622255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
+冰岛24小时内1400次地震（热度：614796）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E4%BC%9A%E5%8F%91%E8%BE%BE%23" target="weibo">
 何猷君 听老婆话会发达（热度：614625）
 </a>
@@ -6005,12 +6011,6 @@ T1 作业好抄（热度：523311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%8B%E9%9B%AA%23" target="weibo">
 山东下雪（热度：521703）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E5%92%8CGEN%E5%86%B3%E8%83%9C%E5%B1%80%23" target="weibo">
-BLG和GEN决胜局（热度：521478）
 </a>
 </li>
 
