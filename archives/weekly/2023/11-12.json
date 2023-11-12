@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699781651621,
+  "endTime": 1699784233490,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2005667,
-      "num": 634286,
+      "num": 671293,
       "word": "缅北",
       "onboard_time": 1699763428,
       "rank": 23,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1293343,
-      "num": 635401,
+      "num": 672806,
       "word": "孙俪 婚姻里付出不被认可是悲哀的事",
       "onboard_time": 1699777587,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954377,
+      "num": 954377,
+      "word": "JDG半决赛扳回一城",
+      "onboard_time": 1699782271,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 951432,
       "num": 951432,
       "word": "民警怒斥缅北没抓到你是吧",
@@ -187,6 +195,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 853394,
+      "num": 853394,
+      "word": "菲警方正确认6具遗体是否为被绑架中国人",
+      "onboard_time": 1699780410,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822755,
       "num": 822755,
       "word": "WBG战胜BLG",
@@ -209,6 +225,14 @@
       "onboard_time": 1699766910,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761960,
+      "num": 761960,
+      "word": "金莎孙丞潇曾救下被家暴女孩",
+      "onboard_time": 1699780889,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 758057,
@@ -379,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 516035,
-      "num": 568532,
-      "word": "菲警方正确认6具遗体是否为被绑架中国人",
-      "onboard_time": 1699780410,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507935,
       "num": 507935,
       "word": "有些癌症筛查无用甚至有害",
@@ -459,14 +475,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 468725,
-      "num": 468725,
-      "word": "金莎孙丞潇曾救下被家暴女孩",
-      "onboard_time": 1699780889,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 464871,
       "num": 344443,
       "word": "金莎 我是我人生剧本里的大女主",
@@ -481,6 +489,14 @@
       "onboard_time": 1699769009,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 453372,
+      "num": 453372,
+      "word": "炮车 真正的AD",
+      "onboard_time": 1699782213,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 448895,
@@ -505,6 +521,14 @@
       "onboard_time": 1699750829,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 444948,
+      "num": 444948,
+      "word": "张译马面裙",
+      "onboard_time": 1699784008,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 442589,
@@ -611,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357054,
+      "num": 1062518,
+      "word": "房东将父亲种的30斤菜分享给百名租客",
+      "onboard_time": 1699782812,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350236,
       "num": 350236,
       "word": "赵露思入围亚洲电视大奖最佳女主",
       "onboard_time": 1699767990,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346658,
+      "num": 193568,
+      "word": "淘宝又崩了",
+      "onboard_time": 1699784068,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 345032,
@@ -656,6 +696,14 @@
       "word": "国色芳华 大女主剧",
       "onboard_time": 1699710333,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323209,
+      "num": 323209,
+      "word": "白鹿写毛笔字",
+      "onboard_time": 1699781189,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -819,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268669,
+      "num": 268669,
+      "word": "五月天上海演唱会",
+      "onboard_time": 1699781730,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -859,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251022,
+      "num": 251022,
+      "word": "吼妻一时爽追妻火葬场",
+      "onboard_time": 1699782931,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248494,
       "num": 340955,
       "word": "老板娘送1箱奶茶感谢民警追回20元",
@@ -889,6 +953,14 @@
       "onboard_time": 1699779753,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 242949,
+      "num": 242949,
+      "word": "王曼昱4比1王艺迪",
+      "onboard_time": 1699783052,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 240792,
@@ -939,20 +1011,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221276,
-      "num": 221276,
-      "word": "白鹿写毛笔字",
-      "onboard_time": 1699781189,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220022,
       "num": 220022,
       "word": "浓茶和咖啡会悄悄偷走身体里的钙",
       "onboard_time": 1699773331,
       "rank": 43,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 216716,
+      "num": 216716,
+      "word": "王曼昱女单冠军",
+      "onboard_time": 1699783949,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 216091,
@@ -969,6 +1041,14 @@
       "onboard_time": 1699718494,
       "rank": 23,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 214590,
+      "num": 214590,
+      "word": "张艺兴 更强的激光小猫",
+      "onboard_time": 1699781370,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 214217,
@@ -1075,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197884,
+      "num": 197884,
+      "word": "檀健次入围亚洲电视大奖网络剧最佳男主角",
+      "onboard_time": 1699782452,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197537,
       "num": 197537,
       "word": "秦岚情绪稳定大法 选择记住快乐",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1699718675,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193597,
+      "num": 193597,
+      "word": "水牛奶牦牛奶真的比普通牛奶有营养吗",
+      "onboard_time": 1699783351,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 192263,
@@ -1139,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190814,
+      "num": 190814,
+      "word": "沉浸式香水收纳",
+      "onboard_time": 1699782571,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190608,
       "num": 189680,
       "word": "龚俊是真的听劝",
@@ -1153,6 +1257,14 @@
       "onboard_time": 1699715733,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188407,
+      "num": 188407,
+      "word": "369奎桑提",
+      "onboard_time": 1699783588,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 188183,
@@ -1379,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158315,
+      "num": 158315,
+      "word": "还原美貌的原生妆",
+      "onboard_time": 1699782027,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 157078,
       "num": 148184,
       "word": "Capper将暂时缺席线下活动",
@@ -1393,6 +1513,14 @@
       "onboard_time": 1699779929,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155182,
+      "num": 155182,
+      "word": "张颜齐面子比命重要",
+      "onboard_time": 1699784131,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 154850,
@@ -1499,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145593,
+      "num": 145593,
+      "word": "口腔溃疡吃辣后可以好得更快吗",
+      "onboard_time": 1699781129,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143235,
       "num": 143235,
       "word": "秦岚说话像刘星分饼",
@@ -1513,6 +1649,14 @@
       "onboard_time": 1699751851,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142026,
+      "num": 142026,
+      "word": "陆家嘴集团发布苏州毒地情况说明",
+      "onboard_time": 1699784068,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141395,
@@ -1547,6 +1691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136595,
+      "num": 136595,
+      "word": "闲鱼崩了",
+      "onboard_time": 1699784190,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136322,
       "num": 210661,
       "word": "长沙一女子洗澡洗出个鸟病",
@@ -1571,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133268,
+      "num": 133268,
+      "word": "陈丽君说邪魅一笑并非刻意设计",
+      "onboard_time": 1699783829,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133227,
       "num": 133227,
       "word": "台剧此时此刻",
@@ -1587,12 +1747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132676,
+      "num": 132676,
+      "word": "武侠 陈坤永远的惊艳区",
+      "onboard_time": 1699783770,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131842,
       "num": 131213,
       "word": "高校开放共享厨房学生免费使用",
       "onboard_time": 1699750771,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 129158,
+      "num": 129158,
+      "word": "妈妈的人生也应该是旷野",
+      "onboard_time": 1699783770,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128453,
@@ -1635,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123392,
+      "num": 123392,
+      "word": "两位段位都这么高的吗",
+      "onboard_time": 1699782992,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120928,
       "num": 120928,
       "word": "邓紫棋你成为了谁的幸福好甜",
@@ -1657,14 +1841,6 @@
       "onboard_time": 1699695568,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118917,
-      "num": 118917,
-      "word": "张艺兴 更强的激光小猫",
-      "onboard_time": 1699781370,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 118835,
@@ -1793,14 +1969,6 @@
       "onboard_time": 1699775250,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107447,
-      "num": 107447,
-      "word": "口腔溃疡吃辣后可以好得更快吗",
-      "onboard_time": 1699781129,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106729,
@@ -2003,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85573,
+      "num": 861799,
+      "word": "受伤小狗获好心人送医取名立冬",
+      "onboard_time": 1699782633,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85534,
       "num": 85534,
       "word": "男朋友转了5200给我买咖啡",
@@ -2033,6 +2209,14 @@
       "onboard_time": 1699714416,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66758,
+      "num": 765443,
+      "word": "彭清林入选中国好人榜",
+      "onboard_time": 1699783290,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66396,
