@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699751905758,
+  "endTime": 1699753129801,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -27,6 +27,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1114249,
+      "num": 1114249,
+      "word": "四个人凑不出半个恋爱脑",
+      "onboard_time": 1699746323,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 969841,
+      "num": 894773,
+      "word": "裸门",
+      "onboard_time": 1699751549,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 942415,
       "num": 942415,
       "word": "小学校长9年强奸猥亵22学生被执行死刑",
@@ -36,11 +52,19 @@
     },
     {
       "raw_hot": 905096,
-      "num": 550959,
+      "num": 892749,
       "word": "金莎回应恋情争议",
       "onboard_time": 1699745963,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 831582,
+      "num": 831582,
+      "word": "民警怒斥缅北没抓到你是吧",
+      "onboard_time": 1699749990,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822755,
@@ -51,16 +75,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 820728,
-      "num": 820728,
-      "word": "四个人凑不出半个恋爱脑",
-      "onboard_time": 1699746323,
-      "rank": 1,
-      "category": "剧集"
+      "raw_hot": 782662,
+      "num": 782662,
+      "word": "校长强奸猥亵22名学生事发学校已撤并",
+      "onboard_time": 1699747224,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758057,
-      "num": 189304,
+      "num": 255213,
       "word": "常州一企业主被连续约谈后自杀",
       "onboard_time": 1699743858,
       "rank": 11,
@@ -97,22 +121,6 @@
       "onboard_time": 1699746624,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 494435,
-      "num": 494435,
-      "word": "民警怒斥缅北没抓到你是吧",
-      "onboard_time": 1699749990,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488210,
-      "num": 488210,
-      "word": "校长强奸猥亵22名学生事发学校已撤并",
-      "onboard_time": 1699747224,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478027,
@@ -155,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446046,
+      "num": 367691,
+      "word": "Bin 迟早冠军是我的",
+      "onboard_time": 1699750829,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 442589,
       "num": 362011,
       "word": "王星越 小孩哥",
@@ -187,20 +203,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 360182,
-      "num": 360182,
-      "word": "Bin 迟早冠军是我的",
-      "onboard_time": 1699750829,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 340340,
       "num": 340340,
       "word": "吴楚一开始带货了",
       "onboard_time": 1699712913,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333092,
+      "num": 333092,
+      "word": "林俊杰南京 达尔文",
+      "onboard_time": 1699751731,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 327734,
@@ -211,12 +227,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303861,
+      "num": 303861,
+      "word": "王鹤棣腰力",
+      "onboard_time": 1699751971,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300690,
       "num": 264915,
       "word": "李现要录综艺了",
       "onboard_time": 1699716338,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294172,
+      "num": 294172,
+      "word": "首位歼10女飞行员余旭牺牲7年了",
+      "onboard_time": 1699750289,
+      "rank": 21,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 291639,
+      "num": 291639,
+      "word": "骗子骗29万后良心发现返168元红包",
+      "onboard_time": 1699750289,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290023,
@@ -235,6 +275,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 283602,
+      "num": 254194,
+      "word": "杨幂羊羔毛外套",
+      "onboard_time": 1699752331,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283000,
+      "num": 283000,
+      "word": "李雪琴演活了讨好型人格",
+      "onboard_time": 1699746984,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279569,
       "num": 279569,
       "word": "温州永嘉民房坍塌已致3人遇难",
@@ -244,7 +300,7 @@
     },
     {
       "raw_hot": 278721,
-      "num": 144069,
+      "num": 150097,
       "word": "王多多 WBG究竟是怎样的一支队伍",
       "onboard_time": 1699748728,
       "rank": 30,
@@ -259,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260539,
-      "num": 187003,
-      "word": "首位歼10女飞行员余旭牺牲7年了",
-      "onboard_time": 1699750289,
-      "rank": 21,
-      "category": "军事"
-    },
-    {
       "raw_hot": 253330,
       "num": 253330,
       "word": "crisp 最后一局完成了救赎",
       "onboard_time": 1699715134,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252847,
+      "num": 252847,
+      "word": "家长吐槽学校冬季校服拆开全是薄膜",
+      "onboard_time": 1699751731,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 252134,
@@ -289,22 +345,6 @@
       "onboard_time": 1699715975,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237891,
-      "num": 237891,
-      "word": "骗子骗29万后良心发现返168元红包",
-      "onboard_time": 1699750289,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230329,
-      "num": 230329,
-      "word": "李雪琴演活了讨好型人格",
-      "onboard_time": 1699746984,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 226694,
@@ -337,6 +377,14 @@
       "onboard_time": 1699747285,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210169,
+      "num": 210169,
+      "word": "一觉醒来双十一结束了",
+      "onboard_time": 1699752331,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 209963,
@@ -443,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163792,
-      "num": 163792,
-      "word": "林俊杰南京 达尔文",
-      "onboard_time": 1699751731,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163195,
       "num": 149411,
       "word": "李一桐好会演被虐的戏",
@@ -483,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147733,
+      "num": 147733,
+      "word": "红薯摊狗狗有小被子和大玩具",
+      "onboard_time": 1699751130,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146087,
       "num": 146087,
       "word": "马立奥回归爸爸当家3",
       "onboard_time": 1699698753,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142217,
+      "num": 142217,
+      "word": "匪我思存不敢发誓",
+      "onboard_time": 1699751851,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141395,
@@ -512,30 +568,6 @@
       "word": "女子蓬莱海边游玩幸遇海滋奇观",
       "onboard_time": 1699749328,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138673,
-      "num": 138673,
-      "word": "家长吐槽学校冬季校服拆开全是薄膜",
-      "onboard_time": 1699751731,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 138264,
-      "num": 138264,
-      "word": "匪我思存不敢发誓",
-      "onboard_time": 1699751851,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 136624,
-      "num": 136624,
-      "word": "红薯摊狗狗有小被子和大玩具",
-      "onboard_time": 1699751130,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -579,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120724,
+      "num": 120724,
+      "word": "蒜香花生米",
+      "onboard_time": 1699752511,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119256,
       "num": 151645,
       "word": "月入2万活得像月入2千",
@@ -595,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118696,
+      "num": 118696,
+      "word": "莲花楼番外篇之角姐成亲",
+      "onboard_time": 1699735753,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117785,
       "num": 117785,
       "word": "iG官宣新阵容",
       "onboard_time": 1699699773,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117288,
-      "num": 117288,
-      "word": "莲花楼番外篇之角姐成亲",
-      "onboard_time": 1699735753,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 106150,
@@ -699,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95513,
+      "num": 95513,
+      "word": "韩女拍照",
+      "onboard_time": 1699753110,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "燕临冠礼",
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 18548,
-      "num": 771079,
+      "num": 894971,
       "word": "江山如画",
       "onboard_time": 1699689929,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699753129801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1114249,
+        "num": 1114249,
+        "word": "四个人凑不出半个恋爱脑",
+        "onboard_time": 1699746323,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 902295,
+        "num": 902295,
+        "word": "郑恺说很对不起苗苗",
+        "onboard_time": 1699715615,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18324,
+        "num": 894971,
+        "word": "江山如画",
+        "onboard_time": 1699689929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969841,
+        "num": 894773,
+        "word": "裸门",
+        "onboard_time": 1699751549,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 892749,
+        "num": 892749,
+        "word": "金莎回应恋情争议",
+        "onboard_time": 1699745963,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831582,
+        "num": 831582,
+        "word": "民警怒斥缅北没抓到你是吧",
+        "onboard_time": 1699749990,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782662,
+        "num": 782662,
+        "word": "校长强奸猥亵22名学生事发学校已撤并",
+        "onboard_time": 1699747224,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523676,
+        "num": 523676,
+        "word": "闲置太久的皮衣就不要穿了",
+        "onboard_time": 1699746624,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403998,
+        "num": 403998,
+        "word": "14岁女儿连夜报警称父母被骗卖房",
+        "onboard_time": 1699716995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375033,
+        "num": 375033,
+        "word": "父亲开17.5米长货车接女儿拉1个行李箱",
+        "onboard_time": 1699743798,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446046,
+        "num": 367691,
+        "word": "Bin 迟早冠军是我的",
+        "onboard_time": 1699750829,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333092,
+        "num": 333092,
+        "word": "林俊杰南京 达尔文",
+        "onboard_time": 1699751731,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303861,
+        "num": 303861,
+        "word": "王鹤棣腰力",
+        "onboard_time": 1699751971,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295730,
+        "num": 295730,
+        "word": "皮肤科专家提醒药膏护肤不靠谱",
+        "onboard_time": 1699747464,
+        "rank": 13,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 294172,
+        "num": 294172,
+        "word": "首位歼10女飞行员余旭牺牲7年了",
+        "onboard_time": 1699750289,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 291639,
+        "num": 291639,
+        "word": "骗子骗29万后良心发现返168元红包",
+        "onboard_time": 1699750289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285749,
+        "num": 285749,
+        "word": "十多年的网购老炮都沉默了",
+        "onboard_time": 1699746024,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283000,
+        "num": 283000,
+        "word": "李雪琴演活了讨好型人格",
+        "onboard_time": 1699746984,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258359,
+        "num": 258359,
+        "word": "关晓彤王牌控诉华晨宇",
+        "onboard_time": 1699716517,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256115,
+        "num": 256115,
+        "word": "张艺兴说去国外见了吴世勋",
+        "onboard_time": 1699713094,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 694190,
+        "num": 255213,
+        "word": "常州一企业主被连续约谈后自杀",
+        "onboard_time": 1699743858,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283602,
+        "num": 254194,
+        "word": "杨幂羊羔毛外套",
+        "onboard_time": 1699752331,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252847,
+        "num": 252847,
+        "word": "家长吐槽学校冬季校服拆开全是薄膜",
+        "onboard_time": 1699751731,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247558,
+        "num": 247558,
+        "word": "温州永嘉民房坍塌已致3人遇难",
+        "onboard_time": 1699744339,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211155,
+        "num": 211155,
+        "word": "国色芳华 大女主剧",
+        "onboard_time": 1699710333,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210169,
+        "num": 210169,
+        "word": "一觉醒来双十一结束了",
+        "onboard_time": 1699752331,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190338,
+        "num": 190338,
+        "word": "谁教胡彦斌这么评论的",
+        "onboard_time": 1699747285,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188626,
+        "num": 188626,
+        "word": "秦岚情绪稳定大法 选择记住快乐",
+        "onboard_time": 1699747945,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160029,
+        "num": 160029,
+        "word": "淘宝崩了",
+        "onboard_time": 1699710394,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150691,
+        "num": 150691,
+        "word": "刘亦菲 阿布扎比",
+        "onboard_time": 1699707396,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239029,
+        "num": 150097,
+        "word": "王多多 WBG究竟是怎样的一支队伍",
+        "onboard_time": 1699748728,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147733,
+        "num": 147733,
+        "word": "红薯摊狗狗有小被子和大玩具",
+        "onboard_time": 1699751130,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 146839,
+        "word": "秦岚日剧女主即视感",
+        "onboard_time": 1699751068,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145924,
+        "num": 145924,
+        "word": "王星越 小孩哥",
+        "onboard_time": 1699715492,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142217,
+        "num": 142217,
+        "word": "匪我思存不敢发誓",
+        "onboard_time": 1699751851,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141856,
+        "num": 141856,
+        "word": "女生皮肤超好的总结",
+        "onboard_time": 1699716517,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134138,
+        "num": 134138,
+        "word": "情绪稳定是男人最好的医美",
+        "onboard_time": 1699718073,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131961,
+        "num": 131961,
+        "word": "fx 重聚",
+        "onboard_time": 1699704392,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131620,
+        "num": 131620,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1699704938,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120724,
+        "num": 120724,
+        "word": "蒜香花生米",
+        "onboard_time": 1699752511,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120450,
+        "num": 120450,
+        "word": "李现要录综艺了",
+        "onboard_time": 1699716338,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119631,
+        "num": 119631,
+        "word": "干美甲的和干汽修的都沉默了",
+        "onboard_time": 1699748966,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118696,
+        "num": 118696,
+        "word": "莲花楼番外篇之角姐成亲",
+        "onboard_time": 1699735753,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114856,
+        "num": 114856,
+        "word": "皮肤保养最重要的3件事",
+        "onboard_time": 1699750591,
+        "rank": 43,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 106716,
+        "num": 106716,
+        "word": "老伯举报公园砍掉七棵树获奖2000元",
+        "onboard_time": 1699721069,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101922,
+        "num": 101922,
+        "word": "张钧甯新片口碑",
+        "onboard_time": 1699750708,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100574,
+        "num": 100574,
+        "word": "你好星期六下周有林俊杰",
+        "onboard_time": 1699711715,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99474,
+        "num": 99474,
+        "word": "女子蓬莱海边游玩幸遇海滋奇观",
+        "onboard_time": 1699749328,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99196,
+        "num": 99196,
+        "word": "吴楚一开始带货了",
+        "onboard_time": 1699712913,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95513,
+        "num": 95513,
+        "word": "韩女拍照",
+        "onboard_time": 1699753110,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤将沟通哪些重大问题#"
+    }
+  }
+}
