@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699806037375,
+  "endTime": 1699806951698,
   "band_list": [
     {
       "raw_hot": 1535199,
@@ -163,8 +163,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212440,
-      "num": 212440,
+      "raw_hot": 216489,
+      "num": 216489,
       "word": "浙江一大妈买海鱼红烧后半夜发绿光",
       "onboard_time": 1699790495,
       "rank": 18,
@@ -193,6 +193,14 @@
       "onboard_time": 1699789774,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184875,
+      "num": 178331,
+      "word": "刘畊宏带假肢女孩跳本草纲目",
+      "onboard_time": 1699805313,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 180071,
@@ -233,14 +241,6 @@
       "onboard_time": 1699793737,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156575,
-      "num": 156575,
-      "word": "刘畊宏带假肢女孩跳本草纲目",
-      "onboard_time": 1699805313,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 154779,
@@ -299,8 +299,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 119501,
-      "num": 119501,
+      "raw_hot": 120279,
+      "num": 120279,
       "word": "Knight 隐身",
       "onboard_time": 1699791037,
       "rank": 38,
@@ -313,6 +313,14 @@
       "onboard_time": 1699800756,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116039,
+      "num": 116039,
+      "word": "一年一首凤凰传奇",
+      "onboard_time": 1699805073,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 115753,
@@ -329,14 +337,6 @@
       "onboard_time": 1699795060,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 108231,
-      "num": 108231,
-      "word": "一年一首凤凰传奇",
-      "onboard_time": 1699805073,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 108096,
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#提升基层防灾避险和自救互救能力#"
+    },
+    {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
     }
   ]
 }
