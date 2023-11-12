@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699792237472,
+  "endTime": 1699793175862,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1575041,
-      "num": 294206,
+      "num": 321094,
       "word": "崩了都崩了我也崩了",
       "onboard_time": 1699788218,
       "rank": 32,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166284,
+      "num": 603959,
+      "word": "阿里全系产品崩了",
+      "onboard_time": 1699789774,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1166067,
       "num": 1166067,
       "word": "关晓彤王牌控诉华晨宇",
@@ -291,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917328,
-      "num": 603959,
-      "word": "阿里全系产品崩了",
-      "onboard_time": 1699789774,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 915412,
       "num": 892749,
       "word": "金莎回应恋情争议",
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 788264,
+      "num": 788264,
+      "word": "MISSING哭了",
+      "onboard_time": 1699791934,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 768660,
       "num": 768660,
       "word": "T1半决赛先下一城",
@@ -361,6 +369,14 @@
       "onboard_time": 1699780889,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 760271,
+      "num": 760271,
+      "word": "WBG赢了血赚输了不亏",
+      "onboard_time": 1699792413,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 758057,
@@ -515,6 +531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 606191,
+      "num": 606191,
+      "word": "Knight 隐身",
+      "onboard_time": 1699791037,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 591228,
       "num": 313171,
       "word": "JDG对战T1 比分预测",
@@ -529,6 +553,14 @@
       "onboard_time": 1699784252,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 589656,
+      "num": 510548,
+      "word": "Ruler和Faker  一墙之隔胜负之分",
+      "onboard_time": 1699791875,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 571901,
@@ -547,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 555074,
-      "num": 555074,
-      "word": "Knight 隐身",
-      "onboard_time": 1699791037,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 549831,
       "num": 549831,
       "word": "369别玩兰博了",
@@ -571,20 +595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 547922,
+      "num": 506652,
+      "word": "红米发文道歉",
+      "onboard_time": 1699792896,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 539365,
+      "num": 539365,
+      "word": "韩国警方否认权志龙销毁证据",
+      "onboard_time": 1699790856,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533296,
       "num": 533296,
       "word": "闲置太久的皮衣就不要穿了",
       "onboard_time": 1699746624,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 531999,
-      "num": 531999,
-      "word": "韩国警方否认权志龙销毁证据",
-      "onboard_time": 1699790856,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 528914,
@@ -795,8 +827,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 425147,
-      "num": 425147,
+      "raw_hot": 425192,
+      "num": 425192,
       "word": "Bin 相信wbg",
       "onboard_time": 1699791632,
       "rank": 18,
@@ -809,6 +841,14 @@
       "onboard_time": 1699743798,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419238,
+      "num": 537821,
+      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+      "onboard_time": 1699790495,
+      "rank": 19,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 416573,
@@ -995,12 +1035,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304817,
-      "num": 401765,
-      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
-      "onboard_time": 1699790495,
-      "rank": 19,
-      "category": "社会新闻,美食"
+      "raw_hot": 304719,
+      "num": 304719,
+      "word": "阿里云回应故障致多款应用崩了",
+      "onboard_time": 1699792355,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 303861,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1699772129,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302919,
-      "num": 302919,
-      "word": "MISSING哭了",
-      "onboard_time": 1699791934,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 301818,
@@ -1299,20 +1331,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241250,
-      "num": 241250,
-      "word": "Ruler和Faker  一墙之隔胜负之分",
-      "onboard_time": 1699791875,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 240792,
       "num": 240792,
       "word": "李一桐新中式闺秀妆",
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 238223,
+      "num": 238223,
+      "word": "袁姗姗感觉腿上凉嗖嗖的",
+      "onboard_time": 1699792834,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235653,
+      "num": 235653,
+      "word": "龚俊 沪上小作精",
+      "onboard_time": 1699792656,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232799,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1699773331,
       "rank": 43,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 216148,
+      "num": 216148,
+      "word": "张远掉话筒吓出表情包",
+      "onboard_time": 1699792773,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 216091,
@@ -1761,6 +1809,14 @@
       "onboard_time": 1699721069,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172569,
+      "num": 172569,
+      "word": "为什么不ban沙皇",
+      "onboard_time": 1699793015,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 171798,
@@ -2508,7 +2564,7 @@
     },
     {
       "raw_hot": 95760,
-      "num": 876824,
+      "num": 1230975,
       "word": "高铁列车过站自带特效",
       "onboard_time": 1699777050,
       "rank": 2,
@@ -2689,6 +2745,14 @@
       "onboard_time": 1699711295,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34092,
+      "num": 326406,
+      "word": "沃尔沃EM90新车发布会",
+      "onboard_time": 1699792473,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 21326,

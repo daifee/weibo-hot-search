@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/12 20:30:37
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/12 20:46:15
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ Faker无需向众神祈祷（热度：1321697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%85%A8%E7%B3%BB%E4%BA%A7%E5%93%81%E5%B4%A9%E4%BA%86%23" target="weibo">
+阿里全系产品崩了（热度：1166284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E6%8E%A7%E8%AF%89%E5%8D%8E%E6%99%A8%E5%AE%87%23" target="weibo">
 关晓彤王牌控诉华晨宇（热度：1166067）
 </a>
@@ -231,12 +237,6 @@ S13半决赛（热度：1114606）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%85%A8%E7%B3%BB%E4%BA%A7%E5%93%81%E5%B4%A9%E4%BA%86%23" target="weibo">
-阿里全系产品崩了（热度：917328）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%E4%BA%89%E8%AE%AE%23" target="weibo">
 金莎回应恋情争议（热度：915412）
 </a>
@@ -267,6 +267,12 @@ WBG战胜BLG（热度：822755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23MISSING%E5%93%AD%E4%BA%86%23" target="weibo">
+MISSING哭了（热度：788264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
 T1半决赛先下一城（热度：768660）
 </a>
@@ -281,6 +287,12 @@ T1半决赛先下一城（热度：768660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E6%9B%BE%E6%95%91%E4%B8%8B%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%A9%23" target="weibo">
 金莎孙丞潇曾救下被家暴女孩（热度：761960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E8%B5%A2%E4%BA%86%E8%A1%80%E8%B5%9A%E8%BE%93%E4%BA%86%E4%B8%8D%E4%BA%8F%23" target="weibo">
+WBG赢了血赚输了不亏（热度：760271）
 </a>
 </li>
 
@@ -399,6 +411,12 @@ fx 重聚（热度：630873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Knight%20%E9%9A%90%E8%BA%AB%23" target="weibo">
+Knight 隐身（热度：606191）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B%23" target="weibo">
 JDG对战T1 比分预测（热度：591228）
 </a>
@@ -407,6 +425,12 @@ JDG对战T1 比分预测（热度：591228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%B4%A9%E4%BA%86%23" target="weibo">
 阿里云盘崩了（热度：590143）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%20%20%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94%E8%83%9C%E8%B4%9F%E4%B9%8B%E5%88%86%23" target="weibo">
+Ruler和Faker  一墙之隔胜负之分（热度：589656）
 </a>
 </li>
 
@@ -423,12 +447,6 @@ JDG对战T1 比分预测（热度：591228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Knight%20%E9%9A%90%E8%BA%AB%23" target="weibo">
-Knight 隐身（热度：555074）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23369%E5%88%AB%E7%8E%A9%E5%85%B0%E5%8D%9A%E4%BA%86%23" target="weibo">
 369别玩兰博了（热度：549831）
 </a>
@@ -441,14 +459,20 @@ EDG剧本（热度：548931）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E7%BD%AE%E5%A4%AA%E4%B9%85%E7%9A%84%E7%9A%AE%E8%A1%A3%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A9%BF%E4%BA%86%23" target="weibo">
-闲置太久的皮衣就不要穿了（热度：533296）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
+红米发文道歉（热度：547922）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9D%83%E5%BF%97%E9%BE%99%E9%94%80%E6%AF%81%E8%AF%81%E6%8D%AE%23" target="weibo">
-韩国警方否认权志龙销毁证据（热度：531999）
+韩国警方否认权志龙销毁证据（热度：539365）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E7%BD%AE%E5%A4%AA%E4%B9%85%E7%9A%84%E7%9A%AE%E8%A1%A3%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A9%BF%E4%BA%86%23" target="weibo">
+闲置太久的皮衣就不要穿了（热度：533296）
 </a>
 </li>
 
@@ -610,13 +634,19 @@ Faker状态太好了（热度：439601）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%20%E7%9B%B8%E4%BF%A1wbg%23" target="weibo">
-Bin 相信wbg（热度：425147）
+Bin 相信wbg（热度：425192）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%8017.5%E7%B1%B3%E9%95%BF%E8%B4%A7%E8%BD%A6%E6%8E%A5%E5%A5%B3%E5%84%BF%E6%8B%891%E4%B8%AA%E8%A1%8C%E6%9D%8E%E7%AE%B1%23" target="weibo">
 父亲开17.5米长货车接女儿拉1个行李箱（热度：422773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89%23" target="weibo">
+浙江一大妈买海鱼红烧后半夜发绿光（热度：419238）
 </a>
 </li>
 
@@ -759,8 +789,8 @@ Bin 相信wbg（热度：425147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A4%A7%E5%A6%88%E4%B9%B0%E6%B5%B7%E9%B1%BC%E7%BA%A2%E7%83%A7%E5%90%8E%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%BB%BF%E5%85%89%23" target="weibo">
-浙江一大妈买海鱼红烧后半夜发绿光（热度：304817）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%9E%E5%BA%94%E6%95%85%E9%9A%9C%E8%87%B4%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E5%B4%A9%E4%BA%86%23" target="weibo">
+阿里云回应故障致多款应用崩了（热度：304719）
 </a>
 </li>
 
@@ -773,12 +803,6 @@ Bin 相信wbg（热度：425147）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%20%E8%8B%A6%E6%9E%9C%E4%BA%A6%E6%98%AF%E6%9E%9C%23" target="weibo">
 谢危 苦果亦是果（热度：303033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23MISSING%E5%93%AD%E4%BA%86%23" target="weibo">
-MISSING哭了（热度：302919）
 </a>
 </li>
 
@@ -987,14 +1011,20 @@ Bin 感谢所有人的支持（热度：252134）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%20%20%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94%E8%83%9C%E8%B4%9F%E4%B9%8B%E5%88%86%23" target="weibo">
-Ruler和Faker  一墙之隔胜负之分（热度：241250）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%97%BA%E7%A7%80%E5%A6%86%23" target="weibo">
+李一桐新中式闺秀妆（热度：240792）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%97%BA%E7%A7%80%E5%A6%86%23" target="weibo">
-李一桐新中式闺秀妆（热度：240792）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E6%84%9F%E8%A7%89%E8%85%BF%E4%B8%8A%E5%87%89%E5%97%96%E5%97%96%E7%9A%84%23" target="weibo">
+袁姗姗感觉腿上凉嗖嗖的（热度：238223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E6%B2%AA%E4%B8%8A%E5%B0%8F%E4%BD%9C%E7%B2%BE%23" target="weibo">
+龚俊 沪上小作精（热度：235653）
 </a>
 </li>
 
@@ -1061,6 +1091,12 @@ Ruler和Faker  一墙之隔胜负之分（热度：241250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%93%E8%8C%B6%E5%92%8C%E5%92%96%E5%95%A1%E4%BC%9A%E6%82%84%E6%82%84%E5%81%B7%E8%B5%B0%E8%BA%AB%E4%BD%93%E9%87%8C%E7%9A%84%E9%92%99%23" target="weibo">
 浓茶和咖啡会悄悄偷走身体里的钙（热度：220022）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E6%8E%89%E8%AF%9D%E7%AD%92%E5%90%93%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%23" target="weibo">
+张远掉话筒吓出表情包（热度：216148）
 </a>
 </li>
 
@@ -1331,6 +1367,12 @@ G2 宝想要TheShy（热度：174087）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%AF%E4%B8%BE%E6%8A%A5%E5%85%AC%E5%9B%AD%E7%A0%8D%E6%8E%89%E4%B8%83%E6%A3%B5%E6%A0%91%E8%8E%B7%E5%A5%962000%E5%85%83%23" target="weibo">
 老伯举报公园砍掉七棵树获奖2000元（热度：173124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E6%B2%99%E7%9A%87%23" target="weibo">
+为什么不ban沙皇（热度：172569）
 </a>
 </li>
 
@@ -2027,6 +2069,12 @@ vivo影像大片盘点（热度：67877）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E5%A4%BA%E5%BE%97%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23" target="weibo">
 林诗栋蒯曼夺得混双冠军（热度：40959）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%83%E5%B0%94%E6%B2%83EM90%E6%96%B0%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+沃尔沃EM90新车发布会（热度：34092）
 </a>
 </li>
 

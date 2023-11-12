@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699792237472,
+  "endTime": 1699793175862,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1716,7 +1716,7 @@
     },
     {
       "raw_hot": 1575041,
-      "num": 294206,
+      "num": 321094,
       "word": "崩了都崩了我也崩了",
       "onboard_time": 1699788218,
       "rank": 32,
@@ -2763,6 +2763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1166284,
+      "num": 603959,
+      "word": "阿里全系产品崩了",
+      "onboard_time": 1699789774,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1166067,
       "num": 1166067,
       "word": "关晓彤王牌控诉华晨宇",
@@ -3723,14 +3731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 917328,
-      "num": 603959,
-      "word": "阿里全系产品崩了",
-      "onboard_time": 1699789774,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 915412,
       "num": 892749,
       "word": "金莎回应恋情争议",
@@ -4603,6 +4603,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 788264,
+      "num": 788264,
+      "word": "MISSING哭了",
+      "onboard_time": 1699791934,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 788042,
       "num": 788042,
       "word": "把秦岚美到尖叫的图发出来了",
@@ -4833,6 +4841,14 @@
       "onboard_time": 1699366476,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 760271,
+      "num": 760271,
+      "word": "WBG赢了血赚输了不亏",
+      "onboard_time": 1699792413,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 759210,
@@ -6611,6 +6627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606191,
+      "num": 606191,
+      "word": "Knight 隐身",
+      "onboard_time": 1699791037,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 604463,
       "num": 604463,
       "word": "歌手确认重启",
@@ -6841,6 +6865,14 @@
       "onboard_time": 1699784252,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 589656,
+      "num": 510548,
+      "word": "Ruler和Faker  一墙之隔胜负之分",
+      "onboard_time": 1699791875,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 589146,
@@ -7331,14 +7363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 555074,
-      "num": 555074,
-      "word": "Knight 隐身",
-      "onboard_time": 1699791037,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 554993,
       "num": 554993,
       "word": "35岁女子在香港做泥瓦工月入10万",
@@ -7439,6 +7463,14 @@
       "num": 548931,
       "word": "EDG剧本",
       "onboard_time": 1699789350,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 547922,
+      "num": 506652,
+      "word": "红米发文道歉",
+      "onboard_time": 1699792896,
       "rank": 13,
       "category": "电竞"
     },
@@ -7563,6 +7595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 539365,
+      "num": 539365,
+      "word": "韩国警方否认权志龙销毁证据",
+      "onboard_time": 1699790856,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538474,
       "num": 538474,
       "word": "网红铁头向东方甄选道歉",
@@ -7665,14 +7705,6 @@
       "onboard_time": 1699070431,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 531999,
-      "num": 531999,
-      "word": "韩国警方否认权志龙销毁证据",
-      "onboard_time": 1699790856,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 531178,
@@ -9835,8 +9867,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 425147,
-      "num": 425147,
+      "raw_hot": 425192,
+      "num": 425192,
       "word": "Bin 相信wbg",
       "onboard_time": 1699791632,
       "rank": 18,
@@ -10017,6 +10049,14 @@
       "onboard_time": 1699011337,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 419238,
+      "num": 537821,
+      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+      "onboard_time": 1699790495,
+      "rank": 19,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 418930,
@@ -13851,12 +13891,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 304817,
-      "num": 401765,
-      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
-      "onboard_time": 1699790495,
-      "rank": 19,
-      "category": "社会新闻,美食"
+      "raw_hot": 304719,
+      "num": 304719,
+      "word": "阿里云回应故障致多款应用崩了",
+      "onboard_time": 1699792355,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 304709,
@@ -13921,14 +13961,6 @@
       "onboard_time": 1699772129,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302919,
-      "num": 302919,
-      "word": "MISSING哭了",
-      "onboard_time": 1699791934,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 302574,
@@ -17243,14 +17275,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 241250,
-      "num": 241250,
-      "word": "Ruler和Faker  一墙之隔胜负之分",
-      "onboard_time": 1699791875,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 241197,
       "num": 241197,
       "word": "大熊猫飞云搂着小象呼呼呼呼呼",
@@ -17411,6 +17435,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 238223,
+      "num": 238223,
+      "word": "袁姗姗感觉腿上凉嗖嗖的",
+      "onboard_time": 1699792834,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237998,
       "num": 237998,
       "word": "黄景瑜再演刑警",
@@ -17569,6 +17601,14 @@
       "onboard_time": 1699146571,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 235653,
+      "num": 235653,
+      "word": "龚俊 沪上小作精",
+      "onboard_time": 1699792656,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235634,
@@ -19081,6 +19121,14 @@
       "onboard_time": 1699418317,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216148,
+      "num": 216148,
+      "word": "张远掉话筒吓出表情包",
+      "onboard_time": 1699792773,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 216122,
@@ -23953,6 +24001,14 @@
       "onboard_time": 1698905372,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 172569,
+      "num": 172569,
+      "word": "为什么不ban沙皇",
+      "onboard_time": 1699793015,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 172506,
@@ -31372,7 +31428,7 @@
     },
     {
       "raw_hot": 95760,
-      "num": 876824,
+      "num": 1230975,
       "word": "高铁列车过站自带特效",
       "onboard_time": 1699777050,
       "rank": 2,
@@ -33441,6 +33497,14 @@
       "onboard_time": 1699183536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34092,
+      "num": 326406,
+      "word": "沃尔沃EM90新车发布会",
+      "onboard_time": 1699792473,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 33615,
