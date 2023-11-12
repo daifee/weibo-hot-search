@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699784233490,
+  "endTime": 1699785236741,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1491791,
-      "num": 1491791,
+      "raw_hot": 1551755,
+      "num": 1551755,
       "word": "导播在干嘛",
       "onboard_time": 1699777107,
       "rank": 27,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1293343,
-      "num": 672806,
+      "num": 717280,
       "word": "孙俪 婚姻里付出不被认可是悲哀的事",
       "onboard_time": 1699777587,
       "rank": 30,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1165428,
+      "num": 1165428,
+      "word": "JDG半决赛扳回一城",
+      "onboard_time": 1699782271,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1146645,
+      "num": 219063,
+      "word": "淘宝又崩了",
+      "onboard_time": 1699784068,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1122453,
       "num": 782662,
       "word": "校长强奸猥亵22名学生事发学校已撤并",
@@ -155,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 954377,
-      "num": 954377,
-      "word": "JDG半决赛扳回一城",
-      "onboard_time": 1699782271,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 951432,
       "num": 951432,
       "word": "民警怒斥缅北没抓到你是吧",
       "onboard_time": 1699749990,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948168,
+      "num": 948168,
+      "word": "张译马面裙",
+      "onboard_time": 1699784008,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 942415,
@@ -195,8 +211,8 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 853394,
-      "num": 853394,
+      "raw_hot": 871259,
+      "num": 871259,
       "word": "菲警方正确认6具遗体是否为被绑架中国人",
       "onboard_time": 1699780410,
       "rank": 39,
@@ -265,6 +281,14 @@
       "onboard_time": 1699756050,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 711751,
+      "num": 216459,
+      "word": "闲鱼崩了",
+      "onboard_time": 1699784190,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 704152,
@@ -363,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 590143,
+      "num": 215813,
+      "word": "阿里云盘崩了",
+      "onboard_time": 1699784252,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 571901,
       "num": 423575,
       "word": "赵露思曾黎最新合照",
@@ -419,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478510,
+      "num": 1236453,
+      "word": "房东将父亲种的30斤菜分享给百名租客",
+      "onboard_time": 1699782812,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478027,
       "num": 478027,
       "word": "羽绒服",
@@ -433,6 +473,14 @@
       "onboard_time": 1699764272,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477351,
+      "num": 477351,
+      "word": "炮车 真正的AD",
+      "onboard_time": 1699782213,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 476342,
@@ -491,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 453372,
-      "num": 453372,
-      "word": "炮车 真正的AD",
-      "onboard_time": 1699782213,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 448895,
       "num": 637431,
       "word": "爸爸喝醉把儿子落地铁急坏大学生",
@@ -521,14 +561,6 @@
       "onboard_time": 1699750829,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 444948,
-      "num": 444948,
-      "word": "张译马面裙",
-      "onboard_time": 1699784008,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 442589,
@@ -635,28 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357054,
-      "num": 1062518,
-      "word": "房东将父亲种的30斤菜分享给百名租客",
-      "onboard_time": 1699782812,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350236,
       "num": 350236,
       "word": "赵露思入围亚洲电视大奖最佳女主",
       "onboard_time": 1699767990,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346658,
-      "num": 193568,
-      "word": "淘宝又崩了",
-      "onboard_time": 1699784068,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 345032,
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301676,
+      "num": 301676,
+      "word": "冰岛宣布进入紧急状态",
+      "onboard_time": 1699784970,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300690,
       "num": 264915,
       "word": "李现要录综艺了",
@@ -785,6 +809,14 @@
       "onboard_time": 1699707396,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284510,
+      "num": 284510,
+      "word": "陆家嘴集团发布苏州毒地情况说明",
+      "onboard_time": 1699784068,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284401,
@@ -851,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275881,
+      "num": 275881,
+      "word": "张小斐腹肌",
+      "onboard_time": 1699784550,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275563,
       "num": 227968,
       "word": "芒果我可以信你一回吗",
@@ -881,6 +921,14 @@
       "onboard_time": 1699767809,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261278,
+      "num": 212683,
+      "word": "钉钉崩了",
+      "onboard_time": 1699784669,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 258380,
@@ -939,6 +987,14 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 246957,
+      "num": 246957,
+      "word": "王曼昱女单冠军",
+      "onboard_time": 1699783949,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244772,
       "num": 224864,
       "word": "天蝎座的慕强是有双标含义的",
@@ -971,6 +1027,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 232799,
+      "num": 232799,
+      "word": "水牛奶牦牛奶真的比普通牛奶有营养吗",
+      "onboard_time": 1699783351,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 232693,
       "num": 232693,
       "word": "牛头怎么选的",
@@ -985,6 +1049,14 @@
       "onboard_time": 1699779094,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226756,
+      "num": 226756,
+      "word": "沉浸式香水收纳",
+      "onboard_time": 1699782571,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 226694,
@@ -1017,14 +1089,6 @@
       "onboard_time": 1699773331,
       "rank": 43,
       "category": "美食,知识科普"
-    },
-    {
-      "raw_hot": 216716,
-      "num": 216716,
-      "word": "王曼昱女单冠军",
-      "onboard_time": 1699783949,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 216091,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1699747285,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210997,
+      "num": 210997,
+      "word": "S13半决赛",
+      "onboard_time": 1699784490,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 209963,
@@ -1187,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193597,
-      "num": 193597,
-      "word": "水牛奶牦牛奶真的比普通牛奶有营养吗",
-      "onboard_time": 1699783351,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 192263,
       "num": 192263,
       "word": "任素汐演技",
@@ -1233,14 +1297,6 @@
       "onboard_time": 1699750708,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190814,
-      "num": 190814,
-      "word": "沉浸式香水收纳",
-      "onboard_time": 1699782571,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 190608,
@@ -1419,6 +1475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167508,
+      "num": 167508,
+      "word": "口腔溃疡吃辣后可以好得更快吗",
+      "onboard_time": 1699781129,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166940,
+      "num": 166940,
+      "word": "张颜齐面子比命重要",
+      "onboard_time": 1699784131,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166703,
       "num": 166703,
       "word": "张杰和三个女儿背影照",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1699761751,
       "rank": 34,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 164830,
+      "num": 164830,
+      "word": "陈丽君说邪魅一笑并非刻意设计",
+      "onboard_time": 1699783829,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 164696,
@@ -1515,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155182,
-      "num": 155182,
-      "word": "张颜齐面子比命重要",
-      "onboard_time": 1699784131,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154850,
       "num": 135796,
       "word": "虞书欣红色小猫咪妆",
@@ -1588,7 +1660,7 @@
     },
     {
       "raw_hot": 148745,
-      "num": 1094268,
+      "num": 1183315,
       "word": "双11当天全国揽收快递6.39亿件",
       "onboard_time": 1699777949,
       "rank": 2,
@@ -1627,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145593,
-      "num": 145593,
-      "word": "口腔溃疡吃辣后可以好得更快吗",
-      "onboard_time": 1699781129,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143235,
       "num": 143235,
       "word": "秦岚说话像刘星分饼",
@@ -1651,20 +1715,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142026,
-      "num": 142026,
-      "word": "陆家嘴集团发布苏州毒地情况说明",
-      "onboard_time": 1699784068,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141395,
       "num": 141395,
       "word": "皮肤保养最重要的3件事",
       "onboard_time": 1699750591,
       "rank": 33,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 140735,
+      "num": 140735,
+      "word": "梁靖崑vs户上隼辅",
+      "onboard_time": 1699785215,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139911,
@@ -1691,14 +1755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136595,
-      "num": 136595,
-      "word": "闲鱼崩了",
-      "onboard_time": 1699784190,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 136322,
       "num": 210661,
       "word": "长沙一女子洗澡洗出个鸟病",
@@ -1721,14 +1777,6 @@
       "onboard_time": 1699755692,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133268,
-      "num": 133268,
-      "word": "陈丽君说邪魅一笑并非刻意设计",
-      "onboard_time": 1699783829,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 133227,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1699769609,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110861,
+      "num": 1056317,
+      "word": "受伤小狗获好心人送医取名立冬",
+      "onboard_time": 1699782633,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110578,
@@ -2171,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85573,
-      "num": 861799,
-      "word": "受伤小狗获好心人送医取名立冬",
-      "onboard_time": 1699782633,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85534,
       "num": 85534,
       "word": "男朋友转了5200给我买咖啡",
@@ -2203,20 +2251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71489,
+      "num": 905255,
+      "word": "彭清林入选中国好人榜",
+      "onboard_time": 1699783290,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71465,
       "num": 96589,
       "word": "曼联vs卢顿",
       "onboard_time": 1699714416,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66758,
-      "num": 765443,
-      "word": "彭清林入选中国好人榜",
-      "onboard_time": 1699783290,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66396,
