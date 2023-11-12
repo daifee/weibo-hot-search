@@ -1,0 +1,410 @@
+{
+  "runTime": 1699780539093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1429226,
+        "num": 1429226,
+        "word": "JDG对战T1",
+        "onboard_time": 1699775673,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1216865,
+        "num": 1216865,
+        "word": "导播在干嘛",
+        "onboard_time": 1699777107,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148745,
+        "num": 1094268,
+        "word": "双11当天全国揽收快递6.39亿件",
+        "onboard_time": 1699777949,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1089472,
+        "num": 1089472,
+        "word": "歌手2024 踢馆名单",
+        "onboard_time": 1699775130,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1071998,
+        "num": 1071998,
+        "word": "今年双十一冷清的原因找到了",
+        "onboard_time": 1699771470,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 836699,
+        "num": 836699,
+        "word": "网友称应聘蜜雪冰城被嫌26岁太大",
+        "onboard_time": 1699777709,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787491,
+        "num": 787491,
+        "word": "真正致癌的是这3种鱼",
+        "onboard_time": 1699773029,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 768660,
+        "num": 768660,
+        "word": "T1半决赛先下一城",
+        "onboard_time": 1699778911,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 657356,
+        "num": 657356,
+        "word": "日媒批福原爱生活奢侈逃亡中国",
+        "onboard_time": 1699775431,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264779,
+        "num": 637431,
+        "word": "爸爸喝醉把儿子落地铁急坏大学生",
+        "onboard_time": 1699773809,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213688,
+        "num": 635401,
+        "word": "孙俪 婚姻里付出不被认可是悲哀的事",
+        "onboard_time": 1699777587,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 822664,
+        "num": 634286,
+        "word": "缅北",
+        "onboard_time": 1699763428,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632705,
+        "num": 632705,
+        "word": "Ruler和Faker第100次对决",
+        "onboard_time": 1699778429,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 614019,
+        "num": 614019,
+        "word": "369企图冒充TheShy",
+        "onboard_time": 1699779753,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 608959,
+        "num": 608959,
+        "word": "十年前30万买的海景房现在8万卖不掉",
+        "onboard_time": 1699778071,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549831,
+        "num": 549831,
+        "word": "369别玩兰博了",
+        "onboard_time": 1699778911,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 484247,
+        "num": 484247,
+        "word": "最真实的男主给女主喂药",
+        "onboard_time": 1699777709,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358283,
+        "num": 358283,
+        "word": "刘亦菲校园学姐风穿搭",
+        "onboard_time": 1699778911,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326468,
+        "num": 326468,
+        "word": "郭涛儿子石头都这么大了",
+        "onboard_time": 1699767151,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213939,
+        "num": 318217,
+        "word": "官方通报B太遭遇鬼秤事件",
+        "onboard_time": 1699763369,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313171,
+        "num": 313171,
+        "word": "JDG对战T1 比分预测",
+        "onboard_time": 1699772429,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299014,
+        "num": 299014,
+        "word": "安卓版本与鸿蒙不再兼容",
+        "onboard_time": 1699776089,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246003,
+        "num": 246003,
+        "word": "何炅用嘴型提示白鹿歌名",
+        "onboard_time": 1699774952,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243434,
+        "num": 243434,
+        "word": "管泽元闭嘴",
+        "onboard_time": 1699779753,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232693,
+        "num": 232693,
+        "word": "牛头怎么选的",
+        "onboard_time": 1699778671,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226937,
+        "num": 226937,
+        "word": "Faker状态太好了",
+        "onboard_time": 1699779094,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211500,
+        "num": 211500,
+        "word": "北京一公园女子剥白果臭跑游客",
+        "onboard_time": 1699776389,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201245,
+        "num": 201245,
+        "word": "罗云熙给JDG加油",
+        "onboard_time": 1699779632,
+        "rank": 27,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 185436,
+        "num": 197344,
+        "word": "苏州毒地有业主120万买的房85万没人要",
+        "onboard_time": 1699778732,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 74740,
+        "num": 195692,
+        "word": "广西一医院涉嫌贩卖出生证责任人被控制",
+        "onboard_time": 1699774231,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194725,
+        "num": 194725,
+        "word": "花儿与少年素人版",
+        "onboard_time": 1699774952,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174852,
+        "num": 174852,
+        "word": "龚俊 被迫做E",
+        "onboard_time": 1699776509,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174749,
+        "num": 174749,
+        "word": "白鹿镜头下的王鹤棣",
+        "onboard_time": 1699777050,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174106,
+        "num": 174106,
+        "word": "天蝎座的慕强是有双标含义的",
+        "onboard_time": 1699773869,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "aespa人歌舞台",
+        "onboard_time": 1699778608,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155476,
+        "num": 155476,
+        "word": "风月锦囊首支预告",
+        "onboard_time": 1699779929,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155343,
+        "num": 155343,
+        "word": "黄子韬因身体不适取消广州场演唱会",
+        "onboard_time": 1699757129,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151332,
+        "num": 151332,
+        "word": "关晓彤初冬穿搭",
+        "onboard_time": 1699777288,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135703,
+        "num": 135703,
+        "word": "浓茶和咖啡会悄悄偷走身体里的钙",
+        "onboard_time": 1699773331,
+        "rank": 38,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 130607,
+        "num": 130607,
+        "word": "菲警方正确认6具遗体是否为被绑架中国人",
+        "onboard_time": 1699780410,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123278,
+        "num": 123278,
+        "word": "女友悔婚少退15万彩礼男子持刀行凶",
+        "onboard_time": 1699763308,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117438,
+        "num": 117438,
+        "word": "民警零下10度冒雪救出5车10余人",
+        "onboard_time": 1699780107,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 115479,
+        "num": 115479,
+        "word": "官方通报南宁一医院涉嫌贩卖出生证",
+        "onboard_time": 1699778071,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113924,
+        "num": 113924,
+        "word": "鼓鼓好美",
+        "onboard_time": 1699780351,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110500,
+        "num": 110500,
+        "word": "小时代素人版",
+        "onboard_time": 1699772308,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105996,
+        "num": 105996,
+        "word": "秦岚说话像刘星分饼",
+        "onboard_time": 1699774771,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103790,
+        "num": 103790,
+        "word": "丞磊叫卢昱晓晓晓",
+        "onboard_time": 1699769009,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101987,
+        "num": 101987,
+        "word": "赵露思入围亚洲电视大奖最佳女主",
+        "onboard_time": 1699767990,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100801,
+        "num": 100801,
+        "word": "李一桐新中式闺秀妆",
+        "onboard_time": 1699773688,
+        "rank": 48,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 97748,
+        "num": 97748,
+        "word": "张真源一眼认出了印章上的管领湖山",
+        "onboard_time": 1699770990,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
+    }
+  }
+}

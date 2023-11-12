@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699778053315,
+  "endTime": 1699780539093,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2005667,
-      "num": 561263,
+      "num": 634286,
       "word": "缅北",
       "onboard_time": 1699763428,
       "rank": 23,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1429226,
+      "num": 1429226,
+      "word": "JDG对战T1",
+      "onboard_time": 1699775673,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1337799,
       "num": 381538,
       "word": "淘宝崩了",
@@ -64,6 +72,22 @@
       "word": "郭涛儿子石头都这么大了",
       "onboard_time": 1699767151,
       "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1216865,
+      "num": 1216865,
+      "word": "导播在干嘛",
+      "onboard_time": 1699777107,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1213688,
+      "num": 635401,
+      "word": "孙俪 婚姻里付出不被认可是悲哀的事",
+      "onboard_time": 1699777587,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -123,14 +147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1013020,
-      "num": 1013020,
-      "word": "JDG对战T1",
-      "onboard_time": 1699775673,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 951432,
       "num": 951432,
       "word": "民警怒斥缅北没抓到你是吧",
@@ -163,11 +179,27 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 836699,
+      "num": 836699,
+      "word": "网友称应聘蜜雪冰城被嫌26岁太大",
+      "onboard_time": 1699777709,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822755,
       "num": 822755,
       "word": "WBG战胜BLG",
       "onboard_time": 1699704938,
       "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 768660,
+      "num": 768660,
+      "word": "T1半决赛先下一城",
+      "onboard_time": 1699778911,
+      "rank": 7,
       "category": "电竞"
     },
     {
@@ -251,6 +283,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 632705,
+      "num": 632705,
+      "word": "Ruler和Faker第100次对决",
+      "onboard_time": 1699778429,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 630873,
       "num": 374654,
       "word": "fx 重聚",
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614019,
+      "num": 614019,
+      "word": "369企图冒充TheShy",
+      "onboard_time": 1699779753,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 609120,
       "num": 609120,
       "word": "一觉醒来双十一结束了",
@@ -275,19 +323,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 608959,
+      "num": 608959,
+      "word": "十年前30万买的海景房现在8万卖不掉",
+      "onboard_time": 1699778071,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591228,
-      "num": 303163,
+      "num": 313171,
       "word": "JDG对战T1 比分预测",
       "onboard_time": 1699772429,
       "rank": 14,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 585622,
-      "num": 585622,
-      "word": "导播在干嘛",
-      "onboard_time": 1699777107,
-      "rank": 27,
       "category": "电竞"
     },
     {
@@ -297,6 +345,14 @@
       "onboard_time": 1699761450,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549831,
+      "num": 549831,
+      "word": "369别玩兰博了",
+      "onboard_time": 1699778911,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 533296,
@@ -329,6 +385,14 @@
       "onboard_time": 1699766971,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484247,
+      "num": 484247,
+      "word": "最真实的男主给女主喂药",
+      "onboard_time": 1699777709,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 478027,
@@ -404,7 +468,7 @@
     },
     {
       "raw_hot": 448895,
-      "num": 583609,
+      "num": 637431,
       "word": "爸爸喝醉把儿子落地铁急坏大学生",
       "onboard_time": 1699773809,
       "rank": 28,
@@ -521,6 +585,14 @@
       "onboard_time": 1699751731,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 358283,
+      "num": 358283,
+      "word": "刘亦菲校园学姐风穿搭",
+      "onboard_time": 1699778911,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 350236,
@@ -795,6 +867,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 243434,
+      "num": 243434,
+      "word": "管泽元闭嘴",
+      "onboard_time": 1699779753,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240792,
       "num": 240792,
       "word": "李一桐新中式闺秀妆",
@@ -803,20 +883,20 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 240116,
-      "num": 160683,
-      "word": "孙俪 婚姻里付出不被认可是悲哀的事",
-      "onboard_time": 1699777587,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 232693,
+      "num": 232693,
+      "word": "牛头怎么选的",
+      "onboard_time": 1699778671,
+      "rank": 24,
+      "category": "电竞"
     },
     {
-      "raw_hot": 233522,
-      "num": 233522,
-      "word": "网友称应聘蜜雪冰城被嫌26岁太大",
-      "onboard_time": 1699777709,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 226937,
+      "num": 226937,
+      "word": "Faker状态太好了",
+      "onboard_time": 1699779094,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 226694,
@@ -947,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201245,
+      "num": 201245,
+      "word": "罗云熙给JDG加油",
+      "onboard_time": 1699779632,
+      "rank": 27,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 200897,
       "num": 200897,
       "word": "小时代素人版",
@@ -1067,20 +1155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187192,
-      "num": 187192,
-      "word": "最真实的男主给女主喂药",
-      "onboard_time": 1699777709,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185579,
       "num": 195973,
       "word": "狗子走丢17天见到主人高兴打鸣",
       "onboard_time": 1699763369,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185436,
+      "num": 197344,
+      "word": "苏州毒地有业主120万买的房85万没人要",
+      "onboard_time": 1699778732,
+      "rank": 28,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 185357,
@@ -1259,12 +1347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159418,
+      "num": 159418,
+      "word": "aespa人歌舞台",
+      "onboard_time": 1699778608,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157078,
       "num": 148184,
       "word": "Capper将暂时缺席线下活动",
       "onboard_time": 1699709554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155476,
+      "num": 155476,
+      "word": "风月锦囊首支预告",
+      "onboard_time": 1699779929,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 154850,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1699710515,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148745,
+      "num": 1094268,
+      "word": "双11当天全国揽收快递6.39亿件",
+      "onboard_time": 1699777949,
+      "rank": 2,
+      "category": "互联网"
     },
     {
       "raw_hot": 147838,
@@ -1459,6 +1571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 130607,
+      "num": 130607,
+      "word": "菲警方正确认6具遗体是否为被绑架中国人",
+      "onboard_time": 1699780410,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128453,
       "num": 128453,
       "word": "危宁 爱让高傲者低头",
@@ -1563,12 +1683,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 117438,
+      "num": 117438,
+      "word": "民警零下10度冒雪救出5车10余人",
+      "onboard_time": 1699780107,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 116053,
       "num": 116053,
       "word": "库里有帮手吗",
       "onboard_time": 1699775911,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115479,
+      "num": 115479,
+      "word": "官方通报南宁一医院涉嫌贩卖出生证",
+      "onboard_time": 1699778071,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114621,
@@ -1585,6 +1721,14 @@
       "onboard_time": 1699760849,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113924,
+      "num": 113924,
+      "word": "鼓鼓好美",
+      "onboard_time": 1699780351,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 113046,
@@ -1913,14 +2057,6 @@
       "onboard_time": 1699689929,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5523,
-      "num": 1065790,
-      "word": "双11当天全国揽收快递6.39亿件",
-      "onboard_time": 1699777949,
-      "rank": 2,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

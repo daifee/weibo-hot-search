@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 16:34:13
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 17:15:39
 </p>
 </blockquote>
 <p>
@@ -1503,6 +1503,12 @@ nobody原来是nobody cares（热度：1528602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+JDG对战T1（热度：1429226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%9C%A8%E8%81%8C%E6%9B%BE%E5%8F%9165%E7%AF%87%E9%9D%9E%E6%A0%BC%E5%8A%9B%E4%BA%A7%E5%93%81%E5%86%85%E5%AE%B9%23" target="weibo">
 孟羽童在职曾发65篇非格力产品内容（热度：1423443）
 </a>
@@ -1883,6 +1889,18 @@ GEN难道只研究了T1（热度：1221313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%94%B9%E9%80%A0%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E4%B8%A4%E4%BD%8D%E7%94%B7%E8%89%BA%E4%BA%BA%23" target="weibo">
 内娱改造最成功的两位男艺人（热度：1220047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%92%AD%E5%9C%A8%E5%B9%B2%E5%98%9B%23" target="weibo">
+导播在干嘛（热度：1216865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%20%E5%A9%9A%E5%A7%BB%E9%87%8C%E4%BB%98%E5%87%BA%E4%B8%8D%E8%A2%AB%E8%AE%A4%E5%8F%AF%E6%98%AF%E6%82%B2%E5%93%80%E7%9A%84%E4%BA%8B%23" target="weibo">
+孙俪 婚姻里付出不被认可是悲哀的事（热度：1213688）
 </a>
 </li>
 
@@ -2445,12 +2463,6 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-JDG对战T1（热度：1013020）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%E6%98%AF%E5%B1%B1%E4%B8%9C%E8%93%9D%E7%BF%94%E5%87%BA%E6%9D%A5%E7%9A%84%E5%90%97%23" target="weibo">
 金莎男友是山东蓝翔出来的吗（热度：1012976）
 </a>
@@ -3003,6 +3015,12 @@ S13四强已有三支LPL战队（热度：837933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BA%94%E8%81%98%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%AB%8C26%E5%B2%81%E5%A4%AA%E5%A4%A7%23" target="weibo">
+网友称应聘蜜雪冰城被嫌26岁太大（热度：836699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%A4%A7%E8%A1%A3%E7%9A%84%E7%A5%9E%23" target="weibo">
 张小斐 大衣的神（热度：833914）
 </a>
@@ -3437,6 +3455,12 @@ papi酱孙怡仿佛看的不是同一段素材（热度：779829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%BB%AD%E6%8E%90%E7%82%B9%E6%80%80%E5%AD%95%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A%23" target="weibo">
 女子连续掐点怀孕逃避刑罚（热度：769323）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
+T1半决赛先下一城（热度：768660）
 </a>
 </li>
 
@@ -4473,6 +4497,12 @@ EDG 出列（热度：634682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%E7%AC%AC100%E6%AC%A1%E5%AF%B9%E5%86%B3%23" target="weibo">
+Ruler和Faker第100次对决（热度：632705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%94%B6%E7%99%BE%E4%B8%87%E5%A5%BD%E5%A4%84%E8%B4%B9%23" target="weibo">
 李佳琦公司回应员工收百万好处费（热度：632360）
 </a>
@@ -4665,6 +4695,12 @@ KPOP格莱美0提名（热度：622255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23369%E4%BC%81%E5%9B%BE%E5%86%92%E5%85%85TheShy%23" target="weibo">
+369企图冒充TheShy（热度：614019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A8%81%E8%80%83%E8%99%91%E5%A4%8D%E6%B4%BB%E9%92%A2%E9%93%81%E4%BE%A0%E9%BB%91%E5%AF%A1%E5%A6%87%23" target="weibo">
 漫威考虑复活钢铁侠黑寡妇（热度：613542）
 </a>
@@ -4739,6 +4775,12 @@ ELLE直播（热度：611590）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%8F%B3%E8%82%BE%E5%B7%B2%E4%BF%9D%E4%BD%8F%23" target="weibo">
 成都被狗咬女童右肾已保住（热度：608990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D30%E4%B8%87%E4%B9%B0%E7%9A%84%E6%B5%B7%E6%99%AF%E6%88%BF%E7%8E%B0%E5%9C%A88%E4%B8%87%E5%8D%96%E4%B8%8D%E6%8E%89%23" target="weibo">
+十年前30万买的海景房现在8万卖不掉（热度：608959）
 </a>
 </li>
 
@@ -5003,12 +5045,6 @@ T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E4%BD%A0%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E5%BF%83%23" target="weibo">
 于正你好歹毒的心（热度：586329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%92%AD%E5%9C%A8%E5%B9%B2%E5%98%9B%23" target="weibo">
-导播在干嘛（热度：585622）
 </a>
 </li>
 
@@ -5381,6 +5417,12 @@ LNG输比赛多品牌直播间抗寒梗爆了（热度：557439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%92%8C%E7%94%B7%E5%8F%8B%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BC%A0%E5%90%88%E5%BD%B1%23" target="weibo">
 金莎和男友的第一张合影（热度：551158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23369%E5%88%AB%E7%8E%A9%E5%85%B0%E5%8D%9A%E4%BA%86%23" target="weibo">
+369别玩兰博了（热度：549831）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ TFBOYS十周年专辑戒指（热度：499580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E9%97%AE%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BC%9F%E5%BC%9F%E8%83%BD%E4%B8%8D%E5%9C%A8%E5%9C%B0%E4%B8%8A%E5%90%97%23" target="weibo">
 何炅问丁程鑫弟弟能不在地上吗（热度：498915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%BC%91%23" target="weibo">
-雪休（热度：498643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E7%83%A7%E7%83%A4%E5%BA%97%E7%9B%B4%E6%8E%A5%E6%94%B9%E5%90%8D%E5%8F%AB%E7%82%B8%E4%B8%B2%E5%BA%97%E5%90%A7%23" target="weibo">
-外卖烧烤店直接改名叫炸串店吧（热度：498114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%862024%E8%B7%A8%E5%B9%B4%E9%98%B5%E5%AE%B9%E5%89%AA%E5%BD%B1%E7%BA%BF%E7%B4%A2%23" target="weibo">
-江苏卫视2024跨年阵容剪影线索（热度：497348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E5%9C%A8%E8%BF%99%E7%A7%8D%E5%9C%B0%E6%96%B9%E6%B1%82%E5%A9%9A%23" target="weibo">
-谁家男主在这种地方求婚（热度：497025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%B8%AE%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A7%A3%E5%9B%B4%23" target="weibo">
-胡先煦帮迪丽热巴解围（热度：496795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%90%E5%8D%8E%E4%B8%A4%E4%BB%BB%E5%A5%B3%E4%B8%BB%E8%8B%A5%E6%9B%A6%E5%B0%8F%E5%A4%AD%E5%90%8C%E6%A1%86%23" target="weibo">
-桐华两任女主若曦小夭同框（热度：496439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E5%8F%B0%E8%AF%8D%E9%9A%BE%E5%8F%97%23" target="weibo">
-宁安如梦 台词难受（热度：496350）
 </a>
 </li>
 
