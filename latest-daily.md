@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/12 22:39:31
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/12 23:16:08
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%B8%E9%97%A8%23" target="weibo">
 裸门（热度：1816629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23" target="weibo">
+1名中国人被越南判处死刑（热度：1752716）
 </a>
 </li>
 
@@ -281,6 +287,12 @@ S13半决赛（热度：1114606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%AD%A6%E6%96%B9%E6%AD%A3%E7%A1%AE%E8%AE%A46%E5%85%B7%E9%81%97%E4%BD%93%E6%98%AF%E5%90%A6%E4%B8%BA%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 菲警方正确认6具遗体是否为被绑架中国人（热度：871259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23" target="weibo">
+爱奇艺回复白鹿（热度：827643）
 </a>
 </li>
 
@@ -483,12 +495,6 @@ JDG对战T1 比分预测（热度：591228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23" target="weibo">
-爱奇艺回复白鹿（热度：590680）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%B4%A9%E4%BA%86%23" target="weibo">
 阿里云盘崩了（热度：590143）
 </a>
@@ -657,6 +663,12 @@ Doinb评价Faker沙皇（热度：500809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%E6%97%B6%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
+Faker晋级决赛时的表情（热度：453704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%96%9D%E9%86%89%E6%8A%8A%E5%84%BF%E5%AD%90%E8%90%BD%E5%9C%B0%E9%93%81%E6%80%A5%E5%9D%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
 爸爸喝醉把儿子落地铁急坏大学生（热度：448895）
 </a>
@@ -701,12 +713,6 @@ Faker状态太好了（热度：439601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A6%86%E9%80%A0%23" target="weibo">
 白鹿妆造（热度：434732）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%E6%97%B6%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
-Faker晋级决赛时的表情（热度：429076）
 </a>
 </li>
 
@@ -777,8 +783,20 @@ Bin 相信wbg（热度：425192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8B%92%E9%A2%84%E6%B5%8BWBG%E9%9B%B6%E5%B0%81T1%23" target="weibo">
+米勒预测WBG零封T1（热度：372132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E5%AD%A6%E6%A0%A1%E5%86%AC%E5%AD%A3%E6%A0%A1%E6%9C%8D%E6%8B%86%E5%BC%80%E5%85%A8%E6%98%AF%E8%96%84%E8%86%9C%23" target="weibo">
 家长吐槽学校冬季校服拆开全是薄膜（热度：363934）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+结婚的意义是什么（热度：359011）
 </a>
 </li>
 
@@ -789,8 +807,14 @@ Bin 相信wbg（热度：425192）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-结婚的意义是什么（热度：350276）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E7%9C%BC%E9%95%9C%E6%88%92%E6%8C%87%23" target="weibo">
+徐娇眼镜戒指（热度：352043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%87%8D%E8%BF%94%E5%85%AB%E4%B8%87%E4%BA%BA%23" target="weibo">
+五月天重返八万人（热度：351818）
 </a>
 </li>
 
@@ -857,12 +881,6 @@ Bin 相信wbg（热度：425192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%82%E5%90%88%E5%86%AC%E5%A4%A9%E7%9A%84%E5%8D%83%E9%87%91%E5%8F%91%E5%9E%8B%23" target="weibo">
 适合冬天的千金发型（热度：318583）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%87%8D%E8%BF%94%E5%85%AB%E4%B8%87%E4%BA%BA%23" target="weibo">
-五月天重返八万人（热度：316104）
 </a>
 </li>
 
@@ -1059,6 +1077,12 @@ Bin 相信wbg（热度：425192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%8F%8C%E5%B1%82%E6%8C%91%E6%9F%93%E5%8F%91%E8%89%B2%23" target="weibo">
+薛之谦双层挑染发色（热度：258808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 白鹿镜头下的王鹤棣（热度：258380）
 </a>
@@ -1091,6 +1115,12 @@ Bin 感谢所有人的支持（热度：252134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%BC%E5%A6%BB%E4%B8%80%E6%97%B6%E7%88%BD%E8%BF%BD%E5%A6%BB%E7%81%AB%E8%91%AC%E5%9C%BA%23" target="weibo">
 吼妻一时爽追妻火葬场（热度：251022）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%8A%E8%99%B1%E9%80%9A%E5%B8%B8%E8%97%8F%E5%9C%A8%E5%BA%8A%E5%9E%AB%E6%88%96%E5%BC%B9%E7%B0%A7%E5%BA%8A%E4%B8%AD%23" target="weibo">
+床虱通常藏在床垫或弹簧床中（热度：250539）
 </a>
 </li>
 
@@ -1139,12 +1169,6 @@ Bin 感谢所有人的支持（热度：252134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%97%BA%E7%A7%80%E5%A6%86%23" target="weibo">
 李一桐新中式闺秀妆（热度：240792）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%8F%8C%E5%B1%82%E6%8C%91%E6%9F%93%E5%8F%91%E8%89%B2%23" target="weibo">
-薛之谦双层挑染发色（热度：240209）
 </a>
 </li>
 
@@ -1239,6 +1263,12 @@ Bin 感谢所有人的支持（热度：252134）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E8%A7%82%E4%BC%97%E5%AF%B9%E8%B0%A2%E5%8D%B1%E7%9A%84%E6%89%B9%E8%AF%84%23" target="weibo">
+张凌赫回应观众对谢危的批评（热度：217913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E6%8E%89%E8%AF%9D%E7%AD%92%E5%90%93%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%23" target="weibo">
 张远掉话筒吓出表情包（热度：216148）
 </a>
@@ -1299,12 +1329,6 @@ Bin 感谢所有人的支持（热度：252134）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E8%A7%82%E4%BC%97%E5%AF%B9%E8%B0%A2%E5%8D%B1%E7%9A%84%E6%89%B9%E8%AF%84%23" target="weibo">
-张凌赫回应观众对谢危的批评（热度：208160）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E8%A2%AB%E8%96%9B%E7%83%A8%E6%89%87%E5%B7%B4%E6%8E%8C%23" target="weibo">
 姜雪宁被薛烨扇巴掌（热度：207641）
 </a>
@@ -1349,6 +1373,12 @@ KSG（热度：204853）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%88%9D%E5%86%AC%E7%A9%BF%E6%90%AD%23" target="weibo">
 关晓彤初冬穿搭（热度：201977）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8%E4%B8%8A%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E7%9A%84%E4%BA%BA%E6%80%8E%E6%A0%B7%E4%BA%86%23" target="weibo">
+第一批用上减肥神药的人怎样了（热度：201271）
 </a>
 </li>
 
@@ -1791,6 +1821,12 @@ Capper将暂时缺席线下活动（热度：157078）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%89%E8%BE%BE%E9%A6%96%E5%A4%BA%E6%8E%92%E5%90%8D%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
+张安达首夺排名赛冠军（热度：141685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E4%BF%9D%E5%85%BB%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%843%E4%BB%B6%E4%BA%8B%23" target="weibo">
 皮肤保养最重要的3件事（热度：141395）
 </a>
@@ -1811,6 +1847,12 @@ T1 作业好抄（热度：139911）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E5%AE%9A%E5%A6%86%E7%85%A7%E5%8D%A1%E7%82%B9%23" target="weibo">
 TTG定妆照卡点（热度：139118）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%B4%A0%E9%A2%9C%E7%BB%83%E8%88%9E%23" target="weibo">
+谢娜素颜练舞（热度：137536）
 </a>
 </li>
 

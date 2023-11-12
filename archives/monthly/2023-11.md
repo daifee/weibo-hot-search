@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 22:39:31
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 23:16:08
 </p>
 </blockquote>
 <p>
@@ -1043,6 +1043,12 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B926%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2%23" target="weibo">
 父亲目睹26岁儿子连救3人牺牲（热度：1753832）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23" target="weibo">
+1名中国人被越南判处死刑（热度：1752716）
 </a>
 </li>
 
@@ -3195,6 +3201,12 @@ S13四强已有三支LPL战队（热度：837933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23" target="weibo">
+爱奇艺回复白鹿（热度：827643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%9B%BD%E5%B0%91%E5%B0%86%E6%96%87%E5%87%BB%E9%80%9D%E4%B8%96%23" target="weibo">
 开国少将文击逝世（热度：825776）
 </a>
@@ -5205,12 +5217,6 @@ HM先森家的HM（热度：590881）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23" target="weibo">
-爱奇艺回复白鹿（热度：590680）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E8%BE%9B%E5%B7%B4%E5%B1%A1%E6%AC%A1%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%8F%91%E5%B8%83%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23" target="weibo">
 知情人士称辛巴屡次在抖音发布不实信息（热度：590455）
 </a>
@@ -6005,12 +6011,6 @@ BLG和GEN决胜局（热度：521478）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%A1%AE%E5%AE%9E%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A%23" target="weibo">
 中山二院癌症患者家属称确实被踢出群聊（热度：521134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%81%AB%E9%BE%99%E6%9E%9C%E5%85%AC%E4%B8%BB%E8%A3%99%23" target="weibo">
-迪丽热巴火龙果公主裙（热度：520655）
 </a>
 </li>
 

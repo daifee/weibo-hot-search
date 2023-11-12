@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699799971211,
+  "endTime": 1699802168226,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -113,6 +113,14 @@
       "onboard_time": 1699751549,
       "rank": 3,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1752716,
+      "num": 1752716,
+      "word": "1名中国人被越南判处死刑",
+      "onboard_time": 1699800574,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1711628,
@@ -361,6 +369,14 @@
       "onboard_time": 1699780410,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827643,
+      "num": 827643,
+      "word": "爱奇艺回复白鹿",
+      "onboard_time": 1699798835,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 822755,
@@ -627,14 +643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 590680,
-      "num": 590680,
-      "word": "爱奇艺回复白鹿",
-      "onboard_time": 1699798835,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 590143,
       "num": 290193,
       "word": "阿里云盘崩了",
@@ -859,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 453704,
+      "num": 453704,
+      "word": "Faker晋级决赛时的表情",
+      "onboard_time": 1699797577,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 448895,
       "num": 637431,
       "word": "爸爸喝醉把儿子落地铁急坏大学生",
@@ -921,14 +937,6 @@
       "onboard_time": 1699762110,
       "rank": 16,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 429076,
-      "num": 429076,
-      "word": "Faker晋级决赛时的表情",
-      "onboard_time": 1699797577,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 425671,
@@ -1019,12 +1027,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372132,
+      "num": 372132,
+      "word": "米勒预测WBG零封T1",
+      "onboard_time": 1699801358,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
       "onboard_time": 1699751731,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 359011,
+      "num": 309816,
+      "word": "结婚的意义是什么",
+      "onboard_time": 1699798358,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 358283,
@@ -1035,12 +1059,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350276,
-      "num": 309816,
-      "word": "结婚的意义是什么",
-      "onboard_time": 1699798358,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 352043,
+      "num": 352043,
+      "word": "徐娇眼镜戒指",
+      "onboard_time": 1699801959,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 351818,
+      "num": 351818,
+      "word": "五月天重返八万人",
+      "onboard_time": 1699798538,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 350236,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1699764990,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 316104,
-      "num": 316104,
-      "word": "五月天重返八万人",
-      "onboard_time": 1699798538,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 315745,
@@ -1395,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258808,
+      "num": 258808,
+      "word": "薛之谦双层挑染发色",
+      "onboard_time": 1699799859,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258380,
       "num": 250021,
       "word": "白鹿镜头下的王鹤棣",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1699782931,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250539,
+      "num": 250539,
+      "word": "床虱通常藏在床垫或弹簧床中",
+      "onboard_time": 1699800756,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248494,
@@ -1505,14 +1545,6 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 240209,
-      "num": 240209,
-      "word": "薛之谦双层挑染发色",
-      "onboard_time": 1699799859,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 232799,
@@ -1635,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217913,
+      "num": 217913,
+      "word": "张凌赫回应观众对谢危的批评",
+      "onboard_time": 1699799316,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216148,
       "num": 216148,
       "word": "张远掉话筒吓出表情包",
@@ -1715,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208160,
-      "num": 195002,
-      "word": "张凌赫回应观众对谢危的批评",
-      "onboard_time": 1699799316,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207641,
       "num": 207641,
       "word": "姜雪宁被薛烨扇巴掌",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1699777288,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201271,
+      "num": 201271,
+      "word": "第一批用上减肥神药的人怎样了",
+      "onboard_time": 1699800574,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201245,
@@ -2371,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141685,
+      "num": 153763,
+      "word": "张安达首夺排名赛冠军",
+      "onboard_time": 1699800756,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141395,
       "num": 141395,
       "word": "皮肤保养最重要的3件事",
@@ -2401,6 +2449,14 @@
       "onboard_time": 1699766910,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137536,
+      "num": 137536,
+      "word": "谢娜素颜练舞",
+      "onboard_time": 1699801834,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 136607,
