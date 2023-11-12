@@ -1,13 +1,21 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699766150878,
+  "endTime": 1699767243558,
   "band_list": [
     {
-      "raw_hot": 2336841,
-      "num": 2336841,
+      "raw_hot": 2451909,
+      "num": 2451909,
       "word": "官方通报B太遭遇鬼秤事件",
       "onboard_time": 1699763369,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2005667,
+      "num": 396691,
+      "word": "缅北",
+      "onboard_time": 1699763428,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -27,14 +35,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1742747,
-      "num": 358138,
-      "word": "缅北",
-      "onboard_time": 1699763428,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1711628,
       "num": 1711628,
       "word": "奶茶店主故意加违禁药致女子中毒",
@@ -49,6 +49,14 @@
       "onboard_time": 1699710394,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1191246,
+      "num": 390581,
+      "word": "女友悔婚少退15万彩礼男子持刀行凶",
+      "onboard_time": 1699763308,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1174605,
@@ -115,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 884117,
-      "num": 353477,
-      "word": "女友悔婚少退15万彩礼男子持刀行凶",
-      "onboard_time": 1699763308,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 822755,
       "num": 822755,
       "word": "WBG战胜BLG",
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 665951,
+      "num": 665951,
+      "word": "健身杀死了我的自卑",
+      "onboard_time": 1699763369,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 646345,
       "num": 646345,
       "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
@@ -211,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 570771,
-      "num": 570771,
-      "word": "健身杀死了我的自卑",
-      "onboard_time": 1699763369,
-      "rank": 14,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 533296,
       "num": 533296,
       "word": "闲置太久的皮衣就不要穿了",
@@ -241,6 +241,14 @@
       "onboard_time": 1699754791,
       "rank": 15,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 486041,
+      "num": 486041,
+      "word": "丁程鑫小时候掉进过沸水锅",
+      "onboard_time": 1699766971,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 478027,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415538,
+      "num": 415538,
+      "word": "宁安如梦白鹿吻戏吻到缺氧",
+      "onboard_time": 1699763791,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410493,
       "num": 410493,
       "word": "皮肤科专家提醒药膏护肤不靠谱",
@@ -369,14 +385,6 @@
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 374301,
-      "num": 374301,
-      "word": "宁安如梦白鹿吻戏吻到缺氧",
-      "onboard_time": 1699763791,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 363934,
@@ -571,6 +579,14 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 245535,
+      "num": 245535,
+      "word": "湖北一医院贩卖出生证6人被批捕",
+      "onboard_time": 1699766910,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226694,
       "num": 226694,
       "word": "你好星期六下周有林俊杰",
@@ -617,6 +633,14 @@
       "onboard_time": 1699699595,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206790,
+      "num": 206790,
+      "word": "浙江选调",
+      "onboard_time": 1699765772,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 198149,
@@ -811,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164847,
+      "num": 164847,
+      "word": "张元英果汁爱心妆",
+      "onboard_time": 1699761751,
+      "rank": 34,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 164696,
       "num": 164696,
       "word": "ON群访哭了",
@@ -843,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158524,
-      "num": 158524,
-      "word": "浙江选调",
-      "onboard_time": 1699765772,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157078,
       "num": 148184,
       "word": "Capper将暂时缺席线下活动",
@@ -865,14 +889,6 @@
       "onboard_time": 1699753771,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 153491,
-      "num": 153491,
-      "word": "张元英果汁爱心妆",
-      "onboard_time": 1699761751,
-      "rank": 34,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 153398,
@@ -971,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139118,
+      "num": 139118,
+      "word": "TTG定妆照卡点",
+      "onboard_time": 1699766910,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136322,
       "num": 210661,
       "word": "长沙一女子洗澡洗出个鸟病",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1699750771,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 129280,
+      "num": 129280,
+      "word": "谢娜黑长直齐刘海",
+      "onboard_time": 1699767093,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 128266,
@@ -1163,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103378,
+      "num": 103378,
+      "word": "UFC295",
+      "onboard_time": 1699766731,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101429,
       "num": 101429,
       "word": "卖红薯的安徽小伙收到物资和转账很感动",
@@ -1203,11 +1243,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98078,
+      "num": 98078,
+      "word": "郭涛儿子石头都这么大了",
+      "onboard_time": 1699767151,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97222,
       "num": 115966,
       "word": "53岁父亲带着脑梗儿子跑网约车",
       "onboard_time": 1699712254,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97045,
+      "num": 97045,
+      "word": "9岁摄影师拍的成毅",
+      "onboard_time": 1699767151,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1217,6 +1273,14 @@
       "onboard_time": 1699704754,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94091,
+      "num": 344669,
+      "word": "没有一只羊能走出淘宝直播间",
+      "onboard_time": 1699765231,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 91632,
@@ -1323,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40978,
-      "num": 340542,
-      "word": "没有一只羊能走出淘宝直播间",
-      "onboard_time": 1699765231,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 40959,
       "num": 149672,
       "word": "林诗栋蒯曼夺得混双冠军",
@@ -1356,6 +1412,9 @@
     },
     {
       "word": "#中美元首会晤将沟通哪些重大问题#"
+    },
+    {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
     }
   ]
 }

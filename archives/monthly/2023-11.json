@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699766150878,
+  "endTime": 1699767243558,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2451909,
+      "num": 2451909,
+      "word": "官方通报B太遭遇鬼秤事件",
+      "onboard_time": 1699763369,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2450193,
       "num": 2450193,
       "word": "青岛啤酒小便工人被行拘",
@@ -632,14 +640,6 @@
       "word": "国内唯一满级女教练滑雪场身亡",
       "onboard_time": 1699584633,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2336841,
-      "num": 2336841,
-      "word": "官方通报B太遭遇鬼秤事件",
-      "onboard_time": 1699763369,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -961,6 +961,14 @@
       "onboard_time": 1699425397,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2005667,
+      "num": 396691,
+      "word": "缅北",
+      "onboard_time": 1699763428,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2004579,
@@ -1305,14 +1313,6 @@
       "onboard_time": 1699089751,
       "rank": 0,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1742747,
-      "num": 358138,
-      "word": "缅北",
-      "onboard_time": 1699763428,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1726434,
@@ -2515,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1191246,
+      "num": 390581,
+      "word": "女友悔婚少退15万彩礼男子持刀行凶",
+      "onboard_time": 1699763308,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189896,
       "num": 417743,
       "word": "第一次见女主努力努力白努力",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1699056690,
       "rank": 1,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 884117,
-      "num": 353477,
-      "word": "女友悔婚少退15万彩礼男子持刀行凶",
-      "onboard_time": 1699763308,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882209,
@@ -5539,6 +5539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665951,
+      "num": 665951,
+      "word": "健身杀死了我的自卑",
+      "onboard_time": 1699763369,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 665891,
       "num": 665891,
       "word": "Tarzan向队友道歉",
@@ -6737,14 +6745,6 @@
       "onboard_time": 1699075174,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570771,
-      "num": 570771,
-      "word": "健身杀死了我的自卑",
-      "onboard_time": 1699763369,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 570626,
@@ -8097,6 +8097,14 @@
       "onboard_time": 1698853834,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486041,
+      "num": 486041,
+      "word": "丁程鑫小时候掉进过沸水锅",
+      "onboard_time": 1699766971,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 485456,
@@ -9667,6 +9675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 415538,
+      "num": 415538,
+      "word": "宁安如梦白鹿吻戏吻到缺氧",
+      "onboard_time": 1699763791,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414730,
       "num": 919617,
       "word": "胃胀气就是要舍得饿自己",
@@ -10905,14 +10921,6 @@
       "onboard_time": 1699710698,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374301,
-      "num": 374301,
-      "word": "宁安如梦白鹿吻戏吻到缺氧",
-      "onboard_time": 1699763791,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 374171,
@@ -16219,6 +16227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245535,
+      "num": 245535,
+      "word": "湖北一医院贩卖出生证6人被批捕",
+      "onboard_time": 1699766910,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245470,
       "num": 245470,
       "word": "巨蟹座绝对不会主动第二次",
@@ -19225,6 +19241,14 @@
       "onboard_time": 1699573350,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206790,
+      "num": 206790,
+      "word": "浙江选调",
+      "onboard_time": 1699765772,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 206628,
@@ -23755,6 +23779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164847,
+      "num": 164847,
+      "word": "张元英果汁爱心妆",
+      "onboard_time": 1699761751,
+      "rank": 34,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 164807,
       "num": 164807,
       "word": "原来牛仔裤拉链是有开关的",
@@ -24387,14 +24419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158524,
-      "num": 158524,
-      "word": "浙江选调",
-      "onboard_time": 1699765772,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 158478,
       "num": 158478,
       "word": "为什么燕临不是男主",
@@ -24953,14 +24977,6 @@
       "onboard_time": 1699317580,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153491,
-      "num": 153491,
-      "word": "张元英果汁爱心妆",
-      "onboard_time": 1699761751,
-      "rank": 34,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 153398,
@@ -26547,6 +26563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139118,
+      "num": 139118,
+      "word": "TTG定妆照卡点",
+      "onboard_time": 1699766910,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139035,
       "num": 139035,
       "word": "BOYNEXTDOOR的中国零食pick",
@@ -27593,6 +27617,14 @@
       "onboard_time": 1699688609,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129280,
+      "num": 129280,
+      "word": "谢娜黑长直齐刘海",
+      "onboard_time": 1699767093,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 129174,
@@ -29603,6 +29635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103378,
+      "num": 103378,
+      "word": "UFC295",
+      "onboard_time": 1699766731,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103321,
       "num": 103321,
       "word": "早衰症的Tiffany迎来一顶美丽假发",
@@ -29979,6 +30019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98078,
+      "num": 98078,
+      "word": "郭涛儿子石头都这么大了",
+      "onboard_time": 1699767151,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97442,
       "num": 97442,
       "word": "伊朗总统将前往沙特",
@@ -30009,6 +30057,14 @@
       "onboard_time": 1698830134,
       "rank": 42,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 97045,
+      "num": 97045,
+      "word": "9岁摄影师拍的成毅",
+      "onboard_time": 1699767151,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96945,
@@ -30193,6 +30249,14 @@
       "onboard_time": 1699389792,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 94091,
+      "num": 344669,
+      "word": "没有一只羊能走出淘宝直播间",
+      "onboard_time": 1699765231,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 93664,
@@ -31979,14 +32043,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 40978,
-      "num": 340542,
-      "word": "没有一只羊能走出淘宝直播间",
-      "onboard_time": 1699765231,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 40857,
       "num": 40857,
       "word": "艾伦 谢谢你替我围上围巾",
@@ -32595,6 +32651,9 @@
     },
     {
       "word": "#习近平总书记亲切慰问因公牺牲烈士家属#"
+    },
+    {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
     }
   ]
 }
