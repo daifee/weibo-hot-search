@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699770073672,
+  "endTime": 1699770843870,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -51,20 +51,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1307002,
+      "num": 327824,
+      "word": "郭涛儿子石头都这么大了",
+      "onboard_time": 1699767151,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1191246,
       "num": 390581,
       "word": "女友悔婚少退15万彩礼男子持刀行凶",
       "onboard_time": 1699763308,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1186777,
-      "num": 327824,
-      "word": "郭涛儿子石头都这么大了",
-      "onboard_time": 1699767151,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1174605,
@@ -363,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437051,
+      "num": 244397,
+      "word": "傅首尔 女明星容貌焦虑",
+      "onboard_time": 1699769190,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434732,
       "num": 434732,
       "word": "白鹿妆造",
       "onboard_time": 1699762110,
       "rank": 16,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 425671,
+      "num": 425671,
+      "word": "油性痘痘肌不建议凉水洗脸",
+      "onboard_time": 1699767330,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 422773,
@@ -411,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 394927,
-      "num": 394927,
-      "word": "油性痘痘肌不建议凉水洗脸",
-      "onboard_time": 1699767330,
-      "rank": 7,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
@@ -427,8 +435,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 348160,
-      "num": 348160,
+      "raw_hot": 350236,
+      "num": 350236,
       "word": "赵露思入围亚洲电视大奖最佳女主",
       "onboard_time": 1699767990,
       "rank": 9,
@@ -587,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 276866,
+      "num": 276866,
+      "word": "男生电梯内戴面具举玩具刀吓坏住户",
+      "onboard_time": 1699768471,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275563,
       "num": 227968,
       "word": "芒果我可以信你一回吗",
@@ -595,11 +611,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253594,
-      "num": 232675,
-      "word": "傅首尔 女明星容貌焦虑",
-      "onboard_time": 1699769190,
-      "rank": 20,
+      "raw_hot": 262570,
+      "num": 262570,
+      "word": "沈腾解释回复消息慢的原因",
+      "onboard_time": 1699767809,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -635,6 +651,14 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 229021,
+      "num": 229021,
+      "word": "最不想一起参加面试的艺人",
+      "onboard_time": 1699768109,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226694,
       "num": 226694,
       "word": "你好星期六下周有林俊杰",
@@ -649,6 +673,14 @@
       "onboard_time": 1699757732,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222621,
+      "num": 189765,
+      "word": "陈楚生王栎鑫双人版将进酒",
+      "onboard_time": 1699770689,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 216091,
@@ -683,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211799,
-      "num": 211799,
-      "word": "男生电梯内戴面具举玩具刀吓坏住户",
-      "onboard_time": 1699768471,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "迪丽热巴是下一季花少导演",
@@ -712,22 +736,6 @@
       "word": "邓紫棋刷新大麦女歌手想看纪录",
       "onboard_time": 1699769549,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201894,
-      "num": 175446,
-      "word": "沈腾解释回复消息慢的原因",
-      "onboard_time": 1699767809,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200033,
-      "num": 174035,
-      "word": "最不想一起参加面试的艺人",
-      "onboard_time": 1699768109,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 190608,
-      "num": 135868,
+      "num": 189680,
       "word": "龚俊是真的听劝",
       "onboard_time": 1699768471,
       "rank": 31,
@@ -809,6 +817,14 @@
       "onboard_time": 1699761989,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188023,
+      "num": 189830,
+      "word": "kpop周边设计逐渐离谱",
+      "onboard_time": 1699769970,
+      "rank": 43,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 187595,
@@ -985,6 +1001,14 @@
       "onboard_time": 1699709554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154850,
+      "num": 113860,
+      "word": "虞书欣红色小猫咪妆",
+      "onboard_time": 1699769489,
+      "rank": 41,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 154793,
@@ -1171,14 +1195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126227,
-      "num": 97995,
-      "word": "虞书欣红色小猫咪妆",
-      "onboard_time": 1699769489,
-      "rank": 41,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 125226,
       "num": 125226,
       "word": "WBG晋级S13总决赛",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1699752511,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119984,
+      "num": 107020,
+      "word": "中式美学下的封建悲剧",
+      "onboard_time": 1699770452,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 119256,
@@ -1243,12 +1267,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 114621,
+      "num": 114621,
+      "word": "水神劈观排面",
+      "onboard_time": 1699770210,
+      "rank": 34,
+      "category": "游戏,音乐"
+    },
+    {
       "raw_hot": 114360,
       "num": 114360,
       "word": "我们要经历什么才会变成大人",
       "onboard_time": 1699760849,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113046,
+      "num": 113046,
+      "word": "肿眼泡化妆的正确思路",
+      "onboard_time": 1699769609,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 110578,
@@ -1353,22 +1393,6 @@
       "onboard_time": 1699746503,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98432,
-      "num": 98432,
-      "word": "肿眼泡化妆的正确思路",
-      "onboard_time": 1699769609,
-      "rank": 38,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 97712,
-      "num": 97712,
-      "word": "kpop周边设计逐渐离谱",
-      "onboard_time": 1699769970,
-      "rank": 43,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 97222,

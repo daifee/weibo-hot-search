@@ -1,0 +1,410 @@
+{
+  "runTime": 1699770843870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493184,
+        "num": 1493184,
+        "word": "官方通报B太遭遇鬼秤事件",
+        "onboard_time": 1699763369,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623998,
+        "num": 623998,
+        "word": "湖北一医院贩卖出生证6人被批捕",
+        "onboard_time": 1699766910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47892,
+        "num": 560583,
+        "word": "神十七乘组的首个天宫Vlog",
+        "onboard_time": 1699759770,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 541763,
+        "num": 541763,
+        "word": "姑娘为返款边流血边踩椭圆机",
+        "onboard_time": 1699758931,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446257,
+        "num": 446257,
+        "word": "丞磊叫卢昱晓晓晓",
+        "onboard_time": 1699769009,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436181,
+        "num": 436181,
+        "word": "健身杀死了我的自卑",
+        "onboard_time": 1699763369,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 425671,
+        "num": 425671,
+        "word": "油性痘痘肌不建议凉水洗脸",
+        "onboard_time": 1699767330,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 375952,
+        "num": 375952,
+        "word": "丁程鑫小时候掉进过沸水锅",
+        "onboard_time": 1699766971,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350236,
+        "num": 350236,
+        "word": "赵露思入围亚洲电视大奖最佳女主",
+        "onboard_time": 1699767990,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320918,
+        "num": 320918,
+        "word": "宁安如梦白鹿吻戏吻到缺氧",
+        "onboard_time": 1699763791,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1622775,
+        "num": 319116,
+        "word": "缅北",
+        "onboard_time": 1699763428,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307002,
+        "num": 307459,
+        "word": "郭涛儿子石头都这么大了",
+        "onboard_time": 1699767151,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 734238,
+        "num": 296370,
+        "word": "女友悔婚少退15万彩礼男子持刀行凶",
+        "onboard_time": 1699763308,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352946,
+        "num": 287946,
+        "word": "裸门",
+        "onboard_time": 1699751549,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 284117,
+        "num": 284117,
+        "word": "原来海棠朵朵是辛芷蕾本色出演",
+        "onboard_time": 1699756050,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276866,
+        "num": 276866,
+        "word": "男生电梯内戴面具举玩具刀吓坏住户",
+        "onboard_time": 1699768471,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274793,
+        "num": 274793,
+        "word": "王鹤棣白鹿会唱仙剑主题曲但不知道名",
+        "onboard_time": 1699767809,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271252,
+        "num": 271252,
+        "word": "黄子韬因身体不适取消广州场演唱会",
+        "onboard_time": 1699757129,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262570,
+        "num": 262570,
+        "word": "沈腾解释回复消息慢的原因",
+        "onboard_time": 1699767809,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247137,
+        "num": 247137,
+        "word": "郑恺说很对不起苗苗",
+        "onboard_time": 1699715615,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437051,
+        "num": 244397,
+        "word": "傅首尔 女明星容貌焦虑",
+        "onboard_time": 1699769190,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229021,
+        "num": 229021,
+        "word": "最不想一起参加面试的艺人",
+        "onboard_time": 1699768109,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221378,
+        "num": 221378,
+        "word": "奶茶店主故意加违禁药致女子中毒",
+        "onboard_time": 1699757190,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196285,
+        "num": 196285,
+        "word": "怀化通报食堂疑似鼠头异物调查情况",
+        "onboard_time": 1699767508,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188023,
+        "num": 189830,
+        "word": "kpop周边设计逐渐离谱",
+        "onboard_time": 1699769970,
+        "rank": 24,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 222621,
+        "num": 189765,
+        "word": "陈楚生王栎鑫双人版将进酒",
+        "onboard_time": 1699770689,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189680,
+        "num": 189680,
+        "word": "龚俊是真的听劝",
+        "onboard_time": 1699768471,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188548,
+        "num": 188548,
+        "word": "赵露思曾黎最新合照",
+        "onboard_time": 1699761450,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168924,
+        "num": 168924,
+        "word": "浙江选调",
+        "onboard_time": 1699765772,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154353,
+        "num": 154353,
+        "word": "适合冬天的千金发型",
+        "onboard_time": 1699764990,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187499,
+        "num": 154019,
+        "word": "四个人凑不出半个恋爱脑",
+        "onboard_time": 1699746323,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173826,
+        "num": 152385,
+        "word": "邓紫棋刷新大麦女歌手想看纪录",
+        "onboard_time": 1699769549,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172526,
+        "num": 140737,
+        "word": "金莎回应恋情争议",
+        "onboard_time": 1699745963,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126600,
+        "num": 126600,
+        "word": "狗子走丢17天见到主人高兴打鸣",
+        "onboard_time": 1699763369,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114621,
+        "num": 114621,
+        "word": "水神劈观排面",
+        "onboard_time": 1699770210,
+        "rank": 34,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 169431,
+        "num": 114211,
+        "word": "谢娜黑长直齐刘海",
+        "onboard_time": 1699767093,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154850,
+        "num": 113860,
+        "word": "虞书欣红色小猫咪妆",
+        "onboard_time": 1699769489,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 136438,
+        "num": 113774,
+        "word": "丞磊听张凌赫唱戒烟的反应",
+        "onboard_time": 1699768589,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113046,
+        "num": 113046,
+        "word": "肿眼泡化妆的正确思路",
+        "onboard_time": 1699769609,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107895,
+        "num": 107895,
+        "word": "广西一面包车与货车碰撞致6死1伤",
+        "onboard_time": 1699764272,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130668,
+        "num": 107567,
+        "word": "肖战vlog 罗马假日",
+        "onboard_time": 1699754611,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121858,
+        "num": 107409,
+        "word": "张艺兴演唱会伴舞回应背带裤造型",
+        "onboard_time": 1699755811,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119984,
+        "num": 107020,
+        "word": "中式美学下的封建悲剧",
+        "onboard_time": 1699770452,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106268,
+        "num": 106268,
+        "word": "Bin 迟早冠军是我的",
+        "onboard_time": 1699750829,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102580,
+        "num": 102580,
+        "word": "民警怒斥缅北没抓到你是吧",
+        "onboard_time": 1699749990,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100296,
+        "num": 100296,
+        "word": "乌布雷车祸",
+        "onboard_time": 1699762290,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97928,
+        "num": 97928,
+        "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
+        "onboard_time": 1699756890,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 93955,
+        "num": 93955,
+        "word": "张元英果汁爱心妆",
+        "onboard_time": 1699761751,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 92032,
+        "num": 92032,
+        "word": "有些癌症筛查无用甚至有害",
+        "onboard_time": 1699754791,
+        "rank": 48,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 91713,
+        "num": 91713,
+        "word": "骗子骗29万后良心发现返168元红包",
+        "onboard_time": 1699750289,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
+    }
+  }
+}
