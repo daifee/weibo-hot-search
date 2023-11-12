@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699793175862,
+  "endTime": 1699795123206,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -131,6 +131,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1570169,
+      "num": 603959,
+      "word": "阿里全系产品崩了",
+      "onboard_time": 1699789774,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1450098,
+      "num": 858827,
+      "word": "红米发文道歉",
+      "onboard_time": 1699792896,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1398092,
+      "num": 791132,
+      "word": "WBG赢了血赚输了不亏",
+      "onboard_time": 1699792413,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1373278,
       "num": 293103,
       "word": "淘宝又崩了",
@@ -211,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182003,
+      "num": 539038,
+      "word": "杨幂个人ins更新",
+      "onboard_time": 1699793259,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1174605,
       "num": 1174605,
       "word": "姑娘为返款边流血边踩椭圆机",
       "onboard_time": 1699758931,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1166284,
-      "num": 603959,
-      "word": "阿里全系产品崩了",
-      "onboard_time": 1699789774,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1166067,
@@ -371,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 760271,
-      "num": 760271,
-      "word": "WBG赢了血赚输了不亏",
-      "onboard_time": 1699792413,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 758057,
       "num": 255213,
       "word": "常州一企业主被连续约谈后自杀",
@@ -425,6 +441,14 @@
       "onboard_time": 1699784190,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 710962,
+      "num": 710962,
+      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+      "onboard_time": 1699790495,
+      "rank": 19,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 704152,
@@ -499,6 +523,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 643582,
+      "num": 643582,
+      "word": "宁安如梦",
+      "onboard_time": 1699793737,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632705,
       "num": 632705,
       "word": "Ruler和Faker第100次对决",
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 589656,
-      "num": 510548,
+      "num": 572476,
       "word": "Ruler和Faker  一墙之隔胜负之分",
       "onboard_time": 1699791875,
       "rank": 35,
@@ -587,18 +619,18 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 549531,
+      "num": 277404,
+      "word": "JDG发博告别S13",
+      "onboard_time": 1699794635,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 548931,
       "num": 548931,
       "word": "EDG剧本",
       "onboard_time": 1699789350,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 547922,
-      "num": 506652,
-      "word": "红米发文道歉",
-      "onboard_time": 1699792896,
       "rank": 13,
       "category": "电竞"
     },
@@ -649,6 +681,14 @@
       "onboard_time": 1699754791,
       "rank": 15,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 501633,
+      "num": 501633,
+      "word": "多国爆发床虱危机",
+      "onboard_time": 1699793556,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500809,
@@ -729,6 +769,14 @@
       "onboard_time": 1699753110,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 464956,
+      "num": 464956,
+      "word": "张译劝单亲家庭父女和好",
+      "onboard_time": 1699793860,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464871,
@@ -843,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419238,
-      "num": 537821,
-      "word": "浙江一大妈买海鱼红烧后半夜发绿光",
-      "onboard_time": 1699790495,
-      "rank": 19,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 416573,
       "num": 431747,
       "word": "骗子骗29万后良心发现返168元红包",
@@ -873,6 +913,14 @@
       "onboard_time": 1699747464,
       "rank": 10,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 406489,
+      "num": 406489,
+      "word": "林高远林诗栋男双夺冠",
+      "onboard_time": 1699794517,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 403197,
@@ -1123,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283072,
+      "num": 283072,
+      "word": "官方通报企业家被约谈后坠楼身亡",
+      "onboard_time": 1699794395,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283000,
       "num": 283000,
       "word": "李雪琴演活了讨好型人格",
@@ -1195,12 +1251,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271041,
+      "num": 271041,
+      "word": "龚俊 沪上小作精",
+      "onboard_time": 1699792656,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269019,
       "num": 269019,
       "word": "龚俊 被迫做E",
       "onboard_time": 1699776509,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268997,
+      "num": 268997,
+      "word": "袁姗姗感觉腿上凉嗖嗖的",
+      "onboard_time": 1699792834,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 268669,
@@ -1339,22 +1411,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 238223,
-      "num": 238223,
-      "word": "袁姗姗感觉腿上凉嗖嗖的",
-      "onboard_time": 1699792834,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235653,
-      "num": 235653,
-      "word": "龚俊 沪上小作精",
-      "onboard_time": 1699792656,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232799,
       "num": 232799,
       "word": "水牛奶牦牛奶真的比普通牛奶有营养吗",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1699787913,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230218,
+      "num": 230218,
+      "word": "阿信 四月天在说话",
+      "onboard_time": 1699793976,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 228991,
@@ -1515,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207641,
+      "num": 207641,
+      "word": "姜雪宁被薛烨扇巴掌",
+      "onboard_time": 1699794635,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206790,
       "num": 206790,
       "word": "浙江选调",
@@ -1609,6 +1681,14 @@
       "onboard_time": 1699718675,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193511,
+      "num": 193511,
+      "word": "沈羽洁北电毕业旧照",
+      "onboard_time": 1699794278,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192263,
@@ -1739,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177756,
+      "num": 177756,
+      "word": "迪丽热巴红秀十一月刊封面",
+      "onboard_time": 1699795060,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177442,
       "num": 228404,
       "word": "女子用筋膜枪买东西致手指骨折",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1699758389,
       "rank": 32,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 175395,
+      "num": 175395,
+      "word": "空姐超持久底妆",
+      "onboard_time": 1699794697,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 175233,
@@ -2395,6 +2491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109726,
+      "num": 1230975,
+      "word": "高铁列车过站自带特效",
+      "onboard_time": 1699777050,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107810,
       "num": 107810,
       "word": "军犬伙食真的好好啊",
@@ -2563,14 +2667,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 95760,
-      "num": 1230975,
-      "word": "高铁列车过站自带特效",
-      "onboard_time": 1699777050,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95044,
       "num": 1279146,
       "word": "竞燃之夜全阵容曝光",
@@ -2699,6 +2795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62981,
+      "num": 345661,
+      "word": "杨紫琼的新角色",
+      "onboard_time": 1699794035,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61230,
       "num": 859347,
       "word": "神十七乘组的首个天宫Vlog",
@@ -2713,6 +2817,14 @@
       "onboard_time": 1699724961,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54716,
+      "num": 326406,
+      "word": "沃尔沃EM90新车发布会",
+      "onboard_time": 1699792473,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 54497,
@@ -2745,14 +2857,6 @@
       "onboard_time": 1699711295,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34092,
-      "num": 326406,
-      "word": "沃尔沃EM90新车发布会",
-      "onboard_time": 1699792473,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 21326,
