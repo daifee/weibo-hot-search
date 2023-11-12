@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699831004349,
+  "endTime": 1699832053429,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841604,
+      "num": 841604,
+      "word": "冰岛24小时内1400次地震",
+      "onboard_time": 1699818615,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827643,
       "num": 827643,
       "word": "爱奇艺回复白鹿",
@@ -547,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 673407,
+      "num": 673407,
+      "word": "李佳琦双十一收入超250亿",
+      "onboard_time": 1699831286,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 665951,
       "num": 665951,
       "word": "健身杀死了我的自卑",
@@ -611,20 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614796,
-      "num": 614796,
-      "word": "冰岛24小时内1400次地震",
-      "onboard_time": 1699818615,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 613163,
       "num": 613163,
       "word": "宁安如梦连更",
       "onboard_time": 1699796617,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 611866,
+      "num": 228441,
+      "word": "考古的风终于吹到了辛芷蕾",
+      "onboard_time": 1699830142,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 609120,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 391266,
-      "num": 153255,
-      "word": "考古的风终于吹到了辛芷蕾",
-      "onboard_time": 1699830142,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 381724,
@@ -1563,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241808,
+      "num": 241808,
+      "word": "2女生捡到3千现金后报警交还",
+      "onboard_time": 1699803096,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 240792,
       "num": 240792,
       "word": "李一桐新中式闺秀妆",
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 236410,
+      "num": 236410,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699830982,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 232799,
@@ -1587,14 +1611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 231028,
-      "num": 231028,
-      "word": "2女生捡到3千现金后报警交还",
-      "onboard_time": 1699803096,
-      "rank": 23,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 231019,
       "num": 231019,
       "word": "谢危望妻石",
@@ -1611,7 +1627,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 226942,
+      "raw_hot": 228095,
       "num": 223034,
       "word": "第一批用上减肥神药的人怎样了",
       "onboard_time": 1699800574,
@@ -1947,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191925,
+      "num": 191925,
+      "word": "Faker拒绝做弱爆动作",
+      "onboard_time": 1699831224,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191882,
       "num": 160428,
       "word": "笙笙给明星拍的宝丽来",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1699805313,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182579,
+      "num": 88870,
+      "word": "五月天后遗症",
+      "onboard_time": 1699831707,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 181964,
@@ -2459,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142558,
+      "num": 142558,
+      "word": "唯有张遮是陈旧的羁绊",
+      "onboard_time": 1699827618,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142217,
       "num": 142217,
       "word": "匪我思存不敢发誓",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1699800756,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141677,
+      "num": 88138,
+      "word": "洗完头发后要立马吹干吗",
+      "onboard_time": 1699831707,
+      "rank": 31,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 141395,
@@ -2595,12 +2643,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 131720,
-      "num": 131720,
-      "word": "唯有张遮是陈旧的羁绊",
-      "onboard_time": 1699827618,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 129693,
+      "num": 129693,
+      "word": "快船五连败",
+      "onboard_time": 1699831827,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 129158,
@@ -2609,6 +2657,14 @@
       "onboard_time": 1699783770,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128737,
+      "num": 128737,
+      "word": "切尔西4比4曼城",
+      "onboard_time": 1699831165,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 128453,
@@ -2803,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112621,
+      "num": 112621,
+      "word": "57国联合谴责以色列",
+      "onboard_time": 1699808784,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 110578,
       "num": 110578,
       "word": "学校送考研生百箱橘子祝一举上岸",
@@ -2947,6 +3011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98987,
+      "num": 87785,
+      "word": "Zeus喊话TheShy",
+      "onboard_time": 1699831224,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98123,
       "num": 98123,
       "word": "此时此刻",
@@ -3027,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89849,
+      "num": 89849,
+      "word": "宋雨琦裙子上绑丝巾",
+      "onboard_time": 1699828819,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89844,
       "num": 89844,
       "word": "这个冰淇淋不太对劲",
@@ -3035,12 +3115,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 88438,
-      "num": 88438,
-      "word": "57国联合谴责以色列",
-      "onboard_time": 1699808784,
-      "rank": 33,
-      "category": "国外要闻"
+      "raw_hot": 87081,
+      "num": 87081,
+      "word": "梁靖崑说双打是王楚钦带着我打",
+      "onboard_time": 1699830202,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 86932,
@@ -3059,6 +3139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84587,
+      "num": 84587,
+      "word": "这饭包到底是谁在吃啊",
+      "onboard_time": 1699831946,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84212,
       "num": 93665,
       "word": "戍边战士身边是悬崖脚下是冰面",
@@ -3067,28 +3155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83445,
-      "num": 83445,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1699830982,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 80555,
       "num": 136753,
       "word": "乘客高铁站用AED成功抢救晕倒男子",
       "onboard_time": 1699792056,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77364,
-      "num": 66991,
-      "word": "梁靖崑说双打是王楚钦带着我打",
-      "onboard_time": 1699830202,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 76752,
@@ -3163,14 +3235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 62424,
-      "num": 62424,
-      "word": "宋雨琦裙子上绑丝巾",
-      "onboard_time": 1699828819,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61230,
       "num": 859347,
       "word": "神十七乘组的首个天宫Vlog",
@@ -3195,12 +3259,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54668,
+      "num": 686436,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54497,
       "num": 54497,
       "word": "医生显微镜下手术为男子接回断腕",
       "onboard_time": 1699745241,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54480,
+      "num": 54480,
+      "word": "负面情绪要不要跟好朋友分享",
+      "onboard_time": 1699819394,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 53441,
@@ -3211,27 +3291,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52595,
-      "num": 52595,
-      "word": "负面情绪要不要跟好朋友分享",
-      "onboard_time": 1699819394,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 50380,
       "num": 50380,
       "word": "医生4次冲进火海救出3人",
       "onboard_time": 1699745060,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41015,
-      "num": 450186,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

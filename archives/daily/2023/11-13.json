@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699831004349,
+  "endTime": 1699832053429,
   "band_list": [
     {
       "raw_hot": 1535199,
@@ -19,6 +19,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 841604,
+      "num": 841604,
+      "word": "冰岛24小时内1400次地震",
+      "onboard_time": 1699818615,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673407,
+      "num": 673407,
+      "word": "李佳琦双十一收入超250亿",
+      "onboard_time": 1699831286,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 651533,
       "num": 651533,
       "word": "多国爆发床虱危机",
@@ -27,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 614796,
-      "num": 614796,
-      "word": "冰岛24小时内1400次地震",
-      "onboard_time": 1699818615,
+      "raw_hot": 611866,
+      "num": 228441,
+      "word": "考古的风终于吹到了辛芷蕾",
+      "onboard_time": 1699830142,
       "rank": 10,
-      "category": "社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 564304,
@@ -75,16 +91,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 391266,
-      "num": 153255,
-      "word": "考古的风终于吹到了辛芷蕾",
-      "onboard_time": 1699830142,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 322883,
-      "num": 322883,
+      "raw_hot": 353420,
+      "num": 353420,
       "word": "浙江一大妈买海鱼红烧后半夜发绿光",
       "onboard_time": 1699790495,
       "rank": 18,
@@ -139,6 +147,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249228,
+      "num": 241086,
+      "word": "官方通报企业家被约谈后坠楼身亡",
+      "onboard_time": 1699794395,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241808,
+      "num": 241808,
+      "word": "2女生捡到3千现金后报警交还",
+      "onboard_time": 1699803096,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 237438,
       "num": 237438,
       "word": "张凌赫说下一部一定是现偶",
@@ -147,12 +171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231028,
-      "num": 231028,
-      "word": "2女生捡到3千现金后报警交还",
-      "onboard_time": 1699803096,
-      "rank": 23,
-      "category": "社会正能量"
+      "raw_hot": 236410,
+      "num": 236410,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699830982,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 228461,
@@ -163,20 +187,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228095,
+      "num": 192297,
+      "word": "第一批用上减肥神药的人怎样了",
+      "onboard_time": 1699800574,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227054,
       "num": 227054,
       "word": "儿媳为带公婆吃自助撒谎只要10元",
       "onboard_time": 1699796676,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226942,
-      "num": 192297,
-      "word": "第一批用上减肥神药的人怎样了",
-      "onboard_time": 1699800574,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 220853,
@@ -195,19 +219,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206596,
-      "num": 206596,
-      "word": "官方通报企业家被约谈后坠楼身亡",
-      "onboard_time": 1699794395,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198830,
       "num": 198830,
       "word": "JDG发博告别S13",
       "onboard_time": 1699794635,
       "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191925,
+      "num": 191925,
+      "word": "Faker拒绝做弱爆动作",
+      "onboard_time": 1699831224,
+      "rank": 12,
       "category": "电竞"
     },
     {
@@ -225,6 +249,14 @@
       "onboard_time": 1699805313,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182579,
+      "num": 88870,
+      "word": "五月天后遗症",
+      "onboard_time": 1699831707,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 180071,
@@ -299,6 +331,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142558,
+      "num": 142558,
+      "word": "唯有张遮是陈旧的羁绊",
+      "onboard_time": 1699827618,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141677,
+      "num": 88138,
+      "word": "洗完头发后要立马吹干吗",
+      "onboard_time": 1699831707,
+      "rank": 31,
+      "category": "美妆,知识科普"
+    },
+    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "白鹿催宁安如梦加更",
@@ -307,12 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131720,
-      "num": 131720,
-      "word": "唯有张遮是陈旧的羁绊",
-      "onboard_time": 1699827618,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 129693,
+      "num": 129693,
+      "word": "快船五连败",
+      "onboard_time": 1699831827,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128737,
+      "num": 128737,
+      "word": "切尔西4比4曼城",
+      "onboard_time": 1699831165,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 120791,
@@ -353,6 +409,14 @@
       "onboard_time": 1699775130,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112621,
+      "num": 112621,
+      "word": "57国联合谴责以色列",
+      "onboard_time": 1699808784,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 111539,
@@ -411,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88438,
-      "num": 88438,
-      "word": "57国联合谴责以色列",
-      "onboard_time": 1699808784,
-      "rank": 33,
-      "category": "国外要闻"
+      "raw_hot": 98987,
+      "num": 87785,
+      "word": "Zeus喊话TheShy",
+      "onboard_time": 1699831224,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89849,
+      "num": 89849,
+      "word": "宋雨琦裙子上绑丝巾",
+      "onboard_time": 1699828819,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 87525,
@@ -427,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87081,
+      "num": 87081,
+      "word": "梁靖崑说双打是王楚钦带着我打",
+      "onboard_time": 1699830202,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85548,
       "num": 85548,
       "word": "最真实的男主给女主喂药",
@@ -435,28 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83445,
-      "num": 83445,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1699830982,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 77364,
-      "num": 66991,
-      "word": "梁靖崑说双打是王楚钦带着我打",
-      "onboard_time": 1699830202,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 62424,
-      "num": 62424,
-      "word": "宋雨琦裙子上绑丝巾",
-      "onboard_time": 1699828819,
+      "raw_hot": 84587,
+      "num": 84587,
+      "word": "这饭包到底是谁在吃啊",
+      "onboard_time": 1699831946,
       "rank": 35,
-      "category": "艺人"
+      "category": "幽默"
     },
     {
       "raw_hot": 57859,
@@ -467,8 +531,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52595,
-      "num": 52595,
+      "raw_hot": 54668,
+      "num": 686436,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54480,
+      "num": 54480,
       "word": "负面情绪要不要跟好朋友分享",
       "onboard_time": 1699819394,
       "rank": 30,
@@ -481,14 +553,6 @@
       "onboard_time": 1699777587,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41015,
-      "num": 450186,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34868,
