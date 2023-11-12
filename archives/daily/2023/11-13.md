@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 04:17:01
+本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 04:34:07
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
+冰岛24小时内1400次地震（热度：82365）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2357%E5%9B%BD%E8%81%94%E5%90%88%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 57国联合谴责以色列（热度：72762）
 </a>
@@ -317,12 +323,6 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%99%8E%E6%89%93Faker%23" target="weibo">
 小虎打Faker（热度：57859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
-冰岛24小时内1400次地震（热度：53719）
 </a>
 </li>
 
@@ -346,7 +346,7 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E8%A6%81%E4%B8%8D%E8%A6%81%E8%B7%9F%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%88%86%E4%BA%AB%23" target="weibo">
-负面情绪要不要跟好朋友分享（热度：19399）
+负面情绪要不要跟好朋友分享（热度：21441）
 </a>
 </li>
 
