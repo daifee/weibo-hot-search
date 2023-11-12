@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 23:16:08
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/12 23:34:13
 </p>
 </blockquote>
 <p>
@@ -921,6 +921,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23" target="weibo">
+1名中国人被越南判处死刑（热度：1908415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94%23" target="weibo">
 瑞幸 罗翔（热度：1904111）
 </a>
@@ -1043,12 +1049,6 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B926%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2%23" target="weibo">
 父亲目睹26岁儿子连救3人牺牲（热度：1753832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23" target="weibo">
-1名中国人被越南判处死刑（热度：1752716）
 </a>
 </li>
 
@@ -5829,6 +5829,12 @@ WBG拿到赛点（热度：538344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8B%92%E9%A2%84%E6%B5%8BWBG%E9%9B%B6%E5%B0%81T1%23" target="weibo">
+米勒预测WBG零封T1（热度：536238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E5%92%8C%E6%9C%89%E9%92%B1%E4%BA%BA%E5%8F%96%E5%90%8D%E5%AD%97%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 普通人和有钱人取名字区别有多大（热度：535093）
 </a>
@@ -6005,12 +6011,6 @@ T1 作业好抄（热度：523311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E5%92%8CGEN%E5%86%B3%E8%83%9C%E5%B1%80%23" target="weibo">
 BLG和GEN决胜局（热度：521478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%A1%AE%E5%AE%9E%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A%23" target="weibo">
-中山二院癌症患者家属称确实被踢出群聊（热度：521134）
 </a>
 </li>
 
