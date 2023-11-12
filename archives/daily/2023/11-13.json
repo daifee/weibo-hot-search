@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699806951698,
+  "endTime": 1699809264295,
   "band_list": [
     {
       "raw_hot": 1535199,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97135,
+      "num": 97135,
+      "word": "切尔西vs曼城",
+      "onboard_time": 1699800158,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87525,
       "num": 87525,
       "word": "金莎孙丞潇曾救下被家暴女孩",
@@ -387,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57302,
-      "num": 85548,
-      "word": "切尔西vs曼城",
-      "onboard_time": 1699800158,
+      "raw_hot": 48278,
+      "num": 48278,
+      "word": "小虎打Faker",
+      "onboard_time": 1699791156,
       "rank": 49,
-      "category": "体育"
+      "category": "电竞"
     },
     {
       "raw_hot": 34868,

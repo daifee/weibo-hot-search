@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 00:35:51
+本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 01:14:24
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
+切尔西vs曼城（热度：97135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E6%9B%BE%E6%95%91%E4%B8%8B%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%A9%23" target="weibo">
 金莎孙丞潇曾救下被家暴女孩（热度：87525）
 </a>
@@ -303,8 +309,8 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23" target="weibo">
-切尔西vs曼城（热度：57302）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%99%8E%E6%89%93Faker%23" target="weibo">
+小虎打Faker（热度：48278）
 </a>
 </li>
 
