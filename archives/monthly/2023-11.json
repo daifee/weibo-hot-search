@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699824842352,
+  "endTime": 1699827348920,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -24435,6 +24435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "冰岛24小时内1400次地震",
+      "onboard_time": 1699818615,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171521,
       "num": 171521,
       "word": "巴以冲突满一个月",
@@ -28465,14 +28473,6 @@
       "onboard_time": 1698806851,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134498,
-      "num": 134498,
-      "word": "冰岛24小时内1400次地震",
-      "onboard_time": 1699818615,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134360,
@@ -34291,6 +34291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14875,
+      "num": 144991,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14759,
       "num": 252208,
       "word": "快手电商晚6点的好生活",
@@ -34329,14 +34337,6 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 9885,
-      "num": 144991,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
