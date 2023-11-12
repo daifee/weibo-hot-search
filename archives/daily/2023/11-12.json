@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699756104049,
+  "endTime": 1699756726765,
   "band_list": [
     {
       "raw_hot": 1899684,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 526104,
+      "num": 526104,
+      "word": "张艺兴演唱会伴舞回应背带裤造型",
+      "onboard_time": 1699755811,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 478027,
       "num": 478027,
       "word": "羽绒服",
@@ -155,20 +163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472310,
+      "num": 425274,
+      "word": "肖战vlog 罗马假日",
+      "onboard_time": 1699754611,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 468833,
+      "num": 468833,
+      "word": "韩女拍照",
+      "onboard_time": 1699753110,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 464871,
       "num": 344443,
       "word": "金莎 我是我人生剧本里的大女主",
       "onboard_time": 1699714416,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 457310,
-      "num": 457310,
-      "word": "韩女拍照",
-      "onboard_time": 1699753110,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 448800,
@@ -195,27 +211,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 439488,
-      "num": 439488,
-      "word": "张艺兴演唱会伴舞回应背带裤造型",
-      "onboard_time": 1699755811,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 425274,
-      "num": 425274,
-      "word": "肖战vlog 罗马假日",
-      "onboard_time": 1699754611,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422773,
       "num": 422773,
       "word": "父亲开17.5米长货车接女儿拉1个行李箱",
       "onboard_time": 1699743798,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416573,
+      "num": 431747,
+      "word": "骗子骗29万后良心发现返168元红包",
+      "onboard_time": 1699750289,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -227,20 +235,20 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 404817,
+      "num": 404817,
+      "word": "有些癌症筛查无用甚至有害",
+      "onboard_time": 1699754791,
+      "rank": 15,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 402849,
       "num": 402849,
       "word": "陈楚生 莫干山音乐节",
       "onboard_time": 1699716456,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 391661,
-      "num": 431747,
-      "word": "骗子骗29万后良心发现返168元红包",
-      "onboard_time": 1699750289,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363934,
@@ -299,12 +307,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 294512,
-      "num": 294512,
-      "word": "有些癌症筛查无用甚至有害",
-      "onboard_time": 1699754791,
-      "rank": 15,
-      "category": "健康医疗,知识科普"
+      "raw_hot": 297241,
+      "num": 140098,
+      "word": "原来海棠朵朵是辛芷蕾本色出演",
+      "onboard_time": 1699756050,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290023,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177156,
+      "num": 177156,
+      "word": "日本大熊猫粉丝团来川看香香",
+      "onboard_time": 1699755210,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175233,
       "num": 220611,
       "word": "Xiaohu首次晋级世界赛决赛",
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139210,
+      "num": 139210,
+      "word": "没想到狗的鼻子居然是开口的",
+      "onboard_time": 1699756290,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136322,
       "num": 210661,
       "word": "长沙一女子洗澡洗出个鸟病",
@@ -627,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134345,
-      "num": 160347,
-      "word": "日本大熊猫粉丝团来川看香香",
-      "onboard_time": 1699755210,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 134792,
+      "num": 134792,
+      "word": "以爱为营妆造",
+      "onboard_time": 1699756469,
+      "rank": 32,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 133227,
@@ -641,6 +665,14 @@
       "onboard_time": 1699754013,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133157,
+      "num": 133157,
+      "word": "aespa winter音中直拍",
+      "onboard_time": 1699755692,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 132835,
@@ -665,14 +697,6 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125627,
-      "num": 125627,
-      "word": "aespa winter音中直拍",
-      "onboard_time": 1699755692,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 125226,
@@ -723,20 +747,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114005,
+      "num": 114005,
+      "word": "DRX基地 风水宝地",
+      "onboard_time": 1699756532,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106150,
       "num": 105033,
       "word": "撒贝宁关晓彤跳广场舞",
       "onboard_time": 1699720771,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105789,
-      "num": 105789,
-      "word": "原来海棠朵朵是辛芷蕾本色出演",
-      "onboard_time": 1699756050,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 105329,
@@ -859,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76379,
+      "num": 102137,
+      "word": "弟弟骑车去路边幸好哥哥冲过去拦下",
+      "onboard_time": 1699756592,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71465,
       "num": 96589,
       "word": "曼联vs卢顿",
@@ -915,7 +947,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20768,
+      "raw_hot": 21326,
       "num": 894971,
       "word": "江山如画",
       "onboard_time": 1699689929,

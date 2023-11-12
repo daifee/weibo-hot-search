@@ -1,0 +1,410 @@
+{
+  "runTime": 1699756726765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 936241,
+        "num": 936241,
+        "word": "民警怒斥缅北没抓到你是吧",
+        "onboard_time": 1699749990,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597400,
+        "num": 597400,
+        "word": "郑恺说很对不起苗苗",
+        "onboard_time": 1699715615,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21326,
+        "num": 573719,
+        "word": "江山如画",
+        "onboard_time": 1699689929,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1714990,
+        "num": 573628,
+        "word": "裸门",
+        "onboard_time": 1699751549,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 895706,
+        "num": 573609,
+        "word": "金莎回应恋情争议",
+        "onboard_time": 1699745963,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572340,
+        "num": 572340,
+        "word": "四个人凑不出半个恋爱脑",
+        "onboard_time": 1699746323,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548933,
+        "num": 548933,
+        "word": "一觉醒来双十一结束了",
+        "onboard_time": 1699752331,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 526104,
+        "num": 526104,
+        "word": "张艺兴演唱会伴舞回应背带裤造型",
+        "onboard_time": 1699755811,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 468833,
+        "num": 468833,
+        "word": "韩女拍照",
+        "onboard_time": 1699753110,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 416573,
+        "num": 416573,
+        "word": "骗子骗29万后良心发现返168元红包",
+        "onboard_time": 1699750289,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472310,
+        "num": 411839,
+        "word": "肖战vlog 罗马假日",
+        "onboard_time": 1699754611,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404817,
+        "num": 404817,
+        "word": "有些癌症筛查无用甚至有害",
+        "onboard_time": 1699754791,
+        "rank": 11,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 377914,
+        "num": 377914,
+        "word": "Bin 迟早冠军是我的",
+        "onboard_time": 1699750829,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 349960,
+        "num": 349960,
+        "word": "闲置太久的皮衣就不要穿了",
+        "onboard_time": 1699746624,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266070,
+        "num": 266070,
+        "word": "首位歼10女飞行员余旭牺牲7年了",
+        "onboard_time": 1699750289,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 260635,
+        "num": 260635,
+        "word": "林俊杰南京 达尔文",
+        "onboard_time": 1699751731,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248677,
+        "num": 248677,
+        "word": "王鹤棣腰力",
+        "onboard_time": 1699751971,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228562,
+        "num": 228562,
+        "word": "父亲开17.5米长货车接女儿拉1个行李箱",
+        "onboard_time": 1699743798,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221081,
+        "num": 221081,
+        "word": "关晓彤王牌控诉华晨宇",
+        "onboard_time": 1699716517,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219964,
+        "num": 219964,
+        "word": "14岁女儿连夜报警称父母被骗卖房",
+        "onboard_time": 1699716995,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363700,
+        "num": 216483,
+        "word": "家长吐槽学校冬季校服拆开全是薄膜",
+        "onboard_time": 1699751731,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205266,
+        "num": 205266,
+        "word": "张艺兴说去国外见了吴世勋",
+        "onboard_time": 1699713094,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177156,
+        "num": 177156,
+        "word": "日本大熊猫粉丝团来川看香香",
+        "onboard_time": 1699755210,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168111,
+        "num": 168111,
+        "word": "淘宝崩了",
+        "onboard_time": 1699710394,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165253,
+        "num": 165253,
+        "word": "杨幂羊羔毛外套",
+        "onboard_time": 1699752331,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156834,
+        "num": 156834,
+        "word": "王多多 WBG究竟是怎样的一支队伍",
+        "onboard_time": 1699748728,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150446,
+        "num": 150446,
+        "word": "刘亦菲 阿布扎比",
+        "onboard_time": 1699707396,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142732,
+        "num": 142732,
+        "word": "李雪琴演活了讨好型人格",
+        "onboard_time": 1699746984,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141521,
+        "num": 141521,
+        "word": "王星越 小孩哥",
+        "onboard_time": 1699715492,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140272,
+        "num": 140272,
+        "word": "洗发水",
+        "onboard_time": 1699753771,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 297241,
+        "num": 140098,
+        "word": "原来海棠朵朵是辛芷蕾本色出演",
+        "onboard_time": 1699756050,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139210,
+        "num": 139210,
+        "word": "没想到狗的鼻子居然是开口的",
+        "onboard_time": 1699756290,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134792,
+        "num": 134792,
+        "word": "以爱为营妆造",
+        "onboard_time": 1699756469,
+        "rank": 32,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 133157,
+        "num": 133157,
+        "word": "aespa winter音中直拍",
+        "onboard_time": 1699755692,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504493,
+        "num": 132991,
+        "word": "常州一企业主被连续约谈后自杀",
+        "onboard_time": 1699743858,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009787,
+        "num": 132926,
+        "word": "校长强奸猥亵22名学生事发学校已撤并",
+        "onboard_time": 1699747224,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132808,
+        "num": 132808,
+        "word": "十多年的网购老炮都沉默了",
+        "onboard_time": 1699746024,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130133,
+        "num": 130133,
+        "word": "谁教胡彦斌这么评论的",
+        "onboard_time": 1699747285,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128113,
+        "num": 128113,
+        "word": "WBG战胜BLG",
+        "onboard_time": 1699704938,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88702,
+        "num": 121442,
+        "word": "温州永嘉民房坍塌已致3人遇难",
+        "onboard_time": 1699744339,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120890,
+        "num": 120890,
+        "word": "成毅演绎国风设计",
+        "onboard_time": 1699755331,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121942,
+        "num": 120842,
+        "word": "匪我思存不敢发誓",
+        "onboard_time": 1699751851,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120298,
+        "num": 120298,
+        "word": "女生皮肤超好的总结",
+        "onboard_time": 1699716517,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120092,
+        "num": 120092,
+        "word": "台剧此时此刻",
+        "onboard_time": 1699754013,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117144,
+        "num": 117144,
+        "word": "国色芳华 大女主剧",
+        "onboard_time": 1699710333,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116579,
+        "num": 116579,
+        "word": "秦岚日剧女主即视感",
+        "onboard_time": 1699751068,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 114005,
+        "word": "DRX基地 风水宝地",
+        "onboard_time": 1699756532,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109660,
+        "num": 109660,
+        "word": "情绪稳定是男人最好的医美",
+        "onboard_time": 1699718073,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80483,
+        "num": 103967,
+        "word": "美拉德配色的交叉潮有多震撼",
+        "onboard_time": 1699754251,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76379,
+        "num": 102137,
+        "word": "弟弟骑车去路边幸好哥哥冲过去拦下",
+        "onboard_time": 1699756592,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记亲切慰问因公牺牲烈士家属#"
+    }
+  }
+}
