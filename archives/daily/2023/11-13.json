@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699816402250,
+  "endTime": 1699817640426,
   "band_list": [
     {
       "raw_hot": 1535199,
@@ -433,6 +433,14 @@
       "onboard_time": 1699777587,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16013,
+      "num": 17479,
+      "word": "与折耳根的故事",
+      "onboard_time": 1699817056,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 9516,
