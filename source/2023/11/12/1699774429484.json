@@ -1,0 +1,410 @@
+{
+  "runTime": 1699774429484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503721,
+        "num": 1503721,
+        "word": "今年双十一冷清的原因找到了",
+        "onboard_time": 1699771470,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1055249,
+        "num": 1055249,
+        "word": "官方通报B太遭遇鬼秤事件",
+        "onboard_time": 1699763369,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34083,
+        "num": 966651,
+        "word": "2023加油壁纸",
+        "onboard_time": 1699759291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902565,
+        "num": 902565,
+        "word": "真正致癌的是这3种鱼",
+        "onboard_time": 1699773029,
+        "rank": 3,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 613915,
+        "num": 613915,
+        "word": "男生电梯内戴面具举玩具刀吓坏住户",
+        "onboard_time": 1699768471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371600,
+        "num": 371600,
+        "word": "姑娘为返款边流血边踩椭圆机",
+        "onboard_time": 1699758931,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345032,
+        "num": 345032,
+        "word": "功能性美甲",
+        "onboard_time": 1699771050,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 329484,
+        "num": 329484,
+        "word": "黄子韬因身体不适取消广州场演唱会",
+        "onboard_time": 1699757129,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319237,
+        "num": 319237,
+        "word": "丞磊叫卢昱晓晓晓",
+        "onboard_time": 1699769009,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303497,
+        "num": 303497,
+        "word": "赵露思入围亚洲电视大奖最佳女主",
+        "onboard_time": 1699767990,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1314375,
+        "num": 303440,
+        "word": "缅北",
+        "onboard_time": 1699763428,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006220,
+        "num": 303317,
+        "word": "郭涛儿子石头都这么大了",
+        "onboard_time": 1699767151,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591228,
+        "num": 303163,
+        "word": "JDG对战T1 比分预测",
+        "onboard_time": 1699772429,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 584320,
+        "num": 303102,
+        "word": "女友悔婚少退15万彩礼男子持刀行凶",
+        "onboard_time": 1699763308,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303033,
+        "num": 303033,
+        "word": "谢危 苦果亦是果",
+        "onboard_time": 1699772129,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278470,
+        "num": 278470,
+        "word": "张真源一眼认出了印章上的管领湖山",
+        "onboard_time": 1699770990,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246447,
+        "num": 246447,
+        "word": "宁安如梦白鹿吻戏吻到缺氧",
+        "onboard_time": 1699763791,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240792,
+        "num": 240792,
+        "word": "李一桐新中式闺秀妆",
+        "onboard_time": 1699773688,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 234505,
+        "num": 234505,
+        "word": "最不想一起参加面试的艺人",
+        "onboard_time": 1699768109,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160203,
+        "num": 218444,
+        "word": "2个半月宝宝第1次见太爷爷笑出了声",
+        "onboard_time": 1699773209,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245401,
+        "num": 216372,
+        "word": "傅首尔 女明星容貌焦虑",
+        "onboard_time": 1699769190,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214217,
+        "num": 214217,
+        "word": "花少为什么这段只放在花絮",
+        "onboard_time": 1699773331,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205487,
+        "num": 205487,
+        "word": "天蝎座的慕强是有双标含义的",
+        "onboard_time": 1699773869,
+        "rank": 22,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 204195,
+        "num": 204195,
+        "word": "我要逆风去",
+        "onboard_time": 1699773630,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201720,
+        "num": 201720,
+        "word": "油性痘痘肌不建议凉水洗脸",
+        "onboard_time": 1699767330,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 200896,
+        "num": 200896,
+        "word": "沈腾解释回复消息慢的原因",
+        "onboard_time": 1699767809,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197533,
+        "num": 197533,
+        "word": "裸门",
+        "onboard_time": 1699751549,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195694,
+        "num": 195694,
+        "word": "hi6番外篇",
+        "onboard_time": 1699773450,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144380,
+        "num": 191047,
+        "word": "爸爸喝醉把儿子落地铁急坏大学生",
+        "onboard_time": 1699773809,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116871,
+        "num": 188237,
+        "word": "狗子走丢17天见到主人高兴打鸣",
+        "onboard_time": 1699763369,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188180,
+        "num": 188180,
+        "word": "陈楚生王栎鑫双人版将进酒",
+        "onboard_time": 1699770689,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185357,
+        "num": 185357,
+        "word": "胡歌为周深新歌打call",
+        "onboard_time": 1699773209,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184134,
+        "num": 184134,
+        "word": "小时代素人版",
+        "onboard_time": 1699772308,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182528,
+        "num": 182528,
+        "word": "健身杀死了我的自卑",
+        "onboard_time": 1699763369,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 178200,
+        "num": 178200,
+        "word": "任素汐演技",
+        "onboard_time": 1699772789,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103424,
+        "num": 168447,
+        "word": "湖北一医院贩卖出生证6人被批捕",
+        "onboard_time": 1699766910,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167135,
+        "num": 167135,
+        "word": "浓茶和咖啡会悄悄偷走身体里的钙",
+        "onboard_time": 1699773331,
+        "rank": 36,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 162047,
+        "num": 162047,
+        "word": "丁程鑫小时候掉进过沸水锅",
+        "onboard_time": 1699766971,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161265,
+        "num": 161265,
+        "word": "还以为蛋糕倒了",
+        "onboard_time": 1699772969,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110547,
+        "num": 159602,
+        "word": "广西一医院涉嫌贩卖出生证责任人被控制",
+        "onboard_time": 1699774231,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158827,
+        "num": 158827,
+        "word": "原来海棠朵朵是辛芷蕾本色出演",
+        "onboard_time": 1699756050,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153959,
+        "num": 153959,
+        "word": "kpop周边设计逐渐离谱",
+        "onboard_time": 1699769970,
+        "rank": 41,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 134572,
+        "num": 134572,
+        "word": "王鹤棣白鹿会唱仙剑主题曲但不知道名",
+        "onboard_time": 1699767809,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133245,
+        "num": 133245,
+        "word": "中式美学下的封建悲剧",
+        "onboard_time": 1699770452,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128453,
+        "word": "危宁 爱让高傲者低头",
+        "onboard_time": 1699773989,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119919,
+        "num": 119919,
+        "word": "虞书欣红色小猫咪妆",
+        "onboard_time": 1699769489,
+        "rank": 45,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 109570,
+        "num": 109570,
+        "word": "龚俊是真的听劝",
+        "onboard_time": 1699768471,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95395,
+        "num": 95395,
+        "word": "奶茶店主故意加违禁药致女子中毒",
+        "onboard_time": 1699757190,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95317,
+        "num": 95317,
+        "word": "水神劈观排面",
+        "onboard_time": 1699770210,
+        "rank": 48,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 88651,
+        "num": 95292,
+        "word": "健身真的可以改变颜值吗",
+        "onboard_time": 1699771470,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记亲切慰问因公牺牲烈士家属#"
+    }
+  }
+}
