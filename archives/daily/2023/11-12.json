@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699770843870,
+  "endTime": 1699773405283,
   "band_list": [
     {
       "raw_hot": 2451909,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 959026,
+      "num": 959026,
+      "word": "今年双十一冷清的原因找到了",
+      "onboard_time": 1699771470,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 951432,
       "num": 951432,
       "word": "民警怒斥缅北没抓到你是吧",
@@ -169,6 +177,14 @@
       "onboard_time": 1699756050,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 704011,
+      "num": 704011,
+      "word": "男生电梯内戴面具举玩具刀吓坏住户",
+      "onboard_time": 1699768471,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688373,
@@ -251,12 +267,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 522596,
+      "num": 283792,
+      "word": "真正致癌的是这3种鱼",
+      "onboard_time": 1699773029,
+      "rank": 13,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 507935,
       "num": 507935,
       "word": "有些癌症筛查无用甚至有害",
       "onboard_time": 1699754791,
       "rank": 15,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 502704,
+      "num": 281726,
+      "word": "JDG对战T1 比分预测",
+      "onboard_time": 1699772429,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 486041,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341547,
+      "num": 341547,
+      "word": "功能性美甲",
+      "onboard_time": 1699771050,
+      "rank": 7,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 340340,
       "num": 340340,
       "word": "吴楚一开始带货了",
@@ -481,6 +521,14 @@
       "onboard_time": 1699764990,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 315745,
+      "num": 315745,
+      "word": "张真源一眼认出了印章上的管领湖山",
+      "onboard_time": 1699770990,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 307945,
@@ -595,12 +643,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 276866,
-      "num": 276866,
-      "word": "男生电梯内戴面具举玩具刀吓坏住户",
-      "onboard_time": 1699768471,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 276934,
+      "num": 276934,
+      "word": "最不想一起参加面试的艺人",
+      "onboard_time": 1699768109,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 275563,
@@ -609,6 +657,14 @@
       "onboard_time": 1699711835,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275314,
+      "num": 275314,
+      "word": "谢危 苦果亦是果",
+      "onboard_time": 1699772129,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 262570,
@@ -651,14 +707,6 @@
       "category": "美食,知识科普"
     },
     {
-      "raw_hot": 229021,
-      "num": 229021,
-      "word": "最不想一起参加面试的艺人",
-      "onboard_time": 1699768109,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226694,
       "num": 226694,
       "word": "你好星期六下周有林俊杰",
@@ -676,7 +724,7 @@
     },
     {
       "raw_hot": 222621,
-      "num": 189765,
+      "num": 204492,
       "word": "陈楚生王栎鑫双人版将进酒",
       "onboard_time": 1699770689,
       "rank": 25,
@@ -739,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200897,
+      "num": 200897,
+      "word": "小时代素人版",
+      "onboard_time": 1699772308,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198149,
       "num": 198149,
       "word": "邓紫棋广州演唱会门票秒售罄",
@@ -761,6 +817,14 @@
       "onboard_time": 1699718675,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192263,
+      "num": 192263,
+      "word": "任素汐演技",
+      "onboard_time": 1699772789,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 192245,
@@ -836,7 +900,7 @@
     },
     {
       "raw_hot": 185579,
-      "num": 185579,
+      "num": 195973,
       "word": "狗子走丢17天见到主人高兴打鸣",
       "onboard_time": 1699763369,
       "rank": 27,
@@ -931,6 +995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171085,
+      "num": 171085,
+      "word": "还以为蛋糕倒了",
+      "onboard_time": 1699772969,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168643,
       "num": 168643,
       "word": "张杰用女儿的名字命名麦克风",
@@ -995,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160131,
+      "num": 160131,
+      "word": "胡歌为周深新歌打call",
+      "onboard_time": 1699773209,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157078,
       "num": 148184,
       "word": "Capper将暂时缺席线下活动",
@@ -1004,7 +1084,7 @@
     },
     {
       "raw_hot": 154850,
-      "num": 113860,
+      "num": 135796,
       "word": "虞书欣红色小猫咪妆",
       "onboard_time": 1699769489,
       "rank": 41,
@@ -1139,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135907,
+      "num": 135907,
+      "word": "中式美学下的封建悲剧",
+      "onboard_time": 1699770452,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134708,
       "num": 134708,
       "word": "aespa winter音中直拍",
@@ -1203,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123804,
+      "num": 105457,
+      "word": "花少为什么这段只放在花絮",
+      "onboard_time": 1699773331,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120928,
       "num": 120928,
       "word": "邓紫棋你成为了谁的幸福好甜",
@@ -1217,14 +1313,6 @@
       "onboard_time": 1699752511,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 119984,
-      "num": 107020,
-      "word": "中式美学下的封建悲剧",
-      "onboard_time": 1699770452,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 119256,
@@ -1299,6 +1387,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 106729,
+      "num": 100289,
+      "word": "宁安如梦里的爱恨姐妹情",
+      "onboard_time": 1699773149,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106641,
+      "num": 106641,
+      "word": "2个半月宝宝第1次见太爷爷笑出了声",
+      "onboard_time": 1699773209,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106150,
       "num": 105033,
       "word": "撒贝宁关晓彤跳广场舞",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1699754251,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104876,
+      "num": 104876,
+      "word": "浓茶和咖啡会悄悄偷走身体里的钙",
+      "onboard_time": 1699773331,
+      "rank": 43,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 104646,
@@ -1395,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97879,
+      "num": 97879,
+      "word": "健身真的可以改变颜值吗",
+      "onboard_time": 1699771470,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 97222,
       "num": 115966,
       "word": "53岁父亲带着脑梗儿子跑网约车",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1699735693,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84212,
+      "num": 93665,
+      "word": "戍边战士身边是悬崖脚下是冰面",
+      "onboard_time": 1699772370,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76379,
