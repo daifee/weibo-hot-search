@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699799116489,
+  "endTime": 1699799971211,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1182003,
-      "num": 642552,
+      "num": 645038,
       "word": "杨幂个人ins更新",
       "onboard_time": 1699793259,
       "rank": 10,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961353,
+      "num": 961353,
+      "word": "陈乔恩 和身边的朋友渐行渐远",
+      "onboard_time": 1699796617,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951432,
       "num": 951432,
       "word": "民警怒斥缅北没抓到你是吧",
@@ -347,14 +355,6 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 898773,
-      "num": 898773,
-      "word": "陈乔恩 和身边的朋友渐行渐远",
-      "onboard_time": 1699796617,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 871259,
       "num": 871259,
       "word": "菲警方正确认6具遗体是否为被绑架中国人",
@@ -369,6 +369,14 @@
       "onboard_time": 1699704938,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 816799,
+      "num": 816799,
+      "word": "儿媳为带公婆吃自助撒谎只要10元",
+      "onboard_time": 1699796676,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 788831,
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 701769,
-      "num": 701769,
-      "word": "儿媳为带公婆吃自助撒谎只要10元",
-      "onboard_time": 1699796676,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 688373,
       "num": 688373,
       "word": "公开通缉缅北电诈犯罪集团重要头目",
@@ -513,6 +513,14 @@
       "onboard_time": 1699713094,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 675272,
+      "num": 675272,
+      "word": "张凌赫说下一部一定是现偶",
+      "onboard_time": 1699797877,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 674777,
@@ -552,14 +560,6 @@
       "word": "宁安如梦",
       "onboard_time": 1699793737,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 642613,
-      "num": 642613,
-      "word": "张凌赫说下一部一定是现偶",
-      "onboard_time": 1699797877,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -625,6 +625,14 @@
       "onboard_time": 1699772429,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 590680,
+      "num": 590680,
+      "word": "爱奇艺回复白鹿",
+      "onboard_time": 1699798835,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 590143,
@@ -915,6 +923,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 429076,
+      "num": 429076,
+      "word": "Faker晋级决赛时的表情",
+      "onboard_time": 1699797577,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 425671,
       "num": 425671,
       "word": "油性痘痘肌不建议凉水洗脸",
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370449,
-      "num": 242061,
-      "word": "Faker晋级决赛时的表情",
-      "onboard_time": 1699797577,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 363934,
       "num": 297983,
       "word": "家长吐槽学校冬季校服拆开全是薄膜",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1699778911,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350276,
+      "num": 309816,
+      "word": "结婚的意义是什么",
+      "onboard_time": 1699798358,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 350236,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1699764990,
       "rank": 16,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 316104,
+      "num": 316104,
+      "word": "五月天重返八万人",
+      "onboard_time": 1699798538,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 315745,
@@ -1355,14 +1379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265990,
-      "num": 265990,
-      "word": "爱奇艺回复白鹿",
-      "onboard_time": 1699798835,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1699789478,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260988,
-      "num": 260988,
-      "word": "五月天重返八万人",
-      "onboard_time": 1699798538,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 258380,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1699715134,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 252495,
-      "num": 252495,
-      "word": "结婚的意义是什么",
-      "onboard_time": 1699798358,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 252134,
@@ -1475,6 +1475,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 244014,
+      "num": 233648,
+      "word": "补气血做好这三点",
+      "onboard_time": 1699798418,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243434,
       "num": 243434,
       "word": "管泽元闭嘴",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 240209,
+      "num": 240209,
+      "word": "薛之谦双层挑染发色",
+      "onboard_time": 1699799859,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 232799,
@@ -1545,6 +1561,14 @@
       "onboard_time": 1699711715,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226461,
+      "num": 228295,
+      "word": "徐杰三分",
+      "onboard_time": 1699798835,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 226120,
@@ -1683,20 +1707,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210606,
-      "num": 210606,
-      "word": "补气血做好这三点",
-      "onboard_time": 1699798418,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "迪丽热巴是下一季花少导演",
       "onboard_time": 1699699595,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208160,
+      "num": 195002,
+      "word": "张凌赫回应观众对谢危的批评",
+      "onboard_time": 1699799316,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 207641,
@@ -1715,12 +1739,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205353,
-      "num": 228295,
-      "word": "徐杰三分",
-      "onboard_time": 1699798835,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 204853,
+      "num": 204853,
+      "word": "KSG",
+      "onboard_time": 1699799797,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 204195,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1699711592,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164357,
+      "num": 164357,
+      "word": "张安达决赛打出147",
+      "onboard_time": 1699799859,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 164077,
