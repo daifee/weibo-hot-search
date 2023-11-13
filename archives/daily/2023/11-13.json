@@ -1,7 +1,23 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699832053429,
+  "endTime": 1699838137798,
   "band_list": [
+    {
+      "raw_hot": 3009969,
+      "num": 3009969,
+      "word": "李佳琦双十一收入超250亿",
+      "onboard_time": 1699831286,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1698119,
+      "num": 1698119,
+      "word": "洗完头发后要立马吹干吗",
+      "onboard_time": 1699831707,
+      "rank": 31,
+      "category": "美妆,知识科普"
+    },
     {
       "raw_hot": 1535199,
       "num": 1535199,
@@ -9,6 +25,14 @@
       "onboard_time": 1699800574,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249341,
+      "num": 1249341,
+      "word": "我来甘露寺只做一件事",
+      "onboard_time": 1699835793,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 916586,
@@ -27,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673407,
-      "num": 673407,
-      "word": "李佳琦双十一收入超250亿",
-      "onboard_time": 1699831286,
-      "rank": 3,
-      "category": "社会新闻,网红"
+      "raw_hot": 651985,
+      "num": 358659,
+      "word": "林允公开分享打水光针过程",
+      "onboard_time": 1699833029,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 651533,
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 611866,
-      "num": 228441,
+      "num": 318588,
       "word": "考古的风终于吹到了辛芷蕾",
       "onboard_time": 1699830142,
       "rank": 10,
@@ -60,11 +84,35 @@
     },
     {
       "raw_hot": 543308,
-      "num": 196351,
+      "num": 229820,
       "word": "阿里全系产品崩了",
       "onboard_time": 1699789774,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 478144,
+      "num": 478144,
+      "word": "Faker拒绝做弱爆动作",
+      "onboard_time": 1699831224,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 470163,
+      "num": 349765,
+      "word": "马化腾称阿里云不如腾讯云截图是假的",
+      "onboard_time": 1699834651,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 469457,
+      "num": 334860,
+      "word": "韩国中小学也开始流行萝卜刀",
+      "onboard_time": 1699837234,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 463459,
@@ -91,6 +139,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 417312,
+      "num": 417312,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699830982,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 408281,
+      "num": 408281,
+      "word": "南方气温将再下一个台阶",
+      "onboard_time": 1699836693,
+      "rank": 8,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 373615,
+      "num": 167901,
+      "word": "马立奥 回长沙真开心",
+      "onboard_time": 1699836815,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353420,
       "num": 353420,
       "word": "浙江一大妈买海鱼红烧后半夜发绿光",
@@ -104,6 +176,22 @@
       "word": "陈乔恩 和身边的朋友渐行渐远",
       "onboard_time": 1699796617,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316942,
+      "num": 316942,
+      "word": "张远一把抱住了陆虎",
+      "onboard_time": 1699836214,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 314247,
+      "num": 314247,
+      "word": "王鹤棣 你们好六团孤立嘉宾",
+      "onboard_time": 1699835616,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -139,11 +227,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 264446,
+      "num": 225154,
+      "word": "小奶猫一怒之下怒了一下",
+      "onboard_time": 1699834472,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260222,
       "num": 260222,
       "word": "红米发文道歉",
       "onboard_time": 1699792896,
       "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 252449,
+      "num": 252449,
+      "word": "Zeus喊话TheShy",
+      "onboard_time": 1699831224,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -171,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236410,
-      "num": 236410,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1699830982,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 235537,
+      "num": 235537,
+      "word": "全昭旻RM正式下车",
+      "onboard_time": 1699834472,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 228461,
@@ -203,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222275,
+      "num": 206092,
+      "word": "李雪琴叫王鹤棣白鹿时总时太太",
+      "onboard_time": 1699837053,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220853,
       "num": 220853,
       "word": "宁安如梦连更",
@@ -219,6 +331,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206659,
+      "num": 206659,
+      "word": "男生收到生日惊喜撤回起床气",
+      "onboard_time": 1699837234,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206653,
+      "num": 206653,
+      "word": "薛之谦把大屏镜头给了绿巨人",
+      "onboard_time": 1699834532,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198830,
       "num": 198830,
       "word": "JDG发博告别S13",
@@ -227,12 +355,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191925,
-      "num": 191925,
-      "word": "Faker拒绝做弱爆动作",
-      "onboard_time": 1699831224,
-      "rank": 12,
-      "category": "电竞"
+      "raw_hot": 192694,
+      "num": 192694,
+      "word": "狗狗睡觉前都知道给自己盖好被子",
+      "onboard_time": 1699835793,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 185333,
@@ -252,7 +380,7 @@
     },
     {
       "raw_hot": 182579,
-      "num": 88870,
+      "num": 134906,
       "word": "五月天后遗症",
       "onboard_time": 1699831707,
       "rank": 30,
@@ -267,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176522,
+      "num": 176522,
+      "word": "57国联合谴责以色列",
+      "onboard_time": 1699808784,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 171077,
       "num": 171077,
       "word": "369企图冒充TheShy",
@@ -275,12 +411,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "白桃星座",
+      "onboard_time": 1699832550,
+      "rank": 28,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 169329,
       "num": 169329,
       "word": "五月天重返八万人",
       "onboard_time": 1699798538,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "男子四千米高山骑行偶遇野生大熊猫",
+      "onboard_time": 1699837173,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 163593,
+      "num": 163593,
+      "word": "姜雪宁 逆天改命",
+      "onboard_time": 1699832127,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 162678,
@@ -299,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "于适穿制服",
+      "onboard_time": 1699834111,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154779,
       "num": 154779,
       "word": "快进到相信TheShy",
@@ -313,6 +481,22 @@
       "onboard_time": 1699804532,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149515,
+      "num": 149515,
+      "word": "MANNER 小程序进不去",
+      "onboard_time": 1699835793,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 147914,
+      "num": 147914,
+      "word": "cityline崩了",
+      "onboard_time": 1699838012,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 143439,
@@ -339,20 +523,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141677,
-      "num": 88138,
-      "word": "洗完头发后要立马吹干吗",
-      "onboard_time": 1699831707,
-      "rank": 31,
-      "category": "美妆,知识科普"
-    },
-    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "白鹿催宁安如梦加更",
       "onboard_time": 1699790974,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131060,
+      "num": 131060,
+      "word": "这饭包到底是谁在吃啊",
+      "onboard_time": 1699831946,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129928,
+      "num": 129928,
+      "word": "德约科维奇八夺年终世界第一",
+      "onboard_time": 1699838012,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 129693,
@@ -387,6 +579,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119956,
+      "num": 119956,
+      "word": "故乡别来无恙 成年人的恋爱",
+      "onboard_time": 1699835492,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119235,
+      "num": 119235,
+      "word": "代号鸢左慈 此生不换",
+      "onboard_time": 1699837114,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117044,
       "num": 117044,
       "word": "床虱通常藏在床垫或弹簧床中",
@@ -409,14 +617,6 @@
       "onboard_time": 1699775130,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112621,
-      "num": 112621,
-      "word": "57国联合谴责以色列",
-      "onboard_time": 1699808784,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 111539,
@@ -475,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98987,
-      "num": 87785,
-      "word": "Zeus喊话TheShy",
-      "onboard_time": 1699831224,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 89849,
       "num": 89849,
       "word": "宋雨琦裙子上绑丝巾",
@@ -515,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84587,
-      "num": 84587,
-      "word": "这饭包到底是谁在吃啊",
-      "onboard_time": 1699831946,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 64281,
+      "num": 1340856,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57859,
@@ -529,14 +721,6 @@
       "onboard_time": 1699791156,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 54668,
-      "num": 686436,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54480,

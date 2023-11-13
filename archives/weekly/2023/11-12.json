@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699832053429,
+  "endTime": 1699838137798,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -33,6 +33,14 @@
       "onboard_time": 1699784970,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3009969,
+      "num": 3009969,
+      "word": "李佳琦双十一收入超250亿",
+      "onboard_time": 1699831286,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2451909,
@@ -129,6 +137,14 @@
       "onboard_time": 1699757190,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1698119,
+      "num": 1698119,
+      "word": "洗完头发后要立马吹干吗",
+      "onboard_time": 1699831707,
+      "rank": 31,
+      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 1611700,
@@ -233,6 +249,14 @@
       "onboard_time": 1699785876,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1249341,
+      "num": 1249341,
+      "word": "我来甘露寺只做一件事",
+      "onboard_time": 1699835793,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1195166,
@@ -555,14 +579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 673407,
-      "num": 673407,
-      "word": "李佳琦双十一收入超250亿",
-      "onboard_time": 1699831286,
-      "rank": 3,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 665951,
       "num": 665951,
       "word": "健身杀死了我的自卑",
@@ -577,6 +593,14 @@
       "onboard_time": 1699785458,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 651985,
+      "num": 358659,
+      "word": "林允公开分享打水光针过程",
+      "onboard_time": 1699833029,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 646345,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 611866,
-      "num": 228441,
+      "num": 318588,
       "word": "考古的风终于吹到了辛芷蕾",
       "onboard_time": 1699830142,
       "rank": 10,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478144,
+      "num": 478144,
+      "word": "Faker拒绝做弱爆动作",
+      "onboard_time": 1699831224,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 478027,
       "num": 478027,
       "word": "羽绒服",
@@ -865,6 +897,22 @@
       "onboard_time": 1699754611,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470163,
+      "num": 349765,
+      "word": "马化腾称阿里云不如腾讯云截图是假的",
+      "onboard_time": 1699834651,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 469457,
+      "num": 334860,
+      "word": "韩国中小学也开始流行萝卜刀",
+      "onboard_time": 1699837234,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 468833,
@@ -1003,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417312,
+      "num": 417312,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1699830982,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416573,
       "num": 431747,
       "word": "骗子骗29万后良心发现返168元红包",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1699747464,
       "rank": 10,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 408281,
+      "num": 408281,
+      "word": "南方气温将再下一个台阶",
+      "onboard_time": 1699836693,
+      "rank": 8,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 406489,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1699785215,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373615,
+      "num": 167901,
+      "word": "马立奥 回长沙真开心",
+      "onboard_time": 1699836815,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 363934,
@@ -1187,11 +1259,27 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 316942,
+      "num": 316942,
+      "word": "张远一把抱住了陆虎",
+      "onboard_time": 1699836214,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 315745,
       "num": 315745,
       "word": "张真源一眼认出了印章上的管领湖山",
       "onboard_time": 1699770990,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314247,
+      "num": 314247,
+      "word": "王鹤棣 你们好六团孤立嘉宾",
+      "onboard_time": 1699835616,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1435,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264446,
+      "num": 225154,
+      "word": "小奶猫一怒之下怒了一下",
+      "onboard_time": 1699834472,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -1488,6 +1584,14 @@
       "word": "crisp 最后一局完成了救赎",
       "onboard_time": 1699715134,
       "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 252449,
+      "num": 252449,
+      "word": "Zeus喊话TheShy",
+      "onboard_time": 1699831224,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -1587,12 +1691,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 236410,
-      "num": 236410,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1699830982,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 235537,
+      "num": 235537,
+      "word": "全昭旻RM正式下车",
+      "onboard_time": 1699834472,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 232799,
@@ -1688,6 +1792,14 @@
       "word": "陈楚生王栎鑫双人版将进酒",
       "onboard_time": 1699770689,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222275,
+      "num": 206092,
+      "word": "李雪琴叫王鹤棣白鹿时总时太太",
+      "onboard_time": 1699837053,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1835,6 +1947,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206659,
+      "num": 206659,
+      "word": "男生收到生日惊喜撤回起床气",
+      "onboard_time": 1699837234,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206653,
+      "num": 206653,
+      "word": "薛之谦把大屏镜头给了绿巨人",
+      "onboard_time": 1699834532,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204853,
       "num": 204853,
       "word": "KSG",
@@ -1939,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192694,
+      "num": 192694,
+      "word": "狗狗睡觉前都知道给自己盖好被子",
+      "onboard_time": 1699835793,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192622,
       "num": 192622,
       "word": "CBA",
@@ -1961,14 +2097,6 @@
       "onboard_time": 1699758452,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191925,
-      "num": 191925,
-      "word": "Faker拒绝做弱爆动作",
-      "onboard_time": 1699831224,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 191882,
@@ -2084,7 +2212,7 @@
     },
     {
       "raw_hot": 182579,
-      "num": 88870,
+      "num": 134906,
       "word": "五月天后遗症",
       "onboard_time": 1699831707,
       "rank": 30,
@@ -2121,6 +2249,14 @@
       "onboard_time": 1699763610,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 176522,
+      "num": 176522,
+      "word": "57国联合谴责以色列",
+      "onboard_time": 1699808784,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 175410,
@@ -2211,6 +2347,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "白桃星座",
+      "onboard_time": 1699832550,
+      "rank": 28,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "男子四千米高山骑行偶遇野生大熊猫",
+      "onboard_time": 1699837173,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 168643,
       "num": 168643,
       "word": "张杰用女儿的名字命名麦克风",
@@ -2299,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163593,
+      "num": 163593,
+      "word": "姜雪宁 逆天改命",
+      "onboard_time": 1699832127,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163309,
       "num": 163309,
       "word": "想要皮肤好要学会正确养肤",
@@ -2353,6 +2513,14 @@
       "onboard_time": 1699709554,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "于适穿制服",
+      "onboard_time": 1699834111,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155476,
@@ -2443,12 +2611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149515,
+      "num": 149515,
+      "word": "MANNER 小程序进不去",
+      "onboard_time": 1699835793,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148745,
       "num": 4289090,
       "word": "双11当天全国揽收快递6.39亿件",
       "onboard_time": 1699777949,
       "rank": 2,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147914,
+      "num": 147914,
+      "word": "cityline崩了",
+      "onboard_time": 1699838012,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147838,
@@ -2513,14 +2697,6 @@
       "onboard_time": 1699800756,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141677,
-      "num": 88138,
-      "word": "洗完头发后要立马吹干吗",
-      "onboard_time": 1699831707,
-      "rank": 31,
-      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 141395,
@@ -2643,6 +2819,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 131060,
+      "num": 131060,
+      "word": "这饭包到底是谁在吃啊",
+      "onboard_time": 1699831946,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129928,
+      "num": 129928,
+      "word": "德约科维奇八夺年终世界第一",
+      "onboard_time": 1699838012,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 129693,
       "num": 129693,
       "word": "快船五连败",
@@ -2731,12 +2923,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119956,
+      "num": 119956,
+      "word": "故乡别来无恙 成年人的恋爱",
+      "onboard_time": 1699835492,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119256,
       "num": 151645,
       "word": "月入2万活得像月入2千",
       "onboard_time": 1699695568,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119235,
+      "num": 119235,
+      "word": "代号鸢左慈 此生不换",
+      "onboard_time": 1699837114,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 118835,
@@ -2857,14 +3065,6 @@
       "onboard_time": 1699777050,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112621,
-      "num": 112621,
-      "word": "57国联合谴责以色列",
-      "onboard_time": 1699808784,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 110578,
@@ -3011,14 +3211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98987,
-      "num": 87785,
-      "word": "Zeus喊话TheShy",
-      "onboard_time": 1699831224,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 98123,
       "num": 98123,
       "word": "此时此刻",
@@ -3139,14 +3331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84587,
-      "num": 84587,
-      "word": "这饭包到底是谁在吃啊",
-      "onboard_time": 1699831946,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84212,
       "num": 93665,
       "word": "戍边战士身边是悬崖脚下是冰面",
@@ -3227,6 +3411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64281,
+      "num": 1340856,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62981,
       "num": 346597,
       "word": "杨紫琼的新角色",
@@ -3257,14 +3449,6 @@
       "onboard_time": 1699792473,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 54668,
-      "num": 686436,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54497,

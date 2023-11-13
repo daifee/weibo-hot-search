@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699832053429,
+  "endTime": 1699838137798,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -393,6 +393,14 @@
       "onboard_time": 1699602152,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3009969,
+      "num": 3009969,
+      "word": "李佳琦双十一收入超250亿",
+      "onboard_time": 1699831286,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 3005329,
@@ -1523,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1698119,
+      "num": 1698119,
+      "word": "洗完头发后要立马吹干吗",
+      "onboard_time": 1699831707,
+      "rank": 31,
+      "category": "美妆,知识科普"
+    },
+    {
       "raw_hot": 1697695,
       "num": 1697695,
       "word": "北大宿舍聊天 婚姻残酷真相",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1699096596,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1249341,
+      "num": 1249341,
+      "word": "我来甘露寺只做一件事",
+      "onboard_time": 1699835793,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1246840,
@@ -5843,14 +5867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 673407,
-      "num": 673407,
-      "word": "李佳琦双十一收入超250亿",
-      "onboard_time": 1699831286,
-      "rank": 3,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 673362,
       "num": 329988,
       "word": "一中国公民在澳大利亚不幸溺亡",
@@ -6073,6 +6089,14 @@
       "onboard_time": 1699350756,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 651985,
+      "num": 358659,
+      "word": "林允公开分享打水光针过程",
+      "onboard_time": 1699833029,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 650457,
@@ -6604,7 +6628,7 @@
     },
     {
       "raw_hot": 611866,
-      "num": 228441,
+      "num": 318588,
       "word": "考古的风终于吹到了辛芷蕾",
       "onboard_time": 1699830142,
       "rank": 10,
@@ -8795,6 +8819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478144,
+      "num": 478144,
+      "word": "Faker拒绝做弱爆动作",
+      "onboard_time": 1699831224,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 478100,
       "num": 278482,
       "word": "王一博被香奈儿CEO夸的笑容",
@@ -9035,6 +9067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470163,
+      "num": 349765,
+      "word": "马化腾称阿里云不如腾讯云截图是假的",
+      "onboard_time": 1699834651,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 470132,
       "num": 470132,
       "word": "张栋梁披荆斩棘逆天改命",
@@ -9049,6 +9089,14 @@
       "onboard_time": 1699499193,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 469457,
+      "num": 334860,
+      "word": "韩国中小学也开始流行萝卜刀",
+      "onboard_time": 1699837234,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 469138,
@@ -10587,6 +10635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408281,
+      "num": 408281,
+      "word": "南方气温将再下一个台阶",
+      "onboard_time": 1699836693,
+      "rank": 8,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 408053,
       "num": 366930,
       "word": "小虎 抽象",
@@ -11625,6 +11681,14 @@
       "onboard_time": 1699080390,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373615,
+      "num": 167901,
+      "word": "马立奥 回长沙真开心",
+      "onboard_time": 1699836815,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 373404,
@@ -13611,6 +13675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316942,
+      "num": 316942,
+      "word": "张远一把抱住了陆虎",
+      "onboard_time": 1699836214,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316769,
       "num": 316769,
       "word": "惊奇队长2开分",
@@ -13665,6 +13737,14 @@
       "onboard_time": 1699452416,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314247,
+      "num": 314247,
+      "word": "王鹤棣 你们好六团孤立嘉宾",
+      "onboard_time": 1699835616,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 313943,
@@ -16019,6 +16099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 264446,
+      "num": 225154,
+      "word": "小奶猫一怒之下怒了一下",
+      "onboard_time": 1699834472,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264389,
       "num": 1394459,
       "word": "闲置太久的鞋子就不要穿了",
@@ -16705,6 +16793,14 @@
       "onboard_time": 1699526673,
       "rank": 23,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 252449,
+      "num": 252449,
+      "word": "Zeus喊话TheShy",
+      "onboard_time": 1699831224,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 252268,
@@ -17841,6 +17937,14 @@
       "onboard_time": 1699269395,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235537,
+      "num": 235537,
+      "word": "全昭旻RM正式下车",
+      "onboard_time": 1699834472,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 235474,
@@ -19001,6 +19105,14 @@
       "onboard_time": 1698910299,
       "rank": 42,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 222275,
+      "num": 206092,
+      "word": "李雪琴叫王鹤棣白鹿时总时太太",
+      "onboard_time": 1699837053,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 222070,
@@ -20425,6 +20537,22 @@
       "onboard_time": 1699765772,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206659,
+      "num": 206659,
+      "word": "男生收到生日惊喜撤回起床气",
+      "onboard_time": 1699837234,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206653,
+      "num": 206653,
+      "word": "薛之谦把大屏镜头给了绿巨人",
+      "onboard_time": 1699834532,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 206628,
@@ -22211,6 +22339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192694,
+      "num": 192694,
+      "word": "狗狗睡觉前都知道给自己盖好被子",
+      "onboard_time": 1699835793,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192669,
       "num": 192669,
       "word": "加沙地带超3500名儿童死亡",
@@ -22312,14 +22448,6 @@
       "word": "第五人格记忆余烬",
       "onboard_time": 1699326931,
       "rank": 43,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 191925,
-      "num": 191925,
-      "word": "Faker拒绝做弱爆动作",
-      "onboard_time": 1699831224,
-      "rank": 12,
       "category": "电竞"
     },
     {
@@ -23452,7 +23580,7 @@
     },
     {
       "raw_hot": 182579,
-      "num": 88870,
+      "num": 134906,
       "word": "五月天后遗症",
       "onboard_time": 1699831707,
       "rank": 30,
@@ -24059,6 +24187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176522,
+      "num": 176522,
+      "word": "57国联合谴责以色列",
+      "onboard_time": 1699808784,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 176343,
       "num": 176343,
       "word": "LE SSERAFIM观看洛城德比",
@@ -24595,6 +24731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "白桃星座",
+      "onboard_time": 1699228771,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 170541,
       "num": 170541,
       "word": "娜扎妆容",
@@ -24713,6 +24857,14 @@
       "onboard_time": 1699060470,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "男子四千米高山骑行偶遇野生大熊猫",
+      "onboard_time": 1699837173,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 168838,
@@ -25337,6 +25489,14 @@
       "onboard_time": 1699616909,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163593,
+      "num": 163593,
+      "word": "姜雪宁 逆天改命",
+      "onboard_time": 1699832127,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 163364,
@@ -26091,6 +26251,14 @@
       "category": "电影,幽默"
     },
     {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "于适穿制服",
+      "onboard_time": 1699834111,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156217,
       "num": 213624,
       "word": "光与夜之恋",
@@ -26739,14 +26907,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 150883,
-      "num": 150883,
-      "word": "白桃星座",
-      "onboard_time": 1699228771,
-      "rank": 32,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 150843,
       "num": 150843,
       "word": "美国演员工会罢工结束",
@@ -26897,6 +27057,14 @@
       "onboard_time": 1698853476,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149515,
+      "num": 149515,
+      "word": "MANNER 小程序进不去",
+      "onboard_time": 1699835793,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 149354,
@@ -27137,6 +27305,14 @@
       "onboard_time": 1699428280,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147914,
+      "num": 147914,
+      "word": "cityline崩了",
+      "onboard_time": 1699838012,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147838,
@@ -27849,14 +28025,6 @@
       "onboard_time": 1699800756,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141677,
-      "num": 88138,
-      "word": "洗完头发后要立马吹干吗",
-      "onboard_time": 1699831707,
-      "rank": 31,
-      "category": "美妆,知识科普"
     },
     {
       "raw_hot": 141540,
@@ -29035,6 +29203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131060,
+      "num": 131060,
+      "word": "这饭包到底是谁在吃啊",
+      "onboard_time": 1699831946,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131021,
       "num": 194180,
       "word": "虞书欣复古莓果妆",
@@ -29137,6 +29313,14 @@
       "onboard_time": 1699077573,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129928,
+      "num": 129928,
+      "word": "德约科维奇八夺年终世界第一",
+      "onboard_time": 1699838012,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 129900,
@@ -30163,6 +30347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 119956,
+      "num": 119956,
+      "word": "故乡别来无恙 成年人的恋爱",
+      "onboard_time": 1699835492,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119943,
       "num": 119943,
       "word": "高校运动会团体赛失误全员惊现一字马",
@@ -30217,6 +30409,14 @@
       "onboard_time": 1698855991,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119235,
+      "num": 119235,
+      "word": "代号鸢左慈 此生不换",
+      "onboard_time": 1699837114,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119187,
@@ -30729,14 +30929,6 @@
       "onboard_time": 1699714416,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112621,
-      "num": 112621,
-      "word": "57国联合谴责以色列",
-      "onboard_time": 1699808784,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 112596,
@@ -31699,14 +31891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 98987,
-      "num": 87785,
-      "word": "Zeus喊话TheShy",
-      "onboard_time": 1699831224,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 98942,
       "num": 451809,
       "word": "京东采销为了最后28小时有多拼",
@@ -32409,14 +32593,6 @@
       "onboard_time": 1699371453,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84587,
-      "num": 84587,
-      "word": "这饭包到底是谁在吃啊",
-      "onboard_time": 1699831946,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 84248,
@@ -33211,6 +33387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64281,
+      "num": 1340856,
+      "word": "雪天8大健康提醒",
+      "onboard_time": 1699797999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63919,
       "num": 348411,
       "word": "甄嬛传又联名了",
@@ -33513,14 +33697,6 @@
       "onboard_time": 1699792473,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 54668,
-      "num": 686436,
-      "word": "雪天8大健康提醒",
-      "onboard_time": 1699797999,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54497,
