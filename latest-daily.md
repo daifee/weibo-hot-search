@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/14 00:23:02 ~ 2023/11/14 03:14:14
+本榜单时间：2023/11/14 00:23:02 ~ 2023/11/14 03:34:02
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ AG（热度：146031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA%E8%A6%81%E7%8B%AC%E8%87%AA%E5%9B%9E%E5%91%B3%E7%A6%BB%E5%BC%80%E7%9A%84%E4%BA%BA%E7%9A%84%E7%97%95%E8%BF%B9%23" target="weibo">
 留下的人要独自回味离开的人的痕迹（热度：25645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E8%83%BD%E7%94%A8%E8%BF%99%E7%A7%8D%E5%BF%83%E6%80%81%E8%BF%BD%E6%98%9F%E7%9A%84%23" target="weibo">
+羡慕能用这种心态追星的（热度：13292）
 </a>
 </li>
 
