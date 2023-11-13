@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699859785782,
+  "endTime": 1699860855284,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1944059,
+      "num": 1944059,
+      "word": "女子失业被妈妈雇佣当司机日薪20",
+      "onboard_time": 1699856492,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1908415,
       "num": 1908415,
       "word": "1名中国人被越南判处死刑",
@@ -185,14 +193,6 @@
       "onboard_time": 1699789774,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1607094,
-      "num": 1607094,
-      "word": "女子失业被妈妈雇佣当司机日薪20",
-      "onboard_time": 1699856492,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1604700,
@@ -427,6 +427,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 1046471,
+      "num": 1046471,
+      "word": "被正式确诊为衣领综合征",
+      "onboard_time": 1699856854,
+      "rank": 28,
+      "category": "社会新闻,知识科普"
+    },
+    {
       "raw_hot": 1042815,
       "num": 1042815,
       "word": "网友称应聘蜜雪冰城被嫌26岁太大",
@@ -571,14 +579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 786603,
-      "num": 786603,
-      "word": "被正式确诊为衣领综合征",
-      "onboard_time": 1699856854,
-      "rank": 28,
-      "category": "社会新闻,知识科普"
-    },
-    {
       "raw_hot": 768660,
       "num": 768660,
       "word": "T1半决赛先下一城",
@@ -681,6 +681,14 @@
       "onboard_time": 1699768471,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701177,
+      "num": 701177,
+      "word": "古人寿命虽短却没有35岁的概念",
+      "onboard_time": 1699859132,
+      "rank": 13,
+      "category": "读书作家"
     },
     {
       "raw_hot": 688373,
@@ -835,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 601998,
+      "num": 601998,
+      "word": "时代少年团新歌的制作人是小鬼",
+      "onboard_time": 1699858893,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 598341,
       "num": 598341,
       "word": "红白歌会名单",
@@ -963,14 +979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 540471,
-      "num": 540471,
-      "word": "时代少年团新歌的制作人是小鬼",
-      "onboard_time": 1699858893,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 539365,
       "num": 539365,
       "word": "韩国警方否认权志龙销毁证据",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1699844913,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 488149,
+      "num": 188757,
+      "word": "林心如接大尺度戏会考虑霍建华感受",
+      "onboard_time": 1699860215,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 486041,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1699797577,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 452076,
+      "num": 452076,
+      "word": "中国千万净资产家庭达211万户",
+      "onboard_time": 1699859917,
+      "rank": 9,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 448895,
@@ -1403,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 388912,
+      "num": 388912,
+      "word": "泉州一原区长水上餐厅落水身亡",
+      "onboard_time": 1699857032,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384837,
       "num": 384837,
       "word": "时空中的绘旅人 艾因",
@@ -1443,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372736,
-      "num": 372736,
-      "word": "泉州一原区长水上餐厅落水身亡",
-      "onboard_time": 1699857032,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "陈奕迅认识李荣浩也是靠朋友拉群",
@@ -1483,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361308,
-      "num": 361308,
-      "word": "古人寿命虽短却没有35岁的概念",
-      "onboard_time": 1699859132,
-      "rank": 13,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 359011,
       "num": 309816,
       "word": "结婚的意义是什么",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1699798538,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 350250,
+      "num": 350250,
+      "word": "扣扣搜搜地花了很多钱",
+      "onboard_time": 1699858957,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 350236,
@@ -1603,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334857,
+      "num": 334857,
+      "word": "景甜一声哥哥把许凯叫懵了",
+      "onboard_time": 1699858294,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333130,
       "num": 670800,
       "word": "梁靖崑男单冠军",
@@ -1659,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319904,
+      "num": 319904,
+      "word": "魏晨 父母子女互为无价之宝",
+      "onboard_time": 1699860272,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318583,
       "num": 318583,
       "word": "适合冬天的千金发型",
@@ -1683,8 +1723,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309973,
-      "num": 309973,
+      "raw_hot": 311448,
+      "num": 311448,
       "word": "WBG 四号种子的逆袭",
       "onboard_time": 1699855293,
       "rank": 24,
@@ -1913,14 +1953,6 @@
       "onboard_time": 1699759291,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 277922,
-      "num": 277922,
-      "word": "景甜一声哥哥把许凯叫懵了",
-      "onboard_time": 1699858294,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 277733,
@@ -2163,6 +2195,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 244281,
+      "num": 244281,
+      "word": "冰糖帝王蟹",
+      "onboard_time": 1699859613,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 244014,
       "num": 233648,
       "word": "补气血做好这三点",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1699778671,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231998,
+      "num": 231998,
+      "word": "潍坊一中学百余名学生疑食物中毒",
+      "onboard_time": 1699858957,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 231227,
@@ -2353,14 +2401,6 @@
       "onboard_time": 1699770689,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222464,
-      "num": 222464,
-      "word": "扣扣搜搜地花了很多钱",
-      "onboard_time": 1699858957,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 222136,
@@ -2499,14 +2539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212949,
-      "num": 212949,
-      "word": "潍坊一中学百余名学生疑食物中毒",
-      "onboard_time": 1699858957,
-      "rank": 26,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 212868,
       "num": 212868,
       "word": "怀化通报食堂疑似鼠头异物调查情况",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1699747285,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212709,
+      "num": 188745,
+      "word": "高颅顶半扎高马尾",
+      "onboard_time": 1699860155,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 212037,
@@ -2619,12 +2659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203421,
+      "num": 203421,
+      "word": "双十一全网消费11386亿元",
+      "onboard_time": 1699860518,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203116,
       "num": 203116,
       "word": "琉璃敌蜜变闺蜜",
       "onboard_time": 1699795176,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202075,
+      "num": 188711,
+      "word": "看秦岚花少眼角皱纹都变多了",
+      "onboard_time": 1699860394,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 201977,
@@ -2649,6 +2705,22 @@
       "onboard_time": 1699772308,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199658,
+      "num": 199658,
+      "word": "张凌赫金丝眼镜光影大片",
+      "onboard_time": 1699859672,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198707,
+      "num": 198707,
+      "word": "陈漫拍的于适",
+      "onboard_time": 1699860692,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198149,
@@ -2681,6 +2753,14 @@
       "onboard_time": 1699845331,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196118,
+      "num": 187182,
+      "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+      "onboard_time": 1699860692,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195694,
@@ -2961,6 +3041,14 @@
       "onboard_time": 1699794697,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175386,
+      "num": 175386,
+      "word": "万鹏首档综艺",
+      "onboard_time": 1699860518,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 175233,
@@ -3323,14 +3411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153081,
-      "num": 153081,
-      "word": "张凌赫金丝眼镜光影大片",
-      "onboard_time": 1699859672,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 152651,
       "num": 152651,
       "word": "周柯宇易扬人设",
@@ -3417,6 +3497,14 @@
       "onboard_time": 1699777949,
       "rank": 2,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148629,
+      "num": 148629,
+      "word": "宁安如梦剧情有槽点吗",
+      "onboard_time": 1699858893,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 148131,
@@ -3531,6 +3619,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 141379,
+      "num": 141379,
+      "word": "es卡池预告",
+      "onboard_time": 1699859735,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139911,
       "num": 151819,
       "word": "T1 作业好抄",
@@ -3553,6 +3649,14 @@
       "onboard_time": 1699766910,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138532,
+      "num": 138532,
+      "word": "交个朋友原副总裁被举报财务侵占",
+      "onboard_time": 1699860813,
+      "rank": 47,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 137536,
@@ -3699,14 +3803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128780,
-      "num": 128780,
-      "word": "宁安如梦剧情有槽点吗",
-      "onboard_time": 1699858893,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128737,
       "num": 128737,
       "word": "切尔西4比4曼城",
@@ -3721,14 +3817,6 @@
       "onboard_time": 1699773989,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128340,
-      "num": 128340,
-      "word": "es卡池预告",
-      "onboard_time": 1699859735,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 128266,
@@ -3777,14 +3865,6 @@
       "onboard_time": 1699842150,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127103,
-      "num": 127103,
-      "word": "冰糖帝王蟹",
-      "onboard_time": 1699859613,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 126495,
