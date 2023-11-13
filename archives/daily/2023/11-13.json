@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699852616823,
+  "endTime": 1699853648925,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -25,6 +25,14 @@
       "onboard_time": 1699842091,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2298713,
+      "num": 2298713,
+      "word": "电诈头目明学昌家族工地发现两具尸体",
+      "onboard_time": 1699852296,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1698119,
@@ -163,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 782673,
-      "num": 782673,
-      "word": "电诈头目明学昌家族工地发现两具尸体",
-      "onboard_time": 1699852296,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 751354,
       "num": 387374,
       "word": "缅甸",
@@ -227,8 +227,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 568556,
-      "num": 568556,
+      "raw_hot": 571019,
+      "num": 571019,
       "word": "资生堂红腰子价格大跳水",
       "onboard_time": 1699848092,
       "rank": 30,
@@ -241,6 +241,14 @@
       "onboard_time": 1699784970,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558255,
+      "num": 558255,
+      "word": "为什么哭久了会一抽一抽的",
+      "onboard_time": 1699848634,
+      "rank": 31,
+      "category": "知识科普"
     },
     {
       "raw_hot": 553104,
@@ -257,14 +265,6 @@
       "onboard_time": 1699789774,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 507951,
-      "num": 507951,
-      "word": "为什么哭久了会一抽一抽的",
-      "onboard_time": 1699848634,
-      "rank": 31,
-      "category": "知识科普"
     },
     {
       "raw_hot": 499008,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335866,
+      "num": 335866,
+      "word": "电视剧要久久爱OST",
+      "onboard_time": 1699852896,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326439,
       "num": 326439,
       "word": "圣诞烤布丁拿铁",
@@ -577,6 +585,14 @@
       "onboard_time": 1699842871,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 255140,
+      "num": 255140,
+      "word": "大冰笑话",
+      "onboard_time": 1699852953,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252449,
@@ -1211,6 +1227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 109558,
+      "num": 109558,
+      "word": "50岁女子骑车被撞获救后说我不讹你",
+      "onboard_time": 1699852774,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108096,
       "num": 108096,
       "word": "补气血做好这三点",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1699791875,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101612,
+      "num": 101612,
+      "word": "一上班就高血压",
+      "onboard_time": 1699853432,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 101343,
@@ -1307,8 +1339,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82993,
+      "num": 101610,
+      "word": "当当当当版姜雪宁",
+      "onboard_time": 1699853554,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66861,
-      "num": 1076701,
+      "num": 1082837,
       "word": "中国经济的融融暖意会让发展更有劲",
       "onboard_time": 1699849535,
       "rank": 2,

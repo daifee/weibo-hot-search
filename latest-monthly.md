@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 13:16:56
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 13:34:08
 </p>
 </blockquote>
 <p>
@@ -557,6 +557,12 @@ fx 重聚（热度：2316654）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%BB%91%E8%80%81%E5%A4%A7%E5%90%91%E5%A5%BD%E5%8F%8B%E7%82%AB%E6%9E%AA%E5%B0%86%E8%87%AA%E5%B7%B1%E6%89%93%E6%AD%BB%23" target="weibo">
 台湾黑老大向好友炫枪将自己打死（热度：2314124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E5%AE%B6%E6%97%8F%E5%B7%A5%E5%9C%B0%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%85%B7%E5%B0%B8%E4%BD%93%23" target="weibo">
+电诈头目明学昌家族工地发现两具尸体（热度：2298713）
 </a>
 </li>
 
@@ -3675,12 +3681,6 @@ MISSING哭了（热度：788264）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E6%98%8E%E5%AD%A6%E6%98%8C%E5%AE%B6%E6%97%8F%E5%B7%A5%E5%9C%B0%E5%8F%91%E7%8E%B0%E4%B8%A4%E5%85%B7%E5%B0%B8%E4%BD%93%23" target="weibo">
-电诈头目明学昌家族工地发现两具尸体（热度：782673）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%81%B7%E5%81%B7%E4%B8%BE%E5%BE%97%E9%93%81%23" target="weibo">
 秦岚什么时候偷偷举得铁（热度：782275）
 </a>
@@ -5547,6 +5547,12 @@ T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%84%E7%94%9F%E5%A0%82%E7%BA%A2%E8%85%B0%E5%AD%90%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
+资生堂红腰子价格大跳水（热度：571019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%85%E4%BF%AE%E6%89%8D%E6%98%AF%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E4%B8%91%23" target="weibo">
 装修才是当代年轻人最好的医丑（热度：570626）
 </a>
@@ -5555,12 +5561,6 @@ T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4%E6%AC%A2%E8%BF%8E%E5%8D%A2%E6%98%B1%E6%99%93%E5%8A%A0%E5%85%A5%E5%A8%B1%E4%B9%90%E5%9C%88%23" target="weibo">
 苏醒说欢迎卢昱晓加入娱乐圈（热度：570420）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%84%E7%94%9F%E5%A0%82%E7%BA%A2%E8%85%B0%E5%AD%90%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
-资生堂红腰子价格大跳水（热度：568556）
 </a>
 </li>
 
@@ -5699,6 +5699,12 @@ Chovy 遗憾（热度：565893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%98%E5%9C%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B7%B2%E6%88%90%E5%8A%9F%E6%92%A4%E7%A6%BB%23" target="weibo">
 中国战地女记者陈慧慧已成功撤离（热度：558455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84%23" target="weibo">
+为什么哭久了会一抽一抽的（热度：558255）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG拿到赛点（热度：538344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E4%B8%BA%E8%80%81%E5%88%98%E9%87%8D%E7%87%83%E7%94%9F%E6%B4%BB%E7%83%AD%E6%83%85%E8%80%8C%E5%BC%80%E5%BF%83%23" target="weibo">
 傅首尔为老刘重燃生活热情而开心（热度：534192）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E9%A3%8E%E5%B0%9A%E5%A4%A7%E5%85%B8%E5%BC%80%E5%A7%8B%E5%AE%98%E5%AE%A3%E4%BA%86%23" target="weibo">
-ELLE风尚大典开始官宣了（热度：533550）
 </a>
 </li>
 
