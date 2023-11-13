@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699863762578,
+  "endTime": 1699864523382,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1691351,
-      "num": 234892,
+      "num": 263039,
       "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
       "onboard_time": 1699860692,
       "rank": 34,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1144895,
-      "num": 323578,
+      "num": 324949,
       "word": "林心如接大尺度戏会考虑霍建华感受",
       "onboard_time": 1699860215,
       "rank": 30,
@@ -457,6 +457,14 @@
       "onboard_time": 1699777709,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999966,
+      "num": 999966,
+      "word": "中国千万净资产家庭达211万户",
+      "onboard_time": 1699859917,
+      "rank": 9,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 985986,
@@ -593,14 +601,6 @@
       "onboard_time": 1699791934,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 774823,
-      "num": 774823,
-      "word": "中国千万净资产家庭达211万户",
-      "onboard_time": 1699859917,
-      "rank": 9,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 768660,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 653537,
-      "num": 312185,
+      "num": 320977,
       "word": "张凌赫爆改霸总",
       "onboard_time": 1699861533,
       "rank": 13,
@@ -801,6 +801,14 @@
       "onboard_time": 1699756890,
       "rank": 5,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 645168,
+      "num": 645168,
+      "word": "扣扣搜搜地花了很多钱",
+      "onboard_time": 1699858957,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 643582,
@@ -873,14 +881,6 @@
       "onboard_time": 1699791037,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 605167,
-      "num": 605167,
-      "word": "扣扣搜搜地花了很多钱",
-      "onboard_time": 1699858957,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 601998,
@@ -1659,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337203,
+      "num": 306966,
+      "word": "朱一龙 不要低估自己瘦下来的决心",
+      "onboard_time": 1699862320,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335866,
       "num": 335866,
       "word": "电视剧要久久爱OST",
@@ -1776,6 +1784,14 @@
       "word": "王子璇也是追星女",
       "onboard_time": 1699804594,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 306573,
+      "num": 306573,
+      "word": "匪我思存薅着一家虐",
+      "onboard_time": 1699864413,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2051,6 +2067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 269988,
+      "num": 269988,
+      "word": "陈漫拍的于适",
+      "onboard_time": 1699860692,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 269019,
       "num": 269019,
       "word": "龚俊 被迫做E",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1699834472,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263547,
+      "num": 263547,
+      "word": "痘肌如何喝奶茶",
+      "onboard_time": 1699863572,
+      "rank": 36,
+      "category": "美妆,美食"
     },
     {
       "raw_hot": 262570,
@@ -2289,14 +2321,6 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 238875,
-      "num": 238875,
-      "word": "朱一龙 不要低估自己瘦下来的决心",
-      "onboard_time": 1699862320,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 235551,
@@ -2563,14 +2587,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 214885,
-      "num": 214885,
-      "word": "陈漫拍的于适",
-      "onboard_time": 1699860692,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 214590,
       "num": 214590,
       "word": "张艺兴 更强的激光小猫",
@@ -2803,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "赵丽颖深海美人鱼",
+      "onboard_time": 1699861719,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 196235,
       "num": 163834,
       "word": "杰出 刀塔录音",
@@ -2817,14 +2841,6 @@
       "onboard_time": 1699773450,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194923,
-      "num": 194923,
-      "word": "赵丽颖深海美人鱼",
-      "onboard_time": 1699861719,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194414,
@@ -3115,6 +3131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174756,
+      "num": 174756,
+      "word": "张馨予 自由的美感",
+      "onboard_time": 1699863694,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174087,
       "num": 174087,
       "word": "G2 宝想要TheShy",
@@ -3267,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165769,
+      "num": 165769,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 165671,
       "num": 165671,
       "word": "没想到狗的鼻子居然是开口的",
@@ -3369,6 +3401,14 @@
       "onboard_time": 1699773209,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159922,
+      "num": 159922,
+      "word": "高校回应剧组在校内拍摄用激光笔驱赶学生",
+      "onboard_time": 1699863934,
+      "rank": 31,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 159418,
@@ -3571,6 +3611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148727,
+      "num": 148727,
+      "word": "和叶打包带走了花花的竹子",
+      "onboard_time": 1699863393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148629,
       "num": 148629,
       "word": "宁安如梦剧情有槽点吗",
@@ -3707,12 +3755,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140025,
-      "num": 140025,
-      "word": "痘肌如何喝奶茶",
-      "onboard_time": 1699863572,
-      "rank": 36,
-      "category": "美妆,美食"
+      "raw_hot": 140619,
+      "num": 140619,
+      "word": "卡颜局",
+      "onboard_time": 1699864293,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 139911,
@@ -3883,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129495,
+      "num": 745784,
+      "word": "双十一快递包裹坐上高铁了",
+      "onboard_time": 1699863093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129158,
       "num": 129158,
       "word": "妈妈的人生也应该是旷野",
@@ -3961,14 +4017,6 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126462,
-      "num": 126462,
-      "word": "和叶打包带走了花花的竹子",
-      "onboard_time": 1699863393,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125226,
@@ -4147,22 +4195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115421,
-      "num": 115421,
-      "word": "张馨予 自由的美感",
-      "onboard_time": 1699863694,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115234,
-      "num": 115234,
-      "word": "11岁男生用编程讲历史获全国一等奖",
-      "onboard_time": 1699863335,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 114621,
       "num": 114621,
       "word": "水神劈观排面",
@@ -4209,6 +4241,14 @@
       "onboard_time": 1699769609,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 112965,
+      "num": 112965,
+      "word": "华晨宇演唱会收官站官宣",
+      "onboard_time": 1699861533,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 112643,
@@ -4555,14 +4595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75003,
-      "num": 628301,
-      "word": "双十一快递包裹坐上高铁了",
-      "onboard_time": 1699863093,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71489,
       "num": 905255,
       "word": "彭清林入选中国好人榜",
@@ -4691,19 +4723,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41909,
+      "num": 313078,
+      "word": "运动员红毯造型",
+      "onboard_time": 1699862433,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40959,
       "num": 149672,
       "word": "林诗栋蒯曼夺得混双冠军",
       "onboard_time": 1699711295,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34828,
-      "num": 309868,
-      "word": "运动员红毯造型",
-      "onboard_time": 1699862433,
-      "rank": 14,
       "category": "体育"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699864523382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539104,
+        "num": 1539104,
+        "word": "被正式确诊为衣领综合征",
+        "onboard_time": 1699856854,
+        "rank": 0,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 999966,
+        "num": 999966,
+        "word": "中国千万净资产家庭达211万户",
+        "onboard_time": 1699859917,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 129495,
+        "num": 745784,
+        "word": "双十一快递包裹坐上高铁了",
+        "onboard_time": 1699863093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645168,
+        "num": 645168,
+        "word": "扣扣搜搜地花了很多钱",
+        "onboard_time": 1699858957,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483001,
+        "num": 483001,
+        "word": "双十一全网消费11386亿元",
+        "onboard_time": 1699860518,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572944,
+        "num": 462340,
+        "word": "电诈头目明学昌家族工地发现两具尸体",
+        "onboard_time": 1699852296,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434412,
+        "num": 434412,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1699861354,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 386625,
+        "num": 386625,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1699857872,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 347938,
+        "num": 347938,
+        "word": "景甜一声哥哥把许凯叫懵了",
+        "onboard_time": 1699858294,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327806,
+        "num": 327806,
+        "word": "日本部分居民血检异常",
+        "onboard_time": 1699847673,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1124623,
+        "num": 324949,
+        "word": "林心如接大尺度戏会考虑霍建华感受",
+        "onboard_time": 1699860215,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691843,
+        "num": 324301,
+        "word": "古人寿命虽短却没有35岁的概念",
+        "onboard_time": 1699859132,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 608909,
+        "num": 320977,
+        "word": "张凌赫爆改霸总",
+        "onboard_time": 1699861533,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577301,
+        "num": 315846,
+        "word": "女子失业被妈妈雇佣当司机日薪20",
+        "onboard_time": 1699856492,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41909,
+        "num": 313078,
+        "word": "运动员红毯造型",
+        "onboard_time": 1699862433,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365270,
+        "num": 311872,
+        "word": "杨幂穿马面裙",
+        "onboard_time": 1699850016,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 337203,
+        "num": 306966,
+        "word": "朱一龙 不要低估自己瘦下来的决心",
+        "onboard_time": 1699862320,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306573,
+        "num": 306573,
+        "word": "匪我思存薅着一家虐",
+        "onboard_time": 1699864413,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269988,
+        "num": 269988,
+        "word": "陈漫拍的于适",
+        "onboard_time": 1699860692,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 263547,
+        "num": 263547,
+        "word": "痘肌如何喝奶茶",
+        "onboard_time": 1699863572,
+        "rank": 19,
+        "category": "美妆,美食"
+      },
+      {
+        "raw_hot": 1523650,
+        "num": 263039,
+        "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+        "onboard_time": 1699860692,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260768,
+        "num": 260768,
+        "word": "时代少年团新歌的制作人是小鬼",
+        "onboard_time": 1699858893,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224316,
+        "num": 224316,
+        "word": "我国呼吸道疾病进入高发季",
+        "onboard_time": 1699861654,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223040,
+        "num": 223040,
+        "word": "魏晨 父母子女互为无价之宝",
+        "onboard_time": 1699860272,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214021,
+        "num": 214021,
+        "word": "泉州一原区长水上餐厅落水身亡",
+        "onboard_time": 1699857032,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202263,
+        "num": 202263,
+        "word": "万鹏首档综艺",
+        "onboard_time": 1699860518,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198432,
+        "num": 198432,
+        "word": "剧组在高校拍摄用激光笔驱赶学生",
+        "onboard_time": 1699861894,
+        "rank": 26,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 197330,
+        "num": 197330,
+        "word": "赵丽颖深海美人鱼",
+        "onboard_time": 1699861719,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174756,
+        "num": 174756,
+        "word": "张馨予 自由的美感",
+        "onboard_time": 1699863694,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168504,
+        "num": 168504,
+        "word": "看秦岚花少眼角皱纹都变多了",
+        "onboard_time": 1699860394,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165769,
+        "num": 165769,
+        "word": "11岁男生用编程讲历史获全国一等奖",
+        "onboard_time": 1699863335,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 159922,
+        "num": 159922,
+        "word": "高校回应剧组在校内拍摄用激光笔驱赶学生",
+        "onboard_time": 1699863934,
+        "rank": 31,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 158800,
+        "num": 158800,
+        "word": "韩国警方承认没有权志龙吸毒物证",
+        "onboard_time": 1699857273,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157447,
+        "num": 157447,
+        "word": "高血压的前兆",
+        "onboard_time": 1699862854,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154933,
+        "num": 154933,
+        "word": "交个朋友原副总裁被举报财务侵占",
+        "onboard_time": 1699860813,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 154749,
+        "word": "WBG 四号种子的逆袭",
+        "onboard_time": 1699855293,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149398,
+        "num": 149398,
+        "word": "冰糖帝王蟹",
+        "onboard_time": 1699859613,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148727,
+        "num": 148727,
+        "word": "和叶打包带走了花花的竹子",
+        "onboard_time": 1699863393,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140619,
+        "num": 140619,
+        "word": "卡颜局",
+        "onboard_time": 1699864293,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134791,
+        "num": 134791,
+        "word": "专家解读肺炎支原体感染和流感区别",
+        "onboard_time": 1699862974,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 132262,
+        "word": "马面裙配大衣",
+        "onboard_time": 1699854813,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128526,
+        "num": 128526,
+        "word": "五月天上海开唱场馆附近震感明显",
+        "onboard_time": 1699861295,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126048,
+        "num": 126048,
+        "word": "裴秀智新闻图",
+        "onboard_time": 1699856134,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125089,
+        "num": 125089,
+        "word": "宁安如梦信息量好大",
+        "onboard_time": 1699858355,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124270,
+        "num": 124270,
+        "word": "欧洲最高活火山再次喷发",
+        "onboard_time": 1699862433,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123470,
+        "num": 123470,
+        "word": "刘亦菲什么时候来我们学校拍戏",
+        "onboard_time": 1699857573,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123349,
+        "num": 123349,
+        "word": "冰岛频繁地震导致大地出现裂痕",
+        "onboard_time": 1699850077,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121596,
+        "num": 121596,
+        "word": "李佳琦团队称250亿收入纯属捏造",
+        "onboard_time": 1699848634,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113795,
+        "num": 113795,
+        "word": "宁安如梦剧情有槽点吗",
+        "onboard_time": 1699858893,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112965,
+        "num": 112965,
+        "word": "华晨宇演唱会收官站官宣",
+        "onboard_time": 1699861533,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
