@@ -1,0 +1,410 @@
+{
+  "runTime": 1699882454014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369169,
+        "num": 1369169,
+        "word": "雪莉生前纪录片完整版公开",
+        "onboard_time": 1699874134,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1182942,
+        "num": 1182942,
+        "word": "何猷君 小金土豆",
+        "onboard_time": 1699874372,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74630,
+        "num": 898228,
+        "word": "手把手教你跨省看病怎么走医保",
+        "onboard_time": 1699881755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897158,
+        "num": 897158,
+        "word": "iPhone15双11最后两小时降价",
+        "onboard_time": 1699878814,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 831217,
+        "num": 831217,
+        "word": "爱奇艺尖叫之夜完整版名单",
+        "onboard_time": 1699880132,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622408,
+        "num": 622408,
+        "word": "清华女博士毕业做占星师月入3万",
+        "onboard_time": 1699869873,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600147,
+        "num": 600147,
+        "word": "宁安如梦歹毒运镜加一",
+        "onboard_time": 1699879894,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512678,
+        "num": 512678,
+        "word": "55个品牌被移出中华老字号",
+        "onboard_time": 1699881153,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 384020,
+        "num": 384020,
+        "word": "卧床休息是养肝的最好方法",
+        "onboard_time": 1699874791,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 377997,
+        "num": 377997,
+        "word": "女生最无声的炫富是什么",
+        "onboard_time": 1699875690,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1060063,
+        "num": 373275,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154508,
+        "num": 368372,
+        "word": "vivoX100发布会",
+        "onboard_time": 1699873531,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 835470,
+        "num": 364336,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509678,
+        "num": 361175,
+        "word": "雪莉 我们需要更多的女性发声",
+        "onboard_time": 1699878273,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409875,
+        "num": 355621,
+        "word": "迪丽热巴黑粉被强执",
+        "onboard_time": 1699878873,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353859,
+        "num": 353859,
+        "word": "陈楚生王栎鑫你俩是握了个脚吗",
+        "onboard_time": 1699878934,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146805,
+        "num": 334124,
+        "word": "vivo 灭霸",
+        "onboard_time": 1699880794,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328646,
+        "num": 328646,
+        "word": "缅北电诈头目明学昌年轻时惯于偷抢",
+        "onboard_time": 1699875634,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297964,
+        "num": 326872,
+        "word": "罐车气体泄漏男子关阀门时意外发生",
+        "onboard_time": 1699876292,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76067,
+        "num": 320801,
+        "word": "中国手机影像如何全面超车",
+        "onboard_time": 1699880972,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43148,
+        "num": 319138,
+        "word": "蓝厂是有狠活儿的",
+        "onboard_time": 1699880312,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1334152,
+        "num": 314543,
+        "word": "小S吴慷仁 床戏",
+        "onboard_time": 1699865974,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 784456,
+        "num": 311631,
+        "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+        "onboard_time": 1699860692,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307576,
+        "num": 307576,
+        "word": "喜欢上班的有福了",
+        "onboard_time": 1699877733,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247840,
+        "num": 247840,
+        "word": "天蝎座 保持舒适距离",
+        "onboard_time": 1699878934,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234866,
+        "num": 234866,
+        "word": "蔚来汽车五年半亏764亿",
+        "onboard_time": 1699876474,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217540,
+        "num": 217540,
+        "word": "肯豆超短羽绒服",
+        "onboard_time": 1699875213,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210956,
+        "num": 210956,
+        "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
+        "onboard_time": 1699881452,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205413,
+        "num": 205413,
+        "word": "英前首相卡梅伦被任命为外交大臣",
+        "onboard_time": 1699873171,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180606,
+        "num": 180606,
+        "word": "提醒在冰岛中国公民防范火山地震灾害",
+        "onboard_time": 1699879170,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231251,
+        "num": 180415,
+        "word": "无所畏惧 对我的乳腺友好",
+        "onboard_time": 1699880071,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213622,
+        "num": 180403,
+        "word": "这就是成年人的电视剧吗",
+        "onboard_time": 1699881876,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208301,
+        "num": 179825,
+        "word": "时宴 低位耳洞",
+        "onboard_time": 1699873952,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178827,
+        "num": 178827,
+        "word": "虞书欣吊带拖尾裙",
+        "onboard_time": 1699874432,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170427,
+        "num": 170427,
+        "word": "老丈人看女婿越看越气",
+        "onboard_time": 1699878273,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169577,
+        "num": 169577,
+        "word": "宁安如梦CP线",
+        "onboard_time": 1699872812,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169558,
+        "num": 169558,
+        "word": "肯德基崩了",
+        "onboard_time": 1699864831,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161999,
+        "num": 161999,
+        "word": "难听",
+        "onboard_time": 1699868316,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "如果WBG夺冠我就",
+        "onboard_time": 1699866033,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151575,
+        "num": 158053,
+        "word": "网络主播王纯善偷逃税被查",
+        "onboard_time": 1699879532,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 158012,
+        "num": 158012,
+        "word": "vivo全球首发AI大模型手机",
+        "onboard_time": 1699879593,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152297,
+        "num": 152297,
+        "word": "吴慷仁性张力",
+        "onboard_time": 1699873113,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120087,
+        "num": 141630,
+        "word": "中等强度厄尔尼诺事件已经形成",
+        "onboard_time": 1699878694,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139922,
+        "num": 139922,
+        "word": "用古早言情小说来打开宁安如梦",
+        "onboard_time": 1699875391,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111168,
+        "num": 135800,
+        "word": "双十一快递包裹坐上高铁了",
+        "onboard_time": 1699863093,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135726,
+        "num": 135726,
+        "word": "RedVelvet空降",
+        "onboard_time": 1699871852,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130566,
+        "num": 130566,
+        "word": "威神V 遗憾效应",
+        "onboard_time": 1699880612,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128343,
+        "num": 128343,
+        "word": "vivo在人像赛道上从没输过",
+        "onboard_time": 1699881994,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102031,
+        "num": 119954,
+        "word": "为什么vivo可以突破拍太阳难题",
+        "onboard_time": 1699881994,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130114,
+        "num": 119606,
+        "word": "aespa 一个舞台四种腮红打法",
+        "onboard_time": 1699874552,
+        "rank": 49,
+        "category": "作品衍生,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图速览什么是APEC#"
+    }
+  }
+}
