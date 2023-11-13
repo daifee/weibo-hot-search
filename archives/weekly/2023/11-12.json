@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699907753253,
+  "endTime": 1699910157175,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -5947,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20804,
+      "num": 19189,
+      "word": "让腰腹赘肉无路可逃的普拉提",
+      "onboard_time": 1699906393,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 18352,
       "num": 18352,
       "word": "鲨鱼夹发型",
@@ -5963,12 +5971,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 14954,
-      "num": 14954,
-      "word": "让腰腹赘肉无路可逃的普拉提",
-      "onboard_time": 1699906393,
-      "rank": 44,
-      "category": "运动健身"
+      "raw_hot": 13507,
+      "num": 15188,
+      "word": "如果有人在地铁突然放下手机",
+      "onboard_time": 1699909513,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 13292,
@@ -5977,6 +5985,14 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12400,
+      "num": 15177,
+      "word": "冬季什么时候洗头合适",
+      "onboard_time": 1699908073,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11107,
