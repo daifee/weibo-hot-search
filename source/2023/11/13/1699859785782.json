@@ -1,0 +1,410 @@
+{
+  "runTime": 1699859785782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607094,
+        "num": 1607094,
+        "word": "女子失业被妈妈雇佣当司机日薪20",
+        "onboard_time": 1699856492,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1528185,
+        "num": 1528185,
+        "word": "电诈头目明学昌家族工地发现两具尸体",
+        "onboard_time": 1699852296,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 48820,
+        "num": 1193392,
+        "word": "中国经济的融融暖意会让发展更有劲",
+        "onboard_time": 1699849535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937839,
+        "num": 937839,
+        "word": "日本部分居民血检异常",
+        "onboard_time": 1699847673,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 786603,
+        "num": 786603,
+        "word": "被正式确诊为衣领综合征",
+        "onboard_time": 1699856854,
+        "rank": 4,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 591521,
+        "num": 591521,
+        "word": "韩国警方承认没有权志龙吸毒物证",
+        "onboard_time": 1699857273,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555691,
+        "num": 555691,
+        "word": "马面裙配大衣",
+        "onboard_time": 1699854813,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 550689,
+        "num": 550689,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1699857872,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 540471,
+        "num": 540471,
+        "word": "时代少年团新歌的制作人是小鬼",
+        "onboard_time": 1699858893,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372736,
+        "num": 372736,
+        "word": "泉州一原区长水上餐厅落水身亡",
+        "onboard_time": 1699857032,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624941,
+        "num": 370761,
+        "word": "杨幂穿马面裙",
+        "onboard_time": 1699850016,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 365134,
+        "num": 365134,
+        "word": "陈奕迅认识李荣浩也是靠朋友拉群",
+        "onboard_time": 1699857153,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361690,
+        "num": 361690,
+        "word": "刘亦菲什么时候来我们学校拍戏",
+        "onboard_time": 1699857573,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361308,
+        "num": 361308,
+        "word": "古人寿命虽短却没有35岁的概念",
+        "onboard_time": 1699859132,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 350165,
+        "num": 350165,
+        "word": "裴秀智新闻图",
+        "onboard_time": 1699856134,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339566,
+        "num": 339566,
+        "word": "宋慧乔将出演电影黑色修女们",
+        "onboard_time": 1699857872,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325361,
+        "num": 325361,
+        "word": "宁安如梦信息量好大",
+        "onboard_time": 1699858355,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309973,
+        "num": 309973,
+        "word": "WBG 四号种子的逆袭",
+        "onboard_time": 1699855293,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 293839,
+        "num": 293839,
+        "word": "八段锦动图教学版",
+        "onboard_time": 1699859132,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 277922,
+        "num": 277922,
+        "word": "景甜一声哥哥把许凯叫懵了",
+        "onboard_time": 1699858294,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265023,
+        "num": 265023,
+        "word": "大冰笑话",
+        "onboard_time": 1699852953,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251857,
+        "num": 251857,
+        "word": "韩女精髓不仅是睫毛",
+        "onboard_time": 1699857985,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225862,
+        "num": 225862,
+        "word": "89岁坚持站着上课的院士走了",
+        "onboard_time": 1699856435,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 222464,
+        "num": 222464,
+        "word": "扣扣搜搜地花了很多钱",
+        "onboard_time": 1699858957,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220310,
+        "num": 220310,
+        "word": "赵丽颖时尚芭莎十二月刊封面预告",
+        "onboard_time": 1699858117,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 218121,
+        "num": 218121,
+        "word": "登上GQ单封的四位95生",
+        "onboard_time": 1699856072,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212949,
+        "num": 212949,
+        "word": "潍坊一中学百余名学生疑食物中毒",
+        "onboard_time": 1699858957,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208723,
+        "num": 208723,
+        "word": "李佳琦团队称250亿收入纯属捏造",
+        "onboard_time": 1699848634,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207387,
+        "num": 207387,
+        "word": "郑恺三个月来的变化",
+        "onboard_time": 1699859253,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201510,
+        "num": 201510,
+        "word": "冰岛频繁地震导致大地出现裂痕",
+        "onboard_time": 1699850077,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198660,
+        "num": 198660,
+        "word": "为什么哭久了会一抽一抽的",
+        "onboard_time": 1699848634,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 189608,
+        "num": 189608,
+        "word": "每天1包方便面身体会发生什么变化",
+        "onboard_time": 1699848394,
+        "rank": 31,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 187088,
+        "num": 187088,
+        "word": "幼童被海浪卷走好心大哥飞奔捞起",
+        "onboard_time": 1699845031,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186571,
+        "num": 186571,
+        "word": "冬季千万不要过度清洁皮肤",
+        "onboard_time": 1699857032,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 180266,
+        "num": 180266,
+        "word": "爸爸通过监控显摆生日吃12个菜",
+        "onboard_time": 1699839991,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169695,
+        "num": 169695,
+        "word": "69元一位西昌烤肉自助",
+        "onboard_time": 1699858717,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168309,
+        "num": 168309,
+        "word": "八段锦瘦肚子是认真的",
+        "onboard_time": 1699842209,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160222,
+        "num": 160222,
+        "word": "缅甸果敢四大家族成员称将杜绝电诈",
+        "onboard_time": 1699842150,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156498,
+        "num": 156498,
+        "word": "每天敷面膜可能引起皮炎",
+        "onboard_time": 1699857633,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 155605,
+        "num": 155605,
+        "word": "王晰唱歌 红酒配拖鞋",
+        "onboard_time": 1699858413,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153081,
+        "num": 153081,
+        "word": "张凌赫金丝眼镜光影大片",
+        "onboard_time": 1699859672,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151807,
+        "num": 151807,
+        "word": "你习惯多久洗一次头发",
+        "onboard_time": 1699844913,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146388,
+        "num": 146388,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136936,
+        "num": 136936,
+        "word": "资生堂红腰子价格大跳水",
+        "onboard_time": 1699848092,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 133968,
+        "word": "王以太替capper带领全场合唱雪",
+        "onboard_time": 1699858054,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129342,
+        "num": 129342,
+        "word": "消费降级",
+        "onboard_time": 1699847013,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128780,
+        "num": 128780,
+        "word": "宁安如梦剧情有槽点吗",
+        "onboard_time": 1699858893,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128340,
+        "num": 128340,
+        "word": "es卡池预告",
+        "onboard_time": 1699859735,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127103,
+        "num": 127103,
+        "word": "冰糖帝王蟹",
+        "onboard_time": 1699859613,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122935,
+        "num": 122935,
+        "word": "在东北见到冰糖帝王蟹冰糖龙虾",
+        "onboard_time": 1699859613,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤#"
+    }
+  }
+}
