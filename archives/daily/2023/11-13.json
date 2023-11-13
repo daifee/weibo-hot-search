@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699856580089,
+  "endTime": 1699857380702,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -227,6 +227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 576666,
+      "num": 576666,
+      "word": "马面裙配大衣",
+      "onboard_time": 1699854813,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 571019,
       "num": 571019,
       "word": "资生堂红腰子价格大跳水",
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429937,
-      "num": 342912,
-      "word": "马面裙配大衣",
-      "onboard_time": 1699854813,
-      "rank": 11,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 429370,
       "num": 429370,
       "word": "米勒预测WBG零封T1",
@@ -377,6 +377,14 @@
       "onboard_time": 1699830982,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 416716,
+      "num": 331629,
+      "word": "裴秀智新闻图",
+      "onboard_time": 1699856134,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407888,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324609,
+      "num": 324609,
+      "word": "女子失业被妈妈雇佣当司机日薪20",
+      "onboard_time": 1699856492,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321084,
       "num": 321084,
       "word": "陈乔恩 和身边的朋友渐行渐远",
@@ -513,6 +529,14 @@
       "onboard_time": 1699793259,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290943,
+      "num": 290943,
+      "word": "登上GQ单封的四位95生",
+      "onboard_time": 1699856072,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 286976,
@@ -571,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 274712,
+      "num": 274712,
+      "word": "WBG 四号种子的逆袭",
+      "onboard_time": 1699855293,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 271504,
       "num": 271504,
       "word": "WBG赢了血赚输了不亏",
@@ -593,14 +625,6 @@
       "onboard_time": 1699834472,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 261406,
-      "num": 261406,
-      "word": "登上GQ单封的四位95生",
-      "onboard_time": 1699856072,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 260222,
@@ -651,8 +675,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 237457,
-      "num": 237457,
+      "raw_hot": 241349,
+      "num": 241349,
       "word": "幼童被海浪卷走好心大哥飞奔捞起",
       "onboard_time": 1699845031,
       "rank": 33,
@@ -691,28 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233374,
-      "num": 233374,
-      "word": "WBG 四号种子的逆袭",
-      "onboard_time": 1699855293,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 231227,
       "num": 231227,
       "word": "金裕贞宋江我的恶魔OST阵容",
       "onboard_time": 1699848634,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231122,
-      "num": 231122,
-      "word": "裴秀智新闻图",
-      "onboard_time": 1699856134,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 228461,
@@ -819,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199821,
+      "num": 199821,
+      "word": "被正式确诊为衣领综合征",
+      "onboard_time": 1699856854,
+      "rank": 28,
+      "category": "社会新闻,知识科普"
+    },
+    {
       "raw_hot": 198830,
       "num": 198830,
       "word": "JDG发博告别S13",
@@ -851,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186666,
+      "num": 186666,
+      "word": "89岁坚持站着上课的院士走了",
+      "onboard_time": 1699856435,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 185839,
       "num": 185839,
       "word": "陆虎发烧张远帮唱",
@@ -879,6 +903,14 @@
       "num": 178331,
       "word": "刘畊宏带假肢女孩跳本草纲目",
       "onboard_time": 1699805313,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184562,
+      "num": 184562,
+      "word": "陈奕迅认识李荣浩也是靠朋友拉群",
+      "onboard_time": 1699857153,
       "rank": 30,
       "category": "艺人"
     },
@@ -1011,6 +1043,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162357,
+      "num": 162357,
+      "word": "湖人战胜开拓者",
+      "onboard_time": 1699856732,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160067,
+      "num": 160067,
+      "word": "冬季千万不要过度清洁皮肤",
+      "onboard_time": 1699857032,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 157227,
       "num": 157227,
       "word": "宁安如梦",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1699834111,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155731,
+      "num": 155731,
+      "word": "泉州洛江区原区长水上餐厅就餐时落水身亡",
+      "onboard_time": 1699857032,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154779,
@@ -1155,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134254,
+      "num": 134254,
+      "word": "双11日系美妆集体遇冷",
+      "onboard_time": 1699856795,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133662,
       "num": 133662,
       "word": "50岁女子骑车被撞获救后说我不讹你",
@@ -1235,14 +1299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120740,
-      "num": 120740,
-      "word": "89岁坚持站着上课的院士走了",
-      "onboard_time": 1699856435,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 120279,
       "num": 120279,
       "word": "Knight 隐身",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1699842752,
       "rank": 43,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 119297,
-      "num": 119297,
-      "word": "女子失业被妈妈雇佣当司机日薪20",
-      "onboard_time": 1699856492,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119235,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1699775130,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114902,
+      "num": 114902,
+      "word": "韩国警方承认没有权志龙吸毒物证",
+      "onboard_time": 1699857273,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114171,
