@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699874111390,
+  "endTime": 1699875253156,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1691351,
-      "num": 323433,
+      "num": 356414,
       "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
       "onboard_time": 1699860692,
       "rank": 34,
@@ -105,6 +105,22 @@
       "onboard_time": 1699800574,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499110,
+      "num": 1499110,
+      "word": "清华女博士毕业做占星师月入3万",
+      "onboard_time": 1699869873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427566,
+      "num": 1427566,
+      "word": "雪莉生前纪录片完整版公开",
+      "onboard_time": 1699874134,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1317905,
@@ -136,14 +152,6 @@
       "word": "爸爸通过监控显摆生日吃12个菜",
       "onboard_time": 1699839991,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1221419,
-      "num": 1221419,
-      "word": "清华女博士毕业做占星师月入3万",
-      "onboard_time": 1699869873,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518521,
+      "num": 518521,
+      "word": "英前首相卡梅伦被任命为外交大臣",
+      "onboard_time": 1699873171,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 513811,
       "num": 513811,
       "word": "虞书欣温峥嵘永夜星河二搭",
@@ -488,6 +504,14 @@
       "word": "奔跑吧生态篇官宣",
       "onboard_time": 1699842990,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 498819,
+      "num": 462059,
+      "word": "何猷君 小金土豆",
+      "onboard_time": 1699874372,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 477029,
-      "num": 384786,
+      "num": 428781,
       "word": "吴慷仁性张力",
       "onboard_time": 1699873113,
       "rank": 16,
@@ -579,12 +603,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 448530,
+      "num": 448530,
+      "word": "时宴 低位耳洞",
+      "onboard_time": 1699873952,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432136,
       "num": 432136,
       "word": "校方称明光忠不是北大学生",
       "onboard_time": 1699847554,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430171,
+      "num": 430171,
+      "word": "权志龙接受采访直播",
+      "onboard_time": 1699873590,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 429370,
@@ -907,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299866,
-      "num": 299866,
-      "word": "英前首相卡梅伦被任命为外交大臣",
-      "onboard_time": 1699873171,
-      "rank": 22,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 293839,
       "num": 293839,
       "word": "八段锦动图教学版",
@@ -1083,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259618,
+      "num": 1445847,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 258345,
       "num": 249361,
       "word": "vivoX100外观辨识度",
@@ -1123,12 +1163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247203,
-      "num": 771073,
-      "word": "11岁男生用编程讲历史获全国一等奖",
-      "onboard_time": 1699863335,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 245123,
+      "num": 245123,
+      "word": "aespa 一个舞台四种腮红打法",
+      "onboard_time": 1699874552,
+      "rank": 27,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 244281,
@@ -1267,6 +1307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 224086,
+      "num": 224086,
+      "word": "虞书欣吊带拖尾裙",
+      "onboard_time": 1699874432,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222136,
       "num": 222136,
       "word": "上官正义追问12年前4885份出生证被盗案",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1699846531,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 218667,
-      "num": 218667,
-      "word": "权志龙接受采访直播",
-      "onboard_time": 1699873590,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 216906,
@@ -1369,6 +1409,22 @@
       "onboard_time": 1699854572,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209665,
+      "num": 445761,
+      "word": "vivoX100发布会",
+      "onboard_time": 1699873531,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 208618,
+      "num": 208618,
+      "word": "医生建议支原体肺炎护理要补充电解质",
+      "onboard_time": 1699872991,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207387,
@@ -1475,16 +1531,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187446,
-      "num": 187446,
-      "word": "医生建议支原体肺炎护理要补充电解质",
-      "onboard_time": 1699872991,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 186908,
-      "num": 913649,
+      "num": 1428739,
       "word": "双十一快递包裹坐上高铁了",
       "onboard_time": 1699863093,
       "rank": 2,
@@ -1643,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172511,
+      "num": 172511,
+      "word": "包装很土但很好吃的零食",
+      "onboard_time": 1699871554,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171745,
       "num": 171745,
       "word": "aespa 搞笑一家人",
@@ -1699,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169164,
+      "num": 169164,
+      "word": "卧床休息是养肝的最好方法",
+      "onboard_time": 1699874791,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168917,
       "num": 168917,
       "word": "男子四千米高山骑行偶遇野生大熊猫",
@@ -1728,14 +1792,6 @@
       "word": "许凯景甜sosweet",
       "onboard_time": 1699871494,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 164601,
-      "num": 164601,
-      "word": "时宴 低位耳洞",
-      "onboard_time": 1699873952,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1793,14 +1849,6 @@
       "onboard_time": 1699862974,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158769,
-      "num": 158769,
-      "word": "包装很土但很好吃的零食",
-      "onboard_time": 1699871554,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 157227,
@@ -2003,14 +2051,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 141875,
-      "num": 141875,
-      "word": "vivoX100发布会",
-      "onboard_time": 1699873531,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "es卡池预告",
@@ -2043,12 +2083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138406,
+      "num": 138406,
+      "word": "以爱为营决战修罗场之巅",
+      "onboard_time": 1699873834,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136822,
       "num": 136822,
       "word": "伍佰 主歌你们唱副歌也是你们唱",
       "onboard_time": 1699838910,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134394,
+      "num": 134394,
+      "word": "萧妃斩男全靠一张嘴",
+      "onboard_time": 1699874074,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 134254,
@@ -2065,14 +2121,6 @@
       "onboard_time": 1699858054,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133783,
-      "num": 133783,
-      "word": "以爱为营决战修罗场之巅",
-      "onboard_time": 1699873834,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 133662,
@@ -2251,14 +2299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118646,
-      "num": 118646,
-      "word": "萧妃斩男全靠一张嘴",
-      "onboard_time": 1699874074,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118030,
       "num": 118030,
       "word": "护手霜推荐",
@@ -2347,12 +2387,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111295,
+      "num": 111295,
+      "word": "肯豆超短羽绒服",
+      "onboard_time": 1699875213,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 110923,
       "num": 110923,
       "word": "今年流感发病率没有比往年增多",
       "onboard_time": 1699867353,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110642,
+      "num": 110642,
+      "word": "电竞上海大师赛",
+      "onboard_time": 1699875092,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110128,

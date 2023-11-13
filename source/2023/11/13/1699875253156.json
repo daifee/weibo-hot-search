@@ -1,0 +1,410 @@
+{
+  "runTime": 1699875253156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1499110,
+        "num": 1499110,
+        "word": "清华女博士毕业做占星师月入3万",
+        "onboard_time": 1699869873,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259618,
+        "num": 1445847,
+        "word": "11岁男生用编程讲历史获全国一等奖",
+        "onboard_time": 1699863335,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 104263,
+        "num": 1428739,
+        "word": "双十一快递包裹坐上高铁了",
+        "onboard_time": 1699863093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1427566,
+        "num": 1427566,
+        "word": "雪莉生前纪录片完整版公开",
+        "onboard_time": 1699874134,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228891,
+        "num": 792425,
+        "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
+        "onboard_time": 1699868999,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620942,
+        "num": 620942,
+        "word": "肯德基崩了",
+        "onboard_time": 1699864831,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 555008,
+        "word": "秋天的九寨沟是色彩的交点",
+        "onboard_time": 1699868999,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 532797,
+        "num": 532797,
+        "word": "阿奇霉素对病毒感染是无效的",
+        "onboard_time": 1699871252,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 518521,
+        "num": 518521,
+        "word": "英前首相卡梅伦被任命为外交大臣",
+        "onboard_time": 1699873171,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 482850,
+        "num": 482850,
+        "word": "以爱为营豆瓣评分4.8分",
+        "onboard_time": 1699869273,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2245055,
+        "num": 471281,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432093,
+        "num": 463899,
+        "word": "小S吴慷仁 床戏",
+        "onboard_time": 1699865974,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498819,
+        "num": 462059,
+        "word": "何猷君 小金土豆",
+        "onboard_time": 1699874372,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456498,
+        "num": 456498,
+        "word": "难听",
+        "onboard_time": 1699868316,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448530,
+        "num": 448530,
+        "word": "时宴 低位耳洞",
+        "onboard_time": 1699873952,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209665,
+        "num": 445761,
+        "word": "vivoX100发布会",
+        "onboard_time": 1699873531,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443051,
+        "num": 443051,
+        "word": "加沙北部所有医院均停止服务",
+        "onboard_time": 1699870355,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 430171,
+        "num": 430171,
+        "word": "权志龙接受采访直播",
+        "onboard_time": 1699873590,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428781,
+        "num": 428781,
+        "word": "吴慷仁性张力",
+        "onboard_time": 1699873113,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357985,
+        "num": 357985,
+        "word": "虞书欣温峥嵘永夜星河二搭",
+        "onboard_time": 1699873054,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 929308,
+        "num": 356414,
+        "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+        "onboard_time": 1699860692,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354231,
+        "num": 354231,
+        "word": "RedVelvet空降",
+        "onboard_time": 1699871852,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326508,
+        "num": 326508,
+        "word": "他谈恋爱她谈天下",
+        "onboard_time": 1699869873,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296306,
+        "num": 296306,
+        "word": "电诈头目明学昌家族工地发现两具尸体",
+        "onboard_time": 1699852296,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264383,
+        "num": 264383,
+        "word": "加沙居民带刚出生几个小时婴儿逃亡",
+        "onboard_time": 1699869753,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 257020,
+        "num": 257020,
+        "word": "如果WBG夺冠我就",
+        "onboard_time": 1699866033,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246922,
+        "num": 246922,
+        "word": "宁安如梦CP线",
+        "onboard_time": 1699872812,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245123,
+        "num": 245123,
+        "word": "aespa 一个舞台四种腮红打法",
+        "onboard_time": 1699874552,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 228123,
+        "num": 228123,
+        "word": "成毅微博转评赞破10亿",
+        "onboard_time": 1699869210,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224086,
+        "num": 224086,
+        "word": "虞书欣吊带拖尾裙",
+        "onboard_time": 1699874432,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219293,
+        "num": 219293,
+        "word": "王楚钦 微博年度受欢迎运动员",
+        "onboard_time": 1699870292,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208618,
+        "num": 208618,
+        "word": "医生建议支原体肺炎护理要补充电解质",
+        "onboard_time": 1699872991,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206969,
+        "num": 206969,
+        "word": "加沙有医院没水电ICU内新生儿面临死亡",
+        "onboard_time": 1699872332,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194035,
+        "num": 194035,
+        "word": "林心如接大尺度戏会考虑霍建华感受",
+        "onboard_time": 1699860215,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193509,
+        "num": 193509,
+        "word": "中国千万净资产家庭达211万户",
+        "onboard_time": 1699859917,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188232,
+        "num": 188232,
+        "word": "于适觉得封神如果三年前上自己接不住",
+        "onboard_time": 1699871554,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172511,
+        "num": 172511,
+        "word": "包装很土但很好吃的零食",
+        "onboard_time": 1699871554,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169164,
+        "num": 169164,
+        "word": "卧床休息是养肝的最好方法",
+        "onboard_time": 1699874791,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162363,
+        "num": 162363,
+        "word": "杨幂穿马面裙",
+        "onboard_time": 1699850016,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 147320,
+        "word": "孙颖莎 微博年度受欢迎运动员",
+        "onboard_time": 1699872690,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "缅北电诈劝降视频出镜3人已被控制",
+        "onboard_time": 1699865314,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138406,
+        "num": 138406,
+        "word": "以爱为营决战修罗场之巅",
+        "onboard_time": 1699873834,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134394,
+        "num": 134394,
+        "word": "萧妃斩男全靠一张嘴",
+        "onboard_time": 1699874074,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128854,
+        "num": 128854,
+        "word": "女子失业被妈妈雇佣当司机日薪20",
+        "onboard_time": 1699856492,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 127407,
+        "word": "许凯自曝植发",
+        "onboard_time": 1699867473,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123715,
+        "num": 123715,
+        "word": "LPL全明星落地福州",
+        "onboard_time": 1699870955,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122471,
+        "num": 122471,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1699857872,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 118860,
+        "num": 118860,
+        "word": "TizzyT演唱会五城官宣",
+        "onboard_time": 1699871135,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111295,
+        "num": 111295,
+        "word": "肯豆超短羽绒服",
+        "onboard_time": 1699875213,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110642,
+        "num": 110642,
+        "word": "电竞上海大师赛",
+        "onboard_time": 1699875092,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
