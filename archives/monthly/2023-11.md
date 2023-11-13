@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 16:35:23
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 17:18:22
 </p>
 </blockquote>
 <p>
@@ -1641,6 +1641,12 @@ nobody原来是nobody cares（热度：1528602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%90%B4%E6%85%B7%E4%BB%81%20%E5%BA%8A%E6%88%8F%23" target="weibo">
+小S吴慷仁 床戏（热度：1448113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%82%9A%E5%AD%90%E5%A4%A7%E8%A2%AB%E6%90%93%E6%BE%A1%E9%98%BF%E5%A7%A8%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23" target="weibo">
 女大学生肚子大被搓澡阿姨救了一命（热度：1435162）
 </a>
@@ -2375,6 +2381,12 @@ S13半决赛（热度：1114606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AA%E4%BA%BA%E5%87%91%E4%B8%8D%E5%87%BA%E5%8D%8A%E4%B8%AA%E6%81%8B%E7%88%B1%E8%84%91%23" target="weibo">
 四个人凑不出半个恋爱脑（热度：1114249）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
+肯德基崩了（热度：1113475）
 </a>
 </li>
 
@@ -4719,6 +4731,12 @@ YG只发了朴彩英台历（热度：660096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9CWBG%E5%A4%BA%E5%86%A0%E6%88%91%E5%B0%B1%23" target="weibo">
+如果WBG夺冠我就（热度：653080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB%E6%89%93%E6%B0%B4%E5%85%89%E9%92%88%E8%BF%87%E7%A8%8B%23" target="weibo">
 林允公开分享打水光针过程（热度：651985）
 </a>
@@ -5993,24 +6011,6 @@ EDG剧本（热度：548931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E9%9D%92%E8%8B%8D%E9%95%BF%E7%8F%A9%E4%BB%99%E5%90%9B%E7%94%9F%E7%94%9F%E4%B8%96%E4%B8%96%E7%9A%84%E4%BB%87%E6%95%8C%E5%AF%B9%E6%89%8B%23" target="weibo">
 东方青苍长珩仙君生生世世的仇敌对手（热度：540549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E5%88%B04%E5%8F%AA%E4%B8%B9%E9%A1%B6%E9%B9%A4%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%B1%B1%E7%BE%8A%23" target="weibo">
-老人捡到4只丹顶鹤以为是山羊（热度：540047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E7%A9%BF%E8%A5%BF%E8%A3%85%E6%B0%94%E8%B4%A8%23" target="weibo">
-邓为穿西装气质（热度：539939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9D%83%E5%BF%97%E9%BE%99%E9%94%80%E6%AF%81%E8%AF%81%E6%8D%AE%23" target="weibo">
-韩国警方否认权志龙销毁证据（热度：539365）
 </a>
 </li>
 
