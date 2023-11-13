@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699867102502,
+  "endTime": 1699868073001,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1667,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1639420,
+      "num": 289063,
+      "word": "小S吴慷仁 床戏",
+      "onboard_time": 1699865974,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1639056,
       "num": 1639056,
       "word": "用着8000块电脑的贫困生",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1699671751,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1448113,
-      "num": 289063,
-      "word": "小S吴慷仁 床戏",
-      "onboard_time": 1699865974,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1435162,
@@ -4299,6 +4299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851633,
+      "num": 851633,
+      "word": "如果WBG夺冠我就",
+      "onboard_time": 1699866033,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 849709,
       "num": 849709,
       "word": "闲鱼回应多地大学生在平台挂学校",
@@ -6291,14 +6299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 653080,
-      "num": 653080,
-      "word": "如果WBG夺冠我就",
-      "onboard_time": 1699866033,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 651985,
       "num": 358659,
       "word": "林允公开分享打水光针过程",
@@ -6897,6 +6897,14 @@
       "onboard_time": 1698802354,
       "rank": 34,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 609647,
+      "num": 609647,
+      "word": "说眉笔贵的女生 配享太庙",
+      "onboard_time": 1699866393,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 609120,
@@ -8547,6 +8555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512954,
+      "num": 269536,
+      "word": "在富士康熬社保的女工们",
+      "onboard_time": 1699866632,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512023,
       "num": 1189353,
       "word": "这期的梦想改造家给我看气了",
@@ -8812,7 +8828,7 @@
     },
     {
       "raw_hot": 496243,
-      "num": 289062,
+      "num": 465970,
       "word": "陈奕迅想认识李荣浩也要靠朋友拉群",
       "onboard_time": 1699865373,
       "rank": 12,
@@ -10905,6 +10921,14 @@
       "onboard_time": 1699747464,
       "rank": 10,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 410398,
+      "num": 263671,
+      "word": "许凯自曝植发",
+      "onboard_time": 1699867473,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410062,
@@ -15587,6 +15611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283470,
+      "num": 283470,
+      "word": "RedVelvet新歌上线",
+      "onboard_time": 1699866453,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "LNG纯菜",
@@ -16387,6 +16419,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 270816,
+      "num": 182207,
+      "word": "染完不后悔的显白发色",
+      "onboard_time": 1699867231,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 270808,
       "num": 270808,
       "word": "梅西中国行主办方致歉",
@@ -16777,14 +16817,6 @@
       "onboard_time": 1699704092,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263744,
-      "num": 263744,
-      "word": "RedVelvet新歌上线",
-      "onboard_time": 1699866453,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 263684,
@@ -17313,14 +17345,6 @@
       "onboard_time": 1699695992,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254368,
-      "num": 254368,
-      "word": "说眉笔贵的女生 配享太庙",
-      "onboard_time": 1699866393,
-      "rank": 22,
-      "category": "美妆"
     },
     {
       "raw_hot": 254248,
@@ -19851,14 +19875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222366,
-      "num": 222366,
-      "word": "在富士康熬社保的女工们",
-      "onboard_time": 1699866632,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222291,
       "num": 371940,
       "word": "残疾妻子坚持每天给摆摊丈夫送饭",
@@ -21627,6 +21643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204402,
+      "num": 204402,
+      "word": "当孟宴臣拿疯批反派剧本",
+      "onboard_time": 1699867353,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204394,
       "num": 890862,
       "word": "孩子头颅出血交警开道7分钟送医",
@@ -22097,6 +22121,14 @@
       "onboard_time": 1699254932,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200908,
+      "num": 200908,
+      "word": "肺炎支原体感染潜伏期可达4周",
+      "onboard_time": 1699866693,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 200900,
@@ -23259,14 +23291,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 192427,
-      "num": 192427,
-      "word": "肺炎支原体感染潜伏期可达4周",
-      "onboard_time": 1699866693,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192423,
       "num": 192423,
       "word": "乐游原",
@@ -24027,6 +24051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186908,
+      "num": 867309,
+      "word": "双十一快递包裹坐上高铁了",
+      "onboard_time": 1699863093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186883,
       "num": 186883,
       "word": "山东男篮vs广东男篮",
@@ -24723,14 +24755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180090,
-      "num": 793697,
-      "word": "双十一快递包裹坐上高铁了",
-      "onboard_time": 1699863093,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180027,
       "num": 180027,
       "word": "13年的咆哮到底有多火",
@@ -25305,6 +25329,14 @@
       "onboard_time": 1699672288,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174387,
+      "num": 174387,
+      "word": "高血压的前兆",
+      "onboard_time": 1699862854,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174361,
@@ -26427,6 +26459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 164270,
+      "num": 164270,
+      "word": "孔雪儿手臂肌肉",
+      "onboard_time": 1699865132,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164186,
       "num": 549788,
       "word": "马龙4比1F勒布伦",
@@ -26507,28 +26547,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163643,
-      "num": 163643,
-      "word": "孔雪儿手臂肌肉",
-      "onboard_time": 1699865132,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 163593,
       "num": 163593,
       "word": "姜雪宁 逆天改命",
       "onboard_time": 1699832127,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163490,
-      "num": 163490,
-      "word": "高血压的前兆",
-      "onboard_time": 1699862854,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163364,
@@ -28481,6 +28505,14 @@
       "onboard_time": 1698902734,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 147583,
+      "num": 147583,
+      "word": "高血压并不是一种老年疾病",
+      "onboard_time": 1699866932,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147433,
@@ -30571,6 +30603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129493,
+      "num": 129493,
+      "word": "花着腮红的钱买了个印台",
+      "onboard_time": 1699867831,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 129410,
       "num": 129410,
       "word": "佳木斯贺晶",
@@ -30963,14 +31003,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 126234,
-      "num": 126234,
-      "word": "高血压并不是一种老年疾病",
-      "onboard_time": 1699866932,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126136,
       "num": 126136,
       "word": "聂远曾黎二搭",
@@ -31065,6 +31097,14 @@
       "onboard_time": 1698769588,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125186,
+      "num": 125186,
+      "word": "头发天生是红色",
+      "onboard_time": 1699866754,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 125139,
@@ -32171,6 +32211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114263,
+      "num": 114263,
+      "word": "帮奶奶染了个彩虹头",
+      "onboard_time": 1699867118,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114171,
       "num": 114171,
       "word": "投毛巾 方言与标准语",
@@ -32424,6 +32472,14 @@
       "word": "有一种冷叫社区阿姨嫌你冷",
       "onboard_time": 1699256132,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110923,
+      "num": 110923,
+      "word": "今年流感发病率没有比往年增多",
+      "onboard_time": 1699867353,
+      "rank": 46,
       "category": "社会新闻"
     },
     {

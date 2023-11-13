@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699867102502,
+  "endTime": 1699868073001,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -75,6 +75,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1639420,
+      "num": 289063,
+      "word": "小S吴慷仁 床戏",
+      "onboard_time": 1699865974,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1604700,
       "num": 1604700,
       "word": "熊雪被开除党籍",
@@ -89,14 +97,6 @@
       "onboard_time": 1699800574,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1448113,
-      "num": 289063,
-      "word": "小S吴慷仁 床戏",
-      "onboard_time": 1699865974,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1317905,
@@ -203,6 +203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 851633,
+      "num": 851633,
+      "word": "如果WBG夺冠我就",
+      "onboard_time": 1699866033,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 841604,
       "num": 841604,
       "word": "冰岛24小时内1400次地震",
@@ -259,14 +267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 653080,
-      "num": 653080,
-      "word": "如果WBG夺冠我就",
-      "onboard_time": 1699866033,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 651985,
       "num": 358659,
       "word": "林允公开分享打水光针过程",
@@ -297,6 +297,14 @@
       "onboard_time": 1699830142,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 609647,
+      "num": 609647,
+      "word": "说眉笔贵的女生 配享太庙",
+      "onboard_time": 1699866393,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 601998,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512954,
+      "num": 269536,
+      "word": "在富士康熬社保的女工们",
+      "onboard_time": 1699866632,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499008,
       "num": 499008,
       "word": "奔跑吧生态篇官宣",
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 496243,
-      "num": 289062,
+      "num": 465970,
       "word": "陈奕迅想认识李荣浩也要靠朋友拉群",
       "onboard_time": 1699865373,
       "rank": 12,
@@ -528,6 +544,14 @@
       "word": "裴秀智新闻图",
       "onboard_time": 1699856134,
       "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 410398,
+      "num": 263671,
+      "word": "许凯自曝植发",
+      "onboard_time": 1699867473,
+      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283470,
+      "num": 283470,
+      "word": "RedVelvet新歌上线",
+      "onboard_time": 1699866453,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282232,
       "num": 282232,
       "word": "新闻女王定档",
@@ -835,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270816,
+      "num": 182207,
+      "word": "染完不后悔的显白发色",
+      "onboard_time": 1699867231,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 270729,
       "num": 270729,
       "word": "樱兰小樱太适配了",
@@ -857,14 +897,6 @@
       "onboard_time": 1699834472,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263744,
-      "num": 263744,
-      "word": "RedVelvet新歌上线",
-      "onboard_time": 1699866453,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 263547,
@@ -897,14 +929,6 @@
       "onboard_time": 1699842871,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 254368,
-      "num": 254368,
-      "word": "说眉笔贵的女生 配享太庙",
-      "onboard_time": 1699866393,
-      "rank": 22,
-      "category": "美妆"
     },
     {
       "raw_hot": 252449,
@@ -1067,14 +1091,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 222366,
-      "num": 222366,
-      "word": "在富士康熬社保的女工们",
-      "onboard_time": 1699866632,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222136,
       "num": 222136,
       "word": "上官正义追问12年前4885份出生证被盗案",
@@ -1195,12 +1211,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204402,
+      "num": 204402,
+      "word": "当孟宴臣拿疯批反派剧本",
+      "onboard_time": 1699867353,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202075,
       "num": 188711,
       "word": "看秦岚花少眼角皱纹都变多了",
       "onboard_time": 1699860394,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200908,
+      "num": 200908,
+      "word": "肺炎支原体感染潜伏期可达4周",
+      "onboard_time": 1699866693,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 199658,
@@ -1251,12 +1283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192427,
-      "num": 192427,
-      "word": "肺炎支原体感染潜伏期可达4周",
-      "onboard_time": 1699866693,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 186908,
+      "num": 867309,
+      "word": "双十一快递包裹坐上高铁了",
+      "onboard_time": 1699863093,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186571,
@@ -1339,14 +1371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180090,
-      "num": 793697,
-      "word": "双十一快递包裹坐上高铁了",
-      "onboard_time": 1699863093,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180071,
       "num": 180071,
       "word": "结婚的意义是什么",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1699863694,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174387,
+      "num": 174387,
+      "word": "高血压的前兆",
+      "onboard_time": 1699862854,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173876,
@@ -1467,6 +1499,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 164270,
+      "num": 164270,
+      "word": "孔雪儿手臂肌肉",
+      "onboard_time": 1699865132,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163718,
       "num": 163718,
       "word": "头一次见cosplay菜鸟驿站的",
@@ -1475,28 +1515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163643,
-      "num": 163643,
-      "word": "孔雪儿手臂肌肉",
-      "onboard_time": 1699865132,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 163593,
       "num": 163593,
       "word": "姜雪宁 逆天改命",
       "onboard_time": 1699832127,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163490,
-      "num": 163490,
-      "word": "高血压的前兆",
-      "onboard_time": 1699862854,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162678,
@@ -1643,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147583,
+      "num": 147583,
+      "word": "高血压并不是一种老年疾病",
+      "onboard_time": 1699866932,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147405,
       "num": 147405,
       "word": "火箭六连胜",
@@ -1787,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129493,
+      "num": 129493,
+      "word": "花着腮红的钱买了个印台",
+      "onboard_time": 1699867831,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 128737,
       "num": 128737,
       "word": "切尔西4比4曼城",
@@ -1827,12 +1867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126234,
-      "num": 126234,
-      "word": "高血压并不是一种老年疾病",
-      "onboard_time": 1699866932,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 125186,
+      "num": 125186,
+      "word": "头发天生是红色",
+      "onboard_time": 1699866754,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 124591,
@@ -1963,6 +2003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 114263,
+      "num": 114263,
+      "word": "帮奶奶染了个彩虹头",
+      "onboard_time": 1699867118,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114171,
       "num": 114171,
       "word": "投毛巾 方言与标准语",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1699795060,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 110923,
+      "num": 110923,
+      "word": "今年流感发病率没有比往年增多",
+      "onboard_time": 1699867353,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110128,

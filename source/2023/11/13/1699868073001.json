@@ -1,0 +1,410 @@
+{
+  "runTime": 1699868073001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158722,
+        "num": 1158722,
+        "word": "被正式确诊为衣领综合征",
+        "onboard_time": 1699856854,
+        "rank": 0,
+        "category": "社会新闻,知识科普"
+      },
+      {
+        "raw_hot": 1105751,
+        "num": 1105751,
+        "word": "肯德基崩了",
+        "onboard_time": 1699864831,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186908,
+        "num": 867309,
+        "word": "双十一快递包裹坐上高铁了",
+        "onboard_time": 1699863093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851633,
+        "num": 851633,
+        "word": "如果WBG夺冠我就",
+        "onboard_time": 1699866033,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 609647,
+        "num": 609647,
+        "word": "说眉笔贵的女生 配享太庙",
+        "onboard_time": 1699866393,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 522494,
+        "num": 522494,
+        "word": "缅北电诈劝降视频出镜3人已被控制",
+        "onboard_time": 1699865314,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465970,
+        "num": 465970,
+        "word": "陈奕迅想认识李荣浩也要靠朋友拉群",
+        "onboard_time": 1699865373,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338002,
+        "num": 338002,
+        "word": "扣扣搜搜地花了很多钱",
+        "onboard_time": 1699858957,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283470,
+        "num": 283470,
+        "word": "RedVelvet新歌上线",
+        "onboard_time": 1699866453,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277893,
+        "num": 277893,
+        "word": "双十一全网消费11386亿元",
+        "onboard_time": 1699860518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1639420,
+        "num": 275811,
+        "word": "小S吴慷仁 床戏",
+        "onboard_time": 1699865974,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787164,
+        "num": 272549,
+        "word": "林心如接大尺度戏会考虑霍建华感受",
+        "onboard_time": 1699860215,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512954,
+        "num": 269536,
+        "word": "在富士康熬社保的女工们",
+        "onboard_time": 1699866632,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411053,
+        "num": 267047,
+        "word": "中国千万净资产家庭达211万户",
+        "onboard_time": 1699859917,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 410398,
+        "num": 263671,
+        "word": "许凯自曝植发",
+        "onboard_time": 1699867473,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321358,
+        "num": 259615,
+        "word": "电诈头目明学昌家族工地发现两具尸体",
+        "onboard_time": 1699852296,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259432,
+        "num": 259432,
+        "word": "古人寿命虽短却没有35岁的概念",
+        "onboard_time": 1699859132,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 244318,
+        "num": 244318,
+        "word": "张凌赫爆改霸总",
+        "onboard_time": 1699861533,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241106,
+        "num": 241106,
+        "word": "朱一龙 不要低估自己瘦下来的决心",
+        "onboard_time": 1699862320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234547,
+        "num": 234547,
+        "word": "女子失业被妈妈雇佣当司机日薪20",
+        "onboard_time": 1699856492,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970273,
+        "num": 230807,
+        "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+        "onboard_time": 1699860692,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215912,
+        "num": 215912,
+        "word": "杨幂穿马面裙",
+        "onboard_time": 1699850016,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204402,
+        "num": 204402,
+        "word": "当孟宴臣拿疯批反派剧本",
+        "onboard_time": 1699867353,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201850,
+        "num": 201850,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1699861354,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200908,
+        "num": 200908,
+        "word": "肺炎支原体感染潜伏期可达4周",
+        "onboard_time": 1699866693,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197225,
+        "num": 197225,
+        "word": "童朝晖提醒肺炎支原体非药物预防很重要",
+        "onboard_time": 1699865732,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195862,
+        "num": 195862,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1699857872,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186520,
+        "num": 186520,
+        "word": "匪我思存薅着一家虐",
+        "onboard_time": 1699864413,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183242,
+        "num": 183242,
+        "word": "许凯 内娱反姐狗统治者先锋",
+        "onboard_time": 1699866092,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170911,
+        "num": 182376,
+        "word": "泉州落水原区长已办完追悼会",
+        "onboard_time": 1699865492,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270816,
+        "num": 182207,
+        "word": "染完不后悔的显白发色",
+        "onboard_time": 1699867231,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 181935,
+        "num": 181935,
+        "word": "甜茶模仿戳爷",
+        "onboard_time": 1699864893,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174387,
+        "num": 174387,
+        "word": "高血压的前兆",
+        "onboard_time": 1699862854,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164270,
+        "num": 164270,
+        "word": "孔雪儿手臂肌肉",
+        "onboard_time": 1699865132,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149502,
+        "num": 149502,
+        "word": "日本部分居民血检异常",
+        "onboard_time": 1699847673,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147583,
+        "num": 147583,
+        "word": "高血压并不是一种老年疾病",
+        "onboard_time": 1699866932,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146936,
+        "num": 146936,
+        "word": "柳智敏给ITZY的视频信",
+        "onboard_time": 1699865193,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144615,
+        "num": 144615,
+        "word": "赵丽颖深海美人鱼",
+        "onboard_time": 1699861719,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144275,
+        "num": 144275,
+        "word": "时代少年团新歌的制作人是小鬼",
+        "onboard_time": 1699858893,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133509,
+        "num": 133509,
+        "word": "头一次见cosplay菜鸟驿站的",
+        "onboard_time": 1699865132,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129493,
+        "num": 129493,
+        "word": "花着腮红的钱买了个印台",
+        "onboard_time": 1699867831,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125186,
+        "num": 125186,
+        "word": "头发天生是红色",
+        "onboard_time": 1699866754,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121297,
+        "num": 121297,
+        "word": "WBG 四号种子的逆袭",
+        "onboard_time": 1699855293,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115123,
+        "num": 115123,
+        "word": "泉州一原区长水上餐厅落水身亡",
+        "onboard_time": 1699857032,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114972,
+        "num": 114972,
+        "word": "魏晨 父母子女互为无价之宝",
+        "onboard_time": 1699860272,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114263,
+        "num": 114263,
+        "word": "帮奶奶染了个彩虹头",
+        "onboard_time": 1699867118,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110923,
+        "num": 110923,
+        "word": "今年流感发病率没有比往年增多",
+        "onboard_time": 1699867353,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103653,
+        "num": 103653,
+        "word": "女tony",
+        "onboard_time": 1699867053,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 102691,
+        "num": 102691,
+        "word": "韩国警方承认没有权志龙吸毒物证",
+        "onboard_time": 1699857273,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102214,
+        "num": 102214,
+        "word": "护手霜推荐",
+        "onboard_time": 1699865075,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
