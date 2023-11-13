@@ -1,0 +1,410 @@
+{
+  "runTime": 1699900535787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 168621,
+        "num": 168621,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154382,
+        "num": 154382,
+        "word": "雪莉生前纪录片完整版公开",
+        "onboard_time": 1699874134,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7335,
+        "num": 128983,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128830,
+        "num": 128830,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110095,
+        "num": 110095,
+        "word": "南航白菜价机票尴尬了谁",
+        "onboard_time": 1699882955,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77707,
+        "num": 77707,
+        "word": "网友吐槽政务大厅全天工作6个小时",
+        "onboard_time": 1699886735,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67105,
+        "num": 67105,
+        "word": "iPhone15双11最后两小时降价",
+        "onboard_time": 1699878814,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66538,
+        "num": 66538,
+        "word": "55个品牌被移出中华老字号",
+        "onboard_time": 1699881153,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 63347,
+        "num": 63347,
+        "word": "柳智敏打歌时发现衣服上有针",
+        "onboard_time": 1699889672,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56868,
+        "num": 56868,
+        "word": "此时此刻",
+        "onboard_time": 1699886915,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81920,
+        "num": 56622,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263410,
+        "num": 56170,
+        "word": "小S好炸裂的回复",
+        "onboard_time": 1699884334,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73636,
+        "num": 55887,
+        "word": "缅北电诈头目明学昌年轻时惯于偷抢",
+        "onboard_time": 1699875634,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66028,
+        "num": 55683,
+        "word": "朴彩英新发色",
+        "onboard_time": 1699890690,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55397,
+        "num": 55397,
+        "word": "何猷君 小金土豆",
+        "onboard_time": 1699874372,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53657,
+        "num": 53657,
+        "word": "宁安如梦歹毒运镜加一",
+        "onboard_time": 1699879894,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47631,
+        "num": 47631,
+        "word": "这是烤冷面那我吃的是什么",
+        "onboard_time": 1699888773,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 46092,
+        "num": 46092,
+        "word": "绝迹",
+        "onboard_time": 1699889432,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42991,
+        "num": 42991,
+        "word": "清华女博士毕业做占星师月入3万",
+        "onboard_time": 1699869873,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37734,
+        "num": 37734,
+        "word": "你的男孩TizzyT来了",
+        "onboard_time": 1699889610,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131807,
+        "num": 37494,
+        "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+        "onboard_time": 1699860692,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54382,
+        "num": 37346,
+        "word": "防胃癌这5种要少吃不吃",
+        "onboard_time": 1699890093,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37066,
+        "num": 37066,
+        "word": "迪丽热巴黑粉被强执",
+        "onboard_time": 1699878873,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36280,
+        "num": 36280,
+        "word": "爱奇艺尖叫之夜完整版名单",
+        "onboard_time": 1699880132,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35098,
+        "num": 35098,
+        "word": "蔡国庆回复陈楚生",
+        "onboard_time": 1699886258,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33697,
+        "num": 33697,
+        "word": "女生最无声的炫富是什么",
+        "onboard_time": 1699875690,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33585,
+        "num": 33585,
+        "word": "妻子被推出产房丈夫献花并深情亲吻",
+        "onboard_time": 1699887514,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32757,
+        "num": 32757,
+        "word": "林俊杰都不知道自己有这份副业",
+        "onboard_time": 1699885716,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31903,
+        "num": 31903,
+        "word": "雪莉 我们需要更多的女性发声",
+        "onboard_time": 1699878273,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31883,
+        "num": 31883,
+        "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
+        "onboard_time": 1699881452,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31678,
+        "num": 31678,
+        "word": "男子上厕所时马桶突然着火",
+        "onboard_time": 1699884034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30448,
+        "num": 30448,
+        "word": "小水 淡妆浓抹总相宜",
+        "onboard_time": 1699886676,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 27966,
+        "num": 27966,
+        "word": "大张伟 其实你可以一生当一个小朋友",
+        "onboard_time": 1699887095,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27763,
+        "num": 27763,
+        "word": "天蝎座 保持舒适距离",
+        "onboard_time": 1699878934,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25698,
+        "num": 25698,
+        "word": "宁安如梦CP线",
+        "onboard_time": 1699872812,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25023,
+        "num": 25023,
+        "word": "这就是成年人的电视剧吗",
+        "onboard_time": 1699881876,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24439,
+        "num": 24439,
+        "word": "用古早言情小说来打开宁安如梦",
+        "onboard_time": 1699875391,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24353,
+        "num": 24353,
+        "word": "小米汽车信息首曝",
+        "onboard_time": 1699887756,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24229,
+        "num": 24229,
+        "word": "饶雪漫电影永不失联的爱杀青",
+        "onboard_time": 1699895360,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21061,
+        "num": 24097,
+        "word": "提醒在冰岛中国公民防范火山地震灾害",
+        "onboard_time": 1699879170,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24010,
+        "num": 24010,
+        "word": "张艺兴一个人的相声",
+        "onboard_time": 1699889374,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23712,
+        "num": 23712,
+        "word": "销冠坐到哪儿都是销冠",
+        "onboard_time": 1699887396,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22884,
+        "num": 23711,
+        "word": "难听",
+        "onboard_time": 1699868316,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22717,
+        "num": 23711,
+        "word": "AG",
+        "onboard_time": 1699885597,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21651,
+        "num": 23710,
+        "word": "张遮是姜雪宁的第一选择",
+        "onboard_time": 1699883614,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20763,
+        "num": 23710,
+        "word": "陈楚生王栎鑫你俩是握了个脚吗",
+        "onboard_time": 1699878934,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20634,
+        "num": 23710,
+        "word": "卧床休息是养肝的最好方法",
+        "onboard_time": 1699874791,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19649,
+        "num": 23709,
+        "word": "留下的人要独自回味离开的人的痕迹",
+        "onboard_time": 1699899018,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16972,
+        "num": 23709,
+        "word": "山东74名学生腹泻呕吐采样为诺如病毒",
+        "onboard_time": 1699887035,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14799,
+        "num": 23709,
+        "word": "手把手教你跨省看病怎么走医保",
+        "onboard_time": 1699881755,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
