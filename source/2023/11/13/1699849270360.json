@@ -1,0 +1,410 @@
+{
+  "runTime": 1699849270360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2247061,
+        "num": 2247061,
+        "word": "李佳琦团队回应双11收入250亿",
+        "onboard_time": 1699842091,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1827481,
+        "num": 1827481,
+        "word": "日本部分居民血检异常",
+        "onboard_time": 1699847673,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1604700,
+        "num": 1604700,
+        "word": "熊雪被开除党籍",
+        "onboard_time": 1699842990,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 985986,
+        "num": 985986,
+        "word": "缅北电诈头目录制忏悔视频",
+        "onboard_time": 1699845991,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 910642,
+        "num": 910642,
+        "word": "消费降级",
+        "onboard_time": 1699847013,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791119,
+        "num": 791119,
+        "word": "你能接受恋人有亲密恐惧症吗",
+        "onboard_time": 1699844372,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 771765,
+        "num": 771765,
+        "word": "缅甸果敢四大家族成员称将杜绝电诈",
+        "onboard_time": 1699842150,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30532,
+        "num": 683232,
+        "word": "雪天8大健康提醒",
+        "onboard_time": 1699797999,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657842,
+        "num": 657842,
+        "word": "爸爸通过监控显摆生日吃12个菜",
+        "onboard_time": 1699839991,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548801,
+        "num": 548801,
+        "word": "我来甘露寺只做一件事",
+        "onboard_time": 1699835793,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432136,
+        "num": 432136,
+        "word": "校方称明光忠不是北大学生",
+        "onboard_time": 1699847554,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420265,
+        "num": 420265,
+        "word": "每天1包方便面身体会发生什么变化",
+        "onboard_time": 1699848394,
+        "rank": 11,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 382451,
+        "num": 382451,
+        "word": "缅甸",
+        "onboard_time": 1699843533,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 375071,
+        "num": 375071,
+        "word": "NASA拍到地球凝视幽灵地貌",
+        "onboard_time": 1699847494,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 364795,
+        "num": 364795,
+        "word": "54岁教授吃饭太认真带火冷门专业",
+        "onboard_time": 1699841430,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 333812,
+        "num": 333812,
+        "word": "李佳琦团队称250亿收入纯属捏造",
+        "onboard_time": 1699848634,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320895,
+        "num": 320895,
+        "word": "奔跑吧生态篇官宣",
+        "onboard_time": 1699842990,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311932,
+        "num": 311932,
+        "word": "来者何人官宣",
+        "onboard_time": 1699848815,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282232,
+        "num": 282232,
+        "word": "新闻女王定档",
+        "onboard_time": 1699846531,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255250,
+        "num": 255250,
+        "word": "李莲花仿妆",
+        "onboard_time": 1699847852,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 554355,
+        "num": 255239,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461970,
+        "num": 255216,
+        "word": "八段锦瘦肚子是认真的",
+        "onboard_time": 1699842209,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 338295,
+        "num": 255204,
+        "word": "你习惯多久洗一次头发",
+        "onboard_time": 1699844913,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 255191,
+        "num": 255191,
+        "word": "男孩地铁呼呼大睡急坏一群大学生",
+        "onboard_time": 1699844612,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254173,
+        "num": 254173,
+        "word": "公安部就电诈犯罪惩戒办法征求意见",
+        "onboard_time": 1699847852,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 254165,
+        "num": 254165,
+        "word": "考古的风终于吹到了辛芷蕾",
+        "onboard_time": 1699830142,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250902,
+        "num": 250902,
+        "word": "于适智族GQ十一月刊封面",
+        "onboard_time": 1699846470,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235551,
+        "num": 235551,
+        "word": "勇士三连败",
+        "onboard_time": 1699848937,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231227,
+        "num": 231227,
+        "word": "金裕贞宋江我的恶魔OST阵容",
+        "onboard_time": 1699848634,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218797,
+        "num": 218797,
+        "word": "头部主播不再一家独大",
+        "onboard_time": 1699846531,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 455487,
+        "num": 216866,
+        "word": "资生堂红腰子价格大跳水",
+        "onboard_time": 1699848092,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 223250,
+        "num": 215643,
+        "word": "为什么哭久了会一抽一抽的",
+        "onboard_time": 1699848634,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 212037,
+        "num": 212037,
+        "word": "为什么冬天也需要涂防晒",
+        "onboard_time": 1699848155,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 197950,
+        "num": 197950,
+        "word": "林允公开分享打水光针过程",
+        "onboard_time": 1699833029,
+        "rank": 33,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 185839,
+        "num": 185839,
+        "word": "陆虎发烧张远帮唱",
+        "onboard_time": 1699846772,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183704,
+        "num": 183704,
+        "word": "雪龙2号遇落难外国渔船一整个打包救下",
+        "onboard_time": 1699842091,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177816,
+        "num": 177816,
+        "word": "非凡医者定档",
+        "onboard_time": 1699847494,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166749,
+        "num": 166749,
+        "word": "A股",
+        "onboard_time": 1699845932,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158030,
+        "num": 158030,
+        "word": "圣诞烤布丁拿铁",
+        "onboard_time": 1699845812,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157603,
+        "num": 157603,
+        "word": "红白歌会名单",
+        "onboard_time": 1699849176,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147015,
+        "num": 147015,
+        "word": "幼童被海浪卷走好心大哥飞奔捞起",
+        "onboard_time": 1699845031,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141748,
+        "num": 141748,
+        "word": "放大眼睛的韩妆",
+        "onboard_time": 1699847796,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140275,
+        "num": 140275,
+        "word": "故乡别来无恙 戳穿多少年轻人残酷困境",
+        "onboard_time": 1699848937,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138851,
+        "num": 138851,
+        "word": "这个家政团队总会留下一个豆腐块",
+        "onboard_time": 1699849054,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135927,
+        "num": 135927,
+        "word": "张一山韩东君张天爱新剧杀青",
+        "onboard_time": 1699845571,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128388,
+        "num": 128388,
+        "word": "韩国中小学也开始流行萝卜刀",
+        "onboard_time": 1699837234,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119309,
+        "num": 119309,
+        "word": "洗完头发后要立马吹干吗",
+        "onboard_time": 1699831707,
+        "rank": 46,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 117886,
+        "num": 117886,
+        "word": "Faker拒绝做弱爆动作",
+        "onboard_time": 1699831224,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108729,
+        "num": 108729,
+        "word": "王鹤棣 你们好六团孤立嘉宾",
+        "onboard_time": 1699835616,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107628,
+        "num": 107628,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}

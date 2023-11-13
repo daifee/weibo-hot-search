@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699846465917,
+  "endTime": 1699849270360,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -19,6 +19,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1827481,
+      "num": 1827481,
+      "word": "日本部分居民血检异常",
+      "onboard_time": 1699847673,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1698119,
       "num": 1698119,
       "word": "洗完头发后要立马吹干吗",
@@ -35,6 +43,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1604700,
+      "num": 1604700,
+      "word": "熊雪被开除党籍",
+      "onboard_time": 1699842990,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1535199,
       "num": 1535199,
       "word": "1名中国人被越南判处死刑",
@@ -43,16 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1519196,
-      "num": 1519196,
-      "word": "熊雪被开除党籍",
-      "onboard_time": 1699842990,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1317905,
-      "num": 223855,
+      "num": 255239,
       "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
       "onboard_time": 1699839092,
       "rank": 22,
@@ -75,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985986,
+      "num": 985986,
+      "word": "缅北电诈头目录制忏悔视频",
+      "onboard_time": 1699845991,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 916586,
       "num": 568242,
       "word": "T1晋级S13总决赛",
       "onboard_time": 1699788286,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 910642,
+      "num": 910642,
+      "word": "消费降级",
+      "onboard_time": 1699847013,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859909,
@@ -100,11 +124,19 @@
     },
     {
       "raw_hot": 827389,
-      "num": 218441,
+      "num": 255216,
       "word": "八段锦瘦肚子是认真的",
       "onboard_time": 1699842209,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 791119,
+      "num": 791119,
+      "word": "你能接受恋人有亲密恐惧症吗",
+      "onboard_time": 1699844372,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 751354,
@@ -171,14 +203,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 506535,
-      "num": 506535,
-      "word": "你能接受恋人有亲密恐惧症吗",
-      "onboard_time": 1699844372,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 499008,
       "num": 499008,
       "word": "奔跑吧生态篇官宣",
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 490027,
-      "num": 215235,
+      "num": 255204,
       "word": "你习惯多久洗一次头发",
       "onboard_time": 1699844913,
       "rank": 22,
@@ -217,6 +241,22 @@
       "onboard_time": 1699798835,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455487,
+      "num": 216866,
+      "word": "资生堂红腰子价格大跳水",
+      "onboard_time": 1699848092,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 432136,
+      "num": 432136,
+      "word": "校方称明光忠不是北大学生",
+      "onboard_time": 1699847554,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429370,
@@ -251,6 +291,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 420265,
+      "num": 420265,
+      "word": "每天1包方便面身体会发生什么变化",
+      "onboard_time": 1699848394,
+      "rank": 11,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 417312,
       "num": 417312,
       "word": "本周狗屎运最旺的星座",
@@ -265,6 +313,14 @@
       "onboard_time": 1699842091,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375071,
+      "num": 375071,
+      "word": "NASA拍到地球凝视幽灵地貌",
+      "onboard_time": 1699847494,
+      "rank": 13,
+      "category": "知识科普"
     },
     {
       "raw_hot": 373615,
@@ -299,19 +355,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 341953,
-      "num": 341953,
-      "word": "缅北电诈头目录制忏悔视频",
-      "onboard_time": 1699845991,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 341629,
       "num": 341629,
       "word": "游客打车遇e人司机1秒变公主",
       "onboard_time": 1699838312,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333812,
+      "num": 333812,
+      "word": "李佳琦团队称250亿收入纯属捏造",
+      "onboard_time": 1699848634,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -347,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311932,
+      "num": 311932,
+      "word": "来者何人官宣",
+      "onboard_time": 1699848815,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307603,
       "num": 307603,
       "word": "王子璇也是追星女",
@@ -361,6 +425,14 @@
       "onboard_time": 1699793259,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282232,
+      "num": 282232,
+      "word": "新闻女王定档",
+      "onboard_time": 1699846531,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 280860,
@@ -411,12 +483,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 255250,
+      "num": 255250,
+      "word": "李莲花仿妆",
+      "onboard_time": 1699847852,
+      "rank": 19,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 254173,
+      "num": 254173,
+      "word": "公安部就电诈犯罪惩戒办法征求意见",
+      "onboard_time": 1699847852,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 252449,
       "num": 252449,
       "word": "Zeus喊话TheShy",
       "onboard_time": 1699831224,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250902,
+      "num": 250902,
+      "word": "于适智族GQ十一月刊封面",
+      "onboard_time": 1699846470,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249228,
@@ -443,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235551,
+      "num": 235551,
+      "word": "勇士三连败",
+      "onboard_time": 1699848937,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235537,
       "num": 235537,
       "word": "全昭旻RM正式下车",
@@ -457,6 +561,14 @@
       "onboard_time": 1699841969,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231227,
+      "num": 231227,
+      "word": "金裕贞宋江我的恶魔OST阵容",
+      "onboard_time": 1699848634,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 228461,
@@ -491,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223250,
+      "num": 215643,
+      "word": "为什么哭久了会一抽一抽的",
+      "onboard_time": 1699848634,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 220853,
       "num": 220853,
       "word": "宁安如梦连更",
@@ -499,12 +619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218797,
+      "num": 218797,
+      "word": "头部主播不再一家独大",
+      "onboard_time": 1699846531,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 216906,
       "num": 190323,
       "word": "毕业才发现跟大学老师不是一个阶层的",
       "onboard_time": 1699802737,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212037,
+      "num": 212037,
+      "word": "为什么冬天也需要涂防晒",
+      "onboard_time": 1699848155,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 206659,
@@ -563,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185839,
+      "num": 185839,
+      "word": "陆虎发烧张远帮唱",
+      "onboard_time": 1699846772,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185731,
       "num": 185731,
       "word": "A股",
@@ -609,6 +753,14 @@
       "onboard_time": 1699798358,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177816,
+      "num": 177816,
+      "word": "非凡医者定档",
+      "onboard_time": 1699847494,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176522,
@@ -665,6 +817,14 @@
       "onboard_time": 1699799859,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157603,
+      "num": 157603,
+      "word": "红白歌会名单",
+      "onboard_time": 1699849176,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 157227,
@@ -771,12 +931,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141748,
+      "num": 141748,
+      "word": "放大眼睛的韩妆",
+      "onboard_time": 1699847796,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 140275,
+      "num": 140275,
+      "word": "故乡别来无恙 戳穿多少年轻人残酷困境",
+      "onboard_time": 1699848937,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "白鹿催宁安如梦加更",
       "onboard_time": 1699790974,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138851,
+      "num": 138851,
+      "word": "这个家政团队总会留下一个豆腐块",
+      "onboard_time": 1699849054,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136822,
