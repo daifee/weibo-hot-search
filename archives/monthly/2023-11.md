@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 23:34:33
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 00:23:02
 </p>
 </blockquote>
 <p>
@@ -5361,6 +5361,12 @@ ELLE直播（热度：611590）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E6%96%B0%E5%8F%91%E8%89%B2%23" target="weibo">
+朴彩英新发色（热度：606796）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E6%95%99%E6%8E%88%E7%82%B9%E8%AF%84%E5%BC%A0%E5%B0%8F%E6%96%90%E6%BC%94%E6%8A%80%23" target="weibo">
 中戏教授点评张小斐演技（热度：606665）
 </a>
@@ -6005,12 +6011,6 @@ LNG输比赛多品牌直播间抗寒梗爆了（热度：557439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%9C%9F%E7%9A%84%E5%86%85%E5%A8%B1%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E5%96%9C%E5%89%A7%E4%BA%BA%23" target="weibo">
 早期的内娱遍地都是喜剧人（热度：553110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E7%A7%B0250%E4%BA%BF%E6%94%B6%E5%85%A5%E7%BA%AF%E5%B1%9E%E6%8D%8F%E9%80%A0%23" target="weibo">
-李佳琦团队称250亿收入纯属捏造（热度：553104）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699889673008,
+  "endTime": 1699892582501,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -1075,6 +1075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 606796,
+      "num": 292197,
+      "word": "朴彩英新发色",
+      "onboard_time": 1699890690,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 606191,
       "num": 606191,
       "word": "Knight 隐身",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1699844913,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 487548,
+      "num": 487548,
+      "word": "柳智敏打歌时发现衣服上有针",
+      "onboard_time": 1699889672,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 487156,
@@ -1899,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 377677,
+      "num": 377677,
+      "word": "绝迹",
+      "onboard_time": 1699889432,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 375952,
       "num": 375952,
       "word": "梁靖崑vs户上隼辅",
@@ -2275,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306481,
+      "num": 224851,
+      "word": "防胃癌这5种要少吃不吃",
+      "onboard_time": 1699890093,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305267,
       "num": 305267,
       "word": "任嘉伦田曦薇张凌赫窦骁何超莲合照",
@@ -2627,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267654,
+      "num": 267654,
+      "word": "这是烤冷面那我吃的是什么",
+      "onboard_time": 1699888773,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267496,
       "num": 267496,
       "word": "郑书意被流氓纠缠",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1699783949,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245960,
+      "num": 245960,
+      "word": "你的男孩TizzyT来了",
+      "onboard_time": 1699889610,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 244772,
@@ -3129,14 +3177,6 @@
       "onboard_time": 1699848937,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221357,
-      "num": 221357,
-      "word": "这是烤冷面那我吃的是什么",
-      "onboard_time": 1699888773,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 221243,
@@ -4995,14 +5035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 127219,
-      "num": 127219,
-      "word": "绝迹",
-      "onboard_time": 1699889432,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127106,
       "num": 127106,
       "word": "上海人工耳蜗纳入医保可减约七成费用",
@@ -5017,14 +5049,6 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125666,
-      "num": 125666,
-      "word": "你的男孩TizzyT来了",
-      "onboard_time": 1699889610,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 125571,
