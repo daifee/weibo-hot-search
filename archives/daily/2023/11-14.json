@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699913794789,
+  "endTime": 1699914860745,
   "band_list": [
     {
       "raw_hot": 1754600,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130005,
+      "num": 130005,
+      "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
+      "onboard_time": 1699881452,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127817,
       "num": 127817,
       "word": "杨幂小时候唱小红帽",
@@ -329,14 +337,6 @@
       "onboard_time": 1699883856,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106888,
-      "num": 108401,
-      "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
-      "onboard_time": 1699881452,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101387,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45417,
+      "num": 39419,
+      "word": "如果有人在地铁突然放下手机",
+      "onboard_time": 1699909513,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 33578,
       "num": 45008,
       "word": "宁安如梦CP线",
@@ -443,20 +451,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32231,
-      "num": 32231,
-      "word": "如果有人在地铁突然放下手机",
-      "onboard_time": 1699909513,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 26054,
-      "num": 26054,
+      "raw_hot": 31840,
+      "num": 31840,
       "word": "让腰腹赘肉无路可逃的普拉提",
       "onboard_time": 1699906393,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 30438,
+      "num": 30438,
+      "word": "冬天不用出门的锻炼方式",
+      "onboard_time": 1699913055,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 29914,
+      "num": 29914,
+      "word": "冬季什么时候洗头合适",
+      "onboard_time": 1699908073,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25645,
@@ -467,28 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 22695,
-      "num": 22695,
-      "word": "冬季什么时候洗头合适",
-      "onboard_time": 1699908073,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18352,
-      "num": 19195,
+      "raw_hot": 20117,
+      "num": 27492,
       "word": "鲨鱼夹发型",
       "onboard_time": 1699904592,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 17286,
-      "num": 19204,
-      "word": "冬天不用出门的锻炼方式",
-      "onboard_time": 1699913055,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 13292,
@@ -499,7 +499,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7573,
+      "raw_hot": 8992,
       "num": 250513,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1699881575,
