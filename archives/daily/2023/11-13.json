@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699849270360,
+  "endTime": 1699850089996,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -11,20 +11,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2942276,
+      "num": 2942276,
+      "word": "日本部分居民血检异常",
+      "onboard_time": 1699847673,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2840307,
       "num": 2840307,
       "word": "李佳琦团队回应双11收入250亿",
       "onboard_time": 1699842091,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1827481,
-      "num": 1827481,
-      "word": "日本部分居民血检异常",
-      "onboard_time": 1699847673,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1698119,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1317905,
-      "num": 255239,
+      "num": 296476,
       "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
       "onboard_time": 1699839092,
       "rank": 22,
@@ -91,20 +91,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 944456,
+      "num": 944456,
+      "word": "消费降级",
+      "onboard_time": 1699847013,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916586,
       "num": 568242,
       "word": "T1晋级S13总决赛",
       "onboard_time": 1699788286,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 910642,
-      "num": 910642,
-      "word": "消费降级",
-      "onboard_time": 1699847013,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859909,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 827389,
-      "num": 255216,
+      "num": 294004,
       "word": "八段锦瘦肚子是认真的",
       "onboard_time": 1699842209,
       "rank": 21,
@@ -145,6 +145,14 @@
       "onboard_time": 1699843533,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 696382,
+      "num": 696382,
+      "word": "每天1包方便面身体会发生什么变化",
+      "onboard_time": 1699848394,
+      "rank": 11,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 673528,
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598341,
+      "num": 598341,
+      "word": "红白歌会名单",
+      "onboard_time": 1699849176,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 596526,
       "num": 596526,
       "word": "广西大学回应院长信箱对着摄像头",
@@ -192,6 +208,22 @@
       "word": "冰岛宣布进入紧急状态",
       "onboard_time": 1699784970,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560018,
+      "num": 553869,
+      "word": "资生堂红腰子价格大跳水",
+      "onboard_time": 1699848092,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 553104,
+      "num": 553104,
+      "word": "李佳琦团队称250亿收入纯属捏造",
+      "onboard_time": 1699848634,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 490027,
-      "num": 255204,
+      "num": 291899,
       "word": "你习惯多久洗一次头发",
       "onboard_time": 1699844913,
       "rank": 22,
@@ -241,14 +273,6 @@
       "onboard_time": 1699798835,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455487,
-      "num": 216866,
-      "word": "资生堂红腰子价格大跳水",
-      "onboard_time": 1699848092,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 432136,
@@ -291,12 +315,12 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 420265,
-      "num": 420265,
-      "word": "每天1包方便面身体会发生什么变化",
-      "onboard_time": 1699848394,
-      "rank": 11,
-      "category": "健康医疗,知识科普"
+      "raw_hot": 420533,
+      "num": 420533,
+      "word": "来者何人官宣",
+      "onboard_time": 1699848815,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 417312,
@@ -315,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375071,
-      "num": 375071,
+      "raw_hot": 383698,
+      "num": 383698,
       "word": "NASA拍到地球凝视幽灵地貌",
       "onboard_time": 1699847494,
       "rank": 13,
@@ -355,19 +379,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343064,
+      "num": 221016,
+      "word": "为什么哭久了会一抽一抽的",
+      "onboard_time": 1699848634,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 341629,
       "num": 341629,
       "word": "游客打车遇e人司机1秒变公主",
       "onboard_time": 1699838312,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333812,
-      "num": 333812,
-      "word": "李佳琦团队称250亿收入纯属捏造",
-      "onboard_time": 1699848634,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311932,
-      "num": 311932,
-      "word": "来者何人官宣",
-      "onboard_time": 1699848815,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 307603,
       "num": 307603,
       "word": "王子璇也是追星女",
@@ -427,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286976,
+      "num": 286976,
+      "word": "斗破苍穹首部电影定档",
+      "onboard_time": 1699849838,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 284599,
+      "num": 289448,
+      "word": "库里独木难支",
+      "onboard_time": 1699849415,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282232,
       "num": 282232,
       "word": "新闻女王定档",
@@ -435,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281235,
+      "num": 281235,
+      "word": "公安部就电诈犯罪惩戒办法征求意见",
+      "onboard_time": 1699847852,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 280860,
       "num": 280860,
       "word": "张一山韩东君张天爱新剧杀青",
       "onboard_time": 1699845571,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277733,
+      "num": 277733,
+      "word": "李莲花仿妆",
+      "onboard_time": 1699847852,
+      "rank": 19,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 276751,
@@ -481,22 +529,6 @@
       "onboard_time": 1699842871,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 255250,
-      "num": 255250,
-      "word": "李莲花仿妆",
-      "onboard_time": 1699847852,
-      "rank": 19,
-      "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 254173,
-      "num": 254173,
-      "word": "公安部就电诈犯罪惩戒办法征求意见",
-      "onboard_time": 1699847852,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 252449,
@@ -603,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223250,
-      "num": 215643,
-      "word": "为什么哭久了会一抽一抽的",
-      "onboard_time": 1699848634,
-      "rank": 31,
-      "category": "知识科普"
+      "raw_hot": 221701,
+      "num": 221701,
+      "word": "故乡别来无恙 戳穿多少年轻人残酷困境",
+      "onboard_time": 1699848937,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 220853,
@@ -819,12 +851,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157603,
-      "num": 157603,
-      "word": "红白歌会名单",
-      "onboard_time": 1699849176,
-      "rank": 39,
-      "category": "音乐"
+      "raw_hot": 161729,
+      "num": 161729,
+      "word": "杨幂穿马面裙",
+      "onboard_time": 1699850016,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 157227,
@@ -857,6 +889,14 @@
       "onboard_time": 1699804532,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "这个家政团队总会留下一个豆腐块",
+      "onboard_time": 1699849054,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149532,
@@ -931,20 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141748,
-      "num": 141748,
+      "raw_hot": 142017,
+      "num": 142017,
       "word": "放大眼睛的韩妆",
       "onboard_time": 1699847796,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 140275,
-      "num": 140275,
-      "word": "故乡别来无恙 戳穿多少年轻人残酷困境",
-      "onboard_time": 1699848937,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 139207,
@@ -953,14 +985,6 @@
       "onboard_time": 1699790974,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138851,
-      "num": 138851,
-      "word": "这个家政团队总会留下一个豆腐块",
-      "onboard_time": 1699849054,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136822,
@@ -995,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128278,
+      "num": 128278,
+      "word": "冰岛频繁地震导致大地出现裂痕",
+      "onboard_time": 1699850077,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 128019,
       "num": 128019,
       "word": "你洗完头会吹干还是自然干",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1699838552,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127312,
+      "num": 127312,
+      "word": "重生之我在美团当评审团",
+      "onboard_time": 1699849899,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 127106,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32433,
+      "num": 1076701,
+      "word": "中国经济的融融暖意会让发展更有劲",
+      "onboard_time": 1699849535,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32316,
       "num": 32316,
       "word": "阿森纳3比1伯恩利",
@@ -1268,6 +1316,9 @@
     },
     {
       "word": "#中美元首会晤#"
+    },
+    {
+      "word": "#9图速览什么是APEC#"
     }
   ]
 }
