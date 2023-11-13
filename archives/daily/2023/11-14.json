@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699892582501,
+  "endTime": 1699893548334,
   "band_list": [
     {
       "raw_hot": 1754600,
@@ -123,24 +123,24 @@
       "category": "数码"
     },
     {
-      "raw_hot": 275409,
-      "num": 275409,
-      "word": "南航白菜价机票尴尬了谁",
-      "onboard_time": 1699882955,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267654,
-      "num": 267654,
+      "raw_hot": 304192,
+      "num": 304192,
       "word": "这是烤冷面那我吃的是什么",
       "onboard_time": 1699888773,
       "rank": 15,
       "category": "美食"
     },
     {
-      "raw_hot": 245960,
-      "num": 245960,
+      "raw_hot": 275409,
+      "num": 283974,
+      "word": "南航白菜价机票尴尬了谁",
+      "onboard_time": 1699882955,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260256,
+      "num": 260256,
       "word": "你的男孩TizzyT来了",
       "onboard_time": 1699889610,
       "rank": 16,
@@ -379,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 74047,
+      "num": 74047,
+      "word": "难听",
+      "onboard_time": 1699868316,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 72807,
       "num": 821055,
       "word": "手把手教你跨省看病怎么走医保",
@@ -393,6 +401,14 @@
       "onboard_time": 1699883976,
       "rank": 48,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 51245,
+      "num": 72051,
+      "word": "提醒在冰岛中国公民防范火山地震灾害",
+      "onboard_time": 1699879170,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51006,

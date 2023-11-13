@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699892582501,
+  "endTime": 1699893548334,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -15155,6 +15155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 304192,
+      "num": 304192,
+      "word": "这是烤冷面那我吃的是什么",
+      "onboard_time": 1699888773,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 303861,
       "num": 303861,
       "word": "王鹤棣腰力",
@@ -17075,14 +17083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267654,
-      "num": 267654,
-      "word": "这是烤冷面那我吃的是什么",
-      "onboard_time": 1699888773,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 267510,
       "num": 1383677,
       "word": "77岁奶奶10年来每天打篮球2小时",
@@ -17505,6 +17505,14 @@
       "onboard_time": 1699144530,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 260256,
+      "num": 260256,
+      "word": "你的男孩TizzyT来了",
+      "onboard_time": 1699889610,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 260231,
@@ -18481,14 +18489,6 @@
       "onboard_time": 1698889358,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 245960,
-      "num": 245960,
-      "word": "你的男孩TizzyT来了",
-      "onboard_time": 1699889610,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 245924,
