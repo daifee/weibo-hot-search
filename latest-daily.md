@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 13:34:08
+本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 14:23:00
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@ T1晋级S13总决赛（热度：916586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E7%AC%91%E8%AF%9D%23" target="weibo">
+大冰笑话（热度：531862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%94%9F%E6%80%81%E7%AF%87%E5%AE%98%E5%AE%A3%23" target="weibo">
 奔跑吧生态篇官宣（热度：499008）
 </a>
@@ -245,6 +251,12 @@ Faker拒绝做弱爆动作（热度：478144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B0%E6%98%8E%E5%85%89%E5%BF%A0%E4%B8%8D%E6%98%AF%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
 校方称明光忠不是北大学生（热度：432136）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9D%A2%E8%A3%99%E9%85%8D%E5%A4%A7%E8%A1%A3%23" target="weibo">
+马面裙配大衣（热度：429937）
 </a>
 </li>
 
@@ -293,6 +305,12 @@ Faker拒绝做弱爆动作（热度：478144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%992%E5%8F%B7%E9%81%87%E8%90%BD%E9%9A%BE%E5%A4%96%E5%9B%BD%E6%B8%94%E8%88%B9%E4%B8%80%E6%95%B4%E4%B8%AA%E6%89%93%E5%8C%85%E6%95%91%E4%B8%8B%23" target="weibo">
 雪龙2号遇落难外国渔船一整个打包救下（热度：403953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%20%E8%89%BE%E5%9B%A0%23" target="weibo">
+时空中的绘旅人 艾因（热度：384837）
 </a>
 </li>
 
@@ -430,13 +448,19 @@ WBG赢了血赚输了不亏（热度：271504）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%B1%E5%85%B0%E5%B0%8F%E6%A8%B1%E5%A4%AA%E9%80%82%E9%85%8D%E4%BA%86%23" target="weibo">
-樱兰小樱太适配了（热度：266094）
+樱兰小樱太适配了（热度：270729）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%B6%E7%8C%AB%E4%B8%80%E6%80%92%E4%B9%8B%E4%B8%8B%E6%80%92%E4%BA%86%E4%B8%80%E4%B8%8B%23" target="weibo">
 小奶猫一怒之下怒了一下（热度：264446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E4%B8%8AGQ%E5%8D%95%E5%B0%81%E7%9A%84%E5%9B%9B%E4%BD%8D95%E7%94%9F%23" target="weibo">
+登上GQ单封的四位95生（热度：261406）
 </a>
 </li>
 
@@ -449,12 +473,6 @@ WBG赢了血赚输了不亏（热度：271504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23vivoX100%E5%A4%96%E8%A7%82%E8%BE%A8%E8%AF%86%E5%BA%A6%23" target="weibo">
 vivoX100外观辨识度（热度：258345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E7%AC%91%E8%AF%9D%23" target="weibo">
-大冰笑话（热度：255140）
 </a>
 </li>
 
@@ -483,6 +501,12 @@ Zeus喊话TheShy（热度：252449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E8%A2%AB%E6%B5%B7%E6%B5%AA%E5%8D%B7%E8%B5%B0%E5%A5%BD%E5%BF%83%E5%A4%A7%E5%93%A5%E9%A3%9E%E5%A5%94%E6%8D%9E%E8%B5%B7%23" target="weibo">
+幼童被海浪卷走好心大哥飞奔捞起（热度：237457）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%AF%B4%E4%B8%8B%E4%B8%80%E9%83%A8%E4%B8%80%E5%AE%9A%E6%98%AF%E7%8E%B0%E5%81%B6%23" target="weibo">
 张凌赫说下一部一定是现偶（热度：237438）
 </a>
@@ -507,8 +531,20 @@ Zeus喊话TheShy（热度：252449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%20%E5%9B%9B%E5%8F%B7%E7%A7%8D%E5%AD%90%E7%9A%84%E9%80%86%E8%A2%AD%23" target="weibo">
+WBG 四号种子的逆袭（热度：233374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%A3%95%E8%B4%9E%E5%AE%8B%E6%B1%9F%E6%88%91%E7%9A%84%E6%81%B6%E9%AD%94OST%E9%98%B5%E5%AE%B9%23" target="weibo">
 金裕贞宋江我的恶魔OST阵容（热度：231227）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%A7%80%E6%99%BA%E6%96%B0%E9%97%BB%E5%9B%BE%23" target="weibo">
+裴秀智新闻图（热度：231122）
 </a>
 </li>
 
@@ -533,6 +569,12 @@ Faker晋级决赛时的表情（热度：228461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%8F%AB%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E6%97%B6%E6%80%BB%E6%97%B6%E5%A4%AA%E5%A4%AA%23" target="weibo">
 李雪琴叫王鹤棣白鹿时总时太太（热度：226388）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%98%E6%AD%A3%E4%B9%89%E8%BF%BD%E9%97%AE12%E5%B9%B4%E5%89%8D4885%E4%BB%BD%E5%87%BA%E7%94%9F%E8%AF%81%E8%A2%AB%E7%9B%97%E6%A1%88%23" target="weibo">
+上官正义追问12年前4885份出生证被盗案（热度：222136）
 </a>
 </li>
 
@@ -567,6 +609,12 @@ Faker晋级决赛时的表情（热度：228461）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9C%A6%E8%83%A7%E6%B0%B4%E5%85%89%E5%A6%86%23" target="weibo">
+赵丽颖朦胧水光妆（热度：210266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%94%B6%E5%88%B0%E7%94%9F%E6%97%A5%E6%83%8A%E5%96%9C%E6%92%A4%E5%9B%9E%E8%B5%B7%E5%BA%8A%E6%B0%94%23" target="weibo">
 男生收到生日惊喜撤回起床气（热度：206659）
 </a>
@@ -581,12 +629,6 @@ Faker晋级决赛时的表情（热度：228461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%8F%91%E5%8D%9A%E5%91%8A%E5%88%ABS13%23" target="weibo">
 JDG发博告别S13（热度：198830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E8%A2%AB%E6%B5%B7%E6%B5%AA%E5%8D%B7%E8%B5%B0%E5%A5%BD%E5%BF%83%E5%A4%A7%E5%93%A5%E9%A3%9E%E5%A5%94%E6%8D%9E%E8%B5%B7%23" target="weibo">
-幼童被海浪卷走好心大哥飞奔捞起（热度：198055）
 </a>
 </li>
 
@@ -671,6 +713,12 @@ WBG决赛对战T1（热度：185333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E7%87%83%E5%86%AC%E7%89%88%23" target="weibo">
 甄嬛传燃冬版（热度：173662）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23aespa%20%E6%90%9E%E7%AC%91%E4%B8%80%E5%AE%B6%E4%BA%BA%23" target="weibo">
+aespa 搞笑一家人（热度：171745）
 </a>
 </li>
 
@@ -771,6 +819,12 @@ MANNER 小程序进不去（热度：149515）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23" target="weibo">
+以爱为营（热度：148131）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%AD%E5%85%AD%E8%BF%9E%E8%83%9C%23" target="weibo">
 火箭六连胜（热度：147405）
 </a>
@@ -821,6 +875,12 @@ MANNER 小程序进不去（热度：149515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8D%E4%BD%B0%20%E4%B8%BB%E6%AD%8C%E4%BD%A0%E4%BB%AC%E5%94%B1%E5%89%AF%E6%AD%8C%E4%B9%9F%E6%98%AF%E4%BD%A0%E4%BB%AC%E5%94%B1%23" target="weibo">
 伍佰 主歌你们唱副歌也是你们唱（热度：136822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2350%E5%B2%81%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%8E%B7%E6%95%91%E5%90%8E%E8%AF%B4%E6%88%91%E4%B8%8D%E8%AE%B9%E4%BD%A0%23" target="weibo">
+50岁女子骑车被撞获救后说我不讹你（热度：133662）
 </a>
 </li>
 
@@ -879,6 +939,12 @@ MANNER 小程序进不去（热度：149515）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2389%E5%B2%81%E5%9D%9A%E6%8C%81%E7%AB%99%E7%9D%80%E4%B8%8A%E8%AF%BE%E7%9A%84%E9%99%A2%E5%A3%AB%E8%B5%B0%E4%BA%86%23" target="weibo">
+89岁坚持站着上课的院士走了（热度：120740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Knight%20%E9%9A%90%E8%BA%AB%23" target="weibo">
 Knight 隐身（热度：120279）
 </a>
@@ -897,8 +963,20 @@ Knight 隐身（热度：120279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA%E6%97%A5%E8%96%AA20%23" target="weibo">
+女子失业被妈妈雇佣当司机日薪20（热度：119297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%E5%B7%A6%E6%85%88%20%E6%AD%A4%E7%94%9F%E4%B8%8D%E6%8D%A2%23" target="weibo">
 代号鸢左慈 此生不换（热度：119235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%BD%93%E5%BD%93%E5%BD%93%E7%89%88%E5%A7%9C%E9%9B%AA%E5%AE%81%23" target="weibo">
+当当当当版姜雪宁（热度：117484）
 </a>
 </li>
 
@@ -933,8 +1011,14 @@ Knight 隐身（热度：120279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2350%E5%B2%81%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%8E%B7%E6%95%91%E5%90%8E%E8%AF%B4%E6%88%91%E4%B8%8D%E8%AE%B9%E4%BD%A0%23" target="weibo">
-50岁女子骑车被撞获救后说我不讹你（热度：109558）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C7%E8%B7%91%E5%8F%8B%E6%8E%A5%E5%8A%9B%E6%8A%A2%E6%95%91%23" target="weibo">
+男子马拉松心脏骤停7跑友接力抢救（热度：110128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%BC%A0%E8%AF%91%E6%98%AF%E9%9C%B8%E6%80%BB%E5%A3%B0%E9%9F%B3%23" target="weibo">
+没想到张译是霸总声音（热度：109243）
 </a>
 </li>
 
@@ -1013,12 +1097,6 @@ Ruler和Faker  一墙之隔胜负之分（热度：107679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%94%B7%E4%B8%BB%E7%BB%99%E5%A5%B3%E4%B8%BB%E5%96%82%E8%8D%AF%23" target="weibo">
 最真实的男主给女主喂药（热度：85548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%BD%93%E5%BD%93%E5%BD%93%E7%89%88%E5%A7%9C%E9%9B%AA%E5%AE%81%23" target="weibo">
-当当当当版姜雪宁（热度：82993）
 </a>
 </li>
 

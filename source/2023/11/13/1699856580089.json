@@ -1,0 +1,410 @@
+{
+  "runTime": 1699856580089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2054868,
+        "num": 2054868,
+        "word": "电诈头目明学昌家族工地发现两具尸体",
+        "onboard_time": 1699852296,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1525368,
+        "num": 1525368,
+        "word": "日本部分居民血检异常",
+        "onboard_time": 1699847673,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 45968,
+        "num": 974408,
+        "word": "中国经济的融融暖意会让发展更有劲",
+        "onboard_time": 1699849535,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531862,
+        "num": 531862,
+        "word": "大冰笑话",
+        "onboard_time": 1699852953,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442341,
+        "num": 442341,
+        "word": "为什么哭久了会一抽一抽的",
+        "onboard_time": 1699848634,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 410904,
+        "num": 410904,
+        "word": "冰岛频繁地震导致大地出现裂痕",
+        "onboard_time": 1699850077,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 397333,
+        "num": 397333,
+        "word": "每天1包方便面身体会发生什么变化",
+        "onboard_time": 1699848394,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 391535,
+        "num": 391535,
+        "word": "李佳琦团队称250亿收入纯属捏造",
+        "onboard_time": 1699848634,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384837,
+        "num": 384837,
+        "word": "时空中的绘旅人 艾因",
+        "onboard_time": 1699855117,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359190,
+        "num": 359190,
+        "word": "资生堂红腰子价格大跳水",
+        "onboard_time": 1699848092,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 913041,
+        "num": 343493,
+        "word": "杨幂穿马面裙",
+        "onboard_time": 1699850016,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 429937,
+        "num": 342912,
+        "word": "马面裙配大衣",
+        "onboard_time": 1699854813,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 325198,
+        "num": 325198,
+        "word": "爸爸通过监控显摆生日吃12个菜",
+        "onboard_time": 1699839991,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307929,
+        "num": 307929,
+        "word": "消费降级",
+        "onboard_time": 1699847013,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298266,
+        "num": 298266,
+        "word": "时影 少年不知道自己是苍生的月",
+        "onboard_time": 1699851459,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270729,
+        "num": 270729,
+        "word": "樱兰小樱太适配了",
+        "onboard_time": 1699850920,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 266004,
+        "num": 266004,
+        "word": "我来甘露寺只做一件事",
+        "onboard_time": 1699835793,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261406,
+        "num": 261406,
+        "word": "登上GQ单封的四位95生",
+        "onboard_time": 1699856072,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256593,
+        "num": 256593,
+        "word": "缅甸果敢四大家族成员称将杜绝电诈",
+        "onboard_time": 1699842150,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 241244,
+        "num": 241244,
+        "word": "电视剧要久久爱OST",
+        "onboard_time": 1699852896,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398032,
+        "num": 240617,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289396,
+        "num": 240101,
+        "word": "八段锦瘦肚子是认真的",
+        "onboard_time": 1699842209,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 237457,
+        "num": 237457,
+        "word": "幼童被海浪卷走好心大哥飞奔捞起",
+        "onboard_time": 1699845031,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234672,
+        "num": 234672,
+        "word": "你习惯多久洗一次头发",
+        "onboard_time": 1699844913,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 233374,
+        "num": 233374,
+        "word": "WBG 四号种子的逆袭",
+        "onboard_time": 1699855293,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231122,
+        "num": 231122,
+        "word": "裴秀智新闻图",
+        "onboard_time": 1699856134,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222136,
+        "num": 222136,
+        "word": "上官正义追问12年前4885份出生证被盗案",
+        "onboard_time": 1699854633,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210266,
+        "num": 210266,
+        "word": "赵丽颖朦胧水光妆",
+        "onboard_time": 1699854572,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191366,
+        "num": 191366,
+        "word": "起底缅甸果敢电诈头目明氏家族",
+        "onboard_time": 1699850799,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 171745,
+        "num": 171745,
+        "word": "aespa 搞笑一家人",
+        "onboard_time": 1699853732,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161046,
+        "num": 161046,
+        "word": "熊雪被开除党籍",
+        "onboard_time": 1699842990,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160545,
+        "num": 160545,
+        "word": "男孩地铁呼呼大睡急坏一群大学生",
+        "onboard_time": 1699844612,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148131,
+        "num": 148131,
+        "word": "以爱为营",
+        "onboard_time": 1699855833,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139546,
+        "num": 139546,
+        "word": "徐冬冬尹子维首个合体综艺",
+        "onboard_time": 1699851817,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139115,
+        "num": 139115,
+        "word": "斗破苍穹首部电影定档",
+        "onboard_time": 1699849838,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134834,
+        "num": 134834,
+        "word": "缅甸",
+        "onboard_time": 1699843533,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 133662,
+        "num": 133662,
+        "word": "50岁女子骑车被撞获救后说我不讹你",
+        "onboard_time": 1699852774,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132505,
+        "num": 132505,
+        "word": "54岁教授吃饭太认真带火冷门专业",
+        "onboard_time": 1699841430,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "红白歌会名单",
+        "onboard_time": 1699849176,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128592,
+        "num": 128592,
+        "word": "奔跑吧生态篇官宣",
+        "onboard_time": 1699842990,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126237,
+        "num": 126237,
+        "word": "谢娜何炅同框合照",
+        "onboard_time": 1699852119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120740,
+        "num": 120740,
+        "word": "89岁坚持站着上课的院士走了",
+        "onboard_time": 1699856435,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119297,
+        "num": 119297,
+        "word": "女子失业被妈妈雇佣当司机日薪20",
+        "onboard_time": 1699856492,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117484,
+        "num": 117484,
+        "word": "当当当当版姜雪宁",
+        "onboard_time": 1699853554,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110128,
+        "num": 110128,
+        "word": "男子马拉松心脏骤停7跑友接力抢救",
+        "onboard_time": 1699854934,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109243,
+        "num": 109243,
+        "word": "没想到张译是霸总声音",
+        "onboard_time": 1699855774,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102218,
+        "num": 102218,
+        "word": "李莲花仿妆",
+        "onboard_time": 1699847852,
+        "rank": 46,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 101225,
+        "num": 101225,
+        "word": "缅北电诈头目录制忏悔视频",
+        "onboard_time": 1699845991,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99198,
+        "num": 99198,
+        "word": "于适智族GQ十一月刊封面",
+        "onboard_time": 1699846470,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95804,
+        "num": 95804,
+        "word": "甄嬛传燃冬版",
+        "onboard_time": 1699851520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤#"
+    }
+  }
+}
