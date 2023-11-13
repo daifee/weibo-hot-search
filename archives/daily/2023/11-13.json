@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699860855284,
+  "endTime": 1699863762578,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1722571,
+      "num": 1722571,
+      "word": "被正式确诊为衣领综合征",
+      "onboard_time": 1699856854,
+      "rank": 28,
+      "category": "社会新闻,知识科普"
+    },
+    {
       "raw_hot": 1698119,
       "num": 1698119,
       "word": "洗完头发后要立马吹干吗",
       "onboard_time": 1699831707,
       "rank": 31,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 1691351,
+      "num": 234892,
+      "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+      "onboard_time": 1699860692,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1673663,
@@ -107,6 +123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1144895,
+      "num": 323578,
+      "word": "林心如接大尺度戏会考虑霍建华感受",
+      "onboard_time": 1699860215,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1095459,
       "num": 447649,
       "word": "杨幂穿马面裙",
@@ -121,14 +145,6 @@
       "onboard_time": 1699848394,
       "rank": 11,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 1046471,
-      "num": 1046471,
-      "word": "被正式确诊为衣领综合征",
-      "onboard_time": 1699856854,
-      "rank": 28,
-      "category": "社会新闻,知识科普"
     },
     {
       "raw_hot": 985986,
@@ -187,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 774823,
+      "num": 774823,
+      "word": "中国千万净资产家庭达211万户",
+      "onboard_time": 1699859917,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 751354,
       "num": 387374,
       "word": "缅甸",
@@ -195,7 +219,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 701177,
+      "raw_hot": 745814,
       "num": 701177,
       "word": "古人寿命虽短却没有35岁的概念",
       "onboard_time": 1699859132,
@@ -209,6 +233,14 @@
       "onboard_time": 1699841430,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 653537,
+      "num": 312185,
+      "word": "张凌赫爆改霸总",
+      "onboard_time": 1699861533,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 651985,
@@ -233,6 +265,14 @@
       "onboard_time": 1699830142,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605167,
+      "num": 605167,
+      "word": "扣扣搜搜地花了很多钱",
+      "onboard_time": 1699858957,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 601998,
@@ -347,12 +387,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 488149,
-      "num": 188757,
-      "word": "林心如接大尺度戏会考虑霍建华感受",
-      "onboard_time": 1699860215,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 487156,
+      "num": 487156,
+      "word": "双十一全网消费11386亿元",
+      "onboard_time": 1699860518,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478144,
@@ -379,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452076,
-      "num": 452076,
-      "word": "中国千万净资产家庭达211万户",
-      "onboard_time": 1699859917,
-      "rank": 9,
-      "category": "财经,社会新闻"
+      "raw_hot": 453763,
+      "num": 453763,
+      "word": "国家卫健委新闻发布会",
+      "onboard_time": 1699861354,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 432136,
@@ -523,20 +563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358552,
+      "num": 358552,
+      "word": "景甜一声哥哥把许凯叫懵了",
+      "onboard_time": 1699858294,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353420,
       "num": 353420,
       "word": "浙江一大妈买海鱼红烧后半夜发绿光",
       "onboard_time": 1699790495,
       "rank": 18,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 350250,
-      "num": 350250,
-      "word": "扣扣搜搜地花了很多钱",
-      "onboard_time": 1699858957,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 349013,
@@ -576,14 +616,6 @@
       "word": "电视剧要久久爱OST",
       "onboard_time": 1699852896,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 334857,
-      "num": 334857,
-      "word": "景甜一声哥哥把许凯叫懵了",
-      "onboard_time": 1699858294,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -715,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278673,
+      "num": 278673,
+      "word": "我国呼吸道疾病进入高发季",
+      "onboard_time": 1699861654,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277733,
       "num": 277733,
       "word": "李莲花仿妆",
@@ -825,6 +865,14 @@
       "onboard_time": 1699845031,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238875,
+      "num": 238875,
+      "word": "朱一龙 不要低估自己瘦下来的决心",
+      "onboard_time": 1699862320,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 237438,
@@ -963,6 +1011,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214885,
+      "num": 214885,
+      "word": "陈漫拍的于适",
+      "onboard_time": 1699860692,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213365,
+      "num": 213365,
+      "word": "万鹏首档综艺",
+      "onboard_time": 1699860518,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212709,
       "num": 188745,
       "word": "高颅顶半扎高马尾",
@@ -977,6 +1041,14 @@
       "onboard_time": 1699848155,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210857,
+      "num": 210857,
+      "word": "剧组在高校拍摄用激光笔驱赶学生",
+      "onboard_time": 1699861894,
+      "rank": 25,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 210266,
@@ -1011,14 +1083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203421,
-      "num": 203421,
-      "word": "双十一全网消费11386亿元",
-      "onboard_time": 1699860518,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202075,
       "num": 188711,
       "word": "看秦岚花少眼角皱纹都变多了",
@@ -1043,14 +1107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198707,
-      "num": 198707,
-      "word": "陈漫拍的于适",
-      "onboard_time": 1699860692,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 196235,
       "num": 163834,
       "word": "杰出 刀塔录音",
@@ -1059,12 +1115,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196118,
-      "num": 187182,
-      "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
-      "onboard_time": 1699860692,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 194923,
+      "num": 194923,
+      "word": "赵丽颖深海美人鱼",
+      "onboard_time": 1699861719,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194414,
@@ -1123,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184524,
+      "num": 184524,
+      "word": "交个朋友原副总裁被举报财务侵占",
+      "onboard_time": 1699860813,
+      "rank": 47,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 182826,
       "num": 182826,
       "word": "马克西50分",
@@ -1161,14 +1225,6 @@
       "onboard_time": 1699808784,
       "rank": 33,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 175386,
-      "num": 175386,
-      "word": "万鹏首档综艺",
-      "onboard_time": 1699860518,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 173876,
@@ -1259,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163490,
+      "num": 163490,
+      "word": "高血压的前兆",
+      "onboard_time": 1699862854,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162678,
       "num": 162678,
       "word": "薛之谦双层挑染发色",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1699856732,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159130,
+      "num": 159130,
+      "word": "专家解读肺炎支原体感染和流感区别",
+      "onboard_time": 1699862974,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157227,
@@ -1395,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144487,
+      "num": 144487,
+      "word": "五月天上海开唱场馆附近震感明显",
+      "onboard_time": 1699861295,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143439,
       "num": 143439,
       "word": "压力给到WBG",
@@ -1443,20 +1523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140025,
+      "num": 140025,
+      "word": "痘肌如何喝奶茶",
+      "onboard_time": 1699863572,
+      "rank": 36,
+      "category": "美妆,美食"
+    },
+    {
+      "raw_hot": 139440,
+      "num": 139440,
+      "word": "欧洲最高活火山再次喷发",
+      "onboard_time": 1699862433,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "白鹿催宁安如梦加更",
       "onboard_time": 1699790974,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138532,
-      "num": 138532,
-      "word": "交个朋友原副总裁被举报财务侵占",
-      "onboard_time": 1699860813,
-      "rank": 47,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 136822,
@@ -1547,6 +1635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126462,
+      "num": 126462,
+      "word": "和叶打包带走了花花的竹子",
+      "onboard_time": 1699863393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124591,
+      "num": 124591,
+      "word": "马保国仿妆",
+      "onboard_time": 1699862794,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 122935,
       "num": 122935,
       "word": "在东北见到冰糖帝王蟹冰糖龙虾",
@@ -1633,6 +1737,30 @@
       "onboard_time": 1699775130,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115643,
+      "num": 115643,
+      "word": "毛戈平腮红",
+      "onboard_time": 1699863518,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 115421,
+      "num": 115421,
+      "word": "张馨予 自由的美感",
+      "onboard_time": 1699863694,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115234,
+      "num": 115234,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 114171,
@@ -1771,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75003,
+      "num": 628301,
+      "word": "双十一快递包裹坐上高铁了",
+      "onboard_time": 1699863093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66861,
       "num": 1193392,
       "word": "中国经济的融融暖意会让发展更有劲",
@@ -1817,6 +1953,14 @@
       "onboard_time": 1699777050,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34828,
+      "num": 309868,
+      "word": "运动员红毯造型",
+      "onboard_time": 1699862433,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 32316,
