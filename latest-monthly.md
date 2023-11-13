@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 10:28:13
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 10:38:57
 </p>
 </blockquote>
 <p>
@@ -1701,6 +1701,12 @@ T1 压力（热度：1376437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23" target="weibo">
+李佳琦团队回应双11收入250亿（热度：1367251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%9D%A5%E4%BA%86%23" target="weibo">
 花少5第一次真正的矛盾来了（热度：1366947）
 </a>
@@ -2009,6 +2015,12 @@ JDG晋级S13四强（热度：1251728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%AD%94%E5%BA%94%E7%99%BD%E9%B9%BF%E4%B8%8D%E7%94%A8%E5%A4%A7%E7%81%AF%23" target="weibo">
 导演答应白鹿不用大灯（热度：1230353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
+爸爸通过监控显摆生日吃12个菜（热度：1224717）
 </a>
 </li>
 
@@ -2763,12 +2775,6 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
-爸爸通过监控显摆生日吃12个菜（热度：960289）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B023%E4%B8%AA%E9%95%BF%E6%96%B0%E5%86%A0%E6%A0%87%E5%BF%97%E7%89%A9%23" target="weibo">
 我国首次发现23个长新冠标志物（热度：959541）
 </a>
@@ -2975,6 +2981,12 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GEN%20%E4%BA%94%E6%94%BE%E7%9A%87%E5%AD%90%23" target="weibo">
 GEN 五放皇子（热度：882209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E7%A7%B0%E5%B0%86%E6%9D%9C%E7%BB%9D%E7%94%B5%E8%AF%88%23" target="weibo">
+缅甸果敢四大家族成员称将杜绝电诈（热度：880139）
 </a>
 </li>
 
@@ -3245,6 +3257,12 @@ S13四强已有三支LPL战队（热度：837933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%A4%8D%E7%99%BD%E9%B9%BF%23" target="weibo">
 爱奇艺回复白鹿（热度：827643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%AE%B5%E9%94%A6%E7%98%A6%E8%82%9A%E5%AD%90%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84%23" target="weibo">
+八段锦瘦肚子是认真的（热度：827389）
 </a>
 </li>
 
@@ -4433,6 +4451,12 @@ Kanavi在干嘛（热度：674777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1%23" target="weibo">
 一中国公民在澳大利亚不幸溺亡（热度：673362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2354%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A%23" target="weibo">
+54岁教授吃饭太认真带火冷门专业（热度：672608）
 </a>
 </li>
 
@@ -5835,12 +5859,6 @@ EDG剧本（热度：548931）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%AE%B5%E9%94%A6%E7%98%A6%E8%82%9A%E5%AD%90%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84%23" target="weibo">
-八段锦瘦肚子是认真的（热度：539767）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9D%83%E5%BF%97%E9%BE%99%E9%94%80%E6%AF%81%E8%AF%81%E6%8D%AE%23" target="weibo">
 韩国警方否认权志龙销毁证据（热度：539365）
 </a>
@@ -5993,24 +6011,6 @@ Faker这一推绝了（热度：528914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%A0%E9%9D%93%E9%A2%96%E5%90%88%E7%85%A7%23" target="weibo">
 刘亦菲张靓颖合照（热度：527843）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%B0%88%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E6%8B%86%E5%AE%9E%E9%AA%8C%E5%AE%A4%23" target="weibo">
-医生谈中山二院拆实验室（热度：526605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E5%A7%90%E5%A7%90%E5%A7%90%E5%A7%90%E5%A7%90%E5%A7%90%23" target="weibo">
-曾舜晞姐姐姐姐姐姐（热度：526282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E5%9B%9E%E5%BA%94%E8%83%8C%E5%B8%A6%E8%A3%A4%E9%80%A0%E5%9E%8B%23" target="weibo">
-张艺兴演唱会伴舞回应背带裤造型（热度：526104）
 </a>
 </li>
 
