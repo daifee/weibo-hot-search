@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699871856039,
+  "endTime": 1699874111390,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1221419,
+      "num": 1221419,
+      "word": "清华女博士毕业做占星师月入3万",
+      "onboard_time": 1699869873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1166261,
       "num": 1166261,
       "word": "冰岛频繁地震导致大地出现裂痕",
@@ -273,6 +281,14 @@
       "onboard_time": 1699859132,
       "rank": 13,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 710810,
+      "num": 710810,
+      "word": "阿奇霉素对病毒感染是无效的",
+      "onboard_time": 1699871252,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 673528,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513811,
+      "num": 513811,
+      "word": "虞书欣温峥嵘永夜星河二搭",
+      "onboard_time": 1699873054,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512954,
       "num": 415561,
       "word": "在富士康熬社保的女工们",
@@ -465,6 +489,14 @@
       "onboard_time": 1699842990,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498449,
+      "num": 498449,
+      "word": "以爱为营豆瓣评分4.8分",
+      "onboard_time": 1699869273,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 496243,
@@ -499,20 +531,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 477029,
+      "num": 384786,
+      "word": "吴慷仁性张力",
+      "onboard_time": 1699873113,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470163,
       "num": 349765,
       "word": "马化腾称阿里云不如腾讯云截图是假的",
       "onboard_time": 1699834651,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 469339,
-      "num": 469339,
-      "word": "以爱为营豆瓣评分4.8分",
-      "onboard_time": 1699869273,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 463845,
@@ -531,28 +563,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456835,
+      "num": 456835,
+      "word": "RedVelvet空降",
+      "onboard_time": 1699871852,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453763,
       "num": 453763,
       "word": "国家卫健委新闻发布会",
       "onboard_time": 1699861354,
       "rank": 6,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 448236,
-      "num": 448236,
-      "word": "清华女博士毕业做占星师月入3万",
-      "onboard_time": 1699869873,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433482,
-      "num": 433482,
-      "word": "阿奇霉素对病毒感染是无效的",
-      "onboard_time": 1699871252,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 432136,
@@ -681,6 +705,14 @@
       "onboard_time": 1699847494,
       "rank": 13,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 374488,
+      "num": 374488,
+      "word": "加沙有医院没水电ICU内新生儿面临死亡",
+      "onboard_time": 1699872332,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 373615,
@@ -843,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310242,
+      "num": 310242,
+      "word": "宁安如梦CP线",
+      "onboard_time": 1699872812,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307603,
       "num": 307603,
       "word": "王子璇也是追星女",
@@ -865,6 +905,14 @@
       "onboard_time": 1699793259,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299866,
+      "num": 299866,
+      "word": "英前首相卡梅伦被任命为外交大臣",
+      "onboard_time": 1699873171,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 293839,
@@ -1011,6 +1059,14 @@
       "category": "美妆,美食"
     },
     {
+      "raw_hot": 263140,
+      "num": 982858,
+      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
+      "onboard_time": 1699868999,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "甜茶模仿戳爷",
@@ -1067,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245322,
-      "num": 982858,
-      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
-      "onboard_time": 1699868999,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 247203,
+      "num": 771073,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 244281,
@@ -1251,6 +1307,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 218667,
+      "num": 218667,
+      "word": "权志龙接受采访直播",
+      "onboard_time": 1699873590,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216906,
       "num": 190323,
       "word": "毕业才发现跟大学老师不是一个阶层的",
@@ -1411,12 +1475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192000,
-      "num": 771073,
-      "word": "11岁男生用编程讲历史获全国一等奖",
-      "onboard_time": 1699863335,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 187446,
+      "num": 187446,
+      "word": "医生建议支原体肺炎护理要补充电解质",
+      "onboard_time": 1699872991,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186908,
@@ -1603,6 +1667,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 169807,
+      "num": 169807,
+      "word": "孙颖莎 微博年度受欢迎运动员",
+      "onboard_time": 1699872690,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169745,
       "num": 169745,
       "word": "谢娜何炅同框合照",
@@ -1656,6 +1728,14 @@
       "word": "许凯景甜sosweet",
       "onboard_time": 1699871494,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164601,
+      "num": 164601,
+      "word": "时宴 低位耳洞",
+      "onboard_time": 1699873952,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1715,6 +1795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158769,
+      "num": 158769,
+      "word": "包装很土但很好吃的零食",
+      "onboard_time": 1699871554,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157227,
       "num": 157227,
       "word": "宁安如梦",
@@ -1761,14 +1849,6 @@
       "onboard_time": 1699788999,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152962,
-      "num": 152962,
-      "word": "包装很土但很好吃的零食",
-      "onboard_time": 1699871554,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 152651,
@@ -1923,6 +2003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141875,
+      "num": 141875,
+      "word": "vivoX100发布会",
+      "onboard_time": 1699873531,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "es卡池预告",
@@ -1977,6 +2065,14 @@
       "onboard_time": 1699858054,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133783,
+      "num": 133783,
+      "word": "以爱为营决战修罗场之巅",
+      "onboard_time": 1699873834,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 133662,
@@ -2060,7 +2156,7 @@
     },
     {
       "raw_hot": 125571,
-      "num": 627231,
+      "num": 717375,
       "word": "秋天的九寨沟是色彩的交点",
       "onboard_time": 1699868999,
       "rank": 6,
@@ -2155,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118646,
+      "num": 118646,
+      "word": "萧妃斩男全靠一张嘴",
+      "onboard_time": 1699874074,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118030,
       "num": 118030,
       "word": "护手霜推荐",
@@ -2217,6 +2321,14 @@
       "onboard_time": 1699851037,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113469,
+      "num": 113469,
+      "word": "成年人哪有不发疯的",
+      "onboard_time": 1699872872,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 112965,
