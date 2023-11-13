@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699893548334,
+  "endTime": 1699895784592,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -5377,6 +5377,14 @@
       "onboard_time": 1699777050,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111687,
+      "num": 97908,
+      "word": "饶雪漫电影永不失联的爱杀青",
+      "onboard_time": 1699895360,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 110923,
