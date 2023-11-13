@@ -1,0 +1,410 @@
+{
+  "runTime": 1699839407192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2794939,
+        "num": 2794939,
+        "word": "李佳琦双十一收入超250亿",
+        "onboard_time": 1699831286,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1232712,
+        "num": 1232712,
+        "word": "洗完头发后要立马吹干吗",
+        "onboard_time": 1699831707,
+        "rank": 1,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 53946,
+        "num": 1161294,
+        "word": "雪天8大健康提醒",
+        "onboard_time": 1699797999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141064,
+        "num": 1141064,
+        "word": "我来甘露寺只做一件事",
+        "onboard_time": 1699835793,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 859909,
+        "num": 859909,
+        "word": "韩国中小学也开始流行萝卜刀",
+        "onboard_time": 1699837234,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 609599,
+        "num": 609599,
+        "word": "1名中国人被越南判处死刑",
+        "onboard_time": 1699800574,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422270,
+        "num": 422270,
+        "word": "南方气温将再下一个台阶",
+        "onboard_time": 1699836693,
+        "rank": 6,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 416075,
+        "num": 416075,
+        "word": "Faker拒绝做弱爆动作",
+        "onboard_time": 1699831224,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361365,
+        "num": 361365,
+        "word": "cityline崩了",
+        "onboard_time": 1699838012,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344950,
+        "num": 344950,
+        "word": "张远一把抱住了陆虎",
+        "onboard_time": 1699836214,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 552763,
+        "num": 344565,
+        "word": "林允公开分享打水光针过程",
+        "onboard_time": 1699833029,
+        "rank": 10,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 402523,
+        "num": 344081,
+        "word": "考古的风终于吹到了辛芷蕾",
+        "onboard_time": 1699830142,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354930,
+        "num": 343017,
+        "word": "马化腾称阿里云不如腾讯云截图是假的",
+        "onboard_time": 1699834651,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341629,
+        "num": 341629,
+        "word": "游客打车遇e人司机1秒变公主",
+        "onboard_time": 1699838312,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324494,
+        "num": 324494,
+        "word": "马立奥 回长沙真开心",
+        "onboard_time": 1699836815,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320244,
+        "num": 320244,
+        "word": "T1晋级S13总决赛",
+        "onboard_time": 1699788286,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312150,
+        "num": 312150,
+        "word": "王鹤棣 你们好六团孤立嘉宾",
+        "onboard_time": 1699835616,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305484,
+        "num": 305484,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699830982,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292429,
+        "num": 292429,
+        "word": "冰岛24小时内1400次地震",
+        "onboard_time": 1699818615,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273942,
+        "num": 273942,
+        "word": "广西大学回应院长信箱对着摄像头",
+        "onboard_time": 1699838251,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235556,
+        "num": 235556,
+        "word": "小奶猫一怒之下怒了一下",
+        "onboard_time": 1699834472,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226388,
+        "num": 226388,
+        "word": "李雪琴叫王鹤棣白鹿时总时太太",
+        "onboard_time": 1699837053,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219184,
+        "num": 219184,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218242,
+        "num": 218242,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212942,
+        "num": 212942,
+        "word": "阿里全系产品崩了",
+        "onboard_time": 1699789774,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206934,
+        "num": 206934,
+        "word": "Zeus喊话TheShy",
+        "onboard_time": 1699831224,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180810,
+        "num": 180810,
+        "word": "全昭旻RM正式下车",
+        "onboard_time": 1699834472,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177883,
+        "num": 177883,
+        "word": "爱奇艺回复白鹿",
+        "onboard_time": 1699798835,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176140,
+        "num": 176140,
+        "word": "男生收到生日惊喜撤回起床气",
+        "onboard_time": 1699837234,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170099,
+        "num": 170099,
+        "word": "薛之谦把大屏镜头给了绿巨人",
+        "onboard_time": 1699834532,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167675,
+        "num": 167675,
+        "word": "男子四千米高山骑行偶遇野生大熊猫",
+        "onboard_time": 1699837173,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 153398,
+        "num": 153398,
+        "word": "2女生捡到3千现金后报警交还",
+        "onboard_time": 1699803096,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149351,
+        "num": 149351,
+        "word": "狗狗睡觉前都知道给自己盖好被子",
+        "onboard_time": 1699835793,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148991,
+        "num": 148991,
+        "word": "德约科维奇八夺年终世界第一",
+        "onboard_time": 1699838012,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "于适穿制服",
+        "onboard_time": 1699834111,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147329,
+        "num": 147329,
+        "word": "四川凉山发生3.6级地震",
+        "onboard_time": 1699838972,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142289,
+        "num": 142289,
+        "word": "WBG赢了血赚输了不亏",
+        "onboard_time": 1699792413,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139221,
+        "num": 139221,
+        "word": "第一批用上减肥神药的人怎样了",
+        "onboard_time": 1699800574,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136822,
+        "num": 136822,
+        "word": "伍佰 主歌你们唱副歌也是你们唱",
+        "onboard_time": 1699838910,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134569,
+        "num": 134569,
+        "word": "57国联合谴责以色列",
+        "onboard_time": 1699808784,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 130037,
+        "num": 130037,
+        "word": "JDG发博告别S13",
+        "onboard_time": 1699794635,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127766,
+        "num": 127766,
+        "word": "白桃星座",
+        "onboard_time": 1699832550,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 127681,
+        "num": 127681,
+        "word": "男主有这认错的态度怎么be",
+        "onboard_time": 1699838552,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125954,
+        "num": 125954,
+        "word": "姜雪宁 逆天改命",
+        "onboard_time": 1699832127,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120384,
+        "num": 120384,
+        "word": "MANNER 小程序进不去",
+        "onboard_time": 1699835793,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119843,
+        "num": 119843,
+        "word": "儿媳为带公婆吃自助撒谎只要10元",
+        "onboard_time": 1699796676,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115748,
+        "num": 115748,
+        "word": "毕业才发现跟大学老师不是一个阶层的",
+        "onboard_time": 1699802737,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113449,
+        "num": 113449,
+        "word": "五月天后遗症",
+        "onboard_time": 1699831707,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112136,
+        "num": 112136,
+        "word": "浙江一大妈买海鱼红烧后半夜发绿光",
+        "onboard_time": 1699790495,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 103063,
+        "num": 103063,
+        "word": "结婚的意义是什么",
+        "onboard_time": 1699798358,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤#"
+    }
+  }
+}

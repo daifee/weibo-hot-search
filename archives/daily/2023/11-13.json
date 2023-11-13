@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699838137798,
+  "endTime": 1699839407192,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -43,6 +43,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 859909,
+      "num": 859909,
+      "word": "韩国中小学也开始流行萝卜刀",
+      "onboard_time": 1699837234,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 841604,
       "num": 841604,
       "word": "冰岛24小时内1400次地震",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 611866,
-      "num": 318588,
+      "num": 344081,
       "word": "考古的风终于吹到了辛芷蕾",
       "onboard_time": 1699830142,
       "rank": 10,
@@ -107,14 +115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 469457,
-      "num": 334860,
-      "word": "韩国中小学也开始流行萝卜刀",
-      "onboard_time": 1699837234,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 463459,
       "num": 463459,
       "word": "爱奇艺回复白鹿",
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 422270,
+      "num": 422270,
+      "word": "南方气温将再下一个台阶",
+      "onboard_time": 1699836693,
+      "rank": 8,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 417312,
       "num": 417312,
       "word": "本周狗屎运最旺的星座",
@@ -147,20 +155,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 408281,
-      "num": 408281,
-      "word": "南方气温将再下一个台阶",
-      "onboard_time": 1699836693,
-      "rank": 8,
-      "category": "社会新闻,自然"
-    },
-    {
       "raw_hot": 373615,
-      "num": 167901,
+      "num": 324494,
       "word": "马立奥 回长沙真开心",
       "onboard_time": 1699836815,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361365,
+      "num": 361365,
+      "word": "cityline崩了",
+      "onboard_time": 1699838012,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 353420,
@@ -171,20 +179,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 344950,
+      "num": 344950,
+      "word": "张远一把抱住了陆虎",
+      "onboard_time": 1699836214,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 341629,
+      "num": 341629,
+      "word": "游客打车遇e人司机1秒变公主",
+      "onboard_time": 1699838312,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321084,
       "num": 321084,
       "word": "陈乔恩 和身边的朋友渐行渐远",
       "onboard_time": 1699796617,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316942,
-      "num": 316942,
-      "word": "张远一把抱住了陆虎",
-      "onboard_time": 1699836214,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 314247,
@@ -219,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273942,
+      "num": 273942,
+      "word": "广西大学回应院长信箱对着摄像头",
+      "onboard_time": 1699838251,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 271504,
       "num": 271504,
       "word": "WBG赢了血赚输了不亏",
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 264446,
-      "num": 225154,
+      "num": 235556,
       "word": "小奶猫一怒之下怒了一下",
       "onboard_time": 1699834472,
       "rank": 21,
@@ -307,8 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222275,
-      "num": 206092,
+      "raw_hot": 226388,
+      "num": 226388,
       "word": "李雪琴叫王鹤棣白鹿时总时太太",
       "onboard_time": 1699837053,
       "rank": 24,
@@ -321,6 +345,14 @@
       "onboard_time": 1699796617,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219184,
+      "num": 219184,
+      "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+      "onboard_time": 1699839092,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216906,
@@ -491,12 +523,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 147914,
-      "num": 147914,
-      "word": "cityline崩了",
+      "raw_hot": 148991,
+      "num": 148991,
+      "word": "德约科维奇八夺年终世界第一",
       "onboard_time": 1699838012,
-      "rank": 38,
-      "category": "艺人"
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 147329,
+      "num": 147329,
+      "word": "四川凉山发生3.6级地震",
+      "onboard_time": 1699838972,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143439,
@@ -531,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136822,
+      "num": 136822,
+      "word": "伍佰 主歌你们唱副歌也是你们唱",
+      "onboard_time": 1699838910,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131060,
       "num": 131060,
       "word": "这饭包到底是谁在吃啊",
       "onboard_time": 1699831946,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129928,
-      "num": 129928,
-      "word": "德约科维奇八夺年终世界第一",
-      "onboard_time": 1699838012,
-      "rank": 45,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 129693,
@@ -561,6 +601,14 @@
       "onboard_time": 1699831165,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127681,
+      "num": 127681,
+      "word": "男主有这认错的态度怎么be",
+      "onboard_time": 1699838552,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 120791,
