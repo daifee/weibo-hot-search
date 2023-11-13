@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699885030879,
+  "endTime": 1699886078947,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -51,12 +51,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1976016,
+      "num": 529951,
+      "word": "小S好炸裂的回复",
+      "onboard_time": 1699884334,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1944059,
       "num": 1944059,
       "word": "女子失业被妈妈雇佣当司机日薪20",
       "onboard_time": 1699856492,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1922089,
+      "num": 1922089,
+      "word": "春晚导演 汗流浃背了",
+      "onboard_time": 1699884394,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1722571,
@@ -203,6 +219,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1094278,
+      "num": 1094278,
+      "word": "苹果公司将禁止摇一摇跳转广告",
+      "onboard_time": 1699884158,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1047846,
       "num": 1047846,
       "word": "每天1包方便面身体会发生什么变化",
@@ -233,14 +257,6 @@
       "onboard_time": 1699847013,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 939088,
-      "num": 464790,
-      "word": "小S好炸裂的回复",
-      "onboard_time": 1699884334,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 928672,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 835470,
-      "num": 454750,
+      "num": 510212,
       "word": "在何猷君身上看到了生理性喜欢的样子",
       "onboard_time": 1699878273,
       "rank": 30,
@@ -347,28 +363,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 730766,
-      "num": 730766,
-      "word": "春晚导演 汗流浃背了",
-      "onboard_time": 1699884394,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 710810,
       "num": 710810,
       "word": "阿奇霉素对病毒感染是无效的",
       "onboard_time": 1699871252,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 700867,
-      "num": 700867,
-      "word": "苹果公司将禁止摇一摇跳转广告",
-      "onboard_time": 1699884158,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 694011,
@@ -1051,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319688,
+      "num": 271841,
+      "word": "男子上厕所时马桶突然着火",
+      "onboard_time": 1699884034,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318468,
       "num": 318468,
       "word": "陈楚生发文告别披荆斩棘",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1699793259,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297212,
+      "num": 297212,
+      "word": "南航白菜价机票尴尬了谁",
+      "onboard_time": 1699882955,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293839,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1699861654,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278533,
+      "num": 278533,
+      "word": "宁安如梦热度",
+      "onboard_time": 1699884937,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 277733,
@@ -1347,6 +1371,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 251644,
+      "num": 251644,
+      "word": "林俊杰都不知道自己有这份副业",
+      "onboard_time": 1699885716,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251578,
       "num": 251578,
       "word": "老丈人看女婿越看越气",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1699865732,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 241470,
-      "num": 241470,
-      "word": "南航白菜价机票尴尬了谁",
-      "onboard_time": 1699882955,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241349,
@@ -1539,14 +1563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 224858,
-      "num": 224858,
-      "word": "男子上厕所时马桶突然着火",
-      "onboard_time": 1699884034,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224234,
       "num": 238408,
       "word": "提醒在冰岛中国公民防范火山地震灾害",
@@ -1595,12 +1611,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 217495,
+      "num": 217495,
+      "word": "危危一笑又被截图了",
+      "onboard_time": 1699884274,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216906,
       "num": 190323,
       "word": "毕业才发现跟大学老师不是一个阶层的",
       "onboard_time": 1699802737,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216516,
+      "num": 216516,
+      "word": "冬天到了都听医生的",
+      "onboard_time": 1699885236,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213998,
@@ -1651,6 +1683,14 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 210437,
+      "num": 210437,
+      "word": "AG",
+      "onboard_time": 1699885597,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210266,
       "num": 210266,
       "word": "赵丽颖朦胧水光妆",
@@ -1660,7 +1700,7 @@
     },
     {
       "raw_hot": 209665,
-      "num": 476129,
+      "num": 574023,
       "word": "vivoX100发布会",
       "onboard_time": 1699873531,
       "rank": 37,
@@ -1697,6 +1737,14 @@
       "onboard_time": 1699834532,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205377,
+      "num": 205377,
+      "word": "王嘉尔黑白双拼发色",
+      "onboard_time": 1699885414,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204402,
@@ -1745,14 +1793,6 @@
       "onboard_time": 1699859672,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 199114,
-      "num": 199114,
-      "word": "危危一笑又被截图了",
-      "onboard_time": 1699884274,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 198830,
@@ -2227,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150662,
-      "num": 150662,
-      "word": "宁安如梦热度",
-      "onboard_time": 1699884937,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149532,
       "num": 149532,
       "word": "上官正义称受到国家卫健委邀见",
@@ -2419,8 +2451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136924,
-      "num": 898228,
+      "raw_hot": 137391,
+      "num": 1322917,
       "word": "手把手教你跨省看病怎么走医保",
       "onboard_time": 1699881755,
       "rank": 2,
@@ -2571,6 +2603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124302,
+      "num": 177436,
+      "word": "安东尼泰勒",
+      "onboard_time": 1699884696,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123553,
       "num": 123553,
       "word": "网飞版三体预告",
@@ -2601,6 +2641,14 @@
       "onboard_time": 1699865432,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121605,
+      "num": 164643,
+      "word": "蔡司百年技术都给了vivo",
+      "onboard_time": 1699883314,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 121342,
@@ -2649,6 +2697,14 @@
       "onboard_time": 1699837114,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118145,
+      "num": 269455,
+      "word": "这个手机治好了我的低电量焦虑",
+      "onboard_time": 1699884394,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 118030,
@@ -2763,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109631,
-      "num": 155196,
-      "word": "安东尼泰勒",
-      "onboard_time": 1699884696,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109243,
       "num": 109243,
       "word": "没想到张译是霸总声音",
@@ -2824,14 +2872,6 @@
       "word": "天玑9300调校还得看蓝厂",
       "onboard_time": 1699878332,
       "rank": 49,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 104434,
-      "num": 150960,
-      "word": "蔡司百年技术都给了vivo",
-      "onboard_time": 1699883314,
-      "rank": 41,
       "category": "数码"
     },
     {
@@ -2921,14 +2961,6 @@
       "onboard_time": 1699777709,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84407,
-      "num": 251242,
-      "word": "这个手机治好了我的低电量焦虑",
-      "onboard_time": 1699884394,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 66861,
