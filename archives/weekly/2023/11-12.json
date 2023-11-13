@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699845488731,
+  "endTime": 1699846465917,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 751354,
-      "num": 300859,
+      "num": 387374,
       "word": "缅甸",
       "onboard_time": 1699843533,
       "rank": 11,
@@ -899,6 +899,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 506535,
+      "num": 506535,
+      "word": "你能接受恋人有亲密恐惧症吗",
+      "onboard_time": 1699844372,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 500809,
       "num": 500809,
       "word": "Doinb评价Faker沙皇",
@@ -913,6 +921,14 @@
       "onboard_time": 1699842990,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490027,
+      "num": 215235,
+      "word": "你习惯多久洗一次头发",
+      "onboard_time": 1699844913,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 486041,
@@ -1275,14 +1291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 350711,
-      "num": 215235,
-      "word": "你习惯多久洗一次头发",
-      "onboard_time": 1699844913,
-      "rank": 22,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 350236,
       "num": 350236,
       "word": "赵露思入围亚洲电视大奖最佳女主",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1699836214,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 341953,
+      "num": 341953,
+      "word": "缅北电诈头目录制忏悔视频",
+      "onboard_time": 1699845991,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 341629,
@@ -1369,6 +1385,22 @@
       "onboard_time": 1699710333,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326439,
+      "num": 326439,
+      "word": "圣诞烤布丁拿铁",
+      "onboard_time": 1699845812,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 325419,
+      "num": 325419,
+      "word": "男孩地铁呼呼大睡急坏一群大学生",
+      "onboard_time": 1699844612,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323209,
@@ -1547,6 +1579,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 280860,
+      "num": 280860,
+      "word": "张一山韩东君张天爱新剧杀青",
+      "onboard_time": 1699845571,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279569,
       "num": 279569,
       "word": "温州永嘉民房坍塌已致3人遇难",
@@ -1683,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258345,
+      "num": 249361,
+      "word": "vivoX100外观辨识度",
+      "onboard_time": 1699842871,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 255837,
       "num": 255837,
       "word": "北京一公园女子剥白果臭跑游客",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1699715975,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248021,
-      "num": 248021,
-      "word": "你能接受恋人有亲密恐惧症吗",
-      "onboard_time": 1699844372,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 247859,
@@ -2147,14 +2187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201275,
-      "num": 201275,
-      "word": "男孩地铁呼呼大睡急坏一群大学生",
-      "onboard_time": 1699844612,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201245,
       "num": 201245,
       "word": "罗云熙给JDG加油",
@@ -2179,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198055,
+      "num": 198055,
+      "word": "幼童被海浪卷走好心大哥飞奔捞起",
+      "onboard_time": 1699845031,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197884,
       "num": 197884,
       "word": "檀健次入围亚洲电视大奖网络剧最佳男主角",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1699747945,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196235,
+      "num": 163834,
+      "word": "杰出 刀塔录音",
+      "onboard_time": 1699845331,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 195694,
@@ -2321,6 +2369,14 @@
       "onboard_time": 1699765411,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185731,
+      "num": 185731,
+      "word": "A股",
+      "onboard_time": 1699845932,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 185579,
@@ -2675,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156947,
-      "num": 143365,
-      "word": "杰出 刀塔录音",
-      "onboard_time": 1699845331,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156413,
       "num": 156413,
       "word": "于适穿制服",
@@ -2776,6 +2824,14 @@
       "word": "老师为学生买药摔伤学生到病房读感谢信",
       "onboard_time": 1699710515,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149532,
+      "num": 149532,
+      "word": "上官正义称受到国家卫健委邀见",
+      "onboard_time": 1699845754,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2883,14 +2939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142170,
-      "num": 249361,
-      "word": "vivoX100外观辨识度",
-      "onboard_time": 1699842871,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 141685,
       "num": 153763,
       "word": "张安达首夺排名赛冠军",
@@ -2969,14 +3017,6 @@
       "onboard_time": 1699770452,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134736,
-      "num": 134736,
-      "word": "幼童被海浪卷走好心大哥飞奔捞起",
-      "onboard_time": 1699845031,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134708,
@@ -3171,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119826,
+      "num": 119826,
+      "word": "杨幂细闪眼妆",
+      "onboard_time": 1699842752,
+      "rank": 43,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 119256,
       "num": 151645,
       "word": "月入2万活得像月入2千",
@@ -3249,14 +3297,6 @@
       "onboard_time": 1699805073,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115942,
-      "num": 115942,
-      "word": "杨幂细闪眼妆",
-      "onboard_time": 1699842752,
-      "rank": 43,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 115479,
@@ -3527,6 +3567,14 @@
       "num": 91632,
       "word": "燕临冠礼",
       "onboard_time": 1699721310,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91397,
+      "num": 91397,
+      "word": "微光荣耀爆剧男主九选一",
+      "onboard_time": 1699846354,
       "rank": 47,
       "category": "剧集"
     },

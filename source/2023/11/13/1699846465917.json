@@ -1,0 +1,410 @@
+{
+  "runTime": 1699846465917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2833732,
+        "num": 2833732,
+        "word": "李佳琦团队回应双11收入250亿",
+        "onboard_time": 1699842091,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1552104,
+        "num": 1552104,
+        "word": "缅甸果敢四大家族成员称将杜绝电诈",
+        "onboard_time": 1699842150,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30612,
+        "num": 1489059,
+        "word": "雪天8大健康提醒",
+        "onboard_time": 1699797999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1458652,
+        "num": 1458652,
+        "word": "熊雪被开除党籍",
+        "onboard_time": 1699842990,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1017891,
+        "num": 1017891,
+        "word": "爸爸通过监控显摆生日吃12个菜",
+        "onboard_time": 1699839991,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590068,
+        "num": 590068,
+        "word": "54岁教授吃饭太认真带火冷门专业",
+        "onboard_time": 1699841430,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 561249,
+        "num": 561249,
+        "word": "我来甘露寺只做一件事",
+        "onboard_time": 1699835793,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506535,
+        "num": 506535,
+        "word": "你能接受恋人有亲密恐惧症吗",
+        "onboard_time": 1699844372,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477552,
+        "num": 477552,
+        "word": "奔跑吧生态篇官宣",
+        "onboard_time": 1699842990,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402787,
+        "num": 402787,
+        "word": "雪龙2号遇落难外国渔船一整个打包救下",
+        "onboard_time": 1699842091,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731555,
+        "num": 387374,
+        "word": "缅甸",
+        "onboard_time": 1699843533,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 341953,
+        "num": 341953,
+        "word": "缅北电诈头目录制忏悔视频",
+        "onboard_time": 1699845991,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 326439,
+        "num": 326439,
+        "word": "圣诞烤布丁拿铁",
+        "onboard_time": 1699845812,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325419,
+        "num": 325419,
+        "word": "男孩地铁呼呼大睡急坏一群大学生",
+        "onboard_time": 1699844612,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323598,
+        "num": 323598,
+        "word": "考古的风终于吹到了辛芷蕾",
+        "onboard_time": 1699830142,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280860,
+        "num": 280860,
+        "word": "张一山韩东君张天爱新剧杀青",
+        "onboard_time": 1699845571,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259646,
+        "num": 259646,
+        "word": "林允公开分享打水光针过程",
+        "onboard_time": 1699833029,
+        "rank": 16,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 223787,
+        "num": 223787,
+        "word": "韩国中小学也开始流行萝卜刀",
+        "onboard_time": 1699837234,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 213174,
+        "num": 213174,
+        "word": "广西大学回应院长信箱对着摄像头",
+        "onboard_time": 1699838251,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201948,
+        "num": 201948,
+        "word": "T1晋级S13总决赛",
+        "onboard_time": 1699788286,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 695680,
+        "num": 201131,
+        "word": "八段锦瘦肚子是认真的",
+        "onboard_time": 1699842209,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 612001,
+        "num": 200185,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223030,
+        "num": 199540,
+        "word": "李佳琦双十一收入超250亿",
+        "onboard_time": 1699831286,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 490027,
+        "num": 198406,
+        "word": "你习惯多久洗一次头发",
+        "onboard_time": 1699844913,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198055,
+        "num": 198055,
+        "word": "幼童被海浪卷走好心大哥飞奔捞起",
+        "onboard_time": 1699845031,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188993,
+        "num": 188993,
+        "word": "洗完头发后要立马吹干吗",
+        "onboard_time": 1699831707,
+        "rank": 25,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 185731,
+        "num": 185731,
+        "word": "A股",
+        "onboard_time": 1699845932,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258345,
+        "num": 184570,
+        "word": "vivoX100外观辨识度",
+        "onboard_time": 1699842871,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172421,
+        "num": 172421,
+        "word": "1名中国人被越南判处死刑",
+        "onboard_time": 1699800574,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165351,
+        "num": 165351,
+        "word": "Faker拒绝做弱爆动作",
+        "onboard_time": 1699831224,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196235,
+        "num": 163834,
+        "word": "杰出 刀塔录音",
+        "onboard_time": 1699845331,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162086,
+        "num": 162086,
+        "word": "寒衣节",
+        "onboard_time": 1699841969,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149532,
+        "num": 149532,
+        "word": "上官正义称受到国家卫健委邀见",
+        "onboard_time": 1699845754,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137855,
+        "num": 137855,
+        "word": "李佳琦双11首日销售额占比降到四分之一",
+        "onboard_time": 1699840110,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 133814,
+        "num": 133814,
+        "word": "张远一把抱住了陆虎",
+        "onboard_time": 1699836214,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133790,
+        "num": 133790,
+        "word": "cityline崩了",
+        "onboard_time": 1699838012,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131920,
+        "num": 131920,
+        "word": "沈小婷泰民Guilty",
+        "onboard_time": 1699840891,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126938,
+        "num": 126938,
+        "word": "王鹤棣 你们好六团孤立嘉宾",
+        "onboard_time": 1699835616,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126137,
+        "num": 126137,
+        "word": "火箭六连胜",
+        "onboard_time": 1699843351,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119826,
+        "num": 119826,
+        "word": "杨幂细闪眼妆",
+        "onboard_time": 1699842752,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 117615,
+        "num": 117615,
+        "word": "游客老君山上打出溜滑",
+        "onboard_time": 1699844491,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 115279,
+        "num": 115279,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100885,
+        "num": 100885,
+        "word": "李雪琴叫王鹤棣白鹿时总时太太",
+        "onboard_time": 1699837053,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97484,
+        "num": 97484,
+        "word": "Zeus喊话TheShy",
+        "onboard_time": 1699831224,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97161,
+        "num": 97161,
+        "word": "马立奥 回长沙真开心",
+        "onboard_time": 1699836815,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94840,
+        "num": 94840,
+        "word": "WBG赢了血赚输了不亏",
+        "onboard_time": 1699792413,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93401,
+        "num": 93401,
+        "word": "上海人工耳蜗纳入医保可减约七成费用",
+        "onboard_time": 1699842150,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91397,
+        "num": 91397,
+        "word": "微光荣耀爆剧男主九选一",
+        "onboard_time": 1699846354,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90658,
+        "num": 90658,
+        "word": "于适穿制服",
+        "onboard_time": 1699834111,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88762,
+        "num": 88762,
+        "word": "小奶猫一怒之下怒了一下",
+        "onboard_time": 1699834472,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
