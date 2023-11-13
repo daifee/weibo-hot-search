@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/14 00:23:02 ~ 2023/11/14 06:34:20
+本榜单时间：2023/11/14 00:23:02 ~ 2023/11/14 07:17:59
 </p>
 </blockquote>
 <p>
@@ -34,13 +34,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
-网友吐槽政务大厅全天工作6个小时（热度：655929）
+网友吐槽政务大厅全天工作6个小时（热度：958882）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E6%96%B0%E5%8F%91%E8%89%B2%23" target="weibo">
 朴彩英新发色（热度：606796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
+在何猷君身上看到了生理性喜欢的样子（热度：597641）
 </a>
 </li>
 
@@ -53,12 +59,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%A7%E4%BE%B5%E7%8A%AF%E9%81%AD%E9%BB%91%E5%B8%AE%E7%A7%81%E5%88%91%E8%A2%AB%E7%8B%97%E5%90%83%E6%8E%89%E7%94%9F%E6%AE%96%E5%99%A8%23" target="weibo">
 墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器（热度：563846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-在何猷君身上看到了生理性喜欢的样子（热度：559105）
 </a>
 </li>
 
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C74%E5%90%8D%E5%AD%A6%E7%94%9F%E8%85%B9%E6%B3%BB%E5%91%95%E5%90%90%E9%87%87%E6%A0%B7%E4%B8%BA%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%23" target="weibo">
 山东74名学生腹泻呕吐采样为诺如病毒（热度：359278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A8%83%E5%87%8C%E6%99%A8%E8%A1%97%E5%A4%B4%E6%8C%A8%E5%86%BB%E4%BB%A3%E9%A9%BE%E5%B0%8F%E5%93%A5%E6%9E%9C%E6%96%AD%E8%B0%83%E5%A4%B4%23" target="weibo">
+4岁娃凌晨街头挨冻代驾小哥果断调头（热度：348008）
 </a>
 </li>
 
@@ -111,6 +117,12 @@ iPhone15双11最后两小时降价（热度：304292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%9C%E5%8C%97%20%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89%23" target="weibo">
+在东北 一切笨的东西都会被吃掉（热度：300219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81%23" target="weibo">
 南航白菜价机票尴尬了谁（热度：275409）
 </a>
@@ -119,6 +131,12 @@ iPhone15双11最后两小时降价（热度：304292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%94%B7%E5%AD%A9TizzyT%E6%9D%A5%E4%BA%86%23" target="weibo">
 你的男孩TizzyT来了（热度：260256）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%8E%A8%E5%87%BA%E4%BA%A7%E6%88%BF%E4%B8%88%E5%A4%AB%E7%8C%AE%E8%8A%B1%E5%B9%B6%E6%B7%B1%E6%83%85%E4%BA%B2%E5%90%BB%23" target="weibo">
+妻子被推出产房丈夫献花并深情亲吻（热度：257242）
 </a>
 </li>
 
@@ -177,14 +195,14 @@ iPhone15双11最后两小时降价（热度：304292）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23AG%23" target="weibo">
-AG（热度：146031）
+<a href="https://s.weibo.com/weibo?q=%2355%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23" target="weibo">
+55个品牌被移出中华老字号（热度：152919）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2355%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23" target="weibo">
-55个品牌被移出中华老字号（热度：140606）
+<a href="https://s.weibo.com/weibo?q=%23AG%23" target="weibo">
+AG（热度：146031）
 </a>
 </li>
 
@@ -207,20 +225,8 @@ AG（热度：146031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%8E%A8%E5%87%BA%E4%BA%A7%E6%88%BF%E4%B8%88%E5%A4%AB%E7%8C%AE%E8%8A%B1%E5%B9%B6%E6%B7%B1%E6%83%85%E4%BA%B2%E5%90%BB%23" target="weibo">
-妻子被推出产房丈夫献花并深情亲吻（热度：132375）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E9%A9%AC%E6%A1%B6%E7%AA%81%E7%84%B6%E7%9D%80%E7%81%AB%23" target="weibo">
 男子上厕所时马桶突然着火（热度：130801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A8%83%E5%87%8C%E6%99%A8%E8%A1%97%E5%A4%B4%E6%8C%A8%E5%86%BB%E4%BB%A3%E9%A9%BE%E5%B0%8F%E5%93%A5%E6%9E%9C%E6%96%AD%E8%B0%83%E5%A4%B4%23" target="weibo">
-4岁娃凌晨街头挨冻代驾小哥果断调头（热度：130005）
 </a>
 </li>
 
@@ -303,6 +309,12 @@ AG（热度：146031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AA%81%E7%84%B6%E6%94%BE%E4%B8%8B%E6%89%8B%E6%9C%BA%23" target="weibo">
+如果有人在地铁突然放下手机（热度：78845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
 难听（热度：74047）
 </a>
@@ -311,6 +323,24 @@ AG（热度：146031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%B7%A8%E7%9C%81%E7%9C%8B%E7%97%85%E6%80%8E%E4%B9%88%E8%B5%B0%E5%8C%BB%E4%BF%9D%23" target="weibo">
 手把手教你跨省看病怎么走医保（热度：72807）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%8F%E4%BC%99%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%9C%9B18%E5%B9%B4%E5%89%8D%E7%9A%84%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%23" target="weibo">
+印度小伙来中国看望18年前的救命恩人（热度：66049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%94%A8%E5%87%BA%E9%97%A8%E7%9A%84%E9%94%BB%E7%82%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
+冬天不用出门的锻炼方式（热度：58872）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E8%85%B0%E8%85%B9%E8%B5%98%E8%82%89%E6%97%A0%E8%B7%AF%E5%8F%AF%E9%80%83%E7%9A%84%E6%99%AE%E6%8B%89%E6%8F%90%23" target="weibo">
+让腰腹赘肉无路可逃的普拉提（热度：55036）
 </a>
 </li>
 
@@ -333,38 +363,38 @@ AG（热度：146031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E7%AB%99%E8%B7%AF%E8%BE%B9%E5%80%BE%E5%80%92%E5%A4%A7%E9%87%8F%E6%A0%B7%E6%9C%AC%E4%BF%9D%E5%AD%98%E6%B6%B2%23" target="weibo">
+公交站路边倾倒大量样本保存液（热度：50340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%B4%97%E5%A4%B4%E5%90%88%E9%80%82%23" target="weibo">
+冬季什么时候洗头合适（热度：50030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%8F%A4%E6%97%A9%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4%E6%9D%A5%E6%89%93%E5%BC%80%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%23" target="weibo">
 用古早言情小说来打开宁安如梦（热度：49350）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AA%81%E7%84%B6%E6%94%BE%E4%B8%8B%E6%89%8B%E6%9C%BA%23" target="weibo">
-如果有人在地铁突然放下手机（热度：45417）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%88%B6%E7%89%88%E5%86%B7%E6%88%98%23" target="weibo">
+重制版冷战（热度：42709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%99%BD%E5%B1%B1%E5%A4%A9%E6%B1%A0%E7%BD%95%E7%8E%B0%E6%B0%B4%E6%B1%BD%E6%A8%AA%E6%B5%81%23" target="weibo">
+长白山天池罕现水汽横流（热度：37480）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6CP%E7%BA%BF%23" target="weibo">
 宁安如梦CP线（热度：33578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E8%85%B0%E8%85%B9%E8%B5%98%E8%82%89%E6%97%A0%E8%B7%AF%E5%8F%AF%E9%80%83%E7%9A%84%E6%99%AE%E6%8B%89%E6%8F%90%23" target="weibo">
-让腰腹赘肉无路可逃的普拉提（热度：31840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%94%A8%E5%87%BA%E9%97%A8%E7%9A%84%E9%94%BB%E7%82%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
-冬天不用出门的锻炼方式（热度：30438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%B4%97%E5%A4%B4%E5%90%88%E9%80%82%23" target="weibo">
-冬季什么时候洗头合适（热度：29914）
 </a>
 </li>
 
@@ -388,7 +418,7 @@ AG（热度：146031）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23" target="weibo">
-聚焦中国经济圆桌会（热度：8992）
+聚焦中国经济圆桌会（热度：13137）
 </a>
 </li>
 

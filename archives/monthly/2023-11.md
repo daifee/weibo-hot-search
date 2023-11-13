@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 06:34:20
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 07:17:59
 </p>
 </blockquote>
 <p>
@@ -2925,6 +2925,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
+网友吐槽政务大厅全天工作6个小时（热度：958882）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B%23" target="weibo">
 LNG对战T1 比分预测（热度：958227）
 </a>
@@ -4073,12 +4079,6 @@ JDG与BLG选手观赛LNG（热度：745242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E6%BB%B4%E8%A1%80%E6%A3%802%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%AF%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E7%99%8C%E7%97%87%23" target="weibo">
 半滴血检2小时内可查出早期癌症（热度：744096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
-网友吐槽政务大厅全天工作6个小时（热度：743818）
 </a>
 </li>
 
