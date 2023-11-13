@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699878846503,
+  "endTime": 1699879819327,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 754241,
+      "num": 425558,
+      "word": "在何猷君身上看到了生理性喜欢的样子",
+      "onboard_time": 1699878273,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751354,
       "num": 387374,
       "word": "缅甸",
@@ -313,6 +321,14 @@
       "onboard_time": 1699871252,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 694011,
+      "num": 694011,
+      "word": "罐车气体泄漏男子关阀门时意外发生",
+      "onboard_time": 1699876292,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673528,
@@ -355,12 +371,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 627906,
-      "num": 627906,
-      "word": "罐车气体泄漏男子关阀门时意外发生",
-      "onboard_time": 1699876292,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 628080,
+      "num": 414445,
+      "word": "雪莉 我们需要更多的女性发声",
+      "onboard_time": 1699878273,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 611866,
@@ -425,6 +441,14 @@
       "onboard_time": 1699848092,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 569203,
+      "num": 569203,
+      "word": "卧床休息是养肝的最好方法",
+      "onboard_time": 1699874791,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 564304,
@@ -499,6 +523,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 518341,
+      "num": 518341,
+      "word": "iPhone15双11最后两小时降价",
+      "onboard_time": 1699878814,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 513811,
       "num": 513811,
       "word": "虞书欣温峥嵘永夜星河二搭",
@@ -513,6 +545,14 @@
       "onboard_time": 1699866632,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506553,
+      "num": 506553,
+      "word": "陈楚生王栎鑫你俩是握了个脚吗",
+      "onboard_time": 1699878934,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 499530,
@@ -547,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 494236,
-      "num": 494236,
-      "word": "卧床休息是养肝的最好方法",
-      "onboard_time": 1699874791,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 494118,
+      "num": 494118,
+      "word": "女生最无声的炫富是什么",
+      "onboard_time": 1699875690,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 490027,
@@ -593,14 +633,6 @@
       "onboard_time": 1699834651,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 469455,
-      "num": 469455,
-      "word": "女生最无声的炫富是什么",
-      "onboard_time": 1699875690,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 463845,
@@ -795,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372439,
-      "num": 178791,
-      "word": "在何猷君身上看到了生理性喜欢的样子",
-      "onboard_time": 1699878273,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "陈奕迅认识李荣浩也是靠朋友拉群",
@@ -835,20 +859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358118,
+      "num": 358118,
+      "word": "肯豆超短羽绒服",
+      "onboard_time": 1699875213,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 353420,
       "num": 353420,
       "word": "浙江一大妈买海鱼红烧后半夜发绿光",
       "onboard_time": 1699790495,
       "rank": 18,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 350732,
-      "num": 350732,
-      "word": "肯豆超短羽绒服",
-      "onboard_time": 1699875213,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 349013,
@@ -955,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317692,
+      "num": 317692,
+      "word": "蔚来汽车五年半亏764亿",
+      "onboard_time": 1699876474,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 314247,
       "num": 314247,
       "word": "王鹤棣 你们好六团孤立嘉宾",
@@ -969,14 +1001,6 @@
       "onboard_time": 1699855293,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 310325,
-      "num": 310325,
-      "word": "雪莉 我们需要更多的女性发声",
-      "onboard_time": 1699878273,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310242,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1699864413,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306025,
-      "num": 306025,
-      "word": "蔚来汽车五年半亏764亿",
-      "onboard_time": 1699876474,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 302480,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1699849838,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 286814,
+      "num": 286814,
+      "word": "迪丽热巴黑粉被强执",
+      "onboard_time": 1699878873,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 284599,
@@ -1219,6 +1243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 251578,
+      "num": 251578,
+      "word": "老丈人看女婿越看越气",
+      "onboard_time": 1699878273,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250902,
       "num": 250902,
       "word": "于适智族GQ十一月刊封面",
@@ -1347,6 +1379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227317,
+      "num": 227317,
+      "word": "虞书欣吊带拖尾裙",
+      "onboard_time": 1699874432,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227087,
       "num": 227087,
       "word": "泉州落水原区长已办完追悼会",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1699856435,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 224086,
-      "num": 224086,
-      "word": "虞书欣吊带拖尾裙",
-      "onboard_time": 1699874432,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 222136,
@@ -1531,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204229,
+      "num": 204229,
+      "word": "喜欢上班的有福了",
+      "onboard_time": 1699877733,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203206,
       "num": 213988,
       "word": "孙颖莎加盟竞燃之夜",
@@ -1587,14 +1627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194557,
-      "num": 194557,
-      "word": "喜欢上班的有福了",
-      "onboard_time": 1699877733,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194414,
       "num": 194414,
       "word": "沈小婷泰民Guilty",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1699835793,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191830,
-      "num": 191830,
-      "word": "老丈人看女婿越看越气",
-      "onboard_time": 1699878273,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 186908,
@@ -1883,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166235,
+      "num": 166235,
+      "word": "提醒在冰岛中国公民防范火山地震灾害",
+      "onboard_time": 1699879170,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165905,
       "num": 178879,
       "word": "全国开展过山车事故隐患排查治理",
@@ -1915,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163100,
+      "num": 163100,
+      "word": "天蝎座 保持舒适距离",
+      "onboard_time": 1699878934,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162678,
       "num": 162678,
       "word": "薛之谦双层挑染发色",
@@ -1932,7 +1972,7 @@
     },
     {
       "raw_hot": 161747,
-      "num": 115416,
+      "num": 119288,
       "word": "李昇勋说challenge很容易产生火花",
       "onboard_time": 1699876771,
       "rank": 36,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1699788999,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153882,
+      "num": 153882,
+      "word": "vivo全球首发AI大模型手机",
+      "onboard_time": 1699879593,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 152651,
@@ -2291,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127504,
+      "num": 127504,
+      "word": "中等强度厄尔尼诺事件已经形成",
+      "onboard_time": 1699878694,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127312,
       "num": 127312,
       "word": "重生之我在美团当评审团",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1699868999,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 125187,
+      "num": 125187,
+      "word": "网络主播王纯善偷逃税被查",
+      "onboard_time": 1699879532,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 125186,
@@ -2571,14 +2635,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 105747,
-      "num": 107371,
-      "word": "iPhone15双11最后两小时降价",
-      "onboard_time": 1699878814,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 101612,
       "num": 101612,
       "word": "一上班就高血压",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1699777709,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82275,
-      "num": 106972,
-      "word": "中等强度厄尔尼诺事件已经形成",
-      "onboard_time": 1699878694,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66861,
