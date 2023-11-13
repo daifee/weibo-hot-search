@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699904042162,
+  "endTime": 1699906633478,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -5947,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17475,
+      "num": 17475,
+      "word": "鲨鱼夹发型",
+      "onboard_time": 1699904592,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 16013,
       "num": 17479,
       "word": "与折耳根的故事",
@@ -5961,6 +5969,14 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11596,
+      "num": 13943,
+      "word": "让腰腹赘肉无路可逃的普拉提",
+      "onboard_time": 1699906393,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 11107,
