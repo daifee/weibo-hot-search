@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/13 17:34:33
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/13 18:19:25
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@ JDG对战T1（热度：3781551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5B%E5%A4%AA%E9%81%AD%E9%81%87%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%23" target="weibo">
 官方通报B太遭遇鬼秤事件（热度：2451909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231020%E4%BA%8B%E4%BB%B6%23" target="weibo">
+1020事件（热度：2425578）
 </a>
 </li>
 
@@ -141,6 +147,12 @@ T1拿到两个赛点（热度：1895187）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%90%B4%E6%85%B7%E4%BB%81%20%E5%BA%8A%E6%88%8F%23" target="weibo">
+小S吴慷仁 床戏（热度：1720980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%BB%E6%95%85%E6%84%8F%E5%8A%A0%E8%BF%9D%E7%A6%81%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%AD%90%E4%B8%AD%E6%AF%92%23" target="weibo">
 奶茶店主故意加违禁药致女子中毒（热度：1711628）
 </a>
@@ -161,12 +173,6 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E7%A7%B0%E5%B0%86%E6%9D%9C%E7%BB%9D%E7%94%B5%E8%AF%88%23" target="weibo">
 缅甸果敢四大家族成员称将杜绝电诈（热度：1673663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%90%B4%E6%85%B7%E4%BB%81%20%E5%BA%8A%E6%88%8F%23" target="weibo">
-小S吴慷仁 床戏（热度：1639420）
 </a>
 </li>
 
@@ -435,6 +441,12 @@ S13半决赛（热度：1114606）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：844510）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
 冰岛24小时内1400次地震（热度：841604）
 </a>
@@ -503,6 +515,12 @@ T1半决赛先下一城（热度：768660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E4%B8%BB%E8%A2%AB%E8%BF%9E%E7%BB%AD%E7%BA%A6%E8%B0%88%E5%90%8E%E8%87%AA%E6%9D%80%23" target="weibo">
 常州一企业主被连续约谈后自杀（热度：758057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23" target="weibo">
+加沙北部所有医院均停止服务（热度：752456）
 </a>
 </li>
 
@@ -837,6 +855,12 @@ EDG剧本（热度：548931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E5%8F%8C11%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%89%93%E5%B7%A5%E4%BA%BA10%E4%B8%87%E5%B9%B4%23" target="weibo">
+李佳琦的双11相当于打工人10万年（热度：530951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E8%BF%99%E4%B8%80%E6%8E%A8%E7%BB%9D%E4%BA%86%23" target="weibo">
 Faker这一推绝了（热度：528914）
 </a>
@@ -875,6 +899,12 @@ Faker这一推绝了（热度：528914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%AF%84%E4%BB%B7Faker%E6%B2%99%E7%9A%87%23" target="weibo">
 Doinb评价Faker沙皇（热度：500809）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B1%85%E6%B0%91%E5%B8%A6%E5%88%9A%E5%87%BA%E7%94%9F%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%A9%B4%E5%84%BF%E9%80%83%E4%BA%A1%23" target="weibo">
+加沙居民带刚出生几个小时婴儿逃亡（热度：499530）
 </a>
 </li>
 
@@ -1161,6 +1191,12 @@ Bin 相信wbg（热度：425192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%864.8%E5%88%86%23" target="weibo">
+以爱为营豆瓣评分4.8分（热度：390539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E4%B8%80%E5%8E%9F%E5%8C%BA%E9%95%BF%E6%B0%B4%E4%B8%8A%E9%A4%90%E5%8E%85%E8%90%BD%E6%B0%B4%E8%BA%AB%E4%BA%A1%23" target="weibo">
 泉州一原区长水上餐厅落水身亡（热度：388912）
 </a>
@@ -1169,6 +1205,12 @@ Bin 相信wbg（热度：425192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%20%E8%89%BE%E5%9B%A0%23" target="weibo">
 时空中的绘旅人 艾因（热度：384837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3tony%23" target="weibo">
+女tony（热度：383733）
 </a>
 </li>
 
@@ -1329,6 +1371,12 @@ cityline崩了（热度：361365）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%BE%AE%E5%8D%9A%E8%BD%AC%E8%AF%84%E8%B5%9E%E7%A0%B410%E4%BA%BF%23" target="weibo">
+成毅微博转评赞破10亿（热度：332273）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7%23" target="weibo">
 国色芳华 大女主剧（热度：327734）
 </a>
@@ -1407,6 +1455,12 @@ WBG 四号种子的逆袭（热度：311448）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E8%B0%88%E6%81%8B%E7%88%B1%E5%A5%B9%E8%B0%88%E5%A4%A9%E4%B8%8B%23" target="weibo">
+他谈恋爱她谈天下（热度：305766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%94%B0%E6%9B%A6%E8%96%87%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%A6%E9%AA%81%E4%BD%95%E8%B6%85%E8%8E%B2%E5%90%88%E7%85%A7%23" target="weibo">
 任嘉伦田曦薇张凌赫窦骁何超莲合照（热度：305267）
 </a>
@@ -1445,6 +1499,12 @@ WBG 四号种子的逆袭（热度：311448）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B4%9E%E7%9A%84%E6%95%B0%E9%87%8F%E5%8F%AF%E4%BB%A5%E5%86%B3%E5%AE%9A%E8%8E%B2%E8%97%95%E5%8F%A3%E6%84%9F%23" target="weibo">
 原来洞的数量可以决定莲藕口感（热度：299551）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%8F%97%E6%AC%A2%E8%BF%8E%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
+王楚钦 微博年度受欢迎运动员（热度：299485）
 </a>
 </li>
 
@@ -1589,6 +1649,12 @@ RedVelvet新歌上线（热度：283470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E6%88%91%E5%8F%AF%E4%BB%A5%E4%BF%A1%E4%BD%A0%E4%B8%80%E5%9B%9E%E5%90%97%23" target="weibo">
 芒果我可以信你一回吗（热度：275563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%85%B7%E4%BB%81%E6%BC%94%E6%8A%80%23" target="weibo">
+吴慷仁演技（热度：274823）
 </a>
 </li>
 
@@ -2163,8 +2229,20 @@ KSG（热度：204853）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A6%88%E5%A6%88%E6%91%94%E5%80%92%E5%AD%A9%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%B0%9D%E8%AF%95%E6%89%B6%E4%B8%8A%E8%BD%AE%E6%A4%85%23" target="weibo">
+瘫痪妈妈摔倒孩子多次尝试扶上轮椅（热度：203393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%89%E7%92%83%E6%95%8C%E8%9C%9C%E5%8F%98%E9%97%BA%E8%9C%9C%23" target="weibo">
 琉璃敌蜜变闺蜜（热度：203116）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8A%A0%E7%9B%9F%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%23" target="weibo">
+孙颖莎加盟竞燃之夜（热度：202980）
 </a>
 </li>
 
@@ -2307,6 +2385,12 @@ CBA（热度：192622）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%81%9A%E5%8D%A0%E6%98%9F%E5%B8%88%E6%9C%88%E5%85%A53%E4%B8%87%23" target="weibo">
+清华女博士毕业做占星师月入3万（热度：189318）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23369%E5%A5%8E%E6%A1%91%E6%8F%90%23" target="weibo">
 369奎桑提（热度：188407）
 </a>
@@ -2417,6 +2501,12 @@ A股（热度：185731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9F%A9%E5%89%A7%E9%87%8C%E7%9A%84%E9%9B%AA%E4%B8%8D%E6%98%AF%E9%AA%97%E4%BA%BA%E7%9A%84%23" target="weibo">
 原来韩剧里的雪不是骗人的（热度：181964）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E8%8A%B1%E7%9D%AB%E6%AF%9B%23" target="weibo">
+太阳花睫毛（热度：179320）
 </a>
 </li>
 
@@ -3081,6 +3171,12 @@ aespa winter音中直拍（热度：134708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%8A%E5%88%80%E9%97%A8%E4%BC%A0%E5%A5%87%E6%9C%89%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
+鹊刀门传奇有第二季（热度：131449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%A5%AD%E5%8C%85%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%9C%A8%E5%90%83%E5%95%8A%23" target="weibo">
 这饭包到底是谁在吃啊（热度：131060）
 </a>
@@ -3177,6 +3273,12 @@ WBG晋级S13总决赛（热度：125226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E9%A3%9E%E7%89%88%E4%B8%89%E4%BD%93%E9%A2%84%E5%91%8A%23" target="weibo">
+网飞版三体预告（热度：123553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E6%AE%B5%E4%BD%8D%E9%83%BD%E8%BF%99%E4%B9%88%E9%AB%98%E7%9A%84%E5%90%97%23" target="weibo">
 两位段位都这么高的吗（热度：123392）
 </a>
@@ -3209,12 +3311,6 @@ WBG晋级S13总决赛（热度：125226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%9C%E9%A6%99%E8%8A%B1%E7%94%9F%E7%B1%B3%23" target="weibo">
 蒜香花生米（热度：120724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3tony%23" target="weibo">
-女tony（热度：120528）
 </a>
 </li>
 
@@ -3455,6 +3551,12 @@ iG官宣新阵容（热度：117785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23UFC295%23" target="weibo">
 UFC295（热度：103378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%AF%E8%89%B2%E5%BD%A9%E7%9A%84%E4%BA%A4%E7%82%B9%23" target="weibo">
+秋天的九寨沟是色彩的交点（热度：101818）
 </a>
 </li>
 
