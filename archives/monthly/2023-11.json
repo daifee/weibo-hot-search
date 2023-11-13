@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699875253156,
+  "endTime": 1699878846503,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -793,6 +793,14 @@
       "onboard_time": 1698896733,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2228442,
+      "num": 2228442,
+      "word": "雪莉生前纪录片完整版公开",
+      "onboard_time": 1699874134,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2202840,
@@ -2203,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1427566,
-      "num": 1427566,
-      "word": "雪莉生前纪录片完整版公开",
-      "onboard_time": 1699874134,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1423443,
       "num": 1423443,
       "word": "孟羽童在职曾发65篇非格力产品内容",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1699767151,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1303123,
+      "num": 1303123,
+      "word": "何猷君 小金土豆",
+      "onboard_time": 1699874372,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1302633,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1699842209,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 826638,
+      "num": 826638,
+      "word": "缅北电诈头目明学昌年轻时惯于偷抢",
+      "onboard_time": 1699875634,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 825776,
@@ -6609,6 +6625,14 @@
       "onboard_time": 1699762290,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 627906,
+      "num": 627906,
+      "word": "罐车气体泄漏男子关阀门时意外发生",
+      "onboard_time": 1699876292,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627613,
@@ -8843,14 +8867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498819,
-      "num": 462059,
-      "word": "何猷君 小金土豆",
-      "onboard_time": 1699874372,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498643,
       "num": 498643,
       "word": "雪休",
@@ -8945,6 +8961,14 @@
       "onboard_time": 1699445442,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494236,
+      "num": 494236,
+      "word": "卧床休息是养肝的最好方法",
+      "onboard_time": 1699874791,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 493952,
@@ -9537,6 +9561,14 @@
       "onboard_time": 1699499193,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 469455,
+      "num": 469455,
+      "word": "女生最无声的炫富是什么",
+      "onboard_time": 1699875690,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 469138,
@@ -12331,6 +12363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372439,
+      "num": 178791,
+      "word": "在何猷君身上看到了生理性喜欢的样子",
+      "onboard_time": 1699878273,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371905,
       "num": 371905,
       "word": "一年级老师在班级群用拼音夸学生",
@@ -13105,6 +13145,14 @@
       "onboard_time": 1699504838,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350732,
+      "num": 350732,
+      "word": "肯豆超短羽绒服",
+      "onboard_time": 1699875213,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 350699,
@@ -14299,6 +14347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318468,
+      "num": 318468,
+      "word": "陈楚生发文告别披荆斩棘",
+      "onboard_time": 1699875273,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317986,
       "num": 317986,
       "word": "以色列巴勒斯坦冲突",
@@ -14651,6 +14707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310325,
+      "num": 310325,
+      "word": "雪莉 我们需要更多的女性发声",
+      "onboard_time": 1699878273,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310242,
       "num": 310242,
       "word": "宁安如梦CP线",
@@ -14801,6 +14865,14 @@
       "onboard_time": 1698883965,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 306025,
+      "num": 306025,
+      "word": "蔚来汽车五年半亏764亿",
+      "onboard_time": 1699876474,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 305828,
@@ -17867,6 +17939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250107,
+      "num": 250107,
+      "word": "aespa 一个舞台四种腮红打法",
+      "onboard_time": 1699874552,
+      "rank": 27,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 250042,
       "num": 250042,
       "word": "龚俊香芋色长西装",
@@ -18193,14 +18273,6 @@
       "onboard_time": 1699575875,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245123,
-      "num": 245123,
-      "word": "aespa 一个舞台四种腮红打法",
-      "onboard_time": 1699874552,
-      "rank": 27,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 245122,
@@ -23227,6 +23299,14 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 194557,
+      "num": 194557,
+      "word": "喜欢上班的有福了",
+      "onboard_time": 1699877733,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194489,
       "num": 216833,
       "word": "张杰cue魏大勋孟宴臣名场面",
@@ -23601,6 +23681,14 @@
       "onboard_time": 1699759590,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191830,
+      "num": 191830,
+      "word": "老丈人看女婿越看越气",
+      "onboard_time": 1699878273,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191773,
@@ -25699,6 +25787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172929,
+      "num": 172929,
+      "word": "用古早言情小说来打开宁安如梦",
+      "onboard_time": 1699875391,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172893,
       "num": 172893,
       "word": "贵州人有自己的披萨",
@@ -26147,14 +26243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169164,
-      "num": 169164,
-      "word": "卧床休息是养肝的最好方法",
-      "onboard_time": 1699874791,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169024,
       "num": 169024,
       "word": "苏有朋被叫朋友哥",
@@ -26529,6 +26617,14 @@
       "onboard_time": 1698802172,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165905,
+      "num": 178879,
+      "word": "全国开展过山车事故隐患排查治理",
+      "onboard_time": 1699876112,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165880,
@@ -27033,6 +27129,14 @@
       "onboard_time": 1699352198,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161747,
+      "num": 115416,
+      "word": "李昇勋说challenge很容易产生火花",
+      "onboard_time": 1699876771,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 161671,
@@ -31627,6 +31731,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 123260,
+      "num": 109705,
+      "word": "关智斌把阿娇剪辑进新歌MV",
+      "onboard_time": 1699875933,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123258,
       "num": 364978,
       "word": "陈梦祝孙颖莎生日快乐",
@@ -32779,14 +32891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111295,
-      "num": 111295,
-      "word": "肯豆超短羽绒服",
-      "onboard_time": 1699875213,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 111293,
       "num": 451401,
       "word": "多特vs拜仁",
@@ -33091,6 +33195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107430,
+      "num": 107430,
+      "word": "StrayKids最新练习室",
+      "onboard_time": 1699877193,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107343,
       "num": 107343,
       "word": "孙俪还不够柔软那我算什么",
@@ -33163,12 +33275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105894,
+      "num": 106967,
+      "word": "天玑9300调校还得看蓝厂",
+      "onboard_time": 1699878332,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105809,
       "num": 105809,
       "word": "冷空气到广东变冷气",
       "onboard_time": 1699373369,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105747,
+      "num": 107371,
+      "word": "iPhone15双11最后两小时降价",
+      "onboard_time": 1699878814,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 105649,
@@ -34511,6 +34639,14 @@
       "num": 207264,
       "word": "8旬老人进错小区民警护送回家并一路叮嘱",
       "onboard_time": 1699151310,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82275,
+      "num": 106972,
+      "word": "中等强度厄尔尼诺事件已经形成",
+      "onboard_time": 1699878694,
       "rank": 48,
       "category": "社会新闻"
     },

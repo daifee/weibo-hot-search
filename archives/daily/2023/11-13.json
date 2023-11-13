@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699875253156,
+  "endTime": 1699878846503,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -41,6 +41,14 @@
       "onboard_time": 1699852296,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2228442,
+      "num": 2228442,
+      "word": "雪莉生前纪录片完整版公开",
+      "onboard_time": 1699874134,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1944059,
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1427566,
-      "num": 1427566,
-      "word": "雪莉生前纪录片完整版公开",
-      "onboard_time": 1699874134,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1317905,
       "num": 296476,
       "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
       "onboard_time": 1699839092,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303123,
+      "num": 1303123,
+      "word": "何猷君 小金土豆",
+      "onboard_time": 1699874372,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1249740,
@@ -267,6 +275,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 826638,
+      "num": 826638,
+      "word": "缅北电诈头目明学昌年轻时惯于偷抢",
+      "onboard_time": 1699875634,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791119,
       "num": 791119,
       "word": "你能接受恋人有亲密恐惧症吗",
@@ -337,6 +353,14 @@
       "onboard_time": 1699858957,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627906,
+      "num": 627906,
+      "word": "罐车气体泄漏男子关阀门时意外发生",
+      "onboard_time": 1699876292,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611866,
@@ -507,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498819,
-      "num": 462059,
-      "word": "何猷君 小金土豆",
-      "onboard_time": 1699874372,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498449,
       "num": 498449,
       "word": "以爱为营豆瓣评分4.8分",
@@ -529,6 +545,14 @@
       "onboard_time": 1699865373,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494236,
+      "num": 494236,
+      "word": "卧床休息是养肝的最好方法",
+      "onboard_time": 1699874791,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 490027,
@@ -569,6 +593,14 @@
       "onboard_time": 1699834651,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 469455,
+      "num": 469455,
+      "word": "女生最无声的炫富是什么",
+      "onboard_time": 1699875690,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 463845,
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372439,
+      "num": 178791,
+      "word": "在何猷君身上看到了生理性喜欢的样子",
+      "onboard_time": 1699878273,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "陈奕迅认识李荣浩也是靠朋友拉群",
@@ -801,6 +841,14 @@
       "onboard_time": 1699790495,
       "rank": 18,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 350732,
+      "num": 350732,
+      "word": "肯豆超短羽绒服",
+      "onboard_time": 1699875213,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 349013,
@@ -899,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318468,
+      "num": 318468,
+      "word": "陈楚生发文告别披荆斩棘",
+      "onboard_time": 1699875273,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314247,
       "num": 314247,
       "word": "王鹤棣 你们好六团孤立嘉宾",
@@ -913,6 +969,14 @@
       "onboard_time": 1699855293,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310325,
+      "num": 310325,
+      "word": "雪莉 我们需要更多的女性发声",
+      "onboard_time": 1699878273,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310242,
@@ -937,6 +1001,14 @@
       "onboard_time": 1699864413,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306025,
+      "num": 306025,
+      "word": "蔚来汽车五年半亏764亿",
+      "onboard_time": 1699876474,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 302480,
@@ -1155,20 +1227,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 250107,
+      "num": 250107,
+      "word": "aespa 一个舞台四种腮红打法",
+      "onboard_time": 1699874552,
+      "rank": 27,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 249228,
       "num": 241086,
       "word": "官方通报企业家被约谈后坠楼身亡",
       "onboard_time": 1699794395,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245123,
-      "num": 245123,
-      "word": "aespa 一个舞台四种腮红打法",
-      "onboard_time": 1699874552,
-      "rank": 27,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 244281,
@@ -1515,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194557,
+      "num": 194557,
+      "word": "喜欢上班的有福了",
+      "onboard_time": 1699877733,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194414,
       "num": 194414,
       "word": "沈小婷泰民Guilty",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1699835793,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191830,
+      "num": 191830,
+      "word": "老丈人看女婿越看越气",
+      "onboard_time": 1699878273,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 186908,
@@ -1691,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172929,
+      "num": 172929,
+      "word": "用古早言情小说来打开宁安如梦",
+      "onboard_time": 1699875391,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172511,
       "num": 172511,
       "word": "包装很土但很好吃的零食",
@@ -1755,14 +1851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169164,
-      "num": 169164,
-      "word": "卧床休息是养肝的最好方法",
-      "onboard_time": 1699874791,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168917,
       "num": 168917,
       "word": "男子四千米高山骑行偶遇野生大熊猫",
@@ -1793,6 +1881,14 @@
       "onboard_time": 1699871494,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165905,
+      "num": 178879,
+      "word": "全国开展过山车事故隐患排查治理",
+      "onboard_time": 1699876112,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164270,
@@ -1833,6 +1929,14 @@
       "onboard_time": 1699856732,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161747,
+      "num": 115416,
+      "word": "李昇勋说challenge很容易产生火花",
+      "onboard_time": 1699876771,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 159922,
@@ -2235,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123260,
+      "num": 109705,
+      "word": "关智斌把阿娇剪辑进新歌MV",
+      "onboard_time": 1699875933,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122935,
       "num": 122935,
       "word": "在东北见到冰糖帝王蟹冰糖龙虾",
@@ -2387,14 +2499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 111295,
-      "num": 111295,
-      "word": "肯豆超短羽绒服",
-      "onboard_time": 1699875213,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 110923,
       "num": 110923,
       "word": "今年流感发病率没有比往年增多",
@@ -2449,6 +2553,30 @@
       "onboard_time": 1699791875,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107430,
+      "num": 107430,
+      "word": "StrayKids最新练习室",
+      "onboard_time": 1699877193,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 105894,
+      "num": 106967,
+      "word": "天玑9300调校还得看蓝厂",
+      "onboard_time": 1699878332,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 105747,
+      "num": 107371,
+      "word": "iPhone15双11最后两小时降价",
+      "onboard_time": 1699878814,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 101612,
@@ -2529,6 +2657,14 @@
       "onboard_time": 1699777709,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82275,
+      "num": 106972,
+      "word": "中等强度厄尔尼诺事件已经形成",
+      "onboard_time": 1699878694,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66861,
