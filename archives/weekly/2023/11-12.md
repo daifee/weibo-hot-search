@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/14 07:17:59
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/14 07:34:37
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ Faker无需向众神祈祷（热度：1321697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
+网友吐槽政务大厅全天工作6个小时（热度：1195260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%20%E8%B8%A2%E9%A6%86%E5%90%8D%E5%8D%95%23" target="weibo">
 歌手2024 踢馆名单（热度：1195166）
 </a>
@@ -437,12 +443,6 @@ S13半决赛（热度：1114606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%23" target="weibo">
 陈乔恩 和身边的朋友渐行渐远（热度：961353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
-网友吐槽政务大厅全天工作6个小时（热度：958882）
 </a>
 </li>
 
@@ -941,6 +941,12 @@ JDG发博告别S13（热度：549531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E5%89%A7%E6%9C%AC%23" target="weibo">
 EDG剧本（热度：548931）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%9C%E5%8C%97%20%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89%23" target="weibo">
+在东北 一切笨的东西都会被吃掉（热度：544095）
 </a>
 </li>
 
@@ -1781,12 +1787,6 @@ WBG 四号种子的逆袭（热度：311448）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%A6%81%E5%BD%95%E7%BB%BC%E8%89%BA%E4%BA%86%23" target="weibo">
 李现要录综艺了（热度：300690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%9C%E5%8C%97%20%E4%B8%80%E5%88%87%E7%AC%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%90%83%E6%8E%89%23" target="weibo">
-在东北 一切笨的东西都会被吃掉（热度：300219）
 </a>
 </li>
 
@@ -3261,6 +3261,12 @@ ON群访哭了（热度：164696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%8F%E4%BC%99%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%9C%9B18%E5%B9%B4%E5%89%8D%E7%9A%84%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%23" target="weibo">
+印度小伙来中国看望18年前的救命恩人（热度：163436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A6%81%E7%9A%AE%E8%82%A4%E5%A5%BD%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%AD%A3%E7%A1%AE%E5%85%BB%E8%82%A4%23" target="weibo">
 想要皮肤好要学会正确养肤（热度：163309）
 </a>
@@ -3969,6 +3975,12 @@ iG官宣新阵容（热度：117785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%86%AC%E5%A4%9C%E4%B9%85%E5%9D%90%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E5%87%A0%E7%8E%87%E5%A4%A7%23" target="weibo">
+经常熬夜久坐患糖尿病几率大（热度：116866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E6%9C%89%E5%B8%AE%E6%89%8B%E5%90%97%23" target="weibo">
 库里有帮手吗（热度：116053）
 </a>
@@ -4085,6 +4097,12 @@ iG官宣新阵容（热度：117785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C7%E8%B7%91%E5%8F%8B%E6%8E%A5%E5%8A%9B%E6%8A%A2%E6%95%91%23" target="weibo">
 男子马拉松心脏骤停7跑友接力抢救（热度：110128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AA%81%E7%84%B6%E6%94%BE%E4%B8%8B%E6%89%8B%E6%9C%BA%23" target="weibo">
+如果有人在地铁突然放下手机（热度：109903）
 </a>
 </li>
 
@@ -4227,6 +4245,12 @@ TheShy生日礼物（热度：101138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E7%AB%99%E8%B7%AF%E8%BE%B9%E5%80%BE%E5%80%92%E5%A4%A7%E9%87%8F%E6%A0%B7%E6%9C%AC%E4%BF%9D%E5%AD%98%E6%B6%B2%23" target="weibo">
+公交站路边倾倒大量样本保存液（热度：99228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E9%A2%9C%E5%80%BC%E5%90%97%23" target="weibo">
 健身真的可以改变颜值吗（热度：97879）
 </a>
@@ -4329,14 +4353,26 @@ TheShy生日礼物（热度：101138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%99%BD%E5%B1%B1%E5%A4%A9%E6%B1%A0%E7%BD%95%E7%8E%B0%E6%B0%B4%E6%B1%BD%E6%A8%AA%E6%B5%81%23" target="weibo">
+长白山天池罕现水汽横流（热度：82756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TGA2023%E6%8F%90%E5%90%8D%23" target="weibo">
+TGA2023提名（热度：80739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E7%AB%99%E7%94%A8AED%E6%88%90%E5%8A%9F%E6%8A%A2%E6%95%91%E6%99%95%E5%80%92%E7%94%B7%E5%AD%90%23" target="weibo">
 乘客高铁站用AED成功抢救晕倒男子（热度：80555）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AA%81%E7%84%B6%E6%94%BE%E4%B8%8B%E6%89%8B%E6%9C%BA%23" target="weibo">
-如果有人在地铁突然放下手机（热度：78845）
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%82%E8%82%AA%E8%82%9D%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%A2%B0%E5%88%B0%E9%A3%9F%E7%89%A9%E9%BB%91%E5%90%8D%E5%8D%95%23" target="weibo">
+脂肪肝不建议碰到食物黑名单（热度：79471）
 </a>
 </li>
 
@@ -4389,14 +4425,14 @@ vivo影像大片盘点（热度：67877）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%8F%E4%BC%99%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%9C%9B18%E5%B9%B4%E5%89%8D%E7%9A%84%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%23" target="weibo">
-印度小伙来中国看望18年前的救命恩人（热度：66049）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%96%9C%E5%89%A7%E7%8E%B0%E5%9C%BA%23" target="weibo">
+微博喜剧现场（热度：64835）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%96%9C%E5%89%A7%E7%8E%B0%E5%9C%BA%23" target="weibo">
-微博喜剧现场（热度：64835）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E7%88%AC%E8%A1%8C%E6%95%91%E4%B8%8B%E5%86%B0%E7%AA%9F%E7%94%B7%E7%AB%A59%E4%B8%AA%E6%9C%88%E5%90%8E%E8%A2%AB%E8%AE%A4%E5%87%BA%23" target="weibo">
+记者爬行救下冰窟男童9个月后被认出（热度：64819）
 </a>
 </li>
 
@@ -4419,8 +4455,20 @@ vivo影像大片盘点（热度：67877）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%B4%97%E5%A4%B4%E5%90%88%E9%80%82%23" target="weibo">
+冬季什么时候洗头合适（热度：61236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%83%E4%B9%98%E7%BB%84%E7%9A%84%E9%A6%96%E4%B8%AA%E5%A4%A9%E5%AE%ABVlog%23" target="weibo">
 神十七乘组的首个天宫Vlog（热度：61230）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%94%A8%E5%87%BA%E9%97%A8%E7%9A%84%E9%94%BB%E7%82%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
+冬天不用出门的锻炼方式（热度：61035）
 </a>
 </li>
 
@@ -4431,8 +4479,20 @@ vivo影像大片盘点（热度：67877）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%94%A8%E5%87%BA%E9%97%A8%E7%9A%84%E9%94%BB%E7%82%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
-冬天不用出门的锻炼方式（热度：58872）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E6%9D%83%E8%B0%8B%E7%AF%87%23" target="weibo">
+谢危权谋篇（热度：59915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%88%B6%E7%89%88%E5%86%B7%E6%88%98%23" target="weibo">
+重制版冷战（热度：58009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E8%90%8C%E5%A8%83%E5%88%9D%E8%A7%81%E5%BC%9F%E5%BC%9F%E6%BB%A1%E7%9C%BC%E5%AE%A0%E6%BA%BA%23" target="weibo">
+1岁半萌娃初见弟弟满眼宠溺（热度：57066）
 </a>
 </li>
 
@@ -4473,24 +4533,6 @@ vivo影像大片盘点（热度：67877）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E7%AB%99%E8%B7%AF%E8%BE%B9%E5%80%BE%E5%80%92%E5%A4%A7%E9%87%8F%E6%A0%B7%E6%9C%AC%E4%BF%9D%E5%AD%98%E6%B6%B2%23" target="weibo">
-公交站路边倾倒大量样本保存液（热度：50340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%B4%97%E5%A4%B4%E5%90%88%E9%80%82%23" target="weibo">
-冬季什么时候洗头合适（热度：50030）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%88%B6%E7%89%88%E5%86%B7%E6%88%98%23" target="weibo">
-重制版冷战（热度：42709）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23" target="weibo">
 运动员红毯造型（热度：41909）
 </a>
@@ -4499,12 +4541,6 @@ vivo影像大片盘点（热度：67877）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E5%A4%BA%E5%BE%97%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23" target="weibo">
 林诗栋蒯曼夺得混双冠军（热度：40959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%99%BD%E5%B1%B1%E5%A4%A9%E6%B1%A0%E7%BD%95%E7%8E%B0%E6%B0%B4%E6%B1%BD%E6%A8%AA%E6%B5%81%23" target="weibo">
-长白山天池罕现水汽横流（热度：37480）
 </a>
 </li>
 
@@ -4533,6 +4569,12 @@ vivo影像大片盘点（热度：67877）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23" target="weibo">
+聚焦中国经济圆桌会（热度：16814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%8A%98%E8%80%B3%E6%A0%B9%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
 与折耳根的故事（热度：16013）
 </a>
@@ -4541,12 +4583,6 @@ vivo影像大片盘点（热度：67877）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E8%83%BD%E7%94%A8%E8%BF%99%E7%A7%8D%E5%BF%83%E6%80%81%E8%BF%BD%E6%98%9F%E7%9A%84%23" target="weibo">
 羡慕能用这种心态追星的（热度：13292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%86%E6%A1%8C%E4%BC%9A%23" target="weibo">
-聚焦中国经济圆桌会（热度：13137）
 </a>
 </li>
 

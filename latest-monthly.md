@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 07:17:59
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 07:34:37
 </p>
 </blockquote>
 <p>
@@ -2175,6 +2175,12 @@ GEN难道只研究了T1（热度：1221313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
+网友吐槽政务大厅全天工作6个小时（热度：1195260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%20%E8%B8%A2%E9%A6%86%E5%90%8D%E5%8D%95%23" target="weibo">
 歌手2024 踢馆名单（热度：1195166）
 </a>
@@ -2921,12 +2927,6 @@ aespa回归（热度：1039919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B023%E4%B8%AA%E9%95%BF%E6%96%B0%E5%86%A0%E6%A0%87%E5%BF%97%E7%89%A9%23" target="weibo">
 我国首次发现23个长新冠标志物（热度：959541）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
-网友吐槽政务大厅全天工作6个小时（热度：958882）
 </a>
 </li>
 

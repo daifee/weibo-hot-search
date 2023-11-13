@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699917479258,
+  "endTime": 1699918477610,
   "band_list": [
     {
       "raw_hot": 1754600,
@@ -9,6 +9,14 @@
       "onboard_time": 1699884394,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1195260,
+      "num": 1195260,
+      "word": "网友吐槽政务大厅全天工作6个小时",
+      "onboard_time": 1699886735,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1112623,
@@ -27,12 +35,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 958882,
-      "num": 958882,
-      "word": "网友吐槽政务大厅全天工作6个小时",
-      "onboard_time": 1699886735,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 685763,
+      "num": 685763,
+      "word": "在何猷君身上看到了生理性喜欢的样子",
+      "onboard_time": 1699878273,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 606796,
@@ -41,14 +49,6 @@
       "onboard_time": 1699890690,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 597641,
-      "num": 597641,
-      "word": "在何猷君身上看到了生理性喜欢的样子",
-      "onboard_time": 1699878273,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 575056,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544095,
+      "num": 544095,
+      "word": "在东北 一切笨的东西都会被吃掉",
+      "onboard_time": 1699915278,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 487548,
       "num": 487548,
       "word": "柳智敏打歌时发现衣服上有针",
@@ -83,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359499,
+      "num": 359499,
+      "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
+      "onboard_time": 1699881452,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359278,
       "num": 359278,
       "word": "山东74名学生腹泻呕吐采样为诺如病毒",
@@ -91,11 +107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348008,
-      "num": 348008,
-      "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
-      "onboard_time": 1699881452,
-      "rank": 39,
+      "raw_hot": 334011,
+      "num": 334011,
+      "word": "南航白菜价机票尴尬了谁",
+      "onboard_time": 1699882955,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -137,22 +153,6 @@
       "onboard_time": 1699888773,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 300219,
-      "num": 300219,
-      "word": "在东北 一切笨的东西都会被吃掉",
-      "onboard_time": 1699915278,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 275409,
-      "num": 283974,
-      "word": "南航白菜价机票尴尬了谁",
-      "onboard_time": 1699882955,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260256,
@@ -235,20 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163436,
+      "num": 163436,
+      "word": "印度小伙来中国看望18年前的救命恩人",
+      "onboard_time": 1699916784,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163302,
+      "num": 163302,
+      "word": "55个品牌被移出中华老字号",
+      "onboard_time": 1699881153,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 161588,
       "num": 161588,
       "word": "大张伟 其实你可以一生当一个小朋友",
       "onboard_time": 1699887095,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152919,
-      "num": 152919,
-      "word": "55个品牌被移出中华老字号",
-      "onboard_time": 1699881153,
-      "rank": 29,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 146031,
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116866,
+      "num": 83954,
+      "word": "经常熬夜久坐患糖尿病几率大",
+      "onboard_time": 1699918284,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113003,
       "num": 113003,
       "word": "天蝎座 保持舒适距离",
@@ -321,6 +337,14 @@
       "onboard_time": 1699895360,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109903,
+      "num": 109903,
+      "word": "如果有人在地铁突然放下手机",
+      "onboard_time": 1699909513,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 108474,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99228,
+      "num": 99228,
+      "word": "公交站路边倾倒大量样本保存液",
+      "onboard_time": 1699916841,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95420,
       "num": 95420,
       "word": "宁安如梦热度",
@@ -387,6 +419,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82756,
+      "num": 82756,
+      "word": "长白山天池罕现水汽横流",
+      "onboard_time": 1699916721,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 80739,
+      "num": 80739,
+      "word": "TGA2023提名",
+      "onboard_time": 1699917804,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79780,
       "num": 79780,
       "word": "卧床休息是养肝的最好方法",
@@ -395,12 +443,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 78845,
-      "num": 78845,
-      "word": "如果有人在地铁突然放下手机",
-      "onboard_time": 1699909513,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 79471,
+      "num": 79471,
+      "word": "脂肪肝不建议碰到食物黑名单",
+      "onboard_time": 1699918405,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74047,
@@ -419,20 +467,52 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66049,
-      "num": 66049,
-      "word": "印度小伙来中国看望18年前的救命恩人",
-      "onboard_time": 1699916784,
-      "rank": 28,
+      "raw_hot": 64819,
+      "num": 64819,
+      "word": "记者爬行救下冰窟男童9个月后被认出",
+      "onboard_time": 1699918405,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58872,
-      "num": 58872,
+      "raw_hot": 61236,
+      "num": 61236,
+      "word": "冬季什么时候洗头合适",
+      "onboard_time": 1699908073,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61035,
+      "num": 61035,
       "word": "冬天不用出门的锻炼方式",
       "onboard_time": 1699913055,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 59915,
+      "num": 59915,
+      "word": "谢危权谋篇",
+      "onboard_time": 1699918167,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58009,
+      "num": 58009,
+      "word": "重制版冷战",
+      "onboard_time": 1699917203,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 57066,
+      "num": 57066,
+      "word": "1岁半萌娃初见弟弟满眼宠溺",
+      "onboard_time": 1699917864,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55036,
@@ -467,44 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50340,
-      "num": 50340,
-      "word": "公交站路边倾倒大量样本保存液",
-      "onboard_time": 1699916841,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50030,
-      "num": 50030,
-      "word": "冬季什么时候洗头合适",
-      "onboard_time": 1699908073,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 49350,
       "num": 49350,
       "word": "用古早言情小说来打开宁安如梦",
       "onboard_time": 1699875391,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42709,
-      "num": 42709,
-      "word": "重制版冷战",
-      "onboard_time": 1699917203,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 37480,
-      "num": 42531,
-      "word": "长白山天池罕现水汽横流",
-      "onboard_time": 1699916721,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 33578,
@@ -531,20 +579,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 16814,
+      "num": 590313,
+      "word": "聚焦中国经济圆桌会",
+      "onboard_time": 1699881575,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13292,
       "num": 15115,
       "word": "羡慕能用这种心态追星的",
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13137,
-      "num": 459202,
-      "word": "聚焦中国经济圆桌会",
-      "onboard_time": 1699881575,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
