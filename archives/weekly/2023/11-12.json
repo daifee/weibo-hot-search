@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699870765946,
+  "endTime": 1699871856039,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1691351,
-      "num": 319811,
+      "num": 323433,
       "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
       "onboard_time": 1699860692,
       "rank": 34,
@@ -337,6 +337,14 @@
       "onboard_time": 1699785876,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1249740,
+      "num": 752456,
+      "word": "加沙北部所有医院均停止服务",
+      "onboard_time": 1699870355,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1249341,
@@ -673,14 +681,6 @@
       "onboard_time": 1699743858,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752456,
-      "num": 752456,
-      "word": "加沙北部所有医院均停止服务",
-      "onboard_time": 1699870355,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 751354,
@@ -1307,6 +1307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 469339,
+      "num": 469339,
+      "word": "以爱为营豆瓣评分4.8分",
+      "onboard_time": 1699869273,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468833,
       "num": 468833,
       "word": "韩女拍照",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1699714416,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463845,
+      "num": 463845,
+      "word": "王楚钦 微博年度受欢迎运动员",
+      "onboard_time": 1699870292,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 459365,
@@ -1379,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 448236,
+      "num": 448236,
+      "word": "清华女博士毕业做占星师月入3万",
+      "onboard_time": 1699869873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446046,
       "num": 429580,
       "word": "Bin 迟早冠军是我的",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1699762110,
       "rank": 16,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 433482,
+      "num": 433482,
+      "word": "阿奇霉素对病毒感染是无效的",
+      "onboard_time": 1699871252,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 432136,
@@ -1571,11 +1603,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 390539,
-      "num": 390539,
-      "word": "以爱为营豆瓣评分4.8分",
-      "onboard_time": 1699869273,
-      "rank": 15,
+      "raw_hot": 398587,
+      "num": 398587,
+      "word": "他谈恋爱她谈天下",
+      "onboard_time": 1699869873,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1587,20 +1619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387291,
+      "num": 387291,
+      "word": "女tony",
+      "onboard_time": 1699867053,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 384837,
       "num": 384837,
       "word": "时空中的绘旅人 艾因",
       "onboard_time": 1699855117,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 383733,
-      "num": 383733,
-      "word": "女tony",
-      "onboard_time": 1699867053,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 383698,
@@ -1923,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305766,
-      "num": 305766,
-      "word": "他谈恋爱她谈天下",
-      "onboard_time": 1699869873,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305267,
       "num": 305267,
       "word": "任嘉伦田曦薇张凌赫窦骁何超莲合照",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1699785876,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299485,
-      "num": 299485,
-      "word": "王楚钦 微博年度受欢迎运动员",
-      "onboard_time": 1699870292,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 298679,
@@ -2435,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245322,
+      "num": 982858,
+      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
+      "onboard_time": 1699868999,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244772,
       "num": 224864,
       "word": "天蝎座的慕强是有双标含义的",
@@ -2505,6 +2529,14 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 238806,
+      "num": 238806,
+      "word": "于适觉得封神如果三年前上自己接不住",
+      "onboard_time": 1699871554,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 235551,
@@ -2955,12 +2987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203393,
-      "num": 982858,
-      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
-      "onboard_time": 1699868999,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 203206,
+      "num": 213988,
+      "word": "孙颖莎加盟竞燃之夜",
+      "onboard_time": 1699870654,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 203116,
@@ -2969,14 +3001,6 @@
       "onboard_time": 1699795176,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202980,
-      "num": 213988,
-      "word": "孙颖莎加盟竞燃之夜",
-      "onboard_time": 1699870654,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 202075,
@@ -3123,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192000,
+      "num": 771073,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 191882,
       "num": 160428,
       "word": "笙笙给明星拍的宝丽来",
@@ -3161,14 +3193,6 @@
       "onboard_time": 1699715733,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189318,
-      "num": 189318,
-      "word": "清华女博士毕业做占星师月入3万",
-      "onboard_time": 1699869873,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188407,
@@ -3321,6 +3345,14 @@
       "onboard_time": 1699787371,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179860,
+      "num": 179860,
+      "word": "乌龙冰茶拿铁",
+      "onboard_time": 1699870955,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 179320,
@@ -3531,6 +3563,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 168908,
+      "num": 168908,
+      "word": "LPL全明星落地福州",
+      "onboard_time": 1699870955,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168643,
       "num": 168643,
       "word": "张杰用女儿的名字命名麦克风",
@@ -3571,12 +3611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165769,
-      "num": 771073,
-      "word": "11岁男生用编程讲历史获全国一等奖",
-      "onboard_time": 1699863335,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 166493,
+      "num": 166493,
+      "word": "许凯景甜sosweet",
+      "onboard_time": 1699871494,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 165671,
@@ -3811,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152962,
+      "num": 152962,
+      "word": "包装很土但很好吃的零食",
+      "onboard_time": 1699871554,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152651,
       "num": 152651,
       "word": "周柯宇易扬人设",
@@ -3931,6 +3979,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 147739,
+      "num": 147739,
+      "word": "TizzyT演唱会五城官宣",
+      "onboard_time": 1699871135,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147733,
       "num": 147733,
       "word": "红薯摊狗狗有小被子和大玩具",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1699827618,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142220,
+      "num": 142220,
+      "word": "冰岛近期或有较大规模地震和火山喷发",
+      "onboard_time": 1699871317,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142217,
@@ -4321,6 +4385,14 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125571,
+      "num": 627231,
+      "word": "秋天的九寨沟是色彩的交点",
+      "onboard_time": 1699868999,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 125226,
@@ -4721,14 +4793,6 @@
       "onboard_time": 1699766731,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101818,
-      "num": 627231,
-      "word": "秋天的九寨沟是色彩的交点",
-      "onboard_time": 1699868999,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 101612,

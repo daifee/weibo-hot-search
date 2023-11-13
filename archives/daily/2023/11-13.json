@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699870765946,
+  "endTime": 1699871856039,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1691351,
-      "num": 319811,
+      "num": 323433,
       "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
       "onboard_time": 1699860692,
       "rank": 34,
@@ -113,6 +113,14 @@
       "onboard_time": 1699839092,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249740,
+      "num": 752456,
+      "word": "加沙北部所有医院均停止服务",
+      "onboard_time": 1699870355,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1249341,
@@ -249,14 +257,6 @@
       "onboard_time": 1699844372,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 752456,
-      "num": 752456,
-      "word": "加沙北部所有医院均停止服务",
-      "onboard_time": 1699870355,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 751354,
@@ -507,6 +507,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 469339,
+      "num": 469339,
+      "word": "以爱为营豆瓣评分4.8分",
+      "onboard_time": 1699869273,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 463845,
+      "num": 463845,
+      "word": "王楚钦 微博年度受欢迎运动员",
+      "onboard_time": 1699870292,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463459,
       "num": 463459,
       "word": "爱奇艺回复白鹿",
@@ -521,6 +537,22 @@
       "onboard_time": 1699861354,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 448236,
+      "num": 448236,
+      "word": "清华女博士毕业做占星师月入3万",
+      "onboard_time": 1699869873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433482,
+      "num": 433482,
+      "word": "阿奇霉素对病毒感染是无效的",
+      "onboard_time": 1699871252,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 432136,
@@ -611,11 +643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390539,
-      "num": 390539,
-      "word": "以爱为营豆瓣评分4.8分",
-      "onboard_time": 1699869273,
-      "rank": 15,
+      "raw_hot": 398587,
+      "num": 398587,
+      "word": "他谈恋爱她谈天下",
+      "onboard_time": 1699869873,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -627,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387291,
+      "num": 387291,
+      "word": "女tony",
+      "onboard_time": 1699867053,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 384837,
       "num": 384837,
       "word": "时空中的绘旅人 艾因",
       "onboard_time": 1699855117,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 383733,
-      "num": 383733,
-      "word": "女tony",
-      "onboard_time": 1699867053,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 383698,
@@ -827,28 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305766,
-      "num": 305766,
-      "word": "他谈恋爱她谈天下",
-      "onboard_time": 1699869873,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302480,
       "num": 302480,
       "word": "杨幂个人ins更新",
       "onboard_time": 1699793259,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299485,
-      "num": 299485,
-      "word": "王楚钦 微博年度受欢迎运动员",
-      "onboard_time": 1699870292,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 293839,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245322,
+      "num": 982858,
+      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
+      "onboard_time": 1699868999,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244281,
       "num": 244281,
       "word": "冰糖帝王蟹",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1699845031,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238806,
+      "num": 238806,
+      "word": "于适觉得封神如果三年前上自己接不住",
+      "onboard_time": 1699871554,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 237438,
@@ -1307,15 +1339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203393,
-      "num": 982858,
-      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
-      "onboard_time": 1699868999,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202980,
+      "raw_hot": 203206,
       "num": 213988,
       "word": "孙颖莎加盟竞燃之夜",
       "onboard_time": 1699870654,
@@ -1387,12 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189318,
-      "num": 189318,
-      "word": "清华女博士毕业做占星师月入3万",
-      "onboard_time": 1699869873,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 192000,
+      "num": 771073,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 186908,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1699798358,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179860,
+      "num": 179860,
+      "word": "乌龙冰茶拿铁",
+      "onboard_time": 1699870955,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 179320,
@@ -1603,6 +1635,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 168908,
+      "num": 168908,
+      "word": "LPL全明星落地福州",
+      "onboard_time": 1699870955,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168105,
       "num": 168105,
       "word": "你洗完头会用干发帽吗",
@@ -1611,12 +1651,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 165769,
-      "num": 771073,
-      "word": "11岁男生用编程讲历史获全国一等奖",
-      "onboard_time": 1699863335,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 166493,
+      "num": 166493,
+      "word": "许凯景甜sosweet",
+      "onboard_time": 1699871494,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 164270,
@@ -1723,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152962,
+      "num": 152962,
+      "word": "包装很土但很好吃的零食",
+      "onboard_time": 1699871554,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152651,
       "num": 152651,
       "word": "周柯宇易扬人设",
@@ -1787,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147739,
+      "num": 147739,
+      "word": "TizzyT演唱会五城官宣",
+      "onboard_time": 1699871135,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147583,
       "num": 147583,
       "word": "高血压并不是一种老年疾病",
@@ -1849,6 +1905,14 @@
       "onboard_time": 1699827618,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142220,
+      "num": 142220,
+      "word": "冰岛近期或有较大规模地震和火山喷发",
+      "onboard_time": 1699871317,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142017,
@@ -1993,6 +2057,14 @@
       "onboard_time": 1699842150,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125571,
+      "num": 627231,
+      "word": "秋天的九寨沟是色彩的交点",
+      "onboard_time": 1699868999,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 125186,
@@ -2209,14 +2281,6 @@
       "onboard_time": 1699791875,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101818,
-      "num": 627231,
-      "word": "秋天的九寨沟是色彩的交点",
-      "onboard_time": 1699868999,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 101612,

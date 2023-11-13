@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699870765946,
+  "endTime": 1699871856039,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1620,7 +1620,7 @@
     },
     {
       "raw_hot": 1691351,
-      "num": 319811,
+      "num": 323433,
       "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
       "onboard_time": 1699860692,
       "rank": 34,
@@ -2641,6 +2641,14 @@
       "onboard_time": 1699096596,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1249740,
+      "num": 752456,
+      "word": "加沙北部所有医院均停止服务",
+      "onboard_time": 1699870355,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1249341,
@@ -5185,14 +5193,6 @@
       "onboard_time": 1699496613,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 752456,
-      "num": 752456,
-      "word": "加沙北部所有医院均停止服务",
-      "onboard_time": 1699870355,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 752042,
@@ -9475,6 +9475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469339,
+      "num": 469339,
+      "word": "以爱为营豆瓣评分4.8分",
+      "onboard_time": 1699869273,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469138,
       "num": 469138,
       "word": "以爱为营 视角",
@@ -9577,6 +9585,14 @@
       "onboard_time": 1699413334,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 463845,
+      "num": 463845,
+      "word": "王楚钦 微博年度受欢迎运动员",
+      "onboard_time": 1699870292,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 463097,
@@ -9889,6 +9905,14 @@
       "onboard_time": 1698935840,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448236,
+      "num": 448236,
+      "word": "清华女博士毕业做占星师月入3万",
+      "onboard_time": 1699869873,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447627,
@@ -10249,6 +10273,14 @@
       "onboard_time": 1699497571,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433482,
+      "num": 433482,
+      "word": "阿奇霉素对病毒感染是无效的",
+      "onboard_time": 1699871252,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 433344,
@@ -11307,6 +11339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398587,
+      "num": 398587,
+      "word": "他谈恋爱她谈天下",
+      "onboard_time": 1699869873,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398441,
       "num": 206976,
       "word": "野画集",
@@ -11563,14 +11603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 390539,
-      "num": 390539,
-      "word": "以爱为营豆瓣评分4.8分",
-      "onboard_time": 1699869273,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 390496,
       "num": 390496,
       "word": "灯神 登神",
@@ -11699,6 +11731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 387291,
+      "num": 387291,
+      "word": "女tony",
+      "onboard_time": 1699867053,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 387276,
       "num": 315342,
       "word": "声生不息中华季",
@@ -11809,14 +11849,6 @@
       "onboard_time": 1699151850,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 383733,
-      "num": 383733,
-      "word": "女tony",
-      "onboard_time": 1699867053,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 383698,
@@ -14699,14 +14731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305766,
-      "num": 305766,
-      "word": "他谈恋爱她谈天下",
-      "onboard_time": 1699869873,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305671,
       "num": 305671,
       "word": "TheShy与Bin互放狠话",
@@ -14945,14 +14969,6 @@
       "onboard_time": 1699785876,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299485,
-      "num": 299485,
-      "word": "王楚钦 微博年度受欢迎运动员",
-      "onboard_time": 1699870292,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 299042,
@@ -18075,6 +18091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245322,
+      "num": 982858,
+      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
+      "onboard_time": 1699868999,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245190,
       "num": 245190,
       "word": "宁安如梦 三人修罗场",
@@ -18553,6 +18577,14 @@
       "onboard_time": 1698852398,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238806,
+      "num": 238806,
+      "word": "于适觉得封神如果三年前上自己接不住",
+      "onboard_time": 1699871554,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 238469,
@@ -21867,20 +21899,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203393,
-      "num": 982858,
-      "word": "瘫痪妈妈摔倒孩子多次尝试扶上轮椅",
-      "onboard_time": 1699868999,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203283,
       "num": 249942,
       "word": "水瓶座结束一段关系的原因",
       "onboard_time": 1699008696,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203206,
+      "num": 213988,
+      "word": "孙颖莎加盟竞燃之夜",
+      "onboard_time": 1699870654,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 203185,
@@ -21904,14 +21936,6 @@
       "word": "梅西领先哈兰德105分",
       "onboard_time": 1699090952,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 202980,
-      "num": 213988,
-      "word": "孙颖莎加盟竞燃之夜",
-      "onboard_time": 1699870654,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -23443,6 +23467,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 192000,
+      "num": 771073,
+      "word": "11岁男生用编程讲历史获全国一等奖",
+      "onboard_time": 1699863335,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 191968,
       "num": 191968,
       "word": "第五人格记忆余烬",
@@ -23841,14 +23873,6 @@
       "onboard_time": 1699184558,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189318,
-      "num": 189318,
-      "word": "清华女博士毕业做占星师月入3万",
-      "onboard_time": 1699869873,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189283,
@@ -24865,6 +24889,14 @@
       "onboard_time": 1698798815,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179860,
+      "num": 179860,
+      "word": "乌龙冰茶拿铁",
+      "onboard_time": 1699870955,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 179814,
@@ -26003,6 +26035,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 168908,
+      "num": 168908,
+      "word": "LPL全明星落地福州",
+      "onboard_time": 1699870955,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168838,
       "num": 160953,
       "word": "进击的巨人群像图",
@@ -26315,6 +26355,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 166493,
+      "num": 166493,
+      "word": "许凯景甜sosweet",
+      "onboard_time": 1699871494,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166303,
       "num": 166303,
       "word": "苏醒回应悍跳预言家",
@@ -26369,14 +26417,6 @@
       "onboard_time": 1698917552,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165769,
-      "num": 771073,
-      "word": "11岁男生用编程讲历史获全国一等奖",
-      "onboard_time": 1699863335,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 165756,
@@ -27891,6 +27931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152962,
+      "num": 152962,
+      "word": "包装很土但很好吃的零食",
+      "onboard_time": 1699871554,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152725,
       "num": 152725,
       "word": "张云雷新歌琉璃盏MV",
@@ -28587,6 +28635,14 @@
       "category": "电影,情感"
     },
     {
+      "raw_hot": 147739,
+      "num": 147739,
+      "word": "TizzyT演唱会五城官宣",
+      "onboard_time": 1699871135,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147733,
       "num": 147733,
       "word": "红薯摊狗狗有小被子和大玩具",
@@ -29241,6 +29297,14 @@
       "onboard_time": 1699827618,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142220,
+      "num": 142220,
+      "word": "冰岛近期或有较大规模地震和火山喷发",
+      "onboard_time": 1699871317,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142217,
@@ -31177,6 +31241,14 @@
       "onboard_time": 1699078112,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125571,
+      "num": 627231,
+      "word": "秋天的九寨沟是色彩的交点",
+      "onboard_time": 1699868999,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 125494,
@@ -33193,14 +33265,6 @@
       "onboard_time": 1699086871,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101818,
-      "num": 627231,
-      "word": "秋天的九寨沟是色彩的交点",
-      "onboard_time": 1699868999,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 101815,

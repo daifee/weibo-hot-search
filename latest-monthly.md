@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 18:19:25
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 18:37:36
 </p>
 </blockquote>
 <p>
@@ -1995,6 +1995,12 @@ JDG晋级S13四强（热度：1251728）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23" target="weibo">
+加沙北部所有医院均停止服务（热度：1249740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9D%A5%E7%94%98%E9%9C%B2%E5%AF%BA%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23" target="weibo">
 我来甘露寺只做一件事（热度：1249341）
 </a>
@@ -3899,12 +3905,6 @@ JDG拿到赛点（热度：753679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E5%AA%9B%E8%80%81%E5%85%AC%E5%A7%90%23" target="weibo">
 金智媛老公姐（热度：752516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E6%89%80%E6%9C%89%E5%8C%BB%E9%99%A2%E5%9D%87%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1%23" target="weibo">
-加沙北部所有医院均停止服务（热度：752456）
 </a>
 </li>
 
