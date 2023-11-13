@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699843137590,
+  "endTime": 1699845488731,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -8,6 +8,14 @@
       "word": "李佳琦双十一收入超250亿",
       "onboard_time": 1699831286,
       "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2840307,
+      "num": 2840307,
+      "word": "李佳琦团队回应双11收入250亿",
+      "onboard_time": 1699842091,
+      "rank": 12,
       "category": "社会新闻,网红"
     },
     {
@@ -19,6 +27,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 1673663,
+      "num": 1673663,
+      "word": "缅甸果敢四大家族成员称将杜绝电诈",
+      "onboard_time": 1699842150,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1535199,
       "num": 1535199,
       "word": "1名中国人被越南判处死刑",
@@ -27,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1367251,
-      "num": 883371,
-      "word": "李佳琦团队回应双11收入250亿",
-      "onboard_time": 1699842091,
-      "rank": 12,
-      "category": "社会新闻,网红"
+      "raw_hot": 1519196,
+      "num": 1519196,
+      "word": "熊雪被开除党籍",
+      "onboard_time": 1699842990,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1317905,
@@ -67,14 +83,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 880139,
-      "num": 880139,
-      "word": "缅甸果敢四大家族成员称将杜绝电诈",
-      "onboard_time": 1699842150,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 859909,
       "num": 859909,
       "word": "韩国中小学也开始流行萝卜刀",
@@ -92,15 +100,23 @@
     },
     {
       "raw_hot": 827389,
-      "num": 217818,
+      "num": 218441,
       "word": "八段锦瘦肚子是认真的",
       "onboard_time": 1699842209,
       "rank": 21,
       "category": "运动健身"
     },
     {
-      "raw_hot": 672608,
-      "num": 672608,
+      "raw_hot": 751354,
+      "num": 300859,
+      "word": "缅甸",
+      "onboard_time": 1699843533,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 673528,
+      "num": 673528,
       "word": "54岁教授吃饭太认真带火冷门专业",
       "onboard_time": 1699841430,
       "rank": 10,
@@ -153,6 +169,14 @@
       "onboard_time": 1699789774,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 499008,
+      "num": 499008,
+      "word": "奔跑吧生态篇官宣",
+      "onboard_time": 1699842990,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 478144,
@@ -219,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403953,
+      "num": 403953,
+      "word": "雪龙2号遇落难外国渔船一整个打包救下",
+      "onboard_time": 1699842091,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373615,
       "num": 324494,
       "word": "马立奥 回长沙真开心",
@@ -241,6 +273,14 @@
       "onboard_time": 1699790495,
       "rank": 18,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 350711,
+      "num": 215235,
+      "word": "你习惯多久洗一次头发",
+      "onboard_time": 1699844913,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 344950,
@@ -291,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283698,
-      "num": 283698,
-      "word": "奔跑吧生态篇官宣",
-      "onboard_time": 1699842990,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276751,
       "num": 276751,
       "word": "徐娇眼镜戒指",
@@ -345,6 +377,14 @@
       "onboard_time": 1699794395,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248021,
+      "num": 248021,
+      "word": "你能接受恋人有亲密恐惧症吗",
+      "onboard_time": 1699844372,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 241808,
@@ -427,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212051,
-      "num": 212051,
-      "word": "雪龙2号遇落难外国渔船一整个打包救下",
-      "onboard_time": 1699842091,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206659,
       "num": 206659,
       "word": "男生收到生日惊喜撤回起床气",
@@ -451,20 +483,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201275,
+      "num": 201275,
+      "word": "男孩地铁呼呼大睡急坏一群大学生",
+      "onboard_time": 1699844612,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198830,
       "num": 198830,
       "word": "JDG发博告别S13",
       "onboard_time": 1699794635,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194996,
-      "num": 194996,
-      "word": "熊雪被开除党籍",
-      "onboard_time": 1699842990,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 194414,
@@ -587,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156947,
+      "num": 143365,
+      "word": "杰出 刀塔录音",
+      "onboard_time": 1699845331,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156413,
       "num": 156413,
       "word": "于适穿制服",
@@ -627,6 +667,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 147405,
+      "num": 147405,
+      "word": "火箭六连胜",
+      "onboard_time": 1699843351,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147329,
       "num": 147329,
       "word": "四川凉山发生3.6级地震",
@@ -641,6 +689,14 @@
       "onboard_time": 1699788880,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142602,
+      "num": 142602,
+      "word": "游客老君山上打出溜滑",
+      "onboard_time": 1699844491,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 142580,
@@ -659,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142170,
+      "num": 249361,
+      "word": "vivoX100外观辨识度",
+      "onboard_time": 1699842871,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "白鹿催宁安如梦加更",
@@ -673,6 +737,14 @@
       "onboard_time": 1699838910,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134736,
+      "num": 134736,
+      "word": "幼童被海浪卷走好心大哥飞奔捞起",
+      "onboard_time": 1699845031,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131060,
@@ -715,8 +787,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121695,
-      "num": 121695,
+      "raw_hot": 127106,
+      "num": 127106,
       "word": "上海人工耳蜗纳入医保可减约七成费用",
       "onboard_time": 1699842150,
       "rank": 44,
@@ -779,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115942,
+      "num": 115942,
+      "word": "杨幂细闪眼妆",
+      "onboard_time": 1699842752,
+      "rank": 43,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 115753,
       "num": 115753,
       "word": "歌手2024 踢馆名单",
@@ -793,14 +873,6 @@
       "onboard_time": 1699795060,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 108724,
-      "num": 108724,
-      "word": "vivoX100外观辨识度",
-      "onboard_time": 1699842871,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 108096,
@@ -825,14 +897,6 @@
       "onboard_time": 1699791875,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102215,
-      "num": 102215,
-      "word": "杨幂细闪眼妆",
-      "onboard_time": 1699842752,
-      "rank": 43,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 101343,
@@ -867,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89649,
+      "num": 142627,
+      "word": "家用车油耗多少才算低",
+      "onboard_time": 1699842809,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87525,
       "num": 87525,
       "word": "金莎孙丞潇曾救下被家暴女孩",
@@ -892,7 +964,7 @@
     },
     {
       "raw_hot": 64281,
-      "num": 1340856,
+      "num": 1591383,
       "word": "雪天8大健康提醒",
       "onboard_time": 1699797999,
       "rank": 2,
@@ -921,14 +993,6 @@
       "onboard_time": 1699777587,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 42511,
-      "num": 114190,
-      "word": "家用车油耗多少才算低",
-      "onboard_time": 1699842809,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 34868,

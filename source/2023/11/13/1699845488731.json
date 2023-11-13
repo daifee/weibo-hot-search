@@ -1,0 +1,410 @@
+{
+  "runTime": 1699845488731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2840307,
+        "num": 2840307,
+        "word": "李佳琦团队回应双11收入250亿",
+        "onboard_time": 1699842091,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1673663,
+        "num": 1673663,
+        "word": "缅甸果敢四大家族成员称将杜绝电诈",
+        "onboard_time": 1699842150,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 33345,
+        "num": 1591383,
+        "word": "雪天8大健康提醒",
+        "onboard_time": 1699797999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1519196,
+        "num": 1519196,
+        "word": "熊雪被开除党籍",
+        "onboard_time": 1699842990,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1118894,
+        "num": 1118894,
+        "word": "爸爸通过监控显摆生日吃12个菜",
+        "onboard_time": 1699839991,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673528,
+        "num": 673528,
+        "word": "54岁教授吃饭太认真带火冷门专业",
+        "onboard_time": 1699841430,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 662035,
+        "num": 662035,
+        "word": "我来甘露寺只做一件事",
+        "onboard_time": 1699835793,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499008,
+        "num": 499008,
+        "word": "奔跑吧生态篇官宣",
+        "onboard_time": 1699842990,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403953,
+        "num": 403953,
+        "word": "雪龙2号遇落难外国渔船一整个打包救下",
+        "onboard_time": 1699842091,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321820,
+        "num": 321820,
+        "word": "广西大学回应院长信箱对着摄像头",
+        "onboard_time": 1699838251,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 494952,
+        "num": 302920,
+        "word": "李佳琦双十一收入超250亿",
+        "onboard_time": 1699831286,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 751354,
+        "num": 300859,
+        "word": "缅甸",
+        "onboard_time": 1699843533,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 329331,
+        "num": 298570,
+        "word": "考古的风终于吹到了辛芷蕾",
+        "onboard_time": 1699830142,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283599,
+        "num": 283599,
+        "word": "韩国中小学也开始流行萝卜刀",
+        "onboard_time": 1699837234,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 278181,
+        "num": 278181,
+        "word": "林允公开分享打水光针过程",
+        "onboard_time": 1699833029,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 142170,
+        "num": 249361,
+        "word": "vivoX100外观辨识度",
+        "onboard_time": 1699842871,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248021,
+        "num": 248021,
+        "word": "你能接受恋人有亲密恐惧症吗",
+        "onboard_time": 1699844372,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243879,
+        "num": 243879,
+        "word": "洗完头发后要立马吹干吗",
+        "onboard_time": 1699831707,
+        "rank": 17,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 230895,
+        "num": 230895,
+        "word": "T1晋级S13总决赛",
+        "onboard_time": 1699788286,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218637,
+        "num": 218637,
+        "word": "李佳琦双11首日销售额占比降到四分之一",
+        "onboard_time": 1699840110,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 741205,
+        "num": 218441,
+        "word": "八段锦瘦肚子是认真的",
+        "onboard_time": 1699842209,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 649909,
+        "num": 216227,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350711,
+        "num": 215235,
+        "word": "你习惯多久洗一次头发",
+        "onboard_time": 1699844913,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 208931,
+        "num": 208931,
+        "word": "1名中国人被越南判处死刑",
+        "onboard_time": 1699800574,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201275,
+        "num": 201275,
+        "word": "男孩地铁呼呼大睡急坏一群大学生",
+        "onboard_time": 1699844612,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181677,
+        "num": 181677,
+        "word": "寒衣节",
+        "onboard_time": 1699841969,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171103,
+        "num": 171103,
+        "word": "Faker拒绝做弱爆动作",
+        "onboard_time": 1699831224,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165742,
+        "num": 165742,
+        "word": "cityline崩了",
+        "onboard_time": 1699838012,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147405,
+        "num": 147405,
+        "word": "火箭六连胜",
+        "onboard_time": 1699843351,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143762,
+        "num": 143762,
+        "word": "沈小婷泰民Guilty",
+        "onboard_time": 1699840891,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 143365,
+        "word": "杰出 刀塔录音",
+        "onboard_time": 1699845331,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89649,
+        "num": 142627,
+        "word": "家用车油耗多少才算低",
+        "onboard_time": 1699842809,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142602,
+        "num": 142602,
+        "word": "游客老君山上打出溜滑",
+        "onboard_time": 1699844491,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 134736,
+        "num": 134736,
+        "word": "幼童被海浪卷走好心大哥飞奔捞起",
+        "onboard_time": 1699845031,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134247,
+        "num": 134247,
+        "word": "张远一把抱住了陆虎",
+        "onboard_time": 1699836214,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127106,
+        "num": 127106,
+        "word": "上海人工耳蜗纳入医保可减约七成费用",
+        "onboard_time": 1699842150,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123242,
+        "num": 123242,
+        "word": "王鹤棣 你们好六团孤立嘉宾",
+        "onboard_time": 1699835616,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115942,
+        "num": 115942,
+        "word": "杨幂细闪眼妆",
+        "onboard_time": 1699842752,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 114956,
+        "word": "马立奥 回长沙真开心",
+        "onboard_time": 1699836815,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108804,
+        "num": 108804,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105174,
+        "num": 105174,
+        "word": "Zeus喊话TheShy",
+        "onboard_time": 1699831224,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113119,
+        "num": 105108,
+        "word": "李雪琴叫王鹤棣白鹿时总时太太",
+        "onboard_time": 1699837053,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104291,
+        "num": 104291,
+        "word": "小奶猫一怒之下怒了一下",
+        "onboard_time": 1699834472,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101190,
+        "num": 101190,
+        "word": "WBG赢了血赚输了不亏",
+        "onboard_time": 1699792413,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100086,
+        "num": 100086,
+        "word": "于适穿制服",
+        "onboard_time": 1699834111,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96942,
+        "num": 96942,
+        "word": "洗头发时常犯的9个错",
+        "onboard_time": 1699842631,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 94762,
+        "num": 94762,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699830982,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92525,
+        "num": 92525,
+        "word": "全昭旻RM正式下车",
+        "onboard_time": 1699834472,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89179,
+        "num": 89179,
+        "word": "马克西50分",
+        "onboard_time": 1699840769,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83227,
+        "num": 83227,
+        "word": "2女生捡到3千现金后报警交还",
+        "onboard_time": 1699803096,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#从一天考察行程看总书记擘画防灾减灾工作#"
+    }
+  }
+}
