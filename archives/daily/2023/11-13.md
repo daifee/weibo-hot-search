@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 09:36:47
+本榜单时间：2023/11/13 00:20:37 ~ 2023/11/13 10:28:13
 </p>
 </blockquote>
 <p>
@@ -33,8 +33,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A2%E6%9C%88%E6%B5%81%E4%BA%A7%E8%A6%81%E7%A6%BB%E5%A9%9A%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E8%BF%98%E5%BD%A9%E7%A4%BC%23" target="weibo">
+女子结婚2月流产要离婚丈夫起诉还彩礼（热度：1317905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9D%A5%E7%94%98%E9%9C%B2%E5%AF%BA%E5%8F%AA%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23" target="weibo">
 我来甘露寺只做一件事（热度：1249341）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
+爸爸通过监控显摆生日吃12个菜（热度：960289）
 </a>
 </li>
 
@@ -75,6 +87,12 @@ T1晋级S13总决赛（热度：916586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
+广西大学回应院长信箱对着摄像头（热度：596526）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
 冰岛宣布进入紧急状态（热度：564304）
 </a>
@@ -83,6 +101,18 @@ T1晋级S13总决赛（热度：916586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%85%A8%E7%B3%BB%E4%BA%A7%E5%93%81%E5%B4%A9%E4%BA%86%23" target="weibo">
 阿里全系产品崩了（热度：543308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%AE%B5%E9%94%A6%E7%98%A6%E8%82%9A%E5%AD%90%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84%23" target="weibo">
+八段锦瘦肚子是认真的（热度：539767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2354%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A%23" target="weibo">
+54岁教授吃饭太认真带火冷门专业（热度：493162）
 </a>
 </li>
 
@@ -113,6 +143,12 @@ Faker拒绝做弱爆动作（热度：478144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E9%A9%AC%E9%9D%A2%E8%A3%99%23" target="weibo">
 张译马面裙（热度：426684）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%8F%8C11%E9%A6%96%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E5%8D%A0%E6%AF%94%E9%99%8D%E5%88%B0%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%23" target="weibo">
+李佳琦双11首日销售额占比降到四分之一（热度：423318）
 </a>
 </li>
 
@@ -153,6 +189,12 @@ cityline崩了（热度：361365）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E5%8F%8C11%E6%94%B6%E5%85%A5250%E4%BA%BF%23" target="weibo">
+李佳琦团队回应双11收入250亿（热度：344295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%89%93%E8%BD%A6%E9%81%87e%E4%BA%BA%E5%8F%B8%E6%9C%BA1%E7%A7%92%E5%8F%98%E5%85%AC%E4%B8%BB%23" target="weibo">
 游客打车遇e人司机1秒变公主（热度：341629）
 </a>
@@ -185,12 +227,6 @@ cityline崩了（热度：361365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E7%9C%BC%E9%95%9C%E6%88%92%E6%8C%87%23" target="weibo">
 徐娇眼镜戒指（热度：276751）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
-广西大学回应院长信箱对着摄像头（热度：273942）
 </a>
 </li>
 
@@ -267,14 +303,14 @@ Faker晋级决赛时的表情（热度：228461）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%BF%9E%E6%9B%B4%23" target="weibo">
-宁安如梦连更（热度：220853）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E7%A7%B0%E5%B0%86%E6%9D%9C%E7%BB%9D%E7%94%B5%E8%AF%88%23" target="weibo">
+缅甸果敢四大家族成员称将杜绝电诈（热度：224256）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A2%E6%9C%88%E6%B5%81%E4%BA%A7%E8%A6%81%E7%A6%BB%E5%A9%9A%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E8%BF%98%E5%BD%A9%E7%A4%BC%23" target="weibo">
-女子结婚2月流产要离婚丈夫起诉还彩礼（热度：219184）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E8%BF%9E%E6%9B%B4%23" target="weibo">
+宁安如梦连更（热度：220853）
 </a>
 </li>
 
@@ -303,6 +339,12 @@ JDG发博告别S13（热度：198830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E6%B3%B0%E6%B0%91Guilty%23" target="weibo">
+沈小婷泰民Guilty（热度：194414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9D%A1%E8%A7%89%E5%89%8D%E9%83%BD%E7%9F%A5%E9%81%93%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9B%96%E5%A5%BD%E8%A2%AB%E5%AD%90%23" target="weibo">
 狗狗睡觉前都知道给自己盖好被子（热度：192694）
 </a>
@@ -317,6 +359,12 @@ WBG决赛对战T1（热度：185333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%B8%A6%E5%81%87%E8%82%A2%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%23" target="weibo">
 刘畊宏带假肢女孩跳本草纲目（热度：184875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E8%A5%BF50%E5%88%86%23" target="weibo">
+马克西50分（热度：182826）
 </a>
 </li>
 
@@ -351,6 +399,12 @@ WBG决赛对战T1（热度：185333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%92%E8%A1%A3%E8%8A%82%23" target="weibo">
+寒衣节（热度：169643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%87%8D%E8%BF%94%E5%85%AB%E4%B8%87%E4%BA%BA%23" target="weibo">
 五月天重返八万人（热度：169329）
 </a>
@@ -371,6 +425,12 @@ WBG决赛对战T1（热度：185333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%8F%8C%E5%B1%82%E6%8C%91%E6%9F%93%E5%8F%91%E8%89%B2%23" target="weibo">
 薛之谦双层挑染发色（热度：162678）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%992%E5%8F%B7%E9%81%87%E8%90%BD%E9%9A%BE%E5%A4%96%E5%9B%BD%E6%B8%94%E8%88%B9%E4%B8%80%E6%95%B4%E4%B8%AA%E6%89%93%E5%8C%85%E6%95%91%E4%B8%8B%23" target="weibo">
+雪龙2号遇落难外国渔船一整个打包救下（热度：160778）
 </a>
 </li>
 
@@ -533,6 +593,18 @@ Knight 隐身（热度：120279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%20%20%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94%E8%83%9C%E8%B4%9F%E4%B9%8B%E5%88%86%23" target="weibo">
 Ruler和Faker  一墙之隔胜负之分（热度：107679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%BC%9A%E5%90%B9%E5%B9%B2%E8%BF%98%E6%98%AF%E8%87%AA%E7%84%B6%E5%B9%B2%23" target="weibo">
+你洗完头会吹干还是自然干（热度：103842）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E5%8F%AF%E5%87%8F%E7%BA%A6%E4%B8%83%E6%88%90%E8%B4%B9%E7%94%A8%23" target="weibo">
+上海人工耳蜗纳入医保可减约七成费用（热度：102802）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699842493526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2032646,
+        "num": 2032646,
+        "word": "李佳琦双十一收入超250亿",
+        "onboard_time": 1699831286,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1031662,
+        "num": 1031662,
+        "word": "我来甘露寺只做一件事",
+        "onboard_time": 1699835793,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41077,
+        "num": 992021,
+        "word": "雪天8大健康提醒",
+        "onboard_time": 1699797999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960289,
+        "num": 960289,
+        "word": "爸爸通过监控显摆生日吃12个菜",
+        "onboard_time": 1699839991,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726906,
+        "num": 726906,
+        "word": "韩国中小学也开始流行萝卜刀",
+        "onboard_time": 1699837234,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 596526,
+        "num": 596526,
+        "word": "广西大学回应院长信箱对着摄像头",
+        "onboard_time": 1699838251,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 553365,
+        "num": 553365,
+        "word": "洗完头发后要立马吹干吗",
+        "onboard_time": 1699831707,
+        "rank": 6,
+        "category": "美妆,知识科普"
+      },
+      {
+        "raw_hot": 423318,
+        "num": 423318,
+        "word": "李佳琦双11首日销售额占比降到四分之一",
+        "onboard_time": 1699840110,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 385732,
+        "num": 385732,
+        "word": "1名中国人被越南判处死刑",
+        "onboard_time": 1699800574,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350140,
+        "num": 350140,
+        "word": "cityline崩了",
+        "onboard_time": 1699838012,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493162,
+        "num": 349130,
+        "word": "54岁教授吃饭太认真带火冷门专业",
+        "onboard_time": 1699841430,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 372145,
+        "num": 347429,
+        "word": "考古的风终于吹到了辛芷蕾",
+        "onboard_time": 1699830142,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344295,
+        "num": 344295,
+        "word": "李佳琦团队回应双11收入250亿",
+        "onboard_time": 1699842091,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 317300,
+        "num": 317300,
+        "word": "林允公开分享打水光针过程",
+        "onboard_time": 1699833029,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 297520,
+        "num": 297520,
+        "word": "Faker拒绝做弱爆动作",
+        "onboard_time": 1699831224,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 271405,
+        "num": 271405,
+        "word": "T1晋级S13总决赛",
+        "onboard_time": 1699788286,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263723,
+        "num": 263723,
+        "word": "马立奥 回长沙真开心",
+        "onboard_time": 1699836815,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242425,
+        "num": 242425,
+        "word": "张远一把抱住了陆虎",
+        "onboard_time": 1699836214,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234450,
+        "num": 234450,
+        "word": "南方气温将再下一个台阶",
+        "onboard_time": 1699836693,
+        "rank": 18,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 224256,
+        "num": 224256,
+        "word": "缅甸果敢四大家族成员称将杜绝电诈",
+        "onboard_time": 1699842150,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1317905,
+        "num": 223855,
+        "word": "女子结婚2月流产要离婚丈夫起诉还彩礼",
+        "onboard_time": 1699839092,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539767,
+        "num": 217818,
+        "word": "八段锦瘦肚子是认真的",
+        "onboard_time": 1699842209,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 209270,
+        "num": 209270,
+        "word": "王鹤棣 你们好六团孤立嘉宾",
+        "onboard_time": 1699835616,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194414,
+        "num": 194414,
+        "word": "沈小婷泰民Guilty",
+        "onboard_time": 1699840891,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182826,
+        "num": 182826,
+        "word": "马克西50分",
+        "onboard_time": 1699840769,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169643,
+        "num": 169643,
+        "word": "寒衣节",
+        "onboard_time": 1699841969,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167053,
+        "num": 167053,
+        "word": "小奶猫一怒之下怒了一下",
+        "onboard_time": 1699834472,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177865,
+        "num": 163946,
+        "word": "李雪琴叫王鹤棣白鹿时总时太太",
+        "onboard_time": 1699837053,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160778,
+        "num": 160778,
+        "word": "雪龙2号遇落难外国渔船一整个打包救下",
+        "onboard_time": 1699842091,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150284,
+        "num": 150284,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1699830982,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138733,
+        "num": 138733,
+        "word": "Zeus喊话TheShy",
+        "onboard_time": 1699831224,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131852,
+        "num": 131852,
+        "word": "马化腾称阿里云不如腾讯云截图是假的",
+        "onboard_time": 1699834651,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131602,
+        "num": 131602,
+        "word": "男子四千米高山骑行偶遇野生大熊猫",
+        "onboard_time": 1699837173,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 129748,
+        "num": 129748,
+        "word": "冰岛24小时内1400次地震",
+        "onboard_time": 1699818615,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121764,
+        "num": 121764,
+        "word": "爱奇艺回复白鹿",
+        "onboard_time": 1699798835,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120631,
+        "num": 120631,
+        "word": "冰岛宣布进入紧急状态",
+        "onboard_time": 1699784970,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119196,
+        "num": 119196,
+        "word": "狗狗睡觉前都知道给自己盖好被子",
+        "onboard_time": 1699835793,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116550,
+        "num": 116550,
+        "word": "米勒预测WBG零封T1",
+        "onboard_time": 1699801358,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116206,
+        "num": 116206,
+        "word": "男主有这认错的态度怎么be",
+        "onboard_time": 1699838552,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114809,
+        "num": 114809,
+        "word": "2女生捡到3千现金后报警交还",
+        "onboard_time": 1699803096,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110892,
+        "num": 110892,
+        "word": "WBG赢了血赚输了不亏",
+        "onboard_time": 1699792413,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106869,
+        "num": 106869,
+        "word": "游客打车遇e人司机1秒变公主",
+        "onboard_time": 1699838312,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106189,
+        "num": 106189,
+        "word": "全昭旻RM正式下车",
+        "onboard_time": 1699834472,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103842,
+        "num": 103842,
+        "word": "你洗完头会吹干还是自然干",
+        "onboard_time": 1699842329,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 102802,
+        "num": 102802,
+        "word": "上海人工耳蜗纳入医保可减约七成费用",
+        "onboard_time": 1699842150,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98197,
+        "num": 98197,
+        "word": "四川凉山发生3.6级地震",
+        "onboard_time": 1699838972,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96345,
+        "num": 96345,
+        "word": "伍佰 主歌你们唱副歌也是你们唱",
+        "onboard_time": 1699838910,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96290,
+        "num": 96290,
+        "word": "阿里全系产品崩了",
+        "onboard_time": 1699789774,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95591,
+        "num": 95591,
+        "word": "白桃星座",
+        "onboard_time": 1699832550,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 95250,
+        "num": 95250,
+        "word": "于适穿制服",
+        "onboard_time": 1699834111,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首会晤#"
+    }
+  }
+}

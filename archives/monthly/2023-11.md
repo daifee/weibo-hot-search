@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 09:36:47
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 10:28:13
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ Faker无需向众神祈祷（热度：1321697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A2%E6%9C%88%E6%B5%81%E4%BA%A7%E8%A6%81%E7%A6%BB%E5%A9%9A%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E8%BF%98%E5%BD%A9%E7%A4%BC%23" target="weibo">
+女子结婚2月流产要离婚丈夫起诉还彩礼（热度：1317905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E7%A7%B0%E7%88%B6%E4%BA%B2%E6%9F%A5%E5%87%BA%E6%82%A3%E9%A3%9F%E9%81%93%E7%99%8C%23" target="weibo">
 南京胖哥称父亲查出患食道癌（热度：1315182）
 </a>
@@ -2753,6 +2759,12 @@ aespa回归（热度：1039919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%20%E5%92%8C%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%23" target="weibo">
 陈乔恩 和身边的朋友渐行渐远（热度：961353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
+爸爸通过监控显摆生日吃12个菜（热度：960289）
 </a>
 </li>
 
@@ -5187,6 +5199,12 @@ ZZxinqing（热度：599030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%99%A2%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
+广西大学回应院长信箱对着摄像头（热度：596526）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23" target="weibo">
 康师傅回应涨价（热度：596081）
 </a>
@@ -5817,6 +5835,12 @@ EDG剧本（热度：548931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%AE%B5%E9%94%A6%E7%98%A6%E8%82%9A%E5%AD%90%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84%23" target="weibo">
+八段锦瘦肚子是认真的（热度：539767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9D%83%E5%BF%97%E9%BE%99%E9%94%80%E6%AF%81%E8%AF%81%E6%8D%AE%23" target="weibo">
 韩国警方否认权志龙销毁证据（热度：539365）
 </a>
@@ -5987,30 +6011,6 @@ Faker这一推绝了（热度：528914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E5%9B%9E%E5%BA%94%E8%83%8C%E5%B8%A6%E8%A3%A4%E9%80%A0%E5%9E%8B%23" target="weibo">
 张艺兴演唱会伴舞回应背带裤造型（热度：526104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%96%9D%E5%8C%97%E4%BA%AC%E8%B1%86%E6%B1%81%E5%84%BF%23" target="weibo">
-王力宏喝北京豆汁儿（热度：526059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9D%871700%E5%8F%AA%E7%BB%99%E4%BD%A0%E5%90%83%E9%B8%A1%23" target="weibo">
-人均1700只给你吃鸡（热度：525585）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88%E5%9B%9E%E5%BA%94%E9%83%A8%E5%88%86%E7%8E%A9%E5%AE%B6%E6%97%A0%E6%B3%95%E8%BF%9B%E5%85%A5%E6%B8%B8%E6%88%8F%23" target="weibo">
-节奏大师回应部分玩家无法进入游戏（热度：525437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9B%9E%E5%BD%92%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B63%23" target="weibo">
-马立奥回归爸爸当家3（热度：525119）
 </a>
 </li>
 
