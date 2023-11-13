@@ -1,6 +1,6 @@
 {
   "startTime": 1699806037375,
-  "endTime": 1699879819327,
+  "endTime": 1699881680309,
   "band_list": [
     {
       "raw_hot": 3009969,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928672,
+      "num": 928672,
+      "word": "iPhone15双11最后两小时降价",
+      "onboard_time": 1699878814,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 916586,
       "num": 568242,
       "word": "T1晋级S13总决赛",
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834446,
+      "num": 425558,
+      "word": "在何猷君身上看到了生理性喜欢的样子",
+      "onboard_time": 1699878273,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827389,
       "num": 294004,
       "word": "八段锦瘦肚子是认真的",
@@ -291,11 +307,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 754241,
-      "num": 425558,
-      "word": "在何猷君身上看到了生理性喜欢的样子",
-      "onboard_time": 1699878273,
-      "rank": 30,
+      "raw_hot": 783446,
+      "num": 783446,
+      "word": "爱奇艺尖叫之夜完整版名单",
+      "onboard_time": 1699880132,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -337,6 +353,14 @@
       "onboard_time": 1699841430,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 672574,
+      "num": 672574,
+      "word": "宁安如梦歹毒运镜加一",
+      "onboard_time": 1699879894,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 653537,
@@ -521,14 +545,6 @@
       "onboard_time": 1699873171,
       "rank": 22,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 518341,
-      "num": 518341,
-      "word": "iPhone15双11最后两小时降价",
-      "onboard_time": 1699878814,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 513811,
@@ -745,6 +761,14 @@
       "onboard_time": 1699856134,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411070,
+      "num": 317942,
+      "word": "迪丽热巴黑粉被强执",
+      "onboard_time": 1699878873,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 410398,
@@ -1059,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 286814,
-      "num": 286814,
-      "word": "迪丽热巴黑粉被强执",
-      "onboard_time": 1699878873,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284599,
       "num": 289448,
       "word": "库里独木难支",
@@ -1227,6 +1243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 256719,
+      "num": 226751,
+      "word": "无所畏惧 对我的乳腺友好",
+      "onboard_time": 1699880071,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252449,
       "num": 252449,
       "word": "Zeus喊话TheShy",
@@ -1307,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240344,
+      "num": 240344,
+      "word": "喜欢上班的有福了",
+      "onboard_time": 1699877733,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238806,
       "num": 238806,
       "word": "于适觉得封神如果三年前上自己接不住",
@@ -1371,20 +1403,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228390,
+      "num": 228390,
+      "word": "虞书欣吊带拖尾裙",
+      "onboard_time": 1699874432,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228095,
       "num": 192297,
       "word": "第一批用上减肥神药的人怎样了",
       "onboard_time": 1699800574,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 227317,
-      "num": 227317,
-      "word": "虞书欣吊带拖尾裙",
-      "onboard_time": 1699874432,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 227087,
@@ -1411,12 +1443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226359,
+      "num": 226359,
+      "word": "天蝎座 保持舒适距离",
+      "onboard_time": 1699878934,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225862,
       "num": 225862,
       "word": "89岁坚持站着上课的院士走了",
       "onboard_time": 1699856435,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 224234,
+      "num": 238408,
+      "word": "提醒在冰岛中国公民防范火山地震灾害",
+      "onboard_time": 1699879170,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222136,
@@ -1515,6 +1563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210222,
+      "num": 228212,
+      "word": "55个品牌被移出中华老字号",
+      "onboard_time": 1699881153,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 209665,
       "num": 445761,
       "word": "vivoX100发布会",
@@ -1563,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204229,
-      "num": 204229,
-      "word": "喜欢上班的有福了",
-      "onboard_time": 1699877733,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 203206,
       "num": 213988,
       "word": "孙颖莎加盟竞燃之夜",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1699860394,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201914,
+      "num": 201914,
+      "word": "vivo全球首发AI大模型手机",
+      "onboard_time": 1699879593,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 200908,
@@ -1632,6 +1688,14 @@
       "word": "沈小婷泰民Guilty",
       "onboard_time": 1699840891,
       "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 193451,
+      "num": 193451,
+      "word": "威神V 遗憾效应",
+      "onboard_time": 1699880612,
+      "rank": 36,
       "category": "音乐"
     },
     {
@@ -1835,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170869,
+      "num": 227580,
+      "word": "网络主播王纯善偷逃税被查",
+      "onboard_time": 1699879532,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 170564,
       "num": 170564,
       "word": "白桃星座",
@@ -1907,12 +1979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166235,
-      "num": 166235,
-      "word": "提醒在冰岛中国公民防范火山地震灾害",
-      "onboard_time": 1699879170,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 166060,
+      "num": 236030,
+      "word": "vivo 灭霸",
+      "onboard_time": 1699880794,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 165905,
@@ -1945,14 +2017,6 @@
       "onboard_time": 1699832127,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163100,
-      "num": 163100,
-      "word": "天蝎座 保持舒适距离",
-      "onboard_time": 1699878934,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 162678,
@@ -2041,14 +2105,6 @@
       "onboard_time": 1699788999,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153882,
-      "num": 153882,
-      "word": "vivo全球首发AI大模型手机",
-      "onboard_time": 1699879593,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 152651,
@@ -2243,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137872,
+      "num": 227368,
+      "word": "中等强度厄尔尼诺事件已经形成",
+      "onboard_time": 1699878694,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136822,
       "num": 136822,
       "word": "伍佰 主歌你们唱副歌也是你们唱",
@@ -2339,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127504,
-      "num": 127504,
-      "word": "中等强度厄尔尼诺事件已经形成",
-      "onboard_time": 1699878694,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127312,
       "num": 127312,
       "word": "重生之我在美团当评审团",
@@ -2371,14 +2427,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 125187,
-      "num": 125187,
-      "word": "网络主播王纯善偷逃税被查",
-      "onboard_time": 1699879532,
-      "rank": 39,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 125186,
       "num": 125186,
       "word": "头发天生是红色",
@@ -2395,6 +2443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123657,
+      "num": 172089,
+      "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
+      "onboard_time": 1699881452,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123553,
       "num": 123553,
       "word": "网飞版三体预告",
@@ -2404,7 +2460,7 @@
     },
     {
       "raw_hot": 123260,
-      "num": 109705,
+      "num": 110736,
       "word": "关智斌把阿娇剪辑进新歌MV",
       "onboard_time": 1699875933,
       "rank": 41,
@@ -2611,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107803,
+      "num": 226786,
+      "word": "中国手机影像如何全面超车",
+      "onboard_time": 1699880972,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107679,
       "num": 107679,
       "word": "Ruler和Faker  一墙之隔胜负之分",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1699797999,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61466,
+      "num": 236649,
+      "word": "蓝厂是有狠活儿的",
+      "onboard_time": 1699880312,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 57859,
