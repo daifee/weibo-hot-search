@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 21:34:14
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/13 22:17:10
 </p>
 </blockquote>
 <p>
@@ -1289,6 +1289,12 @@ RNG能不能把gala卡回来（热度：1650872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E4%BF%A95.2%E5%85%83%E8%B4%AD%E5%85%A595%E5%8F%B7%E6%B1%BD%E6%B2%B96.7%E5%85%83%E5%94%AE%E5%87%BA%23" target="weibo">
 父子俩5.2元购入95号汽油6.7元售出（热度：1629958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2355%E4%B8%AA%E5%93%81%E7%89%8C%E8%A2%AB%E7%A7%BB%E5%87%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23" target="weibo">
+55个品牌被移出中华老字号（热度：1629335）
 </a>
 </li>
 
@@ -2955,6 +2961,12 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%A5%BD%E7%82%B8%E8%A3%82%E7%9A%84%E5%9B%9E%E5%A4%8D%23" target="weibo">
+小S好炸裂的回复（热度：939088）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E7%9A%AE%E8%82%A4%E4%B8%80%E5%B9%B2%E5%B0%B1%E6%95%B7%E9%9D%A2%E8%86%9C%23" target="weibo">
 医生提醒不要皮肤一干就敷面膜（热度：935953）
 </a>
@@ -4179,6 +4191,12 @@ Dior活动出场顺序（热度：735966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86%23" target="weibo">
+春晚导演 汗流浃背了（热度：730766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9C%A8%E5%B0%BA%E5%BA%A6%E5%92%8C%E5%88%86%E5%AF%B8%E9%97%B4%E9%80%89%E6%8B%A9%E4%BA%86%E5%B0%BA%E5%AF%B8%23" target="weibo">
 陈楚生在尺度和分寸间选择了尺寸（热度：730196）
 </a>
@@ -4427,6 +4445,12 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Xiaohu%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 Xiaohu首次晋级世界赛决赛（热度：701094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E7%A6%81%E6%AD%A2%E6%91%87%E4%B8%80%E6%91%87%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23" target="weibo">
+苹果公司将禁止摇一摇跳转广告（热度：700867）
 </a>
 </li>
 
@@ -5649,6 +5673,12 @@ T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%9B%A2%E7%BB%BC%E5%AE%9A%E6%A1%A3%23" target="weibo">
+宁安如梦团综定档（热度：577226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9D%A2%E8%A3%99%E9%85%8D%E5%A4%A7%E8%A1%A3%23" target="weibo">
 马面裙配大衣（热度：576666）
 </a>
@@ -5981,36 +6011,6 @@ LNG输比赛多品牌直播间抗寒梗爆了（热度：557439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%B0%E8%85%BA%E7%99%8C%E5%8F%91%E7%97%85%E7%8E%87%23" target="weibo">
 胰腺癌发病率（热度：551402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E4%B8%80%E4%B8%AA%E6%9C%88%E6%89%8D%E5%9B%9E%E5%90%B4%E5%BD%A4%E5%BE%AE%E4%BF%A1%23" target="weibo">
-华晨宇一个月才回吴彤微信（热度：551266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%92%8C%E7%94%B7%E5%8F%8B%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BC%A0%E5%90%88%E5%BD%B1%23" target="weibo">
-金莎和男友的第一张合影（热度：551158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%9C%80%E7%8B%A0%E5%87%8F%E8%82%A5%E6%B3%95%23" target="weibo">
-冬天最狠减肥法（热度：550689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23369%E5%88%AB%E7%8E%A9%E5%85%B0%E5%8D%9A%E4%BA%86%23" target="weibo">
-369别玩兰博了（热度：549831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23JDG%E5%8F%91%E5%8D%9A%E5%91%8A%E5%88%ABS13%23" target="weibo">
-JDG发博告别S13（热度：549531）
 </a>
 </li>
 

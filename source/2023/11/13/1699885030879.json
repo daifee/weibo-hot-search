@@ -1,0 +1,410 @@
+{
+  "runTime": 1699885030879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1629335,
+        "num": 1629335,
+        "word": "55个品牌被移出中华老字号",
+        "onboard_time": 1699881153,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 970428,
+        "num": 970428,
+        "word": "雪莉生前纪录片完整版公开",
+        "onboard_time": 1699874134,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136924,
+        "num": 883070,
+        "word": "手把手教你跨省看病怎么走医保",
+        "onboard_time": 1699881755,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880078,
+        "num": 880078,
+        "word": "何猷君 小金土豆",
+        "onboard_time": 1699874372,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732016,
+        "num": 732016,
+        "word": "爱奇艺尖叫之夜完整版名单",
+        "onboard_time": 1699880132,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730766,
+        "num": 730766,
+        "word": "春晚导演 汗流浃背了",
+        "onboard_time": 1699884394,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700867,
+        "num": 700867,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 651931,
+        "num": 651931,
+        "word": "iPhone15双11最后两小时降价",
+        "onboard_time": 1699878814,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 577226,
+        "num": 577226,
+        "word": "宁安如梦团综定档",
+        "onboard_time": 1699883856,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493453,
+        "num": 493453,
+        "word": "清华女博士毕业做占星师月入3万",
+        "onboard_time": 1699869873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59364,
+        "num": 476129,
+        "word": "vivoX100发布会",
+        "onboard_time": 1699873531,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 939088,
+        "num": 464790,
+        "word": "小S好炸裂的回复",
+        "onboard_time": 1699884334,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 818930,
+        "num": 454750,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545766,
+        "num": 428038,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421487,
+        "num": 421487,
+        "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
+        "onboard_time": 1699881452,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413893,
+        "num": 413893,
+        "word": "宁安如梦歹毒运镜加一",
+        "onboard_time": 1699879894,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405564,
+        "num": 405564,
+        "word": "这就是成年人的电视剧吗",
+        "onboard_time": 1699881876,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309961,
+        "num": 309961,
+        "word": "女生最无声的炫富是什么",
+        "onboard_time": 1699875690,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300191,
+        "num": 300191,
+        "word": "喜欢上班的有福了",
+        "onboard_time": 1699877733,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293696,
+        "num": 293696,
+        "word": "余承东称问界试驾车事故系误踩油门导致",
+        "onboard_time": 1699883976,
+        "rank": 19,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 1490582,
+        "num": 293696,
+        "word": "小S吴慷仁 床戏",
+        "onboard_time": 1699865974,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 798049,
+        "num": 293695,
+        "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
+        "onboard_time": 1699860692,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293695,
+        "num": 293694,
+        "word": "雪莉 我们需要更多的女性发声",
+        "onboard_time": 1699878273,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286881,
+        "num": 286881,
+        "word": "缅北电诈头目明学昌年轻时惯于偷抢",
+        "onboard_time": 1699875634,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269227,
+        "num": 269227,
+        "word": "迪丽热巴黑粉被强执",
+        "onboard_time": 1699878873,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268215,
+        "num": 268215,
+        "word": "张遮是姜雪宁的第一选择",
+        "onboard_time": 1699883614,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84407,
+        "num": 251242,
+        "word": "这个手机治好了我的低电量焦虑",
+        "onboard_time": 1699884394,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251202,
+        "num": 251202,
+        "word": "卧床休息是养肝的最好方法",
+        "onboard_time": 1699874791,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241470,
+        "num": 241470,
+        "word": "南航白菜价机票尴尬了谁",
+        "onboard_time": 1699882955,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224858,
+        "num": 224858,
+        "word": "男子上厕所时马桶突然着火",
+        "onboard_time": 1699884034,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212874,
+        "num": 212874,
+        "word": "匪我思存这才是真正的后妈作者",
+        "onboard_time": 1699884456,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212411,
+        "num": 212411,
+        "word": "陈楚生王栎鑫你俩是握了个脚吗",
+        "onboard_time": 1699878934,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199114,
+        "num": 199114,
+        "word": "危危一笑又被截图了",
+        "onboard_time": 1699884274,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198151,
+        "num": 198151,
+        "word": "天蝎座 保持舒适距离",
+        "onboard_time": 1699878934,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189162,
+        "num": 189162,
+        "word": "致真理",
+        "onboard_time": 1699883856,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178788,
+        "num": 178788,
+        "word": "吴慷仁性张力",
+        "onboard_time": 1699873113,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157080,
+        "num": 157080,
+        "word": "蔚来汽车五年半亏764亿",
+        "onboard_time": 1699876474,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155289,
+        "num": 155289,
+        "word": "时宴 低位耳洞",
+        "onboard_time": 1699873952,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119685,
+        "num": 155200,
+        "word": "英前首相卡梅伦被任命为外交大臣",
+        "onboard_time": 1699873171,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 109631,
+        "num": 155196,
+        "word": "安东尼泰勒",
+        "onboard_time": 1699884696,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155192,
+        "num": 155192,
+        "word": "宁安如梦CP线",
+        "onboard_time": 1699872812,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104434,
+        "num": 150960,
+        "word": "蔡司百年技术都给了vivo",
+        "onboard_time": 1699883314,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150662,
+        "num": 150662,
+        "word": "宁安如梦热度",
+        "onboard_time": 1699884937,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106814,
+        "num": 150266,
+        "word": "提醒在冰岛中国公民防范火山地震灾害",
+        "onboard_time": 1699879170,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150156,
+        "num": 150156,
+        "word": "虞书欣吊带拖尾裙",
+        "onboard_time": 1699874432,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149990,
+        "num": 149990,
+        "word": "肯德基崩了",
+        "onboard_time": 1699864831,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143545,
+        "num": 143545,
+        "word": "无所畏惧 对我的乳腺友好",
+        "onboard_time": 1699880071,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 142416,
+        "word": "罐车气体泄漏男子关阀门时意外发生",
+        "onboard_time": 1699876292,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113956,
+        "num": 141821,
+        "word": "vivo 灭霸",
+        "onboard_time": 1699880794,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141807,
+        "num": 141807,
+        "word": "如果WBG夺冠我就",
+        "onboard_time": 1699866033,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
