@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699965182809,
+  "endTime": 1699966166094,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3844,7 +3844,7 @@
     },
     {
       "raw_hot": 1003973,
-      "num": 392213,
+      "num": 571408,
       "word": "孙颖莎虽迟但到",
       "onboard_time": 1699963050,
       "rank": 3,
@@ -4468,7 +4468,7 @@
     },
     {
       "raw_hot": 869665,
-      "num": 246106,
+      "num": 259343,
       "word": "雪莉谈韩国娱乐圈",
       "onboard_time": 1699961431,
       "rank": 23,
@@ -5273,6 +5273,14 @@
       "onboard_time": 1699791934,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 788194,
+      "num": 174656,
+      "word": "周到 你们要的莎",
+      "onboard_time": 1699965210,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 788042,
@@ -6723,6 +6731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662103,
+      "num": 662103,
+      "word": "孙颖莎出现时全场的反应",
+      "onboard_time": 1699964251,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660622,
       "num": 660622,
       "word": "暴雪下的哈尔滨",
@@ -6849,6 +6865,14 @@
       "onboard_time": 1698795749,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 644821,
+      "num": 255024,
+      "word": "男主胃不好只能吃软饭",
+      "onboard_time": 1699963891,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 644269,
@@ -8737,6 +8761,14 @@
       "onboard_time": 1699281765,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534721,
+      "num": 534721,
+      "word": "娜扎电梯生图",
+      "onboard_time": 1699965509,
+      "rank": 5,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 534404,
@@ -12955,14 +12987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378323,
-      "num": 241321,
-      "word": "男主胃不好只能吃软饭",
-      "onboard_time": 1699963891,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 378321,
       "num": 1112477,
       "word": "凌晨5点车灯一开照出2只大熊猫",
@@ -13216,14 +13240,6 @@
       "word": "独行侠32比2打懵快船",
       "onboard_time": 1699672468,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 372461,
-      "num": 237403,
-      "word": "孙颖莎出现时全场的反应",
-      "onboard_time": 1699964251,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -19867,6 +19883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 241721,
+      "num": 241721,
+      "word": "郭帆有编制了",
+      "onboard_time": 1699965630,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241647,
       "num": 241647,
       "word": "顿涅茨克矿工1比0巴塞罗那",
@@ -24939,6 +24963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194836,
+      "num": 174552,
+      "word": "朴宰范威神V challenge",
+      "onboard_time": 1699965691,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194801,
       "num": 274059,
       "word": "wtt常规挑战赛太原站2023",
@@ -25929,6 +25961,14 @@
       "onboard_time": 1699943433,
       "rank": 29,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 188582,
+      "num": 188582,
+      "word": "一诺年度竞耀选手",
+      "onboard_time": 1699965030,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 188553,
@@ -27939,14 +27979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171102,
-      "num": 171102,
-      "word": "一诺年度竞耀选手",
-      "onboard_time": 1699965030,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171085,
       "num": 171085,
       "word": "还以为蛋糕倒了",
@@ -29361,6 +29393,14 @@
       "onboard_time": 1699773209,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160115,
+      "num": 160115,
+      "word": "九嶷山离职大礼包果然名不虚传",
+      "onboard_time": 1699964971,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 160076,
@@ -31243,6 +31283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145776,
+      "num": 145776,
+      "word": "你有从小坚持到现在的运动吗",
+      "onboard_time": 1699963832,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 145764,
       "num": 145764,
       "word": "张小斐说上网会忽略恶评",
@@ -31265,6 +31313,14 @@
       "onboard_time": 1699708474,
       "rank": 48,
       "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 145606,
+      "num": 222077,
+      "word": "iQOO12把竞燃之夜包圆了",
+      "onboard_time": 1699965210,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 145290,
@@ -31585,14 +31641,6 @@
       "onboard_time": 1699919309,
       "rank": 39,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 143305,
-      "num": 143305,
-      "word": "你有从小坚持到现在的运动吗",
-      "onboard_time": 1699963832,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 143235,
@@ -34403,6 +34451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120661,
+      "num": 120661,
+      "word": "张杰指导魏大勋唱歌",
+      "onboard_time": 1699966111,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120581,
       "num": 120581,
       "word": "陶昕然新片入围金鸡",
@@ -34449,14 +34505,6 @@
       "onboard_time": 1699612771,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120117,
-      "num": 120117,
-      "word": "九嶷山离职大礼包果然名不虚传",
-      "onboard_time": 1699964971,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 120072,
@@ -39193,6 +39241,14 @@
       "onboard_time": 1698955814,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11127,
+      "num": 571521,
+      "word": "纯享版歼10C飞行表演大片",
+      "onboard_time": 1699951294,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
