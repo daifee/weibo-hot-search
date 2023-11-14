@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699972481527,
+  "endTime": 1699975125065,
   "band_list": [
     {
       "raw_hot": 3471365,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1486985,
+      "num": 441726,
+      "word": "董明珠 王自如",
+      "onboard_time": 1699972837,
+      "rank": 3,
+      "category": "财经,网红"
+    },
+    {
       "raw_hot": 1448748,
       "num": 1448748,
       "word": "网友吐槽政务大厅全天工作6个小时",
@@ -139,8 +147,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1150093,
+      "num": 341381,
+      "word": "周峻纬 会演",
+      "onboard_time": 1699971573,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1142437,
+      "num": 340693,
+      "word": "金莎说男友扮猪吃老虎",
+      "onboard_time": 1699969775,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1128141,
-      "num": 277521,
+      "num": 338819,
       "word": "银川地震",
       "onboard_time": 1699968932,
       "rank": 10,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 1074505,
-      "num": 311577,
+      "num": 340115,
       "word": "以色列总统之子在加沙地带战斗中失联",
       "onboard_time": 1699967674,
       "rank": 22,
@@ -193,14 +217,6 @@
       "onboard_time": 1699947755,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1008182,
-      "num": 282495,
-      "word": "金莎说男友扮猪吃老虎",
-      "onboard_time": 1699969775,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1003973,
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 839293,
-      "num": 279737,
-      "word": "周峻纬 会演",
-      "onboard_time": 1699971573,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 823123,
       "num": 823123,
       "word": "孙怡被老刘傅首尔虐到哭",
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740305,
+      "num": 740305,
+      "word": "感染幽门螺杆菌胃癌风险或翻倍",
+      "onboard_time": 1699972776,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 732993,
       "num": 732993,
       "word": "时宴郑书意官宣",
@@ -451,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 671502,
+      "num": 339810,
+      "word": "中传着火",
+      "onboard_time": 1699974639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663455,
       "num": 342141,
       "word": "卧虎山庄",
@@ -476,11 +500,19 @@
     },
     {
       "raw_hot": 637263,
-      "num": 275624,
+      "num": 337118,
       "word": "1979年 骨相化妆",
       "onboard_time": 1699969053,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 631503,
+      "num": 339272,
+      "word": "武汉一研三学生留遗书后轻生",
+      "onboard_time": 1699974396,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 629533,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 491262,
-      "num": 272046,
+      "num": 337473,
       "word": "正式确诊为杨幂",
       "onboard_time": 1699971157,
       "rank": 24,
@@ -747,6 +779,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 421046,
+      "num": 338677,
+      "word": "广州从化警方通报河面发现女尸",
+      "onboard_time": 1699971756,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420333,
       "num": 513384,
       "word": "网友吐槽麦当劳牛奶1杯23元",
@@ -795,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 396319,
+      "num": 396319,
+      "word": "陈思诚段奕宏李晨拖张译进迪厅",
+      "onboard_time": 1699973739,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 395231,
       "num": 395231,
       "word": "三明治定妆法",
@@ -827,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389149,
+      "num": 389149,
+      "word": "有人自林中坠落",
+      "onboard_time": 1699971695,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 386065,
       "num": 348550,
       "word": "小学生偷拿100元请客被妈妈带到派出所",
@@ -841,6 +897,14 @@
       "onboard_time": 1699962572,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385712,
+      "num": 337991,
+      "word": "河南武陟县一中学发生踩踏事件",
+      "onboard_time": 1699974215,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 384923,
@@ -891,8 +955,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364443,
+      "num": 337832,
+      "word": "吴宗宪说一年收到2000多个包",
+      "onboard_time": 1699972113,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363956,
-      "num": 208145,
+      "num": 341796,
       "word": "酮症酸中毒症",
       "onboard_time": 1699971157,
       "rank": 40,
@@ -969,6 +1041,14 @@
       "onboard_time": 1699927891,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334723,
+      "num": 334723,
+      "word": "叶璇分析血色恋情暴力事件",
+      "onboard_time": 1699973075,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 334011,
@@ -1355,14 +1435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250741,
-      "num": 250741,
-      "word": "吴宗宪说一年收到2000多个包",
-      "onboard_time": 1699972113,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250296,
       "num": 250296,
       "word": "被演戏耽误的实力歌手",
@@ -1619,12 +1691,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207587,
+      "num": 207587,
+      "word": "够了 老子心疼罐罐",
+      "onboard_time": 1699973676,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204310,
       "num": 204310,
       "word": "王自如采访",
       "onboard_time": 1699968756,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203633,
+      "num": 241727,
+      "word": "花花呼呼大睡弟弟疯狂营业",
+      "onboard_time": 1699974038,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203192,
@@ -1763,12 +1851,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196876,
-      "num": 196876,
-      "word": "广州从化警方通报河面发现女尸",
-      "onboard_time": 1699971756,
+      "raw_hot": 196866,
+      "num": 196866,
+      "word": "钟楚曦白色侧开叉旗袍",
+      "onboard_time": 1699972895,
       "rank": 34,
-      "category": "社会新闻"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196421,
@@ -1793,14 +1881,6 @@
       "onboard_time": 1699965691,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193555,
-      "num": 193555,
-      "word": "有人自林中坠落",
-      "onboard_time": 1699971695,
-      "rank": 35,
-      "category": "读书作家"
     },
     {
       "raw_hot": 193500,
@@ -1995,6 +2075,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 179033,
+      "num": 179033,
+      "word": "70kg广君 策划",
+      "onboard_time": 1699974335,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177758,
       "num": 177758,
       "word": "邝肖卿成为中国女首富",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1699934375,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 177553,
+      "num": 177553,
+      "word": "遮不住眼袋就把它变成卧蚕吧",
+      "onboard_time": 1699974699,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 176909,
@@ -2443,6 +2539,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 135958,
+      "num": 135958,
+      "word": "宋雨琦奔跑吧版coulditbe",
+      "onboard_time": 1699972534,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135482,
       "num": 135482,
       "word": "销冠坐到哪儿都是销冠",
@@ -2489,6 +2593,14 @@
       "onboard_time": 1699884034,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130423,
+      "num": 130423,
+      "word": "拥有这5种性格的人大脑不易痴呆",
+      "onboard_time": 1699973795,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 128258,
@@ -2817,6 +2929,14 @@
       "onboard_time": 1699868316,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73611,
+      "num": 177317,
+      "word": "暖阳真的不冷吗",
+      "onboard_time": 1699974038,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 72807,

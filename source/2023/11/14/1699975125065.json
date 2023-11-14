@@ -1,0 +1,410 @@
+{
+  "runTime": 1699975125065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1006950,
+        "num": 1006950,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 740305,
+        "num": 740305,
+        "word": "感染幽门螺杆菌胃癌风险或翻倍",
+        "onboard_time": 1699972776,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200277,
+        "num": 446416,
+        "word": "中国古人的审美有多绝",
+        "onboard_time": 1699968574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1486985,
+        "num": 441726,
+        "word": "董明珠 王自如",
+        "onboard_time": 1699972837,
+        "rank": 3,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 432715,
+        "num": 432715,
+        "word": "燕临 我哭死",
+        "onboard_time": 1699966412,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396319,
+        "num": 396319,
+        "word": "陈思诚段奕宏李晨拖张译进迪厅",
+        "onboard_time": 1699973739,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389149,
+        "num": 389149,
+        "word": "有人自林中坠落",
+        "onboard_time": 1699971695,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 353544,
+        "num": 353544,
+        "word": "孙颖莎出现时全场的反应",
+        "onboard_time": 1699964251,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341796,
+        "num": 341796,
+        "word": "酮症酸中毒症",
+        "onboard_time": 1699971157,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259964,
+        "num": 341696,
+        "word": "以爱为营预告",
+        "onboard_time": 1699965509,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1150093,
+        "num": 341381,
+        "word": "周峻纬 会演",
+        "onboard_time": 1699971573,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1142437,
+        "num": 340693,
+        "word": "金莎说男友扮猪吃老虎",
+        "onboard_time": 1699969775,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763879,
+        "num": 340358,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735316,
+        "num": 340115,
+        "word": "以色列总统之子在加沙地带战斗中失联",
+        "onboard_time": 1699967674,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 671502,
+        "num": 339810,
+        "word": "中传着火",
+        "onboard_time": 1699974639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631503,
+        "num": 339272,
+        "word": "武汉一研三学生留遗书后轻生",
+        "onboard_time": 1699974396,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 437011,
+        "num": 338819,
+        "word": "银川地震",
+        "onboard_time": 1699968932,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421046,
+        "num": 338677,
+        "word": "广州从化警方通报河面发现女尸",
+        "onboard_time": 1699971756,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385712,
+        "num": 337991,
+        "word": "河南武陟县一中学发生踩踏事件",
+        "onboard_time": 1699974215,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364443,
+        "num": 337832,
+        "word": "吴宗宪说一年收到2000多个包",
+        "onboard_time": 1699972113,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482724,
+        "num": 337473,
+        "word": "正式确诊为杨幂",
+        "onboard_time": 1699971157,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 337118,
+        "num": 337118,
+        "word": "1979年 骨相化妆",
+        "onboard_time": 1699969053,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 334723,
+        "num": 334723,
+        "word": "叶璇分析血色恋情暴力事件",
+        "onboard_time": 1699973075,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275044,
+        "num": 275044,
+        "word": "何猷君 小家庭永远高于大家庭",
+        "onboard_time": 1699958373,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257520,
+        "num": 257520,
+        "word": "张翰回应油腻",
+        "onboard_time": 1699953035,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257225,
+        "num": 257225,
+        "word": "连续30天早睡1小时身体会有何变化",
+        "onboard_time": 1699967496,
+        "rank": 25,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 255835,
+        "num": 255835,
+        "word": "时宴郑书意官宣",
+        "onboard_time": 1699967433,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247301,
+        "num": 247301,
+        "word": "YG回应与BLACKPINK续约",
+        "onboard_time": 1699958733,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207224,
+        "num": 242480,
+        "word": "周到 你们要的莎",
+        "onboard_time": 1699965210,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203633,
+        "num": 241727,
+        "word": "花花呼呼大睡弟弟疯狂营业",
+        "onboard_time": 1699974038,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241563,
+        "num": 241563,
+        "word": "雪莉谈韩国娱乐圈",
+        "onboard_time": 1699961431,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222424,
+        "num": 222424,
+        "word": "赵丽颖谈首当监制感受",
+        "onboard_time": 1699966293,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207587,
+        "num": 207587,
+        "word": "够了 老子心疼罐罐",
+        "onboard_time": 1699973676,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201542,
+        "num": 201542,
+        "word": "1020缅北到底发生了什么",
+        "onboard_time": 1699956996,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196866,
+        "num": 196866,
+        "word": "钟楚曦白色侧开叉旗袍",
+        "onboard_time": 1699972895,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196420,
+        "num": 196420,
+        "word": "刘亦菲新剧杀青给主创送LV",
+        "onboard_time": 1699967131,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188874,
+        "num": 188874,
+        "word": "魏大勋录制大侦探9",
+        "onboard_time": 1699968155,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179033,
+        "num": 179033,
+        "word": "70kg广君 策划",
+        "onboard_time": 1699974335,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177553,
+        "num": 177553,
+        "word": "遮不住眼袋就把它变成卧蚕吧",
+        "onboard_time": 1699974699,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 73611,
+        "num": 177317,
+        "word": "暖阳真的不冷吗",
+        "onboard_time": 1699974038,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177170,
+        "num": 177170,
+        "word": "姜雪宁谢危圆房",
+        "onboard_time": 1699951895,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168617,
+        "num": 168617,
+        "word": "王自如采访",
+        "onboard_time": 1699968756,
+        "rank": 41,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 167307,
+        "num": 167307,
+        "word": "张遮姜雪宁第一世",
+        "onboard_time": 1699971455,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165974,
+        "num": 165974,
+        "word": "缅北",
+        "onboard_time": 1699958733,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153492,
+        "num": 153492,
+        "word": "适合方圆脸的刘海打理教程",
+        "onboard_time": 1699971875,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 135958,
+        "num": 135958,
+        "word": "宋雨琦奔跑吧版coulditbe",
+        "onboard_time": 1699972534,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130423,
+        "num": 130423,
+        "word": "拥有这5种性格的人大脑不易痴呆",
+        "onboard_time": 1699973795,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 130328,
+        "num": 130328,
+        "word": "竞燃之夜",
+        "onboard_time": 1699958430,
+        "rank": 47,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 121740,
+        "num": 121740,
+        "word": "王自如 罗永浩",
+        "onboard_time": 1699968693,
+        "rank": 48,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 110139,
+        "num": 120964,
+        "word": "孙颖莎虽迟但到",
+        "onboard_time": 1699963050,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京赴美国举行中美元首会晤#"
+    }
+  }
+}
