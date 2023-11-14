@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 07:18:10
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 07:34:30
 </p>
 </blockquote>
 <p>
@@ -2213,6 +2213,12 @@ JDG晋级S13四强（热度：1251728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%8F%8C11%E6%80%BB%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%8513.6%E4%BA%BF%23" target="weibo">
 贾乃亮双11总销售额超13.6亿（热度：1229735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%23" target="weibo">
+华人华侨在旧金山组成欢迎人群（热度：1228856）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ruler和Faker  一墙之隔胜负之分（热度：589656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%B8%8A%E5%B9%BF%E5%BE%88%E9%9A%BE%E6%9C%89%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%23" target="weibo">
 北上广很难有花束般的恋爱（热度：586567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%9C%BA%E9%A6%86%E5%A4%96%E6%92%92%E7%9B%90%E7%BB%99T1%E7%A5%88%E7%A5%B7%23" target="weibo">
-T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 </a>
 </li>
 

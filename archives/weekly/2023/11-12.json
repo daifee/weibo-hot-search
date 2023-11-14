@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700003890080,
+  "endTime": 1700004870562,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -537,6 +537,14 @@
       "onboard_time": 1699939535,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1228856,
+      "num": 1228856,
+      "word": "华人华侨在旧金山组成欢迎人群",
+      "onboard_time": 1700003363,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1224717,
@@ -1673,14 +1681,6 @@
       "onboard_time": 1699854813,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 576511,
-      "num": 576511,
-      "word": "华人华侨在旧金山组成欢迎人群",
-      "onboard_time": 1700003363,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 571901,
@@ -3051,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340311,
+      "num": 340311,
+      "word": "网购了件大衣穿上变成座山雕",
+      "onboard_time": 1699992673,
+      "rank": 43,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 340308,
       "num": 340308,
       "word": "张远问想看林俊杰撩开刘海吗",
@@ -3811,6 +3819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274173,
+      "num": 274173,
+      "word": "黑龙江五常市政务大厅整改",
+      "onboard_time": 1700000415,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273966,
       "num": 273966,
       "word": "藿藿角色PV",
@@ -4051,14 +4067,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 258036,
-      "num": 258036,
-      "word": "网购了件大衣穿上变成座山雕",
-      "onboard_time": 1699992673,
-      "rank": 43,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 257242,
       "num": 257242,
       "word": "妻子被推出产房丈夫献花并深情亲吻",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1699783949,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246211,
+      "num": 246211,
+      "word": "花花呼呼大睡弟弟疯狂营业",
+      "onboard_time": 1699974038,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245568,
@@ -4995,14 +5011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207141,
-      "num": 105576,
-      "word": "黑龙江五常市政务大厅整改",
-      "onboard_time": 1700000415,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206790,
       "num": 206790,
       "word": "浙江选调",
@@ -5081,14 +5089,6 @@
       "onboard_time": 1699774952,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203633,
-      "num": 241727,
-      "word": "花花呼呼大睡弟弟疯狂营业",
-      "onboard_time": 1699974038,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203206,
@@ -5241,6 +5241,14 @@
       "onboard_time": 1699924053,
       "rank": 41,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 198825,
+      "num": 198825,
+      "word": "中美元首旧金山会晤",
+      "onboard_time": 1700004143,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198809,
@@ -5939,6 +5947,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 175351,
+      "num": 164164,
+      "word": "知情人回应河南武陟一中学踩踏事件",
+      "onboard_time": 1700003722,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175233,
       "num": 220611,
       "word": "Xiaohu首次晋级世界赛决赛",
@@ -6011,6 +6027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172866,
+      "num": 172866,
+      "word": "男子突然倒地2身着藏装姑娘跪地救人",
+      "onboard_time": 1699979904,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172569,
       "num": 172569,
       "word": "为什么不ban沙皇",
@@ -6049,14 +6073,6 @@
       "onboard_time": 1699853732,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171644,
-      "num": 171644,
-      "word": "男子突然倒地2身着藏装姑娘跪地救人",
-      "onboard_time": 1699979904,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171416,
@@ -6451,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161474,
+      "num": 161474,
+      "word": "1700元的林清轩香水下架",
+      "onboard_time": 1699982779,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 161329,
       "num": 161329,
       "word": "张杰指导魏大勋唱歌",
@@ -6521,6 +6545,14 @@
       "onboard_time": 1699862974,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158416,
+      "num": 158416,
+      "word": "秦海璐丢了辛芷蕾的伞",
+      "onboard_time": 1699998434,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 158315,
@@ -6923,14 +6955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144579,
-      "num": 144579,
-      "word": "1700元的林清轩香水下架",
-      "onboard_time": 1699982779,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 144487,
       "num": 144487,
       "word": "五月天上海开唱场馆附近震感明显",
@@ -7121,6 +7145,14 @@
       "onboard_time": 1699766910,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138646,
+      "num": 138646,
+      "word": "光腿神器被嘲现代刑具",
+      "onboard_time": 1700004445,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 138406,
@@ -7763,14 +7795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117783,
-      "num": 96474,
-      "word": "秦海璐丢了辛芷蕾的伞",
-      "onboard_time": 1699998434,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117652,
       "num": 117652,
       "word": "新手淡妆教程",
@@ -8131,6 +8155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102347,
+      "num": 102347,
+      "word": "TFBOYS登腾讯音乐财报",
+      "onboard_time": 1700002942,
+      "rank": 28,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 102031,
       "num": 119954,
       "word": "为什么vivo可以突破拍太阳难题",
@@ -8379,14 +8411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77188,
-      "num": 77188,
-      "word": "知情人回应河南武陟一中学踩踏事件",
-      "onboard_time": 1700003722,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76752,
       "num": 3608582,
       "word": "7旬学生为百岁乡村老师过生日",
@@ -8395,12 +8419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76659,
-      "num": 76659,
-      "word": "TFBOYS登腾讯音乐财报",
-      "onboard_time": 1700002942,
-      "rank": 28,
-      "category": "艺人,互联网"
+      "raw_hot": 76749,
+      "num": 76749,
+      "word": "4岁娃拼尽全力将瘫痪妈妈扶上轮椅",
+      "onboard_time": 1700003904,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76505,
@@ -8416,6 +8440,14 @@
       "word": "弟弟骑车去路边幸好哥哥冲过去拦下",
       "onboard_time": 1699756592,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74048,
+      "num": 74048,
+      "word": "男童被压20人喊口号式抬车救出",
+      "onboard_time": 1700004023,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -8475,6 +8507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66194,
+      "num": 66194,
+      "word": "杨玏不愧是西岐长子",
+      "onboard_time": 1699988175,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64835,
       "num": 64835,
       "word": "微博喜剧现场",
@@ -8505,6 +8545,14 @@
       "onboard_time": 1699794035,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61544,
+      "num": 61544,
+      "word": "陈伟霆这花衬衫是一百三件吗",
+      "onboard_time": 1699985120,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 61466,
@@ -8547,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60010,
+      "num": 60010,
+      "word": "杨幂去爱奇艺尖叫之夜",
+      "onboard_time": 1699996693,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59915,
       "num": 59915,
       "word": "谢危权谋篇",
@@ -8577,14 +8633,6 @@
       "onboard_time": 1699917864,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56639,
-      "num": 56639,
-      "word": "陈伟霆这花衬衫是一百三件吗",
-      "onboard_time": 1699985120,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 55067,
@@ -8643,12 +8691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52916,
-      "num": 52916,
-      "word": "杨玏不愧是西岐长子",
-      "onboard_time": 1699988175,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 52438,
+      "num": 52438,
+      "word": "不会护肤的男生看过来",
+      "onboard_time": 1700004325,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 50380,
@@ -8675,6 +8723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38696,
+      "num": 679615,
+      "word": "中欧班列跑出亮眼成绩单",
+      "onboard_time": 1699968332,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37185,
       "num": 731478,
       "word": "纯享版歼10C飞行表演大片",
@@ -8699,28 +8755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33461,
-      "num": 33461,
-      "word": "杨幂去爱奇艺尖叫之夜",
-      "onboard_time": 1699996693,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32316,
       "num": 32316,
       "word": "阿森纳3比1伯恩利",
       "onboard_time": 1699814895,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30237,
-      "num": 437480,
-      "word": "中欧班列跑出亮眼成绩单",
-      "onboard_time": 1699968332,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28048,
