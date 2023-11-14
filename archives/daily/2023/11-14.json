@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699925684409,
+  "endTime": 1699928811345,
   "band_list": [
     {
       "raw_hot": 2923818,
@@ -8,6 +8,14 @@
       "word": "缅北四大家族",
       "onboard_time": 1699921595,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1762976,
+      "num": 360446,
+      "word": "室友遭追砍女子帮呼救也被砍20多刀",
+      "onboard_time": 1699923633,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1247545,
-      "num": 360446,
-      "word": "室友遭追砍女子帮呼救也被砍20多刀",
-      "onboard_time": 1699923633,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1112623,
       "num": 384177,
       "word": "小S好炸裂的回复",
       "onboard_time": 1699884334,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1102101,
+      "num": 1102101,
+      "word": "叶剑英元帅夫人吴博逝世",
+      "onboard_time": 1699926512,
+      "rank": 0,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 1022301,
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 775491,
+      "num": 775491,
+      "word": "七宗罪PDF当事人方某已去世",
+      "onboard_time": 1699926153,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761737,
       "num": 359451,
       "word": "权志龙直播回应涉嫌吸毒",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 617652,
-      "num": 317205,
+      "num": 347487,
       "word": "谁在资助缅北果敢同盟军",
       "onboard_time": 1699920810,
       "rank": 15,
@@ -129,6 +145,14 @@
       "onboard_time": 1699915278,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 530367,
+      "num": 530367,
+      "word": "23岁女生工地当包工头",
+      "onboard_time": 1699923995,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487548,
@@ -267,12 +291,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 302375,
-      "num": 302375,
-      "word": "23岁女生工地当包工头",
-      "onboard_time": 1699923995,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 300613,
+      "num": 300613,
+      "word": "以称哈马斯已失去对加沙地带控制",
+      "onboard_time": 1699925192,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 299635,
@@ -307,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282031,
+      "num": 282031,
+      "word": "普尔耍大牌",
+      "onboard_time": 1699927891,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272606,
+      "num": 272606,
+      "word": "十个勤天 去年今日",
+      "onboard_time": 1699928011,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260256,
       "num": 260256,
       "word": "你的男孩TizzyT来了",
@@ -329,6 +369,14 @@
       "onboard_time": 1699918886,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250296,
+      "num": 250296,
+      "word": "被演戏耽误的实力歌手",
+      "onboard_time": 1699925252,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245480,
@@ -363,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211139,
+      "num": 211139,
+      "word": "哪些信号提示你有患糖尿病的风险",
+      "onboard_time": 1699927593,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203151,
       "num": 183829,
       "word": "宁安如梦歹毒运镜加一",
@@ -395,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193883,
+      "num": 193883,
+      "word": "陈楚生不唱跳的原因",
+      "onboard_time": 1699928377,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193500,
       "num": 193500,
       "word": "印度小伙来中国看望18年前的救命恩人",
@@ -411,6 +475,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187937,
+      "num": 187937,
+      "word": "李秀满 种树歌",
+      "onboard_time": 1699927532,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184781,
+      "num": 184781,
+      "word": "医生用传统正骨法帮73岁骨折老人瞬间复位",
+      "onboard_time": 1699927835,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180633,
       "num": 225546,
       "word": "清华女博士毕业做占星师月入3万",
@@ -424,6 +504,22 @@
       "word": "缅北电诈头目明学昌年轻时惯于偷抢",
       "onboard_time": 1699875634,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169248,
+      "num": 169248,
+      "word": "乐游原 金屋藏猪",
+      "onboard_time": 1699927654,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168471,
+      "num": 168471,
+      "word": "小学生偷拿100元请客被妈妈带到派出所",
+      "onboard_time": 1699927891,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -443,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163890,
+      "num": 163890,
+      "word": "我恋5窒息男嘉宾否认有剧本",
+      "onboard_time": 1699928313,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163302,
       "num": 163302,
       "word": "55个品牌被移出中华老字号",
@@ -457,14 +561,6 @@
       "onboard_time": 1699887095,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157533,
-      "num": 157533,
-      "word": "被演戏耽误的实力歌手",
-      "onboard_time": 1699925252,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154062,
@@ -507,14 +603,6 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 139763,
-      "num": 139763,
-      "word": "以称哈马斯已失去对加沙地带控制",
-      "onboard_time": 1699925192,
-      "rank": 42,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 139278,
       "num": 139278,
       "word": "女生最无声的炫富是什么",
@@ -537,6 +625,14 @@
       "onboard_time": 1699887396,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133256,
+      "num": 133256,
+      "word": "TGA最佳手游提名",
+      "onboard_time": 1699927593,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 131375,
@@ -577,6 +673,14 @@
       "onboard_time": 1699878273,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125577,
+      "num": 125577,
+      "word": "82岁那年他9天3潜南海",
+      "onboard_time": 1699928073,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124944,
@@ -633,6 +737,22 @@
       "onboard_time": 1699883856,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106077,
+      "num": 106077,
+      "word": "南宁陈真跳江救起轻生女子",
+      "onboard_time": 1699926992,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "环卫阿姨扛着种的南瓜感谢爱心老板娘",
+      "onboard_time": 1699928731,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 100832,
