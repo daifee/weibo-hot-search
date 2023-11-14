@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699971380136,
+  "endTime": 1699972481527,
   "band_list": [
     {
       "raw_hot": 3471365,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1128141,
-      "num": 248672,
+      "num": 277521,
       "word": "银川地震",
       "onboard_time": 1699968932,
       "rank": 10,
@@ -193,6 +193,14 @@
       "onboard_time": 1699947755,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1008182,
+      "num": 282495,
+      "word": "金莎说男友扮猪吃老虎",
+      "onboard_time": 1699969775,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003973,
@@ -307,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 838123,
-      "num": 246876,
-      "word": "金莎说男友扮猪吃老虎",
-      "onboard_time": 1699969775,
+      "raw_hot": 839293,
+      "num": 279737,
+      "word": "周峻纬 会演",
+      "onboard_time": 1699971573,
       "rank": 12,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 823123,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 637263,
-      "num": 244953,
+      "num": 275624,
       "word": "1979年 骨相化妆",
       "onboard_time": 1699969053,
       "rank": 15,
@@ -617,6 +625,14 @@
       "onboard_time": 1699949195,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491262,
+      "num": 272046,
+      "word": "正式确诊为杨幂",
+      "onboard_time": 1699971157,
+      "rank": 24,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 489776,
@@ -875,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363956,
+      "num": 208145,
+      "word": "酮症酸中毒症",
+      "onboard_time": 1699971157,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 361694,
       "num": 343593,
       "word": "缅北",
@@ -1003,6 +1027,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 323337,
+      "num": 630060,
+      "word": "中国古人的审美有多绝",
+      "onboard_time": 1699968574,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317565,
       "num": 317565,
       "word": "许凯一本正经说密逃有剧本",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1699967496,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 302130,
+      "num": 302130,
+      "word": "王自如 罗永浩",
+      "onboard_time": 1699968693,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 300613,
@@ -1203,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279999,
-      "num": 279999,
-      "word": "王自如 罗永浩",
-      "onboard_time": 1699968693,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 275687,
       "num": 275687,
       "word": "迪丽热巴 看我甜不甜",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1699933174,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 271003,
-      "num": 630060,
-      "word": "中国古人的审美有多绝",
-      "onboard_time": 1699968574,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266952,
@@ -1331,20 +1355,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250741,
+      "num": 250741,
+      "word": "吴宗宪说一年收到2000多个包",
+      "onboard_time": 1699972113,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250296,
       "num": 250296,
       "word": "被演戏耽误的实力歌手",
       "onboard_time": 1699925252,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250127,
-      "num": 239261,
-      "word": "正式确诊为杨幂",
-      "onboard_time": 1699971157,
-      "rank": 24,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 247261,
@@ -1467,6 +1491,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 225098,
+      "num": 225098,
+      "word": "美国10月CPI",
+      "onboard_time": 1699971756,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224607,
       "num": 224607,
       "word": "谢娜林心如录节目ie立现",
@@ -1587,6 +1619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204310,
+      "num": 204310,
+      "word": "王自如采访",
+      "onboard_time": 1699968756,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203192,
       "num": 203192,
       "word": "医生用传统正骨法帮73岁骨折老人瞬间复位",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1699923753,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201833,
+      "num": 201833,
+      "word": "张遮姜雪宁第一世",
+      "onboard_time": 1699971455,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 201196,
@@ -1667,14 +1715,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 198855,
-      "num": 198855,
-      "word": "王自如采访",
-      "onboard_time": 1699968756,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 198809,
       "num": 198809,
       "word": "多家银行信用卡容差金额提升至100元",
@@ -1707,12 +1747,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197530,
+      "num": 197530,
+      "word": "谢危这一生太苦了",
+      "onboard_time": 1699971514,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197235,
       "num": 171063,
       "word": "盛宇新歌",
       "onboard_time": 1699968394,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196876,
+      "num": 196876,
+      "word": "广州从化警方通报河面发现女尸",
+      "onboard_time": 1699971756,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196421,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1699965691,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193555,
+      "num": 193555,
+      "word": "有人自林中坠落",
+      "onboard_time": 1699971695,
+      "rank": 35,
+      "category": "读书作家"
     },
     {
       "raw_hot": 193500,
@@ -2011,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168339,
+      "num": 168339,
+      "word": "适合方圆脸的刘海打理教程",
+      "onboard_time": 1699971875,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166829,
       "num": 166829,
       "word": "周渝民 人群恐惧症",
@@ -2203,6 +2275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149777,
+      "num": 149777,
+      "word": "东北治愈早市",
+      "onboard_time": 1699971815,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148836,
       "num": 148836,
       "word": "渐冻人蔡磊回应首次用药有效",
@@ -2307,12 +2387,12 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 143192,
-      "num": 143192,
-      "word": "酮症酸中毒症",
-      "onboard_time": 1699971157,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 143142,
+      "num": 143142,
+      "word": "佰鬼夜行",
+      "onboard_time": 1699972414,
+      "rank": 46,
+      "category": "演出,幽默"
     },
     {
       "raw_hot": 142185,
@@ -2883,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24880,
+      "num": 277786,
+      "word": "中国女篮获年度榜样运动队",
+      "onboard_time": 1699970432,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22946,
       "num": 311230,
       "word": "糖尿病会腐蚀哪些器官",
@@ -2905,14 +2993,6 @@
       "onboard_time": 1699959632,
       "rank": 14,
       "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 20356,
-      "num": 245774,
-      "word": "中国女篮获年度榜样运动队",
-      "onboard_time": 1699970432,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 20117,
