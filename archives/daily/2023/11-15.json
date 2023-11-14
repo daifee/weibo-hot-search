@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1699994041282,
+  "endTime": 1699996396680,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31896,
+      "num": 21008,
+      "word": "网购了件大衣穿上变成座山雕",
+      "onboard_time": 1699992673,
+      "rank": 43,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 28048,
       "num": 28048,
       "word": "魏大勋放空",
@@ -467,12 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17969,
-      "num": 17969,
-      "word": "网购了件大衣穿上变成座山雕",
-      "onboard_time": 1699992673,
-      "rank": 43,
-      "category": "幽默,时尚"
+      "raw_hot": 13158,
+      "num": 13158,
+      "word": "雨润优选回应员工用嘴给肉剔骨",
+      "onboard_time": 1699995433,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10817,
+      "num": 12563,
+      "word": "凭一道菜就出圈的重庆火锅",
+      "onboard_time": 1699994113,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 9988,
