@@ -1,0 +1,410 @@
+{
+  "runTime": 1700000205950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94090,
+        "num": 94090,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143610,
+        "num": 81394,
+        "word": "糖尿病前期无明显症状极易被忽视",
+        "onboard_time": 1699977212,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9922,
+        "num": 73414,
+        "word": "中欧班列跑出亮眼成绩单",
+        "onboard_time": 1699968332,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102567,
+        "num": 70402,
+        "word": "董明珠 王自如",
+        "onboard_time": 1699972837,
+        "rank": 3,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 67366,
+        "num": 67366,
+        "word": "男子突然倒地2身着藏装姑娘跪地救人",
+        "onboard_time": 1699979904,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58543,
+        "num": 58543,
+        "word": "花花呼呼大睡弟弟疯狂营业",
+        "onboard_time": 1699974038,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37060,
+        "num": 37060,
+        "word": "1700元的林清轩香水下架",
+        "onboard_time": 1699982779,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 35795,
+        "num": 35795,
+        "word": "陈思诚段奕宏李晨拖张译进迪厅",
+        "onboard_time": 1699973739,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34033,
+        "num": 34033,
+        "word": "谁家发烧用冻鱼退烧",
+        "onboard_time": 1699977570,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33704,
+        "num": 33704,
+        "word": "张遮姜雪宁第一世",
+        "onboard_time": 1699971455,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280162,
+        "num": 33681,
+        "word": "河南一中学发生踩踏事件致1死5伤",
+        "onboard_time": 1699975715,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154064,
+        "num": 33617,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80667,
+        "num": 33519,
+        "word": "网购了件大衣穿上变成座山雕",
+        "onboard_time": 1699992673,
+        "rank": 12,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 235139,
+        "num": 33450,
+        "word": "中传着火",
+        "onboard_time": 1699974639,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73778,
+        "num": 33370,
+        "word": "以色列总统之子在加沙地带战斗中失联",
+        "onboard_time": 1699967674,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 65759,
+        "num": 33270,
+        "word": "1020缅北到底发生了什么",
+        "onboard_time": 1699956996,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57000,
+        "num": 33206,
+        "word": "金莎说男友扮猪吃老虎",
+        "onboard_time": 1699969775,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55733,
+        "num": 33126,
+        "word": "武汉一研三学生留遗书后轻生",
+        "onboard_time": 1699974396,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33101,
+        "num": 33101,
+        "word": "倪妮开叉裙高筒袜",
+        "onboard_time": 1699979008,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32660,
+        "num": 32660,
+        "word": "王自如采访",
+        "onboard_time": 1699968756,
+        "rank": 19,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 31784,
+        "num": 31784,
+        "word": "时宴掉马",
+        "onboard_time": 1699975956,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31312,
+        "num": 31312,
+        "word": "杨幂去爱奇艺尖叫之夜",
+        "onboard_time": 1699996693,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31121,
+        "num": 31121,
+        "word": "感染幽门螺杆菌胃癌风险或翻倍",
+        "onboard_time": 1699972776,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30921,
+        "num": 30921,
+        "word": "连续30天早睡1小时身体会有何变化",
+        "onboard_time": 1699967496,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 30332,
+        "num": 30332,
+        "word": "雪莉谈韩国娱乐圈",
+        "onboard_time": 1699961431,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29175,
+        "num": 29175,
+        "word": "北京老街偶遇于文文胡彦斌",
+        "onboard_time": 1699997593,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28472,
+        "num": 28472,
+        "word": "正式确诊为杨幂",
+        "onboard_time": 1699971157,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 25735,
+        "num": 25735,
+        "word": "吴宗宪说一年收到2000多个包",
+        "onboard_time": 1699972113,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25639,
+        "num": 25639,
+        "word": "YG回应与BLACKPINK续约",
+        "onboard_time": 1699958733,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22818,
+        "num": 22818,
+        "word": "雨润优选回应员工用嘴给肉剔骨",
+        "onboard_time": 1699995433,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38968,
+        "num": 22477,
+        "word": "秦海璐丢了辛芷蕾的伞",
+        "onboard_time": 1699998434,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21910,
+        "num": 21910,
+        "word": "钟楚曦白色侧开叉旗袍",
+        "onboard_time": 1699972895,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21850,
+        "num": 21850,
+        "word": "1979年 骨相化妆",
+        "onboard_time": 1699969053,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 21306,
+        "num": 21306,
+        "word": "缅北",
+        "onboard_time": 1699958733,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21005,
+        "num": 21005,
+        "word": "孙菲菲公开暴力事件最新进展",
+        "onboard_time": 1699954357,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20708,
+        "num": 20708,
+        "word": "刘亦菲新剧杀青给主创送LV",
+        "onboard_time": 1699967131,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20336,
+        "num": 20336,
+        "word": "周到 你们要的莎",
+        "onboard_time": 1699965210,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19346,
+        "num": 19346,
+        "word": "张翰回应油腻",
+        "onboard_time": 1699953035,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19025,
+        "num": 19025,
+        "word": "陈伟霆这花衬衫是一百三件吗",
+        "onboard_time": 1699985120,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17912,
+        "num": 17912,
+        "word": "孙颖莎虽迟但到",
+        "onboard_time": 1699963050,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18824,
+        "num": 17883,
+        "word": "以爱为营预告",
+        "onboard_time": 1699965509,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17816,
+        "num": 17816,
+        "word": "赵丽颖谈首当监制感受",
+        "onboard_time": 1699966293,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17576,
+        "num": 17576,
+        "word": "凭一道菜就出圈的重庆火锅",
+        "onboard_time": 1699994113,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16958,
+        "num": 16958,
+        "word": "何猷君 小家庭永远高于大家庭",
+        "onboard_time": 1699958373,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16031,
+        "num": 16031,
+        "word": "叶璇分析血色恋情暴力事件",
+        "onboard_time": 1699973075,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15714,
+        "num": 15714,
+        "word": "广州从化警方通报河面发现女尸",
+        "onboard_time": 1699971756,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15583,
+        "num": 15583,
+        "word": "杨玏不愧是西岐长子",
+        "onboard_time": 1699988175,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15287,
+        "num": 15287,
+        "word": "孙颖莎出现时全场的反应",
+        "onboard_time": 1699964251,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15244,
+        "num": 15244,
+        "word": "竞燃之夜",
+        "onboard_time": 1699958430,
+        "rank": 48,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 15190,
+        "num": 15190,
+        "word": "时宴郑书意官宣",
+        "onboard_time": 1699967433,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京赴美国举行中美元首会晤#"
+    }
+  }
+}
