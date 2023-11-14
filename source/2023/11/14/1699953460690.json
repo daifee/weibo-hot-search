@@ -1,0 +1,410 @@
+{
+  "runTime": 1699953460690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191037,
+        "num": 1191037,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 709327,
+        "num": 709327,
+        "word": "沙特小哥认出迪丽热巴",
+        "onboard_time": 1699943495,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55067,
+        "num": 618303,
+        "word": "朝着构建亚太命运共同体不断迈进",
+        "onboard_time": 1699951536,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 603618,
+        "num": 603618,
+        "word": "孙怡被老刘傅首尔虐到哭",
+        "onboard_time": 1699946556,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469968,
+        "num": 469968,
+        "word": "刘诗雯红毯生图",
+        "onboard_time": 1699952016,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435224,
+        "num": 435224,
+        "word": "法老的宠妃 再会亦不忘却往生",
+        "onboard_time": 1699949134,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 420917,
+        "num": 420917,
+        "word": "四川一地规定不叠被子罚10元",
+        "onboard_time": 1699945115,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379324,
+        "num": 379324,
+        "word": "爱奇艺尖叫之夜第一波嘉宾名单",
+        "onboard_time": 1699947096,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374606,
+        "num": 374606,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1699943433,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346073,
+        "num": 346073,
+        "word": "网易向国家市场监管总局举报雀巢",
+        "onboard_time": 1699946375,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 931542,
+        "num": 346057,
+        "word": "姜雪宁谢危圆房",
+        "onboard_time": 1699951895,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 795945,
+        "num": 345940,
+        "word": "缅甸电诈家族遭打击后大批交人",
+        "onboard_time": 1699947755,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687549,
+        "num": 345907,
+        "word": "369赛后发文",
+        "onboard_time": 1699951294,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 584116,
+        "num": 345794,
+        "word": "Jennie50亿韩元购入高档别墅",
+        "onboard_time": 1699953213,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450897,
+        "num": 345748,
+        "word": "张翰回应油腻",
+        "onboard_time": 1699953035,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348458,
+        "num": 345637,
+        "word": "王安宇越憔悴我越兴奋",
+        "onboard_time": 1699949195,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347895,
+        "num": 345604,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345551,
+        "num": 345551,
+        "word": "中方相关人员已安全离开加沙",
+        "onboard_time": 1699949493,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 294175,
+        "num": 294175,
+        "word": "美甲好贵",
+        "onboard_time": 1699943373,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 280573,
+        "num": 280573,
+        "word": "比冰美式还消肿的脸部按摩教程",
+        "onboard_time": 1699949973,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 696939,
+        "num": 278866,
+        "word": "香港一导盲犬在商场内晕倒去世",
+        "onboard_time": 1699948471,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285428,
+        "num": 278855,
+        "word": "邓为仙台有树白发",
+        "onboard_time": 1699952554,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283342,
+        "num": 277808,
+        "word": "张译新片 假性血缘关系",
+        "onboard_time": 1699950093,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275687,
+        "num": 275687,
+        "word": "迪丽热巴 看我甜不甜",
+        "onboard_time": 1699952133,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272470,
+        "num": 272470,
+        "word": "竞燃之夜红毯",
+        "onboard_time": 1699948773,
+        "rank": 24,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 246309,
+        "num": 246309,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243028,
+        "num": 243028,
+        "word": "联合国总部降半旗",
+        "onboard_time": 1699952914,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219408,
+        "num": 219408,
+        "word": "马布里申请落户香港",
+        "onboard_time": 1699950513,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 198809,
+        "word": "多家银行信用卡容差金额提升至100元",
+        "onboard_time": 1699951955,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195352,
+        "num": 195352,
+        "word": "七旬老汉户口本突然多了个10岁孙子",
+        "onboard_time": 1699946013,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194235,
+        "num": 194235,
+        "word": "官方回应村民不洗碗筷将被罚款10元",
+        "onboard_time": 1699952797,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185092,
+        "num": 185092,
+        "word": "娜扎被送小辣椒",
+        "onboard_time": 1699952734,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170985,
+        "num": 170985,
+        "word": "00后医学生在中医按摩馆血脉觉醒",
+        "onboard_time": 1699951113,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166708,
+        "num": 166708,
+        "word": "九尾金发西装红毯",
+        "onboard_time": 1699951536,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160810,
+        "num": 160810,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159113,
+        "num": 159113,
+        "word": "青山刚昌东野圭吾将对谈",
+        "onboard_time": 1699946255,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184704,
+        "num": 158191,
+        "word": "娜扎公主头纱造型",
+        "onboard_time": 1699951655,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156895,
+        "num": 156895,
+        "word": "苏小玎 今后严格规范自己的行为",
+        "onboard_time": 1699941394,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149209,
+        "num": 149209,
+        "word": "二皇子用一个滚解决两个人",
+        "onboard_time": 1699950454,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147506,
+        "num": 147506,
+        "word": "明学昌人设是缅甸德高望重的老领导",
+        "onboard_time": 1699948713,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136972,
+        "num": 136972,
+        "word": "贾乃亮双11总销售额超13.6亿",
+        "onboard_time": 1699939535,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 135071,
+        "word": "人民文娱点评宁安如梦女性角色",
+        "onboard_time": 1699945536,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132974,
+        "num": 132974,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131304,
+        "num": 131304,
+        "word": "张雪峰为300名贫困生准备过冬羽绒服",
+        "onboard_time": 1699940974,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131162,
+        "num": 131162,
+        "word": "雀巢回应被网易举报",
+        "onboard_time": 1699949012,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128168,
+        "num": 128168,
+        "word": "柯佳嬿钝感",
+        "onboard_time": 1699947696,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121058,
+        "num": 121058,
+        "word": "渐冻人蔡磊激动试用人工喉",
+        "onboard_time": 1699953337,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 115999,
+        "word": "俄军恢复对基辅导弹袭击",
+        "onboard_time": 1699946857,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 113901,
+        "num": 113901,
+        "word": "凌晨5点车灯一开照出2只大熊猫",
+        "onboard_time": 1699953395,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112496,
+        "num": 112496,
+        "word": "网友吐槽麦当劳牛奶1杯23元",
+        "onboard_time": 1699941877,
+        "rank": 49,
+        "category": "美食,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在华北大地留下温暖人心的足迹#"
+    }
+  }
+}

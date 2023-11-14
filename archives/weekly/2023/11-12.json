@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699950890044,
+  "endTime": 1699953460690,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931542,
+      "num": 346057,
+      "word": "姜雪宁谢危圆房",
+      "onboard_time": 1699951895,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 928672,
       "num": 928672,
       "word": "iPhone15双11最后两小时降价",
@@ -1139,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 687549,
+      "num": 345907,
+      "word": "369赛后发文",
+      "onboard_time": 1699951294,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 685488,
       "num": 685488,
       "word": "张艺兴说去国外见了吴世勋",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1699791875,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 584116,
+      "num": 345794,
+      "word": "Jennie50亿韩元购入高档别墅",
+      "onboard_time": 1699953213,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 577226,
@@ -1899,6 +1923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 469968,
+      "num": 469968,
+      "word": "刘诗雯红毯生图",
+      "onboard_time": 1699952016,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468833,
       "num": 468833,
       "word": "韩女拍照",
@@ -1979,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 450897,
+      "num": 345748,
+      "word": "张翰回应油腻",
+      "onboard_time": 1699953035,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448895,
       "num": 637431,
       "word": "爸爸喝醉把儿子落地铁急坏大学生",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1699769190,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435224,
+      "num": 435224,
+      "word": "法老的宠妃 再会亦不忘却往生",
+      "onboard_time": 1699949134,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 434732,
@@ -2547,6 +2595,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 345551,
+      "num": 345551,
+      "word": "中方相关人员已安全离开加沙",
+      "onboard_time": 1699949493,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 345032,
       "num": 345032,
       "word": "功能性美甲",
@@ -2569,14 +2625,6 @@
       "onboard_time": 1699927891,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341983,
-      "num": 341983,
-      "word": "法老的宠妃 再会亦不忘却往生",
-      "onboard_time": 1699949134,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 341629,
@@ -2777,14 +2825,6 @@
       "onboard_time": 1699770990,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314848,
-      "num": 314848,
-      "word": "中方相关人员已安全离开加沙",
-      "onboard_time": 1699949493,
-      "rank": 24,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 314247,
@@ -3067,6 +3107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285428,
+      "num": 278855,
+      "word": "邓为仙台有树白发",
+      "onboard_time": 1699952554,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284599,
       "num": 289448,
       "word": "库里独木难支",
@@ -3097,6 +3145,14 @@
       "onboard_time": 1699866453,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 283342,
+      "num": 277808,
+      "word": "张译新片 假性血缘关系",
+      "onboard_time": 1699950093,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 283000,
@@ -3145,6 +3201,14 @@
       "onboard_time": 1699845571,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280573,
+      "num": 280573,
+      "word": "比冰美式还消肿的脸部按摩教程",
+      "onboard_time": 1699949973,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 280317,
@@ -3217,6 +3281,14 @@
       "onboard_time": 1699768109,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275687,
+      "num": 275687,
+      "word": "迪丽热巴 看我甜不甜",
+      "onboard_time": 1699952133,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 275563,
@@ -3467,14 +3539,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 258252,
-      "num": 258252,
-      "word": "张译新片 假性血缘关系",
-      "onboard_time": 1699950093,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 257242,
       "num": 257242,
       "word": "妻子被推出产房丈夫献花并深情亲吻",
@@ -3521,14 +3585,6 @@
       "onboard_time": 1699715134,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 252772,
-      "num": 252772,
-      "word": "比冰美式还消肿的脸部按摩教程",
-      "onboard_time": 1699949973,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 252449,
@@ -3665,6 +3721,14 @@
       "onboard_time": 1699779753,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243028,
+      "num": 243028,
+      "word": "联合国总部降半旗",
+      "onboard_time": 1699952914,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 242949,
@@ -4001,6 +4065,14 @@
       "onboard_time": 1699795716,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219408,
+      "num": 219408,
+      "word": "马布里申请落户香港",
+      "onboard_time": 1699950513,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 218981,
@@ -4491,6 +4563,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 198809,
+      "num": 198809,
+      "word": "多家银行信用卡容差金额提升至100元",
+      "onboard_time": 1699951955,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198149,
       "num": 198149,
       "word": "邓紫棋广州演唱会门票秒售罄",
@@ -4569,6 +4649,14 @@
       "onboard_time": 1699840891,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194235,
+      "num": 194235,
+      "word": "官方回应村民不洗碗筷将被罚款10元",
+      "onboard_time": 1699952797,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193684,
@@ -4843,12 +4931,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185092,
+      "num": 185092,
+      "word": "娜扎被送小辣椒",
+      "onboard_time": 1699952734,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184875,
       "num": 178331,
       "word": "刘畊宏带假肢女孩跳本草纲目",
       "onboard_time": 1699805313,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184704,
+      "num": 158191,
+      "word": "娜扎公主头纱造型",
+      "onboard_time": 1699951655,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 184697,
@@ -5155,6 +5259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170985,
+      "num": 170985,
+      "word": "00后医学生在中医按摩馆血脉觉醒",
+      "onboard_time": 1699951113,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170869,
       "num": 227580,
       "word": "网络主播王纯善偷逃税被查",
@@ -5281,6 +5393,14 @@
       "onboard_time": 1699928073,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166708,
+      "num": 166708,
+      "word": "九尾金发西装红毯",
+      "onboard_time": 1699951536,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 166703,
@@ -5521,14 +5641,6 @@
       "onboard_time": 1699787191,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 157499,
-      "num": 157499,
-      "word": "马布里申请落户香港",
-      "onboard_time": 1699950513,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 157078,
@@ -6451,6 +6563,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121058,
+      "num": 121058,
+      "word": "渐冻人蔡磊激动试用人工喉",
+      "onboard_time": 1699953337,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120928,
       "num": 120928,
       "word": "邓紫棋你成为了谁的幸福好甜",
@@ -6673,6 +6793,14 @@
       "onboard_time": 1699780351,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113901,
+      "num": 113901,
+      "word": "凌晨5点车灯一开照出2只大熊猫",
+      "onboard_time": 1699953395,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113469,
@@ -7329,6 +7457,14 @@
       "onboard_time": 1699917864,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55067,
+      "num": 618303,
+      "word": "朝着构建亚太命运共同体不断迈进",
+      "onboard_time": 1699951536,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 55036,
