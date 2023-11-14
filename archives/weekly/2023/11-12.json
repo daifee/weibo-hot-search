@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699932875821,
+  "endTime": 1699935630153,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -241,6 +241,14 @@
       "onboard_time": 1699831707,
       "rank": 31,
       "category": "美妆,知识科普"
+    },
+    {
+      "raw_hot": 1691884,
+      "num": 902231,
+      "word": "赵丽颖雪祭司神女妆",
+      "onboard_time": 1699933293,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1691351,
@@ -753,6 +761,14 @@
       "onboard_time": 1699818615,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839033,
+      "num": 839033,
+      "word": "邱泽演晋江男主了",
+      "onboard_time": 1699934730,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 835470,
@@ -2883,6 +2899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272578,
+      "num": 272578,
+      "word": "阴阳师皮肤 好看又不好看",
+      "onboard_time": 1699933174,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271255,
       "num": 271255,
       "word": "阿信 四月天在说话",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1699850920,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 270519,
+      "num": 270519,
+      "word": "崔雪莉生前纪录片 再告别",
+      "onboard_time": 1699934253,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 269988,
@@ -3187,6 +3219,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 249722,
+      "num": 249722,
+      "word": "男生1秒跳9.2次破纪录夺冠",
+      "onboard_time": 1699933293,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248494,
       "num": 340955,
       "word": "老板娘送1箱奶茶感谢民警追回20元",
@@ -3289,6 +3329,14 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 240329,
+      "num": 240329,
+      "word": "2023目前票房前十的国产片",
+      "onboard_time": 1699933293,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 238806,
@@ -3473,6 +3521,14 @@
       "onboard_time": 1699879170,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222646,
+      "num": 222646,
+      "word": "瞒天过海 12人格海报",
+      "onboard_time": 1699934314,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 222621,
@@ -3721,6 +3777,14 @@
       "onboard_time": 1699861894,
       "rank": 25,
       "category": "社会新闻,剧集"
+    },
+    {
+      "raw_hot": 210811,
+      "num": 210811,
+      "word": "被狗咬伤女童住院花费8万余元",
+      "onboard_time": 1699932272,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210437,
@@ -4075,6 +4139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191356,
+      "num": 191356,
+      "word": "世界海拔最高国门的升旗仪式",
+      "onboard_time": 1699935335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191095,
       "num": 191095,
       "word": "陈坤吴磊新片入型入格杀青",
@@ -4121,6 +4193,14 @@
       "onboard_time": 1699883856,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189024,
+      "num": 189024,
+      "word": "恋与深空 内测玩家",
+      "onboard_time": 1699932631,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 188407,
@@ -4321,14 +4401,6 @@
       "onboard_time": 1699699895,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177438,
-      "num": 177438,
-      "word": "恋与深空 内测玩家",
-      "onboard_time": 1699932631,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 177156,
@@ -4555,6 +4627,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 169814,
+      "num": 169814,
+      "word": "虞书欣花老板上班了",
+      "onboard_time": 1699934375,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 169807,
       "num": 169807,
       "word": "孙颖莎 微博年度受欢迎运动员",
@@ -4675,14 +4755,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 166002,
-      "num": 166002,
-      "word": "被狗咬伤女童住院花费8万余元",
-      "onboard_time": 1699932272,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165905,
       "num": 178879,
       "word": "全国开展过山车事故隐患排查治理",
@@ -4705,6 +4777,14 @@
       "onboard_time": 1699756290,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165325,
+      "num": 165325,
+      "word": "瞒天过海反转又反转",
+      "onboard_time": 1699933953,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 164847,
@@ -4947,6 +5027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 153954,
+      "num": 153954,
+      "word": "影版那个不为人知的故事杀青",
+      "onboard_time": 1699934072,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153398,
       "num": 153398,
       "word": "幼儿园运动会奖品是白菜大葱萝卜",
@@ -5161,6 +5249,14 @@
       "onboard_time": 1699861295,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144322,
+      "num": 144322,
+      "word": "岩井勇气宣布与19岁女友结婚",
+      "onboard_time": 1699935273,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 143801,
@@ -5675,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121754,
+      "num": 121754,
+      "word": "饮食能改善糖尿病吗",
+      "onboard_time": 1699933414,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121605,
       "num": 164643,
       "word": "蔡司百年技术都给了vivo",
@@ -5793,6 +5897,14 @@
       "onboard_time": 1699699773,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117770,
+      "num": 117770,
+      "word": "乐游原 分集取标题",
+      "onboard_time": 1699935576,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 117652,
@@ -6001,6 +6113,14 @@
       "onboard_time": 1699855774,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108492,
+      "num": 108492,
+      "word": "宁艺卓想剃光头",
+      "onboard_time": 1699935576,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 107810,
@@ -6315,6 +6435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86597,
+      "num": 290729,
+      "word": "vivo拍出了老舍笔下的北京",
+      "onboard_time": 1699933832,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85534,
       "num": 85534,
       "word": "男朋友转了5200给我买咖啡",
@@ -6545,6 +6673,14 @@
       "onboard_time": 1699707753,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53004,
+      "num": 297505,
+      "word": "竞燃之夜好多冠军啊",
+      "onboard_time": 1699934434,
+      "rank": 14,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 50380,
