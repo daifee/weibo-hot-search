@@ -1,0 +1,410 @@
+{
+  "runTime": 1699942993378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1222494,
+        "num": 1222494,
+        "word": "贾乃亮双11总销售额超13.6亿",
+        "onboard_time": 1699939535,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 848875,
+        "num": 848875,
+        "word": "当地回应网传长春一农妇生育十个孩子",
+        "onboard_time": 1699940435,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4371,
+        "num": 780908,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773261,
+        "num": 773261,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 587054,
+        "num": 587054,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537185,
+        "num": 537185,
+        "word": "金莎不想在婚礼上唱星月神话",
+        "onboard_time": 1699939535,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478569,
+        "num": 478569,
+        "word": "秦海璐鼓励迪丽热巴",
+        "onboard_time": 1699938159,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402546,
+        "num": 402546,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 371857,
+        "num": 371857,
+        "word": "网友吐槽麦当劳牛奶1杯23元",
+        "onboard_time": 1699941877,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 359645,
+        "num": 359645,
+        "word": "B太大连鬼秤破解实锤",
+        "onboard_time": 1699935817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2013467,
+        "num": 351479,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1580776,
+        "num": 344008,
+        "word": "苏小玎 今后严格规范自己的行为",
+        "onboard_time": 1699941394,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742701,
+        "num": 338303,
+        "word": "缅北电诈明家覆灭在即",
+        "onboard_time": 1699937334,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556894,
+        "num": 321971,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22946,
+        "num": 311230,
+        "word": "糖尿病会腐蚀哪些器官",
+        "onboard_time": 1699941636,
+        "rank": 14,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 307129,
+        "num": 307129,
+        "word": "张雪峰为300名贫困生准备过冬羽绒服",
+        "onboard_time": 1699940974,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295278,
+        "num": 295278,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283400,
+        "num": 283400,
+        "word": "倪妮 暗夜女爵",
+        "onboard_time": 1699941877,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282265,
+        "num": 282265,
+        "word": "黄日华踢人",
+        "onboard_time": 1699942473,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 281510,
+        "num": 281510,
+        "word": "100家银行证实花呗上征信不影响房贷",
+        "onboard_time": 1699936657,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 357539,
+        "num": 281310,
+        "word": "男教师养30只猫因患抑郁致2只离世",
+        "onboard_time": 1699940854,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280317,
+        "num": 280317,
+        "word": "优酷你就这么宣传佘诗曼吗",
+        "onboard_time": 1699939415,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228009,
+        "num": 228009,
+        "word": "揭秘缅北电诈园区黑监狱",
+        "onboard_time": 1699936175,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222590,
+        "num": 222590,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211964,
+        "num": 211964,
+        "word": "室内是音综 室外是恋综",
+        "onboard_time": 1699939717,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206942,
+        "num": 206942,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 200121,
+        "num": 200121,
+        "word": "小米华为销量同比增长超4成",
+        "onboard_time": 1699937739,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197716,
+        "num": 197716,
+        "word": "Homme预测T1夺冠",
+        "onboard_time": 1699940554,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190625,
+        "num": 190625,
+        "word": "许凯一本正经说密逃有剧本",
+        "onboard_time": 1699938517,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188490,
+        "num": 188490,
+        "word": "欧刚因支持WBG被T1赶出办公室",
+        "onboard_time": 1699935696,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177758,
+        "num": 177758,
+        "word": "邝肖卿成为中国女首富",
+        "onboard_time": 1699941814,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175506,
+        "num": 175506,
+        "word": "霍格沃茨学院香水",
+        "onboard_time": 1699936475,
+        "rank": 31,
+        "category": "美妆,电影"
+      },
+      {
+        "raw_hot": 172369,
+        "num": 172369,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166069,
+        "num": 166069,
+        "word": "漫画了解糖尿病是怎么患上的",
+        "onboard_time": 1699941335,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157687,
+        "num": 157687,
+        "word": "奚梦瑶何猷君偶像剧照进现实",
+        "onboard_time": 1699942773,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145203,
+        "num": 145203,
+        "word": "辛芷蕾花少能圈粉的原因",
+        "onboard_time": 1699938697,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144335,
+        "num": 144335,
+        "word": "宁安如梦",
+        "onboard_time": 1699939895,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140775,
+        "num": 140775,
+        "word": "童瑶 部落公主",
+        "onboard_time": 1699938875,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140761,
+        "num": 140761,
+        "word": "那些今年爆火的小说",
+        "onboard_time": 1699939956,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 132910,
+        "num": 132910,
+        "word": "再见爱人",
+        "onboard_time": 1699940136,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130418,
+        "num": 130418,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123921,
+        "num": 123921,
+        "word": "痛风的人到底能喝什么",
+        "onboard_time": 1699940675,
+        "rank": 41,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 122155,
+        "num": 122155,
+        "word": "我们恋爱吧5全员坦白局",
+        "onboard_time": 1699939833,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118245,
+        "num": 118245,
+        "word": "男生1秒跳9.2次破纪录夺冠",
+        "onboard_time": 1699933293,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117420,
+        "num": 117420,
+        "word": "缅甸电诈园区",
+        "onboard_time": 1699930173,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114767,
+        "num": 114767,
+        "word": "我们只是做了一名大学生应该做的事",
+        "onboard_time": 1699942354,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 112745,
+        "num": 112745,
+        "word": "虞书欣花老板上班了",
+        "onboard_time": 1699934375,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 111666,
+        "num": 111666,
+        "word": "亨利集团",
+        "onboard_time": 1699922734,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100679,
+        "num": 111656,
+        "word": "两所高校官宣共用一扇校门",
+        "onboard_time": 1699928976,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98587,
+        "num": 111644,
+        "word": "姜雪宁 姐宝女",
+        "onboard_time": 1699931133,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}

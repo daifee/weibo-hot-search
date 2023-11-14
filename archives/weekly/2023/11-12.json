@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699940052434,
+  "endTime": 1699942993378,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -299,6 +299,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1580776,
+      "num": 344008,
+      "word": "苏小玎 今后严格规范自己的行为",
+      "onboard_time": 1699941394,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1575041,
       "num": 321094,
       "word": "崩了都崩了我也崩了",
@@ -473,6 +481,14 @@
       "onboard_time": 1699839991,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1222494,
+      "num": 1222494,
+      "word": "贾乃亮双11总销售额超13.6亿",
+      "onboard_time": 1699939535,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1195166,
@@ -771,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 848875,
+      "num": 848875,
+      "word": "当地回应网传长春一农妇生育十个孩子",
+      "onboard_time": 1699940435,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844510,
       "num": 490650,
       "word": "难听",
@@ -939,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742701,
+      "num": 394672,
+      "word": "缅北电诈明家覆灭在即",
+      "onboard_time": 1699937334,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742055,
       "num": 742055,
       "word": "秦海璐鼓励迪丽热巴",
@@ -993,14 +1025,6 @@
       "onboard_time": 1699871252,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 710243,
-      "num": 394672,
-      "word": "缅北电诈明家覆灭在即",
-      "onboard_time": 1699937334,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 704152,
@@ -1379,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556894,
+      "num": 321971,
+      "word": "刘亦菲 上海",
+      "onboard_time": 1699939472,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553104,
       "num": 553104,
       "word": "李佳琦团队称250亿收入纯属捏造",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1699793860,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 537185,
+      "num": 537185,
+      "word": "金莎不想在婚礼上唱星月神话",
+      "onboard_time": 1699939535,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 536238,
@@ -2235,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371857,
+      "num": 371857,
+      "word": "网友吐槽麦当劳牛奶1杯23元",
+      "onboard_time": 1699941877,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "陈奕迅认识李荣浩也是靠朋友拉群",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1699875213,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 357539,
+      "num": 281310,
+      "word": "男教师养30只猫因患抑郁致2只离世",
+      "onboard_time": 1699940854,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351818,
@@ -2579,14 +2635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313234,
-      "num": 313234,
-      "word": "金莎不想在婚礼上唱星月神话",
-      "onboard_time": 1699939535,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 311448,
       "num": 311448,
       "word": "WBG 四号种子的逆袭",
@@ -2633,6 +2681,14 @@
       "onboard_time": 1699877733,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307129,
+      "num": 307129,
+      "word": "张雪峰为300名贫困生准备过冬羽绒服",
+      "onboard_time": 1699940974,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306573,
@@ -2867,6 +2923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283400,
+      "num": 283400,
+      "word": "倪妮 暗夜女爵",
+      "onboard_time": 1699941877,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 283000,
       "num": 283000,
       "word": "李雪琴演活了讨好型人格",
@@ -2891,20 +2955,20 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 282265,
+      "num": 282265,
+      "word": "黄日华踢人",
+      "onboard_time": 1699942473,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 282232,
       "num": 282232,
       "word": "新闻女王定档",
       "onboard_time": 1699846531,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281472,
-      "num": 281472,
-      "word": "刘亦菲 上海",
-      "onboard_time": 1699939472,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 281235,
@@ -2920,6 +2984,14 @@
       "word": "张一山韩东君张天爱新剧杀青",
       "onboard_time": 1699845571,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280317,
+      "num": 280317,
+      "word": "优酷你就这么宣传佘诗曼吗",
+      "onboard_time": 1699939415,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -3001,14 +3073,6 @@
       "onboard_time": 1699869093,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274757,
-      "num": 274757,
-      "word": "贾乃亮双11总销售额超13.6亿",
-      "onboard_time": 1699939535,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 273966,
@@ -3377,14 +3441,6 @@
       "onboard_time": 1699878934,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 247287,
-      "num": 247287,
-      "word": "优酷你就这么宣传佘诗曼吗",
-      "onboard_time": 1699939415,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 246957,
@@ -3915,6 +3971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 211964,
+      "num": 211964,
+      "word": "室内是音综 室外是恋综",
+      "onboard_time": 1699939717,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211139,
       "num": 211139,
       "word": "哪些信号提示你有患糖尿病的风险",
@@ -4211,6 +4275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197716,
+      "num": 197716,
+      "word": "Homme预测T1夺冠",
+      "onboard_time": 1699940554,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197537,
       "num": 197537,
       "word": "秦岚情绪稳定大法 选择记住快乐",
@@ -4233,14 +4305,6 @@
       "onboard_time": 1699935874,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196256,
-      "num": 196256,
-      "word": "室内是音综 室外是恋综",
-      "onboard_time": 1699939717,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 196235,
@@ -4603,6 +4667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177758,
+      "num": 177758,
+      "word": "邝肖卿成为中国女首富",
+      "onboard_time": 1699941814,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177711,
       "num": 177711,
       "word": "虞书欣花老板上班了",
@@ -4963,6 +5035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166069,
+      "num": 166069,
+      "word": "漫画了解糖尿病是怎么患上的",
+      "onboard_time": 1699941335,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166060,
       "num": 334124,
       "word": "vivo 灭霸",
@@ -5161,6 +5241,14 @@
       "onboard_time": 1699782027,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 157687,
+      "num": 157687,
+      "word": "奚梦瑶何猷君偶像剧照进现实",
+      "onboard_time": 1699942773,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 157541,
@@ -5571,6 +5659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140761,
+      "num": 140761,
+      "word": "那些今年爆火的小说",
+      "onboard_time": 1699939956,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 140619,
       "num": 140619,
       "word": "卡颜局",
@@ -5737,6 +5833,14 @@
       "onboard_time": 1699754013,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132910,
+      "num": 132910,
+      "word": "再见爱人",
+      "onboard_time": 1699940136,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 132835,
@@ -5945,6 +6049,14 @@
       "onboard_time": 1699884696,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123921,
+      "num": 123921,
+      "word": "痛风的人到底能喝什么",
+      "onboard_time": 1699940675,
+      "rank": 41,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 123553,
@@ -6195,20 +6307,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 115643,
-      "num": 121419,
-      "word": "那些今年爆火的小说",
-      "onboard_time": 1699939956,
-      "rank": 49,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 115479,
       "num": 115479,
       "word": "官方通报南宁一医院涉嫌贩卖出生证",
       "onboard_time": 1699778071,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114767,
+      "num": 114767,
+      "word": "我们只是做了一名大学生应该做的事",
+      "onboard_time": 1699942354,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 114621,
@@ -6969,6 +7081,14 @@
       "onboard_time": 1699899018,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22946,
+      "num": 311230,
+      "word": "糖尿病会腐蚀哪些器官",
+      "onboard_time": 1699941636,
+      "rank": 14,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 21326,
