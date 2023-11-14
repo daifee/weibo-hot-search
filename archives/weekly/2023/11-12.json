@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699978776709,
+  "endTime": 1699979665323,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -6643,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152109,
+      "num": 152109,
+      "word": "谁家发烧用冻鱼退烧",
+      "onboard_time": 1699977570,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151745,
       "num": 151745,
       "word": "再见爱人",
@@ -7259,14 +7267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131156,
-      "num": 131156,
-      "word": "谁家发烧用冻鱼退烧",
-      "onboard_time": 1699977570,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131060,
       "num": 131060,
       "word": "这饭包到底是谁在吃啊",
@@ -7545,6 +7545,14 @@
       "onboard_time": 1699956457,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122712,
+      "num": 122712,
+      "word": "倪妮开叉裙高筒袜",
+      "onboard_time": 1699979008,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122552,
