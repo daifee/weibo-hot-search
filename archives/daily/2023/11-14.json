@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699938998423,
+  "endTime": 1699940052434,
   "band_list": [
     {
       "raw_hot": 2923818,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2542253,
+      "raw_hot": 2657617,
       "num": 396632,
       "word": "快乐小赵 去世",
       "onboard_time": 1699937438,
@@ -171,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742055,
+      "num": 742055,
+      "word": "秦海璐鼓励迪丽热巴",
+      "onboard_time": 1699938159,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 710243,
+      "num": 394672,
+      "word": "缅北电诈明家覆灭在即",
+      "onboard_time": 1699937334,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678562,
       "num": 678562,
       "word": "100家银行证实花呗上征信不影响房贷",
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613970,
-      "num": 394672,
-      "word": "缅北电诈明家覆灭在即",
-      "onboard_time": 1699937334,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 606796,
       "num": 292197,
       "word": "朴彩英新发色",
@@ -225,14 +233,6 @@
       "onboard_time": 1699884158,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 568027,
-      "num": 568027,
-      "word": "秦海璐鼓励迪丽热巴",
-      "onboard_time": 1699938159,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 563846,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350442,
+      "num": 350442,
+      "word": "小米华为销量同比增长超4成",
+      "onboard_time": 1699937739,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 343963,
       "num": 343963,
       "word": "普尔耍大牌",
@@ -425,6 +433,22 @@
       "onboard_time": 1699922978,
       "rank": 21,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 317565,
+      "num": 317565,
+      "word": "许凯一本正经说密逃有剧本",
+      "onboard_time": 1699938517,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313234,
+      "num": 313234,
+      "word": "金莎不想在婚礼上唱星月神话",
+      "onboard_time": 1699939535,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 309037,
@@ -515,6 +539,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288695,
+      "num": 288695,
+      "word": "童瑶 部落公主",
+      "onboard_time": 1699938875,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 281472,
+      "num": 281472,
+      "word": "刘亦菲 上海",
+      "onboard_time": 1699939472,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274757,
+      "num": 274757,
+      "word": "贾乃亮双11总销售额超13.6亿",
+      "onboard_time": 1699939535,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273966,
       "num": 273966,
       "word": "藿藿角色PV",
@@ -531,14 +579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269871,
-      "num": 269871,
-      "word": "小米华为销量同比增长超4成",
-      "onboard_time": 1699937739,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 266952,
       "num": 250589,
       "word": "莲花楼爱奇艺站内分涨至9.3",
@@ -547,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261326,
+      "num": 261326,
+      "word": "霍格沃茨学院香水",
+      "onboard_time": 1699936475,
+      "rank": 23,
+      "category": "美妆,电影"
+    },
+    {
       "raw_hot": 260256,
       "num": 260256,
       "word": "你的男孩TizzyT来了",
       "onboard_time": 1699889610,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259837,
-      "num": 259837,
-      "word": "霍格沃茨学院香水",
-      "onboard_time": 1699936475,
-      "rank": 23,
-      "category": "美妆,电影"
     },
     {
       "raw_hot": 259784,
@@ -603,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247287,
+      "num": 247287,
+      "word": "优酷你就这么宣传佘诗曼吗",
+      "onboard_time": 1699939415,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245480,
       "num": 245480,
       "word": "蔡国庆回复陈楚生",
@@ -633,14 +681,6 @@
       "onboard_time": 1699935576,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227634,
-      "num": 227634,
-      "word": "许凯一本正经说密逃有剧本",
-      "onboard_time": 1699938517,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 223673,
@@ -747,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200597,
+      "num": 200597,
+      "word": "辛芷蕾花少能圈粉的原因",
+      "onboard_time": 1699938697,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198903,
       "num": 198903,
       "word": "APEC前夕旧金山8000流浪汉一夜消失",
@@ -771,12 +819,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196256,
+      "num": 196256,
+      "word": "室内是音综 室外是恋综",
+      "onboard_time": 1699939717,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193500,
       "num": 193500,
       "word": "印度小伙来中国看望18年前的救命恩人",
       "onboard_time": 1699916784,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192276,
+      "num": 192276,
+      "word": "宁安如梦",
+      "onboard_time": 1699939895,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "我们恋爱吧5全员坦白局",
+      "onboard_time": 1699939833,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 189577,
@@ -963,14 +1035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153933,
-      "num": 153933,
-      "word": "辛芷蕾花少能圈粉的原因",
-      "onboard_time": 1699938697,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146870,
       "num": 146870,
       "word": "小肚腩很难再松垮了",
@@ -1033,14 +1097,6 @@
       "onboard_time": 1699875690,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138759,
-      "num": 138759,
-      "word": "童瑶 部落公主",
-      "onboard_time": 1699938875,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136387,
@@ -1139,6 +1195,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 122019,
+      "num": 122019,
+      "word": "杨玏再骑白马梦回伯邑考",
+      "onboard_time": 1699939233,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121754,
       "num": 121754,
       "word": "饮食能改善糖尿病吗",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1699925674,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115643,
+      "num": 121419,
+      "word": "那些今年爆火的小说",
+      "onboard_time": 1699939956,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 113003,
@@ -1283,7 +1355,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 75679,
+      "raw_hot": 76505,
       "num": 264711,
       "word": "X100稳了",
       "onboard_time": 1699936716,

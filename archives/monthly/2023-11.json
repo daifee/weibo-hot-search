@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699938998423,
+  "endTime": 1699940052434,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -571,6 +571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2657617,
+      "num": 396632,
+      "word": "快乐小赵 去世",
+      "onboard_time": 1699937438,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2603654,
       "num": 1932332,
       "word": "权志龙除头发外全身脱毛",
@@ -601,14 +609,6 @@
       "onboard_time": 1699225944,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2542253,
-      "num": 396632,
-      "word": "快乐小赵 去世",
-      "onboard_time": 1699937438,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 2530109,
@@ -5579,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742055,
+      "num": 742055,
+      "word": "秦海璐鼓励迪丽热巴",
+      "onboard_time": 1699938159,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741917,
       "num": 695029,
       "word": "女子骑车到桥上将孩子推下河",
@@ -5993,6 +6001,14 @@
       "onboard_time": 1699490919,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710243,
+      "num": 394672,
+      "word": "缅北电诈明家覆灭在即",
+      "onboard_time": 1699937334,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709221,
@@ -7115,14 +7131,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 613970,
-      "num": 394672,
-      "word": "缅北电诈明家覆灭在即",
-      "onboard_time": 1699937334,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 613542,
       "num": 362510,
       "word": "漫威考虑复活钢铁侠黑寡妇",
@@ -7873,14 +7881,6 @@
       "onboard_time": 1699874791,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 568027,
-      "num": 568027,
-      "word": "秦海璐鼓励迪丽热巴",
-      "onboard_time": 1699938159,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 567571,
@@ -13619,6 +13619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350442,
+      "num": 350442,
+      "word": "小米华为销量同比增长超4成",
+      "onboard_time": 1699937739,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 350265,
       "num": 289118,
       "word": "福建一男子被闸杆砸中头7日后去世",
@@ -14891,6 +14899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317565,
+      "num": 317565,
+      "word": "许凯一本正经说密逃有剧本",
+      "onboard_time": 1699938517,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317561,
       "num": 317561,
       "word": "JDG获得选边权",
@@ -15049,6 +15065,14 @@
       "onboard_time": 1699372114,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313234,
+      "num": 313234,
+      "word": "金莎不想在婚礼上唱星月神话",
+      "onboard_time": 1699939535,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 313114,
@@ -16147,6 +16171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288695,
+      "num": 288695,
+      "word": "童瑶 部落公主",
+      "onboard_time": 1699938875,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 288655,
       "num": 288655,
       "word": "迪丽热巴被e人包围了",
@@ -16545,6 +16577,14 @@
       "onboard_time": 1698970832,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281472,
+      "num": 281472,
+      "word": "刘亦菲 上海",
+      "onboard_time": 1699939472,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 281434,
@@ -16963,6 +17003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274757,
+      "num": 274757,
+      "word": "贾乃亮双11总销售额超13.6亿",
+      "onboard_time": 1699939535,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274721,
       "num": 1395878,
       "word": "谷江山 西安",
@@ -17353,14 +17401,6 @@
       "onboard_time": 1698815736,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269871,
-      "num": 269871,
-      "word": "小米华为销量同比增长超4成",
-      "onboard_time": 1699937739,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 269828,
@@ -17851,6 +17891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261326,
+      "num": 261326,
+      "word": "霍格沃茨学院香水",
+      "onboard_time": 1699936475,
+      "rank": 23,
+      "category": "美妆,电影"
+    },
+    {
       "raw_hot": 260922,
       "num": 1199344,
       "word": "曼联 VAR",
@@ -17929,14 +17977,6 @@
       "onboard_time": 1698897695,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259837,
-      "num": 259837,
-      "word": "霍格沃茨学院香水",
-      "onboard_time": 1699936475,
-      "rank": 23,
-      "category": "美妆,电影"
     },
     {
       "raw_hot": 259784,
@@ -18833,6 +18873,14 @@
       "onboard_time": 1699003714,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 247287,
+      "num": 247287,
+      "word": "优酷你就这么宣传佘诗曼吗",
+      "onboard_time": 1699939415,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 247253,
@@ -20368,14 +20416,6 @@
       "word": "迪丽热巴怎么拘谨了",
       "onboard_time": 1698815377,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 227634,
-      "num": 227634,
-      "word": "许凯一本正经说密逃有剧本",
-      "onboard_time": 1699938517,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -23379,6 +23419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200597,
+      "num": 200597,
+      "word": "辛芷蕾花少能圈粉的原因",
+      "onboard_time": 1699938697,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200555,
       "num": 200555,
       "word": "陈楚生治愈了王栎鑫",
@@ -24035,6 +24083,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 196256,
+      "num": 196256,
+      "word": "室内是音综 室外是恋综",
+      "onboard_time": 1699939717,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196235,
       "num": 163834,
       "word": "杰出 刀塔录音",
@@ -24577,6 +24633,14 @@
       "onboard_time": 1699326630,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "我们恋爱吧5全员坦白局",
+      "onboard_time": 1699939833,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 192083,
@@ -29139,14 +29203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153933,
-      "num": 153933,
-      "word": "辛芷蕾花少能圈粉的原因",
-      "onboard_time": 1699938697,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153927,
       "num": 153594,
       "word": "乐游原泼天的富贵要来了",
@@ -31081,14 +31137,6 @@
       "onboard_time": 1699093652,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138759,
-      "num": 138759,
-      "word": "童瑶 部落公主",
-      "onboard_time": 1699938875,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138645,
@@ -33131,6 +33179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122019,
+      "num": 122019,
+      "word": "杨玏再骑白马梦回伯邑考",
+      "onboard_time": 1699939233,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122005,
       "num": 122005,
       "word": "中国银河证券原董事长陈共炎被查",
@@ -33801,6 +33857,14 @@
       "onboard_time": 1699863518,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 115643,
+      "num": 121419,
+      "word": "那些今年爆火的小说",
+      "onboard_time": 1699939956,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 115588,
@@ -36267,6 +36331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76505,
+      "num": 264711,
+      "word": "X100稳了",
+      "onboard_time": 1699936716,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76457,
       "num": 213969,
       "word": "银河护胃队闪亮登场",
@@ -36297,14 +36369,6 @@
       "onboard_time": 1698966804,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75679,
-      "num": 264711,
-      "word": "X100稳了",
-      "onboard_time": 1699936716,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 74873,
