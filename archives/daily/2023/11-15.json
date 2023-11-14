@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1699982067769,
+  "endTime": 1699983252423,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 282038,
-      "num": 221857,
+      "num": 260130,
       "word": "糖尿病前期无明显症状极易被忽视",
       "onboard_time": 1699977212,
       "rank": 21,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108416,
+      "num": 162407,
+      "word": "男子突然倒地2身着藏装姑娘跪地救人",
+      "onboard_time": 1699979904,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108006,
       "num": 108006,
       "word": "张雅钦 好会视频营业",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 107679,
-      "num": 107679,
+      "num": 107899,
       "word": "王自如采访",
       "onboard_time": 1699968756,
       "rank": 41,
@@ -377,14 +385,6 @@
       "onboard_time": 1699951895,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90533,
-      "num": 162407,
-      "word": "男子突然倒地2身着藏装姑娘跪地救人",
-      "onboard_time": 1699979904,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82780,
@@ -427,12 +427,28 @@
       "category": "剧集,时尚"
     },
     {
-      "raw_hot": 41306,
-      "num": 53866,
+      "raw_hot": 41685,
+      "num": 63231,
       "word": "70kg广君 策划",
       "onboard_time": 1699974335,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39808,
+      "num": 63220,
+      "word": "1700元的林清轩香水下架",
+      "onboard_time": 1699982779,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 6931,
+      "num": 233913,
+      "word": "中欧班列跑出亮眼成绩单",
+      "onboard_time": 1699968332,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
