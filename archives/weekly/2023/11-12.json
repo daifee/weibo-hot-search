@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699929468749,
+  "endTime": 1699931895499,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -595,6 +595,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 992213,
+      "num": 551792,
+      "word": "缅甸电诈园区",
+      "onboard_time": 1699930173,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985986,
       "num": 985986,
       "word": "缅北电诈头目录制忏悔视频",
@@ -611,11 +619,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 959669,
+      "num": 540234,
+      "word": "光腿神器的危害有多大",
+      "onboard_time": 1699929333,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 951432,
       "num": 951432,
       "word": "民警怒斥缅北没抓到你是吧",
       "onboard_time": 1699749990,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 949872,
+      "num": 949872,
+      "word": "两所高校官宣共用一扇校门",
+      "onboard_time": 1699928976,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1419,14 +1443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 521681,
-      "num": 521681,
-      "word": "光腿神器的危害有多大",
-      "onboard_time": 1699929333,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 518521,
       "num": 518521,
       "word": "英前首相卡梅伦被任命为外交大臣",
@@ -1883,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419060,
+      "num": 266286,
+      "word": "小腿想不细都难了",
+      "onboard_time": 1699930710,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 417312,
       "num": 417312,
       "word": "本周狗屎运最旺的星座",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1699867053,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 386065,
+      "num": 348550,
+      "word": "小学生偷拿100元请客被妈妈带到派出所",
+      "onboard_time": 1699927891,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384923,
@@ -2267,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334428,
+      "num": 334428,
+      "word": "KPOP炸裂周边 成员脸面膜",
+      "onboard_time": 1699930532,
+      "rank": 15,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 333130,
       "num": 670800,
       "word": "梁靖崑男单冠军",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1699918405,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326943,
+      "num": 326943,
+      "word": "姜雪宁 姐宝女",
+      "onboard_time": 1699931133,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 326491,
@@ -2481,6 +2529,14 @@
       "onboard_time": 1699786354,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305031,
+      "num": 305031,
+      "word": "假如孟宴臣和秦明是室友",
+      "onboard_time": 1699929872,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 304719,
@@ -2819,6 +2875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271191,
+      "num": 271191,
+      "word": "商丘妇幼保健院保健科原科长被判8年",
+      "onboard_time": 1699931553,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271041,
       "num": 271041,
       "word": "龚俊 沪上小作精",
@@ -2929,14 +2993,6 @@
       "onboard_time": 1699767809,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261574,
-      "num": 261574,
-      "word": "小学生偷拿100元请客被妈妈带到派出所",
-      "onboard_time": 1699927891,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261394,
@@ -4115,6 +4171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 186060,
+      "num": 186060,
+      "word": "第18届迪拜航展开幕",
+      "onboard_time": 1699930710,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 185839,
       "num": 185839,
       "word": "陆虎发烧张远帮唱",
@@ -4169,14 +4233,6 @@
       "onboard_time": 1699765289,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185178,
-      "num": 185178,
-      "word": "两所高校官宣共用一扇校门",
-      "onboard_time": 1699928976,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184875,
@@ -4273,6 +4329,14 @@
       "onboard_time": 1699763610,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 176909,
+      "num": 313367,
+      "word": "vivoX100首发开箱测评",
+      "onboard_time": 1699929392,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 176583,
@@ -4651,6 +4715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 164182,
+      "num": 164182,
+      "word": "成都被狗咬伤女童已出院",
+      "onboard_time": 1699931731,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164077,
       "num": 164077,
       "word": "大侦探下一季众多老玩家回归",
@@ -4753,6 +4825,14 @@
       "onboard_time": 1699782027,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 157731,
+      "num": 157731,
+      "word": "狐狸罐罐胖成萨摩耶同伴笑声太魔性",
+      "onboard_time": 1699930710,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157541,
@@ -5347,14 +5427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131324,
-      "num": 131324,
-      "word": "vivoX100首发开箱测评",
-      "onboard_time": 1699929392,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 131060,
       "num": 131060,
       "word": "这饭包到底是谁在吃啊",
@@ -5473,6 +5545,14 @@
       "onboard_time": 1699750349,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125773,
+      "num": 125773,
+      "word": "食物储存小技巧",
+      "onboard_time": 1699929753,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 125571,
@@ -5633,6 +5713,14 @@
       "onboard_time": 1699735753,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118549,
+      "num": 118549,
+      "word": "drama Challenge",
+      "onboard_time": 1699930173,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118397,
@@ -5801,6 +5889,14 @@
       "onboard_time": 1699861533,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112691,
+      "num": 112691,
+      "word": "小肚腩很难再松垮了",
+      "onboard_time": 1699930410,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112643,

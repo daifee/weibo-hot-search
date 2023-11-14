@@ -1,0 +1,410 @@
+{
+  "runTime": 1699931895499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 949872,
+        "num": 949872,
+        "word": "两所高校官宣共用一扇校门",
+        "onboard_time": 1699928976,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 826935,
+        "num": 826935,
+        "word": "叶剑英元帅夫人吴博逝世",
+        "onboard_time": 1699926512,
+        "rank": 1,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 13553,
+        "num": 580467,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992213,
+        "num": 551792,
+        "word": "缅甸电诈园区",
+        "onboard_time": 1699930173,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959669,
+        "num": 540234,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 516609,
+        "num": 516609,
+        "word": "七宗罪PDF当事人方某已去世",
+        "onboard_time": 1699926153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467027,
+        "num": 467027,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420009,
+        "num": 420009,
+        "word": "23岁女生工地当包工头",
+        "onboard_time": 1699923995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387527,
+        "num": 387527,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 360810,
+        "num": 360810,
+        "word": "十个勤天 去年今日",
+        "onboard_time": 1699928011,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1169962,
+        "num": 360319,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838299,
+        "num": 354887,
+        "word": "亨利集团",
+        "onboard_time": 1699922734,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703152,
+        "num": 353359,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386065,
+        "num": 348550,
+        "word": "小学生偷拿100元请客被妈妈带到派出所",
+        "onboard_time": 1699927891,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346553,
+        "num": 346553,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334428,
+        "num": 334428,
+        "word": "KPOP炸裂周边 成员脸面膜",
+        "onboard_time": 1699930532,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 326943,
+        "num": 326943,
+        "word": "姜雪宁 姐宝女",
+        "onboard_time": 1699931133,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176909,
+        "num": 313367,
+        "word": "vivoX100首发开箱测评",
+        "onboard_time": 1699929392,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305031,
+        "num": 305031,
+        "word": "假如孟宴臣和秦明是室友",
+        "onboard_time": 1699929872,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271191,
+        "num": 271191,
+        "word": "商丘妇幼保健院保健科原科长被判8年",
+        "onboard_time": 1699931553,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419060,
+        "num": 266286,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 257659,
+        "num": 257659,
+        "word": "陈楚生不唱跳的原因",
+        "onboard_time": 1699928377,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255654,
+        "num": 255654,
+        "word": "很多胃癌是吃出来",
+        "onboard_time": 1699920091,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240830,
+        "num": 240830,
+        "word": "玉骨遥的美是如何拍出来的",
+        "onboard_time": 1699923333,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236215,
+        "num": 236215,
+        "word": "普尔耍大牌",
+        "onboard_time": 1699927891,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212636,
+        "num": 212636,
+        "word": "以称哈马斯已失去对加沙地带控制",
+        "onboard_time": 1699925192,
+        "rank": 25,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 210630,
+        "num": 210630,
+        "word": "莲花楼爱奇艺站内分涨至9.3",
+        "onboard_time": 1699928849,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199601,
+        "num": 199601,
+        "word": "我恋5窒息男嘉宾否认有剧本",
+        "onboard_time": 1699928313,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194849,
+        "num": 194849,
+        "word": "谁在资助缅北果敢同盟军",
+        "onboard_time": 1699920810,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186060,
+        "num": 186060,
+        "word": "第18届迪拜航展开幕",
+        "onboard_time": 1699930710,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180352,
+        "num": 180352,
+        "word": "cityline try累了",
+        "onboard_time": 1699929091,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168974,
+        "num": 168974,
+        "word": "医生用传统正骨法帮73岁骨折老人瞬间复位",
+        "onboard_time": 1699927835,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164182,
+        "num": 164182,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162909,
+        "num": 162909,
+        "word": "网友吐槽政务大厅全天工作6个小时",
+        "onboard_time": 1699886735,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161854,
+        "num": 161854,
+        "word": "刘诗诗刘宇宁 你好星期六",
+        "onboard_time": 1699919670,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157731,
+        "num": 157731,
+        "word": "狐狸罐罐胖成萨摩耶同伴笑声太魔性",
+        "onboard_time": 1699930710,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153748,
+        "num": 153748,
+        "word": "张遮底色 虐到极致",
+        "onboard_time": 1699922554,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151024,
+        "num": 151024,
+        "word": "82岁那年他9天3潜南海",
+        "onboard_time": 1699928073,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143903,
+        "num": 143903,
+        "word": "知情人证实缅北电诈成员劝降视频属实",
+        "onboard_time": 1699919791,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125963,
+        "num": 125963,
+        "word": "被演戏耽误的实力歌手",
+        "onboard_time": 1699925252,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125773,
+        "num": 125773,
+        "word": "食物储存小技巧",
+        "onboard_time": 1699929753,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118549,
+        "num": 118549,
+        "word": "drama Challenge",
+        "onboard_time": 1699930173,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117742,
+        "num": 117742,
+        "word": "防胃癌这5种要少吃不吃",
+        "onboard_time": 1699890093,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115539,
+        "num": 115539,
+        "word": "猫妈妈传授狩猎人类的技巧",
+        "onboard_time": 1699929453,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112691,
+        "num": 112691,
+        "word": "小肚腩很难再松垮了",
+        "onboard_time": 1699930410,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109390,
+        "num": 109390,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100817,
+        "num": 100817,
+        "word": "朴彩英新发色",
+        "onboard_time": 1699890690,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94318,
+        "num": 94318,
+        "word": "爱吃辣的人不容易得糖尿病是真的吗",
+        "onboard_time": 1699922978,
+        "rank": 47,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 88076,
+        "num": 88076,
+        "word": "17名大学生与诺奖得主约饭",
+        "onboard_time": 1699921114,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87893,
+        "num": 87893,
+        "word": "李秀满 种树歌",
+        "onboard_time": 1699927532,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
