@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699936466375,
+  "endTime": 1699938998423,
   "band_list": [
     {
       "raw_hot": 2923818,
@@ -9,6 +9,14 @@
       "onboard_time": 1699921595,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2542253,
+      "num": 396632,
+      "word": "快乐小赵 去世",
+      "onboard_time": 1699937438,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1762976,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159615,
+      "num": 1159615,
+      "word": "邱泽演晋江男主了",
+      "onboard_time": 1699934730,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1112623,
       "num": 384177,
       "word": "小S好炸裂的回复",
@@ -81,14 +97,6 @@
       "onboard_time": 1699926512,
       "rank": 0,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 1057463,
-      "num": 1057463,
-      "word": "邱泽演晋江男主了",
-      "onboard_time": 1699934730,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 1022301,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862350,
+      "num": 862350,
+      "word": "B太大连鬼秤破解实锤",
+      "onboard_time": 1699935817,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787804,
       "num": 787804,
       "word": "在何猷君身上看到了生理性喜欢的样子",
@@ -155,11 +171,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678562,
+      "num": 678562,
+      "word": "100家银行证实花呗上征信不影响房贷",
+      "onboard_time": 1699936657,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 663455,
       "num": 342141,
       "word": "卧虎山庄",
       "onboard_time": 1699921474,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629533,
+      "num": 395780,
+      "word": "揭秘缅北电诈园区黑监狱",
+      "onboard_time": 1699936175,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -171,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613970,
+      "num": 394672,
+      "word": "缅北电诈明家覆灭在即",
+      "onboard_time": 1699937334,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606796,
       "num": 292197,
       "word": "朴彩英新发色",
@@ -179,20 +219,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 581271,
-      "num": 581271,
-      "word": "B太大连鬼秤破解实锤",
-      "onboard_time": 1699935817,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575056,
       "num": 575056,
       "word": "苹果公司将禁止摇一摇跳转广告",
       "onboard_time": 1699884158,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 568027,
+      "num": 568027,
+      "word": "秦海璐鼓励迪丽热巴",
+      "onboard_time": 1699938159,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 563846,
@@ -273,6 +313,22 @@
       "onboard_time": 1699922554,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397584,
+      "num": 397584,
+      "word": "2023目前票房前十的国产片",
+      "onboard_time": 1699933293,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 393327,
+      "num": 393327,
+      "word": "欧刚因支持WBG被T1赶出办公室",
+      "onboard_time": 1699935696,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 390759,
@@ -371,22 +427,6 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 320287,
-      "num": 320287,
-      "word": "2023目前票房前十的国产片",
-      "onboard_time": 1699933293,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 312705,
-      "num": 312705,
-      "word": "欧刚因支持WBG被T1赶出办公室",
-      "onboard_time": 1699935696,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 309037,
       "num": 309037,
       "word": "崔雪莉生前纪录片 再告别",
@@ -475,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273966,
+      "num": 273966,
+      "word": "藿藿角色PV",
+      "onboard_time": 1699937739,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272578,
       "num": 272578,
       "word": "阴阳师皮肤 好看又不好看",
       "onboard_time": 1699933174,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269871,
+      "num": 269871,
+      "word": "小米华为销量同比增长超4成",
+      "onboard_time": 1699937739,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 266952,
@@ -491,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264976,
-      "num": 264976,
-      "word": "揭秘缅北电诈园区黑监狱",
-      "onboard_time": 1699936175,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260256,
       "num": 260256,
       "word": "你的男孩TizzyT来了",
       "onboard_time": 1699889610,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259837,
+      "num": 259837,
+      "word": "霍格沃茨学院香水",
+      "onboard_time": 1699936475,
+      "rank": 23,
+      "category": "美妆,电影"
     },
     {
       "raw_hot": 259784,
@@ -555,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238431,
+      "num": 238431,
+      "word": "光遇 先祖",
+      "onboard_time": 1699936475,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235587,
       "num": 235587,
       "word": "林俊杰都不知道自己有这份副业",
@@ -569,6 +633,14 @@
       "onboard_time": 1699935576,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227634,
+      "num": 227634,
+      "word": "许凯一本正经说密逃有剧本",
+      "onboard_time": 1699938517,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 223673,
@@ -627,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208386,
+      "num": 208386,
+      "word": "新白娘子30周年 演唱会",
+      "onboard_time": 1699936598,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203192,
       "num": 203192,
       "word": "医生用传统正骨法帮73岁骨折老人瞬间复位",
@@ -657,6 +737,14 @@
       "onboard_time": 1699923753,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201196,
+      "num": 201196,
+      "word": "邓紫棋巡演广州加场",
+      "onboard_time": 1699937860,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 198903,
@@ -723,6 +811,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 184697,
+      "num": 184697,
+      "word": "华坪女高毕业生为我本是高山加油",
+      "onboard_time": 1699937498,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184155,
       "num": 184155,
       "word": "岩井勇气宣布与19岁女友结婚",
@@ -787,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166775,
+      "num": 166775,
+      "word": "你好种地少年",
+      "onboard_time": 1699936416,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166753,
       "num": 166753,
       "word": "82岁那年他9天3潜南海",
@@ -809,6 +913,14 @@
       "onboard_time": 1699933953,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163961,
+      "num": 163961,
+      "word": "普通人4个常见的控糖误区",
+      "onboard_time": 1699938036,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163302,
@@ -849,6 +961,14 @@
       "onboard_time": 1699934072,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153933,
+      "num": 153933,
+      "word": "辛芷蕾花少能圈粉的原因",
+      "onboard_time": 1699938697,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146870,
@@ -915,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138759,
+      "num": 138759,
+      "word": "童瑶 部落公主",
+      "onboard_time": 1699938875,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136387,
       "num": 136387,
       "word": "小水 淡妆浓抹总相宜",
@@ -929,14 +1057,6 @@
       "onboard_time": 1699887396,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "你好种地少年",
-      "onboard_time": 1699936416,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 133256,
@@ -1001,6 +1121,14 @@
       "onboard_time": 1699889374,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 130276,
+      "word": "男子双腿残疾修鞋养家养女每天送饭",
+      "onboard_time": 1699938277,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123090,
@@ -1153,6 +1281,14 @@
       "onboard_time": 1699874791,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75679,
+      "num": 264711,
+      "word": "X100稳了",
+      "onboard_time": 1699936716,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 74047,

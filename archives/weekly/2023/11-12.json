@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699936466375,
+  "endTime": 1699938998423,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -73,6 +73,14 @@
       "onboard_time": 1699884394,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2542253,
+      "num": 396632,
+      "word": "快乐小赵 去世",
+      "onboard_time": 1699937438,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2451909,
@@ -531,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1159615,
+      "num": 1159615,
+      "word": "邱泽演晋江男主了",
+      "onboard_time": 1699934730,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1144895,
       "num": 487850,
       "word": "林心如接大尺度戏会考虑霍建华感受",
@@ -593,14 +609,6 @@
       "onboard_time": 1699757129,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1057463,
-      "num": 1057463,
-      "word": "邱泽演晋江男主了",
-      "onboard_time": 1699934730,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 1047846,
@@ -736,6 +744,14 @@
       "word": "知情人证实缅北电诈成员劝降视频属实",
       "onboard_time": 1699919791,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862350,
+      "num": 862350,
+      "word": "B太大连鬼秤破解实锤",
+      "onboard_time": 1699935817,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 678562,
+      "num": 678562,
+      "word": "100家银行证实花呗上征信不影响房贷",
+      "onboard_time": 1699936657,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 675272,
       "num": 675272,
       "word": "张凌赫说下一部一定是现偶",
@@ -1139,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629533,
+      "num": 395780,
+      "word": "揭秘缅北电诈园区黑监狱",
+      "onboard_time": 1699936175,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628080,
       "num": 414445,
       "word": "雪莉 我们需要更多的女性发声",
@@ -1168,6 +1200,14 @@
       "word": "谁在资助缅北果敢同盟军",
       "onboard_time": 1699920810,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613970,
+      "num": 394672,
+      "word": "缅北电诈明家覆灭在即",
+      "onboard_time": 1699937334,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1275,14 +1315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 581271,
-      "num": 581271,
-      "word": "B太大连鬼秤破解实锤",
-      "onboard_time": 1699935817,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577226,
       "num": 577226,
       "word": "宁安如梦团综定档",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1699874791,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 568027,
+      "num": 568027,
+      "word": "秦海璐鼓励迪丽热巴",
+      "onboard_time": 1699938159,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 558255,
@@ -2075,6 +2115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397584,
+      "num": 397584,
+      "word": "2023目前票房前十的国产片",
+      "onboard_time": 1699933293,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 393327,
+      "num": 393327,
+      "word": "欧刚因支持WBG被T1赶出办公室",
+      "onboard_time": 1699935696,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390759,
       "num": 390759,
       "word": "KPOP炸裂周边 成员脸面膜",
@@ -2443,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320287,
-      "num": 320287,
-      "word": "2023目前票房前十的国产片",
-      "onboard_time": 1699933293,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 319904,
       "num": 319904,
       "word": "魏晨 父母子女互为无价之宝",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1699835616,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312705,
-      "num": 312705,
-      "word": "欧刚因支持WBG被T1赶出办公室",
-      "onboard_time": 1699935696,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 311448,
@@ -2923,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273966,
+      "num": 273966,
+      "word": "藿藿角色PV",
+      "onboard_time": 1699937739,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273553,
       "num": 273553,
       "word": "精忠报国",
@@ -2979,6 +3027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 269871,
+      "num": 269871,
+      "word": "小米华为销量同比增长超4成",
+      "onboard_time": 1699937739,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 269019,
       "num": 269019,
       "word": "龚俊 被迫做E",
@@ -3025,14 +3081,6 @@
       "onboard_time": 1699787732,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264976,
-      "num": 264976,
-      "word": "揭秘缅北电诈园区黑监狱",
-      "onboard_time": 1699936175,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264446,
@@ -3089,6 +3137,14 @@
       "onboard_time": 1699889610,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259837,
+      "num": 259837,
+      "word": "霍格沃茨学院香水",
+      "onboard_time": 1699936475,
+      "rank": 23,
+      "category": "美妆,电影"
     },
     {
       "raw_hot": 259784,
@@ -3371,6 +3427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238431,
+      "num": 238431,
+      "word": "光遇 先祖",
+      "onboard_time": 1699936475,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235551,
       "num": 235551,
       "word": "勇士三连败",
@@ -3473,6 +3537,14 @@
       "onboard_time": 1699800574,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 227634,
+      "num": 227634,
+      "word": "许凯一本正经说密逃有剧本",
+      "onboard_time": 1699938517,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 227087,
@@ -3867,6 +3939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208386,
+      "num": 208386,
+      "word": "新白娘子30周年 演唱会",
+      "onboard_time": 1699936598,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207641,
       "num": 207641,
       "word": "姜雪宁被薛烨扇巴掌",
@@ -4025,6 +4105,14 @@
       "onboard_time": 1699779632,
       "rank": 27,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 201196,
+      "num": 201196,
+      "word": "邓紫棋巡演广州加场",
+      "onboard_time": 1699937860,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 200908,
@@ -4369,6 +4457,14 @@
       "onboard_time": 1699805313,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184697,
+      "num": 184697,
+      "word": "华坪女高毕业生为我本是高山加油",
+      "onboard_time": 1699937498,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 184524,
@@ -4771,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166775,
+      "num": 166775,
+      "word": "你好种地少年",
+      "onboard_time": 1699936416,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166753,
       "num": 166753,
       "word": "82岁那年他9天3潜南海",
@@ -4881,6 +4985,14 @@
       "onboard_time": 1699701030,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163961,
+      "num": 163961,
+      "word": "普通人4个常见的控糖误区",
+      "onboard_time": 1699938036,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163952,
@@ -5081,6 +5193,14 @@
       "onboard_time": 1699934072,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153933,
+      "num": 153933,
+      "word": "辛芷蕾花少能圈粉的原因",
+      "onboard_time": 1699938697,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 153398,
@@ -5435,6 +5555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138759,
+      "num": 138759,
+      "word": "童瑶 部落公主",
+      "onboard_time": 1699938875,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 138406,
       "num": 138406,
       "word": "以爱为营决战修罗场之巅",
@@ -5504,14 +5632,6 @@
       "word": "aespa winter音中直拍",
       "onboard_time": 1699755692,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "你好种地少年",
-      "onboard_time": 1699936416,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -5785,6 +5905,14 @@
       "onboard_time": 1699868612,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 130276,
+      "word": "男子双腿残疾修鞋养家养女每天送饭",
+      "onboard_time": 1699938277,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123392,
@@ -6537,6 +6665,14 @@
       "onboard_time": 1699756592,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75679,
+      "num": 264711,
+      "word": "X100稳了",
+      "onboard_time": 1699936716,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 71489,

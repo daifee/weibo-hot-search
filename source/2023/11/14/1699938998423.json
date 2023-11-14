@@ -1,0 +1,410 @@
+{
+  "runTime": 1699938998423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159615,
+        "num": 1159615,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 862350,
+        "num": 862350,
+        "word": "B太大连鬼秤破解实锤",
+        "onboard_time": 1699935817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4482,
+        "num": 709450,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202167,
+        "num": 697613,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 678562,
+        "num": 678562,
+        "word": "100家银行证实花呗上征信不影响房贷",
+        "onboard_time": 1699936657,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 568027,
+        "num": 568027,
+        "word": "秦海璐鼓励迪丽热巴",
+        "onboard_time": 1699938159,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539749,
+        "num": 539749,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 529820,
+        "num": 529820,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437094,
+        "num": 437094,
+        "word": "两所高校官宣共用一扇校门",
+        "onboard_time": 1699928976,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397584,
+        "num": 397584,
+        "word": "2023目前票房前十的国产片",
+        "onboard_time": 1699933293,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2542253,
+        "num": 396632,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 629533,
+        "num": 395780,
+        "word": "揭秘缅北电诈园区黑监狱",
+        "onboard_time": 1699936175,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613970,
+        "num": 394672,
+        "word": "缅北电诈明家覆灭在即",
+        "onboard_time": 1699937334,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504557,
+        "num": 393488,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393327,
+        "num": 393327,
+        "word": "欧刚因支持WBG被T1赶出办公室",
+        "onboard_time": 1699935696,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 381106,
+        "num": 381106,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370006,
+        "num": 370006,
+        "word": "亨利集团",
+        "onboard_time": 1699922734,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326453,
+        "num": 326453,
+        "word": "缅甸电诈园区",
+        "onboard_time": 1699930173,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273966,
+        "num": 273966,
+        "word": "藿藿角色PV",
+        "onboard_time": 1699937739,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269871,
+        "num": 269871,
+        "word": "小米华为销量同比增长超4成",
+        "onboard_time": 1699937739,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 75679,
+        "num": 264711,
+        "word": "X100稳了",
+        "onboard_time": 1699936716,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291680,
+        "num": 263783,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 262584,
+        "num": 262584,
+        "word": "崔雪莉生前纪录片 再告别",
+        "onboard_time": 1699934253,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259837,
+        "num": 259837,
+        "word": "霍格沃茨学院香水",
+        "onboard_time": 1699936475,
+        "rank": 23,
+        "category": "美妆,电影"
+      },
+      {
+        "raw_hot": 241516,
+        "num": 241516,
+        "word": "男生1秒跳9.2次破纪录夺冠",
+        "onboard_time": 1699933293,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239533,
+        "num": 239533,
+        "word": "姜雪宁 姐宝女",
+        "onboard_time": 1699931133,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238431,
+        "num": 238431,
+        "word": "光遇 先祖",
+        "onboard_time": 1699936475,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227634,
+        "num": 227634,
+        "word": "许凯一本正经说密逃有剧本",
+        "onboard_time": 1699938517,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223306,
+        "num": 223306,
+        "word": "叶剑英元帅夫人吴博逝世",
+        "onboard_time": 1699926512,
+        "rank": 28,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 208386,
+        "num": 208386,
+        "word": "新白娘子30周年 演唱会",
+        "onboard_time": 1699936598,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206904,
+        "num": 206904,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88604,
+        "num": 203827,
+        "word": "vivo拍出了老舍笔下的北京",
+        "onboard_time": 1699933832,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201196,
+        "num": 201196,
+        "word": "邓紫棋巡演广州加场",
+        "onboard_time": 1699937860,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194680,
+        "num": 194680,
+        "word": "很多胃癌是吃出来",
+        "onboard_time": 1699920091,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184697,
+        "num": 184697,
+        "word": "华坪女高毕业生为我本是高山加油",
+        "onboard_time": 1699937498,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174429,
+        "num": 174429,
+        "word": "宁艺卓想剃光头",
+        "onboard_time": 1699935576,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173334,
+        "num": 173334,
+        "word": "岩井勇气宣布与19岁女友结婚",
+        "onboard_time": 1699935273,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169114,
+        "num": 169114,
+        "word": "23岁女生工地当包工头",
+        "onboard_time": 1699923995,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166775,
+        "num": 166775,
+        "word": "你好种地少年",
+        "onboard_time": 1699936416,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163961,
+        "num": 163961,
+        "word": "普通人4个常见的控糖误区",
+        "onboard_time": 1699938036,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159036,
+        "num": 159036,
+        "word": "商丘妇幼保健院保健科原科长被判8年",
+        "onboard_time": 1699931553,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156114,
+        "num": 156114,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154656,
+        "num": 154656,
+        "word": "KPOP炸裂周边 成员脸面膜",
+        "onboard_time": 1699930532,
+        "rank": 42,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 153933,
+        "num": 153933,
+        "word": "辛芷蕾花少能圈粉的原因",
+        "onboard_time": 1699938697,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143425,
+        "num": 143425,
+        "word": "虞书欣花老板上班了",
+        "onboard_time": 1699934375,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138759,
+        "num": 138759,
+        "word": "童瑶 部落公主",
+        "onboard_time": 1699938875,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136852,
+        "num": 136852,
+        "word": "危危一笑生死难料",
+        "onboard_time": 1699935874,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132265,
+        "num": 132265,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 130276,
+        "word": "男子双腿残疾修鞋养家养女每天送饭",
+        "onboard_time": 1699938277,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129043,
+        "num": 129043,
+        "word": "阴阳师皮肤 好看又不好看",
+        "onboard_time": 1699933174,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
