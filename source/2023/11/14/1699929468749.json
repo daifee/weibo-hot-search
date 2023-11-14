@@ -1,0 +1,410 @@
+{
+  "runTime": 1699929468749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084497,
+        "num": 1084497,
+        "word": "叶剑英元帅夫人吴博逝世",
+        "onboard_time": 1699926512,
+        "rank": 0,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 714107,
+        "num": 714107,
+        "word": "七宗罪PDF当事人方某已去世",
+        "onboard_time": 1699926153,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22955,
+        "num": 573783,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563404,
+        "num": 563404,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521681,
+        "num": 521681,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 513550,
+        "num": 513550,
+        "word": "23岁女生工地当包工头",
+        "onboard_time": 1699923995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437085,
+        "num": 437085,
+        "word": "十个勤天 去年今日",
+        "onboard_time": 1699928011,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408794,
+        "num": 408794,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 375143,
+        "num": 375143,
+        "word": "玉骨遥的美是如何拍出来的",
+        "onboard_time": 1699923333,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343963,
+        "num": 343963,
+        "word": "普尔耍大牌",
+        "onboard_time": 1699927891,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1581633,
+        "num": 341503,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987741,
+        "num": 340325,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863912,
+        "num": 335543,
+        "word": "亨利集团",
+        "onboard_time": 1699922734,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442472,
+        "num": 331428,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331090,
+        "num": 331090,
+        "word": "网友吐槽政务大厅全天工作6个小时",
+        "onboard_time": 1699886735,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542627,
+        "num": 325357,
+        "word": "小S好炸裂的回复",
+        "onboard_time": 1699884334,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301228,
+        "num": 301228,
+        "word": "谁在资助缅北果敢同盟军",
+        "onboard_time": 1699920810,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293313,
+        "num": 293313,
+        "word": "以称哈马斯已失去对加沙地带控制",
+        "onboard_time": 1699925192,
+        "rank": 17,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 261574,
+        "num": 261574,
+        "word": "小学生偷拿100元请客被妈妈带到派出所",
+        "onboard_time": 1699927891,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259784,
+        "num": 259784,
+        "word": "陈楚生不唱跳的原因",
+        "onboard_time": 1699928377,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305059,
+        "num": 252139,
+        "word": "很多胃癌是吃出来",
+        "onboard_time": 1699920091,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266952,
+        "num": 250589,
+        "word": "莲花楼爱奇艺站内分涨至9.3",
+        "onboard_time": 1699928849,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239031,
+        "num": 239031,
+        "word": "张遮底色 虐到极致",
+        "onboard_time": 1699922554,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235885,
+        "num": 235885,
+        "word": "刘诗诗刘宇宁 你好星期六",
+        "onboard_time": 1699919670,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229378,
+        "num": 229378,
+        "word": "被演戏耽误的实力歌手",
+        "onboard_time": 1699925252,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217875,
+        "num": 217875,
+        "word": "cityline try累了",
+        "onboard_time": 1699929091,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203192,
+        "num": 203192,
+        "word": "医生用传统正骨法帮73岁骨折老人瞬间复位",
+        "onboard_time": 1699927835,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201968,
+        "num": 201968,
+        "word": "我恋5窒息男嘉宾否认有剧本",
+        "onboard_time": 1699928313,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193247,
+        "num": 193247,
+        "word": "哪些信号提示你有患糖尿病的风险",
+        "onboard_time": 1699927593,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185178,
+        "num": 185178,
+        "word": "两所高校官宣共用一扇校门",
+        "onboard_time": 1699928976,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180853,
+        "num": 180853,
+        "word": "知情人证实缅北电诈成员劝降视频属实",
+        "onboard_time": 1699919791,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175189,
+        "num": 175189,
+        "word": "李秀满 种树歌",
+        "onboard_time": 1699927532,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169235,
+        "num": 169235,
+        "word": "重返巴厘岛通往旧金山",
+        "onboard_time": 1699923214,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166753,
+        "num": 166753,
+        "word": "82岁那年他9天3潜南海",
+        "onboard_time": 1699928073,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "爱吃辣的人不容易得糖尿病是真的吗",
+        "onboard_time": 1699922978,
+        "rank": 34,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "乐游原 金屋藏猪",
+        "onboard_time": 1699927654,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145044,
+        "num": 145044,
+        "word": "防胃癌这5种要少吃不吃",
+        "onboard_time": 1699890093,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144760,
+        "num": 144760,
+        "word": "猫妈妈传授狩猎人类的技巧",
+        "onboard_time": 1699929453,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132469,
+        "num": 132469,
+        "word": "TGA最佳手游提名",
+        "onboard_time": 1699927593,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131324,
+        "num": 131324,
+        "word": "vivoX100首发开箱测评",
+        "onboard_time": 1699929392,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125932,
+        "num": 125932,
+        "word": "17名大学生与诺奖得主约饭",
+        "onboard_time": 1699921114,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125838,
+        "num": 125838,
+        "word": "朴彩英新发色",
+        "onboard_time": 1699890690,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124313,
+        "num": 124313,
+        "word": "脂肪肝不建议碰到食物黑名单",
+        "onboard_time": 1699918405,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119836,
+        "num": 119836,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119683,
+        "num": 119683,
+        "word": "柳智敏打歌时发现衣服上有针",
+        "onboard_time": 1699889672,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110708,
+        "num": 110708,
+        "word": "上海咖啡店负责人回应6200元天价咖啡",
+        "onboard_time": 1699922312,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109419,
+        "num": 109419,
+        "word": "环卫阿姨扛着种的南瓜感谢爱心老板娘",
+        "onboard_time": 1699928731,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 106491,
+        "num": 106491,
+        "word": "韩庚兑现前任4票房flag",
+        "onboard_time": 1699918886,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105503,
+        "num": 105503,
+        "word": "林俊杰都不知道自己有这份副业",
+        "onboard_time": 1699885716,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104686,
+        "num": 104686,
+        "word": "雪莉 我们需要更多的女性发声",
+        "onboard_time": 1699878273,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图速览什么是APEC#"
+    }
+  }
+}
