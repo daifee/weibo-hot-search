@@ -1,0 +1,410 @@
+{
+  "runTime": 1699968852162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1894430,
+        "num": 1894430,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 712679,
+        "num": 712679,
+        "word": "孙颖莎出现时全场的反应",
+        "onboard_time": 1699964251,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44342,
+        "num": 630060,
+        "word": "中国古人的审美有多绝",
+        "onboard_time": 1699968574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849309,
+        "num": 604513,
+        "word": "燕临 我哭死",
+        "onboard_time": 1699966412,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567031,
+        "num": 567031,
+        "word": "JackeyLove和孙杨合照",
+        "onboard_time": 1699966530,
+        "rank": 4,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 452507,
+        "num": 452507,
+        "word": "赵丽颖谈首当监制感受",
+        "onboard_time": 1699966293,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443546,
+        "num": 443546,
+        "word": "魏大勋录制大侦探9",
+        "onboard_time": 1699968155,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428104,
+        "num": 428104,
+        "word": "以爱为营预告",
+        "onboard_time": 1699965509,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374802,
+        "num": 374802,
+        "word": "孙颖莎虽迟但到",
+        "onboard_time": 1699963050,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313305,
+        "num": 313305,
+        "word": "6岁游泳女孩1分钟腿拍瑜伽球200次",
+        "onboard_time": 1699959273,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 966988,
+        "num": 313253,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786372,
+        "num": 311968,
+        "word": "何猷君 小家庭永远高于大家庭",
+        "onboard_time": 1699958373,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766578,
+        "num": 311577,
+        "word": "以色列总统之子在加沙地带战斗中失联",
+        "onboard_time": 1699967674,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 629370,
+        "num": 311250,
+        "word": "男主胃不好只能吃软饭",
+        "onboard_time": 1699963891,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628768,
+        "num": 310583,
+        "word": "时宴郑书意官宣",
+        "onboard_time": 1699967433,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309913,
+        "num": 309913,
+        "word": "竞燃之夜",
+        "onboard_time": 1699958430,
+        "rank": 15,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 521491,
+        "num": 308949,
+        "word": "周到 你们要的莎",
+        "onboard_time": 1699965210,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452473,
+        "num": 308482,
+        "word": "雪莉谈韩国娱乐圈",
+        "onboard_time": 1699961431,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435832,
+        "num": 307147,
+        "word": "张翰回应油腻",
+        "onboard_time": 1699953035,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403021,
+        "num": 306155,
+        "word": "娜扎电梯生图",
+        "onboard_time": 1699965509,
+        "rank": 19,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 347876,
+        "num": 305324,
+        "word": "刘亦菲新剧杀青给主创送LV",
+        "onboard_time": 1699967131,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325207,
+        "num": 303986,
+        "word": "郭帆有编制了",
+        "onboard_time": 1699965630,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303113,
+        "num": 303113,
+        "word": "4个瘦脚显腿长的动作",
+        "onboard_time": 1699967496,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 289454,
+        "num": 289454,
+        "word": "吴艳妮目标进入世界前八",
+        "onboard_time": 1699962572,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280921,
+        "num": 280921,
+        "word": "连续30天早睡1小时身体会有何变化",
+        "onboard_time": 1699967496,
+        "rank": 24,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 317132,
+        "num": 278025,
+        "word": "YG回应与BLACKPINK续约",
+        "onboard_time": 1699958733,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260174,
+        "num": 260174,
+        "word": "张遮姜雪宁私奔",
+        "onboard_time": 1699966713,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236564,
+        "num": 236564,
+        "word": "1020缅北到底发生了什么",
+        "onboard_time": 1699956996,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222044,
+        "num": 222044,
+        "word": "闪亮的西瓜",
+        "onboard_time": 1699967070,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176670,
+        "num": 176670,
+        "word": "Knight获得微博年度瞩目运动员",
+        "onboard_time": 1699962632,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219806,
+        "num": 173788,
+        "word": "姜雪宁谢危圆房",
+        "onboard_time": 1699951895,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197235,
+        "num": 171063,
+        "word": "盛宇新歌",
+        "onboard_time": 1699968394,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164678,
+        "num": 164678,
+        "word": "朴宰范威神V challenge",
+        "onboard_time": 1699965691,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156022,
+        "num": 156022,
+        "word": "缅北",
+        "onboard_time": 1699958733,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150844,
+        "num": 150844,
+        "word": "儿子考试进步4分妈妈奖励鸡腿",
+        "onboard_time": 1699956572,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148298,
+        "num": 148298,
+        "word": "Jennie50亿韩元购入高档别墅",
+        "onboard_time": 1699953213,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147645,
+        "num": 147645,
+        "word": "竞燃之夜红毯",
+        "onboard_time": 1699948773,
+        "rank": 36,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 146899,
+        "num": 146899,
+        "word": "孙丞潇父母知道女友是金莎后的反应",
+        "onboard_time": 1699960771,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123925,
+        "num": 145686,
+        "word": "这种上色在北魏起码要斩首的",
+        "onboard_time": 1699968093,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121475,
+        "num": 145093,
+        "word": "王自如 罗永浩",
+        "onboard_time": 1699968693,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144732,
+        "num": 144732,
+        "word": "谢娜林心如录节目ie立现",
+        "onboard_time": 1699963354,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137000,
+        "num": 137000,
+        "word": "张杰指导魏大勋唱歌",
+        "onboard_time": 1699966111,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131421,
+        "num": 131421,
+        "word": "RedVelvet34分钟KillingVoice",
+        "onboard_time": 1699963411,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126677,
+        "num": 126677,
+        "word": "九嶷山离职大礼包果然名不虚传",
+        "onboard_time": 1699964971,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126595,
+        "num": 126595,
+        "word": "张遮姜雪宁狱中定情",
+        "onboard_time": 1699968756,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121237,
+        "num": 121237,
+        "word": "张桂梅把她们送出了大山",
+        "onboard_time": 1699966351,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116888,
+        "num": 116888,
+        "word": "王自如采访",
+        "onboard_time": 1699968756,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112705,
+        "num": 112705,
+        "word": "Uzi限定西装造型",
+        "onboard_time": 1699964371,
+        "rank": 47,
+        "category": "电竞,时尚"
+      },
+      {
+        "raw_hot": 110950,
+        "num": 110950,
+        "word": "刘诗雯微博年度喜爱运动员",
+        "onboard_time": 1699964971,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45730,
+        "num": 110098,
+        "word": "iQOO12把竞燃之夜包圆了",
+        "onboard_time": 1699965210,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席旧金山之行#"
+    }
+  }
+}
