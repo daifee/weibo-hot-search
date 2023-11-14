@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699950097948,
+  "endTime": 1699950890044,
   "band_list": [
     {
       "raw_hot": 2923818,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1015712,
+      "num": 451350,
+      "word": "缅甸电诈家族遭打击后大批交人",
+      "onboard_time": 1699947755,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 992213,
       "num": 551792,
       "word": "缅甸电诈园区",
@@ -147,19 +155,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 945455,
-      "num": 417051,
-      "word": "缅甸电诈家族遭打击后大批交人",
-      "onboard_time": 1699947755,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 899636,
       "num": 899636,
       "word": "商丘妇幼保健院保健科原科长被判8年",
       "onboard_time": 1699931553,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882578,
+      "num": 882578,
+      "word": "香港一导盲犬在商场内晕倒去世",
+      "onboard_time": 1699948471,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823123,
+      "num": 823123,
+      "word": "孙怡被老刘傅首尔虐到哭",
+      "onboard_time": 1699946556,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 822971,
       "num": 822971,
       "word": "美甲好贵",
       "onboard_time": 1699943373,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 800596,
-      "num": 800596,
-      "word": "孙怡被老刘傅首尔虐到哭",
-      "onboard_time": 1699946556,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 787804,
@@ -256,6 +264,14 @@
       "word": "爱奇艺尖叫之夜第一波嘉宾名单",
       "onboard_time": 1699947096,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 690828,
+      "num": 435331,
+      "word": "王鹤棣闪现王彦霖婚礼",
+      "onboard_time": 1699950574,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -315,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 602928,
-      "num": 416009,
-      "word": "香港一导盲犬在商场内晕倒去世",
-      "onboard_time": 1699948471,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575056,
       "num": 575056,
       "word": "苹果公司将禁止摇一摇跳转广告",
@@ -377,6 +385,22 @@
       "onboard_time": 1699923995,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511838,
+      "num": 511838,
+      "word": "网易向国家市场监管总局举报雀巢",
+      "onboard_time": 1699946375,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 501012,
+      "num": 429114,
+      "word": "王安宇越憔悴我越兴奋",
+      "onboard_time": 1699949195,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 489776,
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363341,
-      "num": 363341,
-      "word": "网易向国家市场监管总局举报雀巢",
-      "onboard_time": 1699946375,
-      "rank": 39,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 359499,
       "num": 359499,
       "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
@@ -587,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340935,
-      "num": 340935,
-      "word": "王安宇越憔悴我越兴奋",
-      "onboard_time": 1699949195,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 341983,
+      "num": 341983,
+      "word": "法老的宠妃 再会亦不忘却往生",
+      "onboard_time": 1699949134,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 334011,
@@ -633,6 +649,14 @@
       "onboard_time": 1699938517,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314848,
+      "num": 314848,
+      "word": "中方相关人员已安全离开加沙",
+      "onboard_time": 1699949493,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 314010,
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 262732,
-      "num": 234458,
+      "num": 236163,
       "word": "柯佳嬿钝感",
       "onboard_time": 1699947696,
       "rank": 25,
@@ -827,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258252,
+      "num": 258252,
+      "word": "张译新片 假性血缘关系",
+      "onboard_time": 1699950093,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257242,
       "num": 257242,
       "word": "妻子被推出产房丈夫献花并深情亲吻",
@@ -841,6 +873,14 @@
       "onboard_time": 1699918886,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252772,
+      "num": 252772,
+      "word": "比冰美式还消肿的脸部按摩教程",
+      "onboard_time": 1699949973,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 250296,
@@ -859,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239410,
-      "num": 239410,
-      "word": "法老的宠妃 再会亦不忘却往生",
-      "onboard_time": 1699949134,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 238431,
       "num": 238431,
       "word": "光遇 先祖",
@@ -875,12 +907,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237616,
-      "num": 237616,
-      "word": "中方相关人员已安全离开加沙",
-      "onboard_time": 1699949493,
-      "rank": 24,
-      "category": "国外要闻"
+      "raw_hot": 235789,
+      "num": 235789,
+      "word": "雀巢回应被网易举报",
+      "onboard_time": 1699949012,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 235587,
@@ -929,14 +961,6 @@
       "onboard_time": 1699934314,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 221675,
-      "num": 221675,
-      "word": "雀巢回应被网易举报",
-      "onboard_time": 1699949012,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 217875,
@@ -1323,6 +1347,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 162750,
+      "num": 162750,
+      "word": "二皇子用一个滚解决两个人",
+      "onboard_time": 1699950454,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161588,
       "num": 161588,
       "word": "大张伟 其实你可以一生当一个小朋友",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1699932211,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157499,
+      "num": 157499,
+      "word": "马布里申请落户香港",
+      "onboard_time": 1699950513,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155790,
@@ -1531,14 +1571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125124,
-      "num": 125124,
-      "word": "比冰美式还消肿的脸部按摩教程",
-      "onboard_time": 1699949973,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 124944,
       "num": 124944,
       "word": "张艺兴一个人的相声",
@@ -1595,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119165,
+      "num": 119165,
+      "word": "无价之宝 成年人的难过",
+      "onboard_time": 1699950275,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118549,
       "num": 118549,
       "word": "drama Challenge",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1699878934,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112565,
+      "num": 112565,
+      "word": "专家回应临沂工地挖出巨石",
+      "onboard_time": 1699950154,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111687,
@@ -1672,6 +1720,14 @@
       "word": "南宁陈真跳江救起轻生女子",
       "onboard_time": 1699926992,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106077,
+      "num": 106077,
+      "word": "临沂工地巨石可作建筑材料",
+      "onboard_time": 1699950574,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

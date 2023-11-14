@@ -1,0 +1,410 @@
+{
+  "runTime": 1699950890044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1363364,
+        "num": 1363364,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1028375,
+        "num": 1028375,
+        "word": "沙特小哥认出迪丽热巴",
+        "onboard_time": 1699943495,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43848,
+        "num": 951004,
+        "word": "中国22项农业文化遗产图鉴",
+        "onboard_time": 1699945838,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882578,
+        "num": 882578,
+        "word": "香港一导盲犬在商场内晕倒去世",
+        "onboard_time": 1699948471,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823123,
+        "num": 823123,
+        "word": "孙怡被老刘傅首尔虐到哭",
+        "onboard_time": 1699946556,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617465,
+        "num": 617465,
+        "word": "爱奇艺尖叫之夜第一波嘉宾名单",
+        "onboard_time": 1699947096,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531798,
+        "num": 531798,
+        "word": "四川一地规定不叠被子罚10元",
+        "onboard_time": 1699945115,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511838,
+        "num": 511838,
+        "word": "网易向国家市场监管总局举报雀巢",
+        "onboard_time": 1699946375,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 456968,
+        "num": 456968,
+        "word": "美甲好贵",
+        "onboard_time": 1699943373,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 453669,
+        "num": 453669,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1699943433,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1015712,
+        "num": 451350,
+        "word": "缅甸电诈家族遭打击后大批交人",
+        "onboard_time": 1699947755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690828,
+        "num": 435331,
+        "word": "王鹤棣闪现王彦霖婚礼",
+        "onboard_time": 1699950574,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501012,
+        "num": 429114,
+        "word": "王安宇越憔悴我越兴奋",
+        "onboard_time": 1699949195,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400067,
+        "num": 400067,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 360531,
+        "num": 360531,
+        "word": "青山刚昌东野圭吾将对谈",
+        "onboard_time": 1699946255,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 350574,
+        "num": 350574,
+        "word": "竞燃之夜红毯",
+        "onboard_time": 1699948773,
+        "rank": 15,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 341983,
+        "num": 341983,
+        "word": "法老的宠妃 再会亦不忘却往生",
+        "onboard_time": 1699949134,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 314848,
+        "num": 314848,
+        "word": "中方相关人员已安全离开加沙",
+        "onboard_time": 1699949493,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 287285,
+        "num": 287285,
+        "word": "人民文娱点评宁安如梦女性角色",
+        "onboard_time": 1699945536,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273000,
+        "num": 273000,
+        "word": "贾乃亮双11总销售额超13.6亿",
+        "onboard_time": 1699939535,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277076,
+        "num": 270852,
+        "word": "七旬老汉户口本突然多了个10岁孙子",
+        "onboard_time": 1699946013,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268576,
+        "num": 268576,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258252,
+        "num": 258252,
+        "word": "张译新片 假性血缘关系",
+        "onboard_time": 1699950093,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256361,
+        "num": 256361,
+        "word": "俄军恢复对基辅导弹袭击",
+        "onboard_time": 1699946857,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 252772,
+        "num": 252772,
+        "word": "比冰美式还消肿的脸部按摩教程",
+        "onboard_time": 1699949973,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 236163,
+        "num": 236163,
+        "word": "柯佳嬿钝感",
+        "onboard_time": 1699947696,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235789,
+        "num": 235789,
+        "word": "雀巢回应被网易举报",
+        "onboard_time": 1699949012,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223970,
+        "num": 223970,
+        "word": "明学昌人设是缅甸德高望重的老领导",
+        "onboard_time": 1699948713,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220643,
+        "num": 220643,
+        "word": "罗英锡推荐文俊辉去西安旅游",
+        "onboard_time": 1699948471,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208082,
+        "num": 208082,
+        "word": "黄日华踢人",
+        "onboard_time": 1699942473,
+        "rank": 29,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 193794,
+        "num": 193794,
+        "word": "张雪峰为300名贫困生准备过冬羽绒服",
+        "onboard_time": 1699940974,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187394,
+        "num": 187394,
+        "word": "被通缉的4名缅北电诈头目涉嫌故意杀人",
+        "onboard_time": 1699943973,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187019,
+        "num": 187019,
+        "word": "苏小玎 今后严格规范自己的行为",
+        "onboard_time": 1699941394,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178449,
+        "num": 178449,
+        "word": "欧刚因支持WBG被T1赶出办公室",
+        "onboard_time": 1699935696,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172699,
+        "num": 172699,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168032,
+        "num": 168032,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163557,
+        "num": 163557,
+        "word": "网友吐槽麦当劳牛奶1杯23元",
+        "onboard_time": 1699941877,
+        "rank": 36,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 162750,
+        "num": 162750,
+        "word": "二皇子用一个滚解决两个人",
+        "onboard_time": 1699950454,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157499,
+        "num": 157499,
+        "word": "马布里申请落户香港",
+        "onboard_time": 1699950513,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152164,
+        "num": 152164,
+        "word": "BamBam说的重组方法",
+        "onboard_time": 1699946315,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143098,
+        "num": 143098,
+        "word": "缅北电诈明家覆灭在即",
+        "onboard_time": 1699937334,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142380,
+        "num": 142380,
+        "word": "一头野生亚洲象大摇大摆入境中国",
+        "onboard_time": 1699948055,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138545,
+        "num": 138545,
+        "word": "男教师养30只猫因患抑郁致2只离世",
+        "onboard_time": 1699940854,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128406,
+        "num": 128406,
+        "word": "惊奇队长2 骄傲的漫威",
+        "onboard_time": 1699945174,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125944,
+        "num": 125944,
+        "word": "金莎孙丞潇重现神话求婚名场面",
+        "onboard_time": 1699949374,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122738,
+        "num": 122738,
+        "word": "秦海璐鼓励迪丽热巴",
+        "onboard_time": 1699938159,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119165,
+        "num": 119165,
+        "word": "无价之宝 成年人的难过",
+        "onboard_time": 1699950275,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118270,
+        "num": 118270,
+        "word": "黄日华向贵州村超联队道歉",
+        "onboard_time": 1699945838,
+        "rank": 47,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 112565,
+        "num": 112565,
+        "word": "专家回应临沂工地挖出巨石",
+        "onboard_time": 1699950154,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106077,
+        "num": 106077,
+        "word": "临沂工地巨石可作建筑材料",
+        "onboard_time": 1699950574,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在华北大地留下温暖人心的足迹#"
+    }
+  }
+}
