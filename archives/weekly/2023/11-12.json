@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699990638642,
+  "endTime": 1699993054305,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -8721,6 +8721,14 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12601,
+      "num": 12601,
+      "word": "网购了件大衣穿上变成座山雕",
+      "onboard_time": 1699992673,
+      "rank": 43,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 11107,
