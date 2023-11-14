@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 06:33:57
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 07:18:10
 </p>
 </blockquote>
 <p>
@@ -6257,6 +6257,12 @@ T1粉丝在场馆外撒盐给T1祈祷（热度：586529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E6%97%A7%E9%87%91%E5%B1%B1%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
 #习主席旧金山之行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1%23%23" target="weibo">
+#习近平抵达美国旧金山#
 </a>
 </li>
 

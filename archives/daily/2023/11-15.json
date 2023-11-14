@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700001237027,
+  "endTime": 1700003890080,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -9,6 +9,14 @@
       "onboard_time": 1699974639,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1447785,
+      "num": 1447785,
+      "word": "中美元首会晤",
+      "onboard_time": 1699963591,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1032581,
@@ -28,19 +36,11 @@
     },
     {
       "raw_hot": 764101,
-      "num": 235924,
+      "num": 334632,
       "word": "董明珠 王自如",
       "onboard_time": 1699972837,
       "rank": 3,
       "category": "财经,网红"
-    },
-    {
-      "raw_hot": 692752,
-      "num": 692752,
-      "word": "中美元首会晤",
-      "onboard_time": 1699963591,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 664176,
@@ -49,6 +49,14 @@
       "onboard_time": 1699957115,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576511,
+      "num": 576511,
+      "word": "华人华侨在旧金山组成欢迎人群",
+      "onboard_time": 1700003363,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 537571,
@@ -64,6 +72,14 @@
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
       "onboard_time": 1699972776,
       "rank": 4,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 405507,
+      "num": 405507,
+      "word": "糖尿病前期无明显症状极易被忽视",
+      "onboard_time": 1699977212,
+      "rank": 21,
       "category": "健康医疗"
     },
     {
@@ -83,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282038,
-      "num": 260130,
-      "word": "糖尿病前期无明显症状极易被忽视",
-      "onboard_time": 1699977212,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 279983,
       "num": 230960,
       "word": "以色列总统之子在加沙地带战斗中失联",
@@ -105,6 +113,14 @@
       "onboard_time": 1699971157,
       "rank": 22,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 258036,
+      "num": 258036,
+      "word": "网购了件大衣穿上变成座山雕",
+      "onboard_time": 1699992673,
+      "rank": 43,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 254767,
@@ -163,20 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207141,
+      "num": 105576,
+      "word": "黑龙江五常市政务大厅整改",
+      "onboard_time": 1700000415,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198242,
+      "num": 234020,
+      "word": "花花呼呼大睡弟弟疯狂营业",
+      "onboard_time": 1699974038,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "张翰回应油腻",
       "onboard_time": 1699953035,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195748,
-      "num": 234020,
-      "word": "花花呼呼大睡弟弟疯狂营业",
-      "onboard_time": 1699974038,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182991,
@@ -201,6 +225,14 @@
       "onboard_time": 1699967496,
       "rank": 27,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 171644,
+      "num": 171644,
+      "word": "男子突然倒地2身着藏装姑娘跪地救人",
+      "onboard_time": 1699979904,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166511,
@@ -249,6 +281,14 @@
       "onboard_time": 1699967433,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144579,
+      "num": 144579,
+      "word": "1700元的林清轩香水下架",
+      "onboard_time": 1699982779,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 132812,
@@ -307,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117783,
+      "num": 96474,
+      "word": "秦海璐丢了辛芷蕾的伞",
+      "onboard_time": 1699998434,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115291,
       "num": 115291,
       "word": "钟楚曦白色侧开叉旗袍",
@@ -323,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112803,
-      "num": 42484,
-      "word": "网购了件大衣穿上变成座山雕",
-      "onboard_time": 1699992673,
-      "rank": 43,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "周到 你们要的莎",
@@ -339,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108416,
-      "num": 162407,
-      "word": "男子突然倒地2身着藏装姑娘跪地救人",
-      "onboard_time": 1699979904,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 110566,
+      "num": 110566,
+      "word": "张遮姜雪宁第一世",
+      "onboard_time": 1699971455,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 108006,
@@ -361,14 +401,6 @@
       "onboard_time": 1699968756,
       "rank": 41,
       "category": "数码,网红"
-    },
-    {
-      "raw_hot": 101069,
-      "num": 101069,
-      "word": "张遮姜雪宁第一世",
-      "onboard_time": 1699971455,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 98746,
@@ -395,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93052,
-      "num": 93052,
-      "word": "1700元的林清轩香水下架",
-      "onboard_time": 1699982779,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 82780,
       "num": 97641,
       "word": "竞燃之夜",
@@ -427,20 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77188,
+      "num": 77188,
+      "word": "知情人回应河南武陟一中学踩踏事件",
+      "onboard_time": 1700003722,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76659,
+      "num": 76659,
+      "word": "TFBOYS登腾讯音乐财报",
+      "onboard_time": 1700002942,
+      "rank": 28,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 75873,
       "num": 97606,
       "word": "孙颖莎虽迟但到",
       "onboard_time": 1699963050,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59665,
-      "num": 40830,
-      "word": "秦海璐丢了辛芷蕾的伞",
-      "onboard_time": 1699998434,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 56917,
@@ -451,12 +483,28 @@
       "category": "剧集,时尚"
     },
     {
-      "raw_hot": 46418,
-      "num": 39894,
-      "word": "黑龙江五常市政务大厅整改",
-      "onboard_time": 1700000415,
-      "rank": 21,
+      "raw_hot": 56639,
+      "num": 56639,
+      "word": "陈伟霆这花衬衫是一百三件吗",
+      "onboard_time": 1699985120,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 54116,
+      "num": 54116,
+      "word": "雨润优选回应员工用嘴给肉剔骨",
+      "onboard_time": 1699995433,
+      "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52916,
+      "num": 52916,
+      "word": "杨玏不愧是西岐长子",
+      "onboard_time": 1699988175,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 41685,
@@ -483,11 +531,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28361,
-      "num": 28361,
-      "word": "雨润优选回应员工用嘴给肉剔骨",
-      "onboard_time": 1699995433,
-      "rank": 36,
+      "raw_hot": 30237,
+      "num": 437480,
+      "word": "中欧班列跑出亮眼成绩单",
+      "onboard_time": 1699968332,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -499,36 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25631,
-      "num": 25631,
-      "word": "陈伟霆这花衬衫是一百三件吗",
-      "onboard_time": 1699985120,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 21740,
-      "num": 21740,
-      "word": "杨玏不愧是西岐长子",
-      "onboard_time": 1699988175,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17600,
       "num": 20425,
       "word": "凭一道菜就出圈的重庆火锅",
       "onboard_time": 1699994113,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11689,
-      "num": 233913,
-      "word": "中欧班列跑出亮眼成绩单",
-      "onboard_time": 1699968332,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -537,6 +561,9 @@
     },
     {
       "word": "#习主席旧金山之行#"
+    },
+    {
+      "word": "#习近平抵达美国旧金山#"
     }
   ]
 }
