@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699976063235,
+  "endTime": 1699978776709,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -115,6 +115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2325083,
+      "num": 339810,
+      "word": "中传着火",
+      "onboard_time": 1699974639,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2298713,
       "num": 2298713,
       "word": "电诈头目明学昌家族工地发现两具尸体",
@@ -136,14 +144,6 @@
       "word": "多国爆发床虱危机",
       "onboard_time": 1699793556,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2020851,
-      "num": 339810,
-      "word": "中传着火",
-      "onboard_time": 1699974639,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -745,6 +745,14 @@
       "onboard_time": 1699777709,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1032581,
+      "num": 286428,
+      "word": "河南一中学发生踩踏事件致1死5伤",
+      "onboard_time": 1699975715,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1015712,
@@ -3011,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340770,
+      "num": 231613,
+      "word": "于适红发",
+      "onboard_time": 1699976854,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 340340,
       "num": 340340,
       "word": "吴楚一开始带货了",
@@ -3025,14 +3041,6 @@
       "onboard_time": 1699759170,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339860,
-      "num": 286428,
-      "word": "河南一中学发生踩踏事件致1死5伤",
-      "onboard_time": 1699975715,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 339566,
@@ -3483,6 +3491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 296962,
+      "num": 231409,
+      "word": "时宴掉马",
+      "onboard_time": 1699975956,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295078,
       "num": 295078,
       "word": "倪妮 暗夜女爵",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1699846531,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282038,
+      "num": 221857,
+      "word": "糖尿病前期无明显症状极易被忽视",
+      "onboard_time": 1699977212,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 281235,
@@ -7235,6 +7259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131156,
+      "num": 131156,
+      "word": "谁家发烧用冻鱼退烧",
+      "onboard_time": 1699977570,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131060,
       "num": 131060,
       "word": "这饭包到底是谁在吃啊",
@@ -7577,14 +7609,6 @@
       "onboard_time": 1699752511,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120076,
-      "num": 143230,
-      "word": "时宴掉马",
-      "onboard_time": 1699975956,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 119956,
@@ -8129,6 +8153,14 @@
       "onboard_time": 1699916841,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98746,
+      "num": 98746,
+      "word": "enhypen新专预告",
+      "onboard_time": 1699977810,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 97879,
