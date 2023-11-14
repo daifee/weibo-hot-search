@@ -1,0 +1,410 @@
+{
+  "runTime": 1699932875821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247606,
+        "num": 1247606,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166023,
+        "num": 1166023,
+        "word": "两所高校官宣共用一扇校门",
+        "onboard_time": 1699928976,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11308,
+        "num": 957011,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952126,
+        "num": 952126,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 899636,
+        "num": 899636,
+        "word": "商丘妇幼保健院保健科原科长被判8年",
+        "onboard_time": 1699931553,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657097,
+        "num": 657097,
+        "word": "叶剑英元帅夫人吴博逝世",
+        "onboard_time": 1699926512,
+        "rank": 5,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 536165,
+        "num": 536165,
+        "word": "姜雪宁 姐宝女",
+        "onboard_time": 1699931133,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444931,
+        "num": 444931,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796051,
+        "num": 428328,
+        "word": "缅甸电诈园区",
+        "onboard_time": 1699930173,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405417,
+        "num": 405417,
+        "word": "七宗罪PDF当事人方某已去世",
+        "onboard_time": 1699926153,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979209,
+        "num": 401449,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810683,
+        "num": 399781,
+        "word": "亨利集团",
+        "onboard_time": 1699922734,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524715,
+        "num": 396332,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390759,
+        "num": 390759,
+        "word": "KPOP炸裂周边 成员脸面膜",
+        "onboard_time": 1699930532,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 360701,
+        "num": 360701,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 344466,
+        "num": 344466,
+        "word": "23岁女生工地当包工头",
+        "onboard_time": 1699923995,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319797,
+        "num": 319797,
+        "word": "小学生偷拿100元请客被妈妈带到派出所",
+        "onboard_time": 1699927891,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316573,
+        "num": 316573,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304474,
+        "num": 304474,
+        "word": "十个勤天 去年今日",
+        "onboard_time": 1699928011,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297022,
+        "num": 297022,
+        "word": "假如孟宴臣和秦明是室友",
+        "onboard_time": 1699929872,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425550,
+        "num": 285026,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 264933,
+        "num": 264933,
+        "word": "很多胃癌是吃出来",
+        "onboard_time": 1699920091,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219656,
+        "num": 219656,
+        "word": "陈楚生不唱跳的原因",
+        "onboard_time": 1699928377,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196289,
+        "num": 196289,
+        "word": "玉骨遥的美是如何拍出来的",
+        "onboard_time": 1699923333,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193740,
+        "num": 193740,
+        "word": "普尔耍大牌",
+        "onboard_time": 1699927891,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193550,
+        "num": 193550,
+        "word": "莲花楼爱奇艺站内分涨至9.3",
+        "onboard_time": 1699928849,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177438,
+        "num": 177438,
+        "word": "恋与深空 内测玩家",
+        "onboard_time": 1699932631,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175653,
+        "num": 175653,
+        "word": "狐狸罐罐胖成萨摩耶同伴笑声太魔性",
+        "onboard_time": 1699930710,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169187,
+        "num": 169187,
+        "word": "我恋5窒息男嘉宾否认有剧本",
+        "onboard_time": 1699928313,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166002,
+        "num": 166002,
+        "word": "被狗咬伤女童住院花费8万余元",
+        "onboard_time": 1699932272,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172410,
+        "num": 164705,
+        "word": "vivoX100首发开箱测评",
+        "onboard_time": 1699929392,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163191,
+        "num": 163191,
+        "word": "谁在资助缅北果敢同盟军",
+        "onboard_time": 1699920810,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160579,
+        "num": 160579,
+        "word": "有一个好的睡眠是多么的重要",
+        "onboard_time": 1699932211,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152976,
+        "num": 152976,
+        "word": "以称哈马斯已失去对加沙地带控制",
+        "onboard_time": 1699925192,
+        "rank": 33,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 146870,
+        "num": 146870,
+        "word": "小肚腩很难再松垮了",
+        "onboard_time": 1699930410,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146200,
+        "num": 146200,
+        "word": "cityline try累了",
+        "onboard_time": 1699929091,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143347,
+        "num": 143347,
+        "word": "刘诗诗刘宇宁 你好星期六",
+        "onboard_time": 1699919670,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132982,
+        "num": 132982,
+        "word": "网友吐槽政务大厅全天工作6个小时",
+        "onboard_time": 1699886735,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128818,
+        "num": 128818,
+        "word": "知情人证实缅北电诈成员劝降视频属实",
+        "onboard_time": 1699919791,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127888,
+        "num": 127888,
+        "word": "张遮底色 虐到极致",
+        "onboard_time": 1699922554,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127164,
+        "num": 127164,
+        "word": "医生用传统正骨法帮73岁骨折老人瞬间复位",
+        "onboard_time": 1699927835,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123090,
+        "num": 123090,
+        "word": "八一飞行表演队亮相迪拜航展",
+        "onboard_time": 1699932331,
+        "rank": 41,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 119284,
+        "num": 119284,
+        "word": "82岁那年他9天3潜南海",
+        "onboard_time": 1699928073,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104696,
+        "num": 104696,
+        "word": "防胃癌这5种要少吃不吃",
+        "onboard_time": 1699890093,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103238,
+        "num": 103238,
+        "word": "drama Challenge",
+        "onboard_time": 1699930173,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102932,
+        "num": 102932,
+        "word": "猫妈妈传授狩猎人类的技巧",
+        "onboard_time": 1699929453,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101001,
+        "num": 101001,
+        "word": "被演戏耽误的实力歌手",
+        "onboard_time": 1699925252,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100492,
+        "num": 100492,
+        "word": "1020事件",
+        "onboard_time": 1699868070,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92792,
+        "num": 92792,
+        "word": "朴彩英新发色",
+        "onboard_time": 1699890690,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91536,
+        "num": 91536,
+        "word": "韩庚兑现前任4票房flag",
+        "onboard_time": 1699918886,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图速览什么是APEC#"
+    }
+  }
+}

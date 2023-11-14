@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 11:18:15
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/14 11:34:35
 </p>
 </blockquote>
 <p>
@@ -2073,6 +2073,12 @@ JDG晋级S13四强（热度：1251728）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E5%87%BA%E9%99%A2%23" target="weibo">
+成都被狗咬伤女童已出院（热度：1247606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E4%B8%8E%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E6%9D%A1%E7%A0%81%E6%94%AF%E4%BB%98%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%23" target="weibo">
 微信支付与三大运营商条码支付互联互通（热度：1246840）
 </a>
@@ -2291,6 +2297,12 @@ WBG与BLG决胜局（热度：1169427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E6%8E%A7%E8%AF%89%E5%8D%8E%E6%99%A8%E5%AE%87%23" target="weibo">
 关晓彤王牌控诉华晨宇（热度：1166067）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%85%B1%E7%94%A8%E4%B8%80%E6%89%87%E6%A0%A1%E9%97%A8%23" target="weibo">
+两所高校官宣共用一扇校门（热度：1166023）
 </a>
 </li>
 
@@ -3003,12 +3015,6 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%85%B1%E7%94%A8%E4%B8%80%E6%89%87%E6%A0%A1%E9%97%A8%23" target="weibo">
-两所高校官宣共用一扇校门（热度：949872）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%23" target="weibo">
 消费降级（热度：944456）
 </a>
@@ -3137,6 +3143,12 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%B6%89%E4%BA%8B%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%E5%8A%A0%E7%9B%9F%E5%BA%97%E5%B7%B2%E8%A2%AB%E6%9F%A5%E5%B0%81%23" target="weibo">
 张家界涉事正新鸡排加盟店已被查封（热度：901920）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E4%B8%98%E5%A6%87%E5%B9%BC%E4%BF%9D%E5%81%A5%E9%99%A2%E4%BF%9D%E5%81%A5%E7%A7%91%E5%8E%9F%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4%23" target="weibo">
+商丘妇幼保健院保健科原科长被判8年（热度：899636）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Chovy 遗憾（热度：565893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%98%E5%9C%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E9%99%88%E6%85%A7%E6%85%A7%E5%B7%B2%E6%88%90%E5%8A%9F%E6%92%A4%E7%A6%BB%23" target="weibo">
 中国战地女记者陈慧慧已成功撤离（热度：558455）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%AD%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%80%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84%23" target="weibo">
-为什么哭久了会一抽一抽的（热度：558255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E6%88%91%E5%8F%AF%E4%BB%A5%E5%B8%AE%E4%BD%A0%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%84%BF%E6%9C%9B%23" target="weibo">
-张馨予 我可以帮你实现一个愿望（热度：558169）
 </a>
 </li>
 
