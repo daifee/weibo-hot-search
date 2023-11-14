@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1699979665323,
+  "endTime": 1699982067769,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -35,20 +35,20 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 692752,
+      "num": 692752,
+      "word": "中美元首会晤",
+      "onboard_time": 1699963591,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 664176,
       "num": 232436,
       "word": "缅北电诈家族曾邀请国内明星网红庆生",
       "onboard_time": 1699957115,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 599626,
-      "num": 599626,
-      "word": "中美元首会晤",
-      "onboard_time": 1699963591,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 537571,
@@ -203,6 +203,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 166511,
+      "num": 166511,
+      "word": "谁家发烧用冻鱼退烧",
+      "onboard_time": 1699977570,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156071,
       "num": 156071,
       "word": "1020缅北到底发生了什么",
@@ -211,19 +219,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155584,
+      "num": 155584,
+      "word": "倪妮开叉裙高筒袜",
+      "onboard_time": 1699979008,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155578,
       "num": 234555,
       "word": "以爱为营预告",
       "onboard_time": 1699965509,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152109,
-      "num": 152109,
-      "word": "谁家发烧用冻鱼退烧",
-      "onboard_time": 1699977570,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -275,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122712,
-      "num": 122712,
-      "word": "倪妮开叉裙高筒袜",
-      "onboard_time": 1699979008,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121526,
       "num": 121526,
       "word": "叶璇分析血色恋情暴力事件",
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 120921,
-      "num": 120921,
+      "num": 162833,
       "word": "够了 老子心疼罐罐",
       "onboard_time": 1699973676,
       "rank": 36,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90533,
+      "num": 162407,
+      "word": "男子突然倒地2身着藏装姑娘跪地救人",
+      "onboard_time": 1699979904,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82780,
       "num": 97641,
       "word": "竞燃之夜",
@@ -417,6 +425,14 @@
       "onboard_time": 1699965509,
       "rank": 47,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 41306,
+      "num": 53866,
+      "word": "70kg广君 策划",
+      "onboard_time": 1699974335,
+      "rank": 48,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

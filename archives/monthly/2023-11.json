@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699979665323,
+  "endTime": 1699982067769,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -28963,6 +28963,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 166511,
+      "num": 166511,
+      "word": "谁家发烧用冻鱼退烧",
+      "onboard_time": 1699977570,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166493,
       "num": 166493,
       "word": "许凯景甜sosweet",
@@ -30331,6 +30339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155584,
+      "num": 155584,
+      "word": "倪妮开叉裙高筒袜",
+      "onboard_time": 1699979008,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155492,
       "num": 155492,
       "word": "WBG对战BLG 比分预测",
@@ -30784,14 +30800,6 @@
       "word": "阿母的巴掌从星汉扇到了乐游原",
       "onboard_time": 1699068451,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152109,
-      "num": 152109,
-      "word": "谁家发烧用冻鱼退烧",
-      "onboard_time": 1699977570,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -34627,14 +34635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122712,
-      "num": 122712,
-      "word": "倪妮开叉裙高筒袜",
-      "onboard_time": 1699979008,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 122612,
       "num": 122612,
       "word": "校方通报天津助学金事件调查情况",
@@ -37249,6 +37249,14 @@
       "onboard_time": 1699092810,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90533,
+      "num": 162407,
+      "word": "男子突然倒地2身着藏装姑娘跪地救人",
+      "onboard_time": 1699979904,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90289,
