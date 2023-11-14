@@ -1,0 +1,410 @@
+{
+  "runTime": 1699943771342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229735,
+        "num": 1229735,
+        "word": "贾乃亮双11总销售额超13.6亿",
+        "onboard_time": 1699939535,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839369,
+        "num": 839369,
+        "word": "当地回应网传长春一农妇生育十个孩子",
+        "onboard_time": 1699940435,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4392,
+        "num": 750272,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698429,
+        "num": 698429,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 514749,
+        "num": 514749,
+        "word": "黄日华踢人",
+        "onboard_time": 1699942473,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 506168,
+        "num": 506168,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451102,
+        "num": 451102,
+        "word": "金莎不想在婚礼上唱星月神话",
+        "onboard_time": 1699939535,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420333,
+        "num": 420333,
+        "word": "网友吐槽麦当劳牛奶1杯23元",
+        "onboard_time": 1699941877,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390216,
+        "num": 390216,
+        "word": "张雪峰为300名贫困生准备过冬羽绒服",
+        "onboard_time": 1699940974,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357964,
+        "num": 357964,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1839622,
+        "num": 356397,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1409265,
+        "num": 337080,
+        "word": "苏小玎 今后严格规范自己的行为",
+        "onboard_time": 1699941394,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736273,
+        "num": 332087,
+        "word": "缅北电诈明家覆灭在即",
+        "onboard_time": 1699937334,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490533,
+        "num": 322011,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8864,
+        "num": 307963,
+        "word": "糖尿病会腐蚀哪些器官",
+        "onboard_time": 1699941636,
+        "rank": 14,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 413648,
+        "num": 296676,
+        "word": "秦海璐鼓励迪丽热巴",
+        "onboard_time": 1699938159,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295078,
+        "num": 295078,
+        "word": "倪妮 暗夜女爵",
+        "onboard_time": 1699941877,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283146,
+        "num": 283146,
+        "word": "B太大连鬼秤破解实锤",
+        "onboard_time": 1699935817,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242597,
+        "num": 242597,
+        "word": "美甲好贵",
+        "onboard_time": 1699943373,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 236512,
+        "num": 236512,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331063,
+        "num": 235840,
+        "word": "男教师养30只猫因患抑郁致2只离世",
+        "onboard_time": 1699940854,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286700,
+        "num": 233419,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1699943433,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230877,
+        "num": 230877,
+        "word": "100家银行证实花呗上征信不影响房贷",
+        "onboard_time": 1699936657,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 218614,
+        "num": 218614,
+        "word": "沙特小哥认出迪丽热巴",
+        "onboard_time": 1699943495,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218574,
+        "num": 218574,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206951,
+        "num": 206951,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204951,
+        "num": 204951,
+        "word": "优酷你就这么宣传佘诗曼吗",
+        "onboard_time": 1699939415,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199093,
+        "num": 199093,
+        "word": "奚梦瑶何猷君偶像剧照进现实",
+        "onboard_time": 1699942773,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197459,
+        "num": 197459,
+        "word": "揭秘缅北电诈园区黑监狱",
+        "onboard_time": 1699936175,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188589,
+        "num": 188589,
+        "word": "花42元和6个美女谈恋爱值不值",
+        "onboard_time": 1699943433,
+        "rank": 29,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 177119,
+        "num": 177119,
+        "word": "Homme预测T1夺冠",
+        "onboard_time": 1699940554,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159228,
+        "num": 159228,
+        "word": "欧刚因支持WBG被T1赶出办公室",
+        "onboard_time": 1699935696,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157741,
+        "num": 157741,
+        "word": "邝肖卿成为中国女首富",
+        "onboard_time": 1699941814,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155733,
+        "num": 155733,
+        "word": "漫画了解糖尿病是怎么患上的",
+        "onboard_time": 1699941335,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154599,
+        "num": 154599,
+        "word": "许凯一本正经说密逃有剧本",
+        "onboard_time": 1699938517,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152105,
+        "num": 152105,
+        "word": "小米华为销量同比增长超4成",
+        "onboard_time": 1699937739,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151745,
+        "num": 151745,
+        "word": "再见爱人",
+        "onboard_time": 1699940136,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143006,
+        "num": 143006,
+        "word": "霍格沃茨学院香水",
+        "onboard_time": 1699936475,
+        "rank": 37,
+        "category": "美妆,电影"
+      },
+      {
+        "raw_hot": 139332,
+        "num": 139332,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 137451,
+        "word": "宁安如梦",
+        "onboard_time": 1699939895,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134580,
+        "num": 134580,
+        "word": "我们只是做了一名大学生应该做的事",
+        "onboard_time": 1699942354,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 131428,
+        "num": 131428,
+        "word": "辛芷蕾花少能圈粉的原因",
+        "onboard_time": 1699938697,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124183,
+        "num": 124183,
+        "word": "那些今年爆火的小说",
+        "onboard_time": 1699939956,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 123817,
+        "num": 123817,
+        "word": "童瑶 部落公主",
+        "onboard_time": 1699938875,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121477,
+        "num": 121477,
+        "word": "虞书欣花老板上班了",
+        "onboard_time": 1699934375,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 116297,
+        "num": 116297,
+        "word": "缅甸电诈园区",
+        "onboard_time": 1699930173,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 113616,
+        "word": "我们恋爱吧5全员坦白局",
+        "onboard_time": 1699939833,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111310,
+        "num": 111310,
+        "word": "男生1秒跳9.2次破纪录夺冠",
+        "onboard_time": 1699933293,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105364,
+        "num": 105364,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104162,
+        "num": 104162,
+        "word": "室内是音综 室外是恋综",
+        "onboard_time": 1699939717,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}

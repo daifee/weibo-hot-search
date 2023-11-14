@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699942993378,
+  "endTime": 1699943771342,
   "band_list": [
     {
       "raw_hot": 2923818,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1222494,
-      "num": 1222494,
+      "raw_hot": 1229735,
+      "num": 1229735,
       "word": "贾乃亮双11总销售额超13.6亿",
       "onboard_time": 1699939535,
       "rank": 20,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 556894,
-      "num": 321971,
+      "num": 322011,
       "word": "刘亦菲 上海",
       "onboard_time": 1699939472,
       "rank": 19,
@@ -305,6 +305,14 @@
       "onboard_time": 1699923995,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514749,
+      "num": 514749,
+      "word": "黄日华踢人",
+      "onboard_time": 1699942473,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 487548,
@@ -347,6 +355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 420333,
+      "num": 420333,
+      "word": "网友吐槽麦当劳牛奶1杯23元",
+      "onboard_time": 1699941877,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 409070,
       "num": 409070,
       "word": "张遮底色 虐到极致",
@@ -379,6 +395,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 390216,
+      "num": 390216,
+      "word": "张雪峰为300名贫困生准备过冬羽绒服",
+      "onboard_time": 1699940974,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386065,
       "num": 348550,
       "word": "小学生偷拿100元请客被妈妈带到派出所",
@@ -409,14 +433,6 @@
       "onboard_time": 1699923333,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371857,
-      "num": 371857,
-      "word": "网友吐槽麦当劳牛奶1杯23元",
-      "onboard_time": 1699941877,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 359499,
@@ -515,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307129,
-      "num": 307129,
-      "word": "张雪峰为300名贫困生准备过冬羽绒服",
-      "onboard_time": 1699940974,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306481,
       "num": 244673,
       "word": "防胃癌这5种要少吃不吃",
@@ -579,6 +587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 295078,
+      "num": 295078,
+      "word": "倪妮 暗夜女爵",
+      "onboard_time": 1699941877,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289502,
       "num": 289502,
       "word": "经常熬夜久坐患糖尿病几率大",
@@ -603,20 +619,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 283400,
-      "num": 283400,
-      "word": "倪妮 暗夜女爵",
-      "onboard_time": 1699941877,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 282265,
-      "num": 282265,
-      "word": "黄日华踢人",
-      "onboard_time": 1699942473,
-      "rank": 18,
-      "category": "艺人,体育"
+      "raw_hot": 286700,
+      "num": 233419,
+      "word": "酱园弄 杨幂",
+      "onboard_time": 1699943433,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 280317,
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242597,
+      "num": 242597,
+      "word": "美甲好贵",
+      "onboard_time": 1699943373,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 238431,
       "num": 238431,
       "word": "光遇 先祖",
@@ -753,6 +769,14 @@
       "onboard_time": 1699934314,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218614,
+      "num": 218614,
+      "word": "沙特小哥认出迪丽热巴",
+      "onboard_time": 1699943495,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 217875,
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199093,
+      "num": 199093,
+      "word": "奚梦瑶何猷君偶像剧照进现实",
+      "onboard_time": 1699942773,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198903,
       "num": 198903,
       "word": "APEC前夕旧金山8000流浪汉一夜消失",
@@ -929,6 +961,14 @@
       "onboard_time": 1699932631,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188589,
+      "num": 188589,
+      "word": "花42元和6个美女谈恋爱值不值",
+      "onboard_time": 1699943433,
+      "rank": 29,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 187937,
@@ -1099,14 +1139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 157687,
-      "num": 157687,
-      "word": "奚梦瑶何猷君偶像剧照进现实",
-      "onboard_time": 1699942773,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154062,
       "num": 154062,
       "word": "如果有人在地铁突然放下手机",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1699934072,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151745,
+      "num": 151745,
+      "word": "再见爱人",
+      "onboard_time": 1699940136,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 146870,
@@ -1211,20 +1251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134580,
+      "num": 134580,
+      "word": "我们只是做了一名大学生应该做的事",
+      "onboard_time": 1699942354,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 133256,
       "num": 133256,
       "word": "TGA最佳手游提名",
       "onboard_time": 1699927593,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132910,
-      "num": 132910,
-      "word": "再见爱人",
-      "onboard_time": 1699940136,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 131375,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1699925674,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114767,
-      "num": 114767,
-      "word": "我们只是做了一名大学生应该做的事",
-      "onboard_time": 1699942354,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 113003,
