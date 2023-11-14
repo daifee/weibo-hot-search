@@ -1,0 +1,410 @@
+{
+  "runTime": 1699957171547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1637544,
+        "num": 1637544,
+        "word": "张翰回应油腻",
+        "onboard_time": 1699953035,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 510180,
+        "num": 583497,
+        "word": "渐冻人蔡磊激动试用人工喉",
+        "onboard_time": 1699953337,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36018,
+        "num": 540000,
+        "word": "朝着构建亚太命运共同体不断迈进",
+        "onboard_time": 1699951536,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 533958,
+        "num": 533958,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325369,
+        "num": 532533,
+        "word": "两位唐氏孩子妈妈用20年互相治愈",
+        "onboard_time": 1699954417,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1766748,
+        "num": 532317,
+        "word": "联合国总部降半旗",
+        "onboard_time": 1699952914,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 315027,
+        "num": 531827,
+        "word": "凌晨5点车灯一开照出2只大熊猫",
+        "onboard_time": 1699953395,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531669,
+        "num": 531669,
+        "word": "孙颖莎什么时候出现",
+        "onboard_time": 1699956274,
+        "rank": 7,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 378002,
+        "num": 378002,
+        "word": "刘诗雯红毯生图",
+        "onboard_time": 1699952016,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375349,
+        "num": 375349,
+        "word": "369赛后发文",
+        "onboard_time": 1699951294,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 870738,
+        "num": 373961,
+        "word": "孙菲菲公开暴力事件最新进展",
+        "onboard_time": 1699954357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552684,
+        "num": 373236,
+        "word": "Jennie50亿韩元购入高档别墅",
+        "onboard_time": 1699953213,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548097,
+        "num": 370036,
+        "word": "缅甸电诈家族遭打击后大批交人",
+        "onboard_time": 1699947755,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546020,
+        "num": 369435,
+        "word": "姜雪宁谢危圆房",
+        "onboard_time": 1699951895,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413317,
+        "num": 367632,
+        "word": "韩安冉采访",
+        "onboard_time": 1699955736,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 365987,
+        "num": 365987,
+        "word": "沙特小哥认出迪丽热巴",
+        "onboard_time": 1699943495,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365545,
+        "num": 365545,
+        "word": "三明治定妆法",
+        "onboard_time": 1699952254,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 326850,
+        "num": 326850,
+        "word": "不建议自行给孩子吃阿奇霉素",
+        "onboard_time": 1699953702,
+        "rank": 17,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 306077,
+        "num": 306077,
+        "word": "孙怡被老刘傅首尔虐到哭",
+        "onboard_time": 1699946556,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273750,
+        "num": 273750,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259094,
+        "num": 259094,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1699943433,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252697,
+        "num": 252697,
+        "word": "四川一地规定不叠被子罚10元",
+        "onboard_time": 1699945115,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236728,
+        "num": 236728,
+        "word": "管泽元余霜一起走红毯了",
+        "onboard_time": 1699955135,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233892,
+        "num": 233892,
+        "word": "刘德华内地巡演",
+        "onboard_time": 1699954714,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 230648,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227927,
+        "num": 227927,
+        "word": "爱奇艺尖叫之夜第一波嘉宾名单",
+        "onboard_time": 1699947096,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225272,
+        "num": 225272,
+        "word": "吉克隽逸 金色雅典娜",
+        "onboard_time": 1699956274,
+        "rank": 26,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 219818,
+        "num": 219818,
+        "word": "LPL选手红毯西装杀",
+        "onboard_time": 1699954956,
+        "rank": 27,
+        "category": "电竞,时尚"
+      },
+      {
+        "raw_hot": 218808,
+        "num": 218808,
+        "word": "邓为仙台有树白发",
+        "onboard_time": 1699952554,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188499,
+        "num": 188499,
+        "word": "美甲好贵",
+        "onboard_time": 1699943373,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 204929,
+        "num": 188457,
+        "word": "刘诗雯 姐换了鞋健步如飞",
+        "onboard_time": 1699956934,
+        "rank": 30,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 193062,
+        "num": 187988,
+        "word": "花少5 人际和工作之间的统筹链接关系",
+        "onboard_time": 1699953815,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189408,
+        "num": 187885,
+        "word": "SEVENTEEN联合国演讲活动照",
+        "onboard_time": 1699956755,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187329,
+        "num": 187329,
+        "word": "迪丽热巴 看我甜不甜",
+        "onboard_time": 1699952133,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185131,
+        "num": 185131,
+        "word": "竞燃之夜红毯",
+        "onboard_time": 1699948773,
+        "rank": 34,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 179948,
+        "num": 179948,
+        "word": "香港一导盲犬在商场内晕倒去世",
+        "onboard_time": 1699948471,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179606,
+        "num": 179606,
+        "word": "秦海璐姐夫知道这事吗",
+        "onboard_time": 1699954059,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173438,
+        "num": 173438,
+        "word": "官方回应村民不洗碗筷将被罚款10元",
+        "onboard_time": 1699952797,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169538,
+        "num": 169538,
+        "word": "蔡亨源入伍",
+        "onboard_time": 1699954475,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160727,
+        "num": 160727,
+        "word": "KPOP中文卡背大赏",
+        "onboard_time": 1699954235,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157985,
+        "num": 157985,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153416,
+        "num": 153416,
+        "word": "姜雪宁借谢危除掉后患",
+        "onboard_time": 1699956516,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148836,
+        "num": 148836,
+        "word": "渐冻人蔡磊回应首次用药有效",
+        "onboard_time": 1699955795,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138186,
+        "num": 138186,
+        "word": "儿子考试进步4分妈妈奖励鸡腿",
+        "onboard_time": 1699956572,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133427,
+        "num": 133427,
+        "word": "1020缅北到底发生了什么",
+        "onboard_time": 1699956996,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122713,
+        "num": 122713,
+        "word": "杭州一大伯频频种出巨无霸蔬菜",
+        "onboard_time": 1699956457,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118691,
+        "num": 118691,
+        "word": "法老的宠妃 再会亦不忘却往生",
+        "onboard_time": 1699949134,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116739,
+        "num": 116739,
+        "word": "苏小玎 今后严格规范自己的行为",
+        "onboard_time": 1699941394,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115372,
+        "num": 115372,
+        "word": "王安宇越憔悴我越兴奋",
+        "onboard_time": 1699949195,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105761,
+        "num": 105761,
+        "word": "网易向国家市场监管总局举报雀巢",
+        "onboard_time": 1699946375,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#时时放心不下的牵挂#"
+    }
+  }
+}

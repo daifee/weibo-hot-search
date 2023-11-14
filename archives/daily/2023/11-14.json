@@ -1,6 +1,6 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699954471342,
+  "endTime": 1699957171547,
   "band_list": [
     {
       "raw_hot": 2923818,
@@ -17,6 +17,14 @@
       "onboard_time": 1699937438,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1766748,
+      "num": 532317,
+      "word": "联合国总部降半旗",
+      "onboard_time": 1699952914,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1762976,
@@ -163,16 +171,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 943348,
-      "num": 524939,
-      "word": "联合国总部降半旗",
-      "onboard_time": 1699952914,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 931542,
-      "num": 346057,
+      "num": 369435,
       "word": "姜雪宁谢危圆房",
       "onboard_time": 1699951895,
       "rank": 10,
@@ -193,6 +193,14 @@
       "onboard_time": 1699948471,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870738,
+      "num": 373961,
+      "word": "孙菲菲公开暴力事件最新进展",
+      "onboard_time": 1699954357,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 862442,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 766664,
-      "num": 345794,
+      "num": 373236,
       "word": "Jennie50亿韩元购入高档别墅",
       "onboard_time": 1699953213,
       "rank": 13,
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531669,
+      "num": 531669,
+      "word": "孙颖莎什么时候出现",
+      "onboard_time": 1699956274,
+      "rank": 7,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 530367,
       "num": 530367,
       "word": "23岁女生工地当包工头",
@@ -433,6 +449,14 @@
       "onboard_time": 1699946375,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 510180,
+      "num": 583497,
+      "word": "渐冻人蔡磊激动试用人工喉",
+      "onboard_time": 1699953337,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501012,
@@ -539,6 +563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 413317,
+      "num": 367632,
+      "word": "韩安冉采访",
+      "onboard_time": 1699955736,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 409070,
       "num": 409070,
       "word": "张遮底色 虐到极致",
@@ -619,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365545,
+      "num": 365545,
+      "word": "三明治定妆法",
+      "onboard_time": 1699952254,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 359499,
       "num": 359499,
       "word": "4岁娃凌晨街头挨冻代驾小哥果断调头",
@@ -691,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326850,
+      "num": 326850,
+      "word": "不建议自行给孩子吃阿奇霉素",
+      "onboard_time": 1699953702,
+      "rank": 28,
+      "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 325369,
+      "num": 532533,
+      "word": "两位唐氏孩子妈妈用20年互相治愈",
+      "onboard_time": 1699954417,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325177,
       "num": 288809,
       "word": "爱吃辣的人不容易得糖尿病是真的吗",
@@ -705,6 +761,14 @@
       "onboard_time": 1699938517,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315027,
+      "num": 531827,
+      "word": "凌晨5点车灯一开照出2只大熊猫",
+      "onboard_time": 1699953395,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314010,
@@ -987,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237296,
-      "num": 237296,
-      "word": "孙菲菲公开暴力事件最新进展",
-      "onboard_time": 1699954357,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 236728,
+      "num": 236728,
+      "word": "管泽元余霜一起走红毯了",
+      "onboard_time": 1699955135,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 235789,
@@ -1011,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233892,
+      "num": 233892,
+      "word": "刘德华内地巡演",
+      "onboard_time": 1699954714,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230696,
       "num": 230696,
       "word": "宁艺卓想剃光头",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1699948713,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225272,
+      "num": 225272,
+      "word": "吉克隽逸 金色雅典娜",
+      "onboard_time": 1699956274,
+      "rank": 26,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 223673,
@@ -1051,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219818,
+      "num": 219818,
+      "word": "LPL选手红毯西装杀",
+      "onboard_time": 1699954956,
+      "rank": 27,
+      "category": "电竞,时尚"
+    },
+    {
       "raw_hot": 219408,
       "num": 219408,
       "word": "马布里申请落户香港",
@@ -1072,14 +1160,6 @@
       "word": "世界海拔最高国门的升旗仪式",
       "onboard_time": 1699935335,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213932,
-      "num": 213932,
-      "word": "渐冻人蔡磊激动试用人工喉",
-      "onboard_time": 1699953337,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1129,6 +1209,14 @@
       "onboard_time": 1699936598,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204929,
+      "num": 188457,
+      "word": "刘诗雯 姐换了鞋健步如飞",
+      "onboard_time": 1699956934,
+      "rank": 30,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 203192,
@@ -1193,14 +1281,6 @@
       "onboard_time": 1699942773,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199066,
-      "num": 199066,
-      "word": "不建议自行给孩子吃阿奇霉素",
-      "onboard_time": 1699953702,
-      "rank": 28,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 198903,
@@ -1291,6 +1371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189408,
+      "num": 187885,
+      "word": "SEVENTEEN联合国演讲活动照",
+      "onboard_time": 1699956755,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189024,
       "num": 189024,
       "word": "恋与深空 内测玩家",
@@ -1363,20 +1451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180686,
-      "num": 180686,
-      "word": "凌晨5点车灯一开照出2只大熊猫",
-      "onboard_time": 1699953395,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180633,
       "num": 225546,
       "word": "清华女博士毕业做占星师月入3万",
       "onboard_time": 1699869873,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179606,
+      "num": 179606,
+      "word": "秦海璐姐夫知道这事吗",
+      "onboard_time": 1699954059,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 177758,
@@ -1411,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174990,
-      "num": 174990,
-      "word": "秦海璐姐夫知道这事吗",
-      "onboard_time": 1699954059,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170985,
       "num": 170985,
       "word": "00后医学生在中医按摩馆血脉觉醒",
       "onboard_time": 1699951113,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "蔡亨源入伍",
+      "onboard_time": 1699954475,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 169410,
@@ -1531,12 +1619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160727,
+      "num": 160727,
+      "word": "KPOP中文卡背大赏",
+      "onboard_time": 1699954235,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160579,
       "num": 160579,
       "word": "有一个好的睡眠是多么的重要",
       "onboard_time": 1699932211,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157985,
+      "num": 157985,
+      "word": "缅北电诈家族曾邀请国内明星网红庆生",
+      "onboard_time": 1699957115,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155790,
@@ -1563,12 +1667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153416,
+      "num": 153416,
+      "word": "姜雪宁借谢危除掉后患",
+      "onboard_time": 1699956516,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151745,
       "num": 151745,
       "word": "再见爱人",
       "onboard_time": 1699940136,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148836,
+      "num": 148836,
+      "word": "渐冻人蔡磊回应首次用药有效",
+      "onboard_time": 1699955795,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146870,
@@ -1643,20 +1763,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 139453,
-      "num": 139453,
-      "word": "两位唐氏孩子妈妈用20年互相治愈",
-      "onboard_time": 1699954417,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139278,
       "num": 139278,
       "word": "女生最无声的炫富是什么",
       "onboard_time": 1699875690,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138186,
+      "num": 138186,
+      "word": "儿子考试进步4分妈妈奖励鸡腿",
+      "onboard_time": 1699956572,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136387,
@@ -1683,20 +1803,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 133427,
+      "num": 133427,
+      "word": "1020缅北到底发生了什么",
+      "onboard_time": 1699956996,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133256,
       "num": 133256,
       "word": "TGA最佳手游提名",
       "onboard_time": 1699927593,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131608,
-      "num": 131608,
-      "word": "KPOP中文卡背大赏",
-      "onboard_time": 1699954235,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 131375,
@@ -1793,6 +1913,14 @@
       "onboard_time": 1699946975,
       "rank": 47,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 122713,
+      "num": 122713,
+      "word": "杭州一大伯频频种出巨无霸蔬菜",
+      "onboard_time": 1699956457,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122019,
@@ -2172,6 +2300,9 @@
     },
     {
       "word": "#总书记在华北大地留下温暖人心的足迹#"
+    },
+    {
+      "word": "#时时放心不下的牵挂#"
     }
   ]
 }
