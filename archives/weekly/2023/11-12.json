@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699989131570,
+  "endTime": 1699990638642,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -8667,6 +8667,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 21740,
+      "num": 21740,
+      "word": "杨玏不愧是西岐长子",
+      "onboard_time": 1699988175,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21326,
       "num": 894971,
       "word": "江山如画",
@@ -8697,14 +8705,6 @@
       "onboard_time": 1699904592,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 19708,
-      "num": 19708,
-      "word": "杨玏不愧是西岐长子",
-      "onboard_time": 1699988175,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 16013,
