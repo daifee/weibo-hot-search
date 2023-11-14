@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699960513485,
+  "endTime": 1699961669926,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1595,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1710385,
+      "num": 1710385,
+      "word": "竞燃之夜",
+      "onboard_time": 1699958430,
+      "rank": 0,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 1707510,
       "num": 1223531,
       "word": "溺亡女医生遗书称被丈夫长期注射麻醉剂",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1698908132,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1684479,
-      "num": 1684479,
-      "word": "竞燃之夜",
-      "onboard_time": 1699958430,
-      "rank": 0,
-      "category": "体育,电竞"
     },
     {
       "raw_hot": 1682885,
@@ -3411,6 +3411,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1099541,
+      "num": 347080,
+      "word": "缅北电诈家族曾邀请国内明星网红庆生",
+      "onboard_time": 1699957115,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1098978,
       "num": 1098978,
       "word": "香港房价暴跌给内地楼市敲响警钟",
@@ -3568,14 +3576,6 @@
       "word": "韵达",
       "onboard_time": 1699453379,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1052385,
-      "num": 347080,
-      "word": "缅北电诈家族曾邀请国内明星网红庆生",
-      "onboard_time": 1699957115,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4099,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943014,
+      "num": 943014,
+      "word": "何猷君 小家庭永远高于大家庭",
+      "onboard_time": 1699958373,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942415,
       "num": 942415,
       "word": "小学校长9年强奸猥亵22学生被执行死刑",
@@ -4585,14 +4593,6 @@
       "onboard_time": 1699418197,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 853580,
-      "num": 853580,
-      "word": "何猷君 小家庭永远高于大家庭",
-      "onboard_time": 1699958373,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 853360,
@@ -6795,6 +6795,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 646080,
+      "num": 345049,
+      "word": "YG回应与BLACKPINK续约",
+      "onboard_time": 1699958733,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646054,
       "num": 411070,
       "word": "缅北激战画面曝光",
@@ -6864,14 +6872,6 @@
       "word": "吴楚一开始带货了",
       "onboard_time": 1699712913,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 641252,
-      "num": 345049,
-      "word": "YG回应与BLACKPINK续约",
-      "onboard_time": 1699958733,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -12756,7 +12756,7 @@
     },
     {
       "raw_hot": 383393,
-      "num": 246283,
+      "num": 281138,
       "word": "刘诗雯 姐换了鞋健步如飞",
       "onboard_time": 1699956934,
       "rank": 30,
@@ -15675,6 +15675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 309317,
+      "num": 300349,
+      "word": "赵丽颖喜欢艾灸",
+      "onboard_time": 1699959932,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309037,
       "num": 309037,
       "word": "崔雪莉生前纪录片 再告别",
@@ -16049,6 +16057,14 @@
       "onboard_time": 1698803493,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 300124,
+      "num": 300124,
+      "word": "孙丞潇父母知道女友是金莎后的反应",
+      "onboard_time": 1699960771,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 300003,
@@ -18491,6 +18507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258806,
+      "num": 525282,
+      "word": "6岁游泳女孩1分钟腿拍瑜伽球200次",
+      "onboard_time": 1699959273,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 258754,
       "num": 258754,
       "word": "以爱为营 土甜",
@@ -20147,14 +20171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236031,
-      "num": 236031,
-      "word": "赵丽颖喜欢艾灸",
-      "onboard_time": 1699959932,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235835,
       "num": 235835,
       "word": "赵小童英文演讲",
@@ -20233,6 +20249,14 @@
       "onboard_time": 1698815976,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235265,
+      "num": 235265,
+      "word": "雪莉谈韩国娱乐圈",
+      "onboard_time": 1699961431,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 235243,
@@ -20369,6 +20393,14 @@
       "onboard_time": 1699434272,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233308,
+      "num": 233308,
+      "word": "高职院校招保安要35岁以下硕士",
+      "onboard_time": 1699958254,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 233274,
@@ -21379,14 +21411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223292,
-      "num": 345938,
-      "word": "6岁游泳女孩1分钟腿拍瑜伽球200次",
-      "onboard_time": 1699959273,
-      "rank": 10,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 223198,
       "num": 223198,
       "word": "周也白色蕾丝裙",
@@ -22395,6 +22419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212469,
+      "num": 212469,
+      "word": "TheShy获微博年度瞩目运动员",
+      "onboard_time": 1699961369,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212452,
       "num": 212452,
       "word": "白鹿姜珮瑶演闺蜜",
@@ -23041,14 +23073,6 @@
       "onboard_time": 1699420473,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207178,
-      "num": 207178,
-      "word": "高职院校招保安要35岁以下硕士",
-      "onboard_time": 1699958254,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 207074,
@@ -23995,6 +24019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200518,
+      "num": 200518,
+      "word": "小米澎湃OS 更新",
+      "onboard_time": 1699960171,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200338,
       "num": 200338,
       "word": "张艺兴演唱会现编现唱",
@@ -24225,6 +24257,14 @@
       "onboard_time": 1699572687,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198519,
+      "num": 198519,
+      "word": "朱易获微博年度瞩目运动员",
+      "onboard_time": 1699961431,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 198512,
@@ -25083,6 +25123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193015,
+      "num": 193015,
+      "word": "一诺 金边眼镜",
+      "onboard_time": 1699960651,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193000,
       "num": 193000,
       "word": "阎相闯含泪道歉",
@@ -25536,6 +25584,14 @@
       "word": "薛之谦彭昱畅见面干瞪眼",
       "onboard_time": 1698846638,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190014,
+      "num": 190014,
+      "word": "辛芷蕾衣品",
+      "onboard_time": 1699960771,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -26793,6 +26849,14 @@
       "onboard_time": 1699954059,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179592,
+      "num": 179592,
+      "word": "孙杨又唱倔强了",
+      "onboard_time": 1699959932,
+      "rank": 31,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 179458,
@@ -28289,14 +28353,6 @@
       "onboard_time": 1698851797,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166997,
-      "num": 166997,
-      "word": "孙杨又唱倔强了",
-      "onboard_time": 1699959932,
-      "rank": 31,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 166940,
@@ -31321,14 +31377,6 @@
       "onboard_time": 1699020396,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143641,
-      "num": 143641,
-      "word": "小米澎湃OS 更新",
-      "onboard_time": 1699960171,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 143639,
@@ -34425,6 +34473,14 @@
       "onboard_time": 1698755371,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "民警巡山一抬头惊呆了",
+      "onboard_time": 1699961369,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118706,
@@ -38771,6 +38827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20553,
+      "num": 344530,
+      "word": "竞燃之夜红毯显眼包是iQOO12",
+      "onboard_time": 1699959632,
+      "rank": 14,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 20117,
       "num": 27492,
       "word": "鲨鱼夹发型",
@@ -38937,14 +39001,6 @@
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13635,
-      "num": 344530,
-      "word": "竞燃之夜红毯显眼包是iQOO12",
-      "onboard_time": 1699959632,
-      "rank": 14,
-      "category": "体育,电竞"
     },
     {
       "raw_hot": 13292,
