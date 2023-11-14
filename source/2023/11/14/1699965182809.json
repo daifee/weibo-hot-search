@@ -1,0 +1,410 @@
+{
+  "runTime": 1699965182809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3471365,
+        "num": 3471365,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417780,
+        "num": 417780,
+        "word": "6岁游泳女孩1分钟腿拍瑜伽球200次",
+        "onboard_time": 1699959273,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 29642,
+        "num": 394658,
+        "word": "朝着构建亚太命运共同体不断迈进",
+        "onboard_time": 1699951536,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1003973,
+        "num": 392213,
+        "word": "孙颖莎虽迟但到",
+        "onboard_time": 1699963050,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693447,
+        "num": 389749,
+        "word": "竞燃之夜",
+        "onboard_time": 1699958430,
+        "rank": 4,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 385916,
+        "num": 385916,
+        "word": "吴艳妮目标进入世界前八",
+        "onboard_time": 1699962572,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303282,
+        "num": 303282,
+        "word": "Knight获得微博年度瞩目运动员",
+        "onboard_time": 1699962632,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 285255,
+        "num": 285255,
+        "word": "斯嘉丽回应黑寡妇回归",
+        "onboard_time": 1699961850,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264326,
+        "num": 264326,
+        "word": "竞燃之夜红毯",
+        "onboard_time": 1699948773,
+        "rank": 8,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 252798,
+        "num": 252798,
+        "word": "RedVelvet34分钟KillingVoice",
+        "onboard_time": 1699963411,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 935834,
+        "num": 251693,
+        "word": "何猷君 小家庭永远高于大家庭",
+        "onboard_time": 1699958373,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913869,
+        "num": 249885,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869665,
+        "num": 246106,
+        "word": "雪莉谈韩国娱乐圈",
+        "onboard_time": 1699961431,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684463,
+        "num": 245907,
+        "word": "张翰回应油腻",
+        "onboard_time": 1699953035,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427977,
+        "num": 241571,
+        "word": "YG回应与BLACKPINK续约",
+        "onboard_time": 1699958733,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378323,
+        "num": 241321,
+        "word": "男主胃不好只能吃软饭",
+        "onboard_time": 1699963891,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372461,
+        "num": 237403,
+        "word": "孙颖莎出现时全场的反应",
+        "onboard_time": 1699964251,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329771,
+        "num": 234849,
+        "word": "1020缅北到底发生了什么",
+        "onboard_time": 1699956996,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20561,
+        "num": 233438,
+        "word": "用iQOO12和一诺暖阳开黑",
+        "onboard_time": 1699962452,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232524,
+        "num": 232524,
+        "word": "赵丽颖喜欢艾灸",
+        "onboard_time": 1699959932,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267356,
+        "num": 231261,
+        "word": "姜雪宁谢危圆房",
+        "onboard_time": 1699951895,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227296,
+        "num": 227296,
+        "word": "Fly唱歌一诺九尾的反应",
+        "onboard_time": 1699961672,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224607,
+        "num": 224607,
+        "word": "谢娜林心如录节目ie立现",
+        "onboard_time": 1699963354,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219703,
+        "num": 219703,
+        "word": "TheShy获微博年度瞩目运动员",
+        "onboard_time": 1699961369,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214790,
+        "num": 214790,
+        "word": "孙丞潇父母知道女友是金莎后的反应",
+        "onboard_time": 1699960771,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201986,
+        "num": 201986,
+        "word": "孙菲菲公开暴力事件最新进展",
+        "onboard_time": 1699954357,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189694,
+        "num": 189694,
+        "word": "刘诗雯 姐换了鞋健步如飞",
+        "onboard_time": 1699956934,
+        "rank": 26,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 188820,
+        "num": 188820,
+        "word": "邓为仙台有树手指擦血",
+        "onboard_time": 1699959453,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188614,
+        "num": 188614,
+        "word": "联合国降半旗默哀在加沙遇难工作人员",
+        "onboard_time": 1699952914,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 186581,
+        "num": 186581,
+        "word": "渐冻人蔡磊激动试用人工喉",
+        "onboard_time": 1699953337,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 186382,
+        "word": "Uzi限定西装造型",
+        "onboard_time": 1699964371,
+        "rank": 30,
+        "category": "电竞,时尚"
+      },
+      {
+        "raw_hot": 181969,
+        "num": 181969,
+        "word": "Jennie50亿韩元购入高档别墅",
+        "onboard_time": 1699953213,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176513,
+        "num": 176513,
+        "word": "刘诗雯微博年度喜爱运动员",
+        "onboard_time": 1699964971,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171102,
+        "num": 171102,
+        "word": "一诺年度竞耀选手",
+        "onboard_time": 1699965030,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170383,
+        "num": 170383,
+        "word": "女性可以在运动场成为任何样子",
+        "onboard_time": 1699962389,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170098,
+        "num": 170098,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170055,
+        "num": 170055,
+        "word": "缅北",
+        "onboard_time": 1699958733,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169497,
+        "num": 169497,
+        "word": "爱奇艺尖叫之夜第一波嘉宾名单",
+        "onboard_time": 1699947096,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164331,
+        "num": 164331,
+        "word": "妈妈 人世间最坚硬的盔甲",
+        "onboard_time": 1699963109,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152675,
+        "num": 152675,
+        "word": "凌晨5点车灯一开照出2只大熊猫",
+        "onboard_time": 1699953395,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152368,
+        "num": 152368,
+        "word": "儿子考试进步4分妈妈奖励鸡腿",
+        "onboard_time": 1699956572,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147156,
+        "num": 147156,
+        "word": "沙特小哥认出迪丽热巴",
+        "onboard_time": 1699943495,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145058,
+        "num": 145058,
+        "word": "令人心动的offer",
+        "onboard_time": 1699962332,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144598,
+        "num": 144598,
+        "word": "辛芷蕾衣品",
+        "onboard_time": 1699960771,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143305,
+        "num": 143305,
+        "word": "你有从小坚持到现在的运动吗",
+        "onboard_time": 1699963832,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142185,
+        "num": 142185,
+        "word": "汪雨橦一个人扛下了所有",
+        "onboard_time": 1699963473,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131016,
+        "num": 131016,
+        "word": "小米澎湃OS 更新",
+        "onboard_time": 1699960171,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130173,
+        "num": 130173,
+        "word": "高职院校招保安要35岁以下硕士",
+        "onboard_time": 1699958254,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130148,
+        "num": 130148,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120117,
+        "num": 120117,
+        "word": "九嶷山离职大礼包果然名不虚传",
+        "onboard_time": 1699964971,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京赴美国举行中美元首会晤#"
+    }
+  }
+}

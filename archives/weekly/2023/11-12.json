@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699961669926,
+  "endTime": 1699965182809,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -33,6 +33,14 @@
       "onboard_time": 1699784970,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3471365,
+      "num": 3471365,
+      "word": "中美元首会晤",
+      "onboard_time": 1699963591,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3009969,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003973,
+      "num": 392213,
+      "word": "孙颖莎虽迟但到",
+      "onboard_time": 1699963050,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 999966,
       "num": 999966,
       "word": "中国千万净资产家庭达211万户",
@@ -833,6 +849,14 @@
       "onboard_time": 1699780410,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869665,
+      "num": 246106,
+      "word": "雪莉谈韩国娱乐圈",
+      "onboard_time": 1699961431,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 862442,
@@ -2299,6 +2323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 417780,
+      "num": 525282,
+      "word": "6岁游泳女孩1分钟腿拍瑜伽球200次",
+      "onboard_time": 1699959273,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 417312,
       "num": 417312,
       "word": "本周狗屎运最旺的星座",
@@ -2491,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385916,
+      "num": 385916,
+      "word": "吴艳妮目标进入世界前八",
+      "onboard_time": 1699962572,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384923,
       "num": 384923,
       "word": "官方通报职校克扣学生巨额实习报酬",
@@ -2529,6 +2569,14 @@
       "onboard_time": 1699791156,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 378323,
+      "num": 241321,
+      "word": "男主胃不好只能吃软饭",
+      "onboard_time": 1699963891,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 378321,
@@ -2577,6 +2625,14 @@
       "onboard_time": 1699836815,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372461,
+      "num": 237403,
+      "word": "孙颖莎出现时全场的反应",
+      "onboard_time": 1699964251,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 365134,
@@ -3091,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303282,
+      "num": 303282,
+      "word": "Knight获得微博年度瞩目运动员",
+      "onboard_time": 1699962632,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303033,
       "num": 303033,
       "word": "谢危 苦果亦是果",
@@ -3257,6 +3321,14 @@
       "onboard_time": 1699952554,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285255,
+      "num": 285255,
+      "word": "斯嘉丽回应黑寡妇回归",
+      "onboard_time": 1699961850,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 284599,
@@ -3667,14 +3739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 258806,
-      "num": 525282,
-      "word": "6岁游泳女孩1分钟腿拍瑜伽球200次",
-      "onboard_time": 1699959273,
-      "rank": 10,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 258380,
       "num": 250021,
       "word": "白鹿镜头下的王鹤棣",
@@ -3745,6 +3809,14 @@
       "onboard_time": 1699715134,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252798,
+      "num": 252798,
+      "word": "RedVelvet34分钟KillingVoice",
+      "onboard_time": 1699963411,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 252449,
@@ -3995,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235265,
-      "num": 235265,
-      "word": "雪莉谈韩国娱乐圈",
-      "onboard_time": 1699961431,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235182,
       "num": 235182,
       "word": "寒衣节",
@@ -4107,6 +4171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227296,
+      "num": 227296,
+      "word": "Fly唱歌一诺九尾的反应",
+      "onboard_time": 1699961672,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227247,
       "num": 227247,
       "word": "明学昌人设是缅甸德高望重的老领导",
@@ -4185,6 +4257,14 @@
       "onboard_time": 1699956274,
       "rank": 26,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 224607,
+      "num": 224607,
+      "word": "谢娜林心如录节目ie立现",
+      "onboard_time": 1699963354,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 224494,
@@ -4281,6 +4361,14 @@
       "onboard_time": 1699954956,
       "rank": 27,
       "category": "电竞,时尚"
+    },
+    {
+      "raw_hot": 219703,
+      "num": 219703,
+      "word": "TheShy获微博年度瞩目运动员",
+      "onboard_time": 1699961369,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 219648,
@@ -4465,14 +4553,6 @@
       "onboard_time": 1699860155,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 212469,
-      "num": 212469,
-      "word": "TheShy获微博年度瞩目运动员",
-      "onboard_time": 1699961369,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 212037,
@@ -5051,6 +5131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188614,
+      "num": 188614,
+      "word": "联合国降半旗默哀在加沙遇难工作人员",
+      "onboard_time": 1699952914,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 188589,
       "num": 188589,
       "word": "花42元和6个美女谈恋爱值不值",
@@ -5113,6 +5201,14 @@
       "onboard_time": 1699857032,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 186382,
+      "num": 186382,
+      "word": "Uzi限定西装造型",
+      "onboard_time": 1699964371,
+      "rank": 30,
+      "category": "电竞,时尚"
     },
     {
       "raw_hot": 186060,
@@ -5371,6 +5467,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 176513,
+      "num": 176513,
+      "word": "刘诗雯微博年度喜爱运动员",
+      "onboard_time": 1699964971,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175653,
       "num": 175653,
       "word": "狐狸罐罐胖成萨摩耶同伴笑声太魔性",
@@ -5523,6 +5627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171102,
+      "num": 171102,
+      "word": "一诺年度竞耀选手",
+      "onboard_time": 1699965030,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171085,
       "num": 171085,
       "word": "还以为蛋糕倒了",
@@ -5561,6 +5673,14 @@
       "onboard_time": 1699832550,
       "rank": 28,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 170383,
+      "num": 170383,
+      "word": "女性可以在运动场成为任何样子",
+      "onboard_time": 1699962389,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 169807,
@@ -5777,6 +5897,14 @@
       "onboard_time": 1699799859,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164331,
+      "num": 164331,
+      "word": "妈妈 人世间最坚硬的盔甲",
+      "onboard_time": 1699963109,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 164270,
@@ -6275,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145058,
+      "num": 145058,
+      "word": "令人心动的offer",
+      "onboard_time": 1699962332,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144760,
       "num": 144760,
       "word": "猫妈妈传授狩猎人类的技巧",
@@ -6323,6 +6459,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 143305,
+      "num": 143305,
+      "word": "你有从小坚持到现在的运动吗",
+      "onboard_time": 1699963832,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 143235,
       "num": 143235,
       "word": "秦岚说话像刘星分饼",
@@ -6361,6 +6505,14 @@
       "onboard_time": 1699751851,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142185,
+      "num": 142185,
+      "word": "汪雨橦一个人扛下了所有",
+      "onboard_time": 1699963473,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 142017,
@@ -6945,6 +7097,14 @@
       "onboard_time": 1699752511,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120117,
+      "num": 120117,
+      "word": "九嶷山离职大礼包果然名不虚传",
+      "onboard_time": 1699964971,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119956,
@@ -7931,6 +8091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20561,
+      "num": 233438,
+      "word": "用iQOO12和一诺暖阳开黑",
+      "onboard_time": 1699962452,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 20553,
       "num": 344530,
       "word": "竞燃之夜红毯显眼包是iQOO12",
@@ -7998,6 +8166,9 @@
     },
     {
       "word": "#时时放心不下的牵挂#"
+    },
+    {
+      "word": "#习近平离京赴美国举行中美元首会晤#"
     }
   ]
 }
