@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1699983252423,
+  "endTime": 1699985981314,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89354,
+      "num": 89354,
+      "word": "1700元的林清轩香水下架",
+      "onboard_time": 1699982779,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 82780,
       "num": 97641,
       "word": "竞燃之夜",
@@ -435,15 +443,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39808,
-      "num": 63220,
-      "word": "1700元的林清轩香水下架",
-      "onboard_time": 1699982779,
-      "rank": 41,
-      "category": "美妆"
+      "raw_hot": 22179,
+      "num": 22179,
+      "word": "陈伟霆这花衬衫是一百三件吗",
+      "onboard_time": 1699985120,
+      "rank": 48,
+      "category": "电影"
     },
     {
-      "raw_hot": 6931,
+      "raw_hot": 9887,
       "num": 233913,
       "word": "中欧班列跑出亮眼成绩单",
       "onboard_time": 1699968332,
