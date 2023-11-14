@@ -1,0 +1,410 @@
+{
+  "runTime": 1699947241389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1976384,
+        "num": 1976384,
+        "word": "快乐小赵 去世",
+        "onboard_time": 1699937438,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1253394,
+        "num": 1253394,
+        "word": "沙特小哥认出迪丽热巴",
+        "onboard_time": 1699943495,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63030,
+        "num": 1002629,
+        "word": "中国22项农业文化遗产图鉴",
+        "onboard_time": 1699945838,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822971,
+        "num": 822971,
+        "word": "美甲好贵",
+        "onboard_time": 1699943373,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 738103,
+        "num": 738103,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1699943433,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 600577,
+        "num": 600577,
+        "word": "贾乃亮双11总销售额超13.6亿",
+        "onboard_time": 1699939535,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571389,
+        "num": 571389,
+        "word": "孙怡被老刘傅首尔虐到哭",
+        "onboard_time": 1699946556,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379358,
+        "num": 516768,
+        "word": "四川一地规定不叠被子罚10元",
+        "onboard_time": 1699945115,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352958,
+        "num": 513384,
+        "word": "网友吐槽麦当劳牛奶1杯23元",
+        "onboard_time": 1699941877,
+        "rank": 8,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 333896,
+        "num": 512942,
+        "word": "当地回应网传长春一农妇生育十个孩子",
+        "onboard_time": 1699940435,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512587,
+        "num": 512587,
+        "word": "黄日华踢人",
+        "onboard_time": 1699942473,
+        "rank": 10,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 496782,
+        "num": 496782,
+        "word": "苏小玎 今后严格规范自己的行为",
+        "onboard_time": 1699941394,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490504,
+        "num": 490504,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 451199,
+        "num": 451199,
+        "word": "被通缉的4名缅北电诈头目涉嫌故意杀人",
+        "onboard_time": 1699943973,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366299,
+        "num": 366299,
+        "word": "缅北电诈明家覆灭在即",
+        "onboard_time": 1699937334,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489776,
+        "num": 359177,
+        "word": "人民文娱点评宁安如梦女性角色",
+        "onboard_time": 1699945536,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332280,
+        "num": 332280,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311555,
+        "num": 311555,
+        "word": "张雪峰为300名贫困生准备过冬羽绒服",
+        "onboard_time": 1699940974,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298344,
+        "num": 298344,
+        "word": "刘亦菲 上海",
+        "onboard_time": 1699939472,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182651,
+        "num": 285301,
+        "word": "俄军恢复对基辅导弹袭击",
+        "onboard_time": 1699946857,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 284500,
+        "num": 284500,
+        "word": "青山刚昌东野圭吾将对谈",
+        "onboard_time": 1699946255,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 261797,
+        "num": 261797,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256253,
+        "num": 256253,
+        "word": "男教师养30只猫因患抑郁致2只离世",
+        "onboard_time": 1699940854,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222848,
+        "num": 222848,
+        "word": "惊奇队长2 骄傲的漫威",
+        "onboard_time": 1699945174,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188652,
+        "num": 215943,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 209773,
+        "num": 209773,
+        "word": "杨单镜头里的美神赵丽颖",
+        "onboard_time": 1699946435,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194870,
+        "num": 194870,
+        "word": "BamBam说的重组方法",
+        "onboard_time": 1699946315,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190110,
+        "num": 190110,
+        "word": "张碧晨新浪扫楼",
+        "onboard_time": 1699946857,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189655,
+        "num": 189655,
+        "word": "爱奇艺尖叫之夜第一波嘉宾名单",
+        "onboard_time": 1699947096,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157973,
+        "num": 188667,
+        "word": "B太大连鬼秤破解实锤",
+        "onboard_time": 1699935817,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82899,
+        "num": 188577,
+        "word": "vivo 蓝科技",
+        "onboard_time": 1699945473,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188522,
+        "num": 188522,
+        "word": "花少必需品 手机",
+        "onboard_time": 1699945596,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306908,
+        "num": 187855,
+        "word": "七旬老汉户口本突然多了个10岁孙子",
+        "onboard_time": 1699946013,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150104,
+        "num": 185948,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185738,
+        "num": 185738,
+        "word": "黄日华向贵州村超联队道歉",
+        "onboard_time": 1699945838,
+        "rank": 34,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 183726,
+        "num": 183726,
+        "word": "金莎不想在婚礼上唱星月神话",
+        "onboard_time": 1699939535,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "秦海璐鼓励迪丽热巴",
+        "onboard_time": 1699938159,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146395,
+        "num": 146395,
+        "word": "Homme预测T1夺冠",
+        "onboard_time": 1699940554,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143693,
+        "num": 143693,
+        "word": "揭秘缅北电诈园区黑监狱",
+        "onboard_time": 1699936175,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136819,
+        "num": 136819,
+        "word": "网易向国家市场监管总局举报雀巢",
+        "onboard_time": 1699946375,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 144117,
+        "num": 134880,
+        "word": "倪妮 暗夜女爵",
+        "onboard_time": 1699941877,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142540,
+        "num": 134574,
+        "word": "奚梦瑶何猷君偶像剧照进现实",
+        "onboard_time": 1699942773,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132908,
+        "num": 132908,
+        "word": "欧刚因支持WBG被T1赶出办公室",
+        "onboard_time": 1699935696,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129326,
+        "num": 129326,
+        "word": "花42元和6个美女谈恋爱值不值",
+        "onboard_time": 1699943433,
+        "rank": 43,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 129185,
+        "num": 129185,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123056,
+        "num": 123056,
+        "word": "虞书欣花老板上班了",
+        "onboard_time": 1699934375,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122870,
+        "num": 122870,
+        "word": "宁安如梦",
+        "onboard_time": 1699939895,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122849,
+        "num": 122849,
+        "word": "科学家首次发现黑猩猩使用人类兵法",
+        "onboard_time": 1699946975,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 114679,
+        "num": 114679,
+        "word": "100家银行证实花呗上征信不影响房贷",
+        "onboard_time": 1699936657,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 110406,
+        "num": 114679,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在华北大地留下温暖人心的足迹#"
+    }
+  }
+}
