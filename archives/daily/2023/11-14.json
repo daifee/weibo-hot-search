@@ -1,7 +1,15 @@
 {
   "startTime": 1699892582501,
-  "endTime": 1699918477610,
+  "endTime": 1699924440482,
   "band_list": [
+    {
+      "raw_hot": 2923818,
+      "num": 759327,
+      "word": "缅北四大家族",
+      "onboard_time": 1699921595,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1754600,
       "num": 1754600,
@@ -11,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1195260,
-      "num": 1195260,
+      "raw_hot": 1448748,
+      "num": 1448748,
       "word": "网友吐槽政务大厅全天工作6个小时",
       "onboard_time": 1699886735,
       "rank": 3,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1112623,
-      "num": 301044,
+      "num": 384177,
       "word": "小S好炸裂的回复",
       "onboard_time": 1699884334,
       "rank": 10,
@@ -35,12 +43,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 685763,
-      "num": 685763,
+      "raw_hot": 975879,
+      "num": 443703,
+      "word": "亨利集团",
+      "onboard_time": 1699922734,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862363,
+      "num": 862363,
+      "word": "知情人证实缅北电诈成员劝降视频属实",
+      "onboard_time": 1699919791,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787804,
+      "num": 787804,
       "word": "在何猷君身上看到了生理性喜欢的样子",
       "onboard_time": 1699878273,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 761737,
+      "num": 359451,
+      "word": "权志龙直播回应涉嫌吸毒",
+      "onboard_time": 1699922855,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 663455,
+      "num": 342141,
+      "word": "卧虎山庄",
+      "onboard_time": 1699921474,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606796,
@@ -49,6 +89,14 @@
       "onboard_time": 1699890690,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 603360,
+      "num": 317205,
+      "word": "谁在资助缅北果敢同盟军",
+      "onboard_time": 1699920810,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575056,
@@ -83,6 +131,46 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 467460,
+      "num": 467460,
+      "word": "刘诗诗刘宇宁 你好星期六",
+      "onboard_time": 1699919670,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 443948,
+      "num": 341797,
+      "word": "室友遭追砍女子帮呼救也被砍20多刀",
+      "onboard_time": 1699923633,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428048,
+      "num": 288854,
+      "word": "很多胃癌是吃出来",
+      "onboard_time": 1699920091,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 409070,
+      "num": 409070,
+      "word": "张遮底色 虐到极致",
+      "onboard_time": 1699922554,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 384923,
+      "num": 384923,
+      "word": "官方通报职校克扣学生巨额实习报酬",
+      "onboard_time": 1699920392,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377677,
       "num": 377677,
       "word": "绝迹",
@@ -115,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327606,
+      "num": 327606,
+      "word": "脂肪肝不建议碰到食物黑名单",
+      "onboard_time": 1699918405,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 327531,
       "num": 287611,
       "word": "1020事件",
       "onboard_time": 1699868070,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325177,
+      "num": 288809,
+      "word": "爱吃辣的人不容易得糖尿病是真的吗",
+      "onboard_time": 1699922978,
+      "rank": 21,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 308625,
@@ -132,7 +236,7 @@
     },
     {
       "raw_hot": 306481,
-      "num": 224851,
+      "num": 244673,
       "word": "防胃癌这5种要少吃不吃",
       "onboard_time": 1699890093,
       "rank": 21,
@@ -155,6 +259,38 @@
       "category": "美食"
     },
     {
+      "raw_hot": 299635,
+      "num": 299635,
+      "word": "我国糖尿病患病率超11%",
+      "onboard_time": 1699923633,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 289502,
+      "num": 289502,
+      "word": "经常熬夜久坐患糖尿病几率大",
+      "onboard_time": 1699918284,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 289133,
+      "num": 289133,
+      "word": "17名大学生与诺奖得主约饭",
+      "onboard_time": 1699921114,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268991,
+      "num": 268991,
+      "word": "玉骨遥的美是如何拍出来的",
+      "onboard_time": 1699923333,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260256,
       "num": 260256,
       "word": "你的男孩TizzyT来了",
@@ -163,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260056,
+      "num": 260056,
+      "word": "重返巴厘岛通往旧金山",
+      "onboard_time": 1699923214,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 257242,
       "num": 257242,
       "word": "妻子被推出产房丈夫献花并深情亲吻",
       "onboard_time": 1699887514,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256671,
+      "num": 256671,
+      "word": "韩庚兑现前任4票房flag",
+      "onboard_time": 1699918886,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 245480,
@@ -211,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201846,
+      "num": 201846,
+      "word": "世界糖尿病日",
+      "onboard_time": 1699923753,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198077,
       "num": 198077,
       "word": "小米汽车信息首曝",
@@ -219,11 +379,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193500,
+      "num": 193500,
+      "word": "印度小伙来中国看望18年前的救命恩人",
+      "onboard_time": 1699916784,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189577,
+      "num": 189577,
+      "word": "上海咖啡店负责人回应6200元天价咖啡",
+      "onboard_time": 1699922312,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180633,
       "num": 225546,
       "word": "清华女博士毕业做占星师月入3万",
       "onboard_time": 1699869873,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179017,
+      "num": 179017,
+      "word": "23岁女生工地当包工头",
+      "onboard_time": 1699923995,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -235,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163436,
-      "num": 163436,
-      "word": "印度小伙来中国看望18年前的救命恩人",
-      "onboard_time": 1699916784,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 166829,
+      "num": 166829,
+      "word": "周渝民 人群恐惧症",
+      "onboard_time": 1699920209,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 163302,
@@ -259,12 +443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154062,
+      "num": 154062,
+      "word": "如果有人在地铁突然放下手机",
+      "onboard_time": 1699909513,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146031,
       "num": 146031,
       "word": "AG",
       "onboard_time": 1699885597,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143335,
+      "num": 143335,
+      "word": "天价咖啡",
+      "onboard_time": 1699919309,
+      "rank": 39,
+      "category": "财经,美食"
+    },
+    {
+      "raw_hot": 140531,
+      "num": 140531,
+      "word": "APEC前夕旧金山8000流浪汉一夜消失",
+      "onboard_time": 1699924053,
+      "rank": 41,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 139278,
@@ -291,11 +499,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131375,
+      "num": 131375,
+      "word": "张遮是姜雪宁的第一选择",
+      "onboard_time": 1699883614,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130801,
       "num": 130801,
       "word": "男子上厕所时马桶突然着火",
       "onboard_time": 1699884034,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128258,
+      "num": 128258,
+      "word": "记者爬行救下冰窟男童9个月后被认出",
+      "onboard_time": 1699918405,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -307,20 +531,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126669,
+      "num": 126669,
+      "word": "雪莉 我们需要更多的女性发声",
+      "onboard_time": 1699878273,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126233,
+      "num": 126233,
+      "word": "不是所有的城市都在过冬",
+      "onboard_time": 1699924413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124944,
       "num": 124944,
       "word": "张艺兴一个人的相声",
       "onboard_time": 1699889374,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 116866,
-      "num": 83954,
-      "word": "经常熬夜久坐患糖尿病几率大",
-      "onboard_time": 1699918284,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 113003,
@@ -337,14 +569,6 @@
       "onboard_time": 1699895360,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109903,
-      "num": 109903,
-      "word": "如果有人在地铁突然放下手机",
-      "onboard_time": 1699909513,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 108474,
@@ -369,14 +593,6 @@
       "onboard_time": 1699883856,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101387,
-      "num": 101387,
-      "word": "张遮是姜雪宁的第一选择",
-      "onboard_time": 1699883614,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 100832,
@@ -411,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84439,
-      "num": 84439,
-      "word": "雪莉 我们需要更多的女性发声",
-      "onboard_time": 1699878273,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 82756,
       "num": 82756,
       "word": "长白山天池罕现水汽横流",
@@ -443,14 +651,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 79471,
-      "num": 79471,
-      "word": "脂肪肝不建议碰到食物黑名单",
-      "onboard_time": 1699918405,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 74047,
       "num": 74047,
       "word": "难听",
@@ -464,14 +664,6 @@
       "word": "手把手教你跨省看病怎么走医保",
       "onboard_time": 1699881755,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64819,
-      "num": 64819,
-      "word": "记者爬行救下冰窟男童9个月后被认出",
-      "onboard_time": 1699918405,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -555,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34391,
+      "num": 791450,
+      "word": "聚焦中国经济圆桌会",
+      "onboard_time": 1699881575,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33578,
       "num": 45008,
       "word": "宁安如梦CP线",
@@ -577,14 +777,6 @@
       "onboard_time": 1699904592,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16814,
-      "num": 590313,
-      "word": "聚焦中国经济圆桌会",
-      "onboard_time": 1699881575,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13292,
