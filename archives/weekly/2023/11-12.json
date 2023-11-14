@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699957171547,
+  "endTime": 1699958222440,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -795,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 871489,
+      "num": 373961,
+      "word": "孙菲菲公开暴力事件最新进展",
+      "onboard_time": 1699954357,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871259,
       "num": 871259,
       "word": "菲警方正确认6具遗体是否为被绑架中国人",
       "onboard_time": 1699780410,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870738,
-      "num": 373961,
-      "word": "孙菲菲公开暴力事件最新进展",
-      "onboard_time": 1699954357,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 862442,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614611,
+      "num": 614611,
+      "word": "孙颖莎什么时候出现",
+      "onboard_time": 1699956274,
+      "rank": 7,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 613163,
       "num": 613163,
       "word": "宁安如梦连更",
@@ -1475,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 579266,
+      "num": 347080,
+      "word": "缅北电诈家族曾邀请国内明星网红庆生",
+      "onboard_time": 1699957115,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577226,
       "num": 577226,
       "word": "宁安如梦团综定档",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1699848092,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 569914,
+      "num": 954116,
+      "word": "渐冻人蔡磊激动试用人工喉",
+      "onboard_time": 1699953337,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569203,
@@ -1651,14 +1675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 531669,
-      "num": 531669,
-      "word": "孙颖莎什么时候出现",
-      "onboard_time": 1699956274,
-      "rank": 7,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 530951,
       "num": 530951,
       "word": "李佳琦的双11相当于打工人10万年",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1699946375,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 510180,
-      "num": 583497,
-      "word": "渐冻人蔡磊激动试用人工喉",
-      "onboard_time": 1699953337,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507935,
@@ -1979,6 +1987,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 468756,
+      "num": 324088,
+      "word": "1020缅北到底发生了什么",
+      "onboard_time": 1699956996,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467460,
       "num": 467460,
       "word": "刘诗诗刘宇宁 你好星期六",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1699870292,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 463015,
+      "num": 367632,
+      "word": "韩安冉采访",
+      "onboard_time": 1699955736,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 459365,
@@ -2283,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413317,
-      "num": 367632,
-      "word": "韩安冉采访",
-      "onboard_time": 1699955736,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 411070,
       "num": 355621,
       "word": "迪丽热巴黑粉被强执",
@@ -2395,6 +2411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 395231,
+      "num": 395231,
+      "word": "三明治定妆法",
+      "onboard_time": 1699952254,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 393327,
       "num": 393327,
       "word": "欧刚因支持WBG被T1赶出办公室",
@@ -2467,12 +2491,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 383393,
+      "num": 188457,
+      "word": "刘诗雯 姐换了鞋健步如飞",
+      "onboard_time": 1699956934,
+      "rank": 30,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 381724,
       "num": 381724,
       "word": "小虎打Faker",
       "onboard_time": 1699791156,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 378321,
+      "num": 531827,
+      "word": "凌晨5点车灯一开照出2只大熊猫",
+      "onboard_time": 1699953395,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377677,
@@ -2513,14 +2553,6 @@
       "onboard_time": 1699836815,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365545,
-      "num": 365545,
-      "word": "三明治定妆法",
-      "onboard_time": 1699952254,
-      "rank": 16,
-      "category": "美妆"
     },
     {
       "raw_hot": 365134,
@@ -2889,14 +2921,6 @@
       "onboard_time": 1699770990,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315027,
-      "num": 531827,
-      "word": "凌晨5点车灯一开照出2只大熊猫",
-      "onboard_time": 1699953395,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314247,
@@ -3763,12 +3787,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247261,
+      "num": 247261,
+      "word": "SEVENTEEN联合国演讲活动照",
+      "onboard_time": 1699956755,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246957,
       "num": 246957,
       "word": "王曼昱女单冠军",
       "onboard_time": 1699783949,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245568,
+      "num": 245568,
+      "word": "儿子考试进步4分妈妈奖励鸡腿",
+      "onboard_time": 1699956572,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244772,
@@ -4499,14 +4539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204929,
-      "num": 188457,
-      "word": "刘诗雯 姐换了鞋健步如飞",
-      "onboard_time": 1699956934,
-      "rank": 30,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 204853,
       "num": 204853,
       "word": "KSG",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1699922312,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 189408,
-      "num": 187885,
-      "word": "SEVENTEEN联合国演讲活动照",
-      "onboard_time": 1699956755,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 189162,
@@ -5779,14 +5803,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 157985,
-      "num": 157985,
-      "word": "缅北电诈家族曾邀请国内明星网红庆生",
-      "onboard_time": 1699957115,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157541,
       "num": 157541,
       "word": "哈尔滨的移动城堡",
@@ -5913,6 +5929,14 @@
       "onboard_time": 1699804532,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152392,
+      "num": 152392,
+      "word": "原来练臀推是需要角度的",
+      "onboard_time": 1699957714,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 152385,
@@ -6291,14 +6315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138186,
-      "num": 138186,
-      "word": "儿子考试进步4分妈妈奖励鸡腿",
-      "onboard_time": 1699956572,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137872,
       "num": 227368,
       "word": "中等强度厄尔尼诺事件已经形成",
@@ -6320,6 +6336,14 @@
       "word": "手把手教你跨省看病怎么走医保",
       "onboard_time": 1699881755,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136898,
+      "num": 136898,
+      "word": "缅北果敢四大家族存在明争暗斗",
+      "onboard_time": 1699957412,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6408,14 +6432,6 @@
       "word": "50岁女子骑车被撞获救后说我不讹你",
       "onboard_time": 1699852774,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133427,
-      "num": 133427,
-      "word": "1020缅北到底发生了什么",
-      "onboard_time": 1699956996,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -7652,7 +7668,7 @@
     },
     {
       "raw_hot": 55067,
-      "num": 697181,
+      "num": 777747,
       "word": "朝着构建亚太命运共同体不断迈进",
       "onboard_time": 1699951536,
       "rank": 2,
