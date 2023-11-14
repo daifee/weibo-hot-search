@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699924440482,
+  "endTime": 1699925684409,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1285342,
+      "num": 443703,
+      "word": "亨利集团",
+      "onboard_time": 1699922734,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281675,
       "num": 1281675,
       "word": "炮车 真正的AD",
@@ -425,6 +433,14 @@
       "onboard_time": 1699835793,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1247545,
+      "num": 360446,
+      "word": "室友遭追砍女子帮呼救也被砍20多刀",
+      "onboard_time": 1699923633,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224717,
@@ -577,14 +593,6 @@
       "onboard_time": 1699845991,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 975879,
-      "num": 443703,
-      "word": "亨利集团",
-      "onboard_time": 1699922734,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 961353,
@@ -1083,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617652,
+      "num": 317205,
+      "word": "谁在资助缅北果敢同盟军",
+      "onboard_time": 1699920810,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613163,
       "num": 613163,
       "word": "宁安如梦连更",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1699791037,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 603360,
-      "num": 317205,
-      "word": "谁在资助缅北果敢同盟军",
-      "onboard_time": 1699920810,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601998,
@@ -1715,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443948,
-      "num": 341797,
-      "word": "室友遭追砍女子帮呼救也被砍20多刀",
-      "onboard_time": 1699923633,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 442589,
       "num": 362011,
       "word": "王星越 小孩哥",
@@ -2041,6 +2041,14 @@
       "onboard_time": 1699836815,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365982,
+      "num": 365982,
+      "word": "玉骨遥的美是如何拍出来的",
+      "onboard_time": 1699923333,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 365134,
@@ -2459,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302375,
+      "num": 302375,
+      "word": "23岁女生工地当包工头",
+      "onboard_time": 1699923995,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301818,
       "num": 301818,
       "word": "王鹤棣白鹿会唱仙剑主题曲但不知道名",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1699923633,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299608,
+      "num": 299608,
+      "word": "重返巴厘岛通往旧金山",
+      "onboard_time": 1699923214,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 299551,
@@ -2787,14 +2811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268991,
-      "num": 268991,
-      "word": "玉骨遥的美是如何拍出来的",
-      "onboard_time": 1699923333,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268669,
       "num": 268669,
       "word": "五月天上海演唱会",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1699889610,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260056,
-      "num": 260056,
-      "word": "重返巴厘岛通往旧金山",
-      "onboard_time": 1699923214,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 259618,
@@ -3763,6 +3771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198903,
+      "num": 198903,
+      "word": "APEC前夕旧金山8000流浪汉一夜消失",
+      "onboard_time": 1699924053,
+      "rank": 41,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 198149,
       "num": 198149,
       "word": "邓紫棋广州演唱会门票秒售罄",
@@ -4097,14 +4113,6 @@
       "onboard_time": 1699868130,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 179017,
-      "num": 179017,
-      "word": "23岁女生工地当包工头",
-      "onboard_time": 1699923995,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177816,
@@ -4443,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165884,
+      "num": 165884,
+      "word": "乐游原男二 偏执的爱",
+      "onboard_time": 1699924832,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165671,
       "num": 165671,
       "word": "没想到狗的鼻子居然是开口的",
@@ -4601,6 +4617,14 @@
       "onboard_time": 1699787191,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157533,
+      "num": 157533,
+      "word": "被演戏耽误的实力歌手",
+      "onboard_time": 1699925252,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157078,
@@ -4851,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146843,
+      "num": 146843,
+      "word": "不是所有的城市都在过冬",
+      "onboard_time": 1699924413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146664,
       "num": 146664,
       "word": "为什么不能每天敷面膜",
@@ -4873,6 +4905,14 @@
       "onboard_time": 1699861295,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143801,
+      "num": 143801,
+      "word": "用雨爱BGM打开遮宁",
+      "onboard_time": 1699925072,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 143335,
@@ -4963,20 +5003,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140531,
-      "num": 140531,
-      "word": "APEC前夕旧金山8000流浪汉一夜消失",
-      "onboard_time": 1699924053,
-      "rank": 41,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 139911,
       "num": 151819,
       "word": "T1 作业好抄",
       "onboard_time": 1699696949,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139763,
+      "num": 139763,
+      "word": "以称哈马斯已失去对加沙地带控制",
+      "onboard_time": 1699925192,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 139610,
@@ -5283,14 +5323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126233,
-      "num": 126233,
-      "word": "不是所有的城市都在过冬",
-      "onboard_time": 1699924413,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125571,
       "num": 717375,
       "word": "秋天的九寨沟是色彩的交点",
@@ -5449,6 +5481,14 @@
       "onboard_time": 1699735753,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118397,
+      "num": 118397,
+      "word": "陈丽君师傅茅威涛",
+      "onboard_time": 1699925674,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 118145,
