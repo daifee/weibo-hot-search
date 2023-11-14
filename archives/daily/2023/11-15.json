@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1699986839271,
+  "endTime": 1699989131570,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28048,
+      "num": 28048,
+      "word": "魏大勋放空",
+      "onboard_time": 1699986494,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25631,
       "num": 25631,
       "word": "陈伟霆这花衬衫是一百三件吗",
@@ -451,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24157,
-      "num": 24157,
-      "word": "魏大勋放空",
-      "onboard_time": 1699986494,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 19708,
+      "num": 19708,
+      "word": "杨玏不愧是西岐长子",
+      "onboard_time": 1699988175,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 9988,

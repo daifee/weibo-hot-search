@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699986839271,
+  "endTime": 1699989131570,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -39379,6 +39379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28048,
+      "num": 28048,
+      "word": "魏大勋放空",
+      "onboard_time": 1699986494,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27796,
       "num": 27796,
       "word": "Mark泰容泰民跳了Guilty",
@@ -39457,14 +39465,6 @@
       "onboard_time": 1699268436,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 24157,
-      "num": 24157,
-      "word": "魏大勋放空",
-      "onboard_time": 1699986494,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 24123,
@@ -39585,6 +39585,14 @@
       "onboard_time": 1699904592,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19708,
+      "num": 19708,
+      "word": "杨玏不愧是西岐长子",
+      "onboard_time": 1699988175,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 19690,
