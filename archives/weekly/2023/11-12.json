@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1699985981314,
+  "endTime": 1699986839271,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -8235,6 +8235,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 93052,
+      "num": 93052,
+      "word": "1700元的林清轩香水下架",
+      "onboard_time": 1699982779,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "燕临冠礼",
@@ -8281,14 +8289,6 @@
       "onboard_time": 1699842809,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 89354,
-      "num": 89354,
-      "word": "1700元的林清轩香水下架",
-      "onboard_time": 1699982779,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 87081,
@@ -8635,6 +8635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25631,
+      "num": 25631,
+      "word": "陈伟霆这花衬衫是一百三件吗",
+      "onboard_time": 1699985120,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24880,
       "num": 277786,
       "word": "中国女篮获年度榜样运动队",
@@ -8643,20 +8651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24157,
+      "num": 24157,
+      "word": "魏大勋放空",
+      "onboard_time": 1699986494,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22946,
       "num": 311230,
       "word": "糖尿病会腐蚀哪些器官",
       "onboard_time": 1699941636,
       "rank": 14,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 22179,
-      "num": 22179,
-      "word": "陈伟霆这花衬衫是一百三件吗",
-      "onboard_time": 1699985120,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 21326,
@@ -8715,7 +8723,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 9887,
+      "raw_hot": 9988,
       "num": 233913,
       "word": "中欧班列跑出亮眼成绩单",
       "onboard_time": 1699968332,

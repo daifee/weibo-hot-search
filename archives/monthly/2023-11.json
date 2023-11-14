@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699985981314,
+  "endTime": 1699986839271,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -37163,6 +37163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 93052,
+      "num": 93052,
+      "word": "1700元的林清轩香水下架",
+      "onboard_time": 1699982779,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 92969,
       "num": 113541,
       "word": "Apex进不去",
@@ -37329,14 +37337,6 @@
       "onboard_time": 1699842809,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 89354,
-      "num": 89354,
-      "word": "1700元的林清轩香水下架",
-      "onboard_time": 1699982779,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 89260,
@@ -39419,6 +39419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25631,
+      "num": 25631,
+      "word": "陈伟霆这花衬衫是一百三件吗",
+      "onboard_time": 1699985120,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24946,
       "num": 26765,
       "word": "刘涛白色露肩马甲连体裤",
@@ -39449,6 +39457,14 @@
       "onboard_time": 1699268436,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 24157,
+      "num": 24157,
+      "word": "魏大勋放空",
+      "onboard_time": 1699986494,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 24123,
@@ -39513,14 +39529,6 @@
       "onboard_time": 1698783313,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22179,
-      "num": 22179,
-      "word": "陈伟霆这花衬衫是一百三件吗",
-      "onboard_time": 1699985120,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 22072,
@@ -39763,7 +39771,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 9887,
+      "raw_hot": 9988,
       "num": 233913,
       "word": "中欧班列跑出亮眼成绩单",
       "onboard_time": 1699968332,
