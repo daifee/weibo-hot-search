@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/14 23:18:45
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/14 23:34:23
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@ JDG对战T1（热度：3781551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23" target="weibo">
 多国爆发床虱危机（热度：2122047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E7%9D%80%E7%81%AB%23" target="weibo">
+中传着火（热度：2020851）
 </a>
 </li>
 
@@ -425,6 +431,12 @@ Faker无需向众神祈祷（热度：1321697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E6%82%94%E5%A9%9A%E5%B0%91%E9%80%8015%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%23" target="weibo">
 女友悔婚少退15万彩礼男子持刀行凶（热度：1191246）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E7%A0%94%E4%B8%89%E5%AD%A6%E7%94%9F%E7%95%99%E9%81%97%E4%B9%A6%E5%90%8E%E8%BD%BB%E7%94%9F%23" target="weibo">
+武汉一研三学生留遗书后轻生（热度：1182487）
 </a>
 </li>
 
@@ -795,6 +807,12 @@ WBG战胜BLG（热度：822755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E8%83%83%E7%99%8C%E9%A3%8E%E9%99%A9%E6%88%96%E7%BF%BB%E5%80%8D%23" target="weibo">
+感染幽门螺杆菌胃癌风险或翻倍（热度：795593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%81%8B%E4%BA%BA%E6%9C%89%E4%BA%B2%E5%AF%86%E6%81%90%E6%83%A7%E7%97%87%E5%90%97%23" target="weibo">
 你能接受恋人有亲密恐惧症吗（热度：791119）
 </a>
@@ -893,12 +911,6 @@ Jennie50亿韩元购入高档别墅（热度：766664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E9%BC%93%E5%8A%B1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 秦海璐鼓励迪丽热巴（热度：742055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E8%83%83%E7%99%8C%E9%A3%8E%E9%99%A9%E6%88%96%E7%BF%BB%E5%80%8D%23" target="weibo">
-感染幽门螺杆菌胃癌风险或翻倍（热度：740305）
 </a>
 </li>
 
@@ -1041,12 +1053,6 @@ Kanavi在干嘛（热度：674777）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E7%9D%80%E7%81%AB%23" target="weibo">
-中传着火（热度：671502）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E8%87%AA%E5%8D%91%23" target="weibo">
 健身杀死了我的自卑（热度：665951）
 </a>
@@ -1115,12 +1121,6 @@ YG回应与BLACKPINK续约（热度：646080）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%E7%AC%AC100%E6%AC%A1%E5%AF%B9%E5%86%B3%23" target="weibo">
 Ruler和Faker第100次对决（热度：632705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E7%A0%94%E4%B8%89%E5%AD%A6%E7%94%9F%E7%95%99%E9%81%97%E4%B9%A6%E5%90%8E%E8%BD%BB%E7%94%9F%23" target="weibo">
-武汉一研三学生留遗书后轻生（热度：631503）
 </a>
 </li>
 
@@ -1683,6 +1683,12 @@ Faker拒绝做弱爆动作（热度：478144）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%AD%A6%E9%99%9F%E5%8E%BF%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E7%94%9F%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%23" target="weibo">
+河南武陟县一中学发生踩踏事件（热度：457707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8F%AB%E5%8D%A2%E6%98%B1%E6%99%93%E6%99%93%E6%99%93%23" target="weibo">
 丞磊叫卢昱晓晓晓（热度：457268）
 </a>
@@ -2049,12 +2055,6 @@ KPOP炸裂周边 成员脸面膜（热度：390759）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%AD%A6%E9%99%9F%E5%8E%BF%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E7%94%9F%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%23" target="weibo">
-河南武陟县一中学发生踩踏事件（热度：385712）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%81%8C%E6%A0%A1%E5%85%8B%E6%89%A3%E5%AD%A6%E7%94%9F%E5%B7%A8%E9%A2%9D%E5%AE%9E%E4%B9%A0%E6%8A%A5%E9%85%AC%23" target="weibo">
 官方通报职校克扣学生巨额实习报酬（热度：384923）
 </a>
@@ -2279,6 +2279,12 @@ cityline崩了（热度：361365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E9%97%AE%E6%83%B3%E7%9C%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%92%A9%E5%BC%80%E5%88%98%E6%B5%B7%E5%90%97%23" target="weibo">
 张远问想看林俊杰撩开刘海吗（热度：340308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E7%94%9F%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%87%B41%E6%AD%BB5%E4%BC%A4%23" target="weibo">
+河南一中学发生踩踏事件致1死5伤（热度：339860）
 </a>
 </li>
 
@@ -4293,6 +4299,12 @@ A股（热度：185731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%AE%E4%B8%8D%E4%BD%8F%E7%9C%BC%E8%A2%8B%E5%B0%B1%E6%8A%8A%E5%AE%83%E5%8F%98%E6%88%90%E5%8D%A7%E8%9A%95%E5%90%A7%23" target="weibo">
+遮不住眼袋就把它变成卧蚕吧（热度：182758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%8E%E9%81%97%E7%97%87%23" target="weibo">
 五月天后遗症（热度：182579）
 </a>
@@ -4349,12 +4361,6 @@ A股（热度：185731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8A%B1%E8%80%81%E6%9D%BF%E4%B8%8A%E7%8F%AD%E4%BA%86%23" target="weibo">
 虞书欣花老板上班了（热度：177711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%AE%E4%B8%8D%E4%BD%8F%E7%9C%BC%E8%A2%8B%E5%B0%B1%E6%8A%8A%E5%AE%83%E5%8F%98%E6%88%90%E5%8D%A7%E8%9A%95%E5%90%A7%23" target="weibo">
-遮不住眼袋就把它变成卧蚕吧（热度：177553）
 </a>
 </li>
 
@@ -4577,6 +4583,12 @@ aespa 搞笑一家人（热度：171745）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E6%B8%B8%E5%8E%9F%20%E9%87%91%E5%B1%8B%E8%97%8F%E7%8C%AA%23" target="weibo">
 乐游原 金屋藏猪（热度：169248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E9%92%A6%20%E5%A5%BD%E4%BC%9A%E8%A7%86%E9%A2%91%E8%90%A5%E4%B8%9A%23" target="weibo">
+张雅钦 好会视频营业（热度：168952）
 </a>
 </li>
 
@@ -5685,6 +5697,12 @@ WBG晋级S13总决赛（热度：125226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E6%8E%89%E9%A9%AC%23" target="weibo">
+时宴掉马（热度：120076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E4%B9%A1%E5%88%AB%E6%9D%A5%E6%97%A0%E6%81%99%20%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%81%8B%E7%88%B1%23" target="weibo">
 故乡别来无恙 成年人的恋爱（热度：119956）
 </a>
@@ -6232,7 +6250,7 @@ X100稳了（热度：76505）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%86%B7%E5%90%97%23" target="weibo">
-暖阳真的不冷吗（热度：73611）
+暖阳真的不冷吗（热度：73914）
 </a>
 </li>
 
