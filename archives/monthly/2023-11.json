@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1699935630153,
+  "endTime": 1699936466375,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1491,6 +1491,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1730492,
+      "num": 963669,
+      "word": "赵丽颖雪祭司神女妆",
+      "onboard_time": 1699933293,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1726434,
       "num": 588703,
       "word": "25岁女子欲离婚被丈夫割喉杀害",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1698911915,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1691884,
-      "num": 902231,
-      "word": "赵丽颖雪祭司神女妆",
-      "onboard_time": 1699933293,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1691802,
@@ -3507,6 +3507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057463,
+      "num": 1057463,
+      "word": "邱泽演晋江男主了",
+      "onboard_time": 1699934730,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1047846,
       "num": 1047846,
       "word": "每天1包方便面身体会发生什么变化",
@@ -4569,14 +4577,6 @@
       "onboard_time": 1699818615,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839033,
-      "num": 839033,
-      "word": "邱泽演晋江男主了",
-      "onboard_time": 1699934730,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 837933,
@@ -7673,6 +7673,14 @@
       "onboard_time": 1699627176,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 581271,
+      "num": 581271,
+      "word": "B太大连鬼秤破解实锤",
+      "onboard_time": 1699935817,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580736,
@@ -10908,7 +10916,7 @@
     },
     {
       "raw_hot": 425550,
-      "num": 285026,
+      "num": 305282,
       "word": "小腿想不细都难了",
       "onboard_time": 1699930710,
       "rank": 20,
@@ -14699,6 +14707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320287,
+      "num": 320287,
+      "word": "2023目前票房前十的国产片",
+      "onboard_time": 1699933293,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319925,
       "num": 319925,
       "word": "85四大青衣提名",
@@ -15043,6 +15059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 312705,
+      "num": 312705,
+      "word": "欧刚因支持WBG被T1赶出办公室",
+      "onboard_time": 1699935696,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 312578,
       "num": 485733,
       "word": "江苏省考",
@@ -15201,6 +15225,14 @@
       "onboard_time": 1699166073,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 309037,
+      "num": 309037,
+      "word": "崔雪莉生前纪录片 再告别",
+      "onboard_time": 1699934253,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 308996,
@@ -17235,14 +17267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 270519,
-      "num": 270519,
-      "word": "崔雪莉生前纪录片 再告别",
-      "onboard_time": 1699934253,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270511,
       "num": 270511,
       "word": "ELLE盛典内场嘉宾名单",
@@ -17537,6 +17561,14 @@
       "onboard_time": 1698837514,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264976,
+      "num": 264976,
+      "word": "揭秘缅北电诈园区黑监狱",
+      "onboard_time": 1699936175,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264901,
@@ -17857,6 +17889,14 @@
       "onboard_time": 1699928377,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259644,
+      "num": 259644,
+      "word": "男生1秒跳9.2次破纪录夺冠",
+      "onboard_time": 1699933293,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 259624,
@@ -18587,14 +18627,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 249722,
-      "num": 249722,
-      "word": "男生1秒跳9.2次破纪录夺冠",
-      "onboard_time": 1699933293,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249545,
       "num": 249545,
       "word": "胃其实是情绪器官",
@@ -19265,14 +19297,6 @@
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 240329,
-      "num": 240329,
-      "word": "2023目前票房前十的国产片",
-      "onboard_time": 1699933293,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 240227,
@@ -20033,6 +20057,14 @@
       "onboard_time": 1699672589,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230696,
+      "num": 230696,
+      "word": "宁艺卓想剃光头",
+      "onboard_time": 1699935576,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 230613,
@@ -21465,6 +21497,14 @@
       "onboard_time": 1699781370,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214572,
+      "num": 214572,
+      "word": "世界海拔最高国门的升旗仪式",
+      "onboard_time": 1699935335,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214554,
@@ -23883,6 +23923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196421,
+      "num": 196421,
+      "word": "危危一笑生死难料",
+      "onboard_time": 1699935874,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196344,
       "num": 190266,
       "word": "宋茜陈星旭新剧双A海报",
@@ -24489,14 +24537,6 @@
       "onboard_time": 1699535855,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 191356,
-      "num": 191356,
-      "word": "世界海拔最高国门的升旗仪式",
-      "onboard_time": 1699935335,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191134,
@@ -25603,6 +25643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184155,
+      "num": 184155,
+      "word": "岩井勇气宣布与19岁女友结婚",
+      "onboard_time": 1699935273,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184140,
       "num": 184140,
       "word": "阳光下的赵露思",
@@ -26153,6 +26201,14 @@
       "onboard_time": 1699274915,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177711,
+      "num": 177711,
+      "word": "虞书欣花老板上班了",
+      "onboard_time": 1699934375,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 177557,
@@ -27065,14 +27121,6 @@
       "onboard_time": 1699270413,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169814,
-      "num": 169814,
-      "word": "虞书欣花老板上班了",
-      "onboard_time": 1699934375,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 169807,
@@ -30243,14 +30291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144322,
-      "num": 144322,
-      "word": "岩井勇气宣布与19岁女友结婚",
-      "onboard_time": 1699935273,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144321,
       "num": 144321,
       "word": "张小斐 突破",
@@ -30273,6 +30313,14 @@
       "onboard_time": 1699605037,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144038,
+      "num": 144038,
+      "word": "乐游原 分集取标题",
+      "onboard_time": 1699935576,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143981,
@@ -31304,6 +31352,14 @@
       "word": "aespa winter音中直拍",
       "onboard_time": 1699755692,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134707,
+      "num": 134707,
+      "word": "你好种地少年",
+      "onboard_time": 1699936416,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -33427,14 +33483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117770,
-      "num": 117770,
-      "word": "乐游原 分集取标题",
-      "onboard_time": 1699935576,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117768,
       "num": 117768,
       "word": "张拿铁姥爷和奶奶太可爱了",
@@ -34243,14 +34291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108492,
-      "num": 108492,
-      "word": "宁艺卓想剃光头",
-      "onboard_time": 1699935576,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108464,
       "num": 217125,
       "word": "派出所举办被盗财物返还仪式村民笑得合不拢嘴",
@@ -34521,6 +34561,14 @@
       "onboard_time": 1699722626,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104429,
+      "num": 323159,
+      "word": "vivo拍出了老舍笔下的北京",
+      "onboard_time": 1699933832,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 104412,
@@ -35585,14 +35633,6 @@
       "onboard_time": 1699719512,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86597,
-      "num": 290729,
-      "word": "vivo拍出了老舍笔下的北京",
-      "onboard_time": 1699933832,
-      "rank": 15,
-      "category": "旅游"
     },
     {
       "raw_hot": 86549,
@@ -36739,6 +36779,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 58301,
+      "num": 325254,
+      "word": "竞燃之夜好多冠军啊",
+      "onboard_time": 1699934434,
+      "rank": 14,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 58126,
       "num": 197775,
       "word": "李思思被孩子的想象力惊艳到",
@@ -36921,14 +36969,6 @@
       "onboard_time": 1699416034,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53004,
-      "num": 297505,
-      "word": "竞燃之夜好多冠军啊",
-      "onboard_time": 1699934434,
-      "rank": 14,
-      "category": "体育,电竞"
     },
     {
       "raw_hot": 52587,
@@ -37380,7 +37420,7 @@
     },
     {
       "raw_hot": 34391,
-      "num": 957011,
+      "num": 964169,
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1699881575,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1699936466375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1057463,
+        "num": 1057463,
+        "word": "邱泽演晋江男主了",
+        "onboard_time": 1699934730,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1007892,
+        "num": 1007892,
+        "word": "成都被狗咬伤女童已出院",
+        "onboard_time": 1699931731,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5403,
+        "num": 964169,
+        "word": "聚焦中国经济圆桌会",
+        "onboard_time": 1699881575,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1730492,
+        "num": 963669,
+        "word": "赵丽颖雪祭司神女妆",
+        "onboard_time": 1699933293,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 961424,
+        "num": 961424,
+        "word": "两所高校官宣共用一扇校门",
+        "onboard_time": 1699928976,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 602046,
+        "num": 602046,
+        "word": "光腿神器的危害有多大",
+        "onboard_time": 1699929333,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 581271,
+        "num": 581271,
+        "word": "B太大连鬼秤破解实锤",
+        "onboard_time": 1699935817,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521866,
+        "num": 521866,
+        "word": "商丘妇幼保健院保健科原科长被判8年",
+        "onboard_time": 1699931553,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403493,
+        "num": 403493,
+        "word": "姜雪宁 姐宝女",
+        "onboard_time": 1699931133,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330114,
+        "num": 330114,
+        "word": "叶剑英元帅夫人吴博逝世",
+        "onboard_time": 1699926512,
+        "rank": 9,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 844343,
+        "num": 329393,
+        "word": "缅甸电诈园区",
+        "onboard_time": 1699930173,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782336,
+        "num": 328388,
+        "word": "室友遭追砍女子帮呼救也被砍20多刀",
+        "onboard_time": 1699923633,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731907,
+        "num": 327201,
+        "word": "亨利集团",
+        "onboard_time": 1699922734,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432328,
+        "num": 325948,
+        "word": "缅北四大家族",
+        "onboard_time": 1699921595,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58301,
+        "num": 325254,
+        "word": "竞燃之夜好多冠军啊",
+        "onboard_time": 1699934434,
+        "rank": 14,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 104429,
+        "num": 323159,
+        "word": "vivo拍出了老舍笔下的北京",
+        "onboard_time": 1699933832,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322979,
+        "num": 322979,
+        "word": "KPOP炸裂周边 成员脸面膜",
+        "onboard_time": 1699930532,
+        "rank": 16,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 320287,
+        "num": 320287,
+        "word": "2023目前票房前十的国产片",
+        "onboard_time": 1699933293,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312705,
+        "num": 312705,
+        "word": "欧刚因支持WBG被T1赶出办公室",
+        "onboard_time": 1699935696,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 309037,
+        "num": 309037,
+        "word": "崔雪莉生前纪录片 再告别",
+        "onboard_time": 1699934253,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330032,
+        "num": 305282,
+        "word": "小腿想不细都难了",
+        "onboard_time": 1699930710,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 264976,
+        "num": 264976,
+        "word": "揭秘缅北电诈园区黑监狱",
+        "onboard_time": 1699936175,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259644,
+        "num": 259644,
+        "word": "男生1秒跳9.2次破纪录夺冠",
+        "onboard_time": 1699933293,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258654,
+        "num": 258654,
+        "word": "在何猷君身上看到了生理性喜欢的样子",
+        "onboard_time": 1699878273,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253255,
+        "num": 253255,
+        "word": "苹果公司将禁止摇一摇跳转广告",
+        "onboard_time": 1699884158,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 236230,
+        "num": 236230,
+        "word": "很多胃癌是吃出来",
+        "onboard_time": 1699920091,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231153,
+        "num": 231153,
+        "word": "权志龙直播回应涉嫌吸毒",
+        "onboard_time": 1699922855,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230696,
+        "num": 230696,
+        "word": "宁艺卓想剃光头",
+        "onboard_time": 1699935576,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223687,
+        "num": 223687,
+        "word": "阴阳师皮肤 好看又不好看",
+        "onboard_time": 1699933174,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220275,
+        "num": 220275,
+        "word": "瞒天过海 12人格海报",
+        "onboard_time": 1699934314,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214807,
+        "num": 214807,
+        "word": "23岁女生工地当包工头",
+        "onboard_time": 1699923995,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214572,
+        "num": 214572,
+        "word": "世界海拔最高国门的升旗仪式",
+        "onboard_time": 1699935335,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196421,
+        "num": 196421,
+        "word": "危危一笑生死难料",
+        "onboard_time": 1699935874,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184155,
+        "num": 184155,
+        "word": "岩井勇气宣布与19岁女友结婚",
+        "onboard_time": 1699935273,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181577,
+        "num": 181577,
+        "word": "假如孟宴臣和秦明是室友",
+        "onboard_time": 1699929872,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177711,
+        "num": 177711,
+        "word": "虞书欣花老板上班了",
+        "onboard_time": 1699934375,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177574,
+        "num": 177574,
+        "word": "十个勤天 去年今日",
+        "onboard_time": 1699928011,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175583,
+        "num": 175583,
+        "word": "被狗咬伤女童住院花费8万余元",
+        "onboard_time": 1699932272,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "恋与深空 内测玩家",
+        "onboard_time": 1699932631,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158286,
+        "num": 158286,
+        "word": "莲花楼爱奇艺站内分涨至9.3",
+        "onboard_time": 1699928849,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151785,
+        "num": 151785,
+        "word": "七宗罪PDF当事人方某已去世",
+        "onboard_time": 1699926153,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148939,
+        "num": 148939,
+        "word": "影版那个不为人知的故事杀青",
+        "onboard_time": 1699934072,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148607,
+        "num": 148607,
+        "word": "瞒天过海反转又反转",
+        "onboard_time": 1699933953,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144038,
+        "num": 144038,
+        "word": "乐游原 分集取标题",
+        "onboard_time": 1699935576,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 134707,
+        "word": "你好种地少年",
+        "onboard_time": 1699936416,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130259,
+        "num": 130259,
+        "word": "普尔耍大牌",
+        "onboard_time": 1699927891,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128221,
+        "num": 128221,
+        "word": "陈楚生不唱跳的原因",
+        "onboard_time": 1699928377,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125907,
+        "num": 125907,
+        "word": "小学生偷拿100元请客被妈妈带到派出所",
+        "onboard_time": 1699927891,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116540,
+        "num": 116540,
+        "word": "网友吐槽政务大厅全天工作6个小时",
+        "onboard_time": 1699886735,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115924,
+        "num": 115924,
+        "word": "玉骨遥的美是如何拍出来的",
+        "onboard_time": 1699923333,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升基层防灾避险和自救互救能力#"
+    }
+  }
+}
