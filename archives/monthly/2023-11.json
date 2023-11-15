@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700044684734,
+  "endTime": 1700046930821,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1835,6 +1835,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1630900,
+      "num": 559280,
+      "word": "陈坤 我发小",
+      "onboard_time": 1700043396,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1629958,
       "num": 1629958,
       "word": "父子俩5.2元购入95号汽油6.7元售出",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1699864831,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1113323,
-      "num": 559280,
-      "word": "陈坤 我发小",
-      "onboard_time": 1700043396,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1111056,
@@ -6603,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709310,
+      "num": 595821,
+      "word": "顺其自然25年捐款1577万",
+      "onboard_time": 1700043155,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709221,
       "num": 1078707,
       "word": "4家邻居8年几乎处成1家人",
@@ -8305,6 +8313,14 @@
       "onboard_time": 1699589672,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592784,
+      "num": 369811,
+      "word": "赵露思新发型",
+      "onboard_time": 1700045555,
+      "rank": 20,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 591521,
@@ -10099,6 +10115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496939,
+      "num": 496939,
+      "word": "韩孝周大钟奖视后",
+      "onboard_time": 1700045671,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496795,
       "num": 496795,
       "word": "胡先煦帮迪丽热巴解围",
@@ -10763,14 +10787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 472488,
-      "num": 595821,
-      "word": "顺其自然25年捐款1577万",
-      "onboard_time": 1700043155,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472310,
       "num": 425274,
       "word": "肖战vlog 罗马假日",
@@ -11129,6 +11145,14 @@
       "onboard_time": 1699698933,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 458328,
+      "num": 458328,
+      "word": "医生提醒逍遥丸不要自行乱服",
+      "onboard_time": 1700044533,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 457793,
@@ -12537,6 +12561,14 @@
       "onboard_time": 1699878873,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410805,
+      "num": 410805,
+      "word": "Faker回应拒绝比弱爆",
+      "onboard_time": 1700045915,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 410760,
@@ -14835,6 +14867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351884,
+      "num": 351884,
+      "word": "李相夷 不愧为天下第一",
+      "onboard_time": 1700043756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351818,
       "num": 351818,
       "word": "五月天重返八万人",
@@ -16611,6 +16651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 311400,
+      "num": 311400,
+      "word": "刘亦菲玫瑰故事1女5男",
+      "onboard_time": 1700046392,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310939,
       "num": 492029,
       "word": "莎头 健康涨球",
@@ -17651,6 +17699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289741,
+      "num": 289741,
+      "word": "大闸蟹价格",
+      "onboard_time": 1700044533,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 289545,
       "num": 289545,
       "word": "癫公颠婆 使不完的牛劲",
@@ -18433,6 +18489,14 @@
       "onboard_time": 1699340973,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277741,
+      "num": 277741,
+      "word": "腾讯公布2023年第三季度财报",
+      "onboard_time": 1700045256,
+      "rank": 26,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 277733,
@@ -20123,6 +20187,14 @@
       "category": "情感,情感"
     },
     {
+      "raw_hot": 253225,
+      "num": 253225,
+      "word": "张凌赫镜头下的白鹿",
+      "onboard_time": 1700040635,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253164,
       "num": 231128,
       "word": "秦岚迪丽热巴赵昭仪吃的好香",
@@ -20395,14 +20467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 250468,
-      "num": 250468,
-      "word": "张凌赫镜头下的白鹿",
-      "onboard_time": 1700040635,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250296,
       "num": 250296,
       "word": "被演戏耽误的实力歌手",
@@ -20497,6 +20561,14 @@
       "onboard_time": 1698794667,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 249017,
+      "num": 249017,
+      "word": "杨迪给谢娜打了20遍电话",
+      "onboard_time": 1700046034,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 248615,
@@ -21483,14 +21555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235916,
-      "num": 235916,
-      "word": "李相夷 不愧为天下第一",
-      "onboard_time": 1700043756,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235835,
       "num": 235835,
       "word": "赵小童英文演讲",
@@ -21984,6 +22048,14 @@
       "word": "迪丽热巴躺在地上帮秦海璐拍照",
       "onboard_time": 1698831631,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230788,
+      "num": 230788,
+      "word": "尖叫之夜真假cp大乱炖",
+      "onboard_time": 1700042497,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -23153,6 +23225,14 @@
       "onboard_time": 1699950513,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219363,
+      "num": 219363,
+      "word": "罗海琼回应变老",
+      "onboard_time": 1700046573,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 219343,
@@ -24803,6 +24883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 205154,
+      "num": 205154,
+      "word": "霍格沃兹的监控",
+      "onboard_time": 1700046392,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205032,
       "num": 205032,
       "word": "流浪地球3",
@@ -25217,14 +25305,6 @@
       "onboard_time": 1699413571,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202218,
-      "num": 202218,
-      "word": "尖叫之夜真假cp大乱炖",
-      "onboard_time": 1700042497,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 202119,
@@ -28083,14 +28163,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 184445,
-      "num": 184445,
-      "word": "大闸蟹价格",
-      "onboard_time": 1700044533,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 184430,
       "num": 184430,
       "word": "柳智敏给ITZY的视频信",
@@ -28209,6 +28281,14 @@
       "onboard_time": 1700017953,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183497,
+      "num": 183497,
+      "word": "秦岚 治愈",
+      "onboard_time": 1700046097,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183300,
@@ -28705,6 +28785,14 @@
       "onboard_time": 1699360235,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178491,
+      "num": 178491,
+      "word": "海底捞回应试点调整份量和价格",
+      "onboard_time": 1700046872,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 178428,
@@ -29401,6 +29489,14 @@
       "onboard_time": 1699094911,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172868,
+      "num": 172868,
+      "word": "WBG对阵T1所有结局",
+      "onboard_time": 1700046697,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 172866,
@@ -32153,14 +32249,6 @@
       "onboard_time": 1698970053,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 152588,
-      "num": 152588,
-      "word": "医生提醒逍遥丸不要自行乱服",
-      "onboard_time": 1700044533,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 152576,
@@ -36657,6 +36745,14 @@
       "onboard_time": 1699842752,
       "rank": 43,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 119783,
+      "num": 179060,
+      "word": "记者从冰窟救出男童9个月后被认出",
+      "onboard_time": 1700046635,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119672,

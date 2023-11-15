@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700044684734,
+  "endTime": 1700046930821,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -57,6 +57,14 @@
       "onboard_time": 1700004445,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1630900,
+      "num": 559280,
+      "word": "陈坤 我发小",
+      "onboard_time": 1700043396,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1615313,
@@ -169,14 +177,6 @@
       "onboard_time": 1700011893,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1113323,
-      "num": 559280,
-      "word": "陈坤 我发小",
-      "onboard_time": 1700043396,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1060091,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709310,
+      "num": 595821,
+      "word": "顺其自然25年捐款1577万",
+      "onboard_time": 1700043155,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708132,
       "num": 433664,
       "word": "白敬亭宋轶都去尖叫之夜",
@@ -483,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 592784,
+      "num": 369811,
+      "word": "赵露思新发型",
+      "onboard_time": 1700045555,
+      "rank": 20,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 563124,
       "num": 563124,
       "word": "Crisp说这里是T1的终点",
@@ -531,6 +547,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 496939,
+      "num": 496939,
+      "word": "韩孝周大钟奖视后",
+      "onboard_time": 1700045671,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495426,
       "num": 273113,
       "word": "文俊辉联合国中文演讲发言",
@@ -563,20 +587,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 472488,
-      "num": 595821,
-      "word": "顺其自然25年捐款1577万",
-      "onboard_time": 1700043155,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464950,
       "num": 293015,
       "word": "从何猷君表情看出霸总执行力",
       "onboard_time": 1700010872,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458328,
+      "num": 458328,
+      "word": "医生提醒逍遥丸不要自行乱服",
+      "onboard_time": 1700044533,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 447054,
@@ -659,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 410805,
+      "num": 410805,
+      "word": "Faker回应拒绝比弱爆",
+      "onboard_time": 1700045915,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 410370,
       "num": 235575,
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
@@ -737,6 +769,14 @@
       "onboard_time": 1700037934,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 351884,
+      "num": 351884,
+      "word": "李相夷 不愧为天下第一",
+      "onboard_time": 1700043756,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 347044,
@@ -819,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311400,
+      "num": 311400,
+      "word": "刘亦菲玫瑰故事1女5男",
+      "onboard_time": 1700046392,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308879,
       "num": 308879,
       "word": "秦岚辛芷蕾想住迪丽热巴的大床房",
@@ -883,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 289741,
+      "num": 289741,
+      "word": "大闸蟹价格",
+      "onboard_time": 1700044533,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 287203,
       "num": 576923,
       "word": "四川的百年柿子瀑布又红了",
@@ -937,6 +993,14 @@
       "onboard_time": 1700017953,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 277741,
+      "num": 277741,
+      "word": "腾讯公布2023年第三季度财报",
+      "onboard_time": 1700045256,
+      "rank": 26,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 276558,
@@ -1027,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253225,
+      "num": 253225,
+      "word": "张凌赫镜头下的白鹿",
+      "onboard_time": 1700040635,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250678,
       "num": 250678,
       "word": "姜雪宁燕临判词 爱也没用没用也爱",
@@ -1035,12 +1107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250468,
-      "num": 250468,
-      "word": "张凌赫镜头下的白鹿",
-      "onboard_time": 1700040635,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 249017,
+      "num": 249017,
+      "word": "杨迪给谢娜打了20遍电话",
+      "onboard_time": 1700046034,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 246091,
@@ -1091,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235916,
-      "num": 235916,
-      "word": "李相夷 不愧为天下第一",
-      "onboard_time": 1700043756,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235792,
       "num": 235792,
       "word": "1700元的林清轩香水下架",
@@ -1120,6 +1184,14 @@
       "word": "吴宗宪说一年收到2000多个包",
       "onboard_time": 1699972113,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230788,
+      "num": 230788,
+      "word": "尖叫之夜真假cp大乱炖",
+      "onboard_time": 1700042497,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1193,6 +1265,14 @@
       "onboard_time": 1700021254,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219363,
+      "num": 219363,
+      "word": "罗海琼回应变老",
+      "onboard_time": 1700046573,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 216703,
@@ -1283,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205154,
+      "num": 205154,
+      "word": "霍格沃兹的监控",
+      "onboard_time": 1700046392,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204532,
       "num": 204532,
       "word": "黑白密码定档",
@@ -1305,14 +1393,6 @@
       "onboard_time": 1700017411,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202218,
-      "num": 202218,
-      "word": "尖叫之夜真假cp大乱炖",
-      "onboard_time": 1700042497,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 201000,
@@ -1427,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184445,
-      "num": 184445,
-      "word": "大闸蟹价格",
-      "onboard_time": 1700044533,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183857,
       "num": 183857,
       "word": "虔诚的拜佛小猫",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1700017953,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183497,
+      "num": 183497,
+      "word": "秦岚 治愈",
+      "onboard_time": 1700046097,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 182991,
@@ -1481,6 +1561,14 @@
       "onboard_time": 1700031453,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178491,
+      "num": 178491,
+      "word": "海底捞回应试点调整份量和价格",
+      "onboard_time": 1700046872,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 176899,
@@ -1561,6 +1649,14 @@
       "onboard_time": 1700004023,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172868,
+      "num": 172868,
+      "word": "WBG对阵T1所有结局",
+      "onboard_time": 1700046697,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 172866,
@@ -1712,14 +1808,6 @@
       "word": "1979年 骨相化妆",
       "onboard_time": 1699969053,
       "rank": 33,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 152588,
-      "num": 152588,
-      "word": "医生提醒逍遥丸不要自行乱服",
-      "onboard_time": 1700044533,
-      "rank": 43,
       "category": "美妆"
     },
     {
@@ -2009,6 +2097,14 @@
       "onboard_time": 1699973676,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119783,
+      "num": 179060,
+      "word": "记者从冰窟救出男童9个月后被认出",
+      "onboard_time": 1700046635,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119066,
