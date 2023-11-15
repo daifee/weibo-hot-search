@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700032591521,
+  "endTime": 1700033652169,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -443,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1439232,
+      "num": 524859,
+      "word": "运动员遭冰刀割喉身亡一男子被捕",
+      "onboard_time": 1700031994,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1435912,
       "num": 765325,
       "word": "左肩有你 正片",
       "onboard_time": 1700022155,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1424909,
+      "num": 465670,
+      "word": "山东一学校校服被质疑像寿衣",
+      "onboard_time": 1700025453,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1398092,
@@ -489,6 +505,14 @@
       "onboard_time": 1699784008,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1346857,
+      "num": 472090,
+      "word": "佳木斯大学跳江学生聊天记录曝光",
+      "onboard_time": 1700030131,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337799,
@@ -819,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1050085,
-      "num": 472090,
-      "word": "佳木斯大学跳江学生聊天记录曝光",
-      "onboard_time": 1700030131,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1047846,
       "num": 1047846,
       "word": "每天1包方便面身体会发生什么变化",
@@ -952,14 +968,6 @@
       "word": "小学校长9年强奸猥亵22学生被执行死刑",
       "onboard_time": 1699718913,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941451,
-      "num": 465670,
-      "word": "山东一学校校服被质疑像寿衣",
-      "onboard_time": 1700025453,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1185,14 @@
       "onboard_time": 1699875634,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824444,
+      "num": 517936,
+      "word": "我恋5癫公癫婆一分钟亲了5次",
+      "onboard_time": 1700030912,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 823123,
@@ -1411,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 735978,
-      "num": 517936,
-      "word": "我恋5癫公癫婆一分钟亲了5次",
-      "onboard_time": 1700030912,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 734706,
       "num": 734706,
       "word": "压力给到WBG",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1699790495,
       "rank": 19,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 714512,
+      "num": 546672,
+      "word": "陈奕迅演唱会",
+      "onboard_time": 1700032413,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 713600,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1699951294,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 687359,
+      "num": 538188,
+      "word": "迪丽热巴 花少其实是变形计吧",
+      "onboard_time": 1700031571,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 685488,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1700008832,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 614316,
+      "num": 614316,
+      "word": "厦门10元自助餐厅被查",
+      "onboard_time": 1700031933,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613163,
@@ -2219,14 +2251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 524859,
-      "num": 524859,
-      "word": "运动员遭冰刀割喉身亡一男子被捕",
-      "onboard_time": 1700031994,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 518521,
       "num": 518521,
       "word": "英前首相卡梅伦被任命为外交大臣",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1699966293,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 465312,
-      "num": 413599,
-      "word": "陈奕迅演唱会",
-      "onboard_time": 1700032413,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 464950,
@@ -3087,14 +3103,6 @@
       "num": 395581,
       "word": "我可以47 运动场巅峰的女性",
       "onboard_time": 1700023597,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 395547,
-      "num": 395547,
-      "word": "迪丽热巴 花少其实是变形计吧",
-      "onboard_time": 1700031571,
       "rank": 17,
       "category": "综艺"
     },
@@ -3691,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321845,
+      "num": 321845,
+      "word": "S13决赛媒体日",
+      "onboard_time": 1700032896,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319904,
       "num": 319904,
       "word": "魏晨 父母子女互为无价之宝",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1699770990,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315019,
+      "num": 315019,
+      "word": "妹妹因为洗头被停课了",
+      "onboard_time": 1700033195,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 314247,
@@ -3857,6 +3881,14 @@
       "onboard_time": 1699890093,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 306340,
+      "num": 306340,
+      "word": "两个洗脸习惯让人更显老",
+      "onboard_time": 1700029293,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 305267,
@@ -4115,14 +4147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 286827,
-      "num": 286827,
-      "word": "两个洗脸习惯让人更显老",
-      "onboard_time": 1700029293,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 285428,
       "num": 278855,
       "word": "邓为仙台有树白发",
@@ -4249,6 +4273,14 @@
       "onboard_time": 1699939415,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279775,
+      "num": 194270,
+      "word": "花儿与少年 我们没有钱",
+      "onboard_time": 1700032896,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 279569,
@@ -4787,14 +4819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247713,
-      "num": 247713,
-      "word": "厦门10元自助餐厅被查",
-      "onboard_time": 1700031933,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247261,
       "num": 247261,
       "word": "SEVENTEEN联合国演讲活动照",
@@ -5027,6 +5051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232519,
+      "num": 232519,
+      "word": "研究称两岁之前的记忆或可永久恢复",
+      "onboard_time": 1700029893,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 231998,
       "num": 231998,
       "word": "潍坊一中学百余名学生疑食物中毒",
@@ -5073,6 +5105,14 @@
       "onboard_time": 1699887576,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229751,
+      "num": 229751,
+      "word": "减脂40天后变化有多大",
+      "onboard_time": 1700032355,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 228991,
@@ -5291,6 +5331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221518,
+      "num": 221518,
+      "word": "吴昕互不打扰的家庭关系",
+      "onboard_time": 1700033318,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221243,
       "num": 221243,
       "word": "鞠婧祎即将进组千香",
@@ -5425,14 +5473,6 @@
       "onboard_time": 1699715196,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215781,
-      "num": 215781,
-      "word": "研究称两岁之前的记忆或可永久恢复",
-      "onboard_time": 1700029893,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 215521,
@@ -5881,14 +5921,6 @@
       "onboard_time": 1699971455,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201445,
-      "num": 201445,
-      "word": "减脂40天后变化有多大",
-      "onboard_time": 1700032355,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 201245,
@@ -8539,6 +8571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126899,
+      "num": 126899,
+      "word": "程潇金色亮片抹胸",
+      "onboard_time": 1700033431,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126495,
       "num": 137151,
       "word": "张艺兴空中滑步",
@@ -8561,6 +8601,14 @@
       "onboard_time": 1699969292,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 125620,
+      "num": 125620,
+      "word": "3种水果一定要熟透了再吃",
+      "onboard_time": 1700032833,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 125571,
@@ -8593,6 +8641,14 @@
       "onboard_time": 1699866754,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 124763,
+      "num": 124763,
+      "word": "光夜版燃冬",
+      "onboard_time": 1700032594,
+      "rank": 44,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 124591,

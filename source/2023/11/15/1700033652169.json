@@ -1,0 +1,410 @@
+{
+  "runTime": 1700033652169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 132896,
+        "num": 702832,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614316,
+        "num": 614316,
+        "word": "厦门10元自助餐厅被查",
+        "onboard_time": 1700031933,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66569,
+        "num": 596340,
+        "word": "关于APEC的知识点",
+        "onboard_time": 1700018433,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1256554,
+        "num": 583626,
+        "word": "abandon不是第一名了",
+        "onboard_time": 1700026592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124762,
+        "num": 573199,
+        "word": "何猷君 肯定要办婚礼",
+        "onboard_time": 1700027313,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714512,
+        "num": 546672,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1700032413,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 687359,
+        "num": 538188,
+        "word": "迪丽热巴 花少其实是变形计吧",
+        "onboard_time": 1700031571,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523278,
+        "num": 523278,
+        "word": "YG回应BABYMONSTER成员退队",
+        "onboard_time": 1700028871,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414845,
+        "num": 414845,
+        "word": "缉毒警为了卧底10天减重25斤",
+        "onboard_time": 1700021853,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321845,
+        "num": 321845,
+        "word": "S13决赛媒体日",
+        "onboard_time": 1700032896,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1439232,
+        "num": 321177,
+        "word": "运动员遭冰刀割喉身亡一男子被捕",
+        "onboard_time": 1700031994,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1424909,
+        "num": 320252,
+        "word": "山东一学校校服被质疑像寿衣",
+        "onboard_time": 1700025453,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346857,
+        "num": 320119,
+        "word": "佳木斯大学跳江学生聊天记录曝光",
+        "onboard_time": 1700030131,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307320,
+        "num": 319219,
+        "word": "孙菲菲事件施暴人被行政拘留",
+        "onboard_time": 1700029112,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824444,
+        "num": 318229,
+        "word": "我恋5癫公癫婆一分钟亲了5次",
+        "onboard_time": 1700030912,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597719,
+        "num": 317107,
+        "word": "快手上的农村女性",
+        "onboard_time": 1700028993,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549516,
+        "num": 316270,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403773,
+        "num": 315590,
+        "word": "陈采尼分析迪丽热巴红毯造型",
+        "onboard_time": 1700024195,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 315019,
+        "num": 315019,
+        "word": "妹妹因为洗头被停课了",
+        "onboard_time": 1700033195,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311788,
+        "num": 311788,
+        "word": "伊能静儿子用三年时间读完四年的大学",
+        "onboard_time": 1700019933,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306340,
+        "num": 306340,
+        "word": "两个洗脸习惯让人更显老",
+        "onboard_time": 1700029293,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305847,
+        "num": 305847,
+        "word": "中大回应特困生用苹果四件套",
+        "onboard_time": 1700025573,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265230,
+        "num": 265230,
+        "word": "肖战 爱奇艺尖叫之夜",
+        "onboard_time": 1700023116,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247800,
+        "num": 247800,
+        "word": "怕添麻烦的老人 不快乐的年轻人",
+        "onboard_time": 1700029952,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241154,
+        "num": 241154,
+        "word": "家有儿女 清醒小女孩",
+        "onboard_time": 1700023775,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232519,
+        "num": 232519,
+        "word": "研究称两岁之前的记忆或可永久恢复",
+        "onboard_time": 1700029893,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 229751,
+        "num": 229751,
+        "word": "减脂40天后变化有多大",
+        "onboard_time": 1700032355,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 221518,
+        "num": 221518,
+        "word": "吴昕互不打扰的家庭关系",
+        "onboard_time": 1700033318,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203899,
+        "num": 203899,
+        "word": "慢阻肺早期咳嗽咳痰症状极易被忽视",
+        "onboard_time": 1700028754,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196208,
+        "num": 196208,
+        "word": "爱奇艺尖叫之夜第二波阵容",
+        "onboard_time": 1700021555,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279775,
+        "num": 194270,
+        "word": "花儿与少年 我们没有钱",
+        "onboard_time": 1700032896,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190526,
+        "num": 190526,
+        "word": "没演技的流量男星 没角色的女演员",
+        "onboard_time": 1700019812,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188084,
+        "num": 188084,
+        "word": "AHyeon退出BABYMONSTER",
+        "onboard_time": 1700027972,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177957,
+        "num": 177957,
+        "word": "奚梦瑶生气何猷君秒怂",
+        "onboard_time": 1700031270,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163697,
+        "num": 163697,
+        "word": "头发到底多久洗一次好",
+        "onboard_time": 1700019392,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160615,
+        "num": 160615,
+        "word": "姜雪宁宁安旧梦",
+        "onboard_time": 1700031453,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160091,
+        "num": 160091,
+        "word": "伊能静万茜居然是闺蜜",
+        "onboard_time": 1700025334,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147821,
+        "num": 147821,
+        "word": "非凡医者当街开胸",
+        "onboard_time": 1700031695,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "咒术回战最新话",
+        "onboard_time": 1700029652,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138080,
+        "num": 138080,
+        "word": "以色列",
+        "onboard_time": 1700023415,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131078,
+        "num": 131078,
+        "word": "当暖宝宝从怀里掏出个暖宝宝",
+        "onboard_time": 1700028632,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128392,
+        "num": 128392,
+        "word": "郑合惠子早起养生拍八虚",
+        "onboard_time": 1700031811,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126899,
+        "num": 126899,
+        "word": "程潇金色亮片抹胸",
+        "onboard_time": 1700033431,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125620,
+        "num": 125620,
+        "word": "3种水果一定要熟透了再吃",
+        "onboard_time": 1700032833,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124763,
+        "num": 124763,
+        "word": "光夜版燃冬",
+        "onboard_time": 1700032594,
+        "rank": 44,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 122468,
+        "num": 122468,
+        "word": "花少5 后期",
+        "onboard_time": 1700024557,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120581,
+        "num": 120581,
+        "word": "傅盛发文怒怼王自如",
+        "onboard_time": 1700017171,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120158,
+        "num": 120158,
+        "word": "周杰伦预告12月新单曲",
+        "onboard_time": 1700021193,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115079,
+        "num": 115079,
+        "word": "大熊猫听懂游客说话卡顿干饭",
+        "onboard_time": 1700029712,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112715,
+        "num": 112715,
+        "word": "陈楚生蔡国庆 友谊才刚开始",
+        "onboard_time": 1700026592,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}
