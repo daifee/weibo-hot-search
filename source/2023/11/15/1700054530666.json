@@ -1,0 +1,410 @@
+{
+  "runTime": 1700054530666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 297914,
+        "num": 744655,
+        "word": "美国高中老师说中美合作对所有人都好",
+        "onboard_time": 1700050595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371414,
+        "num": 371414,
+        "word": "顺其自然25年捐款1577万",
+        "onboard_time": 1700043155,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16550,
+        "num": 366761,
+        "word": "共创共享亚太和世界更加美好的未来",
+        "onboard_time": 1700038174,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1376010,
+        "num": 359537,
+        "word": "原来迪丽热巴一直是素颜",
+        "onboard_time": 1700048671,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884789,
+        "num": 355308,
+        "word": "小杨哥演唱会成本超3000万",
+        "onboard_time": 1700048250,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 856300,
+        "num": 353307,
+        "word": "三浦德子去世",
+        "onboard_time": 1700052033,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682814,
+        "num": 342930,
+        "word": "海底捞回应试点调整份量和价格",
+        "onboard_time": 1700046872,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 643626,
+        "num": 338326,
+        "word": "宁安如梦女三",
+        "onboard_time": 1700052216,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638329,
+        "num": 332870,
+        "word": "辛芷蕾人设还没立就崩了",
+        "onboard_time": 1700049514,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437710,
+        "num": 324609,
+        "word": "天官赐福",
+        "onboard_time": 1700051612,
+        "rank": 9,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 881536,
+        "num": 323182,
+        "word": "程潇三角巾抹胸",
+        "onboard_time": 1700048497,
+        "rank": 10,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 612137,
+        "num": 315522,
+        "word": "刘亦菲彭冠英亲出声了",
+        "onboard_time": 1700042374,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500398,
+        "num": 308720,
+        "word": "陈坤 我发小",
+        "onboard_time": 1700043396,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425391,
+        "num": 303369,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 13,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 299288,
+        "num": 299288,
+        "word": "医生提醒逍遥丸不要自行乱服",
+        "onboard_time": 1700044533,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 493475,
+        "num": 297760,
+        "word": "赵昭仪情绪崩溃躲起来哭",
+        "onboard_time": 1700052700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456580,
+        "num": 295981,
+        "word": "TFBOYS待映新片都是科幻片",
+        "onboard_time": 1700051793,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237202,
+        "num": 295589,
+        "word": "野生大熊猫5天4次同一地点喝水",
+        "onboard_time": 1700048497,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214257,
+        "num": 292725,
+        "word": "Faker回应拒绝比弱爆",
+        "onboard_time": 1700045915,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187032,
+        "num": 290492,
+        "word": "中国刷新亚洲最深井纪录",
+        "onboard_time": 1700051495,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451589,
+        "num": 289334,
+        "word": "网传高校一男生床单包大便丢洗衣机",
+        "onboard_time": 1700052575,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399462,
+        "num": 287811,
+        "word": "赵露思新发型",
+        "onboard_time": 1700045555,
+        "rank": 21,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 286389,
+        "num": 286389,
+        "word": "林俊杰送百日侄女第几个100天",
+        "onboard_time": 1700053474,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238874,
+        "num": 275612,
+        "word": "运动员遭冰刀割喉身亡一男子被捕",
+        "onboard_time": 1700031994,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197000,
+        "num": 275501,
+        "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+        "onboard_time": 1700035175,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275496,
+        "num": 275496,
+        "word": "张晚意王楚然都营业了",
+        "onboard_time": 1700051255,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257007,
+        "num": 257007,
+        "word": "刘亦菲景甜人间富贵花",
+        "onboard_time": 1700054438,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226192,
+        "num": 226192,
+        "word": "罗英子被小保姆二次利用",
+        "onboard_time": 1700051433,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183111,
+        "num": 220773,
+        "word": "佳木斯大学跳江学生聊天记录曝光",
+        "onboard_time": 1700030131,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174873,
+        "num": 220345,
+        "word": "秋冬一定要坚持揉腹",
+        "onboard_time": 1700051373,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220080,
+        "num": 220080,
+        "word": "拜托她可是中岛美嘉",
+        "onboard_time": 1700050233,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201213,
+        "num": 201213,
+        "word": "我恋5癫公癫婆一分钟亲了5次",
+        "onboard_time": 1700030912,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199862,
+        "num": 199862,
+        "word": "何猷君 肯定要办婚礼",
+        "onboard_time": 1700027313,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183532,
+        "num": 183532,
+        "word": "缅甸果敢加速遣送中国人回国",
+        "onboard_time": 1700035475,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 182019,
+        "word": "有种丑叫做腺样体面容",
+        "onboard_time": 1700038956,
+        "rank": 34,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 185790,
+        "num": 181946,
+        "word": "韩孝周大钟奖视后",
+        "onboard_time": 1700045671,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181464,
+        "num": 181464,
+        "word": "世界上最悲伤的一句话",
+        "onboard_time": 1700052514,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177461,
+        "num": 177461,
+        "word": "宁安如梦",
+        "onboard_time": 1700047114,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149782,
+        "num": 170051,
+        "word": "天官赐福第二季",
+        "onboard_time": 1700053230,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 131312,
+        "num": 168689,
+        "word": "WBG 选边",
+        "onboard_time": 1700037815,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167592,
+        "num": 167592,
+        "word": "罗海琼回应变老",
+        "onboard_time": 1700046573,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165105,
+        "num": 165105,
+        "word": "奚梦瑶进入豪门第一关打一晚上麻将",
+        "onboard_time": 1700037394,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158999,
+        "num": 158999,
+        "word": "2024年春节档有多值得期待",
+        "onboard_time": 1700049870,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144395,
+        "num": 144395,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129881,
+        "num": 143847,
+        "word": "abandon不是第一名了",
+        "onboard_time": 1700026592,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127496,
+        "num": 142496,
+        "word": "WBG对阵T1所有结局",
+        "onboard_time": 1700046697,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 142039,
+        "word": "咒术回战 jjxx到底在画啥",
+        "onboard_time": 1700051495,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 98894,
+        "num": 140959,
+        "word": "男孩接力跑意外受伤单腿跳到终点",
+        "onboard_time": 1700054132,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91384,
+        "num": 140276,
+        "word": "淡化法令纹详细教程",
+        "onboard_time": 1700054074,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90578,
+        "num": 139067,
+        "word": "杨鸣领取总冠军戒指",
+        "onboard_time": 1700049814,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}

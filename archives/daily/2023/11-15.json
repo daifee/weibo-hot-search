@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700052637100,
+  "endTime": 1700054530666,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 856300,
+      "num": 353307,
+      "word": "三浦德子去世",
+      "onboard_time": 1700052033,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 845916,
       "num": 627173,
       "word": "小米汽车",
@@ -475,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643626,
+      "num": 338326,
+      "word": "宁安如梦女三",
+      "onboard_time": 1700052216,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 638329,
+      "num": 386213,
+      "word": "辛芷蕾人设还没立就崩了",
+      "onboard_time": 1700049514,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635461,
       "num": 542183,
       "word": "以色列",
@@ -611,20 +635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493475,
+      "num": 297760,
+      "word": "赵昭仪情绪崩溃躲起来哭",
+      "onboard_time": 1700052700,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484118,
       "num": 484118,
       "word": "陈伟霆终于演疯批了",
       "onboard_time": 1700020055,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 481492,
-      "num": 386213,
-      "word": "辛芷蕾人设还没立就崩了",
-      "onboard_time": 1700049514,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 474337,
@@ -651,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456580,
+      "num": 337716,
+      "word": "TFBOYS待映新片都是科幻片",
+      "onboard_time": 1700051793,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 454738,
       "num": 367746,
       "word": "天官赐福",
       "onboard_time": 1700051612,
       "rank": 44,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 451589,
+      "num": 289334,
+      "word": "网传高校一男生床单包大便丢洗衣机",
+      "onboard_time": 1700052575,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 447054,
@@ -689,14 +729,6 @@
       "onboard_time": 1700010516,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436083,
-      "num": 337716,
-      "word": "TFBOYS待映新片都是科幻片",
-      "onboard_time": 1700051793,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 433586,
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 409754,
-      "num": 265356,
+      "num": 275496,
       "word": "张晚意王楚然都营业了",
       "onboard_time": 1700051255,
       "rank": 21,
@@ -971,6 +1003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 297914,
+      "num": 744655,
+      "word": "美国高中老师说中美合作对所有人都好",
+      "onboard_time": 1700050595,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 297181,
       "num": 297181,
       "word": "易烊千玺羞答答的玫瑰彩排vlog",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1700038654,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286389,
+      "num": 286389,
+      "word": "林俊杰送百日侄女第几个100天",
+      "onboard_time": 1700053474,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 286315,
@@ -1083,14 +1131,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 277719,
-      "num": 413634,
-      "word": "美国高中老师说中美合作对所有人都好",
-      "onboard_time": 1700050595,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 276558,
       "num": 276558,
       "word": "管泽元说T1最多输一把",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1700035356,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257007,
+      "num": 257007,
+      "word": "刘亦菲景甜人间富贵花",
+      "onboard_time": 1700054438,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 256316,
@@ -1267,14 +1315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241377,
-      "num": 241377,
-      "word": "宁安如梦女三",
-      "onboard_time": 1700052216,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240242,
       "num": 240242,
       "word": "孙颖莎出现时全场的反应",
@@ -1291,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237202,
+      "num": 295589,
+      "word": "野生大熊猫5天4次同一地点喝水",
+      "onboard_time": 1700048497,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236804,
       "num": 236804,
       "word": "格林锁喉戈贝尔",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1699982779,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 234834,
-      "num": 255899,
-      "word": "网传高校一男生床单包大便丢洗衣机",
-      "onboard_time": 1700052575,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 233432,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1700010034,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226192,
+      "num": 226192,
+      "word": "罗英子被小保姆二次利用",
+      "onboard_time": 1700051433,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 224931,
@@ -1531,14 +1579,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 200372,
-      "num": 263371,
-      "word": "野生大熊猫5天4次同一地点喝水",
-      "onboard_time": 1700048497,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199283,
       "num": 199283,
       "word": "边伯贤英雄联盟单曲paranoia",
@@ -1635,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188017,
-      "num": 235489,
-      "word": "三浦德子去世",
-      "onboard_time": 1700052033,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "这是我清汤寡水20集应得的",
@@ -1660,11 +1692,19 @@
     },
     {
       "raw_hot": 187259,
-      "num": 187259,
+      "num": 220345,
       "word": "秋冬一定要坚持揉腹",
       "onboard_time": 1700051373,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187032,
+      "num": 420975,
+      "word": "中国刷新亚洲最深井纪录",
+      "onboard_time": 1700051495,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184803,
@@ -1707,6 +1747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181464,
+      "num": 181464,
+      "word": "世界上最悲伤的一句话",
+      "onboard_time": 1700052514,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180958,
       "num": 210704,
       "word": "陈哲远健身房睡觉",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1700040035,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 180375,
-      "num": 180375,
-      "word": "罗英子被小保姆二次利用",
-      "onboard_time": 1700051433,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 179932,
@@ -1979,14 +2019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154906,
-      "num": 154906,
-      "word": "世界上最悲伤的一句话",
-      "onboard_time": 1700052514,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154328,
       "num": 154328,
       "word": "男子工作压力大喝酒解闷女儿专程来接",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1700027613,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149782,
+      "num": 170051,
+      "word": "天官赐福第二季",
+      "onboard_time": 1700053230,
+      "rank": 38,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 147870,
@@ -2411,20 +2451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101626,
-      "num": 420975,
-      "word": "中国刷新亚洲最深井纪录",
-      "onboard_time": 1700051495,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99614,
       "num": 99614,
       "word": "宝可梦礼宾部",
       "onboard_time": 1700015670,
       "rank": 43,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 98894,
+      "num": 140959,
+      "word": "男孩接力跑意外受伤单腿跳到终点",
+      "onboard_time": 1700054132,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98746,
@@ -2457,6 +2497,14 @@
       "onboard_time": 1700016090,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 91384,
+      "num": 140276,
+      "word": "淡化法令纹详细教程",
+      "onboard_time": 1700054074,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 82780,
@@ -2619,8 +2667,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 9918,
-      "num": 132576,
+      "raw_hot": 16550,
+      "num": 366761,
       "word": "共创共享亚太和世界更加美好的未来",
       "onboard_time": 1700038174,
       "rank": 49,
