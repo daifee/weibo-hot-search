@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700019264607,
+  "endTime": 1700022067667,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -11,8 +11,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1706434,
+      "num": 471726,
+      "word": "伊能静儿子用三年时间读完四年的大学",
+      "onboard_time": 1700019933,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1636107,
-      "num": 388514,
+      "num": 469293,
       "word": "光腿神器被嘲现代刑具",
       "onboard_time": 1700004445,
       "rank": 19,
@@ -35,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1367164,
+      "num": 470769,
+      "word": "没演技的流量男星 没角色的女演员",
+      "onboard_time": 1700019812,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1228856,
       "num": 1228856,
       "word": "华人华侨在旧金山组成欢迎人群",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1171217,
-      "num": 282107,
+      "num": 470357,
       "word": "经纪人回应网传艺人为缅北电诈家族庆生",
       "onboard_time": 1700011893,
       "rank": 33,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 894632,
-      "num": 277015,
+      "num": 469770,
       "word": "傅盛发文怒怼王自如",
       "onboard_time": 1700017171,
       "rank": 12,
@@ -89,6 +105,14 @@
       "onboard_time": 1700005409,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 839390,
+      "num": 519954,
+      "word": "头发到底多久洗一次好",
+      "onboard_time": 1700019392,
+      "rank": 3,
+      "category": "美妆"
     },
     {
       "raw_hot": 800813,
@@ -115,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 728327,
+      "num": 510026,
+      "word": "勇士森林狼冲突",
+      "onboard_time": 1700018972,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
@@ -124,7 +156,7 @@
     },
     {
       "raw_hot": 701364,
-      "num": 429060,
+      "num": 488545,
       "word": "李相夷 无法超越的传奇",
       "onboard_time": 1700016869,
       "rank": 4,
@@ -147,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646716,
+      "num": 646716,
+      "word": "大闸蟹跌破10元",
+      "onboard_time": 1700020533,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 614484,
       "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
       "onboard_time": 1700008832,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 604877,
+      "num": 493759,
+      "word": "快乐老友记",
+      "onboard_time": 1700019992,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 545065,
@@ -179,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531689,
+      "num": 531689,
+      "word": "周杰伦预告12月新单曲",
+      "onboard_time": 1700021193,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 499441,
       "num": 499441,
       "word": "网购了件大衣穿上变成座山雕",
@@ -195,12 +251,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484118,
+      "num": 484118,
+      "word": "陈伟霆终于演疯批了",
+      "onboard_time": 1700020055,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 472611,
+      "num": 472611,
+      "word": "藿藿",
+      "onboard_time": 1700017953,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 464950,
       "num": 293015,
       "word": "从何猷君表情看出霸总执行力",
       "onboard_time": 1700010872,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457617,
+      "num": 457617,
+      "word": "爱奇艺尖叫之夜第二波阵容",
+      "onboard_time": 1700021555,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 443147,
@@ -251,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366556,
+      "num": 366556,
+      "word": "四川通报摩崖造像被涂色",
+      "onboard_time": 1700021315,
+      "rank": 16,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 340770,
       "num": 231613,
       "word": "于适红发",
@@ -273,14 +361,6 @@
       "onboard_time": 1700016390,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 299223,
-      "num": 254898,
-      "word": "藿藿",
-      "onboard_time": 1700017953,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 296962,
@@ -347,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256316,
+      "num": 256316,
+      "word": "赵丽颖雪祭司妆容解析",
+      "onboard_time": 1700019451,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 255670,
       "num": 255670,
       "word": "APEC是什么",
@@ -376,6 +464,14 @@
       "word": "孙颖莎出现时全场的反应",
       "onboard_time": 1699964251,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236804,
+      "num": 236804,
+      "word": "格林锁喉戈贝尔",
+      "onboard_time": 1700019392,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -451,6 +547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 222097,
+      "num": 222097,
+      "word": "苏醒官宣加盟脑力综艺",
+      "onboard_time": 1700021254,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216703,
       "num": 235280,
       "word": "陈思诚段奕宏李晨拖张译进迪厅",
@@ -491,6 +595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 205774,
+      "num": 277749,
+      "word": "罗云熙汴京贵公子",
+      "onboard_time": 1700018071,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204532,
       "num": 204532,
       "word": "黑白密码定档",
@@ -529,14 +641,6 @@
       "onboard_time": 1700004143,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198097,
-      "num": 198097,
-      "word": "勇士森林狼冲突",
-      "onboard_time": 1700018972,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 196477,
@@ -603,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174563,
-      "num": 277749,
-      "word": "罗云熙汴京贵公子",
-      "onboard_time": 1700018071,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172923,
       "num": 172923,
       "word": "男童被压20人喊口号式抬车救出",
@@ -641,6 +737,14 @@
       "onboard_time": 1700010994,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168635,
+      "num": 168635,
+      "word": "7岁女孩将随意涂鸦作成画",
+      "onboard_time": 1700019031,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166511,
@@ -755,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147870,
+      "num": 147870,
+      "word": "东北大爷把楼下积雪砌成20米城墙",
+      "onboard_time": 1700019749,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147581,
       "num": 147581,
       "word": "时宴郑书意官宣",
@@ -776,6 +888,14 @@
       "word": "谷爱凌来了都得说滑得好",
       "onboard_time": 1700010573,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134222,
+      "num": 134222,
+      "word": "缉毒警为了卧底10天减重25斤",
+      "onboard_time": 1700021853,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -915,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 114334,
-      "num": 114334,
-      "word": "7岁女孩将随意涂鸦作成画",
-      "onboard_time": 1700019031,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113665,
       "num": 113665,
       "word": "魏大勋录制大侦探9",
@@ -953,6 +1065,22 @@
       "onboard_time": 1699975356,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107680,
+      "num": 133905,
+      "word": "敦煌讲解实习生考核",
+      "onboard_time": 1700021975,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102476,
+      "num": 523069,
+      "word": "关于APEC的知识点",
+      "onboard_time": 1700018433,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99614,
@@ -1017,14 +1145,6 @@
       "onboard_time": 1699953213,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79249,
-      "num": 432183,
-      "word": "关于APEC的知识点",
-      "onboard_time": 1700018433,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77415,
