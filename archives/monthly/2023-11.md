@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 21:33:59
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 22:16:47
 </p>
 </blockquote>
 <p>
@@ -5211,6 +5211,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23" target="weibo">
+辛芷蕾人设还没立就崩了（热度：686863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%BB%BC%20%E6%8C%A3%E9%92%B1%23" target="weibo">
 恋综 挣钱（热度：684692）
 </a>
@@ -5613,12 +5619,6 @@ YG回应与BLACKPINK续约（热度：646080）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23" target="weibo">
-辛芷蕾人设还没立就崩了（热度：638329）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%A7%A6%E5%B2%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%9C%B5%E6%8B%89%23" target="weibo">
 终于知道秦岚为什么叫朵拉（热度：637893）
 </a>
@@ -5967,6 +5967,12 @@ KPOP格莱美0提名（热度：622255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BA%A640%25%E7%9A%84%E7%99%8C%E7%97%87%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%23" target="weibo">
+大约40%的癌症可以避免（热度：614053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A8%81%E8%80%83%E8%99%91%E5%A4%8D%E6%B4%BB%E9%92%A2%E9%93%81%E4%BE%A0%E9%BB%91%E5%AF%A1%E5%A6%87%23" target="weibo">
 漫威考虑复活钢铁侠黑寡妇（热度：613542）
 </a>
@@ -6005,12 +6011,6 @@ G2居然输给这种队（热度：613368）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%23" target="weibo">
 考古的风终于吹到了辛芷蕾（热度：611866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%9B%B4%E6%92%AD%23" target="weibo">
-ELLE直播（热度：611590）
 </a>
 </li>
 
