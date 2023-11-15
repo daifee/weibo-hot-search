@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700069669707,
+  "endTime": 1700072476431,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -11385,6 +11385,14 @@
       "onboard_time": 1699439614,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 455387,
+      "num": 455387,
+      "word": "中美元首会晤现场",
+      "onboard_time": 1700069777,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 455222,
@@ -41833,6 +41841,14 @@
       "onboard_time": 1699814895,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31848,
+      "num": 31848,
+      "word": "ENHYPEN新专预告",
+      "onboard_time": 1700069897,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 31649,
