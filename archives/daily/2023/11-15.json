@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700043615924,
+  "endTime": 1700044684734,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -9,6 +9,14 @@
       "onboard_time": 1699974639,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2082528,
+      "num": 566083,
+      "word": "刘亦菲彭冠英亲出声了",
+      "onboard_time": 1700042374,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 2024718,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1566542,
+      "num": 588467,
+      "word": "麦当劳回应牛奶一杯23元",
+      "onboard_time": 1700038956,
+      "rank": 27,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1561570,
       "num": 543634,
       "word": "没演技的流量男星 没角色的女演员",
@@ -75,28 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1539919,
-      "num": 578280,
-      "word": "麦当劳回应牛奶一杯23元",
-      "onboard_time": 1700038956,
-      "rank": 27,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 1521385,
       "num": 632913,
       "word": "WBG 选边",
       "onboard_time": 1700037815,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1479191,
-      "num": 566083,
-      "word": "刘亦菲彭冠英亲出声了",
-      "onboard_time": 1700042374,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1447785,
@@ -169,6 +169,14 @@
       "onboard_time": 1700011893,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1113323,
+      "num": 559280,
+      "word": "陈坤 我发小",
+      "onboard_time": 1700043396,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1060091,
@@ -475,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 563124,
+      "num": 563124,
+      "word": "Crisp说这里是T1的终点",
+      "onboard_time": 1700040992,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 545065,
       "num": 545065,
       "word": "2024龙年贵金属纪念币将发行",
@@ -545,6 +561,14 @@
       "onboard_time": 1700017953,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 472488,
+      "num": 595821,
+      "word": "顺其自然25年捐款1577万",
+      "onboard_time": 1700043155,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464950,
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413742,
+      "num": 582247,
+      "word": "考研生为提神冬夜路灯下备战",
+      "onboard_time": 1700038355,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 410370,
       "num": 235575,
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
@@ -707,14 +739,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 356286,
-      "num": 582247,
-      "word": "考研生为提神冬夜路灯下备战",
-      "onboard_time": 1700038355,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 347044,
       "num": 334084,
       "word": "Jennie飞天小魔女大片",
@@ -785,14 +809,6 @@
       "onboard_time": 1700016390,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 323360,
-      "num": 323360,
-      "word": "Crisp说这里是T1的终点",
-      "onboard_time": 1700040992,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 312478,
@@ -867,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 287203,
+      "num": 576923,
+      "word": "四川的百年柿子瀑布又红了",
+      "onboard_time": 1700038654,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286315,
       "num": 286315,
       "word": "时代少年团 LV香港大秀",
@@ -913,14 +937,6 @@
       "onboard_time": 1700017953,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 277843,
-      "num": 576923,
-      "word": "四川的百年柿子瀑布又红了",
-      "onboard_time": 1700038654,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276558,
@@ -1019,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250468,
+      "num": 250468,
+      "word": "张凌赫镜头下的白鹿",
+      "onboard_time": 1700040635,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246091,
       "num": 246091,
       "word": "幽门螺杆菌是如何养成的",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1700019392,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235916,
+      "num": 235916,
+      "word": "李相夷 不愧为天下第一",
+      "onboard_time": 1700043756,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 235792,
@@ -1115,14 +1147,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 229415,
-      "num": 229415,
-      "word": "张凌赫镜头下的白鹿",
-      "onboard_time": 1700040635,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227942,
       "num": 227942,
       "word": "花少5 人际和工作之间的统筹链接关系",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1700007756,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224470,
-      "num": 224470,
-      "word": "陈坤 我发小",
-      "onboard_time": 1700043396,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 222534,
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184445,
+      "num": 184445,
+      "word": "大闸蟹价格",
+      "onboard_time": 1700044533,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183857,
       "num": 183857,
       "word": "虔诚的拜佛小猫",
@@ -1587,14 +1611,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 165417,
-      "num": 572141,
-      "word": "顺其自然25年捐款1577万",
-      "onboard_time": 1700043155,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165250,
       "num": 165250,
       "word": "闪耀暖暖",
@@ -1699,6 +1715,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 152588,
+      "num": 152588,
+      "word": "医生提醒逍遥丸不要自行乱服",
+      "onboard_time": 1700044533,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 152576,
       "num": 152576,
       "word": "寝室6位新生全是退伍军人",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1700024916,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139946,
+      "num": 139946,
+      "word": "杭州17岁爱笑少年保送北大",
+      "onboard_time": 1700044352,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 138947,

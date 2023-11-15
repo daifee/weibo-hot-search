@@ -1,0 +1,410 @@
+{
+  "runTime": 1700044684734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116380,
+        "num": 602192,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472488,
+        "num": 595821,
+        "word": "顺其自然25年捐款1577万",
+        "onboard_time": 1700043155,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33051,
+        "num": 593742,
+        "word": "共同构建亚太命运共同体",
+        "onboard_time": 1700038234,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1566542,
+        "num": 588467,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 3,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 413742,
+        "num": 580019,
+        "word": "考研生为提神冬夜路灯下备战",
+        "onboard_time": 1700038355,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 693331,
+        "num": 575040,
+        "word": "WBG 选边",
+        "onboard_time": 1700037815,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287203,
+        "num": 569344,
+        "word": "四川的百年柿子瀑布又红了",
+        "onboard_time": 1700038654,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563124,
+        "num": 563124,
+        "word": "Crisp说这里是T1的终点",
+        "onboard_time": 1700040992,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 471442,
+        "num": 562333,
+        "word": "何猷君 肯定要办婚礼",
+        "onboard_time": 1700027313,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400963,
+        "num": 560750,
+        "word": "WBG选择蓝色方",
+        "onboard_time": 1700041355,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2082528,
+        "num": 559950,
+        "word": "刘亦菲彭冠英亲出声了",
+        "onboard_time": 1700042374,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1113323,
+        "num": 559280,
+        "word": "陈坤 我发小",
+        "onboard_time": 1700043396,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 963997,
+        "num": 557636,
+        "word": "久坐可能导致死臀综合征",
+        "onboard_time": 1700035175,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 777056,
+        "num": 556813,
+        "word": "佳木斯大学跳江学生聊天记录曝光",
+        "onboard_time": 1700030131,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666986,
+        "num": 554414,
+        "word": "我恋5癫公癫婆一分钟亲了5次",
+        "onboard_time": 1700030912,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554358,
+        "num": 554358,
+        "word": "租房过一辈子可以吗",
+        "onboard_time": 1700037514,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543682,
+        "num": 543682,
+        "word": "妹妹因为洗头被停课了",
+        "onboard_time": 1700033195,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515978,
+        "num": 515978,
+        "word": "运动员遭冰刀割喉身亡一男子被捕",
+        "onboard_time": 1700031994,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503457,
+        "num": 503457,
+        "word": "abandon不是第一名了",
+        "onboard_time": 1700026592,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488872,
+        "num": 488872,
+        "word": "金星 我们园区快递小哥也叫自如",
+        "onboard_time": 1700036074,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348651,
+        "num": 348651,
+        "word": "王一博 爱奇艺尖叫之夜",
+        "onboard_time": 1700039615,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344280,
+        "num": 344280,
+        "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
+        "onboard_time": 1700034755,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336547,
+        "num": 336547,
+        "word": "张雨绮好港",
+        "onboard_time": 1700039974,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318753,
+        "num": 318753,
+        "word": "缅甸果敢加速遣送中国人回国",
+        "onboard_time": 1700035475,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312546,
+        "num": 312546,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299878,
+        "num": 299878,
+        "word": "奚梦瑶进入豪门第一关打一晚上麻将",
+        "onboard_time": 1700037394,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277550,
+        "num": 277550,
+        "word": "小蝴蝶迪丽热巴",
+        "onboard_time": 1700041413,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263468,
+        "num": 263468,
+        "word": "刘亦菲新剧捧花杀青照",
+        "onboard_time": 1700042732,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260160,
+        "num": 260160,
+        "word": "时代少年团 LV香港大秀",
+        "onboard_time": 1700041413,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250468,
+        "num": 250468,
+        "word": "张凌赫镜头下的白鹿",
+        "onboard_time": 1700040635,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235916,
+        "num": 235916,
+        "word": "李相夷 不愧为天下第一",
+        "onboard_time": 1700043756,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231264,
+        "num": 231264,
+        "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+        "onboard_time": 1700035175,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229069,
+        "num": 229069,
+        "word": "管泽元说T1最多输一把",
+        "onboard_time": 1700041413,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212533,
+        "num": 212533,
+        "word": "吴昕互不打扰的家庭关系",
+        "onboard_time": 1700033318,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209294,
+        "num": 209294,
+        "word": "蜻蜓队长",
+        "onboard_time": 1700042497,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205528,
+        "num": 205528,
+        "word": "有种丑叫做腺样体面容",
+        "onboard_time": 1700038956,
+        "rank": 35,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 200763,
+        "num": 200763,
+        "word": "玫瑰故事",
+        "onboard_time": 1700039736,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184445,
+        "num": 184445,
+        "word": "大闸蟹价格",
+        "onboard_time": 1700044533,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184202,
+        "num": 184202,
+        "word": "尖叫之夜真假cp大乱炖",
+        "onboard_time": 1700042497,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "教体局通报校服被质疑像寿衣",
+        "onboard_time": 1700037934,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162086,
+        "num": 162086,
+        "word": "官方通报网传国企领导别停客车",
+        "onboard_time": 1700040635,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155154,
+        "num": 155154,
+        "word": "以爱为营 Jackson Yi",
+        "onboard_time": 1700037156,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154361,
+        "num": 154361,
+        "word": "YG回应BABYMONSTER成员退队",
+        "onboard_time": 1700028871,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152588,
+        "num": 152588,
+        "word": "医生提醒逍遥丸不要自行乱服",
+        "onboard_time": 1700044533,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 151681,
+        "num": 151681,
+        "word": "白敬亭宋轶都去尖叫之夜",
+        "onboard_time": 1700035899,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384353,
+        "num": 149323,
+        "word": "小米汽车",
+        "onboard_time": 1700037156,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146325,
+        "num": 146325,
+        "word": "秦岚辛芷蕾想住迪丽热巴的大床房",
+        "onboard_time": 1700039012,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146073,
+        "num": 146073,
+        "word": "玫瑰故事首支预告",
+        "onboard_time": 1700042193,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 139946,
+        "word": "杭州17岁爱笑少年保送北大",
+        "onboard_time": 1700044352,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 130870,
+        "num": 130870,
+        "word": "玫瑰故事杀青",
+        "onboard_time": 1700042431,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}
