@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700010939084,
+  "endTime": 1700012229504,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1636107,
-      "num": 324784,
+      "num": 388514,
       "word": "光腿神器被嘲现代刑具",
       "onboard_time": 1700004445,
       "rank": 19,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 931520,
-      "num": 268109,
+      "num": 319470,
       "word": "武汉一研三学生留遗书后轻生",
       "onboard_time": 1699974396,
       "rank": 12,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 869336,
-      "num": 307868,
+      "num": 373823,
       "word": "韩国人评东北大学生现状",
       "onboard_time": 1700005409,
       "rank": 11,
@@ -67,15 +67,7 @@
       "category": "财经,网红"
     },
     {
-      "raw_hot": 664176,
-      "num": 275578,
-      "word": "缅北电诈家族曾邀请国内明星网红庆生",
-      "onboard_time": 1699957115,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618136,
+      "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
       "onboard_time": 1700008056,
@@ -83,8 +75,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 580551,
-      "num": 580551,
+      "raw_hot": 664176,
+      "num": 278213,
+      "word": "缅北电诈家族曾邀请国内明星网红庆生",
+      "onboard_time": 1699957115,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614484,
+      "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
       "onboard_time": 1700008832,
       "rank": 1,
@@ -123,6 +123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 441010,
+      "num": 441010,
+      "word": "谢危终于发疯了",
+      "onboard_time": 1700010516,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410370,
       "num": 235575,
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
@@ -137,6 +145,22 @@
       "onboard_time": 1699977212,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 397174,
+      "num": 397174,
+      "word": "医生提醒山楂板栗不能混着吃",
+      "onboard_time": 1700010273,
+      "rank": 35,
+      "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 392418,
+      "num": 362732,
+      "word": "疯是上午发的人是下午走的",
+      "onboard_time": 1700006854,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 340770,
@@ -161,6 +185,14 @@
       "onboard_time": 1699975956,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293015,
+      "num": 293015,
+      "word": "从何猷君表情看出霸总执行力",
+      "onboard_time": 1700010872,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 279983,
@@ -227,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244008,
-      "num": 244008,
-      "word": "疯是上午发的人是下午走的",
-      "onboard_time": 1700006854,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 240242,
       "num": 240242,
       "word": "孙颖莎出现时全场的反应",
@@ -283,8 +307,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226500,
-      "num": 226500,
+      "raw_hot": 226808,
+      "num": 226808,
       "word": "一岁半萌娃发量惊人像戴了假发",
       "onboard_time": 1700010034,
       "rank": 24,
@@ -339,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193630,
-      "num": 177269,
-      "word": "谢危终于发疯了",
-      "onboard_time": 1700010516,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184803,
       "num": 184803,
       "word": "郭敬明晒侯明昊田嘉瑞剧照",
@@ -395,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169024,
+      "num": 169024,
+      "word": "张远告别披荆斩棘",
+      "onboard_time": 1700010994,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166511,
       "num": 166511,
       "word": "谁家发烧用冻鱼退烧",
       "onboard_time": 1699977570,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158849,
+      "num": 158849,
+      "word": "被床封印了的熊猫宝宝",
+      "onboard_time": 1700008236,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158416,
@@ -443,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154387,
-      "num": 154387,
-      "word": "医生提醒山楂板栗不能混着吃",
-      "onboard_time": 1700010273,
-      "rank": 35,
-      "category": "健康医疗,知识科普"
-    },
-    {
       "raw_hot": 153708,
       "num": 153708,
       "word": "1979年 骨相化妆",
@@ -459,11 +483,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 151416,
-      "num": 151416,
-      "word": "被床封印了的熊猫宝宝",
-      "onboard_time": 1700008236,
-      "rank": 37,
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+      "onboard_time": 1700011893,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -481,6 +505,14 @@
       "onboard_time": 1699967433,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133344,
+      "num": 133344,
+      "word": "TFBOYS登腾讯音乐财报",
+      "onboard_time": 1700002942,
+      "rank": 28,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 133259,
@@ -531,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122542,
-      "num": 122542,
-      "word": "TFBOYS登腾讯音乐财报",
-      "onboard_time": 1700002942,
-      "rank": 28,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 122508,
       "num": 122508,
       "word": "王自如采访",
@@ -553,6 +577,14 @@
       "onboard_time": 1699973075,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121177,
+      "num": 121177,
+      "word": "脾虚的正确调理顺序",
+      "onboard_time": 1700010755,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121074,
@@ -579,20 +611,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116720,
+      "num": 116720,
+      "word": "当高启强开始说英文",
+      "onboard_time": 1700011831,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115291,
       "num": 115291,
       "word": "钟楚曦白色侧开叉旗袍",
       "onboard_time": 1699972895,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 114470,
-      "num": 114470,
-      "word": "脾虚的正确调理顺序",
-      "onboard_time": 1700010755,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 113665,
@@ -624,14 +656,6 @@
       "word": "张雅钦 好会视频营业",
       "onboard_time": 1699975356,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103885,
-      "num": 103885,
-      "word": "从何猷君表情看出霸总执行力",
-      "onboard_time": 1700010872,
-      "rank": 49,
       "category": "艺人"
     },
     {
