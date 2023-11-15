@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700033652169,
+  "endTime": 1700036520356,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -323,6 +323,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1662394,
+      "num": 524859,
+      "word": "运动员遭冰刀割喉身亡一男子被捕",
+      "onboard_time": 1700031994,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1654247,
       "num": 1654247,
       "word": "张翰回应油腻",
@@ -440,14 +448,6 @@
       "word": "网友吐槽政务大厅全天工作6个小时",
       "onboard_time": 1699886735,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1439232,
-      "num": 524859,
-      "word": "运动员遭冰刀割喉身亡一男子被捕",
-      "onboard_time": 1700031994,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -617,6 +617,14 @@
       "onboard_time": 1699931731,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234863,
+      "num": 361614,
+      "word": "妹妹因为洗头被停课了",
+      "onboard_time": 1700033195,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 1229735,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047849,
+      "num": 359957,
+      "word": "缅甸果敢加速遣送中国人回国",
+      "onboard_time": 1700035475,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047846,
       "num": 1047846,
       "word": "每天1包方便面身体会发生什么变化",
@@ -889,6 +905,14 @@
       "onboard_time": 1699963050,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1000065,
+      "num": 517936,
+      "word": "我恋5癫公癫婆一分钟亲了5次",
+      "onboard_time": 1700030912,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 999966,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1699875634,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824444,
-      "num": 517936,
-      "word": "我恋5癫公癫婆一分钟亲了5次",
-      "onboard_time": 1700030912,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 823123,
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 708132,
+      "num": 392625,
+      "word": "白敬亭宋轶都去尖叫之夜",
+      "onboard_time": 1700035899,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1699762290,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624814,
+      "num": 380334,
+      "word": "吴昕互不打扰的家庭关系",
+      "onboard_time": 1700033318,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 622087,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1699992673,
       "rank": 43,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 499306,
+      "num": 342062,
+      "word": "久坐可能导致死臀综合征",
+      "onboard_time": 1700035175,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 499008,
@@ -3083,6 +3123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397926,
+      "num": 397926,
+      "word": "研究称两岁之前的记忆或可永久恢复",
+      "onboard_time": 1700029893,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 397676,
+      "num": 337021,
+      "word": "原来迪丽热巴演过风中奇缘",
+      "onboard_time": 1700034994,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397584,
       "num": 397584,
       "word": "2023目前票房前十的国产片",
@@ -3235,6 +3291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 381312,
+      "num": 336268,
+      "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+      "onboard_time": 1700035175,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378515,
       "num": 280921,
       "word": "连续30天早睡1小时身体会有何变化",
@@ -3275,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374882,
+      "num": 374882,
+      "word": "快乐老友记定档每周五",
+      "onboard_time": 1700035054,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374488,
       "num": 374488,
       "word": "加沙有医院没水电ICU内新生儿面临死亡",
@@ -3289,6 +3361,14 @@
       "onboard_time": 1699836815,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368376,
+      "num": 368376,
+      "word": "S13决赛媒体日",
+      "onboard_time": 1700032896,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 365134,
@@ -3563,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334084,
+      "num": 334084,
+      "word": "Jennie飞天小魔女大片",
+      "onboard_time": 1700035958,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 333130,
       "num": 670800,
       "word": "梁靖崑男单冠军",
@@ -3699,14 +3787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321845,
-      "num": 321845,
-      "word": "S13决赛媒体日",
-      "onboard_time": 1700032896,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 319904,
       "num": 319904,
       "word": "魏晨 父母子女互为无价之宝",
@@ -3769,14 +3849,6 @@
       "onboard_time": 1699770990,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315019,
-      "num": 315019,
-      "word": "妹妹因为洗头被停课了",
-      "onboard_time": 1700033195,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 314247,
@@ -3987,12 +4059,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 300578,
+      "num": 300578,
+      "word": "金星 我们园区快递小哥也叫自如",
+      "onboard_time": 1700036074,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300124,
       "num": 300124,
       "word": "孙丞潇父母知道女友是金莎后的反应",
       "onboard_time": 1699960771,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299844,
+      "num": 299844,
+      "word": "你洗完澡以后会涂身体乳吗",
+      "onboard_time": 1700034935,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 299635,
@@ -4276,7 +4364,7 @@
     },
     {
       "raw_hot": 279775,
-      "num": 194270,
+      "num": 226701,
       "word": "花儿与少年 我们没有钱",
       "onboard_time": 1700032896,
       "rank": 30,
@@ -4377,6 +4465,14 @@
       "onboard_time": 1699869093,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274328,
+      "num": 274328,
+      "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
+      "onboard_time": 1700034755,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274173,
@@ -4643,6 +4739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257058,
+      "num": 257058,
+      "word": "谁给秦岚P的图",
+      "onboard_time": 1700035356,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256719,
       "num": 226751,
       "word": "无所畏惧 对我的乳腺友好",
@@ -4891,6 +4995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 243114,
+      "num": 243114,
+      "word": "无意识让皮肤变好的行为",
+      "onboard_time": 1700035596,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 242949,
       "num": 242949,
       "word": "王曼昱4比1王艺迪",
@@ -5049,14 +5161,6 @@
       "onboard_time": 1699778671,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 232519,
-      "num": 232519,
-      "word": "研究称两岁之前的记忆或可永久恢复",
-      "onboard_time": 1700029893,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 231998,
@@ -5329,14 +5433,6 @@
       "onboard_time": 1699848937,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221518,
-      "num": 221518,
-      "word": "吴昕互不打扰的家庭关系",
-      "onboard_time": 1700033318,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 221243,
@@ -6633,6 +6729,14 @@
       "onboard_time": 1699787371,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180958,
+      "num": 180958,
+      "word": "陈哲远健身房睡觉",
+      "onboard_time": 1700034994,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 179932,
@@ -8131,6 +8235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141346,
+      "num": 141346,
+      "word": "你多长时间洗一次头发",
+      "onboard_time": 1700035655,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 140761,
       "num": 140761,
       "word": "那些今年爆火的小说",
@@ -8883,6 +8995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119066,
+      "num": 119066,
+      "word": "如果张柏芝吴彦祖出演以爱为营",
+      "onboard_time": 1700034515,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118835,
       "num": 118835,
       "word": "时宴在hi6求婚郑书意",
@@ -9169,6 +9289,14 @@
       "onboard_time": 1699854934,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109853,
+      "num": 339114,
+      "word": "艾弗森重新定义AI",
+      "onboard_time": 1700034455,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 109419,

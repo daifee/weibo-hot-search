@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700033652169,
+  "endTime": 1700036520356,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -25,6 +25,14 @@
       "onboard_time": 1700019933,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1662394,
+      "num": 524859,
+      "word": "运动员遭冰刀割喉身亡一男子被捕",
+      "onboard_time": 1700031994,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1636107,
@@ -67,14 +75,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1439232,
-      "num": 524859,
-      "word": "运动员遭冰刀割喉身亡一男子被捕",
-      "onboard_time": 1700031994,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1435912,
       "num": 765325,
       "word": "左肩有你 正片",
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234863,
+      "num": 361614,
+      "word": "妹妹因为洗头被停课了",
+      "onboard_time": 1700033195,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1228856,
       "num": 1228856,
       "word": "华人华侨在旧金山组成欢迎人群",
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047849,
+      "num": 359957,
+      "word": "缅甸果敢加速遣送中国人回国",
+      "onboard_time": 1700035475,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1032581,
       "num": 302328,
       "word": "河南一中学发生踩踏事件致1死5伤",
@@ -145,6 +161,14 @@
       "onboard_time": 1700024195,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1000065,
+      "num": 517936,
+      "word": "我恋5癫公癫婆一分钟亲了5次",
+      "onboard_time": 1700030912,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 931520,
@@ -185,14 +209,6 @@
       "onboard_time": 1700019392,
       "rank": 3,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 824444,
-      "num": 517936,
-      "word": "我恋5癫公癫婆一分钟亲了5次",
-      "onboard_time": 1700030912,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 816736,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708132,
+      "num": 392625,
+      "word": "白敬亭宋轶都去尖叫之夜",
+      "onboard_time": 1700035899,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
@@ -347,6 +371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 624814,
+      "num": 380334,
+      "word": "吴昕互不打扰的家庭关系",
+      "onboard_time": 1700033318,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614484,
       "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
@@ -409,6 +441,14 @@
       "onboard_time": 1699992673,
       "rank": 43,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 499306,
+      "num": 342062,
+      "word": "久坐可能导致死臀综合征",
+      "onboard_time": 1700035175,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 495426,
@@ -507,6 +547,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 397926,
+      "num": 397926,
+      "word": "研究称两岁之前的记忆或可永久恢复",
+      "onboard_time": 1700029893,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 397676,
+      "num": 337021,
+      "word": "原来迪丽热巴演过风中奇缘",
+      "onboard_time": 1700034994,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395581,
       "num": 395581,
       "word": "我可以47 运动场巅峰的女性",
@@ -529,6 +585,30 @@
       "onboard_time": 1700017352,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381312,
+      "num": 336268,
+      "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+      "onboard_time": 1700035175,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374882,
+      "num": 374882,
+      "word": "快乐老友记定档每周五",
+      "onboard_time": 1700035054,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 368376,
+      "num": 368376,
+      "word": "S13决赛媒体日",
+      "onboard_time": 1700032896,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 345106,
@@ -563,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 334084,
+      "num": 334084,
+      "word": "Jennie飞天小魔女大片",
+      "onboard_time": 1700035958,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 332250,
       "num": 332250,
       "word": "花花呼呼大睡弟弟疯狂营业",
@@ -579,22 +667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 321845,
-      "num": 321845,
-      "word": "S13决赛媒体日",
-      "onboard_time": 1700032896,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 315019,
-      "num": 315019,
-      "word": "妹妹因为洗头被停课了",
-      "onboard_time": 1700033195,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 312478,
       "num": 312478,
       "word": "迪丽热巴体验悬崖秋千",
@@ -608,6 +680,22 @@
       "word": "两个洗脸习惯让人更显老",
       "onboard_time": 1700029293,
       "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 300578,
+      "num": 300578,
+      "word": "金星 我们园区快递小哥也叫自如",
+      "onboard_time": 1700036074,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299844,
+      "num": 299844,
+      "word": "你洗完澡以后会涂身体乳吗",
+      "onboard_time": 1700034935,
+      "rank": 26,
       "category": "美妆"
     },
     {
@@ -660,7 +748,7 @@
     },
     {
       "raw_hot": 279775,
-      "num": 194270,
+      "num": 226701,
       "word": "花儿与少年 我们没有钱",
       "onboard_time": 1700032896,
       "rank": 30,
@@ -673,6 +761,14 @@
       "onboard_time": 1700017953,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 274328,
+      "num": 274328,
+      "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
+      "onboard_time": 1700034755,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274173,
@@ -705,6 +801,14 @@
       "onboard_time": 1700007756,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257058,
+      "num": 257058,
+      "word": "谁给秦岚P的图",
+      "onboard_time": 1700035356,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 256316,
@@ -755,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243114,
+      "num": 243114,
+      "word": "无意识让皮肤变好的行为",
+      "onboard_time": 1700035596,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 240242,
       "num": 240242,
       "word": "孙颖莎出现时全场的反应",
@@ -785,14 +897,6 @@
       "onboard_time": 1699967496,
       "rank": 27,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 232519,
-      "num": 232519,
-      "word": "研究称两岁之前的记忆或可永久恢复",
-      "onboard_time": 1700029893,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 230903,
@@ -864,14 +968,6 @@
       "word": "苏醒官宣加盟脑力综艺",
       "onboard_time": 1700021254,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221518,
-      "num": 221518,
-      "word": "吴昕互不打扰的家庭关系",
-      "onboard_time": 1700033318,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1089,6 +1185,14 @@
       "onboard_time": 1699971157,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180958,
+      "num": 180958,
+      "word": "陈哲远健身房睡觉",
+      "onboard_time": 1700034994,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 179932,
@@ -1379,6 +1483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 141346,
+      "num": 141346,
+      "word": "你多长时间洗一次头发",
+      "onboard_time": 1700035655,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139946,
       "num": 139946,
       "word": "克莱追梦被驱逐",
@@ -1563,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119066,
+      "num": 119066,
+      "word": "如果张柏芝吴彦祖出演以爱为营",
+      "onboard_time": 1700034515,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118664,
       "num": 118664,
       "word": "女子婚礼骑白马出场又美又飒",
@@ -1609,6 +1729,14 @@
       "onboard_time": 1699971455,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109853,
+      "num": 339114,
+      "word": "艾弗森重新定义AI",
+      "onboard_time": 1700034455,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 109272,
