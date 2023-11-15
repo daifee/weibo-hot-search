@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700068590010,
+  "endTime": 1700069669707,
   "band_list": [
     {
       "raw_hot": 995571,
@@ -411,10 +411,34 @@
       "category": "美食"
     },
     {
+      "raw_hot": 37688,
+      "num": 42139,
+      "word": "drama不仅仅是歌名",
+      "onboard_time": 1700056537,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 35169,
+      "num": 42127,
+      "word": "SEVENTEEN捐赠以成员命名的山羊",
+      "onboard_time": 1700057258,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32892,
       "num": 92726,
       "word": "民警帮43名农民工追回56万工资",
       "onboard_time": 1700063130,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24762,
+      "num": 42107,
+      "word": "明明是两人合作爸爸却获得所有崇拜",
+      "onboard_time": 1700068399,
       "rank": 48,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700068590010,
+  "endTime": 1700069669707,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -11225,6 +11225,14 @@
       "onboard_time": 1699970432,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24762,
+      "num": 42107,
+      "word": "明明是两人合作爸爸却获得所有崇拜",
+      "onboard_time": 1700068399,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22946,
