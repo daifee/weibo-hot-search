@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700036520356,
+  "endTime": 1700037365970,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1234863,
-      "num": 361614,
+      "raw_hot": 1314574,
+      "num": 365217,
       "word": "妹妹因为洗头被停课了",
       "onboard_time": 1700033195,
       "rank": 18,
@@ -121,6 +121,14 @@
       "onboard_time": 1700003363,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1171768,
+      "num": 365046,
+      "word": "缅甸果敢加速遣送中国人回国",
+      "onboard_time": 1700035475,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1171217,
@@ -137,14 +145,6 @@
       "onboard_time": 1700021555,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1047849,
-      "num": 359957,
-      "word": "缅甸果敢加速遣送中国人回国",
-      "onboard_time": 1700035475,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1032581,
@@ -201,6 +201,14 @@
       "onboard_time": 1700005409,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 845899,
+      "num": 364245,
+      "word": "久坐可能导致死臀综合征",
+      "onboard_time": 1700035175,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 839390,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 708132,
-      "num": 392625,
+      "num": 433664,
       "word": "白敬亭宋轶都去尖叫之夜",
       "onboard_time": 1700035899,
       "rank": 3,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 624814,
-      "num": 380334,
+      "num": 418440,
       "word": "吴昕互不打扰的家庭关系",
       "onboard_time": 1700033318,
       "rank": 27,
@@ -401,6 +409,14 @@
       "onboard_time": 1700019992,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547796,
+      "num": 363196,
+      "word": "金星 我们园区快递小哥也叫自如",
+      "onboard_time": 1700036074,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 545065,
@@ -443,12 +459,12 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 499306,
-      "num": 342062,
-      "word": "久坐可能导致死臀综合征",
-      "onboard_time": 1700035175,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 497652,
+      "num": 474477,
+      "word": "小米汽车",
+      "onboard_time": 1700037156,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 495426,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444642,
+      "num": 361848,
+      "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+      "onboard_time": 1700035175,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443147,
       "num": 443147,
       "word": "Uzi与Doinb将在S13决赛现场解说",
@@ -505,6 +529,14 @@
       "onboard_time": 1700010516,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433586,
+      "num": 433586,
+      "word": "研究称两岁之前的记忆或可永久恢复",
+      "onboard_time": 1700029893,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 425903,
@@ -547,16 +579,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 397926,
-      "num": 397926,
-      "word": "研究称两岁之前的记忆或可永久恢复",
-      "onboard_time": 1700029893,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 397676,
-      "num": 337021,
+      "num": 361642,
       "word": "原来迪丽热巴演过风中奇缘",
       "onboard_time": 1700034994,
       "rank": 21,
@@ -587,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381312,
-      "num": 336268,
-      "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
-      "onboard_time": 1700035175,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374882,
       "num": 374882,
       "word": "快乐老友记定档每周五",
@@ -609,6 +625,14 @@
       "onboard_time": 1700032896,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 347044,
+      "num": 334084,
+      "word": "Jennie飞天小魔女大片",
+      "onboard_time": 1700035958,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 345106,
@@ -643,14 +667,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 334084,
-      "num": 334084,
-      "word": "Jennie飞天小魔女大片",
-      "onboard_time": 1700035958,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 332250,
       "num": 332250,
       "word": "花花呼呼大睡弟弟疯狂营业",
@@ -681,14 +697,6 @@
       "onboard_time": 1700029293,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 300578,
-      "num": 300578,
-      "word": "金星 我们园区快递小哥也叫自如",
-      "onboard_time": 1700036074,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 299844,
@@ -859,8 +867,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243114,
-      "num": 243114,
+      "raw_hot": 245637,
+      "num": 245637,
       "word": "无意识让皮肤变好的行为",
       "onboard_time": 1700035596,
       "rank": 30,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 180958,
-      "num": 180958,
+      "num": 210704,
       "word": "陈哲远健身房睡觉",
       "onboard_time": 1700034994,
       "rank": 38,
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 141346,
-      "num": 141346,
+      "num": 210272,
       "word": "你多长时间洗一次头发",
       "onboard_time": 1700035655,
       "rank": 41,
@@ -1555,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131016,
+      "num": 210513,
+      "word": "以爱为营 Jackson Yi",
+      "onboard_time": 1700037156,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130401,
       "num": 130401,
       "word": "这就是90后父母的起名方式吗",
@@ -1580,7 +1596,7 @@
     },
     {
       "raw_hot": 126899,
-      "num": 126899,
+      "num": 210046,
       "word": "程潇金色亮片抹胸",
       "onboard_time": 1700033431,
       "rank": 42,
@@ -1588,7 +1604,7 @@
     },
     {
       "raw_hot": 125620,
-      "num": 125620,
+      "num": 210366,
       "word": "3种水果一定要熟透了再吃",
       "onboard_time": 1700032833,
       "rank": 43,
@@ -1699,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116518,
+      "num": 210187,
+      "word": "狼队闪现入职微博",
+      "onboard_time": 1700036614,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115291,
       "num": 115291,
       "word": "钟楚曦白色侧开叉旗袍",
@@ -1723,20 +1747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110589,
+      "num": 362642,
+      "word": "艾弗森重新定义AI",
+      "onboard_time": 1700034455,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110566,
       "num": 110566,
       "word": "张遮姜雪宁第一世",
       "onboard_time": 1699971455,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109853,
-      "num": 339114,
-      "word": "艾弗森重新定义AI",
-      "onboard_time": 1700034455,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 109272,
