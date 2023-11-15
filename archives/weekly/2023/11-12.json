@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700082960944,
+  "endTime": 1700084068180,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -6171,6 +6171,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 220072,
+      "num": 204696,
+      "word": "中美元首举行会晤",
+      "onboard_time": 1700082193,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220022,
       "num": 220022,
       "word": "浓茶和咖啡会悄悄偷走身体里的钙",
@@ -6625,14 +6633,6 @@
       "onboard_time": 1699799797,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204696,
-      "num": 204696,
-      "word": "中美元首举行会晤",
-      "onboard_time": 1700082193,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204532,
@@ -11355,8 +11355,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 14162,
-      "num": 14162,
+      "raw_hot": 15014,
+      "num": 15014,
       "word": "intp 宇宙宁古塔",
       "onboard_time": 1700078593,
       "rank": 48,

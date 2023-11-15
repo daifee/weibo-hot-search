@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700082960944,
+  "endTime": 1700084068180,
   "band_list": [
     {
       "raw_hot": 995571,
@@ -139,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220072,
+      "num": 204696,
+      "word": "中美元首举行会晤",
+      "onboard_time": 1700082193,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204870,
       "num": 204870,
       "word": "赵露思新发型",
       "onboard_time": 1700045555,
       "rank": 16,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 204696,
-      "num": 204696,
-      "word": "中美元首举行会晤",
-      "onboard_time": 1700082193,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201411,
@@ -499,8 +499,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14162,
-      "num": 14162,
+      "raw_hot": 15014,
+      "num": 15014,
       "word": "intp 宇宙宁古塔",
       "onboard_time": 1700078593,
       "rank": 48,
