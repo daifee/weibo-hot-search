@@ -1,0 +1,410 @@
+{
+  "runTime": 1700015370024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522460,
+        "num": 522460,
+        "word": "华人华侨在旧金山组成欢迎人群",
+        "onboard_time": 1700003363,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345379,
+        "num": 345379,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105839,
+        "num": 336501,
+        "word": "感受中美民意暖流",
+        "onboard_time": 1700004925,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 920156,
+        "num": 334040,
+        "word": "医生提醒山楂板栗不能混着吃",
+        "onboard_time": 1700010273,
+        "rank": 3,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 384428,
+        "num": 333757,
+        "word": "没想到嗑起了朱丹和周一围",
+        "onboard_time": 1700008056,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331492,
+        "num": 331492,
+        "word": "在西安坐地铁坐出了炕的感觉",
+        "onboard_time": 1700014472,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325036,
+        "num": 325036,
+        "word": "亚太经合组织第三十次领导人非正式会议",
+        "onboard_time": 1700008832,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292560,
+        "num": 292560,
+        "word": "胡彦斌问Melody小镇姑娘写的是谁",
+        "onboard_time": 1700007574,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268257,
+        "num": 268257,
+        "word": "Uzi与Doinb将在S13决赛现场解说",
+        "onboard_time": 1700008957,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241306,
+        "num": 241306,
+        "word": "网购了件大衣穿上变成座山雕",
+        "onboard_time": 1699992673,
+        "rank": 9,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 893395,
+        "num": 236354,
+        "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+        "onboard_time": 1700011893,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805045,
+        "num": 229998,
+        "word": "光腿神器被嘲现代刑具",
+        "onboard_time": 1700004445,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 747960,
+        "num": 227809,
+        "word": "疯是上午发的人是下午走的",
+        "onboard_time": 1700006854,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 609330,
+        "num": 216099,
+        "word": "韩国人评东北大学生现状",
+        "onboard_time": 1700005409,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464950,
+        "num": 211212,
+        "word": "从何猷君表情看出霸总执行力",
+        "onboard_time": 1700010872,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362184,
+        "num": 207475,
+        "word": "谢危终于发疯了",
+        "onboard_time": 1700010516,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243992,
+        "num": 202082,
+        "word": "武汉一研三学生留遗书后轻生",
+        "onboard_time": 1699974396,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197130,
+        "num": 197130,
+        "word": "糖尿病前期无明显症状极易被忽视",
+        "onboard_time": 1699977212,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195748,
+        "num": 195748,
+        "word": "超机智青年大会阵容官宣",
+        "onboard_time": 1700014773,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166441,
+        "num": 166441,
+        "word": "无价之宝票房逆跌",
+        "onboard_time": 1700015014,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198574,
+        "num": 166278,
+        "word": "一岁半萌娃发量惊人像戴了假发",
+        "onboard_time": 1700010034,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162082,
+        "num": 162082,
+        "word": "花花呼呼大睡弟弟疯狂营业",
+        "onboard_time": 1699974038,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159246,
+        "num": 159246,
+        "word": "APEC是什么",
+        "onboard_time": 1700009194,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153237,
+        "num": 153237,
+        "word": "男童被压20人喊口号式抬车救出",
+        "onboard_time": 1700004023,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152548,
+        "num": 152548,
+        "word": "大姐采菌被夹见消防员乐观拍视频",
+        "onboard_time": 1700013991,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150709,
+        "num": 150709,
+        "word": "男子工作压力大喝酒解闷女儿专程来接",
+        "onboard_time": 1700012854,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150242,
+        "num": 150242,
+        "word": "正式确诊为杨幂",
+        "onboard_time": 1699971157,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 144262,
+        "num": 144262,
+        "word": "感染幽门螺杆菌胃癌风险或翻倍",
+        "onboard_time": 1699972776,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140967,
+        "num": 140967,
+        "word": "新郎结婚和司仪撞衫",
+        "onboard_time": 1700007756,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138947,
+        "num": 138947,
+        "word": "谷爱凌来了都得说滑得好",
+        "onboard_time": 1700010573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158806,
+        "num": 136239,
+        "word": "两根手指一秒捏出雕塑鼻",
+        "onboard_time": 1700014712,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133416,
+        "num": 133416,
+        "word": "当高启强开始说英文",
+        "onboard_time": 1700011831,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131020,
+        "num": 131020,
+        "word": "两位唐氏孩子妈妈用20年互相治愈",
+        "onboard_time": 1700005048,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124346,
+        "num": 124346,
+        "word": "67岁重庆阿姨相亲邂逅机车老伴",
+        "onboard_time": 1700013691,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "张远告别披荆斩棘",
+        "onboard_time": 1700010994,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118664,
+        "num": 118664,
+        "word": "女子婚礼骑白马出场又美又飒",
+        "onboard_time": 1700014233,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116840,
+        "num": 116840,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116228,
+        "num": 116228,
+        "word": "TFBOYS登腾讯音乐财报",
+        "onboard_time": 1700002942,
+        "rank": 37,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 116097,
+        "num": 116097,
+        "word": "姜雪宁燕临判词 爱也没用没用也爱",
+        "onboard_time": 1700008657,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113539,
+        "num": 113539,
+        "word": "被床封印了的熊猫宝宝",
+        "onboard_time": 1700008236,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110493,
+        "num": 110493,
+        "word": "郭敬明晒侯明昊田嘉瑞剧照",
+        "onboard_time": 1700006611,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107907,
+        "num": 107907,
+        "word": "时宴掉马",
+        "onboard_time": 1699975956,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99545,
+        "num": 99545,
+        "word": "花少5 人际和工作之间的统筹链接关系",
+        "onboard_time": 1700005409,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97023,
+        "num": 97023,
+        "word": "男子突然倒地2身着藏装姑娘跪地救人",
+        "onboard_time": 1699979904,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93713,
+        "num": 93713,
+        "word": "连续30天早睡1小时身体会有何变化",
+        "onboard_time": 1699967496,
+        "rank": 44,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 88530,
+        "num": 88530,
+        "word": "中美元首旧金山会晤",
+        "onboard_time": 1700004143,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82168,
+        "num": 82168,
+        "word": "1979年 骨相化妆",
+        "onboard_time": 1699969053,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 82039,
+        "num": 82039,
+        "word": "金莎说男友扮猪吃老虎",
+        "onboard_time": 1699969775,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81789,
+        "num": 81789,
+        "word": "武大教授硬核方式教年轻人反内卷",
+        "onboard_time": 1700015249,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81762,
+        "num": 81762,
+        "word": "以爱为营",
+        "onboard_time": 1700012671,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席旧金山之行#"
+    }
+  }
+}
