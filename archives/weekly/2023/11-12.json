@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700075677987,
+  "endTime": 1700076858178,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -10507,6 +10507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103516,
+      "num": 103516,
+      "word": "中美元首旧金山会晤正式开始",
+      "onboard_time": 1700076553,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103378,
       "num": 103378,
       "word": "UFC295",
@@ -11259,6 +11267,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 22480,
+      "num": 22480,
+      "word": "你通常几点入睡",
+      "onboard_time": 1700074755,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21326,
       "num": 894971,
       "word": "江山如画",
@@ -11313,14 +11329,6 @@
       "onboard_time": 1699817056,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 14687,
-      "num": 18660,
-      "word": "你通常几点入睡",
-      "onboard_time": 1700074755,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13292,
