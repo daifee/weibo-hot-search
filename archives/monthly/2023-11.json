@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700061551825,
+  "endTime": 1700062475074,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1555,6 +1555,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1748074,
+      "num": 301078,
+      "word": "女子孕期遭强奸引产后丈夫要求退彩礼",
+      "onboard_time": 1700059356,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1730492,
       "num": 963669,
       "word": "赵丽颖雪祭司神女妆",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1698911915,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1696260,
-      "num": 301078,
-      "word": "女子孕期遭强奸引产后丈夫要求退彩礼",
-      "onboard_time": 1700059356,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1691802,
@@ -4275,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 974714,
+      "num": 549310,
+      "word": "大约40%的癌症可以避免",
+      "onboard_time": 1700056235,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 971758,
       "num": 971758,
       "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
@@ -4369,14 +4377,6 @@
       "onboard_time": 1699148011,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 955822,
-      "num": 549310,
-      "word": "大约40%的癌症可以避免",
-      "onboard_time": 1700056235,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 954845,
@@ -12939,6 +12939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406543,
+      "num": 393808,
+      "word": "白鹿张凌赫交杯吃饭团",
+      "onboard_time": 1700058577,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406489,
       "num": 406489,
       "word": "林高远林诗栋男双夺冠",
@@ -13377,14 +13385,6 @@
       "onboard_time": 1698912935,
       "rank": 25,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 393808,
-      "num": 393808,
-      "word": "白鹿张凌赫交杯吃饭团",
-      "onboard_time": 1700058577,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 393583,
@@ -15819,6 +15819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 334229,
+      "num": 322013,
+      "word": "缅北边境避难道路一度拥堵",
+      "onboard_time": 1700060018,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334081,
       "num": 193675,
       "word": "乌镇偶遇黄磊一家五口",
@@ -15931,6 +15939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 331777,
+      "num": 331508,
+      "word": "杨幂翡翠耳坠",
+      "onboard_time": 1700058397,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 331642,
       "num": 331642,
       "word": "李莲花 起风了",
@@ -15947,20 +15963,20 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 331508,
-      "num": 331508,
-      "word": "杨幂翡翠耳坠",
-      "onboard_time": 1700058397,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 331096,
       "num": 331096,
       "word": "米勒 全面碾压恭喜T1",
       "onboard_time": 1699183418,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 330938,
+      "num": 259719,
+      "word": "安小鸟拔舌妆",
+      "onboard_time": 1700061276,
+      "rank": 38,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 330915,
@@ -16360,14 +16376,6 @@
       "word": "1岁宝宝离世捐器官救6人",
       "onboard_time": 1699318416,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322013,
-      "num": 322013,
-      "word": "缅北边境避难道路一度拥堵",
-      "onboard_time": 1700060018,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -18857,6 +18865,14 @@
       "onboard_time": 1699193977,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276143,
+      "num": 258837,
+      "word": "她居然可以自己做马面裙",
+      "onboard_time": 1700060975,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 276015,
@@ -22531,6 +22547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228728,
+      "num": 228728,
+      "word": "无限回购的好用润唇膏",
+      "onboard_time": 1700061397,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 228701,
       "num": 190788,
       "word": "宋轶珍珠流苏裙",
@@ -23569,6 +23593,14 @@
       "onboard_time": 1699846531,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 218638,
+      "num": 218638,
+      "word": "杨幂选了狐狸蜜蜂贺卡",
+      "onboard_time": 1700062174,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 218602,
@@ -25171,6 +25203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205304,
+      "num": 205304,
+      "word": "怀疑这家幼儿园没有做饭师傅",
+      "onboard_time": 1700060914,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205258,
       "num": 302948,
       "word": "王楚钦梁靖崑晋级四强",
@@ -25329,14 +25369,6 @@
       "onboard_time": 1699773630,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204183,
-      "num": 204183,
-      "word": "怀疑这家幼儿园没有做饭师傅",
-      "onboard_time": 1700060914,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 204128,
@@ -26121,14 +26153,6 @@
       "onboard_time": 1700015491,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198869,
-      "num": 256599,
-      "word": "她居然可以自己做马面裙",
-      "onboard_time": 1700060975,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 198867,
@@ -28641,14 +28665,6 @@
       "onboard_time": 1700025036,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183662,
-      "num": 183662,
-      "word": "无限回购的好用润唇膏",
-      "onboard_time": 1700061397,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 183592,
@@ -31769,14 +31785,6 @@
       "onboard_time": 1699778608,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159251,
-      "num": 159251,
-      "word": "安小鸟拔舌妆",
-      "onboard_time": 1700061276,
-      "rank": 38,
-      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 159130,
@@ -35267,6 +35275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133695,
+      "num": 133695,
+      "word": "不喜欢的护肤品如何消耗掉",
+      "onboard_time": 1700061756,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133675,
       "num": 189541,
       "word": "秋日限定壁纸",
@@ -36595,6 +36611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124331,
+      "num": 124331,
+      "word": "田曦薇被烫到的反应",
+      "onboard_time": 1700062113,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124302,
       "num": 177436,
       "word": "安东尼泰勒",
@@ -36849,6 +36873,14 @@
       "onboard_time": 1699865432,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122540,
+      "num": 122540,
+      "word": "友情在此刻具象化了",
+      "onboard_time": 1700062234,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 122465,
@@ -38457,6 +38489,14 @@
       "onboard_time": 1699675770,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107121,
+      "num": 107121,
+      "word": "秦岚这该死的镜头感",
+      "onboard_time": 1700062410,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 107043,
@@ -40217,6 +40257,14 @@
       "onboard_time": 1698881553,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76982,
+      "num": 136772,
+      "word": "旧金山会晤将启希望中美相向而行",
+      "onboard_time": 1700062352,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 76975,

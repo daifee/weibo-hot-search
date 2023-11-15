@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700061551825,
+  "endTime": 1700062475074,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1748074,
+      "num": 301078,
+      "word": "女子孕期遭强奸引产后丈夫要求退彩礼",
+      "onboard_time": 1700059356,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1730492,
       "num": 963669,
       "word": "赵丽颖雪祭司神女妆",
@@ -321,14 +329,6 @@
       "onboard_time": 1699831707,
       "rank": 31,
       "category": "美妆,知识科普"
-    },
-    {
-      "raw_hot": 1696260,
-      "num": 301078,
-      "word": "女子孕期遭强奸引产后丈夫要求退彩礼",
-      "onboard_time": 1700059356,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1691351,
@@ -1035,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 974714,
+      "num": 549310,
+      "word": "大约40%的癌症可以避免",
+      "onboard_time": 1700056235,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 961353,
       "num": 961353,
       "word": "陈乔恩 和身边的朋友渐行渐远",
@@ -1048,14 +1056,6 @@
       "word": "光腿神器的危害有多大",
       "onboard_time": 1699929333,
       "rank": 4,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 955822,
-      "num": 549310,
-      "word": "大约40%的癌症可以避免",
-      "onboard_time": 1700056235,
-      "rank": 21,
       "category": "健康医疗"
     },
     {
@@ -3379,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406543,
+      "num": 393808,
+      "word": "白鹿张凌赫交杯吃饭团",
+      "onboard_time": 1700058577,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406489,
       "num": 406489,
       "word": "林高远林诗栋男双夺冠",
@@ -3489,14 +3497,6 @@
       "onboard_time": 1699952254,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 393808,
-      "num": 393808,
-      "word": "白鹿张凌赫交杯吃饭团",
-      "onboard_time": 1700058577,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 393327,
@@ -4027,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334229,
+      "num": 322013,
+      "word": "缅北边境避难道路一度拥堵",
+      "onboard_time": 1700060018,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334050,
       "num": 334050,
       "word": "小蝴蝶迪丽热巴",
@@ -4067,12 +4075,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331508,
+      "raw_hot": 331777,
       "num": 331508,
       "word": "杨幂翡翠耳坠",
       "onboard_time": 1700058397,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 330938,
+      "num": 259719,
+      "word": "安小鸟拔舌妆",
+      "onboard_time": 1700061276,
+      "rank": 38,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 327734,
@@ -4177,14 +4193,6 @@
       "onboard_time": 1699781189,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322013,
-      "num": 322013,
-      "word": "缅北边境避难道路一度拥堵",
-      "onboard_time": 1700060018,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319904,
@@ -4929,6 +4937,14 @@
       "onboard_time": 1700041413,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276143,
+      "num": 258837,
+      "word": "她居然可以自己做马面裙",
+      "onboard_time": 1700060975,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 275687,
@@ -5811,6 +5827,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 228728,
+      "num": 228728,
+      "word": "无限回购的好用润唇膏",
+      "onboard_time": 1700061397,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 228390,
       "num": 228390,
       "word": "虞书欣吊带拖尾裙",
@@ -6129,6 +6153,14 @@
       "onboard_time": 1699846531,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 218638,
+      "num": 218638,
+      "word": "杨幂选了狐狸蜜蜂贺卡",
+      "onboard_time": 1700062174,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 217875,
@@ -6499,6 +6531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205304,
+      "num": 205304,
+      "word": "怀疑这家幼儿园没有做饭师傅",
+      "onboard_time": 1700060914,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205154,
       "num": 205154,
       "word": "霍格沃兹的监控",
@@ -6545,14 +6585,6 @@
       "onboard_time": 1699773630,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204183,
-      "num": 204183,
-      "word": "怀疑这家幼儿园没有做饭师傅",
-      "onboard_time": 1700060914,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 204093,
@@ -6769,14 +6801,6 @@
       "onboard_time": 1700015491,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198869,
-      "num": 256599,
-      "word": "她居然可以自己做马面裙",
-      "onboard_time": 1700060975,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 198825,
@@ -7409,14 +7433,6 @@
       "onboard_time": 1700025036,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183662,
-      "num": 183662,
-      "word": "无限回购的好用润唇膏",
-      "onboard_time": 1700061397,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 183547,
@@ -8435,14 +8451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159251,
-      "num": 159251,
-      "word": "安小鸟拔舌妆",
-      "onboard_time": 1700061276,
-      "rank": 38,
-      "category": "美妆,作品衍生"
-    },
-    {
       "raw_hot": 159130,
       "num": 159130,
       "word": "专家解读肺炎支原体感染和流感区别",
@@ -9339,6 +9347,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 133695,
+      "num": 133695,
+      "word": "不喜欢的护肤品如何消耗掉",
+      "onboard_time": 1700061756,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133662,
       "num": 133662,
       "word": "50岁女子骑车被撞获救后说我不讹你",
@@ -9699,6 +9715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124331,
+      "num": 124331,
+      "word": "田曦薇被烫到的反应",
+      "onboard_time": 1700062113,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124302,
       "num": 177436,
       "word": "安东尼泰勒",
@@ -9801,6 +9825,14 @@
       "onboard_time": 1699865432,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122540,
+      "num": 122540,
+      "word": "友情在此刻具象化了",
+      "onboard_time": 1700062234,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 122019,
@@ -10299,6 +10331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107121,
+      "num": 107121,
+      "word": "秦岚这该死的镜头感",
+      "onboard_time": 1700062410,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106729,
       "num": 100289,
       "word": "宁安如梦里的爱恨姐妹情",
@@ -10697,6 +10737,14 @@
       "onboard_time": 1700055096,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76982,
+      "num": 136772,
+      "word": "旧金山会晤将启希望中美相向而行",
+      "onboard_time": 1700062352,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 76752,
