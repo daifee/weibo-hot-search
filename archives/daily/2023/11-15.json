@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700022067667,
+  "endTime": 1700022881088,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1706434,
-      "num": 471726,
+      "raw_hot": 1764454,
+      "num": 555429,
       "word": "伊能静儿子用三年时间读完四年的大学",
       "onboard_time": 1700019933,
       "rank": 10,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1561570,
+      "num": 534277,
+      "word": "没演技的流量男星 没角色的女演员",
+      "onboard_time": 1700019812,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1447785,
       "num": 1447785,
       "word": "中美元首会晤",
       "onboard_time": 1699963591,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1367164,
-      "num": 470769,
-      "word": "没演技的流量男星 没角色的女演员",
-      "onboard_time": 1700019812,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1228856,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1171217,
-      "num": 470357,
+      "num": 522578,
       "word": "经纪人回应网传艺人为缅北电诈家族庆生",
       "onboard_time": 1700011893,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060091,
+      "num": 1060091,
+      "word": "爱奇艺尖叫之夜第二波阵容",
+      "onboard_time": 1700021555,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1032581,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 894632,
-      "num": 469770,
+      "num": 495367,
       "word": "傅盛发文怒怼王自如",
       "onboard_time": 1700017171,
       "rank": 12,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 839390,
-      "num": 519954,
+      "num": 812171,
       "word": "头发到底多久洗一次好",
       "onboard_time": 1700019392,
       "rank": 3,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 816736,
+      "num": 816736,
+      "word": "大闸蟹跌破10元",
+      "onboard_time": 1700020533,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 800813,
@@ -121,6 +137,14 @@
       "onboard_time": 1700006854,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 765325,
+      "num": 765325,
+      "word": "左肩有你 正片",
+      "onboard_time": 1700022155,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 764101,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 728327,
-      "num": 510026,
+      "num": 595944,
       "word": "勇士森林狼冲突",
       "onboard_time": 1700018972,
       "rank": 28,
@@ -156,11 +180,19 @@
     },
     {
       "raw_hot": 701364,
-      "num": 488545,
+      "num": 584778,
       "word": "李相夷 无法超越的传奇",
       "onboard_time": 1700016869,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 695432,
+      "num": 695432,
+      "word": "周杰伦预告12月新单曲",
+      "onboard_time": 1700021193,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 664176,
@@ -179,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646716,
-      "num": 646716,
-      "word": "大闸蟹跌破10元",
-      "onboard_time": 1700020533,
-      "rank": 0,
-      "category": "美食"
-    },
-    {
       "raw_hot": 614484,
       "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 604877,
-      "num": 493759,
+      "num": 603673,
       "word": "快乐老友记",
       "onboard_time": 1700019992,
       "rank": 5,
@@ -227,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 531689,
-      "num": 531689,
-      "word": "周杰伦预告12月新单曲",
-      "onboard_time": 1700021193,
-      "rank": 1,
-      "category": "音乐"
+      "raw_hot": 518223,
+      "num": 518223,
+      "word": "四川通报摩崖造像被涂色",
+      "onboard_time": 1700021315,
+      "rank": 16,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 499441,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 472611,
-      "num": 472611,
+      "num": 496238,
       "word": "藿藿",
       "onboard_time": 1700017953,
       "rank": 20,
@@ -273,14 +297,6 @@
       "onboard_time": 1700010872,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457617,
-      "num": 457617,
-      "word": "爱奇艺尖叫之夜第二波阵容",
-      "onboard_time": 1700021555,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 443147,
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366556,
-      "num": 366556,
-      "word": "四川通报摩崖造像被涂色",
-      "onboard_time": 1700021315,
-      "rank": 16,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 340770,
       "num": 231613,
       "word": "于适红发",
       "onboard_time": 1699976854,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 333732,
+      "num": 567801,
+      "word": "缉毒警为了卧底10天减重25斤",
+      "onboard_time": 1700021853,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332250,
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173836,
+      "num": 173836,
+      "word": "7岁女孩将随意涂鸦作成画",
+      "onboard_time": 1700019031,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172923,
       "num": 172923,
       "word": "男童被压20人喊口号式抬车救出",
@@ -737,14 +761,6 @@
       "onboard_time": 1700010994,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168635,
-      "num": 168635,
-      "word": "7岁女孩将随意涂鸦作成画",
-      "onboard_time": 1700019031,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166511,
@@ -891,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134222,
-      "num": 134222,
-      "word": "缉毒警为了卧底10天减重25斤",
-      "onboard_time": 1700021853,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133416,
       "num": 133416,
       "word": "当高启强开始说英文",
@@ -945,6 +953,14 @@
       "onboard_time": 1700008416,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128615,
+      "num": 133905,
+      "word": "敦煌讲解实习生考核",
+      "onboard_time": 1700021975,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 124485,
@@ -1059,28 +1075,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108856,
+      "num": 812722,
+      "word": "关于APEC的知识点",
+      "onboard_time": 1700018433,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108006,
       "num": 108006,
       "word": "张雅钦 好会视频营业",
       "onboard_time": 1699975356,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107680,
-      "num": 133905,
-      "word": "敦煌讲解实习生考核",
-      "onboard_time": 1700021975,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102476,
-      "num": 523069,
-      "word": "关于APEC的知识点",
-      "onboard_time": 1700018433,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 99614,
@@ -1284,6 +1292,9 @@
     },
     {
       "word": "#习近平抵达美国旧金山#"
+    },
+    {
+      "word": "#中美元首旧金山会晤#"
     }
   ]
 }

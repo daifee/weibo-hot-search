@@ -1,0 +1,410 @@
+{
+  "runTime": 1700022881088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060091,
+        "num": 1060091,
+        "word": "爱奇艺尖叫之夜第二波阵容",
+        "onboard_time": 1700021555,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816736,
+        "num": 816736,
+        "word": "大闸蟹跌破10元",
+        "onboard_time": 1700020533,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108856,
+        "num": 812722,
+        "word": "关于APEC的知识点",
+        "onboard_time": 1700018433,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 812171,
+        "num": 812171,
+        "word": "头发到底多久洗一次好",
+        "onboard_time": 1700019392,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 765325,
+        "num": 765325,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695432,
+        "num": 695432,
+        "word": "周杰伦预告12月新单曲",
+        "onboard_time": 1700021193,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 603673,
+        "num": 603673,
+        "word": "快乐老友记",
+        "onboard_time": 1700019992,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595944,
+        "num": 595944,
+        "word": "勇士森林狼冲突",
+        "onboard_time": 1700018972,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487353,
+        "num": 584778,
+        "word": "李相夷 无法超越的传奇",
+        "onboard_time": 1700016869,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333732,
+        "num": 567801,
+        "word": "缉毒警为了卧底10天减重25斤",
+        "onboard_time": 1700021853,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1764454,
+        "num": 555429,
+        "word": "伊能静儿子用三年时间读完四年的大学",
+        "onboard_time": 1700019933,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1561570,
+        "num": 534277,
+        "word": "没演技的流量男星 没角色的女演员",
+        "onboard_time": 1700019812,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708442,
+        "num": 522578,
+        "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+        "onboard_time": 1700011893,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518223,
+        "num": 518223,
+        "word": "四川通报摩崖造像被涂色",
+        "onboard_time": 1700021315,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 427948,
+        "num": 496238,
+        "word": "藿藿",
+        "onboard_time": 1700017953,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 495367,
+        "num": 495367,
+        "word": "傅盛发文怒怼王自如",
+        "onboard_time": 1700017171,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469507,
+        "num": 469507,
+        "word": "陈伟霆终于演疯批了",
+        "onboard_time": 1700020055,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430961,
+        "num": 430961,
+        "word": "光腿神器被嘲现代刑具",
+        "onboard_time": 1700004445,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 292007,
+        "num": 292007,
+        "word": "在西安坐地铁坐出了炕的感觉",
+        "onboard_time": 1700014472,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333860,
+        "num": 282133,
+        "word": "韩国人评东北大学生现状",
+        "onboard_time": 1700005409,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258619,
+        "num": 258619,
+        "word": "易胖体质可能是减出来的",
+        "onboard_time": 1700017953,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 250242,
+        "num": 250242,
+        "word": "疯是上午发的人是下午走的",
+        "onboard_time": 1700006854,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247626,
+        "num": 247626,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236540,
+        "num": 236540,
+        "word": "华人华侨在旧金山组成欢迎人群",
+        "onboard_time": 1700003363,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223016,
+        "num": 223016,
+        "word": "赵丽颖雪祭司妆容解析",
+        "onboard_time": 1700019451,
+        "rank": 24,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 209078,
+        "num": 209078,
+        "word": "2024龙年贵金属纪念币将发行",
+        "onboard_time": 1700017591,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203122,
+        "num": 203122,
+        "word": "苏醒官宣加盟脑力综艺",
+        "onboard_time": 1700021254,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198930,
+        "num": 198930,
+        "word": "格林锁喉戈贝尔",
+        "onboard_time": 1700019392,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194192,
+        "num": 194192,
+        "word": "程潇朱正廷翻跳亚超主题曲",
+        "onboard_time": 1700017352,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193880,
+        "num": 193880,
+        "word": "文俊辉联合国中文演讲发言",
+        "onboard_time": 1700016691,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181860,
+        "num": 181860,
+        "word": "A股",
+        "onboard_time": 1700018191,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173836,
+        "num": 173836,
+        "word": "7岁女孩将随意涂鸦作成画",
+        "onboard_time": 1700019031,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171794,
+        "num": 171794,
+        "word": "韩国游客为看福宝排队数小时",
+        "onboard_time": 1700017411,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164601,
+        "num": 164601,
+        "word": "Uzi与Doinb将在S13决赛现场解说",
+        "onboard_time": 1700008957,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "谢危终于发疯了",
+        "onboard_time": 1700010516,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147611,
+        "num": 147611,
+        "word": "东北大爷把楼下积雪砌成20米城墙",
+        "onboard_time": 1700019749,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137949,
+        "num": 137949,
+        "word": "罗云熙汴京贵公子",
+        "onboard_time": 1700018071,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137766,
+        "num": 137766,
+        "word": "黑白密码定档",
+        "onboard_time": 1700018612,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137177,
+        "num": 137177,
+        "word": "刘德华巡演官宣",
+        "onboard_time": 1700016390,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135325,
+        "num": 135325,
+        "word": "燕临 竹马少年郎",
+        "onboard_time": 1700018554,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132335,
+        "num": 132335,
+        "word": "一瓶饮料的含糖量有多夸张",
+        "onboard_time": 1700016090,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128615,
+        "num": 128615,
+        "word": "敦煌讲解实习生考核",
+        "onboard_time": 1700021975,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128012,
+        "num": 128012,
+        "word": "医生提醒山楂板栗不能混着吃",
+        "onboard_time": 1700010273,
+        "rank": 42,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 126830,
+        "num": 126830,
+        "word": "武大教授硬核方式教年轻人反内卷",
+        "onboard_time": 1700015249,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121689,
+        "num": 121689,
+        "word": "没想到嗑起了朱丹和周一围",
+        "onboard_time": 1700008056,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117056,
+        "num": 121472,
+        "word": "你会考虑聘请收纳师吗",
+        "onboard_time": 1700018491,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 115700,
+        "num": 120322,
+        "word": "从何猷君表情看出霸总执行力",
+        "onboard_time": 1700010872,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106483,
+        "num": 119860,
+        "word": "中国霸总短剧收割欧美",
+        "onboard_time": 1700018370,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99839,
+        "num": 118977,
+        "word": "森林狼vs勇士",
+        "onboard_time": 1700018972,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97828,
+        "num": 118535,
+        "word": "陆沉 游戏开始",
+        "onboard_time": 1700017591,
+        "rank": 49,
+        "category": "动漫,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首旧金山会晤#"
+    }
+  }
+}
