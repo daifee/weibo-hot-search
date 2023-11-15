@@ -1,0 +1,410 @@
+{
+  "runTime": 1700058922145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 134530,
+        "num": 584478,
+        "word": "美国高中老师说中美合作对所有人都好",
+        "onboard_time": 1700050595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337849,
+        "num": 337849,
+        "word": "顺其自然25年捐款1577万",
+        "onboard_time": 1700043155,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15581,
+        "num": 328307,
+        "word": "共创共享亚太和世界更加美好的未来",
+        "onboard_time": 1700038174,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1129857,
+        "num": 321025,
+        "word": "原来迪丽热巴一直是素颜",
+        "onboard_time": 1700048671,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 708694,
+        "num": 307108,
+        "word": "小杨哥演唱会成本超3000万",
+        "onboard_time": 1700048250,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 698919,
+        "num": 294946,
+        "word": "辛芷蕾人设还没立就崩了",
+        "onboard_time": 1700049514,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618560,
+        "num": 284533,
+        "word": "何炅见证了多少人的成长",
+        "onboard_time": 1700056959,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592056,
+        "num": 277632,
+        "word": "三浦德子去世",
+        "onboard_time": 1700052033,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374272,
+        "num": 264028,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 8,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 260336,
+        "num": 260336,
+        "word": "天官赐福",
+        "onboard_time": 1700051612,
+        "rank": 9,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1124080,
+        "num": 259875,
+        "word": "农妇手指受伤被转到私立医院术后身亡",
+        "onboard_time": 1700056296,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599177,
+        "num": 257238,
+        "word": "程潇三角巾抹胸",
+        "onboard_time": 1700048497,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 506153,
+        "num": 254556,
+        "word": "男女关系永远不要把男性放在第一位",
+        "onboard_time": 1700057138,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478455,
+        "num": 252153,
+        "word": "刘亦菲彭冠英亲出声了",
+        "onboard_time": 1700042374,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22429,
+        "num": 247713,
+        "word": "中美元首旧金山会晤",
+        "onboard_time": 1700004143,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 455700,
+        "num": 247049,
+        "word": "宁安如梦女三",
+        "onboard_time": 1700052216,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433310,
+        "num": 243603,
+        "word": "赵昭仪花少合照P上了迪丽热巴",
+        "onboard_time": 1700055816,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357960,
+        "num": 241499,
+        "word": "杨幂卡其色穿搭",
+        "onboard_time": 1700054795,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 307269,
+        "num": 237489,
+        "word": "罗翔 不要带有知识的优越感",
+        "onboard_time": 1700057615,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237061,
+        "num": 237061,
+        "word": "医生提醒逍遥丸不要自行乱服",
+        "onboard_time": 1700044533,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 668084,
+        "num": 236058,
+        "word": "大约40%的癌症可以避免",
+        "onboard_time": 1700056235,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344576,
+        "num": 228375,
+        "word": "赵昭仪情绪崩溃躲起来哭",
+        "onboard_time": 1700052700,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315516,
+        "num": 224610,
+        "word": "赵露思新发型",
+        "onboard_time": 1700045555,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 279084,
+        "num": 217156,
+        "word": "网传高校一男生床单包大便丢洗衣机",
+        "onboard_time": 1700052575,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216219,
+        "num": 216219,
+        "word": "野生大熊猫5天4次同一地点喝水",
+        "onboard_time": 1700048497,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313159,
+        "num": 210361,
+        "word": "TFBOYS待映新片都是科幻片",
+        "onboard_time": 1700051793,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265267,
+        "num": 205549,
+        "word": "白鹿的出道作品是陆虎的留言",
+        "onboard_time": 1700055397,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258687,
+        "num": 198466,
+        "word": "刘亦菲头像大户上新了",
+        "onboard_time": 1700058817,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255062,
+        "num": 192550,
+        "word": "杨幂翡翠耳坠",
+        "onboard_time": 1700058397,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189972,
+        "num": 189972,
+        "word": "海底捞回应试点调整份量和价格",
+        "onboard_time": 1700046872,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215885,
+        "num": 189812,
+        "word": "陈坤 我发小",
+        "onboard_time": 1700043396,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237659,
+        "num": 189216,
+        "word": "白鹿张凌赫交杯吃饭团",
+        "onboard_time": 1700058577,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167749,
+        "num": 188886,
+        "word": "粉丝为Xiaohu点歌",
+        "onboard_time": 1700056357,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159151,
+        "num": 188488,
+        "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+        "onboard_time": 1700035175,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142089,
+        "num": 188228,
+        "word": "街头古法美容让我白了一度",
+        "onboard_time": 1700058098,
+        "rank": 34,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 187941,
+        "num": 187941,
+        "word": "drama不仅仅是歌名",
+        "onboard_time": 1700056537,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180598,
+        "num": 180598,
+        "word": "宁艺卓李咏知drama挑战",
+        "onboard_time": 1700058577,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178099,
+        "num": 178099,
+        "word": "张晚意王楚然都营业了",
+        "onboard_time": 1700051255,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164920,
+        "num": 164920,
+        "word": "Faker回应拒绝比弱爆",
+        "onboard_time": 1700045915,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120993,
+        "num": 162443,
+        "word": "大熊猫渝爱毛毛虫式蛄蛹下树",
+        "onboard_time": 1700057615,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162288,
+        "num": 162288,
+        "word": "SEVENTEEN捐赠以成员命名的山羊",
+        "onboard_time": 1700057258,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158085,
+        "num": 158085,
+        "word": "跟爱人一起入眠睡眠质量会更好",
+        "onboard_time": 1700058216,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148573,
+        "num": 148573,
+        "word": "金星 我们园区快递小哥也叫自如",
+        "onboard_time": 1700036074,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145022,
+        "num": 145022,
+        "word": "张若昀下厨了",
+        "onboard_time": 1700056893,
+        "rank": 43,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 128411,
+        "num": 143488,
+        "word": "秋冬一定要坚持揉腹",
+        "onboard_time": 1700051373,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142755,
+        "num": 142755,
+        "word": "韩孝周大钟奖视后",
+        "onboard_time": 1700045671,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105197,
+        "num": 142715,
+        "word": "WBG对阵T1所有结局",
+        "onboard_time": 1700046697,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98031,
+        "num": 141977,
+        "word": "运动员遭冰刀割喉身亡一男子被捕",
+        "onboard_time": 1700031994,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90844,
+        "num": 141888,
+        "word": "中国刷新亚洲最深井纪录",
+        "onboard_time": 1700051495,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88010,
+        "num": 141306,
+        "word": "咒术回战 jjxx到底在画啥",
+        "onboard_time": 1700051495,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}

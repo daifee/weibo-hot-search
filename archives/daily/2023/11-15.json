@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700057807468,
+  "endTime": 1700058922145,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -192,6 +192,14 @@
       "word": "经纪人回应网传艺人为缅北电诈家族庆生",
       "onboard_time": 1700011893,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1124080,
+      "num": 342066,
+      "word": "农妇手指受伤被转到私立医院术后身亡",
+      "onboard_time": 1700056296,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 698919,
+      "num": 386213,
+      "word": "辛芷蕾人设还没立就崩了",
+      "onboard_time": 1700049514,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696856,
       "num": 519798,
       "word": "医生提醒逍遥丸不要自行乱服",
@@ -459,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 686863,
-      "num": 386213,
-      "word": "辛芷蕾人设还没立就崩了",
-      "onboard_time": 1700049514,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 668084,
+      "num": 240960,
+      "word": "大约40%的癌症可以避免",
+      "onboard_time": 1700056235,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 664176,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618560,
+      "num": 315451,
+      "word": "何炅见证了多少人的成长",
+      "onboard_time": 1700056959,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614484,
       "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
@@ -536,22 +560,6 @@
       "word": "厦门10元自助餐厅被查",
       "onboard_time": 1700031933,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614053,
-      "num": 240960,
-      "word": "大约40%的癌症可以避免",
-      "onboard_time": 1700056235,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 606086,
-      "num": 342066,
-      "word": "农妇手指受伤被转到私立医院术后身亡",
-      "onboard_time": 1700056296,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -649,6 +657,14 @@
       "onboard_time": 1700021315,
       "rank": 16,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 506153,
+      "num": 254556,
+      "word": "男女关系永远不要把男性放在第一位",
+      "onboard_time": 1700057138,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 499441,
@@ -859,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 387232,
-      "num": 315451,
-      "word": "何炅见证了多少人的成长",
-      "onboard_time": 1700056959,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387140,
       "num": 387140,
       "word": "程潇朱正廷翻跳亚超主题曲",
@@ -921,6 +929,14 @@
       "onboard_time": 1700037934,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 357960,
+      "num": 241499,
+      "word": "杨幂卡其色穿搭",
+      "onboard_time": 1700054795,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 351884,
@@ -979,14 +995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336470,
-      "num": 225207,
-      "word": "杨幂卡其色穿搭",
-      "onboard_time": 1700054795,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 334050,
       "num": 334050,
       "word": "小蝴蝶迪丽热巴",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1700039012,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307269,
+      "num": 237489,
+      "word": "罗翔 不要带有知识的优越感",
+      "onboard_time": 1700057615,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 306340,
@@ -1211,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265267,
+      "num": 205549,
+      "word": "白鹿的出道作品是陆虎的留言",
+      "onboard_time": 1700055397,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259952,
       "num": 230601,
       "word": "正式确诊为杨幂",
@@ -1219,12 +1243,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 259647,
-      "num": 172319,
-      "word": "白鹿的出道作品是陆虎的留言",
-      "onboard_time": 1700055397,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 258687,
+      "num": 198466,
+      "word": "刘亦菲头像大户上新了",
+      "onboard_time": 1700058817,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 257382,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1700009194,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 255062,
+      "num": 192550,
+      "word": "杨幂翡翠耳坠",
+      "onboard_time": 1700058397,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 254895,
@@ -1384,6 +1416,14 @@
       "word": "尖叫之夜真假cp大乱炖",
       "onboard_time": 1700042497,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237659,
+      "num": 189216,
+      "word": "白鹿张凌赫交杯吃饭团",
+      "onboard_time": 1700058577,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1611,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203579,
-      "num": 203579,
-      "word": "男女关系永远不要把男性放在第一位",
-      "onboard_time": 1700057138,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203004,
       "num": 203004,
       "word": "玫瑰故事杀青",
@@ -1739,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187941,
+      "num": 187941,
+      "word": "drama不仅仅是歌名",
+      "onboard_time": 1700056537,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "这是我清汤寡水20集应得的",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1700006611,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184228,
-      "num": 164630,
-      "word": "drama不仅仅是歌名",
-      "onboard_time": 1700056537,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184185,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1700034994,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180598,
+      "num": 180598,
+      "word": "宁艺卓李咏知drama挑战",
+      "onboard_time": 1700058577,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180556,
@@ -1956,7 +1996,7 @@
     },
     {
       "raw_hot": 172323,
-      "num": 172323,
+      "num": 188886,
       "word": "粉丝为Xiaohu点歌",
       "onboard_time": 1700056357,
       "rank": 29,
@@ -2099,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158085,
+      "num": 158085,
+      "word": "跟爱人一起入眠睡眠质量会更好",
+      "onboard_time": 1700058216,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156071,
       "num": 156071,
       "word": "1020缅北到底发生了什么",
@@ -2235,6 +2283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 142089,
+      "num": 188228,
+      "word": "街头古法美容让我白了一度",
+      "onboard_time": 1700058098,
+      "rank": 34,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 141346,
       "num": 210272,
       "word": "你多长时间洗一次头发",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1700004925,
       "rank": 2,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 133210,
-      "num": 164033,
-      "word": "罗翔 不要带有知识的优越感",
-      "onboard_time": 1700057615,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 132812,
@@ -2451,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120993,
+      "num": 162443,
+      "word": "大熊猫渝爱毛毛虫式蛄蛹下树",
+      "onboard_time": 1700057615,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120921,
       "num": 162833,
       "word": "够了 老子心疼罐罐",
@@ -2561,14 +2617,6 @@
       "onboard_time": 1699975356,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105721,
-      "num": 149243,
-      "word": "大熊猫渝爱毛毛虫式蛄蛹下树",
-      "onboard_time": 1700057615,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99614,

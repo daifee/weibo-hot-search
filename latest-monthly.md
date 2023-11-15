@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 22:16:47
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 22:35:22
 </p>
 </blockquote>
 <p>
@@ -2667,6 +2667,12 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A6%87%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%E8%A2%AB%E8%BD%AC%E5%88%B0%E7%A7%81%E7%AB%8B%E5%8C%BB%E9%99%A2%E6%9C%AF%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
+农妇手指受伤被转到私立医院术后身亡（热度：1124080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E5%BC%BA%E5%A5%B8%E7%8C%A5%E4%BA%B522%E5%90%8D%E5%AD%A6%E7%94%9F%E4%BA%8B%E5%8F%91%E5%AD%A6%E6%A0%A1%E5%B7%B2%E6%92%A4%E5%B9%B6%23" target="weibo">
 校长强奸猥亵22名学生事发学校已撤并（热度：1122453）
 </a>
@@ -5109,6 +5115,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23" target="weibo">
+辛芷蕾人设还没立就崩了（热度：698919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%A5%B3%E4%B8%BB%E8%BF%90%23" target="weibo">
 李现的女主运（热度：697402）
 </a>
@@ -5207,12 +5219,6 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7%23" target="weibo">
 迪丽热巴 花少其实是变形计吧（热度：687359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E4%BA%BA%E8%AE%BE%E8%BF%98%E6%B2%A1%E7%AB%8B%E5%B0%B1%E5%B4%A9%E4%BA%86%23" target="weibo">
-辛芷蕾人设还没立就崩了（热度：686863）
 </a>
 </li>
 
@@ -5357,6 +5363,12 @@ Kanavi在干嘛（热度：674777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BB%E5%9F%8E%E5%8C%BA%E5%81%9C%E8%AF%BE1%E5%A4%A9%23" target="weibo">
 哈尔滨主城区停课1天（热度：668611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BA%A640%25%E7%9A%84%E7%99%8C%E7%97%87%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%23" target="weibo">
+大约40%的癌症可以避免（热度：668084）
 </a>
 </li>
 
@@ -5889,6 +5901,12 @@ KPOP格莱美0提名（热度：622255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%A7%81%E8%AF%81%E4%BA%86%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E6%88%90%E9%95%BF%23" target="weibo">
+何炅见证了多少人的成长（热度：618560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%9C%A8%E8%B5%84%E5%8A%A9%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%90%8C%E7%9B%9F%E5%86%9B%23" target="weibo">
 谁在资助缅北果敢同盟军（热度：617652）
 </a>
@@ -5967,12 +5985,6 @@ KPOP格莱美0提名（热度：622255）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BA%A640%25%E7%9A%84%E7%99%8C%E7%97%87%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%23" target="weibo">
-大约40%的癌症可以避免（热度：614053）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A8%81%E8%80%83%E8%99%91%E5%A4%8D%E6%B4%BB%E9%92%A2%E9%93%81%E4%BE%A0%E9%BB%91%E5%AF%A1%E5%A6%87%23" target="weibo">
 漫威考虑复活钢铁侠黑寡妇（热度：613542）
 </a>
@@ -5999,18 +6011,6 @@ G2居然输给这种队（热度：613368）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD19%E5%A4%A98%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%97%A9%E9%A5%AD%23" target="weibo">
 女童上幼儿园19天8天没有早饭（热度：612051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%20%E7%B2%BE%E5%8D%AB%23" target="weibo">
-林孝埈 精卫（热度：611995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%23" target="weibo">
-考古的风终于吹到了辛芷蕾（热度：611866）
 </a>
 </li>
 
