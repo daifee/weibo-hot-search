@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700086620652,
+  "endTime": 1700087670606,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -387,6 +387,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1618318,
+      "num": 928584,
+      "word": "这个地球容得下中美两国",
+      "onboard_time": 1700084113,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1615313,
       "num": 280759,
       "word": "警方回应16岁养女轻生后被配阴婚",
@@ -739,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1189244,
-      "num": 436996,
-      "word": "这个地球容得下中美两国",
-      "onboard_time": 1700084113,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1182487,
       "num": 339272,
       "word": "武汉一研三学生留遗书后轻生",
@@ -1065,6 +1065,14 @@
       "onboard_time": 1699796617,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 960676,
+      "num": 960676,
+      "word": "中美元首会晤结束",
+      "onboard_time": 1700084594,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 959669,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1699791875,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 581008,
-      "num": 581008,
-      "word": "中美元首会晤结束",
-      "onboard_time": 1700084594,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 577226,
@@ -11179,6 +11179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46657,
+      "num": 42107,
+      "word": "明明是两人合作爸爸却获得所有崇拜",
+      "onboard_time": 1700068399,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41909,
       "num": 313078,
       "word": "运动员红毯造型",
@@ -11232,14 +11240,6 @@
       "word": "微视频跨越太平洋",
       "onboard_time": 1700017591,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32906,
-      "num": 42107,
-      "word": "明明是两人合作爸爸却获得所有崇拜",
-      "onboard_time": 1700068399,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11299,12 +11299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23216,
-      "num": 23216,
+      "raw_hot": 24462,
+      "num": 24462,
       "word": "你通常几点入睡",
       "onboard_time": 1700074755,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23681,
+      "num": 23681,
+      "word": "中学回应校服被质疑像寿衣",
+      "onboard_time": 1700087177,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 22946,
@@ -11361,6 +11369,14 @@
       "onboard_time": 1699994113,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17343,
+      "num": 22159,
+      "word": "肖战影视角色混剪",
+      "onboard_time": 1700086696,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 16013,
