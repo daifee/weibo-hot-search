@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700016006087,
+  "endTime": 1700018313672,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171217,
+      "num": 282107,
+      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+      "onboard_time": 1700011893,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1166261,
       "num": 1166261,
       "word": "冰岛频繁地震导致大地出现裂痕",
@@ -705,6 +713,14 @@
       "onboard_time": 1699864831,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1112574,
+      "num": 280759,
+      "word": "警方回应16岁养女轻生后被配阴婚",
+      "onboard_time": 1700016629,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1102101,
@@ -817,14 +833,6 @@
       "onboard_time": 1699966412,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 976025,
-      "num": 237942,
-      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
-      "onboard_time": 1700011893,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 961353,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1699837234,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 853029,
+      "num": 276514,
+      "word": "傅盛发文怒怼王自如",
+      "onboard_time": 1700017171,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851633,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1699743858,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754391,
+      "num": 304160,
+      "word": "刘銮雄投资恒大股票亏损超100亿",
+      "onboard_time": 1700016510,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 753382,
@@ -1467,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662424,
+      "num": 502888,
+      "word": "在西安坐地铁坐出了炕的感觉",
+      "onboard_time": 1700014472,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655097,
       "num": 655097,
       "word": "赵露思将进组珠帘玉幕",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1699936175,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629205,
+      "num": 325935,
+      "word": "李相夷 无法超越的传奇",
+      "onboard_time": 1700016869,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 628080,
@@ -2035,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502888,
-      "num": 502888,
-      "word": "在西安坐地铁坐出了炕的感觉",
-      "onboard_time": 1700014472,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501012,
       "num": 429114,
       "word": "王安宇越憔悴我越兴奋",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1699865373,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495426,
+      "num": 268369,
+      "word": "文俊辉联合国中文演讲发言",
+      "onboard_time": 1700016691,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 495068,
@@ -3211,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 332312,
+      "num": 332312,
+      "word": "2024龙年贵金属纪念币将发行",
+      "onboard_time": 1700017591,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 332273,
       "num": 332273,
       "word": "成毅微博转评赞破10亿",
@@ -3611,6 +3659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 299223,
+      "num": 250666,
+      "word": "藿藿",
+      "onboard_time": 1700017953,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298679,
       "num": 298679,
       "word": "首位歼10女飞行员余旭牺牲7年了",
@@ -3729,6 +3785,14 @@
       "onboard_time": 1699961850,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284830,
+      "num": 284830,
+      "word": "刘德华巡演官宣",
+      "onboard_time": 1700016390,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 284599,
@@ -4171,6 +4235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 257424,
+      "num": 257424,
+      "word": "武大教授硬核方式教年轻人反内卷",
+      "onboard_time": 1700015249,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 257382,
       "num": 235536,
       "word": "新郎结婚和司仪撞衫",
@@ -4403,6 +4475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243626,
+      "num": 243626,
+      "word": "程潇朱正廷翻跳亚超主题曲",
+      "onboard_time": 1700017352,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243434,
       "num": 243434,
       "word": "管泽元闭嘴",
@@ -4585,6 +4665,14 @@
       "onboard_time": 1699787913,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230739,
+      "num": 230739,
+      "word": "一瓶饮料的含糖量有多夸张",
+      "onboard_time": 1700016090,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 230696,
@@ -4867,6 +4955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219363,
+      "num": 234501,
+      "word": "易胖体质可能是减出来的",
+      "onboard_time": 1700017953,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 218981,
       "num": 218981,
       "word": "沈羽洁北电毕业旧照",
@@ -4948,7 +5044,7 @@
     },
     {
       "raw_hot": 215422,
-      "num": 137756,
+      "num": 191615,
       "word": "两根手指一秒捏出雕塑鼻",
       "onboard_time": 1700014712,
       "rank": 30,
@@ -5931,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183547,
+      "num": 183547,
+      "word": "电视剧围猎杀青",
+      "onboard_time": 1700017953,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183030,
       "num": 183030,
       "word": "张遮姜雪宁狱中定情",
@@ -6153,6 +6257,14 @@
       "onboard_time": 1699863694,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174563,
+      "num": 174563,
+      "word": "罗云熙汴京贵公子",
+      "onboard_time": 1700018071,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 174387,
@@ -6529,6 +6641,14 @@
       "onboard_time": 1699924832,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165701,
+      "num": 165701,
+      "word": "秒摘隐形眼镜的小技巧",
+      "onboard_time": 1700017953,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 165671,
@@ -6995,6 +7115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150700,
+      "num": 150700,
+      "word": "韩国游客为看福宝排队数小时",
+      "onboard_time": 1700017411,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150623,
       "num": 265314,
       "word": "老师为学生买药摔伤学生到病房读感谢信",
@@ -7241,6 +7369,14 @@
       "onboard_time": 1699774771,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143174,
+      "num": 143174,
+      "word": "陆沉 游戏开始",
+      "onboard_time": 1700017591,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 143142,
@@ -7795,14 +7931,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 125170,
-      "num": 125170,
-      "word": "武大教授硬核方式教年轻人反内卷",
-      "onboard_time": 1700015249,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124591,
       "num": 124591,
       "word": "马保国仿妆",
@@ -8251,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112350,
+      "num": 112350,
+      "word": "走失29年的儿子回家了",
+      "onboard_time": 1700017110,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111687,
       "num": 97908,
       "word": "饶雪漫电影永不失联的爱杀青",
@@ -8609,6 +8745,14 @@
       "onboard_time": 1699787793,
       "rank": 14,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 92248,
+      "num": 92248,
+      "word": "高校老师课堂谈一生良配获百万点赞",
+      "onboard_time": 1700016090,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 91632,
@@ -9051,12 +9195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33049,
+      "num": 329772,
+      "word": "微视频跨越太平洋",
+      "onboard_time": 1700017591,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32316,
       "num": 32316,
       "word": "阿森纳3比1伯恩利",
       "onboard_time": 1699814895,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28831,
+      "num": 177825,
+      "word": "文物里的长江",
+      "onboard_time": 1700017832,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28048,

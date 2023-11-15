@@ -1,0 +1,410 @@
+{
+  "runTime": 1700018313672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 469632,
+        "num": 469632,
+        "word": "华人华侨在旧金山组成欢迎人群",
+        "onboard_time": 1700003363,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332312,
+        "num": 332312,
+        "word": "2024龙年贵金属纪念币将发行",
+        "onboard_time": 1700017591,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33049,
+        "num": 329772,
+        "word": "微视频跨越太平洋",
+        "onboard_time": 1700017591,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662424,
+        "num": 328476,
+        "word": "在西安坐地铁坐出了炕的感觉",
+        "onboard_time": 1700014472,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629205,
+        "num": 325935,
+        "word": "李相夷 无法超越的传奇",
+        "onboard_time": 1700016869,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317053,
+        "num": 322998,
+        "word": "亚太经合组织第三十次领导人非正式会议",
+        "onboard_time": 1700008832,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321031,
+        "num": 321031,
+        "word": "医生提醒山楂板栗不能混着吃",
+        "onboard_time": 1700010273,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 318738,
+        "num": 318738,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 754391,
+        "num": 304160,
+        "word": "刘銮雄投资恒大股票亏损超100亿",
+        "onboard_time": 1700016510,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 284830,
+        "num": 284830,
+        "word": "刘德华巡演官宣",
+        "onboard_time": 1700016390,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1171217,
+        "num": 282107,
+        "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+        "onboard_time": 1700011893,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112574,
+        "num": 280759,
+        "word": "警方回应16岁养女轻生后被配阴婚",
+        "onboard_time": 1700016629,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853029,
+        "num": 276514,
+        "word": "傅盛发文怒怼王自如",
+        "onboard_time": 1700017171,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710448,
+        "num": 273443,
+        "word": "疯是上午发的人是下午走的",
+        "onboard_time": 1700006854,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 693052,
+        "num": 270347,
+        "word": "光腿神器被嘲现代刑具",
+        "onboard_time": 1700004445,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 495426,
+        "num": 268369,
+        "word": "文俊辉联合国中文演讲发言",
+        "onboard_time": 1700016691,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481350,
+        "num": 264484,
+        "word": "韩国人评东北大学生现状",
+        "onboard_time": 1700005409,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307515,
+        "num": 262522,
+        "word": "从何猷君表情看出霸总执行力",
+        "onboard_time": 1700010872,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259637,
+        "num": 259637,
+        "word": "没想到嗑起了朱丹和周一围",
+        "onboard_time": 1700008056,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257424,
+        "num": 257424,
+        "word": "武大教授硬核方式教年轻人反内卷",
+        "onboard_time": 1700015249,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299223,
+        "num": 250666,
+        "word": "藿藿",
+        "onboard_time": 1700017953,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243626,
+        "num": 243626,
+        "word": "程潇朱正廷翻跳亚超主题曲",
+        "onboard_time": 1700017352,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219363,
+        "num": 234501,
+        "word": "易胖体质可能是减出来的",
+        "onboard_time": 1700017953,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 230739,
+        "num": 230739,
+        "word": "一瓶饮料的含糖量有多夸张",
+        "onboard_time": 1700016090,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212417,
+        "num": 212417,
+        "word": "谢危终于发疯了",
+        "onboard_time": 1700010516,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206313,
+        "num": 206313,
+        "word": "Uzi与Doinb将在S13决赛现场解说",
+        "onboard_time": 1700008957,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191615,
+        "num": 191615,
+        "word": "两根手指一秒捏出雕塑鼻",
+        "onboard_time": 1700014712,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183547,
+        "num": 183547,
+        "word": "电视剧围猎杀青",
+        "onboard_time": 1700017953,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28831,
+        "num": 177825,
+        "word": "文物里的长江",
+        "onboard_time": 1700017832,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176281,
+        "num": 176281,
+        "word": "武汉一研三学生留遗书后轻生",
+        "onboard_time": 1699974396,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174563,
+        "num": 174563,
+        "word": "罗云熙汴京贵公子",
+        "onboard_time": 1700018071,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165701,
+        "num": 165701,
+        "word": "秒摘隐形眼镜的小技巧",
+        "onboard_time": 1700017953,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 150700,
+        "num": 150700,
+        "word": "韩国游客为看福宝排队数小时",
+        "onboard_time": 1700017411,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147187,
+        "num": 147187,
+        "word": "糖尿病前期无明显症状极易被忽视",
+        "onboard_time": 1699977212,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143196,
+        "num": 143196,
+        "word": "一岁半萌娃发量惊人像戴了假发",
+        "onboard_time": 1700010034,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143174,
+        "num": 143174,
+        "word": "陆沉 游戏开始",
+        "onboard_time": 1700017591,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142918,
+        "num": 142918,
+        "word": "网购了件大衣穿上变成座山雕",
+        "onboard_time": 1699992673,
+        "rank": 36,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 133850,
+        "num": 133850,
+        "word": "大姐采菌被夹见消防员乐观拍视频",
+        "onboard_time": 1700013991,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123654,
+        "num": 123654,
+        "word": "胡彦斌问Melody小镇姑娘写的是谁",
+        "onboard_time": 1700007574,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122415,
+        "num": 122415,
+        "word": "男童被压20人喊口号式抬车救出",
+        "onboard_time": 1700004023,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114927,
+        "num": 114927,
+        "word": "正式确诊为杨幂",
+        "onboard_time": 1699971157,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 112350,
+        "num": 112350,
+        "word": "走失29年的儿子回家了",
+        "onboard_time": 1700017110,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111631,
+        "num": 111631,
+        "word": "男子工作压力大喝酒解闷女儿专程来接",
+        "onboard_time": 1700012854,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111552,
+        "num": 111552,
+        "word": "无价之宝票房逆跌",
+        "onboard_time": 1700015014,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104312,
+        "num": 104312,
+        "word": "感染幽门螺杆菌胃癌风险或翻倍",
+        "onboard_time": 1699972776,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95253,
+        "num": 95253,
+        "word": "谷爱凌来了都得说滑得好",
+        "onboard_time": 1700010573,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93128,
+        "num": 93128,
+        "word": "新郎结婚和司仪撞衫",
+        "onboard_time": 1700007756,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92248,
+        "num": 92248,
+        "word": "高校老师课堂谈一生良配获百万点赞",
+        "onboard_time": 1700016090,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90668,
+        "num": 90668,
+        "word": "A股",
+        "onboard_time": 1700018191,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88477,
+        "num": 88477,
+        "word": "花花呼呼大睡弟弟疯狂营业",
+        "onboard_time": 1699974038,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席旧金山之行#"
+    }
+  }
+}

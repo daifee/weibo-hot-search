@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700016006087,
+  "endTime": 1700018313672,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -35,20 +35,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1171217,
+      "num": 282107,
+      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+      "onboard_time": 1700011893,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112574,
+      "num": 280759,
+      "word": "警方回应16岁养女轻生后被配阴婚",
+      "onboard_time": 1700016629,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1032581,
       "num": 302328,
       "word": "河南一中学发生踩踏事件致1死5伤",
       "onboard_time": 1699975715,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 976025,
-      "num": 237942,
-      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
-      "onboard_time": 1700011893,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 931520,
@@ -75,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 853029,
+      "num": 276514,
+      "word": "傅盛发文怒怼王自如",
+      "onboard_time": 1700017171,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800813,
       "num": 362732,
       "word": "疯是上午发的人是下午走的",
@@ -91,6 +107,14 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 754391,
+      "num": 304160,
+      "word": "刘銮雄投资恒大股票亏损超100亿",
+      "onboard_time": 1700016510,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
@@ -105,6 +129,22 @@
       "onboard_time": 1699957115,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662424,
+      "num": 502888,
+      "word": "在西安坐地铁坐出了炕的感觉",
+      "onboard_time": 1700014472,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629205,
+      "num": 325935,
+      "word": "李相夷 无法超越的传奇",
+      "onboard_time": 1700016869,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 614484,
@@ -131,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502888,
-      "num": 502888,
-      "word": "在西安坐地铁坐出了炕的感觉",
-      "onboard_time": 1700014472,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499441,
       "num": 499441,
       "word": "网购了件大衣穿上变成座山雕",
       "onboard_time": 1699992673,
       "rank": 43,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 495426,
+      "num": 268369,
+      "word": "文俊辉联合国中文演讲发言",
+      "onboard_time": 1700016691,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 464950,
@@ -195,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 332312,
+      "num": 332312,
+      "word": "2024龙年贵金属纪念币将发行",
+      "onboard_time": 1700017591,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 332250,
       "num": 332250,
       "word": "花花呼呼大睡弟弟疯狂营业",
@@ -203,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299223,
+      "num": 250666,
+      "word": "藿藿",
+      "onboard_time": 1700017953,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296962,
       "num": 231409,
       "word": "时宴掉马",
       "onboard_time": 1699975956,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284830,
+      "num": 284830,
+      "word": "刘德华巡演官宣",
+      "onboard_time": 1700016390,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 279983,
@@ -243,6 +307,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 257424,
+      "num": 257424,
+      "word": "武大教授硬核方式教年轻人反内卷",
+      "onboard_time": 1700015249,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 257382,
       "num": 235536,
       "word": "新郎结婚和司仪撞衫",
@@ -273,6 +345,14 @@
       "onboard_time": 1700008657,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243626,
+      "num": 243626,
+      "word": "程潇朱正廷翻跳亚超主题曲",
+      "onboard_time": 1700017352,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 240242,
@@ -307,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230739,
+      "num": 230739,
+      "word": "一瓶饮料的含糖量有多夸张",
+      "onboard_time": 1700016090,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230172,
       "num": 230172,
       "word": "有人自林中坠落",
@@ -339,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219363,
+      "num": 234501,
+      "word": "易胖体质可能是减出来的",
+      "onboard_time": 1700017953,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 216703,
       "num": 235280,
       "word": "陈思诚段奕宏李晨拖张译进迪厅",
@@ -348,7 +444,7 @@
     },
     {
       "raw_hot": 215422,
-      "num": 137756,
+      "num": 191615,
       "word": "两根手指一秒捏出雕塑鼻",
       "onboard_time": 1700014712,
       "rank": 30,
@@ -411,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183547,
+      "num": 183547,
+      "word": "电视剧围猎杀青",
+      "onboard_time": 1700017953,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182991,
       "num": 234938,
       "word": "酮症酸中毒症",
@@ -441,6 +545,14 @@
       "onboard_time": 1699958733,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174563,
+      "num": 174563,
+      "word": "罗云熙汴京贵公子",
+      "onboard_time": 1700018071,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 172923,
@@ -481,6 +593,14 @@
       "onboard_time": 1699977570,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165701,
+      "num": 165701,
+      "word": "秒摘隐形眼镜的小技巧",
+      "onboard_time": 1700017953,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 161199,
@@ -555,6 +675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 150700,
+      "num": 150700,
+      "word": "韩国游客为看福宝排队数小时",
+      "onboard_time": 1700017411,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150490,
       "num": 236249,
       "word": "中国古人的审美有多绝",
@@ -569,6 +697,14 @@
       "onboard_time": 1699967433,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143174,
+      "num": 143174,
+      "word": "陆沉 游戏开始",
+      "onboard_time": 1700017591,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 138947,
@@ -625,14 +761,6 @@
       "onboard_time": 1700008416,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125170,
-      "num": 125170,
-      "word": "武大教授硬核方式教年轻人反内卷",
-      "onboard_time": 1700015249,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 124485,
@@ -723,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112350,
+      "num": 112350,
+      "word": "走失29年的儿子回家了",
+      "onboard_time": 1700017110,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "周到 你们要的莎",
@@ -777,6 +913,22 @@
       "onboard_time": 1699951895,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92248,
+      "num": 92248,
+      "word": "高校老师课堂谈一生良配获百万点赞",
+      "onboard_time": 1700016090,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 90668,
+      "num": 90668,
+      "word": "A股",
+      "onboard_time": 1700018191,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 82780,
@@ -897,6 +1049,22 @@
       "onboard_time": 1699997593,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33049,
+      "num": 329772,
+      "word": "微视频跨越太平洋",
+      "onboard_time": 1700017591,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28831,
+      "num": 177825,
+      "word": "文物里的长江",
+      "onboard_time": 1700017832,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28048,
