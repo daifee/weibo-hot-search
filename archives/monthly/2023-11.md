@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/15 23:34:35
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 00:23:50
 </p>
 </blockquote>
 <p>
@@ -3147,6 +3147,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E5%81%B6%E9%81%87%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A5%E5%9B%9E%E9%AA%91%E4%BA%8620%E9%81%8D%23" target="weibo">
+骑车偶遇刘亦菲来回骑了20遍（热度：995571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23" target="weibo">
 年轻人逛商场只去B1B2（热度：992265）
 </a>
@@ -6005,12 +6011,6 @@ KPOP格莱美0提名（热度：622255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A8%81%E8%80%83%E8%99%91%E5%A4%8D%E6%B4%BB%E9%92%A2%E9%93%81%E4%BE%A0%E9%BB%91%E5%AF%A1%E5%A6%87%23" target="weibo">
 漫威考虑复活钢铁侠黑寡妇（热度：613542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23G2%E5%B1%85%E7%84%B6%E8%BE%93%E7%BB%99%E8%BF%99%E7%A7%8D%E9%98%9F%23" target="weibo">
-G2居然输给这种队（热度：613368）
 </a>
 </li>
 

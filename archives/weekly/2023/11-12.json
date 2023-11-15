@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700062475074,
+  "endTime": 1700065430217,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1699859917,
       "rank": 9,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 995571,
+      "num": 310324,
+      "word": "骑车偶遇刘亦菲来回骑了20遍",
+      "onboard_time": 1700062533,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 992213,
@@ -2211,6 +2219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 589972,
+      "num": 589972,
+      "word": "旧金山会晤将启希望中美相向而行",
+      "onboard_time": 1700062352,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 589656,
       "num": 572476,
       "word": "Ruler和Faker  一墙之隔胜负之分",
@@ -3083,6 +3099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 437722,
+      "num": 437722,
+      "word": "爱奇艺尖叫之夜内场图",
+      "onboard_time": 1700062952,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437085,
       "num": 437085,
       "word": "十个勤天 去年今日",
@@ -3409,6 +3433,14 @@
       "onboard_time": 1699977212,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 404971,
+      "num": 404971,
+      "word": "她居然可以自己做马面裙",
+      "onboard_time": 1700060975,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 403953,
@@ -4243,6 +4275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317193,
+      "num": 317193,
+      "word": "31岁儿子全职陪护智力2岁妈妈",
+      "onboard_time": 1700062471,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317135,
       "num": 317135,
       "word": "小米汽车信息首曝",
@@ -4472,6 +4512,14 @@
       "word": "王鹤棣白鹿会唱仙剑主题曲但不知道名",
       "onboard_time": 1699767809,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301435,
+      "num": 301435,
+      "word": "王安宇能不能哭想看",
+      "onboard_time": 1700063253,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -4827,6 +4875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 280508,
+      "num": 280508,
+      "word": "老刘对傅首尔说我很爱你",
+      "onboard_time": 1700060557,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280317,
       "num": 280317,
       "word": "优酷你就这么宣传佘诗曼吗",
@@ -4937,14 +4993,6 @@
       "onboard_time": 1700041413,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 276143,
-      "num": 258837,
-      "word": "她居然可以自己做马面裙",
-      "onboard_time": 1700060975,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 275687,
@@ -5803,14 +5851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230024,
-      "num": 230024,
-      "word": "老刘对傅首尔说我很爱你",
-      "onboard_time": 1700060557,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229751,
       "num": 229751,
       "word": "减脂40天后变化有多大",
@@ -6532,7 +6572,7 @@
     },
     {
       "raw_hot": 205304,
-      "num": 205304,
+      "num": 235251,
       "word": "怀疑这家幼儿园没有做饭师傅",
       "onboard_time": 1700060914,
       "rank": 33,
@@ -8468,7 +8508,7 @@
     },
     {
       "raw_hot": 158613,
-      "num": 158613,
+      "num": 197056,
       "word": "兰州拉面都得尊称一声前辈",
       "onboard_time": 1700060855,
       "rank": 41,
@@ -9153,6 +9193,14 @@
       "onboard_time": 1699864293,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140452,
+      "num": 140452,
+      "word": "秦岚这该死的镜头感",
+      "onboard_time": 1700062410,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 139946,
@@ -10299,12 +10347,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 108942,
+      "num": 108942,
+      "word": "张小斐电影票房破4亿自拍",
+      "onboard_time": 1700064751,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108856,
       "num": 1066792,
       "word": "关于APEC的知识点",
       "onboard_time": 1700018433,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108856,
+      "num": 112499,
+      "word": "如何从那男的变成帅哥",
+      "onboard_time": 1700063011,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 107810,
@@ -10329,14 +10393,6 @@
       "onboard_time": 1699877193,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107121,
-      "num": 107121,
-      "word": "秦岚这该死的镜头感",
-      "onboard_time": 1700062410,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 106729,
@@ -10699,11 +10755,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84222,
+      "num": 108949,
+      "word": "谢危仿妆",
+      "onboard_time": 1700063669,
+      "rank": 38,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 84212,
       "num": 93665,
       "word": "戍边战士身边是悬崖脚下是冰面",
       "onboard_time": 1699772370,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84107,
+      "num": 141002,
+      "word": "张桂梅眼含泪水致敬消防员们",
+      "onboard_time": 1700063253,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -10737,14 +10809,6 @@
       "onboard_time": 1700055096,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76982,
-      "num": 136772,
-      "word": "旧金山会晤将启希望中美相向而行",
-      "onboard_time": 1700062352,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 76752,
@@ -11104,6 +11168,14 @@
       "word": "微视频跨越太平洋",
       "onboard_time": 1700017591,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32892,
+      "num": 92726,
+      "word": "民警帮43名农民工追回56万工资",
+      "onboard_time": 1700063130,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
