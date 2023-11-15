@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/16 00:40:10
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/16 01:16:30
 </p>
 </blockquote>
 <p>
@@ -1055,6 +1055,12 @@ WBG战胜BLG（热度：822755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E6%98%AF%E4%B8%8A%E5%8D%88%E5%8F%91%E7%9A%84%E4%BA%BA%E6%98%AF%E4%B8%8B%E5%8D%88%E8%B5%B0%E7%9A%84%23" target="weibo">
 疯是上午发的人是下午走的（热度：800813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C%23" target="weibo">
+中美元首会晤即将举行（热度：798966）
 </a>
 </li>
 
