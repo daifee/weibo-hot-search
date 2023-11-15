@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700046930821,
+  "endTime": 1700048058958,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 696856,
+      "num": 519798,
+      "word": "医生提醒逍遥丸不要自行乱服",
+      "onboard_time": 1700044533,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 695432,
       "num": 695432,
       "word": "周杰伦预告12月新单曲",
@@ -531,6 +539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534368,
+      "num": 410805,
+      "word": "Faker回应拒绝比弱爆",
+      "onboard_time": 1700045915,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 519196,
+      "num": 519196,
+      "word": "韩孝周大钟奖视后",
+      "onboard_time": 1700045671,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518223,
       "num": 518223,
       "word": "四川通报摩崖造像被涂色",
@@ -545,14 +569,6 @@
       "onboard_time": 1699992673,
       "rank": 43,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 496939,
-      "num": 496939,
-      "word": "韩孝周大钟奖视后",
-      "onboard_time": 1700045671,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 495426,
@@ -593,14 +609,6 @@
       "onboard_time": 1700010872,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458328,
-      "num": 458328,
-      "word": "医生提醒逍遥丸不要自行乱服",
-      "onboard_time": 1700044533,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 447054,
@@ -683,14 +691,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 410805,
-      "num": 410805,
-      "word": "Faker回应拒绝比弱爆",
-      "onboard_time": 1700045915,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 410370,
       "num": 235575,
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
@@ -769,6 +769,14 @@
       "onboard_time": 1700037934,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 358541,
+      "num": 358541,
+      "word": "罗海琼回应变老",
+      "onboard_time": 1700046573,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 351884,
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268398,
+      "num": 268398,
+      "word": "海底捞回应试点调整份量和价格",
+      "onboard_time": 1700046872,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265726,
       "num": 265726,
       "word": "玫瑰故事",
@@ -1075,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254895,
+      "num": 254895,
+      "word": "杨迪给谢娜打了20遍电话",
+      "onboard_time": 1700046034,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254767,
       "num": 225572,
       "word": "燕临 我哭死",
@@ -1099,20 +1123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250726,
+      "num": 250726,
+      "word": "宁安如梦",
+      "onboard_time": 1700047114,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250678,
       "num": 250678,
       "word": "姜雪宁燕临判词 爱也没用没用也爱",
       "onboard_time": 1700008657,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249017,
-      "num": 249017,
-      "word": "杨迪给谢娜打了20遍电话",
-      "onboard_time": 1700046034,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 246091,
@@ -1147,12 +1171,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245119,
+      "num": 245119,
+      "word": "WBG对阵T1所有结局",
+      "onboard_time": 1700046697,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240242,
       "num": 240242,
       "word": "孙颖莎出现时全场的反应",
       "onboard_time": 1699964251,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237704,
+      "num": 237704,
+      "word": "尖叫之夜真假cp大乱炖",
+      "onboard_time": 1700042497,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 236804,
@@ -1184,14 +1224,6 @@
       "word": "吴宗宪说一年收到2000多个包",
       "onboard_time": 1699972113,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 230788,
-      "num": 230788,
-      "word": "尖叫之夜真假cp大乱炖",
-      "onboard_time": 1700042497,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1265,14 +1297,6 @@
       "onboard_time": 1700021254,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219363,
-      "num": 219363,
-      "word": "罗海琼回应变老",
-      "onboard_time": 1700046573,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 216703,
@@ -1499,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187683,
+      "num": 187683,
+      "word": "安溥时寐青岛站官宣",
+      "onboard_time": 1700047594,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184803,
       "num": 184803,
       "word": "郭敬明晒侯明昊田嘉瑞剧照",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1700031453,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178491,
-      "num": 178491,
-      "word": "海底捞回应试点调整份量和价格",
-      "onboard_time": 1700046872,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 176899,
@@ -1651,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172868,
-      "num": 172868,
-      "word": "WBG对阵T1所有结局",
-      "onboard_time": 1700046697,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 172866,
       "num": 172866,
       "word": "男子突然倒地2身着藏装姑娘跪地救人",
@@ -1696,6 +1712,14 @@
       "word": "谁家发烧用冻鱼退烧",
       "onboard_time": 1699977570,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166187,
+      "num": 166187,
+      "word": "无所畏惧",
+      "onboard_time": 1700047775,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1908,7 +1932,7 @@
     },
     {
       "raw_hot": 139946,
-      "num": 139946,
+      "num": 141368,
       "word": "杭州17岁爱笑少年保送北大",
       "onboard_time": 1700044352,
       "rank": 48,
@@ -2000,6 +2024,14 @@
       "word": "傅盛回应怒怼王自如",
       "onboard_time": 1700041413,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127013,
+      "num": 190050,
+      "word": "记者从冰窟救出男童9个月后被认出",
+      "onboard_time": 1700046635,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2097,14 +2129,6 @@
       "onboard_time": 1699973676,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119783,
-      "num": 179060,
-      "word": "记者从冰窟救出男童9个月后被认出",
-      "onboard_time": 1700046635,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119066,

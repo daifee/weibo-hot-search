@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700046930821,
+  "endTime": 1700048058958,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -1659,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 696856,
+      "num": 519798,
+      "word": "医生提醒逍遥丸不要自行乱服",
+      "onboard_time": 1700044533,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 695432,
       "num": 695432,
       "word": "周杰伦预告12月新单曲",
@@ -2323,6 +2331,14 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 534368,
+      "num": 410805,
+      "word": "Faker回应拒绝比弱爆",
+      "onboard_time": 1700045915,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 533296,
       "num": 533296,
       "word": "闲置太久的皮衣就不要穿了",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1699755811,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 519196,
+      "num": 519196,
+      "word": "韩孝周大钟奖视后",
+      "onboard_time": 1700045671,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 518521,
@@ -2488,14 +2512,6 @@
       "word": "以爱为营豆瓣评分4.8分",
       "onboard_time": 1699869273,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 496939,
-      "num": 496939,
-      "word": "韩孝周大钟奖视后",
-      "onboard_time": 1700045671,
-      "rank": 5,
       "category": "剧集"
     },
     {
@@ -2769,14 +2785,6 @@
       "onboard_time": 1699784068,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458328,
-      "num": 458328,
-      "word": "医生提醒逍遥丸不要自行乱服",
-      "onboard_time": 1700044533,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 457707,
@@ -3177,14 +3185,6 @@
       "onboard_time": 1699878873,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410805,
-      "num": 410805,
-      "word": "Faker回应拒绝比弱爆",
-      "onboard_time": 1700045915,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 410493,
@@ -3601,6 +3601,14 @@
       "onboard_time": 1699858294,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358541,
+      "num": 358541,
+      "word": "罗海琼回应变老",
+      "onboard_time": 1700046573,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 358283,
@@ -4803,6 +4811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268398,
+      "num": 268398,
+      "word": "海底捞回应试点调整份量和价格",
+      "onboard_time": 1700046872,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268215,
       "num": 268215,
       "word": "张遮是姜雪宁的第一选择",
@@ -5051,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254895,
+      "num": 254895,
+      "word": "杨迪给谢娜打了20遍电话",
+      "onboard_time": 1700046034,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254378,
       "num": 254378,
       "word": "以爱为营 Jackson Yi",
@@ -5163,14 +5187,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 249017,
-      "num": 249017,
-      "word": "杨迪给谢娜打了20遍电话",
-      "onboard_time": 1700046034,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248494,
       "num": 340955,
       "word": "老板娘送1箱奶茶感谢民警追回20元",
@@ -5248,6 +5264,14 @@
       "word": "蜻蜓队长",
       "onboard_time": 1700042497,
       "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 245119,
+      "num": 245119,
+      "word": "WBG对阵T1所有结局",
+      "onboard_time": 1700046697,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -5353,6 +5377,14 @@
       "onboard_time": 1699952797,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237704,
+      "num": 237704,
+      "word": "尖叫之夜真假cp大乱炖",
+      "onboard_time": 1700042497,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 236804,
@@ -5465,14 +5497,6 @@
       "onboard_time": 1699787913,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230788,
-      "num": 230788,
-      "word": "尖叫之夜真假cp大乱炖",
-      "onboard_time": 1700042497,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 230739,
@@ -5793,14 +5817,6 @@
       "onboard_time": 1699950513,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219363,
-      "num": 219363,
-      "word": "罗海琼回应变老",
-      "onboard_time": 1700046573,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 218981,
@@ -6851,6 +6867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187683,
+      "num": 187683,
+      "word": "安溥时寐青岛站官宣",
+      "onboard_time": 1700047594,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187595,
       "num": 187595,
       "word": "骑士双杀勇士",
@@ -7147,14 +7171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178491,
-      "num": 178491,
-      "word": "海底捞回应试点调整份量和价格",
-      "onboard_time": 1700046872,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 177816,
       "num": 177816,
       "word": "非凡医者定档",
@@ -7409,14 +7425,6 @@
       "onboard_time": 1700004023,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172868,
-      "num": 172868,
-      "word": "WBG对阵T1所有结局",
-      "onboard_time": 1700046697,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 172866,
@@ -7704,6 +7712,14 @@
       "word": "许凯景甜sosweet",
       "onboard_time": 1699871494,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166187,
+      "num": 166187,
+      "word": "无所畏惧",
+      "onboard_time": 1699816994,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -8676,7 +8692,7 @@
     },
     {
       "raw_hot": 139946,
-      "num": 139946,
+      "num": 141368,
       "word": "杭州17岁爱笑少年保送北大",
       "onboard_time": 1700044352,
       "rank": 48,
@@ -9107,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127013,
+      "num": 190050,
+      "word": "记者从冰窟救出男童9个月后被认出",
+      "onboard_time": 1700046635,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126899,
       "num": 210046,
       "word": "程潇金色亮片抹胸",
@@ -9393,14 +9417,6 @@
       "onboard_time": 1699842752,
       "rank": 43,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 119783,
-      "num": 179060,
-      "word": "记者从冰窟救出男童9个月后被认出",
-      "onboard_time": 1700046635,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119256,
@@ -10633,14 +10649,6 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11107,
-      "num": 13544,
-      "word": "无所畏惧",
-      "onboard_time": 1699816994,
-      "rank": 49,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

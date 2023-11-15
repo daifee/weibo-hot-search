@@ -1,0 +1,410 @@
+{
+  "runTime": 1700048058958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 114448,
+        "num": 521379,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676437,
+        "num": 521372,
+        "word": "顺其自然25年捐款1577万",
+        "onboard_time": 1700043155,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31691,
+        "num": 520773,
+        "word": "共同构建亚太命运共同体",
+        "onboard_time": 1700038234,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 993582,
+        "num": 520614,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 3,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 281114,
+        "num": 520271,
+        "word": "考研生为提神冬夜路灯下备战",
+        "onboard_time": 1700038355,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 696856,
+        "num": 519798,
+        "word": "医生提醒逍遥丸不要自行乱服",
+        "onboard_time": 1700044533,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247641,
+        "num": 519449,
+        "word": "四川的百年柿子瀑布又红了",
+        "onboard_time": 1700038654,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519196,
+        "num": 519196,
+        "word": "韩孝周大钟奖视后",
+        "onboard_time": 1700045671,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392971,
+        "num": 392971,
+        "word": "WBG 选边",
+        "onboard_time": 1700037815,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390891,
+        "num": 390891,
+        "word": "何猷君 肯定要办婚礼",
+        "onboard_time": 1700027313,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1559335,
+        "num": 390804,
+        "word": "陈坤 我发小",
+        "onboard_time": 1700043396,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1340690,
+        "num": 389666,
+        "word": "刘亦菲彭冠英亲出声了",
+        "onboard_time": 1700042374,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623711,
+        "num": 388250,
+        "word": "佳木斯大学跳江学生聊天记录曝光",
+        "onboard_time": 1700030131,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534368,
+        "num": 387036,
+        "word": "Faker回应拒绝比弱爆",
+        "onboard_time": 1700045915,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 493289,
+        "num": 386739,
+        "word": "abandon不是第一名了",
+        "onboard_time": 1700026592,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477313,
+        "num": 385118,
+        "word": "我恋5癫公癫婆一分钟亲了5次",
+        "onboard_time": 1700030912,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384685,
+        "num": 384685,
+        "word": "运动员遭冰刀割喉身亡一男子被捕",
+        "onboard_time": 1700031994,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358541,
+        "num": 358541,
+        "word": "罗海琼回应变老",
+        "onboard_time": 1700046573,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322815,
+        "num": 322815,
+        "word": "李相夷 不愧为天下第一",
+        "onboard_time": 1700043756,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305455,
+        "num": 305455,
+        "word": "久坐可能导致死臀综合征",
+        "onboard_time": 1700035175,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 574414,
+        "num": 303887,
+        "word": "赵露思新发型",
+        "onboard_time": 1700045555,
+        "rank": 20,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 301436,
+        "num": 301436,
+        "word": "租房过一辈子可以吗",
+        "onboard_time": 1700037514,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295669,
+        "num": 295669,
+        "word": "金星 我们园区快递小哥也叫自如",
+        "onboard_time": 1700036074,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268398,
+        "num": 268398,
+        "word": "海底捞回应试点调整份量和价格",
+        "onboard_time": 1700046872,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 268373,
+        "num": 268373,
+        "word": "妹妹因为洗头被停课了",
+        "onboard_time": 1700033195,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254895,
+        "num": 254895,
+        "word": "杨迪给谢娜打了20遍电话",
+        "onboard_time": 1700046034,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250726,
+        "num": 250726,
+        "word": "宁安如梦",
+        "onboard_time": 1700047114,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245331,
+        "num": 245331,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245119,
+        "num": 245119,
+        "word": "WBG对阵T1所有结局",
+        "onboard_time": 1700046697,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220919,
+        "num": 242146,
+        "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+        "onboard_time": 1700035175,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248796,
+        "num": 241161,
+        "word": "缅甸果敢加速遣送中国人回国",
+        "onboard_time": 1700035475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239637,
+        "num": 239637,
+        "word": "奚梦瑶进入豪门第一关打一晚上麻将",
+        "onboard_time": 1700037394,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239396,
+        "num": 239396,
+        "word": "腾讯公布2023年第三季度财报",
+        "onboard_time": 1700045256,
+        "rank": 32,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 238135,
+        "num": 238135,
+        "word": "Crisp说这里是T1的终点",
+        "onboard_time": 1700040992,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237704,
+        "num": 237704,
+        "word": "尖叫之夜真假cp大乱炖",
+        "onboard_time": 1700042497,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227679,
+        "num": 227679,
+        "word": "刘亦菲玫瑰故事1女5男",
+        "onboard_time": 1700046392,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223327,
+        "num": 223327,
+        "word": "张凌赫镜头下的白鹿",
+        "onboard_time": 1700040635,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199019,
+        "num": 199019,
+        "word": "王一博 爱奇艺尖叫之夜",
+        "onboard_time": 1700039615,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197446,
+        "num": 197446,
+        "word": "小蝴蝶迪丽热巴",
+        "onboard_time": 1700041413,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127013,
+        "num": 190050,
+        "word": "记者从冰窟救出男童9个月后被认出",
+        "onboard_time": 1700046635,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187683,
+        "num": 187683,
+        "word": "安溥时寐青岛站官宣",
+        "onboard_time": 1700047594,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181787,
+        "num": 181787,
+        "word": "有种丑叫做腺样体面容",
+        "onboard_time": 1700038956,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 173578,
+        "num": 173578,
+        "word": "WBG选择蓝色方",
+        "onboard_time": 1700041355,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166187,
+        "num": 166187,
+        "word": "无所畏惧",
+        "onboard_time": 1700047775,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154477,
+        "num": 154477,
+        "word": "秦岚 治愈",
+        "onboard_time": 1700046097,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153249,
+        "num": 153249,
+        "word": "时代少年团 LV香港大秀",
+        "onboard_time": 1700041413,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152400,
+        "num": 152400,
+        "word": "霍格沃兹的监控",
+        "onboard_time": 1700046392,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142264,
+        "num": 142264,
+        "word": "管泽元说T1最多输一把",
+        "onboard_time": 1700041413,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "以爱为营 Jackson Yi",
+        "onboard_time": 1700037156,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93159,
+        "num": 141368,
+        "word": "杭州17岁爱笑少年保送北大",
+        "onboard_time": 1700044352,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首旧金山会晤#"
+    }
+  }
+}
