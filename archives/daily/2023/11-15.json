@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700026456673,
+  "endTime": 1700029410957,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -9,6 +9,14 @@
       "onboard_time": 1699974639,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1852131,
+      "num": 867197,
+      "word": "abandon不是第一名了",
+      "onboard_time": 1700026592,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1764454,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1362655,
+      "num": 741682,
+      "word": "何猷君 肯定要办婚礼",
+      "onboard_time": 1700027313,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1228856,
       "num": 1228856,
       "word": "华人华侨在旧金山组成欢迎人群",
@@ -105,6 +121,14 @@
       "onboard_time": 1700024195,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 941451,
+      "num": 414779,
+      "word": "山东一学校校服被质疑像寿衣",
+      "onboard_time": 1700025453,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 931520,
@@ -163,20 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 807001,
-      "num": 384429,
-      "word": "山东一学校校服被质疑像寿衣",
-      "onboard_time": 1700025453,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 800813,
       "num": 362732,
       "word": "疯是上午发的人是下午走的",
       "onboard_time": 1700006854,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 794947,
+      "num": 385469,
+      "word": "中大回应特困生用苹果四件套",
+      "onboard_time": 1700025573,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784892,
@@ -209,6 +233,14 @@
       "onboard_time": 1700018972,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 713600,
+      "num": 713600,
+      "word": "AHyeon退出BABYMONSTER",
+      "onboard_time": 1700027972,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 706644,
@@ -379,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 420317,
-      "num": 381844,
-      "word": "中大回应特困生用苹果四件套",
-      "onboard_time": 1700025573,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 415183,
+      "num": 415183,
+      "word": "伊能静万茜居然是闺蜜",
+      "onboard_time": 1700025334,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 410370,
@@ -427,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345327,
-      "num": 387704,
-      "word": "伊能静万茜居然是闺蜜",
-      "onboard_time": 1700025334,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345106,
       "num": 238662,
       "word": "迪丽热巴卡其色穿搭",
@@ -473,6 +497,14 @@
       "onboard_time": 1700016390,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 312478,
+      "num": 312478,
+      "word": "迪丽热巴体验悬崖秋千",
+      "onboard_time": 1700027372,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 297181,
@@ -539,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269072,
+      "num": 269072,
+      "word": "快手上的农村女性",
+      "onboard_time": 1700028993,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268810,
+      "num": 268810,
+      "word": "YG回应BABYMONSTER成员退队",
+      "onboard_time": 1700028871,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259952,
       "num": 230601,
       "word": "正式确诊为杨幂",
@@ -593,6 +641,14 @@
       "onboard_time": 1700023356,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 245726,
+      "num": 185531,
+      "word": "陈楚生蔡国庆 友谊才刚开始",
+      "onboard_time": 1700026592,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 240242,
@@ -723,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214179,
+      "num": 185255,
+      "word": "何猷君朱丹辩论battle",
+      "onboard_time": 1700028513,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210381,
       "num": 210381,
       "word": "4家彩票店花式送锦旗民警绷不住了",
@@ -755,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203089,
+      "num": 203089,
+      "word": "慢阻肺早期咳嗽咳痰症状极易被忽视",
+      "onboard_time": 1700028754,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202519,
       "num": 202519,
       "word": "韩国游客为看福宝排队数小时",
       "onboard_time": 1700017411,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202230,
+      "num": 176500,
+      "word": "任素汐演技 秋裤扎进袜子的踏实感",
+      "onboard_time": 1700028695,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 201000,
@@ -800,6 +880,14 @@
       "word": "超机智青年大会阵容官宣",
       "onboard_time": 1700014773,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192684,
+      "num": 175919,
+      "word": "我们恋爱吧",
+      "onboard_time": 1700029053,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -843,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "办房贷一定需要结清证明吗",
+      "onboard_time": 1700022938,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176891,
       "num": 176891,
       "word": "谢危的爱 极致荼靡感",
@@ -873,6 +969,14 @@
       "onboard_time": 1699958733,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174900,
+      "num": 174900,
+      "word": "短剧正利用人性下坠的力量赚钱",
+      "onboard_time": 1700026053,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173836,
@@ -931,12 +1035,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 165496,
-      "num": 165496,
-      "word": "办房贷一定需要结清证明吗",
-      "onboard_time": 1700022938,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 165286,
+      "num": 165286,
+      "word": "孙菲菲事件施暴人被行政拘留",
+      "onboard_time": 1700029112,
+      "rank": 34,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 161199,
@@ -1051,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149873,
+      "num": 149873,
+      "word": "熊猫幼崽是摇粒绒做的吧",
+      "onboard_time": 1700027613,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147870,
       "num": 147870,
       "word": "东北大爷把楼下积雪砌成20米城墙",
@@ -1067,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147400,
+      "num": 147400,
+      "word": "姜雪宁 遗憾不能爱你",
+      "onboard_time": 1700025992,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147259,
       "num": 147259,
       "word": "三只大橘天天陪大爷钓鱼排队等投喂",
@@ -1075,28 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146112,
-      "num": 146112,
-      "word": "短剧正利用人性下坠的力量赚钱",
-      "onboard_time": 1700026053,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 143174,
       "num": 143174,
       "word": "陆沉 游戏开始",
       "onboard_time": 1700017591,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 142625,
-      "num": 142625,
-      "word": "姜雪宁 遗憾不能爱你",
-      "onboard_time": 1700025992,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 139946,
@@ -1153,6 +1257,14 @@
       "onboard_time": 1699958733,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132484,
+      "num": 132484,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1700029353,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 132369,
@@ -1275,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113181,
+      "num": 113181,
+      "word": "当暖宝宝从怀里掏出个暖宝宝",
+      "onboard_time": 1700028632,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "周到 你们要的莎",
@@ -1289,6 +1409,22 @@
       "onboard_time": 1699971455,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109516,
+      "num": 109516,
+      "word": "两个洗脸习惯让人更显老",
+      "onboard_time": 1700029293,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 108945,
+      "num": 108945,
+      "word": "2024年待映续集动画电影",
+      "onboard_time": 1700027493,
+      "rank": 48,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 108856,
