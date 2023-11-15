@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700015370024,
+  "endTime": 1700016006087,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4059,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976025,
+      "num": 237942,
+      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+      "onboard_time": 1700011893,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971758,
       "num": 971758,
       "word": "当事人回应在李佳琦直播间买到空瓶化妆品",
@@ -4433,14 +4441,6 @@
       "onboard_time": 1699364380,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 893395,
-      "num": 236354,
-      "word": "经纪人回应网传艺人为缅北电诈家族庆生",
-      "onboard_time": 1700011893,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 892251,
@@ -5283,6 +5283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800813,
+      "num": 362732,
+      "word": "疯是上午发的人是下午走的",
+      "onboard_time": 1700006854,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 799100,
       "num": 445575,
       "word": "万圣节宋焰cos",
@@ -5761,14 +5769,6 @@
       "onboard_time": 1699488636,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 747960,
-      "num": 362732,
-      "word": "疯是上午发的人是下午走的",
-      "onboard_time": 1700006854,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 747476,
@@ -9545,6 +9545,14 @@
       "onboard_time": 1698806551,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 502888,
+      "num": 502888,
+      "word": "在西安坐地铁坐出了炕的感觉",
+      "onboard_time": 1700014472,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502369,
@@ -15113,14 +15121,6 @@
       "onboard_time": 1698804752,
       "rank": 18,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 331492,
-      "num": 331492,
-      "word": "在西安坐地铁坐出了炕的感觉",
-      "onboard_time": 1700014472,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331096,
@@ -22643,6 +22643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215422,
+      "num": 137756,
+      "word": "两根手指一秒捏出雕塑鼻",
+      "onboard_time": 1700014712,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 215287,
       "num": 215287,
       "word": "周深演唱宁安如梦主题曲借梦",
@@ -24771,6 +24779,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 198869,
+      "num": 198869,
+      "word": "cityline 新的一天新的retry",
+      "onboard_time": 1700015491,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198867,
       "num": 198867,
       "word": "LOL",
@@ -25331,6 +25347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196038,
+      "num": 196038,
+      "word": "超机智青年大会阵容官宣",
+      "onboard_time": 1700014773,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195996,
       "num": 195996,
       "word": "魏大勋模仿张杰",
@@ -25345,14 +25369,6 @@
       "onboard_time": 1699663471,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 195748,
-      "num": 195748,
-      "word": "超机智青年大会阵容官宣",
-      "onboard_time": 1700014773,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 195694,
@@ -27891,6 +27907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176841,
+      "num": 176841,
+      "word": "无价之宝票房逆跌",
+      "onboard_time": 1700015014,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176820,
       "num": 176820,
       "word": "支原体肺炎的中医治疗思路",
@@ -28699,6 +28723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169975,
+      "num": 169975,
+      "word": "黑白密码",
+      "onboard_time": 1700015373,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169949,
       "num": 153102,
       "word": "封神训练营往事之啸天犬",
@@ -29193,14 +29225,6 @@
       "onboard_time": 1699871494,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166441,
-      "num": 166441,
-      "word": "无价之宝票房逆跌",
-      "onboard_time": 1700015014,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 166303,
@@ -29915,6 +29939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161199,
+      "num": 161199,
+      "word": "大姐采菌被夹见消防员乐观拍视频",
+      "onboard_time": 1700013991,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161065,
       "num": 161065,
       "word": "台媒报道以爱为营",
@@ -30153,14 +30185,6 @@
       "onboard_time": 1699613010,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158806,
-      "num": 136239,
-      "word": "两根手指一秒捏出雕塑鼻",
-      "onboard_time": 1700014712,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 158805,
@@ -30755,6 +30779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154328,
+      "num": 154328,
+      "word": "男子工作压力大喝酒解闷女儿专程来接",
+      "onboard_time": 1700012854,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154293,
       "num": 154293,
       "word": "林高远太原",
@@ -30985,14 +31017,6 @@
       "onboard_time": 1698970053,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 152548,
-      "num": 152548,
-      "word": "大姐采菌被夹见消防员乐观拍视频",
-      "onboard_time": 1700013991,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152474,
@@ -31273,14 +31297,6 @@
       "onboard_time": 1698909518,
       "rank": 40,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 150709,
-      "num": 150709,
-      "word": "男子工作压力大喝酒解闷女儿专程来接",
-      "onboard_time": 1700012854,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150639,
@@ -34643,6 +34659,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 125170,
+      "num": 125170,
+      "word": "武大教授硬核方式教年轻人反内卷",
+      "onboard_time": 1700015249,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125139,
       "num": 125139,
       "word": "顾云峥 你对象是不是杀过鱼",
@@ -37075,6 +37099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99614,
+      "num": 99614,
+      "word": "宝可梦礼宾部",
+      "onboard_time": 1700015670,
+      "rank": 43,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 99547,
       "num": 99547,
       "word": "邱耀乐声明",
@@ -38041,14 +38073,6 @@
       "onboard_time": 1699449174,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81789,
-      "num": 81789,
-      "word": "武大教授硬核方式教年轻人反内卷",
-      "onboard_time": 1700015249,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 81433,
