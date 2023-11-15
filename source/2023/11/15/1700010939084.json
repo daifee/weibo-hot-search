@@ -1,0 +1,410 @@
+{
+  "runTime": 1700010939084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 798159,
+        "num": 798159,
+        "word": "华人华侨在旧金山组成欢迎人群",
+        "onboard_time": 1700003363,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580551,
+        "num": 580551,
+        "word": "亚太经合组织第三十次领导人非正式会议",
+        "onboard_time": 1700008832,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133259,
+        "num": 561086,
+        "word": "感受中美民意暖流",
+        "onboard_time": 1700004925,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 618136,
+        "num": 557991,
+        "word": "没想到嗑起了朱丹和周一围",
+        "onboard_time": 1700008056,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554614,
+        "num": 554614,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 539507,
+        "num": 539507,
+        "word": "胡彦斌问Melody小镇姑娘写的是谁",
+        "onboard_time": 1700007574,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499441,
+        "num": 499441,
+        "word": "网购了件大衣穿上变成座山雕",
+        "onboard_time": 1699992673,
+        "rank": 6,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 443147,
+        "num": 443147,
+        "word": "Uzi与Doinb将在S13决赛现场解说",
+        "onboard_time": 1700008957,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 353089,
+        "num": 353089,
+        "word": "糖尿病前期无明显症状极易被忽视",
+        "onboard_time": 1699977212,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332250,
+        "num": 332250,
+        "word": "花花呼呼大睡弟弟疯狂营业",
+        "onboard_time": 1699974038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1636107,
+        "num": 324784,
+        "word": "光腿神器被嘲现代刑具",
+        "onboard_time": 1700004445,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 869336,
+        "num": 307868,
+        "word": "韩国人评东北大学生现状",
+        "onboard_time": 1700005409,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 643817,
+        "num": 302328,
+        "word": "河南一中学发生踩踏事件致1死5伤",
+        "onboard_time": 1699975715,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 381061,
+        "num": 275578,
+        "word": "缅北电诈家族曾邀请国内明星网红庆生",
+        "onboard_time": 1699957115,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272465,
+        "num": 272465,
+        "word": "两位唐氏孩子妈妈用20年互相治愈",
+        "onboard_time": 1700005048,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344929,
+        "num": 268109,
+        "word": "武汉一研三学生留遗书后轻生",
+        "onboard_time": 1699974396,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255670,
+        "num": 255670,
+        "word": "APEC是什么",
+        "onboard_time": 1700009194,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250678,
+        "num": 250678,
+        "word": "姜雪宁燕临判词 爱也没用没用也爱",
+        "onboard_time": 1700008657,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244008,
+        "num": 244008,
+        "word": "疯是上午发的人是下午走的",
+        "onboard_time": 1700006854,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235792,
+        "num": 235792,
+        "word": "1700元的林清轩香水下架",
+        "onboard_time": 1699982779,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 257382,
+        "num": 235536,
+        "word": "新郎结婚和司仪撞衫",
+        "onboard_time": 1700007756,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233432,
+        "num": 233432,
+        "word": "连续30天早睡1小时身体会有何变化",
+        "onboard_time": 1699967496,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 230601,
+        "num": 230601,
+        "word": "正式确诊为杨幂",
+        "onboard_time": 1699971157,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 227942,
+        "num": 227942,
+        "word": "花少5 人际和工作之间的统筹链接关系",
+        "onboard_time": 1700005409,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226500,
+        "num": 226500,
+        "word": "一岁半萌娃发量惊人像戴了假发",
+        "onboard_time": 1700010034,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224931,
+        "num": 224931,
+        "word": "周扬青这个撒娇练了很久",
+        "onboard_time": 1700007756,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194615,
+        "num": 194615,
+        "word": "金莎说男友扮猪吃老虎",
+        "onboard_time": 1699969775,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184803,
+        "num": 184803,
+        "word": "郭敬明晒侯明昊田嘉瑞剧照",
+        "onboard_time": 1700006611,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182473,
+        "num": 182473,
+        "word": "感染幽门螺杆菌胃癌风险或翻倍",
+        "onboard_time": 1699972776,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177613,
+        "num": 177613,
+        "word": "时宴掉马",
+        "onboard_time": 1699975956,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193630,
+        "num": 177269,
+        "word": "谢危终于发疯了",
+        "onboard_time": 1700010516,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172923,
+        "num": 172923,
+        "word": "男童被压20人喊口号式抬车救出",
+        "onboard_time": 1700004023,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168219,
+        "num": 168219,
+        "word": "中美元首旧金山会晤",
+        "onboard_time": 1700004143,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158228,
+        "num": 158228,
+        "word": "这哪是公开课啊分明是公开处刑",
+        "onboard_time": 1700006555,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155917,
+        "num": 155917,
+        "word": "男子突然倒地2身着藏装姑娘跪地救人",
+        "onboard_time": 1699979904,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154387,
+        "num": 154387,
+        "word": "医生提醒山楂板栗不能混着吃",
+        "onboard_time": 1700010273,
+        "rank": 35,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 153708,
+        "num": 153708,
+        "word": "1979年 骨相化妆",
+        "onboard_time": 1699969053,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 151416,
+        "num": 151416,
+        "word": "被床封印了的熊猫宝宝",
+        "onboard_time": 1700008236,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143220,
+        "num": 143220,
+        "word": "黑龙江五常市政务大厅整改",
+        "onboard_time": 1700000415,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130401,
+        "num": 130401,
+        "word": "这就是90后父母的起名方式吗",
+        "onboard_time": 1700008416,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124615,
+        "num": 124615,
+        "word": "谷爱凌来了都得说滑得好",
+        "onboard_time": 1700010573,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122542,
+        "num": 122542,
+        "word": "TFBOYS登腾讯音乐财报",
+        "onboard_time": 1700002942,
+        "rank": 41,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 122508,
+        "num": 122508,
+        "word": "王自如采访",
+        "onboard_time": 1699968756,
+        "rank": 42,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 121074,
+        "num": 121074,
+        "word": "孙颖莎好可爱",
+        "onboard_time": 1700005530,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120052,
+        "num": 120052,
+        "word": "知情人回应河南武陟一中学踩踏事件",
+        "onboard_time": 1700003722,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115203,
+        "num": 115203,
+        "word": "刘亦菲新剧杀青给主创送LV",
+        "onboard_time": 1699967131,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114470,
+        "num": 114470,
+        "word": "脾虚的正确调理顺序",
+        "onboard_time": 1700010755,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107914,
+        "num": 107914,
+        "word": "广州从化警方通报河面发现女尸",
+        "onboard_time": 1699971756,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104301,
+        "num": 104301,
+        "word": "够了 老子心疼罐罐",
+        "onboard_time": 1699973676,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103885,
+        "num": 103885,
+        "word": "从何猷君表情看出霸总执行力",
+        "onboard_time": 1700010872,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}
