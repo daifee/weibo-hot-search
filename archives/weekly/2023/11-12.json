@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700054530666,
+  "endTime": 1700055239927,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034727,
+      "num": 353307,
+      "word": "三浦德子去世",
+      "onboard_time": 1700052033,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1032581,
       "num": 302328,
       "word": "河南一中学发生踩踏事件致1死5伤",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1699837234,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 856300,
-      "num": 353307,
-      "word": "三浦德子去世",
-      "onboard_time": 1700052033,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 851633,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657981,
+      "num": 338326,
+      "word": "宁安如梦女三",
+      "onboard_time": 1700052216,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655097,
       "num": 655097,
       "word": "赵露思将进组珠帘玉幕",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1699858957,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 643626,
-      "num": 338326,
-      "word": "宁安如梦女三",
-      "onboard_time": 1700052216,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 643582,
@@ -2403,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532624,
+      "num": 297760,
+      "word": "赵昭仪情绪崩溃躲起来哭",
+      "onboard_time": 1700052700,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531862,
       "num": 531862,
       "word": "大冰笑话",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1699790974,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527297,
+      "num": 337716,
+      "word": "TFBOYS待映新片都是科幻片",
+      "onboard_time": 1700051793,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 526104,
@@ -2601,14 +2617,6 @@
       "onboard_time": 1699875690,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 493475,
-      "num": 297760,
-      "word": "赵昭仪情绪崩溃躲起来哭",
-      "onboard_time": 1700052700,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 491262,
@@ -2873,14 +2881,6 @@
       "onboard_time": 1699871852,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 456580,
-      "num": 337716,
-      "word": "TFBOYS待映新片都是科幻片",
-      "onboard_time": 1700051793,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 454853,
@@ -3633,6 +3633,14 @@
       "onboard_time": 1700046573,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367424,
+      "num": 257007,
+      "word": "刘亦菲景甜人间富贵花",
+      "onboard_time": 1700054438,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 365134,
@@ -5123,14 +5131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257007,
-      "num": 257007,
-      "word": "刘亦菲景甜人间富贵花",
-      "onboard_time": 1700054438,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256719,
       "num": 226751,
       "word": "无所畏惧 对我的乳腺友好",
@@ -5241,6 +5241,14 @@
       "onboard_time": 1699716214,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251939,
+      "num": 295589,
+      "word": "野生大熊猫5天4次同一地点喝水",
+      "onboard_time": 1700048497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251857,
@@ -5523,14 +5531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237202,
-      "num": 295589,
-      "word": "野生大熊猫5天4次同一地点喝水",
-      "onboard_time": 1700048497,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236804,
       "num": 236804,
       "word": "格林锁喉戈贝尔",
@@ -5785,6 +5785,14 @@
       "onboard_time": 1699798236,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225906,
+      "num": 420975,
+      "word": "中国刷新亚洲最深井纪录",
+      "onboard_time": 1700051495,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225862,
@@ -6369,6 +6377,14 @@
       "onboard_time": 1699799797,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204763,
+      "num": 204763,
+      "word": "杨幂卡其色穿搭",
+      "onboard_time": 1700054795,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 204532,
@@ -7059,14 +7075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187032,
-      "num": 420975,
-      "word": "中国刷新亚洲最深井纪录",
-      "onboard_time": 1700051495,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186908,
       "num": 1428739,
       "word": "双十一快递包裹坐上高铁了",
@@ -7211,6 +7219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "世界上最悲伤的一句话",
+      "onboard_time": 1700052514,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184155,
       "num": 184155,
       "word": "岩井勇气宣布与19岁女友结婚",
@@ -7283,12 +7299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181464,
-      "num": 181464,
-      "word": "世界上最悲伤的一句话",
-      "onboard_time": 1700052514,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 181454,
+      "num": 181454,
+      "word": "以爱为营",
+      "onboard_time": 1699855833,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 180958,
@@ -8388,7 +8404,7 @@
     },
     {
       "raw_hot": 153096,
-      "num": 161206,
+      "num": 181431,
       "word": "咒术回战 jjxx到底在画啥",
       "onboard_time": 1700051495,
       "rank": 45,
@@ -8568,14 +8584,6 @@
       "word": "宁安如梦剧情有槽点吗",
       "onboard_time": 1699858893,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148131,
-      "num": 148131,
-      "word": "以爱为营",
-      "onboard_time": 1699855833,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -10236,7 +10244,7 @@
     },
     {
       "raw_hot": 98894,
-      "num": 140959,
+      "num": 146508,
       "word": "男孩接力跑意外受伤单腿跳到终点",
       "onboard_time": 1700054132,
       "rank": 47,
@@ -10423,6 +10431,14 @@
       "num": 136753,
       "word": "乘客高铁站用AED成功抢救晕倒男子",
       "onboard_time": 1699792056,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79849,
+      "num": 146250,
+      "word": "婚礼现场两位新人爸爸给妈妈戴上头纱",
+      "onboard_time": 1700055096,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -10867,7 +10883,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 16550,
+      "raw_hot": 17150,
       "num": 366761,
       "word": "共创共享亚太和世界更加美好的未来",
       "onboard_time": 1700038174,
