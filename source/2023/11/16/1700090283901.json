@@ -1,0 +1,410 @@
+{
+  "runTime": 1700090283901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1825310,
+        "num": 1825310,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1700084594,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2825614,
+        "num": 1771856,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17248,
+        "num": 1234213,
+        "word": "共同构建亚太命运共同体",
+        "onboard_time": 1700038234,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 822575,
+        "num": 822575,
+        "word": "中美各自的成功是彼此的机遇",
+        "onboard_time": 1700088319,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556837,
+        "num": 556837,
+        "word": "中美元首会晤现场",
+        "onboard_time": 1700069777,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395495,
+        "num": 395495,
+        "word": "31岁儿子全职陪护智力2岁妈妈",
+        "onboard_time": 1700062471,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317462,
+        "num": 317462,
+        "word": "中美元首时隔1年再次面对面会晤",
+        "onboard_time": 1700077334,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296239,
+        "num": 296239,
+        "word": "小杨哥演唱会成本超3000万",
+        "onboard_time": 1700048250,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250771,
+        "num": 250771,
+        "word": "原来迪丽热巴一直是素颜",
+        "onboard_time": 1700048671,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244724,
+        "num": 244724,
+        "word": "怀疑这家幼儿园没有做饭师傅",
+        "onboard_time": 1700060914,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450041,
+        "num": 236223,
+        "word": "骑车偶遇刘亦菲来回骑了20遍",
+        "onboard_time": 1700062533,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273038,
+        "num": 226919,
+        "word": "王安宇快碎了",
+        "onboard_time": 1700089702,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206794,
+        "num": 206794,
+        "word": "大国竞争不是这个时代的底色",
+        "onboard_time": 1700078713,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199660,
+        "num": 199660,
+        "word": "中山大学通报贫困生炫富事件",
+        "onboard_time": 1700089702,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187558,
+        "num": 187558,
+        "word": "大约40%的癌症可以避免",
+        "onboard_time": 1700056235,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161842,
+        "num": 161842,
+        "word": "宁安如梦下周超点",
+        "onboard_time": 1700089461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150937,
+        "num": 150937,
+        "word": "爱奇艺尖叫之夜内场图",
+        "onboard_time": 1700062952,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149727,
+        "num": 149727,
+        "word": "老刘对傅首尔说我很爱你",
+        "onboard_time": 1700060557,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119845,
+        "num": 119845,
+        "word": "宁安如梦女三",
+        "onboard_time": 1700052216,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106868,
+        "num": 106868,
+        "word": "刘亦菲彭冠英亲出声了",
+        "onboard_time": 1700042374,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196959,
+        "num": 104744,
+        "word": "买狗两年了至今没摸到狗",
+        "onboard_time": 1700089522,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124832,
+        "num": 101079,
+        "word": "中学回应校服被质疑像寿衣",
+        "onboard_time": 1700087177,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96922,
+        "num": 96922,
+        "word": "罗翔 不要带有知识的优越感",
+        "onboard_time": 1700057615,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86622,
+        "num": 86622,
+        "word": "明明是两人合作爸爸却获得所有崇拜",
+        "onboard_time": 1700068399,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82744,
+        "num": 82744,
+        "word": "赵昭仪花少合照P上了迪丽热巴",
+        "onboard_time": 1700055816,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78865,
+        "num": 78865,
+        "word": "杭州30亿量化跑路事件冲击扩大",
+        "onboard_time": 1700089643,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 75107,
+        "num": 75107,
+        "word": "赵露思新发型",
+        "onboard_time": 1700045555,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 73435,
+        "num": 73435,
+        "word": "跟爱人一起入眠睡眠质量会更好",
+        "onboard_time": 1700058216,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73294,
+        "num": 73294,
+        "word": "养成无意识减肥行为",
+        "onboard_time": 1700089643,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69402,
+        "num": 69402,
+        "word": "野生大熊猫5天4次同一地点喝水",
+        "onboard_time": 1700048497,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68533,
+        "num": 68533,
+        "word": "张小斐电影票房破4亿自拍",
+        "onboard_time": 1700064751,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60642,
+        "num": 60642,
+        "word": "何炅见证了多少人的成长",
+        "onboard_time": 1700056959,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57988,
+        "num": 57988,
+        "word": "她居然可以自己做马面裙",
+        "onboard_time": 1700060975,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 55243,
+        "num": 55243,
+        "word": "为什么只有炸鸡却没有炸鸭",
+        "onboard_time": 1700089643,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55175,
+        "num": 55175,
+        "word": "三浦德子去世",
+        "onboard_time": 1700052033,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55106,
+        "num": 55106,
+        "word": "杨幂翡翠耳坠",
+        "onboard_time": 1700058397,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54690,
+        "num": 54690,
+        "word": "桂林一大巴车侧翻致2死6伤",
+        "onboard_time": 1700059294,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54304,
+        "num": 54304,
+        "word": "TFBOYS待映新片都是科幻片",
+        "onboard_time": 1700051793,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52014,
+        "num": 52014,
+        "word": "辛芷蕾人设还没立就崩了",
+        "onboard_time": 1700049514,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50653,
+        "num": 50653,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 39,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 49967,
+        "num": 49967,
+        "word": "医生提醒逍遥丸不要自行乱服",
+        "onboard_time": 1700044533,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48260,
+        "num": 48260,
+        "word": "游戏人的万圣趴",
+        "onboard_time": 1700089944,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46447,
+        "num": 46447,
+        "word": "雨刮器变身木鱼槌好可爱",
+        "onboard_time": 1700089461,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45462,
+        "num": 45462,
+        "word": "这居然是卷发器",
+        "onboard_time": 1700059356,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 45360,
+        "num": 45360,
+        "word": "兰州拉面都得尊称一声前辈",
+        "onboard_time": 1700060855,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 43691,
+        "num": 43691,
+        "word": "程潇三角巾抹胸",
+        "onboard_time": 1700048497,
+        "rank": 45,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 42774,
+        "num": 42774,
+        "word": "金星 我们园区快递小哥也叫自如",
+        "onboard_time": 1700036074,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37021,
+        "num": 42526,
+        "word": "海底捞回应试点调整份量和价格",
+        "onboard_time": 1700046872,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34934,
+        "num": 42225,
+        "word": "白鹿的出道作品是陆虎的留言",
+        "onboard_time": 1700055397,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34087,
+        "num": 41958,
+        "word": "女房东把自家种的菜放电梯让租客自取",
+        "onboard_time": 1700089643,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席旧金山之行#"
+    }
+  }
+}

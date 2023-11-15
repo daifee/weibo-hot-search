@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700087670606,
+  "endTime": 1700090283901,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -73,6 +73,14 @@
       "onboard_time": 1699842091,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2825614,
+      "num": 1771856,
+      "word": "这个地球容得下中美两国",
+      "onboard_time": 1700084113,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2657617,
@@ -235,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1825310,
+      "num": 1825310,
+      "word": "中美元首会晤结束",
+      "onboard_time": 1700084594,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1816629,
       "num": 894773,
       "word": "裸门",
@@ -385,14 +401,6 @@
       "onboard_time": 1699881153,
       "rank": 26,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1618318,
-      "num": 928584,
-      "word": "这个地球容得下中美两国",
-      "onboard_time": 1700084113,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1615313,
@@ -1067,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 960676,
-      "num": 960676,
-      "word": "中美元首会晤结束",
-      "onboard_time": 1700084594,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 959669,
       "num": 952126,
       "word": "光腿神器的危害有多大",
@@ -1369,6 +1369,14 @@
       "onboard_time": 1699704938,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 822575,
+      "num": 822575,
+      "word": "中美各自的成功是彼此的机遇",
+      "onboard_time": 1700088319,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 820390,
@@ -2355,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556837,
+      "num": 556837,
+      "word": "中美元首会晤现场",
+      "onboard_time": 1700069777,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 553104,
       "num": 553104,
       "word": "李佳琦团队称250亿收入纯属捏造",
@@ -2979,14 +2995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 455387,
-      "num": 455387,
-      "word": "中美元首会晤现场",
-      "onboard_time": 1700069777,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 454853,
       "num": 454853,
       "word": "徐娇眼镜戒指",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1700023597,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395495,
+      "num": 395495,
+      "word": "31岁儿子全职陪护智力2岁妈妈",
+      "onboard_time": 1700062471,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395231,
@@ -4307,12 +4323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317193,
-      "num": 317193,
-      "word": "31岁儿子全职陪护智力2岁妈妈",
-      "onboard_time": 1700062471,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 317462,
+      "num": 317462,
+      "word": "中美元首时隔1年再次面对面会晤",
+      "onboard_time": 1700077334,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317135,
@@ -4329,14 +4345,6 @@
       "onboard_time": 1699770990,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314700,
-      "num": 314700,
-      "word": "中美元首时隔1年再次面对面会晤",
-      "onboard_time": 1700077334,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 314247,
@@ -5091,6 +5099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273038,
+      "num": 226919,
+      "word": "王安宇快碎了",
+      "onboard_time": 1700089702,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272578,
       "num": 272578,
       "word": "阴阳师皮肤 好看又不好看",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1699773869,
       "rank": 22,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 244724,
+      "num": 244724,
+      "word": "怀疑这家幼儿园没有做饭师傅",
+      "onboard_time": 1700060914,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 244281,
@@ -6571,6 +6595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206794,
+      "num": 206794,
+      "word": "大国竞争不是这个时代的底色",
+      "onboard_time": 1700078713,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206790,
       "num": 206790,
       "word": "浙江选调",
@@ -6625,14 +6657,6 @@
       "onboard_time": 1699885414,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205304,
-      "num": 235251,
-      "word": "怀疑这家幼儿园没有做饭师傅",
-      "onboard_time": 1700060914,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 205154,
@@ -6843,6 +6867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199660,
+      "num": 199660,
+      "word": "中山大学通报贫困生炫富事件",
+      "onboard_time": 1700089702,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199658,
       "num": 199658,
       "word": "张凌赫金丝眼镜光影大片",
@@ -6977,6 +7009,14 @@
       "onboard_time": 1699968394,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196959,
+      "num": 104744,
+      "word": "买狗两年了至今没摸到狗",
+      "onboard_time": 1700089522,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 196866,
@@ -8443,6 +8483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161842,
+      "num": 161842,
+      "word": "宁安如梦下周超点",
+      "onboard_time": 1700089461,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161747,
       "num": 119288,
       "word": "李昇勋说challenge很容易产生火花",
@@ -9795,6 +9843,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124832,
+      "num": 101079,
+      "word": "中学回应校服被质疑像寿衣",
+      "onboard_time": 1700087177,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124763,
       "num": 124763,
       "word": "光夜版燃冬",
@@ -10033,14 +10089,6 @@
       "onboard_time": 1699842752,
       "rank": 43,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 119673,
-      "num": 119673,
-      "word": "大国竞争不是这个时代的底色",
-      "onboard_time": 1700078713,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 119256,
@@ -10811,6 +10859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86622,
+      "num": 86622,
+      "word": "明明是两人合作爸爸却获得所有崇拜",
+      "onboard_time": 1700068399,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85534,
       "num": 85534,
       "word": "男朋友转了5200给我买咖啡",
@@ -10875,6 +10931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78865,
+      "num": 78865,
+      "word": "杭州30亿量化跑路事件冲击扩大",
+      "onboard_time": 1700089643,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 76752,
       "num": 3608582,
       "word": "7旬学生为百岁乡村老师过生日",
@@ -10913,6 +10977,14 @@
       "onboard_time": 1699974038,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 73294,
+      "word": "养成无意识减肥行为",
+      "onboard_time": 1700089643,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71489,
@@ -11092,11 +11164,19 @@
     },
     {
       "raw_hot": 55805,
-      "num": 633479,
+      "num": 1234213,
       "word": "共同构建亚太命运共同体",
       "onboard_time": 1700038234,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55243,
+      "num": 55243,
+      "word": "为什么只有炸鸡却没有炸鸭",
+      "onboard_time": 1700089643,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 55067,
@@ -11179,11 +11259,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46657,
-      "num": 42107,
-      "word": "明明是两人合作爸爸却获得所有崇拜",
-      "onboard_time": 1700068399,
-      "rank": 48,
+      "raw_hot": 48260,
+      "num": 48260,
+      "word": "游戏人的万圣趴",
+      "onboard_time": 1700089944,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 46447,
+      "num": 46447,
+      "word": "雨刮器变身木鱼槌好可爱",
+      "onboard_time": 1700089461,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -11232,6 +11320,14 @@
       "word": "聚焦中国经济圆桌会",
       "onboard_time": 1699881575,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 41958,
+      "word": "女房东把自家种的菜放电梯让租客自取",
+      "onboard_time": 1700089643,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -11305,14 +11401,6 @@
       "onboard_time": 1700074755,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 23681,
-      "num": 23681,
-      "word": "中学回应校服被质疑像寿衣",
-      "onboard_time": 1700087177,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 22946,
