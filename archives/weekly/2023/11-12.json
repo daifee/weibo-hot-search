@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700076858178,
+  "endTime": 1700079555461,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -4643,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295110,
+      "num": 295110,
+      "word": "中美元首旧金山会晤正式开始",
+      "onboard_time": 1700076553,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 295078,
       "num": 295078,
       "word": "倪妮 暗夜女爵",
@@ -4905,6 +4913,14 @@
       "onboard_time": 1699939415,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280281,
+      "num": 280281,
+      "word": "中美元首时隔1年再次面对面会晤",
+      "onboard_time": 1700077334,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 279775,
@@ -9995,6 +10011,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 119673,
+      "num": 119673,
+      "word": "大国竞争不是这个时代的底色",
+      "onboard_time": 1700078713,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119256,
       "num": 151645,
       "word": "月入2万活得像月入2千",
@@ -10505,14 +10529,6 @@
       "onboard_time": 1699738814,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103516,
-      "num": 103516,
-      "word": "中美元首旧金山会晤正式开始",
-      "onboard_time": 1700076553,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103378,
@@ -11259,20 +11275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23216,
+      "num": 23216,
+      "word": "你通常几点入睡",
+      "onboard_time": 1700074755,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22946,
       "num": 311230,
       "word": "糖尿病会腐蚀哪些器官",
       "onboard_time": 1699941636,
       "rank": 14,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 22480,
-      "num": 22480,
-      "word": "你通常几点入睡",
-      "onboard_time": 1700074755,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21326,
@@ -11337,6 +11353,22 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12162,
+      "num": 14036,
+      "word": "谢娜蔡少芬综艺合体",
+      "onboard_time": 1700078414,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10472,
+      "num": 13983,
+      "word": "intp 宇宙宁古塔",
+      "onboard_time": 1700078593,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
