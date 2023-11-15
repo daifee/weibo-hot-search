@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700018313672,
+  "endTime": 1700019264607,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -17,6 +17,14 @@
       "onboard_time": 1700004445,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1615313,
+      "num": 280759,
+      "word": "警方回应16岁养女轻生后被配阴婚",
+      "onboard_time": 1700016629,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447785,
@@ -40,14 +48,6 @@
       "word": "经纪人回应网传艺人为缅北电诈家族庆生",
       "onboard_time": 1700011893,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1112574,
-      "num": 280759,
-      "word": "警方回应16岁养女轻生后被配阴婚",
-      "onboard_time": 1700016629,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -75,20 +75,20 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 894632,
+      "num": 277015,
+      "word": "傅盛发文怒怼王自如",
+      "onboard_time": 1700017171,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869336,
       "num": 373823,
       "word": "韩国人评东北大学生现状",
       "onboard_time": 1700005409,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 853029,
-      "num": 276514,
-      "word": "傅盛发文怒怼王自如",
-      "onboard_time": 1700017171,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 800813,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701364,
+      "num": 429060,
+      "word": "李相夷 无法超越的传奇",
+      "onboard_time": 1700016869,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 664176,
       "num": 278213,
       "word": "缅北电诈家族曾邀请国内明星网红庆生",
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 629205,
-      "num": 325935,
-      "word": "李相夷 无法超越的传奇",
-      "onboard_time": 1700016869,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 614484,
       "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
       "onboard_time": 1700008832,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 545065,
+      "num": 545065,
+      "word": "2024龙年贵金属纪念币将发行",
+      "onboard_time": 1700017591,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 539507,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 495426,
-      "num": 268369,
+      "num": 273113,
       "word": "文俊辉联合国中文演讲发言",
       "onboard_time": 1700016691,
       "rank": 15,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425903,
+      "num": 425903,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1700018972,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410370,
       "num": 235575,
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
@@ -227,20 +243,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 387140,
+      "num": 387140,
+      "word": "程潇朱正廷翻跳亚超主题曲",
+      "onboard_time": 1700017352,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340770,
       "num": 231613,
       "word": "于适红发",
       "onboard_time": 1699976854,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 332312,
-      "num": 332312,
-      "word": "2024龙年贵金属纪念币将发行",
-      "onboard_time": 1700017591,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 332250,
@@ -251,8 +267,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326309,
+      "num": 326309,
+      "word": "刘德华巡演官宣",
+      "onboard_time": 1700016390,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299223,
-      "num": 250666,
+      "num": 254898,
       "word": "藿藿",
       "onboard_time": 1700017953,
       "rank": 20,
@@ -267,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284830,
-      "num": 284830,
-      "word": "刘德华巡演官宣",
-      "onboard_time": 1700016390,
-      "rank": 9,
-      "category": "演出"
+      "raw_hot": 293243,
+      "num": 293243,
+      "word": "武大教授硬核方式教年轻人反内卷",
+      "onboard_time": 1700015249,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 279983,
@@ -281,6 +305,14 @@
       "onboard_time": 1699967674,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 279331,
+      "num": 279331,
+      "word": "易胖体质可能是减出来的",
+      "onboard_time": 1700017953,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 274173,
@@ -305,14 +337,6 @@
       "onboard_time": 1699971157,
       "rank": 22,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 257424,
-      "num": 257424,
-      "word": "武大教授硬核方式教年轻人反内卷",
-      "onboard_time": 1700015249,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 257382,
@@ -345,14 +369,6 @@
       "onboard_time": 1700008657,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243626,
-      "num": 243626,
-      "word": "程潇朱正廷翻跳亚超主题曲",
-      "onboard_time": 1700017352,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 240242,
@@ -427,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219363,
-      "num": 234501,
-      "word": "易胖体质可能是减出来的",
-      "onboard_time": 1700017953,
-      "rank": 22,
-      "category": "运动健身"
+      "raw_hot": 222534,
+      "num": 222534,
+      "word": "A股",
+      "onboard_time": 1700018191,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 216703,
@@ -467,6 +483,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206939,
+      "num": 195699,
+      "word": "如何让手机变得更可靠",
+      "onboard_time": 1700018789,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 204532,
+      "num": 204532,
+      "word": "黑白密码定档",
+      "onboard_time": 1700018612,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202519,
+      "num": 202519,
+      "word": "韩国游客为看福宝排队数小时",
+      "onboard_time": 1700017411,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201000,
+      "num": 201000,
+      "word": "你会考虑聘请收纳师吗",
+      "onboard_time": 1700018491,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 198869,
       "num": 198869,
       "word": "cityline 新的一天新的retry",
@@ -481,6 +529,14 @@
       "onboard_time": 1700004143,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198097,
+      "num": 198097,
+      "word": "勇士森林狼冲突",
+      "onboard_time": 1700018972,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 196477,
@@ -548,7 +604,7 @@
     },
     {
       "raw_hot": 174563,
-      "num": 174563,
+      "num": 277749,
       "word": "罗云熙汴京贵公子",
       "onboard_time": 1700018071,
       "rank": 30,
@@ -609,6 +665,14 @@
       "onboard_time": 1700013991,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160094,
+      "num": 160094,
+      "word": "中国霸总短剧收割欧美",
+      "onboard_time": 1700018370,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 158849,
@@ -675,12 +739,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 150700,
-      "num": 150700,
-      "word": "韩国游客为看福宝排队数小时",
-      "onboard_time": 1700017411,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 150567,
+      "num": 150567,
+      "word": "燕临 竹马少年郎",
+      "onboard_time": 1700018554,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 150490,
@@ -779,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122653,
+      "num": 122653,
+      "word": "走失29年的儿子回家了",
+      "onboard_time": 1700017110,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122508,
       "num": 122508,
       "word": "王自如采访",
@@ -843,20 +915,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114334,
+      "num": 114334,
+      "word": "7岁女孩将随意涂鸦作成画",
+      "onboard_time": 1700019031,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113665,
       "num": 113665,
       "word": "魏大勋录制大侦探9",
       "onboard_time": 1699968155,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112350,
-      "num": 112350,
-      "word": "走失29年的儿子回家了",
-      "onboard_time": 1700017110,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111465,
@@ -923,14 +995,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 90668,
-      "num": 90668,
-      "word": "A股",
-      "onboard_time": 1700018191,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 82780,
       "num": 97641,
       "word": "竞燃之夜",
@@ -953,6 +1017,14 @@
       "onboard_time": 1699953213,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79249,
+      "num": 432183,
+      "word": "关于APEC的知识点",
+      "onboard_time": 1700018433,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77415,
