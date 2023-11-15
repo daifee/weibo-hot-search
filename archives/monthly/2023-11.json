@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700037365970,
+  "endTime": 1700039918247,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1699323810,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1784084,
+      "num": 364245,
+      "word": "久坐可能导致死臀综合征",
+      "onboard_time": 1700035175,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1775198,
@@ -4587,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890206,
+      "num": 367952,
+      "word": "WBG 选边",
+      "onboard_time": 1700037815,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 890121,
       "num": 890121,
       "word": "何炅不许任何一个夹子出现在他面前",
@@ -4923,12 +4939,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 845899,
-      "num": 364245,
-      "word": "久坐可能导致死臀综合征",
-      "onboard_time": 1700035175,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 845916,
+      "num": 474477,
+      "word": "小米汽车",
+      "onboard_time": 1700037156,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 845135,
@@ -5713,6 +5729,14 @@
       "onboard_time": 1699607554,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769881,
+      "num": 363196,
+      "word": "金星 我们园区快递小哥也叫自如",
+      "onboard_time": 1700036074,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 769400,
@@ -7241,6 +7265,14 @@
       "onboard_time": 1699335630,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 649664,
+      "num": 366318,
+      "word": "租房过一辈子可以吗",
+      "onboard_time": 1700037514,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 646345,
@@ -8979,14 +9011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 547796,
-      "num": 363196,
-      "word": "金星 我们园区快递小哥也叫自如",
-      "onboard_time": 1700036074,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1698846575,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 497652,
-      "num": 474477,
-      "word": "小米汽车",
-      "onboard_time": 1700037156,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 497348,
@@ -12033,6 +12049,14 @@
       "onboard_time": 1699836693,
       "rank": 8,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 422226,
+      "num": 341869,
+      "word": "奚梦瑶进入豪门第一关打一晚上麻将",
+      "onboard_time": 1700037394,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 421551,
@@ -14203,6 +14227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 365180,
+      "num": 365180,
+      "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
+      "onboard_time": 1700034755,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365179,
       "num": 313023,
       "word": "涂山璟捡起来的从来都不是浪漫",
@@ -14249,6 +14281,14 @@
       "onboard_time": 1699276235,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364013,
+      "num": 341353,
+      "word": "教体局通报校服被质疑像寿衣",
+      "onboard_time": 1700037934,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 363956,
@@ -15313,6 +15353,14 @@
       "onboard_time": 1699152210,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337868,
+      "num": 337868,
+      "word": "有种丑叫做腺样体面容",
+      "onboard_time": 1700038956,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 337772,
@@ -16608,6 +16656,14 @@
       "word": "芒果招商会 苏醒宣讲会",
       "onboard_time": 1699703071,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308879,
+      "num": 308879,
+      "word": "秦岚辛芷蕾想住迪丽热巴的大床房",
+      "onboard_time": 1700039012,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -18147,6 +18203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279386,
+      "num": 279386,
+      "word": "逆水寒",
+      "onboard_time": 1700038898,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279331,
       "num": 279331,
       "word": "易胖体质可能是减出来的",
@@ -18473,14 +18537,6 @@
       "onboard_time": 1699350994,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274328,
-      "num": 274328,
-      "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
-      "onboard_time": 1700034755,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274326,
@@ -19867,6 +19923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254378,
+      "num": 254378,
+      "word": "以爱为营 Jackson Yi",
+      "onboard_time": 1700037156,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254248,
       "num": 254248,
       "word": "柯南一天官宣两家联名",
@@ -20529,6 +20593,14 @@
       "onboard_time": 1700023356,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 245940,
+      "num": 245940,
+      "word": "麦当劳回应牛奶一杯23元",
+      "onboard_time": 1700038956,
+      "rank": 27,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 245924,
@@ -22065,6 +22137,14 @@
       "onboard_time": 1699187976,
       "rank": 40,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 227435,
+      "num": 227435,
+      "word": "边伯贤亮相S13媒体日",
+      "onboard_time": 1700039194,
+      "rank": 31,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 227388,
@@ -24555,6 +24635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 205477,
+      "num": 205477,
+      "word": "王一博 爱奇艺尖叫之夜",
+      "onboard_time": 1700039615,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205377,
       "num": 205377,
       "word": "王嘉尔黑白双拼发色",
@@ -25433,6 +25521,14 @@
       "onboard_time": 1698999093,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199283,
+      "num": 199283,
+      "word": "边伯贤英雄联盟单曲paranoia",
+      "onboard_time": 1700038898,
+      "rank": 37,
+      "category": "电竞,音乐"
     },
     {
       "raw_hot": 199262,
@@ -27259,6 +27355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188254,
+      "num": 206495,
+      "word": "考研生为提神冬夜路灯下备战",
+      "onboard_time": 1700038355,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188183,
       "num": 188183,
       "word": "张小斐拯救嫌疑人 法庭高压对质",
@@ -27931,6 +28035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183602,
+      "num": 183602,
+      "word": "玫瑰故事",
+      "onboard_time": 1700039736,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183592,
       "num": 183592,
       "word": "国产剧转场",
@@ -28201,6 +28313,14 @@
       "onboard_time": 1699664551,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180578,
+      "num": 180578,
+      "word": "小米汽车信息公示",
+      "onboard_time": 1700039675,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 180505,
@@ -30051,6 +30171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166204,
+      "num": 166204,
+      "word": "四川的百年柿子瀑布又红了",
+      "onboard_time": 1700038654,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166156,
       "num": 166156,
       "word": "疾控中心回应小区自来水变成蓝色",
@@ -31865,6 +31993,14 @@
       "onboard_time": 1698970053,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "寝室6位新生全是退伍军人",
+      "onboard_time": 1700039134,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152474,
@@ -34865,14 +35001,6 @@
       "onboard_time": 1699453792,
       "rank": 46,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 131016,
-      "num": 210513,
-      "word": "以爱为营 Jackson Yi",
-      "onboard_time": 1700037156,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 130864,
@@ -40129,6 +40257,14 @@
       "onboard_time": 1699505198,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55805,
+      "num": 368229,
+      "word": "共同构建亚太命运共同体",
+      "onboard_time": 1700038234,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55770,

@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700037365970,
+  "endTime": 1700039918247,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -17,6 +17,14 @@
       "onboard_time": 1700026592,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1784084,
+      "num": 364245,
+      "word": "久坐可能导致死臀综合征",
+      "onboard_time": 1700035175,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1764454,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890206,
+      "num": 367952,
+      "word": "WBG 选边",
+      "onboard_time": 1700037815,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 869336,
       "num": 373823,
       "word": "韩国人评东北大学生现状",
@@ -203,12 +219,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 845899,
-      "num": 364245,
-      "word": "久坐可能导致死臀综合征",
-      "onboard_time": 1700035175,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 845916,
+      "num": 474477,
+      "word": "小米汽车",
+      "onboard_time": 1700037156,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 839390,
@@ -257,6 +273,14 @@
       "onboard_time": 1700023775,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 769881,
+      "num": 363196,
+      "word": "金星 我们园区快递小哥也叫自如",
+      "onboard_time": 1700036074,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 764101,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649664,
+      "num": 366318,
+      "word": "租房过一辈子可以吗",
+      "onboard_time": 1700037514,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635461,
       "num": 542183,
       "word": "以色列",
@@ -411,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547796,
-      "num": 363196,
-      "word": "金星 我们园区快递小哥也叫自如",
-      "onboard_time": 1700036074,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 545065,
       "num": 545065,
       "word": "2024龙年贵金属纪念币将发行",
@@ -457,14 +481,6 @@
       "onboard_time": 1699992673,
       "rank": 43,
       "category": "幽默,时尚"
-    },
-    {
-      "raw_hot": 497652,
-      "num": 474477,
-      "word": "小米汽车",
-      "onboard_time": 1700037156,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 495426,
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422226,
+      "num": 341869,
+      "word": "奚梦瑶进入豪门第一关打一晚上麻将",
+      "onboard_time": 1700037394,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419671,
       "num": 419671,
       "word": "孙菲菲事件施暴人被行政拘留",
@@ -627,6 +651,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 365180,
+      "num": 365180,
+      "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
+      "onboard_time": 1700034755,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364013,
+      "num": 341353,
+      "word": "教体局通报校服被质疑像寿衣",
+      "onboard_time": 1700037934,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 347044,
       "num": 334084,
       "word": "Jennie飞天小魔女大片",
@@ -659,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 337868,
+      "num": 337868,
+      "word": "有种丑叫做腺样体面容",
+      "onboard_time": 1700038956,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 337772,
       "num": 520090,
       "word": "慢阻肺早期咳嗽咳痰症状极易被忽视",
@@ -688,6 +736,14 @@
       "word": "迪丽热巴体验悬崖秋千",
       "onboard_time": 1700027372,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308879,
+      "num": 308879,
+      "word": "秦岚辛芷蕾想住迪丽热巴的大床房",
+      "onboard_time": 1700039012,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -763,20 +819,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279386,
+      "num": 279386,
+      "word": "逆水寒",
+      "onboard_time": 1700038898,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279331,
       "num": 279331,
       "word": "易胖体质可能是减出来的",
       "onboard_time": 1700017953,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 274328,
-      "num": 274328,
-      "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
-      "onboard_time": 1700034755,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274173,
@@ -843,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254378,
+      "num": 254378,
+      "word": "以爱为营 Jackson Yi",
+      "onboard_time": 1700037156,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250678,
       "num": 250678,
       "word": "姜雪宁燕临判词 爱也没用没用也爱",
@@ -857,6 +921,14 @@
       "onboard_time": 1700023356,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 245940,
+      "num": 245940,
+      "word": "麦当劳回应牛奶一杯23元",
+      "onboard_time": 1700038956,
+      "rank": 27,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 245726,
@@ -945,6 +1017,14 @@
       "onboard_time": 1700005409,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227435,
+      "num": 227435,
+      "word": "边伯贤亮相S13媒体日",
+      "onboard_time": 1700039194,
+      "rank": 31,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 226808,
@@ -1067,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205477,
+      "num": 205477,
+      "word": "王一博 爱奇艺尖叫之夜",
+      "onboard_time": 1700039615,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204532,
       "num": 204532,
       "word": "黑白密码定档",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1700018491,
       "rank": 26,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 199283,
+      "num": 199283,
+      "word": "边伯贤英雄联盟单曲paranoia",
+      "onboard_time": 1700038898,
+      "rank": 37,
+      "category": "电竞,音乐"
     },
     {
       "raw_hot": 199132,
@@ -1163,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188254,
+      "num": 206495,
+      "word": "考研生为提神冬夜路灯下备战",
+      "onboard_time": 1700038355,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184803,
       "num": 184803,
       "word": "郭敬明晒侯明昊田嘉瑞剧照",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1700025036,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183602,
+      "num": 183602,
+      "word": "玫瑰故事",
+      "onboard_time": 1700039736,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 183547,
@@ -1201,6 +1313,14 @@
       "onboard_time": 1700034994,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180578,
+      "num": 180578,
+      "word": "小米汽车信息公示",
+      "onboard_time": 1700039675,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 179932,
@@ -1323,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166204,
+      "num": 166204,
+      "word": "四川的百年柿子瀑布又红了",
+      "onboard_time": 1700038654,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165701,
       "num": 165701,
       "word": "秒摘隐形眼镜的小技巧",
@@ -1425,6 +1553,14 @@
       "onboard_time": 1699969053,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "寝室6位新生全是退伍军人",
+      "onboard_time": 1700039134,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150567,
@@ -1560,14 +1696,6 @@
       "word": "刘亦菲新剧杀青给主创送LV",
       "onboard_time": 1699967131,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131016,
-      "num": 210513,
-      "word": "以爱为营 Jackson Yi",
-      "onboard_time": 1700037156,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1913,6 +2041,14 @@
       "onboard_time": 1699965509,
       "rank": 47,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 55805,
+      "num": 368229,
+      "word": "共同构建亚太命运共同体",
+      "onboard_time": 1700038234,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54116,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700039918247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 112874,
+        "num": 599030,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368507,
+        "num": 368507,
+        "word": "研究称两岁之前的记忆或可永久恢复",
+        "onboard_time": 1700029893,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 55805,
+        "num": 368229,
+        "word": "共同构建亚太命运共同体",
+        "onboard_time": 1700038234,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 890206,
+        "num": 367952,
+        "word": "WBG 选边",
+        "onboard_time": 1700037815,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 845916,
+        "num": 367303,
+        "word": "小米汽车",
+        "onboard_time": 1700037156,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 703466,
+        "num": 366641,
+        "word": "何猷君 肯定要办婚礼",
+        "onboard_time": 1700027313,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649664,
+        "num": 366318,
+        "word": "租房过一辈子可以吗",
+        "onboard_time": 1700037514,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529730,
+        "num": 366026,
+        "word": "白敬亭宋轶都去尖叫之夜",
+        "onboard_time": 1700035899,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470565,
+        "num": 365199,
+        "word": "吴昕互不打扰的家庭关系",
+        "onboard_time": 1700033318,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365180,
+        "num": 365180,
+        "word": "25岁大学生变脑瘫儿53岁父亲不离不弃",
+        "onboard_time": 1700034755,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1784084,
+        "num": 364165,
+        "word": "久坐可能导致死臀综合征",
+        "onboard_time": 1700035175,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1007239,
+        "num": 361622,
+        "word": "妹妹因为洗头被停课了",
+        "onboard_time": 1700033195,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 925018,
+        "num": 360195,
+        "word": "运动员遭冰刀割喉身亡一男子被捕",
+        "onboard_time": 1700031994,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816364,
+        "num": 356835,
+        "word": "我恋5癫公癫婆一分钟亲了5次",
+        "onboard_time": 1700030912,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781396,
+        "num": 354769,
+        "word": "缅甸果敢加速遣送中国人回国",
+        "onboard_time": 1700035475,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769881,
+        "num": 353088,
+        "word": "金星 我们园区快递小哥也叫自如",
+        "onboard_time": 1700036074,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686136,
+        "num": 348676,
+        "word": "佳木斯大学跳江学生聊天记录曝光",
+        "onboard_time": 1700030131,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597308,
+        "num": 347989,
+        "word": "abandon不是第一名了",
+        "onboard_time": 1700026592,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414488,
+        "num": 343822,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343440,
+        "num": 343440,
+        "word": "山东一学校校服被质疑像寿衣",
+        "onboard_time": 1700025453,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423432,
+        "num": 342268,
+        "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+        "onboard_time": 1700035175,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422226,
+        "num": 341869,
+        "word": "奚梦瑶进入豪门第一关打一晚上麻将",
+        "onboard_time": 1700037394,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364013,
+        "num": 341353,
+        "word": "教体局通报校服被质疑像寿衣",
+        "onboard_time": 1700037934,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 337868,
+        "num": 337868,
+        "word": "有种丑叫做腺样体面容",
+        "onboard_time": 1700038956,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 308879,
+        "num": 308879,
+        "word": "秦岚辛芷蕾想住迪丽热巴的大床房",
+        "onboard_time": 1700039012,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279386,
+        "num": 279386,
+        "word": "逆水寒",
+        "onboard_time": 1700038898,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254378,
+        "num": 254378,
+        "word": "以爱为营 Jackson Yi",
+        "onboard_time": 1700037156,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245940,
+        "num": 245940,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 27,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 240928,
+        "num": 240928,
+        "word": "Jennie飞天小魔女大片",
+        "onboard_time": 1700035958,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268226,
+        "num": 239732,
+        "word": "迪丽热巴 花少其实是变形计吧",
+        "onboard_time": 1700031571,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236022,
+        "num": 236022,
+        "word": "无意识让皮肤变好的行为",
+        "onboard_time": 1700035596,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 227435,
+        "num": 227435,
+        "word": "边伯贤亮相S13媒体日",
+        "onboard_time": 1700039194,
+        "rank": 31,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 217995,
+        "num": 217995,
+        "word": "你洗完澡以后会涂身体乳吗",
+        "onboard_time": 1700034935,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 215161,
+        "num": 215161,
+        "word": "YG回应BABYMONSTER成员退队",
+        "onboard_time": 1700028871,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189511,
+        "num": 207727,
+        "word": "缉毒警为了卧底10天减重25斤",
+        "onboard_time": 1700021853,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188254,
+        "num": 206495,
+        "word": "考研生为提神冬夜路灯下备战",
+        "onboard_time": 1700038355,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 205477,
+        "word": "王一博 爱奇艺尖叫之夜",
+        "onboard_time": 1700039615,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199283,
+        "num": 199283,
+        "word": "边伯贤英雄联盟单曲paranoia",
+        "onboard_time": 1700038898,
+        "rank": 37,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 193820,
+        "num": 193820,
+        "word": "谁给秦岚P的图",
+        "onboard_time": 1700035356,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184106,
+        "num": 184106,
+        "word": "肖战 爱奇艺尖叫之夜",
+        "onboard_time": 1700023116,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183602,
+        "num": 183602,
+        "word": "玫瑰故事",
+        "onboard_time": 1700039736,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180578,
+        "num": 180578,
+        "word": "小米汽车信息公示",
+        "onboard_time": 1700039675,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175715,
+        "num": 175715,
+        "word": "S13决赛媒体日",
+        "onboard_time": 1700032896,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169914,
+        "num": 169914,
+        "word": "快乐老友记定档每周五",
+        "onboard_time": 1700035054,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166204,
+        "num": 166204,
+        "word": "四川的百年柿子瀑布又红了",
+        "onboard_time": 1700038654,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157865,
+        "num": 157865,
+        "word": "家有儿女 清醒小女孩",
+        "onboard_time": 1700023775,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155848,
+        "num": 155848,
+        "word": "厦门10元自助餐厅被查",
+        "onboard_time": 1700031933,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152576,
+        "num": 152576,
+        "word": "寝室6位新生全是退伍军人",
+        "onboard_time": 1700039134,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135204,
+        "num": 135204,
+        "word": "两个洗脸习惯让人更显老",
+        "onboard_time": 1700029293,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132098,
+        "num": 132098,
+        "word": "花儿与少年 我们没有钱",
+        "onboard_time": 1700032896,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首旧金山会晤#"
+    }
+  }
+}
