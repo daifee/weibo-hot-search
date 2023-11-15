@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700025405141,
+  "endTime": 1700026456673,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1578868,
+      "num": 1486554,
+      "word": "缉毒警为了卧底10天减重25斤",
+      "onboard_time": 1700021853,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1561570,
       "num": 543634,
       "word": "没演技的流量男星 没角色的女演员",
       "onboard_time": 1700019812,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1486554,
-      "num": 1486554,
-      "word": "缉毒警为了卧底10天减重25斤",
-      "onboard_time": 1700021853,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1447785,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 807001,
+      "num": 384429,
+      "word": "山东一学校校服被质疑像寿衣",
+      "onboard_time": 1700025453,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800813,
       "num": 362732,
       "word": "疯是上午发的人是下午走的",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635461,
+      "num": 542183,
+      "word": "以色列",
+      "onboard_time": 1700023415,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 614484,
       "num": 614484,
       "word": "亚太经合组织第三十次领导人非正式会议",
@@ -265,14 +281,6 @@
       "onboard_time": 1700017591,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 542183,
-      "num": 542183,
-      "word": "以色列",
-      "onboard_time": 1700023415,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 539507,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420317,
+      "num": 381844,
+      "word": "中大回应特困生用苹果四件套",
+      "onboard_time": 1700025573,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410370,
       "num": 235575,
       "word": "感染幽门螺杆菌胃癌风险或翻倍",
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388535,
+      "num": 1151483,
+      "word": "湖人灰熊冲突",
+      "onboard_time": 1700024499,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387140,
       "num": 387140,
       "word": "程潇朱正廷翻跳亚超主题曲",
@@ -403,8 +427,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345327,
+      "num": 387704,
+      "word": "伊能静万茜居然是闺蜜",
+      "onboard_time": 1700025334,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345106,
+      "num": 238662,
+      "word": "迪丽热巴卡其色穿搭",
+      "onboard_time": 1700025156,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344592,
-      "num": 315916,
+      "num": 338346,
       "word": "花少5 后期",
       "onboard_time": 1700024557,
       "rank": 20,
@@ -417,14 +457,6 @@
       "onboard_time": 1699976854,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 339603,
-      "num": 1151483,
-      "word": "湖人灰熊冲突",
-      "onboard_time": 1700024499,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 332250,
@@ -441,6 +473,14 @@
       "onboard_time": 1700016390,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297181,
+      "num": 297181,
+      "word": "易烊千玺羞答答的玫瑰彩排vlog",
+      "onboard_time": 1700024677,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296962,
@@ -497,14 +537,6 @@
       "onboard_time": 1700005048,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271095,
-      "num": 271095,
-      "word": "易烊千玺羞答答的玫瑰彩排vlog",
-      "onboard_time": 1700024677,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259952,
@@ -723,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204271,
-      "num": 204271,
-      "word": "迪丽热巴卡其色穿搭",
-      "onboard_time": 1700025156,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202519,
       "num": 202519,
       "word": "韩国游客为看福宝排队数小时",
@@ -795,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183857,
+      "num": 183857,
+      "word": "虔诚的拜佛小猫",
+      "onboard_time": 1700025036,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183547,
       "num": 183547,
       "word": "电视剧围猎杀青",
@@ -809,14 +841,6 @@
       "onboard_time": 1699971157,
       "rank": 6,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 178584,
-      "num": 178584,
-      "word": "虔诚的拜佛小猫",
-      "onboard_time": 1700025036,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 176891,
@@ -907,6 +931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 165496,
+      "num": 165496,
+      "word": "办房贷一定需要结清证明吗",
+      "onboard_time": 1700022938,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161199,
       "num": 161199,
       "word": "大姐采菌被夹见消防员乐观拍视频",
@@ -937,6 +969,14 @@
       "onboard_time": 1700008236,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158510,
+      "num": 158510,
+      "word": "陈都灵文潇跳舞路透",
+      "onboard_time": 1700025875,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 158416,
@@ -1027,12 +1067,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147259,
+      "num": 147259,
+      "word": "三只大橘天天陪大爷钓鱼排队等投喂",
+      "onboard_time": 1700025395,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146112,
+      "num": 146112,
+      "word": "短剧正利用人性下坠的力量赚钱",
+      "onboard_time": 1700026053,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143174,
       "num": 143174,
       "word": "陆沉 游戏开始",
       "onboard_time": 1700017591,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 142625,
+      "num": 142625,
+      "word": "姜雪宁 遗憾不能爱你",
+      "onboard_time": 1700025992,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 139946,
@@ -1051,12 +1115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135601,
-      "num": 135601,
-      "word": "办房贷一定需要结清证明吗",
-      "onboard_time": 1700022938,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 138773,
+      "num": 138773,
+      "word": "谈恋爱还是得看港姐",
+      "onboard_time": 1700025156,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133416,
@@ -1099,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131193,
-      "num": 131193,
-      "word": "伊能静万茜居然是闺蜜",
-      "onboard_time": 1700025334,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130401,
       "num": 130401,
       "word": "这就是90后父母的起名方式吗",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1700021975,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125181,
-      "num": 125181,
-      "word": "谈恋爱还是得看港姐",
-      "onboard_time": 1700025156,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124485,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1699968155,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112716,
-      "num": 112716,
-      "word": "三只大橘天天陪大爷钓鱼排队等投喂",
-      "onboard_time": 1700025395,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111465,

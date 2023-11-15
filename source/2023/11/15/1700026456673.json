@@ -1,0 +1,410 @@
+{
+  "runTime": 1700026456673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 224579,
+        "num": 705491,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388535,
+        "num": 388535,
+        "word": "湖人灰熊冲突",
+        "onboard_time": 1700024499,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62213,
+        "num": 388511,
+        "word": "关于APEC的知识点",
+        "onboard_time": 1700018433,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 991366,
+        "num": 388482,
+        "word": "陈采尼分析迪丽热巴红毯造型",
+        "onboard_time": 1700024195,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 747798,
+        "num": 388447,
+        "word": "肖战 爱奇艺尖叫之夜",
+        "onboard_time": 1700023116,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1578868,
+        "num": 388439,
+        "word": "缉毒警为了卧底10天减重25斤",
+        "onboard_time": 1700021853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667709,
+        "num": 388400,
+        "word": "家有儿女 清醒小女孩",
+        "onboard_time": 1700023775,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484346,
+        "num": 388376,
+        "word": "头发到底多久洗一次好",
+        "onboard_time": 1700019392,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 388350,
+        "num": 388350,
+        "word": "周杰伦预告12月新单曲",
+        "onboard_time": 1700021193,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345327,
+        "num": 387704,
+        "word": "伊能静万茜居然是闺蜜",
+        "onboard_time": 1700025334,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1292126,
+        "num": 387039,
+        "word": "伊能静儿子用三年时间读完四年的大学",
+        "onboard_time": 1700019933,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1166252,
+        "num": 386663,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 909596,
+        "num": 385823,
+        "word": "没演技的流量男星 没角色的女演员",
+        "onboard_time": 1700019812,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807001,
+        "num": 384429,
+        "word": "山东一学校校服被质疑像寿衣",
+        "onboard_time": 1700025453,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635461,
+        "num": 384136,
+        "word": "以色列",
+        "onboard_time": 1700023415,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 493839,
+        "num": 383180,
+        "word": "爱奇艺尖叫之夜第二波阵容",
+        "onboard_time": 1700021555,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420317,
+        "num": 381844,
+        "word": "中大回应特困生用苹果四件套",
+        "onboard_time": 1700025573,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381620,
+        "num": 381620,
+        "word": "大闸蟹跌破10元",
+        "onboard_time": 1700020533,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371313,
+        "num": 371313,
+        "word": "新乡教育局回应被指毁约40余名应届生",
+        "onboard_time": 1700022875,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 347720,
+        "num": 347720,
+        "word": "我可以47 运动场巅峰的女性",
+        "onboard_time": 1700023597,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338346,
+        "num": 338346,
+        "word": "花少5 后期",
+        "onboard_time": 1700024557,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297181,
+        "num": 297181,
+        "word": "易烊千玺羞答答的玫瑰彩排vlog",
+        "onboard_time": 1700024677,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254022,
+        "num": 254022,
+        "word": "傅盛发文怒怼王自如",
+        "onboard_time": 1700017171,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244299,
+        "num": 244299,
+        "word": "阴阳师 非还是欧",
+        "onboard_time": 1700023836,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345106,
+        "num": 238662,
+        "word": "迪丽热巴卡其色穿搭",
+        "onboard_time": 1700025156,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291221,
+        "num": 237481,
+        "word": "快乐老友记",
+        "onboard_time": 1700019992,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224258,
+        "num": 224258,
+        "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+        "onboard_time": 1700011893,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208886,
+        "num": 208886,
+        "word": "光腿神器被嘲现代刑具",
+        "onboard_time": 1700004445,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 198673,
+        "num": 198673,
+        "word": "幽门螺杆菌是如何养成的",
+        "onboard_time": 1700023356,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166969,
+        "num": 187488,
+        "word": "地震局称鸭绿江水冒泡与地震无关",
+        "onboard_time": 1700024316,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183857,
+        "num": 183857,
+        "word": "虔诚的拜佛小猫",
+        "onboard_time": 1700025036,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180723,
+        "num": 180723,
+        "word": "李相夷 无法超越的传奇",
+        "onboard_time": 1700016869,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178633,
+        "num": 178633,
+        "word": "陈伟霆终于演疯批了",
+        "onboard_time": 1700020055,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165851,
+        "num": 165851,
+        "word": "勇士森林狼冲突",
+        "onboard_time": 1700018972,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165496,
+        "num": 165496,
+        "word": "办房贷一定需要结清证明吗",
+        "onboard_time": 1700022938,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158510,
+        "num": 158510,
+        "word": "陈都灵文潇跳舞路透",
+        "onboard_time": 1700025875,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155972,
+        "num": 155972,
+        "word": "四川通报摩崖造像被涂色",
+        "onboard_time": 1700021315,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 147259,
+        "num": 147259,
+        "word": "三只大橘天天陪大爷钓鱼排队等投喂",
+        "onboard_time": 1700025395,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146112,
+        "num": 146112,
+        "word": "短剧正利用人性下坠的力量赚钱",
+        "onboard_time": 1700026053,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142625,
+        "num": 142625,
+        "word": "姜雪宁 遗憾不能爱你",
+        "onboard_time": 1700025992,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138773,
+        "num": 138773,
+        "word": "谈恋爱还是得看港姐",
+        "onboard_time": 1700025156,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138441,
+        "num": 138441,
+        "word": "韩国人评东北大学生现状",
+        "onboard_time": 1700005409,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134986,
+        "num": 134986,
+        "word": "4家彩票店花式送锦旗民警绷不住了",
+        "onboard_time": 1700023655,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124772,
+        "num": 124772,
+        "word": "谢危的爱 极致荼靡感",
+        "onboard_time": 1700023356,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 121993,
+        "word": "赵丽颖雪祭司妆容解析",
+        "onboard_time": 1700019451,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 120171,
+        "num": 120171,
+        "word": "韩国游客为看福宝排队数小时",
+        "onboard_time": 1700017411,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117853,
+        "num": 117853,
+        "word": "在西安坐地铁坐出了炕的感觉",
+        "onboard_time": 1700014472,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117095,
+        "num": 117095,
+        "word": "谢危终于发疯了",
+        "onboard_time": 1700010516,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112199,
+        "num": 112199,
+        "word": "华人华侨在旧金山组成欢迎人群",
+        "onboard_time": 1700003363,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109970,
+        "num": 109970,
+        "word": "7岁女孩将随意涂鸦作成画",
+        "onboard_time": 1700019031,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}
