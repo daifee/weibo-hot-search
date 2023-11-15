@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700022881088,
+  "endTime": 1700025405141,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1561570,
-      "num": 534277,
+      "num": 543634,
       "word": "没演技的流量男星 没角色的女演员",
       "onboard_time": 1700019812,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1486554,
+      "num": 1486554,
+      "word": "缉毒警为了卧底10天减重25斤",
+      "onboard_time": 1700021853,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447785,
@@ -49,6 +57,14 @@
       "onboard_time": 1699963591,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1435912,
+      "num": 765325,
+      "word": "左肩有你 正片",
+      "onboard_time": 1700022155,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1228856,
@@ -81,6 +97,14 @@
       "onboard_time": 1699975715,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1017567,
+      "num": 1017567,
+      "word": "陈采尼分析迪丽热巴红毯造型",
+      "onboard_time": 1700024195,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 931520,
@@ -131,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 808325,
+      "num": 808325,
+      "word": "肖战 爱奇艺尖叫之夜",
+      "onboard_time": 1700023116,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 800813,
       "num": 362732,
       "word": "疯是上午发的人是下午走的",
@@ -139,11 +171,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 765325,
-      "num": 765325,
-      "word": "左肩有你 正片",
-      "onboard_time": 1700022155,
-      "rank": 4,
+      "raw_hot": 784892,
+      "num": 784892,
+      "word": "家有儿女 清醒小女孩",
+      "onboard_time": 1700023775,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -235,6 +267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 542183,
+      "num": 542183,
+      "word": "以色列",
+      "onboard_time": 1700023415,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 539507,
       "num": 539507,
       "word": "胡彦斌问Melody小镇姑娘写的是谁",
@@ -281,6 +321,14 @@
       "onboard_time": 1700020055,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 474337,
+      "num": 474337,
+      "word": "新乡教育局回应被指毁约40余名应届生",
+      "onboard_time": 1700022875,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 472611,
@@ -339,11 +387,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 395581,
+      "num": 395581,
+      "word": "我可以47 运动场巅峰的女性",
+      "onboard_time": 1700023597,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387140,
       "num": 387140,
       "word": "程潇朱正廷翻跳亚超主题曲",
       "onboard_time": 1700017352,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344592,
+      "num": 315916,
+      "word": "花少5 后期",
+      "onboard_time": 1700024557,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -355,12 +419,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 333732,
-      "num": 567801,
-      "word": "缉毒警为了卧底10天减重25斤",
-      "onboard_time": 1700021853,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 339603,
+      "num": 1151483,
+      "word": "湖人灰熊冲突",
+      "onboard_time": 1700024499,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 332250,
@@ -395,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 282437,
+      "num": 556220,
+      "word": "阴阳师 非还是欧",
+      "onboard_time": 1700023836,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279983,
       "num": 230960,
       "word": "以色列总统之子在加沙地带战斗中失联",
@@ -425,6 +497,14 @@
       "onboard_time": 1700005048,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271095,
+      "num": 271095,
+      "word": "易烊千玺羞答答的玫瑰彩排vlog",
+      "onboard_time": 1700024677,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259952,
@@ -473,6 +553,14 @@
       "onboard_time": 1700008657,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246091,
+      "num": 246091,
+      "word": "幽门螺杆菌是如何养成的",
+      "onboard_time": 1700023356,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240242,
@@ -603,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210381,
+      "num": 210381,
+      "word": "4家彩票店花式送锦旗民警绷不住了",
+      "onboard_time": 1700023655,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206939,
       "num": 195699,
       "word": "如何让手机变得更可靠",
@@ -625,6 +721,14 @@
       "onboard_time": 1700018612,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "迪丽热巴卡其色穿搭",
+      "onboard_time": 1700025156,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 202519,
@@ -675,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191987,
+      "num": 191987,
+      "word": "地震局称鸭绿江水冒泡与地震无关",
+      "onboard_time": 1700024316,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184803,
       "num": 184803,
       "word": "郭敬明晒侯明昊田嘉瑞剧照",
@@ -697,6 +809,22 @@
       "onboard_time": 1699971157,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178584,
+      "num": 178584,
+      "word": "虔诚的拜佛小猫",
+      "onboard_time": 1700025036,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176891,
+      "num": 176891,
+      "word": "谢危的爱 极致荼靡感",
+      "onboard_time": 1700023356,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176841,
@@ -785,6 +913,14 @@
       "onboard_time": 1700013991,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160559,
+      "num": 160559,
+      "word": "NBA",
+      "onboard_time": 1700024916,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160094,
@@ -899,12 +1035,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139946,
+      "num": 139946,
+      "word": "克莱追梦被驱逐",
+      "onboard_time": 1700024916,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138947,
       "num": 138947,
       "word": "谷爱凌来了都得说滑得好",
       "onboard_time": 1700010573,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135601,
+      "num": 135601,
+      "word": "办房贷一定需要结清证明吗",
+      "onboard_time": 1700022938,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 133416,
@@ -947,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "伊能静万茜居然是闺蜜",
+      "onboard_time": 1700025334,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130401,
       "num": 130401,
       "word": "这就是90后父母的起名方式吗",
@@ -961,6 +1121,14 @@
       "onboard_time": 1700021975,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125181,
+      "num": 125181,
+      "word": "谈恋爱还是得看港姐",
+      "onboard_time": 1700025156,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124485,
@@ -1059,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112716,
+      "num": 112716,
+      "word": "三只大橘天天陪大爷钓鱼排队等投喂",
+      "onboard_time": 1700025395,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "周到 你们要的莎",
@@ -1076,7 +1252,7 @@
     },
     {
       "raw_hot": 108856,
-      "num": 812722,
+      "num": 1066792,
       "word": "关于APEC的知识点",
       "onboard_time": 1700018433,
       "rank": 2,

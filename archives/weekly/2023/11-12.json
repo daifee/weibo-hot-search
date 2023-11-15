@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700022881088,
+  "endTime": 1700025405141,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1561570,
-      "num": 534277,
+      "num": 543634,
       "word": "没演技的流量男星 没角色的女演员",
       "onboard_time": 1700019812,
       "rank": 11,
@@ -411,6 +411,14 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 1486554,
+      "num": 1486554,
+      "word": "缉毒警为了卧底10天减重25斤",
+      "onboard_time": 1700021853,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1450098,
       "num": 1003174,
       "word": "红米发文道歉",
@@ -425,6 +433,14 @@
       "onboard_time": 1699886735,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1435912,
+      "num": 765325,
+      "word": "左肩有你 正片",
+      "onboard_time": 1700022155,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1398092,
@@ -811,6 +827,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1017567,
+      "num": 1017567,
+      "word": "陈采尼分析迪丽热巴红毯造型",
+      "onboard_time": 1700024195,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1015712,
       "num": 451350,
       "word": "缅甸电诈家族遭打击后大批交人",
@@ -1163,6 +1187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 808325,
+      "num": 808325,
+      "word": "肖战 爱奇艺尖叫之夜",
+      "onboard_time": 1700023116,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 800813,
       "num": 362732,
       "word": "疯是上午发的人是下午走的",
@@ -1211,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 784892,
+      "num": 784892,
+      "word": "家有儿女 清醒小女孩",
+      "onboard_time": 1700023775,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 775491,
       "num": 775491,
       "word": "七宗罪PDF当事人方某已去世",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1699953213,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 765325,
-      "num": 765325,
-      "word": "左肩有你 正片",
-      "onboard_time": 1700022155,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 761960,
@@ -1971,6 +2003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 542183,
+      "num": 542183,
+      "word": "以色列",
+      "onboard_time": 1700023415,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 539507,
       "num": 539507,
       "word": "胡彦斌问Melody小镇姑娘写的是谁",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1699716517,
       "rank": 7,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 474337,
+      "num": 474337,
+      "word": "新乡教育局回应被指毁约40余名应届生",
+      "onboard_time": 1700022875,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 473881,
@@ -2931,6 +2979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 395581,
+      "num": 395581,
+      "word": "我可以47 运动场巅峰的女性",
+      "onboard_time": 1700023597,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395231,
       "num": 395231,
       "word": "三明治定妆法",
@@ -3283,6 +3339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344592,
+      "num": 315916,
+      "word": "花少5 后期",
+      "onboard_time": 1700024557,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343963,
       "num": 343963,
       "word": "普尔耍大牌",
@@ -3323,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339603,
+      "num": 1151483,
+      "word": "湖人灰熊冲突",
+      "onboard_time": 1700024499,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339566,
       "num": 339566,
       "word": "宋慧乔将出演电影黑色修女们",
@@ -3353,14 +3425,6 @@
       "onboard_time": 1699973075,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333732,
-      "num": 567801,
-      "word": "缉毒警为了卧底10天减重25斤",
-      "onboard_time": 1700021853,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333130,
@@ -3979,6 +4043,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 282437,
+      "num": 556220,
+      "word": "阴阳师 非还是欧",
+      "onboard_time": 1700023836,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282232,
       "num": 282232,
       "word": "新闻女王定档",
@@ -4153,6 +4225,14 @@
       "onboard_time": 1699793976,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271095,
+      "num": 271095,
+      "word": "易烊千玺羞答答的玫瑰彩排vlog",
+      "onboard_time": 1700024677,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271041,
@@ -4569,6 +4649,14 @@
       "onboard_time": 1699783949,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246091,
+      "num": 246091,
+      "word": "幽门螺杆菌是如何养成的",
+      "onboard_time": 1700023356,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245568,
@@ -5323,6 +5411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210381,
+      "num": 210381,
+      "word": "4家彩票店花式送锦旗民警绷不住了",
+      "onboard_time": 1700023655,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210266,
       "num": 210266,
       "word": "赵丽颖朦胧水光妆",
@@ -5473,6 +5569,14 @@
       "onboard_time": 1699968756,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "迪丽热巴卡其色穿搭",
+      "onboard_time": 1700025156,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 204195,
@@ -5891,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191987,
+      "num": 191987,
+      "word": "地震局称鸭绿江水冒泡与地震无关",
+      "onboard_time": 1700024316,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191882,
       "num": 160428,
       "word": "笙笙给明星拍的宝丽来",
@@ -6283,6 +6395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178584,
+      "num": 178584,
+      "word": "虔诚的拜佛小猫",
+      "onboard_time": 1700025036,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177816,
       "num": 177816,
       "word": "非凡医者定档",
@@ -6337,6 +6457,14 @@
       "onboard_time": 1699929392,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 176891,
+      "num": 176891,
+      "word": "谢危的爱 极致荼靡感",
+      "onboard_time": 1700023356,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176841,
@@ -6993,6 +7121,14 @@
       "onboard_time": 1699932211,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160559,
+      "num": 160559,
+      "word": "NBA",
+      "onboard_time": 1700024916,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160203,
@@ -7667,6 +7803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139946,
+      "num": 139946,
+      "word": "克莱追梦被驱逐",
+      "onboard_time": 1700024916,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139911,
       "num": 151819,
       "word": "T1 作业好抄",
@@ -7785,6 +7929,14 @@
       "onboard_time": 1699770452,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135601,
+      "num": 135601,
+      "word": "办房贷一定需要结清证明吗",
+      "onboard_time": 1700022938,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 134708,
@@ -7921,6 +8073,14 @@
       "onboard_time": 1699869934,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "伊能静万茜居然是闺蜜",
+      "onboard_time": 1700025334,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131060,
@@ -8121,6 +8281,14 @@
       "onboard_time": 1699866754,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 125181,
+      "num": 125181,
+      "word": "谈恋爱还是得看港姐",
+      "onboard_time": 1700025156,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124591,
@@ -8563,6 +8731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112716,
+      "num": 112716,
+      "word": "三只大橘天天陪大爷钓鱼排队等投喂",
+      "onboard_time": 1700025395,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112643,
       "num": 1474381,
       "word": "高铁列车过站自带特效",
@@ -8652,7 +8828,7 @@
     },
     {
       "raw_hot": 108856,
-      "num": 812722,
+      "num": 1066792,
       "word": "关于APEC的知识点",
       "onboard_time": 1700018433,
       "rank": 2,

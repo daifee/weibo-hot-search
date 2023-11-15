@@ -1,0 +1,410 @@
+{
+  "runTime": 1700025405141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486554,
+        "num": 1486554,
+        "word": "缉毒警为了卧底10天减重25斤",
+        "onboard_time": 1700021853,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339603,
+        "num": 1151483,
+        "word": "湖人灰熊冲突",
+        "onboard_time": 1700024499,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74173,
+        "num": 1066792,
+        "word": "关于APEC的知识点",
+        "onboard_time": 1700018433,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1017567,
+        "num": 1017567,
+        "word": "陈采尼分析迪丽热巴红毯造型",
+        "onboard_time": 1700024195,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 808325,
+        "num": 808325,
+        "word": "肖战 爱奇艺尖叫之夜",
+        "onboard_time": 1700023116,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 784892,
+        "num": 784892,
+        "word": "家有儿女 清醒小女孩",
+        "onboard_time": 1700023775,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563702,
+        "num": 563702,
+        "word": "头发到底多久洗一次好",
+        "onboard_time": 1700019392,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 454980,
+        "num": 563088,
+        "word": "周杰伦预告12月新单曲",
+        "onboard_time": 1700021193,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419593,
+        "num": 556623,
+        "word": "快乐老友记",
+        "onboard_time": 1700019992,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282437,
+        "num": 556220,
+        "word": "阴阳师 非还是欧",
+        "onboard_time": 1700023836,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1490830,
+        "num": 551873,
+        "word": "伊能静儿子用三年时间读完四年的大学",
+        "onboard_time": 1700019933,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1435912,
+        "num": 546855,
+        "word": "左肩有你 正片",
+        "onboard_time": 1700022155,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1125733,
+        "num": 543634,
+        "word": "没演技的流量男星 没角色的女演员",
+        "onboard_time": 1700019812,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542183,
+        "num": 542183,
+        "word": "以色列",
+        "onboard_time": 1700023415,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 533008,
+        "num": 533008,
+        "word": "大闸蟹跌破10元",
+        "onboard_time": 1700020533,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 679362,
+        "num": 520973,
+        "word": "爱奇艺尖叫之夜第二波阵容",
+        "onboard_time": 1700021555,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474337,
+        "num": 474337,
+        "word": "新乡教育局回应被指毁约40余名应届生",
+        "onboard_time": 1700022875,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 395581,
+        "num": 395581,
+        "word": "我可以47 运动场巅峰的女性",
+        "onboard_time": 1700023597,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336575,
+        "num": 336575,
+        "word": "傅盛发文怒怼王自如",
+        "onboard_time": 1700017171,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321637,
+        "num": 321637,
+        "word": "经纪人回应网传艺人为缅北电诈家族庆生",
+        "onboard_time": 1700011893,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344592,
+        "num": 315916,
+        "word": "花少5 后期",
+        "onboard_time": 1700024557,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281493,
+        "num": 281493,
+        "word": "四川通报摩崖造像被涂色",
+        "onboard_time": 1700021315,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 274860,
+        "num": 274860,
+        "word": "光腿神器被嘲现代刑具",
+        "onboard_time": 1700004445,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 271095,
+        "num": 271095,
+        "word": "易烊千玺羞答答的玫瑰彩排vlog",
+        "onboard_time": 1700024677,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250592,
+        "num": 250592,
+        "word": "勇士森林狼冲突",
+        "onboard_time": 1700018972,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246430,
+        "num": 246430,
+        "word": "李相夷 无法超越的传奇",
+        "onboard_time": 1700016869,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246091,
+        "num": 246091,
+        "word": "幽门螺杆菌是如何养成的",
+        "onboard_time": 1700023356,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244299,
+        "num": 244299,
+        "word": "陈伟霆终于演疯批了",
+        "onboard_time": 1700020055,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221869,
+        "num": 221869,
+        "word": "中美元首会晤",
+        "onboard_time": 1699963591,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210381,
+        "num": 210381,
+        "word": "4家彩票店花式送锦旗民警绷不住了",
+        "onboard_time": 1700023655,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206010,
+        "num": 206010,
+        "word": "韩国人评东北大学生现状",
+        "onboard_time": 1700005409,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204271,
+        "num": 204271,
+        "word": "迪丽热巴卡其色穿搭",
+        "onboard_time": 1700025156,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191987,
+        "num": 191987,
+        "word": "地震局称鸭绿江水冒泡与地震无关",
+        "onboard_time": 1700024316,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178584,
+        "num": 178584,
+        "word": "虔诚的拜佛小猫",
+        "onboard_time": 1700025036,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176891,
+        "num": 176891,
+        "word": "谢危的爱 极致荼靡感",
+        "onboard_time": 1700023356,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160559,
+        "num": 160559,
+        "word": "NBA",
+        "onboard_time": 1700024916,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152363,
+        "num": 152363,
+        "word": "赵丽颖雪祭司妆容解析",
+        "onboard_time": 1700019451,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 149614,
+        "num": 149614,
+        "word": "在西安坐地铁坐出了炕的感觉",
+        "onboard_time": 1700014472,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146409,
+        "num": 146409,
+        "word": "谢危终于发疯了",
+        "onboard_time": 1700010516,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141369,
+        "num": 141369,
+        "word": "韩国游客为看福宝排队数小时",
+        "onboard_time": 1700017411,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 139946,
+        "word": "克莱追梦被驱逐",
+        "onboard_time": 1700024916,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135601,
+        "num": 135601,
+        "word": "办房贷一定需要结清证明吗",
+        "onboard_time": 1700022938,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131193,
+        "num": 131193,
+        "word": "伊能静万茜居然是闺蜜",
+        "onboard_time": 1700025334,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130386,
+        "num": 130386,
+        "word": "华人华侨在旧金山组成欢迎人群",
+        "onboard_time": 1700003363,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129585,
+        "num": 129585,
+        "word": "苏醒官宣加盟脑力综艺",
+        "onboard_time": 1700021254,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127027,
+        "num": 127027,
+        "word": "7岁女孩将随意涂鸦作成画",
+        "onboard_time": 1700019031,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125181,
+        "num": 125181,
+        "word": "谈恋爱还是得看港姐",
+        "onboard_time": 1700025156,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120065,
+        "num": 120065,
+        "word": "藿藿",
+        "onboard_time": 1700017953,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112716,
+        "num": 112716,
+        "word": "三只大橘天天陪大爷钓鱼排队等投喂",
+        "onboard_time": 1700025395,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112693,
+        "num": 112693,
+        "word": "文俊辉联合国中文演讲发言",
+        "onboard_time": 1700016691,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}
