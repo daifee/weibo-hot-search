@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700048058958,
+  "endTime": 1700051662342,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -515,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1397357,
+      "num": 416635,
+      "word": "原来迪丽热巴一直是素颜",
+      "onboard_time": 1700048671,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1389496,
       "num": 1389496,
       "word": "苹果公司将禁止摇一摇跳转广告",
@@ -625,6 +633,14 @@
       "onboard_time": 1699782213,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1279349,
+      "num": 411994,
+      "word": "小杨哥演唱会成本超3000万",
+      "onboard_time": 1700048250,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1277957,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1699704938,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 821080,
+      "num": 398259,
+      "word": "程潇三角巾抹胸",
+      "onboard_time": 1700048497,
+      "rank": 11,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 816799,
@@ -2035,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 605786,
+      "num": 408842,
+      "word": "海底捞回应试点调整份量和价格",
+      "onboard_time": 1700046872,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 604877,
       "num": 603673,
       "word": "快乐老友记",
@@ -2076,7 +2108,7 @@
     },
     {
       "raw_hot": 592784,
-      "num": 369811,
+      "num": 395947,
       "word": "赵露思新发型",
       "onboard_time": 1700045555,
       "rank": 20,
@@ -3275,6 +3307,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 402786,
+      "num": 402786,
+      "word": "刘亦菲吻镜子",
+      "onboard_time": 1700048554,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 401503,
+      "num": 262408,
+      "word": "张晚意王楚然都营业了",
+      "onboard_time": 1700051255,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398587,
       "num": 398587,
       "word": "他谈恋爱她谈天下",
@@ -3384,6 +3432,14 @@
       "word": "程潇朱正廷翻跳亚超主题曲",
       "onboard_time": 1700017352,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386213,
+      "num": 386213,
+      "word": "辛芷蕾人设还没立就崩了",
+      "onboard_time": 1700049514,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -3523,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 367831,
+      "num": 367831,
+      "word": "罗海琼回应变老",
+      "onboard_time": 1700046573,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365134,
       "num": 365134,
       "word": "陈奕迅认识李荣浩也是靠朋友拉群",
@@ -3601,14 +3665,6 @@
       "onboard_time": 1699858294,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358541,
-      "num": 358541,
-      "word": "罗海琼回应变老",
-      "onboard_time": 1700046573,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 358283,
@@ -4811,14 +4867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268398,
-      "num": 268398,
-      "word": "海底捞回应试点调整份量和价格",
-      "onboard_time": 1700046872,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 268215,
       "num": 268215,
       "word": "张遮是姜雪宁的第一选择",
@@ -5187,6 +5235,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 249182,
+      "num": 249182,
+      "word": "2024年春节档有多值得期待",
+      "onboard_time": 1700049870,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248494,
       "num": 340955,
       "word": "老板娘送1箱奶茶感谢民警追回20元",
@@ -5377,6 +5433,14 @@
       "onboard_time": 1699952797,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238154,
+      "num": 238154,
+      "word": "拜托她可是中岛美嘉",
+      "onboard_time": 1700050233,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 237704,
@@ -6867,6 +6931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187888,
+      "num": 187888,
+      "word": "这是我清汤寡水20集应得的",
+      "onboard_time": 1700049452,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187683,
       "num": 187683,
       "word": "安溥时寐青岛站官宣",
@@ -6905,6 +6977,14 @@
       "onboard_time": 1699857032,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 186391,
+      "num": 186391,
+      "word": "秋冬一定要坚持揉腹",
+      "onboard_time": 1700051373,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186382,
@@ -6985,6 +7065,14 @@
       "onboard_time": 1699952734,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184910,
+      "num": 263371,
+      "word": "野生大熊猫5天4次同一地点喝水",
+      "onboard_time": 1700048497,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184875,
@@ -7619,6 +7707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168689,
+      "num": 168689,
+      "word": "金珉奎封面",
+      "onboard_time": 1700048973,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168643,
       "num": 168643,
       "word": "张杰用女儿的名字命名麦克风",
@@ -7649,6 +7745,14 @@
       "onboard_time": 1699781129,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167260,
+      "num": 413634,
+      "word": "美国高中老师说中美合作对所有人都好",
+      "onboard_time": 1700050595,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166940,
@@ -7985,6 +8089,14 @@
       "onboard_time": 1699863934,
       "rank": 31,
       "category": "社会新闻,剧集"
+    },
+    {
+      "raw_hot": 159759,
+      "num": 159759,
+      "word": "杨鸣领取总冠军戒指",
+      "onboard_time": 1700049814,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 159752,
@@ -8403,6 +8515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147560,
+      "num": 147560,
+      "word": "天官赐福",
+      "onboard_time": 1700051612,
+      "rank": 44,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 147405,
       "num": 147405,
       "word": "火箭六连胜",
@@ -8449,6 +8569,14 @@
       "onboard_time": 1699924413,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146759,
+      "num": 146759,
+      "word": "咒术回战 jjxx到底在画啥",
+      "onboard_time": 1700051495,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 146664,
@@ -10531,6 +10659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34956,
+      "num": 420975,
+      "word": "中国刷新亚洲最深井纪录",
+      "onboard_time": 1700051495,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34391,
       "num": 964169,
       "word": "聚焦中国经济圆桌会",
@@ -10649,6 +10785,14 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9918,
+      "num": 132576,
+      "word": "共创共享亚太和世界更加美好的未来",
+      "onboard_time": 1700038174,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
