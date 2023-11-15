@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700079555461,
+  "endTime": 1700080470240,
   "band_list": [
     {
       "raw_hot": 995571,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314700,
+      "num": 314700,
+      "word": "中美元首时隔1年再次面对面会晤",
+      "onboard_time": 1700077334,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 301435,
       "num": 301435,
       "word": "王安宇能不能哭想看",
@@ -119,14 +127,6 @@
       "num": 295110,
       "word": "中美元首旧金山会晤正式开始",
       "onboard_time": 1700076553,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 280281,
-      "num": 280281,
-      "word": "中美元首时隔1年再次面对面会晤",
-      "onboard_time": 1700077334,
       "rank": 1,
       "category": "国内时政"
     },
@@ -491,7 +491,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 12162,
+      "raw_hot": 12224,
       "num": 14036,
       "word": "谢娜蔡少芬综艺合体",
       "onboard_time": 1700078414,
@@ -499,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10472,
+      "raw_hot": 11337,
       "num": 13983,
       "word": "intp 宇宙宁古塔",
       "onboard_time": 1700078593,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10706,
+      "num": 11256,
+      "word": "杨幂EP13来了",
+      "onboard_time": 1700080333,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 5287,
@@ -515,8 +523,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4736,
-      "num": 124805,
+      "raw_hot": 5206,
+      "num": 158109,
       "word": "共同构建亚太命运共同体",
       "onboard_time": 1700038234,
       "rank": 2,

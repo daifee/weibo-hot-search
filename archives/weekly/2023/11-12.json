@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700079555461,
+  "endTime": 1700080470240,
   "band_list": [
     {
       "raw_hot": 7233927,
@@ -4315,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314700,
+      "num": 314700,
+      "word": "中美元首时隔1年再次面对面会晤",
+      "onboard_time": 1700077334,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 314247,
       "num": 314247,
       "word": "王鹤棣 你们好六团孤立嘉宾",
@@ -4913,14 +4921,6 @@
       "onboard_time": 1699939415,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280281,
-      "num": 280281,
-      "word": "中美元首时隔1年再次面对面会晤",
-      "onboard_time": 1700077334,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 279775,
@@ -11355,7 +11355,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 12162,
+      "raw_hot": 12224,
       "num": 14036,
       "word": "谢娜蔡少芬综艺合体",
       "onboard_time": 1700078414,
@@ -11363,12 +11363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10472,
+      "raw_hot": 11337,
       "num": 13983,
       "word": "intp 宇宙宁古塔",
       "onboard_time": 1700078593,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10706,
+      "num": 11256,
+      "word": "杨幂EP13来了",
+      "onboard_time": 1700080333,
+      "rank": 48,
+      "category": "艺人,时尚"
     }
   ],
   "hotgov_list": [
