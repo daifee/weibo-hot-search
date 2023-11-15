@@ -1,0 +1,410 @@
+{
+  "runTime": 1700061551825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 52673,
+        "num": 565249,
+        "word": "中美元首旧金山会晤",
+        "onboard_time": 1700004143,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287615,
+        "num": 559945,
+        "word": "顺其自然25年捐款1577万",
+        "onboard_time": 1700043155,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10700,
+        "num": 556096,
+        "word": "共创共享亚太和世界更加美好的未来",
+        "onboard_time": 1700038174,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 955822,
+        "num": 549310,
+        "word": "大约40%的癌症可以避免",
+        "onboard_time": 1700056235,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 955200,
+        "num": 538777,
+        "word": "原来迪丽热巴一直是素颜",
+        "onboard_time": 1700048671,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688166,
+        "num": 532674,
+        "word": "罗翔 不要带有知识的优越感",
+        "onboard_time": 1700057615,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529882,
+        "num": 529882,
+        "word": "小杨哥演唱会成本超3000万",
+        "onboard_time": 1700048250,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 503503,
+        "num": 503503,
+        "word": "何炅见证了多少人的成长",
+        "onboard_time": 1700056959,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393808,
+        "num": 393808,
+        "word": "白鹿张凌赫交杯吃饭团",
+        "onboard_time": 1700058577,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333034,
+        "num": 333034,
+        "word": "辛芷蕾人设还没立就崩了",
+        "onboard_time": 1700049514,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1301139,
+        "num": 332870,
+        "word": "男女关系永远不要把男性放在第一位",
+        "onboard_time": 1700057138,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 908221,
+        "num": 332473,
+        "word": "农妇手指受伤被转到私立医院术后身亡",
+        "onboard_time": 1700056296,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569759,
+        "num": 332160,
+        "word": "桂林一大巴车侧翻致2死6伤",
+        "onboard_time": 1700059294,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497813,
+        "num": 331992,
+        "word": "程潇三角巾抹胸",
+        "onboard_time": 1700048497,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 378001,
+        "num": 331711,
+        "word": "刘亦菲彭冠英亲出声了",
+        "onboard_time": 1700042374,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331508,
+        "num": 331508,
+        "word": "杨幂翡翠耳坠",
+        "onboard_time": 1700058397,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322013,
+        "num": 322013,
+        "word": "缅北边境避难道路一度拥堵",
+        "onboard_time": 1700060018,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310639,
+        "num": 310639,
+        "word": "赵昭仪花少合照P上了迪丽热巴",
+        "onboard_time": 1700055816,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302585,
+        "num": 302585,
+        "word": "这居然是卷发器",
+        "onboard_time": 1700059356,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 252221,
+        "num": 301129,
+        "word": "麦当劳回应牛奶一杯23元",
+        "onboard_time": 1700038956,
+        "rank": 19,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1696260,
+        "num": 301078,
+        "word": "女子孕期遭强奸引产后丈夫要求退彩礼",
+        "onboard_time": 1700059356,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299856,
+        "num": 299856,
+        "word": "宁安如梦女三",
+        "onboard_time": 1700052216,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278071,
+        "num": 278071,
+        "word": "赵露思新发型",
+        "onboard_time": 1700045555,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 224437,
+        "num": 257800,
+        "word": "跟爱人一起入眠睡眠质量会更好",
+        "onboard_time": 1700058216,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198869,
+        "num": 256599,
+        "word": "她居然可以自己做马面裙",
+        "onboard_time": 1700060975,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 256184,
+        "num": 256184,
+        "word": "三浦德子去世",
+        "onboard_time": 1700052033,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234271,
+        "num": 234271,
+        "word": "刘亦菲头像大户上新了",
+        "onboard_time": 1700058817,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137120,
+        "num": 231385,
+        "word": "野生大熊猫5天4次同一地点喝水",
+        "onboard_time": 1700048497,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132477,
+        "num": 230177,
+        "word": "赵睿比赛",
+        "onboard_time": 1700058996,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96641,
+        "num": 230059,
+        "word": "大熊猫渝爱毛毛虫式蛄蛹下树",
+        "onboard_time": 1700057615,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230024,
+        "num": 230024,
+        "word": "老刘对傅首尔说我很爱你",
+        "onboard_time": 1700060557,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226669,
+        "num": 226669,
+        "word": "TFBOYS待映新片都是科幻片",
+        "onboard_time": 1700051793,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209955,
+        "num": 209955,
+        "word": "杨幂卡其色穿搭",
+        "onboard_time": 1700054795,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 204183,
+        "num": 204183,
+        "word": "怀疑这家幼儿园没有做饭师傅",
+        "onboard_time": 1700060914,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174176,
+        "num": 198509,
+        "word": "天官赐福",
+        "onboard_time": 1700051612,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 195429,
+        "num": 195429,
+        "word": "河边的错误票房逆跌",
+        "onboard_time": 1700060855,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183662,
+        "num": 183662,
+        "word": "无限回购的好用润唇膏",
+        "onboard_time": 1700061397,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173081,
+        "num": 173081,
+        "word": "李光洙 guilty challenge元祖",
+        "onboard_time": 1700059114,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159251,
+        "num": 159251,
+        "word": "安小鸟拔舌妆",
+        "onboard_time": 1700061276,
+        "rank": 38,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 94116,
+        "num": 159074,
+        "word": "美国高中老师说中美合作对所有人都好",
+        "onboard_time": 1700050595,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159035,
+        "num": 159035,
+        "word": "白鹿的出道作品是陆虎的留言",
+        "onboard_time": 1700055397,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158613,
+        "num": 158613,
+        "word": "兰州拉面都得尊称一声前辈",
+        "onboard_time": 1700060855,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138301,
+        "num": 138301,
+        "word": "赵昭仪情绪崩溃躲起来哭",
+        "onboard_time": 1700052700,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135490,
+        "num": 135490,
+        "word": "张晚意王楚然都营业了",
+        "onboard_time": 1700051255,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132760,
+        "num": 132760,
+        "word": "宁艺卓李咏知drama挑战",
+        "onboard_time": 1700058577,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132564,
+        "num": 132564,
+        "word": "陈坤 我发小",
+        "onboard_time": 1700043396,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132119,
+        "num": 132119,
+        "word": "SEVENTEEN捐赠以成员命名的山羊",
+        "onboard_time": 1700057258,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126853,
+        "num": 126853,
+        "word": "医生提醒逍遥丸不要自行乱服",
+        "onboard_time": 1700044533,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66711,
+        "num": 118608,
+        "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
+        "onboard_time": 1700035175,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50032,
+        "num": 113188,
+        "word": "新娘爸爸的叮嘱搞笑又感人",
+        "onboard_time": 1700061515,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达美国旧金山#"
+    }
+  }
+}
