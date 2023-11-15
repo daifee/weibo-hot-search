@@ -1,6 +1,6 @@
 {
   "startTime": 1699978776709,
-  "endTime": 1700051662342,
+  "endTime": 1700052637100,
   "band_list": [
     {
       "raw_hot": 2325083,
@@ -107,6 +107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1484225,
+      "num": 416635,
+      "word": "原来迪丽热巴一直是素颜",
+      "onboard_time": 1700048671,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1447785,
       "num": 1447785,
       "word": "中美元首会晤",
@@ -129,14 +137,6 @@
       "onboard_time": 1700025453,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1397357,
-      "num": 416635,
-      "word": "原来迪丽热巴一直是素颜",
-      "onboard_time": 1700048671,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1363730,
@@ -243,6 +243,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 898024,
+      "num": 398259,
+      "word": "程潇三角巾抹胸",
+      "onboard_time": 1700048497,
+      "rank": 11,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 894632,
       "num": 495367,
       "word": "傅盛发文怒怼王自如",
@@ -275,12 +283,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 821080,
-      "num": 398259,
-      "word": "程潇三角巾抹胸",
-      "onboard_time": 1700048497,
-      "rank": 11,
-      "category": "综艺,时尚"
+      "raw_hot": 820390,
+      "num": 408842,
+      "word": "海底捞回应试点调整份量和价格",
+      "onboard_time": 1700046872,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 816736,
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605786,
-      "num": 408842,
-      "word": "海底捞回应试点调整份量和价格",
-      "onboard_time": 1700046872,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 604877,
       "num": 603673,
       "word": "快乐老友记",
@@ -619,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 481492,
+      "num": 386213,
+      "word": "辛芷蕾人设还没立就崩了",
+      "onboard_time": 1700049514,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474337,
       "num": 474337,
       "word": "新乡教育局回应被指毁约40余名应届生",
@@ -641,6 +649,14 @@
       "onboard_time": 1700010872,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454738,
+      "num": 367746,
+      "word": "天官赐福",
+      "onboard_time": 1700051612,
+      "rank": 44,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 447054,
@@ -673,6 +689,14 @@
       "onboard_time": 1700010516,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436083,
+      "num": 337716,
+      "word": "TFBOYS待映新片都是科幻片",
+      "onboard_time": 1700051793,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 433586,
@@ -731,6 +755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 409754,
+      "num": 265356,
+      "word": "张晚意王楚然都营业了",
+      "onboard_time": 1700051255,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405507,
       "num": 405507,
       "word": "糖尿病前期无明显症状极易被忽视",
@@ -744,14 +776,6 @@
       "word": "刘亦菲吻镜子",
       "onboard_time": 1700048554,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 401503,
-      "num": 262408,
-      "word": "张晚意王楚然都营业了",
-      "onboard_time": 1700051255,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -784,14 +808,6 @@
       "word": "程潇朱正廷翻跳亚超主题曲",
       "onboard_time": 1700017352,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 386213,
-      "num": 386213,
-      "word": "辛芷蕾人设还没立就崩了",
-      "onboard_time": 1700049514,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1067,6 +1083,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 277719,
+      "num": 413634,
+      "word": "美国高中老师说中美合作对所有人都好",
+      "onboard_time": 1700050595,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 276558,
       "num": 276558,
       "word": "管泽元说T1最多输一把",
@@ -1219,6 +1243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 245270,
+      "num": 245270,
+      "word": "拜托她可是中岛美嘉",
+      "onboard_time": 1700050233,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245267,
       "num": 245267,
       "word": "蜻蜓队长",
@@ -1235,20 +1267,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241377,
+      "num": 241377,
+      "word": "宁安如梦女三",
+      "onboard_time": 1700052216,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240242,
       "num": 240242,
       "word": "孙颖莎出现时全场的反应",
       "onboard_time": 1699964251,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238154,
-      "num": 238154,
-      "word": "拜托她可是中岛美嘉",
-      "onboard_time": 1700050233,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 237704,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1699982779,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 234834,
+      "num": 255899,
+      "word": "网传高校一男生床单包大便丢洗衣机",
+      "onboard_time": 1700052575,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 233432,
@@ -1491,6 +1531,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 200372,
+      "num": 263371,
+      "word": "野生大熊猫5天4次同一地点喝水",
+      "onboard_time": 1700048497,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199283,
       "num": 199283,
       "word": "边伯贤英雄联盟单曲paranoia",
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188017,
+      "num": 235489,
+      "word": "三浦德子去世",
+      "onboard_time": 1700052033,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "这是我清汤寡水20集应得的",
@@ -1603,20 +1659,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186391,
-      "num": 186391,
+      "raw_hot": 187259,
+      "num": 187259,
       "word": "秋冬一定要坚持揉腹",
       "onboard_time": 1700051373,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184910,
-      "num": 263371,
-      "word": "野生大熊猫5天4次同一地点喝水",
-      "onboard_time": 1700048497,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184803,
@@ -1673,6 +1721,14 @@
       "onboard_time": 1700040035,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180375,
+      "num": 180375,
+      "word": "罗英子被小保姆二次利用",
+      "onboard_time": 1700051433,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 179932,
@@ -1803,14 +1859,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 167260,
-      "num": 413634,
-      "word": "美国高中老师说中美合作对所有人都好",
-      "onboard_time": 1700050595,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 166511,
       "num": 166511,
       "word": "谁家发烧用冻鱼退烧",
@@ -1931,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154906,
+      "num": 154906,
+      "word": "世界上最悲伤的一句话",
+      "onboard_time": 1700052514,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154328,
       "num": 154328,
       "word": "男子工作压力大喝酒解闷女儿专程来接",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1699969053,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 153096,
+      "num": 161206,
+      "word": "咒术回战 jjxx到底在画啥",
+      "onboard_time": 1700051495,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 152576,
@@ -1995,14 +2059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147560,
-      "num": 147560,
-      "word": "天官赐福",
-      "onboard_time": 1700051612,
-      "rank": 44,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 147400,
       "num": 147400,
       "word": "姜雪宁 遗憾不能爱你",
@@ -2017,14 +2073,6 @@
       "onboard_time": 1700025395,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146759,
-      "num": 146759,
-      "word": "咒术回战 jjxx到底在画啥",
-      "onboard_time": 1700051495,
-      "rank": 45,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 145526,
@@ -2363,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101626,
+      "num": 420975,
+      "word": "中国刷新亚洲最深井纪录",
+      "onboard_time": 1700051495,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99614,
       "num": 99614,
       "word": "宝可梦礼宾部",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1699997593,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34956,
-      "num": 420975,
-      "word": "中国刷新亚洲最深井纪录",
-      "onboard_time": 1700051495,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33049,
