@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700154937402,
+  "endTime": 1700156052518,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -41075,6 +41075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106595,
+      "num": 106595,
+      "word": "工人日报评通缉电诈头目",
+      "onboard_time": 1700154503,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106312,
       "num": 339242,
       "word": "第一眼有多重要",
@@ -42113,14 +42121,6 @@
       "onboard_time": 1699679491,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 91881,
-      "num": 91881,
-      "word": "工人日报评通缉电诈头目",
-      "onboard_time": 1700154503,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91843,
