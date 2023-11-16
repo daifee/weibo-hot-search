@@ -1,0 +1,410 @@
+{
+  "runTime": 1700145321444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1396581,
+        "num": 1396581,
+        "word": "明国平等三名缅北电诈头目被缉拿归案",
+        "onboard_time": 1700131595,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463445,
+        "num": 1344027,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218196,
+        "num": 1238466,
+        "word": "时隔8年再次向美国人民发表的演讲",
+        "onboard_time": 1700139276,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 613292,
+        "num": 1132930,
+        "word": "武磊铲射破门",
+        "onboard_time": 1700140237,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131654,
+        "num": 1051405,
+        "word": "中美元首会晤意义重大",
+        "onboard_time": 1700144271,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 999410,
+        "num": 999410,
+        "word": "国足vs泰国",
+        "onboard_time": 1700138738,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390263,
+        "num": 971680,
+        "word": "不好意思开口但被民警秒懂",
+        "onboard_time": 1700132196,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338074,
+        "num": 947071,
+        "word": "韦世豪妙传",
+        "onboard_time": 1700140421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227784,
+        "num": 923082,
+        "word": "银行称顺其自然汇款人是位女士",
+        "onboard_time": 1700130756,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123540,
+        "num": 912822,
+        "word": "马斯克对中美关系未来发展满怀希望",
+        "onboard_time": 1700144087,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530302,
+        "num": 856367,
+        "word": "周扬青骂恋综男嘉宾大渣男",
+        "onboard_time": 1700138797,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 855828,
+        "num": 855828,
+        "word": "中奖500万彩票号付款后老板忘出票",
+        "onboard_time": 1700143910,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848009,
+        "num": 848009,
+        "word": "秦岚 另一半没有严丝合缝的",
+        "onboard_time": 1700142585,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775856,
+        "num": 775856,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1700134172,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 721105,
+        "num": 721105,
+        "word": "郭敬明晒陈都灵程潇剧照",
+        "onboard_time": 1700140181,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537548,
+        "num": 537548,
+        "word": "江西11岁男孩跳楼案教室被删监控已恢复",
+        "onboard_time": 1700143848,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500454,
+        "num": 500454,
+        "word": "长期吃辣的人后来怎么样了",
+        "onboard_time": 1700144327,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 407618,
+        "num": 407618,
+        "word": "告五人 五月天嘉宾",
+        "onboard_time": 1700139460,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407289,
+        "num": 407289,
+        "word": "缅甸民族民主同盟军回应明学昌豪宅被炸",
+        "onboard_time": 1700134535,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378545,
+        "num": 378545,
+        "word": "缅北电诈集团3头目被移交我公安机关",
+        "onboard_time": 1700139400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368357,
+        "num": 368357,
+        "word": "男子半夜爬独居女子窗户被击落身亡",
+        "onboard_time": 1700127693,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366192,
+        "num": 366192,
+        "word": "吴青峰 我也抢不到票啊",
+        "onboard_time": 1700139880,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357754,
+        "num": 357754,
+        "word": "迪丽热巴 我能做任何事",
+        "onboard_time": 1700144806,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295511,
+        "num": 295511,
+        "word": "雪莉 东亚娱乐行业",
+        "onboard_time": 1700128355,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284507,
+        "num": 284507,
+        "word": "花少 真实底色里的胡先煦",
+        "onboard_time": 1700143249,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262104,
+        "num": 262104,
+        "word": "我恋5癫公癫婆cp亲了但be了",
+        "onboard_time": 1700143731,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260643,
+        "num": 260643,
+        "word": "邓为爆改无脸男",
+        "onboard_time": 1700134114,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254286,
+        "num": 254286,
+        "word": "王昭君新皮肤",
+        "onboard_time": 1700138858,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250585,
+        "num": 250585,
+        "word": "缅北",
+        "onboard_time": 1700134835,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247240,
+        "num": 247240,
+        "word": "蛇皮腿是怎么一回事",
+        "onboard_time": 1700135195,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 237569,
+        "num": 237569,
+        "word": "五月天嘉宾 任贤齐",
+        "onboard_time": 1700142284,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232340,
+        "num": 232340,
+        "word": "嗑到成年人的纯爱了",
+        "onboard_time": 1700140237,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204650,
+        "num": 204650,
+        "word": "佘诗曼马国明回应TVB20年还是这些人扛剧",
+        "onboard_time": 1700140839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202122,
+        "num": 202122,
+        "word": "王玉雯千金公主妆",
+        "onboard_time": 1700143788,
+        "rank": 33,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 166270,
+        "num": 166270,
+        "word": "檀健次 氛围感",
+        "onboard_time": 1700141924,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164722,
+        "num": 164722,
+        "word": "郑书意 爱情和事业优等生",
+        "onboard_time": 1700144271,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163764,
+        "num": 163764,
+        "word": "倪妮新中式竹叶衬衣",
+        "onboard_time": 1700141862,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158726,
+        "num": 158726,
+        "word": "景甜 可以从睁眼吃到睡觉",
+        "onboard_time": 1700138557,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157313,
+        "num": 157313,
+        "word": "农村女性的晚年",
+        "onboard_time": 1700127454,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156965,
+        "num": 156965,
+        "word": "被骗到缅甸的人都遭遇了什么",
+        "onboard_time": 1700136097,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149377,
+        "num": 149377,
+        "word": "winter舞台妆造",
+        "onboard_time": 1700139400,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 144474,
+        "num": 144474,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143401,
+        "num": 143401,
+        "word": "阿信 上海宵夜要吃什么",
+        "onboard_time": 1700139759,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138778,
+        "num": 138778,
+        "word": "ABC男友听到女友要睡沙发急得语无伦次",
+        "onboard_time": 1700143489,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137477,
+        "num": 137477,
+        "word": "KPL 看不懂",
+        "onboard_time": 1700134595,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 136512,
+        "word": "萌兰俩妹妹打架打出拳王的气势",
+        "onboard_time": 1700143550,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133931,
+        "num": 133931,
+        "word": "九嶷山宣传片",
+        "onboard_time": 1700139460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133062,
+        "num": 133062,
+        "word": "于适这双眼睛太勾人了",
+        "onboard_time": 1700141020,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 127830,
+        "num": 127830,
+        "word": "武磊错失单刀",
+        "onboard_time": 1700142343,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120512,
+        "num": 120512,
+        "word": "罗英子公婆下跪道歉",
+        "onboard_time": 1700136215,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#汇聚两国人民力量推进中美友好事业#"
+    }
+  }
+}
