@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700161932288,
+  "endTime": 1700163287597,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -14041,6 +14041,14 @@
       "onboard_time": 1700078414,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11986,
+      "num": 15678,
+      "word": "上了我的车就是我的人",
+      "onboard_time": 1700162894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10706,
