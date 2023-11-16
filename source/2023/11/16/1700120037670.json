@@ -1,0 +1,410 @@
+{
+  "runTime": 1700120037670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 678787,
+        "num": 823616,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2125246,
+        "num": 793211,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124683,
+        "num": 759041,
+        "word": "一篇面向全美各界发表的演讲",
+        "onboard_time": 1700119414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996549,
+        "num": 758362,
+        "word": "拜登重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 756771,
+        "num": 756771,
+        "word": "幼儿园小女孩800米跑3分11秒",
+        "onboard_time": 1700115994,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 527929,
+        "num": 527929,
+        "word": "中美将优化签证申请流程",
+        "onboard_time": 1700113175,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 493589,
+        "num": 493589,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409241,
+        "num": 409241,
+        "word": "檀健次首部现偶男主",
+        "onboard_time": 1700108437,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381133,
+        "num": 381133,
+        "word": "抖音测试付费短视频",
+        "onboard_time": 1700100935,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369536,
+        "num": 369536,
+        "word": "首先要回答的是中美到底是对手还是伙伴",
+        "onboard_time": 1700114556,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1179468,
+        "num": 364730,
+        "word": "有点二叔求娶明兰那意思了",
+        "onboard_time": 1700116295,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1134907,
+        "num": 355361,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912963,
+        "num": 352700,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 773374,
+        "num": 347284,
+        "word": "山西永聚煤业火灾已致26人遇难",
+        "onboard_time": 1700118155,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501793,
+        "num": 340555,
+        "word": "奚梦瑶 结婚后很有意思很开心",
+        "onboard_time": 1700114376,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449870,
+        "num": 332432,
+        "word": "李连杰现身台湾辟谣死讯",
+        "onboard_time": 1700111619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326722,
+        "num": 326722,
+        "word": "迪丽热巴送给我的呦",
+        "onboard_time": 1700118095,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317435,
+        "num": 317435,
+        "word": "偷星九月天有自己的燃冬",
+        "onboard_time": 1700118813,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 312210,
+        "num": 312210,
+        "word": "蒲熠星 不要强求观众认同",
+        "onboard_time": 1700116232,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296077,
+        "num": 296077,
+        "word": "王一博对镜整理领结",
+        "onboard_time": 1700119714,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583237,
+        "num": 295999,
+        "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+        "onboard_time": 1700113536,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59217,
+        "num": 291198,
+        "word": "仰望新概念车有多离谱",
+        "onboard_time": 1700117855,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 378063,
+        "num": 290448,
+        "word": "给内娱一点力量震撼",
+        "onboard_time": 1700116893,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289621,
+        "num": 289621,
+        "word": "ENHYPEN空降",
+        "onboard_time": 1700118394,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302274,
+        "num": 284526,
+        "word": "秦昊说杨超越挺抠的",
+        "onboard_time": 1700119173,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278163,
+        "num": 278163,
+        "word": "缅北电诈头目的暗黑人生",
+        "onboard_time": 1700111199,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267478,
+        "num": 267478,
+        "word": "白鹿旗袍身材曲线",
+        "onboard_time": 1700111259,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224522,
+        "num": 224522,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201462,
+        "num": 201462,
+        "word": "要增加中美两国直航航班",
+        "onboard_time": 1700093734,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198815,
+        "num": 198815,
+        "word": "在美国友好团体联合欢迎宴会上演讲全文",
+        "onboard_time": 1700119775,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198215,
+        "num": 198215,
+        "word": "我嗑的cp试戏也真亲",
+        "onboard_time": 1700119114,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227511,
+        "num": 198202,
+        "word": "白鹿白敬亭互联网朋友",
+        "onboard_time": 1700119593,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198126,
+        "num": 198126,
+        "word": "特警帮车祸司机1.5小时卖光800斤橘子",
+        "onboard_time": 1700117855,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188820,
+        "num": 188820,
+        "word": "浓眉怎么了",
+        "onboard_time": 1700117734,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184725,
+        "num": 184725,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175628,
+        "num": 175628,
+        "word": "晋江文永久居住证持有者",
+        "onboard_time": 1700110365,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169859,
+        "num": 169859,
+        "word": "爱奇艺尖叫之夜看点",
+        "onboard_time": 1700116834,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167127,
+        "num": 167127,
+        "word": "T1和WBG与NewJeans交换队服",
+        "onboard_time": 1700105077,
+        "rank": 37,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 163316,
+        "num": 163316,
+        "word": "银行称循环贷不是利滚利",
+        "onboard_time": 1700116594,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146856,
+        "num": 146856,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1700084594,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143418,
+        "num": 143418,
+        "word": "庞博看到杨鸣总冠军戒指的反应",
+        "onboard_time": 1700115215,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 141889,
+        "num": 141889,
+        "word": "大熊猫渝爱的小树皮掉了",
+        "onboard_time": 1700119833,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136351,
+        "num": 136351,
+        "word": "我国成功发射新一代海洋水色观测卫星01星",
+        "onboard_time": 1700117316,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135458,
+        "num": 135458,
+        "word": "唐嫣古装撑伞氛围感",
+        "onboard_time": 1700117494,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134582,
+        "num": 134582,
+        "word": "迪丽热巴给服务人员留了礼物",
+        "onboard_time": 1700115157,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 134473,
+        "word": "中美元首会晤现场",
+        "onboard_time": 1700069777,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134174,
+        "num": 134174,
+        "word": "仙剑四过审",
+        "onboard_time": 1700110658,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132275,
+        "num": 132275,
+        "word": "抱娃女子手机没电借充电宝却收到100元",
+        "onboard_time": 1700112514,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130717,
+        "num": 130717,
+        "word": "刘亦菲新剧证件照",
+        "onboard_time": 1700112457,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125967,
+        "num": 125967,
+        "word": "冬天打车 钻进司机被窝",
+        "onboard_time": 1700119953,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席美国友好团体联合欢迎宴会#"
+    }
+  }
+}

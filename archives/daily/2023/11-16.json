@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700119006393,
+  "endTime": 1700120037670,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -83,8 +83,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1178966,
-      "num": 340652,
+      "raw_hot": 1179468,
+      "num": 364730,
       "word": "有点二叔求娶明兰那意思了",
       "onboard_time": 1700116295,
       "rank": 21,
@@ -187,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 773374,
+      "num": 347284,
+      "word": "山西永聚煤业火灾已致26人遇难",
+      "onboard_time": 1700118155,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 770355,
       "num": 770355,
       "word": "檀健次首部现偶男主",
@@ -201,6 +209,14 @@
       "onboard_time": 1700114376,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 756771,
+      "num": 756771,
+      "word": "幼儿园小女孩800米跑3分11秒",
+      "onboard_time": 1700115994,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 746751,
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 601089,
-      "num": 601089,
-      "word": "幼儿园小女孩800米跑3分11秒",
-      "onboard_time": 1700115994,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 589972,
       "num": 589972,
       "word": "旧金山会晤将启希望中美相向而行",
@@ -312,14 +320,6 @@
       "word": "男子2天没上班同事报警救其一命",
       "onboard_time": 1700090724,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563029,
-      "num": 325196,
-      "word": "山西永聚煤业火灾已致26人遇难",
-      "onboard_time": 1700118155,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -539,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 369536,
+      "num": 369536,
+      "word": "首先要回答的是中美到底是对手还是伙伴",
+      "onboard_time": 1700114556,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 367840,
       "num": 214206,
       "word": "SMTOWN将推出英国男团",
@@ -569,14 +577,6 @@
       "onboard_time": 1700048250,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 347784,
-      "num": 347784,
-      "word": "首先要回答的是中美到底是对手还是伙伴",
-      "onboard_time": 1700114556,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 346756,
@@ -611,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326722,
+      "num": 326722,
+      "word": "迪丽热巴送给我的呦",
+      "onboard_time": 1700118095,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317462,
       "num": 317462,
       "word": "中美元首时隔1年再次面对面会晤",
@@ -619,12 +627,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 317435,
+      "num": 317435,
+      "word": "偷星九月天有自己的燃冬",
+      "onboard_time": 1700118813,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 317143,
       "num": 317143,
       "word": "T1和WBG与newjeans交换队服",
       "onboard_time": 1700105077,
       "rank": 18,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 302274,
+      "num": 284526,
+      "word": "秦昊说杨超越挺抠的",
+      "onboard_time": 1700119173,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 301435,
@@ -640,6 +664,14 @@
       "word": "风行网向葛优致歉",
       "onboard_time": 1700107838,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296077,
+      "num": 296077,
+      "word": "王一博对镜整理领结",
+      "onboard_time": 1700119714,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -665,6 +697,14 @@
       "onboard_time": 1700103158,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289621,
+      "num": 289621,
+      "word": "ENHYPEN空降",
+      "onboard_time": 1700118394,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 282811,
@@ -697,14 +737,6 @@
       "onboard_time": 1700105320,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 267320,
-      "num": 267320,
-      "word": "迪丽热巴送给我的呦",
-      "onboard_time": 1700118095,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 267160,
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227511,
+      "num": 198202,
+      "word": "白鹿白敬亭互联网朋友",
+      "onboard_time": 1700119593,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224935,
       "num": 224935,
       "word": "6岁女孩1分钟用腿拍瑜伽球200次",
@@ -881,14 +921,6 @@
       "onboard_time": 1700115157,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220813,
-      "num": 220813,
-      "word": "ENHYPEN空降",
-      "onboard_time": 1700118394,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 220072,
@@ -995,6 +1027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 198815,
+      "num": 198815,
+      "word": "在美国友好团体联合欢迎宴会上演讲全文",
+      "onboard_time": 1700119775,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 198711,
       "num": 198711,
       "word": "红薯摊小奶狗",
@@ -1009,6 +1049,22 @@
       "onboard_time": 1700096380,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198215,
+      "num": 198215,
+      "word": "我嗑的cp试戏也真亲",
+      "onboard_time": 1700119114,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198126,
+      "num": 198126,
+      "word": "特警帮车祸司机1.5小时卖光800斤橘子",
+      "onboard_time": 1700117855,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196853,
@@ -1065,14 +1121,6 @@
       "onboard_time": 1700056959,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190759,
-      "num": 190759,
-      "word": "特警帮车祸司机1.5小时卖光800斤橘子",
-      "onboard_time": 1700117855,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190488,
@@ -1211,8 +1259,8 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 169754,
-      "num": 169754,
+      "raw_hot": 169859,
+      "num": 169859,
       "word": "爱奇艺尖叫之夜看点",
       "onboard_time": 1700116834,
       "rank": 35,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1700103097,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 165253,
-      "num": 165253,
-      "word": "偷星九月天有自己的燃冬",
-      "onboard_time": 1700118813,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 165094,
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "大熊猫渝爱的小树皮掉了",
+      "onboard_time": 1700119833,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141377,
       "num": 141377,
       "word": "邓紫棋南宁演唱会官宣",
@@ -1435,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125967,
+      "num": 125967,
+      "word": "冬天打车 钻进司机被窝",
+      "onboard_time": 1700119953,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125907,
       "num": 125907,
       "word": "十二草集洗发水菌落超标7300倍",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1700101534,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124683,
+      "num": 759041,
+      "word": "一篇面向全美各界发表的演讲",
+      "onboard_time": 1700119414,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124366,
@@ -1652,7 +1716,7 @@
     },
     {
       "raw_hot": 68963,
-      "num": 216002,
+      "num": 291198,
       "word": "仰望新概念车有多离谱",
       "onboard_time": 1700117855,
       "rank": 26,
@@ -1834,6 +1898,9 @@
     },
     {
       "word": "#共同努力浇筑中美关系的五根支柱#"
+    },
+    {
+      "word": "#习近平出席美国友好团体联合欢迎宴会#"
     }
   ]
 }
