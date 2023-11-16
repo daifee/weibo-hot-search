@@ -1,0 +1,410 @@
+{
+  "runTime": 1700151864540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399749,
+        "num": 399749,
+        "word": "中国男足2比1战胜泰国队",
+        "onboard_time": 1700145891,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77102,
+        "num": 399425,
+        "word": "中美元首会晤意义重大",
+        "onboard_time": 1700144271,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82432,
+        "num": 393755,
+        "word": "时隔8年再次向美国人民发表的演讲",
+        "onboard_time": 1700139276,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151308,
+        "num": 391481,
+        "word": "不好意思开口但被民警秒懂",
+        "onboard_time": 1700132196,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141337,
+        "num": 387635,
+        "word": "阿里四小龙业务浮出水面",
+        "onboard_time": 1700147085,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 488582,
+        "num": 383612,
+        "word": "明国平等三名缅北电诈头目被缉拿归案",
+        "onboard_time": 1700131595,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129645,
+        "num": 380664,
+        "word": "银行称顺其自然汇款人是位女士",
+        "onboard_time": 1700130756,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100783,
+        "num": 378927,
+        "word": "这届打工人流行上夜校",
+        "onboard_time": 1700150795,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100152,
+        "num": 374937,
+        "word": "马斯克对中美关系未来发展满怀希望",
+        "onboard_time": 1700144087,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66914,
+        "num": 371401,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 514892,
+        "num": 370298,
+        "word": "周扬青骂恋综男嘉宾大渣男",
+        "onboard_time": 1700138797,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424831,
+        "num": 364649,
+        "word": "王玉雯对于适说应该喊我嫂嫂",
+        "onboard_time": 1700149720,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 418208,
+        "num": 363100,
+        "word": "中奖500万彩票号付款后老板忘出票",
+        "onboard_time": 1700143910,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409880,
+        "num": 357522,
+        "word": "宋亚轩是第一个给沈涛得子发恭喜的",
+        "onboard_time": 1700147148,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357214,
+        "num": 357214,
+        "word": "江西11岁男孩跳楼案教室被删监控已恢复",
+        "onboard_time": 1700143848,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348477,
+        "num": 348477,
+        "word": "为让4岁男孩落户18岁父亲现身亲子鉴定",
+        "onboard_time": 1700146373,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347646,
+        "num": 347646,
+        "word": "龚俊 我本是高山是良心之作",
+        "onboard_time": 1700150435,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299050,
+        "num": 299050,
+        "word": "长期吃辣的人后来怎么样了",
+        "onboard_time": 1700144327,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290705,
+        "num": 290705,
+        "word": "国家一级演员苏孝林被公诉",
+        "onboard_time": 1700146846,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279874,
+        "num": 279874,
+        "word": "现实版李峋",
+        "onboard_time": 1700145891,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226822,
+        "num": 226822,
+        "word": "秦岚 另一半没有严丝合缝的",
+        "onboard_time": 1700142585,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225830,
+        "num": 225830,
+        "word": "王者荣耀",
+        "onboard_time": 1700148041,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218030,
+        "num": 218030,
+        "word": "缅甸民族民主同盟军回应明学昌豪宅被炸",
+        "onboard_time": 1700134535,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206838,
+        "num": 206838,
+        "word": "张馨予回应东北大花",
+        "onboard_time": 1700149119,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171246,
+        "num": 204893,
+        "word": "迪丽热巴 我能做任何事",
+        "onboard_time": 1700144806,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189026,
+        "num": 189026,
+        "word": "男子半夜爬独居女子窗户被击落身亡",
+        "onboard_time": 1700127693,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184220,
+        "num": 184220,
+        "word": "缅北",
+        "onboard_time": 1700134835,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184035,
+        "num": 184035,
+        "word": "张远公费追星成功",
+        "onboard_time": 1700147148,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184012,
+        "num": 184012,
+        "word": "告五人 五月天嘉宾",
+        "onboard_time": 1700139460,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171835,
+        "num": 171835,
+        "word": "雪莉 东亚娱乐行业",
+        "onboard_time": 1700128355,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211343,
+        "num": 169744,
+        "word": "马云家族信托拟减持阿里巴巴",
+        "onboard_time": 1700148224,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145060,
+        "num": 145060,
+        "word": "郭敬明晒陈都灵程潇剧照",
+        "onboard_time": 1700140181,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133428,
+        "num": 133428,
+        "word": "缅北电诈集团3头目被移交我公安机关",
+        "onboard_time": 1700139400,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133317,
+        "num": 133317,
+        "word": "王昭君新皮肤",
+        "onboard_time": 1700138858,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129870,
+        "num": 129870,
+        "word": "WB晋级世冠小组赛",
+        "onboard_time": 1700148942,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126621,
+        "num": 126621,
+        "word": "邓为爆改无脸男",
+        "onboard_time": 1700134114,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120578,
+        "num": 120578,
+        "word": "姜雪蕙最后只是沈玠的侧妃",
+        "onboard_time": 1700146248,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119584,
+        "num": 119584,
+        "word": "王鹤棣 空气投篮",
+        "onboard_time": 1700149420,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117806,
+        "num": 117806,
+        "word": "蛇皮腿是怎么一回事",
+        "onboard_time": 1700135195,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115187,
+        "num": 115187,
+        "word": "吴青峰 我也抢不到票啊",
+        "onboard_time": 1700139880,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110095,
+        "num": 110095,
+        "word": "吴彦姝希望我本是高山有很多人看到",
+        "onboard_time": 1700151334,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104064,
+        "num": 104064,
+        "word": "Lana Del Rey荡秋千演唱",
+        "onboard_time": 1700148344,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98045,
+        "num": 98045,
+        "word": "我恋5癫公癫婆cp亲了但be了",
+        "onboard_time": 1700143731,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97252,
+        "num": 97252,
+        "word": "许凯景甜一个吻戏亲了10秒",
+        "onboard_time": 1700148640,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92271,
+        "num": 92271,
+        "word": "被骗到缅甸的人都遭遇了什么",
+        "onboard_time": 1700136097,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90236,
+        "num": 90236,
+        "word": "张凌赫唱跳双废",
+        "onboard_time": 1700147568,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85837,
+        "num": 85837,
+        "word": "KPL 看不懂",
+        "onboard_time": 1700134595,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85204,
+        "num": 85204,
+        "word": "王玉雯千金公主妆",
+        "onboard_time": 1700143788,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 79973,
+        "num": 84011,
+        "word": "嗑到成年人的纯爱了",
+        "onboard_time": 1700140237,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76853,
+        "num": 83445,
+        "word": "男子买了张顶呱刮刮出100万",
+        "onboard_time": 1700151572,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席美国友好团体联合欢迎宴会#"
+    }
+  }
+}
