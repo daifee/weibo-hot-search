@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 13:34:00
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 14:23:40
 </p>
 </blockquote>
 <p>
@@ -1413,6 +1413,12 @@ T1拿到两个赛点（热度：1895187）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%B0%86%E4%BC%98%E5%8C%96%E7%AD%BE%E8%AF%81%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B%23" target="weibo">
+中美将优化签证申请流程（热度：1652874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23" target="weibo">
 RNG能不能把gala卡回来（热度：1650872）
 </a>
@@ -1583,6 +1589,12 @@ WBG决赛对战T1（热度：1611700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%85%A8%E7%B3%BB%E4%BA%A7%E5%93%81%E5%B4%A9%E4%BA%86%23" target="weibo">
 阿里全系产品崩了（热度：1570169）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%8D%A2%E6%98%B1%E6%99%93%20%E9%9A%BE%E5%93%84%23" target="weibo">
+宋威龙卢昱晓 难哄（热度：1567632）
 </a>
 </li>
 
@@ -3489,6 +3501,12 @@ iPhone15双11最后两小时降价（热度：928672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E5%9B%A0%E5%85%AC%E5%85%AC%E8%85%B9%E6%B3%BB%E5%8F%91%E7%8E%B0%E5%85%AC%E5%A9%86%E5%90%8C%E6%82%A3%E5%A4%AB%E5%A6%BB%E7%99%8C%23" target="weibo">
+儿媳因公公腹泻发现公婆同患夫妻癌（热度：918559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23" target="weibo">
 TheShy生日礼物（热度：917952）
 </a>
@@ -3527,6 +3545,12 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%8B%8D%E8%9D%87%E8%85%BF%E7%9D%AB%E6%AF%9B%23" target="weibo">
 杨紫苍蝇腿睫毛（热度：903718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E7%8E%B0%E8%BA%AB%E5%8F%B0%E6%B9%BE%E8%BE%9F%E8%B0%A3%E6%AD%BB%E8%AE%AF%23" target="weibo">
+李连杰现身台湾辟谣死讯（热度：903463）
 </a>
 </li>
 
@@ -3593,6 +3617,12 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%92%8C%E5%AB%8B%E5%AB%8B%E5%A2%83%E9%81%87%E5%A5%BD%E5%83%8F%23" target="weibo">
 姜雪宁和嫋嫋境遇好像（热度：893600）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%82%80%E8%AF%B75%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23" target="weibo">
+愿邀请5万名美国青少年来华交流学习（热度：893209）
 </a>
 </li>
 
@@ -4341,12 +4371,6 @@ Bin兰博（热度：808039）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E7%8E%B0%E8%BA%AB%E5%8F%B0%E6%B9%BE%E8%BE%9F%E8%B0%A3%E6%AD%BB%E8%AE%AF%23" target="weibo">
-李连杰现身台湾辟谣死讯（热度：792877）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%9D%97%E4%B9%9D%E7%B2%89%E5%BA%95%E6%B6%B2%E6%88%90%E5%88%86%20%E4%BD%9C%E5%BC%8A%E7%97%95%E8%BF%B9%23" target="weibo">
 五块九粉底液成分 作弊痕迹（热度：792412）
 </a>
@@ -4607,6 +4631,12 @@ Jennie50亿韩元购入高档别墅（热度：766664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E7%BD%A2%E4%BA%86%20%E4%B8%8D%E5%BF%85%E5%A4%AA%E4%B8%8A%E5%A4%B4%23" target="weibo">
 打工罢了 不必太上头（热度：760539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%20%E7%BB%93%E5%A9%9A%E5%90%8E%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9D%E5%BE%88%E5%BC%80%E5%BF%83%23" target="weibo">
+奚梦瑶 结婚后很有意思很开心（热度：760521）
 </a>
 </li>
 
@@ -5889,6 +5919,12 @@ EDG 出列（热度：634682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E5%8D%87%E8%87%B325%E4%BA%BA%23" target="weibo">
+山西永聚煤业火灾遇难升至25人（热度：633766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC%23" target="weibo">
 今日立冬（热度：633655）
 </a>
@@ -5975,42 +6011,6 @@ Ruler和Faker第100次对决（热度：632705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E4%BB%BB%E6%95%8F%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
 李现任敏对手戏（热度：626322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%89%8D%E7%B4%A0%E9%A2%9C%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23" target="weibo">
-宋茜出道前素颜参加综艺（热度：625971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%86%BB%E6%AD%BB%E8%A1%97%E5%A4%B4%23" target="weibo">
-警方回应男子冻死街头（热度：625594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%93%84%E6%8A%A2%E4%BA%8B%E4%BB%B6%E9%80%9A%E6%8A%A5%23" target="weibo">
-盘点河南多地哄抢事件通报（热度：625484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%96%E6%B6%88AppleWatch%E5%BA%94%E7%94%A8%E5%85%BC%E5%AE%B9%E5%AE%89%E5%8D%93%E8%AE%A1%E5%88%92%23" target="weibo">
-苹果取消AppleWatch应用兼容安卓计划（热度：625148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E5%91%A8%E6%9C%89%E6%9E%97%E4%BF%8A%E6%9D%B0%23" target="weibo">
-你好星期六下周有林俊杰（热度：624911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%B6%A8%E4%BB%B720%25%23" target="weibo">
-茅台涨价20%（热度：624841）
 </a>
 </li>
 

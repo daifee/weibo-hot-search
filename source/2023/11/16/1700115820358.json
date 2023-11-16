@@ -1,0 +1,410 @@
+{
+  "runTime": 1700115820358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1652874,
+        "num": 1652874,
+        "word": "中美将优化签证申请流程",
+        "onboard_time": 1700113175,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1584273,
+        "num": 1584273,
+        "word": "拜登重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114556,
+        "num": 1347771,
+        "word": "美国不要有打压遏制中国的打算",
+        "onboard_time": 1700095061,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291569,
+        "num": 1291569,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 893209,
+        "num": 893209,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 775815,
+        "num": 775815,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482611,
+        "num": 482611,
+        "word": "抖音测试付费短视频",
+        "onboard_time": 1700100935,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 408070,
+        "num": 408070,
+        "word": "檀健次首部现偶男主",
+        "onboard_time": 1700108437,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397710,
+        "num": 397710,
+        "word": "马斯克库克等齐聚一堂",
+        "onboard_time": 1700111619,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 342501,
+        "num": 342501,
+        "word": "仙剑四过审",
+        "onboard_time": 1700110658,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1567632,
+        "num": 341821,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1565938,
+        "num": 336165,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903463,
+        "num": 334569,
+        "word": "李连杰现身台湾辟谣死讯",
+        "onboard_time": 1700111619,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760521,
+        "num": 329379,
+        "word": "奚梦瑶 结婚后很有意思很开心",
+        "onboard_time": 1700114376,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633766,
+        "num": 324244,
+        "word": "山西永聚煤业火灾遇难升至25人",
+        "onboard_time": 1700114317,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462314,
+        "num": 322721,
+        "word": "缅北电诈头目的暗黑人生",
+        "onboard_time": 1700111199,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456352,
+        "num": 318106,
+        "word": "白鹿旗袍身材曲线",
+        "onboard_time": 1700111259,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416027,
+        "num": 314795,
+        "word": "晋江文永久居住证持有者",
+        "onboard_time": 1700110365,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311492,
+        "num": 311492,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280592,
+        "num": 280592,
+        "word": "首先要回答的是中美到底是对手还是伙伴",
+        "onboard_time": 1700114556,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 918559,
+        "num": 275048,
+        "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+        "onboard_time": 1700113536,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267416,
+        "num": 267416,
+        "word": "要增加中美两国直航航班",
+        "onboard_time": 1700093734,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256398,
+        "num": 256398,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244917,
+        "num": 244917,
+        "word": "庞博看到杨鸣总冠军戒指的反应",
+        "onboard_time": 1700115215,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 214081,
+        "num": 214081,
+        "word": "刘亦菲新剧证件照",
+        "onboard_time": 1700112457,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212108,
+        "num": 212108,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1700084594,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208929,
+        "num": 208929,
+        "word": "0.999无限循环和1到底哪个大",
+        "onboard_time": 1700104055,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204110,
+        "num": 204110,
+        "word": "迪丽热巴给服务人员留了礼物",
+        "onboard_time": 1700115157,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199940,
+        "num": 199940,
+        "word": "T1和WBG与NewJeans交换队服",
+        "onboard_time": 1700105077,
+        "rank": 28,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 196853,
+        "num": 196853,
+        "word": "张艺兴重庆抢票",
+        "onboard_time": 1700115094,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196787,
+        "num": 196787,
+        "word": "贵女 陈都灵陈哲远",
+        "onboard_time": 1700106578,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193817,
+        "num": 193817,
+        "word": "中美元首会晤现场",
+        "onboard_time": 1700069777,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190488,
+        "num": 190488,
+        "word": "小学生写作文用AI改写鲁迅文章",
+        "onboard_time": 1700114676,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188269,
+        "num": 188269,
+        "word": "CPA 让我过",
+        "onboard_time": 1700112874,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181719,
+        "num": 181719,
+        "word": "宁安如梦明日加更",
+        "onboard_time": 1700113234,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180842,
+        "num": 180842,
+        "word": "抱娃女子手机没电借充电宝却收到100元",
+        "onboard_time": 1700112514,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179891,
+        "num": 179891,
+        "word": "从今天确诊龙性恋",
+        "onboard_time": 1700092531,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174480,
+        "num": 174480,
+        "word": "中美元首散步交谈",
+        "onboard_time": 1700090484,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171366,
+        "num": 171366,
+        "word": "詹姆斯三分命中数历史第8",
+        "onboard_time": 1700111917,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170689,
+        "num": 170689,
+        "word": "花少 称体重",
+        "onboard_time": 1700111080,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157915,
+        "num": 157915,
+        "word": "中国的发展壮大是外部力量阻挡不了的",
+        "onboard_time": 1700092654,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163584,
+        "num": 157263,
+        "word": "秦岚花少第一站穿搭plog",
+        "onboard_time": 1700113296,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154971,
+        "num": 154971,
+        "word": "94岁中国女首富曾分300亿元给儿媳",
+        "onboard_time": 1700103454,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146254,
+        "num": 146254,
+        "word": "中美元首时隔1年再次面对面会晤",
+        "onboard_time": 1700077334,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143277,
+        "num": 143277,
+        "word": "希望中美做伙伴相互尊重和平共处",
+        "onboard_time": 1700093559,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143193,
+        "num": 143193,
+        "word": "蔡少芬把谢娜泼懵了",
+        "onboard_time": 1700111856,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140511,
+        "num": 140511,
+        "word": "马斯克的星舰将在明日晚间再度试飞",
+        "onboard_time": 1700112818,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137860,
+        "num": 137860,
+        "word": "中美要了解彼此的原则底线",
+        "onboard_time": 1700093195,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136914,
+        "num": 136914,
+        "word": "龙凤胎被哥哥抱起成专属挂件",
+        "onboard_time": 1700099617,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135608,
+        "num": 135608,
+        "word": "大国竞争不是这个时代的底色",
+        "onboard_time": 1700078713,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首举行会晤#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700112840240,
+  "endTime": 1700115820358,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -59,6 +59,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1652874,
+      "num": 1652874,
+      "word": "中美将优化签证申请流程",
+      "onboard_time": 1700113175,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1567632,
+      "num": 341821,
+      "word": "宋威龙卢昱晓 难哄",
+      "onboard_time": 1700113416,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1345115,
       "num": 1345115,
       "word": "中美元首散步交谈",
@@ -99,11 +115,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 918559,
+      "num": 275048,
+      "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+      "onboard_time": 1700113536,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 912950,
       "num": 912950,
       "word": "中美各自的成功是彼此的机遇",
       "onboard_time": 1700088319,
       "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 903463,
+      "num": 385470,
+      "word": "李连杰现身台湾辟谣死讯",
+      "onboard_time": 1700111619,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 893209,
+      "num": 893209,
+      "word": "愿邀请5万名美国青少年来华交流学习",
+      "onboard_time": 1700112935,
+      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -139,20 +179,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 792877,
-      "num": 385470,
-      "word": "李连杰现身台湾辟谣死讯",
-      "onboard_time": 1700111619,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 770355,
       "num": 770355,
       "word": "檀健次首部现偶男主",
       "onboard_time": 1700108437,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 760521,
+      "num": 329379,
+      "word": "奚梦瑶 结婚后很有意思很开心",
+      "onboard_time": 1700114376,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 746751,
@@ -217,6 +257,14 @@
       "onboard_time": 1700099256,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 633766,
+      "num": 324244,
+      "word": "山西永聚煤业火灾遇难升至25人",
+      "onboard_time": 1700114317,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627712,
@@ -435,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397710,
+      "num": 397710,
+      "word": "马斯克库克等齐聚一堂",
+      "onboard_time": 1700111619,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 396093,
       "num": 396093,
       "word": "31岁儿子全职陪护智力2岁妈妈",
@@ -465,14 +521,6 @@
       "onboard_time": 1700105259,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 355860,
-      "num": 355860,
-      "word": "马斯克库克等齐聚一堂",
-      "onboard_time": 1700111619,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 352161,
@@ -579,6 +627,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 280592,
+      "num": 280592,
+      "word": "首先要回答的是中美到底是对手还是伙伴",
+      "onboard_time": 1700114556,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275724,
       "num": 275724,
       "word": "饥饿游戏前传中国独家预告",
@@ -681,6 +737,14 @@
       "onboard_time": 1700101116,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244917,
+      "num": 244917,
+      "word": "庞博看到杨鸣总冠军戒指的反应",
+      "onboard_time": 1700115215,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 244724,
@@ -819,6 +883,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 204110,
+      "num": 204110,
+      "word": "迪丽热巴给服务人员留了礼物",
+      "onboard_time": 1700115157,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203209,
       "num": 203209,
       "word": "马斯克的星舰将在明日晚间再度试飞",
@@ -865,6 +937,14 @@
       "onboard_time": 1700096380,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196853,
+      "num": 196853,
+      "word": "张艺兴重庆抢票",
+      "onboard_time": 1700115094,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 196649,
@@ -915,6 +995,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190488,
+      "num": 190488,
+      "word": "小学生写作文用AI改写鲁迅文章",
+      "onboard_time": 1700114676,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188269,
+      "num": 188269,
+      "word": "CPA 让我过",
+      "onboard_time": 1700112874,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185728,
       "num": 185728,
       "word": "多国限制使用司美格鲁肽",
@@ -939,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181719,
+      "num": 181719,
+      "word": "宁安如梦明日加更",
+      "onboard_time": 1700113234,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181171,
       "num": 181171,
       "word": "刘亦菲送朱珠粉色玫瑰",
       "onboard_time": 1700104598,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180842,
+      "num": 180842,
+      "word": "抱娃女子手机没电借充电宝却收到100元",
+      "onboard_time": 1700112514,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179716,
@@ -1019,6 +1131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 163584,
+      "num": 157263,
+      "word": "秦岚花少第一站穿搭plog",
+      "onboard_time": 1700113296,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162610,
       "num": 162610,
       "word": "中美关系的五根支柱都有哪些",
@@ -1041,14 +1161,6 @@
       "onboard_time": 1700062174,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157540,
-      "num": 157540,
-      "word": "抱娃女子手机没电借充电宝却收到100元",
-      "onboard_time": 1700112514,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156999,
