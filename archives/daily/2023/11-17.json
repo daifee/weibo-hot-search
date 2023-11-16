@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700166865678,
+  "endTime": 1700169355134,
   "band_list": [
     {
       "raw_hot": 514892,
@@ -489,6 +489,14 @@
       "onboard_time": 1700162894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11698,
+      "num": 19544,
+      "word": "詹姆斯钉板大帽萨博尼斯",
+      "onboard_time": 1700168293,
+      "rank": 45,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
