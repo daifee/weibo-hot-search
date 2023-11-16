@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/16 10:40:57
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/16 11:18:40
 </p>
 </blockquote>
 <p>
@@ -1581,6 +1581,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
+拜登重申不支持台湾独立（热度：7315190）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
 TFBOYS 微博之夜（热度：7313901）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%E8%A2%AB%E6%B0%91%E8%AD%A6%E6%8F%90%E9%86%92%E8%B5%B6%E7%B4%A7%E5%88%86%E6%89%8B%23" target="weibo">
 女子官宣结婚被民警提醒赶紧分手（热度：6333261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%20%E4%BD%A0%E8%8C%83%E8%8C%83%E5%A7%90%E5%B0%B1%E5%BE%88%E4%B8%8D%E7%88%B1%E8%BF%99%E7%A7%8D%E4%BA%8B%E5%95%8A%23" target="weibo">
-陈建州 你范范姐就很不爱这种事啊（热度：6319424）
 </a>
 </li>
 

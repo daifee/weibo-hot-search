@@ -1,0 +1,410 @@
+{
+  "runTime": 1700104720772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7842101,
+        "num": 7842101,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7315190,
+        "num": 7691909,
+        "word": "拜登重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151604,
+        "num": 1974825,
+        "word": "美国不要有打压遏制中国的打算",
+        "onboard_time": 1700095061,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464292,
+        "num": 1464292,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1166319,
+        "num": 1166319,
+        "word": "抖音测试付费短视频",
+        "onboard_time": 1700100935,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 894694,
+        "num": 894694,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444268,
+        "num": 444268,
+        "word": "要增加中美两国直航航班",
+        "onboard_time": 1700093734,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430535,
+        "num": 430535,
+        "word": "加沙长时间暂时停火决议美国弃权票",
+        "onboard_time": 1700099256,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 409504,
+        "num": 409504,
+        "word": "龙凤胎被哥哥抱起成专属挂件",
+        "onboard_time": 1700099617,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409319,
+        "num": 409319,
+        "word": "拜登说美国乐见中国发展富裕",
+        "onboard_time": 1700102561,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2188407,
+        "num": 406444,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 602617,
+        "num": 404593,
+        "word": "花少5之再见爱人",
+        "onboard_time": 1700103633,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599551,
+        "num": 398176,
+        "word": "奚梦瑶 我是嫁给爱情",
+        "onboard_time": 1700093134,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511233,
+        "num": 395827,
+        "word": "李嘉琦做的雪媚娘一吃一个不吱声",
+        "onboard_time": 1700098779,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419623,
+        "num": 393547,
+        "word": "从今天确诊龙性恋",
+        "onboard_time": 1700092531,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409491,
+        "num": 387489,
+        "word": "94岁中国女首富曾分300亿元给儿媳",
+        "onboard_time": 1700103454,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 386972,
+        "num": 386972,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1700084594,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 377393,
+        "num": 377393,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 365098,
+        "num": 365098,
+        "word": "中美元首散步交谈",
+        "onboard_time": 1700090484,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359901,
+        "num": 359901,
+        "word": "中美元首会晤现场",
+        "onboard_time": 1700069777,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627712,
+        "num": 358668,
+        "word": "电脑C盘一定要删除的四个文件夹",
+        "onboard_time": 1700100336,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 344415,
+        "num": 344415,
+        "word": "BLACKPINK将举办VR音乐会",
+        "onboard_time": 1700101176,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292677,
+        "num": 292677,
+        "word": "中美元首时隔1年再次面对面会晤",
+        "onboard_time": 1700077334,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258649,
+        "num": 258649,
+        "word": "九命相柳 名不虚传",
+        "onboard_time": 1700092171,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251695,
+        "num": 251695,
+        "word": "王牌这期是音乐人聚会吧",
+        "onboard_time": 1700103158,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250558,
+        "num": 250558,
+        "word": "李沁体态",
+        "onboard_time": 1700090363,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 248642,
+        "num": 248642,
+        "word": "大国竞争不是这个时代的底色",
+        "onboard_time": 1700078713,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245362,
+        "num": 245362,
+        "word": "中国的发展壮大是外部力量阻挡不了的",
+        "onboard_time": 1700092654,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245050,
+        "num": 245050,
+        "word": "涉事店家回应儿媳为带公婆吃自助撒谎只要10元",
+        "onboard_time": 1700093734,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241935,
+        "num": 241935,
+        "word": "佘诗曼机场被叫女王大人",
+        "onboard_time": 1700101896,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241714,
+        "num": 241714,
+        "word": "大衣里居然有羽绒内胆",
+        "onboard_time": 1700099017,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 230631,
+        "num": 230631,
+        "word": "向佐郭碧婷合体拍大片",
+        "onboard_time": 1700104363,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224875,
+        "num": 224875,
+        "word": "中美各自的成功是彼此的机遇",
+        "onboard_time": 1700088319,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221298,
+        "num": 221298,
+        "word": "中美要了解彼此的原则底线",
+        "onboard_time": 1700093195,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218328,
+        "num": 218328,
+        "word": "难怪秦岚辛芷蕾能玩一起",
+        "onboard_time": 1700098834,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210088,
+        "num": 210088,
+        "word": "希望中美做伙伴相互尊重和平共处",
+        "onboard_time": 1700093559,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203535,
+        "num": 203535,
+        "word": "0.999无限循环和1到底哪个大",
+        "onboard_time": 1700104055,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198711,
+        "num": 198711,
+        "word": "红薯摊小奶狗",
+        "onboard_time": 1700103695,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191509,
+        "num": 191509,
+        "word": "亮亮丽君夫妇称被融创销售抢手机",
+        "onboard_time": 1700103758,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190309,
+        "num": 190309,
+        "word": "骑车偶遇刘亦菲来回骑了20遍",
+        "onboard_time": 1700062533,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178515,
+        "num": 178515,
+        "word": "很想很想你定档预告",
+        "onboard_time": 1700104537,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167018,
+        "num": 167018,
+        "word": "小米Vela开源",
+        "onboard_time": 1700103097,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165807,
+        "num": 165807,
+        "word": "尖叫之夜导演辟谣网传内场图",
+        "onboard_time": 1700101116,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157996,
+        "num": 157996,
+        "word": "男子2天没上班同事报警救其一命",
+        "onboard_time": 1700090724,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154333,
+        "num": 154333,
+        "word": "南方人过冬 反向豌豆公主",
+        "onboard_time": 1700101896,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150098,
+        "num": 150098,
+        "word": "AHYEON还是BABYMONSTER成员",
+        "onboard_time": 1700102435,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144900,
+        "num": 144900,
+        "word": "谢怜伸手甩飞花城",
+        "onboard_time": 1700101360,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137199,
+        "num": 137199,
+        "word": "刘亦菲送朱珠粉色玫瑰",
+        "onboard_time": 1700104598,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129012,
+        "num": 129012,
+        "word": "94岁邝肖卿成中国女首富",
+        "onboard_time": 1700104659,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 128467,
+        "num": 128467,
+        "word": "TheShy回应世界第一上单",
+        "onboard_time": 1700093014,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同努力浇筑中美关系的五根支柱#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700102457156,
+  "endTime": 1700104720772,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -8,6 +8,14 @@
       "word": "中国终将统一也必然统一",
       "onboard_time": 1700091930,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 7315190,
+      "num": 7691909,
+      "word": "拜登重申不支持台湾独立",
+      "onboard_time": 1700103758,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -51,20 +59,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1166319,
+      "num": 1166319,
+      "word": "抖音测试付费短视频",
+      "onboard_time": 1700100935,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1138723,
       "num": 461290,
       "word": "中山大学通报贫困生炫富事件",
       "onboard_time": 1700089702,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115310,
-      "num": 1115310,
-      "word": "抖音测试付费短视频",
-      "onboard_time": 1700100935,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1008965,
@@ -155,12 +163,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 606527,
-      "num": 315338,
+      "raw_hot": 627712,
+      "num": 358668,
       "word": "电脑C盘一定要删除的四个文件夹",
       "onboard_time": 1700100336,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 602617,
+      "num": 404593,
+      "word": "花少5之再见爱人",
+      "onboard_time": 1700103633,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 589972,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 410666,
+      "num": 1974825,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -281,6 +297,22 @@
       "onboard_time": 1700099617,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409491,
+      "num": 387489,
+      "word": "94岁中国女首富曾分300亿元给儿媳",
+      "onboard_time": 1700103454,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 409319,
+      "num": 409319,
+      "word": "拜登说美国乐见中国发展富裕",
+      "onboard_time": 1700102561,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 400598,
@@ -297,6 +329,14 @@
       "onboard_time": 1700062471,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377393,
+      "num": 377393,
+      "word": "拜登指着红旗车说beautiful",
+      "onboard_time": 1700104295,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 367840,
@@ -403,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 251695,
+      "num": 251695,
+      "word": "王牌这期是音乐人聚会吧",
+      "onboard_time": 1700103158,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248224,
       "num": 248224,
       "word": "尖叫之夜导演辟谣网传内场图",
@@ -411,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244777,
-      "num": 244777,
+      "raw_hot": 245362,
+      "num": 245362,
       "word": "中国的发展壮大是外部力量阻挡不了的",
       "onboard_time": 1700092654,
       "rank": 27,
@@ -443,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230631,
+      "num": 230631,
+      "word": "向佐郭碧婷合体拍大片",
+      "onboard_time": 1700104363,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 227513,
       "num": 227513,
       "word": "警花下班捡3岁娃收到超可爱小锦旗",
@@ -457,6 +513,14 @@
       "onboard_time": 1700091507,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 221298,
+      "num": 221298,
+      "word": "中美要了解彼此的原则底线",
+      "onboard_time": 1700093195,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220072,
@@ -475,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213746,
-      "num": 213746,
-      "word": "中美要了解彼此的原则底线",
-      "onboard_time": 1700093195,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "女孩子养生之蒸苹果",
       "onboard_time": 1700095061,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210088,
+      "num": 210088,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207751,
@@ -515,12 +579,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 202359,
-      "num": 202359,
-      "word": "希望中美做伙伴相互尊重和平共处",
-      "onboard_time": 1700093559,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 203535,
+      "num": 203535,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201411,
@@ -537,6 +601,14 @@
       "onboard_time": 1700101360,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 198711,
+      "num": 198711,
+      "word": "红薯摊小奶狗",
+      "onboard_time": 1700103695,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198617,
@@ -571,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191509,
+      "num": 191509,
+      "word": "亮亮丽君夫妇称被融创销售抢手机",
+      "onboard_time": 1700103758,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191162,
       "num": 191162,
       "word": "何炅见证了多少人的成长",
@@ -595,6 +675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 178515,
+      "num": 178515,
+      "word": "很想很想你定档预告",
+      "onboard_time": 1700104537,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178425,
       "num": 546155,
       "word": "顺其自然25年捐款1577万",
@@ -609,6 +697,14 @@
       "onboard_time": 1700101896,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167018,
+      "num": 167018,
+      "word": "小米Vela开源",
+      "onboard_time": 1700103097,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 165094,
@@ -699,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137199,
+      "num": 137199,
+      "word": "刘亦菲送朱珠粉色玫瑰",
+      "onboard_time": 1700104598,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136264,
       "num": 136264,
       "word": "秋冬氛围感木质香水",
@@ -713,6 +817,14 @@
       "onboard_time": 1700087177,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129012,
+      "num": 129012,
+      "word": "94岁邝肖卿成中国女首富",
+      "onboard_time": 1700104659,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 128508,

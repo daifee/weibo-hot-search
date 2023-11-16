@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700102457156,
+  "endTime": 1700104720772,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2091,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7315190,
+      "num": 7691909,
+      "word": "拜登重申不支持台湾独立",
+      "onboard_time": 1700103758,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7313901,
       "num": 7313901,
       "word": "TFBOYS 微博之夜",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1683688050,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6319424,
-      "num": 1792166,
-      "word": "陈建州 你范范姐就很不爱这种事啊",
-      "onboard_time": 1687838681,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
