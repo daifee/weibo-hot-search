@@ -1,0 +1,410 @@
+{
+  "runTime": 1700141822297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017770,
+        "num": 1017770,
+        "word": "国足vs泰国",
+        "onboard_time": 1700138738,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600523,
+        "num": 600523,
+        "word": "缅北电诈集团3头目被移交我公安机关",
+        "onboard_time": 1700139400,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283949,
+        "num": 576442,
+        "word": "时隔8年再次向美国人民发表的演讲",
+        "onboard_time": 1700139276,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610533,
+        "num": 569551,
+        "word": "武磊铲射破门",
+        "onboard_time": 1700140237,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559866,
+        "num": 559866,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 489870,
+        "num": 489870,
+        "word": "不好意思开口但被民警秒懂",
+        "onboard_time": 1700132196,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443756,
+        "num": 443756,
+        "word": "韦世豪妙传",
+        "onboard_time": 1700140421,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340633,
+        "num": 443714,
+        "word": "银行称顺其自然汇款人是位女士",
+        "onboard_time": 1700130756,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269877,
+        "num": 442753,
+        "word": "九嶷山宣传片",
+        "onboard_time": 1700139460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212638,
+        "num": 441908,
+        "word": "美国重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2293966,
+        "num": 441310,
+        "word": "周扬青骂恋综男嘉宾大渣男",
+        "onboard_time": 1700138797,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2225180,
+        "num": 440926,
+        "word": "缅北电诈头目明学昌自杀死亡",
+        "onboard_time": 1700141263,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1563059,
+        "num": 440170,
+        "word": "明学昌明珍珍明国平被逮捕",
+        "onboard_time": 1700131595,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084146,
+        "num": 439863,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1700134172,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 720765,
+        "num": 439035,
+        "word": "告五人 五月天嘉宾",
+        "onboard_time": 1700139460,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 714692,
+        "num": 438254,
+        "word": "郭敬明晒陈都灵程潇剧照",
+        "onboard_time": 1700140181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587702,
+        "num": 437989,
+        "word": "缅甸民族民主同盟军回应明学昌豪宅被炸",
+        "onboard_time": 1700134535,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520007,
+        "num": 437180,
+        "word": "蛇皮腿是怎么一回事",
+        "onboard_time": 1700135195,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 436832,
+        "num": 436832,
+        "word": "男子半夜爬独居女子窗户被击落身亡",
+        "onboard_time": 1700127693,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396544,
+        "num": 396544,
+        "word": "缅北",
+        "onboard_time": 1700134835,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390865,
+        "num": 390865,
+        "word": "吴青峰 我也抢不到票啊",
+        "onboard_time": 1700139880,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374030,
+        "num": 374030,
+        "word": "邓为爆改无脸男",
+        "onboard_time": 1700134114,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332478,
+        "num": 332478,
+        "word": "王昭君新皮肤",
+        "onboard_time": 1700138858,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329022,
+        "num": 329022,
+        "word": "嗑到成年人的纯爱了",
+        "onboard_time": 1700140237,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315658,
+        "num": 315658,
+        "word": "景甜 可以从睁眼吃到睡觉",
+        "onboard_time": 1700138557,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305837,
+        "num": 305837,
+        "word": "雪莉 东亚娱乐行业",
+        "onboard_time": 1700128355,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261818,
+        "num": 261818,
+        "word": "香港迪士尼官宣开启冰雪奇缘园区",
+        "onboard_time": 1700138318,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 259548,
+        "num": 259548,
+        "word": "佘诗曼马国明回应TVB20年还是这些人扛剧",
+        "onboard_time": 1700140839,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231595,
+        "num": 231595,
+        "word": "winter舞台妆造",
+        "onboard_time": 1700139400,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 229089,
+        "num": 229089,
+        "word": "自驾阿姨苏敏希望和丈夫好聚好散",
+        "onboard_time": 1700137779,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 260402,
+        "num": 227235,
+        "word": "泰国球员球衣被撕破",
+        "onboard_time": 1700140359,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220417,
+        "num": 220417,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216601,
+        "num": 216601,
+        "word": "于适这双眼睛太勾人了",
+        "onboard_time": 1700141020,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 209136,
+        "num": 209136,
+        "word": "孤舟过审",
+        "onboard_time": 1700139337,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207358,
+        "num": 207358,
+        "word": "罗英子公婆下跪道歉",
+        "onboard_time": 1700136215,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205070,
+        "num": 205070,
+        "word": "导演李洪生去世",
+        "onboard_time": 1700137596,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 199292,
+        "word": "阿信 上海宵夜要吃什么",
+        "onboard_time": 1700139759,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193767,
+        "num": 193767,
+        "word": "KPL 看不懂",
+        "onboard_time": 1700134595,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189364,
+        "num": 189364,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181768,
+        "num": 181768,
+        "word": "被骗到缅甸的人都遭遇了什么",
+        "onboard_time": 1700136097,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181400,
+        "num": 181400,
+        "word": "探班隔离中的美香一家",
+        "onboard_time": 1700135797,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172053,
+        "num": 172053,
+        "word": "大冰来了都能坐下",
+        "onboard_time": 1700136638,
+        "rank": 41,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 156144,
+        "num": 156144,
+        "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+        "onboard_time": 1700126195,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155948,
+        "num": 155948,
+        "word": "来报恩的草莓蛋糕",
+        "onboard_time": 1700140782,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150650,
+        "num": 150650,
+        "word": "农村女性的晚年",
+        "onboard_time": 1700127454,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148125,
+        "num": 148125,
+        "word": "韩国高考数学第一题",
+        "onboard_time": 1700120974,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "有点二叔求娶明兰那意思了",
+        "onboard_time": 1700116295,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137342,
+        "num": 137342,
+        "word": "aespa Karina 直拍",
+        "onboard_time": 1700140600,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120618,
+        "num": 120618,
+        "word": "幼儿园小女孩800米跑3分11秒",
+        "onboard_time": 1700115994,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117058,
+        "num": 117058,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#旧金山会晤中美应该有新的愿景#"
+    }
+  }
+}
