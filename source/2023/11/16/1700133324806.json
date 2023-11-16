@@ -1,0 +1,410 @@
+{
+  "runTime": 1700133324806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398471,
+        "num": 398471,
+        "word": "中美元首一起看38年前的照片",
+        "onboard_time": 1700122113,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19296,
+        "num": 385722,
+        "word": "女童摔倒后昏迷交警一路小跑送急诊",
+        "onboard_time": 1700132854,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95938,
+        "num": 380757,
+        "word": "一篇面向全美各界发表的演讲",
+        "onboard_time": 1700119414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805755,
+        "num": 366000,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 504337,
+        "num": 355578,
+        "word": "银行称顺其自然汇款人是位女士",
+        "onboard_time": 1700130756,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342261,
+        "num": 342261,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300574,
+        "num": 300574,
+        "word": "美国重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246899,
+        "num": 287004,
+        "word": "5岁女孩霸气拦警车救生病老爷爷",
+        "onboard_time": 1700128714,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282451,
+        "num": 282451,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269230,
+        "num": 269230,
+        "word": "幼儿园小女孩800米跑3分11秒",
+        "onboard_time": 1700115994,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 208377,
+        "num": 269104,
+        "word": "中国女排首次夺得世界冠军42周年",
+        "onboard_time": 1700123614,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1915727,
+        "num": 268573,
+        "word": "明学昌明珍珍明国平被逮捕",
+        "onboard_time": 1700131595,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1571571,
+        "num": 268050,
+        "word": "雪莉 东亚娱乐行业",
+        "onboard_time": 1700128355,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1359437,
+        "num": 267941,
+        "word": "男子半夜爬独居女子窗户被击落身亡",
+        "onboard_time": 1700127693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740816,
+        "num": 267335,
+        "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+        "onboard_time": 1700126195,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584487,
+        "num": 267018,
+        "word": "韩国高考数学第一题",
+        "onboard_time": 1700120974,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558384,
+        "num": 266616,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428680,
+        "num": 266235,
+        "word": "农村女性的晚年",
+        "onboard_time": 1700127454,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422647,
+        "num": 265696,
+        "word": "女演员 优质工作机会",
+        "onboard_time": 1700127693,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346169,
+        "num": 265362,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282120,
+        "num": 265027,
+        "word": "警方已接收大批缅甸归国电诈人员",
+        "onboard_time": 1700131295,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264904,
+        "num": 264904,
+        "word": "DIOR活动",
+        "onboard_time": 1700129493,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 258398,
+        "num": 258398,
+        "word": "有点二叔求娶明兰那意思了",
+        "onboard_time": 1700116295,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247805,
+        "num": 247805,
+        "word": "十个勤天睡觉满头大脚",
+        "onboard_time": 1700129316,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227654,
+        "num": 227654,
+        "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+        "onboard_time": 1700113536,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206100,
+        "num": 206100,
+        "word": "海清哭了",
+        "onboard_time": 1700132974,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195603,
+        "num": 195603,
+        "word": "国民媳妇 标签固化",
+        "onboard_time": 1700131892,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194514,
+        "num": 194514,
+        "word": "宁安如梦 遮宁的遗憾",
+        "onboard_time": 1700130333,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190249,
+        "num": 190249,
+        "word": "减肥成功的人每天都做的3件事",
+        "onboard_time": 1700127332,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188432,
+        "num": 188432,
+        "word": "父母为出生仅550克的宝宝取名小强",
+        "onboard_time": 1700127454,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181244,
+        "num": 181244,
+        "word": "和李雪琴嗑上同一对cp了",
+        "onboard_time": 1700131774,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160658,
+        "num": 160658,
+        "word": "辛芷蕾刚出道的角色",
+        "onboard_time": 1700132132,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154382,
+        "num": 154382,
+        "word": "NOBODY MV",
+        "onboard_time": 1700128835,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141765,
+        "num": 141765,
+        "word": "官方通报山西永聚煤业火灾",
+        "onboard_time": 1700127211,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138861,
+        "num": 138861,
+        "word": "网购ZARA商品不能在门店退换",
+        "onboard_time": 1700126914,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138408,
+        "num": 138408,
+        "word": "教育局回应女童幼儿园午休疑遭猥亵",
+        "onboard_time": 1700122534,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134745,
+        "num": 134745,
+        "word": "高端普洱茶价格下跌百分之十二",
+        "onboard_time": 1700131774,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134315,
+        "num": 134315,
+        "word": "云南临沧对缅甸果敢发故障停电通知",
+        "onboard_time": 1700126313,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131170,
+        "num": 131170,
+        "word": "打高颅顶 斑秃",
+        "onboard_time": 1700126554,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121683,
+        "num": 121683,
+        "word": "李连杰现身台湾辟谣死讯",
+        "onboard_time": 1700111619,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83486,
+        "num": 116651,
+        "word": "公交师傅的100元温暖了这个寒夜",
+        "onboard_time": 1700131653,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 116622,
+        "word": "小米智能生态超4成用户来自苹果",
+        "onboard_time": 1700129433,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115241,
+        "num": 115241,
+        "word": "中美将优化签证申请流程",
+        "onboard_time": 1700113175,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112609,
+        "num": 112609,
+        "word": "ENHYPEN空降",
+        "onboard_time": 1700118394,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111019,
+        "num": 111019,
+        "word": "不好意思开口但被民警秒懂",
+        "onboard_time": 1700132196,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109885,
+        "num": 109885,
+        "word": "奚梦瑶 结婚后很有意思很开心",
+        "onboard_time": 1700114376,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108777,
+        "num": 108777,
+        "word": "于适复古白色丝质衬衫造型",
+        "onboard_time": 1700130035,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101394,
+        "num": 101394,
+        "word": "王者联动美少女战士宇宙之章",
+        "onboard_time": 1700126255,
+        "rank": 48,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 97126,
+        "num": 97126,
+        "word": "宁安如梦有自己的燃冬",
+        "onboard_time": 1700127631,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席美国友好团体联合欢迎宴会#"
+    }
+  }
+}

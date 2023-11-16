@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 18:38:02
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 19:15:24
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AD%A6%E6%98%8C%E6%98%8E%E7%8F%8D%E7%8F%8D%E6%98%8E%E5%9B%BD%E5%B9%B3%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
+明学昌明珍珍明国平被逮捕（热度：1915727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%20%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%8B%E4%BB%B6%E5%A4%A7%E6%A6%82%E7%8E%87%E4%B8%8D%E4%BA%86%E4%BA%86%E4%B9%8B%23" target="weibo">
 协和医生 中山二院事件大概率不了了之（热度：1909383）
 </a>
@@ -2061,6 +2067,12 @@ T1 压力（热度：1376437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%8A%E5%A4%9C%E7%88%AC%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E7%AA%97%E6%88%B7%E8%A2%AB%E5%87%BB%E8%90%BD%E8%BA%AB%E4%BA%A1%23" target="weibo">
+男子半夜爬独居女子窗户被击落身亡（热度：1359437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%A5%E6%9C%89%E6%95%99%E5%B8%88%E7%BC%96%E5%88%B6%E7%9A%84%E4%BB%96%E4%BB%AC%E5%90%8E%E6%82%94%E4%BA%86%23" target="weibo">
 拥有教师编制的他们后悔了（热度：1359273）
 </a>
@@ -2645,12 +2657,6 @@ JDG半决赛扳回一城（热度：1165428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E6%BC%94%E6%99%8B%E6%B1%9F%E7%94%B7%E4%B8%BB%E4%BA%86%23" target="weibo">
 邱泽演晋江男主了（热度：1159615）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%8A%E5%A4%9C%E7%88%AC%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E7%AA%97%E6%88%B7%E8%A2%AB%E5%87%BB%E8%90%BD%E8%BA%AB%E4%BA%A1%23" target="weibo">
-男子半夜爬独居女子窗户被击落身亡（热度：1159018）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG 出列（热度：634682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8D%8E%E7%8F%AD%23" target="weibo">
 全华班（热度：632845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E5%8A%A8%E7%94%BB%20%E7%A6%BB%E8%B0%B1%23" target="weibo">
-柯南动画 离谱（热度：632760）
 </a>
 </li>
 
