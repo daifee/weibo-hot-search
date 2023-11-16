@@ -1,9 +1,17 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700176655349,
+  "endTime": 1700177697639,
   "band_list": [
     {
-      "raw_hot": 787181,
+      "raw_hot": 1633121,
+      "num": 142412,
+      "word": "唐禹哲 十一年前我未婚有了孩子",
+      "onboard_time": 1700176646,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 928642,
       "num": 348477,
       "word": "为让4岁男孩落户18岁父亲现身亲子鉴定",
       "onboard_time": 1700146373,
@@ -35,7 +43,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428107,
+      "raw_hot": 471750,
+      "num": 226822,
+      "word": "秦岚 另一半没有严丝合缝的",
+      "onboard_time": 1700142585,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 453995,
+      "num": 183619,
+      "word": "刘亦菲迪士尼公主出场",
+      "onboard_time": 1700176102,
+      "rank": 6,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 433607,
       "num": 363100,
       "word": "中奖500万彩票号付款后老板忘出票",
       "onboard_time": 1700143910,
@@ -67,14 +91,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399159,
-      "num": 226822,
-      "word": "秦岚 另一半没有严丝合缝的",
-      "onboard_time": 1700142585,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383312,
       "num": 347646,
       "word": "龚俊 我本是高山是良心之作",
@@ -83,20 +99,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337746,
+      "num": 290705,
+      "word": "国家一级演员苏孝林被公诉",
+      "onboard_time": 1700146846,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299050,
       "num": 299050,
       "word": "长期吃辣的人后来怎么样了",
       "onboard_time": 1700144327,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 290705,
-      "num": 290705,
-      "word": "国家一级演员苏孝林被公诉",
-      "onboard_time": 1700146846,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 279874,
@@ -139,6 +155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 210363,
+      "num": 210363,
+      "word": "第10批在韩志愿军烈士遗骸即将回国",
+      "onboard_time": 1700177366,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206838,
       "num": 206838,
       "word": "张馨予回应东北大花",
@@ -153,6 +177,14 @@
       "onboard_time": 1700127693,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184507,
+      "num": 393755,
+      "word": "时隔8年再次向美国人民发表的演讲",
+      "onboard_time": 1700139276,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 184220,
@@ -179,7 +211,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172679,
+      "raw_hot": 181323,
       "num": 378927,
       "word": "这届打工人流行上夜校",
       "onboard_time": 1700150795,
@@ -203,28 +235,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170785,
-      "num": 109770,
-      "word": "唐禹哲 十一年前我未婚有了孩子",
-      "onboard_time": 1700176646,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 169652,
-      "num": 126764,
-      "word": "刘亦菲迪士尼公主出场",
-      "onboard_time": 1700176102,
-      "rank": 6,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 165280,
       "num": 106595,
       "word": "工人日报评通缉电诈头目",
       "onboard_time": 1700154503,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157100,
+      "num": 157100,
+      "word": "00后新警收到定制警旗后开心到起飞",
+      "onboard_time": 1700158102,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154593,
+      "num": 154593,
+      "word": "辛纳德约科维奇携手晋级",
+      "onboard_time": 1700177067,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 151308,
@@ -241,14 +273,6 @@
       "onboard_time": 1700140181,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142219,
-      "num": 393755,
-      "word": "时隔8年再次向美国人民发表的演讲",
-      "onboard_time": 1700139276,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 141337,
@@ -299,12 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124797,
-      "num": 124797,
-      "word": "00后新警收到定制警旗后开心到起飞",
-      "onboard_time": 1700158102,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 124664,
+      "num": 124664,
+      "word": "苹果天气又崩了",
+      "onboard_time": 1700176464,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 120578,
@@ -355,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109111,
+      "num": 182646,
+      "word": "欢迎继续投资中国深耕中国",
+      "onboard_time": 1700176646,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104064,
       "num": 104064,
       "word": "Lana Del Rey荡秋千演唱",
@@ -363,8 +395,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100973,
-      "num": 100973,
+      "raw_hot": 101259,
+      "num": 101259,
       "word": "被骗到缅甸的人都遭遇了什么",
       "onboard_time": 1700136097,
       "rank": 44,
@@ -377,6 +409,14 @@
       "onboard_time": 1700144087,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98490,
+      "num": 60803,
+      "word": "国足反超泰国",
+      "onboard_time": 1700176766,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 98045,
@@ -393,6 +433,14 @@
       "onboard_time": 1700148640,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93439,
+      "num": 109015,
+      "word": "野生大熊猫实时视频电话接通了",
+      "onboard_time": 1700175743,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90236,
@@ -452,11 +500,27 @@
     },
     {
       "raw_hot": 76234,
-      "num": 56621,
+      "num": 60528,
       "word": "龚俊钟楚曦吻戏",
       "onboard_time": 1700161035,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76011,
+      "num": 76011,
+      "word": "东北大爷脱衣跳冰河救人获奖1万",
+      "onboard_time": 1700177067,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68589,
+      "num": 68589,
+      "word": "武磊说要放低姿态拼韩国",
+      "onboard_time": 1700177306,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 66914,
@@ -475,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57355,
-      "num": 117409,
-      "word": "欢迎继续投资中国深耕中国",
-      "onboard_time": 1700176646,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 58406,
+      "num": 58406,
+      "word": "海底捞个别门店试点调整份量和价格",
+      "onboard_time": 1700177668,
+      "rank": 45,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 57081,
@@ -489,22 +553,6 @@
       "onboard_time": 1700172495,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 53717,
-      "num": 53717,
-      "word": "野生大熊猫实时视频电话接通了",
-      "onboard_time": 1700175743,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48701,
-      "num": 52751,
-      "word": "苹果天气又崩了",
-      "onboard_time": 1700176464,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 45180,
@@ -547,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21045,
+      "num": 183874,
+      "word": "一个选择三项原则五根支柱",
+      "onboard_time": 1700177427,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19752,
       "num": 37403,
       "word": "詹姆斯钉板大帽萨博尼斯",
@@ -569,6 +625,14 @@
       "onboard_time": 1700162894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7285,
+      "num": 154370,
+      "word": "打造合作共赢的开放型亚太经济",
+      "onboard_time": 1700177608,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6317,
