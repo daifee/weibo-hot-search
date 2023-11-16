@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 15:33:57
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 16:22:40
 </p>
 </blockquote>
 <p>
@@ -707,6 +707,12 @@ fx 重聚（热度：2316654）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%90%AC%E7%A6%BB%E5%AE%BF%E8%88%8D%23" target="weibo">
 助学金事件当事人称已搬离宿舍（热度：2185797）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%80%E9%A2%98%23" target="weibo">
+韩国高考数学第一题（热度：2183505）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ruler和Faker第100次对决（热度：632705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B8%83%E9%9B%B7%E8%BD%A6%E7%A5%B8%23" target="weibo">
 乌布雷车祸（热度：628047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%84%91C%E7%9B%98%E4%B8%80%E5%AE%9A%E8%A6%81%E5%88%A0%E9%99%A4%E7%9A%84%E5%9B%9B%E4%B8%AA%E6%96%87%E4%BB%B6%E5%A4%B9%23" target="weibo">
-电脑C盘一定要删除的四个文件夹（热度：627712）
 </a>
 </li>
 

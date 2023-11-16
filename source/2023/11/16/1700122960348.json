@@ -1,0 +1,410 @@
+{
+  "runTime": 1700122960348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 624232,
+        "num": 925690,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206105,
+        "num": 924148,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249138,
+        "num": 920314,
+        "word": "一篇面向全美各界发表的演讲",
+        "onboard_time": 1700119414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2183505,
+        "num": 920264,
+        "word": "韩国高考数学第一题",
+        "onboard_time": 1700120974,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 920055,
+        "num": 920055,
+        "word": "拜登重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 724945,
+        "num": 724945,
+        "word": "幼儿园小女孩800米跑3分11秒",
+        "onboard_time": 1700115994,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 467138,
+        "num": 467138,
+        "word": "在暴雪时分集数变更",
+        "onboard_time": 1700121574,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463531,
+        "num": 463531,
+        "word": "拜登展示了一张38年前的照片",
+        "onboard_time": 1700122113,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 451099,
+        "num": 451099,
+        "word": "檀健次首部现偶男主",
+        "onboard_time": 1700108437,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424335,
+        "num": 424335,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 986612,
+        "num": 424081,
+        "word": "有点二叔求娶明兰那意思了",
+        "onboard_time": 1700116295,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 911915,
+        "num": 417901,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660056,
+        "num": 413630,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515390,
+        "num": 404571,
+        "word": "山西永聚煤业火灾已致26人遇难",
+        "onboard_time": 1700118155,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494032,
+        "num": 401547,
+        "word": "偷星九月天有自己的燃冬",
+        "onboard_time": 1700118813,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 397924,
+        "num": 397924,
+        "word": "李连杰现身台湾辟谣死讯",
+        "onboard_time": 1700111619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378678,
+        "num": 378678,
+        "word": "秦岚 白月光",
+        "onboard_time": 1700121512,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311155,
+        "num": 311155,
+        "word": "永聚煤业相关负责人已被警方控制",
+        "onboard_time": 1700120255,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309546,
+        "num": 309546,
+        "word": "抖音测试付费短视频",
+        "onboard_time": 1700100935,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259291,
+        "num": 259291,
+        "word": "奚梦瑶 结婚后很有意思很开心",
+        "onboard_time": 1700114376,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428702,
+        "num": 258983,
+        "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+        "onboard_time": 1700113536,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342880,
+        "num": 258644,
+        "word": "大腿粗壮可能是骨盆前倾",
+        "onboard_time": 1700121274,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 257936,
+        "num": 257936,
+        "word": "白鹿白敬亭互联网朋友",
+        "onboard_time": 1700119593,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242875,
+        "num": 242875,
+        "word": "你仨把日子过好比什么都强",
+        "onboard_time": 1700120851,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240706,
+        "num": 240706,
+        "word": "迪丽热巴送给我的呦",
+        "onboard_time": 1700118095,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218011,
+        "num": 218011,
+        "word": "中美将优化签证申请流程",
+        "onboard_time": 1700113175,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198562,
+        "num": 198562,
+        "word": "缅北电诈头目的暗黑人生",
+        "onboard_time": 1700111199,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197086,
+        "num": 197086,
+        "word": "蒲熠星 不要强求观众认同",
+        "onboard_time": 1700116232,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187695,
+        "num": 187695,
+        "word": "白鹿旗袍身材曲线",
+        "onboard_time": 1700111259,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186090,
+        "num": 186090,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185062,
+        "num": 185062,
+        "word": "王一博对镜整理领结",
+        "onboard_time": 1700119714,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181104,
+        "num": 181104,
+        "word": "恋与深空测试",
+        "onboard_time": 1700121756,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173732,
+        "num": 173732,
+        "word": "特警帮车祸司机1.5小时卖光800斤橘子",
+        "onboard_time": 1700117855,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168706,
+        "num": 168706,
+        "word": "我嗑的cp试戏也真亲",
+        "onboard_time": 1700119114,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162978,
+        "num": 162978,
+        "word": "要增加中美两国直航航班",
+        "onboard_time": 1700093734,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161854,
+        "num": 161854,
+        "word": "ENHYPEN空降",
+        "onboard_time": 1700118394,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155708,
+        "num": 155708,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153393,
+        "num": 153393,
+        "word": "教育局回应女童幼儿园午休疑遭猥亵",
+        "onboard_time": 1700122534,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149604,
+        "num": 149604,
+        "word": "T1和WBG与NewJeans交换队服",
+        "onboard_time": 1700105077,
+        "rank": 38,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 145643,
+        "num": 145643,
+        "word": "大熊猫渝爱的小树皮掉了",
+        "onboard_time": 1700119833,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137414,
+        "num": 137414,
+        "word": "秦昊说杨超越挺抠的",
+        "onboard_time": 1700119173,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135176,
+        "num": 135176,
+        "word": "在美国友好团体联合欢迎宴会上演讲全文",
+        "onboard_time": 1700119775,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134625,
+        "num": 134625,
+        "word": "冬天打车 钻进司机被窝",
+        "onboard_time": 1700119953,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132738,
+        "num": 132738,
+        "word": "这才是我熟悉的牛肉拉面",
+        "onboard_time": 1700120794,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129707,
+        "num": 129707,
+        "word": "晋江文永久居住证持有者",
+        "onboard_time": 1700110365,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129276,
+        "num": 129276,
+        "word": "给内娱一点力量震撼",
+        "onboard_time": 1700116893,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121229,
+        "num": 121229,
+        "word": "爱奇艺尖叫之夜看点",
+        "onboard_time": 1700116834,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113651,
+        "num": 113651,
+        "word": "浓眉怎么了",
+        "onboard_time": 1700117734,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111507,
+        "num": 111507,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1700084594,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106808,
+        "num": 106808,
+        "word": "首先要回答的是中美到底是对手还是伙伴",
+        "onboard_time": 1700114556,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首举行会晤#"
+    }
+  }
+}
