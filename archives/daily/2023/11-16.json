@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700123763550,
+  "endTime": 1700126276318,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2124697,
+      "num": 1380521,
+      "word": "拜登展示了一张38年前的照片",
+      "onboard_time": 1700122113,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1991533,
       "num": 1991533,
       "word": "中美元首相互道别",
@@ -81,14 +89,6 @@
       "onboard_time": 1700113416,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1380521,
-      "num": 1380521,
-      "word": "拜登展示了一张38年前的照片",
-      "onboard_time": 1700122113,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1345115,
@@ -193,6 +193,14 @@
       "onboard_time": 1700092531,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 808276,
+      "num": 341355,
+      "word": "教育局回应女童幼儿园午休疑遭猥亵",
+      "onboard_time": 1700122534,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798966,
@@ -556,11 +564,19 @@
     },
     {
       "raw_hot": 409131,
-      "num": 258644,
+      "num": 283318,
       "word": "大腿粗壮可能是骨盆前倾",
       "onboard_time": 1700121274,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 404013,
+      "num": 307552,
+      "word": "山西吕梁永聚煤业火灾已扑灭",
+      "onboard_time": 1700125716,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400598,
@@ -585,6 +601,14 @@
       "onboard_time": 1700062471,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392807,
+      "num": 392807,
+      "word": "河南推出胡辣汤奶茶还送油条",
+      "onboard_time": 1700123013,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 374089,
@@ -659,14 +683,6 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 341355,
-      "num": 341355,
-      "word": "教育局回应女童幼儿园午休疑遭猥亵",
-      "onboard_time": 1700122534,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327918,
       "num": 327918,
       "word": "罗翔 不要带有知识的优越感",
@@ -681,6 +697,14 @@
       "onboard_time": 1700118095,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318586,
+      "num": 318586,
+      "word": "中国女排首次夺得世界冠军42周年",
+      "onboard_time": 1700123614,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 317462,
@@ -699,12 +723,28 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 312363,
+      "num": 270796,
+      "word": "因为太爱睡觉被轮番带去医院",
+      "onboard_time": 1700124634,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311155,
       "num": 311155,
       "word": "永聚煤业相关负责人已被警方控制",
       "onboard_time": 1700120255,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306717,
+      "num": 306717,
+      "word": "王者联动美少女战士宇宙之章",
+      "onboard_time": 1700126255,
+      "rank": 17,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 302274,
@@ -931,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234921,
+      "num": 234921,
+      "word": "2千元丢失报警在冰箱找到老人自责落泪",
+      "onboard_time": 1700125116,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231774,
       "num": 376254,
       "word": "原神 心海联动",
@@ -1065,6 +1113,22 @@
       "onboard_time": 1700045555,
       "rank": 16,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 204813,
+      "num": 204813,
+      "word": "孙子抱着84岁的奶奶洗头",
+      "onboard_time": 1700124335,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204431,
+      "num": 204431,
+      "word": "猫 化好妆又要丢下我出门",
+      "onboard_time": 1700124755,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 203209,
@@ -1291,6 +1355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179927,
+      "num": 179927,
+      "word": "小学生哭着求助店主的反应太暖了",
+      "onboard_time": 1700125234,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 179716,
       "num": 179716,
       "word": "不得不久坐的补救方法",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1700101896,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171693,
-      "num": 171693,
-      "word": "河南推出胡辣汤奶茶还送油条",
-      "onboard_time": 1700123013,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 171544,
@@ -1403,6 +1467,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161667,
+      "num": 161667,
+      "word": "女性日历",
+      "onboard_time": 1700126012,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161278,
+      "num": 161278,
+      "word": "月光武士定档",
+      "onboard_time": 1700124455,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161255,
       "num": 161255,
       "word": "10岁女孩攒29元零花钱给奶奶买棉袄",
@@ -1441,6 +1521,14 @@
       "onboard_time": 1700106998,
       "rank": 42,
       "category": "运动健身,艺人"
+    },
+    {
+      "raw_hot": 149759,
+      "num": 149759,
+      "word": "国考倒计时10天",
+      "onboard_time": 1700125894,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 149597,
@@ -1489,6 +1577,14 @@
       "onboard_time": 1700107059,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143885,
+      "num": 143885,
+      "word": "掏100元给抱娃女子的公交司机发声",
+      "onboard_time": 1700125414,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143660,
@@ -1553,6 +1649,14 @@
       "onboard_time": 1700110180,
       "rank": 48,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "国足战泰国24人名单",
+      "onboard_time": 1700125654,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 132738,
@@ -1627,14 +1731,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 123229,
-      "num": 123229,
-      "word": "中国女排首次夺得世界冠军42周年",
-      "onboard_time": 1700123614,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122902,
       "num": 148910,
       "word": "麦当劳回应牛奶一杯23元",
@@ -1665,6 +1761,14 @@
       "onboard_time": 1700062113,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118643,
+      "num": 118643,
+      "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+      "onboard_time": 1700126195,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118510,
@@ -1705,6 +1809,14 @@
       "onboard_time": 1700060855,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110293,
+      "num": 110293,
+      "word": "渝爱打包盆盆回家找奶妈换果果",
+      "onboard_time": 1700125174,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108856,
