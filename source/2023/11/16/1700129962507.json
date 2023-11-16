@@ -1,0 +1,410 @@
+{
+  "runTime": 1700129962507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640226,
+        "num": 640226,
+        "word": "中美元首一起看38年前的照片",
+        "onboard_time": 1700122113,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 594729,
+        "word": "女童就医途中病情加剧交警疾驰开道送医",
+        "onboard_time": 1700128234,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118854,
+        "num": 563680,
+        "word": "一篇面向全美各界发表的演讲",
+        "onboard_time": 1700119414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992243,
+        "num": 506340,
+        "word": "拜登重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183841,
+        "num": 482442,
+        "word": "5岁女孩霸气拦警车救生病老爷爷",
+        "onboard_time": 1700128714,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219449,
+        "num": 404831,
+        "word": "中国女排首次夺得世界冠军42周年",
+        "onboard_time": 1700123614,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388171,
+        "num": 388171,
+        "word": "幼儿园小女孩800米跑3分11秒",
+        "onboard_time": 1700115994,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 683631,
+        "num": 381728,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352004,
+        "num": 352004,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330417,
+        "num": 330417,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1531820,
+        "num": 329754,
+        "word": "雪莉 东亚娱乐行业",
+        "onboard_time": 1700128355,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1222817,
+        "num": 328804,
+        "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+        "onboard_time": 1700126195,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047170,
+        "num": 326592,
+        "word": "韩国高考数学第一题",
+        "onboard_time": 1700120974,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 913174,
+        "num": 325748,
+        "word": "女演员 优质工作机会",
+        "onboard_time": 1700127693,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39639,
+        "num": 324030,
+        "word": "千金玛德琳穿搭",
+        "onboard_time": 1700128835,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 786417,
+        "num": 323069,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693454,
+        "num": 321464,
+        "word": "官方通报山西永聚煤业火灾",
+        "onboard_time": 1700127211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686737,
+        "num": 320847,
+        "word": "男子半夜爬独居女子窗户被击落身亡",
+        "onboard_time": 1700127693,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620070,
+        "num": 318956,
+        "word": "农村女性的晚年",
+        "onboard_time": 1700127454,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433227,
+        "num": 317570,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357483,
+        "num": 316807,
+        "word": "有点二叔求娶明兰那意思了",
+        "onboard_time": 1700116295,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316091,
+        "num": 316091,
+        "word": "河南推出胡辣汤奶茶还送油条",
+        "onboard_time": 1700123013,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274768,
+        "num": 274768,
+        "word": "教育局回应女童幼儿园午休疑遭猥亵",
+        "onboard_time": 1700122534,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246988,
+        "num": 246988,
+        "word": "网购ZARA商品不能在门店退换",
+        "onboard_time": 1700126914,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245483,
+        "num": 245483,
+        "word": "打高颅顶 斑秃",
+        "onboard_time": 1700126554,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228568,
+        "num": 228568,
+        "word": "2千元丢失报警在冰箱找到老人自责落泪",
+        "onboard_time": 1700125116,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224855,
+        "num": 224855,
+        "word": "王者联动美少女战士宇宙之章",
+        "onboard_time": 1700126255,
+        "rank": 26,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 221190,
+        "num": 221190,
+        "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+        "onboard_time": 1700113536,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217100,
+        "num": 217100,
+        "word": "父母为出生仅550克的宝宝取名小强",
+        "onboard_time": 1700127454,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207986,
+        "num": 207986,
+        "word": "NOBODY MV",
+        "onboard_time": 1700128835,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202520,
+        "num": 202520,
+        "word": "十个勤天睡觉满头大脚",
+        "onboard_time": 1700129316,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198548,
+        "num": 198548,
+        "word": "普通人学滑雪",
+        "onboard_time": 1700129254,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 197289,
+        "num": 197289,
+        "word": "宁安如梦有自己的燃冬",
+        "onboard_time": 1700127631,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194148,
+        "num": 194148,
+        "word": "檀健次首部现偶男主",
+        "onboard_time": 1700108437,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192974,
+        "num": 192974,
+        "word": "因为太爱睡觉被轮番带去医院",
+        "onboard_time": 1700124634,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191791,
+        "num": 191791,
+        "word": "小米智能生态超4成用户来自苹果",
+        "onboard_time": 1700129433,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188048,
+        "num": 188048,
+        "word": "DIOR活动",
+        "onboard_time": 1700129493,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187155,
+        "num": 187155,
+        "word": "李连杰现身台湾辟谣死讯",
+        "onboard_time": 1700111619,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177451,
+        "num": 177451,
+        "word": "云南临沧对缅甸果敢发故障停电通知",
+        "onboard_time": 1700126313,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148657,
+        "num": 148657,
+        "word": "山西吕梁永聚煤业火灾已扑灭",
+        "onboard_time": 1700125716,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141148,
+        "num": 141148,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140346,
+        "num": 140346,
+        "word": "猫 化好妆又要丢下我出门",
+        "onboard_time": 1700124755,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137349,
+        "num": 137349,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136293,
+        "num": 136293,
+        "word": "减肥成功的人每天都做的3件事",
+        "onboard_time": 1700127332,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134362,
+        "num": 134362,
+        "word": "中美将优化签证申请流程",
+        "onboard_time": 1700113175,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129165,
+        "num": 129165,
+        "word": "山西永聚煤业大股东已是老赖",
+        "onboard_time": 1700127513,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127428,
+        "num": 127428,
+        "word": "大腿粗壮可能是骨盆前倾",
+        "onboard_time": 1700121274,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127315,
+        "num": 127315,
+        "word": "辣咖喱芝士乌冬面",
+        "onboard_time": 1700129733,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124110,
+        "num": 124110,
+        "word": "奚梦瑶 结婚后很有意思很开心",
+        "onboard_time": 1700114376,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119520,
+        "num": 119520,
+        "word": "要增加中美两国直航航班",
+        "onboard_time": 1700093734,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首举行会晤#"
+    }
+  }
+}

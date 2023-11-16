@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700127287556,
+  "endTime": 1700129962507,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -91,12 +91,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1531820,
+      "num": 329754,
+      "word": "雪莉 东亚娱乐行业",
+      "onboard_time": 1700128355,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1345115,
       "num": 1345115,
       "word": "中美元首散步交谈",
       "onboard_time": 1700090484,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1222817,
+      "num": 328804,
+      "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+      "onboard_time": 1700126195,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1179468,
@@ -145,6 +161,14 @@
       "onboard_time": 1700113536,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913174,
+      "num": 325748,
+      "word": "女演员 优质工作机会",
+      "onboard_time": 1700127693,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 912950,
@@ -275,11 +299,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693454,
+      "num": 321464,
+      "word": "官方通报山西永聚煤业火灾",
+      "onboard_time": 1700127211,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691954,
       "num": 356348,
       "word": "山西永聚煤业火灾遇难升至25人",
       "onboard_time": 1700114317,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686737,
+      "num": 320847,
+      "word": "男子半夜爬独居女子窗户被击落身亡",
+      "onboard_time": 1700127693,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -307,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640226,
+      "num": 640226,
+      "word": "中美元首一起看38年前的照片",
+      "onboard_time": 1700122113,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 638420,
       "num": 554318,
       "word": "加沙长时间暂时停火决议美国弃权票",
@@ -321,6 +369,14 @@
       "onboard_time": 1700100336,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 620070,
+      "num": 318956,
+      "word": "农村女性的晚年",
+      "onboard_time": 1700127454,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 602617,
@@ -449,14 +505,6 @@
       "onboard_time": 1700092171,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497147,
-      "num": 301355,
-      "word": "缅甸一超市中国籍老板娘遭持枪绑架",
-      "onboard_time": 1700126195,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494032,
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 320936,
-      "num": 320936,
+      "num": 404831,
       "word": "中国女排首次夺得世界冠军42周年",
       "onboard_time": 1700123614,
       "rank": 43,
@@ -971,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246988,
+      "num": 246988,
+      "word": "网购ZARA商品不能在门店退换",
+      "onboard_time": 1700126914,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244917,
       "num": 244917,
       "word": "庞博看到杨鸣总冠军戒指的反应",
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217100,
+      "num": 217100,
+      "word": "父母为出生仅550克的宝宝取名小强",
+      "onboard_time": 1700127454,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "女孩子养生之蒸苹果",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1700108979,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207986,
+      "num": 207986,
+      "word": "NOBODY MV",
+      "onboard_time": 1700128835,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 207751,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1700112818,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202520,
+      "num": 202520,
+      "word": "十个勤天睡觉满头大脚",
+      "onboard_time": 1700129316,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 201411,
@@ -1219,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198548,
+      "num": 198548,
+      "word": "普通人学滑雪",
+      "onboard_time": 1700129254,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 198215,
       "num": 198215,
       "word": "我嗑的cp试戏也真亲",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1700117855,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197289,
+      "num": 197289,
+      "word": "宁安如梦有自己的燃冬",
+      "onboard_time": 1700127631,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 196853,
@@ -1265,6 +1361,14 @@
       "onboard_time": 1700099375,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191791,
+      "num": 191791,
+      "word": "小米智能生态超4成用户来自苹果",
+      "onboard_time": 1700129433,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 191728,
@@ -1323,6 +1427,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188048,
+      "num": 188048,
+      "word": "DIOR活动",
+      "onboard_time": 1700129493,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 186283,
+      "num": 594729,
+      "word": "女童就医途中病情加剧交警疾驰开道送医",
+      "onboard_time": 1700128234,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185728,
       "num": 185728,
       "word": "多国限制使用司美格鲁肽",
@@ -1345,6 +1465,14 @@
       "onboard_time": 1700109100,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183841,
+      "num": 482442,
+      "word": "5岁女孩霸气拦警车救生病老爷爷",
+      "onboard_time": 1700128714,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181719,
@@ -1587,27 +1715,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146536,
-      "num": 146536,
-      "word": "网购ZARA商品不能在门店退换",
-      "onboard_time": 1700126914,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145643,
       "num": 145643,
       "word": "大熊猫渝爱的小树皮掉了",
       "onboard_time": 1700119833,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144890,
-      "num": 144890,
-      "word": "官方通报山西永聚煤业火灾",
-      "onboard_time": 1700127211,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1657,6 +1769,14 @@
       "onboard_time": 1700062410,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136293,
+      "num": 136293,
+      "word": "减肥成功的人每天都做的3件事",
+      "onboard_time": 1700127332,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 136264,
@@ -1723,6 +1843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129165,
+      "num": 129165,
+      "word": "山西永聚煤业大股东已是老赖",
+      "onboard_time": 1700127513,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128508,
       "num": 152443,
       "word": "桂林一大巴车侧翻致2死6伤",
@@ -1745,6 +1873,14 @@
       "onboard_time": 1700106457,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127315,
+      "num": 127315,
+      "word": "辣咖喱芝士乌冬面",
+      "onboard_time": 1700129733,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 126534,
@@ -2033,6 +2169,14 @@
       "onboard_time": 1700031994,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39639,
+      "num": 324030,
+      "word": "千金玛德琳穿搭",
+      "onboard_time": 1700128835,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 39614,

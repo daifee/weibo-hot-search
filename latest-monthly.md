@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 17:34:47
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 18:19:22
 </p>
 </blockquote>
 <p>
@@ -1683,6 +1683,12 @@ ELLE回应红毯耍大牌（热度：1560529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%20%E4%B8%9C%E4%BA%9A%E5%A8%B1%E4%B9%90%E8%A1%8C%E4%B8%9A%23" target="weibo">
+雪莉 东亚娱乐行业（热度：1531820）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23nobody%E5%8E%9F%E6%9D%A5%E6%98%AFnobody%20cares%23" target="weibo">
 nobody原来是nobody cares（热度：1528602）
 </a>
@@ -2423,6 +2429,12 @@ JDG晋级S13四强（热度：1251728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
 爸爸通过监控显摆生日吃12个菜（热度：1224717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%80%E8%B6%85%E5%B8%82%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%80%81%E6%9D%BF%E5%A8%98%E9%81%AD%E6%8C%81%E6%9E%AA%E7%BB%91%E6%9E%B6%23" target="weibo">
+缅甸一超市中国籍老板娘遭持枪绑架（热度：1222817）
 </a>
 </li>
 
@@ -3539,6 +3551,12 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E%23" target="weibo">
 姜珮瑶 明媚的美（热度：914262）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%20%E4%BC%98%E8%B4%A8%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%23" target="weibo">
+女演员 优质工作机会（热度：913174）
 </a>
 </li>
 
@@ -5385,6 +5403,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%23" target="weibo">
+官方通报山西永聚煤业火灾（热度：693454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E5%8D%87%E8%87%B325%E4%BA%BA%23" target="weibo">
 山西永聚煤业火灾遇难升至25人（热度：691954）
 </a>
@@ -5453,6 +5477,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%B1%E5%B0%91%E5%85%B6%E5%AE%9E%E6%98%AF%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%90%A7%23" target="weibo">
 迪丽热巴 花少其实是变形计吧（热度：687359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%8A%E5%A4%9C%E7%88%AC%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E7%AA%97%E6%88%B7%E8%A2%AB%E5%87%BB%E8%90%BD%E8%BA%AB%E4%BA%A1%23" target="weibo">
+男子半夜爬独居女子窗户被击落身亡（热度：686737）
 </a>
 </li>
 
@@ -5859,6 +5889,12 @@ YG回应与BLACKPINK续约（热度：646080）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E8%B5%B7%E7%9C%8B38%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
+中美元首一起看38年前的照片（热度：640226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
 陈楚生直播（热度：639413）
 </a>
@@ -5975,42 +6011,6 @@ EDG 出列（热度：634682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E5%8A%A8%E7%94%BB%20%E7%A6%BB%E8%B0%B1%23" target="weibo">
 柯南动画 离谱（热度：632760）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%92%8CFaker%E7%AC%AC100%E6%AC%A1%E5%AF%B9%E5%86%B3%23" target="weibo">
-Ruler和Faker第100次对决（热度：632705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E6%94%B6%E7%99%BE%E4%B8%87%E5%A5%BD%E5%A4%84%E8%B4%B9%23" target="weibo">
-李佳琦公司回应员工收百万好处费（热度：632360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E9%BB%91%E7%9B%91%E7%8B%B1%23" target="weibo">
-揭秘缅北电诈园区黑监狱（热度：629533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%97%E5%A4%B1%E6%89%8B%E6%9C%BA%E9%A3%9E%E4%BA%861300%E5%A4%9A%E5%85%AC%E9%87%8C%E8%A2%AB%E6%88%90%E5%8A%9F%E6%89%BE%E5%9B%9E%23" target="weibo">
-遗失手机飞了1300多公里被成功找回（热度：628575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A66%E5%A4%A9%E8%BF%9E%E6%9B%B416%E9%9B%86%23" target="weibo">
-宁安如梦6天连更16集（热度：628311）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9A%84%E5%B7%A6%E5%8F%B3%E8%84%B8%E6%98%AF%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E7%9A%84%E5%90%A7%23" target="weibo">
-李现的左右脸是复制粘贴的吧（热度：628284）
 </a>
 </li>
 

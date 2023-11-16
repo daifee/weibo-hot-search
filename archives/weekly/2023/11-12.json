@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700127287556,
+  "endTime": 1700129962507,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1531820,
+      "num": 329754,
+      "word": "雪莉 东亚娱乐行业",
+      "onboard_time": 1700128355,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1521385,
       "num": 632913,
       "word": "WBG 选边",
@@ -816,6 +824,14 @@
       "word": "爸爸通过监控显摆生日吃12个菜",
       "onboard_time": 1699839991,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1222817,
+      "num": 328804,
+      "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+      "onboard_time": 1700126195,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1281,14 @@
       "onboard_time": 1699745963,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 913174,
+      "num": 325748,
+      "word": "女演员 优质工作机会",
+      "onboard_time": 1700127693,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 912950,
@@ -2035,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693454,
+      "num": 321464,
+      "word": "官方通报山西永聚煤业火灾",
+      "onboard_time": 1700127211,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691954,
       "num": 356348,
       "word": "山西永聚煤业火灾遇难升至25人",
@@ -2089,6 +2121,14 @@
       "onboard_time": 1700031571,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686737,
+      "num": 320847,
+      "word": "男子半夜爬独居女子窗户被击落身亡",
+      "onboard_time": 1700127693,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685488,
@@ -2251,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640226,
+      "num": 640226,
+      "word": "中美元首一起看38年前的照片",
+      "onboard_time": 1700122113,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 638420,
       "num": 554318,
       "word": "加沙长时间暂时停火决议美国弃权票",
@@ -2353,6 +2401,14 @@
       "onboard_time": 1699794395,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620070,
+      "num": 318956,
+      "word": "农村女性的晚年",
+      "onboard_time": 1700127454,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 618560,
@@ -3073,14 +3129,6 @@
       "onboard_time": 1699869273,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497147,
-      "num": 301355,
-      "word": "缅甸一超市中国籍老板娘遭持枪绑架",
-      "onboard_time": 1700126195,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496243,
@@ -4868,7 +4916,7 @@
     },
     {
       "raw_hot": 320936,
-      "num": 320936,
+      "num": 404831,
       "word": "中国女排首次夺得世界冠军42周年",
       "onboard_time": 1700123614,
       "rank": 43,
@@ -6403,6 +6451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246988,
+      "num": 246988,
+      "word": "网购ZARA商品不能在门店退换",
+      "onboard_time": 1700126914,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246957,
       "num": 246957,
       "word": "王曼昱女单冠军",
@@ -7203,6 +7259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217100,
+      "num": 217100,
+      "word": "父母为出生仅550克的宝宝取名小强",
+      "onboard_time": 1700127454,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216906,
       "num": 190323,
       "word": "毕业才发现跟大学老师不是一个阶层的",
@@ -7483,6 +7547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207986,
+      "num": 207986,
+      "word": "NOBODY MV",
+      "onboard_time": 1700128835,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207751,
       "num": 207751,
       "word": "AHYEON还是BABYMONSTER成员",
@@ -7705,6 +7777,14 @@
       "onboard_time": 1700042431,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202520,
+      "num": 202520,
+      "word": "十个勤天睡觉满头大脚",
+      "onboard_time": 1700129316,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 202519,
@@ -7939,6 +8019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198548,
+      "num": 198548,
+      "word": "普通人学滑雪",
+      "onboard_time": 1700129254,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 198519,
       "num": 198519,
       "word": "朱易获微博年度瞩目运动员",
@@ -8009,6 +8097,14 @@
       "onboard_time": 1699861719,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197289,
+      "num": 197289,
+      "word": "宁安如梦有自己的燃冬",
+      "onboard_time": 1700127631,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 197235,
@@ -8219,6 +8315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191791,
+      "num": 191791,
+      "word": "小米智能生态超4成用户来自苹果",
+      "onboard_time": 1700129433,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191728,
       "num": 191728,
       "word": "我的文化水平",
@@ -8403,6 +8507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188048,
+      "num": 188048,
+      "word": "DIOR活动",
+      "onboard_time": 1700129493,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 188023,
       "num": 189830,
       "word": "kpop周边设计逐渐离谱",
@@ -8497,6 +8609,14 @@
       "onboard_time": 1699964371,
       "rank": 30,
       "category": "电竞,时尚"
+    },
+    {
+      "raw_hot": 186283,
+      "num": 594729,
+      "word": "女童就医途中病情加剧交警疾驰开道送医",
+      "onboard_time": 1700128234,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186060,
@@ -8665,6 +8785,14 @@
       "onboard_time": 1700025036,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183841,
+      "num": 482442,
+      "word": "5岁女孩霸气拦警车救生病老爷爷",
+      "onboard_time": 1700128714,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183547,
@@ -10347,14 +10475,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 146536,
-      "num": 146536,
-      "word": "网购ZARA商品不能在门店退换",
-      "onboard_time": 1700126914,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146087,
       "num": 146087,
       "word": "马立奥回归爸爸当家3",
@@ -10401,14 +10521,6 @@
       "onboard_time": 1699962332,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144890,
-      "num": 144890,
-      "word": "官方通报山西永聚煤业火灾",
-      "onboard_time": 1700127211,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144760,
@@ -10771,6 +10883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136293,
+      "num": 136293,
+      "word": "减肥成功的人每天都做的3件事",
+      "onboard_time": 1700127332,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 136264,
       "num": 136264,
       "word": "秋冬氛围感木质香水",
@@ -11059,6 +11179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 129165,
+      "num": 129165,
+      "word": "山西永聚煤业大股东已是老赖",
+      "onboard_time": 1700127513,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129158,
       "num": 129158,
       "word": "妈妈的人生也应该是旷野",
@@ -11161,6 +11289,14 @@
       "onboard_time": 1700106457,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127315,
+      "num": 127315,
+      "word": "辣咖喱芝士乌冬面",
+      "onboard_time": 1700129733,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 127312,
@@ -12761,6 +12897,14 @@
       "onboard_time": 1699711295,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39639,
+      "num": 324030,
+      "word": "千金玛德琳穿搭",
+      "onboard_time": 1700128835,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 38696,
