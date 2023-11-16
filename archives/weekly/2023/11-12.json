@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700151864540,
+  "endTime": 1700152810002,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -4499,6 +4499,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 383312,
+      "num": 347646,
+      "word": "龚俊 我本是高山是良心之作",
+      "onboard_time": 1700150435,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 381724,
       "num": 381724,
       "word": "小虎打Faker",
@@ -4833,14 +4841,6 @@
       "onboard_time": 1699967131,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347646,
-      "num": 347646,
-      "word": "龚俊 我本是高山是良心之作",
-      "onboard_time": 1700150435,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 347044,
@@ -9443,6 +9443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182495,
+      "num": 182495,
+      "word": "男子买了张顶呱刮刮出100万",
+      "onboard_time": 1700151572,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181964,
       "num": 181964,
       "word": "原来韩剧里的雪不是骗人的",
@@ -12883,6 +12891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107695,
+      "num": 378927,
+      "word": "这届打工人流行上夜校",
+      "onboard_time": 1700150795,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107430,
       "num": 107430,
       "word": "StrayKids最新练习室",
@@ -13048,14 +13064,6 @@
       "word": "77岁奶奶独自地铁口卖蛋烘糕",
       "onboard_time": 1699967312,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100783,
-      "num": 378927,
-      "word": "这届打工人流行上夜校",
-      "onboard_time": 1700150795,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -13368,14 +13376,6 @@
       "word": "渐冻人蔡磊回应试用人工喉",
       "onboard_time": 1700090428,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76853,
-      "num": 83445,
-      "word": "男子买了张顶呱刮刮出100万",
-      "onboard_time": 1700151572,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
