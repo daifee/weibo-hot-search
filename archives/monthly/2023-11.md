@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 06:34:25
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 07:17:35
 </p>
 </blockquote>
 <p>
@@ -4545,6 +4545,12 @@ MISSING哭了（热度：788264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E8%AE%A94%E5%B2%81%E7%94%B7%E5%AD%A9%E8%90%BD%E6%88%B718%E5%B2%81%E7%88%B6%E4%BA%B2%E7%8E%B0%E8%BA%AB%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23" target="weibo">
+为让4岁男孩落户18岁父亲现身亲子鉴定（热度：787181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%BC%80%E6%92%AD%E5%85%AB%E5%91%A8%E5%B9%B4%23" target="weibo">
 请回答1988开播八周年（热度：786830）
 </a>
@@ -6005,12 +6011,6 @@ YG回应与BLACKPINK续约（热度：646080）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
 陈楚生直播（热度：639413）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1%23" target="weibo">
-要久久爱（热度：638693）
 </a>
 </li>
 
