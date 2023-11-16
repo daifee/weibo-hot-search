@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 14:23:40
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 14:36:55
 </p>
 </blockquote>
 <p>
@@ -5349,6 +5349,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E5%8D%87%E8%87%B325%E4%BA%BA%23" target="weibo">
+山西永聚煤业火灾遇难升至25人（热度：691954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%23" target="weibo">
 水龙吟（热度：691268）
 </a>
@@ -5915,12 +5921,6 @@ EDG 出列（热度：634682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.2%23" target="weibo">
 原神4.2（热度：633867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E5%8D%87%E8%87%B325%E4%BA%BA%23" target="weibo">
-山西永聚煤业火灾遇难升至25人（热度：633766）
 </a>
 </li>
 
