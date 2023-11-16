@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700101807795,
+  "endTime": 1700102457156,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115310,
+      "num": 1115310,
+      "word": "抖音测试付费短视频",
+      "onboard_time": 1700100935,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1114606,
       "num": 1114606,
       "word": "S13半决赛",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1700005409,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 867806,
-      "num": 542891,
-      "word": "抖音测试付费短视频",
-      "onboard_time": 1700100935,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 862442,
@@ -1811,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706730,
+      "num": 417871,
+      "word": "李嘉琦做的雪媚娘一吃一个不吱声",
+      "onboard_time": 1700098779,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
@@ -2011,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661326,
-      "num": 417871,
-      "word": "李嘉琦做的雪媚娘一吃一个不吱声",
-      "onboard_time": 1700098779,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 657981,
       "num": 357875,
       "word": "宁安如梦女三",
@@ -2089,6 +2089,14 @@
       "onboard_time": 1699793737,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 638420,
+      "num": 554318,
+      "word": "加沙长时间暂时停火决议美国弃权票",
+      "onboard_time": 1700099256,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 637510,
@@ -2179,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 621837,
-      "num": 504449,
-      "word": "加沙长时间暂时停火决议美国弃权票",
-      "onboard_time": 1700099256,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 618560,
       "num": 503503,
       "word": "何炅见证了多少人的成长",
@@ -2273,6 +2273,14 @@
       "onboard_time": 1699890690,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606527,
+      "num": 315338,
+      "word": "电脑C盘一定要删除的四个文件夹",
+      "onboard_time": 1700100336,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 606191,
@@ -2369,14 +2377,6 @@
       "onboard_time": 1699791875,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 589064,
-      "num": 315338,
-      "word": "电脑C盘一定要删除的四个文件夹",
-      "onboard_time": 1700100336,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 587405,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1699878934,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502919,
+      "num": 388614,
+      "word": "佘诗曼机场被叫女王大人",
+      "onboard_time": 1700101896,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 502521,
@@ -3555,6 +3563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 412058,
+      "num": 412058,
+      "word": "BLACKPINK将举办VR音乐会",
+      "onboard_time": 1700101176,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411070,
       "num": 355621,
       "word": "迪丽热巴黑粉被强执",
@@ -3587,20 +3603,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410136,
+      "num": 410136,
+      "word": "龙凤胎被哥哥抱起成专属挂件",
+      "onboard_time": 1700099617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409754,
       "num": 275496,
       "word": "张晚意王楚然都营业了",
       "onboard_time": 1700051255,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409671,
-      "num": 409671,
-      "word": "龙凤胎被哥哥抱起成专属挂件",
-      "onboard_time": 1700099617,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409070,
@@ -4225,14 +4241,6 @@
       "onboard_time": 1699838312,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341249,
-      "num": 341249,
-      "word": "BLACKPINK将举办VR音乐会",
-      "onboard_time": 1700101176,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 340770,
@@ -5483,6 +5491,14 @@
       "category": "美妆,电影"
     },
     {
+      "raw_hot": 260666,
+      "num": 260666,
+      "word": "难怪秦岚辛芷蕾能玩一起",
+      "onboard_time": 1700098834,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "甜茶模仿戳爷",
@@ -5643,14 +5659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255165,
-      "num": 255165,
-      "word": "难怪秦岚辛芷蕾能玩一起",
-      "onboard_time": 1700098834,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254895,
       "num": 254895,
       "word": "杨迪给谢娜打了20遍电话",
@@ -5713,6 +5721,14 @@
       "onboard_time": 1699716214,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252020,
+      "num": 252020,
+      "word": "大国竞争不是这个时代的底色",
+      "onboard_time": 1700078713,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 251939,
@@ -5953,14 +5969,6 @@
       "onboard_time": 1699783052,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242134,
-      "num": 242134,
-      "word": "大国竞争不是这个时代的底色",
-      "onboard_time": 1700078713,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 241808,
@@ -6691,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213746,
+      "num": 213746,
+      "word": "中美要了解彼此的原则底线",
+      "onboard_time": 1700093195,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213449,
       "num": 213449,
       "word": "任素汐演技 秋裤扎进袜子的踏实感",
@@ -6835,14 +6851,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 208621,
-      "num": 208621,
-      "word": "中美要了解彼此的原则底线",
-      "onboard_time": 1700093195,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "医生建议支原体肺炎护理要补充电解质",
@@ -6857,6 +6865,14 @@
       "onboard_time": 1699936598,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207751,
+      "num": 207751,
+      "word": "AHYEON还是BABYMONSTER成员",
+      "onboard_time": 1700102435,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 207641,
@@ -7059,6 +7075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202359,
+      "num": 202359,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 202075,
       "num": 188711,
       "word": "看秦岚花少眼角皱纹都变多了",
@@ -7187,6 +7211,14 @@
       "category": "电竞,音乐"
     },
     {
+      "raw_hot": 199248,
+      "num": 199248,
+      "word": "谢怜伸手甩飞花城",
+      "onboard_time": 1700101360,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 199132,
       "num": 189813,
       "word": "咒术回战最新话",
@@ -7297,14 +7329,6 @@
       "onboard_time": 1699861719,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 197267,
-      "num": 197267,
-      "word": "希望中美做伙伴相互尊重和平共处",
-      "onboard_time": 1700093559,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 197235,
@@ -8147,14 +8171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175754,
-      "num": 175754,
-      "word": "谢怜伸手甩飞花城",
-      "onboard_time": 1700101360,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 175653,
       "num": 175653,
       "word": "狐狸罐罐胖成萨摩耶同伴笑声太魔性",
@@ -8289,6 +8305,14 @@
       "onboard_time": 1699721069,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173090,
+      "num": 173090,
+      "word": "南方人过冬 反向豌豆公主",
+      "onboard_time": 1700101896,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 173081,
@@ -9011,6 +9035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156999,
+      "num": 156999,
+      "word": "蜘蛛女首支预告",
+      "onboard_time": 1700100692,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156498,
       "num": 156498,
       "word": "每天敷面膜可能引起皮炎",
@@ -9193,14 +9225,6 @@
       "onboard_time": 1699755331,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 151401,
-      "num": 151401,
-      "word": "蜘蛛女首支预告",
-      "onboard_time": 1700100692,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 151175,
@@ -10683,6 +10707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114689,
+      "num": 114689,
+      "word": "弟弟骑玩具车冲向路口哥哥飞奔拦住",
+      "onboard_time": 1700101775,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114621,
       "num": 114621,
       "word": "水神劈观排面",
@@ -10732,7 +10764,7 @@
     },
     {
       "raw_hot": 113593,
-      "num": 242066,
+      "num": 258817,
       "word": "vivo拍出了中华五千年的日出",
       "onboard_time": 1700101237,
       "rank": 27,
@@ -10889,14 +10921,6 @@
       "onboard_time": 1700063011,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 108464,
-      "num": 108464,
-      "word": "弟弟骑玩具车冲向路口哥哥飞奔拦住",
-      "onboard_time": 1700101775,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107810,
@@ -11873,6 +11897,14 @@
       "onboard_time": 1700086696,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17309,
+      "num": 1243246,
+      "word": "一分钟带你了解斐洛里庄园",
+      "onboard_time": 1700102374,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16013,

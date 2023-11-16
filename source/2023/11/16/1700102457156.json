@@ -1,0 +1,410 @@
+{
+  "runTime": 1700102457156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8647299,
+        "num": 8647299,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1620904,
+        "num": 1620904,
+        "word": "中美元首相互道别",
+        "onboard_time": 1700092958,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17309,
+        "num": 1243246,
+        "word": "一分钟带你了解斐洛里庄园",
+        "onboard_time": 1700102374,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115310,
+        "num": 1115310,
+        "word": "抖音测试付费短视频",
+        "onboard_time": 1700100935,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 635708,
+        "num": 635708,
+        "word": "这个地球容得下中美两国",
+        "onboard_time": 1700084113,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638420,
+        "num": 554318,
+        "word": "加沙长时间暂时停火决议美国弃权票",
+        "onboard_time": 1700099256,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 470423,
+        "num": 470423,
+        "word": "要增加中美两国直航航班",
+        "onboard_time": 1700093734,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469482,
+        "num": 469482,
+        "word": "中美元首会晤结束",
+        "onboard_time": 1700084594,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421385,
+        "num": 421385,
+        "word": "中美元首散步交谈",
+        "onboard_time": 1700090484,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412058,
+        "num": 412058,
+        "word": "BLACKPINK将举办VR音乐会",
+        "onboard_time": 1700101176,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3179543,
+        "num": 411855,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 706730,
+        "num": 411525,
+        "word": "李嘉琦做的雪媚娘一吃一个不吱声",
+        "onboard_time": 1700098779,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697004,
+        "num": 410967,
+        "word": "奚梦瑶 我是嫁给爱情",
+        "onboard_time": 1700093134,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410136,
+        "num": 410136,
+        "word": "龙凤胎被哥哥抱起成专属挂件",
+        "onboard_time": 1700099617,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532665,
+        "num": 402908,
+        "word": "从今天确诊龙性恋",
+        "onboard_time": 1700092531,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502919,
+        "num": 388614,
+        "word": "佘诗曼机场被叫女王大人",
+        "onboard_time": 1700101896,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367439,
+        "num": 367439,
+        "word": "涉事店家回应儿媳为带公婆吃自助撒谎只要10元",
+        "onboard_time": 1700093734,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352664,
+        "num": 352664,
+        "word": "李沁体态",
+        "onboard_time": 1700090363,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 350734,
+        "num": 350734,
+        "word": "中美元首会晤现场",
+        "onboard_time": 1700069777,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316141,
+        "num": 316141,
+        "word": "九命相柳 名不虚传",
+        "onboard_time": 1700092171,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606527,
+        "num": 311756,
+        "word": "电脑C盘一定要删除的四个文件夹",
+        "onboard_time": 1700100336,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288579,
+        "num": 288579,
+        "word": "骑车偶遇刘亦菲来回骑了20遍",
+        "onboard_time": 1700062533,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288034,
+        "num": 288034,
+        "word": "中美元首时隔1年再次面对面会晤",
+        "onboard_time": 1700077334,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278471,
+        "num": 278471,
+        "word": "大衣里居然有羽绒内胆",
+        "onboard_time": 1700099017,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 260666,
+        "num": 260666,
+        "word": "难怪秦岚辛芷蕾能玩一起",
+        "onboard_time": 1700098834,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99887,
+        "num": 258817,
+        "word": "vivo拍出了中华五千年的日出",
+        "onboard_time": 1700101237,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 257111,
+        "num": 257111,
+        "word": "男子2天没上班同事报警救其一命",
+        "onboard_time": 1700090724,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252020,
+        "num": 252020,
+        "word": "大国竞争不是这个时代的底色",
+        "onboard_time": 1700078713,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246133,
+        "num": 246133,
+        "word": "尖叫之夜导演辟谣网传内场图",
+        "onboard_time": 1700101116,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239800,
+        "num": 239800,
+        "word": "中国的发展壮大是外部力量阻挡不了的",
+        "onboard_time": 1700092654,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233721,
+        "num": 233721,
+        "word": "中美各自的成功是彼此的机遇",
+        "onboard_time": 1700088319,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213746,
+        "num": 213746,
+        "word": "中美要了解彼此的原则底线",
+        "onboard_time": 1700093195,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212760,
+        "num": 212760,
+        "word": "王安宇快碎了",
+        "onboard_time": 1700089702,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208336,
+        "num": 208336,
+        "word": "格林被禁赛5场",
+        "onboard_time": 1700100762,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207751,
+        "num": 207751,
+        "word": "AHYEON还是BABYMONSTER成员",
+        "onboard_time": 1700102435,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202359,
+        "num": 202359,
+        "word": "希望中美做伙伴相互尊重和平共处",
+        "onboard_time": 1700093559,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199248,
+        "num": 199248,
+        "word": "谢怜伸手甩飞花城",
+        "onboard_time": 1700101360,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190612,
+        "num": 190612,
+        "word": "TheShy回应世界第一上单",
+        "onboard_time": 1700093014,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177716,
+        "num": 177716,
+        "word": "买狗两年了至今没摸到狗",
+        "onboard_time": 1700089522,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173090,
+        "num": 173090,
+        "word": "南方人过冬 反向豌豆公主",
+        "onboard_time": 1700101896,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165259,
+        "num": 165259,
+        "word": "赵文卓张伟丽过招拳拳到肉",
+        "onboard_time": 1700099375,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163589,
+        "num": 163589,
+        "word": "这样吃红枣真的不显老",
+        "onboard_time": 1700098296,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156999,
+        "num": 156999,
+        "word": "蜘蛛女首支预告",
+        "onboard_time": 1700100692,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 145865,
+        "word": "原来正骨盆更能瘦腿缩胯",
+        "onboard_time": 1700093014,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133359,
+        "num": 133359,
+        "word": "宁安如梦下周超点",
+        "onboard_time": 1700089461,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132381,
+        "num": 132381,
+        "word": "警花下班捡3岁娃收到超可爱小锦旗",
+        "onboard_time": 1700094880,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127912,
+        "num": 127912,
+        "word": "大约40%的癌症可以避免",
+        "onboard_time": 1700056235,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126928,
+        "num": 126928,
+        "word": "女孩子养生之蒸苹果",
+        "onboard_time": 1700095061,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121418,
+        "num": 121418,
+        "word": "甜蜜家园2正式预告",
+        "onboard_time": 1700101534,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114689,
+        "num": 114689,
+        "word": "弟弟骑玩具车冲向路口哥哥飞奔拦住",
+        "onboard_time": 1700101775,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首举行会晤#"
+    }
+  }
+}
