@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700098674501,
+  "endTime": 1700101807795,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -91,6 +91,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 867806,
+      "num": 542891,
+      "word": "抖音测试付费短视频",
+      "onboard_time": 1700100935,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 837180,
       "num": 496757,
       "word": "从今天确诊龙性恋",
@@ -115,6 +123,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 661326,
+      "num": 417871,
+      "word": "李嘉琦做的雪媚娘一吃一个不吱声",
+      "onboard_time": 1700098779,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649176,
       "num": 542523,
       "word": "原来迪丽热巴一直是素颜",
@@ -131,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621837,
+      "num": 504449,
+      "word": "加沙长时间暂时停火决议美国弃权票",
+      "onboard_time": 1700099256,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 589972,
       "num": 589972,
       "word": "旧金山会晤将启希望中美相向而行",
       "onboard_time": 1700062352,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 589064,
+      "num": 315338,
+      "word": "电脑C盘一定要删除的四个文件夹",
+      "onboard_time": 1700100336,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 587405,
@@ -179,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455941,
+      "num": 403680,
+      "word": "向佐12厘米高木头鞋",
+      "onboard_time": 1700099916,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 447132,
       "num": 309209,
       "word": "程潇三角巾抹胸",
@@ -219,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 409671,
+      "num": 409671,
+      "word": "龙凤胎被哥哥抱起成专属挂件",
+      "onboard_time": 1700099617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400598,
       "num": 384745,
       "word": "买狗两年了至今没摸到狗",
@@ -235,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367840,
+      "num": 214206,
+      "word": "SMTOWN将推出英国男团",
+      "onboard_time": 1700100035,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352161,
       "num": 352161,
       "word": "小杨哥演唱会成本超3000万",
@@ -249,6 +305,14 @@
       "onboard_time": 1700093014,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 341249,
+      "num": 341249,
+      "word": "BLACKPINK将举办VR音乐会",
+      "onboard_time": 1700101176,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 327918,
@@ -291,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 282811,
+      "num": 282811,
+      "word": "大衣里居然有羽绒内胆",
+      "onboard_time": 1700099017,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 267160,
       "num": 267160,
       "word": "中美在平等尊重基础上恢复两军高层沟通",
@@ -299,12 +371,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255165,
+      "num": 255165,
+      "word": "难怪秦岚辛芷蕾能玩一起",
+      "onboard_time": 1700098834,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252847,
       "num": 252847,
       "word": "养成无意识减肥行为",
       "onboard_time": 1700089643,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248224,
+      "num": 248224,
+      "word": "尖叫之夜导演辟谣网传内场图",
+      "onboard_time": 1700101116,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 244777,
@@ -321,6 +409,14 @@
       "onboard_time": 1700060914,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242134,
+      "num": 242134,
+      "word": "大国竞争不是这个时代的底色",
+      "onboard_time": 1700078713,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236257,
@@ -363,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218105,
+      "num": 218105,
+      "word": "格林被禁赛5场",
+      "onboard_time": 1700100762,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "女孩子养生之蒸苹果",
@@ -371,19 +475,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 207234,
-      "num": 207234,
+      "raw_hot": 208621,
+      "num": 208621,
       "word": "中美要了解彼此的原则底线",
       "onboard_time": 1700093195,
       "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 206794,
-      "num": 206794,
-      "word": "大国竞争不是这个时代的底色",
-      "onboard_time": 1700078713,
-      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -419,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197267,
+      "num": 197267,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196649,
       "num": 196649,
       "word": "白鹿张凌赫交杯吃饭团",
@@ -428,11 +532,19 @@
     },
     {
       "raw_hot": 193657,
-      "num": 123521,
+      "num": 186450,
       "word": "这样吃红枣真的不显老",
       "onboard_time": 1700098296,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193214,
+      "num": 193214,
+      "word": "赵文卓张伟丽过招拳拳到肉",
+      "onboard_time": 1700099375,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 191162,
@@ -441,14 +553,6 @@
       "onboard_time": 1700056959,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188703,
-      "num": 188703,
-      "word": "希望中美做伙伴相互尊重和平共处",
-      "onboard_time": 1700093559,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 185728,
@@ -473,6 +577,14 @@
       "onboard_time": 1700043155,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175754,
+      "num": 175754,
+      "word": "谢怜伸手甩飞花城",
+      "onboard_time": 1700101360,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 165094,
@@ -505,6 +617,14 @@
       "onboard_time": 1700059356,
       "rank": 31,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 151401,
+      "num": 151401,
+      "word": "蜘蛛女首支预告",
+      "onboard_time": 1700100692,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 149597,
@@ -587,6 +707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125469,
+      "num": 125469,
+      "word": "甜蜜家园2正式预告",
+      "onboard_time": 1700101534,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124366,
       "num": 124366,
       "word": "杭州30亿量化跑路事件冲击扩大",
@@ -609,6 +737,14 @@
       "onboard_time": 1700058397,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120546,
+      "num": 120546,
+      "word": "无所畏惧 杀出偶像剧重围",
+      "onboard_time": 1700099796,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119479,
@@ -635,6 +771,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 113593,
+      "num": 242066,
+      "word": "vivo拍出了中华五千年的日出",
+      "onboard_time": 1700101237,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 111139,
       "num": 111139,
       "word": "河边的错误票房逆跌",
@@ -649,6 +793,14 @@
       "onboard_time": 1700063011,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 108464,
+      "num": 108464,
+      "word": "弟弟骑玩具车冲向路口哥哥飞奔拦住",
+      "onboard_time": 1700101775,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101080,
@@ -927,6 +1079,9 @@
     },
     {
       "word": "#中美元首举行会晤#"
+    },
+    {
+      "word": "#共同努力浇筑中美关系的五根支柱#"
     }
   ]
 }
