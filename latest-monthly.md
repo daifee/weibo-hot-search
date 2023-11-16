@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 19:15:24
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 19:34:17
 </p>
 </blockquote>
 <p>
@@ -807,6 +807,12 @@ fx 重聚（热度：2316654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AD%A6%E6%98%8C%E6%98%8E%E7%8F%8D%E7%8F%8D%E6%98%8E%E5%9B%BD%E5%B9%B3%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
+明学昌明珍珍明国平被逮捕（热度：2078260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E4%BA%9A%E8%BD%A9%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 萧亚轩回来了（热度：2077120）
 </a>
@@ -1043,12 +1049,6 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8E%8B%E8%BD%B4%E8%88%9E%E5%8F%B0%23" target="weibo">
 易烊千玺压轴舞台（热度：1920018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AD%A6%E6%98%8C%E6%98%8E%E7%8F%8D%E7%8F%8D%E6%98%8E%E5%9B%BD%E5%B9%B3%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
-明学昌明珍珍明国平被逮捕（热度：1915727）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700133324806,
+  "endTime": 1700134457384,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -59,20 +59,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2078260,
+      "num": 268573,
+      "word": "明学昌明珍珍明国平被逮捕",
+      "onboard_time": 1700131595,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1991533,
       "num": 1991533,
       "word": "中美元首相互道别",
       "onboard_time": 1700092958,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1915727,
-      "num": 268573,
-      "word": "明学昌明珍珍明国平被逮捕",
-      "onboard_time": 1700131595,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1829547,
@@ -571,12 +571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457515,
+      "num": 457515,
+      "word": "美国重申不支持台湾独立",
+      "onboard_time": 1700103758,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 455941,
       "num": 403680,
       "word": "向佐12厘米高木头鞋",
       "onboard_time": 1700099916,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 454794,
+      "num": 265027,
+      "word": "警方已接收大批缅甸归国电诈人员",
+      "onboard_time": 1700131295,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447132,
@@ -779,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324134,
+      "num": 254742,
+      "word": "刘亦菲 宝格丽",
+      "onboard_time": 1700134172,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 320936,
       "num": 404831,
       "word": "中国女排首次夺得世界冠军42周年",
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310231,
+      "num": 254519,
+      "word": "十个勤天睡觉满头大脚",
+      "onboard_time": 1700129316,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309750,
       "num": 300004,
       "word": "打高颅顶 斑秃",
@@ -843,12 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300574,
-      "num": 300574,
-      "word": "美国重申不支持台湾独立",
-      "onboard_time": 1700103758,
-      "rank": 6,
-      "category": "国内时政"
+      "raw_hot": 301227,
+      "num": 254226,
+      "word": "海清哭了",
+      "onboard_time": 1700132974,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 296774,
@@ -913,14 +945,6 @@
       "onboard_time": 1700099017,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 282120,
-      "num": 265027,
-      "word": "警方已接收大批缅甸归国电诈人员",
-      "onboard_time": 1700131295,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277127,
@@ -1003,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254108,
+      "num": 254108,
+      "word": "邓为爆改无脸男",
+      "onboard_time": 1700134114,
+      "rank": 23,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 252847,
       "num": 252847,
       "word": "养成无意识减肥行为",
@@ -1056,14 +1088,6 @@
       "word": "尖叫之夜导演辟谣网传内场图",
       "onboard_time": 1700101116,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247805,
-      "num": 247805,
-      "word": "十个勤天睡觉满头大脚",
-      "onboard_time": 1700129316,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1267,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206100,
-      "num": 206100,
-      "word": "海清哭了",
-      "onboard_time": 1700132974,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204870,
       "num": 204870,
       "word": "赵露思新发型",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1700099375,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193124,
+      "num": 193124,
+      "word": "不好意思开口但被民警秒懂",
+      "onboard_time": 1700132196,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191791,
@@ -2083,14 +2107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111019,
-      "num": 111019,
-      "word": "不好意思开口但被民警秒懂",
-      "onboard_time": 1700132196,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110293,
       "num": 110293,
       "word": "渝爱打包盆盆回家找奶妈换果果",
@@ -2115,12 +2131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99374,
+      "num": 99374,
+      "word": "从士兵突击到三大队的20年",
+      "onboard_time": 1700134353,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97591,
       "num": 109114,
       "word": "跟爱人一起入眠睡眠质量会更好",
       "onboard_time": 1700058216,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96672,
+      "num": 116651,
+      "word": "公交师傅的100元温暖了这个寒夜",
+      "onboard_time": 1700131653,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93466,
@@ -2163,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83486,
-      "num": 116651,
-      "word": "公交师傅的100元温暖了这个寒夜",
-      "onboard_time": 1700131653,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82384,
       "num": 92749,
       "word": "李光洙 guilty challenge元祖",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1700048497,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79534,
+      "num": 110585,
+      "word": "新浪华为启动鸿蒙原生应用开发",
+      "onboard_time": 1700134234,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 78480,
