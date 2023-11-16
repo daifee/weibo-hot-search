@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 09:16:25
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 09:37:54
 </p>
 </blockquote>
 <p>
@@ -185,6 +185,12 @@ Scout 精忠报国（热度：4591644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23" target="weibo">
 BLG战胜GEN（热度：4273103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E8%89%BA%E4%BA%BA%E5%B7%B2%E5%81%9C%E6%92%AD%23" target="weibo">
+大批艺人已停播（热度：3878867）
 </a>
 </li>
 
@@ -3317,12 +3323,6 @@ aespa回归（热度：1039919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E8%BE%9F%E8%B0%A3%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%A2%AB%E8%A7%A3%E9%9B%87%23" target="weibo">
 北大辟谣韦东奕被解雇（热度：962074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E8%89%BA%E4%BA%BA%E5%B7%B2%E5%81%9C%E6%92%AD%23" target="weibo">
-大批艺人已停播（热度：961853）
 </a>
 </li>
 
