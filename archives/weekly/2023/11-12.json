@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700147955393,
+  "endTime": 1700148903366,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -2731,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591408,
+      "num": 591408,
+      "word": "宋亚轩是第一个给沈涛得子发恭喜的",
+      "onboard_time": 1700147148,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591228,
       "num": 313171,
       "word": "JDG对战T1 比分预测",
@@ -4107,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415093,
+      "num": 415093,
+      "word": "国家一级演员苏孝林被公诉",
+      "onboard_time": 1700146846,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413742,
       "num": 582247,
       "word": "考研生为提神冬夜路灯下备战",
@@ -4483,6 +4499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 379648,
+      "num": 379648,
+      "word": "为让4岁男孩落户18岁父亲现身亲子鉴定",
+      "onboard_time": 1700146373,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378515,
       "num": 280921,
       "word": "连续30天早睡1小时身体会有何变化",
@@ -4619,14 +4643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364858,
-      "num": 364858,
-      "word": "为让4岁男孩落户18岁父亲现身亲子鉴定",
-      "onboard_time": 1700146373,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364443,
       "num": 337832,
       "word": "吴宗宪说一年收到2000多个包",
@@ -4681,14 +4697,6 @@
       "onboard_time": 1699838012,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360958,
-      "num": 360958,
-      "word": "宋亚轩是第一个给沈涛得子发恭喜的",
-      "onboard_time": 1700147148,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 360004,
@@ -4977,14 +4985,6 @@
       "onboard_time": 1699852896,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335092,
-      "num": 335092,
-      "word": "国家一级演员苏孝林被公诉",
-      "onboard_time": 1700146846,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 334723,
@@ -5475,6 +5475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305166,
+      "num": 305166,
+      "word": "王者荣耀",
+      "onboard_time": 1700148041,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305031,
       "num": 305031,
       "word": "假如孟宴臣和秦明是室友",
@@ -5497,6 +5505,14 @@
       "onboard_time": 1699888773,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 303947,
+      "num": 303947,
+      "word": "张远公费追星成功",
+      "onboard_time": 1700147148,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 303861,
@@ -6257,6 +6273,14 @@
       "onboard_time": 1699850920,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 270332,
+      "num": 1126707,
+      "word": "阿里四小龙业务浮出水面",
+      "onboard_time": 1700147085,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 269988,
@@ -7131,6 +7155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 235644,
+      "num": 235644,
+      "word": "恋与深空",
+      "onboard_time": 1700147684,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235551,
       "num": 235551,
       "word": "勇士三连败",
@@ -7315,6 +7347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 228031,
+      "num": 228031,
+      "word": "马云家族信托拟减持阿里巴巴",
+      "onboard_time": 1700148224,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 227513,
       "num": 227513,
       "word": "警花下班捡3岁娃收到超可爱小锦旗",
@@ -7377,14 +7417,6 @@
       "onboard_time": 1699711715,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226691,
-      "num": 226691,
-      "word": "张远公费追星成功",
-      "onboard_time": 1700147148,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 226461,
@@ -7753,14 +7785,6 @@
       "onboard_time": 1699715196,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215867,
-      "num": 215867,
-      "word": "恋与深空",
-      "onboard_time": 1700147684,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 215521,
@@ -8137,14 +8161,6 @@
       "onboard_time": 1700046392,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204951,
-      "num": 1126707,
-      "word": "阿里四小龙业务浮出水面",
-      "onboard_time": 1700147085,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 204853,
@@ -10683,6 +10699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155641,
+      "num": 155641,
+      "word": "Lana Del Rey荡秋千演唱",
+      "onboard_time": 1700148344,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155605,
       "num": 155605,
       "word": "王晰唱歌 红酒配拖鞋",
@@ -11963,6 +11987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127464,
+      "num": 127464,
+      "word": "许凯景甜一个吻戏亲了10秒",
+      "onboard_time": 1700148640,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127315,
       "num": 127315,
       "word": "辣咖喱芝士乌冬面",
@@ -12657,6 +12689,14 @@
       "onboard_time": 1699950154,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111776,
+      "num": 111776,
+      "word": "麦当劳猫包",
+      "onboard_time": 1700148880,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 111687,
