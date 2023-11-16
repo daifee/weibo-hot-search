@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 12:21:34
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 12:36:33
 </p>
 </blockquote>
 <p>
@@ -3621,6 +3621,12 @@ TheShy生日礼物（热度：917952）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+山西永聚煤业火灾已致11人遇难（热度：888719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E6%B7%B1%E5%A4%9C1400%E5%85%83%E7%89%9B%E6%9D%82%E6%B1%A4%E7%96%91%E4%B8%BA%E9%9D%9E%E6%B3%95%E6%9C%8D%E5%8A%A1%23" target="weibo">
 外卖深夜1400元牛杂汤疑为非法服务（热度：884830）
 </a>
@@ -4485,6 +4491,12 @@ papi酱孙怡仿佛看的不是同一段素材（热度：779829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%A6%96%E9%83%A8%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%23" target="weibo">
+檀健次首部现偶男主（热度：770355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%20%E6%88%91%E4%BB%AC%E5%9B%AD%E5%8C%BA%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E4%B9%9F%E5%8F%AB%E8%87%AA%E5%A6%82%23" target="weibo">
 金星 我们园区快递小哥也叫自如（热度：769881）
 </a>
@@ -5219,12 +5231,6 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Xiaohu%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 Xiaohu首次晋级世界赛决赛（热度：701094）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-山西永聚煤业火灾已致11人遇难（热度：700781）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ruler和Faker第100次对决（热度：632705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C%23" target="weibo">
 美国宣布增兵中东（热度：623422）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23KPOP%E6%A0%BC%E8%8E%B1%E7%BE%8E0%E6%8F%90%E5%90%8D%23" target="weibo">
-KPOP格莱美0提名（热度：622255）
 </a>
 </li>
 

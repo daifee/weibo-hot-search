@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700108494244,
+  "endTime": 1700109393993,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -115,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 888719,
+      "num": 455010,
+      "word": "山西永聚煤业火灾已致11人遇难",
+      "onboard_time": 1700107537,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837180,
       "num": 496757,
       "word": "从今天确诊龙性恋",
@@ -129,6 +137,14 @@
       "onboard_time": 1700066962,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 770355,
+      "num": 770355,
+      "word": "檀健次首部现偶男主",
+      "onboard_time": 1700108437,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 746751,
@@ -153,14 +169,6 @@
       "onboard_time": 1700098779,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 700781,
-      "num": 455010,
-      "word": "山西永聚煤业火灾已致11人遇难",
-      "onboard_time": 1700107537,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650294,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468326,
+      "num": 440333,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463255,
       "num": 463255,
       "word": "很想很想你定档预告",
@@ -297,14 +313,6 @@
       "onboard_time": 1700048497,
       "rank": 11,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 440333,
-      "num": 440333,
-      "word": "0.999无限循环和1到底哪个大",
-      "onboard_time": 1700104055,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 437722,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 2785186,
+      "num": 4479534,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374089,
+      "num": 374089,
+      "word": "邓紫棋广州 公主再加场吧",
+      "onboard_time": 1700108801,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367840,
       "num": 214206,
       "word": "SMTOWN将推出英国男团",
@@ -411,8 +427,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 338359,
-      "num": 338359,
+      "raw_hot": 343370,
+      "num": 343370,
       "word": "T1和WBG与NewJeans交换队服",
       "onboard_time": 1700105077,
       "rank": 21,
@@ -443,20 +459,20 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 303790,
-      "num": 303790,
-      "word": "檀健次首部现偶男主",
-      "onboard_time": 1700108437,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301435,
       "num": 301435,
       "word": "王安宇能不能哭想看",
       "onboard_time": 1700063253,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296774,
+      "num": 296774,
+      "word": "风行网向葛优致歉",
+      "onboard_time": 1700107838,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 295671,
@@ -529,14 +545,6 @@
       "onboard_time": 1700106035,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 261529,
-      "num": 261529,
-      "word": "风行网向葛优致歉",
-      "onboard_time": 1700107838,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 260666,
@@ -667,6 +675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209721,
+      "num": 209721,
+      "word": "韩孝周大钟奖获奖感言",
+      "onboard_time": 1700108979,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207751,
       "num": 207751,
       "word": "AHYEON还是BABYMONSTER成员",
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191728,
+      "num": 191728,
+      "word": "我的文化水平",
+      "onboard_time": 1700108497,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191509,
       "num": 191509,
       "word": "亮亮丽君夫妇称被融创销售抢手机",
@@ -769,6 +793,14 @@
       "onboard_time": 1700091025,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184133,
+      "num": 184133,
+      "word": "菲比扮演者悼念马修派瑞",
+      "onboard_time": 1700109100,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 181171,
@@ -833,6 +865,14 @@
       "onboard_time": 1700089643,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164784,
+      "num": 164784,
+      "word": "美国友好团体联合欢迎宴会",
+      "onboard_time": 1700108979,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 162610,
@@ -905,6 +945,14 @@
       "onboard_time": 1700105618,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143916,
+      "num": 409401,
+      "word": "苹果安卓实现跨生态互联",
+      "onboard_time": 1700107059,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 143660,
@@ -1025,14 +1073,6 @@
       "onboard_time": 1700064751,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117971,
-      "num": 409401,
-      "word": "苹果安卓实现跨生态互联",
-      "onboard_time": 1700107059,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 114887,
