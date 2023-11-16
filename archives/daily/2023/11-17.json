@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700159762971,
+  "endTime": 1700161932288,
   "band_list": [
     {
       "raw_hot": 514892,
@@ -419,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76234,
+      "num": 41947,
+      "word": "龚俊钟楚曦吻戏",
+      "onboard_time": 1700161035,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66914,
       "num": 371401,
       "word": "拜登指着红旗车说beautiful",
@@ -452,10 +460,18 @@
     },
     {
       "raw_hot": 19044,
-      "num": 20830,
+      "num": 32303,
       "word": "00后新警收到定制警旗后开心到起飞",
       "onboard_time": 1700158102,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15166,
+      "num": 33155,
+      "word": "刑侦利剑守护平安",
+      "onboard_time": 1700161575,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
