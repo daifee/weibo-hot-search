@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700105664994,
+  "endTime": 1700108494244,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -11,7 +11,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10057253,
+      "raw_hot": 10371803,
       "num": 11307253,
       "word": "拜登重申不支持台湾独立",
       "onboard_time": 1700103758,
@@ -113,6 +113,14 @@
       "onboard_time": 1699937438,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2583011,
+      "num": 2583011,
+      "word": "拜登指着红旗车说beautiful",
+      "onboard_time": 1700104295,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2579714,
@@ -777,14 +785,6 @@
       "onboard_time": 1699839991,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1219804,
-      "num": 1219804,
-      "word": "拜登指着红旗车说beautiful",
-      "onboard_time": 1700104295,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1195166,
@@ -1803,6 +1803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 709696,
+      "num": 458845,
+      "word": "贵女 陈都灵陈哲远",
+      "onboard_time": 1700106578,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709310,
       "num": 595821,
       "word": "顺其自然25年捐款1577万",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1700016869,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 700781,
+      "num": 455010,
+      "word": "山西永聚煤业火灾已致11人遇难",
+      "onboard_time": 1700107537,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698919,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1699833029,
       "rank": 10,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 650294,
+      "num": 451791,
+      "word": "唐朝诡事录上星",
+      "onboard_time": 1700105799,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 646345,
@@ -2788,7 +2812,7 @@
     },
     {
       "raw_hot": 509732,
-      "num": 387489,
+      "num": 447561,
       "word": "94岁中国女首富曾分300亿元给儿媳",
       "onboard_time": 1700103454,
       "rank": 15,
@@ -3131,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463255,
+      "num": 463255,
+      "word": "很想很想你定档预告",
+      "onboard_time": 1700104537,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463015,
       "num": 367632,
       "word": "韩安冉采访",
@@ -3313,6 +3345,14 @@
       "onboard_time": 1700010516,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440333,
+      "num": 440333,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439601,
@@ -3612,7 +3652,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 2464203,
+      "num": 2785186,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -4147,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357258,
+      "num": 357258,
+      "word": "王自如",
+      "onboard_time": 1700105259,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 351884,
       "num": 351884,
       "word": "李相夷 不愧为天下第一",
@@ -4161,14 +4209,6 @@
       "onboard_time": 1699798538,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 351136,
-      "num": 351136,
-      "word": "很想很想你定档预告",
-      "onboard_time": 1700104537,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 350442,
@@ -4321,6 +4361,14 @@
       "onboard_time": 1699857872,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 338359,
+      "num": 338359,
+      "word": "T1和WBG与NewJeans交换队服",
+      "onboard_time": 1700105077,
+      "rank": 21,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 337868,
@@ -4603,14 +4651,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 316971,
-      "num": 316971,
-      "word": "0.999无限循环和1到底哪个大",
-      "onboard_time": 1700104055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315745,
       "num": 315745,
       "word": "张真源一眼认出了印章上的管领湖山",
@@ -4785,6 +4825,14 @@
       "onboard_time": 1699751971,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303790,
+      "num": 303790,
+      "word": "檀健次首部现偶男主",
+      "onboard_time": 1700108437,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 303282,
@@ -5339,6 +5387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275724,
+      "num": 275724,
+      "word": "饥饿游戏前传中国独家预告",
+      "onboard_time": 1700106098,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275687,
       "num": 275687,
       "word": "迪丽热巴 看我甜不甜",
@@ -5523,6 +5579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264091,
+      "num": 264091,
+      "word": "中国的发展壮大是外部力量阻挡不了的",
+      "onboard_time": 1700092654,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263547,
       "num": 263547,
       "word": "痘肌如何喝奶茶",
@@ -5547,12 +5611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262652,
+      "num": 262652,
+      "word": "逆水寒 铁衣钢板",
+      "onboard_time": 1700106035,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
       "onboard_time": 1699767809,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261529,
+      "num": 261529,
+      "word": "风行网向葛优致歉",
+      "onboard_time": 1700107838,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 261394,
@@ -5899,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248462,
+      "num": 248462,
+      "word": "电影我本是高山首映",
+      "onboard_time": 1700105799,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248224,
       "num": 248224,
       "word": "尖叫之夜导演辟谣网传内场图",
@@ -5969,14 +6057,6 @@
       "onboard_time": 1699956572,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245362,
-      "num": 245362,
-      "word": "中国的发展壮大是外部力量阻挡不了的",
-      "onboard_time": 1700092654,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 245270,
@@ -6267,6 +6347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230593,
+      "num": 230593,
+      "word": "中美要了解彼此的原则底线",
+      "onboard_time": 1700093195,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230130,
       "num": 230130,
       "word": "杨幂小时候唱小红帽",
@@ -6555,14 +6643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221298,
-      "num": 221298,
-      "word": "中美要了解彼此的原则底线",
-      "onboard_time": 1700093195,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 221243,
       "num": 221243,
       "word": "鞠婧祎即将进组千香",
@@ -6649,6 +6729,14 @@
       "onboard_time": 1699846531,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218638,
@@ -6915,14 +7003,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 210088,
-      "num": 210088,
-      "word": "希望中美做伙伴相互尊重和平共处",
-      "onboard_time": 1700093559,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "迪丽热巴是下一季花少导演",
@@ -7121,14 +7201,6 @@
       "onboard_time": 1699769549,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203963,
-      "num": 203963,
-      "word": "王自如",
-      "onboard_time": 1700105259,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 203651,
@@ -8523,6 +8595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "蜡笔小新2023剧场版预售开启",
+      "onboard_time": 1700105977,
+      "rank": 40,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 171416,
       "num": 171416,
       "word": "张镇麟27分",
@@ -9371,6 +9451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151040,
+      "num": 151040,
+      "word": "村超被踢球员接受黄日华道歉",
+      "onboard_time": 1700106998,
+      "rank": 42,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 150979,
       "num": 150979,
       "word": "薛之谦澳门抢票",
@@ -9497,6 +9585,14 @@
       "onboard_time": 1699775190,
       "rank": 33,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 147795,
+      "num": 147795,
+      "word": "美国人有自己的伍佰",
+      "onboard_time": 1700105618,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 147739,
@@ -10283,12 +10379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127449,
-      "num": 127449,
-      "word": "美国人有自己的伍佰",
-      "onboard_time": 1700105618,
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "黑白密码开播",
+      "onboard_time": 1700106457,
       "rank": 49,
-      "category": "演出"
+      "category": "剧集"
     },
     {
       "raw_hot": 127312,
@@ -10761,6 +10857,14 @@
       "onboard_time": 1699865075,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 117971,
+      "num": 409401,
+      "word": "苹果安卓实现跨生态互联",
+      "onboard_time": 1700107059,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 117785,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 11:34:24
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 12:21:34
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
-拜登重申不支持台湾独立（热度：10057253）
+拜登重申不支持台湾独立（热度：10371803）
 </a>
 </li>
 
@@ -485,6 +485,12 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A8%E6%98%AF%E6%98%A8%E5%A4%A9%E5%87%BA%E7%9A%84%20%E4%BA%BA%E6%98%AF%E4%BB%8A%E5%A4%A9%E6%B2%A1%E7%9A%84%23" target="weibo">
 轨是昨天出的 人是今天没的（热度：2599452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
+拜登指着红旗车说beautiful（热度：2583011）
 </a>
 </li>
 
@@ -2417,12 +2423,6 @@ GEN难道只研究了T1（热度：1221313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%94%B9%E9%80%A0%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E4%B8%A4%E4%BD%8D%E7%94%B7%E8%89%BA%E4%BA%BA%23" target="weibo">
 内娱改造最成功的两位男艺人（热度：1220047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
-拜登指着红旗车说beautiful（热度：1219804）
 </a>
 </li>
 
@@ -5121,6 +5121,12 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%A5%B3%20%E9%99%88%E9%83%BD%E7%81%B5%E9%99%88%E5%93%B2%E8%BF%9C%23" target="weibo">
+贵女 陈都灵陈哲远（热度：709696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B625%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87%23" target="weibo">
 顺其自然25年捐款1577万（热度：709310）
 </a>
@@ -5213,6 +5219,12 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Xiaohu%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 Xiaohu首次晋级世界赛决赛（热度：701094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+山西永聚煤业火灾已致11人遇难（热度：700781）
 </a>
 </li>
 
@@ -5679,6 +5691,12 @@ YG只发了朴彩英台历（热度：660096）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B8%8A%E6%98%9F%23" target="weibo">
+唐朝诡事录上星（热度：650294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E7%81%AB%E9%94%85%E5%BA%976%E5%85%83%E4%B8%80%E4%BB%BD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%BB%854%E7%89%87%23" target="weibo">
 顾客吐槽火锅店6元一份娃娃菜仅4片（热度：646345）
 </a>
@@ -5993,24 +6011,6 @@ Ruler和Faker第100次对决（热度：632705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KPOP%E6%A0%BC%E8%8E%B1%E7%BE%8E0%E6%8F%90%E5%90%8D%23" target="weibo">
 KPOP格莱美0提名（热度：622255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E7%9C%81%E4%B8%80%E5%9D%97%E9%92%B1%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%8D%83%E5%A4%9A%23" target="weibo">
-为了省一块钱花了两千多（热度：622154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
-官方通报企业家被约谈后坠楼身亡（热度：622087）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23" target="weibo">
-突然理解为什么姜涛是顶流了（热度：621037）
 </a>
 </li>
 

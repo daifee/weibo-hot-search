@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700105664994,
+  "endTime": 1700108494244,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -43,7 +43,7 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 10057253,
+      "raw_hot": 10371803,
       "num": 11307253,
       "word": "拜登重申不支持台湾独立",
       "onboard_time": 1700103758,
@@ -633,6 +633,14 @@
       "onboard_time": 1699327411,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2583011,
+      "num": 2583011,
+      "word": "拜登指着红旗车说beautiful",
+      "onboard_time": 1700104295,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2579714,
@@ -3209,14 +3217,6 @@
       "onboard_time": 1699504118,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1219804,
-      "num": 1219804,
-      "word": "拜登指着红旗车说beautiful",
-      "onboard_time": 1700104295,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1207419,
@@ -6811,6 +6811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709696,
+      "num": 458845,
+      "word": "贵女 陈都灵陈哲远",
+      "onboard_time": 1700106578,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709310,
       "num": 595821,
       "word": "顺其自然25年捐款1577万",
@@ -6937,6 +6945,14 @@
       "onboard_time": 1699707453,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 700781,
+      "num": 455010,
+      "word": "山西永聚煤业火灾已致11人遇难",
+      "onboard_time": 1700107537,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700546,
@@ -7553,6 +7569,14 @@
       "onboard_time": 1699335630,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 650294,
+      "num": 451791,
+      "word": "唐朝诡事录上星",
+      "onboard_time": 1700105799,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 646345,
@@ -10228,7 +10252,7 @@
     },
     {
       "raw_hot": 509732,
-      "num": 387489,
+      "num": 447561,
       "word": "94岁中国女首富曾分300亿元给儿媳",
       "onboard_time": 1700103454,
       "rank": 15,
@@ -11379,6 +11403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463255,
+      "num": 463255,
+      "word": "很想很想你定档预告",
+      "onboard_time": 1700104537,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463097,
       "num": 463097,
       "word": "都暻秀与SMtown合约到期",
@@ -11969,6 +12001,14 @@
       "onboard_time": 1699182817,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 440333,
+      "num": 440333,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440162,
@@ -13004,7 +13044,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 2464203,
+      "num": 2785186,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -15219,6 +15259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357258,
+      "num": 357258,
+      "word": "王自如",
+      "onboard_time": 1700105259,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 357245,
       "num": 357245,
       "word": "同事说我的工位像三室一厅",
@@ -15409,14 +15457,6 @@
       "onboard_time": 1699403616,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351136,
-      "num": 351136,
-      "word": "很想很想你定档预告",
-      "onboard_time": 1700104537,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 351122,
@@ -15993,6 +16033,14 @@
       "onboard_time": 1699152210,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338359,
+      "num": 338359,
+      "word": "T1和WBG与NewJeans交换队服",
+      "onboard_time": 1700105077,
+      "rank": 21,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 337868,
@@ -16979,14 +17027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 316971,
-      "num": 316971,
-      "word": "0.999无限循环和1到底哪个大",
-      "onboard_time": 1700104055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316769,
       "num": 316769,
       "word": "惊奇队长2开分",
@@ -17593,6 +17633,14 @@
       "onboard_time": 1699751971,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303790,
+      "num": 303790,
+      "word": "檀健次首部现偶男主",
+      "onboard_time": 1700108437,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 303647,
@@ -19275,6 +19323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275724,
+      "num": 275724,
+      "word": "饥饿游戏前传中国独家预告",
+      "onboard_time": 1700106098,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275719,
       "num": 256314,
       "word": "我的工位成了公司的网红打卡点",
@@ -20075,6 +20131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264091,
+      "num": 264091,
+      "word": "中国的发展壮大是外部力量阻挡不了的",
+      "onboard_time": 1700092654,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264024,
       "num": 264024,
       "word": "深圳龙华警方通报男子在广场附近持刀伤人",
@@ -20211,6 +20275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262652,
+      "num": 262652,
+      "word": "逆水寒 铁衣钢板",
+      "onboard_time": 1700106035,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -20257,6 +20329,14 @@
       "onboard_time": 1699707996,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261529,
+      "num": 261529,
+      "word": "风行网向葛优致歉",
+      "onboard_time": 1700107838,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 261394,
@@ -21315,6 +21395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248462,
+      "num": 248462,
+      "word": "电影我本是高山首映",
+      "onboard_time": 1700105799,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248347,
       "num": 248347,
       "word": "正式被确诊为烤肠",
@@ -21585,14 +21673,6 @@
       "onboard_time": 1699414591,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245362,
-      "num": 245362,
-      "word": "中国的发展壮大是外部力量阻挡不了的",
-      "onboard_time": 1700092654,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 245270,
@@ -22875,6 +22955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230593,
+      "num": 230593,
+      "word": "中美要了解彼此的原则底线",
+      "onboard_time": 1700093195,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230533,
       "num": 230533,
       "word": "星辰大海无滤镜大合影",
@@ -23867,14 +23955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221298,
-      "num": 221298,
-      "word": "中美要了解彼此的原则底线",
-      "onboard_time": 1700093195,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 221273,
       "num": 221273,
       "word": "关晓彤豆浆油条舞台",
@@ -24089,6 +24169,14 @@
       "onboard_time": 1699846531,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218638,
@@ -25067,14 +25155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210088,
-      "num": 210088,
-      "word": "希望中美做伙伴相互尊重和平共处",
-      "onboard_time": 1700093559,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 210056,
       "num": 210056,
       "word": "姜昆被火星6返聘回来开会了",
@@ -25921,14 +26001,6 @@
       "onboard_time": 1699769549,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203963,
-      "num": 203963,
-      "word": "王自如",
-      "onboard_time": 1700105259,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 203896,
@@ -30723,6 +30795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "蜡笔小新2023剧场版预售开启",
+      "onboard_time": 1700105977,
+      "rank": 40,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 171521,
       "num": 171521,
       "word": "巴以冲突满一个月",
@@ -33571,6 +33651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 151040,
+      "num": 151040,
+      "word": "村超被踢球员接受黄日华道歉",
+      "onboard_time": 1700106998,
+      "rank": 42,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 151004,
       "num": 151004,
       "word": "体检报告阅读指南",
@@ -34081,6 +34169,14 @@
       "onboard_time": 1699775190,
       "rank": 33,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 147795,
+      "num": 147795,
+      "word": "美国人有自己的伍佰",
+      "onboard_time": 1700105618,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 147773,
@@ -36899,20 +36995,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "黑白密码开播",
+      "onboard_time": 1700106457,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127455,
       "num": 127455,
       "word": "杰克逊模仿C罗",
       "onboard_time": 1699317634,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127449,
-      "num": 127449,
-      "word": "美国人有自己的伍佰",
-      "onboard_time": 1700105618,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 127444,
@@ -38233,6 +38329,14 @@
       "onboard_time": 1699865075,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 117971,
+      "num": 409401,
+      "word": "苹果安卓实现跨生态互联",
+      "onboard_time": 1700107059,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 117952,

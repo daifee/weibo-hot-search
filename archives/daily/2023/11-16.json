@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700105664994,
+  "endTime": 1700108494244,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -11,7 +11,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10057253,
+      "raw_hot": 10371803,
       "num": 11307253,
       "word": "拜登重申不支持台湾独立",
       "onboard_time": 1700103758,
@@ -33,6 +33,14 @@
       "onboard_time": 1700084113,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2583011,
+      "num": 2583011,
+      "word": "拜登指着红旗车说beautiful",
+      "onboard_time": 1700104295,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1991533,
@@ -57,14 +65,6 @@
       "onboard_time": 1700090484,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1219804,
-      "num": 1219804,
-      "word": "拜登指着红旗车说beautiful",
-      "onboard_time": 1700104295,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1166319,
@@ -139,12 +139,36 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 709696,
+      "num": 458845,
+      "word": "贵女 陈都灵陈哲远",
+      "onboard_time": 1700106578,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706730,
       "num": 417871,
       "word": "李嘉琦做的雪媚娘一吃一个不吱声",
       "onboard_time": 1700098779,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 700781,
+      "num": 455010,
+      "word": "山西永聚煤业火灾已致11人遇难",
+      "onboard_time": 1700107537,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650294,
+      "num": 451791,
+      "word": "唐朝诡事录上星",
+      "onboard_time": 1700105799,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 649176,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 509732,
-      "num": 387489,
+      "num": 447561,
       "word": "94岁中国女首富曾分300亿元给儿媳",
       "onboard_time": 1700103454,
       "rank": 15,
@@ -251,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463255,
+      "num": 463255,
+      "word": "很想很想你定档预告",
+      "onboard_time": 1700104537,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455941,
       "num": 403680,
       "word": "向佐12厘米高木头鞋",
@@ -265,6 +297,14 @@
       "onboard_time": 1700048497,
       "rank": 11,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 440333,
+      "num": 440333,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437722,
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 2464203,
+      "num": 2785186,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357258,
+      "num": 357258,
+      "word": "王自如",
+      "onboard_time": 1700105259,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 352161,
       "num": 352161,
       "word": "小杨哥演唱会成本超3000万",
@@ -355,20 +403,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 351136,
-      "num": 351136,
-      "word": "很想很想你定档预告",
-      "onboard_time": 1700104537,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 346756,
       "num": 346756,
       "word": "TheShy回应世界第一上单",
       "onboard_time": 1700093014,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 338359,
+      "num": 338359,
+      "word": "T1和WBG与NewJeans交换队服",
+      "onboard_time": 1700105077,
+      "rank": 21,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 327918,
@@ -395,12 +443,12 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 316971,
-      "num": 316971,
-      "word": "0.999无限循环和1到底哪个大",
-      "onboard_time": 1700104055,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 303790,
+      "num": 303790,
+      "word": "檀健次首部现偶男主",
+      "onboard_time": 1700108437,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 301435,
@@ -443,6 +491,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 275724,
+      "num": 275724,
+      "word": "饥饿游戏前传中国独家预告",
+      "onboard_time": 1700106098,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269852,
       "num": 269852,
       "word": "陈思诚张译李晨从三兄弟到三大队",
@@ -457,6 +513,30 @@
       "onboard_time": 1700094766,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 264091,
+      "num": 264091,
+      "word": "中国的发展壮大是外部力量阻挡不了的",
+      "onboard_time": 1700092654,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 262652,
+      "num": 262652,
+      "word": "逆水寒 铁衣钢板",
+      "onboard_time": 1700106035,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 261529,
+      "num": 261529,
+      "word": "风行网向葛优致歉",
+      "onboard_time": 1700107838,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 260666,
@@ -483,20 +563,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 248462,
+      "num": 248462,
+      "word": "电影我本是高山首映",
+      "onboard_time": 1700105799,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248224,
       "num": 248224,
       "word": "尖叫之夜导演辟谣网传内场图",
       "onboard_time": 1700101116,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245362,
-      "num": 245362,
-      "word": "中国的发展壮大是外部力量阻挡不了的",
-      "onboard_time": 1700092654,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 244724,
@@ -531,6 +611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230593,
+      "num": 230593,
+      "word": "中美要了解彼此的原则底线",
+      "onboard_time": 1700093195,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227513,
       "num": 227513,
       "word": "警花下班捡3岁娃收到超可爱小锦旗",
@@ -547,19 +635,19 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 221298,
-      "num": 221298,
-      "word": "中美要了解彼此的原则底线",
-      "onboard_time": 1700093195,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 220072,
       "num": 218854,
       "word": "中美元首举行会晤",
       "onboard_time": 1700082193,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 218790,
+      "num": 218790,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -577,14 +665,6 @@
       "onboard_time": 1700095061,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 210088,
-      "num": 210088,
-      "word": "希望中美做伙伴相互尊重和平共处",
-      "onboard_time": 1700093559,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207751,
@@ -609,14 +689,6 @@
       "onboard_time": 1700045555,
       "rank": 16,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 203963,
-      "num": 203963,
-      "word": "王自如",
-      "onboard_time": 1700105259,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 201411,
@@ -739,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "蜡笔小新2023剧场版预售开启",
+      "onboard_time": 1700105977,
+      "rank": 40,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 167018,
       "num": 167018,
       "word": "小米Vela开源",
@@ -787,6 +867,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 151040,
+      "num": 151040,
+      "word": "村超被踢球员接受黄日华道歉",
+      "onboard_time": 1700106998,
+      "rank": 42,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 149597,
       "num": 197056,
       "word": "兰州拉面都得尊称一声前辈",
@@ -809,6 +897,14 @@
       "onboard_time": 1700055816,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147795,
+      "num": 147795,
+      "word": "美国人有自己的伍佰",
+      "onboard_time": 1700105618,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 143660,
@@ -859,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127449,
-      "num": 127449,
-      "word": "美国人有自己的伍佰",
-      "onboard_time": 1700105618,
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "黑白密码开播",
+      "onboard_time": 1700106457,
       "rank": 49,
-      "category": "演出"
+      "category": "剧集"
     },
     {
       "raw_hot": 126534,
@@ -929,6 +1025,14 @@
       "onboard_time": 1700064751,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117971,
+      "num": 409401,
+      "word": "苹果安卓实现跨生态互联",
+      "onboard_time": 1700107059,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 114887,

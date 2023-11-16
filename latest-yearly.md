@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/16 11:34:24
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/16 12:21:34
 </p>
 </blockquote>
 <p>
@@ -639,6 +639,12 @@ TFBOYS（热度：10450851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
+拜登重申不支持台湾独立（热度：10371803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%B8%E7%94%B0%E5%A3%B0%E7%A7%B0%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E6%92%A4%E9%94%80%E8%BF%9B%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
 岸田声称要求中方撤销进口管制措施（热度：10290665）
 </a>
@@ -701,12 +707,6 @@ TFBOYS（热度：10450851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%9B%E5%9B%BD%23" target="weibo">
 普京指责瓦格纳负责人叛国（热度：10059576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
-拜登重申不支持台湾独立（热度：10057253）
 </a>
 </li>
 

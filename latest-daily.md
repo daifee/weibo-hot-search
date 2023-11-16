@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/16 00:23:50 ~ 2023/11/16 11:34:24
+本榜单时间：2023/11/16 00:23:50 ~ 2023/11/16 12:21:34
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
-拜登重申不支持台湾独立（热度：10057253）
+拜登重申不支持台湾独立（热度：10371803）
 </a>
 </li>
 
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9C%B0%E7%90%83%E5%AE%B9%E5%BE%97%E4%B8%8B%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%23" target="weibo">
 这个地球容得下中美两国（热度：2825614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
+拜登指着红旗车说beautiful（热度：2583011）
 </a>
 </li>
 
@@ -53,12 +59,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%95%A3%E6%AD%A5%E4%BA%A4%E8%B0%88%23" target="weibo">
 中美元首散步交谈（热度：1345115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
-拜登指着红旗车说beautiful（热度：1219804）
 </a>
 </li>
 
@@ -117,8 +117,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%A5%B3%20%E9%99%88%E9%83%BD%E7%81%B5%E9%99%88%E5%93%B2%E8%BF%9C%23" target="weibo">
+贵女 陈都灵陈哲远（热度：709696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E7%90%A6%E5%81%9A%E7%9A%84%E9%9B%AA%E5%AA%9A%E5%A8%98%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0%23" target="weibo">
 李嘉琦做的雪媚娘一吃一个不吱声（热度：706730）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B411%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+山西永聚煤业火灾已致11人遇难（热度：700781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B8%8A%E6%98%9F%23" target="weibo">
+唐朝诡事录上星（热度：650294）
 </a>
 </li>
 
@@ -201,6 +219,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23" target="weibo">
+很想很想你定档预告（热度：463255）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%9012%E5%8E%98%E7%B1%B3%E9%AB%98%E6%9C%A8%E5%A4%B4%E9%9E%8B%23" target="weibo">
 向佐12厘米高木头鞋（热度：455941）
 </a>
@@ -209,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E4%B8%89%E8%A7%92%E5%B7%BE%E6%8A%B9%E8%83%B8%23" target="weibo">
 程潇三角巾抹胸（热度：447132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%230.999%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%92%8C1%E5%88%B0%E5%BA%95%E5%93%AA%E4%B8%AA%E5%A4%A7%23" target="weibo">
+0.999无限循环和1到底哪个大（热度：440333）
 </a>
 </li>
 
@@ -273,20 +303,26 @@ SMTOWN将推出英国男团（热度：367840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%23" target="weibo">
+王自如（热度：357258）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E6%9C%AC%E8%B6%853000%E4%B8%87%23" target="weibo">
 小杨哥演唱会成本超3000万（热度：352161）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23" target="weibo">
-很想很想你定档预告（热度：351136）
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8A%E5%8D%95%23" target="weibo">
+TheShy回应世界第一上单（热度：346756）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8A%E5%8D%95%23" target="weibo">
-TheShy回应世界第一上单（热度：346756）
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%92%8CWBG%E4%B8%8ENewJeans%E4%BA%A4%E6%8D%A2%E9%98%9F%E6%9C%8D%23" target="weibo">
+T1和WBG与NewJeans交换队服（热度：338359）
 </a>
 </li>
 
@@ -309,8 +345,8 @@ T1和WBG与newjeans交换队服（热度：317143）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%230.999%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%92%8C1%E5%88%B0%E5%BA%95%E5%93%AA%E4%B8%AA%E5%A4%A7%23" target="weibo">
-0.999无限循环和1到底哪个大（热度：316971）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%A6%96%E9%83%A8%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%23" target="weibo">
+檀健次首部现偶男主（热度：303790）
 </a>
 </li>
 
@@ -345,6 +381,12 @@ T1和WBG与newjeans交换队服（热度：317143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%A5%E9%A5%BF%E6%B8%B8%E6%88%8F%E5%89%8D%E4%BC%A0%E4%B8%AD%E5%9B%BD%E7%8B%AC%E5%AE%B6%E9%A2%84%E5%91%8A%23" target="weibo">
+饥饿游戏前传中国独家预告（热度：275724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%BC%A0%E8%AF%91%E6%9D%8E%E6%99%A8%E4%BB%8E%E4%B8%89%E5%85%84%E5%BC%9F%E5%88%B0%E4%B8%89%E5%A4%A7%E9%98%9F%23" target="weibo">
 陈思诚张译李晨从三兄弟到三大队（热度：269852）
 </a>
@@ -353,6 +395,24 @@ T1和WBG与newjeans交换队服（热度：317143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%9C%A8%E5%B9%B3%E7%AD%89%E5%B0%8A%E9%87%8D%E5%9F%BA%E7%A1%80%E4%B8%8A%E6%81%A2%E5%A4%8D%E4%B8%A4%E5%86%9B%E9%AB%98%E5%B1%82%E6%B2%9F%E9%80%9A%23" target="weibo">
 中美在平等尊重基础上恢复两军高层沟通（热度：267160）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7%E6%98%AF%E5%A4%96%E9%83%A8%E5%8A%9B%E9%87%8F%E9%98%BB%E6%8C%A1%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
+中国的发展壮大是外部力量阻挡不了的（热度：264091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%20%E9%93%81%E8%A1%A3%E9%92%A2%E6%9D%BF%23" target="weibo">
+逆水寒 铁衣钢板（热度：262652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%A1%8C%E7%BD%91%E5%90%91%E8%91%9B%E4%BC%98%E8%87%B4%E6%AD%89%23" target="weibo">
+风行网向葛优致歉（热度：261529）
 </a>
 </li>
 
@@ -375,14 +435,14 @@ T1和WBG与newjeans交换队服（热度：317143）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AF%BC%E6%BC%94%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%86%85%E5%9C%BA%E5%9B%BE%23" target="weibo">
-尖叫之夜导演辟谣网传内场图（热度：248224）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E9%A6%96%E6%98%A0%23" target="weibo">
+电影我本是高山首映（热度：248462）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%91%E5%B1%95%E5%A3%AE%E5%A4%A7%E6%98%AF%E5%A4%96%E9%83%A8%E5%8A%9B%E9%87%8F%E9%98%BB%E6%8C%A1%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
-中国的发展壮大是外部力量阻挡不了的（热度：245362）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AF%BC%E6%BC%94%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%86%85%E5%9C%BA%E5%9B%BE%23" target="weibo">
+尖叫之夜导演辟谣网传内场图（热度：248224）
 </a>
 </li>
 
@@ -411,6 +471,12 @@ T1和WBG与newjeans交换队服（热度：317143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E8%A6%81%E4%BA%86%E8%A7%A3%E5%BD%BC%E6%AD%A4%E7%9A%84%E5%8E%9F%E5%88%99%E5%BA%95%E7%BA%BF%23" target="weibo">
+中美要了解彼此的原则底线（热度：230593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E8%8A%B1%E4%B8%8B%E7%8F%AD%E6%8D%A13%E5%B2%81%E5%A8%83%E6%94%B6%E5%88%B0%E8%B6%85%E5%8F%AF%E7%88%B1%E5%B0%8F%E9%94%A6%E6%97%97%23" target="weibo">
 警花下班捡3岁娃收到超可爱小锦旗（热度：227513）
 </a>
@@ -423,14 +489,14 @@ T1和WBG与newjeans交换队服（热度：317143）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E8%A6%81%E4%BA%86%E8%A7%A3%E5%BD%BC%E6%AD%A4%E7%9A%84%E5%8E%9F%E5%88%99%E5%BA%95%E7%BA%BF%23" target="weibo">
-中美要了解彼此的原则底线（热度：221298）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4%23" target="weibo">
+中美元首举行会晤（热度：220072）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4%23" target="weibo">
-中美元首举行会晤（热度：220072）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E4%B8%AD%E7%BE%8E%E5%81%9A%E4%BC%99%E4%BC%B4%E7%9B%B8%E4%BA%92%E5%B0%8A%E9%87%8D%E5%92%8C%E5%B9%B3%E5%85%B1%E5%A4%84%23" target="weibo">
+希望中美做伙伴相互尊重和平共处（热度：218790）
 </a>
 </li>
 
@@ -443,12 +509,6 @@ T1和WBG与newjeans交换队服（热度：317143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%85%BB%E7%94%9F%E4%B9%8B%E8%92%B8%E8%8B%B9%E6%9E%9C%23" target="weibo">
 女孩子养生之蒸苹果（热度：210567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E4%B8%AD%E7%BE%8E%E5%81%9A%E4%BC%99%E4%BC%B4%E7%9B%B8%E4%BA%92%E5%B0%8A%E9%87%8D%E5%92%8C%E5%B9%B3%E5%85%B1%E5%A4%84%23" target="weibo">
-希望中美做伙伴相互尊重和平共处（热度：210088）
 </a>
 </li>
 
@@ -467,12 +527,6 @@ NBA调查勇士森林狼冲突（热度：206231）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%96%B0%E5%8F%91%E5%9E%8B%23" target="weibo">
 赵露思新发型（热度：204870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%23" target="weibo">
-王自如（热度：203963）
 </a>
 </li>
 
@@ -567,6 +621,12 @@ ENHYPEN妆造（热度：198617）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B02023%E5%89%A7%E5%9C%BA%E7%89%88%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF%23" target="weibo">
+蜡笔小新2023剧场版预售开启（热度：171544）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3Vela%E5%BC%80%E6%BA%90%23" target="weibo">
 小米Vela开源（热度：167018）
 </a>
@@ -603,6 +663,12 @@ ENHYPEN妆造（热度：198617）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E8%B6%85%E8%A2%AB%E8%B8%A2%E7%90%83%E5%91%98%E6%8E%A5%E5%8F%97%E9%BB%84%E6%97%A5%E5%8D%8E%E9%81%93%E6%AD%89%23" target="weibo">
+村超被踢球员接受黄日华道歉（热度：151040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E9%83%BD%E5%BE%97%E5%B0%8A%E7%A7%B0%E4%B8%80%E5%A3%B0%E5%89%8D%E8%BE%88%23" target="weibo">
 兰州拉面都得尊称一声前辈（热度：149597）
 </a>
@@ -617,6 +683,12 @@ TFBOYS待映新片都是科幻片（热度：148769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E8%8A%B1%E5%B0%91%E5%90%88%E7%85%A7P%E4%B8%8A%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 赵昭仪花少合照P上了迪丽热巴（热度：148116）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%8D%E4%BD%B0%23" target="weibo">
+美国人有自己的伍佰（热度：147795）
 </a>
 </li>
 
@@ -657,8 +729,8 @@ TFBOYS待映新片都是科幻片（热度：148769）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%8D%E4%BD%B0%23" target="weibo">
-美国人有自己的伍佰（热度：127449）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%99%BD%E5%AF%86%E7%A0%81%E5%BC%80%E6%92%AD%23" target="weibo">
+黑白密码开播（热度：127474）
 </a>
 </li>
 
@@ -707,6 +779,12 @@ TFBOYS待映新片都是科幻片（热度：148769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B44%E4%BA%BF%E8%87%AA%E6%8B%8D%23" target="weibo">
 张小斐电影票房破4亿自拍（热度：118510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%89%E5%8D%93%E5%AE%9E%E7%8E%B0%E8%B7%A8%E7%94%9F%E6%80%81%E4%BA%92%E8%81%94%23" target="weibo">
+苹果安卓实现跨生态互联（热度：117971）
 </a>
 </li>
 
