@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700122960348,
+  "endTime": 1700123763550,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -171,20 +171,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2243354,
+      "num": 920264,
+      "word": "韩国高考数学第一题",
+      "onboard_time": 1700120974,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2228442,
       "num": 2228442,
       "word": "雪莉生前纪录片完整版公开",
       "onboard_time": 1699874134,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2183505,
-      "num": 920264,
-      "word": "韩国高考数学第一题",
-      "onboard_time": 1700120974,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 2122047,
@@ -617,6 +617,14 @@
       "onboard_time": 1699884158,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1380521,
+      "num": 1380521,
+      "word": "拜登展示了一张38年前的照片",
+      "onboard_time": 1700122113,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1373278,
@@ -2875,6 +2883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 526133,
+      "num": 467138,
+      "word": "在暴雪时分集数变更",
+      "onboard_time": 1700121574,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526104,
       "num": 526104,
       "word": "张艺兴演唱会伴舞回应背带裤造型",
@@ -3291,14 +3307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 467138,
-      "num": 467138,
-      "word": "在暴雪时分集数变更",
-      "onboard_time": 1700121574,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466686,
       "num": 466686,
       "word": "赵丽颖谈首当监制感受",
@@ -3329,14 +3337,6 @@
       "onboard_time": 1699870292,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 463531,
-      "num": 463531,
-      "word": "拜登展示了一张38年前的照片",
-      "onboard_time": 1700122113,
-      "rank": 7,
-      "category": "国外时政"
     },
     {
       "raw_hot": 463255,
@@ -3779,12 +3779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 416619,
+      "num": 176164,
+      "word": "支付宝会员崩了",
+      "onboard_time": 1700122958,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 416573,
       "num": 431747,
       "word": "骗子骗29万后良心发现返168元红包",
       "onboard_time": 1699750289,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415860,
+      "num": 378678,
+      "word": "秦岚 白月光",
+      "onboard_time": 1700121512,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 415538,
@@ -3873,6 +3889,14 @@
       "onboard_time": 1700102561,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 409131,
+      "num": 258644,
+      "word": "大腿粗壮可能是骨盆前倾",
+      "onboard_time": 1700121274,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 409070,
@@ -4153,14 +4177,6 @@
       "onboard_time": 1699791156,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 378678,
-      "num": 378678,
-      "word": "秦岚 白月光",
-      "onboard_time": 1700121512,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 378515,
@@ -4555,19 +4571,19 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 342880,
-      "num": 258644,
-      "word": "大腿粗壮可能是骨盆前倾",
-      "onboard_time": 1700121274,
-      "rank": 21,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 341629,
       "num": 341629,
       "word": "游客打车遇e人司机1秒变公主",
       "onboard_time": 1699838312,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341355,
+      "num": 341355,
+      "word": "教育局回应女童幼儿园午休疑遭猥亵",
+      "onboard_time": 1700122534,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -6260,7 +6276,7 @@
     },
     {
       "raw_hot": 249138,
-      "num": 920314,
+      "num": 925688,
       "word": "一篇面向全美各界发表的演讲",
       "onboard_time": 1700119414,
       "rank": 2,
@@ -8211,6 +8227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189647,
+      "num": 189647,
+      "word": "恋与深空测试",
+      "onboard_time": 1700121756,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189577,
       "num": 189577,
       "word": "上海咖啡店负责人回应6200元天价咖啡",
@@ -8651,14 +8675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181104,
-      "num": 181104,
-      "word": "恋与深空测试",
-      "onboard_time": 1700121756,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180958,
       "num": 210704,
       "word": "陈哲远健身房睡觉",
@@ -9097,6 +9113,14 @@
       "onboard_time": 1699853732,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171693,
+      "num": 171693,
+      "word": "河南推出胡辣汤奶茶还送油条",
+      "onboard_time": 1700123013,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 171544,
@@ -9912,14 +9936,6 @@
       "word": "幼儿园运动会奖品是白菜大葱萝卜",
       "onboard_time": 1699759470,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153393,
-      "num": 153393,
-      "word": "教育局回应女童幼儿园午休疑遭猥亵",
-      "onboard_time": 1700122534,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -10963,6 +10979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127971,
+      "num": 127971,
+      "word": "3岁萌娃哼唱七子之歌获百万点赞",
+      "onboard_time": 1700123253,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127681,
       "num": 127681,
       "word": "男主有这认错的态度怎么be",
@@ -11201,6 +11225,14 @@
       "onboard_time": 1699875933,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123229,
+      "num": 123229,
+      "word": "中国女排首次夺得世界冠军42周年",
+      "onboard_time": 1700123614,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 123090,

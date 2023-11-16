@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700122960348,
+  "endTime": 1700123763550,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -43,7 +43,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2183505,
+      "raw_hot": 2243354,
       "num": 920264,
       "word": "韩国高考数学第一题",
       "onboard_time": 1700120974,
@@ -81,6 +81,14 @@
       "onboard_time": 1700113416,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1380521,
+      "num": 1380521,
+      "word": "拜登展示了一张38年前的照片",
+      "onboard_time": 1700122113,
+      "rank": 7,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1345115,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526133,
+      "num": 467138,
+      "word": "在暴雪时分集数变更",
+      "onboard_time": 1700121574,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525725,
       "num": 383670,
       "word": "缅北电诈头目的暗黑人生",
@@ -443,22 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467138,
-      "num": 467138,
-      "word": "在暴雪时分集数变更",
-      "onboard_time": 1700121574,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 463531,
-      "num": 463531,
-      "word": "拜登展示了一张38年前的照片",
-      "onboard_time": 1700122113,
-      "rank": 7,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 463255,
       "num": 463255,
       "word": "很想很想你定档预告",
@@ -507,6 +507,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 416619,
+      "num": 176164,
+      "word": "支付宝会员崩了",
+      "onboard_time": 1700122958,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 415860,
+      "num": 378678,
+      "word": "秦岚 白月光",
+      "onboard_time": 1700121512,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412058,
       "num": 412058,
       "word": "BLACKPINK将举办VR音乐会",
@@ -539,6 +555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409131,
+      "num": 258644,
+      "word": "大腿粗壮可能是骨盆前倾",
+      "onboard_time": 1700121274,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 400598,
       "num": 384745,
       "word": "买狗两年了至今没摸到狗",
@@ -561,14 +585,6 @@
       "onboard_time": 1700062471,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378678,
-      "num": 378678,
-      "word": "秦岚 白月光",
-      "onboard_time": 1700121512,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 374089,
@@ -643,12 +659,12 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 342880,
-      "num": 258644,
-      "word": "大腿粗壮可能是骨盆前倾",
-      "onboard_time": 1700121274,
-      "rank": 21,
-      "category": "运动健身"
+      "raw_hot": 341355,
+      "num": 341355,
+      "word": "教育局回应女童幼儿园午休疑遭猥亵",
+      "onboard_time": 1700122534,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327918,
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 249138,
-      "num": 920314,
+      "num": 925688,
       "word": "一篇面向全美各界发表的演讲",
       "onboard_time": 1700119414,
       "rank": 2,
@@ -1203,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189647,
+      "num": 189647,
+      "word": "恋与深空测试",
+      "onboard_time": 1700121756,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188269,
       "num": 188269,
       "word": "CPA 让我过",
@@ -1259,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181104,
-      "num": 181104,
-      "word": "恋与深空测试",
-      "onboard_time": 1700121756,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180172,
       "num": 180172,
       "word": "银行称循环贷不是利滚利",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1700101896,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171693,
+      "num": 171693,
+      "word": "河南推出胡辣汤奶茶还送油条",
+      "onboard_time": 1700123013,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 171544,
@@ -1409,14 +1433,6 @@
       "onboard_time": 1700059356,
       "rank": 31,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 153393,
-      "num": 153393,
-      "word": "教育局回应女童幼儿园午休疑遭猥亵",
-      "onboard_time": 1700122534,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151040,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127971,
+      "num": 127971,
+      "word": "3岁萌娃哼唱七子之歌获百万点赞",
+      "onboard_time": 1700123253,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127474,
       "num": 127474,
       "word": "黑白密码开播",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1700089643,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 123229,
+      "num": 123229,
+      "word": "中国女排首次夺得世界冠军42周年",
+      "onboard_time": 1700123614,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122902,
