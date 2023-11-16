@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 11:18:40
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/16 11:34:24
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23" target="weibo">
 仲尼在巴厘岛遇难（热度：11079803）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
+拜登重申不支持台湾独立（热度：10057253）
 </a>
 </li>
 
@@ -83,12 +89,6 @@ T1晋级S13四强（热度：9440198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%23" target="weibo">
 天安门下半旗悼念李克强同志（热度：7458191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
-拜登重申不支持台湾独立（热度：7315190）
 </a>
 </li>
 
@@ -2417,6 +2417,12 @@ GEN难道只研究了T1（热度：1221313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%94%B9%E9%80%A0%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E4%B8%A4%E4%BD%8D%E7%94%B7%E8%89%BA%E4%BA%BA%23" target="weibo">
 内娱改造最成功的两位男艺人（热度：1220047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
+拜登指着红旗车说beautiful（热度：1219804）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ KPOP格莱美0提名（热度：622255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A7%9C%E6%B6%9B%E6%98%AF%E9%A1%B6%E6%B5%81%E4%BA%86%23" target="weibo">
 突然理解为什么姜涛是顶流了（热度：621037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%AD%94%E9%9B%80%E5%8D%8A%E5%BC%80%E5%B1%8F%23" target="weibo">
-迪丽热巴孔雀半开屏（热度：620695）
 </a>
 </li>
 

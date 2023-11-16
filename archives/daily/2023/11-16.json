@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700104720772,
+  "endTime": 1700105664994,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7315190,
-      "num": 7691909,
+      "raw_hot": 10057253,
+      "num": 11307253,
       "word": "拜登重申不支持台湾独立",
       "onboard_time": 1700103758,
       "rank": 1,
@@ -57,6 +57,14 @@
       "onboard_time": 1700090484,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1219804,
+      "num": 1219804,
+      "word": "拜登指着红旗车说beautiful",
+      "onboard_time": 1700104295,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1166319,
@@ -219,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 509732,
+      "num": 387489,
+      "word": "94岁中国女首富曾分300亿元给儿媳",
+      "onboard_time": 1700103454,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 502919,
       "num": 388614,
       "word": "佘诗曼机场被叫女王大人",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 1974825,
+      "num": 2464203,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -297,14 +313,6 @@
       "onboard_time": 1700099617,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409491,
-      "num": 387489,
-      "word": "94岁中国女首富曾分300亿元给儿媳",
-      "onboard_time": 1700103454,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 409319,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377393,
-      "num": 377393,
-      "word": "拜登指着红旗车说beautiful",
-      "onboard_time": 1700104295,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 367840,
       "num": 214206,
       "word": "SMTOWN将推出英国男团",
@@ -353,6 +353,14 @@
       "onboard_time": 1700048250,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 351136,
+      "num": 351136,
+      "word": "很想很想你定档预告",
+      "onboard_time": 1700104537,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 346756,
@@ -379,6 +387,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 317143,
+      "num": 317143,
+      "word": "T1和WBG与newjeans交换队服",
+      "onboard_time": 1700105077,
+      "rank": 18,
+      "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 316971,
+      "num": 316971,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301435,
       "num": 301435,
       "word": "王安宇能不能哭想看",
@@ -403,12 +427,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291506,
+      "num": 291506,
+      "word": "王牌这期是音乐人聚会吧",
+      "onboard_time": 1700103158,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282811,
       "num": 282811,
       "word": "大衣里居然有羽绒内胆",
       "onboard_time": 1700099017,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 269852,
+      "num": 269852,
+      "word": "陈思诚张译李晨从三兄弟到三大队",
+      "onboard_time": 1700105320,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 267160,
@@ -441,14 +481,6 @@
       "onboard_time": 1700078713,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 251695,
-      "num": 251695,
-      "word": "王牌这期是音乐人聚会吧",
-      "onboard_time": 1700103158,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 248224,
@@ -491,8 +523,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230631,
-      "num": 230631,
+      "raw_hot": 230653,
+      "num": 230653,
       "word": "向佐郭碧婷合体拍大片",
       "onboard_time": 1700104363,
       "rank": 31,
@@ -579,12 +611,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 203535,
-      "num": 203535,
-      "word": "0.999无限循环和1到底哪个大",
-      "onboard_time": 1700104055,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 203963,
+      "num": 203963,
+      "word": "王自如",
+      "onboard_time": 1700105259,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 201411,
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181171,
+      "num": 181171,
+      "word": "刘亦菲送朱珠粉色玫瑰",
+      "onboard_time": 1700104598,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179716,
       "num": 179716,
       "word": "不得不久坐的补救方法",
@@ -675,20 +715,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 178515,
-      "num": 178515,
-      "word": "很想很想你定档预告",
-      "onboard_time": 1700104537,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178425,
       "num": 546155,
       "word": "顺其自然25年捐款1577万",
       "onboard_time": 1700043155,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175540,
+      "num": 175540,
+      "word": "94岁邝肖卿成中国女首富",
+      "onboard_time": 1700104659,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 173090,
@@ -795,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137199,
-      "num": 137199,
-      "word": "刘亦菲送朱珠粉色玫瑰",
-      "onboard_time": 1700104598,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136264,
       "num": 136264,
       "word": "秋冬氛围感木质香水",
@@ -819,20 +851,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129012,
-      "num": 129012,
-      "word": "94岁邝肖卿成中国女首富",
-      "onboard_time": 1700104659,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 128508,
       "num": 152443,
       "word": "桂林一大巴车侧翻致2死6伤",
       "onboard_time": 1700059294,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127449,
+      "num": 127449,
+      "word": "美国人有自己的伍佰",
+      "onboard_time": 1700105618,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 126534,

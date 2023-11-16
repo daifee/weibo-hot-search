@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/16 11:18:40
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/16 11:34:24
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
-拜登重申不支持台湾独立（热度：7315190）
+拜登重申不支持台湾独立（热度：10057253）
 </a>
 </li>
 
@@ -593,6 +593,12 @@ Faker无需向众神祈祷（热度：1321697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
 爸爸通过监控显摆生日吃12个菜（热度：1224717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
+拜登指着红旗车说beautiful（热度：1219804）
 </a>
 </li>
 
@@ -2097,6 +2103,12 @@ TFBOYS待映新片都是科幻片（热度：527297）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2394%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E6%9B%BE%E5%88%86300%E4%BA%BF%E5%85%83%E7%BB%99%E5%84%BF%E5%AA%B3%23" target="weibo">
+94岁中国女首富曾分300亿元给儿媳（热度：509732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%E6%97%A0%E7%94%A8%E7%94%9A%E8%87%B3%E6%9C%89%E5%AE%B3%23" target="weibo">
 有些癌症筛查无用甚至有害（热度：507935）
 </a>
@@ -2739,12 +2751,6 @@ BLACKPINK将举办VR音乐会（热度：412058）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2394%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%E6%9B%BE%E5%88%86300%E4%BA%BF%E5%85%83%E7%BB%99%E5%84%BF%E5%AA%B3%23" target="weibo">
-94岁中国女首富曾分300亿元给儿媳（热度：409491）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%AF%B4%E7%BE%8E%E5%9B%BD%E4%B9%90%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E5%AF%8C%E8%A3%95%23" target="weibo">
 拜登说美国乐见中国发展富裕（热度：409319）
 </a>
@@ -2979,12 +2985,6 @@ NASA拍到地球凝视幽灵地貌（热度：383698）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8C%87%E7%9D%80%E7%BA%A2%E6%97%97%E8%BD%A6%E8%AF%B4beautiful%23" target="weibo">
-拜登指着红旗车说beautiful（热度：377393）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23" target="weibo">
 梁靖崑vs户上隼辅（热度：375952）
 </a>
@@ -3131,6 +3131,12 @@ cityline崩了（热度：361365）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%87%8D%E8%BF%94%E5%85%AB%E4%B8%87%E4%BA%BA%23" target="weibo">
 五月天重返八万人（热度：351818）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23" target="weibo">
+很想很想你定档预告（热度：351136）
 </a>
 </li>
 
@@ -3447,8 +3453,20 @@ TheShy回应世界第一上单（热度：346756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%92%8CWBG%E4%B8%8Enewjeans%E4%BA%A4%E6%8D%A2%E9%98%9F%E6%9C%8D%23" target="weibo">
+T1和WBG与newjeans交换队服（热度：317143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E9%A6%96%E6%9B%9D%23" target="weibo">
 小米汽车信息首曝（热度：317135）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%230.999%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%92%8C1%E5%88%B0%E5%BA%95%E5%93%AA%E4%B8%AA%E5%A4%A7%23" target="weibo">
+0.999无限循环和1到底哪个大（热度：316971）
 </a>
 </li>
 
@@ -3743,6 +3761,12 @@ Knight获得微博年度瞩目运动员（热度：303282）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B8%A9%E9%93%83%E5%92%8C%E5%A5%B9%E8%80%81%E5%85%AC%E7%9A%84%E7%9B%B8%E5%A4%84%E6%A8%A1%E5%BC%8F%23" target="weibo">
 张踩铃和她老公的相处模式（热度：293035）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E8%BF%99%E6%9C%9F%E6%98%AF%E9%9F%B3%E4%B9%90%E4%BA%BA%E8%81%9A%E4%BC%9A%E5%90%A7%23" target="weibo">
+王牌这期是音乐人聚会吧（热度：291506）
 </a>
 </li>
 
@@ -4065,6 +4089,12 @@ RedVelvet新歌上线（热度：283470）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%BC%A0%E8%AF%91%E6%9D%8E%E6%99%A8%E4%BB%8E%E4%B8%89%E5%85%84%E5%BC%9F%E5%88%B0%E4%B8%89%E5%A4%A7%E9%98%9F%23" target="weibo">
+陈思诚张译李晨从三兄弟到三大队（热度：269852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E8%A2%AB%E8%BF%AB%E5%81%9AE%23" target="weibo">
 龚俊 被迫做E（热度：269019）
 </a>
@@ -4349,12 +4379,6 @@ Bin 感谢所有人的支持（热度：252134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E7%B2%BE%E9%AB%93%E4%B8%8D%E4%BB%85%E6%98%AF%E7%9D%AB%E6%AF%9B%23" target="weibo">
 韩女精髓不仅是睫毛（热度：251857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E8%BF%99%E6%9C%9F%E6%98%AF%E9%9F%B3%E4%B9%90%E4%BA%BA%E8%81%9A%E4%BC%9A%E5%90%A7%23" target="weibo">
-王牌这期是音乐人聚会吧（热度：251695）
 </a>
 </li>
 
@@ -4684,7 +4708,7 @@ WBG对阵T1所有结局（热度：245119）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%88%E4%BD%93%E6%8B%8D%E5%A4%A7%E7%89%87%23" target="weibo">
-向佐郭碧婷合体拍大片（热度：230631）
+向佐郭碧婷合体拍大片（热度：230653）
 </a>
 </li>
 
@@ -5331,14 +5355,14 @@ KSG（热度：204853）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%B4%A0%E4%BA%BA%E7%89%88%23" target="weibo">
-花儿与少年素人版（热度：203651）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%23" target="weibo">
+王自如（热度：203963）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%230.999%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%92%8C1%E5%88%B0%E5%BA%95%E5%93%AA%E4%B8%AA%E5%A4%A7%23" target="weibo">
-0.999无限循环和1到底哪个大（热度：203535）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%B4%A0%E4%BA%BA%E7%89%88%23" target="weibo">
+花儿与少年素人版（热度：203651）
 </a>
 </li>
 
@@ -6063,6 +6087,12 @@ SEVENTEEN捐赠以成员命名的山羊（热度：183039）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%80%81%E6%9C%B1%E7%8F%A0%E7%B2%89%E8%89%B2%E7%8E%AB%E7%91%B0%23" target="weibo">
+刘亦菲送朱珠粉色玫瑰（热度：181171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%81%A5%E8%BA%AB%E6%88%BF%E7%9D%A1%E8%A7%89%23" target="weibo">
 陈哲远健身房睡觉（热度：180958）
 </a>
@@ -6119,12 +6149,6 @@ SEVENTEEN捐赠以成员命名的山羊（热度：183039）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2370kg%E5%B9%BF%E5%90%9B%20%E7%AD%96%E5%88%92%23" target="weibo">
 70kg广君 策划（热度：179033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A%23" target="weibo">
-很想很想你定档预告（热度：178515）
 </a>
 </li>
 
@@ -6209,6 +6233,12 @@ vivoX100首发开箱测评（热度：176909）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E7%8B%B8%E7%BD%90%E7%BD%90%E8%83%96%E6%88%90%E8%90%A8%E6%91%A9%E8%80%B6%E5%90%8C%E4%BC%B4%E7%AC%91%E5%A3%B0%E5%A4%AA%E9%AD%94%E6%80%A7%23" target="weibo">
 狐狸罐罐胖成萨摩耶同伴笑声太魔性（热度：175653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2394%E5%B2%81%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%23" target="weibo">
+94岁邝肖卿成中国女首富（热度：175540）
 </a>
 </li>
 
@@ -7425,12 +7455,6 @@ TTG定妆照卡点（热度：139118）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%80%81%E6%9C%B1%E7%8F%A0%E7%B2%89%E8%89%B2%E7%8E%AB%E7%91%B0%23" target="weibo">
-刘亦菲送朱珠粉色玫瑰（热度：137199）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%AD%98%E5%9C%A8%E6%98%8E%E4%BA%89%E6%9A%97%E6%96%97%23" target="weibo">
 缅北果敢四大家族存在明争暗斗（热度：136898）
 </a>
@@ -7641,12 +7665,6 @@ Adele入坑美妆行业（热度：130851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2394%E5%B2%81%E9%82%9D%E8%82%96%E5%8D%BF%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C%23" target="weibo">
-94岁邝肖卿成中国女首富（热度：129012）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BF4%E6%AF%944%E6%9B%BC%E5%9F%8E%23" target="weibo">
 切尔西4比4曼城（热度：128737）
 </a>
@@ -7703,6 +7721,12 @@ vivo在人像赛道上从没输过（热度：128343）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DRX%E5%9F%BA%E5%9C%B0%20%E9%A3%8E%E6%B0%B4%E5%AE%9D%E5%9C%B0%23" target="weibo">
 DRX基地 风水宝地（热度：127521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%8D%E4%BD%B0%23" target="weibo">
+美国人有自己的伍佰（热度：127449）
 </a>
 </li>
 

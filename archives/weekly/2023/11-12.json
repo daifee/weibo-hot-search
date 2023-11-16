@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700104720772,
+  "endTime": 1700105664994,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7315190,
-      "num": 7691909,
+      "raw_hot": 10057253,
+      "num": 11307253,
       "word": "拜登重申不支持台湾独立",
       "onboard_time": 1700103758,
       "rank": 1,
@@ -777,6 +777,14 @@
       "onboard_time": 1699839991,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1219804,
+      "num": 1219804,
+      "word": "拜登指着红旗车说beautiful",
+      "onboard_time": 1700104295,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1195166,
@@ -2779,6 +2787,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 509732,
+      "num": 387489,
+      "word": "94岁中国女首富曾分300亿元给儿媳",
+      "onboard_time": 1700103454,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 507935,
       "num": 507935,
       "word": "有些癌症筛查无用甚至有害",
@@ -3596,7 +3612,7 @@
     },
     {
       "raw_hot": 410666,
-      "num": 1974825,
+      "num": 2464203,
       "word": "美国不要有打压遏制中国的打算",
       "onboard_time": 1700095061,
       "rank": 18,
@@ -3633,14 +3649,6 @@
       "onboard_time": 1700051255,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409491,
-      "num": 387489,
-      "word": "94岁中国女首富曾分300亿元给儿媳",
-      "onboard_time": 1700103454,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 409319,
@@ -3955,14 +3963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 377393,
-      "num": 377393,
-      "word": "拜登指着红旗车说beautiful",
-      "onboard_time": 1700104295,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 375952,
       "num": 375952,
       "word": "梁靖崑vs户上隼辅",
@@ -4161,6 +4161,14 @@
       "onboard_time": 1699798538,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 351136,
+      "num": 351136,
+      "word": "很想很想你定档预告",
+      "onboard_time": 1700104537,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 350442,
@@ -4579,12 +4587,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 317143,
+      "num": 317143,
+      "word": "T1和WBG与newjeans交换队服",
+      "onboard_time": 1700105077,
+      "rank": 18,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 317135,
       "num": 317135,
       "word": "小米汽车信息首曝",
       "onboard_time": 1699887756,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 316971,
+      "num": 316971,
+      "word": "0.999无限循环和1到底哪个大",
+      "onboard_time": 1700104055,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315745,
@@ -4976,6 +5000,14 @@
       "word": "张踩铃和她老公的相处模式",
       "onboard_time": 1699757311,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291506,
+      "num": 291506,
+      "word": "王牌这期是音乐人聚会吧",
+      "onboard_time": 1700103158,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -5403,6 +5435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 269852,
+      "num": 269852,
+      "word": "陈思诚张译李晨从三兄弟到三大队",
+      "onboard_time": 1700105320,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269019,
       "num": 269019,
       "word": "龚俊 被迫做E",
@@ -5785,14 +5825,6 @@
       "onboard_time": 1699857985,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 251695,
-      "num": 251695,
-      "word": "王牌这期是音乐人聚会吧",
-      "onboard_time": 1700103158,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 251578,
@@ -6227,8 +6259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230631,
-      "num": 230631,
+      "raw_hot": 230653,
+      "num": 230653,
       "word": "向佐郭碧婷合体拍大片",
       "onboard_time": 1700104363,
       "rank": 31,
@@ -7091,20 +7123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203963,
+      "num": 203963,
+      "word": "王自如",
+      "onboard_time": 1700105259,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203651,
       "num": 203651,
       "word": "花儿与少年素人版",
       "onboard_time": 1699774952,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203535,
-      "num": 203535,
-      "word": "0.999无限循环和1到底哪个大",
-      "onboard_time": 1700104055,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203206,
@@ -8067,6 +8099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181171,
+      "num": 181171,
+      "word": "刘亦菲送朱珠粉色玫瑰",
+      "onboard_time": 1700104598,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180958,
       "num": 210704,
       "word": "陈哲远健身房睡觉",
@@ -8145,14 +8185,6 @@
       "onboard_time": 1699974335,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178515,
-      "num": 178515,
-      "word": "很想很想你定档预告",
-      "onboard_time": 1700104537,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 177816,
@@ -8265,6 +8297,14 @@
       "onboard_time": 1699930710,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175540,
+      "num": 175540,
+      "word": "94岁邝肖卿成中国女首富",
+      "onboard_time": 1700104659,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175514,
@@ -9883,14 +9923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137199,
-      "num": 137199,
-      "word": "刘亦菲送朱珠粉色玫瑰",
-      "onboard_time": 1700104598,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136898,
       "num": 136898,
       "word": "缅北果敢四大家族存在明争暗斗",
@@ -10171,14 +10203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129012,
-      "num": 129012,
-      "word": "94岁邝肖卿成中国女首富",
-      "onboard_time": 1700104659,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 128737,
       "num": 128737,
       "word": "切尔西4比4曼城",
@@ -10257,6 +10281,14 @@
       "onboard_time": 1699756532,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127449,
+      "num": 127449,
+      "word": "美国人有自己的伍佰",
+      "onboard_time": 1700105618,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 127312,

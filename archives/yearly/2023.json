@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700104720772,
+  "endTime": 1700105664994,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -921,6 +921,14 @@
       "onboard_time": 1687592313,
       "rank": 0,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 10057253,
+      "num": 11307253,
+      "word": "拜登重申不支持台湾独立",
+      "onboard_time": 1700103758,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10053896,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1688026115,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7315190,
-      "num": 7691909,
-      "word": "拜登重申不支持台湾独立",
-      "onboard_time": 1700103758,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7313901,
