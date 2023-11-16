@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700139043131,
+  "endTime": 1700141023096,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2197210,
+      "num": 458578,
+      "word": "周扬青骂恋综男嘉宾大渣男",
+      "onboard_time": 1700138797,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2124697,
       "num": 1380521,
       "word": "拜登展示了一张38年前的照片",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2078260,
-      "num": 429086,
+      "num": 454141,
       "word": "明学昌明珍珍明国平被逮捕",
       "onboard_time": 1700131595,
       "rank": 11,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1808611,
-      "num": 429292,
+      "num": 445147,
       "word": "刘亦菲 宝格丽",
       "onboard_time": 1700134172,
       "rank": 20,
@@ -179,8 +187,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 926824,
+      "num": 520496,
+      "word": "国足vs泰国",
+      "onboard_time": 1700138738,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 918925,
-      "num": 428924,
+      "num": 438379,
       "word": "缅甸民族民主同盟军回应明学昌豪宅被炸",
       "onboard_time": 1700134535,
       "rank": 12,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 779666,
-      "num": 430446,
+      "num": 479402,
       "word": "不好意思开口但被民警秒懂",
       "onboard_time": 1700132196,
       "rank": 45,
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 708456,
+      "num": 495444,
+      "word": "武磊铲射破门",
+      "onboard_time": 1700140237,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706730,
       "num": 417871,
       "word": "李嘉琦做的雪媚娘一吃一个不吱声",
@@ -369,6 +393,22 @@
       "onboard_time": 1700114317,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672430,
+      "num": 432036,
+      "word": "郭敬明晒陈都灵程潇剧照",
+      "onboard_time": 1700140181,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 660976,
+      "num": 429433,
+      "word": "告五人 五月天嘉宾",
+      "onboard_time": 1700139460,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 650294,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 504337,
-      "num": 430159,
+      "num": 476457,
       "word": "银行称顺其自然汇款人是位女士",
       "onboard_time": 1700130756,
       "rank": 8,
@@ -579,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477474,
+      "num": 477474,
+      "word": "韦世豪妙传",
+      "onboard_time": 1700140421,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474819,
       "num": 374842,
       "word": "白鹿旗袍身材曲线",
@@ -612,7 +660,7 @@
     },
     {
       "raw_hot": 457515,
-      "num": 457515,
+      "num": 521483,
       "word": "美国重申不支持台湾独立",
       "onboard_time": 1700103758,
       "rank": 6,
@@ -668,7 +716,7 @@
     },
     {
       "raw_hot": 426398,
-      "num": 334179,
+      "num": 368895,
       "word": "缅北",
       "onboard_time": 1700134835,
       "rank": 19,
@@ -803,14 +851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 357968,
-      "num": 317040,
-      "word": "国足vs泰国",
-      "onboard_time": 1700138738,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357258,
       "num": 357258,
       "word": "王自如",
@@ -833,6 +873,14 @@
       "onboard_time": 1700093014,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 345320,
+      "num": 345320,
+      "word": "王昭君新皮肤",
+      "onboard_time": 1700138858,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 344325,
@@ -859,6 +907,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 329416,
+      "num": 329416,
+      "word": "吴青峰 我也抢不到票啊",
+      "onboard_time": 1700139880,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327918,
       "num": 327918,
       "word": "罗翔 不要带有知识的优越感",
@@ -881,6 +937,14 @@
       "onboard_time": 1700118095,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322768,
+      "num": 322768,
+      "word": "景甜 可以从睁眼吃到睡觉",
+      "onboard_time": 1700138557,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 320936,
@@ -947,6 +1011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 308822,
+      "num": 308822,
+      "word": "缅北电诈集团3头目被移交我公安机关",
+      "onboard_time": 1700139400,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302274,
       "num": 284526,
       "word": "秦昊说杨超越挺抠的",
@@ -1001,14 +1073,6 @@
       "onboard_time": 1700076553,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 294256,
-      "num": 294256,
-      "word": "周扬青骂恋综男嘉宾大渣男",
-      "onboard_time": 1700138797,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 291506,
@@ -1075,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271401,
+      "num": 233542,
+      "word": "嗑到成年人的纯爱了",
+      "onboard_time": 1700140237,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269852,
       "num": 269852,
       "word": "陈思诚张译李晨从三兄弟到三大队",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1700094766,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 264583,
+      "num": 264583,
+      "word": "孤舟过审",
+      "onboard_time": 1700139337,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 264091,
@@ -1123,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259606,
+      "num": 259606,
+      "word": "香港迪士尼官宣开启冰雪奇缘园区",
+      "onboard_time": 1700138318,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 257936,
       "num": 257936,
       "word": "白鹿白敬亭互联网朋友",
@@ -1137,6 +1225,14 @@
       "onboard_time": 1700089643,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252196,
+      "num": 469832,
+      "word": "九嶷山宣传片",
+      "onboard_time": 1700139460,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 252020,
@@ -1211,14 +1307,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 244749,
-      "num": 244749,
-      "word": "香港迪士尼官宣开启冰雪奇缘园区",
-      "onboard_time": 1700138318,
-      "rank": 29,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 244724,
       "num": 244724,
       "word": "怀疑这家幼儿园没有做饭师傅",
@@ -1236,7 +1324,7 @@
     },
     {
       "raw_hot": 237978,
-      "num": 430009,
+      "num": 462037,
       "word": "探班隔离中的美香一家",
       "onboard_time": 1700135797,
       "rank": 6,
@@ -1251,12 +1339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236187,
+      "num": 236187,
+      "word": "winter舞台妆造",
+      "onboard_time": 1700139400,
+      "rank": 29,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 235217,
       "num": 235217,
       "word": "父母为出生仅550克的宝宝取名小强",
       "onboard_time": 1700127454,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231980,
+      "num": 497924,
+      "word": "时隔8年再次向美国人民发表的演讲",
+      "onboard_time": 1700139276,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231774,
@@ -1305,6 +1409,14 @@
       "onboard_time": 1700094880,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226888,
+      "num": 226888,
+      "word": "泰国球员球衣被撕破",
+      "onboard_time": 1700140359,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 224935,
@@ -1457,6 +1569,22 @@
       "onboard_time": 1700116113,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199825,
+      "num": 199825,
+      "word": "来报恩的草莓蛋糕",
+      "onboard_time": 1700140782,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 199287,
+      "num": 199287,
+      "word": "阿信 上海宵夜要吃什么",
+      "onboard_time": 1700139759,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199248,
@@ -1867,27 +1995,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161139,
-      "num": 161139,
-      "word": "王昭君新皮肤",
-      "onboard_time": 1700138858,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160658,
       "num": 160658,
       "word": "辛芷蕾刚出道的角色",
       "onboard_time": 1700132132,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 159953,
-      "num": 159953,
-      "word": "景甜 可以从睁眼吃到睡觉",
-      "onboard_time": 1700138557,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1897,6 +2009,14 @@
       "onboard_time": 1700062174,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157485,
+      "num": 157485,
+      "word": "被骗到缅甸的人都遭遇了什么",
+      "onboard_time": 1700136097,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156999,
@@ -1963,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146982,
+      "num": 146982,
+      "word": "aespa Karina 直拍",
+      "onboard_time": 1700140600,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145643,
       "num": 145643,
       "word": "大熊猫渝爱的小树皮掉了",
@@ -2019,20 +2147,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140659,
+      "num": 140659,
+      "word": "佘诗曼马国明回应TVB20年还是这些人扛剧",
+      "onboard_time": 1700140839,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140452,
       "num": 140452,
       "word": "秦岚这该死的镜头感",
       "onboard_time": 1700062410,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139392,
-      "num": 139392,
-      "word": "被骗到缅甸的人都遭遇了什么",
-      "onboard_time": 1700136097,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136264,
@@ -2121,6 +2249,14 @@
       "onboard_time": 1700127513,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128533,
+      "num": 134861,
+      "word": "WB对战eStar",
+      "onboard_time": 1700139460,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 128508,
