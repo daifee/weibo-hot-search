@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/16 00:23:50 ~ 2023/11/16 17:17:56
+本榜单时间：2023/11/16 00:23:50 ~ 2023/11/16 17:34:47
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8E%A8%E5%87%BA%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%A5%B6%E8%8C%B6%E8%BF%98%E9%80%81%E6%B2%B9%E6%9D%A1%23" target="weibo">
+河南推出胡辣汤奶茶还送油条（热度：568482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AA%B3%E4%B8%BA%E5%B8%A6%E5%85%AC%E5%A9%86%E5%90%83%E8%87%AA%E5%8A%A9%E6%92%92%E8%B0%8E%E5%8F%AA%E8%A6%8110%E5%85%83%23" target="weibo">
 涉事店家回应儿媳为带公婆吃自助撒谎只要10元（热度：562998）
 </a>
@@ -287,6 +293,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23" target="weibo">
 中美元首会晤现场（热度：556837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%90%95%E6%A2%81%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E6%89%91%E7%81%AD%23" target="weibo">
+山西吕梁永聚煤业火灾已扑灭（热度：544344）
 </a>
 </li>
 
@@ -339,6 +351,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%80%E8%B6%85%E5%B8%82%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%80%81%E6%9D%BF%E5%A8%98%E9%81%AD%E6%8C%81%E6%9E%AA%E7%BB%91%E6%9E%B6%23" target="weibo">
+缅甸一超市中国籍老板娘遭持枪绑架（热度：497147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%98%9F%E4%B9%9D%E6%9C%88%E5%A4%A9%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%87%83%E5%86%AC%23" target="weibo">
 偷星九月天有自己的燃冬（热度：494032）
 </a>
@@ -353,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%97%97%E8%A2%8D%E8%BA%AB%E6%9D%90%E6%9B%B2%E7%BA%BF%23" target="weibo">
 白鹿旗袍身材曲线（热度：474819）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB%E5%AE%87%E5%AE%99%E4%B9%8B%E7%AB%A0%23" target="weibo">
+王者联动美少女战士宇宙之章（热度：472484）
 </a>
 </li>
 
@@ -441,12 +465,6 @@ BLACKPINK将举办VR音乐会（热度：412058）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%90%95%E6%A2%81%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E6%89%91%E7%81%AD%23" target="weibo">
-山西吕梁永聚煤业火灾已扑灭（热度：404013）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%8B%97%E4%B8%A4%E5%B9%B4%E4%BA%86%E8%87%B3%E4%BB%8A%E6%B2%A1%E6%91%B8%E5%88%B0%E7%8B%97%23" target="weibo">
 买狗两年了至今没摸到狗（热度：400598）
 </a>
@@ -461,12 +479,6 @@ BLACKPINK将举办VR音乐会（热度：412058）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%81%8C%E9%99%AA%E6%8A%A4%E6%99%BA%E5%8A%9B2%E5%B2%81%E5%A6%88%E5%A6%88%23" target="weibo">
 31岁儿子全职陪护智力2岁妈妈（热度：396093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8E%A8%E5%87%BA%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%A5%B6%E8%8C%B6%E8%BF%98%E9%80%81%E6%B2%B9%E6%9D%A1%23" target="weibo">
-河南推出胡辣汤奶茶还送油条（热度：392807）
 </a>
 </li>
 
@@ -538,7 +550,7 @@ T1和WBG与NewJeans交换队服（热度：343370）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B42%E5%91%A8%E5%B9%B4%23" target="weibo">
-中国女排首次夺得世界冠军42周年（热度：318586）
+中国女排首次夺得世界冠军42周年（热度：320936）
 </a>
 </li>
 
@@ -567,8 +579,8 @@ T1和WBG与newjeans交换队服（热度：317143）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB%E5%AE%87%E5%AE%99%E4%B9%8B%E7%AB%A0%23" target="weibo">
-王者联动美少女战士宇宙之章（热度：306717）
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E9%AB%98%E9%A2%85%E9%A1%B6%20%E6%96%91%E7%A7%83%23" target="weibo">
+打高颅顶 斑秃（热度：309750）
 </a>
 </li>
 
@@ -627,6 +639,12 @@ ENHYPEN空降（热度：289621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E4%B8%B4%E6%B2%A7%E5%AF%B9%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%8F%91%E6%95%85%E9%9A%9C%E5%81%9C%E7%94%B5%E9%80%9A%E7%9F%A5%23" target="weibo">
+云南临沧对缅甸果敢发故障停电通知（热度：277127）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%A5%E9%A5%BF%E6%B8%B8%E6%88%8F%E5%89%8D%E4%BC%A0%E4%B8%AD%E5%9B%BD%E7%8B%AC%E5%AE%B6%E9%A2%84%E5%91%8A%23" target="weibo">
 饥饿游戏前传中国独家预告（热度：275724）
 </a>
@@ -659,6 +677,12 @@ ENHYPEN空降（热度：289621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%20%E9%93%81%E8%A1%A3%E9%92%A2%E6%9D%BF%23" target="weibo">
 逆水寒 铁衣钢板（热度：262652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%8D%83%E5%85%83%E4%B8%A2%E5%A4%B1%E6%8A%A5%E8%AD%A6%E5%9C%A8%E5%86%B0%E7%AE%B1%E6%89%BE%E5%88%B0%E8%80%81%E4%BA%BA%E8%87%AA%E8%B4%A3%E8%90%BD%E6%B3%AA%23" target="weibo">
+2千元丢失报警在冰箱找到老人自责落泪（热度：261600）
 </a>
 </li>
 
@@ -737,12 +761,6 @@ ENHYPEN空降（热度：289621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E4%B8%8B%E5%91%A8%E8%B6%85%E7%82%B9%23" target="weibo">
 宁安如梦下周超点（热度：236257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%8D%83%E5%85%83%E4%B8%A2%E5%A4%B1%E6%8A%A5%E8%AD%A6%E5%9C%A8%E5%86%B0%E7%AE%B1%E6%89%BE%E5%88%B0%E8%80%81%E4%BA%BA%E8%87%AA%E8%B4%A3%E8%90%BD%E6%B3%AA%23" target="weibo">
-2千元丢失报警在冰箱找到老人自责落泪（热度：234921）
 </a>
 </li>
 
@@ -1185,8 +1203,20 @@ TFBOYS待映新片都是科幻片（热度：148769）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%ADZARA%E5%95%86%E5%93%81%E4%B8%8D%E8%83%BD%E5%9C%A8%E9%97%A8%E5%BA%97%E9%80%80%E6%8D%A2%23" target="weibo">
+网购ZARA商品不能在门店退换（热度：146536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B8%9D%E7%88%B1%E7%9A%84%E5%B0%8F%E6%A0%91%E7%9A%AE%E6%8E%89%E4%BA%86%23" target="weibo">
 大熊猫渝爱的小树皮掉了（热度：145643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%23" target="weibo">
+官方通报山西永聚煤业火灾（热度：144890）
 </a>
 </li>
 
@@ -1235,6 +1265,12 @@ TFBOYS待映新片都是科幻片（热度：148769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B8%A6%E6%95%99%E8%B5%84%E4%BD%93%E8%B4%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%80%E7%BE%A4%E6%BC%94%E5%91%98%23" target="weibo">
 自带教资体质的孩子背后有一群演员（热度：136160）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E7%9C%81%E6%94%BF%E5%BA%9C%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23" target="weibo">
+山西永聚煤业火灾省政府成立调查组（热度：135082）
 </a>
 </li>
 
@@ -1331,12 +1367,6 @@ TFBOYS待映新片都是科幻片（热度：148769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%A2%AB%E7%83%AB%E5%88%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 田曦薇被烫到的反应（热度：119479）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%80%E8%B6%85%E5%B8%82%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%80%81%E6%9D%BF%E5%A8%98%E9%81%AD%E6%8C%81%E6%9E%AA%E7%BB%91%E6%9E%B6%23" target="weibo">
-缅甸一超市中国籍老板娘遭持枪绑架（热度：118643）
 </a>
 </li>
 

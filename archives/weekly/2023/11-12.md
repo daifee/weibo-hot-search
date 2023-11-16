@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/12 00:20:41 ~ 2023/11/16 17:17:56
+本榜单时间：2023/11/12 00:20:41 ~ 2023/11/16 17:34:47
 </p>
 </blockquote>
 <p>
@@ -1971,6 +1971,12 @@ Ruler和Faker  一墙之隔胜负之分（热度：589656）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8E%A8%E5%87%BA%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%A5%B6%E8%8C%B6%E8%BF%98%E9%80%81%E6%B2%B9%E6%9D%A1%23" target="weibo">
+河南推出胡辣汤奶茶还送油条（热度：568482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23JackeyLove%E5%92%8C%E5%AD%99%E6%9D%A8%E5%90%88%E7%85%A7%23" target="weibo">
 JackeyLove和孙杨合照（热度：567031）
 </a>
@@ -2051,6 +2057,12 @@ EDG剧本（热度：548931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E9%BE%99%E5%B9%B4%E8%B4%B5%E9%87%91%E5%B1%9E%E7%BA%AA%E5%BF%B5%E5%B8%81%E5%B0%86%E5%8F%91%E8%A1%8C%23" target="weibo">
 2024龙年贵金属纪念币将发行（热度：545065）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%90%95%E6%A2%81%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E6%89%91%E7%81%AD%23" target="weibo">
+山西吕梁永聚煤业火灾已扑灭（热度：544344）
 </a>
 </li>
 
@@ -2307,6 +2319,12 @@ Doinb评价Faker沙皇（热度：500809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%80%E8%B6%85%E5%B8%82%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%80%81%E6%9D%BF%E5%A8%98%E9%81%AD%E6%8C%81%E6%9E%AA%E7%BB%91%E6%9E%B6%23" target="weibo">
+缅甸一超市中国籍老板娘遭持枪绑架（热度：497147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%83%B3%E8%AE%A4%E8%AF%86%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%9F%E8%A6%81%E9%9D%A0%E6%9C%8B%E5%8F%8B%E6%8B%89%E7%BE%A4%23" target="weibo">
 陈奕迅想认识李荣浩也要靠朋友拉群（热度：496243）
 </a>
@@ -2453,6 +2471,12 @@ Faker拒绝做弱爆动作（热度：478144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%BF%E8%97%BF%23" target="weibo">
 藿藿（热度：472611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB%E5%AE%87%E5%AE%99%E4%B9%8B%E7%AB%A0%23" target="weibo">
+王者联动美少女战士宇宙之章（热度：472484）
 </a>
 </li>
 
@@ -2979,12 +3003,6 @@ BLACKPINK将举办VR音乐会（热度：412058）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%90%95%E6%A2%81%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E5%B7%B2%E6%89%91%E7%81%AD%23" target="weibo">
-山西吕梁永聚煤业火灾已扑灭（热度：404013）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%992%E5%8F%B7%E9%81%87%E8%90%BD%E9%9A%BE%E5%A4%96%E5%9B%BD%E6%B8%94%E8%88%B9%E4%B8%80%E6%95%B4%E4%B8%AA%E6%89%93%E5%8C%85%E6%95%91%E4%B8%8B%23" target="weibo">
 雪龙2号遇落难外国渔船一整个打包救下（热度：403953）
 </a>
@@ -3071,12 +3089,6 @@ BLACKPINK将举办VR音乐会（热度：412058）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%88%9A%E5%9B%A0%E6%94%AF%E6%8C%81WBG%E8%A2%ABT1%E8%B5%B6%E5%87%BA%E5%8A%9E%E5%85%AC%E5%AE%A4%23" target="weibo">
 欧刚因支持WBG被T1赶出办公室（热度：393327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8E%A8%E5%87%BA%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%A5%B6%E8%8C%B6%E8%BF%98%E9%80%81%E6%B2%B9%E6%9D%A1%23" target="weibo">
-河南推出胡辣汤奶茶还送油条（热度：392807）
 </a>
 </li>
 
@@ -3651,6 +3663,12 @@ T1和WBG与NewJeans交换队服（热度：343370）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B42%E5%91%A8%E5%B9%B4%23" target="weibo">
+中国女排首次夺得世界冠军42周年（热度：320936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%20%E7%88%B6%E6%AF%8D%E5%AD%90%E5%A5%B3%E4%BA%92%E4%B8%BA%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%AE%9D%23" target="weibo">
 魏晨 父母子女互为无价之宝（热度：319904）
 </a>
@@ -3659,12 +3677,6 @@ T1和WBG与NewJeans交换队服（热度：343370）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8A%E5%8E%95%E6%89%80%E6%97%B6%E9%A9%AC%E6%A1%B6%E7%AA%81%E7%84%B6%E7%9D%80%E7%81%AB%23" target="weibo">
 男子上厕所时马桶突然着火（热度：319688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B42%E5%91%A8%E5%B9%B4%23" target="weibo">
-中国女排首次夺得世界冠军42周年（热度：318586）
 </a>
 </li>
 
@@ -3765,6 +3777,12 @@ WBG 四号种子的逆袭（热度：311448）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E9%AB%98%E9%A2%85%E9%A1%B6%20%E6%96%91%E7%A7%83%23" target="weibo">
+打高颅顶 斑秃（热度：309750）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%96%9C%E6%AC%A2%E8%89%BE%E7%81%B8%23" target="weibo">
 赵丽颖喜欢艾灸（热度：309317）
 </a>
@@ -3803,12 +3821,6 @@ WBG 四号种子的逆袭（热度：311448）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%97%AC%E8%80%81%E6%B1%89%E6%88%B7%E5%8F%A3%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A4%9A%E4%BA%86%E4%B8%AA10%E5%B2%81%E5%AD%99%E5%AD%90%23" target="weibo">
 七旬老汉户口本突然多了个10岁孙子（热度：306908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%98%E5%A3%AB%E5%AE%87%E5%AE%99%E4%B9%8B%E7%AB%A0%23" target="weibo">
-王者联动美少女战士宇宙之章（热度：306717）
 </a>
 </li>
 
@@ -4287,6 +4299,12 @@ RedVelvet新歌上线（热度：283470）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E4%B8%B4%E6%B2%A7%E5%AF%B9%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%8F%91%E6%95%85%E9%9A%9C%E5%81%9C%E7%94%B5%E9%80%9A%E7%9F%A5%23" target="weibo">
+云南临沧对缅甸果敢发故障停电通知（热度：277127）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%B8%8D%E6%83%B3%E4%B8%80%E8%B5%B7%E5%8F%82%E5%8A%A0%E9%9D%A2%E8%AF%95%E7%9A%84%E8%89%BA%E4%BA%BA%23" target="weibo">
 最不想一起参加面试的艺人（热度：276934）
 </a>
@@ -4481,6 +4499,12 @@ RedVelvet新歌上线（热度：283470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%A7%A3%E9%87%8A%E5%9B%9E%E5%A4%8D%E6%B6%88%E6%81%AF%E6%85%A2%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 沈腾解释回复消息慢的原因（热度：262570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%8D%83%E5%85%83%E4%B8%A2%E5%A4%B1%E6%8A%A5%E8%AD%A6%E5%9C%A8%E5%86%B0%E7%AE%B1%E6%89%BE%E5%88%B0%E8%80%81%E4%BA%BA%E8%87%AA%E8%B4%A3%E8%90%BD%E6%B3%AA%23" target="weibo">
+2千元丢失报警在冰箱找到老人自责落泪（热度：261600）
 </a>
 </li>
 
@@ -4985,12 +5009,6 @@ WBG对阵T1所有结局（热度：245119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%92%E8%A1%A3%E8%8A%82%23" target="weibo">
 寒衣节（热度：235182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%8D%83%E5%85%83%E4%B8%A2%E5%A4%B1%E6%8A%A5%E8%AD%A6%E5%9C%A8%E5%86%B0%E7%AE%B1%E6%89%BE%E5%88%B0%E8%80%81%E4%BA%BA%E8%87%AA%E8%B4%A3%E8%90%BD%E6%B3%AA%23" target="weibo">
-2千元丢失报警在冰箱找到老人自责落泪（热度：234921）
 </a>
 </li>
 
@@ -7755,6 +7773,12 @@ TizzyT演唱会五城官宣（热度：147739）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%ADZARA%E5%95%86%E5%93%81%E4%B8%8D%E8%83%BD%E5%9C%A8%E9%97%A8%E5%BA%97%E9%80%80%E6%8D%A2%23" target="weibo">
+网购ZARA商品不能在门店退换（热度：146536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E5%9B%9E%E5%BD%92%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B63%23" target="weibo">
 马立奥回归爸爸当家3（热度：146087）
 </a>
@@ -7787,6 +7811,12 @@ iQOO12把竞燃之夜包圆了（热度：145606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%23" target="weibo">
 令人心动的offer（热度：145058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%23" target="weibo">
+官方通报山西永聚煤业火灾（热度：144890）
 </a>
 </li>
 
@@ -8081,6 +8111,12 @@ TTG定妆照卡点（热度：139118）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E4%B8%8B%E7%9A%84%E5%B0%81%E5%BB%BA%E6%82%B2%E5%89%A7%23" target="weibo">
 中式美学下的封建悲剧（热度：135907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%E7%9C%81%E6%94%BF%E5%BA%9C%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23" target="weibo">
+山西永聚煤业火灾省政府成立调查组（热度：135082）
 </a>
 </li>
 
@@ -8675,12 +8711,6 @@ WBG晋级S13总决赛（热度：125226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%AA%91%E7%99%BD%E9%A9%AC%E5%87%BA%E5%9C%BA%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23" target="weibo">
 女子婚礼骑白马出场又美又飒（热度：118664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%B8%80%E8%B6%85%E5%B8%82%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%80%81%E6%9D%BF%E5%A8%98%E9%81%AD%E6%8C%81%E6%9E%AA%E7%BB%91%E6%9E%B6%23" target="weibo">
-缅甸一超市中国籍老板娘遭持枪绑架（热度：118643）
 </a>
 </li>
 
