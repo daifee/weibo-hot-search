@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700152810002,
+  "endTime": 1700154937402,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -7851,6 +7851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214307,
+      "num": 182495,
+      "word": "男子买了张顶呱刮刮出100万",
+      "onboard_time": 1700151572,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214217,
       "num": 214217,
       "word": "花少为什么这段只放在花絮",
@@ -9441,14 +9449,6 @@
       "onboard_time": 1699831707,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182495,
-      "num": 182495,
-      "word": "男子买了张顶呱刮刮出100万",
-      "onboard_time": 1700151572,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181964,
@@ -12211,6 +12211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124088,
+      "num": 378927,
+      "word": "这届打工人流行上夜校",
+      "onboard_time": 1700150795,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123925,
       "num": 145686,
       "word": "这种上色在北魏起码要斩首的",
@@ -12891,14 +12899,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 107695,
-      "num": 378927,
-      "word": "这届打工人流行上夜校",
-      "onboard_time": 1700150795,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107430,
       "num": 107430,
       "word": "StrayKids最新练习室",
@@ -13219,6 +13219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91881,
+      "num": 91881,
+      "word": "工人日报评通缉电诈头目",
+      "onboard_time": 1700154503,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91632,
       "num": 91632,
       "word": "燕临冠礼",
@@ -13321,6 +13329,14 @@
       "onboard_time": 1700063253,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83483,
+      "num": 83483,
+      "word": "2023王者世冠KIC",
+      "onboard_time": 1700153844,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 82756,
@@ -13513,6 +13529,14 @@
       "onboard_time": 1699794035,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61835,
+      "num": 160532,
+      "word": "杨鸣预测湖人是季中锦标赛冠军",
+      "onboard_time": 1700153366,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 61544,
