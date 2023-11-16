@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700111837593,
+  "endTime": 1700112840240,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 792877,
+      "num": 385470,
+      "word": "李连杰现身台湾辟谣死讯",
+      "onboard_time": 1700111619,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770355,
       "num": 770355,
       "word": "檀健次首部现偶男主",
@@ -155,6 +163,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 744829,
+      "num": 351806,
+      "word": "全球人类精子数量下降的原因找到了",
+      "onboard_time": 1700110965,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 709696,
       "num": 458845,
       "word": "贵女 陈都灵陈哲远",
@@ -169,14 +185,6 @@
       "onboard_time": 1700098779,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 676173,
-      "num": 291348,
-      "word": "全球人类精子数量下降的原因找到了",
-      "onboard_time": 1700110965,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 650294,
@@ -267,6 +275,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 532482,
+      "num": 532482,
+      "word": "仙剑四过审",
+      "onboard_time": 1700110658,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 525725,
+      "num": 383670,
+      "word": "缅北电诈头目的暗黑人生",
+      "onboard_time": 1700111199,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521948,
       "num": 521948,
       "word": "大约40%的癌症可以避免",
@@ -275,7 +299,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 511756,
+      "raw_hot": 518814,
       "num": 391635,
       "word": "晋江文永久居住证持有者",
       "onboard_time": 1700110365,
@@ -307,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474819,
+      "num": 374842,
+      "word": "白鹿旗袍身材曲线",
+      "onboard_time": 1700111259,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 468326,
       "num": 440333,
       "word": "0.999无限循环和1到底哪个大",
@@ -329,14 +361,6 @@
       "onboard_time": 1700099916,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 451101,
-      "num": 451101,
-      "word": "仙剑四过审",
-      "onboard_time": 1700110658,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 447132,
@@ -443,6 +467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 355860,
+      "num": 355860,
+      "word": "马斯克库克等齐聚一堂",
+      "onboard_time": 1700111619,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 352161,
       "num": 352161,
       "word": "小杨哥演唱会成本超3000万",
@@ -457,6 +489,14 @@
       "onboard_time": 1700093014,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 344325,
+      "num": 344325,
+      "word": "花少 称体重",
+      "onboard_time": 1700111080,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 343370,
@@ -475,28 +515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325684,
-      "num": 290993,
-      "word": "花少 称体重",
-      "onboard_time": 1700111080,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317462,
       "num": 317462,
       "word": "中美元首时隔1年再次面对面会晤",
       "onboard_time": 1700077334,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 317438,
-      "num": 317438,
-      "word": "缅北电诈头目的暗黑人生",
-      "onboard_time": 1700111199,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317143,
@@ -547,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286044,
-      "num": 286044,
-      "word": "白鹿旗袍身材曲线",
-      "onboard_time": 1700111259,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 282811,
       "num": 282811,
       "word": "大衣里居然有羽绒内胆",
@@ -569,6 +585,14 @@
       "onboard_time": 1700106098,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271492,
+      "num": 271492,
+      "word": "蔡少芬把谢娜泼懵了",
+      "onboard_time": 1700111856,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 269852,
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249997,
+      "num": 249997,
+      "word": "詹姆斯三分命中数历史第8",
+      "onboard_time": 1700111917,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248462,
       "num": 248462,
       "word": "电影我本是高山首映",
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231774,
+      "num": 376254,
+      "word": "原神 心海联动",
+      "onboard_time": 1700110840,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231555,
       "num": 231555,
       "word": "刘亦菲彭冠英亲出声了",
@@ -689,6 +729,14 @@
       "onboard_time": 1700093195,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 229994,
+      "num": 229994,
+      "word": "刘亦菲新剧证件照",
+      "onboard_time": 1700112457,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 227513,
@@ -771,12 +819,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 201620,
-      "num": 201620,
-      "word": "李连杰现身台湾辟谣死讯",
-      "onboard_time": 1700111619,
+      "raw_hot": 203209,
+      "num": 203209,
+      "word": "马斯克的星舰将在明日晚间再度试飞",
+      "onboard_time": 1700112818,
       "rank": 35,
-      "category": "艺人"
+      "category": "互联网"
     },
     {
       "raw_hot": 201411,
@@ -785,6 +833,14 @@
       "onboard_time": 1700052216,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200881,
+      "num": 200881,
+      "word": "在岛上送外卖是什么体验",
+      "onboard_time": 1700111917,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199248,
@@ -865,6 +921,14 @@
       "onboard_time": 1700091025,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184345,
+      "num": 184345,
+      "word": "张杰平行空间追光大片",
+      "onboard_time": 1700111917,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184133,
@@ -963,12 +1027,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161255,
+      "num": 161255,
+      "word": "10岁女孩攒29元零花钱给奶奶买棉袄",
+      "onboard_time": 1700108858,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157595,
       "num": 157595,
       "word": "杨幂选了狐狸蜜蜂贺卡",
       "onboard_time": 1700062174,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157540,
+      "num": 157540,
+      "word": "抱娃女子手机没电借充电宝却收到100元",
+      "onboard_time": 1700112514,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156999,
@@ -1001,14 +1081,6 @@
       "onboard_time": 1700060855,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 149159,
-      "num": 149159,
-      "word": "马斯克库克等齐聚一堂",
-      "onboard_time": 1700111619,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 148769,
@@ -1083,14 +1155,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 134241,
-      "num": 134241,
-      "word": "10岁女孩攒29元零花钱给奶奶买棉袄",
-      "onboard_time": 1700108858,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133506,
       "num": 133506,
       "word": "小山村丝瓜络征服老外一年卖400万",
@@ -1113,14 +1177,6 @@
       "onboard_time": 1700059294,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127875,
-      "num": 354589,
-      "word": "原神 心海联动",
-      "onboard_time": 1700110840,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 127474,
