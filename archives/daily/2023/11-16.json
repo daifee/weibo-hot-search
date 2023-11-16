@@ -1,12 +1,28 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700091290461,
+  "endTime": 1700097385044,
   "band_list": [
+    {
+      "raw_hot": 12222637,
+      "num": 12429906,
+      "word": "中国终将统一也必然统一",
+      "onboard_time": 1700091930,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2825614,
       "num": 2732698,
       "word": "这个地球容得下中美两国",
       "onboard_time": 1700084113,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1991533,
+      "num": 1991533,
+      "word": "中美元首相互道别",
+      "onboard_time": 1700092958,
       "rank": 1,
       "category": "国内时政"
     },
@@ -27,12 +43,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1138723,
+      "num": 424197,
+      "word": "中山大学通报贫困生炫富事件",
+      "onboard_time": 1700089702,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1008965,
+      "num": 431107,
+      "word": "奚梦瑶 我是嫁给爱情",
+      "onboard_time": 1700093134,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 995571,
-      "num": 310324,
+      "num": 428654,
       "word": "骑车偶遇刘亦菲来回骑了20遍",
       "onboard_time": 1700062533,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 961853,
+      "num": 961853,
+      "word": "大批艺人已停播",
+      "onboard_time": 1700096979,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 912950,
@@ -43,12 +83,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 841386,
-      "num": 248822,
-      "word": "中山大学通报贫困生炫富事件",
-      "onboard_time": 1700089702,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 891254,
+      "num": 891254,
+      "word": "要增加中美两国直航航班",
+      "onboard_time": 1700093734,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 837180,
+      "num": 429901,
+      "word": "从今天确诊龙性恋",
+      "onboard_time": 1700092531,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 798966,
@@ -57,6 +105,14 @@
       "onboard_time": 1700066962,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 746751,
+      "num": 429435,
+      "word": "李沁体态",
+      "onboard_time": 1700090363,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 649176,
@@ -68,7 +124,7 @@
     },
     {
       "raw_hot": 643889,
-      "num": 247397,
+      "num": 427284,
       "word": "王安宇快碎了",
       "onboard_time": 1700089702,
       "rank": 11,
@@ -81,6 +137,22 @@
       "onboard_time": 1700062352,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 587405,
+      "num": 587405,
+      "word": "男子2天没上班同事报警救其一命",
+      "onboard_time": 1700090724,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562998,
+      "num": 422083,
+      "word": "涉事店家回应儿媳为带公婆吃自助撒谎只要10元",
+      "onboard_time": 1700093734,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556837,
@@ -99,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 502521,
+      "num": 502521,
+      "word": "九命相柳 名不虚传",
+      "onboard_time": 1700092171,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447132,
       "num": 309209,
       "word": "程潇三角巾抹胸",
@@ -115,12 +195,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427191,
+      "num": 427191,
+      "word": "原来正骨盆更能瘦腿缩胯",
+      "onboard_time": 1700093014,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 425873,
       "num": 425873,
       "word": "她居然可以自己做马面裙",
       "onboard_time": 1700060975,
       "rank": 6,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 410666,
+      "num": 410666,
+      "word": "美国不要有打压遏制中国的打算",
+      "onboard_time": 1700095061,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 400598,
+      "num": 384745,
+      "word": "买狗两年了至今没摸到狗",
+      "onboard_time": 1700089522,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 396093,
@@ -139,20 +243,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346756,
+      "num": 346756,
+      "word": "TheShy回应世界第一上单",
+      "onboard_time": 1700093014,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 327918,
       "num": 327918,
       "word": "罗翔 不要带有知识的优越感",
       "onboard_time": 1700057615,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 325980,
-      "num": 163184,
-      "word": "买狗两年了至今没摸到狗",
-      "onboard_time": 1700089522,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 317462,
@@ -187,6 +291,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 267160,
+      "num": 267160,
+      "word": "中美在平等尊重基础上恢复两军高层沟通",
+      "onboard_time": 1700094766,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 252847,
+      "num": 252847,
+      "word": "养成无意识减肥行为",
+      "onboard_time": 1700089643,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 244777,
+      "num": 244777,
+      "word": "中国的发展壮大是外部力量阻挡不了的",
+      "onboard_time": 1700092654,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 244724,
       "num": 244724,
       "word": "怀疑这家幼儿园没有做饭师傅",
@@ -211,12 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229505,
-      "num": 229505,
-      "word": "李沁体态",
-      "onboard_time": 1700090363,
-      "rank": 15,
-      "category": "艺人,时尚"
+      "raw_hot": 227513,
+      "num": 227513,
+      "word": "警花下班捡3岁娃收到超可爱小锦旗",
+      "onboard_time": 1700094880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224935,
+      "num": 224935,
+      "word": "6岁女孩1分钟用腿拍瑜伽球200次",
+      "onboard_time": 1700091507,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 220072,
@@ -224,6 +360,14 @@
       "word": "中美元首举行会晤",
       "onboard_time": 1700082193,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 207234,
+      "num": 207234,
+      "word": "中美要了解彼此的原则底线",
+      "onboard_time": 1700093195,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -235,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206231,
+      "num": 206231,
+      "word": "NBA调查勇士森林狼冲突",
+      "onboard_time": 1700093376,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204870,
       "num": 204870,
       "word": "赵露思新发型",
@@ -243,12 +395,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 204361,
+      "num": 204361,
+      "word": "女孩子养生之蒸苹果",
+      "onboard_time": 1700095061,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201411,
       "num": 201411,
       "word": "宁安如梦女三",
       "onboard_time": 1700052216,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198617,
+      "num": 198617,
+      "word": "ENHYPEN妆造",
+      "onboard_time": 1700096380,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196649,
@@ -267,6 +435,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188703,
+      "num": 188703,
+      "word": "希望中美做伙伴相互尊重和平共处",
+      "onboard_time": 1700093559,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 185728,
+      "num": 185728,
+      "word": "多国限制使用司美格鲁肽",
+      "onboard_time": 1700091025,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179716,
+      "num": 179716,
+      "word": "不得不久坐的补救方法",
+      "onboard_time": 1700094400,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 178425,
       "num": 546155,
       "word": "顺其自然25年捐款1577万",
@@ -275,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166671,
-      "num": 166671,
-      "word": "养成无意识减肥行为",
+      "raw_hot": 165094,
+      "num": 165094,
+      "word": "为什么只有炸鸡却没有炸鸭",
       "onboard_time": 1700089643,
-      "rank": 28,
-      "category": "健康医疗"
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 157595,
@@ -297,6 +489,14 @@
       "onboard_time": 1700060855,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "这居然是卷发器",
+      "onboard_time": 1700059356,
+      "rank": 31,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 148769,
@@ -323,6 +523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 142839,
+      "num": 142839,
+      "word": "机智会计保住了20万和光明前途",
+      "onboard_time": 1700091988,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140452,
       "num": 140452,
       "word": "秦岚这该死的镜头感",
@@ -331,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135270,
-      "num": 135270,
-      "word": "这居然是卷发器",
-      "onboard_time": 1700059356,
-      "rank": 31,
-      "category": "作品衍生,美妆"
+      "raw_hot": 136264,
+      "num": 136264,
+      "word": "秋冬氛围感木质香水",
+      "onboard_time": 1700097097,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 132262,
@@ -353,6 +561,14 @@
       "onboard_time": 1700059294,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126534,
+      "num": 126534,
+      "word": "中国糖葫芦在韩人气超炒年糕",
+      "onboard_time": 1700094400,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 124366,
@@ -393,14 +609,6 @@
       "onboard_time": 1700064751,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116909,
-      "num": 116909,
-      "word": "男子2天没上班同事报警救其一命",
-      "onboard_time": 1700090724,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114887,
@@ -465,14 +673,6 @@
       "onboard_time": 1700052033,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84990,
-      "num": 84990,
-      "word": "为什么只有炸鸡却没有炸鸭",
-      "onboard_time": 1700089643,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 84222,
@@ -552,14 +752,6 @@
       "word": "大熊猫渝爱毛毛虫式蛄蛹下树",
       "onboard_time": 1700057615,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55001,
-      "num": 55001,
-      "word": "多国限制使用司美格鲁肽",
-      "onboard_time": 1700091025,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
