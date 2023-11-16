@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700129962507,
+  "endTime": 1700131082194,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1491,6 +1491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1829547,
+      "num": 330596,
+      "word": "雪莉 东亚娱乐行业",
+      "onboard_time": 1700128355,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1825997,
       "num": 402130,
       "word": "金鸡奖给周冬雨于适P了衣服",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1699660465,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1531820,
-      "num": 329754,
-      "word": "雪莉 东亚娱乐行业",
-      "onboard_time": 1700128355,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1528602,
@@ -3513,6 +3513,14 @@
       "onboard_time": 1699934730,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1159018,
+      "num": 326303,
+      "word": "男子半夜爬独居女子窗户被击落身亡",
+      "onboard_time": 1700127693,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158773,
@@ -7289,14 +7297,6 @@
       "onboard_time": 1700031571,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 686737,
-      "num": 320847,
-      "word": "男子半夜爬独居女子窗户被击落身亡",
-      "onboard_time": 1700127693,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684692,
@@ -22787,6 +22787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236861,
+      "num": 236861,
+      "word": "十个勤天睡觉满头大脚",
+      "onboard_time": 1700129316,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236816,
       "num": 236816,
       "word": "他衣服都没晾干就坐着睡着了",
@@ -22953,6 +22961,14 @@
       "onboard_time": 1699337493,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235217,
+      "num": 235217,
+      "word": "父母为出生仅550克的宝宝取名小强",
+      "onboard_time": 1700127454,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235213,
@@ -24819,14 +24835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217100,
-      "num": 217100,
-      "word": "父母为出生仅550克的宝宝取名小强",
-      "onboard_time": 1700127454,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217098,
       "num": 186017,
       "word": "第一次见脑袋这么大的猫",
@@ -25153,6 +25161,14 @@
       "onboard_time": 1699506576,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213799,
+      "num": 482442,
+      "word": "5岁女孩霸气拦警车救生病老爷爷",
+      "onboard_time": 1700128714,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213768,
@@ -25745,6 +25761,14 @@
       "onboard_time": 1699585053,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209417,
+      "num": 209417,
+      "word": "宁安如梦 遮宁的遗憾",
+      "onboard_time": 1700130333,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 209404,
@@ -26729,14 +26753,6 @@
       "onboard_time": 1699112375,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202520,
-      "num": 202520,
-      "word": "十个勤天睡觉满头大脚",
-      "onboard_time": 1700129316,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 202519,
@@ -29323,6 +29339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187890,
+      "num": 594729,
+      "word": "女童就医途中病情加剧交警疾驰开道送医",
+      "onboard_time": 1700128234,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "这是我清汤寡水20集应得的",
@@ -29369,6 +29393,14 @@
       "onboard_time": 1699594355,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187549,
+      "num": 187549,
+      "word": "于适复古白色丝质衬衫造型",
+      "onboard_time": 1700130035,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187484,
@@ -29601,14 +29633,6 @@
       "onboard_time": 1699421672,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 186283,
-      "num": 594729,
-      "word": "女童就医途中病情加剧交警疾驰开道送医",
-      "onboard_time": 1700128234,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186281,
@@ -30001,14 +30025,6 @@
       "onboard_time": 1700025036,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183841,
-      "num": 482442,
-      "word": "5岁女孩霸气拦警车救生病老爷爷",
-      "onboard_time": 1700128714,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183592,
@@ -31545,6 +31561,14 @@
       "onboard_time": 1699709074,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171429,
+      "num": 171429,
+      "word": "减肥成功的人每天都做的3件事",
+      "onboard_time": 1700127332,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 171416,
@@ -36027,6 +36051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140936,
+      "num": 332980,
+      "word": "银行称顺其自然汇款人是位女士",
+      "onboard_time": 1700130756,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140929,
       "num": 140929,
       "word": "湖人vs火箭",
@@ -36539,14 +36571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136293,
-      "num": 136293,
-      "word": "减肥成功的人每天都做的3件事",
-      "onboard_time": 1700127332,
-      "rank": 43,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 136292,
       "num": 136292,
       "word": "50人众筹82年拉菲每人15毫升",
@@ -36792,6 +36816,14 @@
       "word": "双11日系美妆集体遇冷",
       "onboard_time": 1699856795,
       "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "黄皮精致裸妆",
+      "onboard_time": 1700130874,
+      "rank": 46,
       "category": "美妆"
     },
     {
@@ -42779,6 +42811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59890,
+      "num": 324030,
+      "word": "千金玛德琳穿搭",
+      "onboard_time": 1700128835,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 59775,
       "num": 1637261,
       "word": "元宇宙体验2023金融街论坛年会",
@@ -43419,20 +43459,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40149,
+      "num": 298046,
+      "word": "民警把随身携带的救心丸给司机应急",
+      "onboard_time": 1700128654,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40049,
       "num": 48705,
       "word": "深夜的这盒糖好甜",
       "onboard_time": 1698859340,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39639,
-      "num": 324030,
-      "word": "千金玛德琳穿搭",
-      "onboard_time": 1700128835,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 39093,
@@ -44041,6 +44081,14 @@
       "onboard_time": 1699817056,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15249,
+      "num": 305242,
+      "word": "邻桌护士50秒救回卡喉宝宝",
+      "onboard_time": 1700130874,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15116,

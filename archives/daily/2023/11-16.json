@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700129962507,
+  "endTime": 1700131082194,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1829547,
+      "num": 330596,
+      "word": "雪莉 东亚娱乐行业",
+      "onboard_time": 1700128355,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1825310,
       "num": 1825310,
       "word": "中美元首会晤结束",
@@ -89,14 +97,6 @@
       "onboard_time": 1700113416,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1531820,
-      "num": 329754,
-      "word": "雪莉 东亚娱乐行业",
-      "onboard_time": 1700128355,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1345115,
@@ -129,6 +129,14 @@
       "onboard_time": 1700100935,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1159018,
+      "num": 326303,
+      "word": "男子半夜爬独居女子窗户被击落身亡",
+      "onboard_time": 1700127693,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1138723,
@@ -312,14 +320,6 @@
       "word": "山西永聚煤业火灾遇难升至25人",
       "onboard_time": 1700114317,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686737,
-      "num": 320847,
-      "word": "男子半夜爬独居女子窗户被击落身亡",
-      "onboard_time": 1700127693,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285677,
+      "num": 285677,
+      "word": "DIOR活动",
+      "onboard_time": 1700129493,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 282811,
       "num": 282811,
       "word": "大衣里居然有羽绒内胆",
@@ -1051,12 +1059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236861,
+      "num": 236861,
+      "word": "十个勤天睡觉满头大脚",
+      "onboard_time": 1700129316,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236257,
       "num": 236257,
       "word": "宁安如梦下周超点",
       "onboard_time": 1700089461,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235217,
+      "num": 235217,
+      "word": "父母为出生仅550克的宝宝取名小强",
+      "onboard_time": 1700127454,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231774,
@@ -1155,11 +1179,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217100,
-      "num": 217100,
-      "word": "父母为出生仅550克的宝宝取名小强",
-      "onboard_time": 1700127454,
-      "rank": 28,
+      "raw_hot": 213799,
+      "num": 482442,
+      "word": "5岁女孩霸气拦警车救生病老爷爷",
+      "onboard_time": 1700128714,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1176,6 +1200,14 @@
       "word": "韩孝周大钟奖获奖感言",
       "onboard_time": 1700108979,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209417,
+      "num": 209417,
+      "word": "宁安如梦 遮宁的遗憾",
+      "onboard_time": 1700130333,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1233,14 +1265,6 @@
       "onboard_time": 1700112818,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 202520,
-      "num": 202520,
-      "word": "十个勤天睡觉满头大脚",
-      "onboard_time": 1700129316,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 201411,
@@ -1427,20 +1451,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 188048,
-      "num": 188048,
-      "word": "DIOR活动",
-      "onboard_time": 1700129493,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 186283,
+      "raw_hot": 187890,
       "num": 594729,
       "word": "女童就医途中病情加剧交警疾驰开道送医",
       "onboard_time": 1700128234,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187549,
+      "num": 187549,
+      "word": "于适复古白色丝质衬衫造型",
+      "onboard_time": 1700130035,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185728,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1700109100,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183841,
-      "num": 482442,
-      "word": "5岁女孩霸气拦警车救生病老爷爷",
-      "onboard_time": 1700128714,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181719,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1700105977,
       "rank": 40,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 171429,
+      "num": 171429,
+      "word": "减肥成功的人每天都做的3件事",
+      "onboard_time": 1700127332,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 169859,
@@ -1763,20 +1787,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140936,
+      "num": 332980,
+      "word": "银行称顺其自然汇款人是位女士",
+      "onboard_time": 1700130756,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140452,
       "num": 140452,
       "word": "秦岚这该死的镜头感",
       "onboard_time": 1700062410,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136293,
-      "num": 136293,
-      "word": "减肥成功的人每天都做的3件事",
-      "onboard_time": 1700127332,
-      "rank": 43,
-      "category": "运动健身"
     },
     {
       "raw_hot": 136264,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1700119953,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "黄皮精致裸妆",
+      "onboard_time": 1700130874,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 133506,
@@ -2131,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59890,
+      "num": 324030,
+      "word": "千金玛德琳穿搭",
+      "onboard_time": 1700128835,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51497,
       "num": 92735,
       "word": "医生提醒逍遥丸不要自行乱服",
@@ -2163,20 +2203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40149,
+      "num": 298046,
+      "word": "民警把随身携带的救心丸给司机应急",
+      "onboard_time": 1700128654,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40146,
       "num": 92721,
       "word": "运动员遭冰刀割喉身亡一男子被捕",
       "onboard_time": 1700031994,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39639,
-      "num": 324030,
-      "word": "千金玛德琳穿搭",
-      "onboard_time": 1700128835,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 39614,
@@ -2256,6 +2296,14 @@
       "word": "一分钟带你了解斐洛里庄园",
       "onboard_time": 1700102374,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15249,
+      "num": 305242,
+      "word": "邻桌护士50秒救回卡喉宝宝",
+      "onboard_time": 1700130874,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
