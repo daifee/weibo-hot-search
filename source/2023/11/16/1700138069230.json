@@ -1,0 +1,410 @@
+{
+  "runTime": 1700138069230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 357308,
+        "num": 430859,
+        "word": "美国重申不支持台湾独立",
+        "onboard_time": 1700103758,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605112,
+        "num": 430720,
+        "word": "拜登指着红旗车说beautiful",
+        "onboard_time": 1700104295,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 77357,
+        "num": 430587,
+        "word": "一篇面向全美各界发表的演讲",
+        "onboard_time": 1700119414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779666,
+        "num": 430446,
+        "word": "不好意思开口但被民警秒懂",
+        "onboard_time": 1700132196,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582875,
+        "num": 430312,
+        "word": "蛇皮腿是怎么一回事",
+        "onboard_time": 1700135195,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 364851,
+        "num": 430159,
+        "word": "银行称顺其自然汇款人是位女士",
+        "onboard_time": 1700130756,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237978,
+        "num": 430009,
+        "word": "探班隔离中的美香一家",
+        "onboard_time": 1700135797,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222471,
+        "num": 429792,
+        "word": "幼儿园小女孩800米跑3分11秒",
+        "onboard_time": 1700115994,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 193148,
+        "num": 429614,
+        "word": "愿邀请5万名美国青少年来华交流学习",
+        "onboard_time": 1700112935,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169730,
+        "num": 429461,
+        "word": "中美元首一起看38年前的照片",
+        "onboard_time": 1700122113,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1570396,
+        "num": 429292,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1700134172,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1512759,
+        "num": 429086,
+        "word": "明学昌明珍珍明国平被逮捕",
+        "onboard_time": 1700131595,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916665,
+        "num": 428924,
+        "word": "缅甸民族民主同盟军回应明学昌豪宅被炸",
+        "onboard_time": 1700134535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877625,
+        "num": 428753,
+        "word": "男子半夜爬独居女子窗户被击落身亡",
+        "onboard_time": 1700127693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759223,
+        "num": 428602,
+        "word": "邓为爆改无脸男",
+        "onboard_time": 1700134114,
+        "rank": 14,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 705967,
+        "num": 428389,
+        "word": "雪莉 东亚娱乐行业",
+        "onboard_time": 1700128355,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448974,
+        "num": 428224,
+        "word": "警方已接收大批缅甸归国电诈人员",
+        "onboard_time": 1700131295,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428188,
+        "num": 428188,
+        "word": "大批艺人已停播",
+        "onboard_time": 1700096979,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375108,
+        "num": 375108,
+        "word": "KPL 看不懂",
+        "onboard_time": 1700134595,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334179,
+        "num": 334179,
+        "word": "缅北",
+        "onboard_time": 1700134835,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329762,
+        "num": 329762,
+        "word": "大冰来了都能坐下",
+        "onboard_time": 1700136638,
+        "rank": 20,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 319116,
+        "num": 319116,
+        "word": "巴黎世家很遗憾这钱你赚不到了",
+        "onboard_time": 1700135255,
+        "rank": 21,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 301507,
+        "num": 301507,
+        "word": "缅甸一超市中国籍老板娘遭持枪绑架",
+        "onboard_time": 1700126195,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290150,
+        "num": 290150,
+        "word": "罗英子公婆下跪道歉",
+        "onboard_time": 1700136215,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286457,
+        "num": 286457,
+        "word": "宋威龙卢昱晓 难哄",
+        "onboard_time": 1700113416,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254025,
+        "num": 254025,
+        "word": "导演李洪生去世",
+        "onboard_time": 1700137596,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244840,
+        "num": 244840,
+        "word": "韩国高考数学第一题",
+        "onboard_time": 1700120974,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203602,
+        "num": 203602,
+        "word": "农村女性的晚年",
+        "onboard_time": 1700127454,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184075,
+        "num": 184075,
+        "word": "五块九粉底液后续",
+        "onboard_time": 1700135017,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161284,
+        "num": 161284,
+        "word": "有点二叔求娶明兰那意思了",
+        "onboard_time": 1700116295,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163268,
+        "num": 161261,
+        "word": "自驾阿姨苏敏希望和丈夫好聚好散",
+        "onboard_time": 1700137779,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161216,
+        "num": 161216,
+        "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
+        "onboard_time": 1700113536,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142500,
+        "num": 142500,
+        "word": "海清哭了",
+        "onboard_time": 1700132974,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137811,
+        "num": 137811,
+        "word": "5岁女孩霸气拦警车救生病老爷爷",
+        "onboard_time": 1700128714,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134576,
+        "num": 134576,
+        "word": "看过最早的燃冬",
+        "onboard_time": 1700136638,
+        "rank": 34,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 133605,
+        "num": 133605,
+        "word": "十个勤天睡觉满头大脚",
+        "onboard_time": 1700129316,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132168,
+        "num": 132168,
+        "word": "被骗到缅甸的人都遭遇了什么",
+        "onboard_time": 1700136097,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129657,
+        "num": 129657,
+        "word": "减肥成功的人每天都做的3件事",
+        "onboard_time": 1700127332,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115768,
+        "num": 129656,
+        "word": "作曲家舒楠夸周深",
+        "onboard_time": 1700137538,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113613,
+        "num": 129654,
+        "word": "缅北电诈头目的暗黑人生",
+        "onboard_time": 1700111199,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111590,
+        "num": 129650,
+        "word": "女演员 优质工作机会",
+        "onboard_time": 1700127693,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105674,
+        "num": 129646,
+        "word": "宁安如梦 遮宁的遗憾",
+        "onboard_time": 1700130333,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114542,
+        "num": 129643,
+        "word": "DIOR活动",
+        "onboard_time": 1700129493,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105501,
+        "num": 129641,
+        "word": "大爷卖气球指着卡通形象挨个点名",
+        "onboard_time": 1700137058,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99231,
+        "num": 129636,
+        "word": "云南临沧对缅甸果敢发故障停电通知",
+        "onboard_time": 1700126313,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97864,
+        "num": 129633,
+        "word": "教育局回应女童幼儿园午休疑遭猥亵",
+        "onboard_time": 1700122534,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88270,
+        "num": 129629,
+        "word": "中国女排首次夺得世界冠军42周年",
+        "onboard_time": 1700123614,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80548,
+        "num": 129626,
+        "word": "中国终将统一也必然统一",
+        "onboard_time": 1700091930,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79991,
+        "num": 129625,
+        "word": "于适复古白色丝质衬衫造型",
+        "onboard_time": 1700130035,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79077,
+        "num": 129620,
+        "word": "山西吕梁离石区各类矿山企业停产整顿",
+        "onboard_time": 1700138017,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#旧金山会晤中美应该有新的愿景#"
+    }
+  }
+}
