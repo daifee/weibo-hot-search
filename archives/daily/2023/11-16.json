@@ -1,6 +1,6 @@
 {
   "startTime": 1700065430217,
-  "endTime": 1700116615028,
+  "endTime": 1700119006393,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1178966,
+      "num": 340652,
+      "word": "有点二叔求娶明兰那意思了",
+      "onboard_time": 1700116295,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1166319,
       "num": 1166319,
       "word": "抖音测试付费短视频",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 918559,
-      "num": 275048,
+      "num": 302086,
       "word": "儿媳因公公腹泻发现公婆同患夫妻癌",
       "onboard_time": 1700113536,
       "rank": 20,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601089,
+      "num": 601089,
+      "word": "幼儿园小女孩800米跑3分11秒",
+      "onboard_time": 1700115994,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 589972,
       "num": 589972,
       "word": "旧金山会晤将启希望中美相向而行",
@@ -296,6 +312,14 @@
       "word": "男子2天没上班同事报警救其一命",
       "onboard_time": 1700090724,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563029,
+      "num": 325196,
+      "word": "山西永聚煤业火灾已致26人遇难",
+      "onboard_time": 1700118155,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -377,6 +401,14 @@
       "onboard_time": 1700092171,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477544,
+      "num": 320901,
+      "word": "给内娱一点力量震撼",
+      "onboard_time": 1700116893,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 474819,
@@ -515,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361502,
+      "num": 315064,
+      "word": "蒲熠星 不要强求观众认同",
+      "onboard_time": 1700116232,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357258,
       "num": 357258,
       "word": "王自如",
@@ -531,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347784,
+      "num": 347784,
+      "word": "首先要回答的是中美到底是对手还是伙伴",
+      "onboard_time": 1700114556,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 346756,
       "num": 346756,
       "word": "TheShy回应世界第一上单",
@@ -545,14 +593,6 @@
       "onboard_time": 1700111080,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343618,
-      "num": 343618,
-      "word": "首先要回答的是中美到底是对手还是伙伴",
-      "onboard_time": 1700114556,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 343370,
@@ -659,10 +699,10 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267192,
-      "num": 267192,
-      "word": "有点二叔求娶明兰那意思了",
-      "onboard_time": 1700116295,
+      "raw_hot": 267320,
+      "num": 267320,
+      "word": "迪丽热巴送给我的呦",
+      "onboard_time": 1700118095,
       "rank": 21,
       "category": "综艺"
     },
@@ -723,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250092,
-      "num": 250092,
-      "word": "蒲熠星 不要强求观众认同",
-      "onboard_time": 1700116232,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 249997,
       "num": 249997,
       "word": "詹姆斯三分命中数历史第8",
@@ -753,14 +785,6 @@
       "onboard_time": 1700101116,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246957,
-      "num": 246957,
-      "word": "幼儿园小女孩800米跑3分11秒",
-      "onboard_time": 1700115994,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 244917,
@@ -843,12 +867,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 222748,
+      "num": 222748,
+      "word": "浓眉怎么了",
+      "onboard_time": 1700117734,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220974,
       "num": 220974,
       "word": "迪丽热巴给服务人员留了礼物",
       "onboard_time": 1700115157,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220813,
+      "num": 220813,
+      "word": "ENHYPEN空降",
+      "onboard_time": 1700118394,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 220072,
@@ -1027,12 +1067,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190759,
+      "num": 190759,
+      "word": "特警帮车祸司机1.5小时卖光800斤橘子",
+      "onboard_time": 1700117855,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190488,
       "num": 190488,
       "word": "小学生写作文用AI改写鲁迅文章",
       "onboard_time": 1700114676,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189815,
+      "num": 189815,
+      "word": "我国成功发射新一代海洋水色观测卫星01星",
+      "onboard_time": 1700117316,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188269,
@@ -1091,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180172,
+      "num": 180172,
+      "word": "银行称循环贷不是利滚利",
+      "onboard_time": 1700116594,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179716,
       "num": 179716,
       "word": "不得不久坐的补救方法",
       "onboard_time": 1700094400,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179342,
+      "num": 179342,
+      "word": "唐嫣古装撑伞氛围感",
+      "onboard_time": 1700117494,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 178425,
@@ -1139,12 +1211,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 169754,
+      "num": 169754,
+      "word": "爱奇艺尖叫之夜看点",
+      "onboard_time": 1700116834,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167018,
       "num": 167018,
       "word": "小米Vela开源",
       "onboard_time": 1700103097,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165253,
+      "num": 165253,
+      "word": "偷星九月天有自己的燃冬",
+      "onboard_time": 1700118813,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 165094,
@@ -1299,6 +1387,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "自带教资体质的孩子背后有一群演员",
+      "onboard_time": 1700118757,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133506,
       "num": 133506,
       "word": "小山村丝瓜络征服老外一年卖400万",
@@ -1313,14 +1409,6 @@
       "onboard_time": 1700087177,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 130673,
-      "num": 130673,
-      "word": "银行称循环贷不是利滚利",
-      "onboard_time": 1700116594,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 128508,
@@ -1345,6 +1433,14 @@
       "onboard_time": 1700094400,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125907,
+      "num": 125907,
+      "word": "十二草集洗发水菌落超标7300倍",
+      "onboard_time": 1700118994,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 125469,
@@ -1553,6 +1649,14 @@
       "onboard_time": 1700046697,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68963,
+      "num": 216002,
+      "word": "仰望新概念车有多离谱",
+      "onboard_time": 1700117855,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 60938,
