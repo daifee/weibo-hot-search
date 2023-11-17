@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700248477812,
+  "endTime": 1700249640636,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86546,
+      "num": 63443,
+      "word": "刘亦菲看到胡军的表情",
+      "onboard_time": 1700246596,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 80950,
       "num": 87813,
       "word": "鹿晗 客服小张新歌听起来",
@@ -427,14 +435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 58774,
-      "num": 58774,
-      "word": "刘亦菲看到胡军的表情",
-      "onboard_time": 1700246596,
-      "rank": 13,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 48746,
       "num": 50938,
       "word": "宁安如梦的疯吹到大学宿舍",
@@ -449,6 +449,14 @@
       "onboard_time": 1700219793,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 20692,
+      "num": 20692,
+      "word": "许凯一场戏亲了两个人",
+      "onboard_time": 1700248634,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 15058,
