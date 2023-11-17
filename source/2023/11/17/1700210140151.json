@@ -1,0 +1,410 @@
+{
+  "runTime": 1700210140151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8760,
+        "num": 407156,
+        "word": "打造合作共赢的开放型亚太经济",
+        "onboard_time": 1700177608,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504536,
+        "num": 407150,
+        "word": "24岁女孩肝癌晚期医护提前为其过生日",
+        "onboard_time": 1700196821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81197,
+        "num": 407141,
+        "word": "2023年电影总票房突破500亿元",
+        "onboard_time": 1700208513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571114,
+        "num": 407131,
+        "word": "王昭君 美少女战士",
+        "onboard_time": 1700205154,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17635,
+        "num": 407128,
+        "word": "赓续友谊的相聚",
+        "onboard_time": 1700191775,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730262,
+        "num": 407119,
+        "word": "沪上阿姨 回收",
+        "onboard_time": 1700199874,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 479726,
+        "num": 407111,
+        "word": "薛之谦 你退半步的动作是认真的吗",
+        "onboard_time": 1700205274,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479383,
+        "num": 407100,
+        "word": "沪上阿姨回应回收免单券",
+        "onboard_time": 1700207134,
+        "rank": 7,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 443615,
+        "num": 407089,
+        "word": "昨天爆改金希澈今天回到李二牛",
+        "onboard_time": 1700198198,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76736,
+        "num": 407078,
+        "word": "中美元首会晤让人倍感乐观",
+        "onboard_time": 1700204612,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 856814,
+        "num": 407070,
+        "word": "考公的风还是吹到了电视剧里",
+        "onboard_time": 1700202572,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 696699,
+        "num": 407067,
+        "word": "女子裸辞做旅行博主投入几十万零收入",
+        "onboard_time": 1700193875,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648131,
+        "num": 407054,
+        "word": "刘亦菲紫色花神",
+        "onboard_time": 1700204495,
+        "rank": 12,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 577102,
+        "num": 407050,
+        "word": "山西煤矿火灾事故13人被采取强制措施",
+        "onboard_time": 1700206832,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407044,
+        "num": 407044,
+        "word": "我恋5嘉宾热吻看呆秦霄贤",
+        "onboard_time": 1700207193,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341724,
+        "num": 341724,
+        "word": "格力就高管遭自媒体侮辱诽谤报案",
+        "onboard_time": 1700198137,
+        "rank": 15,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 332229,
+        "num": 332229,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1700192794,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314778,
+        "num": 314778,
+        "word": "张靓颖迪士尼公主造型",
+        "onboard_time": 1700208934,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277207,
+        "num": 277207,
+        "word": "优酷11月片单",
+        "onboard_time": 1700205575,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262243,
+        "num": 262243,
+        "word": "与恶魔有约 先婚后爱",
+        "onboard_time": 1700203593,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65325,
+        "num": 246333,
+        "word": "长焦能给手机影像带来什么",
+        "onboard_time": 1700208334,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288321,
+        "num": 246317,
+        "word": "连上23天班后猝死不被定工伤",
+        "onboard_time": 1700209353,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246247,
+        "num": 246247,
+        "word": "周迅扫楼 好多人啊",
+        "onboard_time": 1700210013,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225522,
+        "num": 225522,
+        "word": "摆拍外卖媛网红向骑手道歉",
+        "onboard_time": 1700204012,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224891,
+        "num": 224891,
+        "word": "刘亦菲配音迪士尼星愿",
+        "onboard_time": 1700202394,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 217819,
+        "num": 217819,
+        "word": "最舒服的两性情侣关系",
+        "onboard_time": 1700198558,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201707,
+        "num": 201707,
+        "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
+        "onboard_time": 1700191175,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233243,
+        "num": 201440,
+        "word": "周迅 我又上桌了",
+        "onboard_time": 1700205994,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194102,
+        "num": 194102,
+        "word": "懒人早餐一个月不重样",
+        "onboard_time": 1700208934,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189223,
+        "num": 189223,
+        "word": "Rain金泰熙 行车记录仪拍出韩剧",
+        "onboard_time": 1700190634,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181345,
+        "num": 181345,
+        "word": "现在的衣服都已经这样了吗",
+        "onboard_time": 1700204794,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179040,
+        "num": 179040,
+        "word": "暴雪宣布与网易停止合作一周年",
+        "onboard_time": 1700200954,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159200,
+        "num": 159200,
+        "word": "ENHYPEN 敷衍",
+        "onboard_time": 1700198437,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151038,
+        "num": 151038,
+        "word": "cp30",
+        "onboard_time": 1700182837,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148909,
+        "num": 148909,
+        "word": "Lia将缺席ITZY回归与巡演",
+        "onboard_time": 1700196700,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146535,
+        "num": 146535,
+        "word": "假如于正来拍姜雪宁",
+        "onboard_time": 1700205693,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145269,
+        "num": 145269,
+        "word": "律师称缅北电诈头目或被执行死刑",
+        "onboard_time": 1700195861,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144301,
+        "num": 144301,
+        "word": "有没有人能来管管龚俊",
+        "onboard_time": 1700209952,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142841,
+        "num": 142841,
+        "word": "赵露思刘宇宁开机路透",
+        "onboard_time": 1700193336,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114486,
+        "num": 140835,
+        "word": "爸爸默默做公益6年被8岁儿子写进作文",
+        "onboard_time": 1700208572,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140674,
+        "num": 140674,
+        "word": "早期肺癌有多隐匿",
+        "onboard_time": 1700198794,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135632,
+        "num": 135632,
+        "word": "马航MH370事件将正式开庭",
+        "onboard_time": 1700181875,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126697,
+        "num": 126697,
+        "word": "洗脸后要抓住补水保湿黄金3分钟",
+        "onboard_time": 1700207792,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125808,
+        "num": 125808,
+        "word": "文俊辉听到袁娅维新歌的反应",
+        "onboard_time": 1700206715,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121321,
+        "num": 125799,
+        "word": "迪士尼星愿首映红毯",
+        "onboard_time": 1700203775,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111774,
+        "num": 125780,
+        "word": "谢娜在林心如面前提林志颖",
+        "onboard_time": 1700193034,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111702,
+        "num": 125768,
+        "word": "东方青苍沈腾版vs沙溢版",
+        "onboard_time": 1700204736,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99098,
+        "num": 125752,
+        "word": "伊能静大方秀恩爱",
+        "onboard_time": 1700203113,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101733,
+        "num": 125736,
+        "word": "华晨宇沈腾开双簧演唱会",
+        "onboard_time": 1700207615,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92778,
+        "num": 125718,
+        "word": "严厉打击倒买倒卖出生证",
+        "onboard_time": 1700205994,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斐济总理兰布卡#"
+    }
+  }
+}
