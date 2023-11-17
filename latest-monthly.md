@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 11:18:27
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 11:34:28
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ T1 压力（热度：1376437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E8%AF%AD%E9%9F%B3%E7%9A%84%E6%98%AF%E8%80%81%E9%BE%9A%E4%B8%8D%E6%98%AF%E8%80%81%E5%85%AC%23" target="weibo">
+谢娜回语音的是老龚不是老公（热度：1359728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%8A%E5%A4%9C%E7%88%AC%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E7%AA%97%E6%88%B7%E8%A2%AB%E5%87%BB%E8%90%BD%E8%BA%AB%E4%BA%A1%23" target="weibo">
 男子半夜爬独居女子窗户被击落身亡（热度：1359437）
 </a>
@@ -2327,12 +2333,6 @@ ELLE内场（热度：1293717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B3%84%E9%B1%BC%20%E7%89%88%E6%9C%AC%E9%99%B7%E9%98%B1%23" target="weibo">
 鳄鱼 版本陷阱（热度：1277957）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E8%AF%AD%E9%9F%B3%E7%9A%84%E6%98%AF%E8%80%81%E9%BE%9A%E4%B8%8D%E6%98%AF%E8%80%81%E5%85%AC%23" target="weibo">
-谢娜回语音的是老龚不是老公（热度：1277482）
 </a>
 </li>
 
@@ -3077,6 +3077,12 @@ ELLE风尚大典（热度：1088644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B5%E8%BE%BE%23" target="weibo">
 韵达（热度：1057921）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Rain%E9%87%91%E6%B3%B0%E7%86%99%20%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%8B%8D%E5%87%BA%E9%9F%A9%E5%89%A7%23" target="weibo">
+Rain金泰熙 行车记录仪拍出韩剧（热度：1051466）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YG只发了朴彩英台历（热度：660096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E7%81%AB%E9%94%85%E5%BA%976%E5%85%83%E4%B8%80%E4%BB%BD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%BB%854%E7%89%87%23" target="weibo">
 顾客吐槽火锅店6元一份娃娃菜仅4片（热度：646345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94%E4%B8%8EBLACKPINK%E7%BB%AD%E7%BA%A6%23" target="weibo">
-YG回应与BLACKPINK续约（热度：646080）
 </a>
 </li>
 

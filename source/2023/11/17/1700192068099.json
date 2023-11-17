@@ -1,0 +1,410 @@
+{
+  "runTime": 1700192068099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166451,
+        "num": 735915,
+        "word": "欢迎继续投资中国深耕中国",
+        "onboard_time": 1700176646,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1933239,
+        "num": 722093,
+        "word": "美国宣布解除对公安部鉴定中心制裁",
+        "onboard_time": 1700188473,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42094,
+        "num": 702569,
+        "word": "一个选择三项原则五根支柱",
+        "onboard_time": 1700177427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1359728,
+        "num": 682294,
+        "word": "谢娜回语音的是老龚不是老公",
+        "onboard_time": 1700189373,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28914,
+        "num": 673402,
+        "word": "打造合作共赢的开放型亚太经济",
+        "onboard_time": 1700177608,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1051466,
+        "num": 655556,
+        "word": "Rain金泰熙 行车记录仪拍出韩剧",
+        "onboard_time": 1700190634,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641224,
+        "num": 641224,
+        "word": "中缅边境发生地震",
+        "onboard_time": 1700186254,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501283,
+        "num": 501283,
+        "word": "丫丫晒太阳吃果果",
+        "onboard_time": 1700187153,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391670,
+        "num": 499036,
+        "word": "秦岚砍价成功后第一反应是照镜子",
+        "onboard_time": 1700188652,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16553,
+        "num": 498878,
+        "word": "赓续友谊的相聚",
+        "onboard_time": 1700191775,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657222,
+        "num": 498875,
+        "word": "白鹿看到张凌赫露胸肌的反应",
+        "onboard_time": 1700187755,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498868,
+        "num": 498868,
+        "word": "梅西锁喉",
+        "onboard_time": 1700184696,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412381,
+        "num": 412381,
+        "word": "洪胜汉 崔秀彬",
+        "onboard_time": 1700180793,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408887,
+        "num": 408887,
+        "word": "张杰谢娜带女儿们游玩迪士尼",
+        "onboard_time": 1700190456,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362936,
+        "num": 362936,
+        "word": "cp30",
+        "onboard_time": 1700182837,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 316828,
+        "num": 316828,
+        "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
+        "onboard_time": 1700191175,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312988,
+        "num": 312988,
+        "word": "阿根廷0比2乌拉圭",
+        "onboard_time": 1700186914,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304769,
+        "num": 304769,
+        "word": "刘亦菲迪士尼公主出场",
+        "onboard_time": 1700176102,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 256583,
+        "num": 256583,
+        "word": "柯南黑铁的鱼影确认引进",
+        "onboard_time": 1700187876,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 235002,
+        "num": 235002,
+        "word": "澳门官方暖心回应萌娃唱七子之歌",
+        "onboard_time": 1700185834,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379567,
+        "num": 234102,
+        "word": "动物内脏是不是垃圾食品",
+        "onboard_time": 1700188353,
+        "rank": 20,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 281431,
+        "num": 233400,
+        "word": "国民死刑投票 烂尾",
+        "onboard_time": 1700178629,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229504,
+        "num": 229504,
+        "word": "怪不得古天乐后来不跳舞了",
+        "onboard_time": 1700182778,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229191,
+        "num": 229191,
+        "word": "女神异闻录5战略版上线",
+        "onboard_time": 1700191356,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223446,
+        "num": 223446,
+        "word": "林一沈月新剧演情侣",
+        "onboard_time": 1700191655,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218497,
+        "num": 218497,
+        "word": "湖人拒绝用里夫斯交易拉文",
+        "onboard_time": 1700191536,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213711,
+        "num": 213711,
+        "word": "瞒天过海惠英红吊威亚险失足",
+        "onboard_time": 1700190873,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211615,
+        "num": 211615,
+        "word": "饥饿游戏前传今日上映",
+        "onboard_time": 1700190816,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "珠帘玉幕开机",
+        "onboard_time": 1700191775,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186694,
+        "num": 186694,
+        "word": "阿根廷上次输球还是踢沙特",
+        "onboard_time": 1700189674,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91716,
+        "num": 175465,
+        "word": "一台车PK特斯拉全系",
+        "onboard_time": 1700190816,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106464,
+        "num": 172749,
+        "word": "中美关系的大门是由人民打开的",
+        "onboard_time": 1700172495,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1124713,
+        "num": 172050,
+        "word": "马航MH370事件将正式开庭",
+        "onboard_time": 1700181875,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170564,
+        "num": 170564,
+        "word": "拿破仑内地定档",
+        "onboard_time": 1700187812,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168429,
+        "num": 168429,
+        "word": "2023APEC",
+        "onboard_time": 1700189134,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168043,
+        "num": 168043,
+        "word": "中奖500万彩票号付款后老板忘出票",
+        "onboard_time": 1700143910,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162389,
+        "num": 162389,
+        "word": "极氪007",
+        "onboard_time": 1700189493,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153448,
+        "num": 153448,
+        "word": "长期吃辣的人后来怎么样了",
+        "onboard_time": 1700144327,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141642,
+        "num": 141642,
+        "word": "刘些宁 铁坦公主",
+        "onboard_time": 1700183435,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136384,
+        "num": 136384,
+        "word": "爱奇艺尖叫之夜红毯阵容",
+        "onboard_time": 1700178390,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125013,
+        "num": 125013,
+        "word": "浙江东极岛民宿回应9点前退房",
+        "onboard_time": 1700189252,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123589,
+        "num": 123589,
+        "word": "王者荣耀",
+        "onboard_time": 1700148041,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120497,
+        "num": 120497,
+        "word": "谢危 与猫一生为敌",
+        "onboard_time": 1700188772,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119453,
+        "num": 119453,
+        "word": "佘诗曼马国明新剧开播",
+        "onboard_time": 1700191418,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116094,
+        "num": 116094,
+        "word": "8岁娃没上学睡树林里民警找了一上午",
+        "onboard_time": 1700182537,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115985,
+        "num": 115985,
+        "word": "缅甸5.9级地震云南震感明显",
+        "onboard_time": 1700187571,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115528,
+        "num": 115528,
+        "word": "沉浸式体验邓为的快穿人生",
+        "onboard_time": 1700191175,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107990,
+        "num": 115528,
+        "word": "她是敦煌的女儿",
+        "onboard_time": 1700179229,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106768,
+        "num": 115525,
+        "word": "KPL美女解说来参加脑综了",
+        "onboard_time": 1700191956,
+        "rank": 48,
+        "category": "电竞,综艺"
+      },
+      {
+        "raw_hot": 101775,
+        "num": 115524,
+        "word": "很想很想你全阵容海报",
+        "onboard_time": 1700188893,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放包容是亚太合作的主旋律#"
+    }
+  }
+}

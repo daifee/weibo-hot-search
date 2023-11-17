@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700191107172,
+  "endTime": 1700192068099,
   "band_list": [
     {
       "raw_hot": 3248541,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2133544,
-      "num": 707105,
+      "num": 722093,
       "word": "美国宣布解除对公安部鉴定中心制裁",
       "onboard_time": 1700188473,
       "rank": 1,
@@ -43,16 +43,24 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1277482,
-      "num": 639088,
+      "raw_hot": 1359728,
+      "num": 682294,
       "word": "谢娜回语音的是老龚不是老公",
       "onboard_time": 1700189373,
       "rank": 3,
       "category": "艺人"
     },
     {
+      "raw_hot": 1051466,
+      "num": 655556,
+      "word": "Rain金泰熙 行车记录仪拍出韩剧",
+      "onboard_time": 1700190634,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012020,
-      "num": 469748,
+      "num": 498868,
       "word": "梅西锁喉",
       "onboard_time": 1700184696,
       "rank": 22,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 689947,
-      "num": 470423,
+      "num": 498875,
       "word": "白鹿看到张凌赫露胸肌的反应",
       "onboard_time": 1700187755,
       "rank": 31,
@@ -267,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391670,
+      "num": 499036,
+      "word": "秦岚砍价成功后第一反应是照镜子",
+      "onboard_time": 1700188652,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383312,
       "num": 347646,
       "word": "龚俊 我本是高山是良心之作",
       "onboard_time": 1700150435,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 379567,
+      "num": 264895,
+      "word": "动物内脏是不是垃圾食品",
+      "onboard_time": 1700188353,
+      "rank": 35,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 373906,
@@ -283,24 +307,8 @@
       "category": "动漫,电影"
     },
     {
-      "raw_hot": 366391,
-      "num": 491084,
-      "word": "Rain金泰熙 行车记录仪拍出韩剧",
-      "onboard_time": 1700190634,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 361505,
-      "num": 264895,
-      "word": "动物内脏是不是垃圾食品",
-      "onboard_time": 1700188353,
-      "rank": 35,
-      "category": "美食,健康医疗"
-    },
-    {
-      "raw_hot": 353174,
-      "num": 353174,
+      "raw_hot": 362936,
+      "num": 362936,
       "word": "cp30",
       "onboard_time": 1700182837,
       "rank": 21,
@@ -347,20 +355,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 316828,
+      "num": 316828,
+      "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
+      "onboard_time": 1700191175,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312493,
       "num": 353020,
       "word": "阿根廷vs乌拉圭",
       "onboard_time": 1700181095,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309687,
-      "num": 309687,
-      "word": "秦岚砍价成功后第一反应是照镜子",
-      "onboard_time": 1700188652,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 293510,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 248974,
-      "num": 716435,
+      "num": 735915,
       "word": "欢迎继续投资中国深耕中国",
       "onboard_time": 1700176646,
       "rank": 9,
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229191,
+      "num": 229191,
+      "word": "女神异闻录5战略版上线",
+      "onboard_time": 1700191356,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225830,
       "num": 225830,
       "word": "王者荣耀",
@@ -417,6 +433,22 @@
       "onboard_time": 1700180133,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223446,
+      "num": 223446,
+      "word": "林一沈月新剧演情侣",
+      "onboard_time": 1700191655,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218497,
+      "num": 218497,
+      "word": "湖人拒绝用里夫斯交易拉文",
+      "onboard_time": 1700191536,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 218030,
@@ -441,6 +473,22 @@
       "onboard_time": 1700186972,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213711,
+      "num": 213711,
+      "word": "瞒天过海惠英红吊威亚险失足",
+      "onboard_time": 1700190873,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 211615,
+      "num": 211615,
+      "word": "饥饿游戏前传今日上映",
+      "onboard_time": 1700190816,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 211343,
@@ -475,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204310,
-      "num": 204310,
-      "word": "饥饿游戏前传今日上映",
-      "onboard_time": 1700190816,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202105,
       "num": 202105,
       "word": "国足连续10届世预赛开门红",
@@ -513,6 +553,14 @@
       "onboard_time": 1700180675,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189712,
+      "num": 189712,
+      "word": "珠帘玉幕开机",
+      "onboard_time": 1700191775,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189633,
@@ -747,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136551,
-      "num": 136551,
-      "word": "瞒天过海惠英红吊威亚险失足",
-      "onboard_time": 1700190873,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 135180,
       "num": 135180,
       "word": "泰国球迷向国足球迷区扔杂物",
@@ -867,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119453,
+      "num": 119453,
+      "word": "佘诗曼马国明新剧开播",
+      "onboard_time": 1700191418,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119298,
       "num": 119298,
       "word": "帕梅拉的包里都有什么",
@@ -881,6 +929,14 @@
       "onboard_time": 1700135195,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 115528,
+      "num": 115528,
+      "word": "沉浸式体验邓为的快穿人生",
+      "onboard_time": 1700191175,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 115503,
@@ -947,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106768,
+      "num": 115525,
+      "word": "KPL美女解说来参加脑综了",
+      "onboard_time": 1700191956,
+      "rank": 48,
+      "category": "电竞,综艺"
+    },
+    {
       "raw_hot": 104064,
       "num": 104064,
       "word": "Lana Del Rey荡秋千演唱",
@@ -993,6 +1057,14 @@
       "onboard_time": 1700148640,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91716,
+      "num": 175465,
+      "word": "一台车PK特斯拉全系",
+      "onboard_time": 1700190816,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 90236,
@@ -1044,7 +1116,7 @@
     },
     {
       "raw_hot": 79109,
-      "num": 663466,
+      "num": 702569,
       "word": "一个选择三项原则五根支柱",
       "onboard_time": 1700177427,
       "rank": 2,
@@ -1099,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56684,
-      "num": 121471,
-      "word": "一台车PK特斯拉全系",
-      "onboard_time": 1700190816,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 45180,
       "num": 50671,
       "word": "花少 真实底色里的胡先煦",
@@ -1124,7 +1188,7 @@
     },
     {
       "raw_hot": 37029,
-      "num": 604755,
+      "num": 673402,
       "word": "打造合作共赢的开放型亚太经济",
       "onboard_time": 1700177608,
       "rank": 9,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1700168293,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16553,
+      "num": 498878,
+      "word": "赓续友谊的相聚",
+      "onboard_time": 1700191775,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15166,
