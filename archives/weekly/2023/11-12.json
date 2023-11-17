@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700210140151,
+  "endTime": 1700212664182,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -177,6 +177,14 @@
       "onboard_time": 1699777107,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2336712,
+      "num": 299500,
+      "word": "连上23天班后猝死不被定工伤",
+      "onboard_time": 1700209353,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2325083,
@@ -2459,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690664,
+      "num": 295287,
+      "word": "小S和Melody同框 像看了半集康熙",
+      "onboard_time": 1700211694,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 689947,
       "num": 498875,
       "word": "白鹿看到张凌赫露胸肌的反应",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1699794395,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621477,
+      "num": 308094,
+      "word": "涉过愤怒的海停尸间是实景拍摄",
+      "onboard_time": 1700211094,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 620070,
@@ -3603,6 +3627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 500369,
+      "num": 289413,
+      "word": "佘诗曼还在3楼 周迅黄渤已经到B1",
+      "onboard_time": 1700211752,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 499530,
       "num": 499530,
       "word": "加沙居民带刚出生几个小时婴儿逃亡",
@@ -4323,6 +4355,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 425834,
+      "num": 314778,
+      "word": "张靓颖迪士尼公主造型",
+      "onboard_time": 1700208934,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 425671,
       "num": 425671,
       "word": "油性痘痘肌不建议凉水洗脸",
@@ -4699,12 +4739,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402370,
+      "num": 285142,
+      "word": "龚俊钟楚曦电梯图好有感觉",
+      "onboard_time": 1700210252,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400598,
       "num": 384745,
       "word": "买狗两年了至今没摸到狗",
       "onboard_time": 1700089522,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400140,
+      "num": 306990,
+      "word": "周迅 我又上桌了",
+      "onboard_time": 1700205994,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 398587,
@@ -5851,14 +5907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314778,
-      "num": 314778,
-      "word": "张靓颖迪士尼公主造型",
-      "onboard_time": 1700208934,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 314247,
       "num": 314247,
       "word": "王鹤棣 你们好六团孤立嘉宾",
@@ -6089,14 +6137,6 @@
       "onboard_time": 1699751971,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303289,
-      "num": 303289,
-      "word": "周迅 我又上桌了",
-      "onboard_time": 1700205994,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 303282,
@@ -6457,14 +6497,6 @@
       "onboard_time": 1699938875,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 288321,
-      "num": 246317,
-      "word": "连上23天班后猝死不被定工伤",
-      "onboard_time": 1700209353,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287203,
@@ -7113,6 +7145,14 @@
       "onboard_time": 1699936475,
       "rank": 23,
       "category": "美妆,电影"
+    },
+    {
+      "raw_hot": 260836,
+      "num": 260836,
+      "word": "吴宣仪你这是在烤串吗",
+      "onboard_time": 1700210614,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 260666,
@@ -8307,6 +8347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222907,
+      "num": 222907,
+      "word": "网信办发通知集中整治7类突出问题",
+      "onboard_time": 1700211991,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222848,
       "num": 222848,
       "word": "惊奇队长2 骄傲的漫威",
@@ -8867,12 +8915,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210147,
+      "num": 176269,
+      "word": "新衣服是用来讨好自己的",
+      "onboard_time": 1700212653,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 209963,
       "num": 209963,
       "word": "迪丽热巴是下一季花少导演",
       "onboard_time": 1699699595,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209954,
+      "num": 209954,
+      "word": "教育部称汉语拼音o应读喔",
+      "onboard_time": 1700210674,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 209773,
@@ -8985,6 +9049,14 @@
       "onboard_time": 1700189674,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206950,
+      "num": 206950,
+      "word": "懒人早餐一个月不重样",
+      "onboard_time": 1700208934,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 206939,
@@ -9667,6 +9739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195343,
+      "num": 195343,
+      "word": "上海迪士尼限定款烟花秀",
+      "onboard_time": 1700210854,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 194870,
       "num": 194870,
       "word": "BamBam说的重组方法",
@@ -9689,14 +9769,6 @@
       "onboard_time": 1699840891,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194102,
-      "num": 194102,
-      "word": "懒人早餐一个月不重样",
-      "onboard_time": 1700208934,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 193684,
@@ -11099,6 +11171,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 170741,
+      "num": 170741,
+      "word": "八一飞行表演队惊艳迪拜航展",
+      "onboard_time": 1700212594,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 170676,
       "num": 170676,
       "word": "销冠坐到哪儿都是销冠",
@@ -12363,6 +12443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 146427,
+      "num": 146427,
+      "word": "有没有人能来管管龚俊",
+      "onboard_time": 1700209952,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146087,
       "num": 146087,
       "word": "马立奥回归爸爸当家3",
@@ -12425,14 +12513,6 @@
       "onboard_time": 1699861295,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144301,
-      "num": 144301,
-      "word": "有没有人能来管管龚俊",
-      "onboard_time": 1700209952,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 144204,
@@ -12785,6 +12865,14 @@
       "onboard_time": 1700025156,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138547,
+      "num": 138547,
+      "word": "周深模仿米奇走路",
+      "onboard_time": 1700211094,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 138406,
@@ -13643,6 +13731,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 123003,
+      "num": 123003,
+      "word": "武艺特种兵式开吃长沙",
+      "onboard_time": 1700212231,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122935,
       "num": 122935,
       "word": "在东北见到冰糖帝王蟹冰糖龙虾",
@@ -14315,6 +14411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108970,
+      "num": 110324,
+      "word": "安徽宏村现丁达尔现象",
+      "onboard_time": 1700212533,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 108945,
       "num": 108945,
       "word": "2024年待映续集动画电影",
@@ -14763,6 +14867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88250,
+      "num": 456734,
+      "word": "2023年电影总票房突破500亿元",
+      "onboard_time": 1700208513,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87081,
       "num": 87081,
       "word": "梁靖崑说双打是王楚钦带着我打",
@@ -14833,14 +14945,6 @@
       "onboard_time": 1699916721,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 81197,
-      "num": 456734,
-      "word": "2023年电影总票房突破500亿元",
-      "onboard_time": 1700208513,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80739,

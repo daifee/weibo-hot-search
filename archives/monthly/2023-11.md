@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 16:35:40
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 17:17:44
 </p>
 </blockquote>
 <p>
@@ -617,6 +617,12 @@ GEN对战BLG（热度：2392638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E6%BB%A1%E7%BA%A7%E5%A5%B3%E6%95%99%E7%BB%83%E6%BB%91%E9%9B%AA%E5%9C%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
 国内唯一满级女教练滑雪场身亡（热度：2361808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%B8%8A23%E5%A4%A9%E7%8F%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%E4%B8%8D%E8%A2%AB%E5%AE%9A%E5%B7%A5%E4%BC%A4%23" target="weibo">
+连上23天班后猝死不被定工伤（热度：2336712）
 </a>
 </li>
 
@@ -5709,6 +5715,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%92%8CMelody%E5%90%8C%E6%A1%86%20%E5%83%8F%E7%9C%8B%E4%BA%86%E5%8D%8A%E9%9B%86%E5%BA%B7%E7%86%99%23" target="weibo">
+小S和Melody同框 像看了半集康熙（热度：690664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%BE%9E%E8%81%8C%E6%8B%8D%E9%A3%9E%E6%9C%BA6%E5%B9%B4%E6%8B%8D%E5%87%A0%E5%8D%81%E4%B8%87%E5%BC%A0%23" target="weibo">
 女教师辞职拍飞机6年拍几十万张（热度：689967）
 </a>
@@ -5999,18 +6011,6 @@ Tarzan向队友道歉（热度：665891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98KT%23" target="weibo">
 JDG对战KT（热度：662686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%A5%BF%E5%AE%89%E5%9D%90%E5%9C%B0%E9%93%81%E5%9D%90%E5%87%BA%E4%BA%86%E7%82%95%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
-在西安坐地铁坐出了炕的感觉（热度：662424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%AD%A3%E8%B0%83%E6%9F%A5%E5%8F%96%E8%AF%81%23" target="weibo">
-佳木斯体育馆坍塌事故正调查取证（热度：662297）
 </a>
 </li>
 
