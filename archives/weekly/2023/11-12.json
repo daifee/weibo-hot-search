@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700192068099,
+  "endTime": 1700194888782,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 2133544,
-      "num": 722093,
+      "num": 729882,
       "word": "美国宣布解除对公安部鉴定中心制裁",
       "onboard_time": 1700188473,
       "rank": 1,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1361842,
+      "num": 599072,
+      "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
+      "onboard_time": 1700191175,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1359728,
       "num": 682294,
       "word": "谢娜回语音的是老龚不是老公",
@@ -905,6 +913,14 @@
       "onboard_time": 1699931731,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242445,
+      "num": 723765,
+      "word": "傅首尔 老刘",
+      "onboard_time": 1700192794,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1229735,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1700190634,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1049506,
+      "num": 712863,
+      "word": "白宫称欢迎大熊猫重返美国",
+      "onboard_time": 1700192317,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1047846,
@@ -2187,6 +2211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 711456,
+      "num": 711456,
+      "word": "赵露思刘宇宁开机路透",
+      "onboard_time": 1700193336,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 710810,
       "num": 710810,
       "word": "阿奇霉素对病毒感染是无效的",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1700127211,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693088,
+      "num": 632796,
+      "word": "珠帘玉幕开机",
+      "onboard_time": 1700191775,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 691954,
@@ -2505,6 +2545,14 @@
       "onboard_time": 1700105799,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 650185,
+      "num": 650185,
+      "word": "谢娜在林心如面前提林志颖",
+      "onboard_time": 1700193034,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 646345,
@@ -3171,6 +3219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 534210,
+      "num": 534210,
+      "word": "cp30",
+      "onboard_time": 1700182837,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 533296,
       "num": 533296,
       "word": "闲置太久的皮衣就不要穿了",
@@ -3731,6 +3787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467291,
+      "num": 467291,
+      "word": "女子裸辞做旅行博主投入几十万零收入",
+      "onboard_time": 1700193875,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466686,
       "num": 466686,
       "word": "赵丽颖谈首当监制感受",
@@ -4049,6 +4113,14 @@
       "onboard_time": 1700029893,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 432933,
+      "num": 432933,
+      "word": "林一沈月新剧演情侣",
+      "onboard_time": 1700191655,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 432136,
@@ -4724,7 +4796,7 @@
     },
     {
       "raw_hot": 379567,
-      "num": 264895,
+      "num": 284614,
       "word": "动物内脏是不是垃圾食品",
       "onboard_time": 1700188353,
       "rank": 35,
@@ -4905,14 +4977,6 @@
       "onboard_time": 1699751731,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 362936,
-      "num": 362936,
-      "word": "cp30",
-      "onboard_time": 1700182837,
-      "rank": 21,
-      "category": "动漫"
     },
     {
       "raw_hot": 361690,
@@ -5553,14 +5617,6 @@
       "onboard_time": 1699887756,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 316828,
-      "num": 316828,
-      "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
-      "onboard_time": 1700191175,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315745,
@@ -6731,6 +6787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262130,
+      "num": 262130,
+      "word": "春晚小品预测",
+      "onboard_time": 1700193276,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261818,
       "num": 261818,
       "word": "香港迪士尼官宣开启冰雪奇缘园区",
@@ -7089,6 +7153,14 @@
       "onboard_time": 1699925252,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250174,
+      "num": 250174,
+      "word": "吴世勋SENSE冬日浪漫大片",
+      "onboard_time": 1700192614,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 250107,
@@ -7531,6 +7603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232649,
+      "num": 232649,
+      "word": "冠军使用了合理合法的兴奋剂",
+      "onboard_time": 1700193216,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231998,
       "num": 231998,
       "word": "潍坊一中学百余名学生疑食物中毒",
@@ -7865,14 +7945,6 @@
       "onboard_time": 1699879170,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223446,
-      "num": 223446,
-      "word": "林一沈月新剧演情侣",
-      "onboard_time": 1700191655,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 222848,
@@ -8323,6 +8395,14 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 210841,
+      "num": 210841,
+      "word": "小猫半夜强忍睡意陪伴主人看书",
+      "onboard_time": 1700192977,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210811,
       "num": 210811,
       "word": "被狗咬伤女童住院花费8万余元",
@@ -8401,6 +8481,14 @@
       "onboard_time": 1699873531,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209510,
+      "num": 215638,
+      "word": "早产的孩子现在都咋样了",
+      "onboard_time": 1700193705,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209417,
@@ -8633,6 +8721,14 @@
       "onboard_time": 1699774952,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203596,
+      "num": 203596,
+      "word": "看恐怖片不害怕的地下钢铁安全屋",
+      "onboard_time": 1700194476,
+      "rank": 29,
+      "category": "休闲"
     },
     {
       "raw_hot": 203209,
@@ -9067,6 +9163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196895,
+      "num": 196895,
+      "word": "眉毛画法",
+      "onboard_time": 1700194776,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196866,
       "num": 196866,
       "word": "钟楚曦白色侧开叉旗袍",
@@ -9393,14 +9497,6 @@
       "onboard_time": 1700117316,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 189712,
-      "num": 189712,
-      "word": "珠帘玉幕开机",
-      "onboard_time": 1700191775,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 189647,
@@ -11771,6 +11867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143872,
+      "num": 143872,
+      "word": "陈雨菲vs马林",
+      "onboard_time": 1700194417,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143801,
       "num": 143801,
       "word": "用雨爱BGM打开遮宁",
@@ -12163,6 +12267,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135716,
+      "num": 135716,
+      "word": "龚俊发文谈我本是高山",
+      "onboard_time": 1700192135,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 135199,
+      "num": 135199,
+      "word": "女性演员搞事业的魅力",
+      "onboard_time": 1700193516,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135180,
       "num": 135180,
       "word": "泰国球迷向国足球迷区扔杂物",
@@ -12331,6 +12451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133003,
+      "num": 133003,
+      "word": "原神 珊瑚宫心海",
+      "onboard_time": 1700193875,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132835,
       "num": 132835,
       "word": "干美甲的和干汽修的都沉默了",
@@ -12481,6 +12609,14 @@
       "onboard_time": 1699867831,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 129342,
+      "num": 129342,
+      "word": "KPL美女解说来参加脑综了",
+      "onboard_time": 1700191956,
+      "rank": 48,
+      "category": "电竞,综艺"
     },
     {
       "raw_hot": 129165,
@@ -12873,6 +13009,14 @@
       "onboard_time": 1699932331,
       "rank": 41,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 122946,
+      "num": 122946,
+      "word": "张遮被撩心慌了",
+      "onboard_time": 1700193516,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 122935,
@@ -13587,14 +13731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106768,
-      "num": 115525,
-      "word": "KPL美女解说来参加脑综了",
-      "onboard_time": 1700191956,
-      "rank": 48,
-      "category": "电竞,综艺"
-    },
-    {
       "raw_hot": 106729,
       "num": 100289,
       "word": "宁安如梦里的爱恨姐妹情",
@@ -13705,6 +13841,14 @@
       "onboard_time": 1699766731,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103089,
+      "num": 111277,
+      "word": "秦昊对伊能静的称呼",
+      "onboard_time": 1700194837,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 102737,
@@ -13825,6 +13969,14 @@
       "onboard_time": 1699977810,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98689,
+      "num": 192371,
+      "word": "极氪007预售价22.49万元起",
+      "onboard_time": 1700192674,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 98490,
@@ -14084,7 +14236,7 @@
     },
     {
       "raw_hot": 79109,
-      "num": 702569,
+      "num": 724581,
       "word": "一个选择三项原则五根支柱",
       "onboard_time": 1700177427,
       "rank": 2,
@@ -14507,6 +14659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40176,
+      "num": 615468,
+      "word": "赓续友谊的相聚",
+      "onboard_time": 1700191775,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40149,
       "num": 298046,
       "word": "民警把随身携带的救心丸给司机应急",
@@ -14532,7 +14692,7 @@
     },
     {
       "raw_hot": 37029,
-      "num": 673402,
+      "num": 717577,
       "word": "打造合作共赢的开放型亚太经济",
       "onboard_time": 1700177608,
       "rank": 9,
@@ -14737,14 +14897,6 @@
       "onboard_time": 1700102374,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16553,
-      "num": 498878,
-      "word": "赓续友谊的相聚",
-      "onboard_time": 1700191775,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16013,
