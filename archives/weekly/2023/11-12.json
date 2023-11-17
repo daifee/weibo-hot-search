@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700227294993,
+  "endTime": 1700228052977,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -587,6 +587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1588236,
+      "num": 880787,
+      "word": "浙江一家4人查出同种癌最小才16岁",
+      "onboard_time": 1700225614,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1580776,
       "num": 496782,
       "word": "苏小玎 今后严格规范自己的行为",
@@ -984,14 +992,6 @@
       "word": "缅甸一超市中国籍老板娘遭持枪绑架",
       "onboard_time": 1700126195,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1195347,
-      "num": 880787,
-      "word": "浙江一家4人查出同种癌最小才16岁",
-      "onboard_time": 1700225614,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948218,
+      "num": 883544,
+      "word": "沈梦辰 我没有引以为傲的作品",
+      "onboard_time": 1700224054,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 944456,
       "num": 944456,
       "word": "消费降级",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1699773029,
       "rank": 13,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 902457,
-      "num": 883544,
-      "word": "沈梦辰 我没有引以为傲的作品",
-      "onboard_time": 1700224054,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 899636,
@@ -1865,6 +1865,14 @@
       "onboard_time": 1699875634,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825678,
+      "num": 825678,
+      "word": "主播女孩重度依赖编剧在浦东机场走丢",
+      "onboard_time": 1700225312,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 823123,
@@ -2667,14 +2675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 664675,
-      "num": 664675,
-      "word": "主播女孩重度依赖编剧在浦东机场走丢",
-      "onboard_time": 1700225312,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 663455,
       "num": 342141,
       "word": "卧虎山庄",
@@ -2793,6 +2793,14 @@
       "onboard_time": 1699793737,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 640791,
+      "num": 640791,
+      "word": "白敬亭顺毛",
+      "onboard_time": 1700225795,
+      "rank": 14,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 640226,
@@ -3675,6 +3683,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 517556,
+      "num": 517556,
+      "word": "舒淇祖母绿眼妆",
+      "onboard_time": 1700226513,
+      "rank": 15,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 515508,
       "num": 359665,
       "word": "爱奇艺尖叫之夜红毯阵容",
@@ -3745,14 +3761,6 @@
       "onboard_time": 1699878934,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505833,
-      "num": 505833,
-      "word": "白敬亭顺毛",
-      "onboard_time": 1700225795,
-      "rank": 14,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 504337,
@@ -4193,14 +4201,6 @@
       "onboard_time": 1699955736,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 461086,
-      "num": 461086,
-      "word": "舒淇祖母绿眼妆",
-      "onboard_time": 1700226513,
-      "rank": 15,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 459691,
@@ -4979,6 +4979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399087,
+      "num": 399087,
+      "word": "对电诈既要斩草也要除根",
+      "onboard_time": 1700226576,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398587,
       "num": 398587,
       "word": "他谈恋爱她谈天下",
@@ -5609,6 +5617,14 @@
       "onboard_time": 1700195619,
       "rank": 20,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 349314,
+      "num": 827939,
+      "word": "红猪",
+      "onboard_time": 1700225556,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 349230,
@@ -6651,14 +6667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293697,
-      "num": 293697,
-      "word": "红猪",
-      "onboard_time": 1700225556,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 293696,
       "num": 293696,
       "word": "余承东称问界试驾车事故系误踩油门导致",
@@ -6913,14 +6921,6 @@
       "onboard_time": 1699746984,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282953,
-      "num": 328874,
-      "word": "对电诈既要斩草也要除根",
-      "onboard_time": 1700226576,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282814,
@@ -7267,6 +7267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271206,
+      "num": 271206,
+      "word": "宁安如梦的疯吹到大学宿舍",
+      "onboard_time": 1700225494,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271041,
       "num": 271041,
       "word": "龚俊 沪上小作精",
@@ -7395,14 +7403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265198,
-      "num": 265198,
-      "word": "宁安如梦的疯吹到大学宿舍",
-      "onboard_time": 1700225494,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264583,
       "num": 264583,
       "word": "孤舟过审",
@@ -7457,6 +7457,14 @@
       "onboard_time": 1699947696,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262719,
+      "num": 276354,
+      "word": "明国安成明家唯一未上通缉令的人",
+      "onboard_time": 1700226576,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262652,
@@ -8179,6 +8187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241148,
+      "num": 241148,
+      "word": "防弹少年团抛售HYBE股份",
+      "onboard_time": 1700226393,
+      "rank": 36,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 240792,
       "num": 240792,
       "word": "李一桐新中式闺秀妆",
@@ -8889,6 +8905,14 @@
       "onboard_time": 1699773331,
       "rank": 43,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 219955,
+      "num": 219955,
+      "word": "张远直播染发",
+      "onboard_time": 1700227534,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 219818,
@@ -10099,6 +10123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197670,
+      "num": 197670,
+      "word": "非凡医者",
+      "onboard_time": 1700227114,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197537,
       "num": 197537,
       "word": "秦岚情绪稳定大法 选择记住快乐",
@@ -10145,14 +10177,6 @@
       "onboard_time": 1699968394,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197054,
-      "num": 197054,
-      "word": "防弹少年团抛售HYBE股份",
-      "onboard_time": 1700226393,
-      "rank": 36,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 196904,
@@ -11203,20 +11227,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180308,
+      "num": 284909,
+      "word": "原来新疆馕的种类居然这么多",
+      "onboard_time": 1700226996,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180172,
       "num": 180172,
       "word": "银行称循环贷不是利滚利",
       "onboard_time": 1700116594,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 180050,
-      "num": 180050,
-      "word": "非凡医者",
-      "onboard_time": 1700227114,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 179932,
@@ -11539,14 +11563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175177,
-      "num": 284909,
-      "word": "原来新疆馕的种类居然这么多",
-      "onboard_time": 1700226996,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 175039,
       "num": 175039,
       "word": "起猛了看见周迅扫楼了",
@@ -11609,6 +11625,14 @@
       "onboard_time": 1700019031,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173747,
+      "num": 197988,
+      "word": "当老外第一次吃螺蛳粉",
+      "onboard_time": 1700227534,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 173662,
@@ -12452,7 +12476,7 @@
     },
     {
       "raw_hot": 159421,
-      "num": 188011,
+      "num": 240101,
       "word": "埃弗顿被扣10分",
       "onboard_time": 1700227235,
       "rank": 37,
@@ -12529,14 +12553,6 @@
       "onboard_time": 1700222313,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157604,
-      "num": 186969,
-      "word": "明国安成明家唯一未上通缉令的人",
-      "onboard_time": 1700226576,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157541,
@@ -13771,6 +13787,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134025,
+      "num": 266540,
+      "word": "狮子座流星雨",
+      "onboard_time": 1700223275,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133968,
       "num": 133968,
       "word": "王以太替capper带领全场合唱雪",
@@ -14529,14 +14553,6 @@
       "onboard_time": 1699933414,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121684,
-      "num": 266540,
-      "word": "狮子座流星雨",
-      "onboard_time": 1700223275,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121605,
@@ -15587,6 +15603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91429,
+      "num": 197764,
+      "word": "全班同学为即将休产假老师准备惊喜",
+      "onboard_time": 1700225253,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 91397,
       "num": 91397,
       "word": "微光荣耀爆剧男主九选一",
@@ -15641,14 +15665,6 @@
       "onboard_time": 1700208513,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87933,
-      "num": 159258,
-      "word": "全班同学为即将休产假老师准备惊喜",
-      "onboard_time": 1700225253,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 87081,
@@ -16283,6 +16299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33316,
+      "num": 884274,
+      "word": "从旧金山出发互相走动树立正确认知",
+      "onboard_time": 1700226094,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33049,
       "num": 329772,
       "word": "微视频跨越太平洋",
@@ -16313,14 +16337,6 @@
       "onboard_time": 1700069897,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31111,
-      "num": 884274,
-      "word": "从旧金山出发互相走动树立正确认知",
-      "onboard_time": 1700226094,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30687,

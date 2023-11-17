@@ -1,0 +1,410 @@
+{
+  "runTime": 1700228052977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 829644,
+        "num": 829644,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176866,
+        "num": 829618,
+        "word": "国务院安委会挂牌督办吕梁火灾事故",
+        "onboard_time": 1700221175,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33316,
+        "num": 829118,
+        "word": "从旧金山出发互相走动树立正确认知",
+        "onboard_time": 1700226094,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948218,
+        "num": 828765,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484677,
+        "num": 828285,
+        "word": "五月天感谢马思纯绿色出行去看演唱会",
+        "onboard_time": 1700222913,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349314,
+        "num": 827939,
+        "word": "红猪",
+        "onboard_time": 1700225556,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326826,
+        "num": 827265,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319055,
+        "num": 827015,
+        "word": "陈楚生王栎鑫无缝续房",
+        "onboard_time": 1700225494,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298378,
+        "num": 826599,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 8,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 255690,
+        "num": 826120,
+        "word": "肺炎支原体感染愈后多吃白色食物",
+        "onboard_time": 1700216315,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1588236,
+        "num": 825755,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825678,
+        "num": 825678,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640791,
+        "num": 640791,
+        "word": "白敬亭顺毛",
+        "onboard_time": 1700225795,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 637082,
+        "num": 637082,
+        "word": "普男爆改张元英",
+        "onboard_time": 1700221112,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 599132,
+        "num": 599132,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517556,
+        "num": 517556,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 399087,
+        "num": 399087,
+        "word": "对电诈既要斩草也要除根",
+        "onboard_time": 1700226576,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358071,
+        "num": 358071,
+        "word": "土屋太凤产子后首亮相",
+        "onboard_time": 1700223753,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281347,
+        "num": 281347,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 262719,
+        "num": 276354,
+        "word": "明国安成明家唯一未上通缉令的人",
+        "onboard_time": 1700226576,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275917,
+        "num": 275917,
+        "word": "周迅 狠人就要擦口红",
+        "onboard_time": 1700225795,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271206,
+        "num": 271206,
+        "word": "宁安如梦的疯吹到大学宿舍",
+        "onboard_time": 1700225494,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205732,
+        "num": 251285,
+        "word": "Deft推迟入伍时间到2025",
+        "onboard_time": 1700224954,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203079,
+        "num": 246125,
+        "word": "一千只螃蟹堆成的山",
+        "onboard_time": 1700224830,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180308,
+        "num": 242379,
+        "word": "原来新疆馕的种类居然这么多",
+        "onboard_time": 1700226996,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241148,
+        "num": 241148,
+        "word": "防弹少年团抛售HYBE股份",
+        "onboard_time": 1700226393,
+        "rank": 25,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 154641,
+        "num": 240101,
+        "word": "埃弗顿被扣10分",
+        "onboard_time": 1700227235,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134025,
+        "num": 239758,
+        "word": "狮子座流星雨",
+        "onboard_time": 1700223275,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126463,
+        "num": 238868,
+        "word": "鲁J1533警你做得好事藏不住了",
+        "onboard_time": 1700218233,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105986,
+        "num": 237337,
+        "word": "决战考研",
+        "onboard_time": 1700220393,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236668,
+        "num": 236668,
+        "word": "成龙是龙皮 娜扎是扎啤",
+        "onboard_time": 1700220451,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233386,
+        "num": 233386,
+        "word": "鹿晗 客服小张新歌听起来",
+        "onboard_time": 1700222013,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228494,
+        "num": 228494,
+        "word": "她谈案件他谈暗恋",
+        "onboard_time": 1700223153,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228024,
+        "num": 228024,
+        "word": "小S和Melody同框 像看了半集康熙",
+        "onboard_time": 1700211694,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222927,
+        "num": 222927,
+        "word": "奔跑吧",
+        "onboard_time": 1700224896,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219955,
+        "num": 219955,
+        "word": "张远直播染发",
+        "onboard_time": 1700227534,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201736,
+        "num": 201736,
+        "word": "刘亦菲张靓颖周深于适同框",
+        "onboard_time": 1700221354,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176309,
+        "num": 199494,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173747,
+        "num": 197988,
+        "word": "当老外第一次吃螺蛳粉",
+        "onboard_time": 1700227534,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91429,
+        "num": 197764,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197670,
+        "num": 197670,
+        "word": "非凡医者",
+        "onboard_time": 1700227114,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194813,
+        "num": 194813,
+        "word": "五月天 现场",
+        "onboard_time": 1700220991,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180628,
+        "num": 180628,
+        "word": "琉璃主动踮脚吻",
+        "onboard_time": 1700223634,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141576,
+        "num": 170870,
+        "word": "外面的咖啡已经进化成这样了",
+        "onboard_time": 1700219793,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166319,
+        "num": 166319,
+        "word": "阿信 在最大的体育场搭最大的梦",
+        "onboard_time": 1700223334,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163992,
+        "num": 163992,
+        "word": "原来辛芷蕾私底下这么温柔",
+        "onboard_time": 1700224954,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134701,
+        "num": 134701,
+        "word": "王自如 媚上表达",
+        "onboard_time": 1700220333,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129911,
+        "num": 129911,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95129,
+        "num": 128810,
+        "word": "滑雪为什么要穿速干衣",
+        "onboard_time": 1700225677,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 40446,
+        "num": 128068,
+        "word": "17岁少年照顾脑瘫同学近5年",
+        "onboard_time": 1700214633,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斐济总理兰布卡#"
+    }
+  }
+}
