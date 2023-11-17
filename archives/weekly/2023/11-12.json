@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700183770781,
+  "endTime": 1700185058658,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -609,6 +609,14 @@
       "onboard_time": 1700019812,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1522872,
+      "num": 347475,
+      "word": "王昭君 讲日语",
+      "onboard_time": 1700183018,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 1521385,
@@ -1531,12 +1539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 864302,
-      "num": 347475,
-      "word": "王昭君 讲日语",
-      "onboard_time": 1700183018,
-      "rank": 12,
-      "category": "游戏"
+      "raw_hot": 865441,
+      "num": 387374,
+      "word": "缅甸",
+      "onboard_time": 1699843533,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 862442,
@@ -1993,14 +2001,6 @@
       "onboard_time": 1699963891,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 751354,
-      "num": 387374,
-      "word": "缅甸",
-      "onboard_time": 1699843533,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 746751,
@@ -3371,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498107,
+      "num": 330402,
+      "word": "阿根廷乌拉圭冲突",
+      "onboard_time": 1700183618,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496243,
       "num": 465970,
       "word": "陈奕迅想认识李荣浩也要靠朋友拉群",
@@ -4452,7 +4460,7 @@
     },
     {
       "raw_hot": 394826,
-      "num": 292369,
+      "num": 301650,
       "word": "国民死刑投票 烂尾",
       "onboard_time": 1700178629,
       "rank": 20,
@@ -4772,7 +4780,7 @@
     },
     {
       "raw_hot": 363514,
-      "num": 190277,
+      "num": 329044,
       "word": "怪不得古天乐后来不跳舞了",
       "onboard_time": 1700182778,
       "rank": 30,
@@ -5313,6 +5321,22 @@
       "onboard_time": 1700138557,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322573,
+      "num": 322573,
+      "word": "刘些宁 铁坦公主",
+      "onboard_time": 1700183435,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322244,
+      "num": 322244,
+      "word": "谢娜睡前给张杰语音说爱你",
+      "onboard_time": 1700183435,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 320936,
@@ -6403,6 +6427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 270534,
+      "num": 270534,
+      "word": "梅西锁喉",
+      "onboard_time": 1700184696,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270332,
       "num": 1126707,
       "word": "阿里四小龙业务浮出水面",
@@ -6441,6 +6473,14 @@
       "onboard_time": 1699776509,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268834,
+      "num": 268834,
+      "word": "8岁娃没上学睡树林里民警找了一上午",
+      "onboard_time": 1700182537,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268669,
@@ -7163,6 +7203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242696,
+      "num": 242696,
+      "word": "cp30",
+      "onboard_time": 1700182837,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 241808,
       "num": 241808,
       "word": "2女生捡到3千现金后报警交还",
@@ -7195,28 +7243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240986,
-      "num": 240986,
-      "word": "cp30",
-      "onboard_time": 1700182837,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 240792,
       "num": 240792,
       "word": "李一桐新中式闺秀妆",
       "onboard_time": 1699773688,
       "rank": 17,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 239323,
-      "num": 239323,
-      "word": "8岁娃没上学睡树林里民警找了一上午",
-      "onboard_time": 1700182537,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238806,
@@ -7355,6 +7387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233616,
+      "num": 233616,
+      "word": "男子买了张顶呱刮刮出100万",
+      "onboard_time": 1700151572,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233308,
       "num": 233308,
       "word": "高职院校招保安要35岁以下硕士",
@@ -7411,12 +7451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230917,
-      "num": 230917,
-      "word": "男子买了张顶呱刮刮出100万",
-      "onboard_time": 1700151572,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 230828,
+      "num": 230828,
+      "word": "张遮判词",
+      "onboard_time": 1700183796,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 230739,
@@ -8003,6 +8043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214262,
+      "num": 214262,
+      "word": "阿根廷半场0比1乌拉圭",
+      "onboard_time": 1700183915,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214217,
       "num": 214217,
       "word": "花少为什么这段只放在花絮",
@@ -8329,14 +8377,6 @@
       "onboard_time": 1700018071,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205727,
-      "num": 205727,
-      "word": "谢娜睡前给张杰语音说爱你",
-      "onboard_time": 1700183435,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 205377,
@@ -9531,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184346,
+      "num": 184346,
+      "word": "小欢喜剧组在海清新片首映团建",
+      "onboard_time": 1700183676,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184345,
       "num": 184345,
       "word": "张杰平行空间追光大片",
@@ -10073,14 +10121,6 @@
       "onboard_time": 1700101896,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173084,
-      "num": 173084,
-      "word": "刘些宁 铁坦公主",
-      "onboard_time": 1700183435,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 173081,
@@ -10937,14 +10977,6 @@
       "onboard_time": 1699834111,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155884,
-      "num": 155884,
-      "word": "阿根廷乌拉圭冲突",
-      "onboard_time": 1700183618,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 155790,
@@ -12923,6 +12955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 115503,
+      "num": 115503,
+      "word": "球迷潘粤明",
+      "onboard_time": 1700184756,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 115479,
       "num": 115479,
       "word": "官方通报南宁一医院涉嫌贩卖出生证",
@@ -13211,14 +13251,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 107632,
-      "num": 110004,
-      "word": "小欢喜剧组在海清新片首映团建",
-      "onboard_time": 1700183676,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 107430,
       "num": 107430,
       "word": "StrayKids最新练习室",
@@ -13497,6 +13529,14 @@
       "onboard_time": 1699767151,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96841,
+      "num": 96841,
+      "word": "王星越公主请救我",
+      "onboard_time": 1700184996,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 96672,
@@ -14503,6 +14543,9 @@
     },
     {
       "word": "#开放包容是亚太合作的主旋律#"
+    },
+    {
+      "word": "#习近平会见墨西哥总统#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700185058658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 212369,
+        "num": 330701,
+        "word": "欢迎继续投资中国深耕中国",
+        "onboard_time": 1700176646,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114518,
+        "num": 330658,
+        "word": "时隔8年再次向美国人民发表的演讲",
+        "onboard_time": 1700139276,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60588,
+        "num": 330564,
+        "word": "一个选择三项原则五根支柱",
+        "onboard_time": 1700177427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498107,
+        "num": 330402,
+        "word": "阿根廷乌拉圭冲突",
+        "onboard_time": 1700183618,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32492,
+        "num": 330296,
+        "word": "打造合作共赢的开放型亚太经济",
+        "onboard_time": 1700177608,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681568,
+        "num": 330183,
+        "word": "刘亦菲迪士尼公主出场",
+        "onboard_time": 1700176102,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 382231,
+        "num": 330060,
+        "word": "王安宇把秦海璐整不会了",
+        "onboard_time": 1700180315,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362220,
+        "num": 329953,
+        "word": "爱奇艺尖叫之夜红毯阵容",
+        "onboard_time": 1700178390,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329910,
+        "num": 329910,
+        "word": "海底捞个别门店试点调整份量和价格",
+        "onboard_time": 1700177668,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 81834,
+        "num": 329819,
+        "word": "中美关系的大门是由人民打开的",
+        "onboard_time": 1700172495,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3029552,
+        "num": 329758,
+        "word": "马航MH370事件将正式开庭",
+        "onboard_time": 1700181875,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522872,
+        "num": 329614,
+        "word": "王昭君 讲日语",
+        "onboard_time": 1700183018,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 865441,
+        "num": 329497,
+        "word": "缅甸",
+        "onboard_time": 1700181997,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736233,
+        "num": 329319,
+        "word": "洪胜汉 崔秀彬",
+        "onboard_time": 1700180793,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720585,
+        "num": 329236,
+        "word": "小说里的总裁都降级消费了",
+        "onboard_time": 1700179051,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 370070,
+        "num": 329074,
+        "word": "中奖500万彩票号付款后老板忘出票",
+        "onboard_time": 1700143910,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329044,
+        "num": 329044,
+        "word": "怪不得古天乐后来不跳舞了",
+        "onboard_time": 1700182778,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322573,
+        "num": 322573,
+        "word": "刘些宁 铁坦公主",
+        "onboard_time": 1700183435,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322244,
+        "num": 322244,
+        "word": "谢娜睡前给张杰语音说爱你",
+        "onboard_time": 1700183435,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304592,
+        "num": 304592,
+        "word": "长期吃辣的人后来怎么样了",
+        "onboard_time": 1700144327,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339936,
+        "num": 301650,
+        "word": "国民死刑投票 烂尾",
+        "onboard_time": 1700178629,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279995,
+        "num": 279995,
+        "word": "电诈头目移交我方后将受到哪些制裁",
+        "onboard_time": 1700180915,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270534,
+        "num": 270534,
+        "word": "梅西锁喉",
+        "onboard_time": 1700184696,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268834,
+        "num": 268834,
+        "word": "8岁娃没上学睡树林里民警找了一上午",
+        "onboard_time": 1700182537,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242696,
+        "num": 242696,
+        "word": "cp30",
+        "onboard_time": 1700182837,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 240722,
+        "num": 240722,
+        "word": "花少四凤体重公开",
+        "onboard_time": 1700181274,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233616,
+        "num": 233616,
+        "word": "男子买了张顶呱刮刮出100万",
+        "onboard_time": 1700151572,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230828,
+        "num": 230828,
+        "word": "张遮判词",
+        "onboard_time": 1700183796,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214262,
+        "num": 214262,
+        "word": "阿根廷半场0比1乌拉圭",
+        "onboard_time": 1700183915,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211539,
+        "num": 211539,
+        "word": "国家一级演员苏孝林被公诉",
+        "onboard_time": 1700146846,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202435,
+        "num": 202435,
+        "word": "阿根廷vs乌拉圭",
+        "onboard_time": 1700181095,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198033,
+        "num": 198033,
+        "word": "她是敦煌的女儿",
+        "onboard_time": 1700179229,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195577,
+        "num": 195577,
+        "word": "秦海璐迪丽热巴职业病",
+        "onboard_time": 1700180133,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184346,
+        "num": 184346,
+        "word": "小欢喜剧组在海清新片首映团建",
+        "onboard_time": 1700183676,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174657,
+        "num": 174657,
+        "word": "宋亚轩是第一个给沈涛得子发恭喜的",
+        "onboard_time": 1700147148,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147118,
+        "num": 147118,
+        "word": "明国平等三名缅北电诈头目被缉拿归案",
+        "onboard_time": 1700131595,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142536,
+        "num": 142536,
+        "word": "现实版李峋",
+        "onboard_time": 1700145891,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134655,
+        "num": 134655,
+        "word": "国足 裁判",
+        "onboard_time": 1700180675,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134277,
+        "num": 134277,
+        "word": "金莎自称油王",
+        "onboard_time": 1700180857,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129915,
+        "num": 129915,
+        "word": "王者荣耀",
+        "onboard_time": 1700148041,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129551,
+        "num": 129551,
+        "word": "野生大熊猫实时视频电话接通了",
+        "onboard_time": 1700175743,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116813,
+        "num": 116813,
+        "word": "国足连续10届世预赛开门红",
+        "onboard_time": 1700177787,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115503,
+        "num": 115503,
+        "word": "球迷潘粤明",
+        "onboard_time": 1700184756,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 110971,
+        "num": 110971,
+        "word": "秦岚 另一半没有严丝合缝的",
+        "onboard_time": 1700142585,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110572,
+        "num": 110572,
+        "word": "宁安如梦 拯救的故事",
+        "onboard_time": 1700181217,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105486,
+        "num": 105486,
+        "word": "王玉雯对于适说应该喊我嫂嫂",
+        "onboard_time": 1700149720,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 99793,
+        "num": 99793,
+        "word": "aespa金玟庭Drama直拍",
+        "onboard_time": 1700181335,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99040,
+        "num": 99040,
+        "word": "国产剧 配平文学",
+        "onboard_time": 1700179415,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96841,
+        "num": 96841,
+        "word": "王星越公主请救我",
+        "onboard_time": 1700184996,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96389,
+        "num": 96389,
+        "word": "王昭君新皮肤",
+        "onboard_time": 1700138858,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见墨西哥总统#"
+    }
+  }
+}
