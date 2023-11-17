@@ -1,0 +1,410 @@
+{
+  "runTime": 1700195744589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127427,
+        "num": 760864,
+        "word": "欢迎继续投资中国深耕中国",
+        "onboard_time": 1700176646,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1263717,
+        "num": 752831,
+        "word": "美国宣布解除对公安部鉴定中心制裁",
+        "onboard_time": 1700188473,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31202,
+        "num": 744434,
+        "word": "一个选择三项原则五根支柱",
+        "onboard_time": 1700177427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 962042,
+        "num": 721565,
+        "word": "白宫称欢迎大熊猫重返美国",
+        "onboard_time": 1700192317,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29640,
+        "num": 710508,
+        "word": "打造合作共赢的开放型亚太经济",
+        "onboard_time": 1700177608,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 944396,
+        "num": 690871,
+        "word": "女子裸辞做旅行博主投入几十万零收入",
+        "onboard_time": 1700193875,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438126,
+        "num": 669413,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1700192794,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854797,
+        "num": 666225,
+        "word": "赵露思刘宇宁开机路透",
+        "onboard_time": 1700193336,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651947,
+        "num": 651947,
+        "word": "谢娜在林心如面前提林志颖",
+        "onboard_time": 1700193034,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37237,
+        "num": 566265,
+        "word": "赓续友谊的相聚",
+        "onboard_time": 1700191775,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1574977,
+        "num": 565726,
+        "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
+        "onboard_time": 1700191175,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861949,
+        "num": 565569,
+        "word": "Rain金泰熙 行车记录仪拍出韩剧",
+        "onboard_time": 1700190634,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565129,
+        "num": 565129,
+        "word": "cp30",
+        "onboard_time": 1700182837,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 783267,
+        "num": 561617,
+        "word": "谢娜回语音的是老龚不是老公",
+        "onboard_time": 1700189373,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526536,
+        "num": 526536,
+        "word": "珠帘玉幕开机",
+        "onboard_time": 1700191775,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438113,
+        "num": 438113,
+        "word": "cp最早是复旦大学办的",
+        "onboard_time": 1700195380,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 426218,
+        "num": 426218,
+        "word": "中缅边境发生地震",
+        "onboard_time": 1700186254,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358310,
+        "num": 358310,
+        "word": "洪胜汉 崔秀彬",
+        "onboard_time": 1700180793,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354724,
+        "num": 354724,
+        "word": "林一沈月新剧演情侣",
+        "onboard_time": 1700191655,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317612,
+        "num": 317612,
+        "word": "早产的孩子现在都咋样了",
+        "onboard_time": 1700193705,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301965,
+        "num": 301965,
+        "word": "洗完澡后不要立即化妆",
+        "onboard_time": 1700195619,
+        "rank": 20,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 291791,
+        "num": 291791,
+        "word": "梅西锁喉",
+        "onboard_time": 1700184696,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281094,
+        "num": 281094,
+        "word": "动物内脏是不是垃圾食品",
+        "onboard_time": 1700188353,
+        "rank": 22,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 280665,
+        "num": 280665,
+        "word": "光与夜之恋 缺牙巴宝宝",
+        "onboard_time": 1700195198,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273757,
+        "num": 273757,
+        "word": "看恐怖片不害怕的地下钢铁安全屋",
+        "onboard_time": 1700194476,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 272025,
+        "num": 272025,
+        "word": "春晚小品预测",
+        "onboard_time": 1700193276,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263945,
+        "num": 263945,
+        "word": "丫丫晒太阳吃果果",
+        "onboard_time": 1700187153,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248565,
+        "num": 248565,
+        "word": "医生举报科室为拿回扣用价格40倍注射液",
+        "onboard_time": 1700195319,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238111,
+        "num": 238111,
+        "word": "小猫半夜强忍睡意陪伴主人看书",
+        "onboard_time": 1700192977,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236360,
+        "num": 236360,
+        "word": "刘亦菲迪士尼公主出场",
+        "onboard_time": 1700176102,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 512680,
+        "num": 235988,
+        "word": "马航MH370事件将正式开庭",
+        "onboard_time": 1700181875,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232898,
+        "num": 232898,
+        "word": "秦昊对伊能静的称呼",
+        "onboard_time": 1700194837,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223225,
+        "num": 223225,
+        "word": "吴世勋SENSE冬日浪漫大片",
+        "onboard_time": 1700192614,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219345,
+        "num": 219345,
+        "word": "白鹿看到张凌赫露胸肌的反应",
+        "onboard_time": 1700187755,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216667,
+        "num": 216667,
+        "word": "眉毛画法",
+        "onboard_time": 1700194776,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 210527,
+        "num": 210527,
+        "word": "冠军使用了合理合法的兴奋剂",
+        "onboard_time": 1700193216,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194646,
+        "num": 194646,
+        "word": "中央电视台电视剧频道宣传片",
+        "onboard_time": 1700195138,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174499,
+        "num": 174499,
+        "word": "国民死刑投票 烂尾",
+        "onboard_time": 1700178629,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172221,
+        "num": 172221,
+        "word": "秦岚砍价成功后第一反应是照镜子",
+        "onboard_time": 1700188652,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164139,
+        "num": 164139,
+        "word": "张遮被撩心慌了",
+        "onboard_time": 1700193516,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162111,
+        "num": 162111,
+        "word": "柯南黑铁的鱼影确认引进",
+        "onboard_time": 1700187876,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 161421,
+        "num": 161421,
+        "word": "听李雪琴唱空荡荡心里空荡荡",
+        "onboard_time": 1700194899,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148868,
+        "num": 148868,
+        "word": "缅北电诈回流人员自述噩梦般真实经历",
+        "onboard_time": 1700195078,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143317,
+        "num": 143317,
+        "word": "龚俊发文谈我本是高山",
+        "onboard_time": 1700192135,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140723,
+        "num": 140723,
+        "word": "湖人拒绝用里夫斯交易拉文",
+        "onboard_time": 1700191536,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132670,
+        "num": 132670,
+        "word": "WBG与T1谁能登神",
+        "onboard_time": 1700195619,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126062,
+        "num": 126062,
+        "word": "陈雨菲vs马林",
+        "onboard_time": 1700194417,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119523,
+        "num": 119523,
+        "word": "光夜全员战损",
+        "onboard_time": 1700195078,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115693,
+        "num": 115693,
+        "word": "KPL美女解说来参加脑综了",
+        "onboard_time": 1700191956,
+        "rank": 48,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 114522,
+        "num": 114522,
+        "word": "长期吃辣的人后来怎么样了",
+        "onboard_time": 1700144327,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向APEC工商领导人峰会发表书面演讲#"
+    }
+  }
+}
