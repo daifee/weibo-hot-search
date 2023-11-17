@@ -1,0 +1,410 @@
+{
+  "runTime": 1700202225594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 45876,
+        "num": 630469,
+        "word": "欢迎继续投资中国深耕中国",
+        "onboard_time": 1700176646,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1607432,
+        "num": 629638,
+        "word": "24岁女孩肝癌晚期医护提前为其过生日",
+        "onboard_time": 1700196821,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20906,
+        "num": 622913,
+        "word": "可持续发展是解决当前全球性问题的金钥匙",
+        "onboard_time": 1700186795,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1367226,
+        "num": 619786,
+        "word": "沪上阿姨 回收",
+        "onboard_time": 1700199874,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11042,
+        "num": 611777,
+        "word": "打造合作共赢的开放型亚太经济",
+        "onboard_time": 1700177608,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 741848,
+        "num": 607425,
+        "word": "昨天爆改金希澈今天回到李二牛",
+        "onboard_time": 1700198198,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 687332,
+        "num": 602569,
+        "word": "暴雪宣布与网易停止合作一周年",
+        "onboard_time": 1700200954,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 374554,
+        "num": 599243,
+        "word": "赵露思刘宇宁开机路透",
+        "onboard_time": 1700193336,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371496,
+        "num": 593710,
+        "word": "Lia将缺席ITZY回归与巡演",
+        "onboard_time": 1700196700,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26193,
+        "num": 586465,
+        "word": "赓续友谊的相聚",
+        "onboard_time": 1700191775,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 925719,
+        "num": 584934,
+        "word": "女子裸辞做旅行博主投入几十万零收入",
+        "onboard_time": 1700193875,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715355,
+        "num": 576091,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1700192794,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574922,
+        "num": 574922,
+        "word": "格力就高管遭自媒体侮辱诽谤报案",
+        "onboard_time": 1700198137,
+        "rank": 12,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 572675,
+        "num": 572675,
+        "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
+        "onboard_time": 1700191175,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435500,
+        "num": 435500,
+        "word": "ENHYPEN 敷衍",
+        "onboard_time": 1700198437,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380215,
+        "num": 380215,
+        "word": "Rain金泰熙 行车记录仪拍出韩剧",
+        "onboard_time": 1700190634,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348660,
+        "num": 348660,
+        "word": "cp30",
+        "onboard_time": 1700182837,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 343153,
+        "num": 343153,
+        "word": "美国宣布解除对公安部鉴定中心制裁",
+        "onboard_time": 1700188473,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312367,
+        "num": 312367,
+        "word": "谢娜回语音的是老龚不是老公",
+        "onboard_time": 1700189373,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303403,
+        "num": 303403,
+        "word": "冬泳怪鸽",
+        "onboard_time": 1700197601,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39479,
+        "num": 277541,
+        "word": "混动能否开启下一个新能源时代",
+        "onboard_time": 1700200177,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 398242,
+        "num": 277036,
+        "word": "最舒服的两性情侣关系",
+        "onboard_time": 1700198558,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275815,
+        "num": 275815,
+        "word": "早期肺癌有多隐匿",
+        "onboard_time": 1700198794,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275101,
+        "num": 275101,
+        "word": "白鹿入夜巴黎芭莎大片",
+        "onboard_time": 1700197601,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246281,
+        "num": 246281,
+        "word": "中央电视台电视剧频道宣传片",
+        "onboard_time": 1700195138,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228815,
+        "num": 228815,
+        "word": "唐嫣念无双婚服路透",
+        "onboard_time": 1700200834,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224162,
+        "num": 224162,
+        "word": "谢娜在林心如面前提林志颖",
+        "onboard_time": 1700193034,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211561,
+        "num": 211561,
+        "word": "会有压力吗 山大",
+        "onboard_time": 1700201496,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210269,
+        "num": 210269,
+        "word": "ChatGPT可视化了我的梦境",
+        "onboard_time": 1700200232,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210040,
+        "num": 210040,
+        "word": "医生举报科室为拿回扣用价格40倍注射液",
+        "onboard_time": 1700195319,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224269,
+        "num": 209592,
+        "word": "马航MH370事件将正式开庭",
+        "onboard_time": 1700181875,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208269,
+        "num": 208269,
+        "word": "ENHYPEN回归新曲",
+        "onboard_time": 1700200893,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207015,
+        "num": 207015,
+        "word": "洗完澡后不要立即化妆",
+        "onboard_time": 1700195619,
+        "rank": 32,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 190393,
+        "num": 190393,
+        "word": "女大终于开始整顿运镜了",
+        "onboard_time": 1700196758,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190032,
+        "num": 190032,
+        "word": "律师称缅北电诈头目或被执行死刑",
+        "onboard_time": 1700195861,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188713,
+        "num": 188713,
+        "word": "cp最早是复旦大学办的",
+        "onboard_time": 1700195380,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 182869,
+        "word": "一场宁安梦却无一处安宁",
+        "onboard_time": 1700199994,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178352,
+        "num": 178352,
+        "word": "宋亚轩陶喆王牌弹唱普通朋友",
+        "onboard_time": 1700201974,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 177271,
+        "word": "中缅边境发生地震",
+        "onboard_time": 1700186254,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138148,
+        "num": 176687,
+        "word": "白宫称欢迎大熊猫重返美国",
+        "onboard_time": 1700192317,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176427,
+        "num": 176427,
+        "word": "入华15年米其林依旧是外宾",
+        "onboard_time": 1700202094,
+        "rank": 40,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 163410,
+        "num": 163410,
+        "word": "鞠婧祎千香开机路透",
+        "onboard_time": 1700199577,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158718,
+        "num": 158718,
+        "word": "刘亦菲迪士尼公主出场",
+        "onboard_time": 1700176102,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 143998,
+        "num": 143998,
+        "word": "李一桐冷脸千金妆",
+        "onboard_time": 1700196999,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 141814,
+        "num": 141814,
+        "word": "假如谢危也重生",
+        "onboard_time": 1700201974,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136552,
+        "num": 136552,
+        "word": "缅北电诈回流人员自述噩梦般真实经历",
+        "onboard_time": 1700195078,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134761,
+        "num": 134761,
+        "word": "张家辉希望陈伟霆接香港演员的班",
+        "onboard_time": 1700197121,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134535,
+        "num": 134535,
+        "word": "光与夜之恋 缺牙巴宝宝",
+        "onboard_time": 1700195198,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129195,
+        "num": 129195,
+        "word": "梅西锁喉",
+        "onboard_time": 1700184696,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122353,
+        "num": 129192,
+        "word": "洪胜汉 崔秀彬",
+        "onboard_time": 1700180793,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见墨西哥总统#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700199250492,
+  "endTime": 1700202225594,
   "band_list": [
     {
       "raw_hot": 3248541,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1607432,
+      "num": 629638,
+      "word": "24岁女孩肝癌晚期医护提前为其过生日",
+      "onboard_time": 1700196821,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1574977,
       "num": 599072,
       "word": "外卖员撞坏豪车想分期赔偿女车主婉拒",
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1367226,
+      "num": 619786,
+      "word": "沪上阿姨 回收",
+      "onboard_time": 1700199874,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1359728,
       "num": 682294,
       "word": "谢娜回语音的是老龚不是老公",
@@ -72,14 +88,6 @@
       "word": "女子裸辞做旅行博主投入几十万零收入",
       "onboard_time": 1700193875,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1172800,
-      "num": 492049,
-      "word": "24岁女孩肝癌晚期医护提前为其过生日",
-      "onboard_time": 1700196821,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 805074,
-      "num": 487335,
+      "num": 593710,
       "word": "Lia将缺席ITZY回归与巡演",
       "onboard_time": 1700196700,
       "rank": 3,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 790726,
-      "num": 476172,
+      "num": 574922,
       "word": "格力就高管遭自媒体侮辱诽谤报案",
       "onboard_time": 1700198137,
       "rank": 39,
@@ -177,6 +185,14 @@
       "onboard_time": 1700176102,
       "rank": 6,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 741848,
+      "num": 607425,
+      "word": "昨天爆改金希澈今天回到李二牛",
+      "onboard_time": 1700198198,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 693088,
@@ -201,6 +217,14 @@
       "onboard_time": 1700187755,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687332,
+      "num": 602569,
+      "word": "暴雪宣布与网易停止合作一周年",
+      "onboard_time": 1700200954,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 651947,
@@ -323,14 +347,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 453165,
-      "num": 453165,
-      "word": "昨天爆改金希澈今天回到李二牛",
-      "onboard_time": 1700198198,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 433607,
       "num": 363100,
       "word": "中奖500万彩票号付款后老板忘出票",
@@ -387,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398242,
+      "num": 393779,
+      "word": "最舒服的两性情侣关系",
+      "onboard_time": 1700198558,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 394826,
       "num": 301650,
       "word": "国民死刑投票 烂尾",
       "onboard_time": 1700178629,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 393779,
-      "num": 393779,
-      "word": "最舒服的两性情侣关系",
-      "onboard_time": 1700198558,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 393529,
@@ -563,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275815,
+      "num": 275815,
+      "word": "早期肺癌有多隐匿",
+      "onboard_time": 1700198794,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275101,
+      "num": 275101,
+      "word": "白鹿入夜巴黎芭莎大片",
+      "onboard_time": 1700197601,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273757,
       "num": 273757,
       "word": "看恐怖片不害怕的地下钢铁安全屋",
@@ -593,14 +625,6 @@
       "onboard_time": 1700192614,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 249830,
-      "num": 249830,
-      "word": "白鹿入夜巴黎芭莎大片",
-      "onboard_time": 1700197601,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248974,
@@ -673,6 +697,14 @@
       "onboard_time": 1700191356,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228815,
+      "num": 228815,
+      "word": "唐嫣念无双婚服路透",
+      "onboard_time": 1700200834,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 225830,
@@ -755,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211561,
+      "num": 211561,
+      "word": "会有压力吗 山大",
+      "onboard_time": 1700201496,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211343,
       "num": 169744,
       "word": "马云家族信托拟减持阿里巴巴",
@@ -769,6 +809,22 @@
       "onboard_time": 1700177366,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210269,
+      "num": 210269,
+      "word": "ChatGPT可视化了我的梦境",
+      "onboard_time": 1700200232,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 208269,
+      "num": 208269,
+      "word": "ENHYPEN回归新曲",
+      "onboard_time": 1700200893,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 207176,
@@ -817,14 +873,6 @@
       "onboard_time": 1700180675,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190877,
-      "num": 190877,
-      "word": "早期肺癌有多隐匿",
-      "onboard_time": 1700198794,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 189633,
@@ -923,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182869,
+      "num": 182869,
+      "word": "一场宁安梦却无一处安宁",
+      "onboard_time": 1700199994,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181323,
       "num": 378927,
       "word": "这届打工人流行上夜校",
@@ -945,6 +1001,22 @@
       "onboard_time": 1700198374,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178352,
+      "num": 178352,
+      "word": "宋亚轩陶喆王牌弹唱普通朋友",
+      "onboard_time": 1700201974,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176427,
+      "num": 176427,
+      "word": "入华15年米其林依旧是外宾",
+      "onboard_time": 1700202094,
+      "rank": 40,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 175667,
@@ -1000,6 +1072,14 @@
       "word": "张遮被撩心慌了",
       "onboard_time": 1700193516,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163410,
+      "num": 163410,
+      "word": "鞠婧祎千香开机路透",
+      "onboard_time": 1700199577,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1113,6 +1193,14 @@
       "onboard_time": 1700184996,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141814,
+      "num": 141814,
+      "word": "假如谢危也重生",
+      "onboard_time": 1700201974,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 141337,
@@ -1571,6 +1659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39479,
+      "num": 277541,
+      "word": "混动能否开启下一个新能源时代",
+      "onboard_time": 1700200177,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37029,
       "num": 717577,
       "word": "打造合作共赢的开放型亚太经济",
@@ -1607,6 +1703,14 @@
       "num": 138306,
       "word": "稳定中美关系如何从旧金山再出发",
       "onboard_time": 1700138918,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20906,
+      "num": 622913,
+      "word": "可持续发展是解决当前全球性问题的金钥匙",
+      "onboard_time": 1700186795,
       "rank": 2,
       "category": "国内时政"
     },
