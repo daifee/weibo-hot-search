@@ -1,0 +1,410 @@
+{
+  "runTime": 1700225404356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 953415,
+        "num": 953415,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389337,
+        "num": 389337,
+        "word": "国务院安委会挂牌督办吕梁火灾事故",
+        "onboard_time": 1700221175,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56431,
+        "num": 388782,
+        "word": "2023年电影总票房突破500亿元",
+        "onboard_time": 1700208513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560915,
+        "num": 386797,
+        "word": "成龙是龙皮 娜扎是扎啤",
+        "onboard_time": 1700220451,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556908,
+        "num": 383733,
+        "word": "五月天感谢马思纯绿色出行去看演唱会",
+        "onboard_time": 1700222913,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 462044,
+        "num": 381758,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 425711,
+        "num": 379223,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 6,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 378731,
+        "num": 378731,
+        "word": "陶勇感谢杨幂支持视障人群",
+        "onboard_time": 1700219610,
+        "rank": 7,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 378101,
+        "num": 378101,
+        "word": "鹿晗 客服小张新歌听起来",
+        "onboard_time": 1700222013,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326378,
+        "num": 326378,
+        "word": "肺炎支原体感染愈后多吃白色食物",
+        "onboard_time": 1700216315,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1044711,
+        "num": 320517,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 981040,
+        "num": 312610,
+        "word": "普男爆改张元英",
+        "onboard_time": 1700221112,
+        "rank": 11,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 476140,
+        "num": 296553,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386508,
+        "num": 285829,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 13,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 280168,
+        "num": 280168,
+        "word": "外面的咖啡已经进化成这样了",
+        "onboard_time": 1700219793,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417307,
+        "num": 267327,
+        "word": "土屋太凤产子后首亮相",
+        "onboard_time": 1700223753,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342241,
+        "num": 262263,
+        "word": "刘亦菲张靓颖周深于适同框",
+        "onboard_time": 1700221354,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245780,
+        "num": 245780,
+        "word": "Deft推迟入伍时间到2025",
+        "onboard_time": 1700224954,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199282,
+        "num": 245673,
+        "word": "鲁J1533警你做得好事藏不住了",
+        "onboard_time": 1700218233,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187679,
+        "num": 244753,
+        "word": "决战考研",
+        "onboard_time": 1700220393,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311258,
+        "num": 243995,
+        "word": "小S和Melody同框 像看了半集康熙",
+        "onboard_time": 1700211694,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301375,
+        "num": 243903,
+        "word": "她谈案件他谈暗恋",
+        "onboard_time": 1700223153,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207466,
+        "num": 242902,
+        "word": "王自如 媚上表达",
+        "onboard_time": 1700220333,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198956,
+        "num": 242273,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189347,
+        "num": 241973,
+        "word": "广州车展",
+        "onboard_time": 1700224355,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 241499,
+        "num": 241499,
+        "word": "蒲熠星 跟大家分享一件失败的事情",
+        "onboard_time": 1700213253,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235337,
+        "num": 235337,
+        "word": "奔跑吧",
+        "onboard_time": 1700224896,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232390,
+        "num": 232390,
+        "word": "甄嬛传的风早就吹到全球了",
+        "onboard_time": 1700222432,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97146,
+        "num": 231222,
+        "word": "狮子座流星雨",
+        "onboard_time": 1700223275,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73557,
+        "num": 230983,
+        "word": "17岁少年照顾脑瘫同学近5年",
+        "onboard_time": 1700214633,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230924,
+        "num": 230924,
+        "word": "五月天 现场",
+        "onboard_time": 1700220991,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217990,
+        "num": 217990,
+        "word": "琉璃主动踮脚吻",
+        "onboard_time": 1700223634,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205785,
+        "num": 205785,
+        "word": "原来辛芷蕾私底下这么温柔",
+        "onboard_time": 1700224954,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205519,
+        "num": 205519,
+        "word": "张云雷直播",
+        "onboard_time": 1700224475,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151298,
+        "num": 204260,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203468,
+        "num": 203468,
+        "word": "阿信 在最大的体育场搭最大的梦",
+        "onboard_time": 1700223334,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200263,
+        "num": 200263,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142368,
+        "num": 198687,
+        "word": "一千只螃蟹堆成的山",
+        "onboard_time": 1700224830,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139050,
+        "num": 198286,
+        "word": "火锅浮沫到底是精华还是脏东西",
+        "onboard_time": 1700223090,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58944,
+        "num": 198089,
+        "word": "49岁环卫大姐与国外友人交流无障碍",
+        "onboard_time": 1700214633,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198036,
+        "num": 198036,
+        "word": "花少5 花学分析众生相",
+        "onboard_time": 1700223576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192179,
+        "num": 192179,
+        "word": "张遮断腿了",
+        "onboard_time": 1700215533,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175983,
+        "num": 175983,
+        "word": "王牌对王牌",
+        "onboard_time": 1700219793,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159746,
+        "num": 159746,
+        "word": "女团下一步可以找厂子上班",
+        "onboard_time": 1700222913,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155295,
+        "num": 155295,
+        "word": "檀健次浴缸背影照",
+        "onboard_time": 1700221653,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129963,
+        "num": 154997,
+        "word": "HLE与Viper续约",
+        "onboard_time": 1700219313,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112549,
+        "num": 151558,
+        "word": "把力量借给WBG",
+        "onboard_time": 1700220991,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110456,
+        "num": 150973,
+        "word": "川菜成为全国第一大菜系",
+        "onboard_time": 1700216194,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55980,
+        "num": 148613,
+        "word": "中日关系正处于承前启后的关键时期",
+        "onboard_time": 1700213672,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52735,
+        "num": 145857,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向APEC工商领导人峰会发表书面演讲#"
+    }
+  }
+}

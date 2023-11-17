@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700224415817,
+  "endTime": 1700225404356,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -1267,6 +1267,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 1044711,
+      "num": 356772,
+      "word": "歌手KAN去世",
+      "onboard_time": 1700223513,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1042815,
       "num": 1042815,
       "word": "网友称应聘蜜雪冰城被嫌26岁太大",
@@ -1403,6 +1411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 981040,
+      "num": 371464,
+      "word": "普男爆改张元英",
+      "onboard_time": 1700221112,
+      "rank": 10,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 980635,
       "num": 730995,
       "word": "燕临 我哭死",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1699929333,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 953415,
+      "num": 953415,
+      "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+      "onboard_time": 1700216855,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 951432,
@@ -1544,14 +1568,6 @@
       "word": "中美各自的成功是彼此的机遇",
       "onboard_time": 1700088319,
       "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 903743,
-      "num": 892930,
-      "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
-      "onboard_time": 1700216855,
-      "rank": 12,
       "category": "国内时政"
     },
     {
@@ -1713,14 +1729,6 @@
       "onboard_time": 1699935817,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 861909,
-      "num": 371464,
-      "word": "普男爆改张元英",
-      "onboard_time": 1700221112,
-      "rank": 10,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 861850,
@@ -2844,7 +2852,7 @@
     },
     {
       "raw_hot": 628481,
-      "num": 366193,
+      "num": 383733,
       "word": "五月天感谢马思纯绿色出行去看演唱会",
       "onboard_time": 1700222913,
       "rank": 11,
@@ -2961,14 +2969,6 @@
       "onboard_time": 1699942473,
       "rank": 18,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 609931,
-      "num": 356772,
-      "word": "歌手KAN去世",
-      "onboard_time": 1700223513,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 609647,
@@ -3995,6 +3995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476140,
+      "num": 296553,
+      "word": "沈梦辰 我没有引以为傲的作品",
+      "onboard_time": 1700224054,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476026,
       "num": 476026,
       "word": "女生皮肤超好的总结",
@@ -4665,6 +4673,14 @@
       "onboard_time": 1699830982,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 417307,
+      "num": 308247,
+      "word": "土屋太凤产子后首亮相",
+      "onboard_time": 1700223753,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 416716,
@@ -6235,14 +6251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308247,
-      "num": 308247,
-      "word": "土屋太凤产子后首亮相",
-      "onboard_time": 1700223753,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307945,
       "num": 307945,
       "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
@@ -6425,6 +6433,14 @@
       "onboard_time": 1700063253,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301375,
+      "num": 259253,
+      "word": "她谈案件他谈暗恋",
+      "onboard_time": 1700223153,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 301227,
@@ -6931,6 +6947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280168,
+      "num": 342875,
+      "word": "外面的咖啡已经进化成这样了",
+      "onboard_time": 1700219793,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279775,
       "num": 226701,
       "word": "花儿与少年 我们没有钱",
@@ -7379,14 +7403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262477,
-      "num": 342875,
-      "word": "外面的咖啡已经进化成这样了",
-      "onboard_time": 1700219793,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 261818,
       "num": 261818,
       "word": "香港迪士尼官宣开启冰雪奇缘园区",
@@ -7496,14 +7512,6 @@
       "word": "佘诗曼马国明回应TVB20年还是这些人扛剧",
       "onboard_time": 1700140839,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 259253,
-      "num": 259253,
-      "word": "她谈案件他谈暗恋",
-      "onboard_time": 1700223153,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -7923,6 +7931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 245780,
+      "num": 245780,
+      "word": "Deft推迟入伍时间到2025",
+      "onboard_time": 1700224954,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 245726,
       "num": 206909,
       "word": "陈楚生蔡国庆 友谊才刚开始",
@@ -8227,6 +8243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235337,
+      "num": 235337,
+      "word": "奔跑吧",
+      "onboard_time": 1700224896,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235217,
       "num": 235217,
       "word": "父母为出生仅550克的宝宝取名小强",
@@ -8297,6 +8321,14 @@
       "onboard_time": 1700193216,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232390,
+      "num": 232390,
+      "word": "甄嬛传的风早就吹到全球了",
+      "onboard_time": 1700222432,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231998,
@@ -8875,6 +8907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217990,
+      "num": 217990,
+      "word": "琉璃主动踮脚吻",
+      "onboard_time": 1700223634,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217961,
       "num": 217961,
       "word": "周迅工牌",
@@ -8921,14 +8961,6 @@
       "onboard_time": 1699802737,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216841,
-      "num": 216841,
-      "word": "甄嬛传的风早就吹到全球了",
-      "onboard_time": 1700222432,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216667,
@@ -9104,14 +9136,6 @@
       "word": "花少5 花学分析众生相",
       "onboard_time": 1700223576,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 212956,
-      "num": 212956,
-      "word": "沈梦辰 我没有引以为傲的作品",
-      "onboard_time": 1700224054,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -9323,14 +9347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208892,
-      "num": 204785,
-      "word": "琉璃主动踮脚吻",
-      "onboard_time": 1700223634,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "医生建议支原体肺炎护理要补充电解质",
@@ -9385,6 +9401,14 @@
       "onboard_time": 1699973676,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207466,
+      "num": 259350,
+      "word": "王自如 媚上表达",
+      "onboard_time": 1700220333,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 207387,
@@ -9475,12 +9499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205785,
+      "num": 205785,
+      "word": "原来辛芷蕾私底下这么温柔",
+      "onboard_time": 1700224954,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205774,
       "num": 277749,
       "word": "罗云熙汴京贵公子",
       "onboard_time": 1700018071,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205519,
+      "num": 205519,
+      "word": "张云雷直播",
+      "onboard_time": 1700224475,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 205377,
@@ -9579,8 +9619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203361,
-      "num": 203361,
+      "raw_hot": 203468,
+      "num": 203468,
       "word": "阿信 在最大的体育场搭最大的梦",
       "onboard_time": 1700223334,
       "rank": 38,
@@ -9787,6 +9827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "主播女孩重度依赖编剧在浦东机场走丢",
+      "onboard_time": 1700225312,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199825,
       "num": 199825,
       "word": "来报恩的草莓蛋糕",
@@ -9849,6 +9897,14 @@
       "onboard_time": 1699942773,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198956,
+      "num": 259298,
+      "word": "双子座真的很难自愈",
+      "onboard_time": 1700221175,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 198945,
@@ -10307,14 +10363,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191405,
-      "num": 259350,
-      "word": "王自如 媚上表达",
-      "onboard_time": 1700220333,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 191095,
       "num": 191095,
       "word": "陈坤吴磊新片入型入格杀青",
@@ -10425,6 +10473,14 @@
       "onboard_time": 1699922312,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189347,
+      "num": 241973,
+      "word": "广州车展",
+      "onboard_time": 1700224355,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 189162,
@@ -10555,6 +10611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187679,
+      "num": 308645,
+      "word": "决战考研",
+      "onboard_time": 1700220393,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187595,
       "num": 187595,
       "word": "骑士双杀勇士",
@@ -10609,14 +10673,6 @@
       "onboard_time": 1699863093,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186760,
-      "num": 259298,
-      "word": "双子座真的很难自愈",
-      "onboard_time": 1700221175,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 186613,
@@ -12619,14 +12675,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 151824,
-      "num": 308645,
-      "word": "决战考研",
-      "onboard_time": 1700220393,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 151745,
       "num": 151745,
       "word": "再见爱人",
@@ -13155,6 +13203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142368,
+      "num": 198687,
+      "word": "一千只螃蟹堆成的山",
+      "onboard_time": 1700224830,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142220,
       "num": 142220,
       "word": "冰岛近期或有较大规模地震和火山喷发",
@@ -13355,6 +13411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139050,
+      "num": 203321,
+      "word": "火锅浮沫到底是精华还是脏东西",
+      "onboard_time": 1700223090,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139031,
       "num": 139031,
       "word": "国产剧 配平文学",
@@ -13433,14 +13497,6 @@
       "onboard_time": 1699957412,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136830,
-      "num": 203321,
-      "word": "火锅浮沫到底是精华还是脏东西",
-      "onboard_time": 1700223090,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 136822,
@@ -14835,6 +14891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112549,
+      "num": 203275,
+      "word": "把力量借给WBG",
+      "onboard_time": 1700220991,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111776,
       "num": 111776,
       "word": "麦当劳猫包",
@@ -14873,14 +14937,6 @@
       "onboard_time": 1699867353,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110753,
-      "num": 203275,
-      "word": "把力量借给WBG",
-      "onboard_time": 1700220991,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 110642,
@@ -15123,14 +15179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103847,
-      "num": 203220,
-      "word": "广州车展",
-      "onboard_time": 1700224355,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 103685,
       "num": 103685,
       "word": "原来妈妈三十年前就穿衣自由",
@@ -15331,6 +15379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97146,
+      "num": 231222,
+      "word": "狮子座流星雨",
+      "onboard_time": 1700223275,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97045,
       "num": 97045,
       "word": "9岁摄影师拍的成毅",
@@ -15441,14 +15497,6 @@
       "onboard_time": 1699768351,
       "rank": 47,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 89788,
-      "num": 217206,
-      "word": "狮子座流星雨",
-      "onboard_time": 1700223275,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89649,
@@ -15937,6 +15985,14 @@
       "onboard_time": 1699707753,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52735,
+      "num": 145857,
+      "word": "全班同学为即将休产假老师准备惊喜",
+      "onboard_time": 1700225253,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 52438,

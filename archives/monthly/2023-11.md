@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 20:33:35
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 20:50:04
 </p>
 </blockquote>
 <p>
@@ -3171,6 +3171,12 @@ WBG晋级S13四强（热度：1045519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8BKAN%E5%8E%BB%E4%B8%96%23" target="weibo">
+歌手KAN去世（热度：1044711）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%BA%94%E8%81%98%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E5%AB%8C26%E5%B2%81%E5%A4%AA%E5%A4%A7%23" target="weibo">
 网友称应聘蜜雪冰城被嫌26岁太大（热度：1042815）
 </a>
@@ -3477,6 +3483,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E7%94%B7%E7%88%86%E6%94%B9%E5%BC%A0%E5%85%83%E8%8B%B1%23" target="weibo">
+普男爆改张元英（热度：981040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E4%B8%B4%20%E6%88%91%E5%93%AD%E6%AD%BB%23" target="weibo">
 燕临 我哭死（热度：980635）
 </a>
@@ -3581,6 +3593,12 @@ LNG对战T1 比分预测（热度：958227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%91%A8%E6%9C%9F%E7%9F%AD%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%E5%90%97%23" target="weibo">
 月经周期短会有什么影响吗（热度：954845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B2%B8%E7%94%B0%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E5%81%9C%E6%AD%A2%E4%BB%8E%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E6%8E%AA%E6%96%BD%23" target="weibo">
+外交部回应岸田希望中国取消停止从日进口食品措施（热度：953415）
 </a>
 </li>
 
@@ -3761,12 +3779,6 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%8D%E6%AC%A1%E4%BA%A4%E7%81%AB%23" target="weibo">
 印度和巴基斯坦再次交火（热度：912200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B2%B8%E7%94%B0%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E5%81%9C%E6%AD%A2%E4%BB%8E%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E6%8E%AA%E6%96%BD%23" target="weibo">
-外交部回应岸田希望中国取消停止从日进口食品措施（热度：903743）
 </a>
 </li>
 
@@ -4037,12 +4049,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%A4%A7%E8%BF%9E%E9%AC%BC%E7%A7%A4%E7%A0%B4%E8%A7%A3%E5%AE%9E%E9%94%A4%23" target="weibo">
 B太大连鬼秤破解实锤（热度：862350）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E7%94%B7%E7%88%86%E6%94%B9%E5%BC%A0%E5%85%83%E8%8B%B1%23" target="weibo">
-普男爆改张元英（热度：861909）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Kanavi在干嘛（热度：674777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Tarzan%E5%90%91%E9%98%9F%E5%8F%8B%E9%81%93%E6%AD%89%23" target="weibo">
 Tarzan向队友道歉（热度：665891）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E6%84%88%E5%90%8E%E5%A4%9A%E5%90%83%E7%99%BD%E8%89%B2%E9%A3%9F%E7%89%A9%23" target="weibo">
-肺炎支原体感染愈后多吃白色食物（热度：665599）
 </a>
 </li>
 
