@@ -1,0 +1,410 @@
+{
+  "runTime": 1700245374016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 104266,
+        "num": 179654,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50162,
+        "num": 174191,
+        "word": "老人不会线上支付用现金给孙子交生活费",
+        "onboard_time": 1700231735,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5954,
+        "num": 160294,
+        "word": "神十七乘组拍的蔚蓝地球",
+        "onboard_time": 1700207314,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508431,
+        "num": 151203,
+        "word": "羽生结弦离婚原因",
+        "onboard_time": 1700234564,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 393894,
+        "num": 144418,
+        "word": "佘诗曼 给内娱一些女王震撼",
+        "onboard_time": 1700239647,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134464,
+        "num": 134464,
+        "word": "五月天舞台 提词器",
+        "onboard_time": 1700237612,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98449,
+        "num": 98449,
+        "word": "刘亦菲 油画公主",
+        "onboard_time": 1700229996,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75495,
+        "num": 75495,
+        "word": "罗英子被抓",
+        "onboard_time": 1700230114,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69959,
+        "num": 75479,
+        "word": "王星越孔雪儿再现为有暗香来片段",
+        "onboard_time": 1700236176,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56046,
+        "num": 75461,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193330,
+        "num": 75445,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184295,
+        "num": 75418,
+        "word": "全职太太建议别做全职太太",
+        "onboard_time": 1700236176,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109047,
+        "num": 75387,
+        "word": "羽生结弦结婚时间",
+        "onboard_time": 1700235521,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 84549,
+        "num": 75371,
+        "word": "4名缅北电诈头目为何2人户籍地在云南",
+        "onboard_time": 1700228677,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75364,
+        "num": 75364,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87139,
+        "num": 73865,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 70634,
+        "num": 70634,
+        "word": "王安宇的镜头好有故事感",
+        "onboard_time": 1700241263,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68506,
+        "num": 68506,
+        "word": "马云办公室回应减持阿里",
+        "onboard_time": 1700236414,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61384,
+        "num": 61384,
+        "word": "周雨彤去看五月天演唱会了",
+        "onboard_time": 1700240306,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61319,
+        "num": 61319,
+        "word": "刘雅瑟 这是我演过最美的角色",
+        "onboard_time": 1700236893,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97192,
+        "num": 61211,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74470,
+        "num": 58885,
+        "word": "妈妈经常私拆快递26岁女儿崩溃",
+        "onboard_time": 1700228196,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55615,
+        "num": 55615,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 50920,
+        "num": 50920,
+        "word": "奚梦瑶教何猷君人情世故",
+        "onboard_time": 1700233415,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49349,
+        "num": 49349,
+        "word": "高校评分",
+        "onboard_time": 1700235341,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47555,
+        "num": 49346,
+        "word": "故意猜低工资结果比猜的还少",
+        "onboard_time": 1700236176,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45687,
+        "num": 49341,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44747,
+        "num": 49337,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 27,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 43577,
+        "num": 49333,
+        "word": "当老外第一次吃螺蛳粉",
+        "onboard_time": 1700227534,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29204,
+        "num": 49327,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41223,
+        "num": 49323,
+        "word": "龚俊剧里是怎么忍住不摸的",
+        "onboard_time": 1700229035,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40829,
+        "num": 49314,
+        "word": "白敬亭顺毛",
+        "onboard_time": 1700225795,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 39274,
+        "num": 49312,
+        "word": "普男爆改张元英",
+        "onboard_time": 1700221112,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 36005,
+        "num": 49305,
+        "word": "一到冬天为什么中西医都建议吃羊肉",
+        "onboard_time": 1700236414,
+        "rank": 33,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 35824,
+        "num": 49301,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 35546,
+        "num": 49298,
+        "word": "小马驹被卖母马追出几里地",
+        "onboard_time": 1700238210,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33652,
+        "num": 49293,
+        "word": "有狐被禁言",
+        "onboard_time": 1700229454,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32781,
+        "num": 49290,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32599,
+        "num": 49282,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30497,
+        "num": 49278,
+        "word": "佘诗曼要不你们还是用粤语聊吧",
+        "onboard_time": 1700228677,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30023,
+        "num": 49275,
+        "word": "张遮 面包哥",
+        "onboard_time": 1700231677,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29702,
+        "num": 49270,
+        "word": "马斯克APEC演讲被取消",
+        "onboard_time": 1700228973,
+        "rank": 41,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 28878,
+        "num": 49262,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27598,
+        "num": 49257,
+        "word": "防弹少年团抛售HYBE股份",
+        "onboard_time": 1700226393,
+        "rank": 43,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 26367,
+        "num": 49252,
+        "word": "李庚希黑长直",
+        "onboard_time": 1700231856,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25320,
+        "num": 49251,
+        "word": "外面的咖啡已经进化成这样了",
+        "onboard_time": 1700219793,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24973,
+        "num": 49243,
+        "word": "关晓彤觉得张真源适合当王牌游戏组导演",
+        "onboard_time": 1700234025,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23957,
+        "num": 49237,
+        "word": "安陵容的那句精疲力尽真实含义",
+        "onboard_time": 1700233116,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24386,
+        "num": 49233,
+        "word": "刘耀文严浩翔不管抢没抢到直接开唱",
+        "onboard_time": 1700234323,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23923,
+        "num": 49230,
+        "word": "宁安如梦的疯吹到大学宿舍",
+        "onboard_time": 1700225494,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见岸田文雄#"
+    }
+  }
+}
