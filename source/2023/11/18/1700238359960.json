@@ -1,0 +1,410 @@
+{
+  "runTime": 1700238359960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 400112,
+        "num": 711168,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329283,
+        "num": 594023,
+        "word": "老人不会线上支付用现金给孙子交生活费",
+        "onboard_time": 1700231735,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15058,
+        "num": 583030,
+        "word": "神十七乘组拍的蔚蓝地球",
+        "onboard_time": 1700207314,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2838920,
+        "num": 581941,
+        "word": "羽生结弦离婚原因",
+        "onboard_time": 1700234564,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 580641,
+        "num": 580641,
+        "word": "奚梦瑶教何猷君人情世故",
+        "onboard_time": 1700233415,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512002,
+        "num": 512002,
+        "word": "刘亦菲 油画公主",
+        "onboard_time": 1700229996,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429999,
+        "num": 429999,
+        "word": "罗英子被抓",
+        "onboard_time": 1700230114,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365690,
+        "num": 365690,
+        "word": "王星越孔雪儿再现为有暗香来片段",
+        "onboard_time": 1700236176,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282735,
+        "num": 282735,
+        "word": "刘雅瑟 这是我演过最美的角色",
+        "onboard_time": 1700236893,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171958,
+        "num": 279969,
+        "word": "当老外第一次吃螺蛳粉",
+        "onboard_time": 1700227534,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 974272,
+        "num": 278764,
+        "word": "羽生结弦结婚时间",
+        "onboard_time": 1700235521,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 674274,
+        "num": 272660,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616764,
+        "num": 271274,
+        "word": "全职太太建议别做全职太太",
+        "onboard_time": 1700236176,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 822653,
+        "num": 268416,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 13,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 576519,
+        "num": 262090,
+        "word": "马云办公室回应减持阿里",
+        "onboard_time": 1700236414,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445791,
+        "num": 259095,
+        "word": "高校评分",
+        "onboard_time": 1700235341,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258464,
+        "num": 258464,
+        "word": "五月天感谢马思纯绿色出行去看演唱会",
+        "onboard_time": 1700222913,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279310,
+        "num": 253851,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245163,
+        "num": 245163,
+        "word": "五月天舞台 提词器",
+        "onboard_time": 1700237612,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243578,
+        "num": 243578,
+        "word": "4名缅北电诈头目为何2人户籍地在云南",
+        "onboard_time": 1700228677,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239276,
+        "num": 239276,
+        "word": "妈妈经常私拆快递26岁女儿崩溃",
+        "onboard_time": 1700228196,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224225,
+        "num": 224225,
+        "word": "白敬亭顺毛",
+        "onboard_time": 1700225795,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 209877,
+        "num": 209877,
+        "word": "故意猜低工资结果比猜的还少",
+        "onboard_time": 1700236176,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208499,
+        "num": 208499,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 23,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 204103,
+        "num": 204103,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 24,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 194195,
+        "num": 194195,
+        "word": "张遮 面包哥",
+        "onboard_time": 1700231677,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157152,
+        "num": 157152,
+        "word": "关晓彤觉得张真源适合当王牌游戏组导演",
+        "onboard_time": 1700234025,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151336,
+        "num": 151336,
+        "word": "有狐被禁言",
+        "onboard_time": 1700229454,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79507,
+        "num": 149744,
+        "word": "马斯克APEC演讲被取消",
+        "onboard_time": 1700228973,
+        "rank": 28,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 62750,
+        "num": 149562,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149553,
+        "num": 149553,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145110,
+        "num": 145110,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141945,
+        "num": 141945,
+        "word": "刘耀文严浩翔不管抢没抢到直接开唱",
+        "onboard_time": 1700234323,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138197,
+        "num": 138197,
+        "word": "李庚希黑长直",
+        "onboard_time": 1700231856,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135429,
+        "num": 135429,
+        "word": "普男爆改张元英",
+        "onboard_time": 1700221112,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 133496,
+        "num": 133496,
+        "word": "RedVelvet音银新歌初舞台",
+        "onboard_time": 1700236235,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132112,
+        "num": 132112,
+        "word": "龚俊剧里是怎么忍住不摸的",
+        "onboard_time": 1700229035,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127548,
+        "num": 127548,
+        "word": "佘诗曼要不你们还是用粤语聊吧",
+        "onboard_time": 1700228677,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117886,
+        "num": 117886,
+        "word": "马云坚定看好阿里",
+        "onboard_time": 1700236414,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116786,
+        "num": 116786,
+        "word": "涂山璟 古诗词押韵教学",
+        "onboard_time": 1700237194,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 116120,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112517,
+        "num": 112517,
+        "word": "一到冬天为什么中西医都建议吃羊肉",
+        "onboard_time": 1700236414,
+        "rank": 41,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 111101,
+        "num": 111101,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 110018,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 103009,
+        "num": 103009,
+        "word": "安陵容的那句精疲力尽真实含义",
+        "onboard_time": 1700233116,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "丁程鑫给宋亚轩递伞",
+        "onboard_time": 1700233550,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87818,
+        "num": 87818,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80950,
+        "num": 87813,
+        "word": "鹿晗 客服小张新歌听起来",
+        "onboard_time": 1700222013,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73583,
+        "num": 87695,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55221,
+        "num": 87675,
+        "word": "小马驹被卖母马追出几里地",
+        "onboard_time": 1700238210,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斐济总理兰布卡#"
+    }
+  }
+}
