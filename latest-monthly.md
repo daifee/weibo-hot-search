@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 00:41:50
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 01:16:28
 </p>
 </blockquote>
 <p>
@@ -6341,6 +6341,12 @@ Kanavi在干嘛（热度：674777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%9C%A8%E6%BC%94%E8%AE%B2%E4%B8%AD%E8%AE%B2%E4%BA%86%E5%85%AD%E4%B8%AA%E6%95%85%E4%BA%8B%23%23" target="weibo">
 #习主席在演讲中讲了六个故事#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%BA%E5%85%A8%E7%90%83%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E4%BA%8B%E4%B8%9A%E6%B3%A8%E5%85%A5%E6%9B%B4%E5%A4%A7%E5%8A%A8%E5%8A%9B%23%23" target="weibo">
+#为全球可持续发展事业注入更大动力#
 </a>
 </li>
 
