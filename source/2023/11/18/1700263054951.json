@@ -1,0 +1,410 @@
+{
+  "runTime": 1700263054951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 200858,
+        "num": 328479,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181251,
+        "num": 181251,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22284,
+        "num": 176032,
+        "word": "亚太合作新的时代之问",
+        "onboard_time": 1700254874,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1080921,
+        "num": 171204,
+        "word": "羽生结弦离婚原因",
+        "onboard_time": 1700234564,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 384878,
+        "num": 167326,
+        "word": "佘诗曼 给内娱一些女王震撼",
+        "onboard_time": 1700239647,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305649,
+        "num": 161249,
+        "word": "80后首富或为山东39岁的他",
+        "onboard_time": 1700257574,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155808,
+        "num": 155808,
+        "word": "五月天嘉宾 14号观众",
+        "onboard_time": 1700262019,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141440,
+        "num": 141440,
+        "word": "一到冬天为什么中西医都建议吃羊肉",
+        "onboard_time": 1700236414,
+        "rank": 7,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 140759,
+        "num": 140759,
+        "word": "缅北电诈集团首犯明学昌畏罪自杀",
+        "onboard_time": 1700261899,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123471,
+        "num": 123471,
+        "word": "刘亦菲 油画公主",
+        "onboard_time": 1700229996,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345934,
+        "num": 122872,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268687,
+        "num": 122374,
+        "word": "4名缅北电诈头目为何2人户籍地在云南",
+        "onboard_time": 1700228677,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259515,
+        "num": 120922,
+        "word": "全职太太建议别做全职太太",
+        "onboard_time": 1700236176,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190141,
+        "num": 119490,
+        "word": "临沧分拣中心",
+        "onboard_time": 1700253015,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182139,
+        "num": 118397,
+        "word": "刘亦菲看到胡军的表情",
+        "onboard_time": 1700246596,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 162938,
+        "num": 117571,
+        "word": "羽生结弦结婚时间",
+        "onboard_time": 1700235521,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 117348,
+        "num": 117348,
+        "word": "奚梦瑶教何猷君人情世故",
+        "onboard_time": 1700233415,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105850,
+        "num": 105850,
+        "word": "马云办公室回应减持阿里",
+        "onboard_time": 1700236414,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105415,
+        "num": 105415,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 79402,
+        "num": 79402,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153039,
+        "num": 79118,
+        "word": "妈妈经常私拆快递26岁女儿崩溃",
+        "onboard_time": 1700228196,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77398,
+        "num": 77398,
+        "word": "五月天舞台 提词器",
+        "onboard_time": 1700237612,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72528,
+        "num": 72528,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 72390,
+        "num": 72390,
+        "word": "龚俊剧里是怎么忍住不摸的",
+        "onboard_time": 1700229035,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66972,
+        "num": 66972,
+        "word": "吴彦姝说张桂梅的事迹应该让很多人看到",
+        "onboard_time": 1700261959,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65001,
+        "num": 65001,
+        "word": "小马驹被卖母马追出几里地",
+        "onboard_time": 1700238210,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64430,
+        "num": 64430,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59801,
+        "num": 59801,
+        "word": "动物园里多了一只冻脚的傻鸟",
+        "onboard_time": 1700262802,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56917,
+        "num": 56917,
+        "word": "张遮看到姜雪宁被烫的反应",
+        "onboard_time": 1700251454,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56023,
+        "num": 56023,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 29,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 55022,
+        "num": 55022,
+        "word": "故意猜低工资结果比猜的还少",
+        "onboard_time": 1700236176,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51355,
+        "num": 55021,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 31,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 47146,
+        "num": 55020,
+        "word": "王栎鑫 谁比谁差",
+        "onboard_time": 1700255533,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44488,
+        "num": 55020,
+        "word": "方便面到底是不是垃圾食品",
+        "onboard_time": 1700262802,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42972,
+        "num": 55019,
+        "word": "白敬亭顺毛",
+        "onboard_time": 1700225795,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 42140,
+        "num": 55018,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41731,
+        "num": 55017,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40056,
+        "num": 55015,
+        "word": "关晓彤觉得张真源适合当王牌游戏组导演",
+        "onboard_time": 1700234025,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38603,
+        "num": 55015,
+        "word": "马斯克APEC演讲被取消",
+        "onboard_time": 1700228973,
+        "rank": 38,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 37995,
+        "num": 55014,
+        "word": "刘雅瑟 这是我演过最美的角色",
+        "onboard_time": 1700236893,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37670,
+        "num": 55013,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37660,
+        "num": 55011,
+        "word": "张遮 面包哥",
+        "onboard_time": 1700231677,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34544,
+        "num": 55011,
+        "word": "李庚希黑长直",
+        "onboard_time": 1700231856,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34176,
+        "num": 55009,
+        "word": "罗英子被抓",
+        "onboard_time": 1700230114,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32769,
+        "num": 55008,
+        "word": "坚守初心团结合作携手共促亚太高质量增长",
+        "onboard_time": 1700262862,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31875,
+        "num": 55007,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31379,
+        "num": 55006,
+        "word": "有狐被禁言",
+        "onboard_time": 1700229454,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30389,
+        "num": 55005,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29891,
+        "num": 55005,
+        "word": "王星越孔雪儿再现为有暗香来片段",
+        "onboard_time": 1700236176,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28375,
+        "num": 55005,
+        "word": "许凯一场戏亲了两个人",
+        "onboard_time": 1700248634,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席APEC领导人非正式会议#"
+    }
+  }
+}
