@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700195744589,
+  "endTime": 1700198235677,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3507,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1176511,
+      "num": 690871,
+      "word": "女子裸辞做旅行博主投入几十万零收入",
+      "onboard_time": 1700193875,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1176302,
       "num": 1176302,
       "word": "电影二十二片中老人已全部去世",
@@ -4744,14 +4752,6 @@
       "word": "消费降级",
       "onboard_time": 1699847013,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 944396,
-      "num": 690871,
-      "word": "女子裸辞做旅行博主投入几十万零收入",
-      "onboard_time": 1700193875,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5993,6 +5993,14 @@
       "onboard_time": 1699236812,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 805074,
+      "num": 469336,
+      "word": "Lia将缺席ITZY回归与巡演",
+      "onboard_time": 1700196700,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 804494,
@@ -8963,6 +8971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 602034,
+      "num": 565129,
+      "word": "cp30",
+      "onboard_time": 1700182837,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 601998,
       "num": 601998,
       "word": "时代少年团新歌的制作人是小鬼",
@@ -8993,6 +9009,14 @@
       "onboard_time": 1699344933,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599712,
+      "num": 439935,
+      "word": "中央电视台电视剧频道宣传片",
+      "onboard_time": 1700195138,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 599635,
@@ -9387,6 +9411,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 574892,
+      "num": 421837,
+      "word": "24岁女孩肝癌晚期医护提前为其过生日",
+      "onboard_time": 1700196821,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574578,
       "num": 574578,
       "word": "网红低价叫卖学习机实际贵1700元",
@@ -9475,6 +9507,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 570638,
+      "num": 352969,
+      "word": "医生举报科室为拿回扣用价格40倍注射液",
+      "onboard_time": 1700195319,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570626,
       "num": 570626,
       "word": "装修才是当代年轻人最好的医丑",
@@ -9489,6 +9529,14 @@
       "onboard_time": 1699456014,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569983,
+      "num": 438113,
+      "word": "cp最早是复旦大学办的",
+      "onboard_time": 1700195380,
+      "rank": 15,
+      "category": "动漫"
     },
     {
       "raw_hot": 569914,
@@ -9584,14 +9632,6 @@
       "word": "天官赐福花城穿了光腿神器",
       "onboard_time": 1698900938,
       "rank": 15,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 565129,
-      "num": 565129,
-      "word": "cp30",
-      "onboard_time": 1700182837,
-      "rank": 21,
       "category": "动漫"
     },
     {
@@ -12761,14 +12801,6 @@
       "onboard_time": 1699002153,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 438113,
-      "num": 438113,
-      "word": "cp最早是复旦大学办的",
-      "onboard_time": 1700195380,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 437739,
@@ -16427,6 +16459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 349755,
+      "num": 334559,
+      "word": "洗完澡后不要立即化妆",
+      "onboard_time": 1700195619,
+      "rank": 20,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 349727,
       "num": 349727,
       "word": "匪我思存 说灭男主全族就灭男主全族",
@@ -16995,6 +17035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336768,
+      "num": 336768,
+      "word": "冬泳怪鸽",
+      "onboard_time": 1700197601,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 336653,
       "num": 336653,
       "word": "李善均毛发检测阴性",
@@ -17211,6 +17259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332414,
+      "num": 332414,
+      "word": "光与夜之恋 缺牙巴宝宝",
+      "onboard_time": 1700195198,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332273,
       "num": 332273,
       "word": "成毅微博转评赞破10亿",
@@ -17393,6 +17449,14 @@
       "onboard_time": 1698905072,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329334,
+      "num": 329334,
+      "word": "李一桐冷脸千金妆",
+      "onboard_time": 1700196999,
+      "rank": 22,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 329304,
@@ -18803,14 +18867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 301965,
-      "num": 301965,
-      "word": "洗完澡后不要立即化妆",
-      "onboard_time": 1700195619,
-      "rank": 20,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 301964,
       "num": 301964,
       "word": "周也卢昱晓胡连馨合照",
@@ -19547,6 +19603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288868,
+      "num": 288868,
+      "word": "张家辉希望陈伟霆接香港演员的班",
+      "onboard_time": 1700197121,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 288695,
       "num": 288695,
       "word": "童瑶 部落公主",
@@ -20105,14 +20169,6 @@
       "onboard_time": 1699845571,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280665,
-      "num": 280665,
-      "word": "光与夜之恋 缺牙巴宝宝",
-      "onboard_time": 1700195198,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 280638,
@@ -21923,6 +21979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256706,
+      "num": 256706,
+      "word": "女大终于开始整顿运镜了",
+      "onboard_time": 1700196758,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256671,
       "num": 256671,
       "word": "韩庚兑现前任4票房flag",
@@ -22643,14 +22707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248565,
-      "num": 248565,
-      "word": "医生举报科室为拿回扣用价格40倍注射液",
-      "onboard_time": 1700195319,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248494,
       "num": 340955,
       "word": "老板娘送1箱奶茶感谢民警追回20元",
@@ -23009,6 +23065,14 @@
       "onboard_time": 1700115215,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 244868,
+      "num": 244868,
+      "word": "小猫半夜强忍睡意陪伴主人看书",
+      "onboard_time": 1700192977,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 244772,
@@ -23537,14 +23601,6 @@
       "onboard_time": 1699952797,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238111,
-      "num": 238111,
-      "word": "小猫半夜强忍睡意陪伴主人看书",
-      "onboard_time": 1700192977,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 237998,
@@ -24395,6 +24451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229851,
+      "num": 229851,
+      "word": "缅北电诈回流人员自述噩梦般真实经历",
+      "onboard_time": 1700195078,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229751,
       "num": 229751,
       "word": "减脂40天后变化有多大",
@@ -24473,6 +24537,14 @@
       "onboard_time": 1700191356,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229068,
+      "num": 229068,
+      "word": "张译最近不敢量腰围",
+      "onboard_time": 1700197719,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229020,
@@ -24769,6 +24841,14 @@
       "onboard_time": 1699782571,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 226671,
+      "num": 226671,
+      "word": "白鹿入夜巴黎芭莎大片",
+      "onboard_time": 1700197601,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226669,
@@ -25409,6 +25489,14 @@
       "onboard_time": 1699338392,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220955,
+      "num": 220955,
+      "word": "律师称缅北电诈头目或被执行死刑",
+      "onboard_time": 1700195861,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220905,
@@ -29235,14 +29323,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 194646,
-      "num": 194646,
-      "word": "中央电视台电视剧频道宣传片",
-      "onboard_time": 1700195138,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194634,
       "num": 194634,
       "word": "梅西进军电竞行业",
@@ -29473,6 +29553,14 @@
       "onboard_time": 1699244796,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193125,
+      "num": 193125,
+      "word": "格力就高管遭自媒体侮辱诽谤报案",
+      "onboard_time": 1700198137,
+      "rank": 39,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 193052,
@@ -30577,6 +30665,14 @@
       "onboard_time": 1699434032,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187098,
+      "num": 187098,
+      "word": "WBG与T1谁能登神",
+      "onboard_time": 1700195619,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 187093,
@@ -32299,6 +32395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175039,
+      "num": 175039,
+      "word": "起猛了看见周迅扫楼了",
+      "onboard_time": 1700196518,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174900,
       "num": 174900,
       "word": "短剧正利用人性下坠的力量赚钱",
@@ -32641,6 +32745,14 @@
       "onboard_time": 1700056357,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172284,
+      "num": 172284,
+      "word": "昨天爆改金希澈今天回到李二牛",
+      "onboard_time": 1700198198,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172185,
@@ -33137,6 +33249,14 @@
       "onboard_time": 1699170991,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 168751,
+      "num": 168751,
+      "word": "泉州40元体验头上簪花",
+      "onboard_time": 1700197363,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 168714,
@@ -36059,14 +36179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148868,
-      "num": 148868,
-      "word": "缅北电诈回流人员自述噩梦般真实经历",
-      "onboard_time": 1700195078,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148856,
       "num": 148856,
       "word": "顾云峥男狐狸",
@@ -38601,14 +38713,6 @@
       "onboard_time": 1699012836,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132670,
-      "num": 132670,
-      "word": "WBG与T1谁能登神",
-      "onboard_time": 1700195619,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 132669,
@@ -45361,6 +45465,14 @@
       "onboard_time": 1699621236,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34727,
+      "num": 245696,
+      "word": "这次陆毅没和鲍蕾商量",
+      "onboard_time": 1700197601,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34400,
