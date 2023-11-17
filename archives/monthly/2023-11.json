@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700220863872,
+  "endTime": 1700224415817,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -5004,7 +5004,7 @@
     },
     {
       "raw_hot": 903743,
-      "num": 570913,
+      "num": 892930,
       "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
       "onboard_time": 1700216855,
       "rank": 12,
@@ -5369,6 +5369,14 @@
       "onboard_time": 1699935817,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861909,
+      "num": 371464,
+      "word": "普男爆改张元英",
+      "onboard_time": 1700221112,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 861889,
@@ -8507,6 +8515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628481,
+      "num": 366193,
+      "word": "五月天感谢马思纯绿色出行去看演唱会",
+      "onboard_time": 1700222913,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 628311,
       "num": 628311,
       "word": "宁安如梦6天连更16集",
@@ -8923,6 +8939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609931,
+      "num": 356772,
+      "word": "歌手KAN去世",
+      "onboard_time": 1700223513,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609902,
       "num": 609902,
       "word": "时宴他慌了",
@@ -9001,6 +9025,14 @@
       "onboard_time": 1699544912,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 607343,
+      "num": 522915,
+      "word": "成龙是龙皮 娜扎是扎啤",
+      "onboard_time": 1700220451,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 607118,
@@ -10099,6 +10131,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 553857,
+      "num": 553857,
+      "word": "国务院安委会挂牌督办吕梁火灾事故",
+      "onboard_time": 1700221175,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 553110,
       "num": 553110,
       "word": "早期的内娱遍地都是喜剧人",
@@ -11065,6 +11105,14 @@
       "onboard_time": 1700211752,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 511359,
+      "num": 511359,
+      "word": "EDG 接AD",
+      "onboard_time": 1700220933,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 510827,
@@ -14219,6 +14267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 409288,
+      "num": 409288,
+      "word": "刘亦菲张靓颖周深于适同框",
+      "onboard_time": 1700221354,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409201,
       "num": 409201,
       "word": "绝区零",
@@ -15409,6 +15465,14 @@
       "onboard_time": 1699427677,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381005,
+      "num": 381005,
+      "word": "鹿晗 客服小张新歌听起来",
+      "onboard_time": 1700222013,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 380861,
@@ -18883,6 +18947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308247,
+      "num": 308247,
+      "word": "土屋太凤产子后首亮相",
+      "onboard_time": 1700223753,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307945,
       "num": 307945,
       "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
@@ -21971,6 +22043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262477,
+      "num": 342875,
+      "word": "外面的咖啡已经进化成这样了",
+      "onboard_time": 1700219793,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 262285,
       "num": 262285,
       "word": "时代少年团对接否认耍大牌",
@@ -22201,6 +22281,14 @@
       "onboard_time": 1699502915,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259253,
+      "num": 259253,
+      "word": "她谈案件他谈暗恋",
+      "onboard_time": 1700223153,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 259230,
@@ -22883,14 +22971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251080,
-      "num": 251080,
-      "word": "成龙是龙皮 娜扎是扎啤",
-      "onboard_time": 1700220451,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251022,
       "num": 251022,
       "word": "吼妻一时爽追妻火葬场",
@@ -23161,6 +23241,14 @@
       "onboard_time": 1700105799,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248384,
+      "num": 248384,
+      "word": "五月天 现场",
+      "onboard_time": 1700220991,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 248347,
@@ -26395,6 +26483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216841,
+      "num": 216841,
+      "word": "甄嬛传的风早就吹到全球了",
+      "onboard_time": 1700222432,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216667,
       "num": 216667,
       "word": "眉毛画法",
@@ -26827,6 +26923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213245,
+      "num": 213245,
+      "word": "花少5 花学分析众生相",
+      "onboard_time": 1700223576,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213229,
       "num": 213229,
       "word": "好的cp几百年后也是有售后的",
@@ -26849,6 +26953,14 @@
       "onboard_time": 1699020939,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 212956,
+      "num": 212956,
+      "word": "沈梦辰 我没有引以为傲的作品",
+      "onboard_time": 1700224054,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 212874,
@@ -27009,14 +27121,6 @@
       "onboard_time": 1699279902,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211709,
-      "num": 211709,
-      "word": "外面的咖啡已经进化成这样了",
-      "onboard_time": 1700219793,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 211632,
@@ -27472,6 +27576,22 @@
       "word": "容嬷嬷后继有人",
       "onboard_time": 1699496256,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208976,
+      "num": 208976,
+      "word": "女团下一步可以找厂子上班",
+      "onboard_time": 1700222913,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208892,
+      "num": 204785,
+      "word": "琉璃主动踮脚吻",
+      "onboard_time": 1700223634,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -28297,6 +28417,14 @@
       "onboard_time": 1698991593,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203361,
+      "num": 203361,
+      "word": "阿信 在最大的体育场搭最大的梦",
+      "onboard_time": 1700223334,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 203283,
@@ -30443,6 +30571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191405,
+      "num": 259350,
+      "word": "王自如 媚上表达",
+      "onboard_time": 1700220333,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191134,
       "num": 191134,
       "word": "人类幼崽的衣服有多可爱",
@@ -31377,6 +31513,14 @@
       "onboard_time": 1699181140,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186760,
+      "num": 259298,
+      "word": "双子座真的很难自愈",
+      "onboard_time": 1700221175,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 186613,
@@ -32321,6 +32465,14 @@
       "onboard_time": 1699602272,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180320,
+      "num": 203347,
+      "word": "檀健次浴缸背影照",
+      "onboard_time": 1700221653,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180243,
@@ -35651,6 +35803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157821,
+      "num": 203288,
+      "word": "ENHYPEN 韭菜炒鸡蛋",
+      "onboard_time": 1700222313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157763,
       "num": 157763,
       "word": "恶魔法则走进现实是什么体验",
@@ -36555,12 +36715,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 151906,
-      "num": 151906,
-      "word": "王自如 媚上表达",
-      "onboard_time": 1700220333,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 151824,
+      "num": 308645,
+      "word": "决战考研",
+      "onboard_time": 1700220393,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 151749,
@@ -37593,14 +37753,6 @@
       "onboard_time": 1700041113,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145364,
-      "num": 145364,
-      "word": "决战考研",
-      "onboard_time": 1700220393,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 145290,
@@ -38849,6 +39001,14 @@
       "onboard_time": 1699336111,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136830,
+      "num": 203321,
+      "word": "火锅浮沫到底是精华还是脏东西",
+      "onboard_time": 1700223090,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 136822,
@@ -42195,6 +42355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114713,
+      "num": 203306,
+      "word": "海鲜自助餐顶流",
+      "onboard_time": 1700221891,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114689,
       "num": 114689,
       "word": "弟弟骑玩具车冲向路口哥哥飞奔拦住",
@@ -42601,6 +42769,14 @@
       "onboard_time": 1698761676,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110753,
+      "num": 203275,
+      "word": "把力量借给WBG",
+      "onboard_time": 1700220991,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 110738,
@@ -43169,6 +43345,14 @@
       "onboard_time": 1699086751,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 103847,
+      "num": 203220,
+      "word": "广州车展",
+      "onboard_time": 1700224355,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 103794,
@@ -44203,6 +44387,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 89788,
+      "num": 217206,
+      "word": "狮子座流星雨",
+      "onboard_time": 1700223275,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89664,
       "num": 123063,
       "word": "大餐后的清肠小妙招",
@@ -45025,6 +45217,14 @@
       "onboard_time": 1699974038,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73817,
+      "num": 203245,
+      "word": "年纪不大本事不小",
+      "onboard_time": 1700223576,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73738,
@@ -46601,6 +46801,14 @@
       "onboard_time": 1698814175,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28684,
+      "num": 203254,
+      "word": "元梦之星长在了我的审美上",
+      "onboard_time": 1700221772,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 28426,
