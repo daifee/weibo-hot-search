@@ -1,0 +1,410 @@
+{
+  "runTime": 1700235263304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 492394,
+        "num": 2850962,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 458184,
+        "num": 458184,
+        "word": "老人不会线上支付用现金给孙子交生活费",
+        "onboard_time": 1700231735,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29593,
+        "num": 453817,
+        "word": "神十七乘组拍的蔚蓝地球",
+        "onboard_time": 1700207314,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14904723,
+        "num": 449650,
+        "word": "羽生结弦离婚",
+        "onboard_time": 1700233298,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1080668,
+        "num": 440671,
+        "word": "刘亦菲 油画公主",
+        "onboard_time": 1700229996,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 834066,
+        "num": 437318,
+        "word": "罗英子被抓",
+        "onboard_time": 1700230114,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4309393,
+        "num": 427059,
+        "word": "羽生结弦离婚原因",
+        "onboard_time": 1700234564,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 725720,
+        "num": 418537,
+        "word": "奚梦瑶教何猷君人情世故",
+        "onboard_time": 1700233415,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511836,
+        "num": 417705,
+        "word": "张遮 面包哥",
+        "onboard_time": 1700231677,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411437,
+        "num": 411437,
+        "word": "五月天感谢马思纯绿色出行去看演唱会",
+        "onboard_time": 1700222913,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 982554,
+        "num": 398482,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632800,
+        "num": 393213,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 524489,
+        "num": 389951,
+        "word": "4名缅北电诈头目为何2人户籍地在云南",
+        "onboard_time": 1700228677,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385259,
+        "num": 385259,
+        "word": "白敬亭顺毛",
+        "onboard_time": 1700225795,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 376116,
+        "num": 376116,
+        "word": "有狐被禁言",
+        "onboard_time": 1700229454,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335381,
+        "num": 335381,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310278,
+        "num": 310278,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 294158,
+        "num": 294158,
+        "word": "当老外第一次吃螺蛳粉",
+        "onboard_time": 1700227534,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287942,
+        "num": 287942,
+        "word": "龚俊剧里是怎么忍住不摸的",
+        "onboard_time": 1700229035,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228191,
+        "num": 267039,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 19,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 337865,
+        "num": 265847,
+        "word": "妈妈经常私拆快递26岁女儿崩溃",
+        "onboard_time": 1700228196,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260304,
+        "num": 260304,
+        "word": "关晓彤觉得张真源适合当王牌游戏组导演",
+        "onboard_time": 1700234025,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248339,
+        "num": 248339,
+        "word": "李庚希黑长直",
+        "onboard_time": 1700231856,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172371,
+        "num": 227500,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147315,
+        "num": 218836,
+        "word": "马斯克宣布星舰发射推迟至周六",
+        "onboard_time": 1700230175,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214416,
+        "num": 214416,
+        "word": "刘耀文严浩翔不管抢没抢到直接开唱",
+        "onboard_time": 1700234323,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210340,
+        "num": 210340,
+        "word": "佘诗曼要不你们还是用粤语聊吧",
+        "onboard_time": 1700228677,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210556,
+        "num": 209972,
+        "word": "丁程鑫给宋亚轩递伞",
+        "onboard_time": 1700233550,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128761,
+        "num": 209709,
+        "word": "马斯克APEC演讲被取消",
+        "onboard_time": 1700228973,
+        "rank": 28,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 97946,
+        "num": 209638,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209578,
+        "num": 209578,
+        "word": "普男爆改张元英",
+        "onboard_time": 1700221112,
+        "rank": 30,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 199387,
+        "num": 199387,
+        "word": "安陵容的那句精疲力尽真实含义",
+        "onboard_time": 1700233116,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199138,
+        "num": 199138,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167069,
+        "num": 167069,
+        "word": "许凯景甜 电子马卡龙",
+        "onboard_time": 1700231977,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137320,
+        "num": 166901,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 34,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 122719,
+        "num": 166864,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166846,
+        "num": 166846,
+        "word": "五月天 现场",
+        "onboard_time": 1700220991,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137950,
+        "num": 166845,
+        "word": "肺炎支原体感染愈后多吃白色食物",
+        "onboard_time": 1700216315,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127734,
+        "num": 166838,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127131,
+        "num": 166825,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 166816,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 141949,
+        "num": 166813,
+        "word": "饥饿游戏鸣鸟与蛇之歌",
+        "onboard_time": 1700231735,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131867,
+        "num": 166804,
+        "word": "电影红猪",
+        "onboard_time": 1700225556,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127364,
+        "num": 166795,
+        "word": "宁安如梦的疯吹到大学宿舍",
+        "onboard_time": 1700225494,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115090,
+        "num": 166784,
+        "word": "防弹少年团抛售HYBE股份",
+        "onboard_time": 1700226393,
+        "rank": 44,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 97556,
+        "num": 166779,
+        "word": "一图读懂缅北家族关系网",
+        "onboard_time": 1700234504,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96454,
+        "num": 166767,
+        "word": "鲁J1533警你做得好事藏不住了",
+        "onboard_time": 1700218233,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88773,
+        "num": 166763,
+        "word": "一千只螃蟹堆成的山",
+        "onboard_time": 1700224830,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88733,
+        "num": 166752,
+        "word": "外面的咖啡已经进化成这样了",
+        "onboard_time": 1700219793,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83432,
+        "num": 166746,
+        "word": "KSG战胜DRG",
+        "onboard_time": 1700233057,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见岸田文雄#"
+    }
+  }
+}
