@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 15:34:02
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 16:22:25
 </p>
 </blockquote>
 <p>
@@ -5241,6 +5241,12 @@ Dior活动出场顺序（热度：735966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%8513%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
+山西煤矿火灾事故13人被采取强制措施（热度：731961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%8F%E6%9D%B0%E4%B8%8E%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%AD%BE%E7%BA%A6%23" target="weibo">
 江宏杰与炎亚纶经纪人签约（热度：731757）
 </a>
@@ -6005,12 +6011,6 @@ JDG对战KT（热度：662686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%AD%A3%E8%B0%83%E6%9F%A5%E5%8F%96%E8%AF%81%23" target="weibo">
 佳木斯体育馆坍塌事故正调查取证（热度：662297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94BABYMONSTER%E6%88%90%E5%91%98%E9%80%80%E9%98%9F%23" target="weibo">
-YG回应BABYMONSTER成员退队（热度：661675）
 </a>
 </li>
 

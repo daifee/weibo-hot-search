@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700206442888,
+  "endTime": 1700209345047,
   "band_list": [
     {
       "raw_hot": 3248541,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 731961,
+      "num": 397578,
+      "word": "山西煤矿火灾事故13人被采取强制措施",
+      "onboard_time": 1700206832,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726409,
       "num": 630840,
       "word": "刘亦菲配音迪士尼星愿",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645118,
+      "num": 502571,
+      "word": "刘亦菲紫色花神",
+      "onboard_time": 1700204495,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 602034,
       "num": 565129,
       "word": "cp30",
@@ -265,6 +281,14 @@
       "onboard_time": 1700195138,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 577472,
+      "num": 445844,
+      "word": "王昭君 美少女战士",
+      "onboard_time": 1700205154,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 576338,
@@ -291,12 +315,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 537232,
-      "num": 502571,
-      "word": "刘亦菲紫色花神",
-      "onboard_time": 1700204495,
-      "rank": 11,
-      "category": "时尚"
+      "raw_hot": 557784,
+      "num": 417448,
+      "word": "薛之谦 你退半步的动作是认真的吗",
+      "onboard_time": 1700205274,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 535798,
@@ -363,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465702,
+      "num": 394008,
+      "word": "我恋5嘉宾热吻看呆秦霄贤",
+      "onboard_time": 1700207193,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459691,
       "num": 355669,
       "word": "海底捞个别门店试点调整份量和价格",
@@ -417,6 +449,14 @@
       "onboard_time": 1700147148,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400046,
+      "num": 400046,
+      "word": "沪上阿姨回应回收免单券",
+      "onboard_time": 1700207134,
+      "rank": 8,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 399749,
@@ -515,14 +555,6 @@
       "category": "动漫,电影"
     },
     {
-      "raw_hot": 370258,
-      "num": 370258,
-      "word": "王昭君 美少女战士",
-      "onboard_time": 1700205154,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 361559,
       "num": 361559,
       "word": "迪士尼星愿首映红毯",
@@ -545,14 +577,6 @@
       "onboard_time": 1700187812,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 344803,
-      "num": 344803,
-      "word": "薛之谦 你退半步的动作是认真的吗",
-      "onboard_time": 1700205274,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 343342,
@@ -625,6 +649,14 @@
       "onboard_time": 1700181095,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303289,
+      "num": 303289,
+      "word": "周迅 我又上桌了",
+      "onboard_time": 1700205994,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 299928,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217961,
+      "num": 217961,
+      "word": "周迅工牌",
+      "onboard_time": 1700206715,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217517,
       "num": 217517,
       "word": "现在的衣服都已经这样了吗",
@@ -993,6 +1033,14 @@
       "onboard_time": 1700177787,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199940,
+      "num": 199940,
+      "word": "张靓颖迪士尼公主造型",
+      "onboard_time": 1700208934,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 198945,
@@ -1275,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160150,
+      "num": 160150,
+      "word": "懒人早餐一个月不重样",
+      "onboard_time": 1700208934,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157100,
       "num": 157100,
       "word": "00后新警收到定制警旗后开心到起飞",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1700187333,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155215,
+      "num": 155215,
+      "word": "洗脸后要抓住补水保湿黄金3分钟",
+      "onboard_time": 1700207792,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 154593,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1700188594,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146956,
+      "num": 146956,
+      "word": "文俊辉听到袁娅维新歌的反应",
+      "onboard_time": 1700206715,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 145705,
@@ -1411,12 +1483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139743,
+      "num": 149435,
+      "word": "爸爸默默做公益6年被8岁儿子写进作文",
+      "onboard_time": 1700208572,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139031,
       "num": 139031,
       "word": "国产剧 配平文学",
       "onboard_time": 1700179415,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137855,
+      "num": 137855,
+      "word": "神十七乘组拍的蔚蓝地球",
+      "onboard_time": 1700207314,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135199,
@@ -1489,6 +1577,14 @@
       "onboard_time": 1700191956,
       "rank": 48,
       "category": "电竞,综艺"
+    },
+    {
+      "raw_hot": 128784,
+      "num": 128784,
+      "word": "华晨宇沈腾开双簧演唱会",
+      "onboard_time": 1700207615,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 128267,
@@ -1827,6 +1923,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 62808,
+      "num": 266273,
+      "word": "长焦能给手机影像带来什么",
+      "onboard_time": 1700208334,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 61835,
       "num": 160532,
       "word": "杨鸣预测湖人是季中锦标赛冠军",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1700200177,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47363,
+      "num": 456734,
+      "word": "2023年电影总票房突破500亿元",
+      "onboard_time": 1700208513,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45180,
