@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 19:15:21
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/17 19:34:23
 </p>
 </blockquote>
 <p>
@@ -4713,6 +4713,12 @@ MISSING哭了（热度：788264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E4%B8%80%E6%95%99%E5%B8%88%E5%9C%A8%E6%A0%A1%E8%87%AA%E6%9D%80%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+东莞一教师在校自杀学生家长发声（热度：787130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%BC%80%E6%92%AD%E5%85%AB%E5%91%A8%E5%B9%B4%23" target="weibo">
 请回答1988开播八周年（热度：786830）
 </a>
@@ -6005,12 +6011,6 @@ Tarzan向队友道歉（热度：665891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%20%E7%BD%91%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
 军队文职 网站崩了（热度：665341）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E4%BF%9D%E5%AE%89%E8%A6%81%E8%BE%9E%E8%81%8C%E4%B8%9A%E4%B8%BB%E7%BE%A4%E5%88%B7%E5%B1%8F%E6%8C%BD%E7%95%99%23" target="weibo">
-小区保安要辞职业主群刷屏挽留（热度：664126）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700219721950,
+  "endTime": 1700220863872,
   "band_list": [
     {
       "raw_hot": 3248541,
@@ -235,6 +235,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 787130,
+      "num": 517033,
+      "word": "东莞一教师在校自杀学生家长发声",
+      "onboard_time": 1700219014,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779165,
       "num": 359013,
       "word": "涉过愤怒的海停尸间是实景拍摄",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605882,
+      "num": 515752,
+      "word": "陶勇感谢杨幂支持视障人群",
+      "onboard_time": 1700219610,
+      "rank": 13,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 602034,
       "num": 565129,
       "word": "cp30",
@@ -353,6 +369,14 @@
       "onboard_time": 1700195138,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595907,
+      "num": 515501,
+      "word": "HLE与Viper续约",
+      "onboard_time": 1700219313,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 593838,
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485383,
+      "num": 485383,
+      "word": "关晓彤敦煌飞天妆",
+      "onboard_time": 1700219373,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 479383,
       "num": 407100,
       "word": "沪上阿姨回应回收免单券",
@@ -492,7 +524,7 @@
     },
     {
       "raw_hot": 464541,
-      "num": 249534,
+      "num": 250319,
       "word": "长期熬夜或会导致脑出血",
       "onboard_time": 1700214754,
       "rank": 21,
@@ -505,6 +537,14 @@
       "onboard_time": 1700177668,
       "rank": 45,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 448187,
+      "num": 448187,
+      "word": "把从大山里考出来的孩子送回深山",
+      "onboard_time": 1700218835,
+      "rank": 30,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 434653,
@@ -643,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384153,
+      "num": 572166,
+      "word": "鲁J1533警你做得好事藏不住了",
+      "onboard_time": 1700218233,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383899,
       "num": 383899,
       "word": "冬泳怪鸽",
@@ -691,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 370158,
-      "num": 370158,
-      "word": "陶勇感谢杨幂支持视障人群",
-      "onboard_time": 1700219610,
-      "rank": 13,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 361559,
       "num": 361559,
       "word": "迪士尼星愿首映红毯",
@@ -729,14 +769,6 @@
       "onboard_time": 1700187812,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 346856,
-      "num": 159698,
-      "word": "把从大山里考出来的孩子送回深山",
-      "onboard_time": 1700218835,
-      "rank": 30,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 343342,
@@ -819,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312202,
-      "num": 312202,
-      "word": "HLE与Viper续约",
-      "onboard_time": 1700219313,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 307924,
       "num": 307924,
       "word": "张婧仪平刘海live",
@@ -899,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275627,
+      "num": 275627,
+      "word": "陈楚生没准备礼物",
+      "onboard_time": 1700219492,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275101,
       "num": 275101,
       "word": "白鹿入夜巴黎芭莎大片",
@@ -923,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265928,
-      "num": 265928,
-      "word": "东莞一教师在校自杀学生家长发声",
-      "onboard_time": 1700219014,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263070,
       "num": 332881,
       "word": "吴宣仪你这是在烤串吗",
@@ -952,6 +976,14 @@
       "word": "女大终于开始整顿运镜了",
       "onboard_time": 1700196758,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251080,
+      "num": 251080,
+      "word": "成龙是龙皮 娜扎是扎啤",
+      "onboard_time": 1700220451,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -1011,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239951,
-      "num": 572166,
-      "word": "鲁J1533警你做得好事藏不住了",
-      "onboard_time": 1700218233,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238390,
       "num": 238390,
       "word": "张译最近不敢量腰围",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1700193216,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231913,
+      "num": 231913,
+      "word": "王牌对王牌",
+      "onboard_time": 1700219793,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 230926,
@@ -1203,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211709,
+      "num": 211709,
+      "word": "外面的咖啡已经进化成这样了",
+      "onboard_time": 1700219793,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 211615,
       "num": 211615,
       "word": "饥饿游戏前传今日上映",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1700205994,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 210882,
-      "num": 210882,
-      "word": "关晓彤敦煌飞天妆",
-      "onboard_time": 1700219373,
-      "rank": 22,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 210363,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1700210854,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 194898,
+      "num": 194898,
+      "word": "马国明人形立牌被玩坏了",
+      "onboard_time": 1700219733,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 192961,
@@ -1579,6 +1619,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 177324,
+      "num": 176404,
+      "word": "涉过愤怒的海",
+      "onboard_time": 1700220093,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 176012,
+      "num": 176012,
+      "word": "新闻女王",
+      "onboard_time": 1700220632,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175945,
       "num": 175945,
       "word": "关晓彤红衣琵琶女",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1700144806,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171155,
+      "num": 171155,
+      "word": "短甲友好的美甲款式",
+      "onboard_time": 1700218773,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 170741,
@@ -1739,6 +1803,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 151906,
+      "num": 151906,
+      "word": "王自如 媚上表达",
+      "onboard_time": 1700220333,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151308,
       "num": 391481,
       "word": "不好意思开口但被民警秒懂",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1700138858,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145364,
+      "num": 145364,
+      "word": "决战考研",
+      "onboard_time": 1700220393,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 145060,
@@ -1891,28 +1971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138825,
-      "num": 138825,
-      "word": "短甲友好的美甲款式",
-      "onboard_time": 1700218773,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 138547,
       "num": 138547,
       "word": "周深模仿米奇走路",
       "onboard_time": 1700211094,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138431,
-      "num": 138431,
-      "word": "陈楚生没准备礼物",
-      "onboard_time": 1700219492,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137855,
@@ -2019,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126592,
+      "num": 126592,
+      "word": "那些消失的国货彩妆",
+      "onboard_time": 1700219313,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 126294,
       "num": 481958,
       "word": "中美关系的大门是由人民打开的",
@@ -2043,14 +2115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 124109,
-      "num": 124109,
-      "word": "那些消失的国货彩妆",
-      "onboard_time": 1700219313,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 123407,
       "num": 123407,
       "word": "谢危 与猫一生为敌",
@@ -2068,7 +2132,7 @@
     },
     {
       "raw_hot": 122546,
-      "num": 123492,
+      "num": 126498,
       "word": "终于听懂了TizzyT的橘子",
       "onboard_time": 1700217155,
       "rank": 43,
@@ -2217,6 +2281,14 @@
       "onboard_time": 1700148344,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101792,
+      "num": 126482,
+      "word": "来者何人",
+      "onboard_time": 1700220811,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 101720,
