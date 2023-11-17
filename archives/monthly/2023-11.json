@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700249640636,
+  "endTime": 1700252361065,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -47580,7 +47580,7 @@
     },
     {
       "raw_hot": 20692,
-      "num": 20692,
+      "num": 38737,
       "word": "许凯一场戏亲了两个人",
       "onboard_time": 1700248634,
       "rank": 36,
@@ -47715,6 +47715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 17568,
+      "num": 38610,
+      "word": "秦岚 反内耗大师",
+      "onboard_time": 1700249774,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17466,
       "num": 17466,
       "word": "RENA和崔然竣舞蹈挑战",
@@ -47785,6 +47793,14 @@
       "onboard_time": 1699817056,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15396,
+      "num": 38444,
+      "word": "张遮看到姜雪宁被烫的反应",
+      "onboard_time": 1700251454,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 15249,
