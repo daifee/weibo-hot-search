@@ -1,10 +1,10 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700188179069,
+  "endTime": 1700188816674,
   "band_list": [
     {
       "raw_hot": 3248541,
-      "num": 367375,
+      "num": 461508,
       "word": "马航MH370事件将正式开庭",
       "onboard_time": 1700181875,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1012020,
-      "num": 361064,
+      "num": 453515,
       "word": "梅西锁喉",
       "onboard_time": 1700184696,
       "rank": 22,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 868397,
-      "num": 350136,
+      "num": 439068,
       "word": "洪胜汉 崔秀彬",
       "onboard_time": 1700180793,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 821886,
-      "num": 346264,
+      "num": 416867,
       "word": "小说里的总裁都降级消费了",
       "onboard_time": 1700179051,
       "rank": 13,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523615,
+      "num": 478070,
+      "word": "怪不得古天乐后来不跳舞了",
+      "onboard_time": 1700182778,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515508,
       "num": 359665,
       "word": "爱奇艺尖叫之夜红毯阵容",
@@ -113,6 +121,14 @@
       "onboard_time": 1700138797,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507322,
+      "num": 507322,
+      "word": "美国宣布解除对公安部鉴定中心制裁",
+      "onboard_time": 1700188473,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498107,
@@ -155,14 +171,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 444548,
-      "num": 444548,
-      "word": "怪不得古天乐后来不跳舞了",
-      "onboard_time": 1700182778,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 433607,
       "num": 363100,
       "word": "中奖500万彩票号付款后老板忘出票",
@@ -177,6 +185,14 @@
       "onboard_time": 1700149720,
       "rank": 11,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 419250,
+      "num": 697298,
+      "word": "澳门官方暖心回应萌娃唱七子之歌",
+      "onboard_time": 1700185834,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409880,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392910,
+      "num": 392910,
+      "word": "刘些宁 铁坦公主",
+      "onboard_time": 1700183435,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383312,
       "num": 347646,
       "word": "龚俊 我本是高山是良心之作",
@@ -219,12 +243,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 373901,
-      "num": 373901,
-      "word": "刘些宁 铁坦公主",
-      "onboard_time": 1700183435,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 373906,
+      "num": 373906,
+      "word": "柯南黑铁的鱼影确认引进",
+      "onboard_time": 1700187876,
+      "rank": 18,
+      "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 362038,
+      "num": 362038,
+      "word": "丫丫晒太阳吃果果",
+      "onboard_time": 1700187153,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347781,
+      "num": 347781,
+      "word": "拿破仑内地定档",
+      "onboard_time": 1700187812,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 344146,
@@ -241,14 +281,6 @@
       "onboard_time": 1700144327,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 341790,
-      "num": 697298,
-      "word": "澳门官方暖心回应萌娃唱七子之歌",
-      "onboard_time": 1700185834,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337746,
@@ -275,14 +307,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 328594,
-      "num": 328594,
-      "word": "拿破仑内地定档",
-      "onboard_time": 1700187812,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 312493,
       "num": 353020,
       "word": "阿根廷vs乌拉圭",
@@ -291,20 +315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294584,
+      "num": 294584,
+      "word": "白鹿看到张凌赫露胸肌的反应",
+      "onboard_time": 1700187755,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293510,
       "num": 293510,
       "word": "花少四凤体重公开",
       "onboard_time": 1700181274,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287658,
-      "num": 287658,
-      "word": "柯南黑铁的鱼影确认引进",
-      "onboard_time": 1700187876,
-      "rank": 18,
-      "category": "动漫,电影"
     },
     {
       "raw_hot": 279874,
@@ -316,19 +340,11 @@
     },
     {
       "raw_hot": 248974,
-      "num": 362780,
+      "num": 599356,
       "word": "欢迎继续投资中国深耕中国",
       "onboard_time": 1700176646,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 243192,
-      "num": 243192,
-      "word": "丫丫晒太阳吃果果",
-      "onboard_time": 1700187153,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233616,
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214224,
+      "num": 214224,
+      "word": "杨紫跟谢娜撒娇要吃辣的",
+      "onboard_time": 1700186972,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211343,
       "num": 169744,
       "word": "马云家族信托拟减持阿里巴巴",
@@ -419,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197931,
-      "num": 197931,
-      "word": "杨紫跟谢娜撒娇要吃辣的",
-      "onboard_time": 1700186972,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 196904,
+      "num": 196904,
+      "word": "哥伦比亚2比1巴西",
+      "onboard_time": 1700188174,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195642,
@@ -435,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189633,
+      "num": 189633,
+      "word": "缅甸5.9级地震云南震感明显",
+      "onboard_time": 1700187571,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189026,
       "num": 189026,
       "word": "男子半夜爬独居女子窗户被击落身亡",
@@ -443,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187748,
-      "num": 187748,
-      "word": "缅甸5.9级地震云南震感明显",
-      "onboard_time": 1700187571,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 186234,
+      "num": 186234,
+      "word": "理想MEGA",
+      "onboard_time": 1700187935,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 184507,
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164216,
-      "num": 164216,
-      "word": "理想MEGA",
-      "onboard_time": 1700187935,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 157100,
       "num": 157100,
       "word": "00后新警收到定制警旗后开心到起飞",
@@ -561,14 +585,6 @@
       "onboard_time": 1700177067,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152101,
-      "num": 152101,
-      "word": "白鹿看到张凌赫露胸肌的反应",
-      "onboard_time": 1700187755,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 151308,
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132381,
+      "num": 132381,
+      "word": "动物内脏是不是垃圾食品",
+      "onboard_time": 1700188353,
+      "rank": 35,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 129870,
       "num": 129870,
       "word": "WB晋级世冠小组赛",
@@ -697,6 +721,14 @@
       "onboard_time": 1700176464,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121310,
+      "num": 121310,
+      "word": "秦岚砍价成功后第一反应是照镜子",
+      "onboard_time": 1700188652,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 120620,
@@ -761,6 +793,22 @@
       "onboard_time": 1700139880,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113262,
+      "num": 113262,
+      "word": "迪亚斯父亲哭了",
+      "onboard_time": 1700188114,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112872,
+      "num": 98573,
+      "word": "vivo影像灭霸实锤",
+      "onboard_time": 1700188594,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 111603,
@@ -843,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94387,
-      "num": 106701,
-      "word": "迪亚斯父亲哭了",
-      "onboard_time": 1700188114,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 95888,
+      "num": 475500,
+      "word": "中美关系的大门是由人民打开的",
+      "onboard_time": 1700172495,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90236,
@@ -859,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87352,
-      "num": 373713,
-      "word": "中美关系的大门是由人民打开的",
-      "onboard_time": 1700172495,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 86677,
+      "num": 95907,
+      "word": "谢危 与猫一生为敌",
+      "onboard_time": 1700188772,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86043,
