@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 00:25:59
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 00:41:50
 </p>
 </blockquote>
 <p>
@@ -5691,6 +5691,12 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%81%8C%E5%A4%AA%E5%A4%AA%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%81%9A%E5%85%A8%E8%81%8C%E5%A4%AA%E5%A4%AA%23" target="weibo">
+全职太太建议别做全职太太（热度：705416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D30%E4%B8%87%E4%B9%B0%E7%9A%84%E6%B5%B7%E6%99%AF%E6%88%BF%E7%8E%B0%E5%9C%A88%E4%B8%87%E5%8D%96%E4%B8%8D%E6%8E%89%23" target="weibo">
 十年前30万买的海景房现在8万卖不掉（热度：704152）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi在干嘛（热度：674777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2354%E5%B2%81%E6%95%99%E6%8E%88%E5%90%83%E9%A5%AD%E5%A4%AA%E8%AE%A4%E7%9C%9F%E5%B8%A6%E7%81%AB%E5%86%B7%E9%97%A8%E4%B8%93%E4%B8%9A%23" target="weibo">
 54岁教授吃饭太认真带火冷门专业（热度：673528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1%23" target="weibo">
-一中国公民在澳大利亚不幸溺亡（热度：673362）
 </a>
 </li>
 
