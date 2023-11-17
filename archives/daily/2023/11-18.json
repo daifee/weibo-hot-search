@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700246170563,
+  "endTime": 1700248477812,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -425,6 +425,14 @@
       "onboard_time": 1700225253,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58774,
+      "num": 58774,
+      "word": "刘亦菲看到胡军的表情",
+      "onboard_time": 1700246596,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 48746,
