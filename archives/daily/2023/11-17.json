@@ -1,6 +1,6 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700213685541,
+  "endTime": 1700216353893,
   "band_list": [
     {
       "raw_hot": 3248541,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 933344,
-      "num": 319341,
+      "num": 335347,
       "word": "小S和Melody同框 像看了半集康熙",
       "onboard_time": 1700211694,
       "rank": 11,
@@ -153,6 +153,14 @@
       "onboard_time": 1700146373,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877416,
+      "num": 378005,
+      "word": "蒲熠星 跟大家分享一件失败的事情",
+      "onboard_time": 1700213253,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 868397,
@@ -211,6 +219,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 779165,
+      "num": 358835,
+      "word": "涉过愤怒的海停尸间是实景拍摄",
+      "onboard_time": 1700211094,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 754972,
       "num": 511114,
       "word": "刘亦菲迪士尼公主出场",
@@ -225,6 +241,14 @@
       "onboard_time": 1700198198,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 738319,
+      "num": 380936,
+      "word": "中日关系正处于承前启后的关键时期",
+      "onboard_time": 1700213672,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 731961,
@@ -265,14 +289,6 @@
       "onboard_time": 1700187755,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687654,
-      "num": 358835,
-      "word": "涉过愤怒的海停尸间是实景拍摄",
-      "onboard_time": 1700211094,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 651947,
@@ -619,6 +635,22 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 371645,
+      "num": 371645,
+      "word": "六公主评张小斐作品认可度",
+      "onboard_time": 1700214275,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 371500,
+      "num": 230519,
+      "word": "长期熬夜或会导致脑出血",
+      "onboard_time": 1700214754,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 361559,
       "num": 361559,
       "word": "迪士尼星愿首映红毯",
@@ -657,6 +689,14 @@
       "onboard_time": 1700144327,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 341363,
+      "num": 341363,
+      "word": "坚决打击恶意开盒挂人行为",
+      "onboard_time": 1700214091,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 337746,
@@ -715,8 +755,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301170,
-      "num": 301170,
+      "raw_hot": 307924,
+      "num": 307924,
       "word": "张婧仪平刘海live",
       "onboard_time": 1700212892,
       "rank": 16,
@@ -795,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262648,
+      "num": 262648,
+      "word": "张遮断腿了",
+      "onboard_time": 1700215533,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259729,
       "num": 259729,
       "word": "教育部称汉语拼音o应读喔",
@@ -809,14 +857,6 @@
       "onboard_time": 1700196758,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255265,
-      "num": 164211,
-      "word": "蒲熠星 跟大家分享一件失败的事情",
-      "onboard_time": 1700213253,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 250174,
@@ -915,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230438,
+      "num": 230438,
+      "word": "安徽宏村现丁达尔现象",
+      "onboard_time": 1700212533,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 229851,
       "num": 229851,
       "word": "缅北电诈回流人员自述噩梦般真实经历",
@@ -977,6 +1025,14 @@
       "onboard_time": 1700206715,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217519,
+      "num": 217519,
+      "word": "懒人早餐一个月不重样",
+      "onboard_time": 1700208934,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 217517,
@@ -1059,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210683,
+      "num": 390302,
+      "word": "17岁少年照顾脑瘫同学近5年",
+      "onboard_time": 1700214633,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210363,
       "num": 210363,
       "word": "第10批在韩志愿军烈士遗骸即将回国",
@@ -1105,14 +1169,6 @@
       "onboard_time": 1700189674,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206950,
-      "num": 206950,
-      "word": "懒人早餐一个月不重样",
-      "onboard_time": 1700208934,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 206838,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1700201974,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192357,
+      "num": 192357,
+      "word": "以爱为营",
+      "onboard_time": 1700215056,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 192353,
@@ -1307,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182640,
+      "num": 179428,
+      "word": "发型的重要性",
+      "onboard_time": 1700214812,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 181323,
       "num": 378927,
       "word": "这届打工人流行上夜校",
@@ -1321,6 +1393,22 @@
       "onboard_time": 1700189493,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 180386,
+      "num": 180386,
+      "word": "川菜成为全国第一大菜系",
+      "onboard_time": 1700216194,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 179724,
+      "num": 179724,
+      "word": "法老发新歌了",
+      "onboard_time": 1700214573,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 179402,
@@ -1345,6 +1433,14 @@
       "onboard_time": 1700202994,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176870,
+      "num": 176870,
+      "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
+      "onboard_time": 1700213553,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 175667,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1700212594,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 170362,
+      "num": 383088,
+      "word": "49岁环卫大姐与国外友人交流无障碍",
+      "onboard_time": 1700214633,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168751,
@@ -1531,12 +1635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145880,
-      "num": 145880,
-      "word": "安徽宏村现丁达尔现象",
-      "onboard_time": 1700212533,
-      "rank": 49,
-      "category": "自然"
+      "raw_hot": 146375,
+      "num": 146375,
+      "word": "穿汉服怎么扎头发",
+      "onboard_time": 1700214633,
+      "rank": 36,
+      "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "肺炎支原体感染愈后多吃白色食物",
+      "onboard_time": 1700216315,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145705,
@@ -1611,12 +1723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140345,
+      "num": 140345,
+      "word": "于适山羊发型",
+      "onboard_time": 1700213612,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139743,
       "num": 149435,
       "word": "爸爸默默做公益6年被8岁儿子写进作文",
       "onboard_time": 1700208572,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139499,
+      "num": 139499,
+      "word": "清冷感银河妆教程",
+      "onboard_time": 1700215714,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 139031,
@@ -1675,20 +1803,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132218,
-      "num": 132218,
-      "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
-      "onboard_time": 1700213553,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131925,
       "num": 131925,
       "word": "很想很想你全阵容海报",
       "onboard_time": 1700188893,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "关晓彤红衣琵琶女",
+      "onboard_time": 1700215892,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129870,
@@ -1843,6 +1971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 116553,
+      "num": 126825,
+      "word": "6000多年前的彩陶片上发现古人指纹",
+      "onboard_time": 1700214694,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115528,
       "num": 115528,
       "word": "沉浸式体验邓为的快穿人生",
@@ -1881,14 +2017,6 @@
       "onboard_time": 1700188114,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112465,
-      "num": 114989,
-      "word": "于适山羊发型",
-      "onboard_time": 1700213612,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111603,
@@ -2043,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81556,
+      "num": 373312,
+      "word": "男孩教科书式报警冷静助伙伴脱困",
+      "onboard_time": 1700214633,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79973,
       "num": 84011,
       "word": "嗑到成年人的纯爱了",
@@ -2123,6 +2259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48080,
+      "num": 615468,
+      "word": "赓续友谊的相聚",
+      "onboard_time": 1700191775,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45180,
       "num": 50671,
       "word": "花少 真实底色里的胡先煦",
@@ -2137,14 +2281,6 @@
       "onboard_time": 1700175743,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40176,
-      "num": 615468,
-      "word": "赓续友谊的相聚",
-      "onboard_time": 1700191775,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37029,
@@ -2169,6 +2305,14 @@
       "onboard_time": 1700197601,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30687,
+      "num": 230576,
+      "word": "元梦之星正版发糖",
+      "onboard_time": 1700213733,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 29455,
@@ -2201,14 +2345,6 @@
       "onboard_time": 1700168293,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17249,
-      "num": 357848,
-      "word": "中日关系正处于承前启后的关键时期",
-      "onboard_time": 1700213672,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15166,

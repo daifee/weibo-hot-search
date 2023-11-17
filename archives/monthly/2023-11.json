@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700213685541,
+  "endTime": 1700216353893,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4828,7 +4828,7 @@
     },
     {
       "raw_hot": 933344,
-      "num": 319341,
+      "num": 335347,
       "word": "小S和Melody同框 像看了半集康熙",
       "onboard_time": 1700211694,
       "rank": 11,
@@ -5193,6 +5193,14 @@
       "onboard_time": 1699271252,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 877416,
+      "num": 378005,
+      "word": "蒲熠星 跟大家分享一件失败的事情",
+      "onboard_time": 1700213253,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 875335,
@@ -6347,6 +6355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779165,
+      "num": 358835,
+      "word": "涉过愤怒的海停尸间是实景拍摄",
+      "onboard_time": 1700211094,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 778617,
       "num": 778617,
       "word": "家长劝孩子不要学生物的原因",
@@ -6897,6 +6913,14 @@
       "onboard_time": 1698796713,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 738319,
+      "num": 380936,
+      "word": "中日关系正处于承前启后的关键时期",
+      "onboard_time": 1700213672,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 737335,
@@ -7673,14 +7697,6 @@
       "onboard_time": 1699680211,
       "rank": 18,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 687654,
-      "num": 358835,
-      "word": "涉过愤怒的海停尸间是实景拍摄",
-      "onboard_time": 1700211094,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 687549,
@@ -15723,12 +15739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371645,
+      "num": 371645,
+      "word": "六公主评张小斐作品认可度",
+      "onboard_time": 1700214275,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371532,
       "num": 1394827,
       "word": "孙颖莎 心无旁骛继续涨球",
       "onboard_time": 1699082430,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371500,
+      "num": 230519,
+      "word": "长期熬夜或会导致脑出血",
+      "onboard_time": 1700214754,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 371491,
@@ -17097,6 +17129,14 @@
       "onboard_time": 1698820413,
       "rank": 32,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 341363,
+      "num": 341363,
+      "word": "坚决打击恶意开盒挂人行为",
+      "onboard_time": 1700214091,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 341283,
@@ -18755,6 +18795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307924,
+      "num": 307924,
+      "word": "张婧仪平刘海live",
+      "onboard_time": 1700212892,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 307603,
       "num": 307603,
       "word": "王子璇也是追星女",
@@ -19113,14 +19161,6 @@
       "onboard_time": 1700132974,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 301170,
-      "num": 301170,
-      "word": "张婧仪平刘海live",
-      "onboard_time": 1700212892,
-      "rank": 16,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 300735,
@@ -21787,6 +21827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262648,
+      "num": 262648,
+      "word": "张遮断腿了",
+      "onboard_time": 1700215533,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -22353,14 +22401,6 @@
       "onboard_time": 1698815017,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255265,
-      "num": 164211,
-      "word": "蒲熠星 跟大家分享一件失败的事情",
-      "onboard_time": 1700213253,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 255264,
@@ -24715,6 +24755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230438,
+      "num": 230438,
+      "word": "安徽宏村现丁达尔现象",
+      "onboard_time": 1700212533,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 230231,
       "num": 230231,
       "word": "薛之谦 温州抢票",
@@ -26099,6 +26147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217519,
+      "num": 217519,
+      "word": "懒人早餐一个月不重样",
+      "onboard_time": 1700208934,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217517,
       "num": 217517,
       "word": "现在的衣服都已经这样了吗",
@@ -26931,6 +26987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210683,
+      "num": 390302,
+      "word": "17岁少年照顾脑瘫同学近5年",
+      "onboard_time": 1700214633,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210654,
       "num": 210654,
       "word": "国际大牌彩妆卖不动了",
@@ -27561,14 +27625,6 @@
       "onboard_time": 1699417476,
       "rank": 34,
       "category": "教育,美食"
-    },
-    {
-      "raw_hot": 206950,
-      "num": 206950,
-      "word": "懒人早餐一个月不重样",
-      "onboard_time": 1700208934,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 206939,
@@ -31827,6 +31883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 182640,
+      "num": 179428,
+      "word": "发型的重要性",
+      "onboard_time": 1700214812,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 182579,
       "num": 134906,
       "word": "五月天后遗症",
@@ -32083,6 +32147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180386,
+      "num": 180386,
+      "word": "川菜成为全国第一大菜系",
+      "onboard_time": 1700216194,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180383,
       "num": 180383,
       "word": "蛋仔派对光遇联动",
@@ -32169,6 +32241,14 @@
       "onboard_time": 1698996696,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179724,
+      "num": 179724,
+      "word": "法老发新歌了",
+      "onboard_time": 1700214573,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 179717,
@@ -32585,6 +32665,14 @@
       "onboard_time": 1699499374,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176870,
+      "num": 176870,
+      "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
+      "onboard_time": 1700213553,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 176856,
@@ -33505,6 +33593,14 @@
       "onboard_time": 1699962389,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170362,
+      "num": 383088,
+      "word": "49岁环卫大姐与国外友人交流无障碍",
+      "onboard_time": 1700214633,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170326,
@@ -37171,12 +37267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146375,
+      "num": 146375,
+      "word": "穿汉服怎么扎头发",
+      "onboard_time": 1700214633,
+      "rank": 36,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 146282,
       "num": 146282,
       "word": "徐志胜真的太会说了",
       "onboard_time": 1699406195,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "肺炎支原体感染愈后多吃白色食物",
+      "onboard_time": 1700216315,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146077,
@@ -37209,14 +37321,6 @@
       "onboard_time": 1699494993,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 145880,
-      "num": 145880,
-      "word": "安徽宏村现丁达尔现象",
-      "onboard_time": 1700212533,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 145845,
@@ -38115,6 +38219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140345,
+      "num": 140345,
+      "word": "于适山羊发型",
+      "onboard_time": 1700213612,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140274,
       "num": 140274,
       "word": "我和彭于晏的共同点是偶像一样",
@@ -38241,6 +38353,14 @@
       "onboard_time": 1699231477,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139499,
+      "num": 139499,
+      "word": "清冷感银河妆教程",
+      "onboard_time": 1700215714,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 139440,
@@ -39363,14 +39483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132218,
-      "num": 132218,
-      "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
-      "onboard_time": 1700213553,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132046,
       "num": 132046,
       "word": "东西方审美差异有多大",
@@ -39657,6 +39769,14 @@
       "onboard_time": 1698975089,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "关晓彤红衣琵琶女",
+      "onboard_time": 1700215892,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129956,
@@ -41659,6 +41779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116553,
+      "num": 126825,
+      "word": "6000多年前的彩陶片上发现古人指纹",
+      "onboard_time": 1700214694,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116518,
       "num": 210187,
       "word": "狼队闪现入职微博",
@@ -42065,14 +42193,6 @@
       "onboard_time": 1699141587,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112465,
-      "num": 114989,
-      "word": "于适山羊发型",
-      "onboard_time": 1700213612,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112433,
@@ -44291,6 +44411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81556,
+      "num": 373312,
+      "word": "男孩教科书式报警冷静助伙伴脱困",
+      "onboard_time": 1700214633,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81433,
       "num": 81433,
       "word": "天绘五号卫星发射成功",
@@ -45723,6 +45851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48080,
+      "num": 615468,
+      "word": "赓续友谊的相聚",
+      "onboard_time": 1700191775,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47764,
       "num": 369145,
       "word": "跟撒贝宁一起开启护肤科技之门",
@@ -45955,14 +46091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40176,
-      "num": 615468,
-      "word": "赓续友谊的相聚",
-      "onboard_time": 1700191775,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40149,
       "num": 298046,
       "word": "民警把随身携带的救心丸给司机应急",
@@ -46193,6 +46321,14 @@
       "onboard_time": 1698944720,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 30687,
+      "num": 230576,
+      "word": "元梦之星正版发糖",
+      "onboard_time": 1700213733,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 30516,
@@ -46592,14 +46728,6 @@
       "word": "一分钟带你了解斐洛里庄园",
       "onboard_time": 1700102374,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17249,
-      "num": 357848,
-      "word": "中日关系正处于承前启后的关键时期",
-      "onboard_time": 1700213672,
-      "rank": 4,
       "category": "社会新闻"
     },
     {

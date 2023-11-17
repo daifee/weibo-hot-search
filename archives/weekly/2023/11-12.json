@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700213685541,
+  "endTime": 1700216353893,
   "band_list": [
     {
       "raw_hot": 12222637,
@@ -1452,7 +1452,7 @@
     },
     {
       "raw_hot": 933344,
-      "num": 319341,
+      "num": 335347,
       "word": "小S和Melody同框 像看了半集康熙",
       "onboard_time": 1700211694,
       "rank": 11,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1699948471,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877416,
+      "num": 378005,
+      "word": "蒲熠星 跟大家分享一件失败的事情",
+      "onboard_time": 1700213253,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 871489,
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779165,
+      "num": 358835,
+      "word": "涉过愤怒的海停尸间是实景拍摄",
+      "onboard_time": 1700211094,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 775491,
       "num": 775491,
       "word": "七宗罪PDF当事人方某已去世",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1700198198,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 738319,
+      "num": 380936,
+      "word": "中日关系正处于承前启后的关键时期",
+      "onboard_time": 1700213672,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 734706,
@@ -2505,14 +2529,6 @@
       "onboard_time": 1699788999,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 687654,
-      "num": 358835,
-      "word": "涉过愤怒的海停尸间是实景拍摄",
-      "onboard_time": 1700211094,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 687549,
@@ -5139,6 +5155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371645,
+      "num": 371645,
+      "word": "六公主评张小斐作品认可度",
+      "onboard_time": 1700214275,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 371500,
+      "num": 230519,
+      "word": "长期熬夜或会导致脑出血",
+      "onboard_time": 1700214754,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 369536,
       "num": 369536,
       "word": "首先要回答的是中美到底是对手还是伙伴",
@@ -5497,6 +5529,14 @@
       "onboard_time": 1699838312,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341363,
+      "num": 341363,
+      "word": "坚决打击恶意开盒挂人行为",
+      "onboard_time": 1700214091,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 340770,
@@ -6043,6 +6083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307924,
+      "num": 307924,
+      "word": "张婧仪平刘海live",
+      "onboard_time": 1700212892,
+      "rank": 16,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 307603,
       "num": 307603,
       "word": "王子璇也是追星女",
@@ -6217,14 +6265,6 @@
       "onboard_time": 1700132974,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 301170,
-      "num": 301170,
-      "word": "张婧仪平刘海live",
-      "onboard_time": 1700212892,
-      "rank": 16,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 300690,
@@ -7131,6 +7171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262648,
+      "num": 262648,
+      "word": "张遮断腿了",
+      "onboard_time": 1700215533,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -7361,14 +7409,6 @@
       "onboard_time": 1700009194,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 255265,
-      "num": 164211,
-      "word": "蒲熠星 跟大家分享一件失败的事情",
-      "onboard_time": 1700213253,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 255222,
@@ -8107,6 +8147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230438,
+      "num": 230438,
+      "word": "安徽宏村现丁达尔现象",
+      "onboard_time": 1700212533,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 230130,
       "num": 230130,
       "word": "杨幂小时候唱小红帽",
@@ -8595,6 +8643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217519,
+      "num": 217519,
+      "word": "懒人早餐一个月不重样",
+      "onboard_time": 1700208934,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217517,
       "num": 217517,
       "word": "现在的衣服都已经这样了吗",
@@ -8891,6 +8947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210683,
+      "num": 390302,
+      "word": "17岁少年照顾脑瘫同学近5年",
+      "onboard_time": 1700214633,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "女孩子养生之蒸苹果",
@@ -9065,14 +9129,6 @@
       "onboard_time": 1700189674,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206950,
-      "num": 206950,
-      "word": "懒人早餐一个月不重样",
-      "onboard_time": 1700208934,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 206939,
@@ -9875,6 +9931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192357,
+      "num": 192357,
+      "word": "以爱为营",
+      "onboard_time": 1699855833,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192353,
       "num": 192353,
       "word": "成都混合团体世界杯",
@@ -10555,6 +10619,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 182640,
+      "num": 179428,
+      "word": "发型的重要性",
+      "onboard_time": 1700214812,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 182579,
       "num": 134906,
       "word": "五月天后遗症",
@@ -10593,14 +10665,6 @@
       "onboard_time": 1700112514,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181454,
-      "num": 181454,
-      "word": "以爱为营",
-      "onboard_time": 1699855833,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 181323,
@@ -10659,6 +10723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180386,
+      "num": 180386,
+      "word": "川菜成为全国第一大菜系",
+      "onboard_time": 1700216194,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180172,
       "num": 180172,
       "word": "银行称循环贷不是利滚利",
@@ -10689,6 +10761,14 @@
       "onboard_time": 1699870955,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179724,
+      "num": 179724,
+      "word": "法老发新歌了",
+      "onboard_time": 1700214573,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 179716,
@@ -10833,6 +10913,14 @@
       "onboard_time": 1700023356,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176870,
+      "num": 176870,
+      "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
+      "onboard_time": 1700213553,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 176841,
@@ -11217,6 +11305,14 @@
       "onboard_time": 1699962389,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170362,
+      "num": 383088,
+      "word": "49岁环卫大姐与国外友人交流无障碍",
+      "onboard_time": 1700214633,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169975,
@@ -12467,20 +12563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146375,
+      "num": 146375,
+      "word": "穿汉服怎么扎头发",
+      "onboard_time": 1700214633,
+      "rank": 36,
+      "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "肺炎支原体感染愈后多吃白色食物",
+      "onboard_time": 1700216315,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146087,
       "num": 146087,
       "word": "马立奥回归爸爸当家3",
       "onboard_time": 1699698753,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145880,
-      "num": 145880,
-      "word": "安徽宏村现丁达尔现象",
-      "onboard_time": 1700212533,
-      "rank": 49,
-      "category": "自然"
     },
     {
       "raw_hot": 145776,
@@ -12811,6 +12915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140345,
+      "num": 140345,
+      "word": "于适山羊发型",
+      "onboard_time": 1700213612,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139946,
       "num": 139946,
       "word": "克莱追梦被驱逐",
@@ -12849,6 +12961,14 @@
       "onboard_time": 1699749328,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139499,
+      "num": 139499,
+      "word": "清冷感银河妆教程",
+      "onboard_time": 1700215714,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 139440,
@@ -13243,14 +13363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132218,
-      "num": 132218,
-      "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
-      "onboard_time": 1700213553,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131925,
       "num": 131925,
       "word": "很想很想你全阵容海报",
@@ -13313,6 +13425,14 @@
       "onboard_time": 1700008416,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "关晓彤红衣琵琶女",
+      "onboard_time": 1700215892,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129870,
@@ -14131,6 +14251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116553,
+      "num": 126825,
+      "word": "6000多年前的彩陶片上发现古人指纹",
+      "onboard_time": 1700214694,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116518,
       "num": 210187,
       "word": "狼队闪现入职微博",
@@ -14313,14 +14441,6 @@
       "onboard_time": 1699950154,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112465,
-      "num": 114989,
-      "word": "于适山羊发型",
-      "onboard_time": 1700213612,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111776,
@@ -14987,6 +15107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81556,
+      "num": 373312,
+      "word": "男孩教科书式报警冷静助伙伴脱困",
+      "onboard_time": 1700214633,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80739,
       "num": 80739,
       "word": "TGA2023提名",
@@ -15419,6 +15547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48080,
+      "num": 615468,
+      "word": "赓续友谊的相聚",
+      "onboard_time": 1700191775,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46447,
       "num": 46447,
       "word": "雨刮器变身木鱼槌好可爱",
@@ -15457,14 +15593,6 @@
       "onboard_time": 1699711295,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40176,
-      "num": 615468,
-      "word": "赓续友谊的相聚",
-      "onboard_time": 1700191775,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40149,
@@ -15569,6 +15697,14 @@
       "onboard_time": 1700069897,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30687,
+      "num": 230576,
+      "word": "元梦之星正版发糖",
+      "onboard_time": 1700213733,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 29455,
@@ -15712,14 +15848,6 @@
       "word": "一分钟带你了解斐洛里庄园",
       "onboard_time": 1700102374,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17249,
-      "num": 357848,
-      "word": "中日关系正处于承前启后的关键时期",
-      "onboard_time": 1700213672,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
