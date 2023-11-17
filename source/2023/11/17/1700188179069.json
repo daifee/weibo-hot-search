@@ -1,0 +1,410 @@
+{
+  "runTime": 1700188179069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 341790,
+        "num": 697298,
+        "word": "澳门官方暖心回应萌娃唱七子之歌",
+        "onboard_time": 1700185834,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2507558,
+        "num": 679214,
+        "word": "中缅边境发生地震",
+        "onboard_time": 1700186254,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47123,
+        "num": 648355,
+        "word": "一个选择三项原则五根支柱",
+        "onboard_time": 1700177427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 984674,
+        "num": 602688,
+        "word": "阿根廷0比2乌拉圭",
+        "onboard_time": 1700186914,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34852,
+        "num": 545418,
+        "word": "打造合作共赢的开放型亚太经济",
+        "onboard_time": 1700177608,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511114,
+        "num": 511114,
+        "word": "刘亦菲迪士尼公主出场",
+        "onboard_time": 1700176102,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 477901,
+        "num": 477901,
+        "word": "谢娜睡前给张杰语音说爱你",
+        "onboard_time": 1700183435,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444548,
+        "num": 444548,
+        "word": "怪不得古天乐后来不跳舞了",
+        "onboard_time": 1700182778,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373901,
+        "num": 373901,
+        "word": "刘些宁 铁坦公主",
+        "onboard_time": 1700183435,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87352,
+        "num": 373713,
+        "word": "中美关系的大门是由人民打开的",
+        "onboard_time": 1700172495,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1843856,
+        "num": 367375,
+        "word": "马航MH370事件将正式开庭",
+        "onboard_time": 1700181875,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012020,
+        "num": 361064,
+        "word": "梅西锁喉",
+        "onboard_time": 1700184696,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569544,
+        "num": 350136,
+        "word": "洪胜汉 崔秀彬",
+        "onboard_time": 1700180793,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478001,
+        "num": 346264,
+        "word": "小说里的总裁都降级消费了",
+        "onboard_time": 1700179051,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 344146,
+        "num": 344146,
+        "word": "cp30",
+        "onboard_time": 1700182837,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 335628,
+        "num": 335628,
+        "word": "8岁娃没上学睡树林里民警找了一上午",
+        "onboard_time": 1700182537,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328594,
+        "num": 328594,
+        "word": "拿破仑内地定档",
+        "onboard_time": 1700187812,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317982,
+        "num": 317982,
+        "word": "中奖500万彩票号付款后老板忘出票",
+        "onboard_time": 1700143910,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287658,
+        "num": 287658,
+        "word": "柯南黑铁的鱼影确认引进",
+        "onboard_time": 1700187876,
+        "rank": 18,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 243203,
+        "num": 243203,
+        "word": "爱奇艺尖叫之夜红毯阵容",
+        "onboard_time": 1700178390,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282900,
+        "num": 243198,
+        "word": "国民死刑投票 烂尾",
+        "onboard_time": 1700178629,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243192,
+        "num": 243192,
+        "word": "丫丫晒太阳吃果果",
+        "onboard_time": 1700187153,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230770,
+        "num": 230770,
+        "word": "长期吃辣的人后来怎么样了",
+        "onboard_time": 1700144327,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211613,
+        "num": 211613,
+        "word": "张遮判词",
+        "onboard_time": 1700183796,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211339,
+        "num": 211339,
+        "word": "王安宇把秦海璐整不会了",
+        "onboard_time": 1700180315,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197931,
+        "num": 197931,
+        "word": "杨紫跟谢娜撒娇要吃辣的",
+        "onboard_time": 1700186972,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187748,
+        "num": 187748,
+        "word": "缅甸5.9级地震云南震感明显",
+        "onboard_time": 1700187571,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164216,
+        "num": 164216,
+        "word": "理想MEGA",
+        "onboard_time": 1700187935,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158953,
+        "num": 158953,
+        "word": "她是敦煌的女儿",
+        "onboard_time": 1700179229,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156577,
+        "num": 156577,
+        "word": "小女孩滑梯口奶声奶气唱七子之歌",
+        "onboard_time": 1700187333,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152502,
+        "num": 152502,
+        "word": "花少四凤体重公开",
+        "onboard_time": 1700181274,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152101,
+        "num": 152101,
+        "word": "白鹿看到张凌赫露胸肌的反应",
+        "onboard_time": 1700187755,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143606,
+        "num": 143606,
+        "word": "世界早产日",
+        "onboard_time": 1700187632,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142726,
+        "num": 142726,
+        "word": "王星越公主请救我",
+        "onboard_time": 1700184996,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139322,
+        "num": 139322,
+        "word": "王者荣耀",
+        "onboard_time": 1700148041,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128267,
+        "num": 128267,
+        "word": "王心凌怎么保持状态的",
+        "onboard_time": 1700187213,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125848,
+        "num": 125848,
+        "word": "明国平等三名缅北电诈头目被缉拿归案",
+        "onboard_time": 1700131595,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124893,
+        "num": 124893,
+        "word": "欢迎继续投资中国深耕中国",
+        "onboard_time": 1700176646,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116673,
+        "num": 116673,
+        "word": "小欢喜剧组在海清新片首映团建",
+        "onboard_time": 1700183676,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246126,
+        "num": 116296,
+        "word": "阿根廷乌拉圭冲突",
+        "onboard_time": 1700183618,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115912,
+        "num": 115912,
+        "word": "海底捞个别门店试点调整份量和价格",
+        "onboard_time": 1700177668,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 112809,
+        "num": 112809,
+        "word": "现实版李峋",
+        "onboard_time": 1700145891,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109684,
+        "num": 109684,
+        "word": "男童不敢过斑马线陌生阿姨暖心护送",
+        "onboard_time": 1700185355,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108639,
+        "num": 108639,
+        "word": "宋亚轩是第一个给沈涛得子发恭喜的",
+        "onboard_time": 1700147148,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108632,
+        "num": 108632,
+        "word": "电诈头目移交我方后将受到哪些制裁",
+        "onboard_time": 1700180915,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107192,
+        "num": 107192,
+        "word": "秦海璐迪丽热巴职业病",
+        "onboard_time": 1700180133,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106701,
+        "num": 106701,
+        "word": "野生大熊猫实时视频电话接通了",
+        "onboard_time": 1700175743,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94387,
+        "num": 106701,
+        "word": "迪亚斯父亲哭了",
+        "onboard_time": 1700188114,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91663,
+        "num": 106694,
+        "word": "王昭君 讲日语",
+        "onboard_time": 1700183018,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88795,
+        "num": 106692,
+        "word": "国足 裁判",
+        "onboard_time": 1700180675,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放包容是亚太合作的主旋律#"
+    }
+  }
+}

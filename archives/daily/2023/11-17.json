@@ -1,13 +1,21 @@
 {
   "startTime": 1700151864540,
-  "endTime": 1700185058658,
+  "endTime": 1700188179069,
   "band_list": [
     {
       "raw_hot": 3248541,
-      "num": 349685,
+      "num": 367375,
       "word": "马航MH370事件将正式开庭",
       "onboard_time": 1700181875,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2507558,
+      "num": 679214,
+      "word": "中缅边境发生地震",
+      "onboard_time": 1700186254,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -27,6 +35,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1012020,
+      "num": 361064,
+      "word": "梅西锁喉",
+      "onboard_time": 1700184696,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 984674,
+      "num": 602688,
+      "word": "阿根廷0比2乌拉圭",
+      "onboard_time": 1700186914,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 928642,
       "num": 348477,
       "word": "为让4岁男孩落户18岁父亲现身亲子鉴定",
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 868397,
-      "num": 348363,
+      "num": 350136,
       "word": "洪胜汉 崔秀彬",
       "onboard_time": 1700180793,
       "rank": 11,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 821886,
-      "num": 345332,
+      "num": 346264,
       "word": "小说里的总裁都降级消费了",
       "onboard_time": 1700179051,
       "rank": 13,
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 754972,
-      "num": 356010,
+      "num": 511114,
       "word": "刘亦菲迪士尼公主出场",
       "onboard_time": 1700176102,
       "rank": 6,
@@ -107,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477901,
+      "num": 477901,
+      "word": "谢娜睡前给张杰语音说爱你",
+      "onboard_time": 1700183435,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471750,
       "num": 226822,
       "word": "秦岚 另一半没有严丝合缝的",
@@ -121,6 +153,14 @@
       "onboard_time": 1700177668,
       "rank": 45,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 444548,
+      "num": 444548,
+      "word": "怪不得古天乐后来不跳舞了",
+      "onboard_time": 1700182778,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 433607,
@@ -179,12 +219,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 363514,
-      "num": 329044,
-      "word": "怪不得古天乐后来不跳舞了",
-      "onboard_time": 1700182778,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 373901,
+      "num": 373901,
+      "word": "刘些宁 铁坦公主",
+      "onboard_time": 1700183435,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344146,
+      "num": 344146,
+      "word": "cp30",
+      "onboard_time": 1700182837,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 342138,
@@ -195,12 +243,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 341790,
+      "num": 697298,
+      "word": "澳门官方暖心回应萌娃唱七子之歌",
+      "onboard_time": 1700185834,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337746,
       "num": 315974,
       "word": "国家一级演员苏孝林被公诉",
       "onboard_time": 1700146846,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335628,
+      "num": 335628,
+      "word": "8岁娃没上学睡树林里民警找了一上午",
+      "onboard_time": 1700182537,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332565,
@@ -211,20 +275,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322573,
-      "num": 322573,
-      "word": "刘些宁 铁坦公主",
-      "onboard_time": 1700183435,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 322244,
-      "num": 322244,
-      "word": "谢娜睡前给张杰语音说爱你",
-      "onboard_time": 1700183435,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 328594,
+      "num": 328594,
+      "word": "拿破仑内地定档",
+      "onboard_time": 1700187812,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 312493,
@@ -243,28 +299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287658,
+      "num": 287658,
+      "word": "柯南黑铁的鱼影确认引进",
+      "onboard_time": 1700187876,
+      "rank": 18,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 279874,
       "num": 279874,
       "word": "现实版李峋",
       "onboard_time": 1700145891,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270534,
-      "num": 270534,
-      "word": "梅西锁喉",
-      "onboard_time": 1700184696,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 268834,
-      "num": 268834,
-      "word": "8岁娃没上学睡树林里民警找了一上午",
-      "onboard_time": 1700182537,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248974,
@@ -275,12 +323,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 242696,
-      "num": 242696,
-      "word": "cp30",
-      "onboard_time": 1700182837,
+      "raw_hot": 243192,
+      "num": 243192,
+      "word": "丫丫晒太阳吃果果",
+      "onboard_time": 1700187153,
       "rank": 21,
-      "category": "动漫"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233616,
@@ -371,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197931,
+      "num": 197931,
+      "word": "杨紫跟谢娜撒娇要吃辣的",
+      "onboard_time": 1700186972,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195642,
       "num": 195642,
       "word": "国足 裁判",
@@ -384,6 +440,14 @@
       "word": "男子半夜爬独居女子窗户被击落身亡",
       "onboard_time": 1700127693,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187748,
+      "num": 187748,
+      "word": "缅甸5.9级地震云南震感明显",
+      "onboard_time": 1700187571,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -467,11 +531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164216,
+      "num": 164216,
+      "word": "理想MEGA",
+      "onboard_time": 1700187935,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 157100,
       "num": 157100,
       "word": "00后新警收到定制警旗后开心到起飞",
       "onboard_time": 1700158102,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156577,
+      "num": 156577,
+      "word": "小女孩滑梯口奶声奶气唱七子之歌",
+      "onboard_time": 1700187333,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -481,6 +561,14 @@
       "onboard_time": 1700177067,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "白鹿看到张凌赫露胸肌的反应",
+      "onboard_time": 1700187755,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 151308,
@@ -513,6 +601,22 @@
       "onboard_time": 1700140181,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143606,
+      "num": 143606,
+      "word": "世界早产日",
+      "onboard_time": 1700187632,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142726,
+      "num": 142726,
+      "word": "王星越公主请救我",
+      "onboard_time": 1700184996,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 141337,
@@ -569,6 +673,14 @@
       "onboard_time": 1700130756,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128267,
+      "num": 128267,
+      "word": "王心凌怎么保持状态的",
+      "onboard_time": 1700187213,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 126621,
@@ -667,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109684,
+      "num": 109684,
+      "word": "男童不敢过斑马线陌生阿姨暖心护送",
+      "onboard_time": 1700185355,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109297,
       "num": 113263,
       "word": "aespa金玟庭Drama直拍",
@@ -723,12 +843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96841,
-      "num": 96841,
-      "word": "王星越公主请救我",
-      "onboard_time": 1700184996,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 94387,
+      "num": 106701,
+      "word": "迪亚斯父亲哭了",
+      "onboard_time": 1700188114,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90236,
@@ -737,6 +857,14 @@
       "onboard_time": 1700147568,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87352,
+      "num": 373713,
+      "word": "中美关系的大门是由人民打开的",
+      "onboard_time": 1700172495,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86043,
@@ -763,14 +891,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 85201,
-      "num": 351017,
-      "word": "中美关系的大门是由人民打开的",
-      "onboard_time": 1700172495,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83483,
       "num": 83483,
       "word": "2023王者世冠KIC",
@@ -788,7 +908,7 @@
     },
     {
       "raw_hot": 79109,
-      "num": 361118,
+      "num": 648355,
       "word": "一个选择三项原则五根支柱",
       "onboard_time": 1700177427,
       "rank": 2,
@@ -860,7 +980,7 @@
     },
     {
       "raw_hot": 37029,
-      "num": 358108,
+      "num": 545418,
       "word": "打造合作共赢的开放型亚太经济",
       "onboard_time": 1700177608,
       "rank": 9,
