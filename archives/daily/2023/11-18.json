@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700263054951,
+  "endTime": 1700264069253,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -139,20 +139,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 296333,
+      "num": 243578,
+      "word": "4名缅北电诈头目为何2人户籍地在云南",
+      "onboard_time": 1700228677,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294997,
+      "num": 216885,
+      "word": "缅北电诈集团首犯明学昌畏罪自杀",
+      "onboard_time": 1700261899,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279310,
       "num": 253851,
       "word": "主播女孩重度依赖编剧在浦东机场走丢",
       "onboard_time": 1700225312,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 268687,
-      "num": 243578,
-      "word": "4名缅北电诈头目为何2人户籍地在云南",
-      "onboard_time": 1700228677,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258464,
@@ -168,6 +176,14 @@
       "word": "妈妈经常私拆快递26岁女儿崩溃",
       "onboard_time": 1700228196,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232648,
+      "num": 232648,
+      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+      "onboard_time": 1700229813,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 212203,
+      "num": 212203,
+      "word": "五月天嘉宾 14号观众",
+      "onboard_time": 1700262019,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208499,
       "num": 208499,
       "word": "把从大山里考出来的孩子送回深山",
@@ -203,6 +227,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 202328,
+      "num": 202328,
+      "word": "刘亦菲看到胡军的表情",
+      "onboard_time": 1700246596,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 194195,
       "num": 194195,
       "word": "张遮 面包哥",
@@ -211,28 +243,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190141,
-      "num": 119490,
+      "raw_hot": 192190,
+      "num": 192190,
+      "word": "男子被撞倒后遭多次碾压身亡",
+      "onboard_time": 1700263281,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190868,
+      "num": 190868,
       "word": "临沧分拣中心",
       "onboard_time": 1700253015,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182139,
-      "num": 118397,
-      "word": "刘亦菲看到胡军的表情",
-      "onboard_time": 1700246596,
-      "rank": 13,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 181251,
-      "num": 181251,
-      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
-      "onboard_time": 1700229813,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 176662,
+      "num": 176662,
+      "word": "拜登发言时看布林肯眼色",
+      "onboard_time": 1700263102,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 171958,
@@ -251,20 +283,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164384,
+      "num": 202134,
+      "word": "一到冬天为什么中西医都建议吃羊肉",
+      "onboard_time": 1700236414,
+      "rank": 41,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 157152,
       "num": 157152,
       "word": "关晓彤觉得张真源适合当王牌游戏组导演",
       "onboard_time": 1700234025,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155808,
-      "num": 155808,
-      "word": "五月天嘉宾 14号观众",
-      "onboard_time": 1700262019,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 151336,
@@ -297,22 +329,6 @@
       "onboard_time": 1700234323,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141440,
-      "num": 141440,
-      "word": "一到冬天为什么中西医都建议吃羊肉",
-      "onboard_time": 1700236414,
-      "rank": 41,
-      "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 140759,
-      "num": 140759,
-      "word": "缅北电诈集团首犯明学昌畏罪自杀",
-      "onboard_time": 1700261899,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138197,
@@ -395,6 +411,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 104932,
+      "num": 99574,
+      "word": "动物园里多了一只冻脚的傻鸟",
+      "onboard_time": 1700262802,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103009,
       "num": 103009,
       "word": "安陵容的那句精疲力尽真实含义",
@@ -409,6 +433,14 @@
       "onboard_time": 1700233550,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97723,
+      "num": 97723,
+      "word": "2023APEC",
+      "onboard_time": 1700263642,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87818,
@@ -451,12 +483,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70453,
+      "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
       "onboard_time": 1700238210,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71166,
+      "num": 71166,
+      "word": "张遮看到姜雪宁被烫的反应",
+      "onboard_time": 1700251454,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68895,
+      "num": 68895,
+      "word": "全红婵代言的女装品牌被吐槽丑",
+      "onboard_time": 1700263945,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 66972,
@@ -467,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66802,
+      "num": 66802,
+      "word": "offer5玻璃门要不要擦这么干净",
+      "onboard_time": 1700263463,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64430,
       "num": 149562,
       "word": "全班同学为即将休产假老师准备惊喜",
@@ -475,20 +531,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 59801,
-      "num": 59801,
-      "word": "动物园里多了一只冻脚的傻鸟",
-      "onboard_time": 1700262802,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 60488,
+      "num": 64609,
+      "word": "许凯一场戏亲了两个人",
+      "onboard_time": 1700248634,
+      "rank": 36,
+      "category": "剧集"
     },
     {
-      "raw_hot": 56917,
-      "num": 64119,
-      "word": "张遮看到姜雪宁被烫的反应",
-      "onboard_time": 1700251454,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 59782,
+      "num": 59782,
+      "word": "方便面到底是不是垃圾食品",
+      "onboard_time": 1700262802,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 59030,
+      "num": 65505,
+      "word": "王栎鑫 谁比谁差",
+      "onboard_time": 1700255533,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 48746,
@@ -499,20 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47146,
-      "num": 65505,
-      "word": "王栎鑫 谁比谁差",
-      "onboard_time": 1700255533,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 44488,
-      "num": 55020,
-      "word": "方便面到底是不是垃圾食品",
-      "onboard_time": 1700262802,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 43806,
+      "num": 50581,
+      "word": "主人堆雪怀念丢失小狗",
+      "onboard_time": 1700263885,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 33707,
@@ -531,16 +587,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28375,
-      "num": 64609,
-      "word": "许凯一场戏亲了两个人",
-      "onboard_time": 1700248634,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22284,
-      "num": 176032,
+      "num": 230209,
       "word": "亚太合作新的时代之问",
       "onboard_time": 1700254874,
       "rank": 2,
