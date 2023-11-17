@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700241388910,
+  "endTime": 1700242447283,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -3395,6 +3395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 568989,
+      "num": 345215,
+      "word": "佘诗曼 给内娱一些女王震撼",
+      "onboard_time": 1700239647,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568482,
       "num": 568482,
       "word": "河南推出胡辣汤奶茶还送油条",
@@ -4201,14 +4209,6 @@
       "onboard_time": 1699754611,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471286,
-      "num": 345215,
-      "word": "佘诗曼 给内娱一些女王震撼",
-      "onboard_time": 1700239647,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 470979,
@@ -16203,6 +16203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75804,
+      "num": 75804,
+      "word": "王安宇的镜头好有故事感",
+      "onboard_time": 1700241263,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73914,
       "num": 177317,
       "word": "暖阳真的不冷吗",
@@ -16537,14 +16545,6 @@
       "onboard_time": 1700061515,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48496,
-      "num": 48496,
-      "word": "王安宇的镜头好有故事感",
-      "onboard_time": 1700241263,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 48260,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700241388910,
+  "endTime": 1700242447283,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -59,20 +59,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 568989,
+      "num": 345215,
+      "word": "佘诗曼 给内娱一些女王震撼",
+      "onboard_time": 1700239647,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512002,
       "num": 512002,
       "word": "刘亦菲 油画公主",
       "onboard_time": 1700229996,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 471286,
-      "num": 345215,
-      "word": "佘诗曼 给内娱一些女王震撼",
-      "onboard_time": 1700239647,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 445791,
@@ -395,6 +395,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 75804,
+      "num": 75804,
+      "word": "王安宇的镜头好有故事感",
+      "onboard_time": 1700241263,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73583,
       "num": 87695,
       "word": "大姐爬完香山献血地铁虚脱警民齐相助",
@@ -420,19 +428,19 @@
     },
     {
       "raw_hot": 48746,
-      "num": 48746,
+      "num": 50938,
       "word": "宁安如梦的疯吹到大学宿舍",
       "onboard_time": 1700225494,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 48496,
-      "num": 48496,
-      "word": "王安宇的镜头好有故事感",
-      "onboard_time": 1700241263,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 33707,
+      "num": 50832,
+      "word": "外面的咖啡已经进化成这样了",
+      "onboard_time": 1700219793,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 15058,
