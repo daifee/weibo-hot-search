@@ -1,0 +1,410 @@
+{
+  "runTime": 1700217416353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 42231,
+        "num": 487618,
+        "word": "赓续友谊的相聚",
+        "onboard_time": 1700191775,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284996,
+        "num": 480456,
+        "word": "17岁少年照顾脑瘫同学近5年",
+        "onboard_time": 1700214633,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74823,
+        "num": 457133,
+        "word": "2023年电影总票房突破500亿元",
+        "onboard_time": 1700208513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237361,
+        "num": 440809,
+        "word": "49岁环卫大姐与国外友人交流无障碍",
+        "onboard_time": 1700214633,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734303,
+        "num": 439114,
+        "word": "中日关系正处于承前启后的关键时期",
+        "onboard_time": 1700213672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146406,
+        "num": 419494,
+        "word": "蒲熠星 跟大家分享一件失败的事情",
+        "onboard_time": 1700213253,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101634,
+        "num": 402029,
+        "word": "男孩教科书式报警冷静助伙伴脱困",
+        "onboard_time": 1700214633,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593838,
+        "num": 382572,
+        "word": "张遮断腿了",
+        "onboard_time": 1700215533,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487666,
+        "num": 361447,
+        "word": "川菜成为全国第一大菜系",
+        "onboard_time": 1700216194,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360223,
+        "num": 360223,
+        "word": "坚决打击恶意开盒挂人行为",
+        "onboard_time": 1700214091,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 746411,
+        "num": 360052,
+        "word": "小S和Melody同框 像看了半集康熙",
+        "onboard_time": 1700211694,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587408,
+        "num": 359013,
+        "word": "涉过愤怒的海停尸间是实景拍摄",
+        "onboard_time": 1700211094,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479014,
+        "num": 358426,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356088,
+        "num": 356088,
+        "word": "女子裸辞做旅行博主投入几十万零收入",
+        "onboard_time": 1700193875,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329718,
+        "num": 329718,
+        "word": "周也性感野猫妆",
+        "onboard_time": 1700217395,
+        "rank": 14,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 298911,
+        "num": 298911,
+        "word": "六公主评张小斐作品认可度",
+        "onboard_time": 1700214275,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289372,
+        "num": 289372,
+        "word": "肺炎支原体感染愈后多吃白色食物",
+        "onboard_time": 1700216315,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276198,
+        "num": 276198,
+        "word": "张婧仪平刘海live",
+        "onboard_time": 1700212892,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 260823,
+        "num": 260823,
+        "word": "沪上阿姨 回收",
+        "onboard_time": 1700199874,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251410,
+        "num": 251410,
+        "word": "佘诗曼还在3楼 周迅黄渤已经到B1",
+        "onboard_time": 1700211752,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464541,
+        "num": 249266,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244984,
+        "num": 244984,
+        "word": "傅首尔 老刘",
+        "onboard_time": 1700192794,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244689,
+        "num": 244689,
+        "word": "刘亦菲紫色花神",
+        "onboard_time": 1700204495,
+        "rank": 22,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 243731,
+        "num": 243731,
+        "word": "安徽宏村现丁达尔现象",
+        "onboard_time": 1700212533,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188556,
+        "num": 188556,
+        "word": "网信办发通知集中整治7类突出问题",
+        "onboard_time": 1700211991,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "谢娜找杨迪参加节目后就蹭蹭地火了",
+        "onboard_time": 1700213553,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182481,
+        "num": 182481,
+        "word": "教育部称汉语拼音o应读喔",
+        "onboard_time": 1700210674,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178202,
+        "num": 178202,
+        "word": "清冷感银河妆教程",
+        "onboard_time": 1700215714,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175945,
+        "num": 175945,
+        "word": "关晓彤红衣琵琶女",
+        "onboard_time": 1700215892,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174149,
+        "num": 174149,
+        "word": "刘亦菲配音迪士尼星愿",
+        "onboard_time": 1700202394,
+        "rank": 29,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 219232,
+        "num": 173868,
+        "word": "30秒扎好的卫衣发型",
+        "onboard_time": 1700216433,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173520,
+        "num": 173520,
+        "word": "以爱为营",
+        "onboard_time": 1700215056,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171474,
+        "num": 171474,
+        "word": "法老发新歌了",
+        "onboard_time": 1700214573,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169179,
+        "num": 169179,
+        "word": "昨天爆改金希澈今天回到李二牛",
+        "onboard_time": 1700198198,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159032,
+        "num": 159032,
+        "word": "上海迪士尼限定款烟花秀",
+        "onboard_time": 1700210854,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143287,
+        "num": 143287,
+        "word": "穿汉服怎么扎头发",
+        "onboard_time": 1700214633,
+        "rank": 35,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 142022,
+        "word": "24岁女孩肝癌晚期医护提前为其过生日",
+        "onboard_time": 1700196821,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 140321,
+        "word": "懒人早餐一个月不重样",
+        "onboard_time": 1700208934,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137761,
+        "num": 137761,
+        "word": "于适山羊发型",
+        "onboard_time": 1700213612,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137589,
+        "num": 137589,
+        "word": "发型的重要性",
+        "onboard_time": 1700214812,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 131177,
+        "num": 131177,
+        "word": "最舒服的两性情侣关系",
+        "onboard_time": 1700198558,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128601,
+        "num": 128601,
+        "word": "暴雪宣布与网易停止合作一周年",
+        "onboard_time": 1700200954,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125264,
+        "num": 125264,
+        "word": "摆拍外卖媛网红向骑手道歉",
+        "onboard_time": 1700204012,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 123492,
+        "word": "终于听懂了TizzyT的橘子",
+        "onboard_time": 1700217155,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117884,
+        "num": 123089,
+        "word": "王昭君 美少女战士",
+        "onboard_time": 1700205154,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112215,
+        "num": 120114,
+        "word": "ENHYPEN 敷衍",
+        "onboard_time": 1700198437,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110882,
+        "num": 119211,
+        "word": "周迅 我又上桌了",
+        "onboard_time": 1700205994,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99729,
+        "num": 117507,
+        "word": "Rain金泰熙 行车记录仪拍出韩剧",
+        "onboard_time": 1700190634,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97552,
+        "num": 115189,
+        "word": "6000多年前的彩陶片上发现古人指纹",
+        "onboard_time": 1700214694,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97365,
+        "num": 112202,
+        "word": "张靓颖迪士尼公主造型",
+        "onboard_time": 1700208934,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见斐济总理兰布卡#"
+    }
+  }
+}
