@@ -1,0 +1,410 @@
+{
+  "runTime": 1700227294993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 884702,
+        "num": 884702,
+        "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
+        "onboard_time": 1700216855,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224328,
+        "num": 884388,
+        "word": "国务院安委会挂牌督办吕梁火灾事故",
+        "onboard_time": 1700221175,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31111,
+        "num": 884274,
+        "word": "从旧金山出发互相走动树立正确认知",
+        "onboard_time": 1700226094,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902457,
+        "num": 883544,
+        "word": "沈梦辰 我没有引以为傲的作品",
+        "onboard_time": 1700224054,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511246,
+        "num": 883138,
+        "word": "五月天感谢马思纯绿色出行去看演唱会",
+        "onboard_time": 1700222913,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 358088,
+        "num": 882802,
+        "word": "陈楚生王栎鑫无缝续房",
+        "onboard_time": 1700225494,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338026,
+        "num": 882334,
+        "word": "EDG 接AD",
+        "onboard_time": 1700220933,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 327569,
+        "num": 882177,
+        "word": "关晓彤敦煌飞天妆",
+        "onboard_time": 1700219373,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 309316,
+        "num": 881859,
+        "word": "成龙是龙皮 娜扎是扎啤",
+        "onboard_time": 1700220451,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252873,
+        "num": 881196,
+        "word": "肺炎支原体感染愈后多吃白色食物",
+        "onboard_time": 1700216315,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1195347,
+        "num": 880787,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880747,
+        "num": 880747,
+        "word": "歌手KAN去世",
+        "onboard_time": 1700223513,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847047,
+        "num": 847047,
+        "word": "普男爆改张元英",
+        "onboard_time": 1700221112,
+        "rank": 12,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 664675,
+        "num": 664675,
+        "word": "主播女孩重度依赖编剧在浦东机场走丢",
+        "onboard_time": 1700225312,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 505833,
+        "num": 505833,
+        "word": "白敬亭顺毛",
+        "onboard_time": 1700225795,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 461086,
+        "num": 461086,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 400548,
+        "num": 400548,
+        "word": "土屋太凤产子后首亮相",
+        "onboard_time": 1700223753,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282953,
+        "num": 328874,
+        "word": "对电诈既要斩草也要除根",
+        "onboard_time": 1700226576,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275293,
+        "num": 305297,
+        "word": "把从大山里考出来的孩子送回深山",
+        "onboard_time": 1700218835,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 226316,
+        "num": 301187,
+        "word": "Deft推迟入伍时间到2025",
+        "onboard_time": 1700224954,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299832,
+        "num": 299832,
+        "word": "鹿晗 客服小张新歌听起来",
+        "onboard_time": 1700222013,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293697,
+        "num": 293697,
+        "word": "红猪",
+        "onboard_time": 1700225556,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218186,
+        "num": 288039,
+        "word": "一千只螃蟹堆成的山",
+        "onboard_time": 1700224830,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175177,
+        "num": 284909,
+        "word": "原来新疆馕的种类居然这么多",
+        "onboard_time": 1700226996,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165002,
+        "num": 283496,
+        "word": "外面的咖啡已经进化成这样了",
+        "onboard_time": 1700219793,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282733,
+        "num": 282733,
+        "word": "周迅 狠人就要擦口红",
+        "onboard_time": 1700225795,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267928,
+        "num": 267928,
+        "word": "小S和Melody同框 像看了半集康熙",
+        "onboard_time": 1700211694,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153566,
+        "num": 267872,
+        "word": "鲁J1533警你做得好事藏不住了",
+        "onboard_time": 1700218233,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129811,
+        "num": 267016,
+        "word": "决战考研",
+        "onboard_time": 1700220393,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121684,
+        "num": 266540,
+        "word": "狮子座流星雨",
+        "onboard_time": 1700223275,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164983,
+        "num": 265476,
+        "word": "DRG对战KSG",
+        "onboard_time": 1700226035,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265198,
+        "num": 265198,
+        "word": "宁安如梦的疯吹到大学宿舍",
+        "onboard_time": 1700225494,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247018,
+        "num": 247018,
+        "word": "刘亦菲张靓颖周深于适同框",
+        "onboard_time": 1700221354,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229351,
+        "num": 229351,
+        "word": "她谈案件他谈暗恋",
+        "onboard_time": 1700223153,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227526,
+        "num": 227526,
+        "word": "奔跑吧",
+        "onboard_time": 1700224896,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204282,
+        "num": 204282,
+        "word": "五月天 现场",
+        "onboard_time": 1700220991,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197054,
+        "num": 197054,
+        "word": "防弹少年团抛售HYBE股份",
+        "onboard_time": 1700226393,
+        "rank": 36,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 159421,
+        "num": 188011,
+        "word": "埃弗顿被扣10分",
+        "onboard_time": 1700227235,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157604,
+        "num": 186969,
+        "word": "明国安成明家唯一未上通缉令的人",
+        "onboard_time": 1700226576,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157472,
+        "num": 186504,
+        "word": "长期熬夜或会导致脑出血",
+        "onboard_time": 1700214754,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186491,
+        "num": 186491,
+        "word": "原来辛芷蕾私底下这么温柔",
+        "onboard_time": 1700224954,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180406,
+        "num": 180406,
+        "word": "宋茜新中式穿搭",
+        "onboard_time": 1700225973,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180050,
+        "num": 180050,
+        "word": "非凡医者",
+        "onboard_time": 1700227114,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 173763,
+        "word": "陶勇感谢杨幂支持视障人群",
+        "onboard_time": 1700219610,
+        "rank": 43,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 149872,
+        "num": 172286,
+        "word": "王自如 媚上表达",
+        "onboard_time": 1700220333,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149003,
+        "num": 172281,
+        "word": "双子座真的很难自愈",
+        "onboard_time": 1700221175,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172280,
+        "num": 172280,
+        "word": "琉璃主动踮脚吻",
+        "onboard_time": 1700223634,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118881,
+        "num": 159260,
+        "word": "滑雪为什么要穿速干衣",
+        "onboard_time": 1700225677,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 87933,
+        "num": 159258,
+        "word": "全班同学为即将休产假老师准备惊喜",
+        "onboard_time": 1700225253,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45843,
+        "num": 159257,
+        "word": "17岁少年照顾脑瘫同学近5年",
+        "onboard_time": 1700214633,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席在演讲中讲了六个故事#"
+    }
+  }
+}
