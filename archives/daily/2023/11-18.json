@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700275123522,
+  "endTime": 1700277490946,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -11,12 +11,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 2548790,
+      "num": 212454,
+      "word": "薛之谦竟然有儿子了",
+      "onboard_time": 1700274749,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1609882,
       "num": 420093,
       "word": "家属称老人已去世民警多看一眼救回",
       "onboard_time": 1700265026,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1534784,
+      "num": 306435,
+      "word": "同一天领证我还没办仪式他都离了",
+      "onboard_time": 1700276370,
+      "rank": 3,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 974272,
@@ -59,12 +75,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 712006,
+      "raw_hot": 813040,
       "num": 419939,
       "word": "日机构统计羽生结弦年收入至少4400万",
       "onboard_time": 1700274148,
       "rank": 16,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 714738,
+      "num": 302720,
+      "word": "霉霉 真封神",
+      "onboard_time": 1700275409,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 705416,
@@ -121,6 +145,14 @@
       "onboard_time": 1700229996,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508955,
+      "num": 212410,
+      "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+      "onboard_time": 1700274389,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494205,
@@ -195,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402174,
+      "num": 254569,
+      "word": "于适给刘亦菲让路失败又带错路",
+      "onboard_time": 1700275287,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 400112,
       "num": 711168,
       "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
@@ -217,14 +257,6 @@
       "onboard_time": 1700265026,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 373405,
-      "num": 212454,
-      "word": "薛之谦竟然有儿子了",
-      "onboard_time": 1700274749,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 373389,
@@ -251,6 +283,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359704,
+      "num": 299918,
+      "word": "奔跑吧生态篇今晚开播",
+      "onboard_time": 1700275409,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 353840,
+      "num": 253912,
+      "word": "罗云熙出发韩国",
+      "onboard_time": 1700274208,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339939,
       "num": 339939,
       "word": "五月天演唱会 粉丝整活",
@@ -264,6 +312,14 @@
       "word": "老人不会线上支付用现金给孙子交生活费",
       "onboard_time": 1700231735,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322275,
+      "num": 184482,
+      "word": "女子梦见老公出轨调查发现竟是真的",
+      "onboard_time": 1700276251,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -283,20 +339,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 309064,
-      "num": 212410,
-      "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
-      "onboard_time": 1700274389,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305649,
       "num": 161249,
       "word": "80后首富或为山东39岁的他",
       "onboard_time": 1700257574,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 297675,
+      "num": 297675,
+      "word": "陈雨菲力克安洗莹",
+      "onboard_time": 1700276191,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 296791,
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282908,
+      "num": 282908,
+      "word": "徐斯到手的结婚证飞了",
+      "onboard_time": 1700275830,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279310,
       "num": 253851,
       "word": "主播女孩重度依赖编剧在浦东机场走丢",
@@ -361,14 +425,6 @@
       "onboard_time": 1700222913,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253912,
-      "num": 253912,
-      "word": "罗云熙出发韩国",
-      "onboard_time": 1700274208,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 253062,
@@ -475,8 +531,16 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 198085,
+      "num": 198085,
+      "word": "利物浦球迷皇马球迷面基",
+      "onboard_time": 1700276251,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194754,
-      "num": 194754,
+      "num": 268810,
       "word": "aespa出道前的艺名候补",
       "onboard_time": 1700274029,
       "rank": 24,
@@ -513,6 +577,22 @@
       "onboard_time": 1700274509,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187968,
+      "num": 152492,
+      "word": "陈雨菲14连胜",
+      "onboard_time": 1700276669,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182417,
+      "num": 182417,
+      "word": "ENHYPEN勇闯中餐厅",
+      "onboard_time": 1700275049,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179145,
@@ -579,6 +659,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 158976,
+      "num": 158976,
+      "word": "货车失控男孩蜥蜴跑躲过一劫",
+      "onboard_time": 1700276789,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157251,
       "num": 157251,
       "word": "谢危 he",
@@ -595,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154600,
+      "num": 154600,
+      "word": "威神V主打一个强制爱",
+      "onboard_time": 1700276431,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154221,
       "num": 154221,
       "word": "坚持相互尊重和平共处合作共赢",
       "onboard_time": 1700271092,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 153152,
+      "num": 153152,
+      "word": "我本是高山 不光渡人还有渡己",
+      "onboard_time": 1700273369,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 152551,
@@ -633,6 +737,14 @@
       "onboard_time": 1700273909,
       "rank": 34,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 149757,
+      "num": 149757,
+      "word": "凤凰传奇的风终究是刮到了婚礼上",
+      "onboard_time": 1700275470,
+      "rank": 31,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 149553,
@@ -675,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140894,
-      "num": 140894,
-      "word": "我本是高山 不光渡人还有渡己",
-      "onboard_time": 1700273369,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 138825,
+      "num": 138825,
+      "word": "为什么总是无意识的刷手机",
+      "onboard_time": 1700275470,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 138197,
@@ -779,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125620,
+      "num": 125620,
+      "word": "睡前涂唇膏效果更佳",
+      "onboard_time": 1700277209,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 125498,
       "num": 125498,
       "word": "为救一只猫30人建了一个群",
@@ -851,12 +971,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 116077,
-      "num": 116077,
-      "word": "ENHYPEN勇闯中餐厅",
-      "onboard_time": 1700275049,
+      "raw_hot": 115091,
+      "num": 115091,
+      "word": "社牛女生让保安大爷说公主请回学校",
+      "onboard_time": 1700276970,
       "rank": 44,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113221,
@@ -1107,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27255,
+      "num": 309994,
+      "word": "跨越大洋的相聚",
+      "onboard_time": 1700253914,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25021,
       "num": 421089,
       "word": "亚太合作新的时代之问",
@@ -1149,6 +1277,9 @@
     },
     {
       "word": "#习主席旧金山之行#"
+    },
+    {
+      "word": "#让各国人民共享现代化建设成果#"
     }
   ]
 }
