@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700278480512,
+  "endTime": 1700281240260,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2464183,
-      "num": 565290,
+      "num": 678593,
       "word": "同一天领证我还没办仪式他都离了",
       "onboard_time": 1700276370,
       "rank": 3,
@@ -409,6 +409,14 @@
       "onboard_time": 1699751549,
       "rank": 3,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1816181,
+      "num": 654051,
+      "word": "霸王茶姬 免单",
+      "onboard_time": 1700280029,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 1808611,
@@ -2907,6 +2915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 648124,
+      "num": 648124,
+      "word": "税务师 算不清根本算不清",
+      "onboard_time": 1700280211,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 646345,
       "num": 646345,
       "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
@@ -4164,7 +4180,7 @@
     },
     {
       "raw_hot": 483712,
-      "num": 588999,
+      "num": 744180,
       "word": "大姐爬完香山献血地铁虚脱警民齐相助",
       "onboard_time": 1700229813,
       "rank": 47,
@@ -4772,7 +4788,7 @@
     },
     {
       "raw_hot": 431763,
-      "num": 192407,
+      "num": 205677,
       "word": "女子梦见老公出轨调查发现竟是真的",
       "onboard_time": 1700276251,
       "rank": 21,
@@ -5563,6 +5579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 381685,
+      "num": 325155,
+      "word": "回来吧我的虎大将军",
+      "onboard_time": 1700280211,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 381005,
       "num": 381005,
       "word": "鹿晗 客服小张新歌听起来",
@@ -5692,7 +5716,7 @@
     },
     {
       "raw_hot": 373389,
-      "num": 641301,
+      "num": 761535,
       "word": "2023APEC",
       "onboard_time": 1700189134,
       "rank": 29,
@@ -6187,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337154,
+      "num": 337154,
+      "word": "睡前涂唇膏效果更佳",
+      "onboard_time": 1700277209,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 335866,
       "num": 335866,
       "word": "电视剧要久久爱OST",
@@ -6491,6 +6523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319505,
+      "num": 501323,
+      "word": "货车失控男孩蜥蜴跑躲过一劫",
+      "onboard_time": 1700276789,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319177,
       "num": 308375,
       "word": "拜登发言时看布林肯眼色",
@@ -6761,6 +6801,14 @@
       "onboard_time": 1700029293,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 305805,
+      "num": 334688,
+      "word": "你好星期六",
+      "onboard_time": 1700277991,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 305649,
@@ -7081,6 +7129,14 @@
       "onboard_time": 1700261899,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294846,
+      "num": 333209,
+      "word": "关晓彤陶喆合照",
+      "onboard_time": 1700278051,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 293839,
@@ -7771,6 +7827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 270368,
+      "num": 270368,
+      "word": "用脚比中指challenge",
+      "onboard_time": 1700278112,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270332,
       "num": 1126707,
       "word": "阿里四小龙业务浮出水面",
@@ -7833,6 +7897,14 @@
       "onboard_time": 1699795236,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267395,
+      "num": 267395,
+      "word": "林俊杰咬到杨迪的手",
+      "onboard_time": 1700279310,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 267160,
@@ -8169,14 +8241,6 @@
       "onboard_time": 1700019451,
       "rank": 23,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 255894,
-      "num": 255894,
-      "word": "关晓彤陶喆合照",
-      "onboard_time": 1700278051,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 255837,
@@ -8731,14 +8795,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 239098,
-      "num": 501323,
-      "word": "货车失控男孩蜥蜴跑躲过一劫",
-      "onboard_time": 1700276789,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238806,
       "num": 238806,
       "word": "于适觉得封神如果三年前上自己接不住",
@@ -9249,6 +9305,14 @@
       "onboard_time": 1700051433,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226151,
+      "num": 192946,
+      "word": "起猛了被美团外卖通知免单十年",
+      "onboard_time": 1700278171,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 226120,
@@ -9867,14 +9931,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 212508,
-      "num": 212508,
-      "word": "睡前涂唇膏效果更佳",
-      "onboard_time": 1700277209,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 212037,
       "num": 212037,
       "word": "为什么冬天也需要涂防晒",
@@ -10267,20 +10323,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204823,
+      "num": 204823,
+      "word": "新闻女王 没一个好惹",
+      "onboard_time": 1700280931,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204813,
       "num": 204813,
       "word": "孙子抱着84岁的奶奶洗头",
       "onboard_time": 1700124335,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204582,
-      "num": 192083,
-      "word": "你好星期六",
-      "onboard_time": 1700277991,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 204532,
@@ -10457,6 +10513,14 @@
       "onboard_time": 1699879593,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 201866,
+      "num": 201866,
+      "word": "这就是街舞",
+      "onboard_time": 1700280151,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 201846,
@@ -10995,14 +11059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192946,
-      "num": 192946,
-      "word": "起猛了被美团外卖通知免单十年",
-      "onboard_time": 1700278171,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192694,
       "num": 192694,
       "word": "狗狗睡觉前都知道给自己盖好被子",
@@ -11201,6 +11257,14 @@
       "onboard_time": 1700269891,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189912,
+      "num": 189912,
+      "word": "涵艺爆料Creme加入TES",
+      "onboard_time": 1700280508,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 189816,
@@ -12091,6 +12155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177187,
+      "num": 177187,
+      "word": "税务师考试",
+      "onboard_time": 1700270552,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177156,
       "num": 177156,
       "word": "日本大熊猫粉丝团来川看香香",
@@ -12273,6 +12345,14 @@
       "onboard_time": 1700266708,
       "rank": 27,
       "category": "综艺,美食"
+    },
+    {
+      "raw_hot": 175131,
+      "num": 175131,
+      "word": "四川城市篮球联赛爆发大规模冲突",
+      "onboard_time": 1700279611,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 175039,
@@ -13123,6 +13203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161485,
+      "num": 161485,
+      "word": "谢危 he",
+      "onboard_time": 1700267070,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161421,
       "num": 161421,
       "word": "听李雪琴唱空荡荡心里空荡荡",
@@ -13345,14 +13433,6 @@
       "onboard_time": 1699787191,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 157251,
-      "num": 157251,
-      "word": "谢危 he",
-      "onboard_time": 1700267070,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 157100,
@@ -13939,6 +14019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147101,
+      "num": 147101,
+      "word": "娜扎也有过容貌焦虑",
+      "onboard_time": 1700278711,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146982,
       "num": 146982,
       "word": "aespa Karina 直拍",
@@ -14193,14 +14281,6 @@
       "onboard_time": 1700184996,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142610,
-      "num": 142610,
-      "word": "用脚比中指challenge",
-      "onboard_time": 1700278112,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 142602,
@@ -14475,6 +14555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138237,
+      "num": 138237,
+      "word": "姜雪宁汗流浃背修罗场",
+      "onboard_time": 1700280691,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137872,
       "num": 227368,
       "word": "中等强度厄尔尼诺事件已经形成",
@@ -14569,6 +14657,14 @@
       "onboard_time": 1700118757,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136088,
+      "num": 136088,
+      "word": "韩东君新剧道歉式开播",
+      "onboard_time": 1700277688,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 135958,
@@ -15097,14 +15193,6 @@
       "onboard_time": 1700123253,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127695,
-      "num": 127695,
-      "word": "韩东君新剧道歉式开播",
-      "onboard_time": 1700277688,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 127681,
@@ -16099,6 +16187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112185,
+      "num": 112185,
+      "word": "给我来个小狐狸 整条街没一个正常人",
+      "onboard_time": 1700279310,
+      "rank": 39,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 111776,
       "num": 111776,
       "word": "麦当劳猫包",
@@ -16259,6 +16355,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 108937,
+      "num": 108937,
+      "word": "莫青成 盯妻狂魔",
+      "onboard_time": 1700281110,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108856,
       "num": 1066792,
       "word": "关于APEC的知识点",
@@ -16273,6 +16377,14 @@
       "onboard_time": 1700063011,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 108729,
+      "num": 108729,
+      "word": "吴磊说看完怒海像淋了场愤怒的雨",
+      "onboard_time": 1700281052,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 107810,
@@ -16609,14 +16721,6 @@
       "onboard_time": 1700176766,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98129,
-      "num": 98129,
-      "word": "税务师考试",
-      "onboard_time": 1700270552,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 97879,
@@ -17580,7 +17684,7 @@
     },
     {
       "raw_hot": 28609,
-      "num": 572042,
+      "num": 709657,
       "word": "跨越大洋的相聚",
       "onboard_time": 1700253914,
       "rank": 2,

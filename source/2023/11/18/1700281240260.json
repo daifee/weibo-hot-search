@@ -1,0 +1,410 @@
+{
+  "runTime": 1700281240260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 251488,
+        "num": 761535,
+        "word": "2023APEC",
+        "onboard_time": 1700263642,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192369,
+        "num": 744180,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21752,
+        "num": 709657,
+        "word": "跨越大洋的相聚",
+        "onboard_time": 1700253914,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2056726,
+        "num": 678593,
+        "word": "同一天领证我还没办仪式他都离了",
+        "onboard_time": 1700276370,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1816181,
+        "num": 654051,
+        "word": "霸王茶姬 免单",
+        "onboard_time": 1700280029,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 648124,
+        "num": 648124,
+        "word": "税务师 算不清根本算不清",
+        "onboard_time": 1700280211,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 421682,
+        "num": 421682,
+        "word": "霉霉 真封神",
+        "onboard_time": 1700275409,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337154,
+        "num": 337154,
+        "word": "睡前涂唇膏效果更佳",
+        "onboard_time": 1700277209,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305805,
+        "num": 334688,
+        "word": "你好星期六",
+        "onboard_time": 1700277991,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294846,
+        "num": 333209,
+        "word": "关晓彤陶喆合照",
+        "onboard_time": 1700278051,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514535,
+        "num": 328395,
+        "word": "家属称老人已去世民警多看一眼救回",
+        "onboard_time": 1700265026,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381685,
+        "num": 325155,
+        "word": "回来吧我的虎大将军",
+        "onboard_time": 1700280211,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322653,
+        "num": 322653,
+        "word": "于适给刘亦菲让路失败又带错路",
+        "onboard_time": 1700275287,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319505,
+        "num": 319505,
+        "word": "货车失控男孩蜥蜴跑躲过一劫",
+        "onboard_time": 1700276789,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305799,
+        "num": 305799,
+        "word": "全红婵代言的女装品牌被吐槽丑",
+        "onboard_time": 1700263945,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293474,
+        "num": 293474,
+        "word": "日机构统计羽生结弦年收入至少4400万",
+        "onboard_time": 1700274148,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 270368,
+        "num": 270368,
+        "word": "用脚比中指challenge",
+        "onboard_time": 1700278112,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267395,
+        "num": 267395,
+        "word": "林俊杰咬到杨迪的手",
+        "onboard_time": 1700279310,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217365,
+        "num": 217365,
+        "word": "罗云熙出发韩国",
+        "onboard_time": 1700274208,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207954,
+        "num": 207954,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 2452716,
+        "num": 206689,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502131,
+        "num": 206044,
+        "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+        "onboard_time": 1700274389,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425248,
+        "num": 205677,
+        "word": "女子梦见老公出轨调查发现竟是真的",
+        "onboard_time": 1700276251,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204823,
+        "num": 204823,
+        "word": "新闻女王 没一个好惹",
+        "onboard_time": 1700280931,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201866,
+        "num": 201866,
+        "word": "这就是街舞",
+        "onboard_time": 1700280151,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189912,
+        "num": 189912,
+        "word": "涵艺爆料Creme加入TES",
+        "onboard_time": 1700280508,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177187,
+        "num": 177187,
+        "word": "税务师考试",
+        "onboard_time": 1700270552,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175131,
+        "num": 175131,
+        "word": "四川城市篮球联赛爆发大规模冲突",
+        "onboard_time": 1700279611,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172054,
+        "num": 172054,
+        "word": "徐斯到手的结婚证飞了",
+        "onboard_time": 1700275830,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170498,
+        "num": 170498,
+        "word": "奔跑吧生态篇今晚开播",
+        "onboard_time": 1700275409,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161485,
+        "num": 161485,
+        "word": "谢危 he",
+        "onboard_time": 1700267070,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226151,
+        "num": 158678,
+        "word": "起猛了被美团外卖通知免单十年",
+        "onboard_time": 1700278171,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147101,
+        "num": 147101,
+        "word": "娜扎也有过容貌焦虑",
+        "onboard_time": 1700278711,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144197,
+        "num": 144197,
+        "word": "羽生结弦结婚时间",
+        "onboard_time": 1700235521,
+        "rank": 33,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 143624,
+        "num": 143624,
+        "word": "刘端端含泪跪戏",
+        "onboard_time": 1700277810,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138237,
+        "num": 138237,
+        "word": "姜雪宁汗流浃背修罗场",
+        "onboard_time": 1700280691,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136088,
+        "num": 136088,
+        "word": "韩东君新剧道歉式开播",
+        "onboard_time": 1700277688,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132648,
+        "num": 132648,
+        "word": "男友第1句话是你咋穿那么少",
+        "onboard_time": 1700272769,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117794,
+        "num": 117794,
+        "word": "aespa出道前的艺名候补",
+        "onboard_time": 1700274029,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112185,
+        "num": 112185,
+        "word": "给我来个小狐狸 整条街没一个正常人",
+        "onboard_time": 1700279310,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 108937,
+        "num": 108937,
+        "word": "莫青成 盯妻狂魔",
+        "onboard_time": 1700281110,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108729,
+        "num": 108729,
+        "word": "吴磊说看完怒海像淋了场愤怒的雨",
+        "onboard_time": 1700281052,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97980,
+        "num": 97980,
+        "word": "陈雨菲力克安洗莹",
+        "onboard_time": 1700276191,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107893,
+        "num": 97181,
+        "word": "李现说怒海每一秒都是新的震撼",
+        "onboard_time": 1700278291,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95806,
+        "num": 95806,
+        "word": "我本是高山 不光渡人还有渡己",
+        "onboard_time": 1700273369,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95153,
+        "num": 95153,
+        "word": "ChatGPT创始人奥特曼回应被解职",
+        "onboard_time": 1700269292,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93973,
+        "num": 93973,
+        "word": "佘诗曼 给内娱一些女王震撼",
+        "onboard_time": 1700239647,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92996,
+        "num": 92996,
+        "word": "谢可寅珠帘玉幕开机生图",
+        "onboard_time": 1700272952,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90440,
+        "num": 90440,
+        "word": "全职太太建议别做全职太太",
+        "onboard_time": 1700236176,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89424,
+        "num": 89424,
+        "word": "为什么总是无意识的刷手机",
+        "onboard_time": 1700275470,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让各国人民共享现代化建设成果#"
+    }
+  }
+}
