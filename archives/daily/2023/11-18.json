@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700291720241,
+  "endTime": 1700292844106,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 719686,
-      "num": 284134,
+      "num": 314618,
       "word": "时代少年团 妆造",
       "onboard_time": 1700288792,
       "rank": 16,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396958,
+      "num": 318106,
+      "word": "奥运冠军管晨辰再回应变胖",
+      "onboard_time": 1700290712,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396050,
       "num": 325155,
       "word": "回来吧我的虎大将军",
@@ -395,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389937,
+      "num": 389937,
+      "word": "林高远王艺迪 选拔赛",
+      "onboard_time": 1700291071,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383968,
       "num": 383968,
       "word": "五月天舞台 提词器",
       "onboard_time": 1700237612,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 381259,
+      "num": 345077,
+      "word": "马嘉祺白发挑染",
+      "onboard_time": 1700289992,
+      "rank": 12,
+      "category": "演出,时尚"
     },
     {
       "raw_hot": 379995,
@@ -457,14 +481,6 @@
       "onboard_time": 1700274208,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345077,
-      "num": 345077,
-      "word": "马嘉祺白发挑染",
-      "onboard_time": 1700289992,
-      "rank": 12,
-      "category": "演出,时尚"
     },
     {
       "raw_hot": 339939,
@@ -529,6 +545,14 @@
       "onboard_time": 1700263102,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 319102,
+      "num": 203000,
+      "word": "13快男重聚 全是人情世故",
+      "onboard_time": 1700291972,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 312261,
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290343,
+      "num": 290343,
+      "word": "李雪琴 恋爱还是会选相处舒服的人",
+      "onboard_time": 1700291672,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283755,
       "num": 283755,
       "word": "林俊杰铁刘海",
@@ -675,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258830,
-      "num": 131159,
-      "word": "奥运冠军管晨辰再回应变胖",
-      "onboard_time": 1700290712,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258464,
       "num": 258464,
       "word": "五月天感谢马思纯绿色出行去看演唱会",
@@ -705,14 +729,6 @@
       "onboard_time": 1700269292,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 252311,
-      "num": 365481,
-      "word": "林高远王艺迪 选拔赛",
-      "onboard_time": 1700291071,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 249912,
@@ -1019,12 +1035,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 178808,
+      "num": 178808,
+      "word": "穿衣服和搭衣服的区别",
+      "onboard_time": 1700289332,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 177187,
       "num": 177187,
       "word": "税务师考试",
       "onboard_time": 1700270552,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "在法中国学生因涉嫌反犹恐遭遣返",
+      "onboard_time": 1700292271,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175316,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1700272769,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170397,
+      "num": 170397,
+      "word": "网友给刘亦菲P的孔雀公主裙",
+      "onboard_time": 1700292633,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169568,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1700234025,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156578,
-      "num": 130257,
-      "word": "穿衣服和搭衣服的区别",
-      "onboard_time": 1700289332,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 154600,
@@ -1267,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138450,
+      "num": 138450,
+      "word": "为什么过量摄入甜食会影响视力",
+      "onboard_time": 1700290652,
+      "rank": 36,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 138237,
       "num": 138237,
       "word": "姜雪宁汗流浃背修罗场",
@@ -1331,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133681,
+      "num": 133681,
+      "word": "只有徐冬冬被郝蕾夸了",
+      "onboard_time": 1700291195,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133496,
       "num": 133496,
       "word": "RedVelvet音银新歌初舞台",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1700269171,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127890,
+      "num": 127890,
+      "word": "王栎鑫具象化的笑yue",
+      "onboard_time": 1700291735,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 127548,
@@ -1473,22 +1529,6 @@
       "onboard_time": 1700284712,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119211,
-      "num": 119211,
-      "word": "为什么过量摄入甜食会影响视力",
-      "onboard_time": 1700290652,
-      "rank": 36,
-      "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 118883,
-      "num": 118883,
-      "word": "只有徐冬冬被郝蕾夸了",
-      "onboard_time": 1700291195,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 117886,
@@ -1715,6 +1755,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 96216,
+      "num": 96216,
+      "word": "学生党友好平价香水分享",
+      "onboard_time": 1700291910,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 95852,
       "num": 95852,
       "word": "方便面到底是不是垃圾食品",
@@ -1753,14 +1801,6 @@
       "onboard_time": 1700221175,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86396,
-      "num": 86396,
-      "word": "李雪琴 恋爱还是会选相处舒服的人",
-      "onboard_time": 1700291672,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 83115,
