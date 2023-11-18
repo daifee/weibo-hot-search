@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700349423766,
+  "endTime": 1700350466463,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423734,
+      "num": 423734,
+      "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+      "onboard_time": 1700317832,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 372387,
       "num": 372387,
       "word": "马斯克祝贺SpaceX公司团队",
@@ -113,14 +121,6 @@
       "onboard_time": 1700319274,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 335421,
-      "num": 335421,
-      "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
-      "onboard_time": 1700317832,
-      "rank": 24,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 317136,
@@ -179,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245346,
+      "num": 245346,
+      "word": "班上唯一认真听课的同学被抓走了",
+      "onboard_time": 1700345896,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 242923,
+      "num": 242923,
+      "word": "胡夏请来了那些年一起追过的沈佳宜",
+      "onboard_time": 1700316995,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225348,
       "num": 225348,
       "word": "张艺兴演唱会每个座位都有伴手礼",
@@ -219,28 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202636,
-      "num": 202636,
-      "word": "胡夏请来了那些年一起追过的沈佳宜",
-      "onboard_time": 1700316995,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 201904,
-      "num": 201904,
-      "word": "班上唯一认真听课的同学被抓走了",
-      "onboard_time": 1700345896,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200589,
       "num": 200589,
       "word": "郝蕾看完沈梦辰表演沉默了",
       "onboard_time": 1700319337,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196915,
+      "num": 196915,
+      "word": "法国14比0直布罗陀",
+      "onboard_time": 1700348899,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 187549,
@@ -257,6 +265,14 @@
       "onboard_time": 1700321734,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171470,
+      "num": 63038,
+      "word": "Rookie直播提及Doinb",
+      "onboard_time": 1700349679,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 170229,
@@ -363,14 +379,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 109969,
-      "num": 109969,
-      "word": "法国14比0直布罗陀",
-      "onboard_time": 1700348899,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105282,
       "num": 161099,
       "word": "老干妈被年轻人抛弃了吗",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49404,
+      "num": 49404,
+      "word": "这是一位被幼儿园耽误的托尼老师",
+      "onboard_time": 1700349560,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38469,
       "num": 118907,
       "word": "小伙凌晨无处安身被奶茶店夫妻收留",
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21663,
+      "num": 49285,
+      "word": "北京夜空真的有凤凰在飞",
+      "onboard_time": 1700350280,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21293,
       "num": 21293,
       "word": "声生不息家年华",
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 7075,
-      "num": 245702,
+      "num": 247739,
       "word": "2023年亚太经合组织领导人旧金山宣言",
       "onboard_time": 1700296591,
       "rank": 2,
