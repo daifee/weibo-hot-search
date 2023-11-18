@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 13:34:04
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 14:21:35
 </p>
 </blockquote>
 <p>
@@ -5115,6 +5115,12 @@ Jennie50亿韩元购入高档别墅（热度：766664）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90%23" target="weibo">
+律师回应18岁父亲有个4岁儿子（热度：755275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E6%99%92%E9%99%88%E9%83%BD%E7%81%B5%E7%A8%8B%E6%BD%87%E5%89%A7%E7%85%A7%23" target="weibo">
 郭敬明晒陈都灵程潇剧照（热度：755018）
 </a>
@@ -6005,12 +6011,6 @@ MISSING的洛（热度：679908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%AD%8C%E6%89%8BNahee%E5%8E%BB%E4%B8%96%23" target="weibo">
 韩国女歌手Nahee去世（热度：678464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E9%A1%BA%E6%AF%9B%23" target="weibo">
-白敬亭顺毛（热度：678175）
 </a>
 </li>
 

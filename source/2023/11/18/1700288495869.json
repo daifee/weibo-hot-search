@@ -1,0 +1,410 @@
+{
+  "runTime": 1700288495869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 487956,
+        "num": 648391,
+        "word": "APEC第30次领导人非正式会议闭幕",
+        "onboard_time": 1700287050,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73251,
+        "num": 628275,
+        "word": "2023APEC",
+        "onboard_time": 1700263642,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5455,
+        "num": 609969,
+        "word": "跨越大洋的相聚",
+        "onboard_time": 1700253914,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1554200,
+        "num": 578089,
+        "word": "霸王茶姬 免单",
+        "onboard_time": 1700280029,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1162687,
+        "num": 525793,
+        "word": "同一天领证我还没办仪式他都离了",
+        "onboard_time": 1700276370,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 511915,
+        "num": 511915,
+        "word": "现在的演唱会已经进化这样了",
+        "onboard_time": 1700286754,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498001,
+        "num": 498001,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1700284951,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397697,
+        "num": 397697,
+        "word": "鹿晗给黄子韬送花篮",
+        "onboard_time": 1700286030,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390579,
+        "num": 390579,
+        "word": "哈登绝杀",
+        "onboard_time": 1700288370,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321516,
+        "num": 321516,
+        "word": "甄嬛传主创重聚",
+        "onboard_time": 1700284411,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 755275,
+        "num": 320869,
+        "word": "律师回应18岁父亲有个4岁儿子",
+        "onboard_time": 1700283151,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575708,
+        "num": 316675,
+        "word": "户口本并不是全国统一的",
+        "onboard_time": 1700283268,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 469011,
+        "num": 315174,
+        "word": "谢娜回应怀孕乌龙",
+        "onboard_time": 1700286094,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312261,
+        "num": 312261,
+        "word": "iG获得最帅冠军皮肤奖",
+        "onboard_time": 1700285669,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299061,
+        "num": 299061,
+        "word": "被缅北电诈骗去的钱能要回来吗",
+        "onboard_time": 1700286450,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298542,
+        "num": 298542,
+        "word": "杜兰特 死神降临",
+        "onboard_time": 1700287590,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257908,
+        "num": 257908,
+        "word": "家属称老人已去世民警多看一眼救回",
+        "onboard_time": 1700265026,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249735,
+        "num": 249735,
+        "word": "刘亦菲张靓颖贴贴",
+        "onboard_time": 1700283689,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248566,
+        "num": 248566,
+        "word": "快船 失误",
+        "onboard_time": 1700281832,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239606,
+        "num": 239606,
+        "word": "快船vs火箭",
+        "onboard_time": 1700288250,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1559670,
+        "num": 238838,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238067,
+        "num": 238067,
+        "word": "张遮动心了",
+        "onboard_time": 1700283451,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232417,
+        "num": 232417,
+        "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+        "onboard_time": 1700274389,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230773,
+        "num": 230773,
+        "word": "我本是高山改编的意义",
+        "onboard_time": 1700285191,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199109,
+        "num": 199109,
+        "word": "快乐老友记",
+        "onboard_time": 1700285428,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178114,
+        "num": 178114,
+        "word": "马斯克被批支持反犹主义主张",
+        "onboard_time": 1700281892,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176784,
+        "num": 176784,
+        "word": "女子梦见老公出轨调查发现竟是真的",
+        "onboard_time": 1700276251,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159763,
+        "num": 159763,
+        "word": "Wendy给出道三周年的aespa送蛋糕",
+        "onboard_time": 1700287650,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158789,
+        "num": 158789,
+        "word": "全红婵代言的女装品牌被吐槽丑",
+        "onboard_time": 1700263945,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154082,
+        "num": 154082,
+        "word": "日机构统计羽生结弦年收入至少4400万",
+        "onboard_time": 1700274148,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 306158,
+        "num": 153890,
+        "word": "快船赢了",
+        "onboard_time": 1700288370,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187000,
+        "num": 153099,
+        "word": "辛芷蕾 怒海绝对是难得一见的好作品",
+        "onboard_time": 1700286990,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151461,
+        "num": 151461,
+        "word": "王栎鑫 打呼止鼾器",
+        "onboard_time": 1700282309,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141984,
+        "num": 141984,
+        "word": "林俊杰铁刘海",
+        "onboard_time": 1700283028,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139979,
+        "num": 139979,
+        "word": "新闻女王 没一个好惹",
+        "onboard_time": 1700280931,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132129,
+        "num": 132129,
+        "word": "郑润泽上海抢票",
+        "onboard_time": 1700286630,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131577,
+        "num": 131577,
+        "word": "税务师 算不清根本算不清",
+        "onboard_time": 1700280211,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127144,
+        "num": 127144,
+        "word": "据说这个烟花一发50万",
+        "onboard_time": 1700284471,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126965,
+        "num": 126965,
+        "word": "妈妈攒2年猫毛亲手为猫咪做小被子",
+        "onboard_time": 1700283989,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 125500,
+        "word": "宋轶逛吃库存",
+        "onboard_time": 1700282851,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 125342,
+        "num": 125342,
+        "word": "用脚比中指challenge",
+        "onboard_time": 1700278112,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117993,
+        "num": 117993,
+        "word": "回来吧我的虎大将军",
+        "onboard_time": 1700280211,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 114711,
+        "word": "为什么会有基因突变这种事情",
+        "onboard_time": 1700286871,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112030,
+        "num": 112030,
+        "word": "一个练习锻炼肺功能",
+        "onboard_time": 1700286030,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111330,
+        "num": 111330,
+        "word": "霉霉 真封神",
+        "onboard_time": 1700275409,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106664,
+        "num": 111330,
+        "word": "于适给刘亦菲让路失败又带错路",
+        "onboard_time": 1700275287,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96846,
+        "num": 111330,
+        "word": "唐三黄金十三戟最后一式",
+        "onboard_time": 1700287953,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 92485,
+        "num": 111330,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 47,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 92293,
+        "num": 111330,
+        "word": "何炅林俊杰合照",
+        "onboard_time": 1700281651,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90370,
+        "num": 111330,
+        "word": "斗罗大陆动画六周年",
+        "onboard_time": 1700287290,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金30年#"
+    }
+  }
+}

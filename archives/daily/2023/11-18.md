@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/18 00:25:59 ~ 2023/11/18 13:34:04
+本榜单时间：2023/11/18 00:25:59 ~ 2023/11/18 14:21:35
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90%23" target="weibo">
+律师回应18岁父亲有个4岁儿子（热度：755275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%20%E7%9C%9F%E5%B0%81%E7%A5%9E%23" target="weibo">
 霉霉 真封神（热度：714738）
 </a>
@@ -123,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%23" target="weibo">
+户口本并不是全国统一的（热度：575708）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%20%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E4%BA%9B%E5%A5%B3%E7%8E%8B%E9%9C%87%E6%92%BC%23" target="weibo">
 佘诗曼 给内娱一些女王震撼（热度：568989）
 </a>
@@ -147,14 +159,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
+现在的演唱会已经进化这样了（热度：511915）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%83%B9%23" target="weibo">
 新闻女王 没一个好惹（热度：500487）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+时代少年团演唱会（热度：498001）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%92%9E%E5%80%92%E5%90%8E%E9%81%AD%E5%A4%9A%E6%AC%A1%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
 男子被撞倒后遭多次碾压身亡（热度：494205）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC30%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95%23" target="weibo">
+APEC第30次领导人非正式会议闭幕（热度：487956）
 </a>
 </li>
 
@@ -173,6 +203,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AE%BF%E8%88%8D6%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E5%86%85%E5%8D%B7%E5%85%A8%E5%91%98%E4%BF%9D%E7%A0%94%23" target="weibo">
 同宿舍6女生拒绝内卷全员保研（热度：476465）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%B9%8C%E9%BE%99%23" target="weibo">
+谢娜回应怀孕乌龙（热度：469011）
 </a>
 </li>
 
@@ -219,14 +255,14 @@ OpenAI人事巨震（热度：418257）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%23" target="weibo">
-户口本并不是全国统一的（热度：403806）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B2%B8%E7%94%B0%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E5%81%9C%E6%AD%A2%E4%BB%8E%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E6%8E%AA%E6%96%BD%23" target="weibo">
+外交部回应岸田希望中国取消停止从日进口食品措施（热度：400112）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B2%B8%E7%94%B0%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E5%81%9C%E6%AD%A2%E4%BB%8E%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E6%8E%AA%E6%96%BD%23" target="weibo">
-外交部回应岸田希望中国取消停止从日进口食品措施（热度：400112）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E9%BB%84%E5%AD%90%E9%9F%AC%E9%80%81%E8%8A%B1%E7%AF%AE%23" target="weibo">
+鹿晗给黄子韬送花篮（热度：397697）
 </a>
 </li>
 
@@ -237,8 +273,8 @@ OpenAI人事巨震（热度：418257）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90%23" target="weibo">
-律师回应18岁父亲有个4岁儿子（热度：392440）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E7%99%BB%E7%BB%9D%E6%9D%80%23" target="weibo">
+哈登绝杀（热度：390579）
 </a>
 </li>
 
@@ -309,6 +345,12 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B8%BB%E5%88%9B%E9%87%8D%E8%81%9A%23" target="weibo">
+甄嬛传主创重聚（热度：321516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%BC%80%E6%9C%BA%E7%94%9F%E5%9B%BE%23" target="weibo">
 谢可寅珠帘玉幕开机生图（热度：320716）
 </a>
@@ -333,6 +375,18 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E8%8E%B7%E5%BE%97%E6%9C%80%E5%B8%85%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%A5%96%23" target="weibo">
+iG获得最帅冠军皮肤奖（热度：312261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9%E8%B5%A2%E4%BA%86%23" target="weibo">
+快船赢了（热度：306158）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
 你好星期六（热度：305805）
 </a>
@@ -341,6 +395,18 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2380%E5%90%8E%E9%A6%96%E5%AF%8C%E6%88%96%E4%B8%BA%E5%B1%B1%E4%B8%9C39%E5%B2%81%E7%9A%84%E4%BB%96%23" target="weibo">
 80后首富或为山东39岁的他（热度：305649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%AA%97%E5%8E%BB%E7%9A%84%E9%92%B1%E8%83%BD%E8%A6%81%E5%9B%9E%E6%9D%A5%E5%90%97%23" target="weibo">
+被缅北电诈骗去的钱能要回来吗（热度：299061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%20%E6%AD%BB%E7%A5%9E%E9%99%8D%E4%B8%B4%23" target="weibo">
+杜兰特 死神降临（热度：298542）
 </a>
 </li>
 
@@ -417,12 +483,6 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-时代少年团演唱会（热度：273478）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%84%9A%E6%AF%94%E4%B8%AD%E6%8C%87challenge%23" target="weibo">
 用脚比中指challenge（热度：270368）
 </a>
@@ -431,12 +491,6 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%92%AC%E5%88%B0%E6%9D%A8%E8%BF%AA%E7%9A%84%E6%89%8B%23" target="weibo">
 林俊杰咬到杨迪的手（热度：267395）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B8%BB%E5%88%9B%E9%87%8D%E8%81%9A%23" target="weibo">
-甄嬛传主创重聚（热度：258934）
 </a>
 </li>
 
@@ -465,6 +519,12 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9%20%E5%A4%B1%E8%AF%AF%23" target="weibo">
+快船 失误（热度：248566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9C%8B%E5%88%B0%E8%83%A1%E5%86%9B%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 刘亦菲看到胡军的表情（热度：245353）
 </a>
@@ -473,6 +533,12 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E9%87%91%E7%90%83%E5%A5%96%E6%98%AF%E6%A2%85%E8%A5%BF%E5%BA%94%E5%BE%97%E7%9A%84%23" target="weibo">
 姆巴佩说金球奖是梅西应得的（热度：243945）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9vs%E7%81%AB%E7%AE%AD%23" target="weibo">
+快船vs火箭（热度：239606）
 </a>
 </li>
 
@@ -497,6 +563,12 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%9B%9E%E5%BA%94%E7%94%B7%E7%B2%89%E8%A1%A8%E7%99%BD%23" target="weibo">
 刘亦菲回应男粉表白（热度：233281）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E6%94%B9%E7%BC%96%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
+我本是高山改编的意义（热度：230773）
 </a>
 </li>
 
@@ -531,12 +603,6 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9%20%E5%A4%B1%E8%AF%AF%23" target="weibo">
-快船 失误（热度：211722）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%97%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A7%92%E7%BD%84%23" target="weibo">
 邓紫棋南宁演唱会秒罄（热度：209512）
 </a>
@@ -567,20 +633,14 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E6%94%B9%E7%BC%96%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
-我本是高山改编的意义（热度：200794）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%23" target="weibo">
+快乐老友记（热度：199109）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E7%90%83%E8%BF%B7%E7%9A%87%E9%A9%AC%E7%90%83%E8%BF%B7%E9%9D%A2%E5%9F%BA%23" target="weibo">
 利物浦球迷皇马球迷面基（热度：198085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%23" target="weibo">
-快乐老友记（热度：195627）
 </a>
 </li>
 
@@ -623,6 +683,12 @@ aespa出道前的艺名候补（热度：194754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B214%E8%BF%9E%E8%83%9C%23" target="weibo">
 陈雨菲14连胜（热度：187968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%80%92%E6%B5%B7%E7%BB%9D%E5%AF%B9%E6%98%AF%E9%9A%BE%E5%BE%97%E4%B8%80%E8%A7%81%E7%9A%84%E5%A5%BD%E4%BD%9C%E5%93%81%23" target="weibo">
+辛芷蕾 怒海绝对是难得一见的好作品（热度：187000）
 </a>
 </li>
 
@@ -713,6 +779,12 @@ ENHYPEN勇闯中餐厅（热度：182417）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%20he%23" target="weibo">
 谢危 he（热度：161485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Wendy%E7%BB%99%E5%87%BA%E9%81%93%E4%B8%89%E5%91%A8%E5%B9%B4%E7%9A%84aespa%E9%80%81%E8%9B%8B%E7%B3%95%23" target="weibo">
+Wendy给出道三周年的aespa送蛋糕（热度：159763）
 </a>
 </li>
 
@@ -885,6 +957,12 @@ AI生成的霍格沃滋监控（热度：132934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%B6%A6%E6%B3%BD%E4%B8%8A%E6%B5%B7%E6%8A%A2%E7%A5%A8%23" target="weibo">
+郑润泽上海抢票（热度：132129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%89%A7%E9%87%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E6%91%B8%E7%9A%84%23" target="weibo">
 龚俊剧里是怎么忍住不摸的（热度：132112）
 </a>
@@ -999,6 +1077,12 @@ AI生成的霍格沃滋监控（热度：132934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%9F%BA%E5%9B%A0%E7%AA%81%E5%8F%98%E8%BF%99%E7%A7%8D%E4%BA%8B%E6%83%85%23" target="weibo">
+为什么会有基因突变这种事情（热度：114711）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%B4%81%E5%91%98%E6%8D%A17%E5%8D%83%E5%85%83%E7%8E%B0%E9%87%91%E5%92%8C90%E4%B8%87%E5%AD%98%E5%8D%95%E6%8A%A5%E8%AD%A6%E5%BD%92%E8%BF%98%23" target="weibo">
 保洁员捡7千元现金和90万存单报警归还（热度：113221）
 </a>
@@ -1007,6 +1091,12 @@ AI生成的霍格沃滋监控（热度：132934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%20%E6%9C%88%E5%BA%95%E8%BF%9B%E7%BB%84%23" target="weibo">
 陈飞宇 月底进组（热度：112843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%BB%83%E4%B9%A0%E9%94%BB%E7%82%BC%E8%82%BA%E5%8A%9F%E8%83%BD%23" target="weibo">
+一个练习锻炼肺功能（热度：112030）
 </a>
 </li>
 
@@ -1095,8 +1185,20 @@ AI生成的霍格沃滋监控（热度：132934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B8%89%E9%BB%84%E9%87%91%E5%8D%81%E4%B8%89%E6%88%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%BC%8F%23" target="weibo">
+唐三黄金十三戟最后一式（热度：96846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23" target="weibo">
 方便面到底是不是垃圾食品（热度：95852）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E5%8A%A8%E7%94%BB%E5%85%AD%E5%91%A8%E5%B9%B4%23" target="weibo">
+斗罗大陆动画六周年（热度：90370）
 </a>
 </li>
 
