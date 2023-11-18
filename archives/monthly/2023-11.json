@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700338647820,
+  "endTime": 1700339640812,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -50739,6 +50739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14143,
+      "num": 17591,
+      "word": "千万不要在顶光下自拍",
+      "onboard_time": 1700338394,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 13784,
       "num": 537640,
       "word": "亚太合作下个30年走向何方",
@@ -50777,14 +50785,6 @@
       "onboard_time": 1700078414,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12079,
-      "num": 17078,
-      "word": "千万不要在顶光下自拍",
-      "onboard_time": 1700338394,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 11986,
