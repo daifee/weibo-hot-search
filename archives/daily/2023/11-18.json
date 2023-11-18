@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700271336743,
+  "endTime": 1700274460297,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1609882,
-      "num": 319995,
+      "num": 393006,
       "word": "家属称老人已去世民警多看一眼救回",
       "onboard_time": 1700265026,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 453555,
+      "num": 453555,
+      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+      "onboard_time": 1700229813,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445791,
       "num": 332250,
       "word": "高校评分",
@@ -153,6 +161,14 @@
       "onboard_time": 1700230114,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423080,
+      "num": 258467,
+      "word": "小雪糕对薛之谦的爱拿得出手",
+      "onboard_time": 1700267972,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 400112,
@@ -187,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 371921,
+      "num": 371921,
+      "word": "OpenAI人事巨震",
+      "onboard_time": 1700273369,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 365690,
       "num": 365690,
       "word": "王星越孔雪儿再现为有暗香来片段",
@@ -203,19 +227,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 339939,
+      "num": 339939,
+      "word": "五月天演唱会 粉丝整活",
+      "onboard_time": 1700270552,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329283,
       "num": 594023,
       "word": "老人不会线上支付用现金给孙子交生活费",
       "onboard_time": 1700231735,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326846,
-      "num": 326846,
-      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
-      "onboard_time": 1700229813,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295029,
+      "num": 295029,
+      "word": "敖子逸 有没有生发的草",
+      "onboard_time": 1700271452,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294997,
       "num": 216885,
       "word": "缅北电诈集团首犯明学昌畏罪自杀",
@@ -265,6 +297,14 @@
       "onboard_time": 1700267070,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290683,
+      "num": 290683,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1700273788,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 279310,
@@ -283,12 +323,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277404,
+      "num": 277404,
+      "word": "谢可寅珠帘玉幕开机生图",
+      "onboard_time": 1700272952,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275003,
+      "num": 242472,
+      "word": "日机构统计羽生结弦年收入至少4400万",
+      "onboard_time": 1700274148,
+      "rank": 16,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 258464,
       "num": 258464,
       "word": "五月天感谢马思纯绿色出行去看演唱会",
       "onboard_time": 1700222913,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253062,
+      "num": 253062,
+      "word": "168种药品进入今年医保谈判竞价环节",
+      "onboard_time": 1700272048,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245353,
@@ -315,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235404,
-      "num": 235404,
-      "word": "五月天演唱会 粉丝整活",
-      "onboard_time": 1700270552,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 236905,
+      "num": 236905,
+      "word": "ChatGPT创始人奥特曼回应被解职",
+      "onboard_time": 1700269292,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 233294,
@@ -363,6 +427,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 210027,
+      "num": 210027,
+      "word": "似火流年开播",
+      "onboard_time": 1700271931,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208499,
       "num": 208499,
       "word": "把从大山里考出来的孩子送回深山",
@@ -371,20 +443,20 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 204131,
-      "num": 204131,
-      "word": "ChatGPT创始人奥特曼回应被解职",
-      "onboard_time": 1700269292,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "舒淇祖母绿眼妆",
       "onboard_time": 1700226513,
       "rank": 24,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 194754,
+      "num": 194754,
+      "word": "aespa出道前的艺名候补",
+      "onboard_time": 1700274029,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 194195,
@@ -400,6 +472,14 @@
       "word": "临沧分拣中心",
       "onboard_time": 1700253015,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189924,
+      "num": 189924,
+      "word": "昆明站大批警员押解缅北电诈嫌疑人",
+      "onboard_time": 1700269891,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -419,6 +499,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 175316,
+      "num": 175316,
+      "word": "画包包 爆率",
+      "onboard_time": 1700272590,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175141,
       "num": 175141,
       "word": "1000多年前韩愈自创的万能海鲜蘸汁",
@@ -435,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170718,
+      "num": 170718,
+      "word": "男友第1句话是你咋穿那么少",
+      "onboard_time": 1700272769,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169568,
       "num": 169568,
       "word": "周雨彤去看五月天演唱会了",
@@ -443,12 +539,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165803,
+      "num": 165803,
+      "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+      "onboard_time": 1700274389,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164384,
       "num": 202134,
       "word": "一到冬天为什么中西医都建议吃羊肉",
       "onboard_time": 1700236414,
       "rank": 41,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 159589,
+      "num": 159589,
+      "word": "罗云熙出发韩国",
+      "onboard_time": 1700274208,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157251,
+      "num": 157251,
+      "word": "谢危 he",
+      "onboard_time": 1700267070,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 157152,
@@ -467,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152551,
+      "num": 152551,
+      "word": "头皮屑多 白糖洗发",
+      "onboard_time": 1700271452,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151779,
       "num": 151779,
       "word": "90后爸爸割肝救子19个月宝宝获新生",
@@ -483,20 +611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150635,
+      "num": 150635,
+      "word": "张远嘉宾巡回演唱会收官",
+      "onboard_time": 1700273909,
+      "rank": 34,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 149553,
       "num": 149553,
       "word": "EDG 接AD",
       "onboard_time": 1700220933,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149545,
-      "num": 149545,
-      "word": "昆明站大批警员押解缅北电诈嫌疑人",
-      "onboard_time": 1700269891,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147165,
@@ -521,6 +649,22 @@
       "onboard_time": 1700234323,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140894,
+      "num": 140894,
+      "word": "我本是高山 不光渡人还有渡己",
+      "onboard_time": 1700273369,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 138865,
+      "num": 138865,
+      "word": "大熊猫扁得好像地毯啊",
+      "onboard_time": 1700271809,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138197,
@@ -553,6 +697,14 @@
       "onboard_time": 1700262802,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133865,
+      "num": 133865,
+      "word": "热依扎王阳新剧明打暗追",
+      "onboard_time": 1700272110,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 133496,
@@ -619,6 +771,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123548,
+      "num": 123548,
+      "word": "舒淇流动的美丽",
+      "onboard_time": 1700272828,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120082,
+      "num": 120082,
+      "word": "希闻乐见 狗狗CP",
+      "onboard_time": 1700273730,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117886,
       "num": 117886,
       "word": "马云坚定看好阿里",
@@ -633,6 +801,22 @@
       "onboard_time": 1700237194,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116498,
+      "num": 116498,
+      "word": "骑马测评散粉",
+      "onboard_time": 1700272952,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 113221,
+      "num": 113221,
+      "word": "保洁员捡7千元现金和90万存单报警归还",
+      "onboard_time": 1700272289,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111101,
@@ -673,6 +857,14 @@
       "onboard_time": 1700268813,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104057,
+      "num": 104057,
+      "word": "审美的尽头是不是越素越美",
+      "onboard_time": 1700273307,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 103315,
@@ -779,6 +971,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 77695,
+      "num": 210773,
+      "word": "起猛了极星4上墙了",
+      "onboard_time": 1700273130,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 75804,
       "num": 75804,
       "word": "王安宇的镜头好有故事感",
@@ -860,7 +1060,7 @@
     },
     {
       "raw_hot": 25021,
-      "num": 323165,
+      "num": 406326,
       "word": "亚太合作新的时代之问",
       "onboard_time": 1700254874,
       "rank": 2,
