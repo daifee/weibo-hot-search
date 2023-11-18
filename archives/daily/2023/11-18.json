@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700264069253,
+  "endTime": 1700270111722,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -11,6 +11,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1561812,
+      "num": 282632,
+      "word": "家属称老人已去世民警多看一眼救回",
+      "onboard_time": 1700265026,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974272,
       "num": 341354,
       "word": "羽生结弦结婚时间",
@@ -19,12 +27,36 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 910067,
+      "num": 244117,
+      "word": "救活烂尾楼的人被抓了",
+      "onboard_time": 1700264483,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 908438,
+      "num": 273962,
+      "word": "全红婵代言的女装品牌被吐槽丑",
+      "onboard_time": 1700263945,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 822653,
       "num": 335292,
       "word": "五条悟可以复活了吗",
       "onboard_time": 1700235162,
       "rank": 13,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 773598,
+      "num": 269172,
+      "word": "女子体验网红千层漏摔成九级伤残",
+      "onboard_time": 1700268153,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705416,
@@ -41,6 +73,14 @@
       "onboard_time": 1700225614,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655275,
+      "num": 242684,
+      "word": "东莞在校自杀教师生前疑与人发生过争执",
+      "onboard_time": 1700264245,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 580641,
@@ -75,6 +115,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 494205,
+      "num": 242223,
+      "word": "男子被撞倒后遭多次碾压身亡",
+      "onboard_time": 1700263281,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476465,
+      "num": 262841,
+      "word": "同宿舍6女生拒绝内卷全员保研",
+      "onboard_time": 1700264906,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 445791,
       "num": 332250,
       "word": "高校评分",
@@ -99,12 +155,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385179,
+      "num": 241309,
+      "word": "薛之谦儿子透风又暖心",
+      "onboard_time": 1700267972,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383968,
       "num": 383968,
       "word": "五月天舞台 提词器",
       "onboard_time": 1700237612,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 374783,
+      "num": 257706,
+      "word": "ChatGPT创始人奥特曼离开OpenAI",
+      "onboard_time": 1700265026,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 369645,
+      "num": 641301,
+      "word": "2023APEC",
+      "onboard_time": 1700263642,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365690,
@@ -131,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319177,
+      "num": 250897,
+      "word": "拜登发言时看布林肯眼色",
+      "onboard_time": 1700263102,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 305649,
       "num": 161249,
       "word": "80后首富或为山东39岁的他",
@@ -155,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291233,
+      "num": 239072,
+      "word": "谢危觉得双死才是he",
+      "onboard_time": 1700267070,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 290582,
+      "num": 290582,
+      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+      "onboard_time": 1700229813,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279310,
       "num": 253851,
       "word": "主播女孩重度依赖编剧在浦东机场走丢",
@@ -171,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245353,
+      "num": 245353,
+      "word": "刘亦菲看到胡军的表情",
+      "onboard_time": 1700246596,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 239276,
       "num": 239276,
       "word": "妈妈经常私拆快递26岁女儿崩溃",
@@ -179,12 +291,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232648,
-      "num": 232648,
-      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
-      "onboard_time": 1700229813,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 237913,
+      "num": 237913,
+      "word": "敷完面膜该不该洗脸",
+      "onboard_time": 1700266409,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 235391,
+      "num": 235391,
+      "word": "姆巴佩说金球奖是梅西应得的",
+      "onboard_time": 1700268993,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233294,
+      "num": 233294,
+      "word": "五月天嘉宾 14号观众",
+      "onboard_time": 1700262019,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 229062,
@@ -203,12 +331,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 212203,
-      "num": 212203,
-      "word": "五月天嘉宾 14号观众",
-      "onboard_time": 1700262019,
-      "rank": 6,
-      "category": "演出"
+      "raw_hot": 213778,
+      "num": 213778,
+      "word": "短时间内震惊我两次",
+      "onboard_time": 1700267851,
+      "rank": 22,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 208499,
@@ -219,20 +347,20 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 204131,
+      "num": 204131,
+      "word": "ChatGPT创始人奥特曼回应被解职",
+      "onboard_time": 1700269292,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "舒淇祖母绿眼妆",
       "onboard_time": 1700226513,
       "rank": 24,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 202328,
-      "num": 202328,
-      "word": "刘亦菲看到胡军的表情",
-      "onboard_time": 1700246596,
-      "rank": 13,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 194195,
@@ -243,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192190,
-      "num": 192190,
-      "word": "男子被撞倒后遭多次碾压身亡",
-      "onboard_time": 1700263281,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 192505,
+      "num": 192505,
+      "word": "刘亦菲回应男粉表白",
+      "onboard_time": 1700269771,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 190868,
@@ -259,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176662,
-      "num": 176662,
-      "word": "拜登发言时看布林肯眼色",
-      "onboard_time": 1700263102,
-      "rank": 17,
-      "category": "国外时政"
+      "raw_hot": 175141,
+      "num": 175141,
+      "word": "1000多年前韩愈自创的万能海鲜蘸汁",
+      "onboard_time": 1700266708,
+      "rank": 27,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 171958,
@@ -299,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156827,
+      "num": 148488,
+      "word": "徐冬冬直接一句话击毙直男说教",
+      "onboard_time": 1700269711,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151336,
       "num": 151336,
       "word": "有狐被禁言",
@@ -313,6 +449,14 @@
       "onboard_time": 1700220933,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147165,
+      "num": 147165,
+      "word": "offer5玻璃门要不要擦这么干净",
+      "onboard_time": 1700263463,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 145110,
@@ -331,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141767,
+      "num": 141767,
+      "word": "40只QQ在舟山异地登陆",
+      "onboard_time": 1700269412,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138197,
       "num": 138197,
       "word": "李庚希黑长直",
       "onboard_time": 1700231856,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136335,
+      "num": 136335,
+      "word": "张伟丽背摔沈梦辰",
+      "onboard_time": 1700266708,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 135429,
@@ -347,11 +507,27 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 135190,
+      "num": 135190,
+      "word": "动物园里多了一只冻脚的傻鸟",
+      "onboard_time": 1700262802,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133496,
       "num": 133496,
       "word": "RedVelvet音银新歌初舞台",
       "onboard_time": 1700236235,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133261,
+      "num": 133261,
+      "word": "张杰汗流浃背了吧",
+      "onboard_time": 1700264546,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -363,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129497,
+      "num": 129497,
+      "word": "比尔又伤了",
+      "onboard_time": 1700269171,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127548,
       "num": 127548,
       "word": "佘诗曼要不你们还是用粤语聊吧",
@@ -371,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127047,
+      "num": 127047,
+      "word": "威少申请替补出战",
+      "onboard_time": 1700267912,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125468,
       "num": 125468,
       "word": "长期熬夜或会导致脑出血",
       "onboard_time": 1700214754,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124626,
+      "num": 124626,
+      "word": "为救一只猫30人建了一个群",
+      "onboard_time": 1700266708,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117886,
@@ -403,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110118,
+      "num": 110118,
+      "word": "王栎鑫 谁比谁差",
+      "onboard_time": 1700255533,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110018,
       "num": 110018,
       "word": "关晓彤敦煌飞天妆",
@@ -411,12 +619,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 104932,
-      "num": 99574,
-      "word": "动物园里多了一只冻脚的傻鸟",
-      "onboard_time": 1700262802,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 106059,
+      "num": 106059,
+      "word": "谢危的破碎感",
+      "onboard_time": 1700268813,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 103009,
@@ -427,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102655,
+      "num": 102655,
+      "word": "花儿与少年rap",
+      "onboard_time": 1700267611,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100863,
       "num": 100863,
       "word": "丁程鑫给宋亚轩递伞",
@@ -435,12 +651,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97723,
-      "num": 97723,
-      "word": "2023APEC",
-      "onboard_time": 1700263642,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 98442,
+      "num": 98442,
+      "word": "昆明站大批警员押解缅北电诈嫌疑人",
+      "onboard_time": 1700269891,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95852,
+      "num": 95852,
+      "word": "方便面到底是不是垃圾食品",
+      "onboard_time": 1700262802,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 88221,
+      "num": 88221,
+      "word": "贝林厄姆获得金童奖",
+      "onboard_time": 1700269771,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87818,
@@ -449,6 +681,22 @@
       "onboard_time": 1700221175,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83551,
+      "num": 83551,
+      "word": "90后爸爸割肝救子19个月宝宝获新生",
+      "onboard_time": 1700270012,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83115,
+      "num": 83115,
+      "word": "恋与制作人",
+      "onboard_time": 1700267070,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 80950,
@@ -499,28 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68895,
-      "num": 68895,
-      "word": "全红婵代言的女装品牌被吐槽丑",
-      "onboard_time": 1700263945,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66972,
       "num": 66972,
       "word": "吴彦姝说张桂梅的事迹应该让很多人看到",
       "onboard_time": 1700261959,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 66802,
-      "num": 66802,
-      "word": "offer5玻璃门要不要擦这么干净",
-      "onboard_time": 1700263463,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 64430,
@@ -537,22 +769,6 @@
       "onboard_time": 1700248634,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59782,
-      "num": 59782,
-      "word": "方便面到底是不是垃圾食品",
-      "onboard_time": 1700262802,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 59030,
-      "num": 65505,
-      "word": "王栎鑫 谁比谁差",
-      "onboard_time": 1700255533,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 48746,
@@ -587,8 +803,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22284,
-      "num": 230209,
+      "raw_hot": 24320,
+      "num": 286539,
       "word": "亚太合作新的时代之问",
       "onboard_time": 1700254874,
       "rank": 2,
