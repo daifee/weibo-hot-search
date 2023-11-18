@@ -1,0 +1,410 @@
+{
+  "runTime": 1700303639543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116990,
+        "num": 495191,
+        "word": "APEC第30次领导人非正式会议闭幕",
+        "onboard_time": 1700287050,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391214,
+        "num": 494057,
+        "word": "这位市委书记一口气做了13个引体向上",
+        "onboard_time": 1700302233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41400,
+        "num": 466195,
+        "word": "2023年亚太经合组织领导人旧金山宣言",
+        "onboard_time": 1700296591,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1604759,
+        "num": 452019,
+        "word": "金子涵 断层第一退团",
+        "onboard_time": 1700295753,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225132,
+        "num": 444160,
+        "word": "家长带孩子修平翘起的石板",
+        "onboard_time": 1700300311,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430050,
+        "num": 430050,
+        "word": "林诗栋",
+        "onboard_time": 1700301693,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194588,
+        "num": 407845,
+        "word": "00后民警一周收到3面锦旗开心比耶",
+        "onboard_time": 1700300374,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406839,
+        "num": 406839,
+        "word": "丁程鑫舞台造型爆改LadyGaga",
+        "onboard_time": 1700301933,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380460,
+        "num": 380460,
+        "word": "蓝盈莹 浣碧回来了",
+        "onboard_time": 1700293892,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335156,
+        "num": 335156,
+        "word": "羽生结弦 无法保护女方",
+        "onboard_time": 1700292935,
+        "rank": 9,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1753016,
+        "num": 334584,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73038,
+        "num": 315604,
+        "word": "S13总决赛比分预测",
+        "onboard_time": 1700299893,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 609623,
+        "num": 303945,
+        "word": "一只被输错血的小猫",
+        "onboard_time": 1700293052,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443268,
+        "num": 284616,
+        "word": "同一天领证我还没办仪式他都离了",
+        "onboard_time": 1700276370,
+        "rank": 13,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 378023,
+        "num": 272021,
+        "word": "曝彭冠英已进组补拍青簪行",
+        "onboard_time": 1700298153,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392628,
+        "num": 262044,
+        "word": "霸王茶姬 免单",
+        "onboard_time": 1700280029,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 884265,
+        "num": 240924,
+        "word": "香港演员曹查理就为电诈头目庆生道歉",
+        "onboard_time": 1700297670,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238954,
+        "num": 238954,
+        "word": "谢危为什么失望",
+        "onboard_time": 1700301573,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223926,
+        "num": 223926,
+        "word": "kpop的选秀风吹到了海外",
+        "onboard_time": 1700299953,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212307,
+        "num": 212307,
+        "word": "这还是陈楚生吗",
+        "onboard_time": 1700295275,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870678,
+        "num": 208288,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401108,
+        "num": 205242,
+        "word": "经常涂润唇膏会有副作用吗",
+        "onboard_time": 1700299534,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269412,
+        "num": 203660,
+        "word": "为什么得甲状腺癌的年轻人越来越多了",
+        "onboard_time": 1700298273,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200374,
+        "num": 200374,
+        "word": "支原体肺炎还要把鼻炎治好",
+        "onboard_time": 1700301455,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200358,
+        "num": 200358,
+        "word": "养肝就是养命",
+        "onboard_time": 1700300012,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198598,
+        "num": 198598,
+        "word": "张晚意把自闭症诠释的很传神",
+        "onboard_time": 1700295632,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190892,
+        "num": 190892,
+        "word": "李现和张杰击掌",
+        "onboard_time": 1700303613,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182740,
+        "num": 182740,
+        "word": "每天1个咸鸭蛋身体会怎样",
+        "onboard_time": 1700297253,
+        "rank": 27,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 177024,
+        "num": 177024,
+        "word": "鞠婧祎学姐风穿搭",
+        "onboard_time": 1700302352,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161344,
+        "num": 161344,
+        "word": "黄子韬演唱会",
+        "onboard_time": 1700298394,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221836,
+        "num": 160880,
+        "word": "奶奶一句话达到苏轼水平",
+        "onboard_time": 1700303253,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159702,
+        "num": 159702,
+        "word": "私奔舞美",
+        "onboard_time": 1700299354,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138132,
+        "num": 138132,
+        "word": "浙江企业把员工名字嵌在了卫星上",
+        "onboard_time": 1700297792,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130294,
+        "num": 130294,
+        "word": "Hero战胜RW",
+        "onboard_time": 1700302053,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127467,
+        "num": 127467,
+        "word": "张桂梅鼓励女孩考大学替妈妈圆上学梦",
+        "onboard_time": 1700302772,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125379,
+        "num": 125379,
+        "word": "DYG被训练赛骗到了",
+        "onboard_time": 1700300974,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125243,
+        "num": 125243,
+        "word": "文俊辉hi6cha了梦游手势舞",
+        "onboard_time": 1700300493,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125041,
+        "num": 125041,
+        "word": "骂了五年的仇人变主人了",
+        "onboard_time": 1700303131,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120857,
+        "num": 120857,
+        "word": "税务师 算不清根本算不清",
+        "onboard_time": 1700280211,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120098,
+        "num": 120098,
+        "word": "这是要开到宁古塔吗",
+        "onboard_time": 1700299893,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117291,
+        "num": 117291,
+        "word": "00后民警2年收到14面锦旗",
+        "onboard_time": 1700302352,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116675,
+        "num": 116675,
+        "word": "网友给刘亦菲P的孔雀公主裙",
+        "onboard_time": 1700292633,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109558,
+        "num": 109558,
+        "word": "百岁姐姐从香港回老家看望2个弟弟",
+        "onboard_time": 1700301812,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108130,
+        "num": 108130,
+        "word": "登神前一夜",
+        "onboard_time": 1700296831,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106081,
+        "num": 106081,
+        "word": "aespa DRAMA音中舞台",
+        "onboard_time": 1700297852,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104893,
+        "num": 104893,
+        "word": "张真源背吉他打碟",
+        "onboard_time": 1700301753,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99763,
+        "num": 104770,
+        "word": "郑书意时宴异地恋露陷儿",
+        "onboard_time": 1700294740,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91521,
+        "num": 104277,
+        "word": "孙子怀抱84岁奶奶帮其洗头",
+        "onboard_time": 1700303553,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89177,
+        "num": 103636,
+        "word": "挚友是会切镜头的",
+        "onboard_time": 1700297310,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88349,
+        "num": 103094,
+        "word": "全红婵给黄子韬演唱会送花篮",
+        "onboard_time": 1700290953,
+        "rank": 49,
+        "category": "体育,演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金30年#"
+    }
+  }
+}

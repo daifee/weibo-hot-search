@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700302643912,
+  "endTime": 1700303639543,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1685973,
+      "raw_hot": 1753016,
       "num": 467853,
       "word": "哥哥去世1年11岁妹妹也患同样病",
       "onboard_time": 1700299591,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430050,
+      "num": 430050,
+      "word": "林诗栋",
+      "onboard_time": 1700301693,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429999,
       "num": 429999,
       "word": "罗英子被抓",
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406839,
+      "num": 406839,
+      "word": "丁程鑫舞台造型爆改LadyGaga",
+      "onboard_time": 1700301933,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 403417,
       "num": 403417,
       "word": "鹿晗给黄子韬送花篮",
@@ -489,6 +505,14 @@
       "onboard_time": 1700293955,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 401108,
+      "num": 205652,
+      "word": "经常涂润唇膏会有副作用吗",
+      "onboard_time": 1700299534,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 400112,
@@ -523,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391214,
+      "num": 494057,
+      "word": "这位市委书记一口气做了13个引体向上",
+      "onboard_time": 1700302233,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389937,
       "num": 389937,
       "word": "林高远王艺迪 选拔赛",
       "onboard_time": 1700291071,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 389776,
-      "num": 205652,
-      "word": "经常涂润唇膏会有副作用吗",
-      "onboard_time": 1700299534,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 383968,
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238954,
+      "num": 238954,
+      "word": "谢危为什么失望",
+      "onboard_time": 1700301573,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235183,
       "num": 235183,
       "word": "何炅林俊杰合照",
@@ -1011,20 +1043,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226296,
-      "num": 226296,
-      "word": "丁程鑫舞台造型爆改LadyGaga",
-      "onboard_time": 1700301933,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 226151,
       "num": 192946,
       "word": "起猛了被美团外卖通知免单十年",
       "onboard_time": 1700278171,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 225132,
+      "num": 592005,
+      "word": "家长带孩子修平翘起的石板",
+      "onboard_time": 1700300311,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224225,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1700298394,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221836,
+      "num": 160880,
+      "word": "奶奶一句话达到苏轼水平",
+      "onboard_time": 1700303253,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 216216,
@@ -1097,14 +1137,6 @@
       "onboard_time": 1700294311,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210693,
-      "num": 592005,
-      "word": "家长带孩子修平翘起的石板",
-      "onboard_time": 1700300311,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209795,
@@ -1155,28 +1187,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 205760,
-      "num": 205760,
-      "word": "林诗栋",
-      "onboard_time": 1700301693,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205521,
       "num": 199040,
       "word": "私奔舞美",
       "onboard_time": 1700299354,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205499,
-      "num": 205499,
-      "word": "谢危为什么失望",
-      "onboard_time": 1700301573,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 204103,
@@ -1195,11 +1211,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199063,
-      "num": 154079,
+      "raw_hot": 200374,
+      "num": 200374,
       "word": "支原体肺炎还要把鼻炎治好",
       "onboard_time": 1700301455,
       "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200358,
+      "num": 200358,
+      "word": "养肝就是养命",
+      "onboard_time": 1700300012,
+      "rank": 34,
       "category": "健康医疗"
     },
     {
@@ -1235,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194588,
+      "num": 487575,
+      "word": "00后民警一周收到3面锦旗开心比耶",
+      "onboard_time": 1700300374,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194195,
       "num": 194195,
       "word": "张遮 面包哥",
       "onboard_time": 1700231677,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190892,
+      "num": 190892,
+      "word": "李现和张杰击掌",
+      "onboard_time": 1700303613,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 190868,
@@ -1331,28 +1371,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182591,
-      "num": 182591,
-      "word": "养肝就是养命",
-      "onboard_time": 1700300012,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182417,
       "num": 182417,
       "word": "ENHYPEN勇闯中餐厅",
       "onboard_time": 1700275049,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180250,
-      "num": 487575,
-      "word": "00后民警一周收到3面锦旗开心比耶",
-      "onboard_time": 1700300374,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179145,
@@ -1619,14 +1643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149233,
-      "num": 149233,
-      "word": "这位市委书记一口气做了13个引体向上",
-      "onboard_time": 1700302233,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147165,
       "num": 147165,
       "word": "offer5玻璃门要不要擦这么干净",
@@ -1843,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127467,
+      "num": 127467,
+      "word": "张桂梅鼓励女孩考大学替妈妈圆上学梦",
+      "onboard_time": 1700302772,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127047,
       "num": 127047,
       "word": "威少申请替补出战",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1700214754,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125041,
+      "num": 125041,
+      "word": "骂了五年的仇人变主人了",
+      "onboard_time": 1700303131,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 123548,
@@ -2251,6 +2283,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 91521,
+      "num": 104277,
+      "word": "孙子怀抱84岁奶奶帮其洗头",
+      "onboard_time": 1700303553,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90289,
       "num": 90289,
       "word": "蓝白合正副手人选结果未定",
@@ -2331,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73038,
+      "num": 315604,
+      "word": "S13总决赛比分预测",
+      "onboard_time": 1700299893,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
@@ -2353,14 +2401,6 @@
       "onboard_time": 1700261959,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 66105,
-      "num": 262256,
-      "word": "S13总决赛比分预测",
-      "onboard_time": 1700299893,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 64430,
