@@ -1,10 +1,10 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700295639471,
+  "endTime": 1700296447189,
   "band_list": [
     {
       "raw_hot": 2845719,
-      "num": 238838,
+      "num": 253712,
       "word": "薛之谦竟然有儿子了",
       "onboard_time": 1700274749,
       "rank": 20,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1061097,
+      "num": 353502,
+      "word": "一只被输错血的小猫",
+      "onboard_time": 1700293052,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974272,
       "num": 341354,
       "word": "羽生结弦结婚时间",
       "onboard_time": 1700235521,
       "rank": 10,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 958402,
-      "num": 337882,
-      "word": "一只被输错血的小猫",
-      "onboard_time": 1700293052,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 945147,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 779646,
-      "num": 226422,
+      "num": 238779,
       "word": "翔霖",
       "onboard_time": 1700294794,
       "rank": 21,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 701977,
-      "num": 325667,
+      "num": 341380,
       "word": "羽生结弦 无法保护女方",
       "onboard_time": 1700292935,
       "rank": 11,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 696942,
-      "num": 423924,
+      "num": 533967,
       "word": "蓝盈莹 浣碧回来了",
       "onboard_time": 1700293892,
       "rank": 5,
@@ -185,6 +185,14 @@
       "onboard_time": 1700288370,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 674721,
+      "num": 535265,
+      "word": "金子涵 断层第一退团",
+      "onboard_time": 1700295753,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 674274,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422371,
+      "num": 422371,
+      "word": "宋亚轩刘耀文合唱对视",
+      "onboard_time": 1700295694,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 418257,
       "num": 418257,
       "word": "OpenAI人事巨震",
@@ -425,6 +441,14 @@
       "onboard_time": 1700216855,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399784,
+      "num": 538545,
+      "word": "税二 比我的偏头痛还偏",
+      "onboard_time": 1700294740,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 396050,
@@ -475,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378119,
+      "num": 378119,
+      "word": "这还是陈楚生吗",
+      "onboard_time": 1700295275,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374783,
       "num": 267338,
       "word": "ChatGPT创始人奥特曼离开OpenAI",
@@ -491,18 +523,18 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 369289,
+      "num": 491304,
+      "word": "林高远王艺迪获混团世界杯资格",
+      "onboard_time": 1700295213,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365690,
       "num": 365690,
       "word": "王星越孔雪儿再现为有暗香来片段",
       "onboard_time": 1700236176,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 364780,
-      "num": 364780,
-      "word": "这还是陈楚生吗",
-      "onboard_time": 1700295275,
       "rank": 7,
       "category": "综艺"
     },
@@ -553,14 +585,6 @@
       "onboard_time": 1700231735,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329046,
-      "num": 491304,
-      "word": "林高远王艺迪获混团世界杯资格",
-      "onboard_time": 1700295213,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 321516,
@@ -699,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291271,
-      "num": 291271,
-      "word": "税二 比我的偏头痛还偏",
-      "onboard_time": 1700294740,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 291233,
       "num": 248960,
       "word": "谢危觉得双死才是he",
@@ -785,6 +801,14 @@
       "onboard_time": 1700222913,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253906,
+      "num": 253906,
+      "word": "郑书意时宴异地恋露陷儿",
+      "onboard_time": 1700294740,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 253062,
@@ -1019,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198713,
-      "num": 198713,
-      "word": "郑书意时宴异地恋露陷儿",
-      "onboard_time": 1700294740,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198085,
       "num": 198085,
       "word": "利物浦球迷皇马球迷面基",
@@ -1131,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179944,
+      "num": 178964,
+      "word": "张晚意把自闭症诠释的很传神",
+      "onboard_time": 1700295632,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179145,
       "num": 157712,
       "word": "40只QQ在舟山异地登陆",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1700287650,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172262,
+      "num": 172262,
+      "word": "周迅 能撑起母亲身份的熟龄美",
+      "onboard_time": 1700295933,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 171958,
@@ -1811,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103738,
+      "num": 103738,
+      "word": "戏曲演员冒雪演出台下只有2名观众",
+      "onboard_time": 1700295572,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103315,
       "num": 103315,
       "word": "宗师列传唐宋八大家",
@@ -1833,6 +1873,22 @@
       "onboard_time": 1700267611,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102117,
+      "num": 102117,
+      "word": "雪地牧羊竟然拍出大片意境",
+      "onboard_time": 1700296231,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100942,
+      "num": 100942,
+      "word": "刚入学就匆匆返乡的男孩成功捐髓救父",
+      "onboard_time": 1700295753,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100863,
@@ -1923,10 +1979,10 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86061,
-      "num": 97925,
-      "word": "戏曲演员冒雪演出台下只有2名观众",
-      "onboard_time": 1700295572,
+      "raw_hot": 85958,
+      "num": 93391,
+      "word": "91岁退休教师拾荒22年捐出9万多",
+      "onboard_time": 1700296353,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2076,7 +2132,7 @@
     },
     {
       "raw_hot": 24104,
-      "num": 98323,
+      "num": 254014,
       "word": "速度和激情都拿捏住了",
       "onboard_time": 1700295392,
       "rank": 46,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1700207314,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13784,
+      "num": 537640,
+      "word": "亚太合作下个30年走向何方",
+      "onboard_time": 1700296111,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2123,6 +2187,9 @@
     },
     {
       "word": "#共同打造亚太下一个黄金30年#"
+    },
+    {
+      "word": "#美国总统拜登与国家主席习近平话别#"
     }
   ]
 }
