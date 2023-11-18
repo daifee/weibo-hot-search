@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700321648707,
+  "endTime": 1700324475985,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2265776,
+      "num": 478499,
+      "word": "胡馨尹 费沁源",
+      "onboard_time": 1700320235,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2243354,
       "num": 920264,
       "word": "韩国高考数学第一题",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1700059356,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1735556,
-      "num": 478499,
-      "word": "胡馨尹 费沁源",
-      "onboard_time": 1700320235,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 1730492,
@@ -8115,6 +8115,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 687643,
+      "num": 466118,
+      "word": "听说去澳门只需要带两根手指头",
+      "onboard_time": 1700319274,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 687549,
       "num": 590636,
       "word": "369赛后发文",
@@ -9976,6 +9984,14 @@
       "word": "龚俊爆改营销号",
       "onboard_time": 1699185876,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 586934,
+      "num": 462574,
+      "word": "宁安如梦编剧",
+      "onboard_time": 1700320655,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -13467,6 +13483,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 450006,
+      "num": 450006,
+      "word": "王鹤棣看了不得高兴死",
+      "onboard_time": 1700320176,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449883,
       "num": 363735,
       "word": "报道巴以冲突的中国战地女记者陈慧慧",
@@ -13665,6 +13689,14 @@
       "onboard_time": 1700035175,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444370,
+      "num": 365578,
+      "word": "皓衣行新图",
+      "onboard_time": 1700321136,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 444271,
@@ -14905,14 +14937,6 @@
       "onboard_time": 1700101176,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 411931,
-      "num": 411931,
-      "word": "宁安如梦编剧",
-      "onboard_time": 1700320655,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 411898,
@@ -16523,14 +16547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379106,
-      "num": 379106,
-      "word": "听说去澳门只需要带两根手指头",
-      "onboard_time": 1700319274,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 378892,
       "num": 378892,
       "word": "秦海璐在大象岩给花少每个人拍了照片",
@@ -16689,14 +16705,6 @@
       "onboard_time": 1699445737,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375355,
-      "num": 375355,
-      "word": "王鹤棣看了不得高兴死",
-      "onboard_time": 1700320176,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 375312,
@@ -19667,6 +19675,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 317136,
+      "num": 317136,
+      "word": "杨丞琳 带我走",
+      "onboard_time": 1700321375,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317135,
       "num": 317135,
       "word": "小米汽车信息首曝",
@@ -22161,14 +22177,6 @@
       "onboard_time": 1699182574,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 278102,
-      "num": 278102,
-      "word": "皓衣行新图",
-      "onboard_time": 1700321136,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 278097,
@@ -28123,6 +28131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217568,
+      "num": 196496,
+      "word": "张艺兴刘畊宏蹦养生迪",
+      "onboard_time": 1700322452,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217519,
       "num": 217519,
       "word": "懒人早餐一个月不重样",
@@ -32899,14 +32915,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 189819,
-      "num": 189819,
-      "word": "杨丞琳 带我走",
-      "onboard_time": 1700321375,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 189816,
       "num": 189816,
       "word": "湖人战胜灰熊",
@@ -34681,6 +34689,14 @@
       "onboard_time": 1700094400,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179711,
+      "num": 179711,
+      "word": "李健现场",
+      "onboard_time": 1700321734,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 179606,
@@ -36651,6 +36667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167476,
+      "num": 167476,
+      "word": "张杰AsLongAsYouLoveMe",
+      "onboard_time": 1700321855,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167447,
       "num": 167447,
       "word": "WTT常规挑战赛太原站",
@@ -38593,6 +38617,14 @@
       "onboard_time": 1699488277,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155260,
+      "num": 155260,
+      "word": "张译哭的跟17年前一样惨",
+      "onboard_time": 1700323592,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 155215,
@@ -41387,6 +41419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138482,
+      "num": 208651,
+      "word": "AG战胜DRG",
+      "onboard_time": 1700321555,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138466,
       "num": 138466,
       "word": "起猛了男主在做针线活",
@@ -42769,6 +42809,14 @@
       "onboard_time": 1699095453,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130199,
+      "num": 137257,
+      "word": "你想要的从来都不是我",
+      "onboard_time": 1700321734,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130082,
@@ -44657,14 +44705,6 @@
       "onboard_time": 1699094850,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119068,
-      "num": 146201,
-      "word": "AG战胜DRG",
-      "onboard_time": 1700321555,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 119066,
@@ -48523,6 +48563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72353,
+      "num": 137218,
+      "word": "中华民族团结进步宣传推广大使张杰",
+      "onboard_time": 1700322213,
+      "rank": 47,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
@@ -49025,6 +49073,14 @@
       "onboard_time": 1699759770,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 61160,
+      "num": 137205,
+      "word": "威尼修斯股二头肌撕裂",
+      "onboard_time": 1700322394,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61051,
@@ -50890,6 +50946,9 @@
     },
     {
       "word": "#华人华侨中国留学生代表欢送习主席#"
+    },
+    {
+      "word": "#习主席演讲引发美国各界人士热烈反响#"
     }
   ]
 }
