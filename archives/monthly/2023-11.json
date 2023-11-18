@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700310644707,
+  "endTime": 1700311607641,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4547,20 +4547,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1016586,
+      "num": 405893,
+      "word": "老干妈被年轻人抛弃了吗",
+      "onboard_time": 1700307154,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1015712,
       "num": 451350,
       "word": "缅甸电诈家族遭打击后大批交人",
       "onboard_time": 1699947755,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1015337,
-      "num": 384902,
-      "word": "老干妈被年轻人抛弃了吗",
-      "onboard_time": 1700307154,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 1014186,
@@ -5577,6 +5577,14 @@
       "onboard_time": 1698823896,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 861223,
+      "num": 396038,
+      "word": "鲁迅孙子自称90%刷视频10%看书",
+      "onboard_time": 1700309372,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860344,
@@ -8563,6 +8571,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 647619,
+      "num": 302380,
+      "word": "贺峻霖看到娶我灯牌的反应",
+      "onboard_time": 1700310934,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 646345,
       "num": 646345,
       "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
@@ -9969,14 +9985,6 @@
       "onboard_time": 1699085371,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 580468,
-      "num": 373529,
-      "word": "鲁迅孙子自称90%刷视频10%看书",
-      "onboard_time": 1700309372,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579892,
@@ -14531,6 +14539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 417637,
+      "num": 417637,
+      "word": "原来普通话是河北方言",
+      "onboard_time": 1700307154,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 417627,
       "num": 417627,
       "word": "涉事高校称不存在助学金名额挤占",
@@ -16379,6 +16395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377974,
+      "num": 377974,
+      "word": "SpaceX星舰第二次试飞",
+      "onboard_time": 1700308112,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377859,
       "num": 377859,
       "word": "Meiko回应Viper",
@@ -16883,14 +16907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367286,
-      "num": 367286,
-      "word": "SpaceX星舰第二次试飞",
-      "onboard_time": 1700308112,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367159,
       "num": 367159,
       "word": "佳木斯体育馆坍塌事故遇难者为初中生",
@@ -17136,6 +17152,14 @@
       "word": "霉霉 就算搞砸了也没什么大不了",
       "onboard_time": 1699334612,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 361960,
+      "num": 301306,
+      "word": "于适烟花下的迪士尼王子",
+      "onboard_time": 1700309854,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -18891,14 +18915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326565,
-      "num": 326565,
-      "word": "原来普通话是河北方言",
-      "onboard_time": 1700307154,
-      "rank": 14,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 326491,
       "num": 326491,
       "word": "此时此刻",
@@ -20060,7 +20076,7 @@
     },
     {
       "raw_hot": 305596,
-      "num": 225847,
+      "num": 245592,
       "word": "为什么得甲状腺癌的年轻人越来越多了",
       "onboard_time": 1700298273,
       "rank": 21,
@@ -20363,6 +20379,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 300606,
+      "num": 300606,
+      "word": "黄子韬演唱会",
+      "onboard_time": 1700298394,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300563,
       "num": 291720,
       "word": "原来拿铁是牛奶不是咖啡",
@@ -20491,6 +20515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298384,
+      "num": 245594,
+      "word": "花亦山心之月",
+      "onboard_time": 1700310455,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298060,
       "num": 298060,
       "word": "快船三连败",
@@ -20529,14 +20561,6 @@
       "onboard_time": 1699658841,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297300,
-      "num": 297300,
-      "word": "于适烟花下的迪士尼王子",
-      "onboard_time": 1700309854,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 297181,
@@ -20977,14 +21001,6 @@
       "onboard_time": 1699710515,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290947,
-      "num": 245594,
-      "word": "花亦山心之月",
-      "onboard_time": 1700310455,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 290943,
@@ -21457,14 +21473,6 @@
       "onboard_time": 1700228677,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283956,
-      "num": 283956,
-      "word": "黄子韬演唱会",
-      "onboard_time": 1700298394,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 283949,
@@ -22569,6 +22577,14 @@
       "onboard_time": 1700225494,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271115,
+      "num": 271115,
+      "word": "于适 伏特加",
+      "onboard_time": 1700310815,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 271041,
@@ -28563,6 +28579,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 212031,
+      "num": 182100,
+      "word": "十个勤天出海打渔",
+      "onboard_time": 1700311294,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211964,
       "num": 211964,
       "word": "室内是音综 室外是恋综",
@@ -28633,6 +28657,14 @@
       "onboard_time": 1700202932,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211368,
+      "num": 211368,
+      "word": "你好种地少年",
+      "onboard_time": 1699936416,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 211275,
@@ -31587,6 +31619,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 194960,
+      "num": 194960,
+      "word": "治愈系恋人大结局",
+      "onboard_time": 1700310692,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194934,
       "num": 194934,
       "word": "约9成海边溺水是因为离岸流",
@@ -34067,14 +34107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181074,
-      "num": 181074,
-      "word": "你好种地少年",
-      "onboard_time": 1699936416,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181020,
       "num": 181020,
       "word": "皇马3比0布拉加",
@@ -35193,6 +35225,14 @@
       "onboard_time": 1699225342,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174173,
+      "num": 174173,
+      "word": "张云雷演唱会",
+      "onboard_time": 1700311473,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 173876,
@@ -38835,6 +38875,14 @@
       "category": "运动健身,艺人"
     },
     {
+      "raw_hot": 151021,
+      "num": 151021,
+      "word": "张凌赫杭州",
+      "onboard_time": 1700306912,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151004,
       "num": 151004,
       "word": "体检报告阅读指南",
@@ -39497,14 +39545,6 @@
       "onboard_time": 1699843351,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147405,
-      "num": 147405,
-      "word": "张凌赫杭州",
-      "onboard_time": 1700306912,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 147400,
@@ -40651,6 +40691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140491,
+      "num": 140491,
+      "word": "长时间冷冻的肉还能吃吗",
+      "onboard_time": 1700308894,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140456,
       "num": 140456,
       "word": "野生大熊猫实时视频电话接通了",
@@ -40809,6 +40857,14 @@
       "onboard_time": 1699231477,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139544,
+      "num": 139544,
+      "word": "汶川地震微笑女孩结婚",
+      "onboard_time": 1700309854,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139440,
@@ -42219,14 +42275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "汶川地震微笑女孩结婚",
-      "onboard_time": 1700309854,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131116,
       "num": 131116,
       "word": "文淇说请大家按时发疯",
@@ -42649,14 +42697,6 @@
       "onboard_time": 1699918405,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128253,
-      "num": 128253,
-      "word": "长时间冷冻的肉还能吃吗",
-      "onboard_time": 1700308894,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 128215,

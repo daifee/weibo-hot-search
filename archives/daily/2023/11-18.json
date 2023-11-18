@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700310644707,
+  "endTime": 1700311607641,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1015337,
-      "num": 384902,
+      "raw_hot": 1016586,
+      "num": 405893,
       "word": "老干妈被年轻人抛弃了吗",
       "onboard_time": 1700307154,
       "rank": 39,
@@ -129,6 +129,14 @@
       "onboard_time": 1700305413,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 861223,
+      "num": 396038,
+      "word": "鲁迅孙子自称90%刷视频10%看书",
+      "onboard_time": 1700309372,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 837344,
@@ -283,6 +291,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 647619,
+      "num": 302380,
+      "word": "贺峻霖看到娶我灯牌的反应",
+      "onboard_time": 1700310934,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 629444,
+      "num": 382065,
+      "word": "奔跑吧",
+      "onboard_time": 1700310391,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622303,
       "num": 498001,
       "word": "时代少年团演唱会",
@@ -321,14 +345,6 @@
       "onboard_time": 1700233415,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 580468,
-      "num": 373529,
-      "word": "鲁迅孙子自称90%刷视频10%看书",
-      "onboard_time": 1700309372,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 576519,
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417637,
+      "num": 417637,
+      "word": "原来普通话是河北方言",
+      "onboard_time": 1700307154,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 406839,
       "num": 406839,
       "word": "丁程鑫舞台造型爆改LadyGaga",
@@ -585,14 +609,6 @@
       "onboard_time": 1700293955,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 402089,
-      "num": 369276,
-      "word": "奔跑吧",
-      "onboard_time": 1700310391,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 401108,
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377974,
+      "num": 377974,
+      "word": "SpaceX星舰第二次试飞",
+      "onboard_time": 1700308112,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374783,
       "num": 267338,
       "word": "ChatGPT创始人奥特曼离开OpenAI",
@@ -707,20 +731,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367286,
-      "num": 367286,
-      "word": "SpaceX星舰第二次试飞",
-      "onboard_time": 1700308112,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365690,
       "num": 365690,
       "word": "王星越孔雪儿再现为有暗香来片段",
       "onboard_time": 1700236176,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361960,
+      "num": 301306,
+      "word": "于适烟花下的迪士尼王子",
+      "onboard_time": 1700309854,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 361619,
@@ -793,14 +817,6 @@
       "onboard_time": 1700231735,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326565,
-      "num": 326565,
-      "word": "原来普通话是河北方言",
-      "onboard_time": 1700307154,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 322424,
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 305596,
-      "num": 225847,
+      "num": 245592,
       "word": "为什么得甲状腺癌的年轻人越来越多了",
       "onboard_time": 1700298273,
       "rank": 21,
@@ -907,20 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300606,
+      "num": 300606,
+      "word": "黄子韬演唱会",
+      "onboard_time": 1700298394,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 298384,
+      "num": 245594,
+      "word": "花亦山心之月",
+      "onboard_time": 1700310455,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297675,
       "num": 476086,
       "word": "陈雨菲力克安洗莹",
       "onboard_time": 1700276191,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297300,
-      "num": 297300,
-      "word": "于适烟花下的迪士尼王子",
-      "onboard_time": 1700309854,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 296791,
@@ -971,28 +995,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290947,
-      "num": 245594,
-      "word": "花亦山心之月",
-      "onboard_time": 1700310455,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 290343,
       "num": 290343,
       "word": "李雪琴 恋爱还是会选相处舒服的人",
       "onboard_time": 1700291672,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283956,
-      "num": 283956,
-      "word": "黄子韬演唱会",
-      "onboard_time": 1700298394,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 283755,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1700303553,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271115,
+      "num": 271115,
+      "word": "于适 伏特加",
+      "onboard_time": 1700310815,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 270368,
@@ -1299,12 +1315,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212031,
+      "num": 182100,
+      "word": "十个勤天出海打渔",
+      "onboard_time": 1700311294,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211941,
       "num": 211941,
       "word": "似火流年开播",
       "onboard_time": 1700271931,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211368,
+      "num": 211368,
+      "word": "你好种地少年",
+      "onboard_time": 1700310455,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 210732,
@@ -1433,6 +1465,14 @@
       "onboard_time": 1700302053,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194960,
+      "num": 194960,
+      "word": "治愈系恋人大结局",
+      "onboard_time": 1700310692,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 194754,
@@ -1571,14 +1611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181074,
-      "num": 181074,
-      "word": "你好种地少年",
-      "onboard_time": 1700310455,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179145,
       "num": 157712,
       "word": "40只QQ在舟山异地登陆",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1700307814,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174173,
+      "num": 174173,
+      "word": "张云雷演唱会",
+      "onboard_time": 1700311473,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 172262,
@@ -1851,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151021,
+      "num": 151021,
+      "word": "张凌赫杭州",
+      "onboard_time": 1700306912,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150635,
       "num": 150635,
       "word": "张远嘉宾巡回演唱会收官",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1700220933,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147405,
-      "num": 147405,
-      "word": "张凌赫杭州",
-      "onboard_time": 1700306912,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 147165,
@@ -1937,6 +1977,22 @@
       "onboard_time": 1700234323,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140491,
+      "num": 140491,
+      "word": "长时间冷冻的肉还能吃吗",
+      "onboard_time": 1700308894,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 139544,
+      "num": 139544,
+      "word": "汶川地震微笑女孩结婚",
+      "onboard_time": 1700309854,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138887,
@@ -2083,28 +2139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "汶川地震微笑女孩结婚",
-      "onboard_time": 1700309854,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129497,
       "num": 129497,
       "word": "比尔又伤了",
       "onboard_time": 1700269171,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128253,
-      "num": 128253,
-      "word": "长时间冷冻的肉还能吃吗",
-      "onboard_time": 1700308894,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 127890,
