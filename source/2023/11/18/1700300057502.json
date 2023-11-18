@@ -1,0 +1,410 @@
+{
+  "runTime": 1700300057502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 177232,
+        "num": 706457,
+        "word": "APEC第30次领导人非正式会议闭幕",
+        "onboard_time": 1700287050,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251169,
+        "num": 691221,
+        "word": "林高远王艺迪获混团世界杯资格",
+        "onboard_time": 1700295213,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61323,
+        "num": 630369,
+        "word": "2023年亚太经合组织领导人旧金山宣言",
+        "onboard_time": 1700296591,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2297053,
+        "num": 602265,
+        "word": "金子涵 断层第一退团",
+        "onboard_time": 1700295753,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913229,
+        "num": 566453,
+        "word": "严浩翔哭了",
+        "onboard_time": 1700297012,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 544451,
+        "num": 544451,
+        "word": "羽生结弦 无法保护女方",
+        "onboard_time": 1700292935,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 482089,
+        "num": 482089,
+        "word": "张晚意把自闭症诠释的很传神",
+        "onboard_time": 1700295632,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467265,
+        "num": 467265,
+        "word": "马嘉祺风皇开大",
+        "onboard_time": 1700298633,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448694,
+        "num": 448694,
+        "word": "蓝盈莹 浣碧回来了",
+        "onboard_time": 1700293892,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244636,
+        "num": 444573,
+        "word": "税二 比我的偏头痛还偏",
+        "onboard_time": 1700294740,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1028099,
+        "num": 440013,
+        "word": "香港演员曹查理就为电诈头目庆生道歉",
+        "onboard_time": 1700297670,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944293,
+        "num": 429462,
+        "word": "一只被输错血的小猫",
+        "onboard_time": 1700293052,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655496,
+        "num": 422813,
+        "word": "曝彭冠英已进组补拍青簪行",
+        "onboard_time": 1700298153,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505268,
+        "num": 415027,
+        "word": "同一天领证我还没办仪式他都离了",
+        "onboard_time": 1700276370,
+        "rank": 13,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 36556,
+        "num": 408751,
+        "word": "我给足坛巨星当替补",
+        "onboard_time": 1700298032,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407618,
+        "num": 407618,
+        "word": "霸王茶姬 免单",
+        "onboard_time": 1700280029,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365415,
+        "num": 365415,
+        "word": "这还是陈楚生吗",
+        "onboard_time": 1700295275,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333229,
+        "num": 333229,
+        "word": "挚友是会切镜头的",
+        "onboard_time": 1700297310,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256182,
+        "num": 256182,
+        "word": "宋亚轩solo舞台不枉",
+        "onboard_time": 1700293955,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228416,
+        "num": 228416,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910701,
+        "num": 226740,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305596,
+        "num": 225847,
+        "word": "为什么得甲状腺癌的年轻人越来越多了",
+        "onboard_time": 1700298273,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255792,
+        "num": 225252,
+        "word": "刘耀文舞蹈solo",
+        "onboard_time": 1700298753,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223819,
+        "num": 223819,
+        "word": "每天1个咸鸭蛋身体会怎样",
+        "onboard_time": 1700297253,
+        "rank": 23,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 201595,
+        "num": 201595,
+        "word": "经常涂润唇膏会有副作用吗",
+        "onboard_time": 1700299534,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205521,
+        "num": 199040,
+        "word": "私奔舞美",
+        "onboard_time": 1700299354,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181433,
+        "num": 181433,
+        "word": "郑书意时宴异地恋露陷儿",
+        "onboard_time": 1700294740,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41971,
+        "num": 179765,
+        "word": "硬核搭子还得是悍马",
+        "onboard_time": 1700297792,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179608,
+        "num": 179608,
+        "word": "黄子韬演唱会",
+        "onboard_time": 1700298394,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175878,
+        "num": 175878,
+        "word": "RW对战Hero",
+        "onboard_time": 1700298753,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168439,
+        "num": 168439,
+        "word": "aespa DRAMA音中舞台",
+        "onboard_time": 1700297852,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160169,
+        "num": 160169,
+        "word": "这是要开到宁古塔吗",
+        "onboard_time": 1700299893,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157749,
+        "num": 157749,
+        "word": "网友给刘亦菲P的孔雀公主裙",
+        "onboard_time": 1700292633,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151277,
+        "num": 151277,
+        "word": "登神前一夜",
+        "onboard_time": 1700296831,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137431,
+        "num": 137431,
+        "word": "养肝就是养命",
+        "onboard_time": 1700300012,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135492,
+        "num": 135492,
+        "word": "奥运冠军管晨辰再回应变胖",
+        "onboard_time": 1700290712,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135295,
+        "num": 135295,
+        "word": "浙江企业把员工名字嵌在了卫星上",
+        "onboard_time": 1700297792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126549,
+        "num": 135290,
+        "word": "税务师 算不清根本算不清",
+        "onboard_time": 1700280211,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115572,
+        "num": 135276,
+        "word": "徐冬冬首次回应和尹子维分分合合",
+        "onboard_time": 1700293591,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109586,
+        "num": 135269,
+        "word": "91岁退休教师拾荒22年捐出9万多",
+        "onboard_time": 1700296353,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108342,
+        "num": 135263,
+        "word": "律师回应18岁父亲有个4岁儿子",
+        "onboard_time": 1700283151,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108279,
+        "num": 135250,
+        "word": "iG获得最帅冠军皮肤奖",
+        "onboard_time": 1700285669,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106838,
+        "num": 135240,
+        "word": "kpop的选秀风吹到了海外",
+        "onboard_time": 1700299953,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103553,
+        "num": 135229,
+        "word": "乒乓世界 能开直播吗",
+        "onboard_time": 1700294311,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101203,
+        "num": 135217,
+        "word": "杨单镜头里的白鹿",
+        "onboard_time": 1700299831,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99980,
+        "num": 135203,
+        "word": "13快男重聚 全是人情世故",
+        "onboard_time": 1700291972,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97255,
+        "num": 135201,
+        "word": "被缅北电诈骗去的钱能要回来吗",
+        "onboard_time": 1700286450,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96466,
+        "num": 135190,
+        "word": "林俊杰亲自答JJ20题目",
+        "onboard_time": 1700293112,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95131,
+        "num": 135172,
+        "word": "全红婵给黄子韬演唱会送花篮",
+        "onboard_time": 1700290953,
+        "rank": 48,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 40613,
+        "num": 135159,
+        "word": "S13总决赛比分预测",
+        "onboard_time": 1700299893,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席APEC领导人非正式会议#"
+    }
+  }
+}

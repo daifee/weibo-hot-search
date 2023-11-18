@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700298944094,
+  "endTime": 1700300057502,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -1324,7 +1324,7 @@
     },
     {
       "raw_hot": 1061097,
-      "num": 417993,
+      "num": 429462,
       "word": "一只被输错血的小猫",
       "onboard_time": 1700293052,
       "rank": 10,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1700143910,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1028099,
+      "num": 440013,
+      "word": "香港演员曹查理就为电诈头目庆生道歉",
+      "onboard_time": 1700297670,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1017770,
@@ -1833,14 +1841,6 @@
       "onboard_time": 1699843533,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 862634,
-      "num": 416750,
-      "word": "香港演员曹查理就为电诈头目庆生道歉",
-      "onboard_time": 1700297670,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 862442,
@@ -2960,6 +2960,14 @@
       "word": "宁安如梦女三",
       "onboard_time": 1700052216,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 655496,
+      "num": 422813,
+      "word": "曝彭冠英已进组补拍青簪行",
+      "onboard_time": 1700298153,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -4331,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482089,
+      "num": 482089,
+      "word": "张晚意把自闭症诠释的很传神",
+      "onboard_time": 1700295632,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480419,
       "num": 258937,
       "word": "薛之谦儿子透风又暖心",
@@ -4467,14 +4483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472983,
-      "num": 472983,
-      "word": "张晚意把自闭症诠释的很传神",
-      "onboard_time": 1700295632,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 472611,
       "num": 496238,
       "word": "藿藿",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1699919670,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467265,
+      "num": 467265,
+      "word": "马嘉祺风皇开大",
+      "onboard_time": 1700298633,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 466686,
@@ -5273,14 +5289,6 @@
       "onboard_time": 1700146846,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413775,
-      "num": 413775,
-      "word": "曝彭冠英已进组补拍青簪行",
-      "onboard_time": 1700298153,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 413742,
@@ -7035,14 +7043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308721,
-      "num": 308721,
-      "word": "马嘉祺风皇开大",
-      "onboard_time": 1700298633,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 307945,
       "num": 307945,
       "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
@@ -7129,6 +7129,14 @@
       "onboard_time": 1700257574,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 305596,
+      "num": 225847,
+      "word": "为什么得甲状腺癌的年轻人越来越多了",
+      "onboard_time": 1700298273,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 305267,
@@ -8595,6 +8603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255792,
+      "num": 225252,
+      "word": "刘耀文舞蹈solo",
+      "onboard_time": 1700298753,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255670,
       "num": 255670,
       "word": "APEC是什么",
@@ -9587,6 +9603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 228416,
+      "num": 228416,
+      "word": "哥哥去世1年11岁妹妹也患同样病",
+      "onboard_time": 1700299591,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228390,
       "num": 228390,
       "word": "虞书欣吊带拖尾裙",
@@ -9811,20 +9835,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 224390,
-      "num": 224390,
-      "word": "为什么得甲状腺癌的年轻人越来越多了",
-      "onboard_time": 1700298273,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 224234,
       "num": 238408,
       "word": "提醒在冰岛中国公民防范火山地震灾害",
       "onboard_time": 1699879170,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223819,
+      "num": 223819,
+      "word": "每天1个咸鸭蛋身体会怎样",
+      "onboard_time": 1700297253,
+      "rank": 23,
+      "category": "美食,科学科普"
     },
     {
       "raw_hot": 222848,
@@ -10723,14 +10747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206571,
-      "num": 206571,
-      "word": "每天1个咸鸭蛋身体会怎样",
-      "onboard_time": 1700297253,
-      "rank": 23,
-      "category": "美食,科学科普"
-    },
-    {
       "raw_hot": 206293,
       "num": 206293,
       "word": "奚梦瑶生气何猷君秒怂",
@@ -10769,6 +10785,14 @@
       "onboard_time": 1700018071,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205521,
+      "num": 199040,
+      "word": "私奔舞美",
+      "onboard_time": 1700299354,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 205519,
@@ -11017,6 +11041,14 @@
       "onboard_time": 1699971455,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201595,
+      "num": 201595,
+      "word": "经常涂润唇膏会有副作用吗",
+      "onboard_time": 1700299534,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 201245,
@@ -11625,14 +11657,6 @@
       "onboard_time": 1699759590,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191862,
-      "num": 191862,
-      "word": "刘耀文舞蹈solo",
-      "onboard_time": 1700298753,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 191791,
@@ -13875,6 +13899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160169,
+      "num": 160169,
+      "word": "这是要开到宁古塔吗",
+      "onboard_time": 1700299893,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160115,
       "num": 160115,
       "word": "九嶷山离职大礼包果然名不虚传",
@@ -15209,6 +15241,14 @@
       "onboard_time": 1699801834,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137431,
+      "num": 137431,
+      "word": "养肝就是养命",
+      "onboard_time": 1700300012,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137391,
@@ -17043,6 +17083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109586,
+      "num": 135269,
+      "word": "91岁退休教师拾荒22年捐出9万多",
+      "onboard_time": 1700296353,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109419,
       "num": 109419,
       "word": "环卫阿姨扛着种的南瓜感谢爱心老板娘",
@@ -17137,6 +17185,14 @@
       "onboard_time": 1700283632,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106838,
+      "num": 135240,
+      "word": "kpop的选秀风吹到了海外",
+      "onboard_time": 1700299953,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 106823,
@@ -17369,6 +17425,14 @@
       "onboard_time": 1699748847,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101203,
+      "num": 135217,
+      "word": "杨单镜头里的白鹿",
+      "onboard_time": 1700299831,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 101138,
@@ -17697,14 +17761,6 @@
       "onboard_time": 1700293413,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88915,
-      "num": 100271,
-      "word": "91岁退休教师拾荒22年捐出9万多",
-      "onboard_time": 1700296353,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88663,
@@ -18115,6 +18171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61323,
+      "num": 721160,
+      "word": "2023年亚太经合组织领导人旧金山宣言",
+      "onboard_time": 1700296591,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61236,
       "num": 61236,
       "word": "冬季什么时候洗头合适",
@@ -18207,14 +18271,6 @@
       "num": 1433515,
       "word": "共同构建亚太命运共同体",
       "onboard_time": 1700038234,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 55510,
-      "num": 721160,
-      "word": "2023年亚太经合组织领导人旧金山宣言",
-      "onboard_time": 1700296591,
       "rank": 2,
       "category": "国内时政"
     },
@@ -18379,6 +18435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40613,
+      "num": 135159,
+      "word": "S13总决赛比分预测",
+      "onboard_time": 1700299893,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40149,
       "num": 298046,
       "word": "民警把随身携带的救心丸给司机应急",
@@ -18417,6 +18481,14 @@
       "onboard_time": 1700177608,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36556,
+      "num": 408751,
+      "word": "我给足坛巨星当替补",
+      "onboard_time": 1700298032,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 36223,
@@ -18497,14 +18569,6 @@
       "onboard_time": 1700069897,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31087,
-      "num": 406357,
-      "word": "我给足坛巨星当替补",
-      "onboard_time": 1700298032,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 30687,

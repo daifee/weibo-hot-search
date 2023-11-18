@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 17:15:44
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 17:34:17
 </p>
 </blockquote>
 <p>
@@ -3333,6 +3333,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9B%B9%E6%9F%A5%E7%90%86%E5%B0%B1%E4%B8%BA%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BA%86%E7%94%9F%E9%81%93%E6%AD%89%23" target="weibo">
+香港演员曹查理就为电诈头目庆生道歉（热度：1028099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%AF%8F%E6%9C%88%E5%AF%8410%E6%96%A4%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%9900%E5%90%8E%E5%84%BF%E5%AD%90%23" target="weibo">
 父母每月寄10斤日用品给00后儿子（热度：1025111）
 </a>
@@ -4127,12 +4133,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E6%BB%A4%E9%95%9C%23" target="weibo">
 以爱为营 滤镜（热度：865018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9B%B9%E6%9F%A5%E7%90%86%E5%B0%B1%E4%B8%BA%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BA%86%E7%94%9F%E9%81%93%E6%AD%89%23" target="weibo">
-香港演员曹查理就为电诈头目庆生道歉（热度：862634）
 </a>
 </li>
 

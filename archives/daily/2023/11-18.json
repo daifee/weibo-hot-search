@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700298944094,
+  "endTime": 1700300057502,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1061097,
-      "num": 417993,
+      "num": 429462,
       "word": "一只被输错血的小猫",
       "onboard_time": 1700293052,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1028099,
+      "num": 440013,
+      "word": "香港演员曹查理就为电诈头目庆生道歉",
+      "onboard_time": 1700297670,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 974272,
@@ -89,14 +97,6 @@
       "onboard_time": 1700263945,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 862634,
-      "num": 416750,
-      "word": "香港演员曹查理就为电诈头目庆生道歉",
-      "onboard_time": 1700297670,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 837344,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655496,
+      "num": 422813,
+      "word": "曝彭冠英已进组补拍青簪行",
+      "onboard_time": 1700298153,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655275,
       "num": 261311,
       "word": "东莞在校自杀教师生前疑与人发生过争执",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482089,
+      "num": 482089,
+      "word": "张晚意把自闭症诠释的很传神",
+      "onboard_time": 1700295632,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480419,
       "num": 258937,
       "word": "薛之谦儿子透风又暖心",
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472983,
-      "num": 472983,
-      "word": "张晚意把自闭症诠释的很传神",
-      "onboard_time": 1700295632,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 469011,
       "num": 325934,
       "word": "谢娜回应怀孕乌龙",
       "onboard_time": 1700286094,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467265,
+      "num": 467265,
+      "word": "马嘉祺风皇开大",
+      "onboard_time": 1700298633,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 448582,
@@ -441,14 +457,6 @@
       "onboard_time": 1700273788,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413775,
-      "num": 413775,
-      "word": "曝彭冠英已进组补拍青簪行",
-      "onboard_time": 1700298153,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 403417,
@@ -683,14 +691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 308721,
-      "num": 308721,
-      "word": "马嘉祺风皇开大",
-      "onboard_time": 1700298633,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 306308,
       "num": 306308,
       "word": "网友给刘亦菲P的孔雀公主裙",
@@ -713,6 +713,14 @@
       "onboard_time": 1700257574,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 305596,
+      "num": 225847,
+      "word": "为什么得甲状腺癌的年轻人越来越多了",
+      "onboard_time": 1700298273,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 303957,
@@ -851,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255792,
+      "num": 225252,
+      "word": "刘耀文舞蹈solo",
+      "onboard_time": 1700298753,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253906,
       "num": 253906,
       "word": "郑书意时宴异地恋露陷儿",
@@ -971,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228416,
+      "num": 228416,
+      "word": "哥哥去世1年11岁妹妹也患同样病",
+      "onboard_time": 1700299591,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226151,
       "num": 192946,
       "word": "起猛了被美团外卖通知免单十年",
@@ -979,20 +1003,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 224390,
-      "num": 224390,
-      "word": "为什么得甲状腺癌的年轻人越来越多了",
-      "onboard_time": 1700298273,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 224225,
       "num": 224225,
       "word": "白敬亭顺毛",
       "onboard_time": 1700225795,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 223819,
+      "num": 223819,
+      "word": "每天1个咸鸭蛋身体会怎样",
+      "onboard_time": 1700297253,
+      "rank": 23,
+      "category": "美食,科学科普"
     },
     {
       "raw_hot": 222785,
@@ -1099,12 +1123,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 206571,
-      "num": 206571,
-      "word": "每天1个咸鸭蛋身体会怎样",
-      "onboard_time": 1700297253,
-      "rank": 23,
-      "category": "美食,科学科普"
+      "raw_hot": 205521,
+      "num": 199040,
+      "word": "私奔舞美",
+      "onboard_time": 1700299354,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 204103,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1700280151,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201595,
+      "num": 201595,
+      "word": "经常涂润唇膏会有副作用吗",
+      "onboard_time": 1700299534,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 198085,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1700231677,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191862,
-      "num": 191862,
-      "word": "刘耀文舞蹈solo",
-      "onboard_time": 1700298753,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 190868,
@@ -1395,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160169,
+      "num": 160169,
+      "word": "这是要开到宁古塔吗",
+      "onboard_time": 1700299893,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157152,
       "num": 157152,
       "word": "关晓彤觉得张真源适合当王牌游戏组导演",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1700231856,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137431,
+      "num": 137431,
+      "word": "养肝就是养命",
+      "onboard_time": 1700300012,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136335,
@@ -1907,6 +1947,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 109586,
+      "num": 135269,
+      "word": "91岁退休教师拾荒22年捐出9万多",
+      "onboard_time": 1700296353,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109212,
       "num": 109212,
       "word": "内蒙网友互换特产开车1700公里送活羊",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1700283632,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106838,
+      "num": 135240,
+      "word": "kpop的选秀风吹到了海外",
+      "onboard_time": 1700299953,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 106823,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1700296231,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101203,
+      "num": 135217,
+      "word": "杨单镜头里的白鹿",
+      "onboard_time": 1700299831,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 100942,
@@ -2073,14 +2137,6 @@
       "onboard_time": 1700293413,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88915,
-      "num": 100271,
-      "word": "91岁退休教师拾荒22年捐出9万多",
-      "onboard_time": 1700296353,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88221,
@@ -2187,20 +2243,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61323,
+      "num": 721160,
+      "word": "2023年亚太经合组织领导人旧金山宣言",
+      "onboard_time": 1700296591,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60488,
       "num": 64609,
       "word": "许凯一场戏亲了两个人",
       "onboard_time": 1700248634,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55510,
-      "num": 721160,
-      "word": "2023年亚太经合组织领导人旧金山宣言",
-      "onboard_time": 1700296591,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49108,
@@ -2227,6 +2283,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40613,
+      "num": 135159,
+      "word": "S13总决赛比分预测",
+      "onboard_time": 1700299893,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 36556,
+      "num": 408751,
+      "word": "我给足坛巨星当替补",
+      "onboard_time": 1700298032,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33707,
       "num": 50832,
       "word": "外面的咖啡已经进化成这样了",
@@ -2241,14 +2313,6 @@
       "onboard_time": 1700262862,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31087,
-      "num": 406357,
-      "word": "我给足坛巨星当替补",
-      "onboard_time": 1700298032,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 28609,
