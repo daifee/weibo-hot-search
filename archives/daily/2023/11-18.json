@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700296447189,
+  "endTime": 1700298944094,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -35,6 +35,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2347875,
+      "num": 698621,
+      "word": "金子涵 断层第一退团",
+      "onboard_time": 1700295753,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1609882,
       "num": 469262,
       "word": "家属称老人已去世民警多看一眼救回",
@@ -43,8 +51,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123279,
+      "num": 655048,
+      "word": "严浩翔哭了",
+      "onboard_time": 1700297012,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1061097,
-      "num": 353502,
+      "num": 417993,
       "word": "一只被输错血的小猫",
       "onboard_time": 1700293052,
       "rank": 10,
@@ -73,6 +89,14 @@
       "onboard_time": 1700263945,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 862634,
+      "num": 416750,
+      "word": "香港演员曹查理就为电诈头目庆生道歉",
+      "onboard_time": 1700297670,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 837344,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 701977,
-      "num": 341380,
+      "num": 639095,
       "word": "羽生结弦 无法保护女方",
       "onboard_time": 1700292935,
       "rank": 11,
@@ -185,14 +209,6 @@
       "onboard_time": 1700288370,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 674721,
-      "num": 535265,
-      "word": "金子涵 断层第一退团",
-      "onboard_time": 1700295753,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 674274,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 487956,
-      "num": 699318,
+      "num": 759448,
       "word": "APEC第30次领导人非正式会议闭幕",
       "onboard_time": 1700287050,
       "rank": 0,
@@ -337,6 +353,14 @@
       "onboard_time": 1700286450,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472983,
+      "num": 472983,
+      "word": "张晚意把自闭症诠释的很传神",
+      "onboard_time": 1700295632,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 469011,
@@ -395,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 420943,
+      "num": 420943,
+      "word": "挚友是会切镜头的",
+      "onboard_time": 1700297310,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 418257,
       "num": 418257,
       "word": "OpenAI人事巨震",
@@ -409,6 +441,14 @@
       "onboard_time": 1700273788,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413775,
+      "num": 413775,
+      "word": "曝彭冠英已进组补拍青簪行",
+      "onboard_time": 1700298153,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 403417,
@@ -428,7 +468,7 @@
     },
     {
       "raw_hot": 402098,
-      "num": 98002,
+      "num": 301470,
       "word": "宋亚轩solo舞台不枉",
       "onboard_time": 1700293955,
       "rank": 47,
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 369289,
-      "num": 491304,
+      "num": 743276,
       "word": "林高远王艺迪获混团世界杯资格",
       "onboard_time": 1700295213,
       "rank": 1,
@@ -641,6 +681,14 @@
       "onboard_time": 1700285669,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 308721,
+      "num": 308721,
+      "word": "马嘉祺风皇开大",
+      "onboard_time": 1700298633,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 306308,
@@ -931,6 +979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 224390,
+      "num": 224390,
+      "word": "为什么得甲状腺癌的年轻人越来越多了",
+      "onboard_time": 1700298273,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224225,
       "num": 224225,
       "word": "白敬亭顺毛",
@@ -947,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222027,
+      "num": 222027,
+      "word": "黄子韬演唱会",
+      "onboard_time": 1700298394,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216216,
       "num": 216216,
       "word": "华晨宇广州抢票",
@@ -961,6 +1025,14 @@
       "onboard_time": 1700267851,
       "rank": 22,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 213115,
+      "num": 250297,
+      "word": "RW对战Hero",
+      "onboard_time": 1700298753,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 211941,
@@ -1027,6 +1099,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 206571,
+      "num": 206571,
+      "word": "每天1个咸鸭蛋身体会怎样",
+      "onboard_time": 1700297253,
+      "rank": 23,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "舒淇祖母绿眼妆",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1700231677,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191862,
+      "num": 191862,
+      "word": "刘耀文舞蹈solo",
+      "onboard_time": 1700298753,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 190868,
@@ -1139,20 +1227,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185472,
+      "num": 185472,
+      "word": "aespa DRAMA音中舞台",
+      "onboard_time": 1700297852,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182417,
       "num": 182417,
       "word": "ENHYPEN勇闯中餐厅",
       "onboard_time": 1700275049,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179944,
-      "num": 178964,
-      "word": "张晚意把自闭症诠释的很传神",
-      "onboard_time": 1700295632,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 179145,
@@ -1315,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156886,
+      "num": 156886,
+      "word": "登神前一夜",
+      "onboard_time": 1700296831,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154600,
       "num": 154600,
       "word": "威神V主打一个强制爱",
@@ -1416,6 +1512,14 @@
       "word": "大熊猫扁得好像地毯啊",
       "onboard_time": 1700271809,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142412,
+      "num": 142412,
+      "word": "浙江企业把员工名字嵌在了卫星上",
+      "onboard_time": 1700297792,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1899,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 109936,
+      "num": 109936,
+      "word": "小白怎么报名马拉松",
+      "onboard_time": 1700298032,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 109212,
       "num": 109212,
       "word": "内蒙网友互换特产开车1700公里送活羊",
@@ -1963,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88915,
+      "num": 100271,
+      "word": "91岁退休教师拾荒22年捐出9万多",
+      "onboard_time": 1700296353,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88221,
       "num": 88221,
       "word": "贝林厄姆获得金童奖",
@@ -1977,14 +2097,6 @@
       "onboard_time": 1700221175,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85958,
-      "num": 93391,
-      "word": "91岁退休教师拾荒22年捐出9万多",
-      "onboard_time": 1700296353,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83115,
@@ -2083,6 +2195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55510,
+      "num": 721160,
+      "word": "2023年亚太经合组织领导人旧金山宣言",
+      "onboard_time": 1700296591,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 49108,
+      "num": 186465,
+      "word": "硬核搭子还得是悍马",
+      "onboard_time": 1700297792,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48746,
       "num": 50938,
       "word": "宁安如梦的疯吹到大学宿舍",
@@ -2113,6 +2241,14 @@
       "onboard_time": 1700262862,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31087,
+      "num": 406357,
+      "word": "我给足坛巨星当替补",
+      "onboard_time": 1700298032,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 28609,
