@@ -1,0 +1,410 @@
+{
+  "runTime": 1700318055963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443373,
+        "num": 793315,
+        "word": "原来普通话是河北方言",
+        "onboard_time": 1700307154,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 350605,
+        "num": 764464,
+        "word": "为什么得甲状腺癌的年轻人越来越多了",
+        "onboard_time": 1700298273,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24861,
+        "num": 763131,
+        "word": "中国一直是亚太合作重要的贡献者",
+        "onboard_time": 1700311714,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2497910,
+        "num": 713192,
+        "word": "马斯克SpaceX星舰发射失败",
+        "onboard_time": 1700314776,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098474,
+        "num": 684594,
+        "word": "房东的猫从众筹到万人演唱会用了7年",
+        "onboard_time": 1700317114,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 675949,
+        "num": 675949,
+        "word": "人的舌头为什么能喷出水",
+        "onboard_time": 1700316394,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 458802,
+        "num": 458802,
+        "word": "金子涵 断层第一退团",
+        "onboard_time": 1700295753,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403304,
+        "num": 403304,
+        "word": "林俊杰演唱会开到了hi6",
+        "onboard_time": 1700316692,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318860,
+        "num": 368467,
+        "word": "鲁迅孙子自称90%刷视频10%看书",
+        "onboard_time": 1700309372,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338816,
+        "num": 338816,
+        "word": "奔跑吧",
+        "onboard_time": 1700310391,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1596050,
+        "num": 336452,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1140189,
+        "num": 334913,
+        "word": "SpaceX与星舰助推器失去联系",
+        "onboard_time": 1700314655,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409654,
+        "num": 328105,
+        "word": "费沁源自曝在青春有你时被霸凌",
+        "onboard_time": 1700306432,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383287,
+        "num": 324319,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433969,
+        "num": 323437,
+        "word": "SpaceX称被迫触发星舰的自毁功能",
+        "onboard_time": 1700316275,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320129,
+        "num": 320129,
+        "word": "文俊辉丁程鑫泼水游戏看呆我",
+        "onboard_time": 1700317233,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311584,
+        "num": 311584,
+        "word": "胡夏请来了那些年一起追过的沈佳宜",
+        "onboard_time": 1700316995,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298684,
+        "num": 298684,
+        "word": "你好星期六下周有马丽赵露思",
+        "onboard_time": 1700313032,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268175,
+        "num": 268175,
+        "word": "老干妈被年轻人抛弃了吗",
+        "onboard_time": 1700307154,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239561,
+        "num": 239561,
+        "word": "郑书意时宴坦白局",
+        "onboard_time": 1700308230,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 945865,
+        "num": 233231,
+        "word": "每年体检38岁男子被查出胰腺癌晚期",
+        "onboard_time": 1700316995,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412406,
+        "num": 232973,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343225,
+        "num": 229327,
+        "word": "陈楚生霸榜",
+        "onboard_time": 1700314474,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225174,
+        "num": 225174,
+        "word": "贵州菜市场5元自助糯米饭",
+        "onboard_time": 1700315498,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212525,
+        "num": 212525,
+        "word": "长时间冷冻的肉还能吃吗",
+        "onboard_time": 1700308894,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216001,
+        "num": 210456,
+        "word": "林俊杰出道20周年歌迷大合唱",
+        "onboard_time": 1700317053,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206979,
+        "num": 206979,
+        "word": "你女朋友不洗头啊",
+        "onboard_time": 1700308711,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195497,
+        "num": 195497,
+        "word": "Irene吹彩带后续",
+        "onboard_time": 1700316934,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186652,
+        "num": 194356,
+        "word": "马斯克",
+        "onboard_time": 1700313515,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141529,
+        "num": 194269,
+        "word": "想借一个充电宝却收到100元",
+        "onboard_time": 1700315854,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194265,
+        "num": 194265,
+        "word": "黄子韬演唱会",
+        "onboard_time": 1700298394,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190427,
+        "num": 190427,
+        "word": "于适 伏特加",
+        "onboard_time": 1700310815,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "张碧晨演唱会",
+        "onboard_time": 1700315912,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168165,
+        "num": 168165,
+        "word": "以色列称将攻打加沙全境",
+        "onboard_time": 1700305413,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165146,
+        "num": 165146,
+        "word": "经常涂润唇膏会有副作用吗",
+        "onboard_time": 1700299534,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161654,
+        "num": 161654,
+        "word": "太原",
+        "onboard_time": 1700306075,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158938,
+        "num": 158938,
+        "word": "SpaceX星舰第二次试飞",
+        "onboard_time": 1700308112,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153990,
+        "num": 153990,
+        "word": "张晚意一集气死一个主任",
+        "onboard_time": 1700317832,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147952,
+        "num": 147952,
+        "word": "金韩彬iKON世纪同台",
+        "onboard_time": 1700307333,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138146,
+        "num": 138146,
+        "word": "登神长阶最后一战",
+        "onboard_time": 1700317953,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137690,
+        "num": 137690,
+        "word": "粉丝坐快艇喊范丞丞我爱你",
+        "onboard_time": 1700317893,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133866,
+        "num": 133866,
+        "word": "张云雷演唱会",
+        "onboard_time": 1700311473,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131612,
+        "num": 131612,
+        "word": "檀健次周也vlog比预告甜",
+        "onboard_time": 1700312911,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130467,
+        "num": 130467,
+        "word": "星舰 热分离",
+        "onboard_time": 1700314835,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127568,
+        "num": 127568,
+        "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+        "onboard_time": 1700317832,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 127115,
+        "num": 127115,
+        "word": "五月天上海演唱会",
+        "onboard_time": 1700304991,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125112,
+        "num": 125112,
+        "word": "支原体肺炎还要把鼻炎治好",
+        "onboard_time": 1700301455,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121427,
+        "num": 121427,
+        "word": "萌兰打哈欠一张嘴血脉觉醒",
+        "onboard_time": 1700317653,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117704,
+        "num": 117704,
+        "word": "汶川地震微笑女孩结婚",
+        "onboard_time": 1700309854,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115503,
+        "num": 115503,
+        "word": "毕雯珺签售会亲自检票",
+        "onboard_time": 1700311955,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回到北京#"
+    }
+  }
+}
