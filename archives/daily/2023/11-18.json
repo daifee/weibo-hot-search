@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700300057502,
+  "endTime": 1700302643912,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -41,6 +41,14 @@
       "onboard_time": 1700295753,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1685973,
+      "num": 467853,
+      "word": "哥哥去世1年11岁妹妹也患同样病",
+      "onboard_time": 1700299591,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1609882,
@@ -523,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389776,
+      "num": 205652,
+      "word": "经常涂润唇膏会有副作用吗",
+      "onboard_time": 1700299534,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 383968,
       "num": 383968,
       "word": "五月天舞台 提词器",
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239955,
+      "num": 239955,
+      "word": "kpop的选秀风吹到了海外",
+      "onboard_time": 1700299953,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239606,
       "num": 239606,
       "word": "快船vs火箭",
@@ -987,12 +1011,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228416,
-      "num": 228416,
-      "word": "哥哥去世1年11岁妹妹也患同样病",
-      "onboard_time": 1700299591,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 226296,
+      "num": 226296,
+      "word": "丁程鑫舞台造型爆改LadyGaga",
+      "onboard_time": 1700301933,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226151,
@@ -1075,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210693,
+      "num": 592005,
+      "word": "家长带孩子修平翘起的石板",
+      "onboard_time": 1700300311,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209795,
       "num": 209795,
       "word": "快乐老友记",
@@ -1123,12 +1155,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 205760,
+      "num": 205760,
+      "word": "林诗栋",
+      "onboard_time": 1700301693,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205521,
       "num": 199040,
       "word": "私奔舞美",
       "onboard_time": 1700299354,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205499,
+      "num": 205499,
+      "word": "谢危为什么失望",
+      "onboard_time": 1700301573,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 204103,
@@ -1147,12 +1195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201595,
-      "num": 201595,
-      "word": "经常涂润唇膏会有副作用吗",
-      "onboard_time": 1700299534,
+      "raw_hot": 199063,
+      "num": 154079,
+      "word": "支原体肺炎还要把鼻炎治好",
+      "onboard_time": 1700301455,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198232,
+      "num": 198232,
+      "word": "鞠婧祎学姐风穿搭",
+      "onboard_time": 1700302352,
       "rank": 24,
-      "category": "美妆"
+      "category": "艺人"
     },
     {
       "raw_hot": 198085,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1700276251,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197577,
+      "num": 197577,
+      "word": "Hero战胜RW",
+      "onboard_time": 1700302053,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 194754,
@@ -1219,6 +1283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 188734,
+      "num": 188734,
+      "word": "张真源背吉他打碟",
+      "onboard_time": 1700301753,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188597,
       "num": 188597,
       "word": "似火流年 汪磊患无痛症",
@@ -1259,12 +1331,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182591,
+      "num": 182591,
+      "word": "养肝就是养命",
+      "onboard_time": 1700300012,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182417,
       "num": 182417,
       "word": "ENHYPEN勇闯中餐厅",
       "onboard_time": 1700275049,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180250,
+      "num": 487575,
+      "word": "00后民警一周收到3面锦旗开心比耶",
+      "onboard_time": 1700300374,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179145,
@@ -1419,12 +1507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160435,
+      "num": 407561,
+      "word": "浙江企业把员工名字嵌在了卫星上",
+      "onboard_time": 1700297792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160169,
       "num": 160169,
       "word": "这是要开到宁古塔吗",
       "onboard_time": 1700299893,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157501,
+      "num": 157501,
+      "word": "DYG被训练赛骗到了",
+      "onboard_time": 1700300974,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 157152,
@@ -1515,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149233,
+      "num": 149233,
+      "word": "这位市委书记一口气做了13个引体向上",
+      "onboard_time": 1700302233,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147165,
       "num": 147165,
       "word": "offer5玻璃门要不要擦这么干净",
@@ -1539,19 +1651,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144877,
+      "num": 144877,
+      "word": "文俊辉hi6cha了梦游手势舞",
+      "onboard_time": 1700300493,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143953,
       "num": 143953,
       "word": "大熊猫扁得好像地毯啊",
       "onboard_time": 1700271809,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142412,
-      "num": 142412,
-      "word": "浙江企业把员工名字嵌在了卫星上",
-      "onboard_time": 1700297792,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1603,14 +1715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137431,
-      "num": 137431,
-      "word": "养肝就是养命",
-      "onboard_time": 1700300012,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136335,
       "num": 136335,
       "word": "张伟丽背摔沈梦辰",
@@ -1657,6 +1761,14 @@
       "onboard_time": 1700272110,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133846,
+      "num": 133846,
+      "word": "百岁姐姐从香港回老家看望2个弟弟",
+      "onboard_time": 1700301812,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133681,
@@ -1803,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120228,
+      "num": 120228,
+      "word": "DEAN新歌DIE4YOU",
+      "onboard_time": 1700301091,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120082,
       "num": 120082,
       "word": "希闻乐见 狗狗CP",
@@ -1816,6 +1936,14 @@
       "word": "新疆小朋友骑马上学实锤了",
       "onboard_time": 1700284712,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118994,
+      "num": 118994,
+      "word": "00后民警2年收到14面锦旗",
+      "onboard_time": 1700302352,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1971,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106838,
-      "num": 135240,
-      "word": "kpop的选秀风吹到了海外",
-      "onboard_time": 1700299953,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106823,
       "num": 106823,
       "word": "马国明新闻女王吻戏",
@@ -2001,6 +2121,14 @@
       "onboard_time": 1700268813,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105659,
+      "num": 135217,
+      "word": "杨单镜头里的白鹿",
+      "onboard_time": 1700299831,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 104151,
@@ -2051,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101203,
-      "num": 135217,
-      "word": "杨单镜头里的白鹿",
-      "onboard_time": 1700299831,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100942,
       "num": 100942,
       "word": "刚入学就匆匆返乡的男孩成功捐髓救父",
@@ -2073,6 +2193,14 @@
       "onboard_time": 1700233550,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100736,
+      "num": 111228,
+      "word": "F1",
+      "onboard_time": 1700300131,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 100202,
@@ -2227,6 +2355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66105,
+      "num": 262256,
+      "word": "S13总决赛比分预测",
+      "onboard_time": 1700299893,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64430,
       "num": 149562,
       "word": "全班同学为即将休产假老师准备惊喜",
@@ -2281,14 +2417,6 @@
       "onboard_time": 1700263885,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40613,
-      "num": 135159,
-      "word": "S13总决赛比分预测",
-      "onboard_time": 1700299893,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 36556,

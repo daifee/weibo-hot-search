@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700300057502,
+  "endTime": 1700302643912,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -544,6 +544,14 @@
       "word": "墨西哥性侵犯遭黑帮私刑被狗吃掉生殖器",
       "onboard_time": 1699860692,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1685973,
+      "num": 467853,
+      "word": "哥哥去世1年11岁妹妹也患同样病",
+      "onboard_time": 1700299591,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5707,6 +5715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389776,
+      "num": 205652,
+      "word": "经常涂润唇膏会有副作用吗",
+      "onboard_time": 1700299534,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 389149,
       "num": 389149,
       "word": "有人自林中坠落",
@@ -9179,6 +9195,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 239955,
+      "num": 239955,
+      "word": "kpop的选秀风吹到了海外",
+      "onboard_time": 1700299953,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239606,
       "num": 239606,
       "word": "快船vs火箭",
@@ -9603,14 +9627,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 228416,
-      "num": 228416,
-      "word": "哥哥去世1年11岁妹妹也患同样病",
-      "onboard_time": 1700299591,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228390,
       "num": 228390,
       "word": "虞书欣吊带拖尾裙",
@@ -9721,6 +9737,14 @@
       "onboard_time": 1699837053,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226296,
+      "num": 226296,
+      "word": "丁程鑫舞台造型爆改LadyGaga",
+      "onboard_time": 1700301933,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226192,
@@ -10483,6 +10507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210693,
+      "num": 592005,
+      "word": "家长带孩子修平翘起的石板",
+      "onboard_time": 1700300311,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210567,
       "num": 210567,
       "word": "女孩子养生之蒸苹果",
@@ -10787,6 +10819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205760,
+      "num": 205760,
+      "word": "林诗栋",
+      "onboard_time": 1700301693,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205521,
       "num": 199040,
       "word": "私奔舞美",
@@ -10801,6 +10841,14 @@
       "onboard_time": 1700224475,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205499,
+      "num": 205499,
+      "word": "谢危为什么失望",
+      "onboard_time": 1700301573,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 205377,
@@ -11043,14 +11091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201595,
-      "num": 201595,
-      "word": "经常涂润唇膏会有副作用吗",
-      "onboard_time": 1700299534,
-      "rank": 24,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 201245,
       "num": 201245,
       "word": "罗云熙给JDG加油",
@@ -11195,6 +11235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199063,
+      "num": 154079,
+      "word": "支原体肺炎还要把鼻炎治好",
+      "onboard_time": 1700301455,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198956,
       "num": 259298,
       "word": "双子座真的很难自愈",
@@ -11283,6 +11331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198232,
+      "num": 198232,
+      "word": "鞠婧祎学姐风穿搭",
+      "onboard_time": 1700302352,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198215,
       "num": 198215,
       "word": "我嗑的cp试戏也真亲",
@@ -11337,6 +11393,14 @@
       "onboard_time": 1700227114,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197577,
+      "num": 197577,
+      "word": "Hero战胜RW",
+      "onboard_time": 1700302053,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 197537,
@@ -11865,6 +11929,14 @@
       "onboard_time": 1700028632,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188734,
+      "num": 188734,
+      "word": "张真源背吉他打碟",
+      "onboard_time": 1700301753,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 188614,
@@ -12403,6 +12475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 182591,
+      "num": 182591,
+      "word": "养肝就是养命",
+      "onboard_time": 1700300012,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182579,
       "num": 134906,
       "word": "五月天后遗症",
@@ -12529,6 +12609,14 @@
       "onboard_time": 1700226996,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180250,
+      "num": 487575,
+      "word": "00后民警一周收到3面锦旗开心比耶",
+      "onboard_time": 1700300374,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180172,
@@ -13891,6 +13979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160435,
+      "num": 407561,
+      "word": "浙江企业把员工名字嵌在了卫星上",
+      "onboard_time": 1700297792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160203,
       "num": 218444,
       "word": "2个半月宝宝第1次见太爷爷笑出了声",
@@ -14049,6 +14145,14 @@
       "onboard_time": 1699787191,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157501,
+      "num": 157501,
+      "word": "DYG被训练赛骗到了",
+      "onboard_time": 1700300974,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 157100,
@@ -14499,6 +14603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149233,
+      "num": 149233,
+      "word": "这位市委书记一口气做了13个引体向上",
+      "onboard_time": 1700302233,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148991,
       "num": 148991,
       "word": "德约科维奇八夺年终世界第一",
@@ -14763,6 +14875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144877,
+      "num": 144877,
+      "word": "文俊辉hi6cha了梦游手势舞",
+      "onboard_time": 1700300493,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144760,
       "num": 144760,
       "word": "猫妈妈传授狩猎人类的技巧",
@@ -14929,14 +15049,6 @@
       "onboard_time": 1699827618,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142412,
-      "num": 142412,
-      "word": "浙江企业把员工名字嵌在了卫星上",
-      "onboard_time": 1700297792,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142220,
@@ -15243,14 +15355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137431,
-      "num": 137431,
-      "word": "养肝就是养命",
-      "onboard_time": 1700300012,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 137391,
       "num": 1322917,
       "word": "手把手教你跨省看病怎么走医保",
@@ -15473,6 +15577,14 @@
       "onboard_time": 1700272110,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133846,
+      "num": 133846,
+      "word": "百岁姐姐从香港回老家看望2个弟弟",
+      "onboard_time": 1700301812,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133791,
@@ -16419,6 +16531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120228,
+      "num": 120228,
+      "word": "DEAN新歌DIE4YOU",
+      "onboard_time": 1700301091,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120082,
       "num": 120082,
       "word": "希闻乐见 狗狗CP",
@@ -16521,6 +16641,14 @@
       "onboard_time": 1700034515,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118994,
+      "num": 118994,
+      "word": "00后民警2年收到14面锦旗",
+      "onboard_time": 1700302352,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118881,
@@ -17187,14 +17315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106838,
-      "num": 135240,
-      "word": "kpop的选秀风吹到了海外",
-      "onboard_time": 1700299953,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106823,
       "num": 106823,
       "word": "马国明新闻女王吻戏",
@@ -17257,6 +17377,14 @@
       "onboard_time": 1699878332,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105659,
+      "num": 135217,
+      "word": "杨单镜头里的白鹿",
+      "onboard_time": 1700299831,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 105501,
@@ -17427,14 +17555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101203,
-      "num": 135217,
-      "word": "杨单镜头里的白鹿",
-      "onboard_time": 1700299831,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101138,
       "num": 101138,
       "word": "TheShy生日礼物",
@@ -17457,6 +17577,14 @@
       "onboard_time": 1700295753,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100736,
+      "num": 111228,
+      "word": "F1",
+      "onboard_time": 1700300131,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 100351,
@@ -18099,6 +18227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66105,
+      "num": 262256,
+      "word": "S13总决赛比分预测",
+      "onboard_time": 1700299893,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65325,
       "num": 266273,
       "word": "长焦能给手机影像带来什么",
@@ -18433,14 +18569,6 @@
       "onboard_time": 1699711295,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40613,
-      "num": 135159,
-      "word": "S13总决赛比分预测",
-      "onboard_time": 1700299893,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 40149,
