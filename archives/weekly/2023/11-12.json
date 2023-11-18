@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700306022726,
+  "endTime": 1700307253722,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2845719,
-      "num": 253712,
+      "num": 290763,
       "word": "薛之谦竟然有儿子了",
       "onboard_time": 1700274749,
       "rank": 20,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 893861,
+      "num": 400864,
+      "word": "以色列称将攻打加沙全境",
+      "onboard_time": 1700305413,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 893209,
       "num": 925690,
       "word": "愿邀请5万名美国青少年来华交流学习",
@@ -2547,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723058,
+      "num": 380856,
+      "word": "太原",
+      "onboard_time": 1700306075,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721356,
       "num": 721356,
       "word": "浙江一大妈买海鱼红烧后半夜发绿光",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1700105799,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 648294,
+      "num": 490583,
+      "word": "食冰癖在缺铁者中非常常见",
+      "onboard_time": 1700303794,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 648131,
@@ -3523,6 +3547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 581605,
+      "num": 471891,
+      "word": "大米爆",
+      "onboard_time": 1700304991,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 577472,
       "num": 445844,
       "word": "王昭君 美少女战士",
@@ -3667,14 +3699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560702,
-      "num": 400864,
-      "word": "以色列称将攻打加沙全境",
-      "onboard_time": 1700305413,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 559859,
       "num": 398076,
       "word": "山西永聚煤业火灾已致19人遇难",
@@ -3745,14 +3769,6 @@
       "onboard_time": 1699857872,
       "rank": 7,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 550094,
-      "num": 490583,
-      "word": "食冰癖在缺铁者中非常常见",
-      "onboard_time": 1700303794,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 549831,
@@ -4545,14 +4561,6 @@
       "onboard_time": 1699754611,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471891,
-      "num": 471891,
-      "word": "大米爆",
-      "onboard_time": 1700304991,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 470979,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1700187812,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347352,
+      "num": 347352,
+      "word": "费沁源自曝在青春有你时被霸凌",
+      "onboard_time": 1700306432,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 347044,
@@ -9219,6 +9235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242214,
+      "num": 242214,
+      "word": "骂了五年的仇人变主人了",
+      "onboard_time": 1700303131,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241808,
       "num": 241808,
       "word": "2女生捡到3千现金后报警交还",
@@ -9297,14 +9321,6 @@
       "onboard_time": 1699871554,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238597,
-      "num": 238597,
-      "word": "骂了五年的仇人变主人了",
-      "onboard_time": 1700303131,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 238431,
@@ -10353,6 +10369,14 @@
       "onboard_time": 1699718494,
       "rank": 23,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 214686,
+      "num": 214686,
+      "word": "严浩翔的车坏了",
+      "onboard_time": 1700306792,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214590,
@@ -13411,6 +13435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170147,
+      "num": 170147,
+      "word": "eStar对战DRG",
+      "onboard_time": 1700306612,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169975,
       "num": 169975,
       "word": "黑白密码",
@@ -13545,6 +13577,14 @@
       "onboard_time": 1700293591,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168266,
+      "num": 168266,
+      "word": "星舰",
+      "onboard_time": 1700305772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168105,
@@ -14953,6 +14993,14 @@
       "onboard_time": 1700300493,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144859,
+      "num": 408520,
+      "word": "孙子怀抱84岁奶奶帮其洗头",
+      "onboard_time": 1700303553,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144760,
@@ -16859,6 +16907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 117230,
+      "num": 117230,
+      "word": "坐地铁全程被小哥脚上东西吸引",
+      "onboard_time": 1700307213,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117207,
       "num": 117207,
       "word": "家属回应佳木斯一大三女生跳江",
@@ -16897,14 +16953,6 @@
       "onboard_time": 1700272952,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 116468,
-      "num": 145598,
-      "word": "孙子怀抱84岁奶奶帮其洗头",
-      "onboard_time": 1700303553,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116321,
@@ -16953,6 +17001,22 @@
       "onboard_time": 1699863518,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 115593,
+      "num": 115593,
+      "word": "宝妈抱婴儿看演唱会薛之谦连连叮嘱",
+      "onboard_time": 1700306912,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115590,
+      "num": 115590,
+      "word": "老干妈被年轻人抛弃了吗",
+      "onboard_time": 1700307154,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 115572,
@@ -17595,6 +17659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102437,
+      "num": 112971,
+      "word": "张凌赫杭州",
+      "onboard_time": 1700306912,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102117,
       "num": 102117,
       "word": "雪地牧羊竟然拍出大片意境",
@@ -17625,14 +17697,6 @@
       "onboard_time": 1700204612,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101641,
-      "num": 145583,
-      "word": "星舰",
-      "onboard_time": 1700305772,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101634,
@@ -17723,6 +17787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99984,
+      "num": 112941,
+      "word": "他的表白没有声音却震耳欲聋",
+      "onboard_time": 1700306551,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99741,
       "num": 99741,
       "word": "黄景瑜孙千冬至路透",
@@ -17809,6 +17881,14 @@
       "onboard_time": 1699771470,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 97594,
+      "num": 112934,
+      "word": "权革回来了",
+      "onboard_time": 1700307213,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 97581,
