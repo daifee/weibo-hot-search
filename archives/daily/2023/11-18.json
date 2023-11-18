@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700307253722,
+  "endTime": 1700310644707,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1330154,
+      "num": 347352,
+      "word": "费沁源自曝在青春有你时被霸凌",
+      "onboard_time": 1700306432,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1123279,
       "num": 655048,
       "word": "严浩翔哭了",
@@ -81,6 +89,14 @@
       "onboard_time": 1700297670,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1015337,
+      "num": 384902,
+      "word": "老干妈被年轻人抛弃了吗",
+      "onboard_time": 1700307154,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 974272,
@@ -163,18 +179,18 @@
       "category": "演出"
     },
     {
-      "raw_hot": 757530,
-      "num": 392440,
-      "word": "律师回应18岁父亲有个4岁儿子",
-      "onboard_time": 1700283151,
+      "raw_hot": 758912,
+      "num": 380856,
+      "word": "太原",
+      "onboard_time": 1700306075,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723058,
-      "num": 380856,
-      "word": "太原",
-      "onboard_time": 1700306075,
+      "raw_hot": 757530,
+      "num": 392440,
+      "word": "律师回应18岁父亲有个4岁儿子",
+      "onboard_time": 1700283151,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -305,6 +321,14 @@
       "onboard_time": 1700233415,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 580468,
+      "num": 373529,
+      "word": "鲁迅孙子自称90%刷视频10%看书",
+      "onboard_time": 1700309372,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576519,
@@ -563,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 402089,
+      "num": 369276,
+      "word": "奔跑吧",
+      "onboard_time": 1700310391,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401108,
       "num": 243938,
       "word": "经常涂润唇膏会有副作用吗",
@@ -601,6 +633,14 @@
       "onboard_time": 1700288370,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390105,
+      "num": 390105,
+      "word": "税务师法律",
+      "onboard_time": 1700308413,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 389937,
@@ -667,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367286,
+      "num": 367286,
+      "word": "SpaceX星舰第二次试飞",
+      "onboard_time": 1700308112,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365690,
       "num": 365690,
       "word": "王星越孔雪儿再现为有暗香来片段",
@@ -691,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358329,
+      "num": 358329,
+      "word": "金韩彬iKON世纪同台",
+      "onboard_time": 1700307333,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353840,
       "num": 318849,
       "word": "罗云熙出发韩国",
@@ -705,14 +761,6 @@
       "onboard_time": 1700301455,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 347352,
-      "num": 347352,
-      "word": "费沁源自曝在青春有你时被霸凌",
-      "onboard_time": 1700306432,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 339939,
@@ -731,12 +779,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 330762,
+      "num": 330762,
+      "word": "郑书意时宴坦白局",
+      "onboard_time": 1700308230,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329283,
       "num": 594023,
       "word": "老人不会线上支付用现金给孙子交生活费",
       "onboard_time": 1700231735,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326565,
+      "num": 326565,
+      "word": "原来普通话是河北方言",
+      "onboard_time": 1700307154,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 322424,
+      "num": 184010,
+      "word": "你女朋友不洗头啊",
+      "onboard_time": 1700308711,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 321516,
@@ -843,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297300,
+      "num": 297300,
+      "word": "于适烟花下的迪士尼王子",
+      "onboard_time": 1700309854,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296791,
       "num": 296791,
       "word": "敷完面膜该不该洗脸",
@@ -891,12 +971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290947,
+      "num": 245594,
+      "word": "花亦山心之月",
+      "onboard_time": 1700310455,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290343,
       "num": 290343,
       "word": "李雪琴 恋爱还是会选相处舒服的人",
       "onboard_time": 1700291672,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283956,
+      "num": 283956,
+      "word": "黄子韬演唱会",
+      "onboard_time": 1700298394,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 283755,
@@ -937,6 +1033,14 @@
       "onboard_time": 1700281892,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 275879,
+      "num": 408520,
+      "word": "孙子怀抱84岁奶奶帮其洗头",
+      "onboard_time": 1700303553,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270368,
@@ -1155,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222027,
-      "num": 222027,
-      "word": "黄子韬演唱会",
-      "onboard_time": 1700298394,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 221836,
       "num": 160880,
       "word": "奶奶一句话达到苏轼水平",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1700294311,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208161,
+      "num": 208161,
+      "word": "一支9块9口红里的父爱",
+      "onboard_time": 1700308894,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 207875,
@@ -1355,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190889,
+      "num": 190889,
+      "word": "刘宇宁直播",
+      "onboard_time": 1700307272,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190868,
       "num": 190868,
       "word": "临沧分拣中心",
@@ -1459,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181074,
+      "num": 181074,
+      "word": "你好种地少年",
+      "onboard_time": 1700310455,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179145,
       "num": 157712,
       "word": "40只QQ在舟山异地登陆",
@@ -1531,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174339,
+      "num": 174339,
+      "word": "S13",
+      "onboard_time": 1700307814,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172262,
       "num": 172262,
       "word": "周迅 能撑起母亲身份的熟龄美",
@@ -1585,6 +1713,14 @@
       "onboard_time": 1700305772,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167345,
+      "num": 167345,
+      "word": "坐地铁全程被小哥脚上东西吸引",
+      "onboard_time": 1700307213,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 166909,
@@ -1747,6 +1883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147405,
+      "num": 147405,
+      "word": "张凌赫杭州",
+      "onboard_time": 1700306912,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147165,
       "num": 147165,
       "word": "offer5玻璃门要不要擦这么干净",
@@ -1777,14 +1921,6 @@
       "onboard_time": 1700300493,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144859,
-      "num": 408520,
-      "word": "孙子怀抱84岁奶奶帮其洗头",
-      "onboard_time": 1700303553,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143953,
@@ -1947,12 +2083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131172,
+      "num": 131172,
+      "word": "汶川地震微笑女孩结婚",
+      "onboard_time": 1700309854,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129497,
       "num": 129497,
       "word": "比尔又伤了",
       "onboard_time": 1700269171,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128253,
+      "num": 128253,
+      "word": "长时间冷冻的肉还能吃吗",
+      "onboard_time": 1700308894,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 127890,
@@ -2091,14 +2243,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 117230,
-      "num": 117230,
-      "word": "坐地铁全程被小哥脚上东西吸引",
-      "onboard_time": 1700307213,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116786,
       "num": 116786,
       "word": "涂山璟 古诗词押韵教学",
@@ -2129,14 +2273,6 @@
       "onboard_time": 1700306912,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115590,
-      "num": 115590,
-      "word": "老干妈被年轻人抛弃了吗",
-      "onboard_time": 1700307154,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 115572,
@@ -2259,6 +2395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107710,
+      "num": 107710,
+      "word": "黑白密码",
+      "onboard_time": 1700309553,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107268,
       "num": 107268,
       "word": "日本赛雅思组合进决赛",
@@ -2337,14 +2481,6 @@
       "onboard_time": 1700267611,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102437,
-      "num": 112971,
-      "word": "张凌赫杭州",
-      "onboard_time": 1700306912,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 102117,
@@ -2433,6 +2569,14 @@
       "onboard_time": 1700287953,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 96239,
+      "num": 107700,
+      "word": "新裤子广州演唱会",
+      "onboard_time": 1700309252,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 96216,
