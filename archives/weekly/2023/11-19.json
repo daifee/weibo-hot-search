@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700345756745,
+  "endTime": 1700346828485,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28790,
+      "num": 47581,
+      "word": "班上唯一认真听课的同学被抓走了",
+      "onboard_time": 1700345896,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21293,
       "num": 21293,
       "word": "声生不息家年华",
@@ -451,16 +459,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15481,
-      "num": 22578,
+      "raw_hot": 18416,
+      "num": 47567,
       "word": "奔跑吧",
       "onboard_time": 1700310391,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 14626,
-      "num": 22561,
+      "raw_hot": 15117,
+      "num": 47565,
       "word": "千万不要在顶光下自拍",
       "onboard_time": 1700338394,
       "rank": 47,

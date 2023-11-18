@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700345756745,
+  "endTime": 1700346828485,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -50227,6 +50227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28790,
+      "num": 47581,
+      "word": "班上唯一认真听课的同学被抓走了",
+      "onboard_time": 1700345896,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28730,
       "num": 1428092,
       "word": "2023进博会亮点抢先看",
@@ -50691,6 +50699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15117,
+      "num": 47565,
+      "word": "千万不要在顶光下自拍",
+      "onboard_time": 1700338394,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 15116,
       "num": 20056,
       "word": "Kulakova Polina画面合集",
@@ -50721,14 +50737,6 @@
       "onboard_time": 1699007374,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 14626,
-      "num": 22561,
-      "word": "千万不要在顶光下自拍",
-      "onboard_time": 1700338394,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 14343,

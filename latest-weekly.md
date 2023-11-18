@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/19 06:15:56
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/19 06:33:48
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ SpaceX与星舰助推器失去联系（热度：51429）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%8A%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%90%AC%E8%AF%BE%E7%9A%84%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E4%BA%86%23" target="weibo">
+班上唯一认真听课的同学被抓走了（热度：28790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%B6%E5%B9%B4%E5%8D%8E%23" target="weibo">
 声生不息家年华（热度：21293）
 </a>
@@ -352,13 +358,13 @@ SpaceX与星舰助推器失去联系（热度：51429）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
-奔跑吧（热度：15481）
+奔跑吧（热度：18416）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E9%A1%B6%E5%85%89%E4%B8%8B%E8%87%AA%E6%8B%8D%23" target="weibo">
-千万不要在顶光下自拍（热度：14626）
+千万不要在顶光下自拍（热度：15117）
 </a>
 </li>
 
