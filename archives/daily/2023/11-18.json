@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700281240260,
+  "endTime": 1700282132318,
   "band_list": [
     {
       "raw_hot": 2845719,
@@ -20,15 +20,15 @@
     },
     {
       "raw_hot": 2464183,
-      "num": 678593,
+      "num": 703529,
       "word": "同一天领证我还没办仪式他都离了",
       "onboard_time": 1700276370,
       "rank": 3,
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1816181,
-      "num": 654051,
+      "raw_hot": 2443157,
+      "num": 715854,
       "word": "霸王茶姬 免单",
       "onboard_time": 1700280029,
       "rank": 4,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 686683,
+      "num": 686683,
+      "word": "税务师 算不清根本算不清",
+      "onboard_time": 1700280211,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 674274,
       "num": 334403,
       "word": "浙江一家4人查出同种癌最小才16岁",
@@ -121,14 +129,6 @@
       "onboard_time": 1700264245,
       "rank": 12,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 648124,
-      "num": 648124,
-      "word": "税务师 算不清根本算不清",
-      "onboard_time": 1700280211,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 580641,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 483712,
-      "num": 744180,
+      "num": 789240,
       "word": "大姐爬完香山献血地铁虚脱警民齐相助",
       "onboard_time": 1700229813,
       "rank": 48,
@@ -267,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396050,
+      "num": 325155,
+      "word": "回来吧我的虎大将军",
+      "onboard_time": 1700280211,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 383968,
       "num": 383968,
       "word": "五月天舞台 提词器",
       "onboard_time": 1700237612,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 381685,
-      "num": 325155,
-      "word": "回来吧我的虎大将军",
-      "onboard_time": 1700280211,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 374783,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 373389,
-      "num": 761535,
+      "num": 801629,
       "word": "2023APEC",
       "onboard_time": 1700263642,
       "rank": 23,
@@ -515,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 252931,
+      "num": 319358,
+      "word": "新闻女王 没一个好惹",
+      "onboard_time": 1700280931,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252414,
       "num": 252414,
       "word": "ChatGPT创始人奥特曼回应被解职",
@@ -545,6 +553,14 @@
       "onboard_time": 1700228196,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235183,
+      "num": 235183,
+      "word": "何炅林俊杰合照",
+      "onboard_time": 1700281651,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 233294,
@@ -603,20 +619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209512,
+      "num": 209512,
+      "word": "邓紫棋南宁演唱会秒罄",
+      "onboard_time": 1700281769,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208499,
       "num": 208499,
       "word": "把从大山里考出来的孩子送回深山",
       "onboard_time": 1700218835,
       "rank": 23,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 204823,
-      "num": 204823,
-      "word": "新闻女王 没一个好惹",
-      "onboard_time": 1700280931,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 204103,
@@ -707,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179928,
+      "num": 148479,
+      "word": "快船 失误",
+      "onboard_time": 1700281832,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179145,
       "num": 157712,
       "word": "40只QQ在舟山异地登陆",
@@ -777,6 +801,14 @@
       "onboard_time": 1700240306,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166909,
+      "num": 166909,
+      "word": "莫青成 盯妻狂魔",
+      "onboard_time": 1700281110,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 164610,
@@ -873,6 +905,14 @@
       "onboard_time": 1700220933,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148631,
+      "num": 148631,
+      "word": "张元英腮红打法",
+      "onboard_time": 1700281710,
+      "rank": 29,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 147165,
@@ -1035,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125883,
+      "num": 125883,
+      "word": "吴磊说看完怒海像淋了场愤怒的雨",
+      "onboard_time": 1700281052,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125498,
       "num": 125498,
       "word": "为救一只猫30人建了一个群",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1700274627,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123289,
+      "num": 123289,
+      "word": "给我来个小狐狸 整条街没一个正常人",
+      "onboard_time": 1700279310,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 120082,
@@ -1131,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112185,
-      "num": 112185,
-      "word": "给我来个小狐狸 整条街没一个正常人",
-      "onboard_time": 1700279310,
-      "rank": 39,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 111667,
       "num": 111667,
       "word": "李现说怒海每一秒都是新的震撼",
@@ -1171,20 +1219,20 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 108937,
-      "num": 108937,
-      "word": "莫青成 盯妻狂魔",
-      "onboard_time": 1700281110,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 109212,
+      "num": 109212,
+      "word": "内蒙网友互换特产开车1700公里送活羊",
+      "onboard_time": 1700281410,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 108729,
-      "num": 108729,
-      "word": "吴磊说看完怒海像淋了场愤怒的雨",
-      "onboard_time": 1700281052,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 107103,
+      "num": 107103,
+      "word": "马斯克被批支持反犹主义主张",
+      "onboard_time": 1700281892,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 106823,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1700267611,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101624,
+      "num": 101624,
+      "word": "冰雨火登顶卫视收视榜",
+      "onboard_time": 1700281950,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 100863,
@@ -1388,7 +1444,7 @@
     },
     {
       "raw_hot": 28609,
-      "num": 709657,
+      "num": 756517,
       "word": "跨越大洋的相聚",
       "onboard_time": 1700253914,
       "rank": 2,

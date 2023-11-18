@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/18 00:25:59 ~ 2023/11/18 12:20:40
+本榜单时间：2023/11/18 00:25:59 ~ 2023/11/18 12:35:32
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%85%8D%E5%8D%95%23" target="weibo">
-霸王茶姬 免单（热度：1816181）
+霸王茶姬 免单（热度：2443157）
 </a>
 </li>
 
@@ -93,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E7%AE%97%E4%B8%8D%E6%B8%85%E6%A0%B9%E6%9C%AC%E7%AE%97%E4%B8%8D%E6%B8%85%23" target="weibo">
+税务师 算不清根本算不清（热度：686683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%AE%B64%E4%BA%BA%E6%9F%A5%E5%87%BA%E5%90%8C%E7%A7%8D%E7%99%8C%E6%9C%80%E5%B0%8F%E6%89%8D16%E5%B2%81%23" target="weibo">
 浙江一家4人查出同种癌最小才16岁（热度：674274）
 </a>
@@ -101,12 +107,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E5%9C%A8%E6%A0%A1%E8%87%AA%E6%9D%80%E6%95%99%E5%B8%88%E7%94%9F%E5%89%8D%E7%96%91%E4%B8%8E%E4%BA%BA%E5%8F%91%E7%94%9F%E8%BF%87%E4%BA%89%E6%89%A7%23" target="weibo">
 东莞在校自杀教师生前疑与人发生过争执（热度：655275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E5%B8%88%20%E7%AE%97%E4%B8%8D%E6%B8%85%E6%A0%B9%E6%9C%AC%E7%AE%97%E4%B8%8D%E6%B8%85%23" target="weibo">
-税务师 算不清根本算不清（热度：648124）
 </a>
 </li>
 
@@ -213,14 +213,14 @@ OpenAI人事巨震（热度：418257）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%88%9E%E5%8F%B0%20%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
-五月天舞台 提词器（热度：383968）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9D%A5%E5%90%A7%E6%88%91%E7%9A%84%E8%99%8E%E5%A4%A7%E5%B0%86%E5%86%9B%23" target="weibo">
+回来吧我的虎大将军（热度：396050）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9D%A5%E5%90%A7%E6%88%91%E7%9A%84%E8%99%8E%E5%A4%A7%E5%B0%86%E5%86%9B%23" target="weibo">
-回来吧我的虎大将军（热度：381685）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%88%9E%E5%8F%B0%20%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
+五月天舞台 提词器（热度：383968）
 </a>
 </li>
 
@@ -399,6 +399,12 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%83%B9%23" target="weibo">
+新闻女王 没一个好惹（热度：252931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ChatGPT%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%A7%A3%E8%81%8C%23" target="weibo">
 ChatGPT创始人奥特曼回应被解职（热度：252414）
 </a>
@@ -419,6 +425,12 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%BB%8F%E5%B8%B8%E7%A7%81%E6%8B%86%E5%BF%AB%E9%80%9226%E5%B2%81%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83%23" target="weibo">
 妈妈经常私拆快递26岁女儿崩溃（热度：239276）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%23" target="weibo">
+何炅林俊杰合照（热度：235183）
 </a>
 </li>
 
@@ -465,14 +477,14 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E4%BB%8E%E5%A4%A7%E5%B1%B1%E9%87%8C%E8%80%83%E5%87%BA%E6%9D%A5%E7%9A%84%E5%AD%A9%E5%AD%90%E9%80%81%E5%9B%9E%E6%B7%B1%E5%B1%B1%23" target="weibo">
-把从大山里考出来的孩子送回深山（热度：208499）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8D%97%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A7%92%E7%BD%84%23" target="weibo">
+邓紫棋南宁演唱会秒罄（热度：209512）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E6%B2%A1%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%83%B9%23" target="weibo">
-新闻女王 没一个好惹（热度：204823）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E4%BB%8E%E5%A4%A7%E5%B1%B1%E9%87%8C%E8%80%83%E5%87%BA%E6%9D%A5%E7%9A%84%E5%AD%A9%E5%AD%90%E9%80%81%E5%9B%9E%E6%B7%B1%E5%B1%B1%23" target="weibo">
+把从大山里考出来的孩子送回深山（热度：208499）
 </a>
 </li>
 
@@ -543,6 +555,12 @@ ENHYPEN勇闯中餐厅（热度：182417）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9%20%E5%A4%B1%E8%AF%AF%23" target="weibo">
+快船 失误（热度：179928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2340%E5%8F%AAQQ%E5%9C%A8%E8%88%9F%E5%B1%B1%E5%BC%82%E5%9C%B0%E7%99%BB%E9%99%86%23" target="weibo">
 40只QQ在舟山异地登陆（热度：179145）
 </a>
@@ -593,6 +611,12 @@ ENHYPEN勇闯中餐厅（热度：182417）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%8E%BB%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23" target="weibo">
 周雨彤去看五月天演唱会了（热度：169568）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9D%92%E6%88%90%20%E7%9B%AF%E5%A6%BB%E7%8B%82%E9%AD%94%23" target="weibo">
+莫青成 盯妻狂魔（热度：166909）
 </a>
 </li>
 
@@ -665,6 +689,12 @@ ENHYPEN勇闯中餐厅（热度：182417）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%20%E6%8E%A5AD%23" target="weibo">
 EDG 接AD（热度：149553）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%85%AE%E7%BA%A2%E6%89%93%E6%B3%95%23" target="weibo">
+张元英腮红打法（热度：148631）
 </a>
 </li>
 
@@ -789,6 +819,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%AF%B4%E7%9C%8B%E5%AE%8C%E6%80%92%E6%B5%B7%E5%83%8F%E6%B7%8B%E4%BA%86%E5%9C%BA%E6%84%A4%E6%80%92%E7%9A%84%E9%9B%A8%23" target="weibo">
+吴磊说看完怒海像淋了场愤怒的雨（热度：125883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%95%91%E4%B8%80%E5%8F%AA%E7%8C%AB30%E4%BA%BA%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%BE%A4%23" target="weibo">
 为救一只猫30人建了一个群（热度：125498）
 </a>
@@ -809,6 +845,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%AE%ADvs%E5%BF%AB%E8%88%B9%23" target="weibo">
 火箭vs快船（热度：123335）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%88%91%E6%9D%A5%E4%B8%AA%E5%B0%8F%E7%8B%90%E7%8B%B8%20%E6%95%B4%E6%9D%A1%E8%A1%97%E6%B2%A1%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%B8%B8%E4%BA%BA%23" target="weibo">
+给我来个小狐狸 整条街没一个正常人（热度：123289）
 </a>
 </li>
 
@@ -861,12 +903,6 @@ RedVelvet音银新歌初舞台（热度：133496）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%88%91%E6%9D%A5%E4%B8%AA%E5%B0%8F%E7%8B%90%E7%8B%B8%20%E6%95%B4%E6%9D%A1%E8%A1%97%E6%B2%A1%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%B8%B8%E4%BA%BA%23" target="weibo">
-给我来个小狐狸 整条街没一个正常人（热度：112185）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%AF%B4%E6%80%92%E6%B5%B7%E6%AF%8F%E4%B8%80%E7%A7%92%E9%83%BD%E6%98%AF%E6%96%B0%E7%9A%84%E9%9C%87%E6%92%BC%23" target="weibo">
 李现说怒海每一秒都是新的震撼（热度：111667）
 </a>
@@ -891,14 +927,14 @@ RedVelvet音银新歌初舞台（热度：133496）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9D%92%E6%88%90%20%E7%9B%AF%E5%A6%BB%E7%8B%82%E9%AD%94%23" target="weibo">
-莫青成 盯妻狂魔（热度：108937）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E7%BD%91%E5%8F%8B%E4%BA%92%E6%8D%A2%E7%89%B9%E4%BA%A7%E5%BC%80%E8%BD%A61700%E5%85%AC%E9%87%8C%E9%80%81%E6%B4%BB%E7%BE%8A%23" target="weibo">
+内蒙网友互换特产开车1700公里送活羊（热度：109212）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%AF%B4%E7%9C%8B%E5%AE%8C%E6%80%92%E6%B5%B7%E5%83%8F%E6%B7%8B%E4%BA%86%E5%9C%BA%E6%84%A4%E6%80%92%E7%9A%84%E9%9B%A8%23" target="weibo">
-吴磊说看完怒海像淋了场愤怒的雨（热度：108729）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%89%B9%E6%94%AF%E6%8C%81%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89%E4%B8%BB%E5%BC%A0%23" target="weibo">
+马斯克被批支持反犹主义主张（热度：107103）
 </a>
 </li>
 
@@ -929,6 +965,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4rap%23" target="weibo">
 花儿与少年rap（热度：102655）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%A8%E7%81%AB%E7%99%BB%E9%A1%B6%E5%8D%AB%E8%A7%86%E6%94%B6%E8%A7%86%E6%A6%9C%23" target="weibo">
+冰雨火登顶卫视收视榜（热度：101624）
 </a>
 </li>
 
