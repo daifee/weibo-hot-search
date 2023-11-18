@@ -1,0 +1,410 @@
+{
+  "runTime": 1700278480512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 284032,
+        "num": 594447,
+        "word": "2023APEC",
+        "onboard_time": 1700263642,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241416,
+        "num": 588999,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28609,
+        "num": 572042,
+        "word": "跨越大洋的相聚",
+        "onboard_time": 1700253914,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2464183,
+        "num": 565290,
+        "word": "同一天领证我还没办仪式他都离了",
+        "onboard_time": 1700276370,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 620135,
+        "num": 552412,
+        "word": "霉霉 真封神",
+        "onboard_time": 1700275409,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307754,
+        "num": 540805,
+        "word": "奔跑吧生态篇今晚开播",
+        "onboard_time": 1700275409,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273094,
+        "num": 524410,
+        "word": "徐斯到手的结婚证飞了",
+        "onboard_time": 1700275830,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271219,
+        "num": 505888,
+        "word": "谢可寅珠帘玉幕开机生图",
+        "onboard_time": 1700272952,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239098,
+        "num": 501323,
+        "word": "货车失控男孩蜥蜴跑躲过一劫",
+        "onboard_time": 1700276789,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224186,
+        "num": 476086,
+        "word": "陈雨菲力克安洗莹",
+        "onboard_time": 1700276191,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718123,
+        "num": 469262,
+        "word": "家属称老人已去世民警多看一眼救回",
+        "onboard_time": 1700265026,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602323,
+        "num": 459007,
+        "word": "日机构统计羽生结弦年收入至少4400万",
+        "onboard_time": 1700274148,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 448582,
+        "num": 448582,
+        "word": "于适给刘亦菲让路失败又带错路",
+        "onboard_time": 1700275287,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394659,
+        "num": 394659,
+        "word": "全红婵代言的女装品牌被吐槽丑",
+        "onboard_time": 1700263945,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319681,
+        "num": 319681,
+        "word": "刘端端含泪跪戏",
+        "onboard_time": 1700277810,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318849,
+        "num": 318849,
+        "word": "罗云熙出发韩国",
+        "onboard_time": 1700274208,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257415,
+        "num": 257415,
+        "word": "五条悟可以复活了吗",
+        "onboard_time": 1700235162,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 255894,
+        "num": 255894,
+        "word": "关晓彤陶喆合照",
+        "onboard_time": 1700278051,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212508,
+        "num": 212508,
+        "word": "睡前涂唇膏效果更佳",
+        "onboard_time": 1700277209,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192946,
+        "num": 192946,
+        "word": "起猛了被美团外卖通知免单十年",
+        "onboard_time": 1700278171,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2845719,
+        "num": 192924,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544532,
+        "num": 192569,
+        "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+        "onboard_time": 1700274389,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431763,
+        "num": 192407,
+        "word": "女子梦见老公出轨调查发现竟是真的",
+        "onboard_time": 1700276251,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204582,
+        "num": 192083,
+        "word": "你好星期六",
+        "onboard_time": 1700277991,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192046,
+        "num": 192046,
+        "word": "OpenAI人事巨震",
+        "onboard_time": 1700273369,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164610,
+        "num": 164610,
+        "word": "我本是高山 不光渡人还有渡己",
+        "onboard_time": 1700273369,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160253,
+        "num": 160253,
+        "word": "aespa出道前的艺名候补",
+        "onboard_time": 1700274029,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158175,
+        "num": 158175,
+        "word": "男友第1句话是你咋穿那么少",
+        "onboard_time": 1700272769,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155808,
+        "num": 155808,
+        "word": "全职太太建议别做全职太太",
+        "onboard_time": 1700236176,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147779,
+        "num": 147779,
+        "word": "利物浦球迷皇马球迷面基",
+        "onboard_time": 1700276251,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142610,
+        "num": 142610,
+        "word": "用脚比中指challenge",
+        "onboard_time": 1700278112,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140592,
+        "num": 140592,
+        "word": "小雪糕对薛之谦的爱拿得出手",
+        "onboard_time": 1700267972,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "谢危 he",
+        "onboard_time": 1700267070,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139337,
+        "num": 139337,
+        "word": "羽生结弦结婚时间",
+        "onboard_time": 1700235521,
+        "rank": 33,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 138787,
+        "num": 138787,
+        "word": "凤凰传奇的风终究是刮到了婚礼上",
+        "onboard_time": 1700275470,
+        "rank": 34,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 128887,
+        "num": 128887,
+        "word": "ENHYPEN勇闯中餐厅",
+        "onboard_time": 1700275049,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127695,
+        "num": 127695,
+        "word": "韩东君新剧道歉式开播",
+        "onboard_time": 1700277688,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123051,
+        "num": 123051,
+        "word": "陈雨菲14连胜",
+        "onboard_time": 1700276669,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122832,
+        "num": 122832,
+        "word": "佘诗曼 给内娱一些女王震撼",
+        "onboard_time": 1700239647,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120922,
+        "num": 120922,
+        "word": "大熊猫扁得好像地毯啊",
+        "onboard_time": 1700271809,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119309,
+        "num": 119309,
+        "word": "ChatGPT创始人奥特曼回应被解职",
+        "onboard_time": 1700269292,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118804,
+        "num": 118804,
+        "word": "为什么总是无意识的刷手机",
+        "onboard_time": 1700275470,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112338,
+        "num": 112338,
+        "word": "刘亦菲回应男粉表白",
+        "onboard_time": 1700269771,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111667,
+        "num": 111667,
+        "word": "李现说怒海每一秒都是新的震撼",
+        "onboard_time": 1700278291,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110392,
+        "num": 110392,
+        "word": "似火流年开播",
+        "onboard_time": 1700271931,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108786,
+        "num": 108786,
+        "word": "五月天演唱会 粉丝整活",
+        "onboard_time": 1700270552,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106028,
+        "num": 106028,
+        "word": "审美的尽头是不是越素越美",
+        "onboard_time": 1700273307,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105198,
+        "num": 105198,
+        "word": "90后爸爸割肝救子19个月宝宝获新生",
+        "onboard_time": 1700270012,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96099,
+        "num": 96099,
+        "word": "税务师考试",
+        "onboard_time": 1700270552,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89077,
+        "num": 89077,
+        "word": "姆巴佩说金球奖是梅西应得的",
+        "onboard_time": 1700268993,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金30年#"
+    }
+  }
+}
