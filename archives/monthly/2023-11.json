@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700339640812,
+  "endTime": 1700342079108,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -50723,6 +50723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 14355,
+      "num": 17591,
+      "word": "千万不要在顶光下自拍",
+      "onboard_time": 1700338394,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 14343,
       "num": 16122,
       "word": "希林娜依高谈如何跟妈妈相处",
@@ -50737,14 +50745,6 @@
       "onboard_time": 1699514671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14143,
-      "num": 17591,
-      "word": "千万不要在顶光下自拍",
-      "onboard_time": 1700338394,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 13784,
