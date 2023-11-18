@@ -1,6 +1,6 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700274460297,
+  "endTime": 1700275123522,
   "band_list": [
     {
       "raw_hot": 2838920,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1609882,
-      "num": 393006,
+      "num": 420093,
       "word": "家属称老人已去世民警多看一眼救回",
       "onboard_time": 1700265026,
       "rank": 3,
@@ -56,6 +56,14 @@
       "word": "五条悟可以复活了吗",
       "onboard_time": 1700235162,
       "rank": 13,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 712006,
+      "num": 419939,
+      "word": "日机构统计羽生结弦年收入至少4400万",
+      "onboard_time": 1700274148,
+      "rank": 16,
       "category": "体育,网红"
     },
     {
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483712,
+      "num": 483712,
+      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+      "onboard_time": 1700229813,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480419,
       "num": 258937,
       "word": "薛之谦儿子透风又暖心",
@@ -137,14 +153,6 @@
       "onboard_time": 1700264906,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 453555,
-      "num": 453555,
-      "word": "大姐爬完香山献血地铁虚脱警民齐相助",
-      "onboard_time": 1700229813,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445791,
@@ -171,6 +179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418257,
+      "num": 418257,
+      "word": "OpenAI人事巨震",
+      "onboard_time": 1700273369,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 417811,
+      "num": 417811,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1700273788,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400112,
       "num": 711168,
       "word": "外交部回应岸田希望中国取消停止从日进口食品措施",
@@ -195,20 +219,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 373405,
+      "num": 212454,
+      "word": "薛之谦竟然有儿子了",
+      "onboard_time": 1700274749,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373389,
       "num": 641301,
       "word": "2023APEC",
       "onboard_time": 1700263642,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 371921,
-      "num": 371921,
-      "word": "OpenAI人事巨震",
-      "onboard_time": 1700273369,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 365690,
@@ -243,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320716,
+      "num": 320716,
+      "word": "谢可寅珠帘玉幕开机生图",
+      "onboard_time": 1700272952,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319177,
       "num": 308375,
       "word": "拜登发言时看布林肯眼色",
       "onboard_time": 1700263102,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 309064,
+      "num": 212410,
+      "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+      "onboard_time": 1700274389,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305649,
@@ -299,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290683,
-      "num": 290683,
-      "word": "陈雨菲vs安洗莹",
-      "onboard_time": 1700273788,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279310,
       "num": 253851,
       "word": "主播女孩重度依赖编剧在浦东机场走丢",
@@ -323,22 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277404,
-      "num": 277404,
-      "word": "谢可寅珠帘玉幕开机生图",
-      "onboard_time": 1700272952,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 275003,
-      "num": 242472,
-      "word": "日机构统计羽生结弦年收入至少4400万",
-      "onboard_time": 1700274148,
-      "rank": 16,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 258464,
       "num": 258464,
       "word": "五月天感谢马思纯绿色出行去看演唱会",
@@ -347,12 +363,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253912,
+      "num": 253912,
+      "word": "罗云熙出发韩国",
+      "onboard_time": 1700274208,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253062,
       "num": 253062,
       "word": "168种药品进入今年医保谈判竞价环节",
       "onboard_time": 1700272048,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252414,
+      "num": 252414,
+      "word": "ChatGPT创始人奥特曼回应被解职",
+      "onboard_time": 1700269292,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 245353,
@@ -377,14 +409,6 @@
       "onboard_time": 1700228196,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236905,
-      "num": 236905,
-      "word": "ChatGPT创始人奥特曼回应被解职",
-      "onboard_time": 1700269292,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 233294,
@@ -427,8 +451,8 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 210027,
-      "num": 210027,
+      "raw_hot": 211941,
+      "num": 211941,
       "word": "似火流年开播",
       "onboard_time": 1700271931,
       "rank": 23,
@@ -481,6 +505,14 @@
       "onboard_time": 1700269891,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188597,
+      "num": 188597,
+      "word": "似火流年 汪磊患无痛症",
+      "onboard_time": 1700274509,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 179145,
@@ -539,28 +571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165803,
-      "num": 165803,
-      "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
-      "onboard_time": 1700274389,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164384,
       "num": 202134,
       "word": "一到冬天为什么中西医都建议吃羊肉",
       "onboard_time": 1700236414,
       "rank": 41,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 159589,
-      "num": 159589,
-      "word": "罗云熙出发韩国",
-      "onboard_time": 1700274208,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 157251,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143953,
+      "num": 143953,
+      "word": "大熊猫扁得好像地毯啊",
+      "onboard_time": 1700271809,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141945,
       "num": 141945,
       "word": "刘耀文严浩翔不管抢没抢到直接开唱",
@@ -657,14 +681,6 @@
       "onboard_time": 1700273369,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138865,
-      "num": 138865,
-      "word": "大熊猫扁得好像地毯啊",
-      "onboard_time": 1700271809,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138197,
@@ -697,6 +713,14 @@
       "onboard_time": 1700262802,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134041,
+      "num": 134041,
+      "word": "电影红猪 不能飞的猪是没用的猪",
+      "onboard_time": 1700274688,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 133865,
@@ -779,6 +803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123335,
+      "num": 123335,
+      "word": "火箭vs快船",
+      "onboard_time": 1700274627,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120082,
       "num": 120082,
       "word": "希闻乐见 狗狗CP",
@@ -811,12 +843,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 116321,
+      "num": 116321,
+      "word": "审美的尽头是不是越素越美",
+      "onboard_time": 1700273307,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 116077,
+      "num": 116077,
+      "word": "ENHYPEN勇闯中餐厅",
+      "onboard_time": 1700275049,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113221,
       "num": 113221,
       "word": "保洁员捡7千元现金和90万存单报警归还",
       "onboard_time": 1700272289,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112843,
+      "num": 112843,
+      "word": "陈飞宇 月底进组",
+      "onboard_time": 1700274989,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 111101,
@@ -857,14 +913,6 @@
       "onboard_time": 1700268813,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104057,
-      "num": 104057,
-      "word": "审美的尽头是不是越素越美",
-      "onboard_time": 1700273307,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 103315,
@@ -972,7 +1020,7 @@
     },
     {
       "raw_hot": 77695,
-      "num": 210773,
+      "num": 254000,
       "word": "起猛了极星4上墙了",
       "onboard_time": 1700273130,
       "rank": 22,
@@ -1060,7 +1108,7 @@
     },
     {
       "raw_hot": 25021,
-      "num": 406326,
+      "num": 421089,
       "word": "亚太合作新的时代之问",
       "onboard_time": 1700254874,
       "rank": 2,
