@@ -1,0 +1,410 @@
+{
+  "runTime": 1700313534963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 42925,
+        "num": 620401,
+        "word": "APEC第30次领导人非正式会议闭幕",
+        "onboard_time": 1700287050,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408510,
+        "num": 408510,
+        "word": "原来普通话是河北方言",
+        "onboard_time": 1700307154,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24418,
+        "num": 401372,
+        "word": "中国一直是亚太合作重要的贡献者",
+        "onboard_time": 1700311714,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1523635,
+        "num": 393560,
+        "word": "SpaceX星舰第二次试飞",
+        "onboard_time": 1700308112,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845143,
+        "num": 382807,
+        "word": "鲁迅孙子自称90%刷视频10%看书",
+        "onboard_time": 1700309372,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626619,
+        "num": 371961,
+        "word": "金子涵 断层第一退团",
+        "onboard_time": 1700295753,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509164,
+        "num": 365135,
+        "word": "老干妈被年轻人抛弃了吗",
+        "onboard_time": 1700307154,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 502156,
+        "num": 357582,
+        "word": "奔跑吧",
+        "onboard_time": 1700310391,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348422,
+        "num": 348422,
+        "word": "你好星期六下周有马丽赵露思",
+        "onboard_time": 1700313032,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339015,
+        "num": 339015,
+        "word": "为什么得甲状腺癌的年轻人越来越多了",
+        "onboard_time": 1700298273,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 914186,
+        "num": 338325,
+        "word": "费沁源自曝在青春有你时被霸凌",
+        "onboard_time": 1700306432,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832809,
+        "num": 321605,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405824,
+        "num": 311339,
+        "word": "于适 伏特加",
+        "onboard_time": 1700310815,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394476,
+        "num": 310941,
+        "word": "太原",
+        "onboard_time": 1700306075,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301747,
+        "num": 301747,
+        "word": "毕雯珺签售会亲自检票",
+        "onboard_time": 1700311955,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292000,
+        "num": 292000,
+        "word": "以色列称将攻打加沙全境",
+        "onboard_time": 1700305413,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 271755,
+        "num": 271755,
+        "word": "黄子韬演唱会",
+        "onboard_time": 1700298394,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254745,
+        "num": 254745,
+        "word": "长时间冷冻的肉还能吃吗",
+        "onboard_time": 1700308894,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251811,
+        "num": 251811,
+        "word": "张云雷演唱会",
+        "onboard_time": 1700311473,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245725,
+        "num": 245725,
+        "word": "于适烟花下的迪士尼王子",
+        "onboard_time": 1700309854,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521464,
+        "num": 244247,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326371,
+        "num": 243222,
+        "word": "你女朋友不洗头啊",
+        "onboard_time": 1700308711,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241520,
+        "num": 241520,
+        "word": "郑书意时宴坦白局",
+        "onboard_time": 1700308230,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236625,
+        "num": 236625,
+        "word": "金韩彬iKON世纪同台",
+        "onboard_time": 1700307333,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230730,
+        "num": 230730,
+        "word": "星舰",
+        "onboard_time": 1700305772,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233922,
+        "num": 224136,
+        "word": "檀健次周也vlog比预告甜",
+        "onboard_time": 1700312911,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207121,
+        "num": 207121,
+        "word": "税务师法律",
+        "onboard_time": 1700308413,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202696,
+        "num": 202696,
+        "word": "一支9块9口红里的父爱",
+        "onboard_time": 1700308894,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172234,
+        "num": 172234,
+        "word": "一只被输错血的小猫",
+        "onboard_time": 1700293052,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170824,
+        "num": 170824,
+        "word": "曝彭冠英已进组补拍青簪行",
+        "onboard_time": 1700298153,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169442,
+        "num": 169442,
+        "word": "你好种地少年",
+        "onboard_time": 1700310455,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165447,
+        "num": 165447,
+        "word": "汶川地震微笑女孩结婚",
+        "onboard_time": 1700309854,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161856,
+        "num": 161856,
+        "word": "经常涂润唇膏会有副作用吗",
+        "onboard_time": 1700299534,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157147,
+        "num": 157147,
+        "word": "胡夏广州演唱会",
+        "onboard_time": 1700312853,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149867,
+        "num": 149867,
+        "word": "支原体肺炎还要把鼻炎治好",
+        "onboard_time": 1700301455,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148358,
+        "num": 148358,
+        "word": "蓝盈莹 浣碧回来了",
+        "onboard_time": 1700293892,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142203,
+        "num": 142203,
+        "word": "李现和张杰击掌",
+        "onboard_time": 1700303613,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139212,
+        "num": 139212,
+        "word": "坐地铁全程被小哥脚上东西吸引",
+        "onboard_time": 1700307213,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133477,
+        "num": 133477,
+        "word": "十个勤天出海打渔",
+        "onboard_time": 1700311294,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130646,
+        "num": 130646,
+        "word": "S13",
+        "onboard_time": 1700307814,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128374,
+        "num": 128374,
+        "word": "五月天上海演唱会",
+        "onboard_time": 1700304991,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127076,
+        "num": 127076,
+        "word": "张凌赫杭州",
+        "onboard_time": 1700306912,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127032,
+        "num": 127032,
+        "word": "羽生结弦 无法保护女方",
+        "onboard_time": 1700292935,
+        "rank": 42,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 121458,
+        "num": 121458,
+        "word": "孙子怀抱84岁奶奶帮其洗头",
+        "onboard_time": 1700303553,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121372,
+        "num": 121372,
+        "word": "PGC2023",
+        "onboard_time": 1700311955,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119969,
+        "num": 119969,
+        "word": "治愈系恋人大结局",
+        "onboard_time": 1700310692,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118829,
+        "num": 118829,
+        "word": "马斯克",
+        "onboard_time": 1700313515,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 117535,
+        "num": 117535,
+        "word": "天冷就得和朋友吃火爆大鱿鱼",
+        "onboard_time": 1700312552,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114671,
+        "num": 114671,
+        "word": "食冰癖在缺铁者中非常常见",
+        "onboard_time": 1700303794,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114523,
+        "num": 114523,
+        "word": "花亦山心之月",
+        "onboard_time": 1700310455,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回到北京#"
+    }
+  }
+}

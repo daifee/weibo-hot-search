@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700311607641,
+  "endTime": 1700313534963,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -721,6 +721,14 @@
       "onboard_time": 1700019812,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1523635,
+      "num": 393560,
+      "word": "SpaceX星舰第二次试飞",
+      "onboard_time": 1700308112,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1522872,
@@ -5539,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405824,
+      "num": 311339,
+      "word": "于适 伏特加",
+      "onboard_time": 1700310815,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405564,
       "num": 405564,
       "word": "这就是成年人的电视剧吗",
@@ -6043,14 +6059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377974,
-      "num": 377974,
-      "word": "SpaceX星舰第二次试飞",
-      "onboard_time": 1700308112,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377677,
       "num": 377677,
       "word": "绝迹",
@@ -6483,6 +6491,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 348422,
+      "num": 348422,
+      "word": "你好星期六下周有马丽赵露思",
+      "onboard_time": 1700313032,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347876,
       "num": 312848,
       "word": "刘亦菲新剧杀青给主创送LV",
@@ -6641,6 +6657,14 @@
       "onboard_time": 1699857872,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 339015,
+      "num": 339015,
+      "word": "为什么得甲状腺癌的年轻人越来越多了",
+      "onboard_time": 1700298273,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 337868,
@@ -6875,6 +6899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326371,
+      "num": 243222,
+      "word": "你女朋友不洗头啊",
+      "onboard_time": 1700308711,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326309,
       "num": 326309,
       "word": "刘德华巡演官宣",
@@ -6945,14 +6977,6 @@
       "onboard_time": 1700138557,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322424,
-      "num": 184010,
-      "word": "你女朋友不洗头啊",
-      "onboard_time": 1700308711,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 321516,
@@ -7323,14 +7347,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 305596,
-      "num": 245592,
-      "word": "为什么得甲状腺癌的年轻人越来越多了",
-      "onboard_time": 1700298273,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 305267,
       "num": 305267,
       "word": "任嘉伦田曦薇张凌赫窦骁何超莲合照",
@@ -7449,6 +7465,14 @@
       "onboard_time": 1699767809,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301747,
+      "num": 301747,
+      "word": "毕雯珺签售会亲自检票",
+      "onboard_time": 1700311955,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 301435,
@@ -8371,14 +8395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271115,
-      "num": 271115,
-      "word": "于适 伏特加",
-      "onboard_time": 1700310815,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271041,
       "num": 271041,
       "word": "龚俊 沪上小作精",
@@ -8875,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254745,
+      "num": 254745,
+      "word": "长时间冷冻的肉还能吃吗",
+      "onboard_time": 1700308894,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 254716,
       "num": 254716,
       "word": "丁程鑫给宋亚轩递伞",
@@ -8985,6 +9009,14 @@
       "onboard_time": 1699857985,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 251811,
+      "num": 251811,
+      "word": "张云雷演唱会",
+      "onboard_time": 1700311473,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 251578,
@@ -9587,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233922,
+      "num": 224136,
+      "word": "檀健次周也vlog比预告甜",
+      "onboard_time": 1700312911,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233892,
       "num": 233892,
       "word": "刘德华内地巡演",
@@ -9737,6 +9777,14 @@
       "onboard_time": 1700016090,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230730,
+      "num": 230730,
+      "word": "星舰",
+      "onboard_time": 1700305772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230696,
@@ -13315,14 +13363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174173,
-      "num": 174173,
-      "word": "张云雷演唱会",
-      "onboard_time": 1700311473,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 174087,
       "num": 174087,
       "word": "G2 宝想要TheShy",
@@ -13739,14 +13779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168266,
-      "num": 168266,
-      "word": "星舰",
-      "onboard_time": 1700305772,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168105,
       "num": 168105,
       "word": "你洗完头会用干发帽吗",
@@ -13905,6 +13937,14 @@
       "onboard_time": 1699756290,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165447,
+      "num": 165447,
+      "word": "汶川地震微笑女孩结婚",
+      "onboard_time": 1700309854,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165325,
@@ -14425,6 +14465,14 @@
       "onboard_time": 1700300974,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157147,
+      "num": 157147,
+      "word": "胡夏广州演唱会",
+      "onboard_time": 1700312853,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 157100,
@@ -15451,14 +15499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140491,
-      "num": 140491,
-      "word": "长时间冷冻的肉还能吃吗",
-      "onboard_time": 1700308894,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 140456,
       "num": 140456,
       "word": "野生大熊猫实时视频电话接通了",
@@ -15520,14 +15560,6 @@
       "word": "女子蓬莱海边游玩幸遇海滋奇观",
       "onboard_time": 1699749328,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139544,
-      "num": 139544,
-      "word": "汶川地震微笑女孩结婚",
-      "onboard_time": 1700309854,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -16771,6 +16803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121372,
+      "num": 121372,
+      "word": "PGC2023",
+      "onboard_time": 1700311955,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121342,
       "num": 121342,
       "word": "洗头发时常犯的9个错",
@@ -16971,6 +17011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118829,
+      "num": 118829,
+      "word": "马斯克",
+      "onboard_time": 1700313515,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 118754,
       "num": 118754,
       "word": "民警巡山一抬头惊呆了",
@@ -17057,6 +17105,14 @@
       "onboard_time": 1699759889,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 117535,
+      "num": 117535,
+      "word": "天冷就得和朋友吃火爆大鱿鱼",
+      "onboard_time": 1700312552,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 117499,
@@ -19155,6 +19211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24418,
+      "num": 401372,
+      "word": "中国一直是亚太合作重要的贡献者",
+      "onboard_time": 1700311714,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24104,
       "num": 254014,
       "word": "速度和激情都拿捏住了",
@@ -19429,6 +19493,9 @@
     },
     {
       "word": "#美国总统拜登与国家主席习近平话别#"
+    },
+    {
+      "word": "#习近平回到北京#"
     }
   ]
 }
