@@ -1,6 +1,6 @@
 {
   "startTime": 1699719641460,
-  "endTime": 1700320585213,
+  "endTime": 1700321648707,
   "band_list": [
     {
       "raw_hot": 17450913,
@@ -521,6 +521,14 @@
       "onboard_time": 1700059356,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1735556,
+      "num": 478499,
+      "word": "胡馨尹 费沁源",
+      "onboard_time": 1700320235,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1730492,
@@ -1107,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1206359,
+      "num": 651978,
+      "word": "秦岚声带受损其实自己很沮丧",
+      "onboard_time": 1700319096,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1195166,
       "num": 1195166,
       "word": "歌手2024 踢馆名单",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1699850016,
       "rank": 40,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1088002,
-      "num": 651978,
-      "word": "秦岚声带受损其实自己很沮丧",
-      "onboard_time": 1700319096,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1074505,
@@ -3211,6 +3219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 638145,
+      "num": 638145,
+      "word": "马斯克祝贺SpaceX公司团队",
+      "onboard_time": 1700319397,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637510,
       "num": 637510,
       "word": "四川一地规定不叠被子罚10元",
@@ -3907,14 +3923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 549757,
-      "num": 463616,
-      "word": "马斯克祝贺SpaceX公司团队",
-      "onboard_time": 1700319397,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 549531,
       "num": 399339,
       "word": "JDG发博告别S13",
@@ -4307,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503667,
+      "num": 381356,
+      "word": "女子花1.8万买衣服一年不发货不退款",
+      "onboard_time": 1700319457,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502919,
       "num": 388614,
       "word": "佘诗曼机场被叫女王大人",
@@ -4555,6 +4571,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 479182,
+      "num": 479182,
+      "word": "吴世勋说中文不烫嘴",
+      "onboard_time": 1700319274,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 478510,
       "num": 4478472,
       "word": "房东将父亲种的30斤菜分享给百名租客",
@@ -4615,6 +4639,14 @@
       "num": 428781,
       "word": "吴慷仁性张力",
       "onboard_time": 1699873113,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 476868,
+      "num": 476868,
+      "word": "张遮姜雪宁争执分手",
+      "onboard_time": 1700318915,
       "rank": 16,
       "category": "剧集"
     },
@@ -4963,14 +4995,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 451400,
-      "num": 381356,
-      "word": "女子花1.8万买衣服一年不发货不退款",
-      "onboard_time": 1700319457,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448971,
       "num": 448971,
       "word": "李现和张杰击掌",
@@ -5107,14 +5131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439734,
-      "num": 439734,
-      "word": "吴世勋说中文不烫嘴",
-      "onboard_time": 1700319274,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 439601,
       "num": 439601,
       "word": "Faker状态太好了",
@@ -5145,14 +5161,6 @@
       "onboard_time": 1699769190,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 436460,
-      "num": 436460,
-      "word": "张遮姜雪宁争执分手",
-      "onboard_time": 1700318915,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 435875,
@@ -5561,6 +5569,14 @@
       "onboard_time": 1700101176,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 411931,
+      "num": 411931,
+      "word": "宁安如梦编剧",
+      "onboard_time": 1700320655,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 411070,
@@ -6219,14 +6235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 377007,
-      "num": 377007,
-      "word": "胡馨尹 费沁源",
-      "onboard_time": 1700320235,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376504,
       "num": 376504,
       "word": "与恶魔有约 先婚后爱",
@@ -6241,6 +6249,14 @@
       "onboard_time": 1699785215,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375355,
+      "num": 375355,
+      "word": "王鹤棣看了不得高兴死",
+      "onboard_time": 1700320176,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 375143,
@@ -7076,7 +7092,7 @@
     },
     {
       "raw_hot": 326371,
-      "num": 249718,
+      "num": 270839,
       "word": "你女朋友不洗头啊",
       "onboard_time": 1700308711,
       "rank": 30,
@@ -7473,6 +7489,14 @@
       "onboard_time": 1699946013,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306757,
+      "num": 306757,
+      "word": "张艺兴演唱会每个座位都有伴手礼",
+      "onboard_time": 1700320298,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 306573,
@@ -8363,6 +8387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 278102,
+      "num": 278102,
+      "word": "皓衣行新图",
+      "onboard_time": 1700321136,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277873,
       "num": 277873,
       "word": "尚雯婕 我还以为你会说我像斯内普",
@@ -8832,6 +8864,14 @@
       "word": "难怪秦岚辛芷蕾能玩一起",
       "onboard_time": 1700098834,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260631,
+      "num": 260631,
+      "word": "郝蕾看完沈梦辰表演沉默了",
+      "onboard_time": 1700319337,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -9675,14 +9715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 238590,
-      "num": 238590,
-      "word": "郝蕾看完沈梦辰表演沉默了",
-      "onboard_time": 1700319337,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238431,
       "num": 238431,
       "word": "光遇 先祖",
@@ -10329,14 +10361,6 @@
       "onboard_time": 1699879170,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223863,
-      "num": 223863,
-      "word": "张艺兴演唱会每个座位都有伴手礼",
-      "onboard_time": 1700320298,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 223819,
@@ -11427,14 +11451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203948,
-      "num": 203948,
-      "word": "王鹤棣看了不得高兴死",
-      "onboard_time": 1700320176,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203651,
       "num": 203651,
       "word": "花儿与少年素人版",
@@ -11505,6 +11521,14 @@
       "onboard_time": 1700145414,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202346,
+      "num": 202346,
+      "word": "李现穿中山装唱歌",
+      "onboard_time": 1700321076,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202293,
@@ -12401,6 +12425,14 @@
       "onboard_time": 1700280508,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189819,
+      "num": 189819,
+      "word": "杨丞琳 带我走",
+      "onboard_time": 1700321375,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 189816,
@@ -13691,6 +13723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172952,
+      "num": 172952,
+      "word": "陈楚生又赢了苏醒",
+      "onboard_time": 1700321136,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172929,
       "num": 172929,
       "word": "用古早言情小说来打开宁安如梦",
@@ -14036,7 +14076,7 @@
     },
     {
       "raw_hot": 168382,
-      "num": 239471,
+      "num": 273434,
       "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
       "onboard_time": 1700317832,
       "rank": 44,
@@ -14201,6 +14241,14 @@
       "onboard_time": 1699876112,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165900,
+      "num": 165900,
+      "word": "王嘉尔杭州演唱会",
+      "onboard_time": 1700321495,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 165884,
@@ -16644,7 +16692,7 @@
     },
     {
       "raw_hot": 127802,
-      "num": 163794,
+      "num": 174069,
       "word": "萌兰打哈欠一张嘴血脉觉醒",
       "onboard_time": 1700317653,
       "rank": 47,
@@ -17305,6 +17353,14 @@
       "onboard_time": 1699950275,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119068,
+      "num": 146201,
+      "word": "AG战胜DRG",
+      "onboard_time": 1700321555,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 119066,
