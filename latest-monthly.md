@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 22:34:15
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/18 23:16:25
 </p>
 </blockquote>
 <p>
@@ -3159,6 +3159,12 @@ ELLE风尚大典（热度：1088644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%A3%B0%E5%B8%A6%E5%8F%97%E6%8D%9F%E5%85%B6%E5%AE%9E%E8%87%AA%E5%B7%B1%E5%BE%88%E6%B2%AE%E4%B8%A7%23" target="weibo">
+秦岚声带受损其实自己很沮丧（热度：1088002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E6%88%B4%E5%A2%A8%E9%95%9C%E5%95%8A%23" target="weibo">
 谁家接吻戴墨镜啊（热度：1083594）
 </a>
@@ -3377,6 +3383,12 @@ aespa回归（热度：1039919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%9B%B9%E6%9F%A5%E7%90%86%E5%B0%B1%E4%B8%BA%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%BA%86%E7%94%9F%E9%81%93%E6%AD%89%23" target="weibo">
 香港演员曹查理就为电诈头目庆生道歉（热度：1028099）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%9A%84%E8%88%8C%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%96%B7%E5%87%BA%E6%B0%B4%23" target="weibo">
+人的舌头为什么能喷出水（热度：1025926）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E8%A5%BF%E6%B0%B8%E8%81%9A%E7%85%A4%E4%B8%9A%E7%81%AB%E7%81%BE%23" target="weibo">
-官方通报山西永聚煤业火灾（热度：693454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E5%BC%80%E6%9C%BA%23" target="weibo">
-珠帘玉幕开机（热度：693088）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6377,6 +6377,12 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E5%88%B0%E5%8C%97%E4%BA%AC%23%23" target="weibo">
 #习近平回到北京#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%BB%A3%E8%A1%A8%E6%AC%A2%E9%80%81%E4%B9%A0%E4%B8%BB%E5%B8%AD%23%23" target="weibo">
+#华人华侨中国留学生代表欢送习主席#
 </a>
 </li>
 
