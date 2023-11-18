@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700346828485,
+  "endTime": 1700349423766,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335421,
+      "num": 335421,
+      "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+      "onboard_time": 1700317832,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 317136,
       "num": 317136,
       "word": "杨丞琳 带我走",
@@ -211,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202636,
+      "num": 202636,
+      "word": "胡夏请来了那些年一起追过的沈佳宜",
+      "onboard_time": 1700316995,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201904,
+      "num": 201904,
+      "word": "班上唯一认真听课的同学被抓走了",
+      "onboard_time": 1700345896,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200589,
       "num": 200589,
       "word": "郝蕾看完沈梦辰表演沉默了",
@@ -225,14 +249,6 @@
       "onboard_time": 1700314776,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184165,
-      "num": 184165,
-      "word": "胡夏请来了那些年一起追过的沈佳宜",
-      "onboard_time": 1700316995,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 179711,
@@ -307,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139856,
-      "num": 241118,
-      "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
-      "onboard_time": 1700317832,
-      "rank": 24,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 138482,
       "num": 208651,
       "word": "AG战胜DRG",
@@ -353,6 +361,14 @@
       "onboard_time": 1700305413,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 109969,
+      "num": 109969,
+      "word": "法国14比0直布罗陀",
+      "onboard_time": 1700348899,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 105282,
@@ -435,12 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28790,
-      "num": 47581,
-      "word": "班上唯一认真听课的同学被抓走了",
-      "onboard_time": 1700345896,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 29942,
+      "num": 53767,
+      "word": "千万不要在顶光下自拍",
+      "onboard_time": 1700338394,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 29026,
+      "num": 53761,
+      "word": "奔跑吧",
+      "onboard_time": 1700310391,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 21293,
@@ -457,22 +481,6 @@
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18416,
-      "num": 47567,
-      "word": "奔跑吧",
-      "onboard_time": 1700310391,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15117,
-      "num": 47565,
-      "word": "千万不要在顶光下自拍",
-      "onboard_time": 1700338394,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 7075,
