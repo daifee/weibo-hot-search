@@ -1,0 +1,410 @@
+{
+  "runTime": 1700271336743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 373389,
+        "num": 604950,
+        "word": "2023APEC",
+        "onboard_time": 1700263642,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326846,
+        "num": 326846,
+        "word": "大姐爬完香山献血地铁虚脱警民齐相助",
+        "onboard_time": 1700229813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25021,
+        "num": 323165,
+        "word": "亚太合作新的时代之问",
+        "onboard_time": 1700254874,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1609882,
+        "num": 319995,
+        "word": "家属称老人已去世民警多看一眼救回",
+        "onboard_time": 1700265026,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837344,
+        "num": 316465,
+        "word": "女子体验网红千层漏摔成九级伤残",
+        "onboard_time": 1700268153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609758,
+        "num": 314242,
+        "word": "全红婵代言的女装品牌被吐槽丑",
+        "onboard_time": 1700263945,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386509,
+        "num": 310683,
+        "word": "同宿舍6女生拒绝内卷全员保研",
+        "onboard_time": 1700264906,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308375,
+        "num": 308375,
+        "word": "拜登发言时看布林肯眼色",
+        "onboard_time": 1700263102,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 296791,
+        "num": 296791,
+        "word": "敷完面膜该不该洗脸",
+        "onboard_time": 1700266409,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 267338,
+        "num": 267338,
+        "word": "ChatGPT创始人奥特曼离开OpenAI",
+        "onboard_time": 1700265026,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1648962,
+        "num": 267169,
+        "word": "羽生结弦离婚原因",
+        "onboard_time": 1700234564,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 945147,
+        "num": 263762,
+        "word": "救活烂尾楼的人被抓了",
+        "onboard_time": 1700264483,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560916,
+        "num": 261311,
+        "word": "东莞在校自杀教师生前疑与人发生过争执",
+        "onboard_time": 1700264245,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 480419,
+        "num": 258937,
+        "word": "薛之谦儿子透风又暖心",
+        "onboard_time": 1700267972,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353931,
+        "num": 258216,
+        "word": "男子被撞倒后遭多次碾压身亡",
+        "onboard_time": 1700263281,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256505,
+        "num": 256505,
+        "word": "佘诗曼 给内娱一些女王震撼",
+        "onboard_time": 1700239647,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248960,
+        "num": 248960,
+        "word": "谢危觉得双死才是he",
+        "onboard_time": 1700267070,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243945,
+        "num": 243945,
+        "word": "姆巴佩说金球奖是梅西应得的",
+        "onboard_time": 1700268993,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235404,
+        "num": 235404,
+        "word": "五月天演唱会 粉丝整活",
+        "onboard_time": 1700270552,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220284,
+        "num": 220284,
+        "word": "全职太太建议别做全职太太",
+        "onboard_time": 1700236176,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233281,
+        "num": 210274,
+        "word": "刘亦菲回应男粉表白",
+        "onboard_time": 1700269771,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199633,
+        "num": 199633,
+        "word": "妈妈经常私拆快递26岁女儿崩溃",
+        "onboard_time": 1700228196,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195232,
+        "num": 195232,
+        "word": "ChatGPT创始人奥特曼回应被解职",
+        "onboard_time": 1700269292,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191228,
+        "num": 191228,
+        "word": "五月天嘉宾 14号观众",
+        "onboard_time": 1700262019,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183622,
+        "num": 183622,
+        "word": "羽生结弦结婚时间",
+        "onboard_time": 1700235521,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 210430,
+        "num": 183622,
+        "word": "刘亦菲看到胡军的表情",
+        "onboard_time": 1700246596,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 179042,
+        "num": 179042,
+        "word": "裴珠泫烟熏妆",
+        "onboard_time": 1700270670,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 164894,
+        "num": 164894,
+        "word": "短时间内震惊我两次",
+        "onboard_time": 1700267851,
+        "rank": 27,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 277602,
+        "num": 164246,
+        "word": "徐冬冬直接一句话击毙直男说教",
+        "onboard_time": 1700269711,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159920,
+        "num": 159920,
+        "word": "奚梦瑶教何猷君人情世故",
+        "onboard_time": 1700233415,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179145,
+        "num": 157712,
+        "word": "40只QQ在舟山异地登陆",
+        "onboard_time": 1700269412,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154221,
+        "num": 154221,
+        "word": "坚持相互尊重和平共处合作共赢",
+        "onboard_time": 1700271092,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151779,
+        "num": 151779,
+        "word": "90后爸爸割肝救子19个月宝宝获新生",
+        "onboard_time": 1700270012,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149619,
+        "num": 149619,
+        "word": "1000多年前韩愈自创的万能海鲜蘸汁",
+        "onboard_time": 1700266708,
+        "rank": 33,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 149545,
+        "num": 149545,
+        "word": "昆明站大批警员押解缅北电诈嫌疑人",
+        "onboard_time": 1700269891,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125498,
+        "num": 125498,
+        "word": "为救一只猫30人建了一个群",
+        "onboard_time": 1700266708,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125095,
+        "num": 125095,
+        "word": "比尔又伤了",
+        "onboard_time": 1700269171,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124648,
+        "num": 124648,
+        "word": "offer5玻璃门要不要擦这么干净",
+        "onboard_time": 1700263463,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121081,
+        "num": 121081,
+        "word": "浙江一家4人查出同种癌最小才16岁",
+        "onboard_time": 1700225614,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "动物园里多了一只冻脚的傻鸟",
+        "onboard_time": 1700262802,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118268,
+        "num": 118268,
+        "word": "4名缅北电诈头目为何2人户籍地在云南",
+        "onboard_time": 1700228677,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116394,
+        "num": 116394,
+        "word": "张杰汗流浃背了吧",
+        "onboard_time": 1700264546,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114482,
+        "num": 114482,
+        "word": "舒淇祖母绿眼妆",
+        "onboard_time": 1700226513,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 108269,
+        "num": 108269,
+        "word": "故意猜低工资结果比猜的还少",
+        "onboard_time": 1700236176,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106837,
+        "num": 106837,
+        "word": "一到冬天为什么中西医都建议吃羊肉",
+        "onboard_time": 1700236414,
+        "rank": 44,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 106823,
+        "num": 106823,
+        "word": "马国明新闻女王吻戏",
+        "onboard_time": 1700271150,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103315,
+        "num": 103315,
+        "word": "宗师列传唐宋八大家",
+        "onboard_time": 1700270311,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100202,
+        "num": 100202,
+        "word": "物理老师用专业知识砸开车窗救人",
+        "onboard_time": 1700270971,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 98129,
+        "num": 98129,
+        "word": "税务师考试",
+        "onboard_time": 1700270552,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94767,
+        "num": 94767,
+        "word": "王栎鑫 谁比谁差",
+        "onboard_time": 1700255533,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全球可持续发展事业注入更大动力#"
+    }
+  }
+}
