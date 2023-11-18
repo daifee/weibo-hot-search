@@ -1,0 +1,410 @@
+{
+  "runTime": 1700316876072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 461225,
+        "num": 751785,
+        "word": "原来普通话是河北方言",
+        "onboard_time": 1700307154,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 362978,
+        "num": 550033,
+        "word": "为什么得甲状腺癌的年轻人越来越多了",
+        "onboard_time": 1700298273,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28908,
+        "num": 523938,
+        "word": "中国一直是亚太合作重要的贡献者",
+        "onboard_time": 1700311714,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3207017,
+        "num": 520683,
+        "word": "马斯克SpaceX星舰发射失败",
+        "onboard_time": 1700314776,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507218,
+        "num": 507218,
+        "word": "金子涵 断层第一退团",
+        "onboard_time": 1700295753,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392223,
+        "num": 392223,
+        "word": "鲁迅孙子自称90%刷视频10%看书",
+        "onboard_time": 1700309372,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369617,
+        "num": 369617,
+        "word": "你好星期六下周有马丽赵露思",
+        "onboard_time": 1700313032,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353742,
+        "num": 353742,
+        "word": "老干妈被年轻人抛弃了吗",
+        "onboard_time": 1700307154,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327896,
+        "num": 327896,
+        "word": "奔跑吧",
+        "onboard_time": 1700310391,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254051,
+        "num": 254051,
+        "word": "长时间冷冻的肉还能吃吗",
+        "onboard_time": 1700308894,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1780353,
+        "num": 252262,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1473564,
+        "num": 247439,
+        "word": "SpaceX与星舰助推器失去联系",
+        "onboard_time": 1700314655,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522310,
+        "num": 244916,
+        "word": "费沁源自曝在青春有你时被霸凌",
+        "onboard_time": 1700306432,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503646,
+        "num": 237801,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448148,
+        "num": 234611,
+        "word": "SpaceX星舰第二次试飞",
+        "onboard_time": 1700308112,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261104,
+        "num": 231106,
+        "word": "于适 伏特加",
+        "onboard_time": 1700310815,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227575,
+        "num": 227575,
+        "word": "郑书意时宴坦白局",
+        "onboard_time": 1700308230,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413177,
+        "num": 227525,
+        "word": "SpaceX称被迫触发星舰的自毁功能",
+        "onboard_time": 1700316275,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227288,
+        "num": 227288,
+        "word": "黄子韬演唱会",
+        "onboard_time": 1700298394,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226338,
+        "num": 226338,
+        "word": "贵州菜市场5元自助糯米饭",
+        "onboard_time": 1700315498,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454503,
+        "num": 222141,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340144,
+        "num": 220823,
+        "word": "马斯克",
+        "onboard_time": 1700313515,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 334618,
+        "num": 211028,
+        "word": "陈楚生霸榜",
+        "onboard_time": 1700314474,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239189,
+        "num": 210469,
+        "word": "你女朋友不洗头啊",
+        "onboard_time": 1700308711,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246645,
+        "num": 205136,
+        "word": "星舰 热分离",
+        "onboard_time": 1700314835,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200789,
+        "num": 200789,
+        "word": "林俊杰演唱会开到了hi6",
+        "onboard_time": 1700316692,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194914,
+        "num": 194914,
+        "word": "LGD对战DYG",
+        "onboard_time": 1700315974,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194438,
+        "num": 194438,
+        "word": "张碧晨演唱会",
+        "onboard_time": 1700315912,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193776,
+        "num": 193776,
+        "word": "太原",
+        "onboard_time": 1700306075,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156976,
+        "num": 170930,
+        "word": "想借一个充电宝却收到100元",
+        "onboard_time": 1700315854,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441390,
+        "num": 170222,
+        "word": "人的舌头为什么能喷出水",
+        "onboard_time": 1700316394,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169238,
+        "num": 169238,
+        "word": "以色列称将攻打加沙全境",
+        "onboard_time": 1700305413,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169196,
+        "num": 169196,
+        "word": "经常涂润唇膏会有副作用吗",
+        "onboard_time": 1700299534,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163998,
+        "num": 163998,
+        "word": "张云雷演唱会",
+        "onboard_time": 1700311473,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163628,
+        "num": 163628,
+        "word": "毕雯珺签售会亲自检票",
+        "onboard_time": 1700311955,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161452,
+        "num": 161452,
+        "word": "檀健次周也vlog比预告甜",
+        "onboard_time": 1700312911,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159556,
+        "num": 159556,
+        "word": "金韩彬iKON世纪同台",
+        "onboard_time": 1700307333,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142781,
+        "num": 142781,
+        "word": "汶川地震微笑女孩结婚",
+        "onboard_time": 1700309854,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137071,
+        "num": 137071,
+        "word": "八三夭北京演唱会",
+        "onboard_time": 1700313933,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136021,
+        "num": 136021,
+        "word": "于适烟花下的迪士尼王子",
+        "onboard_time": 1700309854,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132499,
+        "num": 132499,
+        "word": "支原体肺炎还要把鼻炎治好",
+        "onboard_time": 1700301455,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127309,
+        "num": 132498,
+        "word": "五月天上海演唱会",
+        "onboard_time": 1700304991,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125226,
+        "num": 132497,
+        "word": "星舰",
+        "onboard_time": 1700305772,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120646,
+        "num": 132496,
+        "word": "S13",
+        "onboard_time": 1700307814,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119047,
+        "num": 132495,
+        "word": "张艺兴成都演唱会",
+        "onboard_time": 1700305653,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117182,
+        "num": 132495,
+        "word": "李现和张杰击掌",
+        "onboard_time": 1700303613,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115525,
+        "num": 132492,
+        "word": "曝彭冠英已进组补拍青簪行",
+        "onboard_time": 1700298153,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113189,
+        "num": 132491,
+        "word": "一只被输错血的小猫",
+        "onboard_time": 1700293052,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112077,
+        "num": 132491,
+        "word": "站立薄背训练",
+        "onboard_time": 1700315257,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 106851,
+        "num": 132489,
+        "word": "你好种地少年",
+        "onboard_time": 1700310455,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回到北京#"
+    }
+  }
+}

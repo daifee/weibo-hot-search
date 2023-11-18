@@ -1,7 +1,15 @@
 {
   "startTime": 1700238359960,
-  "endTime": 1700314454499,
+  "endTime": 1700316876072,
   "band_list": [
+    {
+      "raw_hot": 3207017,
+      "num": 520683,
+      "word": "马斯克SpaceX星舰发射失败",
+      "onboard_time": 1700314776,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2845719,
       "num": 290763,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1780353,
+      "num": 387552,
+      "word": "杨紫 泰国",
+      "onboard_time": 1700313814,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1753016,
       "num": 467853,
       "word": "哥哥去世1年11岁妹妹也患同样病",
@@ -64,6 +80,14 @@
       "word": "家属称老人已去世民警多看一眼救回",
       "onboard_time": 1700265026,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1473564,
+      "num": 247439,
+      "word": "SpaceX与星舰助推器失去联系",
+      "onboard_time": 1700314655,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -169,14 +193,6 @@
       "onboard_time": 1700274148,
       "rank": 16,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 812749,
-      "num": 387552,
-      "word": "杨紫 泰国",
-      "onboard_time": 1700313814,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 794535,
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461225,
+      "num": 751785,
+      "word": "原来普通话是河北方言",
+      "onboard_time": 1700307154,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 448971,
       "num": 448971,
       "word": "李现和张杰击掌",
@@ -537,6 +561,14 @@
       "onboard_time": 1700235341,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 441390,
+      "num": 170222,
+      "word": "人的舌头为什么能喷出水",
+      "onboard_time": 1700316394,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 431763,
@@ -603,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 417637,
-      "num": 417637,
-      "word": "原来普通话是河北方言",
-      "onboard_time": 1700307154,
-      "rank": 14,
-      "category": "科学科普"
+      "raw_hot": 413177,
+      "num": 227525,
+      "word": "SpaceX称被迫触发星舰的自毁功能",
+      "onboard_time": 1700316275,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406839,
@@ -771,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362978,
+      "num": 550033,
+      "word": "为什么得甲状腺癌的年轻人越来越多了",
+      "onboard_time": 1700298273,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 361960,
       "num": 301306,
       "word": "于适烟花下的迪士尼王子",
@@ -827,20 +867,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 339015,
-      "num": 339015,
-      "word": "为什么得甲状腺癌的年轻人越来越多了",
-      "onboard_time": 1700298273,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 337154,
       "num": 337154,
       "word": "睡前涂唇膏效果更佳",
       "onboard_time": 1700277209,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 334618,
+      "num": 211028,
+      "word": "陈楚生霸榜",
+      "onboard_time": 1700314474,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 332364,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246645,
+      "num": 205136,
+      "word": "星舰 热分离",
+      "onboard_time": 1700314835,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245353,
       "num": 245353,
       "word": "刘亦菲看到胡军的表情",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1700236176,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226338,
+      "num": 226338,
+      "word": "贵州菜市场5元自助糯米饭",
+      "onboard_time": 1700315498,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 226151,
@@ -1491,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200789,
+      "num": 200789,
+      "word": "林俊杰演唱会开到了hi6",
+      "onboard_time": 1700316692,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200358,
       "num": 200358,
       "word": "养肝就是养命",
@@ -1539,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194914,
+      "num": 194914,
+      "word": "LGD对战DYG",
+      "onboard_time": 1700315974,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194754,
       "num": 268810,
       "word": "aespa出道前的艺名候补",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1700300374,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194438,
+      "num": 194438,
+      "word": "张碧晨演唱会",
+      "onboard_time": 1700315912,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 194195,
@@ -1897,6 +1977,14 @@
       "onboard_time": 1700312853,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156976,
+      "num": 170930,
+      "word": "想借一个充电宝却收到100元",
+      "onboard_time": 1700315854,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156886,
@@ -2443,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112077,
+      "num": 132491,
+      "word": "站立薄背训练",
+      "onboard_time": 1700315257,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 112030,
       "num": 112030,
       "word": "一个练习锻炼肺功能",
@@ -2923,18 +3019,18 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28609,
-      "num": 756517,
-      "word": "跨越大洋的相聚",
-      "onboard_time": 1700253914,
+      "raw_hot": 28908,
+      "num": 523938,
+      "word": "中国一直是亚太合作重要的贡献者",
+      "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 25618,
-      "num": 401372,
-      "word": "中国一直是亚太合作重要的贡献者",
-      "onboard_time": 1700311714,
+      "raw_hot": 28609,
+      "num": 756517,
+      "word": "跨越大洋的相聚",
+      "onboard_time": 1700253914,
       "rank": 2,
       "category": "国内时政"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700314454499,
+  "endTime": 1700316876072,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -401,6 +401,14 @@
       "onboard_time": 1698839973,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3207017,
+      "num": 520683,
+      "word": "马斯克SpaceX星舰发射失败",
+      "onboard_time": 1700314776,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3102581,
@@ -1675,6 +1683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1780353,
+      "num": 387552,
+      "word": "杨紫 泰国",
+      "onboard_time": 1700313814,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1775198,
       "num": 930752,
       "word": "黄海波放下了吗",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1699111959,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1473564,
+      "num": 247439,
+      "word": "SpaceX与星舰助推器失去联系",
+      "onboard_time": 1700314655,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1473530,
@@ -6145,14 +6169,6 @@
       "onboard_time": 1698845556,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 812749,
-      "num": 387552,
-      "word": "杨紫 泰国",
-      "onboard_time": 1700313814,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 812558,
@@ -13059,6 +13075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 461225,
+      "num": 751785,
+      "word": "原来普通话是河北方言",
+      "onboard_time": 1700307154,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 461114,
       "num": 461114,
       "word": "杨幂式保暖穿搭",
@@ -13625,6 +13649,14 @@
       "onboard_time": 1699757852,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441390,
+      "num": 170222,
+      "word": "人的舌头为什么能喷出水",
+      "onboard_time": 1700316394,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 441055,
@@ -14571,14 +14603,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 417637,
-      "num": 417637,
-      "word": "原来普通话是河北方言",
-      "onboard_time": 1700307154,
-      "rank": 14,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 417627,
       "num": 417627,
       "word": "涉事高校称不存在助学金名额挤占",
@@ -14760,6 +14784,14 @@
       "word": "中山二院称近年有3人患癌",
       "onboard_time": 1699401212,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413177,
+      "num": 227525,
+      "word": "SpaceX称被迫触发星舰的自毁功能",
+      "onboard_time": 1700316275,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -17163,6 +17195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362978,
+      "num": 550033,
+      "word": "为什么得甲状腺癌的年轻人越来越多了",
+      "onboard_time": 1700298273,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 362786,
       "num": 249589,
       "word": "肖战深V内搭",
@@ -18331,14 +18371,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 339015,
-      "num": 339015,
-      "word": "为什么得甲状腺癌的年轻人越来越多了",
-      "onboard_time": 1700298273,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 338988,
       "num": 338988,
       "word": "以爱为营 PPT转场",
@@ -18496,6 +18528,14 @@
       "word": "这就是街舞6定档",
       "onboard_time": 1698807990,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334618,
+      "num": 211028,
+      "word": "陈楚生霸榜",
+      "onboard_time": 1700314474,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -24763,6 +24803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246645,
+      "num": 205136,
+      "word": "星舰 热分离",
+      "onboard_time": 1700314835,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246546,
       "num": 246546,
       "word": "张钧甯说阮经天超时从不收钱",
@@ -26921,6 +26969,14 @@
       "onboard_time": 1699500212,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226338,
+      "num": 226338,
+      "word": "贵州菜市场5元自助糯米饭",
+      "onboard_time": 1700315498,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 226192,
@@ -30563,6 +30619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200789,
+      "num": 200789,
+      "word": "林俊杰演唱会开到了hi6",
+      "onboard_time": 1700316692,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200681,
       "num": 200681,
       "word": "涉贩卖出生证医院妇产科已停业整顿",
@@ -31699,6 +31763,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 194914,
+      "num": 194914,
+      "word": "LGD对战DYG",
+      "onboard_time": 1700315974,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194898,
       "num": 194898,
       "word": "马国明人形立牌被玩坏了",
@@ -31785,6 +31857,14 @@
       "onboard_time": 1699164572,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194438,
+      "num": 194438,
+      "word": "张碧晨演唱会",
+      "onboard_time": 1700315912,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 194414,
@@ -38008,6 +38088,14 @@
       "word": "第六届进博会亮点抢先看",
       "onboard_time": 1698993031,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156976,
+      "num": 170930,
+      "word": "想借一个充电宝却收到100元",
+      "onboard_time": 1700315854,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -45211,6 +45299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112077,
+      "num": 132491,
+      "word": "站立薄背训练",
+      "onboard_time": 1700315257,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 112030,
       "num": 112030,
       "word": "一个练习锻炼肺功能",
@@ -49755,6 +49851,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 28908,
+      "num": 523938,
+      "word": "中国一直是亚太合作重要的贡献者",
+      "onboard_time": 1700311714,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28831,
       "num": 177825,
       "word": "文物里的长江",
@@ -49849,14 +49953,6 @@
       "onboard_time": 1699899018,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25618,
-      "num": 401372,
-      "word": "中国一直是亚太合作重要的贡献者",
-      "onboard_time": 1700311714,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25021,
