@@ -1,0 +1,410 @@
+{
+  "runTime": 1700291720241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 259130,
+        "num": 676524,
+        "word": "APEC第30次领导人非正式会议闭幕",
+        "onboard_time": 1700287050,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1429716,
+        "num": 676220,
+        "word": "霸王茶姬 免单",
+        "onboard_time": 1700280029,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 5735,
+        "num": 653361,
+        "word": "跨越大洋的相聚",
+        "onboard_time": 1700253914,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 966270,
+        "num": 638710,
+        "word": "同一天领证我还没办仪式他都离了",
+        "onboard_time": 1700276370,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 773267,
+        "num": 618515,
+        "word": "现在的演唱会已经进化这样了",
+        "onboard_time": 1700286754,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 608243,
+        "num": 608243,
+        "word": "全红婵给黄子韬演唱会送花篮",
+        "onboard_time": 1700290953,
+        "rank": 5,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 474281,
+        "num": 474281,
+        "word": "被缅北电诈骗去的钱能要回来吗",
+        "onboard_time": 1700286450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460343,
+        "num": 460343,
+        "word": "户口本并不是全国统一的",
+        "onboard_time": 1700283268,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 408400,
+        "num": 408400,
+        "word": "哈登绝杀",
+        "onboard_time": 1700288370,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252311,
+        "num": 365481,
+        "word": "林高远王艺迪 选拔赛",
+        "onboard_time": 1700291071,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 794535,
+        "num": 357606,
+        "word": "时代少年团 灯牌",
+        "onboard_time": 1700290652,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 528461,
+        "num": 354864,
+        "word": "律师回应18岁父亲有个4岁儿子",
+        "onboard_time": 1700283151,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345077,
+        "num": 345077,
+        "word": "马嘉祺白发挑染",
+        "onboard_time": 1700289992,
+        "rank": 12,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 263206,
+        "num": 263206,
+        "word": "鹿晗给黄子韬送花篮",
+        "onboard_time": 1700286030,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253590,
+        "num": 253590,
+        "word": "谢娜回应怀孕乌龙",
+        "onboard_time": 1700286094,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719686,
+        "num": 253458,
+        "word": "时代少年团 妆造",
+        "onboard_time": 1700288792,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252758,
+        "num": 252758,
+        "word": "家属称老人已去世民警多看一眼救回",
+        "onboard_time": 1700265026,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210658,
+        "num": 210658,
+        "word": "iG获得最帅冠军皮肤奖",
+        "onboard_time": 1700285669,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191338,
+        "num": 208940,
+        "word": "税务师 算不清根本算不清",
+        "onboard_time": 1700280211,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207875,
+        "num": 207875,
+        "word": "谢娜说何炅闻不得香菜",
+        "onboard_time": 1700291255,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1357819,
+        "num": 205108,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198469,
+        "num": 198469,
+        "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
+        "onboard_time": 1700274389,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190052,
+        "num": 190052,
+        "word": "郝蕾犀利点评沈梦辰表演",
+        "onboard_time": 1700290109,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183237,
+        "num": 183237,
+        "word": "甄嬛传主创重聚",
+        "onboard_time": 1700284411,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182390,
+        "num": 182390,
+        "word": "华晨宇广州抢票",
+        "onboard_time": 1700288851,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178632,
+        "num": 178632,
+        "word": "杜兰特 死神降临",
+        "onboard_time": 1700287590,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174020,
+        "num": 174020,
+        "word": "女子梦见老公出轨调查发现竟是真的",
+        "onboard_time": 1700276251,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169599,
+        "num": 169599,
+        "word": "快乐老友记",
+        "onboard_time": 1700285428,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138347,
+        "num": 138347,
+        "word": "辛芷蕾 怒海绝对是难得一见的好作品",
+        "onboard_time": 1700286990,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132872,
+        "num": 132872,
+        "word": "日机构统计羽生结弦年收入至少4400万",
+        "onboard_time": 1700274148,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 258830,
+        "num": 131159,
+        "word": "奥运冠军管晨辰再回应变胖",
+        "onboard_time": 1700290712,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 130257,
+        "word": "穿衣服和搭衣服的区别",
+        "onboard_time": 1700289332,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128739,
+        "num": 128739,
+        "word": "用脚比中指challenge",
+        "onboard_time": 1700278112,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128136,
+        "num": 128136,
+        "word": "刘亦菲张靓颖贴贴",
+        "onboard_time": 1700283689,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "王昭君永恒水手月亮皮肤",
+        "onboard_time": 1700290411,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122111,
+        "num": 122111,
+        "word": "Wendy给出道三周年的aespa送蛋糕",
+        "onboard_time": 1700287650,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119211,
+        "num": 119211,
+        "word": "为什么过量摄入甜食会影响视力",
+        "onboard_time": 1700290652,
+        "rank": 36,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 118883,
+        "num": 118883,
+        "word": "只有徐冬冬被郝蕾夸了",
+        "onboard_time": 1700291195,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115572,
+        "num": 115572,
+        "word": "eStarPro对战RW",
+        "onboard_time": 1700290770,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113475,
+        "num": 113475,
+        "word": "快船赢了",
+        "onboard_time": 1700288370,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109283,
+        "num": 109283,
+        "word": "据说这个烟花一发50万",
+        "onboard_time": 1700284471,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106483,
+        "num": 106483,
+        "word": "威少险些隔扣狄龙",
+        "onboard_time": 1700291432,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104151,
+        "num": 104151,
+        "word": "哈登证明自己",
+        "onboard_time": 1700289689,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102790,
+        "num": 102790,
+        "word": "回来吧我的虎大将军",
+        "onboard_time": 1700280211,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102262,
+        "num": 102262,
+        "word": "林俊杰铁刘海",
+        "onboard_time": 1700283028,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95435,
+        "num": 95435,
+        "word": "细软塌秒变发量王者",
+        "onboard_time": 1700288851,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 93104,
+        "num": 93104,
+        "word": "为什么会有基因突变这种事情",
+        "onboard_time": 1700286871,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91269,
+        "num": 91269,
+        "word": "张遮动心了",
+        "onboard_time": 1700283451,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86396,
+        "num": 86396,
+        "word": "李雪琴 恋爱还是会选相处舒服的人",
+        "onboard_time": 1700291672,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86044,
+        "num": 86044,
+        "word": "于适给刘亦菲让路失败又带错路",
+        "onboard_time": 1700275287,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金30年#"
+    }
+  }
+}
