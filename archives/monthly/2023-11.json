@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700282132318,
+  "endTime": 1700284563424,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -10667,6 +10667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537768,
+      "num": 537768,
+      "word": "王栎鑫 打呼止鼾器",
+      "onboard_time": 1700282309,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537765,
       "num": 537765,
       "word": "上限冠军下限亚军",
@@ -11561,6 +11569,14 @@
       "onboard_time": 1698810696,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 500487,
+      "num": 500487,
+      "word": "新闻女王 没一个好惹",
+      "onboard_time": 1700280931,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 499819,
@@ -15793,6 +15809,14 @@
       "onboard_time": 1699049596,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383356,
+      "num": 150810,
+      "word": "户口本并不是全国统一的",
+      "onboard_time": 1700283268,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 383312,
@@ -20875,6 +20899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 284807,
+      "num": 284807,
+      "word": "律师回应18岁父亲有个4岁儿子",
+      "onboard_time": 1700283151,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284737,
       "num": 284737,
       "word": "邹市明说结婚后变得更会省钱了",
@@ -20953,6 +20985,14 @@
       "onboard_time": 1699177833,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283755,
+      "num": 283755,
+      "word": "林俊杰铁刘海",
+      "onboard_time": 1700283028,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 283612,
@@ -23435,14 +23475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 252931,
-      "num": 319358,
-      "word": "新闻女王 没一个好惹",
-      "onboard_time": 1700280931,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252847,
       "num": 252847,
       "word": "养成无意识减肥行为",
@@ -23963,6 +23995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247497,
+      "num": 247497,
+      "word": "马斯克被批支持反犹主义主张",
+      "onboard_time": 1700281892,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 247469,
       "num": 247469,
       "word": "菜还没上筷子先花了两元",
@@ -24353,6 +24393,14 @@
       "onboard_time": 1699257934,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 244390,
+      "num": 244390,
+      "word": "刘亦菲张靓颖贴贴",
+      "onboard_time": 1700283689,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 244281,
@@ -27915,6 +27963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211722,
+      "num": 211722,
+      "word": "快船 失误",
+      "onboard_time": 1700281832,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211632,
       "num": 211632,
       "word": "景甜演飒女没有婴儿肥了",
@@ -28569,6 +28625,14 @@
       "onboard_time": 1698843755,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207519,
+      "num": 200222,
+      "word": "宋轶逛吃库存",
+      "onboard_time": 1700282851,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207492,
@@ -29801,6 +29865,14 @@
       "onboard_time": 1699312825,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200041,
+      "num": 200041,
+      "word": "张遮动心了",
+      "onboard_time": 1700283451,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 200037,
@@ -33425,14 +33497,6 @@
       "onboard_time": 1700031453,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179928,
-      "num": 148479,
-      "word": "快船 失误",
-      "onboard_time": 1700281832,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 179927,
@@ -37851,6 +37915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151375,
+      "num": 151375,
+      "word": "张元英腮红打法",
+      "onboard_time": 1700281710,
+      "rank": 29,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 151326,
       "num": 151326,
       "word": "ABC男友听到女友要睡沙发急得语无伦次",
@@ -38305,14 +38377,6 @@
       "onboard_time": 1699579413,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148631,
-      "num": 148631,
-      "word": "张元英腮红打法",
-      "onboard_time": 1700281710,
-      "rank": 29,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 148629,
@@ -39033,6 +39097,14 @@
       "onboard_time": 1699519113,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144385,
+      "num": 144385,
+      "word": "据说这个烟花一发50万",
+      "onboard_time": 1700284471,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 144363,
@@ -40153,6 +40225,14 @@
       "onboard_time": 1699092749,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137188,
+      "num": 137188,
+      "word": "妈妈攒2年猫毛亲手为猫咪做小被子",
+      "onboard_time": 1700283989,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 136955,
@@ -42467,6 +42547,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 123287,
+      "num": 123287,
+      "word": "冰雨火登顶卫视收视榜",
+      "onboard_time": 1700281950,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123261,
       "num": 123261,
       "word": "巴菲特第三季度巨亏近1000亿",
@@ -43499,6 +43587,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 116309,
+      "num": 116309,
+      "word": "甄嬛传主创重聚",
+      "onboard_time": 1700284411,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116286,
       "num": 247275,
       "word": "全班同学为即将休产假老师准备惊喜",
@@ -43689,6 +43785,14 @@
       "onboard_time": 1699684109,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115171,
+      "num": 115171,
+      "word": "昆明人养肝有一套的",
+      "onboard_time": 1700283210,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115091,
@@ -44515,20 +44619,20 @@
       "category": "艺人,运动健身"
     },
     {
+      "raw_hot": 107268,
+      "num": 107268,
+      "word": "日本赛雅思组合进决赛",
+      "onboard_time": 1700283632,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107260,
       "num": 107260,
       "word": "出现这些症状要警惕前列腺增生",
       "onboard_time": 1699675770,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107103,
-      "num": 107103,
-      "word": "马斯克被批支持反犹主义主张",
-      "onboard_time": 1700281892,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 107043,
@@ -44995,14 +45099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101624,
-      "num": 101624,
-      "word": "冰雨火登顶卫视收视榜",
-      "onboard_time": 1700281950,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101612,
       "num": 101612,
       "word": "一上班就高血压",
@@ -45329,6 +45425,14 @@
       "onboard_time": 1699443212,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98142,
+      "num": 98142,
+      "word": "坐高铁一天4城4碗粉",
+      "onboard_time": 1700282970,
+      "rank": 49,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 97879,
@@ -48193,6 +48297,14 @@
       "onboard_time": 1699183536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34285,
+      "num": 258382,
+      "word": "什么人适合买混动",
+      "onboard_time": 1700283632,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 34087,
