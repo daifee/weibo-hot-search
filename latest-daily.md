@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/18 00:25:59 ~ 2023/11/18 13:16:03
+本榜单时间：2023/11/18 00:25:59 ~ 2023/11/18 13:34:04
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@ OpenAI人事巨震（热度：418257）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%23" target="weibo">
+户口本并不是全国统一的（热度：403806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B2%B8%E7%94%B0%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E5%81%9C%E6%AD%A2%E4%BB%8E%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E6%8E%AA%E6%96%BD%23" target="weibo">
 外交部回应岸田希望中国取消停止从日进口食品措施（热度：400112）
 </a>
@@ -231,14 +237,20 @@ OpenAI人事巨震（热度：418257）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90%23" target="weibo">
+律师回应18岁父亲有个4岁儿子（热度：392440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E8%88%9E%E5%8F%B0%20%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
 五月天舞台 提词器（热度：383968）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%23" target="weibo">
-户口本并不是全国统一的（热度：383356）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%A0%E9%9D%93%E9%A2%96%E8%B4%B4%E8%B4%B4%23" target="weibo">
+刘亦菲张靓颖贴贴（热度：379995）
 </a>
 </li>
 
@@ -375,12 +387,6 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%9418%E5%B2%81%E7%88%B6%E4%BA%B2%E6%9C%89%E4%B8%AA4%E5%B2%81%E5%84%BF%E5%AD%90%23" target="weibo">
-律师回应18岁父亲有个4岁儿子（热度：284807）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%93%81%E5%88%98%E6%B5%B7%23" target="weibo">
 林俊杰铁刘海（热度：283755）
 </a>
@@ -405,6 +411,18 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%89%B9%E6%94%AF%E6%8C%81%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89%E4%B8%BB%E5%BC%A0%23" target="weibo">
+马斯克被批支持反犹主义主张（热度：276388）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+时代少年团演唱会（热度：273478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%84%9A%E6%AF%94%E4%B8%AD%E6%8C%87challenge%23" target="weibo">
 用脚比中指challenge（热度：270368）
 </a>
@@ -413,6 +431,12 @@ ChatGPT创始人奥特曼离开OpenAI（热度：374783）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%92%AC%E5%88%B0%E6%9D%A8%E8%BF%AA%E7%9A%84%E6%89%8B%23" target="weibo">
 林俊杰咬到杨迪的手（热度：267395）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B8%BB%E5%88%9B%E9%87%8D%E8%81%9A%23" target="weibo">
+甄嬛传主创重聚（热度：258934）
 </a>
 </li>
 
@@ -435,20 +459,14 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%89%B9%E6%94%AF%E6%8C%81%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89%E4%B8%BB%E5%BC%A0%23" target="weibo">
-马斯克被批支持反犹主义主张（热度：247497）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E5%8A%A8%E5%BF%83%E4%BA%86%23" target="weibo">
+张遮动心了（热度：249912）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9C%8B%E5%88%B0%E8%83%A1%E5%86%9B%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 刘亦菲看到胡军的表情（热度：245353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%A0%E9%9D%93%E9%A2%96%E8%B4%B4%E8%B4%B4%23" target="weibo">
-刘亦菲张靓颖贴贴（热度：244390）
 </a>
 </li>
 
@@ -549,14 +567,20 @@ ChatGPT创始人奥特曼回应被解职（热度：252414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E5%8A%A8%E5%BF%83%E4%BA%86%23" target="weibo">
-张遮动心了（热度：200041）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E6%94%B9%E7%BC%96%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
+我本是高山改编的意义（热度：200794）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E7%90%83%E8%BF%B7%E7%9A%87%E9%A9%AC%E7%90%83%E8%BF%B7%E9%9D%A2%E5%9F%BA%23" target="weibo">
 利物浦球迷皇马球迷面基（热度：198085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%23" target="weibo">
+快乐老友记（热度：195627）
 </a>
 </li>
 
@@ -681,6 +705,12 @@ ENHYPEN勇闯中餐厅（热度：182417）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8D%AE%E8%AF%B4%E8%BF%99%E4%B8%AA%E7%83%9F%E8%8A%B1%E4%B8%80%E5%8F%9150%E4%B8%87%23" target="weibo">
+据说这个烟花一发50万（热度：164122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%20he%23" target="weibo">
 谢危 he（热度：161485）
 </a>
@@ -765,12 +795,6 @@ offer5玻璃门要不要擦这么干净（热度：147165）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8D%AE%E8%AF%B4%E8%BF%99%E4%B8%AA%E7%83%9F%E8%8A%B1%E4%B8%80%E5%8F%9150%E4%B8%87%23" target="weibo">
-据说这个烟花一发50万（热度：144385）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%89%81%E5%BE%97%E5%A5%BD%E5%83%8F%E5%9C%B0%E6%AF%AF%E5%95%8A%23" target="weibo">
 大熊猫扁得好像地毯啊（热度：143953）
 </a>
@@ -779,6 +803,12 @@ offer5玻璃门要不要擦这么干净（热度：147165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%8D%E7%AE%A1%E6%8A%A2%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%9B%B4%E6%8E%A5%E5%BC%80%E5%94%B1%23" target="weibo">
 刘耀文严浩翔不管抢没抢到直接开唱（热度：141945）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%922%E5%B9%B4%E7%8C%AB%E6%AF%9B%E4%BA%B2%E6%89%8B%E4%B8%BA%E7%8C%AB%E5%92%AA%E5%81%9A%E5%B0%8F%E8%A2%AB%E5%AD%90%23" target="weibo">
+妈妈攒2年猫毛亲手为猫咪做小被子（热度：138887）
 </a>
 </li>
 
@@ -797,12 +827,6 @@ offer5玻璃门要不要擦这么干净（热度：147165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E9%BB%91%E9%95%BF%E7%9B%B4%23" target="weibo">
 李庚希黑长直（热度：138197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%922%E5%B9%B4%E7%8C%AB%E6%AF%9B%E4%BA%B2%E6%89%8B%E4%B8%BA%E7%8C%AB%E5%92%AA%E5%81%9A%E5%B0%8F%E8%A2%AB%E5%AD%90%23" target="weibo">
-妈妈攒2年猫毛亲手为猫咪做小被子（热度：137188）
 </a>
 </li>
 
@@ -851,6 +875,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86%E5%90%A7%23" target="weibo">
 张杰汗流浃背了吧（热度：133261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E6%88%90%E7%9A%84%E9%9C%8D%E6%A0%BC%E6%B2%83%E6%BB%8B%E7%9B%91%E6%8E%A7%23" target="weibo">
+AI生成的霍格沃滋监控（热度：132934）
 </a>
 </li>
 
@@ -927,6 +957,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%AA%91%E9%A9%AC%E4%B8%8A%E5%AD%A6%E5%AE%9E%E9%94%A4%E4%BA%86%23" target="weibo">
+新疆小朋友骑马上学实锤了（热度：119659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%9D%9A%E5%AE%9A%E7%9C%8B%E5%A5%BD%E9%98%BF%E9%87%8C%23" target="weibo">
 马云坚定看好阿里（热度：117886）
 </a>
@@ -947,12 +983,6 @@ RedVelvet音银新歌初舞台（热度：133496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A1%E7%BE%8E%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E8%B6%8A%E7%B4%A0%E8%B6%8A%E7%BE%8E%23" target="weibo">
 审美的尽头是不是越素越美（热度：116321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B8%BB%E5%88%9B%E9%87%8D%E8%81%9A%23" target="weibo">
-甄嬛传主创重聚（热度：116309）
 </a>
 </li>
 
@@ -1071,6 +1101,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%99%BD%E5%90%88%E6%AD%A3%E5%89%AF%E6%89%8B%E4%BA%BA%E9%80%89%E7%BB%93%E6%9E%9C%E6%9C%AA%E5%AE%9A%23" target="weibo">
+蓝白合正副手人选结果未定（热度：90289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%8E%B7%E5%BE%97%E9%87%91%E7%AB%A5%E5%A5%96%23" target="weibo">
 贝林厄姆获得金童奖（热度：88221）
 </a>
@@ -1143,6 +1179,12 @@ RedVelvet音银新歌初舞台（热度：133496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%BA%BA%E9%80%82%E5%90%88%E4%B9%B0%E6%B7%B7%E5%8A%A8%23" target="weibo">
+什么人适合买混动（热度：63696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E4%B8%80%E5%9C%BA%E6%88%8F%E4%BA%B2%E4%BA%86%E4%B8%A4%E4%B8%AA%E4%BA%BA%23" target="weibo">
 许凯一场戏亲了两个人（热度：60488）
 </a>
@@ -1157,12 +1199,6 @@ RedVelvet音银新歌初舞台（热度：133496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%A0%86%E9%9B%AA%E6%80%80%E5%BF%B5%E4%B8%A2%E5%A4%B1%E5%B0%8F%E7%8B%97%23" target="weibo">
 主人堆雪怀念丢失小狗（热度：43806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%BA%BA%E9%80%82%E5%90%88%E4%B9%B0%E6%B7%B7%E5%8A%A8%23" target="weibo">
-什么人适合买混动（热度：34285）
 </a>
 </li>
 
