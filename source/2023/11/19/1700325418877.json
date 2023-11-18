@@ -1,0 +1,410 @@
+{
+  "runTime": 1700325418877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 262672,
+        "num": 440674,
+        "word": "原来普通话是河北方言",
+        "onboard_time": 1700307154,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 179659,
+        "num": 439134,
+        "word": "为什么得甲状腺癌的年轻人越来越多了",
+        "onboard_time": 1700298273,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16546,
+        "num": 427680,
+        "word": "中国一直是亚太合作重要的贡献者",
+        "onboard_time": 1700311714,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 747531,
+        "num": 418966,
+        "word": "秦岚声带受损其实自己很沮丧",
+        "onboard_time": 1700319096,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624072,
+        "num": 400795,
+        "word": "听说去澳门只需要带两根手指头",
+        "onboard_time": 1700319274,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 508989,
+        "num": 393905,
+        "word": "宁安如梦编剧",
+        "onboard_time": 1700320655,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386839,
+        "num": 386839,
+        "word": "房东的猫从众筹到万人演唱会用了7年",
+        "onboard_time": 1700317114,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378765,
+        "num": 378765,
+        "word": "王鹤棣看了不得高兴死",
+        "onboard_time": 1700320176,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378235,
+        "num": 378235,
+        "word": "皓衣行新图",
+        "onboard_time": 1700321136,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188971,
+        "num": 342278,
+        "word": "鲁迅孙子自称90%刷视频10%看书",
+        "onboard_time": 1700309372,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1774335,
+        "num": 330044,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630176,
+        "num": 324351,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316906,
+        "num": 316906,
+        "word": "金子涵 断层第一退团",
+        "onboard_time": 1700295753,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288064,
+        "num": 288064,
+        "word": "马斯克祝贺SpaceX公司团队",
+        "onboard_time": 1700319397,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257461,
+        "num": 284819,
+        "word": "人的舌头为什么能喷出水",
+        "onboard_time": 1700316394,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 282518,
+        "num": 282518,
+        "word": "杨丞琳 带我走",
+        "onboard_time": 1700321375,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271685,
+        "num": 271685,
+        "word": "黑莲花上位手册",
+        "onboard_time": 1700324672,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194197,
+        "num": 271543,
+        "word": "cp30",
+        "onboard_time": 1700319037,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180911,
+        "num": 270387,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147286,
+        "num": 269865,
+        "word": "马斯克SpaceX星舰发射失败",
+        "onboard_time": 1700314776,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423907,
+        "num": 268257,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268179,
+        "num": 268179,
+        "word": "薛之谦竟然有儿子了",
+        "onboard_time": 1700274749,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252353,
+        "num": 252353,
+        "word": "吴世勋说中文不烫嘴",
+        "onboard_time": 1700319274,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226192,
+        "num": 226192,
+        "word": "每年体检38岁男子被查出胰腺癌晚期",
+        "onboard_time": 1700316995,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130747,
+        "num": 208315,
+        "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+        "onboard_time": 1700317832,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 195344,
+        "num": 195344,
+        "word": "张艺兴演唱会每个座位都有伴手礼",
+        "onboard_time": 1700320298,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193165,
+        "num": 193165,
+        "word": "张晚意一集气死一个主任",
+        "onboard_time": 1700317832,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189379,
+        "num": 189379,
+        "word": "张遮姜雪宁争执分手",
+        "onboard_time": 1700318915,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126586,
+        "num": 187869,
+        "word": "中国猫睡觉手不能露在被子外面",
+        "onboard_time": 1700323654,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115476,
+        "num": 187650,
+        "word": "以色列称将攻打加沙全境",
+        "onboard_time": 1700305413,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187564,
+        "num": 187564,
+        "word": "张艺兴刘畊宏蹦养生迪",
+        "onboard_time": 1700322452,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174872,
+        "num": 174872,
+        "word": "郝蕾看完沈梦辰表演沉默了",
+        "onboard_time": 1700319337,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164994,
+        "num": 164994,
+        "word": "李健现场",
+        "onboard_time": 1700321734,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115340,
+        "num": 154519,
+        "word": "你女朋友不洗头啊",
+        "onboard_time": 1700308711,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82745,
+        "num": 153201,
+        "word": "SpaceX称被迫触发星舰的自毁功能",
+        "onboard_time": 1700316275,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153192,
+        "num": 153192,
+        "word": "胡夏请来了那些年一起追过的沈佳宜",
+        "onboard_time": 1700316995,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144979,
+        "num": 144979,
+        "word": "张杰AsLongAsYouLoveMe",
+        "onboard_time": 1700321855,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102290,
+        "num": 142463,
+        "word": "AG战胜DRG",
+        "onboard_time": 1700321555,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77408,
+        "num": 142430,
+        "word": "中华民族团结进步宣传推广大使张杰",
+        "onboard_time": 1700322213,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 76658,
+        "num": 142407,
+        "word": "萌兰打哈欠一张嘴血脉觉醒",
+        "onboard_time": 1700317653,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142400,
+        "num": 142400,
+        "word": "王嘉尔杭州演唱会",
+        "onboard_time": 1700321495,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129916,
+        "num": 129916,
+        "word": "张译哭的跟17年前一样惨",
+        "onboard_time": 1700323592,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125402,
+        "num": 125402,
+        "word": "文俊辉丁程鑫泼水游戏看呆我",
+        "onboard_time": 1700317233,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94070,
+        "num": 124579,
+        "word": "老干妈被年轻人抛弃了吗",
+        "onboard_time": 1700307154,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124230,
+        "num": 124230,
+        "word": "林俊杰演唱会开到了hi6",
+        "onboard_time": 1700316692,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122822,
+        "num": 122822,
+        "word": "你想要的从来都不是我",
+        "onboard_time": 1700321734,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89470,
+        "num": 122527,
+        "word": "经常涂润唇膏会有副作用吗",
+        "onboard_time": 1700299534,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 89181,
+        "num": 121391,
+        "word": "太原",
+        "onboard_time": 1700306075,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57241,
+        "num": 119591,
+        "word": "威尼修斯股二头肌撕裂",
+        "onboard_time": 1700322394,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38469,
+        "num": 118907,
+        "word": "小伙凌晨无处安身被奶茶店夫妻收留",
+        "onboard_time": 1700325389,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金30年#"
+    }
+  }
+}
