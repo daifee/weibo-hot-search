@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700386459957,
+  "endTime": 1700389077081,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1707,20 +1707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8262600,
+      "num": 8262600,
+      "word": "WBG对战T1",
+      "onboard_time": 1700379393,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 8258928,
       "num": 8846808,
       "word": "中国女篮冠军",
       "onboard_time": 1696513546,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8235559,
-      "num": 8235559,
-      "word": "WBG对战T1",
-      "onboard_time": 1700379393,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 8185446,

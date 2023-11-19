@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700386459957,
+  "endTime": 1700389077081,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -83,8 +83,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 8235559,
-      "num": 8235559,
+      "raw_hot": 8262600,
+      "num": 8262600,
       "word": "WBG对战T1",
       "onboard_time": 1700379393,
       "rank": 0,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 3498364,
-      "num": 973618,
+      "num": 1209225,
       "word": "六公主回应我本是高山争议",
       "onboard_time": 1700379210,
       "rank": 16,
@@ -1755,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1769170,
+      "num": 743987,
+      "word": "质疑恩静 成为恩静",
+      "onboard_time": 1700385390,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1768917,
       "num": 456039,
       "word": "辛巴抖音账号被封禁",
@@ -2515,14 +2523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1524443,
-      "num": 596531,
-      "word": "质疑恩静 成为恩静",
-      "onboard_time": 1700385390,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1522872,
       "num": 347475,
       "word": "王昭君 讲日语",
@@ -3089,6 +3089,14 @@
       "onboard_time": 1699323692,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1348604,
+      "num": 1348604,
+      "word": "T1先下一城",
+      "onboard_time": 1700386539,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1347131,
@@ -3681,6 +3689,14 @@
       "onboard_time": 1698816993,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1195811,
+      "num": 1195811,
+      "word": "李佳航 赢了网吧包宿",
+      "onboard_time": 1700385991,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 1195166,
@@ -6659,6 +6675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 792201,
+      "num": 792201,
+      "word": "英雄联盟单曲PARANOIA",
+      "onboard_time": 1700386661,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 792018,
       "num": 792018,
       "word": "中国科协就中山二院3人患癌发声",
@@ -7328,6 +7352,14 @@
       "word": "萧亚轩状态",
       "onboard_time": 1699633230,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 745035,
+      "num": 745035,
+      "word": "张杰喝多了在地上蛙泳",
+      "onboard_time": 1700387019,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -9051,14 +9083,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 636528,
-      "num": 579617,
-      "word": "李佳航 赢了网吧包宿",
-      "onboard_time": 1700385991,
-      "rank": 12,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 636338,
       "num": 636338,
       "word": "南京地铁",
@@ -9097,6 +9121,14 @@
       "onboard_time": 1700034755,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635025,
+      "num": 635025,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 634965,
@@ -12217,6 +12249,14 @@
       "onboard_time": 1698966264,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501778,
+      "num": 501778,
+      "word": "刘耀文张真源严浩翔与女伴舞热舞",
+      "onboard_time": 1700387791,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 501012,
@@ -18003,6 +18043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359056,
+      "num": 359056,
+      "word": "TheShy 英雄海",
+      "onboard_time": 1700388573,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 359011,
       "num": 309816,
       "word": "结婚的意义是什么",
@@ -19401,6 +19449,14 @@
       "onboard_time": 1699585532,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330876,
+      "num": 330876,
+      "word": "别被零封",
+      "onboard_time": 1700388031,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 330789,
@@ -23075,6 +23131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274451,
+      "num": 274451,
+      "word": "罗云熙 赛中采访",
+      "onboard_time": 1700387614,
+      "rank": 31,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 274326,
       "num": 274326,
       "word": "爱吃面的公主请试青椒鸡蛋拌面",
@@ -23923,6 +23987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263842,
+      "num": 263842,
+      "word": "T1英雄池 ban不完",
+      "onboard_time": 1700387495,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 263799,
       "num": 174675,
       "word": "孟子义桃花妆",
@@ -24617,6 +24689,14 @@
       "onboard_time": 1699169853,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256356,
+      "num": 256356,
+      "word": "宙斯 战神",
+      "onboard_time": 1700387968,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 256316,
@@ -28579,6 +28659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 220376,
+      "num": 220376,
+      "word": "罗云熙英雄联盟站哥",
+      "onboard_time": 1700388092,
+      "rank": 38,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 220310,
       "num": 220310,
       "word": "赵丽颖时尚芭莎十二月刊封面预告",
@@ -31716,7 +31804,7 @@
     },
     {
       "raw_hot": 200131,
-      "num": 209779,
+      "num": 259458,
       "word": "四川眉山公布重大考古发现",
       "onboard_time": 1700383475,
       "rank": 28,
@@ -33129,6 +33217,14 @@
       "onboard_time": 1699677450,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193408,
+      "num": 193408,
+      "word": "Zeus单杀TheShy",
+      "onboard_time": 1700389053,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 193406,
@@ -36419,6 +36515,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 175184,
+      "num": 1196543,
+      "word": "00后送00后锦旗可以有多炸裂",
+      "onboard_time": 1700386418,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175143,
       "num": 175143,
       "word": "孩子手指夹断警车开道送医顺利手术",
@@ -36441,6 +36545,14 @@
       "onboard_time": 1700279611,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175129,
+      "num": 175129,
+      "word": "Weiwei 尽力局",
+      "onboard_time": 1700387556,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 175123,
@@ -38587,6 +38699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161973,
+      "num": 294128,
+      "word": "税务师",
+      "onboard_time": 1700388754,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161972,
       "num": 161972,
       "word": "鸡蛋的天花板料理",
@@ -38899,6 +39019,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 160206,
+      "num": 160206,
+      "word": "种地吧",
+      "onboard_time": 1700388994,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160203,
       "num": 218444,
       "word": "2个半月宝宝第1次见太爷爷笑出了声",
@@ -39161,6 +39289,14 @@
       "onboard_time": 1700025875,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158482,
+      "num": 158482,
+      "word": "BP 线权",
+      "onboard_time": 1700387436,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 158478,
@@ -42348,7 +42484,7 @@
     },
     {
       "raw_hot": 140057,
-      "num": 974413,
+      "num": 1217021,
       "word": "下一个中国还是中国",
       "onboard_time": 1700361627,
       "rank": 2,
@@ -43697,6 +43833,14 @@
       "onboard_time": 1699436736,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132607,
+      "num": 132607,
+      "word": "心之钢 抽象",
+      "onboard_time": 1700388932,
+      "rank": 48,
+      "category": "电竞,演出"
     },
     {
       "raw_hot": 132602,
@@ -47155,14 +47299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110268,
-      "num": 133656,
-      "word": "00后送00后锦旗可以有多炸裂",
-      "onboard_time": 1700386418,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110128,
       "num": 110128,
       "word": "男子马拉松心脏骤停7跑友接力抢救",
@@ -47841,6 +47977,14 @@
       "onboard_time": 1699288645,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103412,
+      "num": 1002962,
+      "word": "小学生跳花绳把人cpu都烧干了",
+      "onboard_time": 1700387137,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103378,
@@ -48531,6 +48675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 96855,
+      "num": 285652,
+      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
+      "onboard_time": 1700389053,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96846,
       "num": 111330,
       "word": "唐三黄金十三戟最后一式",
@@ -48889,6 +49041,14 @@
       "onboard_time": 1699679491,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 91936,
+      "num": 528854,
+      "word": "现抓活羊送上门好客山东回礼拿不完",
+      "onboard_time": 1700388031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91843,
@@ -51825,6 +51985,14 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26118,
+      "num": 282406,
+      "word": "车大就一定空间大吗",
+      "onboard_time": 1700388331,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 26090,
