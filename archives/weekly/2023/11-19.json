@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700418037243,
+  "endTime": 1700418844872,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -3148,15 +3148,15 @@
     },
     {
       "raw_hot": 32771,
-      "num": 51305,
+      "num": 74158,
       "word": "亚洲超星团",
       "onboard_time": 1700415738,
       "rank": 36,
       "category": "综艺"
     },
     {
-      "raw_hot": 30266,
-      "num": 51296,
+      "raw_hot": 30335,
+      "num": 74200,
       "word": "这版姜雪宁的嘴能吞下一头牛",
       "onboard_time": 1700416998,
       "rank": 38,
@@ -3177,6 +3177,14 @@
       "onboard_time": 1700310391,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22568,
+      "num": 73486,
+      "word": "去年我国初婚人数低于1100万",
+      "onboard_time": 1700418437,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21293,
