@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/19 19:13:57
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/19 19:34:12
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ TFBOYS十年之约演唱会（热度：18626284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23" target="weibo">
 微博之夜世纪同框（热度：14862345）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E9%9B%B6%E5%B0%81WBG%23" target="weibo">
+T1零封WBG（热度：14827099）
 </a>
 </li>
 
@@ -779,6 +785,12 @@ house被警方立案调查（热度：10046058）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1%23" target="weibo">
 肖战真唱（热度：9892896）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23" target="weibo">
+T1夺冠（热度：9886868）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%87%87%E6%BA%90%E6%81%8B%E6%83%85%23" target="weibo">
 金采源恋情（热度：6535493）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%AC%A3%20%E6%9F%90%E4%BA%BA%E4%B8%80%E7%9B%B4%E5%88%A0%E9%99%A4%E6%88%91%E5%BE%AE%E5%8D%9A%23" target="weibo">
-洪欣 某人一直删除我微博（热度：6528594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23" target="weibo">
-中国男篮不敌菲律宾男篮（热度：6398188）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700392437753,
+  "endTime": 1700393652349,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -289,6 +289,14 @@
       "onboard_time": 1679746251,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14827099,
+      "num": 14827099,
+      "word": "T1零封WBG",
+      "onboard_time": 1700392367,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 14810783,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1688051809,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9886868,
+      "num": 9886868,
+      "word": "T1夺冠",
+      "onboard_time": 1700392563,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 9881032,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1674011728,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6528594,
-      "num": 476756,
-      "word": "洪欣 某人一直删除我微博",
-      "onboard_time": 1682904631,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6398188,
-      "num": 6398188,
-      "word": "中国男篮不敌菲律宾男篮",
-      "onboard_time": 1696427803,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

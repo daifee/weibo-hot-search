@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/19 19:13:57
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/19 19:34:12
 </p>
 </blockquote>
 <p>
@@ -15,8 +15,26 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E9%9B%B6%E5%B0%81WBG%23" target="weibo">
+T1零封WBG（热度：14827099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 WBG对战T1（热度：12632234）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%A4%BA%E5%86%A0%23" target="weibo">
+T1夺冠（热度：9886868）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E5%9B%9B%E5%86%A0%E7%99%BB%E7%A5%9E%23" target="weibo">
+Faker四冠登神（热度：4408132）
 </a>
 </li>
 
@@ -81,8 +99,26 @@ T1拿到决赛赛点（热度：1835312）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%20%E5%B7%B2%E6%94%BE%E5%81%87%23" target="weibo">
+BLG 已放假（热度：1624441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A5%BD%E5%83%8F%E8%A2%AB%E8%83%81%E8%BF%AB%E4%BA%86%23" target="weibo">
 肖战好像被胁迫了（热度：1615453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%89%A7%E6%9C%AC%23" target="weibo">
+EDG剧本（热度：1601101）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%20S13%E6%95%B0%E6%8D%AE%23" target="weibo">
+Faker S13数据（热度：1560395）
 </a>
 </li>
 
@@ -137,6 +173,12 @@ T1先下一城（热度：1348604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E8%BF%9E%E6%9B%B412%E5%A4%A9%23" target="weibo">
 花儿与少年连更12天（热度：1095923）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%20%E4%B8%80%E8%A1%80%E7%8E%87%23" target="weibo">
+TheShy 一血率（热度：1071656）
 </a>
 </li>
 
@@ -231,6 +273,12 @@ WBG 我们每个人都有不得不赢的理由（热度：770830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E6%95%99%E7%BB%83%23" target="weibo">
+WBG教练（热度：734319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%9B%A2%20ENHYPEN%23" target="weibo">
 时团 ENHYPEN（热度：725268）
 </a>
@@ -239,6 +287,12 @@ WBG 我们每个人都有不得不赢的理由（热度：770830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%A8%AA%E5%BA%97%E5%BD%93%E7%AB%A5%E6%BC%824%E4%B8%AA%E6%9C%88%E8%B5%9A250%E5%85%83%23" target="weibo">
 6岁女孩在横店当童漂4个月赚250元（热度：715266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%E7%8E%B0%E5%9C%BA%E8%A7%A3%E8%AF%B4S13%E5%86%B3%E8%B5%9B%23" target="weibo">
+Uzi现场解说S13决赛（热度：711499）
 </a>
 </li>
 
@@ -435,12 +489,6 @@ T1英雄池 ban不完（热度：489005）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%20S13%E6%95%B0%E6%8D%AE%23" target="weibo">
-Faker S13数据（热度：440654）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%A2%E8%A1%A3%E6%97%B6%E5%8F%91%E7%8E%B0%E8%83%B8%E9%83%A8%E5%BC%82%E5%B8%B8%E7%A1%AE%E8%AF%8A%E6%B7%8B%E5%B7%B4%E7%99%8C%23" target="weibo">
 女子换衣时发现胸部异常确诊淋巴癌（热度：432212）
 </a>
@@ -467,6 +515,12 @@ KDA 吊打（热度：406351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%20%E7%AC%91%E5%88%B0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC%23" target="weibo">
 王栎鑫 笑到下巴脱臼（热度：391810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%94%E6%9C%88%E5%A4%A9%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%8E%B0%E5%9C%BA%23" target="weibo">
+周杰伦五月天龙卷风现场（热度：376250）
 </a>
 </li>
 
@@ -555,6 +609,12 @@ S13总决赛开幕式（热度：358927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B8%A9%23" target="weibo">
+红温（热度：352357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E4%BA%BA%E5%AF%B9%E5%8F%91%E9%87%8F%E7%9A%84%E6%89%A7%E5%BF%B5%E6%9C%89%E5%A4%9A%E6%B7%B1%23" target="weibo">
 艺人对发量的执念有多深（热度：351227）
 </a>
@@ -609,18 +669,6 @@ S13总决赛开幕式（热度：358927）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E6%95%99%E7%BB%83%23" target="weibo">
-WBG教练（热度：326504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BA%94%E6%9C%88%E5%A4%A9%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%8E%B0%E5%9C%BA%23" target="weibo">
-周杰伦五月天龙卷风现场（热度：326269）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%A1%95%E8%BE%9E%E9%80%80%E5%85%B0%E5%85%B0%23" target="weibo">
 陈硕辞退兰兰（热度：320054）
 </a>
@@ -663,6 +711,12 @@ WBG教练（热度：326504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E9%80%8100%E5%90%8E%E9%94%A6%E6%97%97%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%82%B8%E8%A3%82%23" target="weibo">
+00后送00后锦旗可以有多炸裂（热度：299460）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%80%E7%A7%92%E8%AE%A4%E5%87%BA%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 张凌赫一秒认出王鹤棣（热度：294141）
 </a>
@@ -675,6 +729,12 @@ WBG教练（热度：326504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%94%BE%E5%BC%83%E5%8F%91%E8%B4%A2%E8%A1%8C%E4%B8%9A%E4%B8%8D%E6%90%9E%E9%87%91%E8%9E%8D%E5%9C%B0%E4%BA%A7%23" target="weibo">
+董明珠称放弃发财行业不搞金融地产（热度：292697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E7%A0%B4%E7%8B%BC%E5%8E%9F%E5%94%B1%E7%BB%8F%E5%85%B8%E5%9B%9E%E5%BF%86%E6%9D%80%23" target="weibo">
 杀破狼原唱经典回忆杀（热度：291426）
 </a>
@@ -683,6 +743,12 @@ WBG教练（热度：326504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Weiwei%20%E5%B0%BD%E5%8A%9B%E5%B1%80%23" target="weibo">
 Weiwei 尽力局（热度：281920）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9ES3%23" target="weibo">
+梦回S3（热度：279837）
 </a>
 </li>
 
@@ -777,12 +843,6 @@ cp30（热度：262618）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%20%E5%B7%B2%E6%94%BE%E5%81%87%23" target="weibo">
-BLG 已放假（热度：251318）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%B8%9C%E5%8C%97%E7%B2%AE%E4%BB%93%23" target="weibo">
 秦岚情绪稳定的东北粮仓（热度：248820）
 </a>
@@ -831,12 +891,6 @@ BLG 已放假（热度：251318）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%94%BE%E5%BC%83%E5%8F%91%E8%B4%A2%E8%A1%8C%E4%B8%9A%E4%B8%8D%E6%90%9E%E9%87%91%E8%9E%8D%E5%9C%B0%E4%BA%A7%23" target="weibo">
-董明珠称放弃发财行业不搞金融地产（热度：242386）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E7%BB%BC%E8%89%BA%E6%95%88%E6%9E%9C%23" target="weibo">
 孟子义 综艺效果（热度：240904）
 </a>
@@ -863,18 +917,6 @@ Xiaohu目标想带S赛奖杯回家（热度：230460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E9%A4%90%E5%85%B7%E6%9C%89%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%23" target="weibo">
 用开水烫餐具有没有必要（热度：229390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E9%80%8100%E5%90%8E%E9%94%A6%E6%97%97%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%82%B8%E8%A3%82%23" target="weibo">
-00后送00后锦旗可以有多炸裂（热度：229354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E9%9B%B6%E5%B0%81WBG%23" target="weibo">
-T1零封WBG（热度：226236）
 </a>
 </li>
 
@@ -1191,14 +1233,8 @@ DYG战胜DRG（热度：186201）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E5%89%A7%E6%9C%AC%23" target="weibo">
-EDG剧本（热度：169411）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Uzi%E7%8E%B0%E5%9C%BA%E8%A7%A3%E8%AF%B4S13%E5%86%B3%E8%B5%9B%23" target="weibo">
-Uzi现场解说S13决赛（热度：169330）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%A1%97%E5%A4%B4%E7%83%AD%E5%8D%96%E7%9A%84%E4%B8%A4%E7%A7%8D%E7%BE%8E%E9%A3%9F%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E5%90%83%23" target="weibo">
+西安街头热卖的两种美食不能一起吃（热度：168852）
 </a>
 </li>
 
@@ -1311,6 +1347,12 @@ Uzi现场解说S13决赛（热度：169330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4WBG%E5%93%80%E5%85%B5%E5%BF%85%E8%83%9C%23" target="weibo">
+王濛说WBG哀兵必胜（热度：148250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E4%B8%81%E7%A8%8B%E9%91%AB%E6%B3%BC%E6%B0%B4%E6%B8%B8%E6%88%8F%E7%9C%8B%E5%91%86%E6%88%91%23" target="weibo">
 文俊辉丁程鑫泼水游戏看呆我（热度：148068）
 </a>
@@ -1419,6 +1461,18 @@ AG战胜DRG（热度：138482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BP%20%E7%BB%9D%E6%B4%BB%23" target="weibo">
+BP 绝活（热度：135319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
+KPL（热度：134422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%8E%84%E5%BE%B7%E9%AB%98%E6%97%A0%E7%BC%98%E6%AC%A7%E6%B4%B2%E6%9D%AF%23" target="weibo">
 哈兰德厄德高无缘欧洲杯（热度：134279）
 </a>
@@ -1439,6 +1493,12 @@ AG战胜DRG（热度：138482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E4%B8%BA%E9%9D%A0%E8%BF%91%E5%B0%8F%E9%B9%BF%E5%81%87%E8%A3%85%E6%89%93%E6%BB%9A%23" target="weibo">
 金毛为靠近小鹿假装打滚（热度：132460）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E7%88%B6%E4%BA%B2%E5%9D%A6%E8%A8%80%E5%84%BF%E5%AD%90%E6%98%AF%E5%AD%A6%E6%B8%A3%23" target="weibo">
+家长会上父亲坦言儿子是学渣（热度：131587）
 </a>
 </li>
 

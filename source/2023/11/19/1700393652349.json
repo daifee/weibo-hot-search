@@ -1,0 +1,410 @@
+{
+  "runTime": 1700393652349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14827099,
+        "num": 14827099,
+        "word": "T1零封WBG",
+        "onboard_time": 1700392367,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9886868,
+        "num": 9886868,
+        "word": "T1夺冠",
+        "onboard_time": 1700392563,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35135,
+        "num": 5706539,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1700361627,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4408132,
+        "num": 4408132,
+        "word": "Faker四冠登神",
+        "onboard_time": 1700392980,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299460,
+        "num": 1671655,
+        "word": "00后送00后锦旗可以有多炸裂",
+        "onboard_time": 1700386418,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1624441,
+        "num": 1624441,
+        "word": "BLG 已放假",
+        "onboard_time": 1700392300,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167913,
+        "num": 1611077,
+        "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
+        "onboard_time": 1700389053,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1601101,
+        "num": 1601101,
+        "word": "EDG剧本",
+        "onboard_time": 1700392367,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 817808,
+        "num": 1564769,
+        "word": "郭艾伦吐槽以爱为营剧情",
+        "onboard_time": 1700389723,
+        "rank": 8,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 168852,
+        "num": 1561640,
+        "word": "西安街头热卖的两种美食不能一起吃",
+        "onboard_time": 1700393330,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1627274,
+        "num": 1561562,
+        "word": "质疑恩静 成为恩静",
+        "onboard_time": 1700385390,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1560395,
+        "num": 1560395,
+        "word": "Faker S13数据",
+        "onboard_time": 1700381193,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1431819,
+        "num": 1431819,
+        "word": "肖战好像被胁迫了",
+        "onboard_time": 1700389479,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1232473,
+        "num": 1232473,
+        "word": "六公主回应我本是高山争议",
+        "onboard_time": 1700379210,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1071656,
+        "num": 1071656,
+        "word": "TheShy 一血率",
+        "onboard_time": 1700392239,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 895657,
+        "num": 895657,
+        "word": "张桂梅老师学生评价我本是高山",
+        "onboard_time": 1700388212,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 734319,
+        "num": 734319,
+        "word": "WBG教练",
+        "onboard_time": 1700390855,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 711499,
+        "num": 711499,
+        "word": "Uzi现场解说S13决赛",
+        "onboard_time": 1700391996,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 535554,
+        "num": 535554,
+        "word": "时团 ENHYPEN",
+        "onboard_time": 1700389174,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292697,
+        "num": 516345,
+        "word": "董明珠称放弃发财行业不搞金融地产",
+        "onboard_time": 1700391213,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 515604,
+        "num": 515604,
+        "word": "WBG 我们每个人都有不得不赢的理由",
+        "onboard_time": 1700366369,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 484031,
+        "num": 484031,
+        "word": "宙斯 战神",
+        "onboard_time": 1700387968,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 476343,
+        "num": 476343,
+        "word": "T1英雄池 ban不完",
+        "onboard_time": 1700387495,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 457562,
+        "num": 457562,
+        "word": "时代少年团 女团舞",
+        "onboard_time": 1700384909,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455027,
+        "num": 455027,
+        "word": "下周做什么都顺的星座",
+        "onboard_time": 1700389546,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 426304,
+        "num": 426304,
+        "word": "张杰喝多了在地上蛙泳",
+        "onboard_time": 1700387019,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376250,
+        "num": 376250,
+        "word": "周杰伦五月天龙卷风现场",
+        "onboard_time": 1700391213,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352357,
+        "num": 352357,
+        "word": "红温",
+        "onboard_time": 1700392919,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 317179,
+        "num": 317179,
+        "word": "王一博变装",
+        "onboard_time": 1700389603,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141510,
+        "num": 306172,
+        "word": "黑龙江大学惊现雪人三星堆",
+        "onboard_time": 1700384670,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301896,
+        "num": 301896,
+        "word": "腰真的一下子就舒服了",
+        "onboard_time": 1700381494,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 297733,
+        "num": 297733,
+        "word": "六公主回应恶评",
+        "onboard_time": 1700383053,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279837,
+        "num": 279837,
+        "word": "梦回S3",
+        "onboard_time": 1700393216,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264238,
+        "num": 264238,
+        "word": "32岁女子9年花费近27万吃海底捞",
+        "onboard_time": 1700375612,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242857,
+        "num": 242857,
+        "word": "宋轶生气会和朋友打十几小时电话",
+        "onboard_time": 1700378314,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206390,
+        "num": 206390,
+        "word": "韩国网吧偶遇罗云熙",
+        "onboard_time": 1700372550,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199250,
+        "num": 199250,
+        "word": "刘耀文张真源严浩翔与女伴舞热舞",
+        "onboard_time": 1700387791,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112182,
+        "num": 199250,
+        "word": "小学生跳花绳把人cpu都烧干了",
+        "onboard_time": 1700387137,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131587,
+        "num": 199248,
+        "word": "家长会上父亲坦言儿子是学渣",
+        "onboard_time": 1700393390,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127769,
+        "num": 199245,
+        "word": "四川眉山公布重大考古发现",
+        "onboard_time": 1700383475,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189810,
+        "num": 199243,
+        "word": "时代少年除我之外全员凶手",
+        "onboard_time": 1700390439,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187811,
+        "num": 199243,
+        "word": "以爱为营",
+        "onboard_time": 1700390497,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183966,
+        "num": 199242,
+        "word": "时代少年团今天换妆造了",
+        "onboard_time": 1700376753,
+        "rank": 42,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 179534,
+        "num": 199240,
+        "word": "胡彦斌 以后要写简单一点的歌",
+        "onboard_time": 1700391332,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 199239,
+        "word": "丞磊挺忙的",
+        "onboard_time": 1700389174,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148250,
+        "num": 199237,
+        "word": "王濛说WBG哀兵必胜",
+        "onboard_time": 1700386839,
+        "rank": 45,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 135319,
+        "num": 199235,
+        "word": "BP 绝活",
+        "onboard_time": 1700393573,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134422,
+        "num": 199234,
+        "word": "KPL",
+        "onboard_time": 1700393573,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128024,
+        "num": 199230,
+        "word": "罗云熙 赛中采访",
+        "onboard_time": 1700387614,
+        "rank": 48,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 125573,
+        "num": 199229,
+        "word": "种地吧",
+        "onboard_time": 1700388994,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金三十年#"
+    }
+  }
+}

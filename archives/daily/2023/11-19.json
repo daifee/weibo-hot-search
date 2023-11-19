@@ -1,13 +1,37 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700392437753,
+  "endTime": 1700393652349,
   "band_list": [
+    {
+      "raw_hot": 14827099,
+      "num": 14827099,
+      "word": "T1零封WBG",
+      "onboard_time": 1700392367,
+      "rank": 35,
+      "category": "电竞"
+    },
     {
       "raw_hot": 12632234,
       "num": 12632234,
       "word": "WBG对战T1",
       "onboard_time": 1700379393,
       "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 9886868,
+      "num": 9886868,
+      "word": "T1夺冠",
+      "onboard_time": 1700392563,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 4408132,
+      "num": 4408132,
+      "word": "Faker四冠登神",
+      "onboard_time": 1700392980,
+      "rank": 3,
       "category": "电竞"
     },
     {
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 1830793,
-      "num": 976421,
+      "num": 1561562,
       "word": "质疑恩静 成为恩静",
       "onboard_time": 1700385390,
       "rank": 10,
@@ -91,12 +115,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1624441,
+      "num": 1624441,
+      "word": "BLG 已放假",
+      "onboard_time": 1700392300,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1615453,
-      "num": 1009664,
+      "num": 1431819,
       "word": "肖战好像被胁迫了",
       "onboard_time": 1700389479,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1601101,
+      "num": 1601101,
+      "word": "EDG剧本",
+      "onboard_time": 1700392367,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1560395,
+      "num": 1560395,
+      "word": "Faker S13数据",
+      "onboard_time": 1700381193,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 1435154,
@@ -156,7 +204,7 @@
     },
     {
       "raw_hot": 1234631,
-      "num": 1234631,
+      "num": 1564769,
       "word": "郭艾伦吐槽以爱为营剧情",
       "onboard_time": 1700389723,
       "rank": 12,
@@ -169,6 +217,14 @@
       "onboard_time": 1700379030,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1071656,
+      "num": 1071656,
+      "word": "TheShy 一血率",
+      "onboard_time": 1700392239,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 1055405,
@@ -291,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734319,
+      "num": 734319,
+      "word": "WBG教练",
+      "onboard_time": 1700390855,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 725268,
       "num": 725268,
       "word": "时团 ENHYPEN",
@@ -305,6 +369,14 @@
       "onboard_time": 1700375190,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711499,
+      "num": 711499,
+      "word": "Uzi现场解说S13决赛",
+      "onboard_time": 1700391996,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 687643,
@@ -563,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440654,
-      "num": 440654,
-      "word": "Faker S13数据",
-      "onboard_time": 1700381193,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 432212,
       "num": 308900,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
@@ -609,6 +673,14 @@
       "onboard_time": 1700356349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376250,
+      "num": 376250,
+      "word": "周杰伦五月天龙卷风现场",
+      "onboard_time": 1700391213,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 376081,
@@ -723,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 352357,
+      "num": 352357,
+      "word": "红温",
+      "onboard_time": 1700392919,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 351227,
       "num": 347986,
       "word": "艺人对发量的执念有多深",
@@ -795,22 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326504,
-      "num": 326504,
-      "word": "WBG教练",
-      "onboard_time": 1700390855,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 326269,
-      "num": 326269,
-      "word": "周杰伦五月天龙卷风现场",
-      "onboard_time": 1700391213,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -867,6 +931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 299460,
+      "num": 1671655,
+      "word": "00后送00后锦旗可以有多炸裂",
+      "onboard_time": 1700386418,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294141,
       "num": 233201,
       "word": "张凌赫一秒认出王鹤棣",
@@ -883,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292697,
+      "num": 516345,
+      "word": "董明珠称放弃发财行业不搞金融地产",
+      "onboard_time": 1700391213,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 291426,
       "num": 291426,
       "word": "杀破狼原唱经典回忆杀",
@@ -896,6 +976,14 @@
       "word": "Weiwei 尽力局",
       "onboard_time": 1700387556,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 279837,
+      "num": 279837,
+      "word": "梦回S3",
+      "onboard_time": 1700393216,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -1019,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251318,
-      "num": 251318,
-      "word": "BLG 已放假",
-      "onboard_time": 1700392300,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 248820,
       "num": 248820,
       "word": "秦岚情绪稳定的东北粮仓",
@@ -1091,14 +1171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242386,
-      "num": 263460,
-      "word": "董明珠称放弃发财行业不搞金融地产",
-      "onboard_time": 1700391213,
-      "rank": 27,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 240904,
       "num": 240904,
       "word": "孟子义 综艺效果",
@@ -1137,22 +1209,6 @@
       "onboard_time": 1700379393,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 229354,
-      "num": 1399867,
-      "word": "00后送00后锦旗可以有多炸裂",
-      "onboard_time": 1700386418,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226236,
-      "num": 226236,
-      "word": "T1零封WBG",
-      "onboard_time": 1700392367,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 225486,
@@ -1380,7 +1436,7 @@
     },
     {
       "raw_hot": 195622,
-      "num": 195622,
+      "num": 199243,
       "word": "以爱为营",
       "onboard_time": 1700390497,
       "rank": 40,
@@ -1571,24 +1627,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169411,
-      "num": 169411,
-      "word": "EDG剧本",
-      "onboard_time": 1700392367,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 169330,
-      "num": 169330,
-      "word": "Uzi现场解说S13决赛",
-      "onboard_time": 1700391996,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 168852,
+      "num": 1561640,
+      "word": "西安街头热卖的两种美食不能一起吃",
+      "onboard_time": 1700393330,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167966,
-      "num": 1328631,
+      "num": 1611077,
       "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
       "onboard_time": 1700389053,
       "rank": 28,
@@ -1731,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148250,
+      "num": 199237,
+      "word": "王濛说WBG哀兵必胜",
+      "onboard_time": 1700386839,
+      "rank": 45,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 148068,
       "num": 148068,
       "word": "文俊辉丁程鑫泼水游戏看呆我",
@@ -1820,7 +1876,7 @@
     },
     {
       "raw_hot": 140057,
-      "num": 1614181,
+      "num": 5706539,
       "word": "下一个中国还是中国",
       "onboard_time": 1700361627,
       "rank": 2,
@@ -1875,6 +1931,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 135319,
+      "num": 199235,
+      "word": "BP 绝活",
+      "onboard_time": 1700393573,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 134422,
+      "num": 199234,
+      "word": "KPL",
+      "onboard_time": 1700393573,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134279,
       "num": 136646,
       "word": "哈兰德厄德高无缘欧洲杯",
@@ -1905,6 +1977,14 @@
       "onboard_time": 1700357970,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131587,
+      "num": 199248,
+      "word": "家长会上父亲坦言儿子是学渣",
+      "onboard_time": 1700393390,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130926,
