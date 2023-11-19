@@ -1,10 +1,10 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700382841504,
+  "endTime": 1700385361731,
   "band_list": [
     {
-      "raw_hot": 3842565,
-      "num": 3842565,
+      "raw_hot": 4224697,
+      "num": 4224697,
       "word": "WBG对战T1",
       "onboard_time": 1700379393,
       "rank": 0,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1387451,
-      "num": 487363,
+      "num": 498707,
       "word": "韩国网吧偶遇罗云熙",
       "onboard_time": 1700372550,
       "rank": 10,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824332,
+      "num": 824332,
+      "word": "宋轶生气会和朋友打十几小时电话",
+      "onboard_time": 1700378314,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 820567,
       "num": 820567,
       "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
       "onboard_time": 1700317832,
       "rank": 24,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 807814,
-      "num": 807814,
-      "word": "宋轶生气会和朋友打十几小时电话",
-      "onboard_time": 1700378314,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 806716,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641915,
+      "num": 641915,
+      "word": "时代少年团 女团舞",
+      "onboard_time": 1700384909,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 639428,
       "num": 639428,
       "word": "时代少年团 直播",
@@ -233,6 +241,14 @@
       "onboard_time": 1700363190,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 635912,
+      "num": 635912,
+      "word": "张家界遍地都是韩国人",
+      "onboard_time": 1700381494,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 611160,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 483689,
-      "num": 277579,
+      "num": 310685,
       "word": "腰真的一下子就舒服了",
       "onboard_time": 1700381494,
       "rank": 22,
@@ -345,6 +361,14 @@
       "onboard_time": 1700360369,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 459404,
+      "num": 631965,
+      "word": "六公主回应恶评",
+      "onboard_time": 1700383053,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 456559,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 432212,
-      "num": 276939,
+      "num": 308900,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
       "onboard_time": 1700376332,
       "rank": 20,
@@ -403,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 403657,
+      "num": 403657,
+      "word": "刘耀文胸前纹身贴",
+      "onboard_time": 1700385210,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 391810,
       "num": 391810,
       "word": "王栎鑫 笑到下巴脱臼",
@@ -411,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378928,
-      "num": 378928,
-      "word": "张家界遍地都是韩国人",
-      "onboard_time": 1700381494,
-      "rank": 17,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 376081,
       "num": 143554,
       "word": "知道皇帝为什么信任谢危了",
       "onboard_time": 1700356951,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 374926,
+      "num": 374926,
+      "word": "杨迪回应谢娜做的面不是剩的",
+      "onboard_time": 1700381732,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 372387,
@@ -504,6 +536,14 @@
       "word": "TheShy世界赛BO5面对外赛区百分百胜率",
       "onboard_time": 1700381193,
       "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 358927,
+      "num": 358927,
+      "word": "S13总决赛开幕式",
+      "onboard_time": 1700383116,
+      "rank": 16,
       "category": "电竞"
     },
     {
@@ -627,20 +667,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 278921,
-      "num": 278921,
-      "word": "杨迪回应谢娜做的面不是剩的",
-      "onboard_time": 1700381732,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272451,
       "num": 272451,
       "word": "萌兰打哈欠一张嘴血脉觉醒",
       "onboard_time": 1700317653,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270779,
+      "num": 270779,
+      "word": "Rita 评论席",
+      "onboard_time": 1700383172,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 268179,
@@ -721,6 +761,30 @@
       "onboard_time": 1700362291,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251078,
+      "num": 316098,
+      "word": "男子偷功德箱的钱称菩萨给我比了OK",
+      "onboard_time": 1700383532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248820,
+      "num": 248820,
+      "word": "秦岚情绪稳定的东北粮仓",
+      "onboard_time": 1700382155,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248174,
+      "num": 248174,
+      "word": "我本是高山",
+      "onboard_time": 1700384909,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 247796,
@@ -915,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201921,
+      "num": 201921,
+      "word": "本土文化",
+      "onboard_time": 1700384250,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200862,
       "num": 200862,
       "word": "雷霆vs勇士",
@@ -953,6 +1025,14 @@
       "onboard_time": 1700371708,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190839,
+      "num": 190839,
+      "word": "种地吧少年",
+      "onboard_time": 1700384732,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189441,
@@ -995,12 +1075,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 186201,
+      "num": 186201,
+      "word": "DYG战胜DRG",
+      "onboard_time": 1700384072,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185670,
       "num": 185670,
       "word": "似火流年 彪子请挨打",
       "onboard_time": 1700364328,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185141,
+      "num": 185141,
+      "word": "当问奶奶结婚有什么好处时",
+      "onboard_time": 1700381555,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182469,
+      "num": 203229,
+      "word": "四川眉山公布重大考古发现",
+      "onboard_time": 1700383475,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181159,
@@ -1027,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179688,
+      "num": 179688,
+      "word": "小鬼 美式男高造型",
+      "onboard_time": 1700382869,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 179105,
       "num": 179105,
       "word": "金瀚自我定位 有勇有谋",
@@ -1043,20 +1155,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 175367,
-      "num": 175367,
-      "word": "秦岚情绪稳定的东北粮仓",
-      "onboard_time": 1700382155,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174356,
       "num": 154107,
       "word": "德国2比3土耳其",
       "onboard_time": 1700359107,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173008,
+      "num": 173008,
+      "word": "Rise 请神",
+      "onboard_time": 1700384129,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 172616,
@@ -1088,6 +1200,14 @@
       "word": "张晚意向郑云龙科普8023",
       "onboard_time": 1700370929,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170278,
+      "num": 170278,
+      "word": "苏醒不给丁程鑫泼水的机会",
+      "onboard_time": 1700383294,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1155,12 +1275,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 155556,
-      "num": 155556,
-      "word": "当问奶奶结婚有什么好处时",
-      "onboard_time": 1700381555,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 155766,
+      "num": 155766,
+      "word": "景甜 如何走出心情低谷",
+      "onboard_time": 1700382512,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 155451,
@@ -1307,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139076,
+      "num": 139076,
+      "word": "管神发力",
+      "onboard_time": 1700383116,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138666,
       "num": 138666,
       "word": "民警连打63通电话救下轻生老人",
@@ -1403,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129013,
-      "num": 129013,
-      "word": "景甜 如何走出心情低谷",
-      "onboard_time": 1700382512,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128978,
       "num": 201361,
       "word": "你女朋友不洗头啊",
@@ -1451,6 +1571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118856,
+      "num": 118856,
+      "word": "章若楠羊毛卷自拍",
+      "onboard_time": 1700384189,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 116637,
+      "num": 116637,
+      "word": "税务师实务",
+      "onboard_time": 1700385330,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 114157,
       "num": 136650,
       "word": "时宴我心疼你",
@@ -1473,6 +1609,14 @@
       "onboard_time": 1700378252,
       "rank": 39,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 110958,
+      "num": 110958,
+      "word": "黑龙江大学惊现雪人三星堆",
+      "onboard_time": 1700384670,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109401,

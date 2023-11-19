@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 16:34:01
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 17:16:01
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@ BLG战胜GEN（热度：4273103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+WBG对战T1（热度：4224697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E8%89%BA%E4%BA%BA%E5%B7%B2%E5%81%9C%E6%92%AD%23" target="weibo">
 大批艺人已停播（热度：3878867）
 </a>
@@ -215,12 +221,6 @@ BLG战胜GEN（热度：4273103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B9%B3%E8%85%BA%E5%A4%96%E7%A7%91%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BA%BA%E6%82%A3%E7%99%8C%23" target="weibo">
 导师回应网传乳腺外科团队多人患癌（热度：3860827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-WBG对战T1（热度：3842565）
 </a>
 </li>
 
@@ -4605,6 +4605,12 @@ S13四强已有三支LPL战队（热度：837933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
+宋轶生气会和朋友打十几小时电话（热度：824332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%85%A5%E4%B8%80%E4%B8%8B%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
 代入一下关晓彤（热度：823473）
 </a>
@@ -4841,12 +4847,6 @@ Tabe哭了（热度：816314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%85%B0%E5%8D%9A%23" target="weibo">
 Bin兰博（热度：808039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
-宋轶生气会和朋友打十几小时电话（热度：807814）
 </a>
 </li>
 

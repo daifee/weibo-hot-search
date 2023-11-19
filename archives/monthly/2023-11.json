@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700382841504,
+  "endTime": 1700385361731,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -259,6 +259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 4224697,
+      "num": 4224697,
+      "word": "WBG对战T1",
+      "onboard_time": 1700379393,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 3878867,
       "num": 965646,
       "word": "大批艺人已停播",
@@ -273,14 +281,6 @@
       "onboard_time": 1699366535,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3842565,
-      "num": 3842565,
-      "word": "WBG对战T1",
-      "onboard_time": 1700379393,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 3794345,
@@ -2924,7 +2924,7 @@
     },
     {
       "raw_hot": 1387451,
-      "num": 487363,
+      "num": 498707,
       "word": "韩国网吧偶遇罗云熙",
       "onboard_time": 1700372550,
       "rank": 10,
@@ -6123,6 +6123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824332,
+      "num": 824332,
+      "word": "宋轶生气会和朋友打十几小时电话",
+      "onboard_time": 1700378314,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 823473,
       "num": 550197,
       "word": "代入一下关晓彤",
@@ -6441,14 +6449,6 @@
       "onboard_time": 1699002753,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 807814,
-      "num": 807814,
-      "word": "宋轶生气会和朋友打十几小时电话",
-      "onboard_time": 1700378314,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 807518,
@@ -8939,6 +8939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641915,
+      "num": 641915,
+      "word": "时代少年团 女团舞",
+      "onboard_time": 1700384909,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 640226,
       "num": 640226,
       "word": "中美元首一起看38年前的照片",
@@ -9041,6 +9049,14 @@
       "onboard_time": 1698834033,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 635912,
+      "num": 635912,
+      "word": "张家界遍地都是韩国人",
+      "onboard_time": 1700381494,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 635695,
@@ -12692,7 +12708,7 @@
     },
     {
       "raw_hot": 483689,
-      "num": 277579,
+      "num": 310685,
       "word": "腰真的一下子就舒服了",
       "onboard_time": 1700381494,
       "rank": 22,
@@ -13545,6 +13561,14 @@
       "onboard_time": 1698796955,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459404,
+      "num": 631965,
+      "word": "六公主回应恶评",
+      "onboard_time": 1700383053,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 459365,
@@ -14420,7 +14444,7 @@
     },
     {
       "raw_hot": 432212,
-      "num": 276939,
+      "num": 308900,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
       "onboard_time": 1700376332,
       "rank": 20,
@@ -15683,6 +15707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 403657,
+      "num": 403657,
+      "word": "刘耀文胸前纹身贴",
+      "onboard_time": 1700385210,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403525,
       "num": 459353,
       "word": "迪丽热巴 我能做任何事",
@@ -16875,14 +16907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378928,
-      "num": 378928,
-      "word": "张家界遍地都是韩国人",
-      "onboard_time": 1700381494,
-      "rank": 17,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 378892,
       "num": 378892,
       "word": "秦海璐在大象岩给花少每个人拍了照片",
@@ -17073,6 +17097,14 @@
       "onboard_time": 1700134595,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 374926,
+      "num": 374926,
+      "word": "杨迪回应谢娜做的面不是剩的",
+      "onboard_time": 1700381732,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 374922,
@@ -17945,6 +17977,14 @@
       "onboard_time": 1699798358,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 358927,
+      "num": 358927,
+      "word": "S13总决赛开幕式",
+      "onboard_time": 1700383116,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 358643,
@@ -22595,14 +22635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278921,
-      "num": 278921,
-      "word": "杨迪回应谢娜做的面不是剩的",
-      "onboard_time": 1700381732,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278813,
       "num": 226963,
       "word": "坚持吃核桃6个月会怎样",
@@ -23353,6 +23385,14 @@
       "onboard_time": 1698893072,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270779,
+      "num": 270779,
+      "word": "Rita 评论席",
+      "onboard_time": 1700383172,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 270729,
@@ -25011,6 +25051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251078,
+      "num": 316098,
+      "word": "男子偷功德箱的钱称菩萨给我比了OK",
+      "onboard_time": 1700383532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251022,
       "num": 251022,
       "word": "吼妻一时爽追妻火葬场",
@@ -25251,6 +25299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 248820,
+      "num": 248820,
+      "word": "秦岚情绪稳定的东北粮仓",
+      "onboard_time": 1700382155,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248615,
       "num": 248615,
       "word": "吗喽表情包",
@@ -25329,6 +25385,14 @@
       "onboard_time": 1700101116,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248174,
+      "num": 248174,
+      "word": "我本是高山",
+      "onboard_time": 1700228557,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 248084,
@@ -31267,6 +31331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201921,
+      "num": 201921,
+      "word": "本土文化",
+      "onboard_time": 1700384250,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201914,
       "num": 201914,
       "word": "vivo全球首发AI大模型手机",
@@ -33371,6 +33443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190839,
+      "num": 190839,
+      "word": "种地吧少年",
+      "onboard_time": 1700384732,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190826,
       "num": 175763,
       "word": "教育部回应课间10分钟被约束",
@@ -34475,6 +34555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186201,
+      "num": 186201,
+      "word": "DYG战胜DRG",
+      "onboard_time": 1700384072,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186130,
       "num": 186130,
       "word": "林诗栋蒯曼3比1林高远王曼昱",
@@ -34641,6 +34729,14 @@
       "onboard_time": 1698793765,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185141,
+      "num": 185141,
+      "word": "当问奶奶结婚有什么好处时",
+      "onboard_time": 1700381555,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 185092,
@@ -35067,6 +35163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182469,
+      "num": 203229,
+      "word": "四川眉山公布重大考古发现",
+      "onboard_time": 1700383475,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182426,
       "num": 182426,
       "word": "浙江一中学学生有了校内家长",
@@ -35473,6 +35577,14 @@
       "onboard_time": 1700321734,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179688,
+      "num": 179688,
+      "word": "小鬼 美式男高造型",
+      "onboard_time": 1700382869,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179606,
@@ -36203,14 +36315,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 175367,
-      "num": 175367,
-      "word": "秦岚情绪稳定的东北粮仓",
-      "onboard_time": 1700382155,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175351,
       "num": 164164,
       "word": "知情人回应河南武陟一中学踩踏事件",
@@ -36497,6 +36601,14 @@
       "onboard_time": 1700059114,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173008,
+      "num": 173008,
+      "word": "Rise 请神",
+      "onboard_time": 1700384129,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 172952,
@@ -37033,6 +37145,14 @@
       "onboard_time": 1698919594,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170278,
+      "num": 170278,
+      "word": "苏醒不给丁程鑫泼水的机会",
+      "onboard_time": 1700383294,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 170229,
@@ -39411,6 +39531,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 155766,
+      "num": 155766,
+      "word": "景甜 如何走出心情低谷",
+      "onboard_time": 1700382512,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155731,
       "num": 155731,
       "word": "泉州洛江区原区长水上餐厅就餐时落水身亡",
@@ -39457,14 +39585,6 @@
       "onboard_time": 1699979008,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155556,
-      "num": 155556,
-      "word": "当问奶奶结婚有什么好处时",
-      "onboard_time": 1700381555,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 155492,
@@ -41635,14 +41755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143250,
-      "num": 143250,
-      "word": "我本是高山",
-      "onboard_time": 1700228557,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143235,
       "num": 143235,
       "word": "秦岚说话像刘星分饼",
@@ -42304,6 +42416,14 @@
       "word": "TTG定妆照卡点",
       "onboard_time": 1699766910,
       "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 139076,
+      "num": 139076,
+      "word": "管神发力",
+      "onboard_time": 1700383116,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -44083,14 +44203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129013,
-      "num": 129013,
-      "word": "景甜 如何走出心情低谷",
-      "onboard_time": 1700382512,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129004,
       "num": 194155,
       "word": "母亲对家庭的奉献不是理所当然",
@@ -45859,6 +45971,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 118856,
+      "num": 118856,
+      "word": "章若楠羊毛卷自拍",
+      "onboard_time": 1700384189,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118849,
       "num": 118849,
       "word": "THE9再现出道公式照",
@@ -46137,6 +46257,14 @@
       "onboard_time": 1699159174,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 116637,
+      "num": 116637,
+      "word": "税务师实务",
+      "onboard_time": 1700385330,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 116553,
@@ -46864,6 +46992,14 @@
       "word": "有一种冷叫社区阿姨嫌你冷",
       "onboard_time": 1699256132,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110958,
+      "num": 110958,
+      "word": "黑龙江大学惊现雪人三星堆",
+      "onboard_time": 1700384670,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/19 16:34:01
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/19 17:16:01
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-WBG对战T1（热度：3842565）
+WBG对战T1（热度：4224697）
 </a>
 </li>
 
@@ -117,14 +117,14 @@ S13总决赛 比分预测（热度：1381350）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%A7%E7%9D%80%E5%A4%B8%E5%AD%A9%E5%AD%90100%E5%8F%A5%E5%BF%B5%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%8A%B2%E5%A4%B4%E5%8D%81%E8%B6%B3%23" target="weibo">
-妈妈照着夸孩子100句念孩子学习劲头十足（热度：820567）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
+宋轶生气会和朋友打十几小时电话（热度：824332）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
-宋轶生气会和朋友打十几小时电话（热度：807814）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%A7%E7%9D%80%E5%A4%B8%E5%AD%A9%E5%AD%90100%E5%8F%A5%E5%BF%B5%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%8A%B2%E5%A4%B4%E5%8D%81%E8%B6%B3%23" target="weibo">
+妈妈照着夸孩子100句念孩子学习劲头十足（热度：820567）
 </a>
 </li>
 
@@ -177,6 +177,12 @@ WBG 我们每个人都有不得不赢的理由（热度：770830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A5%B3%E5%9B%A2%E8%88%9E%23" target="weibo">
+时代少年团 女团舞（热度：641915）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E7%9B%B4%E6%92%AD%23" target="weibo">
 时代少年团 直播（热度：639428）
 </a>
@@ -185,6 +191,12 @@ WBG 我们每个人都有不得不赢的理由（热度：770830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A3%E7%8E%8B%20%E5%A7%AC%E5%8F%91%E6%83%B3%E8%A6%81%E6%88%91%E7%9A%84%E9%80%86%E5%AD%90%23" target="weibo">
 纣王 姬发想要我的逆子（热度：638974）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
+张家界遍地都是韩国人（热度：635912）
 </a>
 </li>
 
@@ -273,6 +285,12 @@ S13总决赛（热度：596618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84%23" target="weibo">
+六公主回应恶评（热度：459404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E8%AF%B7%E6%9D%A5%E4%BA%86%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E6%B2%88%E4%BD%B3%E5%AE%9C%23" target="weibo">
 胡夏请来了那些年一起追过的沈佳宜（热度：456559）
 </a>
@@ -315,20 +333,26 @@ Faker S13数据（热度：440654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%83%B8%E5%89%8D%E7%BA%B9%E8%BA%AB%E8%B4%B4%23" target="weibo">
+刘耀文胸前纹身贴（热度：403657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%20%E7%AC%91%E5%88%B0%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC%23" target="weibo">
 王栎鑫 笑到下巴脱臼（热度：391810）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
-张家界遍地都是韩国人（热度：378928）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E7%9A%87%E5%B8%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E4%BB%BB%E8%B0%A2%E5%8D%B1%E4%BA%86%23" target="weibo">
+知道皇帝为什么信任谢危了（热度：376081）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E7%9A%87%E5%B8%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E4%BB%BB%E8%B0%A2%E5%8D%B1%E4%BA%86%23" target="weibo">
-知道皇帝为什么信任谢危了（热度：376081）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E8%B0%A2%E5%A8%9C%E5%81%9A%E7%9A%84%E9%9D%A2%E4%B8%8D%E6%98%AF%E5%89%A9%E7%9A%84%23" target="weibo">
+杨迪回应谢娜做的面不是剩的（热度：374926）
 </a>
 </li>
 
@@ -389,6 +413,12 @@ Rookie直播提及Doinb（热度：365715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%E4%B8%96%E7%95%8C%E8%B5%9BBO5%E9%9D%A2%E5%AF%B9%E5%A4%96%E8%B5%9B%E5%8C%BA%E7%99%BE%E5%88%86%E7%99%BE%E8%83%9C%E7%8E%87%23" target="weibo">
 TheShy世界赛BO5面对外赛区百分百胜率（热度：359456）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23S13%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
+S13总决赛开幕式（热度：358927）
 </a>
 </li>
 
@@ -483,14 +513,14 @@ TheShy世界赛BO5面对外赛区百分百胜率（热度：359456）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E8%B0%A2%E5%A8%9C%E5%81%9A%E7%9A%84%E9%9D%A2%E4%B8%8D%E6%98%AF%E5%89%A9%E7%9A%84%23" target="weibo">
-杨迪回应谢娜做的面不是剩的（热度：278921）
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E6%89%93%E5%93%88%E6%AC%A0%E4%B8%80%E5%BC%A0%E5%98%B4%E8%A1%80%E8%84%89%E8%A7%89%E9%86%92%23" target="weibo">
+萌兰打哈欠一张嘴血脉觉醒（热度：272451）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E6%89%93%E5%93%88%E6%AC%A0%E4%B8%80%E5%BC%A0%E5%98%B4%E8%A1%80%E8%84%89%E8%A7%89%E9%86%92%23" target="weibo">
-萌兰打哈欠一张嘴血脉觉醒（热度：272451）
+<a href="https://s.weibo.com/weibo?q=%23Rita%20%E8%AF%84%E8%AE%BA%E5%B8%AD%23" target="weibo">
+Rita 评论席（热度：270779）
 </a>
 </li>
 
@@ -551,6 +581,24 @@ cp30（热度：262618）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E6%83%B3%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
 杜兰特想恋爱了（热度：255802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E5%8A%9F%E5%BE%B7%E7%AE%B1%E7%9A%84%E9%92%B1%E7%A7%B0%E8%8F%A9%E8%90%A8%E7%BB%99%E6%88%91%E6%AF%94%E4%BA%86OK%23" target="weibo">
+男子偷功德箱的钱称菩萨给我比了OK（热度：251078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%B8%9C%E5%8C%97%E7%B2%AE%E4%BB%93%23" target="weibo">
+秦岚情绪稳定的东北粮仓（热度：248820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%23" target="weibo">
+我本是高山（热度：248174）
 </a>
 </li>
 
@@ -699,6 +747,12 @@ DRG对战DYG（热度：213792）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%9C%9F%E6%96%87%E5%8C%96%23" target="weibo">
+本土文化（热度：201921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB%23" target="weibo">
 雷霆vs勇士（热度：200862）
 </a>
@@ -725,6 +779,12 @@ DRG对战DYG（热度：213792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%9A%E9%81%93%23" target="weibo">
 春晚有没有大学生通道（热度：190990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E5%B0%91%E5%B9%B4%23" target="weibo">
+种地吧少年（热度：190839）
 </a>
 </li>
 
@@ -759,8 +819,26 @@ DRG对战DYG（热度：213792）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DYG%E6%88%98%E8%83%9CDRG%23" target="weibo">
+DYG战胜DRG（热度：186201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%BC%E7%81%AB%E6%B5%81%E5%B9%B4%20%E5%BD%AA%E5%AD%90%E8%AF%B7%E6%8C%A8%E6%89%93%23" target="weibo">
 似火流年 彪子请挨打（热度：185670）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%97%AE%E5%A5%B6%E5%A5%B6%E7%BB%93%E5%A9%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%E6%97%B6%23" target="weibo">
+当问奶奶结婚有什么好处时（热度：185141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9C%89%E5%B1%B1%E5%85%AC%E5%B8%83%E9%87%8D%E5%A4%A7%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%23" target="weibo">
+四川眉山公布重大考古发现（热度：182469）
 </a>
 </li>
 
@@ -783,6 +861,12 @@ DRG对战DYG（热度：213792）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%20%E7%BE%8E%E5%BC%8F%E7%94%B7%E9%AB%98%E9%80%A0%E5%9E%8B%23" target="weibo">
+小鬼 美式男高造型（热度：179688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%80%9A%E8%87%AA%E6%88%91%E5%AE%9A%E4%BD%8D%20%E6%9C%89%E5%8B%87%E6%9C%89%E8%B0%8B%23" target="weibo">
 金瀚自我定位 有勇有谋（热度：179105）
 </a>
@@ -795,14 +879,14 @@ DRG对战DYG（热度：213792）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%B8%9C%E5%8C%97%E7%B2%AE%E4%BB%93%23" target="weibo">
-秦岚情绪稳定的东北粮仓（热度：175367）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD2%E6%AF%943%E5%9C%9F%E8%80%B3%E5%85%B6%23" target="weibo">
+德国2比3土耳其（热度：174356）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD2%E6%AF%943%E5%9C%9F%E8%80%B3%E5%85%B6%23" target="weibo">
-德国2比3土耳其（热度：174356）
+<a href="https://s.weibo.com/weibo?q=%23Rise%20%E8%AF%B7%E7%A5%9E%23" target="weibo">
+Rise 请神（热度：173008）
 </a>
 </li>
 
@@ -827,6 +911,12 @@ DRG对战DYG（热度：213792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E5%90%91%E9%83%91%E4%BA%91%E9%BE%99%E7%A7%91%E6%99%AE8023%23" target="weibo">
 张晚意向郑云龙科普8023（热度：171054）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E4%B8%8D%E7%BB%99%E4%B8%81%E7%A8%8B%E9%91%AB%E6%B3%BC%E6%B0%B4%E7%9A%84%E6%9C%BA%E4%BC%9A%23" target="weibo">
+苏醒不给丁程鑫泼水的机会（热度：170278）
 </a>
 </li>
 
@@ -879,8 +969,8 @@ DRG对战DYG（热度：213792）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%97%AE%E5%A5%B6%E5%A5%B6%E7%BB%93%E5%A9%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%E6%97%B6%23" target="weibo">
-当问奶奶结婚有什么好处时（热度：155556）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%20%E5%A6%82%E4%BD%95%E8%B5%B0%E5%87%BA%E5%BF%83%E6%83%85%E4%BD%8E%E8%B0%B7%23" target="weibo">
+景甜 如何走出心情低谷（热度：155766）
 </a>
 </li>
 
@@ -993,6 +1083,12 @@ DRG对战DYG（热度：213792）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E7%A5%9E%E5%8F%91%E5%8A%9B%23" target="weibo">
+管神发力（热度：139076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%BF%9E%E6%89%9363%E9%80%9A%E7%94%B5%E8%AF%9D%E6%95%91%E4%B8%8B%E8%BD%BB%E7%94%9F%E8%80%81%E4%BA%BA%23" target="weibo">
 民警连打63通电话救下轻生老人（热度：138666）
 </a>
@@ -1065,12 +1161,6 @@ AG战胜DRG（热度：138482）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%20%E5%A6%82%E4%BD%95%E8%B5%B0%E5%87%BA%E5%BF%83%E6%83%85%E4%BD%8E%E8%B0%B7%23" target="weibo">
-景甜 如何走出心情低谷（热度：129013）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%B3%E6%9C%8B%E5%8F%8B%E4%B8%8D%E6%B4%97%E5%A4%B4%E5%95%8A%23" target="weibo">
 你女朋友不洗头啊（热度：128978）
 </a>
@@ -1101,6 +1191,18 @@ KARINA DRAMA直拍（热度：120774）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%BE%8A%E6%AF%9B%E5%8D%B7%E8%87%AA%E6%8B%8D%23" target="weibo">
+章若楠羊毛卷自拍（热度：118856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E5%B8%88%E5%AE%9E%E5%8A%A1%23" target="weibo">
+税务师实务（热度：116637）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E6%88%91%E5%BF%83%E7%96%BC%E4%BD%A0%23" target="weibo">
 时宴我心疼你（热度：114157）
 </a>
@@ -1115,6 +1217,12 @@ WBG与T1登神之战（热度：112525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E6%8C%91%E6%88%98%E5%8D%8A%E9%A9%AC%23" target="weibo">
 周润发挑战半马（热度：112407）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%83%8A%E7%8E%B0%E9%9B%AA%E4%BA%BA%E4%B8%89%E6%98%9F%E5%A0%86%23" target="weibo">
+黑龙江大学惊现雪人三星堆（热度：110958）
 </a>
 </li>
 
