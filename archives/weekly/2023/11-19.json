@@ -1,7 +1,23 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700379246408,
+  "endTime": 1700382035684,
   "band_list": [
+    {
+      "raw_hot": 3498364,
+      "num": 888719,
+      "word": "六公主回应我本是高山争议",
+      "onboard_time": 1700379210,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2981147,
+      "num": 2981147,
+      "word": "WBG对战T1",
+      "onboard_time": 1700379393,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 2588889,
       "num": 2588889,
@@ -52,11 +68,19 @@
     },
     {
       "raw_hot": 1387451,
-      "num": 393748,
+      "num": 487363,
       "word": "韩国网吧偶遇罗云熙",
       "onboard_time": 1700372550,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1381350,
+      "num": 1381350,
+      "word": "S13总决赛 比分预测",
+      "onboard_time": 1700378492,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1290438,
@@ -65,14 +89,6 @@
       "onboard_time": 1700366188,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1138452,
-      "num": 1138452,
-      "word": "S13总决赛 比分预测",
-      "onboard_time": 1700378492,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 1095923,
@@ -89,6 +105,14 @@
       "onboard_time": 1700374410,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 931425,
+      "num": 931425,
+      "word": "夫妻投资2千万盘活烂尾楼被刑拘",
+      "onboard_time": 1700378612,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 899026,
@@ -121,6 +145,14 @@
       "onboard_time": 1700317832,
       "rank": 24,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 807814,
+      "num": 807814,
+      "word": "宋轶生气会和朋友打十几小时电话",
+      "onboard_time": 1700378314,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 806716,
@@ -161,14 +193,6 @@
       "onboard_time": 1700375190,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699599,
-      "num": 699599,
-      "word": "宋轶生气会和朋友打十几小时电话",
-      "onboard_time": 1700378314,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 687643,
@@ -225,6 +249,14 @@
       "onboard_time": 1700361269,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596618,
+      "num": 596618,
+      "word": "S13总决赛",
+      "onboard_time": 1700380410,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 594240,
@@ -339,6 +371,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440654,
+      "num": 440654,
+      "word": "Faker S13数据",
+      "onboard_time": 1700381193,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 432212,
+      "num": 246116,
+      "word": "女子换衣时发现胸部异常确诊淋巴癌",
+      "onboard_time": 1700376332,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430612,
       "num": 430612,
       "word": "张桂梅 精神内核",
@@ -347,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 425187,
-      "num": 187772,
-      "word": "女子换衣时发现胸部异常确诊淋巴癌",
-      "onboard_time": 1700376332,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 429617,
+      "num": 245005,
+      "word": "腰真的一下子就舒服了",
+      "onboard_time": 1700381494,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 391810,
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 362712,
-      "num": 362712,
+      "num": 524484,
       "word": "警方提醒捡到这种卡速销毁",
       "onboard_time": 1700371888,
       "rank": 31,
@@ -441,6 +489,14 @@
       "onboard_time": 1700295753,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359456,
+      "num": 244359,
+      "word": "TheShy世界赛BO5面对外赛区百分百胜率",
+      "onboard_time": 1700381193,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 355440,
@@ -595,14 +651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 262581,
-      "num": 262581,
-      "word": "六公主回应我本是高山争议",
-      "onboard_time": 1700379210,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 261890,
       "num": 261890,
       "word": "好馆子 评分3.8到4之间",
@@ -659,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255095,
-      "num": 324476,
-      "word": "夫妻投资2千万盘活烂尾楼被刑拘",
-      "onboard_time": 1700378612,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 249045,
+      "num": 249045,
+      "word": "张家界遍地都是韩国人",
+      "onboard_time": 1700381494,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 247796,
@@ -683,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246034,
+      "num": 246034,
+      "word": "丁程鑫说我只想赶紧跳舞",
+      "onboard_time": 1700379393,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244135,
       "num": 244135,
       "word": "李晨 这是生态篇不是心态篇",
@@ -697,6 +753,14 @@
       "onboard_time": 1700368109,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 242458,
+      "num": 242458,
+      "word": "宋亚轩贺峻霖说相声",
+      "onboard_time": 1700381976,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 240904,
@@ -763,6 +827,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215319,
+      "num": 215319,
+      "word": "网友锐评我本是高山",
+      "onboard_time": 1700379331,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213792,
+      "num": 213792,
+      "word": "DRG对战DYG",
+      "onboard_time": 1700380771,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212063,
       "num": 212063,
       "word": "萧敬腾 有小小恋爱脑的成熟男人",
@@ -801,6 +881,14 @@
       "onboard_time": 1700367208,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201639,
+      "num": 201639,
+      "word": "用开水烫餐具有没有必要",
+      "onboard_time": 1700379393,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 200862,
@@ -891,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185512,
+      "num": 185512,
+      "word": "杨迪回应谢娜做的面不是剩的",
+      "onboard_time": 1700381732,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181159,
       "num": 181159,
       "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
@@ -968,6 +1064,14 @@
       "word": "房东的猫演唱会嘉宾是马頔",
       "onboard_time": 1700328024,
       "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169903,
+      "num": 169903,
+      "word": "马嘉祺爱心露背拖尾礼服",
+      "onboard_time": 1700381976,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -1107,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145068,
+      "num": 145068,
+      "word": "谢危跌进姜雪宁怀里",
+      "onboard_time": 1700380290,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144726,
       "num": 144726,
       "word": "新闻女王",
@@ -1211,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133667,
+      "num": 133667,
+      "word": "崔然竣跳了rush hour",
+      "onboard_time": 1700381976,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133252,
       "num": 133252,
       "word": "没有边界感的小狗",
@@ -1291,12 +1411,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119839,
+      "num": 119839,
+      "word": "医院候诊室安排植物大战僵尸解闷",
+      "onboard_time": 1700380410,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115037,
+      "num": 115037,
+      "word": "当问奶奶结婚有什么好处时",
+      "onboard_time": 1700381555,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114157,
       "num": 136650,
       "word": "时宴我心疼你",
       "onboard_time": 1700362709,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112525,
+      "num": 112525,
+      "word": "WBG与T1登神之战",
+      "onboard_time": 1700379992,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 112407,
@@ -1321,6 +1465,14 @@
       "onboard_time": 1700373750,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106286,
+      "num": 106286,
+      "word": "帮老人点一份不要辣的",
+      "onboard_time": 1700381794,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106096,
@@ -1537,6 +1689,14 @@
       "onboard_time": 1700362769,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80541,
+      "num": 246129,
+      "word": "LPL粉丝花式应援",
+      "onboard_time": 1700379754,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 77598,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700379246408,
+  "endTime": 1700382035684,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -339,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 3498364,
+      "num": 888719,
+      "word": "六公主回应我本是高山争议",
+      "onboard_time": 1700379210,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3471365,
       "num": 3471365,
       "word": "中美元首会晤",
@@ -481,6 +489,14 @@
       "onboard_time": 1700141263,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2981147,
+      "num": 2981147,
+      "word": "WBG对战T1",
+      "onboard_time": 1700379393,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2969153,
@@ -2908,7 +2924,7 @@
     },
     {
       "raw_hot": 1387451,
-      "num": 393748,
+      "num": 487363,
       "word": "韩国网吧偶遇罗云熙",
       "onboard_time": 1700372550,
       "rank": 10,
@@ -2920,6 +2936,14 @@
       "word": "李佳航 意难平",
       "onboard_time": 1699152993,
       "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1381350,
+      "num": 1381350,
+      "word": "S13总决赛 比分预测",
+      "onboard_time": 1700378492,
+      "rank": 1,
       "category": "电竞"
     },
     {
@@ -3977,14 +4001,6 @@
       "onboard_time": 1700089702,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1138452,
-      "num": 1138452,
-      "word": "S13总决赛 比分预测",
-      "onboard_time": 1700378492,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 1137514,
@@ -5185,6 +5201,14 @@
       "onboard_time": 1699951895,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 931425,
+      "num": 931425,
+      "word": "夫妻投资2千万盘活烂尾楼被刑拘",
+      "onboard_time": 1700378612,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929303,
@@ -6417,6 +6441,14 @@
       "onboard_time": 1699002753,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 807814,
+      "num": 807814,
+      "word": "宋轶生气会和朋友打十几小时电话",
+      "onboard_time": 1700378314,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 807518,
@@ -8064,14 +8096,6 @@
       "word": "黄晓明被说油的那阵赶上沈腾上网了",
       "onboard_time": 1699058671,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 699599,
-      "num": 699599,
-      "word": "宋轶生气会和朋友打十几小时电话",
-      "onboard_time": 1700378314,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -9929,6 +9953,14 @@
       "onboard_time": 1699265254,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596618,
+      "num": 596618,
+      "word": "S13总决赛",
+      "onboard_time": 1700380410,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 596526,
@@ -14075,6 +14107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440654,
+      "num": 440654,
+      "word": "Faker S13数据",
+      "onboard_time": 1700381193,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 440162,
       "num": 440162,
       "word": "张婧仪长眼线",
@@ -14371,6 +14411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432212,
+      "num": 246116,
+      "word": "女子换衣时发现胸部异常确诊淋巴癌",
+      "onboard_time": 1700376332,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432136,
       "num": 432136,
       "word": "校方称明光忠不是北大学生",
@@ -14489,6 +14537,14 @@
       "onboard_time": 1699534833,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429617,
+      "num": 245005,
+      "word": "腰真的一下子就舒服了",
+      "onboard_time": 1700381494,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 429167,
@@ -14617,14 +14673,6 @@
       "onboard_time": 1699791632,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 425187,
-      "num": 187772,
-      "word": "女子换衣时发现胸部异常确诊淋巴癌",
-      "onboard_time": 1700376332,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424831,
@@ -17660,7 +17708,7 @@
     },
     {
       "raw_hot": 362712,
-      "num": 362712,
+      "num": 524484,
       "word": "警方提醒捡到这种卡速销毁",
       "onboard_time": 1700371888,
       "rank": 31,
@@ -17841,6 +17889,14 @@
       "onboard_time": 1699615829,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359456,
+      "num": 244359,
+      "word": "TheShy世界赛BO5面对外赛区百分百胜率",
+      "onboard_time": 1700381193,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 359355,
@@ -23891,14 +23947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262581,
-      "num": 262581,
-      "word": "六公主回应我本是高山争议",
-      "onboard_time": 1700379210,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 262570,
       "num": 262570,
       "word": "沈腾解释回复消息慢的原因",
@@ -24571,14 +24619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255095,
-      "num": 324476,
-      "word": "夫妻投资2千万盘活烂尾楼被刑拘",
-      "onboard_time": 1700378612,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254967,
       "num": 254967,
       "word": "杜华回关了没",
@@ -25187,6 +25227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249045,
+      "num": 249045,
+      "word": "张家界遍地都是韩国人",
+      "onboard_time": 1700381494,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 248974,
       "num": 760864,
       "word": "欢迎继续投资中国深耕中国",
@@ -25513,6 +25561,14 @@
       "onboard_time": 1700023356,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 246034,
+      "num": 246034,
+      "word": "丁程鑫说我只想赶紧跳舞",
+      "onboard_time": 1700379393,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 245924,
@@ -25921,6 +25977,14 @@
       "onboard_time": 1699180364,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242458,
+      "num": 242458,
+      "word": "宋亚轩贺峻霖说相声",
+      "onboard_time": 1700381976,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 242455,
@@ -28947,6 +29011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 215319,
+      "num": 215319,
+      "word": "网友锐评我本是高山",
+      "onboard_time": 1700379331,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215287,
       "num": 215287,
       "word": "周深演唱宁安如梦主题曲借梦",
@@ -29153,6 +29225,14 @@
       "onboard_time": 1699506576,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213792,
+      "num": 213792,
+      "word": "DRG对战DYG",
+      "onboard_time": 1700380771,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 213778,
@@ -31209,6 +31289,14 @@
       "onboard_time": 1699229496,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201639,
+      "num": 201639,
+      "word": "用开水烫餐具有没有必要",
+      "onboard_time": 1700379393,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 201504,
@@ -34451,6 +34539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185512,
+      "num": 185512,
+      "word": "杨迪回应谢娜做的面不是剩的",
+      "onboard_time": 1700381732,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185472,
       "num": 185472,
       "word": "aespa DRAMA音中舞台",
@@ -36977,6 +37073,14 @@
       "onboard_time": 1699670251,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169903,
+      "num": 169903,
+      "word": "马嘉祺爱心露背拖尾礼服",
+      "onboard_time": 1700381976,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 169862,
@@ -41147,6 +41251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145068,
+      "num": 145068,
+      "word": "谢危跌进姜雪宁怀里",
+      "onboard_time": 1700380290,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145058,
       "num": 145058,
       "word": "令人心动的offer",
@@ -43073,6 +43185,14 @@
       "onboard_time": 1699336292,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133667,
+      "num": 133667,
+      "word": "崔然竣跳了rush hour",
+      "onboard_time": 1700381976,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 133662,
@@ -45499,6 +45619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119839,
+      "num": 119839,
+      "word": "医院候诊室安排植物大战僵尸解闷",
+      "onboard_time": 1700380410,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119826,
       "num": 119826,
       "word": "杨幂细闪眼妆",
@@ -46235,6 +46363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115037,
+      "num": 115037,
+      "word": "当问奶奶结婚有什么好处时",
+      "onboard_time": 1700381555,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114792,
       "num": 114792,
       "word": "无价之宝",
@@ -46480,6 +46616,14 @@
       "word": "把力量借给WBG",
       "onboard_time": 1700220991,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112525,
+      "num": 112525,
+      "word": "WBG与T1登神之战",
+      "onboard_time": 1700379992,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -47201,6 +47345,14 @@
       "onboard_time": 1699419936,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106286,
+      "num": 106286,
+      "word": "帮老人点一份不要辣的",
+      "onboard_time": 1700381794,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106150,
@@ -49281,6 +49433,14 @@
       "onboard_time": 1699792056,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80541,
+      "num": 246129,
+      "word": "LPL粉丝花式应援",
+      "onboard_time": 1700379754,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 80462,
