@@ -1,0 +1,410 @@
+{
+  "runTime": 1700375657337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153551,
+        "num": 1153551,
+        "word": "我本是高山编剧回应",
+        "onboard_time": 1700364152,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 990739,
+        "num": 990739,
+        "word": "权志龙毛发鉴定结果为阴性",
+        "onboard_time": 1700374410,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52627,
+        "num": 917569,
+        "word": "这件彩陶盆有5000年前黄河边跳舞画面",
+        "onboard_time": 1700361150,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896900,
+        "num": 896900,
+        "word": "胡歌刘涛争论用完的手纸是否带走",
+        "onboard_time": 1700371708,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660834,
+        "num": 660834,
+        "word": "男子丢失30万手机女子捡到以为老年机",
+        "onboard_time": 1700359350,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639428,
+        "num": 639428,
+        "word": "时代少年团 直播",
+        "onboard_time": 1700374951,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394043,
+        "num": 394043,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385395,
+        "num": 385395,
+        "word": "金靖 上海的冬天就像谢危",
+        "onboard_time": 1700370390,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372535,
+        "num": 372535,
+        "word": "WBG 我们每个人都有不得不赢的理由",
+        "onboard_time": 1700366369,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 362712,
+        "num": 362712,
+        "word": "警方提醒捡到这种卡速销毁",
+        "onboard_time": 1700371888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325458,
+        "num": 355509,
+        "word": "韩国网吧偶遇罗云熙",
+        "onboard_time": 1700372550,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787270,
+        "num": 353743,
+        "word": "郭碧婷参加婚礼合影",
+        "onboard_time": 1700374471,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611160,
+        "num": 350579,
+        "word": "陈都灵 马上表演白月光砸缸",
+        "onboard_time": 1700373329,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 341225,
+        "num": 341225,
+        "word": "辽宁男篮支持张镇麟捍卫权益",
+        "onboard_time": 1700373391,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338942,
+        "num": 338942,
+        "word": "网红夫妇回应售楼处维权被抢手机",
+        "onboard_time": 1700367689,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324296,
+        "num": 324296,
+        "word": "演唱会购票强实名后抢票变容易了吗",
+        "onboard_time": 1700368231,
+        "rank": 15,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 284581,
+        "num": 284581,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261890,
+        "num": 261890,
+        "word": "好馆子 评分3.8到4之间",
+        "onboard_time": 1700373449,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244660,
+        "num": 244660,
+        "word": "柳岩 不是我不懂搭配",
+        "onboard_time": 1700374230,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233296,
+        "num": 233296,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700363732,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265773,
+        "num": 233201,
+        "word": "张凌赫一秒认出王鹤棣",
+        "onboard_time": 1700374410,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231617,
+        "num": 231617,
+        "word": "纣王 姬发想要我的逆子",
+        "onboard_time": 1700363190,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216830,
+        "num": 216830,
+        "word": "花花等谭爷爷一起下班",
+        "onboard_time": 1700361269,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203433,
+        "num": 203433,
+        "word": "32岁女子9年花费近27万吃海底捞",
+        "onboard_time": 1700375612,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185755,
+        "num": 185755,
+        "word": "税务师 计算器快按冒烟了",
+        "onboard_time": 1700366188,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215147,
+        "num": 179546,
+        "word": "白鹿哭戏",
+        "onboard_time": 1700374471,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199020,
+        "num": 178733,
+        "word": "于正回复只出大女主剧",
+        "onboard_time": 1700373814,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192444,
+        "num": 175984,
+        "word": "闫妮新片 谁偷我的狗要谁狗命",
+        "onboard_time": 1700372669,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171995,
+        "num": 171995,
+        "word": "星舰内部是六层豪宅",
+        "onboard_time": 1700374889,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169711,
+        "num": 169711,
+        "word": "190斤女子摔伤被众人合力从6楼抬下就医",
+        "onboard_time": 1700366069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203136,
+        "num": 169359,
+        "word": "危宁大婚造型",
+        "onboard_time": 1700375190,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170096,
+        "num": 168983,
+        "word": "孟子义 综艺效果",
+        "onboard_time": 1700371228,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167873,
+        "num": 167873,
+        "word": "杨迪吃过最好吃的面",
+        "onboard_time": 1700374769,
+        "rank": 32,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 156071,
+        "num": 156071,
+        "word": "春晚有没有大学生通道",
+        "onboard_time": 1700371708,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152316,
+        "num": 152316,
+        "word": "6岁女孩在横店当童漂4个月赚250元",
+        "onboard_time": 1700375190,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151522,
+        "num": 151522,
+        "word": "乔妍的心事 开机",
+        "onboard_time": 1700370449,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145296,
+        "num": 145296,
+        "word": "王鹤棣头发这么长了",
+        "onboard_time": 1700362108,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142272,
+        "num": 142272,
+        "word": "曾黎梅婷马伊俐合影",
+        "onboard_time": 1700371888,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140073,
+        "num": 140073,
+        "word": "龚俊看自己吻戏的反应",
+        "onboard_time": 1700374889,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138453,
+        "num": 138453,
+        "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
+        "onboard_time": 1700368109,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134527,
+        "num": 134527,
+        "word": "大批球迷深圳机场接机韩国队",
+        "onboard_time": 1700372669,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134315,
+        "num": 134315,
+        "word": "公厕蹲坑比马桶更卫生吗",
+        "onboard_time": 1700368109,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131490,
+        "num": 131490,
+        "word": "干燥皮肤急救法",
+        "onboard_time": 1700374591,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134100,
+        "num": 131140,
+        "word": "张桂梅 精神内核",
+        "onboard_time": 1700367990,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129341,
+        "num": 129341,
+        "word": "婚宴现场宾客晕倒伴娘跪地紧急施救",
+        "onboard_time": 1700374293,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127973,
+        "num": 127973,
+        "word": "张远看到蔡国庆一秒返祖",
+        "onboard_time": 1700371410,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125441,
+        "num": 125441,
+        "word": "导盲犬带主人吃火锅迷路",
+        "onboard_time": 1700369431,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113754,
+        "num": 113754,
+        "word": "谢危 无代餐",
+        "onboard_time": 1700369489,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107724,
+        "num": 107724,
+        "word": "中国渔船在日本海域倾覆致5人失踪",
+        "onboard_time": 1700367930,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93726,
+        "num": 106783,
+        "word": "学校期中给3000名学生发甘蔗鲤鱼",
+        "onboard_time": 1700366489,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样擘画亚太发展#"
+    }
+  }
+}

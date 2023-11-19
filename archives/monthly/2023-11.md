@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 14:21:36
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 14:34:17
 </p>
 </blockquote>
 <p>
@@ -3615,6 +3615,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%AF%9B%E5%8F%91%E9%89%B4%E5%AE%9A%E7%BB%93%E6%9E%9C%E4%B8%BA%E9%98%B4%E6%80%A7%23" target="weibo">
+权志龙毛发鉴定结果为阴性（热度：990739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4%E9%99%88%E6%A5%9A%E7%94%9F%E6%8B%BF%E4%BA%86%E6%8A%AB%E5%93%A5%E5%86%A0%E5%86%9B%E4%B8%8D%E6%83%B3%E8%B7%9F%E4%BB%96%E4%BB%AC%E8%B5%B0%E4%B8%80%E8%B5%B7%23" target="weibo">
 苏醒说陈楚生拿了披哥冠军不想跟他们走一起（热度：989771）
 </a>
@@ -4043,6 +4049,12 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23" target="weibo">
 7款APP全网下架（热度：897081）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA%E7%94%A8%E5%AE%8C%E7%9A%84%E6%89%8B%E7%BA%B8%E6%98%AF%E5%90%A6%E5%B8%A6%E8%B5%B0%23" target="weibo">
+胡歌刘涛争论用完的手纸是否带走（热度：896900）
 </a>
 </li>
 
@@ -4995,6 +5007,12 @@ MISSING哭了（热度：788264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%88%E5%BD%B1%23" target="weibo">
+郭碧婷参加婚礼合影（热度：787270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E4%B8%80%E6%95%99%E5%B8%88%E5%9C%A8%E6%A0%A1%E8%87%AA%E6%9D%80%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
 东莞一教师在校自杀学生家长发声（热度：787130）
 </a>
@@ -5003,12 +5021,6 @@ MISSING哭了（热度：788264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%BC%80%E6%92%AD%E5%85%AB%E5%91%A8%E5%B9%B4%23" target="weibo">
 请回答1988开播八周年（热度：786830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%88%98%E6%B6%9B%E4%BA%89%E8%AE%BA%E7%94%A8%E5%AE%8C%E7%9A%84%E6%89%8B%E7%BA%B8%E6%98%AF%E5%90%A6%E5%B8%A6%E8%B5%B0%23" target="weibo">
-胡歌刘涛争论用完的手纸是否带走（热度：786138）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%20%E6%97%A0%E6%B3%95%E8%B6%85%E8%B6%8A%E7%9A%84%E4%BC%A0%E5%A5%87%23" target="weibo">
 李相夷 无法超越的传奇（热度：701364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Xiaohu%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E8%B5%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
-Xiaohu首次晋级世界赛决赛（热度：701094）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%97%98%E4%B8%8E%E8%BA%AB%E4%BD%93%E5%99%A8%E5%AE%98%E7%9A%84%E8%81%94%E7%B3%BB%23" target="weibo">
-长痘与身体器官的联系（热度：700546）
 </a>
 </li>
 

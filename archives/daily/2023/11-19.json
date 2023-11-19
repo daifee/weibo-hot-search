@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700374896367,
+  "endTime": 1700375657337,
   "band_list": [
     {
       "raw_hot": 2588889,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1387451,
-      "num": 314496,
+      "num": 355509,
       "word": "韩国网吧偶遇罗云熙",
       "onboard_time": 1700372550,
       "rank": 10,
@@ -59,11 +59,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 990739,
+      "num": 990739,
+      "word": "权志龙毛发鉴定结果为阴性",
+      "onboard_time": 1700374410,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899026,
       "num": 481609,
       "word": "秦岚声带受损其实自己很沮丧",
       "onboard_time": 1700319096,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 896900,
+      "num": 896900,
+      "word": "胡歌刘涛争论用完的手纸是否带走",
+      "onboard_time": 1700371708,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -91,12 +107,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 786138,
-      "num": 786138,
-      "word": "胡歌刘涛争论用完的手纸是否带走",
-      "onboard_time": 1700371708,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 787270,
+      "num": 353743,
+      "word": "郭碧婷参加婚礼合影",
+      "onboard_time": 1700374471,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 775739,
@@ -131,11 +147,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 670531,
-      "num": 307675,
-      "word": "郭碧婷参加婚礼合影",
-      "onboard_time": 1700374471,
-      "rank": 11,
+      "raw_hot": 639428,
+      "num": 639428,
+      "word": "时代少年团 直播",
+      "onboard_time": 1700374951,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -145,6 +161,14 @@
       "onboard_time": 1700363190,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 611160,
+      "num": 350579,
+      "word": "陈都灵 马上表演白月光砸缸",
+      "onboard_time": 1700373329,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 604860,
@@ -185,14 +209,6 @@
       "onboard_time": 1700320655,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558576,
-      "num": 301878,
-      "word": "陈都灵 马上表演白月光砸缸",
-      "onboard_time": 1700373329,
-      "rank": 12,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 544069,
@@ -355,6 +371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 362712,
+      "num": 362712,
+      "word": "警方提醒捡到这种卡速销毁",
+      "onboard_time": 1700371888,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361743,
       "num": 361743,
       "word": "金子涵 断层第一退团",
@@ -403,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341225,
+      "num": 341225,
+      "word": "辽宁男篮支持张镇麟捍卫权益",
+      "onboard_time": 1700373391,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338583,
       "num": 338583,
       "word": "吴世勋说中文不烫嘴",
       "onboard_time": 1700319274,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 333626,
-      "num": 333626,
-      "word": "警方提醒捡到这种卡速销毁",
-      "onboard_time": 1700371888,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320054,
@@ -443,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 315881,
-      "num": 315881,
-      "word": "辽宁男篮支持张镇麟捍卫权益",
-      "onboard_time": 1700373391,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 301093,
       "num": 503848,
       "word": "原来普通话是河北方言",
@@ -475,14 +491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 280418,
-      "num": 280418,
-      "word": "权志龙毛发鉴定结果为阴性",
-      "onboard_time": 1700374410,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272451,
       "num": 272451,
       "word": "萌兰打哈欠一张嘴血脉觉醒",
@@ -496,6 +504,14 @@
       "word": "薛之谦竟然有儿子了",
       "onboard_time": 1700274749,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265773,
+      "num": 233201,
+      "word": "张凌赫一秒认出王鹤棣",
+      "onboard_time": 1700374410,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -513,6 +529,14 @@
       "onboard_time": 1700319037,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 261890,
+      "num": 261890,
+      "word": "好馆子 评分3.8到4之间",
+      "onboard_time": 1700373449,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 261409,
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255349,
-      "num": 255349,
-      "word": "好馆子 评分3.8到4之间",
-      "onboard_time": 1700373449,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 247796,
       "num": 238989,
       "word": "于正回复只出大女主剧",
@@ -585,6 +601,14 @@
       "onboard_time": 1700367568,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244660,
+      "num": 244660,
+      "word": "柳岩 不是我不懂搭配",
+      "onboard_time": 1700374230,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 244135,
@@ -651,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215147,
+      "num": 179546,
+      "word": "白鹿哭戏",
+      "onboard_time": 1700374471,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212063,
       "num": 212063,
       "word": "萧敬腾 有小小恋爱脑的成熟男人",
@@ -673,6 +705,22 @@
       "onboard_time": 1700371410,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203433,
+      "num": 203433,
+      "word": "32岁女子9年花费近27万吃海底捞",
+      "onboard_time": 1700375612,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203136,
+      "num": 169359,
+      "word": "危宁大婚造型",
+      "onboard_time": 1700375190,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 202367,
@@ -787,28 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176899,
-      "num": 173224,
-      "word": "柳岩 不是我不懂搭配",
-      "onboard_time": 1700374230,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175421,
       "num": 159706,
       "word": "奶茶上的小盖子可以防尘",
       "onboard_time": 1700356951,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 175111,
-      "num": 166726,
-      "word": "张凌赫一秒认出王鹤棣",
-      "onboard_time": 1700374410,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 174356,
@@ -825,6 +857,14 @@
       "onboard_time": 1700371888,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171995,
+      "num": 171995,
+      "word": "星舰内部是六层豪宅",
+      "onboard_time": 1700374889,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 171711,
@@ -849,6 +889,14 @@
       "onboard_time": 1700328024,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167873,
+      "num": 167873,
+      "word": "杨迪吃过最好吃的面",
+      "onboard_time": 1700374769,
+      "rank": 45,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 167476,
@@ -891,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159729,
-      "num": 148642,
-      "word": "白鹿哭戏",
-      "onboard_time": 1700374471,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159432,
       "num": 159432,
       "word": "干燥皮肤急救法",
@@ -929,6 +969,14 @@
       "onboard_time": 1700323654,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152316,
+      "num": 152316,
+      "word": "6岁女孩在横店当童漂4个月赚250元",
+      "onboard_time": 1700375190,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152251,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1700367331,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140073,
+      "num": 140073,
+      "word": "龚俊看自己吻戏的反应",
+      "onboard_time": 1700374889,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140057,
@@ -1115,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129341,
+      "num": 130515,
+      "word": "婚宴现场宾客晕倒伴娘跪地紧急施救",
+      "onboard_time": 1700374293,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128978,
       "num": 201361,
       "word": "你女朋友不洗头啊",
@@ -1171,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108483,
-      "num": 130525,
-      "word": "杨迪吃过最好吃的面",
-      "onboard_time": 1700374769,
-      "rank": 45,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 106096,
       "num": 106096,
       "word": "新裤子现场偶遇高圆圆",
@@ -1225,14 +1281,6 @@
       "onboard_time": 1700364810,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97539,
-      "num": 130515,
-      "word": "婚宴现场宾客晕倒伴娘跪地紧急施救",
-      "onboard_time": 1700374293,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95628,
