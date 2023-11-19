@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 23:16:54
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 23:34:05
 </p>
 </blockquote>
 <p>
@@ -1187,6 +1187,12 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E4%B8%9A%E8%A2%AB%E5%A6%88%E5%A6%88%E9%9B%87%E4%BD%A3%E5%BD%93%E5%8F%B8%E6%9C%BA%E6%97%A5%E8%96%AA20%23" target="weibo">
 女子失业被妈妈雇佣当司机日薪20（热度：1944059）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88%23" target="weibo">
+吴迪飞退圈（热度：1936301）
 </a>
 </li>
 
@@ -2807,12 +2813,6 @@ JDG晋级S13四强（热度：1251728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%8D%8E%E4%BE%A8%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E7%BB%84%E6%88%90%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%23" target="weibo">
 华人华侨在旧金山组成欢迎人群（热度：1228856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88%23" target="weibo">
-吴迪飞退圈（热度：1228627）
 </a>
 </li>
 
@@ -4647,6 +4647,12 @@ Cat 顶级辅助（热度：843633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%AA%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%89%A7%E4%BA%86%23" target="weibo">
+终于有只搞事业不谈恋爱的剧了（热度：839720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%88%B0%E5%BA%95%E5%A4%9A%E4%B9%85%E6%B4%97%E4%B8%80%E6%AC%A1%E5%A5%BD%23" target="weibo">
 头发到底多久洗一次好（热度：839390）
 </a>
@@ -5093,12 +5099,6 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%23" target="weibo">
 福原爱（热度：798690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%AA%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%89%A7%E4%BA%86%23" target="weibo">
-终于有只搞事业不谈恋爱的剧了（热度：798408）
 </a>
 </li>
 
