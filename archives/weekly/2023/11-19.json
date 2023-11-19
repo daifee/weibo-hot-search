@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700432156648,
+  "endTime": 1700433234522,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -859,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 424976,
+      "num": 194746,
+      "word": "内娱史上最炸裂的6分32秒谈话",
+      "onboard_time": 1700421135,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408396,
       "num": 406170,
       "word": "声生不息3路透",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1700317653,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271460,
-      "num": 109078,
-      "word": "内娱史上最炸裂的6分32秒谈话",
-      "onboard_time": 1700421135,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 270991,
@@ -3147,12 +3147,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38869,
+      "num": 56436,
+      "word": "蔚来总裁回应倒闭质疑",
+      "onboard_time": 1700427553,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38469,
       "num": 118907,
       "word": "小伙凌晨无处安身被奶茶店夫妻收留",
       "onboard_time": 1700325389,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37227,
+      "num": 56427,
+      "word": "吴奇隆戴老花镜",
+      "onboard_time": 1700431816,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 36239,
@@ -3163,6 +3179,14 @@
       "category": "电竞,汽车"
     },
     {
+      "raw_hot": 34561,
+      "num": 56451,
+      "word": "网友为了省钱学给女朋友做美甲",
+      "onboard_time": 1700425153,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 32771,
       "num": 74158,
       "word": "亚洲超星团",
@@ -3171,12 +3195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30420,
-      "num": 30420,
-      "word": "网友为了省钱学给女朋友做美甲",
-      "onboard_time": 1700425153,
-      "rank": 40,
-      "category": "美妆"
+      "raw_hot": 32297,
+      "num": 56417,
+      "word": "为什么长大后不愿意回家了",
+      "onboard_time": 1700426293,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 30335,
@@ -3195,14 +3219,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 29827,
-      "num": 25685,
-      "word": "蔚来总裁回应倒闭质疑",
-      "onboard_time": 1700427553,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 29026,
       "num": 53761,
       "word": "奔跑吧",
@@ -3211,12 +3227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28215,
-      "num": 25510,
-      "word": "为什么长大后不愿意回家了",
-      "onboard_time": 1700426293,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 26229,
+      "num": 56375,
+      "word": "我要逆风去大结局观后感",
+      "onboard_time": 1700430614,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 24258,
@@ -3243,28 +3259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19979,
-      "num": 19979,
-      "word": "我要逆风去大结局观后感",
-      "onboard_time": 1700430614,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18447,
       "num": 493146,
       "word": "中国一直是亚太合作重要的贡献者",
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17424,
-      "num": 17424,
-      "word": "吴奇隆戴老花镜",
-      "onboard_time": 1700431816,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 14163,
