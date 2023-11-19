@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700425063846,
+  "endTime": 1700426065779,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -3233,6 +3233,14 @@
       "onboard_time": 1700424073,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13562,
+      "num": 14197,
+      "word": "网友为了省钱学给女朋友做美甲",
+      "onboard_time": 1700425153,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 7989,
