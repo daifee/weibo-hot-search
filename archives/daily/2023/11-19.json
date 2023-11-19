@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700404447768,
+  "endTime": 1700407014694,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -243,6 +243,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 1228627,
+      "num": 1228627,
+      "word": "吴迪飞退圈",
+      "onboard_time": 1700405737,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1185814,
       "num": 1185814,
       "word": "TheShy回应是否退役",
@@ -369,6 +377,14 @@
       "onboard_time": 1700368231,
       "rank": 33,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 798408,
+      "num": 798408,
+      "word": "终于有只搞事业不谈恋爱的剧了",
+      "onboard_time": 1700405675,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 787270,
@@ -627,12 +643,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 544557,
+      "num": 544557,
+      "word": "陆虎 你不需要让全世界都满意",
+      "onboard_time": 1700403337,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544069,
       "num": 271685,
       "word": "黑莲花上位手册",
       "onboard_time": 1700324672,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539494,
+      "num": 440344,
+      "word": "管泽元说十年了我们的敌人还是他",
+      "onboard_time": 1700402677,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 536924,
@@ -723,14 +755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 489053,
-      "num": 440344,
-      "word": "管泽元说十年了我们的敌人还是他",
-      "onboard_time": 1700402677,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 489005,
       "num": 489005,
       "word": "T1英雄池 ban不完",
@@ -761,14 +785,6 @@
       "onboard_time": 1700396198,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 461209,
-      "num": 461209,
-      "word": "陆虎 你不需要让全世界都满意",
-      "onboard_time": 1700403337,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 456559,
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444265,
+      "num": 444265,
+      "word": "MBTI拖延程度排名",
+      "onboard_time": 1700401779,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 432818,
       "num": 590049,
       "word": "国足世预赛",
@@ -827,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408396,
+      "num": 303836,
+      "word": "声生不息3路透",
+      "onboard_time": 1700404895,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406351,
       "num": 406351,
       "word": "KDA 吊打",
@@ -849,14 +881,6 @@
       "onboard_time": 1700356349,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388390,
-      "num": 388390,
-      "word": "MBTI拖延程度排名",
-      "onboard_time": 1700401779,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 383817,
@@ -1043,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349438,
+      "num": 270499,
+      "word": "华坪女高",
+      "onboard_time": 1700405436,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346312,
       "num": 346312,
       "word": "捡了一只混15种基因的小狗",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1700383532,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329908,
+      "num": 263039,
+      "word": "张颂文 竹影",
+      "onboard_time": 1700406035,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 322345,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1700402557,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 287471,
+      "num": 250427,
+      "word": "宁安如梦 跨国跨物种发疯",
+      "onboard_time": 1700406218,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 282886,
@@ -1571,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236056,
+      "num": 236056,
+      "word": "娜扎新剧素颜",
+      "onboard_time": 1700405976,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234182,
       "num": 234182,
       "word": "马嘉祺爱心露背拖尾礼服",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1700379393,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226371,
+      "num": 226371,
+      "word": "沈月甜石榴妆",
+      "onboard_time": 1700404478,
+      "rank": 38,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 226182,
@@ -1729,6 +1793,14 @@
       "onboard_time": 1700364572,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209672,
+      "num": 209672,
+      "word": "钟楚曦晒与龚俊合照",
+      "onboard_time": 1700406218,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 207882,
@@ -1923,6 +1995,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192205,
+      "num": 192205,
+      "word": "刘耀文solo直拍混剪",
+      "onboard_time": 1700406757,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 191983,
+      "num": 191983,
+      "word": "声生不息",
+      "onboard_time": 1700405795,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190990,
       "num": 190990,
       "word": "春晚有没有大学生通道",
@@ -2059,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177659,
+      "num": 177659,
+      "word": "好像看见了被迫参加年会的我",
+      "onboard_time": 1700406938,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177571,
       "num": 221158,
       "word": "11岁身体折叠隔20年他再见蓝天",
@@ -2108,7 +2204,7 @@
     },
     {
       "raw_hot": 171646,
-      "num": 200248,
+      "num": 212147,
       "word": "被家长会上爸爸高情商发言圈粉了",
       "onboard_time": 1700399799,
       "rank": 49,
@@ -2121,6 +2217,14 @@
       "onboard_time": 1700370929,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170898,
+      "num": 170898,
+      "word": "白桃星座",
+      "onboard_time": 1700406996,
+      "rank": 47,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 170278,
@@ -2656,6 +2760,14 @@
       "word": "帮老人点一份不要辣的",
       "onboard_time": 1700381794,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106200,
+      "num": 166994,
+      "word": "大熊猫花花变黏人熊",
+      "onboard_time": 1700406996,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

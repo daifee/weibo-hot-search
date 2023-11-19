@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700404447768,
+  "endTime": 1700407014694,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3731,6 +3731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1228627,
+      "num": 1228627,
+      "word": "吴迪飞退圈",
+      "onboard_time": 1700405737,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1224717,
       "num": 1224717,
       "word": "爸爸通过监控显摆生日吃12个菜",
@@ -6769,6 +6777,14 @@
       "onboard_time": 1699502615,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 798408,
+      "num": 798408,
+      "word": "终于有只搞事业不谈恋爱的剧了",
+      "onboard_time": 1700405675,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 798327,
@@ -11403,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544557,
+      "num": 544557,
+      "word": "陆虎 你不需要让全世界都满意",
+      "onboard_time": 1700403337,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544532,
       "num": 232417,
       "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
@@ -11537,6 +11561,14 @@
       "onboard_time": 1700007574,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539494,
+      "num": 440344,
+      "word": "管泽元说十年了我们的敌人还是他",
+      "onboard_time": 1700402677,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 539365,
@@ -12915,14 +12947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489053,
-      "num": 440344,
-      "word": "管泽元说十年了我们的敌人还是他",
-      "onboard_time": 1700402677,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 489005,
       "num": 489005,
       "word": "T1英雄池 ban不完",
@@ -13899,14 +13923,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 461209,
-      "num": 461209,
-      "word": "陆虎 你不需要让全世界都满意",
-      "onboard_time": 1700403337,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461114,
       "num": 461114,
       "word": "杨幂式保暖穿搭",
@@ -14425,6 +14441,14 @@
       "onboard_time": 1698815976,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444265,
+      "num": 444265,
+      "word": "MBTI拖延程度排名",
+      "onboard_time": 1700401779,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 443846,
@@ -15939,6 +15963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408396,
+      "num": 303836,
+      "word": "声生不息3路透",
+      "onboard_time": 1700404895,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408053,
       "num": 366930,
       "word": "小虎 抽象",
@@ -16889,14 +16921,6 @@
       "onboard_time": 1700024499,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388390,
-      "num": 388390,
-      "word": "MBTI拖延程度排名",
-      "onboard_time": 1700401779,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 388097,
@@ -18899,6 +18923,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 349438,
+      "num": 270499,
+      "word": "华坪女高",
+      "onboard_time": 1700405436,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349415,
       "num": 349415,
       "word": "李荣浩看见这个灯牌差点唱笑场",
@@ -19929,6 +19961,14 @@
       "onboard_time": 1699268554,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329908,
+      "num": 263039,
+      "word": "张颂文 竹影",
+      "onboard_time": 1700406035,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 329718,
@@ -22545,6 +22585,14 @@
       "onboard_time": 1699622436,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287471,
+      "num": 250427,
+      "word": "宁安如梦 跨国跨物种发疯",
+      "onboard_time": 1700406218,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 287203,
@@ -27307,6 +27355,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 236056,
+      "num": 236056,
+      "word": "娜扎新剧素颜",
+      "onboard_time": 1700405976,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235835,
       "num": 235835,
       "word": "赵小童英文演讲",
@@ -28513,6 +28569,14 @@
       "onboard_time": 1699837053,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226371,
+      "num": 226371,
+      "word": "沈月甜石榴妆",
+      "onboard_time": 1700404478,
+      "rank": 38,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 226353,
@@ -30769,6 +30833,14 @@
       "onboard_time": 1699283560,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209672,
+      "num": 209672,
+      "word": "钟楚曦晒与龚俊合照",
+      "onboard_time": 1700406218,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 209668,
@@ -34131,6 +34203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192205,
+      "num": 192205,
+      "word": "刘耀文solo直拍混剪",
+      "onboard_time": 1700406757,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192189,
       "num": 192189,
       "word": "我们恋爱吧5全员坦白局",
@@ -36779,6 +36859,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 177659,
+      "num": 177659,
+      "word": "好像看见了被迫参加年会的我",
+      "onboard_time": 1700406938,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177571,
       "num": 221158,
       "word": "11岁身体折叠隔20年他再见蓝天",
@@ -37756,7 +37844,7 @@
     },
     {
       "raw_hot": 171646,
-      "num": 200248,
+      "num": 212147,
       "word": "被家长会上爸爸高情商发言圈粉了",
       "onboard_time": 1700399799,
       "rank": 49,
@@ -37907,6 +37995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170898,
+      "num": 170898,
+      "word": "白桃星座",
+      "onboard_time": 1699228771,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 170869,
       "num": 227580,
       "word": "网络主播王纯善偷逃税被查",
@@ -37977,14 +38073,6 @@
       "onboard_time": 1699066650,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170564,
-      "num": 170564,
-      "word": "白桃星座",
-      "onboard_time": 1699228771,
-      "rank": 32,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 170541,
@@ -48465,6 +48553,14 @@
       "onboard_time": 1699419936,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106200,
+      "num": 166994,
+      "word": "大熊猫花花变黏人熊",
+      "onboard_time": 1700406996,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106150,
