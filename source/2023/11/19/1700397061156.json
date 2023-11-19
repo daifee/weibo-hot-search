@@ -1,0 +1,410 @@
+{
+  "runTime": 1700397061156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7665924,
+        "num": 7665924,
+        "word": "T1零封WBG",
+        "onboard_time": 1700392367,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 849556,
+        "num": 849556,
+        "word": "张桂梅老师学生评价我本是高山",
+        "onboard_time": 1700388212,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 714239,
+        "num": 714239,
+        "word": "白鹿张凌赫宁安如梦热度破万",
+        "onboard_time": 1700395237,
+        "rank": 2,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2484027,
+        "num": 686668,
+        "word": "Faker四冠登神",
+        "onboard_time": 1700392980,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1099326,
+        "num": 649293,
+        "word": "六公主回应我本是高山争议",
+        "onboard_time": 1700379210,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 603369,
+        "num": 603369,
+        "word": "郭艾伦吐槽以爱为营剧情",
+        "onboard_time": 1700389723,
+        "rank": 5,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 1628567,
+        "num": 598948,
+        "word": "T1夺冠",
+        "onboard_time": 1700392563,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 501217,
+        "num": 597872,
+        "word": "中方将沟通协调推动巴以冲突降温",
+        "onboard_time": 1700394880,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432818,
+        "num": 590049,
+        "word": "国足世预赛",
+        "onboard_time": 1700395595,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 912155,
+        "num": 588933,
+        "word": "Zeus获FMVP",
+        "onboard_time": 1700394045,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 922090,
+        "num": 581572,
+        "word": "肖战好像被胁迫了",
+        "onboard_time": 1700389479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778137,
+        "num": 576333,
+        "word": "质疑恩静 成为恩静",
+        "onboard_time": 1700385390,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 903600,
+        "num": 574507,
+        "word": "Xiaohu尽力了",
+        "onboard_time": 1700395717,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 571590,
+        "num": 571590,
+        "word": "李佳航少喝点",
+        "onboard_time": 1700396318,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 515400,
+        "num": 515400,
+        "word": "张凌赫宁安如梦破万手势舞",
+        "onboard_time": 1700395660,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1736182,
+        "num": 510176,
+        "word": "WBG发文告别S13",
+        "onboard_time": 1700395297,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 443759,
+        "num": 443759,
+        "word": "EDG剧本",
+        "onboard_time": 1700392367,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 396961,
+        "num": 396961,
+        "word": "TheShy 一血率",
+        "onboard_time": 1700392239,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390344,
+        "num": 390344,
+        "word": "时团 ENHYPEN",
+        "onboard_time": 1700389174,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254133,
+        "num": 389511,
+        "word": "阿拉伯伊斯兰国家外长联合代表团将访华",
+        "onboard_time": 1700395061,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389321,
+        "num": 389321,
+        "word": "下周做什么都顺的星座",
+        "onboard_time": 1700389546,
+        "rank": 20,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 383817,
+        "num": 383817,
+        "word": "虎扑评分",
+        "onboard_time": 1700395836,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 381694,
+        "num": 381694,
+        "word": "LPL至暗时刻",
+        "onboard_time": 1700396198,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325274,
+        "num": 325274,
+        "word": "Faker S13数据",
+        "onboard_time": 1700381193,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308371,
+        "num": 308371,
+        "word": "时代少年团 女团舞",
+        "onboard_time": 1700384909,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291502,
+        "num": 291502,
+        "word": "冠军皮肤",
+        "onboard_time": 1700395836,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282886,
+        "num": 282886,
+        "word": "郭富城回应赛车失控退赛",
+        "onboard_time": 1700395778,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266501,
+        "num": 266501,
+        "word": "Light明年再战",
+        "onboard_time": 1700396497,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167992,
+        "num": 259569,
+        "word": "00后送00后锦旗可以有多炸裂",
+        "onboard_time": 1700386418,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167671,
+        "num": 257968,
+        "word": "董明珠称放弃发财行业不搞金融地产",
+        "onboard_time": 1700391213,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 256659,
+        "num": 256659,
+        "word": "周杰伦五月天龙卷风现场",
+        "onboard_time": 1700391213,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252493,
+        "num": 252493,
+        "word": "英雄联盟最高的山最长的河",
+        "onboard_time": 1700394818,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38779,
+        "num": 252014,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1700361627,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251953,
+        "num": 251953,
+        "word": "林俊杰说什么不重要张远就是没有",
+        "onboard_time": 1700396318,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245215,
+        "num": 245215,
+        "word": "腰真的一下子就舒服了",
+        "onboard_time": 1700381494,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 238679,
+        "num": 238679,
+        "word": "WBG教练",
+        "onboard_time": 1700390855,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227204,
+        "num": 227204,
+        "word": "六公主回应恶评",
+        "onboard_time": 1700383053,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225106,
+        "num": 225106,
+        "word": "keria苦尽甘来",
+        "onboard_time": 1700394045,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206356,
+        "num": 206356,
+        "word": "张杰喝多了在地上蛙泳",
+        "onboard_time": 1700387019,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154306,
+        "num": 205463,
+        "word": "家长会上父亲坦言儿子是学渣",
+        "onboard_time": 1700393390,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205398,
+        "num": 205398,
+        "word": "32岁女子9年花费近27万吃海底捞",
+        "onboard_time": 1700375612,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473141,
+        "num": 201745,
+        "word": "BLG 已放假",
+        "onboard_time": 1700392300,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194628,
+        "num": 194628,
+        "word": "为什么不ban烈娜塔",
+        "onboard_time": 1700393868,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194124,
+        "num": 194124,
+        "word": "LOL新英雄彗",
+        "onboard_time": 1700395896,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185697,
+        "num": 185697,
+        "word": "袁小圆",
+        "onboard_time": 1700396915,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184644,
+        "num": 184644,
+        "word": "eStar对战Hero",
+        "onboard_time": 1700396258,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184226,
+        "num": 184226,
+        "word": "时代少年团今天换妆造了",
+        "onboard_time": 1700376753,
+        "rank": 46,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 107649,
+        "num": 168871,
+        "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
+        "onboard_time": 1700389053,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81267,
+        "num": 167544,
+        "word": "黑龙江大学惊现雪人三星堆",
+        "onboard_time": 1700384670,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59713,
+        "num": 166702,
+        "word": "河南男子全网寻找救命恩人",
+        "onboard_time": 1700396915,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#华人华侨中国留学生代表欢送习主席#"
+    }
+  }
+}

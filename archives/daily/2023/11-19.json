@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700393652349,
+  "endTime": 1700397061156,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -97,6 +97,14 @@
       "onboard_time": 1700384909,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1736182,
+      "num": 510176,
+      "word": "WBG发文告别S13",
+      "onboard_time": 1700395297,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 1716115,
@@ -267,6 +275,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 912155,
+      "num": 588933,
+      "word": "Zeus获FMVP",
+      "onboard_time": 1700394045,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 903600,
+      "num": 574507,
+      "word": "Xiaohu尽力了",
+      "onboard_time": 1700395717,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 899026,
       "num": 481609,
       "word": "秦岚声带受损其实自己很沮丧",
@@ -369,6 +393,14 @@
       "onboard_time": 1700375190,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714239,
+      "num": 714239,
+      "word": "白鹿张凌赫宁安如梦热度破万",
+      "onboard_time": 1700395237,
+      "rank": 2,
+      "category": "剧集"
     },
     {
       "raw_hot": 711499,
@@ -515,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 571590,
+      "num": 571590,
+      "word": "李佳航少喝点",
+      "onboard_time": 1700396318,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 556690,
       "num": 556690,
       "word": "Zeus单杀TheShy",
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515400,
+      "num": 515400,
+      "word": "张凌赫宁安如梦破万手势舞",
+      "onboard_time": 1700395660,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505386,
       "num": 505386,
       "word": "沙溢 范丞丞这两天将改变尼莫一生",
@@ -577,6 +625,14 @@
       "onboard_time": 1700387791,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 501217,
+      "num": 597872,
+      "word": "中方将沟通协调推动巴以冲突降温",
+      "onboard_time": 1700394880,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 489005,
@@ -635,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432818,
+      "num": 590049,
+      "word": "国足世预赛",
+      "onboard_time": 1700395595,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432212,
       "num": 308900,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
@@ -673,6 +737,22 @@
       "onboard_time": 1700356349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383817,
+      "num": 383817,
+      "word": "虎扑评分",
+      "onboard_time": 1700395836,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 381694,
+      "num": 381694,
+      "word": "LPL至暗时刻",
+      "onboard_time": 1700396198,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 376250,
@@ -963,12 +1043,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 291502,
+      "num": 291502,
+      "word": "冠军皮肤",
+      "onboard_time": 1700395836,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 291426,
       "num": 291426,
       "word": "杀破狼原唱经典回忆杀",
       "onboard_time": 1700354488,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282886,
+      "num": 282886,
+      "word": "郭富城回应赛车失控退赛",
+      "onboard_time": 1700395778,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 281920,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1700274749,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266501,
+      "num": 266501,
+      "word": "Light明年再战",
+      "onboard_time": 1700396497,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 265181,
@@ -1099,12 +1203,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254133,
+      "num": 389511,
+      "word": "阿拉伯伊斯兰国家外长联合代表团将访华",
+      "onboard_time": 1700395061,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 252493,
+      "num": 252493,
+      "word": "英雄联盟最高的山最长的河",
+      "onboard_time": 1700394818,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252327,
       "num": 252327,
       "word": "徐明浩直播",
       "onboard_time": 1700387258,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251953,
+      "num": 251953,
+      "word": "林俊杰说什么不重要张远就是没有",
+      "onboard_time": 1700396318,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 248820,
@@ -1225,6 +1353,14 @@
       "onboard_time": 1700320298,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225106,
+      "num": 225106,
+      "word": "keria苦尽甘来",
+      "onboard_time": 1700394045,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 221000,
@@ -1443,6 +1579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194628,
+      "num": 194628,
+      "word": "为什么不ban烈娜塔",
+      "onboard_time": 1700393868,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194124,
+      "num": 194124,
+      "word": "LOL新英雄彗",
+      "onboard_time": 1700395896,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190990,
       "num": 190990,
       "word": "春晚有没有大学生通道",
@@ -1507,12 +1659,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185697,
+      "num": 185697,
+      "word": "袁小圆",
+      "onboard_time": 1700396915,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185670,
       "num": 185670,
       "word": "似火流年 彪子请挨打",
       "onboard_time": 1700364328,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184644,
+      "num": 184644,
+      "word": "eStar对战Hero",
+      "onboard_time": 1700396258,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 181159,
@@ -1737,6 +1905,14 @@
       "onboard_time": 1700323592,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154306,
+      "num": 205463,
+      "word": "家长会上父亲坦言儿子是学渣",
+      "onboard_time": 1700393390,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152902,
@@ -1977,14 +2153,6 @@
       "onboard_time": 1700357970,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131587,
-      "num": 199248,
-      "word": "家长会上父亲坦言儿子是学渣",
-      "onboard_time": 1700393390,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130926,
@@ -2393,6 +2561,14 @@
       "onboard_time": 1700322394,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59713,
+      "num": 166702,
+      "word": "河南男子全网寻找救命恩人",
+      "onboard_time": 1700396915,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51429,
