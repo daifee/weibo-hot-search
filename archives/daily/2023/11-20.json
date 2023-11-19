@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700429653030,
+  "endTime": 1700432156648,
   "band_list": [
     {
       "raw_hot": 1505541,
@@ -115,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271460,
+      "num": 109078,
+      "word": "内娱史上最炸裂的6分32秒谈话",
+      "onboard_time": 1700421135,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270742,
       "num": 270742,
       "word": "WBG发文告别S13",
@@ -209,14 +217,6 @@
       "onboard_time": 1700405436,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185049,
-      "num": 69493,
-      "word": "内娱史上最炸裂的6分32秒谈话",
-      "onboard_time": 1700421135,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 181342,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30420,
+      "num": 30420,
+      "word": "网友为了省钱学给女朋友做美甲",
+      "onboard_time": 1700425153,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 30335,
       "num": 74200,
       "word": "这版姜雪宁的嘴能吞下一头牛",
@@ -467,28 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29827,
+      "num": 25685,
+      "word": "蔚来总裁回应倒闭质疑",
+      "onboard_time": 1700427553,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 28215,
+      "num": 25510,
+      "word": "为什么长大后不愿意回家了",
+      "onboard_time": 1700426293,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24258,
       "num": 54595,
       "word": "李嶷崔琳一天不亲亲就浑身难受",
       "onboard_time": 1700420234,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24173,
-      "num": 24173,
-      "word": "网友为了省钱学给女朋友做美甲",
-      "onboard_time": 1700425153,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 22591,
-      "num": 22591,
-      "word": "为什么长大后不愿意回家了",
-      "onboard_time": 1700426293,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 22228,
@@ -507,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19184,
-      "num": 19184,
-      "word": "蔚来总裁回应倒闭质疑",
-      "onboard_time": 1700427553,
-      "rank": 42,
-      "category": "汽车"
+      "raw_hot": 19979,
+      "num": 19979,
+      "word": "我要逆风去大结局观后感",
+      "onboard_time": 1700430614,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17424,
+      "num": 17424,
+      "word": "吴奇隆戴老花镜",
+      "onboard_time": 1700431816,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 14163,
