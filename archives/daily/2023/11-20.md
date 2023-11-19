@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/20 00:21:11 ~ 2023/11/20 03:34:06
+本榜单时间：2023/11/20 00:21:11 ~ 2023/11/20 04:17:43
 </p>
 </blockquote>
 <p>
@@ -171,6 +171,12 @@ RNG 含金量（热度：195280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23" target="weibo">
+内娱史上最炸裂的6分32秒谈话（热度：185049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E7%88%B8%E7%88%B8%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80%E5%9C%88%E7%B2%89%E4%BA%86%23" target="weibo">
 被家长会上爸爸高情商发言圈粉了（热度：181342）
 </a>
@@ -321,12 +327,6 @@ LPL至暗时刻（热度：79950）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23" target="weibo">
-内娱史上最炸裂的6分32秒谈话（热度：76867）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E6%8E%A8%E4%BA%86%E5%A7%9C%E9%9B%AA%E5%AE%81%23" target="weibo">
 张遮推了姜雪宁（热度：63913）
 </a>
@@ -377,6 +377,12 @@ LPL至暗时刻（热度：79950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
 朴宰范的精神状态（热度：21619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E9%87%8D%E8%BF%94%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%23" target="weibo">
+电影我本是高山重返华坪女高（热度：14163）
 </a>
 </li>
 

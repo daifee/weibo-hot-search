@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700422446882,
+  "endTime": 1700425063846,
   "band_list": [
     {
       "raw_hot": 1505541,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185049,
+      "num": 54469,
+      "word": "内娱史上最炸裂的6分32秒谈话",
+      "onboard_time": 1700421135,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181342,
       "num": 228881,
       "word": "被家长会上爸爸高情商发言圈粉了",
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76867,
-      "num": 54469,
-      "word": "内娱史上最炸裂的6分32秒谈话",
-      "onboard_time": 1700421135,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63913,
       "num": 74084,
       "word": "张遮推了姜雪宁",
@@ -489,6 +489,14 @@
       "onboard_time": 1700419034,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14163,
+      "num": 14720,
+      "word": "电影我本是高山重返华坪女高",
+      "onboard_time": 1700424073,
+      "rank": 37,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

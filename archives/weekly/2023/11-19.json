@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700422446882,
+  "endTime": 1700425063846,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -2163,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185049,
+      "num": 54469,
+      "word": "内娱史上最炸裂的6分32秒谈话",
+      "onboard_time": 1700421135,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184644,
       "num": 184644,
       "word": "eStar对战Hero",
@@ -3067,14 +3075,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 76867,
-      "num": 54469,
-      "word": "内娱史上最炸裂的6分32秒谈话",
-      "onboard_time": 1700421135,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76231,
       "num": 94918,
       "word": "姜雪宁 红梅白雪",
@@ -3225,6 +3225,14 @@
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14163,
+      "num": 14720,
+      "word": "电影我本是高山重返华坪女高",
+      "onboard_time": 1700424073,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 7989,
