@@ -1,0 +1,410 @@
+{
+  "runTime": 1700411792758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1272156,
+        "num": 1272156,
+        "word": "吴迪飞退圈",
+        "onboard_time": 1700405737,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820458,
+        "num": 820458,
+        "word": "27岁研究生离世前一天发文感恩感谢",
+        "onboard_time": 1700399016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33861,
+        "num": 765918,
+        "word": "诗词藏着中国山水间的绝美景致",
+        "onboard_time": 1700398775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754065,
+        "num": 754065,
+        "word": "终于有只搞事业不谈恋爱的剧了",
+        "onboard_time": 1700405675,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565777,
+        "num": 565777,
+        "word": "恩静大小姐",
+        "onboard_time": 1700407234,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540250,
+        "num": 540250,
+        "word": "T1战胜WBG",
+        "onboard_time": 1700392367,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358032,
+        "num": 358032,
+        "word": "郭艾伦吐槽以爱为营剧情",
+        "onboard_time": 1700389723,
+        "rank": 6,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 343420,
+        "num": 343420,
+        "word": "白桃星座",
+        "onboard_time": 1700406996,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 296493,
+        "num": 296493,
+        "word": "大张伟 只有无聊的人才在比较",
+        "onboard_time": 1700408075,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290635,
+        "num": 290635,
+        "word": "TheShy回应是否退役",
+        "onboard_time": 1700399317,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331704,
+        "num": 289767,
+        "word": "李佳航少喝点",
+        "onboard_time": 1700396318,
+        "rank": 10,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 283138,
+        "num": 283138,
+        "word": "肖战好像被胁迫了",
+        "onboard_time": 1700389479,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277236,
+        "num": 277236,
+        "word": "Faker四冠登神",
+        "onboard_time": 1700392980,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240163,
+        "num": 240163,
+        "word": "美国两家境外银行卡清算机构已获批进入国内市场",
+        "onboard_time": 1700407117,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238659,
+        "num": 238659,
+        "word": "WBG发文告别S13",
+        "onboard_time": 1700395297,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238482,
+        "num": 238482,
+        "word": "好高级的骂人方式",
+        "onboard_time": 1700407474,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232445,
+        "num": 232445,
+        "word": "质疑恩静 成为恩静",
+        "onboard_time": 1700385390,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224430,
+        "num": 224430,
+        "word": "宁安如梦 跨国跨物种发疯",
+        "onboard_time": 1700406218,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215657,
+        "num": 215657,
+        "word": "T1夺冠",
+        "onboard_time": 1700392563,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181342,
+        "num": 181342,
+        "word": "被家长会上爸爸高情商发言圈粉了",
+        "onboard_time": 1700399799,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186721,
+        "num": 180806,
+        "word": "白鹿张凌赫宁安如梦热度破万",
+        "onboard_time": 1700395237,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178453,
+        "num": 178453,
+        "word": "时团 ENHYPEN",
+        "onboard_time": 1700389174,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176801,
+        "num": 176801,
+        "word": "RNG 含金量",
+        "onboard_time": 1700397334,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176383,
+        "num": 176383,
+        "word": "阿里巴巴就裁员谣言报警",
+        "onboard_time": 1700407536,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166174,
+        "num": 166174,
+        "word": "Xiaohu尽力了",
+        "onboard_time": 1700395717,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149278,
+        "num": 149278,
+        "word": "管泽元说十年了我们的敌人还是他",
+        "onboard_time": 1700402677,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146509,
+        "num": 146509,
+        "word": "冲锋衣销量猛涨",
+        "onboard_time": 1700397996,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139976,
+        "num": 139976,
+        "word": "华坪女高",
+        "onboard_time": 1700405436,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138425,
+        "num": 138425,
+        "word": "陆虎 你不需要让全世界都满意",
+        "onboard_time": 1700403337,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80065,
+        "num": 137959,
+        "word": "11岁身体折叠隔20年他再见蓝天",
+        "onboard_time": 1700401299,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137632,
+        "num": 137632,
+        "word": "声生不息3路透",
+        "onboard_time": 1700404895,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135082,
+        "num": 135082,
+        "word": "Faker年收入超4000万元",
+        "onboard_time": 1700398058,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134253,
+        "num": 134253,
+        "word": "张颂文 竹影",
+        "onboard_time": 1700406035,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "严老师我需要手把手教",
+        "onboard_time": 1700407176,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "宁安如梦",
+        "onboard_time": 1700400696,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126773,
+        "num": 126773,
+        "word": "张桂梅读我本是高山观众祝福",
+        "onboard_time": 1700402262,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125429,
+        "num": 125429,
+        "word": "捡了一只混15种基因的小狗",
+        "onboard_time": 1700400878,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 118384,
+        "word": "魏大勋筷子腿",
+        "onboard_time": 1700401660,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112524,
+        "num": 112524,
+        "word": "时宴被偷家",
+        "onboard_time": 1700397159,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72930,
+        "num": 110995,
+        "word": "国足世预赛",
+        "onboard_time": 1700395595,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110802,
+        "num": 110802,
+        "word": "Keria发布冠军皮肤投票",
+        "onboard_time": 1700401360,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101973,
+        "num": 101973,
+        "word": "大张伟ALin符龙飞马嘉祺不想长大四重唱",
+        "onboard_time": 1700408493,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101787,
+        "num": 101787,
+        "word": "下周做什么都顺的星座",
+        "onboard_time": 1700389546,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 101456,
+        "num": 101456,
+        "word": "好像看见了被迫参加年会的我",
+        "onboard_time": 1700406938,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 100511,
+        "word": "MBTI拖延程度排名",
+        "onboard_time": 1700401779,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90274,
+        "num": 100508,
+        "word": "娜扎新剧素颜",
+        "onboard_time": 1700405976,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89079,
+        "num": 100493,
+        "word": "钟楚曦晒与龚俊合照",
+        "onboard_time": 1700406218,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89026,
+        "num": 100487,
+        "word": "声生不息",
+        "onboard_time": 1700405795,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68896,
+        "num": 100481,
+        "word": "警方悬赏5万至30万元通缉电诈人员",
+        "onboard_time": 1700400938,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56554,
+        "num": 100469,
+        "word": "中方将沟通协调推动巴以冲突降温",
+        "onboard_time": 1700394880,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样擘画亚太发展#"
+    }
+  }
+}

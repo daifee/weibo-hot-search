@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700410871769,
+  "endTime": 1700411792758,
   "band_list": [
     {
       "raw_hot": 1505541,
@@ -91,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296493,
+      "num": 296493,
+      "word": "大张伟 只有无聊的人才在比较",
+      "onboard_time": 1700408075,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293460,
       "num": 293460,
       "word": "Faker四冠登神",
@@ -105,14 +113,6 @@
       "onboard_time": 1700385390,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 285736,
-      "num": 285736,
-      "word": "大张伟 只有无聊的人才在比较",
-      "onboard_time": 1700408075,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 270742,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181342,
+      "num": 228881,
+      "word": "被家长会上爸爸高情商发言圈粉了",
+      "onboard_time": 1700399799,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181296,
       "num": 181296,
       "word": "声生不息3路透",
@@ -211,20 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180880,
-      "num": 228881,
-      "word": "被家长会上爸爸高情商发言圈粉了",
-      "onboard_time": 1700399799,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171977,
       "num": 164148,
       "word": "严老师我需要手把手教",
       "onboard_time": 1700407176,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166174,
+      "num": 166174,
+      "word": "Xiaohu尽力了",
+      "onboard_time": 1700395717,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 165915,
@@ -265,14 +273,6 @@
       "onboard_time": 1700401660,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149364,
-      "num": 149364,
-      "word": "Xiaohu尽力了",
-      "onboard_time": 1700395717,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 147898,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101456,
+      "num": 101456,
+      "word": "好像看见了被迫参加年会的我",
+      "onboard_time": 1700406938,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87570,
       "num": 164163,
       "word": "11岁身体折叠隔20年他再见蓝天",
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习主席的旧金山时间#"
+    },
+    {
+      "word": "#习近平主席这样擘画亚太发展#"
     }
   ]
 }
