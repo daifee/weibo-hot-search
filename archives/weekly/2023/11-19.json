@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700398014415,
+  "endTime": 1700399931945,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -32,6 +32,14 @@
       "word": "Faker四冠登神",
       "onboard_time": 1700392980,
       "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 3928342,
+      "num": 3928342,
+      "word": "T1战胜WBG",
+      "onboard_time": 1700392367,
+      "rank": 0,
       "category": "电竞"
     },
     {
@@ -211,12 +219,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1253063,
+      "num": 1050889,
+      "word": "李佳航少喝点",
+      "onboard_time": 1700396318,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 1234631,
       "num": 1564769,
       "word": "郭艾伦吐槽以爱为营剧情",
       "onboard_time": 1700389723,
       "rank": 12,
       "category": "体育,剧集"
+    },
+    {
+      "raw_hot": 1144591,
+      "num": 1144591,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1095923,
@@ -235,20 +259,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1057814,
-      "num": 1057814,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1055405,
       "num": 792201,
       "word": "英雄联盟单曲PARANOIA",
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1015153,
+      "num": 1015153,
+      "word": "27岁研究生离世前一天发文感恩感谢",
+      "onboard_time": 1700399016,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 990739,
@@ -281,14 +305,6 @@
       "onboard_time": 1700378314,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 958178,
-      "num": 958178,
-      "word": "李佳航少喝点",
-      "onboard_time": 1700396318,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 912155,
@@ -419,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 700388,
+      "num": 466077,
+      "word": "RNG 含金量",
+      "onboard_time": 1700397334,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 687643,
       "num": 466118,
       "word": "听说去澳门只需要带两根手指头",
@@ -433,6 +457,14 @@
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 666178,
+      "num": 412540,
+      "word": "TheShy回应是否退役",
+      "onboard_time": 1700399317,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 661719,
@@ -489,6 +521,14 @@
       "onboard_time": 1700361269,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604705,
+      "num": 384985,
+      "word": "Faker年收入超4000万元",
+      "onboard_time": 1700398058,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 601207,
@@ -619,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503987,
+      "num": 503987,
+      "word": "TVB台庆",
+      "onboard_time": 1700397635,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501778,
       "num": 501778,
       "word": "刘耀文张真源严浩翔与女伴舞热舞",
@@ -731,6 +779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 401279,
+      "num": 401279,
+      "word": "时宴被偷家",
+      "onboard_time": 1700397159,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398243,
       "num": 398243,
       "word": "杨迪回应谢娜做的面不是剩的",
@@ -769,14 +825,6 @@
       "onboard_time": 1700356951,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375825,
-      "num": 375825,
-      "word": "RNG 含金量",
-      "onboard_time": 1700397334,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 372387,
@@ -963,12 +1011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330641,
-      "num": 330641,
-      "word": "TVB台庆",
-      "onboard_time": 1700397635,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 333761,
+      "num": 333761,
+      "word": "冲锋衣销量猛涨",
+      "onboard_time": 1700397996,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 330259,
@@ -979,10 +1027,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328200,
-      "num": 328200,
-      "word": "时宴被偷家",
-      "onboard_time": 1700397159,
+      "raw_hot": 320518,
+      "num": 320518,
+      "word": "张遮母亲",
+      "onboard_time": 1700399739,
       "rank": 24,
       "category": "剧集"
     },
@@ -1027,12 +1075,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 312378,
+      "num": 312378,
+      "word": "冠军皮肤",
+      "onboard_time": 1700395836,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 311769,
       "num": 365898,
       "word": "黑龙江大学惊现雪人三星堆",
       "onboard_time": 1700384670,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305251,
+      "num": 305251,
+      "word": "妈妈届窒息感天花板来了",
+      "onboard_time": 1700397876,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 302223,
@@ -1083,14 +1147,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 291502,
-      "num": 291502,
-      "word": "冠军皮肤",
-      "onboard_time": 1700395836,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 291426,
       "num": 291426,
       "word": "杀破狼原唱经典回忆杀",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1700317653,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270991,
+      "num": 270991,
+      "word": "马立奥 叮叮当的一天",
+      "onboard_time": 1700398295,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 270779,
@@ -1251,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253432,
+      "num": 253432,
+      "word": "王鹤棣素颜吃早餐",
+      "onboard_time": 1700399317,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252493,
       "num": 252493,
       "word": "英雄联盟最高的山最长的河",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1700396318,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249560,
+      "num": 249560,
+      "word": "王多多 电竞诗人",
+      "onboard_time": 1700399076,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 248820,
@@ -1345,6 +1425,22 @@
       "onboard_time": 1700371228,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240600,
+      "num": 240600,
+      "word": "AG战胜LGD",
+      "onboard_time": 1700399435,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 240022,
+      "num": 240022,
+      "word": "杰斯吧 开香槟",
+      "onboard_time": 1700398895,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 239349,
@@ -1507,20 +1603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206867,
-      "num": 206867,
-      "word": "妈妈届窒息感天花板来了",
-      "onboard_time": 1700397876,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206698,
       "num": 206698,
       "word": "主题曲 半开麦",
       "onboard_time": 1700385991,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206286,
+      "num": 206286,
+      "word": "刘耀文FEEL ME直拍",
+      "onboard_time": 1700399197,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 203759,
@@ -1537,6 +1633,14 @@
       "onboard_time": 1700371410,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202781,
+      "num": 202781,
+      "word": "LCK 统治力",
+      "onboard_time": 1700399076,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 202367,
@@ -1609,6 +1713,22 @@
       "onboard_time": 1700384129,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198413,
+      "num": 198413,
+      "word": "TheShy 赛后采访",
+      "onboard_time": 1700399799,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197833,
+      "num": 197833,
+      "word": "我本是高山 人物设置",
+      "onboard_time": 1700399495,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 196915,
@@ -2259,6 +2379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127649,
+      "num": 194754,
+      "word": "身体弯曲180度20年折刀人被治愈",
+      "onboard_time": 1700399619,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127119,
       "num": 136633,
       "word": "张艺兴官方客服式回复",
@@ -2355,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108766,
+      "num": 193894,
+      "word": "被家长会上爸爸高情商发言圈粉了",
+      "onboard_time": 1700399799,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108189,
       "num": 129007,
       "word": "帮老人点一份不要辣的",
@@ -2433,14 +2569,6 @@
       "onboard_time": 1700306075,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94951,
-      "num": 167802,
-      "word": "冲锋衣销量猛涨",
-      "onboard_time": 1700397996,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 93617,
@@ -2664,6 +2792,14 @@
       "word": "小伙凌晨无处安身被奶茶店夫妻收留",
       "onboard_time": 1700325389,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36847,
+      "num": 1053189,
+      "word": "诗词藏着中国山水间的绝美景致",
+      "onboard_time": 1700398775,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

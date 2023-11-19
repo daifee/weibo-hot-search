@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 20:46:54
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 21:18:51
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ Faker四冠登神（热度：4408132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23" target="weibo">
 BLG战胜GEN（热度：4273103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CWBG%23" target="weibo">
+T1战胜WBG（热度：3928342）
 </a>
 </li>
 
@@ -2673,6 +2679,12 @@ JDG醒了（热度：1258946）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%B0%91%E5%96%9D%E7%82%B9%23" target="weibo">
+李佳航少喝点（热度：1253063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD%23" target="weibo">
 美香 回国（热度：1252419）
 </a>
@@ -3099,6 +3111,12 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%80%81%E5%B8%88%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%23" target="weibo">
+张桂梅老师学生评价我本是高山（热度：1144591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E7%94%B7%E5%8F%8B%E6%89%AE%E7%8C%AA%E5%90%83%E8%80%81%E8%99%8E%23" target="weibo">
 金莎说男友扮猪吃老虎（热度：1142437）
 </a>
@@ -3423,12 +3441,6 @@ TheShy 一血率（热度：1071656）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%80%81%E5%B8%88%E5%AD%A6%E7%94%9F%E8%AF%84%E4%BB%B7%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%23" target="weibo">
-张桂梅老师学生评价我本是高山（热度：1057814）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%95%E6%9B%B2PARANOIA%23" target="weibo">
 英雄联盟单曲PARANOIA（热度：1055405）
 </a>
@@ -3659,6 +3671,12 @@ aespa回归（热度：1039919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%AE%B6%E6%97%8F%E9%81%AD%E6%89%93%E5%87%BB%E5%90%8E%E5%A4%A7%E6%89%B9%E4%BA%A4%E4%BA%BA%23" target="weibo">
 缅甸电诈家族遭打击后大批交人（热度：1015712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23" target="weibo">
+27岁研究生离世前一天发文感恩感谢（热度：1015153）
 </a>
 </li>
 
@@ -3941,12 +3959,6 @@ Xiaohu尽力了（热度：976623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LNG%E5%AF%B9%E6%88%98T1%20%E6%AF%94%E5%88%86%E9%A2%84%E6%B5%8B%23" target="weibo">
 LNG对战T1 比分预测（热度：958227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%B0%91%E5%96%9D%E7%82%B9%23" target="weibo">
-李佳航少喝点（热度：958178）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ WBG教练（热度：734319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E9%A6%86%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E7%A7%B0%E9%81%AD%E4%BA%BA%E6%96%BD%E5%8E%8B%E7%AD%BE%E5%8D%8F%E8%AE%AE%23" target="weibo">
 体育馆遇难者家属称遭人施压签协议（热度：719426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%20%E6%88%91%E6%98%AF%E6%88%91%E4%BA%BA%E7%94%9F%E5%89%A7%E6%9C%AC%E9%87%8C%E7%9A%84%E5%A4%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
-金莎 我是我人生剧本里的大女主（热度：718137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%AB%E9%9B%85%E7%AD%BE%E7%BA%A6%E9%87%91%E6%99%93%E9%92%9F%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%23" target="weibo">
-泫雅签约金晓钟经纪公司（热度：717935）
 </a>
 </li>
 

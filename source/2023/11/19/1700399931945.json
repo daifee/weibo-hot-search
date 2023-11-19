@@ -1,0 +1,410 @@
+{
+  "runTime": 1700399931945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3928342,
+        "num": 3928342,
+        "word": "T1战胜WBG",
+        "onboard_time": 1700392367,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1144591,
+        "num": 1144591,
+        "word": "张桂梅老师学生评价我本是高山",
+        "onboard_time": 1700388212,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36847,
+        "num": 1053189,
+        "word": "诗词藏着中国山水间的绝美景致",
+        "onboard_time": 1700398775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253063,
+        "num": 1050889,
+        "word": "李佳航少喝点",
+        "onboard_time": 1700396318,
+        "rank": 3,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 1015153,
+        "num": 1015153,
+        "word": "27岁研究生离世前一天发文感恩感谢",
+        "onboard_time": 1700399016,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997819,
+        "num": 997819,
+        "word": "六公主回应我本是高山争议",
+        "onboard_time": 1700379210,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 683985,
+        "num": 683985,
+        "word": "白鹿张凌赫宁安如梦热度破万",
+        "onboard_time": 1700395237,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540512,
+        "num": 540512,
+        "word": "郭艾伦吐槽以爱为营剧情",
+        "onboard_time": 1700389723,
+        "rank": 7,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 503987,
+        "num": 503987,
+        "word": "TVB台庆",
+        "onboard_time": 1700397635,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 821979,
+        "num": 497349,
+        "word": "Faker四冠登神",
+        "onboard_time": 1700392980,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 891845,
+        "num": 481148,
+        "word": "肖战好像被胁迫了",
+        "onboard_time": 1700389479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700388,
+        "num": 466077,
+        "word": "RNG 含金量",
+        "onboard_time": 1700397334,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 781840,
+        "num": 461884,
+        "word": "WBG发文告别S13",
+        "onboard_time": 1700395297,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 633462,
+        "num": 447462,
+        "word": "Xiaohu尽力了",
+        "onboard_time": 1700395717,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 506993,
+        "num": 424174,
+        "word": "质疑恩静 成为恩静",
+        "onboard_time": 1700385390,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 666178,
+        "num": 412540,
+        "word": "TheShy回应是否退役",
+        "onboard_time": 1700399317,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 407603,
+        "num": 407603,
+        "word": "中方将沟通协调推动巴以冲突降温",
+        "onboard_time": 1700394880,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405182,
+        "num": 405182,
+        "word": "LPL至暗时刻",
+        "onboard_time": 1700396198,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 492753,
+        "num": 403373,
+        "word": "T1夺冠",
+        "onboard_time": 1700392563,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312700,
+        "num": 401873,
+        "word": "国足世预赛",
+        "onboard_time": 1700395595,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401279,
+        "num": 401279,
+        "word": "时宴被偷家",
+        "onboard_time": 1700397159,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604705,
+        "num": 384985,
+        "word": "Faker年收入超4000万元",
+        "onboard_time": 1700398058,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355791,
+        "num": 355791,
+        "word": "时团 ENHYPEN",
+        "onboard_time": 1700389174,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333761,
+        "num": 333761,
+        "word": "冲锋衣销量猛涨",
+        "onboard_time": 1700397996,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 320518,
+        "num": 320518,
+        "word": "张遮母亲",
+        "onboard_time": 1700399739,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318467,
+        "num": 318467,
+        "word": "宁安如梦直播",
+        "onboard_time": 1700397096,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312378,
+        "num": 312378,
+        "word": "冠军皮肤",
+        "onboard_time": 1700395836,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 309323,
+        "num": 309323,
+        "word": "张凌赫宁安如梦破万手势舞",
+        "onboard_time": 1700395660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305251,
+        "num": 305251,
+        "word": "妈妈届窒息感天花板来了",
+        "onboard_time": 1700397876,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284659,
+        "num": 284659,
+        "word": "下周做什么都顺的星座",
+        "onboard_time": 1700389546,
+        "rank": 29,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 270991,
+        "num": 270991,
+        "word": "马立奥 叮叮当的一天",
+        "onboard_time": 1700398295,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253432,
+        "num": 253432,
+        "word": "王鹤棣素颜吃早餐",
+        "onboard_time": 1700399317,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249560,
+        "num": 249560,
+        "word": "王多多 电竞诗人",
+        "onboard_time": 1700399076,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240600,
+        "num": 240600,
+        "word": "AG战胜LGD",
+        "onboard_time": 1700399435,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240022,
+        "num": 240022,
+        "word": "杰斯吧 开香槟",
+        "onboard_time": 1700398895,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227818,
+        "num": 227818,
+        "word": "这搁内娱高低得谈个恋爱",
+        "onboard_time": 1700397159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225727,
+        "num": 225727,
+        "word": "32岁女子9年花费近27万吃海底捞",
+        "onboard_time": 1700375612,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224450,
+        "num": 224450,
+        "word": "虎扑评分",
+        "onboard_time": 1700395836,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210748,
+        "num": 210748,
+        "word": "时代少年团 女团舞",
+        "onboard_time": 1700384909,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147201,
+        "num": 208541,
+        "word": "阿拉伯伊斯兰国家外长联合代表团将访华",
+        "onboard_time": 1700395061,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208331,
+        "num": 208331,
+        "word": "Light明年再战",
+        "onboard_time": 1700396497,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207017,
+        "num": 207017,
+        "word": "腰真的一下子就舒服了",
+        "onboard_time": 1700381494,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 206398,
+        "num": 206398,
+        "word": "Zeus获FMVP",
+        "onboard_time": 1700394045,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206286,
+        "num": 206286,
+        "word": "刘耀文FEEL ME直拍",
+        "onboard_time": 1700399197,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "LCK 统治力",
+        "onboard_time": 1700399076,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198413,
+        "num": 198413,
+        "word": "TheShy 赛后采访",
+        "onboard_time": 1700399799,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197833,
+        "num": 197833,
+        "word": "我本是高山 人物设置",
+        "onboard_time": 1700399495,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127649,
+        "num": 194754,
+        "word": "身体弯曲180度20年折刀人被治愈",
+        "onboard_time": 1700399619,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127051,
+        "num": 194195,
+        "word": "家长会上父亲坦言儿子是学渣",
+        "onboard_time": 1700393390,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108766,
+        "num": 193894,
+        "word": "被家长会上爸爸高情商发言圈粉了",
+        "onboard_time": 1700399799,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样擘画亚太发展#"
+    }
+  }
+}

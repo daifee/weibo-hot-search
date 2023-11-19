@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700398014415,
+  "endTime": 1700399931945,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -287,6 +287,14 @@
       "num": 4273103,
       "word": "BLG战胜GEN",
       "onboard_time": 1699015058,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 3928342,
+      "num": 3928342,
+      "word": "T1战胜WBG",
+      "onboard_time": 1700392367,
       "rank": 0,
       "category": "电竞"
     },
@@ -3547,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1253063,
+      "num": 1050889,
+      "word": "李佳航少喝点",
+      "onboard_time": 1700396318,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 1252419,
       "num": 1252419,
       "word": "美香 回国",
@@ -4115,6 +4131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1144591,
+      "num": 1144591,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1142437,
       "num": 340693,
       "word": "金莎说男友扮猪吃老虎",
@@ -4547,14 +4571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1057814,
-      "num": 1057814,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1055405,
       "num": 792201,
       "word": "英雄联盟单曲PARANOIA",
@@ -4864,6 +4880,14 @@
       "word": "缅甸电诈家族遭打击后大批交人",
       "onboard_time": 1699947755,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1015153,
+      "num": 1015153,
+      "word": "27岁研究生离世前一天发文感恩感谢",
+      "onboard_time": 1700399016,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -5241,14 +5265,6 @@
       "onboard_time": 1699148011,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 958178,
-      "num": 958178,
-      "word": "李佳航少喝点",
-      "onboard_time": 1700396318,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 954845,
@@ -8307,6 +8323,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 700388,
+      "num": 466077,
+      "word": "RNG 含金量",
+      "onboard_time": 1700397334,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 700121,
       "num": 700121,
       "word": "肖战给李健演唱会送花篮",
@@ -8785,6 +8809,14 @@
       "onboard_time": 1699239933,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 666178,
+      "num": 412540,
+      "word": "TheShy回应是否退役",
+      "onboard_time": 1700399317,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 666166,
@@ -10033,6 +10065,14 @@
       "onboard_time": 1700361269,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604705,
+      "num": 384985,
+      "word": "Faker年收入超4000万元",
+      "onboard_time": 1700398058,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 604463,
@@ -12385,6 +12425,14 @@
       "onboard_time": 1700130756,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503987,
+      "num": 503987,
+      "word": "TVB台庆",
+      "onboard_time": 1700397635,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 503899,
@@ -16139,6 +16187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401279,
+      "num": 401279,
+      "word": "时宴被偷家",
+      "onboard_time": 1700397159,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401108,
       "num": 243938,
       "word": "经常涂润唇膏会有副作用吗",
@@ -17345,14 +17401,6 @@
       "onboard_time": 1699785215,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 375825,
-      "num": 375825,
-      "word": "RNG 含金量",
-      "onboard_time": 1700397334,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 375797,
@@ -19547,6 +19595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333761,
+      "num": 333761,
+      "word": "冲锋衣销量猛涨",
+      "onboard_time": 1700397996,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333514,
       "num": 333514,
       "word": "张小斐2023大女主票房第一",
@@ -19723,14 +19779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330641,
-      "num": 330641,
-      "word": "TVB台庆",
-      "onboard_time": 1700397635,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 330570,
       "num": 330570,
       "word": "樊胜美妈妈变本加厉",
@@ -19889,14 +19937,6 @@
       "onboard_time": 1700308894,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 328200,
-      "num": 328200,
-      "word": "时宴被偷家",
-      "onboard_time": 1700397159,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 327898,
@@ -20273,6 +20313,14 @@
       "onboard_time": 1699690530,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 320518,
+      "num": 320518,
+      "word": "张遮母亲",
+      "onboard_time": 1700399739,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 320054,
@@ -20771,6 +20819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312378,
+      "num": 312378,
+      "word": "冠军皮肤",
+      "onboard_time": 1700395836,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 312372,
       "num": 208305,
       "word": "宁安如梦 想嗑什么就剪什么",
@@ -21209,6 +21265,14 @@
       "onboard_time": 1699786354,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305251,
+      "num": 305251,
+      "word": "妈妈届窒息感天花板来了",
+      "onboard_time": 1700397876,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 305166,
@@ -22089,14 +22153,6 @@
       "onboard_time": 1700103158,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291502,
-      "num": 291502,
-      "word": "冠军皮肤",
-      "onboard_time": 1700395836,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 291490,
@@ -23795,6 +23851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270991,
+      "num": 270991,
+      "word": "马立奥 叮叮当的一天",
+      "onboard_time": 1700398295,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270943,
       "num": 447991,
       "word": "原来医院中条纹越多的越厉害",
@@ -25283,6 +25347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253432,
+      "num": 253432,
+      "word": "王鹤棣素颜吃早餐",
+      "onboard_time": 1700399317,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253279,
       "num": 253279,
       "word": "3块钱羽绒服",
@@ -25705,6 +25777,14 @@
       "onboard_time": 1699601072,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 249560,
+      "num": 249560,
+      "word": "王多多 电竞诗人",
+      "onboard_time": 1700399076,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 249545,
@@ -26723,12 +26803,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 240600,
+      "num": 240600,
+      "word": "AG战胜LGD",
+      "onboard_time": 1700399435,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240227,
       "num": 240227,
       "word": "匪我思存 为什么要写这样两个人物",
       "onboard_time": 1699507175,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240022,
+      "num": 240022,
+      "word": "杰斯吧 开香槟",
+      "onboard_time": 1700398895,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 239982,
@@ -31035,14 +31131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206867,
-      "num": 206867,
-      "word": "妈妈届窒息感天花板来了",
-      "onboard_time": 1700397876,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206843,
       "num": 206843,
       "word": "YG新女团将11月27日出道",
@@ -31129,6 +31217,14 @@
       "onboard_time": 1700031270,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206286,
+      "num": 206286,
+      "word": "刘耀文FEEL ME直拍",
+      "onboard_time": 1700399197,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 206231,
@@ -31673,6 +31769,14 @@
       "onboard_time": 1699439313,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202781,
+      "num": 202781,
+      "word": "LCK 统治力",
+      "onboard_time": 1700399076,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 202737,
@@ -32619,6 +32723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198413,
+      "num": 198413,
+      "word": "TheShy 赛后采访",
+      "onboard_time": 1700399799,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198319,
       "num": 198319,
       "word": "郑润泽巡演",
@@ -32737,6 +32849,14 @@
       "onboard_time": 1699782452,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197833,
+      "num": 197833,
+      "word": "我本是高山 人物设置",
+      "onboard_time": 1700399495,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 197765,
@@ -45115,6 +45235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127649,
+      "num": 194754,
+      "word": "身体弯曲180度20年折刀人被治愈",
+      "onboard_time": 1700399619,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127640,
       "num": 127640,
       "word": "下睫毛速成法",
@@ -47995,6 +48123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 108766,
+      "num": 193894,
+      "word": "被家长会上爸爸高情商发言圈粉了",
+      "onboard_time": 1700399799,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108664,
       "num": 462827,
       "word": "让吴京变成夹子音只需要一个女儿",
@@ -49329,14 +49465,6 @@
       "onboard_time": 1699787793,
       "rank": 14,
       "category": "体育,游戏"
-    },
-    {
-      "raw_hot": 94951,
-      "num": 167802,
-      "word": "冲锋衣销量猛涨",
-      "onboard_time": 1700397996,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 94859,
@@ -52145,6 +52273,14 @@
       "onboard_time": 1700177608,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36847,
+      "num": 1053189,
+      "word": "诗词藏着中国山水间的绝美景致",
+      "onboard_time": 1700398775,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36556,
