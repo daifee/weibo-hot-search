@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700428490307,
+  "endTime": 1700429653030,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -2164,7 +2164,7 @@
     },
     {
       "raw_hot": 185049,
-      "num": 54469,
+      "num": 69493,
       "word": "内娱史上最炸裂的6分32秒谈话",
       "onboard_time": 1700421135,
       "rank": 49,
@@ -3203,6 +3203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24173,
+      "num": 24173,
+      "word": "网友为了省钱学给女朋友做美甲",
+      "onboard_time": 1700425153,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 22591,
+      "num": 22591,
+      "word": "为什么长大后不愿意回家了",
+      "onboard_time": 1700426293,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21619,
       "num": 54570,
       "word": "朴宰范的精神状态",
@@ -3219,12 +3235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19898,
-      "num": 17001,
-      "word": "网友为了省钱学给女朋友做美甲",
-      "onboard_time": 1700425153,
-      "rank": 40,
-      "category": "美妆"
+      "raw_hot": 19184,
+      "num": 19184,
+      "word": "蔚来总裁回应倒闭质疑",
+      "onboard_time": 1700427553,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 18447,
@@ -3235,28 +3251,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18343,
-      "num": 18343,
-      "word": "为什么长大后不愿意回家了",
-      "onboard_time": 1700426293,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 14163,
       "num": 14720,
       "word": "电影我本是高山重返华坪女高",
       "onboard_time": 1700424073,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13366,
-      "num": 13366,
-      "word": "蔚来总裁回应倒闭质疑",
-      "onboard_time": 1700427553,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 7989,
