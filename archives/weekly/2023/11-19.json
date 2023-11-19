@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700372062434,
+  "endTime": 1700374896367,
   "band_list": [
     {
       "raw_hot": 2588889,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1387451,
+      "num": 314496,
+      "word": "韩国网吧偶遇罗云熙",
+      "onboard_time": 1700372550,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1290438,
       "num": 1290438,
       "word": "税务师 计算器快按冒烟了",
@@ -83,6 +91,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 786138,
+      "num": 786138,
+      "word": "胡歌刘涛争论用完的手纸是否带走",
+      "onboard_time": 1700371708,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 775739,
       "num": 366406,
       "word": "杨紫 泰国",
@@ -113,6 +129,14 @@
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 670531,
+      "num": 307675,
+      "word": "郭碧婷参加婚礼合影",
+      "onboard_time": 1700374471,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 638974,
@@ -161,6 +185,14 @@
       "onboard_time": 1700320655,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 558576,
+      "num": 301878,
+      "word": "陈都灵 马上表演白月光砸缸",
+      "onboard_time": 1700373329,
+      "rank": 12,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 544069,
@@ -379,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333626,
+      "num": 333626,
+      "word": "警方提醒捡到这种卡速销毁",
+      "onboard_time": 1700371888,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -403,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315881,
+      "num": 315881,
+      "word": "辽宁男篮支持张镇麟捍卫权益",
+      "onboard_time": 1700373391,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301093,
       "num": 503848,
       "word": "原来普通话是河北方言",
@@ -425,6 +473,14 @@
       "onboard_time": 1700354488,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280418,
+      "num": 280418,
+      "word": "权志龙毛发鉴定结果为阴性",
+      "onboard_time": 1700374410,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 272451,
@@ -467,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259586,
+      "num": 259586,
+      "word": "闫妮新片 谁偷我的狗要谁狗命",
+      "onboard_time": 1700372669,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258315,
       "num": 258315,
       "word": "谢危 无代餐",
@@ -497,6 +561,22 @@
       "onboard_time": 1700362291,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255349,
+      "num": 255349,
+      "word": "好馆子 评分3.8到4之间",
+      "onboard_time": 1700373449,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 247796,
+      "num": 238989,
+      "word": "于正回复只出大女主剧",
+      "onboard_time": 1700373814,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 246201,
@@ -635,6 +715,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 190990,
+      "num": 190990,
+      "word": "春晚有没有大学生通道",
+      "onboard_time": 1700371708,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188093,
       "num": 188093,
       "word": "导盲犬带主人吃火锅迷路",
@@ -699,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176899,
+      "num": 173224,
+      "word": "柳岩 不是我不懂搭配",
+      "onboard_time": 1700374230,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175421,
       "num": 159706,
       "word": "奶茶上的小盖子可以防尘",
@@ -707,12 +803,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 175111,
+      "num": 166726,
+      "word": "张凌赫一秒认出王鹤棣",
+      "onboard_time": 1700374410,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174356,
       "num": 154107,
       "word": "德国2比3土耳其",
       "onboard_time": 1700359107,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172616,
+      "num": 172616,
+      "word": "曾黎梅婷马伊俐合影",
+      "onboard_time": 1700371888,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 171711,
@@ -771,20 +883,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161638,
-      "num": 161638,
-      "word": "警方提醒捡到这种卡速销毁",
-      "onboard_time": 1700371888,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160818,
       "num": 160818,
       "word": "林俊杰演唱会开到了hi6",
       "onboard_time": 1700316692,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159729,
+      "num": 148642,
+      "word": "白鹿哭戏",
+      "onboard_time": 1700374471,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159432,
+      "num": 159432,
+      "word": "干燥皮肤急救法",
+      "onboard_time": 1700374591,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 155451,
@@ -827,14 +947,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 149728,
-      "num": 149728,
-      "word": "胡歌刘涛争论用完的手纸是否带走",
-      "onboard_time": 1700371708,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "谢危看到遮宁撑伞 无法原谅BGM",
@@ -873,6 +985,14 @@
       "onboard_time": 1700318855,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144673,
+      "num": 144673,
+      "word": "大批球迷深圳机场接机韩国队",
+      "onboard_time": 1700372669,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 142748,
@@ -971,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130926,
+      "num": 130926,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1700372610,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130199,
       "num": 137257,
       "word": "你想要的从来都不是我",
@@ -1011,14 +1139,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 121897,
-      "num": 121897,
-      "word": "春晚有没有大学生通道",
-      "onboard_time": 1700371708,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120774,
       "num": 120774,
       "word": "KARINA DRAMA直拍",
@@ -1043,12 +1163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109139,
-      "num": 109139,
-      "word": "曾黎梅婷马伊俐合影",
-      "onboard_time": 1700371888,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 109196,
+      "num": 130529,
+      "word": "哎呀好身材",
+      "onboard_time": 1700373750,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108483,
+      "num": 130525,
+      "word": "杨迪吃过最好吃的面",
+      "onboard_time": 1700374769,
+      "rank": 45,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 106096,
@@ -1097,6 +1225,14 @@
       "onboard_time": 1700364810,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97539,
+      "num": 130515,
+      "word": "婚宴现场宾客晕倒伴娘跪地紧急施救",
+      "onboard_time": 1700374293,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95628,
@@ -1227,6 +1363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82663,
+      "num": 130505,
+      "word": "日常首饰分享",
+      "onboard_time": 1700373692,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 81098,
       "num": 128292,
       "word": "告五人加盟我们的歌",
@@ -1289,6 +1433,14 @@
       "onboard_time": 1700325389,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36239,
+      "num": 147164,
+      "word": "S赛冠军座驾需要哪些特质",
+      "onboard_time": 1700372130,
+      "rank": 37,
+      "category": "电竞,汽车"
     },
     {
       "raw_hot": 29942,
