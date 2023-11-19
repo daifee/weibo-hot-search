@@ -1,0 +1,410 @@
+{
+  "runTime": 1700358109336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 820567,
+        "num": 820567,
+        "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+        "onboard_time": 1700317832,
+        "rank": 0,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 536924,
+        "num": 536924,
+        "word": "女子带9盒白糕到派出所放下就走",
+        "onboard_time": 1700355750,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7813,
+        "num": 439756,
+        "word": "2023年亚太经合组织领导人旧金山宣言",
+        "onboard_time": 1700296591,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 871251,
+        "num": 422203,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623139,
+        "num": 421187,
+        "word": "秦岚声带受损其实自己很沮丧",
+        "onboard_time": 1700319096,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391810,
+        "num": 391810,
+        "word": "王栎鑫 笑到下巴脱臼",
+        "onboard_time": 1700356349,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367115,
+        "num": 367115,
+        "word": "胡夏请来了那些年一起追过的沈佳宜",
+        "onboard_time": 1700316995,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364484,
+        "num": 364484,
+        "word": "鲁迅孙子自称90%刷视频10%看书",
+        "onboard_time": 1700309372,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353393,
+        "num": 353393,
+        "word": "Rookie直播提及Doinb",
+        "onboard_time": 1700349679,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291426,
+        "num": 291426,
+        "word": "杀破狼原唱经典回忆杀",
+        "onboard_time": 1700354488,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523383,
+        "num": 285889,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356615,
+        "num": 285738,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277356,
+        "num": 277356,
+        "word": "听说去澳门只需要带两根手指头",
+        "onboard_time": 1700319274,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245278,
+        "num": 245278,
+        "word": "萌兰打哈欠一张嘴血脉觉醒",
+        "onboard_time": 1700317653,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241616,
+        "num": 241616,
+        "word": "班上唯一认真听课的同学被抓走了",
+        "onboard_time": 1700345896,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225525,
+        "num": 225525,
+        "word": "黑莲花上位手册",
+        "onboard_time": 1700324672,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207509,
+        "num": 207509,
+        "word": "房东的猫从众筹到万人演唱会用了7年",
+        "onboard_time": 1700317114,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188333,
+        "num": 188333,
+        "word": "人的舌头为什么能喷出水",
+        "onboard_time": 1700316394,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167526,
+        "num": 167526,
+        "word": "马斯克祝贺SpaceX公司团队",
+        "onboard_time": 1700319397,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164201,
+        "num": 164201,
+        "word": "张晚意一集气死一个主任",
+        "onboard_time": 1700317832,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517112,
+        "num": 164008,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1700351964,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247491,
+        "num": 161368,
+        "word": "甲状腺癌常见的四个信号",
+        "onboard_time": 1700350884,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175421,
+        "num": 159706,
+        "word": "奶茶上的小盖子可以防尘",
+        "onboard_time": 1700356951,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 156884,
+        "word": "每年体检38岁男子被查出胰腺癌晚期",
+        "onboard_time": 1700316995,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155355,
+        "num": 155355,
+        "word": "如何正确清理耳朵",
+        "onboard_time": 1700352445,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 153440,
+        "num": 153440,
+        "word": "王鹤棣看了不得高兴死",
+        "onboard_time": 1700320176,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152902,
+        "num": 152902,
+        "word": "中国猫睡觉手不能露在被子外面",
+        "onboard_time": 1700323654,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149173,
+        "num": 149173,
+        "word": "谢危看到遮宁撑伞 无法原谅BGM",
+        "onboard_time": 1700356829,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132309,
+        "num": 132309,
+        "word": "法国14比0直布罗陀",
+        "onboard_time": 1700348899,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101824,
+        "num": 132133,
+        "word": "听董宇辉怎么描述板栗",
+        "onboard_time": 1700352928,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 222165,
+        "num": 132100,
+        "word": "知道皇帝为什么信任谢危了",
+        "onboard_time": 1700356951,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132013,
+        "num": 132013,
+        "word": "张凌赫模仿王星越好吃好吃",
+        "onboard_time": 1700356409,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127119,
+        "num": 127119,
+        "word": "张艺兴官方客服式回复",
+        "onboard_time": 1700354908,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128053,
+        "num": 125973,
+        "word": "张遮姜雪宁争执分手",
+        "onboard_time": 1700318915,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122624,
+        "num": 122624,
+        "word": "皓衣行新图",
+        "onboard_time": 1700321136,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122529,
+        "num": 122529,
+        "word": "吴世勋说中文不烫嘴",
+        "onboard_time": 1700319274,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116738,
+        "num": 116738,
+        "word": "金毛为靠近小鹿假装打滚",
+        "onboard_time": 1700357970,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105093,
+        "num": 105093,
+        "word": "张艺兴演唱会每个座位都有伴手礼",
+        "onboard_time": 1700320298,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103852,
+        "num": 103852,
+        "word": "微博视界大会",
+        "onboard_time": 1700356230,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102690,
+        "num": 102690,
+        "word": "瘦瘦笔减肥 副作用",
+        "onboard_time": 1700357910,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101052,
+        "num": 101052,
+        "word": "适合普通人的中式减脂餐",
+        "onboard_time": 1700357910,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95517,
+        "num": 100974,
+        "word": "宁安如梦编剧",
+        "onboard_time": 1700320655,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90795,
+        "num": 100857,
+        "word": "原来普通话是河北方言",
+        "onboard_time": 1700307154,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86446,
+        "num": 100610,
+        "word": "郝蕾看完沈梦辰表演沉默了",
+        "onboard_time": 1700319337,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85971,
+        "num": 100392,
+        "word": "马斯克SpaceX星舰发射失败",
+        "onboard_time": 1700314776,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84571,
+        "num": 100250,
+        "word": "这是一位被幼儿园耽误的托尼老师",
+        "onboard_time": 1700349560,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83512,
+        "num": 99989,
+        "word": "李米找了四年 周迅等了四年",
+        "onboard_time": 1700357489,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77807,
+        "num": 99913,
+        "word": "哥哥去世1年11岁妹妹也患同样病",
+        "onboard_time": 1700299591,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75127,
+        "num": 99617,
+        "word": "北京夜空真的有凤凰在飞",
+        "onboard_time": 1700350280,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73792,
+        "num": 99512,
+        "word": "新裤子现场偶遇高圆圆",
+        "onboard_time": 1700353047,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金30年#"
+    }
+  }
+}

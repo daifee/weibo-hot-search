@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700356851794,
+  "endTime": 1700358109336,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -19,20 +19,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 871251,
+      "num": 422203,
+      "word": "女子花1.8万买衣服一年不发货不退款",
+      "onboard_time": 1700319457,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820567,
+      "num": 820567,
+      "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+      "onboard_time": 1700317832,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 775739,
       "num": 366406,
       "word": "杨紫 泰国",
       "onboard_time": 1700313814,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 754555,
-      "num": 754555,
-      "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
-      "onboard_time": 1700317832,
-      "rank": 24,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 687643,
@@ -67,16 +75,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 484764,
-      "num": 268257,
-      "word": "女子花1.8万买衣服一年不发货不退款",
-      "onboard_time": 1700319457,
-      "rank": 20,
+      "raw_hot": 536924,
+      "num": 536924,
+      "word": "女子带9盒白糕到派出所放下就走",
+      "onboard_time": 1700355750,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
       "raw_hot": 456559,
-      "num": 320917,
+      "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
       "onboard_time": 1700316995,
       "rank": 32,
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391810,
+      "num": 391810,
+      "word": "王栎鑫 笑到下巴脱臼",
+      "onboard_time": 1700356349,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372387,
       "num": 372387,
       "word": "马斯克祝贺SpaceX公司团队",
@@ -129,6 +145,14 @@
       "onboard_time": 1700349679,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 364484,
+      "num": 371516,
+      "word": "鲁迅孙子自称90%刷视频10%看书",
+      "onboard_time": 1700309372,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363499,
@@ -171,14 +195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 313373,
-      "num": 371516,
-      "word": "鲁迅孙子自称90%刷视频10%看书",
-      "onboard_time": 1700309372,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301093,
       "num": 503848,
       "word": "原来普通话是河北方言",
@@ -193,6 +209,14 @@
       "onboard_time": 1700316995,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 291426,
+      "num": 291426,
+      "word": "杀破狼原唱经典回忆杀",
+      "onboard_time": 1700354488,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 272451,
@@ -235,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247568,
-      "num": 224328,
-      "word": "杀破狼原唱经典回忆杀",
-      "onboard_time": 1700354488,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 225348,
       "num": 225348,
       "word": "张艺兴演唱会每个座位都有伴手礼",
@@ -251,12 +267,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 224303,
-      "num": 224303,
-      "word": "女子带9盒白糕到派出所放下就走",
-      "onboard_time": 1700355750,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 222165,
+      "num": 132100,
+      "word": "知道皇帝为什么信任谢危了",
+      "onboard_time": 1700356951,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 218049,
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183355,
-      "num": 168732,
-      "word": "王栎鑫 笑到下巴脱臼",
-      "onboard_time": 1700356349,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179711,
       "num": 179711,
       "word": "李健现场",
       "onboard_time": 1700321734,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175421,
+      "num": 159706,
+      "word": "奶茶上的小盖子可以防尘",
+      "onboard_time": 1700356951,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 170229,
@@ -379,12 +395,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148645,
+      "raw_hot": 152902,
       "num": 187869,
       "word": "中国猫睡觉手不能露在被子外面",
       "onboard_time": 1700323654,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149173,
+      "num": 149173,
+      "word": "谢危看到遮宁撑伞 无法原谅BGM",
+      "onboard_time": 1700356829,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 148068,
@@ -427,6 +451,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 132013,
+      "num": 132013,
+      "word": "张凌赫模仿王星越好吃好吃",
+      "onboard_time": 1700356409,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130199,
       "num": 137257,
       "word": "你想要的从来都不是我",
@@ -443,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127119,
+      "num": 127119,
+      "word": "张艺兴官方客服式回复",
+      "onboard_time": 1700354908,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125893,
       "num": 187650,
       "word": "以色列称将攻打加沙全境",
@@ -451,20 +491,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 114785,
-      "num": 114785,
-      "word": "张艺兴官方客服式回复",
-      "onboard_time": 1700354908,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 114554,
-      "num": 114554,
-      "word": "张凌赫模仿王星越好吃好吃",
-      "onboard_time": 1700356409,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 116738,
+      "num": 116738,
+      "word": "金毛为靠近小鹿假装打滚",
+      "onboard_time": 1700357970,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 106096,
@@ -483,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 102690,
+      "num": 102690,
+      "word": "瘦瘦笔减肥 副作用",
+      "onboard_time": 1700357910,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102628,
       "num": 229283,
       "word": "SpaceX称被迫触发星舰的自毁功能",
@@ -491,8 +531,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101052,
+      "num": 101052,
+      "word": "适合普通人的中式减脂餐",
+      "onboard_time": 1700357910,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95628,
-      "num": 95628,
+      "num": 100250,
       "word": "这是一位被幼儿园耽误的托尼老师",
       "onboard_time": 1700349560,
       "rank": 35,
@@ -532,7 +580,7 @@
     },
     {
       "raw_hot": 87008,
-      "num": 95274,
+      "num": 99617,
       "word": "北京夜空真的有凤凰在飞",
       "onboard_time": 1700350280,
       "rank": 49,
@@ -547,12 +595,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 78428,
-      "num": 95223,
-      "word": "谢危看到遮宁撑伞 无法原谅BGM",
-      "onboard_time": 1700356829,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 83512,
+      "num": 99989,
+      "word": "李米找了四年 周迅等了四年",
+      "onboard_time": 1700357489,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 76231,
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 7989,
-      "num": 324961,
+      "num": 439756,
       "word": "2023年亚太经合组织领导人旧金山宣言",
       "onboard_time": 1700296591,
       "rank": 2,
