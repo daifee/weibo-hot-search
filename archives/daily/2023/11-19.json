@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700361714044,
+  "endTime": 1700363897349,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1950587,
-      "num": 1950587,
+      "raw_hot": 2208446,
+      "num": 2208446,
       "word": "男子丢失30万手机女子捡到以为老年机",
       "onboard_time": 1700359350,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1435154,
-      "num": 431526,
+      "num": 601322,
       "word": "女子花1.8万买衣服一年不发货不退款",
       "onboard_time": 1700319457,
       "rank": 20,
@@ -60,11 +60,27 @@
     },
     {
       "raw_hot": 685290,
-      "num": 182452,
+      "num": 195044,
       "word": "上厕所玩手机容易引发多种疾病",
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 623337,
+      "num": 623337,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1700363732,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 588635,
+      "num": 588635,
+      "word": "新闻女王 下属用上司同款香水",
+      "onboard_time": 1700361150,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 586934,
@@ -73,6 +89,22 @@
       "onboard_time": 1700320655,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 577421,
+      "num": 577421,
+      "word": "花花等谭爷爷一起下班",
+      "onboard_time": 1700361269,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553040,
+      "num": 255848,
+      "word": "王鹤棣头发这么长了",
+      "onboard_time": 1700362108,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544069,
@@ -131,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404543,
+      "num": 255824,
+      "word": "沙溢 范丞丞这两天将改变尼莫一生",
+      "onboard_time": 1700362410,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391810,
       "num": 391810,
       "word": "王栎鑫 笑到下巴脱臼",
@@ -155,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371289,
+      "num": 371289,
+      "word": "陈楚生这棍子好像只认识陆虎",
+      "onboard_time": 1700359888,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369567,
-      "num": 174737,
+      "num": 185126,
       "word": "甲状腺癌常见的四个信号",
       "onboard_time": 1700350884,
       "rank": 22,
@@ -195,20 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357647,
-      "num": 357647,
-      "word": "陈楚生这棍子好像只认识陆虎",
-      "onboard_time": 1700359888,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354713,
       "num": 354713,
       "word": "瘦瘦笔减肥 副作用",
       "onboard_time": 1700357910,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 351227,
+      "num": 255812,
+      "word": "艺人对发量的执念有多深",
+      "onboard_time": 1700360970,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 350484,
@@ -283,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263631,
+      "num": 263631,
+      "word": "时宴 工具人",
+      "onboard_time": 1700362291,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262618,
       "num": 271543,
       "word": "cp30",
@@ -307,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256532,
+      "num": 131602,
+      "word": "纣王 姬发想要我的逆子",
+      "onboard_time": 1700363190,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 255802,
+      "num": 255802,
+      "word": "杜兰特想恋爱了",
+      "onboard_time": 1700362291,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244135,
       "num": 244135,
       "word": "李晨 这是生态篇不是心态篇",
@@ -323,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221000,
+      "num": 221000,
+      "word": "琉璃血书",
+      "onboard_time": 1700362649,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218049,
       "num": 503456,
       "word": "为什么得甲状腺癌的年轻人越来越多了",
@@ -337,14 +417,6 @@
       "onboard_time": 1700322452,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214300,
-      "num": 214300,
-      "word": "新闻女王 下属用上司同款香水",
-      "onboard_time": 1700361150,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 206981,
@@ -369,14 +441,6 @@
       "onboard_time": 1700348899,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192694,
-      "num": 142207,
-      "word": "艺人对发量的执念有多深",
-      "onboard_time": 1700360970,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 187627,
@@ -491,12 +555,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150844,
-      "num": 150844,
-      "word": "花花等谭爷爷一起下班",
-      "onboard_time": 1700361269,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 151332,
+      "num": 151332,
+      "word": "上海迪士尼100周年限定款烟花秀",
+      "onboard_time": 1700362589,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 149173,
@@ -571,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136312,
+      "num": 136312,
+      "word": "孟子义蔡文静脑回路 卧龙凤雏",
+      "onboard_time": 1700361569,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136213,
       "num": 142356,
       "word": "听董宇辉怎么描述板栗",
       "onboard_time": 1700352928,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 134279,
+      "num": 134279,
+      "word": "哈兰德厄德高无缘欧洲杯",
+      "onboard_time": 1700362532,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 132460,
@@ -611,8 +691,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128435,
+      "num": 437497,
+      "word": "下一个中国还是中国",
+      "onboard_time": 1700361627,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127119,
-      "num": 127119,
+      "num": 128395,
       "word": "张艺兴官方客服式回复",
       "onboard_time": 1700354908,
       "rank": 33,
@@ -627,12 +715,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 117249,
-      "num": 117249,
-      "word": "孟子义蔡文静脑回路 卧龙凤雏",
-      "onboard_time": 1700361569,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 110489,
+      "num": 128419,
+      "word": "时宴我心疼你",
+      "onboard_time": 1700362709,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 106096,
@@ -739,6 +827,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81098,
+      "num": 128292,
+      "word": "告五人加盟我们的歌",
+      "onboard_time": 1700362769,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77598,
+      "num": 128259,
+      "word": "美国菜特别节目",
+      "onboard_time": 1700362168,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76231,
       "num": 94918,
       "word": "姜雪宁 红梅白雪",
@@ -787,8 +891,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 29084,
-      "num": 231665,
+      "raw_hot": 29428,
+      "num": 604019,
       "word": "这件彩陶盆有5000年前黄河边跳舞画面",
       "onboard_time": 1700361150,
       "rank": 15,
@@ -819,14 +923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12631,
-      "num": 437497,
-      "word": "下一个中国还是中国",
-      "onboard_time": 1700361627,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 7989,
       "num": 439756,
       "word": "2023年亚太经合组织领导人旧金山宣言",
@@ -847,6 +943,9 @@
     },
     {
       "word": "#习近平回到北京#"
+    },
+    {
+      "word": "#习近平主席这样擘画亚太发展#"
     }
   ]
 }
