@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700399931945,
+  "endTime": 1700400846995,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -921,6 +921,14 @@
       "onboard_time": 1700364152,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2370275,
+      "num": 2370275,
+      "word": "27岁研究生离世前一天发文感恩感谢",
+      "onboard_time": 1700399016,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2361808,
@@ -1908,7 +1916,7 @@
     },
     {
       "raw_hot": 1736182,
-      "num": 510176,
+      "num": 685937,
       "word": "WBG发文告别S13",
       "onboard_time": 1700395297,
       "rank": 15,
@@ -3059,6 +3067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1380344,
+      "num": 1380344,
+      "word": "李佳航少喝点",
+      "onboard_time": 1700396318,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 1379184,
       "num": 1379184,
       "word": "接了个大单没想到是贾乃亮",
@@ -3555,14 +3571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1253063,
-      "num": 1050889,
-      "word": "李佳航少喝点",
-      "onboard_time": 1700396318,
-      "rank": 13,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 1252419,
       "num": 1252419,
       "word": "美香 回国",
@@ -3899,6 +3907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1179049,
+      "num": 506151,
+      "word": "TheShy回应是否退役",
+      "onboard_time": 1700399317,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1178201,
       "num": 1178201,
       "word": "关晓彤生日被整蛊",
@@ -4115,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1149137,
+      "num": 1144591,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1146406,
       "num": 571662,
       "word": "蒲熠星 跟大家分享一件失败的事情",
@@ -4129,14 +4153,6 @@
       "onboard_time": 1699860215,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1144591,
-      "num": 1144591,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 1142437,
@@ -4880,14 +4896,6 @@
       "word": "缅甸电诈家族遭打击后大批交人",
       "onboard_time": 1699947755,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1015153,
-      "num": 1015153,
-      "word": "27岁研究生离世前一天发文感恩感谢",
-      "onboard_time": 1700399016,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -8324,7 +8332,7 @@
     },
     {
       "raw_hot": 700388,
-      "num": 466077,
+      "num": 490452,
       "word": "RNG 含金量",
       "onboard_time": 1700397334,
       "rank": 18,
@@ -8809,14 +8817,6 @@
       "onboard_time": 1699239933,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 666178,
-      "num": 412540,
-      "word": "TheShy回应是否退役",
-      "onboard_time": 1700399317,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 666166,
@@ -10068,7 +10068,7 @@
     },
     {
       "raw_hot": 604705,
-      "num": 384985,
+      "num": 394950,
       "word": "Faker年收入超4000万元",
       "onboard_time": 1700398058,
       "rank": 21,
@@ -12371,6 +12371,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 506575,
+      "num": 506575,
+      "word": "时宴被偷家",
+      "onboard_time": 1700397159,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506561,
       "num": 506561,
       "word": "新疆多地出现罕见红色极光",
@@ -13865,6 +13873,14 @@
       "onboard_time": 1699109380,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460475,
+      "num": 460475,
+      "word": "张遮母亲",
+      "onboard_time": 1700399739,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 460334,
@@ -16187,14 +16203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 401279,
-      "num": 401279,
-      "word": "时宴被偷家",
-      "onboard_time": 1700397159,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401108,
       "num": 243938,
       "word": "经常涂润唇膏会有副作用吗",
@@ -16897,6 +16905,14 @@
       "onboard_time": 1700017352,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387067,
+      "num": 387067,
+      "word": "冲锋衣销量猛涨",
+      "onboard_time": 1700397996,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 387054,
@@ -19595,14 +19611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333761,
-      "num": 333761,
-      "word": "冲锋衣销量猛涨",
-      "onboard_time": 1700397996,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 333514,
       "num": 333514,
       "word": "张小斐2023大女主票房第一",
@@ -20219,6 +20227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322345,
+      "num": 322345,
+      "word": "我本是高山编剧",
+      "onboard_time": 1700399921,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 322230,
       "num": 245073,
       "word": "白鹿抽到丞磊的字条",
@@ -20313,14 +20329,6 @@
       "onboard_time": 1699690530,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 320518,
-      "num": 320518,
-      "word": "张遮母亲",
-      "onboard_time": 1700399739,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 320054,
@@ -23363,6 +23371,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 276729,
+      "num": 276729,
+      "word": "王鹤棣素颜吃早餐",
+      "onboard_time": 1700399317,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276558,
       "num": 276558,
       "word": "管泽元说T1最多输一把",
@@ -23673,6 +23689,14 @@
       "onboard_time": 1699933174,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272485,
+      "num": 272485,
+      "word": "杰斯吧 开香槟",
+      "onboard_time": 1700398895,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 272451,
@@ -24217,6 +24241,14 @@
       "onboard_time": 1698996093,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265620,
+      "num": 265620,
+      "word": "张遮推了姜雪宁",
+      "onboard_time": 1700400278,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 265566,
@@ -25345,14 +25377,6 @@
       "onboard_time": 1699427138,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253432,
-      "num": 253432,
-      "word": "王鹤棣素颜吃早餐",
-      "onboard_time": 1700399317,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 253279,
@@ -26819,14 +26843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240022,
-      "num": 240022,
-      "word": "杰斯吧 开香槟",
-      "onboard_time": 1700398895,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 239982,
       "num": 239982,
       "word": "被张小斐身上的姐感蛊到",
@@ -27081,6 +27097,14 @@
       "onboard_time": 1698944062,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 237398,
+      "num": 237398,
+      "word": "范丞丞被白鹿拉着飞奔",
+      "onboard_time": 1700400160,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 237363,
@@ -28608,6 +28632,14 @@
       "word": "WBG对战MRC",
       "onboard_time": 1699604252,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 224727,
+      "num": 224727,
+      "word": "TheShy 赛后采访",
+      "onboard_time": 1700399799,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -32721,14 +32753,6 @@
       "onboard_time": 1699280802,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 198413,
-      "num": 198413,
-      "word": "TheShy 赛后采访",
-      "onboard_time": 1700399799,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 198319,
@@ -37715,6 +37739,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 171147,
+      "num": 171147,
+      "word": "管泽元鲜奶",
+      "onboard_time": 1700400817,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171085,
       "num": 171085,
       "word": "还以为蛋糕倒了",
@@ -42043,6 +42075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145855,
+      "num": 213152,
+      "word": "身体弯曲180度20年折刀人被治愈",
+      "onboard_time": 1700399619,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145845,
       "num": 145845,
       "word": "美团骑手年龄上限45岁系谣言",
@@ -43496,6 +43536,14 @@
       "word": "手把手教你跨省看病怎么走医保",
       "onboard_time": 1699881755,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137353,
+      "num": 193894,
+      "word": "被家长会上爸爸高情商发言圈粉了",
+      "onboard_time": 1700399799,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -45233,14 +45281,6 @@
       "onboard_time": 1699838552,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127649,
-      "num": 194754,
-      "word": "身体弯曲180度20年折刀人被治愈",
-      "onboard_time": 1700399619,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127640,
@@ -48121,14 +48161,6 @@
       "onboard_time": 1700063011,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 108766,
-      "num": 193894,
-      "word": "被家长会上爸爸高情商发言圈粉了",
-      "onboard_time": 1700399799,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108664,
@@ -51443,6 +51475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60059,
+      "num": 1708172,
+      "word": "诗词藏着中国山水间的绝美景致",
+      "onboard_time": 1700398775,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60010,
       "num": 60010,
       "word": "杨幂去爱奇艺尖叫之夜",
@@ -52273,14 +52313,6 @@
       "onboard_time": 1700177608,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36847,
-      "num": 1053189,
-      "word": "诗词藏着中国山水间的绝美景致",
-      "onboard_time": 1700398775,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36556,
