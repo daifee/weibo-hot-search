@@ -1,0 +1,410 @@
+{
+  "runTime": 1700382841504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3842565,
+        "num": 3842565,
+        "word": "WBG对战T1",
+        "onboard_time": 1700379393,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1067280,
+        "num": 1067280,
+        "word": "S13总决赛 比分预测",
+        "onboard_time": 1700378492,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32562,
+        "num": 861942,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1700361627,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3190932,
+        "num": 850484,
+        "word": "六公主回应我本是高山争议",
+        "onboard_time": 1700379210,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 793984,
+        "num": 793984,
+        "word": "宋轶生气会和朋友打十几小时电话",
+        "onboard_time": 1700378314,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586944,
+        "num": 586944,
+        "word": "S13总决赛",
+        "onboard_time": 1700380410,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 548440,
+        "num": 548440,
+        "word": "花儿与少年连更12天",
+        "onboard_time": 1700379030,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388738,
+        "num": 388738,
+        "word": "6岁女孩在横店当童漂4个月赚250元",
+        "onboard_time": 1700375190,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977052,
+        "num": 388733,
+        "word": "夫妻投资2千万盘活烂尾楼被刑拘",
+        "onboard_time": 1700378612,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386589,
+        "num": 386589,
+        "word": "时代少年团今天换妆造了",
+        "onboard_time": 1700376753,
+        "rank": 9,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 1005926,
+        "num": 384994,
+        "word": "32岁女子9年花费近27万吃海底捞",
+        "onboard_time": 1700375612,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547482,
+        "num": 384715,
+        "word": "韩国网吧偶遇罗云熙",
+        "onboard_time": 1700372550,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380270,
+        "num": 380270,
+        "word": "Faker S13数据",
+        "onboard_time": 1700381193,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 378928,
+        "num": 378928,
+        "word": "张家界遍地都是韩国人",
+        "onboard_time": 1700381494,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 368270,
+        "num": 368270,
+        "word": "我本是高山编剧回应",
+        "onboard_time": 1700364152,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314781,
+        "num": 314781,
+        "word": "郭碧婷参加婚礼合影",
+        "onboard_time": 1700374471,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278921,
+        "num": 278921,
+        "word": "杨迪回应谢娜做的面不是剩的",
+        "onboard_time": 1700381732,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201966,
+        "num": 278706,
+        "word": "男子丢失30万手机女子捡到以为老年机",
+        "onboard_time": 1700359350,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188324,
+        "num": 278510,
+        "word": "税务师 计算器快按冒烟了",
+        "onboard_time": 1700366188,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165857,
+        "num": 278002,
+        "word": "警方提醒捡到这种卡速销毁",
+        "onboard_time": 1700371888,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483689,
+        "num": 277579,
+        "word": "腰真的一下子就舒服了",
+        "onboard_time": 1700381494,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 372997,
+        "num": 276939,
+        "word": "女子换衣时发现胸部异常确诊淋巴癌",
+        "onboard_time": 1700376332,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109401,
+        "num": 276528,
+        "word": "LPL粉丝花式应援",
+        "onboard_time": 1700379754,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276456,
+        "num": 276456,
+        "word": "TheShy世界赛BO5面对外赛区百分百胜率",
+        "onboard_time": 1700381193,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244867,
+        "num": 244867,
+        "word": "WBG 我们每个人都有不得不赢的理由",
+        "onboard_time": 1700366369,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234832,
+        "num": 234832,
+        "word": "宋亚轩贺峻霖说相声",
+        "onboard_time": 1700381976,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234182,
+        "num": 234182,
+        "word": "马嘉祺爱心露背拖尾礼服",
+        "onboard_time": 1700381976,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229390,
+        "num": 229390,
+        "word": "用开水烫餐具有没有必要",
+        "onboard_time": 1700379393,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217905,
+        "num": 217905,
+        "word": "丁程鑫说我只想赶紧跳舞",
+        "onboard_time": 1700379393,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121444,
+        "num": 217179,
+        "word": "辽宁男篮支持张镇麟捍卫权益",
+        "onboard_time": 1700373391,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247510,
+        "num": 217062,
+        "word": "小虎 燃烧吧",
+        "onboard_time": 1700382811,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216795,
+        "num": 216795,
+        "word": "网友锐评我本是高山",
+        "onboard_time": 1700379331,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187687,
+        "num": 187687,
+        "word": "柳岩 不是我不懂搭配",
+        "onboard_time": 1700374230,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184386,
+        "num": 184386,
+        "word": "陈都灵 马上表演白月光砸缸",
+        "onboard_time": 1700373329,
+        "rank": 33,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 182957,
+        "num": 182957,
+        "word": "张凌赫一秒认出王鹤棣",
+        "onboard_time": 1700374410,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175367,
+        "num": 175367,
+        "word": "秦岚情绪稳定的东北粮仓",
+        "onboard_time": 1700382155,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172400,
+        "num": 172400,
+        "word": "崔然竣跳了rush hour",
+        "onboard_time": 1700381976,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169155,
+        "num": 169155,
+        "word": "DRG对战DYG",
+        "onboard_time": 1700380771,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163039,
+        "num": 163039,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700363732,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112195,
+        "num": 158956,
+        "word": "花花等谭爷爷一起下班",
+        "onboard_time": 1700361269,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156128,
+        "num": 156128,
+        "word": "胡歌刘涛争论用完的手纸是否带走",
+        "onboard_time": 1700371708,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155556,
+        "num": 155556,
+        "word": "当问奶奶结婚有什么好处时",
+        "onboard_time": 1700381555,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136678,
+        "num": 136678,
+        "word": "谢危跌进姜雪宁怀里",
+        "onboard_time": 1700380290,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129013,
+        "num": 129013,
+        "word": "景甜 如何走出心情低谷",
+        "onboard_time": 1700382512,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114847,
+        "num": 129013,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108189,
+        "num": 129007,
+        "word": "帮老人点一份不要辣的",
+        "onboard_time": 1700381794,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104180,
+        "num": 129006,
+        "word": "危宁大婚造型",
+        "onboard_time": 1700375190,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93149,
+        "num": 129001,
+        "word": "星舰内部是六层豪宅",
+        "onboard_time": 1700374889,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92815,
+        "num": 129000,
+        "word": "医院候诊室安排植物大战僵尸解闷",
+        "onboard_time": 1700380410,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90025,
+        "num": 128996,
+        "word": "于正回复只出大女主剧",
+        "onboard_time": 1700373814,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金三十年#"
+    }
+  }
+}

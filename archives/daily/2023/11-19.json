@@ -1,7 +1,15 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700382035684,
+  "endTime": 1700382841504,
   "band_list": [
+    {
+      "raw_hot": 3842565,
+      "num": 3842565,
+      "word": "WBG对战T1",
+      "onboard_time": 1700379393,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 3498364,
       "num": 888719,
@@ -9,14 +17,6 @@
       "onboard_time": 1700379210,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2981147,
-      "num": 2981147,
-      "word": "WBG对战T1",
-      "onboard_time": 1700379393,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 2588889,
@@ -107,7 +107,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 931425,
+      "raw_hot": 977052,
       "num": 931425,
       "word": "夫妻投资2千万盘活烂尾楼被刑拘",
       "onboard_time": 1700378612,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483689,
+      "num": 277579,
+      "word": "腰真的一下子就舒服了",
+      "onboard_time": 1700381494,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 477159,
       "num": 477159,
       "word": "2024载人航天飞行任务标识发布",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 432212,
-      "num": 246116,
+      "num": 276939,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
       "onboard_time": 1700376332,
       "rank": 20,
@@ -395,20 +403,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 429617,
-      "num": 245005,
-      "word": "腰真的一下子就舒服了",
-      "onboard_time": 1700381494,
-      "rank": 22,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 391810,
       "num": 391810,
       "word": "王栎鑫 笑到下巴脱臼",
       "onboard_time": 1700356349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378928,
+      "num": 378928,
+      "word": "张家界遍地都是韩国人",
+      "onboard_time": 1700381494,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 376081,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 359456,
-      "num": 244359,
+      "num": 276456,
       "word": "TheShy世界赛BO5面对外赛区百分百胜率",
       "onboard_time": 1700381193,
       "rank": 23,
@@ -619,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278921,
+      "num": 278921,
+      "word": "杨迪回应谢娜做的面不是剩的",
+      "onboard_time": 1700381732,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272451,
       "num": 272451,
       "word": "萌兰打哈欠一张嘴血脉觉醒",
@@ -707,20 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249045,
-      "num": 249045,
-      "word": "张家界遍地都是韩国人",
-      "onboard_time": 1700381494,
-      "rank": 17,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 247796,
       "num": 238989,
       "word": "于正回复只出大女主剧",
       "onboard_time": 1700373814,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247510,
+      "num": 217062,
+      "word": "小虎 燃烧吧",
+      "onboard_time": 1700382811,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 246201,
@@ -779,6 +795,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234182,
+      "num": 234182,
+      "word": "马嘉祺爱心露背拖尾礼服",
+      "onboard_time": 1700381976,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 229390,
+      "num": 229390,
+      "word": "用开水烫餐具有没有必要",
+      "onboard_time": 1700379393,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225486,
       "num": 225486,
       "word": "日本赛陈雨菲女单亚军",
@@ -827,8 +859,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215319,
-      "num": 215319,
+      "raw_hot": 216795,
+      "num": 216795,
       "word": "网友锐评我本是高山",
       "onboard_time": 1700379331,
       "rank": 27,
@@ -881,14 +913,6 @@
       "onboard_time": 1700367208,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201639,
-      "num": 201639,
-      "word": "用开水烫餐具有没有必要",
-      "onboard_time": 1700379393,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 200862,
@@ -979,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185512,
-      "num": 185512,
-      "word": "杨迪回应谢娜做的面不是剩的",
-      "onboard_time": 1700381732,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181159,
       "num": 181159,
       "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
@@ -1027,6 +1043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 175367,
+      "num": 175367,
+      "word": "秦岚情绪稳定的东北粮仓",
+      "onboard_time": 1700382155,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174356,
       "num": 154107,
       "word": "德国2比3土耳其",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1700371888,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172400,
+      "num": 172400,
+      "word": "崔然竣跳了rush hour",
+      "onboard_time": 1700381976,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 171711,
@@ -1064,14 +1096,6 @@
       "word": "房东的猫演唱会嘉宾是马頔",
       "onboard_time": 1700328024,
       "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 169903,
-      "num": 169903,
-      "word": "马嘉祺爱心露背拖尾礼服",
-      "onboard_time": 1700381976,
-      "rank": 36,
       "category": "演出"
     },
     {
@@ -1129,6 +1153,14 @@
       "onboard_time": 1700374591,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155556,
+      "num": 155556,
+      "word": "当问奶奶结婚有什么好处时",
+      "onboard_time": 1700381555,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 155451,
@@ -1268,7 +1300,7 @@
     },
     {
       "raw_hot": 140057,
-      "num": 437497,
+      "num": 861942,
       "word": "下一个中国还是中国",
       "onboard_time": 1700361627,
       "rank": 2,
@@ -1323,14 +1355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133667,
-      "num": 133667,
-      "word": "崔然竣跳了rush hour",
-      "onboard_time": 1700381976,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 133252,
       "num": 133252,
       "word": "没有边界感的小狗",
@@ -1379,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129013,
+      "num": 129013,
+      "word": "景甜 如何走出心情低谷",
+      "onboard_time": 1700382512,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128978,
       "num": 201361,
       "word": "你女朋友不洗头啊",
@@ -1412,19 +1444,11 @@
     },
     {
       "raw_hot": 119839,
-      "num": 119839,
+      "num": 129000,
       "word": "医院候诊室安排植物大战僵尸解闷",
       "onboard_time": 1700380410,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115037,
-      "num": 115037,
-      "word": "当问奶奶结婚有什么好处时",
-      "onboard_time": 1700381555,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 114157,
@@ -1451,6 +1475,14 @@
       "category": "艺人,运动健身"
     },
     {
+      "raw_hot": 109401,
+      "num": 276528,
+      "word": "LPL粉丝花式应援",
+      "onboard_time": 1700379754,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109215,
       "num": 108982,
       "word": "陈楚生的双标时刻",
@@ -1467,8 +1499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106286,
-      "num": 106286,
+      "raw_hot": 108189,
+      "num": 129007,
       "word": "帮老人点一份不要辣的",
       "onboard_time": 1700381794,
       "rank": 45,
@@ -1691,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80541,
-      "num": 246129,
-      "word": "LPL粉丝花式应援",
-      "onboard_time": 1700379754,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77598,
       "num": 128259,
       "word": "美国菜特别节目",
@@ -1818,6 +1842,9 @@
     },
     {
       "word": "#习近平主席这样擘画亚太发展#"
+    },
+    {
+      "word": "#共同打造亚太下一个黄金三十年#"
     }
   ]
 }
