@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700389077081,
+  "endTime": 1700390056092,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -473,6 +473,14 @@
       "onboard_time": 1679751112,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12632234,
+      "num": 12632234,
+      "word": "WBG对战T1",
+      "onboard_time": 1700379393,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 12583395,
@@ -1705,14 +1713,6 @@
       "onboard_time": 1688121335,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8262600,
-      "num": 8262600,
-      "word": "WBG对战T1",
-      "onboard_time": 1700379393,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 8258928,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/19 18:17:57
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/19 18:34:16
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ TFBOYS快本的信（热度：13782438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4wink%23" target="weibo">
 迪丽热巴wink（热度：12694869）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+WBG对战T1（热度：12632234）
 </a>
 </li>
 
@@ -1289,12 +1295,6 @@ TFBOYS演唱会官宣（热度：9361784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%BB%B6%E6%9C%9F%E6%92%AD%E5%87%BA%23" target="weibo">
 奔跑吧延期播出（热度：8270859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-WBG对战T1（热度：8262600）
 </a>
 </li>
 

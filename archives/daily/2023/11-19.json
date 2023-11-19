@@ -1,10 +1,10 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700389077081,
+  "endTime": 1700390056092,
   "band_list": [
     {
-      "raw_hot": 8262600,
-      "num": 8262600,
+      "raw_hot": 12632234,
+      "num": 12632234,
       "word": "WBG对战T1",
       "onboard_time": 1700379393,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3498364,
-      "num": 1209225,
+      "num": 1573439,
       "word": "六公主回应我本是高山争议",
       "onboard_time": 1700379210,
       "rank": 16,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1769170,
-      "num": 743987,
+      "raw_hot": 1830793,
+      "num": 773512,
       "word": "质疑恩静 成为恩静",
       "onboard_time": 1700385390,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1700384909,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1716115,
+      "num": 1716115,
+      "word": "李佳航 赢了网吧包宿",
+      "onboard_time": 1700385991,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 1644196,
@@ -81,6 +89,14 @@
       "onboard_time": 1700319457,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408802,
+      "num": 554775,
+      "word": "TheShy 英雄海",
+      "onboard_time": 1700388573,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 1387451,
@@ -107,6 +123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1306070,
+      "num": 1306070,
+      "word": "别被零封",
+      "onboard_time": 1700388031,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1290438,
       "num": 1290438,
       "word": "税务师 计算器快按冒烟了",
@@ -115,20 +139,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1195811,
-      "num": 1195811,
-      "word": "李佳航 赢了网吧包宿",
-      "onboard_time": 1700385991,
-      "rank": 12,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 1095923,
       "num": 1095923,
       "word": "花儿与少年连更12天",
       "onboard_time": 1700379030,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1055405,
+      "num": 792201,
+      "word": "英雄联盟单曲PARANOIA",
+      "onboard_time": 1700386661,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 990739,
@@ -195,12 +219,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 792201,
-      "num": 792201,
-      "word": "英雄联盟单曲PARANOIA",
-      "onboard_time": 1700386661,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 788056,
+      "num": 788056,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 787270,
@@ -219,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772615,
+      "num": 772615,
+      "word": "郭艾伦吐槽以爱为营剧情",
+      "onboard_time": 1700389723,
+      "rank": 12,
+      "category": "体育,剧集"
+    },
+    {
+      "raw_hot": 772275,
+      "num": 772275,
+      "word": "肖战好像被胁迫了",
+      "onboard_time": 1700389479,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770830,
       "num": 770830,
       "word": "WBG 我们每个人都有不得不赢的理由",
@@ -227,12 +267,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 745035,
-      "num": 745035,
+      "raw_hot": 765726,
+      "num": 765726,
       "word": "张杰喝多了在地上蛙泳",
       "onboard_time": 1700387019,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 725268,
+      "num": 725268,
+      "word": "时团 ENHYPEN",
+      "onboard_time": 1700389174,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 715266,
@@ -299,14 +347,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 635025,
-      "num": 635025,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 611160,
       "num": 392815,
       "word": "陈都灵 马上表演白月光砸缸",
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601207,
+      "num": 601207,
+      "word": "下周做什么都顺的星座",
+      "onboard_time": 1700389546,
+      "rank": 17,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 596618,
       "num": 596618,
       "word": "S13总决赛",
@@ -337,6 +385,14 @@
       "onboard_time": 1700370390,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593695,
+      "num": 593695,
+      "word": "宙斯 战神",
+      "onboard_time": 1700387968,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 591313,
@@ -368,6 +424,14 @@
       "word": "Shy哥 Super Shy",
       "onboard_time": 1700385751,
       "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 556690,
+      "num": 556690,
+      "word": "Zeus单杀TheShy",
+      "onboard_time": 1700389053,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -425,6 +489,14 @@
       "onboard_time": 1700387791,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 489005,
+      "num": 489005,
+      "word": "T1英雄池 ban不完",
+      "onboard_time": 1700387495,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 483689,
@@ -611,14 +683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 359056,
-      "num": 359056,
-      "word": "TheShy 英雄海",
-      "onboard_time": 1700388573,
-      "rank": 20,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 358927,
       "num": 358927,
       "word": "S13总决赛开幕式",
@@ -667,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341459,
+      "num": 341459,
+      "word": "罗云熙 赛中采访",
+      "onboard_time": 1700387614,
+      "rank": 31,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 341225,
       "num": 341225,
       "word": "辽宁男篮支持张镇麟捍卫权益",
@@ -691,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 330876,
-      "num": 330876,
-      "word": "别被零封",
-      "onboard_time": 1700388031,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 330259,
       "num": 618523,
       "word": "男子偷功德箱的钱称菩萨给我比了OK",
@@ -713,6 +777,14 @@
       "onboard_time": 1700370569,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318950,
+      "num": 246698,
+      "word": "罗云熙现场发手幅",
+      "onboard_time": 1700389663,
+      "rank": 35,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 317136,
@@ -779,12 +851,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 274451,
-      "num": 274451,
-      "word": "罗云熙 赛中采访",
-      "onboard_time": 1700387614,
-      "rank": 31,
-      "category": "电竞,艺人"
+      "raw_hot": 281920,
+      "num": 281920,
+      "word": "Weiwei 尽力局",
+      "onboard_time": 1700387556,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 272451,
@@ -816,14 +888,6 @@
       "word": "剑魔打永恩",
       "onboard_time": 1700386238,
       "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 263842,
-      "num": 263842,
-      "word": "T1英雄池 ban不完",
-      "onboard_time": 1700387495,
-      "rank": 32,
       "category": "电竞"
     },
     {
@@ -859,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260158,
+      "num": 260158,
+      "word": "王一博变装",
+      "onboard_time": 1700389603,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259586,
       "num": 259586,
       "word": "闫妮新片 谁偷我的狗要谁狗命",
@@ -889,14 +961,6 @@
       "onboard_time": 1700364212,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256356,
-      "num": 256356,
-      "word": "宙斯 战神",
-      "onboard_time": 1700387968,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 255802,
@@ -1003,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230460,
+      "num": 230460,
+      "word": "Xiaohu目标想带S赛奖杯回家",
+      "onboard_time": 1700389546,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229390,
       "num": 229390,
       "word": "用开水烫餐具有没有必要",
@@ -1027,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222292,
+      "num": 1399867,
+      "word": "00后送00后锦旗可以有多炸裂",
+      "onboard_time": 1700386418,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221000,
       "num": 221000,
       "word": "琉璃血书",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1700388092,
       "rank": 38,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 219430,
+      "num": 219430,
+      "word": "BP 线权",
+      "onboard_time": 1700387436,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 218996,
@@ -1059,12 +1147,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217814,
+      "num": 217814,
+      "word": "丞磊挺忙的",
+      "onboard_time": 1700389174,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217568,
       "num": 196496,
       "word": "张艺兴刘畊宏蹦养生迪",
       "onboard_time": 1700322452,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217052,
+      "num": 217052,
+      "word": "T1拿到决赛赛点",
+      "onboard_time": 1700389963,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 216795,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1700367208,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202104,
+      "num": 202104,
+      "word": "种地吧",
+      "onboard_time": 1700388994,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 201921,
@@ -1201,14 +1313,6 @@
       "onboard_time": 1700366608,
       "rank": 21,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 193408,
-      "num": 193408,
-      "word": "Zeus单杀TheShy",
-      "onboard_time": 1700389053,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 190990,
@@ -1339,22 +1443,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 175184,
-      "num": 1196543,
-      "word": "00后送00后锦旗可以有多炸裂",
-      "onboard_time": 1700386418,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175129,
-      "num": 175129,
-      "word": "Weiwei 尽力局",
-      "onboard_time": 1700387556,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 174356,
       "num": 154107,
       "word": "德国2比3土耳其",
@@ -1467,28 +1555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160206,
-      "num": 160206,
-      "word": "种地吧",
-      "onboard_time": 1700388994,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159432,
       "num": 159432,
       "word": "干燥皮肤急救法",
       "onboard_time": 1700374591,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 158482,
-      "num": 158482,
-      "word": "BP 线权",
-      "onboard_time": 1700387436,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 155766,
@@ -1619,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141161,
+      "num": 1328631,
+      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
+      "onboard_time": 1700389053,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140981,
       "num": 130210,
       "word": "一年四季都防晒有必要吗",
@@ -1636,7 +1716,7 @@
     },
     {
       "raw_hot": 140057,
-      "num": 1217021,
+      "num": 1614181,
       "word": "下一个中国还是中国",
       "onboard_time": 1700361627,
       "rank": 2,
@@ -1779,6 +1859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 124951,
+      "num": 1002962,
+      "word": "小学生跳花绳把人cpu都烧干了",
+      "onboard_time": 1700387137,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120774,
       "num": 120774,
       "word": "KARINA DRAMA直拍",
@@ -1891,14 +1979,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 103412,
-      "num": 1002962,
-      "word": "小学生跳花绳把人cpu都烧干了",
-      "onboard_time": 1700387137,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102628,
       "num": 229283,
       "word": "SpaceX称被迫触发星舰的自毁功能",
@@ -1921,14 +2001,6 @@
       "onboard_time": 1700364810,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96855,
-      "num": 285652,
-      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
-      "onboard_time": 1700389053,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95628,
@@ -2147,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42546,
+      "num": 341460,
+      "word": "车大就一定空间大吗",
+      "onboard_time": 1700388331,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38469,
       "num": 118907,
       "word": "小伙凌晨无处安身被奶茶店夫妻收留",
@@ -2177,14 +2257,6 @@
       "onboard_time": 1700310391,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26118,
-      "num": 282406,
-      "word": "车大就一定空间大吗",
-      "onboard_time": 1700388331,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 21293,
