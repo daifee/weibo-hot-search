@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700390056092,
+  "endTime": 1700392437753,
   "band_list": [
     {
       "raw_hot": 12632234,
@@ -51,8 +51,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1835312,
+      "num": 1835312,
+      "word": "T1拿到决赛赛点",
+      "onboard_time": 1700389963,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1830793,
-      "num": 773512,
+      "num": 976421,
       "word": "质疑恩静 成为恩静",
       "onboard_time": 1700385390,
       "rank": 10,
@@ -81,6 +89,14 @@
       "onboard_time": 1700375612,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1615453,
+      "num": 1009664,
+      "word": "肖战好像被胁迫了",
+      "onboard_time": 1700389479,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1435154,
@@ -139,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1234631,
+      "num": 1234631,
+      "word": "郭艾伦吐槽以爱为营剧情",
+      "onboard_time": 1700389723,
+      "rank": 12,
+      "category": "体育,剧集"
+    },
+    {
       "raw_hot": 1095923,
       "num": 1095923,
       "word": "花儿与少年连更12天",
@@ -179,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 937780,
+      "num": 937780,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 899026,
       "num": 481609,
       "word": "秦岚声带受损其实自己很沮丧",
@@ -211,20 +243,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 807967,
+      "num": 807967,
+      "word": "WBG生死局",
+      "onboard_time": 1700391573,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 806716,
       "num": 806716,
       "word": "演唱会购票强实名后抢票变容易了吗",
       "onboard_time": 1700368231,
       "rank": 33,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 788056,
-      "num": 788056,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 787270,
@@ -240,22 +272,6 @@
       "word": "杨紫 泰国",
       "onboard_time": 1700313814,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 772615,
-      "num": 772615,
-      "word": "郭艾伦吐槽以爱为营剧情",
-      "onboard_time": 1700389723,
-      "rank": 12,
-      "category": "体育,剧集"
-    },
-    {
-      "raw_hot": 772275,
-      "num": 772275,
-      "word": "肖战好像被胁迫了",
-      "onboard_time": 1700389479,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -763,12 +779,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336694,
+      "num": 336694,
+      "word": "王一博变装",
+      "onboard_time": 1700389603,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330259,
       "num": 618523,
       "word": "男子偷功德箱的钱称菩萨给我比了OK",
       "onboard_time": 1700383532,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326504,
+      "num": 326504,
+      "word": "WBG教练",
+      "onboard_time": 1700390855,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 326269,
+      "num": 326269,
+      "word": "周杰伦五月天龙卷风现场",
+      "onboard_time": 1700391213,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 320054,
@@ -923,12 +963,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260158,
-      "num": 260158,
-      "word": "王一博变装",
-      "onboard_time": 1700389603,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 260392,
+      "num": 260392,
+      "word": "时代少年除我之外全员凶手",
+      "onboard_time": 1700390439,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259586,
@@ -977,6 +1017,14 @@
       "onboard_time": 1700387258,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251318,
+      "num": 251318,
+      "word": "BLG 已放假",
+      "onboard_time": 1700392300,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 248820,
@@ -1043,6 +1091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242386,
+      "num": 263460,
+      "word": "董明珠称放弃发财行业不搞金融地产",
+      "onboard_time": 1700391213,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 240904,
       "num": 240904,
       "word": "孟子义 综艺效果",
@@ -1083,6 +1139,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229354,
+      "num": 1399867,
+      "word": "00后送00后锦旗可以有多炸裂",
+      "onboard_time": 1700386418,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226236,
+      "num": 226236,
+      "word": "T1零封WBG",
+      "onboard_time": 1700392367,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225486,
       "num": 225486,
       "word": "日本赛陈雨菲女单亚军",
@@ -1097,14 +1169,6 @@
       "onboard_time": 1700320298,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 222292,
-      "num": 1399867,
-      "word": "00后送00后锦旗可以有多炸裂",
-      "onboard_time": 1700386418,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221000,
@@ -1163,14 +1227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217052,
-      "num": 217052,
-      "word": "T1拿到决赛赛点",
-      "onboard_time": 1700389963,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 216795,
       "num": 216795,
       "word": "网友锐评我本是高山",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1700385991,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "胡彦斌 以后要写简单一点的歌",
+      "onboard_time": 1700391332,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 203527,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1700366608,
       "rank": 21,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 195622,
+      "num": 195622,
+      "word": "以爱为营",
+      "onboard_time": 1700390497,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 190990,
@@ -1499,6 +1571,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169411,
+      "num": 169411,
+      "word": "EDG剧本",
+      "onboard_time": 1700392367,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 169330,
+      "num": 169330,
+      "word": "Uzi现场解说S13决赛",
+      "onboard_time": 1700391996,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 167966,
+      "num": 1328631,
+      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
+      "onboard_time": 1700389053,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167873,
       "num": 167873,
       "word": "杨迪吃过最好吃的面",
@@ -1545,6 +1641,14 @@
       "onboard_time": 1700321495,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161752,
+      "num": 161752,
+      "word": "高至霆 希望良心国货被大家看到",
+      "onboard_time": 1700392118,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 160818,
@@ -1601,6 +1705,14 @@
       "onboard_time": 1700357910,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151688,
+      "num": 151688,
+      "word": "张远安慰王栎鑫是帅的",
+      "onboard_time": 1700390558,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 151332,
@@ -1689,14 +1801,6 @@
       "onboard_time": 1700356409,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141161,
-      "num": 1328631,
-      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
-      "onboard_time": 1700389053,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140981,
@@ -1860,7 +1964,7 @@
     },
     {
       "raw_hot": 124951,
-      "num": 1002962,
+      "num": 1025833,
       "word": "小学生跳花绳把人cpu都烧干了",
       "onboard_time": 1700387137,
       "rank": 6,

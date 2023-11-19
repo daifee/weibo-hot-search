@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700390056092,
+  "endTime": 1700392437753,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1651,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1835312,
+      "num": 1835312,
+      "word": "T1拿到决赛赛点",
+      "onboard_time": 1700389963,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1831373,
       "num": 646757,
       "word": "杨紫 蓝色妖姬",
@@ -1660,7 +1668,7 @@
     },
     {
       "raw_hot": 1830793,
-      "num": 773512,
+      "num": 976421,
       "word": "质疑恩静 成为恩静",
       "onboard_time": 1700385390,
       "rank": 10,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1699421672,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1615453,
+      "num": 1009664,
+      "word": "肖战好像被胁迫了",
+      "onboard_time": 1700389479,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1615313,
@@ -3601,6 +3617,14 @@
       "onboard_time": 1698801215,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1234631,
+      "num": 1234631,
+      "word": "郭艾伦吐槽以爱为营剧情",
+      "onboard_time": 1700389723,
+      "rank": 12,
+      "category": "体育,剧集"
     },
     {
       "raw_hot": 1230353,
@@ -5243,6 +5267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 937780,
+      "num": 937780,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 935953,
       "num": 872438,
       "word": "医生提醒不要皮肤一干就敷面膜",
@@ -6507,6 +6539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 807967,
+      "num": 807967,
+      "word": "WBG生死局",
+      "onboard_time": 1700391573,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 807518,
       "num": 807518,
       "word": "南京鼓楼医院一处吊顶坍塌1人轻伤",
@@ -6763,14 +6803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 788056,
-      "num": 788056,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 788042,
       "num": 788042,
       "word": "把秦岚美到尖叫的图发出来了",
@@ -6961,22 +6993,6 @@
       "onboard_time": 1700286754,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 772615,
-      "num": 772615,
-      "word": "郭艾伦吐槽以爱为营剧情",
-      "onboard_time": 1700389723,
-      "rank": 12,
-      "category": "体育,剧集"
-    },
-    {
-      "raw_hot": 772275,
-      "num": 772275,
-      "word": "肖战好像被胁迫了",
-      "onboard_time": 1700389479,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 770830,
@@ -19211,6 +19227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336694,
+      "num": 336694,
+      "word": "王一博变装",
+      "onboard_time": 1700389603,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336653,
       "num": 336653,
       "word": "李善均毛发检测阴性",
@@ -19779,6 +19803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326504,
+      "num": 326504,
+      "word": "WBG教练",
+      "onboard_time": 1700390855,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326491,
       "num": 326491,
       "word": "此时此刻",
@@ -19825,6 +19857,14 @@
       "onboard_time": 1700016390,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326269,
+      "num": 326269,
+      "word": "周杰伦五月天龙卷风现场",
+      "onboard_time": 1700391213,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 325746,
@@ -24371,6 +24411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260392,
+      "num": 260392,
+      "word": "时代少年除我之外全员凶手",
+      "onboard_time": 1700390439,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260365,
       "num": 260365,
       "word": "檀健次周也vlog比预告甜",
@@ -24409,14 +24457,6 @@
       "onboard_time": 1699966713,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260158,
-      "num": 260158,
-      "word": "王一博变装",
-      "onboard_time": 1700389603,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 259871,
@@ -25249,6 +25289,14 @@
       "onboard_time": 1698900159,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251318,
+      "num": 251318,
+      "word": "BLG 已放假",
+      "onboard_time": 1700392300,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 251148,
@@ -26265,6 +26313,14 @@
       "onboard_time": 1699416813,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242386,
+      "num": 263460,
+      "word": "董明珠称放弃发财行业不搞金融地产",
+      "onboard_time": 1700391213,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 242291,
@@ -27619,6 +27675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229354,
+      "num": 1399867,
+      "word": "00后送00后锦旗可以有多炸裂",
+      "onboard_time": 1700386418,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229351,
       "num": 229351,
       "word": "可爱秋冬美甲",
@@ -28033,6 +28097,14 @@
       "onboard_time": 1700315498,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226236,
+      "num": 226236,
+      "word": "T1零封WBG",
+      "onboard_time": 1700392367,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 226192,
@@ -28536,14 +28608,6 @@
       "word": "外交部回应大熊猫美香一家回国",
       "onboard_time": 1699516832,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222292,
-      "num": 1399867,
-      "word": "00后送00后锦旗可以有多炸裂",
-      "onboard_time": 1700386418,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -29161,14 +29225,6 @@
       "onboard_time": 1699354117,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 217052,
-      "num": 217052,
-      "word": "T1拿到决赛赛点",
-      "onboard_time": 1700389963,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 216964,
@@ -31225,6 +31281,14 @@
       "onboard_time": 1699485086,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "胡彦斌 以后要写简单一点的歌",
+      "onboard_time": 1700391332,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 203651,
@@ -37563,6 +37627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169330,
+      "num": 169330,
+      "word": "Uzi现场解说S13决赛",
+      "onboard_time": 1700391996,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169248,
       "num": 169248,
       "word": "乐游原 金屋藏猪",
@@ -37809,6 +37881,14 @@
       "onboard_time": 1699852057,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 167966,
+      "num": 1328631,
+      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
+      "onboard_time": 1700389053,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167873,
@@ -38833,6 +38913,14 @@
       "onboard_time": 1699352198,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161752,
+      "num": 161752,
+      "word": "高至霆 希望良心国货被大家看到",
+      "onboard_time": 1700392118,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 161747,
@@ -40512,6 +40600,14 @@
       "word": "再见爱人",
       "onboard_time": 1699940136,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151688,
+      "num": 151688,
+      "word": "张远安慰王栎鑫是帅的",
+      "onboard_time": 1700390558,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -42401,14 +42497,6 @@
       "onboard_time": 1699109802,
       "rank": 33,
       "category": "其它"
-    },
-    {
-      "raw_hot": 141161,
-      "num": 1328631,
-      "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
-      "onboard_time": 1700389053,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141075,
@@ -45188,7 +45276,7 @@
     },
     {
       "raw_hot": 124951,
-      "num": 1002962,
+      "num": 1025833,
       "word": "小学生跳花绳把人cpu都烧干了",
       "onboard_time": 1700387137,
       "rank": 6,
