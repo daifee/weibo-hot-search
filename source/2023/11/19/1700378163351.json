@@ -1,0 +1,410 @@
+{
+  "runTime": 1700378163351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240132,
+        "num": 1240132,
+        "word": "32岁女子9年花费近27万吃海底捞",
+        "onboard_time": 1700375612,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739377,
+        "num": 739377,
+        "word": "我本是高山编剧回应",
+        "onboard_time": 1700364152,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48265,
+        "num": 695799,
+        "word": "这件彩陶盆有5000年前黄河边跳舞画面",
+        "onboard_time": 1700361150,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693227,
+        "num": 693227,
+        "word": "胡歌刘涛争论用完的手纸是否带走",
+        "onboard_time": 1700371708,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649720,
+        "num": 649720,
+        "word": "时代少年团今天换妆造了",
+        "onboard_time": 1700376753,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626324,
+        "num": 626324,
+        "word": "6岁女孩在横店当童漂4个月赚250元",
+        "onboard_time": 1700375190,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434499,
+        "num": 434499,
+        "word": "男子丢失30万手机女子捡到以为老年机",
+        "onboard_time": 1700359350,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399301,
+        "num": 399301,
+        "word": "WBG 我们每个人都有不得不赢的理由",
+        "onboard_time": 1700366369,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338254,
+        "num": 338254,
+        "word": "柳岩 不是我不懂搭配",
+        "onboard_time": 1700374230,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282272,
+        "num": 282272,
+        "word": "警方提醒捡到这种卡速销毁",
+        "onboard_time": 1700371888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937551,
+        "num": 274862,
+        "word": "韩国网吧偶遇罗云熙",
+        "onboard_time": 1700372550,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653196,
+        "num": 261989,
+        "word": "郭碧婷参加婚礼合影",
+        "onboard_time": 1700374471,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482919,
+        "num": 255379,
+        "word": "陈都灵 马上表演白月光砸缸",
+        "onboard_time": 1700373329,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 239349,
+        "num": 239349,
+        "word": "网络春晚 重播",
+        "onboard_time": 1700375852,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231966,
+        "num": 231966,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700363732,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225695,
+        "num": 225695,
+        "word": "金靖 上海的冬天就像谢危",
+        "onboard_time": 1700370390,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223984,
+        "num": 223984,
+        "word": "辽宁男篮支持张镇麟捍卫权益",
+        "onboard_time": 1700373391,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219643,
+        "num": 219643,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218996,
+        "num": 218996,
+        "word": "白鹿哭戏",
+        "onboard_time": 1700374471,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169416,
+        "num": 169416,
+        "word": "星舰内部是六层豪宅",
+        "onboard_time": 1700374889,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 404248,
+        "num": 169206,
+        "word": "女子换衣时发现胸部异常确诊淋巴癌",
+        "onboard_time": 1700376332,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289120,
+        "num": 167977,
+        "word": "张凌赫一秒认出王鹤棣",
+        "onboard_time": 1700374410,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166345,
+        "num": 166345,
+        "word": "花花等谭爷爷一起下班",
+        "onboard_time": 1700361269,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161114,
+        "num": 161114,
+        "word": "税务师 计算器快按冒烟了",
+        "onboard_time": 1700366188,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151926,
+        "num": 151926,
+        "word": "好馆子 评分3.8到4之间",
+        "onboard_time": 1700373449,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 149120,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207882,
+        "num": 148113,
+        "word": "危宁大婚造型",
+        "onboard_time": 1700375190,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189441,
+        "num": 146846,
+        "word": "宋雨琦赛车服短发造型",
+        "onboard_time": 1700377952,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145469,
+        "num": 145469,
+        "word": "纣王 姬发想要我的逆子",
+        "onboard_time": 1700363190,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137954,
+        "num": 137954,
+        "word": "横店童漂",
+        "onboard_time": 1700376272,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173059,
+        "num": 137755,
+        "word": "网红夫妇回应售楼处维权被抢手机",
+        "onboard_time": 1700367689,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137098,
+        "num": 137098,
+        "word": "龚俊看自己吻戏的反应",
+        "onboard_time": 1700374889,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "大批球迷深圳机场接机韩国队",
+        "onboard_time": 1700372669,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130743,
+        "num": 130743,
+        "word": "于正回复只出大女主剧",
+        "onboard_time": 1700373814,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130562,
+        "num": 130562,
+        "word": "演唱会购票强实名后抢票变容易了吗",
+        "onboard_time": 1700368231,
+        "rank": 34,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 126956,
+        "num": 126956,
+        "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
+        "onboard_time": 1700368109,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122165,
+        "num": 122165,
+        "word": "王鹤棣头发这么长了",
+        "onboard_time": 1700362108,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119482,
+        "num": 119482,
+        "word": "杨迪吃过最好吃的面",
+        "onboard_time": 1700374769,
+        "rank": 37,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 117603,
+        "num": 117603,
+        "word": "曾黎梅婷马伊俐合影",
+        "onboard_time": 1700371888,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117077,
+        "num": 117077,
+        "word": "导盲犬带主人吃火锅迷路",
+        "onboard_time": 1700369431,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107438,
+        "num": 107438,
+        "word": "190斤女子摔伤被众人合力从6楼抬下就医",
+        "onboard_time": 1700366069,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104205,
+        "num": 104205,
+        "word": "李沁雪景随拍",
+        "onboard_time": 1700376869,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 100025,
+        "num": 100025,
+        "word": "孟子义 综艺效果",
+        "onboard_time": 1700371228,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97975,
+        "num": 97975,
+        "word": "乔妍的心事 开机",
+        "onboard_time": 1700370449,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97387,
+        "num": 97387,
+        "word": "闫妮新片 谁偷我的狗要谁狗命",
+        "onboard_time": 1700372669,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92634,
+        "num": 92634,
+        "word": "春晚有没有大学生通道",
+        "onboard_time": 1700371708,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89091,
+        "num": 89091,
+        "word": "干燥皮肤急救法",
+        "onboard_time": 1700374591,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 86112,
+        "num": 88145,
+        "word": "黑白熊猫和粉色毛毯的适配度还挺高",
+        "onboard_time": 1700377351,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82778,
+        "num": 87571,
+        "word": "体验墨西哥亡灵节",
+        "onboard_time": 1700377470,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75397,
+        "num": 86116,
+        "word": "哎呀好身材",
+        "onboard_time": 1700373750,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#华人华侨中国留学生代表欢送习主席#"
+    }
+  }
+}

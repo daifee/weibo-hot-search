@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700375657337,
+  "endTime": 1700378163351,
   "band_list": [
     {
       "raw_hot": 2588889,
@@ -57,6 +57,14 @@
       "onboard_time": 1700366188,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1240132,
+      "num": 1240132,
+      "word": "32岁女子9年花费近27万吃海底捞",
+      "onboard_time": 1700375612,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 990739,
@@ -147,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 649720,
+      "num": 649720,
+      "word": "时代少年团今天换妆造了",
+      "onboard_time": 1700376753,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639428,
       "num": 639428,
       "word": "时代少年团 直播",
@@ -161,6 +177,14 @@
       "onboard_time": 1700363190,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 626324,
+      "num": 626324,
+      "word": "6岁女孩在横店当童漂4个月赚250元",
+      "onboard_time": 1700375190,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611160,
@@ -297,6 +321,14 @@
       "onboard_time": 1700367990,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404248,
+      "num": 169206,
+      "word": "女子换衣时发现胸部异常确诊淋巴癌",
+      "onboard_time": 1700376332,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391810,
@@ -443,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338254,
+      "num": 338254,
+      "word": "柳岩 不是我不懂搭配",
+      "onboard_time": 1700374230,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -491,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289120,
+      "num": 233201,
+      "word": "张凌赫一秒认出王鹤棣",
+      "onboard_time": 1700374410,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272451,
       "num": 272451,
       "word": "萌兰打哈欠一张嘴血脉觉醒",
@@ -504,14 +552,6 @@
       "word": "薛之谦竟然有儿子了",
       "onboard_time": 1700274749,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 265773,
-      "num": 233201,
-      "word": "张凌赫一秒认出王鹤棣",
-      "onboard_time": 1700374410,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -603,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244660,
-      "num": 244660,
-      "word": "柳岩 不是我不懂搭配",
-      "onboard_time": 1700374230,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 244135,
       "num": 244135,
       "word": "李晨 这是生态篇不是心态篇",
@@ -632,6 +664,14 @@
       "word": "孟子义 综艺效果",
       "onboard_time": 1700371228,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239349,
+      "num": 239349,
+      "word": "网络春晚 重播",
+      "onboard_time": 1700375852,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -659,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218996,
+      "num": 218996,
+      "word": "白鹿哭戏",
+      "onboard_time": 1700374471,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218049,
       "num": 503456,
       "word": "为什么得甲状腺癌的年轻人越来越多了",
@@ -675,20 +723,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215147,
-      "num": 179546,
-      "word": "白鹿哭戏",
-      "onboard_time": 1700374471,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212063,
       "num": 212063,
       "word": "萧敬腾 有小小恋爱脑的成熟男人",
       "onboard_time": 1700364572,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207882,
+      "num": 169359,
+      "word": "危宁大婚造型",
+      "onboard_time": 1700375190,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 206981,
@@ -705,22 +753,6 @@
       "onboard_time": 1700371410,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203433,
-      "num": 203433,
-      "word": "32岁女子9年花费近27万吃海底捞",
-      "onboard_time": 1700375612,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203136,
-      "num": 169359,
-      "word": "危宁大婚造型",
-      "onboard_time": 1700375190,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 202367,
@@ -769,6 +801,14 @@
       "onboard_time": 1700371708,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189441,
+      "num": 146846,
+      "word": "宋雨琦赛车服短发造型",
+      "onboard_time": 1700377952,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188093,
@@ -971,14 +1011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152316,
-      "num": 152316,
-      "word": "6岁女孩在横店当童漂4个月赚250元",
-      "onboard_time": 1700375190,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152251,
       "num": 152251,
       "word": "适合普通人的中式减脂餐",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1700321555,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137954,
+      "num": 137954,
+      "word": "横店童漂",
+      "onboard_time": 1700376272,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137259,
@@ -1259,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104205,
+      "num": 104205,
+      "word": "李沁雪景随拍",
+      "onboard_time": 1700376869,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 102628,
       "num": 229283,
       "word": "SpaceX称被迫触发星舰的自毁功能",
@@ -1371,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86112,
+      "num": 88145,
+      "word": "黑白熊猫和粉色毛毯的适配度还挺高",
+      "onboard_time": 1700377351,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85974,
       "num": 91982,
       "word": "小学生等公交车时忘我练舞",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1700359530,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 82778,
+      "num": 87571,
+      "word": "体验墨西哥亡灵节",
+      "onboard_time": 1700377470,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 82663,
