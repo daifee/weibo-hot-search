@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700370971772,
+  "endTime": 1700372062434,
   "band_list": [
     {
       "raw_hot": 2588889,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 871404,
+      "num": 791775,
+      "word": "网红夫妇回应售楼处维权被抢手机",
+      "onboard_time": 1700367689,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820567,
       "num": 820567,
       "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
@@ -67,12 +75,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 791775,
-      "num": 791775,
-      "word": "网红夫妇回应售楼处维权被抢手机",
-      "onboard_time": 1700367689,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 806716,
+      "num": 806716,
+      "word": "演唱会购票强实名后抢票变容易了吗",
+      "onboard_time": 1700368231,
+      "rank": 33,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 775739,
@@ -89,14 +97,6 @@
       "onboard_time": 1700366369,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 713476,
-      "num": 713476,
-      "word": "演唱会购票强实名后抢票变容易了吗",
-      "onboard_time": 1700368231,
-      "rank": 33,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 687643,
@@ -129,6 +129,14 @@
       "onboard_time": 1700361269,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594240,
+      "num": 594240,
+      "word": "金靖 上海的冬天就像谢危",
+      "onboard_time": 1700370390,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 591313,
@@ -355,8 +363,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 344907,
-      "num": 344907,
+      "raw_hot": 350028,
+      "num": 350028,
       "word": "190斤女子摔伤被众人合力从6楼抬下就医",
       "onboard_time": 1700366069,
       "rank": 17,
@@ -401,14 +409,6 @@
       "onboard_time": 1700307154,
       "rank": 0,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 294601,
-      "num": 294601,
-      "word": "金靖 上海的冬天就像谢危",
-      "onboard_time": 1700370390,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 292873,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258315,
+      "num": 258315,
+      "word": "谢危 无代餐",
+      "onboard_time": 1700369489,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257950,
       "num": 257950,
       "word": "张晚意一集气死一个主任",
@@ -499,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245058,
-      "num": 245058,
-      "word": "谢危 无代餐",
-      "onboard_time": 1700369489,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244135,
       "num": 244135,
       "word": "李晨 这是生态篇不是心态篇",
@@ -515,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232930,
-      "num": 232930,
+      "raw_hot": 243094,
+      "num": 239601,
       "word": "公厕蹲坑比马桶更卫生吗",
       "onboard_time": 1700368109,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 240904,
+      "num": 240904,
+      "word": "孟子义 综艺效果",
+      "onboard_time": 1700371228,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 225486,
@@ -577,6 +585,14 @@
       "onboard_time": 1700299591,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203527,
+      "num": 203527,
+      "word": "张远看到蔡国庆一秒返祖",
+      "onboard_time": 1700371410,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 202367,
@@ -651,8 +667,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181159,
+      "num": 181159,
+      "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
+      "onboard_time": 1700368109,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181085,
-      "num": 138133,
+      "num": 139508,
       "word": "雷霆18分逆转勇士",
       "onboard_time": 1700369369,
       "rank": 30,
@@ -665,6 +689,14 @@
       "onboard_time": 1700321734,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179105,
+      "num": 179105,
+      "word": "金瀚自我定位 有勇有谋",
+      "onboard_time": 1700371649,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 175421,
@@ -691,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171054,
+      "num": 171054,
+      "word": "张晚意向郑云龙科普8023",
+      "onboard_time": 1700370929,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170229,
       "num": 167388,
       "word": "房东的猫演唱会嘉宾是马頔",
       "onboard_time": 1700328024,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 170228,
-      "num": 170228,
-      "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
-      "onboard_time": 1700368109,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167476,
@@ -737,6 +769,14 @@
       "onboard_time": 1700321495,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161638,
+      "num": 161638,
+      "word": "警方提醒捡到这种卡速销毁",
+      "onboard_time": 1700371888,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160818,
@@ -785,6 +825,14 @@
       "onboard_time": 1700362589,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 149728,
+      "num": 149728,
+      "word": "胡歌刘涛争论用完的手纸是否带走",
+      "onboard_time": 1700371708,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 149173,
@@ -907,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133252,
+      "num": 133252,
+      "word": "没有边界感的小狗",
+      "onboard_time": 1700370449,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132460,
       "num": 136618,
       "word": "金毛为靠近小鹿假装打滚",
@@ -939,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128367,
-      "num": 128367,
-      "word": "没有边界感的小狗",
-      "onboard_time": 1700370449,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127119,
       "num": 136633,
       "word": "张艺兴官方客服式回复",
@@ -961,6 +1009,14 @@
       "onboard_time": 1700305413,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 121897,
+      "num": 121897,
+      "word": "春晚有没有大学生通道",
+      "onboard_time": 1700371708,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 120774,
@@ -979,12 +1035,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108982,
+      "raw_hot": 109215,
       "num": 108982,
       "word": "陈楚生的双标时刻",
       "onboard_time": 1700369910,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109139,
+      "num": 109139,
+      "word": "曾黎梅婷马伊俐合影",
+      "onboard_time": 1700371888,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106096,
@@ -1123,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85974,
+      "num": 91982,
+      "word": "小学生等公交车时忘我练舞",
+      "onboard_time": 1700372012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85970,
       "num": 85970,
       "word": "赵今麦羊毛卷彩虹帽",
@@ -1145,14 +1217,6 @@
       "onboard_time": 1700322213,
       "rank": 47,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 83954,
-      "num": 83954,
-      "word": "张晚意向郑云龙科普8023",
-      "onboard_time": 1700370929,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 83018,

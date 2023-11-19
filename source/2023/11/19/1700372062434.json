@@ -1,0 +1,410 @@
+{
+  "runTime": 1700372062434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2272849,
+        "num": 2272849,
+        "word": "我本是高山编剧回应",
+        "onboard_time": 1700364152,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1135713,
+        "num": 1135713,
+        "word": "男子丢失30万手机女子捡到以为老年机",
+        "onboard_time": 1700359350,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58160,
+        "num": 844718,
+        "word": "这件彩陶盆有5000年前黄河边跳舞画面",
+        "onboard_time": 1700361150,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806716,
+        "num": 806716,
+        "word": "演唱会购票强实名后抢票变容易了吗",
+        "onboard_time": 1700368231,
+        "rank": 3,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 594240,
+        "num": 594240,
+        "word": "金靖 上海的冬天就像谢危",
+        "onboard_time": 1700370390,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561208,
+        "num": 561208,
+        "word": "纣王 姬发想要我的逆子",
+        "onboard_time": 1700363190,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 527752,
+        "num": 527752,
+        "word": "WBG 我们每个人都有不得不赢的理由",
+        "onboard_time": 1700366369,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 478763,
+        "num": 478763,
+        "word": "税务师 计算器快按冒烟了",
+        "onboard_time": 1700366188,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 871404,
+        "num": 478542,
+        "word": "网红夫妇回应售楼处维权被抢手机",
+        "onboard_time": 1700367689,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474248,
+        "num": 474248,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451098,
+        "num": 451098,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388333,
+        "num": 388333,
+        "word": "中国渔船在日本海域倾覆致5人失踪",
+        "onboard_time": 1700367930,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358389,
+        "num": 358389,
+        "word": "张桂梅 精神内核",
+        "onboard_time": 1700367990,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350028,
+        "num": 350028,
+        "word": "190斤女子摔伤被众人合力从6楼抬下就医",
+        "onboard_time": 1700366069,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323699,
+        "num": 323699,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700363732,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 309773,
+        "num": 309773,
+        "word": "花花等谭爷爷一起下班",
+        "onboard_time": 1700361269,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301748,
+        "num": 301748,
+        "word": "乔妍的心事 开机",
+        "onboard_time": 1700370449,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294182,
+        "num": 294182,
+        "word": "王鹤棣头发这么长了",
+        "onboard_time": 1700362108,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258315,
+        "num": 258315,
+        "word": "谢危 无代餐",
+        "onboard_time": 1700369489,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240904,
+        "num": 240904,
+        "word": "孟子义 综艺效果",
+        "onboard_time": 1700371228,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243094,
+        "num": 239601,
+        "word": "公厕蹲坑比马桶更卫生吗",
+        "onboard_time": 1700368109,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 221148,
+        "num": 221148,
+        "word": "陈硕辞退兰兰",
+        "onboard_time": 1700370569,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203527,
+        "num": 203527,
+        "word": "张远看到蔡国庆一秒返祖",
+        "onboard_time": 1700371410,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181159,
+        "num": 181159,
+        "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
+        "onboard_time": 1700368109,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180789,
+        "num": 180789,
+        "word": "沙溢 范丞丞这两天将改变尼莫一生",
+        "onboard_time": 1700362410,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179105,
+        "num": 179105,
+        "word": "金瀚自我定位 有勇有谋",
+        "onboard_time": 1700371649,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178932,
+        "num": 178932,
+        "word": "导盲犬带主人吃火锅迷路",
+        "onboard_time": 1700369431,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171054,
+        "num": 171054,
+        "word": "张晚意向郑云龙科普8023",
+        "onboard_time": 1700370929,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166743,
+        "num": 166743,
+        "word": "艺人对发量的执念有多深",
+        "onboard_time": 1700360970,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163146,
+        "num": 163146,
+        "word": "日本赛陈雨菲女单亚军",
+        "onboard_time": 1700369130,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164309,
+        "num": 162580,
+        "word": "新闻女王 下属用上司同款香水",
+        "onboard_time": 1700361150,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161638,
+        "num": 161638,
+        "word": "警方提醒捡到这种卡速销毁",
+        "onboard_time": 1700371888,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149728,
+        "num": 149728,
+        "word": "胡歌刘涛争论用完的手纸是否带走",
+        "onboard_time": 1700371708,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139508,
+        "num": 139508,
+        "word": "雷霆18分逆转勇士",
+        "onboard_time": 1700369369,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137224,
+        "num": 137224,
+        "word": "为什么中式快餐也快吃不起了",
+        "onboard_time": 1700364328,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 133252,
+        "num": 133252,
+        "word": "没有边界感的小狗",
+        "onboard_time": 1700370449,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121897,
+        "num": 121897,
+        "word": "春晚有没有大学生通道",
+        "onboard_time": 1700371708,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112588,
+        "num": 112588,
+        "word": "陈楚生这棍子好像只认识陆虎",
+        "onboard_time": 1700359888,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111288,
+        "num": 111288,
+        "word": "霍姆格伦36分",
+        "onboard_time": 1700370690,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111046,
+        "num": 111046,
+        "word": "Rookie直播提及Doinb",
+        "onboard_time": 1700349679,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109139,
+        "num": 109139,
+        "word": "曾黎梅婷马伊俐合影",
+        "onboard_time": 1700371888,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 108724,
+        "word": "KARINA DRAMA直拍",
+        "onboard_time": 1700369910,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109215,
+        "num": 108599,
+        "word": "陈楚生的双标时刻",
+        "onboard_time": 1700369910,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107170,
+        "num": 107170,
+        "word": "新闻女王 没有感情戏的职场剧",
+        "onboard_time": 1700369008,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106617,
+        "num": 106617,
+        "word": "学校期中给3000名学生发甘蔗鲤鱼",
+        "onboard_time": 1700366489,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99291,
+        "num": 99291,
+        "word": "库里复出",
+        "onboard_time": 1700369550,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95659,
+        "num": 95659,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1700351964,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92000,
+        "num": 92000,
+        "word": "粉笔模考",
+        "onboard_time": 1700363910,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88147,
+        "num": 91985,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85974,
+        "num": 91982,
+        "word": "小学生等公交车时忘我练舞",
+        "onboard_time": 1700372012,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样擘画亚太发展#"
+    }
+  }
+}
