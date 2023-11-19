@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700397061156,
+  "endTime": 1700398014415,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4547,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057814,
+      "num": 1057814,
+      "word": "张桂梅老师学生评价我本是高山",
+      "onboard_time": 1700388212,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1055405,
       "num": 792201,
       "word": "英雄联盟单曲PARANOIA",
@@ -5107,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976623,
+      "num": 574507,
+      "word": "Xiaohu尽力了",
+      "onboard_time": 1700395717,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 974714,
       "num": 549310,
       "word": "大约40%的癌症可以避免",
@@ -5227,6 +5243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 958178,
+      "num": 958178,
+      "word": "李佳航少喝点",
+      "onboard_time": 1700396318,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 954845,
       "num": 366049,
       "word": "月经周期短会有什么影响吗",
@@ -5329,14 +5353,6 @@
       "onboard_time": 1699426418,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 937780,
-      "num": 937780,
-      "word": "张桂梅老师学生评价我本是高山",
-      "onboard_time": 1700388212,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 935953,
@@ -5537,14 +5553,6 @@
       "onboard_time": 1699327109,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 903600,
-      "num": 574507,
-      "word": "Xiaohu尽力了",
-      "onboard_time": 1700395717,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 903463,
@@ -10731,14 +10739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 571590,
-      "num": 571590,
-      "word": "李佳航少喝点",
-      "onboard_time": 1700396318,
-      "rank": 13,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 571578,
       "num": 571578,
       "word": "福岛第一核电站核废液溅射量超此前估算",
@@ -13220,7 +13220,7 @@
     },
     {
       "raw_hot": 477159,
-      "num": 477159,
+      "num": 1179461,
       "word": "2024载人航天飞行任务标识发布",
       "onboard_time": 1700360369,
       "rank": 8,
@@ -13433,6 +13433,14 @@
       "onboard_time": 1700017953,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 472599,
+      "num": 472599,
+      "word": "LPL至暗时刻",
+      "onboard_time": 1700396198,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 472484,
@@ -17075,14 +17083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 381694,
-      "num": 381694,
-      "word": "LPL至暗时刻",
-      "onboard_time": 1700396198,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 381298,
       "num": 381298,
       "word": "美国国务卿将再访以色列",
@@ -17345,6 +17345,14 @@
       "onboard_time": 1699785215,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375825,
+      "num": 375825,
+      "word": "RNG 含金量",
+      "onboard_time": 1700397334,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 375797,
@@ -19715,6 +19723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330641,
+      "num": 330641,
+      "word": "TVB台庆",
+      "onboard_time": 1700397635,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330570,
       "num": 330570,
       "word": "樊胜美妈妈变本加厉",
@@ -19873,6 +19889,14 @@
       "onboard_time": 1700308894,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 328200,
+      "num": 328200,
+      "word": "时宴被偷家",
+      "onboard_time": 1700397159,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 327898,
@@ -20649,6 +20673,14 @@
       "onboard_time": 1699372114,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313298,
+      "num": 313298,
+      "word": "Light明年再战",
+      "onboard_time": 1700396497,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 313114,
@@ -22779,6 +22811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282260,
+      "num": 282260,
+      "word": "这搁内娱高低得谈个恋爱",
+      "onboard_time": 1700397159,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282232,
       "num": 282232,
       "word": "新闻女王定档",
@@ -24049,14 +24089,6 @@
       "onboard_time": 1698974671,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266501,
-      "num": 266501,
-      "word": "Light明年再战",
-      "onboard_time": 1700396497,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 266426,
@@ -27289,6 +27321,14 @@
       "onboard_time": 1699954714,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233821,
+      "num": 233821,
+      "word": "李哥的十年",
+      "onboard_time": 1700397516,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 233731,
@@ -30995,6 +31035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206867,
+      "num": 206867,
+      "word": "妈妈届窒息感天花板来了",
+      "onboard_time": 1700397876,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206843,
       "num": 206843,
       "word": "YG新女团将11月27日出道",
@@ -32137,6 +32185,14 @@
       "onboard_time": 1700300012,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200343,
+      "num": 200343,
+      "word": "魏大勋allblack穿搭",
+      "onboard_time": 1700397334,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200338,
@@ -40364,7 +40420,7 @@
     },
     {
       "raw_hot": 154306,
-      "num": 205463,
+      "num": 276554,
       "word": "家长会上父亲坦言儿子是学渣",
       "onboard_time": 1700393390,
       "rank": 38,
@@ -49273,6 +49329,14 @@
       "onboard_time": 1699787793,
       "rank": 14,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 94951,
+      "num": 167802,
+      "word": "冲锋衣销量猛涨",
+      "onboard_time": 1700397996,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 94859,
