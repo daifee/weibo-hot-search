@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700378163351,
+  "endTime": 1700379246408,
   "band_list": [
     {
       "raw_hot": 2588889,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1644196,
+      "num": 1644196,
+      "word": "32岁女子9年花费近27万吃海底捞",
+      "onboard_time": 1700375612,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1435154,
       "num": 703556,
       "word": "女子花1.8万买衣服一年不发货不退款",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1387451,
-      "num": 355509,
+      "num": 393748,
       "word": "韩国网吧偶遇罗云熙",
       "onboard_time": 1700372550,
       "rank": 10,
@@ -59,12 +67,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1240132,
-      "num": 1240132,
-      "word": "32岁女子9年花费近27万吃海底捞",
-      "onboard_time": 1700375612,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 1138452,
+      "num": 1138452,
+      "word": "S13总决赛 比分预测",
+      "onboard_time": 1700378492,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1095923,
+      "num": 1095923,
+      "word": "花儿与少年连更12天",
+      "onboard_time": 1700379030,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 990739,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 787270,
-      "num": 353743,
+      "num": 393456,
       "word": "郭碧婷参加婚礼合影",
       "onboard_time": 1700374471,
       "rank": 11,
@@ -137,6 +153,22 @@
       "onboard_time": 1700366369,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 715266,
+      "num": 715266,
+      "word": "6岁女孩在横店当童漂4个月赚250元",
+      "onboard_time": 1700375190,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699599,
+      "num": 699599,
+      "word": "宋轶生气会和朋友打十几小时电话",
+      "onboard_time": 1700378314,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 687643,
@@ -179,16 +211,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 626324,
-      "num": 626324,
-      "word": "6岁女孩在横店当童漂4个月赚250元",
-      "onboard_time": 1700375190,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611160,
-      "num": 350579,
+      "num": 392815,
       "word": "陈都灵 马上表演白月光砸缸",
       "onboard_time": 1700373329,
       "rank": 12,
@@ -323,8 +347,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 404248,
-      "num": 169206,
+      "raw_hot": 425187,
+      "num": 187772,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
       "onboard_time": 1700376332,
       "rank": 20,
@@ -515,6 +539,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 294141,
+      "num": 233201,
+      "word": "张凌赫一秒认出王鹤棣",
+      "onboard_time": 1700374410,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292873,
       "num": 261565,
       "word": "每年体检38岁男子被查出胰腺癌晚期",
@@ -529,14 +561,6 @@
       "onboard_time": 1700354488,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289120,
-      "num": 233201,
-      "word": "张凌赫一秒认出王鹤棣",
-      "onboard_time": 1700374410,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 272451,
@@ -569,6 +593,14 @@
       "onboard_time": 1700319037,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 262581,
+      "num": 262581,
+      "word": "六公主回应我本是高山争议",
+      "onboard_time": 1700379210,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 261890,
@@ -625,6 +657,14 @@
       "onboard_time": 1700362291,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255095,
+      "num": 324476,
+      "word": "夫妻投资2千万盘活烂尾楼被刑拘",
+      "onboard_time": 1700378612,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247796,
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 207882,
-      "num": 169359,
+      "num": 185353,
       "word": "危宁大婚造型",
       "onboard_time": 1700375190,
       "rank": 30,
@@ -804,7 +844,7 @@
     },
     {
       "raw_hot": 189441,
-      "num": 146846,
+      "num": 158980,
       "word": "宋雨琦赛车服短发造型",
       "onboard_time": 1700377952,
       "rank": 27,
@@ -833,6 +873,14 @@
       "onboard_time": 1700314776,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186707,
+      "num": 186707,
+      "word": "星舰内部是六层豪宅",
+      "onboard_time": 1700374889,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 185670,
@@ -897,14 +945,6 @@
       "onboard_time": 1700371888,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171995,
-      "num": 171995,
-      "word": "星舰内部是六层豪宅",
-      "onboard_time": 1700374889,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 171711,
@@ -1059,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145094,
+      "num": 145094,
+      "word": "横店童漂",
+      "onboard_time": 1700376272,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144726,
       "num": 144726,
       "word": "新闻女王",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1700321555,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137954,
-      "num": 137954,
-      "word": "横店童漂",
-      "onboard_time": 1700376272,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137259,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1700362709,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112407,
+      "num": 112407,
+      "word": "周润发挑战半马",
+      "onboard_time": 1700378252,
+      "rank": 39,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 109215,
@@ -1419,8 +1467,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86157,
+      "num": 91780,
+      "word": "体验墨西哥亡灵节",
+      "onboard_time": 1700377470,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 86112,
-      "num": 88145,
+      "num": 91435,
       "word": "黑白熊猫和粉色毛毯的适配度还挺高",
       "onboard_time": 1700377351,
       "rank": 47,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1700359530,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 82778,
-      "num": 87571,
-      "word": "体验墨西哥亡灵节",
-      "onboard_time": 1700377470,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 82663,
