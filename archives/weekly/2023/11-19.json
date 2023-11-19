@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700358109336,
+  "endTime": 1700361089086,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -11,20 +11,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1544244,
+      "num": 1544244,
+      "word": "男子丢失30万手机女子捡到以为老年机",
+      "onboard_time": 1700359350,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1435154,
+      "num": 422203,
+      "word": "女子花1.8万买衣服一年不发货不退款",
+      "onboard_time": 1700319457,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899026,
       "num": 481609,
       "word": "秦岚声带受损其实自己很沮丧",
       "onboard_time": 1700319096,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 871251,
-      "num": 422203,
-      "word": "女子花1.8万买衣服一年不发货不退款",
-      "onboard_time": 1700319457,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 820567,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376081,
+      "num": 132100,
+      "word": "知道皇帝为什么信任谢危了",
+      "onboard_time": 1700356951,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372387,
       "num": 372387,
       "word": "马斯克祝贺SpaceX公司团队",
@@ -171,6 +187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350484,
+      "num": 350484,
+      "word": "房东的猫演唱会妆造",
+      "onboard_time": 1700359409,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 345966,
+      "num": 345966,
+      "word": "瘦瘦笔减肥 副作用",
+      "onboard_time": 1700357910,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338583,
       "num": 338583,
       "word": "吴世勋说中文不烫嘴",
@@ -193,6 +225,22 @@
       "onboard_time": 1700345896,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311550,
+      "num": 311550,
+      "word": "2024载人航天飞行任务标识发布",
+      "onboard_time": 1700360369,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 307075,
+      "num": 307075,
+      "word": "陈楚生这棍子好像只认识陆虎",
+      "onboard_time": 1700359888,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 301093,
@@ -267,14 +315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222165,
-      "num": 132100,
-      "word": "知道皇帝为什么信任谢危了",
-      "onboard_time": 1700356951,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218049,
       "num": 503456,
       "word": "为什么得甲状腺癌的年轻人越来越多了",
@@ -345,6 +385,14 @@
       "onboard_time": 1700356951,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 174356,
+      "num": 130659,
+      "word": "德国2比3土耳其",
+      "onboard_time": 1700359107,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 170229,
@@ -419,11 +467,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148066,
+      "num": 148066,
+      "word": "黄子韬 情歌舞台",
+      "onboard_time": 1700358569,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 145096,
+      "num": 145096,
+      "word": "3名空调工人自带工具磨开防盗网救人",
+      "onboard_time": 1700358930,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144726,
       "num": 144726,
       "word": "新闻女王",
       "onboard_time": 1700318855,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141590,
+      "num": 141590,
+      "word": "张凌赫模仿王星越好吃好吃",
+      "onboard_time": 1700356409,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -451,12 +523,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 132013,
-      "num": 132013,
-      "word": "张凌赫模仿王星越好吃好吃",
-      "onboard_time": 1700356409,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 132460,
+      "num": 132460,
+      "word": "金毛为靠近小鹿假装打滚",
+      "onboard_time": 1700357970,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 130199,
@@ -491,12 +563,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 116738,
-      "num": 116738,
-      "word": "金毛为靠近小鹿假装打滚",
-      "onboard_time": 1700357970,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 124082,
+      "num": 124082,
+      "word": "适合普通人的中式减脂餐",
+      "onboard_time": 1700357910,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 119947,
+      "num": 119947,
+      "word": "艺人对发量的执念有多深",
+      "onboard_time": 1700360970,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 106096,
@@ -515,14 +595,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 102690,
-      "num": 102690,
-      "word": "瘦瘦笔减肥 副作用",
-      "onboard_time": 1700357910,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 102628,
       "num": 229283,
       "word": "SpaceX称被迫触发星舰的自毁功能",
@@ -531,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101052,
-      "num": 101052,
-      "word": "适合普通人的中式减脂餐",
-      "onboard_time": 1700357910,
-      "rank": 40,
-      "category": "美食"
+      "raw_hot": 98231,
+      "num": 98231,
+      "word": "李晨 这是生态篇不是心态篇",
+      "onboard_time": 1700360910,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 95628,
@@ -553,6 +625,22 @@
       "onboard_time": 1700306075,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93617,
+      "num": 97143,
+      "word": "如何用一片树叶做猫咪面具",
+      "onboard_time": 1700359649,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91322,
+      "num": 99989,
+      "word": "李米找了四年 周迅等了四年",
+      "onboard_time": 1700357489,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 89470,
@@ -595,12 +683,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 83512,
-      "num": 99989,
-      "word": "李米找了四年 周迅等了四年",
-      "onboard_time": 1700357489,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 83018,
+      "num": 97141,
+      "word": "谁没有看到李宇春的啵一个",
+      "onboard_time": 1700359530,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 76231,

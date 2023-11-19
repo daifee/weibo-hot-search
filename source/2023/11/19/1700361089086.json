@@ -1,0 +1,410 @@
+{
+  "runTime": 1700361089086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544244,
+        "num": 1544244,
+        "word": "男子丢失30万手机女子捡到以为老年机",
+        "onboard_time": 1700359350,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524031,
+        "num": 524031,
+        "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+        "onboard_time": 1700317832,
+        "rank": 1,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 6457,
+        "num": 405150,
+        "word": "2023年亚太经合组织领导人旧金山宣言",
+        "onboard_time": 1700296591,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1435154,
+        "num": 404174,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393046,
+        "num": 393046,
+        "word": "女子带9盒白糕到派出所放下就走",
+        "onboard_time": 1700355750,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350484,
+        "num": 350484,
+        "word": "房东的猫演唱会妆造",
+        "onboard_time": 1700359409,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345966,
+        "num": 345966,
+        "word": "瘦瘦笔减肥 副作用",
+        "onboard_time": 1700357910,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323480,
+        "num": 323480,
+        "word": "秦岚声带受损其实自己很沮丧",
+        "onboard_time": 1700319096,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311550,
+        "num": 311550,
+        "word": "2024载人航天飞行任务标识发布",
+        "onboard_time": 1700360369,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307075,
+        "num": 307075,
+        "word": "陈楚生这棍子好像只认识陆虎",
+        "onboard_time": 1700359888,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904955,
+        "num": 305272,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291597,
+        "num": 291597,
+        "word": "王栎鑫 笑到下巴脱臼",
+        "onboard_time": 1700356349,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271054,
+        "num": 271054,
+        "word": "Rookie直播提及Doinb",
+        "onboard_time": 1700349679,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261825,
+        "num": 261825,
+        "word": "胡夏请来了那些年一起追过的沈佳宜",
+        "onboard_time": 1700316995,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248194,
+        "num": 248194,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204050,
+        "num": 204050,
+        "word": "黑莲花上位手册",
+        "onboard_time": 1700324672,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201830,
+        "num": 201830,
+        "word": "鲁迅孙子自称90%刷视频10%看书",
+        "onboard_time": 1700309372,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181930,
+        "num": 181930,
+        "word": "杀破狼原唱经典回忆杀",
+        "onboard_time": 1700354488,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177861,
+        "num": 177861,
+        "word": "听说去澳门只需要带两根手指头",
+        "onboard_time": 1700319274,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173811,
+        "num": 173811,
+        "word": "马斯克祝贺SpaceX公司团队",
+        "onboard_time": 1700319397,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238595,
+        "num": 171864,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1700351964,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202969,
+        "num": 170000,
+        "word": "甲状腺癌常见的四个信号",
+        "onboard_time": 1700350884,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161703,
+        "num": 161703,
+        "word": "每年体检38岁男子被查出胰腺癌晚期",
+        "onboard_time": 1700316995,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "黄子韬 情歌舞台",
+        "onboard_time": 1700358569,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145096,
+        "num": 145096,
+        "word": "3名空调工人自带工具磨开防盗网救人",
+        "onboard_time": 1700358930,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141590,
+        "num": 141590,
+        "word": "张凌赫模仿王星越好吃好吃",
+        "onboard_time": 1700356409,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136716,
+        "num": 136716,
+        "word": "萌兰打哈欠一张嘴血脉觉醒",
+        "onboard_time": 1700317653,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132460,
+        "num": 132460,
+        "word": "金毛为靠近小鹿假装打滚",
+        "onboard_time": 1700357970,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132366,
+        "num": 132366,
+        "word": "班上唯一认真听课的同学被抓走了",
+        "onboard_time": 1700345896,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137894,
+        "num": 131331,
+        "word": "奶茶上的小盖子可以防尘",
+        "onboard_time": 1700356951,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 376081,
+        "num": 130895,
+        "word": "知道皇帝为什么信任谢危了",
+        "onboard_time": 1700356951,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174356,
+        "num": 130659,
+        "word": "德国2比3土耳其",
+        "onboard_time": 1700359107,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124082,
+        "num": 124082,
+        "word": "适合普通人的中式减脂餐",
+        "onboard_time": 1700357910,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123883,
+        "num": 123883,
+        "word": "张艺兴官方客服式回复",
+        "onboard_time": 1700354908,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122758,
+        "num": 122758,
+        "word": "谢危看到遮宁撑伞 无法原谅BGM",
+        "onboard_time": 1700356829,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119947,
+        "num": 119947,
+        "word": "艺人对发量的执念有多深",
+        "onboard_time": 1700360970,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117880,
+        "num": 117880,
+        "word": "人的舌头为什么能喷出水",
+        "onboard_time": 1700316394,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111570,
+        "num": 111570,
+        "word": "房东的猫从众筹到万人演唱会用了7年",
+        "onboard_time": 1700317114,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111407,
+        "num": 111407,
+        "word": "张晚意一集气死一个主任",
+        "onboard_time": 1700317832,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107553,
+        "num": 107553,
+        "word": "吴世勋说中文不烫嘴",
+        "onboard_time": 1700319274,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106810,
+        "num": 106810,
+        "word": "中国猫睡觉手不能露在被子外面",
+        "onboard_time": 1700323654,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103062,
+        "num": 103062,
+        "word": "皓衣行新图",
+        "onboard_time": 1700321136,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98598,
+        "num": 98598,
+        "word": "法国14比0直布罗陀",
+        "onboard_time": 1700348899,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98231,
+        "num": 98231,
+        "word": "李晨 这是生态篇不是心态篇",
+        "onboard_time": 1700360910,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97236,
+        "num": 97236,
+        "word": "王鹤棣看了不得高兴死",
+        "onboard_time": 1700320176,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97143,
+        "num": 97143,
+        "word": "宁安如梦编剧",
+        "onboard_time": 1700320655,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 97143,
+        "word": "如何用一片树叶做猫咪面具",
+        "onboard_time": 1700359649,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91322,
+        "num": 97143,
+        "word": "李米找了四年 周迅等了四年",
+        "onboard_time": 1700357489,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85821,
+        "num": 97142,
+        "word": "如何正确清理耳朵",
+        "onboard_time": 1700352445,
+        "rank": 48,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 83018,
+        "num": 97141,
+        "word": "谁没有看到李宇春的啵一个",
+        "onboard_time": 1700359530,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#华人华侨中国留学生代表欢送习主席#"
+    }
+  }
+}
