@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 06:33:54
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 07:17:01
 </p>
 </blockquote>
 <p>
@@ -3297,6 +3297,12 @@ S13半决赛（热度：1114606）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23" target="weibo">
+内娱史上最炸裂的6分32秒谈话（热度：1101167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AE%B6%E6%97%8F%E6%9B%BE%E9%82%80%E8%AF%B7%E5%9B%BD%E5%86%85%E6%98%8E%E6%98%9F%E7%BD%91%E7%BA%A2%E5%BA%86%E7%94%9F%23" target="weibo">
 缅北电诈家族曾邀请国内明星网红庆生（热度：1099541）
 </a>
@@ -6005,12 +6011,6 @@ WBG教练（热度：734319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E4%BA%94%E4%BA%BA%20%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE%23" target="weibo">
 告五人 五月天嘉宾（热度：720765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A6%86%E9%80%A0%23" target="weibo">
-时代少年团 妆造（热度：719686）
 </a>
 </li>
 

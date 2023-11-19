@@ -1,0 +1,410 @@
+{
+  "runTime": 1700435821174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 550691,
+        "num": 550691,
+        "word": "27岁研究生离世前一天发文感恩感谢",
+        "onboard_time": 1700399016,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466962,
+        "num": 466962,
+        "word": "终于有只搞事业不谈恋爱的剧了",
+        "onboard_time": 1700405675,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35817,
+        "num": 230720,
+        "word": "诗词藏着中国山水间的绝美景致",
+        "onboard_time": 1700398775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194723,
+        "num": 194723,
+        "word": "被家长会上爸爸高情商发言圈粉了",
+        "onboard_time": 1700399799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163695,
+        "num": 163695,
+        "word": "捡了一只混15种基因的小狗",
+        "onboard_time": 1700400878,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438351,
+        "num": 163466,
+        "word": "去年我国初婚人数低于1100万",
+        "onboard_time": 1700418437,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815177,
+        "num": 163119,
+        "word": "吴迪飞退圈",
+        "onboard_time": 1700405737,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1101167,
+        "num": 162462,
+        "word": "内娱史上最炸裂的6分32秒谈话",
+        "onboard_time": 1700421135,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161667,
+        "num": 161667,
+        "word": "郭艾伦吐槽以爱为营剧情",
+        "onboard_time": 1700389723,
+        "rank": 8,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 155460,
+        "num": 155460,
+        "word": "德约科维奇总决赛七冠王",
+        "onboard_time": 1700435485,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221338,
+        "num": 148555,
+        "word": "肖战好像被胁迫了",
+        "onboard_time": 1700389479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137617,
+        "num": 137617,
+        "word": "罗英子不离婚的原因",
+        "onboard_time": 1700402861,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135247,
+        "num": 135247,
+        "word": "11岁身体折叠隔20年他再见蓝天",
+        "onboard_time": 1700401299,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122835,
+        "num": 122835,
+        "word": "美国两家境外银行卡清算机构已获批进入国内市场",
+        "onboard_time": 1700407117,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112014,
+        "num": 112014,
+        "word": "TheShy回应是否退役",
+        "onboard_time": 1700399317,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "李佳航少喝点",
+        "onboard_time": 1700396318,
+        "rank": 15,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 88793,
+        "num": 88793,
+        "word": "T1战胜WBG",
+        "onboard_time": 1700392367,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84345,
+        "num": 84345,
+        "word": "华坪女高",
+        "onboard_time": 1700405436,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79199,
+        "num": 79199,
+        "word": "这版姜雪宁的嘴能吞下一头牛",
+        "onboard_time": 1700416998,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78219,
+        "num": 78219,
+        "word": "张桂梅读我本是高山观众祝福",
+        "onboard_time": 1700402262,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176353,
+        "num": 78200,
+        "word": "生理上的反应永远是最真实的",
+        "onboard_time": 1700435603,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122194,
+        "num": 78030,
+        "word": "冲锋衣销量猛涨",
+        "onboard_time": 1700397996,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119119,
+        "num": 77812,
+        "word": "8小时睡眠或许并非人类本能",
+        "onboard_time": 1700435663,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100692,
+        "num": 77741,
+        "word": "吴奇隆戴老花镜",
+        "onboard_time": 1700431816,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77602,
+        "num": 77602,
+        "word": "为什么长大后不愿意回家了",
+        "onboard_time": 1700426293,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71839,
+        "num": 71839,
+        "word": "白桃星座",
+        "onboard_time": 1700406996,
+        "rank": 25,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 70577,
+        "num": 70577,
+        "word": "时宴被偷家",
+        "onboard_time": 1700397159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68351,
+        "num": 68351,
+        "word": "张遮推了姜雪宁",
+        "onboard_time": 1700400278,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67742,
+        "num": 67742,
+        "word": "WBG发文告别S13",
+        "onboard_time": 1700395297,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66888,
+        "num": 66888,
+        "word": "网友为了省钱学给女朋友做美甲",
+        "onboard_time": 1700425153,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 65254,
+        "num": 65254,
+        "word": "LPL至暗时刻",
+        "onboard_time": 1700396198,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63017,
+        "num": 63017,
+        "word": "质疑恩静 成为恩静",
+        "onboard_time": 1700385390,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61590,
+        "num": 61590,
+        "word": "管泽元说十年了我们的敌人还是他",
+        "onboard_time": 1700402677,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61465,
+        "num": 61465,
+        "word": "Faker四冠登神",
+        "onboard_time": 1700392980,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61299,
+        "num": 61299,
+        "word": "Faker年收入超4000万元",
+        "onboard_time": 1700398058,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61049,
+        "num": 61049,
+        "word": "白鹿张凌赫宁安如梦热度破万",
+        "onboard_time": 1700395237,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60665,
+        "num": 60665,
+        "word": "湖北一单身姑娘的家",
+        "onboard_time": 1700435786,
+        "rank": 36,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 58545,
+        "num": 58545,
+        "word": "魏大勋筷子腿",
+        "onboard_time": 1700401660,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57219,
+        "num": 57219,
+        "word": "蔚来总裁回应倒闭质疑",
+        "onboard_time": 1700427553,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52289,
+        "num": 52289,
+        "word": "RNG 含金量",
+        "onboard_time": 1700397334,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52080,
+        "num": 52080,
+        "word": "我要逆风去大结局观后感",
+        "onboard_time": 1700430614,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52055,
+        "num": 52055,
+        "word": "警方悬赏5万至30万元通缉电诈人员",
+        "onboard_time": 1700400938,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51949,
+        "num": 51949,
+        "word": "张颂文 竹影",
+        "onboard_time": 1700406035,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51171,
+        "num": 51171,
+        "word": "恩静大小姐",
+        "onboard_time": 1700407234,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51170,
+        "num": 51170,
+        "word": "声生不息3路透",
+        "onboard_time": 1700404895,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47750,
+        "num": 51155,
+        "word": "T1夺冠",
+        "onboard_time": 1700392563,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46814,
+        "num": 51131,
+        "word": "中方将沟通协调推动巴以冲突降温",
+        "onboard_time": 1700394880,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46760,
+        "num": 51114,
+        "word": "Xiaohu尽力了",
+        "onboard_time": 1700395717,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46525,
+        "num": 51097,
+        "word": "大张伟 只有无聊的人才在比较",
+        "onboard_time": 1700408075,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46073,
+        "num": 51069,
+        "word": "妈妈届窒息感天花板来了",
+        "onboard_time": 1700397876,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样擘画亚太发展#"
+    }
+  }
+}
