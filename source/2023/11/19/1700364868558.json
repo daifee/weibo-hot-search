@@ -1,0 +1,410 @@
+{
+  "runTime": 1700364868558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2588889,
+        "num": 2588889,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700363732,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1904251,
+        "num": 1904251,
+        "word": "男子丢失30万手机女子捡到以为老年机",
+        "onboard_time": 1700359350,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60215,
+        "num": 1102619,
+        "word": "这件彩陶盆有5000年前黄河边跳舞画面",
+        "onboard_time": 1700361150,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985904,
+        "num": 985904,
+        "word": "我本是高山编剧回应",
+        "onboard_time": 1700364152,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 703556,
+        "num": 703556,
+        "word": "女子花1.8万买衣服一年不发货不退款",
+        "onboard_time": 1700319457,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604860,
+        "num": 604860,
+        "word": "花花等谭爷爷一起下班",
+        "onboard_time": 1700361269,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535322,
+        "num": 535322,
+        "word": "粉笔模考",
+        "onboard_time": 1700363910,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 506431,
+        "num": 506431,
+        "word": "新闻女王 下属用上司同款香水",
+        "onboard_time": 1700361150,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451998,
+        "num": 451998,
+        "word": "沙溢 范丞丞这两天将改变尼莫一生",
+        "onboard_time": 1700362410,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442321,
+        "num": 442321,
+        "word": "纣王 姬发想要我的逆子",
+        "onboard_time": 1700363190,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 867961,
+        "num": 396288,
+        "word": "胡馨尹 费沁源",
+        "onboard_time": 1700320235,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591313,
+        "num": 392992,
+        "word": "王鹤棣头发这么长了",
+        "onboard_time": 1700362108,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347986,
+        "num": 347986,
+        "word": "艺人对发量的执念有多深",
+        "onboard_time": 1700360970,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317720,
+        "num": 317720,
+        "word": "2024载人航天飞行任务标识发布",
+        "onboard_time": 1700360369,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287073,
+        "num": 287073,
+        "word": "陈楚生这棍子好像只认识陆虎",
+        "onboard_time": 1700359888,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246128,
+        "num": 246128,
+        "word": "Rookie直播提及Doinb",
+        "onboard_time": 1700349679,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237080,
+        "num": 237080,
+        "word": "杜兰特想恋爱了",
+        "onboard_time": 1700362291,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218881,
+        "num": 218881,
+        "word": "时宴 工具人",
+        "onboard_time": 1700362291,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192103,
+        "num": 192103,
+        "word": "乘客因纠纷堵门致地铁延误被拘",
+        "onboard_time": 1700364212,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191283,
+        "num": 191283,
+        "word": "瘦瘦笔减肥 副作用",
+        "onboard_time": 1700357910,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185670,
+        "num": 185670,
+        "word": "似火流年 彪子请挨打",
+        "onboard_time": 1700364328,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "杨紫 泰国",
+        "onboard_time": 1700313814,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176063,
+        "num": 176063,
+        "word": "上厕所玩手机容易引发多种疾病",
+        "onboard_time": 1700351964,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173938,
+        "num": 173938,
+        "word": "为什么中式快餐也快吃不起了",
+        "onboard_time": 1700364328,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 162286,
+        "num": 162286,
+        "word": "房东的猫演唱会妆造",
+        "onboard_time": 1700359409,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159274,
+        "num": 159274,
+        "word": "甲状腺癌常见的四个信号",
+        "onboard_time": 1700350884,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "妈妈照着夸孩子100句念孩子学习劲头十足",
+        "onboard_time": 1700317832,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 152854,
+        "num": 152854,
+        "word": "秦岚声带受损其实自己很沮丧",
+        "onboard_time": 1700319096,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146067,
+        "num": 146067,
+        "word": "琉璃血书",
+        "onboard_time": 1700362649,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144103,
+        "num": 144103,
+        "word": "女子带9盒白糕到派出所放下就走",
+        "onboard_time": 1700355750,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230714,
+        "num": 143156,
+        "word": "知道皇帝为什么信任谢危了",
+        "onboard_time": 1700356951,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140057,
+        "num": 140057,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1700361627,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136658,
+        "num": 136658,
+        "word": "李晨 这是生态篇不是心态篇",
+        "onboard_time": 1700360910,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127919,
+        "num": 136657,
+        "word": "黑莲花上位手册",
+        "onboard_time": 1700324672,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 136653,
+        "word": "萧敬腾 有小小恋爱脑的成熟男人",
+        "onboard_time": 1700364572,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121655,
+        "num": 136653,
+        "word": "上海迪士尼100周年限定款烟花秀",
+        "onboard_time": 1700362589,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114157,
+        "num": 136650,
+        "word": "时宴我心疼你",
+        "onboard_time": 1700362709,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110955,
+        "num": 136649,
+        "word": "3名空调工人自带工具磨开防盗网救人",
+        "onboard_time": 1700358930,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110690,
+        "num": 136646,
+        "word": "哈兰德厄德高无缘欧洲杯",
+        "onboard_time": 1700362532,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110232,
+        "num": 136643,
+        "word": "孟子义蔡文静脑回路 卧龙凤雏",
+        "onboard_time": 1700361569,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101499,
+        "num": 136640,
+        "word": "马斯克祝贺SpaceX公司团队",
+        "onboard_time": 1700319397,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100049,
+        "num": 136637,
+        "word": "王栎鑫 笑到下巴脱臼",
+        "onboard_time": 1700356349,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99461,
+        "num": 136634,
+        "word": "杨简向朝阳 醉酒吻",
+        "onboard_time": 1700364810,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94381,
+        "num": 136633,
+        "word": "张艺兴官方客服式回复",
+        "onboard_time": 1700354908,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94105,
+        "num": 136631,
+        "word": "每年体检38岁男子被查出胰腺癌晚期",
+        "onboard_time": 1700316995,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92234,
+        "num": 136629,
+        "word": "罗英子还没动心",
+        "onboard_time": 1700361388,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90585,
+        "num": 136627,
+        "word": "吴世勋说中文不烫嘴",
+        "onboard_time": 1700319274,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82702,
+        "num": 136624,
+        "word": "民警连打63通电话救下轻生老人",
+        "onboard_time": 1700361330,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79353,
+        "num": 136622,
+        "word": "听说去澳门只需要带两根手指头",
+        "onboard_time": 1700319274,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77520,
+        "num": 136618,
+        "word": "金毛为靠近小鹿假装打滚",
+        "onboard_time": 1700357970,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席演讲引发美国各界人士热烈反响#"
+    }
+  }
+}

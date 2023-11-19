@@ -1,10 +1,18 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700363897349,
+  "endTime": 1700364868558,
   "band_list": [
     {
+      "raw_hot": 2588889,
+      "num": 2588889,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1700363732,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2265776,
-      "num": 370034,
+      "num": 396288,
       "word": "胡馨尹 费沁源",
       "onboard_time": 1700320235,
       "rank": 10,
@@ -20,11 +28,19 @@
     },
     {
       "raw_hot": 1435154,
-      "num": 601322,
+      "num": 703556,
       "word": "女子花1.8万买衣服一年不发货不退款",
       "onboard_time": 1700319457,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 985904,
+      "num": 985904,
+      "word": "我本是高山编剧回应",
+      "onboard_time": 1700364152,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 899026,
@@ -67,12 +83,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 623337,
-      "num": 623337,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1700363732,
-      "rank": 1,
-      "category": "美食"
+      "raw_hot": 604860,
+      "num": 604860,
+      "word": "花花等谭爷爷一起下班",
+      "onboard_time": 1700361269,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591313,
+      "num": 392992,
+      "word": "王鹤棣头发这么长了",
+      "onboard_time": 1700362108,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 588635,
@@ -91,22 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 577421,
-      "num": 577421,
-      "word": "花花等谭爷爷一起下班",
-      "onboard_time": 1700361269,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553040,
-      "num": 255848,
-      "word": "王鹤棣头发这么长了",
-      "onboard_time": 1700362108,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 544069,
       "num": 271685,
       "word": "黑莲花上位手册",
@@ -121,6 +129,14 @@
       "onboard_time": 1700355750,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535322,
+      "num": 535322,
+      "word": "粉笔模考",
+      "onboard_time": 1700363910,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 477159,
@@ -147,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 451998,
+      "num": 451998,
+      "word": "沙溢 范丞丞这两天将改变尼莫一生",
+      "onboard_time": 1700362410,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450006,
       "num": 450006,
       "word": "王鹤棣看了不得高兴死",
@@ -163,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404543,
-      "num": 255824,
-      "word": "沙溢 范丞丞这两天将改变尼莫一生",
-      "onboard_time": 1700362410,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 442321,
+      "num": 442321,
+      "word": "纣王 姬发想要我的逆子",
+      "onboard_time": 1700363190,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 391810,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 351227,
-      "num": 255812,
+      "num": 347986,
       "word": "艺人对发量的执念有多深",
       "onboard_time": 1700360970,
       "rank": 35,
@@ -363,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256532,
-      "num": 131602,
-      "word": "纣王 姬发想要我的逆子",
-      "onboard_time": 1700363190,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 255802,
       "num": 255802,
       "word": "杜兰特想恋爱了",
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192103,
+      "num": 192103,
+      "word": "乘客因纠纷堵门致地铁延误被拘",
+      "onboard_time": 1700364212,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187627,
       "num": 187627,
       "word": "微博视界大会",
@@ -457,6 +481,14 @@
       "onboard_time": 1700314776,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185670,
+      "num": 185670,
+      "word": "似火流年 彪子请挨打",
+      "onboard_time": 1700364328,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 179711,
@@ -481,6 +513,14 @@
       "onboard_time": 1700359107,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173938,
+      "num": 173938,
+      "word": "为什么中式快餐也快吃不起了",
+      "onboard_time": 1700364328,
+      "rank": 23,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 170229,
@@ -611,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140057,
+      "num": 437497,
+      "word": "下一个中国还是中国",
+      "onboard_time": 1700361627,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138666,
       "num": 138666,
       "word": "民警连打63通电话救下轻生老人",
@@ -636,7 +684,7 @@
     },
     {
       "raw_hot": 136312,
-      "num": 136312,
+      "num": 136643,
       "word": "孟子义蔡文静脑回路 卧龙凤雏",
       "onboard_time": 1700361569,
       "rank": 39,
@@ -652,7 +700,7 @@
     },
     {
       "raw_hot": 134279,
-      "num": 134279,
+      "num": 136646,
       "word": "哈兰德厄德高无缘欧洲杯",
       "onboard_time": 1700362532,
       "rank": 29,
@@ -660,7 +708,7 @@
     },
     {
       "raw_hot": 132460,
-      "num": 132460,
+      "num": 136618,
       "word": "金毛为靠近小鹿假装打滚",
       "onboard_time": 1700357970,
       "rank": 36,
@@ -676,7 +724,7 @@
     },
     {
       "raw_hot": 129710,
-      "num": 129710,
+      "num": 136629,
       "word": "罗英子还没动心",
       "onboard_time": 1700361388,
       "rank": 37,
@@ -691,16 +739,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128435,
-      "num": 437497,
-      "word": "下一个中国还是中国",
-      "onboard_time": 1700361627,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 127617,
+      "num": 136653,
+      "word": "萧敬腾 有小小恋爱脑的成熟男人",
+      "onboard_time": 1700364572,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 127119,
-      "num": 128395,
+      "num": 136633,
       "word": "张艺兴官方客服式回复",
       "onboard_time": 1700354908,
       "rank": 33,
@@ -715,8 +763,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 110489,
-      "num": 128419,
+      "raw_hot": 114157,
+      "num": 136650,
       "word": "时宴我心疼你",
       "onboard_time": 1700362709,
       "rank": 34,
@@ -745,6 +793,14 @@
       "onboard_time": 1700316275,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99461,
+      "num": 136634,
+      "word": "杨简向朝阳 醉酒吻",
+      "onboard_time": 1700364810,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 95628,
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60215,
+      "num": 1102619,
+      "word": "这件彩陶盆有5000年前黄河边跳舞画面",
+      "onboard_time": 1700361150,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51429,
       "num": 137198,
       "word": "SpaceX与星舰助推器失去联系",
@@ -889,14 +953,6 @@
       "onboard_time": 1700338394,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 29428,
-      "num": 604019,
-      "word": "这件彩陶盆有5000年前黄河边跳舞画面",
-      "onboard_time": 1700361150,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29026,
