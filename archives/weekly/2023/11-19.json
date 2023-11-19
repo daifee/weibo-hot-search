@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700400846995,
+  "endTime": 1700403286444,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2681754,
+      "num": 2681754,
+      "word": "27岁研究生离世前一天发文感恩感谢",
+      "onboard_time": 1700399016,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2588889,
       "num": 2588889,
       "word": "霸王茶姬口令",
@@ -65,14 +73,6 @@
       "onboard_time": 1700364152,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2370275,
-      "num": 2370275,
-      "word": "27岁研究生离世前一天发文感恩感谢",
-      "onboard_time": 1700399016,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2265776,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1179049,
-      "num": 506151,
+      "num": 1021624,
       "word": "TheShy回应是否退役",
       "onboard_time": 1700399317,
       "rank": 15,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 604705,
-      "num": 394950,
+      "num": 411176,
       "word": "Faker年收入超4000万元",
       "onboard_time": 1700398058,
       "rank": 21,
@@ -651,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 507308,
+      "num": 507308,
+      "word": "张遮母亲",
+      "onboard_time": 1700399739,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 507094,
+      "num": 411254,
+      "word": "冲锋衣销量猛涨",
+      "onboard_time": 1700397996,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 506575,
       "num": 506575,
       "word": "时宴被偷家",
@@ -723,20 +739,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 460475,
-      "num": 460475,
-      "word": "张遮母亲",
-      "onboard_time": 1700399739,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 456559,
       "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
       "onboard_time": 1700316995,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 455641,
+      "num": 455641,
+      "word": "张桂梅读我本是高山观众祝福",
+      "onboard_time": 1700402262,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 453956,
@@ -753,6 +769,14 @@
       "onboard_time": 1700320176,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446926,
+      "num": 446926,
+      "word": "魏大勋筷子腿",
+      "onboard_time": 1700401660,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 444370,
@@ -811,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387067,
-      "num": 387067,
-      "word": "冲锋衣销量猛涨",
-      "onboard_time": 1700397996,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 383817,
       "num": 383817,
       "word": "虎扑评分",
@@ -841,6 +857,14 @@
       "onboard_time": 1700356951,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 374525,
+      "num": 374525,
+      "word": "MBTI拖延程度排名",
+      "onboard_time": 1700401779,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 373622,
@@ -1043,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327453,
+      "num": 327453,
+      "word": "捡了一只混15种基因的小狗",
+      "onboard_time": 1700400878,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322345,
       "num": 322345,
       "word": "我本是高山编剧",
@@ -1083,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315309,
+      "num": 291356,
+      "word": "Keria发布冠军皮肤投票",
+      "onboard_time": 1700401360,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 313298,
       "num": 313298,
       "word": "Light明年再战",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1700384670,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308859,
+      "num": 308859,
+      "word": "管泽元说十年了我们的敌人还是他",
+      "onboard_time": 1700402677,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 305251,
@@ -1171,12 +1219,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 288293,
+      "num": 288293,
+      "word": "被跑半马的小朋友震惊到了",
+      "onboard_time": 1700402557,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 282886,
       "num": 282886,
       "word": "郭富城回应赛车失控退赛",
       "onboard_time": 1700395778,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282768,
+      "num": 282768,
+      "word": "管泽元鲜奶",
+      "onboard_time": 1700400817,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 282260,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1700387556,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281655,
+      "num": 411506,
+      "word": "警方悬赏5万至30万元通缉电诈人员",
+      "onboard_time": 1700400938,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279837,
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240755,
+      "num": 240755,
+      "word": "罗英子不离婚的原因",
+      "onboard_time": 1700402861,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240600,
       "num": 240600,
       "word": "AG战胜LGD",
@@ -1689,6 +1769,14 @@
       "onboard_time": 1700367208,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202162,
+      "num": 202162,
+      "word": "张桂梅老师纪录片",
+      "onboard_time": 1700402197,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 202104,
@@ -1947,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177571,
+      "num": 221158,
+      "word": "11岁身体折叠隔20年他再见蓝天",
+      "onboard_time": 1700401299,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175421,
       "num": 159706,
       "word": "奶茶上的小盖子可以防尘",
@@ -1987,12 +2083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171147,
-      "num": 171147,
-      "word": "管泽元鲜奶",
-      "onboard_time": 1700400817,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 171646,
+      "num": 193894,
+      "word": "被家长会上爸爸高情商发言圈粉了",
+      "onboard_time": 1700399799,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171054,
@@ -2313,14 +2409,6 @@
       "onboard_time": 1700321555,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137353,
-      "num": 193894,
-      "word": "被家长会上爸爸高情商发言圈粉了",
-      "onboard_time": 1700399799,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137259,
@@ -2792,6 +2880,14 @@
       "word": "这件彩陶盆有5000年前黄河边跳舞画面",
       "onboard_time": 1700361150,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71100,
+      "num": 1178362,
+      "word": "全球九大候鸟迁飞区四个经过我国",
+      "onboard_time": 1700402139,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
