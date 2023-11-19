@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700368460432,
+  "endTime": 1700370971772,
   "band_list": [
     {
       "raw_hot": 2588889,
@@ -11,20 +11,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2265776,
-      "num": 423388,
-      "word": "胡馨尹 费沁源",
-      "onboard_time": 1700320235,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2219920,
-      "num": 2219920,
+      "raw_hot": 2372278,
+      "num": 2372278,
       "word": "我本是高山编剧回应",
       "onboard_time": 1700364152,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2265776,
+      "num": 496348,
+      "word": "胡馨尹 费沁源",
+      "onboard_time": 1700320235,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2208446,
@@ -67,6 +67,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 791775,
+      "num": 791775,
+      "word": "网红夫妇回应售楼处维权被抢手机",
+      "onboard_time": 1700367689,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775739,
       "num": 366406,
       "word": "杨紫 泰国",
@@ -83,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 713476,
+      "num": 713476,
+      "word": "演唱会购票强实名后抢票变容易了吗",
+      "onboard_time": 1700368231,
+      "rank": 33,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 687643,
       "num": 466118,
       "word": "听说去澳门只需要带两根手指头",
@@ -97,6 +113,14 @@
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 638974,
+      "num": 638974,
+      "word": "纣王 姬发想要我的逆子",
+      "onboard_time": 1700363190,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 604860,
@@ -155,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 519274,
-      "num": 519274,
-      "word": "纣王 姬发想要我的逆子",
-      "onboard_time": 1700363190,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 530050,
+      "num": 530050,
+      "word": "中国渔船在日本海域倾覆致5人失踪",
+      "onboard_time": 1700367930,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505386,
@@ -209,6 +233,14 @@
       "onboard_time": 1700321136,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430612,
+      "num": 430612,
+      "word": "张桂梅 精神内核",
+      "onboard_time": 1700367990,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 391810,
@@ -267,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363767,
+      "num": 363767,
+      "word": "乔妍的心事 开机",
+      "onboard_time": 1700370449,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363499,
       "num": 363499,
       "word": "人的舌头为什么能喷出水",
@@ -315,6 +355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344907,
+      "num": 344907,
+      "word": "190斤女子摔伤被众人合力从6楼抬下就医",
+      "onboard_time": 1700366069,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338583,
       "num": 338583,
       "word": "吴世勋说中文不烫嘴",
@@ -323,12 +371,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317956,
-      "num": 317956,
-      "word": "190斤女子摔伤被众人合力从6楼抬下就医",
-      "onboard_time": 1700366069,
+      "raw_hot": 320054,
+      "num": 320054,
+      "word": "陈硕辞退兰兰",
+      "onboard_time": 1700370569,
       "rank": 17,
-      "category": "社会新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 317136,
@@ -353,6 +401,14 @@
       "onboard_time": 1700307154,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 294601,
+      "num": 294601,
+      "word": "金靖 上海的冬天就像谢危",
+      "onboard_time": 1700370390,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 292873,
@@ -443,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245058,
+      "num": 245058,
+      "word": "谢危 无代餐",
+      "onboard_time": 1700369489,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244135,
       "num": 244135,
       "word": "李晨 这是生态篇不是心态篇",
@@ -451,20 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232930,
+      "num": 232930,
+      "word": "公厕蹲坑比马桶更卫生吗",
+      "onboard_time": 1700368109,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 225486,
+      "num": 225486,
+      "word": "日本赛陈雨菲女单亚军",
+      "onboard_time": 1700369130,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225348,
       "num": 225348,
       "word": "张艺兴演唱会每个座位都有伴手礼",
       "onboard_time": 1700320298,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221422,
-      "num": 221422,
-      "word": "网红夫妇回应售楼处维权被抢手机",
-      "onboard_time": 1700367689,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221000,
@@ -504,14 +576,6 @@
       "word": "哥哥去世1年11岁妹妹也患同样病",
       "onboard_time": 1700299591,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206025,
-      "num": 206025,
-      "word": "中国渔船在日本海域倾覆致5人失踪",
-      "onboard_time": 1700367930,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -555,6 +619,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 188093,
+      "num": 188093,
+      "word": "导盲犬带主人吃火锅迷路",
+      "onboard_time": 1700369431,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187627,
       "num": 187627,
       "word": "微博视界大会",
@@ -577,6 +649,14 @@
       "onboard_time": 1700364328,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181085,
+      "num": 138133,
+      "word": "雷霆18分逆转勇士",
+      "onboard_time": 1700369369,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179711,
@@ -619,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170228,
+      "num": 170228,
+      "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
+      "onboard_time": 1700368109,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167476,
       "num": 167476,
       "word": "张杰AsLongAsYouLoveMe",
@@ -635,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166052,
+      "num": 166052,
+      "word": "霍姆格伦36分",
+      "onboard_time": 1700370690,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161844,
       "num": 161844,
       "word": "王嘉尔杭州演唱会",
@@ -649,14 +745,6 @@
       "onboard_time": 1700316692,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157589,
-      "num": 157589,
-      "word": "张桂梅 精神内核",
-      "onboard_time": 1700367990,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 155451,
@@ -739,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142748,
+      "num": 142748,
+      "word": "新闻女王 没有感情戏的职场剧",
+      "onboard_time": 1700369008,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141590,
       "num": 141590,
       "word": "张凌赫模仿王星越好吃好吃",
@@ -777,14 +873,6 @@
       "onboard_time": 1700321555,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137936,
-      "num": 137936,
-      "word": "公厕蹲坑比马桶更卫生吗",
-      "onboard_time": 1700368109,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 137259,
@@ -851,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128367,
+      "num": 128367,
+      "word": "没有边界感的小狗",
+      "onboard_time": 1700370449,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127119,
       "num": 136633,
       "word": "张艺兴官方客服式回复",
@@ -867,12 +963,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 123698,
-      "num": 123698,
-      "word": "演唱会购票强实名后抢票变容易了吗",
-      "onboard_time": 1700368231,
+      "raw_hot": 120774,
+      "num": 120774,
+      "word": "KARINA DRAMA直拍",
+      "onboard_time": 1700369910,
       "rank": 33,
-      "category": "社会新闻,演出"
+      "category": "音乐"
     },
     {
       "raw_hot": 114157,
@@ -883,12 +979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111059,
-      "num": 111059,
-      "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
-      "onboard_time": 1700368109,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 108982,
+      "num": 108982,
+      "word": "陈楚生的双标时刻",
+      "onboard_time": 1700369910,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 106096,
@@ -905,6 +1001,14 @@
       "onboard_time": 1700307154,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104963,
+      "num": 104963,
+      "word": "库里复出",
+      "onboard_time": 1700369550,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102628,
@@ -987,6 +1091,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 89193,
+      "num": 89193,
+      "word": "欧文39分",
+      "onboard_time": 1700368829,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88666,
       "num": 95581,
       "word": "天不亮就开始马拉松训练的孩子们",
@@ -1033,6 +1145,14 @@
       "onboard_time": 1700322213,
       "rank": 47,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 83954,
+      "num": 83954,
+      "word": "张晚意向郑云龙科普8023",
+      "onboard_time": 1700370929,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 83018,
