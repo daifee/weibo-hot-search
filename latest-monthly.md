@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 17:16:01
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 17:34:19
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@ T1晋级S13四强（热度：9440198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9C%23" target="weibo">
 卡琳娜（热度：8622929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+WBG对战T1（热度：8235559）
 </a>
 </li>
 
@@ -203,12 +209,6 @@ Scout 精忠报国（热度：4591644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23" target="weibo">
 BLG战胜GEN（热度：4273103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-WBG对战T1（热度：4224697）
 </a>
 </li>
 
@@ -1359,6 +1359,12 @@ T1拿到两个赛点（热度：1895187）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E5%A5%B3%E5%9B%A2%E8%88%9E%23" target="weibo">
+时代少年团 女团舞（热度：1759757）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%B8%82%E8%80%81%E6%9D%BF%E7%8C%A5%E4%BA%B514%E5%B2%81%E5%B0%8F%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%A1%8C%E6%8B%989%E6%97%A5%23" target="weibo">
 超市老板猥亵14岁小女孩被行拘9日（热度：1754968）
 </a>
@@ -1889,6 +1895,12 @@ nobody原来是nobody cares（热度：1528602）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%23" target="weibo">
 宁安如梦（热度：1525174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A8%E7%96%91%E6%81%A9%E9%9D%99%20%E6%88%90%E4%B8%BA%E6%81%A9%E9%9D%99%23" target="weibo">
+质疑恩静 成为恩静（热度：1524443）
 </a>
 </li>
 
@@ -3783,6 +3795,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
+宋轶生气会和朋友打十几小时电话（热度：965883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A410%E5%B2%81%E7%94%B7%E7%AB%A5%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E7%8A%AC%E5%B7%B2%E8%A2%AB%E6%89%93%E6%AD%BB%23" target="weibo">
 咬伤10岁男童阿拉斯加犬已被打死（热度：964205）
 </a>
@@ -4601,12 +4619,6 @@ S13四强已有三支LPL战队（热度：837933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E5%8F%8A%E5%A9%B4%E5%84%BF%23" target="weibo">
 卫健委通报医院贩卖出生证及婴儿（热度：824837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
-宋轶生气会和朋友打十几小时电话（热度：824332）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TFBOYS方称十周年戒指事件为造谣（热度：710526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%BC%A5%E7%95%99%E4%B9%8B%E9%99%85%E8%80%81%E5%85%AC%E6%89%8D%E5%87%BA%E7%8E%B0%23" target="weibo">
 李玟弥留之际老公才出现（热度：706985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E7%90%A6%E5%81%9A%E7%9A%84%E9%9B%AA%E5%AA%9A%E5%A8%98%E4%B8%80%E5%90%83%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0%23" target="weibo">
-李嘉琦做的雪媚娘一吃一个不吱声（热度：706730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%97%91%E8%B5%B7%E4%BA%86%E6%9C%B1%E4%B8%B9%E5%92%8C%E5%91%A8%E4%B8%80%E5%9B%B4%23" target="weibo">
-没想到嗑起了朱丹和周一围（热度：706644）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700385361731,
+  "endTime": 1700386459957,
   "band_list": [
     {
-      "raw_hot": 4224697,
-      "num": 4224697,
+      "raw_hot": 8235559,
+      "num": 8235559,
       "word": "WBG对战T1",
       "onboard_time": 1700379393,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3498364,
-      "num": 888719,
+      "num": 973618,
       "word": "六公主回应我本是高山争议",
       "onboard_time": 1700379210,
       "rank": 16,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1759757,
+      "num": 973009,
+      "word": "时代少年团 女团舞",
+      "onboard_time": 1700384909,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1644196,
       "num": 1644196,
       "word": "32岁女子9年花费近27万吃海底捞",
       "onboard_time": 1700375612,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1524443,
+      "num": 596531,
+      "word": "质疑恩静 成为恩静",
+      "onboard_time": 1700385390,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1435154,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965883,
+      "num": 965883,
+      "word": "宋轶生气会和朋友打十几小时电话",
+      "onboard_time": 1700378314,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 899026,
       "num": 481609,
       "word": "秦岚声带受损其实自己很沮丧",
@@ -137,14 +161,6 @@
       "onboard_time": 1700367689,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824332,
-      "num": 824332,
-      "word": "宋轶生气会和朋友打十几小时电话",
-      "onboard_time": 1700378314,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 820567,
@@ -211,20 +227,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 661719,
+      "num": 661719,
+      "word": "刘耀文胸前纹身贴",
+      "onboard_time": 1700385210,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 649720,
       "num": 649720,
       "word": "时代少年团今天换妆造了",
       "onboard_time": 1700376753,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 641915,
-      "num": 641915,
-      "word": "时代少年团 女团舞",
-      "onboard_time": 1700384909,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 639428,
@@ -241,6 +257,14 @@
       "onboard_time": 1700363190,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 636528,
+      "num": 579617,
+      "word": "李佳航 赢了网吧包宿",
+      "onboard_time": 1700385991,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 635912,
@@ -307,6 +331,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572337,
+      "num": 572337,
+      "word": "Shy哥 Super Shy",
+      "onboard_time": 1700385751,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 555173,
+      "num": 631965,
+      "word": "六公主回应恶评",
+      "onboard_time": 1700383053,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 544069,
       "num": 271685,
       "word": "黑莲花上位手册",
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 483689,
-      "num": 310685,
+      "num": 345230,
       "word": "腰真的一下子就舒服了",
       "onboard_time": 1700381494,
       "rank": 22,
@@ -361,14 +401,6 @@
       "onboard_time": 1700360369,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 459404,
-      "num": 631965,
-      "word": "六公主回应恶评",
-      "onboard_time": 1700383053,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 456559,
@@ -427,12 +459,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 403657,
-      "num": 403657,
-      "word": "刘耀文胸前纹身贴",
-      "onboard_time": 1700385210,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 406351,
+      "num": 406351,
+      "word": "KDA 吊打",
+      "onboard_time": 1700385811,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 398243,
+      "num": 398243,
+      "word": "杨迪回应谢娜做的面不是剩的",
+      "onboard_time": 1700381732,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 391810,
@@ -449,14 +489,6 @@
       "onboard_time": 1700356951,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 374926,
-      "num": 374926,
-      "word": "杨迪回应谢娜做的面不是剩的",
-      "onboard_time": 1700381732,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 372387,
@@ -611,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330259,
+      "num": 618523,
+      "word": "男子偷功德箱的钱称菩萨给我比了OK",
+      "onboard_time": 1700383532,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -633,6 +673,22 @@
       "onboard_time": 1700345896,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311769,
+      "num": 365898,
+      "word": "黑龙江大学惊现雪人三星堆",
+      "onboard_time": 1700384670,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302223,
+      "num": 302223,
+      "word": "我本是高山",
+      "onboard_time": 1700384909,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 301093,
@@ -689,6 +745,14 @@
       "onboard_time": 1700274749,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265181,
+      "num": 265181,
+      "word": "剑魔打永恩",
+      "onboard_time": 1700386238,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 263631,
@@ -763,28 +827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251078,
-      "num": 316098,
-      "word": "男子偷功德箱的钱称菩萨给我比了OK",
-      "onboard_time": 1700383532,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248820,
       "num": 248820,
       "word": "秦岚情绪稳定的东北粮仓",
       "onboard_time": 1700382155,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248174,
-      "num": 248174,
-      "word": "我本是高山",
-      "onboard_time": 1700384909,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 247796,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206698,
+      "num": 206698,
+      "word": "主题曲 半开麦",
+      "onboard_time": 1700385991,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203527,
       "num": 203527,
       "word": "张远看到蔡国庆一秒返祖",
@@ -1003,12 +1059,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200131,
+      "num": 209779,
+      "word": "四川眉山公布重大考古发现",
+      "onboard_time": 1700383475,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199183,
+      "num": 199183,
+      "word": "当问奶奶结婚有什么好处时",
+      "onboard_time": 1700381555,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "Rise 请神",
+      "onboard_time": 1700384129,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196915,
       "num": 196915,
       "word": "法国14比0直布罗陀",
       "onboard_time": 1700348899,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196358,
+      "num": 196358,
+      "word": "七夜雪",
+      "onboard_time": 1700385570,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 196129,
@@ -1091,22 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185141,
-      "num": 185141,
-      "word": "当问奶奶结婚有什么好处时",
-      "onboard_time": 1700381555,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 182469,
-      "num": 203229,
-      "word": "四川眉山公布重大考古发现",
-      "onboard_time": 1700383475,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181159,
       "num": 181159,
       "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1700369369,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179837,
+      "num": 179837,
+      "word": "税务师实务",
+      "onboard_time": 1700385330,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 179711,
@@ -1161,14 +1241,6 @@
       "onboard_time": 1700359107,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173008,
-      "num": 173008,
-      "word": "Rise 请神",
-      "onboard_time": 1700384129,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 172616,
@@ -1420,7 +1492,7 @@
     },
     {
       "raw_hot": 140057,
-      "num": 861942,
+      "num": 974413,
       "word": "下一个中国还是中国",
       "onboard_time": 1700361627,
       "rank": 2,
@@ -1579,14 +1651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 116637,
-      "num": 116637,
-      "word": "税务师实务",
-      "onboard_time": 1700385330,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 114157,
       "num": 136650,
       "word": "时宴我心疼你",
@@ -1611,11 +1675,11 @@
       "category": "艺人,运动健身"
     },
     {
-      "raw_hot": 110958,
-      "num": 110958,
-      "word": "黑龙江大学惊现雪人三星堆",
-      "onboard_time": 1700384670,
-      "rank": 49,
+      "raw_hot": 110268,
+      "num": 133656,
+      "word": "00后送00后锦旗可以有多炸裂",
+      "onboard_time": 1700386418,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

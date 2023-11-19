@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/19 17:16:01
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/19 17:34:19
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+WBG对战T1（热度：8235559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E8%BF%98%E6%98%AF%E9%94%AE%E7%9B%98%E4%BE%A0%E5%A5%BD%E5%BD%93%23" target="weibo">
 鹿晗 还是键盘侠好当（热度：8185446）
 </a>
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23" target="weibo">
 中国男篮不敌菲律宾男篮（热度：6398188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%97%E9%80%B8%E5%A5%BD%E7%BE%8E%23" target="weibo">
-唐诗逸好美（热度：6352125）
 </a>
 </li>
 
