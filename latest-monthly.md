@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 07:34:26
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 09:20:51
 </p>
 </blockquote>
 <p>
@@ -5265,6 +5265,12 @@ Jennie50亿韩元购入高档别墅（热度：766664）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%A7%E7%9D%80%E5%A4%B8%E5%AD%A9%E5%AD%90100%E5%8F%A5%E5%BF%B5%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%E5%8A%B2%E5%A4%B4%E5%8D%81%E8%B6%B3%23" target="weibo">
+妈妈照着夸孩子100句念孩子学习劲头十足（热度：754555）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%8A%AE%E9%9B%84%E6%8A%95%E8%B5%84%E6%81%92%E5%A4%A7%E8%82%A1%E7%A5%A8%E4%BA%8F%E6%8D%9F%E8%B6%85100%E4%BA%BF%23" target="weibo">
 刘銮雄投资恒大股票亏损超100亿（热度：754391）
 </a>
@@ -6005,12 +6011,6 @@ Xiaohu首次晋级世界赛决赛（热度：701094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E5%A7%8B%E6%BA%90%20%E9%B2%81%E5%AE%BE%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0%23" target="weibo">
 崔始源 鲁宾逊漂流记（热度：695385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C2%E4%BA%BA%E9%80%81%E5%8C%BB%23" target="weibo">
-佳木斯一体育馆坍塌2人送医（热度：694148）
 </a>
 </li>
 
