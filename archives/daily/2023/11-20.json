@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700426065779,
+  "endTime": 1700428490307,
   "band_list": [
     {
       "raw_hot": 1505541,
@@ -491,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19898,
+      "num": 17001,
+      "word": "网友为了省钱学给女朋友做美甲",
+      "onboard_time": 1700425153,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 18343,
+      "num": 18343,
+      "word": "为什么长大后不愿意回家了",
+      "onboard_time": 1700426293,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14163,
       "num": 14720,
       "word": "电影我本是高山重返华坪女高",
@@ -499,12 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13562,
-      "num": 14197,
-      "word": "网友为了省钱学给女朋友做美甲",
-      "onboard_time": 1700425153,
-      "rank": 40,
-      "category": "美妆"
+      "raw_hot": 13366,
+      "num": 13366,
+      "word": "蔚来总裁回应倒闭质疑",
+      "onboard_time": 1700427553,
+      "rank": 42,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [

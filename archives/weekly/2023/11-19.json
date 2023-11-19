@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700426065779,
+  "endTime": 1700428490307,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -3219,12 +3219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19898,
+      "num": 17001,
+      "word": "网友为了省钱学给女朋友做美甲",
+      "onboard_time": 1700425153,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 18447,
       "num": 493146,
       "word": "中国一直是亚太合作重要的贡献者",
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18343,
+      "num": 18343,
+      "word": "为什么长大后不愿意回家了",
+      "onboard_time": 1700426293,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 14163,
@@ -3235,12 +3251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13562,
-      "num": 14197,
-      "word": "网友为了省钱学给女朋友做美甲",
-      "onboard_time": 1700425153,
-      "rank": 40,
-      "category": "美妆"
+      "raw_hot": 13366,
+      "num": 13366,
+      "word": "蔚来总裁回应倒闭质疑",
+      "onboard_time": 1700427553,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 7989,
