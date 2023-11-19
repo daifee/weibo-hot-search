@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700361089086,
+  "endTime": 1700361714044,
   "band_list": [
     {
       "raw_hot": 2265776,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1544244,
-      "num": 1544244,
+      "raw_hot": 1950587,
+      "num": 1950587,
       "word": "男子丢失30万手机女子捡到以为老年机",
       "onboard_time": 1700359350,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1435154,
-      "num": 422203,
+      "num": 431526,
       "word": "女子花1.8万买衣服一年不发货不退款",
       "onboard_time": 1700319457,
       "rank": 20,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477159,
+      "num": 477159,
+      "word": "2024载人航天飞行任务标识发布",
+      "onboard_time": 1700360369,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 456559,
       "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 376081,
-      "num": 132100,
+      "num": 143554,
       "word": "知道皇帝为什么信任谢危了",
       "onboard_time": 1700356951,
       "rank": 30,
@@ -187,20 +195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357647,
+      "num": 357647,
+      "word": "陈楚生这棍子好像只认识陆虎",
+      "onboard_time": 1700359888,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 354713,
+      "num": 354713,
+      "word": "瘦瘦笔减肥 副作用",
+      "onboard_time": 1700357910,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 350484,
       "num": 350484,
       "word": "房东的猫演唱会妆造",
       "onboard_time": 1700359409,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 345966,
-      "num": 345966,
-      "word": "瘦瘦笔减肥 副作用",
-      "onboard_time": 1700357910,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 338583,
@@ -225,22 +241,6 @@
       "onboard_time": 1700345896,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 311550,
-      "num": 311550,
-      "word": "2024载人航天飞行任务标识发布",
-      "onboard_time": 1700360369,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 307075,
-      "num": 307075,
-      "word": "陈楚生这棍子好像只认识陆虎",
-      "onboard_time": 1700359888,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 301093,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244135,
+      "num": 244135,
+      "word": "李晨 这是生态篇不是心态篇",
+      "onboard_time": 1700360910,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225348,
       "num": 225348,
       "word": "张艺兴演唱会每个座位都有伴手礼",
@@ -331,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214300,
+      "num": 214300,
+      "word": "新闻女王 下属用上司同款香水",
+      "onboard_time": 1700361150,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206981,
       "num": 270387,
       "word": "哥哥去世1年11岁妹妹也患同样病",
@@ -353,6 +369,14 @@
       "onboard_time": 1700348899,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192694,
+      "num": 142207,
+      "word": "艺人对发量的执念有多深",
+      "onboard_time": 1700360970,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187627,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 174356,
-      "num": 130659,
+      "num": 154107,
       "word": "德国2比3土耳其",
       "onboard_time": 1700359107,
       "rank": 31,
@@ -409,6 +433,14 @@
       "onboard_time": 1700321855,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167440,
+      "num": 167440,
+      "word": "金晨支持胡夏演唱会",
+      "onboard_time": 1700361449,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 161844,
@@ -449,6 +481,22 @@
       "onboard_time": 1700323654,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152251,
+      "num": 152251,
+      "word": "适合普通人的中式减脂餐",
+      "onboard_time": 1700357910,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 150844,
+      "num": 150844,
+      "word": "花花等谭爷爷一起下班",
+      "onboard_time": 1700361269,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149173,
@@ -499,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138666,
+      "num": 138666,
+      "word": "民警连打63通电话救下轻生老人",
+      "onboard_time": 1700361330,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138482,
       "num": 208651,
       "word": "AG战胜DRG",
@@ -539,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129710,
+      "num": 129710,
+      "word": "罗英子还没动心",
+      "onboard_time": 1700361388,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128978,
       "num": 201361,
       "word": "你女朋友不洗头啊",
@@ -563,20 +627,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 124082,
-      "num": 124082,
-      "word": "适合普通人的中式减脂餐",
-      "onboard_time": 1700357910,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 119947,
-      "num": 119947,
-      "word": "艺人对发量的执念有多深",
-      "onboard_time": 1700360970,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 117249,
+      "num": 117249,
+      "word": "孟子义蔡文静脑回路 卧龙凤雏",
+      "onboard_time": 1700361569,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 106096,
@@ -601,14 +657,6 @@
       "onboard_time": 1700316275,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98231,
-      "num": 98231,
-      "word": "李晨 这是生态篇不是心态篇",
-      "onboard_time": 1700360910,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 95628,
@@ -739,6 +787,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 29084,
+      "num": 231665,
+      "word": "这件彩陶盆有5000年前黄河边跳舞画面",
+      "onboard_time": 1700361150,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29026,
       "num": 53761,
       "word": "奔跑吧",
@@ -759,6 +815,14 @@
       "num": 493146,
       "word": "中国一直是亚太合作重要的贡献者",
       "onboard_time": 1700311714,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12631,
+      "num": 437497,
+      "word": "下一个中国还是中国",
+      "onboard_time": 1700361627,
       "rank": 2,
       "category": "国内时政"
     },
