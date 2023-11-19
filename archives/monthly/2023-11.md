@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 22:14:46
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/19 22:34:07
 </p>
 </blockquote>
 <p>
@@ -2907,6 +2907,12 @@ GEN难道只研究了T1（热度：1221313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E9%80%80%E5%BD%B9%23" target="weibo">
+TheShy回应是否退役（热度：1185814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8B%E8%BD%A6%E9%82%A3%E6%AE%B5%E7%99%BE%E7%9C%8B%E4%B8%8D%E5%8E%8C%23" target="weibo">
 刘诗诗下车那段百看不厌（热度：1185721）
 </a>
@@ -2939,12 +2945,6 @@ GEN难道只研究了T1（热度：1221313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%82%B9%E4%BA%8C%E5%8F%94%E6%B1%82%E5%A8%B6%E6%98%8E%E5%85%B0%E9%82%A3%E6%84%8F%E6%80%9D%E4%BA%86%23" target="weibo">
 有点二叔求娶明兰那意思了（热度：1179468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E9%80%80%E5%BD%B9%23" target="weibo">
-TheShy回应是否退役（热度：1179049）
 </a>
 </li>
 

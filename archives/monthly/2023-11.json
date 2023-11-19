@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700403286444,
+  "endTime": 1700404447768,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3859,6 +3859,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1185814,
+      "num": 1185814,
+      "word": "TheShy回应是否退役",
+      "onboard_time": 1700399317,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1185721,
       "num": 576907,
       "word": "刘诗诗下车那段百看不厌",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1700116295,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1179049,
-      "num": 1021624,
-      "word": "TheShy回应是否退役",
-      "onboard_time": 1700399317,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 1178201,
@@ -9059,6 +9059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651314,
+      "num": 651314,
+      "word": "张桂梅读我本是高山观众祝福",
+      "onboard_time": 1700402262,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 650457,
       "num": 650457,
       "word": "节奏大师",
@@ -11347,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547566,
+      "num": 446926,
+      "word": "魏大勋筷子腿",
+      "onboard_time": 1700401660,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 547539,
       "num": 427085,
       "word": "景甜 脸在江山在",
@@ -12899,6 +12915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489053,
+      "num": 440344,
+      "word": "管泽元说十年了我们的敌人还是他",
+      "onboard_time": 1700402677,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 489005,
       "num": 489005,
       "word": "T1英雄池 ban不完",
@@ -13875,6 +13899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 461209,
+      "num": 461209,
+      "word": "陆虎 你不需要让全世界都满意",
+      "onboard_time": 1700403337,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461114,
       "num": 461114,
       "word": "杨幂式保暖穿搭",
@@ -14057,14 +14089,6 @@
       "onboard_time": 1700099916,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 455641,
-      "num": 455641,
-      "word": "张桂梅读我本是高山观众祝福",
-      "onboard_time": 1700402262,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 455638,
@@ -14273,14 +14297,6 @@
       "onboard_time": 1700039615,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446926,
-      "num": 446926,
-      "word": "魏大勋筷子腿",
-      "onboard_time": 1700401660,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 446466,
@@ -16875,6 +16891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388390,
+      "num": 388390,
+      "word": "MBTI拖延程度排名",
+      "onboard_time": 1700401779,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388097,
       "num": 200385,
       "word": "卢昱晓粉色显黑",
@@ -17539,14 +17563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374525,
-      "num": 374525,
-      "word": "MBTI拖延程度排名",
-      "onboard_time": 1700401779,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 374488,
       "num": 374488,
       "word": "加沙有医院没水电ICU内新生儿面临死亡",
@@ -18025,6 +18041,14 @@
       "onboard_time": 1699857153,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364841,
+      "num": 411506,
+      "word": "警方悬赏5万至30万元通缉电诈人员",
+      "onboard_time": 1700400938,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364509,
@@ -19043,6 +19067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346312,
+      "num": 346312,
+      "word": "捡了一只混15种基因的小狗",
+      "onboard_time": 1700400878,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345881,
       "num": 292325,
       "word": "杨幂暗夜星河长裙",
@@ -19241,6 +19273,14 @@
       "onboard_time": 1699238912,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342774,
+      "num": 342774,
+      "word": "罗英子不离婚的原因",
+      "onboard_time": 1700402861,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 342264,
@@ -20001,14 +20041,6 @@
       "onboard_time": 1699918405,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 327453,
-      "num": 327453,
-      "word": "捡了一只混15种基因的小狗",
-      "onboard_time": 1700400878,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 327374,
@@ -21121,14 +21153,6 @@
       "onboard_time": 1700039012,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308859,
-      "num": 308859,
-      "word": "管泽元说十年了我们的敌人还是他",
-      "onboard_time": 1700402677,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 308849,
@@ -23001,14 +23025,6 @@
       "onboard_time": 1698970832,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281655,
-      "num": 411506,
-      "word": "警方悬赏5万至30万元通缉电诈人员",
-      "onboard_time": 1700400938,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281434,
@@ -26899,14 +26915,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 240755,
-      "num": 240755,
-      "word": "罗英子不离婚的原因",
-      "onboard_time": 1700402861,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240600,
       "num": 240600,
       "word": "AG战胜LGD",
@@ -28531,6 +28539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226182,
+      "num": 226182,
+      "word": "咱这妆只可远观",
+      "onboard_time": 1700403699,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 226151,
       "num": 192946,
       "word": "起猛了被美团外卖通知免单十年",
@@ -29393,6 +29409,14 @@
       "onboard_time": 1700216433,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 219000,
+      "num": 219000,
+      "word": "宁安如梦好可爱的一群人",
+      "onboard_time": 1700403460,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 218996,
@@ -37732,7 +37756,7 @@
     },
     {
       "raw_hot": 171646,
-      "num": 193894,
+      "num": 200248,
       "word": "被家长会上爸爸高情商发言圈粉了",
       "onboard_time": 1700399799,
       "rank": 49,
@@ -40329,6 +40353,14 @@
       "onboard_time": 1699834111,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156338,
+      "num": 200550,
+      "word": "刘诗诗到达长沙",
+      "onboard_time": 1700404416,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 156217,
