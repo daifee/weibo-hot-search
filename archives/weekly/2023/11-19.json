@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700443006423,
+  "endTime": 1700444295690,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1658878,
-      "num": 377869,
+      "num": 432976,
       "word": "内娱史上最炸裂的6分32秒谈话",
       "onboard_time": 1700421135,
       "rank": 49,
@@ -363,12 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 891227,
+      "num": 891227,
+      "word": "河南联通被曝强迫用户更换光猫",
+      "onboard_time": 1700442515,
+      "rank": 22,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 871404,
       "num": 791775,
       "word": "网红夫妇回应售楼处维权被抢手机",
       "onboard_time": 1700367689,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867973,
+      "num": 867973,
+      "word": "韩国顶级明星涉嫌偷税漏税",
+      "onboard_time": 1700443350,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 839720,
@@ -435,8 +451,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760981,
+      "num": 760981,
+      "word": "曺圭贤遇袭击负伤",
+      "onboard_time": 1700443955,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737619,
-      "num": 377154,
+      "num": 432776,
       "word": "第一次看见真胃",
       "onboard_time": 1700441075,
       "rank": 11,
@@ -619,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 595344,
+      "num": 432738,
+      "word": "新闻女王海王社死现场",
+      "onboard_time": 1700442392,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594240,
       "num": 594240,
       "word": "金靖 上海的冬天就像谢危",
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 550675,
-      "num": 374249,
+      "num": 406129,
       "word": "前三季度我国569万对新人登记结婚",
       "onboard_time": 1700439814,
       "rank": 12,
@@ -828,7 +860,7 @@
     },
     {
       "raw_hot": 494617,
-      "num": 282072,
+      "num": 303883,
       "word": "生理上的反应永远是最真实的",
       "onboard_time": 1700435603,
       "rank": 20,
@@ -875,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 455086,
+      "num": 455086,
+      "word": "宁安如梦魔改张遮",
+      "onboard_time": 1700441616,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453956,
       "num": 453956,
       "word": "房东的猫从众筹到万人演唱会用了7年",
@@ -905,6 +945,14 @@
       "onboard_time": 1700401779,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 433245,
+      "num": 433245,
+      "word": "杨紫李现国色芳华开始置景了",
+      "onboard_time": 1700443712,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 432818,
@@ -971,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393672,
+      "num": 393672,
+      "word": "T1获胜时的WBG众人",
+      "onboard_time": 1700439932,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 392647,
       "num": 392647,
       "word": "白桃星座",
@@ -985,14 +1041,6 @@
       "onboard_time": 1700356349,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390377,
-      "num": 390377,
-      "word": "宁安如梦魔改张遮",
-      "onboard_time": 1700441616,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 383817,
@@ -1049,14 +1097,6 @@
       "onboard_time": 1700359888,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369948,
-      "num": 369948,
-      "word": "T1获胜时的WBG众人",
-      "onboard_time": 1700439932,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 369567,
@@ -1587,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267179,
-      "num": 267179,
-      "word": "河南联通被曝强迫用户更换光猫",
-      "onboard_time": 1700442515,
-      "rank": 22,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 265620,
       "num": 265620,
       "word": "张遮推了姜雪宁",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1700317832,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256756,
+      "num": 256756,
+      "word": "吃香菜和不吃香菜的都沉默了",
+      "onboard_time": 1700443471,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 256686,
@@ -1849,14 +1889,6 @@
       "onboard_time": 1700399435,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239786,
-      "num": 239786,
-      "word": "新闻女王海王社死现场",
-      "onboard_time": 1700442392,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 239777,
@@ -2099,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206888,
+      "num": 199699,
+      "word": "高振宁 下山的路很吵但能重登吗",
+      "onboard_time": 1700442032,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206698,
       "num": 206698,
       "word": "主题曲 半开麦",
@@ -2339,20 +2379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190248,
-      "num": 190248,
-      "word": "高振宁 下山的路很吵但能重登吗",
-      "onboard_time": 1700442032,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189441,
       "num": 158980,
       "word": "宋雨琦赛车服短发造型",
       "onboard_time": 1700377952,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188411,
+      "num": 188411,
+      "word": "马斯克回应ChatGPT之父被开除",
+      "onboard_time": 1700444129,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 188093,
@@ -2595,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165755,
+      "num": 165755,
+      "word": "白鹿周柯宇合照",
+      "onboard_time": 1700442873,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161973,
       "num": 294128,
       "word": "税务师",
@@ -2667,19 +2715,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "萌兰小跑返场调皮又可爱",
+      "onboard_time": 1700437409,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154306,
       "num": 276554,
       "word": "家长会上父亲坦言儿子是学渣",
       "onboard_time": 1700393390,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153744,
-      "num": 153744,
-      "word": "萌兰小跑返场调皮又可爱",
-      "onboard_time": 1700437409,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2713,14 +2761,6 @@
       "onboard_time": 1700362589,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 149413,
-      "num": 149413,
-      "word": "白鹿周柯宇合照",
-      "onboard_time": 1700442873,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 149173,
@@ -3059,12 +3099,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123562,
-      "num": 123562,
+      "raw_hot": 124373,
+      "num": 124373,
       "word": "陈奕迅上海演唱会",
       "onboard_time": 1700442814,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122820,
+      "num": 122820,
+      "word": "朗尼沃克惊天隔扣",
+      "onboard_time": 1700443113,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120774,
@@ -3113,6 +3161,14 @@
       "onboard_time": 1700438492,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113625,
+      "num": 113625,
+      "word": "男生800米比赛摔倒上演逆风翻盘",
+      "onboard_time": 1700442755,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112525,
