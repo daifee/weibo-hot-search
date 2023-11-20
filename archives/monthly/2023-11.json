@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700465650369,
+  "endTime": 1700468628703,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1035,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2284492,
+      "num": 2284492,
+      "word": "Letme回归RNG",
+      "onboard_time": 1700466634,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2282687,
       "num": 760981,
       "word": "曺圭贤遇袭击负伤",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1699506637,
       "rank": 34,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2273530,
+      "num": 2273530,
+      "word": "人民文娱评以爱为营",
+      "onboard_time": 1700462195,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 2267803,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1700026592,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2013151,
-      "num": 2013151,
-      "word": "人民文娱评以爱为营",
-      "onboard_time": 1700462195,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 2010015,
@@ -2809,6 +2817,14 @@
       "onboard_time": 1700199874,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1501021,
+      "num": 389701,
+      "word": "中国式丁克",
+      "onboard_time": 1700465193,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1499110,
@@ -7091,6 +7107,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 789022,
+      "num": 789022,
+      "word": "水庆霞下课",
+      "onboard_time": 1700467054,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 788831,
       "num": 576433,
       "word": "杨幂鎏金羽翼裙",
@@ -7921,6 +7945,14 @@
       "onboard_time": 1699788880,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 734671,
+      "num": 348742,
+      "word": "大小S控告葛斯齐判赔",
+      "onboard_time": 1700466573,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 734319,
@@ -12803,6 +12835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505277,
+      "num": 326987,
+      "word": "于蕾 央视春晚总导演",
+      "onboard_time": 1700467897,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504998,
       "num": 355948,
       "word": "长沙一女子洗澡洗出个鸟病",
@@ -14164,7 +14204,7 @@
     },
     {
       "raw_hot": 465650,
-      "num": 283949,
+      "num": 326502,
       "word": "似曾相识焰归来",
       "onboard_time": 1700463213,
       "rank": 16,
@@ -16993,6 +17033,14 @@
       "onboard_time": 1698909158,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 396111,
+      "num": 396111,
+      "word": "摩托车骑手追尾小汽车坠湖身亡",
+      "onboard_time": 1700464173,
+      "rank": 38,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 396093,
@@ -20075,6 +20123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337343,
+      "num": 225598,
+      "word": "杨紫时尚先生双刊封面预告",
+      "onboard_time": 1700466935,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 337203,
       "num": 306966,
       "word": "朱一龙 不要低估自己瘦下来的决心",
@@ -20321,6 +20377,14 @@
       "onboard_time": 1699421431,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 332727,
+      "num": 204948,
+      "word": "韩东君爸爸是特警",
+      "onboard_time": 1700468135,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332630,
@@ -20849,6 +20913,14 @@
       "onboard_time": 1698880348,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323619,
+      "num": 323619,
+      "word": "杭州新东方遭网红举报处罚结果公布",
+      "onboard_time": 1700466334,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323560,
@@ -25515,6 +25587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 260804,
+      "num": 181907,
+      "word": "VOGUE时尚盛典阵容",
+      "onboard_time": 1700465611,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 260796,
       "num": 260796,
       "word": "乐游原 正常",
@@ -27459,6 +27539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243288,
+      "num": 243288,
+      "word": "特朗普祝贺阿根廷版特朗普",
+      "onboard_time": 1700465972,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 243161,
       "num": 231810,
       "word": "如何把身体里的病气排出去",
@@ -27972,7 +28060,7 @@
     },
     {
       "raw_hot": 237807,
-      "num": 209272,
+      "num": 215042,
       "word": "结婚是否会降低生活质量",
       "onboard_time": 1700463632,
       "rank": 27,
@@ -30025,6 +30113,14 @@
       "onboard_time": 1700303253,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221795,
+      "num": 180906,
+      "word": "孙丞潇 装不出来的天然呆",
+      "onboard_time": 1700467595,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 221710,
@@ -32603,6 +32699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205005,
+      "num": 205005,
+      "word": "AG对战DYG",
+      "onboard_time": 1700467721,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204992,
       "num": 204992,
       "word": "哈工大暖廊",
@@ -32665,6 +32769,14 @@
       "onboard_time": 1700124335,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204683,
+      "num": 204683,
+      "word": "Keria 轻音乐之神",
+      "onboard_time": 1700468252,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 204594,
@@ -33553,14 +33665,6 @@
       "onboard_time": 1699312825,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200153,
-      "num": 146516,
-      "word": "中国式丁克",
-      "onboard_time": 1700465193,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 200131,
@@ -36563,6 +36667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186325,
+      "num": 186325,
+      "word": "冬季嘴唇容易起皮怎么办",
+      "onboard_time": 1700464834,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186296,
       "num": 186296,
       "word": "王源新歌旁白是文淇",
@@ -36649,14 +36761,6 @@
       "onboard_time": 1699846772,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185759,
-      "num": 185759,
-      "word": "摩托车骑手追尾小汽车坠湖身亡",
-      "onboard_time": 1700464173,
-      "rank": 38,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 185755,
@@ -41963,6 +42067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154620,
+      "num": 154620,
+      "word": "00后民警收到蛋糕锦旗开心的一路小跑",
+      "onboard_time": 1700468135,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154600,
       "num": 154600,
       "word": "威神V主打一个强制爱",
@@ -43387,6 +43499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147142,
+      "num": 147142,
+      "word": "化妆后运动会闷痘吗",
+      "onboard_time": 1700467295,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 147101,
       "num": 147101,
       "word": "娜扎也有过容貌焦虑",
@@ -43539,6 +43659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 145991,
+      "num": 145258,
+      "word": "一念关山小分队合照",
+      "onboard_time": 1700467235,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145981,
       "num": 1193481,
       "word": "当我把甄嬛传里三个男主角介绍给我妈",
@@ -43632,6 +43760,14 @@
       "word": "iQOO12把竞燃之夜包圆了",
       "onboard_time": 1699965210,
       "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145604,
+      "num": 145604,
+      "word": "无畏祖卡是熊猫刺客",
+      "onboard_time": 1700468013,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -44161,6 +44297,14 @@
       "onboard_time": 1698966564,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142931,
+      "num": 142931,
+      "word": "渔民误捕300斤大海龟后果断放生",
+      "onboard_time": 1700467897,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142880,
@@ -47091,14 +47235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126753,
-      "num": 126753,
-      "word": "冬季嘴唇容易起皮怎么办",
-      "onboard_time": 1700464834,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "赵露思单肩公主裙",
@@ -47611,14 +47747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123382,
-      "num": 123382,
-      "word": "VOGUE时尚盛典阵容",
-      "onboard_time": 1700465611,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 123375,
       "num": 123375,
       "word": "中国三人女篮世界第一",
@@ -48043,6 +48171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121125,
+      "num": 121125,
+      "word": "虞书欣印花打底衣",
+      "onboard_time": 1700468613,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121074,
       "num": 121074,
       "word": "孙颖莎好可爱",
@@ -48329,6 +48465,14 @@
       "onboard_time": 1698931777,
       "rank": 43,
       "category": "美食,动漫"
+    },
+    {
+      "raw_hot": 119355,
+      "num": 119355,
+      "word": "新闻女王 大女主",
+      "onboard_time": 1700466152,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 119298,
@@ -53361,6 +53505,14 @@
       "onboard_time": 1699327289,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58103,
+      "num": 1665361,
+      "word": "运20再赴韩国接运烈士遗骸归国",
+      "onboard_time": 1700467474,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58009,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700468628703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2284492,
+        "num": 2284492,
+        "word": "Letme回归RNG",
+        "onboard_time": 1700466634,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2273530,
+        "num": 2273530,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58103,
+        "num": 1665361,
+        "word": "运20再赴韩国接运烈士遗骸归国",
+        "onboard_time": 1700467474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368402,
+        "num": 1368402,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1345259,
+        "num": 1345259,
+        "word": "张东健妻子被曝偷税漏税",
+        "onboard_time": 1700461115,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1316461,
+        "num": 1316461,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 871766,
+        "num": 871766,
+        "word": "甄嬛传官微 我怎么不知道",
+        "onboard_time": 1700463632,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 808495,
+        "num": 808495,
+        "word": "男子100多万买林肯称被客服嘲讽",
+        "onboard_time": 1700463573,
+        "rank": 7,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 789022,
+        "num": 789022,
+        "word": "水庆霞下课",
+        "onboard_time": 1700467054,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396111,
+        "num": 396111,
+        "word": "摩托车骑手追尾小汽车坠湖身亡",
+        "onboard_time": 1700464173,
+        "rank": 9,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 1501021,
+        "num": 389701,
+        "word": "中国式丁克",
+        "onboard_time": 1700465193,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 804731,
+        "num": 367758,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734671,
+        "num": 348742,
+        "word": "大小S控告葛斯齐判赔",
+        "onboard_time": 1700466573,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670336,
+        "num": 342354,
+        "word": "优酷回应网传甄嬛传将放完整版",
+        "onboard_time": 1700463573,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328667,
+        "num": 328667,
+        "word": "腹泻以为是胃病结果是心梗",
+        "onboard_time": 1700461892,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 505277,
+        "num": 326987,
+        "word": "于蕾 央视春晚总导演",
+        "onboard_time": 1700467897,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424934,
+        "num": 326502,
+        "word": "似曾相识焰归来",
+        "onboard_time": 1700463213,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323619,
+        "num": 323619,
+        "word": "杭州新东方遭网红举报处罚结果公布",
+        "onboard_time": 1700466334,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273399,
+        "num": 273399,
+        "word": "30岁董宇辉撞脸2000岁长信宫灯",
+        "onboard_time": 1700463993,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243288,
+        "num": 243288,
+        "word": "特朗普祝贺阿根廷版特朗普",
+        "onboard_time": 1700465972,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 526265,
+        "num": 235302,
+        "word": "何猷君 能不能叫我小金薯条",
+        "onboard_time": 1700464292,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337343,
+        "num": 225598,
+        "word": "杨紫时尚先生双刊封面预告",
+        "onboard_time": 1700466935,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215042,
+        "num": 215042,
+        "word": "结婚是否会降低生活质量",
+        "onboard_time": 1700463632,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214669,
+        "num": 214669,
+        "word": "体制内的微信沟通礼仪",
+        "onboard_time": 1700457814,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 205005,
+        "num": 205005,
+        "word": "AG对战DYG",
+        "onboard_time": 1700467721,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 332727,
+        "num": 204948,
+        "word": "韩东君爸爸是特警",
+        "onboard_time": 1700468135,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292457,
+        "num": 204855,
+        "word": "小时候的三喜",
+        "onboard_time": 1700462852,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273947,
+        "num": 204831,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204683,
+        "num": 204683,
+        "word": "Keria 轻音乐之神",
+        "onboard_time": 1700468252,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186325,
+        "num": 186325,
+        "word": "冬季嘴唇容易起皮怎么办",
+        "onboard_time": 1700464834,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 523349,
+        "num": 182543,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260804,
+        "num": 181907,
+        "word": "VOGUE时尚盛典阵容",
+        "onboard_time": 1700465611,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 221795,
+        "num": 180906,
+        "word": "孙丞潇 装不出来的天然呆",
+        "onboard_time": 1700467595,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170184,
+        "num": 170184,
+        "word": "再忍几年就能点外卖了",
+        "onboard_time": 1700461234,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 154620,
+        "num": 154620,
+        "word": "00后民警收到蛋糕锦旗开心的一路小跑",
+        "onboard_time": 1700468135,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184730,
+        "num": 152957,
+        "word": "潘玮柏胖瘦自如",
+        "onboard_time": 1700461115,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150141,
+        "num": 150141,
+        "word": "雷军",
+        "onboard_time": 1700458295,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148645,
+        "num": 148645,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147142,
+        "num": 147142,
+        "word": "化妆后运动会闷痘吗",
+        "onboard_time": 1700467295,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145604,
+        "num": 145604,
+        "word": "无畏祖卡是熊猫刺客",
+        "onboard_time": 1700468013,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 145258,
+        "word": "一念关山小分队合照",
+        "onboard_time": 1700467235,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142931,
+        "num": 142931,
+        "word": "渔民误捕300斤大海龟后果断放生",
+        "onboard_time": 1700467897,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "为何我本是高山改编引发巨大争议",
+        "onboard_time": 1700462918,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135319,
+        "num": 135319,
+        "word": "刘诗诗hi6逆应援",
+        "onboard_time": 1700459914,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 132683,
+        "word": "专家称不论开放几胎人口都会萎缩",
+        "onboard_time": 1700453075,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130729,
+        "num": 130729,
+        "word": "BLACKPINK将维持四人组",
+        "onboard_time": 1700448811,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125164,
+        "num": 125164,
+        "word": "詹姆斯被狄龙烦死了",
+        "onboard_time": 1700458117,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121125,
+        "num": 121125,
+        "word": "虞书欣印花打底衣",
+        "onboard_time": 1700468613,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119355,
+        "num": 119355,
+        "word": "新闻女王 大女主",
+        "onboard_time": 1700466152,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117907,
+        "num": 117907,
+        "word": "老人给重病儿子办手续医生跑腿又塞钱",
+        "onboard_time": 1700460213,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同世界和亚太各成员分享中国发展机遇#"
+    }
+  }
+}
