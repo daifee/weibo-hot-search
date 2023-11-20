@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/21 03:14:51
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/21 03:34:15
 </p>
 </blockquote>
 <p>
@@ -4023,6 +4023,12 @@ LPL粉丝花式应援（热度：109401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23" target="weibo">
+顾客扫码点餐法院判商家赔5000（热度：108572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%AE%E8%80%81%E4%BA%BA%E7%82%B9%E4%B8%80%E4%BB%BD%E4%B8%8D%E8%A6%81%E8%BE%A3%E7%9A%84%23" target="weibo">
 帮老人点一份不要辣的（热度：108189）
 </a>
@@ -4295,12 +4301,6 @@ SpaceX称被迫触发星舰的自毁功能（热度：102628）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93%E8%BF%9B%E6%AD%A5%E5%AE%A3%E4%BC%A0%E6%8E%A8%E5%B9%BF%E5%A4%A7%E4%BD%BF%E5%BC%A0%E6%9D%B0%23" target="weibo">
 中华民族团结进步宣传推广大使张杰（热度：84061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23" target="weibo">
-顾客扫码点餐法院判商家赔5000（热度：83151）
 </a>
 </li>
 
