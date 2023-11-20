@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700516058762,
+  "endTime": 1700518654122,
   "band_list": [
     {
       "raw_hot": 874813,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119947,
+      "num": 119947,
+      "word": "顾客扫码点餐法院判商家赔5000",
+      "onboard_time": 1700503337,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116639,
       "num": 116639,
       "word": "吴世勋 杂志",
@@ -249,14 +257,6 @@
       "onboard_time": 1700462195,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108572,
-      "num": 108572,
-      "word": "顾客扫码点餐法院判商家赔5000",
-      "onboard_time": 1700503337,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107488,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34207,
+      "num": 34207,
+      "word": "年少不知奶狗好 错把渣男当成宝",
+      "onboard_time": 1700489557,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23854,
       "num": 32811,
       "word": "海市幻城音乐节 抢票",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 22195,
-      "num": 22195,
+      "num": 24879,
       "word": "张靓颖 是谁接我下班呀",
       "onboard_time": 1700505314,
       "rank": 25,
@@ -499,36 +507,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19130,
-      "num": 29003,
-      "word": "年少不知奶狗好 错把渣男当成宝",
-      "onboard_time": 1700489557,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 13040,
-      "num": 19546,
+      "raw_hot": 17957,
+      "num": 24973,
       "word": "王毅会见阿拉伯伊斯兰国家外长联合代表团",
       "onboard_time": 1700513533,
       "rank": 43,
       "category": "国内时政"
     },
     {
-      "raw_hot": 10278,
-      "num": 21794,
-      "word": "冬日氛围大赏",
-      "onboard_time": 1700506035,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 9627,
-      "num": 19561,
+      "raw_hot": 14305,
+      "num": 25053,
       "word": "民警逛超市顺便帮店主止损14万",
       "onboard_time": 1700515153,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12348,
+      "num": 24845,
+      "word": "冬日氛围大赏",
+      "onboard_time": 1700506035,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
