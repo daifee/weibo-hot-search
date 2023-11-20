@@ -1,0 +1,410 @@
+{
+  "runTime": 1700454115807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5168810,
+        "num": 5168810,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1735718,
+        "num": 1735718,
+        "word": "我本是高山 网吧",
+        "onboard_time": 1700452718,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29897,
+        "num": 1291607,
+        "word": "全球九大候鸟迁飞区四个经过我国",
+        "onboard_time": 1700402139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050155,
+        "num": 1050155,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1479307,
+        "num": 1009937,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 851204,
+        "num": 851204,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664002,
+        "num": 664002,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700449773,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 630158,
+        "num": 630158,
+        "word": "韩国总统祝贺T1夺冠",
+        "onboard_time": 1700448392,
+        "rank": 7,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 442205,
+        "num": 629680,
+        "word": "警方回应网红夫妇售楼处要账被打",
+        "onboard_time": 1700452776,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371153,
+        "num": 613483,
+        "word": "加拿大间谍内讧",
+        "onboard_time": 1700435844,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818813,
+        "num": 606130,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656684,
+        "num": 602487,
+        "word": "韩国顶级明星涉嫌偷税漏税",
+        "onboard_time": 1700443350,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596475,
+        "num": 596475,
+        "word": "以爱为营 降智",
+        "onboard_time": 1700448272,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574732,
+        "num": 574732,
+        "word": "网传鸿蒙系统明年将不兼容安卓",
+        "onboard_time": 1700450252,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 296928,
+        "num": 296928,
+        "word": "专家称不论开放几胎人口都会萎缩",
+        "onboard_time": 1700453075,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570999,
+        "num": 292984,
+        "word": "我本是高山 导演叙事逻辑",
+        "onboard_time": 1700451815,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 527028,
+        "num": 291722,
+        "word": "刘诗诗刘宇宁hi6上班路透",
+        "onboard_time": 1700453194,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329640,
+        "num": 291353,
+        "word": "去年河南结婚人数排名全国第二",
+        "onboard_time": 1700445512,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288242,
+        "num": 288242,
+        "word": "男子偷5300被发现还回去2500",
+        "onboard_time": 1700445334,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288224,
+        "num": 288224,
+        "word": "Ning点评WBG教练",
+        "onboard_time": 1700436024,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 419046,
+        "num": 287638,
+        "word": "电影中三位原型人物评我本是高山",
+        "onboard_time": 1700450495,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417616,
+        "num": 287386,
+        "word": "梁洁素颜吃火锅",
+        "onboard_time": 1700452895,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310952,
+        "num": 285444,
+        "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+        "onboard_time": 1700450136,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277513,
+        "num": 277513,
+        "word": "我使馆回应加方否认康明凯等间谍活动",
+        "onboard_time": 1700450136,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234118,
+        "num": 234118,
+        "word": "感冒是否应该硬抗过去",
+        "onboard_time": 1700452415,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404017,
+        "num": 232802,
+        "word": "曺圭贤遇袭击负伤",
+        "onboard_time": 1700443955,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402061,
+        "num": 228212,
+        "word": "电子刊颠婆",
+        "onboard_time": 1700449293,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337857,
+        "num": 227293,
+        "word": "Reese 害怕没有女性参与创作的剧本",
+        "onboard_time": 1700452294,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281861,
+        "num": 221690,
+        "word": "宁安如梦断更两天",
+        "onboard_time": 1700453374,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220939,
+        "num": 220939,
+        "word": "绵阳流浪狗禁养狗有家了",
+        "onboard_time": 1700452477,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277441,
+        "num": 220858,
+        "word": "BLACKPINK将维持四人组",
+        "onboard_time": 1700448811,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273576,
+        "num": 220760,
+        "word": "张遮没有重生",
+        "onboard_time": 1700447735,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220658,
+        "num": 220658,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206260,
+        "num": 206260,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203306,
+        "num": 203306,
+        "word": "不要老想在亲密关系中做小孩",
+        "onboard_time": 1700452718,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219364,
+        "num": 202365,
+        "word": "快乐老友记制片人一日体验卡",
+        "onboard_time": 1700449533,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200032,
+        "num": 200032,
+        "word": "DINO首次solo",
+        "onboard_time": 1700453735,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189077,
+        "num": 189077,
+        "word": "黑松露大量上市",
+        "onboard_time": 1700451872,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187939,
+        "num": 187939,
+        "word": "T1获胜时的WBG众人",
+        "onboard_time": 1700439932,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184601,
+        "num": 184601,
+        "word": "河南联通被曝强迫用户更换光猫",
+        "onboard_time": 1700442515,
+        "rank": 39,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 198774,
+        "num": 183700,
+        "word": "郭珮文 TVB台庆最大赢家",
+        "onboard_time": 1700453137,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181695,
+        "num": 181695,
+        "word": "杨紫李现国色芳华开始置景了",
+        "onboard_time": 1700443712,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58389,
+        "num": 168767,
+        "word": "张婧仪美神妆",
+        "onboard_time": 1700453858,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 167856,
+        "num": 167856,
+        "word": "A股",
+        "onboard_time": 1700449353,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156876,
+        "num": 156876,
+        "word": "王鸥新剧演破产主妇",
+        "onboard_time": 1700450193,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153690,
+        "num": 153690,
+        "word": "NewJeans BBMAs舞台",
+        "onboard_time": 1700449413,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142687,
+        "num": 142687,
+        "word": "生理上的反应永远是最真实的",
+        "onboard_time": 1700435603,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141604,
+        "num": 141604,
+        "word": "吃香菜和不吃香菜的都沉默了",
+        "onboard_time": 1700443471,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132942,
+        "num": 132942,
+        "word": "未来每栋楼都是个光伏充电站",
+        "onboard_time": 1700452294,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116008,
+        "num": 116008,
+        "word": "太阳vs爵士",
+        "onboard_time": 1700454097,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的旧金山时间#"
+    }
+  }
+}

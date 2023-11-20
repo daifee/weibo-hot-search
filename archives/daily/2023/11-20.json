@@ -1,7 +1,15 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700451261616,
+  "endTime": 1700454115807,
   "band_list": [
+    {
+      "raw_hot": 5168810,
+      "num": 5168810,
+      "word": "乌尔善取关",
+      "onboard_time": 1700451514,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2282687,
       "num": 760981,
@@ -43,6 +51,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1735718,
+      "num": 1735718,
+      "word": "我本是高山 网吧",
+      "onboard_time": 1700452718,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1658878,
       "num": 432976,
       "word": "内娱史上最炸裂的6分32秒谈话",
@@ -67,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1479307,
+      "num": 1009937,
+      "word": "被迫嫁人的女孩 她本是高山",
+      "onboard_time": 1700451153,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1178240,
       "num": 1178240,
       "word": "韩国总统祝贺T1夺冠",
@@ -75,8 +99,8 @@
       "category": "电竞,社会新闻"
     },
     {
-      "raw_hot": 1014376,
-      "num": 1014376,
+      "raw_hot": 1050155,
+      "num": 1050155,
       "word": "金莎回应签约孙丞潇",
       "onboard_time": 1700449653,
       "rank": 12,
@@ -195,12 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574732,
+      "num": 574732,
+      "word": "网传鸿蒙系统明年将不兼容安卓",
+      "onboard_time": 1700450252,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 570999,
+      "num": 292984,
+      "word": "我本是高山 导演叙事逻辑",
+      "onboard_time": 1700451815,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 550675,
       "num": 406129,
       "word": "前三季度我国569万对新人登记结婚",
       "onboard_time": 1700439814,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527028,
+      "num": 291722,
+      "word": "刘诗诗刘宇宁hi6上班路透",
+      "onboard_time": 1700453194,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 503438,
@@ -259,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442205,
+      "num": 629680,
+      "word": "警方回应网红夫妇售楼处要账被打",
+      "onboard_time": 1700452776,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421349,
       "num": 421349,
       "word": "飞夺泸定桥被搬到竞综了",
@@ -275,7 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416160,
+      "raw_hot": 419046,
       "num": 372584,
       "word": "电影中三位原型人物评我本是高山",
       "onboard_time": 1700450495,
@@ -283,12 +339,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 396264,
-      "num": 396264,
-      "word": "网传鸿蒙系统明年将不兼容安卓",
-      "onboard_time": 1700450252,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 417616,
+      "num": 287386,
+      "word": "梁洁素颜吃火锅",
+      "onboard_time": 1700452895,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 395039,
@@ -347,12 +403,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 337857,
+      "num": 227293,
+      "word": "Reese 害怕没有女性参与创作的剧本",
+      "onboard_time": 1700452294,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327809,
       "num": 297590,
       "word": "肖战好像被胁迫了",
       "onboard_time": 1700389479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310952,
+      "num": 285444,
+      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+      "onboard_time": 1700450136,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307914,
@@ -377,6 +449,14 @@
       "onboard_time": 1700441075,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296928,
+      "num": 296928,
+      "word": "专家称不论开放几胎人口都会萎缩",
+      "onboard_time": 1700453075,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296556,
@@ -435,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281861,
+      "num": 221690,
+      "word": "宁安如梦断更两天",
+      "onboard_time": 1700453374,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275779,
       "num": 275779,
       "word": "Tims崩了",
@@ -457,14 +545,6 @@
       "onboard_time": 1700444129,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 261194,
-      "num": 261194,
-      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
-      "onboard_time": 1700450136,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257624,
@@ -539,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234118,
+      "num": 234118,
+      "word": "感冒是否应该硬抗过去",
+      "onboard_time": 1700452415,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232045,
       "num": 232045,
       "word": "失眠时别硬躺试试离开你的床",
@@ -579,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220939,
+      "num": 220939,
+      "word": "绵阳流浪狗禁养狗有家了",
+      "onboard_time": 1700452477,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219364,
+      "num": 210357,
+      "word": "快乐老友记制片人一日体验卡",
+      "onboard_time": 1700449533,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219296,
       "num": 219296,
       "word": "白鹿张凌赫宁安如梦热度破万",
@@ -609,14 +713,6 @@
       "onboard_time": 1700450193,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210357,
-      "num": 210357,
-      "word": "快乐老友记制片人一日体验卡",
-      "onboard_time": 1700449533,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 209824,
@@ -675,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203306,
+      "num": 203306,
+      "word": "不要老想在亲密关系中做小孩",
+      "onboard_time": 1700452718,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200134,
       "num": 210979,
       "word": "A股",
@@ -683,12 +787,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200032,
+      "num": 200032,
+      "word": "DINO首次solo",
+      "onboard_time": 1700453735,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199038,
       "num": 199038,
       "word": "捡了一只混15种基因的小狗",
       "onboard_time": 1700400878,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198774,
+      "num": 183700,
+      "word": "郭珮文 TVB台庆最大赢家",
+      "onboard_time": 1700453137,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 195280,
@@ -737,6 +857,14 @@
       "onboard_time": 1700403337,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189077,
+      "num": 189077,
+      "word": "黑松露大量上市",
+      "onboard_time": 1700451872,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 188669,
@@ -1019,12 +1147,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 134597,
-      "num": 134597,
-      "word": "被迫嫁人的女孩 她本是高山",
-      "onboard_time": 1700451153,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 132942,
+      "num": 132942,
+      "word": "未来每栋楼都是个光伏充电站",
+      "onboard_time": 1700452294,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131119,
@@ -1113,6 +1241,14 @@
       "onboard_time": 1700440293,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116008,
+      "num": 116008,
+      "word": "太阳vs爵士",
+      "onboard_time": 1700454097,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113783,
@@ -1275,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58389,
+      "num": 168767,
+      "word": "张婧仪美神妆",
+      "onboard_time": 1700453858,
+      "rank": 42,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 52080,
       "num": 56375,
       "word": "我要逆风去大结局观后感",
@@ -1305,6 +1449,14 @@
       "onboard_time": 1700415738,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29897,
+      "num": 1291607,
+      "word": "全球九大候鸟迁飞区四个经过我国",
+      "onboard_time": 1700402139,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24258,
