@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700493585037,
+  "endTime": 1700494470825,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -499,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1026873,
+      "num": 385375,
+      "word": "郭碧婷向佐最新视频画风",
+      "onboard_time": 1700491475,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 990811,
       "num": 990811,
       "word": "何猷君 能不能叫我小金薯条",
@@ -609,14 +617,6 @@
       "onboard_time": 1700367689,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 855042,
-      "num": 384623,
-      "word": "郭碧婷向佐最新视频画风",
-      "onboard_time": 1700491475,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 839720,
@@ -955,6 +955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 623904,
+      "num": 623904,
+      "word": "果敢电诈二代正接管家族黑色产业",
+      "onboard_time": 1700491294,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616652,
       "num": 343667,
       "word": "薛之谦演唱会提词器背景图",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 562459,
-      "num": 381709,
-      "word": "果敢电诈二代正接管家族黑色产业",
-      "onboard_time": 1700491294,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559238,
@@ -1507,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452088,
+      "num": 452088,
+      "word": "教育局回应中学因财政困难向学生收200元",
+      "onboard_time": 1700492316,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 450006,
       "num": 450006,
       "word": "王鹤棣看了不得高兴死",
@@ -1819,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 365557,
+      "num": 365557,
+      "word": "Rekkles或将加入T1二队",
+      "onboard_time": 1700492795,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 364841,
       "num": 411506,
       "word": "警方悬赏5万至30万元通缉电诈人员",
@@ -2096,22 +2112,6 @@
       "word": "Keria 轻音乐之神",
       "onboard_time": 1700468252,
       "rank": 28,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 332072,
-      "num": 332072,
-      "word": "教育局回应中学因财政困难向学生收200元",
-      "onboard_time": 1700492316,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 330922,
-      "num": 330922,
-      "word": "Rekkles或将加入T1二队",
-      "onboard_time": 1700492795,
-      "rank": 18,
       "category": "电竞"
     },
     {
@@ -2755,6 +2755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 259340,
+      "num": 259340,
+      "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
+      "onboard_time": 1700490936,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258315,
       "num": 258315,
       "word": "谢危 无代餐",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1700362291,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255141,
-      "num": 255141,
-      "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
-      "onboard_time": 1700490936,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254811,
@@ -2852,7 +2852,7 @@
     },
     {
       "raw_hot": 251333,
-      "num": 179249,
+      "num": 234732,
       "word": "韩国男足称目标是零封国足",
       "onboard_time": 1700492435,
       "rank": 30,
@@ -4067,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182502,
+      "num": 182502,
+      "word": "OpenAI员工要求恢复奥特曼职位",
+      "onboard_time": 1700493394,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181425,
       "num": 181425,
       "word": "孕期压力大影响孩子童年心理和行为",
@@ -4403,14 +4411,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 162157,
-      "num": 162157,
-      "word": "OpenAI员工要求恢复奥特曼职位",
-      "onboard_time": 1700493394,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161973,
       "num": 294128,
       "word": "税务师",
@@ -4433,6 +4433,14 @@
       "onboard_time": 1700321495,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161781,
+      "num": 161781,
+      "word": "胡先煦大型尴尬现场",
+      "onboard_time": 1700491716,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 161752,
@@ -4465,14 +4473,6 @@
       "onboard_time": 1700454519,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159488,
-      "num": 159488,
-      "word": "胡先煦大型尴尬现场",
-      "onboard_time": 1700491716,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 159432,
@@ -5217,6 +5217,14 @@
       "onboard_time": 1700440293,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119004,
+      "num": 119004,
+      "word": "RW对战LGD",
+      "onboard_time": 1700493694,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 118856,
