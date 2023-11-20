@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700468628703,
+  "endTime": 1700469419659,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -107,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1752439,
+      "num": 404663,
+      "word": "中国式丁克",
+      "onboard_time": 1700465193,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1658878,
       "num": 432976,
       "word": "内娱史上最炸裂的6分32秒谈话",
@@ -129,14 +137,6 @@
       "onboard_time": 1700446654,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1501021,
-      "num": 389701,
-      "word": "中国式丁克",
-      "onboard_time": 1700465193,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1479307,
@@ -177,6 +177,14 @@
       "onboard_time": 1700463573,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1007585,
+      "num": 1007585,
+      "word": "于蕾 央视春晚总导演",
+      "onboard_time": 1700467897,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003059,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 808200,
+      "num": 808200,
+      "word": "水庆霞下课",
+      "onboard_time": 1700467054,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807732,
       "num": 578783,
       "word": "电子刊颠婆",
@@ -241,14 +257,6 @@
       "onboard_time": 1700458295,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 789022,
-      "num": 789022,
-      "word": "水庆霞下课",
-      "onboard_time": 1700467054,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 763846,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 734671,
-      "num": 348742,
+      "num": 358942,
       "word": "大小S控告葛斯齐判赔",
       "onboard_time": 1700466573,
       "rank": 12,
@@ -411,14 +419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 505277,
-      "num": 326987,
-      "word": "于蕾 央视春晚总导演",
-      "onboard_time": 1700467897,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503438,
       "num": 503438,
       "word": "CPA 还不出成绩",
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453778,
+      "num": 340317,
+      "word": "韩东君爸爸是特警",
+      "onboard_time": 1700468135,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 425684,
       "num": 425684,
       "word": "日本核污水第三轮排海今日结束",
@@ -537,6 +545,14 @@
       "onboard_time": 1700450495,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 411263,
+      "num": 411263,
+      "word": "杭州新东方遭网红举报处罚结果公布",
+      "onboard_time": 1700466334,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396111,
@@ -683,12 +699,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 332727,
-      "num": 204948,
-      "word": "韩东君爸爸是特警",
-      "onboard_time": 1700468135,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 332664,
+      "num": 332664,
+      "word": "Keria 轻音乐之神",
+      "onboard_time": 1700468252,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 327809,
@@ -713,14 +729,6 @@
       "onboard_time": 1700456678,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 323619,
-      "num": 323619,
-      "word": "杭州新东方遭网红举报处罚结果公布",
-      "onboard_time": 1700466334,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318755,
@@ -995,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239694,
+      "num": 194098,
+      "word": "很想很想你 男主欣赏眼神",
+      "onboard_time": 1700469092,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237807,
       "num": 215042,
       "word": "结婚是否会降低生活质量",
@@ -1211,14 +1227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204683,
-      "num": 204683,
-      "word": "Keria 轻音乐之神",
-      "onboard_time": 1700468252,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "运20将接运烈士遗骸归国",
@@ -1305,6 +1313,22 @@
       "onboard_time": 1700397334,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194878,
+      "num": 165455,
+      "word": "虞书欣印花打底衣",
+      "onboard_time": 1700468613,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192339,
+      "num": 192339,
+      "word": "渔民误捕300斤大海龟后果断放生",
+      "onboard_time": 1700467897,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191973,
@@ -1507,6 +1531,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 164050,
+      "num": 164050,
+      "word": "00后民警收到蛋糕锦旗开心的一路小跑",
+      "onboard_time": 1700468135,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163552,
       "num": 163552,
       "word": "秋冬如何养脸",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1700447852,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154620,
-      "num": 154620,
-      "word": "00后民警收到蛋糕锦旗开心的一路小跑",
-      "onboard_time": 1700468135,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151929,
@@ -1723,14 +1747,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 142931,
-      "num": 142931,
-      "word": "渔民误捕300斤大海龟后果断放生",
-      "onboard_time": 1700467897,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141492,
       "num": 141492,
       "word": "母亲接记者电话才知儿子救3人",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1700436447,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139969,
+      "num": 139969,
+      "word": "B站通报人肉开盒案例",
+      "onboard_time": 1700469395,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138514,
@@ -1873,14 +1897,6 @@
       "onboard_time": 1700405976,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121125,
-      "num": 121125,
-      "word": "虞书欣印花打底衣",
-      "onboard_time": 1700468613,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120873,
@@ -2011,6 +2027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99828,
+      "num": 112471,
+      "word": "请问公司是我开的吗",
+      "onboard_time": 1700469275,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96118,
       "num": 116571,
       "word": "三星堆分堆终究还是开到了东北",
@@ -2040,6 +2064,14 @@
       "word": "3岁萌娃送辅警mini版锦旗",
       "onboard_time": 1700465555,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86600,
+      "num": 1665361,
+      "word": "运20再赴韩国接运烈士遗骸归国",
+      "onboard_time": 1700467474,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2121,14 +2153,6 @@
       "onboard_time": 1700453858,
       "rank": 42,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 58103,
-      "num": 1665361,
-      "word": "运20再赴韩国接运烈士遗骸归国",
-      "onboard_time": 1700467474,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52080,
