@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700478938766,
+  "endTime": 1700480048453,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -475,12 +475,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 990811,
+      "num": 990811,
+      "word": "何猷君 能不能叫我小金薯条",
+      "onboard_time": 1700464292,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 990739,
       "num": 990739,
       "word": "权志龙毛发鉴定结果为阴性",
       "onboard_time": 1700374410,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 978303,
+      "num": 978303,
+      "word": "专家称人民币12月可能进入正式升值通道",
+      "onboard_time": 1700476235,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 977052,
@@ -521,14 +537,6 @@
       "onboard_time": 1700471552,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 935716,
-      "num": 935716,
-      "word": "何猷君 能不能叫我小金薯条",
-      "onboard_time": 1700464292,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 921207,
@@ -667,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778143,
-      "num": 778143,
-      "word": "专家称人民币12月可能进入正式升值通道",
-      "onboard_time": 1700476235,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 775739,
       "num": 366406,
       "word": "杨紫 泰国",
@@ -808,6 +808,14 @@
       "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
       "onboard_time": 1700475872,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669600,
+      "num": 751677,
+      "word": "黑龙江一平房突发火灾7人遇难",
+      "onboard_time": 1700478932,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 460374,
+      "num": 1092786,
+      "word": "4位高中同学连续四年资助去世同学家庭",
+      "onboard_time": 1700477794,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 456559,
       "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
@@ -1811,6 +1827,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 343773,
+      "num": 343773,
+      "word": "姜雪宁受鞭刑",
+      "onboard_time": 1700479116,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342882,
       "num": 342882,
       "word": "严老师我需要手把手教",
@@ -1931,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327037,
+      "num": 327037,
+      "word": "何瑞贤生图",
+      "onboard_time": 1700479416,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326745,
       "num": 326745,
       "word": "30岁董宇辉撞脸2000岁长信宫灯",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1700401360,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 314815,
+      "num": 248535,
+      "word": "潘玮柏瘦了",
+      "onboard_time": 1700478094,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 313786,
@@ -2132,7 +2172,7 @@
     },
     {
       "raw_hot": 297399,
-      "num": 239924,
+      "num": 240834,
       "word": "以爱为营",
       "onboard_time": 1700390497,
       "rank": 40,
@@ -2355,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266600,
+      "num": 266600,
+      "word": "羽绒服何时卖到五位数的",
+      "onboard_time": 1700476411,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 265809,
       "num": 265809,
       "word": "寺庙咖啡",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1700317832,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256915,
+      "num": 220903,
+      "word": "虞书欣 通往舞台每一步都算数",
+      "onboard_time": 1700479055,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 256686,
@@ -2683,14 +2739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240685,
-      "num": 240685,
-      "word": "羽绒服何时卖到五位数的",
-      "onboard_time": 1700476411,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 240600,
       "num": 240600,
       "word": "AG战胜LGD",
@@ -2875,14 +2923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 225207,
-      "num": 117950,
-      "word": "潘玮柏瘦了",
-      "onboard_time": 1700478094,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 225106,
       "num": 225106,
       "word": "keria苦尽甘来",
@@ -3051,6 +3091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 213514,
+      "num": 109227,
+      "word": "文俊辉直播",
+      "onboard_time": 1700479834,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212261,
       "num": 212261,
       "word": "秋冬气质低马尾",
@@ -3089,14 +3137,6 @@
       "onboard_time": 1700406218,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209626,
-      "num": 862559,
-      "word": "4位高中同学连续四年资助去世同学家庭",
-      "onboard_time": 1700477794,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 207882,
@@ -4884,7 +4924,7 @@
     },
     {
       "raw_hot": 95919,
-      "num": 118390,
+      "num": 557277,
       "word": "买车我劝你一步到位",
       "onboard_time": 1700478634,
       "rank": 40,
@@ -4961,6 +5001,14 @@
       "onboard_time": 1700364688,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89610,
+      "num": 107516,
+      "word": "听障女生回应被听障男生表白",
+      "onboard_time": 1700478696,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89470,

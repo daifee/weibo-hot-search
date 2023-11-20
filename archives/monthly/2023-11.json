@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700478938766,
+  "endTime": 1700480048453,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -5219,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990811,
+      "num": 990811,
+      "word": "何猷君 能不能叫我小金薯条",
+      "onboard_time": 1700464292,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 990739,
       "num": 990739,
       "word": "权志龙毛发鉴定结果为阴性",
@@ -5329,6 +5337,14 @@
       "onboard_time": 1698975331,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978303,
+      "num": 978303,
+      "word": "专家称人民币12月可能进入正式升值通道",
+      "onboard_time": 1700476235,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 977052,
@@ -5593,14 +5609,6 @@
       "onboard_time": 1699398864,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 935716,
-      "num": 935716,
-      "word": "何猷君 能不能叫我小金薯条",
-      "onboard_time": 1700464292,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 933640,
@@ -7353,14 +7361,6 @@
       "onboard_time": 1699481056,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 778143,
-      "num": 778143,
-      "word": "专家称人民币12月可能进入正式升值通道",
-      "onboard_time": 1700476235,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 776972,
@@ -9121,6 +9121,14 @@
       "onboard_time": 1699440334,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 669600,
+      "num": 751677,
+      "word": "黑龙江一平房突发火灾7人遇难",
+      "onboard_time": 1700478932,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668611,
@@ -14481,6 +14489,14 @@
       "onboard_time": 1699109380,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460374,
+      "num": 1092786,
+      "word": "4位高中同学连续四年资助去世同学家庭",
+      "onboard_time": 1700477794,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 460334,
@@ -19955,6 +19971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343773,
+      "num": 343773,
+      "word": "姜雪宁受鞭刑",
+      "onboard_time": 1700479116,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343581,
       "num": 343581,
       "word": "8名学生遇陌生男童庆生唱了1首生日歌",
@@ -20883,6 +20907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327037,
+      "num": 327037,
+      "word": "何瑞贤生图",
+      "onboard_time": 1700479416,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326996,
       "num": 326996,
       "word": "T1手握三个赛点",
@@ -21601,6 +21633,14 @@
       "onboard_time": 1698897876,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314815,
+      "num": 248535,
+      "word": "潘玮柏瘦了",
+      "onboard_time": 1700478094,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 314763,
@@ -25267,6 +25307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266600,
+      "num": 266600,
+      "word": "羽绒服何时卖到五位数的",
+      "onboard_time": 1700476411,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 266426,
       "num": 243753,
       "word": "金莎孙丞潇是奔着结婚谈恋爱的",
@@ -26161,6 +26209,14 @@
       "onboard_time": 1700035356,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256915,
+      "num": 220903,
+      "word": "虞书欣 通往舞台每一步都算数",
+      "onboard_time": 1700479055,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 256719,
@@ -28035,14 +28091,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 240685,
-      "num": 240685,
-      "word": "羽绒服何时卖到五位数的",
-      "onboard_time": 1700476411,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 240600,
       "num": 240600,
       "word": "AG战胜LGD",
@@ -29899,14 +29947,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 225207,
-      "num": 117950,
-      "word": "潘玮柏瘦了",
-      "onboard_time": 1700478094,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 225132,
       "num": 592005,
       "word": "家长带孩子修平翘起的石板",
@@ -31467,6 +31507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213514,
+      "num": 161411,
+      "word": "文俊辉直播",
+      "onboard_time": 1699174056,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213499,
       "num": 213499,
       "word": "一路前行定档",
@@ -32129,14 +32177,6 @@
       "onboard_time": 1699873531,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 209626,
-      "num": 862559,
-      "word": "4位高中同学连续四年资助去世同学家庭",
-      "onboard_time": 1700477794,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 209541,
@@ -41249,14 +41289,6 @@
       "onboard_time": 1700194899,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161411,
-      "num": 161411,
-      "word": "文俊辉直播",
-      "onboard_time": 1699174056,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 161373,
@@ -51644,7 +51676,7 @@
     },
     {
       "raw_hot": 95919,
-      "num": 118390,
+      "num": 557277,
       "word": "买车我劝你一步到位",
       "onboard_time": 1700478634,
       "rank": 40,
@@ -52121,6 +52153,14 @@
       "onboard_time": 1699842809,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89610,
+      "num": 107516,
+      "word": "听障女生回应被听障男生表白",
+      "onboard_time": 1700478696,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89260,
