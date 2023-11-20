@@ -1,0 +1,410 @@
+{
+  "runTime": 1700443006423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2179614,
+        "num": 2179614,
+        "word": "加拿大间谍内讧",
+        "onboard_time": 1700435844,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 884531,
+        "num": 884531,
+        "word": "27岁研究生离世前一天发文感恩感谢",
+        "onboard_time": 1700399016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40328,
+        "num": 698053,
+        "word": "诗词藏着中国山水间的绝美景致",
+        "onboard_time": 1700398775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692439,
+        "num": 692439,
+        "word": "Ning点评WBG教练",
+        "onboard_time": 1700436024,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 637458,
+        "num": 637458,
+        "word": "美国前第一夫人罗莎琳卡特去世",
+        "onboard_time": 1700439814,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503438,
+        "num": 503438,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 421349,
+        "num": 421349,
+        "word": "飞夺泸定桥被搬到竞综了",
+        "onboard_time": 1700437650,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419647,
+        "num": 419647,
+        "word": "广州地铁",
+        "onboard_time": 1700439994,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390377,
+        "num": 390377,
+        "word": "宁安如梦魔改张遮",
+        "onboard_time": 1700441616,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379530,
+        "num": 379530,
+        "word": "适合扁头低颅顶的贵气发型",
+        "onboard_time": 1700436806,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1658878,
+        "num": 377869,
+        "word": "内娱史上最炸裂的6分32秒谈话",
+        "onboard_time": 1700421135,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737619,
+        "num": 377154,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 550675,
+        "num": 374249,
+        "word": "前三季度我国569万对新人登记结婚",
+        "onboard_time": 1700439814,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425056,
+        "num": 373632,
+        "word": "吴迪飞退圈",
+        "onboard_time": 1700405737,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407091,
+        "num": 371799,
+        "word": "去年我国初婚人数低于1100万",
+        "onboard_time": 1700418437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369948,
+        "num": 369948,
+        "word": "T1获胜时的WBG众人",
+        "onboard_time": 1700439932,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 344026,
+        "num": 344026,
+        "word": "阿根廷版特朗普赢得大选",
+        "onboard_time": 1700440054,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307914,
+        "num": 307914,
+        "word": "快乐老友记",
+        "onboard_time": 1700435964,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301796,
+        "num": 301796,
+        "word": "吴迪飞退圈的原因",
+        "onboard_time": 1700441075,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286566,
+        "num": 286566,
+        "word": "姜雪宁短暂的爱了张遮一下",
+        "onboard_time": 1700437469,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494617,
+        "num": 282072,
+        "word": "生理上的反应永远是最真实的",
+        "onboard_time": 1700435603,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292892,
+        "num": 276382,
+        "word": "8小时睡眠或许并非人类本能",
+        "onboard_time": 1700435663,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267179,
+        "num": 267179,
+        "word": "河南联通被曝强迫用户更换光猫",
+        "onboard_time": 1700442515,
+        "rank": 22,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 252255,
+        "num": 252255,
+        "word": "曾舜晞 雪景",
+        "onboard_time": 1700439932,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250640,
+        "num": 250640,
+        "word": "孙兴慜祝贺T1夺冠",
+        "onboard_time": 1700440654,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246607,
+        "num": 246607,
+        "word": "ChatGPT之父回到OpenAI总部",
+        "onboard_time": 1700440293,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244176,
+        "num": 244176,
+        "word": "国考准考证",
+        "onboard_time": 1700436325,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241415,
+        "num": 241415,
+        "word": "Faker 打出好的比赛是我的荣幸",
+        "onboard_time": 1700441853,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239786,
+        "num": 239786,
+        "word": "新闻女王海王社死现场",
+        "onboard_time": 1700442392,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229336,
+        "num": 229336,
+        "word": "水瓶座最喜欢的相处模式",
+        "onboard_time": 1700439033,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220129,
+        "num": 220129,
+        "word": "终于有只搞事业不谈恋爱的剧了",
+        "onboard_time": 1700405675,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206522,
+        "num": 206522,
+        "word": "跳远是件很私密的事",
+        "onboard_time": 1700436386,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190248,
+        "num": 190248,
+        "word": "高振宁 下山的路很吵但能重登吗",
+        "onboard_time": 1700442032,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186673,
+        "num": 186673,
+        "word": "加维重伤",
+        "onboard_time": 1700437288,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180269,
+        "num": 180269,
+        "word": "被家长会上爸爸高情商发言圈粉了",
+        "onboard_time": 1700399799,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173797,
+        "num": 173797,
+        "word": "T1战胜WBG",
+        "onboard_time": 1700392367,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172480,
+        "num": 172480,
+        "word": "张桂梅读我本是高山观众祝福",
+        "onboard_time": 1700402262,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153744,
+        "num": 153744,
+        "word": "萌兰小跑返场调皮又可爱",
+        "onboard_time": 1700437409,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149413,
+        "num": 149413,
+        "word": "白鹿周柯宇合照",
+        "onboard_time": 1700442873,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 148736,
+        "word": "英国唯一一对大熊猫12月回国",
+        "onboard_time": 1700436628,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148311,
+        "num": 148311,
+        "word": "中韩之战球票已经售罄",
+        "onboard_time": 1700439335,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141119,
+        "num": 141119,
+        "word": "张遮怎么会推姜雪宁",
+        "onboard_time": 1700439753,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139994,
+        "num": 139994,
+        "word": "当教师老婆在家改卷是什么体验",
+        "onboard_time": 1700436447,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133109,
+        "num": 133109,
+        "word": "肖战好像被胁迫了",
+        "onboard_time": 1700389479,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131119,
+        "num": 131119,
+        "word": "太喜欢这句郑渊洁的回复了",
+        "onboard_time": 1700442573,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124155,
+        "num": 124155,
+        "word": "Faker四冠登神",
+        "onboard_time": 1700392980,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123562,
+        "num": 123562,
+        "word": "陈奕迅上海演唱会",
+        "onboard_time": 1700442814,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119788,
+        "num": 119788,
+        "word": "郭艾伦吐槽以爱为营剧情",
+        "onboard_time": 1700389723,
+        "rank": 47,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 119030,
+        "num": 119030,
+        "word": "北海道附近海域发生5.9级地震",
+        "onboard_time": 1700440293,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113783,
+        "num": 113783,
+        "word": "郑书意正失意",
+        "onboard_time": 1700438492,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的旧金山时间#"
+    }
+  }
+}
