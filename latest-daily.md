@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/21 00:23:44 ~ 2023/11/21 01:34:02
+本榜单时间：2023/11/21 00:23:44 ~ 2023/11/21 02:22:46
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,24 @@ OpenAI员工要求恢复奥特曼职位（热度：102322）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%8F%97%E9%9E%AD%E5%88%91%23" target="weibo">
 姜雪宁受鞭刑（热度：39250）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23" target="weibo">
+顾客扫码点餐法院判商家赔5000（热度：26650）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%B8%82%E5%B9%BB%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
+海市幻城音乐节 抢票（热度：23854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%90%B4%E5%AE%A3%E4%BB%AA%E7%89%88troublemaker%23" target="weibo">
+钟楚曦吴宣仪版troublemaker（热度：21719）
 </a>
 </li>
 
