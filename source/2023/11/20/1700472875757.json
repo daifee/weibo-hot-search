@@ -1,0 +1,410 @@
+{
+  "runTime": 1700472875757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2184393,
+        "num": 2184393,
+        "word": "于蕾 央视春晚总导演",
+        "onboard_time": 1700467897,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2072300,
+        "num": 2072300,
+        "word": "B站通报人肉开盒案例",
+        "onboard_time": 1700469395,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50418,
+        "num": 1323269,
+        "word": "文物里的长江",
+        "onboard_time": 1700470174,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002523,
+        "num": 1002523,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 982069,
+        "num": 982069,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 942643,
+        "num": 942643,
+        "word": "0713能不能上春晚",
+        "onboard_time": 1700471552,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 920480,
+        "num": 920480,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917083,
+        "num": 917083,
+        "word": "Letme回归RNG",
+        "onboard_time": 1700466634,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 508605,
+        "num": 722709,
+        "word": "大学生实习连续五晚通宵直播后猝死",
+        "onboard_time": 1700470415,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177657,
+        "num": 688602,
+        "word": "特朗普祝贺阿根廷版特朗普",
+        "onboard_time": 1700465972,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1204567,
+        "num": 684868,
+        "word": "中国式丁克",
+        "onboard_time": 1700465193,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 677775,
+        "num": 677775,
+        "word": "优酷回应网传甄嬛传将放完整版",
+        "onboard_time": 1700463573,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615995,
+        "num": 615995,
+        "word": "张东健妻子被曝偷税漏税",
+        "onboard_time": 1700461115,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580273,
+        "num": 580273,
+        "word": "Letme 教练",
+        "onboard_time": 1700469456,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78829,
+        "num": 526876,
+        "word": "心梗救治牢记三个120",
+        "onboard_time": 1700470535,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 485593,
+        "num": 485593,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462592,
+        "num": 462592,
+        "word": "接RNGMing",
+        "onboard_time": 1700470773,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87519,
+        "num": 447459,
+        "word": "23年你记住了哪些中国新面孔",
+        "onboard_time": 1700470174,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439690,
+        "num": 439690,
+        "word": "韩东君爸爸是特警",
+        "onboard_time": 1700468135,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426740,
+        "num": 426740,
+        "word": "TVB骂人方式 找个男人嫁了吧",
+        "onboard_time": 1700470654,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398544,
+        "num": 398544,
+        "word": "男子100多万买林肯称被客服嘲讽",
+        "onboard_time": 1700463573,
+        "rank": 20,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 394486,
+        "num": 394486,
+        "word": "水庆霞下课",
+        "onboard_time": 1700467054,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386941,
+        "num": 386941,
+        "word": "很想很想你 男主欣赏眼神",
+        "onboard_time": 1700469092,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380517,
+        "num": 380517,
+        "word": "大小S控告葛斯齐判赔",
+        "onboard_time": 1700466573,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249765,
+        "num": 249765,
+        "word": "奥特曼回应加入微软",
+        "onboard_time": 1700470773,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 355753,
+        "num": 247528,
+        "word": "何猷君 能不能叫我小金薯条",
+        "onboard_time": 1700464292,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244222,
+        "num": 244222,
+        "word": "甄嬛传官微 我怎么不知道",
+        "onboard_time": 1700463632,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235892,
+        "num": 235892,
+        "word": "杭州新东方遭网红举报处罚结果公布",
+        "onboard_time": 1700466334,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228956,
+        "num": 228956,
+        "word": "王铮亮又被遮挡了",
+        "onboard_time": 1700471735,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85366,
+        "num": 224494,
+        "word": "冬季嘴唇容易起皮怎么办",
+        "onboard_time": 1700464834,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220236,
+        "num": 220236,
+        "word": "小鸡进到狗狗嘴里",
+        "onboard_time": 1700470535,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217302,
+        "num": 217302,
+        "word": "黄子韬广州演唱会现场观众发声",
+        "onboard_time": 1700471976,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214829,
+        "num": 214829,
+        "word": "我本是高山 观众视角",
+        "onboard_time": 1700469935,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202903,
+        "num": 202903,
+        "word": "Keria 轻音乐之神",
+        "onboard_time": 1700468252,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195367,
+        "num": 195367,
+        "word": "虞书欣印花打底衣",
+        "onboard_time": 1700468613,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195199,
+        "num": 195199,
+        "word": "杨紫时尚先生双刊封面预告",
+        "onboard_time": 1700466935,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193257,
+        "num": 193257,
+        "word": "似曾相识焰归来",
+        "onboard_time": 1700463213,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179689,
+        "num": 179689,
+        "word": "孙丞潇 装不出来的天然呆",
+        "onboard_time": 1700467595,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177833,
+        "num": 177833,
+        "word": "渔民误捕300斤大海龟后果断放生",
+        "onboard_time": 1700467897,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176262,
+        "num": 176262,
+        "word": "腹泻以为是胃病结果是心梗",
+        "onboard_time": 1700461892,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165416,
+        "num": 165416,
+        "word": "再忍几年就能点外卖了",
+        "onboard_time": 1700461234,
+        "rank": 40,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 159935,
+        "num": 159935,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158053,
+        "num": 158053,
+        "word": "体制内的微信沟通礼仪",
+        "onboard_time": 1700457814,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145294,
+        "num": 145294,
+        "word": "OpenAI创始人将加入微软",
+        "onboard_time": 1700469634,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145042,
+        "num": 145042,
+        "word": "港剧职场女性",
+        "onboard_time": 1700471076,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222711,
+        "num": 144539,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140600,
+        "num": 140600,
+        "word": "金莎商演视频",
+        "onboard_time": 1700472755,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139716,
+        "num": 139716,
+        "word": "寺庙咖啡",
+        "onboard_time": 1700472692,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135202,
+        "num": 135202,
+        "word": "富有诗意的香水名",
+        "onboard_time": 1700471917,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130859,
+        "num": 130859,
+        "word": "陈楚生拖鞋都跑歪了",
+        "onboard_time": 1700472814,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#同世界和亚太各成员分享中国发展机遇#"
+    }
+  }
+}

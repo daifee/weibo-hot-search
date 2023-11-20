@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700471953617,
+  "endTime": 1700472875757,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2184393,
+      "num": 2184393,
+      "word": "于蕾 央视春晚总导演",
+      "onboard_time": 1700467897,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2179614,
       "num": 2179614,
       "word": "加拿大间谍内讧",
@@ -163,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2086392,
-      "num": 2086392,
-      "word": "于蕾 央视春晚总导演",
-      "onboard_time": 1700467897,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 2072300,
+      "num": 2072300,
+      "word": "B站通报人肉开盒案例",
+      "onboard_time": 1700469395,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1949035,
@@ -217,14 +225,6 @@
       "onboard_time": 1700385390,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1780239,
-      "num": 1780239,
-      "word": "B站通报人肉开盒案例",
-      "onboard_time": 1700469395,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1759757,
@@ -505,6 +505,14 @@
       "onboard_time": 1700463573,
       "rank": 8,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 942643,
+      "num": 942643,
+      "word": "0713能不能上春晚",
+      "onboard_time": 1700471552,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 921207,
@@ -1091,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 508605,
+      "num": 722709,
+      "word": "大学生实习连续五晚通宵直播后猝死",
+      "onboard_time": 1700470415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507308,
       "num": 507308,
       "word": "张遮母亲",
@@ -1259,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462592,
+      "num": 462592,
+      "word": "接RNGMing",
+      "onboard_time": 1700470773,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 456559,
       "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
@@ -1275,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454311,
-      "num": 454311,
-      "word": "0713能不能上春晚",
-      "onboard_time": 1700471552,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 453956,
       "num": 453956,
       "word": "房东的猫从众筹到万人演唱会用了7年",
@@ -1292,19 +1308,11 @@
     },
     {
       "raw_hot": 453778,
-      "num": 438725,
+      "num": 439690,
       "word": "韩东君爸爸是特警",
       "onboard_time": 1700468135,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 452293,
-      "num": 452293,
-      "word": "接RNGMing",
-      "onboard_time": 1700470773,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 450006,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1700367990,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 426740,
+      "num": 426740,
+      "word": "TVB骂人方式 找个男人嫁了吧",
+      "onboard_time": 1700470654,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 425684,
@@ -1723,14 +1739,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 342976,
-      "num": 342976,
-      "word": "大学生实习连续五晚通宵直播后猝死",
-      "onboard_time": 1700470415,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342882,
       "num": 342882,
       "word": "严老师我需要手把手教",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1700373391,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341160,
-      "num": 341160,
-      "word": "TVB骂人方式 找个男人嫁了吧",
-      "onboard_time": 1700470654,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 338583,
@@ -2411,6 +2411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249765,
+      "num": 249765,
+      "word": "奥特曼回应加入微软",
+      "onboard_time": 1700470773,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249560,
       "num": 249560,
       "word": "王多多 电竞诗人",
@@ -2571,14 +2579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239224,
-      "num": 239224,
-      "word": "奥特曼回应加入微软",
-      "onboard_time": 1700470773,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 237807,
       "num": 215042,
       "word": "结婚是否会降低生活质量",
@@ -2673,6 +2673,14 @@
       "onboard_time": 1700439033,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228956,
+      "num": 228956,
+      "word": "王铮亮又被遮挡了",
+      "onboard_time": 1700471735,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 228826,
@@ -2833,6 +2841,14 @@
       "onboard_time": 1700460871,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217302,
+      "num": 217302,
+      "word": "黄子韬广州演唱会现场观众发声",
+      "onboard_time": 1700471976,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 217120,
@@ -3396,7 +3412,7 @@
     },
     {
       "raw_hot": 186325,
-      "num": 221718,
+      "num": 224494,
       "word": "冬季嘴唇容易起皮怎么办",
       "onboard_time": 1700464834,
       "rank": 38,
@@ -3851,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153779,
-      "num": 153779,
-      "word": "王铮亮又被遮挡了",
-      "onboard_time": 1700471735,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152902,
       "num": 187869,
       "word": "中国猫睡觉手不能露在被子外面",
@@ -4099,6 +4107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 140600,
+      "num": 140600,
+      "word": "金莎商演视频",
+      "onboard_time": 1700472755,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140073,
       "num": 140073,
       "word": "龚俊看自己吻戏的反应",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1700436447,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139716,
+      "num": 139716,
+      "word": "寺庙咖啡",
+      "onboard_time": 1700472692,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 139076,
@@ -4211,6 +4235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135202,
+      "num": 135202,
+      "word": "富有诗意的香水名",
+      "onboard_time": 1700471917,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 135156,
       "num": 101569,
       "word": "湖北一单身姑娘的家",
@@ -4299,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130859,
+      "num": 130859,
+      "word": "陈楚生拖鞋都跑歪了",
+      "onboard_time": 1700472814,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130687,
       "num": 130687,
       "word": "房东的猫十周年演唱会",
@@ -4353,14 +4393,6 @@
       "onboard_time": 1700305413,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 124953,
-      "num": 124953,
-      "word": "富有诗意的香水名",
-      "onboard_time": 1700471917,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 124951,
@@ -4739,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87519,
+      "num": 447459,
+      "word": "23年你记住了哪些中国新面孔",
+      "onboard_time": 1700470174,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87303,
       "num": 87303,
       "word": "黄子韬演唱会",
@@ -4843,12 +4883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79171,
-      "num": 443370,
-      "word": "23年你记住了哪些中国新面孔",
-      "onboard_time": 1700470174,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 78829,
+      "num": 526876,
+      "word": "心梗救治牢记三个120",
+      "onboard_time": 1700470535,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77598,
@@ -4963,7 +5003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46612,
+      "raw_hot": 50418,
       "num": 1369049,
       "word": "文物里的长江",
       "onboard_time": 1700470174,

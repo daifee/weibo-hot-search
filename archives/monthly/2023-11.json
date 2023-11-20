@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700471953617,
+  "endTime": 1700472875757,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2184393,
+      "num": 2184393,
+      "word": "于蕾 央视春晚总导演",
+      "onboard_time": 1700467897,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2179614,
       "num": 2179614,
       "word": "加拿大间谍内讧",
@@ -1315,14 +1323,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 2086392,
-      "num": 2086392,
-      "word": "于蕾 央视春晚总导演",
-      "onboard_time": 1700467897,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2082528,
       "num": 566083,
       "word": "刘亦菲彭冠英亲出声了",
@@ -1353,6 +1353,14 @@
       "onboard_time": 1699631735,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2072300,
+      "num": 2072300,
+      "word": "B站通报人肉开盒案例",
+      "onboard_time": 1700469395,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2072017,
@@ -1905,14 +1913,6 @@
       "onboard_time": 1700313814,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1780239,
-      "num": 1780239,
-      "word": "B站通报人肉开盒案例",
-      "onboard_time": 1700469395,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1775198,
@@ -5552,6 +5552,14 @@
       "word": "何猷君 小家庭永远高于大家庭",
       "onboard_time": 1699958373,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 942643,
+      "num": 942643,
+      "word": "0713能不能上春晚",
+      "onboard_time": 1700471552,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -12803,6 +12811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 508605,
+      "num": 722709,
+      "word": "大学生实习连续五晚通宵直播后猝死",
+      "onboard_time": 1700470415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507935,
       "num": 507935,
       "word": "有些癌症筛查无用甚至有害",
@@ -14379,6 +14395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 462592,
+      "num": 462592,
+      "word": "接RNGMing",
+      "onboard_time": 1700470773,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 461758,
       "num": 461758,
       "word": "WBG获胜",
@@ -14635,14 +14659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454311,
-      "num": 454311,
-      "word": "0713能不能上春晚",
-      "onboard_time": 1700471552,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454223,
       "num": 454223,
       "word": "河南下雪",
@@ -14660,7 +14676,7 @@
     },
     {
       "raw_hot": 453778,
-      "num": 438725,
+      "num": 439690,
       "word": "韩东君爸爸是特警",
       "onboard_time": 1700468135,
       "rank": 25,
@@ -14689,14 +14705,6 @@
       "onboard_time": 1699028311,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 452293,
-      "num": 452293,
-      "word": "接RNGMing",
-      "onboard_time": 1700470773,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 451589,
@@ -15545,6 +15553,14 @@
       "onboard_time": 1700093014,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 426740,
+      "num": 426740,
+      "word": "TVB骂人方式 找个男人嫁了吧",
+      "onboard_time": 1700470654,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 426622,
@@ -19939,14 +19955,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 342976,
-      "num": 342976,
-      "word": "大学生实习连续五晚通宵直播后猝死",
-      "onboard_time": 1700470415,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342882,
       "num": 342882,
       "word": "严老师我需要手把手教",
@@ -20049,14 +20057,6 @@
       "onboard_time": 1700373391,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341160,
-      "num": 341160,
-      "word": "TVB骂人方式 找个男人嫁了吧",
-      "onboard_time": 1700470654,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 340770,
@@ -26819,6 +26819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249765,
+      "num": 249765,
+      "word": "奥特曼回应加入微软",
+      "onboard_time": 1700470773,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249756,
       "num": 249756,
       "word": "赵露思钻石猫眼妆",
@@ -28009,14 +28017,6 @@
       "onboard_time": 1699341334,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 239224,
-      "num": 239224,
-      "word": "奥特曼回应加入微软",
-      "onboard_time": 1700470773,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 239220,
@@ -29241,6 +29241,14 @@
       "onboard_time": 1699788939,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 228956,
+      "num": 228956,
+      "word": "王铮亮又被遮挡了",
+      "onboard_time": 1700471735,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 228846,
@@ -30761,6 +30769,14 @@
       "onboard_time": 1699677450,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 217302,
+      "num": 217302,
+      "word": "黄子韬广州演唱会现场观众发声",
+      "onboard_time": 1700471976,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 217211,
@@ -36764,7 +36780,7 @@
     },
     {
       "raw_hot": 186325,
-      "num": 221718,
+      "num": 224494,
       "word": "冬季嘴唇容易起皮怎么办",
       "onboard_time": 1700464834,
       "rank": 38,
@@ -42347,14 +42363,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 153779,
-      "num": 153779,
-      "word": "王铮亮又被遮挡了",
-      "onboard_time": 1700471735,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153771,
       "num": 153771,
       "word": "谢娜分享高马尾发型教程",
@@ -44811,6 +44819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140600,
+      "num": 140600,
+      "word": "金莎商演视频",
+      "onboard_time": 1700472755,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140568,
       "num": 140568,
       "word": "丫丫变成安逸丫了",
@@ -44977,6 +44993,14 @@
       "onboard_time": 1699310721,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139716,
+      "num": 139716,
+      "word": "寺庙咖啡",
+      "onboard_time": 1700472692,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 139667,
@@ -45649,6 +45673,14 @@
       "onboard_time": 1700393573,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135202,
+      "num": 135202,
+      "word": "富有诗意的香水名",
+      "onboard_time": 1700471917,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 135199,
@@ -46625,6 +46657,14 @@
       "onboard_time": 1698996456,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130859,
+      "num": 130859,
+      "word": "陈楚生拖鞋都跑歪了",
+      "onboard_time": 1700472814,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130851,
@@ -47609,14 +47649,6 @@
       "onboard_time": 1699267651,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124953,
-      "num": 124953,
-      "word": "富有诗意的香水名",
-      "onboard_time": 1700471917,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 124951,
@@ -51987,6 +52019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87519,
+      "num": 447459,
+      "word": "23年你记住了哪些中国新面孔",
+      "onboard_time": 1700470174,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87446,
       "num": 87446,
       "word": "长春下雪",
@@ -52555,14 +52595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79171,
-      "num": 443370,
-      "word": "23年你记住了哪些中国新面孔",
-      "onboard_time": 1700470174,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79109,
       "num": 744434,
       "word": "一个选择三项原则五根支柱",
@@ -52577,6 +52609,14 @@
       "onboard_time": 1698941252,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78829,
+      "num": 526876,
+      "word": "心梗救治牢记三个120",
+      "onboard_time": 1700470535,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78541,
@@ -53955,6 +53995,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 50418,
+      "num": 1369049,
+      "word": "文物里的长江",
+      "onboard_time": 1700017832,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50382,
       "num": 255997,
       "word": "吴艳妮加盟竞燃之夜",
@@ -54089,14 +54137,6 @@
       "onboard_time": 1699068572,
       "rank": 45,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 46612,
-      "num": 1369049,
-      "word": "文物里的长江",
-      "onboard_time": 1700017832,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46492,
