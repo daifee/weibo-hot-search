@@ -1,0 +1,410 @@
+{
+  "runTime": 1700487244249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1283174,
+        "num": 1283174,
+        "word": "关晓彤檀健次方否认有偿录祝福",
+        "onboard_time": 1700480253,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804314,
+        "num": 804314,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39941,
+        "num": 642636,
+        "word": "文物里的长江",
+        "onboard_time": 1700470174,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624003,
+        "num": 624003,
+        "word": "华为称未来将为三个各自独立的操作系统",
+        "onboard_time": 1700482055,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 531535,
+        "num": 531535,
+        "word": "吴世勋 杂志",
+        "onboard_time": 1700484334,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 520624,
+        "num": 520624,
+        "word": "B站通报人肉开盒案例",
+        "onboard_time": 1700469395,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441542,
+        "num": 441542,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426815,
+        "num": 426815,
+        "word": "4位高中同学连续四年资助去世同学家庭",
+        "onboard_time": 1700477794,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 409613,
+        "num": 409613,
+        "word": "何猷君 能不能叫我小金薯条",
+        "onboard_time": 1700464292,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123045,
+        "num": 408069,
+        "word": "部分艺术类专业不再组织专业考试",
+        "onboard_time": 1700483554,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 798360,
+        "num": 407875,
+        "word": "金莎男友 对我来说现在就在上班",
+        "onboard_time": 1700475872,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614266,
+        "num": 406092,
+        "word": "杨紫泡面卷",
+        "onboard_time": 1700483133,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 434805,
+        "num": 403902,
+        "word": "头发别耳后如何显脸小",
+        "onboard_time": 1700485532,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 403411,
+        "num": 403411,
+        "word": "大学生实习连续五晚通宵直播后猝死",
+        "onboard_time": 1700470415,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392795,
+        "num": 392795,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340360,
+        "num": 340360,
+        "word": "韩媒说国足从未出现过巨星",
+        "onboard_time": 1700486314,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328778,
+        "num": 328778,
+        "word": "无所畏惧大结局",
+        "onboard_time": 1700482652,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322966,
+        "num": 322966,
+        "word": "以爱为营大结局点映礼",
+        "onboard_time": 1700481515,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322689,
+        "num": 322689,
+        "word": "孙女哄92岁爷爷每天开心会有工资",
+        "onboard_time": 1700483853,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306736,
+        "num": 306736,
+        "word": "Faker拥有一栋大楼",
+        "onboard_time": 1700486556,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268163,
+        "num": 268163,
+        "word": "鞠婧祎发型模版",
+        "onboard_time": 1700485473,
+        "rank": 20,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 268077,
+        "num": 268077,
+        "word": "专家称人民币12月可能进入正式升值通道",
+        "onboard_time": 1700476235,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255270,
+        "num": 255270,
+        "word": "姜雪宁受鞭刑",
+        "onboard_time": 1700479116,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252739,
+        "num": 252739,
+        "word": "何瑞贤生图",
+        "onboard_time": 1700479416,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227837,
+        "num": 227837,
+        "word": "韩式服帖烫",
+        "onboard_time": 1700484574,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178298,
+        "num": 227705,
+        "word": "田柾国 舞台",
+        "onboard_time": 1700482834,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241546,
+        "num": 227429,
+        "word": "白敬亭晒新鞋",
+        "onboard_time": 1700482112,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 231710,
+        "num": 226960,
+        "word": "秦岚辛芷蕾 我俩真没法收场了",
+        "onboard_time": 1700475391,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189013,
+        "num": 226659,
+        "word": "入冬了老公每次开门前先摸地",
+        "onboard_time": 1700484272,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82987,
+        "num": 226293,
+        "word": "特朗普祝贺阿根廷版特朗普",
+        "onboard_time": 1700465972,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 327839,
+        "num": 226143,
+        "word": "适合一个人住的31平米独居小屋",
+        "onboard_time": 1700486374,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225880,
+        "num": 225880,
+        "word": "媒体评张桂梅原型电影引争议",
+        "onboard_time": 1700480614,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224084,
+        "num": 224084,
+        "word": "甄嬛传的风还是吹进了刑侦剧",
+        "onboard_time": 1700485833,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213511,
+        "num": 213511,
+        "word": "李现称粉丝为天现公主",
+        "onboard_time": 1700484994,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167398,
+        "num": 167398,
+        "word": "Letme回归RNG",
+        "onboard_time": 1700466634,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209237,
+        "num": 165134,
+        "word": "优酷回应网传甄嬛传将放完整版",
+        "onboard_time": 1700463573,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204923,
+        "num": 163342,
+        "word": "看到张译前以为是新闻",
+        "onboard_time": 1700486615,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157046,
+        "num": 157046,
+        "word": "羽绒服何时卖到五位数的",
+        "onboard_time": 1700476411,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 132654,
+        "num": 132654,
+        "word": "加维十字韧带断裂",
+        "onboard_time": 1700484754,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131034,
+        "num": 131034,
+        "word": "黑龙江一平房突发火灾7人遇难",
+        "onboard_time": 1700478932,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172775,
+        "num": 130515,
+        "word": "无所畏惧",
+        "onboard_time": 1700485053,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171448,
+        "num": 125026,
+        "word": "0713能不能上春晚",
+        "onboard_time": 1700471552,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160744,
+        "num": 124359,
+        "word": "于蕾 央视春晚总导演",
+        "onboard_time": 1700467897,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153093,
+        "num": 120513,
+        "word": "潘玮柏瘦了",
+        "onboard_time": 1700478094,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142963,
+        "num": 117346,
+        "word": "迪丽热巴给姚琛新歌打call",
+        "onboard_time": 1700480193,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115338,
+        "num": 115338,
+        "word": "萨摩唉秒变萨摩耶",
+        "onboard_time": 1700485532,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113909,
+        "num": 113909,
+        "word": "中国式丁克",
+        "onboard_time": 1700465193,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112685,
+        "num": 112685,
+        "word": "医学专硕转行现状",
+        "onboard_time": 1700475756,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109510,
+        "num": 112660,
+        "word": "官方回应家长代表号召学生交钱为老师提薪",
+        "onboard_time": 1700482234,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 98109,
+        "num": 112627,
+        "word": "阴阳师",
+        "onboard_time": 1700483372,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
