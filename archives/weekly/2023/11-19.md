@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/21 02:22:46
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/21 02:36:53
 </p>
 </blockquote>
 <p>
@@ -4473,6 +4473,12 @@ S赛冠军座驾需要哪些特质（热度：36239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23" target="weibo">
+顾客扫码点餐法院判商家赔5000（热度：33606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AB%E6%A1%A5%E8%AD%A6%E5%8A%A1%E6%A8%A1%E5%BC%8F%E4%BB%A5%E6%B0%91%E6%84%8F%E4%B8%BA%E5%AF%BC%E5%90%91%23" target="weibo">
 枫桥警务模式以民意为导向（热度：33332）
 </a>
@@ -4493,12 +4499,6 @@ S赛冠军座驾需要哪些特质（热度：36239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 奔跑吧（热度：29026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23" target="weibo">
-顾客扫码点餐法院判商家赔5000（热度：26650）
 </a>
 </li>
 

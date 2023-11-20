@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700504566446,
+  "endTime": 1700505413464,
   "band_list": [
     {
       "raw_hot": 874813,
@@ -467,8 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26650,
-      "num": 32877,
+      "raw_hot": 33606,
+      "num": 33606,
       "word": "顾客扫码点餐法院判商家赔5000",
       "onboard_time": 1700503337,
       "rank": 37,
@@ -489,6 +489,14 @@
       "onboard_time": 1700502377,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19130,
+      "num": 29003,
+      "word": "年少不知奶狗好 错把渣男当成宝",
+      "onboard_time": 1700489557,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
