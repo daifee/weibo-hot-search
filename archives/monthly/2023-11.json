@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700483700298,
+  "endTime": 1700484688834,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2243,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1694236,
+      "num": 1694236,
+      "word": "关晓彤檀健次方否认有偿录祝福",
+      "onboard_time": 1700480253,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1691802,
       "num": 1607856,
       "word": "康师傅涨价",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1699842150,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1663024,
-      "num": 1663024,
-      "word": "关晓彤檀健次方否认有偿录祝福",
-      "onboard_time": 1700480253,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1662394,
@@ -7963,6 +7963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738158,
+      "num": 463275,
+      "word": "杨紫泡面卷",
+      "onboard_time": 1700483133,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 738069,
       "num": 738069,
       "word": "金莎男友 对我来说现在就在上班",
@@ -8921,14 +8929,6 @@
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 685055,
-      "num": 394329,
-      "word": "杨紫泡面卷",
-      "onboard_time": 1700483133,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 684692,
@@ -10185,6 +10185,14 @@
       "onboard_time": 1699021418,
       "rank": 22,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 613603,
+      "num": 613603,
+      "word": "华为称未来将为三个各自独立的操作系统",
+      "onboard_time": 1700482055,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 613542,
@@ -11803,14 +11811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549991,
-      "num": 389742,
-      "word": "华为称未来将为三个各自独立的操作系统",
-      "onboard_time": 1700482055,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 549831,
       "num": 549831,
       "word": "369别玩兰博了",
@@ -12657,6 +12657,14 @@
       "onboard_time": 1699191635,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517405,
+      "num": 445727,
+      "word": "何瑞贤生图",
+      "onboard_time": 1700479416,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516877,
@@ -13737,14 +13745,6 @@
       "onboard_time": 1700267972,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479833,
-      "num": 370594,
-      "word": "何瑞贤生图",
-      "onboard_time": 1700479416,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 479383,
@@ -14908,7 +14908,7 @@
     },
     {
       "raw_hot": 448161,
-      "num": 225032,
+      "num": 231008,
       "word": "白敬亭晒新鞋",
       "onboard_time": 1700482112,
       "rank": 20,
@@ -20907,6 +20907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 328513,
+      "num": 221606,
+      "word": "吴世勋 杂志",
+      "onboard_time": 1700484334,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 327898,
       "num": 327898,
       "word": "随机抓一名女大学生改造成爱豆",
@@ -21049,6 +21057,14 @@
       "onboard_time": 1699506217,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325546,
+      "num": 325546,
+      "word": "阴阳师",
+      "onboard_time": 1699074091,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 325497,
@@ -21497,6 +21513,14 @@
       "onboard_time": 1700473894,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317751,
+      "num": 223987,
+      "word": "媒体评张桂梅原型电影引争议",
+      "onboard_time": 1700480614,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 317692,
@@ -22745,14 +22769,6 @@
       "onboard_time": 1699691069,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298920,
-      "num": 223987,
-      "word": "媒体评张桂梅原型电影引争议",
-      "onboard_time": 1700480614,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 298784,
@@ -25449,6 +25465,14 @@
       "onboard_time": 1699447969,
       "rank": 26,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 265542,
+      "num": 165834,
+      "word": "田柾国 舞台",
+      "onboard_time": 1700482834,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 265481,
@@ -28209,14 +28233,6 @@
       "onboard_time": 1700449592,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239707,
-      "num": 165834,
-      "word": "田柾国 舞台",
-      "onboard_time": 1700482834,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 239680,
@@ -31723,6 +31739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212491,
+      "num": 148517,
+      "word": "无所畏惧大结局",
+      "onboard_time": 1700482652,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212470,
       "num": 212470,
       "word": "西贝称拿出3000万践行退菜承诺",
@@ -32993,14 +33017,6 @@
       "onboard_time": 1699073552,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 205625,
-      "num": 121547,
-      "word": "无所畏惧大结局",
-      "onboard_time": 1700482652,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 205521,
@@ -37099,14 +37115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186281,
-      "num": 186281,
-      "word": "阴阳师",
-      "onboard_time": 1699074091,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186234,
       "num": 186234,
       "word": "理想MEGA",
@@ -38449,6 +38457,14 @@
       "onboard_time": 1699518330,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178167,
+      "num": 158121,
+      "word": "韩式服帖烫",
+      "onboard_time": 1700484574,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 178126,
@@ -40465,6 +40481,14 @@
       "onboard_time": 1699977570,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166501,
+      "num": 135725,
+      "word": "韩维辰跳Guilty",
+      "onboard_time": 1700483674,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 166493,
@@ -42667,14 +42691,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 154051,
-      "num": 117373,
-      "word": "韩维辰跳Guilty",
-      "onboard_time": 1700483674,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 154003,
       "num": 154003,
       "word": "华晨宇演唱会圆梦特教老师",
@@ -43617,6 +43633,14 @@
       "onboard_time": 1698976652,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148706,
+      "num": 148706,
+      "word": "孙女哄92岁爷爷每天开心会有工资",
+      "onboard_time": 1700483853,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148702,
@@ -45891,6 +45915,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 136185,
+      "num": 136185,
+      "word": "部分艺术类专业不再组织专业考试",
+      "onboard_time": 1700483554,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136160,
       "num": 136160,
       "word": "自带教资体质的孩子背后有一群演员",
@@ -45977,6 +46009,14 @@
       "onboard_time": 1699449174,
       "rank": 47,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 135535,
+      "num": 135535,
+      "word": "入冬了老公每次开门前先摸地",
+      "onboard_time": 1700484272,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135533,
@@ -51947,14 +51987,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 94089,
-      "num": 116137,
-      "word": "部分艺术类专业不再组织专业考试",
-      "onboard_time": 1700483554,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 94041,
       "num": 161924,
       "word": "看完我也想学滑雪了",
@@ -54977,6 +55009,14 @@
       "onboard_time": 1698784273,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 33332,
+      "num": 159462,
+      "word": "枫桥警务模式以民意为导向",
+      "onboard_time": 1700484454,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33049,

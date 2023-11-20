@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 20:35:00
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 20:51:28
 </p>
 </blockquote>
 <p>
@@ -1695,6 +1695,12 @@ WBG发文告别S13（热度：1736182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9C%89%E5%81%BF%E5%BD%95%E7%A5%9D%E7%A6%8F%23" target="weibo">
+关晓彤檀健次方否认有偿录祝福（热度：1694236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E6%B6%A8%E4%BB%B7%23" target="weibo">
 康师傅涨价（热度：1691802）
 </a>
@@ -1733,12 +1739,6 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%9E%9C%E6%95%A2%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%88%90%E5%91%98%E7%A7%B0%E5%B0%86%E6%9D%9C%E7%BB%9D%E7%94%B5%E8%AF%88%23" target="weibo">
 缅甸果敢四大家族成员称将杜绝电诈（热度：1673663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9C%89%E5%81%BF%E5%BD%95%E7%A5%9D%E7%A6%8F%23" target="weibo">
-关晓彤檀健次方否认有偿录祝福（热度：1663024）
 </a>
 </li>
 
@@ -5985,6 +5985,12 @@ JDG与BLG选手观赛LNG（热度：745242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B3%A1%E9%9D%A2%E5%8D%B7%23" target="weibo">
+杨紫泡面卷（热度：738158）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%9C%A8%E4%B8%8A%E7%8F%AD%23" target="weibo">
 金莎男友 对我来说现在就在上班（热度：738069）
 </a>
@@ -6005,12 +6011,6 @@ WBG零封NRG（热度：737335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B1%BC%E9%83%BD%E4%BB%A5%E8%A2%AB%E5%81%9A%E6%88%90%E8%A5%BF%E6%B9%96%E9%86%8B%E9%B1%BC%E4%B8%BA%E8%80%BB%23" target="weibo">
 鱼都以被做成西湖醋鱼为耻（热度：737042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%90%91%E6%B3%A1%E8%84%9A%20%E8%B6%8A%E6%B3%A1%E8%B6%8A%E8%99%9A%23" target="weibo">
-反向泡脚 越泡越虚（热度：736840）
 </a>
 </li>
 

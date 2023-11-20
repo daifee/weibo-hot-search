@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700483700298,
+  "endTime": 1700484688834,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -267,8 +267,8 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 1663024,
-      "num": 1663024,
+      "raw_hot": 1694236,
+      "num": 1694236,
       "word": "关晓彤檀健次方否认有偿录祝福",
       "onboard_time": 1700480253,
       "rank": 0,
@@ -707,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738158,
+      "num": 463275,
+      "word": "杨紫泡面卷",
+      "onboard_time": 1700483133,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 738069,
       "num": 738069,
       "word": "金莎男友 对我来说现在就在上班",
@@ -811,14 +819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 685055,
-      "num": 394329,
-      "word": "杨紫泡面卷",
-      "onboard_time": 1700483133,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 681190,
       "num": 1078302,
       "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
@@ -913,6 +913,14 @@
       "onboard_time": 1700456798,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 613603,
+      "num": 613603,
+      "word": "华为称未来将为三个各自独立的操作系统",
+      "onboard_time": 1700482055,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 611479,
@@ -1091,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549991,
-      "num": 389742,
-      "word": "华为称未来将为三个各自独立的操作系统",
-      "onboard_time": 1700482055,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 547566,
       "num": 446926,
       "word": "魏大勋筷子腿",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 517405,
+      "num": 445727,
+      "word": "何瑞贤生图",
+      "onboard_time": 1700479416,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 515400,
@@ -1299,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479833,
-      "num": 370594,
-      "word": "何瑞贤生图",
-      "onboard_time": 1700479416,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 477159,
       "num": 1179461,
       "word": "2024载人航天飞行任务标识发布",
@@ -1420,7 +1420,7 @@
     },
     {
       "raw_hot": 448161,
-      "num": 225032,
+      "num": 231008,
       "word": "白敬亭晒新鞋",
       "onboard_time": 1700482112,
       "rank": 20,
@@ -2003,12 +2003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328513,
+      "num": 221606,
+      "word": "吴世勋 杂志",
+      "onboard_time": 1700484334,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 326745,
       "num": 326745,
       "word": "30岁董宇辉撞脸2000岁长信宫灯",
       "onboard_time": 1700463993,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325546,
+      "num": 325546,
+      "word": "阴阳师",
+      "onboard_time": 1700483372,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 324296,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1700473894,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317751,
+      "num": 223987,
+      "word": "媒体评张桂梅原型电影引争议",
+      "onboard_time": 1700480614,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 317136,
@@ -2201,14 +2225,6 @@
       "onboard_time": 1700386418,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298920,
-      "num": 223987,
-      "word": "媒体评张桂梅原型电影引争议",
-      "onboard_time": 1700480614,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 297925,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1700400278,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265542,
+      "num": 165834,
+      "word": "田柾国 舞台",
+      "onboard_time": 1700482834,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 265181,
@@ -2819,14 +2843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239707,
-      "num": 165834,
-      "word": "田柾国 舞台",
-      "onboard_time": 1700482834,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 239349,
       "num": 239349,
       "word": "网络春晚 重播",
@@ -3171,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212491,
+      "num": 148517,
+      "word": "无所畏惧大结局",
+      "onboard_time": 1700482652,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212261,
       "num": 212261,
       "word": "秋冬气质低马尾",
@@ -3289,14 +3313,6 @@
       "onboard_time": 1700457576,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205625,
-      "num": 121547,
-      "word": "无所畏惧大结局",
-      "onboard_time": 1700482652,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 205005,
@@ -3827,6 +3843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178167,
+      "num": 158121,
+      "word": "韩式服帖烫",
+      "onboard_time": 1700484574,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 177980,
       "num": 177980,
       "word": "OpenAI创始人将加入微软",
@@ -3897,14 +3921,6 @@
       "onboard_time": 1700371888,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172576,
-      "num": 172576,
-      "word": "阴阳师",
-      "onboard_time": 1700483372,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 172400,
@@ -4009,6 +4025,14 @@
       "onboard_time": 1700361449,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166501,
+      "num": 135725,
+      "word": "韩维辰跳Guilty",
+      "onboard_time": 1700483674,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 166052,
@@ -4235,14 +4259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154051,
-      "num": 117373,
-      "word": "韩维辰跳Guilty",
-      "onboard_time": 1700483674,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 152902,
       "num": 187869,
       "word": "中国猫睡觉手不能露在被子外面",
@@ -4304,6 +4320,14 @@
       "word": "英国唯一一对大熊猫12月回国",
       "onboard_time": 1700436628,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148706,
+      "num": 148706,
+      "word": "孙女哄92岁爷爷每天开心会有工资",
+      "onboard_time": 1700483853,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4579,12 +4603,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 136185,
+      "num": 136185,
+      "word": "部分艺术类专业不再组织专业考试",
+      "onboard_time": 1700483554,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135894,
       "num": 135894,
       "word": "怒海 直面原生家庭给孩子的创伤",
       "onboard_time": 1700447914,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135535,
+      "num": 135535,
+      "word": "入冬了老公每次开门前先摸地",
+      "onboard_time": 1700484272,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135319,
@@ -5083,14 +5123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94089,
-      "num": 116137,
-      "word": "部分艺术类专业不再组织专业考试",
-      "onboard_time": 1700483554,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 93617,
       "num": 97143,
       "word": "如何用一片树叶做猫咪面具",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1700372130,
       "rank": 37,
       "category": "电竞,汽车"
+    },
+    {
+      "raw_hot": 33332,
+      "num": 159462,
+      "word": "枫桥警务模式以民意为导向",
+      "onboard_time": 1700484454,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32771,
