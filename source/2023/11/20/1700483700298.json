@@ -1,0 +1,410 @@
+{
+  "runTime": 1700483700298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663024,
+        "num": 1663024,
+        "word": "关晓彤檀健次方否认有偿录祝福",
+        "onboard_time": 1700480253,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800330,
+        "num": 800330,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40059,
+        "num": 778901,
+        "word": "文物里的长江",
+        "onboard_time": 1700470174,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764835,
+        "num": 764835,
+        "word": "专家称人民币12月可能进入正式升值通道",
+        "onboard_time": 1700476235,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 632983,
+        "num": 632983,
+        "word": "何猷君 能不能叫我小金薯条",
+        "onboard_time": 1700464292,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638633,
+        "num": 625824,
+        "word": "B站通报人肉开盒案例",
+        "onboard_time": 1700469395,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486556,
+        "num": 486556,
+        "word": "大学生实习连续五晚通宵直播后猝死",
+        "onboard_time": 1700470415,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477142,
+        "num": 477142,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399859,
+        "num": 399859,
+        "word": "4位高中同学连续四年资助去世同学家庭",
+        "onboard_time": 1700477794,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 412861,
+        "num": 397364,
+        "word": "以爱为营大结局点映礼",
+        "onboard_time": 1700481515,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685055,
+        "num": 394329,
+        "word": "杨紫泡面卷",
+        "onboard_time": 1700483133,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 636428,
+        "num": 393008,
+        "word": "金莎男友 对我来说现在就在上班",
+        "onboard_time": 1700475872,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549991,
+        "num": 389742,
+        "word": "华为称未来将为三个各自独立的操作系统",
+        "onboard_time": 1700482055,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 497851,
+        "num": 387383,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385021,
+        "num": 385021,
+        "word": "黑龙江一平房突发火灾7人遇难",
+        "onboard_time": 1700478932,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479833,
+        "num": 370594,
+        "word": "何瑞贤生图",
+        "onboard_time": 1700479416,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396569,
+        "num": 350322,
+        "word": "姜雪宁受鞭刑",
+        "onboard_time": 1700479116,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276305,
+        "num": 276305,
+        "word": "Letme回归RNG",
+        "onboard_time": 1700466634,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225692,
+        "num": 225692,
+        "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
+        "onboard_time": 1700475872,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56583,
+        "num": 225675,
+        "word": "特朗普祝贺阿根廷版特朗普",
+        "onboard_time": 1700465972,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 448161,
+        "num": 225032,
+        "word": "白敬亭晒新鞋",
+        "onboard_time": 1700482112,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 364583,
+        "num": 224431,
+        "word": "优酷回应网传甄嬛传将放完整版",
+        "onboard_time": 1700463573,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298920,
+        "num": 223987,
+        "word": "媒体评张桂梅原型电影引争议",
+        "onboard_time": 1700480614,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223617,
+        "num": 223617,
+        "word": "羽绒服何时卖到五位数的",
+        "onboard_time": 1700476411,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 199604,
+        "num": 199604,
+        "word": "官方回应家长代表号召学生交钱为老师提薪",
+        "onboard_time": 1700482234,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 281870,
+        "num": 198964,
+        "word": "贺峻霖获中传奖学金",
+        "onboard_time": 1700478275,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275004,
+        "num": 197651,
+        "word": "秦岚辛芷蕾 我俩真没法收场了",
+        "onboard_time": 1700475391,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175460,
+        "num": 175460,
+        "word": "中国式丁克",
+        "onboard_time": 1700465193,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174847,
+        "num": 174847,
+        "word": "钎城二连MVP",
+        "onboard_time": 1700482473,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172576,
+        "num": 172576,
+        "word": "阴阳师",
+        "onboard_time": 1700483372,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244267,
+        "num": 171001,
+        "word": "于蕾 央视春晚总导演",
+        "onboard_time": 1700467897,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244147,
+        "num": 168875,
+        "word": "谢危赢了琴输了情",
+        "onboard_time": 1700481032,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239707,
+        "num": 165834,
+        "word": "田柾国 舞台",
+        "onboard_time": 1700482834,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234802,
+        "num": 163172,
+        "word": "虞书欣21分钟演唱会纪录片",
+        "onboard_time": 1700478275,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 161897,
+        "word": "每个超市都有位厉害的美工",
+        "onboard_time": 1700482473,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 221797,
+        "num": 158674,
+        "word": "迪丽热巴给姚琛新歌打call",
+        "onboard_time": 1700480193,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155354,
+        "num": 155354,
+        "word": "医学专硕转行现状",
+        "onboard_time": 1700475756,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138043,
+        "num": 138043,
+        "word": "Letme 教练",
+        "onboard_time": 1700469456,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129132,
+        "num": 129132,
+        "word": "大熊猫小馨吃播超解压",
+        "onboard_time": 1700474974,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121565,
+        "num": 121565,
+        "word": "渔民误捕300斤大海龟后果断放生",
+        "onboard_time": 1700467897,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205625,
+        "num": 121547,
+        "word": "无所畏惧大结局",
+        "onboard_time": 1700482652,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205287,
+        "num": 119835,
+        "word": "0713能不能上春晚",
+        "onboard_time": 1700471552,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169106,
+        "num": 119070,
+        "word": "似曾相识焰归来",
+        "onboard_time": 1700463213,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169039,
+        "num": 118784,
+        "word": "以爱为营",
+        "onboard_time": 1700477074,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154051,
+        "num": 117373,
+        "word": "韩维辰跳Guilty",
+        "onboard_time": 1700483674,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151872,
+        "num": 116453,
+        "word": "TVB骂人方式 找个男人嫁了吧",
+        "onboard_time": 1700470654,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116338,
+        "num": 116338,
+        "word": "接RNGMing",
+        "onboard_time": 1700470773,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101559,
+        "num": 116266,
+        "word": "猫生第一次",
+        "onboard_time": 1700482112,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94089,
+        "num": 116137,
+        "word": "部分艺术类专业不再组织专业考试",
+        "onboard_time": 1700483554,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87684,
+        "num": 116061,
+        "word": "中美专家23年的熊猫情缘",
+        "onboard_time": 1700480973,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的旧金山时间#"
+    }
+  }
+}

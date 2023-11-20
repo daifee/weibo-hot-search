@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700480048453,
+  "endTime": 1700483700298,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -265,6 +265,14 @@
       "onboard_time": 1700385991,
       "rank": 12,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 1663024,
+      "num": 1663024,
+      "word": "关晓彤檀健次方否认有偿录祝福",
+      "onboard_time": 1700480253,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1658878,
@@ -803,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 685055,
+      "num": 394329,
+      "word": "杨紫泡面卷",
+      "onboard_time": 1700483133,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 681190,
       "num": 1078302,
       "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549991,
+      "num": 389742,
+      "word": "华为称未来将为三个各自独立的操作系统",
+      "onboard_time": 1700482055,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 547566,
       "num": 446926,
       "word": "魏大勋筷子腿",
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479833,
+      "num": 370594,
+      "word": "何瑞贤生图",
+      "onboard_time": 1700479416,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477159,
       "num": 1179461,
       "word": "2024载人航天飞行任务标识发布",
@@ -1387,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448161,
+      "num": 225032,
+      "word": "白敬亭晒新鞋",
+      "onboard_time": 1700482112,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 446348,
       "num": 446348,
       "word": "TVB骂人方式 找个男人嫁了吧",
@@ -1475,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 412861,
+      "num": 397364,
+      "word": "以爱为营大结局点映礼",
+      "onboard_time": 1700481515,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411263,
       "num": 411263,
       "word": "杭州新东方遭网红举报处罚结果公布",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1700381732,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396569,
+      "num": 350322,
+      "word": "姜雪宁受鞭刑",
+      "onboard_time": 1700479116,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 396111,
@@ -1827,14 +1883,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 343773,
-      "num": 343773,
-      "word": "姜雪宁受鞭刑",
-      "onboard_time": 1700479116,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342882,
       "num": 342882,
       "word": "严老师我需要手把手教",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1700406035,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327037,
-      "num": 327037,
-      "word": "何瑞贤生图",
-      "onboard_time": 1700479416,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 326745,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1700386418,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298920,
+      "num": 223987,
+      "word": "媒体评张桂梅原型电影引争议",
+      "onboard_time": 1700480614,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 297925,
@@ -2675,6 +2723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 244147,
+      "num": 168875,
+      "word": "谢危赢了琴输了情",
+      "onboard_time": 1700481032,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244135,
       "num": 244135,
       "word": "李晨 这是生态篇不是心态篇",
@@ -2761,6 +2817,14 @@
       "onboard_time": 1700449592,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239707,
+      "num": 165834,
+      "word": "田柾国 舞台",
+      "onboard_time": 1700482834,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 239349,
@@ -2945,6 +3009,14 @@
       "onboard_time": 1700448035,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221797,
+      "num": 158674,
+      "word": "迪丽热巴给姚琛新歌打call",
+      "onboard_time": 1700480193,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 221795,
@@ -3219,6 +3291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205625,
+      "num": 121547,
+      "word": "无所畏惧大结局",
+      "onboard_time": 1700482652,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205005,
       "num": 205005,
       "word": "AG对战DYG",
@@ -3385,6 +3465,14 @@
       "onboard_time": 1700468613,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199604,
+      "num": 199604,
+      "word": "官方回应家长代表号召学生交钱为老师提薪",
+      "onboard_time": 1700482234,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 199183,
@@ -3779,6 +3867,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174847,
+      "num": 174847,
+      "word": "钎城二连MVP",
+      "onboard_time": 1700482473,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174356,
       "num": 154107,
       "word": "德国2比3土耳其",
@@ -3801,6 +3897,14 @@
       "onboard_time": 1700371888,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172576,
+      "num": 172576,
+      "word": "阴阳师",
+      "onboard_time": 1700483372,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 172400,
@@ -3979,6 +4083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161897,
+      "num": 161897,
+      "word": "每个超市都有位厉害的美工",
+      "onboard_time": 1700482473,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 161844,
       "num": 161844,
       "word": "王嘉尔杭州演唱会",
@@ -4121,6 +4233,14 @@
       "onboard_time": 1700393390,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154051,
+      "num": 117373,
+      "word": "韩维辰跳Guilty",
+      "onboard_time": 1700483674,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 152902,
@@ -4883,6 +5003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101559,
+      "num": 116266,
+      "word": "猫生第一次",
+      "onboard_time": 1700482112,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100265,
       "num": 124253,
       "word": "冬日好气色妆容",
@@ -4953,6 +5081,14 @@
       "onboard_time": 1700426293,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94089,
+      "num": 116137,
+      "word": "部分艺术类专业不再组织专业考试",
+      "onboard_time": 1700483554,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 93617,
@@ -5040,6 +5176,14 @@
       "word": "3岁萌娃送辅警mini版锦旗",
       "onboard_time": 1700465555,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87684,
+      "num": 116061,
+      "word": "中美专家23年的熊猫情缘",
+      "onboard_time": 1700480973,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
