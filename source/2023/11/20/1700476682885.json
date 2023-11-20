@@ -1,0 +1,410 @@
+{
+  "runTime": 1700476682885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917943,
+        "num": 1917943,
+        "word": "大学生实习连续五晚通宵直播后猝死",
+        "onboard_time": 1700470415,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389002,
+        "num": 1574321,
+        "word": "渔民误捕300斤大海龟后果断放生",
+        "onboard_time": 1700467897,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43150,
+        "num": 1323810,
+        "word": "文物里的长江",
+        "onboard_time": 1700470174,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241742,
+        "num": 1241742,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199215,
+        "num": 1002271,
+        "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
+        "onboard_time": 1700475872,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480514,
+        "num": 989487,
+        "word": "B站通报人肉开盒案例",
+        "onboard_time": 1700469395,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156870,
+        "num": 972131,
+        "word": "老人欲加投资群被3人包围教反诈",
+        "onboard_time": 1700474796,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964897,
+        "num": 964897,
+        "word": "于蕾 央视春晚总导演",
+        "onboard_time": 1700467897,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794043,
+        "num": 794043,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131255,
+        "num": 774423,
+        "word": "特朗普祝贺阿根廷版特朗普",
+        "onboard_time": 1700465972,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 772626,
+        "num": 772626,
+        "word": "秦岚辛芷蕾 我俩真没法收场了",
+        "onboard_time": 1700475391,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761063,
+        "num": 761063,
+        "word": "0713能不能上春晚",
+        "onboard_time": 1700471552,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718813,
+        "num": 718813,
+        "word": "中国式丁克",
+        "onboard_time": 1700465193,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 697474,
+        "num": 697474,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97150,
+        "num": 598832,
+        "word": "中大型SUV价格翻天了",
+        "onboard_time": 1700463815,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 570787,
+        "num": 570787,
+        "word": "优酷回应网传甄嬛传将放完整版",
+        "onboard_time": 1700463573,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550981,
+        "num": 550981,
+        "word": "Letme回归RNG",
+        "onboard_time": 1700466634,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 516411,
+        "num": 516411,
+        "word": "金莎男友 对我来说现在就在上班",
+        "onboard_time": 1700475872,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504050,
+        "num": 504050,
+        "word": "信王烧死了信王妃",
+        "onboard_time": 1700474073,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482239,
+        "num": 482239,
+        "word": "何猷君 能不能叫我小金薯条",
+        "onboard_time": 1700464292,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384958,
+        "num": 384958,
+        "word": "TVB骂人方式 找个男人嫁了吧",
+        "onboard_time": 1700470654,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373974,
+        "num": 373974,
+        "word": "最高检挂牌督办山西永聚煤矿火灾事故案",
+        "onboard_time": 1700475391,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331331,
+        "num": 331331,
+        "word": "迪丽热巴一线肩",
+        "onboard_time": 1700474855,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292140,
+        "num": 292140,
+        "word": "Letme 教练",
+        "onboard_time": 1700469456,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287254,
+        "num": 287254,
+        "word": "专家称人民币12月可能进入正式升值通道",
+        "onboard_time": 1700476235,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316780,
+        "num": 280367,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304266,
+        "num": 278931,
+        "word": "刘诗诗酒红束腰长裙",
+        "onboard_time": 1700473894,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265274,
+        "num": 265274,
+        "word": "一念关山",
+        "onboard_time": 1700476120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247247,
+        "num": 247247,
+        "word": "接RNGMing",
+        "onboard_time": 1700470773,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75561,
+        "num": 245635,
+        "word": "冬季嘴唇容易起皮怎么办",
+        "onboard_time": 1700464834,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245397,
+        "num": 245397,
+        "word": "张东健妻子被曝偷税漏税",
+        "onboard_time": 1700461115,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243127,
+        "num": 243127,
+        "word": "医学专硕转行现状",
+        "onboard_time": 1700475756,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228997,
+        "num": 228997,
+        "word": "寺庙咖啡",
+        "onboard_time": 1700472692,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213480,
+        "num": 213480,
+        "word": "很想很想你 男主欣赏眼神",
+        "onboard_time": 1700469092,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210621,
+        "num": 210621,
+        "word": "大小S控告葛斯齐判赔",
+        "onboard_time": 1700466573,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206592,
+        "num": 206592,
+        "word": "许凯景甜互换头像",
+        "onboard_time": 1700475934,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203065,
+        "num": 203065,
+        "word": "韩东君爸爸是特警",
+        "onboard_time": 1700468135,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200590,
+        "num": 200590,
+        "word": "张婧仪仿妆",
+        "onboard_time": 1700475093,
+        "rank": 37,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 171832,
+        "num": 171832,
+        "word": "羽绒服何时卖到五位数的",
+        "onboard_time": 1700476411,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 165441,
+        "num": 165441,
+        "word": "男子100多万买林肯称被客服嘲讽",
+        "onboard_time": 1700463573,
+        "rank": 39,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 192400,
+        "num": 164764,
+        "word": "黄子韬广州演唱会现场观众发声",
+        "onboard_time": 1700471976,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188539,
+        "num": 164595,
+        "word": "琉璃被下毒性命垂危",
+        "onboard_time": 1700476235,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163709,
+        "num": 163709,
+        "word": "咆哮帝引用管泽元解说词",
+        "onboard_time": 1700476293,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160334,
+        "num": 160334,
+        "word": "似曾相识焰归来",
+        "onboard_time": 1700463213,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158962,
+        "num": 158962,
+        "word": "甄嬛传官微 我怎么不知道",
+        "onboard_time": 1700463632,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145806,
+        "num": 145806,
+        "word": "水庆霞下课",
+        "onboard_time": 1700467054,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143269,
+        "num": 143269,
+        "word": "奥特曼回应加入微软",
+        "onboard_time": 1700470773,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141704,
+        "num": 141704,
+        "word": "金莎商演视频",
+        "onboard_time": 1700472755,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138405,
+        "num": 138405,
+        "word": "给萨摩耶洗澡半个小时还没打湿",
+        "onboard_time": 1700474374,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130763,
+        "num": 130763,
+        "word": "大熊猫小馨吃播超解压",
+        "onboard_time": 1700474974,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动亚太合作再出发#"
+    }
+  }
+}

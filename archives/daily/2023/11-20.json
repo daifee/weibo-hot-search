@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700475613034,
+  "endTime": 1700476682885,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1917943,
+      "num": 1917943,
+      "word": "大学生实习连续五晚通宵直播后猝死",
+      "onboard_time": 1700470415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1863870,
       "num": 1479212,
       "word": "BLACKPINK两名成员与YG签订组合约",
@@ -113,14 +121,6 @@
       "onboard_time": 1700452718,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1840135,
-      "num": 1840135,
-      "word": "大学生实习连续五晚通宵直播后猝死",
-      "onboard_time": 1700470415,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1770833,
@@ -283,8 +283,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 772626,
+      "num": 772626,
+      "word": "秦岚辛芷蕾 我俩真没法收场了",
+      "onboard_time": 1700475391,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 763846,
-      "num": 390995,
+      "num": 482239,
       "word": "何猷君 能不能叫我小金薯条",
       "onboard_time": 1700464292,
       "rank": 21,
@@ -457,6 +465,14 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 516411,
+      "num": 516411,
+      "word": "金莎男友 对我来说现在就在上班",
+      "onboard_time": 1700475872,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 503438,
@@ -667,6 +683,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 389002,
+      "num": 1848851,
+      "word": "渔民误捕300斤大海龟后果断放生",
+      "onboard_time": 1700467897,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387871,
       "num": 291738,
       "word": "潘玮柏胖瘦自如",
@@ -699,11 +723,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 365521,
-      "num": 1848851,
-      "word": "渔民误捕300斤大海龟后果断放生",
-      "onboard_time": 1700467897,
-      "rank": 41,
+      "raw_hot": 373974,
+      "num": 373974,
+      "word": "最高检挂牌督办山西永聚煤矿火灾事故案",
+      "onboard_time": 1700475391,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -923,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287254,
+      "num": 287254,
+      "word": "专家称人民币12月可能进入正式升值通道",
+      "onboard_time": 1700476235,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 286566,
       "num": 286566,
       "word": "姜雪宁短暂的爱了张遮一下",
@@ -985,6 +1017,14 @@
       "onboard_time": 1700472692,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 265274,
+      "num": 265274,
+      "word": "一念关山",
+      "onboard_time": 1700476120,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 260804,
@@ -1059,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244530,
-      "num": 192766,
-      "word": "秦岚辛芷蕾 我俩真没法收场了",
-      "onboard_time": 1700475391,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244176,
       "num": 244176,
       "word": "国考准考证",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1700465972,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 243127,
+      "num": 243127,
+      "word": "医学专硕转行现状",
+      "onboard_time": 1700475756,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 241415,
@@ -1323,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206592,
+      "num": 206592,
+      "word": "许凯景甜互换头像",
+      "onboard_time": 1700475934,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206522,
       "num": 206522,
       "word": "跳远是件很私密的事",
@@ -1403,6 +1451,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 200590,
+      "num": 200590,
+      "word": "张婧仪仿妆",
+      "onboard_time": 1700475093,
+      "rank": 33,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 200134,
       "num": 210979,
       "word": "A股",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1700468613,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199215,
+      "num": 1002271,
+      "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
+      "onboard_time": 1700475872,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199038,
@@ -1507,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189853,
-      "num": 189853,
-      "word": "张婧仪仿妆",
-      "onboard_time": 1700475093,
-      "rank": 33,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "黑松露大量上市",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1700402677,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188539,
+      "num": 164595,
+      "word": "琉璃被下毒性命垂危",
+      "onboard_time": 1700476235,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 188034,
@@ -1556,7 +1620,7 @@
     },
     {
       "raw_hot": 186325,
-      "num": 224494,
+      "num": 245635,
       "word": "冬季嘴唇容易起皮怎么办",
       "onboard_time": 1700464834,
       "rank": 38,
@@ -1651,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171832,
+      "num": 171832,
+      "word": "羽绒服何时卖到五位数的",
+      "onboard_time": 1700476411,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 170058,
       "num": 170058,
       "word": "周口联通否认工程师未完成推销被辞",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1700468135,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163709,
+      "num": 163709,
+      "word": "咆哮帝引用管泽元解说词",
+      "onboard_time": 1700476293,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 163552,
@@ -1779,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156870,
+      "num": 1361440,
+      "word": "老人欲加投资群被3人包围教反诈",
+      "onboard_time": 1700474796,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156632,
       "num": 156632,
       "word": "宁安如梦",
@@ -1817,14 +1905,6 @@
       "onboard_time": 1700472814,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153786,
-      "num": 153786,
-      "word": "最高检挂牌督办山西永聚煤矿火灾事故案",
-      "onboard_time": 1700475391,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151929,
@@ -2059,6 +2139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130763,
+      "num": 1201150,
+      "word": "大熊猫小馨吃播超解压",
+      "onboard_time": 1700474974,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130687,
       "num": 130687,
       "word": "房东的猫十周年演唱会",
@@ -2259,19 +2347,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97150,
+      "num": 610410,
+      "word": "中大型SUV价格翻天了",
+      "onboard_time": 1700463815,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96118,
       "num": 116571,
       "word": "三星堆分堆终究还是开到了东北",
       "onboard_time": 1700463093,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95400,
-      "num": 1361440,
-      "word": "老人欲加投资群被3人包围教反诈",
-      "onboard_time": 1700474796,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2363,14 +2451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 73513,
-      "num": 1201150,
-      "word": "大熊猫小馨吃播超解压",
-      "onboard_time": 1700474974,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66888,
       "num": 66888,
       "word": "网友为了省钱学给女朋友做美甲",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1700453858,
       "rank": 42,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 55545,
-      "num": 610410,
-      "word": "中大型SUV价格翻天了",
-      "onboard_time": 1700463815,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 52080,
