@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700454961963,
+  "endTime": 1700457434828,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1699338033,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2067956,
+      "num": 946308,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2062931,
@@ -5059,6 +5067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1001952,
+      "num": 1001952,
+      "word": "甄嬛传将放完整版",
+      "onboard_time": 1700456616,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1000065,
       "num": 560922,
       "word": "我恋5癫公癫婆一分钟亲了5次",
@@ -5321,14 +5337,6 @@
       "onboard_time": 1700378314,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 965114,
-      "num": 215936,
-      "word": "想取关某一个人但是又怕太明显",
-      "onboard_time": 1700454941,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 964205,
@@ -9899,6 +9907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 616652,
+      "num": 316196,
+      "word": "薛之谦演唱会提词器背景图",
+      "onboard_time": 1700456798,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 616596,
       "num": 616596,
       "word": "五代女团首次合作",
@@ -10931,6 +10947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 573449,
+      "num": 573449,
+      "word": "专家称不论开放几胎人口都会萎缩",
+      "onboard_time": 1700453075,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573280,
       "num": 573280,
       "word": "哈工大学生去上课像登机",
@@ -11345,6 +11369,14 @@
       "onboard_time": 1699344334,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558044,
+      "num": 275088,
+      "word": "杜华欢迎何蓝逗加入乐华",
+      "onboard_time": 1700456920,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 557784,
@@ -11961,6 +11993,14 @@
       "onboard_time": 1698807930,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533743,
+      "num": 243996,
+      "word": "又怎么了我的大导演",
+      "onboard_time": 1700454882,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 533550,
@@ -14587,14 +14627,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 447950,
-      "num": 494070,
-      "word": "专家称不论开放几胎人口都会萎缩",
-      "onboard_time": 1700453075,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447627,
       "num": 447627,
       "word": "WBG 我们今天都是LNG粉丝",
@@ -15385,6 +15417,14 @@
       "onboard_time": 1700208934,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425684,
+      "num": 425684,
+      "word": "日本核污水第三轮排海今日结束",
+      "onboard_time": 1700455419,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 425671,
@@ -17777,6 +17817,14 @@
       "onboard_time": 1699244014,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376981,
+      "num": 241122,
+      "word": "赵丽颖冷酷脸vs小圆手",
+      "onboard_time": 1700455238,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 376958,
@@ -20611,6 +20659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324296,
+      "num": 191105,
+      "word": "赵露思王安宇白衬衫拍杂志",
+      "onboard_time": 1700456678,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 324062,
       "num": 324062,
       "word": "豆瓣崩了",
@@ -22259,6 +22315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297925,
+      "num": 297925,
+      "word": "河南省通信局称将约谈调查周口联通",
+      "onboard_time": 1700455839,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297914,
       "num": 744655,
       "word": "美国高中老师说中美合作对所有人都好",
@@ -22985,6 +23049,14 @@
       "onboard_time": 1698895351,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287921,
+      "num": 185561,
+      "word": "刘诗诗举牌宣传一念关山",
+      "onboard_time": 1700457158,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 287877,
@@ -24113,6 +24185,14 @@
       "onboard_time": 1699063588,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274738,
+      "num": 274738,
+      "word": "杜兰特又是45度",
+      "onboard_time": 1700454581,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 274721,
@@ -27187,14 +27267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 243349,
-      "num": 213570,
-      "word": "杜兰特又是45度",
-      "onboard_time": 1700454581,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243309,
       "num": 202240,
       "word": "脸色暗沉发黄原因",
@@ -30003,6 +30075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219689,
+      "num": 219689,
+      "word": "艺考文化课成绩门槛提高",
+      "onboard_time": 1700457038,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "为什么奶茶圈都在推三品管",
@@ -32387,6 +32467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204456,
+      "num": 204456,
+      "word": "她不回你信息真的是因为没时间吗",
+      "onboard_time": 1700455419,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204431,
       "num": 204431,
       "word": "猫 化好妆又要丢下我出门",
@@ -33137,6 +33225,14 @@
       "onboard_time": 1699091851,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200740,
+      "num": 200740,
+      "word": "西双版纳妆",
+      "onboard_time": 1700455060,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 200681,
@@ -34281,6 +34377,14 @@
       "onboard_time": 1699432355,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195367,
+      "num": 167666,
+      "word": "TXT官宣苏州签售会",
+      "onboard_time": 1700455839,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 195343,
@@ -36187,14 +36291,6 @@
       "category": "电竞,时尚"
     },
     {
-      "raw_hot": 186363,
-      "num": 186363,
-      "word": "又怎么了我的大导演",
-      "onboard_time": 1700454882,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186338,
       "num": 186338,
       "word": "KIC赛事增补规则",
@@ -37691,6 +37787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177188,
+      "num": 177188,
+      "word": "OpenAI临时CEO拟重新聘请奥特曼",
+      "onboard_time": 1700455602,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177187,
       "num": 177187,
       "word": "税务师考试",
@@ -38907,6 +39011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170058,
+      "num": 170058,
+      "word": "周口联通否认工程师未完成推销被辞",
+      "onboard_time": 1700456437,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170027,
       "num": 170027,
       "word": "120救人返程遇车祸再救5人",
@@ -39729,6 +39841,14 @@
       "onboard_time": 1698787453,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165463,
+      "num": 165463,
+      "word": "原来胃还是情绪器官",
+      "onboard_time": 1700455299,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 165325,
@@ -43097,6 +43217,14 @@
       "onboard_time": 1699406195,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146182,
+      "num": 146182,
+      "word": "OpenAI宫斗",
+      "onboard_time": 1700455660,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 146077,
@@ -53561,6 +53689,14 @@
       "onboard_time": 1700226094,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38077,
+      "num": 275490,
+      "word": "黄河文化有多璀璨",
+      "onboard_time": 1700456437,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 37855,

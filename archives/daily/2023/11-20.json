@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700454961963,
+  "endTime": 1700457434828,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -32,6 +32,14 @@
       "word": "韩国顶级明星涉嫌偷税漏税",
       "onboard_time": 1700443350,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2067956,
+      "num": 946308,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 965114,
-      "num": 215936,
-      "word": "想取关某一个人但是又怕太明显",
-      "onboard_time": 1700454941,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 1001952,
+      "num": 1001952,
+      "word": "甄嬛传将放完整版",
+      "onboard_time": 1700456616,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 921207,
@@ -203,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 616652,
+      "num": 316196,
+      "word": "薛之谦演唱会提词器背景图",
+      "onboard_time": 1700456798,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 611479,
       "num": 572508,
       "word": "新闻女王海王社死现场",
@@ -235,12 +251,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 573449,
+      "num": 573449,
+      "word": "专家称不论开放几胎人口都会萎缩",
+      "onboard_time": 1700453075,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570999,
       "num": 292984,
       "word": "我本是高山 导演叙事逻辑",
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 558044,
+      "num": 275088,
+      "word": "杜华欢迎何蓝逗加入乐华",
+      "onboard_time": 1700456920,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 550675,
@@ -257,6 +289,14 @@
       "onboard_time": 1700453194,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533743,
+      "num": 243996,
+      "word": "又怎么了我的大导演",
+      "onboard_time": 1700454882,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 503438,
@@ -331,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 447950,
-      "num": 494070,
-      "word": "专家称不论开放几胎人口都会萎缩",
-      "onboard_time": 1700453075,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 425684,
+      "num": 425684,
+      "word": "日本核污水第三轮排海今日结束",
+      "onboard_time": 1700455419,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 421349,
@@ -403,6 +443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 376981,
+      "num": 241122,
+      "word": "赵丽颖冷酷脸vs小圆手",
+      "onboard_time": 1700455238,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348420,
       "num": 348420,
       "word": "TheShy回应是否退役",
@@ -433,6 +481,14 @@
       "onboard_time": 1700389479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324296,
+      "num": 191105,
+      "word": "赵露思王安宇白衬衫拍杂志",
+      "onboard_time": 1700456678,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 318755,
@@ -475,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297925,
+      "num": 297925,
+      "word": "河南省通信局称将约谈调查周口联通",
+      "onboard_time": 1700455839,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296556,
       "num": 256756,
       "word": "吃香菜和不吃香菜的都沉默了",
@@ -515,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287921,
+      "num": 185561,
+      "word": "刘诗诗举牌宣传一念关山",
+      "onboard_time": 1700457158,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286566,
       "num": 286566,
       "word": "姜雪宁短暂的爱了张遮一下",
@@ -537,6 +609,14 @@
       "onboard_time": 1700447433,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 274738,
+      "num": 274738,
+      "word": "杜兰特又是45度",
+      "onboard_time": 1700454581,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 270742,
@@ -609,14 +689,6 @@
       "onboard_time": 1700436325,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 243349,
-      "num": 213570,
-      "word": "杜兰特又是45度",
-      "onboard_time": 1700454581,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 241415,
@@ -697,6 +769,14 @@
       "onboard_time": 1700452477,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219689,
+      "num": 219689,
+      "word": "艺考文化课成绩门槛提高",
+      "onboard_time": 1700457038,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 219364,
@@ -803,12 +883,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204456,
+      "num": 204456,
+      "word": "她不回你信息真的是因为没时间吗",
+      "onboard_time": 1700455419,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203306,
       "num": 203306,
       "word": "不要老想在亲密关系中做小孩",
       "onboard_time": 1700452718,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200740,
+      "num": 200740,
+      "word": "西双版纳妆",
+      "onboard_time": 1700455060,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 200134,
@@ -833,6 +929,14 @@
       "onboard_time": 1700453137,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195367,
+      "num": 167666,
+      "word": "TXT官宣苏州签售会",
+      "onboard_time": 1700455839,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 195280,
@@ -907,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186363,
-      "num": 186363,
-      "word": "又怎么了我的大导演",
-      "onboard_time": 1700454882,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186075,
       "num": 186075,
       "word": "华坪女高",
@@ -963,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177188,
+      "num": 177188,
+      "word": "OpenAI临时CEO拟重新聘请奥特曼",
+      "onboard_time": 1700455602,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172480,
       "num": 172480,
       "word": "张桂梅读我本是高山观众祝福",
@@ -977,6 +1081,14 @@
       "onboard_time": 1700407176,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170058,
+      "num": 170058,
+      "word": "周口联通否认工程师未完成推销被辞",
+      "onboard_time": 1700456437,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167513,
@@ -1009,6 +1121,14 @@
       "onboard_time": 1700442873,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165463,
+      "num": 165463,
+      "word": "原来胃还是情绪器官",
+      "onboard_time": 1700455299,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 163552,
@@ -1113,6 +1233,14 @@
       "onboard_time": 1700398058,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146182,
+      "num": 146182,
+      "word": "OpenAI宫斗",
+      "onboard_time": 1700455660,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 145187,
@@ -1497,6 +1625,14 @@
       "onboard_time": 1700402139,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38077,
+      "num": 275490,
+      "word": "黄河文化有多璀璨",
+      "onboard_time": 1700456437,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 32771,
