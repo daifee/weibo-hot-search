@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 17:34:35
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 18:20:13
 </p>
 </blockquote>
 <p>
@@ -1349,6 +1349,12 @@ BLACKPINK两名成员与YG签订组合约（热度：1863870）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E9%83%A1%E7%8E%8B%E5%8F%A3%E7%A2%91%E4%B8%80%E5%A4%9C%E9%80%86%E8%BD%AC%23" target="weibo">
 果郡王口碑一夜逆转（热度：1844059）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23" target="weibo">
+大学生实习连续五晚通宵直播后猝死（热度：1840135）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG教练（热度：734319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B110%E4%B8%87%E8%A3%85%E4%BF%AE36%E5%B9%B3%E7%83%82%E5%B0%BE%E6%A5%BC%E7%8B%AC%E8%87%AA%E5%B1%85%E4%BD%8F%23" target="weibo">
 女子花10万装修36平烂尾楼独自居住（热度：734037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E5%A5%B3%E4%B8%BB%23" target="weibo">
-藏海女主（热度：733422）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700472875757,
+  "endTime": 1700475613034,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1840135,
+      "num": 1840135,
+      "word": "大学生实习连续五晚通宵直播后猝死",
+      "onboard_time": 1700470415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1770833,
       "num": 1770833,
       "word": "霸王茶姬口令",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1752439,
-      "num": 780428,
+      "num": 807258,
       "word": "中国式丁克",
       "onboard_time": 1700465193,
       "rank": 31,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 763846,
-      "num": 355427,
+      "num": 390995,
       "word": "何猷君 能不能叫我小金薯条",
       "onboard_time": 1700464292,
       "rank": 21,
@@ -352,6 +360,14 @@
       "word": "新闻女王海王社死现场",
       "onboard_time": 1700442392,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 600880,
+      "num": 600880,
+      "word": "信王烧死了信王妃",
+      "onboard_time": 1700474073,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -441,14 +457,6 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 508605,
-      "num": 722709,
-      "word": "大学生实习连续五晚通宵直播后猝死",
-      "onboard_time": 1700470415,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503438,
@@ -555,19 +563,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 446348,
+      "num": 446348,
+      "word": "TVB骂人方式 找个男人嫁了吧",
+      "onboard_time": 1700470654,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433013,
       "num": 433013,
       "word": "很想很想你 男主欣赏眼神",
       "onboard_time": 1700469092,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 426740,
-      "num": 426740,
-      "word": "TVB骂人方式 找个男人嫁了吧",
-      "onboard_time": 1700470654,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -609,6 +617,14 @@
       "onboard_time": 1700466334,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404357,
+      "num": 373017,
+      "word": "迪丽热巴一线肩",
+      "onboard_time": 1700474855,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396111,
@@ -681,6 +697,14 @@
       "onboard_time": 1700455238,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365521,
+      "num": 1848851,
+      "word": "渔民误捕300斤大海龟后果断放生",
+      "onboard_time": 1700467897,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361052,
@@ -793,6 +817,14 @@
       "onboard_time": 1700450136,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317754,
+      "num": 317754,
+      "word": "刘诗诗酒红束腰长裙",
+      "onboard_time": 1700473894,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 313786,
@@ -947,6 +979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 265809,
+      "num": 265809,
+      "word": "寺庙咖啡",
+      "onboard_time": 1700472692,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260804,
       "num": 181907,
       "word": "VOGUE时尚盛典阵容",
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244530,
+      "num": 192766,
+      "word": "秦岚辛芷蕾 我俩真没法收场了",
+      "onboard_time": 1700475391,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244176,
       "num": 244176,
       "word": "国考准考证",
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 243288,
-      "num": 780463,
+      "num": 880172,
       "word": "特朗普祝贺阿根廷版特朗普",
       "onboard_time": 1700465972,
       "rank": 19,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1700441853,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241246,
+      "num": 217302,
+      "word": "黄子韬广州演唱会现场观众发声",
+      "onboard_time": 1700471976,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 241062,
@@ -1187,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217302,
-      "num": 217302,
-      "word": "黄子韬广州演唱会现场观众发声",
-      "onboard_time": 1700471976,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 217120,
       "num": 217120,
       "word": "德约科维奇 goat",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1700457576,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205093,
-      "num": 205093,
-      "word": "渔民误捕300斤大海龟后果断放生",
-      "onboard_time": 1700467897,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205005,
@@ -1467,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189853,
+      "num": 189853,
+      "word": "张婧仪仿妆",
+      "onboard_time": 1700475093,
+      "rank": 33,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "黑松露大量上市",
@@ -1481,6 +1529,22 @@
       "onboard_time": 1700402677,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188034,
+      "num": 188034,
+      "word": "给萨摩耶洗澡半个小时还没打湿",
+      "onboard_time": 1700474374,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188028,
+      "num": 188028,
+      "word": "金莎商演视频",
+      "onboard_time": 1700472755,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 186673,
@@ -1563,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173277,
+      "num": 169646,
+      "word": "THE BOYZ新歌MV",
+      "onboard_time": 1700475093,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172480,
       "num": 172480,
       "word": "张桂梅读我本是高山观众祝福",
@@ -1584,6 +1656,14 @@
       "word": "周口联通否认工程师未完成推销被辞",
       "onboard_time": 1700456437,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168825,
+      "num": 168825,
+      "word": "天降拘捕令儿子急砸门保住母亲21万",
+      "onboard_time": 1700469275,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1731,6 +1811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154338,
+      "num": 154338,
+      "word": "陈楚生拖鞋都跑歪了",
+      "onboard_time": 1700472814,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153786,
+      "num": 153786,
+      "word": "最高检挂牌督办山西永聚煤矿火灾事故案",
+      "onboard_time": 1700475391,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151929,
       "num": 148780,
       "word": "魏大勋筷子腿",
@@ -1745,6 +1841,14 @@
       "onboard_time": 1700444792,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149959,
+      "num": 149959,
+      "word": "姜雪宁雪景写真",
+      "onboard_time": 1700473472,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 148736,
@@ -1867,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140600,
-      "num": 140600,
-      "word": "金莎商演视频",
-      "onboard_time": 1700472755,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 139994,
       "num": 139994,
       "word": "当教师老婆在家改卷是什么体验",
@@ -1883,27 +1979,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139716,
-      "num": 139716,
-      "word": "寺庙咖啡",
-      "onboard_time": 1700472692,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 138514,
       "num": 164163,
       "word": "11岁身体折叠隔20年他再见蓝天",
       "onboard_time": 1700401299,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137790,
-      "num": 137790,
-      "word": "天降拘捕令儿子急砸门保住母亲21万",
-      "onboard_time": 1700469275,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1979,14 +2059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 130859,
-      "num": 130859,
-      "word": "陈楚生拖鞋都跑歪了",
-      "onboard_time": 1700472814,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130687,
       "num": 130687,
       "word": "房东的猫十周年演唱会",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1700401779,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124771,
+      "num": 124771,
+      "word": "LGD对战TES",
+      "onboard_time": 1700474014,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124373,
@@ -2187,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95400,
+      "num": 1361440,
+      "word": "老人欲加投资群被3人包围教反诈",
+      "onboard_time": 1700474796,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94309,
       "num": 94309,
       "word": "为什么长大后不愿意回家了",
@@ -2275,6 +2363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73513,
+      "num": 1201150,
+      "word": "大熊猫小馨吃播超解压",
+      "onboard_time": 1700474974,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66888,
       "num": 66888,
       "word": "网友为了省钱学给女朋友做美甲",
@@ -2315,6 +2411,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 55545,
+      "num": 610410,
+      "word": "中大型SUV价格翻天了",
+      "onboard_time": 1700463815,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52080,
       "num": 56375,
       "word": "我要逆风去大结局观后感",
@@ -2323,8 +2427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50418,
-      "num": 1369049,
+      "raw_hot": 50770,
+      "num": 1841661,
       "word": "文物里的长江",
       "onboard_time": 1700470174,
       "rank": 2,
@@ -2353,14 +2457,6 @@
       "onboard_time": 1700398775,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40204,
-      "num": 116950,
-      "word": "中大型SUV价格翻天了",
-      "onboard_time": 1700463815,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 40063,
