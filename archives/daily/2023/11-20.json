@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700450333838,
+  "endTime": 1700451261616,
   "band_list": [
     {
       "raw_hot": 2282687,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1712583,
-      "num": 1712583,
+      "raw_hot": 1770833,
+      "num": 1770833,
       "word": "霸王茶姬口令",
       "onboard_time": 1700449773,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "电竞,社会新闻"
     },
     {
+      "raw_hot": 1014376,
+      "num": 1014376,
+      "word": "金莎回应签约孙丞潇",
+      "onboard_time": 1700449653,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1003059,
       "num": 1003059,
       "word": "27岁研究生离世前一天发文感恩感谢",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 811752,
-      "num": 377269,
+      "num": 395109,
       "word": "去年河南结婚人数排名全国第二",
       "onboard_time": 1700445512,
       "rank": 15,
@@ -112,6 +120,14 @@
       "word": "终于有只搞事业不谈恋爱的剧了",
       "onboard_time": 1700405675,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 807732,
+      "num": 578783,
+      "word": "电子刊颠婆",
+      "onboard_time": 1700449293,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -171,14 +187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 578783,
-      "num": 578783,
-      "word": "电子刊颠婆",
-      "onboard_time": 1700449293,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 575736,
       "num": 371799,
       "word": "去年我国初婚人数低于1100万",
@@ -203,20 +211,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 494904,
+      "num": 494904,
+      "word": "我使馆回应加方否认康明凯等间谍活动",
+      "onboard_time": 1700450136,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 494617,
       "num": 303883,
       "word": "生理上的反应永远是最真实的",
       "onboard_time": 1700435603,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 490356,
-      "num": 382341,
-      "word": "金莎回应签约孙丞潇",
-      "onboard_time": 1700449653,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 483675,
@@ -227,19 +235,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465671,
+      "num": 465671,
+      "word": "BLACKPINK将维持四人组",
+      "onboard_time": 1700448811,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 464627,
+      "num": 451736,
+      "word": "张遮没有重生",
+      "onboard_time": 1700447735,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455086,
       "num": 455086,
       "word": "宁安如梦魔改张遮",
       "onboard_time": 1700441616,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 451736,
-      "num": 451736,
-      "word": "张遮没有重生",
-      "onboard_time": 1700447735,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -257,6 +273,22 @@
       "onboard_time": 1700439994,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416160,
+      "num": 372584,
+      "word": "电影中三位原型人物评我本是高山",
+      "onboard_time": 1700450495,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 396264,
+      "num": 396264,
+      "word": "网传鸿蒙系统明年将不兼容安卓",
+      "onboard_time": 1700450252,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 395039,
@@ -320,14 +352,6 @@
       "word": "肖战好像被胁迫了",
       "onboard_time": 1700389479,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 310717,
-      "num": 310717,
-      "word": "BLACKPINK将维持四人组",
-      "onboard_time": 1700448811,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286195,
+      "num": 286195,
+      "word": "谭松韵新片带狗狗结婚",
+      "onboard_time": 1700450554,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275779,
       "num": 275779,
       "word": "Tims崩了",
@@ -425,6 +457,14 @@
       "onboard_time": 1700444129,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 261194,
+      "num": 261194,
+      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+      "onboard_time": 1700450136,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257624,
@@ -491,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239722,
+      "num": 214459,
+      "word": "秦昊蒋欣新剧定档",
+      "onboard_time": 1700449592,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232045,
       "num": 232045,
       "word": "失眠时别硬躺试试离开你的床",
@@ -553,6 +601,14 @@
       "onboard_time": 1700448696,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211063,
+      "num": 211063,
+      "word": "王鸥新剧演破产主妇",
+      "onboard_time": 1700450193,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 210357,
@@ -619,12 +675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 202666,
-      "num": 202666,
-      "word": "秦昊蒋欣新剧定档",
-      "onboard_time": 1700449592,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 200134,
+      "num": 210979,
+      "word": "A股",
+      "onboard_time": 1700449353,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 199038,
@@ -641,14 +697,6 @@
       "onboard_time": 1700397334,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192573,
-      "num": 210979,
-      "word": "A股",
-      "onboard_time": 1700449353,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 191973,
@@ -755,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175503,
-      "num": 175503,
-      "word": "网传鸿蒙系统明年将不兼容安卓",
-      "onboard_time": 1700450252,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 172480,
       "num": 172480,
       "word": "张桂梅读我本是高山观众祝福",
@@ -777,14 +817,6 @@
       "onboard_time": 1700407176,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 170643,
-      "num": 170643,
-      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
-      "onboard_time": 1700450136,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167513,
@@ -827,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158168,
+      "num": 158168,
+      "word": "enhypen说公主请吃饭",
+      "onboard_time": 1700450434,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156632,
       "num": 156632,
       "word": "宁安如梦",
@@ -857,14 +897,6 @@
       "onboard_time": 1700447852,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152359,
-      "num": 152359,
-      "word": "我使馆回应加方否认康明凯等间谍活动",
-      "onboard_time": 1700450136,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151929,
@@ -939,19 +971,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 141492,
+      "num": 141492,
+      "word": "母亲接记者电话才知儿子救3人",
+      "onboard_time": 1700450793,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141119,
       "num": 141119,
       "word": "张遮怎么会推姜雪宁",
       "onboard_time": 1700439753,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140033,
-      "num": 140033,
-      "word": "王鸥新剧演破产主妇",
-      "onboard_time": 1700450193,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -985,6 +1017,14 @@
       "onboard_time": 1700435786,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 134597,
+      "num": 134597,
+      "word": "被迫嫁人的女孩 她本是高山",
+      "onboard_time": 1700451153,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 131119,

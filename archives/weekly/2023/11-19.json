@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700450333838,
+  "endTime": 1700451261616,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -347,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1014376,
+      "num": 1014376,
+      "word": "金莎回应签约孙丞潇",
+      "onboard_time": 1700449653,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 990739,
       "num": 990739,
       "word": "权志龙毛发鉴定结果为阴性",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 811752,
-      "num": 377269,
+      "num": 395109,
       "word": "去年河南结婚人数排名全国第二",
       "onboard_time": 1700445512,
       "rank": 15,
@@ -457,6 +465,14 @@
       "onboard_time": 1700391573,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 807732,
+      "num": 578783,
+      "word": "电子刊颠婆",
+      "onboard_time": 1700449293,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 806716,
@@ -739,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 578783,
-      "num": 578783,
-      "word": "电子刊颠婆",
-      "onboard_time": 1700449293,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 575736,
       "num": 371799,
       "word": "去年我国初婚人数低于1100万",
@@ -915,20 +923,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 494904,
+      "num": 494904,
+      "word": "我使馆回应加方否认康明凯等间谍活动",
+      "onboard_time": 1700450136,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 494617,
       "num": 303883,
       "word": "生理上的反应永远是最真实的",
       "onboard_time": 1700435603,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 490356,
-      "num": 382341,
-      "word": "金莎回应签约孙丞潇",
-      "onboard_time": 1700449653,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 489005,
@@ -971,6 +979,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 465671,
+      "num": 465671,
+      "word": "BLACKPINK将维持四人组",
+      "onboard_time": 1700448811,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 464627,
+      "num": 451736,
+      "word": "张遮没有重生",
+      "onboard_time": 1700447735,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456559,
       "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
@@ -993,14 +1017,6 @@
       "onboard_time": 1700317114,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 451736,
-      "num": 451736,
-      "word": "张遮没有重生",
-      "onboard_time": 1700447735,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 450006,
@@ -1067,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416160,
+      "num": 372584,
+      "word": "电影中三位原型人物评我本是高山",
+      "onboard_time": 1700450495,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 408396,
       "num": 406170,
       "word": "声生不息3路透",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1700381732,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396264,
+      "num": 396264,
+      "word": "网传鸿蒙系统明年将不兼容安卓",
+      "onboard_time": 1700450252,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 393672,
@@ -1483,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310717,
-      "num": 310717,
-      "word": "BLACKPINK将维持四人组",
-      "onboard_time": 1700448811,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307914,
       "num": 307914,
       "word": "快乐老友记",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1700437469,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286195,
+      "num": 286195,
+      "word": "谭松韵新片带狗狗结婚",
+      "onboard_time": 1700450554,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 282886,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1700318915,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261194,
+      "num": 261194,
+      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+      "onboard_time": 1700450136,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260392,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1700399799,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239722,
+      "num": 214459,
+      "word": "秦昊蒋欣新剧定档",
+      "onboard_time": 1700449592,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 239349,
@@ -2235,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211063,
+      "num": 211063,
+      "word": "王鸥新剧演破产主妇",
+      "onboard_time": 1700450193,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210357,
       "num": 210357,
       "word": "快乐老友记制片人一日体验卡",
@@ -2355,14 +2411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202666,
-      "num": 202666,
-      "word": "秦昊蒋欣新剧定档",
-      "onboard_time": 1700449592,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202367,
       "num": 198568,
       "word": "维金斯回来了",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1700397334,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200134,
+      "num": 210979,
+      "word": "A股",
+      "onboard_time": 1700449353,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 200131,
@@ -2505,14 +2561,6 @@
       "onboard_time": 1700395896,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192573,
-      "num": 210979,
-      "word": "A股",
-      "onboard_time": 1700449353,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 192205,
@@ -2747,14 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175503,
-      "num": 175503,
-      "word": "网传鸿蒙系统明年将不兼容安卓",
-      "onboard_time": 1700450252,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 175421,
       "num": 159706,
       "word": "奶茶上的小盖子可以防尘",
@@ -2801,14 +2841,6 @@
       "onboard_time": 1700370929,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170643,
-      "num": 170643,
-      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
-      "onboard_time": 1700450136,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170278,
@@ -2931,6 +2963,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 158168,
+      "num": 158168,
+      "word": "enhypen说公主请吃饭",
+      "onboard_time": 1700450434,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156338,
       "num": 200550,
       "word": "刘诗诗到达长沙",
@@ -3001,14 +3041,6 @@
       "onboard_time": 1700323654,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152359,
-      "num": 152359,
-      "word": "我使馆回应加方否认康明凯等间谍活动",
-      "onboard_time": 1700450136,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152251,
@@ -3171,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141492,
+      "num": 141492,
+      "word": "母亲接记者电话才知儿子救3人",
+      "onboard_time": 1700450793,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141119,
       "num": 141119,
       "word": "张遮怎么会推姜雪宁",
@@ -3201,14 +3241,6 @@
       "onboard_time": 1700361627,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140033,
-      "num": 140033,
-      "word": "王鸥新剧演破产主妇",
-      "onboard_time": 1700450193,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 139994,
@@ -3289,6 +3321,14 @@
       "onboard_time": 1700435786,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 134597,
+      "num": 134597,
+      "word": "被迫嫁人的女孩 她本是高山",
+      "onboard_time": 1700451153,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 134422,
