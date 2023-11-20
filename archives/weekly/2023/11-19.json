@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700461456187,
+  "endTime": 1700462245002,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -75,20 +75,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2380422,
-      "num": 1729562,
-      "word": "想取关某一个人但是又怕太明显",
-      "onboard_time": 1700454941,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2375461,
-      "num": 2375461,
+      "raw_hot": 2531175,
+      "num": 2531175,
       "word": "黄子韬原价2368内场票降至262元",
       "onboard_time": 1700459134,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2380422,
+      "num": 2151645,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2372278,
@@ -121,6 +121,14 @@
       "onboard_time": 1700359350,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2202733,
+      "num": 2202733,
+      "word": "张东健妻子被曝偷税漏税",
+      "onboard_time": 1700461115,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2179614,
@@ -633,14 +641,6 @@
       "onboard_time": 1700397334,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 692556,
-      "num": 692556,
-      "word": "张东健妻子被曝偷税漏税",
-      "onboard_time": 1700461115,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 692439,
@@ -1315,6 +1315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 377820,
+      "num": 291738,
+      "word": "潘玮柏胖瘦自如",
+      "onboard_time": 1700461115,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376981,
       "num": 241122,
       "word": "赵丽颖冷酷脸vs小圆手",
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 361052,
-      "num": 231333,
+      "num": 258009,
       "word": "詹姆斯被狄龙烦死了",
       "onboard_time": 1700458117,
       "rank": 34,
@@ -1531,6 +1539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 344815,
+      "num": 171884,
+      "word": "再忍几年就能点外卖了",
+      "onboard_time": 1700461234,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 344026,
       "num": 344026,
       "word": "阿根廷版特朗普赢得大选",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1700389603,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335202,
+      "num": 335202,
+      "word": "累计超2.3万吨核污水流入大海",
+      "onboard_time": 1700460517,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 330259,
@@ -2131,14 +2155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 252402,
-      "num": 177665,
-      "word": "潘玮柏胖瘦自如",
-      "onboard_time": 1700461115,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252327,
       "num": 252327,
       "word": "徐明浩直播",
@@ -2232,6 +2248,14 @@
       "word": "丁程鑫说我只想赶紧跳舞",
       "onboard_time": 1700379393,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245263,
+      "num": 153879,
+      "word": "吴千语说没有谈过渣男",
+      "onboard_time": 1700461413,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2449,14 +2473,6 @@
       "onboard_time": 1700399799,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223107,
-      "num": 223107,
-      "word": "累计超2.3万吨核污水流入大海",
-      "onboard_time": 1700460517,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 221957,
@@ -3235,14 +3251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171884,
-      "num": 171884,
-      "word": "再忍几年就能点外卖了",
-      "onboard_time": 1700461234,
-      "rank": 32,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 171711,
       "num": 171711,
       "word": "学校期中给3000名学生发甘蔗鲤鱼",
@@ -3275,6 +3283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170113,
+      "num": 170113,
+      "word": "老人给重病儿子办手续医生跑腿又塞钱",
+      "onboard_time": 1700460213,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170058,
       "num": 170058,
       "word": "周口联通否认工程师未完成推销被辞",
@@ -3289,14 +3305,6 @@
       "onboard_time": 1700393330,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168622,
-      "num": 146913,
-      "word": "吴千语说没有谈过渣男",
-      "onboard_time": 1700461413,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 167966,
@@ -3595,14 +3603,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147563,
-      "num": 147563,
-      "word": "老人给重病儿子办手续医生跑腿又塞钱",
-      "onboard_time": 1700460213,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146182,
       "num": 146182,
       "word": "OpenAI宫斗",
@@ -3667,6 +3667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143089,
+      "num": 133913,
+      "word": "外资机构竞相唱多A股",
+      "onboard_time": 1700461413,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143025,
       "num": 143025,
       "word": "战火下的加沙儿童",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1700367331,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140843,
+      "num": 125079,
+      "word": "人民文娱评以爱为营",
+      "onboard_time": 1700462195,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 140073,
@@ -3769,6 +3785,14 @@
       "onboard_time": 1700321076,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136555,
+      "num": 136555,
+      "word": "5岁萌娃给蹲着喂饭的老师搬凳子",
+      "onboard_time": 1700461773,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 136312,
@@ -3859,12 +3883,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131788,
-      "num": 131788,
-      "word": "外资机构竞相唱多A股",
-      "onboard_time": 1700461413,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "腹泻以为是胃病结果是心梗",
+      "onboard_time": 1700461892,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131119,
@@ -4131,6 +4155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104657,
+      "num": 124482,
+      "word": "恋爱应该是没有预知性的行为",
+      "onboard_time": 1700461836,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104205,
       "num": 104205,
       "word": "李沁雪景随拍",
@@ -4161,6 +4193,14 @@
       "onboard_time": 1700431816,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100265,
+      "num": 124253,
+      "word": "冬日好气色妆容",
+      "onboard_time": 1700461836,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 100053,
@@ -4396,7 +4436,7 @@
     },
     {
       "raw_hot": 71100,
-      "num": 1791790,
+      "num": 2311303,
       "word": "全球九大候鸟迁飞区四个经过我国",
       "onboard_time": 1700402139,
       "rank": 2,

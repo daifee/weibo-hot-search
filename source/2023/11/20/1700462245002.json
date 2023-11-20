@@ -1,0 +1,410 @@
+{
+  "runTime": 1700462245002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3044286,
+        "num": 3044286,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2531175,
+        "num": 2531175,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18493,
+        "num": 2311303,
+        "word": "全球九大候鸟迁飞区四个经过我国",
+        "onboard_time": 1700402139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2202733,
+        "num": 2202733,
+        "word": "张东健妻子被曝偷税漏税",
+        "onboard_time": 1700461115,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2151645,
+        "num": 2151645,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1469286,
+        "num": 1469286,
+        "word": "甄嬛传将放完整版",
+        "onboard_time": 1700456616,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 762198,
+        "num": 762198,
+        "word": "雷军",
+        "onboard_time": 1700458295,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 403669,
+        "num": 403669,
+        "word": "专家称不论开放几胎人口都会萎缩",
+        "onboard_time": 1700453075,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335202,
+        "num": 335202,
+        "word": "累计超2.3万吨核污水流入大海",
+        "onboard_time": 1700460517,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 332307,
+        "num": 332307,
+        "word": "艺考文化课成绩门槛提高",
+        "onboard_time": 1700457038,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404142,
+        "num": 310713,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377820,
+        "num": 291738,
+        "word": "潘玮柏胖瘦自如",
+        "onboard_time": 1700461115,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369925,
+        "num": 274536,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355553,
+        "num": 258009,
+        "word": "詹姆斯被狄龙烦死了",
+        "onboard_time": 1700458117,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243400,
+        "num": 243400,
+        "word": "日本核污水第三轮排海今日结束",
+        "onboard_time": 1700455419,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 558975,
+        "num": 235300,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340252,
+        "num": 227486,
+        "word": "又怎么了我的大导演",
+        "onboard_time": 1700454882,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199605,
+        "num": 199605,
+        "word": "警方回应网红夫妇售楼处要账被打",
+        "onboard_time": 1700452776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 172966,
+        "word": "詹姆斯biubiubiu",
+        "onboard_time": 1700457814,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170113,
+        "num": 170113,
+        "word": "老人给重病儿子办手续医生跑腿又塞钱",
+        "onboard_time": 1700460213,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573317,
+        "num": 169889,
+        "word": "体制内的微信沟通礼仪",
+        "onboard_time": 1700457814,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 325476,
+        "num": 166347,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302104,
+        "num": 165198,
+        "word": "杜华欢迎何蓝逗加入乐华",
+        "onboard_time": 1700456920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162374,
+        "num": 162374,
+        "word": "韩国总统祝贺T1夺冠",
+        "onboard_time": 1700448392,
+        "rank": 23,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 159022,
+        "num": 159022,
+        "word": "河南省通信局称将约谈调查周口联通",
+        "onboard_time": 1700455839,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248326,
+        "num": 157186,
+        "word": "白鹿好运来",
+        "onboard_time": 1700459134,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246304,
+        "num": 154906,
+        "word": "刘诗诗hi6逆应援",
+        "onboard_time": 1700459914,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245263,
+        "num": 153879,
+        "word": "吴千语说没有谈过渣男",
+        "onboard_time": 1700461413,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 150295,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136555,
+        "num": 136555,
+        "word": "5岁萌娃给蹲着喂饭的老师搬凳子",
+        "onboard_time": 1700461773,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 344815,
+        "num": 135961,
+        "word": "再忍几年就能点外卖了",
+        "onboard_time": 1700461234,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 242288,
+        "num": 135550,
+        "word": "刘诗诗举牌宣传一念关山",
+        "onboard_time": 1700457158,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236760,
+        "num": 134750,
+        "word": "王心凌 声生不息家年华",
+        "onboard_time": 1700459014,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206007,
+        "num": 134353,
+        "word": "时宴郑书意借着醉意说爱你",
+        "onboard_time": 1700460871,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143089,
+        "num": 133913,
+        "word": "外资机构竞相唱多A股",
+        "onboard_time": 1700461413,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197294,
+        "num": 133272,
+        "word": "赵丽颖冷酷脸vs小圆手",
+        "onboard_time": 1700455238,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 132564,
+        "word": "赵露思王安宇白衬衫拍杂志",
+        "onboard_time": 1700456678,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165493,
+        "num": 131990,
+        "word": "薛之谦演唱会提词器背景图",
+        "onboard_time": 1700456798,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131662,
+        "num": 131662,
+        "word": "腹泻以为是胃病结果是心梗",
+        "onboard_time": 1700461892,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131473,
+        "num": 131473,
+        "word": "詹姆斯罚球绝杀",
+        "onboard_time": 1700458596,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152467,
+        "num": 130986,
+        "word": "曺圭贤遇袭击负伤",
+        "onboard_time": 1700443955,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151932,
+        "num": 130983,
+        "word": "BLACKPINK将维持四人组",
+        "onboard_time": 1700448811,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146304,
+        "num": 130347,
+        "word": "梁洁素颜吃火锅",
+        "onboard_time": 1700452895,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129205,
+        "num": 129205,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700449773,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125157,
+        "num": 125157,
+        "word": "卸妆水好还是卸妆油好",
+        "onboard_time": 1700459314,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140843,
+        "num": 125079,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112706,
+        "num": 124902,
+        "word": "网传鸿蒙系统明年将不兼容安卓",
+        "onboard_time": 1700450252,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105879,
+        "num": 124768,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104657,
+        "num": 124482,
+        "word": "恋爱应该是没有预知性的行为",
+        "onboard_time": 1700461836,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100265,
+        "num": 124253,
+        "word": "冬日好气色妆容",
+        "onboard_time": 1700461836,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的旧金山时间#"
+    }
+  }
+}
