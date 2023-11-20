@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700487244249,
+  "endTime": 1700489860618,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -361,6 +361,14 @@
       "onboard_time": 1700372550,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1385563,
+      "num": 1385563,
+      "word": "头发别耳后如何显脸小",
+      "onboard_time": 1700485532,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 1381350,
@@ -795,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 694173,
+      "num": 694173,
+      "word": "韩媒说国足从未出现过巨星",
+      "onboard_time": 1700486314,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692439,
       "num": 692439,
       "word": "Ning点评WBG教练",
@@ -955,6 +971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 604415,
+      "num": 604415,
+      "word": "Faker拥有一栋大楼",
+      "onboard_time": 1700486556,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 601207,
       "num": 601207,
       "word": "下周做什么都顺的星座",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1700439814,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547909,
+      "num": 547909,
+      "word": "李相夷绝笔",
+      "onboard_time": 1700488236,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 547566,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1700439633,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 502105,
+      "num": 502105,
+      "word": "吴千语和施伯雄在一起的原因",
+      "onboard_time": 1700487757,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 501778,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1700401779,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 434805,
-      "num": 403902,
-      "word": "头发别耳后如何显脸小",
-      "onboard_time": 1700485532,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 433013,
@@ -1723,6 +1755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 366082,
+      "num": 366082,
+      "word": "电视家 跑路",
+      "onboard_time": 1700488774,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 365715,
       "num": 365715,
       "word": "Rookie直播提及Doinb",
@@ -1947,14 +1987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340360,
-      "num": 340360,
-      "word": "韩媒说国足从未出现过巨星",
-      "onboard_time": 1700486314,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338583,
       "num": 338583,
       "word": "吴世勋说中文不烫嘴",
@@ -2019,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330195,
+      "num": 330195,
+      "word": "原来小时候看的剧是这语速",
+      "onboard_time": 1700488536,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329908,
       "num": 316157,
       "word": "张颂文 竹影",
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 327839,
-      "num": 226143,
+      "num": 263894,
       "word": "适合一个人住的31平米独居小屋",
       "onboard_time": 1700486374,
       "rank": 35,
@@ -2209,14 +2249,6 @@
       "onboard_time": 1700435964,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306736,
-      "num": 306736,
-      "word": "Faker拥有一栋大楼",
-      "onboard_time": 1700486556,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 306017,
@@ -2931,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238291,
+      "num": 238291,
+      "word": "浙江两所学院拟更名大学",
+      "onboard_time": 1700488415,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 237807,
       "num": 215042,
       "word": "结婚是否会降低生活质量",
@@ -3147,6 +3187,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 220130,
+      "num": 220130,
+      "word": "蔚来李斌内部讲话流出",
+      "onboard_time": 1700487937,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 219430,
       "num": 219430,
       "word": "BP 线权",
@@ -3235,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215371,
+      "num": 215371,
+      "word": "蛋仔派对被大量投诉套路未成年充值",
+      "onboard_time": 1700487815,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214394,
       "num": 214394,
       "word": "再就业男团一年前vs一年后",
@@ -3265,6 +3321,14 @@
       "onboard_time": 1700479834,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212588,
+      "num": 200674,
+      "word": "刘国梁要求冬训求创新补短板",
+      "onboard_time": 1700487334,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 212261,
@@ -3396,7 +3460,7 @@
     },
     {
       "raw_hot": 204923,
-      "num": 163342,
+      "num": 169195,
       "word": "看到张译前以为是新闻",
       "onboard_time": 1700486615,
       "rank": 36,
@@ -3561,6 +3625,14 @@
       "onboard_time": 1700468613,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200041,
+      "num": 200041,
+      "word": "eStar对战AG",
+      "onboard_time": 1700488774,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 199604,
@@ -3867,6 +3939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181425,
+      "num": 181425,
+      "word": "孕期压力大影响孩子童年心理和行为",
+      "onboard_time": 1700489136,
+      "rank": 35,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 181159,
       "num": 181159,
       "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
@@ -3963,6 +4043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175574,
+      "num": 175574,
+      "word": "有孙答应和狂徒的戏嘛",
+      "onboard_time": 1700487937,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175421,
       "num": 159706,
       "word": "奶茶上的小盖子可以防尘",
@@ -3996,10 +4084,18 @@
     },
     {
       "raw_hot": 172775,
-      "num": 136274,
+      "num": 145324,
       "word": "无所畏惧",
       "onboard_time": 1700485053,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172718,
+      "num": 172718,
+      "word": "年少不知奶狗好 错把渣男当成宝",
+      "onboard_time": 1700489557,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -4363,12 +4459,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152024,
+      "num": 152024,
+      "word": "陈楚生金句稳定输出",
+      "onboard_time": 1700488415,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151688,
       "num": 151688,
       "word": "张远安慰王栎鑫是帅的",
       "onboard_time": 1700390558,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151667,
+      "num": 151667,
+      "word": "以爱为营预告",
+      "onboard_time": 1700489796,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 151332,
@@ -4569,6 +4681,14 @@
       "onboard_time": 1700369008,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142072,
+      "num": 142072,
+      "word": "aespa宁艺卓直拍",
+      "onboard_time": 1700489434,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141590,
@@ -5161,6 +5281,14 @@
       "onboard_time": 1700469275,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98430,
+      "num": 767686,
+      "word": "小朋友给00后民警送甜甜的锦旗",
+      "onboard_time": 1700487635,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97150,

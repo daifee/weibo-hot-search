@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 21:34:04
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 22:17:40
 </p>
 </blockquote>
 <p>
@@ -2423,6 +2423,12 @@ WBG赢了血赚输了不亏（热度：1398092）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%90%A7%E5%81%B6%E9%81%87%E7%BD%97%E4%BA%91%E7%86%99%23" target="weibo">
 韩国网吧偶遇罗云熙（热度：1387451）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F%23" target="weibo">
+头发别耳后如何显脸小（热度：1385563）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ JDG与BLG选手观赛LNG（热度：745242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81NRG%23" target="weibo">
 WBG零封NRG（热度：737335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B1%BC%E9%83%BD%E4%BB%A5%E8%A2%AB%E5%81%9A%E6%88%90%E8%A5%BF%E6%B9%96%E9%86%8B%E9%B1%BC%E4%B8%BA%E8%80%BB%23" target="weibo">
-鱼都以被做成西湖醋鱼为耻（热度：737042）
 </a>
 </li>
 
