@@ -1,0 +1,410 @@
+{
+  "runTime": 1700447440217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100227,
+        "num": 2100227,
+        "word": "韩国顶级明星涉嫌偷税漏税",
+        "onboard_time": 1700443350,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895108,
+        "num": 895108,
+        "word": "河南联通被曝强迫用户更换光猫",
+        "onboard_time": 1700442515,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 23514,
+        "num": 741502,
+        "word": "诗词藏着中国山水间的绝美景致",
+        "onboard_time": 1700398775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568590,
+        "num": 740576,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738905,
+        "num": 738905,
+        "word": "加拿大间谍内讧",
+        "onboard_time": 1700435844,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 483675,
+        "num": 483675,
+        "word": "杨紫李现国色芳华开始置景了",
+        "onboard_time": 1700443712,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481052,
+        "num": 481052,
+        "word": "Ning点评WBG教练",
+        "onboard_time": 1700436024,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 435925,
+        "num": 435925,
+        "word": "男子偷5300被发现还回去2500",
+        "onboard_time": 1700445334,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402212,
+        "num": 402212,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379586,
+        "num": 379586,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1950456,
+        "num": 379536,
+        "word": "曺圭贤遇袭击负伤",
+        "onboard_time": 1700443955,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771975,
+        "num": 374955,
+        "word": "内娱史上最炸裂的6分32秒谈话",
+        "onboard_time": 1700421135,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666179,
+        "num": 372361,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 611479,
+        "num": 367799,
+        "word": "新闻女王海王社死现场",
+        "onboard_time": 1700442392,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366524,
+        "num": 366524,
+        "word": "宁安如梦魔改张遮",
+        "onboard_time": 1700441616,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544098,
+        "num": 365293,
+        "word": "去年河南结婚人数排名全国第二",
+        "onboard_time": 1700445512,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351526,
+        "num": 351526,
+        "word": "27岁研究生离世前一天发文感恩感谢",
+        "onboard_time": 1700399016,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300020,
+        "num": 300020,
+        "word": "T1获胜时的WBG众人",
+        "onboard_time": 1700439932,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269489,
+        "num": 269489,
+        "word": "马斯克回应ChatGPT之父被开除",
+        "onboard_time": 1700444129,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264515,
+        "num": 264515,
+        "word": "快乐老友记",
+        "onboard_time": 1700435964,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349019,
+        "num": 254491,
+        "word": "生理上的反应永远是最真实的",
+        "onboard_time": 1700435603,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296556,
+        "num": 252487,
+        "word": "吃香菜和不吃香菜的都沉默了",
+        "onboard_time": 1700443471,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232045,
+        "num": 232045,
+        "word": "失眠时别硬躺试试离开你的床",
+        "onboard_time": 1700445993,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 211365,
+        "num": 211365,
+        "word": "去年我国初婚人数低于1100万",
+        "onboard_time": 1700418437,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204459,
+        "num": 204459,
+        "word": "运20将接运烈士遗骸归国",
+        "onboard_time": 1700446295,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196105,
+        "num": 196105,
+        "word": "Faker 打出好的比赛是我的荣幸",
+        "onboard_time": 1700441853,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193636,
+        "num": 193636,
+        "word": "吴迪飞退圈",
+        "onboard_time": 1700405737,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191973,
+        "num": 191973,
+        "word": "彭清林30天内完成落户升职上大学",
+        "onboard_time": 1700446473,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191000,
+        "num": 191000,
+        "word": "一加12来了",
+        "onboard_time": 1700446473,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184849,
+        "num": 184849,
+        "word": "美国前第一夫人罗莎琳卡特去世",
+        "onboard_time": 1700439814,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183874,
+        "num": 183874,
+        "word": "魅族21",
+        "onboard_time": 1700447192,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183146,
+        "num": 183146,
+        "word": "冰雨火 陈宇潜入嫌犯内部",
+        "onboard_time": 1700445452,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179047,
+        "num": 179047,
+        "word": "薛之谦伦敦演唱会",
+        "onboard_time": 1700445693,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177307,
+        "num": 177307,
+        "word": "凡人修仙传修仙地图解锁完毕",
+        "onboard_time": 1700446712,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171145,
+        "num": 171145,
+        "word": "前三季度我国569万对新人登记结婚",
+        "onboard_time": 1700439814,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169346,
+        "num": 169346,
+        "word": "德约科维奇 goat",
+        "onboard_time": 1700447251,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160741,
+        "num": 160741,
+        "word": "适合扁头低颅顶的贵气发型",
+        "onboard_time": 1700436806,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159798,
+        "num": 159798,
+        "word": "高振宁 下山的路很吵但能重登吗",
+        "onboard_time": 1700442032,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157502,
+        "num": 157502,
+        "word": "广州地铁",
+        "onboard_time": 1700439994,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150859,
+        "num": 150859,
+        "word": "奥特曼要求OpenAI董事会集体辞职",
+        "onboard_time": 1700444792,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144065,
+        "num": 144065,
+        "word": "吴迪飞退圈的原因",
+        "onboard_time": 1700441075,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143025,
+        "num": 143025,
+        "word": "战火下的加沙儿童",
+        "onboard_time": 1700446952,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142637,
+        "num": 142637,
+        "word": "跳远是件很私密的事",
+        "onboard_time": 1700436386,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137622,
+        "num": 137622,
+        "word": "过度清洁面部皮肤易老化",
+        "onboard_time": 1700447133,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 136332,
+        "num": 136332,
+        "word": "新闻女王 好高境界的骂人方式",
+        "onboard_time": 1700447251,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133822,
+        "num": 133822,
+        "word": "8小时睡眠或许并非人类本能",
+        "onboard_time": 1700435663,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131444,
+        "num": 131444,
+        "word": "水瓶座最喜欢的相处模式",
+        "onboard_time": 1700439033,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130600,
+        "num": 130600,
+        "word": "我优秀的儿子又可以继续看世界了",
+        "onboard_time": 1700446832,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129217,
+        "num": 129217,
+        "word": "阿根廷版特朗普赢得大选",
+        "onboard_time": 1700440054,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126115,
+        "num": 126115,
+        "word": "张桂梅读我本是高山观众祝福",
+        "onboard_time": 1700402262,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金三十年#"
+    }
+  }
+}

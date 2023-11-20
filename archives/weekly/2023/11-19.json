@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700444295690,
+  "endTime": 1700447440217,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -99,6 +99,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2100227,
+      "num": 2100227,
+      "word": "韩国顶级明星涉嫌偷税漏税",
+      "onboard_time": 1700443350,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1950456,
+      "num": 760981,
+      "word": "曺圭贤遇袭击负伤",
+      "onboard_time": 1700443955,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1936301,
       "num": 1936301,
       "word": "吴迪飞退圈",
@@ -185,6 +201,14 @@
       "onboard_time": 1700392367,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1568590,
+      "num": 740576,
+      "word": "BLACKPINK两名成员与YG签订组合约",
+      "onboard_time": 1700445993,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1560395,
@@ -363,8 +387,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 891227,
-      "num": 891227,
+      "raw_hot": 895108,
+      "num": 895108,
       "word": "河南联通被曝强迫用户更换光猫",
       "onboard_time": 1700442515,
       "rank": 22,
@@ -377,14 +401,6 @@
       "onboard_time": 1700367689,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867973,
-      "num": 867973,
-      "word": "韩国顶级明星涉嫌偷税漏税",
-      "onboard_time": 1700443350,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 839720,
@@ -449,14 +465,6 @@
       "onboard_time": 1700387019,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 760981,
-      "num": 760981,
-      "word": "曺圭贤遇袭击负伤",
-      "onboard_time": 1700443955,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 737619,
@@ -603,6 +611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 611479,
+      "num": 432738,
+      "word": "新闻女王海王社死现场",
+      "onboard_time": 1700442392,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611160,
       "num": 392815,
       "word": "陈都灵 马上表演白月光砸缸",
@@ -641,14 +657,6 @@
       "onboard_time": 1700380410,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 595344,
-      "num": 432738,
-      "word": "新闻女王海王社死现场",
-      "onboard_time": 1700442392,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 594240,
@@ -745,6 +753,14 @@
       "onboard_time": 1700403337,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 544098,
+      "num": 365293,
+      "word": "去年河南结婚人数排名全国第二",
+      "onboard_time": 1700445512,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544069,
@@ -883,6 +899,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 483675,
+      "num": 483675,
+      "word": "杨紫李现国色芳华开始置景了",
+      "onboard_time": 1700443712,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477159,
       "num": 1179461,
       "word": "2024载人航天飞行任务标识发布",
@@ -947,12 +971,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433245,
-      "num": 433245,
-      "word": "杨紫李现国色芳华开始置景了",
-      "onboard_time": 1700443712,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 435925,
+      "num": 435925,
+      "word": "男子偷5300被发现还回去2500",
+      "onboard_time": 1700445334,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432818,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1700385811,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 402212,
+      "num": 402212,
+      "word": "以爱为营女主三观",
+      "onboard_time": 1700446654,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 398243,
@@ -1467,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296556,
+      "num": 256756,
+      "word": "吃香菜和不吃香菜的都沉默了",
+      "onboard_time": 1700443471,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 296493,
       "num": 296493,
       "word": "大张伟 只有无聊的人才在比较",
@@ -1619,6 +1659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269489,
+      "num": 269489,
+      "word": "马斯克回应ChatGPT之父被开除",
+      "onboard_time": 1700444129,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 268179,
       "num": 268179,
       "word": "薛之谦竟然有儿子了",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1700317832,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256756,
-      "num": 256756,
-      "word": "吃香菜和不吃香菜的都沉默了",
-      "onboard_time": 1700443471,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 256686,
@@ -1939,6 +1979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232045,
+      "num": 232045,
+      "word": "失眠时别硬躺试试离开你的床",
+      "onboard_time": 1700445993,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 230460,
       "num": 230460,
       "word": "Xiaohu目标想带S赛奖杯回家",
@@ -2163,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "运20将接运烈士遗骸归国",
+      "onboard_time": 1700446295,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203759,
       "num": 203759,
       "word": "胡彦斌 以后要写简单一点的歌",
@@ -2347,12 +2403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191973,
+      "num": 191973,
+      "word": "彭清林30天内完成落户升职上大学",
+      "onboard_time": 1700446473,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 191671,
       "num": 191671,
       "word": "全圆佑直播",
       "onboard_time": 1700436325,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "一加12来了",
+      "onboard_time": 1700446473,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 190990,
@@ -2385,14 +2457,6 @@
       "onboard_time": 1700377952,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188411,
-      "num": 188411,
-      "word": "马斯克回应ChatGPT之父被开除",
-      "onboard_time": 1700444129,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 188093,
@@ -2467,6 +2531,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183874,
+      "num": 183874,
+      "word": "魅族21",
+      "onboard_time": 1700447192,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 183146,
+      "num": 183146,
+      "word": "冰雨火 陈宇潜入嫌犯内部",
+      "onboard_time": 1700445452,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181159,
       "num": 181159,
       "word": "儿子在人群中一眼认出接他放学的残疾妈妈",
@@ -2515,12 +2595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179047,
+      "num": 179047,
+      "word": "薛之谦伦敦演唱会",
+      "onboard_time": 1700445693,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177571,
       "num": 221158,
       "word": "11岁身体折叠隔20年他再见蓝天",
       "onboard_time": 1700401299,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177307,
+      "num": 177307,
+      "word": "凡人修仙传修仙地图解锁完毕",
+      "onboard_time": 1700446712,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 175421,
@@ -2585,6 +2681,14 @@
       "onboard_time": 1700328024,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169346,
+      "num": 169346,
+      "word": "德约科维奇 goat",
+      "onboard_time": 1700447251,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 168852,
@@ -2763,6 +2867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150859,
+      "num": 150859,
+      "word": "奥特曼要求OpenAI董事会集体辞职",
+      "onboard_time": 1700444792,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "谢危看到遮宁撑伞 无法原谅BGM",
@@ -2859,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143025,
+      "num": 143025,
+      "word": "战火下的加沙儿童",
+      "onboard_time": 1700446952,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 142748,
       "num": 142748,
       "word": "新闻女王 没有感情戏的职场剧",
@@ -2939,12 +3059,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137622,
+      "num": 137622,
+      "word": "过度清洁面部皮肤易老化",
+      "onboard_time": 1700447133,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 137259,
       "num": 137259,
       "word": "李现穿中山装唱歌",
       "onboard_time": 1700321076,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136332,
+      "num": 136332,
+      "word": "新闻女王 好高境界的骂人方式",
+      "onboard_time": 1700447251,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 136312,
@@ -3041,6 +3177,14 @@
       "onboard_time": 1700436206,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130600,
+      "num": 130600,
+      "word": "我优秀的儿子又可以继续看世界了",
+      "onboard_time": 1700446832,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 130199,
