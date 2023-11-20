@@ -1,0 +1,410 @@
+{
+  "runTime": 1700501642416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474725,
+        "num": 474725,
+        "word": "黑龙江一女童疑注射阿奇霉素后死亡",
+        "onboard_time": 1700495969,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253402,
+        "num": 253402,
+        "word": "头发别耳后如何显脸小",
+        "onboard_time": 1700485532,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20684,
+        "num": 186836,
+        "word": "小朋友给00后民警送甜甜的锦旗",
+        "onboard_time": 1700487635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177331,
+        "num": 177331,
+        "word": "20省人口自然增长率为负",
+        "onboard_time": 1700497050,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 143181,
+        "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
+        "onboard_time": 1700490936,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126597,
+        "num": 126597,
+        "word": "B站通报人肉开盒案例",
+        "onboard_time": 1700469395,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120432,
+        "num": 120432,
+        "word": "关晓彤檀健次方否认有偿录祝福",
+        "onboard_time": 1700480253,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118639,
+        "num": 118639,
+        "word": "快乐老友记天台直播",
+        "onboard_time": 1700496749,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105953,
+        "num": 105953,
+        "word": "Faker拥有一栋大楼",
+        "onboard_time": 1700486556,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98903,
+        "num": 98903,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256030,
+        "num": 97623,
+        "word": "果敢电诈二代正接管家族黑色产业",
+        "onboard_time": 1700491294,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219556,
+        "num": 96114,
+        "word": "郭碧婷向佐最新视频画风",
+        "onboard_time": 1700491475,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93068,
+        "num": 93068,
+        "word": "李相夷绝笔",
+        "onboard_time": 1700488236,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88179,
+        "num": 88179,
+        "word": "教育局回应中学因财政困难向学生收200元",
+        "onboard_time": 1700492316,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 83228,
+        "num": 83228,
+        "word": "电视家 跑路",
+        "onboard_time": 1700488774,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82377,
+        "num": 82377,
+        "word": "韩国男足称目标是零封国足",
+        "onboard_time": 1700492435,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72385,
+        "num": 72385,
+        "word": "蛋仔派对被大量投诉套路未成年充值",
+        "onboard_time": 1700487815,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71307,
+        "num": 71307,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70960,
+        "num": 70960,
+        "word": "男子长期健身后食用蛋白粉查出肾虚",
+        "onboard_time": 1700491294,
+        "rank": 18,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 37608,
+        "num": 66565,
+        "word": "田柾国 舞台",
+        "onboard_time": 1700482834,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73276,
+        "num": 66283,
+        "word": "奶茶都快做成固体了",
+        "onboard_time": 1700490275,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65011,
+        "num": 65011,
+        "word": "媒体评张桂梅原型电影引争议",
+        "onboard_time": 1700480614,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62066,
+        "num": 62066,
+        "word": "小金土豆好爱他的公主",
+        "onboard_time": 1700492016,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60697,
+        "num": 60697,
+        "word": "适合一个人住的31平米独居小屋",
+        "onboard_time": 1700486374,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60653,
+        "num": 60653,
+        "word": "Rekkles或将加入T1二队",
+        "onboard_time": 1700492795,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53864,
+        "num": 53864,
+        "word": "吴世勋 杂志",
+        "onboard_time": 1700484334,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53724,
+        "num": 53724,
+        "word": "原来小时候看的剧是这语速",
+        "onboard_time": 1700488536,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53198,
+        "num": 53198,
+        "word": "罗英子的委屈热依扎一巴掌还了",
+        "onboard_time": 1700499261,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52136,
+        "num": 52136,
+        "word": "金世正认为女团没实力不重要",
+        "onboard_time": 1700490518,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 51632,
+        "word": "部分艺术类专业不再组织专业考试",
+        "onboard_time": 1700483554,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51611,
+        "num": 51611,
+        "word": "金莎男友 对我来说现在就在上班",
+        "onboard_time": 1700475872,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51147,
+        "num": 51147,
+        "word": "摆脱腰腹赘肉的简单方法",
+        "onboard_time": 1700499682,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 49171,
+        "num": 49171,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48973,
+        "num": 48973,
+        "word": "吴千语和施伯雄在一起的原因",
+        "onboard_time": 1700487757,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48931,
+        "num": 48931,
+        "word": "韩媒说国足从未出现过巨星",
+        "onboard_time": 1700486314,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47830,
+        "num": 48924,
+        "word": "白敬亭晒新鞋",
+        "onboard_time": 1700482112,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 46328,
+        "num": 48912,
+        "word": "易峥 点塔",
+        "onboard_time": 1700494712,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45831,
+        "num": 48901,
+        "word": "张碧晨演唱会 情绪被拿捏",
+        "onboard_time": 1700491596,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45326,
+        "num": 48901,
+        "word": "无所畏惧 第二季",
+        "onboard_time": 1700489975,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44734,
+        "num": 48883,
+        "word": "姜雪宁 爱之深痛之切",
+        "onboard_time": 1700499741,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40403,
+        "num": 48873,
+        "word": "以爱为营大结局点映礼",
+        "onboard_time": 1700481515,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39700,
+        "num": 48865,
+        "word": "虞书欣21分钟演唱会纪录片",
+        "onboard_time": 1700478275,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39611,
+        "num": 48855,
+        "word": "王阳晒无所畏惧2剧本",
+        "onboard_time": 1700497886,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39250,
+        "num": 48841,
+        "word": "姜雪宁受鞭刑",
+        "onboard_time": 1700479116,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38723,
+        "num": 48834,
+        "word": "秦岚辛芷蕾 我俩真没法收场了",
+        "onboard_time": 1700475391,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38434,
+        "num": 48829,
+        "word": "鞠婧祎发型模版",
+        "onboard_time": 1700485473,
+        "rank": 45,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 37336,
+        "num": 48821,
+        "word": "华为称未来将为三个各自独立的操作系统",
+        "onboard_time": 1700482055,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36374,
+        "num": 48805,
+        "word": "大学生实习连续五晚通宵直播后猝死",
+        "onboard_time": 1700470415,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32192,
+        "num": 48798,
+        "word": "浙江两所学院拟更名大学",
+        "onboard_time": 1700488415,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26080,
+        "num": 48791,
+        "word": "OpenAI员工要求恢复奥特曼职位",
+        "onboard_time": 1700493394,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动亚太合作再出发#"
+    }
+  }
+}

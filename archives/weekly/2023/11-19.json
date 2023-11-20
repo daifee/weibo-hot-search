@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700500440165,
+  "endTime": 1700501642416,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -5899,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51147,
+      "num": 54769,
+      "word": "摆脱腰腹赘肉的简单方法",
+      "onboard_time": 1700499682,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 50770,
       "num": 1841661,
       "word": "文物里的长江",
@@ -5921,14 +5929,6 @@
       "onboard_time": 1700388331,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 42131,
-      "num": 54769,
-      "word": "摆脱腰腹赘肉的简单方法",
-      "onboard_time": 1700499682,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 38469,
