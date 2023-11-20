@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700458462037,
+  "endTime": 1700461456187,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -9,6 +9,22 @@
       "onboard_time": 1700451514,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2380422,
+      "num": 1729562,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2375461,
+      "num": 2375461,
+      "word": "黄子韬原价2368内场票降至262元",
+      "onboard_time": 1700459134,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 2282687,
@@ -25,14 +41,6 @@
       "onboard_time": 1700435844,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2168981,
-      "num": 1205718,
-      "word": "想取关某一个人但是又怕太明显",
-      "onboard_time": 1700454941,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 2100227,
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 806112,
+      "num": 806112,
+      "word": "雷军",
+      "onboard_time": 1700458295,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 737619,
       "num": 432776,
       "word": "第一次看见真胃",
@@ -184,6 +200,14 @@
       "word": "恩静大小姐",
       "onboard_time": 1700407234,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 692556,
+      "num": 692556,
+      "word": "张东健妻子被曝偷税漏税",
+      "onboard_time": 1700461115,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -233,6 +257,14 @@
       "onboard_time": 1700392367,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 582339,
+      "num": 220666,
+      "word": "体制内的微信沟通礼仪",
+      "onboard_time": 1700457814,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 575736,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 533743,
-      "num": 243996,
+      "num": 275876,
       "word": "又怎么了我的大导演",
       "onboard_time": 1700454882,
       "rank": 40,
@@ -459,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361052,
+      "num": 231333,
+      "word": "詹姆斯被狄龙烦死了",
+      "onboard_time": 1700458117,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348420,
       "num": 348420,
       "word": "TheShy回应是否退役",
@@ -489,14 +529,6 @@
       "onboard_time": 1700457814,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340227,
-      "num": 220666,
-      "word": "体制内的微信沟通礼仪",
-      "onboard_time": 1700457814,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 337857,
@@ -555,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 303689,
+      "num": 207900,
+      "word": "刘诗诗hi6逆应援",
+      "onboard_time": 1700459914,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301796,
       "num": 301796,
       "word": "吴迪飞退圈的原因",
@@ -569,6 +609,14 @@
       "onboard_time": 1700455839,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297153,
+      "num": 178300,
+      "word": "白鹿好运来",
+      "onboard_time": 1700459134,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296556,
@@ -643,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271322,
+      "num": 179074,
+      "word": "上海一妈妈厨艺大涨被女儿抓包",
+      "onboard_time": 1700459073,
+      "rank": 24,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 270742,
       "num": 270742,
       "word": "WBG发文告别S13",
@@ -667,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252402,
+      "num": 177665,
+      "word": "潘玮柏胖瘦自如",
+      "onboard_time": 1700461115,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252255,
       "num": 252255,
       "word": "曾舜晞 雪景",
@@ -681,14 +745,6 @@
       "onboard_time": 1700440654,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 250575,
-      "num": 208344,
-      "word": "詹姆斯被狄龙烦死了",
-      "onboard_time": 1700458117,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 249811,
@@ -729,6 +785,14 @@
       "onboard_time": 1700441853,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241062,
+      "num": 176318,
+      "word": "王心凌 声生不息家年华",
+      "onboard_time": 1700459014,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 239777,
@@ -787,6 +851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223107,
+      "num": 223107,
+      "word": "累计超2.3万吨核污水流入大海",
+      "onboard_time": 1700460517,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 221957,
       "num": 221957,
       "word": "曹圭贤伤势并不严重",
@@ -819,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217546,
+      "num": 174100,
+      "word": "时宴郑书意借着醉意说爱你",
+      "onboard_time": 1700460871,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217120,
       "num": 217120,
       "word": "德约科维奇 goat",
@@ -835,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212497,
-      "num": 212497,
-      "word": "雷军",
-      "onboard_time": 1700458295,
-      "rank": 29,
-      "category": "汽车"
+      "raw_hot": 214264,
+      "num": 148264,
+      "word": "谢危智性恋天堂",
+      "onboard_time": 1700460333,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 212261,
@@ -1147,12 +1227,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171884,
+      "num": 171884,
+      "word": "再忍几年就能点外卖了",
+      "onboard_time": 1700461234,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 170058,
       "num": 170058,
       "word": "周口联通否认工程师未完成推销被辞",
       "onboard_time": 1700456437,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168622,
+      "num": 146913,
+      "word": "吴千语说没有谈过渣男",
+      "onboard_time": 1700461413,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 167513,
@@ -1209,6 +1305,14 @@
       "onboard_time": 1700406035,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160825,
+      "num": 160825,
+      "word": "詹姆斯罚球绝杀",
+      "onboard_time": 1700458596,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 159729,
@@ -1297,6 +1401,22 @@
       "onboard_time": 1700398058,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147657,
+      "num": 147657,
+      "word": "卸妆水好还是卸妆油好",
+      "onboard_time": 1700459314,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 147563,
+      "num": 147563,
+      "word": "老人给重病儿子办手续医生跑腿又塞钱",
+      "onboard_time": 1700460213,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146182,
@@ -1393,6 +1513,14 @@
       "onboard_time": 1700452294,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131788,
+      "num": 131788,
+      "word": "外资机构竞相唱多A股",
+      "onboard_time": 1700461413,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 131119,
@@ -1692,7 +1820,7 @@
     },
     {
       "raw_hot": 40063,
-      "num": 1298911,
+      "num": 1791790,
       "word": "全球九大候鸟迁飞区四个经过我国",
       "onboard_time": 1700402139,
       "rank": 2,

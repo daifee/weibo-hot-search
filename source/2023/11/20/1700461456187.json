@@ -1,0 +1,410 @@
+{
+  "runTime": 1700461456187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3520291,
+        "num": 3520291,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2375461,
+        "num": 2375461,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18444,
+        "num": 1791790,
+        "word": "全球九大候鸟迁飞区四个经过我国",
+        "onboard_time": 1700402139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2380422,
+        "num": 1729562,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1478248,
+        "num": 1478248,
+        "word": "甄嬛传将放完整版",
+        "onboard_time": 1700456616,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 806112,
+        "num": 806112,
+        "word": "雷军",
+        "onboard_time": 1700458295,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 692556,
+        "num": 692556,
+        "word": "张东健妻子被曝偷税漏税",
+        "onboard_time": 1700461115,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383843,
+        "num": 383843,
+        "word": "专家称不论开放几胎人口都会萎缩",
+        "onboard_time": 1700453075,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326473,
+        "num": 326473,
+        "word": "艺考文化课成绩门槛提高",
+        "onboard_time": 1700457038,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297149,
+        "num": 297149,
+        "word": "日本核污水第三轮排海今日结束",
+        "onboard_time": 1700455419,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 479759,
+        "num": 286404,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380642,
+        "num": 275876,
+        "word": "又怎么了我的大导演",
+        "onboard_time": 1700454882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372993,
+        "num": 253507,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361052,
+        "num": 231333,
+        "word": "詹姆斯被狄龙烦死了",
+        "onboard_time": 1700458117,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223107,
+        "num": 223107,
+        "word": "累计超2.3万吨核污水流入大海",
+        "onboard_time": 1700460517,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 541616,
+        "num": 219753,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366416,
+        "num": 218191,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351584,
+        "num": 218050,
+        "word": "杜华欢迎何蓝逗加入乐华",
+        "onboard_time": 1700456920,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214085,
+        "num": 214085,
+        "word": "警方回应网红夫妇售楼处要账被打",
+        "onboard_time": 1700452776,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213275,
+        "num": 213275,
+        "word": "河南省通信局称将约谈调查周口联通",
+        "onboard_time": 1700455839,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582339,
+        "num": 212703,
+        "word": "体制内的微信沟通礼仪",
+        "onboard_time": 1700457814,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 303689,
+        "num": 207900,
+        "word": "刘诗诗hi6逆应援",
+        "onboard_time": 1700459914,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 185171,
+        "word": "詹姆斯biubiubiu",
+        "onboard_time": 1700457814,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179764,
+        "num": 179764,
+        "word": "她不回你信息真的是因为没时间吗",
+        "onboard_time": 1700455419,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271322,
+        "num": 179074,
+        "word": "上海一妈妈厨艺大涨被女儿抓包",
+        "onboard_time": 1700459073,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 297153,
+        "num": 178300,
+        "word": "白鹿好运来",
+        "onboard_time": 1700459134,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252402,
+        "num": 177665,
+        "word": "潘玮柏胖瘦自如",
+        "onboard_time": 1700461115,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248558,
+        "num": 177053,
+        "word": "刘诗诗举牌宣传一念关山",
+        "onboard_time": 1700457158,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241062,
+        "num": 176318,
+        "word": "王心凌 声生不息家年华",
+        "onboard_time": 1700459014,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175889,
+        "num": 175889,
+        "word": "韩国总统祝贺T1夺冠",
+        "onboard_time": 1700448392,
+        "rank": 29,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 217546,
+        "num": 174100,
+        "word": "时宴郑书意借着醉意说爱你",
+        "onboard_time": 1700460871,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215950,
+        "num": 173888,
+        "word": "赵丽颖冷酷脸vs小圆手",
+        "onboard_time": 1700455238,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171884,
+        "num": 171884,
+        "word": "再忍几年就能点外卖了",
+        "onboard_time": 1700461234,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 160825,
+        "num": 160825,
+        "word": "詹姆斯罚球绝杀",
+        "onboard_time": 1700458596,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148324,
+        "num": 148324,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214264,
+        "num": 148264,
+        "word": "谢危智性恋天堂",
+        "onboard_time": 1700460333,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203024,
+        "num": 148173,
+        "word": "薛之谦演唱会提词器背景图",
+        "onboard_time": 1700456798,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189289,
+        "num": 148056,
+        "word": "赵露思王安宇白衬衫拍杂志",
+        "onboard_time": 1700456678,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147657,
+        "num": 147657,
+        "word": "卸妆水好还是卸妆油好",
+        "onboard_time": 1700459314,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147563,
+        "num": 147563,
+        "word": "老人给重病儿子办手续医生跑腿又塞钱",
+        "onboard_time": 1700460213,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188841,
+        "num": 147264,
+        "word": "曺圭贤遇袭击负伤",
+        "onboard_time": 1700443955,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168622,
+        "num": 146913,
+        "word": "吴千语说没有谈过渣男",
+        "onboard_time": 1700461413,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 146068,
+        "word": "韩国顶级明星涉嫌偷税漏税",
+        "onboard_time": 1700443350,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157185,
+        "num": 145530,
+        "word": "梁洁素颜吃火锅",
+        "onboard_time": 1700452895,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154780,
+        "num": 145368,
+        "word": "BLACKPINK将维持四人组",
+        "onboard_time": 1700448811,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144885,
+        "num": 144885,
+        "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+        "onboard_time": 1700450136,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132775,
+        "num": 132775,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700449773,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131788,
+        "num": 131788,
+        "word": "外资机构竞相唱多A股",
+        "onboard_time": 1700461413,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117905,
+        "num": 117905,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116434,
+        "num": 116434,
+        "word": "网传鸿蒙系统明年将不兼容安卓",
+        "onboard_time": 1700450252,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金三十年#"
+    }
+  }
+}
