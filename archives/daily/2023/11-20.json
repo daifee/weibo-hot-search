@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700476682885,
+  "endTime": 1700478938766,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 935716,
+      "num": 935716,
+      "word": "何猷君 能不能叫我小金薯条",
+      "onboard_time": 1700464292,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 921207,
       "num": 921207,
       "word": "河南联通被曝强迫用户更换光猫",
@@ -241,6 +249,14 @@
       "onboard_time": 1700448272,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 824239,
+      "num": 824239,
+      "word": "贺峻霖获中传奖学金",
+      "onboard_time": 1700478275,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 811752,
@@ -283,20 +299,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 772626,
-      "num": 772626,
+      "raw_hot": 801206,
+      "num": 801206,
       "word": "秦岚辛芷蕾 我俩真没法收场了",
       "onboard_time": 1700475391,
       "rank": 31,
       "category": "综艺"
     },
     {
-      "raw_hot": 763846,
-      "num": 482239,
-      "word": "何猷君 能不能叫我小金薯条",
-      "onboard_time": 1700464292,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 778143,
+      "num": 778143,
+      "word": "专家称人民币12月可能进入正式升值通道",
+      "onboard_time": 1700476235,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 738069,
+      "num": 738069,
+      "word": "金莎男友 对我来说现在就在上班",
+      "onboard_time": 1700475872,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 737619,
@@ -329,6 +353,14 @@
       "onboard_time": 1700436024,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 681190,
+      "num": 1078302,
+      "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
+      "onboard_time": 1700475872,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654700,
@@ -465,14 +497,6 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 516411,
-      "num": 516411,
-      "word": "金莎男友 对我来说现在就在上班",
-      "onboard_time": 1700475872,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 503438,
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340659,
+      "num": 340659,
+      "word": "一念关山",
+      "onboard_time": 1700476120,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337857,
       "num": 227293,
       "word": "Reese 害怕没有女性参与创作的剧本",
@@ -859,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311440,
+      "num": 311440,
+      "word": "虞书欣21分钟演唱会纪录片",
+      "onboard_time": 1700478275,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 307914,
       "num": 307914,
       "word": "快乐老友记",
@@ -897,6 +937,14 @@
       "onboard_time": 1700455839,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297399,
+      "num": 239924,
+      "word": "以爱为营",
+      "onboard_time": 1700477074,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 297153,
@@ -945,14 +993,6 @@
       "onboard_time": 1700385390,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287254,
-      "num": 287254,
-      "word": "专家称人民币12月可能进入正式升值通道",
-      "onboard_time": 1700476235,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 286566,
@@ -1019,14 +1059,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 265274,
-      "num": 265274,
-      "word": "一念关山",
-      "onboard_time": 1700476120,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260804,
       "num": 181907,
       "word": "VOGUE时尚盛典阵容",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1700406218,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254811,
+      "num": 254811,
+      "word": "医学专硕转行现状",
+      "onboard_time": 1700475756,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 252255,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1700470773,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248806,
+      "num": 233978,
+      "word": "陈乔恩闭关减肥",
+      "onboard_time": 1700478153,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 248738,
@@ -1115,14 +1163,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 243127,
-      "num": 243127,
-      "word": "医学专硕转行现状",
-      "onboard_time": 1700475756,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 241415,
       "num": 241415,
       "word": "Faker 打出好的比赛是我的荣幸",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1700459014,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240685,
+      "num": 240685,
+      "word": "羽绒服何时卖到五位数的",
+      "onboard_time": 1700476411,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 239777,
@@ -1233,6 +1281,30 @@
       "onboard_time": 1700407536,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 227784,
+      "num": 206592,
+      "word": "许凯景甜互换头像",
+      "onboard_time": 1700475934,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226710,
+      "num": 156632,
+      "word": "宁安如梦",
+      "onboard_time": 1700400696,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225207,
+      "num": 117950,
+      "word": "潘玮柏瘦了",
+      "onboard_time": 1700478094,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 221957,
@@ -1339,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209626,
+      "num": 862559,
+      "word": "4位高中同学连续四年资助去世同学家庭",
+      "onboard_time": 1700477794,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 207096,
       "num": 207096,
       "word": "王子奇你是李二牛的劫",
@@ -1361,14 +1441,6 @@
       "onboard_time": 1700442032,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 206592,
-      "num": 206592,
-      "word": "许凯景甜互换头像",
-      "onboard_time": 1700475934,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 206522,
@@ -1473,14 +1545,6 @@
       "onboard_time": 1700468613,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199215,
-      "num": 1002271,
-      "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
-      "onboard_time": 1700475872,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199038,
@@ -1715,14 +1779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171832,
-      "num": 171832,
-      "word": "羽绒服何时卖到五位数的",
-      "onboard_time": 1700476411,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 170058,
       "num": 170058,
       "word": "周口联通否认工程师未完成推销被辞",
@@ -1865,14 +1921,6 @@
       "onboard_time": 1700474796,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156632,
-      "num": 156632,
-      "word": "宁安如梦",
-      "onboard_time": 1700400696,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 155431,
@@ -2361,6 +2409,14 @@
       "onboard_time": 1700463093,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95919,
+      "num": 118390,
+      "word": "买车我劝你一步到位",
+      "onboard_time": 1700478634,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 94309,
