@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700514976242,
+  "endTime": 1700516058762,
   "band_list": [
     {
       "raw_hot": 874813,
@@ -507,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11006,
-      "num": 14613,
+      "raw_hot": 13040,
+      "num": 19546,
       "word": "王毅会见阿拉伯伊斯兰国家外长联合代表团",
       "onboard_time": 1700513533,
       "rank": 43,
@@ -521,6 +521,14 @@
       "onboard_time": 1700506035,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9627,
+      "num": 19561,
+      "word": "民警逛超市顺便帮店主止损14万",
+      "onboard_time": 1700515153,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
