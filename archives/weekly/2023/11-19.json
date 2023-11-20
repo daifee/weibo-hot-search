@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700457434828,
+  "endTime": 1700458462037,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -115,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2168981,
+      "num": 1205718,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2100227,
       "num": 2100227,
       "word": "韩国顶级明星涉嫌偷税漏税",
@@ -123,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2067956,
-      "num": 946308,
-      "word": "想取关某一个人但是又怕太明显",
-      "onboard_time": 1700454941,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 1949035,
+      "num": 1949035,
+      "word": "甄嬛传将放完整版",
+      "onboard_time": 1700456616,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1936301,
@@ -385,14 +393,6 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1001952,
-      "num": 1001952,
-      "word": "甄嬛传将放完整版",
-      "onboard_time": 1700456616,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 990739,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 616652,
-      "num": 316196,
+      "num": 343667,
       "word": "薛之谦演唱会提词器背景图",
       "onboard_time": 1700456798,
       "rank": 11,
@@ -843,8 +843,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 558044,
-      "num": 275088,
+      "raw_hot": 559238,
+      "num": 344102,
       "word": "杜华欢迎何蓝逗加入乐华",
       "onboard_time": 1700456920,
       "rank": 16,
@@ -1243,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 393001,
+      "num": 223577,
+      "word": "刘诗诗举牌宣传一念关山",
+      "onboard_time": 1700457158,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392647,
       "num": 392647,
       "word": "白桃星座",
@@ -1475,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346080,
+      "num": 346080,
+      "word": "艺考文化课成绩门槛提高",
+      "onboard_time": 1700457038,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 344026,
       "num": 344026,
       "word": "阿根廷版特朗普赢得大选",
@@ -1507,12 +1523,28 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 341299,
+      "num": 341299,
+      "word": "詹姆斯biubiubiu",
+      "onboard_time": 1700457814,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341225,
       "num": 341225,
       "word": "辽宁男篮支持张镇麟捍卫权益",
       "onboard_time": 1700373391,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340227,
+      "num": 220666,
+      "word": "体制内的微信沟通礼仪",
+      "onboard_time": 1700457814,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 338583,
@@ -1564,7 +1596,7 @@
     },
     {
       "raw_hot": 324296,
-      "num": 191105,
+      "num": 217494,
       "word": "赵露思王安宇白衬衫拍杂志",
       "onboard_time": 1700456678,
       "rank": 30,
@@ -1793,14 +1825,6 @@
       "onboard_time": 1700402557,
       "rank": 32,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 287921,
-      "num": 185561,
-      "word": "刘诗诗举牌宣传一念关山",
-      "onboard_time": 1700457158,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 286566,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1700440654,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250575,
+      "num": 208344,
+      "word": "詹姆斯被狄龙烦死了",
+      "onboard_time": 1700458117,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 249811,
@@ -2387,14 +2419,6 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 219689,
-      "num": 219689,
-      "word": "艺考文化课成绩门槛提高",
-      "onboard_time": 1700457038,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 219430,
       "num": 219430,
       "word": "BP 线权",
@@ -2483,6 +2507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212497,
+      "num": 212497,
+      "word": "雷军",
+      "onboard_time": 1700458295,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 212261,
       "num": 212261,
       "word": "秋冬气质低马尾",
@@ -2528,6 +2560,14 @@
       "word": "危宁大婚造型",
       "onboard_time": 1700375190,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207096,
+      "num": 207096,
+      "word": "王子奇你是李二牛的劫",
+      "onboard_time": 1700456078,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2587,6 +2627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205859,
+      "num": 205859,
+      "word": "威神V 公主请听新专辑",
+      "onboard_time": 1700457576,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "运20将接运烈士遗骸归国",
@@ -2596,7 +2644,7 @@
     },
     {
       "raw_hot": 204456,
-      "num": 204456,
+      "num": 213334,
       "word": "她不回你信息真的是因为没时间吗",
       "onboard_time": 1700455419,
       "rank": 24,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1700406938,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201372,
+      "num": 201372,
+      "word": "吴千语施伯雄加盟爱的修学旅行",
+      "onboard_time": 1700458356,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 200862,
@@ -2841,6 +2897,14 @@
       "onboard_time": 1700436325,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191314,
+      "num": 206359,
+      "word": "湖人战胜火箭",
+      "onboard_time": 1700457693,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 191000,
@@ -4204,7 +4268,7 @@
     },
     {
       "raw_hot": 71100,
-      "num": 1291607,
+      "num": 1298911,
       "word": "全球九大候鸟迁飞区四个经过我国",
       "onboard_time": 1700402139,
       "rank": 2,
@@ -4283,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46071,
+      "num": 285725,
+      "word": "黄河文化有多璀璨",
+      "onboard_time": 1700456437,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 42546,
       "num": 341460,
       "word": "车大就一定空间大吗",
@@ -4297,14 +4369,6 @@
       "onboard_time": 1700325389,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38077,
-      "num": 275490,
-      "word": "黄河文化有多璀璨",
-      "onboard_time": 1700456437,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 36239,

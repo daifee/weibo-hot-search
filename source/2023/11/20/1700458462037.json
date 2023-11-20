@@ -1,0 +1,410 @@
+{
+  "runTime": 1700458462037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6965341,
+        "num": 6965341,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1949035,
+        "num": 1949035,
+        "word": "甄嬛传将放完整版",
+        "onboard_time": 1700456616,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24483,
+        "num": 1298911,
+        "word": "全球九大候鸟迁飞区四个经过我国",
+        "onboard_time": 1700402139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2168981,
+        "num": 1205718,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732659,
+        "num": 732659,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 776744,
+        "num": 625603,
+        "word": "我本是高山 网吧",
+        "onboard_time": 1700452718,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510766,
+        "num": 510766,
+        "word": "专家称不论开放几胎人口都会萎缩",
+        "onboard_time": 1700453075,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413431,
+        "num": 413431,
+        "word": "日本核污水第三轮排海今日结束",
+        "onboard_time": 1700455419,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 375950,
+        "num": 375950,
+        "word": "警方回应网红夫妇售楼处要账被打",
+        "onboard_time": 1700452776,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346080,
+        "num": 346080,
+        "word": "艺考文化课成绩门槛提高",
+        "onboard_time": 1700457038,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 563624,
+        "num": 344324,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559238,
+        "num": 344102,
+        "word": "杜华欢迎何蓝逗加入乐华",
+        "onboard_time": 1700456920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475132,
+        "num": 343667,
+        "word": "薛之谦演唱会提词器背景图",
+        "onboard_time": 1700456798,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341299,
+        "num": 341299,
+        "word": "詹姆斯biubiubiu",
+        "onboard_time": 1700457814,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46071,
+        "num": 285725,
+        "word": "黄河文化有多璀璨",
+        "onboard_time": 1700456437,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 834200,
+        "num": 284000,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473396,
+        "num": 282508,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275072,
+        "num": 275072,
+        "word": "河南省通信局称将约谈调查周口联通",
+        "onboard_time": 1700455839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256976,
+        "num": 256976,
+        "word": "韩国总统祝贺T1夺冠",
+        "onboard_time": 1700448392,
+        "rank": 18,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 227248,
+        "num": 227248,
+        "word": "网传鸿蒙系统明年将不兼容安卓",
+        "onboard_time": 1700450252,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 470825,
+        "num": 225594,
+        "word": "又怎么了我的大导演",
+        "onboard_time": 1700454882,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393001,
+        "num": 223577,
+        "word": "刘诗诗举牌宣传一念关山",
+        "onboard_time": 1700457158,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340227,
+        "num": 220666,
+        "word": "体制内的微信沟通礼仪",
+        "onboard_time": 1700457814,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 333010,
+        "num": 220013,
+        "word": "赵丽颖冷酷脸vs小圆手",
+        "onboard_time": 1700455238,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218466,
+        "num": 218466,
+        "word": "杜兰特又是45度",
+        "onboard_time": 1700454581,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314396,
+        "num": 217494,
+        "word": "赵露思王安宇白衬衫拍杂志",
+        "onboard_time": 1700456678,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293077,
+        "num": 216788,
+        "word": "曺圭贤遇袭击负伤",
+        "onboard_time": 1700443955,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214914,
+        "num": 214914,
+        "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+        "onboard_time": 1700450136,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203154,
+        "num": 213334,
+        "word": "她不回你信息真的是因为没时间吗",
+        "onboard_time": 1700455419,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212497,
+        "num": 212497,
+        "word": "雷军",
+        "onboard_time": 1700458295,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266103,
+        "num": 212148,
+        "word": "韩国顶级明星涉嫌偷税漏税",
+        "onboard_time": 1700443350,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262917,
+        "num": 210756,
+        "word": "梁洁素颜吃火锅",
+        "onboard_time": 1700452895,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260985,
+        "num": 209965,
+        "word": "以爱为营 降智",
+        "onboard_time": 1700448272,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185705,
+        "num": 208917,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700449773,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250575,
+        "num": 208344,
+        "word": "詹姆斯被狄龙烦死了",
+        "onboard_time": 1700458117,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230437,
+        "num": 207530,
+        "word": "刘诗诗刘宇宁hi6上班路透",
+        "onboard_time": 1700453194,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207096,
+        "num": 207096,
+        "word": "王子奇你是李二牛的劫",
+        "onboard_time": 1700456078,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191314,
+        "num": 206359,
+        "word": "湖人战胜火箭",
+        "onboard_time": 1700457693,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162264,
+        "num": 206211,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153006,
+        "num": 206141,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206128,
+        "num": 206128,
+        "word": "宁安如梦断更两天",
+        "onboard_time": 1700453374,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205859,
+        "num": 205859,
+        "word": "威神V 公主请听新专辑",
+        "onboard_time": 1700457576,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201372,
+        "num": 201372,
+        "word": "吴千语施伯雄加盟爱的修学旅行",
+        "onboard_time": 1700458356,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152018,
+        "num": 200186,
+        "word": "Ning点评WBG教练",
+        "onboard_time": 1700436024,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199661,
+        "num": 199661,
+        "word": "电影中三位原型人物评我本是高山",
+        "onboard_time": 1700450495,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186276,
+        "num": 186276,
+        "word": "DINO首次solo",
+        "onboard_time": 1700453735,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145720,
+        "num": 145720,
+        "word": "西双版纳妆",
+        "onboard_time": 1700455060,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144810,
+        "num": 144810,
+        "word": "加拿大间谍内讧",
+        "onboard_time": 1700435844,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138475,
+        "num": 138475,
+        "word": "周口联通否认工程师未完成推销被辞",
+        "onboard_time": 1700456437,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 138465,
+        "word": "秋冬气质低马尾",
+        "onboard_time": 1700454762,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金三十年#"
+    }
+  }
+}
