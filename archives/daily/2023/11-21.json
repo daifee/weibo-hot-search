@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700519723667,
+  "endTime": 1700522302644,
   "band_list": [
     {
       "raw_hot": 874813,
@@ -19,11 +19,19 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 516675,
-      "num": 516675,
+      "raw_hot": 756748,
+      "num": 756748,
       "word": "黑龙江一女童疑注射阿奇霉素后死亡",
       "onboard_time": 1700495969,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653226,
+      "num": 653226,
+      "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
+      "onboard_time": 1700490936,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -43,11 +51,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356177,
-      "num": 356177,
-      "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
-      "onboard_time": 1700490936,
-      "rank": 3,
+      "raw_hot": 432579,
+      "num": 432579,
+      "word": "顾客扫码点餐法院判商家赔5000",
+      "onboard_time": 1700503337,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -99,8 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229586,
-      "num": 229586,
+      "raw_hot": 231809,
+      "num": 231809,
       "word": "关晓彤檀健次方否认有偿录祝福",
       "onboard_time": 1700480253,
       "rank": 9,
@@ -113,6 +121,14 @@
       "onboard_time": 1700492795,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210041,
+      "num": 210041,
+      "word": "媒体评张桂梅原型电影引争议",
+      "onboard_time": 1700480614,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 209649,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158665,
-      "num": 158665,
-      "word": "顾客扫码点餐法院判商家赔5000",
-      "onboard_time": 1700503337,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151331,
       "num": 151331,
       "word": "乌尔善取关",
@@ -227,8 +235,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122556,
-      "num": 122556,
+      "raw_hot": 132178,
+      "num": 132178,
+      "word": "适合一个人住的31平米独居小屋",
+      "onboard_time": 1700486374,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131638,
+      "num": 131638,
       "word": "韩媒说国足从未出现过巨星",
       "onboard_time": 1700486314,
       "rank": 27,
@@ -243,28 +259,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 113381,
-      "num": 113381,
-      "word": "适合一个人住的31平米独居小屋",
-      "onboard_time": 1700486374,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111080,
       "num": 111080,
       "word": "人民文娱评以爱为营",
       "onboard_time": 1700462195,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107488,
-      "num": 107488,
-      "word": "媒体评张桂梅原型电影引争议",
-      "onboard_time": 1700480614,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 105878,
@@ -323,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98598,
+      "num": 98598,
+      "word": "年少不知奶狗好 错把渣男当成宝",
+      "onboard_time": 1700489557,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97179,
       "num": 97179,
       "word": "以爱为营大结局点映礼",
       "onboard_time": 1700481515,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88490,
+      "num": 88490,
+      "word": "摆脱腰腹赘肉的简单方法",
+      "onboard_time": 1700499682,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 87370,
@@ -363,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78188,
+      "num": 69724,
+      "word": "上海医药董事长周军因个人原因辞职",
+      "onboard_time": 1700522064,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78127,
+      "num": 69561,
+      "word": "学校通知 规则怪谈",
+      "onboard_time": 1700521402,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77594,
       "num": 85300,
       "word": "无所畏惧大结局",
@@ -371,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75500,
+      "num": 75500,
+      "word": "舅舅生气外甥女们一人亲一口哄好",
+      "onboard_time": 1700521341,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72960,
       "num": 76583,
       "word": "虞书欣21分钟演唱会纪录片",
       "onboard_time": 1700478275,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72855,
+      "num": 72855,
+      "word": "罗英子的委屈热依扎一巴掌还了",
+      "onboard_time": 1700499261,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 72032,
@@ -395,12 +443,36 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 70427,
+      "num": 70427,
+      "word": "准新郎结婚前一天跳河救落水儿童",
+      "onboard_time": 1700521341,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69760,
       "num": 85297,
       "word": "浙江两所学院拟更名大学",
       "onboard_time": 1700488415,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 69160,
+      "num": 69160,
+      "word": "电视家公告称不会跑路",
+      "onboard_time": 1700522064,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 68047,
+      "num": 70027,
+      "word": "甄嬛传的风还是吹进了刑侦剧",
+      "onboard_time": 1700485833,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 64302,
@@ -411,12 +483,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 57799,
-      "num": 57799,
-      "word": "罗英子的委屈热依扎一巴掌还了",
-      "onboard_time": 1700499261,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 58480,
+      "num": 58480,
+      "word": "入冬了老公每次开门前先摸地",
+      "onboard_time": 1700484272,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 55692,
@@ -436,19 +508,11 @@
     },
     {
       "raw_hot": 54561,
-      "num": 415222,
+      "num": 509632,
       "word": "小朋友给00后民警送甜甜的锦旗",
       "onboard_time": 1700487635,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51147,
-      "num": 54769,
-      "word": "摆脱腰腹赘肉的简单方法",
-      "onboard_time": 1700499682,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 48897,
@@ -457,14 +521,6 @@
       "onboard_time": 1700475391,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42563,
-      "num": 42563,
-      "word": "年少不知奶狗好 错把渣男当成宝",
-      "onboard_time": 1700489557,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 41504,
@@ -481,6 +537,22 @@
       "onboard_time": 1700479116,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38670,
+      "num": 43138,
+      "word": "快乐减肥操",
+      "onboard_time": 1700520560,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 30988,
+      "num": 69913,
+      "word": "民警逛超市顺便帮店主止损14万",
+      "onboard_time": 1700515153,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23854,
@@ -513,14 +585,6 @@
       "onboard_time": 1700513533,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15632,
-      "num": 31464,
-      "word": "民警逛超市顺便帮店主止损14万",
-      "onboard_time": 1700515153,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13541,
