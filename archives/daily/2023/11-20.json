@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700490967417,
+  "endTime": 1700493585037,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1227684,
+      "num": 1227684,
+      "word": "电视家 跑路",
+      "onboard_time": 1700488774,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1178240,
       "num": 1178240,
       "word": "韩国总统祝贺T1夺冠",
@@ -275,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 861000,
-      "num": 861000,
-      "word": "电视家 跑路",
-      "onboard_time": 1700488774,
-      "rank": 13,
-      "category": "互联网"
+      "raw_hot": 855042,
+      "num": 384623,
+      "word": "郭碧婷向佐最新视频画风",
+      "onboard_time": 1700491475,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 824239,
@@ -369,6 +377,14 @@
       "onboard_time": 1700466573,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732611,
+      "num": 732611,
+      "word": "男子长期健身后食用蛋白粉查出肾虚",
+      "onboard_time": 1700491294,
+      "rank": 3,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 715629,
@@ -491,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 585400,
+      "num": 585400,
+      "word": "蛋仔派对被大量投诉套路未成年充值",
+      "onboard_time": 1700487815,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 582339,
       "num": 237853,
       "word": "体制内的微信沟通礼仪",
@@ -529,6 +553,14 @@
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 562459,
+      "num": 381709,
+      "word": "果敢电诈二代正接管家族黑色产业",
+      "onboard_time": 1700491294,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559238,
@@ -585,6 +617,14 @@
       "onboard_time": 1700479416,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 509747,
+      "num": 509747,
+      "word": "金世正认为女团没实力不重要",
+      "onboard_time": 1700490518,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 503438,
@@ -867,14 +907,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 379944,
-      "num": 379944,
-      "word": "金世正认为女团没实力不重要",
-      "onboard_time": 1700490518,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 379530,
       "num": 379530,
       "word": "适合扁头低颅顶的贵气发型",
@@ -955,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339826,
+      "num": 339826,
+      "word": "张碧晨演唱会 情绪被拿捏",
+      "onboard_time": 1700491596,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 337857,
       "num": 227293,
       "word": "Reese 害怕没有女性参与创作的剧本",
@@ -984,6 +1024,22 @@
       "word": "Keria 轻音乐之神",
       "onboard_time": 1700468252,
       "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 332072,
+      "num": 332072,
+      "word": "教育局回应中学因财政困难向学生收200元",
+      "onboard_time": 1700492316,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 330922,
+      "num": 330922,
+      "word": "Rekkles或将加入T1二队",
+      "onboard_time": 1700492795,
+      "rank": 18,
       "category": "电竞"
     },
     {
@@ -1081,6 +1137,14 @@
       "onboard_time": 1700453374,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313628,
+      "num": 313628,
+      "word": "小金土豆好爱他的公主",
+      "onboard_time": 1700492016,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 311440,
@@ -1204,7 +1268,7 @@
     },
     {
       "raw_hot": 275961,
-      "num": 214232,
+      "num": 243244,
       "word": "无所畏惧 第二季",
       "onboard_time": 1700489975,
       "rank": 20,
@@ -1308,7 +1372,7 @@
     },
     {
       "raw_hot": 261419,
-      "num": 197115,
+      "num": 248931,
       "word": "入青云 主演",
       "onboard_time": 1700490215,
       "rank": 26,
@@ -1339,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255141,
+      "num": 255141,
+      "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
+      "onboard_time": 1700490936,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254811,
       "num": 254811,
       "word": "医学专硕转行现状",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1700439932,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251333,
+      "num": 179249,
+      "word": "韩国男足称目标是零封国足",
+      "onboard_time": 1700492435,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 250640,
@@ -1497,6 +1577,14 @@
       "onboard_time": 1700463632,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236319,
+      "num": 236319,
+      "word": "奶茶都快做成固体了",
+      "onboard_time": 1700490275,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 234118,
@@ -1667,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215371,
-      "num": 215371,
-      "word": "蛋仔派对被大量投诉套路未成年充值",
-      "onboard_time": 1700487815,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214394,
       "num": 214394,
       "word": "再就业男团一年前vs一年后",
@@ -1809,14 +1889,6 @@
       "onboard_time": 1700486615,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204878,
-      "num": 204878,
-      "word": "奶茶都快做成固体了",
-      "onboard_time": 1700490275,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 204459,
@@ -2283,6 +2355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162157,
+      "num": 162157,
+      "word": "OpenAI员工要求恢复奥特曼职位",
+      "onboard_time": 1700493394,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161897,
       "num": 161897,
       "word": "每个超市都有位厉害的美工",
@@ -2307,6 +2387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159488,
+      "num": 159488,
+      "word": "胡先煦大型尴尬现场",
+      "onboard_time": 1700491716,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "enhypen说公主请吃饭",
@@ -2321,6 +2409,14 @@
       "onboard_time": 1700471076,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157381,
+      "num": 157381,
+      "word": "东北大哥选蔬菜技巧",
+      "onboard_time": 1700492915,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 156870,
@@ -2844,7 +2940,7 @@
     },
     {
       "raw_hot": 100267,
-      "num": 767686,
+      "num": 796563,
       "word": "小朋友给00后民警送甜甜的锦旗",
       "onboard_time": 1700487635,
       "rank": 2,
@@ -2889,14 +2985,6 @@
       "onboard_time": 1700478634,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 95023,
-      "num": 113719,
-      "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
-      "onboard_time": 1700490936,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94309,
