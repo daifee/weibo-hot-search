@@ -1,6 +1,6 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700464643847,
+  "endTime": 1700465650369,
   "band_list": [
     {
       "raw_hot": 8242749,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2013151,
+      "num": 2013151,
+      "word": "人民文娱评以爱为营",
+      "onboard_time": 1700462195,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1949035,
       "num": 1949035,
       "word": "甄嬛传将放完整版",
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1618898,
-      "num": 1618898,
-      "word": "人民文娱评以爱为营",
-      "onboard_time": 1700462195,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1505541,
       "num": 1505541,
       "word": "吴迪飞退圈",
@@ -131,8 +131,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1240260,
-      "num": 467897,
+      "raw_hot": 1358522,
+      "num": 1358522,
       "word": "甄嬛传官微 我怎么不知道",
       "onboard_time": 1700463632,
       "rank": 10,
@@ -155,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1058266,
+      "num": 456032,
+      "word": "优酷回应网传甄嬛传将放完整版",
+      "onboard_time": 1700463573,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1003059,
       "num": 1003059,
       "word": "27岁研究生离世前一天发文感恩感谢",
       "onboard_time": 1700399016,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947497,
+      "num": 947497,
+      "word": "男子100多万买林肯称被客服嘲讽",
+      "onboard_time": 1700463573,
+      "rank": 8,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 921207,
@@ -211,12 +227,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 759956,
-      "num": 456032,
-      "word": "优酷回应网传甄嬛传将放完整版",
-      "onboard_time": 1700463573,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 763846,
+      "num": 238415,
+      "word": "何猷君 能不能叫我小金薯条",
+      "onboard_time": 1700464292,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 737619,
@@ -323,14 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 562042,
-      "num": 238415,
-      "word": "何猷君 能不能叫我小金薯条",
-      "onboard_time": 1700464292,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559238,
       "num": 344102,
       "word": "杜华欢迎何蓝逗加入乐华",
@@ -369,14 +377,6 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 509388,
-      "num": 509388,
-      "word": "男子100多万买林肯称被客服嘲讽",
-      "onboard_time": 1700463573,
-      "rank": 8,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 503438,
@@ -433,6 +433,14 @@
       "onboard_time": 1700448811,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465650,
+      "num": 283949,
+      "word": "似曾相识焰归来",
+      "onboard_time": 1700463213,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 464627,
@@ -521,14 +529,6 @@
       "onboard_time": 1700406996,
       "rank": 7,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 391965,
-      "num": 240447,
-      "word": "似曾相识焰归来",
-      "onboard_time": 1700463213,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 387871,
@@ -633,6 +633,14 @@
       "onboard_time": 1700389479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326745,
+      "num": 326745,
+      "word": "30岁董宇辉撞脸2000岁长信宫灯",
+      "onboard_time": 1700463993,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324296,
@@ -899,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237807,
+      "num": 209272,
+      "word": "结婚是否会降低生活质量",
+      "onboard_time": 1700463632,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234118,
       "num": 234118,
       "word": "感冒是否应该硬抗过去",
@@ -1035,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209272,
-      "num": 209272,
-      "word": "结婚是否会降低生活质量",
-      "onboard_time": 1700463632,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207096,
       "num": 207096,
       "word": "王子奇你是李二牛的劫",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1700455060,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 200153,
+      "num": 146516,
+      "word": "中国式丁克",
+      "onboard_time": 1700465193,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 200134,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1700405436,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185759,
+      "num": 185759,
+      "word": "摩托车骑手追尾小汽车坠湖身亡",
+      "onboard_time": 1700464173,
+      "rank": 38,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 183146,
@@ -1563,14 +1587,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 141980,
-      "num": 141980,
-      "word": "30岁董宇辉撞脸2000岁长信宫灯",
-      "onboard_time": 1700463993,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141492,
       "num": 141492,
       "word": "母亲接记者电话才知儿子救3人",
@@ -1667,12 +1683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126740,
-      "num": 126740,
-      "word": "摩托车骑手追尾小汽车坠湖身亡",
-      "onboard_time": 1700464173,
+      "raw_hot": 126753,
+      "num": 126753,
+      "word": "冬季嘴唇容易起皮怎么办",
+      "onboard_time": 1700464834,
       "rank": 38,
-      "category": "社会新闻,汽车"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124946,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1700401360,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123382,
+      "num": 123382,
+      "word": "VOGUE时尚盛典阵容",
+      "onboard_time": 1700465611,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 122924,
@@ -1787,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110298,
+      "num": 117671,
+      "word": "91岁爷爷满眼宠溺叫82岁奶奶起床",
+      "onboard_time": 1700464595,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105453,
       "num": 110864,
       "word": "大张伟ALin符龙飞马嘉祺不想长大四重唱",
@@ -1851,20 +1883,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92696,
-      "num": 116296,
-      "word": "91岁爷爷满眼宠溺叫82岁奶奶起床",
-      "onboard_time": 1700464595,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91444,
       "num": 91444,
       "word": "在整个美妆界都是相当炸裂的",
       "onboard_time": 1700436085,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 88555,
+      "num": 115303,
+      "word": "3岁萌娃送辅警mini版锦旗",
+      "onboard_time": 1700465555,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85268,
@@ -1979,20 +2011,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40204,
+      "num": 116950,
+      "word": "中大型SUV价格翻天了",
+      "onboard_time": 1700463815,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40063,
       "num": 2311303,
       "word": "全球九大候鸟迁飞区四个经过我国",
       "onboard_time": 1700402139,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38918,
-      "num": 115337,
-      "word": "中大型SUV价格翻天了",
-      "onboard_time": 1700463815,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 32771,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700465650369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2013151,
+        "num": 2013151,
+        "word": "人民文娱评以爱为营",
+        "onboard_time": 1700462195,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1923027,
+        "num": 1923027,
+        "word": "张东健妻子被曝偷税漏税",
+        "onboard_time": 1700461115,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18584,
+        "num": 1888396,
+        "word": "全球九大候鸟迁飞区四个经过我国",
+        "onboard_time": 1700402139,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1886830,
+        "num": 1886830,
+        "word": "黄子韬原价2368内场票降至262元",
+        "onboard_time": 1700459134,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1849030,
+        "num": 1849030,
+        "word": "乌尔善取关",
+        "onboard_time": 1700451514,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1358522,
+        "num": 1358522,
+        "word": "甄嬛传官微 我怎么不知道",
+        "onboard_time": 1700463632,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 947497,
+        "num": 947497,
+        "word": "男子100多万买林肯称被客服嘲讽",
+        "onboard_time": 1700463573,
+        "rank": 6,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 522587,
+        "num": 522587,
+        "word": "腹泻以为是胃病结果是心梗",
+        "onboard_time": 1700461892,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403833,
+        "num": 403833,
+        "word": "雷军",
+        "onboard_time": 1700458295,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 326745,
+        "num": 326745,
+        "word": "30岁董宇辉撞脸2000岁长信宫灯",
+        "onboard_time": 1700463993,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191221,
+        "num": 311296,
+        "word": "想取关某一个人但是又怕太明显",
+        "onboard_time": 1700454941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058266,
+        "num": 300201,
+        "word": "优酷回应网传甄嬛传将放完整版",
+        "onboard_time": 1700463573,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465650,
+        "num": 283949,
+        "word": "似曾相识焰归来",
+        "onboard_time": 1700463213,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264077,
+        "num": 264077,
+        "word": "累计超2.3万吨核污水流入大海",
+        "onboard_time": 1700460517,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 261482,
+        "num": 261482,
+        "word": "专家称不论开放几胎人口都会萎缩",
+        "onboard_time": 1700453075,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387642,
+        "num": 257993,
+        "word": "小时候的三喜",
+        "onboard_time": 1700462852,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340535,
+        "num": 234085,
+        "word": "潘玮柏胖瘦自如",
+        "onboard_time": 1700461115,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208439,
+        "num": 208439,
+        "word": "老人给重病儿子办手续医生跑腿又塞钱",
+        "onboard_time": 1700460213,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203583,
+        "num": 203583,
+        "word": "詹姆斯被狄龙烦死了",
+        "onboard_time": 1700458117,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185759,
+        "num": 185759,
+        "word": "摩托车骑手追尾小汽车坠湖身亡",
+        "onboard_time": 1700464173,
+        "rank": 19,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 763846,
+        "num": 185311,
+        "word": "何猷君 能不能叫我小金薯条",
+        "onboard_time": 1700464292,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339627,
+        "num": 181333,
+        "word": "体制内的微信沟通礼仪",
+        "onboard_time": 1700457814,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 300710,
+        "num": 179398,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237807,
+        "num": 178172,
+        "word": "结婚是否会降低生活质量",
+        "onboard_time": 1700463632,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223366,
+        "num": 175801,
+        "word": "再忍几年就能点外卖了",
+        "onboard_time": 1700461234,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 196098,
+        "num": 173875,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193084,
+        "num": 171415,
+        "word": "为何我本是高山改编引发巨大争议",
+        "onboard_time": 1700462918,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169319,
+        "num": 169319,
+        "word": "吴千语说没有谈过渣男",
+        "onboard_time": 1700461413,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152287,
+        "num": 152287,
+        "word": "恐怖谷风格妆容",
+        "onboard_time": 1700463632,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137172,
+        "num": 146950,
+        "word": "韩国总统祝贺T1夺冠",
+        "onboard_time": 1700448392,
+        "rank": 29,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 729886,
+        "num": 146533,
+        "word": "被迫嫁人的女孩 她本是高山",
+        "onboard_time": 1700451153,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200153,
+        "num": 146516,
+        "word": "中国式丁克",
+        "onboard_time": 1700465193,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146039,
+        "num": 146039,
+        "word": "BLACKPINK将维持四人组",
+        "onboard_time": 1700448811,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139349,
+        "num": 139349,
+        "word": "刘诗诗hi6逆应援",
+        "onboard_time": 1700459914,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "5岁萌娃给蹲着喂饭的老师搬凳子",
+        "onboard_time": 1700461773,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 139269,
+        "num": 130899,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129380,
+        "num": 129380,
+        "word": "又怎么了我的大导演",
+        "onboard_time": 1700454882,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 129010,
+        "word": "时宴郑书意借着醉意说爱你",
+        "onboard_time": 1700460871,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126753,
+        "num": 126753,
+        "word": "冬季嘴唇容易起皮怎么办",
+        "onboard_time": 1700464834,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125646,
+        "num": 125646,
+        "word": "警方回应网红夫妇售楼处要账被打",
+        "onboard_time": 1700452776,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127339,
+        "num": 125552,
+        "word": "王心凌 声生不息家年华",
+        "onboard_time": 1700459014,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123382,
+        "num": 123382,
+        "word": "VOGUE时尚盛典阵容",
+        "onboard_time": 1700465611,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121894,
+        "num": 121894,
+        "word": "杜华欢迎何蓝逗加入乐华",
+        "onboard_time": 1700456920,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121081,
+        "num": 121081,
+        "word": "白鹿好运来",
+        "onboard_time": 1700459134,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117996,
+        "num": 117996,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700449773,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110298,
+        "num": 117671,
+        "word": "91岁爷爷满眼宠溺叫82岁奶奶起床",
+        "onboard_time": 1700464595,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40204,
+        "num": 116950,
+        "word": "中大型SUV价格翻天了",
+        "onboard_time": 1700463815,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103962,
+        "num": 115940,
+        "word": "艺考文化课成绩门槛提高",
+        "onboard_time": 1700457038,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88555,
+        "num": 115303,
+        "word": "3岁萌娃送辅警mini版锦旗",
+        "onboard_time": 1700465555,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88025,
+        "num": 115122,
+        "word": "DRG对战Hero",
+        "onboard_time": 1700462974,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的旧金山时间#"
+    }
+  }
+}
