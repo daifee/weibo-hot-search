@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700447440217,
+  "endTime": 1700448092988,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2282687,
+      "num": 760981,
+      "word": "曺圭贤遇袭击负伤",
+      "onboard_time": 1700443955,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2265776,
       "num": 496348,
       "word": "胡馨尹 费沁源",
@@ -107,19 +115,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1950456,
-      "num": 760981,
-      "word": "曺圭贤遇袭击负伤",
-      "onboard_time": 1700443955,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1936301,
       "num": 1936301,
       "word": "吴迪飞退圈",
       "onboard_time": 1700405737,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1863870,
+      "num": 823208,
+      "word": "BLACKPINK两名成员与YG签订组合约",
+      "onboard_time": 1700445993,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1700392367,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1568590,
-      "num": 740576,
-      "word": "BLACKPINK两名成员与YG签订组合约",
-      "onboard_time": 1700445993,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1560395,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 921207,
+      "num": 921207,
+      "word": "河南联通被曝强迫用户更换光猫",
+      "onboard_time": 1700442515,
+      "rank": 22,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 912155,
       "num": 588933,
       "word": "Zeus获FMVP",
@@ -385,14 +393,6 @@
       "onboard_time": 1700371708,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 895108,
-      "num": 895108,
-      "word": "河南联通被曝强迫用户更换光猫",
-      "onboard_time": 1700442515,
-      "rank": 22,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 871404,
@@ -433,6 +433,14 @@
       "onboard_time": 1700368231,
       "rank": 33,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 804462,
+      "num": 804462,
+      "word": "以爱为营女主三观",
+      "onboard_time": 1700446654,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 787270,
@@ -611,8 +619,16 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 619829,
+      "num": 377269,
+      "word": "去年河南结婚人数排名全国第二",
+      "onboard_time": 1700445512,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611479,
-      "num": 432738,
+      "num": 572508,
       "word": "新闻女王海王社死现场",
       "onboard_time": 1700442392,
       "rank": 28,
@@ -755,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 544098,
-      "num": 365293,
-      "word": "去年河南结婚人数排名全国第二",
-      "onboard_time": 1700445512,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544069,
       "num": 271685,
       "word": "黑莲花上位手册",
@@ -800,6 +808,14 @@
       "word": "中国渔船在日本海域倾覆致5人失踪",
       "onboard_time": 1700367930,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518782,
+      "num": 518782,
+      "word": "男子偷5300被发现还回去2500",
+      "onboard_time": 1700445334,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -971,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 435925,
-      "num": 435925,
-      "word": "男子偷5300被发现还回去2500",
-      "onboard_time": 1700445334,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432818,
       "num": 590049,
       "word": "国足世预赛",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1700385811,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 402212,
-      "num": 402212,
-      "word": "以爱为营女主三观",
-      "onboard_time": 1700446654,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 398243,
@@ -1939,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239746,
+      "num": 239746,
+      "word": "Tims崩了",
+      "onboard_time": 1700447433,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 239349,
       "num": 239349,
       "word": "网络春晚 重播",
@@ -2131,12 +2139,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217120,
+      "num": 217120,
+      "word": "德约科维奇 goat",
+      "onboard_time": 1700447251,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216795,
       "num": 216795,
       "word": "网友锐评我本是高山",
       "onboard_time": 1700379331,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216010,
+      "num": 216010,
+      "word": "张遮没有重生",
+      "onboard_time": 1700447735,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 213792,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1700436386,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "魅族21",
+      "onboard_time": 1700447192,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 206286,
@@ -2531,14 +2563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183874,
-      "num": 183874,
-      "word": "魅族21",
-      "onboard_time": 1700447192,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183146,
       "num": 183146,
       "word": "冰雨火 陈宇潜入嫌犯内部",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1700369369,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180604,
+      "num": 180604,
+      "word": "新闻女王 好高境界的骂人方式",
+      "onboard_time": 1700447251,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 179837,
@@ -2683,14 +2715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169346,
-      "num": 169346,
-      "word": "德约科维奇 goat",
-      "onboard_time": 1700447251,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168852,
       "num": 1561640,
       "word": "西安街头热卖的两种美食不能一起吃",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1700374769,
       "rank": 45,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 167513,
+      "num": 167513,
+      "word": "过度清洁面部皮肤易老化",
+      "onboard_time": 1700447133,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 167476,
@@ -2825,6 +2857,14 @@
       "onboard_time": 1700437409,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155116,
+      "num": 155116,
+      "word": "公牛不满拉文推开工作人员",
+      "onboard_time": 1700447852,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 154306,
@@ -2971,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144066,
+      "num": 144066,
+      "word": "我优秀的儿子又可以继续看世界了",
+      "onboard_time": 1700446832,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143025,
       "num": 143025,
       "word": "战火下的加沙儿童",
@@ -3059,12 +3107,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137622,
-      "num": 137622,
-      "word": "过度清洁面部皮肤易老化",
-      "onboard_time": 1700447133,
-      "rank": 43,
-      "category": "美妆"
+      "raw_hot": 138024,
+      "num": 138024,
+      "word": "曹圭贤伤势并不严重",
+      "onboard_time": 1700448035,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 137259,
@@ -3073,14 +3121,6 @@
       "onboard_time": 1700321076,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136332,
-      "num": 136332,
-      "word": "新闻女王 好高境界的骂人方式",
-      "onboard_time": 1700447251,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 136312,
@@ -3097,6 +3137,14 @@
       "onboard_time": 1700352928,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 135894,
+      "num": 135894,
+      "word": "怒海 直面原生家庭给孩子的创伤",
+      "onboard_time": 1700447914,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 135319,
@@ -3177,14 +3225,6 @@
       "onboard_time": 1700436206,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130600,
-      "num": 130600,
-      "word": "我优秀的儿子又可以继续看世界了",
-      "onboard_time": 1700446832,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 130199,

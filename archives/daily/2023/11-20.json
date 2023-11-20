@@ -1,7 +1,15 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700447440217,
+  "endTime": 1700448092988,
   "band_list": [
+    {
+      "raw_hot": 2282687,
+      "num": 760981,
+      "word": "曺圭贤遇袭击负伤",
+      "onboard_time": 1700443955,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2179614,
       "num": 2179614,
@@ -19,11 +27,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1950456,
-      "num": 760981,
-      "word": "曺圭贤遇袭击负伤",
-      "onboard_time": 1700443955,
-      "rank": 4,
+      "raw_hot": 1863870,
+      "num": 823208,
+      "word": "BLACKPINK两名成员与YG签订组合约",
+      "onboard_time": 1700445993,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1700421135,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1568590,
-      "num": 740576,
-      "word": "BLACKPINK两名成员与YG签订组合约",
-      "onboard_time": 1700445993,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1505541,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895108,
-      "num": 895108,
+      "raw_hot": 921207,
+      "num": 921207,
       "word": "河南联通被曝强迫用户更换光猫",
       "onboard_time": 1700442515,
       "rank": 22,
@@ -72,6 +72,14 @@
       "word": "终于有只搞事业不谈恋爱的剧了",
       "onboard_time": 1700405675,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 804462,
+      "num": 804462,
+      "word": "以爱为营女主三观",
+      "onboard_time": 1700446654,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -107,8 +115,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 619829,
+      "num": 377269,
+      "word": "去年河南结婚人数排名全国第二",
+      "onboard_time": 1700445512,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611479,
-      "num": 432738,
+      "num": 572508,
       "word": "新闻女王海王社死现场",
       "onboard_time": 1700442392,
       "rank": 28,
@@ -139,11 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544098,
-      "num": 365293,
-      "word": "去年河南结婚人数排名全国第二",
-      "onboard_time": 1700445512,
-      "rank": 15,
+      "raw_hot": 518782,
+      "num": 518782,
+      "word": "男子偷5300被发现还回去2500",
+      "onboard_time": 1700445334,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -179,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 435925,
-      "num": 435925,
-      "word": "男子偷5300被发现还回去2500",
-      "onboard_time": 1700445334,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421349,
       "num": 421349,
       "word": "飞夺泸定桥被搬到竞综了",
@@ -201,14 +209,6 @@
       "onboard_time": 1700439994,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402212,
-      "num": 402212,
-      "word": "以爱为营女主三观",
-      "onboard_time": 1700446654,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 395039,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239746,
+      "num": 239746,
+      "word": "Tims崩了",
+      "onboard_time": 1700447433,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 232045,
       "num": 232045,
       "word": "失眠时别硬躺试试离开你的床",
@@ -467,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217120,
+      "num": 217120,
+      "word": "德约科维奇 goat",
+      "onboard_time": 1700447251,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216010,
+      "num": 216010,
+      "word": "张遮没有重生",
+      "onboard_time": 1700447735,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206888,
       "num": 199699,
       "word": "高振宁 下山的路很吵但能重登吗",
@@ -481,6 +505,14 @@
       "onboard_time": 1700436386,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "魅族21",
+      "onboard_time": 1700447192,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 206223,
@@ -579,14 +611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183874,
-      "num": 183874,
-      "word": "魅族21",
-      "onboard_time": 1700447192,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183146,
       "num": 183146,
       "word": "冰雨火 陈宇潜入嫌犯内部",
@@ -601,6 +625,14 @@
       "onboard_time": 1700404895,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180604,
+      "num": 180604,
+      "word": "新闻女王 好高境界的骂人方式",
+      "onboard_time": 1700447251,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 179047,
@@ -635,12 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169346,
-      "num": 169346,
-      "word": "德约科维奇 goat",
-      "onboard_time": 1700447251,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 167513,
+      "num": 167513,
+      "word": "过度清洁面部皮肤易老化",
+      "onboard_time": 1700447133,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 166174,
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155116,
+      "num": 155116,
+      "word": "公牛不满拉文推开工作人员",
+      "onboard_time": 1700447852,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151929,
       "num": 148780,
       "word": "魏大勋筷子腿",
@@ -729,6 +769,14 @@
       "onboard_time": 1700398058,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144066,
+      "num": 144066,
+      "word": "我优秀的儿子又可以继续看世界了",
+      "onboard_time": 1700446832,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 143696,
@@ -771,20 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137622,
-      "num": 137622,
-      "word": "过度清洁面部皮肤易老化",
-      "onboard_time": 1700447133,
-      "rank": 43,
-      "category": "美妆"
+      "raw_hot": 138024,
+      "num": 138024,
+      "word": "曹圭贤伤势并不严重",
+      "onboard_time": 1700448035,
+      "rank": 41,
+      "category": "艺人"
     },
     {
-      "raw_hot": 136332,
-      "num": 136332,
-      "word": "新闻女王 好高境界的骂人方式",
-      "onboard_time": 1700447251,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 135894,
+      "num": 135894,
+      "word": "怒海 直面原生家庭给孩子的创伤",
+      "onboard_time": 1700447914,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 135156,
@@ -809,14 +857,6 @@
       "onboard_time": 1700436206,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130600,
-      "num": 130600,
-      "word": "我优秀的儿子又可以继续看世界了",
-      "onboard_time": 1700446832,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 124946,
