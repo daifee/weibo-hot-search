@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700454115807,
+  "endTime": 1700454961963,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -27,8 +27,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 5168810,
-      "num": 5168810,
+      "raw_hot": 8242749,
+      "num": 8242749,
       "word": "乌尔善取关",
       "onboard_time": 1700451514,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1845647,
+      "num": 1735718,
+      "word": "我本是高山 网吧",
+      "onboard_time": 1700452718,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1835312,
       "num": 1835312,
       "word": "T1拿到决赛赛点",
@@ -169,14 +177,6 @@
       "onboard_time": 1700395297,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1735718,
-      "num": 1735718,
-      "word": "我本是高山 网吧",
-      "onboard_time": 1700452718,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1716115,
@@ -347,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1115598,
+      "num": 1115598,
+      "word": "金莎回应签约孙丞潇",
+      "onboard_time": 1700449653,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1095923,
       "num": 1095923,
       "word": "花儿与少年连更12天",
@@ -369,14 +377,6 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1050155,
-      "num": 1050155,
-      "word": "金莎回应签约孙丞潇",
-      "onboard_time": 1700449653,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 990739,
@@ -409,6 +409,14 @@
       "onboard_time": 1700378314,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 965114,
+      "num": 215936,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 921207,
@@ -859,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 542530,
+      "num": 484543,
+      "word": "刘诗诗刘宇宁hi6上班路透",
+      "onboard_time": 1700453194,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539494,
       "num": 440344,
       "word": "管泽元说十年了我们的敌人还是他",
@@ -889,14 +905,6 @@
       "onboard_time": 1700367930,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 527028,
-      "num": 291722,
-      "word": "刘诗诗刘宇宁hi6上班路透",
-      "onboard_time": 1700453194,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 515400,
@@ -995,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 488851,
+      "num": 365986,
+      "word": "梁洁素颜吃火锅",
+      "onboard_time": 1700452895,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483689,
       "num": 345230,
       "word": "腰真的一下子就舒服了",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1700396198,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 472054,
+      "num": 629680,
+      "word": "警方回应网红夫妇售楼处要账被打",
+      "onboard_time": 1700452776,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465671,
@@ -1075,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447950,
+      "num": 494070,
+      "word": "专家称不论开放几胎人口都会萎缩",
+      "onboard_time": 1700453075,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444370,
       "num": 378235,
       "word": "皓衣行新图",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1700401779,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 442205,
-      "num": 629680,
-      "word": "警方回应网红夫妇售楼处要账被打",
-      "onboard_time": 1700452776,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432818,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1700450495,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 417616,
-      "num": 287386,
-      "word": "梁洁素颜吃火锅",
-      "onboard_time": 1700452895,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 408396,
@@ -1523,6 +1539,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 318755,
+      "num": 285444,
+      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+      "onboard_time": 1700450136,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318155,
       "num": 318155,
       "word": "宁安如梦 跨国跨物种发疯",
@@ -1555,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313786,
+      "num": 221690,
+      "word": "宁安如梦断更两天",
+      "onboard_time": 1700453374,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313298,
       "num": 313298,
       "word": "Light明年再战",
@@ -1576,14 +1608,6 @@
       "word": "黑龙江大学惊现雪人三星堆",
       "onboard_time": 1700384670,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310952,
-      "num": 285444,
-      "word": "公共洗衣机洗半桶袜子被粘墙上警告",
-      "onboard_time": 1700450136,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1640,14 +1664,6 @@
       "word": "00后送00后锦旗可以有多炸裂",
       "onboard_time": 1700386418,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296928,
-      "num": 296928,
-      "word": "专家称不论开放几胎人口都会萎缩",
-      "onboard_time": 1700453075,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1761,14 +1777,6 @@
       "onboard_time": 1700387556,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 281861,
-      "num": 221690,
-      "word": "宁安如梦断更两天",
-      "onboard_time": 1700453374,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 279837,
@@ -1995,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249811,
+      "num": 200032,
+      "word": "DINO首次solo",
+      "onboard_time": 1700453735,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249560,
       "num": 249560,
       "word": "王多多 电竞诗人",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1700360910,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243349,
+      "num": 213570,
+      "word": "杜兰特又是45度",
+      "onboard_time": 1700454581,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 243094,
@@ -2379,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212261,
+      "num": 212261,
+      "word": "秋冬气质低马尾",
+      "onboard_time": 1700454762,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 212063,
       "num": 212063,
       "word": "萧敬腾 有小小恋爱脑的成熟男人",
@@ -2595,14 +2627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200032,
-      "num": 200032,
-      "word": "DINO首次solo",
-      "onboard_time": 1700453735,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199183,
       "num": 199183,
       "word": "当问奶奶结婚有什么好处时",
@@ -2801,6 +2825,14 @@
       "onboard_time": 1700437288,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186363,
+      "num": 186363,
+      "word": "又怎么了我的大导演",
+      "onboard_time": 1700454882,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 186201,
@@ -3051,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163552,
+      "num": 163552,
+      "word": "秋冬如何养脸",
+      "onboard_time": 1700454519,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 161973,
       "num": 294128,
       "word": "税务师",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1700316692,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159729,
+      "num": 159729,
+      "word": "更年期 激素治疗",
+      "onboard_time": 1700454519,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159432,
@@ -4084,7 +4132,7 @@
     },
     {
       "raw_hot": 58389,
-      "num": 168767,
+      "num": 233615,
       "word": "张婧仪美神妆",
       "onboard_time": 1700453858,
       "rank": 42,
@@ -4227,6 +4275,9 @@
     },
     {
       "word": "#引领亚太的高光时刻#"
+    },
+    {
+      "word": "#同世界和亚太各成员分享中国发展机遇#"
     }
   ]
 }

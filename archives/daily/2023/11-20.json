@@ -1,10 +1,10 @@
 {
   "startTime": 1700410871769,
-  "endTime": 1700454115807,
+  "endTime": 1700454961963,
   "band_list": [
     {
-      "raw_hot": 5168810,
-      "num": 5168810,
+      "raw_hot": 8242749,
+      "num": 8242749,
       "word": "乌尔善取关",
       "onboard_time": 1700451514,
       "rank": 0,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1845647,
+      "num": 1735718,
+      "word": "我本是高山 网吧",
+      "onboard_time": 1700452718,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1770833,
       "num": 1770833,
       "word": "霸王茶姬口令",
       "onboard_time": 1700449773,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1735718,
-      "num": 1735718,
-      "word": "我本是高山 网吧",
-      "onboard_time": 1700452718,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1658878,
@@ -99,8 +99,8 @@
       "category": "电竞,社会新闻"
     },
     {
-      "raw_hot": 1050155,
-      "num": 1050155,
+      "raw_hot": 1115598,
+      "num": 1115598,
       "word": "金莎回应签约孙丞潇",
       "onboard_time": 1700449653,
       "rank": 12,
@@ -113,6 +113,14 @@
       "onboard_time": 1700399016,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 965114,
+      "num": 215936,
+      "word": "想取关某一个人但是又怕太明显",
+      "onboard_time": 1700454941,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 921207,
@@ -243,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527028,
-      "num": 291722,
+      "raw_hot": 542530,
+      "num": 484543,
       "word": "刘诗诗刘宇宁hi6上班路透",
       "onboard_time": 1700453194,
       "rank": 16,
@@ -275,12 +283,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488851,
+      "num": 365986,
+      "word": "梁洁素颜吃火锅",
+      "onboard_time": 1700452895,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483675,
       "num": 483675,
       "word": "杨紫李现国色芳华开始置景了",
       "onboard_time": 1700443712,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 472054,
+      "num": 629680,
+      "word": "警方回应网红夫妇售楼处要账被打",
+      "onboard_time": 1700452776,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465671,
@@ -307,11 +331,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442205,
-      "num": 629680,
-      "word": "警方回应网红夫妇售楼处要账被打",
-      "onboard_time": 1700452776,
-      "rank": 8,
+      "raw_hot": 447950,
+      "num": 494070,
+      "word": "专家称不论开放几胎人口都会萎缩",
+      "onboard_time": 1700453075,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -337,14 +361,6 @@
       "onboard_time": 1700450495,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 417616,
-      "num": 287386,
-      "word": "梁洁素颜吃火锅",
-      "onboard_time": 1700452895,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 395039,
@@ -419,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310952,
+      "raw_hot": 318755,
       "num": 285444,
       "word": "公共洗衣机洗半桶袜子被粘墙上警告",
       "onboard_time": 1700450136,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313786,
+      "num": 221690,
+      "word": "宁安如梦断更两天",
+      "onboard_time": 1700453374,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 307914,
@@ -449,14 +473,6 @@
       "onboard_time": 1700441075,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296928,
-      "num": 296928,
-      "word": "专家称不论开放几胎人口都会萎缩",
-      "onboard_time": 1700453075,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296556,
@@ -515,14 +531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 281861,
-      "num": 221690,
-      "word": "宁安如梦断更两天",
-      "onboard_time": 1700453374,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275779,
       "num": 275779,
       "word": "Tims崩了",
@@ -571,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249811,
+      "num": 200032,
+      "word": "DINO首次solo",
+      "onboard_time": 1700453735,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 248738,
       "num": 248738,
       "word": "好高级的骂人方式",
@@ -593,6 +609,14 @@
       "onboard_time": 1700436325,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 243349,
+      "num": 213570,
+      "word": "杜兰特又是45度",
+      "onboard_time": 1700454581,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 241415,
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212261,
+      "num": 212261,
+      "word": "秋冬气质低马尾",
+      "onboard_time": 1700454762,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 211063,
       "num": 211063,
       "word": "王鸥新剧演破产主妇",
@@ -785,14 +817,6 @@
       "onboard_time": 1700449353,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 200032,
-      "num": 200032,
-      "word": "DINO首次solo",
-      "onboard_time": 1700453735,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 199038,
@@ -881,6 +905,14 @@
       "onboard_time": 1700437288,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186363,
+      "num": 186363,
+      "word": "又怎么了我的大导演",
+      "onboard_time": 1700454882,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 186075,
@@ -979,12 +1011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163552,
+      "num": 163552,
+      "word": "秋冬如何养脸",
+      "onboard_time": 1700454519,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 162509,
       "num": 162509,
       "word": "张颂文 竹影",
       "onboard_time": 1700406035,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159729,
+      "num": 159729,
+      "word": "更年期 激素治疗",
+      "onboard_time": 1700454519,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158168,
@@ -1412,7 +1460,7 @@
     },
     {
       "raw_hot": 58389,
-      "num": 168767,
+      "num": 233615,
       "word": "张婧仪美神妆",
       "onboard_time": 1700453858,
       "rank": 42,
@@ -1443,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40063,
+      "num": 1291607,
+      "word": "全球九大候鸟迁飞区四个经过我国",
+      "onboard_time": 1700402139,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32771,
       "num": 74158,
       "word": "亚洲超星团",
       "onboard_time": 1700415738,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29897,
-      "num": 1291607,
-      "word": "全球九大候鸟迁飞区四个经过我国",
-      "onboard_time": 1700402139,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24258,
@@ -1503,6 +1551,9 @@
     },
     {
       "word": "#引领亚太的高光时刻#"
+    },
+    {
+      "word": "#同世界和亚太各成员分享中国发展机遇#"
     }
   ]
 }
