@@ -1,0 +1,410 @@
+{
+  "runTime": 1700450333838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1712583,
+        "num": 1712583,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1700449773,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1504017,
+        "num": 1504017,
+        "word": "以爱为营女主三观",
+        "onboard_time": 1700446654,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22453,
+        "num": 1485057,
+        "word": "诗词藏着中国山水间的绝美景致",
+        "onboard_time": 1700398775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479212,
+        "num": 1479212,
+        "word": "BLACKPINK两名成员与YG签订组合约",
+        "onboard_time": 1700445993,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1178240,
+        "num": 1178240,
+        "word": "韩国总统祝贺T1夺冠",
+        "onboard_time": 1700448392,
+        "rank": 4,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 909523,
+        "num": 909523,
+        "word": "以爱为营 降智",
+        "onboard_time": 1700448272,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650964,
+        "num": 650964,
+        "word": "男子偷5300被发现还回去2500",
+        "onboard_time": 1700445334,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578783,
+        "num": 578783,
+        "word": "电子刊颠婆",
+        "onboard_time": 1700449293,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476750,
+        "num": 476750,
+        "word": "加拿大间谍内讧",
+        "onboard_time": 1700435844,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451736,
+        "num": 451736,
+        "word": "张遮没有重生",
+        "onboard_time": 1700447735,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1270150,
+        "num": 430963,
+        "word": "韩国顶级明星涉嫌偷税漏税",
+        "onboard_time": 1700443350,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880739,
+        "num": 414982,
+        "word": "曺圭贤遇袭击负伤",
+        "onboard_time": 1700443955,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490356,
+        "num": 382341,
+        "word": "金莎回应签约孙丞潇",
+        "onboard_time": 1700449653,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811752,
+        "num": 361277,
+        "word": "去年河南结婚人数排名全国第二",
+        "onboard_time": 1700445512,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354893,
+        "num": 354893,
+        "word": "CPA 还不出成绩",
+        "onboard_time": 1700439633,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435037,
+        "num": 350043,
+        "word": "内娱史上最炸裂的6分32秒谈话",
+        "onboard_time": 1700421135,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337893,
+        "num": 337893,
+        "word": "第一次看见真胃",
+        "onboard_time": 1700441075,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331650,
+        "num": 331650,
+        "word": "Ning点评WBG教练",
+        "onboard_time": 1700436024,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323349,
+        "num": 323349,
+        "word": "河南联通被曝强迫用户更换光猫",
+        "onboard_time": 1700442515,
+        "rank": 18,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 310717,
+        "num": 310717,
+        "word": "BLACKPINK将维持四人组",
+        "onboard_time": 1700448811,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297811,
+        "num": 297811,
+        "word": "新闻女王海王社死现场",
+        "onboard_time": 1700442392,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280635,
+        "num": 280635,
+        "word": "杨紫李现国色芳华开始置景了",
+        "onboard_time": 1700443712,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275779,
+        "num": 275779,
+        "word": "Tims崩了",
+        "onboard_time": 1700447433,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238098,
+        "num": 238098,
+        "word": "生理上的反应永远是最真实的",
+        "onboard_time": 1700435603,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210543,
+        "num": 227346,
+        "word": "吃香菜和不吃香菜的都沉默了",
+        "onboard_time": 1700443471,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244229,
+        "num": 226237,
+        "word": "快乐老友记",
+        "onboard_time": 1700435964,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221957,
+        "num": 221957,
+        "word": "曹圭贤伤势并不严重",
+        "onboard_time": 1700448035,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214394,
+        "num": 214394,
+        "word": "再就业男团一年前vs一年后",
+        "onboard_time": 1700448696,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204441,
+        "num": 212033,
+        "word": "27岁研究生离世前一天发文感恩感谢",
+        "onboard_time": 1700399016,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192573,
+        "num": 210979,
+        "word": "A股",
+        "onboard_time": 1700449353,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210357,
+        "num": 210357,
+        "word": "快乐老友记制片人一日体验卡",
+        "onboard_time": 1700449533,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209824,
+        "num": 209824,
+        "word": "NewJeans BBMAs舞台",
+        "onboard_time": 1700449413,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209169,
+        "num": 209169,
+        "word": "T1获胜时的WBG众人",
+        "onboard_time": 1700439932,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207088,
+        "num": 207088,
+        "word": "新闻女王",
+        "onboard_time": 1700449353,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202666,
+        "num": 202666,
+        "word": "秦昊蒋欣新剧定档",
+        "onboard_time": 1700449592,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175503,
+        "num": 175503,
+        "word": "网传鸿蒙系统明年将不兼容安卓",
+        "onboard_time": 1700450252,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170643,
+        "num": 170643,
+        "word": "公共洗衣机洗半桶袜子被粘墙上警告",
+        "onboard_time": 1700450136,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155431,
+        "num": 155431,
+        "word": "周口联通回应强迫用户更换光猫",
+        "onboard_time": 1700448093,
+        "rank": 37,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 152359,
+        "num": 152359,
+        "word": "我使馆回应加方否认康明凯等间谍活动",
+        "onboard_time": 1700450136,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152341,
+        "num": 152341,
+        "word": "宁安如梦魔改张遮",
+        "onboard_time": 1700441616,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 149715,
+        "word": "公牛不满拉文推开工作人员",
+        "onboard_time": 1700447852,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145187,
+        "num": 145187,
+        "word": "通勤编发教程",
+        "onboard_time": 1700449293,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141126,
+        "num": 141126,
+        "word": "过度清洁面部皮肤易老化",
+        "onboard_time": 1700447133,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140192,
+        "num": 140192,
+        "word": "马斯克回应ChatGPT之父被开除",
+        "onboard_time": 1700444129,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140033,
+        "num": 140033,
+        "word": "王鸥新剧演破产主妇",
+        "onboard_time": 1700450193,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131871,
+        "num": 131871,
+        "word": "Faker 打出好的比赛是我的荣幸",
+        "onboard_time": 1700441853,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131481,
+        "num": 131481,
+        "word": "运20将接运烈士遗骸归国",
+        "onboard_time": 1700446295,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131008,
+        "num": 131008,
+        "word": "心梗救治日",
+        "onboard_time": 1700449115,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126438,
+        "num": 126438,
+        "word": "冰雨火 陈宇潜入嫌犯内部",
+        "onboard_time": 1700445452,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120873,
+        "num": 120873,
+        "word": "邱华选择了张全全",
+        "onboard_time": 1700448993,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同打造亚太下一个黄金三十年#"
+    }
+  }
+}
