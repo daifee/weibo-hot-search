@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700462245002,
+  "endTime": 1700464643847,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -243,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1618898,
+      "num": 1618898,
+      "word": "人民文娱评以爱为营",
+      "onboard_time": 1700462195,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1615453,
       "num": 1431819,
       "word": "肖战好像被胁迫了",
@@ -345,6 +353,14 @@
       "onboard_time": 1700366188,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1240260,
+      "num": 467897,
+      "word": "甄嬛传官微 我怎么不知道",
+      "onboard_time": 1700463632,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1234631,
@@ -577,6 +593,14 @@
       "onboard_time": 1700387019,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 759956,
+      "num": 456032,
+      "word": "优酷回应网传甄嬛传将放完整版",
+      "onboard_time": 1700463573,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 737619,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 582339,
-      "num": 220666,
+      "num": 237853,
       "word": "体制内的微信沟通礼仪",
       "onboard_time": 1700457814,
       "rank": 22,
@@ -873,6 +897,14 @@
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 562042,
+      "num": 238415,
+      "word": "何猷君 能不能叫我小金薯条",
+      "onboard_time": 1700464292,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 559238,
@@ -979,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524214,
+      "num": 524214,
+      "word": "腹泻以为是胃病结果是心梗",
+      "onboard_time": 1700461892,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 515400,
       "num": 515400,
       "word": "张凌赫宁安如梦破万手势舞",
       "onboard_time": 1700395660,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509388,
+      "num": 509388,
+      "word": "男子100多万买林肯称被客服嘲讽",
+      "onboard_time": 1700463573,
+      "rank": 8,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 507308,
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463219,
+      "num": 463219,
+      "word": "小时候的三喜",
+      "onboard_time": 1700462852,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456559,
       "num": 367115,
       "word": "胡夏请来了那些年一起追过的沈佳宜",
@@ -1291,12 +1347,28 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 391965,
+      "num": 240447,
+      "word": "似曾相识焰归来",
+      "onboard_time": 1700463213,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391810,
       "num": 391810,
       "word": "王栎鑫 笑到下巴脱臼",
       "onboard_time": 1700356349,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387871,
+      "num": 291738,
+      "word": "潘玮柏胖瘦自如",
+      "onboard_time": 1700461115,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 383817,
@@ -1313,14 +1385,6 @@
       "onboard_time": 1700436806,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 377820,
-      "num": 291738,
-      "word": "潘玮柏胖瘦自如",
-      "onboard_time": 1700461115,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 376981,
@@ -1540,7 +1604,7 @@
     },
     {
       "raw_hot": 344815,
-      "num": 171884,
+      "num": 236828,
       "word": "再忍几年就能点外卖了",
       "onboard_time": 1700461234,
       "rank": 32,
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 335202,
-      "num": 335202,
+      "num": 471408,
       "word": "累计超2.3万吨核污水流入大海",
       "onboard_time": 1700460517,
       "rank": 14,
@@ -2252,7 +2316,7 @@
     },
     {
       "raw_hot": 245263,
-      "num": 153879,
+      "num": 187805,
       "word": "吴千语说没有谈过渣男",
       "onboard_time": 1700461413,
       "rank": 41,
@@ -2587,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216640,
+      "num": 239814,
+      "word": "老人给重病儿子办手续医生跑腿又塞钱",
+      "onboard_time": 1700460213,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214394,
       "num": 214394,
       "word": "再就业男团一年前vs一年后",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1700406218,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209272,
+      "num": 209272,
+      "word": "结婚是否会降低生活质量",
+      "onboard_time": 1700463632,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 207882,
@@ -2904,6 +2984,14 @@
       "word": "我本是高山 人物设置",
       "onboard_time": 1700399495,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197158,
+      "num": 197158,
+      "word": "为何我本是高山改编引发巨大争议",
+      "onboard_time": 1700462918,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -3283,14 +3371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170113,
-      "num": 170113,
-      "word": "老人给重病儿子办手续医生跑腿又塞钱",
-      "onboard_time": 1700460213,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170058,
       "num": 170058,
       "word": "周口联通否认工程师未完成推销被辞",
@@ -3376,6 +3456,22 @@
       "word": "秋冬如何养脸",
       "onboard_time": 1700454519,
       "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 162452,
+      "num": 118753,
+      "word": "热播剧9成改编自网文",
+      "onboard_time": 1700463033,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162384,
+      "num": 239602,
+      "word": "恐怖谷风格妆容",
+      "onboard_time": 1700463632,
+      "rank": 18,
       "category": "美妆"
     },
     {
@@ -3691,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141980,
+      "num": 141980,
+      "word": "30岁董宇辉撞脸2000岁长信宫灯",
+      "onboard_time": 1700463993,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141590,
       "num": 141590,
       "word": "张凌赫模仿王星越好吃好吃",
@@ -3721,14 +3825,6 @@
       "onboard_time": 1700367331,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 140843,
-      "num": 125079,
-      "word": "人民文娱评以爱为营",
-      "onboard_time": 1700462195,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 140073,
@@ -3835,6 +3931,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 134819,
+      "num": 145048,
+      "word": "DRG对战Hero",
+      "onboard_time": 1700462974,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134422,
       "num": 199234,
       "word": "KPL",
@@ -3881,14 +3985,6 @@
       "onboard_time": 1700357970,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131662,
-      "num": 131662,
-      "word": "腹泻以为是胃病结果是心梗",
-      "onboard_time": 1700461892,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131119,
@@ -3961,6 +4057,14 @@
       "onboard_time": 1700354908,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126740,
+      "num": 126740,
+      "word": "摩托车骑手追尾小汽车坠湖身亡",
+      "onboard_time": 1700464173,
+      "rank": 38,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 125893,
@@ -4211,6 +4315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96118,
+      "num": 116571,
+      "word": "三星堆分堆终究还是开到了东北",
+      "onboard_time": 1700463093,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95628,
       "num": 100250,
       "word": "这是一位被幼儿园耽误的托尼老师",
@@ -4240,6 +4352,14 @@
       "word": "如何用一片树叶做猫咪面具",
       "onboard_time": 1700359649,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92696,
+      "num": 116296,
+      "word": "91岁爷爷满眼宠溺叫82岁奶奶起床",
+      "onboard_time": 1700464595,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4528,6 +4648,14 @@
       "word": "车大就一定空间大吗",
       "onboard_time": 1700388331,
       "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 38918,
+      "num": 115337,
+      "word": "中大型SUV价格翻天了",
+      "onboard_time": 1700463815,
+      "rank": 49,
       "category": "汽车"
     },
     {
