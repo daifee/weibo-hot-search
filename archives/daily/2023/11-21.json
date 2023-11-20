@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700508855071,
+  "endTime": 1700511551439,
   "band_list": [
     {
       "raw_hot": 874813,
@@ -505,6 +505,14 @@
       "onboard_time": 1700489557,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10278,
+      "num": 21794,
+      "word": "冬日氛围大赏",
+      "onboard_time": 1700506035,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
