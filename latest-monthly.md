@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 20:51:28
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/20 21:22:39
 </p>
 </blockquote>
 <p>
@@ -5325,6 +5325,12 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%9C%A8%E4%B8%8A%E7%8F%AD%23" target="weibo">
+金莎男友 对我来说现在就在上班（热度：797512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23" target="weibo">
 时宴终于来了（热度：797441）
 </a>
@@ -5987,12 +5993,6 @@ JDG与BLG选手观赛LNG（热度：745242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B3%A1%E9%9D%A2%E5%8D%B7%23" target="weibo">
 杨紫泡面卷（热度：738158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%9C%A8%E4%B8%8A%E7%8F%AD%23" target="weibo">
-金莎男友 对我来说现在就在上班（热度：738069）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700484688834,
+  "endTime": 1700486559061,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -675,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 797512,
+      "num": 738069,
+      "word": "金莎男友 对我来说现在就在上班",
+      "onboard_time": 1700475872,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787270,
       "num": 393456,
       "word": "郭碧婷参加婚礼合影",
@@ -713,14 +721,6 @@
       "onboard_time": 1700483133,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 738069,
-      "num": 738069,
-      "word": "金莎男友 对我来说现在就在上班",
-      "onboard_time": 1700475872,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 737619,
@@ -851,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 653581,
+      "num": 653581,
+      "word": "华为称未来将为三个各自独立的操作系统",
+      "onboard_time": 1700482055,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 651314,
       "num": 651314,
       "word": "张桂梅读我本是高山观众祝福",
@@ -913,14 +921,6 @@
       "onboard_time": 1700456798,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 613603,
-      "num": 613603,
-      "word": "华为称未来将为三个各自独立的操作系统",
-      "onboard_time": 1700482055,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 611479,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1700355750,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536605,
+      "num": 536605,
+      "word": "吴世勋 杂志",
+      "onboard_time": 1700484334,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 535322,
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371259,
+      "num": 157052,
+      "word": "头发别耳后如何显脸小",
+      "onboard_time": 1700485532,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 369567,
       "num": 185126,
       "word": "甲状腺癌常见的四个信号",
@@ -2003,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328513,
-      "num": 221606,
-      "word": "吴世勋 杂志",
-      "onboard_time": 1700484334,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 326745,
       "num": 326745,
       "word": "30岁董宇辉撞脸2000岁长信宫灯",
@@ -2219,6 +2227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 299961,
+      "num": 204511,
+      "word": "无所畏惧大结局",
+      "onboard_time": 1700482652,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299460,
       "num": 1671655,
       "word": "00后送00后锦旗可以有多炸裂",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1700459134,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296850,
+      "num": 296850,
+      "word": "孙女哄92岁爷爷每天开心会有工资",
+      "onboard_time": 1700483853,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296556,
@@ -2507,12 +2531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262625,
+      "num": 173302,
+      "word": "李现称粉丝为天现公主",
+      "onboard_time": 1700484994,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262618,
       "num": 271543,
       "word": "cp30",
       "onboard_time": 1700319037,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 262133,
+      "num": 262133,
+      "word": "韩式服帖烫",
+      "onboard_time": 1700484574,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 261890,
@@ -2723,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246094,
+      "num": 153681,
+      "word": "甄嬛传的风还是吹进了刑侦剧",
+      "onboard_time": 1700485833,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246034,
       "num": 246034,
       "word": "丁程鑫说我只想赶紧跳舞",
@@ -2737,6 +2785,14 @@
       "onboard_time": 1700461413,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244830,
+      "num": 244830,
+      "word": "鞠婧祎发型模版",
+      "onboard_time": 1700485473,
+      "rank": 19,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 244176,
@@ -3011,6 +3067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224924,
+      "num": 152832,
+      "word": "适合一个人住的31平米独居小屋",
+      "onboard_time": 1700486374,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224727,
       "num": 224727,
       "word": "TheShy 赛后采访",
@@ -3185,14 +3249,6 @@
       "onboard_time": 1700479834,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212491,
-      "num": 148517,
-      "word": "无所畏惧大结局",
-      "onboard_time": 1700482652,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 212261,
@@ -3715,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186830,
+      "num": 186830,
+      "word": "入冬了老公每次开门前先摸地",
+      "onboard_time": 1700484272,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186707,
       "num": 186707,
       "word": "星舰内部是六层豪宅",
@@ -3843,12 +3907,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178167,
-      "num": 158121,
-      "word": "韩式服帖烫",
-      "onboard_time": 1700484574,
-      "rank": 32,
-      "category": "美妆"
+      "raw_hot": 178479,
+      "num": 178479,
+      "word": "韩媒说国足从未出现过巨星",
+      "onboard_time": 1700486314,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 177980,
@@ -4131,6 +4195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160994,
+      "num": 136274,
+      "word": "无所畏惧",
+      "onboard_time": 1700485053,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160825,
       "num": 160825,
       "word": "詹姆斯罚球绝杀",
@@ -4299,6 +4371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150293,
+      "num": 150293,
+      "word": "加维十字韧带断裂",
+      "onboard_time": 1700484754,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149959,
       "num": 149959,
       "word": "姜雪宁雪景写真",
@@ -4320,14 +4400,6 @@
       "word": "英国唯一一对大熊猫12月回国",
       "onboard_time": 1700436628,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148706,
-      "num": 148706,
-      "word": "孙女哄92岁爷爷每天开心会有工资",
-      "onboard_time": 1700483853,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4604,7 +4676,7 @@
     },
     {
       "raw_hot": 136185,
-      "num": 136185,
+      "num": 157288,
       "word": "部分艺术类专业不再组织专业考试",
       "onboard_time": 1700483554,
       "rank": 48,
@@ -4617,14 +4689,6 @@
       "onboard_time": 1700447914,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135535,
-      "num": 135535,
-      "word": "入冬了老公每次开门前先摸地",
-      "onboard_time": 1700484272,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 135319,
@@ -4785,6 +4849,14 @@
       "onboard_time": 1700354908,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126428,
+      "num": 126428,
+      "word": "萨摩唉秒变萨摩耶",
+      "onboard_time": 1700485532,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 125893,
