@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700606095269,
+  "endTime": 1700608744503,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -17,6 +17,14 @@
       "onboard_time": 1700575841,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 814597,
+      "num": 814597,
+      "word": "民警怒吼十几万不是从天上掉下来的",
+      "onboard_time": 1700585662,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757016,
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357026,
+      "num": 357026,
+      "word": "小雪",
+      "onboard_time": 1700607982,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348930,
       "num": 203846,
       "word": "传说中的开十指有这么大",
@@ -83,12 +99,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 311006,
-      "num": 311006,
-      "word": "民警怒吼十几万不是从天上掉下来的",
-      "onboard_time": 1700585662,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 290658,
+      "num": 290658,
+      "word": "孙兴慜跑向中国球迷看台庆祝",
+      "onboard_time": 1700607982,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 268438,
@@ -105,6 +121,14 @@
       "onboard_time": 1700572658,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237108,
+      "num": 197451,
+      "word": "3类牙膏被列入致癌黑名单",
+      "onboard_time": 1700607923,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234234,
@@ -131,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200875,
+      "num": 200875,
+      "word": "傅首尔 再也没有人会这样对我了",
+      "onboard_time": 1700561255,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200749,
       "num": 200749,
       "word": "张遮腹肌",
@@ -139,12 +171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198023,
-      "num": 198023,
-      "word": "傅首尔 再也没有人会这样对我了",
-      "onboard_time": 1700561255,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 190651,
+      "num": 190651,
+      "word": "女生读研两个月诉说氛围像围城",
+      "onboard_time": 1700607982,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 177699,
@@ -193,6 +225,22 @@
       "onboard_time": 1700569056,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130450,
+      "num": 130450,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 129429,
+      "num": 129429,
+      "word": "合胞病毒",
+      "onboard_time": 1700608282,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129321,
@@ -299,6 +347,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 94478,
+      "num": 161449,
+      "word": "郭晶晶霍启刚一家五口看音乐会",
+      "onboard_time": 1700571699,
+      "rank": 43,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 94215,
       "num": 161484,
       "word": "韦世豪4号",
@@ -313,6 +369,38 @@
       "onboard_time": 1700577039,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91623,
+      "num": 91623,
+      "word": "ChatGPT创作的最美中国女生",
+      "onboard_time": 1700608282,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 90729,
+      "num": 90729,
+      "word": "祝绪丹清宫装",
+      "onboard_time": 1700607019,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 89570,
+      "num": 161437,
+      "word": "入冬的电子羽绒服",
+      "onboard_time": 1700573196,
+      "rank": 42,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 87298,
+      "num": 161433,
+      "word": "陈少杰身家曾达25亿",
+      "onboard_time": 1700576139,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 82479,
@@ -331,20 +419,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79554,
-      "num": 161433,
-      "word": "陈少杰身家曾达25亿",
-      "onboard_time": 1700576139,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 77982,
       "num": 161444,
       "word": "裁判",
       "onboard_time": 1700570137,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77940,
+      "num": 77940,
+      "word": "冬天嘴唇总起皮的护理方法",
+      "onboard_time": 1700608343,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 77322,
@@ -361,22 +449,6 @@
       "onboard_time": 1700552134,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74829,
-      "num": 161437,
-      "word": "入冬的电子羽绒服",
-      "onboard_time": 1700573196,
-      "rank": 42,
-      "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 73720,
-      "num": 161449,
-      "word": "郭晶晶霍启刚一家五口看音乐会",
-      "onboard_time": 1700571699,
-      "rank": 43,
-      "category": "体育,演出"
     },
     {
       "raw_hot": 73187,
@@ -411,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65180,
-      "num": 65180,
-      "word": "儿子跳水救3人母亲骄傲藏不住",
-      "onboard_time": 1700595133,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 59570,
       "num": 71798,
       "word": "武磊抗议裁判",
@@ -443,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50544,
+      "num": 50544,
+      "word": "全盘发和半扎发",
+      "onboard_time": 1700597833,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 46504,
       "num": 161419,
       "word": "没有VAR",
@@ -451,20 +523,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35620,
+      "raw_hot": 45439,
+      "num": 45439,
+      "word": "他连续10年自费为公交座椅绑棉垫",
+      "onboard_time": 1700608585,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44012,
+      "num": 44012,
+      "word": "上海偶遇黄景瑜",
+      "onboard_time": 1700588420,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40999,
+      "num": 40999,
+      "word": "4同学每月2千资助去世同学家庭",
+      "onboard_time": 1700608645,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38495,
+      "num": 38495,
+      "word": "微短剧走红更要走心",
+      "onboard_time": 1700608704,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35789,
       "num": 84141,
       "word": "张琳芃出任国足队长",
       "onboard_time": 1700564974,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32633,
-      "num": 36374,
-      "word": "上海偶遇黄景瑜",
-      "onboard_time": 1700588420,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 23648,
@@ -473,14 +569,6 @@
       "onboard_time": 1700594713,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22276,
-      "num": 29535,
-      "word": "全盘发和半扎发",
-      "onboard_time": 1700597833,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 19469,
