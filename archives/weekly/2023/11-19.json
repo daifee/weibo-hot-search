@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700577407409,
+  "endTime": 1700579954222,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -73,6 +73,14 @@
       "onboard_time": 1700547277,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2979343,
+      "num": 2979343,
+      "word": "冲绳",
+      "onboard_time": 1700577877,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2926091,
@@ -539,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1285459,
+      "num": 1285459,
+      "word": "跑男元老只剩李晨和郑恺了",
+      "onboard_time": 1700575841,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1284041,
       "num": 989396,
       "word": "大小S感谢司法还她们清白",
@@ -657,14 +673,6 @@
       "onboard_time": 1700449653,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1112578,
-      "num": 1112578,
-      "word": "跑男元老只剩李晨和郑恺了",
-      "onboard_time": 1700575841,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1095923,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1700486314,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 692683,
+      "num": 692683,
+      "word": "朝鲜向日通报计划第三次试射卫星",
+      "onboard_time": 1700577877,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 692460,
@@ -1803,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 514869,
+      "num": 514869,
+      "word": "国足尽力了",
+      "onboard_time": 1700577997,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511043,
       "num": 1284402,
       "word": "男子买3千斤滞销白菜让人免费取",
@@ -1987,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483252,
+      "num": 483252,
+      "word": "5岁男孩发现5亿年前古生物化石",
+      "onboard_time": 1700577340,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477159,
       "num": 1179461,
       "word": "2024载人航天飞行任务标识发布",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1700320176,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 449688,
+      "num": 449688,
+      "word": "孙燕姿 开始懂了",
+      "onboard_time": 1700577579,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 448161,
@@ -2409,6 +2449,14 @@
       "onboard_time": 1700479116,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396131,
+      "num": 396131,
+      "word": "巴宝莉赚不到我一分钱",
+      "onboard_time": 1700578416,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 396111,
@@ -3795,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263496,
+      "num": 263496,
+      "word": "花儿与少年下一站导游会是谁",
+      "onboard_time": 1700578656,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262625,
       "num": 213511,
       "word": "李现称粉丝为天现公主",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1700440654,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250460,
+      "num": 250460,
+      "word": "杨幂拳击辫",
+      "onboard_time": 1700573496,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249811,
@@ -4241,14 +4305,6 @@
       "onboard_time": 1700399799,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239772,
-      "num": 239772,
-      "word": "杨幂拳击辫",
-      "onboard_time": 1700573496,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239722,
@@ -4569,6 +4625,14 @@
       "onboard_time": 1700362649,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220975,
+      "num": 220975,
+      "word": "KPL赛区最强战力集结",
+      "onboard_time": 1700578119,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 220939,
@@ -5395,6 +5459,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 195776,
+      "num": 195776,
+      "word": "王栎鑫新剧人设",
+      "onboard_time": 1700577039,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195712,
       "num": 195712,
       "word": "郑昇炫头球破门",
@@ -5961,6 +6033,14 @@
       "onboard_time": 1700529154,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176215,
+      "num": 163308,
+      "word": "花儿与少年丝路季",
+      "onboard_time": 1700579676,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 175866,
@@ -6883,14 +6963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142102,
-      "num": 142102,
-      "word": "王栎鑫新剧人设",
-      "onboard_time": 1700577039,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142072,
       "num": 142072,
       "word": "aespa宁艺卓直拍",
@@ -7019,20 +7091,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138590,
-      "num": 138590,
-      "word": "5岁男孩发现5亿年前古生物化石",
-      "onboard_time": 1700577340,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138482,
       "num": 208651,
       "word": "AG战胜DRG",
       "onboard_time": 1700321555,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138411,
+      "num": 138411,
+      "word": "小姑娘用荷叶装饰大学路灯秒入童话世界",
+      "onboard_time": 1700578836,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138274,
+      "num": 138274,
+      "word": "最适合苏炳添的综艺",
+      "onboard_time": 1700579735,
+      "rank": 45,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 138153,
@@ -7089,6 +7169,14 @@
       "onboard_time": 1700352928,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 136187,
+      "num": 136187,
+      "word": "适合秋冬的口红推荐",
+      "onboard_time": 1700578539,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 136185,
@@ -8219,6 +8307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71706,
+      "num": 414159,
+      "word": "兰蔻最美限定版来了",
+      "onboard_time": 1700575063,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 71100,
       "num": 2311303,
       "word": "全球九大候鸟迁飞区四个经过我国",
@@ -8321,14 +8417,6 @@
       "onboard_time": 1700499741,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54311,
-      "num": 168527,
-      "word": "兰蔻最美限定版来了",
-      "onboard_time": 1700575063,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 52080,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700577407409,
+  "endTime": 1700579954222,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -553,6 +553,14 @@
       "onboard_time": 1700141263,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2979343,
+      "num": 2979343,
+      "word": "冲绳",
+      "onboard_time": 1700577877,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2969153,
@@ -3747,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285459,
+      "num": 1285459,
+      "word": "跑男元老只剩李晨和郑恺了",
+      "onboard_time": 1700575841,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1285342,
       "num": 443703,
       "word": "亨利集团",
@@ -4721,14 +4737,6 @@
       "onboard_time": 1699864831,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1112578,
-      "num": 1112578,
-      "word": "跑男元老只剩李晨和郑恺了",
-      "onboard_time": 1700575841,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1111056,
@@ -9139,6 +9147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 692683,
+      "num": 692683,
+      "word": "朝鲜向日通报计划第三次试射卫星",
+      "onboard_time": 1700577877,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 692460,
       "num": 692460,
       "word": "怎么就点球了",
@@ -13355,6 +13371,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 514869,
+      "num": 514869,
+      "word": "国足尽力了",
+      "onboard_time": 1700577997,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514060,
       "num": 514060,
       "word": "爸妈看电视才知道女儿是战地记者",
@@ -14377,6 +14401,14 @@
       "onboard_time": 1699363536,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 483252,
+      "num": 483252,
+      "word": "5岁男孩发现5亿年前古生物化石",
+      "onboard_time": 1700577340,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483104,
@@ -15569,6 +15601,14 @@
       "onboard_time": 1699180241,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449688,
+      "num": 449688,
+      "word": "孙燕姿 开始懂了",
+      "onboard_time": 1700577579,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 448971,
@@ -18073,6 +18113,14 @@
       "onboard_time": 1698909158,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 396131,
+      "num": 396131,
+      "word": "巴宝莉赚不到我一分钱",
+      "onboard_time": 1700578416,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 396111,
@@ -26955,6 +27003,14 @@
       "category": "美妆,美食"
     },
     {
+      "raw_hot": 263496,
+      "num": 263496,
+      "word": "花儿与少年下一站导游会是谁",
+      "onboard_time": 1700578656,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263252,
       "num": 263252,
       "word": "莫文蔚公开绝版写真",
@@ -28347,6 +28403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250460,
+      "num": 250460,
+      "word": "杨幂拳击辫",
+      "onboard_time": 1700573496,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 250296,
       "num": 250296,
       "word": "被演戏耽误的实力歌手",
@@ -29625,14 +29689,6 @@
       "onboard_time": 1700399799,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239772,
-      "num": 239772,
-      "word": "杨幂拳击辫",
-      "onboard_time": 1700573496,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239734,
@@ -32089,6 +32145,14 @@
       "onboard_time": 1700362649,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220975,
+      "num": 220975,
+      "word": "KPL赛区最强战力集结",
+      "onboard_time": 1700578119,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 220974,
@@ -36907,6 +36971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195776,
+      "num": 195776,
+      "word": "王栎鑫新剧人设",
+      "onboard_time": 1700577039,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195712,
       "num": 195712,
       "word": "郑昇炫头球破门",
@@ -40905,6 +40977,14 @@
       "onboard_time": 1700319215,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176215,
+      "num": 163308,
+      "word": "花儿与少年丝路季",
+      "onboard_time": 1700579676,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 175945,
@@ -47331,14 +47411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142102,
-      "num": 142102,
-      "word": "王栎鑫新剧人设",
-      "onboard_time": 1700577039,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142089,
       "num": 188228,
       "word": "街头古法美容让我白了一度",
@@ -47987,14 +48059,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 138590,
-      "num": 138590,
-      "word": "5岁男孩发现5亿年前古生物化石",
-      "onboard_time": 1700577340,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138549,
       "num": 291534,
       "word": "无线耳机的破防时刻",
@@ -48035,6 +48099,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 138411,
+      "num": 138411,
+      "word": "小姑娘用荷叶装饰大学路灯秒入童话世界",
+      "onboard_time": 1700578836,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138406,
       "num": 138406,
       "word": "以爱为营决战修罗场之巅",
@@ -48065,6 +48137,14 @@
       "onboard_time": 1699273595,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138274,
+      "num": 138274,
+      "word": "最适合苏炳添的综艺",
+      "onboard_time": 1700579735,
+      "rank": 45,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 138237,
@@ -48377,6 +48457,14 @@
       "onboard_time": 1700352928,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 136187,
+      "num": 136187,
+      "word": "适合秋冬的口红推荐",
+      "onboard_time": 1700578539,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 136185,
@@ -56235,6 +56323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71706,
+      "num": 414159,
+      "word": "兰蔻最美限定版来了",
+      "onboard_time": 1700575063,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
@@ -57137,14 +57233,6 @@
       "onboard_time": 1699819394,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54311,
-      "num": 168527,
-      "word": "兰蔻最美限定版来了",
-      "onboard_time": 1700575063,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 54275,
