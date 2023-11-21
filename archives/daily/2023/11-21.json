@@ -1,7 +1,15 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700537669021,
+  "endTime": 1700540511631,
   "band_list": [
+    {
+      "raw_hot": 2563986,
+      "num": 1406006,
+      "word": "曾志伟回应拍片为缅北电诈头目庆生",
+      "onboard_time": 1700536473,
+      "rank": 15,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2094351,
       "num": 2094351,
@@ -9,14 +17,6 @@
       "onboard_time": 1700526334,
       "rank": 0,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 1406006,
-      "num": 1406006,
-      "word": "曾志伟回应拍片为缅北电诈头目庆生",
-      "onboard_time": 1700536473,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1335805,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859484,
+      "num": 471536,
+      "word": "痞幼妆",
+      "onboard_time": 1700534793,
+      "rank": 10,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 851527,
       "num": 851527,
       "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
@@ -107,12 +115,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 709922,
-      "num": 465184,
-      "word": "痞幼妆",
-      "onboard_time": 1700534793,
-      "rank": 10,
-      "category": "美妆,网红"
+      "raw_hot": 722422,
+      "num": 722422,
+      "word": "缅北累计向中方移交3.1万名电诈嫌疑人",
+      "onboard_time": 1700537672,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686243,
@@ -233,6 +241,30 @@
       "onboard_time": 1700529932,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 438225,
+      "num": 391872,
+      "word": "T1官宣Kkoma回归",
+      "onboard_time": 1700539054,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 434357,
+      "num": 434357,
+      "word": "王一博黑粉判赔2.8万元",
+      "onboard_time": 1700540503,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431121,
+      "num": 431121,
+      "word": "有影院我本是高山点映被取消",
+      "onboard_time": 1700537554,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 404176,
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256558,
+      "num": 256558,
+      "word": "陈奕迅演唱会抢票",
+      "onboard_time": 1700539417,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253909,
       "num": 253909,
       "word": "面部折叠度是什么",
@@ -449,6 +489,14 @@
       "onboard_time": 1700528981,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 236498,
+      "num": 236498,
+      "word": "妈妈平时是一个睡得很早的人",
+      "onboard_time": 1700538934,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 226388,
@@ -491,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214726,
+      "num": 214726,
+      "word": "女童海边溺水2名西装大哥冲下海救回",
+      "onboard_time": 1700536294,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 212626,
       "num": 212626,
       "word": "东北冷到发紫",
@@ -505,6 +561,14 @@
       "onboard_time": 1700523988,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210433,
+      "num": 210433,
+      "word": "檀健次ELLE湿发浴缸大片",
+      "onboard_time": 1700539298,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209936,
@@ -529,6 +593,14 @@
       "onboard_time": 1700522064,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208491,
+      "num": 208491,
+      "word": "DRX官宣BeryL离队",
+      "onboard_time": 1700537792,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 206253,
@@ -572,19 +644,19 @@
     },
     {
       "raw_hot": 186610,
-      "num": 167402,
+      "num": 179141,
       "word": "爱不爱吃螃蟹的都沉默了",
       "onboard_time": 1700534010,
       "rank": 30,
       "category": "美食"
     },
     {
-      "raw_hot": 184535,
-      "num": 184535,
-      "word": "女童海边溺水2名西装大哥冲下海救回",
-      "onboard_time": 1700536294,
-      "rank": 41,
-      "category": "社会正能量"
+      "raw_hot": 185532,
+      "num": 185532,
+      "word": "胡先煦的闹钟叫醒的永远不是胡先煦",
+      "onboard_time": 1700537792,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 183189,
@@ -625,6 +697,14 @@
       "onboard_time": 1700529154,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175866,
+      "num": 175866,
+      "word": "我只想莫名其妙享清福",
+      "onboard_time": 1700539475,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 174198,
@@ -683,6 +763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165043,
+      "num": 165043,
+      "word": "专家称皮肤保养最重要的是好好睡觉",
+      "onboard_time": 1700539417,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 164796,
       "num": 164796,
       "word": "佘诗曼新闻女王的吻戏",
@@ -737,6 +825,14 @@
       "onboard_time": 1700451514,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150150,
+      "num": 150150,
+      "word": "欢迎来到麦乐村今日开播",
+      "onboard_time": 1700539178,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 148679,
@@ -795,6 +891,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143058,
+      "num": 150148,
+      "word": "你通常上班前还是下班后洗杯子",
+      "onboard_time": 1700540379,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141703,
+      "num": 150145,
+      "word": "金牛座为什么会分手",
+      "onboard_time": 1700540503,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139819,
       "num": 139819,
       "word": "没有一个馒头能素颜走出山东",
@@ -833,6 +945,14 @@
       "onboard_time": 1700527475,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130950,
+      "num": 1040388,
+      "word": "运20将再赴韩国接运烈士遗骸回国",
+      "onboard_time": 1700536175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124890,
@@ -947,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106891,
-      "num": 106891,
-      "word": "有影院我本是高山点映被取消",
-      "onboard_time": 1700537554,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 105878,
       "num": 105878,
       "word": "入青云 主演",
@@ -985,14 +1097,6 @@
       "onboard_time": 1700522064,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 102975,
-      "num": 1040388,
-      "word": "运20将再赴韩国接运烈士遗骸回国",
-      "onboard_time": 1700536175,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102410,
@@ -1271,6 +1375,9 @@
     },
     {
       "word": "#习近平同法国总统马克龙通电话#"
+    },
+    {
+      "word": "#巴以问题特别视频峰会#"
     }
   ]
 }
