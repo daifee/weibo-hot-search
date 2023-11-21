@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700565344526,
+  "endTime": 1700566455230,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2045586,
+      "num": 2045586,
+      "word": "高嘌呤食物排行榜",
+      "onboard_time": 1700562755,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1949035,
       "num": 1949035,
       "word": "甄嬛传将放完整版",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 1687873,
-      "num": 465437,
+      "num": 554126,
       "word": "传说中的开十指有这么大",
       "onboard_time": 1700551356,
       "rank": 30,
@@ -345,14 +353,6 @@
       "onboard_time": 1700421135,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1654820,
-      "num": 1654820,
-      "word": "高嘌呤食物排行榜",
-      "onboard_time": 1700562755,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1644196,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1036516,
-      "num": 463988,
+      "num": 554037,
       "word": "傅首尔 再也没有人会这样对我了",
       "onboard_time": 1700561255,
       "rank": 11,
@@ -937,6 +937,14 @@
       "onboard_time": 1700387019,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 746472,
+      "num": 746472,
+      "word": "国足vs韩国",
+      "onboard_time": 1700547277,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 738158,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1700380410,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 594988,
+      "num": 594988,
+      "word": "李荣浩杭州嘉宾 陈奕迅",
+      "onboard_time": 1700565633,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 594240,
@@ -3020,7 +3036,7 @@
     },
     {
       "raw_hot": 308599,
-      "num": 184522,
+      "num": 286574,
       "word": "张琳芃出任国足队长",
       "onboard_time": 1700564974,
       "rank": 30,
@@ -3283,6 +3299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 282793,
+      "num": 252154,
+      "word": "周杰伦茅台鸡尾酒",
+      "onboard_time": 1700565453,
+      "rank": 21,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 282768,
       "num": 282768,
       "word": "管泽元鲜奶",
@@ -3388,7 +3412,7 @@
     },
     {
       "raw_hot": 271891,
-      "num": 249187,
+      "num": 250834,
       "word": "双鱼座很聪明但就是懒",
       "onboard_time": 1700562991,
       "rank": 25,
@@ -3867,6 +3891,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 242705,
+      "num": 242705,
+      "word": "黄渤差点演了烈日灼心",
+      "onboard_time": 1700564014,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 242621,
+      "num": 242621,
+      "word": "我国肝癌患者每年新增41万",
+      "onboard_time": 1700562991,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 242458,
       "num": 242458,
       "word": "宋亚轩贺峻霖说相声",
@@ -4083,14 +4123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228906,
-      "num": 228906,
-      "word": "我国肝癌患者每年新增41万",
-      "onboard_time": 1700562991,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 228826,
       "num": 228826,
       "word": "阿里巴巴就裁员谣言报警",
@@ -4267,12 +4299,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 219552,
-      "num": 219552,
-      "word": "国足vs韩国",
-      "onboard_time": 1700547277,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 219448,
+      "num": 219448,
+      "word": "看完想学滑板了",
+      "onboard_time": 1700564733,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 219430,
@@ -4331,28 +4363,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 217844,
-      "num": 217844,
-      "word": "黄渤差点演了烈日灼心",
-      "onboard_time": 1700564014,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217814,
       "num": 217814,
       "word": "丞磊挺忙的",
       "onboard_time": 1700389174,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217622,
-      "num": 183554,
-      "word": "看完想学滑板了",
-      "onboard_time": 1700564733,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 217568,
@@ -4723,6 +4739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203998,
+      "num": 203998,
+      "word": "佘诗曼谈新闻女王剧情",
+      "onboard_time": 1700565333,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203759,
       "num": 203759,
       "word": "胡彦斌 以后要写简单一点的歌",
@@ -5011,6 +5035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194265,
+      "num": 194265,
+      "word": "孙兴慜赛前动员发言",
+      "onboard_time": 1700565513,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194124,
       "num": 194124,
       "word": "LOL新英雄彗",
@@ -5089,6 +5121,14 @@
       "onboard_time": 1700457693,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191163,
+      "num": 750886,
+      "word": "大熊猫有新的计数单位了",
+      "onboard_time": 1700564974,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191000,
@@ -5521,6 +5561,14 @@
       "onboard_time": 1700455602,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176982,
+      "num": 176982,
+      "word": "考研选择题 我生性多疑",
+      "onboard_time": 1700566292,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 176642,
@@ -6635,6 +6683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134667,
+      "num": 134667,
+      "word": "LGD 五个癫子",
+      "onboard_time": 1700566413,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134422,
       "num": 199234,
       "word": "KPL",
@@ -6979,6 +7035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121500,
+      "num": 121500,
+      "word": "化妆的尽头其实是裸妆",
+      "onboard_time": 1700566234,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121150,
       "num": 121150,
       "word": "经常画画的人手有多稳",
@@ -7051,14 +7115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 118264,
-      "num": 118264,
-      "word": "佘诗曼谈新闻女王剧情",
-      "onboard_time": 1700565333,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117667,
       "num": 117667,
       "word": "95后小伙获评中国消防忠诚卫士",
@@ -7128,14 +7184,6 @@
       "word": "五世同堂接龙喊爸爸",
       "onboard_time": 1700537434,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112562,
-      "num": 166600,
-      "word": "大熊猫有新的计数单位了",
-      "onboard_time": 1700564974,
-      "rank": 36,
       "category": "社会新闻"
     },
     {

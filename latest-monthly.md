@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/21 19:15:44
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/21 19:34:15
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ ELLE红毯（热度：2062330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C%23" target="weibo">
+高嘌呤食物排行榜（热度：2045586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%85%83%E9%92%B1%E5%B7%B2%E7%BB%8F%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%A5%AE%E6%96%99%E4%BA%86%23" target="weibo">
 3元钱已经买不到饮料了（热度：2040579）
 </a>
@@ -1799,12 +1805,6 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23" target="weibo">
 内娱史上最炸裂的6分32秒谈话（热度：1658878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%98%8C%E5%91%A4%E9%A3%9F%E7%89%A9%E6%8E%92%E8%A1%8C%E6%A6%9C%23" target="weibo">
-高嘌呤食物排行榜（热度：1654820）
 </a>
 </li>
 

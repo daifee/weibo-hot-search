@@ -1,0 +1,410 @@
+{
+  "runTime": 1700566455230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2045586,
+        "num": 2045586,
+        "word": "高嘌呤食物排行榜",
+        "onboard_time": 1700562755,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310269,
+        "num": 1217250,
+        "word": "男子买3千斤滞销白菜让人免费取",
+        "onboard_time": 1700547874,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90663,
+        "num": 1004852,
+        "word": "非遗苏绣绣出的星河太震撼",
+        "onboard_time": 1700552675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958398,
+        "num": 958398,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191163,
+        "num": 750886,
+        "word": "大熊猫有新的计数单位了",
+        "onboard_time": 1700564974,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746472,
+        "num": 746472,
+        "word": "国足vs韩国",
+        "onboard_time": 1700565812,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167577,
+        "num": 595356,
+        "word": "辅警吃饭一眼锁定嫌疑人",
+        "onboard_time": 1700560235,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594988,
+        "num": 594988,
+        "word": "李荣浩杭州嘉宾 陈奕迅",
+        "onboard_time": 1700565633,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 592534,
+        "num": 592534,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576024,
+        "num": 576024,
+        "word": "李晨去体综了",
+        "onboard_time": 1700557353,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1579128,
+        "num": 554126,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 694949,
+        "num": 554037,
+        "word": "傅首尔 再也没有人会这样对我了",
+        "onboard_time": 1700561255,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506461,
+        "num": 506461,
+        "word": "国足首发",
+        "onboard_time": 1700562514,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428497,
+        "num": 428497,
+        "word": "韦世豪4号",
+        "onboard_time": 1700564434,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330485,
+        "num": 330485,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319966,
+        "num": 319966,
+        "word": "电视家",
+        "onboard_time": 1700561915,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 319505,
+        "num": 319505,
+        "word": "麻省理工一中国博士生突然身亡",
+        "onboard_time": 1700549315,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286574,
+        "num": 286574,
+        "word": "张琳芃出任国足队长",
+        "onboard_time": 1700564974,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280586,
+        "num": 280586,
+        "word": "偷偷藏不住上了阿里Q2财报",
+        "onboard_time": 1700555195,
+        "rank": 18,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 260533,
+        "num": 260533,
+        "word": "谁允许你们在签售会演台偶的",
+        "onboard_time": 1700559571,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 461671,
+        "num": 253844,
+        "word": "假僧人诱奸14名女性3人未成年被判无期",
+        "onboard_time": 1700560654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282793,
+        "num": 252154,
+        "word": "周杰伦茅台鸡尾酒",
+        "onboard_time": 1700565453,
+        "rank": 21,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 261351,
+        "num": 250834,
+        "word": "双鱼座很聪明但就是懒",
+        "onboard_time": 1700562991,
+        "rank": 22,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 246304,
+        "num": 246304,
+        "word": "王鹤棣深夜送王彦霖夫妻去医院",
+        "onboard_time": 1700545237,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242705,
+        "num": 242705,
+        "word": "黄渤差点演了烈日灼心",
+        "onboard_time": 1700564014,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242621,
+        "num": 242621,
+        "word": "我国肝癌患者每年新增41万",
+        "onboard_time": 1700562991,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221133,
+        "num": 221133,
+        "word": "黑莲花上位手册下架公告",
+        "onboard_time": 1700559092,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219448,
+        "num": 219448,
+        "word": "看完想学滑板了",
+        "onboard_time": 1700564733,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 203998,
+        "num": 203998,
+        "word": "佘诗曼谈新闻女王剧情",
+        "onboard_time": 1700565333,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200398,
+        "num": 200398,
+        "word": "许文婷心态富人",
+        "onboard_time": 1700563052,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198185,
+        "num": 198185,
+        "word": "国足世预赛",
+        "onboard_time": 1700561615,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196175,
+        "num": 196175,
+        "word": "体检查出这些毛病根本不用治",
+        "onboard_time": 1700557413,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194265,
+        "num": 194265,
+        "word": "孙兴慜赛前动员发言",
+        "onboard_time": 1700565513,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176982,
+        "num": 176982,
+        "word": "考研选择题 我生性多疑",
+        "onboard_time": 1700566292,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169567,
+        "num": 169567,
+        "word": "杨紫 选本自由",
+        "onboard_time": 1700553874,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165499,
+        "num": 165499,
+        "word": "CPA出分了",
+        "onboard_time": 1700554777,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164575,
+        "num": 164575,
+        "word": "乙肝临床治愈门诊",
+        "onboard_time": 1700564434,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163857,
+        "num": 163857,
+        "word": "瓶子 算分",
+        "onboard_time": 1700562035,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157118,
+        "num": 157118,
+        "word": "应渊 世间真神",
+        "onboard_time": 1700556515,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156967,
+        "num": 156967,
+        "word": "花少Q版迪丽热巴",
+        "onboard_time": 1700562455,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152542,
+        "num": 152542,
+        "word": "广东人是懂煲的",
+        "onboard_time": 1700564014,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136635,
+        "num": 136635,
+        "word": "成都未成年少女陪侍醉酒后摔成重伤",
+        "onboard_time": 1700557176,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136426,
+        "num": 136426,
+        "word": "难哄就别哄了",
+        "onboard_time": 1700541161,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134667,
+        "num": 134667,
+        "word": "LGD 五个癫子",
+        "onboard_time": 1700566413,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "佛山DRG世冠淘汰",
+        "onboard_time": 1700563473,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128569,
+        "num": 128569,
+        "word": "电视家多个公众号改名",
+        "onboard_time": 1700540919,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126927,
+        "num": 126927,
+        "word": "徐峥说看完怒海重新爱上黄渤",
+        "onboard_time": 1700564794,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121500,
+        "num": 121500,
+        "word": "化妆的尽头其实是裸妆",
+        "onboard_time": 1700566234,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120730,
+        "num": 120730,
+        "word": "张韶涵潘玮柏合体",
+        "onboard_time": 1700560834,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118127,
+        "num": 118127,
+        "word": "朴振英把姚琛的上衣穿走了吗",
+        "onboard_time": 1700561795,
+        "rank": 49,
+        "category": "音乐,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
