@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700605042010,
+  "endTime": 1700606095269,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -83,8 +83,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 279441,
-      "num": 279441,
+      "raw_hot": 311006,
+      "num": 311006,
       "word": "民警怒吼十几万不是从天上掉下来的",
       "onboard_time": 1700585662,
       "rank": 23,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65180,
+      "num": 65180,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 59570,
       "num": 71798,
       "word": "武磊抗议裁判",
@@ -425,14 +433,6 @@
       "onboard_time": 1700585004,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 53069,
-      "num": 53069,
-      "word": "儿子跳水救3人母亲骄傲藏不住",
-      "onboard_time": 1700595133,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 50823,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22276,
+      "num": 29535,
+      "word": "全盘发和半扎发",
+      "onboard_time": 1700597833,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 19469,
       "num": 36272,
       "word": "清融哭了",
@@ -483,15 +491,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17383,
-      "num": 29535,
-      "word": "全盘发和半扎发",
-      "onboard_time": 1700597833,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 16541,
+      "raw_hot": 19263,
       "num": 29521,
       "word": "孕妇到底能不能护肤",
       "onboard_time": 1700600712,

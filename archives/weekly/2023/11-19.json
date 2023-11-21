@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700605042010,
+  "endTime": 1700606095269,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -3307,6 +3307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311006,
+      "num": 311006,
+      "word": "民警怒吼十几万不是从天上掉下来的",
+      "onboard_time": 1700585662,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310193,
       "num": 310193,
       "word": "海清演技",
@@ -3641,14 +3649,6 @@
       "onboard_time": 1700393216,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279441,
-      "num": 279441,
-      "word": "民警怒吼十几万不是从天上掉下来的",
-      "onboard_time": 1700585662,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278300,
@@ -8395,6 +8395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 65180,
+      "num": 65180,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 65122,
       "num": 65122,
       "word": "护士翻过工作台飞奔救援6岁女孩",
@@ -8489,14 +8497,6 @@
       "onboard_time": 1700499741,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53069,
-      "num": 53069,
-      "word": "儿子跳水救3人母亲骄傲藏不住",
-      "onboard_time": 1700595133,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 52080,
@@ -8643,6 +8643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22276,
+      "num": 29535,
+      "word": "全盘发和半扎发",
+      "onboard_time": 1700597833,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 22195,
       "num": 31353,
       "word": "张靓颖 是谁接我下班呀",
@@ -8683,28 +8691,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19263,
+      "num": 29521,
+      "word": "孕妇到底能不能护肤",
+      "onboard_time": 1700600712,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 18447,
       "num": 493146,
       "word": "中国一直是亚太合作重要的贡献者",
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17383,
-      "num": 29535,
-      "word": "全盘发和半扎发",
-      "onboard_time": 1700597833,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 16541,
-      "num": 29521,
-      "word": "孕妇到底能不能护肤",
-      "onboard_time": 1700600712,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 14163,
