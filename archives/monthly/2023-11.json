@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700552057201,
+  "endTime": 1700554982575,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -737,6 +737,14 @@
       "onboard_time": 1699937438,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2642333,
+      "num": 2642333,
+      "word": "傅首尔两万多张照片被老刘格式化了",
+      "onboard_time": 1700551777,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 2603654,
@@ -3041,6 +3049,14 @@
       "onboard_time": 1699111959,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1474485,
+      "num": 1474485,
+      "word": "CPA出分了",
+      "onboard_time": 1700554777,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1473564,
@@ -6515,6 +6531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 847856,
+      "num": 847856,
+      "word": "孙怡 为什么都在劝老刘放手",
+      "onboard_time": 1700552134,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 847590,
       "num": 847590,
       "word": "想看韩网热评",
@@ -7657,6 +7681,14 @@
       "onboard_time": 1699766910,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766886,
+      "num": 414380,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 766664,
@@ -9011,6 +9043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690492,
+      "num": 690492,
+      "word": "韩媒说中国队防不住孙兴慜",
+      "onboard_time": 1700552675,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689967,
       "num": 689967,
       "word": "女教师辞职拍飞机6年拍几十万张",
@@ -10204,7 +10244,7 @@
     },
     {
       "raw_hot": 623479,
-      "num": 282072,
+      "num": 390630,
       "word": "央媒称该管管所谓的明星祝福视频了",
       "onboard_time": 1700547817,
       "rank": 22,
@@ -11292,7 +11332,7 @@
     },
     {
       "raw_hot": 583601,
-      "num": 221439,
+      "num": 399506,
       "word": "北仑公安转发白敬亭工作室",
       "onboard_time": 1700550756,
       "rank": 31,
@@ -11681,6 +11721,14 @@
       "onboard_time": 1698902673,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 566046,
+      "num": 405931,
+      "word": "papi酱明白傅首尔最担心的点",
+      "onboard_time": 1700552794,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 565893,
@@ -14819,6 +14867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463653,
+      "num": 463653,
+      "word": "天玑8300",
+      "onboard_time": 1700552794,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 463255,
       "num": 463255,
       "word": "很想很想你定档预告",
@@ -16539,6 +16595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418424,
+      "num": 305555,
+      "word": "杨紫 选本自由",
+      "onboard_time": 1700553874,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 418257,
       "num": 418257,
       "word": "OpenAI人事巨震",
@@ -17795,14 +17859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394085,
-      "num": 213529,
-      "word": "傅首尔两万多张照片被老刘格式化了",
-      "onboard_time": 1700551777,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 393829,
       "num": 285133,
       "word": "香奈儿大秀",
@@ -18321,6 +18377,14 @@
       "onboard_time": 1700237612,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 383954,
+      "num": 383954,
+      "word": "2023尖叫之夜全阵容",
+      "onboard_time": 1700552195,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 383911,
@@ -18940,7 +19004,7 @@
     },
     {
       "raw_hot": 373101,
-      "num": 206239,
+      "num": 277259,
       "word": "朋友圈三天可见是不合群的表现吗",
       "onboard_time": 1700548894,
       "rank": 21,
@@ -19913,6 +19977,14 @@
       "onboard_time": 1699351894,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355542,
+      "num": 355542,
+      "word": "B站已经部分上线前台实名",
+      "onboard_time": 1700551534,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 355440,
@@ -22091,14 +22163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318165,
-      "num": 146935,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 318155,
       "num": 318155,
       "word": "宁安如梦 跨国跨物种发疯",
@@ -23067,6 +23131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 304216,
+      "num": 304216,
+      "word": "韩东君抽烟镜头",
+      "onboard_time": 1700553756,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304192,
       "num": 304192,
       "word": "这是烤冷面那我吃的是什么",
@@ -23385,6 +23457,14 @@
       "onboard_time": 1700034935,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 299791,
+      "num": 299791,
+      "word": "吴千语施伯雄备婚",
+      "onboard_time": 1700552556,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 299635,
@@ -24657,6 +24737,14 @@
       "onboard_time": 1700395778,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282867,
+      "num": 282867,
+      "word": "建议大学倒过来上",
+      "onboard_time": 1700553517,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 282814,
@@ -26257,6 +26345,14 @@
       "onboard_time": 1700055397,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265191,
+      "num": 265191,
+      "word": "宋雨琦玫瑰红吊带裙",
+      "onboard_time": 1700552556,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265181,
@@ -28627,6 +28723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243733,
+      "num": 243733,
+      "word": "檀健次的胸肌 偷偷藏不住",
+      "onboard_time": 1700554897,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 243731,
       "num": 243731,
       "word": "安徽宏村现丁达尔现象",
@@ -28872,6 +28976,14 @@
       "word": "闪亮的西瓜",
       "onboard_time": 1699967070,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241425,
+      "num": 241425,
+      "word": "李沁曾舜晞开机路透",
+      "onboard_time": 1700552917,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -37043,6 +37155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 190762,
+      "num": 190762,
+      "word": "RW战胜TES",
+      "onboard_time": 1700554295,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190760,
       "num": 190760,
       "word": "显脸小眼妆就要这么化",
@@ -37827,6 +37947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187738,
+      "num": 187738,
+      "word": "勇士 主场哨",
+      "onboard_time": 1700553457,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187683,
       "num": 187683,
       "word": "安溥时寐青岛站官宣",
@@ -37905,14 +38033,6 @@
       "onboard_time": 1699007556,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 187373,
-      "num": 187373,
-      "word": "B站已经部分上线前台实名",
-      "onboard_time": 1700551534,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 187330,
@@ -39657,6 +39777,14 @@
       "onboard_time": 1700469634,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177969,
+      "num": 177969,
+      "word": "黄喜灿深圳商店买鞋",
+      "onboard_time": 1700553158,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 177883,
@@ -42185,6 +42313,14 @@
       "onboard_time": 1699690048,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164141,
+      "num": 1393929,
+      "word": "非遗苏绣绣出的星河太震撼",
+      "onboard_time": 1700552675,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164139,
@@ -45027,6 +45163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148465,
+      "num": 148465,
+      "word": "减肥后反弹多少斤算正常",
+      "onboard_time": 1700551235,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 148429,
       "num": 1394906,
       "word": "第一次看到这么灵活的女主",
@@ -46755,6 +46899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139833,
+      "num": 139833,
+      "word": "考研的书被狗子撕坏了",
+      "onboard_time": 1700554175,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139819,
       "num": 139819,
       "word": "没有一个馒头能素颜走出山东",
@@ -47723,14 +47875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134033,
-      "num": 134033,
-      "word": "减肥后反弹多少斤算正常",
-      "onboard_time": 1700551235,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 134025,
       "num": 266540,
       "word": "狮子座流星雨",
@@ -47913,6 +48057,14 @@
       "onboard_time": 1699441773,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133429,
+      "num": 133429,
+      "word": "TES世冠淘汰",
+      "onboard_time": 1700553036,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 133416,
@@ -48385,6 +48537,14 @@
       "onboard_time": 1699869934,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131432,
+      "num": 131432,
+      "word": "梅西重回马拉卡纳",
+      "onboard_time": 1700554418,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 131365,
@@ -49089,6 +49249,14 @@
       "onboard_time": 1700148640,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127464,
+      "num": 127464,
+      "word": "鞠婧祎同款八字刘海",
+      "onboard_time": 1700554234,
+      "rank": 43,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 127455,
@@ -50257,6 +50425,14 @@
       "onboard_time": 1700010755,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121150,
+      "num": 121150,
+      "word": "经常画画的人手有多稳",
+      "onboard_time": 1700553219,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121148,
@@ -52107,6 +52283,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 109152,
+      "num": 109152,
+      "word": "小猫咪吃一堑又吃一堑",
+      "onboard_time": 1700552977,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108999,
       "num": 145592,
       "word": "DEAN新歌空降",
@@ -52497,6 +52681,14 @@
       "onboard_time": 1699281945,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104975,
+      "num": 104975,
+      "word": "当代年轻人结婚能有多整活",
+      "onboard_time": 1700553997,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104963,
@@ -56177,6 +56369,14 @@
       "onboard_time": 1699261293,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49785,
+      "num": 389316,
+      "word": "天价白酒董事长称再贵5倍也值",
+      "onboard_time": 1700554418,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 49330,
