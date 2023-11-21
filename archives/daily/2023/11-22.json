@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700587146502,
+  "endTime": 1700588223239,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -153,6 +153,14 @@
       "onboard_time": 1700577877,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 163060,
+      "num": 163060,
+      "word": "民警怒吼十几万不是从天上掉下来的",
+      "onboard_time": 1700585662,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161919,
@@ -393,14 +401,6 @@
       "onboard_time": 1700542720,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70793,
-      "num": 84261,
-      "word": "民警怒吼十几万不是从天上掉下来的",
-      "onboard_time": 1700585662,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68017,
