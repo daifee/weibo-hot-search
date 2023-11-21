@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700573652923,
+  "endTime": 1700576257913,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -569,6 +569,14 @@
       "onboard_time": 1699847673,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2926091,
+      "num": 2926091,
+      "word": "国足0比3不敌韩国",
+      "onboard_time": 1700575182,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2923818,
@@ -3299,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1389881,
+      "num": 1389881,
+      "word": "裁判",
+      "onboard_time": 1700570137,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1389496,
       "num": 1389496,
       "word": "苹果公司将禁止摇一摇跳转广告",
@@ -5531,14 +5547,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 980820,
-      "num": 980820,
-      "word": "裁判",
-      "onboard_time": 1700570137,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 980635,
       "num": 730995,
       "word": "燕临 我哭死",
@@ -5617,6 +5625,14 @@
       "onboard_time": 1700235521,
       "rank": 10,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 972596,
+      "num": 972596,
+      "word": "吴世勋视频通话",
+      "onboard_time": 1700573496,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 971758,
@@ -6859,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823784,
+      "num": 823784,
+      "word": "幼师将孩子小冰手放进自己衣服里",
+      "onboard_time": 1700572297,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823473,
       "num": 550197,
       "word": "代入一下关晓彤",
@@ -7641,6 +7665,14 @@
       "onboard_time": 1699481056,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 778312,
+      "num": 778312,
+      "word": "武磊抗议裁判",
+      "onboard_time": 1700574519,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 776972,
@@ -9627,6 +9659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662281,
+      "num": 466474,
+      "word": "白敬亭告黑效率",
+      "onboard_time": 1700572658,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661719,
       "num": 661719,
       "word": "刘耀文胸前纹身贴",
@@ -9948,7 +9988,7 @@
     },
     {
       "raw_hot": 642131,
-      "num": 420333,
+      "num": 514987,
       "word": "郭晶晶霍启刚一家五口看音乐会",
       "onboard_time": 1700571699,
       "rank": 12,
@@ -11457,14 +11497,6 @@
       "onboard_time": 1698797615,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 584643,
-      "num": 413667,
-      "word": "白敬亭告黑效率",
-      "onboard_time": 1700572658,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 584027,
@@ -15123,6 +15155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462737,
+      "num": 462737,
+      "word": "李荣浩 不是我说的",
+      "onboard_time": 1700573737,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 462706,
       "num": 462706,
       "word": "警方通报女子将孩子推下池塘",
@@ -16633,6 +16673,14 @@
       "onboard_time": 1700190456,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421422,
+      "num": 421422,
+      "word": "热刺球衣",
+      "onboard_time": 1700575542,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 421349,
@@ -19843,6 +19891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362337,
+      "num": 362337,
+      "word": "跑男元老只剩李晨和郑恺了",
+      "onboard_time": 1700575841,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362071,
       "num": 319888,
       "word": "迪丽热巴塑料袋爆改皮筋",
@@ -20849,14 +20905,6 @@
       "onboard_time": 1700138858,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 345272,
-      "num": 345272,
-      "word": "幼师将孩子小冰手放进自己衣服里",
-      "onboard_time": 1700572297,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345106,
@@ -27019,6 +27067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262452,
+      "num": 262452,
+      "word": "小义住在hero休息室了",
+      "onboard_time": 1700574399,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262285,
       "num": 262285,
       "word": "时代少年团对接否认耍大牌",
@@ -29555,6 +29611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239772,
+      "num": 239772,
+      "word": "杨幂拳击辫",
+      "onboard_time": 1700573496,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 239734,
       "num": 239734,
       "word": "华为将在本月发布首款轿车智界S7",
@@ -30131,6 +30195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234184,
+      "num": 234184,
+      "word": "陈少杰身家曾达25亿",
+      "onboard_time": 1700576139,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 234182,
       "num": 234182,
       "word": "马嘉祺爱心露背拖尾礼服",
@@ -30169,6 +30241,14 @@
       "onboard_time": 1698825992,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233983,
+      "num": 233983,
+      "word": "AG晋级世冠小组赛",
+      "onboard_time": 1700574942,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 233979,
@@ -30425,6 +30505,14 @@
       "onboard_time": 1699858957,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231973,
+      "num": 231973,
+      "word": "清融哭了",
+      "onboard_time": 1700575122,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 231948,
@@ -34091,14 +34179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207998,
-      "num": 207998,
-      "word": "杨幂拳击辫",
-      "onboard_time": 1700573496,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 207986,
       "num": 207986,
       "word": "NOBODY MV",
@@ -34939,6 +35019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203848,
+      "num": 203848,
+      "word": "入冬的电子羽绒服",
+      "onboard_time": 1700573196,
+      "rank": 44,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 203844,
       "num": 168935,
       "word": "曼联小组垫底",
@@ -34953,6 +35041,14 @@
       "onboard_time": 1700391332,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203670,
+      "num": 203670,
+      "word": "吴彦祖李政宰 PUBG",
+      "onboard_time": 1700575722,
+      "rank": 42,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 203651,
@@ -35547,6 +35643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201078,
+      "num": 201078,
+      "word": "Keep 盗墓笔记",
+      "onboard_time": 1700575781,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "斗罗大鹿各自为营",
@@ -35729,6 +35833,14 @@
       "onboard_time": 1699312825,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200146,
+      "num": 200146,
+      "word": "油痘肌如何遮瑕",
+      "onboard_time": 1700575963,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 200131,
@@ -36192,14 +36304,6 @@
       "word": "鞠婧祎学姐风穿搭",
       "onboard_time": 1700302352,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198230,
-      "num": 198230,
-      "word": "吴世勋视频通话",
-      "onboard_time": 1700573496,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -39459,6 +39563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183450,
+      "num": 1395795,
+      "word": "小鸟好像飞进了国画里的柿子树",
+      "onboard_time": 1700571398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183300,
       "num": 185127,
       "word": "赛博围棋最抽象的一局",
@@ -41187,14 +41299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173591,
-      "num": 1395795,
-      "word": "小鸟好像飞进了国画里的柿子树",
-      "onboard_time": 1700571398,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173557,
       "num": 155797,
       "word": "江映蓉的圈内人缘",
@@ -41529,6 +41633,14 @@
       "onboard_time": 1699542575,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171713,
+      "num": 171713,
+      "word": "郑昇炫头球破门",
+      "onboard_time": 1700576200,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 171711,
@@ -44617,14 +44729,6 @@
       "onboard_time": 1699001497,
       "rank": 34,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 155025,
-      "num": 155025,
-      "word": "入冬的电子羽绒服",
-      "onboard_time": 1700573196,
-      "rank": 44,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 154974,
@@ -53019,6 +53123,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 109416,
+      "num": 245946,
+      "word": "两接亲队伍相遇互换捧花",
+      "onboard_time": 1700574221,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109401,
       "num": 276528,
       "word": "LPL粉丝花式应援",
@@ -56995,6 +57107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54311,
+      "num": 168527,
+      "word": "兰蔻最美限定版来了",
+      "onboard_time": 1700575063,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 54275,
       "num": 54275,
       "word": "消防员下地窖托起被困老人的希望",
@@ -57073,6 +57193,14 @@
       "onboard_time": 1698827250,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 52333,
+      "num": 344359,
+      "word": "东方明珠绝美亮灯",
+      "onboard_time": 1700575182,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 52080,
