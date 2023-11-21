@@ -1,0 +1,410 @@
+{
+  "runTime": 1700565344526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1654820,
+        "num": 1654820,
+        "word": "高嘌呤食物排行榜",
+        "onboard_time": 1700562755,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359474,
+        "num": 1284402,
+        "word": "男子买3千斤滞销白菜让人免费取",
+        "onboard_time": 1700547874,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102363,
+        "num": 1136020,
+        "word": "非遗苏绣绣出的星河太震撼",
+        "onboard_time": 1700552675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126491,
+        "num": 1126491,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159986,
+        "num": 834050,
+        "word": "辅警吃饭一眼锁定嫌疑人",
+        "onboard_time": 1700560235,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709601,
+        "num": 709601,
+        "word": "李晨去体综了",
+        "onboard_time": 1700557353,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652666,
+        "num": 652666,
+        "word": "国足首发",
+        "onboard_time": 1700562514,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113251,
+        "num": 617003,
+        "word": "男子昏迷获救后家属抱甘蔗塞警车",
+        "onboard_time": 1700560235,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588257,
+        "num": 588257,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477031,
+        "num": 477031,
+        "word": "韦世豪4号",
+        "onboard_time": 1700564434,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1687873,
+        "num": 448995,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 733299,
+        "num": 427662,
+        "word": "傅首尔 再也没有人会这样对我了",
+        "onboard_time": 1700561255,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396242,
+        "num": 396242,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390321,
+        "num": 390321,
+        "word": "谁允许你们在签售会演台偶的",
+        "onboard_time": 1700559571,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376321,
+        "num": 376321,
+        "word": "麻省理工一中国博士生突然身亡",
+        "onboard_time": 1700549315,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363935,
+        "num": 363935,
+        "word": "电视家",
+        "onboard_time": 1700561915,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 288691,
+        "num": 288691,
+        "word": "黑莲花上位手册下架公告",
+        "onboard_time": 1700559092,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280438,
+        "num": 280438,
+        "word": "王鹤棣深夜送王彦霖夫妻去医院",
+        "onboard_time": 1700545237,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253203,
+        "num": 253203,
+        "word": "许文婷心态富人",
+        "onboard_time": 1700563052,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252958,
+        "num": 252958,
+        "word": "偷偷藏不住上了阿里Q2财报",
+        "onboard_time": 1700555195,
+        "rank": 19,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 555014,
+        "num": 251047,
+        "word": "假僧人诱奸14名女性3人未成年被判无期",
+        "onboard_time": 1700560654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271891,
+        "num": 249187,
+        "word": "双鱼座很聪明但就是懒",
+        "onboard_time": 1700562991,
+        "rank": 21,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 246227,
+        "num": 246227,
+        "word": "国足世预赛",
+        "onboard_time": 1700561615,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228906,
+        "num": 228906,
+        "word": "我国肝癌患者每年新增41万",
+        "onboard_time": 1700562991,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217844,
+        "num": 217844,
+        "word": "黄渤差点演了烈日灼心",
+        "onboard_time": 1700564014,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213174,
+        "num": 213174,
+        "word": "乙肝临床治愈门诊",
+        "onboard_time": 1700564434,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210401,
+        "num": 210401,
+        "word": "体检查出这些毛病根本不用治",
+        "onboard_time": 1700557413,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197161,
+        "num": 197161,
+        "word": "瓶子 算分",
+        "onboard_time": 1700562035,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192048,
+        "num": 192048,
+        "word": "杨紫 选本自由",
+        "onboard_time": 1700553874,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185677,
+        "num": 185677,
+        "word": "CPA出分了",
+        "onboard_time": 1700554777,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308599,
+        "num": 184522,
+        "word": "张琳芃出任国足队长",
+        "onboard_time": 1700564974,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 183554,
+        "word": "看完想学滑板了",
+        "onboard_time": 1700564733,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181628,
+        "num": 181628,
+        "word": "广东人是懂煲的",
+        "onboard_time": 1700564014,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181324,
+        "num": 181324,
+        "word": "徐峥说看完怒海重新爱上黄渤",
+        "onboard_time": 1700564794,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177053,
+        "num": 177053,
+        "word": "应渊 世间真神",
+        "onboard_time": 1700556515,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173703,
+        "num": 173703,
+        "word": "花少Q版迪丽热巴",
+        "onboard_time": 1700562455,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112562,
+        "num": 166600,
+        "word": "大熊猫有新的计数单位了",
+        "onboard_time": 1700564974,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162942,
+        "num": 162942,
+        "word": "崔琳代父觐见",
+        "onboard_time": 1700564134,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152901,
+        "num": 152901,
+        "word": "成都未成年少女陪侍醉酒后摔成重伤",
+        "onboard_time": 1700557176,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152327,
+        "num": 152327,
+        "word": "你的皮肤哪里容易干",
+        "onboard_time": 1700564851,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152282,
+        "num": 152282,
+        "word": "难哄就别哄了",
+        "onboard_time": 1700541161,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152184,
+        "num": 152184,
+        "word": "佛山DRG世冠淘汰",
+        "onboard_time": 1700563473,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147459,
+        "num": 147459,
+        "word": "韩媒说中国队防不住孙兴慜",
+        "onboard_time": 1700552675,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144690,
+        "num": 144690,
+        "word": "张韶涵潘玮柏合体",
+        "onboard_time": 1700560834,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "朴振英把姚琛的上衣穿走了吗",
+        "onboard_time": 1700561795,
+        "rank": 44,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 132997,
+        "num": 132997,
+        "word": "电视家多个公众号改名",
+        "onboard_time": 1700540919,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118264,
+        "num": 118264,
+        "word": "佘诗曼谈新闻女王剧情",
+        "onboard_time": 1700565333,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117525,
+        "num": 117525,
+        "word": "单依纯小品演出国了",
+        "onboard_time": 1700558554,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115640,
+        "num": 115640,
+        "word": "建议大学倒过来上",
+        "onboard_time": 1700553517,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110923,
+        "num": 110923,
+        "word": "合肥成为特大城市",
+        "onboard_time": 1700555434,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
