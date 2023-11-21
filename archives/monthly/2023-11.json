@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700597885112,
+  "endTime": 1700598856303,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -58347,6 +58347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 24500,
+      "num": 24500,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 24462,
       "num": 24462,
       "word": "你通常几点入睡",
@@ -58537,14 +58545,6 @@
       "onboard_time": 1699904592,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 19950,
-      "num": 19950,
-      "word": "儿子跳水救3人母亲骄傲藏不住",
-      "onboard_time": 1700595133,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 19752,
@@ -58843,6 +58843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12387,
+      "num": 13020,
+      "word": "全盘发和半扎发",
+      "onboard_time": 1700597833,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 12224,
       "num": 14036,
       "word": "谢娜蔡少芬综艺合体",
@@ -58865,14 +58873,6 @@
       "onboard_time": 1700080333,
       "rank": 48,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 9978,
-      "num": 13020,
-      "word": "全盘发和半扎发",
-      "onboard_time": 1700597833,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 9382,
