@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700544860280,
+  "endTime": 1700547822555,
   "band_list": [
     {
       "raw_hot": 6800962,
@@ -17,6 +17,14 @@
       "onboard_time": 1700536473,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2253995,
+      "num": 2253995,
+      "word": "王鹤棣深夜送王彦霖夫妻去医院",
+      "onboard_time": 1700545237,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2094351,
@@ -81,6 +89,14 @@
       "onboard_time": 1700522726,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1106255,
+      "num": 398142,
+      "word": "国内小区寿命有多短",
+      "onboard_time": 1700543560,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1057329,
@@ -171,12 +187,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587836,
+      "num": 587836,
+      "word": "权志龙指甲检查阴性",
+      "onboard_time": 1700544400,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 583622,
+      "num": 583622,
+      "word": "优酷汗流浃背了吧",
+      "onboard_time": 1700547216,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563177,
       "num": 549380,
       "word": "有影院我本是高山点映被取消",
       "onboard_time": 1700537554,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 560805,
+      "num": 190894,
+      "word": "蔚来汽车卖一辆车亏20万",
+      "onboard_time": 1700545359,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 540743,
@@ -193,14 +233,6 @@
       "onboard_time": 1700532092,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 531333,
-      "num": 398142,
-      "word": "国内小区寿命有多短",
-      "onboard_time": 1700543560,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525017,
@@ -291,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428846,
-      "num": 428846,
-      "word": "权志龙指甲检查阴性",
-      "onboard_time": 1700544400,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 408531,
       "num": 408531,
       "word": "电视家多个公众号改名",
@@ -313,6 +337,14 @@
       "onboard_time": 1700532929,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 380516,
+      "num": 238267,
+      "word": "看花少 少走10年弯路",
+      "onboard_time": 1700545835,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 372730,
@@ -427,12 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305824,
+      "num": 190714,
+      "word": "杨紫国色芳华路透",
+      "onboard_time": 1700545295,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298866,
       "num": 298866,
       "word": "英雄联盟维护",
       "onboard_time": 1700524954,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289274,
+      "num": 224098,
+      "word": "杨紫冷脸飒气妆",
+      "onboard_time": 1700547755,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 286021,
@@ -675,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206362,
+      "num": 206362,
+      "word": "热红酒美式",
+      "onboard_time": 1700547336,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 206253,
       "num": 206253,
       "word": "约基奇被驱逐",
@@ -696,6 +752,14 @@
       "word": "20省人口自然增长率为负",
       "onboard_time": 1700497050,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193991,
+      "num": 193991,
+      "word": "张桂梅称女孩受教育可改变三代人",
+      "onboard_time": 1700545058,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -763,12 +827,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181787,
+      "num": 181787,
+      "word": "国足vs韩国",
+      "onboard_time": 1700547277,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180154,
       "num": 180154,
       "word": "故乡别来无恙",
       "onboard_time": 1700544038,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179736,
+      "num": 179736,
+      "word": "爸爸给我发了不谈恋爱奖",
+      "onboard_time": 1700543319,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 178914,
@@ -851,14 +931,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 166975,
-      "num": 166975,
-      "word": "爸爸给我发了不谈恋爱奖",
-      "onboard_time": 1700543319,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166140,
       "num": 157517,
       "word": "奶茶都快做成固体了",
@@ -891,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163856,
+      "num": 163856,
+      "word": "张凌赫在王星越的哥哥声中逐渐迷失",
+      "onboard_time": 1700544698,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163069,
       "num": 163069,
       "word": "不是所有糖都对身体不好",
@@ -913,6 +993,14 @@
       "onboard_time": 1700475872,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160250,
+      "num": 160250,
+      "word": "卡塔尔亚洲杯门票收入将捐给巴勒斯坦",
+      "onboard_time": 1700547576,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 156600,
@@ -987,12 +1075,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145279,
+      "num": 145279,
+      "word": "再见爱人",
+      "onboard_time": 1700544760,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144923,
       "num": 144923,
       "word": "张小斐拯救嫌疑人破5亿",
       "onboard_time": 1700532209,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144193,
+      "num": 144193,
+      "word": "不肯下班真的不能理解",
+      "onboard_time": 1700545359,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 143935,
@@ -1011,14 +1115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143481,
-      "num": 143481,
-      "word": "张凌赫在王星越的哥哥声中逐渐迷失",
-      "onboard_time": 1700544698,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139819,
       "num": 139819,
       "word": "没有一个馒头能素颜走出山东",
@@ -1033,14 +1129,6 @@
       "onboard_time": 1700489557,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138708,
-      "num": 138708,
-      "word": "再见爱人",
-      "onboard_time": 1700544760,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 134274,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1700533892,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124645,
+      "num": 124645,
+      "word": "衢州一中学养了干饭梅花鹿",
+      "onboard_time": 1700546556,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123747,
@@ -1160,6 +1256,22 @@
       "word": "五世同堂接龙喊爸爸",
       "onboard_time": 1700537434,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112128,
+      "num": 112128,
+      "word": "勇士结束六连败",
+      "onboard_time": 1700545536,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111540,
+      "num": 111540,
+      "word": "95后小伙获评中国消防忠诚卫士",
+      "onboard_time": 1700547633,
+      "rank": 41,
       "category": "社会新闻"
     },
     {

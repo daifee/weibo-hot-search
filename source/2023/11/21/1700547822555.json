@@ -1,0 +1,410 @@
+{
+  "runTime": 1700547822555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4749757,
+        "num": 4749757,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2253995,
+        "num": 2253995,
+        "word": "王鹤棣深夜送王彦霖夫妻去医院",
+        "onboard_time": 1700545237,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61951,
+        "num": 939494,
+        "word": "运20将再赴韩国接运烈士遗骸回国",
+        "onboard_time": 1700536175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733794,
+        "num": 733794,
+        "word": "难哄就别哄了",
+        "onboard_time": 1700541161,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587836,
+        "num": 587836,
+        "word": "权志龙指甲检查阴性",
+        "onboard_time": 1700544400,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583622,
+        "num": 583622,
+        "word": "优酷汗流浃背了吧",
+        "onboard_time": 1700547216,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449723,
+        "num": 449723,
+        "word": "痞幼妆",
+        "onboard_time": 1700534793,
+        "rank": 6,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 404290,
+        "num": 404290,
+        "word": "张桂梅说一直支撑自己的是信仰",
+        "onboard_time": 1700530774,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269103,
+        "num": 269103,
+        "word": "电视家多个公众号改名",
+        "onboard_time": 1700540919,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268220,
+        "num": 268220,
+        "word": "大熊猫再次强调不要拿拍蒜的刀切苹果",
+        "onboard_time": 1700524107,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106255,
+        "num": 262044,
+        "word": "国内小区寿命有多短",
+        "onboard_time": 1700543560,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697398,
+        "num": 252427,
+        "word": "曾志伟回应拍片为缅北电诈头目庆生",
+        "onboard_time": 1700536473,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380516,
+        "num": 238267,
+        "word": "看花少 少走10年弯路",
+        "onboard_time": 1700545835,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289274,
+        "num": 224098,
+        "word": "杨紫冷脸飒气妆",
+        "onboard_time": 1700547755,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 212562,
+        "num": 212562,
+        "word": "T1官宣Kkoma回归",
+        "onboard_time": 1700539054,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224336,
+        "num": 210786,
+        "word": "我本是高山导演回答酗酒母亲问题",
+        "onboard_time": 1700528675,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206362,
+        "num": 206362,
+        "word": "热红酒美式",
+        "onboard_time": 1700547336,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212786,
+        "num": 205286,
+        "word": "有影院我本是高山点映被取消",
+        "onboard_time": 1700537554,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193991,
+        "num": 193991,
+        "word": "张桂梅称女孩受教育可改变三代人",
+        "onboard_time": 1700545058,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192771,
+        "num": 192771,
+        "word": "睡够8小时不如睡得有规律",
+        "onboard_time": 1700526334,
+        "rank": 19,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 560805,
+        "num": 190894,
+        "word": "蔚来汽车卖一辆车亏20万",
+        "onboard_time": 1700545359,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 305824,
+        "num": 190714,
+        "word": "杨紫国色芳华路透",
+        "onboard_time": 1700545295,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188527,
+        "num": 188527,
+        "word": "40岁的霍启山",
+        "onboard_time": 1700530949,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 185707,
+        "word": "金牛座为什么会分手",
+        "onboard_time": 1700540503,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181787,
+        "num": 181787,
+        "word": "国足vs韩国",
+        "onboard_time": 1700547277,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148437,
+        "num": 180456,
+        "word": "CPA 等成绩",
+        "onboard_time": 1700526756,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179736,
+        "num": 179736,
+        "word": "爸爸给我发了不谈恋爱奖",
+        "onboard_time": 1700543319,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163856,
+        "num": 163856,
+        "word": "张凌赫在王星越的哥哥声中逐渐迷失",
+        "onboard_time": 1700544698,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160250,
+        "num": 160250,
+        "word": "卡塔尔亚洲杯门票收入将捐给巴勒斯坦",
+        "onboard_time": 1700547576,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149556,
+        "num": 149556,
+        "word": "暮光之城主创重聚",
+        "onboard_time": 1700532929,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148147,
+        "num": 148147,
+        "word": "女童海边溺水2名西装大哥冲下海救回",
+        "onboard_time": 1700536294,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "再见爱人",
+        "onboard_time": 1700544760,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144945,
+        "num": 144945,
+        "word": "肖春生vs时影",
+        "onboard_time": 1700544636,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144193,
+        "num": 144193,
+        "word": "不肯下班真的不能理解",
+        "onboard_time": 1700545359,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138443,
+        "num": 138443,
+        "word": "海底捞 科目三",
+        "onboard_time": 1700532690,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124645,
+        "num": 124645,
+        "word": "衢州一中学养了干饭梅花鹿",
+        "onboard_time": 1700546556,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123149,
+        "num": 123149,
+        "word": "朴宝英秋瓷炫韩志旼韩孝周姐感大片",
+        "onboard_time": 1700536112,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "警号043940由牺牲民警女儿重启",
+        "onboard_time": 1700531311,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121826,
+        "num": 121826,
+        "word": "我为什么从不发自己的正脸照片",
+        "onboard_time": 1700544279,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112883,
+        "num": 112883,
+        "word": "喝酒脸红的人或易患癌",
+        "onboard_time": 1700529932,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 112128,
+        "num": 112128,
+        "word": "勇士结束六连败",
+        "onboard_time": 1700545536,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111540,
+        "num": 111540,
+        "word": "95后小伙获评中国消防忠诚卫士",
+        "onboard_time": 1700547633,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109277,
+        "num": 109277,
+        "word": "刘亦菲于适星愿大片",
+        "onboard_time": 1700536175,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106761,
+        "num": 106761,
+        "word": "妈妈平时是一个睡得很早的人",
+        "onboard_time": 1700538934,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105355,
+        "num": 105355,
+        "word": "还以为虞书欣背着我去做汉服模特了",
+        "onboard_time": 1700532031,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104719,
+        "num": 104719,
+        "word": "GEN官宣四人离队",
+        "onboard_time": 1700532810,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102668,
+        "num": 102668,
+        "word": "大小S感谢司法还她们清白",
+        "onboard_time": 1700523507,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102502,
+        "num": 102502,
+        "word": "民警帮付25元女子惦记400多天欲还钱",
+        "onboard_time": 1700533590,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100697,
+        "num": 100697,
+        "word": "阿根廷新总统称35年后再成世界强国",
+        "onboard_time": 1700532092,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99268,
+        "num": 99268,
+        "word": "王一博黑粉判赔2.8万元",
+        "onboard_time": 1700540503,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#巴以问题特别视频峰会#"
+    }
+  }
+}

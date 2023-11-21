@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700544860280,
+  "endTime": 1700547822555,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -144,6 +144,14 @@
       "word": "胡馨尹 费沁源",
       "onboard_time": 1700320235,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2253995,
+      "num": 2253995,
+      "word": "王鹤棣深夜送王彦霖夫妻去医院",
+      "onboard_time": 1700545237,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1700449653,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1106255,
+      "num": 398142,
+      "word": "国内小区寿命有多短",
+      "onboard_time": 1700543560,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1095923,
@@ -1227,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587836,
+      "num": 587836,
+      "word": "权志龙指甲检查阴性",
+      "onboard_time": 1700544400,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586934,
       "num": 462574,
       "word": "宁安如梦编剧",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1700487815,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 583622,
+      "num": 583622,
+      "word": "优酷汗流浃背了吧",
+      "onboard_time": 1700547216,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 582339,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1700537554,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 560805,
+      "num": 190894,
+      "word": "蔚来汽车卖一辆车亏20万",
+      "onboard_time": 1700545359,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 559238,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1700454882,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 531333,
-      "num": 398142,
-      "word": "国内小区寿命有多短",
-      "onboard_time": 1700543560,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530050,
@@ -1843,14 +1875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 428846,
-      "num": 428846,
-      "word": "权志龙指甲检查阴性",
-      "onboard_time": 1700544400,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 425684,
       "num": 425684,
       "word": "日本核污水第三轮排海今日结束",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1700395836,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380516,
+      "num": 238267,
+      "word": "看花少 少走10年弯路",
+      "onboard_time": 1700545835,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 379530,
@@ -2707,6 +2739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 305824,
+      "num": 190714,
+      "word": "杨紫国色芳华路透",
+      "onboard_time": 1700545295,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305251,
       "num": 305251,
       "word": "妈妈届窒息感天花板来了",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1700354488,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289274,
+      "num": 224098,
+      "word": "杨紫冷脸飒气妆",
+      "onboard_time": 1700547755,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 288293,
@@ -4107,6 +4155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206362,
+      "num": 206362,
+      "word": "热红酒美式",
+      "onboard_time": 1700547336,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 206286,
       "num": 206286,
       "word": "刘耀文FEEL ME直拍",
@@ -4427,6 +4483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193991,
+      "num": 193991,
+      "word": "张桂梅称女孩受教育可改变三代人",
+      "onboard_time": 1700545058,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192205,
       "num": 192205,
       "word": "刘耀文solo直拍混剪",
@@ -4691,6 +4755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181787,
+      "num": 181787,
+      "word": "国足vs韩国",
+      "onboard_time": 1700547277,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181425,
       "num": 181425,
       "word": "孕期压力大影响孩子童年心理和行为",
@@ -4737,6 +4809,14 @@
       "onboard_time": 1700385330,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179736,
+      "num": 179736,
+      "word": "爸爸给我发了不谈恋爱奖",
+      "onboard_time": 1700543319,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 179711,
@@ -5027,14 +5107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 166975,
-      "num": 166975,
-      "word": "爸爸给我发了不谈恋爱奖",
-      "onboard_time": 1700543319,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166501,
       "num": 135725,
       "word": "韩维辰跳Guilty",
@@ -5097,6 +5169,14 @@
       "onboard_time": 1700468135,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163856,
+      "num": 163856,
+      "word": "张凌赫在王星越的哥哥声中逐渐迷失",
+      "onboard_time": 1700544698,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 163709,
@@ -5201,6 +5281,14 @@
       "onboard_time": 1700316692,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160250,
+      "num": 160250,
+      "word": "卡塔尔亚洲杯门票收入将捐给巴勒斯坦",
+      "onboard_time": 1700547576,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 159729,
@@ -5523,6 +5611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145279,
+      "num": 145279,
+      "word": "再见爱人",
+      "onboard_time": 1700544760,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145187,
       "num": 145187,
       "word": "通勤编发教程",
@@ -5571,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144193,
+      "num": 144193,
+      "word": "不肯下班真的不能理解",
+      "onboard_time": 1700545359,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144066,
       "num": 144066,
       "word": "我优秀的儿子又可以继续看世界了",
@@ -5593,14 +5697,6 @@
       "onboard_time": 1700494712,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143481,
-      "num": 143481,
-      "word": "张凌赫在王星越的哥哥声中逐渐迷失",
-      "onboard_time": 1700544698,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 143089,
@@ -5705,14 +5801,6 @@
       "onboard_time": 1700383116,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138708,
-      "num": 138708,
-      "word": "再见爱人",
-      "onboard_time": 1700544760,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 138666,
@@ -6019,6 +6107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124645,
+      "num": 124645,
+      "word": "衢州一中学养了干饭梅花鹿",
+      "onboard_time": 1700546556,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124373,
       "num": 124373,
       "word": "陈奕迅上海演唱会",
@@ -6209,6 +6305,22 @@
       "onboard_time": 1700378252,
       "rank": 39,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 112128,
+      "num": 112128,
+      "word": "勇士结束六连败",
+      "onboard_time": 1700545536,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111540,
+      "num": 111540,
+      "word": "95后小伙获评中国消防忠诚卫士",
+      "onboard_time": 1700547633,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110648,
