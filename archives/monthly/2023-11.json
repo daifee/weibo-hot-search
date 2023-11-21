@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700576257913,
+  "endTime": 1700577407409,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4723,6 +4723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1112578,
+      "num": 1112578,
+      "word": "跑男元老只剩李晨和郑恺了",
+      "onboard_time": 1700575841,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1111056,
       "num": 1111056,
       "word": "东北大学生正式确诊为华妃",
@@ -6163,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895341,
+      "num": 895341,
+      "word": "幼师将孩子小冰手放进自己衣服里",
+      "onboard_time": 1700572297,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894632,
       "num": 495367,
       "word": "傅盛发文怒怼王自如",
@@ -6873,14 +6889,6 @@
       "onboard_time": 1700478275,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 823784,
-      "num": 823784,
-      "word": "幼师将孩子小冰手放进自己衣服里",
-      "onboard_time": 1700572297,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823473,
@@ -10489,6 +10497,14 @@
       "onboard_time": 1699065511,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 620386,
+      "num": 435237,
+      "word": "热刺球衣",
+      "onboard_time": 1700575542,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 620070,
@@ -16675,14 +16691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421422,
-      "num": 421422,
-      "word": "热刺球衣",
-      "onboard_time": 1700575542,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421349,
       "num": 421349,
       "word": "飞夺泸定桥被搬到竞综了",
@@ -19891,14 +19899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362337,
-      "num": 362337,
-      "word": "跑男元老只剩李晨和郑恺了",
-      "onboard_time": 1700575841,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362071,
       "num": 319888,
       "word": "迪丽热巴塑料袋爆改皮筋",
@@ -21529,6 +21529,14 @@
       "onboard_time": 1700060018,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334195,
+      "num": 218059,
+      "word": "秦岚说这辈子最想演皇上",
+      "onboard_time": 1700577100,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 334081,
@@ -24433,6 +24441,14 @@
       "onboard_time": 1698910717,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291862,
+      "num": 291862,
+      "word": "陈少杰身家曾达25亿",
+      "onboard_time": 1700576139,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 291751,
@@ -29787,6 +29803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238045,
+      "num": 238045,
+      "word": "Keep 盗墓笔记",
+      "onboard_time": 1700575781,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 237998,
       "num": 237998,
       "word": "黄景瑜再演刑警",
@@ -30193,14 +30217,6 @@
       "onboard_time": 1699681349,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234184,
-      "num": 234184,
-      "word": "陈少杰身家曾达25亿",
-      "onboard_time": 1700576139,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 234182,
@@ -33483,6 +33499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211619,
+      "num": 1395795,
+      "word": "小鸟好像飞进了国画里的柿子树",
+      "onboard_time": 1700571398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211615,
       "num": 211615,
       "word": "饥饿游戏前传今日上映",
@@ -35643,14 +35667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201078,
-      "num": 201078,
-      "word": "Keep 盗墓笔记",
-      "onboard_time": 1700575781,
-      "rank": 43,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "斗罗大鹿各自为营",
@@ -36889,6 +36905,14 @@
       "onboard_time": 1699663471,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195712,
+      "num": 195712,
+      "word": "郑昇炫头球破门",
+      "onboard_time": 1700576200,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 195694,
@@ -39563,14 +39587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183450,
-      "num": 1395795,
-      "word": "小鸟好像飞进了国画里的柿子树",
-      "onboard_time": 1700571398,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183300,
       "num": 185127,
       "word": "赛博围棋最抽象的一局",
@@ -41633,14 +41649,6 @@
       "onboard_time": 1699542575,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 171713,
-      "num": 171713,
-      "word": "郑昇炫头球破门",
-      "onboard_time": 1700576200,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 171711,
@@ -47323,6 +47331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142102,
+      "num": 142102,
+      "word": "王栎鑫新剧人设",
+      "onboard_time": 1700577039,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142089,
       "num": 188228,
       "word": "街头古法美容让我白了一度",
@@ -47969,6 +47985,14 @@
       "onboard_time": 1699115489,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138590,
+      "num": 138590,
+      "word": "5岁男孩发现5亿年前古生物化石",
+      "onboard_time": 1700577340,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138549,
@@ -56819,6 +56843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60375,
+      "num": 345667,
+      "word": "东方明珠绝美亮灯",
+      "onboard_time": 1700575182,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 60192,
       "num": 994994,
       "word": "一场中国与世界的双向奔赴",
@@ -57193,14 +57225,6 @@
       "onboard_time": 1698827250,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 52333,
-      "num": 344359,
-      "word": "东方明珠绝美亮灯",
-      "onboard_time": 1700575182,
-      "rank": 18,
-      "category": "旅游"
     },
     {
       "raw_hot": 52080,
