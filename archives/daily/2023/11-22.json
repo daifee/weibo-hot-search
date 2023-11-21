@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700598856303,
+  "endTime": 1700601389358,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -459,8 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24500,
-      "num": 24500,
+      "raw_hot": 30329,
+      "num": 30329,
       "word": "儿子跳水救3人母亲骄傲藏不住",
       "onboard_time": 1700595133,
       "rank": 49,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 23648,
-      "num": 16648,
+      "num": 16765,
       "word": "邓超说看完怒海魂飞魄散",
       "onboard_time": 1700594713,
       "rank": 30,
@@ -483,11 +483,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12387,
-      "num": 13020,
+      "raw_hot": 17115,
+      "num": 16849,
       "word": "全盘发和半扎发",
       "onboard_time": 1700597833,
       "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 10435,
+      "num": 16754,
+      "word": "孕妇到底能不能护肤",
+      "onboard_time": 1700600712,
+      "rank": 47,
       "category": "美妆"
     },
     {
