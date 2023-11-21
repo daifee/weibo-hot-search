@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700595260779,
+  "endTime": 1700597885112,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -467,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19950,
+      "num": 19950,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 19469,
       "num": 36272,
       "word": "清融哭了",
@@ -475,12 +483,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10276,
-      "num": 15602,
-      "word": "儿子跳水救3人母亲骄傲藏不住",
-      "onboard_time": 1700595133,
+      "raw_hot": 9978,
+      "num": 13020,
+      "word": "全盘发和半扎发",
+      "onboard_time": 1700597833,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 9382,
+      "num": 13019,
+      "word": "从小崇拜英雄如今成为英雄",
+      "onboard_time": 1700597833,
       "rank": 49,
-      "category": "社会正能量"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
