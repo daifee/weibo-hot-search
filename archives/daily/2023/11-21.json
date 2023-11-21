@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700547822555,
+  "endTime": 1700548615782,
   "band_list": [
     {
       "raw_hot": 6800962,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 560805,
-      "num": 190894,
+      "num": 200897,
       "word": "蔚来汽车卖一辆车亏20万",
       "onboard_time": 1700545359,
       "rank": 20,
@@ -339,8 +339,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 380516,
-      "num": 238267,
+      "raw_hot": 385060,
+      "num": 277568,
       "word": "看花少 少走10年弯路",
       "onboard_time": 1700545835,
       "rank": 12,
@@ -403,6 +403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 339917,
+      "num": 272226,
+      "word": "杨紫冷脸飒气妆",
+      "onboard_time": 1700547755,
+      "rank": 13,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 337535,
       "num": 337535,
       "word": "民警帮付25元女子惦记400多天欲还钱",
@@ -460,11 +468,19 @@
     },
     {
       "raw_hot": 305824,
-      "num": 190714,
+      "num": 196955,
       "word": "杨紫国色芳华路透",
       "onboard_time": 1700545295,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302255,
+      "num": 302255,
+      "word": "热红酒美式",
+      "onboard_time": 1700547336,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 298866,
@@ -473,14 +489,6 @@
       "onboard_time": 1700524954,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289274,
-      "num": 224098,
-      "word": "杨紫冷脸飒气妆",
-      "onboard_time": 1700547755,
-      "rank": 13,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 286021,
@@ -595,12 +603,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237704,
+      "num": 194581,
+      "word": "央媒称该管管所谓的明星祝福视频了",
+      "onboard_time": 1700547817,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227872,
+      "num": 227872,
+      "word": "衢州一中学养了干饭梅花鹿",
+      "onboard_time": 1700546556,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226388,
       "num": 226388,
       "word": "0713一年前vs一年后",
       "onboard_time": 1700526515,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225244,
+      "num": 225244,
+      "word": "卡塔尔亚洲杯门票收入将捐给巴勒斯坦",
+      "onboard_time": 1700547576,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 222613,
@@ -625,6 +657,14 @@
       "onboard_time": 1700542662,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219552,
+      "num": 219552,
+      "word": "国足vs韩国",
+      "onboard_time": 1700547277,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 218820,
@@ -723,20 +763,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206362,
-      "num": 206362,
-      "word": "热红酒美式",
-      "onboard_time": 1700547336,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 206253,
       "num": 206253,
       "word": "约基奇被驱逐",
       "onboard_time": 1700533410,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203575,
+      "num": 192965,
+      "word": "优酷给足了佘诗曼排面",
+      "onboard_time": 1700547874,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202050,
+      "num": 202050,
+      "word": "张元英刘海妆",
+      "onboard_time": 1700547994,
+      "rank": 19,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 199071,
@@ -819,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182667,
+      "num": 182667,
+      "word": "爸爸给我发了不谈恋爱奖",
+      "onboard_time": 1700543319,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182007,
       "num": 182007,
       "word": "DK官宣Deft自由人",
@@ -827,28 +883,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181787,
-      "num": 181787,
-      "word": "国足vs韩国",
-      "onboard_time": 1700547277,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180154,
       "num": 180154,
       "word": "故乡别来无恙",
       "onboard_time": 1700544038,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179736,
-      "num": 179736,
-      "word": "爸爸给我发了不谈恋爱奖",
-      "onboard_time": 1700543319,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 178914,
@@ -868,7 +908,7 @@
     },
     {
       "raw_hot": 178151,
-      "num": 178151,
+      "num": 880136,
       "word": "北斗系统今后全球民航通用",
       "onboard_time": 1700535451,
       "rank": 37,
@@ -995,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160250,
-      "num": 160250,
-      "word": "卡塔尔亚洲杯门票收入将捐给巴勒斯坦",
-      "onboard_time": 1700547576,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156600,
       "num": 156600,
       "word": "适合一个人住的31平米独居小屋",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1700486314,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153652,
+      "num": 153652,
+      "word": "男子买3千斤滞销白菜让人免费取",
+      "onboard_time": 1700547874,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151634,
@@ -1059,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147111,
+      "num": 147111,
+      "word": "再见爱人",
+      "onboard_time": 1700544760,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146863,
       "num": 146863,
       "word": "你知道感情中的弃猫效应吗",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1700491596,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145279,
-      "num": 145279,
-      "word": "再见爱人",
-      "onboard_time": 1700544760,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 144923,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1700494712,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142554,
+      "num": 142554,
+      "word": "中国式父子",
+      "onboard_time": 1700548115,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 139819,
@@ -1171,11 +1219,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124645,
-      "num": 124645,
-      "word": "衢州一中学养了干饭梅花鹿",
-      "onboard_time": 1700546556,
-      "rank": 35,
+      "raw_hot": 124356,
+      "num": 124356,
+      "word": "大象为了吃一口把鼻子伸成直线",
+      "onboard_time": 1700548174,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1227,6 +1275,14 @@
       "category": "幽默,自然"
     },
     {
+      "raw_hot": 117667,
+      "num": 117667,
+      "word": "95后小伙获评中国消防忠诚卫士",
+      "onboard_time": 1700547633,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116639,
       "num": 116639,
       "word": "吴世勋 杂志",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1700545536,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111540,
-      "num": 111540,
-      "word": "95后小伙获评中国消防忠诚卫士",
-      "onboard_time": 1700547633,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111080,
