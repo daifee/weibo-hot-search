@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700533989620,
+  "endTime": 1700534605273,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1347,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531062,
+      "num": 531062,
+      "word": "阿根廷新总统称35年后再成世界强国",
+      "onboard_time": 1700532092,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 530050,
       "num": 530050,
       "word": "中国渔船在日本海域倾覆致5人失踪",
@@ -1388,19 +1396,11 @@
     },
     {
       "raw_hot": 515196,
-      "num": 365893,
+      "num": 395796,
       "word": "GEN官宣四人离队",
       "onboard_time": 1700532810,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 511175,
-      "num": 511175,
-      "word": "阿根廷新总统称35年后再成世界强国",
-      "onboard_time": 1700532092,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 509747,
@@ -1579,6 +1579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 466052,
+      "num": 466052,
+      "word": "海底捞 科目三",
+      "onboard_time": 1700532690,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 465671,
       "num": 465671,
       "word": "BLACKPINK将维持四人组",
@@ -1699,12 +1707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 434249,
-      "num": 434249,
-      "word": "海底捞 科目三",
-      "onboard_time": 1700532690,
-      "rank": 7,
-      "category": "美食"
+      "raw_hot": 441397,
+      "num": 441397,
+      "word": "喝酒脸红的人或易患癌",
+      "onboard_time": 1700529932,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 433013,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1700450495,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415293,
+      "num": 415293,
+      "word": "儿子写字慢妈妈申请换教材学校同意了",
+      "onboard_time": 1700532392,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412861,
@@ -1923,14 +1939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 376232,
-      "num": 376232,
-      "word": "喝酒脸红的人或易患癌",
-      "onboard_time": 1700529932,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 376081,
       "num": 143554,
       "word": "知道皇帝为什么信任谢危了",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1700350884,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 366081,
+      "num": 366081,
+      "word": "暮光之城主创重聚",
+      "onboard_time": 1700532929,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 365715,
@@ -2259,6 +2275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337535,
+      "num": 337535,
+      "word": "民警帮付25元女子惦记400多天欲还钱",
+      "onboard_time": 1700533590,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337343,
       "num": 236934,
       "word": "杨紫时尚先生双刊封面预告",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1700483372,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 325396,
-      "num": 325396,
-      "word": "儿子写字慢妈妈申请换教材学校同意了",
-      "onboard_time": 1700532392,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324296,
@@ -2507,20 +2523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311454,
-      "num": 311454,
-      "word": "暮光之城主创重聚",
-      "onboard_time": 1700532929,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 311440,
       "num": 311440,
       "word": "虞书欣21分钟演唱会纪录片",
       "onboard_time": 1700478275,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 307961,
+      "num": 307961,
+      "word": "油价",
+      "onboard_time": 1700532929,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 307914,
@@ -2817,6 +2833,14 @@
       "onboard_time": 1700317653,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272169,
+      "num": 272169,
+      "word": "韩警方回应权志龙毛发检查结果阴性",
+      "onboard_time": 1700533351,
+      "rank": 21,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 271322,
@@ -3131,14 +3155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249364,
-      "num": 249364,
-      "word": "油价",
-      "onboard_time": 1700532929,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 248820,
       "num": 248820,
       "word": "秦岚情绪稳定的东北粮仓",
@@ -3153,14 +3169,6 @@
       "onboard_time": 1700478153,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248647,
-      "num": 248647,
-      "word": "韩警方回应权志龙毛发检查结果阴性",
-      "onboard_time": 1700533351,
-      "rank": 21,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 247796,
@@ -3547,6 +3555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 222312,
+      "num": 222312,
+      "word": "国足今晚对阵韩国",
+      "onboard_time": 1700534192,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221957,
       "num": 221957,
       "word": "曹圭贤伤势并不严重",
@@ -3787,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209936,
+      "num": 209936,
+      "word": "警号043940由牺牲民警女儿重启",
+      "onboard_time": 1700531311,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209824,
       "num": 209824,
       "word": "NewJeans BBMAs舞台",
@@ -3891,6 +3915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206253,
+      "num": 206253,
+      "word": "约基奇被驱逐",
+      "onboard_time": 1700533410,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205859,
       "num": 205859,
       "word": "威神V 公主请听新专辑",
@@ -3961,14 +3993,6 @@
       "onboard_time": 1700399076,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202441,
-      "num": 202441,
-      "word": "警号043940由牺牲民警女儿重启",
-      "onboard_time": 1700531311,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202367,
@@ -4267,14 +4291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189747,
-      "num": 189747,
-      "word": "民警帮付25元女子惦记400多天欲还钱",
-      "onboard_time": 1700533590,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189441,
       "num": 158980,
       "word": "宋雨琦赛车服短发造型",
@@ -4297,14 +4313,6 @@
       "onboard_time": 1700484272,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188781,
-      "num": 188781,
-      "word": "约基奇被驱逐",
-      "onboard_time": 1700533410,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 188539,
@@ -4355,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186973,
+      "num": 186973,
+      "word": "果敢同盟军即将进攻老街",
+      "onboard_time": 1700532331,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186707,
       "num": 186707,
       "word": "星舰内部是六层豪宅",
@@ -4369,6 +4385,14 @@
       "onboard_time": 1700437288,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186610,
+      "num": 159858,
+      "word": "爱不爱吃螃蟹的都沉默了",
+      "onboard_time": 1700534010,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 186325,
@@ -4457,14 +4481,6 @@
       "onboard_time": 1700447251,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180262,
-      "num": 180262,
-      "word": "果敢同盟军即将进攻老街",
-      "onboard_time": 1700532331,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179837,
@@ -5355,6 +5371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139819,
+      "num": 139819,
+      "word": "没有一个馒头能素颜走出山东",
+      "onboard_time": 1700531071,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139076,
       "num": 139076,
       "word": "管神发力",
@@ -5425,14 +5449,6 @@
       "onboard_time": 1700483554,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 136005,
-      "num": 136005,
-      "word": "没有一个馒头能素颜走出山东",
-      "onboard_time": 1700531071,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 135894,
@@ -5641,6 +5657,14 @@
       "onboard_time": 1700387137,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124890,
+      "num": 124890,
+      "word": "北极熊吃火锅连盘子都要舔溜干净",
+      "onboard_time": 1700533892,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 124771,
@@ -5875,14 +5899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107080,
-      "num": 107080,
-      "word": "北极熊吃火锅连盘子都要舔溜干净",
-      "onboard_time": 1700533892,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106200,
       "num": 166994,
       "word": "大熊猫花花变黏人熊",
@@ -5929,6 +5945,14 @@
       "onboard_time": 1700461836,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104460,
+      "num": 104460,
+      "word": "DK官宣Deft自由人",
+      "onboard_time": 1700534553,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 104205,
@@ -6465,6 +6489,14 @@
       "onboard_time": 1700388331,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42425,
+      "num": 114834,
+      "word": "vivo X100真香",
+      "onboard_time": 1700534492,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 38670,

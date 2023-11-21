@@ -1,0 +1,410 @@
+{
+  "runTime": 1700534605273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245199,
+        "num": 1245199,
+        "word": "睡够8小时不如睡得有规律",
+        "onboard_time": 1700526334,
+        "rank": 0,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 990233,
+        "num": 990233,
+        "word": "你们怎么说服刘诗诗干这事儿的",
+        "onboard_time": 1700522726,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66577,
+        "num": 986810,
+        "word": "小朋友给00后民警送甜甜的锦旗",
+        "onboard_time": 1700487635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983483,
+        "num": 983483,
+        "word": "40岁的霍启山",
+        "onboard_time": 1700530949,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 531062,
+        "num": 531062,
+        "word": "阿根廷新总统称35年后再成世界强国",
+        "onboard_time": 1700532092,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 492157,
+        "num": 492157,
+        "word": "张桂梅说一直支撑自己的是信仰",
+        "onboard_time": 1700530774,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466052,
+        "num": 466052,
+        "word": "海底捞 科目三",
+        "onboard_time": 1700532690,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 441397,
+        "num": 441397,
+        "word": "喝酒脸红的人或易患癌",
+        "onboard_time": 1700529932,
+        "rank": 7,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 423355,
+        "num": 423355,
+        "word": "大熊猫再次强调不要拿拍蒜的刀切苹果",
+        "onboard_time": 1700524107,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415293,
+        "num": 415293,
+        "word": "儿子写字慢妈妈申请换教材学校同意了",
+        "onboard_time": 1700532392,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813083,
+        "num": 399570,
+        "word": "我本是高山导演回答酗酒母亲问题",
+        "onboard_time": 1700528675,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506430,
+        "num": 395796,
+        "word": "GEN官宣四人离队",
+        "onboard_time": 1700532810,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382508,
+        "num": 382508,
+        "word": "CPA 等成绩",
+        "onboard_time": 1700526756,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372284,
+        "num": 372284,
+        "word": "大小S感谢司法还她们清白",
+        "onboard_time": 1700523507,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366081,
+        "num": 366081,
+        "word": "暮光之城主创重聚",
+        "onboard_time": 1700532929,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337535,
+        "num": 337535,
+        "word": "民警帮付25元女子惦记400多天欲还钱",
+        "onboard_time": 1700533590,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307961,
+        "num": 307961,
+        "word": "油价",
+        "onboard_time": 1700532929,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293973,
+        "num": 293973,
+        "word": "小时候流行的屁股针为什么消失了",
+        "onboard_time": 1700522365,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285595,
+        "num": 285595,
+        "word": "还以为虞书欣背着我去做汉服模特了",
+        "onboard_time": 1700532031,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 283782,
+        "num": 283782,
+        "word": "特斯拉1个月涨价4次",
+        "onboard_time": 1700531071,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276616,
+        "num": 276616,
+        "word": "郭碧婷让向佐管她叫女王",
+        "onboard_time": 1700525016,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272169,
+        "num": 272169,
+        "word": "韩警方回应权志龙毛发检查结果阴性",
+        "onboard_time": 1700533351,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 223018,
+        "num": 223018,
+        "word": "准新郎结婚前一天跳河救落水儿童",
+        "onboard_time": 1700521341,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222312,
+        "num": 222312,
+        "word": "国足今晚对阵韩国",
+        "onboard_time": 1700534192,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217994,
+        "num": 217994,
+        "word": "港珠澳大桥马拉松疑不让中国冠军冲线",
+        "onboard_time": 1700526155,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209936,
+        "num": 209936,
+        "word": "警号043940由牺牲民警女儿重启",
+        "onboard_time": 1700531311,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206253,
+        "num": 206253,
+        "word": "约基奇被驱逐",
+        "onboard_time": 1700533410,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196849,
+        "num": 196849,
+        "word": "2023LOL冬季转会期",
+        "onboard_time": 1700531974,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186973,
+        "num": 186973,
+        "word": "果敢同盟军即将进攻老街",
+        "onboard_time": 1700532331,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169753,
+        "num": 169753,
+        "word": "美甲上的紧急联系方式",
+        "onboard_time": 1700528135,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186610,
+        "num": 159858,
+        "word": "爱不爱吃螃蟹的都沉默了",
+        "onboard_time": 1700534010,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149219,
+        "num": 149219,
+        "word": "不是所有糖都对身体不好",
+        "onboard_time": 1700531432,
+        "rank": 31,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 148144,
+        "num": 148144,
+        "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
+        "onboard_time": 1700490936,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142721,
+        "num": 142721,
+        "word": "林俊杰歌词三大人生境界",
+        "onboard_time": 1700531913,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141914,
+        "num": 141914,
+        "word": "外舰不撤我舰不退坚决斗争到底",
+        "onboard_time": 1700532092,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141749,
+        "num": 141749,
+        "word": "舅舅生气外甥女们一人亲一口哄好",
+        "onboard_time": 1700521341,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140118,
+        "num": 140118,
+        "word": "英雄联盟维护",
+        "onboard_time": 1700524954,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139819,
+        "num": 139819,
+        "word": "没有一个馒头能素颜走出山东",
+        "onboard_time": 1700531071,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "加满一箱油或将少花18.7元",
+        "onboard_time": 1700533351,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131154,
+        "num": 131154,
+        "word": "男子10亩香菜长太高免费送村民",
+        "onboard_time": 1700527056,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127695,
+        "num": 127695,
+        "word": "电视家 跑路",
+        "onboard_time": 1700488774,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "北极熊吃火锅连盘子都要舔溜干净",
+        "onboard_time": 1700533892,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124561,
+        "num": 124561,
+        "word": "张小斐拯救嫌疑人破5亿",
+        "onboard_time": 1700532209,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121319,
+        "num": 121319,
+        "word": "杜华原来你淘汰玩真的",
+        "onboard_time": 1700523328,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117199,
+        "num": 117199,
+        "word": "黑龙江一女童疑注射阿奇霉素后死亡",
+        "onboard_time": 1700495969,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115530,
+        "num": 115530,
+        "word": "我本是高山",
+        "onboard_time": 1700526875,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42425,
+        "num": 114834,
+        "word": "vivo X100真香",
+        "onboard_time": 1700534492,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114597,
+        "num": 114597,
+        "word": "前9批烈士遗骸DNA分析工作已完成",
+        "onboard_time": 1700533290,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105194,
+        "num": 105194,
+        "word": "专家称直接发钱鼓励生育效率最高",
+        "onboard_time": 1700523988,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104460,
+        "num": 104460,
+        "word": "DK官宣Deft自由人",
+        "onboard_time": 1700534553,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#同世界和亚太各成员分享中国发展机遇#"
+    }
+  }
+}
