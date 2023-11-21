@@ -1,0 +1,410 @@
+{
+  "runTime": 1700571077728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3494229,
+        "num": 3494229,
+        "word": "国足vs韩国",
+        "onboard_time": 1700565812,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2704094,
+        "num": 2704094,
+        "word": "斗鱼CEO被逮捕",
+        "onboard_time": 1700569236,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 67595,
+        "num": 1759931,
+        "word": "非遗苏绣绣出的星河太震撼",
+        "onboard_time": 1700552675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244416,
+        "num": 1244416,
+        "word": "孙兴慜首次攻破国足大门",
+        "onboard_time": 1700569475,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1103340,
+        "num": 1103340,
+        "word": "高嘌呤食物排行榜",
+        "onboard_time": 1700562755,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 980820,
+        "num": 980820,
+        "word": "裁判",
+        "onboard_time": 1700570137,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692460,
+        "num": 692460,
+        "word": "怎么就点球了",
+        "onboard_time": 1700570015,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641394,
+        "num": 641394,
+        "word": "没有VAR",
+        "onboard_time": 1700568935,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622593,
+        "num": 622593,
+        "word": "辛芷蕾说最近的事对王安宇很不公平",
+        "onboard_time": 1700567016,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440457,
+        "num": 440457,
+        "word": "以爱为营点映礼",
+        "onboard_time": 1700566655,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 781543,
+        "num": 440305,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 594548,
+        "num": 439203,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431589,
+        "num": 431589,
+        "word": "考研选择题 我生性多疑",
+        "onboard_time": 1700566292,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430581,
+        "num": 430581,
+        "word": "国足世预赛",
+        "onboard_time": 1700561615,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424201,
+        "num": 424201,
+        "word": "LGD 五个癫子",
+        "onboard_time": 1700566413,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413929,
+        "num": 413929,
+        "word": "韦世豪4号",
+        "onboard_time": 1700564434,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397359,
+        "num": 397359,
+        "word": "赵露思珠帘玉幕发型",
+        "onboard_time": 1700568453,
+        "rank": 16,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 385114,
+        "num": 385114,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370010,
+        "num": 370010,
+        "word": "RW侠北伐",
+        "onboard_time": 1700570618,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 353363,
+        "num": 353363,
+        "word": "颜骏凌好累",
+        "onboard_time": 1700570859,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632435,
+        "num": 350573,
+        "word": "李秀满 癫公",
+        "onboard_time": 1700569056,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431545,
+        "num": 350260,
+        "word": "孟子义黑色肚兜",
+        "onboard_time": 1700569056,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346700,
+        "num": 346700,
+        "word": "李晨去体综了",
+        "onboard_time": 1700557353,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346556,
+        "num": 346556,
+        "word": "国足首发",
+        "onboard_time": 1700562514,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328875,
+        "num": 328875,
+        "word": "张琳芃出任国足队长",
+        "onboard_time": 1700564974,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287961,
+        "num": 287961,
+        "word": "韩国人喜爱的艺人排名",
+        "onboard_time": 1700567738,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287668,
+        "num": 287668,
+        "word": "傅首尔 再也没有人会这样对我了",
+        "onboard_time": 1700561255,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286676,
+        "num": 286676,
+        "word": "以爱为营",
+        "onboard_time": 1700569594,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253231,
+        "num": 253231,
+        "word": "胡连馨补拍狐妖",
+        "onboard_time": 1700568994,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123126,
+        "num": 251012,
+        "word": "我国肝癌患者每年新增41万",
+        "onboard_time": 1700562991,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250755,
+        "num": 250755,
+        "word": "周杰伦茅台鸡尾酒",
+        "onboard_time": 1700565453,
+        "rank": 30,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 244633,
+        "num": 244633,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237734,
+        "num": 237734,
+        "word": "eStar世冠淘汰",
+        "onboard_time": 1700567738,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220365,
+        "num": 220365,
+        "word": "假僧人诱奸14名女性3人未成年被判无期",
+        "onboard_time": 1700560654,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211526,
+        "num": 211526,
+        "word": "阿信 永远的永远",
+        "onboard_time": 1700568634,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206348,
+        "num": 206348,
+        "word": "李荣浩杭州嘉宾 陈奕迅",
+        "onboard_time": 1700565633,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205984,
+        "num": 205984,
+        "word": "RW晋级世冠小组赛",
+        "onboard_time": 1700570978,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190810,
+        "num": 190810,
+        "word": "心疼清融",
+        "onboard_time": 1700567738,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184546,
+        "num": 184546,
+        "word": "佘诗曼谈新闻女王剧情",
+        "onboard_time": 1700565333,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183410,
+        "num": 183410,
+        "word": "麻省理工一中国博士生突然身亡",
+        "onboard_time": 1700549315,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182483,
+        "num": 182483,
+        "word": "RW今天好猛",
+        "onboard_time": 1700559993,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180476,
+        "num": 180476,
+        "word": "偷偷藏不住上了阿里Q2财报",
+        "onboard_time": 1700555195,
+        "rank": 41,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 174622,
+        "num": 174622,
+        "word": "体检查出这些毛病根本不用治",
+        "onboard_time": 1700557413,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174389,
+        "num": 174389,
+        "word": "陈林坚交通意外",
+        "onboard_time": 1700568757,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162754,
+        "num": 162754,
+        "word": "落马老虎曾突击提拔32名女干部",
+        "onboard_time": 1700568514,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152748,
+        "num": 152748,
+        "word": "双鱼座很聪明但就是懒",
+        "onboard_time": 1700562991,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 133922,
+        "num": 133922,
+        "word": "广东选调 申论",
+        "onboard_time": 1700569414,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133280,
+        "num": 133280,
+        "word": "杨紫 选本自由",
+        "onboard_time": 1700553874,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "CPA出分了",
+        "onboard_time": 1700554777,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126053,
+        "num": 126053,
+        "word": "见过最癫的美甲",
+        "onboard_time": 1700571039,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定发展永久睦邻友好的中俄关系#"
+    }
+  }
+}

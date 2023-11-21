@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700570099874,
+  "endTime": 1700571077728,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3494229,
+      "num": 3494229,
+      "word": "国足vs韩国",
+      "onboard_time": 1700547277,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3471365,
       "num": 3471365,
       "word": "中美元首会晤",
@@ -683,12 +691,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2708862,
-      "num": 2708862,
-      "word": "国足vs韩国",
-      "onboard_time": 1700547277,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 2704094,
+      "num": 2704094,
+      "word": "斗鱼CEO被逮捕",
+      "onboard_time": 1700569236,
+      "rank": 1,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 2698711,
@@ -3003,14 +3011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1489119,
-      "num": 1489119,
-      "word": "斗鱼CEO被逮捕",
-      "onboard_time": 1700569236,
-      "rank": 1,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 1488967,
       "num": 1488967,
       "word": "还得是凤凰传奇",
@@ -3913,6 +3913,14 @@
       "onboard_time": 1699587932,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1244416,
+      "num": 1244416,
+      "word": "孙兴慜首次攻破国足大门",
+      "onboard_time": 1700569475,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1243776,
@@ -5513,6 +5521,14 @@
       "onboard_time": 1700221112,
       "rank": 10,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 980820,
+      "num": 980820,
+      "word": "裁判",
+      "onboard_time": 1700570137,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 980635,
@@ -9075,6 +9091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 692460,
+      "num": 692460,
+      "word": "怎么就点球了",
+      "onboard_time": 1700570015,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692439,
       "num": 692439,
       "word": "Ning点评WBG教练",
@@ -10148,7 +10172,7 @@
     },
     {
       "raw_hot": 632755,
-      "num": 300226,
+      "num": 350573,
       "word": "李秀满 癫公",
       "onboard_time": 1700569056,
       "rank": 20,
@@ -10355,6 +10379,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 622593,
+      "num": 622593,
+      "word": "辛芷蕾说最近的事对王安宇很不公平",
+      "onboard_time": 1700567016,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622303,
       "num": 498001,
       "word": "时代少年团演唱会",
@@ -10417,14 +10449,6 @@
       "onboard_time": 1699253792,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619342,
-      "num": 619342,
-      "word": "孙兴慜首次攻破国足大门",
-      "onboard_time": 1700569475,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 619238,
@@ -11817,14 +11841,6 @@
       "onboard_time": 1699270413,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 566950,
-      "num": 566950,
-      "word": "辛芷蕾说最近的事对王安宇很不公平",
-      "onboard_time": 1700567016,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 566749,
@@ -16195,6 +16211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431545,
+      "num": 350260,
+      "word": "孟子义黑色肚兜",
+      "onboard_time": 1700569056,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 431401,
       "num": 431401,
       "word": "娜扎挂脖珍珠裙",
@@ -16433,6 +16457,14 @@
       "onboard_time": 1699268916,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424201,
+      "num": 424201,
+      "word": "LGD 五个癫子",
+      "onboard_time": 1700566413,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 423991,
@@ -16913,14 +16945,6 @@
       "onboard_time": 1699763791,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 415490,
-      "num": 300131,
-      "word": "孟子义黑色肚兜",
-      "onboard_time": 1700569056,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415329,
@@ -19355,14 +19379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370545,
-      "num": 370545,
-      "word": "LGD 五个癫子",
-      "onboard_time": 1700566413,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 370232,
       "num": 370232,
       "word": "苏醒没有陈楚生的比赛不愿意留到最后",
@@ -19377,6 +19393,14 @@
       "onboard_time": 1699400369,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370010,
+      "num": 370010,
+      "word": "RW侠北伐",
+      "onboard_time": 1700570618,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 369962,
@@ -20289,6 +20313,14 @@
       "onboard_time": 1700274208,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353363,
+      "num": 353363,
+      "word": "颜骏凌好累",
+      "onboard_time": 1700570859,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 352908,
@@ -21763,6 +21795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328875,
+      "num": 328875,
+      "word": "张琳芃出任国足队长",
+      "onboard_time": 1700564974,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328836,
       "num": 328836,
       "word": "马斯克盛赞中国人聪明又勤奋",
@@ -23105,14 +23145,6 @@
       "onboard_time": 1699706917,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 308599,
-      "num": 286574,
-      "word": "张琳芃出任国足队长",
-      "onboard_time": 1700564974,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 308421,
@@ -29172,7 +29204,7 @@
     },
     {
       "raw_hot": 242621,
-      "num": 242621,
+      "num": 251012,
       "word": "我国肝癌患者每年新增41万",
       "onboard_time": 1700562991,
       "rank": 29,
@@ -34419,6 +34451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205984,
+      "num": 205984,
+      "word": "RW晋级世冠小组赛",
+      "onboard_time": 1700570978,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205956,
       "num": 205956,
       "word": "张钧甯拍追缉手掌骨裂",
@@ -34761,14 +34801,6 @@
       "onboard_time": 1699688311,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204247,
-      "num": 204247,
-      "word": "怎么就点球了",
-      "onboard_time": 1700570015,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 204195,
@@ -39483,6 +39515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182483,
+      "num": 182483,
+      "word": "RW今天好猛",
+      "onboard_time": 1700559993,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182426,
       "num": 182426,
       "word": "浙江一中学学生有了校内家长",
@@ -39881,14 +39921,6 @@
       "onboard_time": 1700125234,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 179864,
-      "num": 179864,
-      "word": "RW今天好猛",
-      "onboard_time": 1700559993,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 179860,
@@ -40939,6 +40971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174389,
+      "num": 174389,
+      "word": "陈林坚交通意外",
+      "onboard_time": 1700568757,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174387,
       "num": 174387,
       "word": "高血压的前兆",
@@ -41801,14 +41841,6 @@
       "onboard_time": 1699858717,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169612,
-      "num": 169612,
-      "word": "陈林坚交通意外",
-      "onboard_time": 1700568757,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 169568,
@@ -42844,7 +42876,7 @@
     },
     {
       "raw_hot": 164141,
-      "num": 1421775,
+      "num": 1759931,
       "word": "非遗苏绣绣出的星河太震撼",
       "onboard_time": 1700552675,
       "rank": 2,
@@ -50129,6 +50161,14 @@
       "onboard_time": 1699673549,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126053,
+      "num": 126053,
+      "word": "见过最癫的美甲",
+      "onboard_time": 1700571039,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 126028,
