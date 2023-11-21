@@ -1,0 +1,410 @@
+{
+  "runTime": 1700555789982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2647766,
+        "num": 2647766,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2508192,
+        "num": 2508192,
+        "word": "CPA出分了",
+        "onboard_time": 1700554777,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 1421775,
+        "word": "非遗苏绣绣出的星河太震撼",
+        "onboard_time": 1700552675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081284,
+        "num": 1081284,
+        "word": "麻省理工一中国博士生突然身亡",
+        "onboard_time": 1700549315,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010239,
+        "num": 1010239,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 947787,
+        "num": 947787,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 647424,
+        "num": 647424,
+        "word": "韩媒说中国队防不住孙兴慜",
+        "onboard_time": 1700552675,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600408,
+        "num": 600408,
+        "word": "王鹤棣深夜送王彦霖夫妻去医院",
+        "onboard_time": 1700545237,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422208,
+        "num": 422208,
+        "word": "难哄就别哄了",
+        "onboard_time": 1700541161,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415256,
+        "num": 415256,
+        "word": "天玑8300",
+        "onboard_time": 1700552794,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 845724,
+        "num": 413163,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 712174,
+        "num": 400780,
+        "word": "papi酱明白傅首尔最担心的点",
+        "onboard_time": 1700552794,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522572,
+        "num": 398858,
+        "word": "北仑公安转发白敬亭工作室",
+        "onboard_time": 1700550756,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384311,
+        "num": 384311,
+        "word": "檀健次的胸肌 偷偷藏不住",
+        "onboard_time": 1700554897,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77510,
+        "num": 380215,
+        "word": "天价白酒董事长称再贵5倍也值",
+        "onboard_time": 1700554418,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 377636,
+        "num": 377636,
+        "word": "央媒称该管管所谓的明星祝福视频了",
+        "onboard_time": 1700547817,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 374065,
+        "num": 374065,
+        "word": "偷偷藏不住上了阿里Q2财报",
+        "onboard_time": 1700555195,
+        "rank": 16,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 351154,
+        "num": 351154,
+        "word": "B站已经部分上线前台实名",
+        "onboard_time": 1700551534,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336945,
+        "num": 336945,
+        "word": "2023尖叫之夜全阵容",
+        "onboard_time": 1700552195,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293229,
+        "num": 293229,
+        "word": "国内小区寿命有多短",
+        "onboard_time": 1700543560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387894,
+        "num": 288742,
+        "word": "杨紫 选本自由",
+        "onboard_time": 1700553874,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309211,
+        "num": 287032,
+        "word": "曾志伟回应拍片为缅北电诈头目庆生",
+        "onboard_time": 1700536473,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280911,
+        "num": 280911,
+        "word": "建议大学倒过来上",
+        "onboard_time": 1700553517,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228886,
+        "num": 228886,
+        "word": "男子买3千斤滞销白菜让人免费取",
+        "onboard_time": 1700547874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225924,
+        "num": 225924,
+        "word": "朋友圈三天可见是不合群的表现吗",
+        "onboard_time": 1700548894,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267369,
+        "num": 220202,
+        "word": "吴千语施伯雄备婚",
+        "onboard_time": 1700552556,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254380,
+        "num": 217881,
+        "word": "韩东君抽烟镜头",
+        "onboard_time": 1700553756,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238702,
+        "num": 215636,
+        "word": "宋雨琦玫瑰红吊带裙",
+        "onboard_time": 1700552556,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211688,
+        "num": 211688,
+        "word": "李沁曾舜晞开机路透",
+        "onboard_time": 1700552917,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193584,
+        "num": 193584,
+        "word": "Hero对战DYG",
+        "onboard_time": 1700555015,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179526,
+        "num": 179526,
+        "word": "考研的书被狗子撕坏了",
+        "onboard_time": 1700554175,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178918,
+        "num": 178918,
+        "word": "勇士 主场哨",
+        "onboard_time": 1700553457,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173439,
+        "num": 173439,
+        "word": "黄喜灿深圳商店买鞋",
+        "onboard_time": 1700553158,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167789,
+        "num": 167789,
+        "word": "王栎鑫新剧演家暴男",
+        "onboard_time": 1700549674,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138153,
+        "num": 166533,
+        "word": "诗词与古风粉笔画搭配太绝了",
+        "onboard_time": 1700555494,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165385,
+        "num": 165385,
+        "word": "吴磊自己下雪自己扫",
+        "onboard_time": 1700549914,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157080,
+        "num": 157080,
+        "word": "BABYMONSTER出道曲预告",
+        "onboard_time": 1700555557,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156577,
+        "num": 156577,
+        "word": "难怪秦海璐情绪这么稳定",
+        "onboard_time": 1700549073,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151584,
+        "num": 151584,
+        "word": "减肥后反弹多少斤算正常",
+        "onboard_time": 1700551235,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150924,
+        "num": 150924,
+        "word": "合肥成为特大城市",
+        "onboard_time": 1700555434,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 125247,
+        "num": 145928,
+        "word": "张桂梅说一直支撑自己的是信仰",
+        "onboard_time": 1700530774,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141609,
+        "num": 141609,
+        "word": "电视家多个公众号改名",
+        "onboard_time": 1700540919,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141469,
+        "num": 141469,
+        "word": "梅西重回马拉卡纳",
+        "onboard_time": 1700554418,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 136034,
+        "word": "RW战胜TES",
+        "onboard_time": 1700554295,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132870,
+        "num": 132870,
+        "word": "鞠婧祎同款八字刘海",
+        "onboard_time": 1700554234,
+        "rank": 44,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 130538,
+        "num": 130538,
+        "word": "梅西拍卖世界杯球衣",
+        "onboard_time": 1700555315,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124538,
+        "num": 124538,
+        "word": "当代年轻人结婚能有多整活",
+        "onboard_time": 1700553997,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118941,
+        "num": 118941,
+        "word": "权志龙指甲检查阴性",
+        "onboard_time": 1700544400,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115370,
+        "num": 115370,
+        "word": "看花少 少走10年弯路",
+        "onboard_time": 1700545835,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107661,
+        "num": 107661,
+        "word": "樊振东孙颖莎继续顶峰相见",
+        "onboard_time": 1700549793,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}

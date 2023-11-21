@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700554982575,
+  "endTime": 1700555789982,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -739,8 +739,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2642333,
-      "num": 2642333,
+      "raw_hot": 2647766,
+      "num": 2647766,
       "word": "傅首尔两万多张照片被老刘格式化了",
       "onboard_time": 1700551777,
       "rank": 15,
@@ -833,6 +833,14 @@
       "onboard_time": 1699676071,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2508192,
+      "num": 2508192,
+      "word": "CPA出分了",
+      "onboard_time": 1700554777,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 2507558,
@@ -3049,14 +3057,6 @@
       "onboard_time": 1699111959,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1474485,
-      "num": 1474485,
-      "word": "CPA出分了",
-      "onboard_time": 1700554777,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1473564,
@@ -5707,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947787,
+      "num": 947787,
+      "word": "孙怡 为什么都在劝老刘放手",
+      "onboard_time": 1700552134,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 947497,
       "num": 947497,
       "word": "男子100多万买林肯称被客服嘲讽",
@@ -6531,14 +6539,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 847856,
-      "num": 847856,
-      "word": "孙怡 为什么都在劝老刘放手",
-      "onboard_time": 1700552134,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 847590,
       "num": 847590,
       "word": "想看韩网热评",
@@ -6561,6 +6561,14 @@
       "onboard_time": 1700037156,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 845724,
+      "num": 414380,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 845135,
@@ -7683,14 +7691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 766886,
-      "num": 414380,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 766664,
       "num": 373236,
       "word": "Jennie50亿韩元购入高档别墅",
@@ -8673,6 +8673,14 @@
       "onboard_time": 1699256074,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712174,
+      "num": 405931,
+      "word": "papi酱明白傅首尔最担心的点",
+      "onboard_time": 1700552794,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 711751,
@@ -11721,14 +11729,6 @@
       "onboard_time": 1698902673,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 566046,
-      "num": 405931,
-      "word": "papi酱明白傅首尔最担心的点",
-      "onboard_time": 1700552794,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 565893,
@@ -18347,6 +18347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384311,
+      "num": 384311,
+      "word": "檀健次的胸肌 偷偷藏不住",
+      "onboard_time": 1700554897,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 384204,
       "num": 308195,
       "word": "王鹤棣用晚餐摆了个六",
@@ -18921,6 +18929,14 @@
       "onboard_time": 1700108801,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 374065,
+      "num": 374065,
+      "word": "偷偷藏不住上了阿里Q2财报",
+      "onboard_time": 1700555195,
+      "rank": 16,
+      "category": "剧集,互联网"
     },
     {
       "raw_hot": 373974,
@@ -28723,14 +28739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 243733,
-      "num": 243733,
-      "word": "檀健次的胸肌 偷偷藏不住",
-      "onboard_time": 1700554897,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 243731,
       "num": 243731,
       "word": "安徽宏村现丁达尔现象",
@@ -36643,6 +36651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193584,
+      "num": 193584,
+      "word": "Hero对战DYG",
+      "onboard_time": 1700555015,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193571,
       "num": 193571,
       "word": "三只大熊猫即将回国",
@@ -39473,6 +39489,14 @@
       "onboard_time": 1699959932,
       "rank": 31,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 179526,
+      "num": 179526,
+      "word": "考研的书被狗子撕坏了",
+      "onboard_time": 1700554175,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 179458,
@@ -42316,7 +42340,7 @@
     },
     {
       "raw_hot": 164141,
-      "num": 1393929,
+      "num": 1421775,
       "word": "非遗苏绣绣出的星河太震撼",
       "onboard_time": 1700552675,
       "rank": 2,
@@ -43547,6 +43571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157080,
+      "num": 157080,
+      "word": "BABYMONSTER出道曲预告",
+      "onboard_time": 1700555557,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157043,
       "num": 220637,
       "word": "守望先锋 韩国队",
@@ -44563,6 +44595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151584,
+      "num": 151584,
+      "word": "减肥后反弹多少斤算正常",
+      "onboard_time": 1700551235,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 151464,
       "num": 151464,
       "word": "成毅演绎国风设计",
@@ -44665,6 +44705,14 @@
       "onboard_time": 1699958614,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150924,
+      "num": 150924,
+      "word": "合肥成为特大城市",
+      "onboard_time": 1700555434,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150921,
@@ -45161,14 +45209,6 @@
       "onboard_time": 1700533351,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 148465,
-      "num": 148465,
-      "word": "减肥后反弹多少斤算正常",
-      "onboard_time": 1700551235,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 148429,
@@ -46595,6 +46635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141469,
+      "num": 141469,
+      "word": "梅西重回马拉卡纳",
+      "onboard_time": 1700554418,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141467,
       "num": 170984,
       "word": "和父母的分享欲就是这么消失的",
@@ -46899,14 +46947,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139833,
-      "num": 139833,
-      "word": "考研的书被狗子撕坏了",
-      "onboard_time": 1700554175,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139819,
       "num": 139819,
       "word": "没有一个馒头能素颜走出山东",
@@ -47201,6 +47241,14 @@
       "onboard_time": 1699583792,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138153,
+      "num": 166533,
+      "word": "诗词与古风粉笔画搭配太绝了",
+      "onboard_time": 1700555494,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138146,
@@ -48219,6 +48267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132870,
+      "num": 132870,
+      "word": "鞠婧祎同款八字刘海",
+      "onboard_time": 1700554234,
+      "rank": 43,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 132835,
       "num": 132835,
       "word": "干美甲的和干汽修的都沉默了",
@@ -48539,14 +48595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131432,
-      "num": 131432,
-      "word": "梅西重回马拉卡纳",
-      "onboard_time": 1700554418,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131365,
       "num": 245407,
       "word": "和叶顺嘴抢竹子给花花留3片叶子",
@@ -48713,6 +48761,14 @@
       "onboard_time": 1699356756,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130538,
+      "num": 130538,
+      "word": "梅西拍卖世界杯球衣",
+      "onboard_time": 1700555315,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130462,
@@ -49251,14 +49307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127464,
-      "num": 127464,
-      "word": "鞠婧祎同款八字刘海",
-      "onboard_time": 1700554234,
-      "rank": 43,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 127455,
       "num": 127455,
       "word": "杰克逊模仿C罗",
@@ -49785,6 +49833,14 @@
       "onboard_time": 1699090170,
       "rank": 2,
       "category": "自然"
+    },
+    {
+      "raw_hot": 124538,
+      "num": 124538,
+      "word": "当代年轻人结婚能有多整活",
+      "onboard_time": 1700553997,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124475,
@@ -52683,14 +52739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104975,
-      "num": 104975,
-      "word": "当代年轻人结婚能有多整活",
-      "onboard_time": 1700553997,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104963,
       "num": 104963,
       "word": "库里复出",
@@ -55003,6 +55051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77510,
+      "num": 389316,
+      "word": "天价白酒董事长称再贵5倍也值",
+      "onboard_time": 1700554418,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77392,
       "num": 212842,
       "word": "凯恩帽子戏法",
@@ -56369,14 +56425,6 @@
       "onboard_time": 1699261293,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49785,
-      "num": 389316,
-      "word": "天价白酒董事长称再贵5倍也值",
-      "onboard_time": 1700554418,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 49330,
