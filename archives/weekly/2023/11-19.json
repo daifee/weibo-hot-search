@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700558303874,
+  "endTime": 1700559278288,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088953,
+      "num": 414380,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1071656,
       "num": 1071656,
       "word": "TheShy 一血率",
@@ -633,14 +641,6 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1052566,
-      "num": 414380,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1026873,
@@ -867,6 +867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 803667,
+      "num": 401151,
+      "word": "李晨去体综了",
+      "onboard_time": 1700557353,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 801206,
       "num": 801206,
       "word": "秦岚辛芷蕾 我俩真没法收场了",
@@ -961,6 +969,14 @@
       "onboard_time": 1700389174,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 716386,
+      "num": 398443,
+      "word": "体检查出这些毛病根本不用治",
+      "onboard_time": 1700557413,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 715629,
@@ -1579,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 516009,
+      "num": 516009,
+      "word": "襄阳健桥医院违规开出生证被罚款10万",
+      "onboard_time": 1700557595,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515400,
       "num": 515400,
       "word": "张凌赫宁安如梦破万手势舞",
@@ -1963,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432739,
+      "num": 252103,
+      "word": "成都未成年少女陪侍醉酒后摔成重伤",
+      "onboard_time": 1700557176,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432212,
       "num": 308900,
       "word": "女子换衣时发现胸部异常确诊淋巴癌",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1700367990,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 426350,
-      "num": 396633,
-      "word": "李晨去体综了",
-      "onboard_time": 1700557353,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 425684,
@@ -2020,7 +2044,7 @@
     },
     {
       "raw_hot": 418424,
-      "num": 305555,
+      "num": 352963,
       "word": "杨紫 选本自由",
       "onboard_time": 1700553874,
       "rank": 20,
@@ -2217,14 +2241,6 @@
       "onboard_time": 1700395836,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 381905,
-      "num": 231562,
-      "word": "成都未成年少女陪侍醉酒后摔成重伤",
-      "onboard_time": 1700557176,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379530,
@@ -2779,22 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319984,
-      "num": 319984,
-      "word": "体检查出这些毛病根本不用治",
-      "onboard_time": 1700557413,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 319681,
-      "num": 319681,
-      "word": "襄阳健桥医院违规开出生证被罚款10万",
-      "onboard_time": 1700557595,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318950,
       "num": 246698,
       "word": "罗云熙现场发手幅",
@@ -3171,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284312,
+      "num": 284312,
+      "word": "CPA进不去",
+      "onboard_time": 1700558194,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 282886,
       "num": 282886,
       "word": "郭富城回应赛车失控退赛",
@@ -3392,6 +3400,14 @@
       "word": "剑魔打永恩",
       "onboard_time": 1700386238,
       "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 265118,
+      "num": 265118,
+      "word": "AG对战RW",
+      "onboard_time": 1700557413,
+      "rank": 19,
       "category": "电竞"
     },
     {
@@ -3899,14 +3915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233561,
-      "num": 233561,
-      "word": "AG对战RW",
-      "onboard_time": 1700557413,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 232045,
       "num": 232045,
       "word": "失眠时别硬躺试试离开你的床",
@@ -4243,6 +4251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216785,
+      "num": 178173,
+      "word": "单依纯小品演出国了",
+      "onboard_time": 1700558554,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216640,
       "num": 239814,
       "word": "老人给重病儿子办手续医生跑腿又塞钱",
@@ -4273,6 +4289,14 @@
       "onboard_time": 1700460333,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214260,
+      "num": 177492,
+      "word": "吴磊赵今麦hi6上班路透图",
+      "onboard_time": 1700558074,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 213792,
@@ -4833,6 +4857,14 @@
       "onboard_time": 1700555015,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192888,
+      "num": 172322,
+      "word": "乐游原 1700想亲就亲",
+      "onboard_time": 1700558676,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 192205,
@@ -5699,14 +5731,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 158763,
-      "num": 158763,
-      "word": "CPA进不去",
-      "onboard_time": 1700558194,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "enhypen说公主请吃饭",
@@ -6499,6 +6523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130838,
+      "num": 126395,
+      "word": "黑莲花上位手册下架公告",
+      "onboard_time": 1700559092,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130763,
       "num": 1201150,
       "word": "大熊猫小馨吃播超解压",
@@ -6555,20 +6587,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127134,
+      "num": 127134,
+      "word": "当代年轻人结婚能有多整活",
+      "onboard_time": 1700553997,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127119,
       "num": 136633,
       "word": "张艺兴官方客服式回复",
       "onboard_time": 1700354908,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126728,
-      "num": 123412,
-      "word": "吴磊赵今麦hi6上班路透图",
-      "onboard_time": 1700558074,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 126428,
@@ -6625,14 +6657,6 @@
       "onboard_time": 1700474014,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124538,
-      "num": 124538,
-      "word": "当代年轻人结婚能有多整活",
-      "onboard_time": 1700553997,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 124373,
@@ -6793,6 +6817,14 @@
       "onboard_time": 1700523207,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114293,
+      "num": 114293,
+      "word": "李健 永远在沸腾的感情其实很危险",
+      "onboard_time": 1700559213,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114157,

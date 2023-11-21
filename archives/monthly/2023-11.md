@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/21 17:18:23
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/21 17:34:38
 </p>
 </blockquote>
 <p>
@@ -3609,6 +3609,12 @@ S13半决赛（热度：1114606）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%BC%80%E5%8D%81%E6%8C%87%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%A7%23" target="weibo">
+传说中的开十指有这么大（热度：1088953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ELLE%E9%A3%8E%E5%B0%9A%E5%A4%A7%E5%85%B8%23" target="weibo">
 ELLE风尚大典（热度：1088644）
 </a>
@@ -3719,12 +3725,6 @@ TheShy 一血率（热度：1071656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%95%E6%9B%B2PARANOIA%23" target="weibo">
 英雄联盟单曲PARANOIA（热度：1055405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%BC%80%E5%8D%81%E6%8C%87%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%A7%23" target="weibo">
-传说中的开十指有这么大（热度：1052566）
 </a>
 </li>
 
@@ -5427,6 +5427,12 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%8E%BB%E4%BD%93%E7%BB%BC%E4%BA%86%23" target="weibo">
+李晨去体综了（热度：803667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E6%9D%8E%E5%B3%8B%23" target="weibo">
 现实版李峋（热度：803274）
 </a>
@@ -6005,12 +6011,6 @@ JDG拿到赛点（热度：753679）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%90%83%E5%B0%8F%E7%B2%89%E4%B8%B8%E7%98%A6%E5%88%B050%E6%96%A4%E5%A4%9A%E5%99%A8%E5%AE%98%E5%87%BA%E8%A1%80%23" target="weibo">
 女孩吃小粉丸瘦到50斤多器官出血（热度：746577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E6%98%8C%E8%AE%A9%E5%84%BF%E5%AD%90%E5%AE%B6%E5%96%BB%E6%88%B7%E6%99%93%E7%9A%84%E6%AD%8C%23" target="weibo">
-刘家昌让儿子家喻户晓的歌（热度：746346）
 </a>
 </li>
 

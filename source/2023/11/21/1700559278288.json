@@ -1,0 +1,410 @@
+{
+  "runTime": 1700559278288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1877676,
+        "num": 1877676,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 881000,
+        "num": 881000,
+        "word": "CPA出分了",
+        "onboard_time": 1700554777,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131165,
+        "num": 715132,
+        "word": "非遗苏绣绣出的星河太震撼",
+        "onboard_time": 1700552675,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097408,
+        "num": 710791,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684075,
+        "num": 684075,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607327,
+        "num": 607327,
+        "word": "麻省理工一中国博士生突然身亡",
+        "onboard_time": 1700549315,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516999,
+        "num": 516999,
+        "word": "偷偷藏不住上了阿里Q2财报",
+        "onboard_time": 1700555195,
+        "rank": 6,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 516009,
+        "num": 516009,
+        "word": "襄阳健桥医院违规开出生证被罚款10万",
+        "onboard_time": 1700557595,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490481,
+        "num": 490481,
+        "word": "韩媒说中国队防不住孙兴慜",
+        "onboard_time": 1700552675,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404032,
+        "num": 404032,
+        "word": "王鹤棣深夜送王彦霖夫妻去医院",
+        "onboard_time": 1700545237,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1088953,
+        "num": 402452,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 803667,
+        "num": 401151,
+        "word": "李晨去体综了",
+        "onboard_time": 1700557353,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716386,
+        "num": 398443,
+        "word": "体检查出这些毛病根本不用治",
+        "onboard_time": 1700557413,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 515519,
+        "num": 396300,
+        "word": "papi酱明白傅首尔最担心的点",
+        "onboard_time": 1700552794,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395004,
+        "num": 395004,
+        "word": "合肥成为特大城市",
+        "onboard_time": 1700555434,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 365443,
+        "num": 365443,
+        "word": "应渊 世间真神",
+        "onboard_time": 1700556515,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352963,
+        "num": 352963,
+        "word": "杨紫 选本自由",
+        "onboard_time": 1700553874,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284312,
+        "num": 284312,
+        "word": "CPA进不去",
+        "onboard_time": 1700558194,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265118,
+        "num": 265118,
+        "word": "AG对战RW",
+        "onboard_time": 1700557413,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252129,
+        "num": 252129,
+        "word": "建议大学倒过来上",
+        "onboard_time": 1700553517,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 432739,
+        "num": 252103,
+        "word": "成都未成年少女陪侍醉酒后摔成重伤",
+        "onboard_time": 1700557176,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252026,
+        "num": 252026,
+        "word": "檀健次的胸肌 偷偷藏不住",
+        "onboard_time": 1700554897,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246740,
+        "num": 246740,
+        "word": "北仑公安转发白敬亭工作室",
+        "onboard_time": 1700550756,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241194,
+        "num": 241194,
+        "word": "难哄就别哄了",
+        "onboard_time": 1700541161,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178332,
+        "num": 178332,
+        "word": "男子买3千斤滞销白菜让人免费取",
+        "onboard_time": 1700547874,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216785,
+        "num": 178173,
+        "word": "单依纯小品演出国了",
+        "onboard_time": 1700558554,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214260,
+        "num": 177492,
+        "word": "吴磊赵今麦hi6上班路透图",
+        "onboard_time": 1700558074,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207271,
+        "num": 177200,
+        "word": "UNINE小分队重回大厂",
+        "onboard_time": 1700556755,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176410,
+        "num": 176410,
+        "word": "考研的书被狗子撕坏了",
+        "onboard_time": 1700554175,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70235,
+        "num": 174551,
+        "word": "张桂梅说一直支撑自己的是信仰",
+        "onboard_time": 1700530774,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192888,
+        "num": 172322,
+        "word": "乐游原 1700想亲就亲",
+        "onboard_time": 1700558676,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186966,
+        "num": 167937,
+        "word": "曾志伟回应拍片为缅北电诈头目庆生",
+        "onboard_time": 1700536473,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182004,
+        "num": 163081,
+        "word": "吴千语施伯雄备婚",
+        "onboard_time": 1700552556,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179131,
+        "num": 161872,
+        "word": "2023尖叫之夜全阵容",
+        "onboard_time": 1700552195,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158960,
+        "num": 158960,
+        "word": "央媒称该管管所谓的明星祝福视频了",
+        "onboard_time": 1700547817,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 169929,
+        "num": 158618,
+        "word": "BABYMONSTER出道曲预告",
+        "onboard_time": 1700555557,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137157,
+        "num": 137157,
+        "word": "朋友圈三天可见是不合群的表现吗",
+        "onboard_time": 1700548894,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136169,
+        "num": 136169,
+        "word": "电视家多个公众号改名",
+        "onboard_time": 1700540919,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135566,
+        "num": 135566,
+        "word": "国内小区寿命有多短",
+        "onboard_time": 1700543560,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127134,
+        "num": 127134,
+        "word": "当代年轻人结婚能有多整活",
+        "onboard_time": 1700553997,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159857,
+        "num": 127040,
+        "word": "威神V卷身材",
+        "onboard_time": 1700557534,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137123,
+        "num": 126992,
+        "word": "韩东君抽烟镜头",
+        "onboard_time": 1700553756,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130838,
+        "num": 126395,
+        "word": "黑莲花上位手册下架公告",
+        "onboard_time": 1700559092,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125590,
+        "num": 125590,
+        "word": "天玑8300",
+        "onboard_time": 1700552794,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116921,
+        "num": 116921,
+        "word": "李沁曾舜晞开机路透",
+        "onboard_time": 1700552917,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114293,
+        "num": 114293,
+        "word": "李健 永远在沸腾的感情其实很危险",
+        "onboard_time": 1700559213,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112848,
+        "num": 112848,
+        "word": "减肥后反弹多少斤算正常",
+        "onboard_time": 1700551235,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108790,
+        "num": 108790,
+        "word": "梅西重回马拉卡纳",
+        "onboard_time": 1700554418,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106033,
+        "num": 106033,
+        "word": "梅西拍卖世界杯球衣",
+        "onboard_time": 1700555315,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98431,
+        "num": 105981,
+        "word": "勇士 主场哨",
+        "onboard_time": 1700553457,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
