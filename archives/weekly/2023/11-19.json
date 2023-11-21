@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700594103128,
+  "endTime": 1700595260779,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -8627,6 +8627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23648,
+      "num": 16648,
+      "word": "邓超说看完怒海魂飞魄散",
+      "onboard_time": 1700594713,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22195,
       "num": 31353,
       "word": "张靓颖 是谁接我下班呀",
@@ -8689,6 +8697,14 @@
       "onboard_time": 1700506035,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10276,
+      "num": 15602,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 7989,

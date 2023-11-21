@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700594103128,
+  "endTime": 1700595260779,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -459,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23648,
+      "num": 16648,
+      "word": "邓超说看完怒海魂飞魄散",
+      "onboard_time": 1700594713,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19469,
       "num": 36272,
       "word": "清融哭了",
       "onboard_time": 1700575122,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10276,
+      "num": 15602,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
