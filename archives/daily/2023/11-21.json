@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700566455230,
+  "endTime": 1700570099874,
   "band_list": [
     {
       "raw_hot": 6800962,
@@ -9,6 +9,14 @@
       "onboard_time": 1700542720,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2708862,
+      "num": 2708862,
+      "word": "国足vs韩国",
+      "onboard_time": 1700547277,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 2647766,
@@ -81,6 +89,14 @@
       "onboard_time": 1700541161,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1489119,
+      "num": 1489119,
+      "word": "斗鱼CEO被逮捕",
+      "onboard_time": 1700569236,
+      "rank": 1,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 1335805,
@@ -219,14 +235,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 746472,
-      "num": 746472,
-      "word": "国足vs韩国",
-      "onboard_time": 1700547277,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 716386,
       "num": 398443,
       "word": "体检查出这些毛病根本不用治",
@@ -291,6 +299,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 647615,
+      "num": 647615,
+      "word": "没有VAR",
+      "onboard_time": 1700568935,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 632755,
+      "num": 300226,
+      "word": "李秀满 癫公",
+      "onboard_time": 1700569056,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632331,
       "num": 632331,
       "word": "偷偷藏不住上了阿里Q2财报",
@@ -313,6 +337,14 @@
       "onboard_time": 1700547817,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 619342,
+      "num": 619342,
+      "word": "孙兴慜首次攻破国足大门",
+      "onboard_time": 1700569475,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 594988,
@@ -345,6 +377,14 @@
       "onboard_time": 1700550756,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566950,
+      "num": 566950,
+      "word": "辛芷蕾说最近的事对王安宇很不公平",
+      "onboard_time": 1700567016,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 563177,
@@ -427,6 +467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 492632,
+      "num": 492632,
+      "word": "考研选择题 我生性多疑",
+      "onboard_time": 1700566292,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 492175,
       "num": 492175,
       "word": "专家称直接发钱鼓励生育效率最高",
@@ -483,6 +531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 461305,
+      "num": 461305,
+      "word": "以爱为营点映礼",
+      "onboard_time": 1700566655,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443798,
       "num": 443798,
       "word": "黑莲花上位手册下架公告",
@@ -529,6 +585,22 @@
       "onboard_time": 1700553874,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415490,
+      "num": 300131,
+      "word": "孟子义黑色肚兜",
+      "onboard_time": 1700569056,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415329,
+      "num": 415329,
+      "word": "赵露思珠帘玉幕发型",
+      "onboard_time": 1700568453,
+      "rank": 12,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 408871,
@@ -641,6 +713,14 @@
       "onboard_time": 1700523328,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370545,
+      "num": 370545,
+      "word": "LGD 五个癫子",
+      "onboard_time": 1700566413,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 369521,
@@ -795,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304302,
+      "num": 304302,
+      "word": "胡连馨补拍狐妖",
+      "onboard_time": 1700568994,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304216,
       "num": 304216,
       "word": "韩东君抽烟镜头",
@@ -811,12 +899,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 300408,
+      "num": 300408,
+      "word": "eStar世冠淘汰",
+      "onboard_time": 1700567738,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299791,
       "num": 299791,
       "word": "吴千语施伯雄备婚",
       "onboard_time": 1700552556,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299766,
+      "num": 299766,
+      "word": "韩国人喜爱的艺人排名",
+      "onboard_time": 1700567738,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 298866,
@@ -1171,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213285,
+      "num": 213285,
+      "word": "阿信 永远的永远",
+      "onboard_time": 1700568634,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213174,
       "num": 213174,
       "word": "乙肝临床治愈门诊",
@@ -1235,6 +1347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208711,
+      "num": 208711,
+      "word": "以爱为营",
+      "onboard_time": 1700569594,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208491,
       "num": 208491,
       "word": "DRX官宣BeryL离队",
@@ -1265,6 +1385,22 @@
       "onboard_time": 1700559213,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204904,
+      "num": 204904,
+      "word": "心疼清融",
+      "onboard_time": 1700567738,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 204247,
+      "num": 204247,
+      "word": "怎么就点球了",
+      "onboard_time": 1700570015,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 203998,
@@ -1539,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176982,
-      "num": 176982,
-      "word": "考研选择题 我生性多疑",
-      "onboard_time": 1700566292,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 176642,
       "num": 176642,
       "word": "PLEDIS新男团中国成员疑似小号",
@@ -1569,6 +1697,14 @@
       "onboard_time": 1700488536,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173783,
+      "num": 173783,
+      "word": "落马老虎曾突击提拔32名女干部",
+      "onboard_time": 1700568514,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173121,
@@ -1609,6 +1745,14 @@
       "onboard_time": 1700525734,
       "rank": 35,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 169612,
+      "num": 169612,
+      "word": "陈林坚交通意外",
+      "onboard_time": 1700568757,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166140,
@@ -1907,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138872,
+      "num": 138872,
+      "word": "广东选调 申论",
+      "onboard_time": 1700569414,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138153,
       "num": 172192,
       "word": "诗词与古风粉笔画搭配太绝了",
@@ -1915,12 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134667,
-      "num": 134667,
-      "word": "LGD 五个癫子",
-      "onboard_time": 1700566413,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 136673,
+      "num": 136673,
+      "word": "肖俊是上了镁粉课吗",
+      "onboard_time": 1700567794,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 134346,
@@ -2008,6 +2160,14 @@
       "word": "红嘴蓝雀纵身一跃飞入国画",
       "onboard_time": 1700550876,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131079,
+      "num": 131079,
+      "word": "被张桂梅的纪录片戳到了",
+      "onboard_time": 1700566895,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
