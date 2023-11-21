@@ -1,0 +1,410 @@
+{
+  "runTime": 1700552057201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1913863,
+        "num": 1913863,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1313579,
+        "num": 1313579,
+        "word": "王鹤棣深夜送王彦霖夫妻去医院",
+        "onboard_time": 1700545237,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92925,
+        "num": 705603,
+        "word": "北斗系统今后全球民航通用",
+        "onboard_time": 1700535451,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2143198,
+        "num": 691283,
+        "word": "麻省理工一中国博士生突然身亡",
+        "onboard_time": 1700549315,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611885,
+        "num": 611885,
+        "word": "难哄就别哄了",
+        "onboard_time": 1700541161,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532998,
+        "num": 532998,
+        "word": "难怪秦海璐情绪这么稳定",
+        "onboard_time": 1700549073,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511043,
+        "num": 511043,
+        "word": "男子买3千斤滞销白菜让人免费取",
+        "onboard_time": 1700547874,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493153,
+        "num": 493153,
+        "word": "张桂梅说一直支撑自己的是信仰",
+        "onboard_time": 1700530774,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383911,
+        "num": 383911,
+        "word": "王栎鑫新剧演家暴男",
+        "onboard_time": 1700549674,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234011,
+        "num": 234011,
+        "word": "CPA 等成绩",
+        "onboard_time": 1700526756,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 974352,
+        "num": 231876,
+        "word": "国内小区寿命有多短",
+        "onboard_time": 1700543560,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623479,
+        "num": 227000,
+        "word": "央媒称该管管所谓的明星祝福视频了",
+        "onboard_time": 1700547817,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583601,
+        "num": 221439,
+        "word": "北仑公安转发白敬亭工作室",
+        "onboard_time": 1700550756,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418410,
+        "num": 214591,
+        "word": "曾志伟回应拍片为缅北电诈头目庆生",
+        "onboard_time": 1700536473,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213669,
+        "num": 213669,
+        "word": "卡塔尔亚洲杯门票收入将捐给巴勒斯坦",
+        "onboard_time": 1700547576,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394085,
+        "num": 213529,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329305,
+        "num": 213469,
+        "word": "吴磊自己下雪自己扫",
+        "onboard_time": 1700549914,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213332,
+        "num": 213332,
+        "word": "痞幼妆",
+        "onboard_time": 1700534793,
+        "rank": 17,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 190668,
+        "num": 190668,
+        "word": "衢州一中学养了干饭梅花鹿",
+        "onboard_time": 1700546556,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189507,
+        "num": 189507,
+        "word": "电视家多个公众号改名",
+        "onboard_time": 1700540919,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 373101,
+        "num": 189102,
+        "word": "朋友圈三天可见是不合群的表现吗",
+        "onboard_time": 1700548894,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317071,
+        "num": 188856,
+        "word": "权志龙指甲检查阴性",
+        "onboard_time": 1700544400,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271723,
+        "num": 188576,
+        "word": "看花少 少走10年弯路",
+        "onboard_time": 1700545835,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187373,
+        "num": 187373,
+        "word": "B站已经部分上线前台实名",
+        "onboard_time": 1700551534,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170629,
+        "num": 170629,
+        "word": "樊振东孙颖莎继续顶峰相见",
+        "onboard_time": 1700549793,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241729,
+        "num": 161382,
+        "word": "孙丞潇对金莎说好爱好爱好爱你",
+        "onboard_time": 1700548954,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197073,
+        "num": 160570,
+        "word": "优酷汗流浃背了吧",
+        "onboard_time": 1700547216,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188332,
+        "num": 158025,
+        "word": "杨紫繁花光影大片",
+        "onboard_time": 1700551714,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150158,
+        "num": 150158,
+        "word": "热红酒美式",
+        "onboard_time": 1700547336,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137136,
+        "num": 149538,
+        "word": "T1官宣Kkoma回归",
+        "onboard_time": 1700539054,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 318165,
+        "num": 146935,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 155818,
+        "num": 145761,
+        "word": "可可西里管理处回应胡歌刘涛争论",
+        "onboard_time": 1700549496,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180146,
+        "num": 143069,
+        "word": "杨紫冷脸飒气妆",
+        "onboard_time": 1700547755,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 141452,
+        "num": 141452,
+        "word": "实用的日常发型教程",
+        "onboard_time": 1700551894,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140951,
+        "num": 140951,
+        "word": "优酷给足了佘诗曼排面",
+        "onboard_time": 1700547874,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134385,
+        "num": 134385,
+        "word": "新白娘子传奇的演员重游西湖",
+        "onboard_time": 1700550396,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134346,
+        "num": 134346,
+        "word": "冬天用护肤品要涂得很厚吗",
+        "onboard_time": 1700551834,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134033,
+        "num": 134033,
+        "word": "减肥后反弹多少斤算正常",
+        "onboard_time": 1700551235,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131565,
+        "num": 131565,
+        "word": "这蛋糕对强迫症很友好",
+        "onboard_time": 1700551894,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131162,
+        "num": 131162,
+        "word": "红嘴蓝雀纵身一跃飞入国画",
+        "onboard_time": 1700550876,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129458,
+        "num": 129458,
+        "word": "涵艺爆料HLE新阵容",
+        "onboard_time": 1700549432,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126393,
+        "num": 126393,
+        "word": "我本是高山导演回答酗酒母亲问题",
+        "onboard_time": 1700528675,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125670,
+        "num": 125670,
+        "word": "金莎鼓励孙丞潇的方式",
+        "onboard_time": 1700550995,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120129,
+        "num": 120129,
+        "word": "金牛座为什么会分手",
+        "onboard_time": 1700540503,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120127,
+        "num": 120127,
+        "word": "王星越还原原著张遮台词",
+        "onboard_time": 1700550694,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114325,
+        "num": 114325,
+        "word": "女童海边溺水2名西装大哥冲下海救回",
+        "onboard_time": 1700536294,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 113326,
+        "num": 113326,
+        "word": "大象为了吃一口把鼻子伸成直线",
+        "onboard_time": 1700548174,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109638,
+        "num": 109638,
+        "word": "警号043940由牺牲民警女儿重启",
+        "onboard_time": 1700531311,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107677,
+        "num": 107677,
+        "word": "今年追过的央视好剧",
+        "onboard_time": 1700552015,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106624,
+        "num": 106624,
+        "word": "张桂梅称女孩受教育可改变三代人",
+        "onboard_time": 1700545058,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动亚太合作再出发#"
+    }
+  }
+}

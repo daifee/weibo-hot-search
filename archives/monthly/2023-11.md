@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/21 15:16:37
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/21 15:34:17
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ SpaceX星舰第二次试飞（热度：2149339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23" target="weibo">
+麻省理工一中国博士生突然身亡（热度：2143198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%A7%A3%E9%99%A4%E5%AF%B9%E5%85%AC%E5%AE%89%E9%83%A8%E9%89%B4%E5%AE%9A%E4%B8%AD%E5%BF%83%E5%88%B6%E8%A3%81%23" target="weibo">
 美国宣布解除对公安部鉴定中心制裁（热度：2133544）
 </a>
@@ -1307,12 +1313,6 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23" target="weibo">
 大学生实习连续五晚通宵直播后猝死（热度：1917943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AA%81%E7%84%B6%E8%BA%AB%E4%BA%A1%23" target="weibo">
-麻省理工一中国博士生突然身亡（热度：1911986）
 </a>
 </li>
 
