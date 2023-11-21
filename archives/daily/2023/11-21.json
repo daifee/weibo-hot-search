@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700555789982,
+  "endTime": 1700558303874,
   "band_list": [
     {
       "raw_hot": 6800962,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1117285,
+      "num": 1117285,
+      "word": "孙怡 为什么都在劝老刘放手",
+      "onboard_time": 1700552134,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1057329,
       "num": 1057329,
       "word": "缅北累计向中方移交3.1万名电诈嫌疑人",
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1052566,
+      "num": 414380,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 977785,
       "num": 977785,
       "word": "小杨哥演唱会免费门票被2000元叫卖",
       "onboard_time": 1700523507,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 947787,
-      "num": 947787,
-      "word": "孙怡 为什么都在劝老刘放手",
-      "onboard_time": 1700552134,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 879589,
@@ -177,14 +185,6 @@
       "onboard_time": 1700490936,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845724,
-      "num": 414380,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 762345,
@@ -233,6 +233,14 @@
       "onboard_time": 1700522365,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 632331,
+      "num": 632331,
+      "word": "偷偷藏不住上了阿里Q2财报",
+      "onboard_time": 1700555195,
+      "rank": 16,
+      "category": "剧集,互联网"
     },
     {
       "raw_hot": 625014,
@@ -419,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426350,
+      "num": 396633,
+      "word": "李晨去体综了",
+      "onboard_time": 1700557353,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418424,
       "num": 305555,
       "word": "杨紫 选本自由",
       "onboard_time": 1700553874,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408871,
+      "num": 408871,
+      "word": "合肥成为特大城市",
+      "onboard_time": 1700555434,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 408531,
@@ -441,6 +465,14 @@
       "onboard_time": 1700532929,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387553,
+      "num": 387553,
+      "word": "应渊 世间真神",
+      "onboard_time": 1700556515,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 385060,
@@ -475,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 374065,
-      "num": 374065,
-      "word": "偷偷藏不住上了阿里Q2财报",
-      "onboard_time": 1700555195,
-      "rank": 16,
-      "category": "剧集,互联网"
+      "raw_hot": 381905,
+      "num": 231562,
+      "word": "成都未成年少女陪侍醉酒后摔成重伤",
+      "onboard_time": 1700557176,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373289,
@@ -592,6 +624,22 @@
       "word": "准新郎结婚前一天跳河救落水儿童",
       "onboard_time": 1700521341,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319984,
+      "num": 319984,
+      "word": "体检查出这些毛病根本不用治",
+      "onboard_time": 1700557413,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319681,
+      "num": 319681,
+      "word": "襄阳健桥医院违规开出生证被罚款10万",
+      "onboard_time": 1700557595,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -827,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233561,
+      "num": 233561,
+      "word": "AG对战RW",
+      "onboard_time": 1700557413,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227872,
       "num": 227872,
       "word": "衢州一中学养了干饭梅花鹿",
@@ -849,6 +905,14 @@
       "onboard_time": 1700528135,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 222598,
+      "num": 222598,
+      "word": "UNINE小分队重回大厂",
+      "onboard_time": 1700556755,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 222312,
@@ -987,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201904,
+      "num": 224489,
+      "word": "考研的书被狗子撕坏了",
+      "onboard_time": 1700554175,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199071,
       "num": 199071,
       "word": "肖春生vs时影",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1700545058,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193842,
+      "num": 177014,
+      "word": "威神V卷身材",
+      "onboard_time": 1700557534,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 193584,
@@ -1131,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179526,
-      "num": 179526,
-      "word": "考研的书被狗子撕坏了",
-      "onboard_time": 1700554175,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179289,
       "num": 179289,
       "word": "新白娘子传奇的演员重游西湖",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1700486556,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171523,
+      "num": 171523,
+      "word": "BABYMONSTER出道曲预告",
+      "onboard_time": 1700555557,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 169948,
@@ -1315,12 +1395,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157080,
-      "num": 157080,
-      "word": "BABYMONSTER出道曲预告",
-      "onboard_time": 1700555557,
+      "raw_hot": 158763,
+      "num": 158763,
+      "word": "CPA进不去",
+      "onboard_time": 1700558194,
       "rank": 36,
-      "category": "音乐"
+      "category": "教育"
     },
     {
       "raw_hot": 156600,
@@ -1369,14 +1449,6 @@
       "onboard_time": 1700451514,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150924,
-      "num": 150924,
-      "word": "合肥成为特大城市",
-      "onboard_time": 1700555434,
-      "rank": 39,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150150,
@@ -1500,7 +1572,7 @@
     },
     {
       "raw_hot": 138153,
-      "num": 166533,
+      "num": 172192,
       "word": "诗词与古风粉笔画搭配太绝了",
       "onboard_time": 1700555494,
       "rank": 34,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1700555315,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126728,
+      "num": 123412,
+      "word": "吴磊赵今麦hi6上班路透图",
+      "onboard_time": 1700558074,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125670,

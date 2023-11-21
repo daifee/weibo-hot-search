@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700555789982,
+  "endTime": 1700558303874,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4611,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1117285,
+      "num": 1117285,
+      "word": "孙怡 为什么都在劝老刘放手",
+      "onboard_time": 1700552134,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1116460,
       "num": 1116460,
       "word": "18岁弟弟被姐姐带去打九价",
@@ -4937,6 +4945,14 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1052566,
+      "num": 414380,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1051466,
@@ -5704,14 +5720,6 @@
       "word": "沈梦辰 我没有引以为傲的作品",
       "onboard_time": 1700224054,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 947787,
-      "num": 947787,
-      "word": "孙怡 为什么都在劝老刘放手",
-      "onboard_time": 1700552134,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -6561,14 +6569,6 @@
       "onboard_time": 1700037156,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 845724,
-      "num": 414380,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 845135,
@@ -10089,6 +10089,14 @@
       "onboard_time": 1699142125,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 632331,
+      "num": 632331,
+      "word": "偷偷藏不住上了阿里Q2财报",
+      "onboard_time": 1700555195,
+      "rank": 16,
+      "category": "剧集,互联网"
     },
     {
       "raw_hot": 629533,
@@ -16171,6 +16179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 426350,
+      "num": 396633,
+      "word": "李晨去体综了",
+      "onboard_time": 1700557353,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425996,
       "num": 425996,
       "word": "王嘉尔的童年女神是杨紫",
@@ -17105,6 +17121,14 @@
       "onboard_time": 1699922554,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408871,
+      "num": 408871,
+      "word": "合肥成为特大城市",
+      "onboard_time": 1700555434,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 408835,
@@ -18203,6 +18227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387553,
+      "num": 387553,
+      "word": "应渊 世间真神",
+      "onboard_time": 1700556515,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387540,
       "num": 387540,
       "word": "七英俊",
@@ -18505,6 +18537,14 @@
       "onboard_time": 1699513891,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381905,
+      "num": 231562,
+      "word": "成都未成年少女陪侍醉酒后摔成重伤",
+      "onboard_time": 1700557176,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381724,
@@ -18929,14 +18969,6 @@
       "onboard_time": 1700108801,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 374065,
-      "num": 374065,
-      "word": "偷偷藏不住上了阿里Q2财报",
-      "onboard_time": 1700555195,
-      "rank": 16,
-      "category": "剧集,互联网"
     },
     {
       "raw_hot": 373974,
@@ -22027,6 +22059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319984,
+      "num": 319984,
+      "word": "体检查出这些毛病根本不用治",
+      "onboard_time": 1700557413,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 319925,
       "num": 319925,
       "word": "85四大青衣提名",
@@ -22065,6 +22105,14 @@
       "onboard_time": 1700277810,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319681,
+      "num": 319681,
+      "word": "襄阳健桥医院违规开出生证被罚款10万",
+      "onboard_time": 1700557595,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319505,
@@ -29803,6 +29851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233561,
+      "num": 233561,
+      "word": "AG对战RW",
+      "onboard_time": 1700557413,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233434,
       "num": 233434,
       "word": "很难想象沈腾能提供多少情绪价值",
@@ -31369,6 +31425,14 @@
       "onboard_time": 1700528135,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 222598,
+      "num": 222598,
+      "word": "UNINE小分队重回大厂",
+      "onboard_time": 1700556755,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 222517,
@@ -34827,6 +34891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201904,
+      "num": 224489,
+      "word": "考研的书被狗子撕坏了",
+      "onboard_time": 1700554175,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201846,
       "num": 201846,
       "word": "世界糖尿病日",
@@ -36625,6 +36697,14 @@
       "onboard_time": 1698980254,
       "rank": 35,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 193842,
+      "num": 177014,
+      "word": "威神V卷身材",
+      "onboard_time": 1700557534,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 193837,
@@ -39491,14 +39571,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 179526,
-      "num": 179526,
-      "word": "考研的书被狗子撕坏了",
-      "onboard_time": 1700554175,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179458,
       "num": 179458,
       "word": "英雄海",
@@ -40913,6 +40985,14 @@
       "onboard_time": 1700105977,
       "rank": 40,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 171523,
+      "num": 171523,
+      "word": "BABYMONSTER出道曲预告",
+      "onboard_time": 1700555557,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 171521,
@@ -43267,6 +43347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158763,
+      "num": 158763,
+      "word": "CPA进不去",
+      "onboard_time": 1700558194,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158704,
       "num": 158704,
       "word": "二手杰作 被嫌弃的小美的一生",
@@ -43569,14 +43657,6 @@
       "onboard_time": 1700158102,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157080,
-      "num": 157080,
-      "word": "BABYMONSTER出道曲预告",
-      "onboard_time": 1700555557,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 157043,
@@ -44705,14 +44785,6 @@
       "onboard_time": 1699958614,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150924,
-      "num": 150924,
-      "word": "合肥成为特大城市",
-      "onboard_time": 1700555434,
-      "rank": 39,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150921,
@@ -47244,7 +47316,7 @@
     },
     {
       "raw_hot": 138153,
-      "num": 166533,
+      "num": 172192,
       "word": "诗词与古风粉笔画搭配太绝了",
       "onboard_time": 1700555494,
       "rank": 34,
@@ -49465,6 +49537,14 @@
       "onboard_time": 1699681410,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126728,
+      "num": 123412,
+      "word": "吴磊赵今麦hi6上班路透图",
+      "onboard_time": 1700558074,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126668,
