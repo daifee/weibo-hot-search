@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700534605273,
+  "endTime": 1700536738618,
   "band_list": [
     {
       "raw_hot": 2094351,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1127132,
+      "num": 1127132,
+      "word": "40岁的霍启山",
+      "onboard_time": 1700530949,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1118053,
       "num": 1118053,
       "word": "你们怎么说服刘诗诗干这事儿的",
@@ -43,12 +51,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1013391,
-      "num": 1013391,
-      "word": "40岁的霍启山",
-      "onboard_time": 1700530949,
-      "rank": 3,
-      "category": "互联网"
+      "raw_hot": 1048867,
+      "num": 1048867,
+      "word": "儿子写字慢妈妈申请换教材学校同意了",
+      "onboard_time": 1700532392,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977785,
@@ -91,6 +99,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 709922,
+      "num": 465184,
+      "word": "痞幼妆",
+      "onboard_time": 1700534793,
+      "rank": 10,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 686243,
       "num": 686243,
       "word": "张桂梅说一直支撑自己的是信仰",
@@ -123,8 +139,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 531062,
-      "num": 531062,
+      "raw_hot": 540743,
+      "num": 540743,
+      "word": "刘亦菲于适星愿大片",
+      "onboard_time": 1700536175,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 539080,
+      "num": 539080,
       "word": "阿根廷新总统称35年后再成世界强国",
       "onboard_time": 1700532092,
       "rank": 5,
@@ -145,6 +169,14 @@
       "onboard_time": 1700532810,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 503663,
+      "num": 503663,
+      "word": "海底捞 科目三",
+      "onboard_time": 1700532690,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 492175,
@@ -171,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484525,
+      "num": 484525,
+      "word": "朴宝英秋瓷炫韩志旼韩孝周姐感大片",
+      "onboard_time": 1700536112,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 470795,
       "num": 470795,
       "word": "CPA 等成绩",
       "onboard_time": 1700526756,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 466052,
-      "num": 466052,
-      "word": "海底捞 科目三",
-      "onboard_time": 1700532690,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 441397,
@@ -195,12 +227,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 415293,
-      "num": 415293,
-      "word": "儿子写字慢妈妈申请换教材学校同意了",
-      "onboard_time": 1700532392,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 404176,
+      "num": 404176,
+      "word": "暮光之城主创重聚",
+      "onboard_time": 1700532929,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 372730,
@@ -211,12 +243,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366081,
-      "num": 366081,
-      "word": "暮光之城主创重聚",
+      "raw_hot": 370468,
+      "num": 370468,
+      "word": "曾志伟回应拍片为缅北电诈头目庆生",
+      "onboard_time": 1700536473,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369521,
+      "num": 369521,
+      "word": "还以为虞书欣背着我去做汉服模特了",
+      "onboard_time": 1700532031,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 357743,
+      "num": 357743,
+      "word": "油价",
       "onboard_time": 1700532929,
-      "rank": 17,
-      "category": "电影"
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 357253,
@@ -251,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318532,
+      "num": 318532,
+      "word": "韩警方回应权志龙毛发检查结果阴性",
+      "onboard_time": 1700533351,
+      "rank": 21,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 315782,
       "num": 315782,
       "word": "特斯拉1个月涨价4次",
@@ -267,28 +323,12 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 307961,
-      "num": 307961,
-      "word": "油价",
-      "onboard_time": 1700532929,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 298866,
       "num": 298866,
       "word": "英雄联盟维护",
       "onboard_time": 1700524954,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286479,
-      "num": 286479,
-      "word": "还以为虞书欣背着我去做汉服模特了",
-      "onboard_time": 1700532031,
-      "rank": 19,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 286021,
@@ -331,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272169,
-      "num": 272169,
-      "word": "韩警方回应权志龙毛发检查结果阴性",
-      "onboard_time": 1700533351,
-      "rank": 21,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 266617,
       "num": 266617,
       "word": "韩国男足称目标是零封国足",
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265331,
+      "num": 265331,
+      "word": "海清演技",
+      "onboard_time": 1700535692,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259331,
       "num": 259331,
       "word": "李相夷绝笔",
@@ -369,6 +409,14 @@
       "onboard_time": 1700527056,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253909,
+      "num": 253909,
+      "word": "面部折叠度是什么",
+      "onboard_time": 1700535153,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 247851,
@@ -433,6 +481,14 @@
       "onboard_time": 1700492795,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213710,
+      "num": 213710,
+      "word": "北京一村民家中收藏600台电视",
+      "onboard_time": 1700535813,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212626,
@@ -507,8 +563,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186787,
+      "num": 186787,
+      "word": "陈伟霆演的是爆裂点的裂",
+      "onboard_time": 1700535754,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186610,
-      "num": 159858,
+      "num": 163738,
       "word": "爱不爱吃螃蟹的都沉默了",
       "onboard_time": 1700534010,
       "rank": 30,
@@ -521,6 +585,14 @@
       "onboard_time": 1700490518,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182007,
+      "num": 182007,
+      "word": "DK官宣Deft自由人",
+      "onboard_time": 1700534553,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 178473,
@@ -587,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "外舰不撤我舰不退坚决斗争到底",
+      "onboard_time": 1700532092,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164796,
       "num": 164796,
       "word": "佘诗曼新闻女王的吻戏",
@@ -595,20 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163069,
+      "num": 163069,
+      "word": "不是所有糖都对身体不好",
+      "onboard_time": 1700531432,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 162914,
+      "num": 162914,
+      "word": "北斗系统今后全球民航通用",
+      "onboard_time": 1700535451,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160917,
       "num": 160917,
       "word": "金莎男友 对我来说现在就在上班",
       "onboard_time": 1700475872,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156881,
-      "num": 156881,
-      "word": "不是所有糖都对身体不好",
-      "onboard_time": 1700531432,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 156600,
@@ -675,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144603,
-      "num": 144603,
-      "word": "外舰不撤我舰不退坚决斗争到底",
-      "onboard_time": 1700532092,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143935,
       "num": 143935,
       "word": "前9批烈士遗骸DNA分析工作已完成",
@@ -715,12 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139045,
+      "num": 139045,
+      "word": "女童海边溺水2名西装大哥冲下海救回",
+      "onboard_time": 1700536294,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 134274,
       "num": 134274,
       "word": "无所畏惧 第二季",
       "onboard_time": 1700489975,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133483,
+      "num": 133483,
+      "word": "自我感动式付出的崩溃",
+      "onboard_time": 1700534731,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 131528,
@@ -803,6 +899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113991,
+      "num": 131333,
+      "word": "港珠澳大桥马拉松日本选手冲线",
+      "onboard_time": 1700535933,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111080,
       "num": 111080,
       "word": "人民文娱评以爱为营",
@@ -843,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104460,
-      "num": 104460,
-      "word": "DK官宣Deft自由人",
-      "onboard_time": 1700534553,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 104035,
       "num": 104035,
       "word": "苏醒晒自己做的菜",
@@ -865,6 +961,14 @@
       "onboard_time": 1700522064,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102410,
+      "num": 319242,
+      "word": "vivo X100真香",
+      "onboard_time": 1700534492,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 102322,
@@ -995,6 +1099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 69615,
+      "num": 873111,
+      "word": "运20将再赴韩国接运烈士遗骸回国",
+      "onboard_time": 1700536175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68047,
       "num": 70027,
       "word": "甄嬛传的风还是吹进了刑侦剧",
@@ -1049,14 +1161,6 @@
       "onboard_time": 1700475391,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42425,
-      "num": 114834,
-      "word": "vivo X100真香",
-      "onboard_time": 1700534492,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 41504,
