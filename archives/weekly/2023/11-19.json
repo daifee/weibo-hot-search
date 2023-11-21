@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700559278288,
+  "endTime": 1700562325736,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1462060,
+      "num": 437422,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1435154,
       "num": 703556,
       "word": "女子花1.8万买衣服一年不发货不退款",
@@ -603,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1088953,
-      "num": 414380,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 1071656,
       "num": 1071656,
       "word": "TheShy 一血率",
@@ -641,6 +641,14 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1030127,
+      "num": 434972,
+      "word": "傅首尔 再也没有人会这样对我了",
+      "onboard_time": 1700561255,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1026873,
@@ -720,6 +728,14 @@
       "word": "0713能不能上春晚",
       "onboard_time": 1700471552,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 930689,
+      "num": 930689,
+      "word": "李晨去体综了",
+      "onboard_time": 1700557353,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -867,14 +883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 803667,
-      "num": 401151,
-      "word": "李晨去体综了",
-      "onboard_time": 1700557353,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 801206,
       "num": 801206,
       "word": "秦岚辛芷蕾 我俩真没法收场了",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1700391996,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 709043,
+      "num": 269847,
+      "word": "假僧人诱奸14名女性3人未成年被判无期",
+      "onboard_time": 1700560654,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700388,
@@ -1620,7 +1636,7 @@
     },
     {
       "raw_hot": 511043,
-      "num": 511043,
+      "num": 1176046,
       "word": "男子买3千斤滞销白菜让人免费取",
       "onboard_time": 1700547874,
       "rank": 30,
@@ -1955,6 +1971,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 439340,
+      "num": 439340,
+      "word": "黑莲花上位手册下架公告",
+      "onboard_time": 1700559092,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438225,
       "num": 432491,
       "word": "T1官宣Kkoma回归",
@@ -1988,7 +2012,7 @@
     },
     {
       "raw_hot": 432739,
-      "num": 252103,
+      "num": 269785,
       "word": "成都未成年少女陪侍醉酒后摔成重伤",
       "onboard_time": 1700557176,
       "rank": 20,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1700436806,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 378638,
+      "num": 378638,
+      "word": "谁允许你们在签售会演台偶的",
+      "onboard_time": 1700559571,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 376981,
@@ -3089,6 +3121,14 @@
       "onboard_time": 1700408075,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296100,
+      "num": 296100,
+      "word": "电视家",
+      "onboard_time": 1700561915,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 295847,
@@ -4123,6 +4163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220893,
+      "num": 220893,
+      "word": "张韶涵潘玮柏合体",
+      "onboard_time": 1700560834,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220376,
       "num": 220376,
       "word": "罗云熙英雄联盟站哥",
@@ -4252,7 +4300,7 @@
     },
     {
       "raw_hot": 216785,
-      "num": 178173,
+      "num": 204033,
       "word": "单依纯小品演出国了",
       "onboard_time": 1700558554,
       "rank": 25,
@@ -4292,7 +4340,7 @@
     },
     {
       "raw_hot": 214260,
-      "num": 177492,
+      "num": 182536,
       "word": "吴磊赵今麦hi6上班路透图",
       "onboard_time": 1700558074,
       "rank": 41,
@@ -4393,6 +4441,14 @@
       "onboard_time": 1700406218,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209653,
+      "num": 209653,
+      "word": "国足能否攻破韩国球门",
+      "onboard_time": 1700561495,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 209506,
@@ -4505,6 +4561,14 @@
       "onboard_time": 1700533410,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205905,
+      "num": 205905,
+      "word": "李健 永远在沸腾的感情其实很危险",
+      "onboard_time": 1700559213,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205859,
@@ -5035,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187195,
+      "num": 187195,
+      "word": "瓶子 算分",
+      "onboard_time": 1700562035,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186973,
       "num": 186973,
       "word": "果敢同盟军即将进攻老街",
@@ -5123,6 +5195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183771,
+      "num": 754786,
+      "word": "辅警吃饭一眼锁定嫌疑人",
+      "onboard_time": 1700560235,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183256,
       "num": 183256,
       "word": "你通常上班前还是下班后洗杯子",
@@ -5145,6 +5225,14 @@
       "onboard_time": 1700543319,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182547,
+      "num": 182547,
+      "word": "RW战胜AG",
+      "onboard_time": 1700562157,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 182502,
@@ -5187,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180922,
+      "num": 180922,
+      "word": "朴振英把姚琛的上衣穿走了吗",
+      "onboard_time": 1700561795,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180604,
       "num": 180604,
       "word": "新闻女王 好高境界的骂人方式",
@@ -5201,6 +5297,14 @@
       "onboard_time": 1700544038,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179864,
+      "num": 179864,
+      "word": "RW今天好猛",
+      "onboard_time": 1700559993,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 179837,
@@ -5923,6 +6027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150001,
+      "num": 150001,
+      "word": "张艺兴粉衣造型直拍",
+      "onboard_time": 1700561373,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149959,
       "num": 149959,
       "word": "姜雪宁雪景写真",
@@ -6177,6 +6289,14 @@
       "onboard_time": 1700489434,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141639,
+      "num": 141639,
+      "word": "王鹤棣喂马",
+      "onboard_time": 1700559333,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 141590,
@@ -6467,6 +6587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132058,
+      "num": 132058,
+      "word": "适合大干皮的保湿小偏方",
+      "onboard_time": 1700560536,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131910,
       "num": 131910,
       "word": "王星越还原原著张遮台词",
@@ -6521,14 +6649,6 @@
       "onboard_time": 1700372610,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130838,
-      "num": 126395,
-      "word": "黑莲花上位手册下架公告",
-      "onboard_time": 1700559092,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 130763,
@@ -6817,14 +6937,6 @@
       "onboard_time": 1700523207,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 114293,
-      "num": 114293,
-      "word": "李健 永远在沸腾的感情其实很危险",
-      "onboard_time": 1700559213,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114157,
@@ -7136,6 +7248,14 @@
       "word": "太原",
       "onboard_time": 1700306075,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94915,
+      "num": 703346,
+      "word": "男子昏迷获救后家属抱甘蔗塞警车",
+      "onboard_time": 1700560235,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
