@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700601389358,
+  "endTime": 1700602454134,
   "band_list": [
     {
       "raw_hot": 1651629,
@@ -451,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35104,
+      "num": 35104,
+      "word": "儿子跳水救3人母亲骄傲藏不住",
+      "onboard_time": 1700595133,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 32633,
       "num": 36374,
       "word": "上海偶遇黄景瑜",
       "onboard_time": 1700588420,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30329,
-      "num": 30329,
-      "word": "儿子跳水救3人母亲骄傲藏不住",
-      "onboard_time": 1700595133,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 23648,
@@ -491,7 +491,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 10435,
+      "raw_hot": 11687,
       "num": 16754,
       "word": "孕妇到底能不能护肤",
       "onboard_time": 1700600712,
