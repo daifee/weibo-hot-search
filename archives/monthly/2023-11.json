@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700608744503,
+  "endTime": 1700609675525,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -5147,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1034896,
+      "num": 1034896,
+      "word": "民警怒吼十几万不是从天上掉下来的",
+      "onboard_time": 1700585662,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1034727,
       "num": 370289,
       "word": "三浦德子去世",
@@ -7091,14 +7099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 814597,
-      "num": 814597,
-      "word": "民警怒吼十几万不是从天上掉下来的",
-      "onboard_time": 1700585662,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 813040,
       "num": 813040,
       "word": "马龙飞身救球",
@@ -8993,6 +8993,14 @@
       "onboard_time": 1699541314,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 702087,
+      "num": 702087,
+      "word": "合胞病毒",
+      "onboard_time": 1700608282,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 701977,
@@ -12371,6 +12379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551071,
+      "num": 551071,
+      "word": "孙兴慜跑向中国球迷看台庆祝",
+      "onboard_time": 1700607982,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550689,
       "num": 550689,
       "word": "冬天最狠减肥法",
@@ -13203,6 +13219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 519915,
+      "num": 401492,
+      "word": "3类牙膏被列入致癌黑名单",
+      "onboard_time": 1700607923,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519196,
       "num": 519196,
       "word": "韩孝周大钟奖视后",
@@ -13739,6 +13763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502074,
+      "num": 502074,
+      "word": "女生读研两个月诉说氛围像围城",
+      "onboard_time": 1700607982,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 501907,
       "num": 310777,
       "word": "小学女教师离世留遗书称课外工作压力大",
@@ -14137,6 +14169,14 @@
       "onboard_time": 1699522054,
       "rank": 12,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 491004,
+      "num": 491004,
+      "word": "小雪",
+      "onboard_time": 1700607982,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490184,
@@ -15921,6 +15961,14 @@
       "onboard_time": 1698852875,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441560,
+      "num": 441560,
+      "word": "白鹿王星越牵手 张凌赫belike",
+      "onboard_time": 1700583687,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 441544,
@@ -19515,14 +19563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371027,
-      "num": 371027,
-      "word": "白鹿王星越牵手 张凌赫belike",
-      "onboard_time": 1700583687,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370988,
       "num": 1688417,
       "word": "宁波一小区物业自治3年分红200万",
@@ -20329,14 +20369,6 @@
       "onboard_time": 1699035319,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357026,
-      "num": 357026,
-      "word": "小雪",
-      "onboard_time": 1700607982,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356918,
@@ -24619,14 +24651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 290658,
-      "num": 290658,
-      "word": "孙兴慜跑向中国球迷看台庆祝",
-      "onboard_time": 1700607982,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290557,
       "num": 249909,
       "word": "赵昭仪喜欢上热巴的酸奶疙瘩了",
@@ -25481,6 +25505,14 @@
       "onboard_time": 1699939415,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280270,
+      "num": 280270,
+      "word": "ChatGPT创作的最美中国女生",
+      "onboard_time": 1700608282,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 280220,
@@ -30025,14 +30057,6 @@
       "onboard_time": 1699503457,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237108,
-      "num": 197451,
-      "word": "3类牙膏被列入致癌黑名单",
-      "onboard_time": 1700607923,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237042,
@@ -38067,14 +38091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190651,
-      "num": 190651,
-      "word": "女生读研两个月诉说氛围像围城",
-      "onboard_time": 1700607982,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 190650,
       "num": 190650,
       "word": "美依礼芽回应年轻粉丝的喜爱",
@@ -41689,6 +41705,14 @@
       "onboard_time": 1700056357,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172303,
+      "num": 172303,
+      "word": "老刘 我最不希望忘了你的样子",
+      "onboard_time": 1700608825,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 172262,
@@ -46827,6 +46851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145097,
+      "num": 113848,
+      "word": "河南新一轮寒潮天气来袭",
+      "onboard_time": 1700608764,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145096,
       "num": 145096,
       "word": "3名空调工人自带工具磨开防盗网救人",
@@ -48939,6 +48971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134016,
+      "num": 658083,
+      "word": "英雄回家",
+      "onboard_time": 1700571161,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133968,
       "num": 133968,
       "word": "王以太替capper带领全场合唱雪",
@@ -49977,14 +50017,6 @@
       "onboard_time": 1699867831,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 129429,
-      "num": 129429,
-      "word": "合胞病毒",
-      "onboard_time": 1700608282,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129410,
@@ -51633,14 +51665,6 @@
       "onboard_time": 1700369910,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120744,
-      "num": 617439,
-      "word": "英雄回家",
-      "onboard_time": 1700571161,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120740,
@@ -54027,6 +54051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 102928,
+      "num": 102928,
+      "word": "祝绪丹清宫装",
+      "onboard_time": 1700607019,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 102815,
       "num": 102815,
       "word": "为什么觉得护肤品小样比正装好用",
@@ -54481,6 +54513,14 @@
       "onboard_time": 1699830080,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99272,
+      "num": 99272,
+      "word": "冬天嘴唇总起皮的护理方法",
+      "onboard_time": 1700608343,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 99228,
@@ -55083,6 +55123,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 92375,
+      "num": 92375,
+      "word": "他连续10年自费为公交座椅绑棉垫",
+      "onboard_time": 1700608585,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92248,
       "num": 92248,
       "word": "高校老师课堂谈一生良配获百万点赞",
@@ -55137,14 +55185,6 @@
       "onboard_time": 1699721310,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91623,
-      "num": 91623,
-      "word": "ChatGPT创作的最美中国女生",
-      "onboard_time": 1700608282,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 91603,
@@ -55211,12 +55251,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 90729,
-      "num": 90729,
-      "word": "祝绪丹清宫装",
-      "onboard_time": 1700607019,
-      "rank": 21,
-      "category": "作品衍生,时尚"
+      "raw_hot": 90338,
+      "num": 90338,
+      "word": "博物馆回应网友山上遛娃时疑发现化石",
+      "onboard_time": 1700609006,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90294,
@@ -55425,6 +55465,14 @@
       "onboard_time": 1700269771,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88184,
+      "num": 88184,
+      "word": "杨幂晒雪景",
+      "onboard_time": 1700609186,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 88039,
@@ -55971,6 +56019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80342,
+      "num": 80342,
+      "word": "4同学每月2千资助去世同学家庭",
+      "onboard_time": 1700608645,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80250,
       "num": 142778,
       "word": "女孩把学校发的小番茄留给妈妈",
@@ -56051,6 +56107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 79278,
+      "num": 79278,
+      "word": "微短剧走红更要走心",
+      "onboard_time": 1700608704,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79199,
       "num": 79199,
       "word": "这版姜雪宁的嘴能吞下一头牛",
@@ -56129,14 +56193,6 @@
       "onboard_time": 1699668029,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77940,
-      "num": 77940,
-      "word": "冬天嘴唇总起皮的护理方法",
-      "onboard_time": 1700608343,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 77803,
@@ -56459,6 +56515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72143,
+      "num": 77958,
+      "word": "中国首只纯国产克隆小橘猫在青岛诞生",
+      "onboard_time": 1700609306,
+      "rank": 38,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
@@ -56553,6 +56617,14 @@
       "onboard_time": 1699420234,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 69932,
+      "num": 77767,
+      "word": "北京流感发病人数呈快速上升趋势",
+      "onboard_time": 1700609365,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69337,
@@ -56729,6 +56801,14 @@
       "onboard_time": 1699114830,
       "rank": 49,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 65953,
+      "num": 77727,
+      "word": "青枫哭了",
+      "onboard_time": 1700609246,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 65808,
@@ -57017,6 +57097,14 @@
       "onboard_time": 1699759770,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 61205,
+      "num": 77712,
+      "word": "上海偶遇黄景瑜",
+      "onboard_time": 1700588420,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 61160,
@@ -57419,6 +57507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 53212,
+      "num": 77692,
+      "word": "56岁老师带病跳水救人默默离开",
+      "onboard_time": 1700608945,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53094,
       "num": 1397361,
       "word": "深秋时节的诗情画意",
@@ -57747,14 +57843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45439,
-      "num": 45439,
-      "word": "他连续10年自费为公交座椅绑棉垫",
-      "onboard_time": 1700608585,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44463,
       "num": 50140,
       "word": "顺其自然已经捐了25年",
@@ -57777,14 +57865,6 @@
       "onboard_time": 1698815377,
       "rank": 42,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 44012,
-      "num": 44012,
-      "word": "上海偶遇黄景瑜",
-      "onboard_time": 1700588420,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 43844,
@@ -57907,14 +57987,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 40999,
-      "num": 40999,
-      "word": "4同学每月2千资助去世同学家庭",
-      "onboard_time": 1700608645,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40857,
       "num": 40857,
       "word": "艾伦 谢谢你替我围上围巾",
@@ -57985,14 +58057,6 @@
       "onboard_time": 1699155451,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 38495,
-      "num": 38495,
-      "word": "微短剧走红更要走心",
-      "onboard_time": 1700608704,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 38469,

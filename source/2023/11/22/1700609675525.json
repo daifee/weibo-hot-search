@@ -1,0 +1,410 @@
+{
+  "runTime": 1700609675525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1034896,
+        "num": 1034896,
+        "word": "民警怒吼十几万不是从天上掉下来的",
+        "onboard_time": 1700585662,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702087,
+        "num": 702087,
+        "word": "合胞病毒",
+        "onboard_time": 1700608282,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134016,
+        "num": 658083,
+        "word": "英雄回家",
+        "onboard_time": 1700571161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 642170,
+        "num": 642170,
+        "word": "跑男元老只剩李晨和郑恺了",
+        "onboard_time": 1700575841,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625252,
+        "num": 625252,
+        "word": "巴宝莉赚不到我一分钱",
+        "onboard_time": 1700578416,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 551071,
+        "num": 551071,
+        "word": "孙兴慜跑向中国球迷看台庆祝",
+        "onboard_time": 1700607982,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502074,
+        "num": 502074,
+        "word": "女生读研两个月诉说氛围像围城",
+        "onboard_time": 1700607982,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 491004,
+        "num": 491004,
+        "word": "小雪",
+        "onboard_time": 1700607982,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441560,
+        "num": 441560,
+        "word": "白鹿王星越牵手 张凌赫belike",
+        "onboard_time": 1700583687,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424904,
+        "num": 424904,
+        "word": "高嘌呤食物排行榜",
+        "onboard_time": 1700562755,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 519915,
+        "num": 401492,
+        "word": "3类牙膏被列入致癌黑名单",
+        "onboard_time": 1700607923,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280270,
+        "num": 280270,
+        "word": "ChatGPT创作的最美中国女生",
+        "onboard_time": 1700608282,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194488,
+        "num": 194488,
+        "word": "傅首尔 再也没有人会这样对我了",
+        "onboard_time": 1700561255,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186016,
+        "num": 186016,
+        "word": "5岁男孩发现5亿年前古生物化石",
+        "onboard_time": 1700577340,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172979,
+        "num": 172979,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172303,
+        "num": 172303,
+        "word": "老刘 我最不希望忘了你的样子",
+        "onboard_time": 1700608825,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166394,
+        "num": 166394,
+        "word": "国足0比3不敌韩国",
+        "onboard_time": 1700575182,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164102,
+        "num": 164102,
+        "word": "幼师将孩子小冰手放进自己衣服里",
+        "onboard_time": 1700572297,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152995,
+        "num": 152995,
+        "word": "白敬亭告黑效率",
+        "onboard_time": 1700572658,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115137,
+        "num": 115137,
+        "word": "儿子跳水救3人母亲骄傲藏不住",
+        "onboard_time": 1700595133,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 145097,
+        "num": 113848,
+        "word": "河南新一轮寒潮天气来袭",
+        "onboard_time": 1700608764,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112235,
+        "num": 112235,
+        "word": "入冬的电子羽绒服",
+        "onboard_time": 1700573196,
+        "rank": 21,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 103434,
+        "num": 103434,
+        "word": "国足尽力了",
+        "onboard_time": 1700577997,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102968,
+        "num": 102968,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102928,
+        "num": 102928,
+        "word": "祝绪丹清宫装",
+        "onboard_time": 1700607019,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99272,
+        "num": 99272,
+        "word": "冬天嘴唇总起皮的护理方法",
+        "onboard_time": 1700608343,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96132,
+        "num": 96132,
+        "word": "辛芷蕾说最近的事对王安宇很不公平",
+        "onboard_time": 1700567016,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95999,
+        "num": 95999,
+        "word": "陈少杰身家曾达25亿",
+        "onboard_time": 1700576139,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95264,
+        "num": 95264,
+        "word": "朝鲜向日通报计划第三次试射卫星",
+        "onboard_time": 1700577877,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 92375,
+        "num": 92375,
+        "word": "他连续10年自费为公交座椅绑棉垫",
+        "onboard_time": 1700608585,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90338,
+        "num": 90338,
+        "word": "博物馆回应网友山上遛娃时疑发现化石",
+        "onboard_time": 1700609006,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88799,
+        "num": 88799,
+        "word": "郭晶晶霍启刚一家五口看音乐会",
+        "onboard_time": 1700571699,
+        "rank": 31,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 88184,
+        "num": 88184,
+        "word": "杨幂晒雪景",
+        "onboard_time": 1700609186,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82345,
+        "num": 82345,
+        "word": "李秀满 癫公",
+        "onboard_time": 1700569056,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80342,
+        "num": 80342,
+        "word": "4同学每月2千资助去世同学家庭",
+        "onboard_time": 1700608645,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79393,
+        "num": 79393,
+        "word": "韩国人喜爱的艺人排名",
+        "onboard_time": 1700567738,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79278,
+        "num": 79278,
+        "word": "微短剧走红更要走心",
+        "onboard_time": 1700608704,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78951,
+        "num": 78951,
+        "word": "孙燕姿 开始懂了",
+        "onboard_time": 1700577579,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72143,
+        "num": 77958,
+        "word": "中国首只纯国产克隆小橘猫在青岛诞生",
+        "onboard_time": 1700609306,
+        "rank": 38,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 77767,
+        "num": 77767,
+        "word": "见过最癫的美甲",
+        "onboard_time": 1700571039,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 69932,
+        "num": 77767,
+        "word": "北京流感发病人数呈快速上升趋势",
+        "onboard_time": 1700609365,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67753,
+        "num": 77755,
+        "word": "假僧人诱奸14名女性3人未成年被判无期",
+        "onboard_time": 1700560654,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66255,
+        "num": 77743,
+        "word": "吴世勋视频通话",
+        "onboard_time": 1700573496,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65953,
+        "num": 77727,
+        "word": "青枫哭了",
+        "onboard_time": 1700609246,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62154,
+        "num": 77718,
+        "word": "BABYMONSTER计划尽快办演唱会",
+        "onboard_time": 1700585245,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61205,
+        "num": 77712,
+        "word": "上海偶遇黄景瑜",
+        "onboard_time": 1700588420,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59291,
+        "num": 77696,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53212,
+        "num": 77692,
+        "word": "56岁老师带病跳水救人默默离开",
+        "onboard_time": 1700608945,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50914,
+        "num": 77675,
+        "word": "武磊抗议裁判",
+        "onboard_time": 1700574519,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49830,
+        "num": 77669,
+        "word": "花儿与少年下一站导游会是谁",
+        "onboard_time": 1700578656,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动停火止战实现持久和平安全#"
+    }
+  }
+}
