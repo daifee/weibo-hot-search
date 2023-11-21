@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700562325736,
+  "endTime": 1700563319368,
   "band_list": [
     {
       "raw_hot": 6800962,
@@ -59,20 +59,20 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1647268,
+      "num": 465437,
+      "word": "传说中的开十指有这么大",
+      "onboard_time": 1700551356,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1641707,
       "num": 1641707,
       "word": "难哄就别哄了",
       "onboard_time": 1700541161,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1462060,
-      "num": 437422,
-      "word": "传说中的开十指有这么大",
-      "onboard_time": 1700551356,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1335805,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1030127,
-      "num": 434972,
+      "raw_hot": 1036516,
+      "num": 463988,
       "word": "傅首尔 再也没有人会这样对我了",
       "onboard_time": 1700561255,
       "rank": 11,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 709043,
-      "num": 269847,
+      "num": 290024,
       "word": "假僧人诱奸14名女性3人未成年被判无期",
       "onboard_time": 1700560654,
       "rank": 20,
@@ -313,6 +313,14 @@
       "onboard_time": 1700550756,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566832,
+      "num": 566832,
+      "word": "国足首发",
+      "onboard_time": 1700562514,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 563177,
@@ -443,20 +451,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 454467,
+      "num": 198812,
+      "word": "高嘌呤食物排行榜",
+      "onboard_time": 1700562755,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 443798,
+      "num": 443798,
+      "word": "黑莲花上位手册下架公告",
+      "onboard_time": 1700559092,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441397,
       "num": 441397,
       "word": "喝酒脸红的人或易患癌",
       "onboard_time": 1700529932,
       "rank": 20,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 439340,
-      "num": 439340,
-      "word": "黑莲花上位手册下架公告",
-      "onboard_time": 1700559092,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 438225,
@@ -507,12 +523,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 405594,
+      "num": 405594,
+      "word": "谁允许你们在签售会演台偶的",
+      "onboard_time": 1700559571,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404176,
       "num": 404176,
       "word": "暮光之城主创重聚",
       "onboard_time": 1700532929,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 402807,
+      "num": 402807,
+      "word": "电视家",
+      "onboard_time": 1700561915,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 389813,
@@ -561,14 +593,6 @@
       "onboard_time": 1700549674,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378638,
-      "num": 378638,
-      "word": "谁允许你们在签售会演台偶的",
-      "onboard_time": 1700559571,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 373289,
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326689,
+      "num": 326689,
+      "word": "花少Q版迪丽热巴",
+      "onboard_time": 1700562455,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318532,
       "num": 318532,
       "word": "韩警方回应权志龙毛发检查结果阴性",
@@ -763,20 +795,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296100,
-      "num": 296100,
-      "word": "电视家",
-      "onboard_time": 1700561915,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 295847,
       "num": 295847,
       "word": "张元英刘海妆",
       "onboard_time": 1700547994,
       "rank": 19,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 295026,
+      "num": 198340,
+      "word": "瓶子 算分",
+      "onboard_time": 1700562035,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 286021,
@@ -817,6 +849,14 @@
       "onboard_time": 1700469395,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277500,
+      "num": 277500,
+      "word": "RW战胜AG",
+      "onboard_time": 1700562157,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 273177,
@@ -1035,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216562,
+      "num": 216562,
+      "word": "双鱼座很聪明但就是懒",
+      "onboard_time": 1700562991,
+      "rank": 25,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 214726,
       "num": 214726,
       "word": "女童海边溺水2名西装大哥冲下海救回",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1700558074,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214040,
+      "num": 754786,
+      "word": "辅警吃饭一眼锁定嫌疑人",
+      "onboard_time": 1700560235,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212626,
@@ -1147,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203436,
+      "num": 203436,
+      "word": "朴振英把姚琛的上衣穿走了吗",
+      "onboard_time": 1700561795,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201904,
       "num": 224489,
       "word": "考研的书被狗子撕坏了",
@@ -1243,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187195,
-      "num": 187195,
-      "word": "瓶子 算分",
-      "onboard_time": 1700562035,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186973,
       "num": 186973,
       "word": "果敢同盟军即将进攻老街",
@@ -1283,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183771,
-      "num": 754786,
-      "word": "辅警吃饭一眼锁定嫌疑人",
-      "onboard_time": 1700560235,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183256,
       "num": 183256,
       "word": "你通常上班前还是下班后洗杯子",
@@ -1315,28 +1363,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182547,
-      "num": 182547,
-      "word": "RW战胜AG",
-      "onboard_time": 1700562157,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182007,
       "num": 182007,
       "word": "DK官宣Deft自由人",
       "onboard_time": 1700534553,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180922,
-      "num": 180922,
-      "word": "朴振英把姚琛的上衣穿走了吗",
-      "onboard_time": 1700561795,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180154,
@@ -1411,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175582,
+      "num": 175582,
+      "word": "许文婷心态富人",
+      "onboard_time": 1700563052,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174198,
       "num": 174198,
       "word": "原来小时候看的剧是这语速",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1700496749,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172806,
+      "num": 198914,
+      "word": "我国肝癌患者每年新增41万",
+      "onboard_time": 1700562991,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172490,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1700561373,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148985,
+      "num": 148985,
+      "word": "老刘 不是为了说情话而说情话",
+      "onboard_time": 1700562812,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 148679,
@@ -1979,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109713,
+      "num": 703346,
+      "word": "男子昏迷获救后家属抱甘蔗塞警车",
+      "onboard_time": 1700560235,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109152,
       "num": 109152,
       "word": "小猫咪吃一堑又吃一堑",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1700481515,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94915,
-      "num": 703346,
-      "word": "男子昏迷获救后家属抱甘蔗塞警车",
-      "onboard_time": 1700560235,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91745,
