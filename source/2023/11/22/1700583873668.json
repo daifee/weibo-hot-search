@@ -1,0 +1,410 @@
+{
+  "runTime": 1700583873668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835497,
+        "num": 835497,
+        "word": "跑男元老只剩李晨和郑恺了",
+        "onboard_time": 1700575841,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757016,
+        "num": 757016,
+        "word": "巴宝莉赚不到我一分钱",
+        "onboard_time": 1700578416,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 109684,
+        "num": 617439,
+        "word": "英雄回家",
+        "onboard_time": 1700571161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537029,
+        "num": 537029,
+        "word": "国足0比3不敌韩国",
+        "onboard_time": 1700575182,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532886,
+        "num": 532886,
+        "word": "5岁男孩发现5亿年前古生物化石",
+        "onboard_time": 1700577340,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495220,
+        "num": 495220,
+        "word": "高嘌呤食物排行榜",
+        "onboard_time": 1700562755,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380023,
+        "num": 380023,
+        "word": "孙燕姿 开始懂了",
+        "onboard_time": 1700577579,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268438,
+        "num": 268438,
+        "word": "吴世勋视频通话",
+        "onboard_time": 1700573496,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234234,
+        "num": 234234,
+        "word": "国足尽力了",
+        "onboard_time": 1700577997,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204376,
+        "num": 204376,
+        "word": "花儿与少年下一站导游会是谁",
+        "onboard_time": 1700578656,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348930,
+        "num": 203846,
+        "word": "传说中的开十指有这么大",
+        "onboard_time": 1700551356,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254079,
+        "num": 203049,
+        "word": "白敬亭告黑效率",
+        "onboard_time": 1700572658,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227958,
+        "num": 202712,
+        "word": "傅首尔两万多张照片被老刘格式化了",
+        "onboard_time": 1700551777,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200749,
+        "num": 200749,
+        "word": "张遮腹肌",
+        "onboard_time": 1700583269,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452175,
+        "num": 195826,
+        "word": "斗鱼CEO被逮捕",
+        "onboard_time": 1700569236,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "幼师将孩子小冰手放进自己衣服里",
+        "onboard_time": 1700572297,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168913,
+        "num": 168913,
+        "word": "朝鲜向日通报计划第三次试射卫星",
+        "onboard_time": 1700577877,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167292,
+        "num": 167292,
+        "word": "傅首尔 再也没有人会这样对我了",
+        "onboard_time": 1700561255,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1651629,
+        "num": 165703,
+        "word": "冲绳",
+        "onboard_time": 1700577877,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161919,
+        "num": 161919,
+        "word": "热刺球衣",
+        "onboard_time": 1700575542,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160587,
+        "num": 160587,
+        "word": "李秀满 癫公",
+        "onboard_time": 1700569056,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151894,
+        "num": 151894,
+        "word": "韩国人喜爱的艺人排名",
+        "onboard_time": 1700567738,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138062,
+        "num": 138062,
+        "word": "孟子义黑色肚兜",
+        "onboard_time": 1700569056,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129321,
+        "num": 129321,
+        "word": "以爱为营点映礼",
+        "onboard_time": 1700566655,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "见过最癫的美甲",
+        "onboard_time": 1700571039,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 115819,
+        "word": "辛芷蕾说最近的事对王安宇很不公平",
+        "onboard_time": 1700567016,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107777,
+        "num": 107777,
+        "word": "赵露思珠帘玉幕发型",
+        "onboard_time": 1700568453,
+        "rank": 26,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 103670,
+        "num": 103670,
+        "word": "迪丽热巴花少5动图",
+        "onboard_time": 1700580576,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98848,
+        "num": 98848,
+        "word": "KPL赛区最强战力集结",
+        "onboard_time": 1700578119,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98725,
+        "num": 98725,
+        "word": "假僧人诱奸14名女性3人未成年被判无期",
+        "onboard_time": 1700560654,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122319,
+        "num": 98001,
+        "word": "秦岚说这辈子最想演皇上",
+        "onboard_time": 1700577100,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102300,
+        "num": 97998,
+        "word": "李荣浩 不是我说的",
+        "onboard_time": 1700573737,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100910,
+        "num": 97897,
+        "word": "杨幂拳击辫",
+        "onboard_time": 1700573496,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97277,
+        "num": 97277,
+        "word": "最适合苏炳添的综艺",
+        "onboard_time": 1700579735,
+        "rank": 33,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 94215,
+        "num": 94215,
+        "word": "韦世豪4号",
+        "onboard_time": 1700564434,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92148,
+        "num": 92148,
+        "word": "王栎鑫新剧人设",
+        "onboard_time": 1700577039,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82479,
+        "num": 82479,
+        "word": "DYG 对得起谁",
+        "onboard_time": 1700571161,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82457,
+        "num": 82457,
+        "word": "李荣浩杭州嘉宾 陈奕迅",
+        "onboard_time": 1700565633,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79554,
+        "num": 79554,
+        "word": "陈少杰身家曾达25亿",
+        "onboard_time": 1700576139,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77982,
+        "num": 77982,
+        "word": "裁判",
+        "onboard_time": 1700570137,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77322,
+        "num": 77322,
+        "word": "Keep 盗墓笔记",
+        "onboard_time": 1700575781,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 76071,
+        "num": 76071,
+        "word": "孙怡 为什么都在劝老刘放手",
+        "onboard_time": 1700552134,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74829,
+        "num": 74829,
+        "word": "入冬的电子羽绒服",
+        "onboard_time": 1700573196,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 73720,
+        "num": 73720,
+        "word": "郭晶晶霍启刚一家五口看音乐会",
+        "onboard_time": 1700571699,
+        "rank": 43,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 73187,
+        "num": 73187,
+        "word": "以爱为营",
+        "onboard_time": 1700569594,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73073,
+        "num": 73073,
+        "word": "小鸟好像飞进了国画里的柿子树",
+        "onboard_time": 1700571398,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71819,
+        "num": 71819,
+        "word": "白敬亭工作室辟谣",
+        "onboard_time": 1700542720,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68017,
+        "num": 71817,
+        "word": "孙兴慜两射一传",
+        "onboard_time": 1700581534,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67913,
+        "num": 71804,
+        "word": "白鹿王星越牵手 张凌赫belike",
+        "onboard_time": 1700583687,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59570,
+        "num": 71798,
+        "word": "武磊抗议裁判",
+        "onboard_time": 1700574519,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖国家发出正义之声和平之声非常必要#"
+    }
+  }
+}
