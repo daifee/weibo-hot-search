@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700571077728,
+  "endTime": 1700572932163,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -529,6 +529,14 @@
       "onboard_time": 1700523507,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1270446,
+      "num": 1270446,
+      "word": "国足半场0比2韩国",
+      "onboard_time": 1700571161,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1244416,
@@ -1691,6 +1699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 519099,
+      "num": 519099,
+      "word": "DYG 对得起谁",
+      "onboard_time": 1700571161,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 517405,
       "num": 445727,
       "word": "何瑞贤生图",
@@ -2059,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446158,
+      "num": 404176,
+      "word": "郭晶晶霍启刚一家五口看音乐会",
+      "onboard_time": 1700571699,
+      "rank": 12,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 444370,
       "num": 378235,
       "word": "皓衣行新图",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1700532929,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404172,
+      "num": 404172,
+      "word": "见过最癫的美甲",
+      "onboard_time": 1700571039,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 402807,
@@ -3251,20 +3283,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300342,
+      "num": 300342,
+      "word": "韩国人喜爱的艺人排名",
+      "onboard_time": 1700567738,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299791,
       "num": 299791,
       "word": "吴千语施伯雄备婚",
       "onboard_time": 1700552556,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299766,
-      "num": 299766,
-      "word": "韩国人喜爱的艺人排名",
-      "onboard_time": 1700567738,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 299460,
@@ -3515,6 +3547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 275586,
+      "num": 235765,
+      "word": "白敬亭告黑效率",
+      "onboard_time": 1700572658,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274738,
       "num": 274738,
       "word": "杜兰特又是45度",
@@ -3737,6 +3777,14 @@
       "onboard_time": 1700318915,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260849,
+      "num": 260849,
+      "word": "30秒洗出黑头粉刺",
+      "onboard_time": 1700571100,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 260804,
@@ -4161,6 +4209,14 @@
       "onboard_time": 1700400160,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236585,
+      "num": 236585,
+      "word": "斗鱼股价下跌",
+      "onboard_time": 1700572417,
+      "rank": 28,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 236319,
@@ -4883,6 +4939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204771,
+      "num": 204771,
+      "word": "孙兴慜梅开二度",
+      "onboard_time": 1700572118,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "运20将接运烈士遗骸归国",
@@ -5089,6 +5153,14 @@
       "onboard_time": 1700482234,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 199528,
+      "num": 199528,
+      "word": "幼师将孩子小冰手放进自己衣服里",
+      "onboard_time": 1700572297,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199183,
@@ -5457,6 +5529,14 @@
       "onboard_time": 1700534010,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186525,
+      "num": 186525,
+      "word": "谭龙 可惜",
+      "onboard_time": 1700571819,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 186325,
@@ -5907,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168309,
+      "num": 168309,
+      "word": "黄凯和爷爷打电话看哭了",
+      "onboard_time": 1700572777,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167966,
       "num": 1611077,
       "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
@@ -6203,6 +6291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156166,
+      "num": 156166,
+      "word": "油价4连降",
+      "onboard_time": 1700570797,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155818,
       "num": 145761,
       "word": "可可西里管理处回应胡歌刘涛争论",
@@ -6363,6 +6459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150204,
+      "num": 1313470,
+      "word": "小鸟好像飞进了国画里的柿子树",
+      "onboard_time": 1700571398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150150,
       "num": 150150,
       "word": "欢迎来到麦乐村今日开播",
@@ -6457,6 +6561,14 @@
       "onboard_time": 1700358569,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147741,
+      "num": 147741,
+      "word": "Hero晋级世冠小组赛",
+      "onboard_time": 1700571100,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 147657,
@@ -7107,14 +7219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126053,
-      "num": 126053,
-      "word": "见过最癫的美甲",
-      "onboard_time": 1700571039,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 125893,
       "num": 187650,
       "word": "以色列称将攻打加沙全境",
@@ -7313,6 +7417,14 @@
       "onboard_time": 1700547633,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117064,
+      "num": 235820,
+      "word": "英雄回家",
+      "onboard_time": 1700571161,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116008,
