@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700543852566,
+  "endTime": 1700544860280,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1419,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531333,
+      "num": 398142,
+      "word": "国内小区寿命有多短",
+      "onboard_time": 1700543560,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530050,
       "num": 530050,
       "word": "中国渔船在日本海域倾覆致5人失踪",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1700367990,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 428846,
+      "num": 428846,
+      "word": "权志龙指甲检查阴性",
+      "onboard_time": 1700544400,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 425684,
@@ -4067,6 +4083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206653,
+      "num": 206653,
+      "word": "我们恋爱吧5大结局",
+      "onboard_time": 1700544520,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206522,
       "num": 206522,
       "word": "跳远是件很私密的事",
@@ -4315,6 +4339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199071,
+      "num": 199071,
+      "word": "肖春生vs时影",
+      "onboard_time": 1700544636,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198774,
       "num": 183700,
       "word": "郭珮文 TVB台庆最大赢家",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1700436325,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191639,
-      "num": 191639,
-      "word": "国内小区寿命有多短",
-      "onboard_time": 1700543560,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191314,
@@ -4699,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180154,
+      "num": 180154,
+      "word": "故乡别来无恙",
+      "onboard_time": 1700544038,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179837,
       "num": 179837,
       "word": "税务师实务",
@@ -4737,6 +4769,14 @@
       "onboard_time": 1700445693,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178914,
+      "num": 178450,
+      "word": "我为什么从不发自己的正脸照片",
+      "onboard_time": 1700544279,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 178473,
@@ -4987,6 +5027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166975,
+      "num": 166975,
+      "word": "爸爸给我发了不谈恋爱奖",
+      "onboard_time": 1700543319,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166501,
       "num": 135725,
       "word": "韩维辰跳Guilty",
@@ -5169,14 +5217,6 @@
       "onboard_time": 1700374591,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 159217,
-      "num": 159217,
-      "word": "爸爸给我发了不谈恋爱奖",
-      "onboard_time": 1700543319,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 158168,
@@ -5555,6 +5595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143481,
+      "num": 143481,
+      "word": "张凌赫在王星越的哥哥声中逐渐迷失",
+      "onboard_time": 1700544698,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143089,
       "num": 133913,
       "word": "外资机构竞相唱多A股",
@@ -5657,6 +5705,14 @@
       "onboard_time": 1700383116,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138708,
+      "num": 138708,
+      "word": "再见爱人",
+      "onboard_time": 1700544760,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138666,
