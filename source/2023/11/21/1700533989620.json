@@ -1,0 +1,410 @@
+{
+  "runTime": 1700533989620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1428711,
+        "num": 1428711,
+        "word": "睡够8小时不如睡得有规律",
+        "onboard_time": 1700526334,
+        "rank": 0,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 1118053,
+        "num": 1118053,
+        "word": "你们怎么说服刘诗诗干这事儿的",
+        "onboard_time": 1700522726,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69489,
+        "num": 1015962,
+        "word": "小朋友给00后民警送甜甜的锦旗",
+        "onboard_time": 1700487635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013391,
+        "num": 1013391,
+        "word": "40岁的霍启山",
+        "onboard_time": 1700530949,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 686243,
+        "num": 686243,
+        "word": "张桂梅说一直支撑自己的是信仰",
+        "onboard_time": 1700530774,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511175,
+        "num": 511175,
+        "word": "阿根廷新总统称35年后再成世界强国",
+        "onboard_time": 1700532092,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 474734,
+        "num": 474734,
+        "word": "大熊猫再次强调不要拿拍蒜的刀切苹果",
+        "onboard_time": 1700524107,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434249,
+        "num": 434249,
+        "word": "海底捞 科目三",
+        "onboard_time": 1700532690,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 391037,
+        "num": 391037,
+        "word": "CPA 等成绩",
+        "onboard_time": 1700526756,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376232,
+        "num": 376232,
+        "word": "喝酒脸红的人或易患癌",
+        "onboard_time": 1700529932,
+        "rank": 9,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 930639,
+        "num": 371225,
+        "word": "我本是高山导演回答酗酒母亲问题",
+        "onboard_time": 1700528675,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515196,
+        "num": 365893,
+        "word": "GEN官宣四人离队",
+        "onboard_time": 1700532810,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 445053,
+        "num": 363741,
+        "word": "大小S感谢司法还她们清白",
+        "onboard_time": 1700523507,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359434,
+        "num": 359434,
+        "word": "小时候流行的屁股针为什么消失了",
+        "onboard_time": 1700522365,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325396,
+        "num": 325396,
+        "word": "儿子写字慢妈妈申请换教材学校同意了",
+        "onboard_time": 1700532392,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316262,
+        "num": 316262,
+        "word": "郭碧婷让向佐管她叫女王",
+        "onboard_time": 1700525016,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315782,
+        "num": 315782,
+        "word": "特斯拉1个月涨价4次",
+        "onboard_time": 1700531071,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311454,
+        "num": 311454,
+        "word": "暮光之城主创重聚",
+        "onboard_time": 1700532929,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305296,
+        "num": 305296,
+        "word": "准新郎结婚前一天跳河救落水儿童",
+        "onboard_time": 1700521341,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286479,
+        "num": 286479,
+        "word": "还以为虞书欣背着我去做汉服模特了",
+        "onboard_time": 1700532031,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 249364,
+        "num": 249364,
+        "word": "油价",
+        "onboard_time": 1700532929,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248647,
+        "num": 248647,
+        "word": "韩警方回应权志龙毛发检查结果阴性",
+        "onboard_time": 1700533351,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 234719,
+        "num": 234719,
+        "word": "港珠澳大桥马拉松疑不让中国冠军冲线",
+        "onboard_time": 1700526155,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218901,
+        "num": 218901,
+        "word": "美甲上的紧急联系方式",
+        "onboard_time": 1700528135,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218820,
+        "num": 218820,
+        "word": "2023LOL冬季转会期",
+        "onboard_time": 1700531974,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202441,
+        "num": 202441,
+        "word": "警号043940由牺牲民警女儿重启",
+        "onboard_time": 1700531311,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189747,
+        "num": 189747,
+        "word": "民警帮付25元女子惦记400多天欲还钱",
+        "onboard_time": 1700533590,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188781,
+        "num": 188781,
+        "word": "约基奇被驱逐",
+        "onboard_time": 1700533410,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183846,
+        "num": 183846,
+        "word": "舅舅生气外甥女们一人亲一口哄好",
+        "onboard_time": 1700521341,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180376,
+        "num": 180376,
+        "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
+        "onboard_time": 1700490936,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180262,
+        "num": 180262,
+        "word": "果敢同盟军即将进攻老街",
+        "onboard_time": 1700532331,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156881,
+        "num": 156881,
+        "word": "不是所有糖都对身体不好",
+        "onboard_time": 1700531432,
+        "rank": 31,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 148679,
+        "num": 148679,
+        "word": "林俊杰歌词三大人生境界",
+        "onboard_time": 1700531913,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148472,
+        "num": 148472,
+        "word": "加满一箱油或将少花18.7元",
+        "onboard_time": 1700533351,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146576,
+        "num": 146576,
+        "word": "男子10亩香菜长太高免费送村民",
+        "onboard_time": 1700527056,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146569,
+        "num": 146569,
+        "word": "杜华原来你淘汰玩真的",
+        "onboard_time": 1700523328,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144923,
+        "num": 144923,
+        "word": "张小斐拯救嫌疑人破5亿",
+        "onboard_time": 1700532209,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144603,
+        "num": 144603,
+        "word": "外舰不撤我舰不退坚决斗争到底",
+        "onboard_time": 1700532092,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143935,
+        "num": 143935,
+        "word": "前9批烈士遗骸DNA分析工作已完成",
+        "onboard_time": 1700533290,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530771,
+        "num": 143447,
+        "word": "小杨哥演唱会免费门票被2000元叫卖",
+        "onboard_time": 1700523507,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142594,
+        "num": 142594,
+        "word": "电视家 跑路",
+        "onboard_time": 1700488774,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137020,
+        "num": 137020,
+        "word": "专家称直接发钱鼓励生育效率最高",
+        "onboard_time": 1700523988,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136518,
+        "num": 136518,
+        "word": "黑龙江一女童疑注射阿奇霉素后死亡",
+        "onboard_time": 1700495969,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136005,
+        "num": 136005,
+        "word": "没有一个馒头能素颜走出山东",
+        "onboard_time": 1700531071,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122555,
+        "num": 122555,
+        "word": "摇粒绒做的熊猫幼崽好暖啊",
+        "onboard_time": 1700531551,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119150,
+        "num": 119150,
+        "word": "英雄联盟维护",
+        "onboard_time": 1700524954,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110464,
+        "num": 110464,
+        "word": "老寒腿不是冻出来的毛病",
+        "onboard_time": 1700524774,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108464,
+        "num": 108464,
+        "word": "我本是高山",
+        "onboard_time": 1700526875,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107080,
+        "num": 107080,
+        "word": "北极熊吃火锅连盘子都要舔溜干净",
+        "onboard_time": 1700533892,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105509,
+        "num": 105509,
+        "word": "0713一年前vs一年后",
+        "onboard_time": 1700526515,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
