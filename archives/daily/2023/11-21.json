@@ -1,6 +1,6 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700536738618,
+  "endTime": 1700537669021,
   "band_list": [
     {
       "raw_hot": 2094351,
@@ -9,6 +9,22 @@
       "onboard_time": 1700526334,
       "rank": 0,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1406006,
+      "num": 1406006,
+      "word": "曾志伟回应拍片为缅北电诈头目庆生",
+      "onboard_time": 1700536473,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1335805,
+      "num": 1335805,
+      "word": "儿子写字慢妈妈申请换教材学校同意了",
+      "onboard_time": 1700532392,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1284041,
@@ -49,14 +65,6 @@
       "onboard_time": 1700522726,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1048867,
-      "num": 1048867,
-      "word": "儿子写字慢妈妈申请换教材学校同意了",
-      "onboard_time": 1700532392,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 977785,
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370468,
-      "num": 370468,
-      "word": "曾志伟回应拍片为缅北电诈头目庆生",
-      "onboard_time": 1700536473,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369521,
       "num": 369521,
       "word": "还以为虞书欣背着我去做汉服模特了",
@@ -323,6 +323,22 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 311791,
+      "num": 311791,
+      "word": "北京一村民家中收藏600台电视",
+      "onboard_time": 1700535813,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310193,
+      "num": 310193,
+      "word": "海清演技",
+      "onboard_time": 1700535692,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298866,
       "num": 298866,
       "word": "英雄联盟维护",
@@ -385,14 +401,6 @@
       "onboard_time": 1700492016,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265331,
-      "num": 265331,
-      "word": "海清演技",
-      "onboard_time": 1700535692,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 259331,
@@ -483,14 +491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 213710,
-      "num": 213710,
-      "word": "北京一村民家中收藏600台电视",
-      "onboard_time": 1700535813,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212626,
       "num": 212626,
       "word": "东北冷到发紫",
@@ -572,11 +572,19 @@
     },
     {
       "raw_hot": 186610,
-      "num": 163738,
+      "num": 167402,
       "word": "爱不爱吃螃蟹的都沉默了",
       "onboard_time": 1700534010,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184535,
+      "num": 184535,
+      "word": "女童海边溺水2名西装大哥冲下海救回",
+      "onboard_time": 1700536294,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 183189,
@@ -601,6 +609,14 @@
       "onboard_time": 1700527293,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 178151,
+      "num": 178151,
+      "word": "北斗系统今后全球民航通用",
+      "onboard_time": 1700535451,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176642,
@@ -683,14 +699,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 162914,
-      "num": 162914,
-      "word": "北斗系统今后全球民航通用",
-      "onboard_time": 1700535451,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160917,
       "num": 160917,
       "word": "金莎男友 对我来说现在就在上班",
@@ -713,6 +721,14 @@
       "onboard_time": 1700486314,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151634,
+      "num": 151634,
+      "word": "八旬老人忘记儿子去世民警不忍道破",
+      "onboard_time": 1700536892,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151331,
@@ -793,14 +809,6 @@
       "onboard_time": 1700489557,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139045,
-      "num": 139045,
-      "word": "女童海边溺水2名西装大哥冲下海救回",
-      "onboard_time": 1700536294,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 134274,
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112624,
+      "num": 112624,
+      "word": "五世同堂接龙喊爸爸",
+      "onboard_time": 1700537434,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111080,
       "num": 111080,
       "word": "人民文娱评以爱为营",
@@ -929,6 +945,14 @@
       "onboard_time": 1700487757,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106891,
+      "num": 106891,
+      "word": "有影院我本是高山点映被取消",
+      "onboard_time": 1700537554,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 105878,
@@ -961,6 +985,14 @@
       "onboard_time": 1700522064,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102975,
+      "num": 1040388,
+      "word": "运20将再赴韩国接运烈士遗骸回国",
+      "onboard_time": 1700536175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102410,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1700488415,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 69615,
-      "num": 873111,
-      "word": "运20将再赴韩国接运烈士遗骸回国",
-      "onboard_time": 1700536175,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68047,
