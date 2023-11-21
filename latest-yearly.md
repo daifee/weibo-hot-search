@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/21 12:35:57
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/21 13:17:32
 </p>
 </blockquote>
 <p>
@@ -1791,6 +1791,12 @@ EDG官宣签约Uzi（热度：6842168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%23" target="weibo">
+白敬亭工作室辟谣（热度：6800962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%88%90%E7%BB%A9%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
 吴艳妮成绩被取消（热度：6766838）
 </a>
@@ -1805,12 +1811,6 @@ EDG官宣签约Uzi（热度：6842168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
 DOTA2中国队夺冠（热度：6586145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%23" target="weibo">
-中国男篮vs菲律宾男篮（热度：6580937）
 </a>
 </li>
 

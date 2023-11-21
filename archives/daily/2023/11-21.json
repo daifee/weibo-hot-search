@@ -1,7 +1,15 @@
 {
   "startTime": 1700497424482,
-  "endTime": 1700541357766,
+  "endTime": 1700543852566,
   "band_list": [
+    {
+      "raw_hot": 6800962,
+      "num": 6800962,
+      "word": "白敬亭工作室辟谣",
+      "onboard_time": 1700542720,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2563986,
       "num": 1406006,
@@ -17,6 +25,14 @@
       "onboard_time": 1700526334,
       "rank": 0,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1641707,
+      "num": 1641707,
+      "word": "难哄就别哄了",
+      "onboard_time": 1700541161,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1335805,
@@ -115,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 773524,
-      "num": 773524,
-      "word": "难哄就别哄了",
-      "onboard_time": 1700541161,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 762345,
       "num": 762345,
       "word": "头发别耳后如何显脸小",
@@ -163,7 +171,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 549380,
+      "raw_hot": 563177,
       "num": 549380,
       "word": "有影院我本是高山点映被取消",
       "onboard_time": 1700537554,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408531,
+      "num": 408531,
+      "word": "电视家多个公众号改名",
+      "onboard_time": 1700540919,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 404176,
       "num": 404176,
       "word": "暮光之城主创重聚",
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351841,
+      "num": 351841,
+      "word": "金牛座为什么会分手",
+      "onboard_time": 1700540503,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350116,
       "num": 350116,
       "word": "陈奕迅演唱会抢票",
       "onboard_time": 1700539417,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 348680,
-      "num": 348680,
-      "word": "电视家多个公众号改名",
-      "onboard_time": 1700540919,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 345234,
@@ -515,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234748,
-      "num": 234748,
-      "word": "金牛座为什么会分手",
-      "onboard_time": 1700540503,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226388,
       "num": 226388,
       "word": "0713一年前vs一年后",
@@ -547,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221660,
+      "num": 221660,
+      "word": "孙艺珍机场路透状态",
+      "onboard_time": 1700542662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "2023LOL冬季转会期",
       "onboard_time": 1700531974,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218367,
+      "num": 215461,
+      "word": "邓紫棋演唱会抢票",
+      "onboard_time": 1700541877,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 217091,
@@ -595,8 +619,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 209936,
-      "num": 209936,
+      "raw_hot": 210224,
+      "num": 210224,
       "word": "警号043940由牺牲民警女儿重启",
       "onboard_time": 1700531311,
       "rank": 25,
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191639,
+      "num": 191639,
+      "word": "国内小区寿命有多短",
+      "onboard_time": 1700543560,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188727,
       "num": 188727,
       "word": "黄子韬原价2368内场票降至262元",
@@ -681,6 +713,14 @@
       "onboard_time": 1700537792,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183256,
+      "num": 183256,
+      "word": "你通常上班前还是下班后洗杯子",
+      "onboard_time": 1700540379,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183189,
@@ -771,14 +811,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 168459,
-      "num": 168459,
-      "word": "你通常上班前还是下班后洗杯子",
-      "onboard_time": 1700540379,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 166140,
       "num": 157517,
       "word": "奶茶都快做成固体了",
@@ -819,12 +851,28 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 162102,
+      "num": 162102,
+      "word": "赖冠霖导演短片上线",
+      "onboard_time": 1700542060,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160917,
       "num": 160917,
       "word": "金莎男友 对我来说现在就在上班",
       "onboard_time": 1700475872,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159217,
+      "num": 159217,
+      "word": "爸爸给我发了不谈恋爱奖",
+      "onboard_time": 1700543319,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 156600,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1700520560,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 38085,
+      "num": 902365,
+      "word": "战争没有赢家和平值得努力",
+      "onboard_time": 1700543080,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35972,
