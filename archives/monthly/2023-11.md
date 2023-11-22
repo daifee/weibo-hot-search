@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 06:33:55
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 07:18:01
 </p>
 </blockquote>
 <p>
@@ -5205,6 +5205,12 @@ bin看家英雄找回手感（热度：853360）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
+因烂尾楼要账被打的亮亮丽君夫妇发声（热度：851238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%B9%B3%E5%8F%B0%E6%8C%82%E5%AD%A6%E6%A0%A1%23" target="weibo">
 闲鱼回应多地大学生在平台挂学校（热度：849709）
 </a>
@@ -5799,6 +5805,12 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E5%9C%A8%E5%AE%B6%E8%BE%85%E5%AF%BC%E5%A4%96%E5%AD%99%E5%A5%B3%E6%95%B0%E5%AD%A6%E8%B5%B0%E7%BA%A2%23" target="weibo">
+退休教师在家辅导外孙女数学走红（热度：800808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%9C%A3%E8%8A%82%E5%AE%8B%E7%84%B0cos%23" target="weibo">
 万圣节宋焰cos（热度：799100）
 </a>
@@ -5999,18 +6011,6 @@ MISSING哭了（热度：788264）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%81%B7%E5%81%B7%E4%B8%BE%E5%BE%97%E9%93%81%23" target="weibo">
 秦岚什么时候偷偷举得铁（热度：782275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20es%E9%AB%98%E5%AE%9A%23" target="weibo">
-关晓彤 es高定（热度：780982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BC%A0%E9%81%AE%E7%9F%A5%E9%81%93%E5%A7%9C%E9%9B%AA%E5%AE%81%E4%B8%BA%E4%BB%96%E8%87%AA%E6%88%95%23" target="weibo">
-原来张遮知道姜雪宁为他自戕（热度：780202）
 </a>
 </li>
 

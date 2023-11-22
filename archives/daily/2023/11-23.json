@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700692435039,
+  "endTime": 1700695081596,
   "band_list": [
     {
       "raw_hot": 1117247,
@@ -17,6 +17,22 @@
       "onboard_time": 1700666496,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 851238,
+      "num": 851238,
+      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+      "onboard_time": 1700679854,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800808,
+      "num": 800808,
+      "word": "退休教师在家辅导外孙女数学走红",
+      "onboard_time": 1700667453,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 707125,
@@ -41,6 +57,14 @@
       "onboard_time": 1700658937,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 656157,
+      "num": 656157,
+      "word": "李佳琦现身直播间辟谣双11后停播传闻",
+      "onboard_time": 1700677157,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 618592,
@@ -91,28 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338408,
-      "num": 338408,
-      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
-      "onboard_time": 1700679854,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322008,
       "num": 322008,
       "word": "0713 没听说",
       "onboard_time": 1700665779,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312057,
-      "num": 312057,
-      "word": "退休教师在家辅导外孙女数学走红",
-      "onboard_time": 1700667453,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 291346,
@@ -129,14 +137,6 @@
       "onboard_time": 1700649932,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284099,
-      "num": 284099,
-      "word": "李佳琦现身直播间辟谣双11后停播传闻",
-      "onboard_time": 1700677157,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 258007,
@@ -179,12 +179,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 190043,
+      "num": 190043,
+      "word": "感恩节",
+      "onboard_time": 1700694442,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188993,
+      "num": 188993,
+      "word": "郑州市卫健委回应三孩补贴无法落实",
+      "onboard_time": 1700672123,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187335,
       "num": 187335,
       "word": "开心消消乐崩了",
       "onboard_time": 1700674040,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182040,
+      "num": 170492,
+      "word": "孩子看一次可以管一个月",
+      "onboard_time": 1700666496,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 177910,
@@ -201,6 +225,14 @@
       "onboard_time": 1700667814,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171845,
+      "num": 139947,
+      "word": "爷爷接错孙女到家10多分钟未发现",
+      "onboard_time": 1700661097,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164089,
@@ -235,28 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147928,
-      "num": 126252,
-      "word": "孩子看一次可以管一个月",
-      "onboard_time": 1700666496,
-      "rank": 30,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 147355,
       "num": 147355,
       "word": "闲鱼大量封号",
       "onboard_time": 1700650656,
       "rank": 27,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 139947,
-      "num": 139947,
-      "word": "爷爷接错孙女到家10多分钟未发现",
-      "onboard_time": 1700661097,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137359,
@@ -275,12 +291,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130625,
+      "num": 105742,
+      "word": "有些蔬菜嘌呤比肉还高",
+      "onboard_time": 1700684893,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 130042,
       "num": 154946,
       "word": "朱琳官宣结婚",
       "onboard_time": 1700657854,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129612,
+      "num": 104721,
+      "word": "小学生不想写作业持刀威胁妈妈",
+      "onboard_time": 1700670867,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126012,
@@ -291,20 +323,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125480,
+      "num": 125480,
+      "word": "斥资16元在家跟儿子围炉煮茶",
+      "onboard_time": 1700660017,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124462,
       "num": 124462,
       "word": "全红婵全锦赛亚军",
       "onboard_time": 1700661579,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121209,
-      "num": 111090,
-      "word": "郑州市卫健委回应三孩补贴无法落实",
-      "onboard_time": 1700672123,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120658,
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103261,
+      "num": 103261,
+      "word": "平肩薄背原来可以躺出来",
+      "onboard_time": 1700673140,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 102798,
       "num": 93004,
       "word": "花少 辛芷蕾的穿搭",
@@ -363,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93346,
-      "num": 93346,
-      "word": "斥资16元在家跟儿子围炉煮茶",
-      "onboard_time": 1700660017,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 91399,
       "num": 91399,
       "word": "新闻女王 职场味",
@@ -385,6 +417,14 @@
       "onboard_time": 1700663678,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86730,
+      "num": 86730,
+      "word": "95后小伙辞职回家被爷爷奶奶的爱治愈",
+      "onboard_time": 1700694140,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85235,
@@ -409,6 +449,14 @@
       "onboard_time": 1700655334,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 71581,
+      "num": 71581,
+      "word": "北京大风",
+      "onboard_time": 1700694804,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71481,
@@ -443,14 +491,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 67911,
-      "num": 60002,
-      "word": "平肩薄背原来可以躺出来",
-      "onboard_time": 1700673140,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 66601,
       "num": 91349,
       "word": "中植披露资不抵债逾2000亿元",
@@ -459,20 +499,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 66061,
-      "num": 71310,
-      "word": "小学生不想写作业持刀威胁妈妈",
-      "onboard_time": 1700670867,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 54253,
+      "num": 54253,
+      "word": "洗脸后3分钟内就应做好保湿",
+      "onboard_time": 1700694925,
+      "rank": 40,
+      "category": "美妆"
     },
     {
-      "raw_hot": 63467,
-      "num": 41056,
-      "word": "有些蔬菜嘌呤比肉还高",
-      "onboard_time": 1700684893,
-      "rank": 47,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 52539,
+      "num": 52539,
+      "word": "时宴 越疯越迷人",
+      "onboard_time": 1700658097,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 47644,
@@ -491,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46235,
+      "num": 52204,
+      "word": "83岁奶奶在孙子婚礼上即兴跳舞",
+      "onboard_time": 1700694202,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46066,
       "num": 38194,
       "word": "秦岚 情绪稳定的东北粮仓",
@@ -499,20 +547,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45693,
+      "num": 55891,
+      "word": "B太来哈尔滨先来吃一顿铁锅炖",
+      "onboard_time": 1700658458,
+      "rank": 49,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 45674,
       "num": 679668,
       "word": "对风雪中的环卫工人说声谢谢",
       "onboard_time": 1700662719,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38249,
-      "num": 55891,
-      "word": "B太来哈尔滨先来吃一顿铁锅炖",
-      "onboard_time": 1700658458,
-      "rank": 49,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 28013,
@@ -531,20 +579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19887,
+      "num": 724156,
+      "word": "接英雄回家",
+      "onboard_time": 1700638898,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11316,
       "num": 13809,
       "word": "在石家庄骑个车都是爱你的形状",
       "onboard_time": 1700685254,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 11098,
-      "num": 277370,
-      "word": "接英雄回家",
-      "onboard_time": 1700638898,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

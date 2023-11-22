@@ -1,0 +1,402 @@
+{
+  "runTime": 1700695081596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 851238,
+        "num": 851238,
+        "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+        "onboard_time": 1700679854,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800808,
+        "num": 800808,
+        "word": "退休教师在家辅导外孙女数学走红",
+        "onboard_time": 1700667453,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 19887,
+        "num": 724156,
+        "word": "接英雄回家",
+        "onboard_time": 1700638898,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656157,
+        "num": 656157,
+        "word": "李佳琦现身直播间辟谣双11后停播传闻",
+        "onboard_time": 1700677157,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314337,
+        "num": 314337,
+        "word": "开心消消乐程序员回来加班",
+        "onboard_time": 1700666496,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303847,
+        "num": 303847,
+        "word": "以爱为营 婚礼",
+        "onboard_time": 1700661158,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290747,
+        "num": 290747,
+        "word": "张雪峰成功预言考研人数下降",
+        "onboard_time": 1700658937,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190043,
+        "num": 190043,
+        "word": "感恩节",
+        "onboard_time": 1700694442,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188993,
+        "num": 188993,
+        "word": "郑州市卫健委回应三孩补贴无法落实",
+        "onboard_time": 1700672123,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458442,
+        "num": 173395,
+        "word": "兔子曾被当做过验孕棒",
+        "onboard_time": 1700661037,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 330589,
+        "num": 170609,
+        "word": "金莎爸爸辣评女儿恋情",
+        "onboard_time": 1700650958,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182040,
+        "num": 170492,
+        "word": "孩子看一次可以管一个月",
+        "onboard_time": 1700666496,
+        "rank": 11,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 161066,
+        "num": 161066,
+        "word": "董岩磊 230斤",
+        "onboard_time": 1700649932,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143099,
+        "num": 143099,
+        "word": "新闻女王 文慧心别骂了",
+        "onboard_time": 1700662538,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137882,
+        "num": 137882,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 14,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 125784,
+        "num": 125784,
+        "word": "五大变四大",
+        "onboard_time": 1700643217,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 125480,
+        "num": 125480,
+        "word": "斥资16元在家跟儿子围炉煮茶",
+        "onboard_time": 1700660017,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112735,
+        "num": 112735,
+        "word": "以爱为营",
+        "onboard_time": 1700659657,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110357,
+        "num": 110357,
+        "word": "全红婵全锦赛亚军",
+        "onboard_time": 1700661579,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171845,
+        "num": 106994,
+        "word": "爷爷接错孙女到家10多分钟未发现",
+        "onboard_time": 1700661097,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130625,
+        "num": 105742,
+        "word": "有些蔬菜嘌呤比肉还高",
+        "onboard_time": 1700684893,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 129612,
+        "num": 104721,
+        "word": "小学生不想写作业持刀威胁妈妈",
+        "onboard_time": 1700670867,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103261,
+        "num": 103261,
+        "word": "平肩薄背原来可以躺出来",
+        "onboard_time": 1700673140,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92044,
+        "num": 92044,
+        "word": "T1老板透露Canyon加入GEN",
+        "onboard_time": 1700666496,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86730,
+        "num": 86730,
+        "word": "95后小伙辞职回家被爷爷奶奶的爱治愈",
+        "onboard_time": 1700694140,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81785,
+        "num": 81785,
+        "word": "24岁学英语 老师4岁了",
+        "onboard_time": 1700657194,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79272,
+        "num": 79272,
+        "word": "以爱为营大结局",
+        "onboard_time": 1700655874,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78948,
+        "num": 78948,
+        "word": "王睡睡终于攒够了失望",
+        "onboard_time": 1700655155,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75908,
+        "num": 75908,
+        "word": "鸟鸟 北方的city过年很难walk",
+        "onboard_time": 1700666673,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71581,
+        "num": 71581,
+        "word": "北京大风",
+        "onboard_time": 1700694804,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70197,
+        "num": 70197,
+        "word": "养老院不能睡懒觉",
+        "onboard_time": 1700667033,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68978,
+        "num": 68978,
+        "word": "HYBE不给hanni上韩语课",
+        "onboard_time": 1700661396,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68679,
+        "num": 68679,
+        "word": "闲鱼大量封号",
+        "onboard_time": 1700650656,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 65829,
+        "num": 65829,
+        "word": "0713 没听说",
+        "onboard_time": 1700665779,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59214,
+        "num": 59214,
+        "word": "父亲回应颜宁当选中国科学院院士",
+        "onboard_time": 1700652098,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59044,
+        "num": 59044,
+        "word": "易烊千玺机场",
+        "onboard_time": 1700653595,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58702,
+        "num": 58702,
+        "word": "王一博小雪营业",
+        "onboard_time": 1700653117,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57539,
+        "num": 57539,
+        "word": "爱奇艺尖叫之夜cp合体",
+        "onboard_time": 1700656237,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55998,
+        "num": 55998,
+        "word": "边伯贤彩排了25次",
+        "onboard_time": 1700672424,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54994,
+        "num": 54994,
+        "word": "许文婷全场MVP",
+        "onboard_time": 1700662060,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54253,
+        "num": 54253,
+        "word": "洗脸后3分钟内就应做好保湿",
+        "onboard_time": 1700694925,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 53946,
+        "num": 53946,
+        "word": "开心消消乐崩了",
+        "onboard_time": 1700674040,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52539,
+        "num": 52539,
+        "word": "时宴 越疯越迷人",
+        "onboard_time": 1700658097,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46235,
+        "num": 52204,
+        "word": "83岁奶奶在孙子婚礼上即兴跳舞",
+        "onboard_time": 1700694202,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45968,
+        "num": 51455,
+        "word": "英雄联盟服务器",
+        "onboard_time": 1700662479,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45693,
+        "num": 51008,
+        "word": "B太来哈尔滨先来吃一顿铁锅炖",
+        "onboard_time": 1700658458,
+        "rank": 45,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 44222,
+        "num": 49999,
+        "word": "时尚COSMO改名",
+        "onboard_time": 1700655334,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 41581,
+        "num": 49860,
+        "word": "王艺妍妤胡明昊许文婷拿到offer",
+        "onboard_time": 1700656774,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37695,
+        "num": 49211,
+        "word": "为什么没有Kim",
+        "onboard_time": 1700660738,
+        "rank": 48,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同乌拉圭总统会谈#"
+    }
+  }
+}
