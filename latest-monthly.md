@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 15:16:45
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 15:34:18
 </p>
 </blockquote>
 <p>
@@ -777,6 +777,12 @@ GEN对战BLG（热度：2392638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%23" target="weibo">
+发烧（热度：2375832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%23" target="weibo">
 我本是高山编剧回应（热度：2372278）
 </a>
@@ -1287,6 +1293,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%23" target="weibo">
+红绿灯的黄（热度：1969877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%A9%E5%85%AB%E5%B0%8F%E6%97%B6%E6%89%8B%E6%9C%BA%E9%83%BD%E4%B8%8D%E5%9B%9E%E6%B2%88%E8%85%BE%E5%BE%AE%E4%BF%A1%23" target="weibo">
 宋亚轩玩八小时手机都不回沈腾微信（热度：1963229）
 </a>
@@ -1379,12 +1391,6 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%BF%9E%E7%BB%AD%E4%BA%94%E6%99%9A%E9%80%9A%E5%AE%B5%E7%9B%B4%E6%92%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%23" target="weibo">
 大学生实习连续五晚通宵直播后猝死（热度：1917943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%BB%BF%E7%81%AF%E7%9A%84%E9%BB%84%23" target="weibo">
-红绿灯的黄（热度：1909829）
 </a>
 </li>
 
@@ -4493,12 +4499,6 @@ LNG对战T1 比分预测（热度：958227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B8%89%E8%91%AC%23" target="weibo">
 唐三葬（热度：941478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%23" target="weibo">
-发烧（热度：938470）
 </a>
 </li>
 

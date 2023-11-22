@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700637405574,
+  "endTime": 1700638458426,
   "band_list": [
     {
       "raw_hot": 2468887,
@@ -9,6 +9,14 @@
       "onboard_time": 1700610933,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2375832,
+      "num": 2375832,
+      "word": "发烧",
+      "onboard_time": 1700636252,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2271130,
@@ -35,8 +43,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1909829,
-      "num": 1909829,
+      "raw_hot": 1969877,
+      "num": 1969877,
       "word": "红绿灯的黄",
       "onboard_time": 1700634632,
       "rank": 15,
@@ -113,14 +121,6 @@
       "onboard_time": 1700585662,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938470,
-      "num": 938470,
-      "word": "发烧",
-      "onboard_time": 1700636252,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 937640,
@@ -611,6 +611,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 344738,
+      "num": 344738,
+      "word": "孩子病了就让他们歇歇吧",
+      "onboard_time": 1700636135,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 342145,
+      "num": 342145,
+      "word": "阿里内网披露马云一股未卖",
+      "onboard_time": 1700636496,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 337185,
+      "num": 337185,
+      "word": "迪丽热巴独自在车上考试",
+      "onboard_time": 1700636193,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330549,
       "num": 330549,
       "word": "巴西阿根廷球迷冲突",
@@ -632,6 +656,14 @@
       "word": "时宴 纸片人觉醒",
       "onboard_time": 1700632112,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 311466,
+      "num": 311466,
+      "word": "孙俪拍甄嬛传时就邓超化了",
+      "onboard_time": 1700636674,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -699,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289128,
-      "num": 289128,
-      "word": "迪丽热巴独自在车上考试",
-      "onboard_time": 1700636193,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283156,
       "num": 283156,
       "word": "医生回应筋膜枪可治痔疮",
@@ -763,30 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264759,
-      "num": 211317,
-      "word": "孩子病了就让他们歇歇吧",
-      "onboard_time": 1700636135,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263584,
-      "num": 263584,
-      "word": "孙俪拍甄嬛传时就邓超化了",
-      "onboard_time": 1700636674,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 260056,
-      "num": 260056,
-      "word": "阿里内网披露马云一股未卖",
-      "onboard_time": 1700636496,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 258331,
       "num": 258331,
       "word": "1岁孙子将回家爷爷2天做出火炉围栏",
@@ -833,6 +833,22 @@
       "onboard_time": 1700633012,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245638,
+      "num": 245638,
+      "word": "孕期常见致畸药物",
+      "onboard_time": 1700637516,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239742,
+      "num": 239742,
+      "word": "余华 人和人交往尽量少说话",
+      "onboard_time": 1700637815,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 238632,
@@ -971,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206239,
+      "num": 206239,
+      "word": "王睡睡 具象的心灰意冷",
+      "onboard_time": 1700637698,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205500,
       "num": 205500,
       "word": "马丽惠英红 马上要红",
@@ -1107,8 +1131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187037,
-      "num": 187037,
+      "raw_hot": 187498,
+      "num": 187498,
       "word": "张万森林北星都是22画",
       "onboard_time": 1700636555,
       "rank": 35,
@@ -1219,6 +1243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 166810,
+      "num": 166810,
+      "word": "频繁刷酸会让脸容易长斑",
+      "onboard_time": 1700637394,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 165144,
       "num": 165144,
       "word": "瞒天过海全员杀疯局",
@@ -1243,6 +1275,14 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 163679,
+      "num": 163679,
+      "word": "檀健次狐狸尼克发箍",
+      "onboard_time": 1700638416,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 161919,
       "num": 161919,
       "word": "热刺球衣",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1700569056,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160537,
+      "num": 174642,
+      "word": "梅西为阿根廷球迷发声",
+      "onboard_time": 1700638175,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 158871,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1700566655,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127408,
+      "num": 127408,
+      "word": "钟楚曦江湖厂妹版妆教",
+      "onboard_time": 1700638300,
+      "rank": 47,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 125055,
@@ -1531,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108489,
-      "num": 108489,
-      "word": "频繁刷酸会让脸容易长斑",
-      "onboard_time": 1700637394,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 107777,
       "num": 161477,
       "word": "赵露思珠帘玉幕发型",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1700560654,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97320,
+      "num": 123995,
+      "word": "跳水全锦赛今日开赛",
+      "onboard_time": 1700638416,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97277,
@@ -1731,8 +1787,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63019,
-      "num": 1125706,
+      "raw_hot": 64932,
+      "num": 1489800,
       "word": "小雪节气配上古诗词满满氛围感",
       "onboard_time": 1700625333,
       "rank": 2,
@@ -1787,6 +1843,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 50361,
+      "num": 316425,
+      "word": "vivoX100系列首销破十亿",
+      "onboard_time": 1700637334,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46504,
       "num": 161419,
       "word": "没有VAR",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1700594713,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20605,
-      "num": 111403,
-      "word": "vivoX100系列首销破十亿",
-      "onboard_time": 1700637334,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 19469,
