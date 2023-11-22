@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700684318350,
+  "endTime": 1700685284016,
   "band_list": [
     {
       "raw_hot": 1117247,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126475,
+      "num": 126475,
+      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+      "onboard_time": 1700679854,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "i人错过",
@@ -296,14 +304,6 @@
       "word": "郑州市卫健委回应三孩补贴无法落实",
       "onboard_time": 1700672123,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120841,
-      "num": 120841,
-      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
-      "onboard_time": 1700679854,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -515,12 +515,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18075,
+      "raw_hot": 18314,
       "num": 18075,
       "word": "丽君终于又有笑容了",
       "onboard_time": 1700682194,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11784,
+      "num": 13849,
+      "word": "有些蔬菜嘌呤比肉还高",
+      "onboard_time": 1700684893,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 11316,
+      "num": 13809,
+      "word": "在石家庄骑个车都是爱你的形状",
+      "onboard_time": 1700685254,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 5965,
