@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700660057889,
+  "endTime": 1700662664338,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2149166,
+      "num": 2149166,
+      "word": "张雪峰成功预言考研人数下降",
+      "onboard_time": 1700658937,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2143198,
       "num": 1911986,
       "word": "麻省理工一中国博士生突然身亡",
@@ -2483,6 +2491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1679721,
+      "num": 733931,
+      "word": "迪丽热巴 我舍不得让她干累的活",
+      "onboard_time": 1700660255,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1676145,
       "num": 1676145,
       "word": "西安巨响",
@@ -3251,14 +3267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1464727,
-      "num": 1464727,
-      "word": "张雪峰成功预言考研人数下降",
-      "onboard_time": 1700658937,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1464199,
       "num": 958396,
       "word": "兄弟们都昏啦",
@@ -3737,6 +3745,14 @@
       "onboard_time": 1698829234,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1322960,
+      "num": 729838,
+      "word": "男子出轨被发现后开车顶撞妻女",
+      "onboard_time": 1700661097,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321980,
@@ -10555,6 +10571,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 637171,
+      "num": 212691,
+      "word": "兔子曾被当做过验孕棒",
+      "onboard_time": 1700661037,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 636892,
       "num": 636892,
       "word": "警惕让你悄悄变丑的坏习惯",
@@ -11697,6 +11721,14 @@
       "onboard_time": 1698805894,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595347,
+      "num": 279601,
+      "word": "以爱为营 婚礼",
+      "onboard_time": 1700661158,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 595197,
@@ -13963,6 +13995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 515061,
+      "num": 515061,
+      "word": "陈芋汐全锦赛冠军",
+      "onboard_time": 1700660496,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514939,
       "num": 459725,
       "word": "oner木子洋cos乞丐",
@@ -14097,6 +14137,14 @@
       "onboard_time": 1700547874,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511001,
+      "num": 511001,
+      "word": "为什么没有Kim",
+      "onboard_time": 1700660738,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 510827,
@@ -17097,6 +17145,14 @@
       "onboard_time": 1699092931,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431586,
+      "num": 278616,
+      "word": "HYBE不给hanni上韩语课",
+      "onboard_time": 1700661396,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 431553,
@@ -23035,6 +23091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327249,
+      "num": 327249,
+      "word": "斥资16元在家跟儿子围炉煮茶",
+      "onboard_time": 1700660017,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 327211,
       "num": 327211,
       "word": "三把零龙",
@@ -23609,6 +23673,14 @@
       "onboard_time": 1700406218,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318038,
+      "num": 277933,
+      "word": "爷爷接错孙女到家10多分钟未发现",
+      "onboard_time": 1700661097,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317986,
@@ -26563,6 +26635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280640,
+      "num": 280640,
+      "word": "许文婷全场MVP",
+      "onboard_time": 1700662060,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280638,
       "num": 271392,
       "word": "孙颖莎成功晋级半决赛",
@@ -26801,6 +26881,14 @@
       "onboard_time": 1700217455,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277832,
+      "num": 277832,
+      "word": "全红婵全锦赛亚军",
+      "onboard_time": 1700661579,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 277741,
@@ -28412,7 +28500,7 @@
     },
     {
       "raw_hot": 261574,
-      "num": 204110,
+      "num": 213667,
       "word": "B太来哈尔滨先来吃一顿铁锅炖",
       "onboard_time": 1700658458,
       "rank": 30,
@@ -37715,14 +37803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199062,
-      "num": 199062,
-      "word": "斥资16元在家跟儿子围炉煮茶",
-      "onboard_time": 1700660017,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 199049,
       "num": 199049,
       "word": "张真源是懂代班主持的",
@@ -38251,6 +38331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197216,
+      "num": 197216,
+      "word": "张艺兴晒和宝可梦的合影",
+      "onboard_time": 1700661458,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197199,
       "num": 197199,
       "word": "王鹤棣 时总工作日记",
@@ -38545,6 +38633,14 @@
       "onboard_time": 1700014773,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196013,
+      "num": 196013,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 195996,
@@ -43171,6 +43267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173898,
+      "num": 173898,
+      "word": "英雄联盟服务器",
+      "onboard_time": 1700662479,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173876,
       "num": 173876,
       "word": "徐冬冬尹子维首个合体综艺",
@@ -44035,6 +44139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169383,
+      "num": 169383,
+      "word": "徐若晗蜜桃妆",
+      "onboard_time": 1700662298,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 169248,
       "num": 169248,
       "word": "乐游原 金屋藏猪",
@@ -44233,6 +44345,14 @@
       "onboard_time": 1699329696,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 168402,
+      "num": 168402,
+      "word": "金莎新发色",
+      "onboard_time": 1700660976,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 168390,
@@ -46849,6 +46969,14 @@
       "onboard_time": 1700641416,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154770,
+      "num": 154770,
+      "word": "姜雪宁 公主请解救公主",
+      "onboard_time": 1700662479,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 154644,
@@ -49777,6 +49905,14 @@
       "onboard_time": 1699064909,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140260,
+      "num": 140260,
+      "word": "OMG对阵首尔KTRY",
+      "onboard_time": 1700662538,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 140213,
