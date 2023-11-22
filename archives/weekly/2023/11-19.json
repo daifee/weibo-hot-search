@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700652854009,
+  "endTime": 1700656482513,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -539,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1539960,
+      "num": 1539960,
+      "word": "以爱为营大结局",
+      "onboard_time": 1700655874,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1533806,
       "num": 490322,
       "word": "董岩磊 230斤",
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1258342,
+      "num": 483618,
+      "word": "金莎爸爸辣评女儿恋情",
+      "onboard_time": 1700650958,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1244416,
       "num": 1244416,
       "word": "孙兴慜首次攻破国足大门",
@@ -801,14 +817,6 @@
       "onboard_time": 1700637815,
       "rank": 32,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 1118767,
-      "num": 483618,
-      "word": "金莎爸爸辣评女儿恋情",
-      "onboard_time": 1700650958,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1118053,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1700490936,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848701,
+      "num": 848701,
+      "word": "邓为腿受伤",
+      "onboard_time": 1700654374,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 841104,
@@ -1539,6 +1555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 682156,
+      "num": 433140,
+      "word": "易烊千玺机场",
+      "onboard_time": 1700653595,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 681190,
       "num": 1078302,
       "word": "女孩裙摆夹电梯受困被剪掉后爽朗大笑",
@@ -1803,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 611458,
+      "num": 611458,
+      "word": "爱奇艺尖叫之夜cp合体",
+      "onboard_time": 1700656237,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611160,
       "num": 392815,
       "word": "陈都灵 马上表演白月光砸缸",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 569262,
+      "num": 569262,
+      "word": "父亲回应颜宁当选中国科学院院士",
+      "onboard_time": 1700652098,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563177,
@@ -2635,6 +2675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 472408,
+      "num": 472408,
+      "word": "0713巡回演唱会正式启动",
+      "onboard_time": 1700653833,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 472054,
       "num": 629680,
       "word": "警方回应网红夫妇售楼处要账被打",
@@ -2947,6 +2995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431521,
+      "num": 431521,
+      "word": "时尚COSMO改名",
+      "onboard_time": 1700655334,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 430612,
       "num": 430612,
       "word": "张桂梅 精神内核",
@@ -3033,6 +3089,14 @@
       "onboard_time": 1700553874,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416326,
+      "num": 416326,
+      "word": "原来甘蔗也有平替",
+      "onboard_time": 1700654014,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 415329,
@@ -3577,6 +3641,14 @@
       "onboard_time": 1700458117,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360775,
+      "num": 281142,
+      "word": "令人心动的offer",
+      "onboard_time": 1700653117,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 359456,
@@ -4291,14 +4363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303137,
-      "num": 191836,
-      "word": "父亲回应颜宁当选中国科学院院士",
-      "onboard_time": 1700652098,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302946,
       "num": 302946,
       "word": "RIIZE删除洪胜汉物料",
@@ -4409,6 +4473,14 @@
       "onboard_time": 1700390497,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297162,
+      "num": 276561,
+      "word": "王一博小雪营业",
+      "onboard_time": 1700653117,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 297153,
@@ -4617,6 +4689,14 @@
       "onboard_time": 1700400817,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 282690,
+      "num": 282690,
+      "word": "文春称羽生结弦是妈宝男",
+      "onboard_time": 1700656172,
+      "rank": 19,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 282260,
@@ -4889,6 +4969,14 @@
       "onboard_time": 1700386238,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 265163,
+      "num": 195046,
+      "word": "王睡睡终于攒够了失望",
+      "onboard_time": 1700655155,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 265118,
@@ -5177,6 +5265,14 @@
       "onboard_time": 1700396318,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251177,
+      "num": 251177,
+      "word": "新闻女王唯一的缺点 更太慢",
+      "onboard_time": 1700655095,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 250640,
@@ -6043,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216147,
+      "num": 209807,
+      "word": "街舞 印度味儿",
+      "onboard_time": 1700654675,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214726,
       "num": 214726,
       "word": "女童海边溺水2名西装大哥冲下海救回",
@@ -6899,6 +7003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195189,
+      "num": 195189,
+      "word": "李二牛演偶像剧了吗",
+      "onboard_time": 1700655515,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194628,
       "num": 194628,
       "word": "为什么不ban烈娜塔",
@@ -7128,6 +7240,14 @@
       "word": "琉璃被下毒性命垂危",
       "onboard_time": 1700476235,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188482,
+      "num": 188482,
+      "word": "乐游原虐",
+      "onboard_time": 1700655455,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -7811,6 +7931,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 168912,
+      "num": 168912,
+      "word": "恋与制作人互动电话",
+      "onboard_time": 1700656112,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168852,
       "num": 1561640,
       "word": "西安街头热卖的两种美食不能一起吃",
@@ -7984,6 +8112,14 @@
       "word": "张凌赫在王星越的哥哥声中逐渐迷失",
       "onboard_time": 1700544698,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163744,
+      "num": 163744,
+      "word": "西游记新切入点",
+      "onboard_time": 1700656296,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -8641,6 +8777,14 @@
       "onboard_time": 1700372669,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144611,
+      "num": 144611,
+      "word": "丸子头的四种扎法",
+      "onboard_time": 1700655274,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 144193,
@@ -10385,6 +10529,14 @@
       "onboard_time": 1700609246,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65431,
+      "num": 1053089,
+      "word": "接英雄回家",
+      "onboard_time": 1700638898,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65122,
