@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700663772499,
+  "endTime": 1700666281168,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4059,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259823,
+      "num": 607225,
+      "word": "文春曝羽生结弦离婚原因",
+      "onboard_time": 1700656172,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1259686,
       "num": 1259686,
       "word": "东北这次强降雪下到发紫",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1699335512,
       "rank": 4,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 1204796,
+      "num": 444528,
+      "word": "兔子曾被当做过验孕棒",
+      "onboard_time": 1700661037,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1200624,
@@ -5867,6 +5883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 974336,
+      "num": 974336,
+      "word": "以爱为营 婚礼",
+      "onboard_time": 1700661158,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 974272,
       "num": 341354,
       "word": "羽生结弦结婚时间",
@@ -6537,14 +6561,6 @@
       "onboard_time": 1699056690,
       "rank": 1,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 884236,
-      "num": 444528,
-      "word": "兔子曾被当做过验孕棒",
-      "onboard_time": 1700661037,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 882578,
@@ -7321,14 +7337,6 @@
       "onboard_time": 1699530452,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 818662,
-      "num": 818662,
-      "word": "以爱为营 婚礼",
-      "onboard_time": 1700661158,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 818560,
@@ -11691,6 +11699,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 596085,
+      "num": 596085,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596081,
       "num": 352555,
       "word": "康师傅回应涨价",
@@ -12265,6 +12281,14 @@
       "onboard_time": 1699347695,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574293,
+      "num": 574293,
+      "word": "0713 没听说",
+      "onboard_time": 1700665779,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 574046,
@@ -16633,14 +16657,6 @@
       "onboard_time": 1700401779,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 444207,
-      "num": 444207,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 443846,
@@ -22795,6 +22811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331795,
+      "num": 331795,
+      "word": "许文婷全场MVP",
+      "onboard_time": 1700662060,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331777,
       "num": 331508,
       "word": "杨幂翡翠耳坠",
@@ -24153,14 +24177,6 @@
       "onboard_time": 1698814901,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312043,
-      "num": 312043,
-      "word": "许文婷全场MVP",
-      "onboard_time": 1700662060,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 311822,
@@ -28993,6 +29009,14 @@
       "onboard_time": 1699887514,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257194,
+      "num": 257194,
+      "word": "i人错过",
+      "onboard_time": 1700665419,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 257100,
@@ -41563,6 +41587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183570,
+      "num": 183570,
+      "word": "谢危怼定国公",
+      "onboard_time": 1700664697,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183547,
       "num": 183547,
       "word": "电视剧围猎杀青",
@@ -42339,6 +42371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179203,
+      "num": 165825,
+      "word": "李沁古装仪态",
+      "onboard_time": 1700664338,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179145,
       "num": 157712,
       "word": "40只QQ在舟山异地登陆",
@@ -42561,6 +42601,14 @@
       "onboard_time": 1698827132,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178046,
+      "num": 178046,
+      "word": "百度崩了",
+      "onboard_time": 1700663678,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 177980,
@@ -48995,14 +49043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144918,
-      "num": 144918,
-      "word": "百度崩了",
-      "onboard_time": 1700663678,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144877,
       "num": 145567,
       "word": "文俊辉hi6cha了梦游手势舞",
@@ -49555,6 +49595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142305,
+      "num": 377808,
+      "word": "波司登为何能卖千元以上",
+      "onboard_time": 1700664098,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 142220,
       "num": 142220,
       "word": "冰岛近期或有较大规模地震和火山喷发",
@@ -49937,6 +49985,14 @@
       "onboard_time": 1699536454,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140371,
+      "num": 140371,
+      "word": "贾乃亮加盟青环5",
+      "onboard_time": 1700664038,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140345,
@@ -51403,6 +51459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133188,
+      "num": 133188,
+      "word": "千呼万唤的润唇膏合集",
+      "onboard_time": 1700665835,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133179,
       "num": 133179,
       "word": "成都爱心面馆报暗号免费吃面",
@@ -52153,6 +52217,14 @@
       "onboard_time": 1699831827,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129603,
+      "num": 129603,
+      "word": "海南警方 缉犯犀牌号子服",
+      "onboard_time": 1700665298,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129549,
@@ -54601,6 +54673,14 @@
       "onboard_time": 1699159174,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 116560,
+      "num": 116560,
+      "word": "相柳版万古催沙",
+      "onboard_time": 1700664578,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116553,

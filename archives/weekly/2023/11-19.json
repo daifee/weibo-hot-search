@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700663772499,
+  "endTime": 1700666281168,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -755,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1259823,
+      "num": 607225,
+      "word": "文春曝羽生结弦离婚原因",
+      "onboard_time": 1700656172,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1258342,
       "num": 567205,
       "word": "金莎爸爸辣评女儿恋情",
@@ -793,6 +801,14 @@
       "onboard_time": 1700524107,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1204796,
+      "num": 444528,
+      "word": "兔子曾被当做过验孕棒",
+      "onboard_time": 1700661037,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1185814,
@@ -1011,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 974336,
+      "num": 974336,
+      "word": "以爱为营 婚礼",
+      "onboard_time": 1700661158,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 972596,
       "num": 972596,
       "word": "吴世勋视频通话",
@@ -1131,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 884236,
-      "num": 444528,
-      "word": "兔子曾被当做过验孕棒",
-      "onboard_time": 1700661037,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 879589,
       "num": 753222,
       "word": "痞幼妆",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1700628338,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 818662,
-      "num": 818662,
-      "word": "以爱为营 婚礼",
-      "onboard_time": 1700661158,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 818132,
@@ -1979,6 +1987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 596085,
+      "num": 596085,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594988,
       "num": 594988,
       "word": "李荣浩杭州嘉宾 陈奕迅",
@@ -2145,6 +2161,14 @@
       "onboard_time": 1700405795,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574293,
+      "num": 574293,
+      "word": "0713 没听说",
+      "onboard_time": 1700665779,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 573449,
@@ -3009,14 +3033,6 @@
       "onboard_time": 1700401779,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 444207,
-      "num": 444207,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 443798,
@@ -4107,6 +4123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 331795,
+      "num": 331795,
+      "word": "许文婷全场MVP",
+      "onboard_time": 1700662060,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330549,
       "num": 330549,
       "word": "巴西阿根廷球迷冲突",
@@ -4377,14 +4401,6 @@
       "onboard_time": 1700395836,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 312043,
-      "num": 312043,
-      "word": "许文婷全场MVP",
-      "onboard_time": 1700662060,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 311791,
@@ -5297,6 +5313,14 @@
       "onboard_time": 1700317832,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257194,
+      "num": 257194,
+      "word": "i人错过",
+      "onboard_time": 1700665419,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 256915,
@@ -7755,6 +7779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183570,
+      "num": 183570,
+      "word": "谢危怼定国公",
+      "onboard_time": 1700664697,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183256,
       "num": 183256,
       "word": "你通常上班前还是下班后洗杯子",
@@ -7923,6 +7955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179203,
+      "num": 165825,
+      "word": "李沁古装仪态",
+      "onboard_time": 1700664338,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179105,
       "num": 179105,
       "word": "金瀚自我定位 有勇有谋",
@@ -7961,6 +8001,14 @@
       "onboard_time": 1700535451,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178046,
+      "num": 178046,
+      "word": "百度崩了",
+      "onboard_time": 1700663678,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 177980,
@@ -9091,14 +9139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144918,
-      "num": 144918,
-      "word": "百度崩了",
-      "onboard_time": 1700663678,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144673,
       "num": 144673,
       "word": "大批球迷深圳机场接机韩国队",
@@ -9195,6 +9235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142305,
+      "num": 377808,
+      "word": "波司登为何能卖千元以上",
+      "onboard_time": 1700664098,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 142072,
       "num": 142072,
       "word": "aespa宁艺卓直拍",
@@ -9273,6 +9321,14 @@
       "onboard_time": 1700367331,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140371,
+      "num": 140371,
+      "word": "贾乃亮加盟青环5",
+      "onboard_time": 1700664038,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140073,
@@ -9587,6 +9643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133188,
+      "num": 133188,
+      "word": "千呼万唤的润唇膏合集",
+      "onboard_time": 1700665835,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 132942,
       "num": 132942,
       "word": "未来每栋楼都是个光伏充电站",
@@ -9745,6 +9809,14 @@
       "onboard_time": 1700361388,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129603,
+      "num": 129603,
+      "word": "海南警方 缉犯犀牌号子服",
+      "onboard_time": 1700665298,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129341,
@@ -10105,6 +10177,14 @@
       "onboard_time": 1700640276,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116560,
+      "num": 116560,
+      "word": "相柳版万古催沙",
+      "onboard_time": 1700664578,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116096,

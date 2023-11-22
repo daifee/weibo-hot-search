@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700663772499,
+  "endTime": 1700666281168,
   "band_list": [
     {
       "raw_hot": 8204738,
@@ -195,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259823,
+      "num": 607225,
+      "word": "文春曝羽生结弦离婚原因",
+      "onboard_time": 1700656172,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1258342,
       "num": 567205,
       "word": "金莎爸爸辣评女儿恋情",
       "onboard_time": 1700650958,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1204796,
+      "num": 444528,
+      "word": "兔子曾被当做过验孕棒",
+      "onboard_time": 1700661037,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1174109,
@@ -243,6 +259,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 974336,
+      "num": 974336,
+      "word": "以爱为营 婚礼",
+      "onboard_time": 1700661158,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 937640,
       "num": 937640,
       "word": "缅甸高官称因中国提醒才意识到电诈危害",
@@ -273,14 +297,6 @@
       "onboard_time": 1700609909,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884236,
-      "num": 444528,
-      "word": "兔子曾被当做过验孕棒",
-      "onboard_time": 1700661037,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 848701,
@@ -321,14 +337,6 @@
       "onboard_time": 1700628338,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 818662,
-      "num": 818662,
-      "word": "以爱为营 婚礼",
-      "onboard_time": 1700661158,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 818132,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596085,
+      "num": 596085,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594184,
       "num": 314070,
       "word": "第一次对淀粉肠失去兴趣",
@@ -577,6 +593,14 @@
       "onboard_time": 1700647115,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574293,
+      "num": 574293,
+      "word": "0713 没听说",
+      "onboard_time": 1700665779,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 569262,
@@ -849,14 +873,6 @@
       "onboard_time": 1700662479,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 444207,
-      "num": 444207,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 442900,
@@ -1139,6 +1155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 331795,
+      "num": 331795,
+      "word": "许文婷全场MVP",
+      "onboard_time": 1700662060,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330549,
       "num": 330549,
       "word": "巴西阿根廷球迷冲突",
@@ -1176,14 +1200,6 @@
       "word": "王安宇胡先煦不当导游更疯了",
       "onboard_time": 1700640035,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 312043,
-      "num": 312043,
-      "word": "许文婷全场MVP",
-      "onboard_time": 1700662060,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1417,6 +1433,14 @@
       "onboard_time": 1700611413,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257194,
+      "num": 257194,
+      "word": "i人错过",
+      "onboard_time": 1700665419,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 255307,
@@ -2083,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183570,
+      "num": 183570,
+      "word": "谢危怼定国公",
+      "onboard_time": 1700664697,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182276,
       "num": 182276,
       "word": "美甲的尽头是裸色吗",
@@ -2113,6 +2145,22 @@
       "onboard_time": 1700659116,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179203,
+      "num": 165825,
+      "word": "李沁古装仪态",
+      "onboard_time": 1700664338,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178046,
+      "num": 178046,
+      "word": "百度崩了",
+      "onboard_time": 1700663678,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 177699,
@@ -2395,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144918,
-      "num": 144918,
-      "word": "百度崩了",
-      "onboard_time": 1700663678,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144611,
       "num": 144611,
       "word": "丸子头的四种扎法",
@@ -2427,12 +2467,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 142305,
+      "num": 377808,
+      "word": "波司登为何能卖千元以上",
+      "onboard_time": 1700664098,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 141026,
       "num": 141026,
       "word": "逛英国快200年的药妆店",
       "onboard_time": 1700644959,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140371,
+      "num": 140371,
+      "word": "贾乃亮加盟青环5",
+      "onboard_time": 1700664038,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 139901,
@@ -2499,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133188,
+      "num": 133188,
+      "word": "千呼万唤的润唇膏合集",
+      "onboard_time": 1700665835,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 132676,
       "num": 132676,
       "word": "Deft发文告别DK",
@@ -2513,6 +2577,14 @@
       "onboard_time": 1700595133,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 129603,
+      "num": 129603,
+      "word": "海南警方 缉犯犀牌号子服",
+      "onboard_time": 1700665298,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129321,
@@ -2641,6 +2713,14 @@
       "onboard_time": 1700640276,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116560,
+      "num": 116560,
+      "word": "相柳版万古催沙",
+      "onboard_time": 1700664578,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116096,
