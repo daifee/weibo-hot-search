@@ -1,0 +1,410 @@
+{
+  "runTime": 1700634238918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720236,
+        "num": 1720236,
+        "word": "外婆称羽生结弦现在吃不下饭",
+        "onboard_time": 1700631455,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1713216,
+        "num": 1713216,
+        "word": "小杨哥徒弟被消协列入低俗带货案例",
+        "onboard_time": 1700628338,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 40365,
+        "num": 915629,
+        "word": "小雪节气配上古诗词满满氛围感",
+        "onboard_time": 1700625333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724811,
+        "num": 724811,
+        "word": "韩媒报道黄子韬演唱会售票率",
+        "onboard_time": 1700632774,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 621570,
+        "num": 621570,
+        "word": "迪丽热巴想把秦岚保护起来",
+        "onboard_time": 1700631393,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566084,
+        "num": 566084,
+        "word": "缅甸高官称因中国提醒才意识到电诈危害",
+        "onboard_time": 1700633192,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531765,
+        "num": 531765,
+        "word": "警方通报斗鱼CEO被捕",
+        "onboard_time": 1700628459,
+        "rank": 6,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 517725,
+        "num": 517725,
+        "word": "直播间卖爆的羽绒服都是谁在买",
+        "onboard_time": 1700629776,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 497499,
+        "num": 497499,
+        "word": "奥特曼将重回OpenAI担任CEO",
+        "onboard_time": 1700633673,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 467744,
+        "num": 467744,
+        "word": "汪苏泷 让大雨全部落下那男的",
+        "onboard_time": 1700628338,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498253,
+        "num": 466040,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449756,
+        "num": 449756,
+        "word": "王睡睡张硕36问",
+        "onboard_time": 1700631754,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411785,
+        "num": 411785,
+        "word": "王睡睡脱下校服没有回头",
+        "onboard_time": 1700633973,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398124,
+        "num": 398124,
+        "word": "腹膜外剖腹产",
+        "onboard_time": 1700630977,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 397785,
+        "num": 397785,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 14,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 350994,
+        "num": 350994,
+        "word": "斗鱼涉赌直播间年流水1.77亿",
+        "onboard_time": 1700627676,
+        "rank": 15,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 321362,
+        "num": 321362,
+        "word": "时宴 纸片人觉醒",
+        "onboard_time": 1700632112,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319949,
+        "num": 319949,
+        "word": "BLACKPINK被英国国王点名的反应",
+        "onboard_time": 1700632954,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316881,
+        "num": 316881,
+        "word": "为什么有人一紧张就会拉肚子",
+        "onboard_time": 1700632833,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303519,
+        "num": 303519,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507003,
+        "num": 300579,
+        "word": "gap year后无法正常工作",
+        "onboard_time": 1700630913,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343111,
+        "num": 297560,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293647,
+        "num": 293647,
+        "word": "波司登一年关店386家",
+        "onboard_time": 1700631934,
+        "rank": 22,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 288325,
+        "num": 288325,
+        "word": "孙丞潇想跟金莎生一男一女",
+        "onboard_time": 1700633556,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287207,
+        "num": 287207,
+        "word": "严重的脂肪肝原来是这样",
+        "onboard_time": 1700624375,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283156,
+        "num": 283156,
+        "word": "医生回应筋膜枪可治痔疮",
+        "onboard_time": 1700633135,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247135,
+        "num": 247135,
+        "word": "收到七年前破产公司的赔偿金",
+        "onboard_time": 1700633012,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241545,
+        "num": 241545,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 225677,
+        "num": 225677,
+        "word": "上海迪士尼疯狂动物城园区获证",
+        "onboard_time": 1700633673,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 224625,
+        "num": 224625,
+        "word": "王栎鑫演反派状态",
+        "onboard_time": 1700633730,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212190,
+        "num": 212190,
+        "word": "斯卡洛尼 离任",
+        "onboard_time": 1700631693,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197541,
+        "num": 197541,
+        "word": "湖人晋级淘汰赛",
+        "onboard_time": 1700632954,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193360,
+        "num": 193360,
+        "word": "肺炎支原体已非儿科就诊首因",
+        "onboard_time": 1700625573,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192320,
+        "num": 192320,
+        "word": "迪丽热巴当导游",
+        "onboard_time": 1700627619,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181136,
+        "num": 181136,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173523,
+        "num": 173523,
+        "word": "檀健次给新剧唱了6首歌",
+        "onboard_time": 1700633556,
+        "rank": 35,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 165145,
+        "num": 165145,
+        "word": "李相夷 莲花儿",
+        "onboard_time": 1700629537,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158828,
+        "num": 158828,
+        "word": "许凯拍吻戏累到睡着了",
+        "onboard_time": 1700627019,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 146027,
+        "word": "马丽惠英红 马上要红",
+        "onboard_time": 1700633916,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142892,
+        "num": 142892,
+        "word": "危宁 龙凤胎",
+        "onboard_time": 1700624976,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137947,
+        "num": 137947,
+        "word": "GQ年度盛典上的黑珍珠",
+        "onboard_time": 1700632533,
+        "rank": 40,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 131222,
+        "num": 131222,
+        "word": "为何脂肪肝会缠上年轻人",
+        "onboard_time": 1700628819,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129552,
+        "num": 129552,
+        "word": "陈都灵焦糖柿子妆",
+        "onboard_time": 1700627198,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124237,
+        "num": 124237,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123072,
+        "num": 123072,
+        "word": "王鸥新剧羊毛卷",
+        "onboard_time": 1700630673,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120507,
+        "num": 120507,
+        "word": "花儿与少年",
+        "onboard_time": 1700630793,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119852,
+        "num": 119852,
+        "word": "一闪一闪亮星星定档预告",
+        "onboard_time": 1700622093,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118201,
+        "num": 118201,
+        "word": "斗鱼股价已跌去超9成",
+        "onboard_time": 1700612016,
+        "rank": 47,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 117691,
+        "num": 117691,
+        "word": "没有内马尔的巴西",
+        "onboard_time": 1700631152,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107378,
+        "num": 117685,
+        "word": "狗主人带狗妈狗崽摆摊三天找狗",
+        "onboard_time": 1700627619,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动停火止战实现持久和平安全#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700631262531,
+  "endTime": 1700634238918,
   "band_list": [
     {
       "raw_hot": 2468887,
@@ -49,6 +49,14 @@
       "onboard_time": 1700622575,
       "rank": 10,
       "category": "时尚,财经"
+    },
+    {
+      "raw_hot": 1720236,
+      "num": 1720236,
+      "word": "外婆称羽生结弦现在吃不下饭",
+      "onboard_time": 1700631455,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1651629,
@@ -171,6 +179,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 724811,
+      "num": 724811,
+      "word": "韩媒报道黄子韬演唱会售票率",
+      "onboard_time": 1700632774,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 652869,
       "num": 652869,
       "word": "名侦探学院7官宣定档",
@@ -192,6 +208,14 @@
       "word": "迪丽热巴当导游",
       "onboard_time": 1700627619,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 621570,
+      "num": 621570,
+      "word": "迪丽热巴想把秦岚保护起来",
+      "onboard_time": 1700631393,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -232,6 +256,14 @@
       "word": "村集体收租1.6亿安排老人出国游",
       "onboard_time": 1700610510,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566084,
+      "num": 566084,
+      "word": "缅甸高官称因中国提醒才意识到电诈危害",
+      "onboard_time": 1700633192,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -283,12 +315,36 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 517725,
+      "num": 517725,
+      "word": "直播间卖爆的羽绒服都是谁在买",
+      "onboard_time": 1700629776,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 507003,
+      "num": 300579,
+      "word": "gap year后无法正常工作",
+      "onboard_time": 1700630913,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 502074,
       "num": 502074,
       "word": "女生读研两个月诉说氛围像围城",
       "onboard_time": 1700607982,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 497499,
+      "num": 497499,
+      "word": "奥特曼将重回OpenAI担任CEO",
+      "onboard_time": 1700633673,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 496991,
@@ -355,6 +411,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 449756,
+      "num": 449756,
+      "word": "王睡睡张硕36问",
+      "onboard_time": 1700631754,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442900,
       "num": 442900,
       "word": "巴西vs阿根廷",
@@ -387,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411785,
+      "num": 411785,
+      "word": "王睡睡脱下校服没有回头",
+      "onboard_time": 1700633973,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400223,
       "num": 400223,
       "word": "TFBOYS十周年演唱会登阿里财报",
       "onboard_time": 1700613938,
       "rank": 13,
       "category": "演出,互联网"
+    },
+    {
+      "raw_hot": 398124,
+      "num": 398124,
+      "word": "腹膜外剖腹产",
+      "onboard_time": 1700630977,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 392994,
@@ -443,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365692,
-      "num": 365692,
-      "word": "直播间卖爆的羽绒服都是谁在买",
-      "onboard_time": 1700629776,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 365362,
       "num": 365362,
       "word": "夏奇拉逃税超1亿被罚5700万",
@@ -481,6 +553,30 @@
       "onboard_time": 1700614833,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321362,
+      "num": 321362,
+      "word": "时宴 纸片人觉醒",
+      "onboard_time": 1700632112,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319949,
+      "num": 319949,
+      "word": "BLACKPINK被英国国王点名的反应",
+      "onboard_time": 1700632954,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316881,
+      "num": 316881,
+      "word": "为什么有人一紧张就会拉肚子",
+      "onboard_time": 1700632833,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 307908,
@@ -523,6 +619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 293647,
+      "num": 293647,
+      "word": "波司登一年关店386家",
+      "onboard_time": 1700631934,
+      "rank": 22,
+      "category": "时尚,财经"
+    },
+    {
       "raw_hot": 291289,
       "num": 291289,
       "word": "被正式确诊为脆皮打工人",
@@ -537,6 +641,22 @@
       "onboard_time": 1700609365,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288325,
+      "num": 288325,
+      "word": "孙丞潇想跟金莎生一男一女",
+      "onboard_time": 1700633556,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283156,
+      "num": 283156,
+      "word": "医生回应筋膜枪可治痔疮",
+      "onboard_time": 1700633135,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274326,
@@ -619,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247135,
+      "num": 247135,
+      "word": "收到七年前破产公司的赔偿金",
+      "onboard_time": 1700633012,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238632,
       "num": 238632,
       "word": "ChatGPT崩了",
       "onboard_time": 1700618492,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 238178,
-      "num": 229594,
-      "word": "gap year后无法正常工作",
-      "onboard_time": 1700630913,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 234991,
@@ -691,6 +811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225677,
+      "num": 225677,
+      "word": "上海迪士尼疯狂动物城园区获证",
+      "onboard_time": 1700633673,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 224625,
+      "num": 224625,
+      "word": "王栎鑫演反派状态",
+      "onboard_time": 1700633730,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224571,
       "num": 224571,
       "word": "睡眠不规律等导致卒中发病年轻化",
@@ -707,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217713,
-      "num": 217713,
-      "word": "腹膜外剖腹产",
-      "onboard_time": 1700630977,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 214707,
       "num": 214707,
       "word": "老刘 我最不希望忘了你的样子",
@@ -729,6 +857,14 @@
       "onboard_time": 1700626596,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212190,
+      "num": 212190,
+      "word": "斯卡洛尼 离任",
+      "onboard_time": 1700631693,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210608,
@@ -777,6 +913,14 @@
       "onboard_time": 1700583269,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197541,
+      "num": 197541,
+      "word": "湖人晋级淘汰赛",
+      "onboard_time": 1700632954,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 197302,
@@ -931,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173523,
+      "num": 173523,
+      "word": "檀健次给新剧唱了6首歌",
+      "onboard_time": 1700633556,
+      "rank": 35,
+      "category": "剧集,音乐"
+    },
+    {
       "raw_hot": 172833,
       "num": 172833,
       "word": "盛典版 换乘恋爱",
@@ -1043,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146027,
+      "num": 146027,
+      "word": "马丽惠英红 马上要红",
+      "onboard_time": 1700633916,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145097,
       "num": 113848,
       "word": "河南新一轮寒潮天气来袭",
@@ -1089,6 +1249,14 @@
       "onboard_time": 1700615973,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137947,
+      "num": 137947,
+      "word": "GQ年度盛典上的黑珍珠",
+      "onboard_time": 1700632533,
+      "rank": 40,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 130450,
@@ -1179,6 +1347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 117691,
+      "num": 117691,
+      "word": "没有内马尔的巴西",
+      "onboard_time": 1700631152,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115819,
       "num": 161478,
       "word": "辛芷蕾说最近的事对王安宇很不公平",
@@ -1209,14 +1385,6 @@
       "onboard_time": 1700626835,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115192,
-      "num": 115192,
-      "word": "没有内马尔的巴西",
-      "onboard_time": 1700631152,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113432,
@@ -1489,6 +1657,14 @@
       "onboard_time": 1700568935,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40365,
+      "num": 915629,
+      "word": "小雪节气配上古诗词满满氛围感",
+      "onboard_time": 1700625333,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35789,
