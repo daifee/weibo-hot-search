@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700638458426,
+  "endTime": 1700641369001,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -49,6 +49,14 @@
       "onboard_time": 1700392980,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 4088394,
+      "num": 4088394,
+      "word": "发烧",
+      "onboard_time": 1700636252,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 3928342,
@@ -161,14 +169,6 @@
       "onboard_time": 1700454941,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2375832,
-      "num": 2375832,
-      "word": "发烧",
-      "onboard_time": 1700636252,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2372278,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957874,
+      "num": 957874,
+      "word": "余华 人和人交往尽量少说话",
+      "onboard_time": 1700637815,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 947497,
       "num": 947497,
       "word": "男子100多万买林肯称被客服嘲讽",
@@ -995,12 +1003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 888166,
+      "num": 888166,
+      "word": "迪丽热巴独自在车上考试",
+      "onboard_time": 1700636193,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 879589,
       "num": 753222,
       "word": "痞幼妆",
       "onboard_time": 1700534793,
       "rank": 10,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 871655,
+      "num": 871655,
+      "word": "波司登13%收入来自于贴牌加工",
+      "onboard_time": 1700639733,
+      "rank": 5,
+      "category": "时尚,财经"
     },
     {
       "raw_hot": 871404,
@@ -1216,6 +1240,14 @@
       "word": "第一次看见真胃",
       "onboard_time": 1700441075,
       "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 736764,
+      "num": 736764,
+      "word": "孩子病了就让他们歇歇吧",
+      "onboard_time": 1700636135,
+      "rank": 30,
       "category": "健康医疗"
     },
     {
@@ -1587,6 +1619,14 @@
       "category": "剧集,互联网"
     },
     {
+      "raw_hot": 631861,
+      "num": 201294,
+      "word": "EDG 韩援",
+      "onboard_time": 1700640757,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 625014,
       "num": 625014,
       "word": "港珠澳大桥马拉松疑不让中国冠军冲线",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1700567016,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622591,
+      "num": 622591,
+      "word": "罗云熙晒与宋茜合照",
+      "onboard_time": 1700640456,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 621570,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1700537554,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 560886,
+      "num": 250912,
+      "word": "第一次对淀粉肠失去兴趣",
+      "onboard_time": 1700639076,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 560805,
@@ -3435,14 +3491,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 344738,
-      "num": 344738,
-      "word": "孩子病了就让他们歇歇吧",
-      "onboard_time": 1700636135,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 344026,
       "num": 344026,
       "word": "阿根廷版特朗普赢得大选",
@@ -3563,14 +3611,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 337185,
-      "num": 337185,
-      "word": "迪丽热巴独自在车上考试",
-      "onboard_time": 1700636193,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 336694,
       "num": 336694,
       "word": "王一博变装",
@@ -3651,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328424,
+      "num": 328424,
+      "word": "亮亮丽君决定离开郑州回老家",
+      "onboard_time": 1700639917,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328338,
       "num": 328338,
       "word": "准新郎结婚前一天跳河救落水儿童",
@@ -3729,6 +3777,14 @@
       "onboard_time": 1700632112,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321407,
+      "num": 250881,
+      "word": "王安宇胡先煦不当导游更疯了",
+      "onboard_time": 1700640035,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 320054,
@@ -4835,6 +4891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249155,
+      "num": 249155,
+      "word": "辛芷蕾不想和秦海璐住一间房",
+      "onboard_time": 1700638837,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248820,
       "num": 248820,
       "word": "秦岚情绪稳定的东北粮仓",
@@ -4971,6 +5035,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 242882,
+      "num": 242882,
+      "word": "落霞与孤鹜齐飞有多美",
+      "onboard_time": 1700639794,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 242705,
       "num": 242705,
       "word": "黄渤差点演了烈日灼心",
@@ -5057,14 +5129,6 @@
       "onboard_time": 1700399799,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239742,
-      "num": 239742,
-      "word": "余华 人和人交往尽量少说话",
-      "onboard_time": 1700637815,
-      "rank": 32,
-      "category": "读书作家"
     },
     {
       "raw_hot": 239722,
@@ -5627,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216240,
+      "num": 216240,
+      "word": "女童光身子街头大哭老板娘一把抱回",
+      "onboard_time": 1700640395,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214726,
       "num": 214726,
       "word": "女童海边溺水2名西装大哥冲下海救回",
@@ -5947,6 +6019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206384,
+      "num": 200356,
+      "word": "秦岚迪丽热巴拥抱",
+      "onboard_time": 1700641175,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206286,
       "num": 206286,
       "word": "刘耀文FEEL ME直拍",
@@ -6113,6 +6193,14 @@
       "onboard_time": 1700452718,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202866,
+      "num": 202866,
+      "word": "梅西为阿根廷球迷发声",
+      "onboard_time": 1700638175,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 202781,
@@ -6321,6 +6409,14 @@
       "onboard_time": 1700549793,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197999,
+      "num": 197999,
+      "word": "檀健次狐狸尼克发箍",
+      "onboard_time": 1700638416,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197833,
@@ -6593,6 +6689,14 @@
       "onboard_time": 1700435485,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190594,
+      "num": 190594,
+      "word": "侯明昊预览图",
+      "onboard_time": 1700640875,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190482,
@@ -7267,6 +7371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170905,
+      "num": 170905,
+      "word": "曾舜晞迷失情感迷宫手势舞",
+      "onboard_time": 1700640634,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170278,
       "num": 170278,
       "word": "苏醒不给丁程鑫泼水的机会",
@@ -7475,14 +7587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163679,
-      "num": 163679,
-      "word": "檀健次狐狸尼克发箍",
-      "onboard_time": 1700638416,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 163552,
       "num": 163552,
       "word": "秋冬如何养脸",
@@ -7585,14 +7689,6 @@
       "onboard_time": 1700316692,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160537,
-      "num": 174642,
-      "word": "梅西为阿根廷球迷发声",
-      "onboard_time": 1700638175,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 159819,
@@ -7993,6 +8089,14 @@
       "onboard_time": 1700523507,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "曾舜晞自带私梳",
+      "onboard_time": 1700641302,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146182,
@@ -8483,6 +8587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134028,
+      "num": 134028,
+      "word": "offer5最后的黑板是这么用的",
+      "onboard_time": 1700641358,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133615,
       "num": 1040388,
       "word": "运20将再赴韩国接运烈士遗骸回国",
@@ -8529,6 +8641,14 @@
       "onboard_time": 1700554234,
       "rank": 43,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 132676,
+      "num": 132676,
+      "word": "Deft发文告别DK",
+      "onboard_time": 1700639556,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 132607,
@@ -9009,6 +9129,14 @@
       "onboard_time": 1700547633,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117323,
+      "num": 250917,
+      "word": "火锅一开 烦恼拜拜",
+      "onboard_time": 1700640276,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 116008,
@@ -9727,6 +9855,14 @@
       "num": 2311303,
       "word": "全球九大候鸟迁飞区四个经过我国",
       "onboard_time": 1700402139,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68329,
+      "num": 1155943,
+      "word": "中欧班列行驶总里程超7亿公里",
+      "onboard_time": 1700639015,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -1,7 +1,15 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700638458426,
+  "endTime": 1700641369001,
   "band_list": [
+    {
+      "raw_hot": 4088394,
+      "num": 4088394,
+      "word": "发烧",
+      "onboard_time": 1700636252,
+      "rank": 4,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 2468887,
       "num": 462549,
@@ -9,14 +17,6 @@
       "onboard_time": 1700610933,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2375832,
-      "num": 2375832,
-      "word": "发烧",
-      "onboard_time": 1700636252,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2271130,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957874,
+      "num": 957874,
+      "word": "余华 人和人交往尽量少说话",
+      "onboard_time": 1700637815,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 937640,
       "num": 937640,
       "word": "缅甸高官称因中国提醒才意识到电诈危害",
@@ -137,6 +145,22 @@
       "onboard_time": 1700609909,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888166,
+      "num": 888166,
+      "word": "迪丽热巴独自在车上考试",
+      "onboard_time": 1700636193,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 871655,
+      "num": 871655,
+      "word": "波司登13%收入来自于贴牌加工",
+      "onboard_time": 1700639733,
+      "rank": 5,
+      "category": "时尚,财经"
     },
     {
       "raw_hot": 841104,
@@ -195,6 +219,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 736764,
+      "num": 736764,
+      "word": "孩子病了就让他们歇歇吧",
+      "onboard_time": 1700636135,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 729621,
       "num": 729621,
       "word": "斗鱼涉赌直播间年流水1.77亿",
@@ -243,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 631861,
+      "num": 201294,
+      "word": "EDG 韩援",
+      "onboard_time": 1700640757,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 623027,
       "num": 623027,
       "word": "迪丽热巴当导游",
       "onboard_time": 1700627619,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622591,
+      "num": 622591,
+      "word": "罗云熙晒与宋茜合照",
+      "onboard_time": 1700640456,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 621570,
@@ -297,6 +345,14 @@
       "onboard_time": 1700610510,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560886,
+      "num": 250912,
+      "word": "第一次对淀粉肠失去兴趣",
+      "onboard_time": 1700639076,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 551071,
@@ -611,14 +667,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 344738,
-      "num": 344738,
-      "word": "孩子病了就让他们歇歇吧",
-      "onboard_time": 1700636135,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 342145,
       "num": 342145,
       "word": "阿里内网披露马云一股未卖",
@@ -627,20 +675,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 337185,
-      "num": 337185,
-      "word": "迪丽热巴独自在车上考试",
-      "onboard_time": 1700636193,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330549,
       "num": 330549,
       "word": "巴西阿根廷球迷冲突",
       "onboard_time": 1700614833,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328424,
+      "num": 328424,
+      "word": "亮亮丽君决定离开郑州回老家",
+      "onboard_time": 1700639917,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328184,
@@ -657,6 +705,14 @@
       "onboard_time": 1700632112,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321407,
+      "num": 250881,
+      "word": "王安宇胡先煦不当导游更疯了",
+      "onboard_time": 1700640035,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 311466,
@@ -827,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249155,
+      "num": 249155,
+      "word": "辛芷蕾不想和秦海璐住一间房",
+      "onboard_time": 1700638837,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247135,
       "num": 247135,
       "word": "收到七年前破产公司的赔偿金",
@@ -843,12 +907,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239742,
-      "num": 239742,
-      "word": "余华 人和人交往尽量少说话",
-      "onboard_time": 1700637815,
-      "rank": 32,
-      "category": "读书作家"
+      "raw_hot": 242882,
+      "num": 242882,
+      "word": "落霞与孤鹜齐飞有多美",
+      "onboard_time": 1700639794,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 238632,
@@ -939,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216240,
+      "num": 216240,
+      "word": "女童光身子街头大哭老板娘一把抱回",
+      "onboard_time": 1700640395,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214707,
       "num": 214707,
       "word": "老刘 我最不希望忘了你的样子",
@@ -987,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206384,
+      "num": 200356,
+      "word": "秦岚迪丽热巴拥抱",
+      "onboard_time": 1700641175,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206239,
       "num": 206239,
       "word": "王睡睡 具象的心灰意冷",
@@ -1011,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202866,
+      "num": 202866,
+      "word": "梅西为阿根廷球迷发声",
+      "onboard_time": 1700638175,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200875,
       "num": 200875,
       "word": "傅首尔 再也没有人会这样对我了",
@@ -1033,6 +1121,14 @@
       "onboard_time": 1700636135,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197999,
+      "num": 197999,
+      "word": "檀健次狐狸尼克发箍",
+      "onboard_time": 1700638416,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197541,
@@ -1097,6 +1193,14 @@
       "onboard_time": 1700629537,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190594,
+      "num": 190594,
+      "word": "侯明昊预览图",
+      "onboard_time": 1700640875,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190482,
@@ -1235,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170905,
+      "num": 170905,
+      "word": "曾舜晞迷失情感迷宫手势舞",
+      "onboard_time": 1700640634,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168913,
       "num": 168913,
       "word": "朝鲜向日通报计划第三次试射卫星",
@@ -1275,14 +1387,6 @@
       "category": "时尚,财经"
     },
     {
-      "raw_hot": 163679,
-      "num": 163679,
-      "word": "檀健次狐狸尼克发箍",
-      "onboard_time": 1700638416,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 161919,
       "num": 161919,
       "word": "热刺球衣",
@@ -1297,14 +1401,6 @@
       "onboard_time": 1700569056,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160537,
-      "num": 174642,
-      "word": "梅西为阿根廷球迷发声",
-      "onboard_time": 1700638175,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 158871,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1700569056,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "曾舜晞自带私梳",
+      "onboard_time": 1700641302,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 145097,
@@ -1409,6 +1513,22 @@
       "onboard_time": 1700632533,
       "rank": 40,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 134028,
+      "num": 134028,
+      "word": "offer5最后的黑板是这么用的",
+      "onboard_time": 1700641358,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132676,
+      "num": 132676,
+      "word": "Deft发文告别DK",
+      "onboard_time": 1700639556,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 130450,
@@ -1529,6 +1649,14 @@
       "onboard_time": 1700631152,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117323,
+      "num": 250917,
+      "word": "火锅一开 烦恼拜拜",
+      "onboard_time": 1700640276,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 115819,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1700542720,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68329,
+      "num": 1155943,
+      "word": "中欧班列行驶总里程超7亿公里",
+      "onboard_time": 1700639015,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68017,
