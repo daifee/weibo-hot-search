@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 17:18:27
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 17:34:38
 </p>
 </blockquote>
 <p>
@@ -100,7 +100,7 @@ T1晋级S13四强（热度：9440198）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%23" target="weibo">
-发烧（热度：8201484）
+发烧（热度：8204738）
 </a>
 </li>
 
@@ -387,6 +387,12 @@ Tarzan 皇子（热度：3282577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23" target="weibo">
+五大变四大（热度：3098107）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%80%81%E5%B8%88%E8%87%AA%E6%9D%80%E6%A0%A1%E6%96%B9%E6%8B%92%E7%BB%9D%E5%AE%B6%E5%B1%9E%E7%9C%8B%E7%9B%91%E6%8E%A7%23" target="weibo">
 00后女老师自杀校方拒绝家属看监控（热度：3091526）
 </a>
@@ -503,12 +509,6 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 吴艳妮说我真抢跑了又怎么了（热度：2810104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23" target="weibo">
-五大变四大（热度：2809335）
 </a>
 </li>
 

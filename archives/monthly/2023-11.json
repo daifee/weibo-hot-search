@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700644707654,
+  "endTime": 1700645678319,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8201484,
+      "raw_hot": 8204738,
       "num": 8201484,
       "word": "发烧",
       "onboard_time": 1700636252,
@@ -499,6 +499,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 3098107,
+      "num": 3098107,
+      "word": "五大变四大",
+      "onboard_time": 1700643217,
+      "rank": 1,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 3091526,
       "num": 3091526,
       "word": "00后女老师自杀校方拒绝家属看监控",
@@ -657,14 +665,6 @@
       "onboard_time": 1699593992,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2809335,
-      "num": 2809335,
-      "word": "五大变四大",
-      "onboard_time": 1700643217,
-      "rank": 1,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 2798298,
@@ -11588,7 +11588,7 @@
     },
     {
       "raw_hot": 594184,
-      "num": 302859,
+      "num": 314070,
       "word": "第一次对淀粉肠失去兴趣",
       "onboard_time": 1700639076,
       "rank": 20,
@@ -11929,6 +11929,14 @@
       "onboard_time": 1700283268,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 583320,
+      "num": 583320,
+      "word": "胸位高显胖",
+      "onboard_time": 1700643640,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 582976,
@@ -16227,14 +16235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 446273,
-      "num": 446273,
-      "word": "胸位高显胖",
-      "onboard_time": 1700643640,
-      "rank": 11,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 446250,
       "num": 446250,
       "word": "福原爱回应再被前夫告发",
@@ -16297,6 +16297,14 @@
       "onboard_time": 1699360715,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445571,
+      "num": 445571,
+      "word": "发烧是免疫系统杀疯了",
+      "onboard_time": 1700644362,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 445338,
@@ -19563,6 +19571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380617,
+      "num": 380617,
+      "word": "女童被安排收拾全班餐具20天遭开除",
+      "onboard_time": 1700642974,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380552,
       "num": 380552,
       "word": "薛之谦巡演温州站开启预售",
@@ -20233,14 +20249,6 @@
       "onboard_time": 1699548386,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 369463,
-      "num": 369463,
-      "word": "女童被安排收拾全班餐具20天遭开除",
-      "onboard_time": 1700642974,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369450,
@@ -21409,6 +21417,14 @@
       "onboard_time": 1699680033,
       "rank": 10,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 349459,
+      "num": 349459,
+      "word": "老刘 黛玉焚稿",
+      "onboard_time": 1700644059,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 349438,
@@ -22785,6 +22801,14 @@
       "onboard_time": 1700137779,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 326890,
+      "num": 326890,
+      "word": "Faker教学两个肩颈伸展动作",
+      "onboard_time": 1700644718,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 326850,
@@ -24323,6 +24347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304216,
+      "num": 304216,
+      "word": "颜宁当选中国科学院院士",
+      "onboard_time": 1700645200,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304192,
       "num": 304192,
       "word": "这是烤冷面那我吃的是什么",
@@ -25267,14 +25299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 292199,
-      "num": 292199,
-      "word": "老刘 黛玉焚稿",
-      "onboard_time": 1700644059,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292101,
       "num": 292101,
       "word": "李雪琴拉架这段不像演的",
@@ -25521,14 +25545,6 @@
       "onboard_time": 1699532310,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289267,
-      "num": 289267,
-      "word": "发烧是免疫系统杀疯了",
-      "onboard_time": 1700644362,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 289178,
@@ -26265,6 +26281,14 @@
       "onboard_time": 1699845571,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280851,
+      "num": 280851,
+      "word": "Viper更换悠米头像",
+      "onboard_time": 1700645317,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 280638,
@@ -29027,6 +29051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252662,
+      "num": 252662,
+      "word": "133人新当选两院院士",
+      "onboard_time": 1700645378,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252654,
       "num": 252654,
       "word": "在高铁上办公被一群人围观了",
@@ -30289,6 +30321,14 @@
       "onboard_time": 1700368109,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 243022,
+      "num": 243022,
+      "word": "HLE官宣Delight加入",
+      "onboard_time": 1700645258,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 242970,
@@ -41523,6 +41563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179827,
+      "num": 179827,
+      "word": "为何主播低俗扮丑屡禁不止",
+      "onboard_time": 1700644780,
+      "rank": 35,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 179814,
       "num": 168767,
       "word": "宋亚轩的眼力见",
@@ -47707,6 +47755,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 147671,
+      "num": 147671,
+      "word": "赶论文睡着了额头按在了退格键上",
+      "onboard_time": 1700642857,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147661,
       "num": 147661,
       "word": "迈阿密国际vs纽约城",
@@ -49083,6 +49139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141026,
+      "num": 141026,
+      "word": "逛英国快200年的药妆店",
+      "onboard_time": 1700644959,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 140981,
       "num": 130210,
       "word": "一年四季都防晒有必要吗",
@@ -49481,14 +49545,6 @@
       "onboard_time": 1700025156,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138682,
-      "num": 138682,
-      "word": "赶论文睡着了额头按在了退格键上",
-      "onboard_time": 1700642857,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 138666,

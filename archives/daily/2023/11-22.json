@@ -1,9 +1,9 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700644707654,
+  "endTime": 1700645678319,
   "band_list": [
     {
-      "raw_hot": 8201484,
+      "raw_hot": 8204738,
       "num": 8201484,
       "word": "发烧",
       "onboard_time": 1700636252,
@@ -11,8 +11,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 2809335,
-      "num": 2809335,
+      "raw_hot": 3098107,
+      "num": 3098107,
       "word": "五大变四大",
       "onboard_time": 1700643217,
       "rank": 1,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 594184,
-      "num": 302859,
+      "num": 314070,
       "word": "第一次对淀粉肠失去兴趣",
       "onboard_time": 1700639076,
       "rank": 20,
@@ -361,6 +361,14 @@
       "onboard_time": 1700612016,
       "rank": 6,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 583320,
+      "num": 583320,
+      "word": "胸位高显胖",
+      "onboard_time": 1700643640,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 582976,
@@ -555,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446273,
-      "num": 446273,
-      "word": "胸位高显胖",
-      "onboard_time": 1700643640,
-      "rank": 11,
-      "category": "时尚"
+      "raw_hot": 445571,
+      "num": 445571,
+      "word": "发烧是免疫系统杀疯了",
+      "onboard_time": 1700644362,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 442900,
@@ -675,6 +683,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 380617,
+      "num": 380617,
+      "word": "女童被安排收拾全班餐具20天遭开除",
+      "onboard_time": 1700642974,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380023,
       "num": 380023,
       "word": "孙燕姿 开始懂了",
@@ -715,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369463,
-      "num": 369463,
-      "word": "女童被安排收拾全班餐具20天遭开除",
-      "onboard_time": 1700642974,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365907,
       "num": 365907,
       "word": "上海迪士尼疯狂动物城园区获证",
@@ -753,6 +761,14 @@
       "onboard_time": 1700619452,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349459,
+      "num": 349459,
+      "word": "老刘 黛玉焚稿",
+      "onboard_time": 1700644059,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 348930,
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326890,
+      "num": 326890,
+      "word": "Faker教学两个肩颈伸展动作",
+      "onboard_time": 1700644718,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 322176,
       "num": 322176,
       "word": "时宴 纸片人觉醒",
@@ -825,6 +849,14 @@
       "onboard_time": 1700624853,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304216,
+      "num": 304216,
+      "word": "颜宁当选中国科学院院士",
+      "onboard_time": 1700645200,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304019,
@@ -875,14 +907,6 @@
       "category": "时尚,财经"
     },
     {
-      "raw_hot": 292199,
-      "num": 292199,
-      "word": "老刘 黛玉焚稿",
-      "onboard_time": 1700644059,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291289,
       "num": 291289,
       "word": "被正式确诊为脆皮打工人",
@@ -899,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289267,
-      "num": 289267,
-      "word": "发烧是免疫系统杀疯了",
-      "onboard_time": 1700644362,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 283564,
       "num": 283564,
       "word": "TheShy 明年不会退役",
@@ -921,6 +937,14 @@
       "onboard_time": 1700633135,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 280851,
+      "num": 280851,
+      "word": "Viper更换悠米头像",
+      "onboard_time": 1700645317,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 276320,
@@ -1003,6 +1027,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 252662,
+      "num": 252662,
+      "word": "133人新当选两院院士",
+      "onboard_time": 1700645378,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249654,
       "num": 249654,
       "word": "巴西阿根廷比赛推迟",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1700637516,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 243022,
+      "num": 243022,
+      "word": "HLE官宣Delight加入",
+      "onboard_time": 1700645258,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 242882,
@@ -1419,6 +1459,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 179827,
+      "num": 179827,
+      "word": "为何主播低俗扮丑屡禁不止",
+      "onboard_time": 1700644780,
+      "rank": 35,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "幼师将孩子小冰手放进自己衣服里",
@@ -1595,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147671,
+      "num": 147671,
+      "word": "赶论文睡着了额头按在了退格键上",
+      "onboard_time": 1700642857,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147534,
       "num": 161493,
       "word": "孟子义黑色肚兜",
@@ -1627,6 +1683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141026,
+      "num": 141026,
+      "word": "逛英国快200年的药妆店",
+      "onboard_time": 1700644959,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139901,
       "num": 139901,
       "word": "詹姆斯历史三分榜第7位",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1700608645,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138682,
-      "num": 138682,
-      "word": "赶论文睡着了额头按在了退格键上",
-      "onboard_time": 1700642857,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 138458,

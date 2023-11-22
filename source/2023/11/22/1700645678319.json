@@ -1,0 +1,410 @@
+{
+  "runTime": 1700645678319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3098107,
+        "num": 3098107,
+        "word": "五大变四大",
+        "onboard_time": 1700643217,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 8204738,
+        "num": 2098971,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 1,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 59339,
+        "num": 1038310,
+        "word": "中欧班列行驶总里程超7亿公里",
+        "onboard_time": 1700639015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017222,
+        "num": 1017222,
+        "word": "红绿灯的黄",
+        "onboard_time": 1700634632,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 753703,
+        "num": 753703,
+        "word": "胡先煦 迪丽姐美了吧",
+        "onboard_time": 1700642374,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583320,
+        "num": 583320,
+        "word": "胸位高显胖",
+        "onboard_time": 1700643640,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 555150,
+        "num": 555150,
+        "word": "时尚COSMO停刊",
+        "onboard_time": 1700643459,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 517260,
+        "num": 517260,
+        "word": "波司登13%收入来自于贴牌加工",
+        "onboard_time": 1700639733,
+        "rank": 7,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 445571,
+        "num": 445571,
+        "word": "发烧是免疫系统杀疯了",
+        "onboard_time": 1700644362,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 443658,
+        "num": 443658,
+        "word": "女童光身子街头大哭老板娘一把抱回",
+        "onboard_time": 1700640395,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397361,
+        "num": 397361,
+        "word": "EDG 韩援",
+        "onboard_time": 1700640757,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380617,
+        "num": 380617,
+        "word": "女童被安排收拾全班餐具20天遭开除",
+        "onboard_time": 1700642974,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356979,
+        "num": 356979,
+        "word": "妈妈说妆可以再浓一点",
+        "onboard_time": 1700643820,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 427645,
+        "num": 354966,
+        "word": "杨紫斜刘海黑框眼镜",
+        "onboard_time": 1700644119,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349459,
+        "num": 349459,
+        "word": "老刘 黛玉焚稿",
+        "onboard_time": 1700644059,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345976,
+        "num": 345976,
+        "word": "余华 人和人交往尽量少说话",
+        "onboard_time": 1700637815,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 330671,
+        "num": 330671,
+        "word": "与凤行上星",
+        "onboard_time": 1700642195,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327375,
+        "num": 327375,
+        "word": "开心消消乐 崩了",
+        "onboard_time": 1700643703,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326890,
+        "num": 326890,
+        "word": "Faker教学两个肩颈伸展动作",
+        "onboard_time": 1700644718,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 318612,
+        "num": 318612,
+        "word": "即刻生效",
+        "onboard_time": 1700643760,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 482309,
+        "num": 314070,
+        "word": "第一次对淀粉肠失去兴趣",
+        "onboard_time": 1700639076,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304216,
+        "num": 304216,
+        "word": "颜宁当选中国科学院院士",
+        "onboard_time": 1700645200,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296086,
+        "num": 296086,
+        "word": "迪丽热巴独自在车上考试",
+        "onboard_time": 1700636193,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280851,
+        "num": 280851,
+        "word": "Viper更换悠米头像",
+        "onboard_time": 1700645317,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253302,
+        "num": 253302,
+        "word": "田嘉瑞身上痒就去洗澡",
+        "onboard_time": 1700642015,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252662,
+        "num": 252662,
+        "word": "133人新当选两院院士",
+        "onboard_time": 1700645378,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248081,
+        "num": 248081,
+        "word": "王睡睡脱下校服没有回头",
+        "onboard_time": 1700633973,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243022,
+        "num": 243022,
+        "word": "HLE官宣Delight加入",
+        "onboard_time": 1700645258,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234426,
+        "num": 234426,
+        "word": "秦岚迪丽热巴拥抱",
+        "onboard_time": 1700641175,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164081,
+        "num": 227980,
+        "word": "落霞与孤鹜齐飞有多美",
+        "onboard_time": 1700639794,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225254,
+        "num": 225254,
+        "word": "TheShy 明年不会退役",
+        "onboard_time": 1700642857,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217062,
+        "num": 217062,
+        "word": "外婆称羽生结弦现在吃不下饭",
+        "onboard_time": 1700631455,
+        "rank": 31,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 211267,
+        "num": 211267,
+        "word": "孩子病了就让他们歇歇吧",
+        "onboard_time": 1700636135,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197413,
+        "num": 197413,
+        "word": "罗云熙晒与宋茜合照",
+        "onboard_time": 1700640456,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187752,
+        "num": 187752,
+        "word": "小杨哥徒弟被消协列入低俗带货案例",
+        "onboard_time": 1700628338,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 179827,
+        "num": 179827,
+        "word": "为何主播低俗扮丑屡禁不止",
+        "onboard_time": 1700644780,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 177384,
+        "num": 177384,
+        "word": "王睡睡张硕36问",
+        "onboard_time": 1700631754,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173719,
+        "num": 173719,
+        "word": "波司登去年广告宣传等费用达61亿元",
+        "onboard_time": 1700642556,
+        "rank": 37,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 152014,
+        "num": 152014,
+        "word": "BLACKPINK被英国国王点名的反应",
+        "onboard_time": 1700632954,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150172,
+        "num": 150172,
+        "word": "缅甸高官称因中国提醒才意识到电诈危害",
+        "onboard_time": 1700633192,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149494,
+        "num": 149494,
+        "word": "亮亮丽君决定离开郑州回老家",
+        "onboard_time": 1700639917,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148416,
+        "num": 148416,
+        "word": "郑希怡 恋爱与工作要分清",
+        "onboard_time": 1700642918,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147671,
+        "num": 147671,
+        "word": "赶论文睡着了额头按在了退格键上",
+        "onboard_time": 1700642857,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145724,
+        "num": 145724,
+        "word": "韩媒报道黄子韬演唱会售票率",
+        "onboard_time": 1700632774,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141026,
+        "num": 141026,
+        "word": "逛英国快200年的药妆店",
+        "onboard_time": 1700644959,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139115,
+        "num": 139115,
+        "word": "曾舜晞自带私梳",
+        "onboard_time": 1700641302,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134900,
+        "num": 134900,
+        "word": "王安宇胡先煦不当导游更疯了",
+        "onboard_time": 1700640035,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129993,
+        "num": 129993,
+        "word": "孙丞潇想跟金莎生一男一女",
+        "onboard_time": 1700633556,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126228,
+        "num": 126228,
+        "word": "gap year后无法正常工作",
+        "onboard_time": 1700630913,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124978,
+        "num": 124978,
+        "word": "黄子弘凡 捕梦网接住哈",
+        "onboard_time": 1700643459,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动停火止战实现持久和平安全#"
+    }
+  }
+}
