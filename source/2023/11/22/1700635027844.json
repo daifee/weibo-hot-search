@@ -1,0 +1,410 @@
+{
+  "runTime": 1700635027844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728808,
+        "num": 1728808,
+        "word": "外婆称羽生结弦现在吃不下饭",
+        "onboard_time": 1700631455,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1672323,
+        "num": 1672323,
+        "word": "小杨哥徒弟被消协列入低俗带货案例",
+        "onboard_time": 1700628338,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 48749,
+        "num": 964779,
+        "word": "小雪节气配上古诗词满满氛围感",
+        "onboard_time": 1700625333,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937640,
+        "num": 937640,
+        "word": "缅甸高官称因中国提醒才意识到电诈危害",
+        "onboard_time": 1700633192,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708112,
+        "num": 708112,
+        "word": "奥特曼将重回OpenAI担任CEO",
+        "onboard_time": 1700633673,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 670249,
+        "num": 670249,
+        "word": "韩媒报道黄子韬演唱会售票率",
+        "onboard_time": 1700632774,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 619344,
+        "num": 619344,
+        "word": "迪丽热巴想把秦岚保护起来",
+        "onboard_time": 1700631393,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478371,
+        "num": 478371,
+        "word": "直播间卖爆的羽绒服都是谁在买",
+        "onboard_time": 1700629776,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 420284,
+        "num": 420284,
+        "word": "孙丞潇想跟金莎生一男一女",
+        "onboard_time": 1700633556,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396085,
+        "num": 396085,
+        "word": "为什么有人一紧张就会拉肚子",
+        "onboard_time": 1700632833,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 684914,
+        "num": 395470,
+        "word": "王睡睡脱下校服没有回头",
+        "onboard_time": 1700633973,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397546,
+        "num": 395358,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392783,
+        "num": 392783,
+        "word": "BLACKPINK被英国国王点名的反应",
+        "onboard_time": 1700632954,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373542,
+        "num": 373542,
+        "word": "王睡睡张硕36问",
+        "onboard_time": 1700631754,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369723,
+        "num": 369723,
+        "word": "警方通报斗鱼CEO被捕",
+        "onboard_time": 1700628459,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 368498,
+        "num": 368498,
+        "word": "红绿灯的黄",
+        "onboard_time": 1700634632,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366866,
+        "num": 366866,
+        "word": "腹膜外剖腹产",
+        "onboard_time": 1700630977,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364199,
+        "num": 364199,
+        "word": "汪苏泷 让大雨全部落下那男的",
+        "onboard_time": 1700628338,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322176,
+        "num": 322176,
+        "word": "时宴 纸片人觉醒",
+        "onboard_time": 1700632112,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309401,
+        "num": 309401,
+        "word": "斗鱼涉赌直播间年流水1.77亿",
+        "onboard_time": 1700627676,
+        "rank": 19,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 433979,
+        "num": 307230,
+        "word": "gap year后无法正常工作",
+        "onboard_time": 1700630913,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320169,
+        "num": 304474,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301436,
+        "num": 301436,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 22,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 287619,
+        "num": 287619,
+        "word": "上海迪士尼疯狂动物城园区获证",
+        "onboard_time": 1700633673,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 281104,
+        "num": 281104,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261430,
+        "num": 261430,
+        "word": "波司登一年关店386家",
+        "onboard_time": 1700631934,
+        "rank": 25,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 252004,
+        "num": 252004,
+        "word": "严重的脂肪肝原来是这样",
+        "onboard_time": 1700624375,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244444,
+        "num": 244444,
+        "word": "医生回应筋膜枪可治痔疮",
+        "onboard_time": 1700633135,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227054,
+        "num": 227054,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 211327,
+        "num": 211327,
+        "word": "收到七年前破产公司的赔偿金",
+        "onboard_time": 1700633012,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205550,
+        "num": 205550,
+        "word": "柳智敏将出演网飞综艺",
+        "onboard_time": 1700634812,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205500,
+        "num": 205500,
+        "word": "马丽惠英红 马上要红",
+        "onboard_time": 1700633916,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171477,
+        "num": 171477,
+        "word": "王栎鑫演反派状态",
+        "onboard_time": 1700633730,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170009,
+        "num": 170009,
+        "word": "湖人晋级淘汰赛",
+        "onboard_time": 1700632954,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164895,
+        "num": 164895,
+        "word": "斯卡洛尼 离任",
+        "onboard_time": 1700631693,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160830,
+        "num": 160830,
+        "word": "李相夷 莲花儿",
+        "onboard_time": 1700629537,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158080,
+        "num": 158080,
+        "word": "肺炎支原体已非儿科就诊首因",
+        "onboard_time": 1700625573,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153351,
+        "num": 153351,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141625,
+        "num": 141625,
+        "word": "迪丽热巴当导游",
+        "onboard_time": 1700627619,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134196,
+        "num": 134196,
+        "word": "檀健次给新剧唱了6首歌",
+        "onboard_time": 1700633556,
+        "rank": 39,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 128972,
+        "num": 128972,
+        "word": "许凯拍吻戏累到睡着了",
+        "onboard_time": 1700627019,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125401,
+        "num": 125401,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 122945,
+        "num": 122945,
+        "word": "危宁 龙凤胎",
+        "onboard_time": 1700624976,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116921,
+        "num": 116921,
+        "word": "GQ年度盛典上的黑珍珠",
+        "onboard_time": 1700632533,
+        "rank": 43,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 115257,
+        "word": "久坐不动也会导致皮肤衰老",
+        "onboard_time": 1700634873,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112840,
+        "num": 112840,
+        "word": "美甲的尽头是裸色吗",
+        "onboard_time": 1700634752,
+        "rank": 45,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 112027,
+        "num": 112027,
+        "word": "没有内马尔的巴西",
+        "onboard_time": 1700631152,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111733,
+        "num": 111733,
+        "word": "陈都灵焦糖柿子妆",
+        "onboard_time": 1700627198,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110726,
+        "num": 110726,
+        "word": "王鸥新剧羊毛卷",
+        "onboard_time": 1700630673,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107105,
+        "num": 107105,
+        "word": "一闪一闪亮星星定档预告",
+        "onboard_time": 1700622093,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动巴勒斯坦问题早日得到全面公正持久解决#"
+    }
+  }
+}

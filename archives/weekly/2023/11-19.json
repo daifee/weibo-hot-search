@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700634238918,
+  "endTime": 1700635027844,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -403,8 +403,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1720236,
-      "num": 1720236,
+      "raw_hot": 1728808,
+      "num": 1728808,
       "word": "外婆称羽生结弦现在吃不下饭",
       "onboard_time": 1700631455,
       "rank": 0,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 937640,
+      "num": 937640,
+      "word": "缅甸高官称因中国提醒才意识到电诈危害",
+      "onboard_time": 1700633192,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 930689,
       "num": 930689,
       "word": "李晨去体综了",
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708112,
+      "num": 708112,
+      "word": "奥特曼将重回OpenAI担任CEO",
+      "onboard_time": 1700633673,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 700388,
       "num": 490452,
       "word": "RNG 含金量",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 684914,
+      "num": 411785,
+      "word": "王睡睡脱下校服没有回头",
+      "onboard_time": 1700633973,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 681190,
@@ -1851,14 +1875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 566084,
-      "num": 566084,
-      "word": "缅甸高官称因中国提醒才意识到电诈危害",
-      "onboard_time": 1700633192,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 563177,
       "num": 549380,
       "word": "有影院我本是高山点映被取消",
@@ -2156,7 +2172,7 @@
     },
     {
       "raw_hot": 507003,
-      "num": 300579,
+      "num": 307230,
       "word": "gap year后无法正常工作",
       "onboard_time": 1700630913,
       "rank": 22,
@@ -2233,14 +2249,6 @@
       "onboard_time": 1700394880,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 497499,
-      "num": 497499,
-      "word": "奥特曼将重回OpenAI担任CEO",
-      "onboard_time": 1700633673,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 496991,
@@ -2715,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420284,
+      "num": 420284,
+      "word": "孙丞潇想跟金莎生一男一女",
+      "onboard_time": 1700633556,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419647,
       "num": 419647,
       "word": "广州地铁",
@@ -2753,14 +2769,6 @@
       "onboard_time": 1700481515,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411785,
-      "num": 411785,
-      "word": "王睡睡脱下校服没有回头",
-      "onboard_time": 1700633973,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 411263,
@@ -2883,6 +2891,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 396085,
+      "num": 396085,
+      "word": "为什么有人一紧张就会拉肚子",
+      "onboard_time": 1700632833,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 393672,
       "num": 393672,
       "word": "T1获胜时的WBG众人",
@@ -2903,6 +2919,14 @@
       "num": 392994,
       "word": "RIIZE将以6人组活动",
       "onboard_time": 1700615316,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 392783,
+      "num": 392783,
+      "word": "BLACKPINK被英国国王点名的反应",
+      "onboard_time": 1700632954,
       "rank": 17,
       "category": "艺人"
     },
@@ -3129,6 +3153,14 @@
       "onboard_time": 1700532031,
       "rank": 19,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 368498,
+      "num": 368498,
+      "word": "红绿灯的黄",
+      "onboard_time": 1700634632,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 365715,
@@ -3627,8 +3659,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321362,
-      "num": 321362,
+      "raw_hot": 322176,
+      "num": 322176,
       "word": "时宴 纸片人觉醒",
       "onboard_time": 1700632112,
       "rank": 16,
@@ -3641,14 +3673,6 @@
       "onboard_time": 1700370569,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319949,
-      "num": 319949,
-      "word": "BLACKPINK被英国国王点名的反应",
-      "onboard_time": 1700632954,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 318950,
@@ -3705,14 +3729,6 @@
       "onboard_time": 1700321375,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 316881,
-      "num": 316881,
-      "word": "为什么有人一紧张就会拉肚子",
-      "onboard_time": 1700632833,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 316579,
@@ -4107,20 +4123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288325,
-      "num": 288325,
-      "word": "孙丞潇想跟金莎生一男一女",
-      "onboard_time": 1700633556,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288293,
       "num": 288293,
       "word": "被跑半马的小朋友震惊到了",
       "onboard_time": 1700402557,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 287619,
+      "num": 287619,
+      "word": "上海迪士尼疯狂动物城园区获证",
+      "onboard_time": 1700633673,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 286566,
@@ -5235,14 +5251,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 225677,
-      "num": 225677,
-      "word": "上海迪士尼疯狂动物城园区获证",
-      "onboard_time": 1700633673,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 225486,
       "num": 225486,
       "word": "日本赛陈雨菲女单亚军",
@@ -5889,6 +5897,22 @@
       "onboard_time": 1700457576,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205550,
+      "num": 205550,
+      "word": "柳智敏将出演网飞综艺",
+      "onboard_time": 1700634812,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205500,
+      "num": 205500,
+      "word": "马丽惠英红 马上要红",
+      "onboard_time": 1700633916,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 205005,
@@ -7843,14 +7867,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146027,
-      "num": 146027,
-      "word": "马丽惠英红 马上要红",
-      "onboard_time": 1700633916,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145991,
       "num": 145258,
       "word": "一念关山小分队合照",
@@ -8867,6 +8883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115257,
+      "num": 115257,
+      "word": "久坐不动也会导致皮肤衰老",
+      "onboard_time": 1700634873,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 114432,
       "num": 114432,
       "word": "焦点访谈曝光网购流量造假套路",
@@ -8913,6 +8937,14 @@
       "onboard_time": 1700560235,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112840,
+      "num": 112840,
+      "word": "美甲的尽头是裸色吗",
+      "onboard_time": 1700634752,
+      "rank": 45,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 112839,
@@ -9715,6 +9747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 48749,
+      "num": 964779,
+      "word": "小雪节气配上古诗词满满氛围感",
+      "onboard_time": 1700625333,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46071,
       "num": 285725,
       "word": "黄河文化有多璀璨",
@@ -9729,14 +9769,6 @@
       "onboard_time": 1700388331,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40365,
-      "num": 915629,
-      "word": "小雪节气配上古诗词满满氛围感",
-      "onboard_time": 1700625333,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38670,
