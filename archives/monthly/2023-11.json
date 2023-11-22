@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700667283519,
+  "endTime": 1700670220223,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -5465,6 +5465,14 @@
       "onboard_time": 1700491475,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1026601,
+      "num": 1026601,
+      "word": "开心消消乐程序员回来加班",
+      "onboard_time": 1700666496,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 1025926,
@@ -15035,14 +15043,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 485378,
-      "num": 329208,
-      "word": "开心消消乐程序员回来加班",
-      "onboard_time": 1700666496,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 485312,
       "num": 596134,
       "word": "韩国将禁止股票卖空直到明年6月",
@@ -16641,6 +16641,14 @@
       "onboard_time": 1700662479,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 444546,
+      "num": 444546,
+      "word": "中植集团致歉",
+      "onboard_time": 1700666496,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 444370,
@@ -19259,6 +19267,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 392056,
+      "num": 392056,
+      "word": "鸟鸟 北方的city过年很难walk",
+      "onboard_time": 1700666673,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391970,
       "num": 331171,
       "word": "姐姐证实李玟曾两次轻生",
@@ -19881,14 +19897,6 @@
       "onboard_time": 1700636135,
       "rank": 13,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 381060,
-      "num": 381060,
-      "word": "中植集团致歉",
-      "onboard_time": 1700666496,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 381057,
@@ -21820,7 +21828,7 @@
     },
     {
       "raw_hot": 349243,
-      "num": 188858,
+      "num": 245513,
       "word": "T1老板透露Canyon加入GEN",
       "onboard_time": 1700666496,
       "rank": 30,
@@ -24939,6 +24947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 302157,
+      "num": 302157,
+      "word": "退休教师在家辅导外孙女数学走红",
+      "onboard_time": 1700667453,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 302130,
       "num": 302130,
       "word": "王自如 罗永浩",
@@ -27337,14 +27353,6 @@
       "onboard_time": 1699243118,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273972,
-      "num": 273972,
-      "word": "鸟鸟 北方的city过年很难walk",
-      "onboard_time": 1700666673,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 273966,
@@ -42667,6 +42675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177910,
+      "num": 177910,
+      "word": "养老院不能睡懒觉",
+      "onboard_time": 1700667033,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177883,
       "num": 177883,
       "word": "女孩走失17年刷视频找到亲生父母",
@@ -43457,6 +43473,14 @@
       "onboard_time": 1699762770,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173559,
+      "num": 173559,
+      "word": "关智斌 我找到了一些存货",
+      "onboard_time": 1700667814,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 173557,
@@ -52907,14 +52931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126392,
-      "num": 126392,
-      "word": "养老院不能睡懒觉",
-      "onboard_time": 1700667033,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126311,
       "num": 207346,
       "word": "进博会",
@@ -56545,6 +56561,14 @@
       "onboard_time": 1699269574,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 102798,
+      "num": 93004,
+      "word": "花少 辛芷蕾的穿搭",
+      "onboard_time": 1700667693,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 102762,
