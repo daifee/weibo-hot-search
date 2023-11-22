@@ -1,0 +1,410 @@
+{
+  "runTime": 1700642178118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4955128,
+        "num": 4955128,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 0,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1725669,
+        "num": 1725669,
+        "word": "红绿灯的黄",
+        "onboard_time": 1700634632,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 63510,
+        "num": 1159752,
+        "word": "中欧班列行驶总里程超7亿公里",
+        "onboard_time": 1700639015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119325,
+        "num": 1119325,
+        "word": "余华 人和人交往尽量少说话",
+        "onboard_time": 1700637815,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 934528,
+        "num": 934528,
+        "word": "波司登13%收入来自于贴牌加工",
+        "onboard_time": 1700639733,
+        "rank": 4,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 899641,
+        "num": 899641,
+        "word": "迪丽热巴独自在车上考试",
+        "onboard_time": 1700636193,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729378,
+        "num": 729378,
+        "word": "EDG 韩援",
+        "onboard_time": 1700640757,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 704162,
+        "num": 704162,
+        "word": "孩子病了就让他们歇歇吧",
+        "onboard_time": 1700636135,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 630303,
+        "num": 630303,
+        "word": "罗云熙晒与宋茜合照",
+        "onboard_time": 1700640456,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484551,
+        "num": 484551,
+        "word": "外婆称羽生结弦现在吃不下饭",
+        "onboard_time": 1700631455,
+        "rank": 9,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 453899,
+        "num": 453899,
+        "word": "王睡睡脱下校服没有回头",
+        "onboard_time": 1700633973,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449077,
+        "num": 449077,
+        "word": "秦岚迪丽热巴拥抱",
+        "onboard_time": 1700641175,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382287,
+        "num": 382287,
+        "word": "亮亮丽君决定离开郑州回老家",
+        "onboard_time": 1700639917,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380905,
+        "num": 380905,
+        "word": "女童光身子街头大哭老板娘一把抱回",
+        "onboard_time": 1700640395,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357901,
+        "num": 357901,
+        "word": "小杨哥徒弟被消协列入低俗带货案例",
+        "onboard_time": 1700628338,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 325179,
+        "num": 325179,
+        "word": "缅甸高官称因中国提醒才意识到电诈危害",
+        "onboard_time": 1700633192,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270141,
+        "num": 270141,
+        "word": "韩媒报道黄子韬演唱会售票率",
+        "onboard_time": 1700632774,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105162,
+        "num": 267079,
+        "word": "火锅一开 烦恼拜拜",
+        "onboard_time": 1700640276,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264725,
+        "num": 264725,
+        "word": "阿里内网披露马云一股未卖",
+        "onboard_time": 1700636496,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256502,
+        "num": 256502,
+        "word": "王睡睡张硕36问",
+        "onboard_time": 1700631754,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594184,
+        "num": 246898,
+        "word": "第一次对淀粉肠失去兴趣",
+        "onboard_time": 1700639076,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317003,
+        "num": 246738,
+        "word": "王安宇胡先煦不当导游更疯了",
+        "onboard_time": 1700640035,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235382,
+        "num": 235382,
+        "word": "BLACKPINK被英国国王点名的反应",
+        "onboard_time": 1700632954,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237054,
+        "num": 234215,
+        "word": "辛芷蕾不想和秦海璐住一间房",
+        "onboard_time": 1700638837,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232096,
+        "num": 232096,
+        "word": "儿科急诊",
+        "onboard_time": 1700635472,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231323,
+        "num": 231323,
+        "word": "落霞与孤鹜齐飞有多美",
+        "onboard_time": 1700639794,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 230784,
+        "num": 230784,
+        "word": "曾舜晞自带私梳",
+        "onboard_time": 1700641302,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223488,
+        "num": 223488,
+        "word": "孕期常见致畸药物",
+        "onboard_time": 1700637516,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223257,
+        "num": 223257,
+        "word": "孙丞潇想跟金莎生一男一女",
+        "onboard_time": 1700633556,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217738,
+        "num": 217738,
+        "word": "咒术回战 乙骨忧太出手",
+        "onboard_time": 1700636135,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 217082,
+        "num": 217082,
+        "word": "孙俪拍甄嬛传时就邓超化了",
+        "onboard_time": 1700636674,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188719,
+        "num": 188719,
+        "word": "gap year后无法正常工作",
+        "onboard_time": 1700630913,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181120,
+        "num": 181120,
+        "word": "侯明昊预览图",
+        "onboard_time": 1700640875,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178242,
+        "num": 178242,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174201,
+        "num": 174201,
+        "word": "梅西为阿根廷球迷发声",
+        "onboard_time": 1700638175,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171168,
+        "num": 171168,
+        "word": "檀健次狐狸尼克发箍",
+        "onboard_time": 1700638416,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159860,
+        "num": 159860,
+        "word": "斗鱼涉赌直播间年流水1.77亿",
+        "onboard_time": 1700627676,
+        "rank": 36,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "周深霓虹甜心直拍",
+        "onboard_time": 1700641416,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148182,
+        "num": 148182,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 145776,
+        "num": 145776,
+        "word": "苏有朋回复舒淇",
+        "onboard_time": 1700636555,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145265,
+        "num": 145265,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132070,
+        "num": 132070,
+        "word": "美甲的尽头是裸色吗",
+        "onboard_time": 1700634752,
+        "rank": 41,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 130133,
+        "num": 130133,
+        "word": "offer5最后的黑板是这么用的",
+        "onboard_time": 1700641358,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124087,
+        "num": 124087,
+        "word": "曾舜晞迷失情感迷宫手势舞",
+        "onboard_time": 1700640634,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121026,
+        "num": 121026,
+        "word": "王睡睡 具象的心灰意冷",
+        "onboard_time": 1700637698,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120066,
+        "num": 120066,
+        "word": "柳智敏将出演网飞综艺",
+        "onboard_time": 1700634812,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116096,
+        "num": 116096,
+        "word": "比年轻人更爱踢球的老年人",
+        "onboard_time": 1700642015,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108651,
+        "num": 108651,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 47,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 107788,
+        "num": 107788,
+        "word": "Deft发文告别DK",
+        "onboard_time": 1700639556,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106263,
+        "num": 106263,
+        "word": "杨超越珍珠贴面妆",
+        "onboard_time": 1700638356,
+        "rank": 49,
+        "category": "剧集,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖国家发出正义之声和平之声非常必要#"
+    }
+  }
+}

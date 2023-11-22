@@ -1,10 +1,10 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700641369001,
+  "endTime": 1700642178118,
   "band_list": [
     {
-      "raw_hot": 4088394,
-      "num": 4088394,
+      "raw_hot": 4955128,
+      "num": 4955128,
       "word": "发烧",
       "onboard_time": 1700636252,
       "rank": 4,
@@ -115,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1119325,
+      "num": 1119325,
+      "word": "余华 人和人交往尽量少说话",
+      "onboard_time": 1700637815,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1034896,
       "num": 1034896,
       "word": "民警怒吼十几万不是从天上掉下来的",
       "onboard_time": 1700585662,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957874,
-      "num": 957874,
-      "word": "余华 人和人交往尽量少说话",
-      "onboard_time": 1700637815,
-      "rank": 32,
-      "category": "读书作家"
     },
     {
       "raw_hot": 937640,
@@ -139,28 +139,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 893913,
-      "num": 893913,
-      "word": "17岁姑姑打6个月零工送小侄子金镯",
-      "onboard_time": 1700609909,
+      "raw_hot": 934528,
+      "num": 934528,
+      "word": "波司登13%收入来自于贴牌加工",
+      "onboard_time": 1700639733,
       "rank": 5,
-      "category": "社会新闻"
+      "category": "时尚,财经"
     },
     {
-      "raw_hot": 888166,
-      "num": 888166,
+      "raw_hot": 899641,
+      "num": 899641,
       "word": "迪丽热巴独自在车上考试",
       "onboard_time": 1700636193,
       "rank": 20,
       "category": "综艺"
     },
     {
-      "raw_hot": 871655,
-      "num": 871655,
-      "word": "波司登13%收入来自于贴牌加工",
-      "onboard_time": 1700639733,
+      "raw_hot": 893913,
+      "num": 893913,
+      "word": "17岁姑姑打6个月零工送小侄子金镯",
+      "onboard_time": 1700609909,
       "rank": 5,
-      "category": "时尚,财经"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841104,
@@ -235,6 +235,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 729378,
+      "num": 729378,
+      "word": "EDG 韩援",
+      "onboard_time": 1700640757,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 727234,
       "num": 727234,
       "word": "王睡睡脱下校服没有回头",
@@ -275,12 +283,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 631861,
-      "num": 201294,
-      "word": "EDG 韩援",
-      "onboard_time": 1700640757,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 630303,
+      "num": 630303,
+      "word": "罗云熙晒与宋茜合照",
+      "onboard_time": 1700640456,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 623027,
@@ -291,20 +299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 622591,
-      "num": 622591,
-      "word": "罗云熙晒与宋茜合照",
-      "onboard_time": 1700640456,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 621570,
       "num": 621570,
       "word": "迪丽热巴想把秦岚保护起来",
       "onboard_time": 1700631393,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594184,
+      "num": 250912,
+      "word": "第一次对淀粉肠失去兴趣",
+      "onboard_time": 1700639076,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 587606,
@@ -345,14 +353,6 @@
       "onboard_time": 1700610510,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560886,
-      "num": 250912,
-      "word": "第一次对淀粉肠失去兴趣",
-      "onboard_time": 1700639076,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 551071,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449077,
+      "num": 449077,
+      "word": "秦岚迪丽热巴拥抱",
+      "onboard_time": 1700641175,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442900,
       "num": 442900,
       "word": "巴西vs阿根廷",
@@ -587,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 382287,
+      "num": 382287,
+      "word": "亮亮丽君决定离开郑州回老家",
+      "onboard_time": 1700639917,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381484,
       "num": 381484,
       "word": "1块8毛钱的羊脂皂",
@@ -601,6 +617,14 @@
       "onboard_time": 1700636135,
       "rank": 13,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 380905,
+      "num": 380905,
+      "word": "女童光身子街头大哭老板娘一把抱回",
+      "onboard_time": 1700640395,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380023,
@@ -681,14 +705,6 @@
       "onboard_time": 1700614833,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328424,
-      "num": 328424,
-      "word": "亮亮丽君决定离开郑州回老家",
-      "onboard_time": 1700639917,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328184,
@@ -947,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230784,
+      "num": 230784,
+      "word": "曾舜晞自带私梳",
+      "onboard_time": 1700641302,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228651,
       "num": 228651,
       "word": "大学毕业在没信号的山里工作13年",
@@ -1003,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216240,
-      "num": 216240,
-      "word": "女童光身子街头大哭老板娘一把抱回",
-      "onboard_time": 1700640395,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214707,
       "num": 214707,
       "word": "老刘 我最不希望忘了你的样子",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1700614175,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206384,
-      "num": 200356,
-      "word": "秦岚迪丽热巴拥抱",
-      "onboard_time": 1700641175,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 206239,
@@ -1419,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154785,
+      "num": 154785,
+      "word": "周深霓虹甜心直拍",
+      "onboard_time": 1700641416,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153895,
       "num": 153895,
       "word": "他连续10年自费为公交座椅绑棉垫",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1700569056,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146849,
-      "num": 146849,
-      "word": "曾舜晞自带私梳",
-      "onboard_time": 1700641302,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 145097,
@@ -1652,11 +1660,19 @@
     },
     {
       "raw_hot": 117323,
-      "num": 250917,
+      "num": 267079,
       "word": "火锅一开 烦恼拜拜",
       "onboard_time": 1700640276,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116096,
+      "num": 116096,
+      "word": "比年轻人更爱踢球的老年人",
+      "onboard_time": 1700642015,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115819,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1700568453,
       "rank": 26,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 106263,
+      "num": 106263,
+      "word": "杨超越珍珠贴面妆",
+      "onboard_time": 1700638356,
+      "rank": 49,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 103670,
@@ -1900,7 +1924,7 @@
     },
     {
       "raw_hot": 68329,
-      "num": 1155943,
+      "num": 1159752,
       "word": "中欧班列行驶总里程超7亿公里",
       "onboard_time": 1700639015,
       "rank": 2,
