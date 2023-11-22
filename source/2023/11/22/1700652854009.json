@@ -1,0 +1,410 @@
+{
+  "runTime": 1700652854009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383339,
+        "num": 1383339,
+        "word": "何猷君 太好了你没病病",
+        "onboard_time": 1700650774,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353381,
+        "num": 1211152,
+        "word": "落霞与孤鹜齐飞有多美",
+        "onboard_time": 1700639794,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 41142,
+        "num": 1175300,
+        "word": "中欧班列行驶总里程超7亿公里",
+        "onboard_time": 1700639015,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150933,
+        "num": 1150933,
+        "word": "五大变四大",
+        "onboard_time": 1700643217,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 150375,
+        "num": 1126983,
+        "word": "更适合00后的锦旗已出现",
+        "onboard_time": 1700646996,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106613,
+        "num": 1106613,
+        "word": "2024考研438万人报名",
+        "onboard_time": 1700651076,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137517,
+        "num": 1043305,
+        "word": "婴儿高烧抽搐消防车秒变救护车",
+        "onboard_time": 1700645739,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991711,
+        "num": 991711,
+        "word": "闲鱼大量封号",
+        "onboard_time": 1700650656,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 509645,
+        "num": 509645,
+        "word": "颜宁当选中国科学院院士",
+        "onboard_time": 1700645200,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498960,
+        "num": 498960,
+        "word": "纸嫁衣鸳鸯债 拍摄过审",
+        "onboard_time": 1700651135,
+        "rank": 9,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 1629758,
+        "num": 495891,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 10,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1437509,
+        "num": 492313,
+        "word": "张一鸣或成为中国第一个世界首富",
+        "onboard_time": 1700648254,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1371683,
+        "num": 490322,
+        "word": "董岩磊 230斤",
+        "onboard_time": 1700649932,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1118767,
+        "num": 483618,
+        "word": "金莎爸爸辣评女儿恋情",
+        "onboard_time": 1700650958,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482790,
+        "num": 482790,
+        "word": "考研人数",
+        "onboard_time": 1700652098,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 439349,
+        "num": 439349,
+        "word": "周一围的爱设置了仅朱丹可见",
+        "onboard_time": 1700647235,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425957,
+        "num": 425957,
+        "word": "她怎么会不想上学呢",
+        "onboard_time": 1700647835,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416764,
+        "num": 416764,
+        "word": "时尚集团声明",
+        "onboard_time": 1700649698,
+        "rank": 17,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 349279,
+        "num": 349279,
+        "word": "胡先煦 迪丽姐美了吧",
+        "onboard_time": 1700642374,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304132,
+        "num": 304132,
+        "word": "红绿灯的黄",
+        "onboard_time": 1700634632,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 298720,
+        "num": 298720,
+        "word": "大马丁 阿根廷的英雄主义",
+        "onboard_time": 1700649156,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288138,
+        "num": 288138,
+        "word": "声生不息",
+        "onboard_time": 1700647115,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276391,
+        "num": 276391,
+        "word": "heerina嗑到了",
+        "onboard_time": 1700650774,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260323,
+        "num": 260323,
+        "word": "泰国主帅因输国足下课",
+        "onboard_time": 1700647956,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255307,
+        "num": 255307,
+        "word": "青春环游记第五季正在筹备中",
+        "onboard_time": 1700652033,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230362,
+        "num": 230362,
+        "word": "infp天选职业",
+        "onboard_time": 1700649156,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218788,
+        "num": 218788,
+        "word": "发烧是免疫系统杀疯了",
+        "onboard_time": 1700644362,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202833,
+        "num": 202833,
+        "word": "秦岚朵辣",
+        "onboard_time": 1700649215,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202471,
+        "num": 202471,
+        "word": "第一次对淀粉肠失去兴趣",
+        "onboard_time": 1700639076,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194676,
+        "num": 194676,
+        "word": "余华 人和人交往尽量少说话",
+        "onboard_time": 1700637815,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 303137,
+        "num": 191836,
+        "word": "父亲回应颜宁当选中国科学院院士",
+        "onboard_time": 1700652098,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187657,
+        "num": 187657,
+        "word": "时尚COSMO停刊",
+        "onboard_time": 1700643459,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "王者美少女战士联名",
+        "onboard_time": 1700650594,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178681,
+        "num": 178681,
+        "word": "王睡睡脱下校服没有回头",
+        "onboard_time": 1700633973,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175522,
+        "num": 175522,
+        "word": "EDG 韩援",
+        "onboard_time": 1700640757,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173971,
+        "num": 173971,
+        "word": "女童被安排收拾全班餐具20天遭开除",
+        "onboard_time": 1700642974,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167757,
+        "num": 167757,
+        "word": "陪大熊猫走过生命最后一程",
+        "onboard_time": 1700649814,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166208,
+        "num": 166208,
+        "word": "与凤行上星",
+        "onboard_time": 1700642195,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160383,
+        "num": 160383,
+        "word": "金莎 欢迎找我演妈妈",
+        "onboard_time": 1700651617,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155264,
+        "num": 155264,
+        "word": "即刻生效",
+        "onboard_time": 1700643760,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 155054,
+        "num": 155054,
+        "word": "外婆称羽生结弦现在吃不下饭",
+        "onboard_time": 1700631455,
+        "rank": 40,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 147835,
+        "num": 155053,
+        "word": "杨紫斜刘海黑框眼镜",
+        "onboard_time": 1700644119,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131756,
+        "num": 155047,
+        "word": "田柾国发文将12月入伍",
+        "onboard_time": 1700645856,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131189,
+        "num": 155044,
+        "word": "吗喽穿搭",
+        "onboard_time": 1700648135,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128562,
+        "num": 155036,
+        "word": "老刘 黛玉焚稿",
+        "onboard_time": 1700644059,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127171,
+        "num": 155033,
+        "word": "防弹少年团 2025年完整体重聚",
+        "onboard_time": 1700647775,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124320,
+        "num": 155028,
+        "word": "波司登13%收入来自于贴牌加工",
+        "onboard_time": 1700639733,
+        "rank": 46,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 122051,
+        "num": 155025,
+        "word": "秦岚迪丽热巴拥抱",
+        "onboard_time": 1700641175,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118675,
+        "num": 155017,
+        "word": "王嘉尔北京演唱会官宣",
+        "onboard_time": 1700647899,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109111,
+        "num": 155013,
+        "word": "王睡睡张硕36问",
+        "onboard_time": 1700631754,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面深化改革和扩大开放#"
+    }
+  }
+}
