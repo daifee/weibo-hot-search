@@ -1,0 +1,410 @@
+{
+  "runTime": 1700623151016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2271130,
+        "num": 2271130,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1690972,
+        "num": 1690972,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132837,
+        "num": 1348365,
+        "word": "英雄回家",
+        "onboard_time": 1700571161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1201311,
+        "num": 1201311,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 824188,
+        "num": 824188,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652869,
+        "num": 652869,
+        "word": "名侦探学院7官宣定档",
+        "onboard_time": 1700622814,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650886,
+        "num": 650886,
+        "word": "一闪一闪亮星星定档预告",
+        "onboard_time": 1700622093,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 560695,
+        "num": 560695,
+        "word": "我有能力考研但没能力读研",
+        "onboard_time": 1700616392,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 544929,
+        "num": 544929,
+        "word": "巴西0比1阿根廷",
+        "onboard_time": 1700622212,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496991,
+        "num": 496991,
+        "word": "赵昭仪冷脸爆改冰雨火",
+        "onboard_time": 1700622155,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470233,
+        "num": 470233,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 10,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 450847,
+        "num": 450847,
+        "word": "17岁姑姑打6个月零工送小侄子金镯",
+        "onboard_time": 1700609909,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449962,
+        "num": 449962,
+        "word": "唐代人离婚不是理想化的一别两宽",
+        "onboard_time": 1700616811,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 395318,
+        "num": 395318,
+        "word": "哈马斯释放50名妇女儿童换4天停火",
+        "onboard_time": 1700619152,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361754,
+        "num": 361754,
+        "word": "BLACKPINK出席白金汉宫宴会",
+        "onboard_time": 1700610389,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338989,
+        "num": 338989,
+        "word": "杨幂王子奇同框",
+        "onboard_time": 1700619452,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312775,
+        "num": 312775,
+        "word": "3类牙膏被列入致癌黑名单",
+        "onboard_time": 1700607923,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232329,
+        "num": 301541,
+        "word": "小雪 宜吃火锅",
+        "onboard_time": 1700620472,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291289,
+        "num": 291289,
+        "word": "被正式确诊为脆皮打工人",
+        "onboard_time": 1700620472,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279548,
+        "num": 279548,
+        "word": "TFBOYS十周年演唱会登阿里财报",
+        "onboard_time": 1700613938,
+        "rank": 19,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 1101264,
+        "num": 279388,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569261,
+        "num": 278995,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 277369,
+        "num": 277369,
+        "word": "安徽省高考状元参加脑力综艺",
+        "onboard_time": 1700622332,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273941,
+        "num": 273941,
+        "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+        "onboard_time": 1700617053,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266083,
+        "num": 266083,
+        "word": "夏奇拉逃税超1亿被罚5700万",
+        "onboard_time": 1700618195,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265094,
+        "num": 265094,
+        "word": "合胞病毒",
+        "onboard_time": 1700608282,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253254,
+        "num": 253254,
+        "word": "以色列内阁同意与哈马斯临时停火",
+        "onboard_time": 1700620172,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 234462,
+        "num": 234462,
+        "word": "秦海璐拍到了岩石里开出的花",
+        "onboard_time": 1700621190,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211971,
+        "num": 211971,
+        "word": "BLACKPINK合体的方式",
+        "onboard_time": 1700620712,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208098,
+        "num": 208098,
+        "word": "洪胜汉将无限期中断活动",
+        "onboard_time": 1700615316,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197302,
+        "num": 197302,
+        "word": "七夜雪首发剧照",
+        "onboard_time": 1700621852,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195069,
+        "num": 195069,
+        "word": "五月天演唱会跨年倒计时",
+        "onboard_time": 1700620114,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189405,
+        "num": 189405,
+        "word": "易建联球衣球迷劝架",
+        "onboard_time": 1700621132,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185929,
+        "num": 185929,
+        "word": "斗鱼股价已跌去超9成",
+        "onboard_time": 1700612016,
+        "rank": 33,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 177611,
+        "num": 177611,
+        "word": "吾凰在上杀青",
+        "onboard_time": 1700614894,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174111,
+        "num": 174111,
+        "word": "RIIZE删除洪胜汉物料",
+        "onboard_time": 1700619391,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173925,
+        "num": 173925,
+        "word": "巴西vs阿根廷",
+        "onboard_time": 1700612133,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156668,
+        "num": 156668,
+        "word": "ChatGPT崩了",
+        "onboard_time": 1700618492,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148933,
+        "num": 148933,
+        "word": "巴西阿根廷比赛推迟",
+        "onboard_time": 1700617651,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147954,
+        "num": 147954,
+        "word": "村集体收租1.6亿安排老人出国游",
+        "onboard_time": 1700610510,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147552,
+        "num": 147552,
+        "word": "杨幂粉黑棒球服",
+        "onboard_time": 1700622575,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 144894,
+        "word": "33岁父亲割肝救9月龄女儿",
+        "onboard_time": 1700613757,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139525,
+        "num": 139525,
+        "word": "乔林顿红牌",
+        "onboard_time": 1700622933,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130660,
+        "num": 130660,
+        "word": "小雪",
+        "onboard_time": 1700607982,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "你最贵的羽绒服多少钱",
+        "onboard_time": 1700620953,
+        "rank": 44,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 125828,
+        "num": 125828,
+        "word": "五保户在银行存一万变保险退保亏3500",
+        "onboard_time": 1700617053,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117400,
+        "num": 125826,
+        "word": "崔琳是李嶷唯一认定的太子妃",
+        "onboard_time": 1700619570,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113530,
+        "num": 125825,
+        "word": "迪丽热巴弹钢琴旧照",
+        "onboard_time": 1700614535,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111880,
+        "num": 125823,
+        "word": "RIIZE将以6人组活动",
+        "onboard_time": 1700615316,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111722,
+        "num": 125820,
+        "word": "小雪是冬季第2个节气",
+        "onboard_time": 1700616094,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动停火止战实现持久和平安全#"
+    }
+  }
+}
