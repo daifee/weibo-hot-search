@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700666281168,
+  "endTime": 1700667283519,
   "band_list": [
     {
       "raw_hot": 8204738,
@@ -139,6 +139,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 1556320,
+      "num": 673173,
+      "word": "文春曝羽生结弦离婚原因",
+      "onboard_time": 1700656172,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1533806,
       "num": 565142,
       "word": "董岩磊 230斤",
@@ -193,14 +201,6 @@
       "onboard_time": 1700645200,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1259823,
-      "num": 607225,
-      "word": "文春曝羽生结弦离婚原因",
-      "onboard_time": 1700656172,
-      "rank": 3,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1258342,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 627403,
+      "num": 627403,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 623027,
       "num": 623027,
       "word": "迪丽热巴当导游",
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 596085,
-      "num": 596085,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 594184,
       "num": 314070,
       "word": "第一次对淀粉肠失去兴趣",
@@ -545,6 +545,14 @@
       "onboard_time": 1700649698,
       "rank": 8,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 588777,
+      "num": 588777,
+      "word": "0713 没听说",
+      "onboard_time": 1700665779,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 587606,
@@ -593,14 +601,6 @@
       "onboard_time": 1700647115,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 574293,
-      "num": 574293,
-      "word": "0713 没听说",
-      "onboard_time": 1700665779,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 569262,
@@ -761,6 +761,14 @@
       "onboard_time": 1700607982,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485378,
+      "num": 329208,
+      "word": "开心消消乐程序员回来加班",
+      "onboard_time": 1700666496,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 482790,
@@ -1027,6 +1035,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 381060,
+      "num": 381060,
+      "word": "中植集团致歉",
+      "onboard_time": 1700666496,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 380617,
       "num": 380617,
       "word": "女童被安排收拾全班餐具20天遭开除",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1700619452,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349243,
+      "num": 188858,
+      "word": "T1老板透露Canyon加入GEN",
+      "onboard_time": 1700666496,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 348930,
@@ -1267,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300207,
+      "num": 300207,
+      "word": "花少 当导游前vs当导游后",
+      "onboard_time": 1700666855,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300150,
       "num": 300150,
       "word": "全红婵全锦赛亚军",
@@ -1371,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273972,
+      "num": 273972,
+      "word": "鸟鸟 北方的city过年很难walk",
+      "onboard_time": 1700666673,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273470,
       "num": 266817,
       "word": "王睡睡终于攒够了失望",
@@ -1403,6 +1443,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 269833,
+      "num": 269833,
+      "word": "i人错过",
+      "onboard_time": 1700665419,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268438,
       "num": 268438,
       "word": "吴世勋视频通话",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1700611413,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257194,
-      "num": 257194,
-      "word": "i人错过",
-      "onboard_time": 1700665419,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 255307,
@@ -2195,6 +2235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173618,
+      "num": 377808,
+      "word": "波司登为何能卖千元以上",
+      "onboard_time": 1700664098,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 173523,
       "num": 173523,
       "word": "檀健次给新剧唱了6首歌",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1700660976,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167872,
+      "num": 167872,
+      "word": "孩子看一次可以管一个月",
+      "onboard_time": 1700666496,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 167757,
@@ -2467,14 +2523,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 142305,
-      "num": 377808,
-      "word": "波司登为何能卖千元以上",
-      "onboard_time": 1700664098,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 141026,
       "num": 141026,
       "word": "逛英国快200年的药妆店",
@@ -2539,6 +2587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136214,
+      "num": 136214,
+      "word": "中植披露资不抵债逾2000亿元",
+      "onboard_time": 1700666796,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 134260,
+      "num": 134260,
+      "word": "海南警方 缉犯犀牌号子服",
+      "onboard_time": 1700665298,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134028,
       "num": 134028,
       "word": "offer5最后的黑板是这么用的",
@@ -2579,14 +2643,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 129603,
-      "num": 129603,
-      "word": "海南警方 缉犯犀牌号子服",
-      "onboard_time": 1700665298,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129321,
       "num": 161495,
       "word": "以爱为营点映礼",
@@ -2601,6 +2657,14 @@
       "onboard_time": 1700638300,
       "rank": 47,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 126392,
+      "num": 126392,
+      "word": "养老院不能睡懒觉",
+      "onboard_time": 1700667033,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125055,
@@ -2785,6 +2849,14 @@
       "onboard_time": 1700616753,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111656,
+      "num": 111656,
+      "word": "徐州爆辣柴火地锅鸡",
+      "onboard_time": 1700667214,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 109892,
@@ -3149,6 +3221,9 @@
     },
     {
       "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    },
+    {
+      "word": "#习近平同乌拉圭总统会谈#"
     }
   ]
 }

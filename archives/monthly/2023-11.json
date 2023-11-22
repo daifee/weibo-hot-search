@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700666281168,
+  "endTime": 1700667283519,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2939,6 +2939,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1556320,
+      "num": 673173,
+      "word": "文春曝羽生结弦离婚原因",
+      "onboard_time": 1700656172,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1553287,
       "num": 1553287,
       "word": "网红一笑倾城停更76天后更新",
@@ -4057,14 +4065,6 @@
       "onboard_time": 1699625316,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1259823,
-      "num": 607225,
-      "word": "文春曝羽生结弦离婚原因",
-      "onboard_time": 1700656172,
-      "rank": 3,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1259686,
@@ -10835,6 +10835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 627403,
+      "num": 627403,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 626465,
       "num": 626465,
       "word": "安踏回应ANTA是拼音还是英文",
@@ -11699,14 +11707,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 596085,
-      "num": 596085,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 596081,
       "num": 352555,
       "word": "康师傅回应涨价",
@@ -11961,6 +11961,14 @@
       "onboard_time": 1699358975,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588777,
+      "num": 588777,
+      "word": "0713 没听说",
+      "onboard_time": 1700665779,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 588645,
@@ -12281,14 +12289,6 @@
       "onboard_time": 1699347695,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 574293,
-      "num": 574293,
-      "word": "0713 没听说",
-      "onboard_time": 1700665779,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 574046,
@@ -15033,6 +15033,14 @@
       "onboard_time": 1700219373,
       "rank": 22,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 485378,
+      "num": 329208,
+      "word": "开心消消乐程序员回来加班",
+      "onboard_time": 1700666496,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 485312,
@@ -19875,6 +19883,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 381060,
+      "num": 381060,
+      "word": "中植集团致歉",
+      "onboard_time": 1700666496,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381057,
       "num": 380269,
       "word": "赵丽颖美人肩",
@@ -21801,6 +21817,14 @@
       "onboard_time": 1700225556,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 349243,
+      "num": 188858,
+      "word": "T1老板透露Canyon加入GEN",
+      "onboard_time": 1700666496,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 349230,
@@ -25051,6 +25075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300207,
+      "num": 300207,
+      "word": "花少 当导游前vs当导游后",
+      "onboard_time": 1700666855,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300150,
       "num": 300150,
       "word": "全红婵全锦赛亚军",
@@ -27307,6 +27339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273972,
+      "num": 273972,
+      "word": "鸟鸟 北方的city过年很难walk",
+      "onboard_time": 1700666673,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273966,
       "num": 273966,
       "word": "藿藿角色PV",
@@ -27817,6 +27857,14 @@
       "onboard_time": 1700105320,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269833,
+      "num": 269833,
+      "word": "i人错过",
+      "onboard_time": 1700665419,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 269828,
@@ -29009,14 +29057,6 @@
       "onboard_time": 1699887514,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257194,
-      "num": 257194,
-      "word": "i人错过",
-      "onboard_time": 1700665419,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 257100,
@@ -43403,6 +43443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173618,
+      "num": 377808,
+      "word": "波司登为何能卖千元以上",
+      "onboard_time": 1700664098,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 173606,
       "num": 173606,
       "word": "秦海璐 花少梗王",
@@ -44521,6 +44569,14 @@
       "onboard_time": 1700374769,
       "rank": 45,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 167872,
+      "num": 167872,
+      "word": "孩子看一次可以管一个月",
+      "onboard_time": 1700666496,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 167838,
@@ -49595,14 +49651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142305,
-      "num": 377808,
-      "word": "波司登为何能卖千元以上",
-      "onboard_time": 1700664098,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 142220,
       "num": 142220,
       "word": "冰岛近期或有较大规模地震和火山喷发",
@@ -50755,6 +50803,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 136214,
+      "num": 136214,
+      "word": "中植披露资不抵债逾2000亿元",
+      "onboard_time": 1700666796,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136213,
       "num": 142356,
       "word": "听董宇辉怎么描述板栗",
@@ -51097,6 +51153,14 @@
       "onboard_time": 1699272333,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134260,
+      "num": 134260,
+      "word": "海南警方 缉犯犀牌号子服",
+      "onboard_time": 1700665298,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134254,
@@ -52219,14 +52283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129603,
-      "num": 129603,
-      "word": "海南警方 缉犯犀牌号子服",
-      "onboard_time": 1700665298,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129549,
       "num": 129549,
       "word": "英伟达",
@@ -52848,6 +52904,14 @@
       "word": "萨摩唉秒变萨摩耶",
       "onboard_time": 1700485532,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126392,
+      "num": 126392,
+      "word": "养老院不能睡懒觉",
+      "onboard_time": 1700667033,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -55457,6 +55521,14 @@
       "onboard_time": 1700278291,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111656,
+      "num": 111656,
+      "word": "徐州爆辣柴火地锅鸡",
+      "onboard_time": 1700667214,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 111651,
@@ -61684,6 +61756,9 @@
     },
     {
       "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    },
+    {
+      "word": "#习近平同乌拉圭总统会谈#"
     }
   ]
 }
