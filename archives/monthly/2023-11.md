@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 13:17:37
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 13:34:22
 </p>
 </blockquote>
 <p>
@@ -1005,6 +1005,12 @@ SpaceX星舰第二次试飞（热度：2149339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B%23" target="weibo">
+小杨哥徒弟被消协列入低俗带货案例（热度：2133263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%23" target="weibo">
 新冠（热度：2132235）
 </a>
@@ -1157,12 +1163,6 @@ ELLE红毯（热度：2062330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%88%91%E5%8D%96%E8%B4%A7%E5%B0%B1%E8%BF%99%E8%84%BE%E6%B0%94%23" target="weibo">
 薛之谦 我卖货就这脾气（热度：2053783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BE%92%E5%BC%9F%E8%A2%AB%E6%B6%88%E5%8D%8F%E5%88%97%E5%85%A5%E4%BD%8E%E4%BF%97%E5%B8%A6%E8%B4%A7%E6%A1%88%E4%BE%8B%23" target="weibo">
-小杨哥徒弟被消协列入低俗带货案例（热度：2051954）
 </a>
 </li>
 

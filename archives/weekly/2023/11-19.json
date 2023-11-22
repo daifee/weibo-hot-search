@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700630257095,
+  "endTime": 1700631262531,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2133263,
+      "num": 2133263,
+      "word": "小杨哥徒弟被消协列入低俗带货案例",
+      "onboard_time": 1700628338,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2100227,
       "num": 2100227,
       "word": "韩国顶级明星涉嫌偷税漏税",
@@ -289,14 +297,6 @@
       "onboard_time": 1700469395,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2051954,
-      "num": 2051954,
-      "word": "小杨哥徒弟被消协列入低俗带货案例",
-      "onboard_time": 1700628338,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2045586,
@@ -3059,6 +3059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 365692,
+      "num": 365692,
+      "word": "直播间卖爆的羽绒服都是谁在买",
+      "onboard_time": 1700629776,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 365557,
       "num": 365557,
       "word": "Rekkles或将加入T1二队",
@@ -4139,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274326,
+      "num": 274326,
+      "word": "肺炎支原体已非儿科就诊首因",
+      "onboard_time": 1700625573,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 273177,
       "num": 273177,
       "word": "江苏无锡一纺织厂起火致7人死亡",
@@ -4201,14 +4217,6 @@
       "onboard_time": 1700383172,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 270426,
-      "num": 268858,
-      "word": "肺炎支原体已非儿科就诊首因",
-      "onboard_time": 1700625573,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 270125,
@@ -4859,6 +4867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238178,
+      "num": 229594,
+      "word": "gap year后无法正常工作",
+      "onboard_time": 1700630913,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238045,
       "num": 238045,
       "word": "Keep 盗墓笔记",
@@ -4912,6 +4928,14 @@
       "word": "娜扎新剧素颜",
       "onboard_time": 1700405976,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234991,
+      "num": 234991,
+      "word": "王鸥新剧羊毛卷",
+      "onboard_time": 1700630673,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -5075,6 +5099,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 226256,
+      "num": 226256,
+      "word": "花儿与少年",
+      "onboard_time": 1700630793,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226182,
       "num": 226182,
       "word": "咱这妆只可远观",
@@ -5097,14 +5129,6 @@
       "onboard_time": 1700320298,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 225246,
-      "num": 225246,
-      "word": "直播间卖爆的羽绒服都是谁在买",
-      "onboard_time": 1700629776,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 225106,
@@ -5313,6 +5337,14 @@
       "onboard_time": 1700389174,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217713,
+      "num": 217713,
+      "word": "腹膜外剖腹产",
+      "onboard_time": 1700630977,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217568,
@@ -6387,6 +6419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187985,
+      "num": 121215,
+      "word": "陈某杰涉嫌开设赌场罪被逮捕",
+      "onboard_time": 1700630673,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187738,
       "num": 187738,
       "word": "勇士 主场哨",
@@ -6819,6 +6859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174505,
+      "num": 174505,
+      "word": "为何脂肪肝会缠上年轻人",
+      "onboard_time": 1700628819,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174389,
       "num": 174389,
       "word": "陈林坚交通意外",
@@ -6856,6 +6904,14 @@
       "word": "快乐老友记天台直播",
       "onboard_time": 1700496749,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172833,
+      "num": 172833,
+      "word": "盛典版 换乘恋爱",
+      "onboard_time": 1700630136,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -7017,14 +7073,6 @@
       "onboard_time": 1700483674,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166384,
-      "num": 166384,
-      "word": "为何脂肪肝会缠上年轻人",
-      "onboard_time": 1700628819,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 166052,
@@ -7273,6 +7321,14 @@
       "onboard_time": 1700627739,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158218,
+      "num": 158218,
+      "word": "美依礼芽新歌铃兰",
+      "onboard_time": 1700630194,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 158168,
@@ -8307,14 +8363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128088,
-      "num": 128088,
-      "word": "盛典版 换乘恋爱",
-      "onboard_time": 1700630136,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127134,
       "num": 127134,
       "word": "当代年轻人结婚能有多整活",
@@ -8361,14 +8409,6 @@
       "onboard_time": 1700489377,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125065,
-      "num": 125065,
-      "word": "美依礼芽新歌铃兰",
-      "onboard_time": 1700630194,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 125055,
@@ -8523,6 +8563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121354,
+      "num": 121354,
+      "word": "灌篮高手 三井寿",
+      "onboard_time": 1700630076,
+      "rank": 45,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 121150,
       "num": 121150,
       "word": "经常画画的人手有多稳",
@@ -8641,6 +8689,14 @@
       "onboard_time": 1700626835,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115192,
+      "num": 115192,
+      "word": "没有内马尔的巴西",
+      "onboard_time": 1700631152,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 114432,
