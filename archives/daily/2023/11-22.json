@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700657450232,
+  "endTime": 1700659384053,
   "band_list": [
     {
       "raw_hot": 8204738,
@@ -147,6 +147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1363062,
+      "num": 1165581,
+      "word": "文春称羽生结弦是妈宝男",
+      "onboard_time": 1700656172,
+      "rank": 19,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1305809,
       "num": 1305809,
       "word": "颜宁当选中国科学院院士",
@@ -187,14 +195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1084833,
-      "num": 1084833,
-      "word": "文春称羽生结弦是妈宝男",
-      "onboard_time": 1700656172,
-      "rank": 19,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 1034896,
       "num": 1034896,
       "word": "民警怒吼十几万不是从天上掉下来的",
@@ -209,6 +209,14 @@
       "onboard_time": 1700650656,
       "rank": 0,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 979146,
+      "num": 979146,
+      "word": "朱琳官宣结婚",
+      "onboard_time": 1700657854,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 937640,
@@ -291,6 +299,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 816656,
+      "num": 816656,
+      "word": "奚梦瑶曾因怀孕脊椎错位",
+      "onboard_time": 1700657132,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 815016,
       "num": 815016,
       "word": "危宁 龙凤胎",
@@ -329,6 +345,14 @@
       "onboard_time": 1700636135,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 736586,
+      "num": 736586,
+      "word": "24岁学英语 老师4岁了",
+      "onboard_time": 1700657194,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 729621,
@@ -417,6 +441,14 @@
       "onboard_time": 1700647235,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 635999,
+      "num": 408139,
+      "word": "张雪峰成功预言考研人数下降",
+      "onboard_time": 1700658937,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 630303,
@@ -1187,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275855,
+      "num": 275855,
+      "word": "李艾分享孩子甲流就诊经历",
+      "onboard_time": 1700658637,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274326,
       "num": 274326,
       "word": "肺炎支原体已非儿科就诊首因",
@@ -1235,8 +1275,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265163,
-      "num": 262631,
+      "raw_hot": 266817,
+      "num": 266817,
       "word": "王睡睡终于攒够了失望",
       "onboard_time": 1700655155,
       "rank": 30,
@@ -1403,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229025,
-      "num": 229025,
-      "word": "24岁学英语 老师4岁了",
-      "onboard_time": 1700657194,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 228651,
       "num": 228651,
       "word": "大学毕业在没信号的山里工作13年",
@@ -1459,12 +1491,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221987,
+      "num": 204110,
+      "word": "B太来哈尔滨先来吃一顿铁锅炖",
+      "onboard_time": 1700658458,
+      "rank": 30,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 220373,
       "num": 220373,
       "word": "BLACKPINK合体的方式",
       "onboard_time": 1700620712,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217015,
+      "num": 217015,
+      "word": "花少5的格局",
+      "onboard_time": 1700658215,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 216147,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1700608825,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214369,
+      "num": 214369,
+      "word": "沈羽洁以爱为营剧组vlog",
+      "onboard_time": 1700658274,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 213376,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1700647899,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206573,
+      "num": 206573,
+      "word": "美国网红挑战地下活埋7天",
+      "onboard_time": 1700656715,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206239,
@@ -1659,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195329,
+      "num": 195329,
+      "word": "新闻女王 职场味",
+      "onboard_time": 1700658035,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195296,
       "num": 195296,
       "word": "乔林顿红牌",
@@ -1771,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187656,
+      "num": 187656,
+      "word": "时宴 越疯越迷人",
+      "onboard_time": 1700658097,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187498,
       "num": 187498,
       "word": "张万森林北星都是22画",
@@ -1787,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185519,
-      "num": 185519,
-      "word": "奚梦瑶曾因怀孕脊椎错位",
-      "onboard_time": 1700657132,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185065,
       "num": 185065,
       "word": "狗主人带狗妈狗崽摆摊三天找狗",
@@ -1808,6 +1880,14 @@
       "word": "郑希怡 恋爱与工作要分清",
       "onboard_time": 1700642918,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184410,
+      "num": 184410,
+      "word": "古籍的医生",
+      "onboard_time": 1700658937,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1844,7 +1924,7 @@
     },
     {
       "raw_hot": 179766,
-      "num": 167672,
+      "num": 176326,
       "word": "还好谢危长嘴了",
       "onboard_time": 1700657376,
       "rank": 35,
@@ -1995,6 +2075,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159816,
+      "num": 156067,
+      "word": "董思成蓝发羽毛造型",
+      "onboard_time": 1700659116,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 159704,
+      "num": 159704,
+      "word": "天官赐福",
+      "onboard_time": 1700658820,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158871,
       "num": 158871,
       "word": "猫猫我啊 吃一堑又吃一堑了",
@@ -2033,6 +2129,14 @@
       "onboard_time": 1700646816,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155784,
+      "num": 155784,
+      "word": "SBS歌谣大战MC",
+      "onboard_time": 1700659176,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 154785,
@@ -2163,6 +2267,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 136325,
+      "num": 136325,
+      "word": "不是所有妈妈都只能当妈妈",
+      "onboard_time": 1700657974,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134028,
       "num": 134028,
       "word": "offer5最后的黑板是这么用的",
@@ -2257,6 +2369,14 @@
       "onboard_time": 1700585245,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121381,
+      "num": 121381,
+      "word": "苦难认知",
+      "onboard_time": 1700657558,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121354,
