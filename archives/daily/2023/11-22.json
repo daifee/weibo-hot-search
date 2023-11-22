@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700623151016,
+  "endTime": 1700624070269,
   "band_list": [
     {
       "raw_hot": 2468887,
@@ -83,20 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856471,
+      "num": 856471,
+      "word": "波司登平均价格已升至1600元",
+      "onboard_time": 1700622575,
+      "rank": 10,
+      "category": "时尚,财经"
+    },
+    {
+      "raw_hot": 841104,
+      "num": 841104,
+      "word": "围炉烤橘放倒母子3人",
+      "onboard_time": 1700620472,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 835497,
       "num": 835497,
       "word": "跑男元老只剩李晨和郑恺了",
       "onboard_time": 1700575841,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 824188,
-      "num": 824188,
-      "word": "围炉烤橘放倒母子3人",
-      "onboard_time": 1700620472,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806221,
@@ -251,12 +259,12 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 470233,
-      "num": 470233,
-      "word": "波司登平均价格已升至1600元",
-      "onboard_time": 1700622575,
-      "rank": 10,
-      "category": "时尚,财经"
+      "raw_hot": 463486,
+      "num": 463486,
+      "word": "安徽省高考状元参加脑力综艺",
+      "onboard_time": 1700622332,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 455750,
@@ -297,6 +305,14 @@
       "onboard_time": 1700613938,
       "rank": 13,
       "category": "演出,互联网"
+    },
+    {
+      "raw_hot": 393761,
+      "num": 393761,
+      "word": "特斯拉刹车失灵事件核心成员被判道歉",
+      "onboard_time": 1700623234,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 392994,
@@ -387,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277369,
-      "num": 277369,
-      "word": "安徽省高考状元参加脑力综艺",
-      "onboard_time": 1700622332,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 272116,
+      "num": 301541,
+      "word": "小雪 宜吃火锅",
+      "onboard_time": 1700620472,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 270125,
@@ -475,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232329,
-      "num": 301541,
-      "word": "小雪 宜吃火锅",
-      "onboard_time": 1700620472,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 227958,
       "num": 202712,
       "word": "傅首尔两万多张照片被老刘格式化了",
@@ -513,6 +521,14 @@
       "onboard_time": 1700609186,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209238,
+      "num": 209238,
+      "word": "五月天演唱会跨年倒计时",
+      "onboard_time": 1700620114,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 208604,
@@ -555,12 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195069,
-      "num": 195069,
-      "word": "五月天演唱会跨年倒计时",
-      "onboard_time": 1700620114,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 196132,
+      "num": 196132,
+      "word": "A股",
+      "onboard_time": 1700623534,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 195296,
+      "num": 195296,
+      "word": "乔林顿红牌",
+      "onboard_time": 1700622933,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 192808,
@@ -577,6 +601,14 @@
       "onboard_time": 1700616094,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190962,
+      "num": 190962,
+      "word": "很想很想你OST阵容官宣",
+      "onboard_time": 1700623775,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190482,
@@ -619,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178612,
+      "num": 178612,
+      "word": "电影水饺皇后杀青",
+      "onboard_time": 1700623775,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177699,
       "num": 177699,
       "word": "幼师将孩子小冰手放进自己衣服里",
       "onboard_time": 1700572297,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177583,
+      "num": 177583,
+      "word": "杨幂粉黑棒球服",
+      "onboard_time": 1700622575,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 175841,
@@ -649,6 +697,14 @@
       "onboard_time": 1700577877,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165144,
+      "num": 165144,
+      "word": "瞒天过海全员杀疯局",
+      "onboard_time": 1700623833,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 164129,
@@ -699,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147552,
-      "num": 147552,
-      "word": "杨幂粉黑棒球服",
-      "onboard_time": 1700622575,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147534,
       "num": 161493,
       "word": "孟子义黑色肚兜",
@@ -729,14 +777,6 @@
       "onboard_time": 1700612255,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 139525,
-      "num": 139525,
-      "word": "乔林顿红牌",
-      "onboard_time": 1700622933,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 138815,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700624070269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2195675,
+        "num": 2195675,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535106,
+        "num": 1535106,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125757,
+        "num": 1215097,
+        "word": "英雄回家",
+        "onboard_time": 1700571161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1093868,
+        "num": 1093868,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 856471,
+        "num": 856471,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 4,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 841104,
+        "num": 841104,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623363,
+        "num": 623363,
+        "word": "一闪一闪亮星星定档预告",
+        "onboard_time": 1700622093,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 503693,
+        "num": 503693,
+        "word": "名侦探学院7官宣定档",
+        "onboard_time": 1700622814,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480951,
+        "num": 480951,
+        "word": "赵昭仪冷脸爆改冰雨火",
+        "onboard_time": 1700622155,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471983,
+        "num": 471983,
+        "word": "我有能力考研但没能力读研",
+        "onboard_time": 1700616392,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 465368,
+        "num": 465368,
+        "word": "巴西0比1阿根廷",
+        "onboard_time": 1700622212,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463486,
+        "num": 463486,
+        "word": "安徽省高考状元参加脑力综艺",
+        "onboard_time": 1700622332,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393761,
+        "num": 393761,
+        "word": "特斯拉刹车失灵事件核心成员被判道歉",
+        "onboard_time": 1700623234,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 341305,
+        "num": 341305,
+        "word": "17岁姑姑打6个月零工送小侄子金镯",
+        "onboard_time": 1700609909,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318154,
+        "num": 318154,
+        "word": "哈马斯释放50名妇女儿童换4天停火",
+        "onboard_time": 1700619152,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 303262,
+        "num": 303262,
+        "word": "唐代人离婚不是理想化的一别两宽",
+        "onboard_time": 1700616811,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 299903,
+        "num": 299903,
+        "word": "TFBOYS十周年演唱会登阿里财报",
+        "onboard_time": 1700613938,
+        "rank": 16,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 290467,
+        "num": 290467,
+        "word": "杨幂王子奇同框",
+        "onboard_time": 1700619452,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287514,
+        "num": 287514,
+        "word": "BLACKPINK出席白金汉宫宴会",
+        "onboard_time": 1700610389,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263326,
+        "num": 263326,
+        "word": "被正式确诊为脆皮打工人",
+        "onboard_time": 1700620472,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 957491,
+        "num": 262139,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534095,
+        "num": 260553,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 258601,
+        "num": 258601,
+        "word": "3类牙膏被列入致癌黑名单",
+        "onboard_time": 1700607923,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230005,
+        "num": 230005,
+        "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+        "onboard_time": 1700617053,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226921,
+        "num": 226921,
+        "word": "合胞病毒",
+        "onboard_time": 1700608282,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214717,
+        "num": 214717,
+        "word": "夏奇拉逃税超1亿被罚5700万",
+        "onboard_time": 1700618195,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209238,
+        "num": 209238,
+        "word": "五月天演唱会跨年倒计时",
+        "onboard_time": 1700620114,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203953,
+        "num": 203953,
+        "word": "秦海璐拍到了岩石里开出的花",
+        "onboard_time": 1700621190,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196132,
+        "num": 196132,
+        "word": "A股",
+        "onboard_time": 1700623534,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195731,
+        "num": 195731,
+        "word": "以色列内阁同意与哈马斯临时停火",
+        "onboard_time": 1700620172,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195296,
+        "num": 195296,
+        "word": "乔林顿红牌",
+        "onboard_time": 1700622933,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190962,
+        "num": 190962,
+        "word": "很想很想你OST阵容官宣",
+        "onboard_time": 1700623775,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188409,
+        "num": 188409,
+        "word": "洪胜汉将无限期中断活动",
+        "onboard_time": 1700615316,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184300,
+        "num": 184300,
+        "word": "BLACKPINK合体的方式",
+        "onboard_time": 1700620712,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178612,
+        "num": 178612,
+        "word": "电影水饺皇后杀青",
+        "onboard_time": 1700623775,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178588,
+        "num": 178588,
+        "word": "斗鱼股价已跌去超9成",
+        "onboard_time": 1700612016,
+        "rank": 35,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 272116,
+        "num": 178562,
+        "word": "小雪 宜吃火锅",
+        "onboard_time": 1700620472,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177583,
+        "num": 177583,
+        "word": "杨幂粉黑棒球服",
+        "onboard_time": 1700622575,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174284,
+        "num": 174284,
+        "word": "七夜雪首发剧照",
+        "onboard_time": 1700621852,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165144,
+        "num": 165144,
+        "word": "瞒天过海全员杀疯局",
+        "onboard_time": 1700623833,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 163375,
+        "word": "易建联球衣球迷劝架",
+        "onboard_time": 1700621132,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157997,
+        "num": 157997,
+        "word": "吾凰在上杀青",
+        "onboard_time": 1700614894,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156511,
+        "num": 156511,
+        "word": "RIIZE删除洪胜汉物料",
+        "onboard_time": 1700619391,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131988,
+        "num": 131988,
+        "word": "ChatGPT崩了",
+        "onboard_time": 1700618492,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131400,
+        "num": 131400,
+        "word": "33岁父亲割肝救9月龄女儿",
+        "onboard_time": 1700613757,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126950,
+        "num": 126950,
+        "word": "巴西vs阿根廷",
+        "onboard_time": 1700612133,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122673,
+        "num": 122673,
+        "word": "村集体收租1.6亿安排老人出国游",
+        "onboard_time": 1700610510,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122223,
+        "num": 122223,
+        "word": "你最贵的羽绒服多少钱",
+        "onboard_time": 1700620953,
+        "rank": 47,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 109865,
+        "num": 122223,
+        "word": "RIIZE将以6人组活动",
+        "onboard_time": 1700615316,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106835,
+        "num": 122223,
+        "word": "小雪",
+        "onboard_time": 1700607982,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动停火止战实现持久和平安全#"
+    }
+  }
+}
