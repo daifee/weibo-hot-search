@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/23 02:22:40
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/23 02:35:27
 </p>
 </blockquote>
 <p>
@@ -4821,6 +4821,12 @@ BP 线权（热度：219430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23" target="weibo">
+李佳琦现身直播间辟谣双11后停播传闻（热度：215395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E6%B5%B7%E8%BE%B9%E6%BA%BA%E6%B0%B42%E5%90%8D%E8%A5%BF%E8%A3%85%E5%A4%A7%E5%93%A5%E5%86%B2%E4%B8%8B%E6%B5%B7%E6%95%91%E5%9B%9E%23" target="weibo">
 女童海边溺水2名西装大哥冲下海救回（热度：214726）
 </a>
@@ -5447,12 +5453,6 @@ Rise 请神（热度：199154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD14%E6%AF%940%E7%9B%B4%E5%B8%83%E7%BD%97%E9%99%80%23" target="weibo">
 法国14比0直布罗陀（热度：196915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23" target="weibo">
-李佳琦现身直播间辟谣双11后停播传闻（热度：196723）
 </a>
 </li>
 
