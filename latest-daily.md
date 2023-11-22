@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/23 00:23:40 ~ 2023/11/23 06:16:16
+本榜单时间：2023/11/23 00:23:40 ~ 2023/11/23 06:33:55
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
+因烂尾楼要账被打的亮亮丽君夫妇发声（热度：338408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230713%20%E6%B2%A1%E5%90%AC%E8%AF%B4%23" target="weibo">
 0713 没听说（热度：322008）
 </a>
@@ -105,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23" target="weibo">
+李佳琦现身直播间辟谣双11后停播传闻（热度：284099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23" target="weibo">
 五大变四大（热度：258007）
 </a>
@@ -117,12 +129,6 @@ T1老板透露Canyon加入GEN（热度：245513）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
-因烂尾楼要账被打的亮亮丽君夫妇发声（热度：229001）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23HYBE%E4%B8%8D%E7%BB%99hanni%E4%B8%8A%E9%9F%A9%E8%AF%AD%E8%AF%BE%23" target="weibo">
 HYBE不给hanni上韩语课（热度：223643）
 </a>
@@ -131,12 +137,6 @@ HYBE不给hanni上韩语课（热度：223643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%A4%AA%E5%A5%BD%E4%BA%86%E4%BD%A0%E6%B2%A1%E7%97%85%E7%97%85%23" target="weibo">
 何猷君 太好了你没病病（热度：220174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23" target="weibo">
-李佳琦现身直播间辟谣双11后停播传闻（热度：215395）
 </a>
 </li>
 
@@ -364,7 +364,7 @@ i人错过（热度：126012）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E8%94%AC%E8%8F%9C%E5%98%8C%E5%91%A4%E6%AF%94%E8%82%89%E8%BF%98%E9%AB%98%23" target="weibo">
-有些蔬菜嘌呤比肉还高（热度：49894）
+有些蔬菜嘌呤比肉还高（热度：63467）
 </a>
 </li>
 
@@ -400,13 +400,13 @@ B太来哈尔滨先来吃一顿铁锅炖（热度：38249）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%9B%BE%E5%9B%A0%E6%80%80%E5%AD%95%E8%84%8A%E6%A4%8E%E9%94%99%E4%BD%8D%23" target="weibo">
-奚梦瑶曾因怀孕脊椎错位（热度：22000）
+奚梦瑶曾因怀孕脊椎错位（热度：28013）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8F%88%E6%9C%89%E7%AC%91%E5%AE%B9%E4%BA%86%23" target="weibo">
-丽君终于又有笑容了（热度：20900）
+丽君终于又有笑容了（热度：23508）
 </a>
 </li>
 
@@ -418,7 +418,7 @@ B太来哈尔滨先来吃一顿铁锅炖（热度：38249）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23" target="weibo">
-接英雄回家（热度：8807）
+接英雄回家（热度：11098）
 </a>
 </li>
 

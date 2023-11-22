@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700691376327,
+  "endTime": 1700692435039,
   "band_list": [
     {
       "raw_hot": 1117247,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338408,
+      "num": 338408,
+      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+      "onboard_time": 1700679854,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322008,
       "num": 322008,
       "word": "0713 没听说",
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284099,
+      "num": 284099,
+      "word": "李佳琦现身直播间辟谣双11后停播传闻",
+      "onboard_time": 1700677157,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 258007,
       "num": 258007,
       "word": "五大变四大",
@@ -139,14 +155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229001,
-      "num": 229001,
-      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
-      "onboard_time": 1700679854,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223643,
       "num": 200322,
       "word": "HYBE不给hanni上韩语课",
@@ -161,14 +169,6 @@
       "onboard_time": 1700650774,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215395,
-      "num": 183430,
-      "word": "李佳琦现身直播间辟谣双11后停播传闻",
-      "onboard_time": 1700677157,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 202517,
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49894,
-      "num": 33415,
+      "raw_hot": 63467,
+      "num": 41056,
       "word": "有些蔬菜嘌呤比肉还高",
       "onboard_time": 1700684893,
       "rank": 47,
@@ -515,16 +515,16 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 22000,
-      "num": 26235,
+      "raw_hot": 28013,
+      "num": 28013,
       "word": "奚梦瑶曾因怀孕脊椎错位",
       "onboard_time": 1700657132,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 20900,
-      "num": 20900,
+      "raw_hot": 23508,
+      "num": 23508,
       "word": "丽君终于又有笑容了",
       "onboard_time": 1700682194,
       "rank": 30,
@@ -539,8 +539,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 8807,
-      "num": 170519,
+      "raw_hot": 11098,
+      "num": 277370,
       "word": "接英雄回家",
       "onboard_time": 1700638898,
       "rank": 2,
