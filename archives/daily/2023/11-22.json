@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700662664338,
+  "endTime": 1700663772499,
   "band_list": [
     {
       "raw_hot": 8204738,
@@ -41,6 +41,14 @@
       "onboard_time": 1700614297,
       "rank": 0,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2207493,
+      "num": 729838,
+      "word": "男子出轨被发现后开车顶撞妻女",
+      "onboard_time": 1700661097,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2149166,
@@ -179,14 +187,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1322960,
-      "num": 729838,
-      "word": "男子出轨被发现后开车顶撞妻女",
-      "onboard_time": 1700661097,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1305809,
       "num": 1305809,
       "word": "颜宁当选中国科学院院士",
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884236,
+      "num": 444528,
+      "word": "兔子曾被当做过验孕棒",
+      "onboard_time": 1700661037,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 848701,
       "num": 848701,
       "word": "邓为腿受伤",
@@ -313,6 +321,14 @@
       "onboard_time": 1700628338,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 818662,
+      "num": 818662,
+      "word": "以爱为营 婚礼",
+      "onboard_time": 1700661158,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 818132,
@@ -467,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 637171,
-      "num": 212691,
-      "word": "兔子曾被当做过验孕棒",
-      "onboard_time": 1700661037,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 630303,
       "num": 630303,
       "word": "罗云熙晒与宋茜合照",
@@ -505,14 +513,6 @@
       "onboard_time": 1700656774,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 595347,
-      "num": 279601,
-      "word": "以爱为营 婚礼",
-      "onboard_time": 1700661158,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 594184,
@@ -803,6 +803,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 451344,
+      "num": 328275,
+      "word": "HYBE不给hanni上韩语课",
+      "onboard_time": 1700661396,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449756,
       "num": 449756,
       "word": "王睡睡张硕36问",
@@ -835,6 +843,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 444623,
+      "num": 444623,
+      "word": "英雄联盟服务器",
+      "onboard_time": 1700662479,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 444207,
+      "num": 444207,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442900,
       "num": 442900,
       "word": "巴西vs阿根廷",
@@ -856,14 +880,6 @@
       "word": "BLACKPINK被英国国王点名的反应",
       "onboard_time": 1700632954,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 431586,
-      "num": 278616,
-      "word": "HYBE不给hanni上韩语课",
-      "onboard_time": 1700661396,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1067,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360693,
+      "num": 360693,
+      "word": "斥资16元在家跟儿子围炉煮茶",
+      "onboard_time": 1700660017,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 358072,
       "num": 358072,
       "word": "妈妈说妆可以再浓一点",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1700551356,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 348200,
+      "num": 320320,
+      "word": "爷爷接错孙女到家10多分钟未发现",
+      "onboard_time": 1700661097,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342177,
@@ -1123,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327249,
-      "num": 327249,
-      "word": "斥资16元在家跟儿子围炉煮茶",
-      "onboard_time": 1700660017,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 326890,
       "num": 326890,
       "word": "Faker教学两个肩颈伸展动作",
@@ -1155,12 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318038,
-      "num": 277933,
-      "word": "爷爷接错孙女到家10多分钟未发现",
-      "onboard_time": 1700661097,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 312043,
+      "num": 312043,
+      "word": "许文婷全场MVP",
+      "onboard_time": 1700662060,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 311466,
@@ -1227,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300150,
+      "num": 300150,
+      "word": "全红婵全锦赛亚军",
+      "onboard_time": 1700661579,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297436,
       "num": 297436,
       "word": "电影水饺皇后杀青",
@@ -1267,6 +1299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290935,
+      "num": 290935,
+      "word": "京剧纪念币",
+      "onboard_time": 1700663018,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 290847,
       "num": 290847,
       "word": "北京流感发病人数呈快速上升趋势",
@@ -1297,22 +1337,6 @@
       "onboard_time": 1700645317,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 280640,
-      "num": 280640,
-      "word": "许文婷全场MVP",
-      "onboard_time": 1700662060,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 277832,
-      "num": 277832,
-      "word": "全红婵全锦赛亚军",
-      "onboard_time": 1700661579,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 276320,
@@ -1547,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229122,
+      "num": 229122,
+      "word": "姜雪宁 公主请解救公主",
+      "onboard_time": 1700662479,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228651,
       "num": 228651,
       "word": "大学毕业在没信号的山里工作13年",
@@ -1771,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200602,
+      "num": 200602,
+      "word": "亮亮丽君",
+      "onboard_time": 1700662779,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200413,
       "num": 200413,
       "word": "TizzyT 抢票",
@@ -1843,14 +1883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196013,
-      "num": 196013,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195807,
       "num": 195807,
       "word": "很想很想你OST阵容官宣",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1700655515,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193970,
+      "num": 193970,
+      "word": "李斌回应负面舆论",
+      "onboard_time": 1700663497,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 193925,
@@ -2107,14 +2147,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173898,
-      "num": 173898,
-      "word": "英雄联盟服务器",
-      "onboard_time": 1700662479,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173523,
       "num": 173523,
       "word": "檀健次给新剧唱了6首歌",
@@ -2203,6 +2235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165113,
+      "num": 165113,
+      "word": "OMG对阵首尔KTRY",
+      "onboard_time": 1700662538,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164160,
       "num": 164160,
       "word": "郑秀妍新专辑",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1700651617,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159037,
+      "num": 159037,
+      "word": "市监部门回应小杨哥徒弟被中消协点名",
+      "onboard_time": 1700663437,
+      "rank": 44,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 158871,
@@ -2289,14 +2337,6 @@
       "onboard_time": 1700641416,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154770,
-      "num": 154770,
-      "word": "姜雪宁 公主请解救公主",
-      "onboard_time": 1700662479,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 153975,
@@ -2355,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144918,
+      "num": 144918,
+      "word": "百度崩了",
+      "onboard_time": 1700663678,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144611,
       "num": 144611,
       "word": "丸子头的四种扎法",
@@ -2387,20 +2435,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 140260,
-      "num": 140260,
-      "word": "OMG对阵首尔KTRY",
-      "onboard_time": 1700662538,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139901,
       "num": 139901,
       "word": "詹姆斯历史三分榜第7位",
       "onboard_time": 1700627917,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139373,
+      "num": 139373,
+      "word": "不说吃轻食了 得说吗喽饭",
+      "onboard_time": 1700663619,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 138815,
@@ -2811,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78759,
+      "num": 751655,
+      "word": "对风雪中的环卫工人说声谢谢",
+      "onboard_time": 1700662719,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77982,
       "num": 161444,
       "word": "裁判",
@@ -3010,6 +3066,9 @@
     },
     {
       "word": "#全面深化改革和扩大开放#"
+    },
+    {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700662664338,
+  "endTime": 1700663772499,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -248,6 +248,14 @@
       "word": "男子丢失30万手机女子捡到以为老年机",
       "onboard_time": 1700359350,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2207493,
+      "num": 729838,
+      "word": "男子出轨被发现后开车顶撞妻女",
+      "onboard_time": 1700661097,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -699,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1322960,
-      "num": 729838,
-      "word": "男子出轨被发现后开车顶撞妻女",
-      "onboard_time": 1700661097,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1306070,
       "num": 1306070,
       "word": "别被零封",
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884236,
+      "num": 444528,
+      "word": "兔子曾被当做过验孕棒",
+      "onboard_time": 1700661037,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 879589,
       "num": 753222,
       "word": "痞幼妆",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1700628338,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 818662,
+      "num": 818662,
+      "word": "以爱为营 婚礼",
+      "onboard_time": 1700661158,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 818132,
@@ -1787,14 +1803,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 637171,
-      "num": 212691,
-      "word": "兔子曾被当做过验孕棒",
-      "onboard_time": 1700661037,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 635912,
       "num": 635912,
       "word": "张家界遍地都是韩国人",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1700380410,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 595347,
-      "num": 279601,
-      "word": "以爱为营 婚礼",
-      "onboard_time": 1700661158,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 594988,
@@ -2923,6 +2923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451344,
+      "num": 328275,
+      "word": "HYBE不给hanni上韩语课",
+      "onboard_time": 1700661396,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450006,
       "num": 450006,
       "word": "王鹤棣看了不得高兴死",
@@ -2979,6 +2987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 444623,
+      "num": 444623,
+      "word": "英雄联盟服务器",
+      "onboard_time": 1700662479,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 444370,
       "num": 378235,
       "word": "皓衣行新图",
@@ -2993,6 +3009,14 @@
       "onboard_time": 1700401779,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 444207,
+      "num": 444207,
+      "word": "新闻女王 文慧心别骂了",
+      "onboard_time": 1700662538,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 443798,
@@ -3080,14 +3104,6 @@
       "word": "BLACKPINK被英国国王点名的反应",
       "onboard_time": 1700632954,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 431586,
-      "num": 278616,
-      "word": "HYBE不给hanni上韩语课",
-      "onboard_time": 1700661396,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3755,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360693,
+      "num": 360693,
+      "word": "斥资16元在家跟儿子围炉煮茶",
+      "onboard_time": 1700660017,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 359456,
       "num": 276456,
       "word": "TheShy世界赛BO5面对外赛区百分百胜率",
@@ -3889,6 +3913,14 @@
       "onboard_time": 1700405436,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 348200,
+      "num": 320320,
+      "word": "爷爷接错孙女到家10多分钟未发现",
+      "onboard_time": 1700661097,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346312,
@@ -4147,14 +4179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327249,
-      "num": 327249,
-      "word": "斥资16元在家跟儿子围炉煮茶",
-      "onboard_time": 1700660017,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 326890,
       "num": 326890,
       "word": "Faker教学两个肩颈伸展动作",
@@ -4267,14 +4291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318038,
-      "num": 277933,
-      "word": "爷爷接错孙女到家10多分钟未发现",
-      "onboard_time": 1700661097,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317754,
       "num": 317754,
       "word": "刘诗诗酒红束腰长裙",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1700395836,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 312043,
+      "num": 312043,
+      "word": "许文婷全场MVP",
+      "onboard_time": 1700662060,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 311791,
@@ -4563,6 +4587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300150,
+      "num": 300150,
+      "word": "全红婵全锦赛亚军",
+      "onboard_time": 1700661579,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299791,
       "num": 299791,
       "word": "吴千语施伯雄备婚",
@@ -4723,6 +4755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290935,
+      "num": 290935,
+      "word": "京剧纪念币",
+      "onboard_time": 1700663018,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 290847,
       "num": 290847,
       "word": "北京流感发病人数呈快速上升趋势",
@@ -4843,14 +4883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 280640,
-      "num": 280640,
-      "word": "许文婷全场MVP",
-      "onboard_time": 1700662060,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279837,
       "num": 279837,
       "word": "梦回S3",
@@ -4865,14 +4897,6 @@
       "onboard_time": 1700407474,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277832,
-      "num": 277832,
-      "word": "全红婵全锦赛亚军",
-      "onboard_time": 1700661579,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 277500,
@@ -5915,6 +5939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229122,
+      "num": 229122,
+      "word": "姜雪宁 公主请解救公主",
+      "onboard_time": 1700662479,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228956,
       "num": 228956,
       "word": "王铮亮又被遮挡了",
@@ -6939,6 +6971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 200602,
+      "num": 200602,
+      "word": "亮亮丽君",
+      "onboard_time": 1700662779,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200590,
       "num": 200590,
       "word": "张婧仪仿妆",
@@ -7163,14 +7203,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 196013,
-      "num": 196013,
-      "word": "新闻女王 文慧心别骂了",
-      "onboard_time": 1700662538,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195807,
       "num": 195807,
       "word": "很想很想你OST阵容官宣",
@@ -7249,6 +7281,14 @@
       "onboard_time": 1700545058,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193970,
+      "num": 193970,
+      "word": "李斌回应负面舆论",
+      "onboard_time": 1700663497,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 193925,
@@ -8043,14 +8083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173898,
-      "num": 173898,
-      "word": "英雄联盟服务器",
-      "onboard_time": 1700662479,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173783,
       "num": 173783,
       "word": "落马老虎曾突击提拔32名女干部",
@@ -8339,6 +8371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165113,
+      "num": 165113,
+      "word": "OMG对阵首尔KTRY",
+      "onboard_time": 1700662538,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165043,
       "num": 165043,
       "word": "专家称皮肤保养最重要的是好好睡觉",
@@ -8547,6 +8587,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159037,
+      "num": 159037,
+      "word": "市监部门回应小杨哥徒弟被中消协点名",
+      "onboard_time": 1700663437,
+      "rank": 44,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 158871,
       "num": 158871,
       "word": "猫猫我啊 吃一堑又吃一堑了",
@@ -8697,14 +8745,6 @@
       "onboard_time": 1700641416,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154770,
-      "num": 154770,
-      "word": "姜雪宁 公主请解救公主",
-      "onboard_time": 1700662479,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 154338,
@@ -9051,6 +9091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144918,
+      "num": 144918,
+      "word": "百度崩了",
+      "onboard_time": 1700663678,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144673,
       "num": 144673,
       "word": "大批球迷深圳机场接机韩国队",
@@ -9227,14 +9275,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 140260,
-      "num": 140260,
-      "word": "OMG对阵首尔KTRY",
-      "onboard_time": 1700662538,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140073,
       "num": 140073,
       "word": "龚俊看自己吻戏的反应",
@@ -9281,6 +9321,14 @@
       "onboard_time": 1700579735,
       "rank": 45,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 139373,
+      "num": 139373,
+      "word": "不说吃轻食了 得说吗喽饭",
+      "onboard_time": 1700663619,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 139076,
@@ -10755,6 +10803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 78759,
+      "num": 751655,
+      "word": "对风雪中的环卫工人说声谢谢",
+      "onboard_time": 1700662719,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77598,
       "num": 128259,
       "word": "美国菜特别节目",
@@ -11254,6 +11310,9 @@
     },
     {
       "word": "#全面深化改革和扩大开放#"
+    },
+    {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
     }
   ]
 }

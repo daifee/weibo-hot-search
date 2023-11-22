@@ -1,0 +1,410 @@
+{
+  "runTime": 1700663772499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1896050,
+        "num": 1896050,
+        "word": "张雪峰成功预言考研人数下降",
+        "onboard_time": 1700658937,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 818662,
+        "num": 818662,
+        "word": "以爱为营 婚礼",
+        "onboard_time": 1700661158,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78759,
+        "num": 751655,
+        "word": "对风雪中的环卫工人说声谢谢",
+        "onboard_time": 1700662719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704256,
+        "num": 704256,
+        "word": "以爱为营大结局",
+        "onboard_time": 1700655874,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620876,
+        "num": 620876,
+        "word": "24岁学英语 老师4岁了",
+        "onboard_time": 1700657194,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2207493,
+        "num": 601525,
+        "word": "男子出轨被发现后开车顶撞妻女",
+        "onboard_time": 1700661097,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320163,
+        "num": 590204,
+        "word": "迪丽热巴 我舍不得让她干累的活",
+        "onboard_time": 1700660255,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567938,
+        "num": 567938,
+        "word": "朱琳官宣结婚",
+        "onboard_time": 1700657854,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451890,
+        "num": 451890,
+        "word": "为什么没有Kim",
+        "onboard_time": 1700660738,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444623,
+        "num": 444623,
+        "word": "英雄联盟服务器",
+        "onboard_time": 1700662479,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 887537,
+        "num": 444577,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 10,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 884236,
+        "num": 444528,
+        "word": "兔子曾被当做过验孕棒",
+        "onboard_time": 1700661037,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 766784,
+        "num": 444456,
+        "word": "金莎爸爸辣评女儿恋情",
+        "onboard_time": 1700650958,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480641,
+        "num": 444332,
+        "word": "五大变四大",
+        "onboard_time": 1700643217,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 571416,
+        "num": 444253,
+        "word": "文春称羽生结弦是妈宝男",
+        "onboard_time": 1700656172,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 444207,
+        "num": 444207,
+        "word": "新闻女王 文慧心别骂了",
+        "onboard_time": 1700662538,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443491,
+        "num": 443491,
+        "word": "董岩磊 230斤",
+        "onboard_time": 1700649932,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378383,
+        "num": 378383,
+        "word": "陈芋汐全锦赛冠军",
+        "onboard_time": 1700660496,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360693,
+        "num": 360693,
+        "word": "斥资16元在家跟儿子围炉煮茶",
+        "onboard_time": 1700660017,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344152,
+        "num": 344152,
+        "word": "奚梦瑶曾因怀孕脊椎错位",
+        "onboard_time": 1700657132,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451344,
+        "num": 328275,
+        "word": "HYBE不给hanni上韩语课",
+        "onboard_time": 1700661396,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348200,
+        "num": 320320,
+        "word": "爷爷接错孙女到家10多分钟未发现",
+        "onboard_time": 1700661097,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312043,
+        "num": 312043,
+        "word": "许文婷全场MVP",
+        "onboard_time": 1700662060,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300150,
+        "num": 300150,
+        "word": "全红婵全锦赛亚军",
+        "onboard_time": 1700661579,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290935,
+        "num": 290935,
+        "word": "京剧纪念币",
+        "onboard_time": 1700663018,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 277442,
+        "num": 277442,
+        "word": "易烊千玺机场",
+        "onboard_time": 1700653595,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269810,
+        "num": 269810,
+        "word": "王艺妍妤胡明昊许文婷拿到offer",
+        "onboard_time": 1700656774,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262085,
+        "num": 262085,
+        "word": "何猷君 太好了你没病病",
+        "onboard_time": 1700650774,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229122,
+        "num": 229122,
+        "word": "姜雪宁 公主请解救公主",
+        "onboard_time": 1700662479,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218957,
+        "num": 218957,
+        "word": "爱奇艺尖叫之夜cp合体",
+        "onboard_time": 1700656237,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201442,
+        "num": 201442,
+        "word": "王睡睡终于攒够了失望",
+        "onboard_time": 1700655155,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201439,
+        "num": 201439,
+        "word": "李艾分享孩子甲流就诊经历",
+        "onboard_time": 1700658637,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201058,
+        "num": 201058,
+        "word": "闲鱼大量封号",
+        "onboard_time": 1700650656,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 200602,
+        "num": 200602,
+        "word": "亮亮丽君",
+        "onboard_time": 1700662779,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621719,
+        "num": 197660,
+        "word": "张一鸣或成为中国第一个世界首富",
+        "onboard_time": 1700648254,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193970,
+        "num": 193970,
+        "word": "李斌回应负面舆论",
+        "onboard_time": 1700663497,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181938,
+        "num": 181938,
+        "word": "张艺兴晒和宝可梦的合影",
+        "onboard_time": 1700661458,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181507,
+        "num": 181507,
+        "word": "以爱为营",
+        "onboard_time": 1700659657,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177572,
+        "num": 177572,
+        "word": "B太来哈尔滨先来吃一顿铁锅炖",
+        "onboard_time": 1700658458,
+        "rank": 38,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 172655,
+        "num": 172655,
+        "word": "父亲回应颜宁当选中国科学院院士",
+        "onboard_time": 1700652098,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170262,
+        "num": 170262,
+        "word": "SBS歌谣大战MC",
+        "onboard_time": 1700659176,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "OMG对阵首尔KTRY",
+        "onboard_time": 1700662538,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159846,
+        "num": 159846,
+        "word": "王一博小雪营业",
+        "onboard_time": 1700653117,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263674,
+        "num": 159678,
+        "word": "邓为腿受伤",
+        "onboard_time": 1700654374,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159037,
+        "num": 159037,
+        "word": "市监部门回应小杨哥徒弟被中消协点名",
+        "onboard_time": 1700663437,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 147180,
+        "num": 147180,
+        "word": "时尚COSMO改名",
+        "onboard_time": 1700655334,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144918,
+        "num": 144918,
+        "word": "百度崩了",
+        "onboard_time": 1700663678,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139373,
+        "num": 139373,
+        "word": "不说吃轻食了 得说吗喽饭",
+        "onboard_time": 1700663619,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 133586,
+        "num": 133586,
+        "word": "沈羽洁以爱为营剧组vlog",
+        "onboard_time": 1700658274,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132654,
+        "num": 132654,
+        "word": "新闻女王 职场味",
+        "onboard_time": 1700658035,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}
