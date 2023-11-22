@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/23 00:23:40 ~ 2023/11/23 04:34:44
+本榜单时间：2023/11/23 00:23:40 ~ 2023/11/23 05:15:36
 </p>
 </blockquote>
 <p>
@@ -220,7 +220,7 @@ HYBE不给hanni上韩语课（热度：223643）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
-因烂尾楼要账被打的亮亮丽君夫妇发声（热度：126475）
+因烂尾楼要账被打的亮亮丽君夫妇发声（热度：128572）
 </a>
 </li>
 
@@ -393,6 +393,12 @@ B太来哈尔滨先来吃一顿铁锅炖（热度：38249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E8%94%AC%E8%8F%9C%E5%98%8C%E5%91%A4%E6%AF%94%E8%82%89%E8%BF%98%E9%AB%98%23" target="weibo">
+有些蔬菜嘌呤比肉还高（热度：25342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%9B%BE%E5%9B%A0%E6%80%80%E5%AD%95%E8%84%8A%E6%A4%8E%E9%94%99%E4%BD%8D%23" target="weibo">
 奚梦瑶曾因怀孕脊椎错位（热度：22000）
 </a>
@@ -401,12 +407,6 @@ B太来哈尔滨先来吃一顿铁锅炖（热度：38249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8F%88%E6%9C%89%E7%AC%91%E5%AE%B9%E4%BA%86%23" target="weibo">
 丽君终于又有笑容了（热度：18314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E8%94%AC%E8%8F%9C%E5%98%8C%E5%91%A4%E6%AF%94%E8%82%89%E8%BF%98%E9%AB%98%23" target="weibo">
-有些蔬菜嘌呤比肉还高（热度：11784）
 </a>
 </li>
 
