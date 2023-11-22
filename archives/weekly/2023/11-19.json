@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700615905039,
+  "endTime": 1700617177627,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -193,6 +193,14 @@
       "onboard_time": 1700462195,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2266779,
+      "num": 2266779,
+      "word": "国产羽绒服卖到7000元",
+      "onboard_time": 1700614297,
+      "rank": 0,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2265776,
@@ -467,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1468510,
-      "num": 1468510,
-      "word": "国产羽绒服卖到7000元",
-      "onboard_time": 1700614297,
-      "rank": 0,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1435154,
       "num": 703556,
       "word": "女子花1.8万买衣服一年不发货不退款",
@@ -667,6 +667,14 @@
       "category": "电竞,社会新闻"
     },
     {
+      "raw_hot": 1174109,
+      "num": 1174109,
+      "word": "洪胜汉将无限期中断活动",
+      "onboard_time": 1700615316,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1149137,
       "num": 1144591,
       "word": "张桂梅老师学生评价我本是高山",
@@ -753,14 +761,6 @@
       "onboard_time": 1700561255,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1035399,
-      "num": 1035399,
-      "word": "洪胜汉将无限期中断活动",
-      "onboard_time": 1700615316,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1034896,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1700475872,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 795763,
+      "num": 387167,
+      "word": "曼谷街头现多名中国籍毁容乞讨者",
+      "onboard_time": 1700615911,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 787270,
@@ -2619,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392994,
+      "num": 392994,
+      "word": "RIIZE将以6人组活动",
+      "onboard_time": 1700615316,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392647,
       "num": 392647,
       "word": "白桃星座",
@@ -2811,12 +2827,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 367712,
-      "num": 367712,
-      "word": "RIIZE将以6人组活动",
-      "onboard_time": 1700615316,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 367569,
+      "num": 367569,
+      "word": "我有能力考研但没能力读研",
+      "onboard_time": 1700616392,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 365715,
@@ -3915,6 +3931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270125,
+      "num": 270125,
+      "word": "女子吃遍100家店力证杭州不是美食荒漠",
+      "onboard_time": 1700615553,
+      "rank": 26,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 269489,
       "num": 269489,
       "word": "马斯克回应ChatGPT之父被开除",
@@ -4203,6 +4227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 253705,
+      "num": 253705,
+      "word": "吾凰在上杀青",
+      "onboard_time": 1700614894,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253203,
       "num": 253203,
       "word": "许文婷心态富人",
@@ -4449,6 +4481,14 @@
       "onboard_time": 1700441853,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241398,
+      "num": 183704,
+      "word": "唐代人离婚不是理想化的一别两宽",
+      "onboard_time": 1700616811,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 241246,
@@ -4915,14 +4955,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 217935,
-      "num": 217935,
-      "word": "吾凰在上杀青",
-      "onboard_time": 1700614894,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217814,
       "num": 217814,
       "word": "丞磊挺忙的",
@@ -5009,14 +5041,6 @@
       "onboard_time": 1700448696,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214307,
-      "num": 214307,
-      "word": "女子吃遍100家店力证杭州不是美食荒漠",
-      "onboard_time": 1700615553,
-      "rank": 26,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 214264,
@@ -5771,6 +5795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192808,
+      "num": 192808,
+      "word": "热刺球迷",
+      "onboard_time": 1700616333,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192205,
       "num": 192205,
       "word": "刘耀文solo直拍混剪",
@@ -5801,6 +5833,14 @@
       "onboard_time": 1700436325,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191614,
+      "num": 191614,
+      "word": "小雪是冬季第2个节气",
+      "onboard_time": 1700616094,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191314,
@@ -5857,6 +5897,14 @@
       "onboard_time": 1700435485,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190482,
+      "num": 190482,
+      "word": "33岁父亲割肝救9月龄女儿",
+      "onboard_time": 1700613757,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189441,
@@ -6043,14 +6091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185572,
-      "num": 185572,
-      "word": "33岁父亲割肝救9月龄女儿",
-      "onboard_time": 1700613757,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185532,
       "num": 185532,
       "word": "胡先煦的闹钟叫醒的永远不是胡先煦",
@@ -6065,6 +6105,14 @@
       "onboard_time": 1700396258,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184375,
+      "num": 184375,
+      "word": "李嶷崔琳大婚",
+      "onboard_time": 1700613877,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 184185,
@@ -6347,20 +6395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173972,
+      "num": 173972,
+      "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+      "onboard_time": 1700617053,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173783,
       "num": 173783,
       "word": "落马老虎曾突击提拔32名女干部",
       "onboard_time": 1700568514,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173498,
-      "num": 173498,
-      "word": "李嶷崔琳大婚",
-      "onboard_time": 1700613877,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 173277,
@@ -7411,6 +7459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138458,
+      "num": 138458,
+      "word": "下次见杨千嬅带个孩子吧",
+      "onboard_time": 1700615973,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138411,
       "num": 138411,
       "word": "小姑娘用荷叶装饰大学路灯秒入童话世界",
@@ -7552,6 +7608,14 @@
       "word": "哈兰德厄德高无缘欧洲杯",
       "onboard_time": 1700362532,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133875,
+      "num": 133875,
+      "word": "梅西 不踢了",
+      "onboard_time": 1700617053,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -7793,6 +7857,14 @@
       "onboard_time": 1700550995,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125333,
+      "num": 125333,
+      "word": "五保户在银行存一万变保险退保亏3500",
+      "onboard_time": 1700617053,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 125257,
@@ -8113,6 +8185,14 @@
       "onboard_time": 1700545536,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111719,
+      "num": 114502,
+      "word": "感动无数网友的烧伤女孩涅槃重生",
+      "onboard_time": 1700616753,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110648,
