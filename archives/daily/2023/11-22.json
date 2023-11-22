@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700656482513,
+  "endTime": 1700657450232,
   "band_list": [
     {
       "raw_hot": 8204738,
@@ -75,6 +75,14 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 1729223,
+      "num": 1729223,
+      "word": "以爱为营大结局",
+      "onboard_time": 1700655874,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1728808,
       "num": 1728808,
       "word": "外婆称羽生结弦现在吃不下饭",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1675983,
-      "num": 518111,
+      "num": 567189,
       "word": "张一鸣或成为中国第一个世界首富",
       "onboard_time": 1700648254,
       "rank": 30,
@@ -107,16 +115,8 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 1539960,
-      "num": 1539960,
-      "word": "以爱为营大结局",
-      "onboard_time": 1700655874,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1533806,
-      "num": 490322,
+      "num": 565142,
       "word": "董岩磊 230斤",
       "onboard_time": 1700649932,
       "rank": 12,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1258342,
-      "num": 483618,
+      "num": 567205,
       "word": "金莎爸爸辣评女儿恋情",
       "onboard_time": 1700650958,
       "rank": 15,
@@ -185,6 +185,14 @@
       "onboard_time": 1700651076,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1084833,
+      "num": 1084833,
+      "word": "文春称羽生结弦是妈宝男",
+      "onboard_time": 1700656172,
+      "rank": 19,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1034896,
@@ -372,11 +380,19 @@
     },
     {
       "raw_hot": 682156,
-      "num": 433140,
+      "num": 501474,
       "word": "易烊千玺机场",
       "onboard_time": 1700653595,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 679485,
+      "num": 679485,
+      "word": "爱奇艺尖叫之夜cp合体",
+      "onboard_time": 1700656237,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 652869,
@@ -427,11 +443,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611458,
-      "num": 611458,
-      "word": "爱奇艺尖叫之夜cp合体",
-      "onboard_time": 1700656237,
-      "rank": 7,
+      "raw_hot": 618857,
+      "num": 618857,
+      "word": "王艺妍妤胡明昊许文婷拿到offer",
+      "onboard_time": 1700656774,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1155,14 +1171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 282690,
-      "num": 282690,
-      "word": "文春称羽生结弦是妈宝男",
-      "onboard_time": 1700656172,
-      "rank": 19,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 280851,
       "num": 280851,
       "word": "Viper更换悠米头像",
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 265163,
-      "num": 195046,
+      "num": 262631,
       "word": "王睡睡终于攒够了失望",
       "onboard_time": 1700655155,
       "rank": 30,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1700641302,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229025,
+      "num": 229025,
+      "word": "24岁学英语 老师4岁了",
+      "onboard_time": 1700657194,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 228651,
@@ -1667,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193020,
+      "num": 190592,
+      "word": "西游记新切入点",
+      "onboard_time": 1700656296,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192808,
       "num": 192808,
       "word": "热刺球迷",
@@ -1763,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185519,
+      "num": 185519,
+      "word": "奚梦瑶曾因怀孕脊椎错位",
+      "onboard_time": 1700657132,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185065,
       "num": 185065,
       "word": "狗主人带狗妈狗崽摆摊三天找狗",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1700644780,
       "rank": 35,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 179766,
+      "num": 167672,
+      "word": "还好谢危长嘴了",
+      "onboard_time": 1700657376,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 177699,
@@ -1929,14 +1969,6 @@
       "onboard_time": 1700620953,
       "rank": 30,
       "category": "时尚,财经"
-    },
-    {
-      "raw_hot": 163744,
-      "num": 163744,
-      "word": "西游记新切入点",
-      "onboard_time": 1700656296,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 161919,
@@ -2563,20 +2595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67582,
+      "num": 1053089,
+      "word": "接英雄回家",
+      "onboard_time": 1700638898,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65953,
       "num": 77727,
       "word": "青枫哭了",
       "onboard_time": 1700609246,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 65431,
-      "num": 1053089,
-      "word": "接英雄回家",
-      "onboard_time": 1700638898,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64932,
