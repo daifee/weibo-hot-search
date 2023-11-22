@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 18:20:40
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 18:38:38
 </p>
 </blockquote>
 <p>
@@ -2477,6 +2477,12 @@ SpaceX与星舰助推器失去联系（热度：1473564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E5%85%A8%E5%A4%A9%E5%B7%A5%E4%BD%9C6%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
 网友吐槽政务大厅全天工作6个小时（热度：1448748）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E9%B8%A3%E6%88%96%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%23" target="weibo">
+张一鸣或成为中国第一个世界首富（热度：1439701）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG 我们每个人都有不得不赢的理由（热度：770830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%BB%AD%E6%8E%90%E7%82%B9%E6%80%80%E5%AD%95%E9%80%83%E9%81%BF%E5%88%91%E7%BD%9A%23" target="weibo">
 女子连续掐点怀孕逃避刑罚（热度：769323）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
-T1半决赛先下一城（热度：768660）
 </a>
 </li>
 
