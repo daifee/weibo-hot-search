@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700609675525,
+  "endTime": 1700615905039,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -921,6 +921,14 @@
       "onboard_time": 1699687411,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2468887,
+      "num": 462549,
+      "word": "奚梦瑶 生孩子不痛",
+      "onboard_time": 1700610933,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2464183,
@@ -3131,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1468510,
+      "num": 1468510,
+      "word": "国产羽绒服卖到7000元",
+      "onboard_time": 1700614297,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1466295,
       "num": 406648,
       "word": "李连杰",
@@ -3315,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1392131,
+      "num": 1392131,
+      "word": "BLACKPINK出席白金汉宫宴会",
+      "onboard_time": 1700610389,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1389881,
       "num": 1389881,
       "word": "裁判",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1699152993,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1382930,
+      "num": 1382930,
+      "word": "合胞病毒",
+      "onboard_time": 1700608282,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1381350,
@@ -5139,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035399,
+      "num": 1035399,
+      "word": "洪胜汉将无限期中断活动",
+      "onboard_time": 1700615316,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1035259,
       "num": 1035259,
       "word": "权志龙馒化",
@@ -6200,6 +6240,14 @@
       "word": "傅盛发文怒怼王自如",
       "onboard_time": 1700017171,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893913,
+      "num": 893913,
+      "word": "17岁姑姑打6个月零工送小侄子金镯",
+      "onboard_time": 1700609909,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -7273,6 +7321,14 @@
       "onboard_time": 1700368231,
       "rank": 33,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 806221,
+      "num": 461144,
+      "word": "3类牙膏被列入致癌黑名单",
+      "onboard_time": 1700607923,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806112,
@@ -8993,14 +9049,6 @@
       "onboard_time": 1699541314,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 702087,
-      "num": 702087,
-      "word": "合胞病毒",
-      "onboard_time": 1700608282,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 701977,
@@ -11515,6 +11563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586666,
+      "num": 586666,
+      "word": "斗鱼股价已跌去超9成",
+      "onboard_time": 1700612016,
+      "rank": 6,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 586567,
       "num": 586567,
       "word": "北上广很难有花束般的恋爱",
@@ -11657,6 +11713,14 @@
       "onboard_time": 1698882573,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 578796,
+      "num": 578796,
+      "word": "村集体收租1.6亿安排老人出国游",
+      "onboard_time": 1700610510,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577886,
@@ -13219,14 +13283,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 519915,
-      "num": 401492,
-      "word": "3类牙膏被列入致癌黑名单",
-      "onboard_time": 1700607923,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519196,
       "num": 519196,
       "word": "韩孝周大钟奖视后",
@@ -14521,6 +14577,14 @@
       "onboard_time": 1700267972,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479959,
+      "num": 479959,
+      "word": "中国首只纯国产克隆小橘猫在青岛诞生",
+      "onboard_time": 1700609306,
+      "rank": 38,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 479383,
@@ -15929,6 +15993,14 @@
       "onboard_time": 1700008957,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 442900,
+      "num": 442900,
+      "word": "巴西vs阿根廷",
+      "onboard_time": 1700612133,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 442589,
@@ -17947,6 +18019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 400223,
+      "num": 400223,
+      "word": "TFBOYS十周年演唱会登阿里财报",
+      "onboard_time": 1700613938,
+      "rank": 13,
+      "category": "演出,互联网"
+    },
+    {
       "raw_hot": 400140,
       "num": 306990,
       "word": "周迅 我又上桌了",
@@ -19705,6 +19785,14 @@
       "onboard_time": 1698884316,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367712,
+      "num": 367712,
+      "word": "RIIZE将以6人组活动",
+      "onboard_time": 1700615316,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 367424,
@@ -21867,6 +21955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330549,
+      "num": 330549,
+      "word": "巴西阿根廷球迷冲突",
+      "onboard_time": 1700614833,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330292,
       "num": 309693,
       "word": "县长3个月前曾到坍塌体育馆安全检查",
@@ -23811,6 +23907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 301962,
+      "num": 301962,
+      "word": "迪丽热巴弹钢琴旧照",
+      "onboard_time": 1700614535,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301818,
       "num": 301818,
       "word": "王鹤棣白鹿会唱仙剑主题曲但不知道名",
@@ -24435,6 +24539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293703,
+      "num": 293703,
+      "word": "ChatGPT创作的最美中国女生",
+      "onboard_time": 1700608282,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 293696,
       "num": 293696,
       "word": "余承东称问界试驾车事故系误踩油门导致",
@@ -24649,6 +24761,14 @@
       "onboard_time": 1699856072,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 290847,
+      "num": 290847,
+      "word": "北京流感发病人数呈快速上升趋势",
+      "onboard_time": 1700609365,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290557,
@@ -25505,14 +25625,6 @@
       "onboard_time": 1699939415,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280270,
-      "num": 280270,
-      "word": "ChatGPT创作的最美中国女生",
-      "onboard_time": 1700608282,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 280220,
@@ -27633,6 +27745,14 @@
       "onboard_time": 1699842871,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258331,
+      "num": 258331,
+      "word": "1岁孙子将回家爷爷2天做出火炉围栏",
+      "onboard_time": 1700611413,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258315,
@@ -32635,6 +32755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217935,
+      "num": 217935,
+      "word": "吾凰在上杀青",
+      "onboard_time": 1700614894,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217875,
       "num": 217875,
       "word": "cityline try累了",
@@ -33075,6 +33203,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 214707,
+      "num": 214707,
+      "word": "老刘 我最不希望忘了你的样子",
+      "onboard_time": 1700608825,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214686,
       "num": 214686,
       "word": "严浩翔的车坏了",
@@ -33145,6 +33281,14 @@
       "onboard_time": 1700141924,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214307,
+      "num": 214307,
+      "word": "女子吃遍100家店力证杭州不是美食荒漠",
+      "onboard_time": 1700615553,
+      "rank": 26,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 214302,
@@ -33819,6 +33963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210608,
+      "num": 210608,
+      "word": "杨幂晒雪景",
+      "onboard_time": 1700609186,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210584,
       "num": 210584,
       "word": "张小斐白衬衣",
@@ -34225,6 +34377,14 @@
       "onboard_time": 1699872991,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208604,
+      "num": 208604,
+      "word": "姐姐回应弟弟为救落水老人牺牲",
+      "onboard_time": 1700614175,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208491,
@@ -38683,6 +38843,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 188374,
+      "num": 1384110,
+      "word": "英雄回家",
+      "onboard_time": 1700571161,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188332,
       "num": 158025,
       "word": "杨紫繁花光影大片",
@@ -39347,6 +39515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185572,
+      "num": 185572,
+      "word": "33岁父亲割肝救9月龄女儿",
+      "onboard_time": 1700613757,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185532,
       "num": 185532,
       "word": "胡先煦的闹钟叫醒的永远不是胡先煦",
@@ -39641,6 +39817,14 @@
       "onboard_time": 1700052514,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "主帅称国足已在正轨",
+      "onboard_time": 1700614297,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 184178,
@@ -41475,6 +41659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173498,
+      "num": 173498,
+      "word": "李嶷崔琳大婚",
+      "onboard_time": 1700613877,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
@@ -41705,14 +41897,6 @@
       "onboard_time": 1700056357,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172303,
-      "num": 172303,
-      "word": "老刘 我最不希望忘了你的样子",
-      "onboard_time": 1700608825,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 172262,
@@ -45123,6 +45307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153895,
+      "num": 153895,
+      "word": "他连续10年自费为公交座椅绑棉垫",
+      "onboard_time": 1700608585,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153880,
       "num": 153880,
       "word": "封神 天不rua你",
@@ -47331,6 +47523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143076,
+      "num": 143076,
+      "word": "十秒丸子头",
+      "onboard_time": 1700612255,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 143061,
       "num": 143061,
       "word": "周冬雨惠英红张艺兴李鸿其同框",
@@ -48129,6 +48329,14 @@
       "onboard_time": 1700275470,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138815,
+      "num": 138815,
+      "word": "4同学每月2千资助去世同学家庭",
+      "onboard_time": 1700608645,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138773,
@@ -48969,14 +49177,6 @@
       "onboard_time": 1700223275,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134016,
-      "num": 658083,
-      "word": "英雄回家",
-      "onboard_time": 1700571161,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 133968,
@@ -50819,6 +51019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125055,
+      "num": 125055,
+      "word": "魔卡少女樱 木之本家",
+      "onboard_time": 1700611172,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 124951,
       "num": 1025833,
       "word": "小学生跳花绳把人cpu都烧干了",
@@ -51075,6 +51283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123595,
+      "num": 123595,
+      "word": "博物馆回应网友山上遛娃时疑发现化石",
+      "onboard_time": 1700609006,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123553,
       "num": 123553,
       "word": "网飞版三体预告",
@@ -51297,6 +51513,14 @@
       "onboard_time": 1700528135,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122663,
+      "num": 122663,
+      "word": "于适深情演唱长相忆",
+      "onboard_time": 1700612974,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 122653,
@@ -55123,14 +55347,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 92375,
-      "num": 92375,
-      "word": "他连续10年自费为公交座椅绑棉垫",
-      "onboard_time": 1700608585,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92248,
       "num": 92248,
       "word": "高校老师课堂谈一生良配获百万点赞",
@@ -55249,14 +55465,6 @@
       "onboard_time": 1699092810,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 90338,
-      "num": 90338,
-      "word": "博物馆回应网友山上遛娃时疑发现化石",
-      "onboard_time": 1700609006,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90294,
@@ -55465,14 +55673,6 @@
       "onboard_time": 1700269771,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88184,
-      "num": 88184,
-      "word": "杨幂晒雪景",
-      "onboard_time": 1700609186,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 88039,
@@ -56019,14 +56219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80342,
-      "num": 80342,
-      "word": "4同学每月2千资助去世同学家庭",
-      "onboard_time": 1700608645,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80250,
       "num": 142778,
       "word": "女孩把学校发的小番茄留给妈妈",
@@ -56515,14 +56707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 72143,
-      "num": 77958,
-      "word": "中国首只纯国产克隆小橘猫在青岛诞生",
-      "onboard_time": 1700609306,
-      "rank": 38,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
@@ -56617,14 +56801,6 @@
       "onboard_time": 1699420234,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 69932,
-      "num": 77767,
-      "word": "北京流感发病人数呈快速上升趋势",
-      "onboard_time": 1700609365,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69337,

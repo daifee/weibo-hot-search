@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700609675525,
+  "endTime": 1700615905039,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -145,6 +145,14 @@
       "onboard_time": 1700554777,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2468887,
+      "num": 462549,
+      "word": "奚梦瑶 生孩子不痛",
+      "onboard_time": 1700610933,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2380422,
@@ -459,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1468510,
+      "num": 1468510,
+      "word": "国产羽绒服卖到7000元",
+      "onboard_time": 1700614297,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1435154,
       "num": 703556,
       "word": "女子花1.8万买衣服一年不发货不退款",
@@ -475,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1392131,
+      "num": 1392131,
+      "word": "BLACKPINK出席白金汉宫宴会",
+      "onboard_time": 1700610389,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1389881,
       "num": 1389881,
       "word": "裁判",
@@ -489,6 +513,14 @@
       "onboard_time": 1700372550,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1382930,
+      "num": 1382930,
+      "word": "合胞病毒",
+      "onboard_time": 1700608282,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1381350,
@@ -723,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035399,
+      "num": 1035399,
+      "word": "洪胜汉将无限期中断活动",
+      "onboard_time": 1700615316,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1034896,
       "num": 1034896,
       "word": "民警怒吼十几万不是从天上掉下来的",
@@ -875,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 893913,
+      "num": 893913,
+      "word": "17岁姑姑打6个月零工送小侄子金镯",
+      "onboard_time": 1700609909,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879589,
       "num": 753222,
       "word": "痞幼妆",
@@ -969,6 +1017,14 @@
       "onboard_time": 1700368231,
       "rank": 33,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 806221,
+      "num": 461144,
+      "word": "3类牙膏被列入致癌黑名单",
+      "onboard_time": 1700607923,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806112,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1700560654,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702087,
-      "num": 702087,
-      "word": "合胞病毒",
-      "onboard_time": 1700608282,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 700388,
@@ -1563,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586666,
+      "num": 586666,
+      "word": "斗鱼股价已跌去超9成",
+      "onboard_time": 1700612016,
+      "rank": 6,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 585400,
       "num": 585400,
       "word": "蛋仔派对被大量投诉套路未成年充值",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1700457814,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 578796,
+      "num": 578796,
+      "word": "村集体收租1.6亿安排老人出国游",
+      "onboard_time": 1700610510,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575736,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 519915,
-      "num": 401492,
-      "word": "3类牙膏被列入致癌黑名单",
-      "onboard_time": 1700607923,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519099,
@@ -2083,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479959,
+      "num": 479959,
+      "word": "中国首只纯国产克隆小橘猫在青岛诞生",
+      "onboard_time": 1700609306,
+      "rank": 38,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 477159,
       "num": 1179461,
       "word": "2024载人航天飞行任务标识发布",
@@ -2273,6 +2337,14 @@
       "onboard_time": 1700559092,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 442900,
+      "num": 442900,
+      "word": "巴西vs阿根廷",
+      "onboard_time": 1700612133,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 441560,
@@ -2497,6 +2569,14 @@
       "onboard_time": 1700488536,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400223,
+      "num": 400223,
+      "word": "TFBOYS十周年演唱会登阿里财报",
+      "onboard_time": 1700613938,
+      "rank": 13,
+      "category": "演出,互联网"
     },
     {
       "raw_hot": 398243,
@@ -2729,6 +2809,14 @@
       "onboard_time": 1700532031,
       "rank": 19,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 367712,
+      "num": 367712,
+      "word": "RIIZE将以6人组活动",
+      "onboard_time": 1700615316,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 365715,
@@ -3099,6 +3187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330549,
+      "num": 330549,
+      "word": "巴西阿根廷球迷冲突",
+      "onboard_time": 1700614833,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330259,
       "num": 618523,
       "word": "男子偷功德箱的钱称菩萨给我比了OK",
@@ -3435,6 +3531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301962,
+      "num": 301962,
+      "word": "迪丽热巴弹钢琴旧照",
+      "onboard_time": 1700614535,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301796,
       "num": 301796,
       "word": "吴迪飞退圈的原因",
@@ -3555,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293703,
+      "num": 293703,
+      "word": "ChatGPT创作的最美中国女生",
+      "onboard_time": 1700608282,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 292892,
       "num": 276382,
       "word": "8小时睡眠或许并非人类本能",
@@ -3593,6 +3705,14 @@
       "onboard_time": 1700354488,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290847,
+      "num": 290847,
+      "word": "北京流感发病人数呈快速上升趋势",
+      "onboard_time": 1700609365,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288293,
@@ -3681,14 +3801,6 @@
       "onboard_time": 1700387556,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 280270,
-      "num": 280270,
-      "word": "ChatGPT创作的最美中国女生",
-      "onboard_time": 1700608282,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 279837,
@@ -4016,6 +4128,14 @@
       "word": "男子10亩香菜长太高免费送村民",
       "onboard_time": 1700527056,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258331,
+      "num": 258331,
+      "word": "1岁孙子将回家爷爷2天做出火炉围栏",
+      "onboard_time": 1700611413,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4795,6 +4915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217935,
+      "num": 217935,
+      "word": "吾凰在上杀青",
+      "onboard_time": 1700614894,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217814,
       "num": 217814,
       "word": "丞磊挺忙的",
@@ -4867,12 +4995,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 214707,
+      "num": 214707,
+      "word": "老刘 我最不希望忘了你的样子",
+      "onboard_time": 1700608825,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214394,
       "num": 214394,
       "word": "再就业男团一年前vs一年后",
       "onboard_time": 1700448696,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214307,
+      "num": 214307,
+      "word": "女子吃遍100家店力证杭州不是美食荒漠",
+      "onboard_time": 1700615553,
+      "rank": 26,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 214264,
@@ -4995,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210608,
+      "num": 210608,
+      "word": "杨幂晒雪景",
+      "onboard_time": 1700609186,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210433,
       "num": 210433,
       "word": "檀健次ELLE湿发浴缸大片",
@@ -5041,6 +5193,14 @@
       "onboard_time": 1700522064,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208604,
+      "num": 208604,
+      "word": "姐姐回应弟弟为救落水老人牺牲",
+      "onboard_time": 1700614175,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208491,
@@ -5731,6 +5891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188374,
+      "num": 1384110,
+      "word": "英雄回家",
+      "onboard_time": 1700571161,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188332,
       "num": 158025,
       "word": "杨紫繁花光影大片",
@@ -5875,6 +6043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185572,
+      "num": 185572,
+      "word": "33岁父亲割肝救9月龄女儿",
+      "onboard_time": 1700613757,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185532,
       "num": 185532,
       "word": "胡先煦的闹钟叫醒的永远不是胡先煦",
@@ -5889,6 +6065,14 @@
       "onboard_time": 1700396258,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "主帅称国足已在正轨",
+      "onboard_time": 1700614297,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 183256,
@@ -6171,6 +6355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173498,
+      "num": 173498,
+      "word": "李嶷崔琳大婚",
+      "onboard_time": 1700613877,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173277,
       "num": 169646,
       "word": "THE BOYZ新歌MV",
@@ -6217,14 +6409,6 @@
       "onboard_time": 1700381976,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172303,
-      "num": 172303,
-      "word": "老刘 我最不希望忘了你的样子",
-      "onboard_time": 1700608825,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 171711,
@@ -6683,6 +6867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153895,
+      "num": 153895,
+      "word": "他连续10年自费为公交座椅绑棉垫",
+      "onboard_time": 1700608585,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152902,
       "num": 187869,
       "word": "中国猫睡觉手不能露在被子外面",
@@ -7035,6 +7227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143076,
+      "num": 143076,
+      "word": "十秒丸子头",
+      "onboard_time": 1700612255,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 143025,
       "num": 143025,
       "word": "战火下的加沙儿童",
@@ -7185,6 +7385,14 @@
       "onboard_time": 1700569414,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138815,
+      "num": 138815,
+      "word": "4同学每月2千资助去世同学家庭",
+      "onboard_time": 1700608645,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138666,
@@ -7345,14 +7553,6 @@
       "onboard_time": 1700362532,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134016,
-      "num": 658083,
-      "word": "英雄回家",
-      "onboard_time": 1700571161,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 133615,
@@ -7603,6 +7803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125055,
+      "num": 125055,
+      "word": "魔卡少女樱 木之本家",
+      "onboard_time": 1700611172,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 124951,
       "num": 1025833,
       "word": "小学生跳花绳把人cpu都烧干了",
@@ -7659,6 +7867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 123595,
+      "num": 123595,
+      "word": "博物馆回应网友山上遛娃时疑发现化石",
+      "onboard_time": 1700609006,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122820,
       "num": 122820,
       "word": "朗尼沃克惊天隔扣",
@@ -7689,6 +7905,14 @@
       "onboard_time": 1700528135,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122663,
+      "num": 122663,
+      "word": "于适深情演唱长相忆",
+      "onboard_time": 1700612974,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 122555,
@@ -8179,14 +8403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92375,
-      "num": 92375,
-      "word": "他连续10年自费为公交座椅绑棉垫",
-      "onboard_time": 1700608585,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91936,
       "num": 528854,
       "word": "现抓活羊送上门好客山东回礼拿不完",
@@ -8209,14 +8425,6 @@
       "onboard_time": 1700357489,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 90338,
-      "num": 90338,
-      "word": "博物馆回应网友山上遛娃时疑发现化石",
-      "onboard_time": 1700609006,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90294,
@@ -8281,14 +8489,6 @@
       "onboard_time": 1700499682,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 88184,
-      "num": 88184,
-      "word": "杨幂晒雪景",
-      "onboard_time": 1700609186,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 87684,
@@ -8411,14 +8611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80342,
-      "num": 80342,
-      "word": "4同学每月2千资助去世同学家庭",
-      "onboard_time": 1700608645,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80177,
       "num": 414159,
       "word": "兰蔻最美限定版来了",
@@ -8499,27 +8691,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72143,
-      "num": 77958,
-      "word": "中国首只纯国产克隆小橘猫在青岛诞生",
-      "onboard_time": 1700609306,
-      "rank": 38,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 71100,
       "num": 2311303,
       "word": "全球九大候鸟迁飞区四个经过我国",
       "onboard_time": 1700402139,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69932,
-      "num": 77767,
-      "word": "北京流感发病人数呈快速上升趋势",
-      "onboard_time": 1700609365,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
