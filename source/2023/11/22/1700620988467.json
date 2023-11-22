@@ -1,0 +1,410 @@
+{
+  "runTime": 1700620988467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1848959,
+        "num": 1848959,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1792261,
+        "num": 1792261,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138548,
+        "num": 1749024,
+        "word": "英雄回家",
+        "onboard_time": 1700571161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1713521,
+        "num": 1713521,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772851,
+        "num": 772851,
+        "word": "我有能力考研但没能力读研",
+        "onboard_time": 1700616392,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 551055,
+        "num": 551055,
+        "word": "17岁姑姑打6个月零工送小侄子金镯",
+        "onboard_time": 1700609909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546041,
+        "num": 546041,
+        "word": "哈马斯释放50名妇女儿童换4天停火",
+        "onboard_time": 1700619152,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 528206,
+        "num": 528206,
+        "word": "唐代人离婚不是理想化的一别两宽",
+        "onboard_time": 1700616811,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 506098,
+        "num": 506098,
+        "word": "BLACKPINK出席白金汉宫宴会",
+        "onboard_time": 1700610389,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380380,
+        "num": 380380,
+        "word": "洪胜汉将无限期中断活动",
+        "onboard_time": 1700615316,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1172643,
+        "num": 380037,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398118,
+        "num": 379867,
+        "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+        "onboard_time": 1700617053,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378390,
+        "num": 378390,
+        "word": "3类牙膏被列入致癌黑名单",
+        "onboard_time": 1700607923,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353086,
+        "num": 353086,
+        "word": "杨幂王子奇同框",
+        "onboard_time": 1700619452,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342614,
+        "num": 342614,
+        "word": "合胞病毒",
+        "onboard_time": 1700608282,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338721,
+        "num": 338721,
+        "word": "夏奇拉逃税超1亿被罚5700万",
+        "onboard_time": 1700618195,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331334,
+        "num": 331334,
+        "word": "TFBOYS十周年演唱会登阿里财报",
+        "onboard_time": 1700613938,
+        "rank": 16,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 253738,
+        "num": 253738,
+        "word": "RIIZE删除洪胜汉物料",
+        "onboard_time": 1700619391,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239288,
+        "num": 239288,
+        "word": "斗鱼股价已跌去超9成",
+        "onboard_time": 1700612016,
+        "rank": 18,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 226429,
+        "num": 226429,
+        "word": "以色列内阁同意与哈马斯临时停火",
+        "onboard_time": 1700620172,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 302620,
+        "num": 225336,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 222674,
+        "num": 222674,
+        "word": "吾凰在上杀青",
+        "onboard_time": 1700614894,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213972,
+        "num": 213972,
+        "word": "ChatGPT崩了",
+        "onboard_time": 1700618492,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211534,
+        "num": 211534,
+        "word": "巴西阿根廷比赛推迟",
+        "onboard_time": 1700617651,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195783,
+        "num": 195783,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184562,
+        "num": 184562,
+        "word": "小雪",
+        "onboard_time": 1700607982,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182547,
+        "num": 182547,
+        "word": "巴西vs阿根廷",
+        "onboard_time": 1700612133,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180253,
+        "num": 180253,
+        "word": "村集体收租1.6亿安排老人出国游",
+        "onboard_time": 1700610510,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173502,
+        "num": 173502,
+        "word": "五保户在银行存一万变保险退保亏3500",
+        "onboard_time": 1700617053,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171291,
+        "num": 171291,
+        "word": "崔琳是李嶷唯一认定的太子妃",
+        "onboard_time": 1700619570,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164129,
+        "num": 164129,
+        "word": "你最贵的羽绒服多少钱",
+        "onboard_time": 1700620953,
+        "rank": 30,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 94632,
+        "num": 160781,
+        "word": "小雪 宜吃火锅",
+        "onboard_time": 1700620472,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159613,
+        "num": 159613,
+        "word": "五月天演唱会跨年倒计时",
+        "onboard_time": 1700620114,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154648,
+        "num": 154648,
+        "word": "女子吃遍100家店力证杭州不是美食荒漠",
+        "onboard_time": 1700615553,
+        "rank": 33,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 152855,
+        "num": 152855,
+        "word": "BLACKPINK合体的方式",
+        "onboard_time": 1700620712,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148180,
+        "num": 148180,
+        "word": "民警怒吼十几万不是从天上掉下来的",
+        "onboard_time": 1700585662,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148085,
+        "num": 148085,
+        "word": "RIIZE将以6人组活动",
+        "onboard_time": 1700615316,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147182,
+        "num": 147182,
+        "word": "迪丽热巴弹钢琴旧照",
+        "onboard_time": 1700614535,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146829,
+        "num": 146829,
+        "word": "33岁父亲割肝救9月龄女儿",
+        "onboard_time": 1700613757,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133534,
+        "num": 141813,
+        "word": "被正式确诊为脆皮打工人",
+        "onboard_time": 1700620472,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137982,
+        "num": 137982,
+        "word": "1岁孙子将回家爷爷2天做出火炉围栏",
+        "onboard_time": 1700611413,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135505,
+        "num": 135505,
+        "word": "小雪是冬季第2个节气",
+        "onboard_time": 1700616094,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134582,
+        "num": 134582,
+        "word": "白敬亭告黑效率",
+        "onboard_time": 1700572658,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128324,
+        "num": 128324,
+        "word": "杨幂晒雪景",
+        "onboard_time": 1700609186,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 128324,
+        "word": "跑男元老只剩李晨和郑恺了",
+        "onboard_time": 1700575841,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121067,
+        "num": 128310,
+        "word": "北京流感发病人数呈快速上升趋势",
+        "onboard_time": 1700609365,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115771,
+        "num": 128302,
+        "word": "到底是读研难还是考研难",
+        "onboard_time": 1700620414,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115585,
+        "num": 128298,
+        "word": "37留守老人住进新窑做养老搭子",
+        "onboard_time": 1700620712,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112998,
+        "num": 128290,
+        "word": "女生读研两个月诉说氛围像围城",
+        "onboard_time": 1700607982,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112534,
+        "num": 128284,
+        "word": "下次见杨千嬅带个孩子吧",
+        "onboard_time": 1700615973,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖国家发出正义之声和平之声非常必要#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700620355035,
+  "endTime": 1700620988467,
   "band_list": [
     {
       "raw_hot": 2468887,
@@ -27,20 +27,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1713521,
+      "num": 1713521,
+      "word": "曼谷街头现多名中国籍毁容乞讨者",
+      "onboard_time": 1700615911,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1651629,
       "num": 165703,
       "word": "冲绳",
       "onboard_time": 1700577877,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1582477,
-      "num": 1582477,
-      "word": "曼谷街头现多名中国籍毁容乞讨者",
-      "onboard_time": 1700615911,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1392131,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772851,
+      "num": 772851,
+      "word": "我有能力考研但没能力读研",
+      "onboard_time": 1700616392,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 757016,
       "num": 757016,
       "word": "巴宝莉赚不到我一分钱",
       "onboard_time": 1700578416,
       "rank": 1,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 745593,
-      "num": 745593,
-      "word": "我有能力考研但没能力读研",
-      "onboard_time": 1700616392,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 586666,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 546041,
+      "num": 546041,
+      "word": "哈马斯释放50名妇女儿童换4天停火",
+      "onboard_time": 1700619152,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 537029,
       "num": 537029,
       "word": "国足0比3不敌韩国",
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528206,
+      "num": 528206,
+      "word": "唐代人离婚不是理想化的一别两宽",
+      "onboard_time": 1700616811,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 502074,
       "num": 502074,
       "word": "女生读研两个月诉说氛围像围城",
       "onboard_time": 1700607982,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 498252,
-      "num": 379407,
-      "word": "唐代人离婚不是理想化的一别两宽",
-      "onboard_time": 1700616811,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 495220,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 455750,
-      "num": 368018,
+      "num": 379867,
       "word": "金南俊朴智旻金泰亨田柾国准备入伍",
       "onboard_time": 1700617053,
       "rank": 32,
@@ -225,14 +233,6 @@
       "onboard_time": 1700583687,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400812,
-      "num": 400812,
-      "word": "哈马斯释放50名妇女儿童换4天停火",
-      "onboard_time": 1700619152,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 400223,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353086,
+      "num": 353086,
+      "word": "杨幂王子奇同框",
+      "onboard_time": 1700619452,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348930,
       "num": 203846,
       "word": "传说中的开十指有这么大",
@@ -289,6 +297,14 @@
       "onboard_time": 1700619391,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302620,
+      "num": 225336,
+      "word": "女子起诉离婚却发现丈夫已去世",
+      "onboard_time": 1700620953,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 301962,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256270,
-      "num": 256270,
-      "word": "杨幂王子奇同框",
-      "onboard_time": 1700619452,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254079,
       "num": 204637,
       "word": "白敬亭告黑效率",
@@ -393,6 +401,14 @@
       "onboard_time": 1700551777,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226429,
+      "num": 226429,
+      "word": "以色列内阁同意与哈马斯临时停火",
+      "onboard_time": 1700620172,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 214707,
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195783,
+      "num": 195783,
+      "word": "围炉烤橘放倒母子3人",
+      "onboard_time": 1700620472,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192808,
       "num": 192808,
       "word": "热刺球迷",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 188374,
-      "num": 1634626,
+      "num": 1749024,
       "word": "英雄回家",
       "onboard_time": 1700571161,
       "rank": 2,
@@ -507,6 +531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171291,
+      "num": 171291,
+      "word": "崔琳是李嶷唯一认定的太子妃",
+      "onboard_time": 1700619570,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168913,
       "num": 168913,
       "word": "朝鲜向日通报计划第三次试射卫星",
@@ -515,12 +547,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 163967,
-      "num": 163967,
-      "word": "崔琳是李嶷唯一认定的太子妃",
-      "onboard_time": 1700619570,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 164129,
+      "num": 164129,
+      "word": "你最贵的羽绒服多少钱",
+      "onboard_time": 1700620953,
+      "rank": 30,
+      "category": "时尚,财经"
     },
     {
       "raw_hot": 161919,
@@ -539,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159317,
-      "num": 159317,
-      "word": "以色列内阁同意与哈马斯临时停火",
-      "onboard_time": 1700620172,
-      "rank": 32,
-      "category": "国外时政"
+      "raw_hot": 159613,
+      "num": 159613,
+      "word": "五月天演唱会跨年倒计时",
+      "onboard_time": 1700620114,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 153895,
@@ -553,6 +585,14 @@
       "onboard_time": 1700608585,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152855,
+      "num": 152855,
+      "word": "BLACKPINK合体的方式",
+      "onboard_time": 1700620712,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151894,
@@ -609,6 +649,14 @@
       "onboard_time": 1700615973,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133534,
+      "num": 141813,
+      "word": "被正式确诊为脆皮打工人",
+      "onboard_time": 1700620472,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130450,
@@ -683,6 +731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115771,
+      "num": 128302,
+      "word": "到底是读研难还是考研难",
+      "onboard_time": 1700620414,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 115585,
+      "num": 128298,
+      "word": "37留守老人住进新窑做养老搭子",
+      "onboard_time": 1700620712,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113432,
       "num": 161437,
       "word": "入冬的电子羽绒服",
@@ -713,14 +777,6 @@
       "onboard_time": 1700568453,
       "rank": 26,
       "category": "剧集,时尚"
-    },
-    {
-      "raw_hot": 106659,
-      "num": 106659,
-      "word": "五月天演唱会跨年倒计时",
-      "onboard_time": 1700620114,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 103670,
@@ -793,6 +849,14 @@
       "onboard_time": 1700576139,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94632,
+      "num": 160781,
+      "word": "小雪 宜吃火锅",
+      "onboard_time": 1700620472,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 94478,
