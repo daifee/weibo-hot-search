@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700624070269,
+  "endTime": 1700626896551,
   "band_list": [
     {
       "raw_hot": 2468887,
@@ -43,6 +43,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1503296,
+      "num": 1503296,
+      "word": "波司登平均价格已升至1600元",
+      "onboard_time": 1700622575,
+      "rank": 10,
+      "category": "时尚,财经"
+    },
+    {
       "raw_hot": 1392131,
       "num": 1392131,
       "word": "BLACKPINK出席白金汉宫宴会",
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 856471,
-      "num": 856471,
-      "word": "波司登平均价格已升至1600元",
-      "onboard_time": 1700622575,
-      "rank": 10,
-      "category": "时尚,财经"
-    },
-    {
       "raw_hot": 841104,
       "num": 841104,
       "word": "围炉烤橘放倒母子3人",
@@ -105,6 +105,14 @@
       "onboard_time": 1700575841,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 815016,
+      "num": 815016,
+      "word": "危宁 龙凤胎",
+      "onboard_time": 1700624976,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 806221,
@@ -155,6 +163,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 582976,
+      "num": 582976,
+      "word": "特斯拉刹车失灵事件核心成员被判道歉",
+      "onboard_time": 1700623234,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 578796,
       "num": 578796,
       "word": "村集体收租1.6亿安排老人出国游",
@@ -163,12 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 569261,
+      "raw_hot": 578271,
       "num": 278995,
       "word": "女子起诉离婚却发现丈夫已去世",
       "onboard_time": 1700620953,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 576793,
+      "num": 465988,
+      "word": "严重的脂肪肝原来是这样",
+      "onboard_time": 1700624375,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 551071,
@@ -251,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480985,
+      "num": 480985,
+      "word": "安徽省高考状元参加脑力综艺",
+      "onboard_time": 1700622332,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479959,
       "num": 479959,
       "word": "中国首只纯国产克隆小橘猫在青岛诞生",
       "onboard_time": 1700609306,
       "rank": 38,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 463486,
-      "num": 463486,
-      "word": "安徽省高考状元参加脑力综艺",
-      "onboard_time": 1700622332,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 455750,
@@ -299,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423543,
+      "num": 423543,
+      "word": "Twins 抢票",
+      "onboard_time": 1700624976,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 400223,
       "num": 400223,
       "word": "TFBOYS十周年演唱会登阿里财报",
       "onboard_time": 1700613938,
       "rank": 13,
       "category": "演出,互联网"
-    },
-    {
-      "raw_hot": 393761,
-      "num": 393761,
-      "word": "特斯拉刹车失灵事件核心成员被判道歉",
-      "onboard_time": 1700623234,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 392994,
@@ -329,6 +353,14 @@
       "onboard_time": 1700577579,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 379124,
+      "num": 379124,
+      "word": "巴西警察殴打阿根廷球迷",
+      "onboard_time": 1700624499,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 365362,
@@ -363,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307908,
+      "num": 307908,
+      "word": "EDG官宣NEST出征名单",
+      "onboard_time": 1700624853,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302946,
       "num": 302946,
       "word": "RIIZE删除洪胜汉物料",
@@ -377,6 +417,14 @@
       "onboard_time": 1700614535,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297436,
+      "num": 297436,
+      "word": "电影水饺皇后杀青",
+      "onboard_time": 1700623775,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 293703,
@@ -419,6 +467,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 269843,
+      "num": 269843,
+      "word": "乌尔善 节气博主",
+      "onboard_time": 1700626299,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268438,
       "num": 268438,
       "word": "吴世勋视频通话",
@@ -427,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268075,
+      "num": 268075,
+      "word": "詹姆斯39000分",
+      "onboard_time": 1700624435,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258331,
       "num": 258331,
       "word": "1岁孙子将回家爷爷2天做出火炉围栏",
       "onboard_time": 1700611413,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256369,
+      "num": 256369,
+      "word": "肺炎支原体已非儿科就诊首因",
+      "onboard_time": 1700625573,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254079,
@@ -465,6 +537,14 @@
       "onboard_time": 1700617651,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245788,
+      "num": 245788,
+      "word": "1块8毛钱的羊脂皂",
+      "onboard_time": 1700626236,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 238632,
@@ -539,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206148,
+      "num": 198078,
+      "word": "CGV 不放票",
+      "onboard_time": 1700626596,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204376,
       "num": 204376,
       "word": "花儿与少年下一站导游会是谁",
@@ -579,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195807,
+      "num": 195807,
+      "word": "很想很想你OST阵容官宣",
+      "onboard_time": 1700623775,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195296,
       "num": 195296,
       "word": "乔林顿红牌",
@@ -601,14 +697,6 @@
       "onboard_time": 1700616094,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190962,
-      "num": 190962,
-      "word": "很想很想你OST阵容官宣",
-      "onboard_time": 1700623775,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 190482,
@@ -635,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186395,
+      "num": 1298822,
+      "word": "第10批在韩志愿军烈士遗骸装殓仪式举行",
+      "onboard_time": 1700626116,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184375,
       "num": 184375,
       "word": "李嶷崔琳大婚",
@@ -651,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178612,
-      "num": 178612,
-      "word": "电影水饺皇后杀青",
-      "onboard_time": 1700623775,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 177724,
+      "num": 177724,
+      "word": "大学毕业在没信号的山里工作13年",
+      "onboard_time": 1700625758,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177699,
@@ -705,6 +801,14 @@
       "onboard_time": 1700623833,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164160,
+      "num": 164160,
+      "word": "郑秀妍新专辑",
+      "onboard_time": 1700625573,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 164129,
@@ -771,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143144,
+      "num": 143144,
+      "word": "姜珮瑶冬日暖阳妆",
+      "onboard_time": 1700624916,
+      "rank": 45,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 143076,
       "num": 143076,
       "word": "十秒丸子头",
@@ -819,6 +931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124017,
+      "num": 143144,
+      "word": "宁宁NATTY Drama挑战",
+      "onboard_time": 1700625215,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123595,
       "num": 123595,
       "word": "博物馆回应网友山上遛娃时疑发现化石",
@@ -851,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119264,
+      "num": 143102,
+      "word": "湖人vs爵士",
+      "onboard_time": 1700625515,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119127,
       "num": 161490,
       "word": "见过最癫的美甲",
@@ -881,6 +1009,14 @@
       "onboard_time": 1700620712,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115503,
+      "num": 143100,
+      "word": "有些牙膏牙医并不建议用",
+      "onboard_time": 1700626835,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113432,
