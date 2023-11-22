@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/19 00:21:15 ~ 2023/11/23 03:34:19
+本榜单时间：2023/11/19 00:21:15 ~ 2023/11/23 04:18:38
 </p>
 </blockquote>
 <p>
@@ -7659,6 +7659,12 @@ BABYMONSTER计划尽快办演唱会（热度：122264）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
+因烂尾楼要账被打的亮亮丽君夫妇发声（热度：120841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KARINA%20DRAMA%E7%9B%B4%E6%8B%8D%23" target="weibo">
 KARINA DRAMA直拍（热度：120774）
 </a>
@@ -8487,12 +8493,6 @@ vivoX100系列首销破十亿（热度：50361）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%83%82%E5%B0%BE%E6%A5%BC%E8%A6%81%E8%B4%A6%E8%A2%AB%E6%89%93%E7%9A%84%E4%BA%AE%E4%BA%AE%E4%B8%BD%E5%90%9B%E5%A4%AB%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
-因烂尾楼要账被打的亮亮丽君夫妇发声（热度：48129）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E5%8D%AB%E5%81%A5%E5%A7%94%E7%A7%B0%E4%B8%89%E5%AD%A9%E8%A1%A5%E8%B4%B4%E7%9B%AE%E5%89%8D%E6%97%A0%E6%B3%95%E7%94%B3%E8%AF%B7%23" target="weibo">
 郑州市卫健委称三孩补贴目前无法申请（热度：47644）
 </a>
@@ -8627,6 +8627,12 @@ S赛冠军座驾需要哪些特质（热度：36239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%23" target="weibo">
 中国一直是亚太合作重要的贡献者（热度：18447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8F%88%E6%9C%89%E7%AC%91%E5%AE%B9%E4%BA%86%23" target="weibo">
+丽君终于又有笑容了（热度：18075）
 </a>
 </li>
 

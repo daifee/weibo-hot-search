@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700681659048,
+  "endTime": 1700684318350,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -10195,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120841,
+      "num": 120841,
+      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+      "onboard_time": 1700679854,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120774,
       "num": 120774,
       "word": "KARINA DRAMA直拍",
@@ -11299,14 +11307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 48129,
-      "num": 38573,
-      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
-      "onboard_time": 1700679854,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47644,
       "num": 55931,
       "word": "郑州市卫健委称三孩补贴目前无法申请",
@@ -11489,6 +11489,14 @@
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18075,
+      "num": 18075,
+      "word": "丽君终于又有笑容了",
+      "onboard_time": 1700682194,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14163,
