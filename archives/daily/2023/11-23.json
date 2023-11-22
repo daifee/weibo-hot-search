@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700687736953,
+  "endTime": 1700688861693,
   "band_list": [
     {
       "raw_hot": 1117247,
@@ -267,20 +267,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+      "onboard_time": 1700679854,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130042,
       "num": 154946,
       "word": "朱琳官宣结婚",
       "onboard_time": 1700657854,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128572,
-      "num": 128572,
-      "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
-      "onboard_time": 1700679854,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126012,
@@ -507,8 +507,8 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 25342,
-      "num": 20457,
+      "raw_hot": 30730,
+      "num": 22174,
       "word": "有些蔬菜嘌呤比肉还高",
       "onboard_time": 1700684893,
       "rank": 47,
@@ -539,7 +539,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 5965,
+      "raw_hot": 6219,
       "num": 161101,
       "word": "接英雄回家",
       "onboard_time": 1700638898,
