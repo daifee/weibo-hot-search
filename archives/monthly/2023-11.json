@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700645678319,
+  "endTime": 1700648440827,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3771,6 +3771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1305809,
+      "num": 1305809,
+      "word": "颜宁当选中国科学院院士",
+      "onboard_time": 1700645200,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1303123,
       "num": 1303123,
       "word": "何猷君 小金土豆",
@@ -7209,6 +7217,14 @@
       "onboard_time": 1698998255,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818132,
+      "num": 583320,
+      "word": "胸位高显胖",
+      "onboard_time": 1700643640,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 817082,
@@ -11931,14 +11947,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 583320,
-      "num": 583320,
-      "word": "胸位高显胖",
-      "onboard_time": 1700643640,
-      "rank": 11,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 582976,
       "num": 582976,
       "word": "特斯拉刹车失灵事件核心成员被判道歉",
@@ -12073,6 +12081,14 @@
       "onboard_time": 1698886298,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 574342,
+      "num": 574342,
+      "word": "声生不息",
+      "onboard_time": 1699347695,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 574046,
@@ -15699,6 +15715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462845,
+      "num": 462845,
+      "word": "田柾国发文将12月入伍",
+      "onboard_time": 1700645856,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462737,
       "num": 462737,
       "word": "李荣浩 不是我说的",
@@ -18971,6 +18995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391012,
+      "num": 1258512,
+      "word": "落霞与孤鹜齐飞有多美",
+      "onboard_time": 1700639794,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 390865,
       "num": 390865,
       "word": "吴青峰 我也抢不到票啊",
@@ -19475,6 +19507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 382782,
+      "num": 382782,
+      "word": "老刘 黛玉焚稿",
+      "onboard_time": 1700644059,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382287,
       "num": 382287,
       "word": "亮亮丽君决定离开郑州回老家",
@@ -19680,6 +19720,14 @@
       "word": "秦海璐在大象岩给花少每个人拍了照片",
       "onboard_time": 1699410270,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378612,
+      "num": 378612,
+      "word": "周一围的爱设置了仅朱丹可见",
+      "onboard_time": 1700647235,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -20627,6 +20675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362573,
+      "num": 362573,
+      "word": "泰国主帅因输国足下课",
+      "onboard_time": 1700647956,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362071,
       "num": 319888,
       "word": "迪丽热巴塑料袋爆改皮筋",
@@ -21417,14 +21473,6 @@
       "onboard_time": 1699680033,
       "rank": 10,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 349459,
-      "num": 349459,
-      "word": "老刘 黛玉焚稿",
-      "onboard_time": 1700644059,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 349438,
@@ -24345,14 +24393,6 @@
       "onboard_time": 1700553756,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304216,
-      "num": 304216,
-      "word": "颜宁当选中国科学院院士",
-      "onboard_time": 1700645200,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304192,
@@ -27339,6 +27379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270439,
+      "num": 270439,
+      "word": "刘耀文一对一教粉丝手势舞",
+      "onboard_time": 1700647899,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270385,
       "num": 270385,
       "word": "两只猫亲了一口做了三天噩梦",
@@ -30267,6 +30315,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 243444,
+      "num": 243444,
+      "word": "HLE官宣Delight加入",
+      "onboard_time": 1700645258,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 243434,
       "num": 243434,
       "word": "管泽元闭嘴",
@@ -30323,14 +30379,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 243022,
-      "num": 243022,
-      "word": "HLE官宣Delight加入",
-      "onboard_time": 1700645258,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 242970,
       "num": 242970,
       "word": "娜扎许魏洲新剧收视率",
@@ -30345,14 +30393,6 @@
       "onboard_time": 1699783052,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242882,
-      "num": 242882,
-      "word": "落霞与孤鹜齐飞有多美",
-      "onboard_time": 1700639794,
-      "rank": 24,
-      "category": "旅游"
     },
     {
       "raw_hot": 242875,
@@ -32331,6 +32371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226951,
+      "num": 226951,
+      "word": "她怎么会不想上学呢",
+      "onboard_time": 1700647835,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226943,
       "num": 226943,
       "word": "越华丽的衣服越配景甜",
@@ -32817,6 +32865,14 @@
       "onboard_time": 1698910478,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 224062,
+      "num": 224062,
+      "word": "张一鸣或成为中国第一个世界首富",
+      "onboard_time": 1700648254,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 224047,
@@ -34771,14 +34827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210985,
-      "num": 210985,
-      "word": "声生不息",
-      "onboard_time": 1699347695,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210857,
       "num": 210857,
       "word": "剧组在高校拍摄用激光笔驱赶学生",
@@ -35347,6 +35395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208253,
+      "num": 853092,
+      "word": "婴儿高烧抽搐消防车秒变救护车",
+      "onboard_time": 1700645739,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208221,
       "num": 208221,
       "word": "呼吸道感染情况调查问卷",
@@ -35441,6 +35497,14 @@
       "onboard_time": 1699794635,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207590,
+      "num": 207590,
+      "word": "王嘉尔北京演唱会官宣",
+      "onboard_time": 1700647899,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 207587,
@@ -35625,6 +35689,14 @@
       "onboard_time": 1700442032,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206846,
+      "num": 206846,
+      "word": "防弹少年团 2025年完整体重聚",
+      "onboard_time": 1700647775,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 206843,
@@ -37049,6 +37121,14 @@
       "onboard_time": 1700116113,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200180,
+      "num": 200180,
+      "word": "张杰小雪点歌",
+      "onboard_time": 1700647835,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 200172,
@@ -38833,6 +38913,14 @@
       "onboard_time": 1699797095,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192603,
+      "num": 192603,
+      "word": "理想生活季",
+      "onboard_time": 1700648135,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 192506,
@@ -45467,6 +45555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159353,
+      "num": 159353,
+      "word": "吗喽穿搭",
+      "onboard_time": 1700648135,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 159130,
       "num": 159130,
       "word": "专家解读肺炎支原体感染和流感区别",
@@ -46001,6 +46097,14 @@
       "onboard_time": 1699834111,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156351,
+      "num": 156351,
+      "word": "奶牛猫 猫界癫公",
+      "onboard_time": 1700646816,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 156338,
@@ -53545,6 +53649,14 @@
       "onboard_time": 1700225677,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 118879,
+      "num": 629829,
+      "word": "更适合00后的锦旗已出现",
+      "onboard_time": 1700646996,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118856,
