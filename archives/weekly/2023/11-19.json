@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700659384053,
+  "endTime": 1700660057889,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -571,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1464727,
+      "num": 1464727,
+      "word": "张雪峰成功预言考研人数下降",
+      "onboard_time": 1700658937,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1435154,
       "num": 703556,
       "word": "女子花1.8万买衣服一年不发货不退款",
@@ -600,6 +608,14 @@
       "word": "裁判",
       "onboard_time": 1700570137,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1389136,
+      "num": 1389136,
+      "word": "朱琳官宣结婚",
+      "onboard_time": 1700657854,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 1363062,
-      "num": 1165581,
+      "num": 1275230,
       "word": "文春称羽生结弦是妈宝男",
       "onboard_time": 1700656172,
       "rank": 19,
@@ -947,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 979146,
-      "num": 979146,
-      "word": "朱琳官宣结婚",
-      "onboard_time": 1700657854,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 978303,
       "num": 978303,
       "word": "专家称人民币12月可能进入正式升值通道",
@@ -1203,8 +1211,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 816656,
-      "num": 816656,
+      "raw_hot": 816840,
+      "num": 816840,
       "word": "奚梦瑶曾因怀孕脊椎错位",
       "onboard_time": 1700657132,
       "rank": 32,
@@ -1761,14 +1769,6 @@
       "onboard_time": 1700439814,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 635999,
-      "num": 408139,
-      "word": "张雪峰成功预言考研人数下降",
-      "onboard_time": 1700658937,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 635912,
@@ -4331,6 +4331,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308866,
+      "num": 302970,
+      "word": "李艾分享孩子甲流就诊经历",
+      "onboard_time": 1700658637,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308654,
+      "num": 294333,
+      "word": "以爱为营",
+      "onboard_time": 1700390497,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307914,
       "num": 307914,
       "word": "快乐老友记",
@@ -4513,14 +4529,6 @@
       "onboard_time": 1700623775,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 297399,
-      "num": 286676,
-      "word": "以爱为营",
-      "onboard_time": 1700390497,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 297162,
@@ -4811,14 +4819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275855,
-      "num": 275855,
-      "word": "李艾分享孩子甲流就诊经历",
-      "onboard_time": 1700658637,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275779,
       "num": 275779,
       "word": "Tims崩了",
@@ -4841,6 +4841,14 @@
       "onboard_time": 1700625573,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273470,
+      "num": 266817,
+      "word": "王睡睡终于攒够了失望",
+      "onboard_time": 1700655155,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 273177,
@@ -4963,14 +4971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266817,
-      "num": 266817,
-      "word": "王睡睡终于攒够了失望",
-      "onboard_time": 1700655155,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266617,
       "num": 266617,
       "word": "韩国男足称目标是零封国足",
@@ -5089,6 +5089,14 @@
       "onboard_time": 1700373449,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 261574,
+      "num": 204110,
+      "word": "B太来哈尔滨先来吃一顿铁锅炖",
+      "onboard_time": 1700658458,
+      "rank": 30,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 261476,
@@ -5843,6 +5851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228633,
+      "num": 228633,
+      "word": "花少5的格局",
+      "onboard_time": 1700658215,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228586,
       "num": 221547,
       "word": "新闻女王 三人精神状态日渐稳定",
@@ -5969,14 +5985,6 @@
       "onboard_time": 1700534192,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221987,
-      "num": 204110,
-      "word": "B太来哈尔滨先来吃一顿铁锅炖",
-      "onboard_time": 1700658458,
-      "rank": 30,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 221957,
@@ -6107,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218877,
+      "num": 232464,
+      "word": "围炉煮茶什么茶不可以煮",
+      "onboard_time": 1700660017,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 218820,
       "num": 218820,
       "word": "2023LOL冬季转会期",
@@ -6169,14 +6185,6 @@
       "onboard_time": 1700447251,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217015,
-      "num": 217015,
-      "word": "花少5的格局",
-      "onboard_time": 1700658215,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 216795,
@@ -6401,6 +6409,14 @@
       "onboard_time": 1700531311,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210051,
+      "num": 199007,
+      "word": "SBS歌谣大战MC",
+      "onboard_time": 1700659176,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 209824,
@@ -6947,12 +6963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199062,
+      "num": 199062,
+      "word": "斥资16元在家跟儿子围炉煮茶",
+      "onboard_time": 1700660017,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198774,
       "num": 183700,
       "word": "郭珮文 TVB台庆最大赢家",
       "onboard_time": 1700453137,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198263,
+      "num": 198263,
+      "word": "新闻女王 职场味",
+      "onboard_time": 1700658035,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 198019,
@@ -7075,14 +7107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195329,
-      "num": 195329,
-      "word": "新闻女王 职场味",
-      "onboard_time": 1700658035,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195296,
       "num": 195296,
       "word": "乔林顿红牌",
@@ -7155,6 +7179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193037,
+      "num": 193037,
+      "word": "天官赐福",
+      "onboard_time": 1700658820,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193020,
       "num": 190592,
       "word": "西游记新切入点",
@@ -7185,6 +7217,14 @@
       "onboard_time": 1700648135,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 192495,
+      "num": 192495,
+      "word": "时宴 越疯越迷人",
+      "onboard_time": 1700658097,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 192205,
@@ -7363,6 +7403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 188167,
+      "num": 188167,
+      "word": "古籍的医生",
+      "onboard_time": 1700658937,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188093,
       "num": 188093,
       "word": "导盲犬带主人吃火锅迷路",
@@ -7401,14 +7449,6 @@
       "onboard_time": 1700553457,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187656,
-      "num": 187656,
-      "word": "时宴 越疯越迷人",
-      "onboard_time": 1700658097,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 187627,
@@ -7560,14 +7600,6 @@
       "word": "郑希怡 恋爱与工作要分清",
       "onboard_time": 1700642918,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184410,
-      "num": 184410,
-      "word": "古籍的医生",
-      "onboard_time": 1700658937,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -7736,6 +7768,14 @@
       "word": "小鬼 美式男高造型",
       "onboard_time": 1700382869,
       "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179304,
+      "num": 179304,
+      "word": "董思成蓝发羽毛造型",
+      "onboard_time": 1700659116,
+      "rank": 40,
       "category": "作品衍生,时尚"
     },
     {
@@ -8363,28 +8403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159816,
-      "num": 156067,
-      "word": "董思成蓝发羽毛造型",
-      "onboard_time": 1700659116,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 159729,
       "num": 159729,
       "word": "更年期 激素治疗",
       "onboard_time": 1700454519,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159704,
-      "num": 159704,
-      "word": "天官赐福",
-      "onboard_time": 1700658820,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 159451,
@@ -8497,14 +8521,6 @@
       "onboard_time": 1700549496,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155784,
-      "num": 155784,
-      "word": "SBS歌谣大战MC",
-      "onboard_time": 1700659176,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 155766,
@@ -10668,7 +10684,7 @@
     },
     {
       "raw_hot": 67582,
-      "num": 1053089,
+      "num": 1283363,
       "word": "接英雄回家",
       "onboard_time": 1700638898,
       "rank": 2,

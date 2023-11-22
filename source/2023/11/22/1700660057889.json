@@ -1,0 +1,410 @@
+{
+  "runTime": 1700660057889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464727,
+        "num": 1464727,
+        "word": "张雪峰成功预言考研人数下降",
+        "onboard_time": 1700658937,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1389136,
+        "num": 1389136,
+        "word": "朱琳官宣结婚",
+        "onboard_time": 1700657854,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60589,
+        "num": 1283363,
+        "word": "接英雄回家",
+        "onboard_time": 1700638898,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275230,
+        "num": 1275230,
+        "word": "文春称羽生结弦是妈宝男",
+        "onboard_time": 1700656172,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1077646,
+        "num": 1077646,
+        "word": "以爱为营大结局",
+        "onboard_time": 1700655874,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 816840,
+        "num": 816840,
+        "word": "奚梦瑶曾因怀孕脊椎错位",
+        "onboard_time": 1700657132,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726082,
+        "num": 726082,
+        "word": "24岁学英语 老师4岁了",
+        "onboard_time": 1700657194,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 629768,
+        "num": 629768,
+        "word": "五大变四大",
+        "onboard_time": 1700643217,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 584441,
+        "num": 584441,
+        "word": "王艺妍妤胡明昊许文婷拿到offer",
+        "onboard_time": 1700656774,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444825,
+        "num": 444825,
+        "word": "何猷君 太好了你没病病",
+        "onboard_time": 1700650774,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854806,
+        "num": 444243,
+        "word": "张一鸣或成为中国第一个世界首富",
+        "onboard_time": 1700648254,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 921642,
+        "num": 438336,
+        "word": "金莎爸爸辣评女儿恋情",
+        "onboard_time": 1700650958,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736771,
+        "num": 433659,
+        "word": "董岩磊 230斤",
+        "onboard_time": 1700649932,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650642,
+        "num": 430168,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 13,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 541482,
+        "num": 423478,
+        "word": "易烊千玺机场",
+        "onboard_time": 1700653595,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522797,
+        "num": 420351,
+        "word": "邓为腿受伤",
+        "onboard_time": 1700654374,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418202,
+        "num": 418202,
+        "word": "爱奇艺尖叫之夜cp合体",
+        "onboard_time": 1700656237,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337432,
+        "num": 337432,
+        "word": "0713巡回演唱会正式启动",
+        "onboard_time": 1700653833,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321444,
+        "num": 321444,
+        "word": "闲鱼大量封号",
+        "onboard_time": 1700650656,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 307935,
+        "num": 307935,
+        "word": "2024考研438万人报名",
+        "onboard_time": 1700651076,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308866,
+        "num": 302970,
+        "word": "李艾分享孩子甲流就诊经历",
+        "onboard_time": 1700658637,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308654,
+        "num": 294333,
+        "word": "以爱为营",
+        "onboard_time": 1700659657,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275179,
+        "num": 275179,
+        "word": "父亲回应颜宁当选中国科学院院士",
+        "onboard_time": 1700652098,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246421,
+        "num": 246421,
+        "word": "时尚COSMO改名",
+        "onboard_time": 1700655334,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 218877,
+        "num": 232464,
+        "word": "围炉煮茶什么茶不可以煮",
+        "onboard_time": 1700660017,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273470,
+        "num": 231194,
+        "word": "王睡睡终于攒够了失望",
+        "onboard_time": 1700655155,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228633,
+        "num": 228633,
+        "word": "花少5的格局",
+        "onboard_time": 1700658215,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219709,
+        "num": 219709,
+        "word": "王一博小雪营业",
+        "onboard_time": 1700653117,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204543,
+        "num": 204543,
+        "word": "美国网红挑战地下活埋7天",
+        "onboard_time": 1700656715,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199062,
+        "num": 199062,
+        "word": "斥资16元在家跟儿子围炉煮茶",
+        "onboard_time": 1700660017,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261574,
+        "num": 199051,
+        "word": "B太来哈尔滨先来吃一顿铁锅炖",
+        "onboard_time": 1700658458,
+        "rank": 30,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 210051,
+        "num": 199007,
+        "word": "SBS歌谣大战MC",
+        "onboard_time": 1700659176,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198263,
+        "num": 198263,
+        "word": "新闻女王 职场味",
+        "onboard_time": 1700658035,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193037,
+        "num": 193037,
+        "word": "天官赐福",
+        "onboard_time": 1700658820,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171677,
+        "num": 192667,
+        "word": "考研人数",
+        "onboard_time": 1700652098,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192495,
+        "num": 192495,
+        "word": "时宴 越疯越迷人",
+        "onboard_time": 1700658097,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188167,
+        "num": 188167,
+        "word": "古籍的医生",
+        "onboard_time": 1700658937,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189685,
+        "num": 187469,
+        "word": "沈羽洁以爱为营剧组vlog",
+        "onboard_time": 1700658274,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179304,
+        "num": 179304,
+        "word": "董思成蓝发羽毛造型",
+        "onboard_time": 1700659116,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166083,
+        "num": 166083,
+        "word": "纸嫁衣鸳鸯债 拍摄过审",
+        "onboard_time": 1700651135,
+        "rank": 39,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 179044,
+        "num": 165100,
+        "word": "原来甘蔗也有平替",
+        "onboard_time": 1700654014,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169356,
+        "num": 154737,
+        "word": "还好谢危长嘴了",
+        "onboard_time": 1700657376,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140771,
+        "num": 140771,
+        "word": "发烧是免疫系统杀疯了",
+        "onboard_time": 1700644362,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136069,
+        "num": 136069,
+        "word": "颜宁当选中国科学院院士",
+        "onboard_time": 1700645200,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134252,
+        "num": 134252,
+        "word": "时尚COSMO停刊",
+        "onboard_time": 1700643459,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 147125,
+        "num": 132857,
+        "word": "新闻女王唯一的缺点 更太慢",
+        "onboard_time": 1700655095,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147022,
+        "num": 132168,
+        "word": "街舞 印度味儿",
+        "onboard_time": 1700654675,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129741,
+        "num": 129741,
+        "word": "红绿灯的黄",
+        "onboard_time": 1700634632,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 127395,
+        "num": 127395,
+        "word": "即刻生效",
+        "onboard_time": 1700643760,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 118280,
+        "num": 118280,
+        "word": "苦难认知",
+        "onboard_time": 1700657558,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动停火止战实现持久和平安全#"
+    }
+  }
+}
