@@ -1,0 +1,410 @@
+{
+  "runTime": 1700630257095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2051954,
+        "num": 2051954,
+        "word": "小杨哥徒弟被消协列入低俗带货案例",
+        "onboard_time": 1700628338,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1623135,
+        "num": 1623135,
+        "word": "警方通报斗鱼CEO被捕",
+        "onboard_time": 1700628459,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 88555,
+        "num": 1388656,
+        "word": "第10批在韩志愿军烈士遗骸装殓仪式举行",
+        "onboard_time": 1700626116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334221,
+        "num": 1334221,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 3,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 819574,
+        "num": 819574,
+        "word": "汪苏泷 让大雨全部落下那男的",
+        "onboard_time": 1700628338,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729621,
+        "num": 729621,
+        "word": "斗鱼涉赌直播间年流水1.77亿",
+        "onboard_time": 1700627676,
+        "rank": 5,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 623027,
+        "num": 623027,
+        "word": "迪丽热巴当导游",
+        "onboard_time": 1700627619,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594419,
+        "num": 594419,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505119,
+        "num": 505119,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450841,
+        "num": 450841,
+        "word": "危宁 龙凤胎",
+        "onboard_time": 1700624976,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 918320,
+        "num": 442113,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587494,
+        "num": 440255,
+        "word": "严重的脂肪肝原来是这样",
+        "onboard_time": 1700624375,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 426064,
+        "num": 426064,
+        "word": "许凯拍吻戏累到睡着了",
+        "onboard_time": 1700627019,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316198,
+        "num": 316198,
+        "word": "Twins 抢票",
+        "onboard_time": 1700624976,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312275,
+        "num": 312275,
+        "word": "一闪一闪亮星星定档预告",
+        "onboard_time": 1700622093,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295648,
+        "num": 295648,
+        "word": "特斯拉刹车失灵事件核心成员被判道歉",
+        "onboard_time": 1700623234,
+        "rank": 15,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 295476,
+        "num": 295476,
+        "word": "1块8毛钱的羊脂皂",
+        "onboard_time": 1700626236,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 290519,
+        "num": 290519,
+        "word": "陈都灵焦糖柿子妆",
+        "onboard_time": 1700627198,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265938,
+        "num": 265938,
+        "word": "乌尔善 节气博主",
+        "onboard_time": 1700626299,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257065,
+        "num": 257065,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 681712,
+        "num": 243348,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482489,
+        "num": 236583,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 270426,
+        "num": 235609,
+        "word": "肺炎支原体已非儿科就诊首因",
+        "onboard_time": 1700625573,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225246,
+        "num": 225246,
+        "word": "直播间卖爆的羽绒服都是谁在买",
+        "onboard_time": 1700629776,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224571,
+        "num": 224571,
+        "word": "睡眠不规律等导致卒中发病年轻化",
+        "onboard_time": 1700627077,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223654,
+        "num": 223654,
+        "word": "安徽省高考状元参加脑力综艺",
+        "onboard_time": 1700622332,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221547,
+        "num": 221547,
+        "word": "新闻女王 三人精神状态日渐稳定",
+        "onboard_time": 1700626957,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218727,
+        "num": 218727,
+        "word": "周游记2官宣定档",
+        "onboard_time": 1700627257,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203702,
+        "num": 203702,
+        "word": "TFBOYS十周年演唱会登阿里财报",
+        "onboard_time": 1700613938,
+        "rank": 28,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 190920,
+        "num": 190920,
+        "word": "李相夷 莲花儿",
+        "onboard_time": 1700629537,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 185065,
+        "num": 185065,
+        "word": "狗主人带狗妈狗崽摆摊三天找狗",
+        "onboard_time": 1700627619,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184054,
+        "num": 184054,
+        "word": "名侦探学院7官宣定档",
+        "onboard_time": 1700622814,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180395,
+        "num": 180395,
+        "word": "斗鱼股价已跌去超9成",
+        "onboard_time": 1700612016,
+        "rank": 32,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 175008,
+        "num": 175008,
+        "word": "BLACKPINK合体的方式",
+        "onboard_time": 1700620712,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172405,
+        "num": 172405,
+        "word": "我有能力考研但没能力读研",
+        "onboard_time": 1700616392,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171959,
+        "num": 171959,
+        "word": "巴西警察殴打阿根廷球迷",
+        "onboard_time": 1700624499,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169825,
+        "num": 169825,
+        "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+        "onboard_time": 1700617053,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166384,
+        "num": 166384,
+        "word": "为何脂肪肝会缠上年轻人",
+        "onboard_time": 1700628819,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160536,
+        "num": 160536,
+        "word": "大学毕业在没信号的山里工作13年",
+        "onboard_time": 1700625758,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160303,
+        "num": 160303,
+        "word": "EDG官宣NEST出征名单",
+        "onboard_time": 1700624853,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148616,
+        "num": 148616,
+        "word": "17岁姑姑打6个月零工送小侄子金镯",
+        "onboard_time": 1700609909,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148134,
+        "num": 148134,
+        "word": "电影水饺皇后杀青",
+        "onboard_time": 1700623775,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139901,
+        "num": 139901,
+        "word": "詹姆斯历史三分榜第7位",
+        "onboard_time": 1700627917,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128088,
+        "num": 128088,
+        "word": "盛典版 换乘恋爱",
+        "onboard_time": 1700630136,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127731,
+        "num": 127731,
+        "word": "3类牙膏被列入致癌黑名单",
+        "onboard_time": 1700607923,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125439,
+        "num": 125439,
+        "word": "杨幂王子奇同框",
+        "onboard_time": 1700619452,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125065,
+        "num": 125065,
+        "word": "美依礼芽新歌铃兰",
+        "onboard_time": 1700630194,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120738,
+        "num": 120738,
+        "word": "巴西0比1阿根廷",
+        "onboard_time": 1700622212,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118780,
+        "num": 118780,
+        "word": "五月天演唱会跨年倒计时",
+        "onboard_time": 1700620114,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 118364,
+        "word": "唐代人离婚不是理想化的一别两宽",
+        "onboard_time": 1700616811,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#金砖国家发出正义之声和平之声非常必要#"
+    }
+  }
+}
