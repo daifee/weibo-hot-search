@@ -1,0 +1,410 @@
+{
+  "runTime": 1700627752313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811677,
+        "num": 1811677,
+        "word": "波司登平均价格已升至1600元",
+        "onboard_time": 1700622575,
+        "rank": 0,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 1054514,
+        "num": 1054514,
+        "word": "梅西 不踢了",
+        "onboard_time": 1700617053,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113280,
+        "num": 779447,
+        "word": "第10批在韩志愿军烈士遗骸装殓仪式举行",
+        "onboard_time": 1700626116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669389,
+        "num": 669389,
+        "word": "危宁 龙凤胎",
+        "onboard_time": 1700624976,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663869,
+        "num": 663869,
+        "word": "围炉烤橘放倒母子3人",
+        "onboard_time": 1700620472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481011,
+        "num": 621393,
+        "word": "曼谷街头现多名中国籍毁容乞讨者",
+        "onboard_time": 1700615911,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541818,
+        "num": 541818,
+        "word": "特斯拉刹车失灵事件核心成员被判道歉",
+        "onboard_time": 1700623234,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 515805,
+        "num": 515805,
+        "word": "国产羽绒服卖到7000元",
+        "onboard_time": 1700614297,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 498618,
+        "num": 498618,
+        "word": "一闪一闪亮星星定档预告",
+        "onboard_time": 1700622093,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479068,
+        "num": 479068,
+        "word": "安徽省高考状元参加脑力综艺",
+        "onboard_time": 1700622332,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583494,
+        "num": 478242,
+        "word": "严重的脂肪肝原来是这样",
+        "onboard_time": 1700624375,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 464184,
+        "num": 464184,
+        "word": "周游记2官宣定档",
+        "onboard_time": 1700627257,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407738,
+        "num": 407738,
+        "word": "Twins 抢票",
+        "onboard_time": 1700624976,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382864,
+        "num": 382864,
+        "word": "乌尔善 节气博主",
+        "onboard_time": 1700626299,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381484,
+        "num": 381484,
+        "word": "1块8毛钱的羊脂皂",
+        "onboard_time": 1700626236,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 379893,
+        "num": 379893,
+        "word": "陈都灵焦糖柿子妆",
+        "onboard_time": 1700627198,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 378314,
+        "num": 378314,
+        "word": "巴西警察殴打阿根廷球迷",
+        "onboard_time": 1700624499,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341556,
+        "num": 341556,
+        "word": "许凯拍吻戏累到睡着了",
+        "onboard_time": 1700627019,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311928,
+        "num": 311928,
+        "word": "名侦探学院7官宣定档",
+        "onboard_time": 1700622814,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278673,
+        "num": 278673,
+        "word": "我有能力考研但没能力读研",
+        "onboard_time": 1700616392,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 870976,
+        "num": 277504,
+        "word": "奚梦瑶 生孩子不痛",
+        "onboard_time": 1700610933,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587606,
+        "num": 275343,
+        "word": "女子起诉离婚却发现丈夫已去世",
+        "onboard_time": 1700620953,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 268858,
+        "num": 268858,
+        "word": "肺炎支原体已非儿科就诊首因",
+        "onboard_time": 1700625573,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263014,
+        "num": 263014,
+        "word": "TFBOYS十周年演唱会登阿里财报",
+        "onboard_time": 1700613938,
+        "rank": 23,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 259509,
+        "num": 259509,
+        "word": "EDG官宣NEST出征名单",
+        "onboard_time": 1700624853,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254732,
+        "num": 254732,
+        "word": "电影水饺皇后杀青",
+        "onboard_time": 1700623775,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228651,
+        "num": 228651,
+        "word": "大学毕业在没信号的山里工作13年",
+        "onboard_time": 1700625758,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220373,
+        "num": 220373,
+        "word": "BLACKPINK合体的方式",
+        "onboard_time": 1700620712,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217778,
+        "num": 217778,
+        "word": "巴西0比1阿根廷",
+        "onboard_time": 1700622212,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180441,
+        "num": 217171,
+        "word": "哈马斯释放50名妇女儿童换4天停火",
+        "onboard_time": 1700619152,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228586,
+        "num": 217123,
+        "word": "新闻女王 三人精神状态日渐稳定",
+        "onboard_time": 1700626957,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216965,
+        "num": 216965,
+        "word": "迪丽热巴当导游",
+        "onboard_time": 1700627619,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213376,
+        "num": 213376,
+        "word": "CGV 不放票",
+        "onboard_time": 1700626596,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201481,
+        "num": 201481,
+        "word": "17岁姑姑打6个月零工送小侄子金镯",
+        "onboard_time": 1700609909,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198214,
+        "num": 198214,
+        "word": "詹姆斯39000分",
+        "onboard_time": 1700624435,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197697,
+        "num": 197697,
+        "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+        "onboard_time": 1700617053,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192536,
+        "num": 192536,
+        "word": "斗鱼股价已跌去超9成",
+        "onboard_time": 1700612016,
+        "rank": 36,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 186803,
+        "num": 186803,
+        "word": "很想很想你OST阵容官宣",
+        "onboard_time": 1700623775,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179259,
+        "num": 179259,
+        "word": "杨幂王子奇同框",
+        "onboard_time": 1700619452,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177274,
+        "num": 177274,
+        "word": "3类牙膏被列入致癌黑名单",
+        "onboard_time": 1700607923,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174465,
+        "num": 174465,
+        "word": "五月天演唱会跨年倒计时",
+        "onboard_time": 1700620114,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168779,
+        "num": 168779,
+        "word": "睡眠不规律等导致卒中发病年轻化",
+        "onboard_time": 1700627077,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165319,
+        "num": 165319,
+        "word": "斗鱼涉赌直播间年流水1.77亿",
+        "onboard_time": 1700627676,
+        "rank": 42,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 158871,
+        "num": 158871,
+        "word": "猫猫我啊 吃一堑又吃一堑了",
+        "onboard_time": 1700627739,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "秦海璐拍到了岩石里开出的花",
+        "onboard_time": 1700621190,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152873,
+        "num": 152873,
+        "word": "洪胜汉将无限期中断活动",
+        "onboard_time": 1700615316,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152519,
+        "num": 152519,
+        "word": "狗主人带狗妈狗崽摆摊三天找狗",
+        "onboard_time": 1700627619,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149648,
+        "num": 149648,
+        "word": "杨幂粉黑棒球服",
+        "onboard_time": 1700622575,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149354,
+        "num": 149354,
+        "word": "唐代人离婚不是理想化的一别两宽",
+        "onboard_time": 1700616811,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 138157,
+        "num": 138157,
+        "word": "合胞病毒",
+        "onboard_time": 1700608282,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动巴勒斯坦问题早日得到全面公正持久解决#"
+    }
+  }
+}
