@@ -1,0 +1,410 @@
+{
+  "runTime": 1700671124181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906569,
+        "num": 906569,
+        "word": "开心消消乐程序员回来加班",
+        "onboard_time": 1700666496,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 623433,
+        "num": 623433,
+        "word": "以爱为营 婚礼",
+        "onboard_time": 1700661158,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35190,
+        "num": 573537,
+        "word": "对风雪中的环卫工人说声谢谢",
+        "onboard_time": 1700662719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530287,
+        "num": 530287,
+        "word": "新闻女王 文慧心别骂了",
+        "onboard_time": 1700662538,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528650,
+        "num": 528650,
+        "word": "张雪峰成功预言考研人数下降",
+        "onboard_time": 1700658937,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337002,
+        "num": 337002,
+        "word": "迪丽热巴 我舍不得让她干累的活",
+        "onboard_time": 1700660255,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335628,
+        "num": 335628,
+        "word": "鸟鸟 北方的city过年很难walk",
+        "onboard_time": 1700666673,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312057,
+        "num": 312057,
+        "word": "退休教师在家辅导外孙女数学走红",
+        "onboard_time": 1700667453,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 277502,
+        "num": 277502,
+        "word": "0713 没听说",
+        "onboard_time": 1700665779,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172025,
+        "num": 172025,
+        "word": "24岁学英语 老师4岁了",
+        "onboard_time": 1700657194,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 955015,
+        "num": 171716,
+        "word": "男子出轨被发现后开车顶撞妻女",
+        "onboard_time": 1700661097,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618874,
+        "num": 169457,
+        "word": "兔子曾被当做过验孕棒",
+        "onboard_time": 1700661037,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 432620,
+        "num": 168124,
+        "word": "金莎爸爸辣评女儿恋情",
+        "onboard_time": 1700650958,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294080,
+        "num": 166490,
+        "word": "发烧",
+        "onboard_time": 1700636252,
+        "rank": 13,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 286411,
+        "num": 164609,
+        "word": "董岩磊 230斤",
+        "onboard_time": 1700649932,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271954,
+        "num": 162151,
+        "word": "以爱为营大结局",
+        "onboard_time": 1700655874,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215529,
+        "num": 160006,
+        "word": "T1老板透露Canyon加入GEN",
+        "onboard_time": 1700666496,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213296,
+        "num": 159367,
+        "word": "五大变四大",
+        "onboard_time": 1700643217,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 202201,
+        "num": 157079,
+        "word": "何猷君 太好了你没病病",
+        "onboard_time": 1700650774,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130042,
+        "num": 154946,
+        "word": "朱琳官宣结婚",
+        "onboard_time": 1700657854,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191573,
+        "num": 153079,
+        "word": "HYBE不给hanni上韩语课",
+        "onboard_time": 1700661396,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153066,
+        "num": 153066,
+        "word": "以爱为营",
+        "onboard_time": 1700659657,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152720,
+        "num": 152720,
+        "word": "王睡睡终于攒够了失望",
+        "onboard_time": 1700655155,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146072,
+        "num": 146072,
+        "word": "养老院不能睡懒觉",
+        "onboard_time": 1700667033,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373993,
+        "num": 142332,
+        "word": "中植集团致歉",
+        "onboard_time": 1700666496,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 139959,
+        "word": "关智斌 我找到了一些存货",
+        "onboard_time": 1700667814,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133924,
+        "num": 133924,
+        "word": "闲鱼大量封号",
+        "onboard_time": 1700650656,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 125771,
+        "num": 125771,
+        "word": "许文婷全场MVP",
+        "onboard_time": 1700662060,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118777,
+        "num": 122654,
+        "word": "爷爷接错孙女到家10多分钟未发现",
+        "onboard_time": 1700661097,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105313,
+        "num": 122048,
+        "word": "全红婵全锦赛亚军",
+        "onboard_time": 1700661579,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121634,
+        "num": 121634,
+        "word": "英雄联盟服务器",
+        "onboard_time": 1700662479,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116401,
+        "num": 116401,
+        "word": "孩子看一次可以管一个月",
+        "onboard_time": 1700666496,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 115220,
+        "num": 115220,
+        "word": "易烊千玺机场",
+        "onboard_time": 1700653595,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107512,
+        "num": 107512,
+        "word": "王艺妍妤胡明昊许文婷拿到offer",
+        "onboard_time": 1700656774,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103925,
+        "num": 103925,
+        "word": "爱奇艺尖叫之夜cp合体",
+        "onboard_time": 1700656237,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101926,
+        "num": 101926,
+        "word": "i人错过",
+        "onboard_time": 1700665419,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94474,
+        "num": 94474,
+        "word": "花少 当导游前vs当导游后",
+        "onboard_time": 1700666855,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91995,
+        "num": 91995,
+        "word": "为什么没有Kim",
+        "onboard_time": 1700660738,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91276,
+        "num": 91276,
+        "word": "父亲回应颜宁当选中国科学院院士",
+        "onboard_time": 1700652098,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77169,
+        "num": 77169,
+        "word": "斥资16元在家跟儿子围炉煮茶",
+        "onboard_time": 1700660017,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89992,
+        "num": 77042,
+        "word": "花少 辛芷蕾的穿搭",
+        "onboard_time": 1700667693,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78225,
+        "num": 75708,
+        "word": "王一博小雪营业",
+        "onboard_time": 1700653117,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74037,
+        "num": 74037,
+        "word": "姜雪宁 公主请解救公主",
+        "onboard_time": 1700662479,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73355,
+        "num": 73355,
+        "word": "百度崩了",
+        "onboard_time": 1700663678,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72716,
+        "num": 72716,
+        "word": "时尚COSMO改名",
+        "onboard_time": 1700655334,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 72083,
+        "num": 72083,
+        "word": "新闻女王 职场味",
+        "onboard_time": 1700658035,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71325,
+        "num": 71325,
+        "word": "荣耀回应借壳上市",
+        "onboard_time": 1700670327,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66061,
+        "num": 71310,
+        "word": "小学生不想写作业持刀威胁妈妈",
+        "onboard_time": 1700670867,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64634,
+        "num": 71309,
+        "word": "李沁古装仪态",
+        "onboard_time": 1700664338,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58770,
+        "num": 71286,
+        "word": "海南警方 缉犯犀牌号子服",
+        "onboard_time": 1700665298,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动巴勒斯坦问题早日得到全面公正持久解决#"
+    }
+  }
+}
