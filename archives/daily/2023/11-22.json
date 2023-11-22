@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700617177627,
+  "endTime": 1700620355035,
   "band_list": [
     {
       "raw_hot": 2468887,
@@ -19,12 +19,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1811980,
+      "num": 1811980,
+      "word": "梅西 不踢了",
+      "onboard_time": 1700617053,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1651629,
       "num": 165703,
       "word": "冲绳",
       "onboard_time": 1700577877,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1582477,
+      "num": 1582477,
+      "word": "曼谷街头现多名中国籍毁容乞讨者",
+      "onboard_time": 1700615911,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1392131,
@@ -83,20 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795763,
-      "num": 387167,
-      "word": "曼谷街头现多名中国籍毁容乞讨者",
-      "onboard_time": 1700615911,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 757016,
       "num": 757016,
       "word": "巴宝莉赚不到我一分钱",
       "onboard_time": 1700578416,
       "rank": 1,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 745593,
+      "num": 745593,
+      "word": "我有能力考研但没能力读研",
+      "onboard_time": 1700616392,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 586666,
@@ -147,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 498252,
+      "num": 379407,
+      "word": "唐代人离婚不是理想化的一别两宽",
+      "onboard_time": 1700616811,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 495220,
       "num": 495220,
       "word": "高嘌呤食物排行榜",
@@ -169,6 +193,14 @@
       "onboard_time": 1700609306,
       "rank": 38,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 455750,
+      "num": 368018,
+      "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+      "onboard_time": 1700617053,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 452175,
@@ -195,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400812,
+      "num": 400812,
+      "word": "哈马斯释放50名妇女儿童换4天停火",
+      "onboard_time": 1700619152,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 400223,
       "num": 400223,
       "word": "TFBOYS十周年演唱会登阿里财报",
@@ -219,12 +259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 367569,
-      "num": 367569,
-      "word": "我有能力考研但没能力读研",
-      "onboard_time": 1700616392,
+      "raw_hot": 365362,
+      "num": 365362,
+      "word": "夏奇拉逃税超1亿被罚5700万",
+      "onboard_time": 1700618195,
       "rank": 14,
-      "category": "教育"
+      "category": "艺人"
     },
     {
       "raw_hot": 348930,
@@ -241,6 +281,14 @@
       "onboard_time": 1700614833,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302946,
+      "num": 302946,
+      "word": "RIIZE删除洪胜汉物料",
+      "onboard_time": 1700619391,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 301962,
@@ -291,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256270,
+      "num": 256270,
+      "word": "杨幂王子奇同框",
+      "onboard_time": 1700619452,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254079,
       "num": 204637,
       "word": "白敬亭告黑效率",
@@ -307,12 +363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241398,
-      "num": 183704,
-      "word": "唐代人离婚不是理想化的一别两宽",
-      "onboard_time": 1700616811,
-      "rank": 30,
-      "category": "读书作家"
+      "raw_hot": 249654,
+      "num": 249654,
+      "word": "巴西阿根廷比赛推迟",
+      "onboard_time": 1700617651,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238632,
+      "num": 238632,
+      "word": "ChatGPT崩了",
+      "onboard_time": 1700618492,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 234234,
@@ -404,7 +468,7 @@
     },
     {
       "raw_hot": 188374,
-      "num": 1384110,
+      "num": 1634626,
       "word": "英雄回家",
       "onboard_time": 1700571161,
       "rank": 2,
@@ -435,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173972,
-      "num": 173972,
-      "word": "金南俊朴智旻金泰亨田柾国准备入伍",
+      "raw_hot": 175841,
+      "num": 175841,
+      "word": "五保户在银行存一万变保险退保亏3500",
       "onboard_time": 1700617053,
-      "rank": 32,
-      "category": "艺人"
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 168913,
@@ -449,6 +513,14 @@
       "onboard_time": 1700577877,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 163967,
+      "num": 163967,
+      "word": "崔琳是李嶷唯一认定的太子妃",
+      "onboard_time": 1700619570,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 161919,
@@ -465,6 +537,14 @@
       "onboard_time": 1700569056,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159317,
+      "num": 159317,
+      "word": "以色列内阁同意与哈马斯临时停火",
+      "onboard_time": 1700620172,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 153895,
@@ -531,14 +611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133875,
-      "num": 133875,
-      "word": "梅西 不踢了",
-      "onboard_time": 1700617053,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130450,
       "num": 130450,
       "word": "儿子跳水救3人母亲骄傲藏不住",
@@ -553,14 +625,6 @@
       "onboard_time": 1700566655,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125333,
-      "num": 125333,
-      "word": "五保户在银行存一万变保险退保亏3500",
-      "onboard_time": 1700617053,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 125055,
@@ -627,6 +691,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 112839,
+      "num": 112839,
+      "word": "小雪节气养生注意三点",
+      "onboard_time": 1700618793,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111719,
       "num": 114502,
       "word": "感动无数网友的烧伤女孩涅槃重生",
@@ -641,6 +713,14 @@
       "onboard_time": 1700568453,
       "rank": 26,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 106659,
+      "num": 106659,
+      "word": "五月天演唱会跨年倒计时",
+      "onboard_time": 1700620114,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 103670,
