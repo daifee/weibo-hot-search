@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/22 16:36:18
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/22 17:18:27
 </p>
 </blockquote>
 <p>
@@ -1323,6 +1323,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%23" target="weibo">
+发烧（热度：8201484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E8%BF%98%E6%98%AF%E9%94%AE%E7%9B%98%E4%BE%A0%E5%A5%BD%E5%BD%93%23" target="weibo">
 鹿晗 还是键盘侠好当（热度：8185446）
 </a>
@@ -1805,12 +1811,6 @@ EDG官宣签约Uzi（热度：6842168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3%23" target="weibo">
 仲尼遇难现场妻子卡琳娜掩面而泣（热度：6667104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
-DOTA2中国队夺冠（热度：6586145）
 </a>
 </li>
 

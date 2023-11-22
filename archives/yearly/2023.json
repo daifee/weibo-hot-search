@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700642178118,
+  "endTime": 1700644707654,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8201484,
+      "num": 8201484,
+      "word": "发烧",
+      "onboard_time": 1700636252,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 8185446,
       "num": 8185446,
       "word": "鹿晗 还是键盘侠好当",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1699486288,
       "rank": 11,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 6586145,
-      "num": 6586145,
-      "word": "DOTA2中国队夺冠",
-      "onboard_time": 1696258901,
-      "rank": 0,
-      "category": "游戏,体育"
     }
   ],
   "hotgov_list": [

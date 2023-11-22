@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 16:36:18
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/22 17:18:27
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@ T1晋级S13四强（热度：9440198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%23" target="weibo">
+发烧（热度：8201484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96%23" target="weibo">
 李克强同志遗体在京火化（热度：8084316）
 </a>
@@ -173,12 +179,6 @@ T1晋级S13总决赛（热度：7233927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%20BP%23" target="weibo">
 JDG BP（热度：5111821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%23" target="weibo">
-发烧（热度：4955128）
 </a>
 </li>
 
@@ -503,6 +503,12 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 吴艳妮说我真抢跑了又怎么了（热度：2810104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A7%E5%8F%98%E5%9B%9B%E5%A4%A7%23" target="weibo">
+五大变四大（热度：2809335）
 </a>
 </li>
 
@@ -5307,6 +5313,12 @@ S13四强已有三支LPL战队（热度：837933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%20%E8%BF%AA%E4%B8%BD%E5%A7%90%E7%BE%8E%E4%BA%86%E5%90%A7%23" target="weibo">
+胡先煦 迪丽姐美了吧（热度：823748）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%85%A5%E4%B8%80%E4%B8%8B%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
 代入一下关晓彤（热度：823473）
 </a>
@@ -5999,18 +6011,6 @@ T1半决赛先下一城（热度：768660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%20%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%23" target="weibo">
 与凤行 江苏卫视（热度：767466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%816%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95%23" target="weibo">
-湖北一医院贩卖出生证6人被批捕（热度：766967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie50%E4%BA%BF%E9%9F%A9%E5%85%83%E8%B4%AD%E5%85%A5%E9%AB%98%E6%A1%A3%E5%88%AB%E5%A2%85%23" target="weibo">
-Jennie50亿韩元购入高档别墅（热度：766664）
 </a>
 </li>
 

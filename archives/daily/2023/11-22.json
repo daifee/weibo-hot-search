@@ -1,14 +1,22 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700642178118,
+  "endTime": 1700644707654,
   "band_list": [
     {
-      "raw_hot": 4955128,
-      "num": 4955128,
+      "raw_hot": 8201484,
+      "num": 8201484,
       "word": "发烧",
       "onboard_time": 1700636252,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2809335,
+      "num": 2809335,
+      "word": "五大变四大",
+      "onboard_time": 1700643217,
+      "rank": 1,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 2468887,
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 823748,
+      "num": 823748,
+      "word": "胡先煦 迪丽姐美了吧",
+      "onboard_time": 1700642374,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 819574,
       "num": 819574,
       "word": "汪苏泷 让大雨全部落下那男的",
@@ -267,6 +283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 687463,
+      "num": 687463,
+      "word": "时尚COSMO停刊",
+      "onboard_time": 1700643459,
+      "rank": 5,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 652869,
       "num": 652869,
       "word": "名侦探学院7官宣定档",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 594184,
-      "num": 250912,
+      "num": 302859,
       "word": "第一次对淀粉肠失去兴趣",
       "onboard_time": 1700639076,
       "rank": 20,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553949,
+      "num": 448569,
+      "word": "杨紫斜刘海黑框眼镜",
+      "onboard_time": 1700644119,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551071,
       "num": 551071,
       "word": "孙兴慜跑向中国球迷看台庆祝",
@@ -385,6 +417,14 @@
       "onboard_time": 1700575182,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 534292,
+      "num": 534292,
+      "word": "女童光身子街头大哭老板娘一把抱回",
+      "onboard_time": 1700640395,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532886,
@@ -515,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446273,
+      "num": 446273,
+      "word": "胸位高显胖",
+      "onboard_time": 1700643640,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 442900,
       "num": 442900,
       "word": "巴西vs阿根廷",
@@ -571,6 +619,14 @@
       "category": "演出,互联网"
     },
     {
+      "raw_hot": 398282,
+      "num": 398282,
+      "word": "即刻生效",
+      "onboard_time": 1700643760,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 398124,
       "num": 398124,
       "word": "腹膜外剖腹产",
@@ -619,14 +675,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 380905,
-      "num": 380905,
-      "word": "女童光身子街头大哭老板娘一把抱回",
-      "onboard_time": 1700640395,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380023,
       "num": 380023,
       "word": "孙燕姿 开始懂了",
@@ -659,6 +707,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 371154,
+      "num": 371154,
+      "word": "与凤行上星",
+      "onboard_time": 1700642195,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 369463,
+      "num": 369463,
+      "word": "女童被安排收拾全班餐具20天遭开除",
+      "onboard_time": 1700642974,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365907,
       "num": 365907,
       "word": "上海迪士尼疯狂动物城园区获证",
@@ -675,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358072,
+      "num": 358072,
+      "word": "妈妈说妆可以再浓一点",
+      "onboard_time": 1700643820,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 353086,
       "num": 353086,
       "word": "杨幂王子奇同框",
@@ -689,6 +761,14 @@
       "onboard_time": 1700551356,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 342177,
+      "num": 342177,
+      "word": "开心消消乐 崩了",
+      "onboard_time": 1700643703,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 342145,
@@ -747,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304019,
+      "num": 304019,
+      "word": "田嘉瑞身上痒就去洗澡",
+      "onboard_time": 1700642015,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302946,
       "num": 302946,
       "word": "RIIZE删除洪胜汉物料",
@@ -787,6 +875,14 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 292199,
+      "num": 292199,
+      "word": "老刘 黛玉焚稿",
+      "onboard_time": 1700644059,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291289,
       "num": 291289,
       "word": "被正式确诊为脆皮打工人",
@@ -801,6 +897,22 @@
       "onboard_time": 1700609365,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289267,
+      "num": 289267,
+      "word": "发烧是免疫系统杀疯了",
+      "onboard_time": 1700644362,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 283564,
+      "num": 283564,
+      "word": "TheShy 明年不会退役",
+      "onboard_time": 1700642857,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 283156,
@@ -1155,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196471,
+      "num": 196471,
+      "word": "波司登去年广告宣传等费用达61亿元",
+      "onboard_time": 1700642556,
+      "rank": 31,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 196132,
       "num": 196132,
       "word": "A股",
@@ -1265,6 +1385,14 @@
       "onboard_time": 1700627619,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184418,
+      "num": 184418,
+      "word": "郑希怡 恋爱与工作要分清",
+      "onboard_time": 1700642918,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 184375,
@@ -1419,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158475,
+      "num": 158475,
+      "word": "黄子弘凡 捕梦网接住哈",
+      "onboard_time": 1700643459,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158218,
       "num": 158218,
       "word": "美依礼芽新歌铃兰",
@@ -1505,6 +1641,14 @@
       "onboard_time": 1700608645,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138682,
+      "num": 138682,
+      "word": "赶论文睡着了额头按在了退格键上",
+      "onboard_time": 1700642857,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 138458,
@@ -1731,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109892,
+      "num": 109892,
+      "word": "WBG两周年",
+      "onboard_time": 1700643158,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107777,
       "num": 161477,
       "word": "赵露思珠帘玉幕发型",
@@ -1923,8 +2075,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68329,
-      "num": 1159752,
+      "raw_hot": 69133,
+      "num": 1698647,
       "word": "中欧班列行驶总里程超7亿公里",
       "onboard_time": 1700639015,
       "rank": 2,
